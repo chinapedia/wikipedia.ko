@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [OGC 니스](https://ko.wikipedia.org/wiki/OGC_니스).
 
 
-**올랭피크 짐나스트 클뢰브 드 니스 코트다쥐르**(Olympique Gymnaste Club Nice Côte d'Azur)는 [니스를](../Page/니스_\(프랑스\).md "wikilink") 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 1904년에 창단되었으며, 현재 프랑스 최상위 리그인 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가중이다. 니스의 홈 경기는 [알리안츠 리비에라에서](../Page/알리안츠_리비에라.md "wikilink") 치르고 있다.
+**올랭피크 짐나스트 클뢰브 드 니스 코트다쥐르**()는 [니스를](../Page/니스_\(프랑스\).md "wikilink") 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 또한 OGC 니스는 1904년에 창단되었으며, 현재 프랑스 최상위 리그인 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가중이다. 니스의 홈 경기는 [알리안츠 리비에라에서](../Page/알리안츠_리비에라.md "wikilink") 치르고 있다.
 
-니스는 *짐나스트 클뢰브 드 니스*(Gymnaste Club de Nice)라는 이름으로 창단됐고 프랑스 1부 리그의 창단 멤버이기도 하다. [리그 1을](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 4 차례, [쿠프 드 프랑스를](../Page/쿠프_드_프랑스.md "wikilink") 3 차례 우승한 바 있다. 니스는 [뉘마 앙두아르](https://ko.wikipedia.org/wiki/뉘마_앙두아르 "wikilink"), 잉글랜드인 [윌리엄 베리](https://ko.wikipedia.org/wiki/빌_베리 "wikilink"), [장 루시아노등의](https://ko.wikipedia.org/wiki/장_루시아노 "wikilink") 감독이 이끌던 1950년대에 대다수 우승을 거머줬다. 니스의 마지막 우승 경험은 [갱강을](../Page/EA_갱강.md "wikilink") 결승전에서 승부차기로 4-3으로 꺾고 우승한 1997년의 쿠프 드 프랑스이다.
+니스는 *짐나스트 클뢰브 드 니스*(Gymnaste Club de Nice)라는 이름으로 창단됐고, 프랑스 1부 리그의 창단 멤버이기도 하다. 도힐 [리그 1을](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 4차례, [쿠프 드 프랑스를](../Page/쿠프_드_프랑스.md "wikilink") 3차례 우승한 바 있다. 그리고 니스는 [뉘마 앙두아르](https://ko.wikipedia.org/wiki/뉘마_앙두아르 "wikilink"), 잉글랜드인 [윌리엄 베리](https://ko.wikipedia.org/wiki/빌_베리 "wikilink"), [장 루시아노등의](https://ko.wikipedia.org/wiki/장_루시아노 "wikilink") 감독이 이끌던 1950년대에 대다수 우승을 거머줬다. 니스의 마지막 우승 경험은 [갱강을](../Page/EA_갱강.md "wikilink") 결승전에서 승부차기로 4 - 3으로 꺾고 우승한 1997년의 쿠프 드 프랑스이다.
 
 최고 전성기 기간인 1950년대에 니스는 외국의 선수를 받아들인 최초의 프랑스 클럽에 속한다.
 

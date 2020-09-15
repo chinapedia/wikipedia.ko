@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Nightmare City](https://ko.wikipedia.org/wiki/Nightmare_City).
 
 
-《**Nightmare City**》는 미야()가 개인 웹사이트 〈[Clairvoyance](http://www.miyasuke.net//)〉 (클레보얀스)에서 제작한 [플래시 애니메이션](https://ko.wikipedia.org/wiki/플래시_애니메이션 "wikilink") 작품이다. 이 웹사이트에서 공개되고 있다.
+《**Nightmare City**》는 미야()가 개인 웹사이트 〈[Clairvoyance](https://web.archive.org/web/20080523205806/http://www.miyasuke.net/)〉 (클레보얀스)에서 제작한 [플래시 애니메이션](https://ko.wikipedia.org/wiki/플래시_애니메이션 "wikilink") 작품이다. 이 웹사이트에서 공개되고 있다.
 
 ## 개요
 
@@ -39,6 +39,6 @@
   - [Nightmare City -Catastrophe-](https://web.archive.org/web/20140226153219/http://www.miyasuke.net/flash/nc_catastrophe.html)
   - [Nightmare City (International version)](http://web.archive.org/clairvoyance.game-server.cc/nightmare_eng.html) - 전편의 영어판 (공식적으로 공개는 종료)
   - [miyasuke.net](https://web.archive.org/web/20131029144524/http://www.miyasuke.net/)
-  - [쓰레기의 신](http://www.miyasuke.net/flash/garakuta.html) - 미야의 또다른 작품, Nightmare City -Garakutanokamisama-의 원작
+  - [쓰레기의 신](https://web.archive.org/web/20130617220916/http://www.miyasuke.net/flash/garakuta.html) - 미야의 또다른 작품, Nightmare City -Garakutanokamisama-의 원작
 
 [분류:플래시 애니메이션](https://ko.wikipedia.org/wiki/분류:플래시_애니메이션 "wikilink")

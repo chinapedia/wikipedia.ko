@@ -15,6 +15,8 @@
 
 ## 기네스북
 
+1999년 3월 남해안에 침투하다 격침된 북한 [반잠수정](https://ko.wikipedia.org/wiki/반잠수정 "wikilink")을 건져올렸다. 반잠수정이 가라앉은 곳의 수심은 150m에 달했고, 역사상 가장 깊은 수심에서의 인양기록으로 기네스북에 올랐다.\[1\]
+
 ## 구미함
 
 1993년 300명 정도 사망한 [서해 훼리호는](https://ko.wikipedia.org/wiki/서해_훼리호 "wikilink") 미국에서 중고로 수입한 [구미함](https://ko.wikipedia.org/wiki/구미함 "wikilink")이 구난하였다. 2014년 300명 정도 사망, 실종된 [세월호](../Page/세월호.md "wikilink")에는 구미함의 후속함이자 한국 최초 국산 잠수함 구난함인 [청해진함](https://ko.wikipedia.org/wiki/청해진함 "wikilink")이 투입되었다. 청해진함은 당초 수척이 건조될 계획이었으나, [IMF 사태](https://ko.wikipedia.org/wiki/IMF_사태 "wikilink") 등으로 인해 축소되어 1척만 건조되었고, [세월호 침몰 사고](../Page/세월호_침몰_사고.md "wikilink") 당시 수리중이라서 투입하지 못한다는 보도가 있기도 했으나, 긴급 투입되었다.
@@ -24,6 +26,8 @@
   - [다이빙 헬멧](../Page/다이빙_헬멧.md "wikilink")
   - [심해구조잠수정](https://ko.wikipedia.org/wiki/심해구조잠수정 "wikilink")
 
+## 각주
+
 ## 외부 링크
 
   - [대한민국 해군 군사자료실](http://www.navy.mil.kr/sub_guide/pds_before/weapon/ars.jsp)
@@ -31,3 +35,5 @@
   - [GlobalSecurity.org](http://www.globalsecurity.org/military/world/rok/asr-21.htm)
 
 [분류:대한민국의 구난함](https://ko.wikipedia.org/wiki/분류:대한민국의_구난함 "wikilink") [분류:1995년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1995년_진수된_선박 "wikilink")
+
+1.

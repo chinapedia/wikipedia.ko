@@ -19,8 +19,10 @@
 
 ## 곡 목록
 
-## 참고 문헌
+## 각주
+
+## 외부 링크
 
   - [죽기 전에 꼭 들어야 할 앨범 1001 "Pet Sounds"](https://terms.naver.com/entry.nhn?docId=874337&cid=42599&categoryId=42599)
 
-[분류:1966년 음반](https://ko.wikipedia.org/wiki/분류:1966년_음반 "wikilink") [분류:비치 보이스의 음반](https://ko.wikipedia.org/wiki/분류:비치_보이스의_음반 "wikilink") [분류:1960년대 반문화](https://ko.wikipedia.org/wiki/분류:1960년대_반문화 "wikilink")
+[분류:1966년 음반](https://ko.wikipedia.org/wiki/분류:1966년_음반 "wikilink") [분류:비치 보이스의 음반](https://ko.wikipedia.org/wiki/분류:비치_보이스의_음반 "wikilink") [분류:캐피틀 레코드 음반](https://ko.wikipedia.org/wiki/분류:캐피틀_레코드_음반 "wikilink") [분류:1960년대 반문화](https://ko.wikipedia.org/wiki/분류:1960년대_반문화 "wikilink")

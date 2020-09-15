@@ -230,7 +230,7 @@ SD 카드에 내장된 디지털 권리 관리 규격은 [4C 엔티티에](https
   - [SD/SDIO 운영 체제 독립 버스 드라이버](https://web.archive.org/web/20080211220325/http://www.embwise.com/Sdiow.htm)
   - [얼마나 많은 사진을 플래시 카드에 넣을 수 있는가?](https://web.archive.org/web/20070621224914/http://www.crucial.com/library/guides/flash/page02.asp)
   - [모든 메모리 카드를 실용적으로 비교](http://www.hjreggel.net/cardspeed/index.html#special-sd.html)
-  - [MMC 사용법](http://elm-chan.org/docs/mmc/mmc_e.html)
+  - [MMC 사용법](https://web.archive.org/web/20140209151124/http://elm-chan.org/docs/mmc/mmc_e.html)
 
 [분류:기억 장치](https://ko.wikipedia.org/wiki/분류:기억_장치 "wikilink")
 

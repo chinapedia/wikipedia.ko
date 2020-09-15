@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MQ-1C 그레이 이글](https://ko.wikipedia.org/wiki/MQ-1C_그레이_이글).
 
 
-**MQ-1C 그레이 이글**(General Atomics MQ-1C Grey eagle)는 [미국 육군이](../Page/미국_육군.md "wikilink") [MQ-5 헌터](../Page/MQ-5_헌터.md "wikilink") 무인기를 대체하기 위해서 도입하게 된 [MQ-1 프레데터](../Page/MQ-1_프레데터.md "wikilink") 무인기의 개량형 무인기이며, Extended-Range Multi-Purpose (ERMP) 계획으로 미육군의 지원 하에 제네럴 아토믹스가 개발하였다.
+**MQ-1C 그레이 이글**(General Atomics MQ-1C Grey eagle)은 [미국 육군이](../Page/미국_육군.md "wikilink") [MQ-5 헌터](../Page/MQ-5_헌터.md "wikilink") 무인기를 대체하기 위해서 도입하게 된 [MQ-1 프레데터](../Page/MQ-1_프레데터.md "wikilink") 무인기의 개량형 무인기이며, Extended-Range Multi-Purpose (ERMP) 계획으로 미육군의 지원 하에 제네럴 아토믹스가 개발하였다.
 
 ## 개발
 
@@ -75,8 +75,6 @@
   - [MQ-1C on vectorsite.net which is declared in public domain by its author](http://www.vectorsite.net/twuav_13.html#m4)
 
 [분류:미국의 무인 항공기](https://ko.wikipedia.org/wiki/분류:미국의_무인_항공기 "wikilink") [분류:2004년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:2004년_첫_비행한_항공기 "wikilink") [분류:저익기](https://ko.wikipedia.org/wiki/분류:저익기 "wikilink")
-
-[de:MQ-1C Warrior](https://ko.wikipedia.org/wiki/de:MQ-1C_Warrior "wikilink")
 
 1.  url=<http://www.strategypage.com/htmw/htairfo/articles/20080616.aspx>
 2.  한미, 무인공격기 배치 추진, 내일신문, 2016-01-27

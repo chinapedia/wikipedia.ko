@@ -58,7 +58,7 @@
 
   - [스트라니에리 뉴스](https://web.archive.org/web/20160110024600/http://stranierinews.com/)
 
-  - [리가 I 순위, 일정과 기록](http://www.livegoals.com/livegoals/index.php?menu=1&country=21)
+  - [리가 I 순위, 일정과 기록](https://web.archive.org/web/20080511233922/http://www.livegoals.com/livegoals/index.php?menu=1&country=21)
 
 ## 참고
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC 암카르 페름](https://ko.wikipedia.org/wiki/FC_암카르_페름).
 
 
-**FC 암카르 페름**()은 [러시아](../Page/러시아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1994년](../Page/1994년.md "wikilink")에 창단되었다. 연고지는 [페름](../Page/페름.md "wikilink")으로 아시아 지역에 위치한 [FC 톰 톰스크와](../Page/FC_톰_톰스크.md "wikilink") [FC 루취 에네르기야 블라디보스토크를](https://ko.wikipedia.org/wiki/FC_루취_에네르기야_블라디보스토크 "wikilink") 제외하고 유럽의 최상위 리그에서 활동하는 팀 가운데 유럽에서 가장 동쪽에 위치한 클럽이다.
+**FC 암카르 페름**()은 [러시아](../Page/러시아.md "wikilink")의 옛 [축구](../Page/축구.md "wikilink") 클럽으로 [1994년](../Page/1994년.md "wikilink")에 창단되었다. 연고지는 [페름](../Page/페름.md "wikilink")으로 아시아 지역에 위치한 [FC 톰 톰스크와](../Page/FC_톰_톰스크.md "wikilink") [FC 루취 에네르기야 블라디보스토크를](https://ko.wikipedia.org/wiki/FC_루취_에네르기야_블라디보스토크 "wikilink") 제외하고 유럽의 최상위 리그에서 활동하는 팀 가운데 유럽에서 가장 동쪽에 위치한 클럽이다.
 
 ## 역사
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FROG-7](https://ko.wikipedia.org/wiki/FROG-7).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Luna_m_frog_7_hameenlinna_2.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Luna_m_frog_7_hameenlinna_3.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Luna_m_frog_7_hameenlinna_4.jpg "wikilink") **FROG-7**또는 **9K52 Luna-M**()은 소련의 프로그 계열의 고체연료형, 비유도식, 단거리 포병 로켓의 마지막 버전이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Luna_m_frog_7_hameenlinna_2.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Luna_m_frog_7_hameenlinna_3.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Luna_m_frog_7_hameenlinna_4.jpg "wikilink") **FROG-7**또는 **9K52 Luna-M**()은 [소련](../Page/소련.md "wikilink")의 프로그 계열의 고체연료형, 비유도식, 단거리 포병 로켓의 마지막 버전이다.
 
 ## 역사
 
@@ -82,7 +82,7 @@ FROG는 [나토](https://ko.wikipedia.org/wiki/나토 "wikilink")가 이름붙�
   - <http://fas.org/man/dod-101/sys/missile/row/frog-7.htm>
   - <http://www.army.mil/cmh-pg/books/www/284a.htm>
 
-[분류:조선민주주의인민공화국의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:조선민주주의인민공화국의_지대지유도탄 "wikilink") [분류:북핵문제](https://ko.wikipedia.org/wiki/분류:북핵문제 "wikilink")
+[분류:소련의 핵무기](https://ko.wikipedia.org/wiki/분류:소련의_핵무기 "wikilink") [분류:조선민주주의인민공화국의 핵무기](https://ko.wikipedia.org/wiki/분류:조선민주주의인민공화국의_핵무기 "wikilink") [분류:조선민주주의인민공화국의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:조선민주주의인민공화국의_지대지유도탄 "wikilink") [분류:북핵문제](https://ko.wikipedia.org/wiki/분류:북핵문제 "wikilink")
 
 1.  Cordesman, Anthony: *Iraq and the War of Sanctions*. Greenwood Publishing Group, 1999. Page 453. ISBN 027596528
 2.  (http://news.naver.com/main/read.nhn?mode=LSD\&mid=sec\&sid1=100\&oid=079\&aid=0000097321 '로켓박사'가 말하는 북한 로켓의 모든 것) 노컷뉴스 2006-07-06

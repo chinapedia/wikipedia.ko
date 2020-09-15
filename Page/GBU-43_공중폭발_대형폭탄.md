@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MOAB_bomb.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:MOABAFAM.JPG "wikilink")
 
-**GBU-43 공중폭발대형폭탄**(GBU-43/B Massive Ordnance Air Blast bomb)은 약자를 다르게 풀이하여 **MOAB**(Mother Of All Bombs, '모든 폭탄의 어머니')라고도 불린다. 발표당시 전 세계에서 비핵무기로는 폭발력이 가장 큰 폭탄이었다. 미국의 에글린 공군기지 공군연구소에서 Albert L. Weimorts Jr가 개발했다. 이 폭탄은 탁 트인 지역에서 부대들과 탱크들을 대상으로 사용하면 효과가 가장 크다고 알려졌으며,\[1\] 반지름 500m 안을 일시에 무산소 상태로 만들어 모든 생물을 죽인다고 한다.
+**GBU-43 공중폭발대형폭탄**()은 약자를 다르게 풀이하여 **MOAB**(, 모든 폭탄의 어머니)라고도 불린다. 발표당시 전 세계에서 비핵무기로는 폭발력이 가장 큰 폭탄이었다. 미국의 에글린 공군기지 공군연구소에서 Albert L. Weimorts Jr가 개발했다. 이 폭탄은 탁 트인 지역에서 부대들과 탱크들을 대상으로 사용하면 효과가 가장 크다고 알려졌으며,\[1\] 반지름 500m 안을 일시에 무산소 상태로 만들어 모든 생물을 죽인다고 한다.
 
 ## 개발
 
@@ -15,7 +15,7 @@
 
 모압의 화력은 베트남 전에 최초로 사용되었고 지난 2001년 아프가니스탄 전쟁 때도 사용된 ‘[데이지 커터](https://ko.wikipedia.org/wiki/데이지_커터 "wikilink")(Daisy Cutter)’보다 약40%나 향상된 것이며, [C-130](https://ko.wikipedia.org/wiki/C-130 "wikilink") 수송기에서 지구정지위성과 위치파악시스템([GPS](../Page/GPS.md "wikilink"))에 의해 정밀 유도돼 투하됐다. 예상대로 [핵폭탄](https://ko.wikipedia.org/wiki/핵폭탄 "wikilink")처럼 거대한 흰 [버섯 구름을](https://ko.wikipedia.org/wiki/버섯_구름 "wikilink") 형성하며 발사장 기지 상공에서 터졌다. 몇초 후 천둥소리와 같은 엄청난 폭발음이 투하지점 48 km 밖에까지 퍼져나갔다. 낙하시 암모늄 질산염 등 가연성 분무가 공기와 결합, 폭발하면서 550m<sup>2</sup>상공을 순식간에 발화시켜 버리는 광풍을 동반했다.\[4\]
 
-[아프가니스탄전](https://ko.wikipedia.org/wiki/아프가니스탄전 "wikilink")에서 사용된 데이지 커터 최신형은 [C-130](https://ko.wikipedia.org/wiki/C-130 "wikilink") 수송기에서 투하되면 지상 3m 위에서 공기와 결합하면서 폭발,직경 500m 이내의 지역을 무산소 상태로 만드는 위력을 지녔다. 데이지 커터는 폭탄 속에 들어 있는 [암모늄 질산염이](https://ko.wikipedia.org/wiki/암모늄_질산염 "wikilink") 공기와 결합, 폭발하면서 반경 550m를 무산소 상태로 만들어 초토화시키는 무기다.\[5\] 미군은 사담 후세인 이라크 대통령이 1991년 걸프전이 ‘모든 전쟁의 어머니(mother of all battles)’가 될 것이라고 언급한 것에 빗대어 이 폭탄을 ‘모든 폭탄의 어머니(mother of all bombs.MOAB)’라고 부르고 있다.\[6\]
+[아프가니스탄 전쟁에서](../Page/아프가니스탄_전쟁_\(2001년~현재\).md "wikilink") 사용된 데이지 커터 최신형은 [C-130](https://ko.wikipedia.org/wiki/C-130 "wikilink") 수송기에서 투하되면 지상 3m 위에서 공기와 결합하면서 폭발,직경 500m 이내의 지역을 무산소 상태로 만드는 위력을 지녔다. 데이지 커터는 폭탄 속에 들어 있는 [암모늄 질산염이](https://ko.wikipedia.org/wiki/암모늄_질산염 "wikilink") 공기와 결합, 폭발하면서 반경 550m를 무산소 상태로 만들어 초토화시키는 무기다.\[5\] 미군은 사담 후세인 이라크 대통령이 1991년 걸프전이 ‘모든 전쟁의 어머니(mother of all battles)’가 될 것이라고 언급한 것에 빗대어 이 폭탄을 ‘모든 폭탄의 어머니(mother of all bombs.MOAB)’라고 부르고 있다.\[6\]
 
 ## 제원
 

@@ -48,6 +48,7 @@
   - [겐지 이야기 천년기 Genji](../Page/겐지_이야기_천년기_Genji.md "wikilink")
   - [쿄고쿠 나츠히코 항간에 떠도는 100가지 이야기](../Page/항설백물어.md "wikilink")
   - [소닉 X](../Page/소닉_X.md "wikilink")
+  - [육신합체 갓마즈](https://ko.wikipedia.org/wiki/육신합체_갓마즈 "wikilink")
 
 ### 미국 애니메이션
 
@@ -81,6 +82,7 @@
   - Visionaries: Knights of the Magical Light
   - Wuzzles
   - [쾌걸 조로](../Page/쾌걸_조로_\(애니메이션\).md "wikilink")
+  - [마이티 오봇츠](https://ko.wikipedia.org/wiki/마이티_오봇츠 "wikilink")
 
 ## 외부 링크
 

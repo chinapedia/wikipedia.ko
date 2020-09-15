@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [FC 파수스드페헤이라](https://ko.wikipedia.org/wiki/FC_파수스드페헤이라).
 
 
-**FC 파수스드페헤이라**(Futebol Clube Paços de Ferreira, ([발음](https://ko.wikipedia.org/wiki/발음 "wikilink") ), 또는 일반적으로 **P.페헤이라**라고도 불리는 이 클럽은 [포르투갈](../Page/포르투갈.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 2007-08시즌 결과 15위를 기록하여 2부리그인 [세군다리가](https://ko.wikipedia.org/wiki/세군다리가 "wikilink")로 강등되어 2008-09부터 2부리그에서 플레이하게 되어 있었으나 [보아비스타 FC가](../Page/보아비스타_FC.md "wikilink") 뇌물 수수 사건으로 인하여 강등되면서 강등을 피하여 1부 리그에 잔류하게 되었다.
+**FC 파수스드페헤이라**(Futebol Clube Paços de Ferreira, ([발음](https://ko.wikipedia.org/wiki/발음 "wikilink") ), 또는 일반적으로 **P.페헤이라**라고도 불리는 이 클럽은 [포르투갈](../Page/포르투갈.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 2007-08시즌 결과 15위를 기록하여 2부리그인 [세군다리가](../Page/세군다리가.md "wikilink")로 강등되어 2008-09부터 2부리그에서 플레이하게 되어 있었으나 [보아비스타 FC가](../Page/보아비스타_FC.md "wikilink") 뇌물 수수 사건으로 인하여 강등되면서 강등을 피하여 1부 리그에 잔류하게 되었다.
 
-파수스 페헤이라는 1부리그 우승 기록은 없고 2부리그인 [세군다리가](https://ko.wikipedia.org/wiki/세군다리가 "wikilink") 우승만 세번 기록하고 있다. 2008-09시즌엔 [포르투갈 컵](https://ko.wikipedia.org/wiki/포르투갈_컵 "wikilink") 준우승을 차지하였다.
+파수스 페헤이라는 1부리그 우승 기록은 없고 2부리그인 [세군다리가](../Page/세군다리가.md "wikilink") 우승만 세번 기록하고 있다. 2008-09시즌엔 [포르투갈 컵](https://ko.wikipedia.org/wiki/포르투갈_컵 "wikilink") 준우승을 차지하였다.
 
 ## 역사
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - **[세군다리가](https://ko.wikipedia.org/wiki/세군다리가 "wikilink")** (2부리그)
+  - **[세군다리가](../Page/세군다리가.md "wikilink")** (2부리그)
 
 <!-- end list -->
 

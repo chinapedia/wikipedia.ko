@@ -7,7 +7,7 @@
 
 ### 월계축구회 결성
 
-충주 험멜은 [1974년](../Page/1974년.md "wikilink") 5월 [서울특별시](../Page/서울특별시.md "wikilink") [노원구](../Page/노원구.md "wikilink") [월계동의](../Page/월계동_\(서울\).md "wikilink") 청년 20여명이 모여 결성한 월계축구회가 모체이다.\[1\] 월계축구회는 [하석주](../Page/하석주.md "wikilink"), [이재철](https://ko.wikipedia.org/wiki/이재철 "wikilink"), [고병운](../Page/고병운.md "wikilink"), [이학종](https://ko.wikipedia.org/wiki/이학종 "wikilink") 등을 배출하며 아마추어 축구단으로서 이름을 알렸다. 실제로 [1978년](../Page/1978년.md "wikilink")부터 각종 클럽 대항전에 나가 수 많은 우승을 차지하였다. 뿐만 아니라 [이상재](https://ko.wikipedia.org/wiki/이상재_\(축구인\) "wikilink"), 최우영, 문성철, 최석호 등 개인 또는 가정 사정으로 인하여 프로 축구나 [실업 축구계에](../Page/내셔널리그_\(대한민국\).md "wikilink") 발을 들여놓지 못한 선수들이 소속되었던 팀이어서 축구판 '공포의 외인구단'으로 불리기도 하였다.\[2\]\[3\]
+충주 험멜은 [1974년](../Page/1974년.md "wikilink") 5월 [서울특별시](../Page/서울특별시.md "wikilink") [노원구](../Page/노원구.md "wikilink") [월계동의](../Page/월계동_\(서울\).md "wikilink") 청년 20여명이 모여 결성한 월계축구회가 모체이다.\[1\] 월계축구회는 [하석주](../Page/하석주.md "wikilink"), [이재철](https://ko.wikipedia.org/wiki/이재철 "wikilink"), [고병운](../Page/고병운.md "wikilink"), [이학종](../Page/이학종.md "wikilink") 등을 배출하며 아마추어 축구단으로서 이름을 알렸다. 실제로 [1978년](../Page/1978년.md "wikilink")부터 각종 클럽 대항전에 나가 수 많은 우승을 차지하였다. 뿐만 아니라 [이상재](https://ko.wikipedia.org/wiki/이상재_\(축구인\) "wikilink"), 최우영, 문성철, 최석호 등 개인 또는 가정 사정으로 인하여 프로 축구나 [실업 축구계에](../Page/내셔널리그_\(대한민국\).md "wikilink") 발을 들여놓지 못한 선수들이 소속되었던 팀이어서 축구판 '공포의 외인구단'으로 불리기도 하였다.\[2\]\[3\]
 
 ### 험멜 실업축구단 창단
 

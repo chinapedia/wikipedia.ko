@@ -17,7 +17,7 @@
 
 <div style="margin-left: 4em">
 
-사용 예: [틀:Babels-6//](https://ko.wikipedia.org/wiki/틀:Babels-6/{{{1}}} "wikilink")
+사용 예: [/](https://ko.wikipedia.org/wiki/위키백과:바벨/{{{1}}} "wikilink")
 
 <table>
 <tbody>

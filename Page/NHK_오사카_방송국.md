@@ -6,7 +6,7 @@
 ## 연혁
 
   - [1925년](../Page/1925년.md "wikilink") [2월](../Page/2월.md "wikilink") 사단법인 오사카 방송국 설립(다음 해 8월부터 사단법인 일본 방송협회 간사이 지부가 된다)
-  - [1925년](../Page/1925년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") [미쓰코시](https://ko.wikipedia.org/wiki/미쓰코시 "wikilink") 백화점 오사카점 옥상에서 [라디오 제1방송](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink") 방송 개시(다음 해 [12월](../Page/12월.md "wikilink")부터 [오사카시](../Page/오사카시.md "wikilink") [덴노지구](https://ko.wikipedia.org/wiki/덴노지구 "wikilink")에서 본방송 시작)
+  - [1925년](../Page/1925년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") [미쓰코시](https://ko.wikipedia.org/wiki/미쓰코시 "wikilink") 백화점 오사카점 옥상에서 [라디오 제1방송](https://ko.wikipedia.org/wiki/NHK_라디오제1방송 "wikilink") 방송 개시(다음 해 [12월](../Page/12월.md "wikilink")부터 [오사카시](../Page/오사카시.md "wikilink") [덴노지구](../Page/덴노지구.md "wikilink")에서 본방송 시작)
   - [1933년](../Page/1933년.md "wikilink") [6월](../Page/6월.md "wikilink") [라디오 제2방송](https://ko.wikipedia.org/wiki/NHK_라디오제2방송 "wikilink") 방송 개시
   - [1936년](../Page/1936년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink") 오사카 시 히가시구(현· [주오구 (오사카시)](../Page/주오구_\(오사카시\).md "wikilink")) 바바정에, 오사카 방송 회관 완공
   - [1951년](../Page/1951년.md "wikilink") [6월](../Page/6월.md "wikilink") 텔레비전 실험 방송 개시

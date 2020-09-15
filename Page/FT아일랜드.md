@@ -160,7 +160,7 @@
 <a href="https://www.youtube.com/watch?v=QPv-CwGNg70">FTISLAND <HEAVEN> (2nd Version)</a><br />
 </p></td>
 <td><p>《<a href="../Page/Colorful_Sensibility.md" title="wikilink">Colorful Sensibility</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a><br />
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -169,7 +169,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=2ihrwdXQae8">FTISLAND <나쁜 여자야></a><br />
 </p></td>
 <td><p>《Jump Up》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a><br />
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -188,7 +188,7 @@
 <a href="https://www.youtube.com/watch?v=rpo31tIYACM">FTISLAND &lt;러브레터 (FT.Triple)&gt;</a><br />
 </p></td>
 <td><p>《Double Date》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a><br />
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a><br />
 <a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
@@ -197,7 +197,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=kWIpynw5cHI">FTISLAND <사랑사랑사랑></a><br />
 </p></td>
 <td><p>《Beautiful Journey》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a><br />
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -233,7 +233,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=3x1gpjO-JYs">FTISLAND <좋겠어></a><br />
 </p></td>
 <td><p>《<a href="../Page/FIVE_TREASURE_BOX.md" title="wikilink">FIVE TREASURE BOX</a>》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a><br />
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -251,7 +251,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=ZxsxFnKzdUE">FTISLAND <미치도록></a><br />
 </p></td>
 <td><p>《THE MOOD》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a><br />
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -271,7 +271,7 @@
 </p></td>
 <td><p>《<a href="../Page/I_WILL_(FT_아일랜드의_음반).md" title="wikilink">I WILL</a>》</p></td>
 <td><p><a href="../Page/FNC_엔터테인먼트.md" title="wikilink">FNC 엔터테인먼트</a><br />
-<a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
+<a href="../Page/원더케이.md" title="wikilink">원더케이</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
@@ -279,7 +279,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=BXAqjBydvzk">FTISLAND <PUPPY></a><br />
 </p></td>
 <td><p>《PUPPY》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a><br />
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -288,7 +288,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=WsC0jG1M5jA">FTISLAND <Take Me Now></a><br />
 </p></td>
 <td><p>《FTISLAND 6th ALBUM `Where`s the truth?`》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a><br />
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -297,7 +297,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=aSyXgv_v3no">FTISLAND <사랑앓이> (with 김나영)</a><br />
 </p></td>
 <td><p>《FTISLAND 10th Anniversary Special Digital Single》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a><br />
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a><br />
 </p></td>
 </tr>
 <tr class="even">
@@ -306,7 +306,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=QhPOwcvhGSA">FTISLAND <Wind></a><br />
 </p></td>
 <td><p>《FTISLAND 10th Anniversary Album `OVER 10 YEARS`》</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a><br />
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -389,7 +389,7 @@
 <td><p>《<a href="../Page/뜨거운_안녕.md" title="wikilink">뜨거운 안녕</a>》OST</p></td>
 <td><p>《<a href="../Page/뜨거운_안녕.md" title="wikilink">뜨거운 안녕</a>》<br />
 * <a href="https://ko.wikipedia.org/wiki/이홍기" title="wikilink">이홍기</a> : 충의 役</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
@@ -398,7 +398,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=ieWMS8BRDqg">송은이, 송승현 <나이-키></a></p></td>
 <td><p>《나이-키》</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
@@ -408,7 +408,7 @@
 <td><p>《<a href="../Page/백년의_신부.md" title="wikilink">백년의 신부</a>》OST</p></td>
 <td><p>《<a href="../Page/백년의_신부.md" title="wikilink">백년의 신부</a>》<br />
 * <a href="https://ko.wikipedia.org/wiki/이홍기" title="wikilink">이홍기</a> : 최강주 役</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
@@ -488,7 +488,7 @@
 <td><p>2011년</p></td>
 <td><ul>
 <li>제20회 <a href="https://ko.wikipedia.org/wiki/서울가요대상" title="wikilink">서울가요대상</a> '본상' 수상</li>
-<li><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 특집방송 `아이돌스타 7080 가수왕`수상[5]</li>
+<li><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 특집방송 '아이돌스타 7080 가수왕' 수상[5]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -634,4 +634,4 @@
 2.
 3.
 4.
-5.  [\`아이돌스타 7080 가수왕\`](http://article.joinsmsn.com/news/article/article.asp?total_id=5012655&ctg=1502)
+5.

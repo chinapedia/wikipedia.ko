@@ -1,9 +1,16 @@
 > This article is converted from Wikipedia: [M24 SWS](https://ko.wikipedia.org/wiki/M24_SWS).
 
 
-**M24 SWS**()는 [볼트 액션식의](https://ko.wikipedia.org/wiki/볼트_액션 "wikilink") [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink")으로, [군대](../Page/군대.md "wikilink")와 [경찰](../Page/경찰.md "wikilink")판 [레밍턴 700이다](https://ko.wikipedia.org/wiki/레밍턴_700 "wikilink"). [M21의](https://ko.wikipedia.org/wiki/M21_저격총 "wikilink") 뒤를 이어 [1988년](../Page/1988년.md "wikilink"), [미육군과](../Page/미국_육군.md "wikilink") [이스라엘 방위군에](../Page/이스라엘_방위군.md "wikilink") 채용되었다. [미해병대는](../Page/미국_해병대.md "wikilink") 이미 [1960년대](../Page/1960년대.md "wikilink")부터 같은 레밍턴 M700을 기초로 한 [M40을](https://ko.wikipedia.org/wiki/M40_저격총 "wikilink") 표준 저격총으로서 쓰고 있다.
+**M24 SWS**()는 [볼트 액션식의](https://ko.wikipedia.org/wiki/볼트_액션 "wikilink") [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink")으로, [군대](../Page/군대.md "wikilink")와 [경찰](../Page/경찰.md "wikilink")판 [레밍턴 700이다](https://ko.wikipedia.org/wiki/레밍턴_700 "wikilink"). [M21의](https://ko.wikipedia.org/wiki/M21_저격총 "wikilink") 뒤를 이어 [1988년](../Page/1988년.md "wikilink"), [미육군과](../Page/미국_육군.md "wikilink") [이스라엘 방위군에](../Page/이스라엘_방위군.md "wikilink") 채용되었다. [미해병대는](../Page/미국_해병대.md "wikilink") 이미 [1960년대](../Page/1960년대.md "wikilink")부터 같은 [레밍턴 M700을](../Page/레밍턴_M700.md "wikilink") 기초로 한 [M40을](https://ko.wikipedia.org/wiki/M40_저격총 "wikilink") 표준 [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink")으로서 쓰고 있다.
 
-[개머리판](https://ko.wikipedia.org/wiki/개머리판 "wikilink")은 HS Precision형으로, 최대 2.7 인치 (69mm)까지 어깨받이를 조절할 수 있다. [조준경](https://ko.wikipedia.org/wiki/조준경 "wikilink")은 고정식 10 배율의 "10×42 레오포드 울트라 M3A (Mil-Dots)"를 사용하며, 때에 따라 탈착가능한 [기계식 조준기](https://ko.wikipedia.org/wiki/기계식_조준기 "wikilink")(레드필드 팔머 인터내셔널)로 대체할 수도 있다. [총열](https://ko.wikipedia.org/wiki/총열 "wikilink")은 11.2 인치(284 mm)에 1회, 5선, 프리-플로팅이다.
+[개머리판](https://ko.wikipedia.org/wiki/개머리판 "wikilink")은 HS Precision형으로, 최대 2.7 인치 (69mm)까지 어깨받이를 조절할 수 있다. [조준경](https://ko.wikipedia.org/wiki/조준경 "wikilink")은 [고정식 10 배율의 "10×42 레오포드 울트라 M3A](https://ko.wikipedia.org/wiki/고정식_10_배율의_"10×42_레오포드_울트라_M3A "wikilink") (Mil-Dots)"를 사용하며, 때에 따라 탈착가능한 [기계식 조준기](https://ko.wikipedia.org/wiki/기계식_조준기 "wikilink")(레드필드 팔머 인터내셔널)로 대체할 수도 있다. [총열](https://ko.wikipedia.org/wiki/총열 "wikilink")은 11.2 인치(284 mm)에 1회, 5선, 프리-플로팅이다.
+
+## 대중문화 속 M24 SWS
+
+  - [배틀그라운드](https://ko.wikipedia.org/wiki/배틀그라운드 "wikilink") 에서 M24 저격총이라고 불리고 (정식명칙은 [SR](https://ko.wikipedia.org/wiki/SR "wikilink")) 이름으로 쓰인다\]\]
+  - [로블록스](../Page/로블록스.md "wikilink") 에 있는 프리즌 라이프 게임에서 추가 예정인 [특수부대](../Page/특수부대.md "wikilink")
+
+팩에 있는 저격총이 M24 SWS 로 추정 된다.
 
 ## 파생형
 
@@ -16,6 +23,8 @@
 M24A2형은 [2006년](../Page/2006년.md "wikilink") [2월](../Page/2월.md "wikilink") 시험에 들어갔다.
 
 기존의 M24를 M24A2로 바꾸려면, 몸체를 교체하고 탄창급탄기구를 설치하고 리시버 상부에 MARS레일을 장착하면 된다.
+
+더보기 : [레밍턴 m700](https://ko.wikipedia.org/wiki/레밍턴_m700 "wikilink")
 
 ### M24A3
 

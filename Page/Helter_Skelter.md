@@ -53,7 +53,7 @@
   - [링고 스타](../Page/링고_스타.md "wikilink") – 드럼, 카우벨, 고함 소리
   - [말 에번스](https://ko.wikipedia.org/wiki/말_에번스 "wikilink") – 트럼펫
 
-[마크 루이슨](https://ko.wikipedia.org/wiki/마크_루이슨 "wikilink") 과 [알란 W. 폴락](https://ko.wikipedia.org/wiki/알란_W._폴락 "wikilink") 인원
+[마크 루이슨](https://ko.wikipedia.org/wiki/마크_루이슨 "wikilink")과 [알란 W. 폴락](https://ko.wikipedia.org/wiki/알란_W._폴락 "wikilink") 인원
 
 ## 각주
 

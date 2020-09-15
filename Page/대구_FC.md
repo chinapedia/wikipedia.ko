@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [대구 FC](https://ko.wikipedia.org/wiki/대구_FC).
 
 
-**대구 FC**(, *대구 시민프로축구단*)는 [대구광역시](../Page/대구광역시.md "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink")단이다. [2002년](../Page/2002년.md "wikilink")에 [대한민국](../Page/대한민국.md "wikilink") 프로축구 역사상 최초로 시민구단 형태로 창단되었다. 즉 법적으로는 [주식회사](../Page/주식회사.md "wikilink")이며, 시민들이 다수의 [주주](../Page/주주.md "wikilink")로 참여하고 있다. 현재 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")에 소속되어 있으며 [조광래](../Page/조광래.md "wikilink") 전직 [대한민국 축구 국가대표팀](../Page/대한민국_축구_국가대표팀.md "wikilink") 감독이 사장 겸 단장을 맡고 있다.
+**대구 FC**(, 대구 시민프로축구단)는 [대구광역시](../Page/대구광역시.md "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink")단이다. [2002년](../Page/2002년.md "wikilink")에 [대한민국](../Page/대한민국.md "wikilink") 프로축구 역사상 최초로 시민구단 형태로 창단되었다. 즉 법적으로는 [주식회사](../Page/주식회사.md "wikilink")이며, 시민들이 다수의 [주주](../Page/주주.md "wikilink")로 참여하고 있다. 현재 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")에 소속되어 있으며 [조광래](../Page/조광래.md "wikilink") 전직 [대한민국 축구 국가대표팀](../Page/대한민국_축구_국가대표팀.md "wikilink") 감독이 사장 겸 단장을 맡고 있다.
 
 ## 역사
 
@@ -49,7 +49,7 @@
 
 이후 지도력을 인정받은 손현준은 정식 감독으로 승진하였다.\[16\]
 
-2017년 5월 손현준 감독이 성적 부진으로 감독직에서 사임하자 [안드레](../Page/안드리_루이스_아우베스_산투스.md "wikilink") 코치가 감독 대행을 맡았다.\[17\] 안드레는 특유의 지도력을 바탕으로 대구의 상승세를 이끌었고, [10월 28일](../Page/10월_28일.md "wikilink") [포항 스틸러스전에서](../Page/포항_스틸러스.md "wikilink") 2:1 승리를 거두며 K리그 클래식 잔류를 이끌었다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Daegufc2018.png "wikilink") 2017년 5월 손현준 감독이 성적 부진으로 감독직에서 사임하자 [안드레](../Page/안드리_루이스_아우베스_산투스.md "wikilink") 코치가 감독 대행을 맡았다.\[17\] 안드레는 특유의 지도력을 바탕으로 대구의 상승세를 이끌었고, [10월 28일](../Page/10월_28일.md "wikilink") [포항 스틸러스전에서](../Page/포항_스틸러스.md "wikilink") 2:1 승리를 거두며 K리그 클래식 잔류를 이끌었다.
 
 지도력을 인정받은 안드레 코치는 감독으로 승격되어 2018년부터 대구를 이끌게 되었다.\[18\]
 
@@ -57,7 +57,7 @@
 
 2019년에는 시즌을 앞두고 [DGB대구은행파크](../Page/DGB대구은행파크.md "wikilink")가 개장하자, 홈 구장을 [DGB대구은행파크](../Page/DGB대구은행파크.md "wikilink")로 이전했다. 이에 따라 [대구시민운동장](../Page/대구시민운동장.md "wikilink")은 제2 홈구장에서 메인 홈구장으로 승격됐다.
 
-2019년 현재는 [조현우](../Page/조현우.md "wikilink") 효과, 신축 축구전용구장인 [DGB대구은행파크](../Page/DGB대구은행파크.md "wikilink")가 가져온 효과에 [삼성 라이온즈의](../Page/삼성_라이온즈.md "wikilink") 부진으로 인한 반사이익이 더해지자 전년 대비 4배 넘게 관중 수가 증가해 2019 K리그 명실상부 최고의 인기 구단으로 떠오르는 중이다. 이로 인해 대구는 야구의 도시에서 **축구 특별시**로 불과 1년 만에 탈바꿈하였다. 여기에는 [조광래](../Page/조광래.md "wikilink") 대표이사의 힘도 크게 작용한다.
+2019년 현재는 [조현우](../Page/조현우.md "wikilink") 효과, 신축 축구전용구장인 [DGB대구은행파크](../Page/DGB대구은행파크.md "wikilink")가 가져온 효과에 [삼성 라이온즈의](../Page/삼성_라이온즈.md "wikilink") 부진으로 인한 반사이익이 더해지자 전년 대비 4배 넘게 관중 수가 증가해 2019 K리그 명실상부 최고의 인기 구단으로 떠오르는 중이다. 이로 인해 대구는 야구의 도시에서 **축구 특별시**로 불과 1년 만에 탈바꿈하였다. 여기에는 [조광래](../Page/조광래.md "wikilink") 대표이사의 힘도 크게 작용한다. 결국 대구 FC는 창단 첫 상위 스플릿 진출로 성공적인 시즌을 보냈다. 팀의 주축인 [세징야와](../Page/세자르_페르난두_시우바_멜로.md "wikilink") [조현우](../Page/조현우.md "wikilink")는 K리그1 베스트 11에 선정되었다.
 
 ## 경기장
 
@@ -72,10 +72,6 @@
 ### 영구 결번
 
 ### 역대 선수
-
-### 유니폼
-
-|  | |} |}
 
 ### U-18 (현풍고등학교) 명단
 
@@ -133,7 +129,7 @@
 </tr>
 <tr class="odd">
 <td><p>U-18 감독</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/백영철" title="wikilink">백영철</a></p></td>
+<td><p><a href="../Page/백영철.md" title="wikilink">백영철</a></p></td>
 </tr>
 <tr class="even">
 <td><p>U-18 코치</p></td>
@@ -404,7 +400,7 @@
 | 2017                                                            | [1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")         | 38                                                                                                                                                     | 11                                                                                                                                |
 | 2018                                                            | 38                                                         | 14                                                                                                                                                     | 8                                                                                                                                 |
 | 2019                                                            | 38                                                         | 13                                                                                                                                                     | 16                                                                                                                                |
-| 2020                                                            |                                                            |                                                                                                                                                        |                                                                                                                                   |
+| 2020                                                            | 12                                                         | 5                                                                                                                                                      | 4                                                                                                                                 |
 
 #### FA컵
 
@@ -428,7 +424,7 @@
 | [2017](../Page/FA컵_2017.md "wikilink")                    | –                                             | 32강전                                                         |
 | [2018](../Page/FA컵_2018.md "wikilink")                    | –                                             | 우승                                                           |
 | [2019](../Page/FA컵_2019.md "wikilink")                    | –                                             | 16강전                                                         |
-| [2020](https://ko.wikipedia.org/wiki/FA컵_2020 "wikilink") | –                                             |                                                              |
+| [2020](https://ko.wikipedia.org/wiki/FA컵_2020 "wikilink") | –                                             | 16강전                                                         |
 
 ## 스폰서
 

@@ -154,7 +154,7 @@
 
 동물들은 종종 이탈리아의 클럽들을 대표해왔다. 일 비시오네(Il biscione), 세르펜테(Serpente)라고 불리는 뱀이 인테르나치오날레를 대표한다. 이 뱀은 밀라노를 대표하는 중요한 상징으로 턱 안에 있는 사람과 함께 또아리를 틀고 있는 독사로 밀라노의 문장에 종종 나온다. 이 상징은 [스포르차 가문의](https://ko.wikipedia.org/wiki/스포르차_가문 "wikilink")([르네상스](../Page/르네상스.md "wikilink") 기간 동안 밀라노를 지배했던 가문) 군대의 옷, 역사적인 [밀라노 공국](../Page/밀라노_공국.md "wikilink")(400년 동안 [신성 로마 제국의](../Page/신성_로마_제국.md "wikilink") 주였다.), [인수부리아](https://ko.wikipedia.org/wiki/인수부리아 "wikilink")(밀라노에 속하는 역사적인 지역)에 있었기 때문에 유명하다. [세리에 A 2001-02](../Page/세리에_A_2001-02.md "wikilink") 시즌 홈 유니폼과 [세리에 A 2010-11](../Page/세리에_A_2010-11.md "wikilink") 시즌 어웨이 유니폼은 이 뱀을 특징으로 하였다.
 
-## 건축물
+## 시설
 
 ### 경기장
 
@@ -976,12 +976,12 @@
 **[유러피언 컵](https://ko.wikipedia.org/wiki/유러피언_컵 "wikilink")/[UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink")**:
 
   - **우승 (3회)**: [1963–64](https://ko.wikipedia.org/wiki/유러피언컵_1963-64 "wikilink"), [1964–65](https://ko.wikipedia.org/wiki/유러피언컵_1964-65 "wikilink"), [2009–10](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2009-10 "wikilink")
-  - **준우승 (2회)**: [1966–67](https://ko.wikipedia.org/wiki/유러피언컵_1966–67 "wikilink"), [1971–72](https://ko.wikipedia.org/wiki/유러피언컵_1971–72 "wikilink")
+  - **준우승 (2회)**: [1966–67](https://ko.wikipedia.org/wiki/유러피언컵_1966-67 "wikilink"), [1971–72](https://ko.wikipedia.org/wiki/유러피언컵_1971-72 "wikilink")
 
 **[UEFA 컵](https://ko.wikipedia.org/wiki/UEFA_컵 "wikilink")/[UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink")**:
 
   - **우승 (3회)**: [1990–91](../Page/1990-91년_UEFA컵.md "wikilink"), [1993–94](../Page/1993-94년_UEFA컵.md "wikilink"), [1997–98](../Page/1997-98년_UEFA컵.md "wikilink")
-  - **준우승 (1회)**: 1996–97
+  - **준우승 (2회)**: [1996–97](../Page/1996-97년_UEFA컵.md "wikilink"), [2019–20](../Page/2019-20년_UEFA_유로파리그.md "wikilink")
 
 ### 국제 대회 타이틀
 

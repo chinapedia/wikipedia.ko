@@ -63,4 +63,4 @@
   - [공식 웹사이트](https://web.archive.org/web/20071009153917/http://www.hapoelta-fc.co.il/)
   - [팬 포럼](http://www.shedim.com/)
 
-[하포엘_텔아비브_FC](https://ko.wikipedia.org/wiki/분류:하포엘_텔아비브_FC "wikilink") [분류:1923년 설립](https://ko.wikipedia.org/wiki/분류:1923년_설립 "wikilink") [분류:1923년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1923년_설립된_축구단 "wikilink") [분류:이스라엘의 축구단](https://ko.wikipedia.org/wiki/분류:이스라엘의_축구단 "wikilink") [분류:1967년 아시안 클럽 챔피언십 선수단](https://ko.wikipedia.org/wiki/분류:1967년_아시안_클럽_챔피언십_선수단 "wikilink")
+[하포엘_텔아비브_FC](https://ko.wikipedia.org/wiki/분류:하포엘_텔아비브_FC "wikilink") [분류:1923년 설립](https://ko.wikipedia.org/wiki/분류:1923년_설립 "wikilink") [분류:1923년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1923년_설립된_축구단 "wikilink") [분류:이스라엘의 축구단](https://ko.wikipedia.org/wiki/분류:이스라엘의_축구단 "wikilink") [분류:1967년 아시안 챔피언 클럽 토너먼트 선수단](https://ko.wikipedia.org/wiki/분류:1967년_아시안_챔피언_클럽_토너먼트_선수단 "wikilink")

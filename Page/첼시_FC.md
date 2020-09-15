@@ -5,7 +5,7 @@
 
 첼시는 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 6회, [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 8회, [리그컵](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 5회, [FA 커뮤니티 실드](../Page/FA_커뮤니티_실드.md "wikilink") 4회, [UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink") 2회의 우승 경력이 있으며, [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink"), [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink"), [UEFA 슈퍼컵에서](../Page/UEFA_슈퍼컵.md "wikilink") 각각 1회의 우승을 기록하였다.\[2\] 또한 첼시는 UEFA 챔피언스리그에서 우승을 거둔 런던의 유일한 축구팀이며,\[3\] [UEFA](https://ko.wikipedia.org/wiki/UEFA "wikilink")가 주관하는 3개의 주요 대회에서 모두 우승을 거둔 4개의 구단 중 하나이다.\[4\]\[5\]
 
-첼시의 홈 유니폼은 [로열 블루](../Page/로열_블루.md "wikilink") 색상의 상·하의와 흰색의 양말로 구성되어 있다. 구단의 문양은 파란색을 바탕으로 하고 있으며, 현재의 문양은 2005년에 도안한 것이다.\[6\] 2014-15시즌의 홈 평균 관중 수는 41,546명으로, 이는 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에서 7번째에 해당한다.\[7\] </ref> 첼시는 [2003년](../Page/2003년.md "wikilink") 7월, [러시아](../Page/러시아.md "wikilink") 출신의 억만장자인 [로만 아브라모비치에](../Page/로만_아브라모비치.md "wikilink") 인수되어 현재에 이르고 있다.\[8\] 2016년, [포브스](../Page/포브스.md "wikilink")지의 조사에 의하면 첼시의 자산 가치는 약 16억 달러로, 이는 전 세계 축구 클럽 중 7위에 해당하는 수치이다.\[9\]
+첼시의 홈 유니폼은 [로열 블루](../Page/로열_블루.md "wikilink") 색상의 상·하의와 흰색의 양말로 구성되어 있다.(상대가 흰색 유니폼을 입을경우 양말은 [로열 블루도](../Page/로열_블루.md "wikilink") 함께 입는다. 구단의 문양은 파란색을 바탕으로 하고 있으며, 현재의 문양은 2005년에 도안한 것이다.\[6\] 2014-15시즌의 홈 평균 관중 수는 41,546명으로, 이는 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에서 7번째에 해당한다.\[7\] </ref> 첼시는 [2003년](../Page/2003년.md "wikilink") 7월, [러시아](../Page/러시아.md "wikilink") 출신의 억만장자인 [로만 아브라모비치에](../Page/로만_아브라모비치.md "wikilink") 인수되어 현재에 이르고 있다.\[8\] 2016년, [포브스](../Page/포브스.md "wikilink")지의 조사에 의하면 첼시의 자산 가치는 약 16억 달러로, 이는 전 세계 축구 클럽 중 7위에 해당하는 수치이다.\[9\]
 
 현재 감독은 [프랭크 램퍼드이며](https://ko.wikipedia.org/wiki/프랭크_램퍼드 "wikilink"), 주장은 [아스필리쿠에타](https://ko.wikipedia.org/wiki/아스필리쿠에타 "wikilink")이며 부주장은 [조르지뉴이다](../Page/조르지_루이스_프렐루.md "wikilink").
 
@@ -69,7 +69,9 @@
 
 2013년 6월 3일, 첼시는 [조세 무리뉴가](https://ko.wikipedia.org/wiki/조세_무리뉴 "wikilink") 다시 팀으로 복귀했다는 소식을 타진하였다.\[60\] 2014-15시즌, 첼시는 8년만에 [풋볼 리그 컵에서](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 우승하였고,\[61\] [리그에서도](../Page/프리미어리그_2014-15.md "wikilink") 승점 87점으로 우승을 거두었다.\[62\] 그러나 다음 시즌, 부진이 장기화되자 구단 측은 결국 무리뉴 감독을 경질했고, [거스 히딩크가](../Page/거스_히딩크.md "wikilink") 임시 감독의 자격으로 다시 부임하였다.\[63\] 그의 후임으로는 [이탈리아 축구 국가대표팀을](../Page/이탈리아_축구_국가대표팀.md "wikilink") 이끌었던 [안토니오 콘테가](../Page/안토니오_콘테.md "wikilink") 선임되었다. 콘테의 지휘하에 첼시는 2016-17시즌 [프리미어리그](../Page/프리미어리그_2016-17.md "wikilink") 우승과 이듬해 FA컵 우승을 차지하였다.
 
-2018-19시즌, 콘테가 해임되자 그 자리는 또 다른 이탈리아 출신의 감독인 [마우리치오 사리에게](../Page/마우리치오_사리.md "wikilink") 돌아갔다. 사리는 [리그](https://ko.wikipedia.org/wiki/프리미어리그_2018-19 "wikilink") 3위와 [유로파리그](../Page/2018-19년_UEFA_유로파리그.md "wikilink") 우승을 달성하였으나, 1년 만에 팀을 떠났다. 2019-20시즌을 앞두고 첼시는 [프랭크 램퍼드를](https://ko.wikipedia.org/wiki/프랭크_램퍼드 "wikilink") 감독으로 선임하였다.
+2018-19시즌, 콘테가 해임되자 그 자리는 또 다른 이탈리아 출신의 감독인 [마우리치오 사리에게](../Page/마우리치오_사리.md "wikilink") 돌아갔다. 사리는 [리그](https://ko.wikipedia.org/wiki/프리미어리그_2018-19 "wikilink") 3위와 [유로파리그](../Page/2018-19년_UEFA_유로파리그.md "wikilink") 우승을 달성하였으나, 1년 만에 팀을 떠났다. 2019-20시즌을 앞두고 첼시는 과거 선수 시절 미들라이커로 이름을 알렸던 [프랭크 램퍼드를](https://ko.wikipedia.org/wiki/프랭크_램퍼드 "wikilink") 첼시의 새로운 감독으로 선임하였다. 그 후, 램파드가 부임한 첼시는 시즌 초반에 영입 금지 징계를 딛고, 리그 4위로 기록하여 챔피언스리그 진출권을 따냈다.
+
+리그 4위로 기록하여 시즌을 마감한 첼시는 영입 금지 징계 해제 후, [하킴 지예흐](../Page/하킴_지예흐.md "wikilink"), [티모 베르너](../Page/티모_베르너.md "wikilink"), [벤 칠웰](../Page/벤_칠웰.md "wikilink"), [말랑 사르](https://ko.wikipedia.org/wiki/말랑_사르 "wikilink"), [티아고 실바](https://ko.wikipedia.org/wiki/티아고_실바 "wikilink") 등을 폭풍 영입하여 전 포지션 보강에 힘썼다.
 
 ## 경기장
 
@@ -181,7 +183,7 @@
 
         **우승 (8)**: 1969-70, 1996-97, 1999-2000, 2006-07, 2008-09, 2009-10, 2011-12, 2017-18
 
-        **준우승 (5)**: 1914-15, 1966-67, 1993-94, 2001-02, 2016-17
+        **준우승 (5)**: 1914-15, 1966-67, 1993-94, 2001-02, 2016-17, 2019-20
 
 <!-- end list -->
 
@@ -277,6 +279,16 @@
 
         **우승 (2)**: [1970-71](../Page/1970-71년_UEFA_컵위너스컵.md "wikilink"), [1997-98](../Page/1997-98년_UEFA_컵위너스컵.md "wikilink")
 
+#### 세계 대회
+
+  - **[FIFA 클럽 월드컵](../Page/FIFA_클럽_월드컵.md "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **준우승 (1)**: (2012)
+
 ## 기록과 통계
 
 [섬네일는](https://ko.wikipedia.org/wiki/파일:Frank_Lampard'13-14.JPG "wikilink") 첼시 선수 중 가장 많은 골을 기록한 선수이다.\]\]
@@ -318,7 +330,7 @@
 | 2005–2006 | [삼성 모바일](https://ko.wikipedia.org/wiki/삼성 "wikilink")         |                                          |
 | 2006–2008 | [아디다스](../Page/아디다스.md "wikilink")                            |                                          |
 | 2008–2015 | [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")             |                                          |
-| 2015–2017 | [요코하마 타이어](https://ko.wikipedia.org/wiki/요코하마_고무 "wikilink")  |                                          |
+| 2015–2017 | [요코하마 타이어](../Page/요코하마_고무.md "wikilink")                     |                                          |
 | 2017–2020 | [나이키](../Page/나이키.md "wikilink")                              |                                          |
 | 2020–2023 | [3](https://ko.wikipedia.org/wiki/3_\(기업\) "wikilink")        |                                          |
 
@@ -332,7 +344,7 @@
 
 첼시의 이전 유니폼 공급사는 [아디다스](../Page/아디다스.md "wikilink")였으나 현재 첼시의 유니폼 제작은 [나이키](../Page/나이키.md "wikilink")가 맡고 있다. [아디다스](../Page/아디다스.md "wikilink")는 2006년을 시작으로 2023년까지 첼시에 유니폼을 공급하기로 되어있었다.\[154\] 그러나 첼시는 아디다스와 상호 합의 하에 계약을 해지하였고 2017-18시즌부터는 [나이키](../Page/나이키.md "wikilink")의 유니폼을 착용하고 있다.\[155\]
 
-첼시의 첫 번째 셔츠 스폰서는 [걸프 항공이었고](https://ko.wikipedia.org/wiki/걸프_항공 "wikilink"), 1983-84시즌에 선보여졌다. 이후 첼시는 [그랜지 팜스](https://ko.wikipedia.org/wiki/그랜지_팜스 "wikilink"), [바이 린](https://ko.wikipedia.org/wiki/바이_린 "wikilink"), [이탈리아](../Page/이탈리아.md "wikilink")의 스포츠 용품 회사인 [시모드](https://ko.wikipedia.org/wiki/시모드 "wikilink") 등과 함께 스폰서 계약을 체결하였다. 1989년에는 유니폼 위에 컴퓨터 제조 회사인 [코모도어 인터내셔널의](../Page/코모도어_인터내셔널.md "wikilink") 개인용 컴퓨터인 [아미가](../Page/아미가.md "wikilink")를 새기기도 하였다. 이후 첼시의 스폰서는 1995년에서 1997년까지의 [쿨스](https://ko.wikipedia.org/wiki/쿨스 "wikilink") 맥주, 1997년에서 2001년까지의 [오토글래스](https://ko.wikipedia.org/wiki/오토글래스 "wikilink"), 2001년에서 2005년까지의 [에미레이트 항공](https://ko.wikipedia.org/wiki/에미레이트_항공 "wikilink"), 2005년에서 2015년까지의 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")이 있었다.\[156\] 2015년 2월, 첼시는 [요코하마 타이어와](https://ko.wikipedia.org/wiki/요코하마_고무 "wikilink") 메인 셔츠 스폰서 계약을 체결하였고, 이 계약으로 첼시는 요코하마 타이어로부터 연간 4천만 파운드의 후원을 받게 되었으며, 이는 5천만 파운드로 맨체스터 유나이티드를 후원하는 [쉐보레](../Page/쉐보레.md "wikilink")에 이어 잉글랜드에서 2번째로 높은 금액이다.\[157\]
+첼시의 첫 번째 셔츠 스폰서는 [걸프 항공이었고](https://ko.wikipedia.org/wiki/걸프_항공 "wikilink"), 1983-84시즌에 선보여졌다. 이후 첼시는 [그랜지 팜스](https://ko.wikipedia.org/wiki/그랜지_팜스 "wikilink"), [바이 린](https://ko.wikipedia.org/wiki/바이_린 "wikilink"), [이탈리아](../Page/이탈리아.md "wikilink")의 스포츠 용품 회사인 [시모드](https://ko.wikipedia.org/wiki/시모드 "wikilink") 등과 함께 스폰서 계약을 체결하였다. 1989년에는 유니폼 위에 컴퓨터 제조 회사인 [코모도어 인터내셔널의](../Page/코모도어_인터내셔널.md "wikilink") 개인용 컴퓨터인 [아미가](../Page/아미가.md "wikilink")를 새기기도 하였다. 이후 첼시의 스폰서는 1995년에서 1997년까지의 [쿨스](https://ko.wikipedia.org/wiki/쿨스 "wikilink") 맥주, 1997년에서 2001년까지의 [오토글래스](https://ko.wikipedia.org/wiki/오토글래스 "wikilink"), 2001년에서 2005년까지의 [에미레이트 항공](https://ko.wikipedia.org/wiki/에미레이트_항공 "wikilink"), 2005년에서 2015년까지의 [삼성](https://ko.wikipedia.org/wiki/삼성 "wikilink")이 있었다.\[156\] 2015년 2월, 첼시는 [요코하마 타이어와](../Page/요코하마_고무.md "wikilink") 메인 셔츠 스폰서 계약을 체결하였고, 이 계약으로 첼시는 요코하마 타이어로부터 연간 4천만 파운드의 후원을 받게 되었으며, 이는 5천만 파운드로 맨체스터 유나이티드를 후원하는 [쉐보레](../Page/쉐보레.md "wikilink")에 이어 잉글랜드에서 2번째로 높은 금액이다.\[157\]
 
 2015년 기준 첼시는 아디다스, 요코하마 타이어,\[158\] [가즈프롬](https://ko.wikipedia.org/wiki/가즈프롬 "wikilink"), [델타 항공](../Page/델타_항공.md "wikilink"), [자우버](../Page/자우버.md "wikilink"), [아우디](../Page/아우디.md "wikilink"), [싱하 맥주](https://ko.wikipedia.org/wiki/싱하_\(맥주\) "wikilink"), [돌체앤가바나](../Page/돌체앤가바나.md "wikilink"), [EA 스포츠](https://ko.wikipedia.org/wiki/EA_스포츠 "wikilink"), 바베이도스 관광청, [아틀라스](https://ko.wikipedia.org/wiki/아틀라스_그룹 "wikilink"), [아지무트 호텔](https://ko.wikipedia.org/wiki/아지무트_호텔 "wikilink"), [BNI](https://ko.wikipedia.org/wiki/느가라인도네시아_은행 "wikilink"), [인도삿](https://ko.wikipedia.org/wiki/인도삿_오레루 "wikilink"), [비엣틴 은행](https://ko.wikipedia.org/wiki/비엣틴_은행 "wikilink"), [토요 고무](https://ko.wikipedia.org/wiki/토요_고무 "wikilink"), 오리코, [광저우 푸리](../Page/광저우_푸리.md "wikilink"), [코카 콜라](https://ko.wikipedia.org/wiki/코카_콜라 "wikilink"), 그랜드 로열, [디지셀](https://ko.wikipedia.org/wiki/디지셀 "wikilink"), [루코제이드 스포츠](https://ko.wikipedia.org/wiki/루코제이드_스포츠 "wikilink"), [비아고고](https://ko.wikipedia.org/wiki/비아고고 "wikilink") 등과 스폰서십을 체결 중이다.\[159\]
 
@@ -347,6 +359,8 @@
 ## 선수 명단
 
 ### 1군 선수 명단
+
+### 기타 선수 명단
 
 ### 임대 선수 명단
 
@@ -757,7 +771,7 @@
 <strong><a href="https://ko.wikipedia.org/wiki/UEFA_컵_위너스컵" title="wikilink">UEFA 컵 위너스컵</a> (1)</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/존_닐_(축구인)" title="wikilink">존 닐</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/존_닐" title="wikilink">존 닐</a></p></td>
 <td></td>
 <td><p>1981–1985</p></td>
 <td><p><strong><a href="../Page/풋볼_리그_2부.md" title="wikilink">풋볼 리그 2부</a> (1)</strong></p></td>
@@ -824,7 +838,7 @@
 <strong><a href="https://ko.wikipedia.org/wiki/FA컵_(잉글랜드)" title="wikilink">FA컵</a> (1)</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/라파엘_베니테스.md" title="wikilink">라파엘 베니테스</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/라파엘_베니테즈" title="wikilink">라파엘 베니테즈</a></p></td>
 <td></td>
 <td><p>2012.11-2013.5</p></td>
 <td><p><strong><a href="../Page/UEFA_유로파리그.md" title="wikilink">UEFA 유로파리그</a> (1)</strong></p></td>
@@ -843,7 +857,7 @@
 <td><p><strong><a href="../Page/UEFA_유로파리그.md" title="wikilink">UEFA 유로파리그</a> (1)</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/프랭크_램퍼드" title="wikilink">프랭크 램퍼드</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/프랭크_램파드" title="wikilink">프랭크 램파드</a></p></td>
 <td></td>
 <td><p>2019-</p></td>
 <td></td>

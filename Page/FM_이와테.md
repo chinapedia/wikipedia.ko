@@ -1,20 +1,18 @@
 > This article is converted from Wikipedia: [FM 이와테](https://ko.wikipedia.org/wiki/FM_이와테).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:TelevisionIwate-FMIwate.jpg "wikilink") **FM이와테**는 일본의 FM라디오 방송국으로 [1985년](../Page/1985년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개국했으며 [이와테현](../Page/이와테현.md "wikilink")에서 방송을 실시하고 있다.
-
-[JFN](../Page/JFN.md "wikilink")에 가맹했으며 약칭은 FMI, 콜사인은 JOQU-FM이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:TVI2020.jpg "wikilink") **FM이와테**는 일본의 FM라디오 방송국으로 [1985년](../Page/1985년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개국했으며 [이와테현](../Page/이와테현.md "wikilink")에서 방송을 실시하고 있다. [JFN](../Page/JFN.md "wikilink")에 가맹했으며 약칭은 FMI, 콜사인은 JOQU-FM이다.
 
 ## 연혁
 
-  - [1984년](../Page/1984년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") 주식회사 FM이와테 창립
-  - [1985년](../Page/1985년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 본방송 개시.
-  - [1995년](../Page/1995년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") FM 문자다중방송 개시
-  - [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink")　본사를 [TV 이와테](../Page/TV_이와테.md "wikilink") 본사 7층으로 이전하면서 동시에 방송 기기를 디지털 형식으로 갱신.
-  - [2014년](../Page/2014년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") FM 문자다중방송 종료
-  - [2014년](../Page/2014년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") 이와이즈미 중계국 개국
-  - [2015년](../Page/2015년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") 야마다 중계국 개국
-  - [2016년](../Page/2016년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink") 오쓰치 중계국 개국
+  - [1984년](../Page/1984년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink"): 주식회사 FM이와테 창립.
+  - [1985년](../Page/1985년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink"): 본방송 개시.
+  - [1995년](../Page/1995년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink"): FM 문자다중방송 개시.
+  - [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink"): 본사를 [TV 이와테](../Page/TV_이와테.md "wikilink") 본사 7층으로 이전하면서 동시에 방송 기기를 디지털 형식으로 갱신.
+  - [2014년](../Page/2014년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink"): FM 문자다중방송 종료.
+  - [2014년](../Page/2014년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink"): 이와이즈미 중계국 개국.
+  - [2015년](../Page/2015년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink"): 야마다 중계국 개국.
+  - [2016년](../Page/2016년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink"): 오쓰치 중계국 개국.
 
 ## 주파수
 

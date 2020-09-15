@@ -92,6 +92,6 @@ DDR-400C</p></td>
 
   - [JEDEC 웹사이트](http://www.jedec.org/)
 
-[분류:컴퓨터 메모리](https://ko.wikipedia.org/wiki/분류:컴퓨터_메모리 "wikilink")
+[분류:SDRAM](https://ko.wikipedia.org/wiki/분류:SDRAM "wikilink")
 
 1.  Cycle time is the inverse of the I/O bus clock frequency; e.g., 1/(100 MHz) = 10 ns per clock cycle.

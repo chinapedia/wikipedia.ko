@@ -31,7 +31,7 @@ Ctrl 키를 누르는 데에 몇 가지 공통 기호가 있다. 각 기호는 C
 
 [매킨토시](../Page/매킨토시.md "wikilink")에서는 커맨드 키()가 윈도 환경의  키와 비슷한 역할을 수행하고 있다.
 
-[애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 사에서 만드는 [컴퓨터 자판에도](../Page/컴퓨터_자판.md "wikilink") 컨트롤 키가 있으나, 기능이 조금 다르다. [콘텍스트 메뉴를](https://ko.wikipedia.org/wiki/콘텍스트_메뉴 "wikilink") 불러올 때 유닉스 및 윈도 환경에서는 마우스 오른쪽 버튼을 누르는 방식을 사용하였으나, [매킨토시](../Page/매킨토시.md "wikilink")에 사용되는 [애플 마우스는](https://ko.wikipedia.org/wiki/애플_마우스 "wikilink") '원 버튼 마우스' 체계를 가지고 있었기 때문에, 이 방법을 쓸 수 없었다. 그래서 이  + 클릭 조합을 함으로서 콘텍스트 메뉴를 불러오는 방법을 사용하게 되었다. [애플 마이티 마우스에서](../Page/애플_마이티_마우스.md "wikilink") 자체적으로 오른쪽 버튼 클릭이 가능하게 된 이후에도 호환성을 위해 이 커맨드가 유지되고 있다.
+[애플](../Page/애플.md "wikilink") 사에서 만드는 [컴퓨터 자판에도](../Page/컴퓨터_자판.md "wikilink") 컨트롤 키가 있으나, 기능이 조금 다르다. [콘텍스트 메뉴를](https://ko.wikipedia.org/wiki/콘텍스트_메뉴 "wikilink") 불러올 때 유닉스 및 윈도 환경에서는 마우스 오른쪽 버튼을 누르는 방식을 사용하였으나, [매킨토시](../Page/매킨토시.md "wikilink")에 사용되는 [애플 마우스는](https://ko.wikipedia.org/wiki/애플_마우스 "wikilink") '원 버튼 마우스' 체계를 가지고 있었기 때문에, 이 방법을 쓸 수 없었다. 그래서 이  + 클릭 조합을 함으로서 콘텍스트 메뉴를 불러오는 방법을 사용하게 되었다. [애플 마이티 마우스에서](../Page/애플_마이티_마우스.md "wikilink") 자체적으로 오른쪽 버튼 클릭이 가능하게 된 이후에도 호환성을 위해 이 커맨드가 유지되고 있다.
 
 애플 키보드의 Control 키는 윈도 환경과 달리 Ctrl이 아닌 Control이란 표기로 되어 있다.
 
@@ -51,7 +51,7 @@ Ctrl 키를 누르는 데에 몇 가지 공통 기호가 있다. 각 기호는 C
 
 #### 한/영 키
 
-한글 각인이 된 [IBM 모델 M에서는](../Page/IBM_모델_M.md "wikilink"), 위에서 설명한 윈도의 ‘PC/AT 101키 호환 키보드/USB 키보드 (종류 1)’ 또는 `kbd101a.dll`와 달리 오른쪽  키와 오른쪽  키가 각각  키와  키를 대신하는 키로서 각인돼 있다[1](http://www.kbdmania.net/xe/492001) . 이것은 오른쪽  키 = 한자 변환,  키 = 한/영 전환 키로 쓰는 입력기를 기준으로 한 것이다.
+한글 각인이 된 [IBM 모델 M에서는](../Page/IBM_모델_M.md "wikilink"), 위에서 설명한 윈도의 ‘PC/AT 101키 호환 키보드/USB 키보드 (종류 1)’ 또는 `kbd101a.dll`와 달리 오른쪽  키와 오른쪽  키가 각각  키와  키를 대신하는 키로서 각인돼 있다 [1](http://www.kbdmania.net/xe/492001) . 이것은 오른쪽  키 = 한자 변환,  키 = 한/영 전환 키로 쓰는 입력기를 기준으로 한 것이다.
 
 ### 서양의 키보드 배열
 
@@ -65,7 +65,7 @@ Ctrl 키를 누르는 데에 몇 가지 공통 기호가 있다. 각 기호는 C
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:KB_Japanese_AX_keyboard.svg "wikilink")
 
-[AX 규격](https://ko.wikipedia.org/wiki/AX_규격 "wikilink")([AX architecture](https://ko.wikipedia.org/wiki/:en:AX_architecture "wikilink"))은 과거 [일본](../Page/일본.md "wikilink")의 일부 PC 메이커들이 IBM PC 호환기종에 [일본어](../Page/일본어.md "wikilink") 기능을 추가한 컴퓨터 규격 중 하나이다. 이 규격에 쓰이는 키보드를 AX 키보드라고 한다〔[OADG 규격](https://web.archive.org/web/20090815135508/http://www.oadg.or.jp/techref/oadghwd.pdf)(일본어)의  참고〕. 또 유사 규격으로 J-3100(또는 J3100) 키보드라는 게 존재하는데, AX 키보드에서 일본어 자판 특유의 (무변환) 키와 (변환) 키를 제거하고, AX 키보드의 독자적인  키의 각인을 없앤 것이다〔[OADG 규격](https://web.archive.org/web/20090815135508/http://www.oadg.or.jp/techref/oadghwd.pdf)(일본어)의  참고〕. AX와 J-3100 키보드는 현재 일본에서 일반적인 키보드 규격은 아니지만 아직도 윈도에서 사용할 수 있다[2](http://www.atmarkit.co.jp/fwin2k/win2ktips/041axkbd/axkbd.html).
+[AX 규격](https://ko.wikipedia.org/wiki/AX_규격 "wikilink")([AX architecture](https://ko.wikipedia.org/wiki/:en:AX_architecture "wikilink"))은 과거 [일본](../Page/일본.md "wikilink")의 일부 PC 메이커들이 IBM PC 호환기종에 [일본어](../Page/일본어.md "wikilink") 기능을 추가한 컴퓨터 규격 중 하나이다. 이 규격에 쓰이는 키보드를 AX 키보드라고 한다〔[OADG 규격](https://web.archive.org/web/20090815135508/http://www.oadg.or.jp/techref/oadghwd.pdf)(일본어)의  참고〕. 또 유사 규격으로 J-3100(또는 J3100) 키보드라는 게 존재하는데, AX 키보드에서 일본어 자판 특유의 (무변환) 키와 (변환) 키를 제거하고, AX 키보드의 독자적인  키의 각인을 없앤 것이다〔[OADG 규격](https://web.archive.org/web/20090815135508/http://www.oadg.or.jp/techref/oadghwd.pdf)(일본어)의  참고〕. AX와 J-3100 키보드는 현재 일본에서 일반적인 키보드 규격은 아니지만 아직도 윈도에서 사용할 수 있다 [2](http://www.atmarkit.co.jp/fwin2k/win2ktips/041axkbd/axkbd.html).
 
 AX와 J-3100 키보드에서는 오른쪽  키와 오른쪽  키를 각각 일본어 환경 고유의 (한자) 키와 (영수 [가나](../Page/가나_\(문자\).md "wikilink")) 키로 바뀐다. 이 중 (영수 [가나](../Page/가나_\(문자\).md "wikilink")) 키는, 일본어 입력 모드에서 입력 문자를 가나 문자↔영수([로마자](../Page/로마자.md "wikilink") 및 [아라비아 숫자](../Page/아라비아_숫자.md "wikilink"))를 전환하는 키이다. 이 키는 (한자) 키([Alt 키](https://ko.wikipedia.org/wiki/Alt_키#한자_키_2 "wikilink") 문서 참고)와 달리 일본어 입력 ‘도중’에 입력 문자를 변경할 수 있다는 특징이 있다. {{-}}
 

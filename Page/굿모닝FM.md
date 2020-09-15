@@ -42,8 +42,9 @@
 ### 요일별 평일 코너
 
   - 월요일 : 현장취재, 로드맨이 간다 / 월 메이드, 3분 즉석 랩 With [배치기](../Page/배치기.md "wikilink")
-  - 수요일 : 단어의 쓰임
-  - 목요일 : 뭐든지 읽어 드립니다. 레디, 액션\!
+  - 화요일 : 내일은 굿 잡(JOB) With. 염민주 리포터
+  - 수요일 : 한국인의 책상 With. 럭키 , 알베르토 , 다니엘
+  - 목요일 : 각색왕 With. (배우) 송진우 , (성우) 남유정
   - 금요일 : 선넘는 금요일
 
 ### 토요일 코너
@@ -76,16 +77,16 @@
 |                                                                            |                                                                                                                                                          |                                                |     |                                                     |
 | [FM모닝쇼 이충훈입니다](https://ko.wikipedia.org/wiki/FM모닝쇼_이충훈입니다 "wikilink")      | [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink")                                                                                                    | [전주문화방송](../Page/전주문화방송.md "wikilink")         | 이충훈 | FM 99.1㎒                                            |
 | [김묘선의 FM모닝쇼](../Page/김묘선의_FM모닝쇼.md "wikilink")                             | [대구광역시](../Page/대구광역시.md "wikilink"), [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 중서남부                                                         | [대구문화방송](../Page/대구문화방송.md "wikilink")         | 김묘선 | FM 95.3㎒                                            |
-| 정세원의 FM모닝쇼                                                                 | [포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink"), [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 동해안                                           | [포항문화방송](../Page/포항문화방송.md "wikilink")         | 정세원 | FM 97.9㎒ (포항, 경주), FM 94.9㎒ (영덕, 울진), FM 90.9㎒ (울릉) |
+| [FM모닝쇼 정세원입니다](https://ko.wikipedia.org/wiki/FM모닝쇼_정세원입니다 "wikilink")      | [포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink"), [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 동해안                                           | [포항문화방송](../Page/포항문화방송.md "wikilink")         | 정세원 | FM 97.9㎒ (포항, 경주), FM 94.9㎒ (영덕, 울진), FM 90.9㎒ (울릉) |
 | 굿모닝FM 조문주입니다 (평일)                                                          | [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")                                                                                                  | [울산문화방송](../Page/울산문화방송.md "wikilink")         | 조문주 | FM 98.7㎒                                            |
 | [김재영의 FM 아침의 행진](https://ko.wikipedia.org/wiki/FM_아침의_행진 "wikilink")       | [창원시](../Page/창원시.md "wikilink")                                                                                                                         | [MBC경남 창원방송](../Page/MBC경남_창원방송.md "wikilink") | 김재영 | FM 100.5㎒                                           |
 
   - 8:00\~9:00 자체방송
 
-| 프로그램                                                          | 방송지역                                                        | 방송국                                    | 진행자 | 주파수                            |
-| ------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------- | --- | ------------------------------ |
-| [굿모닝FM 제주](https://ko.wikipedia.org/wiki/굿모닝FM_제주 "wikilink") | [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") | [제주문화방송](../Page/제주문화방송.md "wikilink") | 장인정 | FM 90.1㎒ (제주), FM 102.9㎒ (서귀포) |
-|                                                               |                                                             |                                        |     |                                |
+| 프로그램                                       | 방송지역                                                        | 방송국                                    | 진행자 | 주파수                            |
+| ------------------------------------------ | ----------------------------------------------------------- | -------------------------------------- | --- | ------------------------------ |
+| [굿모닝FM 제주](../Page/굿모닝FM_제주.md "wikilink") | [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") | [제주문화방송](../Page/제주문화방송.md "wikilink") | 장인정 | FM 90.1㎒ (제주), FM 102.9㎒ (서귀포) |
+|                                            |                                                             |                                        |     |                                |
 
 ## 각주
 

@@ -71,8 +71,6 @@ C-3PO는 6편 중 5편의 작품에서 수난을 당하는 역할을 한다. 이
 
 [분류:스타워즈의 등장인물](https://ko.wikipedia.org/wiki/분류:스타워즈의_등장인물 "wikilink") [분류:가공의 로봇](https://ko.wikipedia.org/wiki/분류:가공의_로봇 "wikilink") [분류:1977년 창조된 가공인물](https://ko.wikipedia.org/wiki/분류:1977년_창조된_가공인물 "wikilink")
 
-[de:Figuren aus Star Wars\#C-3PO](https://ko.wikipedia.org/wiki/de:Figuren_aus_Star_Wars#C-3PO "wikilink") [he:מלחמת הכוכבים - דמויות\#C-3PO](https://ko.wikipedia.org/wiki/he:מלחמת_הכוכבים_-_דמויות#C-3PO "wikilink")
-
 1.  [에피소드 1](https://www.youtube.com/watch?v=-Ol8gkjjKOg)
 2.  [에피소드 2](https://www.youtube.com/watch?v=NiP5JmSQBj0)
 3.  에피소드 3

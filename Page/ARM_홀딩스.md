@@ -11,7 +11,7 @@ ARM이라는 이름은 1983년 아콘 컴퓨터즈(Acorn Computers)의 프로세
 
 ### 설립
 
-이 회사는 어드밴스드 RISC 머신즈 리미티드(Advanced RISC Machines Ltd.)라는 이름으로 1990년 11월, 아콘 컴퓨터즈와 애플 컴퓨터(현재 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink")), VLSI 테크놀로지의 조인트 벤처로 설립됐다. 아콘 RISC 머신 프로세서를 발전시킨 프로세서를 개발했다. 이 프로세서는 애플의 뉴튼 프로젝트에 사용됐다. 1993년 처음으로 흑자를 냈으며, 1994년 [도쿄](../Page/도쿄.md "wikilink")와 [실리콘 밸리에](https://ko.wikipedia.org/wiki/실리콘_밸리 "wikilink") 사무소를 열었다. 1997년에는 시스템 온 칩 플랫폼을 공급받고 디스크 드라이브 시장에 진입하기 위한 팜칩 코퍼레이션(Palmchip Corporation)에 투자했다. 1998년, 회사 이름을 'ARM Ltd.'로 바꿨다. 또한 1998년, [런던증권거래소](https://ko.wikipedia.org/wiki/런던증권거래소 "wikilink")와 [나스닥](../Page/나스닥.md "wikilink")에 상장됐고, 1999년 2월 애플의 지분은 14.8%로 떨어졌다.
+이 회사는 어드밴스드 RISC 머신즈 리미티드(Advanced RISC Machines Ltd.)라는 이름으로 1990년 11월, 아콘 컴퓨터즈와 애플 컴퓨터(현재 [애플](../Page/애플.md "wikilink")), VLSI 테크놀로지의 조인트 벤처로 설립됐다. 아콘 RISC 머신 프로세서를 발전시킨 프로세서를 개발했다. 이 프로세서는 애플의 뉴튼 프로젝트에 사용됐다. 1993년 처음으로 흑자를 냈으며, 1994년 [도쿄](../Page/도쿄.md "wikilink")와 [실리콘 밸리에](https://ko.wikipedia.org/wiki/실리콘_밸리 "wikilink") 사무소를 열었다. 1997년에는 시스템 온 칩 플랫폼을 공급받고 디스크 드라이브 시장에 진입하기 위한 팜칩 코퍼레이션(Palmchip Corporation)에 투자했다. 1998년, 회사 이름을 'ARM Ltd.'로 바꿨다. 또한 1998년, [런던증권거래소](https://ko.wikipedia.org/wiki/런던증권거래소 "wikilink")와 [나스닥](../Page/나스닥.md "wikilink")에 상장됐고, 1999년 2월 애플의 지분은 14.8%로 떨어졌다.
 
 ### 인수
 

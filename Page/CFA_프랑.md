@@ -10,7 +10,7 @@ CFA 프랑은 [유로](../Page/유로.md "wikilink")에 대해 [고정 환율제
 
 ## 명칭
 
-[1945년](../Page/1945년.md "wikilink")부터 [1958년](../Page/1958년.md "wikilink")까지, CFA는 “아프리카의 프랑스 식민지”(*Colonies françaises d'Afrique*)라는 의미였으나, 1958년의 프랑스 제5공화국의 설립 때부터 [1960년대](../Page/1960년대.md "wikilink")의 CFA 프랑을 사용하는 아프리카 국가들이 독립하는 때까지는 “아프리카의 프랑스 공동체”(*Communauté française d'Afrique*)라는 의미를 띠게 되었다. 그때부터 아프리카 국가들의 독립까지 CFA는 두 가지 의미를 가지게 되었다.
+[1945년](../Page/1945년.md "wikilink")부터 [1958년](../Page/1958년.md "wikilink")까지, CFA는 “아프리카의 프랑스 식민지”(*Colonies françaises d'Afrique*)라는 의미였으나, 1958년의 프랑스 제5공화국의 설립 때부터 [1960년대](../Page/1960년대.md "wikilink")의 CFA 프랑을 사용하는 아프리카 국가들이 독립하는 때까지는 “아프리카의 프랑스 공동체”(*Communauté française d'Afrique*)또는 아프리카 금융 공동체(*Communauté financière africaine*)의 의미를 띠게 되었다. 그때부터 아프리카 국가들의 독립까지 CFA는 두 가지 의미를 가지게 되었다.
 
 ## 역사
 

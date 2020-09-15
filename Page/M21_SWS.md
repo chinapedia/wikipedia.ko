@@ -1,0 +1,35 @@
+> This article is converted from Wikipedia: [M21 SWS](https://ko.wikipedia.org/wiki/M21_SWS).
+
+
+**M21 SWS**()는 [미국 국방부가](../Page/미국_국방부.md "wikilink") [1960년대](../Page/1960년대.md "wikilink")에 잠시 동안 채용하였던 [M14을](../Page/M14_소총.md "wikilink") 개량한 [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink")이다.
+
+## 개요
+
+[베트남 전쟁](../Page/베트남_전쟁.md "wikilink") 동안 사용할 저격총을 원했던 [미국 육군은](../Page/미국_육군.md "wikilink") 정확도 및 신뢰성이 높고, 빠르게 두 번째 탄을 발사할 수 있는 M14 전투 소총을 저격용으로 개량하였다. 제식명 XM21를 부여받고 [1975년](../Page/1975년.md "wikilink")까지 시험받았고, 그 후로 M21로서 정식 채용되어 [1988년](../Page/1988년.md "wikilink")까지 육군의 공식적인 저격총이었다. 그 뒤 [M24 SWS가](../Page/M24_SWS.md "wikilink") M21을 대체하는 공식 저격총으로 채용되었고, M21은 현재 [지정 사수용 소총으로](https://ko.wikipedia.org/wiki/지정_사수용_소총 "wikilink") [아프가니스탄](https://ko.wikipedia.org/wiki/아프가니스탄 "wikilink")과 [이라크](../Page/이라크.md "wikilink")에서 쓰이고 있다.
+
+## XM25/M25
+
+XM25는 [미국 특수 작전 사령부에서](https://ko.wikipedia.org/wiki/미국_특수_작전_사령부 "wikilink") 요구하는 성능을 만족하기 위한 요청에 의해 [10 특수부대단에서](https://ko.wikipedia.org/wiki/10_특수부대단 "wikilink") 개량한 것으로 M24를 대체하기 위한 것이 아니다. 1980년대부터 [미국 육군 특수부대와](https://ko.wikipedia.org/wiki/미국_육군_특수부대 "wikilink") [네이비 씰에서](https://ko.wikipedia.org/wiki/네이비_씰 "wikilink") 사용하고 있다. [사막의 폭풍 작전에서](https://ko.wikipedia.org/wiki/사막의_폭풍_작전 "wikilink") 일부 쓰였다.
+
+미국 특수 작전 사령부는 XM25를 가리켜 '경량 저격총()'로 부르며, '저격 경비 장비()'또는 '생산 강화된 M21()'으로도 부른다.
+
+## 갤러리
+
+파일:Sniper rifle.jpg|이라크에서의 M21 사수 파일:Rifle_M21_2.jpg|M21 좌측면 파일:M25 rifle 1.jpg|M25 전체 좌측면 파일:M25 rifle 2.jpg|M25 마운트·망원 스코프
+
+## 같이 보기
+
+  - [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink")
+  - [소총](https://ko.wikipedia.org/wiki/지정_사수용_소총 "wikilink")
+  - [M14 소총](../Page/M14_소총.md "wikilink")
+  - [M24 SWS](../Page/M24_SWS.md "wikilink")
+
+## 외부 링크
+
+  - [현대 화기 - M21](https://web.archive.org/web/20100915173417/http://world.guns.ru/sniper/sn09-e.htm)
+
+  - [스나이퍼 센트럴 - M21](https://web.archive.org/web/20061212055019/http://www.snipercentral.com/m21.htm)
+
+  - [스나이퍼 센트럴 - M25](https://web.archive.org/web/20061212054847/http://www.snipercentral.com/m25.htm)
+
+[분류:미국의 반자동 소총](https://ko.wikipedia.org/wiki/분류:미국의_반자동_소총 "wikilink") [분류:전투소총](https://ko.wikipedia.org/wiki/분류:전투소총 "wikilink") [분류:저격소총](https://ko.wikipedia.org/wiki/분류:저격소총 "wikilink")

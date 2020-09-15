@@ -5,7 +5,7 @@
 
 클럽의 주요 스포츠 종목은 [축구](../Page/축구.md "wikilink")를 포함하여 [핸드볼](../Page/핸드볼.md "wikilink"), [농구](../Page/농구.md "wikilink"), [풋살](../Page/풋살.md "wikilink"), [육상](https://ko.wikipedia.org/wiki/육상 "wikilink"), [럭비 유니온이](https://ko.wikipedia.org/wiki/럭비_유니온 "wikilink") 있다. 클럽은 모든 종목에서 우승을 했었지만, 초창기 종목인 축구로 가장 잘 알려져 있다. 벨레넨스스는 1945-46시즌에 포르투갈 리그를 우승하였는데, 이는 빅 3(포르투, 스포르팅, 벤피카)를 제외하곤 [보아비스타 FC와](../Page/보아비스타_FC.md "wikilink") 함께 유일한 우승기록이다.
 
-[포르투갈 리가가](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 시작되었을 때에는 벨레넨스스는 [포르투갈](../Page/포르투갈.md "wikilink")의 "빅4" 가운데 하나였다. [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")에 진출한 최초의 포르투갈 클럽이기도 하다. 벨레넨스스는 포르투갈 내에서 빅3 다음가는 인기있는 클럽이다. 그러나 2008-09시즌엔 15위로 마감하며 다음시즌인 2009-10시즌부터는 2부리그에서 활동하게 되었다. 2012-13시즌 [2부리그](https://ko.wikipedia.org/wiki/2부리그 "wikilink")인 [세군다리가](https://ko.wikipedia.org/wiki/세군다리가 "wikilink")에서 우승하면서 2013-14시즌에 다시 [프리메이라리가](../Page/프리메이라리가.md "wikilink")로 복귀하였다.
+[포르투갈 리가가](https://ko.wikipedia.org/wiki/포르투갈_리가 "wikilink") 시작되었을 때에는 벨레넨스스는 [포르투갈](../Page/포르투갈.md "wikilink")의 "빅4" 가운데 하나였다. [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")에 진출한 최초의 포르투갈 클럽이기도 하다. 벨레넨스스는 포르투갈 내에서 빅3 다음가는 인기있는 클럽이다. 그러나 2008-09시즌엔 15위로 마감하며 다음시즌인 2009-10시즌부터는 2부리그에서 활동하게 되었다. 2012-13시즌 [2부리그](https://ko.wikipedia.org/wiki/2부리그 "wikilink")인 [세군다리가](../Page/세군다리가.md "wikilink")에서 우승하면서 2013-14시즌에 다시 [프리메이라리가](../Page/프리메이라리가.md "wikilink")로 복귀하였다.
 
 ## 역대 성적
 

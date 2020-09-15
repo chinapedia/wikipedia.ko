@@ -11,7 +11,7 @@
 
 ## 목표
 
-마트료시카는 EBML에 뿌리를 두고 있다. 그러한 까닭에 마트료시카는 지속 가능성과 확장성을 염두에 두고 설계되었다. (AVI와는 다른 점이다.) 마트료시카 팀은 Doom9.org 나 hydrogenaudio.org와 같은 사이트에서 공공연하게 그들의 장기적인 목표는 현대적이고, 유연성 있고, 크로스-플랫폼인 멀티미디어 포맷을 개발하는 것이라고 밝히고 있다. 또한 다음과 같이 전개되는 것을 목표로 하고 있다:
+마트료시카는 EBML에 뿌리를 두고 있다. 그러한 까닭에 마트료시카는 지속 가능성과 확장성을 염두에 두고 설계되었다. (AVI와는 다른 점이다.) 마트료시카 팀은 '우리들의 장기적인 목표는 현대적이고, 유연성 있고, 크로스-플랫폼인 멀티미디어 포맷을 개발하는 것'이라고 Doom9.org 나 hydrogenaudio.org와 같은 사이트에서 공공연하게 밝히고 있다. 또한 다음과 같이 전개되는 것을 목표로 하고 있다:
 
   - 스트리밍에 대한 강건한 지원;
   - EBML에 기반한 "DVD-like" 메뉴 시스템;
@@ -98,7 +98,7 @@
 
   - [Haali Media splitter](https://web.archive.org/web/20040707171532/http://haali.cs.msu.ru/mkv/)
 
-  - [Project Announcement](http://forum.doom9.org/showthread.php?s=&postid=221947) on Doom9 forums
+  - [Project Announcement](https://web.archive.org/web/20080108032206/http://forum.doom9.org/showthread.php?s=&postid=221947) on Doom9 forums
 
   - [Parser, de-/muxer and player](http://sourceforge.net/projects/guliverkli/)
 

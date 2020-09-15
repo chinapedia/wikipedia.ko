@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HMX](https://ko.wikipedia.org/wiki/HMX).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:HMX.png "wikilink") **HMX**(1,3,5,7-tetranitro-1,3,5,7-tetrazocane) 또는 **옥토겐**(octogen)은 상대적으로 덜 민감한 [나이트로아민](https://ko.wikipedia.org/wiki/나이트로아민 "wikilink") 고[폭발물](https://ko.wikipedia.org/wiki/폭발물 "wikilink")이다. 화학적으로는 [RDX](https://ko.wikipedia.org/wiki/RDX "wikilink")와 관련되어 있다. 또, 이 이름은 High-Molecular-weight rdX에서 비롯한 말이다. 공업적으로 생산하고 있는 폭약으로는 가장 에너지가 세며, 주로 군용으로 사용된다. 분자식은 C<sub>4</sub>H<sub>8</sub>N<sub>8</sub>O<sub>8</sub>이며 [RE 계수는](../Page/RE_계수.md "wikilink") 1.70이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:HMX.png "wikilink") **HMX**(1,3,5,7-tetranitro-1,3,5,7-tetrazocane) 또는 **옥토겐**(octogen)은 상대적으로 덜 민감한 [나이트로아민](https://ko.wikipedia.org/wiki/나이트로아민 "wikilink") 고[폭발물](../Page/폭발물.md "wikilink")이다. 화학적으로는 [RDX](https://ko.wikipedia.org/wiki/RDX "wikilink")와 관련되어 있다. 또, 이 이름은 High-Molecular-weight rdX에서 비롯한 말이다. 공업적으로 생산하고 있는 폭약으로는 가장 에너지가 세며, 주로 군용으로 사용된다. 분자식은 C<sub>4</sub>H<sub>8</sub>N<sub>8</sub>O<sub>8</sub>이며 [RE 계수는](../Page/RE_계수.md "wikilink") 1.70이다.
 
 ## 생산
 

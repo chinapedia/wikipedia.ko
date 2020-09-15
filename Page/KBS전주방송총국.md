@@ -164,19 +164,19 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 전북</a></p></td>
 <td><p>15분</p></td>
 <td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/함윤호" title="wikilink">함윤호</a>,<a href="https://ko.wikipedia.org/wiki/김태은" title="wikilink">김태은</a>(평일)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이광엽" title="wikilink">이광엽</a>,<a href="https://ko.wikipedia.org/wiki/김태은" title="wikilink">김태은</a>(평일)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 전북</a></p></td>
 <td><p>10분</p></td>
 <td><p>평일 오전 9시 45분 ~ 9시 55분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김형철" title="wikilink">김형철</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이광엽" title="wikilink">이광엽</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_전북" title="wikilink">KBS 뉴스 7 전북</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7_전북.md" title="wikilink">KBS 뉴스 7 전북</a></p></td>
 <td><p>40분</p></td>
 <td><p>월~금 저녁 7시 ~ 7시 40분</p></td>
-<td><p>봉효정, 이광엽</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>, <a href="https://ko.wikipedia.org/wiki/김형철" title="wikilink">김형철</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 전북</a></p></td>
@@ -190,8 +190,8 @@ PC,모바일 MY K로 실시간 시청 가능
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이지현" title="wikilink">이지현</a>, <a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>(평일)<br />
-무작위(주말)</p></td>
+<td><p>이지현, <a href="https://ko.wikipedia.org/wiki/김태은" title="wikilink">김태은</a>(평일)<br />
+봉효정(주말)</p></td>
 </tr>
 </tbody>
 </table>
@@ -219,9 +219,9 @@ PC,모바일 MY K로 실시간 시청 가능
 | ---------------------------------------------------------- | ------------------- | ------------------------------------------------------------ | --------------------------------------------------- |
 | KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                               | [이광엽](https://ko.wikipedia.org/wiki/이광엽 "wikilink") |
 | [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [김형철](https://ko.wikipedia.org/wiki/김형철_\(아나운서\) "wikilink") |                                                     |
-| KBS 제1라디오 오후 3시 뉴스                                         | 오후 3시 \~ 3시 5분      | [함윤호](https://ko.wikipedia.org/wiki/함윤호 "wikilink")          |                                                     |
-| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      |                                                              |                                                     |
-| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 오후 6시 \~ 6시 5분                                               |                                                     |
+| KBS 제1라디오 오후 3시 뉴스                                         | 오후 3시 \~ 3시 5분      | [김태은](https://ko.wikipedia.org/wiki/김태은 "wikilink")          |                                                     |
+| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [봉효정](https://ko.wikipedia.org/wiki/봉효정 "wikilink")          |                                                     |
+| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 오후 6시 \~ 6시 5분                                               | [이광엽](https://ko.wikipedia.org/wiki/이광엽 "wikilink") |
 
   - 시사·교양
 
@@ -255,7 +255,7 @@ PC,모바일 MY K로 실시간 시청 가능
 
 ### 남성
 
-  - [정경수](https://ko.wikipedia.org/wiki/정경수 "wikilink") (1965\~1969, 전 CBS 아나운서 / 전 MBC 아나운서)
+  - [정경수](../Page/정경수.md "wikilink") (1965\~1969, 전 CBS 아나운서 / 전 MBC 아나운서)
   - [박용호](../Page/박용호_\(1947년\).md "wikilink") (1969\~1970, 전 KBS 서울본국, 전 정치인, 전 국회의원)
   - [박태수](../Page/박태수.md "wikilink") (1987\~1993, 아나운서 부장, 현 퇴사)
   - [양석규](https://ko.wikipedia.org/wiki/양석규 "wikilink") (1993\~2004, 아나운서 차장, 현 강원도청)
@@ -295,7 +295,6 @@ PC,모바일 MY K로 실시간 시청 가능
   - 이병문
   - 박재홍
   - 김종환
-  - 박형규
   - 서승신
   - 이종완
   - 안태성
@@ -315,13 +314,11 @@ PC,모바일 MY K로 실시간 시청 가능
 
 <!-- end list -->
 
-  - 이화연
   - 한주연
   - 이수진
   - 김진희
   - 조선우
   - 길금희
-  - 한희조
 
 <!-- end list -->
 
@@ -353,7 +350,7 @@ PC,모바일 MY K로 실시간 시청 가능
 
 ## 외부 링크
 
-  - [KBS전주방송총국 공식 홈페이지](http://jeonju.kbs.co.kr/)
+  - [KBS전주방송총국 공식 홈페이지](https://web.archive.org/web/20191021050024/http://jeonju.kbs.co.kr/)
 
 ## KBS군산방송국
 

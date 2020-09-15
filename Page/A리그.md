@@ -44,59 +44,71 @@
 
 <div style="position: relative; ">
 
-[파일:Map of Australia and New Zealand.png](https://ko.wikipedia.org/wiki/파일:Map_of_Australia_and_New_Zealand.png "wikilink")
+[787px](https://ko.wikipedia.org/wiki/파일:Map_of_Australia_and_New_Zealand_with_an_inset.svg "wikilink")
 
-<div style="position: absolute; left: 212px; top: 195px">
+<div style="position: absolute; left: 280px; top: 390px">
 
-[12px](https://ko.wikipedia.org/wiki/파일:Nuvola_apps_mozilla.png "wikilink")
-
-</div>
-
-<div style="position: absolute; left: 219px; top: 195px">
-
-[12px](https://ko.wikipedia.org/wiki/파일:Nuvola_apps_mozilla.png "wikilink")
+[10px](https://ko.wikipedia.org/wiki/파일:Red_pog.svg "wikilink")
 
 </div>
 
-<div style="position: absolute; left: 173px; top: 170px">
+<div style="position: absolute; left: 717px; top: 091px">
 
-[12px](https://ko.wikipedia.org/wiki/파일:Nuvola_apps_mozilla.png "wikilink")
-
-</div>
-
-<div style="position: absolute; left: 36px; top: 150px">
-
-[12px](https://ko.wikipedia.org/wiki/파일:Nuvola_apps_mozilla.png "wikilink")
+[10px](https://ko.wikipedia.org/wiki/파일:Red_pog.svg "wikilink")
 
 </div>
 
-<div style="position: absolute; left: 257px; top: 159px">
+<div style="position: absolute; left: 684px; top: 228px">
 
-[10px](https://ko.wikipedia.org/wiki/파일:Nuvola_apps_mozilla.png "wikilink")
-
-</div>
-
-<div style="position: absolute; left: 263px; top: 147px">
-
-[10px](https://ko.wikipedia.org/wiki/파일:Nuvola_apps_mozilla.png "wikilink")
+[10px](https://ko.wikipedia.org/wiki/파일:Red_pog.svg "wikilink")
 
 </div>
 
-<div style="position: absolute; left: 263px; top: 115px">
+<div style="position: absolute; left: 550px; top: 322px">
 
-[12px](https://ko.wikipedia.org/wiki/파일:Nuvola_apps_mozilla.png "wikilink")
-
-</div>
-
-<div style="position: absolute; left: 395px; top: 219px">
-
-[12px](https://ko.wikipedia.org/wiki/파일:Nuvola_apps_mozilla.png "wikilink")
+[10px](https://ko.wikipedia.org/wiki/파일:Red_pog.svg "wikilink")
 
 </div>
 
-<div style="position: absolute; left: 225px; top: 63px">
+<div style="position: absolute; left: 560px; top: 322px">
 
-[12px](https://ko.wikipedia.org/wiki/파일:Nuvola_apps_mozilla.png "wikilink")
+[10px](https://ko.wikipedia.org/wiki/파일:Red_pog.svg "wikilink")
+
+</div>
+
+<div style="position: absolute; left: 692px; top: 215px">
+
+[10px](https://ko.wikipedia.org/wiki/파일:Red_pog.svg "wikilink")
+
+</div>
+
+<div style="position: absolute; left: 039px; top: 360px">
+
+[10px](https://ko.wikipedia.org/wiki/파일:Red_pog.svg "wikilink")
+
+</div>
+
+<div style="position: absolute; left: 680px; top: 241px">
+
+[10px](https://ko.wikipedia.org/wiki/파일:Red_pog.svg "wikilink")
+
+</div>
+
+<div style="position: absolute; left: 658px; top: 479px">
+
+[10px](https://ko.wikipedia.org/wiki/파일:Red_pog.svg "wikilink")
+
+</div>
+
+<div style="position: absolute; left: 550px; top: 332px">
+
+[10px](https://ko.wikipedia.org/wiki/파일:Red_pog.svg "wikilink")
+
+</div>
+
+<div style="position: absolute; left: 670px; top: 241px">
+
+[10px](https://ko.wikipedia.org/wiki/파일:Red_pog.svg "wikilink")
 
 </div>
 

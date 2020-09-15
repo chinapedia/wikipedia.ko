@@ -819,7 +819,7 @@
 ## 외부 링크
 
   - [공식 홈페이지](http://www.sampdoria.it/)
-  - [비공식 홈페이지](http://ucsampdoria.co.uk/)
+  - [비공식 홈페이지](https://web.archive.org/web/20131006231122/http://ucsampdoria.co.uk/)
   - [UC 삼프도리아 공식 페이스북](https://www.facebook.com/sampdoria?fref=ts/)
 
 [분류:1946년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1946년_설립된_축구단 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:UC_삼프도리아 "wikilink") [분류:이탈리아의 축구단](https://ko.wikipedia.org/wiki/분류:이탈리아의_축구단 "wikilink") [분류:세리에 A 구단](https://ko.wikipedia.org/wiki/분류:세리에_A_구단 "wikilink") [분류:세리에 B 구단](https://ko.wikipedia.org/wiki/분류:세리에_B_구단 "wikilink")

@@ -17,6 +17,6 @@
 
 ## 외부 링크
 
-  - [SM 캉 공식 홈페이지](http://www.smcaen.fr/)
+  - [SM 캉 공식 홈페이지](https://web.archive.org/web/20120407195111/http://www.smcaen.fr/)
 
 [분류:프랑스의 축구단](https://ko.wikipedia.org/wiki/분류:프랑스의_축구단 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SM_캉 "wikilink") [분류:1913년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1913년_설립된_축구단 "wikilink")

@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [대한민국의 케이블TV 방송](https://ko.wikipedia.org/wiki/대한민국의_케이블TV_방송).
 
 
-**대한민국의 케이블TV 방송**은 1995년 종합유선방송을 시작으로 도입된 방송으로서, 채널 선택의 다양성으로 시청자의 만족도를 높이고자 시작한 새로운 형태의 방송 시장이다.\[1\]
-
-**한국케이블TV방송협회**에는 169개 회원사가 가입해 있다.
+**대한민국의 케이블TV 방송**은 1995년 종합유선방송을 시작으로 도입된 방송으로서, 채널 선택의 다양성으로 시청자의 만족도를 높이고자 시작한 새로운 형태의 방송 시장이다.\[1\] 종합유선방송을 시작하기 전에는 지역유선방송이있어 난시청 지역의 [공중파](https://ko.wikipedia.org/wiki/공중파 "wikilink") 채널을 재전송하였으며 이를 통해 지방 거주자들이 서울 민영방송이었던 [sbs](https://ko.wikipedia.org/wiki/sbs "wikilink")를 시청했다. **한국케이블TV방송협회**에는 169개 회원사가 가입해 있다.
 
 ## 연혁
 
@@ -20,12 +18,12 @@
 ## 회원사
 
   - [방송채널사용사업자](https://ko.wikipedia.org/wiki/대한민국_방송법#방송사업자 "wikilink") (Program Provider, PP)\[2\]
-  - [종합유선방송사업자](https://ko.wikipedia.org/wiki/대한민국_방송법#종합유선방송사업자 "wikilink") (System Operator, SO)
+  - [종합유선방송사업자](../Page/종합유선방송사업자.md "wikilink") (System Operator, SO)
   - [전송망사업자](https://ko.wikipedia.org/wiki/전송망사업자 "wikilink") (Network Operator, [NO](https://ko.wikipedia.org/wiki/NO "wikilink"))
 
 ### PP
 
-  - [9Colrors 민영방송슈퍼스테이션채널](http://www.9colors.co.kr)
+  - [9Colors 민영방송슈퍼스테이션채널](http://www.9colors.co.kr)
   - [TV조선](../Page/TV조선.md "wikilink")
   - [JTBC](../Page/JTBC.md "wikilink")
   - [채널A](../Page/채널A.md "wikilink")
@@ -127,7 +125,7 @@
   - [KBS N 라이프](../Page/KBS_N_라이프.md "wikilink")
   - [KBS W](../Page/KBS_W.md "wikilink")
   - [KBS Joy](../Page/KBS_조이.md "wikilink")
-  - [tbs TV](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
+  - [tbs TV](../Page/교통방송.md "wikilink")
   - [육아방송](https://ko.wikipedia.org/wiki/육아방송 "wikilink")
   - [시민방송 RTV](../Page/시민방송.md "wikilink")
   - [국방TV](../Page/국방TV.md "wikilink")
@@ -179,9 +177,9 @@
   - [BBC WORLD](../Page/BBC_월드_뉴스.md "wikilink")
   - [NHK World TV](../Page/NHK_월드.md "wikilink")
   - [NHK World Premium](../Page/NHK_월드.md "wikilink")
-  - [CCTV-4](../Page/중국중앙텔레비전.md "wikilink")
-  - [CGTN 다큐 멘터리](../Page/중국국제텔레비전.md "wikilink")
-  - [CGTN](../Page/중국국제텔레비전.md "wikilink")
+  - [CCTV-4](../Page/CCTV-4.md "wikilink")
+  - [CGTN 다큐 멘터리](https://ko.wikipedia.org/wiki/CGTN_다큐멘터리 "wikilink")
+  - [CGTN](https://ko.wikipedia.org/wiki/CGTN_\(TV_채널\) "wikilink")
   - [BBC Knowledge](https://ko.wikipedia.org/wiki/BBC_날리지 "wikilink")
   - [부동산 토마토](../Page/토마토TV.md "wikilink")
   - [더 무비](http://www.chthemovie.co.kr/main/index.asp)
@@ -222,6 +220,7 @@
   - 아임쇼핑
   - 채널A플러스
   - [MBN 플러스](../Page/매일방송.md "wikilink")
+  - [TV조선 플러스](../Page/TV조선.md "wikilink")
   - [펀TV](http://www.funtv2.com) ([올레TV 스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프의_방송_채널 "wikilink") - 274번 (선택형), [올레TV](https://ko.wikipedia.org/wiki/올레_TV의_방송_채널 "wikilink") - 274번)
   - 히어로액션 ([올레TV 스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프의_방송_채널 "wikilink") - 78번, [올레TV](https://ko.wikipedia.org/wiki/올레_TV의_방송_채널 "wikilink") - 112번, [SK B tv](https://ko.wikipedia.org/wiki/B_TV의_방송_채널 "wikilink") - 96번, [U+tv G](https://ko.wikipedia.org/wiki/U+_TV의_방송_채널 "wikilink") - 42번)
 
@@ -236,7 +235,7 @@
   - [포유스포츠(4USports)](../Page/SBS_스포츠.md "wikilink")
   - [SBS 위성골프](https://ko.wikipedia.org/wiki/SBS_골프 "wikilink")
   - [포유골프(4UGolf)](https://ko.wikipedia.org/wiki/SBS_골프 "wikilink")
-  - [ETS](https://ko.wikipedia.org/wiki/CTS_\(대한민국의_방송사\) "wikilink")
+  - [ETS](../Page/CTS기독교TV.md "wikilink")
   - OSB 자격증TV
   - 스탁인터랙TV
   - [MBS 한국매일방송](../Page/매일방송.md "wikilink")
@@ -301,6 +300,7 @@
 [대한민국 방송법에서는](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [종합유선방송사업자라고](https://ko.wikipedia.org/wiki/대한민국_방송법#종합유선방송사업자 "wikilink") 정의되어 있다. 전국에 시·군·구별로 위치한 99개사가 있다. 이들 케이블TV 방송국은 사업자 간 수평적 결합으로 인해 복합소유의 MSO(Multi System Operator) 들이 늘어가고 있다.\[3\] 강원도,제주도,울산,대전은 동일권역내에 단일케이블 사업자지역이다.
 
   - [SK브로드밴드](../Page/SK브로드밴드.md "wikilink")
+      - [SK브로드밴드 TCN방송](../Page/TCN_\(방송국\).md "wikilink")
   - [LG헬로비전](../Page/LG헬로비전.md "wikilink")
       - LG헬로비전 양천방송
       - [LG헬로비전 강원방송](https://ko.wikipedia.org/wiki/강원방송 "wikilink")
@@ -315,13 +315,12 @@
 
   - [NIB 남인천방송](../Page/남인천방송.md "wikilink")
   - [ABN 아름방송](../Page/아름방송네트워크.md "wikilink")
-  - [SK브로드밴드 TCN방송](../Page/TCN_\(방송국\).md "wikilink")
   - [JCN 울산중앙방송](../Page/JCN_울산중앙방송.md "wikilink")
   - [CCS 충북방송](https://ko.wikipedia.org/wiki/충북방송 "wikilink")
+  - [SCS 서경방송](../Page/서경방송.md "wikilink")
 
 <!-- end list -->
 
-  - [SCS 서경방송](../Page/서경방송.md "wikilink")
   - [KCN금강방송](http://www.kcn.tv/)
   - [KCTV 제주방송](https://ko.wikipedia.org/wiki/한국케이블TV_제주방송 "wikilink")
   - [KCTV 광주방송](../Page/광주방송_\(KCTV\).md "wikilink")
@@ -330,17 +329,16 @@
 ### NO
 
   - [LG유플러스](../Page/LG유플러스.md "wikilink")
-  - [SK 브로드밴드](https://ko.wikipedia.org/wiki/SK_브로드밴드 "wikilink")
+  - [SK브로드밴드](../Page/SK브로드밴드.md "wikilink")
   - [KT](../Page/KT.md "wikilink")
 
 ## 각주
 
 <references/>
 
-## 외부 링크
+## 나라별 [케이블tv목록](../Page/나라별_텔레비전_방송국_목록.md "wikilink")
 
-  - [한국케이블TV방송협회 홈페이지](http://www.kcta.or.kr/)
-
+  -
 [대한민국의_텔레비전_케이블_방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink")
 
 1.  [케이블TV 준비 제대로 했나?, [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink"), 1995년 3월 8일](http://news.kbs.co.kr/news/view.do?ncd=3748979)

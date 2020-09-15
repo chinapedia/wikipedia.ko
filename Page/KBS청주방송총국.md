@@ -103,6 +103,7 @@
   - [2011년](../Page/2011년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") : [HDTV 방송](../Page/고선명_텔레비전.md "wikilink") 개시
   - [2012년](../Page/2012년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") : 지상파 아날로그 TV 방송 종료
   - [2013년](../Page/2013년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") : [수도권](../Page/수도권.md "wikilink"), [강원도](../Page/강원도.md "wikilink"), [충청권](https://ko.wikipedia.org/wiki/충청권 "wikilink") 디지털방송 재배치
+  - [2014년](../Page/2014년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") : KBS청주방송총국 [청주시](../Page/청주시.md "wikilink") [상당구](../Page/상당구.md "wikilink"), [흥덕구](../Page/흥덕구.md "wikilink"), [청원군](../Page/청원군.md "wikilink") → [청주시](../Page/청주시.md "wikilink") [상당구](../Page/상당구.md "wikilink"), [흥덕구](../Page/흥덕구.md "wikilink"), [청원구](../Page/청원구.md "wikilink"), [서원구](../Page/서원구.md "wikilink")
 
 ## 방송 송출 시설망
 
@@ -204,7 +205,7 @@
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 충북</a></p></td>
 <td><p>평일 15분</p></td>
 <td><p>월요일~금요일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p><a href="../Page/박종화.md" title="wikilink">박종화</a>(평일)</p></td>
+<td><p><a href="../Page/최인희.md" title="wikilink">최인희</a>(평일)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 충북</a></p></td>
@@ -213,16 +214,16 @@
 <td><p>김윤혜</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_충북" title="wikilink">KBS 뉴스 7 충북</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7_충북.md" title="wikilink">KBS 뉴스 7 충북</a></p></td>
 <td><p>월~목 40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이해수" title="wikilink">이해수</a>, 박종화</p></td>
+<td><p><a href="../Page/양문석_(1981년).md" title="wikilink">양문석</a>, <a href="https://ko.wikipedia.org/wiki/박종화_(아나운서)" title="wikilink">박종화</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 청주</a></p></td>
 <td><p>금요일 5분</p></td>
 <td><p>금요일 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박종화_(아나운서)" title="wikilink">박종화</a></p></td>
+<td><p>박종화</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 청주</a></p></td>
@@ -230,8 +231,8 @@
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/권기현" title="wikilink">권기현</a>, <a href="../Page/최인희.md" title="wikilink">최인희</a>(평일)<br />
-<a href="../Page/박종화.md" title="wikilink">박종화</a>(주말)</p></td>
+<td><p>이규명, <a href="../Page/최인희.md" title="wikilink">최인희</a>(평일)<br />
+무작위(주말)</p></td>
 </tr>
 </tbody>
 </table>
@@ -260,6 +261,7 @@
 | KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일           | 오전 9시 \~ 9시 5분                   | 김윤혜 |
 | [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 10분 \~ 12시 15분 | [최인희](../Page/최인희.md "wikilink") |     |
 | KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분       | [박종화](../Page/박종화.md "wikilink") |     |
+| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일           | 오후 6시 \~ 6시 5분                   | 김윤혜 |
 |                                                            |                      |                                  |     |
 
   - 교양·시사
@@ -283,7 +285,7 @@
 
 ### 해피
 
-  - [양문석의 라디오 스타](http://program.kbs.co.kr/2radio/local/radiostar/pc/) (평일 19:00\~20:00) (MC : [양문석](../Page/양문석_\(1981년\).md "wikilink"))
+  - [최인희의 라디오 스타](http://program.kbs.co.kr/2radio/local/radiostar/pc/index.html) (평일 19:00\~20:00) (MC : [최인희](../Page/최인희.md "wikilink"))
   - [프로야구 중계](https://ko.wikipedia.org/wiki/프로야구_중계 "wikilink") (진행 [이해수](../Page/이해수_\(아나운서\).md "wikilink"))
 
 ### FM
@@ -339,7 +341,7 @@
   - [김윤지](https://ko.wikipedia.org/wiki/김윤지_\(1978년\) "wikilink")(2003\~2004, 현 KBS 서울본국)
   - [박사임](../Page/박사임.md "wikilink")(2004\~2005, 현 KBS 서울본국)
   - [최연수](https://ko.wikipedia.org/wiki/최연수 "wikilink")(2004\~2008, 현 KBS 대전총국)
-  - [위서현](https://ko.wikipedia.org/wiki/위서현 "wikilink")(2005\~2006, 현 KBS 서울본국)
+  - [위서현](https://ko.wikipedia.org/wiki/위서현 "wikilink")(2005\~2006, 전 KBS 서울본국)
   - [이지연](../Page/이지연_\(1986년\).md "wikilink")(2010\~2011, 현 KBS 서울본국)
   - [정지원](../Page/정지원_\(1985년\).md "wikilink")(2011\~2012, 현 KBS 서울본국)
   - [이승현](../Page/이승현_\(아나운서,_1985년\).md "wikilink")(2012\~2013, 현 KBS 서울본국)
@@ -404,7 +406,9 @@
 ## 인근의 타 방송사
 
   - [MBC충북 청주방송국](../Page/MBC충북_청주방송국.md "wikilink")
-  - [CJB](../Page/청주방송.md "wikilink")
+  - [CJB 청주방송](../Page/청주방송.md "wikilink")
+  - [청주CBS](../Page/기독교청주방송.md "wikilink")
+  - [BBS 청주불교방송](../Page/청주불교방송.md "wikilink")
 
 ## 외부 링크
 

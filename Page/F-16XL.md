@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [F-16XL](https://ko.wikipedia.org/wiki/F-16XL).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:F-16XL_loaded_with_500lb_bombs.jpg "wikilink") 및 동체에 장착한 [AIM-120 암람](../Page/AIM-120_암람.md "wikilink") 미사일로 무장하고 있다.\]\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:F-16XL_loaded_with_500lb_bombs.jpg "wikilink") 및 동체에 장착한 [MK-82](https://ko.wikipedia.org/wiki/MK-82 "wikilink") 500파운드 다목적폭탄으로 무장하고 있다.\]\]
 
 **제너럴 다이내믹스 F-16XL**은 표준 F-16 날개의 두 배 크기가 넘는 [삼각익](https://ko.wikipedia.org/wiki/삼각익 "wikilink")을 가진 [F-16 파이팅 팰컨의](https://ko.wikipedia.org/wiki/F-16 "wikilink") 파생형이다. 이 기종은 미공군의 향상된 전술 전투기(ETF; Enhanced Tactical Fighter) 경쟁에 참가하였으나, [F-15E 스트라이크 이글에](https://ko.wikipedia.org/wiki/F-15E_스트라이크_이글 "wikilink") 결국 패배하였다. 수 년 후 시제기 개발이 보류되어, F-16XL은 항공 연구를 위해 [미국 항공우주국에](../Page/미국_항공우주국.md "wikilink") 인계되었다.
 

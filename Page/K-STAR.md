@@ -7,13 +7,13 @@
 
 ## 연혁
 
-  - [1995년](../Page/1995년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 문화예술 케이블채널(구) 문화예술TV 개국
-  - [1999년](../Page/1999년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") : 예술영화TV로 채널명 변경 (구)
-  - [2002년](../Page/2002년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") : 영화정보 전문채널 무비플러스로 채널명 및 장르 변경 (구)
-  - [2004년](../Page/2004년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") : 연예뉴스 채널 YTN STAR로 채널명 및 장르 변경 (구)
-  - [2009년](../Page/2009년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") : Y-STAR로 채널명 변경 (구)
+  - [1995년](../Page/1995년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : 문화예술 케이블채널 A\&C 코오롱(채널 37) 개국
+  - [1999년](../Page/1999년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") : 예술영화TV로 채널명 변경
+  - [2002년](../Page/2002년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") : 영화정보 전문채널 무비플러스로 채널명 및 장르 변경
+  - [2004년](../Page/2004년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") : 연예뉴스 채널 YTN STAR로 채널명 및 장르 변경
+  - [2009년](../Page/2009년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") : Y-STAR로 채널명 변경
   - [2010년](../Page/2010년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") : [HD방송](../Page/고선명_텔레비전.md "wikilink") 개시
-  - [2015년](../Page/2015년.md "wikilink") [5월 4일](../Page/5월_4일.md "wikilink") : K-STAR로 채널명 변경 (현)
+  - [2015년](../Page/2015년.md "wikilink") [5월 4일](../Page/5월_4일.md "wikilink") : K-STAR로 채널명 변경
 
 ## 주요 프로그램
 

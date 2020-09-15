@@ -8,21 +8,11 @@
   - [1993년](../Page/1993년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대한민국에서 최초로 케이블TV 어린이분야 방송사업자로 허가
   - [1995년](../Page/1995년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 개국
   - [2001년](../Page/2001년.md "wikilink") 3월: 위성방송 채널 공급 개시
-  - [2009년](../Page/2009년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 16주년 및 개국 14주년
-  - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink"): IPTV 채널 공급 개시 ([KT](../Page/KT.md "wikilink") [올레 TV](../Page/올레_TV.md "wikilink"), [SK](../Page/SK브로드밴드.md "wikilink") [B TV](../Page/B_TV.md "wikilink"))
-  - [2010년](../Page/2010년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 17주년 및 개국 15주년
-  - [2011년](../Page/2011년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 18주년 및 개국 16주년
-  - [2011년](../Page/2011년.md "wikilink") [7월](../Page/7월.md "wikilink"): 모바일 TV 채널 공급 개시
-  - [2012년](../Page/2012년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 19주년 및 개국 17주년
-  - [2012년](../Page/2012년.md "wikilink") 4월: 대한민국 어린이 채널 최초 HD채널 개국
-  - [2013년](../Page/2013년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 20주년 및 개국 18주년
-  - [2014년](../Page/2014년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 21주년 및 개국 19주년
-  - [2015년](../Page/2015년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 22주년 및 개국 20주년
-  - [2016년](../Page/2016년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 23주년 및 개국 21주년
-  - [2016년](../Page/2016년.md "wikilink") [11월](../Page/11월.md "wikilink"): 대교어린이TV 영유아 교육 채널인 대교베이비TV 개국
-  - [2017년](../Page/2017년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 24주년 및 개국 22주년
-  - [2018년](../Page/2018년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 25주년 및 개국 23주년
-  - [2019년](../Page/2019년.md "wikilink") [3월](../Page/3월.md "wikilink"): 대교어린이TV 창립 26주년 및 개국 24주년
+  - [2008년](../Page/2008년.md "wikilink") [3월](../Page/3월.md "wikilink")\~항상: 대교어린이TV 창립 16주년 및 개국 14주년
+  - [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink")\~항상: IPTV 채널 공급 개시 ([KT](../Page/KT.md "wikilink") [올레 TV](../Page/올레_TV.md "wikilink"), [SK](../Page/SK브로드밴드.md "wikilink") [B TV](../Page/B_TV.md "wikilink"))
+  - [2013년](../Page/2013년.md "wikilink") [3월](../Page/3월.md "wikilink")\~항상: 대교어린이TV 창립 21주년 및 개국 19주년
+  - [2015년](../Page/2015년.md "wikilink") [3월](../Page/3월.md "wikilink")\~항상: 대교어린이TV 창립 23주년 및 개국 21주년
+  - [2017년](../Page/2017년.md "wikilink") [1월](../Page/1월.md "wikilink")\~항상: 대교어린이TV 영유아 교육 채널인 대교베이비TV 개국
 
 ## 주요 장르
 
@@ -46,9 +36,9 @@
   - [가면라이더 에그제이드](https://ko.wikipedia.org/wiki/가면라이더_에그제이드 "wikilink")
   - [구름빵](https://ko.wikipedia.org/wiki/구름빵 "wikilink")
   - [구름빵 2](https://ko.wikipedia.org/wiki/구름빵_2 "wikilink")
-  - [강철소방대 파이어로보](https://ko.wikipedia.org/wiki/강철소방대_파이어로보 "wikilink")
+  - [강철소방대 파이어로보](../Page/강철소방대_파이어로보.md "wikilink")
   - [골목대장 모니카](https://ko.wikipedia.org/wiki/골목대장_모니카 "wikilink")
-  - \[\[골판지 전사\]
+  - [골판지 전사](https://ko.wikipedia.org/wiki/골판지_전사 "wikilink")
 
 ### ㄲ
 
@@ -133,6 +123,7 @@
   - [브링큰](https://ko.wikipedia.org/wiki/브링큰 "wikilink")
   - [블루스 클루스](../Page/블루스_클루스.md "wikilink")
   - [보거스는 내 친구](../Page/보거스는_내_친구.md "wikilink")
+  - [바이트 초이카](https://ko.wikipedia.org/wiki/바이트_초이카 "wikilink")
   - [비트윈더 라이온스](https://ko.wikipedia.org/wiki/:en:Between_the_Lions "wikilink")
 
 ### ㅃ
@@ -146,9 +137,10 @@
 
   - [소방관 샘 아저씨](https://ko.wikipedia.org/wiki/출동!_소방관_샘 "wikilink")
   - [세나라 영웅전](https://ko.wikipedia.org/wiki/세나라_영웅전 "wikilink")
+  - 세서미 Play with Me
   - [수퍼와이](https://ko.wikipedia.org/wiki/수퍼와이 "wikilink")
   - [송이야 놀자](https://ko.wikipedia.org/wiki/송이야_놀자 "wikilink")
-  - [샐리의 그림일기](https://ko.wikipedia.org/wiki/:en:Sali_Mali "wikilink")
+  - [샐리의 그림일기](https://ko.wikipedia.org/wiki/샐리의_그림일기 "wikilink")
   - [신비아파트 444호](../Page/신비아파트_444호.md "wikilink")
   - [신비아파트: 고스트 볼의 비밀](../Page/신비아파트:_고스트_볼의_비밀.md "wikilink")
   - [스낵월드](../Page/스낵월드.md "wikilink")
@@ -246,6 +238,7 @@
   - [플래쉬앤대쉬2](https://ko.wikipedia.org/wiki/플래쉬앤대쉬2 "wikilink")
   - [플리퍼와 로파카](https://ko.wikipedia.org/wiki/플리퍼와_로파카 "wikilink")
   - [프리파라](../Page/프리파라.md "wikilink")
+  - [파이어 엠블렘](../Page/파이어_엠블렘.md "wikilink")
   - [파워포스레인저](https://ko.wikipedia.org/wiki/파워포스레인저 "wikilink")
   - [파워레인저 트레저포스](https://ko.wikipedia.org/wiki/파워레인저_트레저포스 "wikilink")
   - [파워레인저 다이노포스](../Page/수전전대_쿄류저.md "wikilink")
@@ -263,12 +256,12 @@
   - [하모니 - 악기의 비밀 이야기](https://ko.wikipedia.org/wiki/하모니_-_악기의_비밀_이야기 "wikilink")
   - [하모니: 오페라 극장의 비밀 이야기](https://ko.wikipedia.org/wiki/하모니:_오페라_극장의_비밀_이야기 "wikilink")
   - [하얀물개](https://ko.wikipedia.org/wiki/하얀물개 "wikilink")
-  - [하품요정 아쿠비](../Page/하품요정_아쿠비.md "wikilink")
   - [해피해피 다마고치\!](https://ko.wikipedia.org/wiki/해피해피_다마고치! "wikilink")
   - [헬로코코몽](https://ko.wikipedia.org/wiki/헬로코코몽 "wikilink")
   - [헬로카봇](https://ko.wikipedia.org/wiki/헬로카봇 "wikilink")
   - [흑장미 부인의 문방구](https://ko.wikipedia.org/wiki/흑장미_부인의_문방구 "wikilink")
   - [히어로 타임즈](https://ko.wikipedia.org/wiki/히어로_타임즈 "wikilink")
+  - [흔한남매](https://ko.wikipedia.org/wiki/흔한남매 "wikilink")
 
 ### 숫자, 또는 영문
 
@@ -292,7 +285,4 @@
 
 ## 외부 링크
 
-  - [대교어린이TV 홈페이지](http://www.kids17.net)
-  - [대교베이비TV 홈페이지](http://baby-tv.co.kr/)
-
-[대교어린이TV](https://ko.wikipedia.org/wiki/분류:대교어린이TV "wikilink") [분류:텔레비전 어린이 방송](https://ko.wikipedia.org/wiki/분류:텔레비전_어린이_방송 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:1993년 설립](https://ko.wikipedia.org/wiki/분류:1993년_설립 "wikilink") [분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink")
+[대교어린이TV](https://ko.wikipedia.org/wiki/분류:대교어린이TV "wikilink") [분류:텔레비전 어린이 방송](https://ko.wikipedia.org/wiki/분류:텔레비전_어린이_방송 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:1926년 공립](https://ko.wikipedia.org/wiki/분류:1926년_공립 "wikilink") [분류:1928년 공립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1928년_공립된_텔레비전_방송국과_채널 "wikilink")

@@ -3,7 +3,7 @@
 
 **FC 시옹**은 [1909년](../Page/1909년.md "wikilink")에 창단된 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 스위스 남서부에 위치한 [시옹](../Page/시옹.md "wikilink")을 연고로 하는 팀이다.
 
-시옹은 [스위스 슈퍼리그에서](../Page/스위스_슈퍼리그.md "wikilink") 2번 우승(1992, 1997)하였으며 [스위스 컵](https://ko.wikipedia.org/wiki/스위스_컵 "wikilink") 결승전에 11번 출전하여 모두 우승을 차지하였다. 스위스 컵 11회 우승은 [그라스호퍼 클럽 취리히의](../Page/그라스호퍼_클럽_취리히.md "wikilink") 18회에 이어 두 번째 기록이다.
+시옹은 [스위스 슈퍼리그에서](../Page/스위스_슈퍼리그.md "wikilink") 2번 우승(1992, 1997)하였으며 [스위스컵](https://ko.wikipedia.org/wiki/스위스컵 "wikilink") 결승전에 11번 출전하여 모두 우승을 차지하였다. 스위스컵 11회 우승은 [그라스호퍼 클럽 취리히의](../Page/그라스호퍼_클럽_취리히.md "wikilink") 18회에 이어 두 번째 기록이다.
 
 FC 시옹은 [스타드 투르빌롱을](https://ko.wikipedia.org/wiki/스타드_투르빌롱 "wikilink") 홈구장으로 사용하고 있는데, 수용인원은 20,187명이다.
 
@@ -20,7 +20,7 @@ FC 시옹은 [스타드 투르빌롱을](https://ko.wikipedia.org/wiki/스타드
 
 <!-- end list -->
 
-  - **[스위스 컵](https://ko.wikipedia.org/wiki/스위스_컵 "wikilink")**
+  - **[스위스컵](https://ko.wikipedia.org/wiki/스위스컵 "wikilink")**
 
 <!-- end list -->
 

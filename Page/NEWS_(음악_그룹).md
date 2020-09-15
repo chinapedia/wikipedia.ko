@@ -33,12 +33,6 @@
 <td><p><strong><span style="color:green;">초록</span></strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/테고시_유야.md" title="wikilink">테고시 유야</a> <small>()</small></p></td>
-<td><p>, <a href="../Page/ABO식_혈액형.md" title="wikilink">B형</a>, 카나가와 현 출신</p></td>
-<td><p><strong><span style="color:pink;">핑크</span></strong></p></td>
-<td><p>테고마스로서도 활동</p></td>
-</tr>
 </tbody>
 </table>
 
@@ -77,6 +71,11 @@
 <td><p><a href="../Page/야마시타_토모히사.md" title="wikilink">야마시타 토모히사</a> <small>()</small></p></td>
 <td><p><strong><span style="color:red;">빨강</span></strong></p></td>
 <td><p>솔로 활동에 전념.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/테고시_유야.md" title="wikilink">테고시 유야</a> <small>()</small></p></td>
+<td><p><strong><span style="color:pink;">핑크</span></strong></p></td>
+<td><p>2020년 6월 19일 사무소를 스스로 퇴사</p></td>
 </tr>
 </tbody>
 </table>

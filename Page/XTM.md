@@ -7,11 +7,11 @@
 
 [CJ미디어에서](https://ko.wikipedia.org/wiki/CJ_E&M_방송사업부문 "wikilink") 기존의 DIY 채널을 인수하여 DIY 채널이 방송되던 몇몇 SO와 [KT스카이라이프](../Page/KT스카이라이프.md "wikilink") (당시 채널 323번)에서 개국하였다.
 
-[2005년](../Page/2005년.md "wikilink") [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink") 공급 중단 사태가 발생하기도 하였으나 [KT스카이라이프](../Page/KT스카이라이프.md "wikilink")가 제출한 공급중단취소 가처분 신청을 [법원](../Page/법원.md "wikilink")이 흔쾌히 받아들임으로써 프로그램 공급이 재개되었다.
+[2005년](../Page/2005년.md "wikilink") [스카이라이프](../Page/KT스카이라이프.md "wikilink") 공급 중단 사태가 발생하기도 하였으나 [KT스카이라이프](../Page/KT스카이라이프.md "wikilink")가 제출한 공급중단취소 가처분 신청을 법원이 흔쾌히 받아들임으로써 프로그램 공급이 재개되었다.
 
 [2012년](../Page/2012년.md "wikilink") 이후에는 스포츠 프로그램에 주력하며 [프로 축구](../Page/축구.md "wikilink"), 프로 농구를 매일 1경기씩 중계하며 신생 야구 팀 [NC 다이노스의](../Page/NC_다이노스.md "wikilink") [퓨처스 리그](https://ko.wikipedia.org/wiki/한국_야구_퓨처스리그 "wikilink"), 격투기경기 [ROAD FC](https://ko.wikipedia.org/wiki/로드_FC "wikilink"), 세계 최고의 테니스 대회인 [US OPEN](../Page/US_오픈_\(테니스\).md "wikilink") 경기를 중계하기도 했다. [Xports](../Page/Xports.md "wikilink")의 폐국 후 [CJ E\&M이](../Page/CJ_E&M.md "wikilink") 중계권을 재취득하여 [2014년](../Page/2014년.md "wikilink")까지 [프로 야구](https://ko.wikipedia.org/wiki/프로_야구 "wikilink") 중계도 했었다. (단, 중계방송은 [SPOTV](../Page/SPOTV.md "wikilink")가 제작.) 2005년부터 2011년까지 프로레슬링 [WWE RAW를](../Page/WWE_러.md "wikilink") 방영하기도 하였다.
 
-그러나 시청률 저조로 인해 폐국되었고, [2018년](../Page/2018년.md "wikilink") [1월 26일에](../Page/1월_26일.md "wikilink") [XtvN](https://ko.wikipedia.org/wiki/XtvN "wikilink")으로 개국하였다.
+그러나 폐국되었고, [2018년](../Page/2018년.md "wikilink") [1월 26일에](../Page/1월_26일.md "wikilink") [XtvN](https://ko.wikipedia.org/wiki/XtvN "wikilink")으로 개국하였다.
 
 ## 프로그램
 

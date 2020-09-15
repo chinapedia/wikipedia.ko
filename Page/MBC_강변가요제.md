@@ -41,7 +41,7 @@
       - 은상 : 손정희 〈여름 그리기〉
       - 동상 : 멜러디 〈지난날의 슬픈 이야기〉
       - 특별상 : 정혜경 〈지난 새벽〉
-      - 장려상 : 덧마루([한석규](../Page/한석규.md "wikilink"), 이정황\[2\]) 〈길 잃은 친구에게〉
+      - 장려상 : 덧마루 〈길 잃은 친구에게〉
   - [1985년](../Page/1985년.md "wikilink") [제6회 MBC 강변가요제](../Page/제6회_MBC_강변가요제.md "wikilink")
       - 대상 : [마음과 마음](https://ko.wikipedia.org/wiki/마음과_마음 "wikilink")(김복희, 임석범) 〈그대 먼 곳에〉
       - 금상 : 어우러기(정호영,김판수,남정미) 〈밤에 피는 장미〉
@@ -54,7 +54,7 @@
       - 은상 : 징검다리 〈아무 이름으로도〉
       - 동상 : 바다새(김명호,이용찬,김혜정) 〈바다새〉
       - 장려상 : 염소영, 정용석 〈네 곁에서〉
-      - 참가곡 : [송시현](https://ko.wikipedia.org/wiki/송시현 "wikilink")\[3\] 〈미워할 수 없는 그대〉
+      - 참가곡 : [송시현](https://ko.wikipedia.org/wiki/송시현 "wikilink")\[2\] 〈미워할 수 없는 그대〉
   - [1987년](../Page/1987년.md "wikilink") [제8회 MBC 강변가요제](../Page/제8회_MBC_강변가요제.md "wikilink")
       - 대상 : [문희경](../Page/문희경.md "wikilink") 〈그리움은 빗물처럼〉
       - 금상 : 제제(ZeZe) 〈진실이야〉
@@ -75,12 +75,12 @@
       - 장려상 : 김승호 〈타작〉; 사철나무 〈그대 사랑해〉
       - 참가곡 : [진시몬](../Page/진시몬.md "wikilink") 〈캠퍼스에도 외로움이〉
   - [1990년](../Page/1990년.md "wikilink") [제11회 MBC 강변가요제](https://ko.wikipedia.org/wiki/제11회_MBC_강변가요제 "wikilink")
-      - 대상 : 권성연 〈한여름 밤의 꿈〉
+      - 대상 : [권성연](https://ko.wikipedia.org/wiki/권성연 "wikilink") 〈한여름 밤의 꿈〉
       - 금상 : 시사회 〈여름비가 내리네〉
       - 은상 : 삼각관계 〈떠나가 버려〉
       - 동상 : 유현국 〈아 그대여〉
       - 장려상 : 민형신 〈세상스케치〉, 류호숙 〈어느날 극장 앞에서〉
-      - 참가곡 : [김영호](../Page/김영호_\(배우\).md "wikilink") 〈눈먼 사랑〉\[4\].
+      - 참가곡 : [김영호](../Page/김영호_\(배우\).md "wikilink") 〈눈먼 사랑〉\[3\].
   - [1991년](../Page/1991년.md "wikilink") [제12회 MBC 강변가요제](https://ko.wikipedia.org/wiki/제12회_MBC_강변가요제 "wikilink")
       - 대상 : 박숙영 〈노래하는 인형〉
       - 금상 : 이우덕 〈이별의 아픔〉
@@ -104,16 +104,16 @@
       - 은상 : 김호섭 〈넌 못말려〉
       - 동상 : 황호욱 〈잃어버린 나의 모습〉
       - 특별상 : 입 큰 개구리 〈너를 볼 수없다는 것〉
-      - 참가곡 : 호박스([유리](https://ko.wikipedia.org/wiki/유리\(가수\) "wikilink")\[5\] 등) 〈상상 속으로〉
+      - 참가곡 : 호박스([유리](https://ko.wikipedia.org/wiki/유리\(가수\) "wikilink")\[4\] 등) 〈상상 속으로〉
   - [1995년](../Page/1995년.md "wikilink") [제16회 MBC 강변가요제](https://ko.wikipedia.org/wiki/제16회_MBC_강변가요제 "wikilink")
       - 대상 : 김우진 〈너에겐 미안해〉
       - 금상, 인기상 : [육각수](../Page/육각수_\(음악_그룹\).md "wikilink")(도중운, 조성환) 〈흥보가 기가 막혀〉
-      - 은상 : 신연아\[6\], 강성민 〈그대만을 위한 사랑으로〉
+      - 은상 : 신연아\[5\], 강성민 〈그대만을 위한 사랑으로〉
       - 동상 : DM7 〈너의 곁에〉
       - 특별상 : 흑백조화 〈내 맘속 그대〉
       - 참가곡 : Easy ([박혜경](https://ko.wikipedia.org/wiki/박혜경_\(가수\) "wikilink"), 현정은) 〈기다림, 약속, 그리고…〉
   - [1996년](../Page/1996년.md "wikilink") [제17회 MBC 강변가요제](https://ko.wikipedia.org/wiki/제17회_MBC_강변가요제 "wikilink")
-      - 대상 : 배연희 〈소중한 너에게〉\[7\]
+      - 대상 : 배연희 〈소중한 너에게〉\[6\]
       - 금상 : 파크 〈그쵸〉
       - 은상 : 이지영 〈Man〉
       - 동상 : 정승운 〈마네킹〉
@@ -178,8 +178,8 @@
 ## 에피소드
 
   - [주현미](../Page/주현미.md "wikilink")는 [1981년](../Page/1981년.md "wikilink") 중앙대 약대 6인조 밴드 '인삼뿌리 2기'의 보컬로 출전했다.
-  - [이선희](../Page/이선희.md "wikilink")는 [1984년](../Page/1984년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") 부모님이 알아볼까봐 퍼머를 하고 치마가 없어 구경 온 여중생의 치마를 빌려 입고 출전했다.\[8\]
-  - [이상은은](../Page/이상은_\(가수\).md "wikilink") 1988년 대상 발표 직후 사회자 이수만이 "지금 제일 생각나는 사람이 누구냐"라고 묻자 흥분한 나머지 [마이클 잭슨이라고](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 외쳤다.\[9\] [관련 영상](https://www.youtube.com/watch?v=zmDrb2dZN1c) 의 3분 35초 부분에 있다.
+  - [이선희](../Page/이선희.md "wikilink")는 [1984년](../Page/1984년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") 부모님이 알아볼까봐 퍼머를 하고 치마가 없어 구경 온 여중생의 치마를 빌려 입고 출전했다.\[7\]
+  - [이상은은](../Page/이상은_\(가수\).md "wikilink") 1988년 대상 발표 직후 사회자 이수만이 "지금 제일 생각나는 사람이 누구냐"라고 묻자 흥분한 나머지 [마이클 잭슨이라고](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 외쳤다.\[8\] [관련 영상](https://www.youtube.com/watch?v=zmDrb2dZN1c) 의 3분 35초 부분에 있다.
   - [신해철](../Page/신해철.md "wikilink")은 [1988년](../Page/1988년.md "wikilink"), MBC 강변가요제에 '아기천사' 멤버들과의 친분으로 대타 형식으로 출전해 최종 예선까지 올랐으나 TV 방송되는 본선 진출에는 실패했다. 그때 불렀던 곡은 '슬픈표정 하지 말아요'라고 한다. 이후 같은해 [MBC 대학가요제에서](../Page/MBC_대학가요제.md "wikilink") [무한궤도의](../Page/무한궤도_\(밴드\).md "wikilink") 멤버로 출전해 본선에 진출하여 대상을 수상했다. 대상을 수상한 곡은 \`[그대에게](../Page/그대에게.md "wikilink")\`이다.
   - 가수 [이재영](https://ko.wikipedia.org/wiki/이재영 "wikilink")은 9회에 **내 젊음 목이 말라요**라는 곡으로 출연 하였다.
 
@@ -196,11 +196,10 @@
 [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:문화방송의 음악 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_음악_프로그램 "wikilink") [분류:1970년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1970년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1980년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1980년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1979년 설립](https://ko.wikipedia.org/wiki/분류:1979년_설립 "wikilink") [분류:2001년 폐지](https://ko.wikipedia.org/wiki/분류:2001년_폐지 "wikilink")
 
 1.  제1회는 금상이 최고상이었다.
-2.  영화 《휘파람 공주》의 감독. <http://movie.naver.com/movie/bi/pi/basic.nhn?code=7701>
-3.  〈꿈결 같은 세상〉을 부른 가수 겸 작곡가
-4.
-5.  댄스그룹 [쿨의](../Page/쿨_\(음악_그룹\).md "wikilink") 멤버
-6.  신연아는 [빅마마](../Page/빅마마.md "wikilink") 큰언니
+2.  〈꿈결 같은 세상〉을 부른 가수 겸 작곡가
+3.
+4.  댄스그룹 [쿨의](../Page/쿨_\(음악_그룹\).md "wikilink") 멤버
+5.  신연아는 [빅마마](../Page/빅마마.md "wikilink") 큰언니
+6.
 7.
 8.
-9.

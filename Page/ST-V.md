@@ -72,5 +72,3 @@
   - [SYSTEM 16 ST-V](http://www.system16.com/hardware.php?id=711)
 
 [분류:아케이드 시스템](https://ko.wikipedia.org/wiki/분류:아케이드_시스템 "wikilink") [분류:컴퓨터 하드웨어](https://ko.wikipedia.org/wiki/분류:컴퓨터_하드웨어 "wikilink")
-
-[en:List of Sega arcade system boards\#Sega ST-V](https://ko.wikipedia.org/wiki/en:List_of_Sega_arcade_system_boards#Sega_ST-V "wikilink")

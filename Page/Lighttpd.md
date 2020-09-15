@@ -5,7 +5,7 @@
 
 ## 사용하는 곳
 
-lighttpd는 [웹 2.0](../Page/웹_2.0.md "wikilink") 관련하여 유명한 YouTube, Wikipedia, Sourceforge, Meebo 의 웹 서버로\[2\], 2007년 4월에 집계된 NetCraft의 웹서버 순위에 5번째로 등록이 된 바 있다.\[3\] Alexa의 최상위 250개 사이트 중에 5개 사이트가 랭킹되었다.\[4\]
+lighttpd는 [웹 2.0](../Page/웹_2.0.md "wikilink") 관련하여 유명한 YouTube, Wikipedia, Sourceforge, Meebo 의 웹 서버로(2006년 기준)\[2\], 2007년 4월에 집계된 NetCraft의 웹서버 순위에 5번째로 등록이 된 바 있다.\[3\] Alexa의 최상위 250개 사이트 중에 5개 사이트가 랭킹되었다.\[4\]
 
 ## 제한
 

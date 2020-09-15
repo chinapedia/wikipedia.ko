@@ -58,7 +58,7 @@ openEHR 아키타입은 openEHR 공개 명세인 "Archetype Definition Language(
 
 openEHR 접근방식에 따라서, 공유되고 관리되는 아키타입의 사용은 기술과 기관 그리고 문화적 문맥에 관계없이 세계적으로 openEHR 건강데이터가 일관성을 가지고 작성되고 보여질 수 있다는 것을 보증할 것이다. 이러한 접근방식은 또한 새로운 아키타입이 임상기록유지하기 위한 미래의 필요성을 만족시키도록 정의될 수 있다면 어떠한 EHR에서 사용되는 실제 데이터 모델이라도 유연하게 적용될 수 있다는 것을 의미한다. 최근 호주에서의 작업은 어떻게 아키타입과 템플릿이 openEHR 건강기록시스템 내의 과거 건강기록과 메시지 데이터의 사용을 용이하게 하고 표준화된 메시지와 CDA 문서를 출력하는데 사용될 수 있는 보여준다.
 
-국제수준에서 디자인과 거버넌스의 형식에 대한 합의를 이루기위한 전망은 다양한 의료-법률적 환경에서 문화적 차이 그리고 [reference clinical terminology](https://ko.wikipedia.org/wiki/SNOMED_CT "wikilink")(참조임상용어체계)가 어느정도까지 통합되어야 하는가와 같은 기술적인 차이까지 영향과 함께 이론적인 수준에 머물러 있다.
+국제수준에서 디자인과 거버넌스의 형식에 대한 합의를 이루기위한 전망은 다양한 의료-법률적 환경에서 문화적 차이 그리고 [reference clinical terminology](../Page/SNOMED_CT.md "wikilink")(참조임상용어체계)가 어느정도까지 통합되어야 하는가와 같은 기술적인 차이까지 영향과 함께 이론적인 수준에 머물러 있다.
 
 openEHR 프레임워크는 Electronic Health Record Communication Standard ([ISO 13606](https://ko.wikipedia.org/wiki/ISO_13606 "wikilink"))와 일치하며, Archetype Object Model 2 (AOM2)는 공식적으로 ISO TC 215에 의해 ISO 13606:2 2017년 개정판의 초기명세로 받아들여졌다.
 
@@ -89,9 +89,9 @@ openEHR 모델링 접근방식의 산출물 중에 하나는 건강데이터를 
   - [Health Informatics Service Architecture](https://ko.wikipedia.org/wiki/Health_Informatics_Service_Architecture "wikilink") (HISA)
   - [HIPAA](https://ko.wikipedia.org/wiki/HIPAA "wikilink")
   - [ProRec](https://ko.wikipedia.org/wiki/ProRec "wikilink")
-  - [SNOMED CT](https://ko.wikipedia.org/wiki/SNOMED_CT "wikilink")
+  - [SNOMED CT](../Page/SNOMED_CT.md "wikilink")
 
-## 참고문헌
+## 참고 문헌
 
 ## 외부 링크
 

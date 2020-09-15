@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [KBS N 라이프](https://ko.wikipedia.org/wiki/KBS_N_라이프).
 
 
-**KBS N 라이프**()는 [KBS N의](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 한 채널로서 [인물](../Page/사람.md "wikilink"), [역사](../Page/역사.md "wikilink")와 [다큐멘터리](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink") [프로그램을](../Page/텔레비전_프로그램.md "wikilink") 주로 편성하는 [텔레비전](../Page/텔레비전.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/텔레비전_채널 "wikilink").
+**KBS N 라이프**()는 [KBS N의](../Page/KBS_N.md "wikilink") 한 채널로서 [인물](../Page/사람.md "wikilink"), [역사](../Page/역사.md "wikilink")와 [다큐멘터리](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink") [프로그램을](../Page/텔레비전_프로그램.md "wikilink") 주로 편성하는 [텔레비전](../Page/텔레비전.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/텔레비전_채널 "wikilink").
 
 ## 채널 번호
 
-  - 스카이라이프(올레TV 스카이라이프) 채널 - 116번
+  - 올레TV 스카이라이프 채널 - 116번
   - 올레TV 채널 - 281번
   - LG U+ TV 채널 - 147번
   - SK B TV 채널 - 229번
@@ -24,17 +24,17 @@
 
   - [1996년](../Page/1996년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") (구) KBS 위성 1 (구) KBS 위성방송 (구) SKY KBS 로 개국
   - 1998년 1월 1일 (구) KBS 위성 2TV로 변경
-  - [2002년](../Page/2002년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") (구) **KBS 코리아**로 폐국
-  - [2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") (구) **KBS 프라임**으로 폐국 (구) KBS SKY.명칭로변경.KBSN.합니다
+  - [2002년](../Page/2002년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") (구) **KBS 코리아**로 개국
+  - [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") (구) **KBS 프라임**으로 개국 (구) KBS SKY로 명칭변경. KBSN 출범.
   - [2013년](../Page/2013년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") (구) **KBS 프라임**으로 채널 전환 / **KBS W**으로 개국
-  - [2015년](../Page/2015년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") **KBS N 라이프**로 채널 변경 개국
+  - [2015년](../Page/2015년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") **KBS N 라이프**로 채널 변경
 
 ## 개요
 
   - [1996년](../Page/1996년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") (구) KBS [위성시험방송의](../Page/위성방송.md "wikilink") 일원인 (구) KBS 위성 1 (구) KBS 위성방송 (구) SKY KBS 로 개국.
   - [1998년](../Page/1998년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") (구) KBS 위성 2TV로 변경
   - [2002년](../Page/2002년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") (구) KBS 코리아로 변경
-  - [2005년](../Page/2005년.md "wikilink") [7월](../Page/7월.md "wikilink") [1일](https://ko.wikipedia.org/wiki/1일 "wikilink") 본사 직속에서 계열 케이블 위성 MPP인 (구) KBS SKY로 채널이관
+  - [2005년](../Page/2005년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 본사 직속에서 계열 케이블 위성 MPP인 (구) KBS SKY로 채널이관
   - [2007년](../Page/2007년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") (구) KBS SKY가 KBS N으로 변경함에 따라 채널명을 (구) KBS 코리아에서 (구) KBS prime으로 바꾸었다.\[1\]\[2\]
   - [2012년](../Page/2012년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 케이블TV 방송과 스카이라이프 HD 채널을 여성채널 [KBS W가](../Page/KBS_W.md "wikilink") 개국하면서 넘겨주고 스카이라이프 SD, IPTV(올레tv, B tv, 유플러스 TV)에서만 방송하게 되었다가, [2013년](../Page/2013년.md "wikilink") [3월](../Page/3월.md "wikilink")에 올레tv, 같은 해 [6월](../Page/6월.md "wikilink")에 B tv, 같은 해 [11월](../Page/11월.md "wikilink")에 유플러스 TV 채널을 [KBS W에](../Page/KBS_W.md "wikilink") 넘겨 최종적으로 스카이라이프에서 SD로만 방송하게 된다. 이후 [2014년](../Page/2014년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 스카이라이프 SD 방송이 HD로 전환되어 HD 방송이 재개되었다.
   - [2015년](../Page/2015년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 창사 14주년을 맞이하여 채널명을 (구) KBS 프라임에서 KBS N LIFE(라이프)로 바꾸었다.
@@ -44,13 +44,6 @@
   - [2020년](../Page/2020년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 케이블TV방송 채널번호으로 방송이 재개되었다.
 
 ## 프로그램
-
-### 어린이
-
-|                                                           |                                            |
-| --------------------------------------------------------- | ------------------------------------------ |
-| 미방영                                                       | [누가누가 잘하나](../Page/누가누가_잘하나.md "wikilink") |
-| [TV 유치원](https://ko.wikipedia.org/wiki/TV_유치원 "wikilink") |                                            |
 
   -
   -
@@ -73,10 +66,17 @@
   - [불멸의 이순신](https://ko.wikipedia.org/wiki/불멸의_이순신 "wikilink")
   - [정도전](../Page/정도전_\(드라마\).md "wikilink")
   - [징비록](https://ko.wikipedia.org/wiki/징비록_\(드라마\) "wikilink")
-  - 장희빈
+  - [장희빈](../Page/장희빈_\(2002년_드라마\).md "wikilink")
   - [용의 눈물](../Page/용의_눈물.md "wikilink")
-  - 대왕의 꿈
+  - [명성황후](../Page/명성황후_\(드라마\).md "wikilink")
+  - [천추태후](../Page/천추태후_\(드라마\).md "wikilink")
+  - [대왕의 꿈](../Page/대왕의_꿈.md "wikilink")
+  - [바람의 나라](../Page/바람의_나라_\(드라마\).md "wikilink")
 
+
+\*
+
+  -
 참조
 
 ## 외부 링크

@@ -49,7 +49,7 @@ X.Org 재단이 개발한 X.Org 서버가 X 윈도 시스템의 대표적인 구
 
 [썬 마이크로시스템즈와](../Page/썬_마이크로시스템즈.md "wikilink") [NeXT](../Page/NeXT.md "wikilink") 등 여러 회사와 사람은 X 윈도 시스템과 비슷한 기능을 갖고 있는 소프트웨어 프레임워크를 개발하려고 했다. 다음은 현재 X 윈도 시스템과 비슷한 기능을 제공하는 경쟁 소프트웨어의 목록이다.
 
-  - [OS X과](https://ko.wikipedia.org/wiki/OS_X "wikilink") [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")는 유닉스 계열 운영 체제 중에서 X 윈도를 쓰지 않는 가장 대표적인 운영 체제이다. OS X이 사용하는 윈도 시스템 쿼츠(Quartz)의 개발자 Mike Paquette는 만약 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") X 윈도를 사용해서 운영 체제를 개발했다면 다른 X11 사용 서버와 호환성이 떨어졌을 것이라고 설명했다.\[2\]
+  - [OS X과](https://ko.wikipedia.org/wiki/OS_X "wikilink") [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")는 유닉스 계열 운영 체제 중에서 X 윈도를 쓰지 않는 가장 대표적인 운영 체제이다. OS X이 사용하는 윈도 시스템 쿼츠(Quartz)의 개발자 Mike Paquette는 만약 [애플](../Page/애플.md "wikilink")이 X 윈도를 사용해서 운영 체제를 개발했다면 다른 X11 사용 서버와 호환성이 떨어졌을 것이라고 설명했다.\[2\]
   - [안드로이드는](../Page/안드로이드_\(운영_체제\).md "wikilink") 리눅스 기반 커널을 사용하지만, X 윈도 서비스 대신 SurfaceFlinger라는 디스플레이 서비스를 사용한다.
   - [Wayland는](../Page/웨이랜드.md "wikilink") X.Org 재단 개발자 몇 명이 만든 X 윈도 서비스를 대체하기 위한 디스플레이 서버로, [그래픽 카드](../Page/그래픽_카드.md "wikilink") 하드웨어를 응용 프로그램이 직접 제어할 수 있게 하는 것이 특징이다.
 
@@ -76,7 +76,7 @@ X.Org 재단이 개발한 X.Org 서버가 X 윈도 시스템의 대표적인 구
 
   - [X.Org 재단](http://www.x.org/) 공식 웹사이트
 
-[X_윈도_시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:MIT 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:MIT_라이선스_소프트웨어 "wikilink") [분류:오픈 그룹 표준](https://ko.wikipedia.org/wiki/분류:오픈_그룹_표준 "wikilink")
+[X_윈도_시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:MIT 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:MIT_라이선스_소프트웨어 "wikilink") [분류:오픈 그룹 표준](https://ko.wikipedia.org/wiki/분류:오픈_그룹_표준 "wikilink") [분류:자유 윈도 시스템](https://ko.wikipedia.org/wiki/분류:자유_윈도_시스템 "wikilink")
 
 1.
 2.  [Why Apple didn't use X for the window system](http://developers.slashdot.org/comments.pl?sid=75257&cid=6734612) 19 August 2007

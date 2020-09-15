@@ -32,8 +32,8 @@
 
   - [The Luminous Landscape Review](https://web.archive.org/web/20070303125405/http://www.luminous-landscape.com/reviews/cameras/5d-announce.shtml)
 
-  - [Evaluation du 캐논 EOS 5D](http://astrosurf.com/buil/5d/test.htm)
+  - [Evaluation du 캐논 EOS 5D](https://web.archive.org/web/20070306124537/http://www.astrosurf.com/buil/5d/test.htm)
 
-  - [캐논 5D 자동 포커스](http://astrosurf.com/buil/5d/autofocus/test.htm)
+  - [캐논 5D 자동 포커스](https://web.archive.org/web/20070202153417/http://www.astrosurf.com/buil/5d/autofocus/test.htm)
 
 [분류:캐논 EOS DSLR 카메라](https://ko.wikipedia.org/wiki/분류:캐논_EOS_DSLR_카메라 "wikilink")

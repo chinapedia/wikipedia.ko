@@ -9,7 +9,7 @@
 
 2008년 말에 [컴투스](../Page/컴투스.md "wikilink")에서 [모바일 게임으로](../Page/모바일_게임.md "wikilink") 한국에 출시하였다.
 
-등장하는 보스 캐릭터들은 주로 동물과 식물을 모티브로 삼고 있다. 초반에는 실존하지 않는 동물은 모티브 삼지 않겠다는 계획이 있었지만, [록맨 X4의](../Page/록맨_X4.md "wikilink") '마그마드 드라군'([용](../Page/용.md "wikilink"))과 [록맨 X5의](../Page/록맨_X5.md "wikilink") '스파이럴 페가시온'([페가수스](https://ko.wikipedia.org/wiki/페가수스 "wikilink")), [록맨 X6의](https://ko.wikipedia.org/wiki/록맨_X6 "wikilink") '블레이즈 히트닉스'([불사조](https://ko.wikipedia.org/wiki/불사조 "wikilink"))는 실존하지 않는 상상의 동물을 이용하였고, [록맨 X1의](../Page/록맨_X_\(비디오_게임\).md "wikilink") '버닝 나우만더'([맘모스](https://ko.wikipedia.org/wiki/맘모스 "wikilink"))와 [록맨 X5의](../Page/록맨_X5.md "wikilink") '번 디노렉스'([티라노사우루스](../Page/티라노사우루스.md "wikilink")), [록맨 X8의](https://ko.wikipedia.org/wiki/록맨_X8 "wikilink") '어스록 트릴로비치'([삼엽충](../Page/삼엽충.md "wikilink"))도 실존하지 않는 고대/원시의 동물을 모티브로 하였다.
+등장하는 보스 캐릭터들은 주로 동물과 식물을 모티브로 삼고 있다. 초반에는 실존하지 않는 동물은 모티브 삼지 않겠다는 계획이 있었지만, [록맨 X4의](../Page/록맨_X4.md "wikilink") '마그마드 드라군'([용](../Page/용.md "wikilink"))과 [록맨 X5의](../Page/록맨_X5.md "wikilink") '스파이럴 페가시온'([페가수스](https://ko.wikipedia.org/wiki/페가수스 "wikilink")), [록맨 X6의](../Page/록맨_X6.md "wikilink") '블레이즈 히트닉스'([불사조](https://ko.wikipedia.org/wiki/불사조 "wikilink"))는 실존하지 않는 상상의 동물을 이용하였고, [록맨 X1의](../Page/록맨_X_\(비디오_게임\).md "wikilink") '버닝 나우만더'([맘모스](https://ko.wikipedia.org/wiki/맘모스 "wikilink"))와 [록맨 X5의](../Page/록맨_X5.md "wikilink") '번 디노렉스'([티라노사우루스](../Page/티라노사우루스.md "wikilink")), [록맨 X8의](https://ko.wikipedia.org/wiki/록맨_X8 "wikilink") '어스록 트릴로비치'([삼엽충](../Page/삼엽충.md "wikilink"))도 실존하지 않는 고대/원시의 동물을 모티브로 하였다.
 
 본 게임의 스토리는 [록맨 제로와](../Page/록맨_제로.md "wikilink") 연관되어 있다. 자세한 것은 [록맨 시리즈의 시간적 순서를](https://ko.wikipedia.org/wiki/록맨_시리즈의_시간적_순서 "wikilink") 참조.
 
@@ -31,12 +31,12 @@
 ## 작품
 
   - [록맨 X](../Page/록맨_X_\(비디오_게임\).md "wikilink") ([SFC](../Page/슈퍼_패미컴.md "wikilink")),([PC](../Page/개인용_컴퓨터.md "wikilink")) / 1993년
-  - [록맨 X2](https://ko.wikipedia.org/wiki/록맨_X2 "wikilink") (SFC) / 1994년
+  - [록맨 X2](../Page/록맨_X2.md "wikilink") (SFC) / 1994년
   - [록맨 X3](https://ko.wikipedia.org/wiki/록맨_X3 "wikilink") (SFC, [PS](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"), [SS](../Page/세가_새턴.md "wikilink") , PC) / 1995년, 1996년
   - [록맨 X4](../Page/록맨_X4.md "wikilink") (PS, best, SS, サタコレ, PC) / 1997년, 1998년
   - [록맨 X5](../Page/록맨_X5.md "wikilink") (PC, PS, best) / 2000년, 2002년
-  - [록맨 X6](https://ko.wikipedia.org/wiki/록맨_X6 "wikilink") (PC, PS, best) / 2001년, 2002년
-  - [록맨 X7](https://ko.wikipedia.org/wiki/록맨_X7 "wikilink") (PC, PS2) / 2003년
+  - [록맨 X6](../Page/록맨_X6.md "wikilink") (PC, PS, best) / 2001년, 2002년
+  - [록맨 X7](../Page/록맨_X7.md "wikilink") (PC, PS2) / 2003년
   - [록맨 X8](https://ko.wikipedia.org/wiki/록맨_X8 "wikilink") (PC, PS2) / 2005년
   - 록맨 X 사이버 미션 (GB) / 2000년
   - 록맨 X2 소울 이레이저 (GBC) / 2001년
@@ -55,7 +55,7 @@
 
 ### [X1](../Page/록맨_X_\(비디오_게임\).md "wikilink")
 
-### [X2](https://ko.wikipedia.org/wiki/록맨_X2 "wikilink")
+### [X2](../Page/록맨_X2.md "wikilink")
 
 ### [X3](https://ko.wikipedia.org/wiki/록맨_X3 "wikilink")
 
@@ -63,9 +63,9 @@
 
 ### [X5](../Page/록맨_X5.md "wikilink")
 
-### [X6](https://ko.wikipedia.org/wiki/록맨_X6 "wikilink")
+### [X6](../Page/록맨_X6.md "wikilink")
 
-### [X7](https://ko.wikipedia.org/wiki/록맨_X7 "wikilink")
+### [X7](../Page/록맨_X7.md "wikilink")
 
 ### [X8](https://ko.wikipedia.org/wiki/록맨_X8 "wikilink")
 

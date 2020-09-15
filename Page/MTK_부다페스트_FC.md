@@ -60,6 +60,6 @@
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.mtkhungaria.hu)
+  - [공식 웹사이트](https://web.archive.org/web/20110218053142/http://www.mtkhungaria.hu/)
 
 [분류:헝가리의 축구단](https://ko.wikipedia.org/wiki/분류:헝가리의_축구단 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:MTK_부다페스트_FC "wikilink") [분류:1888년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1888년_설립된_축구단 "wikilink")

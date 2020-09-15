@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NHK 월드 라디오 일본](https://ko.wikipedia.org/wiki/NHK_월드_라디오_일본).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Radio_Japan_logo.svg "wikilink") **NHK 월드 라디오 일본** (NHKワールド・ラジオ日本)은 [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")가 운영하는 [라디오](../Page/라디오.md "wikilink") [국제방송](https://ko.wikipedia.org/wiki/국제방송 "wikilink")이다. 줄여서 **라디오 일본**(Radio Japan)이라고도 한다. [NHK 월드는](../Page/NHK_월드.md "wikilink") [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink") [국제방송](https://ko.wikipedia.org/wiki/국제방송 "wikilink")의 총칭으로, 라디오 일본은 NHK 월드에 속해 있는 방송이다.
+**NHK 월드 라디오 일본**(NHKワールド・ラジオ日本)은 [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink")가 운영하는 [라디오](../Page/라디오.md "wikilink") [국제방송](https://ko.wikipedia.org/wiki/국제방송 "wikilink")이다. 줄여서 **라디오 일본**(Radio Japan)이라고도 한다. [NHK 월드는](../Page/NHK_월드.md "wikilink") [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink") [국제방송](https://ko.wikipedia.org/wiki/국제방송 "wikilink")의 총칭으로, 라디오 일본은 NHK 월드에 속해 있는 방송이다.
 
 ## 역사
 

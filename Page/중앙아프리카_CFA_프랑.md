@@ -42,4 +42,4 @@ CFA 프랑이 처음 도입되었을 때, 지폐는 *프랑스 해외 중앙 출
 
   - [중앙아프리카 경제통화공동체 공식 사이트](https://web.archive.org/web/20081221123727/http://www.cemac.cf/)
 
-[분류:아프리카의 통화](https://ko.wikipedia.org/wiki/분류:아프리카의_통화 "wikilink") [분류:통화](https://ko.wikipedia.org/wiki/분류:통화 "wikilink") [분류:고정 환율](https://ko.wikipedia.org/wiki/분류:고정_환율 "wikilink") [분류:통화 동맹](https://ko.wikipedia.org/wiki/분류:통화_동맹 "wikilink")
+[분류:고정 환율](https://ko.wikipedia.org/wiki/분류:고정_환율 "wikilink") [분류:통화 동맹](https://ko.wikipedia.org/wiki/분류:통화_동맹 "wikilink")

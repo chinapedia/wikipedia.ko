@@ -5,7 +5,7 @@
 
 ## 개요
 
-1943년 사단법인 조선방송협회 대전방송국으로 창설되어 1986년 12월 KBS 공사 직제개편으로 KBS 대전방송총국으로 승격되었다. 1995년 천안과 서산에 설치했던 사업소를 폐지했으며, 1998년 2월에는 목동에 있는 사옥을 폐쇄하고 신사옥을 준공하였다.
+1943년 사단법인 조선방송협회 대전방송국으로 창설되어 1986년 12월 KBS 공사 직제개편으로 KBS 대전방송총국으로 승격되었다. 1995년 천안과 서산에 설치했던 사업소를 폐지했으며, 1998년 2월에는 목동에 있는 사옥을 폐쇄하고 새로 준공을 한 만년동 신사옥을 준공하였다.
 
 보도, 지역현안, 지역민 문제에 대한 시사교양적 프로그램을 자체제작하여 편성하고 있으며, 대부분의 방송은 KBS본사의 프로그램을 릴레이 하여 편성하고 있다. 산업기술, 첨단과학의 도시인 대전특성에 맞게 과학프로젝트팀을 운영하여 제작하는 과학프로그램이 전국방송으로 송출되고 있다.
 
@@ -221,7 +221,7 @@
 <td><p>박명원</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_대전·세종·충남" title="wikilink">KBS 뉴스 7 대전·세종·충남</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7_대전·세종·충남.md" title="wikilink">KBS 뉴스 7 대전·세종·충남</a></p></td>
 <td><p>월~목 40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/손지화" title="wikilink">손지화</a>, <a href="https://ko.wikipedia.org/wiki/박병준" title="wikilink">박병준</a></p></td>
@@ -230,7 +230,7 @@
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 대전·세종·충남</a></p></td>
 <td><p>금요일 5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/성용희" title="wikilink">성용희</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박명원" title="wikilink">박명원</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 대전·세종·충남</a></p></td>
@@ -238,8 +238,8 @@
 주말 10분</p></td>
 <td><p>평일 밤 9시 35분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/양민오" title="wikilink">양민오</a>, <a href="https://ko.wikipedia.org/wiki/전유미" title="wikilink">전유미</a>(평일)<br />
-<a href="https://ko.wikipedia.org/wiki/무작위" title="wikilink">무작위</a> (주말)</p></td>
+<td><p>|<a href="https://ko.wikipedia.org/wiki/양민오" title="wikilink">양민오</a>, <a href="https://ko.wikipedia.org/wiki/김숙경" title="wikilink">김숙경</a>(평일)<br />
+<a href="https://ko.wikipedia.org/wiki/박명원" title="wikilink">박명원</a> (주말)</p></td>
 </tr>
 </tbody>
 </table>
@@ -267,7 +267,7 @@
 
 #### 제2라디오
 
-  - [전유미의 뮤직런](https://ko.wikipedia.org/wiki/전유미의_뮤직런 "wikilink") (연예오락, 평일,18:00\~19:00)(진행 [전유미](https://ko.wikipedia.org/wiki/전유미 "wikilink"))
+  - [전유미의 뮤직런](../Page/전유미의_뮤직런.md "wikilink") (연예오락, 평일,18:00\~19:00)(진행 [전유미](https://ko.wikipedia.org/wiki/전유미 "wikilink"))
   - 프로야구 중계방송 (진행 [김연선](https://ko.wikipedia.org/wiki/김연선 "wikilink"))
 
 #### 음악FM
@@ -305,7 +305,7 @@
   - [송민석](https://ko.wikipedia.org/wiki/송민석 "wikilink")(2005\~2007, 전 KBS 원주국 기자/현 KBS 대전총국 보도국 기자)
   - [유지철](../Page/유지철.md "wikilink")(1995\~1996, 현 KBS 서울본국)
   - [최시중](https://ko.wikipedia.org/wiki/최시중_\(아나운서\) "wikilink")(1996\~2003, 현 KBS 서울본국)
-  - [박성준](https://ko.wikipedia.org/wiki/박성준_\(1969년\) "wikilink")(1996\~2012, 전 JTBC 아나운서 팀장, 현 정치인)
+  - [박성준](../Page/박성준_\(1969년\).md "wikilink")(1996\~2012, 전 JTBC 아나운서 팀장, 현 정치인)
   - [이정헌](https://ko.wikipedia.org/wiki/이정헌_\(기자\) "wikilink")(1998\~1999, 전 JTV 기자/현 JTBC 기자, 앵커)
 
 #### 여성
@@ -341,7 +341,6 @@
   - [방석준](https://ko.wikipedia.org/wiki/방석준 "wikilink")
   - [성용희](https://ko.wikipedia.org/wiki/성용희 "wikilink")
   - [백상현](https://ko.wikipedia.org/wiki/백상현 "wikilink")
-  - [이수복](https://ko.wikipedia.org/wiki/이수복 "wikilink")
   - [박연선](../Page/박연선.md "wikilink")
 
 #### 여성
@@ -392,6 +391,6 @@
 
 ## 외부 링크
 
-  - [KBS대전방송총국 공식 홈페이지](http://daejeon.kbs.co.kr)
+  - [KBS대전방송총국 공식 홈페이지](https://web.archive.org/web/20191021045838/http://daejeon.kbs.co.kr/)
 
 [분류:1943년 설립](https://ko.wikipedia.org/wiki/분류:1943년_설립 "wikilink") [대전](https://ko.wikipedia.org/wiki/분류:한국방송공사의_지역방송국 "wikilink") [분류:대한민국의 대전광역시 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_대전광역시_지상파_방송국 "wikilink") [분류:대한민국의 세종특별자치시 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_세종특별자치시_지상파_방송국 "wikilink") [분류:대한민국의 충청남도 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_충청남도_지상파_방송국 "wikilink")

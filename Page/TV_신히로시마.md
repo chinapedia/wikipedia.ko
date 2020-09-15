@@ -13,7 +13,7 @@
   - [1991년](../Page/1991년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") [음성다중방송](https://ko.wikipedia.org/wiki/음성다중방송 "wikilink") 실시
   - [1997년](../Page/1997년.md "wikilink") [11월](../Page/11월.md "wikilink") 히로시마의 보도 기관 각사에서는 처음으로 전용 우편 번호(734-8585) 사용을 시작한다.(일본의 우편 번호 7자릿수화는 [1998년](../Page/1998년.md "wikilink") [2월 2일부터이지만](../Page/2월_2일.md "wikilink") 1997년 11월부터 이 전용 우편 번호를 홍보하고 있었다)
   - [2000년](../Page/2000년.md "wikilink") 이색적인 캐릭터 「**TV 신히어로 티에스에스**」를 마스코트로 채용.
-  - [2005년](../Page/2005년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개국 30주년.이미지 캐릭터로 히로시마현 출신의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")·[사이조 히데키를](https://ko.wikipedia.org/wiki/사이조_히데키 "wikilink") 1월부터 기용해, 「**정열 전파\!TSS**」를 이용한 캠페인을 1년에 걸쳐서 전개했다.
+  - [2005년](../Page/2005년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 개국 30주년.이미지 캐릭터로 히로시마현 출신의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")·[사이조 히데키를](../Page/사이조_히데키.md "wikilink") 1월부터 기용해, 「**정열 전파\!TSS**」를 이용한 캠페인을 1년에 걸쳐서 전개했다.
   - [2006년](../Page/2006년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") 지상파 디지털 텔레비전 방송의 시험 전파 발사 개시(히로시마 5국 동시)
   - [2006년](../Page/2006년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink") 지상파 디지털 텔레비전 방송 시험 방송 개시(히로시마 5국 동시)
   - [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 4：30 지상 디지털 텔레비전 방송 개시.

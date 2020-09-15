@@ -49,4 +49,4 @@ SCIM을 [KDE](../Page/KDE.md "wikilink")에 최적화하는 것을 목표로 개
 
 [분류:입력기](https://ko.wikipedia.org/wiki/분류:입력기 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink")
 
-1.  [설명 및 플래시 동영상](http://kldp.org/node/75048)
+1.

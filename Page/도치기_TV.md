@@ -38,6 +38,6 @@
 
 ## 외부 링크
 
-  - [공식 사이트](http://www.tochigi-tv.jp/)
+  - [공식 사이트](https://web.archive.org/web/20071011012218/http://www.tochigi-tv.jp/)
 
 [분류:독립 UHF 방송국](https://ko.wikipedia.org/wiki/분류:독립_UHF_방송국 "wikilink") [분류:일본의 텔레비전 방송사](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_방송사 "wikilink") [분류:1997년 설립](https://ko.wikipedia.org/wiki/분류:1997년_설립 "wikilink") [분류:간토 지방의 방송](https://ko.wikipedia.org/wiki/분류:간토_지방의_방송 "wikilink") [분류:도치기현](https://ko.wikipedia.org/wiki/분류:도치기현 "wikilink") [분류:일본의 지방공기업](https://ko.wikipedia.org/wiki/분류:일본의_지방공기업 "wikilink")

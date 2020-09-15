@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [So Hot](https://ko.wikipedia.org/wiki/So_Hot).
 
 
-〈**So Hot**〉은 [원더걸스](../Page/원더걸스.md "wikilink")의 두 번째 싱글 음반이다. [2008년](../Page/2008년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") 타이틀곡 〈**So Hot**〉의 음원과 뮤직비디오가 온라인으로 먼저 공개되었으며, 정식 앨범 발매는 [6월 3일](../Page/6월_3일.md "wikilink") 이루어졌다. 활동하는 세 번째 음반이라는 뜻에서 ‘The 3rd Project’라는 부제가 붙었다.
+〈**So Hot**(쏘 핫,소 핫)〉은 [원더걸스](../Page/원더걸스.md "wikilink")의 두 번째 싱글 음반이다. [2008년](../Page/2008년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") 타이틀곡 〈**So Hot**〉의 음원과 뮤직비디오가 온라인으로 먼저 공개되었으며, 정식 앨범 발매는 [6월 3일](../Page/6월_3일.md "wikilink") 이루어졌다. 활동하는 세 번째 음반이라는 뜻에서 ‘The 3rd Project’라는 부제가 붙었다.
 
 새 곡 공개를 앞두고 하루에 한 장씩 멤버들의 콘셉트 사진을 공개하며 대중들의 관심을 끌었으며, 곡 공개 전날 미국의 음반 사이트에서 음원이 유출되는 일이 벌어지기도 했다. 세련된 모습을 전체적인 앨범의 콘셉트로 잡아 멤버 각자의 개성을 부각시키려고 했다. [정규 앨범에는](../Page/The_Wonder_Years.md "wikilink") 샘플링 허가가 지연되어 [유빈](../Page/유빈.md "wikilink")의 랩 부분이 없었는데, 이번 음반에서는 [선예](../Page/선예.md "wikilink")의 제안으로 랩 버전이 포함되었다.\[1\] 음반 재킷 사진은 [조선희](https://ko.wikipedia.org/wiki/조선희_\(사진가\) "wikilink") 작가가 맡았다.
 

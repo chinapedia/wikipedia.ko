@@ -11,6 +11,8 @@
 
   - [헨리크 라르손](../Page/헨리크_라르손.md "wikilink")
 
+  - [미켈 디스케루트](../Page/미켈_디스케루트.md "wikilink")
+
 ## 외부 링크
 
 [헬싱보리_IF](https://ko.wikipedia.org/wiki/분류:헬싱보리_IF "wikilink") [분류:스웨덴의 축구단](https://ko.wikipedia.org/wiki/분류:스웨덴의_축구단 "wikilink") [분류:1907년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1907년_설립된_축구단 "wikilink") [분류:스코네주의 스포츠](https://ko.wikipedia.org/wiki/분류:스코네주의_스포츠 "wikilink")

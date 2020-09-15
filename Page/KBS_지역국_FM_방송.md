@@ -3,7 +3,7 @@
 
 **KBS 지역국 FM 방송**은 [제1FM](../Page/KBS_제1FM.md "wikilink")(클래식FM)의 프로그램 대부분과 [제2FM](../Page/KBS_제2FM.md "wikilink")(쿨FM)의 일부 프로그램을 편성하여 단일 채널 방송으로 실시하고 있다. 본사에서는 지역국 FM을 클래식FM으로 취급하고 있으며 [2001년](../Page/2001년.md "wikilink") 이후 [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink") 외에는 쿨FM의 프로그램을 들을 수 없었지만, [2017년](../Page/2017년.md "wikilink") [2월 6일부터](../Page/2월_6일.md "wikilink") [굿모닝 팝스가](../Page/굿모닝_팝스.md "wikilink") [제2라디오](../Page/KBS_제2라디오.md "wikilink")(해피FM)에서도 방송됨에 따라 쿨FM 프로그램 송출이 사라졌다. 로컬방송은 다시듣기가 불가능하며 주말에도 지역방송 하는곳은 충청, 대경권뿐이다.
 
-([Cool FM](https://ko.wikipedia.org/wiki/KBS_2FM "wikilink") 프로그램인 [조정현의 굿모닝 팝스는](../Page/굿모닝_팝스.md "wikilink") [KBS Happy FM에서](../Page/KBS_제2라디오.md "wikilink")([Cool FM](../Page/KBS_제2FM.md "wikilink") 수중계), [박명수의 라디오쇼](../Page/박명수의_라디오쇼.md "wikilink"), [정은지의 가요광장은](../Page/가요광장.md "wikilink") 각 지역총국 [KBS Happy FM에서](https://ko.wikipedia.org/wiki/KBS_Happy_FM "wikilink") 청취. 그리고 모든 Cool FM 프로그램은 U-KBS MUSIC으로 청취.)
+([Cool FM](https://ko.wikipedia.org/wiki/KBS_2FM "wikilink") 프로그램인 [김도연의 상쾌한 아침](../Page/상쾌한_아침.md "wikilink"), [조정현의 굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink"), [박명수의 라디오쇼는](../Page/박명수의_라디오쇼.md "wikilink") [KBS Happy FM에서](../Page/KBS_제2라디오.md "wikilink")([Cool FM](../Page/KBS_제2FM.md "wikilink") 수중계), [정은지의 가요광장은](../Page/가요광장.md "wikilink") 각 지역총국 [KBS Happy FM에서](https://ko.wikipedia.org/wiki/KBS_Happy_FM "wikilink") 청취. 그리고 모든 [Cool FM](https://ko.wikipedia.org/wiki/KBS_2FM "wikilink") 프로그램은 U-KBS MUSIC으로 청취.)
 
 ## 일일방송시간
 
@@ -22,15 +22,15 @@
 
 ### 평일 오후 시간대
 
-| 프로그램                                                                | 지역                                                                                                                                                                                                                      | 방송국                                      | 진행자                                                         |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------- |
-| [파워대행진](https://ko.wikipedia.org/wiki/파워대행진 "wikilink")(평일)         | [원주시](../Page/원주시.md "wikilink"), [강원도](../Page/강원도.md "wikilink") 영서 남부                                                                                                                                                | [KBS원주](../Page/KBS원주방송국.md "wikilink")  | 한태호                                                         |
-| 라디오 재즈카페(평일)                                                        | [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink"), [강원도](../Page/강원도.md "wikilink") 영동                                                                                                                                | [KBS강릉](../Page/KBS강릉방송국.md "wikilink")  | 강유미                                                         |
-| [오후의 클래식](https://ko.wikipedia.org/wiki/오후의_클래식 "wikilink")(평일)     | [춘천시](https://ko.wikipedia.org/wiki/춘천시 "wikilink"), [강원도](../Page/강원도.md "wikilink") 영서 북부                                                                                                                             | [KBS춘천](../Page/KBS춘천방송총국.md "wikilink") | 박서정                                                         |
-| [음악이 있는 곳에](https://ko.wikipedia.org/wiki/음악이_있는_곳에 "wikilink")(평일) | [청주시](../Page/청주시.md "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 중남부, [세종특별자치시](../Page/세종특별자치시.md "wikilink")                                                                                   | [KBS청주](../Page/KBS청주방송총국.md "wikilink") | 김윤혜                                                         |
-| Kiss the music(평일)                                                  | [충주시](https://ko.wikipedia.org/wiki/충주시 "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부                                                                                                           | [KBS충주](../Page/KBS충주방송국.md "wikilink")  | 진두연                                                         |
-| 오후의 풍경과 음악(평일)                                                      | [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 중북부, [순천시](../Page/순천시_\(전라남도\).md "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 동부 | [KBS광주](../Page/KBS광주방송총국.md "wikilink") | [정은아](https://ko.wikipedia.org/wiki/정은아_\(KBS\) "wikilink") |
-| 노래하는 오후4시(평일)                                                       | [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")                                                                                                                                                                 | [KBS울산](../Page/KBS울산방송국.md "wikilink")  | [이지향](https://ko.wikipedia.org/wiki/이지향 "wikilink")         |
+| 프로그램                                                                | 지역                                                                                                                                                                                                                      | 방송국                                      | 진행자                                                          |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
+| [파워대행진](https://ko.wikipedia.org/wiki/파워대행진 "wikilink")(평일)         | [원주시](../Page/원주시.md "wikilink"), [강원도](../Page/강원도.md "wikilink") 영서 남부                                                                                                                                                | [KBS원주](../Page/KBS원주방송국.md "wikilink")  | 한태호                                                          |
+| 라디오 재즈카페(평일)                                                        | [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink"), [강원도](../Page/강원도.md "wikilink") 영동                                                                                                                                | [KBS강릉](../Page/KBS강릉방송국.md "wikilink")  | 강유미                                                          |
+| [오후의 클래식](https://ko.wikipedia.org/wiki/오후의_클래식 "wikilink")(평일)     | [춘천시](https://ko.wikipedia.org/wiki/춘천시 "wikilink"), [강원도](../Page/강원도.md "wikilink") 영서 북부                                                                                                                             | [KBS춘천](../Page/KBS춘천방송총국.md "wikilink") | 박서정                                                          |
+| [음악이 있는 곳에](https://ko.wikipedia.org/wiki/음악이_있는_곳에 "wikilink")(평일) | [청주시](../Page/청주시.md "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 중남부, [세종특별자치시](../Page/세종특별자치시.md "wikilink")                                                                                   | [KBS청주](../Page/KBS청주방송총국.md "wikilink") | 김윤혜                                                          |
+| Kiss the music(평일)                                                  | [충주시](https://ko.wikipedia.org/wiki/충주시 "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부                                                                                                           | [KBS충주](../Page/KBS충주방송국.md "wikilink")  | 진두연                                                          |
+| 오후의 풍경과 음악(평일)                                                      | [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 중북부, [순천시](../Page/순천시_\(전라남도\).md "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 동부 | [KBS광주](../Page/KBS광주방송총국.md "wikilink") | [정은아](https://ko.wikipedia.org/wiki/정은아_\(아나운서\) "wikilink") |
+| 노래하는 오후4시(평일)                                                       | [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")                                                                                                                                                                 | [KBS울산](../Page/KBS울산방송국.md "wikilink")  | [이지향](https://ko.wikipedia.org/wiki/이지향 "wikilink")          |
 
 ### 매일 시간대
 
@@ -103,15 +103,15 @@
 
 ## 라디오시보
 
-  - KBS춘천FM시보:이의선 아나운서
-  - KBS강릉FM시보:정은지 아나운서
-  - KBS원주FM시보:김혜정 아나운서
-  - KBS대전FM시보:김연선,전유미 아나운서
-  - KBS충주FM시보:김경희 아나운서
-  - KBS대구FM시보:송현주,손지민 아나운서(KBS안동과 포항은 관할국인 KBS대구FM을 내보냄)
-  - KBS부산FM시보:이지현 아나운서
-  - KBS울산FM시보:이지향 아나운서
-  - KBS창원FM시보:신유진 아나운서(KBS진주는 관할국인 KBS창원FM을 내보냄)
-  - KBS광주FM시보:임진숙 아나운서(KBS순천은 관할국인 KBS광주FM을 내보냄)
+  - KBS춘천 클래식FM시보:이의선 아나운서
+  - KBS강릉 FM시보:정은지 아나운서
+  - KBS원주 FM시보:김혜정 아나운서
+  - KBS대전 FM시보:김연선,전유미 아나운서
+  - KBS충주 FM시보:김경희 아나운서
+  - KBS대구 FM시보:송현주,손지민 아나운서(KBS안동과 포항은 관할국인 KBS대구FM을 내보냄)
+  - KBS부산 FM시보:이지현 아나운서
+  - KBS울산 FM시보:이지향 아나운서
+  - KBS창원 FM시보:신유진 아나운서(KBS진주는 관할국인 KBS창원FM을 내보냄)
+  - KBS광주 FM시보:임진숙 아나운서(KBS순천은 관할국인 KBS광주FM을 내보냄)
 
 [분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:한국방송공사의_지역방송국 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:한국방송공사의_라디오_네트워크 "wikilink")

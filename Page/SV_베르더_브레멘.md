@@ -9,7 +9,7 @@
 
 현 클럽의 전신 SV 베르더는 1899년 9월 10일에 [ASC 1898 브레멘을](https://ko.wikipedia.org/wiki/ASC_1898_브레멘 "wikilink") 상대로 첫 경기를 펼쳤고, 이 원정 경기에서 1-0 승리를 거두었다. 1900년, FV 브레멘은 [라이프치히](../Page/라이프치히.md "wikilink")의 독일 축구 협회 (DFB) 창단 멤버 중 하나가 되었다. 그 후, 클럽은 창단 초기에 성공을 거두었는데, 이 시기에 몇 기의 지역 챔피언쉽 우승을 거두었다. FV 브레멘은 플레이오프를 통해 북독일 축구 연맹 (NFV)의 국가 챔피언쉽에 도전하였고, 일곱 지역 리그시즌 중중 한 시즌에 참가하였지만, 본선 진출에 실패하였다. 그들은 최초로 유료 관중을 받아들이고, 필드 주위에 펜스를 최초로 친 클럽이었다.
 
-1914년 4월, 클럽은 알게마이너 브레머 툰버라인 1860 (Allgemeiner Bremer Turnverein 1860)의 일부가 단기간 동안 되었고, 스포타브테일룽 베르더 데스 ABTV (Sportabteilung Werder des ABTV)라고 불리었다. 하지만, 이 관계는 멀지 않아 끝나버렸고, 두달 뒤, 베르더는 독립된 클럽이 되었다.
+1914년 4월, 클럽은 알게마이너 브레머 툰버라인 1860(Allgemeiner Bremer Turnverein 1860)의 일부가 단기간 동안 되었고, 스포타브테일룽 베르더 데스 ABTV (Sportabteilung Werder des ABTV)라고 불리었다. 하지만, 이 관계는 멀지 않아 끝나버렸고, 두달 뒤, 베르더는 독립된 클럽이 되었다.
 
 [제 1차 세계대전](https://ko.wikipedia.org/wiki/제_1차_세계대전 "wikilink") 이후로 꾸준히 타 스포츠 클럽을 받아들이며 성장한 베르더는 1920년 1월 19일에 현재의 명칭인 스포트버라인 베르더 브레멘 (Sportverein Werder Bremen)으로 개칭하였다. 축구는 현재까지도 클럽의 1차 관심사가 되었고, 1922년, 그들은 독일 클럽 최초의 프로 코치를 내정하였다. 그 후, 1920년대에서 1930년대초까지 연말 NFV 플레이오프에 도전하였으나, 성공을 거두지는 못하였다.
 
@@ -191,7 +191,7 @@
   -
   - [SV 베르더 브레멘 공식 웹사이트](http://www.werder.de/)
 
-[\*](https://ko.wikipedia.org/wiki/분류:베르더_브레멘 "wikilink") [분류:독일의 축구단](https://ko.wikipedia.org/wiki/분류:독일의_축구단 "wikilink") [분류:1899년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1899년_설립된_축구단 "wikilink") [분류:브레멘주의 축구단](https://ko.wikipedia.org/wiki/분류:브레멘주의_축구단 "wikilink")
+[SV_베르더_브레멘](https://ko.wikipedia.org/wiki/분류:SV_베르더_브레멘 "wikilink") [분류:독일의 축구단](https://ko.wikipedia.org/wiki/분류:독일의_축구단 "wikilink") [분류:1899년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1899년_설립된_축구단 "wikilink") [분류:브레멘주의 축구단](https://ko.wikipedia.org/wiki/분류:브레멘주의_축구단 "wikilink")
 
 1.
 2.

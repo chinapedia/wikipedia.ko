@@ -40,7 +40,7 @@
 <td><p><strong>최우수연기상</strong></p></td>
 <td><p><a href="../Page/최불암.md" title="wikilink">최불암</a><br />
 <a href="../Page/김혜자.md" title="wikilink">김혜자</a></p></td>
-<td></td>
+<td><p><a href="../Page/강남가족.md" title="wikilink">강남가족</a></p></td>
 <td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1974120400099208010&amp;editNo=1&amp;printCount=1&amp;publishDate=1974-12-04&amp;officeId=00009&amp;pageNo=8&amp;printNo=2696&amp;publishType=00020">2</a></p></td>
 </tr>
 <tr class="even">
@@ -57,7 +57,8 @@
 <td><p>텔런트부문 <strong>최우수연기상</strong></p></td>
 <td><p><a href="../Page/김무생.md" title="wikilink">김무생</a><br />
 <a href="../Page/김자옥.md" title="wikilink">김자옥</a></p></td>
-<td><p>-</p></td>
+<td><p><a href="../Page/집념_(드라마).md" title="wikilink">집념</a>, <a href="../Page/사미인곡_(드라마).md" title="wikilink">사미인곡</a><br />
+쇠랑산 처녀</p></td>
 <td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1976102700329208008&amp;editNo=2&amp;printCount=1&amp;publishDate=1976-10-27&amp;officeId=00032&amp;pageNo=8&amp;printNo=9564&amp;publishType=00020">4</a></p></td>
 </tr>
 <tr class="even">
@@ -1982,7 +1983,7 @@ FM 박인희와 함께</p></td>
 <tr class="odd">
 <td><p>드라마 부문 여자 우수상</p></td>
 <td><p><a href="../Page/배종옥.md" title="wikilink">배종옥</a></p></td>
-<td><p><a href="../Page/고개숙인_남자.md" title="wikilink">고개숙인 남자</a></p></td>
+<td><p><a href="../Page/행복어사전.md" title="wikilink">행복어사전</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3066,7 +3067,7 @@ MBC 탤런트실장<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/유희열" title="wikilink">유희열</a><br />
 <a href="../Page/김방희_(1964년).md" title="wikilink">김방희</a></p></td>
 <td><p><a href="../Page/FM_음악도시.md" title="wikilink">FM 음악도시</a><br />
-<a href="https://ko.wikipedia.org/wiki/손에_잡히는_경제" title="wikilink">손에 잡히는 경제</a></p></td>
+<a href="../Page/손에_잡히는_경제.md" title="wikilink">손에 잡히는 경제</a></p></td>
 </tr>
 <tr class="even">
 <td><p>라디오 효과담당 부문 특별상</p></td>
@@ -3670,7 +3671,7 @@ SMI 엔터테인먼트 이사</p></td>
 <td><p><a href="../Page/정은영.md" title="wikilink">정은영</a><br />
 <a href="https://ko.wikipedia.org/wiki/박미라" title="wikilink">박미라</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/생방송_오늘_아침" title="wikilink">생방송 아주 특별한 아침</a> '아주 특별한 브리핑'<br />
-<a href="https://ko.wikipedia.org/wiki/시선집중" title="wikilink">손석희의 시선집중</a> 外</p></td>
+<a href="../Page/시선집중.md" title="wikilink">손석희의 시선집중</a> 外</p></td>
 </tr>
 <tr class="even">
 <td><p>공로상</p></td>
@@ -3905,7 +3906,7 @@ SMI 엔터테인먼트 이사</p></td>
 <a href="../Page/지상렬.md" title="wikilink">지상렬</a></p></td>
 <td><p><a href="../Page/두시의_데이트.md" title="wikilink">두시의 데이트</a><br />
 <a href="https://ko.wikipedia.org/wiki/굿모닝_FM" title="wikilink">굿모닝 FM</a><br />
-<a href="https://ko.wikipedia.org/wiki/두시만세" title="wikilink">지상렬, 노사연의 두시 만세</a></p></td>
+<a href="../Page/두시만세.md" title="wikilink">지상렬, 노사연의 두시 만세</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>라디오 부문 특별상</p></td>
@@ -6130,10 +6131,10 @@ MBC 야구해설위원</p></td>
   - 배우 [김혜자](../Page/김혜자.md "wikilink")는 [1988년](../Page/1988년.md "wikilink"), [1992년](../Page/1992년.md "wikilink"), [1999년](../Page/1999년.md "wikilink") 수상, [고두심](../Page/고두심.md "wikilink")은 [1990년](../Page/1990년.md "wikilink"), [2004년](../Page/2004년.md "wikilink") 수상, [김희애](../Page/김희애.md "wikilink")는 [1991년](../Page/1991년.md "wikilink"), [1993년](../Page/1993년.md "wikilink") 수상, [채시라](../Page/채시라.md "wikilink")는 [1994년](../Page/1994년.md "wikilink"), [1995년](../Page/1995년.md "wikilink") 수상으로 **MBC 연기대상 최다 수상자**로 기록되어 있다.
   - [2004년](../Page/2004년.md "wikilink") **연기대상** 시상식에서 드라마 《[한강수 타령](https://ko.wikipedia.org/wiki/한강수_타령 "wikilink")》의 저조한 시청률과 화제성, 연기력 등의 호평이 없는데도 불구하고 대상에 [고두심](../Page/고두심.md "wikilink")을 비롯해, 남녀 최우수연기상에 [최민수](../Page/최민수.md "wikilink")와 [김혜수](../Page/김혜수.md "wikilink"), 우수연기상에 [김석훈](../Page/김석훈.md "wikilink")과 [김민선](../Page/김규리_\(1979년_8월\).md "wikilink"), 공로상에 최종수 PD 등 몰아주기 시상으로 공정성에 많은 비판이 쏟아지기도 했다.\[6\]
   - [2008년](../Page/2008년.md "wikilink") **연기대상** 사상 처음으로 **대상**을 두 배우가 공동수상하면서 논란이 일었으며\[7\]\[8\] 2년 뒤인 [2010년](../Page/2010년.md "wikilink")에도 공동수상이 일어나면서 비판을 받았다.\[9\]\[10\]
-  - [2010년](../Page/2010년.md "wikilink") **연기대상**에서 대상을 받은 [한효주](../Page/한효주.md "wikilink")는 수상 당시 23살로 MBC 연기대상 역대 최연소 대상 수상자로 기록되어 있다.
+  - [2010년](../Page/2010년.md "wikilink") **연기대상**에서 대상을 받은 [한효주](../Page/한효주.md "wikilink")는 수상 당시 23살로 **MBC 연기대상 역대 최연소 대상 수상자**로 기록되어 있다.
   - [2011년](../Page/2011년.md "wikilink") **연기대상**은 그 동안 배우에게 대상을 주던 연기대상에서 작품에게 대상을 주는 **드라마대상**으로 바뀌었다. 이는 같은 해 [MBC 방송연예대상에서](../Page/MBC_방송연예대상.md "wikilink") 방송연예대상이 '최고의 프로그램'에게 대상을 주는 것으로 바꾸면서, 덩달아 연기대상까지 작품에게 주는 것으로 바뀌었다. 이로 인해 논란이 많았으며, 이 후 [2012년](../Page/2012년.md "wikilink")부터 대상을 원래대로 배우에게 주는 것으로 바뀌었다.
   - [2012년](../Page/2012년.md "wikilink") **연기대상**은 동시간대 시청률 1위를 기록하며 좋은 연기력을 선보인 '[마의](https://ko.wikipedia.org/wiki/마의_\(드라마\) "wikilink")' [조승우](https://ko.wikipedia.org/wiki/조승우 "wikilink")의 대상 수상 자체에는 이견이 없었으나, 유력한 대상 후보 중 한명이었던 '[빛과 그림자](../Page/빛과_그림자_\(2011년_드라마\).md "wikilink")'의 [안재욱](../Page/안재욱.md "wikilink")이 이 시상식에서 아무런 상도 타지 못한채 무관에 그치며 논란이 일었다.\[11\]
-  - [2013년](../Page/2013년.md "wikilink") **연기대상**에서 후보에 오른 연기자들이 대부분 참석을 하지 않아 반쪽짜리 시상식이라는 평을 받았다.\[12\] 이전의 연기대상에서 지적을 받은 공동 수상과 밀어주기 논란 등은 [2013년](../Page/2013년.md "wikilink") 연기대상에서도 이어졌으며, 역사왜곡으로 논란이 일었던 드라마 《[기황후](../Page/기황후_\(드라마\).md "wikilink")》는 대상, 올해의 작가상 등 다수의 상을 수상하였는데, 총 50부작 방영 예정으로 시상식이 열리는 당시에는 기껏해야 18회 밖에 방송이 되지 않은 상태에서 시청률이나 공헌도 면에서 다른 작품보다 압도적이지도 않은 '《기황후》 밀어주기'라는 지적을 받았다. 더군다나 당시 몇몇 아이돌 출신의 배우들이 수상소감에서 비교적 불성실한 태도를 보인 것이 네티즌들의 많은 불만을 야기했다. 특히나, 아이돌 출신 배우, S양의 소감연을 보고있던 연기파 배우, J군이 불쾌한 표정으로 보고있었다는 점이 논란이 되어 S양의 수상소감이 장시간동안 실시간 검색순위에서 상위권에 오르는 등 큰 논란을 일으켰다. 이에 대해 S양의 소속사 측은 가수,예능인이 아닌 배우로써의 첫 수상소감이라 서투른 부분이 있었다며 사과했고, J군 측은 자신이 지었던 표정은 오해라며 정정했다.\[13\]
+  - [2013년](../Page/2013년.md "wikilink") **연기대상**은 후보에 오른 연기자들이 대부분 참석을 하지 않아 반쪽짜리 시상식이라는 평을 받았다.\[12\] 이전의 연기대상에서 지적을 받은 공동 수상과 밀어주기 논란 등은 [2013년](../Page/2013년.md "wikilink") 연기대상에서도 이어졌으며, 역사왜곡으로 논란이 일었던 드라마 《[기황후](../Page/기황후_\(드라마\).md "wikilink")》는 대상, 올해의 작가상 등 다수의 상을 수상하였는데, 총 50부작 방영 예정으로 시상식이 열리는 당시에는 기껏해야 18회 밖에 방송이 되지 않은 상태에서 시청률이나 공헌도 면에서 다른 작품보다 압도적이지도 않은 '《기황후》 밀어주기'라는 지적을 받았다. 더군다나 당시 몇몇 아이돌 출신의 배우들이 수상소감에서 비교적 불성실한 태도를 보인 것이 네티즌들의 많은 불만을 야기했다. 특히나, 아이돌 출신 배우, S양의 소감연을 보고있던 연기파 배우, J군이 불쾌한 표정으로 보고있었다는 점이 논란이 되어 S양의 수상소감이 장시간동안 실시간 검색순위에서 상위권에 오르는 등 큰 논란을 일으켰다. 이에 대해 S양의 소속사 측은 가수,예능인이 아닌 배우로써의 첫 수상소감이라 서투른 부분이 있었다며 사과했고, J군 측은 자신이 지었던 표정은 오해라며 정정했다.\[13\]
   - [2014](https://ko.wikipedia.org/wiki/2014 "wikilink")년 **연기대상**부터는 수상자 선정에 있어서 기존의 심사와는 다르게 대상 후보는 MBC 드라마본부장, 드라마 평론가, 시청자위원회 위원, 탤런트협회 관계자, 촬영감독연합회 관계자, PD연합회 관계자, 대중문화 전문교수 등으로 구성된 심사자문위원단이 결정을 하고, 최종 수상자는 시청자들의 문자 투표 비율 100%로 결정되는 것이 발표되었다. 이에 대해 네티즌들과 언론에서는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")의 결정이 선뜻 이해하기 어렵다는 반응이었다. 이는 엄연히 인기상 부문이 있는데도 시청자 투표로 대상을 뽑는 의도가 분명치 않는다. 또한 전문가들의 심층적이고 날카로운 평가는 최종 선정 단계에선 전혀 반영되지 않는다는 것과, 더불어 팬들이 많고 투표에 적극적인 배우의 팬층일수록 대상 수상에 절대적으로 유리하게 된다. 그리고 드라마를 위해 땀방울을 쏟은 배우들의 사기 저하도 염려될 뿐만 아니라 아무리 연기를 잘해도 인기가 없으면 대상 받기가 어려워졌으며, 대상 트로피의 권위가 떨어질 우려가 있다는 이유이다.\[14\]\[15\]
   - [2017년](../Page/2017년.md "wikilink") **연기대상**에서 역적에 출연한 배우들 대부분이 상을 받았으나 주연 배우인 [윤균상](../Page/윤균상.md "wikilink")만 상을 받지 못했는데 타 방송사 드라마 촬영 일정으로 인하여 시상식에 불참을 해서 상을 받지 못했다는 논란이 있었다.\[16\]
   - [2018년](../Page/2018년.md "wikilink")과 [2019년](../Page/2019년.md "wikilink") **연기대상**은 최우수 연기상 수상자가 자동으로 대상 후보가 되는 방식으로 진행되었다. 이에 따라 [2018년](../Page/2018년.md "wikilink") **연기대상**은 대상 수상자인 [소지섭](../Page/소지섭.md "wikilink")을 포함하여 최우수 연기자상 수상자만 무려 10명에게 수여됐으며 \[17\] [2019년](../Page/2019년.md "wikilink") **연기대상**은 대상 수상자인 [김동욱을](../Page/김동욱_\(배우\).md "wikilink") 포함하여 총 7명에게 최우수 연기자상이 수여됐다. 하지만 최우수 연기상 수상이 유력했던 배우들이 시상식장에 불참했다는 이유로 아무런 상도 타지 못한 채 무관에 그치는 등 수상자 선정에 대해 논란이 일었다.\[18\]

@@ -92,7 +92,7 @@
 
 ## 외부 링크
 
-  - [공식 사이트](http://www.sun-tv.co.jp/)
+  - [공식 사이트](https://web.archive.org/web/20180816002041/http://sun-tv.co.jp/)
 
   - [한신 아와지 대지진 당시 SUN-TV 보도 기록(일본어 번역문)](http://j2k.naver.com/j2k_frame.php/korean/www.sun-tv.co.jp/shinsai/hd-eq-10.html)
 

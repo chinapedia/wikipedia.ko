@@ -35,7 +35,7 @@ CBS는 [1927년](../Page/1927년.md "wikilink") [1월 27일](../Page/1월_27일.
   - 《[CSI 마이애미](../Page/CSI:_마이애미.md "wikilink")》
   - 《[CSI 뉴욕](https://ko.wikipedia.org/wiki/CSI뉴욕 "wikilink")》
   - 《[CSI 사이버](https://ko.wikipedia.org/wiki/CSI:_사이버 "wikilink")》
-  - 《[NCIS](https://ko.wikipedia.org/wiki/NCIS_\(TV_시리즈\) "wikilink")》
+  - 《[NCIS](../Page/NCIS_\(드라마\).md "wikilink")》
   - 《[NCIS: 로스앤젤레스](../Page/NCIS:_로스앤젤레스.md "wikilink")》
   - 《[NCIS: 뉴올리언스](https://ko.wikipedia.org/wiki/NCIS:_뉴올리언스 "wikilink")》
   - 《[NUMB3RS](https://ko.wikipedia.org/wiki/NUMB3RS "wikilink")》
@@ -84,7 +84,7 @@ CBS는 [1927년](../Page/1927년.md "wikilink") [1월 27일](../Page/1월_27일.
 
   - [CBS 공식 홈페이지](http://www.cbs.com/)
 
-[분류:바이어컴CBS의 자회사](https://ko.wikipedia.org/wiki/분류:바이어컴CBS의_자회사 "wikilink") [분류:미국의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:미국의_텔레비전_네트워크 "wikilink") [분류:1927년 설립](https://ko.wikipedia.org/wiki/분류:1927년_설립 "wikilink") [분류:CBS 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:CBS_텔레비전_네트워크 "wikilink") [분류:후지 뉴스 네트워크](https://ko.wikipedia.org/wiki/분류:후지_뉴스_네트워크 "wikilink") [분류:뉴욕 양키스 구단주](https://ko.wikipedia.org/wiki/분류:뉴욕_양키스_구단주 "wikilink") [분류:피버디상 수상자](https://ko.wikipedia.org/wiki/분류:피버디상_수상자 "wikilink")
+[분류:바이어컴CBS의 자회사](https://ko.wikipedia.org/wiki/분류:바이어컴CBS의_자회사 "wikilink") [분류:미국의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:미국의_텔레비전_네트워크 "wikilink") [분류:1927년 설립](https://ko.wikipedia.org/wiki/분류:1927년_설립 "wikilink") [분류:CBS 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:CBS_텔레비전_네트워크 "wikilink") [분류:뉴욕 양키스 구단주](https://ko.wikipedia.org/wiki/분류:뉴욕_양키스_구단주 "wikilink") [분류:피버디상 수상자](https://ko.wikipedia.org/wiki/분류:피버디상_수상자 "wikilink")
 
 1.  미니아폴리스 WCCO-TV의 위성 중계
 2.

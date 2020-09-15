@@ -211,7 +211,7 @@
 | 179 | [8월 19일](../Page/8월_19일.md "wikilink")   | 故 김경득 변호사                                              | [재일교포](https://ko.wikipedia.org/wiki/재일교포 "wikilink")        | 이근행 | 정은주 |
 | 180 | [8월 26일](../Page/8월_26일.md "wikilink")   | 유순신 대표                                                 | 헤드헌터 유니코서치                                                   | 조능희 | 이아미 |
 | 181 | [9월 2일](../Page/9월_2일.md "wikilink")     | 강수진                                                    | 슈루트가르트 발레단 프리 마돈나                                            | 이근행 | 윤희명 |
-| 182 | [9월 9일](../Page/9월_9일.md "wikilink")     | 남상해 회장                                                 | ㈜ 하림각                                                        | 배인규 | 고희갑 |
+| 182 | [9월 9일](../Page/9월_9일.md "wikilink")     | [남상해](https://ko.wikipedia.org/wiki/남상해 "wikilink") 회장 | ㈜ 하림각                                                        | 배인규 | 고희갑 |
 | 183 | [9월 16일](../Page/9월_16일.md "wikilink")   | [이외수](../Page/이외수.md "wikilink")                       | 소설가                                                          | 이현숙 | 송미경 |
 | 184 | [9월 23일](../Page/9월_23일.md "wikilink")   | 조세현                                                    | 사진 작가                                                        | 박건식 | 정은주 |
 | 185 | [10월 7일](../Page/10월_7일.md "wikilink")   | 성호정 대표                                                 | ㈜ 송학식품                                                       | 조능희 | 이아미 |
@@ -238,10 +238,6 @@
 <references/>
 
   - 문화방송연지 (1998\~2002년), [국회도서관](../Page/대한민국_국회도서관.md "wikilink") 소장
-
-## 외부 링크
-
-  - [다큐멘터리 성공시대 다시보기](http://www.imbc.com/broad/tv/culture/success/index.html) - VOD 제공 및 다시보기
 
 [분류:1997년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1997년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2001년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2001년에_종료한_대한민국_TV_프로그램 "wikilink") [분류:문화방송의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_시사교양_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink")
 

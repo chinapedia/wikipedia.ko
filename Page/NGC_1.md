@@ -30,7 +30,7 @@ NGC 1은 [웁살라 일반목록과](https://ko.wikipedia.org/wiki/웁살라_일
   -
   - [SEDS](http://spider.seds.org/ngc/revngcic.cgi?NGC1)
 
-[분류:페가수스자리](https://ko.wikipedia.org/wiki/분류:페가수스자리 "wikilink") [분류:나선은하](https://ko.wikipedia.org/wiki/분류:나선은하 "wikilink") [0001](https://ko.wikipedia.org/wiki/분류:NGC_천체 "wikilink") [분류:1861년 발견한 천체](https://ko.wikipedia.org/wiki/분류:1861년_발견한_천체 "wikilink") [분류:PGC 천체](https://ko.wikipedia.org/wiki/분류:PGC_천체 "wikilink") [분류:UGC 천체](https://ko.wikipedia.org/wiki/분류:UGC_천체 "wikilink")
+[분류:페가수스자리](https://ko.wikipedia.org/wiki/분류:페가수스자리 "wikilink") [분류:나선은하](https://ko.wikipedia.org/wiki/분류:나선은하 "wikilink") [0001](https://ko.wikipedia.org/wiki/분류:NGC_천체 "wikilink") [분류:1861년 발견한 천체](https://ko.wikipedia.org/wiki/분류:1861년_발견한_천체 "wikilink") [분류:PGC 천체](https://ko.wikipedia.org/wiki/분류:PGC_천체 "wikilink") [분류:UGC 천체](https://ko.wikipedia.org/wiki/분류:UGC_천체 "wikilink") [분류:정상나선은하](https://ko.wikipedia.org/wiki/분류:정상나선은하 "wikilink")
 
 1.
 2.

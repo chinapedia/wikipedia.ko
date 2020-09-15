@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [브레인TV](https://ko.wikipedia.org/wiki/브레인TV).
 
 
-**브레인TV**(BrainTV)는 [대한민국](../Page/대한민국.md "wikilink") 최초 [장기](../Page/장기.md "wikilink") 및 [체스](https://ko.wikipedia.org/wiki/체스 "wikilink") 전문 채널이다. 장기, 체스, [쇼기](https://ko.wikipedia.org/wiki/쇼기 "wikilink") 등 세계 각종 장기, 두뇌 관련 콘텐츠 등 다양한 Edutainment(Education + Entertainment) 들을 다룬다. 채널의 이름은 [두뇌를](../Page/뇌.md "wikilink") 뜻하는 [영어](../Page/영어.md "wikilink")단어인 **브레인**(**Brain**)과 **TV**를 합쳐서 만든 것이다. 2004년 10월에 정식으로 [방송](../Page/방송.md "wikilink")이 시작되었다. 전국 케이블TV와 위성방송 [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink") 채널 142번에서 시청할 수 있다.\[1\] 또한 [인터넷 프로토콜 텔레비전](https://ko.wikipedia.org/wiki/인터넷_프로토콜_텔레비전 "wikilink")(IPTV)인 [올레TV](https://ko.wikipedia.org/wiki/KT_QOOK_TV "wikilink") CH 132, [SK 브로드밴드](https://ko.wikipedia.org/wiki/SK_브로드앤_TV "wikilink") CH 242, LG 유플러스 CH 98 에서도 시청이 가능하다.
+**브레인TV**(BrainTV)는 [대한민국](../Page/대한민국.md "wikilink") 최초 [장기](../Page/장기.md "wikilink") 및 [체스](https://ko.wikipedia.org/wiki/체스 "wikilink") 전문 채널이다. 장기, 체스, [쇼기](https://ko.wikipedia.org/wiki/쇼기 "wikilink") 등 세계 각종 장기, 두뇌 관련 콘텐츠 등 다양한 Edutainment(Education + Entertainment) 들을 다룬다. 채널의 이름은 [두뇌를](../Page/뇌.md "wikilink") 뜻하는 [영어](../Page/영어.md "wikilink")단어인 **브레인**(**Brain**)과 **TV**를 합쳐서 만든 것이다. 2004년 10월에 정식으로 [방송](../Page/방송.md "wikilink")이 시작되었다. 전국 케이블TV와 위성방송 [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink") 채널 142번에서 시청할 수 있다.\[1\] 또한 [인터넷 프로토콜 텔레비전](https://ko.wikipedia.org/wiki/인터넷_프로토콜_텔레비전 "wikilink")(IPTV)인 [올레TV](https://ko.wikipedia.org/wiki/KT_QOOK_TV "wikilink") CH 122, [SK 브로드밴드](https://ko.wikipedia.org/wiki/SK_브로드앤_TV "wikilink") CH 242, LG 유플러스 CH 98 에서도 시청이 가능하다.
 
 ## 프로그램
 

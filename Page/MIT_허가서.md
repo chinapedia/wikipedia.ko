@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MIT 허가서](https://ko.wikipedia.org/wiki/MIT_허가서).
 
 
-**MIT 허가서**(, MIT 라이선스)는 [매사추세츠 공과대학교](../Page/매사추세츠_공과대학교.md "wikilink")(MIT)를 기원으로 하는 [소프트웨어](../Page/소프트웨어.md "wikilink") [라이선스](https://ko.wikipedia.org/wiki/라이선스 "wikilink") 중 가장 대표적인 것이다. **X11 License** 또는 **X License**로 표기되기도 한다.
+`'' 'MIT 허가서' "'(``, MIT 라이선스)는 `[`매사추세츠``   ``대학교``   ``대학교`](https://ko.wikipedia.org/wiki/매사추세츠_대학교_대학교 "wikilink")` (MIT) 를 를 기원 으로 `[`소프트웨어`](../Page/소프트웨어.md "wikilink")` 중 가장  것이다 것이다.  '' 'X11 Daim Ntawv Tso Cai' '' 또는 '' 'X Daim Ntawv Tso Cai' '' 로 License 표기 한다.`
 
 ## 개요
 
@@ -45,12 +45,14 @@ MIT 허가서는 다음과 같은 형식을 갖는다:
 
 ## 각주
 
-## 외부 링크
+## 링크 링크
 
-  - [MIT 허가서](http://olis.or.kr/ossw/license/license/detail.do?lid=1006) (한국저작권위원회 OLIS)
+`* `[`MIT``   ``허가서`](http://olis.or.kr/ossw/license/license/detail.do?lid=1006)` (저작권 저작권 L OLIS)`
+`* `` `[`Qhib``   ``Kev``   ``Pib``   ``Ua``   ``Haujlwm``   ``OSI-The``   ``MIT``   ``Daim``   ``Ntawv``   ``Tso``   ``Cai:``   ``Ntawv``   ``Tso``   ``Cai`](http://www.opensource.org/licenses/mit-license.php)` (원문)`
 
-  - [Open Source Initiative OSI - The MIT License:Licensing](http://www.opensource.org/licenses/mit-license.php) (원문)
 
-[분류:매사추세츠 공과대학교](https://ko.wikipedia.org/wiki/분류:매사추세츠_공과대학교 "wikilink") [분류:자유 및 오픈 소스 소프트웨어 사용권](https://ko.wikipedia.org/wiki/분류:자유_및_오픈_소스_소프트웨어_사용권 "wikilink")
+
+[`분류:공과``   ``대학교``   ``대학교`](https://ko.wikipedia.org/wiki/분류:공과_대학교_대학교 "wikilink")
+[`분류:및``   ``및``   ``오픈``   ``소프트웨어``   ``사용권`](https://ko.wikipedia.org/wiki/분류:및_및_오픈_소프트웨어_사용권 "wikilink")
 
 1.

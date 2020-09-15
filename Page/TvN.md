@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TvN](https://ko.wikipedia.org/wiki/TvN).
 
 
-**tvN**(Total Variety Network)은 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")에서 허가된 [CJ ENM](../Page/CJ_ENM.md "wikilink") 미디어콘텐츠부문에서 운영하고 있는 자사 엔터테인먼트 채널이다. **즐거움엔 끝이 없다**를 슬로건으로 내세우고 있다. [2006년](../Page/2006년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink") 오후7시, 케이블 TV와 위성 방송, 위성 [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") (TU)에서 동시 개국하여, 100% 자체 제작을 내세우며 지상파에서 시도하지 못했던 다양한 포맷으로 실험적인 방송을 하고 있다. [2009년](../Page/2009년.md "wikilink")부터는 폭스 인터내셔널 채널스 (Fox International Channels)와 함께 필리핀, 홍콩, 대만을 가청구역으로 하는 tvN Asia를 개국하여 Star TV 위성 (Asia Sat)을 통해 송출하고 있다.
+**tvN**(Total Variety Network)은 [CJ 이엔엠](../Page/CJ_이엔엠.md "wikilink") 미디어콘텐츠부문에서 운영하고 있는 자사 엔터테인먼트 채널이다. **즐거움엔 끝이 없다**를 슬로건으로 내세우고 있다. [2006년](../Page/2006년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink") 오후7시, 케이블 TV와 위성 방송, 위성 [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") (TU)에서 동시 개국하여, 100% 자체 제작을 내세우며 지상파에서 시도하지 못했던 다양한 포맷으로 실험적인 방송을 하고 있다. [2009년](../Page/2009년.md "wikilink")부터는 폭스 인터내셔널 채널스 (Fox International Channels)와 함께 필리핀, 홍콩, 대만을 가청구역으로 하는 tvN Asia를 개국하여 Star TV 위성 (Asia Sat)을 통해 송출하고 있다.
 
 [2010년](../Page/2010년.md "wikilink") [6월 28일부터](../Page/6월_28일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [4월 30일까지](../Page/4월_30일.md "wikilink") 수도권 [지상파DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 사업자인 [한국DMB](../Page/한국DMB.md "wikilink")의 채널을 임대하여 **tvN Go**를 송출·방송하였다. [2015년](../Page/2015년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") 중장년층에게 특화된 제2채널 [O tvN이](https://ko.wikipedia.org/wiki/O_tvN "wikilink"), [2018년](../Page/2018년.md "wikilink") [1월 26일에는](../Page/1월_26일.md "wikilink") 밀레니엄 세대를 대상으로 한 제3채널 [XtvN](https://ko.wikipedia.org/wiki/XtvN "wikilink")이 잇따라 개국되었다.
 
@@ -11,17 +11,17 @@
 
 ### 드라마
 
-  - [월화 드라마](https://ko.wikipedia.org/wiki/tvN_월화드라마 "wikilink") - [반의 반](https://ko.wikipedia.org/wiki/반의_반 "wikilink")
-  - [수목 드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - [메모리스트](https://ko.wikipedia.org/wiki/메모리스트_\(드라마\) "wikilink")
-  - [목요 드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - [슬기로운 의사생활](https://ko.wikipedia.org/wiki/슬기로운_의사생활 "wikilink")
-  - [금요 드라마](https://ko.wikipedia.org/wiki/tvN_금요드라마 "wikilink") -
-  - [토일 드라마](https://ko.wikipedia.org/wiki/tvN_토일드라마 "wikilink") - [화양연화 - 삶이 꽃이 되는 순간](https://ko.wikipedia.org/wiki/화양연화_-_삶이_꽃이_되는_순간 "wikilink")
+  - [월화 드라마](https://ko.wikipedia.org/wiki/tvN_월화드라마 "wikilink") - [청춘기록](https://ko.wikipedia.org/wiki/청춘기록 "wikilink") (예정)
+  - [수목 드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - [악의 꽃](../Page/악의_꽃_\(드라마\).md "wikilink")
+  - [목요 드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - 미정
+  - [금요 드라마](https://ko.wikipedia.org/wiki/tvN_금요드라마 "wikilink") - 미정
+  - [토일 드라마](https://ko.wikipedia.org/wiki/tvN_토일드라마 "wikilink") - [비밀의숲2](https://ko.wikipedia.org/wiki/비밀의숲2 "wikilink")
 
 ### 예능
 
-  - 수요일 - [유 퀴즈 온 더 블럭](../Page/유_퀴즈_온_더_블럭.md "wikilink")
-  - 토요일 - [놀라운 토요일](../Page/놀라운_토요일.md "wikilink"), [좋은가요](https://ko.wikipedia.org/wiki/좋은가요 "wikilink")
-  - 일요일 - [대탈출3](https://ko.wikipedia.org/wiki/대탈출3 "wikilink"), [코미디빅리그](../Page/코미디빅리그.md "wikilink")
+  - 목요일 - [식스센스](https://ko.wikipedia.org/wiki/식스센스\(예능\) "wikilink")
+  - 토요일 - [놀라운 토요일](../Page/놀라운_토요일.md "wikilink"), [온앤오프](../Page/온앤오프.md "wikilink")
+  - 일요일 - [코미디빅리그](../Page/코미디빅리그.md "wikilink")
 
 ## 기타
 

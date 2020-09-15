@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC 바르셀로나](https://ko.wikipedia.org/wiki/FC_바르셀로나).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Campnoumatch.jpg "wikilink") **풋볼 클럽 바르셀로나**(, *축구단 바르셀로나*)는 [스페인](../Page/스페인.md "wikilink") [카탈루냐 지방의](https://ko.wikipedia.org/wiki/카탈루냐_지방 "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")를 연고지로 하는 세계 최대 규모로 [회원제](https://ko.wikipedia.org/wiki/회원제 "wikilink") 형태로 운영되는 [축구](../Page/축구.md "wikilink") 클럽이다. 홈 경기장은 [캄프 누이며](../Page/캄_노우.md "wikilink"), [1899년](../Page/1899년.md "wikilink") [11월 29일에](../Page/11월_29일.md "wikilink") 창단되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Campnoumatch.jpg "wikilink") **풋볼 클럽 바르셀로나**(, *축구단 바르셀로나*)는 [스페인](../Page/스페인.md "wikilink") [카탈루냐 지방의](https://ko.wikipedia.org/wiki/카탈루냐_지방 "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 홈 경기장은 [캄프 누이며](../Page/캄_노우.md "wikilink"), [1899년](../Page/1899년.md "wikilink") [11월 29일에](../Page/11월_29일.md "wikilink") 창단되었다.
 
 리저브 팀으로 [FC 바르셀로나 B를](../Page/FC_바르셀로나_B.md "wikilink") 두고 있다. 유스 팀으로는 [FC 바르셀로나 후베닐 A](../Page/FC_바르셀로나_후베닐_A.md "wikilink"), [FC 바르셀로나 후베닐 B](https://ko.wikipedia.org/wiki/FC_바르셀로나_후베닐_B "wikilink"), [FC 바르셀로나 카다테](https://ko.wikipedia.org/wiki/FC_바르셀로나_카다테 "wikilink"), [FC 바르셀로나 인판틸](https://ko.wikipedia.org/wiki/FC_바르셀로나_인판틸 "wikilink"), [FC 바르셀로나 알레빈](https://ko.wikipedia.org/wiki/FC_바르셀로나_알레빈 "wikilink"), [FC 바르셀로나 벤하민](https://ko.wikipedia.org/wiki/FC_바르셀로나_벤하민 "wikilink"), 순으로 나뉘어 있다. 바르사의 유스 시스템인 [라 마시아는](../Page/라_마시아.md "wikilink") 펩 과르디올라, 리오넬 메시, 안드레스 이니에스타, 세르히오 부스케츠, 제라르 피케, 조르디 알바, 카를레스 푸욜, 챠비 에르난데스, 빅토르 발데스, 페페 레이나, 세스크 파브레가스, 페드로 로드리게스, 티아고 알칸타라, 세르지 로베르토 등등 많은 축구 선수들을 배출하였다.
 
@@ -312,7 +312,7 @@ FC 바르셀로나는 전통적으로 유니폼 스폰서십에 대해 주목할
 
     **우승 (26)**: 1928-29, 1944-45, 1947-48, 1948-49, 1951-52, 1952-53, 1958-59, 1959-60, 1973-74, 1984-85, 1990-91, 1991-92, 1992-93, 1993-94, [1997-98](../Page/프리메라리가_1997-98.md "wikilink"), [1998-99](../Page/프리메라리가_1998-99.md "wikilink"), [2004-05](../Page/프리메라리가_2004-05.md "wikilink"), [2005-06](../Page/프리메라리가_2005-06.md "wikilink"), [2008-09](../Page/프리메라리가_2008-09.md "wikilink"), [2009-10](../Page/프리메라리가_2009-10.md "wikilink"), [2010-11](../Page/프리메라리가_2010-11.md "wikilink"), [2012-13](../Page/프리메라리가_2012-13.md "wikilink"), [2014-15](../Page/프리메라리가_2014-15.md "wikilink"), [2015-16](../Page/프리메라리가_2015-16.md "wikilink"), [2017-18](https://ko.wikipedia.org/wiki/프리메라리가_2017-18 "wikilink"), [2018-19](https://ko.wikipedia.org/wiki/프리메라리가_2018-19 "wikilink")
 
-    **준우승 (25)**: 1929-30, 1945-46, 1953-54, 1954-55, 1955-56, 1961-62, 1963-64, 1966-67, 1967-68, 1970-71, 1972-73, 1975-76, 1976-77, 1977-78, 1981-82, 1985-86, 1986-87, 1988-89, [1996-97](../Page/프리메라리가_1996-97.md "wikilink"), [1999-2000](../Page/프리메라리가_1999-2000.md "wikilink"), [2003-04](../Page/프리메라리가_2003-04.md "wikilink"), [2006-07](../Page/프리메라리가_2006-07.md "wikilink"), [2011-12](../Page/프리메라리가_2011-12.md "wikilink"), [2013-14](https://ko.wikipedia.org/wiki/프리메라리가_2013-14 "wikilink"), [2016-17](https://ko.wikipedia.org/wiki/프리메라리가_2016-17 "wikilink")
+    **준우승 (25)**: 1929-30, 1945-46, 1953-54, 1954-55, 1955-56, 1961-62, 1963-64, 1966-67, 1967-68, 1970-71, 1972-73, 1975-76, 1976-77, 1977-78, 1981-82, 1985-86, 1986-87, 1988-89, [1996-97](../Page/프리메라리가_1996-97.md "wikilink"), [1999-2000](../Page/프리메라리가_1999-2000.md "wikilink"), [2003-04](../Page/프리메라리가_2003-04.md "wikilink"), [2006-07](../Page/프리메라리가_2006-07.md "wikilink"), [2011-12](../Page/프리메라리가_2011-12.md "wikilink"), [2013-14](https://ko.wikipedia.org/wiki/프리메라리가_2013-14 "wikilink"), [2016-17](https://ko.wikipedia.org/wiki/프리메라리가_2016-17 "wikilink"), [2019-20](https://ko.wikipedia.org/wiki/프리메라리가_2019-20 "wikilink")
 
 #### 컵
 
@@ -446,7 +446,7 @@ FC 바르셀로나는 전통적으로 유니폼 스폰서십에 대해 주목할
 
 ### 선수
 
-2019년 9월 2일 기준\[15\]\[16\]
+2020년 8월 28일 기준\[15\]\[16\]
 
 ### 임대 선수 명단
 
@@ -462,11 +462,12 @@ FC 바르셀로나는 전통적으로 유니폼 스폰서십에 대해 주목할
 <tbody>
 <tr class="odd">
 <td><p>감독</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/키케_세티엔" title="wikilink">키케 세티엔</a></p></td>
+<td><p><a href="../Page/로날트_쿠만.md" title="wikilink">로날트 쿠만</a></p></td>
 </tr>
 <tr class="even">
 <td><p>수석 코치</p></td>
-<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/알프레드_슈뢰더" title="wikilink">알프레드 슈뢰더</a><br />
+ <a href="../Page/헨리크_라르손.md" title="wikilink">헨리크 라르손</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>골키퍼 코치</p></td>
@@ -502,7 +503,7 @@ FC 바르셀로나는 전통적으로 유니폼 스폰서십에 대해 주목할
 
   - [FC 바르셀로나 공식 웹사이트](http://www.fcbarcelona.com/)
 
-[FC_바르셀로나](https://ko.wikipedia.org/wiki/분류:FC_바르셀로나 "wikilink") [분류:바르셀로나의 축구단](https://ko.wikipedia.org/wiki/분류:바르셀로나의_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:1899년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1899년_설립된_축구단 "wikilink") [분류:강등된 적이 없는 축구단](https://ko.wikipedia.org/wiki/분류:강등된_적이_없는_축구단 "wikilink") [분류:카탈루냐 지방의 축구단](https://ko.wikipedia.org/wiki/분류:카탈루냐_지방의_축구단 "wikilink")
+[FC_바르셀로나](https://ko.wikipedia.org/wiki/분류:FC_바르셀로나 "wikilink") [분류:바르셀로나의 축구단](https://ko.wikipedia.org/wiki/분류:바르셀로나의_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:1899년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1899년_설립된_축구단 "wikilink") [분류:강등된 적이 없는 축구단](https://ko.wikipedia.org/wiki/분류:강등된_적이_없는_축구단 "wikilink") [분류:카탈루냐의 축구단](https://ko.wikipedia.org/wiki/분류:카탈루냐의_축구단 "wikilink")
 
 1.
 2.

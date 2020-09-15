@@ -68,4 +68,4 @@
 
 ## 외부 링크
 
-[분류:2002년 라이브 음반](https://ko.wikipedia.org/wiki/분류:2002년_라이브_음반 "wikilink") [분류:메가데스의 음반](https://ko.wikipedia.org/wiki/분류:메가데스의_음반 "wikilink")
+[분류:2002년 라이브 음반](https://ko.wikipedia.org/wiki/분류:2002년_라이브_음반 "wikilink") [분류:메가데스의 라이브 음반](https://ko.wikipedia.org/wiki/분류:메가데스의_라이브_음반 "wikilink")

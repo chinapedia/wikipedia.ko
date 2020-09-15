@@ -87,7 +87,7 @@ Xfce의 [창 관리자](https://ko.wikipedia.org/wiki/창_관리자 "wikilink") 
   - [Xfce 테마 및 예술 작품](http://xfce-look.org)
   - [Xfld "Xfce live demo" CD](https://web.archive.org/web/20071024145444/http://xfld.org/Xfld/en/)
 
-[분류:데스크톱 환경](https://ko.wikipedia.org/wiki/분류:데스크톱_환경 "wikilink") [분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:1996년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1996년_소프트웨어 "wikilink")
+[분류:자유 데스크톱 환경](https://ko.wikipedia.org/wiki/분류:자유_데스크톱_환경 "wikilink") [분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:1996년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1996년_소프트웨어 "wikilink")
 
 1.
 2.

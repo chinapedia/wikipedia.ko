@@ -1452,4 +1452,4 @@
 
   - [RSSSF에서의 AFC U-19 축구 선수권 대회 정보](http://www.rsssf.com/tablesa/as-u19.html)
 
-[AFC_U-19_축구_선수권_대회](https://ko.wikipedia.org/wiki/분류:AFC_U-19_축구_선수권_대회 "wikilink")
+[AFC_U-19_챔피언십](https://ko.wikipedia.org/wiki/분류:AFC_U-19_챔피언십 "wikilink")

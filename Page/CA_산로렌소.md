@@ -9,7 +9,7 @@
 
 [1900년대](https://ko.wikipedia.org/wiki/1900년대 "wikilink") 부에노스아이레스의 알마그로 지역을 기반으로 하는 [갱단](https://ko.wikipedia.org/wiki/갱단 "wikilink")은 다른 지역의 갱들을 초청해서 거리 축구(street football)를 벌이곤 했다. 그들은 *Los Forzosos de Almagro desafían*이라는 문구의 [그래피티](https://ko.wikipedia.org/wiki/그래피티 "wikilink")로 상대를 도발하곤 했다. 하지만 [트램과](../Page/노면전차.md "wikilink") [버스](../Page/버스.md "wikilink") 노선이 알마그로까지 연장되면서 거리의 축구는 점점 위험해지기 시작했으며 교통사고가 종종 발생하곤 했다. 멕시코 가(Avenida México)의 성당 신부였던 로렌소 마사(Lorenzo Massa)는 그들을 성당 뒤뜰에서 경기할 수 있도록 배려해 주었고, 그의 지도 하에 [1908년](../Page/1908년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 축구팀이 공식적으로 만들어졌다. 산로렌소 데 알마그로(San Lorenzo de Almagro)라는 팀 이름은 마사 신부와 그 지역의 이름을 기리기 위한 것이다.
 
-[섬네일과의](https://ko.wikipedia.org/wiki/파일:Plantel_San_Lorenzo.jpg "wikilink") 친선 경기 직전 산로렌소 선수들. ([1947년](../Page/1947년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink"))\]\]
+[섬네일과의](https://ko.wikipedia.org/wiki/파일:Plantel_San_Lorenzo.jpg "wikilink") 친선 경기 직전 산로렌소 선수들. ([1947년](../Page/1947년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink"))\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:LIGA_vs_SAN_LORENZO_\(3\).jpg "wikilink")
 
 #### 1946년 우승과 유럽 투어
 

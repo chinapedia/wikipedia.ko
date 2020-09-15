@@ -218,7 +218,7 @@ A-37의 지상공격임무와 F-5 E/F의 스크램블 및 초계임무를 승계
 4.  <http://news.kbs.co.kr/news/NewsView.do?SEARCH_NEWS_CODE=2958131&ref=A>
 5.  월간항공 2011년 5월호 기사
 6.  <http://media.daum.net/economic/industry/view.html?cateid=1038&newsid=20100408122504313&p=newsis>
-7.  <http://www.gnmaeil.com/news/articleView.html?idxno=177236>
+7.
 8.  월간항공sex 2011년 5월호 참조
 9.  <http://www.flightglobal.com/articles/2009/01/07/320726/south-korea-orders-kai-fa-50-light-attack-fighter-prototypes.html>
 10. <http://www.defensenews.com/story.php?i=3884475>

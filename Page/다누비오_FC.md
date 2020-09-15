@@ -24,6 +24,6 @@
 
 ## 외부 링크
 
-  - [다누비오 공식 홈페이지](http://www.danubio.org.uy/)
+  - [다누비오 공식 홈페이지](https://web.archive.org/web/20130627021950/http://www.danubio.org.uy/)
 
 [분류:1932년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1932년_설립된_축구단 "wikilink") [분류:우루과이의 축구단](https://ko.wikipedia.org/wiki/분류:우루과이의_축구단 "wikilink") [분류:다누비오 FC](https://ko.wikipedia.org/wiki/분류:다누비오_FC "wikilink")

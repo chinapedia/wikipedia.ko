@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [IBM PC 호환기종](https://ko.wikipedia.org/wiki/IBM_PC_호환기종).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:IBM_PC_5150.jpg "wikilink")(모델 5150)\]\] **IBM PC 호환기종**()은 현재 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink")(PC)의 주류를 이루고 있는 [컴퓨터](../Page/컴퓨터.md "wikilink")의 한 종류이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:IBM_PC_5150.jpg "wikilink")(모델 5150)\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Compaq_mddos_ver1-12.jpg "wikilink") **IBM PC 호환기종**()은 현재 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink")(PC)의 주류를 이루고 있는 [컴퓨터](../Page/컴퓨터.md "wikilink")의 한 종류이다.
 
 [데스크톱 컴퓨터](../Page/데스크톱_컴퓨터.md "wikilink"), [노트북 컴퓨터](https://ko.wikipedia.org/wiki/노트북_컴퓨터 "wikilink") 등 여러 형태로 존재한다. [인텔](../Page/인텔.md "wikilink")의 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 또는 호환[CPU를](../Page/중앙_처리_장치.md "wikilink") 사용한다.
 
 [IBM PC를](../Page/IBM_PC.md "wikilink") 기반으로 하며, 대부분의 컴퓨터 제조업체가 제작하는 컴퓨터는 IBM PC 호환 기종이다. 심지어 일반 사용자가 직접 제작도 가능하다.
 
-IBM PC 호환 기종에 속하지 않는 컴퓨터에는 [아미가](../Page/아미가.md "wikilink"), [MSX](../Page/MSX.md "wikilink"), [애플에서](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 만든 여러 컴퓨터 등이 있다. [애플은](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 예전에 [PowerPC](https://ko.wikipedia.org/wiki/PowerPC "wikilink") [CPU를](../Page/중앙_처리_장치.md "wikilink") 사용하였으나, 최근에는 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") [CPU를](../Page/중앙_처리_장치.md "wikilink") 사용한 제품(인텔 맥)을 내놓고 있어서, 여기서는 [부트 캠프를](../Page/부트_캠프_\(소프트웨어\).md "wikilink") 사용해 [윈도로](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [시동](https://ko.wikipedia.org/wiki/시동 "wikilink")할 수 있다.
+IBM PC 호환 기종에 속하지 않는 컴퓨터에는 [아미가](../Page/아미가.md "wikilink"), [MSX](../Page/MSX.md "wikilink"), [애플](../Page/애플.md "wikilink")에서 만든 여러 컴퓨터 등이 있다. [애플](../Page/애플.md "wikilink")은 예전에 [PowerPC](https://ko.wikipedia.org/wiki/PowerPC "wikilink") [CPU를](../Page/중앙_처리_장치.md "wikilink") 사용하였으나, 최근에는 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") [CPU를](../Page/중앙_처리_장치.md "wikilink") 사용한 제품(인텔 맥)을 내놓고 있어서, 여기서는 [부트 캠프를](../Page/부트_캠프_\(소프트웨어\).md "wikilink") 사용해 [윈도로](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [시동](https://ko.wikipedia.org/wiki/시동 "wikilink")할 수 있다.
 
 ## 기원
 

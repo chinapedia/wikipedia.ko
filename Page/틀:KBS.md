@@ -12,7 +12,7 @@
 
 }}
 
-|묶음5=[KBS N](https://ko.wikipedia.org/wiki/KBS_N "wikilink") |내용5=
+|묶음5=[KBS N](../Page/KBS_N.md "wikilink") |내용5=
 
   - [KBS N 스포츠](../Page/KBS_N_스포츠.md "wikilink")
   - [KBS 드라마](../Page/KBS_드라마.md "wikilink")
@@ -53,7 +53,6 @@
   - [국방일보](../Page/국방일보.md "wikilink")
   - [국방TV](../Page/국방TV.md "wikilink")
   - [국방FM](../Page/국방FM.md "wikilink")
-  - [환경TV](../Page/환경TV.md "wikilink")
   - [상생방송](../Page/상생방송.md "wikilink")
   - [한국방송광고진흥공사](../Page/한국방송광고진흥공사.md "wikilink")
 
@@ -82,14 +81,14 @@
   - [KBS 교육라디오](../Page/EBS_FM.md "wikilink")
   - [구 제3라디오](https://ko.wikipedia.org/wiki/KBS_제3라디오_\(1980년\) "wikilink")
   - [KBS 영상사업단](../Page/KBS_미디어.md "wikilink")
-  - [스카이 KBS](https://ko.wikipedia.org/wiki/KBS_N "wikilink")
+  - [스카이 KBS](../Page/KBS_N.md "wikilink")
   - [KFN 국군방송TV](../Page/국방TV.md "wikilink")
   - [국군방송 FM 라디오](../Page/국방FM.md "wikilink")
   - [EBS TV](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")
   - [EBS 위성1](../Page/EBS_플러스_1.md "wikilink")
   - [EBS 위성2](../Page/EBS_플러스_2.md "wikilink")
   - [EBS u](https://ko.wikipedia.org/wiki/EBS_u "wikilink")
-  - [센추리TV CTN](../Page/환경TV.md "wikilink")
+  - [센추리TV CTN](https://ko.wikipedia.org/wiki/한국농업방송 "wikilink")
   - [방송광고향상협의회/공익광고협의회/한국방송광고공사](../Page/한국방송광고진흥공사.md "wikilink")
   - [OSB 동양위성TV/OSB 코리아](../Page/서울경제TV.md "wikilink")
   - [OSB 1TV](../Page/서울경제TV.md "wikilink")
@@ -101,6 +100,7 @@
   - [OSB DTV](../Page/서울경제TV.md "wikilink")
   - [OSB 드라마](../Page/서울경제TV.md "wikilink")
   - [OSB 크리스천TV](../Page/서울경제TV.md "wikilink")
+  - [NBS 한국농업방송](https://ko.wikipedia.org/wiki/NBS_한국농업방송 "wikilink")
 
 }}</onlyinclude>
 

@@ -443,7 +443,7 @@
  [폴 스톨테리](https://ko.wikipedia.org/wiki/폴_스톨테리 "wikilink")
 |align=left valign=top|  [다마커스 비즐리](../Page/다마커스_비즐리.md "wikilink")
  [안드레스 과르다도](../Page/안드레스_과르다도.md "wikilink")
-|align=left valign=top|  [조슬랭 앙글로마](https://ko.wikipedia.org/wiki/조슬랭_앙글로마 "wikilink")
+|align=left valign=top|  [조슬랭 앙글로마](../Page/조슬랭_앙글로마.md "wikilink")
  [랜던 도너번](../Page/랜던_도너번.md "wikilink")
 |}
 
@@ -489,7 +489,7 @@
 
   - [레이니에르 알칸타라](https://ko.wikipedia.org/wiki/레이니에르_알칸타라 "wikilink")
 
-  - [조슬랭 앙글로마](https://ko.wikipedia.org/wiki/조슬랭_앙글로마 "wikilink")
+  - [조슬랭 앙글로마](../Page/조슬랭_앙글로마.md "wikilink")
 
 <!-- end list -->
 

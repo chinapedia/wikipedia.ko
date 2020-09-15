@@ -47,7 +47,7 @@
 <tr class="odd">
 <td><p>double</p></td>
 <td><p><double><code>-12.53</code></double></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/배정수" title="wikilink">배정수</a> <a href="https://ko.wikipedia.org/wiki/부동_소수점" title="wikilink">부동 소수점</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/배정수" title="wikilink">배정밀도</a> <a href="https://ko.wikipedia.org/wiki/부동_소수점" title="wikilink">부동소수점</a></p></td>
 </tr>
 <tr class="even">
 <td><p>integer</p></td>

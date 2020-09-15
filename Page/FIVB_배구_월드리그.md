@@ -13,11 +13,11 @@
 
 #### 2000년대
 
-2000년 월드리그에서도 트로피를 들어올린 [이탈리아의](https://ko.wikipedia.org/wiki/이탈리아_배구_국가대표팀 "wikilink") 압도적인 모습은 2001년 월드리그에서 [브라질에](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") 3-0으로 패하면서 기울기 시작했다. [브라질은](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") 2001년에 2번째 우승 트로피를 드는 것을 시작으로 2003년부터 2007년까지의 월드리그에서 무려 대회 5연패를 달성한다. 2000년대에 [브라질은](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") [올림픽 배구와](../Page/올림픽_배구.md "wikilink") 월드리그 모두에서 두각을 드러낸다. [브라질이](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") 2000년대에 월드리그에서 우승하지 못한 것은 (상술한 2000년 월드리그를 제외하면) [러시아가](https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀 "wikilink") 우승한 2002년과 [미국이](https://ko.wikipedia.org/wiki/미국_배구_국가대표팀 "wikilink") 우승한 2008년 월드리그뿐이었다.
+2000년 월드리그에서도 트로피를 들어올린 [이탈리아의](https://ko.wikipedia.org/wiki/이탈리아_배구_국가대표팀 "wikilink") 압도적인 모습은 2001년 월드리그에서 [브라질에](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") 3-0으로 패하면서 기울기 시작했다. [브라질은](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") 2001년에 2번째 우승 트로피를 드는 것을 시작으로 2003년부터 2007년까지의 월드리그에서 무려 대회 5연패를 달성한다. 2000년대에 [브라질은](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") [올림픽 배구와](../Page/올림픽_배구.md "wikilink") 월드리그 모두에서 두각을 드러낸다. [브라질이](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") 2000년대에 월드리그에서 우승하지 못한 것은 (상술한 2000년 월드리그를 제외하면) [러시아가](https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀 "wikilink") 우승한 2002년과 [미국이](../Page/미국_배구_국가대표팀.md "wikilink") 우승한 2008년 월드리그뿐이었다.
 
 #### 2010년대
 
-2010년대에 들어서면서 1990년대의 [이탈리아나](https://ko.wikipedia.org/wiki/이탈리아_배구_국가대표팀 "wikilink") 2000년대의 [브라질처럼](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") 월드리그를 압도하는 팀은 나타나지 않고 있으며 다양한 국가들이 우승 트로피를 들어올렸다. [러시아는](https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀 "wikilink") 2011년･2013년 월드리그에서 역대 2･3번째 대권을 차지했고, [프랑스는](https://ko.wikipedia.org/wiki/프랑스_배구_국가대표팀 "wikilink") 2015년･2017년 월드리그에서 역대 1･2번째 대권을 차지하면서 새로운 강팀으로 자리매김하였다. [폴란드는](https://ko.wikipedia.org/wiki/폴란드_배구_국가대표팀 "wikilink") 2012년, [미국은](https://ko.wikipedia.org/wiki/미국_배구_국가대표팀 "wikilink") 2014년, [세르비아는](https://ko.wikipedia.org/wiki/세르비아_배구_국가대표팀 "wikilink") 2016년에 각각 한 번씩 우승 트로피를 들어올렸다.
+2010년대에 들어서면서 1990년대의 [이탈리아나](https://ko.wikipedia.org/wiki/이탈리아_배구_국가대표팀 "wikilink") 2000년대의 [브라질처럼](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") 월드리그를 압도하는 팀은 나타나지 않고 있으며 다양한 국가들이 우승 트로피를 들어올렸다. [러시아는](https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀 "wikilink") 2011년･2013년 월드리그에서 역대 2･3번째 대권을 차지했고, [프랑스는](https://ko.wikipedia.org/wiki/프랑스_배구_국가대표팀 "wikilink") 2015년･2017년 월드리그에서 역대 1･2번째 대권을 차지하면서 새로운 강팀으로 자리매김하였다. [폴란드는](https://ko.wikipedia.org/wiki/폴란드_배구_국가대표팀 "wikilink") 2012년, [미국은](../Page/미국_배구_국가대표팀.md "wikilink") 2014년, [세르비아는](https://ko.wikipedia.org/wiki/세르비아_배구_국가대표팀 "wikilink") 2016년에 각각 한 번씩 우승 트로피를 들어올렸다.
 
 한편, 2014년에 대회 방식에 있어서 중대한 변화가 생겼다. 이전까지 월드리그에서 참가국들은 3개의 조로 편성되어 예선 라운드를 치르고, 그 결과 각 조의 상위권 팀들 및 결선 라운드의 개최국이 결선 라운드에 참여하는 대회 방식을 채택했다. 하지만 2014년을 기점으로 [승강제](../Page/승강제.md "wikilink")가 도입되어 월드리그 참가국들은 세계 랭킹에 따라 자동적으로 **1그룹**<small>(상위권 국가 배구리그)</small>, **2그룹**<small>(중위권 국가 배구리그)</small>, **3그룹**<small>(하위권 국가 배구리그)</small>으로 편성되고, 각 그룹 내에서의 경쟁을 통해 상위 그룹으로 승격될 팀과 하위 그룹으로 강등될 팀을 결정짓고, 각 그룹별로 우승 팀을 가리는 식으로 개편되었다. 소속 그룹이 상위 그룹일수록 경기별 쌓을 수 있는 랭킹 포인트에 차등을 두어서, [올림픽 배구](../Page/올림픽_배구.md "wikilink") 출전을 위해서는 보다 상위 그룹으로 승격하거나 잔류하는 것이 유리하다.
 
@@ -108,7 +108,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/쿠바_배구_국가대표팀" title="wikilink">쿠바</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/미국_배구_국가대표팀" title="wikilink">미국</a></p></td>
+<a href="../Page/미국_배구_국가대표팀.md" title="wikilink">미국</a></p></td>
 <td><p><strong>3–1</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/네덜란드_배구_국가대표팀" title="wikilink">네덜란드</a></p></td>
@@ -141,7 +141,7 @@
 <a href="https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀" title="wikilink">브라질</a></p></td>
 <td><p><strong>3–2</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/불가리아_배구_국가대표팀" title="wikilink">불가리아</a></p></td>
+<a href="../Page/불가리아_배구_국가대표팀.md" title="wikilink">불가리아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1995년_FIVB_배구_월드리그" title="wikilink">1995</a></p></td>
@@ -291,7 +291,7 @@
 <a href="https://ko.wikipedia.org/wiki/세르비아_배구_국가대표팀" title="wikilink">세르비아 몬테네그로</a></p></td>
 <td><p><strong>3–0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/불가리아_배구_국가대표팀" title="wikilink">불가리아</a></p></td>
+<a href="../Page/불가리아_배구_국가대표팀.md" title="wikilink">불가리아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2005년_FIVB_배구_월드리그" title="wikilink">2005</a></p></td>
@@ -321,7 +321,7 @@
 <a href="https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀" title="wikilink">러시아</a></p></td>
 <td><p><strong>3–0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/불가리아_배구_국가대표팀" title="wikilink">불가리아</a></p></td>
+<a href="../Page/불가리아_배구_국가대표팀.md" title="wikilink">불가리아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2007년_FIVB_배구_월드리그" title="wikilink">2007</a></p></td>
@@ -333,7 +333,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀" title="wikilink">러시아</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/미국_배구_국가대표팀" title="wikilink">미국</a></p></td>
+<a href="../Page/미국_배구_국가대표팀.md" title="wikilink">미국</a></p></td>
 <td><p><strong>3–1</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/폴란드_배구_국가대표팀" title="wikilink">폴란드</a></p></td>
@@ -343,7 +343,7 @@
 <td><p><br />
 <a href="../Page/리우데자네이루.md" title="wikilink">리우데자네이루</a></p></td>
 <td><p><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_배구_국가대표팀" title="wikilink">미국</a></strong></p></td>
+<strong><a href="../Page/미국_배구_국가대표팀.md" title="wikilink">미국</a></strong></p></td>
 <td><p><strong>3–1</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/세르비아_배구_국가대표팀" title="wikilink">세르비아</a></p></td>
@@ -406,12 +406,12 @@
 <strong><a href="https://ko.wikipedia.org/wiki/폴란드_배구_국가대표팀" title="wikilink">폴란드</a></strong></p></td>
 <td><p><strong>3–0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/미국_배구_국가대표팀" title="wikilink">미국</a></p></td>
+<a href="../Page/미국_배구_국가대표팀.md" title="wikilink">미국</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/쿠바_배구_국가대표팀" title="wikilink">쿠바</a></p></td>
 <td><p><strong>3–2</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/불가리아_배구_국가대표팀" title="wikilink">불가리아</a></p></td>
+<a href="../Page/불가리아_배구_국가대표팀.md" title="wikilink">불가리아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2013년_FIVB_배구_월드리그" title="wikilink">2013</a></p></td>
@@ -426,14 +426,14 @@
 <a href="https://ko.wikipedia.org/wiki/이탈리아_배구_국가대표팀" title="wikilink">이탈리아</a></p></td>
 <td><p><strong>3–2</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/불가리아_배구_국가대표팀" title="wikilink">불가리아</a></p></td>
+<a href="../Page/불가리아_배구_국가대표팀.md" title="wikilink">불가리아</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2014년_FIVB_배구_월드리그" title="wikilink">2014</a></p></td>
 <td><p><br />
 <a href="../Page/피렌체.md" title="wikilink">피렌체</a></p></td>
 <td><p><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_배구_국가대표팀" title="wikilink">미국</a></strong></p></td>
+<strong><a href="../Page/미국_배구_국가대표팀.md" title="wikilink">미국</a></strong></p></td>
 <td><p><strong>3–1</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀" title="wikilink">브라질</a></p></td>
@@ -473,7 +473,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/세르비아_배구_국가대표팀" title="wikilink">세르비아</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/미국_배구_국가대표팀" title="wikilink">미국</a></p></td>
+<a href="../Page/미국_배구_국가대표팀.md" title="wikilink">미국</a></p></td>
 <td><p><strong>3–0</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/폴란드_배구_국가대표팀" title="wikilink">폴란드</a></p></td>
@@ -546,7 +546,7 @@
 <a href="https://ko.wikipedia.org/wiki/캐나다_배구_국가대표팀" title="wikilink">캐나다</a></p></td>
 <td><p><strong>3–1</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/미국_배구_국가대표팀" title="wikilink">미국</a></p></td>
+<a href="../Page/미국_배구_국가대표팀.md" title="wikilink">미국</a></p></td>
 </tr>
 <tr class="even">
 <td><p><small><strong>2그룹</strong>  <a href="../Page/골드코스트_(퀸즐랜드주).md" title="wikilink">골드코스트</a></small></p></td>

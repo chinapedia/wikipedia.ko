@@ -5,7 +5,7 @@
 
 이 프로젝트는 'Fabrice Bellard'에 의해 시작되었고, 지금은 'Michael Niedermayer'에 의해서 지속되고 있다. 수많은 FFmpeg 개발자들이 'MPlayer' 프로젝트에 포함되어 있고, 'FFmpeg'는 MPlayer 프로젝트 서버를 호스팅하고 있다.
 
-FFmpeg은 리눅스 기반으로 개발되었지만, [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink"), [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [아미가OS](https://ko.wikipedia.org/wiki/아미가OS "wikilink") 등 대부분의 [운영 체제에서](../Page/운영_체제.md "wikilink") 컴파일이 가능하다.
+FFmpeg은 리눅스 기반으로 개발되었지만, [애플](../Page/애플.md "wikilink"), [윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [아미가OS](https://ko.wikipedia.org/wiki/아미가OS "wikilink") 등 대부분의 [운영 체제에서](../Page/운영_체제.md "wikilink") 컴파일이 가능하다.
 
 ## 각주
 

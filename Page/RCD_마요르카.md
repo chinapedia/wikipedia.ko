@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RCD 마요르카](https://ko.wikipedia.org/wiki/RCD_마요르카).
 
 
-**RCD 마요르카**()는 [마요르카 섬에](https://ko.wikipedia.org/wiki/마요르카_섬 "wikilink") 있는 [손 모시](../Page/에스타디_데_손_모시.md "wikilink") 경기장을 홈 구장으로 하는 [스페인](../Page/스페인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 감독은 [빈센테 모레노이다](https://ko.wikipedia.org/wiki/빈센테_모레노 "wikilink").
+**RCD 마요르카**()는 [마요르카 섬에](https://ko.wikipedia.org/wiki/마요르카_섬 "wikilink") 있는 [손 모시](../Page/에스타디_데_손_모시.md "wikilink") 경기장을 홈 구장으로 하는 [스페인](../Page/스페인.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 감독은 [루이스 가르시아이다](https://ko.wikipedia.org/wiki/루이스_가르시아_플라사 "wikilink").
 
 이 축구단은 [1916년](../Page/1916년.md "wikilink") 창단되었다. 2002-03 [코파 델 레이에서](../Page/코파_델_레이.md "wikilink") 우승을 차지했으며 최고 성적은 1998-99, 2000-01 시즌에서 기록한 3위이다. 현재 [프리메라리가](https://ko.wikipedia.org/wiki/프리메라리가 "wikilink")에 속해 있다. 2009-10 시즌에서 5위를 차지해 [UEFA 유로파리그 2010-11](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2010-11 "wikilink") 진출권을 획득하였지만, 부채 문제로 인하여 참여하지 못하였다. 결국 부채 문제는 다음 시즌의 대재앙으로 이어졌다. 마지막 라운드까지 하위권을 맴돌았고 최종 라운드에서 [아틀레티코 마드리드에](https://ko.wikipedia.org/wiki/아틀레티코_마드리드 "wikilink") 4-3으로 패해 1부리그 자력 잔류에 실패하였지만 [발렌시아 CF가](../Page/발렌시아_CF.md "wikilink") [데포르티보 라 코루냐를](https://ko.wikipedia.org/wiki/데포르티보_라_코루냐 "wikilink") 2-0으로 꺾으며 간신히 강등을 면했다.
 

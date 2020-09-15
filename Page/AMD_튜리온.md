@@ -78,4 +78,4 @@
 
 [분류:AMD x86 마이크로프로세서](https://ko.wikipedia.org/wiki/분류:AMD_x86_마이크로프로세서 "wikilink")
 
-1.  [The Inquirer report](http://www.theinquirer.net/default.aspx?article=37444)
+1.

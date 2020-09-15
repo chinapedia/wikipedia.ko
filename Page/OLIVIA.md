@@ -82,11 +82,11 @@ The Sound of Music이라는 [뮤지컬](../Page/뮤지컬.md "wikilink")에 출�
 
   - \<[2000년](../Page/2000년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink")\>[Synchronicity](https://ko.wikipedia.org/wiki/Synchronicity "wikilink")
   - \<[2004년](../Page/2004년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink")\>[The Lost Lolli](../Page/The_Lost_Lolli.md "wikilink")
-  - \<[2007년](../Page/2007년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink")\>[OLIVIA inspi' REIRA(TRAPNEST)](https://ko.wikipedia.org/wiki/OLIVIA_inspi'_REIRA\(TRAPNEST\)_\(음반\) "wikilink")
+  - \<[2007년](../Page/2007년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink")\>[OLIVIA inspi' REIRA(TRAPNEST)](../Page/OLIVIA_inspi'_REIRA_\(TRAPNEST\).md "wikilink")
 
 ### 베스트 앨범
 
-  - \<[2010년](../Page/2010년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink")\>[GREATEST HITS](https://ko.wikipedia.org/wiki/GREATEST_HITS_\(OLIVIA_음반\) "wikilink")
+  - \<[2010년](../Page/2010년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink")\>[GREATEST HITS](../Page/GREATEST_HITS_\(OLIVIA의_음반\).md "wikilink")
 
 ### 디지털 싱글
 

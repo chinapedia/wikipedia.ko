@@ -24,4 +24,4 @@
 1.  이 앨범 다음으로 이어진 정규 2집 *[High Society](../Page/High_Society.md "wikilink")*에 수록된 16번 트랙 〈뒷담화〉에서 [타블로](../Page/타블로.md "wikilink")가 “그 사람이랑 [같은 팀도](https://ko.wikipedia.org/wiki/CB_Mass "wikilink") 아니었는데 (중략) 이유없이 죄없이 우리 앨범까지 우리가 1년 동안 빚지고, 앨범 못내고” 라고 말한다.
 2.  [2006년](../Page/2006년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink"), [SBS](../Page/SBS_TV.md "wikilink") 《야심만만》에 [타블로](../Page/타블로.md "wikilink")가 출연하여 “1집 음반 완성 직후 3천만원 사기를 당해, 빚으로 인해 1년 동안 [미쓰라 진은](../Page/미쓰라_진.md "wikilink") PC방, [DJ 투컷은](../Page/DJ_투컷.md "wikilink") 술집 및 옷 가게에서 일했고 (자신은) [미국](../Page/미국.md "wikilink")에 돌아가 커피샵에서 일했다”고 밝혔다.
 3.  [The Hiphop Playa Award 2003](http://www.hiphopplaya.com/chart/hpa/2003/result.html)  《힙합플레이야》, 2003년
-4.  [에픽하이 음반 누적판매량](http://blog.daum.net/snow_music/4101776) 《한터정보시스템》, 2009년 9월 16일.
+4.  [에픽하이 음반 누적판매량](http://blog.daum.net/snow_music/4101776)  《한터정보시스템》, 2009년 9월 16일.

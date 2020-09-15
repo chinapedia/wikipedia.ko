@@ -183,8 +183,8 @@
 
   - [진두연](https://ko.wikipedia.org/wiki/진두연 "wikilink"):[1982년](../Page/1982년.md "wikilink")(9기) 입사
   - [김경희](https://ko.wikipedia.org/wiki/김경희 "wikilink"):[1983년](../Page/1983년.md "wikilink")(10기) 입사
-  - [정지성](../Page/정지성.md "wikilink"):[2015년](../Page/2015년.md "wikilink")(프리랜서) 입사
-  - [박찬송](https://ko.wikipedia.org/wiki/박찬송 "wikilink"):[2019년](../Page/2019년.md "wikilink") 6월 ([프리랜서](https://ko.wikipedia.org/wiki/프리랜서 "wikilink")) 입사
+  - [박찬송](https://ko.wikipedia.org/wiki/박찬송 "wikilink"):[2019년](../Page/2019년.md "wikilink")([프리랜서](https://ko.wikipedia.org/wiki/프리랜서 "wikilink")) 입사
+  - [임하늘](https://ko.wikipedia.org/wiki/임하늘 "wikilink"):[2020년](../Page/2020년.md "wikilink")(프리랜서) 입사
 
 ## 전직 아나운서
 
@@ -209,6 +209,7 @@
   - [김지원](https://ko.wikipedia.org/wiki/김지원_\(1988년_아나운서\) "wikilink"):[2015년](../Page/2015년.md "wikilink")(프리랜서) 입사(현 [롯데홈쇼핑](../Page/우리홈쇼핑.md "wikilink"))
   - [조민경](https://ko.wikipedia.org/wiki/조민경 "wikilink"):[2017년](../Page/2017년.md "wikilink")(프리랜서) 입사(현 [대전MBC](../Page/대전문화방송.md "wikilink"))
   - [김수연](../Page/김수연_\(1990년\).md "wikilink"):[2018년](../Page/2018년.md "wikilink")(프리랜서) 입사\~2019.5 (현 [KBS 춘천방송총국](https://ko.wikipedia.org/wiki/KBS_춘천방송총국 "wikilink") 아나운서)
+  - [정지성](../Page/정지성.md "wikilink"):[2015년](../Page/2015년.md "wikilink") (프리랜서) 입사\~출산으로 인한 퇴사
 
 ## 인근의 타 방송사
 

@@ -67,6 +67,6 @@ SK하이닉스의 주식은 [한국증권거래소](https://ko.wikipedia.org/wik
   -
   - 공식 블로그(하이라이트)|<http://blog.skhynix.com/>
 
-[분류:대한민국의 전자 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_전자_기업 "wikilink") [분류:반도체 기업](https://ko.wikipedia.org/wiki/분류:반도체_기업 "wikilink") [분류:1949년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1949년_설립된_기업 "wikilink") [분류:경기도의 기업](https://ko.wikipedia.org/wiki/분류:경기도의_기업 "wikilink") [분류:반경쟁 행위](https://ko.wikipedia.org/wiki/분류:반경쟁_행위 "wikilink") [분류:현대그룹의 이전 자회사](https://ko.wikipedia.org/wiki/분류:현대그룹의_이전_자회사 "wikilink") [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink")
+[분류:대한민국의 전자 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_전자_기업 "wikilink") [분류:반도체 기업](https://ko.wikipedia.org/wiki/분류:반도체_기업 "wikilink") [분류:1949년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1949년_설립된_기업 "wikilink") [분류:경기도의 기업](https://ko.wikipedia.org/wiki/분류:경기도의_기업 "wikilink") [분류:반경쟁 행위](https://ko.wikipedia.org/wiki/분류:반경쟁_행위 "wikilink") [분류:현대그룹의 이전 자회사](https://ko.wikipedia.org/wiki/분류:현대그룹의_이전_자회사 "wikilink") [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink") [분류:컴퓨터 메모리 기업](https://ko.wikipedia.org/wiki/분류:컴퓨터_메모리_기업 "wikilink")
 
 1.

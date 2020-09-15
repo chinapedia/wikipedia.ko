@@ -42,7 +42,7 @@
 3.
 4.
 5.
-6.  [에픽하이 음반 누적판매량](http://blog.daum.net/snow_music/4101776) 《한터정보시스템》, 2009년 9월 16일.
+6.  [에픽하이 음반 누적판매량](http://blog.daum.net/snow_music/4101776)  《한터정보시스템》, 2009년 9월 16일.
 7.  [Hiphopplaya Awards 2004](http://www.hiphopplaya.com/chart/hpa/2004/result.html)《힙합플레이야》
 8.
 9.  [청소년유해 가사를 보는 3가지 시각-스포츠서울, 2009-06-12](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=073&aid=0001996956)

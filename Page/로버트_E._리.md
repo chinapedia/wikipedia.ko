@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [로버트 E. 리](https://ko.wikipedia.org/wiki/로버트_E._리).
 
 
-**로버트 에드워드 리**(, [1807년](../Page/1807년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") \~ [1870년](../Page/1870년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 군인이다. [미국 남북 전쟁](../Page/미국_남북_전쟁.md "wikilink") 때 남부군 총사령관을 맡아 북군을 괴롭혔다. 최후엔 패배했으나 미국 역사상 굴지의 명장으로 명성을 드높였다.
+**로버트 에드워드 리**(, [1807년](../Page/1807년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") \~ [1870년](../Page/1870년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 군인이다. [미국 남북 전쟁](../Page/미국_남북_전쟁.md "wikilink") 때 남부군 총사령관을 맡아 북군을 괴롭혔다. 최후엔 패배했으나 미국 역사상 굴지의 명장으로 명성을 드높였다. 인종차별주의자였으며 흑인의 투표권을 반대했다.
 
 ## 생애
 
@@ -61,7 +61,7 @@
 
   - [Lee Chapel at Washington and Lee University where Robert E. Lee is buried](http://leechapel.wlu.edu/)
 
-  - [Robert E Lee / Virginia Monument at Gettysburg](http://www.dcmemorials.com/index_indiv0007002.htm)
+  - [Robert E Lee / Virginia Monument at Gettysburg](https://web.archive.org/web/20070925081031/http://www.dcmemorials.com/index_indiv0007002.htm)
 
   -
-[분류:1807년 태어남](https://ko.wikipedia.org/wiki/분류:1807년_태어남 "wikilink") [분류:1870년 죽음](https://ko.wikipedia.org/wiki/분류:1870년_죽음 "wikilink") [분류:미국의 군인](https://ko.wikipedia.org/wiki/분류:미국의_군인 "wikilink") [분류:미국 남북 전쟁 관련자](https://ko.wikipedia.org/wiki/분류:미국_남북_전쟁_관련자 "wikilink") [분류:버지니아주 출신](https://ko.wikipedia.org/wiki/분류:버지니아주_출신 "wikilink") [분류:버지니아주의 미국 남북 전쟁](https://ko.wikipedia.org/wiki/분류:버지니아주의_미국_남북_전쟁 "wikilink") [분류:미국의 멕시코-미국 전쟁 참전 군인](https://ko.wikipedia.org/wiki/분류:미국의_멕시코-미국_전쟁_참전_군인 "wikilink") [분류:미국 육군사관학교 동문](https://ko.wikipedia.org/wiki/분류:미국_육군사관학교_동문 "wikilink") [분류:랜돌프 가](https://ko.wikipedia.org/wiki/분류:랜돌프_가 "wikilink") [분류:리 가](https://ko.wikipedia.org/wiki/분류:리_가 "wikilink") [분류:워싱턴가](https://ko.wikipedia.org/wiki/분류:워싱턴가 "wikilink") [분류:잉글랜드계 미국인](https://ko.wikipedia.org/wiki/분류:잉글랜드계_미국인 "wikilink") [분류:19세기 미국 사람](https://ko.wikipedia.org/wiki/분류:19세기_미국_사람 "wikilink") [분류:미국 남부의 역사](https://ko.wikipedia.org/wiki/분류:미국_남부의_역사 "wikilink")
+[분류:1807년 태어남](https://ko.wikipedia.org/wiki/분류:1807년_태어남 "wikilink") [분류:1870년 죽음](https://ko.wikipedia.org/wiki/분류:1870년_죽음 "wikilink") [분류:미국의 군인](https://ko.wikipedia.org/wiki/분류:미국의_군인 "wikilink") [분류:미국 남북 전쟁 관련자](https://ko.wikipedia.org/wiki/분류:미국_남북_전쟁_관련자 "wikilink") [분류:버지니아주 출신](https://ko.wikipedia.org/wiki/분류:버지니아주_출신 "wikilink") [분류:버지니아주의 미국 남북 전쟁](https://ko.wikipedia.org/wiki/분류:버지니아주의_미국_남북_전쟁 "wikilink") [분류:미국의 멕시코-미국 전쟁 참전 군인](https://ko.wikipedia.org/wiki/분류:미국의_멕시코-미국_전쟁_참전_군인 "wikilink") [분류:미국 육군사관학교 동문](https://ko.wikipedia.org/wiki/분류:미국_육군사관학교_동문 "wikilink") [분류:랜돌프 가](https://ko.wikipedia.org/wiki/분류:랜돌프_가 "wikilink") [분류:리 가](https://ko.wikipedia.org/wiki/분류:리_가 "wikilink") [분류:워싱턴가](https://ko.wikipedia.org/wiki/분류:워싱턴가 "wikilink") [분류:잉글랜드계 미국인](https://ko.wikipedia.org/wiki/분류:잉글랜드계_미국인 "wikilink") [분류:19세기 미국 사람](https://ko.wikipedia.org/wiki/분류:19세기_미국_사람 "wikilink") [분류:미국 남부의 역사](https://ko.wikipedia.org/wiki/분류:미국_남부의_역사 "wikilink") [분류:백인 우월주의자](https://ko.wikipedia.org/wiki/분류:백인_우월주의자 "wikilink")

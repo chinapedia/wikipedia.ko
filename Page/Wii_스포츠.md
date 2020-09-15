@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Wii 스포츠](https://ko.wikipedia.org/wiki/Wii_스포츠).
 
 
-**Wii Sports**는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 스포츠 게임 소프트웨어이다.
+**Wii Sports**는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 스포츠 게임 소프트웨어이다. 전 세계적으로 8000만장 가량이 팔려나갔다.
 
 ## 개요
 
@@ -34,6 +34,10 @@
 매 게임마다 플레이어는 얼마나 플레이를 잘 하였느냐에 따라 받게 되는 스킬 포인트를 통해 상을 받거나 패널티를 받게 된다. 또한 기본적인 모드 외에도 트레이닝과 휘트니스 모드가 별도로 존재한다.
 
 ## 각주
+
+## 같이 보기
+
+  - [wii](https://ko.wikipedia.org/wiki/wii "wikilink")
 
 ## 외부 링크
 

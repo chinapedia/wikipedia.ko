@@ -61,7 +61,7 @@
 
 ## 동시간별 방송 프로그램
 
-  - [모두의 뉴스](../Page/모두의_뉴스.md "wikilink") ([후지 TV](../Page/후지_TV.md "wikilink"))
+  - [라이브 뉴스 잇\!](https://ko.wikipedia.org/wiki/라이브_뉴스_잇! "wikilink") ([후지 TV](../Page/후지_TV.md "wikilink"))
   - [뉴스 에브리](../Page/뉴스_에브리.md "wikilink") ([닛폰 TV 방송망](../Page/닛폰_TV_방송망.md "wikilink"))
   - [N스타](https://ko.wikipedia.org/wiki/N스타 "wikilink") ([도쿄방송](https://ko.wikipedia.org/wiki/도쿄방송 "wikilink"))
 

@@ -52,7 +52,7 @@
   - **타카기 야스시** (야스 : BLACK STONES) : [마루야마 토모미](https://ko.wikipedia.org/wiki/마루야마_토모미 "wikilink")
   - **테라시마 노부오** (노브 BLACK STONES) : [나리미야 히로키](../Page/나리미야_히로키.md "wikilink")
   - **오카자키 신이치** (신 : BLACK STONES) : [마츠야마 켄이치](../Page/마츠야마_켄이치.md "wikilink")
-  - **이치​노세 타쿠미** (타쿠미 : TRAPNEST) : [타마야마 테츠지](../Page/타마야마_테츠지.md "wikilink")
+  - **이치노세 타쿠미** (타쿠미 : TRAPNEST) : [타마야마 테츠지](../Page/타마야마_테츠지.md "wikilink")
   - **세리자와 레이라** (레이라 : TRAPNEST) : [이토 유나](https://ko.wikipedia.org/wiki/이토_유나 "wikilink")
   - **후지에다 나오키** (나오키 : TRAPNEST) : [미즈타니 모모스케](https://ko.wikipedia.org/wiki/미즈타니_모모스케 "wikilink")
 
@@ -94,7 +94,7 @@
   - '''타카기 야스시\* ''' (야스) : 마루야마
   - '''세리자와 레이라\* ''' (레이라) : 이토 유나
   - '''혼죠 렌\* ''' (렌) : 교 노부오
-  - '''이치​​노세 타쿠미\* ''' (타쿠미) : 타마야마 테츠지
+  - '''이치노세 타쿠미\* ''' (타쿠미) : 타마야마 테츠지
   - '''후지에다 나오키\* ''' (나오키) : 미즈타니 모모스케
 
 #### OST
@@ -115,4 +115,4 @@
   -
   -
   -
-[분류:일본의 만화](https://ko.wikipedia.org/wiki/분류:일본의_만화 "wikilink") [분류:일본의 영화 작품](https://ko.wikipedia.org/wiki/분류:일본의_영화_작품 "wikilink") [분류:2005년 영화](https://ko.wikipedia.org/wiki/분류:2005년_영화 "wikilink") [분류:2006년 영화](https://ko.wikipedia.org/wiki/분류:2006년_영화 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:아사노 타에코 각본 영화](https://ko.wikipedia.org/wiki/분류:아사노_타에코_각본_영화 "wikilink") [분류:일본의 청춘 영화](https://ko.wikipedia.org/wiki/분류:일본의_청춘_영화 "wikilink") [분류:일본의 드라마 영화](https://ko.wikipedia.org/wiki/분류:일본의_드라마_영화 "wikilink") [분류:음악 영화](https://ko.wikipedia.org/wiki/분류:음악_영화 "wikilink") [분류:만화를 바탕으로 한 실사영화](https://ko.wikipedia.org/wiki/분류:만화를_바탕으로_한_실사영화 "wikilink") [분류:도쿄도를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:도쿄도를_배경으로_한_영화 "wikilink") [분류:TBS 제작 영화](https://ko.wikipedia.org/wiki/분류:TBS_제작_영화 "wikilink") [분류:도호 제작의 영화 작품](https://ko.wikipedia.org/wiki/분류:도호_제작의_영화_작품 "wikilink") [분류:소녀 만화](https://ko.wikipedia.org/wiki/분류:소녀_만화 "wikilink") [분류:닛폰 TV 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:닛폰_TV_계열_애니메이션 "wikilink") [분류:음악을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:음악을_소재로_한_작품 "wikilink") [분류:드라마 애니메이션](https://ko.wikipedia.org/wiki/분류:드라마_애니메이션 "wikilink") [분류:드라마 만화](https://ko.wikipedia.org/wiki/분류:드라마_만화 "wikilink") [분류:연애 만화](https://ko.wikipedia.org/wiki/분류:연애_만화 "wikilink")
+[분류:일본의 만화](https://ko.wikipedia.org/wiki/분류:일본의_만화 "wikilink") [분류:일본의 영화 작품](https://ko.wikipedia.org/wiki/분류:일본의_영화_작품 "wikilink") [분류:2005년 영화](https://ko.wikipedia.org/wiki/분류:2005년_영화 "wikilink") [분류:2006년 영화](https://ko.wikipedia.org/wiki/분류:2006년_영화 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:아사노 타에코 각본 영화](https://ko.wikipedia.org/wiki/분류:아사노_타에코_각본_영화 "wikilink") [분류:일본의 청춘 영화](https://ko.wikipedia.org/wiki/분류:일본의_청춘_영화 "wikilink") [분류:일본의 드라마 영화](https://ko.wikipedia.org/wiki/분류:일본의_드라마_영화 "wikilink") [분류:음악을 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:음악을_소재로_한_영화 "wikilink") [분류:만화를 바탕으로 한 실사영화](https://ko.wikipedia.org/wiki/분류:만화를_바탕으로_한_실사영화 "wikilink") [분류:도쿄도를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:도쿄도를_배경으로_한_영화 "wikilink") [분류:TBS 제작 영화](https://ko.wikipedia.org/wiki/분류:TBS_제작_영화 "wikilink") [분류:도호 제작의 영화 작품](https://ko.wikipedia.org/wiki/분류:도호_제작의_영화_작품 "wikilink") [분류:소녀 만화](https://ko.wikipedia.org/wiki/분류:소녀_만화 "wikilink") [분류:닛폰 TV 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:닛폰_TV_계열_애니메이션 "wikilink") [분류:음악을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:음악을_소재로_한_작품 "wikilink") [분류:드라마 애니메이션](https://ko.wikipedia.org/wiki/분류:드라마_애니메이션 "wikilink") [분류:드라마 만화](https://ko.wikipedia.org/wiki/분류:드라마_만화 "wikilink") [분류:연애 만화](https://ko.wikipedia.org/wiki/분류:연애_만화 "wikilink")

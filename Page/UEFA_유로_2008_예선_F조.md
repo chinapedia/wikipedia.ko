@@ -314,7 +314,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마르쿠스_알베크" title="wikilink">마르쿠스 알베크</a></p></td>
+<td><p><a href="../Page/마르쿠스_알베크.md" title="wikilink">마르쿠스 알베크</a></p></td>
 <td></td>
 <td><p>6</p></td>
 </tr>

@@ -60,7 +60,9 @@
 
 ## 각주
 
-[분류:레드 핫 칠리 페퍼스의 음반](https://ko.wikipedia.org/wiki/분류:레드_핫_칠리_페퍼스의_음반 "wikilink") [분류:2006년 음반](https://ko.wikipedia.org/wiki/분류:2006년_음반 "wikilink") [분류:2006년 오리콘 앨범 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:2006년_오리콘_앨범_차트_1위_작품 "wikilink")
+## 외부 링크
+
+[분류:2006년 음반](https://ko.wikipedia.org/wiki/분류:2006년_음반 "wikilink") [분류:레드 핫 칠리 페퍼스의 음반](https://ko.wikipedia.org/wiki/분류:레드_핫_칠리_페퍼스의_음반 "wikilink") [분류:워너 브라더스 레코드 음반](https://ko.wikipedia.org/wiki/분류:워너_브라더스_레코드_음반 "wikilink") [분류:릭 루빈이 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:릭_루빈이_프로듀싱한_음반 "wikilink") [분류:콘셉트 음반](https://ko.wikipedia.org/wiki/분류:콘셉트_음반 "wikilink")
 
 1.  [IFPI Platinum Europe Awards - April & May 2006](http://www.ifpi.org/content/section_news/plat_month_20060614.html)
 2.  [GRAMMY.com](http://www.grammy.com/GRAMMY_Awards/49th_Show/list.aspx)

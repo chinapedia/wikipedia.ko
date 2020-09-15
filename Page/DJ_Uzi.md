@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJ Uzi](https://ko.wikipedia.org/wiki/DJ_Uzi).
 
 
-**DJ 우지**(**DJ Uzi**, , 1978년 11월 1일 \~ )는 2003년까지 활동했던 [대한민국](../Page/대한민국.md "wikilink")의 래퍼 겸 프로듀서다. Uzi라는 이름은 이스라엘에서 개발된 [우지 기관단총을](https://ko.wikipedia.org/wiki/우지_기관단총 "wikilink") 뜻하며, Uzi the Hikaru라는 이름으로 늘여쓰기도 한다.
+**DJ 우지**(**DJ Uzi**, , [1978년](../Page/1978년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") \~ )는 2003년까지 활동했던 [대한민국](../Page/대한민국.md "wikilink")의 래퍼 겸 프로듀서다. Uzi라는 이름은 이스라엘에서 개발된 [우지 기관단총을](https://ko.wikipedia.org/wiki/우지_기관단총 "wikilink") 뜻하며, Uzi the Hikaru라는 이름으로 늘여쓰기도 한다.
 
 ## 바이오그래피
 
@@ -25,6 +25,6 @@ DJ Uzi는 1999년 온라인을 통해 Uzi's Mind라는 곡을 발표, [조PD](..
 
 ## 각주
 
-[분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:1978년 태어남](https://ko.wikipedia.org/wiki/분류:1978년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:소울 트레인](https://ko.wikipedia.org/wiki/분류:소울_트레인 "wikilink") [분류:부산광역시 출신](https://ko.wikipedia.org/wiki/분류:부산광역시_출신 "wikilink") [분류:부산광역시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:부산광역시_출신_래퍼 "wikilink") [분류:부산광역시 출신 음악가](https://ko.wikipedia.org/wiki/분류:부산광역시_출신_음악가 "wikilink")
+[분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:1978년 태어남](https://ko.wikipedia.org/wiki/분류:1978년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:소울 트레인](https://ko.wikipedia.org/wiki/분류:소울_트레인 "wikilink") [분류:부산광역시 출신](https://ko.wikipedia.org/wiki/분류:부산광역시_출신 "wikilink") [분류:부산광역시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:부산광역시_출신_래퍼 "wikilink")
 
 1.  [2001년 10월 28일 힙합플레이야 DJ Uzi 인터뷰](http://www.hiphopplaya.com/magazine/article/view.html?category=&category2=&page=1&sort=&num=1822&keyfield=&key=)

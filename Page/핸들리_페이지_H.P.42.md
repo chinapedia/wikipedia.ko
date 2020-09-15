@@ -7,7 +7,7 @@
 
   - [Handley Page HP42](https://web.archive.org/web/20080706123237/http://www.imperial-airways.com/Handley_page_hp42.html)
   - [Handley Page Aircraft](http://www.handleypage.com/Aircraft_hp42_hp45.html)
-  - [British Aircraft Directory](http://www.britishaircraft.co.uk/aircraftpage.php?ID=229)
+  - [British Aircraft Directory](https://web.archive.org/web/20070930153952/http://www.britishaircraft.co.uk/aircraftpage.php?ID=229)
   - [British Aircraft of WWII](http://www.jaapteeuwen.com/ww2aircraft/html%20pages/HANDLEY%20PAGE%20HP42.htm)
 
 [분류:여객기](https://ko.wikipedia.org/wiki/분류:여객기 "wikilink") [분류:1930년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1930년_첫_비행한_항공기 "wikilink") [분류:쌍엽기](https://ko.wikipedia.org/wiki/분류:쌍엽기 "wikilink")

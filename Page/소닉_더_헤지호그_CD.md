@@ -118,6 +118,24 @@ CD판이 기존의 소닉 시리즈와 가장 차이를 보이는 점이라면, 
   - [메가 CD](../Page/메가_CD.md "wikilink")
   - [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")
 
+## 이스터 에그
+
+  - 공포 이스터 에그
+
+사운드 조절에서 몇몇으로 조절할시 이런 이스터 에그가 나온다
+
+`"악마로 부터. 재미는 무한이다"`
+
+그래서 어떤 유저들은 이 게임의 원작이 [Sonic.exe](https://ko.wikipedia.org/wiki/Sonic.exe "wikilink")일수도 있다고 한다
+
+  - 일반
+
+사운드 조절에서 몇몇으로 조절시 여러 귀여운 이스터 에그가 나온다
+
+  - 게임 플레이 이스터 에그
+
+소닉을 3시간 이상 움직이지 않을시 소닉이 "나 여기서 떨어질께" 라고 하며 그대로 맵 밖으로 뛰어네려 죽는다 HP가 몄게 있어도 게임 오버 된다
+
 ## 각주
 
 [분류:1993년 비디오 게임](https://ko.wikipedia.org/wiki/분류:1993년_비디오_게임 "wikilink") [분류:1996년 비디오 게임](https://ko.wikipedia.org/wiki/분류:1996년_비디오_게임 "wikilink") [분류:액션 게임](https://ko.wikipedia.org/wiki/분류:액션_게임 "wikilink") [분류:매킨토시 게임](https://ko.wikipedia.org/wiki/분류:매킨토시_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:플레이스테이션 네트워크 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_네트워크_게임 "wikilink") [분류:메가 CD 게임](https://ko.wikipedia.org/wiki/분류:메가_CD_게임 "wikilink") [분류:엑스박스 360 라이브 아케이드 게임](https://ko.wikipedia.org/wiki/분류:엑스박스_360_라이브_아케이드_게임 "wikilink")

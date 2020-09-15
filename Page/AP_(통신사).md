@@ -29,4 +29,4 @@
   - [AP통신 공식 홈페이지](http://www.ap.org/)
 
   -
-[분류:미국의 통신사](https://ko.wikipedia.org/wiki/분류:미국의_통신사 "wikilink") [분류:미국의 협동조합](https://ko.wikipedia.org/wiki/분류:미국의_협동조합 "wikilink") [분류:1846년 설립](https://ko.wikipedia.org/wiki/분류:1846년_설립 "wikilink") [분류:미국의 대중 매체](https://ko.wikipedia.org/wiki/분류:미국의_대중_매체 "wikilink") [분류:1846년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1846년_설립된_기업 "wikilink") [분류:1846년 창간](https://ko.wikipedia.org/wiki/분류:1846년_창간 "wikilink") [분류:AP (통신사)](https://ko.wikipedia.org/wiki/분류:AP_\(통신사\) "wikilink")
+[AP_(통신사)](https://ko.wikipedia.org/wiki/분류:AP_\(통신사\) "wikilink") [분류:미국의 통신사](https://ko.wikipedia.org/wiki/분류:미국의_통신사 "wikilink") [분류:미국의 협동조합](https://ko.wikipedia.org/wiki/분류:미국의_협동조합 "wikilink") [분류:1846년 설립](https://ko.wikipedia.org/wiki/분류:1846년_설립 "wikilink") [분류:미국의 대중 매체](https://ko.wikipedia.org/wiki/분류:미국의_대중_매체 "wikilink") [분류:1846년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1846년_설립된_기업 "wikilink") [분류:1846년 창간](https://ko.wikipedia.org/wiki/분류:1846년_창간 "wikilink")

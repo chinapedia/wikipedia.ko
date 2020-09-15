@@ -96,4 +96,4 @@
   - [한국성우협회 김은아 프로필](http://www.kvpa.or.kr/profile/profile_main.php?pmode=view&pnum=&keyword=김은아&category=&uid=276)
   - [KBS 성우극회 김은아 프로필](http://www.kbsvoice.net/board/blog/2019414)
 
-[분류:대한민국의 여자 성우](https://ko.wikipedia.org/wiki/분류:대한민국의_여자_성우 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink")
+[분류:대한민국의 여자 성우](https://ko.wikipedia.org/wiki/분류:대한민국의_여자_성우 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:1967년 태어남](https://ko.wikipedia.org/wiki/분류:1967년_태어남 "wikilink")

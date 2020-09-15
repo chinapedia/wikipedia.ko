@@ -67,7 +67,7 @@
 
 ## 외부 링크
 
-  - [프로젝트 레벌루션 공식 홈페이지](http://www.projektrevolution.com/)
+  - [프로젝트 레벌루션 공식 홈페이지](https://web.archive.org/web/20040317195611/http://projektrevolution.com/)
 
   - [프로젝트 레벌루션 미디어 플레이어](https://web.archive.org/web/20071020043744/http://www.projektrevolution.com/mediaplayer/)
 

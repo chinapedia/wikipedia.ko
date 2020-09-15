@@ -22,7 +22,20 @@ GBI 미사일은 [MGM-134 미지트맨](../Page/MGM-134_미지트맨.md "wikilin
   - MGM-134 미지트맨, 무게 13.6톤, 길이 14 m, 직경 1.17 m, 3단 고체연료, 475 kt 핵탄두 1개, 사거리 11,000 km
   - GBI 미사일, 무게 12.7톤, 길이 16.61 m, 직경 1.28 m, 3단 고체연료
 
-## 더 보기
+## 제원 (OBV)
+
+  - **길이:** 16.8 m (55 ft)
+  - **직경:** 1.27 m (50 in)
+  - **무게:** 12,700 kg (28,000 lb)
+  - **속도:** 미확인
+  - **최대고도:** 2,000 km (1,250 miles)
+  - **엔진:**
+      - **1단:** Alliant Tech Orion 50SXLG 고체연료 로켓. 추력 441 kN (99000 lb)
+      - **2단:** Alliant Tech Orion 50XL 고체연료 로켓. 추력 153 kN (34500 lb)
+      - **3단:** Alliant Tech Orion 38 고체연료 로켓. 추력 32 kN (7200 lb)
+  - **탄두:** EKV
+
+## 같이 보기
 
   - [GMD 시스템](https://ko.wikipedia.org/wiki/GMD_시스템 "wikilink")
   - [이지스 어쇼어](../Page/이지스_어쇼어.md "wikilink")

@@ -21,7 +21,7 @@
 
 ## 외부 링크
 
-  - [작도닷넷 제공 3cf 추억의 장](http://xacdo.net/3cf/)
+  - [작도닷넷 제공 3cf 추억의 장](https://web.archive.org/web/20071006085346/http://xacdo.net/3cf/)
   - [호민의 삼류만화](http://homins.net/)
 
 [분류:대한민국의 웹사이트](https://ko.wikipedia.org/wiki/분류:대한민국의_웹사이트 "wikilink")

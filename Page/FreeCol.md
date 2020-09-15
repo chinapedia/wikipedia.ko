@@ -20,4 +20,4 @@
 
 [분류:턴제 전략 게임](https://ko.wikipedia.org/wiki/분류:턴제_전략_게임 "wikilink") [분류:오픈 소스 비디오 게임](https://ko.wikipedia.org/wiki/분류:오픈_소스_비디오_게임 "wikilink") [분류:리눅스 게임](https://ko.wikipedia.org/wiki/분류:리눅스_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:MacOS 게임](https://ko.wikipedia.org/wiki/분류:MacOS_게임 "wikilink") [분류:2003년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2003년_비디오_게임 "wikilink") [분류:자바로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자바로_작성된_자유_소프트웨어 "wikilink")
 
-1.  [FreeCol - Download](http://www.freecol.org/download.html)
+1.

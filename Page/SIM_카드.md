@@ -465,8 +465,8 @@ xx-C1400</p></td>
 
 ## 외부 링크
 
-  - [GSM 11.11](http://www.3gpp.org/ftp/specs/html-info/1111.htm) - Specification of the Subscriber Identity Module - Mobile Equipment (SIM - ME) interface.
-  - [GSM 11.14](http://www.3gpp.org/ftp/specs/html-info/1114.htm) - Specification of the SIM Application Toolkit for the Subscriber Identity Module - Mobile Equipment (SIM - ME) interface
+  - [GSM 11.11](https://web.archive.org/web/20130823232049/http://www.3gpp.org/ftp/specs/html-info/1111.htm) - Specification of the Subscriber Identity Module - Mobile Equipment (SIM - ME) interface.
+  - [GSM 11.14](https://web.archive.org/web/20130823234427/http://www.3gpp.org/ftp/specs/html-info/1114.htm) - Specification of the SIM Application Toolkit for the Subscriber Identity Module - Mobile Equipment (SIM - ME) interface
   - [ITU-T E.118](http://www.itu.int/rec/T-REC-E.118-200605-I/en) - The International Telecommunication Charge Card. 2006 ITU-T.
 
 [분류:미국의 발명품](https://ko.wikipedia.org/wiki/분류:미국의_발명품 "wikilink") [분류:암호 하드웨어](https://ko.wikipedia.org/wiki/분류:암호_하드웨어 "wikilink") [분류:스마트카드](https://ko.wikipedia.org/wiki/분류:스마트카드 "wikilink") [분류:컴퓨터 접근 제어](https://ko.wikipedia.org/wiki/분류:컴퓨터_접근_제어 "wikilink")

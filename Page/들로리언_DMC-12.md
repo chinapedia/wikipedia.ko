@@ -1,9 +1,11 @@
 > This article is converted from Wikipedia: [들로리언 DMC-12](https://ko.wikipedia.org/wiki/들로리언_DMC-12).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:Delorean_DMC-12_side.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Back_left.JPG "wikilink") **들로리언 DMC-12**(DeLorean DMC-12)는 [들로리언 자동차](https://ko.wikipedia.org/wiki/들로리언_자동차 "wikilink")(DeLorean Motor Company)에서 [1981년](../Page/1981년.md "wikilink")부터 [1983년](../Page/1983년.md "wikilink")까지 제작한 [북아일랜드](../Page/북아일랜드.md "wikilink")의 [패스트백](../Page/패스트백.md "wikilink") [스포츠카](../Page/스포츠카.md "wikilink")이다. [들로리언 자동차는](https://ko.wikipedia.org/wiki/들로리언_자동차 "wikilink") 이 모델이 유일한 상용 모델이어서 들로리언 DMC-12를 간단히 **들로리언**이라고도 부른다. DMC-12는 차문이 열렸을 때 갈매기 날개 모양을 하고 있고 차체는 무광처리된 [스테인리스강](../Page/스테인리스강.md "wikilink")으로 제작되어 있어, 전체적으로 독특한 디자인을 가지고 있다. DMC-12의 독특한 디자인 때문에 영화 [백 투 더 퓨처](../Page/백_투_더_퓨처.md "wikilink") 시리즈에 등장하기도 했다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Delorean_DMC-12_side.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:Back_left.JPG "wikilink") **들로리언 DMC-12**(DeLorean DMC-12)는 [들로리언 자동차](https://ko.wikipedia.org/wiki/들로리언_자동차 "wikilink")(DeLorean Motor Company)에서 [1981년](../Page/1981년.md "wikilink")부터 [1983년](../Page/1983년.md "wikilink")까지 제작한 [북아일랜드](../Page/북아일랜드.md "wikilink")의 [패스트백](../Page/패스트백.md "wikilink") [스포츠카](../Page/스포츠카.md "wikilink")이다. [들로리언 자동차는](https://ko.wikipedia.org/wiki/들로리언_자동차 "wikilink") 이 모델이 유일한 상용 모델이어서 들로리언 DMC-12를 간단히 **들로리언**이라고도 부른다. DMC-12는 차문이 열렸을 때 갈매기 날개 모양을 하고 있고 차체는 무광처리된 [스테인리스강](../Page/스테인리스강.md "wikilink")으로 제작되어 있어, 전체적으로 독특한 디자인을 가지고 있다. DMC-12의 독특한 디자인 때문에 영화 [백 투 더 퓨처](../Page/백_투_더_퓨처.md "wikilink") 시리즈에 등장하기도 했다. 하지만 이미 회사가 망한 후에 영화가 만들어지는 바람에 회사가 망한 후에 인기를 얻는 불운의 회사와 자동차라고 부리우기도 한다.
 
 DMC-12의 첫 번째 시험모델은 [1976년](../Page/1976년.md "wikilink") [10월](../Page/10월.md "wikilink")에 발표되었고, 공식모델은 [1981년](../Page/1981년.md "wikilink") [북아일랜드](../Page/북아일랜드.md "wikilink") [던머리](https://ko.wikipedia.org/wiki/던머리 "wikilink")(Dunmurry)에 있는 DMC 공장에서 생산을 시작했다. 생산기간동안 후드(본네트)의 형태나 [바퀴](https://ko.wikipedia.org/wiki/바퀴 "wikilink") 및 내장이 바뀌면서, 약 8,583대의 DMC-12가 제작되었으나 [1983년](../Page/1983년.md "wikilink") 회사의 파산으로 생산이 중단되었다. 현재 약 6,000대의 [들로리언 자동차의](https://ko.wikipedia.org/wiki/들로리언_자동차 "wikilink") 차량들이 아직까지도 운행되고 있다고 알려져 있다.
+
+DMC-12는 포르쉐를 상대하기로 만들어져서 미국의 막대한 보조 자금을 받았지만 부실한 품질과 포르쉐보다 못한 성능, 가격 면으로 경쟁에서 지고 말았다.
 
 DMC-12는 [북아일랜드](../Page/북아일랜드.md "wikilink")에서 생산되었지만, 주력 시장은 [미국](../Page/미국.md "wikilink") 시장이었다. 이 때문에 운전석이 좌측에 위치하고 있어, 우측통행을 기본으로 제작되었다. 다만, 전체 생산대수 중 23%는 운전석이 우측에 위치하도록 제작되어 [영국](../Page/영국.md "wikilink")으로 판매가 되었다.
 

@@ -401,7 +401,7 @@
 <td><p><strong> <a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
 <td><p>''' - '''</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
-<td><p><a href="../Page/이스타디우_두_드라강.md" title="wikilink">이스타디우 두 드라강</a> ( <a href="../Page/포르투.md" title="wikilink">포르투</a>)</p></td>
+<td><p><a href="../Page/푸슈카시_아레나.md" title="wikilink">푸슈카시 아레나</a> ( <a href="../Page/부다페스트.md" title="wikilink">부다페스트</a>)[8]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2021년_UEFA_슈퍼컵" title="wikilink">2021</a></p></td>
@@ -409,6 +409,20 @@
 <td><p>''' - '''</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
 <td><p><a href="../Page/윈저_파크.md" title="wikilink">윈저 파크</a> ( <a href="../Page/벨파스트.md" title="wikilink">벨파스트</a>)</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2022년_UEFA_슈퍼컵" title="wikilink">2022</a></p></td>
+<td><p><strong> <a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
+<td><p>''' - '''</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
+<td><p><a href="../Page/헬싱키_올림픽_스타디움.md" title="wikilink">헬싱키 올림픽 스타디움</a> ( <a href="../Page/헬싱키.md" title="wikilink">헬싱키</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2023년_UEFA_슈퍼컵" title="wikilink">2023</a></p></td>
+<td><p><strong> <a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
+<td><p>''' - '''</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
+<td><p><a href="../Page/카잔_아레나.md" title="wikilink">카잔 아레나</a> ( <a href="../Page/카잔.md" title="wikilink">카잔</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -819,3 +833,4 @@
 5.  정치적인 문제로 인해 중립 지대인 모나코에서 단판 승부 형식으로 열렸다.
 6.  [유고슬라비아 전쟁의](../Page/유고슬라비아_전쟁.md "wikilink") 여파로 인해 잉글랜드 맨체스터에서 단판 승부 형식으로 열렸다.
 7.  [1992-93년 UEFA 챔피언스리그](../Page/1992-93년_UEFA_챔피언스리그.md "wikilink") 우승 팀인 [올랭피크 드 마르세유가](../Page/올랭피크_드_마르세유.md "wikilink") 1992-93 [프랑스](../Page/프랑스.md "wikilink") [리그 1](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 시즌에서 일어난 [승부조작](../Page/승부조작.md "wikilink"), [뇌물](../Page/뇌물.md "wikilink") 스캔들에 연루되어 출전 자격이 박탈(UEFA 챔피언스리그 우승 기록은 자체적으로 유효함)되었다. 이에 따라 준우승 팀인 [AC 밀란이](../Page/AC_밀란.md "wikilink") 대신 참가하게 되었다.
+8.  원래는 [포르투갈](../Page/포르투갈.md "wikilink") [포르투](../Page/포르투.md "wikilink")에 위치한 [이스타디우 두 드라강에서](../Page/이스타디우_두_드라강.md "wikilink") 열릴 예정이었으나 UEFA 집행위원회가 유럽에서 일어난 [코로나19 범유행의](../Page/코로나19_범유행.md "wikilink") 여파를 고려하여 포르투갈에서 UEFA 챔피언스리그 결승전 경기를 개최하기로 결정했다. 이에 따라 헝가리 부다페스트에 위치한 푸슈카시 아레나에서 대신 열리게 되었다.

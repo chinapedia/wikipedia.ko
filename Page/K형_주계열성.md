@@ -52,11 +52,11 @@ K형 왜성들은 [외계 생명을](../Page/외계생명.md "wikilink") 찾는 
 
 [분류:항성의 형태](https://ko.wikipedia.org/wiki/분류:항성의_형태 "wikilink") [K형_주계열성](https://ko.wikipedia.org/wiki/분류:K형_주계열성 "wikilink")
 
-1.  [A Modern Mean Stellar Color and Effective Temperatures (Teff) \# Sequence for O9V-Y0V Dwarf Stars](http://www.pas.rochester.edu/~emamajek/EEM_dwarf_UBVIJHK_colors_Teff.txt), E. Mamajek, 2011, website
+1.  [A Modern Mean Stellar Color and Effective Temperatures (Teff) \# Sequence for O9V-Y0V Dwarf Stars](http://www.pas.rochester.edu/~emamajek/EEM_dwarf_UBVIJHK_colors_Teff.txt) , E. Mamajek, 2011, website
 2.  [Empirical bolometric corrections for the main-sequence](https://ko.wikipedia.org/wiki/bibcode:1981A&AS...46..193H "wikilink"), G. M. H. J. Habets and J. R. W. Heintze, *Astronomy and Astrophysics Supplement* **46** (November 1981), pp. 193–237.
 3.  [SIMBAD](https://ko.wikipedia.org/wiki/SIMBAD "wikilink"), entries for [Alpha Centauri B](http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Alpha%20Centauri%20B) and [Epsilon Indi](http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Epsilon%20Indi), 2007-06-19 확인.
 4.
-5.  [1](http://www.astrobio.net/news-exclusive/super-habitable-world-may-exist-near-earth/), 2015-02-08 확인.
+5.  [1](http://www.astrobio.net/news-exclusive/super-habitable-world-may-exist-near-earth/) , 2015-02-08 확인.
 6.  [2](https://www.newscientist.com/article/dn17084-orange-stars-are-just-right-for-life.html), 2009-05-06 확인.
 7.  [Fundamental stellar photometry for standards of spectral type on the revised system of the Yerkes spectral atlas](https://ko.wikipedia.org/wiki/bibcode:1953ApJ...117..313J "wikilink") H.L. Johnson & W.W. Morgan, 1953, Astrophysical Journal, 117, 313
 8.  [MK ANCHOR POINTS](http://www.astro.utoronto.ca/~garrison/mkstds.html), Robert F. Garrison

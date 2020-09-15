@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KHTML](https://ko.wikipedia.org/wiki/KHTML).
 
 
-**KHTML**은 [KDE](../Page/KDE.md "wikilink") 프로젝트가 개발한 [HTML](../Page/HTML.md "wikilink") [레이아웃 엔진이다](https://ko.wikipedia.org/wiki/레이아웃_엔진 "wikilink"). [캉커러](../Page/캉커러.md "wikilink") 웹 브라우저에서 사용되는 엔진이기도 하며, [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 [사파리](../Page/사파리_\(웹_브라우저\).md "wikilink") 웹 브라우저의 레이아웃 엔진인 [웹 키트는](https://ko.wikipedia.org/wiki/웹_키트 "wikilink") KHTML을 본류로 하고 있다. [GNU 약소 일반 공중 사용 허가서의](../Page/GNU_약소_일반_공중_사용_허가서.md "wikilink") 조항으로 배포된 KHTML은 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink").
+**KHTML**은 [KDE](../Page/KDE.md "wikilink") 프로젝트가 개발한 [HTML](../Page/HTML.md "wikilink") [레이아웃 엔진이다](https://ko.wikipedia.org/wiki/레이아웃_엔진 "wikilink"). [캉커러](../Page/캉커러.md "wikilink") 웹 브라우저에서 사용되는 엔진이기도 하며, [애플](../Page/애플.md "wikilink")이 개발한 [사파리](../Page/사파리_\(웹_브라우저\).md "wikilink") 웹 브라우저의 레이아웃 엔진인 [웹 키트는](https://ko.wikipedia.org/wiki/웹_키트 "wikilink") KHTML을 본류로 하고 있다. [GNU 약소 일반 공중 사용 허가서의](../Page/GNU_약소_일반_공중_사용_허가서.md "wikilink") 조항으로 배포된 KHTML은 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink").
 
 [KPart](https://ko.wikipedia.org/wiki/KPart "wikilink") 프레임워크 위에서 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink") 언어로 작성된 KHTML은 상대적으로 웹 표준을 잘 준수하고 있는 편이다. 되도록 많은 페이지를 그리기 위해 [인터넷 익스플로러의](../Page/인터넷_익스플로러.md "wikilink") 특별한 일부 비표준 기능들도 지원된다.
 

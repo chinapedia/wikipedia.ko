@@ -13,7 +13,7 @@
 
   - [libpng 홈페이지](http://libpng.org/pub/png/libpng.html)
   - [libpng 개발 홈페이지](http://libpng.sourceforge.net/)
-  - [libpng 설명서](http://www.libpng.org/pub/png/libpng-manual.txt)
+  - [libpng 설명서](https://web.archive.org/web/20080510154435/http://www.libpng.org/pub/png/libpng-manual.txt)
 
 [분류:그래픽 라이브러리](https://ko.wikipedia.org/wiki/분류:그래픽_라이브러리 "wikilink") [분류:C로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C로_작성된_자유_소프트웨어 "wikilink")
 

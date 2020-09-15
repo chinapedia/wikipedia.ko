@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS강릉방송국](https://ko.wikipedia.org/wiki/KBS강릉방송국).
 
 
-**KBS 강릉 방송국**(KBS 江陵 放送局)은 강원도 영동 지역을 방송 대상 권역으로 하는 [KBS 춘천방송총국](https://ko.wikipedia.org/wiki/KBS_춘천방송총국 "wikilink") 산하의 지역 방송국이다.
+**KBS강릉방송국**(KBS江陵放送局)은 강원도 영동 지역을 방송 대상 권역으로 하는 [KBS 춘천방송총국](https://ko.wikipedia.org/wiki/KBS_춘천방송총국 "wikilink") 산하의 지역 방송국이다.
 
 ## 연혁
 
@@ -307,11 +307,11 @@
 
 **KBS 강릉1TV**
 
-| 프로그램명                                                                      | 방송시간          | 편성시간                | 진행  |
-| -------------------------------------------------------------------------- | ------------- | ------------------- | --- |
-| [KBS 뉴스 (930) 강릉](https://ko.wikipedia.org/wiki/KBS_뉴스_\(930\) "wikilink") | 평일 10분        | 오전 9시 50분 \~ 9시 55분 | 강유미 |
-| [KBS 뉴스 7 강릉](../Page/KBS_뉴스_7.md "wikilink")                              | 평일 5분(목요일 제외) | 저녁 7시 20분 \~ 7시 25분 | 박민정 |
-| [KBS 뉴스 9 강릉](../Page/KBS_뉴스_9.md "wikilink")                              | 평일 10분        | 밤 9시 35분 \~ 9시 45분  | 박민정 |
+| 프로그램명                                                                      | 방송시간   | 편성시간                | 진행  |
+| -------------------------------------------------------------------------- | ------ | ------------------- | --- |
+| [KBS 뉴스 (930) 강릉](https://ko.wikipedia.org/wiki/KBS_뉴스_\(930\) "wikilink") | 평일 10분 | 오전 9시 50분 \~ 9시 55분 | 박민정 |
+|                                                                            |        |                     |     |
+| [KBS 뉴스 9 강릉](../Page/KBS_뉴스_9.md "wikilink")                              | 평일 10분 | 밤 9시 35분 \~ 9시 45분  | 강유미 |
 
 #### 교양
 
@@ -323,16 +323,16 @@
 
 | 프로그램명                                                      | 방송시간                | 편성시간           | 진행  |
 | ---------------------------------------------------------- | ------------------- | -------------- | --- |
-| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분 | 김경미 |
-| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | 박민정            |     |
+| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분 | 박민정 |
+| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | 김경미            |     |
 | KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | 강유미            |     |
 
   - 프로그램
 
 <!-- end list -->
 
-  - [영동포커스](../Page/영동포커스.md "wikilink")(월-금,28분)(진행 [강명욱](https://ko.wikipedia.org/wiki/강명욱 "wikilink"))
-  - [정보매거진](http://program.kbs.co.kr/1radio/local/magazinegan/pc/index.html)(월-금,53분) (진행 [김경미](https://ko.wikipedia.org/wiki/김경미 "wikilink"))
+  - [영동포커스](../Page/영동포커스.md "wikilink")(월-금,28분)(진행 [이의선](https://ko.wikipedia.org/wiki/강명욱 "wikilink"))
+  - 5시 정보쇼(월-금,53분) (진행 [김경미](https://ko.wikipedia.org/wiki/김경미 "wikilink"))
 
 #### 음악FM
 
@@ -409,7 +409,7 @@
 ## 현직 촬영기자
 
   - [김중용](https://ko.wikipedia.org/wiki/김중용 "wikilink") 촬영부장
-  - [박찬규](https://ko.wikipedia.org/wiki/박찬규 "wikilink")
+  - [최진호](https://ko.wikipedia.org/wiki/최진호 "wikilink")
   - [구민혁](https://ko.wikipedia.org/wiki/구민혁 "wikilink")
   - [김남범](https://ko.wikipedia.org/wiki/김남범 "wikilink")
 

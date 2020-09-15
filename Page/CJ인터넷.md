@@ -40,6 +40,6 @@
 
 ## 외부 링크
 
-  - <http://www.cjinternet.com/>: 공식 사이트 (현재 CJ Netmarble 사이트로 이동됨)
+  - <https://web.archive.org/web/20080514115243/http://www.cjinternet.com/>: 공식 사이트 (현재 CJ Netmarble 사이트로 이동됨)
 
 [분류:1982년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1982년_설립된_기업 "wikilink") [분류:2011년 폐지](https://ko.wikipedia.org/wiki/분류:2011년_폐지 "wikilink") [분류:없어진 비디오 게임 회사](https://ko.wikipedia.org/wiki/분류:없어진_비디오_게임_회사 "wikilink") [분류:대한민국의 비디오 게임 회사](https://ko.wikipedia.org/wiki/분류:대한민국의_비디오_게임_회사 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink") [분류:CJ의 이전 자회사](https://ko.wikipedia.org/wiki/분류:CJ의_이전_자회사 "wikilink")

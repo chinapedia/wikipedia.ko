@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JJK](https://ko.wikipedia.org/wiki/JJK).
 
 
-**JJK**(, [1985년](../Page/1985년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 래퍼이다. **제이제이케이**로 읽으며, 소속사는 C9 엔터테인먼트이고, 소속 크루는 ADV (Angdreville, 앙드레빌) 크루이다.
+**JJK**(, [1985년](../Page/1985년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 래퍼이다. **제이제이케이**로 읽으며, 소속 크루는 ADV (Angdreville, 앙드레빌) 크루이다.
 
 ## 바이오그래피
 

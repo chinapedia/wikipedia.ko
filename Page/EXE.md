@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EXE](https://ko.wikipedia.org/wiki/EXE).
 
 
-**EXE**는 일반적인 [파일 확장자로](../Page/파일_확장자.md "wikilink") [컴퓨터 프로그램의](../Page/컴퓨터_프로그램.md "wikilink") [실행 파일을](../Page/실행_파일.md "wikilink") 가리킨다. [오픈VMS](https://ko.wikipedia.org/wiki/오픈VMS "wikilink"), [도스](../Page/도스.md "wikilink"), [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [리엑트오에스](https://ko.wikipedia.org/wiki/리엑트오에스 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink") 운영 체제에서 사용할 수 있다.
+**EXE**는 일반적인 [파일 확장자로](../Page/파일_확장자.md "wikilink") [컴퓨터 프로그램의](../Page/컴퓨터_프로그램.md "wikilink") [실행 파일을](../Page/실행_파일.md "wikilink") 가리킨다. [오픈VMS](https://ko.wikipedia.org/wiki/오픈VMS "wikilink"), [도스](../Page/도스.md "wikilink"), [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [리엑트오에스](https://ko.wikipedia.org/wiki/리엑트오에스 "wikilink"), [OS/2](https://ko.wikipedia.org/wiki/OS/2 "wikilink") 운영 체제에서 사용할 수 있다.
 
 실행 프로그램 자체뿐 아니라, 많은 EXE 파일들은 비트맵, 실행 프로그램이 [그래픽 사용자 인터페이스를](../Page/그래픽_사용자_인터페이스.md "wikilink") 사용하는, 아이콘과 같은 [리소스라고](https://ko.wikipedia.org/wiki/리소스_\(컴퓨터_과학\) "wikilink") 불리는 다른 구성 요소들을 포함할 수 있다.
 

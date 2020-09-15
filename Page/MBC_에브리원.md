@@ -5,29 +5,28 @@
 
 전국의 모든 케이블TV와 위성 스카이라이프, 위성 [DMB](../Page/디지털_멀티미디어_방송.md "wikilink") TU, [IPTV](../Page/IPTV.md "wikilink")에서 시청가능하며 [2009년](../Page/2009년.md "wikilink") [10월 14일부터](../Page/10월_14일.md "wikilink") 미주지역의 시청자들도 MBC 에브리원을 시청할 수 있게 되었다. 미국의 최대 위성방송 플랫폼 [다이렉 TV를](https://ko.wikipedia.org/wiki/DirecTV "wikilink") 통해 미주지역에 채널 론칭을 해서 송출을 시작했다. MBC 플러스 미디어 관계자는 "디렉TV 진출로 한인 교포를 포함한 미국 전 지역에 MBC 에브리원을 공급할 수 있게 됐다"며 "MBC 플러스 미디어의 100% 자체 제작 프로그램으로 편성할 예정"이라고 말했다. MBC every1 미주채널은 여의도 MBC 플러스 미디어 주조정실에서 KT망을 통해 해저로 미국 LA KT팝까지 전송되고 LA KT팝에서 MBC 아메리카로 MBC 아메리카에서 AT\&T망을 통해 디렉TV로 전송되어 위성으로 시청자들에게 전달된다.\[1\]
 
-미주 MBC 에브리원은 '별순검', '무한걸스', '골프의 신', '식신원정대'등 중국, 대한민국, 베트남, 필리핀에서 MBC 드라마넷, MBC SPORTS+에서 방송된 자체 제작 컨텐츠 프로그램을 방송하게 된다. 현재 미국에 진출된 채널로는 지상파 [MBC와](../Page/MBC_TV.md "wikilink") [SBS](../Page/SBS_TV.md "wikilink") 그리고 보도채널 [YTN](../Page/YTN.md "wikilink"), 종교채널 [CTS뿐이며](https://ko.wikipedia.org/wiki/CTS_\(방송사\) "wikilink"), 순수 자체 제작 프로그램으로 구성된 채널이 미국에 진출하기는 MBC every1이 처음이다. 한편 [MBC 플러스의](../Page/MBC_플러스.md "wikilink") 현지 사업 파트너인 MBC 아메리카는 플랫폼 관리 및 진입 영업, 마케팅 등과 방송 신호 재송출 및 비상송출 시스템도 운영할 예정이다.\[2\]
+미주 MBC 에브리원은 '별순검', '무한걸스', '골프의 신', '식신원정대'등 중국, 대한민국, 베트남, 필리핀에서 MBC 드라마넷, MBC SPORTS+에서 방송된 자체 제작 컨텐츠 프로그램을 방송하게 된다. 현재 미국에 진출된 채널로는 지상파 [MBC와](../Page/MBC_TV.md "wikilink") [SBS](../Page/SBS_TV.md "wikilink") 그리고 보도채널 [YTN](../Page/YTN.md "wikilink"), 종교채널 [CTS뿐이며](../Page/CTS기독교TV.md "wikilink"), 순수 자체 제작 프로그램으로 구성된 채널이 미국에 진출하기는 MBC every1이 처음이다. 한편 [MBC 플러스의](../Page/MBC_플러스.md "wikilink") 현지 사업 파트너인 MBC 아메리카는 플랫폼 관리 및 진입 영업, 마케팅 등과 방송 신호 재송출 및 비상송출 시스템도 운영할 예정이다.\[2\]
 
-2014년 3월 지상파 DMB 송출이 중단되고 [MBC 스포츠플러스](../Page/MBC_스포츠플러스.md "wikilink") DMB로 전환되지만 2016년 3월 2년만에 다시 지상파 DMB 송출이 재개된다. 그리고 2018년 5월 31일자로 MBC every1의 DMB 송출이 완전히 중단되었다. [나는트로트가수다](https://ko.wikipedia.org/wiki/나는트로트가수다 "wikilink") 2020년2월5일 수요일밤10시 다른프로그램 시청방해 하지마 어서와 한국처음이지 계속해서 한글자막광고 시청자불쾌 합니다 시청자들은 보고싶은프로그램 정해졌습니다 더이상 시청방해한프로그램은 좋은프로그램 시청거부하고 셋톱박스에서 차단합니다
+2014년 3월 지상파 DMB 송출이 중단되고 [MBC 스포츠플러스](../Page/MBC_스포츠플러스.md "wikilink") DMB로 전환되지만 2016년 3월 2년만에 다시 지상파 DMB 송출이 재개된다. 그리고 2018년 5월 31일자로 MBC every1의 DMB 송출이 완전히 중단되었다.
 
-## 현재 방영중인 프로그램
+## 방송 프로그램
 
-### 예능
+### 현재 방영중인 프로그램
+
+#### 예능
 
   - [주간 아이돌](../Page/주간_아이돌.md "wikilink") (진행 : [황광희](../Page/황광희.md "wikilink"), [은혁](../Page/은혁.md "wikilink"))
-  - [비디오스타](../Page/비디오스타.md "wikilink") (진행 : [박소현](../Page/박소현_\(배우\).md "wikilink"), [김숙](../Page/김숙.md "wikilink"), [박나래](../Page/박나래.md "wikilink"),[박산다라](../Page/박산다라.md "wikilink"))
-  - [대한외국인](../Page/대한외국인.md "wikilink") (진행 : [김용만](https://ko.wikipedia.org/wiki/김용만 "wikilink"), [박명수](../Page/박명수.md "wikilink"))
-  - [맛있을 지도](https://ko.wikipedia.org/wiki/맛있을_지도 "wikilink") 시즌 3 (진행 : [김경식](../Page/김경식_\(희극인\).md "wikilink"), [양세찬](../Page/양세찬.md "wikilink"), [이진호](../Page/이진호_\(희극인\).md "wikilink"), [서효명](https://ko.wikipedia.org/wiki/서효명 "wikilink"), [김정진](../Page/김정진_\(미스코리아\).md "wikilink"))
-  - [달라서 간다](https://ko.wikipedia.org/wiki/달라서_간다 "wikilink") (진행 : [김대희](../Page/김대희_\(희극인\).md "wikilink"), [유민상](../Page/유민상_\(희극인\).md "wikilink"), [솔비](../Page/솔비.md "wikilink"), [유승우](../Page/유승우_\(가수\).md "wikilink"))
-  - [룩앳미](https://ko.wikipedia.org/wiki/룩앳미 "wikilink") (출연 : [김재경](../Page/김재경_\(연예인\).md "wikilink"), [남보라](../Page/남보라.md "wikilink"), [리지](../Page/박수아.md "wikilink"), [소원](../Page/소원_\(가수\).md "wikilink"))
+  - [비디오스타](../Page/비디오스타.md "wikilink") (진행 : [박소현](../Page/박소현_\(배우\).md "wikilink"), [김숙](../Page/김숙.md "wikilink"), [박나래](../Page/박나래.md "wikilink"), [박산다라](../Page/박산다라.md "wikilink"))
+  - [대한외국인](../Page/대한외국인.md "wikilink") (진행 : [김용만](../Page/김용만_\(희극인\).md "wikilink"), [박명수](../Page/박명수.md "wikilink"))
 
-### 음악
+#### 음악
 
   - [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink") ([MBC MUSIC과](../Page/MBC_뮤직.md "wikilink") 동시 생방송. 단, MBC every1 DMB로는 방송되지 않는다.)
   - [MBC Plus X Genie Music Awards](https://ko.wikipedia.org/wiki/지니_뮤직_어워드 "wikilink") ([MBC MUSIC과](../Page/MBC_뮤직.md "wikilink") MBC 드라마넷 동시 생방송. 단, MBC every1 DMB로는 방송되지 않는다.)
 
-## 종영 프로그램
+### 종영 프로그램
 
-### 예능
+#### 예능
 
   - [미인도](https://ko.wikipedia.org/wiki/미인도_\(드라마\) "wikilink")
   - [아이돌 군단의 떴다\! 그녀 시즌 1](../Page/아이돌_군단의_떴다!_그녀.md "wikilink")
@@ -40,9 +39,6 @@
   - [김호진의 쿡앤툭](https://ko.wikipedia.org/wiki/김호진의_쿡앤툭 "wikilink") (진행 : [김호진](../Page/김호진_\(배우\).md "wikilink"), [강유미](../Page/강유미.md "wikilink"))
   - [이유진의 하이힐](https://ko.wikipedia.org/wiki/이유진의_하이힐 "wikilink") (진행 : [이유진](../Page/이유진_\(여자_배우\).md "wikilink"))
   - [신해철의 스페셜 에디션](https://ko.wikipedia.org/wiki/신해철의_스페셜_에디션 "wikilink") (진행 : [신해철](../Page/신해철.md "wikilink"))
-
-<!-- end list -->
-
   - [소통 원활\! 힐링 샤우팅\! 고래고래](https://ko.wikipedia.org/wiki/소통_원활!_힐링_샤우팅!_고래고래 "wikilink") (진행 : [조혜련](../Page/조혜련.md "wikilink"), [신봉선](../Page/신봉선.md "wikilink"))
   - [가족이 필요해 시즌1](../Page/가족이_필요해.md "wikilink")
   - [가족이 필요해 시즌2](../Page/가족이_필요해.md "wikilink")
@@ -52,7 +48,7 @@
   - [품절남녀](https://ko.wikipedia.org/wiki/품절남녀 "wikilink") (출연 : [유세윤](../Page/유세윤.md "wikilink"), [안영미](../Page/안영미_\(희극인\).md "wikilink"))
   - [함사세요](https://ko.wikipedia.org/wiki/함사세요 "wikilink") (출연 : [지상렬](../Page/지상렬.md "wikilink"), [강수정](../Page/강수정.md "wikilink"), [성대현](../Page/성대현.md "wikilink"), [유채영](../Page/유채영.md "wikilink"), [오인택](https://ko.wikipedia.org/wiki/오인택_\(희극인\) "wikilink"), [서효명](https://ko.wikipedia.org/wiki/서효명 "wikilink"))
   - [이경규의 복불복쇼](https://ko.wikipedia.org/wiki/이경규의_복불복쇼 "wikilink") (진행 : [이경규](../Page/이경규.md "wikilink"))
-  - [MT왕](https://ko.wikipedia.org/wiki/MT왕 "wikilink") (출연 : [정형돈](../Page/정형돈.md "wikilink"), [데프콘](../Page/데프콘_\(가수\).md "wikilink"), [남창희](../Page/남창희_\(희극인\).md "wikilink"), [김디에나](../Page/김디에나.md "wikilink"), [이파니](../Page/이파니.md "wikilink"))
+  - [MT왕](../Page/MT왕.md "wikilink") (출연 : [정형돈](../Page/정형돈.md "wikilink"), [데프콘](../Page/데프콘_\(가수\).md "wikilink"), [남창희](../Page/남창희_\(희극인\).md "wikilink"), [김디에나](../Page/김디에나.md "wikilink"), [이파니](../Page/이파니.md "wikilink"))
   - [퍼펙트 브라이드](https://ko.wikipedia.org/wiki/퍼펙트_브라이드 "wikilink") (진행 : [박수홍](../Page/박수홍.md "wikilink"), [강수정](../Page/강수정.md "wikilink"))
   - [박경림의 화려한 외출 시즌 1](https://ko.wikipedia.org/wiki/박경림의_화려한_외출_시즌_1 "wikilink")
   - [박경림의 화려한 외출 시즌 2](https://ko.wikipedia.org/wiki/박경림의_화려한_외출_시즌_2 "wikilink")
@@ -107,7 +103,7 @@
   - 로맨스의 일주일 시즌 1 (진행 : [한고은](../Page/한고은.md "wikilink"), [조여정](../Page/조여정.md "wikilink"))
   - 로맨스의 일주일 시즌 2 (진행 : [예지원](../Page/예지원.md "wikilink"), [G.NA](../Page/G.NA.md "wikilink"))
   - 로맨스의 일주일 시즌 3 (진행 : [박시연](../Page/박시연.md "wikilink"), [한채아](../Page/한채아.md "wikilink"), [김성은](../Page/김성은_\(1983년\).md "wikilink"))
-  - 로맨스의 일주일 시즌 4 (진행 : [장희진](../Page/장희진_\(1983년\).md "wikilink"), [소진](../Page/소진_\(1986년\).md "wikilink"), [임주은](../Page/임주은.md "wikilink"))
+  - 로맨스의 일주일 시즌 4 (진행 : [장희진](../Page/장희진_\(1983년\).md "wikilink"), [소진](https://ko.wikipedia.org/wiki/박소진_\(배우\) "wikilink"), [임주은](../Page/임주은.md "wikilink"))
   - 100인의 선택 - 최고라면 (진행 : [이창민](https://ko.wikipedia.org/wiki/창민 "wikilink"), 출연 : [파비앙](https://ko.wikipedia.org/wiki/파비앙 "wikilink"), [정주리](../Page/정주리.md "wikilink"), [김지숙](../Page/김지숙_\(가수\).md "wikilink"), [록현](../Page/록현.md "wikilink") of [100%](../Page/백퍼센트_\(음악_그룹\).md "wikilink"))
   - 정의본색 (출연 : [김보성](https://ko.wikipedia.org/wiki/김보성_\(배우\) "wikilink"), [김구라](../Page/김구라.md "wikilink"), [윤형빈](https://ko.wikipedia.org/wiki/윤형빈 "wikilink"), [샘 해밍턴](../Page/샘_해밍턴.md "wikilink"), [샘 오취리](../Page/샘_오취리.md "wikilink"), [강철웅](https://ko.wikipedia.org/wiki/강철웅 "wikilink"), [니엘](../Page/니엘_\(가수\).md "wikilink"))
   - [씨스타의 쇼타임](https://ko.wikipedia.org/wiki/씨스타의_쇼타임 "wikilink")
@@ -136,6 +132,9 @@
   - [도니의 히트제조기](../Page/히트제조기.md "wikilink")
   - [맛있을 지도](https://ko.wikipedia.org/wiki/맛있을_지도 "wikilink") 시즌 1 (진행 : [김경식](../Page/김경식_\(희극인\).md "wikilink"), [신수지](../Page/신수지.md "wikilink"))
   - [맛있을 지도](https://ko.wikipedia.org/wiki/맛있을_지도 "wikilink") 시즌 2 (진행 : [김경식](../Page/김경식_\(희극인\).md "wikilink"), [후지타 사유리](../Page/후지타_사유리.md "wikilink"))
+  - [맛있을 지도](https://ko.wikipedia.org/wiki/맛있을_지도 "wikilink") 시즌 3 (진행 : [김경식](../Page/김경식_\(희극인\).md "wikilink"), [양세찬](../Page/양세찬.md "wikilink"), [이진호](../Page/이진호_\(희극인\).md "wikilink"), [서효명](https://ko.wikipedia.org/wiki/서효명 "wikilink"), [김정진](../Page/김정진_\(미스코리아\).md "wikilink"))
+  - [달라서 간다](https://ko.wikipedia.org/wiki/달라서_간다 "wikilink") (진행 : [김대희](../Page/김대희_\(희극인\).md "wikilink"), [유민상](../Page/유민상_\(희극인\).md "wikilink"), [솔비](../Page/솔비.md "wikilink"), [유승우](../Page/유승우_\(가수\).md "wikilink"))
+  - [룩앳미](https://ko.wikipedia.org/wiki/룩앳미 "wikilink") (출연 : [김재경](../Page/김재경_\(연예인\).md "wikilink"), [남보라](../Page/남보라.md "wikilink"), [리지](../Page/박수아.md "wikilink"), [소원](../Page/소원_\(가수\).md "wikilink"))
   - [시골경찰 시즌 1](../Page/시골경찰.md "wikilink") (출연 : [신현준](../Page/신현준_\(배우\).md "wikilink"), [최민용](../Page/최민용.md "wikilink"), [오대환](../Page/오대환.md "wikilink"), [이주승](../Page/이주승.md "wikilink"))
   - [시골경찰 시즌 2](../Page/시골경찰.md "wikilink") (출연 : [신현준](../Page/신현준_\(배우\).md "wikilink"), [이정진](../Page/이정진.md "wikilink"), [오대환](../Page/오대환.md "wikilink"), [이재준](../Page/이재준_\(배우\).md "wikilink"))
   - [시골경찰 시즌 3](../Page/시골경찰.md "wikilink") (출연 : [신현준](../Page/신현준_\(배우\).md "wikilink"), [이정진](../Page/이정진.md "wikilink"), [오대환](../Page/오대환.md "wikilink"), [이청아](../Page/이청아.md "wikilink"))
@@ -147,7 +146,7 @@
   - 고민말고 GO (출연 : [하석진](../Page/하석진.md "wikilink"), [김지석](../Page/김지석_\(배우\).md "wikilink"))
   - [TV 속의 TV](../Page/TV_속의_TV.md "wikilink") (지난 방영분 재방송, 진행 : [한광섭](../Page/한광섭.md "wikilink"), [하지은](../Page/하지은.md "wikilink"), 출연 : [정석희](https://ko.wikipedia.org/wiki/정석희 "wikilink"), [박창현](../Page/박창현_\(아나운서\).md "wikilink"))
 
-### 드라마
+#### 드라마
 
   - [조선 과학수사대 별순검](../Page/조선_과학수사대_별순검.md "wikilink") 시즌 1\~2
   - [서울 무림전](https://ko.wikipedia.org/wiki/서울_무림전 "wikilink")
@@ -158,9 +157,9 @@
   - [0시의 그녀](../Page/0시의_그녀.md "wikilink")
   - [투 비 컨티뉴드](../Page/투_비_컨티뉴드.md "wikilink")
   - [연금술사](../Page/연금술사_\(드라마\).md "wikilink")
-  - [웹툰히어로 툰드라쇼‎](https://ko.wikipedia.org/wiki/웹툰히어로_툰드라쇼‎ "wikilink")
+  - [웹툰히어로 툰드라쇼](../Page/웹툰히어로_툰드라쇼.md "wikilink")
   - [상상고양이](../Page/상상고양이.md "wikilink")
-  - [웹툰히어로 툰드라쇼‎ 시즌 2](https://ko.wikipedia.org/wiki/웹툰히어로_툰드라쇼‎ "wikilink")
+  - [웹툰히어로 툰드라쇼 시즌 2](../Page/웹툰히어로_툰드라쇼.md "wikilink")
   - [4가지 하우스](https://ko.wikipedia.org/wiki/4가지_하우스 "wikilink")
   - [단짠 오피스](../Page/단짠_오피스.md "wikilink")
 

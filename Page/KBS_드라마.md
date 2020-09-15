@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [KBS 드라마](https://ko.wikipedia.org/wiki/KBS_드라마).
 
 
-**KBS 드라마**()는 [TV 드라마](../Page/텔레비전_드라마.md "wikilink") [프로그램을](https://ko.wikipedia.org/wiki/TV_프로그램 "wikilink") 주로 편성하는 [KBS N](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 계열의 방송 채널이다.
+**KBS 드라마**()는 [TV 드라마](../Page/텔레비전_드라마.md "wikilink") [프로그램을](https://ko.wikipedia.org/wiki/TV_프로그램 "wikilink") 주로 편성하는 [KBS N](../Page/KBS_N.md "wikilink") 계열의 방송 채널이다.
 
 ## 채널 번호
 
-  - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink")(KT OTS) 채널 - 27번
+  - KT [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink") OTS 채널 - 27번
   - SK BTV 채널 - 30번
-  - KT OTV (올레TV 라이브) 채널 - 35번
+  - KT OTV 올레TV 라이브 채널 - 35번
   - [LG U+](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") TV 채널 - 31번
   - [SK브로드밴드](../Page/SK브로드밴드.md "wikilink") 케이블 채널 - 52번
 
@@ -20,10 +20,10 @@
 
 ## 역사
 
-  - [2002년](../Page/2002년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") (구) **KBS 드라마**로 개국
+  - [2002년](../Page/2002년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") (구) **KBS 드라마**로 개국
   - [2003년](../Page/2003년.md "wikilink") [1월](../Page/1월.md "wikilink") **SKY KBS 드라마**로 채널 변경 개국
   - [2003년](../Page/2003년.md "wikilink") [7월](../Page/7월.md "wikilink") **KBS SKY 드라마**로 채널 변경 개국
-  - [2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") **KBS 드라마**로 채널 변경 개국
+  - [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") **KBS 드라마**로 채널 변경 개국
 
 ## 프로그램
 
@@ -48,13 +48,13 @@
   - [내 마음의 꽃비](../Page/내_마음의_꽃비.md "wikilink")
   - [흑기사](https://ko.wikipedia.org/wiki/흑기사 "wikilink")
   - [저글러스](../Page/저글러스.md "wikilink")
-  - [매드독](https://ko.wikipedia.org/wiki/매드독 "wikilink")
+  - [매드 독](../Page/매드_독.md "wikilink")
   - [마녀의 법정](../Page/마녀의_법정.md "wikilink")
   - [내 남자의 비밀](../Page/내_남자의_비밀.md "wikilink")
   - [란제리 소녀시대](../Page/란제리_소녀시대.md "wikilink")
   - [김생민의 영수증](../Page/김생민의_영수증.md "wikilink")
   - [꽃 피어라 달순아\!](../Page/꽃_피어라_달순아!.md "wikilink")
-  - 맨홀
+  - [맨홀 - 이상한 나라의 필](../Page/맨홀_-_이상한_나라의_필.md "wikilink")
   - [최강 배달꾼](../Page/최강_배달꾼.md "wikilink")
   - [학교 2017](../Page/학교_2017.md "wikilink")
   - [무궁화 꽃이 피었습니다](../Page/무궁화_꽃이_피었습니다_\(드라마\).md "wikilink")
@@ -62,10 +62,6 @@
   - [추리의 여왕](../Page/추리의_여왕.md "wikilink")
   - [그 여자의 바다](../Page/그_여자의_바다.md "wikilink")
   - 마카롱
-
-## 좋아하는 사람
-
-  - [윤태윤](https://ko.wikipedia.org/wiki/윤태윤 "wikilink")
 
 ## 같이 보기
 
@@ -75,6 +71,6 @@
 
 ## 외부 링크
 
-  - [KBS N 홈페이지](http://www.kbsn.co.kr/)
+  - [KBS N 홈페이지](https://web.archive.org/web/20190108033211/http://www.kbsn.co.kr/)
 
 [분류:한국방송공사의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_네트워크 "wikilink") [분류:드라마 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:드라마_텔레비전_네트워크 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink")

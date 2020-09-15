@@ -3,17 +3,17 @@
 
 **Lia**(리아)는 일본의 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink")로, [I've Sound의](https://ko.wikipedia.org/wiki/I've_Sound "wikilink") 참여 가수이다. 15세에 미국으로 건너가 대학을 마치고 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에서 활동하던 중, [에어의](../Page/에어_\(비디오_게임\).md "wikilink") 오프닝 테마 〈[새의 시](https://ko.wikipedia.org/wiki/새의_시 "wikilink")〉를 부른 것을 계기로 귀국하였다. [미국](../Page/미국.md "wikilink")이나 [영국](../Page/영국.md "wikilink")에서 [해피 하드코어](https://ko.wikipedia.org/wiki/해피_하드코어 "wikilink") 분야에서도 활동하고 있으며, [이니셜D](https://ko.wikipedia.org/wiki/이니셜D "wikilink") 포스 스테이지의 All around와 같은 [유로 비트나](https://ko.wikipedia.org/wiki/유로_비트 "wikilink") Sky High를 [에이벡스](https://ko.wikipedia.org/wiki/에이벡스 "wikilink")를 통해 노래하였다.
 
-## queens label
+## Queens label
 
-리아의 CD나 DVD 대부분을 발매하고 있는 queens label는 [I've](../Page/I've.md "wikilink")나 [Key Sounds Label의](https://ko.wikipedia.org/wiki/Key_Sounds_Label "wikilink") 자매 음악 제작 라벨이다.
+리아의 CD나 DVD 대부분을 발매하고 있는 Queens label는 [I've](../Page/I've.md "wikilink")나 [Key Sounds Label의](https://ko.wikipedia.org/wiki/Key_Sounds_Label "wikilink") 자매 음악 제작 라벨이다.
 
-제작된 CD나 DVD는「queens label」또는「PONY CANYON」의 유통 경로를 따라 발매된다. queens label에서만 유통된 작품은 오리콘 등의 순위에는 반영되지 않는다.
+제작된 CD나 DVD는「Queens label」또는「PONY CANYON」의 유통 경로를 따라 발매된다. Queens label에서만 유통된 작품은 오리콘 등의 순위에는 반영되지 않는다.
 
 유통 패턴은 다음과 같다.
 
-  - queens label 유통
+  - Queens label 유통
     소프트웨어 포함 유통으로, 일반 음반 매장에서 판매되지 않는다. 소프트웨어에 포함되어 유통되므로 소프트웨어 매장에서 판매된다
-  - PONY CANYON·queens label 유통
+  - PONY CANYON·Queens label 유통
     음악 유통으로, 일반 음반 매장에서 판매된다.
 
 ## 연혁
@@ -114,6 +114,6 @@
 
 ## 외부 링크
 
-  - [Lia's Cafe](http://lias-cafe.com/)
+  - [Lia's Cafe](https://web.archive.org/web/20080330183629/http://lias-cafe.com/)
 
 [분류:일본의 여자 싱어송라이터](https://ko.wikipedia.org/wiki/분류:일본의_여자_싱어송라이터 "wikilink") [분류:생년 미상](https://ko.wikipedia.org/wiki/분류:생년_미상 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:도쿄도 구부 출신](https://ko.wikipedia.org/wiki/분류:도쿄도_구부_출신 "wikilink")

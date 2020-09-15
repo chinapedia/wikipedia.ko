@@ -155,5 +155,3 @@
   - [Pangrams in Russian, English and some other languages](http://www.artlebedev.ru/kovodstvo/33/)
 
 [분류:영어 어구](https://ko.wikipedia.org/wiki/분류:영어_어구 "wikilink") [분류:타이포그래피](https://ko.wikipedia.org/wiki/분류:타이포그래피 "wikilink") [분류:채우기 텍스트](https://ko.wikipedia.org/wiki/분류:채우기_텍스트 "wikilink") [분류:팬그램](https://ko.wikipedia.org/wiki/분류:팬그램 "wikilink")
-
-[fi:The quick brown fox jumps over the lazy dog](https://ko.wikipedia.org/wiki/fi:The_quick_brown_fox_jumps_over_the_lazy_dog "wikilink")

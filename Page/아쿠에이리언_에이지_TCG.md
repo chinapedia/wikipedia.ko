@@ -547,7 +547,7 @@
 ## 외부 링크
 
   -
-  - [아쿠에이리언 에이지 공식 홈페이지](http://www.aquarian-age.org/)
+  - [아쿠에이리언 에이지 공식 홈페이지](https://web.archive.org/web/20070624020608/http://www.aquarian-age.org/)
 
   - [아쿠에리안 에이지 한글 리스트 제공 홈페이지](https://web.archive.org/web/20130720155813/http://aask.hosting.paran.com/)
 

@@ -422,12 +422,12 @@
 
 ## 챔피언 현황
 
-| 타이틀                                                             | 챔피언                                           | 획득한 날짜       | 획득한 장소                                               | 전 챔피언                                          |
-| --------------------------------------------------------------- | --------------------------------------------- | ------------ | ---------------------------------------------------- | ---------------------------------------------- |
-| [WWE 챔피언](../Page/WWE_챔피언십.md "wikilink")                       | [드루 매킨타이어](../Page/드루_매킨타이어.md "wikilink")    | 2020년 4월 5일  | [WWE 레슬매니아](../Page/레슬매니아.md "wikilink")             | [브록 레스너](../Page/브록_레스너.md "wikilink")         |
-| [WWE 유나이티드 스테이츠 챔피언](../Page/WWE_유나이티드_스테이츠_챔피언십.md "wikilink") | [아폴로 크루즈](../Page/우하_네이션.md "wikilink")       | 2020년 5월 25일 | [WWE 러](../Page/WWE_러.md "wikilink")                 | [안드라데](../Page/안드라데_시엔_알마스.md "wikilink")      |
-| [WWE 러 위민스 챔피언](../Page/WWE_러_위민스_챔피언십.md "wikilink")           | [아스카](../Page/아스카_\(프로레슬링_선수\).md "wikilink") | 2020년 5월 10일 | [WWE 머니 인 더 뱅크](../Page/WWE_머니_인_더_뱅크.md "wikilink") | [베키 린치](../Page/베키_린치.md "wikilink")           |
-| [WWE 러 태그팀 챔피언](../Page/WWE_러_태그팀_챔피언십.md "wikilink")           | 스트리트 프로피츠 (몬테즈 포드 & 안젤로 도킨스)                  | 2020년 3월 2일  | [WWE 러](../Page/WWE_러.md "wikilink")                 | [세스 롤린스](../Page/타일러_블랙.md "wikilink") & 버디 머피 |
+| 타이틀                                                             | 챔피언                                           | 획득한 날짜       | 획득한 장소                                   | 전 챔피언                                          |
+| --------------------------------------------------------------- | --------------------------------------------- | ------------ | ---------------------------------------- | ---------------------------------------------- |
+| [WWE 챔피언](../Page/WWE_챔피언십.md "wikilink")                       | [드루 매킨타이어](../Page/드루_매킨타이어.md "wikilink")    | 2020년 4월 5일  | [WWE 레슬매니아](../Page/레슬매니아.md "wikilink") | [브록 레스너](../Page/브록_레스너.md "wikilink")         |
+| [WWE 유나이티드 스테이츠 챔피언](../Page/WWE_유나이티드_스테이츠_챔피언십.md "wikilink") | [바비 래쉴리](../Page/보비_래슐리.md "wikilink")        | 2020년 8월 30일 | [WWE 페이백](../Page/WWE_페이백.md "wikilink") | [아폴로 크루즈](../Page/우하_네이션.md "wikilink")        |
+| [WWE 러 위민스 챔피언](../Page/WWE_러_위민스_챔피언십.md "wikilink")           | [아스카](../Page/아스카_\(프로레슬링_선수\).md "wikilink") | 2020년 8월 23일 | [WWE 서머슬램](../Page/서머슬램.md "wikilink")   | [사샤 뱅크스](../Page/사샤_뱅크스.md "wikilink")         |
+| [WWE 러 태그팀 챔피언](../Page/WWE_러_태그팀_챔피언십.md "wikilink")           | 스트리트 프로피츠 (몬테즈 포드 & 안젤로 도킨스)                  | 2020년 3월 2일  | [WWE 러](../Page/WWE_러.md "wikilink")     | [세스 롤린스](../Page/타일러_블랙.md "wikilink") & 버디 머피 |
 
 ## 로스터
 
@@ -439,7 +439,6 @@
   - [랜디 오턴](../Page/랜디_오턴.md "wikilink")
   - [레이 미스테리오](../Page/레이_미스테리오.md "wikilink")
   - [루세프](../Page/알렉산더_루세프.md "wikilink")
-  - [루크 갤로웨이](../Page/드루_핸킨슨.md "wikilink")
   - [리코셰](../Page/리코셰.md "wikilink")
   - [마이크 카넬리스](../Page/마이크_배넷.md "wikilink")
   - [모조 롤리](../Page/모조_롤리.md "wikilink")
@@ -460,21 +459,17 @@
   - [알레이스터 블랙](../Page/알레이스터_블랙.md "wikilink")
   - [알 트루스](../Page/론_킬링스.md "wikilink")
   - [에릭 로완](../Page/에릭_로완.md "wikilink")
-  - [에릭 영](../Page/에릭_영_\(프로레슬링_선수\).md "wikilink")
   - 움베르토 카리요
   - [잭 라이더](../Page/잭_라이더.md "wikilink")
   - [진더 마할](../Page/진더_마할.md "wikilink")
-  - [칼 앤더슨](https://ko.wikipedia.org/wiki/칼_앤더슨_\(남자_프로레슬링선수\) "wikilink")
   - [커트 호킨스](../Page/커트_호킨스.md "wikilink")
   - [케빈 오웬스](https://ko.wikipedia.org/wiki/케빈_오웬스 "wikilink")
   - [타이터스 오닐](../Page/타이터스_오닐.md "wikilink")
   - [토자와 아키라](../Page/토자와_아키라.md "wikilink")
   - [트리플 H](../Page/트리플_H.md "wikilink")
-  - [A.J. 스타일스](../Page/A.J._스타일스.md "wikilink")
   - AOP
       - 레자르
       - [아캄](../Page/아캄.md "wikilink")
-  - [EC3](../Page/마이클_허터.md "wikilink")
 
 #### 여성
 
@@ -493,6 +488,7 @@
   - [베키 린치](../Page/베키_린치.md "wikilink")
   - [사라 로건](../Page/크레이지_메리_돕슨.md "wikilink")
   - [샬럿 플레어](https://ko.wikipedia.org/wiki/샬럿_플레어 "wikilink")
+  - 셰이나 배즐러
   - 아이코닉스
       - [빌리 케이](../Page/빌리_케이.md "wikilink")
       - [페이턴 로이스](../Page/페이턴_로이스.md "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OSx86](https://ko.wikipedia.org/wiki/OSx86).
 
 
-**OSx86**은 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") [운영 체제를](../Page/운영_체제.md "wikilink") 비 매킨토시 환경에서 깔리게 하는 해킹 프로젝트이다. OSx86은 [2005년](../Page/2005년.md "wikilink") [6월](../Page/6월.md "wikilink") 애플의 세계 개발자 회의(Worldwide Developers Conference, WWDC)에서, 예전에 쓰던 파워 PC를 인텔 마이크로프로세서로 전환할 것을 발표한 것에 기인한다.
+**OSx86**은 [애플](../Page/애플.md "wikilink")의 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") [운영 체제를](../Page/운영_체제.md "wikilink") 비 매킨토시 환경에서 깔리게 하는 해킹 프로젝트이다. OSx86은 [2005년](../Page/2005년.md "wikilink") [6월](../Page/6월.md "wikilink") 애플의 세계 개발자 회의(Worldwide Developers Conference, WWDC)에서, 예전에 쓰던 파워 PC를 인텔 마이크로프로세서로 전환할 것을 발표한 것에 기인한다.
 
 최초의 시도는 애플이 999달러에 판매한 개발자 전환 키트의 DVD가 누출된 것이었다. OSx86의 첫 번째 패치는 개발자 전환 키트에 포함된 [로직보드](https://ko.wikipedia.org/wiki/로직보드 "wikilink")에 장착된 [신뢰 플랫폼 모듈](../Page/신뢰_플랫폼_모듈.md "wikilink")(Trusted Platform Module)을 우회하는 데 초점을 맞췄다. TPM은 파워피씨 프로그램을 인텔 기반의 매킨토시에서 구동하게 만들어 주는 [로제타를](../Page/로제타_\(소프트웨어\).md "wikilink") 기반으로 하는데, 로제타를 제거하면, OS X은 비 매킨토시에서 설치가 되었다. 로제타는 SSE3 명령을 필요로 하는데, 이 패치는 SSE2 상태를 에뮬레이트하고, SSE3를 지원하지 않는 [CPU에서](../Page/중앙_처리_장치.md "wikilink") 설치를 지원하고 있다.
 
@@ -33,7 +33,7 @@
 
 ### Psystar PC
 
-[2008년](../Page/2008년.md "wikilink") [2월](../Page/2월.md "wikilink"), 미국의 중소업체 Psystar는 "세계 최초의 해킨토시 탑재 PC"를 출시하였다. 이 PC의 특징은 메인보드 자체에 EFI 에뮬레이터를 탑재하였다는 것이다. 따라서 [애플에서](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 파는 정품DVD를 Psystar PC에 삽입하면 그 DVD는 PC를 정품 매킨토시로 인식하여 설치를 진행한다.
+[2008년](../Page/2008년.md "wikilink") [2월](../Page/2월.md "wikilink"), 미국의 중소업체 Psystar는 "세계 최초의 해킨토시 탑재 PC"를 출시하였다. 이 PC의 특징은 메인보드 자체에 EFI 에뮬레이터를 탑재하였다는 것이다. 따라서 [애플](../Page/애플.md "wikilink")에서 파는 정품DVD를 Psystar PC에 삽입하면 그 DVD는 PC를 정품 매킨토시로 인식하여 설치를 진행한다.
 
 이에 관련해 애플은 [EULA을](https://ko.wikipedia.org/wiki/최종_사용자_라이선스_동의 "wikilink") 위반했다며 소송을 걸 것이라고 맞섰다.
 
@@ -53,7 +53,7 @@
 
   - [OSx86 Ritz 블로그](http://osx86.tistory.com/)
 
-[분류:macOS](https://ko.wikipedia.org/wiki/분류:macOS "wikilink")
+[분류:MacOS](https://ko.wikipedia.org/wiki/분류:MacOS "wikilink")
 
 1.
 2.

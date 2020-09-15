@@ -78,7 +78,7 @@ EUI-64 식별자는 다음에 쓰인다:
 
   - [IANA Considerations and IETF Protocol Usage for IEEE 802 Parameters](http://tools.ietf.org/html/rfc5342)
 
-  - [IANA list of Ethernet Numbers](http://www.iana.org/assignments/ethernet-numbers)
+  - [IANA list of Ethernet Numbers](https://web.archive.org/web/20120615170357/http://www.iana.org/assignments/ethernet-numbers)
 
   - [Wireshark](../Page/와이어샤크.md "wikilink")'s [MAC address list](http://anonsvn.wireshark.org/wireshark/trunk/manuf)
 

@@ -21,6 +21,6 @@
 
   - [BP 공식 웹사이트](http://www.bp.com/)
 
-[분류:1909년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1909년_설립된_기업 "wikilink") [BP](https://ko.wikipedia.org/wiki/분류:BP "wikilink") [분류:다국적 기업](https://ko.wikipedia.org/wiki/분류:다국적_기업 "wikilink") [분류:영국의 정유 회사](https://ko.wikipedia.org/wiki/분류:영국의_정유_회사 "wikilink") [분류:영국의 브랜드](https://ko.wikipedia.org/wiki/분류:영국의_브랜드 "wikilink")
+[분류:1909년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1909년_설립된_기업 "wikilink") [BP](https://ko.wikipedia.org/wiki/분류:BP "wikilink") [분류:다국적 기업](https://ko.wikipedia.org/wiki/분류:다국적_기업 "wikilink") [분류:영국의 정유 회사](https://ko.wikipedia.org/wiki/분류:영국의_정유_회사 "wikilink") [분류:영국의 브랜드](https://ko.wikipedia.org/wiki/분류:영국의_브랜드 "wikilink") [분류:송유관 회사](https://ko.wikipedia.org/wiki/분류:송유관_회사 "wikilink")
 
 1.  롤스로이스 엔진 본체에 'Recommend Castrol' 이라고 명기되어 있다.

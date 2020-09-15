@@ -42,7 +42,7 @@
   - FRESH : K-POP - **Non-Stop**
   - LIVE 4 U - **Non-Stop**
   - 아이돌 대백과 - **Non-Stop**
-  - 소나무의 펫하우스
+  - [소나무의 펫하우스](https://ko.wikipedia.org/wiki/소나무의_펫하우스 "wikilink")
   - [\#WEPLAY](https://programs.sbs.co.kr/mtv/weplay/about/60149)
   - 플레이리스트
   - 뮤직 아일랜드

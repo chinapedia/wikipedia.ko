@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - **[풋볼 리그 챔피언십](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink")** (2부리그)
+  - **[EFL 챔피언십](../Page/EFL_챔피언십.md "wikilink")** (2부리그)
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 
 <!-- end list -->
 
-  - **[풋볼 리그 3부 디비전 북부](https://ko.wikipedia.org/wiki/풋볼_리그_3부_디비전_북부 "wikilink")** (3부리그)
+  - **[EFL 리그 원](../Page/EFL_리그_원.md "wikilink")** (3부리그)
 
 <!-- end list -->
 

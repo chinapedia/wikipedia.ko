@@ -11,7 +11,7 @@
 
 #### BH090 로얄 스타 ([2002년](../Page/2002년.md "wikilink") \~ 현재)
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:BH090.JPG "wikilink") [2000년](../Page/2000년.md "wikilink") [대우 BM090 로얄미디를](../Page/대우_BM.md "wikilink") 고급형과 도시형([BS090 로얄미디](../Page/자일대우_BS.md "wikilink"))으로 나누면서 생산된 모델로, 국내에서 유일한 9m짜리 미디엄급 고급 [버스](../Page/버스.md "wikilink") 모델이다. 출시 당시 DE08Tis [엔진](../Page/엔진.md "wikilink")을 장착하였으나, [2004년](../Page/2004년.md "wikilink") 유로3 환경규제에 대응하기 위해 DL08 [엔진](../Page/엔진.md "wikilink")으로 변경하였고, [2008년](../Page/2008년.md "wikilink") 유로4 환경규제에 대응하기 위해 DL06[엔진](../Page/엔진.md "wikilink")을 기본으로 하되, DL08 [엔진](../Page/엔진.md "wikilink")을 옵션사향으로 선택할 수 있도록 변경하였다. [2011년 3월](../Page/2011년_3월.md "wikilink") 가격표 개정에도 불구하고 여전히 DL06K [엔진](../Page/엔진.md "wikilink")을 기본으로 하되, 옵션으로 DL08K [엔진](../Page/엔진.md "wikilink")을 적용할 수 있다. [2015년](../Page/2015년.md "wikilink")부터는 두산인프라코어가 유로6 엔진 개발을 중지하였기에 커민스 ISBe엔진을 사용하고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:BH090.JPG "wikilink") [2000년](../Page/2000년.md "wikilink") [대우 BM090 로얄미디를](../Page/대우_BM.md "wikilink") 고급형과 도시형([BS090 로얄미디](../Page/자일대우_BS.md "wikilink"))으로 나누면서 생산된 모델로, 국내에서 유일한 9m짜리 미디엄급 고급 [버스](../Page/버스.md "wikilink") 모델이다. 출시 당시 DE08Tis [엔진](../Page/엔진.md "wikilink")을 장착하였으나, [2004년](../Page/2004년.md "wikilink") 유로3 환경규제에 대응하기 위해 DL08 [엔진](../Page/엔진.md "wikilink")으로 변경하였고, [2008년](../Page/2008년.md "wikilink") 유로4 환경규제에 대응하기 위해 DL06[엔진](../Page/엔진.md "wikilink")을 기본으로 하되, DL08 [엔진](../Page/엔진.md "wikilink")을 옵션사향으로 선택할 수 있도록 변경하였다. [2011년 3월](../Page/2011년_3월.md "wikilink") 가격표 개정에도 불구하고 여전히 DL06K [엔진](../Page/엔진.md "wikilink")을 기본으로 하되, 옵션으로 DL08K [엔진](../Page/엔진.md "wikilink")을 적용할 수 있다. [2015년](../Page/2015년.md "wikilink")부터는 두산인프라코어가 유로6 엔진 개발을 중지하였기에 커민스 ISBe엔진을 사용하고 있다. [2019년](../Page/2019년.md "wikilink")부터는 NEW BS 차종이랑 동일한 계기판으로 변경되었다. 다른 BH차종과 달리 로얄스타II로 F/L하지 않거나 자일대우 FX로 풀체인지를 하지 않고 출시할때부터 계속 현행대로 생산중이다. [2020년](../Page/2020년.md "wikilink") 하반기부터는 [코로나바이러스감염증-19](https://ko.wikipedia.org/wiki/코로나바이러스감염증-19 "wikilink")에 따른 수요 감소와 실적 악화 등을 이유로 자일대우상용차 생산공장인 울산공장이 폐쇄되고 베트남으로 이전할 예정이며, 해당된 차종은 자일대우상용차 베트남공장에서 제작하여 수입하는 방식으로 들어올 예정이다.
 
 ##### 현재 보유중이거나 과거에 보유했던 업체
 
@@ -117,6 +117,7 @@ BV113 시리즈의 대체 모델\[1\]로 [1987년](../Page/1987년.md "wikilink"
   - [서울버스공사](../Page/서울고속_\(충북\).md "wikilink")
   - [예천여객](../Page/예천여객.md "wikilink")
   - [아성교통관광](../Page/아성교통관광.md "wikilink")(관광부 존속 시절 운용)
+  - [천일여객](../Page/천일여객.md "wikilink")
 
 ##### BH115E 로얄이코노미
 
@@ -233,6 +234,7 @@ BV113 시리즈의 대체 모델\[1\]로 [1987년](../Page/1987년.md "wikilink"
   - [푸른교통](../Page/푸른교통.md "wikilink")
   - [천지교통](https://ko.wikipedia.org/wiki/천지교통 "wikilink")
   - [충북리무진](../Page/충북리무진.md "wikilink")
+  - [천일여객](../Page/천일여객.md "wikilink")
   - [한남운수](https://ko.wikipedia.org/wiki/한남운수 "wikilink")
   - [아성교통관광](../Page/아성교통관광.md "wikilink")
   - [오동운수](../Page/오동운수.md "wikilink")
@@ -241,6 +243,7 @@ BV113 시리즈의 대체 모델\[1\]로 [1987년](../Page/1987년.md "wikilink"
   - [서울고속](https://ko.wikipedia.org/wiki/서울고속 "wikilink")
   - [안전여객](https://ko.wikipedia.org/wiki/안전자동차 "wikilink") ([삼화고속](../Page/삼화고속.md "wikilink") 출신)
   - [마니교통](../Page/마니교통.md "wikilink")
+  - [밀성여객](../Page/밀성여객.md "wikilink")( [천일여객](../Page/천일여객.md "wikilink") 출신)
 
 #### BH117H 로얄 크루스타 ([1995년](../Page/1995년.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink"))
 
@@ -266,11 +269,11 @@ BV113 시리즈의 대체 모델\[1\]로 [1987년](../Page/1987년.md "wikilink"
 
 ##### BH120H 로얄 슈퍼
 
-BH120S의 풀모델체인지된 후속 모델로 [1985년](../Page/1985년.md "wikilink") [12월](../Page/12월.md "wikilink")에 중순으로 출시된 12미터급 하이데커 모델이다.(시작차는 [1985년](../Page/1985년.md "wikilink") [5월](../Page/5월.md "wikilink")에 등장) 초기 모델은 BH115H 로얄익스프레스와 디자인이 거의 같으며 [대우버스](https://ko.wikipedia.org/wiki/대우버스 "wikilink") 최초 로얄 브랜드를 사용한 모델이자 하이데커 모델이다. [대한민국](../Page/대한민국.md "wikilink")에서 제작된 버스로는 두 번째 하이데커 모델이었다. 출시 초기에는 V형 8기통 D2848M (310마력) 엔진을 얹었으나 이후 극소수가 V형 8기통 터보 D2848T (340마력), V형 10기통 D2840 (360마력), V형 12기통 D2842 (380마력)엔진을 얻었다. [1989년](../Page/1989년.md "wikilink") 페이스 리프트를 거치며 로얄 슈퍼로 모델명이 바뀜과 동시 V10 이스즈 10PC1 (330마력) 엔진을 장착했으며 [1992년](../Page/1992년.md "wikilink")까지 생산되었다.
+BH120S의 풀모델체인지된 후속 모델로 [1985년](../Page/1985년.md "wikilink") [12월](../Page/12월.md "wikilink")에 중순으로 출시된 12미터급 하이데커 모델이다.(시작차는 [1985년](../Page/1985년.md "wikilink") [5월](../Page/5월.md "wikilink")에 등장) 초기 모델은 BH115H 로얄익스프레스와 디자인이 거의 같으며 [대우버스](https://ko.wikipedia.org/wiki/대우버스 "wikilink") 최초 로얄 브랜드를 사용한 모델이자 하이데커 모델이다. [대한민국](../Page/대한민국.md "wikilink")에서 제작된 버스로는 두 번째 하이데커 모델이었다. 출시 초기에는 V형 8기통 D2848M (310마력) 엔진을 얹었으나 이후 극소수가 V형 8기통 터보 D2848T (334마력), 비공식 옵션으로 V형 10기통 D2840M (360마력), V형 12기통 D2842M (380마력)엔진을 디튠해서 얻었다. [1989년](../Page/1989년.md "wikilink") 페이스 리프트를 거치며 로얄 슈퍼로 모델명이 바뀜과 동시 V10 이스즈 10PC1 (330마력) 엔진을 장착했으며 마이너스 옵션으로 D2848T (334마력) 엔진도 장착하였다. [1992년](../Page/1992년.md "wikilink")까지 생산되었다.
 
 ##### BH120F 로얄 크루저
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:BH120F_1st.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Daewon_Express_6911.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Daewon_Express_Daewoo_BH120F_RC_II_Motorcoach.jpg "wikilink") BH120H의 페이스리프트 모델로 1992년 출시된 12미터급 하이데커 최고급 모델이다. 출시 초기에는 로얄 슈퍼 (일반고속)와 로얄 크루저 (우등고속)의 모델명을 사용했으나 [1994년](../Page/1994년.md "wikilink")에 일반형도 로얄 크루저로 통일되었다. [1997년](../Page/1997년.md "wikilink"), [2003년](../Page/2003년.md "wikilink"), [2006년](../Page/2006년.md "wikilink") 페이스 리프트를 거쳤으며 엔진은 V10 10PD1부터, V8 V365T, DV15T, DV15Ti, DV15Tis등을 거쳐가며 유로3 엔진인 DV11 (360마력, 380마력)과 커민스 엔진 (385마력)등으로 다양하게 바뀌었다. 여러 가지 고급 사양을 갖추어 관광부터 우등고속까지 다양한 용도로 생산되었다. [광주고속에서](../Page/금호고속.md "wikilink") 처음 출고했으며 ([1992년](../Page/1992년.md "wikilink") [7월](../Page/7월.md "wikilink")) 이후 다른 버스 회사들이 대량으로 출고하였다. 다른 BH 모델은 [FX 시리즈](../Page/자일대우_FX.md "wikilink") 출시로 단종되었지만 시외직행 모델만 유로4 DV11 커민스 엔진을 장착해 출고한다. [2006년](../Page/2006년.md "wikilink") **로얄 크루저Ⅱ**로 페이스 리프트되었고 2008년 유로4 환경규제에 맞춘 DV11 엔진을 얹고 당분간 생산하다가, [2009년](../Page/2009년.md "wikilink") [12월](../Page/12월.md "wikilink") 단종되었다. 로얄 크루저Ⅱ는 [시외버스](../Page/시외버스.md "wikilink")나 [고속버스](https://ko.wikipedia.org/wiki/고속버스 "wikilink")업체 중에서는 [진흥고속](../Page/진흥고속.md "wikilink"), [동해상사고속](../Page/동해상사고속.md "wikilink"), [전북고속](../Page/전북고속.md "wikilink"), [부산교통](../Page/부산교통.md "wikilink"), [광신고속](../Page/광신고속.md "wikilink"), [한양고속](../Page/한양고속.md "wikilink"), [태영고속](../Page/태영고속.md "wikilink"), [코리아와이드경북](../Page/코리아와이드경북.md "wikilink"), [대한여객](../Page/대한여객_\(경남\).md "wikilink"), [영화여객](../Page/영화여객.md "wikilink"), [경기고속](../Page/경기고속.md "wikilink"), [대원고속](../Page/대원고속.md "wikilink"), [코리아와이드대성](../Page/코리아와이드대성.md "wikilink"), [호남고속](../Page/호남고속.md "wikilink"), [강원고속](../Page/강원고속.md "wikilink"), [천일여객](../Page/천일여객.md "wikilink"), [고려여객](../Page/고려여객.md "wikilink"), [금아여행](../Page/금아여행.md "wikilink"), [삼화고속](../Page/삼화고속.md "wikilink")에서 출고하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:BH120F_1st.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Daewon_Express_6911.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Daewon_Express_Daewoo_BH120F_RC_II_Motorcoach.jpg "wikilink") BH120H의 페이스리프트 모델로 1992년 출시된 12미터급 하이데커 최고급 모델이다. 출시 초기에는 로얄 슈퍼 (일반고속)와 로얄 크루저 (우등고속)의 모델명을 사용했으나 [1994년](../Page/1994년.md "wikilink")에 일반형도 로얄 크루저로 통일되었다. [1997년](../Page/1997년.md "wikilink"), [2003년](../Page/2003년.md "wikilink"), [2006년](../Page/2006년.md "wikilink") 페이스 리프트를 거쳤으며 엔진은 V10 10PD1부터, V8 V365T, DV15T, DV15Ti, DV15Tis등을 거쳐가며 유로3 엔진인 DV11 (360마력, 380마력)과 커민스 엔진 (385마력)등으로 다양하게 바뀌었다. 여러 가지 고급 사양을 갖추어 관광부터 우등고속까지 다양한 용도로 생산되었다. [광주고속에서](../Page/금호고속.md "wikilink") 처음 출고했으며 ([1992년](../Page/1992년.md "wikilink") [7월](../Page/7월.md "wikilink")) 이후 다른 버스 회사들이 대량으로 출고하였다. 다른 BH 모델은 [FX 시리즈](../Page/자일대우_FX.md "wikilink") 출시로 단종되었지만 시외직행 모델만 유로4 DV11 커민스 엔진을 장착해 출고한다. [2006년](../Page/2006년.md "wikilink") **로얄 크루저Ⅱ**로 페이스 리프트되었고 2008년 유로4 환경규제에 맞춘 DV11 엔진을 얹고 당분간 생산하다가, [2009년](../Page/2009년.md "wikilink") [12월](../Page/12월.md "wikilink") 단종되었다. 로얄 크루저Ⅱ는 [시외버스](../Page/시외버스.md "wikilink")나 [고속버스](https://ko.wikipedia.org/wiki/고속버스 "wikilink")업체 중에서는 [진흥고속](../Page/진흥고속.md "wikilink"), [동해상사고속](../Page/동해상사고속.md "wikilink"), [전북고속](../Page/전북고속.md "wikilink"), [부산교통](../Page/부산교통.md "wikilink"), [광신고속](../Page/광신고속.md "wikilink"), [한양고속](../Page/한양고속.md "wikilink"), [태영고속](../Page/태영고속.md "wikilink"), [코리아와이드경북](../Page/코리아와이드경북.md "wikilink"), [대한여객](../Page/대한여객_\(경남\).md "wikilink"), [영화여객](../Page/영화여객.md "wikilink"), [경기고속](../Page/경기고속.md "wikilink"), [대원고속](../Page/대원고속.md "wikilink"), [코리아와이드대성](../Page/코리아와이드대성.md "wikilink"), [호남고속](../Page/호남고속.md "wikilink"), [강원고속](../Page/강원고속.md "wikilink"), [천일여객](../Page/천일여객.md "wikilink"), [고려여객](../Page/고려여객.md "wikilink"), [금아여행](../Page/금아여행.md "wikilink"), [삼화고속](../Page/삼화고속.md "wikilink")에서 운용한적이 있었다.
 
 ###### 그 외
 

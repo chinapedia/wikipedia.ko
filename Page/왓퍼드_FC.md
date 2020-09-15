@@ -23,7 +23,7 @@
 
 매케이가 [2010-11 시즌을](../Page/풋볼_리그_챔피언십_2010-11.md "wikilink") 14위로 마감하고 [카디프 시티 FC로](../Page/카디프_시티_FC.md "wikilink") 자리를 옮김에 따라, 2011년 6월 11일 [션 디쉬가](../Page/션_디쉬.md "wikilink") 감독직을 승계하였다.
 
-2012년 7월부터 [잔프랑코 졸라](../Page/잔프랑코_졸라.md "wikilink"), [주세페 사니노](https://ko.wikipedia.org/wiki/주세페_사니노 "wikilink"), [오스카르 가르시아 후니엔트](https://ko.wikipedia.org/wiki/오스카르_가르시아_후니엔트 "wikilink"), [빌리 매킨리가](https://ko.wikipedia.org/wiki/빌리_매킨리 "wikilink") 감독을 지냈다.
+2012년 7월부터 [잔프랑코 졸라](../Page/잔프랑코_졸라.md "wikilink"), [주세페 사니노](https://ko.wikipedia.org/wiki/주세페_사니노 "wikilink"), [오스카르 가르시아 후니엔트](../Page/오스카르_가르시아_후니엔트.md "wikilink"), [빌리 매킨리가](https://ko.wikipedia.org/wiki/빌리_매킨리 "wikilink") 감독을 지냈다.
 
 이후 [슬라비샤 요카노비치](../Page/슬라비샤_요카노비치.md "wikilink") 감독이 [2014-15시즌에](../Page/풋볼_리그_챔피언십_2014-15.md "wikilink") 팀을 2위로 이끌면서 8년만에 다시 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")로 승격했다.
 
@@ -36,7 +36,7 @@
   - 구단주: 지노 포초()
   - 종신명예회장: [엘튼 존](../Page/엘튼_존.md "wikilink")
   - 대표이사 회장: 스콧 덕스베리()
-  - 감독: [나이절 피어슨](../Page/나이절_피어슨.md "wikilink")
+  - 감독:
 
 ## 선수 명단
 

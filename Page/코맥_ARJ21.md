@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [코맥 ARJ21](https://ko.wikipedia.org/wiki/코맥_ARJ21).
 
 
-[200px](https://ko.wikipedia.org/wiki/파일:COMAC_ARJ21_Gu.jpg "wikilink") **코멕 ARJ21**은 78\~95명의 정원을 탑승할 수 있는 [중국](../Page/중화인민공화국.md "wikilink") 최초의 제트 [여객기](../Page/여객기.md "wikilink")이다. 주요 고객은 대부분의 중국 항공사이며, [상하이 항공과](https://ko.wikipedia.org/wiki/상하이_항공 "wikilink") [심천 항공](https://ko.wikipedia.org/wiki/심천_항공 "wikilink"), [샤먼 항공](https://ko.wikipedia.org/wiki/샤먼_항공 "wikilink"), [곤붕 항공에](https://ko.wikipedia.org/wiki/곤붕_항공 "wikilink") 1차로 인도되었으며 2008년 11월 28일 첫 비행을 하였다.
+[200px](https://ko.wikipedia.org/wiki/파일:COMAC_ARJ21_Gu.jpg "wikilink") [섬네일의](https://ko.wikipedia.org/wiki/파일:Joy_air.jpg "wikilink") 코맥 ARJ21\]\] **코멕 ARJ21**은 78\~95명의 정원을 탑승할 수 있는 [중화인민공화국](../Page/중화인민공화국.md "wikilink") 최초의 제트 [여객기](../Page/여객기.md "wikilink")이다. 주요 고객은 대부분의 중국 항공사이며, [중국국제항공](../Page/중국국제항공.md "wikilink")과 [청두 항공](../Page/청두_항공.md "wikilink"), [OTT 항공](../Page/OTT_항공.md "wikilink"), [중국남방항공](../Page/중국남방항공.md "wikilink")등이 주문을 하였고, 2008년 11월 28일 첫 비행을 하였다.
 
 ## 역사
 
@@ -13,14 +13,15 @@ ARJ21은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더
 
 ## 주문 현황
 
-  - [상하이 항공](https://ko.wikipedia.org/wiki/상하이_항공 "wikilink"): 5대
-  - [심천 항공](https://ko.wikipedia.org/wiki/심천_항공 "wikilink"): 10대
-  - 심천 Financial Leasing: 20대
-  - 샤먼 항공: 6대
-  - 곤붕 항공: 100대
-  - 총: 141대
-
-[섬네일](https://ko.wikipedia.org/wiki/파일:Joy_air.jpg "wikilink")
+  - [중국국제항공](../Page/중국국제항공.md "wikilink"): 1대
+  - [청두 항공](../Page/청두_항공.md "wikilink"): 20대
+  - [OTT 항공](../Page/OTT_항공.md "wikilink"): 1대
+  - [중국남방항공](../Page/중국남방항공.md "wikilink"): 6대
+  - 중국 비행 종합 항공 회사: 1대
+  - [징기스칸 항공](../Page/징기스칸_항공.md "wikilink"): 4대
+  - [장시 항공](https://ko.wikipedia.org/wiki/장시_항공 "wikilink"): 3대
+  - [우루무치 항공](https://ko.wikipedia.org/wiki/우루무치_항공 "wikilink"): 1대
+  - 총: 32대
 
 ## 개발경쟁
 
@@ -64,7 +65,7 @@ ARJ21은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더
   - 운항 거리: 3,700 km
   - 사용 고도: 11,900 m
 
-#### 같이 보기
+## 같이 보기
 
   - [수호이 슈퍼제트 100](../Page/수호이_슈퍼제트_100.md "wikilink")
   - [미쓰비시 MRJ](https://ko.wikipedia.org/wiki/미쓰비시_MRJ "wikilink")

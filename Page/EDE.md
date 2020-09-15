@@ -21,6 +21,6 @@
   - [EDE 웹사이트](http://equinox-project.org)
   - [EDE (freshmeat)](http://freshmeat.net/projects/ede/)
 
-[분류:데스크톱 환경](https://ko.wikipedia.org/wiki/분류:데스크톱_환경 "wikilink")
+[분류:자유 데스크톱 환경](https://ko.wikipedia.org/wiki/분류:자유_데스크톱_환경 "wikilink")
 
 1.  [ede-devel: 현재 작업 업데이트 (2007-07-03)](http://sourceforge.net/mailarchive/forum.php?thread_name=20070703161444.GA25814%40stigmata.pmf.unsa.ba&forum_name=ede-devel) 2008년 1월 17일 확인

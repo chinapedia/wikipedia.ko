@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - **[벨기에 2부 리그](https://ko.wikipedia.org/wiki/벨기에_2부_리그 "wikilink"):**
+  - **[벨기에 2부 리그](../Page/벨기에_2부_리그.md "wikilink"):**
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - **[벨기에 컵](https://ko.wikipedia.org/wiki/벨기에_컵 "wikilink"):**
+  - **[벨기에 컵](../Page/벨기에_컵.md "wikilink"):**
 
 <!-- end list -->
 

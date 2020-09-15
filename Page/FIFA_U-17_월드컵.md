@@ -356,7 +356,7 @@
 </tr>
 <tr class="odd">
 <td><p>2021년<br />
-<em><a href="https://ko.wikipedia.org/wiki/2021년_FIFA_U-17_월드컵" title="wikilink">상세정보</a></em></p></td>
+<em><a href="../Page/2021년_FIFA_U-17_월드컵.md" title="wikilink">상세정보</a></em></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Peru_(state).svg" title="wikilink">100x20px</a><br />
 <a href="../Page/페루.md" title="wikilink">페루</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_None.svg" title="wikilink">100x20px</a><br />
@@ -797,7 +797,7 @@
 </tr>
 <tr class="even">
 <td><p>2015 칠레</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/빅터_오심헨" title="wikilink">빅터 오심헨</a></p></td>
+<td><p><a href="../Page/빅터_오심헨.md" title="wikilink">빅터 오심헨</a></p></td>
 <td><p>10</p></td>
 </tr>
 <tr class="odd">

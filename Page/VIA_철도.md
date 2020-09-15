@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [VIA 철도](https://ko.wikipedia.org/wiki/VIA_철도).
 
 
-**VIA 철도**()는 캐나다 전역에 여객운송업을 하는 국영기업이다.
+**VIA 철도**()는 캐나다에서 여객 운송업을 하는 국영 기업이다.
 
-[캐나다](../Page/캐나다.md "wikilink")의 [뉴펀들랜드와](https://ko.wikipedia.org/wiki/뉴펀들랜드_래브라도_주 "wikilink") [프린스에드워드섬을](https://ko.wikipedia.org/wiki/프린스에드워드아일랜드_주 "wikilink") 제외한 모든 주에서 영업하며, 영업 거리는 약 14,000km에 이른다. 연간 약 여객 4백만명을 운송하며.\[1\], 그중 대부분은 [윈저](https://ko.wikipedia.org/wiki/윈저_\(캐나다\) "wikilink")-[퀘벡 시간](https://ko.wikipedia.org/wiki/퀘벡_시 "wikilink") *코리더*라 불리는 구간에서 발생한다.
+[캐나다](../Page/캐나다.md "wikilink")의 [뉴펀들랜드와](https://ko.wikipedia.org/wiki/뉴펀들랜드_래브라도_주 "wikilink") [프린스에드워드섬을](https://ko.wikipedia.org/wiki/프린스에드워드아일랜드_주 "wikilink") 제외한 모든 주에서 영업하며, 영업 거리는 약 12,500km에 이른다. 연간 약 여객 5백만명을 운송하며,\[1\] 그중 대부분은 [윈저](https://ko.wikipedia.org/wiki/윈저_\(캐나다\) "wikilink")-[퀘벡 시간](https://ko.wikipedia.org/wiki/퀘벡_시 "wikilink") *코리더*라 불리는 구간에서 발생한다.
 
 창설 이후 여러차례 정부 세제보전 감소에 따라 서비스가 삭감되고 변경되는 우여곡절을 겪었다. 최근에는 높은 국제유가와 정부의 직접적인 투자로 인해 이용객이 매년 소폭 상승하는 중이다.
 

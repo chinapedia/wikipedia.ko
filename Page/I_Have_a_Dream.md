@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [I Have a Dream](https://ko.wikipedia.org/wiki/I_Have_a_Dream).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Martin_Luther_King_-_March_on_Washington.jpg "wikilink") **I Have a Dream**(나에게는 꿈이 있습니다)는 [마틴 루서 킹 주니어가](https://ko.wikipedia.org/wiki/마틴_루서_킹_주니어 "wikilink") [1963년](../Page/1963년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink"), [미국](../Page/미국.md "wikilink") [워싱턴 DC에서](https://ko.wikipedia.org/wiki/워싱턴_DC "wikilink") 행했던 연설에 붙은 별칭이다. 이 연설은 흑인과 백인의 평등과 공존에 대한 요구였다. 킹의 연설은 [링컨 기념관](../Page/링컨_기념관.md "wikilink") 앞에 설치된 연단에서 이루어졌다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Martin_Luther_King_-_March_on_Washington.jpg "wikilink") **I Have a Dream**(나에게는 꿈이 있습니다)는 [마틴 루서 킹 주니어가](https://ko.wikipedia.org/wiki/마틴_루서_킹_주니어 "wikilink") [1963년](../Page/1963년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink"), [미국](../Page/미국.md "wikilink") [워싱턴 DC에서](https://ko.wikipedia.org/wiki/워싱턴_DC "wikilink") 열린 [직업과 자유를 위한 워싱턴 행진에서](../Page/직업과_자유를_위한_워싱턴_행진.md "wikilink") 행했던 연설에 붙은 별칭이다. 이 연설은 흑인과 백인의 평등과 공존에 대한 요구였다. 킹의 연설은 [링컨 기념관](../Page/링컨_기념관.md "wikilink") 앞에 설치된 연단에서 이루어졌다.
 
 이 연설은 [에이브러햄 링컨의](../Page/에이브러햄_링컨.md "wikilink") "[게티스버그 연설](https://ko.wikipedia.org/wiki/게티스버그_연설 "wikilink")", [존 F. 케네디의](../Page/존_F._케네디.md "wikilink") "[나는 베를린 시민입니다](https://ko.wikipedia.org/wiki/나는_베를린_시민입니다 "wikilink")"와 함께 미국사에서 가장 중요한 위치를 차지하고 있는 연설로 손꼽힌다.
 
@@ -27,5 +27,6 @@
 ## 외부 링크
 
   - [음성 합성된 연설 내용과 원문](https://web.archive.org/web/20060925150609/http://www.afb.org/Section.asp?SectionID=38&DocumentID=2429): DAISY파일로 다운로드 가능
+  - [마틴 루터 킹 주니어 목사 ‘나에게는 꿈이 있습니다’ 연설](https://kr.usembassy.gov/ko/education-culture-ko/infopedia-usa-ko/famous-speeches-ko/martin-luther-king-jr-dream-ko/) - 원고 전문의 국역본. - [주한미국대사관](https://ko.wikipedia.org/wiki/주한미국대사관 "wikilink") 키즈 웹사이트 中 미국의 역사여행.
 
 [분류:1963년 미국](https://ko.wikipedia.org/wiki/분류:1963년_미국 "wikilink") [분류:마틴 루터 킹 주니어](https://ko.wikipedia.org/wiki/분류:마틴_루터_킹_주니어 "wikilink") [분류:아프리카계 미국인 민권운동의 역사](https://ko.wikipedia.org/wiki/분류:아프리카계_미국인_민권운동의_역사 "wikilink") [분류:연설](https://ko.wikipedia.org/wiki/분류:연설 "wikilink") [분류:영어 어구](https://ko.wikipedia.org/wiki/분류:영어_어구 "wikilink") [분류:1963년 8월](https://ko.wikipedia.org/wiki/분류:1963년_8월 "wikilink")

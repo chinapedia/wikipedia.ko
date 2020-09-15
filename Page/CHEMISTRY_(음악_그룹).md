@@ -9,8 +9,8 @@
 
 ## 구성원
 
-  - 도친 요시쿠니 (, [1978년](../Page/1978년.md "wikilink")출생, [히로시마현](../Page/히로시마현.md "wikilink") [아키 타카타 시](https://ko.wikipedia.org/wiki/아키_타카타_시 "wikilink") 출신)
-  - 가와바타 가나메 (, [1979년](../Page/1979년.md "wikilink")출생, [도쿄도](../Page/도쿄도.md "wikilink") [가츠시카 구](https://ko.wikipedia.org/wiki/가츠시카_구 "wikilink") 출신)
+  - 도친 요시쿠니 (, [1978년](../Page/1978년.md "wikilink") [11월 17일생](../Page/11월_17일.md "wikilink"), [히로시마현](../Page/히로시마현.md "wikilink") [아키 타카타 시](https://ko.wikipedia.org/wiki/아키_타카타_시 "wikilink") 출신)
+  - 가와바타 가나메 (, [1979년](../Page/1979년.md "wikilink") [1월 28일생](../Page/1월_28일.md "wikilink"), [도쿄도](../Page/도쿄도.md "wikilink") [가츠시카 구](https://ko.wikipedia.org/wiki/가츠시카_구 "wikilink") 출신)
 
 ## 대표곡
 
@@ -29,7 +29,7 @@
 
   - [공식 사이트](https://web.archive.org/web/20071017031326/http://www.chemistryclub.net/pc/top.jsp)
 
-[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:일본의 R\&B 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_R&B_음악_그룹 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:Mnet 아시안 뮤직 어워드 수상 음악가](https://ko.wikipedia.org/wiki/분류:Mnet_아시안_뮤직_어워드_수상_음악가 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:케미스트리](https://ko.wikipedia.org/wiki/분류:케미스트리 "wikilink")
+[분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:일본의 R\&B 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_R&B_음악_그룹 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:2001년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2001년_결성된_음악_그룹 "wikilink") [분류:2012년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2012년_해체된_음악_그룹 "wikilink") [분류:2017년 재결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2017년_재결성된_음악_그룹 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink") [분류:Mnet 아시안 뮤직 어워드 수상 음악가](https://ko.wikipedia.org/wiki/분류:Mnet_아시안_뮤직_어워드_수상_음악가 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink") [분류:케미스트리](https://ko.wikipedia.org/wiki/분류:케미스트리 "wikilink")
 
 1.
 2.

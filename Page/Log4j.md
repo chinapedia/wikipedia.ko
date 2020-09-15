@@ -22,7 +22,7 @@ log4j의 최근 버전에 의하면 높은 등급에서 낮은 등급으로의 6
   - [Log4js](https://web.archive.org/web/20130907201220/http://log4js.berlios.de/) - [자바스크립트](../Page/자바스크립트.md "wikilink")용 이식
   - [logging](https://web.archive.org/web/20080924223430/http://docs.python.org/lib/module-logging.html) - log4j의 영향을 받은 [파이썬](../Page/파이썬.md "wikilink")용 공식 로깅 모듈.
   - [Log4r](http://log4r.sourceforge.net) - log4j의 영향을 받은 [루비용](../Page/루비_\(프로그래밍_언어\).md "wikilink") 로깅 모듈
-  - [Log4net](http://logging.apache.org/log4net/) - 마이크로소프트 [닷넷 프레임워크로](../Page/닷넷_프레임워크.md "wikilink") 이식
+  - [Log4net](https://web.archive.org/web/20070301084859/http://logging.apache.org/log4net/) - 마이크로소프트 [닷넷 프레임워크로](../Page/닷넷_프레임워크.md "wikilink") 이식
   - [log4php](http://logging.apache.org/log4php/) [PHP](../Page/PHP.md "wikilink")용 이식
   - [log4d](http://log4d.sourceforge.net/) [델파이](../Page/델파이.md "wikilink")용 이식
 
@@ -30,7 +30,7 @@ log4j의 최근 버전에 의하면 높은 등급에서 낮은 등급으로의 6
 
   - [Log4j 공식 홈페이지](http://logging.apache.org/log4j)
   - [Complete log4j manual](https://web.archive.org/web/20070609100747/https://www.qos.ch/shop/products/log4j/log4j-Manual.jsp) (도서)
-  - [Log4j 위키](http://wiki.apache.org/logging-log4j/Log4JProjectPages)
+  - [Log4j 위키](https://web.archive.org/web/20070314235443/http://wiki.apache.org/logging-log4j/Log4JProjectPages)
   - [Pantheios - "The C++ Logging Sweetspot"](http://pantheios.org/) - C/C++ 로깅 API 라이브러리
 
 [Log4j](https://ko.wikipedia.org/wiki/분류:아파치_소프트웨어_재단_프로젝트 "wikilink") [분류:자바로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자바로_작성된_자유_소프트웨어 "wikilink") [분류:아파치 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:아파치_라이선스_소프트웨어 "wikilink")

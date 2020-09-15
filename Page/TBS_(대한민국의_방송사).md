@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [TBS \(대한민국의 방송사\)](https://ko.wikipedia.org/wiki/TBS_\(대한민국의_방송사\)).
 
 
-**TBS 교통방송**(交通放送, **T**raffic\[1\] **B**roadcasting **S**ystem, TBS)는 [서울특별시청](../Page/서울특별시청.md "wikilink") 산하 출연기관인 미디어 재단이다. 교통 정보는 물론 서울 시민을 대상으로 다양한 정보를 전달하는 지역 공영 방송국이다. [1990년](../Page/1990년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") 설립되었고 본사는 [서울특별시](../Page/서울특별시.md "wikilink") 마포구 상암동 에스플렉스 센터이다.
+**TBS 교통방송**(交通放送, , **TBS**)는 [서울특별시청](../Page/서울특별시청.md "wikilink") 산하 출연기관인 미디어 재단이다. 교통 정보는 물론 서울 시민을 대상으로 다양한 정보를 전달하는 지역 공영 방송국이다. [1990년](../Page/1990년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") 설립되었고 본사는 [서울특별시](../Page/서울특별시.md "wikilink") 마포구 상암동 에스플렉스 센터이다.
 
-처음에는 라디오 방송만 송출하다가 15년 후 텔레비전 방송이 개국되었고 텔레비전 방송 개국 3년 후 영어 전문 라디오 방송 채널이 개국되었다. 이 영어 전문 라디오 방송 채널은 대한민국 최초로 개국한 것으로, 시청자들의 높은 호응을 받았다.\[2\]
+처음에는 라디오 방송만 송출하다가 15년 후 텔레비전 방송이 개국되었고 텔레비전 방송 개국 3년 후 영어 전문 라디오 방송 채널이 개국되었다. 이 영어 전문 라디오 방송 채널은 대한민국 최초로 개국한 것으로, 시청자들의 높은 호응을 받았다.\[1\]
 
-[1990년](../Page/1990년.md "wikilink") [6월 11일에](../Page/6월_11일.md "wikilink") 서울특별시 주변 지역([인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink"), [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") 일부)을 방송 권역으로 하는 TBS FM(95.1㎒)이 개국되었고, [2005년](../Page/2005년.md "wikilink") [3월 3일에](../Page/3월_3일.md "wikilink") [유료 방송](../Page/대한민국의_케이블TV_방송.md "wikilink") 채널인 TBS TV가 개국되었으며, [2008년](../Page/2008년.md "wikilink") [12월 1일에는](../Page/12월_1일.md "wikilink") “Right here\! Right now\!”라는 슬로건을 내걸고 100% 영어로 진행되는 한국 최초의 종합편성 FM 영어 전문 라디오 채널인 [TBS eFM](../Page/TBS_eFM.md "wikilink")(101.3㎒)이 개국되었다.\[3\]
+[1990년](../Page/1990년.md "wikilink") [6월 11일에](../Page/6월_11일.md "wikilink") 서울특별시 주변 지역([인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink"), [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") 일부)을 방송 권역으로 하는 TBS FM(95.1㎒)이 개국되었고, [2005년](../Page/2005년.md "wikilink") [3월 3일에](../Page/3월_3일.md "wikilink") [유료 방송](../Page/대한민국의_케이블TV_방송.md "wikilink") 채널인 TBS TV가 개국되었으며, [2008년](../Page/2008년.md "wikilink") [12월 1일에는](../Page/12월_1일.md "wikilink") “Right here\! Right now\!”라는 슬로건을 내걸고 100% 영어로 진행되는 한국 최초의 종합편성 FM 영어 전문 라디오 채널인 [TBS eFM](../Page/TBS_eFM.md "wikilink")(101.3㎒)이 개국되었다.\[2\]
 
-교통 관련 방송 이외에도 2011년부터 프로축구 서울 연고 구단인 [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 스포츠 경기를 중계하는 등 [서울특별시](../Page/서울특별시.md "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역에 관련된 여러 가지 방송 프로그램을 내보낸다. [2020년](../Page/2020년.md "wikilink") [2월 17일부터](../Page/2월_17일.md "wikilink") 서울시 산하 사업소에서 서울특별시 출연 기관인 미디어재단으로 전환했다. 서울시 산하 사업소 시절에는 대표는 지방부이사관, 또는 개방형 임기제 공무원으로 보했으나\[4\], 미디어재단으로 전환한 이후에는 대표와 직원 모두 민간인 신분이 되었다.
+교통 관련 방송 이외에도 2011년부터 프로축구 서울 연고 구단인 [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 스포츠 경기를 중계하는 등 [서울특별시](../Page/서울특별시.md "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역에 관련된 여러 가지 방송 프로그램을 내보낸다. [2020년](../Page/2020년.md "wikilink") [2월 17일부터](../Page/2월_17일.md "wikilink") 서울시 산하 사업소에서 서울특별시 출연 기관인 미디어재단으로 전환했다. 서울시 산하 사업소 시절에는 대표는 지방부이사관, 또는 개방형 임기제 공무원으로 보했으나\[3\], 미디어재단으로 전환한 이후에는 대표와 직원 모두 민간인 신분이 되었다.
 
-TBS가 재단법인과 출범함과 동시에 영문명도 "Seoul Traffic Broadcasting"으로 변경되었다. TBS는 새로운 CI에 대해 "교통, 기상 정보 중심의 TBS 교통방송 (Traffic Broadcasting System)의 좁은 의미에서 벗어나 "시민들에게 더 가까이, 보다 진실되고 정의로운, 미래 혁신 미디어로 거듭나겠다"고 강조했다.\[5\]
+TBS가 재단법인과 출범함과 동시에 영문명도 "Seoul Traffic Broadcasting"으로 변경되었다. TBS는 새로운 CI에 대해 "교통, 기상 정보 중심의 TBS 교통방송 (Traffic Broadcasting System)의 좁은 의미에서 벗어나 "시민들에게 더 가까이, 보다 진실되고 정의로운, 미래 혁신 미디어로 거듭나겠다"고 강조했다.\[4\]
 
 ## 연혁
 
@@ -55,6 +55,7 @@ TBS가 재단법인과 출범함과 동시에 영문명도 "Seoul Traffic Broadc
   - [2018년](../Page/2018년.md "wikilink") 6월 11일: TBS 교통방송 개국 28주년
   - [2019년](../Page/2019년.md "wikilink") 6월 11일: TBS 교통방송 개국 29주년
   - [2020년](../Page/2020년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink"): '서울특별시 미디어재단 TBS'로 재단법인 출범
+  - 2020년 6월 11일: TBS 교통방송 개국 30주년
 
 ## 방송 현황
 
@@ -177,8 +178,8 @@ TBS가 재단법인과 출범함과 동시에 영문명도 "Seoul Traffic Broadc
   - 정보가 가득 희망이 가득 tbs 교통방송 (2000 \~ 2002)
   - 생활 속의 라디오 tbs 교통방송 (2002 \~ 2003)
   - 교-통-방-송 움직이는 라디오 살아있는 라디오 LIVE FM (내레이션: LIVE FM) (2003 \~ 2011)
-  - 음\~\~ (함께 할 수록) 기분좋은 방송 tbs\~ FM (2011 \~ 2015.09.20) \[6\]
-  - (함께 할 수록) 기분좋은 방송 tbs\~ FM\~ (2015.09.21 \~ 2020.02.23) \[7\]
+  - 음\~\~ (함께 할 수록) 기분좋은 방송 tbs\~ FM (2011 \~ 2015.09.20) \[5\]
+  - (함께 할 수록) 기분좋은 방송 tbs\~ FM\~ (2015.09.21 \~ 2020.02.23) \[6\]
   - 이 순간 내곁에 TBS\~ (2020.02.24 \~ 현재)
 
 ## 시보
@@ -263,10 +264,9 @@ FM 95.1㎒ 시민의 방송 TBS에서 OO를 알려드립니다
 
 [분류:교통방송](https://ko.wikipedia.org/wiki/분류:교통방송 "wikilink") [분류:대한민국의 라디오 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_라디오_방송국 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink") [분류:서울특별시청](https://ko.wikipedia.org/wiki/분류:서울특별시청 "wikilink") [분류:1990년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1990년_설립된_라디오_방송국 "wikilink") [분류:2005년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2005년_설립된_텔레비전_방송국과_채널 "wikilink")
 
-1.  미디어재단으로 전환된 이후로는 T가 Together, Truth, Tomorrow으로 세가지를 뜻한다.
-2.  황성운. [개국 100일 영어채널 'tbs eFM' 큰 호응](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=079&aid=0002037967). 노컷뉴스. 2009년 3월 5일.
-3.  김종민. [국내 첫 영어전문 라디오방송 오늘 개국](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0002406415). 뉴시스. 2008년 12월 1일.
+1.  황성운. [개국 100일 영어채널 'tbs eFM' 큰 호응](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=079&aid=0002037967). 노컷뉴스. 2009년 3월 5일.
+2.  김종민. [국내 첫 영어전문 라디오방송 오늘 개국](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=003&aid=0002406415). 뉴시스. 2008년 12월 1일.
+3.
 4.
-5.
+5.  (함께 할 수록) 부분은 시간대에 따라 생략하기도 한다.
 6.  (함께 할 수록) 부분은 시간대에 따라 생략하기도 한다.
-7.  (함께 할 수록) 부분은 시간대에 따라 생략하기도 한다.

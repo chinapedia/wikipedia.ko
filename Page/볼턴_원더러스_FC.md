@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [볼턴 원더러스 FC](https://ko.wikipedia.org/wiki/볼턴_원더러스_FC).
 
 
-**볼턴 원더러스 축구 클럽**()는 [영국](../Page/영국.md "wikilink") [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink") 북서부에있는 [볼턴](../Page/볼턴.md "wikilink") 행정구를 연고로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로축구단이다. 이 팀은 [1874년](../Page/1874년.md "wikilink")에 창단되었으며, 현재 볼턴에서도 북서부 외곽 [호리치](https://ko.wikipedia.org/wiki/호리치 "wikilink")란 작은 동네에 있는 [마크론 스타디움을](../Page/마크론_스타디움.md "wikilink") 홈 구장으로 쓰고 있다. 현재 감독은 필 파킨슨이고, 주장은 [제이 스피어링이다](../Page/제이_스피어링.md "wikilink"). 2001 시즌부터 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 소속되어 있다가 [2011-12 시즌에](../Page/프리미어리그_2011-12.md "wikilink") 18위를 기록해 [풋볼 리그 챔피언십으로](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 강등된 클럽이다.
+**볼턴 원더러스 축구 클럽**()는 [영국](../Page/영국.md "wikilink") [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink") 북서부에있는 [볼턴](../Page/볼턴.md "wikilink") 행정구를 연고로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 프로축구단이다. 이 팀은 [1874년](../Page/1874년.md "wikilink")에 창단되었으며, 현재 볼턴에서도 북서부 외곽 [호리치](https://ko.wikipedia.org/wiki/호리치 "wikilink")란 작은 동네에 있는 [유니버시티 오브 볼튼 스타디움을](../Page/유니버시티_오브_볼튼_스타디움.md "wikilink") 홈 구장으로 쓰고 있고 현재 감독은 [이언 에버트이다](https://ko.wikipedia.org/wiki/이언_에버트 "wikilink"). 2001 시즌부터 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 소속되어 있다가 [2011-12 시즌에](../Page/프리미어리그_2011-12.md "wikilink") 18위를 기록해 [풋볼 리그 챔피언십으로](https://ko.wikipedia.org/wiki/풋볼_리그_챔피언십 "wikilink") 강등된 클럽이다.
 
 [풋볼 리그의](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 창단 멤버였으며, 1920년대에는 [FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 세 번이나 우승을 했던 적도 있다. 1958년도에 네 번째 FA컵 우승을 차지한 이후로는 주로 2,3부리그를 전전하다가 1987년도에는 4부리그까지 떨어진적도 있었다. 1995년, 프리미어리그로 승격해 1980년 이후 15년 만에 1부리그로 승격하게 되었다. 그 후 승격과 강등을 거듭하다가 2001 시즌부터 2011-2012 시즌 강등될 때까지 프리미어리그에 계속 소속되어 있었다. 2005-06 시즌에는 클럽 역사상 처음으로 유럽 대회에 참가하게 되었으며, 당시 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")대회에서 32강까지 진출했었으며, 2007-08 UEFA컵 대회에서는 16강까지 진출한 적도 있었다. 볼턴 원더러스는 1997년부터 리복 스타디움을 홈으로 사용했으며, 이전에는 무려 102년 동안 사용한 **[번든 파크](https://ko.wikipedia.org/wiki/번든_파크 "wikilink")**였다.
 
-볼턴은 2011 - 12 시즌 현재 강등된 적을 제외하고 1부리그에서 총 73시즌째를 보내고 있는데 **가장 오랫동안 1부리그에서 우승하지 못하고 있는 클럽**으로 되어있다. 가장 높은 순위를 기록한적은 풋볼 리그 1부리그때 로써 1891-92, 1920-21, 1924-25 시즌 각각 3위를 기록한것이 전부이다.
+볼턴은 2011-12 시즌 현재 강등된 적을 제외하고 1부리그에서 총 73시즌째를 보내고 있는데 **가장 오랫동안 1부리그에서 우승하지 못하고 있는 클럽**으로 되어있다. 가장 높은 순위를 기록한적은 풋볼 리그 1부리그때 로써 1891-92, 1920-21, 1924-25 시즌 각각 3위를 기록한것이 전부이다.
 
 ## 역사
 
@@ -281,6 +281,6 @@
 
   - [볼턴 원더러스 공식 웹사이트](https://web.archive.org/web/20080828230815/http://www.bwfc.premiumtv.co.uk/)
 
-[볼턴_원더러스_FC](https://ko.wikipedia.org/wiki/분류:볼턴_원더러스_FC "wikilink") [분류:EFL 챔피언십 구단](https://ko.wikipedia.org/wiki/분류:EFL_챔피언십_구단 "wikilink") [분류:잉글랜드의 축구단](https://ko.wikipedia.org/wiki/분류:잉글랜드의_축구단 "wikilink") [분류:1877년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1877년_설립된_축구단 "wikilink")
+[볼턴_원더러스_FC](https://ko.wikipedia.org/wiki/분류:볼턴_원더러스_FC "wikilink") [분류:EFL 리그 투 구단](https://ko.wikipedia.org/wiki/분류:EFL_리그_투_구단 "wikilink") [분류:잉글랜드의 축구단](https://ko.wikipedia.org/wiki/분류:잉글랜드의_축구단 "wikilink") [분류:1877년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1877년_설립된_축구단 "wikilink")
 
 1.  33R 풀럼 전 전에 34R 아스날 전이 먼저 시작되었다.

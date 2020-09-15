@@ -3,7 +3,7 @@
 
 **웨스트햄 유나이티드 축구 클럽**(West Ham United Football Club)은 [동런던에](../Page/런던.md "wikilink") 위치한 [런던 스타디움을](../Page/올림픽_스타디움_\(런던\).md "wikilink") 근거로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 구단이다.
 
-## 소개
+## 개요
 
 1895년 **템스 아이언워크스 FC**(Thames Ironworks FC)로 창단되었으며, 1900년 7월 5일 현재의 명칭인 **웨스트햄 유나이티드 FC**로 개명되었다.
 

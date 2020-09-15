@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [애플 II 플러스](https://ko.wikipedia.org/wiki/애플_II_플러스).
 
 
-**애플 II 플러스**()는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 만든 개인용 컴퓨터인 [애플 II 시리즈의](../Page/애플_II.md "wikilink") 두 번째 모델이다.
+**애플 II 플러스**()는 [애플](../Page/애플.md "wikilink")이 만든 개인용 컴퓨터인 [애플 II 시리즈의](../Page/애플_II.md "wikilink") 두 번째 모델이다.
 
 대한민국에서 [매킨토시](../Page/매킨토시.md "wikilink") 이전 [8비트 컴퓨터](https://ko.wikipedia.org/wiki/8비트_컴퓨터 "wikilink") 시대의 애플이라고 하면 애플 II+를 일컫는다. 애플 II+는 본체와 키보드가 일체형이었으며, 테이프 레코더와 플로피 디스크 드라이브를 사용했다. 기본 메모리는 48킬로바이트였으나, 언어 카드(language card)를 슬롯 0에 장착하면 64KB로 확장할 수 있었고, 이후 복제되는 호환기종들은 이를 기본으로 내장하게 되었다.
 

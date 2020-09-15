@@ -12,7 +12,7 @@
   - 팬들 사이에서 이 앨범은 '빨간 앨범'으로 불린다.
   - 〈Take Me With〉의 앞부분에 등장하는 놀이동산 소리는 Queen의 〈Brighton Rock〉에서 따온 것이다.
   - 가사집엔 <그런 기억> 대신 미공개곡인 <자물쇠> 의 가사가 인쇄가 되어 있다.
-  - 〈Eden〉은 인쇄소의 오류로 〈Aden〉이라 표기되어 있다. 이후 발매된 정규 1집 《[Let It Rain](https://ko.wikipedia.org/wiki/Let_It_Rain "wikilink")》에서 이 곡을 새롭게 편곡하여 수록하면서 오타를 수정하였다.
+  - 〈Eden〉은 인쇄소의 오류로 〈Aden〉이라 표기되어 있다. 이후 발매된 정규 1집 《[Let It Rain](../Page/Let_It_Rain.md "wikilink")》에서 이 곡을 새롭게 편곡하여 수록하면서 오타를 수정하였다.
   - 〈4〉의 가제가 '자살기도'였다는 설이 있다.
 
 ## 참조

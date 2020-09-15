@@ -9,7 +9,7 @@ ESPN의 간판 방송은 "스포츠 센터"이다. 방송은 [코네티컷주](.
 
 ## 역사
 
-스캇 라스무센(Scott Rasmussen)과 그의 아버지 빌 라스무센(Bill Rasmussen)이 창립하였고, [1979년](../Page/1979년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") 초대 [최고경영자](../Page/최고경영자.md "wikilink")인 쳇 시몬스의 지휘 하에 개국하였다. [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") 사무소는 L.A. 라이브라는 종합 단지를 [2009년](../Page/2009년.md "wikilink")에 열었다. [1997년](../Page/1997년.md "wikilink")에 [월트 디즈니 컴퍼니가](../Page/월트_디즈니_컴퍼니.md "wikilink") ESPN을 인수하여 현재까지 소유하고 있다. ESPN은 ESPN 3D를 통해 [2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 25경기를 3D로 중계했다. 하지만 월트 디즈니 측은 최근 ESPN에서는 3D방송 수익이 감소가 되었고, 결국 ESPN 3D는 [2013년](../Page/2013년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") 폐국되었다.\[3\]\[4\]
+스캇 라스무센(Scott Rasmussen)과 그의 아버지 빌 라스무센(Bill Rasmussen)이 창립하였고, [1979년](../Page/1979년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") 초대 [최고경영자](../Page/최고경영자.md "wikilink")인 쳇 시몬스의 지휘 하에 개국하였다. [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink") 사무소는 L.A. 라이브라는 종합 단지를 [2009년](../Page/2009년.md "wikilink")에 열었다. [1997년](../Page/1997년.md "wikilink")에 [월트 디즈니 컴퍼니가](../Page/월트_디즈니_컴퍼니.md "wikilink") ESPN을 인수하여 현재까지 소유하고 있다. ESPN은 ESPN 3D를 통해 [2010년 FIFA 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 25경기를 3D로 중계했다. 하지만 월트 디즈니 측은 최근 ESPN에서는 3D방송 수익이 감소가 되었고, 결국 ESPN 3D는 [2013년](../Page/2013년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") 폐국되었다.\[3\]\[4\] 2020년 5월에 KBO ON ESPN가 미국전역 첫 방송이 되었다.
 
 ## 각주
 

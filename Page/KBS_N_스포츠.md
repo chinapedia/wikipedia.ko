@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [KBS N 스포츠](https://ko.wikipedia.org/wiki/KBS_N_스포츠).
 
 
-**KBS N 스포츠**()는 [스포츠](../Page/스포츠.md "wikilink") 프로그램을 주로 편성하는 [KBS N의](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 방송 채널이다.
+**KBS N 스포츠**()는 [스포츠](../Page/스포츠.md "wikilink") 프로그램을 주로 편성하는 [KBS N의](../Page/KBS_N.md "wikilink") 방송 채널이다.
 
 ## 채널 번호
 
-  - 스카이라이프(올레TV 스카이라이프) 채널 - 203번
-  - SK BTV 채널 -121번
+  - 올레TV 스카이라이프 채널 - 203번
+  - SK BTV 채널 -129번
   - 올레TV 채널 - 59번
   - LG U+ TV 채널 - 105번
 
@@ -19,12 +19,12 @@
 
 ## 역사
 
-  - [2002년](../Page/2002년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") (구) **KBS 스포츠** 개국
+  - [2002년](../Page/2002년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") (구) **KBS 스포츠** 개국
   - [2003년](../Page/2003년.md "wikilink") [1월](../Page/1월.md "wikilink") **SKY KBS 스포츠**로 변경 개국
   - [2003년](../Page/2003년.md "wikilink") [7월](../Page/7월.md "wikilink") **KBS SKY 스포츠**로 변경 개국
-  - [2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") **KBS N 스포츠**로 변경 개국
+  - [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") **KBS N 스포츠**로 변경 개국
 
-## 현재 소속 아나운서/해설위원/캐스터
+## 현재 소속 아나운서/해설 위원/캐스터
 
   - [2001년](../Page/2001년.md "wikilink")\~ : [권성욱](../Page/권성욱.md "wikilink")
   - [2002년](../Page/2002년.md "wikilink")\~ : [강준형](https://ko.wikipedia.org/wiki/강준형 "wikilink")
@@ -34,6 +34,21 @@
   - [2014년](../Page/2014년.md "wikilink")\~ : [오효주](https://ko.wikipedia.org/wiki/오효주 "wikilink")
   - [2016년](../Page/2016년.md "wikilink")\~ : [이향](../Page/이향_\(1990년\).md "wikilink"), [조은지](https://ko.wikipedia.org/wiki/조은지_\(아나운서\) "wikilink")
   - [2019년](../Page/2019년.md "wikilink")\~ : 김가현
+
+### 해설 위원
+
+  - [축구](../Page/축구.md "wikilink") : [한준희](../Page/한준희.md "wikilink"), 박찬하, [최경식](../Page/최경식.md "wikilink"), 김대길, 변성화
+  - [야구](../Page/야구.md "wikilink")([KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink")) : [이용철](../Page/이용철_\(야구인\).md "wikilink"), [안치용](../Page/안치용_\(야구인\).md "wikilink"), [장성호](../Page/장성호_\(야구인\).md "wikilink"), [봉중근](../Page/봉중근.md "wikilink"), [장정석](../Page/장정석.md "wikilink")
+  - [배구](../Page/배구.md "wikilink") : 이세호, [이숙자](../Page/이숙자.md "wikilink"), 박희상, [한유미](../Page/한유미.md "wikilink"), [김상우](https://ko.wikipedia.org/wiki/김상우 "wikilink")
+  - [농구](../Page/농구.md "wikilink") : 김택훈, [정은순](../Page/정은순.md "wikilink"), [김은혜](https://ko.wikipedia.org/wiki/김은혜_\(농구인\) "wikilink"), 손대범
+  - [테니스](../Page/테니스.md "wikilink") : 김성배, 박용국, 임규태
+  - [복싱](https://ko.wikipedia.org/wiki/복싱 "wikilink") : [변정일](https://ko.wikipedia.org/wiki/변정일 "wikilink")
+  - [킥복싱](../Page/킥복싱.md "wikilink") : [임치빈](https://ko.wikipedia.org/wiki/임치빈 "wikilink"), [이정수](https://ko.wikipedia.org/wiki/이정수 "wikilink"), [김남훈](../Page/김남훈.md "wikilink")
+  - [씨름](../Page/씨름.md "wikilink") : 신명수, [이태현](https://ko.wikipedia.org/wiki/이태현_\(씨름인\) "wikilink")
+  - [유도](../Page/유도.md "wikilink") : 김병주
+  - [마라톤](../Page/마라톤.md "wikilink") : 이의수
+  - [육상](https://ko.wikipedia.org/wiki/육상 "wikilink") : [김건우](../Page/김건우_\(육상_선수\).md "wikilink")
+  - [피겨](../Page/피겨스케이팅.md "wikilink") : [곽민정](../Page/곽민정.md "wikilink")
 
 ## 이전 소속 아나운서
 
@@ -47,28 +62,14 @@
   - \~[2017년](../Page/2017년.md "wikilink") : [이지수](https://ko.wikipedia.org/wiki/이지수 "wikilink"), 김보경
   - \~[2018년](../Page/2018년.md "wikilink") : 조진혁, 염상엽, [최희](../Page/최희.md "wikilink")
 
-## 해설 위원
-
-  - 축구 : [한준희](../Page/한준희.md "wikilink"), 박찬하, [최경식](../Page/최경식.md "wikilink"), 김대길, 변성화
-  - 야구 : [이용철](../Page/이용철_\(야구인\).md "wikilink"), [안치용](https://ko.wikipedia.org/wiki/안치용_\(야구_선수\) "wikilink"), [장성호](../Page/장성호_\(야구인\).md "wikilink"), [봉중근](../Page/봉중근.md "wikilink"), [장정석](../Page/장정석.md "wikilink")
-  - 배구 : 이세호, [이숙자](../Page/이숙자.md "wikilink"), 박희상, [한유미](../Page/한유미.md "wikilink"), [김상우](https://ko.wikipedia.org/wiki/김상우 "wikilink")
-  - 농구 : 김택훈, [정은순](../Page/정은순.md "wikilink"), [조성원](https://ko.wikipedia.org/wiki/조성원 "wikilink"), [김은혜](https://ko.wikipedia.org/wiki/김은혜_\(농구인\) "wikilink"), 손대범
-  - 테니스 : 김성배, 박용국, 임규태
-  - 복싱 : [변정일](https://ko.wikipedia.org/wiki/변정일 "wikilink")
-  - 킥복싱 : [임치빈](https://ko.wikipedia.org/wiki/임치빈 "wikilink"), [이정수](https://ko.wikipedia.org/wiki/이정수 "wikilink"), [김남훈](../Page/김남훈.md "wikilink")
-  - 씨름 : 신명수, [이태현](https://ko.wikipedia.org/wiki/이태현_\(씨름인\) "wikilink")
-  - 유도 : 김병주
-  - 마라톤 : 이의수
-  - 육상 : [김건우](../Page/김건우_\(육상_선수\).md "wikilink")
-  - 피겨 : [곽민정](../Page/곽민정.md "wikilink")
-
 ## 같이 보기
 
+  - [아이 러브 베이스볼](../Page/아이_러브_베이스볼.md "wikilink")
   - [SBS 스포츠](../Page/SBS_스포츠.md "wikilink")
   - [MBC 스포츠플러스](../Page/MBC_스포츠플러스.md "wikilink")
-  - [JTBC GOLF\&Sports](https://ko.wikipedia.org/wiki/JTBC3_Fox_Sports "wikilink")
-  - [SPO TV](https://ko.wikipedia.org/wiki/SPO_TV "wikilink")
-  - [SPO TV2](https://ko.wikipedia.org/wiki/SPO_TV2 "wikilink")
+  - [JTBC 골프&스포츠](../Page/JTBC_골프&스포츠.md "wikilink")
+  - [SPOTV](../Page/SPOTV.md "wikilink")
+  - [SPOTV2](https://ko.wikipedia.org/wiki/SPOTV2 "wikilink")
   - [IB 스포츠](../Page/IB_스포츠_\(텔레비전_채널\).md "wikilink")
   - [SKY SPORTS](../Page/스카이_스포츠_\(대한민국\).md "wikilink")
 

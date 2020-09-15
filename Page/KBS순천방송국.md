@@ -179,13 +179,13 @@
 </tbody>
 </table>
 
-  - [시사초점, 전남 동부입니다](https://web.archive.org/web/20170713094125/http://suncheon.kbs.co.kr/radio/sisajeonam/about/index.html)(월\~금,28분)(진행 윤영혁)
+  - [시사초점, 전남 동부입니다](https://web.archive.org/web/20170713094125/http://suncheon.kbs.co.kr/radio/sisajeonam/about/index.html)(월\~금,28분)(진행 윤형혁)
   - [라디오 상담실](https://web.archive.org/web/20170713131651/http://suncheon.kbs.co.kr/radio/radio/about/index.html)(월\~금,35분)(진행 김다은)
   - [행복충전, 라디오세상](https://web.archive.org/web/20170713120822/http://suncheon.kbs.co.kr/radio/happyradio/about/index.html)(월\~금,53분)(진행 김다은)
 
 ## 아나운서
 
-  - [김다은](https://ko.wikipedia.org/wiki/김다은 "wikilink") : [2019년](../Page/2019년.md "wikilink")(프리랜서)
+  - [김다은](https://ko.wikipedia.org/wiki/김다은 "wikilink") : [2019.7\~](https://ko.wikipedia.org/wiki/2019.7~ "wikilink")
 
 ## 전직 아나운서
 

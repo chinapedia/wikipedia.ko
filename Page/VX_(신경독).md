@@ -5,7 +5,7 @@
 
 ## 화학 무기
 
-미국 [랜드연구소](https://ko.wikipedia.org/wiki/랜드연구소 "wikilink") [브루스 베넷](https://ko.wikipedia.org/wiki/브루스_베넷 "wikilink") 박사는 [사린가스](https://ko.wikipedia.org/wiki/사린가스 "wikilink") 1톤을 7.8km<sup>2</sup> 면적의 땅에 뿌릴 경우 23만 명의 사망자가 발생할 수 있다고 추정한다. 호흡시 [LCt50은](../Page/반수_치사량.md "wikilink") 사린가스 35 mg·min/m<sup>3</sup>, VX가스 15 mg·min/m<sup>3</sup>라는 출처에 따르면, VX가스 1톤을 7.8km<sup>2</sup> 면적의 땅에 뿌릴 경우 53만 명의 사망자가 발생할 수 있다는 의미이다.\[1\]
+미국 [랜드연구소](https://ko.wikipedia.org/wiki/랜드연구소 "wikilink") [브루스 베넷](../Page/브루스_베넷.md "wikilink") 박사는 [사린가스](https://ko.wikipedia.org/wiki/사린가스 "wikilink") 1톤을 7.8km<sup>2</sup> 면적의 땅에 뿌릴 경우 23만 명의 사망자가 발생할 수 있다고 추정한다. 호흡시 [LCt50은](../Page/반수_치사량.md "wikilink") 사린가스 35 mg·min/m<sup>3</sup>, VX가스 15 mg·min/m<sup>3</sup>라는 출처에 따르면, VX가스 1톤을 7.8km<sup>2</sup> 면적의 땅에 뿌릴 경우 53만 명의 사망자가 발생할 수 있다는 의미이다.\[1\]
 
 피부 접촉시 독성은, VX는 사린가스보다 백 배 이상 독성이 강하다.\[2\] 피부접촉시 사린가스의 [반수 치사량 (LD50)은](../Page/반수_치사량.md "wikilink") 1700mg, 호흡시 사린가스의 [반수 치사농도 및 시간(LCt50)은](../Page/반수_치사량.md "wikilink") 35 mg·min/m<sup>3</sup>이다. 다른 출처에서는 15 mg·min/m<sup>3</sup>라고도 한다.
 

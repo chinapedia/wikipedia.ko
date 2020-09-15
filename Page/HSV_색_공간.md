@@ -43,5 +43,3 @@ HSV 색 공간 모형은 [원기둥](https://ko.wikipedia.org/wiki/원기둥 "wi
 [섬네일](https://ko.wikipedia.org/wiki/파일:HSV_cone.jpg "wikilink") 원뿔모형은 원기둥 모형을 보다 현실적으로 수정한 것이다. 명도 0%는 오직 [검정](https://ko.wikipedia.org/wiki/검정 "wikilink")을 의미하기 때문에 단 하나의 점으로 표현되며 원뿔의 꼭짓점에 해당한다. 또한 실제 색상은 진하지 않을수록 채도값의 변화에 따른 색상 변화가 크지 않기 때문에 높은 명도에 비해 채도값이 나타내는 폭은 줄어든다. 이와 같은 사실을 원기둥 모형에 반영한 것이 원뿔모형이다. 오른쪽 그림을 보면 높은 명도에서는 넓은 폭의 채도 변화를 보이고 낮은 명도에서는 채도 변화가 크지 않은 것을 확인할 수 있다.
 
 [분류:색 공간](https://ko.wikipedia.org/wiki/분류:색_공간 "wikilink")
-
-[simple:Color wheel\#The 12 major colors of the color wheel](https://ko.wikipedia.org/wiki/simple:Color_wheel#The_12_major_colors_of_the_color_wheel "wikilink")

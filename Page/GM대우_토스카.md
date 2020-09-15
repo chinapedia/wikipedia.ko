@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GM대우 토스카](https://ko.wikipedia.org/wiki/GM대우_토스카).
 
 
-**GM대우 토스카**(GM Daewoo Tosca)는 [대한민국](../Page/대한민국.md "wikilink")의 종합 자동차 회사인 [GM 대우(한국 GM의 전신)가](https://ko.wikipedia.org/wiki/한국GM "wikilink") 만든 [전륜구동](../Page/전륜구동.md "wikilink") 방식의 중형차이다.
+**GM대우 토스카**(GM Daewoo Tosca)는 [대한민국](../Page/대한민국.md "wikilink")의 종합 자동차 회사인 [대우자동차(한국 GM의 전신)가](https://ko.wikipedia.org/wiki/한국GM "wikilink") 만든 [전륜구동](../Page/전륜구동.md "wikilink") 방식의 중형차이다.
 
 {{-}}
 

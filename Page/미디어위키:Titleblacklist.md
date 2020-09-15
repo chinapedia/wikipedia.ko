@@ -23,7 +23,7 @@
 `사용자:([1-9]?\d|1\d\d|2([0-4]\d|5[0-5]))\.([1-9]?\d|1\d\d|2([0-4]\d|5[0-5]))\.([1-9]?\d|1\d\d|2([0-4]\d|5[0-5]))\.([1-9]?\d|1\d\d|2([0-4]\d|5[0-5]))(\/.*)? <errmsg=titleblacklist-forbidden-anonymoususerpage>`
 
 `# IPv6 사용자 문서 생성 제한`
-`사용자:[0-9A-Fa-f]{0,10}:([0-9A-Fa-f]{0,10}:)*([0-9A-Fa-f]{0,10})?(?:\/(12[0-8]|1[01][0-9]|[1-9]?\d))? <errmsg=errmsg=titleblacklist-forbidden-anonymoususerpage>`
+`사용자:[0-9A-Fa-f]{0,10}:([0-9A-Fa-f]{0,10}:)*([0-9A-Fa-f]{0,10})?(?:\/(12[0-8]|1[01][0-9]|[1-9]?\d))? <errmsg=titleblacklist-forbidden-anonymoususerpage>`
 
 `# 관리자 사칭 가능성이 있는 계정 가입 제한`
 `.*(\ba|A)(?i:dmin).* `<newaccountonly>

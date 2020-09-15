@@ -30,7 +30,7 @@
 
   - [350D 백서](https://web.archive.org/web/20070302125840/http://www.robgalbraith.com/public_files/Rebel_XT_White_Paper.pdf) [350D 백서](http://www.usa.canon.com/uploadedimages/FCK/Image/White%20Papers/Rebel_XT_WP.pdf)
 
-  - [dpreview.com의 리뷰](http://www.dpreview.com/reviews/canoneos350d/)
+  - [dpreview.com의 리뷰](https://web.archive.org/web/20070217213849/http://www.dpreview.com/reviews/canoneos350d/)
 
   - [The Luminous Landscape A Field Report](https://web.archive.org/web/20070225014656/http://www.luminous-landscape.com/reviews/cameras/xt-350d.shtml)
 

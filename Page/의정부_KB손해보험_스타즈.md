@@ -58,26 +58,27 @@
 
 ### 현재 선수단
 
-| |번호 | |포지션 | |이름                                                             | |데뷔년도 | |이적년도                                                               |
-| --- | ---- | --------------------------------------------------------------- | ----- | ------------------------------------------------------------------- |
-| 1   | 레프트  | [정동근](https://ko.wikipedia.org/wiki/정동근 "wikilink")             | 2015  | 2018([한국전력](../Page/수원_한국전력_빅스톰.md "wikilink"))                     |
-| 2   | 세터   | [황택의](../Page/황택의.md "wikilink")                                | 2016  |                                                                     |
-| 3   | 세터   | [최익제](https://ko.wikipedia.org/wiki/최익제 "wikilink")             | 2017  |                                                                     |
-| 5   | 라이트  | [한국민](https://ko.wikipedia.org/wiki/한국민 "wikilink")             | 2018  |                                                                     |
-| 6   | 레프트  | [김정호](../Page/김정호_\(배구_선수\).md "wikilink")                      | 2017  | 2018([삼성화재](https://ko.wikipedia.org/wiki/대전_삼성화재_블루팡스 "wikilink")) |
-| 7   | 라이트  | [마테우스 크라우척](https://ko.wikipedia.org/wiki/마테우스_크라우척 "wikilink") | 2019  |                                                                     |
-| 8   | 레프트  | [김학민](../Page/김학민.md "wikilink")                                | 2006  | 2019([대한항공](../Page/인천_대한항공_점보스.md "wikilink"))                     |
-| 9   | 라이트  | [정수용](https://ko.wikipedia.org/wiki/정수용 "wikilink")             | 2017  |                                                                     |
-| 10  | 리베로  | [곽동혁](https://ko.wikipedia.org/wiki/곽동혁 "wikilink")             | 2005  | 2016([삼성화재](https://ko.wikipedia.org/wiki/대전_삼성화재_블루팡스 "wikilink")) |
-| 11  | 센터   | [김홍정](https://ko.wikipedia.org/wiki/김홍정 "wikilink")             | 2009  | 2017([OK저축은행](../Page/안산_OK저축은행_러시앤캐시.md "wikilink"))               |
-| 12  | 레프트  | [김정환](https://ko.wikipedia.org/wiki/김정환 "wikilink")             | 2010  | 2019([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
-| 13  | 센터   | [박진우](https://ko.wikipedia.org/wiki/박진우 "wikilink")             | 2012  | 2019([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
-| 14  | 리베로  | [이수범](https://ko.wikipedia.org/wiki/이수범 "wikilink")             | 2018  | 2019([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
-| 16  | 레프트  | [홍상혁](https://ko.wikipedia.org/wiki/홍상혁 "wikilink")             | 2019  |                                                                     |
-| 18  | 센터   | [구도현](https://ko.wikipedia.org/wiki/구도현 "wikilink")             | 2014  | 2019([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
-| 19  | 레프트  | [김동민](https://ko.wikipedia.org/wiki/김동민_\(배구_선수\) "wikilink")   | 2019  |                                                                     |
-| 21  | 센터   | [김승태](https://ko.wikipedia.org/wiki/김승태_\(배구_선수\) "wikilink")   | 2019  |                                                                     |
-|     |      |                                                                 |       |                                                                     |
+| |번호 | |포지션 | |이름                                                           | |데뷔년도 | |이적년도                                                               |
+| --- | ---- | ------------------------------------------------------------- | ----- | ------------------------------------------------------------------- |
+| 1   | 레프트  | [정동근](https://ko.wikipedia.org/wiki/정동근 "wikilink")           | 2015  | 2018([한국전력](../Page/수원_한국전력_빅스톰.md "wikilink"))                     |
+| 2   | 세터   | [황택의](../Page/황택의.md "wikilink")                              | 2016  |                                                                     |
+| 3   | 세터   | [최익제](https://ko.wikipedia.org/wiki/최익제 "wikilink")           | 2017  |                                                                     |
+| 4   | 레프트  | [홍상혁](https://ko.wikipedia.org/wiki/홍상혁 "wikilink")           | 2019  |                                                                     |
+| 5   | 세터   | [김지승](https://ko.wikipedia.org/wiki/김지승 "wikilink")           | 2019  |                                                                     |
+| 6   | 리베로  | [김진수](https://ko.wikipedia.org/wiki/김진수 "wikilink")           | 2012  | 2020([한국전력](../Page/수원_한국전력_빅스톰.md "wikilink"))                     |
+| 7   | 센터   | [박진우](https://ko.wikipedia.org/wiki/박진우 "wikilink")           | 2012  | 2019([OK저축운](../Page/안산_OK저축은행_러시앤캐시.md "wikilink"))                |
+| 8   | 레프트  | [김학민](../Page/김학민.md "wikilink")                              | 2006  | 2019([대한항공](../Page/인천_대한항공_점보스.md "wikilink"))                     |
+| 9   | 라이트  | [노우모리 케이타](https://ko.wikipedia.org/wiki/노우모리_케이타 "wikilink") | 2020  |                                                                     |
+| 10  | 리베로  | [곽동혁](https://ko.wikipedia.org/wiki/곽동혁 "wikilink")           | 2005  | 2016([삼성화재](https://ko.wikipedia.org/wiki/대전_삼성화재_블루팡스 "wikilink")) |
+| 11  | 센터   | [김홍정](https://ko.wikipedia.org/wiki/김홍정 "wikilink")           | 2009  | 2017([OK저축은행](../Page/안산_OK저축은행_러시앤캐시.md "wikilink"))               |
+| 12  | 라이트  | [정수용](https://ko.wikipedia.org/wiki/정수용 "wikilink")           | 2017  |                                                                     |
+| 14  | 리베로  | [이수범](https://ko.wikipedia.org/wiki/이수범 "wikilink")           | 2018  | 2019([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
+| 15  | 레프트  | [김정호](../Page/김정호.md "wikilink")                              | 2017  |                                                                     |
+| 16  | 레프트  | [홍상혁](https://ko.wikipedia.org/wiki/홍상혁 "wikilink")           | 2019  |                                                                     |
+| 18  | 센터   | [구도현](https://ko.wikipedia.org/wiki/구도현 "wikilink")           | 2014  | 2019([우리카드](../Page/서울_우리카드_위비.md "wikilink"))                      |
+| 19  | 레프트  | [김동민](https://ko.wikipedia.org/wiki/김동민_\(배구_선수\) "wikilink") | 2019  |                                                                     |
+| 21  | 센터   | [김승태](https://ko.wikipedia.org/wiki/김승태_\(배구_선수\) "wikilink") | 2019  |                                                                     |
+|     |      |                                                               |       |                                                                     |
 
 #### 군 입대
 
@@ -87,6 +88,7 @@
 | 세터   | 양준식 | 2012  |       | 2020(상무) |
 | 레프트  | 황두연 | 2015  |       | 2019(상무) |
 | 리베로  | 정민수 | 2013  |       | 2020()   |
+| 라이트  | 한국민 | 2018  |       | 2020(상무) |
 |      |     |       |       |          |
 
 ### 역대 주요 선수

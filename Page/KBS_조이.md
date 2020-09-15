@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [KBS 조이](https://ko.wikipedia.org/wiki/KBS_조이).
 
 
-**KBS 조이**()는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용사업자](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [KBS N에서](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 운영하는 [텔레비전](../Page/텔레비전.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [쇼 · 오락 · 퀴즈 · 버라이어티](../Page/버라이어티_쇼.md "wikilink") [프로그램을](../Page/텔레비전_프로그램.md "wikilink") 주로 편성하는 채널으로 [2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 개국하였다.
+**KBS 조이**()는 [대한민국](../Page/대한민국.md "wikilink")의 [방송채널 사용 사업자](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [KBS N에서](../Page/KBS_N.md "wikilink") 운영하는 [텔레비전](../Page/텔레비전.md "wikilink") [채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"), [쇼 · 오락 · 퀴즈 · 버라이어티](../Page/버라이어티_쇼.md "wikilink") [프로그램을](../Page/텔레비전_프로그램.md "wikilink") 주로 편성하는 채널으로 [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") 개국하였다.
 
 ## 채널 번호
 
-  - 스카이라이프(올레TV 스카이라이프) 채널 - 1번
+  - 올레TV 스카이라이프 채널 - 1번
   - SK BTV 채널 - 80번
   - 올레TV 채널 - 41번
   - LG U+ TV 채널 - 1번
@@ -18,7 +18,7 @@
 
 ## 역사
 
-  - [2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") **KBS 조이**로 채널 변경 개국
+  - [2006년](../Page/2006년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") **KBS 조이**로 채널 변경 개국
 
 ## 프로그램
 
@@ -26,9 +26,9 @@
 
   - [사장님 귀는 당나귀 귀](../Page/사장님_귀는_당나귀_귀.md "wikilink")
   - [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink")
-  - [해피투게더 4](../Page/해피투게더_\(텔레비전_프로그램\).md "wikilink")
   - [대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")
-  - [신상출시 편스토랑](https://ko.wikipedia.org/wiki/신상출시_편스토랑 "wikilink")
+  - [신상출시 편스토랑](../Page/신상출시_편스토랑.md "wikilink")
+  - [개는 훌륭하다](../Page/개는_훌륭하다.md "wikilink")
 
 ### 자체 제작
 
@@ -78,6 +78,6 @@
 
 ## 외부 링크
 
-  - [홈페이지](http://www.kbsn.co.kr/)
+  - [홈페이지](https://web.archive.org/web/20190108033211/http://www.kbsn.co.kr/)
 
 [분류:한국방송공사의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_네트워크 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:오락 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:오락_텔레비전_네트워크 "wikilink")

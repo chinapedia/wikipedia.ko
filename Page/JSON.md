@@ -11,11 +11,11 @@ JSON 포맷은 본래 [더글라스 크록포드가](https://ko.wikipedia.org/wi
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Douglas_Crockford.jpg "wikilink") JSON은 2000년대 초에 널리 사용된 방식인 [플래시](https://ko.wikipedia.org/wiki/플래시 "wikilink")나 [자바](../Page/자바_\(프로그래밍_언어\).md "wikilink") 애플릿 등의 브라우저 플러그인을 사용하지 않는 [무상태](https://ko.wikipedia.org/wiki/상태_\(컴퓨터_과학\) "wikilink"), 실시간 서버 대 브라우저 통신 프로토콜의 요구에 의거하여 성장하였다.\[4\]
 
-[더글라스 크록포드가](https://ko.wikipedia.org/wiki/더글라스_크록포드 "wikilink") 처음으로 JSON 포맷을 정의하고 보급하였다.\[5\] 이 두문자어는 2001년 3월 크록포드 등이 공동 설립한 기업인 스테이트 소프트웨어(State Software)에서 기원하였다. 이 공동 설립자들은 표준 브라우저 기능으르 사용하였던 시스템을 빌드하기로 합의하였고 2개의 [하이퍼텍스트 전송 프로토콜](https://ko.wikipedia.org/wiki/하이퍼텍스트_전송_프로토콜 "wikilink")(HTTP) 연결을 개방시키고 추가 데이터 교환이 없으면 표준 브라우저 타임아웃 전에 이것들을 재활용함으로써 웹 서버에 영속적인 반이중 통신을 지원하는, 상태를 인지하는(stateful) 웹 애프리케이션 개발을 위해 웹 개발자들을 위한 [추상화 계층을](../Page/추상화_계층.md "wikilink") 제공하였다. 이 공동 설립자들은 원탁 회의에 참여하였고 데이터 포맷을 JSML으로 부를지, JSON으로 부를지 투표를 했으며, 어떠한 [라이선스](https://ko.wikipedia.org/wiki/소프트웨어_라이선스 "wikilink") 형태로 배포할 것인지도 논의하였다. 크록포드는 기업 법률가와 지나치게 규칙을 찾는 사람들을 조롱하고자 JSON 라이선스에다 "소프트웨어는 선을 위해 쓰여야 하며, 악을 위해 쓰여서는 안 된다"는 조항을 하나 추가하였다. [칩 모닝스타는](https://ko.wikipedia.org/wiki/칩_모닝스타 "wikilink") 스테이트 소프트웨어에서 스테이트 애플리케이션 프레임워크의 아이디어를 냈다.\[6\]\[7\] 한편, 이 조항으로 인해 JSON의 [라이선스 호환성](../Page/라이선스_호환성.md "wikilink") 문제가 다른 [오픈 소스 라이선스와](https://ko.wikipedia.org/wiki/오픈_소스_라이선스 "wikilink") 불거지게 되었다.\[8\]
+[더글라스 크록포드가](https://ko.wikipedia.org/wiki/더글라스_크록포드 "wikilink") 처음으로 JSON 포맷을 정의하고 보급하였다.\[5\] 이 두문자어는 2001년 3월 크록포드 등이 공동 설립한 기업인 스테이트 소프트웨어(State Software)에서 기원하였다. 이 공동 설립자들은 표준 브라우저 기능을 사용하였던 시스템을 빌드하기로 합의하였고 2개의 [하이퍼텍스트 전송 프로토콜](https://ko.wikipedia.org/wiki/하이퍼텍스트_전송_프로토콜 "wikilink")(HTTP) 연결을 개방시키고 추가 데이터 교환이 없으면 표준 브라우저 타임아웃 전에 이것들을 재활용함으로써 웹 서버에 영속적인 반이중 통신을 지원하는, 상태를 인지하는(stateful) 웹 애프리케이션 개발을 위해 웹 개발자들을 위한 [추상화 계층을](../Page/추상화_계층.md "wikilink") 제공하였다. 이 공동 설립자들은 원탁 회의에 참여하였고 데이터 포맷을 JSML으로 부를지, JSON으로 부를지 투표를 했으며, 어떠한 [라이선스](https://ko.wikipedia.org/wiki/소프트웨어_라이선스 "wikilink") 형태로 배포할 것인지도 논의하였다. 크록포드는 기업 법률가와 지나치게 규칙을 찾는 사람들을 조롱하고자 JSON 라이선스에다 "소프트웨어는 선을 위해 쓰여야 하며, 악을 위해 쓰여서는 안 된다"는 조항을 하나 추가하였다. [칩 모닝스타는](https://ko.wikipedia.org/wiki/칩_모닝스타 "wikilink") 스테이트 소프트웨어에서 스테이트 애플리케이션 프레임워크의 아이디어를 냈다.\[6\]\[7\] 한편, 이 조항으로 인해 JSON의 [라이선스 호환성](../Page/라이선스_호환성.md "wikilink") 문제가 다른 [오픈 소스 라이선스와](https://ko.wikipedia.org/wiki/오픈_소스_라이선스 "wikilink") 불거지게 되었다.\[8\]
 
 JSON 라이브러리의 전신은 카툰 네트워크의 Communities.com라는 이름의 아동용 디지털 자산 트레이딩 게임 프로젝트에 사용되었으며, [DHTML](https://ko.wikipedia.org/wiki/동적_HTML "wikilink") 요소(이 시스템은 3DO 소유이기도 했음)를 조작하기 위한 사유 메시지 포맷과 더불어 브라우저 사이드 플러그인을 사용하였다. 초기 [Ajax](https://ko.wikipedia.org/wiki/Ajax "wikilink")의 기능을 발견한 digiGroups, Noosh 등은 프레임을 사용하여 웹 애플리케이션의 시각 컨텍스트를 새로 고치지 않은 채 정보를 사용자 브라우저의 시각 필드로 전달했으며, 이로써 넷스케이프 4.0.5+, IE 5+의 표준 HTTP, HTML, 자바스크립트 기능만을 사용하여 실시간 리치 웹 애플리케이션을 실현시켰다. 이때 크로포드는 자바스크립트가 이러한 시스템을 위한 객체 지향 메시지 포맷으로 사용될 수 있음을 발견하였다. 이 시스템은 [썬 마이크로시스템즈](../Page/썬_마이크로시스템즈.md "wikilink"), [아마존닷컴](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink"), [EDS로](https://ko.wikipedia.org/wiki/전자_데이터_시스템 "wikilink") 판매되었다. JSON.org\[9\] 웹사이트는 2002년 런칭되었다. 2005년 12월, [야후\!](../Page/야후!.md "wikilink")는 JSON으로 자사의 [웹 서비스를](../Page/웹_서비스.md "wikilink") 제공하기 시작했다.\[10\]
 
-JSON은 [자바스크립트](../Page/자바스크립트.md "wikilink") 스크립트 언어의 서브셋에 기반을 두었다. (구체적으로는 표준 [ECMA](../Page/Ecma_인터내셔널.md "wikilink")-262 제3판—1999년 12월\[11\]) 그리고 자바스크립트와 함께 흔히 사용되었으나 [언어 독립적인](https://ko.wikipedia.org/wiki/언어_독립_사양 "wikilink") 데이터 포맷이기도 했다. JSON 데이터의 [구문 분석](../Page/구문_분석.md "wikilink") 및 생성을 위한 코드는 수많은 [프로그래밍 언어에서](../Page/프로그래밍_언어.md "wikilink") 쉽게 볼 수 있다. JSON의 웹사이트는 언어별로 JSON [라이브러리를](https://ko.wikipedia.org/wiki/언어_바인딩 "wikilink") 나열한다.
+JSON은 [자바스크립트](../Page/자바스크립트.md "wikilink") 스크립트 언어의 서브셋에 기반을 두었다. (구체적으로는 표준 [ECMA](../Page/Ecma_인터내셔널.md "wikilink")-262 제3판—1999년 12월\[11\]) 그리고 자바스크립트와 함께 흔히 사용되었으나 [언어 독립적인](https://ko.wikipedia.org/wiki/언어_독립_사양 "wikilink") 데이터 포맷이기도 했다. JSON 데이터의 [구문 분석](../Page/구문_분석.md "wikilink") 및 생성을 위한 코드는 수많은 [프로그래밍 언어에서](../Page/프로그래밍_언어.md "wikilink") 쉽게 볼 수 있다. JSON의 웹사이트는 언어별로 JSON [라이브러리를](../Page/언어_바인딩.md "wikilink") 나열한다.
 
 ## 자료형과 문법
 
@@ -55,7 +55,7 @@ JSON의 기본 자료형은 다음과 같다:
 -2.718
 ```
 
-  - 실수([부동 소수점](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink"))
+  - 실수([부동소수점](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink"))
 
 <!-- end list -->
 

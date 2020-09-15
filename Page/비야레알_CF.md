@@ -11,7 +11,7 @@
 
 2003년과 2004년 [인터토토컵에서](../Page/UEFA_인터토토컵.md "wikilink") 처음 우승을 맛보았으며, 그 후 [마누엘 페예그리니](../Page/마누엘_페예그리니.md "wikilink") 감독 하에 최고의 전성기를 구사하였다. 2004-05 시즌에서 3위를 기록했고, [UEFA 챔피언스리그 2005-06](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2005-06 "wikilink") 4강에 진출하였으며, 2007-08시즌에는 역대 최고 성적인 시즌 2위를 기록하기도 했다.
 
-이후 2010-11시즌 4위를 기록, [2011-12 UEFA 챔피언스리그](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2011-12 "wikilink") 플레이오프 전에 진출하여 [오덴세 BK를](../Page/오덴세_BK.md "wikilink") 제치고 조별 리그에 참가하였다. 그러나 조별 리그에서 6전 전패라는 치욕적인 기록으로 탈락하였고, [후안 카를로스 가리도](https://ko.wikipedia.org/wiki/후안_카를로스_가리도 "wikilink") 감독과 [호세 프란시스코 몰리나](https://ko.wikipedia.org/wiki/호세_프란시스코_몰리나 "wikilink") 감독이 경질되는 위기 속에 리그에서도 부진하여 18위로 시즌을 마감, 강등이 확정되었다. 그리고, 그때까지 비야레알 CF의 감독을 맡고 있던 [미겔 앙헬 로티나](https://ko.wikipedia.org/wiki/미겔_앙헬_로티나 "wikilink") 감독은 사임하였다.
+이후 2010-11시즌 4위를 기록, [2011-12 UEFA 챔피언스리그](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2011-12 "wikilink") 플레이오프 전에 진출하여 [오덴세 BK를](../Page/오덴세_BK.md "wikilink") 제치고 조별 리그에 참가하였다. 그러나 조별 리그에서 6전 전패라는 치욕적인 기록으로 탈락하였고, [후안 카를로스 가리도](https://ko.wikipedia.org/wiki/후안_카를로스_가리도 "wikilink") 감독과 [호세 프란시스코 몰리나](../Page/호세_프란시스코_몰리나.md "wikilink") 감독이 경질되는 위기 속에 리그에서도 부진하여 18위로 시즌을 마감, 강등이 확정되었다. 그리고, 그때까지 비야레알 CF의 감독을 맡고 있던 [미겔 앙헬 로티나](https://ko.wikipedia.org/wiki/미겔_앙헬_로티나 "wikilink") 감독은 사임하였다.
 
 그 후, 비야레알 CF은 [마누엘 프레시아도를](https://ko.wikipedia.org/wiki/마누엘_프레시아도 "wikilink") 감독직으로 임명하지만, 그는 하루도 지나지 않아 사망하였고, [훌리오 벨라스케스를](../Page/훌리오_벨라스케스.md "wikilink") 감독으로 내정하게 된다. 2013년 1월, [세비야 FC](https://ko.wikipedia.org/wiki/세비야_FC "wikilink") 감독이었던 [마르셀리노 가르시아](https://ko.wikipedia.org/wiki/마르셀리노_가르시아 "wikilink") 감독이 취임하였다.
 
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [세군다 디비시온 B](https://ko.wikipedia.org/wiki/세군다_디비시온_B "wikilink")
+  - [세군다 디비시온 B](../Page/세군다_디비시온_B.md "wikilink")
       - 준우승 (2): 1988, 1992
 
 <!-- end list -->
@@ -55,11 +55,11 @@
 ## 현재 선수 명단
 
   -
-    *2016년 6월 9일 기준*
+    *2020년 7월 24일 기준*
 
 ### 임대 선수 명단
 
-**2014년 12월 4일 기준**
+**2020년 7월 24일 기준**
 
 ## 기록
 
@@ -80,13 +80,23 @@
 
   - [후안 카를로스 가리도](https://ko.wikipedia.org/wiki/후안_카를로스_가리도 "wikilink") (2010년 1월 31일 - 2011년 12월 21월)
 
-  - [호세 프란시스코 몰리나](https://ko.wikipedia.org/wiki/호세_프란시스코_몰리나 "wikilink") (2011년 12월 22일 - 2012년 3월 18월)
+  - [호세 프란시스코 몰리나](../Page/호세_프란시스코_몰리나.md "wikilink") (2011년 12월 22일 - 2012년 3월 18월)
 
   - [미구엘 앙헬 로티나](https://ko.wikipedia.org/wiki/미구엘_앙헬_로티나 "wikilink") (2012년 3월 19일 - 2012년)
 
   - [훌리오 벨라스케스](../Page/훌리오_벨라스케스.md "wikilink") (2012년 7월 1일 - 2013년 1월 13일)
 
-  - [마르셀리노 가르시아 토랄](../Page/마르셀리노_가르시아_토랄.md "wikilink") (2013년 1월 14일 -)
+  - [마르셀리노 가르시아 토랄](../Page/마르셀리노_가르시아_토랄.md "wikilink") (2013년 1월 14일 - 2016년 8월 10일)
+
+  - [프란시스코 에스크리바](https://ko.wikipedia.org/wiki/프란시스코_에스크리바 "wikilink") (2016년 8월 18일 - 2017년 9월 25일)
+
+  - [하비에르 카예하](https://ko.wikipedia.org/wiki/하비에르_카예하 "wikilink") (2017년 9월 25일 - 2018년 12월 10일)
+
+  - [루이스 가르시아 플라사](https://ko.wikipedia.org/wiki/루이스_가르시아_플라사 "wikilink") (2018년 12월 10일 - 2019년 1월 29일)
+
+  - [하비에르 카예하](https://ko.wikipedia.org/wiki/하비에르_카예하 "wikilink") (2019년 1월 29일 - 2020년 7월 20일)
+
+  - [우나이 에메리](../Page/우나이_에메리.md "wikilink") (2020년 7월 23일 - )
 
 ## 같이 보기
 
@@ -99,4 +109,4 @@
 
   - [비야레알 공식 웹사이트](http://www.villarrealcf.es/)
 
-[비야레알_CF](https://ko.wikipedia.org/wiki/분류:비야레알_CF "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:1923년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1923년_설립된_축구단 "wikilink") [분류:발렌시아 지방의 축구단](https://ko.wikipedia.org/wiki/분류:발렌시아_지방의_축구단 "wikilink")
+[비야레알_CF](https://ko.wikipedia.org/wiki/분류:비야레알_CF "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:1923년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1923년_설립된_축구단 "wikilink") [분류:발렌시아주의 축구단](https://ko.wikipedia.org/wiki/분류:발렌시아주의_축구단 "wikilink")

@@ -42,7 +42,7 @@ QQ는 현재 무료 회원 가입제를 받아들이고 있다. [2002년](../Pag
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.qq.com/)
+  - [공식 웹사이트](https://web.archive.org/web/20200705133236/https://www.qq.com/)
 
   - [Welcome to QQ.co.za](https://web.archive.org/web/20080722121234/http://www.qq.co.za/)
 

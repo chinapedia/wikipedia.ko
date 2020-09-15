@@ -116,7 +116,7 @@ YES24가 후원하고 바둑TV 주최하는 바둑 대회로 [2007년](../Page/2
 
 ## 외부 링크
 
-  - [YES24 홈페이지](http://www.yes24.com/)
+  - [YES24 홈페이지](https://web.archive.org/web/20051224203136/http://www.yes24.com/)
   - [YES24 페이스북](https://www.facebook.com/yes24/)
   - [YES24 트위터](https://twitter.com/Yes24Now)
 

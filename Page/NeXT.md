@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [NeXT](https://ko.wikipedia.org/wiki/NeXT).
 
 
-**NeXT, Inc.**(넥스트 사, 나중에 NeXT Computer, Inc. 와 NeXT Software, Inc.로 이름을 바꿈)는 [1985년](../Page/1985년.md "wikilink"), [애플 컴퓨터에서](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 해고통지를 받은 [스티브 잡스가](../Page/스티브_잡스.md "wikilink") [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [레드우드 시티에서](https://ko.wikipedia.org/wiki/레드우드_시티 "wikilink") 설립한 컴퓨터 회사였다.
+**NeXT, Inc.**(넥스트 사, 나중에 NeXT Computer, Inc. 와 NeXT Software, Inc.로 이름을 바꿈)는 [1985년](../Page/1985년.md "wikilink"), [애플 컴퓨터에서](../Page/애플.md "wikilink") 해고통지를 받은 [스티브 잡스가](../Page/스티브_잡스.md "wikilink") [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [레드우드 시티에서](https://ko.wikipedia.org/wiki/레드우드_시티 "wikilink") 설립한 컴퓨터 회사였다.
 
 이 회사는 3대의 워크스테이션(넥스트 컴퓨터(NeXT Computer), 넥스트 큐브(NeXTcube), 넥스트 스테이션(NeXTstation))을 개발, 판매하였다. 첫 작품인 '넥스트 컴퓨터'를 제외한 두 대의 워크스테이션은 운영체제로 [BSD](../Page/BSD.md "wikilink")를 기초로 한 [NeXTSTEP](../Page/NeXTSTEP.md "wikilink")를 개발해서 사용하였고, 훗날 [윈도 95에](https://ko.wikipedia.org/wiki/윈도_95 "wikilink") 대항하기 위해서 [썬 마이크로시스템즈과](../Page/썬_마이크로시스템즈.md "wikilink") 협력해서 [OpenStep](https://ko.wikipedia.org/wiki/OpenStep "wikilink")를 개발하였다.
 
 [1993년](../Page/1993년.md "wikilink") 이익이 안나는 [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink") 부문을 청산하고, **넥스트 소프트웨어**(NeXT Software Inc.) 로 이름을 바꾸게 되었다.
 
-[1996년](../Page/1996년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink"), 넥스트 사는 [애플 컴퓨터로부터](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 애플 컴퓨터의 [주식](../Page/주식.md "wikilink") 150만 주를 받았고, 3억 7750만 [미국 달러를](../Page/미국_달러.md "wikilink") [현금](https://ko.wikipedia.org/wiki/현금 "wikilink")으로 받고 애플 컴퓨터에게 인수되었다. 그 후 넥스트 사의 소프트웨어들은 [OS X에](https://ko.wikipedia.org/wiki/OS_X "wikilink") 중추적인 역할을 하게 되었다. 또한 넥스트사의 [회장](https://ko.wikipedia.org/wiki/회장 "wikilink")이자, [최고 경영자였던](https://ko.wikipedia.org/wiki/최고_경영자 "wikilink") [스티브 잡스는](../Page/스티브_잡스.md "wikilink") 애플 컴퓨터의 고문과 임시 최고 경영자를 거쳐 [최고 경영자자리에](https://ko.wikipedia.org/wiki/최고_경영자 "wikilink") 오르게 되었다.
+[1996년](../Page/1996년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink"), 넥스트 사는 [애플 컴퓨터로부터](../Page/애플.md "wikilink") 애플 컴퓨터의 [주식](../Page/주식.md "wikilink") 150만 주를 받았고, 3억 7750만 [미국 달러를](../Page/미국_달러.md "wikilink") [현금](https://ko.wikipedia.org/wiki/현금 "wikilink")으로 받고 애플 컴퓨터에게 인수되었다. 그 후 넥스트 사의 소프트웨어들은 [OS X에](https://ko.wikipedia.org/wiki/OS_X "wikilink") 중추적인 역할을 하게 되었다. 또한 넥스트사의 [회장](https://ko.wikipedia.org/wiki/회장 "wikilink")이자, [최고 경영자였던](https://ko.wikipedia.org/wiki/최고_경영자 "wikilink") [스티브 잡스는](../Page/스티브_잡스.md "wikilink") 애플 컴퓨터의 고문과 임시 최고 경영자를 거쳐 [최고 경영자자리에](https://ko.wikipedia.org/wiki/최고_경영자 "wikilink") 오르게 되었다.
 
 ## 제품
 
 ### 넥스트 컴퓨터
 
-넥스트 컴퓨터(NeXT Computer System)는 1988년에 출시되었다. 개인용 워크스테이션으로서는 최초로 광자기디스크를 기본으로 사용하였으며, 정육면체 큐브 모양의 디자인과 검정색 컬러, 그리고 17인치의 1120x832 흑백 모니터가 기본 사양이었다. CPU는 [모토롤라](https://ko.wikipedia.org/wiki/모토롤라 "wikilink")의 68080, RAM은 8MB 이상이었다. 당시 [대한민국](../Page/대한민국.md "wikilink")에서 보급이 활성화 되기 시작한 IBM-PC/XT 기종이 대개 640KB의 RAM 용량이었던 것을 감안하면, 당시로서는 상상하기 힘든 고사양이라고 할 수 있었다. OS는 '마하(Mach)' OS를 사용했다.\[1\] 하지만 6,500달러라는 비싼 가격으로 인해 넥스트의 첫 번째 실패작이 되었다.
+넥스트 컴퓨터(NeXT Computer System)는 1988년에 출시되었다. 개인용 워크스테이션으로서는 최초로 광자기디스크를 기본으로 사용하였으며, 정육면체 큐브 모양의 디자인과 검정색 컬러, 그리고 17인치의 1120x832 흑백 모니터가 기본 사양이었다. CPU는 [모토롤라](https://ko.wikipedia.org/wiki/모토롤라 "wikilink")의 68030, RAM은 8MB 이상이었다. 당시 [대한민국](../Page/대한민국.md "wikilink")에서 보급이 활성화 되기 시작한 IBM-PC/XT 기종이 대개 640KB의 RAM 용량이었던 것을 감안하면, 당시로서는 상상하기 힘든 고사양이라고 할 수 있었다. OS는 '마하(Mach)' OS를 사용했다.\[1\] 하지만 6,500달러라는 비싼 가격으로 인해 넥스트의 첫 번째 실패작이 되었다.
 
 ### 넥스트 큐브
 

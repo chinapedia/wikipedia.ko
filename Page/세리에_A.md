@@ -3,7 +3,7 @@
 
 **세리에 A**()는 [이탈리아](../Page/이탈리아.md "wikilink")의 프로[축구](../Page/축구.md "wikilink") 최상위 리그이며, 스폰서십으로 **세리에 A TIM**이 공식 명칭이다. [레가 나치오날레 프로페시오니스티 세리에 A에서](../Page/레가_나치오날레_프로페시오니스티_세리에_A.md "wikilink") 주관한다.\[1\]
 
-FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의 전국 단일 조로 구성된 리그방식은 1929년부터 시행했다. 가장 많이 우승한 구단은 35번을 우승한 이며, [인테르는](../Page/FC_인테르나치오날레_밀라노.md "wikilink") 단일 조 역사 이래로 강등의 역사가 없는 모든 시즌 참가 구단이다.
+FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의 전국 단일 조로 구성된 리그방식은 1929년부터 시행했다. 가장 많이 우승한 구단은 36번을 우승한 이며, [인테르는](../Page/FC_인테르나치오날레_밀라노.md "wikilink") 단일 조 역사 이래로 강등의 역사가 없는 모든 시즌 참가 구단이다.
 
 세리에 A는 [UEFA 계수에](../Page/UEFA_계수.md "wikilink") 따라 3위에 올라있으며, 이는 [스페인](../Page/스페인.md "wikilink")의 [라리가](https://ko.wikipedia.org/wiki/라리가 "wikilink")와 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 다음이다.\[2\]
 
@@ -87,18 +87,18 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 ### 연대기순 우승 팀
 
   - **[1898](../Page/캄피오나토_이탈리아노_디_풋볼_1898.md "wikilink"):  (1회)**
-  - [1899](https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1899 "wikilink"):  (2회)
-  - [1900](https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1900 "wikilink"):  (3회)
-  - **[1901](https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1901 "wikilink"):  (1회)**
-  - [1902](https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1902 "wikilink"):  (4회)
-  - [1903](https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1903 "wikilink"):  (5회)
-  - [1904](https://ko.wikipedia.org/wiki/프리마_카테고리아_1904 "wikilink"):  (6회)
-  - **[1905](https://ko.wikipedia.org/wiki/프리마_카테고리아_1905 "wikilink"):  (1회)**
+  - [1899](../Page/캄피오나토_이탈리아노_디_풋볼_1899.md "wikilink"):  (2회)
+  - [1900](../Page/캄피오나토_이탈리아노_디_풋볼_1900.md "wikilink"):  (3회)
+  - **[1901](../Page/캄피오나토_이탈리아노_디_풋볼_1901.md "wikilink"):  (1회)**
+  - [1902](../Page/캄피오나토_이탈리아노_디_풋볼_1902.md "wikilink"):  (4회)
+  - [1903](../Page/캄피오나토_이탈리아노_디_풋볼_1903.md "wikilink"):  (5회)
+  - [1904](../Page/프리마_카테고리아_1904.md "wikilink"):  (6회)
+  - **[1905](../Page/프리마_카테고리아_1905.md "wikilink"):  (1회)**
   - [1906](https://ko.wikipedia.org/wiki/프리마_카테고리아_1906 "wikilink"):  (2회)
   - [1907](https://ko.wikipedia.org/wiki/프리마_카테고리아_1907 "wikilink"):  (3회)
   - **[1908](https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_프리마_카테고리아_1908 "wikilink"):  (1회)**
   - [1909](https://ko.wikipedia.org/wiki/캄피오나토_페데랄레_디_프리마_카테고리아_1909 "wikilink"):  (2회)
-  - **[1909-10](https://ko.wikipedia.org/wiki/프리마_카테고리아_1909-10 "wikilink"):  (1회)**
+  - **[1909-10](../Page/프리마_카테고리아_1909-10.md "wikilink"):  (1회)**
   - [1910-11](https://ko.wikipedia.org/wiki/프리마_카테고리아_1910-11 "wikilink"):  (3회)
   - [1911-12](https://ko.wikipedia.org/wiki/프리마_카테고리아_1911-12 "wikilink"):  (4회)
   - [1912-13](https://ko.wikipedia.org/wiki/프리마_카테고리아_1912-13 "wikilink"):  (5회)
@@ -211,6 +211,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
   - [2016-17](../Page/세리에_A_2016-17.md "wikilink"):  (33회)
   - [2017-18](../Page/세리에_A_2017-18.md "wikilink"):  (34회)
   - [2018-19](https://ko.wikipedia.org/wiki/세리에_A_2018-19 "wikilink"):  (35회)
+  - [2019-20](../Page/세리에_A_2019-20.md "wikilink"):  (36회)
 
 ### 구단 별 우승 수
 
@@ -225,23 +226,23 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>35</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1905" title="wikilink">1905</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1925-26" title="wikilink">1925-26</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1930-31" title="wikilink">1930-31</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1931-32" title="wikilink">1931-32</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1932-33" title="wikilink">1932-33</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1933-34" title="wikilink">1933-34</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1934-35" title="wikilink">1934-35</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1949-50" title="wikilink">1949-50</a>, <a href="../Page/세리에_A_1951-52.md" title="wikilink">1951-52</a>, <a href="../Page/세리에_A_1957-58.md" title="wikilink">1957-58</a>, <a href="../Page/세리에_A_1959-60.md" title="wikilink">1959-60</a>, <a href="../Page/세리에_A_1960-61.md" title="wikilink">1960-61</a>, <a href="../Page/세리에_A_1966-67.md" title="wikilink">1966-67</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1971-72" title="wikilink">1971-72</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1972-73" title="wikilink">1972-73</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1974-75" title="wikilink">1974-75</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1976-77" title="wikilink">1976-77</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1977-78" title="wikilink">1977-78</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1980-81" title="wikilink">1980-81</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1981-82" title="wikilink">1981-82</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1983-84" title="wikilink">1983-84</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1985-86" title="wikilink">1985-86</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1994-95" title="wikilink">1994-95</a>, <a href="../Page/세리에_A_1996-97.md" title="wikilink">1996-97</a>, <a href="../Page/세리에_A_1997-98.md" title="wikilink">1997-98</a>, <a href="../Page/세리에_A_2001-02.md" title="wikilink">2001-02</a>, <a href="../Page/세리에_A_2002-03.md" title="wikilink">2002-03</a>, <a href="../Page/세리에_A_2011-12.md" title="wikilink">2011-12</a>, <a href="../Page/세리에_A_2012-13.md" title="wikilink">2012-13</a>, <a href="../Page/세리에_A_2013-14.md" title="wikilink">2013-14</a>, <a href="../Page/세리에_A_2014-15.md" title="wikilink">2014-15</a>, <a href="../Page/세리에_A_2015-16.md" title="wikilink">2015-16</a>, <a href="../Page/세리에_A_2016-17.md" title="wikilink">2016-17</a>, <a href="../Page/세리에_A_2017-18.md" title="wikilink">2017-18</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2018-19" title="wikilink">2018-19</a></p></td>
+<td><p>36</p></td>
+<td><p><a href="../Page/프리마_카테고리아_1905.md" title="wikilink">1905</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1925-26" title="wikilink">1925-26</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1930-31" title="wikilink">1930-31</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1931-32" title="wikilink">1931-32</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1932-33" title="wikilink">1932-33</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1933-34" title="wikilink">1933-34</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1934-35" title="wikilink">1934-35</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1949-50" title="wikilink">1949-50</a>, <a href="../Page/세리에_A_1951-52.md" title="wikilink">1951-52</a>, <a href="../Page/세리에_A_1957-58.md" title="wikilink">1957-58</a>, <a href="../Page/세리에_A_1959-60.md" title="wikilink">1959-60</a>, <a href="../Page/세리에_A_1960-61.md" title="wikilink">1960-61</a>, <a href="../Page/세리에_A_1966-67.md" title="wikilink">1966-67</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1971-72" title="wikilink">1971-72</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1972-73" title="wikilink">1972-73</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1974-75" title="wikilink">1974-75</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1976-77" title="wikilink">1976-77</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1977-78" title="wikilink">1977-78</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1980-81" title="wikilink">1980-81</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1981-82" title="wikilink">1981-82</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1983-84" title="wikilink">1983-84</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1985-86" title="wikilink">1985-86</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1994-95" title="wikilink">1994-95</a>, <a href="../Page/세리에_A_1996-97.md" title="wikilink">1996-97</a>, <a href="../Page/세리에_A_1997-98.md" title="wikilink">1997-98</a>, <a href="../Page/세리에_A_2001-02.md" title="wikilink">2001-02</a>, <a href="../Page/세리에_A_2002-03.md" title="wikilink">2002-03</a>, <a href="../Page/세리에_A_2011-12.md" title="wikilink">2011-12</a>, <a href="../Page/세리에_A_2012-13.md" title="wikilink">2012-13</a>, <a href="../Page/세리에_A_2013-14.md" title="wikilink">2013-14</a>, <a href="../Page/세리에_A_2014-15.md" title="wikilink">2014-15</a>, <a href="../Page/세리에_A_2015-16.md" title="wikilink">2015-16</a>, <a href="../Page/세리에_A_2016-17.md" title="wikilink">2016-17</a>, <a href="../Page/세리에_A_2017-18.md" title="wikilink">2017-18</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_2018-19" title="wikilink">2018-19</a>, <a href="../Page/세리에_A_2019-20.md" title="wikilink">2019-20</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>18</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1909-10" title="wikilink">1909-10</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1919-" title="wikilink">1919-</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1929-30" title="wikilink">1929-30</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1937-38" title="wikilink">1937-38</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1939-40" title="wikilink">1939-40</a>, <a href="../Page/세리에_A_1952-53.md" title="wikilink">1952-53</a>, <a href="../Page/세리에_A_1953-54.md" title="wikilink">1953-54</a>, <a href="../Page/세리에_A_1962-63.md" title="wikilink">1962-63</a>, <a href="../Page/세리에_A_1964-65.md" title="wikilink">1964-65</a>, <a href="../Page/세리에_A_1965-66.md" title="wikilink">1965-66</a>, <a href="../Page/세리에_A_1970-71.md" title="wikilink">1970-71</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1979-80" title="wikilink">1979-80</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1988-89" title="wikilink">1988-89</a>, <a href="../Page/세리에_A_2005-06.md" title="wikilink">2005-06</a>, <a href="../Page/세리에_A_2006-07.md" title="wikilink">2006-07</a>, <a href="../Page/세리에_A_2007-08.md" title="wikilink">2007-08</a>, <a href="../Page/세리에_A_2008-09.md" title="wikilink">2008-09</a>, <a href="../Page/세리에_A_2009-10.md" title="wikilink">2009-10</a></p></td>
+<td><p><a href="../Page/프리마_카테고리아_1909-10.md" title="wikilink">1909-10</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1919-" title="wikilink">1919-</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1929-30" title="wikilink">1929-30</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1937-38" title="wikilink">1937-38</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1939-40" title="wikilink">1939-40</a>, <a href="../Page/세리에_A_1952-53.md" title="wikilink">1952-53</a>, <a href="../Page/세리에_A_1953-54.md" title="wikilink">1953-54</a>, <a href="../Page/세리에_A_1962-63.md" title="wikilink">1962-63</a>, <a href="../Page/세리에_A_1964-65.md" title="wikilink">1964-65</a>, <a href="../Page/세리에_A_1965-66.md" title="wikilink">1965-66</a>, <a href="../Page/세리에_A_1970-71.md" title="wikilink">1970-71</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1979-80" title="wikilink">1979-80</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1988-89" title="wikilink">1988-89</a>, <a href="../Page/세리에_A_2005-06.md" title="wikilink">2005-06</a>, <a href="../Page/세리에_A_2006-07.md" title="wikilink">2006-07</a>, <a href="../Page/세리에_A_2007-08.md" title="wikilink">2007-08</a>, <a href="../Page/세리에_A_2008-09.md" title="wikilink">2008-09</a>, <a href="../Page/세리에_A_2009-10.md" title="wikilink">2009-10</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>18</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1901" title="wikilink">1901</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1906" title="wikilink">1906</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1907" title="wikilink">1907</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1950-51" title="wikilink">1950-51</a>, <a href="../Page/세리에_A_1954-55.md" title="wikilink">1954-55</a>, <a href="../Page/세리에_A_1956-57.md" title="wikilink">1956-57</a>, <a href="../Page/세리에_A_1958-59.md" title="wikilink">1958-59</a>, <a href="../Page/세리에_A_1961-62.md" title="wikilink">1961-62</a>, <a href="../Page/세리에_A_1967-68.md" title="wikilink">1967-68</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1978-79" title="wikilink">1978-79</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1987-88" title="wikilink">1987-88</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1991-92" title="wikilink">1991-92</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1992-93" title="wikilink">1992-93</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1993-94" title="wikilink">1993-94</a>, <a href="../Page/세리에_A_1995-96.md" title="wikilink">1995-96</a>, <a href="../Page/세리에_A_1998-99.md" title="wikilink">1998-99</a>, <a href="../Page/세리에_A_2003-04.md" title="wikilink">2003-04</a>, <a href="../Page/세리에_A_2010-11.md" title="wikilink">2010-11</a></p></td>
+<td><p><a href="../Page/캄피오나토_이탈리아노_디_풋볼_1901.md" title="wikilink">1901</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1906" title="wikilink">1906</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1907" title="wikilink">1907</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1950-51" title="wikilink">1950-51</a>, <a href="../Page/세리에_A_1954-55.md" title="wikilink">1954-55</a>, <a href="../Page/세리에_A_1956-57.md" title="wikilink">1956-57</a>, <a href="../Page/세리에_A_1958-59.md" title="wikilink">1958-59</a>, <a href="../Page/세리에_A_1961-62.md" title="wikilink">1961-62</a>, <a href="../Page/세리에_A_1967-68.md" title="wikilink">1967-68</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1978-79" title="wikilink">1978-79</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1987-88" title="wikilink">1987-88</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1991-92" title="wikilink">1991-92</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1992-93" title="wikilink">1992-93</a>, <a href="https://ko.wikipedia.org/wiki/세리에_A_1993-94" title="wikilink">1993-94</a>, <a href="../Page/세리에_A_1995-96.md" title="wikilink">1995-96</a>, <a href="../Page/세리에_A_1998-99.md" title="wikilink">1998-99</a>, <a href="../Page/세리에_A_2003-04.md" title="wikilink">2003-04</a>, <a href="../Page/세리에_A_2010-11.md" title="wikilink">2010-11</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>9</p></td>
-<td><p><a href="../Page/캄피오나토_이탈리아노_디_풋볼_1898.md" title="wikilink">1898</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1899" title="wikilink">1899</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1900" title="wikilink">1900</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1902" title="wikilink">1902</a>, <a href="https://ko.wikipedia.org/wiki/캄피오나토_이탈리아노_디_풋볼_1903" title="wikilink">1903</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1904" title="wikilink">1904</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1914-15" title="wikilink">1914-15</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1922-23" title="wikilink">1922-23</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1923-24" title="wikilink">1923-24</a></p></td>
+<td><p><a href="../Page/캄피오나토_이탈리아노_디_풋볼_1898.md" title="wikilink">1898</a>, <a href="../Page/캄피오나토_이탈리아노_디_풋볼_1899.md" title="wikilink">1899</a>, <a href="../Page/캄피오나토_이탈리아노_디_풋볼_1900.md" title="wikilink">1900</a>, <a href="../Page/캄피오나토_이탈리아노_디_풋볼_1902.md" title="wikilink">1902</a>, <a href="../Page/캄피오나토_이탈리아노_디_풋볼_1903.md" title="wikilink">1903</a>, <a href="../Page/프리마_카테고리아_1904.md" title="wikilink">1904</a>, <a href="https://ko.wikipedia.org/wiki/프리마_카테고리아_1914-15" title="wikilink">1914-15</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1922-23" title="wikilink">1922-23</a>, <a href="https://ko.wikipedia.org/wiki/프리마_디비시오네_1923-24" title="wikilink">1923-24</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -317,7 +318,7 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 리그전이 시행된 1929-30시즌부터 현재까지의 통계이며, [디비시오네 나치오날레 1944와](https://ko.wikipedia.org/wiki/디비시오네_나치오날레_1944 "wikilink") [디비시오네 나치오날레 1945-1946는](https://ko.wikipedia.org/wiki/디비시오네_나치오날레_1945-1946 "wikilink") 제외된다.
 
   -
-    <small>*2019년 4월 4일 기준*</small>
+    <small>*2020년 7월 4일 기준*</small>
 
 <table>
 <thead>
@@ -336,22 +337,22 @@ FIGC 공인 하에 1898년 대회가 첫 대회로 인정되었으며, 현재의
 <tr class="odd">
 <td><p><strong>1</strong></p></td>
 <td></td>
+<td><p><strong><a href="../Page/잔루이지_부폰.md" title="wikilink">잔루이지 부폰</a></strong></p></td>
+<td><p>648</p></td>
+<td><p>−</p></td>
+<td><p>23</p></td>
+<td><p>1995−06 2007−18 2019-</p></td>
+<td><p>168 , 480 </p></td>
+</tr>
+<tr class="even">
+<td><p><strong>2</strong></p></td>
+<td></td>
 <td><p><a href="../Page/파올로_말디니.md" title="wikilink">파올로 말디니</a></p></td>
 <td><p>647</p></td>
 <td><p>29</p></td>
 <td><p>25</p></td>
 <td><p>1984−09</p></td>
 <td><p>647 </p></td>
-</tr>
-<tr class="even">
-<td><p><strong>2</strong></p></td>
-<td></td>
-<td><p><strong><a href="../Page/잔루이지_부폰.md" title="wikilink">잔루이지 부폰</a></strong></p></td>
-<td><p>647</p></td>
-<td><p>−</p></td>
-<td><p>23</p></td>
-<td><p>1995−06 2007−18 2019-</p></td>
-<td><p>168 , 479 </p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>3</strong></p></td>

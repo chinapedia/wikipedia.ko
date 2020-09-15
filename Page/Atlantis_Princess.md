@@ -436,6 +436,6 @@
 
 ## 외부 링크
 
-  - [Hi Seoul 노래 "서울의 빛" 듣기 (서울특별시청)](http://www.seoul.go.kr/v2007/seoul/symbol/song.html)
+  - [Hi Seoul 노래 "서울의 빛" 듣기 (서울특별시청)](https://web.archive.org/web/20120516020411/http://www.seoul.go.kr/v2007/seoul/symbol/song.html)
 
 [분류:2003년 음반](https://ko.wikipedia.org/wiki/분류:2003년_음반 "wikilink") [분류:보아의 음반](https://ko.wikipedia.org/wiki/분류:보아의_음반 "wikilink") [분류:SM 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink")

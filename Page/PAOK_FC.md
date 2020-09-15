@@ -3,7 +3,7 @@
 
 **판테살로니케이오스 아틀리티코스 오밀로스 콘스탄티누폴리톤**(, "콘스탄티노폴리스인들의 범테살로니키 체육 클럽")은 흔히 **파오크**()로 알려진 [그리스](../Page/그리스.md "wikilink") 북부 [마케도니아의](../Page/마케도니아_\(그리스\).md "wikilink") [테살로니키](../Page/테살로니키.md "wikilink")를 연고로 하는 그리스의 축구 클럽이다.
 
-PAOK는 현재 1부 리그인 [수페르리가 엘라다에](../Page/수페르리가_엘라다.md "wikilink") 속해 있으며, 이 리그에서 두 차례 우승을 거두었다. 클럽의 홈구장은 [툼바 경기장이다](../Page/툼바_경기장.md "wikilink").
+PAOK는 현재 1부 리그인 [수페르리가 엘라다에](../Page/수페르리가_엘라다.md "wikilink") 속해 있으며, 이 리그에서 세 차례 우승을 거두었다. 클럽의 홈구장은 [툼바 경기장이다](../Page/툼바_경기장.md "wikilink").
 
 ## 역사
 
@@ -1061,15 +1061,15 @@ PAOK의 역대 최고 컵위너스컵 성적은 1973-74 시즌에 냈으며, 이
 
 ## 역대 성적
 
-  - **총 우승 횟수: 6회**\[46\]
+  - **총 우승 횟수: 10회**\[46\]
 
 ### 국내 대회
 
-  - **범그리스 리그 / 알파 에트니키 / [수페르리가 엘라다](../Page/수페르리가_엘라다.md "wikilink") 우승 2회**
-      - 우승: [1975–76](https://ko.wikipedia.org/wiki/알파_에트니키_1975-76 "wikilink"), [1984–85](https://ko.wikipedia.org/wiki/알파_에트니키_1984-85 "wikilink")
-      - 준우승: [1936–37](https://ko.wikipedia.org/wiki/범그리스_리그_1936-37 "wikilink"), [1939–40](https://ko.wikipedia.org/wiki/범그리스_리그_1939-40 "wikilink"), [1972-73](https://ko.wikipedia.org/wiki/알파_에트니키_1972-73 "wikilink"), [1977-78](https://ko.wikipedia.org/wiki/알파_에트니키_1977-78 "wikilink"), [2009–10](https://ko.wikipedia.org/wiki/수페르리가_엘라다_2009-10 "wikilink"), [2012–13](https://ko.wikipedia.org/wiki/수페르리가_엘라다_2012-13 "wikilink")
-  - **[그리스 컵](../Page/그리스_컵.md "wikilink") 우승 6회**
-      - 우승: [1971–72](https://ko.wikipedia.org/wiki/그리스_컵_1971-72 "wikilink"), [1973–74](https://ko.wikipedia.org/wiki/그리스_컵_1973-74 "wikilink"), [2000–01](https://ko.wikipedia.org/wiki/그리스_컵_2000-01 "wikilink"), [2002–03](https://ko.wikipedia.org/wiki/그리스_컵_2002-03 "wikilink"), 2016-17, 2017-18
+  - **범그리스 리그 / 알파 에트니키 / [수페르리가 엘라다](../Page/수페르리가_엘라다.md "wikilink") 우승 3회**
+      - 우승: [1975–76](https://ko.wikipedia.org/wiki/알파_에트니키_1975-76 "wikilink"), [1984–85](https://ko.wikipedia.org/wiki/알파_에트니키_1984-85 "wikilink"), [2018-19](https://ko.wikipedia.org/wiki/수페르리가_엘라다_2018-19 "wikilink")
+      - 준우승: [1936–37](https://ko.wikipedia.org/wiki/범그리스_리그_1936-37 "wikilink"), [1939–40](https://ko.wikipedia.org/wiki/범그리스_리그_1939-40 "wikilink"), [1972-73](https://ko.wikipedia.org/wiki/알파_에트니키_1972-73 "wikilink"), [1977-78](https://ko.wikipedia.org/wiki/알파_에트니키_1977-78 "wikilink"), [2009–10](https://ko.wikipedia.org/wiki/수페르리가_엘라다_2009-10 "wikilink"), [2015-16](https://ko.wikipedia.org/wiki/수페르리가_엘라다_2015-16 "wikilink"), [2017–18](https://ko.wikipedia.org/wiki/수페르리가_엘라다_2017-18 "wikilink"), [2019–20](https://ko.wikipedia.org/wiki/수페르리가_엘라다_2019-20 "wikilink")
+  - **[그리스 컵](../Page/그리스_컵.md "wikilink") 우승 7회**
+      - 우승: [1971–72](https://ko.wikipedia.org/wiki/그리스_컵_1971-72 "wikilink"), [1973–74](https://ko.wikipedia.org/wiki/그리스_컵_1973-74 "wikilink"), [2000–01](https://ko.wikipedia.org/wiki/그리스_컵_2000-01 "wikilink"), [2002–03](https://ko.wikipedia.org/wiki/그리스_컵_2002-03 "wikilink"), [2016–17](https://ko.wikipedia.org/wiki/그리스_컵_2016-17 "wikilink"), [2017–18](https://ko.wikipedia.org/wiki/그리스_컵_2017-18 "wikilink"), [2018–19](https://ko.wikipedia.org/wiki/그리스_컵_2018-19 "wikilink"),
       - 준우승: [1938-39](https://ko.wikipedia.org/wiki/그리스_컵_1938-39 "wikilink"), [1950-51](https://ko.wikipedia.org/wiki/그리스_컵_1950-51 "wikilink"), [1954–55](https://ko.wikipedia.org/wiki/그리스_컵_1954-55 "wikilink"), [1969–70](https://ko.wikipedia.org/wiki/그리스_컵_1969-70 "wikilink"), [1970–71](https://ko.wikipedia.org/wiki/그리스_컵_1970-71 "wikilink"), [1972–73](https://ko.wikipedia.org/wiki/그리스_컵_1972-73 "wikilink"), [1976–77](https://ko.wikipedia.org/wiki/그리스_컵_1976-77 "wikilink"), [1977–78](https://ko.wikipedia.org/wiki/그리스_컵_1977-78 "wikilink"), [1980–81](https://ko.wikipedia.org/wiki/그리스_컵_1980-81 "wikilink"), [1982–83](https://ko.wikipedia.org/wiki/그리스_컵_1982-83 "wikilink"), [1984–85](https://ko.wikipedia.org/wiki/그리스_컵_1984-85 "wikilink"), [1991–92](https://ko.wikipedia.org/wiki/그리스_컵_1991-92 "wikilink"), [2013–14](https://ko.wikipedia.org/wiki/그리스_컵_2013-14 "wikilink")
   - **[대그리스 컵](https://ko.wikipedia.org/wiki/대그리스_컵 "wikilink") 우승 1회**
       - 우승: 1973
@@ -1960,7 +1960,7 @@ PAOK의 1970년부터 현재까지의 역대 감독:\[51\]
 40.
 41.
 42.
-43. [Ίδια χρώματα, ίδια... θρησκεία](http://olapaok.gr/podosfairo/idia_xrwmata_idia_thrhskeia.146433.html) (그리스어)
+43. [Ίδια χρώματα, ίδια... θρησκεία](http://olapaok.gr/podosfairo/idia_xrwmata_idia_thrhskeia.146433.html)  (그리스어)
 44. [ΠΑΟΚ1926 Η επίσημη φωνή των συνδέσμων του ΠΑΟΚ](http://www.1926.gr/articles_details.php?keyi=66821&newsid=1) (그리스어)
 45.
 46.

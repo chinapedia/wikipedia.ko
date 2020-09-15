@@ -1,0 +1,549 @@
+> This article is converted from Wikipedia: [T1 \(e스포츠\)](https://ko.wikipedia.org/wiki/T1_\(e스포츠\)).
+
+
+**T1**은 [대한민국](../Page/대한민국.md "wikilink")의 종합 [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")으로 [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink"), [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink"),[포트나이트](../Page/포트나이트.md "wikilink"), [에이펙스 레전드](https://ko.wikipedia.org/wiki/에이펙스_레전드 "wikilink"), [스매시브라더스](../Page/슈퍼_스매시브라더스.md "wikilink"), [도타 2](../Page/도타_2.md "wikilink"), [오버워치](../Page/오버워치.md "wikilink"), [하스스톤](../Page/하스스톤.md "wikilink"), [포켓몬스터](../Page/포켓몬스터.md "wikilink"), [발로란트](https://ko.wikipedia.org/wiki/발로란트 "wikilink"), [FIFA 온라인 4](../Page/FIFA_온라인_4.md "wikilink") 등 11개의 종목을 운영하고 있다. [스타크래프트 프로리그와](../Page/스타크래프트_프로리그.md "wikilink") [리그 오브 레전드 챔피언스 코리아](../Page/리그_오브_레전드_챔피언스_코리아.md "wikilink"), [리그 오브 레전드 월드 챔피언십](../Page/리그_오브_레전드_월드_챔피언십.md "wikilink") 그리고 [미드 시즌 인비테이셔널에서](../Page/미드_시즌_인비테이셔널.md "wikilink") 가장 많은 우승을 한 팀이기도 하다. 과거에는 [스타크래프트](../Page/스타크래프트.md "wikilink"), [스타크래프트 II](https://ko.wikipedia.org/wiki/스타크래프트_II "wikilink"), [스페셜포스 2](../Page/스페셜포스_2.md "wikilink"), [하스스톤](../Page/하스스톤.md "wikilink") 종목을 운영하기도 하였다. [KT 롤스터와는](../Page/KT_롤스터.md "wikilink") 스타크래프트 시절부터 현재까지도 이동 통신사 라이벌 관계를 유지하고 있다.
+
+## 역사
+
+#### 스타크래프트
+
+[2001년 12월](https://ko.wikipedia.org/wiki/2001년_12월 "wikilink") 합병하여 창단된 [IS에서](../Page/화승_OZ.md "wikilink") [2002년 11월](https://ko.wikipedia.org/wiki/2002년_11월 "wikilink") [임요환](../Page/임요환.md "wikilink")이 [2002 SKY배 온게임넷 스타리그의](https://ko.wikipedia.org/wiki/스타리그#SKY_2002_스타리그 "wikilink") 결승전을 치른 뒤 팀내 [프로토스](https://ko.wikipedia.org/wiki/프로토스 "wikilink") 부족 등의 이유로 인해 팀을 나오게 된다. 한달 뒤인 [2002년 12월](https://ko.wikipedia.org/wiki/2002년_12월 "wikilink") [동양제과가](https://ko.wikipedia.org/wiki/오리온_\(기업\) "wikilink") [임요환](../Page/임요환.md "wikilink")과 스폰서십을 체결하여 높은 연봉과 연습실을 제공하였고, [주훈](../Page/주훈.md "wikilink")을 [임요환](../Page/임요환.md "wikilink")의 개인 매니저로 영입하였다. 이듬해 팀단위 리그인 [프로리그의](../Page/스타크래프트_프로리그.md "wikilink") 개막 소식에 주훈이 선수들을 영입하기 시작했다. 한달 후인 [2003년 1월](../Page/2003년_1월.md "wikilink") 프로팀으로서의 기틀이 갖춰진 이후, **동양 오리온(동양 Orion)**이라는 이름의 팀으로 활동하기 시작했다. 그리고 [2003년 3월에](../Page/2003년_3월.md "wikilink") 개막된 첫 번째 프로리그인 [KTF EVER컵 온게임넷 프로리그에서](../Page/KTF_EVER컵_온게임넷_프로리그.md "wikilink") 포스트 시즌을 거쳐 결승에 진출 하였으며 [2003년](../Page/2003년.md "wikilink") [8월 30일에](../Page/8월_30일.md "wikilink") 열린 결승전에서 [한빛 스타즈](../Page/웅진_스타즈.md "wikilink")(현 [웅진 스타즈](../Page/웅진_스타즈.md "wikilink"))를 4:1로 꺾고 팀내 첫 우승을 일궈냈다.
+
+[동양제과의](https://ko.wikipedia.org/wiki/오리온_\(기업\) "wikilink") 후원 기간이 끝난 [2003년](../Page/2003년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink") 정식으로 팀의 인수를 요구했지만, 후원자금의 규모에 대한 이견차를 좁히지 못하고 협상이 그대로 결렬되었다. 그로 인해 **4U**(4Union)팀으로 바뀌어 한동안 비기업 팀으로 활동하다가, [2004년](../Page/2004년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") [SK텔레콤](../Page/SK텔레콤.md "wikilink")에 인수되어 **SK텔레콤 T1**으로 재창단하여 현재에 이르고 있다. [2005년](../Page/2005년.md "wikilink")부터 [2006년](../Page/2006년.md "wikilink")까지는 [프로리그에서](../Page/스타크래프트_프로리그.md "wikilink") 4회 연속 우승을 이루어, 오버 트리플 크라운을 달성하였다.
+
+그러나 그 이후 [임요환](../Page/임요환.md "wikilink"), [성학승](../Page/성학승.md "wikilink")의 군입대로 전력이 쇠퇴하자 급격히 성적이 추락하기 시작했고, 여기에 전기리그에서의 여러 시스템의 실패와 후기리그에서의 개인전 성적 부진이 겹치면서 걷잡을 수 없이 폐해가 심해지자 끝내 [2008년](../Page/2008년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink"), 3시즌 연속으로 이어진 성적부진을 이유로 주훈 감독, 서형석 코치, 이효민 코치가 경질되었다.
+
+SK텔레콤 T1은 [2008년](../Page/2008년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink"), MBC게임의 전략코치였던 박용운 코치를 감독대행으로 선임하고, 작년까지 선수로 활동했던 [최연성](../Page/최연성.md "wikilink"), [박용욱](../Page/박용욱.md "wikilink") 두 선수를 코치로서 승격시키기로 확정했다고 밝혔다. 이 후 [김택용](../Page/김택용.md "wikilink")의 영입과 [도재욱](https://ko.wikipedia.org/wiki/도재욱 "wikilink")의 성장으로 2008 시즌에선 오랜만에 포스트시즌에 진출하게 되었다.
+
+[2008년](../Page/2008년.md "wikilink") [10월 1일에](../Page/10월_1일.md "wikilink") 박용운 감독대행이 감독으로 정식 승격한 이후 출전한 08-09시즌에서는 [프로토스](https://ko.wikipedia.org/wiki/프로토스 "wikilink")라인이 선전했음에도 [저그](https://ko.wikipedia.org/wiki/저그 "wikilink") 라인이 1라운드 전패라는 전무후무한 불명예의 부진으로 프로리그 하위권에 머물렀고 결국 극단의 조치를 취해야 했다. 10월 28일, 최연성이 플레잉코치로 변경을 시작으로, 같은 해 [10월 31일엔](../Page/10월_31일.md "wikilink") 비욘세사건으로 방출되었던 김성제가 복귀하고, 2라운드 직전인 [11월 26일에는](../Page/11월_26일.md "wikilink") MBC게임의 저그 선수 정영철을 영입하며 다른 저그 팀원들 까지도 성적이 좋아졌다. [2009년](../Page/2009년.md "wikilink") [1월 17일부터](../Page/1월_17일.md "wikilink") 시작된 3라운드 - 위너스 리그에서는 [2008년](../Page/2008년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") 제대한 임요환이 개막전(vs 공군전)에서 오영종과의 경기에 출전하였지만 지고 말았다.
+
+[2009년 3월에는](../Page/2009년_3월.md "wikilink") [스페셜포스 프로리그](https://ko.wikipedia.org/wiki/프로리그_\(스페셜포스\) "wikilink") 개막을 앞두고 펼쳐진 [스페셜포스](https://ko.wikipedia.org/wiki/스페셜포스 "wikilink") 프로게임단 드래프트에서 P-plus.innovation 클랜을 지명하여 창단하였다. 생각대로T SF프로리그 2009 1st의 1라운드에서는 부진한 모습을 보였으나, 2라운드 초반에 좋은 성적을 거두어 2위로 올라서기도 했으나, 끝내 2라운드 전승의 [이스트로](../Page/이스트로.md "wikilink")에게 밀려 최종적으로 3위로 확정되었다. 이후 최종 순위 3위와 4위가 맞붙는 준플레이오프에서 클랜 [Archer를](https://ko.wikipedia.org/wiki/Archer_\(e스포츠\) "wikilink") 꺾고 플레이오프에 진출했으나, 2위팀 [이스트로](../Page/이스트로.md "wikilink")에게 패배해서 3위로 리그를 마감하였다.
+
+[스타크래프트 프로리그에서는](../Page/스타크래프트_프로리그.md "wikilink") 08-09 시즌의 막바지 5라운드에서 막판에 화승 OZ를 따돌린 후 1위로 결승전에 직행해, 3년 만에 광안리 진출 티켓을 따냈고, [2009년](../Page/2009년.md "wikilink") [8월 7일과](../Page/8월_7일.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") 결승전 1,2차전에서 화승 OZ를 2:0으로 꺾고 프로리그 우승을 차지하였다 (1차전 - 4:0, 2차전 - 4:3). 또한 [김택용](../Page/김택용.md "wikilink")이 정규시즌 MVP를 차지하였으며, 결승전 MVP로 [정명훈이](../Page/정명훈_\(프로게이머\).md "wikilink") 선정되었다.
+
+**경남-STX컵 마스터즈 2009** 결승전에서는 [박재혁이](../Page/박재혁_\(프로게이머\).md "wikilink") 선봉으로 출전하여 STX선수들을 차례대로 4명을 꺾으며 우승을 차지하는데 일조를 하였다.
+
+그러나 08-09 시즌이 끝난뒤. [김성제](https://ko.wikipedia.org/wiki/김성제 "wikilink")와 [이건준](../Page/이건준_\(프로게이머\).md "wikilink"),[박대경이](../Page/박대경_\(1986년\).md "wikilink") 은퇴하고. 주장이었던 [권오혁](../Page/권오혁.md "wikilink")은 [박용욱](../Page/박용욱.md "wikilink")의 해설 전향으로 인한 공백을 메우기 위해, 플레잉 코치로 승격되어 프로토스가 궁핍해졌으나, 프로토스 라인은 12개팀중에 가장 강력한 팀으로 자리 잡았다.
+
+[위너스리그 09-10](https://ko.wikipedia.org/wiki/신한은행_위너스리그_09-10 "wikilink") 말기 [성학승](../Page/성학승.md "wikilink")을 사실상 경질하였고 [성학승](../Page/성학승.md "wikilink")이 경질된뒤, 저그 라인도 궁핍해지기 시작했다. 덕분에 화승토스, 웅진테란과 함께 **티원저그**라는 말이 생겨날 정도였다. 그러나 5라운드에서 [박재혁](../Page/박재혁_\(프로게이머\).md "wikilink")-[이승석](../Page/이승석.md "wikilink")-[어윤수](../Page/어윤수.md "wikilink") 3명으로 이루어진 저그 라인이 강력해지면서 팀의 승리에 도움을 주었다.
+
+하지만 [신한은행 프로리그 09-10](https://ko.wikipedia.org/wiki/신한은행_프로리그_09-10 "wikilink") 결승전에서 T1 저그는 그다지 성과를 이루지 못했다. [이승석](../Page/이승석.md "wikilink")이 템페신 [박재영](https://ko.wikipedia.org/wiki/박재영 "wikilink") 을 상대하여 패배, 또한 [박재혁](https://ko.wikipedia.org/wiki/박재혁 "wikilink") 또한 KT의 에이스 [이영호](https://ko.wikipedia.org/wiki/이영호 "wikilink")를 만나 패배를 하면서 4:2로 준우승에 머무르게 된다. T1의 저그 라인은 이번 시즌 결승전에서는 1승조차 따내지 못하여 고질적인 문제로 지적받았다.
+
+[2010년 9월](https://ko.wikipedia.org/wiki/2010년_9월 "wikilink") 저그라인 보강을 위하여 [웅진 스타즈의](../Page/웅진_스타즈.md "wikilink") [한상봉](https://ko.wikipedia.org/wiki/한상봉 "wikilink")을 영입했다. 그러나 기대와는 미치지 못한 성적을 보이며 부진, 결장을 면치못하던 [한상봉](https://ko.wikipedia.org/wiki/한상봉 "wikilink")은 결국 3월 10일 팀에서 임의탈퇴한다. [신한은행 프로리그 10-11에서](https://ko.wikipedia.org/wiki/신한은행_프로리그_10-11 "wikilink") 1R 첫 라운드 전승이란 기록을 세운다.
+
+[신한은행 위너스리그 10-11에서](https://ko.wikipedia.org/wiki/신한은행_위너스리그_10-11 "wikilink") 3위를 기록한 SK텔레콤은 준PO, PO에서 하이트, 화승을 꺾고 결승에 오른다. 복병 [이승석](../Page/이승석.md "wikilink")의 3킬, 그리고 에이스 [김택용](../Page/김택용.md "wikilink")의 마무리 활약으로 라이벌팀인 [KT를](../Page/KT_롤스터.md "wikilink") 꺾고 위너스리그 우승을 차지하며 단체전 그랜드슬램을 달성하였다.
+
+[신한은행 프로리그 10-11에서](https://ko.wikipedia.org/wiki/신한은행_프로리그_10-11 "wikilink") 6라운드 전승이란 기록과 함께 역대 단일리그 최다승(39승) 신기록을 세운다. 그러나 팀의 연습시간 비율이 나빠서 일부 선수들이 방식이 맘에 안든다고 하소연하기도 했다.
+
+[신한은행 프로리그 10-11에서](https://ko.wikipedia.org/wiki/신한은행_프로리그_10-11 "wikilink") KT와 결승에서 맞붙었지만 도재욱과 저그 라인의 패배로 준우승에 그쳐 09-10 [광안리의](../Page/광안리해수욕장.md "wikilink") 복수를 하지 못했다. 저번 결승 때와 마찬가지로 저그가 1승도 거두지 못해 T1 저그라인은 고질적인 문제였다.
+
+**경남-STX컵 마스터즈 2011** 결승전에서 [화승 OZ와](../Page/화승_OZ.md "wikilink") 격돌하게된 T1은 신인왕 [정윤종](../Page/정윤종.md "wikilink")의 선봉올킬로 우승을 차지한다. SK텔레콤은 취약한 저그라인을 보강하기 위해 화승 출신의 [방태수](../Page/방태수.md "wikilink") (현재 사이스톰 게이밍)와 [위메이드 폭스](../Page/위메이드_폭스.md "wikilink") 출신 [이예훈](../Page/이예훈.md "wikilink") (현재 마이인새니티)을 영입하였으나, 그들은 당시 아직 경험이 부족했고, 공식전이 많이 없던 신인이라 SK텔레콤 프런트측에서 성장발전을 믿고 영입했던 것이다.
+
+SK플래닛 프로리그 정규시즌 1위를 확정지으며 SK텔레콤 T1은 4연속 프로리그 결승 진출에 성공하였다. 또한 스페셜포스팀도 정규시즌 1위로 역시 결승 진출에 성공하였다.
+
+SK텔레콤 T1은 프로리그 결승전에서 다시 격돌하게된 KT를 꺾고 3년 만에 정규시즌 우승을 차지하게 된다. 위너스리그 우승을 제외하면 총 6회 우승이라는 대기록을 세우게 되었다. 다만 저그라인은 여전히 미흡한 점이 많이 지적됐다.(이날도 저그 라인은 승리를 하지 못했다)
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:Juhun.png "wikilink")
+
+[2012년](../Page/2012년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") 슬레이어스에 있던 [임요환](../Page/임요환.md "wikilink")을 T1 테란 전담코치로 영입했다.
+
+SK플래닛 프로리그 시즌2에서 4위로 포스트시즌에 진출하였고, 준플레이오프에서 [진에어 그린윙스를](../Page/진에어_그린윙스.md "wikilink") 완벽하게 제압했으나 [CJ 엔투스와의](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink") 플레이오프에서 에이스 정윤종의 뼈아픈 패배와 고질적인 T1 저그라인의 부진으로 결승 진출에 실패하게 된다.
+
+[2012년](../Page/2012년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") [박용운을](../Page/박용운_\(1977년\).md "wikilink") 어드바이저로 [임요환](../Page/임요환.md "wikilink")을 수석 코치로 임명했다.
+
+SK플래닛 프로리그 12-13이 끝난 후 팀의 주축이자, 오랜 시간을 활동해온 도재욱, 김택용, 이승석 등이 대거 프로게이머를 은퇴하였으며, STX 소울에서 활동하던 김도우를 영입하였다. 차기 시즌 주장은 정명훈이 맡게 되었다.
+
+[2013년](../Page/2013년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") [임요환](../Page/임요환.md "wikilink") 감독이 건강상의 이유로 사퇴하고 [최연성](../Page/최연성.md "wikilink")코치가 수석코치로 승격되었다.
+
+[2013년](../Page/2013년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink") [웅진 스타즈](../Page/웅진_스타즈.md "wikilink") [노준규](../Page/노준규.md "wikilink") (현 [삼성 갤럭시](../Page/삼성_갤럭시_\(e스포츠\).md "wikilink"))를 영입하였다.
+
+[2013년](../Page/2013년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") [최연성](../Page/최연성.md "wikilink") 수석코치가 감독으로 승격되었다.
+
+[2013년](../Page/2013년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink") [웅진 스타즈](../Page/웅진_스타즈.md "wikilink") [김민철](https://ko.wikipedia.org/wiki/김민철 "wikilink")(현 TCM 게이밍)을 포스팅으로 영입하였다.
+
+[2014년](../Page/2014년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") SK텔레콤 T1은 보도자료를 통해 2014년 9월 30일자로 정윤종, 원이삭, 정명훈과의 계약을 종료한다고 밝혔다.
+
+[2014년](../Page/2014년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") SK텔레콤 T1은 보도자료를 통해 [이신형](../Page/이신형.md "wikilink"), [조중혁](../Page/조중혁.md "wikilink")의 영입을 발표하는 동시에 2014년 9월 30일자로 김민철, 노준규와의 계약을 종료한다고 밝혔다.
+
+[2016년](../Page/2016년.md "wikilink") [10월](../Page/10월.md "wikilink") 스타크래프트 II 종목 팀 해체를 발표하였다.
+
+#### 코치진
+
+감독은 담원 게이밍의 [리그 오브 레전드 월드 챔피언십 2019](../Page/리그_오브_레전드_월드_챔피언십_2019.md "wikilink") 진출을 이끈 김정수이며 코치는 [진에어 그린윙스](../Page/진에어_그린윙스.md "wikilink"), [아프리카 프릭스](../Page/아프리카_프릭스.md "wikilink") 코치, 중국 LPL 쑤닝 게이밍 감독을 역임했던 임혜성이다. 최병훈 감독은 [2013년](../Page/2013년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") 코치에서 감독으로 승격된 후 팀의 롤챔스 6회 우승, 롤드컵 3회 우승을 이끌었고 [2017년](../Page/2017년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink") 감독직에서 물러나 [김정균](../Page/김정균_\(1985년\).md "wikilink") 코치가 감독을 맡게 되었고 2019년 4월 13일 SK텔레콤 T1 창단 15주년에 롤챔스 통산 7번째 우승컵을 들어올렸다. 이후 김정균 감독이 물러난 후 김정수 전 담원 게이밍 코치가 SK텔레콤의 감독을 맡게 되었다.
+
+## 게임단 연혁
+
+### 스타크래프트·스타크래프트 II
+
+  - [2003년](../Page/2003년.md "wikilink") [1월](../Page/1월.md "wikilink") 동양 오리온 프로게임단 창단(최초)
+  - [2003년](../Page/2003년.md "wikilink") [8월](../Page/8월.md "wikilink") **온게임넷 KTF EVER컵 프로리그 우승 (동양 오리온)**
+  - [2003년](../Page/2003년.md "wikilink") [12월](../Page/12월.md "wikilink") 4U 프로게임단 창단(동양 오리온 → 4U)
+  - [2004년](../Page/2004년.md "wikilink") [2월](../Page/2월.md "wikilink") **LG IBM MBC게임 팀리그 우승 (4U)**
+  - [2004년](../Page/2004년.md "wikilink") [4월](../Page/4월.md "wikilink") SK텔레콤 T1 프로게임단 창단(4U → SK텔레콤 T1)
+  - [2004년](../Page/2004년.md "wikilink") [7월](../Page/7월.md "wikilink") SKY 프로리그 2004 1라운드 준우승
+  - [2004년](../Page/2004년.md "wikilink") [8월](../Page/8월.md "wikilink") **투싼배 MBC게임 팀리그 우승**
+  - [2005년](../Page/2005년.md "wikilink") [8월](../Page/8월.md "wikilink") **SKY 프로리그 2005 전기리그 우승**
+  - [2006년](../Page/2006년.md "wikilink") [1월](../Page/1월.md "wikilink") **SKY 프로리그 2005 후기리그 우승**
+  - [2006년](../Page/2006년.md "wikilink") [2월](../Page/2월.md "wikilink") **SKY 프로리그 2005 그랜드파이널 우승**
+  - [2006년](../Page/2006년.md "wikilink") [3월](../Page/3월.md "wikilink") 2005 대한민국 e스포츠대상 올해의 프로게임단
+  - [2006년](../Page/2006년.md "wikilink") [7월](../Page/7월.md "wikilink") **SKY 프로리그 2006 전기리그 우승**
+  - [2007년](../Page/2007년.md "wikilink") [2월](../Page/2월.md "wikilink") SKY 프로리그 2006 그랜드파이널 준우승
+  - [2008년](../Page/2008년.md "wikilink") [7월](../Page/7월.md "wikilink") 신한은행 프로리그 2008 2위
+  - [2008년](../Page/2008년.md "wikilink") [8월](../Page/8월.md "wikilink") 경남-STX컵 마스터즈 2008 3위
+  - [2009년](../Page/2009년.md "wikilink") [3월](../Page/3월.md "wikilink") 신한은행 위너스리그 08-09 4위
+  - [2009년](../Page/2009년.md "wikilink") [8월](../Page/8월.md "wikilink") '''신한은행 프로리그 08-09 우승
+  - [2009년](../Page/2009년.md "wikilink") [8월](../Page/8월.md "wikilink") **경남-STX컵 마스터즈 2009 우승**
+  - [2009년](../Page/2009년.md "wikilink") [12월](../Page/12월.md "wikilink") 2009 대한민국 e스포츠대상 올해의 프로게임단
+  - [2010년](../Page/2010년.md "wikilink") [8월](../Page/8월.md "wikilink") 신한은행 프로리그 09-10 준우승
+  - [2010년](../Page/2010년.md "wikilink") [8월](../Page/8월.md "wikilink") **경남-STX컵 마스터즈 2010 우승**
+  - [2011년](../Page/2011년.md "wikilink") [4월](../Page/4월.md "wikilink") **신한은행 위너스리그 10-11 우승**
+  - [2011년](../Page/2011년.md "wikilink") [8월](../Page/8월.md "wikilink") 신한은행 프로리그 10-11 준우승
+  - [2011년](../Page/2011년.md "wikilink") [8월](../Page/8월.md "wikilink") **STX컵 마스터즈 2011 우승**
+  - [2012년](../Page/2012년.md "wikilink") [4월](../Page/4월.md "wikilink") **SK플래닛 스타크래프트 프로리그 시즌1 우승**
+  - [2012년](../Page/2012년.md "wikilink") [9월](../Page/9월.md "wikilink") SK플래닛 스타크래프트2 프로리그 시즌2 3위
+  - [2013년](../Page/2013년.md "wikilink") [7월](../Page/7월.md "wikilink") SK플래닛 스타크래프트 II 프로리그 12-13 4위
+  - [2014년](../Page/2014년.md "wikilink") [2월](../Page/2월.md "wikilink") SK텔레콤 스타크래프트 II 프로리그 2014 1라운드 준우승
+  - [2014년](../Page/2014년.md "wikilink") [5월](../Page/5월.md "wikilink") **SK텔레콤 스타크래프트 II 프로리그 2014 3라운드 우승**
+  - [2014년](../Page/2014년.md "wikilink") [7월](../Page/7월.md "wikilink") SK텔레콤 스타크래프트 II 프로리그 2014 4라운드 준우승
+  - [2014년](../Page/2014년.md "wikilink") [8월](../Page/8월.md "wikilink") SK텔레콤 스타크래프트 II 프로리그 2014 통합 준우승
+  - [2015년](../Page/2015년.md "wikilink") [2월](../Page/2월.md "wikilink") **SK텔레콤 스타크래프트 II 프로리그 2015 1라운드 우승**
+  - [2015년](../Page/2015년.md "wikilink") [4월](../Page/4월.md "wikilink") SK텔레콤 스타크래프트 II 프로리그 2015 2라운드 4위
+  - [2015년](../Page/2015년.md "wikilink") [7월](../Page/7월.md "wikilink") **SK텔레콤 스타크래프트 II 프로리그 2015 3라운드 우승**
+  - [2015년](../Page/2015년.md "wikilink") [9월](../Page/9월.md "wikilink") SK텔레콤 스타크래프트 II 프로리그 2015 4라운드 준우승
+  - [2015년](../Page/2015년.md "wikilink") [10월](../Page/10월.md "wikilink") **SK텔레콤 스타크래프트 II 프로리그 2015 통합 우승**
+  - [2016년](../Page/2016년.md "wikilink") [3월](../Page/3월.md "wikilink") **SK텔레콤 스타크래프트 II 프로리그 2016 1라운드 우승**
+  - [2016년](../Page/2016년.md "wikilink") [5월](../Page/5월.md "wikilink") SK텔레콤 스타크래프트 II 프로리그 2016 2라운드 3위
+
+### 스페셜포스·스페셜포스2
+
+  - [2009년](../Page/2009년.md "wikilink") [8월](../Page/8월.md "wikilink") 생각대로T SF프로리그 2009 1st 3위
+  - [2010년](../Page/2010년.md "wikilink") [2월](../Page/2월.md "wikilink") *' 생각대로T SF프로리그 2009 2nd 우승*'
+  - [2010년](../Page/2010년.md "wikilink") [7월](../Page/7월.md "wikilink") 생각대로T SF프로리그 2010 1st 4위
+  - [2011년](../Page/2011년.md "wikilink") [2월](../Page/2월.md "wikilink") 생각대로T SF프로리그 2010 2nd 준우승
+  - [2011년](../Page/2011년.md "wikilink") [8월](../Page/8월.md "wikilink") 생각대로T SF프로리그 2011 1st 4위
+  - [2012년](../Page/2012년.md "wikilink") [4월](../Page/4월.md "wikilink") 생각대로T SF2프로리그 2012 시즌1 준우승
+  - [2012년](../Page/2012년.md "wikilink") [9월](../Page/9월.md "wikilink") 생각대로T SF2프로리그 2012 시즌2 준우승
+
+### 리그 오브 레전드
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:SK_Telecom_T1_at_LoL_World_Championship_2013.jpg "wikilink")
+
+#### SK텔레콤 T1 K
+
+  - [2013년](../Page/2013년.md "wikilink") [6월](../Page/6월.md "wikilink") OLYMPUS the Champions Spring 2013 3위
+  - [2013년](../Page/2013년.md "wikilink") [8월](../Page/8월.md "wikilink") **2013 핫식스 리그 오브 레전드 챔피언스 코리아 서머 우승**
+  - [2013년](../Page/2013년.md "wikilink") [10월](../Page/10월.md "wikilink") **리그 오브 레전드 월드 챔피언십 시즌3 우승**
+  - [2014년](../Page/2014년.md "wikilink") [1월](../Page/1월.md "wikilink") '''PANDORA TV 리그 오브 레전드 챔피언스 코리아 윈터 2013-2014 우승 '''
+  - [2014년](../Page/2014년.md "wikilink") [2월](../Page/2월.md "wikilink") 2013 대한민국 e-스포츠 대상 리그 오브 레전드 부문 최우수 e-스포츠 팀
+  - [2014년](../Page/2014년.md "wikilink") [2월](../Page/2월.md "wikilink") 2013 대한민국 e-스포츠 대상 **대상**
+  - [2014년](../Page/2014년.md "wikilink") [5월](../Page/5월.md "wikilink") **2014 리그 오브 레전드 올스타 인비테이셔널 우승**
+  - [2014년](../Page/2014년.md "wikilink") [8월](../Page/8월.md "wikilink") *' IT ENJOY NLB Summer 2014 우승*'
+
+#### SK텔레콤 T1
+
+  - [2014년](../Page/2014년.md "wikilink") [5월](../Page/5월.md "wikilink") SK텔레콤 LTE-A LoL 마스터즈 2014 준우승
+  - [2015년](../Page/2015년.md "wikilink") [4월](../Page/4월.md "wikilink") **2015 SBENU 리그 오브 레전드 챔피언스 코리아 스프링 우승**
+  - [2015년](../Page/2015년.md "wikilink") [5월](../Page/5월.md "wikilink") [리그 오브 레전드 미드 시즌 인비테이셔널 2015](../Page/리그_오브_레전드_미드_시즌_인비테이셔널_2015.md "wikilink")(MSI) 준우승
+  - [2015년](../Page/2015년.md "wikilink") [8월](../Page/8월.md "wikilink") **2015 SBENU 리그 오브 레전드 챔피언스 코리아 서머 스플릿 우승**
+  - [2015년](../Page/2015년.md "wikilink") [10월](../Page/10월.md "wikilink") **[리그 오브 레전드 월드 챔피언십 2015](../Page/리그_오브_레전드_월드_챔피언십_2015.md "wikilink") 우승**
+  - [2015년](../Page/2015년.md "wikilink") [11월](../Page/11월.md "wikilink") [네이버 2015 LoL KeSPA컵](../Page/네이버_2015_LoL_KeSPA컵.md "wikilink") 4강
+  - [2015년](../Page/2015년.md "wikilink") [11월](../Page/11월.md "wikilink") 2015 대한민국 e-스포츠 대상 리그 오브 레전드 부문 최우수 e-스포츠 팀
+  - [2016년](../Page/2016년.md "wikilink") [3월](../Page/3월.md "wikilink") **IEM10 카토비체 리그 오브 레전드 월드 챔피언십 우승**
+  - [2016년](../Page/2016년.md "wikilink") [4월](../Page/4월.md "wikilink") **2016 롯데-꼬깔콘 리그 오브 레전드 챔피언스 코리아 스프링 스플릿 우승**
+  - [2016년](../Page/2016년.md "wikilink") [5월](../Page/5월.md "wikilink") **[리그 오브 레전드 미드 시즌 인비테이셔널 2016](../Page/리그_오브_레전드_미드_시즌_인비테이셔널_2016.md "wikilink")(MSI) 우승**
+  - [2016년](../Page/2016년.md "wikilink") [8월](../Page/8월.md "wikilink") 2016 코카콜라-제로 리그 오브 레전드 챔피언스 코리아 서머 스플릿 3위
+  - [2016년](../Page/2016년.md "wikilink") [10월](../Page/10월.md "wikilink") '''[리그 오브 레전드 월드 챔피언십 2016](../Page/리그_오브_레전드_월드_챔피언십_2016.md "wikilink") 우승 '''
+  - [2016년](../Page/2016년.md "wikilink") [11월](../Page/11월.md "wikilink") [2016 LoL KeSPA컵](../Page/2016_LoL_KeSPA컵.md "wikilink") 4강
+  - [2016년](../Page/2016년.md "wikilink") [11월](../Page/11월.md "wikilink") 2016 대한민국 e-스포츠 대상 리그 오브 레전드 부문 최우수 e-스포츠 팀
+  - [2017년](../Page/2017년.md "wikilink") [4월](../Page/4월.md "wikilink") **2017 리그 오브 레전드 챔피언스 코리아 스프링 스플릿 우승**
+  - [2017년](../Page/2017년.md "wikilink") [5월](../Page/5월.md "wikilink") **[리그 오브 레전드 미드 시즌 인비테이셔널 2017](../Page/리그_오브_레전드_미드_시즌_인비테이셔널_2017.md "wikilink")(MSI) 우승**
+  - [2017년](../Page/2017년.md "wikilink") [7월](../Page/7월.md "wikilink") 2017 리그 오브 레전드 리프트 라이벌즈 준우승(LCK 스프링 스플릿 1위 자격 출전)
+  - [2017년](../Page/2017년.md "wikilink") [8월](../Page/8월.md "wikilink") 2017 리그 오브 레전드 챔피언스 코리아 서머 스플릿 준우승
+  - [2017년](../Page/2017년.md "wikilink") [11월](../Page/11월.md "wikilink") [리그 오브 레전드 월드 챔피언십 2017](../Page/리그_오브_레전드_월드_챔피언십_2017.md "wikilink") 준우승
+  - [2017년](../Page/2017년.md "wikilink") [12월](../Page/12월.md "wikilink") [2017 LoL KeSPA컵](https://ko.wikipedia.org/wiki/2017_LoL_KeSPA컵 "wikilink") 4강
+  - [2019년](../Page/2019년.md "wikilink") [4월](../Page/4월.md "wikilink") **2019 스무살 우리 리그 오브 레전드 챔피언스 코리아 스프링 스플릿 우승**
+  - [2019년](../Page/2019년.md "wikilink") [5월](../Page/5월.md "wikilink") [리그 오브 레전드 미드 시즌 인비테이셔널 2019](../Page/리그_오브_레전드_미드_시즌_인비테이셔널_2019.md "wikilink")(MSI) 4강
+  - [2019년](../Page/2019년.md "wikilink") [7월](../Page/7월.md "wikilink") **2019 리프트 라이벌즈 우승 (LCK 1위팀 자격)**
+  - [2019년](../Page/2019년.md "wikilink") [8월](../Page/8월.md "wikilink") **2019 우리은행 리그 오브 레전드 챔피언스 코리아 서머 스플릿 우승**
+  - [2019년](../Page/2019년.md "wikilink") [11월](../Page/11월.md "wikilink") [리그 오브 레전드 월드 챔피언십 2019](../Page/리그_오브_레전드_월드_챔피언십_2019.md "wikilink") 4강
+
+#### T1
+
+  - [2020년](../Page/2020년.md "wikilink") [1월](../Page/1월.md "wikilink") [2019 LoL KeSPA컵](https://ko.wikipedia.org/wiki/2019_LoL_KeSPA컵 "wikilink") 4강
+  - [2020년](../Page/2020년.md "wikilink") [1월](../Page/1월.md "wikilink") 2019 e스포츠 명예의 전당 헌액식 올해의 e스포츠 팀
+  - [2020년](../Page/2020년.md "wikilink") [4월](../Page/4월.md "wikilink") **2020 우리은행 리그 오브 레전드 챔피언스 코리아 스프링 스플릿 우승**
+  - [2020년](../Page/2020년.md "wikilink") [5월](../Page/5월.md "wikilink") 2020 미드 시즌 컵 조별리그
+
+2020년까지 최종 성적 : **LCK 9회 우승, 롤드컵 3회 우승, MSI 2회 우승, 리프트 라이벌즈 1회 우승, 올스타 1회 우승, IEM 1회 우승, NLB 1회 우승**
+
+#### T1 루키즈 (2군)
+
+  - 2020 로지텍G 루키 인비테이셔널 준우승
+
+### 배틀그라운드
+
+  - [2018년](../Page/2018년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") SK텔레콤 T1 배틀그라운드 프로게임단 공식 창단
+  - [2019년](../Page/2019년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") 2019 핫식스 PUBG 코리아 리그 페이즈 3 준우승
+  - [2019년](../Page/2019년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink") PUBG 글로벌 챔피언십 2019 11위
+  - [2020년](../Page/2020년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink") 2020 PUBG 글로벌 시리즈:베를린 한국예선 5위
+
+## 주요 성적
+
+### 스타크래프트
+
+### [프로리그](../Page/스타크래프트_프로리그.md "wikilink")
+
+### 팀리그
+
+| 연도        | 스폰서                                                                         | 경기수     | 개인승 | 개인패   | 승률    | 올킬수 | 기타 |
+| --------- | --------------------------------------------------------------------------- | ------- | --- | ----- | ----- | --- | -- |
+| 2003      | [계몽사](../Page/계몽사_KPGA_팀리그.md "wikilink")                                   | *예선 탈락* |     |       |       |     |    |
+| 2003      | [라이프존](../Page/라이프존_KPGA_팀리그.md "wikilink")                                 | *예선 탈락* |     |       |       |     |    |
+| 2003-2004 | [LG IBM](../Page/LG_IBM_MBC게임_팀리그.md "wikilink")                            | 33      | 18  | 15    | 54.5% | 1   |    |
+| 2004      | [투싼](../Page/현대자동차_투싼_MBC게임_팀리그.md "wikilink")                              | 30      | 19  | 11    | 63.3% | 1   |    |
+| 2004-2005 | [MBC MOVIES](https://ko.wikipedia.org/wiki/MBC_MOVIES_MBC게임_팀리그 "wikilink") | 31      | 14  | 17    | 45.1% | 1   |    |
+| **통산성적**  | 94                                                                          | 51      | 43  | 54.2% | 3     |     |    |
+
+### 리그 오브 레전드
+
+### SK 텔레콤 T1 1팀
+
+  - 기존 SK텔레콤 T1 1팀은 대한민국 챌린저 서킷 규칙에 따라 [진에어 그린윙스](../Page/진에어_그린윙스.md "wikilink") 팰컨스팀으로 이어진다. 기존 SK텔레콤 T1 1팀의 기록은 [진에어 그린윙스](../Page/진에어_그린윙스.md "wikilink") 항목 참조.
+
+### SK 텔레콤 T1
+
+#### 리그 오브 레전드 월드 챔피언십
+
+| Year | Event                                              | Season                                                  | Place                           | Last match        | Result |
+| ---- | -------------------------------------------------- | ------------------------------------------------------- | ------------------------------- | ----------------- | ------ |
+| 2013 | League of Legends World Championship               | League of Legends: Season 3 World Championship|Season 3 | style="background:\#F8E725 | 우승 | SKT v. Royal Club | 3–0    |
+| 2015 | 2015 League of Legends World Championship|Season 5 | style="background:\#F8E725 | 우승                         | SKT v. Koo Tigers               | 3–1               |        |
+| 2016 | 2016 League of Legends World Championship|Season 6 | style="background:\#F8E725 | 우승                         | SKT v. Samsung Galaxy           | 3–2               |        |
+| 2017 | 2017 League of Legends World Championship|Season 7 | style="background:\#BEBABF | 준우승                        | SKT v. Samsung Galaxy           | 0–3               |        |
+| 2019 | 2019 League of Legends World Championship|Season 9 | style="background:\#c96 | 3위-4위                         | SKT v. G2 Esports               | 1–3               |        |
+|      |                                                    |                                                         |                                 |                   |        |
+
+#### 미드 시즌 인비테이셔널
+
+| Year | Event                           | Place                            | Last match | Result |
+| ---- | ------------------------------- | -------------------------------- | ---------- | ------ |
+| 2015 | Mid-Season Invitational         | style="background:\#BEBABF | 준우승 | SKT v. EDG | 2–3    |
+| 2016 | style="background:\#F8E725 | 우승 | SKT v. CLG                       | 3–0        |        |
+| 2017 | style="background:\#F8E725 | 우승 | SKT v. G2 Esports                | 3–1        |        |
+| 2019 | style="background:\#c96 | 3위-4위 | SKT v. G2 Esports                | 2-3        |        |
+|      |                                 |                                  |            |        |
+
+#### IEM – World Championship
+
+| Year | Event | Season   | Place                           | Last match    | Result |
+| ---- | ----- | -------- | ------------------------------- | ------------- | ------ |
+| 2016 | IEM   | Season X | style="background:\#F8E725 | 우승 | SKT v. Fnatic | 3–0    |
+|      |       |          |                                 |               |        |
+
+#### 리그 오브 레전드 챔피언스 코리아
+
+  - **Split**
+
+| Year | Event                           | Place                           | Result (W/L) |
+| ---- | ------------------------------- | ------------------------------- | ------------ |
+| 2015 | LCK Spring                      | style="background:\#BEBABF | 2위 | 11–3         |
+| 2016 | style="background:\#c96 | 3위    | 12–6                            |              |
+| 2017 | 1위                              | 16–2                            |              |
+| 2018 | 4위                              | 9–9                             |              |
+| 2019 | style="background:\#BEBABF | 2위 | 14–4                            |              |
+| 2020 | style="background:\#BEBABF | 2위 | 14–4                            |              |
+|      |                                 |                                 |              |
+
+| Year | Event                           | Place                           | Result (W/L) |
+| ---- | ------------------------------- | ------------------------------- | ------------ |
+| 2015 | LCK Summer                      | style="background:\#F8E725 | 1위 | 17–1         |
+| 2016 | style="background:\#BEBABF | 2위 | 13–5                            |              |
+| 2017 | 4위                              | 13–5                            |              |
+| 2018 | 7위                              | 8–10                            |              |
+| 2019 | 4위                              | 11–7                            |              |
+|      |                                 |                                 |              |
+
+  - **Playoffs**
+
+| Year | Event                           | Place                                                                    | Last match       | Result |
+| ---- | ------------------------------- | ------------------------------------------------------------------------ | ---------------- | ------ |
+| 2015 | LCK Spring                      | style="background:\#F8E725 | 우승                                          | SKT v. GE Tigers | 3–0    |
+| 2016 | style="background:\#F8E725 | 우승 | SKT v. ROX Tigers                                                        | 3–1              |        |
+| 2017 | 우승                              | SKT v. [KT Rolster](https://ko.wikipedia.org/wiki/KT_Rolster "wikilink") | 3–0              |        |
+| 2018 | 4위                              | SKT v. KT Rolster                                                        | 1–3              |        |
+| 2019 | style="background:\#F8E725 | 우승 | SKT v. Griffin                                                           | 3–0              |        |
+| 2020 | style="background:\#F8E725 | 우승 | T1 v. Gen.G                                                              | 3-0              |        |
+
+| Year | Event                            | Place                           | Last match                                                               | Result |
+| ---- | -------------------------------- | ------------------------------- | ------------------------------------------------------------------------ | ------ |
+| 2015 | LCK Summer                       | style="background:\#F8E725 | 우승 | SKT v. [KT Rolster](https://ko.wikipedia.org/wiki/KT_Rolster "wikilink") | 3–0    |
+| 2016 | style="background:\#c96 | 3위     | SKT v. KT Rolster               | 2–3                                                                      |        |
+| 2017 | style="background:\#BEBABF | 준우승 | SKT v. Longzhu Gaming           | 1–3                                                                      |        |
+| 2019 | style="background:\#F8E725 | 우승  | SKT v. Griffin                  | 3–1                                                                      |        |
+
+#### KeSPA Cup
+
+| Year | Event                           | Place                           | Last match  | Result |
+| ---- | ------------------------------- | ------------------------------- | ----------- | ------ |
+| 2015 | KeSPA Cup                       | style="background:\#c96 | 3위–4위 | SKT v. Ever | 0–2    |
+| 2016 | style="background:\#c96 | 3위–4위 | SKT v. ROX Tigers               | 0–2         |        |
+| 2017 | style="background:\#c96 | 3위–4위 | SKT v. Longzhu Gaming           | 0–2         |        |
+| 2018 | 5위–8위                           | SKT v. Damwon Gaming            | 1–2         |        |
+| 2019 | style="background:\#c96 | 3위–4위 | SKT v. Sandbox Gaming           | 1–3         |        |
+|      |                                 |                                 |             |        |
+
+#### Rift Rivals
+
+| Year | Event            | Place                            | Last match | Result |
+| ---- | ---------------- | -------------------------------- | ---------- | ------ |
+| 2017 | Rift Rivals 2017 | style="background:\#BEBABF | 준우승 | LCK v. LPL | 1–3    |
+| 2018 | Rift Rivals 2018 | style="background:\#BEBABF | 준우승 | LCK v. LPL | 2–3    |
+| 2019 | Rift Rivals 2019 | style="background:\#F8E725 | 우승  | LCK v. LPL | 3–1    |
+
+#### Others
+
+| Year                              | Event                            | Place                                                                            | Last match                                                        | Result |
+| --------------------------------- | -------------------------------- | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------ |
+| 2013                              | 2013 WCG Korea Qualifiers        | style="background:\#c96 | 3위                                                     | SKT v. Samsung Galaxy Blue                                        | 0–2    |
+| 2013 월드 챔피언십 선발전                  | style="background:\#F9E825 | 1위  | SKT v. [KT Rolster Bullets](https://ko.wikipedia.org/wiki/KT_Rolster "wikilink") | 3–1                                                               |        |
+| HOT6iX Champions Summer 2013      | style="background:\#F8E725 | 우승  | 3–2                                                                              |                                                                   |        |
+| AMD-INVEN GamExperience           | style="background:\#c96 | 3위     | SKT v. MVP Ozone                                                                 | 0–2                                                               |        |
+| OLYMPUS Champions Spring 2013     | style="background:\#c96 | 3위     | SKT v. CJ Entus Frost                                                            | 3–0                                                               |        |
+| 2014                              | 2014 월드 챔피언십 선발전                 | style="background:\#BEBABF | 2위                                                  | SKT v. Najin White Shield                                         | 1–3    |
+| ITENJOY NLB Summer 2014           | style="background:\#F8E725 | 우승  | SKT v. Najin Black Sword                                                         | 3–0                                                               |        |
+| HOT6iX Champions Summer 2014      | 5위-8위                            | SKT v. Samsung Galaxy White                                                      | 1–3                                                               |        |
+| bigfile NLB Spring 2014           | style="background:\#c96 | 3위     | SKT v. KT Rolster Bullets                                                        | 3–0                                                               |        |
+| All-Star 2014                     | style="background:\#F8E725 | 우승  | SKT v. OMG                                                                       | 3–0                                                               |        |
+| SK Telecom LTE-A LoL Masters 2014 | style="background:\#BEBABF | 준우승 | SKT v. Samsung Galaxy                                                            | 0–3                                                               |        |
+| HOT6iX Champions Spring 2014      | 5위                               | SKT v. Samsung Galaxy Ozone                                                      | 1–3                                                               |        |
+| PANDORA.TV Champions Winter       | style="background:\#F8E725 | 우승  | 3–0                                                                              |                                                                   |        |
+|                                   |                                  |                                                                                  |                                                                   |        |
+| 2020                              | Mid-Season Cup 2020              | 7위–8위                                                                            | T1 v. [TES](https://ko.wikipedia.org/wiki/Top_Esports "wikilink") | 0–1    |
+|                                   |                                  |                                                                                  |                                                                   |        |
+
+## 역대 팀 명칭
+
+  - 스타크래프트
+
+<!-- end list -->
+
+  - 동양 오리온(동양 Orion) → 4U(For Union) → SK텔레콤 T1
+
+<!-- end list -->
+
+  - 리그 오브 레전드
+
+<!-- end list -->
+
+  - SK텔레콤 T1\[1\] → SK텔레콤 T1 1팀 → SK텔레콤 T1 S → SK텔레콤 T1 (1팀 통합)
+  - SK텔레콤 T1 2팀 → SK텔레콤 T1 → SK텔레콤 T1 K → SK텔레콤 T1 (1팀 통합)
+  - SK텔레콤 T1 → T1
+
+## 역대 팀 감독
+
+  - 스타크래프트, 스타크래프트 II
+
+<!-- end list -->
+
+  - 1대 감독 : [주훈](../Page/주훈.md "wikilink") (재임 기간 : [2002년](../Page/2002년.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") 1월)
+  - 2대 감독 : [박용운](../Page/박용운_\(1977년\).md "wikilink") (재임 기간 : [2008년](../Page/2008년.md "wikilink") 2월 \~ [2012년](../Page/2012년.md "wikilink") 10월)
+      - 수석코치 : [임요환](../Page/임요환.md "wikilink") (재임 기간 : [2012년](../Page/2012년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink"))
+  - 3대 감독 : 임요환 (재임기간 : [2013년](../Page/2013년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink"))
+      - 수석코치 : [최연성](../Page/최연성.md "wikilink") (재임 기간 : [2013년](../Page/2013년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink"))
+  - 4대 감독 : 최연성 (재임기간 : [2013년](../Page/2013년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink"))
+
+<!-- end list -->
+
+  - 리그 오브 레전드
+
+<!-- end list -->
+
+  - 1대 감독 : 최병훈 (재임기간 : [2013년](../Page/2013년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink"))
+  - 2대 감독 : [김정균](../Page/김정균_\(1985년\).md "wikilink") (재임기간 : [2017년](../Page/2017년.md "wikilink") [11월 24일](../Page/11월_24일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink"))
+  - 3대 감독 : 김정수 (재임기간 : [2019년](../Page/2019년.md "wikilink") [11월 26일](../Page/11월_26일.md "wikilink") \~ 현재)
+
+<!-- end list -->
+
+  - 배틀그라운드
+
+<!-- end list -->
+
+  - 1대 감독 : 최병훈 ([2018년](../Page/2018년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") \~ 현재)
+
+## 소속 선수
+
+**리그 오브 레전드**
+
+  - 감독 : 김정수
+  - 코치 : 임혜성, 김지환
+
+| 이름                                                            | 소환사명        | 포지션   |
+| ------------------------------------------------------------- | ----------- | ----- |
+| 김강희                                                           | T1 Roach    | 탑     |
+| 김창동                                                           | T1 Canna    | 탑     |
+| 문우찬                                                           | T1 Cuzz     | 정글    |
+| 최엘림                                                           | T1 Ellim    | 정글    |
+| [이상혁](https://ko.wikipedia.org/wiki/이상혁_\(프로게이머\) "wikilink") | T1 Faker    | 미드    |
+| 이주현                                                           | T1 Clozer   | 미드    |
+| 박진성                                                           | T1 Teddy    | AD 캐리 |
+| 이민형                                                           | T1 Gumayusi | AD 캐리 |
+| 이상호                                                           | T1 Effort   | 서포터   |
+| 최원영                                                           | T1 Kuri     | 서포터   |
+|                                                               |             |       |
+
+**배틀그라운드**
+
+  - 감독 : 최병훈
+  - 코치 : 최정진
+
+| 이름  | 아이디           |
+| --- | ------------- |
+| 임광현 | SKT Akad      |
+| 정지훈 | SKT Adder     |
+| 최승영 | SKT JeffLocka |
+| 안강현 | SKT HelleN    |
+| 이하늘 | SKT Treasure  |
+
+**하스스톤**
+
+| 이름        | 아이디         |
+| --------- | ----------- |
+| 김정수       | Surrender   |
+| 크리스 차코풀로스 | Fenomeno    |
+| 존 웨스트버그   | Orange      |
+| 조지 웹      | BoarControl |
+
+**포트나이트**
+
+| 이름      | 아이디     |
+| ------- | ------- |
+| 박진규     | Quickss |
+| 안민철     | Medusa  |
+| 서우현     | Arius   |
+| 이희근     | Psangae |
+| 알렉스 콜리치 | SOFA    |
+| 코디 풀머   | Fulmer  |
+
+**에이펙스 레전드**
+
+| 이름     | 아이디  |
+| ------ | ---- |
+| 헤이딘 고든 | Zerg |
+| 브랜던 젠슨 | BCJ  |
+| 커티스 갤로 | Kurt |
+
+**스매시브라더스**
+
+| 이름      | 아이디        |
+| ------- | ---------- |
+| 제이슨 베이츠 | ANTi       |
+| 래리 홀랜드  | Larry Lurr |
+
+**도타 2**
+
+| 이름          | 아이디          |
+| ----------- | ------------ |
+| 크리스천 존 애버솔로 | Skadilicious |
+| 이재형         | Xemistry     |
+| 이상돈         | Forev        |
+| 김용민         | Febby        |
+| 요한 오스트룀     | Pieliedie    |
+
+**오버워치**
+
+  - 감독 : [정원협](https://ko.wikipedia.org/wiki/정원협 "wikilink")
+  - 코치 : 함정민
+
+| 이름  | 아이디     | 포지션     |
+| --- | ------- | ------- |
+| 안예승 | Perfact | DPS     |
+| 이호성 | Na1st   | DPS     |
+| 한민규 | TTACKER | DPS     |
+| 임지헌 | ION     | TANK    |
+| 홍은택 | Sven    | TANK    |
+| 권영훈 | FiXa    | SUPPORT |
+| 김진  | Physics | SUPPORT |
+|     |         |         |
+
+## 주요 종목
+
+  - [리그 오브 레전드](../Page/리그_오브_레전드.md "wikilink")
+  - [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink")
+  - [포트나이트](../Page/포트나이트.md "wikilink")
+  - APEX4:레전드
+  - [스매시브라더스](../Page/슈퍼_스매시브라더스.md "wikilink")
+  - [오버워치](../Page/오버워치.md "wikilink")
+  - [FIFA 온라인 4](../Page/FIFA_온라인_4.md "wikilink")
+
+## 우승 기록
+
+#### 스타크래프트, 스타크래프트 II
+
+  - 2003 KTF EVER컵 프로리그
+  - 2004 LG IBM MBC게임 팀리그
+  - 2004 투싼배 MBC게임 팀리그
+  - 2005 SKY 프로리그 전기리그
+  - 2005 SKY 프로리그 후기리그
+  - 2005 SKY 프로리그 그랜드 파이널
+  - 2006 SKY 프로리그 전기리그
+  - 신한은행 프로리그 08-09
+  - 경남-STX컵 마스터즈 2009
+  - 경남-STX컵 마스터즈 2010
+  - 신한은행 위너스리그 10-11
+  - 경남-STX컵 마스터즈 2011
+  - SK플래닛 스타크래프트 프로리그 시즌1
+  - SK텔레콤 스타크래프트 II 프로리그 2014 3라운드
+  - SK텔레콤 스타크래프트 II 프로리그 2015 1라운드
+  - SK텔레콤 스타크래프트 II 프로리그 2015 3라운드
+  - SK텔레콤 스타크래프트 II 프로리그 2015
+  - SK텔레콤 스타크래프트 II 프로리그 2016 1라운드
+
+#### 스페셜포스
+
+  - 생각대로T SF프로리그 2009 2nd
+
+#### 리그 오브 레전드
+
+  - 핫식스 리그 오브 레전드 챔피언스 서머 2013
+  - 리그 오브 레전드 월드 챔피언십 시즌 3
+  - PANDORA TV 리그 오브 레전드 챔피언스 코리아 윈터 2013-2014
+  - 리그 오브 레전드 올스타 인비테이셔널 2014
+  - IT ENJOY NLB Summer 2014
+  - 2015 SBENU 리그 오브 레전드 챔피언스 코리아 스프링
+  - 2015 SBENU 리그 오브 레전드 챔피언스 코리아 서머
+  - 리그 오브 레전드 월드 챔피언십 시즌 2015
+  - IEM10 월드 챔피언십 2016
+  - 롯데-꼬깔콘 리그 오브 레전드 챔피언스 코리아 스프링 2016
+  - 미드 시즌 인비테이셔널 2016
+  - 리그 오브 레전드 월드 챔피언십 시즌 2016
+  - 리그 오브 레전드 챔피언스 코리아 스프링 2017
+  - 미드 시즌 인비테이셔널 2017
+  - 스무살우리 리그 오브 레전드 챔피언스 코리아 스프링 2019
+  - 리프트 라이벌즈 2019
+  - 우리은행 리그 오브 레전드 챔피언스 코리아 서머 2019
+  - 우리은행 리그 오브 레전드 챔피언스 코리아 스프링 2020
+
+#### 배틀그라운드
+
+  - 2020 펍지 콘티넨탈 시리즈2 한국 대표 선발전
+
+## 같이 보기
+
+  - [SK그룹](../Page/SK그룹.md "wikilink")
+  - [SK텔레콤](../Page/SK텔레콤.md "wikilink")
+  - [4U](https://ko.wikipedia.org/wiki/4U "wikilink")
+  - [4Union](https://ko.wikipedia.org/wiki/4Union "wikilink")
+  - [컴캐스트](../Page/컴캐스트.md "wikilink")
+
+## 각주
+
+<references/>
+
+## 외부 링크
+
+  - [SK텔레콤 CS T1 공식 홈페이지](http://t1.gg/)
+  - [SK텔레콤 T1 트위터](https://twitter.com/T1)
+
+[분류:2002년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:2002년_설립된_스포츠_클럽 "wikilink") [분류:해체한 스타크래프트 II 프로게임단](https://ko.wikipedia.org/wiki/분류:해체한_스타크래프트_II_프로게임단 "wikilink") [분류:리그 오브 레전드 프로게임단](https://ko.wikipedia.org/wiki/분류:리그_오브_레전드_프로게임단 "wikilink") [분류:하스스톤 프로게임단](https://ko.wikipedia.org/wiki/분류:하스스톤_프로게임단 "wikilink") [분류:SK그룹](https://ko.wikipedia.org/wiki/분류:SK그룹 "wikilink") [분류:SK텔레콤](https://ko.wikipedia.org/wiki/분류:SK텔레콤 "wikilink") [분류:SK스포츠](https://ko.wikipedia.org/wiki/분류:SK스포츠 "wikilink") [SK텔레콤_T1](https://ko.wikipedia.org/wiki/분류:SK텔레콤_T1 "wikilink") [분류:SK텔레콤 CS T1](https://ko.wikipedia.org/wiki/분류:SK텔레콤_CS_T1 "wikilink")
+
+1.  리그 오브 레전드 챔피언스 스프링 2013 시즌에 SK텔레콤 T1 2팀이 출범하기 전까지는 SK텔레콤 T1 단일팀 체제였다.

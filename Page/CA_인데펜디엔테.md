@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CA 인데펜디엔테](https://ko.wikipedia.org/wiki/CA_인데펜디엔테).
 
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:Estádio_Libertadores_da_América_2.png "wikilink") 인데펜디엔테 팬들\]\]
+[thumb의](https://ko.wikipedia.org/wiki/파일:Estádio_Libertadores_da_América_2.png "wikilink") 인데펜디엔테 팬들\]\] [thumb](https://ko.wikipedia.org/wiki/파일:Estadio_Libertadores_de_America_2014.JPG "wikilink")
 
 **클루브 아틀레티코 인데펜디엔테**()는 [아르헨티나](../Page/아르헨티나.md "wikilink") [부에노스아이레스주](../Page/부에노스아이레스주.md "wikilink")의 [아베야네다](../Page/아베야네다.md "wikilink") ()를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. [아르헨티나 프리메라 디비시온에](../Page/아르헨티나_프리메라_디비시온.md "wikilink") 속해 있다.
 

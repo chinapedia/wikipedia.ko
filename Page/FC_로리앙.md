@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [FC 로리앙](https://ko.wikipedia.org/wiki/FC_로리앙).
 
 
-**FC 로리앙**(Football Club Lorient)은 브르타뉴 [로리앙](../Page/로리앙.md "wikilink")을 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다.
-
-이 축구단은 [1926년](../Page/1926년.md "wikilink") 창단되었다.
+**FC 로리앙**(Football Club Lorient-Bretagne Sud; )은 [브르타뉴의](../Page/브르타뉴반도.md "wikilink") [로리앙](../Page/로리앙.md "wikilink")을 연고로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [프로 축구](../Page/프로_축구.md "wikilink") 클럽으로 [1926년](../Page/1926년.md "wikilink")에 창단되었다.
 
 [이상윤](https://ko.wikipedia.org/wiki/이상윤 "wikilink")이 이곳으로 임대되어 5경기 출장했었다.
 

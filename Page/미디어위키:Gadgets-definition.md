@@ -8,9 +8,10 @@
   - directcommons\[ResourceLoader|dependencies=mediawiki.util|default\]|direct-commons.js
   - Navigation_popups\[ResourceLoader|dependencies=mediawiki.user,mediawiki.util\]|popups.js|popups-strings-ko.js|navpop.css
   - ReferenceTooltips\[ResourceLoader|default\]|ReferenceTooltips-ko.js|ReferenceTooltips.css
-
-<!-- end list -->
-
+  - Twinkle\[ResourceLoader|dependencies=ext.gadget.morebits,ext.gadget.select2,mediawiki.api,mediawiki.language|rights=autoconfirmed|type=general|peers=Twinkle-pagestyles\]|Twinkle.js|Twinkle.css|twinklearv.js|twinklewarn.js|twinkleblock.js|friendlywelcome.js|friendlyshared.js|friendlytalkback.js|twinklespeedy.js|twinkleprod.js|twinklexfd.js|twinkleimage.js|twinkleprotect.js|friendlytag.js|twinklediff.js|twinkleunlink.js|twinklefluff.js|twinkledeprod.js|twinklebatchdelete.js|twinklebatchprotect.js|twinklebatchundelete.js|twinkleconfig.js
+  - morebits\[ResourceLoader|dependencies=mediawiki.user,mediawiki.util,mediawiki.Title,jquery.ui|hidden\]|morebits.js|morebits.css
+  - Twinkle-pagestyles\[hidden|skins=vector\]|Twinkle-pagestyles.css
+  - select2\[ResourceLoader|hidden\]|select2.min.js|select2.min.css
   - modrollback\[ResourceLoader|rights=rollback\]|modrollback.js
   - GoogleTrans\[ResourceLoader\]|GoogleTrans.js
   - removeAccessKeys\[ResourceLoader|dependencies=mediawiki.util\]|removeAccessKeys.js
@@ -55,5 +56,7 @@
   - CollapsibleSidebar\[ResourceLoader|default|targets=desktop\]|CollapsibleSidebar.js
   - UrlShortener\[ResourceLoader\]|UrlShortener.js
   - scrollUpButton\[ResourceLoader|default\]|scrollUpButton.js
+  - CategoryTop\[ResourceLoader\]|CategoryTop.js
+  - RecentChangesSidebar\[ResourceLoader|targets=desktop,mobile\]|RecentChangesSidebar.js
 
 ## library-gadgets

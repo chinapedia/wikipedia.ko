@@ -877,7 +877,12 @@ t파올로 타바넬리</p></td>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/다비데_니콜라" title="wikilink">다비데 니콜라</a></p></td>
 <td></td>
-<td><p>2019-</p></td>
+<td><p>2019-2020</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/롤란도_마란.md" title="wikilink">롤란도 마란</a></p></td>
+<td></td>
+<td><p>2020-</p></td>
 </tr>
 </tbody>
 </table></td>

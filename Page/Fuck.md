@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Fuck](https://ko.wikipedia.org/wiki/Fuck).
 
 
-**Fuck**(퍽)은 직역하면 [성교](../Page/성교.md "wikilink")하는 행위를 가리키지만, 주로 의미를 강조하거나 불쾌한 상황에 많이 쓰이며, 일반적으로는 불경스럽게 취급되는 [영어](../Page/영어.md "wikilink") 낱말이다. [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")로 취급할 수도 있으나 어떠한 것을 강조하거나 부정적으로 묘사하는 데 사용되기도 한다. 전세계적으로 통용되는 낱말이며, 보통 비난과 공격의 목적으로 사용되지만 친한 사람끼리나 특정 상황에서는 공격성이 낮은, 더러는 친밀한 의미로 흔히 쓰인다.
+**Fuck**(퍽)은 [직역](../Page/직역.md "wikilink")하면 [성교](../Page/성교.md "wikilink")하는 행위를 가리키지만, 주로 의미를 강조하거나 불쾌한 상황에 많이 쓰이며, 일반적으로는 불경스럽게 취급되는 [영어](../Page/영어.md "wikilink") 낱말이다. [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")로 취급할 수도 있으나 어떠한 것을 강조하거나 부정적으로 묘사하는 데 사용되기도 한다. 전세계적으로 통용되는 낱말이며, 보통 비난과 공격의 목적으로 사용되지만 친한 사람끼리나 특정 상황에서는 공격성이 낮은, 더러는 친밀한 의미로 흔히 쓰인다.
 
 ## 공격성
 
-[섬네일를](https://ko.wikipedia.org/wiki/파일:Middle_finger.JPG "wikilink") 형상화함으로써 표현하기도 한다.\]\] **Fuck**이라는 낱말은 사회 환경에서 역겨운 것으로 간주할 수 있지만 비공식적인 환경에서 일상화되어 있기도 하다. Fuck you(퍼크유,퍽유)라고 말하면서 중지를 치켜세우는 경우가 많지만, 굳이 말을 하지 않고 가운뎃 손가락을 올리기도 한다. 또한 가운뎃 손가락을 치켜세우는 행동은, 손바닥을 보이면 욕이 아니지만 손등을 보이면 욕이다. 비영어권 문화에서는 이 낱말을 비속어로 여길 수 있으나 일반적으로 영어권 문화에서는 그리 자주 검열되지는 않는다. [Canadian Press에서는](https://ko.wikipedia.org/wiki/:en:Canadian_Press "wikilink") 이 낱말이 일상화되어 있다고 적혀 있으며 *Canadian Press Caps*와 *Spelling guide*에 사용할 때, 조언을 곁들여놓고 있다.\[1\]
+[섬네일를](https://ko.wikipedia.org/wiki/파일:Middle_finger.JPG "wikilink") 형상화함으로써 표현하기도 한다.\]\] **Fuck**이라는 낱말은 사회 환경에서 역겨운 것으로 간주할 수 있지만 비공식적인 환경에서 일상화되어 있기도 하다. Fuck you(퍼크유,퍽유)라고 말하면서 중지를 치켜세우는 경우가 많지만, 굳이 말을 하지 않고 가운뎃 손가락을 올리기도 한다. 또한 가운뎃 손가락을 치켜세우는 행동은, 손바닥을 보이면 욕이 아니지만 손등을 보이면 욕이다. 비영어권 문화에서는 이 낱말을 비속어로 여길 수 있으나 일반적으로 영어권 문화에서는 그리 자주 검열되지는 않는다. [Canadian Press에서는](https://ko.wikipedia.org/wiki/:en:The_Canadian_Press "wikilink") 이 낱말이 일상화되어 있다고 적혀 있으며 *Canadian Press Caps*와 *Spelling guide*에 사용할 때, 조언을 곁들여놓고 있다.\[1\]
 
 ## 역사
 
@@ -80,10 +80,12 @@ mierda, cabron
 
 ### 왓더퍽
 
-**왓더퍽**(What The Fuck)은 Fuck과 비슷한 의미로 쓰이는 영어의 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")로 해석된다. 하지만 [감탄사](https://ko.wikipedia.org/wiki/감탄사 "wikilink")로 쓰여 씨발, 좀 더 좋게 순화시키면 [은어](https://ko.wikipedia.org/wiki/은어 "wikilink")로 '개쩐다'의 뜻으로 해석될 수 있다. 줄여서 WTF라고 하며, [소셜 네트워크 서비스](../Page/소셜_네트워크_서비스.md "wikilink")(SNS) [트위터](../Page/트위터.md "wikilink") 상에서 쓰이는 경우를 심심찮게 볼 수 있다.
+**왓더퍽**(What The Fuck)은 Fuck과 비슷한 의미로 쓰이는 영어의 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")로 해석된다. 하지만 [감탄사](https://ko.wikipedia.org/wiki/감탄사 "wikilink")로 쓰여 시발, 좀 더 좋게 순화시키면 [은어](https://ko.wikipedia.org/wiki/은어 "wikilink")로 '개쩐다'의 뜻으로 해석될 수 있다. 줄여서 WTF라고 하며, [소셜 네트워크 서비스](../Page/소셜_네트워크_서비스.md "wikilink")(SNS) [트위터](../Page/트위터.md "wikilink") 상에서 쓰이는 경우를 심심찮게 볼 수 있다.
 
 ## 같이 보기
 
+  - [ㅗ\#인터넷 은어](https://ko.wikipedia.org/wiki/ㅗ#인터넷_은어 "wikilink")
+  - [가운뎃손가락](https://ko.wikipedia.org/wiki/가운뎃손가락 "wikilink")
   - [가운뎃손가락 (제스처)](https://ko.wikipedia.org/wiki/가운뎃손가락_\(제스처\) "wikilink")
   - [Fucking](../Page/푸킹.md "wikilink") (지명)
 

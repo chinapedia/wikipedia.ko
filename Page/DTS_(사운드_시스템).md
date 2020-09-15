@@ -27,7 +27,7 @@
 
 ## 특징
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:DTS_small_logo.svg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:DTS_\(2020\).svg "wikilink")
 
 초기 DTS는 S/PDIF 및 LaserDisc, [DVD](../Page/DVD.md "wikilink"), [블루레이](https://ko.wikipedia.org/wiki/블루레이 "wikilink") 사양의 일부를 통해 전송할 수있는 DTS Coherent Acoustics (DCA) 코덱의 약어인데, 이 시스템은 별도의 DTS CD-ROM 미디어 없이도 비슷한 코덱을 지원을 하는 소비자용으로 주목을 받았다.
 

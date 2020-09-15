@@ -5,7 +5,7 @@
 
 ## 역사
 
-[ATI](https://ko.wikipedia.org/wiki/ATI "wikilink")는 높은 평가를 받았던 2차원 칩셋 마하 시리즈에 3차원 가속 기능 등을 추가한 그래픽 칩셋 "3D RAGE"를 개발하고 발표하였다. 이 때는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 [윈도 95를](https://ko.wikipedia.org/wiki/윈도_95 "wikilink") 판매하여 컴퓨터를 보급하기 시작했던 시기였으며, RAGE 시리즈는 수많은 컴퓨터 메이커 제품에 채용되었다. ATI는 성능을 높인 [다이렉트X](https://ko.wikipedia.org/wiki/다이렉트X "wikilink") 5를 지원하였던 3D RAGE II, [AGP](https://ko.wikipedia.org/wiki/AGP "wikilink") 인터페이스와 호환되는 3D Rage Pro를 개발하였고, IBM PC 호환 기종 컴퓨터 말고도 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 파워 매킨토시 등에도 탑재되었다. ATI는 그래픽 성능 개선보다 드라이버의 안정성이나 TV 출력 호환 등의 기능에 주력하였기 때문에, [부두나](../Page/3dfx.md "wikilink") [엔비디아](../Page/엔비디아.md "wikilink")의 [리바 128](../Page/리바_128.md "wikilink") 시리즈에 조금 성능이 뒤떨어지기도 했다.
+[ATI](https://ko.wikipedia.org/wiki/ATI "wikilink")는 높은 평가를 받았던 2차원 칩셋 마하 시리즈에 3차원 가속 기능 등을 추가한 그래픽 칩셋 "3D RAGE"를 개발하고 발표하였다. 이 때는 [마이크로소프트](../Page/마이크로소프트.md "wikilink")가 [윈도 95를](https://ko.wikipedia.org/wiki/윈도_95 "wikilink") 판매하여 컴퓨터를 보급하기 시작했던 시기였으며, RAGE 시리즈는 수많은 컴퓨터 메이커 제품에 채용되었다. ATI는 성능을 높인 [다이렉트X](https://ko.wikipedia.org/wiki/다이렉트X "wikilink") 5를 지원하였던 3D RAGE II, [AGP](https://ko.wikipedia.org/wiki/AGP "wikilink") 인터페이스와 호환되는 3D Rage Pro를 개발하였고, IBM PC 호환 기종 컴퓨터 말고도 [애플](../Page/애플.md "wikilink")의 파워 매킨토시 등에도 탑재되었다. ATI는 그래픽 성능 개선보다 드라이버의 안정성이나 TV 출력 호환 등의 기능에 주력하였기 때문에, [부두나](../Page/3dfx.md "wikilink") [엔비디아](../Page/엔비디아.md "wikilink")의 [리바 128](../Page/리바_128.md "wikilink") 시리즈에 조금 성능이 뒤떨어지기도 했다.
 
 1990년대 후반부터, [엔비디아](../Page/엔비디아.md "wikilink")가 여러 그래픽 카드 제공업체에 칩셋을 공급하여 큰 폭으로 시장 점유율을 늘렸다. 윈도 98 이후에 다이렉트X가 표준으로 포함되었으며,1998년에 출시된 [다이렉트X](https://ko.wikipedia.org/wiki/다이렉트X "wikilink") 6를 지원하는 [리바 TNT](../Page/리바_TNT.md "wikilink"), [리바 TNT2에](../Page/리바_TNT2.md "wikilink") 이어 최고의 시장 점유율을 차지하게 되었으며 그래픽 칩셋 업계가 재편되기 시작했다. ATI는 리바 TNT에 대항하여 1998년에 128비트 그래픽 엔진을 장착한 RAGE 128를 개발하였으며, 3dfx는 부두 밴시, 부두 3를 발표하였고, 매트록스도 2차원 화질이 좋은 밀레니엄 G200을 발표하였다. 그러나 1999년에 [엔비디아](../Page/엔비디아.md "wikilink")가 [지오메트리 엔진을](https://ko.wikipedia.org/wiki/지오메트리_엔진 "wikilink") 탑재한 최초의 [GPU](../Page/그래픽_처리_장치.md "wikilink")(이 당시 ATI는 VPU라고 불렀다)를 사용한 [지포스 256을](../Page/지포스_256.md "wikilink") 발표하여 다른 회사를 압박하기 시작했다.
 
@@ -29,8 +29,8 @@ RAGE II는 [매킨토시 G3](https://ko.wikipedia.org/wiki/파워_매킨토시_G
   - 3D RAGE II
   - 3D RAGE II+
   - 3D RAGE II+DVD
-      - 60 MHz 코어
-      - 60 MHz 메모리
+      - 60 MHz 코어
+      - 60 MHz 메모리
       - 초당 480 MB의 메모리 대역
       - [다이렉트엑스](https://ko.wikipedia.org/wiki/다이렉트엑스 "wikilink") 5 지원
   - 3D RAGE II (IIC)
@@ -80,7 +80,7 @@ RAGE II는 [매킨토시 G3](https://ko.wikipedia.org/wiki/파워_매킨토시_G
       - 제조 공정 0.25μm
       - 트랜지스터 800만 개
       - 패키지 312핀 BGA(GL), 256핀 BGA(VR)
-      - 램댁 230MHz 또는 250MHz
+      - 램댁 230 MHz 또는 250 MHz
       - 128비트(GL) 64비트(VR) 메모리 인터페이스
       - AGP 2배속 또는 PCI 인터페이스
       - SDRAM/DDR-SGRAM(VR 마하) (4/8/16/32MB) 비디오 메모리

@@ -87,7 +87,7 @@ TCN은 Daegu Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 </tr>
 <tr class="even">
 <td><p>6-2</p></td>
-<td><p>1번</p></td>
+<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>7-1</p></td>
@@ -354,13 +354,17 @@ TCN은 Daegu Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
-<td><p>151번</p></td>
+<td><p>135번</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
-<td><p>178번</p></td>
+<td><p>151번</p></td>
 </tr>
 <tr class="odd">
+<td><p>-</p></td>
+<td><p>178번</p></td>
+</tr>
+<tr class="even">
 <td><p>-</p></td>
 <td><p>180번</p></td>
 </tr>
@@ -424,6 +428,14 @@ TCN은 Daegu Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <td><p>121번</p></td>
 </tr>
 <tr class="even">
+<td><p>79-1</p></td>
+<td><p>201번</p></td>
+</tr>
+<tr class="odd">
+<td><p>80-1</p></td>
+<td><p>202번</p></td>
+</tr>
+<tr class="even">
 <td><p>-</p></td>
 <td><p>123번</p></td>
 </tr>
@@ -453,6 +465,14 @@ TCN은 Daegu Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
+<td><p>152번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>157번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
 <td><p>193번</p></td>
 </tr>
 <tr class="even">
@@ -473,19 +493,35 @@ TCN은 Daegu Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 </tr>
 <tr class="even">
 <td><p>-</p></td>
-<td><p>230번</p></td>
+<td><p>198번</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
-<td><p>231번</p></td>
+<td><p>200번</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
-<td><p>232번</p></td>
+<td><p>216번</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
+<td><p>230번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>231번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>232번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
 <td><p>233번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>234번</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
@@ -494,6 +530,14 @@ TCN은 Daegu Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <tr class="odd">
 <td><p>-</p></td>
 <td><p>236번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>237번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>241번</p></td>
 </tr>
 </tbody>
 </table>
@@ -539,12 +583,28 @@ TCN은 Daegu Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 <td><p>221번</p></td>
 </tr>
 <tr class="even">
+<td><p>55-2</p></td>
+<td><p>225번</p></td>
+</tr>
+<tr class="odd">
+<td><p>56-1</p></td>
+<td><p>136번</p></td>
+</tr>
+<tr class="even">
+<td><p>58-2</p></td>
+<td><p>134번</p></td>
+</tr>
+<tr class="odd">
 <td><p>65-1</p></td>
 <td><p>143번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>75-1</p></td>
 <td><p>58번</p></td>
+</tr>
+<tr class="odd">
+<td><p>77-1</p></td>
+<td><p>79번</p></td>
 </tr>
 <tr class="even">
 <td><p>-</p></td>
@@ -564,7 +624,154 @@ TCN은 Daegu Cable Networks의 약자이며 1992년 설립되었다. CATV 관련
 </tr>
 <tr class="even">
 <td><p>-</p></td>
+<td><p>154번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>155번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>156번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>187번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>210번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>215번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>218번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>223번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>224번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>226번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>238번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
 <td><p>239번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>240번</p></td>
+</tr>
+</tbody>
+</table>
+
+  - **디지털케이블TV 드라마/오락/여성/교육/어린이채널**
+
+<table>
+<thead>
+<tr class="header">
+<th><p>채널 번호</p></th>
+<th><p>채널명</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>디지털<br />
+알뜰형</p></td>
+<td><p>디지털<br />
+케이블</p></td>
+</tr>
+<tr class="even">
+<td><p>HD</p></td>
+<td><p>SD</p></td>
+</tr>
+<tr class="odd">
+<td><p>2-1</p></td>
+<td><p>52번</p></td>
+</tr>
+<tr class="even">
+<td><p>31-1</p></td>
+<td><p>81번</p></td>
+</tr>
+<tr class="odd">
+<td><p>34-1</p></td>
+<td><p>182번</p></td>
+</tr>
+<tr class="even">
+<td><p>44-1</p></td>
+<td><p>168번</p></td>
+</tr>
+<tr class="odd">
+<td><p>51-1</p></td>
+<td><p>183번</p></td>
+</tr>
+<tr class="even">
+<td><p>58-1</p></td>
+<td><p>106번</p></td>
+</tr>
+<tr class="odd">
+<td><p>62-1</p></td>
+<td><p>163번</p></td>
+</tr>
+<tr class="even">
+<td><p>64-1</p></td>
+<td><p>49번</p></td>
+</tr>
+<tr class="odd">
+<td><p>70-1</p></td>
+<td><p>43번</p></td>
+</tr>
+<tr class="even">
+<td><p>74-1</p></td>
+<td><p>109번</p></td>
+</tr>
+<tr class="odd">
+<td><p>81-1</p></td>
+<td><p>203번</p></td>
+</tr>
+<tr class="even">
+<td><p>96-1</p></td>
+<td><p>184번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>105번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>165번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>167번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>177번</p></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>181번</p></td>
+</tr>
+<tr class="even">
+<td><p>-</p></td>
+<td><p>205번</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

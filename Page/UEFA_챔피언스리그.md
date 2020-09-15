@@ -7,7 +7,7 @@
 
 이 대회는, 유럽 프로 축구 세계에서 최고의 권위를 가진 대회이다. 대회 결승전은 보통 유럽 프로 축구의 모든 시즌 일정 가운데 가장 마지막 경기로 치러진다. 또한 유럽 대륙의 축구 선수들이 이적을 고려할 시에 챔피언스리그 32강 본선 경기 출전이 가능한 팀인가를 우선 순위로 고려할 정도이다.
 
-줄여서 '챔스', 'UCL'이라고 부르기도 한다. UEFA 챔피언스리그의 대표곡은 [리그 데 샹피옹](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_주제가 "wikilink") (Ligue des Champions)이다.우승팀은 트로피 [빅이어](https://ko.wikipedia.org/wiki/빅이어 "wikilink")를 다음 시즌 토너먼트 추첨까지 소유할 수 있다.
+줄여서 '챔스', 'UCL'이라고 부르기도 한다. UEFA 챔피언스리그의 대표곡은 [리그 데 샹피옹](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_주제가 "wikilink")(Ligue des Champions)이다. 우승 팀은 트로피 [빅이어](https://ko.wikipedia.org/wiki/빅이어 "wikilink")를 다음 시즌 토너먼트 추첨까지 소유할 수 있다.
 
 ## 역사
 
@@ -136,7 +136,7 @@ UEFA 유로파리그 저번 시즌 우승팀이 챔피언스리그 본선에 진
   - 1차 예선 : €280,000 = 약 3.7억 원
   - 2차 예선 : €380,000 = 약 5.2억 원
   - 3차 예선 : €480,000 = 약 6.3억 원
-  - 본선 32강 조 편성 기본 : €15,250,000 = 약 약 201억 원
+  - 본선 32강 조 편성 기본 : €15,250,000 = 약 201억 원
   - 32강 조 편성 경기 승리 : €2,700,000 = 약 35억 원
   - 32강 조 편성 경기 무승부 : €900,000 = 약 12억 원
   - 16강 : €9,500,000 = 약 125억 원
@@ -161,452 +161,459 @@ UEFA 유로파리그 저번 시즌 우승팀이 챔피언스리그 본선에 진
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/1955-56년_유러피언컵.md" title="wikilink">1956</a></p></td>
+<td><p><a href="../Page/1955-56년_유러피언컵.md" title="wikilink">1955-56</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>4 - 3</strong></p></td>
 <td><p><a href="../Page/스타드_드_랭스.md" title="wikilink">스타드 드 랭스</a></p></td>
 <td><p><a href="../Page/파리_(프랑스).md" title="wikilink">파리</a>, <a href="../Page/파르크_데_프랭스.md" title="wikilink">파르크 데 프랭스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1956-57년_유러피언컵.md" title="wikilink">1957</a></p></td>
+<td><p><a href="../Page/1956-57년_유러피언컵.md" title="wikilink">1956-57</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="../Page/ACF_피오렌티나.md" title="wikilink">피오렌티나</a></p></td>
 <td><p><a href="../Page/마드리드.md" title="wikilink">마드리드</a>, <a href="../Page/에스타디오_산티아고_베르나베우.md" title="wikilink">에스타디오 산티아고 베르나베우</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1957-58년_유러피언컵.md" title="wikilink">1958</a></p></td>
+<td><p><a href="../Page/1957-58년_유러피언컵.md" title="wikilink">1957-58</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>3 - 2 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>)</strong></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">밀란</a></p></td>
 <td><p><a href="../Page/브뤼셀.md" title="wikilink">브뤼셀</a>, <a href="../Page/보두앵_국왕_경기장.md" title="wikilink">헤이젤 경기장</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1958-59년_유러피언컵.md" title="wikilink">1959</a></p></td>
+<td><p><a href="../Page/1958-59년_유러피언컵.md" title="wikilink">1958-59</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="../Page/스타드_드_랭스.md" title="wikilink">스타드 드 랭스</a></p></td>
 <td><p><a href="../Page/슈투트가르트.md" title="wikilink">슈투트가르트</a>, <a href="../Page/메르세데스-벤츠_아레나.md" title="wikilink">네카어슈타디온</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1959-60년_유러피언컵.md" title="wikilink">1960</a></p></td>
+<td><p><a href="../Page/1959-60년_유러피언컵.md" title="wikilink">1959-60</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>7 - 3</strong></p></td>
 <td><p><a href="../Page/아인트라흐트_프랑크푸르트.md" title="wikilink">아인트라흐트 프랑크푸르트</a></p></td>
 <td><p><a href="../Page/글래스고.md" title="wikilink">글래스고</a>, <a href="../Page/햄던_파크.md" title="wikilink">햄던 파크</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1960-61년_유러피언컵.md" title="wikilink">1961</a></p></td>
+<td><p><a href="../Page/1960-61년_유러피언컵.md" title="wikilink">1960-61</a></p></td>
 <td><p><a href="../Page/SL_벤피카.md" title="wikilink">벤피카</a></p></td>
 <td><p><strong>3 - 2</strong></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><a href="../Page/베른.md" title="wikilink">베른</a>, <a href="../Page/방크도르프_경기장.md" title="wikilink">방크도르프 경기장</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1961-62년_유러피언컵.md" title="wikilink">1962</a></p></td>
+<td><p><a href="../Page/1961-62년_유러피언컵.md" title="wikilink">1961-62</a></p></td>
 <td><p><a href="../Page/SL_벤피카.md" title="wikilink">벤피카</a></p></td>
 <td><p><strong>5 - 3</strong></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><a href="../Page/암스테르담.md" title="wikilink">암스테르담</a>, <a href="../Page/올림픽_스타디움_(암스테르담).md" title="wikilink">올림픽 스타디움</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1962-63년_유러피언컵.md" title="wikilink">1963</a></p></td>
+<td><p><a href="../Page/1962-63년_유러피언컵.md" title="wikilink">1962-63</a></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">밀란</a></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/SL_벤피카.md" title="wikilink">벤피카</a></p></td>
 <td><p><a href="../Page/런던.md" title="wikilink">런던</a>, <a href="../Page/웸블리_스타디움_(1923년).md" title="wikilink">웸블리 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1963-64년_유러피언컵.md" title="wikilink">1964</a></p></td>
+<td><p><a href="../Page/1963-64년_유러피언컵.md" title="wikilink">1963-64</a></p></td>
 <td><p><a href="../Page/FC_인테르나치오날레_밀라노.md" title="wikilink">인테르나치오날레</a></p></td>
 <td><p><strong>3 - 1</strong></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><a href="../Page/빈.md" title="wikilink">빈</a>, <a href="../Page/에른스트_하펠_슈타디온.md" title="wikilink">프라터슈타디온</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1964-65년_유러피언컵.md" title="wikilink">1965</a></p></td>
+<td><p><a href="../Page/1964-65년_유러피언컵.md" title="wikilink">1964-65</a></p></td>
 <td><p><a href="../Page/FC_인테르나치오날레_밀라노.md" title="wikilink">인테르나치오날레</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/SL_벤피카.md" title="wikilink">벤피카</a></p></td>
 <td><p><a href="../Page/밀라노.md" title="wikilink">밀라노</a>, <a href="../Page/스타디오_주세페_메아차.md" title="wikilink">스타디오 주세페 메아차</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1965-66년_유러피언컵.md" title="wikilink">1966</a></p></td>
+<td><p><a href="../Page/1965-66년_유러피언컵.md" title="wikilink">1965-66</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/FK_파르티잔.md" title="wikilink">파르티잔</a></p></td>
 <td><p><a href="../Page/브뤼셀.md" title="wikilink">브뤼셀</a>, <a href="../Page/보두앵_국왕_경기장.md" title="wikilink">헤이젤 경기장</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1966-67년_유러피언컵.md" title="wikilink">1967</a></p></td>
+<td><p><a href="../Page/1966-67년_유러피언컵.md" title="wikilink">1966-67</a></p></td>
 <td><p><a href="../Page/셀틱_FC.md" title="wikilink">셀틱</a></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/FC_인테르나치오날레_밀라노.md" title="wikilink">인테르나치오날레</a></p></td>
 <td><p><a href="../Page/리스본.md" title="wikilink">리스본</a>, <a href="../Page/이스타디우_나시오날.md" title="wikilink">이스타디우 나시오날</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1967-68년_유러피언컵.md" title="wikilink">1968</a></p></td>
+<td><p><a href="../Page/1967-68년_유러피언컵.md" title="wikilink">1967-68</a></p></td>
 <td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 <td><p><strong>4 - 1 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>)</strong></p></td>
 <td><p><a href="../Page/SL_벤피카.md" title="wikilink">벤피카</a></p></td>
 <td><p><a href="../Page/런던.md" title="wikilink">런던</a>, <a href="../Page/웸블리_스타디움_(1923년).md" title="wikilink">웸블리 스타디움</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1968-69년_유러피언컵.md" title="wikilink">1969</a></p></td>
+<td><p><a href="../Page/1968-69년_유러피언컵.md" title="wikilink">1968-69</a></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">밀란</a></p></td>
 <td><p><strong>4 - 1</strong></p></td>
 <td><p><a href="../Page/AFC_아약스.md" title="wikilink">아약스</a></p></td>
 <td><p><a href="../Page/마드리드.md" title="wikilink">마드리드</a>, <a href="../Page/에스타디오_산티아고_베르나베우.md" title="wikilink">에스타디오 산티아고 베르나베우</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1969-70년_유러피언컵.md" title="wikilink">1970</a></p></td>
+<td><p><a href="../Page/1969-70년_유러피언컵.md" title="wikilink">1969-70</a></p></td>
 <td><p><a href="../Page/페예노르트.md" title="wikilink">페예노르트</a></p></td>
 <td><p><strong>2 - 1 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>)</strong></p></td>
 <td><p><a href="../Page/셀틱_FC.md" title="wikilink">셀틱</a></p></td>
 <td><p><a href="../Page/밀라노.md" title="wikilink">밀라노</a>, <a href="../Page/스타디오_주세페_메아차.md" title="wikilink">스타디오 주세페 메아차</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1970-71년_유러피언컵.md" title="wikilink">1971</a></p></td>
+<td><p><a href="../Page/1970-71년_유러피언컵.md" title="wikilink">1970-71</a></p></td>
 <td><p><a href="../Page/AFC_아약스.md" title="wikilink">아약스</a></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파나티나이코스_FC" title="wikilink">파나티나이코스</a></p></td>
 <td><p><a href="../Page/런던.md" title="wikilink">런던</a>, <a href="../Page/웸블리_스타디움_(1923년).md" title="wikilink">웸블리 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1971-72년_유러피언컵.md" title="wikilink">1972</a></p></td>
+<td><p><a href="../Page/1971-72년_유러피언컵.md" title="wikilink">1971-72</a></p></td>
 <td><p><a href="../Page/AFC_아약스.md" title="wikilink">아약스</a></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="../Page/FC_인테르나치오날레_밀라노.md" title="wikilink">인테르나치오날레</a></p></td>
 <td><p><a href="../Page/로테르담.md" title="wikilink">로테르담</a>, <a href="../Page/스타디온_페예노르트.md" title="wikilink">스타디온 페예노르트</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1972-73년_유러피언컵.md" title="wikilink">1973</a></p></td>
+<td><p><a href="../Page/1972-73년_유러피언컵.md" title="wikilink">1972-73</a></p></td>
 <td><p><a href="../Page/AFC_아약스.md" title="wikilink">아약스</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><a href="../Page/베오그라드.md" title="wikilink">베오그라드</a>, <a href="../Page/스타디온_츠르베나_즈베즈다.md" title="wikilink">스타디온 츠르베나 즈베즈다</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1973-74년_유러피언컵.md" title="wikilink">1974</a></p></td>
+<td><p><a href="../Page/1973-74년_유러피언컵.md" title="wikilink">1973-74</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td><p><strong>1 - 1 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (재경기 4 - 0)</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아틀레티코_마드리드" title="wikilink">아틀레티코 마드리드</a></p></td>
 <td><p><a href="../Page/브뤼셀.md" title="wikilink">브뤼셀</a>, <a href="../Page/보두앵_국왕_경기장.md" title="wikilink">헤이젤 경기장</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1974-75년_유러피언컵.md" title="wikilink">1975</a></p></td>
+<td><p><a href="../Page/1974-75년_유러피언컵.md" title="wikilink">1974-75</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/리즈_유나이티드_FC" title="wikilink">리즈 유나이티드</a></p></td>
 <td><p><a href="../Page/파리_(프랑스).md" title="wikilink">파리</a>, <a href="../Page/파르크_데_프랭스.md" title="wikilink">파르크 데 프랭스</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1975-76년_유러피언컵.md" title="wikilink">1976</a></p></td>
+<td><p><a href="../Page/1975-76년_유러피언컵.md" title="wikilink">1975-76</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/AS_생테티엔.md" title="wikilink">생테티엔</a></p></td>
 <td><p><a href="../Page/글래스고.md" title="wikilink">글래스고</a>, <a href="../Page/햄던_파크.md" title="wikilink">햄던 파크</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1976-77년_유러피언컵.md" title="wikilink">1977</a></p></td>
+<td><p><a href="../Page/1976-77년_유러피언컵.md" title="wikilink">1976-77</a></p></td>
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><strong>3 - 1</strong></p></td>
 <td><p><a href="../Page/보루시아_묀헨글라트바흐.md" title="wikilink">보루시아 묀헨글라트바흐</a></p></td>
 <td><p><a href="../Page/로마.md" title="wikilink">로마</a>, <a href="../Page/스타디오_올림피코.md" title="wikilink">스타디오 올림피코</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1977-78년_유러피언컵.md" title="wikilink">1978</a></p></td>
+<td><p><a href="../Page/1977-78년_유러피언컵.md" title="wikilink">1977-78</a></p></td>
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/클뤼프_브뤼허_KV.md" title="wikilink">클뤼프 브뤼허</a></p></td>
 <td><p><a href="../Page/런던.md" title="wikilink">런던</a>, <a href="../Page/웸블리_스타디움_(1923년).md" title="wikilink">웸블리 스타디움</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1978-79년_유러피언컵.md" title="wikilink">1979</a></p></td>
+<td><p><a href="../Page/1978-79년_유러피언컵.md" title="wikilink">1978-79</a></p></td>
 <td><p><a href="../Page/노팅엄_포리스트_FC.md" title="wikilink">노팅엄 포리스트</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/말뫼_FF.md" title="wikilink">말뫼</a></p></td>
 <td><p><a href="../Page/뮌헨.md" title="wikilink">뮌헨</a>, <a href="../Page/뮌헨_올림픽_스타디움.md" title="wikilink">뮌헨 올림픽 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1979-80년_유러피언컵.md" title="wikilink">1980</a></p></td>
+<td><p><a href="../Page/1979-80년_유러피언컵.md" title="wikilink">1979-80</a></p></td>
 <td><p><a href="../Page/노팅엄_포리스트_FC.md" title="wikilink">노팅엄 포리스트</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/함부르크_SV.md" title="wikilink">함부르크</a></p></td>
 <td><p><a href="../Page/마드리드.md" title="wikilink">마드리드</a>, <a href="../Page/에스타디오_산티아고_베르나베우.md" title="wikilink">에스타디오 산티아고 베르나베우</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1980-81년_유러피언컵.md" title="wikilink">1981</a></p></td>
+<td><p><a href="../Page/1980-81년_유러피언컵.md" title="wikilink">1980-81</a></p></td>
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><a href="../Page/파리_(프랑스).md" title="wikilink">파리</a>, <a href="../Page/파르크_데_프랭스.md" title="wikilink">파르크 데 프랭스</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1981-82년_유러피언컵.md" title="wikilink">1982</a></p></td>
+<td><p><a href="../Page/1981-82년_유러피언컵.md" title="wikilink">1981-82</a></p></td>
 <td><p><a href="../Page/애스턴_빌라_FC.md" title="wikilink">애스턴 빌라</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td><p><a href="../Page/로테르담.md" title="wikilink">로테르담</a>, <a href="../Page/스타디온_페예노르트.md" title="wikilink">스타디온 페예노르트</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1982-83년_유러피언컵.md" title="wikilink">1983</a></p></td>
+<td><p><a href="../Page/1982-83년_유러피언컵.md" title="wikilink">1982-83</a></p></td>
 <td><p><a href="../Page/함부르크_SV.md" title="wikilink">함부르크</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><a href="../Page/아테네.md" title="wikilink">아테네</a>, <a href="../Page/아테네_올림픽_스타디움.md" title="wikilink">아테네 올림픽 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1983-84년_유러피언컵.md" title="wikilink">1984</a></p></td>
+<td><p><a href="../Page/1983-84년_유러피언컵.md" title="wikilink">1983-84</a></p></td>
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><strong>1 - 1 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (<a href="../Page/승부차기.md" title="wikilink">PSO</a> 4 - 2)</strong></p></td>
 <td><p><a href="../Page/AS_로마.md" title="wikilink">로마</a></p></td>
 <td><p><a href="../Page/로마.md" title="wikilink">로마</a>, <a href="../Page/스타디오_올림피코.md" title="wikilink">스타디오 올림피코</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1984-85년_유러피언컵.md" title="wikilink">1985</a></p></td>
+<td><p><a href="../Page/1984-85년_유러피언컵.md" title="wikilink">1984-85</a></p></td>
 <td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><a href="../Page/브뤼셀.md" title="wikilink">브뤼셀</a>, <a href="../Page/보두앵_국왕_경기장.md" title="wikilink">헤이젤 경기장</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1985-86년_유러피언컵.md" title="wikilink">1986</a></p></td>
+<td><p><a href="../Page/1985-86년_유러피언컵.md" title="wikilink">1985-86</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_스테아우아_부쿠레슈티" title="wikilink">스테아우아 부쿠레슈티</a></p></td>
 <td><p><strong>0 - 0 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (<a href="../Page/승부차기.md" title="wikilink">PSO</a> 2 - 0)</strong></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><a href="../Page/세비야.md" title="wikilink">세비야</a>, <a href="../Page/에스타디오_라몬_산체스_피스후안.md" title="wikilink">에스타디오 라몬 산체스 피스후안</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1986-87년_유러피언컵.md" title="wikilink">1987</a></p></td>
+<td><p><a href="../Page/1986-87년_유러피언컵.md" title="wikilink">1986-87</a></p></td>
 <td><p><a href="../Page/FC_포르투.md" title="wikilink">포르투</a></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td><p><a href="../Page/빈.md" title="wikilink">빈</a>, <a href="../Page/에른스트_하펠_슈타디온.md" title="wikilink">프라터슈타디온</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1987-88년_유러피언컵.md" title="wikilink">1988</a></p></td>
+<td><p><a href="../Page/1987-88년_유러피언컵.md" title="wikilink">1987-88</a></p></td>
 <td><p><a href="../Page/PSV_에인트호번.md" title="wikilink">PSV 에인트호번</a></p></td>
 <td><p><strong>0 - 0 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (<a href="../Page/승부차기.md" title="wikilink">PSO</a> 6 - 5)</strong></p></td>
 <td><p><a href="../Page/SL_벤피카.md" title="wikilink">벤피카</a></p></td>
 <td><p><a href="../Page/슈투트가르트.md" title="wikilink">슈투트가르트</a>, <a href="../Page/메르세데스-벤츠_아레나.md" title="wikilink">네카어슈타디온</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1988-89년_유러피언컵.md" title="wikilink">1989</a></p></td>
+<td><p><a href="../Page/1988-89년_유러피언컵.md" title="wikilink">1988-89</a></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">밀란</a></p></td>
 <td><p><strong>4 - 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_스테아우아_부쿠레슈티" title="wikilink">스테아우아 부쿠레슈티</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/바르셀로나" title="wikilink">바르셀로나</a>, <a href="../Page/캄_노우.md" title="wikilink">캄 노우</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1989-90년_유러피언컵.md" title="wikilink">1990</a></p></td>
+<td><p><a href="../Page/1989-90년_유러피언컵.md" title="wikilink">1989-90</a></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">밀란</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/SL_벤피카.md" title="wikilink">벤피카</a></p></td>
 <td><p><a href="../Page/빈.md" title="wikilink">빈</a>, <a href="../Page/에른스트_하펠_슈타디온.md" title="wikilink">프라터슈타디온</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1990-91년_유러피언컵.md" title="wikilink">1991</a></p></td>
+<td><p><a href="../Page/1990-91년_유러피언컵.md" title="wikilink">1990-91</a></p></td>
 <td><p><a href="../Page/FK_츠르베나_즈베즈다.md" title="wikilink">츠르베나 즈베즈다</a></p></td>
 <td><p><strong>0 - 0 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (<a href="../Page/승부차기.md" title="wikilink">PSO</a> 5 - 3)</strong></p></td>
 <td><p><a href="../Page/올랭피크_드_마르세유.md" title="wikilink">올랭피크 드 마르세유</a></p></td>
 <td><p><a href="../Page/바리_(도시).md" title="wikilink">바리</a>, <a href="https://ko.wikipedia.org/wiki/스타디오_산_니콜라" title="wikilink">스타디오 산 니콜라</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1991-92년_유러피언컵.md" title="wikilink">1992</a></p></td>
+<td><p><a href="../Page/1991-92년_유러피언컵.md" title="wikilink">1991-92</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><strong>1 - 0 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>)</strong></p></td>
 <td><p><a href="../Page/UC_삼프도리아.md" title="wikilink">삼프도리아</a></p></td>
 <td><p><a href="../Page/런던.md" title="wikilink">런던</a>, <a href="../Page/웸블리_스타디움_(1923년).md" title="wikilink">웸블리 스타디움</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1992-93년_UEFA_챔피언스리그.md" title="wikilink">1993</a></p></td>
+<td><p><a href="../Page/1992-93년_UEFA_챔피언스리그.md" title="wikilink">1992-93</a></p></td>
 <td><p><a href="../Page/올랭피크_드_마르세유.md" title="wikilink">올랭피크 드 마르세유</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">밀란</a></p></td>
 <td><p><a href="../Page/뮌헨.md" title="wikilink">뮌헨</a>, <a href="../Page/뮌헨_올림픽_스타디움.md" title="wikilink">뮌헨 올림픽 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1993-94년_UEFA_챔피언스리그.md" title="wikilink">1994</a></p></td>
+<td><p><a href="../Page/1993-94년_UEFA_챔피언스리그.md" title="wikilink">1993-94</a></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">밀란</a></p></td>
 <td><p><strong>4 - 0</strong></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><a href="../Page/아테네.md" title="wikilink">아테네</a>, <a href="../Page/아테네_올림픽_스타디움.md" title="wikilink">아테네 올림픽 스타디움</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1994-95년_UEFA_챔피언스리그.md" title="wikilink">1995</a></p></td>
+<td><p><a href="../Page/1994-95년_UEFA_챔피언스리그.md" title="wikilink">1994-95</a></p></td>
 <td><p><a href="../Page/AFC_아약스.md" title="wikilink">아약스</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">밀란</a></p></td>
 <td><p><a href="../Page/빈.md" title="wikilink">빈</a>, <a href="../Page/에른스트_하펠_슈타디온.md" title="wikilink">에른스트 하펠 슈타디온</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1995-96년_UEFA_챔피언스리그.md" title="wikilink">1996</a></p></td>
+<td><p><a href="../Page/1995-96년_UEFA_챔피언스리그.md" title="wikilink">1995-96</a></p></td>
 <td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><strong>1 - 1 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (<a href="../Page/승부차기.md" title="wikilink">PSO</a> 4 - 2)</strong></p></td>
 <td><p><a href="../Page/AFC_아약스.md" title="wikilink">아약스</a></p></td>
 <td><p><a href="../Page/로마.md" title="wikilink">로마</a>, <a href="../Page/스타디오_올림피코.md" title="wikilink">스타디오 올림피코</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1996-97년_UEFA_챔피언스리그.md" title="wikilink">1997</a></p></td>
+<td><p><a href="../Page/1996-97년_UEFA_챔피언스리그.md" title="wikilink">1996-97</a></p></td>
 <td><p><a href="../Page/보루시아_도르트문트.md" title="wikilink">보루시아 도르트문트</a></p></td>
 <td><p><strong>3 - 1</strong></p></td>
 <td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><a href="../Page/뮌헨.md" title="wikilink">뮌헨</a>, <a href="../Page/뮌헨_올림픽_스타디움.md" title="wikilink">뮌헨 올림픽 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1997-98년_UEFA_챔피언스리그.md" title="wikilink">1998</a></p></td>
+<td><p><a href="../Page/1997-98년_UEFA_챔피언스리그.md" title="wikilink">1997-98</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><a href="../Page/암스테르담.md" title="wikilink">암스테르담</a>, <a href="../Page/요한_크라위프_아레나.md" title="wikilink">암스테르담 아레나</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1998-99년_UEFA_챔피언스리그.md" title="wikilink">1999</a></p></td>
+<td><p><a href="../Page/1998-99년_UEFA_챔피언스리그.md" title="wikilink">1998-99</a></p></td>
 <td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/바르셀로나" title="wikilink">바르셀로나</a>, <a href="../Page/캄_노우.md" title="wikilink">캄 노우</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1999-2000년_UEFA_챔피언스리그.md" title="wikilink">2000</a></p></td>
+<td><p><a href="../Page/1999-2000년_UEFA_챔피언스리그.md" title="wikilink">1999-2000</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>3 - 0</strong></p></td>
 <td><p><a href="../Page/발렌시아_CF.md" title="wikilink">발렌시아</a></p></td>
 <td><p><a href="../Page/생드니.md" title="wikilink">생드니</a>, <a href="../Page/스타드_드_프랑스.md" title="wikilink">스타드 드 프랑스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2000-01년_UEFA_챔피언스리그.md" title="wikilink">2001</a></p></td>
+<td><p><a href="../Page/2000-01년_UEFA_챔피언스리그.md" title="wikilink">2000-01</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td><p><strong>1 - 1 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (<a href="../Page/승부차기.md" title="wikilink">PSO</a> 5 - 4)</strong></p></td>
 <td><p><a href="../Page/발렌시아_CF.md" title="wikilink">발렌시아</a></p></td>
 <td><p><a href="../Page/밀라노.md" title="wikilink">밀라노</a>, <a href="../Page/스타디오_주세페_메아차.md" title="wikilink">스타디오 주세페 메아차</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2001-02년_UEFA_챔피언스리그.md" title="wikilink">2002</a></p></td>
+<td><p><a href="../Page/2001-02년_UEFA_챔피언스리그.md" title="wikilink">2001-02</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/바이어_04_레버쿠젠.md" title="wikilink">바이어 레버쿠젠</a></p></td>
 <td><p><a href="../Page/글래스고.md" title="wikilink">글래스고</a>, <a href="../Page/햄던_파크.md" title="wikilink">햄던 파크</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2002-03년_UEFA_챔피언스리그.md" title="wikilink">2003</a></p></td>
+<td><p><a href="../Page/2002-03년_UEFA_챔피언스리그.md" title="wikilink">2002-03</a></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">밀란</a></p></td>
 <td><p><strong>0 - 0 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (<a href="../Page/승부차기.md" title="wikilink">PSO</a> 3 - 2)</strong></p></td>
 <td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><a href="../Page/맨체스터.md" title="wikilink">맨체스터</a>, <a href="../Page/올드_트래퍼드.md" title="wikilink">올드 트래퍼드</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2003-04년_UEFA_챔피언스리그.md" title="wikilink">2004</a></p></td>
+<td><p><a href="../Page/2003-04년_UEFA_챔피언스리그.md" title="wikilink">2003-04</a></p></td>
 <td><p><a href="../Page/FC_포르투.md" title="wikilink">포르투</a></p></td>
 <td><p><strong>3 - 0</strong></p></td>
 <td><p><a href="../Page/AS_모나코_FC.md" title="wikilink">모나코</a></p></td>
 <td><p><a href="../Page/겔젠키르헨.md" title="wikilink">겔젠키르헨</a>, <a href="../Page/펠틴스_아레나.md" title="wikilink">아레나 아우프샬케</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2004-05년_UEFA_챔피언스리그.md" title="wikilink">2005</a></p></td>
+<td><p><a href="../Page/2004-05년_UEFA_챔피언스리그.md" title="wikilink">2004-05</a></p></td>
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><strong>3 - 3 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (<a href="../Page/승부차기.md" title="wikilink">PSO</a> 3 - 2)</strong></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">밀란</a></p></td>
 <td><p><a href="../Page/이스탄불.md" title="wikilink">이스탄불</a>, <a href="../Page/아타튀르크_올림픽_스타디움.md" title="wikilink">아타튀르크 올림픽 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2005-06년_UEFA_챔피언스리그.md" title="wikilink">2006</a></p></td>
+<td><p><a href="../Page/2005-06년_UEFA_챔피언스리그.md" title="wikilink">2005-06</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/아스널_FC.md" title="wikilink">아스널</a></p></td>
 <td><p><a href="../Page/생드니.md" title="wikilink">생드니</a>, <a href="../Page/스타드_드_프랑스.md" title="wikilink">스타드 드 프랑스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2006-07년_UEFA_챔피언스리그.md" title="wikilink">2007</a></p></td>
+<td><p><a href="../Page/2006-07년_UEFA_챔피언스리그.md" title="wikilink">2006-07</a></p></td>
 <td><p><a href="../Page/AC_밀란.md" title="wikilink">밀란</a></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><a href="../Page/아테네.md" title="wikilink">아테네</a>, <a href="../Page/아테네_올림픽_스타디움.md" title="wikilink">아테네 올림픽 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2007-08년_UEFA_챔피언스리그.md" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/2007-08년_UEFA_챔피언스리그.md" title="wikilink">2007-08</a></p></td>
 <td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 <td><p><strong>1 - 1 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (<a href="../Page/승부차기.md" title="wikilink">PSO</a> 6 - 5)</strong></p></td>
 <td><p><a href="../Page/첼시_FC.md" title="wikilink">첼시</a></p></td>
 <td><p><a href="../Page/모스크바.md" title="wikilink">모스크바</a>, <a href="../Page/루즈니키_스타디움.md" title="wikilink">루즈니키 스타디움</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2008-09년_UEFA_챔피언스리그.md" title="wikilink">2009</a></p></td>
+<td><p><a href="../Page/2008-09년_UEFA_챔피언스리그.md" title="wikilink">2008-09</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 <td><p><a href="../Page/로마.md" title="wikilink">로마</a>, <a href="../Page/스타디오_올림피코.md" title="wikilink">스타디오 올림피코</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2009-10년_UEFA_챔피언스리그.md" title="wikilink">2010</a></p></td>
+<td><p><a href="../Page/2009-10년_UEFA_챔피언스리그.md" title="wikilink">2009-10</a></p></td>
 <td><p><a href="../Page/FC_인테르나치오날레_밀라노.md" title="wikilink">인테르나치오날레</a></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td><p><a href="../Page/마드리드.md" title="wikilink">마드리드</a>, <a href="../Page/에스타디오_산티아고_베르나베우.md" title="wikilink">에스타디오 산티아고 베르나베우</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2010-11년_UEFA_챔피언스리그.md" title="wikilink">2011</a></p></td>
+<td><p><a href="../Page/2010-11년_UEFA_챔피언스리그.md" title="wikilink">2010-11</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><strong>3 - 1</strong></p></td>
 <td><p><a href="../Page/맨체스터_유나이티드_FC.md" title="wikilink">맨체스터 유나이티드</a></p></td>
 <td><p><a href="../Page/런던.md" title="wikilink">런던</a>, <a href="../Page/웸블리_스타디움.md" title="wikilink">웸블리 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2011-12년_UEFA_챔피언스리그.md" title="wikilink">2012</a></p></td>
+<td><p><a href="../Page/2011-12년_UEFA_챔피언스리그.md" title="wikilink">2011-12</a></p></td>
 <td><p><a href="../Page/첼시_FC.md" title="wikilink">첼시</a></p></td>
 <td><p><strong>1 - 1 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (<a href="../Page/승부차기.md" title="wikilink">PSO</a> 4 - 3)</strong></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td><p><a href="../Page/뮌헨.md" title="wikilink">뮌헨</a>, <a href="../Page/알리안츠_아레나.md" title="wikilink">알리안츠 아레나</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2012-13년_UEFA_챔피언스리그.md" title="wikilink">2013</a></p></td>
+<td><p><a href="../Page/2012-13년_UEFA_챔피언스리그.md" title="wikilink">2012-13</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/보루시아_도르트문트.md" title="wikilink">보루시아 도르트문트</a></p></td>
 <td><p><a href="../Page/런던.md" title="wikilink">런던</a>, <a href="../Page/웸블리_스타디움.md" title="wikilink">웸블리 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2013-14년_UEFA_챔피언스리그.md" title="wikilink">2014</a></p></td>
+<td><p><a href="../Page/2013-14년_UEFA_챔피언스리그.md" title="wikilink">2013-14</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>4 - 1 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>)</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아틀레티코_마드리드" title="wikilink">아틀레티코 마드리드</a></p></td>
 <td><p><a href="../Page/리스본.md" title="wikilink">리스본</a>, <a href="../Page/이스타디우_다_루스.md" title="wikilink">이스타디우 다 루스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2014-15년_UEFA_챔피언스리그.md" title="wikilink">2015</a></p></td>
+<td><p><a href="../Page/2014-15년_UEFA_챔피언스리그.md" title="wikilink">2014-15</a></p></td>
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
 <td><p><strong>3 - 1</strong></p></td>
 <td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><a href="../Page/베를린.md" title="wikilink">베를린</a>, <a href="../Page/베를린_올림픽_스타디움.md" title="wikilink">베를린 올림픽 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2015-16년_UEFA_챔피언스리그" title="wikilink">2016</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2015-16년_UEFA_챔피언스리그" title="wikilink">2015-16</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>1 - 1 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>) </br> (<a href="../Page/승부차기.md" title="wikilink">PSO</a> 5 - 3)</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아틀레티코_마드리드" title="wikilink">아틀레티코 마드리드</a></p></td>
 <td><p><a href="../Page/밀라노.md" title="wikilink">밀라노</a>, <a href="../Page/스타디오_주세페_메아차.md" title="wikilink">스타디오 주세페 메아차</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2016-17년_UEFA_챔피언스리그.md" title="wikilink">2017</a></p></td>
+<td><p><a href="../Page/2016-17년_UEFA_챔피언스리그.md" title="wikilink">2016-17</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>4 - 1</strong></p></td>
 <td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p><a href="../Page/카디프.md" title="wikilink">카디프</a>, <a href="../Page/밀레니엄_스타디움.md" title="wikilink">밀레니엄 스타디움</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2017-18년_UEFA_챔피언스리그.md" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2017-18년_UEFA_챔피언스리그.md" title="wikilink">2017-18</a></p></td>
 <td><p><a href="../Page/레알_마드리드_CF.md" title="wikilink">레알 마드리드</a></p></td>
 <td><p><strong>3 - 1</strong></p></td>
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><a href="../Page/키예프.md" title="wikilink">키예프</a>, <a href="../Page/올림피스키_경기장.md" title="wikilink">올림피스키 경기장</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2018-19년_UEFA_챔피언스리그.md" title="wikilink">2019</a></p></td>
+<td><p><a href="../Page/2018-19년_UEFA_챔피언스리그.md" title="wikilink">2018-19</a></p></td>
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="../Page/토트넘_홋스퍼_FC.md" title="wikilink">토트넘 홋스퍼</a></p></td>
 <td><p><a href="../Page/마드리드.md" title="wikilink">마드리드</a>, <a href="../Page/완다_메트로폴리타노.md" title="wikilink">완다 메트로폴리타노</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2019-20년_UEFA_챔피언스리그.md" title="wikilink">2019-20</a></p></td>
+<td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
+<td><p><strong>1 - 0</strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파리_생제르맹" title="wikilink">파리 생제르맹</a></p></td>
+<td><p><a href="../Page/리스본.md" title="wikilink">리스본</a>, <a href="../Page/이스타디우_다_루스.md" title="wikilink">이스타디우 다 루스</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -633,14 +640,14 @@ UEFA 유로파리그 저번 시즌 우승팀이 챔피언스리그 본선에 진
 <td><p>4회 (<a href="../Page/1957-58년_유러피언컵.md" title="wikilink">1958</a>, <a href="../Page/1992-93년_UEFA_챔피언스리그.md" title="wikilink">1993</a>, <a href="../Page/1994-95년_UEFA_챔피언스리그.md" title="wikilink">1995</a>, <a href="../Page/2004-05년_UEFA_챔피언스리그.md" title="wikilink">2005</a>)</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
+<td><p>6회 (<a href="../Page/1973-74년_유러피언컵.md" title="wikilink">1974</a>, <a href="../Page/1974-75년_유러피언컵.md" title="wikilink">1975</a>, <a href="../Page/1975-76년_유러피언컵.md" title="wikilink">1976</a>, <a href="../Page/2000-01년_UEFA_챔피언스리그.md" title="wikilink">2001</a>, <a href="../Page/2012-13년_UEFA_챔피언스리그.md" title="wikilink">2013</a>, <a href="../Page/2019-20년_UEFA_챔피언스리그.md" title="wikilink">2020</a>)</p></td>
+<td><p>5회 (<a href="../Page/1981-82년_유러피언컵.md" title="wikilink">1982</a>, <a href="../Page/1986-87년_유러피언컵.md" title="wikilink">1987</a>, <a href="../Page/1998-99년_UEFA_챔피언스리그.md" title="wikilink">1999</a>, <a href="../Page/2009-10년_UEFA_챔피언스리그.md" title="wikilink">2010</a>, <a href="../Page/2011-12년_UEFA_챔피언스리그.md" title="wikilink">2012</a>)</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p>6회 (<a href="../Page/1976-77년_유러피언컵.md" title="wikilink">1977</a>, <a href="../Page/1977-78년_유러피언컵.md" title="wikilink">1978</a>, <a href="../Page/1980-81년_유러피언컵.md" title="wikilink">1981</a>, <a href="../Page/1983-84년_유러피언컵.md" title="wikilink">1984</a>, <a href="../Page/2004-05년_UEFA_챔피언스리그.md" title="wikilink">2005</a>, <a href="../Page/2018-19년_UEFA_챔피언스리그.md" title="wikilink">2019</a>)</p></td>
 <td><p>3회 (<a href="../Page/1984-85년_유러피언컵.md" title="wikilink">1985</a>, <a href="../Page/2006-07년_UEFA_챔피언스리그.md" title="wikilink">2007</a>, <a href="../Page/2017-18년_UEFA_챔피언스리그.md" title="wikilink">2018</a>)</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
-<td><p>5회 (<a href="../Page/1973-74년_유러피언컵.md" title="wikilink">1974</a>, <a href="../Page/1974-75년_유러피언컵.md" title="wikilink">1975</a>, <a href="../Page/1975-76년_유러피언컵.md" title="wikilink">1976</a>, <a href="../Page/2000-01년_UEFA_챔피언스리그.md" title="wikilink">2001</a>, <a href="../Page/2012-13년_UEFA_챔피언스리그.md" title="wikilink">2013</a>)</p></td>
-<td><p>5회 (<a href="../Page/1981-82년_유러피언컵.md" title="wikilink">1982</a>, <a href="../Page/1986-87년_유러피언컵.md" title="wikilink">1987</a>, <a href="../Page/1998-99년_UEFA_챔피언스리그.md" title="wikilink">1999</a>, <a href="../Page/2009-10년_UEFA_챔피언스리그.md" title="wikilink">2010</a>, <a href="../Page/2011-12년_UEFA_챔피언스리그.md" title="wikilink">2012</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/FC_바르셀로나.md" title="wikilink">바르셀로나</a></p></td>
@@ -823,6 +830,11 @@ UEFA 유로파리그 저번 시즌 우승팀이 챔피언스리그 본선에 진
 <td><p>1회 (<a href="../Page/2018-19년_UEFA_챔피언스리그.md" title="wikilink">2019</a>)</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/파리_생제르망_FC" title="wikilink">파리 생제르망</a></p></td>
+<td></td>
+<td><p>1회 (<a href="../Page/2019-20년_UEFA_챔피언스리그.md" title="wikilink">2020</a>)</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -858,7 +870,7 @@ UEFA 유로파리그 저번 시즌 우승팀이 챔피언스리그 본선에 진
 </tr>
 <tr class="even">
 <td><p><a href="../Page/독일.md" title="wikilink">독일</a></p></td>
-<td><p>7회</p></td>
+<td><p>8회</p></td>
 <td><p>10회</p></td>
 </tr>
 <tr class="odd">
@@ -874,7 +886,7 @@ UEFA 유로파리그 저번 시즌 우승팀이 챔피언스리그 본선에 진
 <tr class="odd">
 <td><p><a href="../Page/프랑스.md" title="wikilink">프랑스</a></p></td>
 <td><p>1회</p></td>
-<td><p>5회</p></td>
+<td><p>6회</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/루마니아.md" title="wikilink">루마니아</a></p></td>
@@ -1367,6 +1379,12 @@ UEFA 유로파리그 저번 시즌 우승팀이 챔피언스리그 본선에 진
 <td><p>12</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019-20</p></td>
+<td><p></p></td>
+<td><p><a href="../Page/로베르트_레반도프스키.md" title="wikilink">로베르트 레반도프스키</a></p></td>
+<td><p>15</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1902,7 +1920,7 @@ UEFA 유로파리그 저번 시즌 우승팀이 챔피언스리그 본선에 진
 ## 같이 보기
 
   - [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink")
-  - [UEFA 유로파 컨퍼런스리그](../Page/UEFA_유로파_컨퍼런스리그.md "wikilink")
+  - [UEFA 유로파컨퍼런스리그](../Page/UEFA_유로파컨퍼런스리그.md "wikilink")
   - [UEFA 슈퍼컵](../Page/UEFA_슈퍼컵.md "wikilink")
   - [UEFA 여자 챔피언스리그](../Page/UEFA_여자_챔피언스리그.md "wikilink")
   - [빅이어](https://ko.wikipedia.org/wiki/빅이어 "wikilink")
@@ -1911,7 +1929,7 @@ UEFA 유로파리그 저번 시즌 우승팀이 챔피언스리그 본선에 진
 
 <references/>
 
-[분류:1955년 설립된 스포츠 리그](https://ko.wikipedia.org/wiki/분류:1955년_설립된_스포츠_리그 "wikilink")
+[UEFA_챔피언스리그](https://ko.wikipedia.org/wiki/분류:UEFA_챔피언스리그 "wikilink")
 
 1.
 2.

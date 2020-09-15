@@ -68,7 +68,7 @@
   - 2017년 - 대구 삼성 라이온즈 파크 개장 이후 첫 올스타전 (7월 15일 대구 삼성 라이온즈 파크) 드림 올스타 승리 - "드림 13 : 8 나눔"
   - 2018년 - 울산 문수 야구장 개장 이후 첫 올스타전 (7월 14일 울산 문수 야구장) 나눔 올스타 승리 - "나눔 10 : 6 드림"
   - 2019년 - 창원nc파크 개장 이후 첫 올스타전 (7월 21일 창원nc파크) 드림 올스타 승리 - "드림 9 : 7 나눔"
-  - 2020년 - [코로나바이러스감염증-19 범유행으로](https://ko.wikipedia.org/wiki/코로나바이러스감염증-19_범유행 "wikilink") 취소
+  - 2020년 - [코로나19 범유행으로](../Page/코로나19_범유행.md "wikilink") 취소
 
 ## 미스터 올스타(올스타전 MVP)
 
@@ -128,33 +128,33 @@
 
 ### 역대 홈런레이스 우승자
 
-  - 1993년([사직 야구장](../Page/사직야구장.md "wikilink")) [양준혁](../Page/양준혁.md "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 10회 타격 5홈런
-  - 1994년([잠실 야구장](https://ko.wikipedia.org/wiki/잠실_야구장 "wikilink")) [김기태](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink")([쌍방울 레이더스](../Page/쌍방울_레이더스.md "wikilink")) - 10회 타격 3홈런
-  - 1995년([사직 야구장](../Page/사직야구장.md "wikilink")) [마해영](../Page/마해영.md "wikilink")([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 10회 타격 6홈런
-  - 1996년([잠실 야구장](https://ko.wikipedia.org/wiki/잠실_야구장 "wikilink")) [심재학](../Page/심재학.md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 10회 타격 2홈런 (비고 - 연장전 우승)
-  - 1997년([대구 야구장](../Page/대구시민운동장_야구장.md "wikilink")) [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink")([현대 유니콘스](../Page/현대_유니콘스.md "wikilink")) - 5아웃 2홈런
-  - 1998년([광주 야구장](../Page/광주무등경기장_야구장.md "wikilink")) [양준혁](../Page/양준혁.md "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 10회 타격 5홈런
-  - 1999년([수원 야구장](https://ko.wikipedia.org/wiki/수원_야구장 "wikilink")) [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink")([현대 유니콘스](../Page/현대_유니콘스.md "wikilink")) - 11회 타격 4홈런
-  - 2000년([마산 야구장](https://ko.wikipedia.org/wiki/마산_야구장 "wikilink"),제주 야구장) [타이론 우즈](../Page/타이론_우즈.md "wikilink")([두산 베어스](../Page/두산_베어스.md "wikilink")) - 10아웃 9홈런 (비고 - 내,외국인 홈런레이스 승자끼리 결승전. 내국인 승자는 [심정수](../Page/심정수.md "wikilink"),[이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink"))
-  - 2001년([잠실 야구장](https://ko.wikipedia.org/wiki/잠실_야구장 "wikilink")) [양준혁](../Page/양준혁.md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 7아웃 4홈런 (비고 - 연장전 우승)
-  - 2002년([문학 야구장](https://ko.wikipedia.org/wiki/문학_야구장 "wikilink")) [틸슨 브리또](https://ko.wikipedia.org/wiki/틸슨_브리또 "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 5아웃 2홈런
-  - 2003년([대전 야구장](../Page/한밭종합운동장_야구장.md "wikilink")) [김동주](../Page/김동주_\(야구인\).md "wikilink")([두산 베어스](../Page/두산_베어스.md "wikilink")) - 10아웃 5홈런
-  - 2004년([사직 야구장](https://ko.wikipedia.org/wiki/사직_야구장 "wikilink")) [박용택](../Page/박용택.md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 7아웃 4홈런
-  - 2005년([문학 야구장](https://ko.wikipedia.org/wiki/문학_야구장 "wikilink")) [김태균](../Page/김태균_\(1982년\).md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink")) - 7아웃 5홈런
-  - 2006년([잠실 야구장](https://ko.wikipedia.org/wiki/잠실_야구장 "wikilink")) [이택근](../Page/이택근.md "wikilink")([현대 유니콘스](../Page/현대_유니콘스.md "wikilink")) - 10아웃 1홈런
-  - 2007년([사직 야구장](https://ko.wikipedia.org/wiki/사직_야구장 "wikilink")) [김태균](../Page/김태균_\(1982년\).md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink")) - 10아웃 9홈런
-  - 2008년([문학 야구장](https://ko.wikipedia.org/wiki/문학_야구장 "wikilink")) [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink")([SK 와이번스](../Page/SK_와이번스.md "wikilink")) - 7아웃 7홈런 (비고 - 월드 홈런레이스)
-  - 2009년([광주 야구장](../Page/광주무등경기장_야구장.md "wikilink")) [이대호](../Page/이대호.md "wikilink")([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 10아웃 5홈런
-  - 2010년([대구 야구장](../Page/대구시민운동장_야구장.md "wikilink")) [김현수](https://ko.wikipedia.org/wiki/김현수_\(야구_선수\) "wikilink")([두산 베어스](../Page/두산_베어스.md "wikilink")) - 7아웃 10홈런 (비고 - 역대 홈런레이스 결승 사상 최다 홈런)
-  - 2011년([잠실 야구장](https://ko.wikipedia.org/wiki/잠실_야구장 "wikilink")) [박정권](../Page/박정권.md "wikilink")([SK 와이번스](../Page/SK_와이번스.md "wikilink")) - 10아웃 7홈런 (비고 - 예선에서는 7아웃 6홈런을 기록)
-  - 2012년([대전 야구장](../Page/한밭종합운동장_야구장.md "wikilink")) [김태균](../Page/김태균_\(1982년\).md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink")) - 10아웃 6홈런 (비고 - 예선에서는 14개 홈런으로 예선부문 신기록)
-  - 2013년([포항 야구장](https://ko.wikipedia.org/wiki/포항_야구장 "wikilink")) [이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 10아웃 6홈런
-  - 2014년([광주-기아 챔피언스 필드](../Page/광주-기아_챔피언스_필드.md "wikilink")) [김현수](https://ko.wikipedia.org/wiki/김현수_\(야구_선수\) "wikilink") ([두산 베어스](../Page/두산_베어스.md "wikilink")) - 10아웃 14홈런 (비고 - 자신의 역대 홈런레이스 결승 사상 최다 홈런 보유 기록 갱신)
-  - 2015년([수원 kt 위즈 파크](https://ko.wikipedia.org/wiki/수원_kt_위즈_파크 "wikilink")) [황재균](../Page/황재균.md "wikilink")([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 10아웃 11홈런
-  - 2016년([고척스카이돔](../Page/고척스카이돔.md "wikilink")) [히메네스](../Page/루이스_히메네스_\(1988년\).md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 10아웃 5홈런
-  - 2017년([대구 삼성 라이온즈 파크](https://ko.wikipedia.org/wiki/대구_삼성_라이온즈_파크 "wikilink")) [로사리오](../Page/윌린_로사리오.md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink")) - 10아웃 8홈런
-  - 2018년([울산 문수야구장](../Page/울산문수야구장.md "wikilink")) [이대호](../Page/이대호.md "wikilink")([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 10아웃 3홈런 (동점으로 연장전 1홈런으로 우승)
-  - 2019년([창원NC파크](../Page/창원NC파크.md "wikilink")) [제이미 로맥](../Page/제이미_로맥.md "wikilink")([SK 와이번스](../Page/SK_와이번스.md "wikilink")) - 10아웃 7홈런
+  - 1993년([사직](../Page/사직야구장.md "wikilink")) [양준혁](../Page/양준혁.md "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 10회 타격 5홈런(비고-최초)
+  - 1994년([잠실](../Page/서울종합운동장_야구장.md "wikilink")) [김기태](https://ko.wikipedia.org/wiki/김기태_\(1969년\) "wikilink")([쌍방울 레이더스](../Page/쌍방울_레이더스.md "wikilink")) - 10회 타격 3홈런
+  - 1995년([사직](../Page/사직야구장.md "wikilink")) [마해영](../Page/마해영.md "wikilink")([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 10회 타격 6홈런
+  - 1996년([잠실](../Page/서울종합운동장_야구장.md "wikilink")) [심재학](../Page/심재학.md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 10회 타격 2홈런 (비고 - 연장전 우승)
+  - 1997년([대구](../Page/대구시민운동장_야구장.md "wikilink")) [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink")([현대 유니콘스](../Page/현대_유니콘스.md "wikilink")) - 5아웃 2홈런
+  - 1998년([광주](../Page/광주무등경기장_야구장.md "wikilink")) [양준혁](../Page/양준혁.md "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 10회 타격 5홈런
+  - 1999년([수원](../Page/수원야구장.md "wikilink")) [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink")([현대 유니콘스](../Page/현대_유니콘스.md "wikilink")) - 11회 타격 4홈런
+  - 2000년([마산](../Page/마산종합운동장_야구장.md "wikilink"),제주 야구장) [타이론 우즈](../Page/타이론_우즈.md "wikilink")([두산 베어스](../Page/두산_베어스.md "wikilink")) - 10아웃 9홈런 (비고 - 내,외국인 홈런레이스 승자끼리 결승전. 내국인 승자는 [심정수](../Page/심정수.md "wikilink"),[이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink"))
+  - 2001년([잠실](../Page/서울종합운동장_야구장.md "wikilink")) [양준혁](../Page/양준혁.md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 7아웃 4홈런 (비고 - 연장전 우승)
+  - 2002년([문학](../Page/문학야구장.md "wikilink")) [틸슨 브리또](https://ko.wikipedia.org/wiki/틸슨_브리또 "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 5아웃 2홈런
+  - 2003년([대전](../Page/한밭종합운동장_야구장.md "wikilink")) [김동주](../Page/김동주_\(야구인\).md "wikilink")([두산 베어스](../Page/두산_베어스.md "wikilink")) - 10아웃 5홈런
+  - 2004년([사직](../Page/사직야구장.md "wikilink")) [박용택](../Page/박용택.md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 7아웃 4홈런
+  - 2005년([문학](../Page/문학야구장.md "wikilink")) [김태균](../Page/김태균_\(1982년\).md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink")) - 7아웃 5홈런
+  - 2006년([잠실](../Page/서울종합운동장_야구장.md "wikilink")) [이택근](../Page/이택근.md "wikilink")([현대 유니콘스](../Page/현대_유니콘스.md "wikilink")) - 10아웃 1홈런
+  - 2007년([사직](../Page/사직야구장.md "wikilink")) [김태균](../Page/김태균_\(1982년\).md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink")) - 10아웃 9홈런
+  - 2008년([문학](../Page/문학야구장.md "wikilink")) [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink")([SK 와이번스](../Page/SK_와이번스.md "wikilink")) - 7아웃 7홈런 (비고 - 월드 홈런레이스)
+  - 2009년([광주](../Page/광주무등경기장_야구장.md "wikilink")) [이대호](../Page/이대호.md "wikilink")([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 10아웃 5홈런
+  - 2010년([대구](../Page/대구시민운동장_야구장.md "wikilink")) [김현수](https://ko.wikipedia.org/wiki/김현수_\(야구_선수\) "wikilink")([두산 베어스](../Page/두산_베어스.md "wikilink")) - 7아웃 10홈런 (비고 - 역대 홈런레이스 결승 사상 최다 홈런)
+  - 2011년([잠실](../Page/서울종합운동장_야구장.md "wikilink")) [박정권](../Page/박정권.md "wikilink")([SK 와이번스](../Page/SK_와이번스.md "wikilink")) - 10아웃 7홈런 (비고 - 예선에서는 7아웃 6홈런을 기록)
+  - 2012년([대전](../Page/한밭종합운동장_야구장.md "wikilink")) [김태균](../Page/김태균_\(1982년\).md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink")) - 10아웃 6홈런 (비고 - 예선에서는 14개 홈런으로 예선부문 신기록)
+  - 2013년([포항](../Page/포항야구장.md "wikilink")) [이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink")([삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")) - 10아웃 6홈런
+  - 2014년([광주](../Page/광주-기아_챔피언스_필드.md "wikilink")) [김현수](https://ko.wikipedia.org/wiki/김현수_\(야구_선수\) "wikilink") ([두산 베어스](../Page/두산_베어스.md "wikilink")) - 10아웃 14홈런 (비고 - 자신의 역대 홈런레이스 결승 사상 최다 홈런 보유 기록 갱신)
+  - 2015년([수원](../Page/수원야구장.md "wikilink")) [황재균](../Page/황재균.md "wikilink")([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 10아웃 11홈런
+  - 2016년([고척](../Page/고척스카이돔.md "wikilink")) [히메네스](../Page/루이스_히메네스_\(1988년\).md "wikilink")([LG 트윈스](../Page/LG_트윈스.md "wikilink")) - 10아웃 5홈런
+  - 2017년([대구](https://ko.wikipedia.org/wiki/대구_삼성_라이온즈_파크 "wikilink")) [로사리오](../Page/윌린_로사리오.md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink")) - 10아웃 8홈런
+  - 2018년([울산](../Page/울산문수야구장.md "wikilink")) [이대호](../Page/이대호.md "wikilink")([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 10아웃 3홈런 (동점으로 연장전 1홈런으로 우승)
+  - 2019년([창원](../Page/창원NC파크.md "wikilink")) [제이미 로맥](../Page/제이미_로맥.md "wikilink")([SK 와이번스](../Page/SK_와이번스.md "wikilink")) - 10아웃 7홈런
 
 ## 번트왕
 
@@ -167,7 +167,7 @@
   - 2012년([대전 야구장](../Page/한밭종합운동장_야구장.md "wikilink")) [이용규](../Page/이용규.md "wikilink")([KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink")) - 10점
   - 2013년([포항야구장](../Page/포항야구장.md "wikilink")) [신본기](../Page/신본기.md "wikilink")([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 2점
   - 2014년([광주-기아 챔피언스 필드](../Page/광주-기아_챔피언스_필드.md "wikilink")) [손아섭](../Page/손아섭.md "wikilink") ([롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")) - 13점
-  - 2015년([수원야구장](../Page/수원야구장.md "wikilink")) [이용규](../Page/이용규.md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink"))-16점
+  - 2015년([수원야구장](../Page/수원야구장.md "wikilink")) [이용규](../Page/이용규.md "wikilink")([한화 이글스](../Page/한화_이글스.md "wikilink")) - 16점
   - 2016년([고척스카이돔](../Page/고척스카이돔.md "wikilink")) 드림 올스타([메릴 켈리](../Page/메릴_켈리.md "wikilink"), [심창민](../Page/심창민.md "wikilink"), [허경민](../Page/허경민.md "wikilink"), [김문호](../Page/김문호.md "wikilink"), [박경수](../Page/박경수_\(야구_선수\).md "wikilink"))
 
 ## 퍼펙트 피처

@@ -61,11 +61,11 @@
 1.  [4기 e스포츠협회장, SK텔레콤 연임](http://www.fomos.kr/board/board.php?mode=read&keyno=117271&db=issue) - 포모스
 2.  사유로는 [대한민국 국회](../Page/대한민국_국회.md "wikilink")(국회의장 정의화)에서 단체장 겸직 금지를 권고했는데 이 중에 전병헌 협회장도 포함됐다. 결국 약 1년 11개월여의 활동을 마감하고 물러났다. 하지만 [IeSF](https://ko.wikipedia.org/wiki/IeSF "wikilink") 회장직은 국제단체임에 따라 계속 역임할 수 있다.
 3.  [한국e스포츠협회, 김영만 신임 회장 선임](http://www.ddaily.co.kr/news/article.html?no=176042) - 디지털데일리
-4.  [e스포츠도 방송 중계권 협상한다](http://www.etnews.co.kr/news/detail.html?id=200701220167) - 전자신문
-5.  [IEG, 스타크 프로리그 중계권 확보](http://www.etnews.co.kr/news/detail.html?id=200701310073) - 전자신문
-6.  [e스포츠 중계권 협상 타결](http://www.etnews.co.kr/news/detail.html?id=200703200044) - 전자신문
+4.  [e스포츠도 방송 중계권 협상한다](http://www.etnews.co.kr/news/detail.html?id=200701220167)  - 전자신문
+5.  [IEG, 스타크 프로리그 중계권 확보](http://www.etnews.co.kr/news/detail.html?id=200701310073)  - 전자신문
+6.  [e스포츠 중계권 협상 타결](http://www.etnews.co.kr/news/detail.html?id=200703200044)  - 전자신문
 7.  [블리자드 차기작 '스타2' 확실](http://news.media.daum.net/digital/it/200705/05/newsis/v16631724.html)  - 뉴시스
-8.  ["한국 e스포츠 진흥 노력 무시"](http://www.etnews.co.kr/news/detail.html?id=200706010189) - 전자신문
-9.  [블리자드 "스타크 저작권 침해 용납못해"](http://www.inews24.com/php/news_view.php?g_serial=276056&g_menu=702520) - 아이뉴스
+8.  ["한국 e스포츠 진흥 노력 무시"](http://www.etnews.co.kr/news/detail.html?id=200706010189)  - 전자신문
+9.  [블리자드 "스타크 저작권 침해 용납못해"](http://www.inews24.com/php/news_view.php?g_serial=276056&g_menu=702520)  - 아이뉴스
 10. [블리자드-한국e스포츠협회-온게임넷-MBC게임, 스타크래프트 라이선스 계약 체결](http://www.fomos.kr/board/board.php?mode=read&keyno=117417&db=issue&cate=&page=5&field=&kwrd=) - 포모스
 11.

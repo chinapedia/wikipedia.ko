@@ -34,9 +34,9 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.satairlines.ru/)
+  - [공식 홈페이지](https://web.archive.org/web/20080913135334/http://www.satairlines.ru/)
 
 [분류:1992년 설립](https://ko.wikipedia.org/wiki/분류:1992년_설립 "wikilink") [분류:2013년 폐지](https://ko.wikipedia.org/wiki/분류:2013년_폐지 "wikilink") [분류:러시아의 없어진 항공사](https://ko.wikipedia.org/wiki/분류:러시아의_없어진_항공사 "wikilink") [분류:아에로플로트](https://ko.wikipedia.org/wiki/분류:아에로플로트 "wikilink")
 
-1.  [SAT Airlines Official Website](http://www.satairlines.ru/index.php?mode=showcat&that=18)
-2.  [SAT Airlines Fleet Age](http://www.airfleets.net/ageflotte/SAT%20Airlines.htm)
+1.
+2.

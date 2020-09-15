@@ -63,7 +63,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100x20px</a><br />
 <strong><a href="../Page/미국_여자_축구_국가대표팀.md" title="wikilink">미국</a></strong></p></td>
-<td><p><strong>2–1</strong></p></td>
+<td><p><strong>2 – 1</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1995년.md" title="wikilink">1995년</a><br />
@@ -71,7 +71,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Norway.svg" title="wikilink">100x20px</a><br />
 <strong><a href="../Page/노르웨이_여자_축구_국가대표팀.md" title="wikilink">노르웨이</a></strong></p></td>
-<td><p><strong>2–0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1999년.md" title="wikilink">1999년</a><br />
@@ -79,9 +79,9 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100x20px</a><br />
 <strong><a href="../Page/미국_여자_축구_국가대표팀.md" title="wikilink">미국</a></strong></p></td>
-<td><p><strong>0–0</strong><br />
+<td><p><strong>0 – 0</strong><br />
 <small><a href="../Page/연장전.md" title="wikilink">연장전</a></small><br />
-<strong>(5–4)</strong><br />
+<strong>(5 – 4)</strong><br />
 <small><a href="../Page/승부차기.md" title="wikilink">승부차기</a></small></p></td>
 </tr>
 <tr class="odd">
@@ -90,7 +90,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Germany.svg" title="wikilink">100x20px</a><br />
 <strong><a href="../Page/독일_여자_축구_국가대표팀.md" title="wikilink">독일</a></strong></p></td>
-<td><p><strong>2–1</strong><br />
+<td><p><strong>2 – 1</strong><br />
 <small><a href="../Page/연장전.md" title="wikilink">연장전</a></small></p></td>
 </tr>
 <tr class="even">
@@ -105,7 +105,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Germany.svg" title="wikilink">100x20px</a><br />
 <strong><a href="../Page/독일_여자_축구_국가대표팀.md" title="wikilink">독일</a></strong></p></td>
-<td><p><strong>2–0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2011년.md" title="wikilink">2011년</a><br />
@@ -113,9 +113,9 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Japan.svg" title="wikilink">100x20px</a><br />
 <strong><a href="../Page/일본_여자_축구_국가대표팀.md" title="wikilink">일본</a></strong></p></td>
-<td><p><strong>2–2</strong><br />
+<td><p><strong>2 – 2</strong><br />
 <small><a href="../Page/연장전.md" title="wikilink">연장전</a></small><br />
-<strong>(3–1)</strong><br />
+<strong>(3 – 1)</strong><br />
 <small><a href="../Page/승부차기.md" title="wikilink">승부차기</a></small></p></td>
 </tr>
 <tr class="odd">
@@ -124,7 +124,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100x20px</a><br />
 <strong><a href="../Page/미국_여자_축구_국가대표팀.md" title="wikilink">미국</a></strong></p></td>
-<td><p><strong>5–2</strong></p></td>
+<td><p><strong>5 – 2</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a><br />
@@ -132,7 +132,16 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_the_United_States.svg" title="wikilink">100x20px</a><br />
 <strong><a href="../Page/미국_여자_축구_국가대표팀.md" title="wikilink">미국</a></strong></p></td>
-<td><p><strong>2–0</strong></p></td>
+<td><p><strong>2 – 0</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2023년.md" title="wikilink">2023년</a><br />
+<em><a href="../Page/2023년_FIFA_여자_월드컵.md" title="wikilink">자세히</a></em></p></td>
+<td><p><br />
+</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_None.svg" title="wikilink">100x20px</a><br />
+<strong><a href="https://ko.wikipedia.org/wiki/?_여자_축구_국가대표팀" title="wikilink">?</a></strong></p></td>
+<td><p><strong>? – ?</strong></p></td>
 </tr>
 </tbody>
 </table>

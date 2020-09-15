@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [펜티엄 III](https://ko.wikipedia.org/wiki/펜티엄_III).
 
 
-**펜티엄 III**(Pentium III)는 [인텔](../Page/인텔.md "wikilink")의 [32비트](../Page/32비트.md "wikilink") [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 데스크톱/모바일 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink")이며 [1999년](../Page/1999년.md "wikilink") [2월 26일에](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 소개되었고 950만 개의 트랜지스터를 포함하였다. 이 상품의 초기 프로세서는 [펜티엄 II의](../Page/펜티엄_II.md "wikilink") 초기 [CPU와](../Page/중앙_처리_장치.md "wikilink") 매우 닮아 있었다. 큰 차이는 [SSE](../Page/스트리밍_SIMD_확장.md "wikilink") [명령어 집합의](../Page/명령어_집합.md "wikilink") 추가로 미디어 처리와 3D 그래픽의 속도가 빨라졌다는 것이다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Pentium_III_Katmai.jpg "wikilink") **펜티엄 III**(Pentium III)는 [인텔](../Page/인텔.md "wikilink")의 [32비트](../Page/32비트.md "wikilink") [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 데스크톱/모바일 [마이크로프로세서](../Page/마이크로프로세서.md "wikilink")이며 [1999년](../Page/1999년.md "wikilink") [2월 26일에](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 소개되었고 950만 개의 트랜지스터를 포함하였다. 이 상품의 초기 프로세서는 [펜티엄 II의](../Page/펜티엄_II.md "wikilink") 초기 [CPU와](../Page/중앙_처리_장치.md "wikilink") 매우 닮아 있었다. 큰 차이는 [SSE](../Page/스트리밍_SIMD_확장.md "wikilink") [명령어 집합의](../Page/명령어_집합.md "wikilink") 추가로 미디어 처리와 3D 그래픽의 속도가 빨라졌다는 것이다.
 
 ## 코어 규격
 

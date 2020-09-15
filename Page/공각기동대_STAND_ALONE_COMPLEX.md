@@ -67,11 +67,11 @@ SAC는 [2029년](../Page/2029년.md "wikilink") 이전까지의 바탕 줄거리
 
   - [공식 웹사이트](http://www.kokaku-s.com/)
 
-  - [프로덕션 I.G](http://www.production-ig.co.jp/) - 이 작품의 제작사.
+  - [프로덕션 I.G](https://web.archive.org/web/20170909234054/https://www.production-ig.co.jp/) - 이 작품의 제작사.
 
   - [공각기동대 STAND ALONE COMPLEX](https://www.imdb.com/title/tt0346314/) - [인터넷 영화 데이터베이스](../Page/인터넷_영화_데이터베이스.md "wikilink").
 
-[분류:공각기동대](https://ko.wikipedia.org/wiki/분류:공각기동대 "wikilink") [분류:2002년 애니메이션](https://ko.wikipedia.org/wiki/분류:2002년_애니메이션 "wikilink") [분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:프로덕션 I.G](https://ko.wikipedia.org/wiki/분류:프로덕션_I.G "wikilink") [분류:애니맥스](https://ko.wikipedia.org/wiki/분류:애니맥스 "wikilink") [분류:로봇 애니메이션](https://ko.wikipedia.org/wiki/분류:로봇_애니메이션 "wikilink")
+[분류:공각기동대](https://ko.wikipedia.org/wiki/분류:공각기동대 "wikilink") [분류:2002년 애니메이션](https://ko.wikipedia.org/wiki/분류:2002년_애니메이션 "wikilink") [분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:프로덕션 I.G](https://ko.wikipedia.org/wiki/분류:프로덕션_I.G "wikilink") [분류:애니맥스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:애니맥스의_텔레비전_프로그램 "wikilink") [분류:로봇 애니메이션](https://ko.wikipedia.org/wiki/분류:로봇_애니메이션 "wikilink")
 
 1.  [Production I.G \[WORK LIST\[Details](http://www.productionig.com/contents/works_sp/39_/s08_/index.html)\] \]
 2.

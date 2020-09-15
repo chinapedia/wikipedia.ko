@@ -435,8 +435,6 @@
 
 [본선의 변천사](https://ko.wikipedia.org/wiki/분류:FIFA_월드컵 "wikilink") [분류:축구의 역사](https://ko.wikipedia.org/wiki/분류:축구의_역사 "wikilink")
 
-[ka:მსოფლიო საფეხბურთო ჩემპიონატი\#ისტორია](https://ko.wikipedia.org/wiki/ka:მსოფლიო_საფეხბურთო_ჩემპიონატი#ისტორია "wikilink")
-
 1.  [The Olympic Odyssey so far... (Part 1: 1908 - 1964)](http://www.fifa.com/tournaments/archive/tournament=512/edition=8229/news/newsid=92851.html), FIFA.com. [2008년](../Page/2008년.md "wikilink") [1월 8일에](../Page/1월_8일.md "wikilink") 확인.
 2.  [FIFA World Cup Origin](http://www.fifa.com/mm/document/fifafacts/mcwc/ip-201_02e_fwc-origin_8816.pdf) (PDF), FIFA.com. [2007년](../Page/2007년.md "wikilink") [11월 19일에](../Page/11월_19일.md "wikilink") 확인.
 3.  이 완전무작위 선정방식으로 인하여 [1986년 FIFA 월드컵당시](https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵 "wikilink") [1978년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵 "wikilink") 우승국인 아르헨티나와 [1982년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵 "wikilink") 우승국인 이탈리아가 같은 조로 편성이 되었다. 톱시드가 되어야 마땅한 두 팀이 같은 조에 몰려버린 셈이다.

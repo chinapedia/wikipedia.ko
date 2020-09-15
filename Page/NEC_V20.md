@@ -33,7 +33,7 @@ V20은 [리버스 엔지니어링으로](../Page/리버스_엔지니어링.md "w
   - **V60**(μPD70616) : 내부 32비트, 외부 16비트, 24비트 어드레스 버스의 32비트 [CISC](https://ko.wikipedia.org/wiki/CISC "wikilink") CPU, 이전 CPU와는 달리 NEC 고유의 명령어 세트가 특징이며 V30 에뮬레이트 모드와 FPU를 내장했다. [세가 시스템32와](https://ko.wikipedia.org/wiki/세가_시스템32 "wikilink") [세가 모델 1에](../Page/세가_모델_1.md "wikilink") 사용되었다.
   - **V70**(μPD70632) : V60을 내,외부 버스를 32비트로 변경, [세가 시스템 멀티 32와](https://ko.wikipedia.org/wiki/세가_시스템_멀티_32 "wikilink") [자레코 메가 시스템 32에](https://ko.wikipedia.org/wiki/자레코_메가_시스템_32 "wikilink") 사용되었다.
   - **V80** : 마지막 CISC CPU, V30 에뮬레이트 모드 제거
-  - **V20, V30용 [FPU](https://ko.wikipedia.org/wiki/FPU "wikilink")**(uPD71091) : [인텔 8087과는](https://ko.wikipedia.org/wiki/인텔_8087 "wikilink") 동작이 달라 별도의 보조회로 필요
+  - **V20, V30용 [FPU](https://ko.wikipedia.org/wiki/FPU "wikilink")**(uPD71091) : [인텔 8087과는](../Page/인텔_8087.md "wikilink") 동작이 달라 별도의 보조회로 필요
   - **V800** : [RISC](https://ko.wikipedia.org/wiki/RISC "wikilink") CPU로 V810/V830/V850 등이 있다. NEC [PC-FX](../Page/PC-FX.md "wikilink")와 [닌텐도](../Page/닌텐도.md "wikilink") [버추얼 보이에](https://ko.wikipedia.org/wiki/버추얼_보이 "wikilink") 사용
 
 ## 외부 링크

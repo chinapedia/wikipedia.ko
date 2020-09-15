@@ -58,7 +58,7 @@
 
 [1988년](../Page/1988년.md "wikilink"), Being의 사장이자 음악 프로듀서인 나가토 다이코로부터 1개의 데모 테입을 받았다. 그 데모 테입에는 학생시절 당시의 이나바가 T-Born work의 〈T-Born shuffle〉, [레드 제플린의](../Page/레드_제플린.md "wikilink") 〈You shock me〉, [빌리 죠엘의](https://ko.wikipedia.org/wiki/빌리_죠엘 "wikilink") 〈Honesty〉를 노래한 것이 녹음되어 있었다.\[1\]
 
-같은 해 5월에 “SOUND JOAKER”라는 이름의 소규모 스튜디오에서 첫 대면을 한 두 사람은 [비틀즈](../Page/비틀즈.md "wikilink")의 〈[Let it be](https://ko.wikipedia.org/wiki/Let_it_be "wikilink")〉, 〈[Oh\! Darling](../Page/Oh!_Darling.md "wikilink")〉 두 곡을 [세션](https://ko.wikipedia.org/wiki/세션 "wikilink")하였다. 그 후, 밴드를 **B'z**로서 데뷔하게 되었다.\[2\]
+같은 해 5월에 “SOUND JOKER”라는 이름의 소규모 스튜디오에서 첫 대면을 한 두 사람은 [비틀즈](../Page/비틀즈.md "wikilink")의 〈[Let it be](https://ko.wikipedia.org/wiki/Let_it_be "wikilink")〉, 〈[Oh\! Darling](../Page/Oh!_Darling.md "wikilink")〉 두 곡을 [세션](https://ko.wikipedia.org/wiki/세션 "wikilink")하였다. 그 후, 밴드를 **B'z**로서 데뷔하게 되었다.\[2\]
 
 두 사람이 첫 세션을 했을 때, (비틀즈의 오 달링)을 함께 맞추어 보던중 엠프가 터져버려 달랑 2곡만 세션을 하고 결성하였다. 당시 이나바는 "엠프가 고장나 버리다니. 내가 같이 밴드해도 좋은것일까? 불길한데"라고 말하였고 마쯔모토는 쿨하게 "내일부터 사무실로 출근해라"라고 말했다고 한다.\[3\] 두 사람은 데뷔한 지 29년이 지난 지금도 “함께 밴드 하자\!”라고 서로 말하지는 않았다고 웃으며 뮤직스테이션에 출연하여 얘기하였지만, [1993년](../Page/1993년.md "wikilink") 《LIVE-GYM '93 "RUN"》 중간에, 그렇다면 말하지 않은 것으로 하고 이나바가 "함께 하자\!"라고 말하였다. 한편 나가토는 B'z가 결성되기 2\~3년 전부터 이나바를 어떻게든 얼른 데뷔시키고 싶다는 말을 계속하였다. (B'z 초기 FC스테프의 기사로부터)
 

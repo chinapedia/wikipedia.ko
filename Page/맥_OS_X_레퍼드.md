@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [맥 OS X 레퍼드](https://ko.wikipedia.org/wiki/맥_OS_X_레퍼드).
 
 
-**맥 OS X 레퍼드**(Mac OS X Leopard)는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 [매킨토시](../Page/매킨토시.md "wikilink")용 운영 체제인 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 여섯 번째 주요 버전이며, [2007년](../Page/2007년.md "wikilink") 10월 26일 [맥 OS X 타이거의](../Page/맥_OS_X_타이거.md "wikilink") 이후 버전으로 출시되었다. 이 버전은 개인용 컴퓨터에 맞는 데스크톱 버전과 [서버](../Page/서버.md "wikilink")에 맞는 버전인 [맥 OS X 레퍼드 서버로](https://ko.wikipedia.org/wiki/맥_OS_X_레퍼드_서버 "wikilink") 출시되었다. 스티브 잡스는 [2008년](../Page/2008년.md "wikilink") 맥월드에서 20%의 [매킨토시](../Page/매킨토시.md "wikilink")가 맥 OS X 레퍼드를 사용하고 있다고 밝혔다.\[1\] 레퍼드는 [맥 OS X 스노 레퍼드로](../Page/맥_OS_X_스노_레퍼드.md "wikilink") 대체되었다. 레퍼드는 [파워PC](../Page/파워PC.md "wikilink") 아키텍처를 지원하는 마지막 [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 버전이다. 이후 나온 [맥 OS X 스노 레퍼드는](../Page/맥_OS_X_스노_레퍼드.md "wikilink") [인텔](../Page/인텔.md "wikilink") 프로세서 기반 맥에서만 작동한다.
+**맥 OS X 레퍼드**(Mac OS X Leopard)는 [애플](../Page/애플.md "wikilink")이 개발한 [매킨토시](../Page/매킨토시.md "wikilink")용 운영 체제인 [맥 OS X의](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 여섯 번째 주요 버전이며, [2007년](../Page/2007년.md "wikilink") 10월 26일 [맥 OS X 타이거의](../Page/맥_OS_X_타이거.md "wikilink") 이후 버전으로 출시되었다. 이 버전은 개인용 컴퓨터에 맞는 데스크톱 버전과 [서버](../Page/서버.md "wikilink")에 맞는 버전인 [맥 OS X 레퍼드 서버로](https://ko.wikipedia.org/wiki/맥_OS_X_레퍼드_서버 "wikilink") 출시되었다. 스티브 잡스는 [2008년](../Page/2008년.md "wikilink") 맥월드에서 20%의 [매킨토시](../Page/매킨토시.md "wikilink")가 맥 OS X 레퍼드를 사용하고 있다고 밝혔다.\[1\] 레퍼드는 [맥 OS X 스노 레퍼드로](../Page/맥_OS_X_스노_레퍼드.md "wikilink") 대체되었다. 레퍼드는 [파워PC](../Page/파워PC.md "wikilink") 아키텍처를 지원하는 마지막 [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 버전이다. 이후 나온 [맥 OS X 스노 레퍼드는](../Page/맥_OS_X_스노_레퍼드.md "wikilink") [인텔](../Page/인텔.md "wikilink") 프로세서 기반 맥에서만 작동한다.
 
 레퍼드에는 300가지가 넘는 기능이 새로 탑재되었다.\[2\] 레퍼드는 새롭게 디자인된 독, 스택, 투명 메뉴 바, 새로워진 파인더 등과 함께 완전히 새로워진 데스크톱 경험을 제공한다. 그 외에도 [64비트](../Page/64비트.md "wikilink") [그래픽 사용자 인터페이스](../Page/그래픽_사용자_인터페이스.md "wikilink") [애플리케이션](https://ko.wikipedia.org/wiki/애플리케이션 "wikilink") 코딩 가능. 타임 머신이라는 자동 백업 도구. 다중 기기로의 스팟라이트 지원. 기존에 일부 기기에만 포함되어 있던 프론트 로우와 포토 부스 추가 등이 변화했다.
 
-처음에 [2005년](../Page/2005년.md "wikilink") [WWDC](https://ko.wikipedia.org/wiki/WWDC "wikilink")에서 개발이 발표되었고, [2006년](../Page/2006년.md "wikilink") [WWDC](https://ko.wikipedia.org/wiki/WWDC "wikilink")에서 기능 중 일부를 선보였다. [애플에서](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 처음에는 2007년 초반에 발표를 계획했지만 [아이폰](../Page/아이폰.md "wikilink")의 개발상의 이유로 [2007년](../Page/2007년.md "wikilink") [10월](../Page/10월.md "wikilink") 중으로 발표를 미루었다.\[3\] 또, 2007년 10월 26일 오후 6시(한국시간)부터 세계 각국에서 발매되었다.\[4\]
+처음에 [2005년](../Page/2005년.md "wikilink") [WWDC](https://ko.wikipedia.org/wiki/WWDC "wikilink")에서 개발이 발표되었고, [2006년](../Page/2006년.md "wikilink") [WWDC](https://ko.wikipedia.org/wiki/WWDC "wikilink")에서 기능 중 일부를 선보였다. [애플](../Page/애플.md "wikilink")에서 처음에는 2007년 초반에 발표를 계획했지만 [아이폰](../Page/아이폰.md "wikilink")의 개발상의 이유로 [2007년](../Page/2007년.md "wikilink") [10월](../Page/10월.md "wikilink") 중으로 발표를 미루었다.\[3\] 또, 2007년 10월 26일 오후 6시(한국시간)부터 세계 각국에서 발매되었다.\[4\]
 
 ## 시스템 요구 사항
 
@@ -22,7 +22,7 @@
 
 ### 최종 사용자 기능
 
-애플은 맥 OS X 레퍼드가 300개 이상의 기능을 가지고 있다고 홍보했다.\[6\]해당 기능들은 다음과 같다:
+애플은 맥 OS X 레퍼드가 300개 이상의 기능을 가지고 있다고 홍보했다.\[6\] 해당 기능들은 다음과 같다:
 
   - 향상된 오토메이터.
   - 백 투 마이 맥. 모바일미 사용자들이 집에서 떨어져 있어도 인터넷으로 그들의 홈 컴퓨터의 파일을 접근할 수 있는 기능.
@@ -54,14 +54,14 @@
   - 새로운 스크립팅 브릿지는 [파이썬](../Page/파이썬.md "wikilink")과 [루비를](../Page/루비_\(프로그래밍_언어\).md "wikilink") 이용해서 코코아 프레임워크와 소통할 수 있도록 해준다.\[16\]
   - [루비 온 레일즈가](../Page/루비_온_레일즈.md "wikilink") 기본으로 설치되어있다.
   - 레퍼드의 [오픈GL](https://ko.wikipedia.org/wiki/오픈GL "wikilink") 스택이 버전 2.1로 업데이트되었다.
-  - [ZFS](../Page/ZFS.md "wikilink") [파일 시스템을](../Page/파일_시스템.md "wikilink") 읽기 전용으로 사용할 수 있다. [2006년](../Page/2006년.md "wikilink") 12월 중반에 레퍼드의 프리 릴리즈 버전이 [선 마이크로시스템즈의](https://ko.wikipedia.org/wiki/선_마이크로시스템즈 "wikilink") [ZFS](../Page/ZFS.md "wikilink") 파일 시스템을 포함하는 것으로 보였다.\[17\]또한 조나단 슈워츠 [선 마이크로시스템즈](https://ko.wikipedia.org/wiki/선_마이크로시스템즈 "wikilink") CEO는 [ZFS](../Page/ZFS.md "wikilink")가 레퍼드의 기본 [파일 시스템이라고](../Page/파일_시스템.md "wikilink") 밝혔다.\[18\]하지만 곧 애플은 HFS+가 레퍼드에 사용될 것이고, [ZFS](../Page/ZFS.md "wikilink")는 사용되지 않을 것이라고 밝혔다. 이후 애플은 "읽기 전용" [ZFS](../Page/ZFS.md "wikilink") 버전이 포함될 것이라고 밝혔다.\[19\]
+  - [ZFS](../Page/ZFS.md "wikilink") [파일 시스템을](../Page/파일_시스템.md "wikilink") 읽기 전용으로 사용할 수 있다. [2006년](../Page/2006년.md "wikilink") 12월 중반에 레퍼드의 프리 릴리즈 버전이 [선 마이크로시스템즈의](https://ko.wikipedia.org/wiki/선_마이크로시스템즈 "wikilink") [ZFS](../Page/ZFS.md "wikilink") 파일 시스템을 포함하는 것으로 보였다.\[17\] 또한 조나단 슈워츠 [선 마이크로시스템즈](https://ko.wikipedia.org/wiki/선_마이크로시스템즈 "wikilink") CEO는 [ZFS](../Page/ZFS.md "wikilink")가 레퍼드의 기본 [파일 시스템이라고](../Page/파일_시스템.md "wikilink") 밝혔다.\[18\] 하지만 곧 애플은 HFS+가 레퍼드에 사용될 것이고, [ZFS](../Page/ZFS.md "wikilink")는 사용되지 않을 것이라고 밝혔다. 이후 애플은 "읽기 전용" [ZFS](../Page/ZFS.md "wikilink") 버전이 포함될 것이라고 밝혔다.\[19\]
   - 레퍼드는 블루레이 디스크와 HD DVD를 읽는데 필요한 [UDF](https://ko.wikipedia.org/wiki/UDF "wikilink") 2.5에 대한 드라이버를 추가했다.\[20\]
   - 레퍼드는 J2SE 5.0을 포함한다.\[21\]
 
 ### 보안 향상
 
   - 라이브러리 랜덤화: 레퍼드는 메모리에 있는 몇몇 라이브러리의 위치를 랜덤화하는 "[주소 공간 배치 난수화](https://ko.wikipedia.org/wiki/주소_공간_배치_난수화 "wikilink") (ASLR)"을 포함한다. 각각의 프로세스의 메모리 주소를 메모리 상의 공간에 임의로 배치하여 악의적인 프로그램이 특정 코드기 메모리상에서 있는 주소를 예측하기 어렵게 하였다.
-  - [애플리케이션](https://ko.wikipedia.org/wiki/애플리케이션 "wikilink") 서명: 레퍼드용으로 개발된 모든 응용 프로그램에는 [애플이나](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 서드파티 개발자의 서명을 붙일 수 있다.
+  - [애플리케이션](https://ko.wikipedia.org/wiki/애플리케이션 "wikilink") 서명: 레퍼드용으로 개발된 모든 응용 프로그램에는 [애플](../Page/애플.md "wikilink")이나 서드파티 개발자의 서명을 붙일 수 있다.
   - [애플리케이션](https://ko.wikipedia.org/wiki/애플리케이션 "wikilink") 레이어 방화벽: 사용자는 개개의 응용 프로그램에 [방화벽](../Page/방화벽_\(네트워킹\).md "wikilink") 기능을 사용할 수 있다.
   - 샌드박스: 레퍼드는 RBAC에 대한 커널 레벨 지원을 포함한다.
 
@@ -71,7 +71,7 @@
   - 셜록: [맥 OS 8](https://ko.wikipedia.org/wiki/맥_OS_8 "wikilink").5에 처음 추가된 서비스로, 로컬 디스크와 넷 버비스의 검색 엔진 클라이언트이다. 기능적으로는 이미 [맥 OS X 타이거에서](../Page/맥_OS_X_타이거.md "wikilink") [대쉬보드](https://ko.wikipedia.org/wiki/대쉬보드 "wikilink")나 [스팟라이트](https://ko.wikipedia.org/wiki/스팟라이트 "wikilink")로 옮겨졌다.
   - NetInfo: [NeXTSTEP](../Page/NeXTSTEP.md "wikilink")에서 이어받은 관리 정보 데이터베이스 및 [디렉터리 서비스](https://ko.wikipedia.org/wiki/디렉터리_서비스 "wikilink") 기능이다. 네트워크 자원의 관리는 [오픈 디렉터리로](https://ko.wikipedia.org/wiki/오픈_디렉터리 "wikilink") 옮겨져 로컬 자원의 관리는 DSlocal로 넘어갔다.
 
-Service Location Protocol (SLP): 서비스를 찾기 위한 프로토콜이다. [맥 OS 8](https://ko.wikipedia.org/wiki/맥_OS_8 "wikilink").5에서 SLP 버전 1, [맥 OS 9에서](https://ko.wikipedia.org/wiki/맥_OS_9 "wikilink") SLP 버전 2를 사용할 수 있었지만, [맥 OS X 10.2에서](../Page/맥_OS_X_10.2.md "wikilink") [Bonjour](https://ko.wikipedia.org/wiki/Bonjour "wikilink")와 합쳐지면서 [맥 OS X 레퍼드로](../Page/맥_OS_X_레퍼드.md "wikilink") 오면서 SLP는 폐지되었다.
+Service Location Protocol (SLP): 서비스를 찾기 위한 프로토콜이다. [맥 OS 8](https://ko.wikipedia.org/wiki/맥_OS_8 "wikilink").5에서 SLP 버전 1, [맥 OS 9에서](https://ko.wikipedia.org/wiki/맥_OS_9 "wikilink") SLP 버전 2를 사용할 수 있었지만, [맥 OS X 10.2에서](../Page/맥_OS_X_10.2.md "wikilink") [Bonjour](https://ko.wikipedia.org/wiki/Bonjour "wikilink")와 합쳐지면서 맥 OS X 레퍼드로 오면서 SLP는 폐지되었다.
 
 ## 호환성
 

@@ -11,7 +11,7 @@
 
 <references/>
 
-[분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:2008년 발견한 외계 행성](https://ko.wikipedia.org/wiki/분류:2008년_발견한_외계_행성 "wikilink") [분류:뜨거운 목성](https://ko.wikipedia.org/wiki/분류:뜨거운_목성 "wikilink") [분류:목성형 행성](https://ko.wikipedia.org/wiki/분류:목성형_행성 "wikilink") [분류:COROT프로그램에 의해 발견된 외계 행성](https://ko.wikipedia.org/wiki/분류:COROT프로그램에_의해_발견된_외계_행성 "wikilink") [de:Extrasolarer Planet\#CoRoT-4 b](https://ko.wikipedia.org/wiki/de:Extrasolarer_Planet#CoRoT-4_b "wikilink")
+[분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:2008년 발견한 외계 행성](https://ko.wikipedia.org/wiki/분류:2008년_발견한_외계_행성 "wikilink") [분류:뜨거운 목성](https://ko.wikipedia.org/wiki/분류:뜨거운_목성 "wikilink") [분류:목성형 행성](https://ko.wikipedia.org/wiki/분류:목성형_행성 "wikilink") [분류:COROT프로그램에 의해 발견된 외계 행성](https://ko.wikipedia.org/wiki/분류:COROT프로그램에_의해_발견된_외계_행성 "wikilink")
 
 1.
 2.  [ESA Portal - Exoplanet hunt update](http://www.esa.int/esaCP/SEM9E91YUFF_index_0.html)

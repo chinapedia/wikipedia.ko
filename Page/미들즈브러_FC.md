@@ -52,6 +52,10 @@
 
   - [로베르트 후트](../Page/로베르트_후트.md "wikilink")
 
+  - stewart downing
+
+  - tunckay sanil
+
 ## 외부 링크
 
   - [공식 홈페이지](http://www.mfc.co.uk/)

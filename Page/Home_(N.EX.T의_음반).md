@@ -48,5 +48,5 @@
 
 [분류:1992년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1992년_데뷔_음반 "wikilink") [분류:N.EX.T의 음반](https://ko.wikipedia.org/wiki/분류:N.EX.T의_음반 "wikilink") [분류:대영AV의 음반](https://ko.wikipedia.org/wiki/분류:대영AV의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink")
 
-1.  [본 음반에 대한 상세한 분석을 담은 분석글](http://izm.co.kr/contentRead.asp?idx=16326&bigcateidx=1&subcateidx=3&mrbs=1&history=1)
+1.
 2.  《HOME》 [라이너 노츠](https://ko.wikipedia.org/wiki/라이너_노츠 "wikilink")

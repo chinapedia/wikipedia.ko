@@ -346,7 +346,8 @@ SBS의 경우 [2008년](../Page/2008년.md "wikilink") [3월 31일에](../Page/3
 
   - 주인공은 **[지우](https://ko.wikipedia.org/wiki/지우 "wikilink")**<small>(사토시)</small>, **[웅](https://ko.wikipedia.org/wiki/웅 "wikilink")**<small>(타케시)</small>, **[빛나](https://ko.wikipedia.org/wiki/빛나 "wikilink")**<small>(히카리)</small>이다.
   - 스타팅 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[모부기](../Page/모부기.md "wikilink"), [불꽃숭이](../Page/불꽃숭이.md "wikilink"), [팽도리](../Page/팽도리.md "wikilink")**이다.
-  - 전설의 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[디아루가](../Page/디아루가.md "wikilink")**, **[펄기아](../Page/펄기아.md "wikilink")**, **[기라티나](../Page/기라티나.md "wikilink")**이다.
+  - 환상의 포켓몬은 **[다크라이](https://ko.wikipedia.org/wiki/다크라이 "wikilink")**, **[쉐이미](https://ko.wikipedia.org/wiki/쉐이미 "wikilink")**, **[아르세우스](../Page/아르세우스.md "wikilink")**, **[마나피](https://ko.wikipedia.org/wiki/마나피 "wikilink")**, **[피오네](https://ko.wikipedia.org/wiki/피오네 "wikilink")**이다.
+  - 전설의 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[디아루가](../Page/디아루가.md "wikilink")**, **[펄기아](../Page/펄기아.md "wikilink")**, **[기라티나](../Page/기라티나.md "wikilink")**, **[히드런](https://ko.wikipedia.org/wiki/히드런 "wikilink")**, **[레지기가스](https://ko.wikipedia.org/wiki/레지기가스 "wikilink")**, **[유크시](https://ko.wikipedia.org/wiki/유크시 "wikilink")**, **[아그놈](https://ko.wikipedia.org/wiki/아그놈 "wikilink")**, **[엠라이트](https://ko.wikipedia.org/wiki/엠라이트 "wikilink")**이다.
 
 ## 방영 목록
 
@@ -362,7 +363,7 @@ SBS의 경우 [2008년](../Page/2008년.md "wikilink") [3월 31일에](../Page/3
 
   - [공식 사이트](http://www.tv-tokyo.co.jp/anime/pokemon_dp/)
 
-[분류:포켓몬스터 (애니메이션)](https://ko.wikipedia.org/wiki/분류:포켓몬스터_\(애니메이션\) "wikilink") [분류:2007년 애니메이션](https://ko.wikipedia.org/wiki/분류:2007년_애니메이션 "wikilink") [분류:2008년 애니메이션](https://ko.wikipedia.org/wiki/분류:2008년_애니메이션 "wikilink") [분류:2009년 애니메이션](https://ko.wikipedia.org/wiki/분류:2009년_애니메이션 "wikilink") [분류:2010년 애니메이션](https://ko.wikipedia.org/wiki/분류:2010년_애니메이션 "wikilink") [분류:TV 도쿄 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_도쿄_계열_애니메이션 "wikilink") [분류:SBS의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_애니메이션 "wikilink") [분류:투니버스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:투니버스의_텔레비전_프로그램 "wikilink") [분류:재능TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:재능TV의_텔레비전_프로그램 "wikilink") [분류:대원방송의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대원방송의_텔레비전_프로그램 "wikilink") [분류:대교어린이TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대교어린이TV의_텔레비전_프로그램 "wikilink") [분류:애니맥스](https://ko.wikipedia.org/wiki/분류:애니맥스 "wikilink")
+[분류:포켓몬스터 (애니메이션)](https://ko.wikipedia.org/wiki/분류:포켓몬스터_\(애니메이션\) "wikilink") [분류:2007년 애니메이션](https://ko.wikipedia.org/wiki/분류:2007년_애니메이션 "wikilink") [분류:2008년 애니메이션](https://ko.wikipedia.org/wiki/분류:2008년_애니메이션 "wikilink") [분류:2009년 애니메이션](https://ko.wikipedia.org/wiki/분류:2009년_애니메이션 "wikilink") [분류:2010년 애니메이션](https://ko.wikipedia.org/wiki/분류:2010년_애니메이션 "wikilink") [분류:TV 도쿄 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_도쿄_계열_애니메이션 "wikilink") [분류:SBS의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_애니메이션 "wikilink") [분류:투니버스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:투니버스의_텔레비전_프로그램 "wikilink") [분류:재능TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:재능TV의_텔레비전_프로그램 "wikilink") [분류:대원방송의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대원방송의_텔레비전_프로그램 "wikilink") [분류:대교어린이TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대교어린이TV의_텔레비전_프로그램 "wikilink") [분류:애니맥스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:애니맥스의_텔레비전_프로그램 "wikilink") [분류:카툰 네트워크의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:카툰_네트워크의_텔레비전_프로그램 "wikilink")
 
 1.  한국에서는 48화 미방영
 2.  2009년 1월 1일에 재능TV에서 54화\~59화까지 미리 방영하였다.

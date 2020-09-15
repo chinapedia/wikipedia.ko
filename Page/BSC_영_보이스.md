@@ -3,7 +3,7 @@
 
 **BSC 영 보이스**(BSC Young Boys)는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [1898년](../Page/1898년.md "wikilink")에 창단되어 수도인 [베른](../Page/베른.md "wikilink")을 연고지로 삼고 있는 클럽이다.
 
-BSC 영 보이스는 축구팀 외에도 [하키](https://ko.wikipedia.org/wiki/하키 "wikilink"), [볼링](../Page/볼링.md "wikilink") 팀도 보유하고 있으나 축구로 잘 알려져 있다. BSC 영 보이스는 [스위스 슈퍼리그](../Page/스위스_슈퍼리그.md "wikilink") 11회 우승 기록을 가지고 있고, [스위스 컵을](https://ko.wikipedia.org/wiki/스위스_컵 "wikilink") 6회 우승하였다. 80년대 후반에 리그와 컵 대회를 한번씩 우승한 후 현재까지 우승기록이 없다.
+BSC 영 보이스는 축구팀 외에도 [하키](https://ko.wikipedia.org/wiki/하키 "wikilink"), [볼링](../Page/볼링.md "wikilink") 팀도 보유하고 있으나 축구로 잘 알려져 있다. BSC 영 보이스는 [스위스 슈퍼리그](../Page/스위스_슈퍼리그.md "wikilink") 11회 우승 기록을 가지고 있고, [스위스컵](https://ko.wikipedia.org/wiki/스위스컵 "wikilink")을 6회 우승하였다. 80년대 후반에 리그와 컵 대회를 한번씩 우승한 후 현재까지 우승기록이 없다.
 
 유럽에서는 [UEFA 챔피언스리그에](../Page/UEFA_챔피언스리그.md "wikilink") 여섯번 출전하였는데 1957-58시즌에 첫 출전하여 16강에 올랐고, 1958-59시즌의 [유러피언컵](https://ko.wikipedia.org/wiki/유러피언컵 "wikilink")에서 4강에까지 올랐으나 [프랑스](../Page/프랑스.md "wikilink")의 [스타드 드 랭스에](../Page/스타드_드_랭스.md "wikilink") 패하고 말았다. 그리고 그 후 네번을 더 나갔으나 별다른 성적을 기록하진 못하였다. [UEFA 컵 위너스컵에는](https://ko.wikipedia.org/wiki/UEFA_컵_위너스컵 "wikilink") 단 세번을 출전하여 1987-88시즌의 8강이 최고기록이다.
 
@@ -20,7 +20,7 @@ BSC 영 보이스는 축구팀 외에도 [하키](https://ko.wikipedia.org/wiki/
 
 <!-- end list -->
 
-  - **[스위스 컵](https://ko.wikipedia.org/wiki/스위스_컵 "wikilink")** 우승 (6회)
+  - **[스위스컵](https://ko.wikipedia.org/wiki/스위스컵 "wikilink")** 우승 (6회)
 
 <!-- end list -->
 

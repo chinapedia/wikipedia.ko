@@ -3,7 +3,7 @@
 
 **JNDI**(Java Naming and Directory Interface)는 [디렉터리 서비스에서](https://ko.wikipedia.org/wiki/디렉터리_서비스 "wikilink") 제공하는 데이터 및 객체를 발견(discover)하고 참고(lookup)하기 위한 [자바 API다](https://ko.wikipedia.org/wiki/자바_API "wikilink").
 
-NDI는 일반적으로 다음의 용도로 쓰인다:
+JNDI는 일반적으로 다음의 용도로 쓰인다:
 
   - 자바 애플리케이션을 외부 디렉터리 서비스에 연결 (예: 주소 데이터베이스 또는 [LDAP](../Page/LDAP.md "wikilink") 서버)
   - [자바 애플릿이](../Page/자바_애플릿.md "wikilink") 호스팅 [웹 컨테이너가](../Page/웹_컨테이너.md "wikilink") 제공하는 구성 정보를 참고.<ref>

@@ -27,15 +27,13 @@
 <table style="width:10%;">
 <colgroup>
 <col style="width: 4%" />
-<col style="width: 6%" />
 <col style="width: 1%" />
-<col style="width: 0%" />
-<col style="width: 0%" />
+<col style="width: 2%" />
+<col style="width: 2%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>회수</p></th>
-<th><p>년</p></th>
+<th><p>연도</p></th>
 <th><p>개최국</p></th>
 <th><p>결승전</p></th>
 <th><p>3,4위전</p></th>
@@ -47,60 +45,52 @@
 <td><p>점수</p></td>
 <td><p>준우승</p></td>
 <td><p>3위</p></td>
-<td><p>점수</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1973년_OFC_네이션스컵.md" title="wikilink">1973</a></p></td>
-<td><p><a href="../Page/1973년.md" title="wikilink">1973년</a></p></td>
+<td><p><a href="../Page/1973년_OFC_네이션스컵.md" title="wikilink">1973년</a></p></td>
 <td></td>
 <td><p><br />
 <a href="../Page/뉴질랜드_축구_국가대표팀.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1980년_OFC_네이션스컵.md" title="wikilink">1980</a></p></td>
-<td><p><a href="../Page/1980년.md" title="wikilink">1980년</a></p></td>
+<td><p><a href="../Page/1980년_OFC_네이션스컵.md" title="wikilink">1980년</a></p></td>
 <td></td>
 <td><p><br />
 <a href="../Page/오스트레일리아_축구_국가대표팀.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p><strong>4 - 2</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1996년_OFC_네이션스컵.md" title="wikilink">1996</a></p></td>
-<td><p><a href="../Page/1996년.md" title="wikilink">1996년</a></p></td>
-<td><p>—</p></td>
+<td><p><a href="../Page/1996년_OFC_네이션스컵.md" title="wikilink">1996년</a></p></td>
+<td><p>개최국 없음</p></td>
 <td><p><br />
 <a href="../Page/오스트레일리아_축구_국가대표팀.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p><strong>6 - 0</strong><br />
 <strong>5 - 0</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1998년_OFC_네이션스컵.md" title="wikilink">1998</a></p></td>
-<td><p><a href="../Page/1998년.md" title="wikilink">1998년</a></p></td>
+<td><p><a href="../Page/1998년_OFC_네이션스컵.md" title="wikilink">1998년</a></p></td>
 <td></td>
 <td><p><br />
 <a href="../Page/뉴질랜드_축구_국가대표팀.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2000년_OFC_네이션스컵.md" title="wikilink">2000</a></p></td>
-<td><p><a href="../Page/2000년.md" title="wikilink">2000년</a></p></td>
+<td><p><a href="../Page/2000년_OFC_네이션스컵.md" title="wikilink">2000년</a></p></td>
 <td></td>
 <td><p><br />
 <a href="../Page/오스트레일리아_축구_국가대표팀.md" title="wikilink">오스트레일리아</a></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2002년_OFC_네이션스컵.md" title="wikilink">2002</a></p></td>
-<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a></p></td>
+<td><p><a href="../Page/2002년_OFC_네이션스컵.md" title="wikilink">2002년</a></p></td>
 <td></td>
 <td><p><br />
 <a href="../Page/뉴질랜드_축구_국가대표팀.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2004년_OFC_네이션스컵.md" title="wikilink">2004</a></p></td>
-<td><p><a href="../Page/2004년.md" title="wikilink">2004년</a></p></td>
+<td><p><a href="../Page/2004년_OFC_네이션스컵.md" title="wikilink">2004년</a></p></td>
 <td></td>
 <td><p><br />
 <a href="../Page/오스트레일리아_축구_국가대표팀.md" title="wikilink">오스트레일리아</a></p></td>
@@ -108,29 +98,32 @@
 <strong>6 - 0</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2008년_OFC_네이션스컵.md" title="wikilink">2008</a></p></td>
-<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a></p></td>
-<td><p>—</p></td>
+<td><p><a href="../Page/2008년_OFC_네이션스컵.md" title="wikilink">2008년</a></p></td>
+<td><p>개최국 없음</p></td>
 <td><p><br />
 <a href="../Page/뉴질랜드_축구_국가대표팀.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p><small><sup>[1]</sup></small></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2012년_OFC_네이션스컵.md" title="wikilink">2012</a></p></td>
-<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a></p></td>
+<td><p><a href="../Page/2012년_OFC_네이션스컵.md" title="wikilink">2012년</a></p></td>
 <td></td>
 <td><p><br />
 <a href="../Page/타히티_축구_국가대표팀.md" title="wikilink">타히티</a></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2016년_OFC_네이션스컵.md" title="wikilink">2016</a></p></td>
-<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
+<td><p><a href="../Page/2016년_OFC_네이션스컵.md" title="wikilink">2016년</a></p></td>
 <td></td>
 <td><p><br />
 <a href="../Page/뉴질랜드_축구_국가대표팀.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p><strong>0 - 0<br />
 <small>(4 - 2 <a href="../Page/승부차기.md" title="wikilink">PSO</a>)</small></strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020년_OFC_네이션스컵.md" title="wikilink">2020년</a></p></td>
+<td></td>
+<td><p><a href="../Page/코로나19_범유행.md" title="wikilink">코로나19 범유행의</a> 여파로 인하여 취소됨</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

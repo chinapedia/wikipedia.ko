@@ -61,14 +61,8 @@
   - [루프트한자](../Page/루프트한자.md "wikilink")
   - [리비아 항공](../Page/리비아_항공.md "wikilink")
   - [베트남 항공](../Page/베트남_항공.md "wikilink")
-
-[섬네일](https://ko.wikipedia.org/wiki/파일:Vietnam_Airlines_Double_Airbus_A350_in_Narita_International_Airport_2.jpg "wikilink")
-
   - [스칸디나비아 항공](../Page/스칸디나비아_항공.md "wikilink")
   - [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")
-
-[섬네일](https://ko.wikipedia.org/wiki/파일:Asiana_Airlines,_Airbus_A350-941,_HL8078.jpg "wikilink")
-
   - [아에로플로트](../Page/아에로플로트.md "wikilink")
   - [아프리키야 항공](../Page/아프리키야_항공.md "wikilink")
   - [에어링구스](../Page/에어링구스.md "wikilink")
@@ -81,9 +75,6 @@
   - [유나이티드 항공](../Page/유나이티드_항공.md "wikilink")
   - [이베리아 항공](../Page/이베리아_항공.md "wikilink")
   - [일본항공](../Page/일본항공.md "wikilink")
-
-<!-- end list -->
-
   - [중국국제항공](../Page/중국국제항공.md "wikilink")
   - [중국동방항공](../Page/중국동방항공.md "wikilink")
   - [중화항공](../Page/중화항공.md "wikilink")
@@ -109,32 +100,25 @@
   - [카타르 항공](../Page/카타르_항공.md "wikilink")
   - [캐세이퍼시픽 항공](../Page/캐세이퍼시픽_항공.md "wikilink")
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Cathay_Pacific_A350-1000XWB_B-LXA.jpg "wikilink")
-
 ## 보유 항공사
 
 ### 에어버스 A350-900
 
   - [LATAM 브라질](../Page/LATAM_브라질.md "wikilink")
+  - [남아프리카 항공](../Page/남아프리카_항공.md "wikilink")
   - [델타 항공](../Page/델타_항공.md "wikilink")
   - [루프트한자](../Page/루프트한자.md "wikilink")
   - [말레이시아 항공](https://ko.wikipedia.org/wiki/말레이시아_항공 "wikilink")
-
-[섬네일](https://ko.wikipedia.org/wiki/파일:Malaysia_Airlines_A350-941_\(9M-MAC\)_taxiing_at_London_Heathrow_Airport.jpg "wikilink")\]\]
-
   - [베트남 항공](../Page/베트남_항공.md "wikilink")
   - [사천항공](https://ko.wikipedia.org/wiki/사천항공 "wikilink")
   - [스칸디나비아 항공](../Page/스칸디나비아_항공.md "wikilink")
   - [싱가포르 항공](../Page/싱가포르_항공.md "wikilink")
-
-[섬네일](https://ko.wikipedia.org/wiki/파일:9V-SME@HKG_\(20190504123032\).jpg "wikilink")\]\]
-
   - [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")
   - [아에로플로트](../Page/아에로플로트.md "wikilink")
   - [에어 카라이브](../Page/에어_카라이브.md "wikilink")
   - [에어 모리셔스](../Page/에어_모리셔스.md "wikilink")
   - [에티오피아 항공](../Page/에티오피아_항공.md "wikilink")
-  - [이베리아항공](https://ko.wikipedia.org/wiki/이베리아항공 "wikilink")
+  - [이베리아 항공](../Page/이베리아_항공.md "wikilink")
   - [중국국제항공](../Page/중국국제항공.md "wikilink")
   - [중국동방항공](../Page/중국동방항공.md "wikilink")
   - [중화항공](../Page/중화항공.md "wikilink")
@@ -148,7 +132,9 @@
   - [하이난 항공](../Page/하이난_항공.md "wikilink")
   - [홍콩 항공](../Page/홍콩_항공.md "wikilink")
 
-[대한민국](../Page/대한민국.md "wikilink")에서는 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")만 이 기종을 주문하였는데 3가지 파생형을 각 10대씩 총 30대를 확정, 계약하였으나 -800형 8대, -900형 12대로 바꿨다. 10대는 옵션으로 계약하였다. 첫 항공기 인도는 [2017년](../Page/2017년.md "wikilink")에 이루어졌다.\[2\] 800형의 개발 취소 후에는 800형의 주문을 900형으로 통일했으며, 1000형 주문 1대를 900형으로 바꿨다.
+[대한민국](../Page/대한민국.md "wikilink")에서는 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")만 A350을 주문했다. [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")은 3가지 파생형을 각 10대씩 총 30대를 확정, 계약하였으나 -800형 8대, -900형 12대로 바꿨다. 10대는 옵션으로 계약하였다. 첫 항공기 인도는 [2017년](../Page/2017년.md "wikilink")에 이루어졌다.\[2\] 800형의 개발 취소 후에는 800형의 주문을 900형으로 통일했으며, 1000형 주문 1대를 900형으로 바꿨다.
+
+[대한항공](https://ko.wikipedia.org/wiki/대한항공 "wikilink")은 전술했듯이 엔진 정비상의 문제 때문에, 이 기종을 운용하지 않는다.
 
 ### 에어버스 A350-1000
 
@@ -340,7 +326,7 @@
 
   - [타이 항공의](../Page/타이_항공.md "wikilink") A350-900이 [수완나품에서](https://ko.wikipedia.org/wiki/수완나품_국제공항 "wikilink") [푸켓으로](https://ko.wikipedia.org/wiki/푸껫_국제공항 "wikilink") 착륙하다가 충돌해 랜딩 기어가 손상되었다.
   - [홍콩에서](https://ko.wikipedia.org/wiki/홍콩_국제공항 "wikilink") [멜버른으로](../Page/멜버른_공항.md "wikilink") 가던 [캐세이퍼시픽 항공의](../Page/캐세이퍼시픽_항공.md "wikilink") A350-900이 [오스트레일리아](../Page/오스트레일리아.md "wikilink") 영공에 진입한 후, 비정상적으로 연료량이 줄어드는 현상이 발견되어 [다윈에](../Page/다윈_국제공항.md "wikilink") 비상 착륙했다. 다윈에서 검사한 결과, 엔진 연료관에서 균열이 발견됐다. 승객들은 [다윈에서](../Page/다윈_국제공항.md "wikilink") 하기한 후, [캐세이퍼시픽 항공이](../Page/캐세이퍼시픽_항공.md "wikilink") 대체기로 보낸 [B777-300ER에](../Page/보잉_777.md "wikilink") 탑승하여 [멜버른으로](../Page/멜버른_공항.md "wikilink") 이동했다.
-  - [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")의 A350-900(HL7579)이 [인천에서](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink") [싱가포르로](https://ko.wikipedia.org/wiki/싱가포르_창이_국제공항 "wikilink") 가던 중 엔진 1기가 정지하여 [마닐라에](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") 비상 착륙했다. [마닐라에서](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") 하기한 승객들은 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")이 대체기로 보낸 다른 A350-900을 타고 [싱가포르로](https://ko.wikipedia.org/wiki/싱가포르_창이_국제공항 "wikilink") 이동했으며, HL7579는 [마닐라에서](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") 점검을 마친 후 [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")으로 복귀했다.
+  - [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")의 A350-900(HL7579)이 [인천에서](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink") [싱가포르로](https://ko.wikipedia.org/wiki/싱가포르_창이_공항 "wikilink") 가던 중 엔진 1기가 정지하여 [마닐라에](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") 비상 착륙했다. [마닐라에서](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") 하기한 승객들은 [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")이 대체기로 보낸 다른 A350-900을 타고 [싱가포르로](https://ko.wikipedia.org/wiki/싱가포르_창이_공항 "wikilink") 이동했으며, HL7579는 [마닐라에서](https://ko.wikipedia.org/wiki/니노이_아키노_국제공항 "wikilink") 점검을 마친 후 [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")으로 복귀했다.
 
 ## 각주
 

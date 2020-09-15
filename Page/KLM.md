@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KLM](https://ko.wikipedia.org/wiki/KLM).
 
 
-**KLM**(, , **케엘엠 왕립 네덜란드 항공**)은 [네덜란드](../Page/네덜란드.md "wikilink")의 [국영 항공사로](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink"), [2004년](../Page/2004년.md "wikilink") [5월](../Page/5월.md "wikilink") [프랑스](../Page/프랑스.md "wikilink")의 항공사인 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink")가 인수하면서 [에어프랑스-KLM](https://ko.wikipedia.org/wiki/에어프랑스-KLM "wikilink")의 자회사가 되었다. 본사는 [네덜란드](../Page/네덜란드.md "wikilink") [암스테르담](../Page/암스테르담.md "wikilink")에 위치해 있으며, 세계 항공사 중 역사가 가장 오래 되었다.
+**KLM**(, , **케엘엠 왕립 네덜란드 항공**)은 [네덜란드](../Page/네덜란드.md "wikilink")의 [국영 항공사였다가](https://ko.wikipedia.org/wiki/국영_항공사 "wikilink"), [2004년](../Page/2004년.md "wikilink") [5월](../Page/5월.md "wikilink")에 [프랑스](../Page/프랑스.md "wikilink")의 항공사인 [에어 프랑스가](../Page/에어_프랑스.md "wikilink") 인수하면서 [에어프랑스-KLM](https://ko.wikipedia.org/wiki/에어프랑스-KLM "wikilink")의 자회사가 되었다. 본사는 [네덜란드](../Page/네덜란드.md "wikilink") [암스테르담](../Page/암스테르담.md "wikilink")에 위치해 있으며, 세계 항공사 중 역사가 가장 오래되었다.
 
 ## 역사
 
@@ -9,7 +9,7 @@
 
 ## 운항 노선
 
-  - [2011년](../Page/2011년.md "wikilink") [11월](../Page/11월.md "wikilink") 기준으로 KLM은 다음과 같은 노선을 운항하고 있다.
+  - [2020년](../Page/2020년.md "wikilink") [7월](../Page/7월.md "wikilink") 기준으로 KLM은 다음과 같은 노선을 운항하고 있다.
 
 ### 코드쉐어 협정
 
@@ -82,7 +82,7 @@
 
 ## 보유 기종
 
-  - [2020년](../Page/2020년.md "wikilink") [3월](../Page/3월.md "wikilink") KLM은 다음과 같은 기종을 보유하고 있으며 평균 기령은 약 9.6년으로 [보잉](../Page/보잉.md "wikilink")이 대부분을 차지하고 있다.\[3\]\[4\]
+  - [2020년](../Page/2020년.md "wikilink") [7월](../Page/7월.md "wikilink") KLM은 다음과 같은 기종을 보유하고 있으며 평균 기령은 약 9.6년으로 [보잉](../Page/보잉.md "wikilink")이 대부분을 차지하고 있다.\[3\]\[4\]
 
 ### 현재 사용하는 기종
 
@@ -168,15 +168,13 @@
 
 ## 자회사
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:KLM_hoofdkantoor_Amstelveen.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:KLM_Boeing_747_PH-BFH_at_LAX_2011.jpg "wikilink")(퇴역)\]\]
-
 ### KLM 아시아
 
-  - **KLM 아시아**()는 KLM의 지분에 등록된 자회사이자 [중화민국](../Page/중화민국.md "wikilink")의 항공사로 항공기를 운항하기 위해 [1995년](../Page/1995년.md "wikilink")에 설립되어 [타이완 타오위안 국제공항에서](https://ko.wikipedia.org/wiki/타이완_타오위안_국제공항 "wikilink") KLM의 보유하고 있는 목적지까지 권한을 손상시키지 않았다. KLM 아시아 운영이 없으나 항공기는 여전히 KLM의 제복을 적용했다. KLM 아시아는 [중화민국](../Page/중화민국.md "wikilink") 동일한 목적으로 취항하는 KLM의 자회사로 또한 이와 별도로 운영하는 회사는 [일본 아시아 항공](../Page/일본_아시아_항공.md "wikilink") ([일본항공](../Page/일본항공.md "wikilink")에 합병), [에어프랑스 아시아](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink"), [영국 아시아 항공](../Page/영국_아시아_항공.md "wikilink"), [스위스 아시아 항공이](../Page/스위스_국제항공.md "wikilink") 있다. KLM 아시아의 제복은 기존 KLM 도색을 사용하고 있으며 네덜란드 크라운 대신 이와는 별도로 KLM 아시아 로고를 갖추고 있다. KLM 아시아는 총 대수는 14대로 당시 보유 기종은 [보잉 777-200ER](../Page/보잉_777.md "wikilink"), [보잉 777-300ER이](../Page/보잉_777.md "wikilink") 있다.
+  - **KLM 아시아**()는 KLM의 지분에 등록된 자회사이자 [중화민국](../Page/중화민국.md "wikilink")의 항공사로 기존 KLM의 중국 노선의 운항을 해치지 않으면서 타이페이로의 항공기를 운항하기 위해 [1995년](../Page/1995년.md "wikilink")에 설립된 항공사로 KLM 아시아의 독자적인 운영이 없으나 항공기는 여전히 KLM의 항공기로 운항 중이다.\[8\] KLM 아시아는 [중화민국](../Page/중화민국.md "wikilink") 동일한 목적으로 취항하는 KLM의 자회사로 또한 이와 별도로 운영하는 회사는 [일본 아시아 항공](../Page/일본_아시아_항공.md "wikilink") ([일본항공](../Page/일본항공.md "wikilink")에 합병), [에어 프랑스 아시아](../Page/에어_프랑스.md "wikilink"), [영국 아시아 항공](../Page/영국_아시아_항공.md "wikilink"), [스위스 아시아 항공이](../Page/스위스_항공.md "wikilink") 있다. KLM 아시아 항공은 기존 KLM 도색을 사용하고 있으며 네덜란드 크라운 대신 이와는 별도로 KLM 아시아 로고를 갖추고 있다. KLM 아시아는 총 대수는 8대로 7대의 [보잉 777-200ER과](../Page/보잉_777.md "wikilink") 1대의 [보잉 777-300ER이](../Page/보잉_777.md "wikilink") 있다.\[9\]
 
 ### KLM 카고
 
-  - **KLM 카고**()는 KLM의 자회사이자 화물 항공사로 주로 KLM의 [허브 공항과](../Page/허브_공항.md "wikilink") [국제공항](../Page/국제공항.md "wikilink")의 화물기를 취항하며 보유 기종은 [마르틴 에어에서](https://ko.wikipedia.org/wiki/마르틴_에어 "wikilink") 임차한 [보잉 747-400ERF로](../Page/보잉_747.md "wikilink") 운항하고 있으며 [에어프랑스 카고와](https://ko.wikipedia.org/wiki/에어프랑스#에어프랑스_카고 "wikilink") 함께 [스카이팀 카고에](../Page/스카이팀_카고.md "wikilink") 소속되어 있다.
+  - **KLM 카고**()는 KLM의 자회사이자 화물 항공사로 주로 KLM의 [허브 공항과](../Page/허브_공항.md "wikilink") [국제공항](../Page/국제공항.md "wikilink")의 화물기를 취항하며 보유 기종은 자회사인 [마르틴 에어에서](https://ko.wikipedia.org/wiki/마르틴_에어 "wikilink") 임차한 [보잉 747-400ERF로](../Page/보잉_747.md "wikilink") 운항하고 있으며 [에어프랑스 카고와](https://ko.wikipedia.org/wiki/에어프랑스#에어프랑스_카고 "wikilink") 함께 [스카이팀 카고에](../Page/스카이팀_카고.md "wikilink") 소속되어 있다.
 
 ### [KLM 시티호퍼](../Page/KLM_시티호퍼.md "wikilink")
 
@@ -184,13 +182,13 @@
 
 ## 사건 및 사고
 
+  - [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 당시에 벌어진 [KLM 777편 격추 사고로](https://ko.wikipedia.org/wiki/KLM_777편_격추_사고 "wikilink") 이로 인해 [DC-3](https://ko.wikipedia.org/wiki/DC-3 "wikilink")기의 탑승객과 승무원 전원 사망하였다.
   - [1977년](../Page/1977년.md "wikilink") [3월 27일에](../Page/3월_27일.md "wikilink") [스페인](../Page/스페인.md "wikilink")령 [카나리아 제도의](../Page/카나리아_제도.md "wikilink") [테네리페 섬에서](https://ko.wikipedia.org/wiki/테네리페_섬 "wikilink") 일어난 [팬암-KLM 충돌사고로](https://ko.wikipedia.org/wiki/테네리페_참사 "wikilink") 583명이 사망했고 61명이 부상당하는 등 항공 역사상 가장 참혹한 사고로 기록되었다. 이 사고로 KLM에 타고 있던 승객과 승무원 전원 사망했다.
-  - [세계 제2차 대전중에](https://ko.wikipedia.org/wiki/세계_제2차_대전 "wikilink") 벌어진 [KLM 777편 격추 사고로](https://ko.wikipedia.org/wiki/KLM_777편_격추_사고 "wikilink") 이로 인해 [DC-3](https://ko.wikipedia.org/wiki/DC-3 "wikilink")기의 탑승객, 승무원 전원 사망하였다.
   - [2020년](../Page/2020년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") [암스테르담에서](https://ko.wikipedia.org/wiki/스히폴_국제공항 "wikilink") [인천으로](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink") 오는 기내에서(KL855편) [코로나19로](https://ko.wikipedia.org/wiki/코로나바이러스감염증-19 "wikilink") 인해 승객용 화장실에 **'승무원 전용 화장실**'이라고 써 논란이 됐었다.
 
 ## 사진
 
-파일:KLM A330-200 PH-AOD @ Amsterdam Airport Schiphol.jpg|KLM의 [에어버스 A330-200](../Page/에어버스_A330.md "wikilink") 파일:KLM A330-203 (PH-AOK) landing at Amsterdam Airport Schiphol.jpg|KLM의 [에어버스 A330-200](../Page/에어버스_A330.md "wikilink") 파일:KLM Boeing 737-800 PH-BXL LHR 2011-10-2.png|KLM의 [보잉 737-800](../Page/보잉_737.md "wikilink") 파일:KLM Boeing 737-800 PH-BXH 1324037.jpg|KLM의 [보잉 737-800](../Page/보잉_737.md "wikilink") 파일:KLM Cargo Boeing 747-400ERF-SCD, PH-CKC, SIN.jpg|KLM 카고 소속 [보잉 747-400ERF](../Page/보잉_747.md "wikilink") 파일:KLM Boeing 777-200ER Closeup PH-BQO YUL.jpg|KLM의 [보잉 777-200ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing 777-300ER Meulemans.jpg|KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing 777-300ER PH-BVA SIN 2012-1-2.png|KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing777-306ER-skyteam PH-BVD.JPG|[스카이팀](../Page/스카이팀.md "wikilink") 도색을 적용한 KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:Air France & KLM vertical stabilizers.jpg|[에어프랑스-KLM](https://ko.wikipedia.org/wiki/에어프랑스-KLM "wikilink")과 합병 후 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink") 마크와 KLM 마크
+파일:KLM A330-200 PH-AOD @ Amsterdam Airport Schiphol.jpg|KLM의 [에어버스 A330-200](../Page/에어버스_A330.md "wikilink") 파일:KLM A330-203 (PH-AOK) landing at Amsterdam Airport Schiphol.jpg|KLM의 [에어버스 A330-200](../Page/에어버스_A330.md "wikilink") 파일:KLM Boeing 737-800 PH-BXL LHR 2011-10-2.png|KLM의 [보잉 737-800](../Page/보잉_737.md "wikilink") 파일:KLM Boeing 737-800 PH-BXH 1324037.jpg|KLM의 [보잉 737-800](../Page/보잉_737.md "wikilink") 파일:KLM Boeing 777-200ER Closeup PH-BQO YUL.jpg|KLM의 [보잉 777-200ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing 777-300ER Meulemans.jpg|KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing 777-300ER PH-BVA SIN 2012-1-2.png|KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:KLM Boeing777-306ER-skyteam PH-BVD.JPG|[스카이팀](../Page/스카이팀.md "wikilink") 도색을 적용한 KLM의 [보잉 777-300ER](../Page/보잉_777.md "wikilink") 파일:Air France & KLM vertical stabilizers.jpg|[에어프랑스-KLM](https://ko.wikipedia.org/wiki/에어프랑스-KLM "wikilink")과 합병 후 [에어프랑스](https://ko.wikipedia.org/wiki/에어프랑스 "wikilink") 마크와 KLM 마크
 
 ## 각주
 
@@ -208,3 +206,5 @@
 5.
 6.
 7.
+8.
+9.

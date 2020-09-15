@@ -216,7 +216,7 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.usairways.com)
+  - [공식 홈페이지](https://web.archive.org/web/20001017140313/http://www.usairways.com/)
 
 [분류:미국의 없어진 항공사](https://ko.wikipedia.org/wiki/분류:미국의_없어진_항공사 "wikilink") [분류:1939년 설립](https://ko.wikipedia.org/wiki/분류:1939년_설립 "wikilink") [분류:2015년 폐지](https://ko.wikipedia.org/wiki/분류:2015년_폐지 "wikilink") [분류:IATA 회원](https://ko.wikipedia.org/wiki/분류:IATA_회원 "wikilink") [분류:US 에어웨이즈](https://ko.wikipedia.org/wiki/분류:US_에어웨이즈 "wikilink") [분류:미국의 항공사](https://ko.wikipedia.org/wiki/분류:미국의_항공사 "wikilink") [분류:버지니아주의 기업](https://ko.wikipedia.org/wiki/분류:버지니아주의_기업 "wikilink")
 

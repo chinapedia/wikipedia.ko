@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [수원 FC](https://ko.wikipedia.org/wiki/수원_FC).
 
 
-**수원 FC**(, 수원 시민프로축구단)는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")를 연고지로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로[축구](../Page/축구.md "wikilink")단이다. [2003년](../Page/2003년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") **수원시청 축구단**이라는 이름으로 창단하였고,\[1\] 실업 리그인 [내셔널리그에](../Page/내셔널리그_\(대한민국\).md "wikilink") 참여하였다. 내셔널리그에서 줄곧 강팀으로 군림하였으며, 2005, 2007, 2008 시즌에 준우승을 차지하였고, 창단 8년 만인 2010 시즌에 첫 리그 우승을 차지하였다. [2012년](../Page/2012년.md "wikilink") 프로로 전환하여, [2013년](../Page/2013년.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink")까지 [K리그 챌린지에](../Page/K리그2.md "wikilink") 참가했으며 2015 시즌 승격하여 [2016년](../Page/2016년.md "wikilink") [K리그 클래식에](https://ko.wikipedia.org/wiki/K리그1 "wikilink") 참가했으나, 불과 1시즌만에 다시 강등되었다. 홈 구장은 11,808명을 수용함과 동시에 1,014석의 가변석을 갖춘 [수원종합운동장](../Page/수원종합운동장.md "wikilink")이다.
+**수원 FC**(, 수원 시민프로축구단)는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")를 연고지로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로[축구](../Page/축구.md "wikilink")단이다. [2003년](../Page/2003년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") **수원시청 축구단**이라는 이름으로 창단하였고,\[1\] 실업 리그인 [내셔널리그에](../Page/내셔널리그_\(대한민국\).md "wikilink") 참여하였다. 내셔널리그에서 줄곧 강팀으로 군림하였으며, 2005, 2007, 2008 시즌에 준우승을 차지하였고, 창단 8년 만인 2010 시즌에 첫 리그 우승을 차지하였다. [2012년](../Page/2012년.md "wikilink") 프로로 전환하여, [2013년](../Page/2013년.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink")까지 [K리그 챌린지에](../Page/K리그2.md "wikilink") 참가했으며 2015 시즌 승격하여 [2016년](../Page/2016년.md "wikilink") [K리그 클래식에](https://ko.wikipedia.org/wiki/K리그1 "wikilink") 참가했으나, 불과 1시즌만에 다시 강등되었다. 홈 구장은 11,808명을 수용함과 동시에 1,014석의 가변석을 갖춘 [수원종합운동장](../Page/수원종합운동장.md "wikilink")이다.수원삼성블루윙즈와경기를치렀는데2대3으로졌다.
 
 ## 역사
 
@@ -9,7 +9,7 @@
 
 [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")는 프로축구단인 [수원 삼성 블루윙즈와](../Page/수원_삼성_블루윙즈.md "wikilink") 유소년 클럽 및 초, 중, 고, 대학 엘리트 체육을 이어주는 실업 팀이 필요하다고 판단하였고, 이에 [2002년](../Page/2002년.md "wikilink") 창단 작업 끝에 2003년 3월 15일 공식 창단식을 거행하고 출범하였다. 창단 당시 구단명은 **수원시청 축구단**이었다. 초대 감독 자리에는 [김창겸](../Page/김창겸.md "wikilink")이 선임되었다. 창단 당해에 [K2리그에](../Page/내셔널리그_\(대한민국\).md "wikilink") 참가하였으며, 전반기에 6위, 후반기에 3위를 기록하였다. 또한 같은 해 5월 열린 [경기도 체육대회에서](https://ko.wikipedia.org/wiki/경기도_체육대회 "wikilink") 우승을 차지하였다. [2004년](../Page/2004년.md "wikilink")에는 [대통령배 전국축구대회](../Page/대통령배_전국축구대회.md "wikilink") 우승을 차지함으로써 처음으로 전국 대회에서 우승을 차지하였다. 리그에서도 호성적을 거두며 [2005년](../Page/2005년.md "wikilink")과 [2007년](../Page/2007년.md "wikilink"), [2008년](../Page/2008년.md "wikilink")에는 플레이오프 결승전까지 진출하였으나, 준우승에 머물었다.
 
-2008년 말, 구단을 효율적으로 운영하고 자생력 강화를 위하여 재단 법인을 설립하였으며, 프로 구단으로의 전환 의사도 밝혔다. 또 법인명을 **수원 FC**로 변경하였고, 이때부터 명칭을 수원시청 축구단과 수원 FC를 혼용하였다. [2010 시즌](../Page/내셔널리그_2010.md "wikilink") 창단 8년 만에 리그 첫 우승을 차지하였다. [2011 시즌](../Page/내셔널리그_2011.md "wikilink") 종료 후 김창겸 감독이 계약이 만료되어 팀을 떠났고, 유소년 총괄 감독을 맡고 있던 [조덕제](https://ko.wikipedia.org/wiki/조덕제 "wikilink")가 신임 감독으로 선임되었다. [2012년](../Page/2012년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") 프로 전환이 확정되어 [K리그](../Page/K리그.md "wikilink")에 참가하게 되었고, 공식 명칭도 수원 FC로 변경되었다.
+2008년 말, 구단을 효율적으로 운영하고 자생력 강화를 위하여 재단 법인을 설립하였으며, 프로 구단으로의 전환 의사도 밝혔다. 또 법인명을 **수원 FC**로 변경하였고, 이때부터 명칭을 수원시청 축구단과 수원 FC를 혼용하였다. [2010 시즌](../Page/내셔널리그_2010.md "wikilink") 창단 8년 만에 리그 첫 우승을 차지하였다. [2011 시즌](../Page/내셔널리그_2011.md "wikilink") 종료 후 김창겸 감독이 계약이 만료되어 팀을 떠났고, 유소년 총괄 감독을 맡고 있던 [조덕제가](../Page/조덕제_\(1965년\).md "wikilink") 신임 감독으로 선임되었다. [2012년](../Page/2012년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") 프로 전환이 확정되어 [K리그](../Page/K리그.md "wikilink")에 참가하게 되었고, 공식 명칭도 수원 FC로 변경되었다.
 
 ### K리그 진출
 
@@ -17,7 +17,7 @@
 
 2014 시즌에는 홈 경기장인 [수원종합운동장](../Page/수원종합운동장.md "wikilink")의 잔디 교체를 이유로 [수원 삼성 블루윙즈의](../Page/수원_삼성_블루윙즈.md "wikilink") 홈구장인 [수원월드컵경기장](../Page/수원월드컵경기장.md "wikilink")을 함께 사용하였다. 개막전 K리그 클래식에서 강등된 [대전 시티즌을](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink") 상대로 4-1 대승을 거둔다. 이후 가까운 인접 라이벌팀인 [FC 안양과의](../Page/FC_안양.md "wikilink") 시즌 4경기 전 경기를 승리하기도 하는 등 좋은 모습을 보이며 중상위권을 유지하였다. 그러나 후반 막판 [대전과](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink") [강원에](../Page/강원_FC.md "wikilink") 잇단 패배를 하며 플레이오프 진출을 목전에 두고 시즌 6위로 마감했다. FA컵에서는 32강전에서 K리그 클래식 팀 [제주 유나이티드를](https://ko.wikipedia.org/wiki/제주_유나이티드 "wikilink") 3-3 접전 끝에 승부차기로 꺾고 2013 시즌에 이어 16강에 오른다. 그러나 16강에서 만난 [부산 아이파크와의](../Page/부산_아이파크.md "wikilink") 경기에서 3-2로 석패했다.
 
-2015 시즌은 홈 경기 역대 최다 관중수인 4,460명을 기록하기도 하고, FA컵에서 [울산 현대미포를](../Page/울산_현대미포조선_돌고래.md "wikilink") 만나 2-1로 패배하여 프로 진출후 처음으로 하위 리그 팀에게 패하기도했다. 여름 이적 시장에선 [스페인](../Page/스페인.md "wikilink") 각급 청소년 대표팀을 두루 거쳤던 [시시를](../Page/시시니오_곤살레스_마르티네스.md "wikilink") [CA 오사수나로부터](../Page/CA_오사수나.md "wikilink") 영입하여 화제가 됐다. 이후 무서운 상승세로 후반기 경기의 대부분을 승리하며 PO 진출을 확정하였고, 최종 3위로 정규 시즌을 마감하였다. 이후 준PO에서 [서울 이랜드](../Page/서울_이랜드_FC.md "wikilink"), PO에서는 [대구꺽고](../Page/대구_FC.md "wikilink") 프로진출3년만에 [K리그 승강 플레이오프](../Page/K리그_승강_플레이오프.md "wikilink") 진출을 확정지었다. 승강 플레이오프에서는 [부산을](../Page/부산_아이파크.md "wikilink") 상대로 1,2차전 모두 승리를 거두며 합계 3-0으로 완파하고 [K리그 챌린지를](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") 첫 무대로 프로 리그에 입성한 팀 중 최초로 [K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식 "wikilink") 으로 승격하는 팀이 되었다.\[3\] 더불어 [수원 삼성 블루윙즈와](../Page/수원_삼성_블루윙즈.md "wikilink") 1996년 이후 첫 K리그 로컬 더비인 [수원 더비도](../Page/수원_더비.md "wikilink") 이루어졌다.\[4\]
+2015 시즌은 홈 경기 역대 최다 관중수인 4,460명을 기록하기도 하고, FA컵에서 [울산 현대미포를](../Page/울산_현대미포조선_돌고래.md "wikilink") 만나 2-1로 패배하여 프로 진출후 처음으로 하위 리그 팀에게 패하기도했다. 여름 이적 시장에선 [스페인](../Page/스페인.md "wikilink") 각급 청소년 대표팀을 두루 거쳤던 [시시를](../Page/시시니오_곤살레스_마르티네스.md "wikilink") [CA 오사수나로부터](../Page/CA_오사수나.md "wikilink") 영입하여 화제가 됐다. 이후 무서운 상승세로 후반기 경기의 대부분을 승리하며 PO 진출을 확정하였고, 최종 3위로 정규 시즌을 마감하였다. 이후 준PO에서 [서울 이랜드](../Page/서울_이랜드_FC.md "wikilink"), PO에서는 [대구꺾고](../Page/대구_FC.md "wikilink") 프로진출3년만에 [K리그 승강 플레이오프](../Page/K리그_승강_플레이오프.md "wikilink") 진출을 확정지었다. 승강 플레이오프에서는 [부산을](../Page/부산_아이파크.md "wikilink") 상대로 1,2차전 모두 승리를 거두며 합계 3-0으로 완파하고 [K리그 챌린지를](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") 첫 무대로 프로 리그에 입성한 팀 중 최초로 [K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식 "wikilink") 으로 승격하는 팀이 되었다.\[3\] 더불어 [수원 삼성 블루윙즈와](../Page/수원_삼성_블루윙즈.md "wikilink") 1996년 이후 첫 K리그 로컬 더비인 [수원 더비도](../Page/수원_더비.md "wikilink") 이루어졌다.\[4\]
 
 ### 기적의 K리그 클래식 진출
 
@@ -117,7 +117,7 @@
 </tr>
 <tr class="even">
 <td><p>2대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조덕제" title="wikilink">조덕제</a></p></td>
+<td><p><a href="../Page/조덕제_(1965년).md" title="wikilink">조덕제</a></p></td>
 <td><p>2011/11/15[9]</p></td>
 <td><p>2011/11/15</p></td>
 <td><p>2017/08/26</p></td>
@@ -299,7 +299,7 @@
 <td><p>3라운드</p></td>
 <td></td>
 <td><p><a href="../Page/백성동.md" title="wikilink">백성동</a>(8)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조덕제" title="wikilink">조덕제</a><br />
+<td><p><a href="../Page/조덕제_(1965년).md" title="wikilink">조덕제</a><br />
  <a href="../Page/조종화.md" title="wikilink">조종화</a> (<a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">대행</a>)<br />
  <a href="../Page/김대의.md" title="wikilink">김대의</a></p></td>
 </tr>
@@ -318,7 +318,7 @@
 <td><p>32강</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지" title="wikilink">K리그 챌린지</a> 강등</p></td>
 <td><p><a href="../Page/이승현_(1985년_7월).md" title="wikilink">이승현</a>(6)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조덕제" title="wikilink">조덕제</a></p></td>
+<td><p><a href="../Page/조덕제_(1965년).md" title="wikilink">조덕제</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2015" title="wikilink">2015</a></p></td>
@@ -335,7 +335,7 @@
 <td><p>3라운드</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_클래식" title="wikilink">K리그 클래식</a> 승격</p></td>
 <td><p><a href="../Page/조나스_아우구스투_보비에.md" title="wikilink">자파</a>(21)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조덕제" title="wikilink">조덕제</a></p></td>
+<td><p><a href="../Page/조덕제_(1965년).md" title="wikilink">조덕제</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2014" title="wikilink">2014</a></p></td>
@@ -353,7 +353,7 @@
 <td></td>
 <td><p><a href="../Page/김한원.md" title="wikilink">김한원</a> (8)<br />
  <a href="../Page/정민우_(축구_선수).md" title="wikilink">정민우</a>(8)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조덕제" title="wikilink">조덕제</a></p></td>
+<td><p><a href="../Page/조덕제_(1965년).md" title="wikilink">조덕제</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2013" title="wikilink">2013</a></p></td>
@@ -370,7 +370,7 @@
 <td><p>8강</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박종찬" title="wikilink">박종찬</a>(11)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조덕제" title="wikilink">조덕제</a></p></td>
+<td><p><a href="../Page/조덕제_(1965년).md" title="wikilink">조덕제</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/내셔널리그_2012.md" title="wikilink">2012</a></p></td>
@@ -388,7 +388,7 @@
 <td><p><strong>내셔널축구선수권대회 우승</strong><br />
 경기도체육대회 우승</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조덕제" title="wikilink">조덕제</a></p></td>
+<td><p><a href="../Page/조덕제_(1965년).md" title="wikilink">조덕제</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/내셔널리그_2011.md" title="wikilink">2011</a></p></td>

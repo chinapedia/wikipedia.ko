@@ -19,6 +19,8 @@
 
 그러나 재정 상황이 안좋아지며 선수들의 임금 체불이 잦아져, 2012년 말에 UEFA에 의해 2013-14시즌부터 4년간 유럽 대회 출전권을 박탈당했다.
 
+2020년 8월 24일, 심각한 재정난을 겪고 있던 말라가는 [스페인의 코로나19 범유행으로](https://ko.wikipedia.org/wiki/스페인의_코로나19_범유행 "wikilink") 인해 구단의 재정 상황이 더욱 악화되면서 경영진은 구단의 재정 문제를 해결하기 위한 구조조정의 일환으로 1군 선수단 전원에게 계약 해지 절차를 시작한다고 발표했다.\[1\]
+
 ## 선수
 
 ### 현재 선수 명단
@@ -32,4 +34,8 @@
 
   - [유네스코](../Page/유네스코.md "wikilink")
 
-[말라가_CF](https://ko.wikipedia.org/wiki/분류:말라가_CF "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:1904년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1904년_설립된_축구단 "wikilink") [분류:안달루시아 지방의 축구단](https://ko.wikipedia.org/wiki/분류:안달루시아_지방의_축구단 "wikilink")
+## 각주
+
+[말라가_CF](https://ko.wikipedia.org/wiki/분류:말라가_CF "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:1904년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1904년_설립된_축구단 "wikilink") [분류:안달루시아주의 축구단](https://ko.wikipedia.org/wiki/분류:안달루시아주의_축구단 "wikilink")
+
+1.

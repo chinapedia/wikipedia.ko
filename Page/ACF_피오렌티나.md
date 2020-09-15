@@ -229,7 +229,7 @@
 <td><p>1959</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_카르니글리아" title="wikilink">루이스 카르니글리아</a></p></td>
+<td><p><a href="../Page/루이스_카르니글리아.md" title="wikilink">루이스 카르니글리아</a></p></td>
 <td></td>
 <td><p>1959–60</p></td>
 </tr>

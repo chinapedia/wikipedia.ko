@@ -37,9 +37,9 @@
 
   - [dpreview.com의 리뷰](http://www.dpreview.com/reviews/canoneos450d/)
 
-  - [cameralabs.com의 리뷰](http://www.cameralabs.com/reviews/Canon_EOS_450D_Digital_Rebel_XSi/index.shtml)
+  - [cameralabs.com의 리뷰](https://web.archive.org/web/20080415221323/http://www.cameralabs.com/reviews/Canon_EOS_450D_Digital_Rebel_XSi/index.shtml)
 
-  - [imaging-resource.com의 리뷰](http://www.imaging-resource.com/PRODS/XSI/XSIA.HTM)
+  - [imaging-resource.com의 리뷰](https://web.archive.org/web/20080730221403/http://www.imaging-resource.com/PRODS/XSI/XSIA.HTM)
 
 [분류:캐논 EOS DSLR 카메라](https://ko.wikipedia.org/wiki/분류:캐논_EOS_DSLR_카메라 "wikilink")
 

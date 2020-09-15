@@ -278,7 +278,7 @@ KAITO V3의 음성라이브러리의 특징, 자신있는 장르, 템포, 음역
 | Chillyditty Of February（rework and revocalize） | DARS              |               |
 | Broken rain                                    | 신조P               | 2010년 6월 9일   |
 | Sweet's Beast                                  | 멘데P               | 2010년 6월 16일  |
-| EVILS FOREST                                   |                   | 2010년 8월 10일  |
+| EVILS FOREST                                   | 악의 p(mothy)       | 2010년 8월 10일  |
 | 灰雪(하이유키)                                       | 킷도P               | 2010년 12월 17일 |
 | crystaL-before-                                | HzEdge（크리스탈P）     | 2010년 12월 27일 |
 | 나는 눈꺼풀이 되고싶다(僕はまぶたになりたい)                       | shot（호노보노P）       | 2011년 2월 17일  |

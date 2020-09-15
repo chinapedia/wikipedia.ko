@@ -175,7 +175,7 @@
 <td><p><a href="../Page/CR_플라멩구.md" title="wikilink">플라멩구</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2020년_FIFA_클럽_월드컵" title="wikilink">2020</a></p></td>
+<td><p><a href="../Page/2020년_FIFA_클럽_월드컵.md" title="wikilink">2020</a></p></td>
 <td><p><br />
 <a href="../Page/카타르.md" title="wikilink">카타르</a></p></td>
 <td><p><strong>?</strong> </p></td>

@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:KBS_2FM_studio-Seoul.jpg "wikilink")
 
-**KBS 제2FM** 혹은 **KBS 쿨FM**()\[1\]은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [연예](https://ko.wikipedia.org/wiki/연예 "wikilink")오락・[대중음악](../Page/음악.md "wikilink") 전문 [라디오](../Page/라디오.md "wikilink") 채널이다.
+**KBS 제2FM** 혹은 **KBS 쿨FM**()\[1\]은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·송출되는 [연예](https://ko.wikipedia.org/wiki/연예 "wikilink")오락・[대중음악](../Page/음악.md "wikilink") 전문 [라디오](../Page/라디오.md "wikilink") 채널이다.
 
 ## 역사
 
@@ -37,18 +37,18 @@
 
   - [2003년](../Page/2003년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") : 2FM의 애칭을 "쿨FM(Cool FM)"으로 개칭
   - [2005년](../Page/2005년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 보이는 라디오 실시로 생방송 스튜디오를 본관 4층 생방송 스튜디오에서 본관 2층에 마련한 라디오 오픈 스튜디오로 이전([KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink") 포함)
-  - [2005년](../Page/2005년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 오전 7시\~9시대([FM대행진](../Page/FM대행진.md "wikilink")) 2부(1시간) 체제를 4부(30분) 체제로 전환
-  - [2006년](../Page/2006년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") : 저녁 6시\~8시대 ’브라보 마이 라이프’(현. [사랑하기 좋은 날](../Page/사랑하기_좋은_날_이금희입니다.md "wikilink"))) 2부(1시간) 체제를 4부(30분) 체제로 전환
-  - [2008년](../Page/2008년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") : 낮 12시\~2시대([가요광장](../Page/가요광장.md "wikilink")), 오후 4시\~6시대([미스터 라디오](../Page/미스터_라디오.md "wikilink") (현. [뮤직쇼](../Page/뮤직쇼.md "wikilink"))) 2부(1시간) 체제를 4부(30분) 체제로 전환
+  - [2005년](../Page/2005년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") : 아침 7시 \~ 오전 9시대([FM대행진](../Page/FM대행진.md "wikilink")) 2부(1시간) 체제를 4부(30분) 체제로 전환
+  - [2006년](../Page/2006년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") : 저녁 6시 \~ 밤 8시대 ’브라보 마이 라이프’(현. [사랑하기 좋은 날](../Page/사랑하기_좋은_날_이금희입니다.md "wikilink"))) 2부(1시간) 체제를 4부(30분) 체제로 전환
+  - [2008년](../Page/2008년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink") : 낮 12시 \~ 오후 2시대([가요광장](../Page/가요광장.md "wikilink")), 오후 4시 \~ 저녁 6시대([미스터 라디오](../Page/미스터_라디오.md "wikilink") (현. [뮤직쇼](../Page/뮤직쇼.md "wikilink"))) 2부(1시간) 체제를 4부(30분) 체제로 전환
   - [2010년](../Page/2010년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : 남산 송신소에서 [관악산](../Page/관악산.md "wikilink") 송신소로 이전.
   - [2011년](../Page/2011년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") : 2011 개편으로 새벽 3시\~5시대 프로그램 시간에 광고방송 폐지(’[3시와 5시 사이](../Page/3시와_5시_사이.md "wikilink")’ 폐지) → DMB(U-KBS MUSIC 프로그램 재방송), (2부(1시간) 체제에서 2시간 체제로 전환)
-  - [2015년](../Page/2015년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") : 오전 9시\~11시([음악앨범](../Page/음악앨범_\(라디오_프로그램\).md "wikilink")), 오후 2시\~4시대(2시 (현. [즐거운 생활](https://ko.wikipedia.org/wiki/정재형_문희준의_즐거운_생활 "wikilink"))), 저녁 8시 \~ 밤 10시대([볼륨을 높여요](../Page/볼륨을_높여요.md "wikilink")) 2부(1시간) 체제를 4부(30분) 체제로 전환
-  - [2015년](../Page/2015년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink")(오전 6시\~7시대) 시간에 광고방송 실시
+  - [2015년](../Page/2015년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") : 오전 9시\~11시대([음악앨범](../Page/음악앨범_\(라디오_프로그램\).md "wikilink")), 오후 2시\~4시대([뮤직쇼](../Page/뮤직쇼.md "wikilink") (현. [즐거운 생활](https://ko.wikipedia.org/wiki/정재형_문희준의_즐거운_생활 "wikilink"))), 저녁 8시 \~ 밤 10시대([볼륨을 높여요](../Page/볼륨을_높여요.md "wikilink")) 2부(1시간) 체제를 4부(30분) 체제로 전환
+  - [2015년](../Page/2015년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink")(아침 6시\~7시대) 시간에 광고방송 실시
   - [2015년](../Page/2015년.md "wikilink") [6월 26일](../Page/6월_26일.md "wikilink") : KBS 쿨FM 개국 50주년
   - [2015년](../Page/2015년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") : 오전 11시 \~ 낮 12시대([라디오쇼](../Page/박명수의_라디오쇼.md "wikilink") 방송 시간대) 1시간 체제에서 2부(30분) 체제로 전환.
   - [2017년](../Page/2017년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") : [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink"), 진행자 교체(이근철·존 발렌타인→레이나)와 동시에 [해피FM(2라디오)을](https://ko.wikipedia.org/wiki/KBS_해피FM "wikilink") 통해 동시방송 실시
-  - [2018년](../Page/2018년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") : [더 가까이](../Page/더_가까이.md "wikilink")(DMB 프로그램) 폐지로 인하여 새벽 3시 \~ 5시대 광고방송 재개(현, [미스터 라디오](../Page/미스터_라디오.md "wikilink") 재방송)로 쿨FM 광고 재개 16년 만에 전 시간대 광고방송 실시
-  - [2020년](../Page/2020년.md "wikilink") 6월 : 전국의 LG 헬로 비전 오디오 방송에 삽입 예정이다.
+  - [2018년](../Page/2018년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") : [더 가까이](../Page/더_가까이.md "wikilink")(DMB 프로그램) 종방으로 인하여 새벽 3시 \~ 5시대 광고방송 재개(현, [미스터 라디오](../Page/미스터_라디오.md "wikilink") 재방송)로 쿨FM 광고 재개 16년 만에 전 시간대 광고방송 실시
+  - [2020년](../Page/2020년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") : [상쾌한 아침](../Page/상쾌한_아침.md "wikilink"), [라디오쇼](../Page/박명수의_라디오쇼.md "wikilink"), 진행자 교체(김도연, 박명수)와 동시에 [해피FM(2라디오)을](https://ko.wikipedia.org/wiki/KBS_해피FM "wikilink") 통해 동시방송 실시
 
 ## 특이 사항
 
@@ -62,11 +62,11 @@
 
 이런 문제로 수도권을 제외한 다른 지방에서는 라디오를 통한 청취가 불가능하며, 인터넷, 휴대전화(KBS 전용 어플리케이션 포함)를 이용하거나 [2008년](../Page/2008년.md "wikilink")부터 [지상파 DMB](https://ko.wikipedia.org/wiki/지상파_DMB "wikilink")(U-KBS MUSIC ⓤKBS♬)에서 KBS Cool FM의 프로그램 대부분을 재전송하는 U-KBS MUSIC을 통해서만 청취가 가능해졌다. 단, [박원의 키스 더 라디오는](../Page/키스_더_라디오.md "wikilink") [지상파 DMB](https://ko.wikipedia.org/wiki/지상파_DMB "wikilink")(U-KBS MUSIC ⓤKBS♬)를 통한 청취가 가능해졌으며, [박명수의 라디오쇼는](https://ko.wikipedia.org/wiki/라디오쇼_\(라디오_프로그램\) "wikilink") [2016년](../Page/2016년.md "wikilink") [4월 25일부터](../Page/4월_25일.md "wikilink"), [정은지의 가요광장은](../Page/가요광장.md "wikilink") [2016년](../Page/2016년.md "wikilink") [9월 5일부터](../Page/9월_5일.md "wikilink") 각 지역 KBS Happy FM(제2라디오) 주파수로 청취할 수 있다.
 
-또한 [조정현의 굿모닝 팝스는](../Page/굿모닝_팝스.md "wikilink") [2017년](../Page/2017년.md "wikilink") [2월 6일부터](../Page/2월_6일.md "wikilink") KBS Happy FM(제2라디오)와 동시 네트워크로 일제히 송출됨에 따라서 지역국 FM에서의 방송이 중단되었다.
+또한 [김도연의 상쾌한 아침](../Page/상쾌한_아침.md "wikilink"), [조정현의 굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink"), [박명수의 라디오쇼는](https://ko.wikipedia.org/wiki/라디오쇼_\(라디오_프로그램\) "wikilink") 각각 [2017년](../Page/2017년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink"), [2020년](../Page/2020년.md "wikilink") [8월 31일부터](../Page/8월_31일.md "wikilink") KBS Happy FM(제2라디오)과 동시 네트워크로 일제히 송출됨에 따라서 지역국 FM에서의 방송이 중단되었다.
 
 ## 방송 프로그램
 
-''' 2020년 5월 11일 기준 '''
+''' 2020년 8월 31일 기준 '''
 
 <table>
 <thead>
@@ -81,10 +81,10 @@
 <tbody>
 <tr class="odd">
 <td><p>05:00</p></td>
-<td><p><a href="../Page/상쾌한_아침.md" title="wikilink">상쾌한 아침</a></p></td>
+<td><p><a href="../Page/상쾌한_아침.md" title="wikilink">김도연의 상쾌한 아침</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>녹음방송</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>(2라디오)을 통해 동시 네트워크로 일제히 송출 (전국방송) 녹음방송</p></td>
 </tr>
 <tr class="even">
 <td><p>06:00</p></td>
@@ -112,7 +112,7 @@
 <td><p><a href="../Page/박명수의_라디오쇼.md" title="wikilink">박명수의 라디오쇼</a></p></td>
 <td><p>o</p></td>
 <td><p>x</p></td>
-<td><p>각 지역총국 <a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>을 통해 송출 (일부지역 자체방송) 월~금 : 생방송 / 토,일 : 녹음방송<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>(2라디오)을 통해 동시 네트워크로 일제히 송출 (일부지역 자체방송) 월~금 : 생방송 / 토,일 : 녹음방송<br />
 DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군가 어딘가에가</a> 방송</p></td>
 </tr>
 <tr class="even">
@@ -141,14 +141,14 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
 <td><p><a href="../Page/사랑하기_좋은_날_이금희입니다.md" title="wikilink">사랑하기 좋은 날 이금희입니다</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>매일(월~일) 생방송</p></td>
+<td><p>매일(월~금) 생방송 / (토,일) 녹음방송</p></td>
 </tr>
 <tr class="even">
 <td><p>20:00</p></td>
 <td><p><a href="../Page/볼륨을_높여요.md" title="wikilink">강한나의 볼륨을 높여요</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>월~금 생방송</p></td>
+<td><p>월~목 : 생방송[3] / 금,토,일 : 녹음방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>22:00</p></td>
@@ -162,7 +162,7 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
 <td><p><a href="../Page/설레는_밤.md" title="wikilink">설레는 밤</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td></td>
+<td><p>월, 목 생방송[4] / 화,수,금,토,일 녹음방송[5]</p></td>
 </tr>
 <tr class="odd">
 <td><p>02:00</p></td>
@@ -231,7 +231,7 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
   - [테이](../Page/테이.md "wikilink") - 뮤직 아일랜드
   - [윤상](../Page/윤상.md "wikilink") - 0시의 스튜디오, [팝스 팝스](https://ko.wikipedia.org/wiki/팝스_팝스 "wikilink")
   - [성세정](../Page/성세정.md "wikilink") - 0시의 스튜디오
-  - [이상은](../Page/이상은_\(가수\).md "wikilink") - [사랑해요 FM](https://ko.wikipedia.org/wiki/사랑해요_FM "wikilink")
+  - [이상은](../Page/이상은_\(가수\).md "wikilink") - [사랑해요 FM](../Page/사랑해요_FM.md "wikilink")
   - [데니안](https://ko.wikipedia.org/wiki/데니안 "wikilink") - [키스 더 라디오](../Page/키스_더_라디오.md "wikilink"), [뮤직쇼](../Page/뮤직쇼.md "wikilink")
   - [김희애](../Page/김희애.md "wikilink") - [FM 인기가요](../Page/FM_인기가요.md "wikilink") (2FM)
   - [고현정](../Page/고현정.md "wikilink") - [FM 인기가요](../Page/FM_인기가요.md "wikilink") (2FM)
@@ -241,7 +241,7 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
   - [유영석](../Page/유영석.md "wikilink") - [FM 인기가요](../Page/FM_인기가요.md "wikilink") (2FM)
   - [이주노](../Page/이주노.md "wikilink") - [FM 인기가요](../Page/FM_인기가요.md "wikilink") (2FM)
   - [차태현](../Page/차태현.md "wikilink") - [FM 인기가요](../Page/FM_인기가요.md "wikilink") (2FM), [미스터 라디오(안재욱 차태현의 미스터 라디오)](../Page/미스터_라디오.md "wikilink")
-  - [박수홍](../Page/박수홍.md "wikilink"), [박경림](../Page/박경림.md "wikilink") - [FM 인기가요](../Page/FM_인기가요.md "wikilink") (2FM)\[3\]
+  - [박수홍](../Page/박수홍.md "wikilink"), [박경림](../Page/박경림.md "wikilink") - [FM 인기가요](../Page/FM_인기가요.md "wikilink") (2FM)\[6\]
   - [한진희](../Page/한진희.md "wikilink") - [음악앨범](../Page/음악앨범_\(라디오_프로그램\).md "wikilink")
   - [박인희](https://ko.wikipedia.org/wiki/박인희 "wikilink") - [음악앨범](../Page/음악앨범_\(라디오_프로그램\).md "wikilink")
   - [유열](../Page/유열.md "wikilink") - [음악앨범](../Page/음악앨범_\(라디오_프로그램\).md "wikilink")
@@ -263,14 +263,15 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
   - [유인나](../Page/유인나.md "wikilink") - [볼륨을 높여요](../Page/볼륨을_높여요.md "wikilink")
   - [조윤희](../Page/조윤희_\(배우\).md "wikilink") - [볼륨을 높여요](../Page/볼륨을_높여요.md "wikilink")
   - [김예원](https://ko.wikipedia.org/wiki/김예원 "wikilink") - [볼륨을 높여요](../Page/볼륨을_높여요.md "wikilink"), [설레는 밤](../Page/설레는_밤.md "wikilink")
+  - [이혜성](../Page/이혜성.md "wikilink") - [설레는 밤](../Page/설레는_밤.md "wikilink")
   - [악동뮤지션 이수현](../Page/이수현_\(1999년\).md "wikilink") - [볼륨을 높여요](../Page/볼륨을_높여요.md "wikilink")
-  - [오성식](../Page/오성식.md "wikilink") - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
-  - [곽영일](../Page/곽영일.md "wikilink") - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
-  - [이지영](https://ko.wikipedia.org/wiki/이지영_\(방송인\) "wikilink") - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
-  - [이근철](../Page/이근철.md "wikilink") - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
-  - 존 발렌타인 - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
-  - 레이나 - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
-  - [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink") - [굿모닝팝스](https://ko.wikipedia.org/wiki/굿모닝팝스 "wikilink")
+  - [곽영일](../Page/곽영일.md "wikilink") - [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink")
+  - [오성식](../Page/오성식.md "wikilink") - [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink")
+  - [이지영](https://ko.wikipedia.org/wiki/이지영_\(방송인\) "wikilink") - [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink")
+  - [이근철](../Page/이근철.md "wikilink") - [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink")
+  - 존 발렌타인 - [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink")
+  - 레이나 - [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink")
+  - [조승연](https://ko.wikipedia.org/wiki/조승연 "wikilink") - [굿모닝 팝스](../Page/굿모닝_팝스.md "wikilink")
   - [박수홍](../Page/박수홍.md "wikilink") - [두근두근 11시](https://ko.wikipedia.org/wiki/두근두근_11시 "wikilink")
   - [캔](../Page/캔_\(음악_그룹\).md "wikilink") - [미스터 라디오](../Page/미스터_라디오.md "wikilink")
   - [변우영](../Page/변우영.md "wikilink") - [3시와 5시 사이](../Page/3시와_5시_사이.md "wikilink")
@@ -283,11 +284,14 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
   - [조수빈](../Page/조수빈.md "wikilink") - [상쾌한 아침](../Page/상쾌한_아침.md "wikilink")
   - [이지애](../Page/이지애.md "wikilink") - [상쾌한 아침](../Page/상쾌한_아침.md "wikilink")
   - [변기수](../Page/변기수.md "wikilink") - [미스터 라디오](../Page/미스터_라디오.md "wikilink")
-  - [김승우](../Page/김승우.md "wikilink") - [미스터 라디오](../Page/미스터_라디오.md "wikilink")
+  - [김승우](../Page/김승우.md "wikilink") - [김승우 장항준의 미스터 라디오](../Page/미스터_라디오.md "wikilink")
+  - [장항준](../Page/장항준.md "wikilink") - [김승우 장항준의 미스터 라디오, 장항준 김진수의 미스터 라디오](../Page/미스터_라디오.md "wikilink")
+  - [김경란](../Page/김경란_\(방송인\).md "wikilink") - [김경란의 러빙유](https://ko.wikipedia.org/wiki/김경란의_러빙유 "wikilink")
   - [유희열](https://ko.wikipedia.org/wiki/유희열 "wikilink") - [유희열의 라디오 천국](../Page/유희열의_라디오_천국.md "wikilink")
   - [이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink"), [은혁](../Page/은혁.md "wikilink") - [키스 더 라디오](../Page/키스_더_라디오.md "wikilink")
   - [성민](../Page/성민_\(1986년\).md "wikilink"), [려욱](../Page/려욱.md "wikilink") - [키스 더 라디오](../Page/키스_더_라디오.md "wikilink")
   - [이홍기](https://ko.wikipedia.org/wiki/이홍기 "wikilink") - [키스 더 라디오](../Page/키스_더_라디오.md "wikilink")
+  - [곽진언](../Page/곽진언.md "wikilink") - [키스 더 라디오](../Page/키스_더_라디오.md "wikilink")
   - [버벌진트](../Page/버벌진트.md "wikilink") - [팝스 팝스](https://ko.wikipedia.org/wiki/팝스_팝스 "wikilink")
   - [하림](../Page/하림_\(가수\).md "wikilink") - [하림, 조정치의 2시](../Page/2시.md "wikilink")
   - [조정치](../Page/조정치.md "wikilink") - [하림, 조정치의 2시 / 조정치, 장동민의 2시](../Page/2시.md "wikilink")
@@ -295,7 +299,7 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
   - [박준형](../Page/박준형_\(희극인\).md "wikilink"), [김다래](../Page/김다래_\(희극인\).md "wikilink") - 라디오 천하무적
   - [김현철](../Page/김현철_\(가수\).md "wikilink") - 뮤직플러스
   - [장윤주](../Page/장윤주.md "wikilink") - [옥탑방 라디오](../Page/옥탑방_라디오.md "wikilink")
-  - [오유경](../Page/오유경.md "wikilink") - 상쾌한 아침입니다
+  - [오유경](../Page/오유경.md "wikilink") - [상쾌한 아침](../Page/상쾌한_아침.md "wikilink")
   - [장동민](../Page/장동민.md "wikilink") - [장동민,레이디제인의 2시](../Page/2시.md "wikilink")
   - [레이디제인](https://ko.wikipedia.org/wiki/레이디제인 "wikilink") - [장동민,레이디제인의 2시 / 레이디제인의 2시](../Page/2시.md "wikilink")
   - [황인용](../Page/황인용.md "wikilink") - 황인용의 영팝스
@@ -334,12 +338,12 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
 
 | 송신소     | 주파수      | 출력   | 호출부호                     | 송신소 위치              | 비고 |
 | ------- | -------- | ---- | ------------------------ | ------------------- | -- |
-| 관악산 송신소 | FM 89.1㎒ | 10㎾  | HLKC-FM\[4\]             | 경기 안양시 동안구 비산동 산3-1 |    |
+| 관악산 송신소 | FM 89.1㎒ | 10㎾  | HLKC-FM\[7\]             | 경기 안양시 동안구 비산동 산3-1 |    |
 | 성남 중계소  | FM 97.7㎒ | 20W  | 경기 성남시 중원구 은행2동 산2-2 검단산 |                     |    |
 | 진촌 중계소  | FM 90.9㎒ | 100W | 인천 옹진군 백령면 북포리 산138-3    |                     |    |
 |         |          |      |                          |                     |    |
 
-  - 수신 가능지역은 [서울특별시](../Page/서울특별시.md "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 전 지역과 [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink")\[5\] 일부와, [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부 일부 지역, [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영서 일부 지역이며](https://ko.wikipedia.org/wiki/영서_지방 "wikilink"), 그 외 지역은 DMB V-Radio 채널인 U-KBS MUSIC을 통하거나 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 홈페이지에 접속해서 KBS 콩 프로그램을 다운로드 받아 청취가 가능하다. 수신 가능지역은 수신 장비에 따라 그 외의 지역에서도 수신이 가능할 수 있다. 단, KBS 수신 안내 지도에서 직접 수신을 통해 청취하거나 또한 TV, DMB로 볼 수도 있다. DMB 직접 수신 통합의 경우 KBS 2라디오, 개별의 경우 KBS 2FM의 일반 방송을 통해서도 들을 수 있다. 통합 수신의 경우 자막에 한해서만 분야별 뉴스가 제공되며 개별 수신의 경우에는 전국 뉴스다.
+  - 수신 가능지역은 [서울특별시](../Page/서울특별시.md "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 전 지역과 [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink")\[8\] 일부와, [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부 일부 지역, [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영서 일부 지역이며](https://ko.wikipedia.org/wiki/영서_지방 "wikilink"), 그 외 지역은 DMB V-Radio 채널인 U-KBS MUSIC을 통하거나 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 홈페이지에 접속해서 KBS 콩 프로그램을 다운로드 받아 청취가 가능하다. 수신 가능지역은 수신 장비에 따라 그 외의 지역에서도 수신이 가능할 수 있다. 단, KBS 수신 안내 지도에서 직접 수신을 통해 청취하거나 또한 TV, DMB로 볼 수도 있다. DMB 직접 수신 통합의 경우 KBS 2라디오, 개별의 경우 KBS 2FM의 일반 방송을 통해서도 들을 수 있다.
 
 ## 특집 프로그램
 
@@ -364,6 +368,9 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
 
 1.  [KBS Cool FM 홈페이지](http://www.kbs.co.kr/radio/coolfm/index.html) 의 메인 페이지나 홈페이지 폴더에서 제2FM 방송 대신 '''Cool FM 89.1㎒ ''' 등의 호칭을 사용함을 알 수 있다. 인터넷 라디오 프로그램인 콩에서도 Cool FM이라는 명칭을 '2FM'과 혼용하고 있으며, 또한, 라디오 방송 내부에서도 2FM 대신 Cool FM 이라는 호칭을 사용하였다.
 2.  2009년에 본사에서 방송통신위원회에 지방 주파수 신설을 건의하였으나 방통위에서는 주파수 지원 부족으로 신설이 불가하다는 통보를 받았다고 하였다.
-3.  [FM 인기가요는](../Page/FM_인기가요.md "wikilink") [2001년](../Page/2001년.md "wikilink") [KBS 해피FM으로](https://ko.wikipedia.org/wiki/KBS_해피FM "wikilink") 채널을 이관하여 방송하다 [2009년](../Page/2009년.md "wikilink") 폐지되었다.
-4.  기존 [동양방송](../Page/동양방송.md "wikilink") 서울본사의 호출부호를 그대로 사용하고 있다.
-5.  [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink")와 [세종특별자치시](../Page/세종특별자치시.md "wikilink") 일대에서도 청취가 가능하다.
+3.  월\~목요일은 주로 생방송으로 진행되지만, 게스트, DJ의 사정 등에 따라 녹음방송으로 진행되는 경우가 있음
+4.  여기서 이야기하는 월요일은 화요일 0시부터 2시까지 진행되는 방송을 말한다.
+5.  매주 녹음 방송, 생방 일정이 바뀌는 경우가 많다. 홈페이지 보이는 라디오 일정을 확인하면 생방송 일정을 확인할 수 있다
+6.  [FM 인기가요는](../Page/FM_인기가요.md "wikilink") [2001년](../Page/2001년.md "wikilink") [KBS 해피FM으로](https://ko.wikipedia.org/wiki/KBS_해피FM "wikilink") 채널을 이관하여 방송하다 [2009년](../Page/2009년.md "wikilink") 폐지되었다.
+7.  기존 [동양방송](../Page/동양방송.md "wikilink") 서울본사의 호출부호를 그대로 사용하고 있다.
+8.  [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink")와 [세종특별자치시](../Page/세종특별자치시.md "wikilink") 일대에서도 청취가 가능하다.

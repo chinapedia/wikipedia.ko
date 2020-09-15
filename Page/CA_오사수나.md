@@ -46,4 +46,4 @@
 
   - [오사수나 공식 홈페이지](http://www.osasuna.es)
 
-[CA_오사수나](https://ko.wikipedia.org/wiki/분류:CA_오사수나 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:1920년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1920년_설립된_축구단 "wikilink") [분류:나바라 지방의 축구단](https://ko.wikipedia.org/wiki/분류:나바라_지방의_축구단 "wikilink")
+[CA_오사수나](https://ko.wikipedia.org/wiki/분류:CA_오사수나 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:1920년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1920년_설립된_축구단 "wikilink") [분류:나바라주의 축구단](https://ko.wikipedia.org/wiki/분류:나바라주의_축구단 "wikilink")

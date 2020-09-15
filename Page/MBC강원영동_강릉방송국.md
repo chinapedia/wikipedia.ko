@@ -76,7 +76,7 @@
 <tr class="header">
 <th><p><a href="../Page/930_MBC_뉴스.md" title="wikilink">930 MBC 뉴스 강원</a></p></th>
 <th><p>월~금 10분</p></th>
-<th><p>월~금 오전 09:35 ~ 09:45</p></th>
+<th><p>월~금 오전 09:30 ~ 09:40</p></th>
 <th><p>민기원</p></th>
 </tr>
 </thead>
@@ -84,7 +84,7 @@
 <tr class="odd">
 <td><p><a href="../Page/5_MBC_뉴스.md" title="wikilink">5 MBC 뉴스 강원</a></p></td>
 <td><p>월~금 10분</p></td>
-<td><p>월~금 오후 17:15 ~ 17:25</p></td>
+<td><p>월~금 오후 17:10 ~ 17:20</p></td>
 <td><p>김현수</p></td>
 </tr>
 <tr class="even">
@@ -94,8 +94,8 @@
 <td><p>월~금 오후 20:25 ~ 20:45<br />
 토 오후 20:20 ~ 20:35<br />
 일 오후 20:25 ~ 20:35</p></td>
-<td><p>성스리<br />
-김인성</p></td>
+<td><p>민기원<br />
+김현수</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -111,11 +111,8 @@
 <!-- end list -->
 
   - [생방송 전국시대](../Page/생방송_전국시대.md "wikilink")
-  - 동네방네
-  - 뉴스토크 말쌈
-  - TV특강
-  - [MBC 가요베스트](https://ko.wikipedia.org/wiki/MBC_가요베스트 "wikilink")
-  - TV 속의 TV 강원영동
+  - TV토론 뜨거운 감자(매월 마지막주)
+  - 미디어 리뷰(매월 마지막주)
   - 생방송 강원 365
   - 산골음악회
   - 특집프로그램
@@ -169,33 +166,27 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/MBC_정오종합뉴스.md" title="wikilink">MBC 정오종합뉴스</a></p></td>
+<td><p><a href="http://www.mbceg.co.kr/program/radio_03">라디오 동서남북<br />
+(MBC강원영동 삼척방송국)</a></p></td>
 <td><p>평일</p></td>
-<td><p>5분</p></td>
+<td><p>30분</p></td>
 <td><p>민기원</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/MBC_정오종합뉴스.md" title="wikilink">MBC 정오종합뉴스</a></p></td>
+<td><p>5분</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>MBC 15시 뉴스</p></td>
 <td><p>김현수</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="http://www.mbceg.co.kr/program/radio_02">라디오 가든</a></p></td>
 <td><p>115분</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="http://www.mbceg.co.kr/program/radio_03">라디오 동서남북<br />
-(MBC강원영동 삼척방송국)</a></p></td>
-<td><p>30분</p></td>
-<td><p>민기원</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>

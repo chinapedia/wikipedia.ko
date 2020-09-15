@@ -3,7 +3,7 @@
 
 [섬네일에](https://ko.wikipedia.org/wiki/파일:AGM-88_HARM_on_FA-18C.jpg "wikilink") 장착된 AGM-88 함 미사일\]\]
 
-**AGM-88 함**(HARM: High speed Anti Radiation Missile)은 공대지 대레이다 미사일이다. 발사시 조종사들은 항공교신에서 **매그넘**이라고 외친다.[1](http://www.fas.org/man/dod-101/usaf/docs/mcm3-1-a1.htm)
+**AGM-88 함**()은 공대지 대레이다 미사일이다. 발사시 조종사들은 항공교신에서 **매그넘**이라고 외친다.\[1\]
 
 ## 제원
 
@@ -40,3 +40,5 @@
   - [Pilots glossary](https://web.archive.org/web/20060822120127/http://www.voodoo.cz/tomcat/glossary.html)
 
 [분류:독일의 공대지유도탄](https://ko.wikipedia.org/wiki/분류:독일의_공대지유도탄 "wikilink") [분류:미국의 공대지유도탄](https://ko.wikipedia.org/wiki/분류:미국의_공대지유도탄 "wikilink") [분류:대레이다 미사일](https://ko.wikipedia.org/wiki/분류:대레이다_미사일 "wikilink")
+
+1.  [1](http://www.fas.org/man/dod-101/usaf/docs/mcm3-1-a1.htm)

@@ -15,7 +15,7 @@
 
 ## 선수
 
-[갓타스 브릴리언티스 H.P.에](../Page/갓타스_브릴리언티스_H.P..md "wikilink") 소속되지 않은 [모닝구무스메](../Page/모닝구무스메.md "wikilink")。와 [비유덴](../Page/비유덴.md "wikilink")([2008년](../Page/2008년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") 해산)의 멤버들로 구성되었다(단, 오가와만 이전 참가한 경험 있음).
+[갓타스 브릴리언티스 H.P.에](../Page/갓타스_브릴리언티스_H.P..md "wikilink") 소속되지 않은 [모닝구무스메](../Page/모닝구무스메.md "wikilink")와 [비유덴](../Page/비유덴.md "wikilink")([2008년](../Page/2008년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") 해산)의 멤버들로 구성되었다(단, 오가와만 이전 참가한 경험 있음).
 
   - [다나카 레이나](../Page/다나카_레이나.md "wikilink"), 등번호 1※
   - [다카하시 아이](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink"), 등번호 9 - 캡틴※
@@ -24,7 +24,13 @@
   - [미치시게 사유미](../Page/미치시게_사유미.md "wikilink"), 등번호 37※
   - [쿠스미 코하루](../Page/쿠스미_코하루.md "wikilink") 등번호 77※
 
-※ 미요시와 오카다는 [2009년](../Page/2009년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink"), 쿠스미는 동년 [12월 6일](../Page/12월_6일.md "wikilink"), 다카하시는 [2011년](../Page/2011년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink"), 니이가키는 [2012년](../Page/2012년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink"), 다나카는 [2013년](../Page/2013년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink"), 미치시게는 [2014년](../Page/2014년.md "wikilink") [11월 26일에](../Page/11월_26일.md "wikilink") 헬로\! 프로젝트를 졸업하였다.
+## [헬로\! 프로젝트졸업일](../Page/헬로!_프로젝트.md "wikilink")
+
+  - [2009년](../Page/2009년.md "wikilink"):[미요시 에리카](../Page/미요시_에리카.md "wikilink")&[오카다 유이](../Page/오카다_유이.md "wikilink")([3월 31일에졸업](../Page/3월_31일.md "wikilink")), [쿠스미 코하루](../Page/쿠스미_코하루.md "wikilink")([12월 6일에졸업](../Page/12월_6일.md "wikilink"))
+  - [2011년](../Page/2011년.md "wikilink"):[다카하시 아이](https://ko.wikipedia.org/wiki/다카하시_아이 "wikilink")([9월 30일에졸업](../Page/9월_30일.md "wikilink"))
+  - [2012년](../Page/2012년.md "wikilink"):[니이가키 리사](../Page/니이가키_리사.md "wikilink")([5월 18일에졸업](../Page/5월_18일.md "wikilink"))
+  - [2013년](../Page/2013년.md "wikilink"):[다나카 레이나](../Page/다나카_레이나.md "wikilink")([5월 21일에졸업](../Page/5월_21일.md "wikilink"))
+  - [2014년](../Page/2014년.md "wikilink"):[미치시게 사유미](../Page/미치시게_사유미.md "wikilink")([11월 26일에졸업](../Page/11월_26일.md "wikilink"))
 
 ### 졸업 선수
 

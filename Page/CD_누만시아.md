@@ -12,4 +12,4 @@
   -
     ''2008년 9월 2일 현재
 
-[CD_누만시아](https://ko.wikipedia.org/wiki/분류:CD_누만시아 "wikilink") [분류:1945년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1945년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:카스티야이레온 지방의 축구단](https://ko.wikipedia.org/wiki/분류:카스티야이레온_지방의_축구단 "wikilink")
+[CD_누만시아](https://ko.wikipedia.org/wiki/분류:CD_누만시아 "wikilink") [분류:1945년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1945년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:카스티야이레온주의 축구단](https://ko.wikipedia.org/wiki/분류:카스티야이레온주의_축구단 "wikilink")

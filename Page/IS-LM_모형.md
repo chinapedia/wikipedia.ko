@@ -57,6 +57,6 @@ IS-LM모형은 이자율과 상품과 재화의 생산과 화폐시장에 대한
 
 ## 참고
 
-[분류:거시경제학](https://ko.wikipedia.org/wiki/분류:거시경제학 "wikilink") [분류:경제학 곡선](https://ko.wikipedia.org/wiki/분류:경제학_곡선 "wikilink") [분류:1937년 경제](https://ko.wikipedia.org/wiki/분류:1937년_경제 "wikilink")
+[분류:거시경제학](https://ko.wikipedia.org/wiki/분류:거시경제학 "wikilink") [분류:경제학 곡선](https://ko.wikipedia.org/wiki/분류:경제학_곡선 "wikilink") [분류:1937년 경제](https://ko.wikipedia.org/wiki/분류:1937년_경제 "wikilink") [분류:경제 모형](https://ko.wikipedia.org/wiki/분류:경제_모형 "wikilink")
 
 1.  [삼면등가의 원칙에](https://ko.wikipedia.org/wiki/삼면등가의_원칙 "wikilink") 따라 국민소득과 같다.

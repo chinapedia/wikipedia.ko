@@ -230,6 +230,7 @@ EF-S의 S는 "short back focus"를 뜻한다.
   - [캐논 EOS 60D](../Page/캐논_EOS_60D.md "wikilink")
   - [캐논 EOS 60Da](https://ko.wikipedia.org/wiki/캐논_EOS_60Da "wikilink")
   - [캐논 EOS 70D](../Page/캐논_EOS_70D.md "wikilink")
+  - 캐논 EOS 77D
   - [캐논 EOS 80D](https://ko.wikipedia.org/wiki/캐논_EOS_80D "wikilink")
   - [캐논 EOS 7D](../Page/캐논_EOS_7D.md "wikilink")
   - [캐논 EOS 7D Mark II](../Page/캐논_EOS_7D_Mark_II.md "wikilink")

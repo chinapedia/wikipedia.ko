@@ -58,7 +58,7 @@
 20. [타블로, 에픽하이 새 프로젝트 공개..."소품집 '1825' 작업 중"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=018&aid=0001991572) 《이데일리》, 2008년 6월 26일
 21. [에픽하이 '편곡 교실이데아' 서태지에 자랑](http://news.hankooki.com/lpage/sports/200808/h2008081320370391990.htm) 《한국일보》, 2008년 8월 13일
 22. [에픽하이, 서태지와 전격 한무대\!](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=001&oid=022&aid=0001971389&) 《세계일보》, 2008년 7월 8일
-23. [에픽하이 음반 누적판매량](http://blog.daum.net/snow_music/4101776) 《한터정보시스템》, 2009년 9월 16일.
+23. [에픽하이 음반 누적판매량](http://blog.daum.net/snow_music/4101776)  《한터정보시스템》, 2009년 9월 16일.
 24. [뮤직뱅크 1위 발표 \`방송사고\`…에픽하이 \`좋았다 말았네\`](http://news.mk.co.kr/outside/view.php?year=2008&no=282142)  《매일경제》, 2008년 5월 2일
 25.
 26. [타블로 "길 덕분에 에픽하이 5집 앨범 낼 수 있었어"](http://www.asiae.co.kr/news/view.htm?idxno=2009062110241935570&nvr=y) 《아시아경제 연예》, 2009년 6월 21일

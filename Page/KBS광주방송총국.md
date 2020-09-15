@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS광주방송총국](https://ko.wikipedia.org/wiki/KBS광주방송총국).
 
 
-**KBS광주방송총국**(KBS光州放送總局)은 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")와 [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 중북부지역을 대상으로 하는 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")의 지역방송총국이다. 지역총국 중 하나로, 하부에 [KBS목포방송국](../Page/KBS목포방송국.md "wikilink")과 [KBS순천방송국](../Page/KBS순천방송국.md "wikilink")을 두고 있다.
+**KBS광주방송총국**(KBS光州放送總局)은 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")와 [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 중북부지역을 대상으로 하는 [KBS의](../Page/한국방송공사.md "wikilink") 지역방송총국이다. 지역총국 중 하나로, 하부에 [목포방송국과](../Page/KBS목포방송국.md "wikilink") [순천방송국을](../Page/KBS순천방송국.md "wikilink") 두고 있다.
 
 ## 개요
 
@@ -32,6 +32,10 @@
 2012년 10월 30일, 44년간 지속해왔던 지상파 아날로그 TV 방송이 폐지되었고, [2013년](../Page/2013년.md "wikilink") [6월 12일에는](../Page/6월_12일.md "wikilink") 디지털TV방송 주파수 재배치를 완료했다.
 
 [2017년](../Page/2017년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") KBS광주 1TV 와 KBS광주 2TV UHD 방송개국.
+
+## 같이 보기
+
+  - [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") \[1\]
 
 ## 방송 송출 시설망
 
@@ -165,10 +169,10 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="https://ko.wikipedia.org/wiki/박재효" title="wikilink">박재효</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_광주·전남" title="wikilink">KBS 뉴스 7 광주·전남</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7_광주·전남.md" title="wikilink">KBS 뉴스 7 광주·전남</a></p></td>
 <td><p>40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박상훈" title="wikilink">박상훈</a>, 최혜진</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박상훈" title="wikilink">박상훈</a>, <a href="https://ko.wikipedia.org/wiki/최혜진" title="wikilink">최혜진</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 광주·전남</a></p></td>
@@ -182,8 +186,8 @@ PC,모바일 MY K로 실시간 시청 가능
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/임정섭" title="wikilink">임정섭</a>, <a href="https://ko.wikipedia.org/wiki/유도희" title="wikilink">유도희</a>(평일)<br />
-당직 아나운서(주말)</p></td>
+<td><p><a href="../Page/유승용.md" title="wikilink">유승용</a>, <a href="https://ko.wikipedia.org/wiki/박재효" title="wikilink">박재효</a>(평일)<br />
+<a href="https://ko.wikipedia.org/wiki/임진숙" title="wikilink">임진숙</a>(주말)</p></td>
 </tr>
 </tbody>
 </table>
@@ -321,6 +325,7 @@ PC,모바일 MY K로 실시간 시청 가능
 | [1986년](../Page/1986년.md "wikilink")                                  |
 | [1987년](../Page/1987년.md "wikilink")                                  |
 | [2004년](../Page/2004년.md "wikilink")                                  |
+| [2008년](../Page/2008년.md "wikilink")                                  |
 | [2010년](../Page/2010년.md "wikilink")                                  |
 | [2019년](../Page/2019년.md "wikilink")                                  |
 
@@ -339,9 +344,8 @@ PC,모바일 MY K로 실시간 시청 가능
 #### 여성
 
   - [양율희](https://ko.wikipedia.org/wiki/양율희 "wikilink") (퇴사)
-  - [임지현](https://ko.wikipedia.org/wiki/임지현 "wikilink") ([2006년](../Page/2006년.md "wikilink") 전 KNN 아나운서, 전 청주MBC 아나운서, 전 MBC 라디오 뉴스캐스터)
+  - [임지현](https://ko.wikipedia.org/wiki/임지현 "wikilink") ([2006년](../Page/2006년.md "wikilink") 전 KNN 부산경남방송 아나운서, 전 청주MBC 아나운서, 전 MBC 라디오 뉴스캐스터)
   - [이혜성](../Page/이혜성.md "wikilink") (2016\~2018, 전 KBS 서울본국)
-  - [채윤아](https://ko.wikipedia.org/wiki/채윤아 "wikilink") (현 KBS순천방송국)
 
 ### [기상캐스터](https://ko.wikipedia.org/wiki/기상캐스터 "wikilink")
 
@@ -381,7 +385,7 @@ PC,모바일 MY K로 실시간 시청 가능
   - [정길훈](https://ko.wikipedia.org/wiki/정길훈 "wikilink")
   - [윤형혁](https://ko.wikipedia.org/wiki/윤형혁 "wikilink")
   - [유승용](../Page/유승용.md "wikilink")
-  - [이영화](https://ko.wikipedia.org/wiki/이영화 "wikilink")
+  - [이영화](../Page/이영화.md "wikilink")
   - [김애린](https://ko.wikipedia.org/wiki/김애린 "wikilink")
   - [손준수](https://ko.wikipedia.org/wiki/손준수 "wikilink")
   - [김호](https://ko.wikipedia.org/wiki/김호 "wikilink")
@@ -401,3 +405,5 @@ PC,모바일 MY K로 실시간 시청 가능
   - [KBS광주방송총국 공식 홈페이지](http://gwangju.kbs.co.kr)
 
 [분류:1942년 설립](https://ko.wikipedia.org/wiki/분류:1942년_설립 "wikilink") [분류:1942년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1942년_설립된_라디오_방송국 "wikilink") [광주](https://ko.wikipedia.org/wiki/분류:한국방송공사의_지역방송국 "wikilink") [분류:대한민국의 광주광역시 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_광주광역시_지상파_방송국 "wikilink") [분류:대한민국의 전라남도 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_전라남도_지상파_방송국 "wikilink")
+
+1.  협조 바랍니다

@@ -9,7 +9,8 @@
 
 ## 작품 리스트
 
-  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 [시청 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 시행하여, 현재까지 이어지고 있다.
+  - 아래의 프로그램들은 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")에서 시행중인 [2002년](../Page/2002년.md "wikilink") 금연 캠페인 시행 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 흡연 장면 및 담배 소품이 노출될 수 있으며 시청자 여러분들의 양해를 바랍니다.
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 시청 가능 연령을 표시하는 [드라마 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 의무적으로 시행하여, 현재까지 이어지고 있다.
 
 ### 2000년
 
@@ -1220,7 +1221,7 @@
 <tr class="even">
 <td><p>134</p></td>
 <td><p>3월 30일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/지독한_사랑_(드라마)‎" title="wikilink">지독한 사랑</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/지독한_사랑_(드라마)" title="wikilink">지독한 사랑</a></p></td>
 <td><p><a href="../Page/심형탁.md" title="wikilink">심형탁</a>, <a href="https://ko.wikipedia.org/wiki/최유정" title="wikilink">최유정</a>, <a href="https://ko.wikipedia.org/wiki/윤서준" title="wikilink">윤서준</a>, <a href="https://ko.wikipedia.org/wiki/김민경" title="wikilink">김민경</a>,<br />
 <a href="../Page/천호진.md" title="wikilink">천호진</a></p></td>
 <td><p>이향희</p></td>
@@ -1240,7 +1241,7 @@
 <td><p>4월 13일</p></td>
 <td><p>결혼할까요?</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이성용" title="wikilink">이성용</a>, <a href="../Page/이윤성_(배우).md" title="wikilink">이윤성</a>, <a href="../Page/김동수_(1970년).md" title="wikilink">김동수</a>, <a href="../Page/권이지_(배우).md" title="wikilink">권이지</a>,<br />
-<a href="../Page/김미라.md" title="wikilink">김미라</a>, <a href="https://ko.wikipedia.org/wiki/윤담" title="wikilink">윤담</a></p></td>
+<a href="../Page/김미라.md" title="wikilink">김미라</a>, <a href="../Page/윤담.md" title="wikilink">윤담</a></p></td>
 <td><p>구선경</p></td>
 <td><p>이재상</p></td>
 </tr>
@@ -1367,7 +1368,7 @@
 <td><p>150</p></td>
 <td><p>7월 29일</p></td>
 <td><p>내가 결혼하려는 이유</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김태연" title="wikilink">김태연</a>, <a href="../Page/윤기원_(배우).md" title="wikilink">윤기원</a>, <a href="https://ko.wikipedia.org/wiki/정주환" title="wikilink">정주환</a>,<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/김태연" title="wikilink">김태연</a>, <a href="../Page/윤기원_(배우).md" title="wikilink">윤기원</a>, <a href="../Page/정주환.md" title="wikilink">정주환</a>,<br />
 <a href="../Page/기주봉.md" title="wikilink">기주봉</a>, <a href="../Page/성동일.md" title="wikilink">성동일</a></p></td>
 <td><p>최지연</p></td>
 <td><p>이민홍</p></td>
@@ -2393,7 +2394,7 @@
 <td><p>262</p></td>
 <td><p>12월 3일</p></td>
 <td><p>그 마을에 무슨일이 생겼나</p></td>
-<td><p><a href="../Page/이대로.md" title="wikilink">이대로</a>, <a href="../Page/황범식.md" title="wikilink">황범식</a>, <a href="https://ko.wikipedia.org/wiki/조은덕" title="wikilink">조은덕</a>, <a href="../Page/윤지숙.md" title="wikilink">윤지숙</a>,<br />
+<td><p><a href="../Page/이대로.md" title="wikilink">이대로</a>, <a href="../Page/황범식.md" title="wikilink">황범식</a>, <a href="../Page/조은덕.md" title="wikilink">조은덕</a>, <a href="../Page/윤지숙.md" title="wikilink">윤지숙</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/최원석" title="wikilink">최원석</a>, <a href="../Page/명지연.md" title="wikilink">명지연</a></p></td>
 <td><p>박진우</p></td>
 <td><p>전창근</p></td>
@@ -2789,7 +2790,7 @@
 <td><p>305</p></td>
 <td><p>11월 18일</p></td>
 <td><p>꽃분이가 왔습니더</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장준용" title="wikilink">장준용</a>, <a href="https://ko.wikipedia.org/wiki/김명재" title="wikilink">김명재</a>, <a href="https://ko.wikipedia.org/wiki/설리" title="wikilink">최설리</a>, <a href="../Page/이주실.md" title="wikilink">이주실</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/장준용" title="wikilink">장준용</a>, <a href="https://ko.wikipedia.org/wiki/김명재" title="wikilink">김명재</a>, <a href="../Page/설리_(1994년).md" title="wikilink">최설리</a>, <a href="../Page/이주실.md" title="wikilink">이주실</a></p></td>
 <td><p>최민기</p></td>
 <td><p>이진서</p></td>
 </tr>
@@ -3404,11 +3405,6 @@
 ## 각주
 
 <references/>
-
-## 외부 링크
-
-  - [KBS 드라마시티 공식 홈페이지](http://www.kbs.co.kr/drama/dramacity/)
-  - [KBS 특집 테마드라마 "살아가는 동안 후회할 줄 알면서 저지르는 일들" 공식 홈페이지](http://www.kbs.co.kr/drama/4story/)
 
 [KBS 드라마시티](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [분류:단막극](https://ko.wikipedia.org/wiki/분류:단막극 "wikilink") [분류:앤솔러지 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:앤솔러지_텔레비전_프로그램 "wikilink") [KBS_드라마시티](https://ko.wikipedia.org/wiki/분류:KBS_드라마시티 "wikilink") [분류:2000년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2000년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2008년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2008년에_종료한_대한민국_TV_프로그램 "wikilink")
 

@@ -18,4 +18,4 @@ Digital Masta는 1집을 [조PD](../Page/조PD.md "wikilink")의 프로듀싱과
   - Digital Masta는 현재 [YG 엔터테인먼트의](../Page/YG_엔터테인먼트.md "wikilink") [Masta Wu와](../Page/마스타_우.md "wikilink") 함께 [YMGA](https://ko.wikipedia.org/wiki/YMGA "wikilink")라는 팀을 결성하여 2008년 10월 데뷔하였다.
   - 실력은 이후 솔로 앨범을 준비한다는 소문과 함께 [LowDown과](../Page/로우다운.md "wikilink") [하하](https://ko.wikipedia.org/wiki/하하 "wikilink")의 앨범에 참여하는 등 간간히 모습을 드러냈으나, *2008 대한민국* 앨범 참여 이후로는 아무런 공식 활동도 없었다. 2012년 [엠넷](../Page/엠넷.md "wikilink") 《[쇼미더머니](https://ko.wikipedia.org/wiki/쇼미더머니 "wikilink")》에 출연하여 힙합 팬들을 놀라게 하였다.
 
-[분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:한국어 음악 그룹‎](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹‎ "wikilink")
+[분류:대한민국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_그룹 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink")

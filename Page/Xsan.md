@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Xsan](https://ko.wikipedia.org/wiki/Xsan).
 
 
-**Xsan**은 [애플 (기업)의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 및 [맥 OS X 서버를](https://ko.wikipedia.org/wiki/맥_OS_X_서버 "wikilink") 위한 고성능 [클러스터드 파일 시스템이다](https://ko.wikipedia.org/wiki/클러스터드_파일_시스템 "wikilink").
+**Xsan**은 [애플](../Page/애플.md "wikilink")의 [맥 OS X](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") 및 [맥 OS X 서버를](https://ko.wikipedia.org/wiki/맥_OS_X_서버 "wikilink") 위한 고성능 [클러스터드 파일 시스템이다](https://ko.wikipedia.org/wiki/클러스터드_파일_시스템 "wikilink").
 
 Xsan은 애플의 SAN 파일 시스템 소프트웨어이다. 사용자들로 하여금 여러 대의 [Xserve](https://ko.wikipedia.org/wiki/Xserve "wikilink")나 [매킨토시](../Page/매킨토시.md "wikilink") 시스템에서 1개 이상의 RAID 장치를 공유할 수 있게 해 준다. Xsan은 서드 파티의 [파이버 채널](../Page/파이버_채널.md "wikilink") 기억 장치에서도 작동한다. 단 이때는 애플로부터의 지원이 제한된다. Xsan 파일 시스템을 설치하면, 이들 컴퓨터들은 같은 스토리지 볼륨을 동시적으로 읽고 쓸 수 있게 된다. Xsan은 모듬으로 제공되는 [스토리지 에어리어 네트워크](../Page/스토리지_에어리어_네트워크.md "wikilink")(SAN) 솔루션이다. 메타데이터 컨트롤러 소프트웨어도 포함하고 있으며, 또한 파일 시스템 클라이언트 소프트웨어, 통합된 셋업, 관리 모니터링 도구도 같이 포함하고 있다.
 
-[Xsan 홈페이지](https://www.apple.com/xsan)에 따르면 애플은 다음과 같이 밝히고 있다. "여러분은 Xsan을 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") 환경에서 사용할 수 있습니다. [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [유닉스](../Page/유닉스.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink") 기반의 시스템에서도 사용할 수 있습니다. [스토어넥스트 파일 시스템을](https://ko.wikipedia.org/wiki/스토어넥스트_파일_시스템 "wikilink") 쓰면 Xsan과 완전히 호환됩니다."
+[Xsan 홈페이지](https://www.apple.com/xsan) 에 따르면 애플은 다음과 같이 밝히고 있다. "여러분은 Xsan을 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") 환경에서 사용할 수 있습니다. [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink"), [유닉스](../Page/유닉스.md "wikilink"), [리눅스](../Page/리눅스.md "wikilink") 기반의 시스템에서도 사용할 수 있습니다. [스토어넥스트 파일 시스템을](https://ko.wikipedia.org/wiki/스토어넥스트_파일_시스템 "wikilink") 쓰면 Xsan과 완전히 호환됩니다."
 
 ## 역사
 

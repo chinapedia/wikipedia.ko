@@ -16,7 +16,7 @@
   - [와리오](../Page/와리오.md "wikilink")
   - [요시](../Page/요시.md "wikilink")
   - [피치](../Page/피치.md "wikilink")
-  - [데이지](https://ko.wikipedia.org/wiki/데이지 "wikilink")
+  - [데이지](../Page/데이지.md "wikilink")
   - [와루이지](https://ko.wikipedia.org/wiki/와루이지 "wikilink")
   - [키노피오](../Page/키노피오.md "wikilink")
 

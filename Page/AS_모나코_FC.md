@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AS 모나코 FC](https://ko.wikipedia.org/wiki/AS_모나코_FC).
 
 
-**아소시아시옹 스포르티브 드 모나코 풋볼 클뢰브**()는 도시 국가인 [모나코](../Page/모나코.md "wikilink")를 연고지로 하는 축구 클럽이다. 이 팀은 1924년에 창단되었으며, 현재 [프랑스](../Page/프랑스.md "wikilink")의 1부 리그인 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가하고 있다. 홈 경기장은 [퐁비에유](https://ko.wikipedia.org/wiki/퐁비에유 "wikilink")에 있는 [스타드 루이 II](../Page/스타드_루이_II.md "wikilink") 경기장이다. 현재 감독은 [로베르트 모레노다](https://ko.wikipedia.org/wiki/로베르트_모레노 "wikilink"), [카밀 글리크가](../Page/카밀_글리크.md "wikilink") 주장을 맡고 있다.
+**아소시아시옹 스포르티브 드 모나코 풋볼 클뢰브**()는 도시 국가인 [모나코](../Page/모나코.md "wikilink")를 연고지로 하는 축구 클럽이다. 이 팀은 1924년에 창단되었으며, 현재 [프랑스](../Page/프랑스.md "wikilink")의 1부 리그인 [리그 1에](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 참가하고 있다. 홈 경기장은 [퐁비에유](https://ko.wikipedia.org/wiki/퐁비에유 "wikilink")에 있는 [스타드 루이 II](../Page/스타드_루이_II.md "wikilink") 경기장이다. 현재 감독은 [니코 코바치다](../Page/니코_코바치.md "wikilink"), [카밀 글리크가](../Page/카밀_글리크.md "wikilink") 주장을 맡고 있다.
 
 [2011년](../Page/2011년.md "wikilink") 12월 러시아의 억만장자 [디미트리 리볼로블레프가](https://ko.wikipedia.org/wiki/디미트리_리볼로블레프 "wikilink") 이끄는 투자그룹에 구단 지분 2/3가 인수되어 막강한 자금력을 가지게 되었다.
 

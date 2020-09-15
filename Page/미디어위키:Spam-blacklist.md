@@ -129,8 +129,10 @@
     \bkimminseok\.asia\b         # 레비 # [[m:User:COIBot/Local/kimminseok.asia|m:User:COIBot/Local/kimminseok.asia]] 참조
     \bpulse-edu\.co\.kr\b        # 레비 # [[m:User:COIBot/Local/pulse-edu.co.kr|m:User:COIBot/Local/pulse-edu.co.kr]] 참조 / 이상 2019-05-01
     \bwink\.co\.kr\b                # [[m:User:COIBot/Local/wink.co.kr|m:User:COIBot/Local/wink.co.kr]] 참조 / 2019-10-18
-
     \bxn--mk1bv0nuppgzbg5h\.com     # ChongDae 추가 판촉물닷컴
     \bitmex\.com\b          # --메이 2020-05-19 09:51 블록체인 스팸
-
+    \bfavvrs\.com\b              # 레비 # 2020-06-04 [[m:User:COIBot/XWiki/favvrs.com|m:User:COIBot/XWiki/favvrs.com]] 참조
+    \bphysique\.kr\b             # 레비 # 2020-06-06 [[m:User:COIBot/XWiki/physique.kr|m:User:COIBot/XWiki/physique.kr]] 참조
+    \mifezone\.com\b             #*Youngjin #  2020-07-20 [[m:User:COIBot/XWiki/mifezone.com|m:User:COIBot/XWiki/mifezone.com]]
+    \mifegyne-mania\.imweb\.me\b # *Youngjin #  2020-07-21 바로 윗건과 동일 스팸
      #

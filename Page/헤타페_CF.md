@@ -169,4 +169,4 @@
 
   - [헤타페 CF 공식 홈페이지](http://www.getafecf.com)
 
-[헤타페_CF](https://ko.wikipedia.org/wiki/분류:헤타페_CF "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:1983년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1983년_설립된_축구단 "wikilink") [분류:마드리드 지방의 축구단](https://ko.wikipedia.org/wiki/분류:마드리드_지방의_축구단 "wikilink")
+[헤타페_CF](https://ko.wikipedia.org/wiki/분류:헤타페_CF "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:1983년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1983년_설립된_축구단 "wikilink") [분류:마드리드주의 축구단](https://ko.wikipedia.org/wiki/분류:마드리드주의_축구단 "wikilink")

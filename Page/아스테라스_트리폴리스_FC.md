@@ -3,7 +3,7 @@
 
 **아스테라스 트리폴리스 FC**는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [그리스](../Page/그리스.md "wikilink")의 [펠로폰네소스 반도](https://ko.wikipedia.org/wiki/펠로폰네소스_반도 "wikilink") 중부에 위치한 [트리폴리에](../Page/트리폴리_\(그리스\).md "wikilink") 연고를 두고 있다. 아스테라스는 [그리스어](../Page/그리스어.md "wikilink")로 "별"을 뜻한다.
 
-아스테라스는 [1931년](../Page/1931년.md "wikilink")에 창단되었다. 2003년부터 2007년까지 다섯 시즌 동안 네 번의 승격을 하면서 2007-08시즌에 처음으로 [슈퍼리그 그리스에](https://ko.wikipedia.org/wiki/슈퍼리그_그리스 "wikilink") 참가하여 두 번째 시즌을 맞고 있다.
+아스테라스는 [1931년](../Page/1931년.md "wikilink")에 창단되었다. 2003년부터 2007년까지 다섯 시즌 동안 네 번의 승격을 하면서 2007-08시즌 처음으로 [수페르리가 엘라다에](../Page/수페르리가_엘라다.md "wikilink") 참가하였으며 2012-13 시즌부터는 [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 예선에 진출하기도 하였다.
 
 ## 역사
 
@@ -21,9 +21,9 @@
   -
 **프로 리그에서의 아스테라스 (2008-09시즌 포함)**
 
-  - [슈퍼리그 그리스에서](https://ko.wikipedia.org/wiki/슈퍼리그_그리스 "wikilink") **2** 시즌
+  - [슈퍼리그 그리스에서](https://ko.wikipedia.org/wiki/슈퍼리그_그리스 "wikilink") **14** 시즌
   - [그리스 2부 리그에서](https://ko.wikipedia.org/wiki/베타_에스니키 "wikilink") **3** 시즌
-  - [그리스 3부 리그에서](https://ko.wikipedia.org/wiki/감마_에스니키 "wikilink") **2** 시즌
+  - [그리스 3부 리그에서](../Page/감마_에스니키.md "wikilink") **1** 시즌
   - [그리스 4부 리그에서](https://ko.wikipedia.org/wiki/델타_에스니키 "wikilink") **5** 시즌
 
 ## 외부 링크

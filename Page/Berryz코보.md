@@ -720,7 +720,11 @@
   - [층쿠♂ 오피셜 웹사이트의 코멘트](https://web.archive.org/web/20070927201123/http://www.tsunku.net/berryz.htm)
 
   -
+
   -
+
+  -
+
 [Berryz코보](https://ko.wikipedia.org/wiki/분류:Berryz코보 "wikilink") [분류:헬로\! 프로젝트](https://ko.wikipedia.org/wiki/분류:헬로!_프로젝트 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:2004년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2004년_결성된_음악_그룹 "wikilink") [분류:2015년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2015년_해체된_음악_그룹 "wikilink") [분류:2000년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년대_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:7인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:7인조_음악_그룹 "wikilink") [분류:NHK 홍백가합전 출연자](https://ko.wikipedia.org/wiki/분류:NHK_홍백가합전_출연자 "wikilink")
 
 1.  [Berryz코보가「AnimeNEXT 2012 in New Jersey,USA」출연 결정\!\!](http://www.helloproject.com/event/1111131700_event_berryz.html)

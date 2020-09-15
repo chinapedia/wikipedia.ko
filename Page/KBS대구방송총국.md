@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS대구방송총국](https://ko.wikipedia.org/wiki/KBS대구방송총국).
 
 
-**KBS대구방송총국**(KBS大邱放送總局)은 [대구광역시](../Page/대구광역시.md "wikilink")·[경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 중서남부지역을 대상으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역방송총국이다. [KBS안동방송국](../Page/KBS안동방송국.md "wikilink")과 [KBS포항방송국](../Page/KBS포항방송국.md "wikilink")을 하부에 두고 있다.
+**KBS대구방송총국**(KBS大邱放送總局)은 [대구광역시](../Page/대구광역시.md "wikilink")·[경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") 중서남부지역을 대상으로 하는 [한국방송공사](../Page/한국방송공사.md "wikilink")의 지역방송총국이다. [안동방송국과](../Page/KBS안동방송국.md "wikilink") [포항방송국을](../Page/KBS포항방송국.md "wikilink") 하부에 두고 있다.
 
 ## 개요
 
@@ -173,16 +173,16 @@
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 대구·경북</a></p></td>
 <td><p>10분</p></td>
 <td><p>평일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박은정" title="wikilink">박은정</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/백명지" title="wikilink">백명지</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 대구·경북</a></p></td>
 <td><p>10분</p></td>
 <td><p>평일 오전 9시 45분 ~ 9시 55분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/백명지" title="wikilink">백명지</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/송현주" title="wikilink">송현주</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_대구·경북" title="wikilink">KBS 뉴스 7 대구·경북</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7_대구·경북.md" title="wikilink">KBS 뉴스 7 대구·경북</a></p></td>
 <td><p>40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김상배" title="wikilink">김상배</a>, 이윤정</p></td>
@@ -191,7 +191,7 @@
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 대구·경북</a></p></td>
 <td><p>5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이윤정" title="wikilink">이윤정</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/진유현" title="wikilink">진유현</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 대구·경북</a></p></td>
@@ -199,8 +199,8 @@
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진유현" title="wikilink">진유현</a>, 고선영 (평일)<br />
-무작위 (주말)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박준형" title="wikilink">박준형</a>, 고선영 (평일)<br />
+<a href="https://ko.wikipedia.org/wiki/이윤정" title="wikilink">이윤정</a> (주말)</p></td>
 </tr>
 </tbody>
 </table>
@@ -231,14 +231,10 @@
 (생생토크 자체방송)</p></td>
 </tr>
 <tr class="even">
-<td><p>19:40 (금)</p></td>
-<td><p>대구경북 시사진단</p></td>
-</tr>
-<tr class="odd">
 <td><p>19:40 (수)</p></td>
 <td><p>쉬어가도 괜찮아 마이크로 여행</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>20:00 (수)</p></td>
 <td><p>밭캐스트</p></td>
 </tr>
@@ -252,9 +248,9 @@
 
 | 프로그램명                                                      | 방송시간                | 편성시간                                                | 진행                                                  |
 | ---------------------------------------------------------- | ------------------- | --------------------------------------------------- | --------------------------------------------------- |
-| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                      | [백명지](https://ko.wikipedia.org/wiki/송현주 "wikilink") |
-| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [김영숙](https://ko.wikipedia.org/wiki/김영숙 "wikilink") |                                                     |
-| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [진유현](https://ko.wikipedia.org/wiki/김영숙 "wikilink") |                                                     |
+| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                      | [송현주](https://ko.wikipedia.org/wiki/송현주 "wikilink") |
+| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [진유현](https://ko.wikipedia.org/wiki/진유현 "wikilink") |                                                     |
+| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [박은정](https://ko.wikipedia.org/wiki/박은정 "wikilink") |                                                     |
 
   - 시사·교양
 
@@ -322,6 +318,7 @@
 
 ### 여성
 
+  - [안희재](https://ko.wikipedia.org/wiki/안희재 "wikilink")(1978\~1979, 전 KBS 서울본국)
   - [문경자](https://ko.wikipedia.org/wiki/문경자 "wikilink")(1986\~2005, 현 퇴사)
   - [한효연](https://ko.wikipedia.org/wiki/한효연 "wikilink")(2005\~2011, 현 퇴사)
   - [정세진](../Page/정세진.md "wikilink")(2017, 현 KBS 서울본국)
@@ -334,7 +331,6 @@
   - [이상연](https://ko.wikipedia.org/wiki/이상연 "wikilink")
   - [표나리](https://ko.wikipedia.org/wiki/표나리 "wikilink")
   - 백이선
-  - 이호준
 
 ## 현직 취재기자
 
@@ -342,6 +338,7 @@
   - [김명환](https://ko.wikipedia.org/wiki/김명환 "wikilink") 안동부장
   - [강전일](https://ko.wikipedia.org/wiki/강전일 "wikilink") 포항부장
   - [김영재](https://ko.wikipedia.org/wiki/김영재 "wikilink") 대구부장
+  - [박영하](../Page/박영하.md "wikilink") 대구팀장
   - [권기준](https://ko.wikipedia.org/wiki/권기준 "wikilink")
   - [김상배](https://ko.wikipedia.org/wiki/김상배 "wikilink")
   - [이하늬](../Page/이하늬.md "wikilink")
@@ -358,7 +355,7 @@
   - [이지은](https://ko.wikipedia.org/wiki/이지은 "wikilink")
   - [김지홍](https://ko.wikipedia.org/wiki/김지홍 "wikilink")
   - [윤희정](https://ko.wikipedia.org/wiki/윤희정 "wikilink")
-  - [최보규](https://ko.wikipedia.org/wiki/최보규 "wikilink")
+  - \[\[최보규\]
 
 ## 수어통역사
 
@@ -401,6 +398,6 @@
 
 ## 외부 링크
 
-  - [KBS대구방송총국 공식 홈페이지](http://daegu.kbs.co.kr/)
+  - [KBS대구방송총국 공식 홈페이지](https://web.archive.org/web/20200507014126/http://daegu.kbs.co.kr/)
 
 [분류:1939년 설립](https://ko.wikipedia.org/wiki/분류:1939년_설립 "wikilink") [분류:1939년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1939년_설립된_라디오_방송국 "wikilink") [대구](https://ko.wikipedia.org/wiki/분류:한국방송공사의_지역방송국 "wikilink") [분류:대한민국의 대구광역시 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_대구광역시_지상파_방송국 "wikilink")

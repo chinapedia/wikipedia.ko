@@ -11,7 +11,7 @@
 
 ### 레알 마드리드 C
 
-[스페인 왕립 축구 협회로부터](https://ko.wikipedia.org/wiki/스페인_왕립_축구_협회 "wikilink") 리저브 자격을 얻은 후, 1990년에 아마추어 팀에서 레알 마드리드 C로 이름을 바꾸었다. 1990-91 시즌엔 소속 그룹에서 우승하나 2부 리그에서 준우승을 거두었다. 2년 후, [세군다 디비시온 B](https://ko.wikipedia.org/wiki/세군다_디비시온_B "wikilink") 승격에 성공하였다. 1997년에는 [레알 마드리드 B가](../Page/레알_마드리드_카스티야.md "wikilink") [세군다 디비시온에서](../Page/세군다_디비시온.md "wikilink") [디비시온 B로](https://ko.wikipedia.org/wiki/세군다_디비시온_B "wikilink") 강등됨에 따라 테르세라 디비시온으로 복귀하기도 했다. 2005-06 시즌에는 원정 다득점에 따라 한 골 차이로 CD 기예르모에게 승격 기회를 내줬다. 이후 2014-15년 시즌 초, 구단주인 [플로렌티노 페레스의](../Page/플로렌티노_페레스.md "wikilink") 유스팀 개편 정책에 따라 2014-15 시즌을 마지막으로 해체되었다.\[2\]
+[스페인 왕립 축구 협회로부터](https://ko.wikipedia.org/wiki/스페인_왕립_축구_협회 "wikilink") 리저브 자격을 얻은 후, 1990년에 아마추어 팀에서 레알 마드리드 C로 이름을 바꾸었다. 1990-91 시즌엔 소속 그룹에서 우승하나 2부 리그에서 준우승을 거두었다. 2년 후, [세군다 디비시온 B](../Page/세군다_디비시온_B.md "wikilink") 승격에 성공하였다. 1997년에는 [레알 마드리드 B가](../Page/레알_마드리드_카스티야.md "wikilink") [세군다 디비시온에서](../Page/세군다_디비시온.md "wikilink") [디비시온 B로](../Page/세군다_디비시온_B.md "wikilink") 강등됨에 따라 테르세라 디비시온으로 복귀하기도 했다. 2005-06 시즌에는 원정 다득점에 따라 한 골 차이로 CD 기예르모에게 승격 기회를 내줬다. 이후 2014-15년 시즌 초, 구단주인 [플로렌티노 페레스의](../Page/플로렌티노_페레스.md "wikilink") 유스팀 개편 정책에 따라 2014-15 시즌을 마지막으로 해체되었다.\[2\]
 
 ## 수상
 
@@ -201,22 +201,22 @@
 </tr>
 <tr class="even">
 <td><p>1993–94</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>7위</p></td>
 </tr>
 <tr class="odd">
 <td><p>1994–95</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>13위</p></td>
 </tr>
 <tr class="even">
 <td><p>1995–96</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>9위</p></td>
 </tr>
 <tr class="odd">
 <td><p>1996–97</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>13위</p></td>
 </tr>
 <tr class="even">
@@ -328,7 +328,7 @@
 
 -----
 
-  - *[세군다 디비시온 B](https://ko.wikipedia.org/wiki/세군다_디비시온_B "wikilink")* **6** 시즌 참가
+  - *[세군다 디비시온 B](../Page/세군다_디비시온_B.md "wikilink")* **6** 시즌 참가
   - *[테르세라 디비시온](https://ko.wikipedia.org/wiki/테르세라_디비시온 "wikilink")* **19**시즌 참가
 
 ## 선수

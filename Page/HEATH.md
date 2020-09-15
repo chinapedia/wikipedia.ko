@@ -70,6 +70,6 @@
 
 ## 외부 링크
 
-  - [히스](http://www.heath.co.jp) - 공식 웹사이트
+  - [히스](https://web.archive.org/web/20031007233447/http://www.heath.co.jp/) - 공식 웹사이트
 
 [분류:1968년 태어남](https://ko.wikipedia.org/wiki/분류:1968년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 베이스 기타 연주자](https://ko.wikipedia.org/wiki/분류:일본의_베이스_기타_연주자 "wikilink") [분류:아마가사키시 출신](https://ko.wikipedia.org/wiki/분류:아마가사키시_출신 "wikilink") [분류:X JAPAN의 일원](https://ko.wikipedia.org/wiki/분류:X_JAPAN의_일원 "wikilink") [분류:일본의 남자 싱어송라이터](https://ko.wikipedia.org/wiki/분류:일본의_남자_싱어송라이터 "wikilink")

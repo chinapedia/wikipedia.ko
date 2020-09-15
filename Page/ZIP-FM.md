@@ -48,6 +48,5 @@
 
 ## 외부 링크
 
-[공식 사이트](http://www.zip-fm.co.jp/)
-
+  -
 [분류:1992년 설립](https://ko.wikipedia.org/wiki/분류:1992년_설립 "wikilink") [분류:JAPAN FM LEAGUE](https://ko.wikipedia.org/wiki/분류:JAPAN_FM_LEAGUE "wikilink") [분류:일본의 FM 라디오 방송국](https://ko.wikipedia.org/wiki/분류:일본의_FM_라디오_방송국 "wikilink")

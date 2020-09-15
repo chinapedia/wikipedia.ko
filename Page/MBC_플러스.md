@@ -13,36 +13,79 @@
 
 ## 방송 채널
 
-  - [MBC 드라마넷](../Page/MBC_드라마넷.md "wikilink"): 드라마 프로그램을 주로 편성하는 드라마 전문 채널이다.
-  - [MBC 에브리원](../Page/MBC_에브리원.md "wikilink"): 예능 프로그램을 주로 편성하는 예능 전문 채널이다.
-  - [MBC M](https://ko.wikipedia.org/wiki/MBC_M "wikilink"): 디지털 엔터테인먼트 프로그램을 주로 편성하는 컨텐츠 전문 채널이다.
-  - [MBC 스포츠+](../Page/MBC_스포츠플러스.md "wikilink"): 스포츠 프로그램을 주로 편성하는 스포츠 전문 채널이다.
-  - [MBC ON](../Page/MBC_ON.md "wikilink"): 드라마 및 오락 프로그램을 주로 편성하는 채널이다.
-  - MBC 에브리원 글로벌 채널: 미국 전역으로 방송되는 채널 (하와이, 알래스카 포함)
-  - all the K-POP: 전세계 온라인 아이돌 콘텐츠 방송
+  -
+  -
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>채널</strong></p></td>
+<td><p><strong>슬로건</strong></p></td>
+<td><p><strong>편성 및 송출</strong></p></td>
+<td><p><strong>전 채널 (구)</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/MBC_드라마넷.md" title="wikilink">MBC 드라마넷</a></p></td>
+<td><p>드라마 전문 채널이다</p></td>
+<td><p>드라마 프로그램을 주로 편성하는</p></td>
+<td><p><a href="../Page/MBC_드라마넷.md" title="wikilink">드라마넷</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/MBC_에브리원.md" title="wikilink">MBC 에브리원</a></p></td>
+<td><p>예능 전문 채널이다</p></td>
+<td><p>예능 프로그램을 주로 편성하는</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/MBC_무비스" title="wikilink">MBC 무비스</a> MBC 에브리원의 전신이며 영화 전문 채널 방송했다</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/MBC_M" title="wikilink">MBC M</a></p></td>
+<td><p>컨텐츠 전문 채널이다</p></td>
+<td><p>디지털 엔터테인먼트 프로그램을 주로 편성하는</p></td>
+<td><p><a href="../Page/MBC_뮤직.md" title="wikilink">MBC 뮤직</a> MBC M의 전신이며 음악 프로그램을 전문으로 방송했다 <a href="../Page/MBC_게임.md" title="wikilink">MBC 게임</a> MBC M의 전신이며 주로 게임을 전문으로 방송했다</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/MBC_스포츠플러스.md" title="wikilink">MBC 스포츠+</a></p></td>
+<td><p>스포츠 전문 채널이다</p></td>
+<td><p>스포츠 프로그램을 주로 편성하는</p></td>
+<td><p>MBC ESPN</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/MBC_ON.md" title="wikilink">MBC ON</a></p></td>
+<td><p>드라마 및 오락 전문 채널이다</p></td>
+<td><p>드라마 및 오락 프로그램을 주로 편성하는</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/MBC_스포츠플러스_2" title="wikilink">MBC 스포츠+ 2</a> : MBC ON의 전신이며 스포츠 프로그램을 전문으로 방송했다 <a href="../Page/MBC_라이프.md" title="wikilink">MBC 라이프</a> : MBC ON의 전신이며 교양과 정보 프로그램 등을 전문으로 방송했다</p>
+<p><a href="../Page/MBC_퀸.md" title="wikilink">MBC 퀸</a> : MBC ON의 전신이며 여성 프로그램을 전문으로 방송했다</p></td>
+</tr>
+<tr class="odd">
+<td><p>MBC 에브리원 글로벌 채널</p></td>
+<td><p>미국 전역으로 방송되는 채널</p></td>
+<td><p>하와이 알래스카 포함</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>all the K-POP</p></td>
+<td><p>전세계 전역으로 채널</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 보조 채널
 
-  - [MBC NET](../Page/MBC_NET.md "wikilink"): 문화방송계열 방송국 프로그램을 주로 편성하는 지역 전문 채널이며, 운영은 지역MBC슈퍼스테이션에서 담당하고 있다.
-      - MBC NET은 엠비씨플러스가 아닌 지역MBC슈퍼스테이션에서 운영하는 채널임.
+|                                          |            |              |
+| ---------------------------------------- | ---------- | ------------ |
+| **채널**                                   | **슬로건**    | **채널 운영**    |
+| [MBC NET](../Page/MBC_NET.md "wikilink") | 지역 전문 채널이다 | 지역 MBC슈퍼스테이션 |
 
-### 이전 채널
-
-  - [MBC 라이프](../Page/MBC_라이프.md "wikilink")(구): MBC ON의 전신이며 교양과 정보 프로그램 등을 전문으로 방송했다.
-  - [MBC 퀸](../Page/MBC_퀸.md "wikilink")(구): MBC ON의 전신이며 여성 프로그램을 전문으로 방송했다.
-  - [MBC 무비스](https://ko.wikipedia.org/wiki/MBC_무비스 "wikilink")(구): MBC 에브리원의 전신이며 영화를 전문으로 방송했다.
-  - [MBC 게임](../Page/MBC_게임.md "wikilink")(구): MBC M의 전신이며 주로 게임을 전문으로 방송했다.
-  - [MBC 스포츠+ 2](https://ko.wikipedia.org/wiki/MBC_스포츠플러스_2 "wikilink")(구): MBC ON의 전신이며 스포츠 프로그램을 전문으로 방송했다.
-  - [MBC 뮤직](../Page/MBC_뮤직.md "wikilink")(구): MBC M의 전신이며 음악 프로그램을 전문으로 방송했다.
-
-## 자체 제작 프로그램
+  -
+## 자체 제작
 
   - [나의 유감스러운 남자친구](../Page/나의_유감스러운_남자친구.md "wikilink")
   - [태양의 도시](../Page/태양의_도시.md "wikilink")
   - [스웨덴 세탁소](../Page/스웨덴_세탁소_\(드라마\).md "wikilink")
   - [하자전담반 제로](../Page/하자전담반_제로.md "wikilink")
   - [식신원정대](../Page/식신원정대.md "wikilink")
-  - [MT왕](https://ko.wikipedia.org/wiki/MT왕 "wikilink")
+  - [MT왕](../Page/MT왕.md "wikilink")
   - [MBOX](https://ko.wikipedia.org/wiki/MBOX "wikilink")
   - [삼색녀 토크쇼](https://ko.wikipedia.org/wiki/삼색녀_토크쇼 "wikilink")
   - [조선 과학수사대 별순검](../Page/조선_과학수사대_별순검.md "wikilink")
@@ -59,7 +102,7 @@
 
   - [MBC 플러스 홈페이지](http://www.mbcplus.com/)
 
-[분류:1993년 설립](https://ko.wikipedia.org/wiki/분류:1993년_설립 "wikilink") [분류:대한민국의 방송채널사용사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_방송채널사용사업자 "wikilink") [분류:문화방송의 자회사](https://ko.wikipedia.org/wiki/분류:문화방송의_자회사 "wikilink")
+[분류:1993년 설립](https://ko.wikipedia.org/wiki/분류:1993년_설립 "wikilink") [분류:대한민국의 방송채널사용사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_방송채널사용사업자 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:MBC_플러스 "wikilink")
 
 1.
 2.

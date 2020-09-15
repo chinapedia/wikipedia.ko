@@ -15,14 +15,14 @@
       - 〈Dearly Beloved〉
       - 〈Tales of Another Broken Home〉
 3.  〈Holiday〉
-4.  〈[Boulevard of Broken Dreams](https://ko.wikipedia.org/wiki/Boulevard_of_Broken_Dreams "wikilink")〉
+4.  〈[Boulevard of Broken Dreams](../Page/Boulevard_of_Broken_Dreams.md "wikilink")〉
 5.  〈Are We the Waiting〉
 6.  〈St. Jimmy〉
 7.  〈Give Me Novacaine〉
 8.  〈She's a Rebel〉
 9.  〈Extraordinary Girl〉
 10. 〈Letterbomb〉
-11. 〈[Wake Me Up When September Ends](https://ko.wikipedia.org/wiki/Wake_Me_Up_When_September_Ends "wikilink")〉
+11. 〈[Wake Me Up When September Ends](../Page/Wake_Me_Up_When_September_Ends.md "wikilink")〉
 12. 〈Homecoming〉
       - 〈The Death of St. Jimmy〉
       - 〈East 12th St.〉
@@ -34,9 +34,9 @@
 ## 싱글
 
   - 〈[American Idiot](https://ko.wikipedia.org/wiki/American_Idiot_\(노래\) "wikilink")〉 ([2004년](../Page/2004년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink"))
-  - 〈[Boulevard of Broken Dreams](https://ko.wikipedia.org/wiki/Boulevard_of_Broken_Dreams "wikilink")〉 ([2004년](../Page/2004년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink"))
+  - 〈[Boulevard of Broken Dreams](../Page/Boulevard_of_Broken_Dreams.md "wikilink")〉 ([2004년](../Page/2004년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink"))
   - 〈[Holiday](https://ko.wikipedia.org/wiki/Holiday "wikilink")〉 ([2005년](../Page/2005년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink"))
-  - 〈[Wake Me Up When September Ends](https://ko.wikipedia.org/wiki/Wake_Me_Up_When_September_Ends "wikilink")〉 ([2005년](../Page/2005년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink"))
+  - 〈[Wake Me Up When September Ends](../Page/Wake_Me_Up_When_September_Ends.md "wikilink")〉 ([2005년](../Page/2005년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink"))
   - 〈[Jesus of Suburbia](https://ko.wikipedia.org/wiki/Jesus_of_Suburbia "wikilink")〉 ([2005년](../Page/2005년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink"))
 
 ## 외부 링크

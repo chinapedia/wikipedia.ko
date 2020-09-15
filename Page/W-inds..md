@@ -362,7 +362,7 @@
 </tr>
 <tr class="odd">
 <td><p>41th</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Get_Down" title="wikilink">Get Down</a></p></td>
+<td><p><a href="../Page/Get_Down.md" title="wikilink">Get Down</a></p></td>
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/7월_31일.md" title="wikilink">7월 31일</a></p></td>
 <td><p>16위</p></td>
 <td><p>6,092</p></td>
@@ -543,7 +543,7 @@
 </tr>
 <tr class="odd">
 <td><p>13th</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/100_(w-inds.의_음반)" title="wikilink">100</a></strong></p></td>
+<td><p><strong><a href="../Page/100_(w-inds.의_음반).md" title="wikilink">100</a></strong></p></td>
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/7월_4일.md" title="wikilink">7월 4일</a></p></td>
 <td><p>11위</p></td>
 <td><p>6,529</p></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A\* 알고리즘](https://ko.wikipedia.org/wiki/A\*_알고리즘).
 
 
-[정보과학](../Page/정보과학.md "wikilink") 분야에 있어서, **A\* 알고리즘**()은 주어진 출발 꼭짓점에서부터 목표 꼭짓점까지 가는 최단 [경로를](../Page/경로_\(그래프_이론\).md "wikilink") 찾아내는(다시 말해 주어진 목표 꼭짓점까지 가는 최단 경로임을 판단할 수 있는 테스트를 통과하는) [그래프 탐색 알고리즘](https://ko.wikipedia.org/wiki/그래프_탐색_알고리즘 "wikilink") 중 하나이다. 이 알고리짐은 [다익스트라 알고리즘과](https://ko.wikipedia.org/wiki/다익스트라_알고리즘 "wikilink") 유사하나 차이점은 각 꼭짓점 \(x\)에 대해 그 꼭짓점을 통과하는 최상의 경로를 추정하는 순위값인 "휴리스틱 추정값 " \(h(x)\) 을 매기는 방법을 이용한다는 것이다. 이 알고리즘은 이 휴리스틱 추정값의 순서로 꼭짓점을 방문한다. 그러므로 A\* 알고리즘을 [너비 우선 탐색의](../Page/너비_우선_탐색.md "wikilink") 한 예로 분류할 수 있다.
+[정보과학](../Page/정보과학.md "wikilink") 분야에 있어서, **A\* 알고리즘**()은 주어진 출발 꼭짓점에서부터 목표 꼭짓점까지 가는 최단 [경로를](../Page/경로_\(그래프_이론\).md "wikilink") 찾아내는(다시 말해 주어진 목표 꼭짓점까지 가는 최단 경로임을 판단할 수 있는 테스트를 통과하는) [그래프 탐색 알고리즘](https://ko.wikipedia.org/wiki/그래프_탐색_알고리즘 "wikilink") 중 하나이다. 이 알고리즘은 [다익스트라 알고리즘과](https://ko.wikipedia.org/wiki/다익스트라_알고리즘 "wikilink") 유사하나 차이점은 각 꼭짓점 \(x\)에 대해 그 꼭짓점을 통과하는 최상의 경로를 추정하는 순위값인 "휴리스틱 추정값 " \(h(x)\) 을 매기는 방법을 이용한다는 것이다. 이 알고리즘은 이 휴리스틱 추정값의 순서로 꼭짓점을 방문한다. 그러므로 A\* 알고리즘을 [너비 우선 탐색의](../Page/너비_우선_탐색.md "wikilink") 한 예로 분류할 수 있다.
 
 이 알고리즘은 1968년 [피터 하트](https://ko.wikipedia.org/wiki/피터_하트_\(컴퓨터_과학자\) "wikilink"), [닐스 닐슨](https://ko.wikipedia.org/wiki/닐스_닐슨 "wikilink"), [버트램 라팰이](https://ko.wikipedia.org/wiki/버트램_라팰 "wikilink") 처음 기술하였다. 그 3명의 논문에서, 이 알고리즘은 A 알고리즘()이라고 불렸다. 적절한 [휴리스틱](https://ko.wikipedia.org/wiki/휴리스틱 "wikilink")을 가지고 이 알고리즘을 사용하면 최적(optimal)이 된다. 그러므로 A\* 알고리즘이라고 불린다.
 

@@ -34,6 +34,6 @@
 
 <references />
 
-[분류:마이크로프로세서](https://ko.wikipedia.org/wiki/분류:마이크로프로세서 "wikilink") [분류:64비트 컴퓨터](https://ko.wikipedia.org/wiki/분류:64비트_컴퓨터 "wikilink")
+[분류:마이크로프로세서](https://ko.wikipedia.org/wiki/분류:마이크로프로세서 "wikilink") [분류:64비트 컴퓨터](https://ko.wikipedia.org/wiki/분류:64비트_컴퓨터 "wikilink") [분류:명령어 집합 구조](https://ko.wikipedia.org/wiki/분류:명령어_집합_구조 "wikilink")
 
 1.  캐시 메모리 환경에서, 1 KB = 1024 [바이트](../Page/바이트.md "wikilink"); 1 MB = 1024 KB

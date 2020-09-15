@@ -2206,7 +2206,7 @@ To Tomorrow／환타지 스컬／The Curtain Rises</p></td>
 
 ## 수상
 
-  - 베스트히트가요제2007 신인아티스트상 (2007년)
+  - 베스트 히트 가요제 2007 신인 아티스트상 (2007년)
   - 제40회 [일본유선대상](https://ko.wikipedia.org/wiki/일본유선대상 "wikilink") 유선음악상 「[めぐる恋の季節](../Page/돌고_도는_사랑의_계절.md "wikilink")」 (2007년)
   - 제49회 [일본 레코드 대상](../Page/일본_레코드_대상.md "wikilink") 최우수신인상 「[都会っ子 純情](../Page/도시_아이의_순정.md "wikilink")」 (2007년)
   - 제41회 일본작시대상 입상 「江戸の手毬唄II」 (2008년)
@@ -2231,9 +2231,9 @@ To Tomorrow／환타지 스컬／The Curtain Rises</p></td>
 
   - [℃-ute (큐트) 공식 블로그 (Ameblo)](http://ameblo.jp/c-ute-official)
 
-  - [℃-ute (큐트) 스페셜 대백과 사이트](https://web.archive.org/web/20150206083920/http://www.up-front-works.jp/cutehistory/)
+  - [℃-ute (큐트) 스페셜 대백과 사이트](http://www.up-front-works.jp/cutehistory/)
 
-  - [UP-FRONT WORKS 디스코그래피](https://web.archive.org/web/20190420031341/http://www.up-front-works.jp/release/search/?a=c-ute)
+  - [UP-FRONT WORKS 디스코그래피](http://www.up-front-works.jp/release/search/?a=c-ute)
 
   - [층쿠♂ 오피셜 웹사이트의 코멘트](https://web.archive.org/web/20080107073844/http://www.tsunku.net/cute.htm)
 

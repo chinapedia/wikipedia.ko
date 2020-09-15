@@ -60,6 +60,6 @@ SAS는 [해군 특전대](../Page/영국_해군_특전대.md "wikilink")(), [특
 
   - [Video footage of the SAS in action at the Iranian Embassy Siege](http://news.bbc.co.uk/hi/english/static/in_depth/uk/2000/iranian_embassy_siege/intro.stm)
 
-[분류:1941년 설립](https://ko.wikipedia.org/wiki/분류:1941년_설립 "wikilink") [분류:영국 육군의 연대](https://ko.wikipedia.org/wiki/분류:영국_육군의_연대 "wikilink") [분류:영국의 특수부대](https://ko.wikipedia.org/wiki/분류:영국의_특수부대 "wikilink") [분류:대테러 부대](https://ko.wikipedia.org/wiki/분류:대테러_부대 "wikilink") [분류:제2차 세계 대전의 영국군 부대](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_영국군_부대 "wikilink") [분류:걸프 전쟁에 참전한 영국의 부대 및 조직‎](https://ko.wikipedia.org/wiki/분류:걸프_전쟁에_참전한_영국의_부대_및_조직‎ "wikilink")
+[분류:1941년 설립](https://ko.wikipedia.org/wiki/분류:1941년_설립 "wikilink") [분류:영국 육군의 연대](https://ko.wikipedia.org/wiki/분류:영국_육군의_연대 "wikilink") [분류:영국의 특수부대](https://ko.wikipedia.org/wiki/분류:영국의_특수부대 "wikilink") [분류:대테러 부대](https://ko.wikipedia.org/wiki/분류:대테러_부대 "wikilink") [분류:제2차 세계 대전의 영국군 부대](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_영국군_부대 "wikilink") [분류:걸프 전쟁에 참전한 영국의 부대 및 조직](https://ko.wikipedia.org/wiki/분류:걸프_전쟁에_참전한_영국의_부대_및_조직 "wikilink")
 
 1.  [구글 책 정보](http://books.google.ca/books?vid=ISBN0879389400&id=Z9IOUDJaa_wC&pg=PA7&lpg=PA5&dq=Roles+of+the+Special+Air+Service&sig=ICXqybHqaym6lGAy0ty2Y_dCSHg)

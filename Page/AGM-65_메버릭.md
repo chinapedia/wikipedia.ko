@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AGM-65 메버릭](https://ko.wikipedia.org/wiki/AGM-65_메버릭).
 
 
-**AGM-65 메버릭**은 근접공중지원(CAS), prohibition, forceful prevention을 위해 설계된 미국 [레이시온](../Page/레이시온.md "wikilink")의 공대지 미사일이다. 전차, 장갑차, 방공망, 선박, 육상수송차량, 연료기지 등 넓은 범위의 전술적 목표물들에 대해 유효하다.
+**AGM-65 메버릭**()은 근접공중지원(CAS), prohibition, forceful prevention을 위해 설계된 미국 [레이시온](../Page/레이시온.md "wikilink")의 공대지 미사일이다. 전차, 장갑차, 방공망, 선박, 육상수송차량, 연료기지 등 넓은 범위의 전술적 목표물들에 대해 유효하다.
 
 무게 300 kg, 사거리 22 km인 [레이시온](../Page/레이시온.md "wikilink") 메버릭은 무게 50 kg, 사거리 8 km인 [록히드 마틴](../Page/록히드_마틴.md "wikilink") [헬파이어 미사일과](https://ko.wikipedia.org/wiki/헬파이어_미사일 "wikilink") 동일한 1972년에 개발되었다.
 
@@ -53,7 +53,7 @@ LAU-117 메버릭은 다음의 비행기에서 사용할 수 있다:
   - **단가**: 최대 US$160,000
   - **실전배치일**: [1972년](../Page/1972년.md "wikilink") [8월](../Page/8월.md "wikilink")
 
-## 더 보기
+## 같이 보기
 
   - [미사일 목록](https://ko.wikipedia.org/wiki/미사일_목록 "wikilink")
   - [JAGM](../Page/JAGM.md "wikilink")

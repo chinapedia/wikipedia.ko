@@ -10,17 +10,17 @@
 
 ## 연혁
 
-  - [1995년](../Page/1995년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink") 표준 텔레비전 방송 예비 면허 교부(호출 부호 JOIY-TV).
-  - [1995년](../Page/1995년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") 주식회사 이와테 아사히 TV 설립.
-  - [1996년](../Page/1996년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") 서비스 방송을 개시.
-  - [1996년](../Page/1996년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 이와테현 4번째 민영 텔레비전 방송국으로서 방송 개시.
-  - [2005년](../Page/2005년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") 지상파 디지털 텔레비전 방송의 면허를 신청.
-  - [2005년](../Page/2005년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink")　지상파 디지털 텔레비전 방송 예비 면허 교부(호출 부호 JOIY-DTV).
-  - [2006년](../Page/2006년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink")　지상파 디지털 텔레비전 방송의 시험 방송을 개시.
-  - [2006년](../Page/2006년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink")　지상파 디지털 텔레비전 [데이터 방송시험](https://ko.wikipedia.org/wiki/데이터_방송 "wikilink") 개시.
-  - [2006년](../Page/2006년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink")　지상파 디지털 텔레비전 방송의 본면허 교부.
-  - [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") 지상파 디지털 텔레비전 방송 개시. 동시에 개국 10주년을 맞이한다.
-  - [2012년](../Page/2012년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") 지상파 아날로그 텔레비전 방송 종료.
+  - [1995년](../Page/1995년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink"): 표준 텔레비전 방송 예비 면허 교부(호출 부호 JOIY-TV).
+  - [1995년](../Page/1995년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink"): 주식회사 이와테 아사히 TV 설립.
+  - [1996년](../Page/1996년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink"): 서비스 방송을 개시.
+  - [1996년](../Page/1996년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink"): 이와테현 4번째 민영 텔레비전 방송국으로서 방송 개시.
+  - [2005년](../Page/2005년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink"): 지상파 디지털 텔레비전 방송의 면허를 신청.
+  - [2005년](../Page/2005년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink"): 지상파 디지털 텔레비전 방송 예비 면허 교부(호출 부호 JOIY-DTV).
+  - [2006년](../Page/2006년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink"): 지상파 디지털 텔레비전 방송의 시험 방송을 개시.
+  - [2006년](../Page/2006년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink"): 지상파 디지털 텔레비전 [데이터 방송시험](https://ko.wikipedia.org/wiki/데이터_방송 "wikilink") 개시.
+  - [2006년](../Page/2006년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink"): 지상파 디지털 텔레비전 방송의 본면허 교부.
+  - [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink"): 지상파 디지털 텔레비전 방송 개시. 동시에 개국 10주년을 맞이한다.
+  - [2012년](../Page/2012년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink"): 지상파 아날로그 텔레비전 방송 종료.
 
 ## IAT 개국 전후의 움직임
 

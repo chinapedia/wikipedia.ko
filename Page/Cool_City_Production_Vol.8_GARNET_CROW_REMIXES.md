@@ -12,7 +12,7 @@
 3.  Endless Desire / CHINITA Mix
 4.  [유메미타아토데](../Page/유메미타아토데.md "wikilink") / Migrand Jazz
 5.  [flying](https://ko.wikipedia.org/wiki/flying "wikilink") / Xtra Jam RMX
-6.  [나케나이요루모 나카나이아사모‎](https://ko.wikipedia.org/wiki/나케나이요루모_나카나이아사모‎ "wikilink") / night clubbers mix
+6.  [나케나이요루모 나카나이아사모](https://ko.wikipedia.org/wiki/나케나이요루모_나카나이아사모 "wikilink") / night clubbers mix
 7.  [스파이럴](https://ko.wikipedia.org/wiki/스파이럴 "wikilink") / natural flavor mix
 8.  wish★ / Re-wish
 9.  [보쿠라다케노미라이](https://ko.wikipedia.org/wiki/보쿠라다케노미라이 "wikilink") / Funktasia Mix

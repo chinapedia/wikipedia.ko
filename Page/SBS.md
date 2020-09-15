@@ -12,7 +12,7 @@
           - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink") - SBS에서 운영하는 종합 라디오 방송 채널
           - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink") - SBS에서 운영하는 음악 전문 라디오 방송 채널
           - [SBS U](../Page/SBS_U.md "wikilink") - SBS에서 운영 및 송출하는 수도권 지역의 지상파DMB 방송국
-  - [SBS (오스트레일리아의 방송사)](https://ko.wikipedia.org/wiki/SBS_\(오스트레일리아의_방송사\) "wikilink") (Special Broadcasting Service)
+  - [스페셜 브로드캐스팅 서비스](../Page/스페셜_브로드캐스팅_서비스.md "wikilink") (Special Broadcasting Service)
   - SBS 방송 그룹 - [네덜란드](../Page/네덜란드.md "wikilink")를 중심으로 [유럽](../Page/유럽.md "wikilink") 전역에 중계
   - [시즈오카 방송](../Page/시즈오카_방송.md "wikilink") (Shizuoka Broadcasting System) - [일본](../Page/일본.md "wikilink") [시즈오카현](../Page/시즈오카현.md "wikilink")을 방송권역으로 하는 지상파 [텔레비전](../Page/텔레비전.md "wikilink") 방송사
   - [스페인 방송 시스템](https://ko.wikipedia.org/wiki/스페인_방송_시스템 "wikilink") - [미국](../Page/미국.md "wikilink") 라디오/텔레비전 중계
@@ -44,4 +44,4 @@
 ## 기타
 
   - [위성 사업 시스템](https://ko.wikipedia.org/wiki/위성_사업_시스템 "wikilink")(Satellite Business Systems)
-  - [SBS (영국 특수부대)](https://ko.wikipedia.org/wiki/SBS_\(영국_특수부대\) "wikilink") - [영국 해군](https://ko.wikipedia.org/wiki/영국_해군 "wikilink") 특수전 부대
+  - [영국 해군 특전대](../Page/영국_해군_특전대.md "wikilink")(Special Boat Service) - [영국 해군](https://ko.wikipedia.org/wiki/영국_해군 "wikilink") 특수전 부대

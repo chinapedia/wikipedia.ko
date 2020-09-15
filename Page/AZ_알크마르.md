@@ -9,47 +9,35 @@ AZ는 [1977년](../Page/1977년.md "wikilink")부터 [2007년](../Page/2007년.m
 
 ## 역대 성적
 
+### 국내 대회
+
   - **[에레디비시](../Page/에레디비시.md "wikilink") : 2**
-
-<!-- end list -->
-
-  -
-
-      -
-        1981, 2009
+      - 1981, 2009
 
 <!-- end list -->
 
   - **[에이르스터 디비시](../Page/에이르스터_디비시.md "wikilink") : 2**
+      - 1996, 1998
 
 <!-- end list -->
 
-  -
-
-      -
-        1996, 1998
+  - **트베이더 디비시 : 1**
+      - 1956
 
 <!-- end list -->
 
-  - **[KVNB컵](https://ko.wikipedia.org/wiki/KVNB컵 "wikilink") : 3**
+  - **[KNVB컵](../Page/KNVB컵.md "wikilink") : 4**
+      - 1978, 1981, 1982, 2013
 
 <!-- end list -->
 
-  -
+  - **[요한 크라위프 스할](https://ko.wikipedia.org/wiki/요한_크라위프_스할 "wikilink") : 1**
+      - 2009
 
-      -
-        1978, 1981, 1982
-
-<!-- end list -->
+### 유럽 대항전
 
   - **[UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink") 준우승 : 1**
-
-<!-- end list -->
-
-  -
-
-      -
-        1981
+      - 1981
 
 ## 외부 링크
 

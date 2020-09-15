@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MBC 뉴스투데이](https://ko.wikipedia.org/wiki/MBC_뉴스투데이).
 
 
-《**MBC 뉴스투데이**》(MBC NEWS TODAY)는 [MBC에서](../Page/문화방송.md "wikilink") 평일 아침 6시, 토요일 아침 7시에 방송되는 [문화방송의 아침뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
+《**MBC 뉴스투데이**》(MBC NEWS TODAY)는 [MBC에서](../Page/문화방송.md "wikilink") 평일 아침 6시, 토요일 아침 7시에 방송하는 [문화방송의 아침뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
 
 ## 기획 의도 / 개요
 
-[문화방송](../Page/문화방송.md "wikilink")의 대표적인 [아침뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
+[문화방송](../Page/문화방송.md "wikilink")의 [아침뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -109,7 +109,7 @@
 <tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/8월_20일.md" title="wikilink">8월 20일</a> ~ <a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a></p></td>
 <td><p>평일 아침 6시 ~ 7시 40분 (100분)<br />
-토요일 아침 6시 ~ 7시 30분 (1시간 40분)</p></td>
+토요일 아침 6시 ~ 7시 30분 (1시간 30분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -131,7 +131,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월_28일.md" title="wikilink">11월 28일</a> ~ <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/7월_17일.md" title="wikilink">7월 17일</a></p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월_23일.md" title="wikilink">11월 23일</a> ~ <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/7월_17일.md" title="wikilink">7월 17일</a></p></td>
 <td><p>평일 아침 6시 ~ 7시 50분 (1시간 50분)<br />
 토요일 아침 6시 ~ 7시 25분 (1시간 25분)</p></td>
 <td></td>
@@ -192,69 +192,77 @@
 
 ## 구성
 
+### 평일
+
 ### MBC 뉴스투데이 1부 오프닝
 
-전종환 앵커ㅣ김수지 앵커
-강재형 앵커
+양윤경 앵커ㅣ김상호 앵커
 
-### 1부 오늘의 주요뉴스
+### 오늘의 주요뉴스
 
-전종환 앵커ㅣ김수지 앵커
-강재형 앵커
-
-### 한 주 미리보기
-
-김수지 앵커
+양윤경 앵커ㅣ김상호 앵커
 
 ### 날씨
 
 김가영 기상캐스터
 
-### MBC 뉴스투데이 1부 클로징 (토요일)
+### MBC 뉴스투데이 1부 클로징
 
-강재형 앵커
+### MBC 뉴스투데이 2부 오프닝
 
-### MBC 뉴스투데이 2부 오프닝 (평일)
+양윤경 앵커ㅣ김상호 앵커
 
-전종환 앵커ㅣ김수지 앵커
+### 오늘의 주요뉴스
 
-### 2부 오늘의 주요뉴스 (평일)
+양윤경 앵커ㅣ김상호 앵커
 
-전종환 앵커ㅣ김수지 앵커
+### 뉴스 열어보기
 
-### 아침 신문보기
+양윤경 앵커ㅣ김상호 앵커
 
-전종환 앵커ㅣ김수지 앵커
+### 증시 인터뷰
 
-### 투데이 연예톡톡
-
-노송원 리포터
-
-### 이 시각 세계
-
-조명진 리포터
-
-### 스마트 리빙
-
-이은수 리포터
+곽현수 신한금융투자 부장
 
 ### 투데이 이슈 톡
 
 김수산 리포터
 
-### 날씨
-
-김가영 기상캐스터
-
 ### 뉴스터치
 
 나경철 아나운서
 
+### 황선숙의 건강한 아침
+
+황선숙 아나운서
+
 ### 이 시각 세계
 
-조명진 리포터
+김준상 아나운서
 
-### 투데이 현장
+### TV 앨범
+
+### 날씨
+
+김가영 기상캐스터
+
+### 오늘의 주요뉴스
+
+양윤경 앵커ㅣ김상호 앵커
+
+### 교육격차 해소 프로젝트 에듀 콕
+
+윤윤구 EBS 입시 대표 강사
+
+### 국민지갑 수호 프로젝트 경제 쏙
+
+이성일 기자
+
+### 프로젝트 불금 조조할인
+
+### 이 시각 세계
+
+김준상 아나운서
 
 ### 14F
 
@@ -264,15 +272,33 @@
 
 ### 스마트 리빙
 
-이은수 리포터
+정슬기 아나운서
 
 ### 날씨
 
 김가영 기상캐스터
 
-### MBC 뉴스투데이 2부 클로징 (평일)
+### MBC 뉴스투데이 2부 클로징
 
-전종환 앵커ㅣ김수지 앵커
+양윤경 앵커ㅣ김상호 앵커
+
+### 토요일
+
+### MBC 뉴스투데이 오프닝
+
+강재형 앵커
+
+### 오늘의 주요뉴스
+
+강재형 앵커
+
+### 날씨
+
+김가영 기상캐스터
+
+### MBC 뉴스투데이 클로징
+
+강재형 앵커
 
 ## 앵커
 
@@ -280,8 +306,8 @@
 
 #### 평일
 
-  - [전종환](../Page/전종환.md "wikilink") (남) - [문화방송](../Page/문화방송.md "wikilink")의 아나운서
-  - [김수지](../Page/김수지_\(아나운서\).md "wikilink") (여) - [문화방송](../Page/문화방송.md "wikilink")의 아나운서
+  - [양윤경](../Page/양윤경.md "wikilink") (여) - [문화방송](../Page/문화방송.md "wikilink")의 기자
+  - [김상호](../Page/김상호_\(1969년\).md "wikilink") (남) - [문화방송](../Page/문화방송.md "wikilink")의 아나운서
 
 #### 토요일
 
@@ -546,7 +572,13 @@
 <td><p>40기</p></td>
 <td><p><a href="../Page/전종환.md" title="wikilink">전종환</a></p></td>
 <td><p><a href="../Page/김수지_(아나운서).md" title="wikilink">김수지</a></p></td>
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/7월_16일.md" title="wikilink">7월 16일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/7월_16일.md" title="wikilink">7월 16일</a> ~ 2020년 6월 26일</p></td>
+</tr>
+<tr class="even">
+<td><p>41기</p></td>
+<td><p><a href="../Page/김상호_(1969년).md" title="wikilink">김상호</a></p></td>
+<td><p><a href="../Page/양윤경.md" title="wikilink">양윤경</a></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a> ~ <strong>현재</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -572,16 +604,16 @@
 </tr>
 <tr class="even">
 <td><p>1기</p></td>
-<td></td>
+<td><p>-</p></td>
 <td><p><a href="../Page/조일수.md" title="wikilink">조일수</a><br />
 <a href="../Page/박영선_(1960년).md" title="wikilink">박영선</a></p></td>
 <td><p><a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/10월_23일.md" title="wikilink">10월 23일</a> ~ <a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2기</p></td>
-<td><p>-</p></td>
 <td><p><a href="../Page/이주연_(아나운서).md" title="wikilink">이주연</a></p></td>
 <td><p><a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/10월_21일.md" title="wikilink">10월 21일</a> ~ <a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/8월_17일.md" title="wikilink">8월 17일</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>3기</p></td>
@@ -705,7 +737,7 @@
 </tr>
 <tr class="even">
 <td><p>23기</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정다희" title="wikilink">정다희</a></p></td>
+<td><p><a href="../Page/정다희.md" title="wikilink">정다희</a></p></td>
 <td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/8월_19일.md" title="wikilink">8월 19일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_23일.md" title="wikilink">9월 23일</a></p></td>
 <td></td>
 </tr>
@@ -764,19 +796,19 @@
 
 현재 타이틀은 [2017년](../Page/2017년.md "wikilink") [12월 26일부터를](../Page/12월_26일.md "wikilink") 기준으로 한다.
 
-| 기수  | 타이틀                                          | 방송 기간                                                                                                                                                        |
-| --- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1기  | MBC 뉴스쇼                                      | [1981년](../Page/1981년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") \~ [1984년](../Page/1984년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") |
-| 2기  | 여기는 MBC                                      | [1984년](../Page/1984년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") \~ [1991년](../Page/1991년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") |
-| 3기  | MBC 뉴스와이드                                    | [1991년](../Page/1991년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink")   |
-| 4기  | MBC 뉴스투데이                                    | [1995년](../Page/1995년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") |
-| 5기  | MBC 뉴스 굿모닝코리아                                | [1996년](../Page/1996년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") |
-| 6기  | MBC 아침뉴스 2000                                | [1999년](../Page/1999년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink")   |
-| 7기  | [피자의 아침](../Page/피자의_아침.md "wikilink") 1, 2부 | [2000년](../Page/2000년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") |
-| 8기  | MBC 아침뉴스                                     | [2000년](../Page/2000년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") |
-| 9기  | MBC 뉴스투데이                                    | [2002년](../Page/2002년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink")     |
-| 10기 | MBC 뉴스                                       | [2017년](../Page/2017년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") |
-| 11기 | MBC 뉴스투데이                                    | [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ **현재**                                                                      |
+| 기수  | 타이틀                                                | 방송 기간                                                                                                                                                        |
+| --- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1기  | MBC 뉴스쇼                                            | [1981년](../Page/1981년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") \~ [1984년](../Page/1984년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") |
+| 2기  | 여기는 MBC                                            | [1984년](../Page/1984년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") \~ [1991년](../Page/1991년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") |
+| 3기  | MBC 뉴스와이드                                          | [1991년](../Page/1991년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink")   |
+| 4기  | MBC 뉴스투데이                                          | [1995년](../Page/1995년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") |
+| 5기  | MBC 뉴스 굿모닝코리아                                      | [1996년](../Page/1996년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") |
+| 6기  | MBC 아침뉴스 2000                                      | [1999년](../Page/1999년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink")   |
+| 7기  | [뉴스&정보 피자의 아침](../Page/피자의_아침.md "wikilink") 1, 2부 | [2000년](../Page/2000년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") |
+| 8기  | MBC 아침뉴스                                           | [2000년](../Page/2000년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") |
+| 9기  | MBC 뉴스투데이                                          | [2002년](../Page/2002년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink")     |
+| 10기 | MBC 뉴스                                             | [2017년](../Page/2017년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") |
+| 11기 | MBC 뉴스투데이                                          | [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ **현재**                                                                      |
 
 ## 결방 사유
 
@@ -786,7 +818,7 @@
 
 지역 방송국에서 평일에는 7시 20분경부터 다음 지역 뉴스를 방송한다.
 
-  - 강원, 충북, 여수 등을 제외한 나머지 지역들은 본사의 클로징멘트를 방송하지 않고 자체적으로 마친다.
+  - 강원 (춘천ㆍ강원영동ㆍ원주), 충북, 여수 등을 제외한 나머지 지역들은 본사의 클로징멘트를 방송하지 않고 자체적으로 마친다.
   - 각 지역 방송국은 《**MBC 뉴스투데이**》, 《**우리 가락 우리 문화**》, 《**출발 비디오 여행 스페셜**》 등 방송 하나를 내보낸다.
 
 <table>
@@ -816,7 +848,7 @@
 <tr class="even">
 <td><p><a href="../Page/광주문화방송.md" title="wikilink">광주MBC</a></p></td>
 <td><p>광주MBC 뉴스투데이</p></td>
-<td><p>김두식,이유진</p></td>
+<td><p>김두식, 이유진</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/목포문화방송.md" title="wikilink">목포MBC</a></p></td>
@@ -826,12 +858,13 @@
 <tr class="even">
 <td><p><a href="../Page/여수문화방송.md" title="wikilink">여수MBC</a></p></td>
 <td><p>여수MBC 뉴스투데이</p></td>
-<td><p>박성언</p></td>
+<td><p>이용선 (월)<br />
+박성언 (화~금)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/부산문화방송.md" title="wikilink">부산MBC</a></p></td>
 <td><p>MBC 뉴스투데이 부산</p></td>
-<td><p>박기홍, 김다영</p></td>
+<td><p>서정모, 김다영</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/MBC경남.md" title="wikilink">MBC경남</a></p></td>
@@ -878,7 +911,7 @@
   - 본래 MBC 뉴스투데이라는 타이틀의 아침 뉴스 프로그램은 [2002년](../Page/2002년.md "wikilink") [4월 1일부터의](../Page/4월_1일.md "wikilink") 현행 프로그램 외에도, [1995년](../Page/1995년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") 봄 개편부터 [1996년](../Page/1996년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") 가을 개편까지 [손석희](../Page/손석희.md "wikilink"), [최율미](https://ko.wikipedia.org/wiki/최율미 "wikilink") 아나운서가 진행을 맡아서 방송한 적이 있었다.
   - 방송 중간중간에 앵커의 측면에서 물방울이 떨어지며 아날로그(시침/분침) 형식의 시계가 나타나는 CG 영상이 나타났다. 영상과 동시에 실로폰음과 '00시 00분입니다.'라는 고지 멘트가 같이 나왔었다.
   - MBC 뉴스투데이는 [2000년](../Page/2000년.md "wikilink") [10월 30일부터](../Page/10월_30일.md "wikilink") 방송하던 MBC 아침뉴스에서 타이틀만 변경하여 [2002년](../Page/2002년.md "wikilink") [4월 1일부터](../Page/4월_1일.md "wikilink") 프로그램명을 MBC 뉴스투데이로 바꾸면서 현재까지 이어지고 있다.
-  - 아침뉴스에서 뉴스투데이로 프로그램명만 바뀌었기 때문에, 진행자와 OP 시그널은 전혀 변동이 없었으며, 앵커가 몇번 바뀌었다. [2004년](../Page/2004년.md "wikilink") [4월 5일부터는](../Page/4월_5일.md "wikilink") 아침뉴스 시절부터 사용하던 뉴스 시그널까지 바뀌어 OP은 [2012년](../Page/2012년.md "wikilink") [6월 23일까지](../Page/6월_23일.md "wikilink"), ED은 [2012년](../Page/2012년.md "wikilink") [7월 2일까지](../Page/7월_2일.md "wikilink") 8년 3개월 동안 시그널을 유지했다. 그 후 사장조 시그널을 [2012년](../Page/2012년.md "wikilink") [6월 25일부터](../Page/6월_25일.md "wikilink") 일주일간 OP에 사용하다가 마장조 서양식 시그널을 [2012년](../Page/2012년.md "wikilink") [7월 3일부터](../Page/7월_3일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [8월 26일까지](../Page/8월_26일.md "wikilink") 2년 1개월 동안 OP과 2부 ED(1부 ED은 라단조 시그널 사용)에 함께 사용되었으며, 이 곡은 현재 2부 ED에만 사용되고 있다. 이후 [2014년](../Page/2014년.md "wikilink") [8월 27일부터](../Page/8월_27일.md "wikilink") 마장조 동양식 시그널을 OP에 사용해 [2017년](../Page/2017년.md "wikilink") [9월 27일까지](../Page/9월_27일.md "wikilink") 사용하고 [2017년](../Page/2017년.md "wikilink") [12월 26일부터](../Page/12월_26일.md "wikilink") 마장조 서양식 리메이크 시그널을 OP에 사용하고 있다. 반면 1부 ED 시그널과 2부 ED 시그널은 변경되지 않았으며, 이 중 1부 ED 시그널은 [2015년](../Page/2015년.md "wikilink") [1월 2일부터](../Page/1월_2일.md "wikilink") [KBS 뉴스 7](../Page/KBS_뉴스_7.md "wikilink") 중간 OP 음악으로도 사용 중이다.
+  - 아침뉴스에서 뉴스투데이로 프로그램명만 바뀌었기 때문에, 진행자와 OP 시그널은 전혀 변동이 없었으며, 앵커가 몇번 바뀌었다. [2004년](../Page/2004년.md "wikilink") [4월 5일부터는](../Page/4월_5일.md "wikilink") 아침뉴스 시절부터 사용하던 뉴스 시그널까지 바뀌어 OP은 [2012년](../Page/2012년.md "wikilink") [6월 23일까지](../Page/6월_23일.md "wikilink"), ED은 [2012년](../Page/2012년.md "wikilink") [7월 2일까지](../Page/7월_2일.md "wikilink") 8년 3개월 동안 시그널을 유지했다. 그 후 사장조 시그널을 [2012년](../Page/2012년.md "wikilink") [6월 25일부터](../Page/6월_25일.md "wikilink") 일주일간 OP에 사용하다가 마장조 서양식 시그널을 [2012년](../Page/2012년.md "wikilink") [7월 3일부터](../Page/7월_3일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [8월 26일까지](../Page/8월_26일.md "wikilink") 2년 1개월 동안 OP과 2부 ED(1부 ED은 라단조 시그널 사용)에 함께 사용되었으며, 1부 ED 시그널은 [2020년](../Page/2020년.md "wikilink") [6월 26일까지](../Page/6월_26일.md "wikilink"), 2부 ED 시그널은 [2020년](../Page/2020년.md "wikilink") [6월 27일까지](../Page/6월_27일.md "wikilink") 8년 동안 사용되었다. 이후 [2014년](../Page/2014년.md "wikilink") [8월 27일부터](../Page/8월_27일.md "wikilink") 마장조 동양식 시그널을 OP에 사용해 [2017년](../Page/2017년.md "wikilink") [9월 27일까지](../Page/9월_27일.md "wikilink") 3년 1개월 동안 사용하고 [2017년](../Page/2017년.md "wikilink") [12월 26일부터](../Page/12월_26일.md "wikilink") 마장조 서양식 리메이크 시그널을 OP에 사용해 [2020년](../Page/2020년.md "wikilink") [6월 27일까지](../Page/6월_27일.md "wikilink") 2년 6개월 동안 사용하고 [2020년](../Page/2020년.md "wikilink") [6월 29일부터](../Page/6월_29일.md "wikilink") 파헬벨의 캐논 변주곡을 락으로 활용한 시그널을 OP에 사용하고 있고 가단조 테크노 시그널을 ED에 사용하고 있다. [2020년](../Page/2020년.md "wikilink") [6월 26일까지](../Page/6월_26일.md "wikilink") 사용했던 1부 ED 시그널은 [2015년](../Page/2015년.md "wikilink") [1월 2일부터](../Page/1월_2일.md "wikilink") [KBS 뉴스 7](../Page/KBS_뉴스_7.md "wikilink") 중간 OP 음악으로 사용 중이다.
   - [2017년](../Page/2017년.md "wikilink") [4월 15일부터](../Page/4월_15일.md "wikilink") 토요일 방송분만 수화 방송을 개시하였으며, MBC 파업으로 인해 2017년 9월 23일에 토요일 방송분의 수화 방송이 중단되었다가 2017년 12월 30일부터 토요일 방송분의 수화 방송이 재개되었으며, 2019년 7월 13일에 토요일 방송분의 수어 방송이 폐지되었다.
 
 ## 방송 사고
@@ -893,8 +926,9 @@
 ## 동시간대 뉴스 프로그램
 
   - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [굿모닝 대한민국 라이브](https://ko.wikipedia.org/wiki/굿모닝_대한민국_라이브 "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
   - [모닝와이드](../Page/모닝와이드.md "wikilink") ([SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink"))
-  - [OBS 아침뉴스](https://ko.wikipedia.org/wiki/OBS_아침뉴스 "wikilink") ([OBS경인TV](../Page/OBS경인TV.md "wikilink"))
+  - [OBS 뉴스아침](../Page/OBS_뉴스아침.md "wikilink") ([OBS경인TV](../Page/OBS경인TV.md "wikilink"))
   - [JTBC 뉴스 아침&](../Page/JTBC_뉴스_아침&.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
   - [굿모닝 MBN](../Page/굿모닝_MBN.md "wikilink") ([MBN](https://ko.wikipedia.org/wiki/MBN "wikilink"))
   - [출발 640](../Page/출발_640.md "wikilink") ([연합뉴스TV](../Page/연합뉴스TV.md "wikilink"))

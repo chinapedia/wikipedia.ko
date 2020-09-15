@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [애플 TV \(1세대\)](https://ko.wikipedia.org/wiki/애플_TV_\(1세대\)).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Apple_TV.jpg "wikilink") **애플 TV**()는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 [셋탑박스](https://ko.wikipedia.org/wiki/셋탑박스 "wikilink")이다. [2007년](../Page/2007년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [샌프란시스코](../Page/샌프란시스코.md "wikilink")에서 개최된 2007 맥월드에서 키노트 도중 최초로 소개되었고 미국에서 [2007년](../Page/2007년.md "wikilink") [3월](../Page/3월.md "wikilink")부터 정식으로 발매되었다.\[1\] (대한민국은 5월 7일 출시)
+[섬네일](https://ko.wikipedia.org/wiki/파일:Apple_TV.jpg "wikilink") **애플 TV**()는 [애플](../Page/애플.md "wikilink")이 개발한 [셋탑박스](https://ko.wikipedia.org/wiki/셋탑박스 "wikilink")이다. [2007년](../Page/2007년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [샌프란시스코](../Page/샌프란시스코.md "wikilink")에서 개최된 2007 맥월드에서 키노트 도중 최초로 소개되었고 미국에서 [2007년](../Page/2007년.md "wikilink") [3월](../Page/3월.md "wikilink")부터 정식으로 발매되었다.\[1\] (대한민국은 5월 7일 출시)
 
 이전에 **iTV**라는 [코드네임](https://ko.wikipedia.org/wiki/코드네임 "wikilink")으로 알려졌던 이 제품은, [맥 OS X이나](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") [마이크로소프트 윈도를](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 사용하는 [컴퓨터](../Page/컴퓨터.md "wikilink")에서 [아이튠즈](../Page/아이튠즈.md "wikilink")를 이용해 디지털 콘텐츠를 [스트리밍](../Page/스트리밍.md "wikilink")하는 방식으로 와이드스크린 [고선명 텔레비전이나](../Page/고선명_텔레비전.md "wikilink") [선명 텔레비전을](https://ko.wikipedia.org/wiki/EDTV "wikilink") 통해 사용자에게 스트리밍하는 내용을 보여 주는 방식이다.
 

@@ -53,17 +53,147 @@
 
 ### '동화 축구' 욘 안드레센
 
-인천은 심각하게 약화된 수비력 등 여러 요인으로 인해 강인덕 대표이사와 이기형 전 감독의 체제에서 1승4무7패를 거두고, 박성철 대행 체제에서도 1무1패를 기록하는 등 매우 나쁜 상황에 처해있었다. 단순히 경기력만 나쁜 것도 아니었다. 팀내 규정을 어긴 선수에게서 벌금도 제대로 못 걷고, 어린 선수가 베테랑 선수를 존중하지 않는 태도를 보이는 등 팀내 분위기도 안좋았고, 경기 결과가 안좋게 끝날 때 감독이 특정 선수를 탓하는 등 말그대로 최악의 상황이었다.어쨌든 이런 상황 속에서 북한축구 감독출신 안데르센은 수비진 안정화와 팀 분위기 개선을 모두 이뤄내기 위해 노력했다. 우선 측면 수비 개선을 위해 왕성한 활동량이 장점인 김한빈을 부천에서, 좋은 수비능력을 보유한 정동윤을 광주에서 영입했다. 그리고 그중 정동윤의 영입이 적중하면서 최종환의 기량 저하와 대체자원의 부재로 인해 주된 실점루트가 되던 오른쪽 측면을 안정시키는 데 성공했다. 중앙 수비진은 나이때문인지 기량이 많이 떨어진 이윤표 대신 마음을 다잡고 각성한 부노자, 리그 수위급의 체격과 제공권을 지닌 김대중, 뛰어난 피지컬과 지능적인 수비를 바탕으로 김학범호 1기 주장으로 선임되었던, 하지만 정작 이기형 체제에선 출전기회를 받지 못하던 김정호 등을 기용하면서 안정시켰다. 거기에 넓은 수비범위를 부담스러워하던 고슬기 대신 활동량도 많고 수비력도 좋은 임은수를 수비형 미드필더로 기용하는 등 미드필더진의 수비력도 향상시키면서 쉽게 뚫리지 않는 수비진을 구축해냈다. 무너진 팀의 기강은 과거에 인천에서 활약하던 베테랑 남준재를 자유계약으로 영입한 뒤 주전으로 기용해 효과를 보고, 부노자, 박종진, 고슬기 등 다른 베테랑 선수들도 각성시켜 실전에서 활약하도록 유도하는 방법 등을 통해 바로세웠다. 물론 이 모든 것들이 한순간에 이루어진 것은 아니다. 곽해성, 강지용 등을 대체자원으로 기용했으나 똑같은 경로로 여러차례 실점하거나 7대0 대패를 당하는 등 실패하기도 하고, 역삼각형이던 중원 조합을 삼각형 모양으로 바꾼 뒤 테크닉이 좋은 공격형 미드필더 이정빈을 3선에 배치해 빌드업의 시발점 역할을 부여했으나 다소 부족한 수비력으로 인해 결국 기용을 중단하는 등 중간중간에 수많은 시행착오를 겪었다. 하지만 그러면서도 결국 잔류를 위해 이루어야 할 것들을 이루며 팀을 안정시킨 안데르센의 능력은 높이 살 만하다.결고로는 10승 12무 16패로 또다시 잔류를 하였다. 2018년 말에 유상철이 전임했지만 그 해의 동화같은 잔류를 이뤄냈다.
+인천은 심각하게 약화된 수비력 등 여러 요인으로 인해 강인덕 대표이사와 이기형 전 감독의 체제에서 1승4무7패를 거두고, 박성철 대행 체제에서도 1무1패를 기록하는 등 매우 나쁜 상황에 처해있었다. 단순히 경기력만 나쁜 것도 아니었다. 팀내 규정을 어긴 선수에게서 벌금도 제대로 못 걷고, 어린 선수가 베테랑 선수를 존중하지 않는 태도를 보이는 등 팀내 분위기도 안좋았고, 경기 결과가 안좋게 끝날 때 감독이 특정 선수를 탓하는 등 말그대로 최악의 상황이었다.어쨌든 이런 상황 속에서 북한축구 감독출신 안데르센은 수비진 안정화와 팀 분위기 개선을 모두 이뤄내기 위해 노력했다. 우선 측면 수비 개선을 위해 왕성한 활동량이 장점인 김한빈을 부천에서, 좋은 수비능력을 보유한 정동윤을 광주에서 영입했다. 그리고 그중 정동윤의 영입이 적중하면서 최종환의 기량 저하와 대체자원의 부재로 인해 주된 실점루트가 되던 오른쪽 측면을 안정시키는 데 성공했다. 중앙 수비진은 나이때문인지 기량이 많이 떨어진 이윤표 대신 마음을 다잡고 각성한 부노자, 리그 수위급의 체격과 제공권을 지닌 김대중, 뛰어난 피지컬과 지능적인 수비를 바탕으로 김학범호 1기 주장으로 선임되었던, 하지만 정작 이기형 체제에선 출전기회를 받지 못하던 김정호 등을 기용하면서 안정시켰다. 거기에 넓은 수비범위를 부담스러워하던 고슬기 대신 활동량도 많고 수비력도 좋은 임은수를 수비형 미드필더로 기용하는 등 미드필더진의 수비력도 향상시키면서 쉽게 뚫리지 않는 수비진을 구축해냈다. 무너진 팀의 기강은 과거에 인천에서 활약하던 베테랑 남준재를 자유계약으로 영입한 뒤 주전으로 기용해 효과를 보고, 부노자, 박종진, 고슬기 등 다른 베테랑 선수들도 각성시켜 실전에서 활약하도록 유도하는 방법 등을 통해 바로세웠다. 물론 이 모든 것들이 한순간에 이루어진 것은 아니다. 곽해성, 강지용 등을 대체자원으로 기용했으나 똑같은 경로로 여러차례 실점하거나 7대0 대패를 당하는 등 실패하기도 하고, 역삼각형이던 중원 조합을 삼각형 모양으로 바꾼 뒤 테크닉이 좋은 공격형 미드필더 이정빈을 3선에 배치해 빌드업의 시발점 역할을 부여했으나 다소 부족한 수비력으로 인해 결국 기용을 중단하는 등 중간중간에 수많은 시행착오를 겪었다. 하지만 그러면서도 결국 잔류를 위해 이루어야 할 것들을 이루며 팀을 안정시킨 안데르센의 능력은 높이 살 만하다.결과로는 10승 12무 16패로 또다시 잔류를 하였다. 2018년 말에 유상철이 전임했지만 그 해의 동화같은 잔류를 이뤄냈다.
+
+## 연혁
+
+  - [2003년](https://ko.wikipedia.org/wiki/K리그_2003 "wikilink")
+      - 2003년 6월 인천시민프로축구단 창단 발표(안상수 인천시장)
+      - 2003년 8월 ㈜인천시민프로축구단 법인 설립
+      - 2003년 9월 인천구단 초대 감독 베르너 로란트 감독 취임
+      - 2003년 10월 인천 유나이티드 명칭 공모 최우수작 선정
+      - 2003년 10월 인천시민프로축구단 1차 시민주 공모 실시
+      - 2003년 12월 한국프로축구연맹 창단 승인
+
+<!-- end list -->
+
+  - [2004년](../Page/K리그_2004.md "wikilink")
+      - 2004년 1월 인천시민프로축구단 2차 시민주 공모
+      - 2004년 4월 [K리그](../Page/K리그_2004.md "wikilink") 데뷔
+      - 2004년 [삼성 하우젠컵대회](https://ko.wikipedia.org/wiki/하우젠컵_2004 "wikilink") 8위
+      - 2004년 [삼성 하우젠 K리그](../Page/K리그_2004.md "wikilink") 전기 13위
+      - 2004년 삼성 하우젠 K리그 후기 4위
+
+<!-- end list -->
+
+  - [2005년](../Page/K리그_2005.md "wikilink")
+      - 2005년 [삼성 하우젠 K리그](../Page/K리그_2005.md "wikilink") 준우승
+      - 2005년 삼성 하우젠 K리그 정규리그 통합 1위 (전기 2위, 후기 4위)
+
+<!-- end list -->
+
+  - [2006년](https://ko.wikipedia.org/wiki/K리그_2006 "wikilink")
+      - 2006년 [하나은행 FA컵](../Page/FA컵_2006.md "wikilink") 3위
+      - 2006년 [삼성하우젠 K리그](https://ko.wikipedia.org/wiki/K리그_2006 "wikilink") 통합순위 9위(7승12무7패)
+      - 2006년 삼성하우젠 K리그 전기리그 10위(2승8무3패)
+      - 2006년 삼성하우젠 K리그 후기리그 6위(5승4무4패)
+      - 2006년 [삼성 하우젠컵](../Page/리그컵_2006.md "wikilink") 14위 (1승4무8패)
+      - 2006년 2군리그 우승(MVP : [이근호](https://ko.wikipedia.org/wiki/이근호_\(1985년\) "wikilink"))
+
+<!-- end list -->
+
+  - [2007년](https://ko.wikipedia.org/wiki/K리그_2007 "wikilink")
+      - 2007년 [삼성 하우젠 K리그](https://ko.wikipedia.org/wiki/K리그_2007 "wikilink") 통합순위 9위 (8승 9무 9패)
+      - 2007년 [삼성 하우젠컵대회](../Page/리그컵_2007.md "wikilink") 4강
+      - 2007년 [하나은행 FA컵](../Page/FA컵_2007.md "wikilink") 4강
+
+<!-- end list -->
+
+  - [2008년](https://ko.wikipedia.org/wiki/K리그_2008 "wikilink")
+      - 2008년 [삼성 하우젠 K리그](https://ko.wikipedia.org/wiki/K리그_2008 "wikilink") 통합순위 7위 (9승 9무 8패)
+      - 2008년 [삼성 하우젠컵대회](../Page/리그컵_2008.md "wikilink") 조별 예선 탈락 (2승 3무 5패)
+      - 2008년 [하나은행 FA컵](../Page/FA컵_2008.md "wikilink") 1라운드 탈락 (1패)
+      - 2008년 2군리그 우승(MVP : [강수일](https://ko.wikipedia.org/wiki/강수일 "wikilink"))
+      - 2008년 U-18팀 [인천대건고등학교](../Page/인천대건고등학교.md "wikilink") 축구부 창단
+
+<!-- end list -->
+
+  - [2009년](https://ko.wikipedia.org/wiki/K리그_2009 "wikilink")
+      - 2009년 [K리그](https://ko.wikipedia.org/wiki/K리그_2009 "wikilink") 통합순위 6위 (11승 10무 7패)
+      - 2009년 [피스컵 코리아 2009](../Page/리그컵_2009.md "wikilink") 8강
+      - 2009년 [하나은행 FA컵](../Page/FA컵_2009.md "wikilink") 32강
+      - 2009년 2군리그 우승(MVP : [김선우](../Page/김선우_\(1983년\).md "wikilink"))
+      - 2009년 U-15팀 [인천광성중학교](https://ko.wikipedia.org/wiki/광성중학교_\(인천\) "wikilink") 축구부 창단\[17\]
+
+<!-- end list -->
+
+  - [2010년](https://ko.wikipedia.org/wiki/K리그_2010 "wikilink")
+      - 2010년 [소나타 K리그](https://ko.wikipedia.org/wiki/K리그_2010 "wikilink") 통합순위 11위 (8승 7무 13패)
+      - 2010년 [포스코컵 2010](../Page/리그컵_2010.md "wikilink") 예선 조별리그 C조 4위
+      - 2010년 [하나은행 FA컵](../Page/FA컵_2010.md "wikilink") 8강
+
+<!-- end list -->
+
+  - [2011년](https://ko.wikipedia.org/wiki/K리그_2011 "wikilink")
+      - 2011년 [현대오일뱅크 K리그](https://ko.wikipedia.org/wiki/K리그_2011 "wikilink") 통합순위 13위 (6승 14무 10패)
+      - 2011년 [러시앤캐시컵 2011](../Page/리그컵_2011.md "wikilink") 예선 조별리그 A조 4위 (1승 2무 2패)
+      - 2011년 [하나은행 FA컵](../Page/FA컵_2011.md "wikilink") 16강
+
+<!-- end list -->
+
+  - [2012년](https://ko.wikipedia.org/wiki/K리그_2012 "wikilink")
+      - 2012년 [현대오일뱅크 K리그](https://ko.wikipedia.org/wiki/K리그_2012 "wikilink") 통합순위 9위 (17승 16무 11패)
+      - 2012년 [하나은행 FA컵](../Page/FA컵_2012.md "wikilink") 16강
+
+<!-- end list -->
+
+  - [2013년](https://ko.wikipedia.org/wiki/K리그_클래식_2013 "wikilink")
+      - 2013년 [현대오일뱅크 K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2013 "wikilink") 통합순위 7위 (12승 14무 12패)
+      - 2013년 스플릿 A(상위리그) 진출
+      - 2013년 [하나은행 FA컵](../Page/FA컵_2013.md "wikilink") 8강 진출
+
+<!-- end list -->
+
+  - [2014년](https://ko.wikipedia.org/wiki/K리그_클래식_2014 "wikilink")
+      - 2014년 [현대오일뱅크 K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2014 "wikilink") 통합순위 10위 (8승 16무 14패)
+      - 2014년 [하나은행 FA컵](../Page/FA컵_2014.md "wikilink") 32강
+
+<!-- end list -->
+
+  - [2015년](https://ko.wikipedia.org/wiki/K리그_클래식_2015 "wikilink")
+      - 2015년 [현대오일뱅크 K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2015 "wikilink") 통합순위 8위 (13승 12무 13패)
+      - 2015년 [KEB하나은행 FA컵](../Page/FA컵_2015.md "wikilink") 준우승
+
+<!-- end list -->
+
+  - [2016년](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink")
+      - 2016년 [현대오일뱅크 K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink") 통합순위 10위 (11승 12무 15패)
+      - 2016년 [KEB하나은행 FA컵](../Page/FA컵_2016.md "wikilink") 8강 진출
+
+<!-- end list -->
+
+  - [2017년](https://ko.wikipedia.org/wiki/K리그_클래식_2017 "wikilink")
+      - 2017년 [KEB하나은행 K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2017 "wikilink") 통합순위 9위 (7승 18무 13패)
+      - 2017년 [KEB하나은행 FA컵](../Page/FA컵_2017.md "wikilink") 32강
+
+<!-- end list -->
+
+  - [2018년](https://ko.wikipedia.org/wiki/K리그1_2018 "wikilink")
+      - 2018년 [KEB하나은행 K리그1](https://ko.wikipedia.org/wiki/K리그1_2018 "wikilink") 통합순위 9위 (10승 12무 16패)
+      - 2018년 [KEB하나은행 FA컵](../Page/FA컵_2018.md "wikilink") 16강
+
+<!-- end list -->
+
+  - [2019년](https://ko.wikipedia.org/wiki/K리그1_2019 "wikilink")
+      - 2019년 U-18팀 [대건고](https://ko.wikipedia.org/wiki/인천대건고 "wikilink") 축구부 창단 이래 전국 규모 대회(문화체육관광부장관배 고교축구대회) 첫 우승\[18\]
+      - 2019년 KEB하나은행 K리그1 통합순위 10위 (7승 13무 18패)
+      - 2019년 KEB하나은행 FA컵 32강
 
 ## 엠블럼
 
-5,002명의 응모자 가운데 2,296명(46%)으로부터 1순위로 지정받은 시안이 공식 엠블렘으로 선정되었다.\[17\]
+5,002명의 응모자 가운데 2,296명(46%)으로부터 1순위로 지정받은 시안이 공식 엠블렘으로 선정되었다.\[19\]
 
 인천 유나이티드의 공식 엠블렘은 기존의 다른 구단에서 사용하지 않은 타원형의 모양을 활용하여 창단 주체인 인천시, 시민, 기업이 원만하게 화합하는 이미지를 나타낸다. 엠블렘의 문양은 인천을 상징하는 닻, 바른길로 이끄는 방향키, 비상하는 날개의 형상을 조합하여 인천 유나이티드 구단이 한국프로축구의 새로운 리더가 되고자 하는 강한 의지를 담았다. 또 노란색의 문양과 테두리에 해양 도시인 인천을 나타내는 블루와 블랙의 줄무늬는 세계로 뻗어 나가는 인천 유나이티드의 역동성과 진취적인 기상을 상징적으로 표현한다.
 
 ## 마스코트
 
-인천 유나이티드 마스코트의 이름은 **유티**이다. 유티는 인천을 상징하는 시조인 [두루미](../Page/두루미.md "wikilink")의 형상으로 프로축구계의 새로운 바람을 일으키려는 의지와 시, 시민, 기업이 화합할 수 있는 매개체로서의 친근한 이미지로 상징화 하였다. 붉은 머리털은 축구에 대한 강한 열정을, 큰 날개는 승리에 대한 강한 의지와 [페어플레이](https://ko.wikipedia.org/wiki/페어플레이 "wikilink")의 [스포츠](../Page/스포츠.md "wikilink") 정신을 표현하고 있다.\[18\]
+인천 유나이티드 마스코트의 이름은 **유티**이다. 유티는 인천을 상징하는 시조인 [두루미](../Page/두루미.md "wikilink")의 형상으로 프로축구계의 새로운 바람을 일으키려는 의지와 시, 시민, 기업이 화합할 수 있는 매개체로서의 친근한 이미지로 상징화 하였다. 붉은 머리털은 축구에 대한 강한 열정을, 큰 날개는 승리에 대한 강한 의지와 [페어플레이](https://ko.wikipedia.org/wiki/페어플레이 "wikilink")의 [스포츠](../Page/스포츠.md "wikilink") 정신을 표현하고 있다.\[20\]
+
+## 유니폼
+
+퍼스트 유니폼은 팀의 상징색인 검정과 파랑의 세로줄 무늬를 주로 사용한다.
+
+2020년 시즌부터 동아시아에서는 최초로 이탈리아의 대표적 스포츠 용품사인 [마크론](../Page/마크론.md "wikilink") (MACRON)과 5+5년 계약을 맺어 용품을 후원받는다. 2020년 유니폼 명칭은 '퍼스트 히어로'이다.
 
 ## 경기장
 
@@ -71,7 +201,7 @@
 
 ### 인천축구전용경기장
 
-기존에 사용하던 문학경기장은 종합 경기장인 이유로 인해 관람 시야 등의 문제로 축구전용경기장의 필요성이 제기되었고 인천광역시가 [2014년 아시안 게임](../Page/2014년_아시안_게임.md "wikilink") 유치를 염두에 둠과 동시에 도시재생사업의 일환으로 중구 도원동과 남구 숭의동 일대에 걸친 옛 [인천공설운동장](https://ko.wikipedia.org/wiki/인천공설운동장 "wikilink") 및 [도원야구장](https://ko.wikipedia.org/wiki/도원야구장 "wikilink")터에 [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink")을 건설하면서 [2012년](../Page/2012년.md "wikilink")부터 [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink")을 홈구장으로 사용하고 있다. [2013년](../Page/2013년.md "wikilink")부터는 경기장의 운영권을 구단에서 넘겨받아 구단이 직접 경기장을 관리, 운영하게 되었다.\[19\]
+기존에 사용하던 문학경기장은 종합 경기장인 이유로 인해 관람 시야 등의 문제로 축구전용경기장의 필요성이 제기되었고 인천광역시가 [2014년 아시안 게임](../Page/2014년_아시안_게임.md "wikilink") 유치를 염두에 둠과 동시에 도시재생사업의 일환으로 중구 도원동과 남구 숭의동 일대에 걸친 옛 [인천공설운동장](https://ko.wikipedia.org/wiki/인천공설운동장 "wikilink") 및 [도원야구장](https://ko.wikipedia.org/wiki/도원야구장 "wikilink")터에 [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink")을 건설하면서 [2012년](../Page/2012년.md "wikilink")부터 [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink")을 홈구장으로 사용하고 있다. [2013년](../Page/2013년.md "wikilink")부터는 경기장의 운영권을 구단에서 넘겨받아 구단이 직접 경기장을 관리, 운영하게 되었다.\[21\]
 
 ### 인천승기축구장
 
@@ -79,17 +209,21 @@
 
 ## 서포터즈
 
-인천 유나이티드는 "시민구단으로 출발한 인천이 빠른 시간 안에 명문구단으로 도약하기 위해서는 서포터즈의 역할이 중요"하다는 이유로 창단과 함께 서포터즈 클럽을 공개 모집하였다.\[20\] 이러한 결과 인천 유나이티드의 서포터즈는 서포터즈 클럽(소모임) 중심의 문화를 가지게 되었다.
+인천 유나이티드는 "시민구단으로 출발한 인천이 빠른 시간 안에 명문구단으로 도약하기 위해서는 서포터즈의 역할이 중요"하다는 이유로 창단과 함께 서포터즈 클럽을 공개 모집하였다.\[22\] 이러한 결과 인천 유나이티드의 서포터즈는 서포터즈 클럽(소모임) 중심의 문화를 가지게 되었다.
 
 [2009년](../Page/2009년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") 인천 유나이티드를 사랑하는 모든 사람들이 쉽게 접근할 수 있고, 함께 응원할 수 있도록 하기 위해 당시 존재하던 6개의 모임들이 하나의 단체로 규합하는 데 뜻을 모아 지지자 연대 [미추홀 보이즈를](../Page/미추홀_보이즈.md "wikilink") 결성하였다. 소속 모임이었던 Ultras Hawk는 [2014년](../Page/2014년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") 연대 탈퇴를 선언하였다. Ultras Hawk의 탈퇴 이후 미추홀 보이즈의 각 소속 모임들은 하나의 소속 모임이라도 이탈하게 되면 연대의 의미가 퇴색된다는 것에 공감하여 [2014년](../Page/2014년.md "wikilink") [9월](../Page/9월.md "wikilink") 미추홀 보이즈 연대를 해체하기로 결정하였다.
 
 인천 유나이티드의 서포터즈는 [문학경기장](https://ko.wikipedia.org/wiki/문학경기장 "wikilink")에서는 N석을 응원 구역으로 활동하였으나, [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink")에서는 S석에서 응원하고 있다. [2019년](../Page/2019년.md "wikilink") 미추홀 보이즈 해체 이후 연대 [파랑검정](https://ko.wikipedia.org/wiki/파랑검정 "wikilink")을 결성 하였고 , 현재 존재하는 서포터즈 모임은 Ultras Hawk, Terror aNd Trembling, 포세이돈, ICFC, 혈맹 NaCl, PADO, 블루문 등 7개 모임이다.
 
-인천 유나이티드 서포터즈는 '제19회 올해의 프로축구대상'과 '2005 삼성 하우젠 K리그 대상' 시상식에서 공로상을 수상하기도 하였다.\[21\]
+인천 유나이티드 서포터즈는 '제19회 올해의 프로축구대상'과 '2005 삼성 하우젠 K리그 대상' 시상식에서 공로상을 수상하기도 하였다.\[23\]
+
+## 영구 결번
+
+**12번** : 시민구단으로 출범한 취지를 살려 축구팬과 서포터스에게 등번호 12번을 헌정하고 영구 결번으로 결정했다.\[24\]
 
 ## 유소년 정책
 
-인천 유나이티드는 어린이 축구교실인 아이 유나이티드(I-United)와 U-12, U-15, U-18 유소년 팀을 운영하고 있다. 이 중 U-18팀인 [대건고등학교는](../Page/인천대건고등학교.md "wikilink") [2008년](../Page/2008년.md "wikilink")부터 인천과 제휴를 맺었으며 선수 선발 및 관리, 훈련, 대회참가 등 전반적인 운영은 인천 구단이 담당하게 되고 선수들의 학교 공부와 학사관리는 대건고에서 책임지는 시스템으로 운영하고 있다.\[22\] U-15팀은 광성중학교와 협약을 맺어 U-18팀과 똑같은 방식으로 운영하고 있다.
+인천 유나이티드는 어린이 축구교실인 아이 유나이티드(I-United)와 U-12, U-15, U-18 유소년 팀을 운영하고 있다. 이 중 U-18팀인 [대건고등학교는](../Page/인천대건고등학교.md "wikilink") [2008년](../Page/2008년.md "wikilink")부터 인천과 제휴를 맺었으며 선수 선발 및 관리, 훈련, 대회참가 등 전반적인 운영은 인천 구단이 담당하게 되고 선수들의 학교 공부와 학사관리는 대건고에서 책임지는 시스템으로 운영하고 있다.\[25\] U-15팀은 광성중학교와 협약을 맺어 U-18팀과 똑같은 방식으로 운영하고 있다.
 
 또한 인천은 인천광역시 관내 소재 중학교 학생들이 참가하는 축구대회인 [미들스타리그를](https://ko.wikipedia.org/wiki/인천_유나이티드_미들스타리그 "wikilink") 매년 개최하고 있다. 축구협회에 등록된 선수는 참가할 수 없으며 순수한 아마추어 대회로 인천 유나이티드가 주최하고 관내 사업자가 후원하는 대회이다. 각 학교에서 홈엔어웨이로 예선을 치르고 [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink")에서 본선을 치른다. 대표적인 인천유나이티드 유소년팀 출신 세계적 유소년 스타는 스페인 라리가 유소년팀에 속해있는 [이승우](https://ko.wikipedia.org/wiki/이승우_\(1998년\) "wikilink"), [이강인](../Page/이강인.md "wikilink"),[정우영이](https://ko.wikipedia.org/wiki/정우영_\(1999년생_축구_선수\) "wikilink") 있다.
 
@@ -97,392 +231,13 @@
 
   - 인천 유나이티드 유소년 아카데미 : 13세 이하 : [이강인](../Page/이강인.md "wikilink") 배출
   - [광성중학교](https://ko.wikipedia.org/wiki/광성중학교_\(인천\) "wikilink") : U-15 : [이승우](https://ko.wikipedia.org/wiki/이승우 "wikilink") 배출
-  - [인천대건고등학교](../Page/인천대건고등학교.md "wikilink") : U-18 : [문상윤](../Page/문상윤.md "wikilink"), [진성욱](../Page/진성욱.md "wikilink"), [김용환](https://ko.wikipedia.org/wiki/김용환 "wikilink"), [권로안](https://ko.wikipedia.org/wiki/권로안 "wikilink"), [이태희](https://ko.wikipedia.org/wiki/이태희 "wikilink"), [김진야](../Page/김진야.md "wikilink"), [정우영](https://ko.wikipedia.org/wiki/정우영_\(1999년생_축구_선수\) "wikilink"), [천성훈](https://ko.wikipedia.org/wiki/천성훈 "wikilink") 배출
+  - [인천대건고등학교](../Page/인천대건고등학교.md "wikilink") : U-18 : [문상윤](../Page/문상윤.md "wikilink"), [진성욱](../Page/진성욱.md "wikilink"), [김용환](https://ko.wikipedia.org/wiki/김용환 "wikilink"), [권로안](../Page/권로안.md "wikilink"), [이태희](https://ko.wikipedia.org/wiki/이태희 "wikilink"), [김진야](../Page/김진야.md "wikilink"), [정우영](https://ko.wikipedia.org/wiki/정우영_\(1999년생_축구_선수\) "wikilink"), [천성훈](https://ko.wikipedia.org/wiki/천성훈 "wikilink") 배출
 
 ## 경영
 
-인천은 다양한 스폰서들의 지원과 선수 이적 시에 발생한 금액으로 2006년 5억여 원의 경영 흑자를 달성하여, 시민구단 최초의 흑자구단으로 기록되는 쾌거를 누렸다.\[23\]. 또한 이러한 흑자경영을 바탕으로 2009년에는 코스닥 상장을 할 계획을 가지고 있다.\[24\] 하지만 인천의 흑자경영을 회의적으로 바라보는 시각도 적지 않은데, 대기업이 경영하지 않는 시민구단의 한계로 인해 항상 자금이 불충분할 수밖에 없으며, 이로 인해 주요 핵심 선수들을 자금의 융통을 위해 타 구단으로 이적시키는 일이 비일비재 했기 때문이다. 대표적인 선수가 [최태욱](../Page/최태욱.md "wikilink")([시미즈 에스펄스로](../Page/시미즈_에스펄스.md "wikilink") 이적), [최효진](../Page/최효진_\(축구_선수\).md "wikilink")([포항 스틸러스로](../Page/포항_스틸러스.md "wikilink") 이적), [김치우](../Page/김치우.md "wikilink")([전남 드래곤즈로](../Page/전남_드래곤즈.md "wikilink") 이적) 등이다. 또한 광고, 상품판매, 입장수입 등의 수입원이 전체 수입의 3분의 1씩 균형을 이루는 것이 바람직한데 여러 스폰서를 광고해주는 대가로 받는 자금과 선수 이적료가 주 수입원을 이루는 것이 인천의 흑자 구조이다.\[25\] 그러나 대부분의 프로 스포츠팀들이 적자를 면치 못하는 것이 한국 스포츠의 현실인 것에 반해, 인천은 3년 연속으로 흑자 경영을 이어가면서 시민구단이 리그에 안정적으로 정착할 수 있는 기반 마련의 가능성을 보였다는 점에서 그 의미가 적지 않다는 평가다.\[26\]
+인천은 다양한 스폰서들의 지원과 선수 이적 시에 발생한 금액으로 2006년 5억여 원의 경영 흑자를 달성하여, 시민구단 최초의 흑자구단으로 기록되는 쾌거를 누렸다.\[26\]. 또한 이러한 흑자경영을 바탕으로 2009년에는 코스닥 상장을 할 계획을 가지고 있다.\[27\] 하지만 인천의 흑자경영을 회의적으로 바라보는 시각도 적지 않은데, 대기업이 경영하지 않는 시민구단의 한계로 인해 항상 자금이 불충분할 수밖에 없으며, 이로 인해 주요 핵심 선수들을 자금의 융통을 위해 타 구단으로 이적시키는 일이 비일비재 했기 때문이다. 대표적인 선수가 [최태욱](../Page/최태욱.md "wikilink")([시미즈 에스펄스로](../Page/시미즈_에스펄스.md "wikilink") 이적), [최효진](../Page/최효진_\(축구_선수\).md "wikilink")([포항 스틸러스로](../Page/포항_스틸러스.md "wikilink") 이적), [김치우](../Page/김치우.md "wikilink")([전남 드래곤즈로](../Page/전남_드래곤즈.md "wikilink") 이적) 등이다. 또한 광고, 상품판매, 입장수입 등의 수입원이 전체 수입의 3분의 1씩 균형을 이루는 것이 바람직한데 여러 스폰서를 광고해주는 대가로 받는 자금과 선수 이적료가 주 수입원을 이루는 것이 인천의 흑자 구조이다.\[28\] 그러나 대부분의 프로 스포츠팀들이 적자를 면치 못하는 것이 한국 스포츠의 현실인 것에 반해, 인천은 3년 연속으로 흑자 경영을 이어가면서 시민구단이 리그에 안정적으로 정착할 수 있는 기반 마련의 가능성을 보였다는 점에서 그 의미가 적지 않다는 평가다.\[29\]
 
-## 연혁
-
-### [2003](https://ko.wikipedia.org/wiki/K리그_2003 "wikilink")
-
-  - 2003년 6월 인천시민프로축구단 창단 발표(안상수 인천시장)
-  - 2003년 8월 ㈜인천시민프로축구단 법인 설립
-  - 2003년 9월 인천구단 초대 감독 베르너 로란트 감독 취임
-  - 2003년 10월 인천 유나이티드 명칭 공모 최우수작 선정
-  - 2003년 10월 인천시민프로축구단 1차 시민주 공모 실시
-  - 2003년 12월 한국프로축구연맹 창단 승인
-
-### [2004](../Page/K리그_2004.md "wikilink")
-
-  - 2004년 1월 인천시민프로축구단 2차 시민주 공모
-  - 2004년 4월 [K리그](../Page/K리그_2004.md "wikilink") 데뷔
-  - 2004년 [삼성 하우젠컵대회](https://ko.wikipedia.org/wiki/하우젠컵_2004 "wikilink") 8위
-  - 2004년 [삼성 하우젠 K리그](../Page/K리그_2004.md "wikilink") 전기 13위
-  - 2004년 삼성 하우젠 K리그 후기 4위
-
-### [2005](../Page/K리그_2005.md "wikilink")
-
-  - 2005년 [삼성 하우젠 K리그](../Page/K리그_2005.md "wikilink") 준우승
-  - 2005년 삼성 하우젠 K리그 정규리그 통합 1위 (전기 2위, 후기 4위)
-
-### [2006](https://ko.wikipedia.org/wiki/K리그_2006 "wikilink")
-
-  - 2006년 [하나은행 FA컵](../Page/FA컵_2006.md "wikilink") 3위
-  - 2006년 [삼성하우젠 K리그](https://ko.wikipedia.org/wiki/K리그_2006 "wikilink") 통합순위 9위(7승12무7패)
-  - 2006년 삼성하우젠 K리그 전기리그 10위(2승8무3패)
-  - 2006년 삼성하우젠 K리그 후기리그 6위(5승4무4패)
-  - 2006년 [삼성 하우젠컵](../Page/리그컵_2006.md "wikilink") 14위 (1승4무8패)
-  - 2006년 2군리그 우승(MVP : [이근호](https://ko.wikipedia.org/wiki/이근호_\(1985년\) "wikilink"))
-
-### [2007](https://ko.wikipedia.org/wiki/K리그_2007 "wikilink")
-
-  - 2007년 [삼성 하우젠 K리그](https://ko.wikipedia.org/wiki/K리그_2007 "wikilink") 통합순위 9위 (8승 9무 9패)
-  - 2007년 [삼성 하우젠컵대회](../Page/리그컵_2007.md "wikilink") 4강
-  - 2007년 [하나은행 FA컵](../Page/FA컵_2007.md "wikilink") 4강
-
-### [2008](https://ko.wikipedia.org/wiki/K리그_2008 "wikilink")
-
-  - 2008년 [삼성 하우젠 K리그](https://ko.wikipedia.org/wiki/K리그_2008 "wikilink") 통합순위 7위 (9승 9무 8패)
-  - 2008년 [삼성 하우젠컵대회](../Page/리그컵_2008.md "wikilink") 조별 예선 탈락 (2승 3무 5패)
-  - 2008년 [하나은행 FA컵](../Page/FA컵_2008.md "wikilink") 1라운드 탈락 (1패)
-  - 2008년 2군리그 우승(MVP : [강수일](https://ko.wikipedia.org/wiki/강수일 "wikilink"))
-  - 2008년 U-18팀 [인천대건고등학교](../Page/인천대건고등학교.md "wikilink") 축구부 창단
-
-### [2009](https://ko.wikipedia.org/wiki/K리그_2009 "wikilink")
-
-  - 2009년 [K리그](https://ko.wikipedia.org/wiki/K리그_2009 "wikilink") 통합순위 6위 (11승 10무 7패)
-  - 2009년 [피스컵 코리아 2009](../Page/리그컵_2009.md "wikilink") 8강
-  - 2009년 [하나은행 FA컵](../Page/FA컵_2009.md "wikilink") 32강
-  - 2009년 2군리그 우승(MVP : [김선우](../Page/김선우_\(1983년\).md "wikilink"))
-  - 2009년 U-15팀 [인천광성중학교](https://ko.wikipedia.org/wiki/광성중학교_\(인천\) "wikilink") 축구부 창단\[27\]
-
-### [2010](https://ko.wikipedia.org/wiki/K리그_2010 "wikilink")
-
-  - 2010년 [소나타 K리그](https://ko.wikipedia.org/wiki/K리그_2010 "wikilink") 통합순위 11위 (8승 7무 13패)
-  - 2010년 [포스코컵 2010](../Page/리그컵_2010.md "wikilink") 예선 조별리그 C조 4위
-  - 2010년 [하나은행 FA컵](../Page/FA컵_2010.md "wikilink") 8강
-
-### [2011](https://ko.wikipedia.org/wiki/K리그_2011 "wikilink")
-
-  - 2011년 [현대오일뱅크 K리그](https://ko.wikipedia.org/wiki/K리그_2011 "wikilink") 통합순위 13위 (6승 14무 10패)
-  - 2011년 [러시앤캐시컵 2011](../Page/리그컵_2011.md "wikilink") 예선 조별리그 A조 4위 (1승 2무 2패)
-  - 2011년 [하나은행 FA컵](../Page/FA컵_2011.md "wikilink") 16강
-
-### [2012](https://ko.wikipedia.org/wiki/K리그_2012 "wikilink")
-
-  - 2012년 [현대오일뱅크 K리그](https://ko.wikipedia.org/wiki/K리그_2012 "wikilink") 통합순위 9위 (17승 16무 11패)
-  - 2012년 [하나은행 FA컵](../Page/FA컵_2012.md "wikilink") 16강
-
-### [2013](https://ko.wikipedia.org/wiki/K리그_클래식_2013 "wikilink")
-
-  - 2013년 [현대오일뱅크 K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2013 "wikilink") 통합순위 7위 (12승 14무 12패)
-  - 2013년 스플릿 A(상위리그) 진출
-  - 2013년 [하나은행 FA컵](../Page/FA컵_2013.md "wikilink") 8강 진출
-
-### [2014](https://ko.wikipedia.org/wiki/K리그_클래식_2014 "wikilink")
-
-  - 2014년 [현대오일뱅크 K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2014 "wikilink") 통합순위 10위 (8승 16무 14패)
-  - 2014년 [하나은행 FA컵](../Page/FA컵_2014.md "wikilink") 32강
-
-### [2015](https://ko.wikipedia.org/wiki/K리그_클래식_2015 "wikilink")
-
-  - 2015년 [현대오일뱅크 K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2015 "wikilink") 통합순위 8위 (13승 12무 13패)
-  - 2015년 [KEB하나은행 FA컵](../Page/FA컵_2015.md "wikilink") 준우승
-
-### [2016](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink")
-
-  - 2016년 [현대오일뱅크 K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2016 "wikilink") 통합순위 10위 (11승 12무 15패)
-  - 2016년 [KEB하나은행 FA컵](../Page/FA컵_2016.md "wikilink") 8강 진출
-
-### [2017](https://ko.wikipedia.org/wiki/K리그_클래식_2017 "wikilink")
-
-  - 2017년 [KEB하나은행 K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식_2017 "wikilink") 통합순위 9위 (7승 18무 13패)
-  - 2017년 [KEB하나은행 FA컵](../Page/FA컵_2017.md "wikilink") 32강
-
-### [2018](https://ko.wikipedia.org/wiki/K리그1_2018 "wikilink")
-
-  - 2018년 [KEB하나은행 K리그1](https://ko.wikipedia.org/wiki/K리그1_2018 "wikilink") 통합순위 9위 (10승 12무 16패)
-  - 2018년 [KEB하나은행 FA컵](../Page/FA컵_2018.md "wikilink") 16강
-
-### [2019](https://ko.wikipedia.org/wiki/K리그1_2019 "wikilink")
-
-  - 2019년 U-18팀 [대건고](https://ko.wikipedia.org/wiki/인천대건고 "wikilink") 축구부 창단 이래 전국 규모 대회(문화체육관광부장관배 고교축구대회) 첫 우승\[28\]
-  - 2019년 KEB하나은행 K리그1 통합순위 10위 (7승 13무 18패)
-  - 2019년 KEB하나은행 FA컵 32강
-
-## 우승 기록
-
-### 국내 대회
-
-#### 리그
-
-  - **[K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")**
-
-<!-- end list -->
-
-  -
-
-    **준우승 (1)**: [2005](../Page/K리그_2005.md "wikilink")
-
-#### 컵
-
-  - **[FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")**
-
-<!-- end list -->
-
-  -
-
-    **준우승 (1)**: [2015](../Page/FA컵_2015.md "wikilink")
-
-    **3위 (2)**: [2006](../Page/FA컵_2006.md "wikilink"), [2007](../Page/FA컵_2007.md "wikilink")
-
-<!-- end list -->
-
-  - **[리그컵](../Page/리그컵_\(대한민국\).md "wikilink")**
-
-<!-- end list -->
-
-  -
-
-    **3위 (1)**: [2007](../Page/리그컵_2007.md "wikilink")
-
-### 친선 대회
-
-  - **[부리람 유나이티드 아세안투어](https://ko.wikipedia.org/wiki/부리람_유나이티드 "wikilink")**
-
-<!-- end list -->
-
-  -
-
-    **우승 (1)**: 2017
-
-## 시즌 결과
-
-  -
-    {|class="wikitable"
-
-|-bgcolor="\#efefef" \! 시즌 \! 리그 \! 순위 \! 경기 \! 승 \! 무 \! 패 \! 득 \! 실 \! 승점 \! [리그컵](../Page/리그컵_\(대한민국\).md "wikilink") \! [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") \! 기타 \! 감독 |- |2004 |K리그 |align=right|**12** |align=right|24 |align=right|6 |align=right|8 |align=right|10 |align=right|20 |align=right|29 |align=right|**26** |8위 |32강 | |[로란트](../Page/베르너_로란트.md "wikilink")
-[장외룡](../Page/장외룡.md "wikilink") (대행) |- |2005 |K리그 |bgcolor=SILVER align=right|**2** |align=right|24 |align=right|13 |align=right|6 |align=right|5 |align=right|36 |align=right|26 |align=right|**45** |6위 |16강 | |[장외룡](../Page/장외룡.md "wikilink") |- |2006 |K리그 |align=right|**9** |align=right|26 |align=right|7 |align=right|12 |align=right|7 |align=right|24 |align=right|27 |align=right|**33** |14위 |bgcolor=\#CC9966|**4강** | |[장외룡](../Page/장외룡.md "wikilink") |- |2007 |K리그 |align=right|**9** |align=right|26 |align=right|8 |align=right|9 |align=right|9 |align=right|30 |align=right|32 |align=right|**33** |bgcolor=\#CC9966|**4강** |bgcolor=\#CC9966|**4강** | |[박이천](../Page/박이천.md "wikilink") (대행) |- |2008 |K리그 |align=right|**7** |align=right|26 |align=right|9 |align=right|9 |align=right|8 |align=right|29 |align=right|30 |align=right|**36** |A조 6위 |32강 | |[장외룡](../Page/장외룡.md "wikilink") |- |2009 |K리그 |align=right|**6** |align=right|28 |align=right|11 |align=right|10 |align=right|7 |align=right|31 |align=right|29 |align=right|**43** |8강 |32강 | |[페트코비치](../Page/일리야_페트코비치.md "wikilink") |- |2010 |K리그 |align=right|**11** |align=right|28 |align=right|8 |align=right|7 |align=right|13 |align=right|42 |align=right|51 |align=right|**31** |C조 4위 |8강 | |[페트코비치](../Page/일리야_페트코비치.md "wikilink")
-[김봉길](https://ko.wikipedia.org/wiki/김봉길 "wikilink") (대행)
-[허정무](../Page/허정무.md "wikilink") |- |2011 |K리그 |align=right|**13** |align=right|30 |align=right|6 |align=right|14 |align=right|10 |align=right|31 |align=right|40 |align=right|**30** |A조 4위 |16강 | |[허정무](../Page/허정무.md "wikilink") |- |2012 |K리그 |align=right|**9** |align=right|44 |align=right|17 |align=right|16 |align=right|11 |align=right|46 |align=right|40 |align=right|**67** | - |16강 | |[허정무](../Page/허정무.md "wikilink")
-[김봉길](https://ko.wikipedia.org/wiki/김봉길 "wikilink") (대행)
-[김봉길](https://ko.wikipedia.org/wiki/김봉길 "wikilink") |- |2013 |K리그 클래식 |align=right|**7** |align=right|38 |align=right|12 |align=right|14 |align=right|12 |align=right|48 |align=right|46 |align=right|**50** | - |8강 | |[김봉길](https://ko.wikipedia.org/wiki/김봉길 "wikilink") |- |2014 |K리그 클래식 |align=right|**10** |align=right|38 |align=right|8 |align=right|16 |align=right|14 |align=right|33 |align=right|46 |align=right|**40** | - |32강 | |[김봉길](https://ko.wikipedia.org/wiki/김봉길 "wikilink") |- |2015 |K리그 클래식 |align=right|**8** |align=right|38 |align=right|13 |align=right|12 |align=right|13 |align=right|35 |align=right|32 |align=right|**51** | - |bgcolor=SILVER|**준우승** | |[김도훈](../Page/김도훈_\(1970년\).md "wikilink") |- |2016 |K리그 클래식 |align=right|**10** |align=right|38 |align=right|11 |align=right|12 |align=right|15 |align=right|43 |align=right|51 |align=right|**45** | - |bgcolor=|8강 | |[김도훈](../Page/김도훈_\(1970년\).md "wikilink")
-[이기형](https://ko.wikipedia.org/wiki/이기형 "wikilink") (대행) |- |2017 |K리그 클래식 |align=right|**9** |align=right|38 |align=right|7 |align=right|18 |align=right|13 |align=right|32 |align=right|53 |align=right|**39** | - |32강 | |[이기형](https://ko.wikipedia.org/wiki/이기형 "wikilink") |- |2018 |K리그1 |align=right|**9** |align=right|38 |align=right|10 |align=right|12 |align=right|16 |align=right|55 |align=right|69 |align=right|**42** | - |16강 | |[이기형](https://ko.wikipedia.org/wiki/이기형 "wikilink")
-[박성철](../Page/박성철_\(축구인\).md "wikilink") (대행)
-[욘 안데르센](https://ko.wikipedia.org/wiki/욘_안데르센 "wikilink") |- |2019 |K리그1 |align=right|10 |align=right|38 |align=right|7 |align=right|13 |align=right|18 |align=right|33 |align=right|54 |align=right|34 | - |32강 | |[욘 안데르센](https://ko.wikipedia.org/wiki/욘_안데르센 "wikilink")
-[임중용](../Page/임중용.md "wikilink") (대행)
-[유상철](../Page/유상철.md "wikilink") |- |}
-
-## 역대 기록
-
-### 주요 경기 기록
-
-  - 홈 경기에서의 첫 승리 : [2004년](../Page/2004년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") vs [감바 오사카](../Page/감바_오사카.md "wikilink")(스코어 : 4-0)
-  - 홈 경기에서의 첫 패배 : [2004년](../Page/2004년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") vs [울산 현대 호랑이](https://ko.wikipedia.org/wiki/울산_현대_호랑이 "wikilink")(스코어 : 2-3)
-  - [K리그](../Page/K리그.md "wikilink")에서의 첫 승리 : [2004년](../Page/2004년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") vs [성남 일화 천마](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink")(경기장 : [인천 문학 경기장](https://ko.wikipedia.org/wiki/인천_문학_경기장 "wikilink"), 스코어 : 1-0)
-  - [K리그](../Page/K리그.md "wikilink")에서의 첫 패배 : [2004년](../Page/2004년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") vs [포항 스틸러스](../Page/포항_스틸러스.md "wikilink")(경기장 : [포항 스틸러스](../Page/포항_스틸러스.md "wikilink"), 스코어 : 2-1)
-  - [K리그](../Page/K리그.md "wikilink") 통산 100승 : [2012년](../Page/2012년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") vs [울산 현대](https://ko.wikipedia.org/wiki/울산_현대 "wikilink") (경기장 : [울산문수축구경기장](../Page/울산문수축구경기장.md "wikilink"), 스코어 1-0)
-  - 최다 점수 차 승리 : [2004년](../Page/2004년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") vs [감바 오사카](../Page/감바_오사카.md "wikilink")(경기장 : [인천 문학 경기장](https://ko.wikipedia.org/wiki/인천_문학_경기장 "wikilink"), 스코어 : 4-0), [2010년](../Page/2010년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") vs [포항 스틸러스](../Page/포항_스틸러스.md "wikilink")(경기장 : [인천 문학 경기장](https://ko.wikipedia.org/wiki/인천_문학_경기장 "wikilink"), 스코어 : 4-0)
-  - 최다 점수 차 패배 : [2018년](../Page/2018년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") vs [강원FC](https://ko.wikipedia.org/wiki/강원FC "wikilink")(경기장 : [춘천 송암스포츠타운 주경기장](https://ko.wikipedia.org/wiki/춘천_송암스포츠타운_주경기장 "wikilink"), 스코어 : 0-7)
-  - [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink") 개장 경기 : [2012년](../Page/2012년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") vs [수원 삼성](https://ko.wikipedia.org/wiki/수원_삼성 "wikilink")(경기장 : [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink"), 스코어 : 0-2)
-  - 리그 명칭 클래식으로 변경 후 첫 경기 : [2013년](../Page/2013년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") vs [경남 FC](../Page/경남_FC.md "wikilink")(경기장 : [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink"), 스코어 : 0-0)
-
-### 주요 골 기록
-
-  - [K리그](../Page/K리그.md "wikilink") 1호골 : [2004년](../Page/2004년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") vs [포항 스틸러스](../Page/포항_스틸러스.md "wikilink"), [안젤코비치](https://ko.wikipedia.org/wiki/안젤코비치 "wikilink")
-  - [K리그](../Page/K리그.md "wikilink") 숭의개장 후 첫골 : [2012년](../Page/2012년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") vs [대전 시티즌](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink"), [설기현](../Page/설기현.md "wikilink")
-  - [K리그](../Page/K리그.md "wikilink") 400호골 : [2013년](../Page/2013년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") vs [제주 유나이티드](https://ko.wikipedia.org/wiki/제주_유나이티드 "wikilink"), [권정혁](../Page/권정혁.md "wikilink")
-  - K리그 700호골 : 2019년 9월 25일 vs 상주 상무 이우혁
-
-
-
-### 역대 최다 홈 관중수
-
-#### 인천축구전용경기장
-
-(2012년\~현재)
-
-  - 1위 : 18,541명 [2019년](../Page/2019년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink"). vs [제주유나이티드](https://ko.wikipedia.org/wiki/제주유나이티드 "wikilink")\[29\]
-  - 2위 : 17,262명 [2012년](../Page/2012년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink"). vs [수원 삼성 블루윙즈](../Page/수원_삼성_블루윙즈.md "wikilink")
-
-#### 인천문학경기장
-
-(2004년\~2011년) [2009년](../Page/2009년.md "wikilink") [5월 4일](../Page/5월_4일.md "wikilink") 기준\[30\]
-
-  - 1위 : 37,242명 - [2004년](../Page/2004년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink"), vs [울산 현대 호랑이](https://ko.wikipedia.org/wiki/울산_현대_호랑이 "wikilink")
-  - 2위 : 35,356명 - [2005년](../Page/2005년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink"), vs [울산 현대 호랑이](https://ko.wikipedia.org/wiki/울산_현대_호랑이 "wikilink")
-  - 3위 : 34,275명 - [2008년](../Page/2008년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink"), vs [부산 아이파크](../Page/부산_아이파크.md "wikilink")
-
-### 최다 경기 출장 선수
-
-[2017년](../Page/2016년.md "wikilink") [9월 29일](../Page/3월_25일.md "wikilink") 기준으로 K리그/리그컵 기준 인천 소속으로 출장한 경기 수\[31\]
-
-  - 1위 : [임중용](../Page/임중용.md "wikilink") : 220경기
-  - 2위 : [이윤표](../Page/이윤표.md "wikilink") : 213경기
-  - 3위 : [전재호](../Page/전재호.md "wikilink") : 212경기
-  - 4위 : [안재준](../Page/안재준.md "wikilink") : 156경기
-  - 5위 : [노종건](https://ko.wikipedia.org/wiki/노종건 "wikilink") : 132경기
-  - 6위 : [방승환](../Page/방승환.md "wikilink") : 127경기
-  - 7위 : [김학철](../Page/김학철_\(1972년\).md "wikilink") : 125경기
-  - 8위 : [라돈치치](https://ko.wikipedia.org/wiki/라돈치치 "wikilink") : 122경기
-  - 9위 : [김이섭](../Page/김이섭.md "wikilink") : 121경기
-  - 10위 : [박재현](../Page/박재현_\(축구_선수\).md "wikilink") : 97경기
-  - 11위 : [남준재](https://ko.wikipedia.org/wiki/남준재 "wikilink") : 94경기
-  - 12위 : [한교원](../Page/한교원.md "wikilink") : 93경기
-  - 13위 : [윤원일](../Page/윤원일_\(1983년\).md "wikilink") : 90경기
-  - 14위 : [권정혁](../Page/권정혁.md "wikilink") : 87경기
-  - 15위 : [박태민](../Page/박태민_\(축구_선수\).md "wikilink") : 85경기
-  - 16위 : [장경진](../Page/장경진.md "wikilink") : 84경기
-  - 17위 : [정혁](https://ko.wikipedia.org/wiki/정혁 "wikilink") : 82경기
-  - 18위 : [유병수](https://ko.wikipedia.org/wiki/유병수 "wikilink") : 78경기
-  - 19위 : [김상록](../Page/김상록_\(축구인\).md "wikilink") : 78경기
-  - 20위 : [설기현](../Page/설기현.md "wikilink") : 76경기
-  - 21위 : [드라간 믈라데노비치](../Page/드라간_믈라데노비치.md "wikilink") : 72경기
-  - 22위 : [유현](../Page/유현_\(축구_선수\).md "wikilink") : 71경기
-
-### 역대 인천 유나이티드 주장 선수
-
-  - [김현수](../Page/김현수_\(1973년_3월\).md "wikilink") : 2004년
-  - [임중용](../Page/임중용.md "wikilink") : 2005년 \~ 2008년 6월
-  - [노종건](https://ko.wikipedia.org/wiki/노종건 "wikilink") : 2008년 6월 \~ 12월
-  - [이준영](https://ko.wikipedia.org/wiki/이준영 "wikilink") : 2009년 \~ 2010년
-  - [전재호](../Page/전재호.md "wikilink") : 2010년
-  - [배효성](../Page/배효성.md "wikilink") : 2011년\[32\]
-  - [정인환](../Page/정인환.md "wikilink") : 2012년
-  - [김남일](../Page/김남일.md "wikilink") : 2013년
-  - [박태민](../Page/박태민_\(축구_선수\).md "wikilink") : 2014년
-  - [유현](https://ko.wikipedia.org/wiki/유현 "wikilink") : 2015년 1월\~8월
-  - [김동석](../Page/김동석_\(축구_선수\).md "wikilink") : 2015년 8월\~2016년 8월
-  - [마테이 요니치](../Page/마테이_요니치.md "wikilink") : 2016년 9월 \~ 2016년 12월
-  - [김도혁](../Page/김도혁.md "wikilink") : 2017년 1월\~ 2017년 6월
-  - [최종환](../Page/최종환_\(축구_선수\).md "wikilink") : 2017년 6월 \~ 2019년 2월
-  - [남준재](https://ko.wikipedia.org/wiki/남준재 "wikilink") : 2019년 2월 \~ 2019년 7월
-  - [정산](../Page/정산_\(축구_선수\).md "wikilink") : 2019년 7월 \~ 2019년 12월
-  - [이재성](../Page/이재성_\(1988년\).md "wikilink") :2020년 3월 \~ 현재
-
-### 인천에서 은퇴한 선수
-
-  - [이장관](../Page/이장관.md "wikilink") : 2008년 : DF : 인천 문학 경기장에서 은퇴
-  - [김학철](https://ko.wikipedia.org/wiki/김학철 "wikilink") : 2008년 : DF : 시즌 종료 뒤 은퇴선언
-  - [임중용](../Page/임중용.md "wikilink") : 2011년 : DF : K리그 2011시즌 30R [상주상무전에서](../Page/상주_상무_축구단.md "wikilink") 은퇴
-  - [김이섭](../Page/김이섭.md "wikilink") : 2010년 : GK : 2010시즌 종료 뒤 은퇴
-  - [이천수](../Page/이천수.md "wikilink") : 2015년 : FW : 2015시즌 종료 뒤 은퇴선언
-
-## 선수단
-
-### 현재 선수단
-
-[2020년](../Page/2020년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") 기준                [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
-
-### 임대 및 군 복무 중인 선수
-
-### 영구 결번
-
-**12번** : 시민구단으로 출범한 취지를 살려 축구팬과 서포터스에게 등번호 12번을 헌정하고 영구 결번으로 결정했다.\[33\]
-
-## 스태프 명단
-
-### 운영진
-
-  - 구단주: [박남춘](../Page/박남춘.md "wikilink") ([인천광역시장](../Page/인천광역시장.md "wikilink"))
-  - 대표이사: 전달수
-
-### 코칭스태프
-
-<table>
-<thead>
-<tr class="header">
-<th><p>직위</p></th>
-<th><p>이름</p></th>
-<th><p>비고</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>감독</p></td>
-<td><p><a href="../Page/임완섭.md" title="wikilink">임완섭</a></p></td>
-<td><p>2020년 2월 6일 제 10대 감독으로 취임</p></td>
-</tr>
-<tr class="even">
-<td><p>수석코치</p></td>
-<td><p><a href="../Page/임중용.md" title="wikilink">임중용</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>코치</p></td>
-<td><p><a href="../Page/박용호_(축구인).md" title="wikilink">박용호</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>골키퍼 코치</p></td>
-<td><p><a href="../Page/김이섭.md" title="wikilink">김이섭</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>코치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김재성_(축구_선수)" title="wikilink">김재성</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>코치</p></td>
-<td><p>정영환</p></td>
-<td><p>전술/전력분석코치</p></td>
-</tr>
-<tr class="odd">
-<td><p>피지컬 코치</p></td>
-<td><p>바우지니</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>스포츠메디컬 수석트레이너</p></td>
-<td><p>이승재</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>스포츠메디컬 트레이너</p></td>
-<td><p>이동원</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>스포츠메디컬 트레이너</p></td>
-<td><p>김현진</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>장비담당관</p></td>
-<td><p>조용희</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>전력분석관</p></td>
-<td><p>김진교</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 유소년팀 코칭스태프
-
-| 직위                                                                   | 이름                                       | 비고                                                                                              |
-| -------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| U-18 [대건고](https://ko.wikipedia.org/wiki/인천대건고 "wikilink") 감독        | [김정우](../Page/김정우_\(축구인\).md "wikilink") |                                                                                                 |
-| U-18 [대건고](https://ko.wikipedia.org/wiki/인천대건고 "wikilink") 코치        | 최재영                                      |                                                                                                 |
-| U-18 [대건고](https://ko.wikipedia.org/wiki/인천대건고 "wikilink") 골키퍼 코치    | 윤진호                                      |                                                                                                 |
-| U-15 [광성중](https://ko.wikipedia.org/wiki/광성중학교_\(인천\) "wikilink") 감독 | 이성규                                      | U-15 광성중 코치, U-12 감독 역임                                                                         |
-| U-12 감독                                                              | 이재홍                                      | 유상철축구교실 U-12 감독, 방이중, 울산대, [서울이랜드](https://ko.wikipedia.org/wiki/서울이랜드 "wikilink") U-18 코치 등 역임 |
-| U-12 코치                                                              | 조동욱                                      |                                                                                                 |
-| U-12 코치                                                              | 한승호                                      |                                                                                                 |
-| 유소년 전담 의무트레이너                                                        | 이동원                                      |                                                                                                 |
-|                                                                      |                                          |                                                                                                 |
-
-### 감독 연혁
+## 역대 감독
 
   - 취임은 공식 취임식 일자이며 취임식이 없거나 미상인 경우 공식 선임 일자를 기재한다.
 
@@ -686,19 +441,287 @@
 </div></td>
 <td><p><a href="../Page/임완섭.md" title="wikilink">임완섭</a></p></td>
 <td><p>2020/02/06</p></td>
-<td></td>
+<td><p>2020/06/28</p></td>
 <td><p>2020</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><div style="text-align: center;">
+<p><a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">대행</a></p>
+</div></td>
+<td><p><a href="../Page/임중용.md" title="wikilink">임중용</a></p></td>
+<td><p>2020/06/29</p></td>
+<td><p>2020/08/06</p></td>
+<td><p>2020</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><div style ="text-align: center;">
+<p>11대</p>
+</div></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/조성환" title="wikilink">조성환</a></p></td>
+<td><p>2020/08/07</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
+
+## 우승 기록
+
+### 국내 대회
+
+#### 리그
+
+  - **[K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **준우승 (1)**: [2005](../Page/K리그_2005.md "wikilink")
+
+#### 컵
+
+  - **[FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")**
+
+<!-- end list -->
+
+  -
+
+    **준우승 (1)**: [2015](../Page/FA컵_2015.md "wikilink")
+
+## 역대 시즌 성적
+
+  -
+    {|class="wikitable"
+
+|-bgcolor="\#efefef" \! 시즌 \! 리그 \! 순위 \! 경기 \! 승 \! 무 \! 패 \! 득 \! 실 \! 승점 \! [리그컵](../Page/리그컵_\(대한민국\).md "wikilink") \! [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") \! 기타 \! 감독 |- |2004 |K리그 |align=right|**12** |align=right|24 |align=right|6 |align=right|8 |align=right|10 |align=right|20 |align=right|29 |align=right|**26** |8위 |32강 | |[로란트](../Page/베르너_로란트.md "wikilink")
+[장외룡](../Page/장외룡.md "wikilink") (대행) |- |2005 |K리그 |bgcolor=SILVER align=right|**2** |align=right|24 |align=right|13 |align=right|6 |align=right|5 |align=right|36 |align=right|26 |align=right|**45** |6위 |16강 | |[장외룡](../Page/장외룡.md "wikilink") |- |2006 |K리그 |align=right|**9** |align=right|26 |align=right|7 |align=right|12 |align=right|7 |align=right|24 |align=right|27 |align=right|**33** |14위 |bgcolor=\#CC9966|**4강** | |[장외룡](../Page/장외룡.md "wikilink") |- |2007 |K리그 |align=right|**9** |align=right|26 |align=right|8 |align=right|9 |align=right|9 |align=right|30 |align=right|32 |align=right|**33** |bgcolor=\#CC9966|**4강** |bgcolor=\#CC9966|**4강** | |[박이천](../Page/박이천.md "wikilink") (대행) |- |2008 |K리그 |align=right|**7** |align=right|26 |align=right|9 |align=right|9 |align=right|8 |align=right|29 |align=right|30 |align=right|**36** |A조 6위 |32강 | |[장외룡](../Page/장외룡.md "wikilink") |- |2009 |K리그 |align=right|**6** |align=right|28 |align=right|11 |align=right|10 |align=right|7 |align=right|31 |align=right|29 |align=right|**43** |8강 |32강 | |[페트코비치](../Page/일리야_페트코비치.md "wikilink") |- |2010 |K리그 |align=right|**11** |align=right|28 |align=right|8 |align=right|7 |align=right|13 |align=right|42 |align=right|51 |align=right|**31** |C조 4위 |8강 | |[페트코비치](../Page/일리야_페트코비치.md "wikilink")
+[김봉길](https://ko.wikipedia.org/wiki/김봉길 "wikilink") (대행)
+[허정무](../Page/허정무.md "wikilink") |- |2011 |K리그 |align=right|**13** |align=right|30 |align=right|6 |align=right|14 |align=right|10 |align=right|31 |align=right|40 |align=right|**30** |A조 4위 |16강 | |[허정무](../Page/허정무.md "wikilink") |- |2012 |K리그 |align=right|**9** |align=right|44 |align=right|17 |align=right|16 |align=right|11 |align=right|46 |align=right|40 |align=right|**67** | - |16강 | |[허정무](../Page/허정무.md "wikilink")
+[김봉길](https://ko.wikipedia.org/wiki/김봉길 "wikilink") (대행)
+[김봉길](https://ko.wikipedia.org/wiki/김봉길 "wikilink") |- |2013 |K리그 클래식 |align=right|**7** |align=right|38 |align=right|12 |align=right|14 |align=right|12 |align=right|48 |align=right|46 |align=right|**50** | - |8강 | |[김봉길](https://ko.wikipedia.org/wiki/김봉길 "wikilink") |- |2014 |K리그 클래식 |align=right|**10** |align=right|38 |align=right|8 |align=right|16 |align=right|14 |align=right|33 |align=right|46 |align=right|**40** | - |32강 | |[김봉길](https://ko.wikipedia.org/wiki/김봉길 "wikilink") |- |2015 |K리그 클래식 |align=right|**8** |align=right|38 |align=right|13 |align=right|12 |align=right|13 |align=right|35 |align=right|32 |align=right|**51** | - |bgcolor=SILVER|**준우승** | |[김도훈](../Page/김도훈_\(1970년\).md "wikilink") |- |2016 |K리그 클래식 |align=right|**10** |align=right|38 |align=right|11 |align=right|12 |align=right|15 |align=right|43 |align=right|51 |align=right|**45** | - |bgcolor=|8강 | |[김도훈](../Page/김도훈_\(1970년\).md "wikilink")
+[이기형](https://ko.wikipedia.org/wiki/이기형 "wikilink") (대행) |- |2017 |K리그 클래식 |align=right|**9** |align=right|38 |align=right|7 |align=right|18 |align=right|13 |align=right|32 |align=right|53 |align=right|**39** | - |32강 | |[이기형](https://ko.wikipedia.org/wiki/이기형 "wikilink") |- |2018 |K리그1 |align=right|**9** |align=right|38 |align=right|10 |align=right|12 |align=right|16 |align=right|55 |align=right|69 |align=right|**42** | - |16강 | |[이기형](https://ko.wikipedia.org/wiki/이기형 "wikilink")
+[박성철](../Page/박성철_\(축구인\).md "wikilink") (대행)
+[욘 안데르센](https://ko.wikipedia.org/wiki/욘_안데르센 "wikilink") |- |2019 |K리그1 |align=right|10 |align=right|38 |align=right|7 |align=right|13 |align=right|18 |align=right|33 |align=right|54 |align=right|34 | - |32강 | |[욘 안데르센](https://ko.wikipedia.org/wiki/욘_안데르센 "wikilink")
+[임중용](../Page/임중용.md "wikilink") (대행)
+[유상철](../Page/유상철.md "wikilink") |- |}
+
+## 기록과 통계
+
+### 주요 경기 기록
+
+  - 홈 경기에서의 첫 승리 : [2004년](../Page/2004년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") vs [감바 오사카](../Page/감바_오사카.md "wikilink")(스코어 : 4-0)
+  - 홈 경기에서의 첫 패배 : [2004년](../Page/2004년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") vs [울산 현대 호랑이](https://ko.wikipedia.org/wiki/울산_현대_호랑이 "wikilink")(스코어 : 2-3)
+  - [K리그](../Page/K리그.md "wikilink")에서의 첫 승리 : [2004년](../Page/2004년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") vs [성남 일화 천마](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink")(경기장 : [인천 문학 경기장](https://ko.wikipedia.org/wiki/인천_문학_경기장 "wikilink"), 스코어 : 1-0)
+  - [K리그](../Page/K리그.md "wikilink")에서의 첫 패배 : [2004년](../Page/2004년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") vs [포항 스틸러스](../Page/포항_스틸러스.md "wikilink")(경기장 : [포항 스틸러스](../Page/포항_스틸러스.md "wikilink"), 스코어 : 2-1)
+  - [K리그](../Page/K리그.md "wikilink") 통산 100승 : [2012년](../Page/2012년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") vs [울산 현대](https://ko.wikipedia.org/wiki/울산_현대 "wikilink") (경기장 : [울산문수축구경기장](../Page/울산문수축구경기장.md "wikilink"), 스코어 1-0)
+  - 최다 점수 차 승리 : [2004년](../Page/2004년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") vs [감바 오사카](../Page/감바_오사카.md "wikilink")(경기장 : [인천 문학 경기장](https://ko.wikipedia.org/wiki/인천_문학_경기장 "wikilink"), 스코어 : 4-0), [2010년](../Page/2010년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") vs [포항 스틸러스](../Page/포항_스틸러스.md "wikilink")(경기장 : [인천 문학 경기장](https://ko.wikipedia.org/wiki/인천_문학_경기장 "wikilink"), 스코어 : 4-0)
+  - 최다 점수 차 패배 : [2018년](../Page/2018년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") vs [강원FC](https://ko.wikipedia.org/wiki/강원FC "wikilink")(경기장 : [춘천 송암스포츠타운 주경기장](https://ko.wikipedia.org/wiki/춘천_송암스포츠타운_주경기장 "wikilink"), 스코어 : 0-7)
+  - [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink") 개장 경기 : [2012년](../Page/2012년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") vs [수원 삼성](https://ko.wikipedia.org/wiki/수원_삼성 "wikilink")(경기장 : [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink"), 스코어 : 0-2)
+  - 리그 명칭 클래식으로 변경 후 첫 경기 : [2013년](../Page/2013년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") vs [경남 FC](../Page/경남_FC.md "wikilink")(경기장 : [인천축구전용경기장](../Page/인천축구전용경기장.md "wikilink"), 스코어 : 0-0)
+
+### 주요 골 기록
+
+  - [K리그](../Page/K리그.md "wikilink") 1호골 : [2004년](../Page/2004년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") vs [포항 스틸러스](../Page/포항_스틸러스.md "wikilink"), [안젤코비치](https://ko.wikipedia.org/wiki/안젤코비치 "wikilink")
+  - [K리그](../Page/K리그.md "wikilink") 숭의개장 후 첫골 : [2012년](../Page/2012년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") vs [대전 시티즌](https://ko.wikipedia.org/wiki/대전_시티즌 "wikilink"), [설기현](../Page/설기현.md "wikilink")
+  - [K리그](../Page/K리그.md "wikilink") 400호골 : [2013년](../Page/2013년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") vs [제주 유나이티드](https://ko.wikipedia.org/wiki/제주_유나이티드 "wikilink"), [권정혁](../Page/권정혁.md "wikilink")
+  - K리그 700호골 : 2019년 9월 25일 vs 상주 상무 이우혁
+
+### 역대 최다 홈 관중수
+
+#### 인천축구전용경기장
+
+(2012년\~현재)
+
+  - 1위 : 18,541명 [2019년](../Page/2019년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink"). vs [제주유나이티드](https://ko.wikipedia.org/wiki/제주유나이티드 "wikilink")\[30\]
+  - 2위 : 17,262명 [2012년](../Page/2012년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink"). vs [수원 삼성 블루윙즈](../Page/수원_삼성_블루윙즈.md "wikilink")
+
+#### 인천문학경기장
+
+(2004년\~2011년) [2009년](../Page/2009년.md "wikilink") [5월 4일](../Page/5월_4일.md "wikilink") 기준\[31\]
+
+  - 1위 : 37,242명 - [2004년](../Page/2004년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink"), vs [울산 현대 호랑이](https://ko.wikipedia.org/wiki/울산_현대_호랑이 "wikilink")
+  - 2위 : 35,356명 - [2005년](../Page/2005년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink"), vs [울산 현대 호랑이](https://ko.wikipedia.org/wiki/울산_현대_호랑이 "wikilink")
+  - 3위 : 34,275명 - [2008년](../Page/2008년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink"), vs [부산 아이파크](../Page/부산_아이파크.md "wikilink")
+
+### 최다 경기 출장 선수
+
+[2017년](../Page/2017년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") 기준으로 K리그/리그컵 기준 인천 소속으로 출장한 경기 수\[32\]
+
+  - 1위 : [임중용](../Page/임중용.md "wikilink") : 220경기
+  - 2위 : [이윤표](../Page/이윤표.md "wikilink") : 213경기
+  - 3위 : [전재호](../Page/전재호.md "wikilink") : 212경기
+  - 4위 : [안재준](../Page/안재준.md "wikilink") : 156경기
+  - 5위 : [노종건](https://ko.wikipedia.org/wiki/노종건 "wikilink") : 132경기
+  - 6위 : [방승환](../Page/방승환.md "wikilink") : 127경기
+  - 7위 : [김학철](../Page/김학철_\(1972년\).md "wikilink") : 125경기
+  - 8위 : [라돈치치](https://ko.wikipedia.org/wiki/라돈치치 "wikilink") : 122경기
+  - 9위 : [김이섭](../Page/김이섭.md "wikilink") : 121경기
+  - 10위 : [박재현](../Page/박재현_\(축구_선수\).md "wikilink") : 97경기
+  - 11위 : [남준재](https://ko.wikipedia.org/wiki/남준재 "wikilink") : 94경기
+  - 12위 : [한교원](../Page/한교원.md "wikilink") : 93경기
+  - 13위 : [윤원일](../Page/윤원일_\(1983년\).md "wikilink") : 90경기
+  - 14위 : [권정혁](../Page/권정혁.md "wikilink") : 87경기
+  - 15위 : [박태민](../Page/박태민_\(축구_선수\).md "wikilink") : 85경기
+  - 16위 : [장경진](../Page/장경진.md "wikilink") : 84경기
+  - 17위 : [정혁](https://ko.wikipedia.org/wiki/정혁 "wikilink") : 82경기
+  - 18위 : [유병수](https://ko.wikipedia.org/wiki/유병수 "wikilink") : 78경기
+  - 19위 : [김상록](../Page/김상록_\(축구인\).md "wikilink") : 78경기
+  - 20위 : [설기현](../Page/설기현.md "wikilink") : 76경기
+  - 21위 : [드라간 믈라데노비치](../Page/드라간_믈라데노비치.md "wikilink") : 72경기
+  - 22위 : [유현](../Page/유현_\(축구_선수\).md "wikilink") : 71경기
+
+### 역대 인천 유나이티드 주장 선수
+
+  - [김현수](../Page/김현수_\(1973년_3월\).md "wikilink") : 2004년
+  - [임중용](../Page/임중용.md "wikilink") : 2005년 \~ 2008년 6월
+  - [노종건](https://ko.wikipedia.org/wiki/노종건 "wikilink") : 2008년 6월 \~ 12월
+  - [이준영](https://ko.wikipedia.org/wiki/이준영 "wikilink") : 2009년 \~ 2010년
+  - [전재호](../Page/전재호.md "wikilink") : 2010년
+  - [배효성](../Page/배효성_\(축구인\).md "wikilink") : 2011년\[33\]
+  - [정인환](../Page/정인환.md "wikilink") : 2012년
+  - [김남일](../Page/김남일.md "wikilink") : 2013년
+  - [박태민](../Page/박태민_\(축구_선수\).md "wikilink") : 2014년
+  - [유현](https://ko.wikipedia.org/wiki/유현 "wikilink") : 2015년 1월\~8월
+  - [김동석](../Page/김동석_\(축구_선수\).md "wikilink") : 2015년 8월\~2016년 8월
+  - [마테이 요니치](../Page/마테이_요니치.md "wikilink") : 2016년 9월 \~ 2016년 12월
+  - [김도혁](../Page/김도혁.md "wikilink") : 2017년 1월\~ 2017년 6월
+  - [최종환](../Page/최종환_\(축구_선수\).md "wikilink") : 2017년 6월 \~ 2019년 2월
+  - [남준재](https://ko.wikipedia.org/wiki/남준재 "wikilink") : 2019년 2월 \~ 2019년 7월
+  - [정산](../Page/정산_\(축구_선수\).md "wikilink") : 2019년 7월 \~ 2019년 12월
+  - [김호남](../Page/김호남_\(축구_선수\).md "wikilink") :2020년 3월 \~ 현재
+
+### 인천에서 은퇴한 선수
+
+  - [이장관](../Page/이장관.md "wikilink") : 2008년 : DF : 인천 문학 경기장에서 은퇴
+  - [김학철](https://ko.wikipedia.org/wiki/김학철 "wikilink") : 2008년 : DF : 시즌 종료 뒤 은퇴선언
+  - [임중용](../Page/임중용.md "wikilink") : 2011년 : DF : K리그 2011시즌 30R [상주상무전에서](../Page/상주_상무_축구단.md "wikilink") 은퇴
+  - [김이섭](../Page/김이섭.md "wikilink") : 2010년 : GK : 2010시즌 종료 뒤 은퇴
+  - [이천수](../Page/이천수.md "wikilink") : 2015년 : FW : 2015시즌 종료 뒤 은퇴선언
+
+## 올 시즌 선수단과 스태프
+
+### 선수단
+
+[2020년](../Page/2020년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") 기준             [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
+
+### 임대 및 군 복무 중인 선수
+
+### 코칭스태프
+
+<table>
+<thead>
+<tr class="header">
+<th><p>직위</p></th>
+<th><p>이름</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>감독</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/조성환" title="wikilink">조성환</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>수석코치</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/최영근" title="wikilink">최영근</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>코치</p></td>
+<td><p><a href="../Page/박용호_(축구인).md" title="wikilink">박용호</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>골키퍼 코치</p></td>
+<td><p><a href="../Page/김이섭.md" title="wikilink">김이섭</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>코치</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김재성_(축구_선수)" title="wikilink">김재성</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>코치</p></td>
+<td><p>정영환</p></td>
+<td><p>전술/전력분석코치</p></td>
+</tr>
+<tr class="odd">
+<td><p>피지컬 코치</p></td>
+<td><p>바우지니</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>스포츠메디컬 수석트레이너</p></td>
+<td><p>이승재</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>스포츠메디컬 트레이너</p></td>
+<td><p>이동원</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>스포츠메디컬 트레이너</p></td>
+<td><p>김현진</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>장비담당관</p></td>
+<td><p>조용희</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>전력분석관</p></td>
+<td><p>김진교</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 유소년팀 코칭스태프
+
+| 직위                                                                   | 이름                                       | 비고                                                                                              |
+| -------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| U-18 [대건고](https://ko.wikipedia.org/wiki/인천대건고 "wikilink") 감독        | [김정우](../Page/김정우_\(축구인\).md "wikilink") |                                                                                                 |
+| U-18 [대건고](https://ko.wikipedia.org/wiki/인천대건고 "wikilink") 코치        | 최재영                                      |                                                                                                 |
+| U-18 [대건고](https://ko.wikipedia.org/wiki/인천대건고 "wikilink") 골키퍼 코치    | 윤진호                                      |                                                                                                 |
+| U-15 [광성중](https://ko.wikipedia.org/wiki/광성중학교_\(인천\) "wikilink") 감독 | 이성규                                      | U-15 광성중 코치, U-12 감독 역임                                                                         |
+| U-12 감독                                                              | 이재홍                                      | 유상철축구교실 U-12 감독, 방이중, 울산대, [서울이랜드](https://ko.wikipedia.org/wiki/서울이랜드 "wikilink") U-18 코치 등 역임 |
+| U-12 코치                                                              | 조동욱                                      |                                                                                                 |
+| U-12 코치                                                              | 한승호                                      |                                                                                                 |
+| 유소년 전담 의무트레이너                                                        | 이동원                                      |                                                                                                 |
+|                                                                      |                                          |                                                                                                 |
+
+### 운영진
+
+  - 구단주: [박남춘](../Page/박남춘.md "wikilink") ([인천광역시장](../Page/인천광역시장.md "wikilink"))
+  - 대표이사: 전달수
+  - 전력강화실 기술이사 : [임중용](../Page/임중용.md "wikilink")
 
 ## 기타
 
   - 인천 유나이티드의 단가는 가수 [부활이](../Page/부활_\(밴드\).md "wikilink") 부른 노래 '새벽'이다. 부활의 리더 겸 기타리스트 [김태원이](../Page/김태원_\(음악인\).md "wikilink") 작사, 작곡을 한 노래로써 조용하고 차분한 분위기가 특징적인 곡이다.
   - 인천 유나이티드의 상징색은 [검정색](https://ko.wikipedia.org/wiki/검정색 "wikilink")과 [파란색](https://ko.wikipedia.org/wiki/파란색 "wikilink")이며 홈 유니폼도 이 색을 채택한 세로 줄무늬 유니폼이다. 인천과 같은 상징색을 가지고 있는 구단으로는 [이탈리아](../Page/이탈리아.md "wikilink") [세리에 A의](../Page/세리에_A.md "wikilink") 명문 구단 [FC 인테르나치오날레 밀라노](../Page/FC_인테르나치오날레_밀라노.md "wikilink"), [일본](../Page/일본.md "wikilink") [J리그](../Page/J리그.md "wikilink")의 [감바 오사카등이](../Page/감바_오사카.md "wikilink") 있다. 특히 감바 오사카는 인천과 3번의 교류전을 가진 바 있는데 [2004년 3월과](../Page/2004년_3월.md "wikilink") [2005년 2월](https://ko.wikipedia.org/wiki/2005년_2월 "wikilink"), 그리고 [2008년 6월에](../Page/2008년_6월.md "wikilink") 경기를 가졌었다. 2004년 경기에서는 인천이 4-0으로 승리했었으나 2005년에는 0-1로 패배했다.\[34\] 가장 최근에 있었던 2008년의 교류전에서는 1-1로 무승부를 기록했다.
   - 인천의 구단 캐치프레이즈는 **우리는 인천**이다. [2013년](../Page/2013년.md "wikilink") 팀 창단 10주년을 맞이해 **인천축구지대본**이라는 캐치프레이즈를 사용했고 2014년 **승리 그 이상의 감동**, 2015년 **PLAY TOGETHER**이라는 캐치프레이즈를 사용했다.
-  - 이 팀이 창단되기 전의 인천 시민들은 주로 [부천 SK를](https://ko.wikipedia.org/wiki/부천_SK "wikilink") 응원하였으나, 현재 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 주민들은 주로 이 팀을 응원한다.
   - 인천 유나이티드는 [K리그](../Page/K리그.md "wikilink") 승강제 도입 이후 시도민구단 유일하게 강등경험을 하지 않은 팀이다.
 
 ## 스폰서
@@ -706,7 +729,7 @@
   - [신한은행](../Page/신한은행.md "wikilink")
   - [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")
   - [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")
-  - [마크론](https://ko.wikipedia.org/wiki/마크론 "wikilink")
+  - [마크론](../Page/마크론.md "wikilink")
   - [인천경제자유구역](../Page/인천경제자유구역.md "wikilink")
   - [롯데백화점](../Page/롯데백화점.md "wikilink")
   - [쉐보레](../Page/쉐보레.md "wikilink")
@@ -761,8 +784,8 @@
 27.
 28.
 29.
-30. 인천 유나이티드 공식 매치데이 프로그램《The United》Volume06 Issue05 p.34 인용
-31. 초기 작성시 인천 유나이티드 공식 매치데이 프로그램《The United》Volume08 Issue09 p.25를 인용했음
-32.
+30.
+31. 인천 유나이티드 공식 매치데이 프로그램《The United》Volume06 Issue05 p.34 인용
+32. 초기 작성시 인천 유나이티드 공식 매치데이 프로그램《The United》Volume08 Issue09 p.25를 인용했음
 33.
 34.

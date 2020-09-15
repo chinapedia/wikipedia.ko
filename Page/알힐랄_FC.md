@@ -60,7 +60,7 @@
 
 ### 현재 선수단
 
-*2017년 1월 19일 기준*            [16px](https://ko.wikipedia.org/wiki/파일:Vice_Captain_Sports.gif "wikilink")
+*2017년 1월 19일 기준*
 
 ## 수상
 

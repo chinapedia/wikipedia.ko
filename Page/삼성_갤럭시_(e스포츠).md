@@ -176,7 +176,7 @@
 
 ## 같이 보기
 
-  - [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")
+  - [Gen.G e스포츠](../Page/Gen.G_e스포츠.md "wikilink")
 
 ## 외부 링크
 

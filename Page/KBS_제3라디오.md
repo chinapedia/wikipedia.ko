@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 제3라디오](https://ko.wikipedia.org/wiki/KBS_제3라디오).
 
 
-**KBS 제3라디오**([호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink"): **HLKC**, 별칭: **사랑의 소리 방송**)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [라디오](../Page/라디오.md "wikilink") 채널이다. [장애인](../Page/장애인.md "wikilink") 등 소외계층을 위한 [복지](https://ko.wikipedia.org/wiki/사회복지 "wikilink") 정보, [정책](https://ko.wikipedia.org/wiki/정책 "wikilink"), 일상 정보 등을 방송한다. [1995년](../Page/1995년.md "wikilink") [12월 20일에](../Page/12월_20일.md "wikilink") [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink") FM 방송의 부가 음성으로 시작하여 [2000년](../Page/2000년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") [KBS 제2라디오의](../Page/KBS_제2라디오.md "wikilink") 중파 주파수를 편입, 별도의 AM 라디오 방송망을 구축하며 KBS 제3라디오라는 이름을 얻었다. 방송되는 프로그램 중 [내일은 푸른하늘은](../Page/내일은_푸른하늘.md "wikilink") [2003년](../Page/2003년.md "wikilink") [7월 14일부터](../Page/7월_14일.md "wikilink") [KBS 제1라디오에서](../Page/KBS_제1라디오.md "wikilink") 넘어온 프로그램이다. 라디오 채널 특성상 재방송 편성 비율이 많은 채널이다.
+**KBS 제3라디오**([호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink"): **HLKC**, 별칭: **사랑의 소리 방송**)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [라디오](../Page/라디오.md "wikilink") 채널이다. [장애인](../Page/장애인.md "wikilink") 등 소외계층을 위한 [복지](https://ko.wikipedia.org/wiki/사회복지 "wikilink") 정보, [정책](https://ko.wikipedia.org/wiki/정책 "wikilink"), [사회복지공동모금회](../Page/사회복지공동모금회.md "wikilink") 일상 정보 등을 방송한다. [1995년](../Page/1995년.md "wikilink") [12월 20일에](../Page/12월_20일.md "wikilink") [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink") FM 방송의 부가 음성으로 시작하여 [2000년](../Page/2000년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") [KBS 제2라디오의](../Page/KBS_제2라디오.md "wikilink") 중파 주파수를 편입, 별도의 AM 라디오 방송망을 구축하며 KBS 제3라디오라는 이름을 얻었다. 방송되는 프로그램 중 [내일은 푸른하늘은](../Page/내일은_푸른하늘.md "wikilink") [2003년](../Page/2003년.md "wikilink") [7월 14일부터](../Page/7월_14일.md "wikilink") [KBS 제1라디오에서](../Page/KBS_제1라디오.md "wikilink") 넘어온 프로그램이다. 라디오 채널 특성상 재방송 편성 비율이 많은 채널이다.
 
 ## 역사
 
@@ -19,17 +19,17 @@
 
 ## 방송 프로그램
 
-**2020년 5월 12일 기준**
+**2020년 5월 25일 기준**
 
-  - 정시 뉴스 (오전 10시, 낮 12시, 오후 2시)\[6\]
+  - [정시 뉴스](https://ko.wikipedia.org/wiki/KBS_제3라디오_뉴스 "wikilink") (오전 10시, 낮 12시, 오후 2시)\[6\]
   - 06:00《[대한민국 인기가요](../Page/대한민국_인기가요.md "wikilink")》(00:00 재방송) - [임지훈](../Page/임지훈_\(가수\).md "wikilink")
   - 07:00《[연속낭독](https://ko.wikipedia.org/wiki/연속낭독 "wikilink")》(20:00 재방송)
   - 07:20《[라디오 극장](https://ko.wikipedia.org/wiki/라디오_극장 "wikilink")》(평일)
   - 07:20《[다큐멘터리 역사를 찾아서](../Page/다큐멘터리_역사를_찾아서.md "wikilink")》(주말)
   - 07:40《[라디오 여행기](https://ko.wikipedia.org/wiki/라디오_여행기 "wikilink")》(20:40 재방송)
   - 08:00《[아름다운 우리가곡](https://ko.wikipedia.org/wiki/아름다운_우리가곡 "wikilink")》(16:00 재방송)
-  - 08:05《[건강 365](../Page/건강_365.md "wikilink")》(16:05 재방송) - 평일 : [최윤경](../Page/최윤경.md "wikilink") 아나운서 / 주말 : 박광식 의학전문기자
-  - 09:00《[함께하는 세상 만들기](https://ko.wikipedia.org/wiki/함께하는_세상_만들기 "wikilink")》(22:00 재방송) - [장웅](../Page/장웅_\(아나운서\).md "wikilink") 아나운서
+  - 08:05《[건강 365](../Page/건강_365.md "wikilink")》(16:05 재방송) - 평일 : [최윤경](../Page/최윤경.md "wikilink") 아나운서 / 주말 : 박광식 의학전문기자 [엄지인](../Page/엄지인.md "wikilink") 아나운서(예정)
+  - 09:00《[함께하는 세상 만들기](../Page/함께하는_세상_만들기.md "wikilink")》(22:00 재방송) - [장웅](../Page/장웅_\(아나운서\).md "wikilink") 아나운서
   - 10:05《[오늘의 신문](https://ko.wikipedia.org/wiki/오늘의_신문 "wikilink")》(평일) - [원석현](../Page/원석현.md "wikilink") 아나운서
   - 10:00《[경제로 통일로](https://ko.wikipedia.org/wiki/경제로_통일로 "wikilink")》(토요일)
   - 10:00《[통일사용설명서](https://ko.wikipedia.org/wiki/통일사용설명서 "wikilink")》(일요일)

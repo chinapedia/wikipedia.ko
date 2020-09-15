@@ -42,7 +42,7 @@
 <td><p><a href="../Page/축구.md" title="wikilink">축구</a></p></td>
 <td><p><a href="../Page/김동완_(축구인).md" title="wikilink">김동완</a>, <a href="../Page/장지현.md" title="wikilink">장지현</a>, <a href="https://ko.wikipedia.org/wiki/이황재" title="wikilink">이황재</a>,</p></td>
 <td><p>SBS TV/RADIO<br />
-<a href="https://ko.wikipedia.org/wiki/프리미어리그" title="wikilink">프리미어리그</a>, <a href="https://ko.wikipedia.org/wiki/FA컵_(잉글랜드)" title="wikilink">FA컵</a>, <a href="https://ko.wikipedia.org/wiki/리그_1" title="wikilink">리그 1</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/리그_1" title="wikilink">리그 1</a> , <a href="../Page/쿠프_드_프랑스.md" title="wikilink">쿠프 드 프랑스</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/피겨스케이팅.md" title="wikilink">피겨스케이팅</a></p></td>
@@ -56,11 +56,11 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/프로_야구" title="wikilink">프로 야구</a>(<a href="https://ko.wikipedia.org/wiki/KBO_리그" title="wikilink">KBO 리그</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이순철" title="wikilink">이순철</a>, <a href="../Page/안경현.md" title="wikilink">안경현</a>, <a href="../Page/이종열.md" title="wikilink">이종열</a>, <a href="../Page/최원호_(야구인).md" title="wikilink">최원호</a>, <a href="https://ko.wikipedia.org/wiki/이승엽" title="wikilink">이승엽</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이순철" title="wikilink">이순철</a>, <a href="../Page/안경현.md" title="wikilink">안경현</a>, <a href="../Page/이동현_(1983년).md" title="wikilink">이동현</a>, <a href="https://ko.wikipedia.org/wiki/이승엽" title="wikilink">이승엽</a></p></td>
 <td><p>SBS TV/RADIO</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/대한민국의_고교_야구.md" title="wikilink">고교야구</a>, 대학야구</p></td>
+<td><p><a href="../Page/대한민국의_고교_야구.md" title="wikilink">고교야구</a>, <a href="../Page/대한민국의_대학_야구.md" title="wikilink">대학야구</a></p></td>
 <td><p><a href="../Page/이광권.md" title="wikilink">이광권</a></p></td>
 <td></td>
 </tr>
@@ -114,6 +114,7 @@
 
 ## 같이 보기
 
+  - [베이스볼 S](../Page/베이스볼_S.md "wikilink")
   - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
   - [KBS N 스포츠](../Page/KBS_N_스포츠.md "wikilink")
   - [MBC 스포츠+](https://ko.wikipedia.org/wiki/MBC_스포츠+ "wikilink")

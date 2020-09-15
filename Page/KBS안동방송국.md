@@ -219,6 +219,6 @@
 
 ## 외부 링크
 
-  - [KBS 안동방송국 홈페이지](http://andong.kbs.co.kr/)
+  - [KBS 안동방송국 홈페이지](https://web.archive.org/web/20110719181546/http://andong.kbs.co.kr/)
 
 [안동](https://ko.wikipedia.org/wiki/분류:한국방송공사의_지역방송국 "wikilink") [분류:1976년 설립](https://ko.wikipedia.org/wiki/분류:1976년_설립 "wikilink") [분류:대한민국의 경상북도 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_경상북도_지상파_방송국 "wikilink") [분류:안동시](https://ko.wikipedia.org/wiki/분류:안동시 "wikilink")

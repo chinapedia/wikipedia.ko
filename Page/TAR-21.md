@@ -91,7 +91,7 @@ IWI의 이전작 이던 갈릴(Galil)도 그랬듯이 타보르 또한 이스라
 
   - [Israel Weapon Industries (I.W.I.): TAVOR T.A.R 21 5.56 mm](https://web.archive.org/web/20100927080156/http://www.israel-weapon.com/default.asp?catid=%7BBE33B6E6-080B-45B8-AD85-C4E1E40D0422%7D)
   - [Israel Weapon Industries (I.W.I.): Micro TAVOR M.T.A.R 21 5.56 mm / 9 X 19 mm](https://web.archive.org/web/20160725112437/http://www.israel-weapon.com/default.asp?catid=%7B184BBB3C-DBA5-445D-A83A-C73E6A6D53B4%7D)
-  - [Tavor](http://www.israeli-weapons.com/weapons/small_arms/tavor/Tavor.html) Israeli Weapons: The TAR-21 Tavor assault rifle
+  - [Tavor](https://web.archive.org/web/20080927153900/http://www.israeli-weapons.com/weapons/small_arms/tavor/Tavor.html) Israeli Weapons: The TAR-21 Tavor assault rifle
   - [Tavor-2](https://web.archive.org/web/20090214205504/http://defense-update.com/news/62302tavor2.htm) : Tavor-2 Advanced Assault rifle and [Micro-Tavor](https://web.archive.org/web/20091231031245/http://defense-update.com/products/m/micro-tavor.htm)
   - [Modern Firearms](http://world.guns.ru/assault/as30-e.htm)
   - [Arms World](http://www.enemyforces.com/firearms/tavor.htm)

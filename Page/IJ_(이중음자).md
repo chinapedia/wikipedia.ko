@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IJ \(이중음자\)](https://ko.wikipedia.org/wiki/IJ_\(이중음자\)).
 
 
-**IJ**(소문자 **ij**)는 [i](https://ko.wikipedia.org/wiki/i "wikilink")와 [j](https://ko.wikipedia.org/wiki/j "wikilink")를 합친 [이중음자](https://ko.wikipedia.org/wiki/이중음자 "wikilink")이다. 보통은 두 문자가 서로 연결되어 있지 않고 사이의 간격만 좁을 뿐이다. 일부의 경우 [합자](https://ko.wikipedia.org/wiki/합자 "wikilink")로 쓰이는 경우도 있고, 드물게는 독립적인 글자로 분류하는 경우도 있다.
+**IJ**(소문자 **ij**)는 [i](https://ko.wikipedia.org/wiki/i "wikilink")와 [j](https://ko.wikipedia.org/wiki/j "wikilink")를 합친 [이중음자](../Page/이중음자.md "wikilink")이다. 보통은 두 문자가 서로 연결되어 있지 않고 사이의 간격만 좁을 뿐이다. 일부의 경우 [합자](https://ko.wikipedia.org/wiki/합자 "wikilink")로 쓰이는 경우도 있고, 드물게는 독립적인 글자로 분류하는 경우도 있다.
 
 ## 사용
 

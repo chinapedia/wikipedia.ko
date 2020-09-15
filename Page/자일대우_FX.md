@@ -5,7 +5,7 @@
 
 ## 개요
 
-[대우 BH](../Page/대우_BH.md "wikilink") 시리즈의 후속이자 [자일대우 BX의](../Page/자일대우_BX.md "wikilink") 하급모델로 [1985년](../Page/1985년.md "wikilink") 이후 22년 만에 풀 모델 체인지로 출시하였다.\[1\] [대한민국](../Page/대한민국.md "wikilink")에서 제작된 [버스](../Page/버스.md "wikilink")로는 3번째로 독자 개발되었으며\[2\], 대한민국에서 최초로 차체 일체형 스포일러를 적용하였고, 하부 바디 패널에 FRP 수지를 사용하였으며 모든 모델에 원 유닛형 루프온 에어컨이 기본 장착된다. 그리고 [BH 시리즈와](../Page/대우_BH.md "wikilink") 달리 루프 안테나가 적용되었다.\[3\][2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink")부터 일부 결함과 사양을 개선한 FXⅡ시리즈가 출시되어 판매 중이다. [2016년](../Page/2016년.md "wikilink") [8월](../Page/8월.md "wikilink")에 차량명칭과 실내일부가 바뀌었으며 FXII에서 FX로 환원되고 스탠더드 데크 모델에만 스포일러 디자인이 변경되었으며, [2017년](../Page/2017년.md "wikilink")부터는 긴급제동 시스템인 AEBS가 추가되었다. [2020년](../Page/2020년.md "wikilink")부터는 뒷면에 DAEWOO 엠블럼이 **ZYLE DAEWOO** 엠블럼으로 변경되었다.
+[대우 BH](../Page/대우_BH.md "wikilink") 시리즈의 후속이자 [자일대우 BX의](../Page/자일대우_BX.md "wikilink") 하급모델로 [1985년](../Page/1985년.md "wikilink") 이후 22년 만에 풀 모델 체인지로 출시하였다.\[1\] [대한민국](../Page/대한민국.md "wikilink")에서 제작된 [버스](../Page/버스.md "wikilink")로는 3번째로 독자 개발되었으며\[2\], 대한민국에서 최초로 차체 일체형 스포일러를 적용하였고, 하부 바디 패널에 FRP 수지를 사용하였으며 모든 모델에 원 유닛형 루프온 에어컨이 기본 장착된다. 그리고 [BH 시리즈와](../Page/대우_BH.md "wikilink") 달리 루프 안테나가 적용되었다.\[3\][2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink")부터 일부 결함과 사양을 개선한 FXⅡ시리즈가 출시되어 판매중이며, [2013년](../Page/2013년.md "wikilink")부터는 후진 경고음이 추가되었다. [2016년](../Page/2016년.md "wikilink") [8월](../Page/8월.md "wikilink")에 차량명칭과 실내일부가 바뀌었으며 FXII에서 FX로 환원되고 스탠더드 데크 모델에만 스포일러 디자인이 변경되었으며, [2017년](../Page/2017년.md "wikilink")부터는 긴급제동 시스템인 AEBS가 추가되었다. [2020년](../Page/2020년.md "wikilink")부터는 뒷면에 DAEWOO 엠블럼에서 **ZYLE DAEWOO** 엠블럼으로 변경되었다가 그 해 하반기부터는 [코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink")에 따른 수요 감소와 실적 악화 등을 이유로 자일대우상용차 생산공장인 울산공장이 폐쇄되고 베트남으로 이전할 예정이며, 해당된 차종은 자일대우상용차 베트남공장에서 제작하여 수입하는 방식으로 들어올 예정이다.
 
 ## 세부 정보
 
@@ -23,7 +23,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:FX116_Cruising_Arrow.PNG "wikilink") 11.6m급 스탠더드 데크 모델로, 에어 서스펜션을 사용한다. 시내형(전중문형)과 시외형 모델로 나뉘며 **BH116 로얄럭셔리(BH시리즈 제2세대 모델)**의 후속으로 유로4 DL08K (340마력) 및 옵션으로 유로5 DV11K (400마력) [엔진](../Page/엔진.md "wikilink")을 사용한다. 보통 시내형은 폴딩 도어가 기본 사양이며, 스윙 도어는 선택할 수 없다.\[5\] 시외형은 스윙 도어가 기본 사양이다. 폴딩 도어는 옵션으로 선택 가능하다. [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink"), [고급 좌석](../Page/좌석버스.md "wikilink") 모델이 출시되었다.
 
-아래는 FX116 Cruising Arrow 모델을 현재 운영중인 노선버스 업체의 목록이다.
+아래는 FX116 Cruising Arrow 모델을 현재 운영중이거나 과거에 보유했던 노선버스 업체의 목록이다.
 
   - [경기고속](../Page/경기고속.md "wikilink")
   - [경기버스](../Page/경기버스_\(기업\).md "wikilink")
@@ -35,13 +35,6 @@
   - [광우고속](../Page/광우고속.md "wikilink")
   - [태화상운](../Page/태화상운_\(안산시\).md "wikilink")
   - [남성교통](../Page/남성교통.md "wikilink")
-  - [삼신교통](../Page/삼신교통.md "wikilink")
-  - [부일여객](../Page/부일여객.md "wikilink")
-  - [해동여객](../Page/해동여객.md "wikilink")
-  - [부산여객](../Page/부산여객.md "wikilink")
-
-아래는 과거에 FX116 크루징애로우를 운영하였던 노선버스 업체 목록이다.
-
   - [코리아와이드대성](../Page/코리아와이드대성.md "wikilink")\[6\]
   - [금강고속](../Page/금강고속.md "wikilink")
   - [일광여객](../Page/일광여객.md "wikilink")\[7\]
@@ -49,6 +42,9 @@
   - [중부고속](../Page/중부고속.md "wikilink")\[8\]
   - 강남고속
   - [화영운수](../Page/화영운수.md "wikilink")
+  - [부일여객](../Page/부일여객.md "wikilink")
+  - [부산여객](../Page/부산여객.md "wikilink")
+  - [삼신교통](../Page/삼신교통.md "wikilink")
   - [안전여객](https://ko.wikipedia.org/wiki/안전여객_\(전북\) "wikilink")
   - [코리아와이드 경북](https://ko.wikipedia.org/wiki/코리아와이드_경북 "wikilink")\[9\]
   - [선진고속](../Page/선진고속_\(안산시\).md "wikilink")
@@ -62,7 +58,7 @@
 
 11.6m급 스탠더드 데크 모델로, 에어 서스펜션을 사용한다. 기존 FX116 크루징애로우에 시트 디자인 변경과 운전석자리를 늘렸으며,\[12\] 외관상의 변화는 FXⅡ116의 엠블럼으로 바뀐거 외에는 없다. 또한 [2010년](../Page/2010년.md "wikilink") [5월](../Page/5월.md "wikilink")에는 공개 입찰을 통하여 [대한석유협회](https://ko.wikipedia.org/wiki/대한석유협회 "wikilink")와 [한국기계연구원](../Page/한국기계연구원.md "wikilink")이 공동 개발하는 [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") [하이브리드](https://ko.wikipedia.org/wiki/하이브리드 "wikilink") [버스](../Page/버스.md "wikilink")의 제작 사업권자로 [대우버스](https://ko.wikipedia.org/wiki/대우버스 "wikilink")가 낙찰되면서\[13\] [디젤](https://ko.wikipedia.org/wiki/디젤 "wikilink") [하이브리드](https://ko.wikipedia.org/wiki/하이브리드 "wikilink") [버스](../Page/버스.md "wikilink")의 베이스 모델로 채택되어 [2011년](../Page/2011년.md "wikilink") [6월](../Page/6월.md "wikilink")부터 [과천](../Page/과천시.md "wikilink"), [부산](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [대구](../Page/대구광역시.md "wikilink"), [2012 여수엑스포](../Page/2012년_세계_박람회.md "wikilink") 조직위원회 등 4개 도시에서 시범 운행을 시작하고 있다.\[14\] 그중 [2012년 세계 박람회](../Page/2012년_세계_박람회.md "wikilink") 조직위원회에서 운행하였던 차량은 [세종시](../Page/세종특별자치시.md "wikilink") [세종교통](../Page/세종교통.md "wikilink")에 매각했다.\[15\] [2013년](../Page/2013년.md "wikilink") [12월](../Page/12월.md "wikilink")에 선보인 [2014년](../Page/2014년.md "wikilink")식 부터 폴딩도어 테두리 색상이 베이지색에서 회색으로 변경되었으며, [2014년](../Page/2014년.md "wikilink") [12월](../Page/12월.md "wikilink")에 선보인 2015년형부터 유로6 엔진 적용 및 사이드 마커램프가 적용되고, 외관과 내관이 약간 변경되었으며, [고급 좌석](../Page/좌석버스.md "wikilink") 45인승 모델이 추가 되었다.\[16\] [2015년](../Page/2015년.md "wikilink") 부터는 두산인프라코어가 유로6 엔진개발을 중지함에 따라 유로 6 규정에 적합한 커민스 ISL엔진을 사용한다. 그리고 스커트 패널에 마커등이 추가된데 이어, 같은해 [11월](../Page/11월.md "wikilink")에 선보인 [2016년](../Page/2016년.md "wikilink")식 부터 데쉬보드에 오디오는 [USB](../Page/USB.md "wikilink") 단자가 추가되었다.
 
-아래는 FXⅡ116 크루징애로우 모델을 현재 운영중인 노선버스 업체 목록이다.
+아래는 FXⅡ116 크루징애로우 모델을 현재 운영중인 업체 목록이다.
 
   - [태영버스](../Page/태영버스.md "wikilink")
   - [태영공항리무진](../Page/태영공항리무진.md "wikilink")
@@ -70,13 +66,13 @@
   - [경기버스](../Page/경기버스_\(기업\).md "wikilink")
   - [경기상운](../Page/경기상운.md "wikilink")
   - [경기여객](../Page/경기여객.md "wikilink")
+  - [경기운수](../Page/경기운수.md "wikilink")
   - [대원고속](../Page/대원고속.md "wikilink")
   - [대원버스](../Page/대원버스.md "wikilink")
   - [대원운수](../Page/대원운수.md "wikilink")
   - [화성여객](../Page/화성여객.md "wikilink")
   - [코리아와이드대성](../Page/코리아와이드대성.md "wikilink")
   - [태화상운](../Page/태화상운_\(안산시\).md "wikilink")
-  - [경원여객](../Page/경원여객_\(경기\).md "wikilink")
   - [동원여객](../Page/동원여객.md "wikilink")
   - [부산여객](../Page/부산여객.md "wikilink")
   - [부일여객](../Page/부일여객.md "wikilink")
@@ -98,15 +94,16 @@
   - [선진고속](../Page/선진고속_\(안산시\).md "wikilink")
   - [삼흥고속](../Page/삼흥고속.md "wikilink")
 
-아래는 과거에 FXⅡ116 크루징애로우를 운영했었던 노선버스 업체 목록이다.
+아래는 FXⅡ116 크루징애로우 모델을 과거에 운영했던 노선버스 업체 목록이다.
 
   - [새천년미소](../Page/새천년미소.md "wikilink")
   - [푸른교통](../Page/푸른교통.md "wikilink")
   - [(주)세원](../Page/세원_\(버스_기업\).md "wikilink")
+  - [경원여객](../Page/경원여객_\(경기\).md "wikilink")
 
 #### FXⅡ116S
 
-외관상으로는 엠블럼 이외에는 FXⅡ116 크루징애로우와 같은 차종이다. 대우버스 카달로그 에도 등장하지 않는 차종이어서 많은 사람들이 잘 모르고 있는 차종 중 하나이다. 정식 명칭은 FXⅡ116 <ins>S</ins>pecial이다. FXⅡ116S는 FXⅡ116 크루징 애로우의 여러 옵션들을 뺀 차량으로, FXⅡ116 크루징 애로우보다 약 1,000만원 정도 저렴하다. 그러나 이 차종은 카달로그에도 없는 유명하지 않은 차량이어서, 현재 이 차종을 투입한 회사는 거의 없어 전국노선버스 업체로는 [태영공항리무진](../Page/태영공항리무진.md "wikilink")이 유일하게 출고 했다. [2015년](../Page/2015년.md "wikilink")에는 스커트 판넬에 마커등이 추가된데 이어, 같은해 [11월](../Page/11월.md "wikilink")에 선보인 [2016년](../Page/2016년.md "wikilink")식 부터 데쉬보드에 오디오는 [USB](../Page/USB.md "wikilink") 단자가 추가되었다. [2016년](../Page/2016년.md "wikilink") [6월](../Page/6월.md "wikilink")에는 단종되었다.
+외관상으로는 엠블럼 이외에는 FXⅡ116 크루징애로우와 같은 차종이다. 대우버스 카달로그 에도 등장하지 않는 차종이어서 많은 사람들이 잘 모르고 있는 차종 중 하나이다. 정식 명칭은 FXⅡ116 <ins>S</ins>pecial이다. FXⅡ116S는 FXⅡ116 크루징 애로우의 여러 옵션들을 뺀 차량으로, FXⅡ116 크루징 애로우보다 약 1,000만원 정도 저렴하다. 그러나 이 차종은 카달로그에도 없는 유명하지 않은 차량이어서, 현재 이 차종을 투입한 회사는 거의 없어 노선버스 업체로는 [태영공항리무진](../Page/태영공항리무진.md "wikilink")이 유일하게 출고 했다. [2015년](../Page/2015년.md "wikilink")에는 스커트 판넬에 마커등이 추가된데 이어, 같은해 [11월](../Page/11월.md "wikilink")에 선보인 [2016년](../Page/2016년.md "wikilink")식 부터 데쉬보드에 오디오는 [USB](../Page/USB.md "wikilink") 단자가 추가되었다. [2016년](../Page/2016년.md "wikilink") [6월](../Page/6월.md "wikilink")에는 단종되었다.
 
 #### FX116 하모니
 
@@ -171,9 +168,12 @@
   - [삼흥고속](../Page/삼흥고속.md "wikilink")
   - [강원여객](../Page/강원여객.md "wikilink")·강원흥업
   - [코리아와이드 경북](https://ko.wikipedia.org/wiki/코리아와이드_경북 "wikilink")
-  - [경일교통](../Page/경일교통.md "wikilink")
-  - [선진고속](../Page/선진고속_\(안산시\).md "wikilink")
   - [동해상사고속](../Page/동해상사고속.md "wikilink")
+
+아래는 FXⅡ120 크루징스타 모델을 과거에 운영했었던 노선버스 업체의 목록이다.
+
+  - [선진고속](../Page/선진고속_\(안산시\).md "wikilink")
+  - [경일교통](../Page/경일교통.md "wikilink")
 
 #### FXⅡ120S
 
@@ -232,7 +232,7 @@
 
 #### FX212 슈퍼스타
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Kangwon_FX212_Superstar.jpg "wikilink") 12m급 하이데크 모델이다. FXⅡ에서 다시 FX 로 회귀 했으며 스포일러는 SD급과 달리 큰 변화가 없다. [2016년](../Page/2016년.md "wikilink") [6월](../Page/6월.md "wikilink")부터 시판되었다. [현대 유니버스나](../Page/현대_유니버스.md "wikilink") [기아 뉴그랜버드](../Page/기아_그랜버드.md "wikilink") 인기에 밀려 [2019년](../Page/2019년.md "wikilink") 이후로는 노선버스 업체에서 이 차량을 도입한 회사가 아직은 없다. 그리고 수요가 저조하다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Kangwon_FX212_Superstar.jpg "wikilink") 12m급 하이데크 모델이다. FXⅡ에서 다시 FX 로 회귀 했으며 스포일러는 SD급과 달리 큰 변화가 없다. [2016년](../Page/2016년.md "wikilink") [6월](../Page/6월.md "wikilink")부터 시판되었다. [현대 유니버스나](../Page/현대_유니버스.md "wikilink") [기아 뉴그랜버드](../Page/기아_그랜버드.md "wikilink") 인기에 밀려 [2019년](../Page/2019년.md "wikilink") 이후로는 노선버스 업체에서 이 차량을 도입한 회사가 아직은 없다. 그리고 수요가 저조하다. [2021년](../Page/2021년.md "wikilink") 부터 FX116 및 FX120모델이 풀체인지되는 과정에서 [BX212M 로얄에](../Page/자일대우_BX.md "wikilink") 통합되는 형태로 단종될 예정이다.
 
 아래는 FX212 슈퍼스타 모델을 현재 운영중인 노선버스 업체의 목록이다.
 
@@ -252,6 +252,8 @@
 2017년 현재 엔진은 유로6 규제를 충족하는 커민스 ISL 엔진과 FPT(Fiat Powertrain Technology)의 커서11 엔진만 적용이 되고(모델별 탑재 엔진은 바로위 참조), 변속기의 경우 ZF 6단 수동변속기가 매칭되고 있다.\[22\]
 
 ## 사진
+
+[섬네일](https://ko.wikipedia.org/wiki/파일:FX116_Cruising_Arrow.PNG "wikilink") FX116 크루징애로우\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Gyeonggi_Express_FX116_Front-Side.png "wikilink") FXⅡ116 크루징애로우 시외직행\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Gyeonggi_Express_FX120_Cruising_Star.png "wikilink") FX120 크루징스타\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:KD_FX_II_120_Cruising_Star.png "wikilink") [심야버스](../Page/심야버스.md "wikilink")FXⅡ120 크루징스타\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Daeseong_Express_FX2_120S.png "wikilink") FX II 120S\]\] [섬네일FX](https://ko.wikipedia.org/wiki/파일:Zyle_Daewoo_FX120_ACE.jpg "wikilink")120 에이스\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:FX212_Front_side.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Gyeongbuk_Express_FX_II_212_Front.jpg "wikilink") FXⅡ212 슈퍼크루저\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Kangwon_FX212_Superstar.jpg "wikilink") FX212 슈퍼스타\]\]
 
 ## 경쟁 차종
 
@@ -276,7 +278,7 @@
 [FX](https://ko.wikipedia.org/wiki/분류:자일대우상용차의_차종 "wikilink") [FX](https://ko.wikipedia.org/wiki/분류:버스 "wikilink") [FX](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [FX](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [FX](https://ko.wikipedia.org/wiki/분류:2007년_도입된_자동차 "wikilink")
 
 1.  BH090 로얄스타는 제외
-2.  첫 번째 독자 모델은 [기아 그랜버드](../Page/기아_그랜버드.md "wikilink")(1994년), 두 번째 독자 모델은 [현대 유니버스](../Page/현대_유니버스.md "wikilink")(2006년)이다.
+2.  첫 번째 독자 모델은 [기아 그랜버드](../Page/기아_그랜버드.md "wikilink")(1994년), 두 번째 독자 모델은 [현대 유니버스](../Page/현대_유니버스.md "wikilink")(2006년)다.
 3.  유로4에서 유로5엔진으로 업그레이드되었다.
 4.  갱웨이 적용시에만 가능하다.
 5.  타 경쟁 모델에서도 전중문형에는 스윙 도어가 원천적으로 선택 불가하다.

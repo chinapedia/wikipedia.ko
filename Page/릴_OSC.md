@@ -65,6 +65,8 @@
 
   - [피터 오뎀윙기에](../Page/피터_오뎀윙기에.md "wikilink")
 
+  - [마이크 메냥](https://ko.wikipedia.org/wiki/마이크_메냥 "wikilink")
+
 ## 외부 링크
 
   - [릴 OSC 공식 홈페이지](http://www.losc.fr)

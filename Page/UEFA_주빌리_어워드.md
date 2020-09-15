@@ -9,7 +9,7 @@
 
   - [그리스](https://ko.wikipedia.org/wiki/그리스_축구_협회 "wikilink") - [바실리스 하치파나기스](../Page/바실리스_하치파나기스.md "wikilink")
 
-  - [네덜란드](https://ko.wikipedia.org/wiki/네덜란드_축구_협회 "wikilink") - [요한 크라위프](../Page/요한_크라위프.md "wikilink")
+  - [네덜란드](../Page/네덜란드_왕립_축구_협회.md "wikilink") - [요한 크라위프](../Page/요한_크라위프.md "wikilink")
 
   - [노르웨이](https://ko.wikipedia.org/wiki/노르웨이_축구_협회 "wikilink") - [루네 브라체트](../Page/루네_브라체트.md "wikilink")
 
@@ -29,13 +29,13 @@
 
   - [리히텐슈타인](https://ko.wikipedia.org/wiki/리히텐슈타인_축구_협회 "wikilink") - [라이너 하슬러](../Page/라이너_하슬러.md "wikilink")
 
-  - [마케도니아 공화국](https://ko.wikipedia.org/wiki/마케도니아_공화국_축구_협회 "wikilink") - [다르코 판체프](../Page/다르코_판체프.md "wikilink")
+  - [마케도니아 공화국](https://ko.wikipedia.org/wiki/북마케도니아_축구_연맹 "wikilink") - [다르코 판체프](../Page/다르코_판체프.md "wikilink")
 
   - [몰도바](https://ko.wikipedia.org/wiki/몰도바_축구_협회 "wikilink") - [파벨 체바누](../Page/파벨_체바누.md "wikilink")
 
   - [몰타](https://ko.wikipedia.org/wiki/몰타_축구_협회 "wikilink") - [카르멜 부수틸](../Page/카르멜_부수틸.md "wikilink")
 
-  - [벨기에](https://ko.wikipedia.org/wiki/벨기에_축구_협회 "wikilink") - [파울 판 힘스트](../Page/파울_판_힘스트.md "wikilink")
+  - [벨기에](../Page/벨기에_왕립_축구_협회.md "wikilink") - [파울 판 힘스트](../Page/파울_판_힘스트.md "wikilink")
 
   - [벨라루스](https://ko.wikipedia.org/wiki/벨라루스_축구_협회 "wikilink") - [세르게이 알레이니코프](../Page/세르게이_알레이니코프.md "wikilink")
 
@@ -51,7 +51,7 @@
 
   - [스웨덴](https://ko.wikipedia.org/wiki/스웨덴_축구_협회 "wikilink") - [헨리크 라르손](../Page/헨리크_라르손.md "wikilink")
 
-  - [스위스](https://ko.wikipedia.org/wiki/스위스_축구_협회 "wikilink") - [스테판 샤퓌자](../Page/스테판_샤퓌자.md "wikilink")
+  - [스위스](../Page/스위스_축구_협회.md "wikilink") - [스테판 샤퓌자](../Page/스테판_샤퓌자.md "wikilink")
 
   - [스코틀랜드](https://ko.wikipedia.org/wiki/스코틀랜드_축구_협회 "wikilink") - [데니스 로](../Page/데니스_로.md "wikilink")
 
@@ -67,7 +67,7 @@
 
   - [아일랜드](https://ko.wikipedia.org/wiki/아일랜드_축구_협회 "wikilink") - [조니 자일스](../Page/조니_자일스.md "wikilink")
 
-  - [아제르바이잔](https://ko.wikipedia.org/wiki/아제르바이잔_축구_협회 "wikilink") - [아나톨리 바니솁스키](../Page/아나톨리_바니솁스키.md "wikilink")
+  - [아제르바이잔](https://ko.wikipedia.org/wiki/아제르바이잔_축구_연맹_협회 "wikilink") - [아나톨리 바니솁스키](../Page/아나톨리_바니솁스키.md "wikilink")
 
   - [안도라](https://ko.wikipedia.org/wiki/안도라_축구_협회 "wikilink") - [콜도](../Page/콜도.md "wikilink")
 
@@ -87,7 +87,7 @@
 
   - [잉글랜드](https://ko.wikipedia.org/wiki/잉글랜드_축구_협회 "wikilink") - [보비 무어](../Page/보비_무어.md "wikilink")
 
-  - [조지아](https://ko.wikipedia.org/wiki/조지아_축구_협회 "wikilink") - [무르타즈 후르칠라바](../Page/무르타즈_후르칠라바.md "wikilink")
+  - [조지아](../Page/조지아_축구_연맹.md "wikilink") - [무르타즈 후르칠라바](../Page/무르타즈_후르칠라바.md "wikilink")
 
   - [체코](https://ko.wikipedia.org/wiki/체코_축구_협회 "wikilink") - [요세프 마소푸스트](../Page/요세프_마소푸스트.md "wikilink")
 

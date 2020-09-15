@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC가요베스트](https://ko.wikipedia.org/wiki/MBC가요베스트).
 
 
-《**MBC가요베스트**》는 [문화방송](../Page/문화방송.md "wikilink")의 네트워크국 12개사에서 공동으로 제작하는 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
+《**MBC가요베스트**》는 [문화방송](../Page/문화방송.md "wikilink")의 네트워크국 14개사에서 공동으로 제작하는 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
 
 ## 역대 진행자
 
@@ -10,29 +10,21 @@
 
 ### 참고사항
 
-  - 남자 MC가 녹화에 참여하지 못할 경우 아나운서 혹은 출연 가수 등이 대신 진행을 맡는다.
-  - 여자 MC는 고정이 아니기 때문에 1\~3주마다 바뀐다. 아나운서 혹은 출연 가수 등이 진행을 맡는다.
+  - 남자 MC가 녹화에 참여하지 못할 경우 아나운서와 출연 가수가 대신 진행을 맡는다.
+  - 여자 MC는 고정이 아니기 때문에 1\~3주마다 바뀐다. 아나운서와 출연 가수가 진행을 맡는다.
 
 ## 계열사 방송 안내
 
-※ [문화방송](../Page/문화방송.md "wikilink"), [춘천문화방송](../Page/춘천문화방송.md "wikilink"), [전주문화방송](../Page/전주문화방송.md "wikilink"), [울산문화방송](../Page/울산문화방송.md "wikilink"), [제주문화방송](../Page/제주문화방송.md "wikilink")은 제작에 불참하여 시청이 불가능하다. 다만 [MBC NET으로는](../Page/MBC_NET.md "wikilink") 전 지역에서 시청이 가능하다.
+※ [문화방송](../Page/문화방송.md "wikilink"), [춘천문화방송](../Page/춘천문화방송.md "wikilink"), [원주문화방송](../Page/원주문화방송.md "wikilink"), [MBC강원영동](../Page/MBC강원영동.md "wikilink"), [MBC충북](../Page/MBC충북.md "wikilink"), [전주문화방송](../Page/전주문화방송.md "wikilink"), [목포문화방송](../Page/목포문화방송.md "wikilink"), [여수문화방송](../Page/여수문화방송.md "wikilink"), [대구문화방송](../Page/대구문화방송.md "wikilink"), [울산문화방송](../Page/울산문화방송.md "wikilink"), [MBC경남](../Page/MBC경남.md "wikilink"), [제주문화방송](../Page/제주문화방송.md "wikilink")은 제작에 불참하여 시청이 불가능하다. 다만 [MBC NET으로는](../Page/MBC_NET.md "wikilink") 전 지역에서 시청이 가능하다.
 
-| 방송 채널                                    | 방송 시간                                                  | 방송 분량  |
-| ---------------------------------------- | ------------------------------------------------------ | ------ |
-| [원주문화방송](../Page/원주문화방송.md "wikilink")   | 매주 [일요일](../Page/일요일.md "wikilink") 낮 12:10 \~ 오후 1:10 | 1시간    |
-| [MBC강원영동](../Page/MBC강원영동.md "wikilink") |                                                        |        |
-| [MBC충북](../Page/MBC충북.md "wikilink")     |                                                        |        |
-| [대전문화방송](../Page/대전문화방송.md "wikilink")   |                                                        |        |
-| [MBC경남](../Page/MBC경남.md "wikilink")     |                                                        |        |
-| [안동문화방송](../Page/안동문화방송.md "wikilink")   |                                                        |        |
-| [포항문화방송](../Page/포항문화방송.md "wikilink")   |                                                        |        |
-| [목포문화방송](../Page/목포문화방송.md "wikilink")   |                                                        |        |
-| [광주문화방송](../Page/광주문화방송.md "wikilink")   |                                                        |        |
-| [여수문화방송](../Page/여수문화방송.md "wikilink")   |                                                        |        |
-| [대구문화방송](../Page/대구문화방송.md "wikilink")   | 매주 [목요일](../Page/목요일.md "wikilink") 오전 8:30 \~ 9:35    | 1시간 5분 |
-| [부산문화방송](../Page/부산문화방송.md "wikilink")   | 매주 [일요일](../Page/일요일.md "wikilink") 오후 1:10 \~ 2:10    | 1시간    |
-| [MBC NET](../Page/MBC_NET.md "wikilink") | 매주 [목요일](../Page/목요일.md "wikilink") 낮 12:00 \~ 1:00    | 1시간    |
-|                                          |                                                        |        |
+| 방송 채널                                    | 방송 시간                                                 | 방송 분량  |
+| ---------------------------------------- | ----------------------------------------------------- | ------ |
+| [대전문화방송](../Page/대전문화방송.md "wikilink")   | 매주 [일요일](../Page/일요일.md "wikilink") 낮 12:10 \~ 1:15   | 1시간 5분 |
+| [안동문화방송](../Page/안동문화방송.md "wikilink")   |                                                       |        |
+| [포항문화방송](../Page/포항문화방송.md "wikilink")   |                                                       |        |
+| [광주문화방송](../Page/광주문화방송.md "wikilink")   |                                                       |        |
+| [MBC NET](../Page/MBC_NET.md "wikilink") | 매주 [목요일](../Page/목요일.md "wikilink") 오전 10:00 \~ 11:00 | 1시간    |
+|                                          |                                                       |        |
 
 ## 방송 일정
 
@@ -54,7 +46,7 @@
 | 441회 | [8월 2일](../Page/8월_2일.md "wikilink")     |                                 |                                                                                                        |
 | 442회 | [8월 9일](../Page/8월_9일.md "wikilink")     | 2015 USF 울산 서머페스티벌              | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [김연경](https://ko.wikipedia.org/wiki/김연경_\(아나운서\) "wikilink") |
 | 443회 | [8월 16일](../Page/8월_16일.md "wikilink")   |                                 |                                                                                                        |
-| 444회 | [8월 23일](../Page/8월_23일.md "wikilink")   | 제13회 전남 농업경영인대회 특집              | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정다희](https://ko.wikipedia.org/wiki/정다희 "wikilink")          |
+| 444회 | [8월 23일](../Page/8월_23일.md "wikilink")   | 제13회 전남 농업경영인대회 특집              | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정다희](../Page/정다희.md "wikilink")                             |
 | 445회 | [8월 30일](../Page/8월_30일.md "wikilink")   |                                 |                                                                                                        |
 | 446회 | [9월 6일](../Page/9월_6일.md "wikilink")     | 제22회 강원도농촌지도자대회 개최기념 특집         | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [에이지아](https://ko.wikipedia.org/wiki/에이지아 "wikilink")        |
 | 447회 | [9월 13일](../Page/9월_13일.md "wikilink")   |                                 |                                                                                                        |
@@ -125,7 +117,7 @@
 | 507회 | [11월 20일](../Page/11월_20일.md "wikilink") |                                                                             |                                                                                                                     |
 | 508회 | [11월 27일](../Page/11월_27일.md "wikilink") | 영천 편                                                                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [박규리](../Page/박규리_\(1979년\).md "wikilink")                                |
 | 509회 | [12월 4일](../Page/12월_4일.md "wikilink")   |                                                                             |                                                                                                                     |
-| 510회 | [12월 11일](../Page/12월_11일.md "wikilink") | 광주 편                                                                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정다희](https://ko.wikipedia.org/wiki/정다희 "wikilink")                       |
+| 510회 | [12월 11일](../Page/12월_11일.md "wikilink") | 광주 편                                                                        | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [정다희](../Page/정다희.md "wikilink")                                          |
 | 511회 | [12월 18일](../Page/12월_18일.md "wikilink") |                                                                             |                                                                                                                     |
 | 512회 | [12월 25일](../Page/12월_25일.md "wikilink") | MBC가요베스트 대제전                                                                | [김승현](../Page/김승현_\(방송인\).md "wikilink"), [노현희](../Page/노현희.md "wikilink")                                          |
 
@@ -365,12 +357,12 @@
   - [노래가 좋아](../Page/노래가_좋아.md "wikilink") (KBS 1TV)
   - [전국 톱 10 가요 쇼](../Page/전국_톱_10_가요_쇼.md "wikilink") (JTV)
   - [쑈\! TV유랑극단](../Page/쑈!_TV유랑극단.md "wikilink") (KNN)
-  - [성인가요콘서트](../Page/성인가요콘서트.md "wikilink") (INET TV)
-  - [가요사랑콘서트](../Page/가요사랑콘서트.md "wikilink") (INET TV)
+  - [성인가요콘서트](../Page/성인가요콘서트.md "wikilink") (아이넷TV)
+  - [가요사랑콘서트](../Page/가요사랑콘서트.md "wikilink") (아이넷TV)
 
 ## 각주
 
-[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:문화방송의 음악 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_음악_프로그램 "wikilink")
+[분류:문화방송의 예능 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_예능_프로그램 "wikilink") [분류:문화방송의 음악 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_음악_프로그램 "wikilink") [분류:2006년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2006년에_시작한_대한민국_TV_프로그램 "wikilink")
 
 1.  2018년 2월 4일 \~ 3월 4일 방송분은 [현진우](../Page/현진우.md "wikilink")가 대신 진행했다.
 2.  원래 악단 이름은 조경훈과 친구들이었다. 이후에 악단장이 전경호로 변경됨에 따라 악단 이름도 전경호 악단으로 변경되었다.

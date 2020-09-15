@@ -17,6 +17,6 @@
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.vallettafcofficial.net)
+  - [공식 웹사이트](https://web.archive.org/web/20101230062224/http://vallettafcofficial.net/)
 
 [분류:몰타의 축구팀](https://ko.wikipedia.org/wiki/분류:몰타의_축구팀 "wikilink") [분류:1943년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1943년_설립된_축구단 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EFL 트로피](https://ko.wikipedia.org/wiki/EFL_트로피).
 
 
-**EFL 트로피**(EFL Trophy)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 대회로 [EFL 리그 1](https://ko.wikipedia.org/wiki/EFL_리그_1 "wikilink")(3부 리그)과 [EFL 리그 2](https://ko.wikipedia.org/wiki/EFL_리그_2 "wikilink")(4부 리그)의 팀이 참가하는 컵 대회이다. 몇몇 시즌에는 [내셔널리그의](../Page/내셔널리그_\(잉글랜드\).md "wikilink") 상위권팀이 참가하기도 했다. 2016년부터의 명칭은 **체커트레이드 트로피**(Checkatrade Trophy)이다. 1992년까지 리그 트로피의 공식 명칭은 **어소시에이트 멤버스 컵**(Associate Members' Cup)이었다.
+**EFL 트로피**(EFL Trophy)는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 축구 대회로 [EFL 리그 1](https://ko.wikipedia.org/wiki/EFL_리그_1 "wikilink")(3부 리그)과 [EFL 리그 2](https://ko.wikipedia.org/wiki/EFL_리그_2 "wikilink")(4부 리그)의 팀이 참가하는 컵 대회이다. 몇몇 시즌에는 [내셔널리그의](../Page/내셔널리그_\(잉글랜드\).md "wikilink") 상위권팀이 참가하기도 했다. 1992년까지 리그 트로피의 공식 명칭은 **어소시에이트 멤버스 컵**(Associate Members' Cup)이었다. 2019년부터의 명칭은 **리싱닷컴 트로피**(Leasing.com Trophy)이다.
 
 ## 구조
 
@@ -22,7 +22,8 @@ EFL 트로피는 2015-16 시즌까지 [EFL 리그 1과](https://ko.wikipedia.org
   - LDV 밴스 트로피 (LDV Vans Trophy) - 2000\~2006
   - 풋볼 리그 트로피 (Football League Trophy) - 2006 결승전
   - 존스톤즈 페인트 트로피 (Johnstone's Paint Trophy) - 2006\~2016
-  - 체커트레이드 트로피 (Checkatrade Trophy) - 2016\~현재
+  - 체커트레이드 트로피 (Checkatrade Trophy) - 2016\~2019
+  - 리싱닷컴 트로피 (Leasing.com Trophy) - 2019\~현재
 
 ## 우승 팀
 
@@ -74,6 +75,10 @@ EFL 트로피는 2015-16 시즌까지 [EFL 리그 1과](https://ko.wikipedia.org
 | [월솔](../Page/월솔_FC.md "wikilink")                                      |                                                 | 1 (2015)                 |                            |
 
 ## 외부 링크
+
+  - [EFL 트로피 공식 웹사이트](https://www.efl.com/clubs-and-competitions/leasing-com-trophy/)
+
+<!-- end list -->
 
   - [풋볼 리그 트로피(풋볼 리그)](https://web.archive.org/web/20121223181709/http://www.football-league.co.uk/page/JohnstonesPaintTrophy)
 

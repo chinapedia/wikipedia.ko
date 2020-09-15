@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VGA 단자](https://ko.wikipedia.org/wiki/VGA_단자).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Vga-cable.jpg "wikilink") **[VGA](../Page/비디오_그래픽스_어레이.md "wikilink") 단자**(VGA connector)라고 일반적으로 알려진 것([RGB](https://ko.wikipedia.org/wiki/RGB "wikilink") 커넥터, D-sub 15, mini sub D15와 미니 D15를 포함)은 3열 15핀의 [DE-15](https://ko.wikipedia.org/wiki/DE-15 "wikilink")이다. 총 4개의 버전이 있다: [초기버전](http://pinouts.ru/data/VGA15_pinout.shtml) 과 [DDC2](http://pinouts.ru/data/VGAVesaDdc_pinout.shtml) 핀모양과 기능이 떨어져 잘 사용되지 않은 [9-핀 VGA](http://pinouts.ru/data/VGA9_pinout.shtml) 와 휴대용 컴퓨터에 사용된 [미니-VGA](https://ko.wikipedia.org/wiki/미니-VGA "wikilink")가 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Vga-cable.jpg "wikilink") **[VGA](../Page/비디오_그래픽스_어레이.md "wikilink") 단자**(VGA connector)라고 일반적으로 알려진 것([RGB](../Page/RGB.md "wikilink") 커넥터, D-sub 15, mini sub D15와 미니 D15를 포함)은 3열 15핀의 [DE-15](https://ko.wikipedia.org/wiki/DE-15 "wikilink")이다. 총 4개의 버전이 있다: [초기버전](http://pinouts.ru/data/VGA15_pinout.shtml) 과 [DDC2](http://pinouts.ru/data/VGAVesaDdc_pinout.shtml) 핀모양과 기능이 떨어져 잘 사용되지 않은 [9-핀 VGA](http://pinouts.ru/data/VGA9_pinout.shtml) 와 휴대용 컴퓨터에 사용된 [미니-VGA](https://ko.wikipedia.org/wiki/미니-VGA "wikilink")가 있다.
 
 대부분의 영상 카드, 컴퓨터 모니터등에 사용되는 일반적인 15-핀 VGA 커넥터는 일반적으로 "HD-15"라고 불린다. 고화질을 위한 HD 표준은 동일한 기능을 가지지만 2열로 구성된 핀으로 구별된다. 하지만, 이 커넥터는 [DB-15나](https://ko.wikipedia.org/wiki/간소화_딥 "wikilink") HDB-15로 부정확하게 나타내기도 한다.
 

@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [이와테 멘코이 TV](https://ko.wikipedia.org/wiki/이와테_멘코이_TV).
 
 
-**이와테 멘코이 TV**는 [1991년](../Page/1991년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") [이와테현](../Page/이와테현.md "wikilink")의 3번째 민영방송국으로 개국했다.
-
-약칭은 mit, 콜사인은 JOYH-DTV이다.
+**이와테 멘코이 TV**는 [1991년](../Page/1991년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") [이와테현](../Page/이와테현.md "wikilink")의 3번째로 개국한 민영방송국으로 약칭은 MIT, 콜사인은 JOYH-DTV이다.
 
 ## 개요
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AS 로마](https://ko.wikipedia.org/wiki/AS_로마).
 
 
-**아소차치오네 스포르티바 로마**()는 [이탈리아](../Page/이탈리아.md "wikilink")의 수도 [로마](../Page/로마.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 보통 **로마**로 줄여서 부르며 유니폼 색깔을 딴 **잘로로시**라는 별칭으로도 부른다. 주장은 [다니엘레 데 로시이다](../Page/다니엘레_데_로시.md "wikilink").
+**아소차치오네 스포르티바 로마**()는 [이탈리아](../Page/이탈리아.md "wikilink")의 수도 [로마](../Page/로마.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 보통 **로마**로 줄여서 부르며 유니폼 색깔을 딴 **잘로로시**라는 별칭으로도 부른다. 주장은 [에딘 제코이다](../Page/에딘_제코.md "wikilink").
 
 [1927년](../Page/1927년.md "wikilink") 창단했으며, 2008년 현재 56시즌 연속으로 [세리에 A에](../Page/세리에_A.md "wikilink") 속해 있다. 세리에 A에서 3번(1941-42, 1982-83, 2000-01), 코파 이탈리아에서는 총 9번 우승하였다. 유럽 무대에선 1960-61 시즌 [인터시티스 페어스컵에서](../Page/인터시티스_페어스컵.md "wikilink") 우승을 차지하였다. 하지만, 1983-84 시즌 [유러피언컵과](../Page/UEFA_챔피언스리그.md "wikilink") 1990-91 시즌 [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")에서 아쉽게 준우승의 성적을 거두었다. [2007-08 시즌에는](../Page/세리에_A_2007-08.md "wikilink") 2위로 마감하였다.
 

@@ -7,7 +7,7 @@
 
 [1935년](../Page/1935년.md "wikilink") [을해](https://ko.wikipedia.org/wiki/을해 "wikilink")년 [9월 21일](../Page/9월_21일.md "wikilink") [토요일](../Page/토요일.md "wikilink") 사단법인 조선방송협회 부산방송국으로 개국하여 1985년 9월 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공사 직제 개편으로 KBS 부산방송총국으로 승격되었다. 1988년 5월 현재 위치로 이전하였으며, 2004년 7월 디지털TV를 개국하였다.
 
-보도, 지역 현안, 지역민 문제에 대한 시사교양적 프로그램을 자체 제작하여 편성하고 있으며, 대부분의 방송은 KBS본사의 프로그램을 릴레이하여 편성하고 있다.
+보도, 지역 현안, 지역민 문제에 대한 시사교양적 프로그램을 자체 제작하여 편성하고 있으며, 대부분의 방송은 프로그램 제작국(키국)인 KBS본사의 프로그램을 릴레이하여 편성하고 있다.
 
 ## 연혁
 
@@ -208,7 +208,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_부산" title="wikilink">KBS 뉴스 7 부산</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7_부산.md" title="wikilink">KBS 뉴스 7 부산</a></p></td>
 <td><p>월 ~ 목 40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
 <td><p>월~목 : <a href="https://ko.wikipedia.org/wiki/차재환" title="wikilink">차재환</a></p></td>
@@ -217,7 +217,7 @@
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 부산</a></p></td>
 <td><p>금 5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p>금 : <a href="../Page/김평래.md" title="wikilink">김평래</a></p></td>
+<td><p>금 : 차재환</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 부산</a></p></td>
@@ -225,7 +225,7 @@
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="../Page/김평래.md" title="wikilink">김평래</a>, <a href="https://ko.wikipedia.org/wiki/배소빈" title="wikilink">배소빈</a> 주말 무작위</p></td>
+<td><p><a href="../Page/김평래.md" title="wikilink">김평래</a>, <a href="https://ko.wikipedia.org/wiki/배소빈" title="wikilink">배소빈</a> 주말 <a href="https://ko.wikipedia.org/wiki/차재환" title="wikilink">차재환</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -251,11 +251,11 @@
 
   - 보도
 
-| 프로그램 명                                                     | 방송 시간               | 편성 시간                                                                                                                                    | 진행                                                  |
-| ---------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                                                                                                           | [배소빈](https://ko.wikipedia.org/wiki/배소빈 "wikilink") |
-| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [장현순](https://ko.wikipedia.org/wiki/장현순 "wikilink")                                                                                      |                                                     |
-| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [장현순](https://ko.wikipedia.org/wiki/이지현 "wikilink")/[김평래](../Page/김평래.md "wikilink")/[차재환](https://ko.wikipedia.org/wiki/차재환 "wikilink") |                                                     |
+| 프로그램 명                                                     | 방송 시간               | 편성 시간                                                                                                                                                       | 진행                                                  |
+| ---------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                                                                                                                              | [배소빈](https://ko.wikipedia.org/wiki/배소빈 "wikilink") |
+| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [장현순](https://ko.wikipedia.org/wiki/장현순 "wikilink")                                                                                                         |                                                     |
+| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [김평래](https://ko.wikipedia.org/wiki/이지현 "wikilink")/[차경애](https://ko.wikipedia.org/wiki/차경애 "wikilink")/[차재환](https://ko.wikipedia.org/wiki/차재환 "wikilink") |                                                     |
 
   - 시사·교양
 
@@ -319,7 +319,6 @@
   - [오태훈](../Page/오태훈.md "wikilink")(1998 \~ 1999, 현 KBS서울본국)
   - (故)[박태남](../Page/박태남.md "wikilink")(2000 \~ 2001, 전 KBS서울본국)
   - [김현욱](../Page/김현욱_\(방송인\).md "wikilink")(2000 \~ 2001, 전 KBS서울본국)
-  - [김홍성](../Page/김홍성.md "wikilink")(2001 \~ 2002, 현 KBS서울본국)
   - [오승원](../Page/오승원.md "wikilink")(2011 \~ 2012, 현 KBS서울본국)
   - [한상헌](../Page/한상헌.md "wikilink")(2012 \~ 2013, 현 KBS서울본국)
   - [조항리](../Page/조항리_\(아나운서\).md "wikilink")(2013 \~ 2014, 현 KBS서울본국)
@@ -334,7 +333,7 @@
   - 송광자 (퇴사)
   - 전옥수(1980 \~ 1991, 전 [동양방송](../Page/동양방송.md "wikilink") 부산지국 아나운서, 전 KBS청주총국)
   - [김미균](https://ko.wikipedia.org/wiki/김미균 "wikilink")(1985 \~ 1990, 전 KBS진주국)
-  - [선우경](https://ko.wikipedia.org/wiki/선우경 "wikilink")(1994 \~ 1997, 전 [iTV 경인방송](../Page/경인방송.md "wikilink") 아나운서, 현 방송인)
+  - [선우경](../Page/선우경.md "wikilink")(1994 \~ 1997, 전 [iTV 경인방송](../Page/경인방송.md "wikilink") 아나운서, 현 방송인)
   - 윤소희(1997 \~ 1998, 전 KBS서울본국)
   - [공정민](../Page/공정민.md "wikilink")(1999 \~ 2002, 전 KBS서울본국, 현 방송인)
   - [홍소연](../Page/홍소연.md "wikilink")(1999 \~ 2000, 현 KBS서울본국)
@@ -346,13 +345,12 @@
   - [노현정](../Page/노현정.md "wikilink")(2004 \~ 2005, 전 KBS서울본국)
   - [백승주](../Page/백승주_\(1976년\).md "wikilink")(2004, 현 KBS 서울본국)
   - [박지윤](../Page/박지윤_\(방송인\).md "wikilink")(2004 \~ 2005, 전 KBS서울본국, 현 방송인)
-  - [고은령](https://ko.wikipedia.org/wiki/고은령 "wikilink")(2005 \~ 2010, 전 스튜디오뮤지컬 대표,현 보들극장 대표)
+  - [고은령](https://ko.wikipedia.org/wiki/고은령 "wikilink")(2005 \~ 2010, 전 스튜디오뮤지컬 대표, 현 보들극장 대표)
   - [이선영](../Page/이선영_\(1982년\).md "wikilink")(2005 \~ 2006, 현 KBS서울본국)
   - [오정연](../Page/오정연.md "wikilink")(2006 \~ 2007, 전 KBS서울본국, 현 방송인)
   - [장수연](../Page/장수연.md "wikilink")(2007 \~ 2012, 현 KBS서울본국)
   - [손지민](https://ko.wikipedia.org/wiki/손지민 "wikilink")(2010 \~ 2011, 전 KBS포항국, 현 KBS대구총국)
   - [김민정](../Page/김민정_\(1987년\).md "wikilink")(2012 \~ 2013, 전 KBS서울본국, 현 방송인)
-  - 문명희(2012 \~ 2013, 현 KBS대전총국 작가)
 
 ## [기상캐스터](https://ko.wikipedia.org/wiki/기상캐스터 "wikilink")
 
@@ -383,7 +381,7 @@
 <!-- end list -->
 
   - [김계애](https://ko.wikipedia.org/wiki/김계애 "wikilink") 취재부장
-  - [이이슬](https://ko.wikipedia.org/wiki/이이슬 "wikilink") 부산팀장
+  - [김동진](https://ko.wikipedia.org/wiki/김동진 "wikilink") 김해팀장
   - [강지아](https://ko.wikipedia.org/wiki/강지아 "wikilink") 취재부장
   - [박선자](https://ko.wikipedia.org/wiki/박선자 "wikilink") 기장팀장
   - [김지원](https://ko.wikipedia.org/wiki/김지원 "wikilink") 취재부장
@@ -391,10 +389,6 @@
   - [최위지](https://ko.wikipedia.org/wiki/최위지 "wikilink") 김해팀장
   - [이도은](../Page/이도은.md "wikilink")
   - [김아르내](https://ko.wikipedia.org/wiki/김아르내 "wikilink")
-
-## 같이 보기
-
-  - 노다지 English
 
 ## 각주
 

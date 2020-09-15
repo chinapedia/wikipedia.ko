@@ -84,7 +84,7 @@ SKT,KT,LGU+를 통해 출시되었다.
 
 ## 언어
 
-  - [한국어](../Page/한국어.md "wikilink") - ,  ~~*()*~~
+  - [한국어](../Page/한국어.md "wikilink") - ,
   - [영어](../Page/영어.md "wikilink") - , , , , , ,
   - [중국어](../Page/중국어.md "wikilink")([타이완](../Page/중화민국.md "wikilink")) -
   - [중국어](../Page/중국어.md "wikilink")([홍콩](../Page/홍콩.md "wikilink")) -

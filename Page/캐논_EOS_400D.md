@@ -24,7 +24,7 @@ dpreview.com의 실험 결과\[1\] 에 따르면, 400D [JPEG](../Page/JPEG.md "w
 
 ## 외부 링크
 
-  - [팝코넷의 리뷰](http://www.popco.net/zboard/view.php?id=dica_review&page=1&sn1=&divpage=1&category=4&sn=off&ss=on&sc=on&select_arrange=reg_date&desc=desc&no=164)
+  - [팝코넷의 리뷰](https://web.archive.org/web/20160304211242/http://www.popco.net/zboard/view.php?id=dica_review&page=1&sn1=&divpage=1&category=4&sn=off&ss=on&sc=on&select_arrange=reg_date&desc=desc&no=164)
 
   - [dcinside 리뷰](https://web.archive.org/web/20080925203407/http://dica.dcinside.com/review.php?pid=6722)
 
@@ -32,7 +32,7 @@ dpreview.com의 실험 결과\[1\] 에 따르면, 400D [JPEG](../Page/JPEG.md "w
 
   - [dpreview.com의 리뷰](https://web.archive.org/web/20070203003018/http://www.dpreview.com/reviews/canoneos400d/)
 
-  - [cameralabs.com의 리뷰](http://www.cameralabs.com/reviews/Canon400D/)
+  - [cameralabs.com의 리뷰](https://web.archive.org/web/20080418045300/http://www.cameralabs.com/reviews/Canon400D/)
 
   - [Luminous Landscape 리뷰](https://web.archive.org/web/20070227065107/http://www.luminous-landscape.com/reviews/cameras/rebel%20xti.shtml)
 
@@ -40,5 +40,5 @@ dpreview.com의 실험 결과\[1\] 에 따르면, 400D [JPEG](../Page/JPEG.md "w
 
 [분류:캐논 EOS DSLR 카메라](https://ko.wikipedia.org/wiki/분류:캐논_EOS_DSLR_카메라 "wikilink")
 
-1.  [EOS-400D ISO / Sensitivity accuracy](http://www.dpreview.com/reviews/canoneos400d/page17.asp) 2009년 9월 24일 확인
+1.  [EOS-400D ISO / Sensitivity accuracy](http://www.dpreview.com/reviews/canoneos400d/page17.asp)  2009년 9월 24일 확인
 2.  [COMPARAISON DU CANON EOS 350D ET DU CANON EOS 400D](http://astrosurf.com/buil/400d/400d.htm) 2009년 9월 24일 확인

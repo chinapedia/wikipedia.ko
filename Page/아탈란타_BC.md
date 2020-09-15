@@ -465,9 +465,9 @@
   - **[세리에 C1](https://ko.wikipedia.org/wiki/세리에_C1 "wikilink")**
       - 북부 우승 1981–82
 
-## 서포터들
+## 서포터
 
-아탈란타의 서포터들은 현지 팬들 위주로 여겨지고 있다. 아탈란타의 홈경기장 [스타디오 아틀레티 아추리 디탈리아에서](https://ko.wikipedia.org/wiki/스타디오_아틀레티_아추리_디탈리아 "wikilink") 아탈란타가 경기를 치룰때, 서포터들은 *[쿠르바](https://ko.wikipedia.org/wiki/Curva_\(stadia\) "wikilink") 노르드* (*북쪽 커브*)에서 경기 내내 응원가를 부르며 팀을 격려한다.
+아탈란타의 서포터는 현지 팬들 위주로 여겨지고 있다. 아탈란타의 홈경기장 [스타디오 아틀레티 아추리 디탈리아에서](https://ko.wikipedia.org/wiki/스타디오_아틀레티_아추리_디탈리아 "wikilink") 아탈란타가 경기를 치룰때, 서포터들은 *[쿠르바](https://ko.wikipedia.org/wiki/Curva_\(stadia\) "wikilink") 노르드* (*북쪽 커브*)에서 경기 내내 응원가를 부르며 팀을 격려한다.
 
 팀의 라이벌은 이웃팀인 [브레시아이며](../Page/브레시아_칼초.md "wikilink"), 이외에도 [베로나](../Page/엘라스_베로나_FC.md "wikilink"), [제노아](../Page/제노아_CFC.md "wikilink"), [피오렌티나](../Page/ACF_피오렌티나.md "wikilink"), [라치오](../Page/SS_라치오.md "wikilink"), [로마](../Page/AS_로마.md "wikilink"), [나폴리](../Page/SSC_나폴리.md "wikilink"), [밀란](../Page/AC_밀란.md "wikilink"), [인테르](../Page/FC_인테르나치오날레_밀라노.md "wikilink"), [토리노와도](../Page/토리노_FC.md "wikilink") 라이벌 관계이다. 반면에 [테르나나와는](../Page/테르나나_칼초.md "wikilink") 오랜기간 우호 관계를 유지하고 있으며 해외 클럽으로는 [아인트라흐트 프랑크푸르트](../Page/아인트라흐트_프랑크푸르트.md "wikilink"), [FC 바커 인스브루크와](../Page/FC_바커_인스브루크.md "wikilink") 우호 관계이다.
 

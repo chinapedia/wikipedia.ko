@@ -59,6 +59,6 @@
 
 ## 외부 링크
 
-  - [한국 알리앙스 프랑세즈](http://www.afcoree.co.kr)
+  - [한국 알리앙스 프랑세즈](https://web.archive.org/web/20191105023050/http://afcoree.co.kr/)
 
 [분류:프랑스어 시험](https://ko.wikipedia.org/wiki/분류:프랑스어_시험 "wikilink")

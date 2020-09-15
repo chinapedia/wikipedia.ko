@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [진로배 SBS 세계 바둑 최강전](https://ko.wikipedia.org/wiki/진로배_SBS_세계_바둑_최강전).
 
 
-**진로배 SBS 세계 바둑 최강전**은 1992년\~1997년 [대한민국](../Page/대한민국.md "wikilink")에서 열린 국제 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). 1991년 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 개국을 기념하여 이벤트 기전으로 열린 **SBS배 세계 바둑 최강전**의 후속 기전으로, 주식회사 [진로](https://ko.wikipedia.org/wiki/진로 "wikilink")의 후원을 받아 1992년에 창설되었다. 1997년 12월의 [외환 위기로](https://ko.wikipedia.org/wiki/외환_위기 "wikilink") 인한 후원사의 부도로 1997년 2월 제5회 대회를 끝으로 중지되었다.
+**진로배 SBS 세계 바둑 최강전**은 1992년\~1997년 [대한민국](../Page/대한민국.md "wikilink")에서 열린 국제 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). 1991년 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 개국을 기념하여 이벤트 기전으로 열린 **SBS배 세계 바둑 최강전**의 후속 기전으로, 주식회사 [진로](https://ko.wikipedia.org/wiki/진로 "wikilink")그룹 의 후원을 받아 1992년에 창설되었다. 1997년 12월의 [외환 위기로](https://ko.wikipedia.org/wiki/외환_위기 "wikilink") 인한 후원사의 부도로 1997년 2월 제5회 대회를 끝으로 중지되었다.
 
 1980년대 인기를 끌었던 [중일 슈퍼 대항전의](../Page/중일_슈퍼_대항전.md "wikilink") 영향을 받은 [연승전](https://ko.wikipedia.org/wiki/연승전 "wikilink")(승발전) 방식으로, 대한민국·중국·일본 세 나라의 대표 기사 5명이 겨루는 독특한 형식 때문에 많은 인기를 끌었다. 특히 제1회 대회부터 대한민국이 우승을 독차지하면서 대한민국의 바둑이 세계 최강으로 떠오르는 데 결정적인 역할을 하였으며, 특히 제5회 대회에서 [서봉수](../Page/서봉수.md "wikilink")의 9연승은 단일 국제 기전 최다 연승으로 기록된다.
 

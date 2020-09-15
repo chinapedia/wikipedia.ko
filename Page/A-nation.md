@@ -61,7 +61,7 @@
   - [Dream](../Page/Dream_\(음악_그룹\).md "wikilink")
   - [Road of Major](https://ko.wikipedia.org/wiki/Road_of_Major "wikilink")
   - [오오츠카 아이](../Page/오오츠카_아이.md "wikilink")
-  - [hitomi](https://ko.wikipedia.org/wiki/hitomi "wikilink")
+  - [히토미](../Page/히토미_\(가수\).md "wikilink")
   - [BoA](https://ko.wikipedia.org/wiki/BoA "wikilink")
   - [EXILE](../Page/EXILE.md "wikilink")
   - [TRF](https://ko.wikipedia.org/wiki/TRF "wikilink")

@@ -1,7 +1,15 @@
 > This article is converted from Wikipedia: [김은아 \(EBS 성우\)](https://ko.wikipedia.org/wiki/김은아_\(EBS_성우\)).
 
 
-**김은아**([1976년](../Page/1976년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. 2004년 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink") 20기 공채 성우로 데뷔하였다.남편은 성우 [방성준](../Page/방성준.md "wikilink")이다. 동명이인 선배인 KBS 성우 [김은아는](../Page/김은아_\(KBS_성우\).md "wikilink") 2000년 이후로 거의 활동한적이 없어서 많은 성우들이 누가 김은아인지 알수가 없다.오직 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")에서만 2000년 이후로도 활동하는 성우이면 MBC성우 [방성준](../Page/방성준.md "wikilink")의 아내이다. 그녀는 안경을 끼고 다니는 성우이다.
+**김은아**([1976년](../Page/1976년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [성우](../Page/성우.md "wikilink")이다. 2004년 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink") 20기 공채 성우로 데뷔하였다.남편은 성우 [방성준](../Page/방성준.md "wikilink")이다. 동명이인 선배인 KBS 성우 [김은아는](../Page/김은아_\(KBS_성우\).md "wikilink") 2000년 이후로 거의 활동한적이 없어서 많은 성우들이 누가 김은아인지 알수가 없다.오직 [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")에서만 2000년 이후로도 활동하는 성우이면 MBC성우 [방성준](../Page/방성준.md "wikilink")의 아내이다.
+
+## 소개
+
+[대한민국](../Page/대한민국.md "wikilink")의 성우.
+
+[꼬마버스 타요에서는](../Page/꼬마버스_타요.md "wikilink") 꼬마[택시](../Page/택시.md "wikilink") 누리, 꼬마 일톤[트럭](../Page/트럭.md "wikilink") 토니, 아기 [승합차](https://ko.wikipedia.org/wiki/승합차 "wikilink") 봉봉 등 꼬마나 아기 캐릭터 역을 자주 맡지만, [구급차](../Page/구급차.md "wikilink") 앨리스 같은 어른 차도 맡는다.
+
+KBS에 동명이인인 선배가 있는데 2007년 이후로 활동이 없기 때문에 활동하는 김은아는 이 EBS 성우 김은아이다. 남편은 성우 [방성준](../Page/방성준.md "wikilink")이다.
 
 ## 출연 작품
 
@@ -15,12 +23,14 @@
   - [극장판 엉덩이 탐정: 화려한 사건 수첩](../Page/극장판_엉덩이_탐정:_화려한_사건_수첩.md "wikilink") - 엉덩이 탐정
   - [극장판 샤이닝 스타: 새로운 루나퀸의 탄생\!](../Page/극장판_샤이닝_스타:_새로운_루나퀸의_탄생!.md "wikilink") - 리리 / 베리 / 칼리오페 / 남자 아이
   - [구두신고 꼬까꼬까](https://ko.wikipedia.org/wiki/구두신고_꼬까꼬까 "wikilink") (EBS)
-  - [꼬마버스 타요](../Page/꼬마버스_타요.md "wikilink") (EBS) - 누리, 토니, 봉봉, 앨리스, 피넛, 노아, 어린 씨투
+  - [꼬마버스 타요](../Page/꼬마버스_타요.md "wikilink") (EBS) - 누리, 피넛, 어린 씨투, 토니, 봉봉, 앨리스, 노아
   - [꼬마숙녀 스트로베리](https://ko.wikipedia.org/wiki/꼬마숙녀_스트로베리 "wikilink") (EBS) - 애플
   - [놀이터 구조대, 뽀잉](https://ko.wikipedia.org/wiki/놀이터_구조대,_뽀잉 "wikilink") (EBS) - 엘루
   - [데스노트](../Page/데스노트.md "wikilink") (애니원) - 여학생, 여자
   - [레고 시티 어드벤처](https://ko.wikipedia.org/wiki/레고_시티_어드벤처 "wikilink") - 개비
   - [레미제라블 소녀 코제트](https://ko.wikipedia.org/wiki/레미제라블_소녀_코제트 "wikilink") (애니원) - 샬롯
+  - [로보카 폴리](../Page/로보카_폴리.md "wikilink") (EBS) - 리프티, 트랙키
+      - [로이와 함께하는 소방안전 이야기](https://ko.wikipedia.org/wiki/로이와_함께하는_소방안전_이야기 "wikilink"), [엠버와 함께하는 생활안전 이야기](https://ko.wikipedia.org/wiki/엠버와_함께하는_생활안전_이야기 "wikilink") - 피터
   - [미라큘러스: 레이디버그와 블랙캣](../Page/미라큘러스:_레이디버그와_블랙캣.md "wikilink") - 알리야
   - [디지몬 크로스워즈](../Page/디지몬_크로스워즈.md "wikilink") ([챔프](https://ko.wikipedia.org/wiki/챔프 "wikilink")) - 고마몬
   - [마스크 마스터즈](https://ko.wikipedia.org/wiki/마스크_마스터즈 "wikilink") (KBS) - 키로
@@ -29,9 +39,10 @@
   - [명탐정 코난](../Page/명탐정_코난.md "wikilink") 1996 방영분 (1기) (애니맥스) - 김혜원
   - [명탐정 코난](../Page/명탐정_코난.md "wikilink") 2014 방영분 (14기) (투니버스) - 강주영
   - [모래요정 바람돌이](../Page/모래요정_바람돌이.md "wikilink") (EBS) - 동동
-  - [몬카트](https://ko.wikipedia.org/wiki/몬카트 "wikilink") (EBS) - 로빈 화이트/왕비
+  - [몬카트](../Page/몬카트.md "wikilink") (EBS) - 로빈 화이트/왕비
   - [미니특공대 X](https://ko.wikipedia.org/wiki/미니특공대_X "wikilink") (EBS) - 카라, 수지의 담임 선생님, 수지의 엄마, 스웩파이브(퍼플, 블루, 거대화)
   - [미술탐험대](https://ko.wikipedia.org/wiki/미술탐험대 "wikilink") (EBS) - 큐레이터
+  - 미스테리야 (EBS) - 타타
   - [베르사이유의 장미](../Page/베르사이유의_장미.md "wikilink") (EBS) - 테레지아, 아델라이드
   - [베리 배리 크리스마스](https://ko.wikipedia.org/wiki/베리_배리_크리스마스 "wikilink") (EBS) - 홀리졸리
   - [베리 VS 프라이미벌](https://ko.wikipedia.org/wiki/베리_VS_프라이미벌 "wikilink") - 노와
@@ -58,12 +69,14 @@
   - [은발의 아기토](https://ko.wikipedia.org/wiki/은발의_아기토 "wikilink") (애니박스) - 민카
   - [잭과 콩나무](https://ko.wikipedia.org/wiki/잭과_콩나무 "wikilink") (애니박스) - 딜리
   - [잭과 팡](https://ko.wikipedia.org/wiki/잭과_팡 "wikilink") (EBS) - 라미
+  - [출동\! 슈퍼윙스](../Page/출동!_슈퍼윙스.md "wikilink") ([EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")) - 하늘, 핑, 루루, 루비, 나얀, 조슈아, 사토미 엄마, 칼
   - [캐니멀](../Page/캐니멀.md "wikilink") (EBS)
   - [캐치\! 티니핑](https://ko.wikipedia.org/wiki/캐치!_티니핑 "wikilink") - 사라, 아잉핑
   - [캣피시 블루스](https://ko.wikipedia.org/wiki/캣피시_블루스 "wikilink") (EBS) - 릴리
   - [크로스 게임](../Page/크로스_게임.md "wikilink") (EBS) - 오은아
   - [클라나드](https://ko.wikipedia.org/wiki/클라나드 "wikilink") (애니박스) - 후지바야시 료
   - [키마의 전설](https://ko.wikipedia.org/wiki/키마의_전설 "wikilink") (카툰네트워크) - 그루나
+  - [토마스와 친구들](../Page/토마스와_친구들.md "wikilink") - 에밀리
   - [포코냥](https://ko.wikipedia.org/wiki/포코냥 "wikilink") (챔프) - 심순
   - [포켓몬스터 XY](https://ko.wikipedia.org/wiki/포켓몬스터_XY "wikilink") (투니버스) - 비올라
   - [풍선 코끼리 발루뽀](https://ko.wikipedia.org/wiki/풍선_코끼리_발루뽀 "wikilink") (EBS) - 파피

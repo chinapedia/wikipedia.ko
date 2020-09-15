@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJMAX Portable 2](https://ko.wikipedia.org/wiki/DJMAX_Portable_2).
 
 
-**디제이맥스 포터블 2**(DJMAX Portable 2, DMP2)는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). [온라인 게임으로](../Page/온라인_게임.md "wikilink") 만들어진 [디제이맥스](../Page/디제이맥스.md "wikilink")를 [플레이스테이션 포터블용으로](../Page/플레이스테이션_포터블.md "wikilink") 이식한 [디제이맥스 포터블의](https://ko.wikipedia.org/wiki/디제이맥스_포터블 "wikilink") 후속작이다. [2007년](../Page/2007년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") 현재 5만장의 판매고를 올렸다.
+**디제이맥스 포터블 2**(DJMAX Portable 2, DMP2)는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). [온라인 게임으로](../Page/온라인_게임.md "wikilink") 만들어진 [디제이맥스](../Page/디제이맥스.md "wikilink")를 [플레이스테이션 포터블용으로](../Page/플레이스테이션_포터블.md "wikilink") 이식한 [디제이맥스 포터블의](https://ko.wikipedia.org/wiki/디제이맥스_포터블 "wikilink") 후속작이다. [최종적으로 9만 장의](../Page/2007년.md "wikilink") 판매고를 올렸다.
 
 ## 디제이맥스 포터블과의 차이점
 

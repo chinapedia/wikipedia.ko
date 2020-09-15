@@ -17,7 +17,7 @@
 
 ### 이전
 
-[1992년](../Page/1992년.md "wikilink") CBS는 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") [대학로](../Page/대학로_\(서울\).md "wikilink") 19 (연지동 136-46)에서 [서울특별시](../Page/서울특별시.md "wikilink") [양천구](../Page/양천구.md "wikilink") [목동서로](../Page/목동서로.md "wikilink") 159-1 ([목1동](../Page/목동_\(서울\).md "wikilink") 917-1)으로 이전하였다. [1995년](../Page/1995년.md "wikilink")에 [CBS 음악FM](../Page/CBS_음악FM.md "wikilink") 방송이 개국하였고 이후 [1998년](../Page/1998년.md "wikilink")에 [CBS 표준FM](../Page/CBS_표준FM.md "wikilink") 방송이 개국하였다. [2002년](../Page/2002년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") [CBS TV가](https://ko.wikipedia.org/wiki/CBS_TV "wikilink") 개국을 하였다. 이와 함께 미주지역 CBS TV 송출로 해외 위성방송업체와도 제휴 및 방송망을 넓히면서 본격적인 해외 영상 송출의 시대를 열게 됐다.
+[1992년](../Page/1992년.md "wikilink") CBS는 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") [대학로](../Page/대학로_\(서울\).md "wikilink") 19 (연지동 136-46)에서 [서울특별시](../Page/서울특별시.md "wikilink") [양천구](../Page/양천구.md "wikilink") [목동서로](../Page/목동서로.md "wikilink") 159-1 ([목1동](../Page/목동_\(서울\).md "wikilink") 917-1)으로 이전하였다. [1995년](../Page/1995년.md "wikilink")에 [CBS 음악FM](../Page/CBS_음악FM.md "wikilink") 방송이 개국하였고 이후 [1998년](../Page/1998년.md "wikilink")에 [CBS 표준FM](../Page/CBS_표준FM.md "wikilink") 방송이 개국하였다. [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [2002년](../Page/2002년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") [CBS TV가](https://ko.wikipedia.org/wiki/CBS_TV "wikilink") 개국을 하였다. 이와 함께 미주지역 CBS TV 송출로 해외 위성방송업체와도 제휴 및 방송망을 넓히면서 본격적인 해외 영상 송출의 시대를 열게 됐다.
 
 ### 확장
 
@@ -139,9 +139,13 @@
 | [대구CBS 음악FM](../Page/기독교대구방송.md "wikilink") | HLKT-FM(음악) | 앞산 송신소             | FM 97.1㎒                                                                    | 1㎾                                                                          | 대구 남구 대명동 산227-1 ([KBS대구](../Page/KBS대구방송총국.md "wikilink")) | [2017년](../Page/2017년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink")   |
 | [광주CBS 음악FM](../Page/기독교광주방송.md "wikilink") | HLEM-FM(음악) | 무등산 송신소            | FM 98.1㎒                                                                    | 1㎾                                                                          | 광주 북구 금곡동 산1-1 ([광주방송](../Page/광주방송.md "wikilink"))         | [2019년](../Page/2019년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink")     |
 
+## 코로나19 확진자 논란
+
+  - [2020년](../Page/2020년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") 저녁에 [코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink") 확진 판정을 받아, 셧다운으로 모든 정규 프로그램 편성을 중단하고, 음악방송으로 대체되었다가, [8월 20일](../Page/8월_20일.md "wikilink") 정오를 기해 모든 정규 방송을 정상화했다.
+
 ## 기타
 
-  - [한국기독교총연합회](../Page/한국기독교총연합회.md "wikilink"), [한국교회연합](../Page/한국교회연합.md "wikilink")에는 가입 안 했고, [한국기독교교회협의회](../Page/한국기독교교회협의회.md "wikilink")에만 가입했다.
+  - [한국기독교총연합회](../Page/한국기독교총연합회.md "wikilink"), [한국교회연합](../Page/한국교회연합.md "wikilink")에는 가입 하지 않았고, [한국기독교교회협의회](../Page/한국기독교교회협의회.md "wikilink")에 가입했다.
 
 ## 같이 보기
 

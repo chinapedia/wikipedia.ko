@@ -1015,7 +1015,7 @@
 
   - [오투 글로리아](https://ko.wikipedia.org/wiki/오투_글로리아 "wikilink") (1954–1959)
 
-  - [벨라 구트만](https://ko.wikipedia.org/wiki/벨라_구트만 "wikilink") (1959–1962)
+  - [구트먼 벨러](https://ko.wikipedia.org/wiki/구트먼_벨러 "wikilink") (1959–1962)
 
   - [페르난도 리에라](../Page/페르난도_리에라.md "wikilink") (1962–1963)
 
@@ -1023,7 +1023,7 @@
 
   - [엘렉 슈바르츠](https://ko.wikipedia.org/wiki/엘렉_슈바르츠 "wikilink") (1964-1965)
 
-  - [벨라 구트만](https://ko.wikipedia.org/wiki/벨라_구트만 "wikilink") (1965-1966)
+  - [구트먼 벨러](https://ko.wikipedia.org/wiki/구트먼_벨러 "wikilink") (1965-1966)
 
 <!-- end list -->
 

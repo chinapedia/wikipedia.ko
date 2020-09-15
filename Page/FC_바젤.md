@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - **[스위스 컵](https://ko.wikipedia.org/wiki/스위스_컵 "wikilink")**
+  - **[스위스컵](https://ko.wikipedia.org/wiki/스위스컵 "wikilink")**
 
 <!-- end list -->
 

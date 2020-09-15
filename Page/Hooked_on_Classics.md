@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Hooked on Classics](https://ko.wikipedia.org/wiki/Hooked_on_Classics).
 
 
-**Hooked on Classics**는 [서양 고전 음악의](https://ko.wikipedia.org/wiki/서양_고전_음악 "wikilink") 여러 명곡을 짧게 토막내서 이를 [메들리](https://ko.wikipedia.org/wiki/메들리 "wikilink") 형식으로 이어 붙여 [리믹스](https://ko.wikipedia.org/wiki/리믹스 "wikilink")한 음악이다. [로열 필하모닉 오케스트라에](../Page/로열_필하모닉_오케스트라.md "wikilink") 의해 연주, [1981년](../Page/1981년.md "wikilink")에 1집 발매를 시작으로 [1988년](../Page/1988년.md "wikilink")에 4집까지 발매되었으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [서울음반](https://ko.wikipedia.org/wiki/서울음반 "wikilink")이 ‘클래식 하일라이트 메들리’라는 제목으로 발매한 바 있으며 각종 배경음악이나 삽입곡으로 많이 쓰였다.
+**Hooked on Classics**는 [서양 고전 음악의](https://ko.wikipedia.org/wiki/서양_고전_음악 "wikilink") 여러 명곡을 짧게 토막내서 이를 [메들리](https://ko.wikipedia.org/wiki/메들리 "wikilink") 형식으로 이어 붙여 [리믹스](https://ko.wikipedia.org/wiki/리믹스 "wikilink")한 음악이다. [로열 필하모닉 오케스트라에](../Page/로열_필하모닉_오케스트라.md "wikilink") 의해 연주, [1981년](../Page/1981년.md "wikilink")에 1집 발매를 시작으로 [1988년](../Page/1988년.md "wikilink")에 4집까지 발매되었으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [서울음반](https://ko.wikipedia.org/wiki/서울음반 "wikilink")이 ‘클래식 하일라이트 메들리’라는 제목으로 발매한 바 있으며 각종 배경음악이나 삽입곡으로 많이 쓰이고 새마을호 안내방송으로도 쓰였다.
 
 ## 발매 음반
 

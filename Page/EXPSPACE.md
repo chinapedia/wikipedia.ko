@@ -17,7 +17,7 @@
 
 베르만은 [1980년](../Page/1980년.md "wikilink")에 덧셈과 비교만 포함하는 실수 [일차 논리식을](https://ko.wikipedia.org/wiki/일차_논리 "wikilink") 검증하는 문제가 **EXPSPACE**라는 것을 보였다. (이 논리식은 곱셈을 포함하지 않는다)
 
-## 더 보기
+## 같이 보기
 
   - [게임 복잡도](https://ko.wikipedia.org/wiki/게임_복잡도 "wikilink")
 

@@ -17,9 +17,9 @@
   - [쿠거타운](https://ko.wikipedia.org/wiki/쿠거타운 "wikilink")
   - [그레이 아나토미](../Page/그레이_아나토미.md "wikilink")
   - [모던패밀리](https://ko.wikipedia.org/wiki/모던패밀리 "wikilink")
-  - [아메리카 퍼니스트 홈 비디오](https://ko.wikipedia.org/wiki/아메리카_퍼니스트_홈_비디오 "wikilink")
+  - [아메리카 퍼니스트 홈 비디오](../Page/아메리카_퍼니스트_홈_비디오.md "wikilink")
   - [ABC 월드 뉴스](../Page/ABC_월드_뉴스.md "wikilink")
-  - [V (2009년 TV 시리즈)](https://ko.wikipedia.org/wiki/V_\(2009년_TV_시리즈\) "wikilink")
+  - [V](https://ko.wikipedia.org/wiki/V_\(2009년_TV_시리즈\) "wikilink")
   - [블루문 특급](https://ko.wikipedia.org/wiki/블루문_특급 "wikilink")
 
 ## 지역 방송사 목록

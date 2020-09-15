@@ -26,7 +26,7 @@
   - [MPEG-1](../Page/MPEG-1.md "wikilink")
   - [MPEG-2](../Page/MPEG-2.md "wikilink")
   - [MPEG-4 파트 2](../Page/MPEG-4_파트_2.md "wikilink") ([DivX](../Page/DivX.md "wikilink")와 [Xvid](https://ko.wikipedia.org/wiki/Xvid "wikilink") 코덱에서 쓰이기도 함)
-  - [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [퀵드로](https://ko.wikipedia.org/wiki/퀵드로 "wikilink") (디코딩 전용)
+  - [애플](../Page/애플.md "wikilink") [퀵드로](https://ko.wikipedia.org/wiki/퀵드로 "wikilink") (디코딩 전용)
   - [퀵타임](../Page/퀵타임.md "wikilink") 그래픽스 SMC
   - [리얼비디오](https://ko.wikipedia.org/wiki/리얼비디오 "wikilink") [RV10](https://ko.wikipedia.org/wiki/RV10 "wikilink")
   - [리얼비디오](https://ko.wikipedia.org/wiki/리얼비디오 "wikilink") [RV20](https://ko.wikipedia.org/wiki/RV20 "wikilink")

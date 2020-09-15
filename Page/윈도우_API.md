@@ -82,7 +82,7 @@ int APIENTRY _tWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpCm
 
 [분류:마이크로소프트 API](https://ko.wikipedia.org/wiki/분류:마이크로소프트_API "wikilink")
 
-1.  [마이크로소프트 개발자 네트워크](../Page/마이크로소프트_개발자_네트워크.md "wikilink") (July 2005). *[Overview of the Windows API.](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winprog/winprog/overview_of_the_windows_api.asp)* Retrieved August 28, 2005.
+1.  [마이크로소프트 개발자 네트워크](../Page/마이크로소프트_개발자_네트워크.md "wikilink") (July 2005). *[Overview of the Windows API.](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winprog/winprog/overview_of_the_windows_api.asp) * Retrieved August 28, 2005.
 2.  [마이크로소프트 개발자 네트워크](../Page/마이크로소프트_개발자_네트워크.md "wikilink") (July 2005). *[Base Services.](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winprog/winprog/base_services.asp)* Retrieved August 28, 2005.
 3.  [마이크로소프트 개발자 네트워크](../Page/마이크로소프트_개발자_네트워크.md "wikilink") (July 2005). *[Graphics Device Interface.](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winprog/winprog/graphics_device_interface.asp)* Retrieved August 28, 2005.
 4.

@@ -105,4 +105,4 @@
   - [MissileThreat.com SS-21](https://web.archive.org/web/20120717075754/http://missilethreat.com/missiles/ss-21-a_russia.html)
   - [Jane's Defence news on North Korean SS-21 test, April 2006](http://www.janes.com/defence/news/jmr/jmr060407_1_n.shtml)
 
-[분류:소련의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:소련의_지대지유도탄 "wikilink") [분류:러시아의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:러시아의_지대지유도탄 "wikilink") [분류:북핵문제](https://ko.wikipedia.org/wiki/분류:북핵문제 "wikilink")
+[분류:소련의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:소련의_지대지유도탄 "wikilink") [분류:러시아의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:러시아의_지대지유도탄 "wikilink") [분류:소련의 핵무기](https://ko.wikipedia.org/wiki/분류:소련의_핵무기 "wikilink") [분류:북핵문제](https://ko.wikipedia.org/wiki/분류:북핵문제 "wikilink")

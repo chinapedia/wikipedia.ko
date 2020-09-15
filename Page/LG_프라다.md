@@ -6,7 +6,7 @@
 ## 기능
 
   - 넓은 터치 스크린
-  - 음악 재생 기능 ([MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink"), [AAC](../Page/고급_오디오_부호화.md "wikilink"), [AAC+](https://ko.wikipedia.org/wiki/HE-AAC "wikilink"), [WMA](https://ko.wikipedia.org/wiki/윈도_미디어_오디오 "wikilink") ,[RA](https://ko.wikipedia.org/wiki/리얼오디오 "wikilink"))
+  - 음악 재생 기능 ([MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink"), [AAC](../Page/고급_오디오_부호화.md "wikilink"), [AAC+](../Page/HE-AAC.md "wikilink"), [WMA](https://ko.wikipedia.org/wiki/윈도_미디어_오디오 "wikilink") ,[RA](https://ko.wikipedia.org/wiki/리얼오디오 "wikilink"))
   - 음악 다중 작업 (메시징)
   - 동영상 재생 기능 (MPEG4, H.263/H.264)
   - 어도비 플래시 사용자 인터페이스

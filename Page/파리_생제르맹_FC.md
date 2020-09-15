@@ -83,27 +83,29 @@ OM과 PSG 팬들 간에는 팽팽한 관계를 가지는데, 마르세유와 파
 
 ### 국내 대회
 
-  - **[리그 1](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 우승 : 8회**
-      - [1985-86](https://ko.wikipedia.org/wiki/디비시옹_1_1985-86 "wikilink"), [1993-94](https://ko.wikipedia.org/wiki/디비시옹_1_1993-94 "wikilink"), [2012-13](../Page/리그_1_2012-13.md "wikilink"), [2013-14](https://ko.wikipedia.org/wiki/리그_1_2013-14 "wikilink"), [2014-15](../Page/리그_1_2014-15.md "wikilink"), [2015-16](../Page/리그_1_2015-16.md "wikilink"), [2017-18](https://ko.wikipedia.org/wiki/리그_1_2017-18 "wikilink"), [2018-19](https://ko.wikipedia.org/wiki/리그_1_2018-19 "wikilink")
+  - **[리그 1](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 우승 : 9회**
+      - [1985-86](https://ko.wikipedia.org/wiki/디비시옹_1_1985-86 "wikilink"), [1993-94](https://ko.wikipedia.org/wiki/디비시옹_1_1993-94 "wikilink"), [2012-13](../Page/리그_1_2012-13.md "wikilink"), [2013-14](https://ko.wikipedia.org/wiki/리그_1_2013-14 "wikilink"), [2014-15](../Page/리그_1_2014-15.md "wikilink"), [2015-16](../Page/리그_1_2015-16.md "wikilink"), [2017-18](https://ko.wikipedia.org/wiki/리그_1_2017-18 "wikilink"), [2018-19](https://ko.wikipedia.org/wiki/리그_1_2018-19 "wikilink"), [2019-20](https://ko.wikipedia.org/wiki/리그_1_2019-20 "wikilink")
   - **[리그 1](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 준우승 : 7회**
       - [1988-89](https://ko.wikipedia.org/wiki/디비시옹_1_1988-89 "wikilink"), [1992-93](https://ko.wikipedia.org/wiki/디비시옹_1_1992-93 "wikilink"), [1996-97](https://ko.wikipedia.org/wiki/디비시옹_1_1996-97 "wikilink"), [1999-00](https://ko.wikipedia.org/wiki/디비시옹_1_1999-00 "wikilink"), [2003-04](https://ko.wikipedia.org/wiki/리그_1_2003-04 "wikilink"), [2011-12](../Page/리그_1_2011-12.md "wikilink"), [2016-17](../Page/리그_1_2016-17.md "wikilink")
   - **[리그 2](../Page/리그_2.md "wikilink"): 1회**
       - [1970-71](https://ko.wikipedia.org/wiki/디비시옹_2_1970-71 "wikilink")
-  - **[쿠프 드 프랑스](../Page/쿠프_드_프랑스.md "wikilink"): 12회**
-      - [1981-82](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_1981-82 "wikilink"), [1982-83](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_1982-83 "wikilink"), [1992-93](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_1992-93 "wikilink"), [1994-95](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_1994-95 "wikilink"), [1997-98](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_1997-98 "wikilink"), [2003-04](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2003-04 "wikilink"), [2005-06](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2005-06 "wikilink"), [2009-10](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2009-10 "wikilink"), [2014-15](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2014-15 "wikilink"), [2015-16](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2015-16 "wikilink"), [2016-17](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2016-17 "wikilink"), [2017-18](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2017-18 "wikilink")
-  - **[쿠프 드 라 리그](../Page/쿠프_드_라_리그.md "wikilink"): 8회**
-      - [1994-95](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_1994-95 "wikilink"), [1997-98](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_1997-98 "wikilink"), [2007-08](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2007-08 "wikilink"), [2013-14](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2013-14 "wikilink"), [2014-15](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2014-15 "wikilink"), [2015-16](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2015-16 "wikilink"), [2016-17](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2016-17 "wikilink"), [2017-18](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2017-18 "wikilink")
+  - **[쿠프 드 프랑스](../Page/쿠프_드_프랑스.md "wikilink"): 13회**
+      - [1981-82](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_1981-82 "wikilink"), [1982-83](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_1982-83 "wikilink"), [1992-93](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_1992-93 "wikilink"), [1994-95](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_1994-95 "wikilink"), [1997-98](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_1997-98 "wikilink"), [2003-04](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2003-04 "wikilink"), [2005-06](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2005-06 "wikilink"), [2009-10](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2009-10 "wikilink"), [2014-15](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2014-15 "wikilink"), [2015-16](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2015-16 "wikilink"), [2016-17](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2016-17 "wikilink"), [2017-18](https://ko.wikipedia.org/wiki/쿠프_드_프랑스_2017-18 "wikilink"), [2019-20](../Page/쿠프_드_프랑스_2019-20.md "wikilink")
+  - **[쿠프 드 라 리그](../Page/쿠프_드_라_리그.md "wikilink"): 9회**
+      - [1994-95](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_1994-95 "wikilink"), [1997-98](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_1997-98 "wikilink"), [2007-08](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2007-08 "wikilink"), [2013-14](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2013-14 "wikilink"), [2014-15](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2014-15 "wikilink"), [2015-16](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2015-16 "wikilink"), [2016-17](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2016-17 "wikilink"), [2017-18](https://ko.wikipedia.org/wiki/쿠프_드_라_리그_2017-18 "wikilink"), [2019-20](../Page/쿠프_드_라_리그_2019-20.md "wikilink")
   - **[트로페 데 샹피옹](../Page/트로페_데_샹피옹.md "wikilink"): 9회**
       - [1995](https://ko.wikipedia.org/wiki/트로페_데_샹피옹_1995 "wikilink"), [1998](https://ko.wikipedia.org/wiki/트로페_데_샹피옹_1998 "wikilink"), [2013](https://ko.wikipedia.org/wiki/트로페_데_샹피옹_2013 "wikilink"), [2014](https://ko.wikipedia.org/wiki/트로페_데_샹피옹_2014 "wikilink"), [2015](https://ko.wikipedia.org/wiki/트로페_데_샹피옹_2015 "wikilink"), [2016](https://ko.wikipedia.org/wiki/트로페_데_샹피옹_2016 "wikilink"), [2017,](https://ko.wikipedia.org/wiki/트로페_데_샹피옹_2017 "wikilink") 2018, 2019
 
 ### 국제대회
 
+  - '''[UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 준우승:1회
+      - [2019-20](../Page/UEFA_챔피언스리그.md "wikilink")
   - **[UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink"): 1회**
       - [1995-96](https://ko.wikipedia.org/wiki/UEFA_컵위너스컵_1995-96 "wikilink")
   - **[UEFA 인터토토컵](../Page/UEFA_인터토토컵.md "wikilink"): 1회**
       - [2001](https://ko.wikipedia.org/wiki/UEFA_인터토토컵_2001 "wikilink")
 
-<!-- end list -->
+### 친선|대회
 
   - **[인터내셔널 챔피언스컵](../Page/인터내셔널_챔피언스컵.md "wikilink"): 1회**
       - [2015](https://ko.wikipedia.org/wiki/인터내셔널_챔피언스컵_2015 "wikilink")

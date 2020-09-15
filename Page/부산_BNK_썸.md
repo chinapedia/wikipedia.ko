@@ -30,7 +30,7 @@
 
 6월에는 새 시즌을 치르기 위한 홈 경기장으로 [서수원칠보체육관](https://ko.wikipedia.org/wiki/서수원칠보체육관 "wikilink")과 협의에 들어갔으며\[4\] 이후 서수원칠보체육관으로 확정되었다. 훈련장으로는 수원보훈재활체육센터를 사용했다.\[5\]
 
-6월 19일 열린 WKBL 외국인선수 선발회에서는 추첨 결과 2순위 지명권을 얻어 [WNBA](https://ko.wikipedia.org/wiki/WNBA "wikilink") [애틀랜타 드림](../Page/애틀랜타_드림.md "wikilink") 소속이자 지난 시즌 [청주 KB국민은행 스타즈에서](https://ko.wikipedia.org/wiki/청주_KB국민은행_스타즈 "wikilink") 활약하기도 한 [다미리스 단타스를](https://ko.wikipedia.org/wiki/다미리스_단타스 "wikilink") 지명하였다.\[6\]
+6월 19일 열린 WKBL 외국인선수 선발회에서는 추첨 결과 2순위 지명권을 얻어 [WNBA](https://ko.wikipedia.org/wiki/WNBA "wikilink") [애틀랜타 드림](../Page/애틀랜타_드림.md "wikilink") 소속이자 지난 시즌 [청주 KB국민은행 스타즈에서](https://ko.wikipedia.org/wiki/청주_KB국민은행_스타즈 "wikilink") 활약하기도 한 [다미리스 단타스를](../Page/다미리스_단타스.md "wikilink") 지명하였다.\[6\]
 
 8월부터 9월까지 열린 [2018 박신자컵 서머리그에서는](../Page/2018_박신자컵_서머리그.md "wikilink") 2승 3패를 거두며 최종 순위 5위를 기록하였다. 10월 1일부로 KDB생명 명칭 사용 권한이 해제되어\[7\] WKBL 위탁운영팀이란 팀명을 사용하게 되면서\[8\], 2018 박신자컵은 구리 KDB생명 위너스 팀명으로 참가한 마지막 대회가 되었다.
 
@@ -566,7 +566,7 @@
 
 **[WKBL 챔피언 결정전](https://ko.wikipedia.org/wiki/WKBL_챔피언_결정전 "wikilink") MVP**
 
-  - [김지윤](https://ko.wikipedia.org/wiki/김지윤_\(농구_선수\) "wikilink") – 2004 겨울
+  - [김지윤](../Page/김지윤_\(농구_선수\).md "wikilink") – 2004 겨울
 
 **WKBL 정규리그 MVP**
 

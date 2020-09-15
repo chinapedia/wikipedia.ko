@@ -23,7 +23,7 @@
 
 이 음반의 첫 싱글을 결정하는 과정에서, 원래 후보로 제시됐던 곡들에 대해 유통사측이 첫 싱글로 적합하지 않다고 생각했기 때문에 다소 갈등이 있었다. 결국 1년 전 노엘이 작곡하고 데모를 만들어 두었지만 당시까지 정식 녹음되지 않고 있었던 〈[Lyla](https://ko.wikipedia.org/wiki/Lyla "wikilink")〉를 녹음하기로 결정했고, 데이브 사르디가 새로 녹음한 리암의 보컬과 잭의 드럼 트랙을 노엘의 기존 데모 원본과 리믹스해서 최종본을 만들어냈다. 〈Lyla〉는 영국 싱글 차트 1위, 미국 모던 락 차트 19위에 올랐다. 원래 첫 싱글로 〈Mucky Fingers〉를 주장했던 노엘은, 첫 싱글 결정이 밴드의 손을 떠나 유통사에 의해 이루어졌다는 사실에 대해 처음에는 탐탁지 않아 했지만 현재로서는 〈Lyla〉 덕분에 "장사가 잘됐다(done the business)"는 사실을 마지못해 인정하고 있다.
 
-2005년 4월에 홍보용 음반에서 4곡(〈The Meaning of Soul〉, 〈Mucky Fingers〉, 〈Keep the Dream Alive〉, 〈Let There Be Love〉)이 유출됐다. 2005년 5월 3일에는 [애플사의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [독일](../Page/독일.md "wikilink") [아이튠즈 스토어에서](https://ko.wikipedia.org/wiki/아이튠즈_스토어 "wikilink") 계획보다 일찍 음반을 업로드함으로써 음반 전체가 유출되는 일도 있었다. 경위에 대해 애플사나 오아시스 측에서 공식 코멘트는 없었지만, 애플사에서 "5월 30일"을 "5월 3일"로 혼동하여 빚어진 실수인 것으로 추측된다.
+2005년 4월에 홍보용 음반에서 4곡(〈The Meaning of Soul〉, 〈Mucky Fingers〉, 〈Keep the Dream Alive〉, 〈Let There Be Love〉)이 유출됐다. 2005년 5월 3일에는 [애플](../Page/애플.md "wikilink")사의 [독일](../Page/독일.md "wikilink") [아이튠즈 스토어에서](https://ko.wikipedia.org/wiki/아이튠즈_스토어 "wikilink") 계획보다 일찍 음반을 업로드함으로써 음반 전체가 유출되는 일도 있었다. 경위에 대해 애플사나 오아시스 측에서 공식 코멘트는 없었지만, 애플사에서 "5월 30일"을 "5월 3일"로 혼동하여 빚어진 실수인 것으로 추측된다.
 
 ## 트랙 목록
 

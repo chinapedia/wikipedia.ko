@@ -13,7 +13,7 @@
 
 2017-2018 시즌에 [EFL챔피언십에서](../Page/EFL_챔피언십.md "wikilink") 준우승을 차지하며 5시즌만에 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")로 승격하였다.
 
-2019-2020시즌에 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 18위를 기록해 1시즌 만에 다시 [EFL 챔피언십으로](../Page/EFL_챔피언십.md "wikilink") 강등되었다.
+2018-2019시즌에 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 18위를 기록해 1시즌 만에 다시 [EFL 챔피언십으로](../Page/EFL_챔피언십.md "wikilink") 강등되었다.
 
 ## 역대 우승 기록
 

@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - 아자이 카논 () - 성우 - [카와이 하루카](https://ko.wikipedia.org/wiki/코오로기_사토미 "wikilink") / 코오로기 사토미 (PC판, 드라마CD, WEB라디오판 동일)
+  - 아자이 카논 () - 성우 - [카와이 하루카](../Page/코오로기_사토미.md "wikilink") / 코오로기 사토미 (PC판, 드라마CD, WEB라디오판 동일)
 
 <!-- end list -->
 

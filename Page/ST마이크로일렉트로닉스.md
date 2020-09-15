@@ -5,7 +5,7 @@
 
 ST마이크로일렉트로닉스 사의 본사, [유럽](../Page/유럽.md "wikilink")의 본사는 최근에 시장이 형성된 제네바에 있으며, 모회사인 ST마이크로일렉트로닉스 N.V.의 본사는 [네덜란드](../Page/네덜란드.md "wikilink") [암스테르담](../Page/암스테르담.md "wikilink")에 있다.
 
-[미국](../Page/미국.md "wikilink")의 본사는 [텍사스 주 캐럴턴에](https://ko.wikipedia.org/wiki/캐럴턴_\(텍사스주\) "wikilink") 있다. [아시아](../Page/아시아.md "wikilink") [환태평양 지역의](../Page/환태평양.md "wikilink") 본사는 [싱가포르](../Page/싱가포르.md "wikilink")에 있으며, [일본](../Page/일본.md "wikilink")의 본사는 [도쿄](../Page/도쿄.md "wikilink")에서 운영된다. [중화권](https://ko.wikipedia.org/wiki/중화권 "wikilink")의 본사는 [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink")에 있다.
+[미국](../Page/미국.md "wikilink")의 본사는 [텍사스 주 캐럴턴에](https://ko.wikipedia.org/wiki/캐럴턴_\(텍사스주\) "wikilink") 있다. [아시아](../Page/아시아.md "wikilink") [환태평양 지역의](../Page/환태평양.md "wikilink") 본사는 [싱가포르](../Page/싱가포르.md "wikilink")에 있으며, [일본](../Page/일본.md "wikilink")의 본사는 [도쿄](../Page/도쿄.md "wikilink")에서 운영된다. [중화권](../Page/중화권.md "wikilink")의 본사는 [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink")에 있다.
 
 ## 연혁
 

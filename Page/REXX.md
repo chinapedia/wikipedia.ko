@@ -23,7 +23,7 @@ REXX는 다음의 기능을 제공한다:
   - [동적 자료형](https://ko.wikipedia.org/wiki/형_시스템 "wikilink") (선언이 없음)
   - [예약어](https://ko.wikipedia.org/wiki/예약어 "wikilink") 없음 (로컬 환경은 제외)
   - [다배장 정수](https://ko.wikipedia.org/wiki/다배장_정수 "wikilink")
-  - [부동 소수점](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink")
+  - [부동소수점](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink")
   - 자체 함수의 고급 선택
   - 기억 자료 자동 관리
   - 충돌 보호

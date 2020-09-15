@@ -139,7 +139,7 @@
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 강원</a></p></td>
 <td><p>평일 15분</p></td>
-<td><p>월요일~금요일 아침 7시 35분 ~ 7시 45분</p></td>
+<td><p>월요일~금요일 아침 7시 35분 ~ 7시 50분</p></td>
 <td><p>송준규</p></td>
 </tr>
 <tr class="even">
@@ -149,7 +149,7 @@
 <td><p>송준규</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_7_강원" title="wikilink">KBS 뉴스 7 강원</a></p></td>
+<td><p><a href="../Page/KBS_뉴스_7_강원.md" title="wikilink">KBS 뉴스 7 강원</a></p></td>
 <td><p>월~목 40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
 <td><p>윤석황, 김수연</p></td>
@@ -163,11 +163,11 @@
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 강원</a></p></td>
 <td><p>평일 15분<br />
-주말 10분</p></td>
+주말 5분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
-주말 밤 9시 20분 ~ 9시 30분</p></td>
+주말 밤 9시 25분 ~ 9시 30분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김서련" title="wikilink">김서련</a> (평일)<br />
-무직위 (주말)</p></td>
+무작위 (주말)</p></td>
 </tr>
 </tbody>
 </table>
@@ -189,12 +189,12 @@
 
   - 보도
 
-| 프로그램명                                                      | 방송시간                | 편성시간                                                | 진행                                                |
-| ---------------------------------------------------------- | ------------------- | --------------------------------------------------- | ------------------------------------------------- |
-| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                      | 박서정                                               |
-| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [송준규](https://ko.wikipedia.org/wiki/송준규 "wikilink") |                                                   |
-| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | 김수연                                                 |                                                   |
-| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 저녁 6시 \~ 6시 5분                                      | [삭제](https://ko.wikipedia.org/wiki/삭제 "wikilink") |
+| 프로그램명                                                      | 방송시간                | 편성시간           | 진행                                                |
+| ---------------------------------------------------------- | ------------------- | -------------- | ------------------------------------------------- |
+| KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분 | 송준규                                               |
+| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | 김수연            |                                                   |
+| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | 김수연            |                                                   |
+| KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 저녁 6시 \~ 6시 5분 | [삭제](https://ko.wikipedia.org/wiki/삭제 "wikilink") |
 
   - 시사·교양
 
@@ -225,7 +225,6 @@
 | KBS 춘천 아나운서                          |
 | ------------------------------------ |
 | 입사 연도                                |
-| [1982년](../Page/1982년.md "wikilink") |
 | [1995년](../Page/1995년.md "wikilink") |
 | [2004년](../Page/2004년.md "wikilink") |
 | [2010년](../Page/2010년.md "wikilink") |
@@ -266,6 +265,7 @@
   - [이은경](../Page/이은경.md "wikilink") (퇴사)
   - [이공순](https://ko.wikipedia.org/wiki/이공순 "wikilink") (퇴사)
   - [성연미](https://ko.wikipedia.org/wiki/성연미 "wikilink") (1985년\~1991년, 전 BBS 아나운서/현 봄온 아나운서 아카데미 대표)
+  - 정혜정 (1994년\~1997년, 퇴사)
   - [최원정](../Page/최원정.md "wikilink") (2000년\~2001년, 현 KBS 서울본국)
   - [김날해](https://ko.wikipedia.org/wiki/김날해 "wikilink") (2001년\~2009년, 현 SBS CNBC기자)
   - [김진경](https://ko.wikipedia.org/wiki/김진경_\(아나운서\) "wikilink") (퇴사)
@@ -284,6 +284,7 @@
   - [강지연](https://ko.wikipedia.org/wiki/강지연_\(아나운서\) "wikilink") (2017년\~2018년, 현 TBS 교통방송)
   - [박하늬](https://ko.wikipedia.org/wiki/박하늬 "wikilink") (2001년\~2018년, 현 퇴사)
   - 이은주 (2018년\~ 현 퇴사)
+  - 박서정 (정년퇴직)
 
 ## 기상 캐스터
 
@@ -291,8 +292,8 @@
 
 ## 기자
 
-  - [최진호](https://ko.wikipedia.org/wiki/최진호 "wikilink") 보도국장
-  - [김나래](https://ko.wikipedia.org/wiki/김나래 "wikilink") 철원팀장
+  - [권혁일](https://ko.wikipedia.org/wiki/권혁일 "wikilink") 보도국장
+  - [최진호](https://ko.wikipedia.org/wiki/최진호 "wikilink") 철원팀장
   - [김진업](https://ko.wikipedia.org/wiki/김진업 "wikilink") 양구팀장
   - [엄기숙](https://ko.wikipedia.org/wiki/엄기숙 "wikilink") 취재부장
   - [이영일](https://ko.wikipedia.org/wiki/이영일 "wikilink") 보도국장
@@ -302,6 +303,7 @@
   - [조병관](https://ko.wikipedia.org/wiki/조병관 "wikilink") 화천팀장
   - [조휴연](https://ko.wikipedia.org/wiki/조휴연 "wikilink") 홍천팀장
   - [이청초](https://ko.wikipedia.org/wiki/이청초 "wikilink")
+  - [노지영](https://ko.wikipedia.org/wiki/노지영 "wikilink")
 
 ## 각주
 

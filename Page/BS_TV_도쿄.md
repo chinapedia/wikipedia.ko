@@ -35,6 +35,6 @@
 
 ## 외부 링크
 
-  - [BS TV 도쿄 공식 사이트](http://www.bs-tvtokyo.co.jp/)
+  - [BS TV 도쿄 공식 사이트](https://web.archive.org/web/20181028153112/http://www.bs-tvtokyo.co.jp/)
 
 [분류:TV 도쿄](https://ko.wikipedia.org/wiki/분류:TV_도쿄 "wikilink") [분류:1998년 설립](https://ko.wikipedia.org/wiki/분류:1998년_설립 "wikilink") [분류:일본의 위성방송국](https://ko.wikipedia.org/wiki/분류:일본의_위성방송국 "wikilink")

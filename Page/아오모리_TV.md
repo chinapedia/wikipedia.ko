@@ -1,20 +1,18 @@
 > This article is converted from Wikipedia: [아오모리 TV](https://ko.wikipedia.org/wiki/아오모리_TV).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:ATV-Aomori.JPG "wikilink") **아오모리 TV**는 [1969년](../Page/1969년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [아오모리현](../Page/아오모리현.md "wikilink")의 2번째 민영방송국으로 개국했다.
-
-약칭은 ATV, 콜사인은 JOAI-DTV이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:ATV-Aomori.JPG "wikilink") **아오모리 TV**는 [1969년](../Page/1969년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [아오모리현](../Page/아오모리현.md "wikilink")의 2번째 민영방송국으로 개국했다. 약칭은 ATV, 콜사인은 JOAI-DTV이다.
 
 ## 연혁
 
-  - [1968년](../Page/1968년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink")：설립.
-  - [1969년](../Page/1969년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink")：이날부터 서비스 방송 개시(개국 전날인 [30일까지](../Page/11월_30일.md "wikilink")).
-  - [1969년](../Page/1969년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink")：[아오모리 방송에](../Page/아오모리_방송.md "wikilink") 이어 아오모리현 2번째 민영 텔레비전 방송국으로서 개국.([아키타 TV](../Page/아키타_TV.md "wikilink")·[TV 이와테](../Page/TV_이와테.md "wikilink")·[미에 TV 방송도](../Page/미에_TV_방송.md "wikilink") 같은날 개국)
-  - [1970년](../Page/1970년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink")： [ANN에](../Page/올_닛폰_뉴스_네트워크.md "wikilink") 가맹(\~[1975년](../Page/1975년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink")).
-  - [1975년](../Page/1975년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink")： JNN에 가맹하면서 JNN 완전가맹국이 된다.
-  - [2006년](../Page/2006년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink")：지상파 디지털 텔레비전 시험 방송 개시(아오모리 본국).
-  - [2006년](../Page/2006년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink")： 지상파 디지털 텔레비전 방송 개시.
-  - [2007년](../Page/2007년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink")：뉴스 전용 스튜디오 설비 하이비전화 완료.
+  - [1968년](../Page/1968년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink"): 설립.
+  - [1969년](../Page/1969년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink"): 이날부터 서비스 방송 개시(개국 전날인 [30일까지](../Page/11월_30일.md "wikilink")).
+  - [1969년](../Page/1969년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink"): [아오모리 방송에](../Page/아오모리_방송.md "wikilink") 이어 아오모리현 2번째 민영 텔레비전 방송국으로서 개국.([아키타 TV](../Page/아키타_TV.md "wikilink")·[TV 이와테](../Page/TV_이와테.md "wikilink")·[미에 TV 방송도](../Page/미에_TV_방송.md "wikilink") 같은날 개국)
+  - [1970년](../Page/1970년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"): [ANN에](../Page/올_닛폰_뉴스_네트워크.md "wikilink") 가맹(\~[1975년](../Page/1975년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink")).
+  - [1975년](../Page/1975년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink"): JNN에 가맹하면서 JNN 완전가맹국이 된다.
+  - [2006년](../Page/2006년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink"): 지상파 디지털 텔레비전 시험 방송 개시(아오모리 본국).
+  - [2006년](../Page/2006년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink"): 지상파 디지털 텔레비전 방송 개시.
+  - [2007년](../Page/2007년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink"): 뉴스 전용 스튜디오 설비 하이비전화 완료.
   - [2011년](../Page/2011년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink"): 지상파 아날로그 텔레비전 방송 종료.
 
 ## 텔레비전 네트워크의 변천

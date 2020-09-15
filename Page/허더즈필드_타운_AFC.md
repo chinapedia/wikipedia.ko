@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [허더즈필드 타운 AFC](https://ko.wikipedia.org/wiki/허더즈필드_타운_AFC).
 
 
-**허더즈필드 타운 FC**는 [1908년](../Page/1908년.md "wikilink")에 설립된 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구팀](https://ko.wikipedia.org/wiki/축구팀 "wikilink")으로 [웨스트요크셔주](../Page/웨스트요크셔주.md "wikilink")의 [허더즈필드](../Page/허더즈필드.md "wikilink")에 연고를 두고 있다.
+**허더즈필드 타운 AFC**는 [1908년](../Page/1908년.md "wikilink")에 설립된 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구팀](https://ko.wikipedia.org/wiki/축구팀 "wikilink")으로 [웨스트요크셔주](../Page/웨스트요크셔주.md "wikilink")의 [허더즈필드](../Page/허더즈필드.md "wikilink")에 연고를 두고 있다.
 
-1926년에 허더즈필드는 최초로 3회 연속 리그 우승을 차지한 팀이 되었다. 이 기록은 허더즈필드를 제외하고 단 세팀만이 가지고 있는 기록이다. 2005년 2월 2일에 팀명을 허더즈필드 타운 AFC (Huddersfield Town Association Football Club) 에서 허더즈필드 타운 FC (Huddersfield Town Football Club) 으로 변경하였다.
+1926년에 허더즈필드는 최초로 3회 연속 리그 우승을 차지한 팀이 되었다. 이 기록은 허더즈필드를 제외하고 단 세팀만이 가지고 있는 기록이다. 2005년 2월 2일에 팀명을 허더즈필드 타운 AFC (Huddersfield Town Association Football Club) 에서 허더즈필드 타운 FC (Huddersfield Town Football Club) 으로 변경하였으나 2016년에 다시 허더즈필드 타운 AFC로 되돌아갔다.
 
 클럽은 전통적으로 파란색과 흰색이 세로로 교차하는 셔츠와 하얀색 바지를 유니폼으로 사용해왔다. 이들의 주요 라이벌팀은 [리즈 유나이티드와](https://ko.wikipedia.org/wiki/리즈_유나이티드_AFC "wikilink") [브래드퍼드 시티이다](https://ko.wikipedia.org/wiki/브래드퍼드_시티 "wikilink").
 

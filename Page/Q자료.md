@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Q자료](https://ko.wikipedia.org/wiki/Q자료).
 
 
-**Q자료** 또는 **Q문서**는 [예수](../Page/예수.md "wikilink")의 어록이라고 생각되는 구절들로 이루어진 가상의 [기독교](../Page/기독교.md "wikilink") 문서를 말한다. Q라는 명칭은 출처 또는 원천을 말하는 [독일어](../Page/독일어.md "wikilink") Quelle에서 유래했다. 주로 예수의 설교를 담은 어록 복음서일 것으로 본다. [공관복음서 문제에](https://ko.wikipedia.org/wiki/공관복음#공관복음서_문제 "wikilink") 가장 널리 알려진 해법은 Q자료가 있었다고 보는 것이다. 한국에서 [장신대학교의](../Page/장로회신학대학교.md "wikilink") [소기천](../Page/소기천.md "wikilink") 박사가 이 분야에서는 세계적인 권위자이다.\[1\]\[2\]
+**Q자료**는 [예수](../Page/예수.md "wikilink")의 어록이라고 생각되는 구절들로 이루어진 가상의 [기독교](../Page/기독교.md "wikilink") 문서를 말한다. Q라는 명칭은 출처 또는 원천을 말하는 [독일어](../Page/독일어.md "wikilink")의 **Quelle**에서 유래했다. 주로 예수의 설교를 담은 어록 복음서일 것으로 본다. [공관복음서 문제에](https://ko.wikipedia.org/wiki/공관복음#공관복음서_문제 "wikilink") 가장 널리 알려진 해법은 Q자료가 있었다고 보는 것이다. 한국에서 [장신대학교의](../Page/장로회신학대학교.md "wikilink") [소기천](../Page/소기천.md "wikilink") 박사가 이 분야에서는 세계적인 권위자이다.\[1\]\[2\]
 
 ## 공관복음서 문제
 

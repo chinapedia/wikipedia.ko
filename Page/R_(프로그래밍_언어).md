@@ -13,7 +13,7 @@ R의 또 다른 강점은 그래픽 기능으로 수학 기호를 포함할 수 
 
 R는 통계 계산과 소프트웨어 개발을 위한 환경이 필요한 통계학자와 연구자들 뿐만 아니라, [행렬](../Page/행렬.md "wikilink") 계산을 위한 도구로서도 사용될 수 있으며 이 부분에서 GNU Octave나 [MATLAB](../Page/MATLAB.md "wikilink")에 견줄 만한 결과를 보여준다.
 
-R는 윈도, [맥 OS](../Page/MacOS.md "wikilink") 및 [리눅스](../Page/리눅스.md "wikilink")를 포함한 [UNIX](../Page/유닉스.md "wikilink") 플랫폼에서 이용 가능하다.
+R는 [MS 윈도우](https://ko.wikipedia.org/wiki/MS_윈도우 "wikilink"), [맥 OS](../Page/MacOS.md "wikilink") 및 [리눅스](../Page/리눅스.md "wikilink")를 포함한 [UNIX](../Page/유닉스.md "wikilink") 플랫폼에서 이용 가능하다.
 
 ### 처리속도
 
@@ -32,6 +32,11 @@ R 및 그 라이브러리는 [선형](../Page/선형_회귀.md "wikilink") 및 [
 R의 또 다른 장점은 수학 그래픽을 포함해 고품질의 그래프를 만들 수 있는 정적 그래픽이다. 다이나믹하고 인터랙티브 한 그래픽도 추가 패키지를 통해 제공된다.\[4\]
 
 R에는 [LaTeX](../Page/LaTeX.md "wikilink")와 유사한 자체 문서 형식인 [Rd](http://www.hep.by/gnu/r-patched/r-exts/R-exts_49.html)가 있으며, 이는 온라인과 하드카피에서 포괄적인 문서를 제공하는 데 사용된다.
+
+## 같이 보기
+
+  - [PSPP](https://ko.wikipedia.org/wiki/PSPP "wikilink")
+  - [SPSS](../Page/SPSS.md "wikilink")
 
 ## 각주
 

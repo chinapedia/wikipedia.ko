@@ -62,7 +62,7 @@
 <hr />
 <p>가위/바위/보/묵/찌/<strong>빠</strong> (답)</p>
 </div>
-<p>▲ “변신 가위 바위 보”의 예</p>
+<p>▲ “변신 가위바위보”의 예</p>
 </div></td>
 <td><div style="float:right;">
 <div style="background:white; border: 1px #828282 solid; width:170px; height:215px; text-align:center;">
@@ -85,7 +85,7 @@
 
 </div>
 
-  - 변신 [가위 바위 보](https://ko.wikipedia.org/wiki/가위_바위_보 "wikilink")(가위 바위 보가 아닌 ‘묵찌빠’로 대답하여야 한다.)
+  - 변신 가위바위보('가위', '바위', '보'가 아닌 '묵', '찌', '빠'로 대답해야 한다.)
   - 연속 뺄셈
   - 기호 변환
   - 기억 덧셈

@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MBC 스포츠뉴스](https://ko.wikipedia.org/wiki/MBC_스포츠뉴스).
 
 
-《**MBC 스포츠뉴스**》()는 [MBC에서](../Page/문화방송.md "wikilink") 평일 저녁 8시 45분, 주말 저녁 8시 35분에 방송되는 문화방송의 스포츠뉴스 프로그램이자 [MBC 뉴스데스크의](../Page/MBC_뉴스데스크.md "wikilink") 스포츠뉴스 코너이다. [2010년](../Page/2010년.md "wikilink") [11월 1일부터](../Page/11월_1일.md "wikilink") 편성이 평일로 축소된 이후 [2010년](../Page/2010년.md "wikilink") [12월 24일에](../Page/12월_24일.md "wikilink") 종영되었다가 [2012년](../Page/2012년.md "wikilink") [5월 14일부터](../Page/5월_14일.md "wikilink") 재신설되었고, [2012년](../Page/2012년.md "wikilink") [7월 16일부터](../Page/7월_16일.md "wikilink") 2012년 8월 17일까지 런던 올림픽 관계로 결방되었다가 [2012년](../Page/2012년.md "wikilink") [8월 20일부터](../Page/8월_20일.md "wikilink") [MBC 뉴스데스크의](../Page/MBC_뉴스데스크.md "wikilink") 스포츠뉴스 코너로 통합되었으며, 2012년 8월 27일부터 편성이 다시 주말까지 확대되었다.
+《**MBC 스포츠뉴스**》()는 [MBC에서](../Page/문화방송.md "wikilink") 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 밤 8시 45분과 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 밤 8시 35분에 방송되는 문화방송의 스포츠뉴스 프로그램이자 [MBC 뉴스데스크의](../Page/MBC_뉴스데스크.md "wikilink") 스포츠뉴스 코너다. [2010년](../Page/2010년.md "wikilink") [11월 1일부터](../Page/11월_1일.md "wikilink") 편성이 평일로 축소된 이후 [2010년](../Page/2010년.md "wikilink") [12월 24일에](../Page/12월_24일.md "wikilink") 종영되었다가 [2012년](../Page/2012년.md "wikilink") [5월 14일부터](../Page/5월_14일.md "wikilink") 재신설되었으며, [2012년](../Page/2012년.md "wikilink") [7월 16일부터](../Page/7월_16일.md "wikilink") 2012년 8월 17일까지 런던 올림픽 관계로 결방되었다가 [2012년](../Page/2012년.md "wikilink") [8월 20일부터](../Page/8월_20일.md "wikilink") [MBC 뉴스데스크의](../Page/MBC_뉴스데스크.md "wikilink") 스포츠뉴스 코너로 통합되었으며, 2012년 8월 27일부터 편성이 다시 주말까지 확대되었다.
 
 ## 방송 개시
 
-1974년을 전후로 당시 진행자 뿐만 아니라 시그널 등의 변화는 전혀 없었으며 다만 명칭만 바뀔 뿐이었으나 [1974년](../Page/1974년.md "wikilink") [11월 10일부터](../Page/11월_10일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [4월 30일까지는](../Page/4월_30일.md "wikilink") 《MBC 스포츠뉴스》로 방송시작하였고 [2002년](../Page/2002년.md "wikilink") [5월 1일부터](../Page/5월_1일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [6월 30일까지는](../Page/6월_30일.md "wikilink") 《MBC 월드컵뉴스》로 변경하였으며 [2002년](../Page/2002년.md "wikilink") [7월 1일부터](../Page/7월_1일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [9월 30일까지](../Page/9월_30일.md "wikilink")《MBC 스포츠뉴스》로 환원되었으며 [2002년](../Page/2002년.md "wikilink") [10월 1일부터](../Page/10월_1일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [10월 14일까지는](../Page/10월_14일.md "wikilink") 《MBC 아시안게임뉴스》로 변경하였으며 [2002년](../Page/2002년.md "wikilink") [10월 15일부터](../Page/10월_15일.md "wikilink") 《MBC 스포츠뉴스》로 현재까지는 시그널부터 부활하였다.
+1974년을 전후로 당시 진행자 뿐 아니라 시그널의 변화는 전혀 없었으며, 명칭만 바뀔 뿐이었으나 [1974년](../Page/1974년.md "wikilink") [11월 10일부터](../Page/11월_10일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [4월 30일까지는](../Page/4월_30일.md "wikilink") 《MBC 스포츠뉴스》로 방송시작하였으며, [2002년](../Page/2002년.md "wikilink") [5월 1일부터](../Page/5월_1일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [6월 30일까지는](../Page/6월_30일.md "wikilink") 《MBC 월드컵뉴스》로 변경하였으며, [2002년](../Page/2002년.md "wikilink") [7월 1일부터](../Page/7월_1일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [9월 30일까지](../Page/9월_30일.md "wikilink")《MBC 스포츠뉴스》로 환원되었으며, [2002년](../Page/2002년.md "wikilink") [10월 1일부터](../Page/10월_1일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [10월 14일까지는](../Page/10월_14일.md "wikilink") 《MBC 아시안게임뉴스》로 변경하였으며, [2002년](../Page/2002년.md "wikilink") [10월 15일부터](../Page/10월_15일.md "wikilink") 《MBC 스포츠뉴스》로 현재까지는 시그널부터 부활하였다.
 
 ## 구성
 
@@ -13,12 +13,12 @@
 
 ### TOP PLAY
 
-허일후 아나운서
+이영은 아나운서
 이선영 아나운서
 
 ### 스포츠 영상
 
-허일후 아나운서
+이영은 아나운서
 이선영 아나운서
 
 ## 역대 시간 편성
@@ -171,29 +171,30 @@
 
 ### 평일
 
-| 역대  | 진행자                                                          | 진행 기간                                                                                                                                                        | 비고         |
-| --- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| 1대  | [이철원](https://ko.wikipedia.org/wiki/이철원 "wikilink")          | [1981년](../Page/1981년.md "wikilink") \~ [1983년](../Page/1983년.md "wikilink")                                                                                 |            |
-| 2대  | [송재익](../Page/송재익.md "wikilink")                             | [1983년](../Page/1983년.md "wikilink") \~ [1985년](../Page/1985년.md "wikilink")                                                                                 |            |
-| 3대  | [이현우](https://ko.wikipedia.org/wiki/이현우_\(아나운서\) "wikilink") | [1985년](../Page/1985년.md "wikilink") \~ [1986년](../Page/1986년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink")                                          |            |
-| 4대  | [이윤철](../Page/이윤철_\(아나운서\).md "wikilink")                    | [1986년](../Page/1986년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") \~ [1989년](../Page/1989년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") |            |
-| 5대  | [이현우](https://ko.wikipedia.org/wiki/이현우_\(아나운서\) "wikilink") | [1989년](../Page/1989년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink")   | \[1\]      |
-| 6대  | [한선교](../Page/한선교.md "wikilink")                             | [1993년](../Page/1993년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink")   |            |
-| 7대  | [이윤재](https://ko.wikipedia.org/wiki/이윤재_\(아나운서\) "wikilink") | [1994년](../Page/1994년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") | |\[2\]     |
-| 8대  | [이윤철](../Page/이윤철_\(아나운서\).md "wikilink")                    | [1996년](../Page/1996년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") |            |
-| 9대  | [이재용](../Page/이재용_\(아나운서\).md "wikilink")                    | [1998년](../Page/1998년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink")   |            |
-| 10대 | [박경추](../Page/박경추.md "wikilink")                             | [2000년](../Page/2000년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink")   |            |
-| 11대 | [김완태](../Page/김완태_\(아나운서\).md "wikilink")                    | [2001년](../Page/2001년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink")   |            |
-| 12대 | [박경추](../Page/박경추.md "wikilink")                             | [2003년](../Page/2003년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink")   | \[3\]      |
-| 13대 | [이정민](../Page/이정민_\(1977년\).md "wikilink")                   | [2006년](../Page/2006년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink")       |            |
-| 14대 | [임경진](../Page/임경진.md "wikilink")                             | [2006년](../Page/2006년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink")     | \[4\]      |
-| 15대 | [김정근](../Page/김정근_\(아나운서\).md "wikilink")                    | [2008년](../Page/2008년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink")   |            |
-| 16대 | [김원경](https://ko.wikipedia.org/wiki/김원경 "wikilink")          | [2012년](../Page/2012년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink")   | \[5\]      |
-| 17대 | [김초롱](../Page/김초롱.md "wikilink")                             | [2012년](../Page/2012년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink")     |            |
-| 18대 | [박연경](../Page/박연경.md "wikilink")                             | [2013년](../Page/2013년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink")     | \[6\]      |
-| 19대 | [김초롱](../Page/김초롱.md "wikilink")                             | [2017년](../Page/2017년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink")   | \[7\]      |
-| 20대 | [박지민](https://ko.wikipedia.org/wiki/박지민_\(아나운서\) "wikilink") | [2017년](../Page/2017년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink")   |            |
-| 21대 | [허일후](../Page/허일후.md "wikilink")                             | [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ **현재**                                                                      | \[8\]\[9\] |
+| 역대  | 진행자                                                           | 진행 기간                                                                                                                                                        | 비고         |
+| --- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| 1대  | [이철원](https://ko.wikipedia.org/wiki/이철원 "wikilink")           | [1981년](../Page/1981년.md "wikilink") \~ [1983년](../Page/1983년.md "wikilink")                                                                                 |            |
+| 2대  | [송재익](../Page/송재익.md "wikilink")                              | [1983년](../Page/1983년.md "wikilink") \~ [1985년](../Page/1985년.md "wikilink")                                                                                 |            |
+| 3대  | [이현우](https://ko.wikipedia.org/wiki/이현우_\(아나운서\) "wikilink")  | [1985년](../Page/1985년.md "wikilink") \~ [1986년](../Page/1986년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink")                                          |            |
+| 4대  | [이윤철](../Page/이윤철_\(아나운서\).md "wikilink")                     | [1986년](../Page/1986년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") \~ [1989년](../Page/1989년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") |            |
+| 5대  | [이현우](https://ko.wikipedia.org/wiki/이현우_\(아나운서\) "wikilink")  | [1989년](../Page/1989년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink")   | \[1\]      |
+| 6대  | [한선교](../Page/한선교.md "wikilink")                              | [1993년](../Page/1993년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink")   |            |
+| 7대  | [이윤재](https://ko.wikipedia.org/wiki/이윤재_\(아나운서\) "wikilink")  | [1994년](../Page/1994년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") | |\[2\]     |
+| 8대  | [이윤철](../Page/이윤철_\(아나운서\).md "wikilink")                     | [1996년](../Page/1996년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") |            |
+| 9대  | [이재용](../Page/이재용_\(아나운서\).md "wikilink")                     | [1998년](../Page/1998년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink")   |            |
+| 10대 | [박경추](../Page/박경추.md "wikilink")                              | [2000년](../Page/2000년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink")   |            |
+| 11대 | [김완태](../Page/김완태_\(아나운서\).md "wikilink")                     | [2001년](../Page/2001년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink")   |            |
+| 12대 | [박경추](../Page/박경추.md "wikilink")                              | [2003년](../Page/2003년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink")   | \[3\]      |
+| 13대 | [이정민](../Page/이정민_\(1977년\).md "wikilink")                    | [2006년](../Page/2006년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink")       |            |
+| 14대 | [임경진](../Page/임경진.md "wikilink")                              | [2006년](../Page/2006년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink")     | \[4\]      |
+| 15대 | [김정근](../Page/김정근_\(아나운서\).md "wikilink")                     | [2008년](../Page/2008년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink")   |            |
+| 16대 | [김원경](https://ko.wikipedia.org/wiki/김원경 "wikilink")           | [2012년](../Page/2012년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink")   | \[5\]      |
+| 17대 | [김초롱](../Page/김초롱.md "wikilink")                              | [2012년](../Page/2012년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink")     |            |
+| 18대 | [박연경](../Page/박연경.md "wikilink")                              | [2013년](../Page/2013년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink")     | \[6\]      |
+| 19대 | [김초롱](../Page/김초롱.md "wikilink")                              | [2017년](../Page/2017년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink")   | \[7\]      |
+| 20대 | [박지민](https://ko.wikipedia.org/wiki/박지민_\(아나운서\) "wikilink")  | [2017년](../Page/2017년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink")   |            |
+| 21대 | [허일후](../Page/허일후.md "wikilink")                              | [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [6월 26일](../Page/6월_26일.md "wikilink") | \[8\]\[9\] |
+| 22대 | [이영은](https://ko.wikipedia.org/wiki/이영은_\(1993년\) "wikilink") | [2020년](../Page/2020년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") \~ **현재**                                                                        |            |
 
 ### 주말
 

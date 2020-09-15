@@ -11,7 +11,7 @@
 
 ### 어린이 사역
 
-17세 때인 [1854년](../Page/1854년.md "wikilink") [시카고](../Page/시카고.md "wikilink")에 간 무디는 외삼촌 새뮤얼 홀턴(Samuel Holton)의 제화점에서 영업사원으로 일했는데,5년 만에 7,000달러를 모았을 정도로 억척스럽게 일했다. [1855년](../Page/1855년.md "wikilink") [주일학교](https://ko.wikipedia.org/wiki/주일학교 "wikilink") 교사 에드워드 킴빌의 영향으로 [기독교인](../Page/기독교인.md "wikilink")이 된 그는 [시카고](../Page/시카고.md "wikilink") 빈민가의 어린이들에게 전도하는 어린이 사역을 하였다. 당시 그는 어린이들에게 구두팔듯이 화려한 언변으로 전도하여, 술집을 빌려 주일학교 공과수업을 할 정도로 어린이들이 매우 많이 모였으나, 정작 [그리스도](../Page/그리스도.md "wikilink")를 믿는 어린이들은 없었다. 비로소 무디는 자신이 아이들을 대상으로 [복음](../Page/복음.md "wikilink")을 '영업'한 것이지, 전도한 게 아님을 알게 된다.\[2\]
+17세 때인 [1854년](../Page/1854년.md "wikilink") [시카고](../Page/시카고.md "wikilink")에 간 무디는 외삼촌 새뮤얼 홀턴(Samuel Holton)의 제화점에서 영업사원으로 일했는데, 5년 만에 7,000달러를 모았을 정도로 억척스럽게 일했다. [1855년](../Page/1855년.md "wikilink") [주일학교](https://ko.wikipedia.org/wiki/주일학교 "wikilink") 교사 에드워드 킴빌의 영향으로 [기독교인](../Page/기독교인.md "wikilink")이 된 그는 [시카고](../Page/시카고.md "wikilink") 빈민가의 어린이들에게 전도하는 어린이 사역을 하였다. 당시 그는 어린이들에게 구두팔듯이 화려한 언변으로 전도하여, 술집을 빌려 주일학교 공과수업을 할 정도로 어린이들이 매우 많이 모였으나, 정작 [그리스도](../Page/그리스도.md "wikilink")를 믿는 어린이들은 없었다. 비로소 무디는 자신이 아이들을 대상으로 [복음](../Page/복음.md "wikilink")을 '영업'한 것이지, 전도한 게 아님을 알게 된다.\[2\]
 
 ### 전도
 
@@ -39,7 +39,7 @@
 
 #### 반지성주의
 
-무디는 [종교](../Page/종교.md "wikilink")적인 열정만 중요하게 생각하고, [학문](../Page/학문.md "wikilink")은 필요없는 것으로 잘못 생각하는 반(反)지성주의 기독교인이었다. 그 실례로 무디는 현대[신학](../Page/신학.md "wikilink"){{\#tag:ref|현대신학은 [칼 바르트의](https://ko.wikipedia.org/wiki/칼_바르트 "wikilink") 신정통주의 등장 이후의 모든 [신학](../Page/신학.md "wikilink")흐름을 말하며, [성서](https://ko.wikipedia.org/wiki/성서 "wikilink")와 \[전통\]에 뿌리를 둔 역사와 [사회](../Page/사회.md "wikilink")인식을 특징으로 한다. 그 실례로 현대신학의 한 흐름인 [해방신학](https://ko.wikipedia.org/wiki/해방신학 "wikilink")은 [정치](../Page/정치.md "wikilink")적 억압과 [빈부의 격차라는](https://ko.wikipedia.org/wiki/빈부의_격차 "wikilink") 부당한 현실을 하느님은 억압받는 사람, 가난한 사람을 편애하신다는 [성서](https://ko.wikipedia.org/wiki/성서 "wikilink")이해를 뿌리로 하여 개혁하고자 한다.\[4\]}}과 현대[과학](../Page/과학.md "wikilink")에 대해 믿음이 없는 것으로 생각했으며, [기독교 근본주의를](../Page/기독교_근본주의.md "wikilink") 고집하였다. 신광은은 이로 인해 무디의 전도집회로 [기독교인](../Page/기독교인.md "wikilink")이 된 사람들은 자신들이 살아가는 현실을 [이성](https://ko.wikipedia.org/wiki/이성 "wikilink")적인 믿음과 풍부한 학식을 이용하여 비판하며 [기독교](../Page/기독교.md "wikilink")적인 대안을 제시할 줄을 모르고 아예 관심도 없는, 한마디로 생각할 줄을 모르는 기독교인일수밖에 없었다고 지적하였다.\[5\]
+무디는 [종교](../Page/종교.md "wikilink")적인 열정만 중요하게 생각하고, [학문](../Page/학문.md "wikilink")은 필요없는 것으로 잘못 생각하는 반(反)지성주의 기독교인이었다. 그 실례로 무디는 현대[신학](../Page/신학.md "wikilink"){{\#tag:ref|현대신학은 [칼 바르트의](https://ko.wikipedia.org/wiki/칼_바르트 "wikilink") 신정통주의 등장 이후의 모든 [신학](../Page/신학.md "wikilink")흐름을 말하며, [성경](../Page/성경.md "wikilink")과 [전통](https://ko.wikipedia.org/wiki/전통 "wikilink")에 뿌리를 둔 역사와 [사회](../Page/사회.md "wikilink")인식을 특징으로 한다. 그 실례로 현대신학의 한 흐름인 [해방신학](https://ko.wikipedia.org/wiki/해방신학 "wikilink")은 [정치](../Page/정치.md "wikilink")적 억압과 [빈부의 격차라는](https://ko.wikipedia.org/wiki/빈부의_격차 "wikilink") 부당한 현실을 하나님은 억압받는 사람, 가난한 사람을 편애하신다는 [성경](../Page/성경.md "wikilink") 이해를 뿌리로 하여 개혁하고자 한다.\[4\]}}과 현대[과학](../Page/과학.md "wikilink")에 대해 믿음이 없는 것으로 생각했으며, [기독교 근본주의를](../Page/기독교_근본주의.md "wikilink") 고집하였다. 이로 인해 무디의 전도집회로 [기독교인](../Page/기독교인.md "wikilink")이 된 사람들은 자신들이 살아가는 현실에 대해 [이성](https://ko.wikipedia.org/wiki/이성 "wikilink")적인 믿음과 풍부한 학식을 이용하여 비판하지 못하고 [기독교](../Page/기독교.md "wikilink")적인 대안을 제시하지 못하는, 한마디로 생각할 줄 모르는 기독교인일 수밖에 없었다는 지적도 있다.\[5\]
 
 ## 각주
 

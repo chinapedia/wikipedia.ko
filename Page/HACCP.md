@@ -35,12 +35,12 @@
 
 식품, 축산물 HACCP 인증과 사료 HACCP 지정은 한국식품안전관리인증원에서 담당한다.
 
-1.  식품, 축산물, 사료 : 한국식품안전관리인증원(http://www.haccp.or.kr) 에서 신청할 수 있다.
+1.  식품, 축산물, 사료 : 한국식품안전관리인증원(https://web.archive.org/web/20170421170131/http://haccp.or.kr/) 에서 신청할 수 있다.
 
 ## 외부 링크
 
   - [농림축산검역본부](https://web.archive.org/web/20100826050636/http://www.nvrqs.go.kr/)
-  - [한국식품안전관리인증원](http://www.ihaccp.or.kr/)
+  - [한국식품안전관리인증원](https://web.archive.org/web/20110926063322/http://www.ihaccp.or.kr/)
   - [식품의약품안전처](https://web.archive.org/web/20071214221400/http://www.kfda.go.kr/)
 
 [분류:식품 안전](https://ko.wikipedia.org/wiki/분류:식품_안전 "wikilink") [분류:품질 경영](https://ko.wikipedia.org/wiki/분류:품질_경영 "wikilink")

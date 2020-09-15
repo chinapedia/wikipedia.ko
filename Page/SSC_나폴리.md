@@ -110,12 +110,12 @@
 
 <!-- end list -->
 
-  - **[20px](https://ko.wikipedia.org/wiki/파일:Coccarda_Coppa_Italia.svg "wikilink") [코파 이탈리아](../Page/코파_이탈리아.md "wikilink"): 5**
+  - **[20px](https://ko.wikipedia.org/wiki/파일:Coccarda_Coppa_Italia.svg "wikilink") [코파 이탈리아](../Page/코파_이탈리아.md "wikilink"): 6**
 
 <!-- end list -->
 
   -
-    [1961-62](https://ko.wikipedia.org/wiki/코파_이탈리아_1961-62 "wikilink"), [1975-76](https://ko.wikipedia.org/wiki/코파_이탈리아_1975-76 "wikilink"), [1986-87](https://ko.wikipedia.org/wiki/코파_이탈리아_1986-87 "wikilink"), [2011-12](https://ko.wikipedia.org/wiki/코파_이탈리아_2011-12 "wikilink"), [2013-14](https://ko.wikipedia.org/wiki/코파_이탈리아_2011-12 "wikilink")
+    [1961-62](https://ko.wikipedia.org/wiki/코파_이탈리아_1961-62 "wikilink"), [1975-76](https://ko.wikipedia.org/wiki/코파_이탈리아_1975-76 "wikilink"), [1986-87](https://ko.wikipedia.org/wiki/코파_이탈리아_1986-87 "wikilink"), [2011-12](https://ko.wikipedia.org/wiki/코파_이탈리아_2011-12 "wikilink"), [2013-14](https://ko.wikipedia.org/wiki/코파_이탈리아_2011-12 "wikilink"), [2019-20](../Page/코파_이탈리아_2019-20.md "wikilink")
 
 <!-- end list -->
 

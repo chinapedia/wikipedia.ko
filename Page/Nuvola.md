@@ -5,7 +5,7 @@
 
 ## 사용
 
-[KDE](../Page/KDE.md "wikilink"), [그놈](../Page/그놈.md "wikilink")뿐 아니라, Nuvola는 [Pidgin](https://ko.wikipedia.org/wiki/Pidgin "wikilink") 메신저와 [아마록](https://ko.wikipedia.org/wiki/아마록 "wikilink") 미디어 플레이어에서도 사용할 수 있다. Nuvola는 오픈랩 GNU/리눅스 배포판의 기본 아이콘이기도 하다.
+[KDE](../Page/KDE.md "wikilink"), [그놈](../Page/그놈.md "wikilink")뿐 아니라, Nuvola는 [Pidgin](https://ko.wikipedia.org/wiki/Pidgin "wikilink") 메신저와 [아마록](../Page/아마록.md "wikilink") 미디어 플레이어에서도 사용할 수 있다. Nuvola는 오픈랩 GNU/리눅스 배포판의 기본 아이콘이기도 하다.
 
 파일:Nuvola apps evolution.png 파일:Nuvola apps core.svg 파일:Nuvola apps colors.png 파일:Nuvola-fs-blockdev.svg 파일:Nuvola devices usbpendrive mount.png 파일:Nuvola devices cdrom mount.png 파일:Nuvola devices print class.png 파일:Nuvola apps artsbuilder.png 파일:Nuvola apps package utilities.png 파일:Nuvola apps kthememgr.png 파일:Nuvola apps kservices.svg 파일:Nuvola apps ark.png 파일:Nuvola apps konquest.svg 파일:Nuvola devices 3floppy mount.png 파일:Nuvola apps kwin4.png 파일:Nuvola apps package.svg 파일:Nuvola apps kolf.svg 파일:Screensaver.svg 파일:Nuvola apps knotify.png 파일:Nuvola devices pda.png
 

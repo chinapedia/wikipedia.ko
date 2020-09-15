@@ -345,14 +345,6 @@
 <td><p>2014년</p></td>
 </tr>
 <tr class="even">
-<td><p>15</p></td>
-<td><p><a href="../Page/예트로_빌럼스.md" title="wikilink">예트로 빌럼스</a>²</p></td>
-<td><p><a href="../Page/네덜란드.md" title="wikilink">네덜란드</a></p></td>
-<td></td>
-<td><p><a href="../Page/아인트라흐트_프랑크푸르트.md" title="wikilink">아인트라흐트 프랑크푸르트</a></p></td>
-<td><p>2019년</p></td>
-</tr>
-<tr class="odd">
 <td><p>17</p></td>
 <td><p><a href="../Page/에밀_크라프트.md" title="wikilink">에밀 크라프트</a></p></td>
 <td><p><a href="../Page/스웨덴.md" title="wikilink">스웨덴</a></p></td>
@@ -360,7 +352,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/아미앵_SC" title="wikilink">아미앵</a></p></td>
 <td><p>2019년</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>18</p></td>
 <td><p><a href="../Page/페데리코_페르난데스.md" title="wikilink">페데리코 페르난데스</a></p></td>
 <td><p><a href="../Page/아르헨티나.md" title="wikilink">아르헨티나</a></p></td>
@@ -368,7 +360,7 @@
 <td><p><a href="../Page/스완지_시티_AFC.md" title="wikilink">스완지 시티</a></p></td>
 <td><p>2018년</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>19</p></td>
 <td><p><a href="../Page/하비에르_망키요.md" title="wikilink">하비에르 망키요</a></p></td>
 <td><p><a href="../Page/스페인.md" title="wikilink">스페인</a></p></td>
@@ -376,7 +368,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/아틀레티코_마드리드" title="wikilink">아틀레티코 마드리드</a></p></td>
 <td><p>2017년</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>20</p></td>
 <td><p>플로리안 르죈</p></td>
 <td><p><a href="../Page/프랑스.md" title="wikilink">프랑스</a></p></td>
@@ -384,7 +376,7 @@
 <td><p><a href="../Page/SD_에이바르.md" title="wikilink">에이바르</a></p></td>
 <td><p>2017년</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>22</p></td>
 <td><p><a href="../Page/디안드레_예들린.md" title="wikilink">디안드레 예들린</a></p></td>
 <td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
@@ -392,15 +384,15 @@
 <td><p><a href="../Page/토트넘_홋스퍼_FC.md" title="wikilink">토트넘 홋스퍼</a></p></td>
 <td><p>2016년</p></td>
 </tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>제이미 스테리³</p></td>
+<tr class="odd">
+<td><p>28</p></td>
+<td><p><a href="../Page/대니_로즈.md" title="wikilink">대니 로즈</a>²</p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
 <td></td>
-<td><p>유소년 팀¹</p></td>
-<td><p>2015년</p></td>
+<td><p><a href="../Page/토트넘_홋스퍼_FC.md" title="wikilink">토트넘 홋스퍼</a></p></td>
+<td><p>2020년</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>미드필더</p></td>
 <td></td>
 <td></td>
@@ -408,7 +400,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8</p></td>
 <td><p><a href="../Page/존조_셸비.md" title="wikilink">존조 셸비</a></p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
@@ -416,7 +408,7 @@
 <td><p><a href="../Page/스완지_시티_AFC.md" title="wikilink">스완지 시티</a></p></td>
 <td><p>2016년</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>알랑 생막시맹</p></td>
 <td><p><a href="../Page/프랑스.md" title="wikilink">프랑스</a></p></td>
@@ -424,7 +416,7 @@
 <td><p><a href="../Page/OGC_니스.md" title="wikilink">니스</a></p></td>
 <td><p>2019년</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11</p></td>
 <td><p>맷 리치</p></td>
 <td><p><a href="../Page/스코틀랜드.md" title="wikilink">스코틀랜드</a></p></td>
@@ -432,7 +424,7 @@
 <td><p><a href="../Page/AFC_본머스.md" title="wikilink">본머스</a></p></td>
 <td><p>2016년</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>14</p></td>
 <td><p><a href="../Page/아이작_헤이든.md" title="wikilink">아이작 헤이든</a></p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
@@ -440,7 +432,7 @@
 <td><p><a href="../Page/아스널_FC.md" title="wikilink">아스널</a></p></td>
 <td><p>2016년</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>24</p></td>
 <td><p>미겔 알미론</p></td>
 <td><p><a href="../Page/파라과이.md" title="wikilink">파라과이</a></p></td>
@@ -448,7 +440,7 @@
 <td><p><a href="../Page/애틀랜타_유나이티드_FC.md" title="wikilink">애틀랜타 유나이티드</a></p></td>
 <td><p>2019년</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>30</p></td>
 <td><p><a href="../Page/크리스천_아추.md" title="wikilink">크리스천 아추</a></p></td>
 <td><p><a href="../Page/가나.md" title="wikilink">가나</a></p></td>
@@ -456,7 +448,7 @@
 <td><p><a href="../Page/첼시_FC.md" title="wikilink">첼시</a></p></td>
 <td><p>2016년</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>36</p></td>
 <td><p>션 롱스태프</p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
@@ -464,21 +456,13 @@
 <td><p>유소년 팀¹</p></td>
 <td><p>2016년</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>43</p></td>
 <td><p>매티 롱스태프</p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
 <td></td>
 <td><p>유소년 팀¹</p></td>
 <td><p>2019년</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p><a href="../Page/잭_콜백.md" title="wikilink">잭 콜백</a>³</p></td>
-<td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
-<td></td>
-<td><p><a href="../Page/선덜랜드_AFC.md" title="wikilink">선덜랜드</a></p></td>
-<td><p>2014년</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
@@ -536,6 +520,8 @@
 <small>³25인 명단 제외</small>
 
 ### 임대 선수 명단
+
+{{클럽팀 선수명단|번호= | 국적=대한민국 | 포지션=MF | 이름=기성용 [마요르카](https://ko.wikipedia.org/wiki/마요르카 "wikilink"))
 
 ### 주목할 만한 선수
 

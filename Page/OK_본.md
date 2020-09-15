@@ -44,7 +44,7 @@
 ## 참고
 
   - [한국 힙합](https://ko.wikipedia.org/wiki/한국_힙합 "wikilink")
-  - [구단지 독서실 싸이 클럽](http://okbone.cyworld.com)
+  - [구단지 독서실 싸이 클럽](https://web.archive.org/web/20180920063350/http://okbone.cyworld.com/)
   - [E-Sens와 O.K Bone의 디스 사건](https://ko.wikipedia.org/wiki/이센스#OK_Bone과의_디스전 "wikilink")
 
 [분류:대구광역시 출신](https://ko.wikipedia.org/wiki/분류:대구광역시_출신 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:서울시립대학교 동문](https://ko.wikipedia.org/wiki/분류:서울시립대학교_동문 "wikilink")

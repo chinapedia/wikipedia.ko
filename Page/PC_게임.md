@@ -11,7 +11,7 @@ PC 게임들은 한 명 이상의 게임 개발자에 의해, 종종 [게임 아
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Spacewar1.png "wikilink")
 
-최초 컴퓨터 게임들 중 하나는 [1961년](../Page/1961년.md "wikilink")에 당시 MIT 학생인 Martin Graetz 그리고 Alan Kotok이 MIT 임원이던 Steve Russell가 같이 통계적인 계산에 사용되던 [PDP-1](../Page/PDP-1.md "wikilink") 컴퓨터에서 실행되는 ‘[스페이스워\!](../Page/스페이스워!.md "wikilink")’(Spacewar\!)를 개발했다.
+최초 컴퓨터 게임들 중 하나는 [1961년](../Page/1961년.md "wikilink")에 당시 MIT 학생인 Martin Graetz 그리고 Alan Kotok이 MIT 임원이던 Steve Russell과 같이 통계적인 계산에 사용되던 [PDP-1](../Page/PDP-1.md "wikilink") 컴퓨터에서 실행되는 ‘[스페이스워\!](../Page/스페이스워!.md "wikilink")’(Spacewar\!)를 개발했다.
 
 PC 게임의 첫 세대는 보통 플레이어가 [컴퓨터 키보드로](https://ko.wikipedia.org/wiki/컴퓨터_키보드 "wikilink") 명령을 입력해 컴퓨터와 소통하는 텍스트 모험 게임이나 쌍방형 소설이었다. 첫 텍스트 모험 게임인, ‘어드벤처’(Adventure)는 [1976년](../Page/1976년.md "wikilink")에 Will Crowther가 [PDP-11](../Page/PDP-11.md "wikilink")용으로 개발하고 [1977년](../Page/1977년.md "wikilink")에 Don Woods가 확장했다. [1980년대](../Page/1980년대.md "wikilink") 들어서, 개인용 컴퓨터들은 ‘어드벤처’와 같은 게임을 실행시키기에 충분한 능력을 가지게 되었으나, 이 때는 그래픽이 게임에서 가장 중요한 요소로 대두되기 시작했다. 나중에 게임들은 ‘[풀 오브 레디언스](https://ko.wikipedia.org/wiki/풀_오브_레디언스 "wikilink")’나 ‘[바즈 테일](https://ko.wikipedia.org/wiki/바즈_테일 "wikilink")’과 같은 SSI [골드 박스](https://ko.wikipedia.org/wiki/골드_박스 "wikilink") 게임에서 알 수 있듯이 기초적인 그래픽과 함께 텍스트 명령이 결합되었다.
 
@@ -37,10 +37,14 @@ PC 게임의 첫 세대는 보통 플레이어가 [컴퓨터 키보드로](https
 
 컴퓨터 사용자의 대부분은 기본으로 설치되어 있는 오프라인 게임([체스](https://ko.wikipedia.org/wiki/체스 "wikilink"), [인터넷 백게인](https://ko.wikipedia.org/wiki/인터넷_백게인 "wikilink"), [스파이더 카드놀이](../Page/스파이더_카드놀이_\(윈도우\).md "wikilink"), [핀볼](https://ko.wikipedia.org/wiki/핀볼 "wikilink") 등)[오프라인 컴퓨터 게임을](https://ko.wikipedia.org/wiki/오프라인_컴퓨터_게임 "wikilink") 즐기고 있는 사용자와 새로 제작된 오프라인 게임을 즐길 수 있는 [오프라인 컴퓨터 게임](https://ko.wikipedia.org/wiki/오프라인_컴퓨터_게임 "wikilink") 사이트가 있고 그것을 이용하는 이용자가 있다.
 
-\]\]
+## 같이 보기
 
+  - [싱글 플레이](https://ko.wikipedia.org/wiki/싱글_플레이 "wikilink")
+  - [멀티 플레이](https://ko.wikipedia.org/wiki/멀티_플레이 "wikilink")
+  - [컴퓨터](../Page/컴퓨터.md "wikilink")
+  - [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink")
   - [지스타](../Page/지스타.md "wikilink")
-  - [온라인 🎮](https://ko.wikipedia.org/wiki/온라인_🎮 "wikilink")
+  - [온라인 게임](../Page/온라인_게임.md "wikilink")
   - [오프라인 게임](https://ko.wikipedia.org/wiki/오프라인_게임 "wikilink")
   - [비디오 게임](../Page/비디오_게임.md "wikilink")
   - [비디오 게임 목록](../Page/비디오_게임_목록.md "wikilink")

@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-  - **[벨기에 컵](https://ko.wikipedia.org/wiki/벨기에_컵 "wikilink") : 11**
+  - **[벨기에 컵](../Page/벨기에_컵.md "wikilink") : 11**
 
 <!-- end list -->
 

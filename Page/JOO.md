@@ -5,7 +5,9 @@
 
 ## 학력
 
-  - [한국예술고등학교](../Page/한국예술고등학교.md "wikilink") 음악과 (졸업)
+  - [서울봉은초등학교](../Page/서울봉은초등학교.md "wikilink") (졸업)
+  - [봉은중학교](../Page/봉은중학교.md "wikilink") (졸업)
+  - [압구정고등학교](../Page/압구정고등학교.md "wikilink") (전학) → [한국예술고등학교](../Page/한국예술고등학교.md "wikilink") 음악과 (졸업)
   - [동국대학교](https://ko.wikipedia.org/wiki/동국대학교 "wikilink") 연극학부 (학사)
 
 ## 음반 목록
@@ -169,7 +171,7 @@
 
 ## 외부 링크
 
-[분류:한국어 가수](https://ko.wikipedia.org/wiki/분류:한국어_가수 "wikilink") [분류:대한민국의 여자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_여자_가수 "wikilink") [분류:동국대학교 예술대학 동문](https://ko.wikipedia.org/wiki/분류:동국대학교_예술대학_동문 "wikilink") [분류:한국예술고등학교 동문](https://ko.wikipedia.org/wiki/분류:한국예술고등학교_동문 "wikilink") [분류:1990년 태어남](https://ko.wikipedia.org/wiki/분류:1990년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:울림엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:울림엔터테인먼트_소속 "wikilink") [분류:대한민국의 발라드 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_발라드_음악가 "wikilink") [분류:서울특별시 출신 가수](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_가수 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:아이돌 리부팅 프로젝트 더 유닛 참가자](https://ko.wikipedia.org/wiki/분류:아이돌_리부팅_프로젝트_더_유닛_참가자 "wikilink")
+[분류:대한민국의 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_가수 "wikilink") [분류:대한민국의 여자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_여자_가수 "wikilink") [분류:서울봉은초등학교 동문](https://ko.wikipedia.org/wiki/분류:서울봉은초등학교_동문 "wikilink") [분류:봉은중학교 동문](https://ko.wikipedia.org/wiki/분류:봉은중학교_동문 "wikilink") [분류:압구정고등학교 동문](https://ko.wikipedia.org/wiki/분류:압구정고등학교_동문 "wikilink") [분류:한국예술고등학교 동문](https://ko.wikipedia.org/wiki/분류:한국예술고등학교_동문 "wikilink") [분류:동국대학교 예술대학 동문](https://ko.wikipedia.org/wiki/분류:동국대학교_예술대학_동문 "wikilink") [분류:1990년 태어남](https://ko.wikipedia.org/wiki/분류:1990년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:울림엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:울림엔터테인먼트_소속 "wikilink") [분류:대한민국의 발라드 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_발라드_음악가 "wikilink") [분류:서울특별시 출신 가수](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_가수 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:아이돌 리부팅 프로젝트 더 유닛 참가자](https://ko.wikipedia.org/wiki/분류:아이돌_리부팅_프로젝트_더_유닛_참가자 "wikilink")
 
 1.  강수진 기자 [‘JYP사단’ 신예가수 주 공개](http://sports.khan.co.kr/news/sk_index.html?cat=view&art_id=200801102158466&sec_id=540301&pt=nv) 스포츠칸 2008년 1월 10일
 2.  성정은 기자[애절한 보이스 JOO, ‘나쁜남자’로 컴백](http://www.gooddaysports.co.kr/news/?cset=star&bset=view&tot_code=450&code=7537&dn=20110104)  굿데이스포츠 2011년 1월 4일

@@ -325,7 +325,7 @@
 
 [제이미 바디는](../Page/제이미_바디.md "wikilink") 11경기 연속 13골을 터뜨리면서 [루드 반 니스텔루이의](https://ko.wikipedia.org/wiki/루드_반_니스텔루이 "wikilink") 프리미어리그 기록을 깼다.
 
-2016년 [스포르팅 CP에서](../Page/스포르팅_CP.md "wikilink") 영입한 [이슬람 슬리마니의](../Page/이슬람_슬리마니.md "wikilink") 이적료는 2900만 파운드로 구단 내 최고 영입 금액이며, 구단 내 최고 방출 금액은 [맨체스터 시티로](https://ko.wikipedia.org/wiki/맨체스터_시티 "wikilink") 이적한 [해리 매과이어의](../Page/해리_매과이어.md "wikilink") 이적료로 8500만 파운드다.
+2016년 [스포르팅 CP에서](../Page/스포르팅_CP.md "wikilink") 영입한 [이슬람 슬리마니의](../Page/이슬람_슬리마니.md "wikilink") 이적료는 2900만 파운드로 구단 내 최고 영입 금액이며, 구단 내 최고 방출 금액은 [맨체스터 유나이티드로](https://ko.wikipedia.org/wiki/맨체스터_유나이티드 "wikilink") 이적한 [해리 매과이어의](../Page/해리_매과이어.md "wikilink") 이적료로 8500만 파운드다.
 
 공식 기록 상 최다 관중은 1928년 [FA컵](https://ko.wikipedia.org/wiki/FA컵\(잉글랜드\) "wikilink") 5라운드 필버트 스트리트에서 열린 [토트넘 홋스퍼와의](https://ko.wikipedia.org/wiki/토트넘_홋스퍼 "wikilink") 경기에서 기록한 47,298명이다. 현재의 구장인 [킹 파워 스타디움에서의](../Page/킹_파워_스타디움.md "wikilink") 최다 관중은 2015년 8월 8일에 열린 [선덜랜드 AFC와의](../Page/선덜랜드_AFC.md "wikilink") 경기로 32,242명을 기록했다.
 

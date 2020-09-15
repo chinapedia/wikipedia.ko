@@ -123,12 +123,7 @@ $.ajax({
 
 ## 각주
 
-  - [eWeek](http://www.eweek.com/article2/0,1895,2010602,00.asp)
-  - [Infoworld](https://web.archive.org/web/20071110102930/http://www.infoworld.com/article/06/08/31/HNjscriptsandcastle_1.html), [(again)](https://web.archive.org/web/20071216105531/http://weblog.infoworld.com/techwatch/archives/007794.html)
-  - [Advancing JavaScript with Libraries (Part 1) VIDEO](https://web.archive.org/web/20070831084203/http://video.yahoo.com/video/play?ei=UTF-8&gid=133414&vid=410472&b=1)
-  - [Advancing JavaScript with Libraries (Part 2) VIDEO](https://web.archive.org/web/20070317005236/http://video.yahoo.com/video/play?ei=UTF-8)
-
-## 더 읽어보기
+## 참고 문헌
 
   - Learning jQuery,
   - jQuery in Action,
@@ -138,13 +133,17 @@ $.ajax({
   - AJAX and PHP: Building Responsive Web Applications,
   - Web Development Solutions,
 
-## 참조
-
-<references/>
-
 ## 외부 링크
 
   -
+  - [eWeek](http://www.eweek.com/article2/0,1895,2010602,00.asp)
+
+  - [Infoworld](https://web.archive.org/web/20071110102930/http://www.infoworld.com/article/06/08/31/HNjscriptsandcastle_1.html), [(again)](https://web.archive.org/web/20071216105531/http://weblog.infoworld.com/techwatch/archives/007794.html)
+
+  - [Advancing JavaScript with Libraries (Part 1) VIDEO](https://web.archive.org/web/20070831084203/http://video.yahoo.com/video/play?ei=UTF-8&gid=133414&vid=410472&b=1)
+
+  - [Advancing JavaScript with Libraries (Part 2) VIDEO](https://web.archive.org/web/20070317005236/http://video.yahoo.com/video/play?ei=UTF-8)
+
 [분류:자바스크립트 라이브러리](https://ko.wikipedia.org/wiki/분류:자바스크립트_라이브러리 "wikilink") [분류:2006년 소프트웨어](https://ko.wikipedia.org/wiki/분류:2006년_소프트웨어 "wikilink") [분류:Ajax](https://ko.wikipedia.org/wiki/분류:Ajax "wikilink") [분류:자바스크립트로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자바스크립트로_작성된_자유_소프트웨어 "wikilink") [분류:MIT 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:MIT_라이선스_소프트웨어 "wikilink") [분류:웹 프레임워크](https://ko.wikipedia.org/wiki/분류:웹_프레임워크 "wikilink")
 
 1.

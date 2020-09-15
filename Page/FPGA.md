@@ -107,5 +107,3 @@ FPGA에서 복잡한 시스템의 설계를 간단히 하려고 설계 과정을
   - [OpenFPGA 사이트](https://web.archive.org/web/20070710211329/http://www.openfpga.org/)
 
 [분류:게이트 어레이](https://ko.wikipedia.org/wiki/분류:게이트_어레이 "wikilink") [분류:미국의 발명품](https://ko.wikipedia.org/wiki/분류:미국의_발명품 "wikilink") [분류:반도체 소자](https://ko.wikipedia.org/wiki/분류:반도체_소자 "wikilink") [분류:전자 설계 자동화](https://ko.wikipedia.org/wiki/분류:전자_설계_자동화 "wikilink") [분류:집적 회로](https://ko.wikipedia.org/wiki/분류:집적_회로 "wikilink") [분류:FPGA 장치](https://ko.wikipedia.org/wiki/분류:FPGA_장치 "wikilink")
-
-[fr:Circuit logique programmable\#FPGA](https://ko.wikipedia.org/wiki/fr:Circuit_logique_programmable#FPGA "wikilink")

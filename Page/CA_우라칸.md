@@ -79,7 +79,7 @@
 
   - [오스발도 아르딜레스](../Page/오스발도_아르딜레스.md "wikilink") (1975\~1977)
 
-  - [루벤 오마르 로마노](https://ko.wikipedia.org/wiki/루벤_오마르_로마노 "wikilink") (1978\~1980)
+  - [루벤 오마르 로마노](../Page/루벤_오마르_로마노.md "wikilink") (1978\~1980)
 
   - [클라우디오 모레시](https://ko.wikipedia.org/wiki/클라우디오_모레시 "wikilink") (1980\~1985)
 

@@ -22,6 +22,7 @@
 
 ## 외부 링크
 
-  - [휴렛 팩커드 HP-UX](https://www.hpe.com/info/hpux)
+  - [휴렛 팩커드 HP-UX](https://www.hpe.com/kr/ko/servers/hp-ux.html)
+  - [HP-UX Software & Update Information](https://www.hpe.com/global/softwarereleases/releases-media2/HPEredesign/pages/overview.html)
 
 [분류:유닉스 시스템 V](https://ko.wikipedia.org/wiki/분류:유닉스_시스템_V "wikilink") [분류:휴렛 팩커드](https://ko.wikipedia.org/wiki/분류:휴렛_팩커드 "wikilink")

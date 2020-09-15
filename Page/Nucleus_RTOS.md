@@ -30,7 +30,7 @@
   - 클래스 드라이버
   - 멀티미디어 전송(MTP, PictBridge)
   - [PCI](../Page/PCI_버스.md "wikilink"), [PCI-X](../Page/PCI-X.md "wikilink")
-  - [CAN](https://ko.wikipedia.org/wiki/CAN "wikilink"), [CANopen](https://ko.wikipedia.org/wiki/CANopen "wikilink")
+  - [CAN](https://ko.wikipedia.org/wiki/CAN "wikilink"), [CANopen](../Page/CANopen.md "wikilink")
 
 ### 네트워크
 

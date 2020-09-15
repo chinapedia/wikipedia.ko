@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스리그).
 
 
-**CONCACAF 챔피언스리그**(CONCACAF Champions League)는 매년 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)에 속해 있는 지역([북아메리카](../Page/북아메리카.md "wikilink"), [중앙아메리카](../Page/중앙아메리카.md "wikilink"), [카리브해](../Page/카리브해.md "wikilink"))의 클럽들이 참가하는 국제 클럽 [축구](../Page/축구.md "wikilink") 대회이다. 대회에는 각 지역의 국내 리그의 우승 팀이 참가한다.
+**CONCACAF 챔피언스리그**(CONCACAF Champions League)는 [북중미카리브 축구 연맹](../Page/북중미카리브_축구_연맹.md "wikilink")(CONCACAF)에 속해 있는 지역([북아메리카](../Page/북아메리카.md "wikilink"), [중앙아메리카](../Page/중앙아메리카.md "wikilink"), [카리브해](../Page/카리브해.md "wikilink"))의 클럽들이 참가하는 최상위 국제 클럽 [축구](../Page/축구.md "wikilink") 대회이다. 대회에는 각 지역의 국내 리그의 우승 팀이 참가한다.
 
 ## 대회 방식
 
 ### 2008-09 시즌 \~ 2016-17 시즌
 
-2008-09 시즌부터 2011-12 시즌까지 열린 CONCACAF 챔피언스리그는 7월부터 8월까지 예선 라운드를, 8월부터 10월까지 조별 예선을 진행하고, 다음해 3월부터 4월까지 결선 토너먼트를 진행하는 방식이었다.
+CONCACAF 챔피언스리그는 1962년부터 2008년까지 진행된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(CONCACAF Champions' Cup)을 개편하면서 신설되었다. 2008-09 시즌부터 2011-12 시즌까지 열린 CONCACAF 챔피언스리그는 7월부터 8월까지 예선 라운드를, 8월부터 10월까지 조별 예선을 진행하고, 다음해 3월부터 4월까지 결선 토너먼트를 진행하는 방식이었다.
 
 이 기간 동안에는 총 24개 팀이 참가했다. 9개 팀이 출전한 [북아메리카 축구 연맹에서는](https://ko.wikipedia.org/wiki/북아메리카_축구_연맹 "wikilink") [멕시코](../Page/멕시코.md "wikilink")와 [미국](../Page/미국.md "wikilink")에서 각각 4개 팀씩 출전했고, [캐나다](../Page/캐나다.md "wikilink")에서 1개 팀이 출전했다. 12개 팀이 출전한 [중앙아메리카 축구 연맹에서는](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") [코스타리카](../Page/코스타리카.md "wikilink"), [엘살바도르](../Page/엘살바도르.md "wikilink"), [과테말라](../Page/과테말라.md "wikilink"), [온두라스](../Page/온두라스.md "wikilink"), [파나마](../Page/파나마.md "wikilink")에서 각각 2개 팀씩 출전했고, [벨리즈](../Page/벨리즈.md "wikilink")와 [니카라과](../Page/니카라과.md "wikilink")는 1개 팀이 출전했다. [카리브 축구 연맹에서는](../Page/카리브_축구_연맹.md "wikilink") 3개 팀이 출전했는데, [카리브 클럽 챔피언십을](../Page/카리브_클럽_챔피언십.md "wikilink") 통해 출전 팀이 정해졌다.\[1\]
 
@@ -17,9 +17,9 @@
 
 ### 2018 시즌 \~ 현재
 
-2017년 5월에 [CONCACAF리그](../Page/CONCACAF리그.md "wikilink")가 출범하면서 CONCACAF 챔피언스리그에 참가하는 팀의 수가 16개 팀으로 줄어들었다. 이에 따라 CONCACAF 챔피언스리그 진행 방식이 2018 시즌부터 바뀌게 되었다. CONCACAF 챔피언스리그의 16강전, 8강전, 준결승전, 결승전은 모두 홈 앤 어웨이 방식을 띤 결선 토너먼트로 진행된다.
+2017년 5월에 [CONCACAF 리그가](../Page/CONCACAF_리그.md "wikilink") 출범하면서 CONCACAF 챔피언스리그에 참가하는 팀의 수가 16개 팀으로 줄어들었다. 이에 따라 CONCACAF 챔피언스리그 진행 방식이 2018 시즌부터 바뀌게 되었다. CONCACAF 챔피언스리그의 16강전, 8강전, 준결승전, 결승전은 모두 홈 앤 어웨이 방식을 띤 결선 토너먼트로 진행된다.
 
-CONCACAF 챔피언스리그는 2018 시즌부터 2월부터 5월까지 진행된다. 북아메리카 축구 연맹에서는 9개 팀, 중앙아메리카 축구 연맹에서는 5개 팀, 카리브 축구 연맹에서는 1개 팀이 참가하고, CONCACAF리그 우승 팀이 추가로 참가한다. CONCACAF 챔피언스리그에 참가하는 팀들은 2018 시즌부터 다음과 같이 배분되어 있다.
+CONCACAF 챔피언스리그는 2018 시즌부터 2월부터 5월까지 진행된다. 북아메리카 축구 연맹에서는 9개 팀, 중앙아메리카 축구 연맹에서는 5개 팀, 카리브 축구 연맹에서는 1개 팀이 참가하고, CONCACAF 리그 우승 팀이 추가로 참가한다. CONCACAF 챔피언스리그에 참가하는 팀들은 2018 시즌부터 다음과 같이 배분되어 있다.
 
   - 북아메리카 축구 연맹 (9개 팀)
       - : 4개 팀
@@ -49,7 +49,7 @@ CONCACAF 챔피언스리그는 2018 시즌부터 2월부터 5월까지 진행된
 <!-- end list -->
 
   - 중앙아메리카 축구 연맹 또는 카리브 축구 연맹 (1개 팀)
-      - CONCACAF리그 우승 팀
+      - CONCACAF 리그 우승 팀
 
 ## 대회 결과
 
@@ -163,7 +163,7 @@ CONCACAF 챔피언스리그는 2018 시즌부터 2월부터 5월까지 진행된
 
 ## 같이 보기
 
-  - [CONCACAF리그](../Page/CONCACAF리그.md "wikilink")
+  - [CONCACAF 리그](../Page/CONCACAF_리그.md "wikilink")
 
 ## 각주
 

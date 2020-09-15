@@ -66,7 +66,7 @@ e스포츠의 종목은 주로 게임을 즐기는 플레이어끼리 경쟁을 
 
 [워크래프트 3는](https://ko.wikipedia.org/wiki/워크래프트_3 "wikilink") [블리자드 엔터테인먼트에서](../Page/블리자드_엔터테인먼트.md "wikilink") 발행하는 실시간 전략 게임으로 [중국](../Page/중국.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink"), [독일](../Page/독일.md "wikilink")을 비롯해 전 세계적으로 플레이되고 있는 e스포츠 종목이다. 블리자드 엔터테인먼트가 조직하는 행사와, 한국의 소규모 대회들, 중국의 여러가지 토너먼트 등이 있지만 중국을 제외하고는 세계적인 대회는 거의 없다.
 
-### 카운터 스트라이크
+### 카운터 스트라이크:글로벌 오펜시브
 
   -
     [FPS](https://ko.wikipedia.org/wiki/FPS "wikilink") (5:5 단체전, PC)
@@ -124,12 +124,12 @@ e스포츠의 종목은 주로 게임을 즐기는 플레이어끼리 경쟁을 
 
 [오버워치](../Page/오버워치.md "wikilink")는 2016년 5월 후반기에 [블리자드 엔터테인먼트에서](../Page/블리자드_엔터테인먼트.md "wikilink") 개발한 근미래를 배경으로 한 팀 중심의 [1인칭 슈팅 게임이다](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink"). 2017년까지는 각 국가와 지역별로 산발적으로 대회가 개최되었고, 큰 대회로는 대한민국 [OGN](../Page/OGN.md "wikilink")의 오버워치 APEX등이 있었다. 2018년으로 들어서며 최상위 대회인 [오버워치 리그를](https://ko.wikipedia.org/wiki/오버워치_리그 "wikilink") 중심으로 대회들이 재편되었고, 이에 따라 오버워치 리그를 중심으로 선수 풀을 담당하는 하부 대회인 오버워치 컨텐더스와 오버워치 오픈 디비전 등이 각 지역별로 존재하는 형태로 바뀌었다.
 
-### 플레이어언노운즈 배틀그라운드
+### [배틀그라운드](https://ko.wikipedia.org/wiki/배틀그라운드 "wikilink")
 
   -
     FPS (개인전,단체전, 온라인)
 
-[플레이어언노운즈 배틀그라운드는](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") PUBG 주식회사(前 블루홀 지노게임즈)에서 개발하고 [블루홀에서](https://ko.wikipedia.org/wiki/블루홀_\(기업\) "wikilink") 발매한 팀 서바이벌 슈터 게임이다. 출시 직후 여러 곳에서 주목을 끈 만큼 여러 종류의 e스포츠 대회가 개최되고 있다.
+[배틀그라운드](https://ko.wikipedia.org/wiki/배틀그라운드 "wikilink")는 PUBG 주식회사(前 블루홀 지노게임즈)에서 개발하고 [블루홀에서](https://ko.wikipedia.org/wiki/블루홀_\(기업\) "wikilink") 발매한 서바이벌 [슈팅 게임이다](https://ko.wikipedia.org/wiki/슈팅_게임 "wikilink"). 출시 직후 여러 곳에서 주목을 끈 만큼 여러 종류의 [e스포츠](https://ko.wikipedia.org/wiki/e스포츠 "wikilink") 대회가 개최되고 있다.
 
 ## 주요 대회
 

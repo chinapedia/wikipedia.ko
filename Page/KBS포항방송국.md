@@ -124,17 +124,16 @@
 
 ## 전직 아나운서
 
-  - [권순우](https://ko.wikipedia.org/wiki/권순우 "wikilink") (1981\~2015, 퇴사)
-  - [조인철](https://ko.wikipedia.org/wiki/조인철 "wikilink") (2009\~2012, 현 KNN 아나운서)
-  - [김충진](https://ko.wikipedia.org/wiki/김충진 "wikilink") (퇴사)
+  - [권순우](https://ko.wikipedia.org/wiki/권순우 "wikilink") (1981\~2014, 퇴사)
+  -
+  - (1981\~2016, 퇴 [김충진](https://ko.wikipedia.org/wiki/김충진 "wikilink") (1981\~2015, 퇴사)) [김충진](https://ko.wikipedia.org/wiki/김충진 "wikilink") (1981\~2015, 퇴사)
   - [김태자](https://ko.wikipedia.org/wiki/김태자 "wikilink") (퇴사)
   - [차유나](https://ko.wikipedia.org/wiki/차유나 "wikilink") (현 [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink") 매일방송 아나운서)
   - [김용재](https://ko.wikipedia.org/wiki/김용재_\(아나운서\) "wikilink") (현 [OBS경인TV](../Page/OBS경인TV.md "wikilink") 아나운서)
-  - [양순권](https://ko.wikipedia.org/wiki/양순권 "wikilink") (전 [KBS전주방송총국](../Page/KBS전주방송총국.md "wikilink") 아나운서)
   - [황진](https://ko.wikipedia.org/wiki/황진_\(아나운서\) "wikilink") (현 [KBS대구방송총국](../Page/KBS대구방송총국.md "wikilink") 아나운서)
   - [이서진](https://ko.wikipedia.org/wiki/이서진_\(아나운서\) "wikilink")
   - [유기환](https://ko.wikipedia.org/wiki/유기환_\(아나운서\) "wikilink") (현 로스쿨 재학생)
-  - [이영화](https://ko.wikipedia.org/wiki/이영화 "wikilink") (현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 기자)
+  - [이영화](../Page/이영화.md "wikilink") (현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 기자)
   - [송현주](https://ko.wikipedia.org/wiki/송현주 "wikilink") (현 [KBS대구방송총국](../Page/KBS대구방송총국.md "wikilink") 아나운서)
   - [박은정](https://ko.wikipedia.org/wiki/박은정 "wikilink") (현 [KBS대구방송총국](../Page/KBS대구방송총국.md "wikilink") 아나운서)
   - [손지민](https://ko.wikipedia.org/wiki/손지민 "wikilink") (현 [KBS대구방송총국](../Page/KBS대구방송총국.md "wikilink") 아나운서)

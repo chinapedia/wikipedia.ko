@@ -5,7 +5,7 @@
 
 다른 압축 방법들과 마찬가지로, FLAC의 장점은 전송율·대역폭·저장공간 등을 절약할 수 있다는 점인데, FLAC은 오디오 소스를 온전한 모습으로 보전해준다. 예를 들어, 디지털 레코딩([콤팩트 디스크](../Page/콤팩트_디스크.md "wikilink"))을 FLAC으로 인코드하였다가 디코드하면 정확히 똑같은 오디오 데이터를 얻을 수 있다. 보통, FLAC으로 압축하면 원래 크기의 40-50%로 줄어든다. (FLAC 개발자들은 약 47%이라고 주장)\[1\]
 
-FLAC는 태깅(tagging), 앨범 아트, 빠른 건너뛰기(fast seeking)을 지원하기 때문에, 일상적인 음악 재생과 보관에 알맞다. FLAC은 [자유 소프트웨어이자](../Page/자유_소프트웨어.md "wikilink") 동시에 [오픈 소스 소프트웨어](../Page/오픈_소스_소프트웨어.md "wikilink"), 로열티 없는 소프트웨어이기 때문에, 많은 응용 소프트웨어가 FLAC을 지원하고 있다. 휴대용 음악 기기나 MP3 플레이어, 고급 오디오 시스템에서의 FLAC 지원은 얼마전까지만 해도 미미했으나 MP3 플레이어 등 휴대용 기기 한정으로 2013년 현재 상당수 기종에서 이 포맷을 지원한다. 특히 안드로이드 운영 체제를 탑재한 제품의 경우 음악 애플리케이션에 따라 이 포맷의 재생이 가능한 경우가 많다. 하지만 현재 인기있는 애플사의 제품들은, iTunes부터 FLAC 재생을 지원하지 않기 때문에 아이폰과 아이팟 모두 FLAC을 지원하지 않는다.\[2\] 그러나 iOS11에 새로 추가된 '파일'앱의 일부로 flac 재생 기능이 추가되었다.\[3\]
+FLAC는 태깅(tagging), 앨범 아트, 빠른 건너뛰기(fast seeking)을 지원하기 때문에, 일상적인 음악 재생과 보관에 알맞다. FLAC은 [자유 소프트웨어이자](../Page/자유_소프트웨어.md "wikilink") 동시에 [오픈 소스 소프트웨어](../Page/오픈_소스_소프트웨어.md "wikilink"), 로열티 없는 소프트웨어이기 때문에, 많은 응용 소프트웨어가 FLAC을 지원하고 있다. 휴대용 음악 기기나 MP3 플레이어, 고급 오디오 시스템에서의 FLAC 지원은 얼마전까지만 해도 미미했으나 MP3 플레이어 등 휴대용 기기 한정으로 2013년 현재 상당수 기종에서 이 포맷을 지원한다. .\[2\] Apple iOS11에 새로 추가된 '파일'앱의 일부로 flac 재생 기능이 추가되었다.\[3\]
 
 조시 콜슨(Josh Coalson)이 FLAC의 주요 개발자이다.
 
@@ -42,7 +42,7 @@ FLAC은 오디오 데이터의 효율적인 압축을 위해 특수하게 설계
 
 ## 기술적 상세
 
-FLAC은 [부동 소수점을](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink") 지원하는 것이 아니라 오직 [고정 소수점만](https://ko.wikipedia.org/wiki/고정_소수점 "wikilink") 지원한다. 4내지 32 [비트](../Page/비트_\(단위\).md "wikilink") 샘플 크기를 지닌 [PCM](https://ko.wikipedia.org/wiki/PCM "wikilink")을 처리할 수 있으며, 샘플링 레이트는 1 [헤르츠](../Page/헤르츠.md "wikilink") 내지 1,048,570 Hz까지 1 Hz 단위로 처리할 수 있으며, 1 내지 8 채널을 처리할 수 있다. 채널은 [스테레오](../Page/스테레오.md "wikilink")나 5.1 채널 [서라운드 사운드처럼](https://ko.wikipedia.org/wiki/서라운드_사운드 "wikilink") 묶일 수 있는데, 채널간 상관 관계(correlation)을 이용하여 압축률을 높일 수 있다. 스트리밍 프로토콜에서 사용될 경우, FLAC은 [CRC](https://ko.wikipedia.org/wiki/순환_중복_검사 "wikilink") 첵섬을 사용하여, 잘못된 프레임을 골라낸다. 또한 그것의 STREAMINFO 메타데이터 헤더 내에 "본디 PCM"의 완전한 [MD5](../Page/MD5.md "wikilink") 해시값도 갖고 있다.
+FLAC은 [부동소수점을](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink") 지원하는 것이 아니라 오직 [고정 소수점만](https://ko.wikipedia.org/wiki/고정_소수점 "wikilink") 지원한다. 4내지 32 [비트](../Page/비트_\(단위\).md "wikilink") 샘플 크기를 지닌 [PCM](https://ko.wikipedia.org/wiki/PCM "wikilink")을 처리할 수 있으며, 샘플링 레이트는 1 [헤르츠](../Page/헤르츠.md "wikilink") 내지 1,048,570 Hz까지 1 Hz 단위로 처리할 수 있으며, 1 내지 8 채널을 처리할 수 있다. 채널은 [스테레오](../Page/스테레오.md "wikilink")나 5.1 채널 [서라운드 사운드처럼](https://ko.wikipedia.org/wiki/서라운드_사운드 "wikilink") 묶일 수 있는데, 채널간 상관 관계(correlation)을 이용하여 압축률을 높일 수 있다. 스트리밍 프로토콜에서 사용될 경우, FLAC은 [CRC](https://ko.wikipedia.org/wiki/순환_중복_검사 "wikilink") 첵섬을 사용하여, 잘못된 프레임을 골라낸다. 또한 그것의 STREAMINFO 메타데이터 헤더 내에 "본디 PCM"의 완전한 [MD5](../Page/MD5.md "wikilink") 해시값도 갖고 있다.
 
 FLAC의 라이스 파라미터(Rice parameter)는 0-16이다. 최대 8 채널의 오디오, 최대 192kHz까지의 다양한 샘플링 레이트, 다양한 비트-퍼-샘플 너비를 지원한다. FLAC은 또한 [리플레이 게인을](https://ko.wikipedia.org/wiki/리플레이_게인 "wikilink") 지원한다.
 
@@ -113,7 +113,7 @@ libFLAC API는 기본 FLAC 비트스트림(bitstream)을 더 추상화한 것으
   - [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink")
       - 기본 Windows Media Player (윈도우10 이상)
       - [이스트소프트](../Page/이스트소프트.md "wikilink") - [알송](../Page/알송.md "wikilink")
-      - [곰앤컴퍼니](../Page/곰앤컴퍼니.md "wikilink") - [곰오디오](https://ko.wikipedia.org/wiki/곰오디오 "wikilink")
+      - [곰앤컴퍼니](../Page/곰앤컴퍼니.md "wikilink") - [곰오디오](../Page/곰오디오.md "wikilink")
       - [AIMP](../Page/AIMP.md "wikilink")
       - [Ease Audio Converter](https://ko.wikipedia.org/wiki/Ease_Audio_Converter "wikilink")
       - [foobar2000](https://ko.wikipedia.org/wiki/foobar2000 "wikilink")
@@ -146,8 +146,8 @@ libFLAC API는 기본 FLAC 비트스트림(bitstream)을 더 추상화한 것으
           - [토템 무비 플레이어](https://ko.wikipedia.org/wiki/토템_\(미디어_플레이어\) "wikilink")
           - [Serpentine](https://ko.wikipedia.org/wiki/Serpentine_\(software\) "wikilink")
       - [KDE](../Page/KDE.md "wikilink")
-          - [아마록](https://ko.wikipedia.org/wiki/아마록 "wikilink")
-          - [Audiokonverter](http://www.kde-apps.org/content/show.php?content=12608/) (콘텍스트 메뉴 팝-업으로부터)
+          - [아마록](../Page/아마록.md "wikilink")
+          - [Audiokonverter](https://web.archive.org/web/20151018013323/http://kde-apps.org/content/show.php?content=12608%2F) (콘텍스트 메뉴 팝-업으로부터)
 
 <!-- end list -->
 

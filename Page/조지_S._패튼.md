@@ -41,7 +41,7 @@
       - [The Form and Use of the Saber](https://web.archive.org/web/20100521081218/http://www.pattonhq.com/textfiles/saber.html)
       - [Patton Society Page on the slapping incidents](https://web.archive.org/web/20100113020955/http://www.pattonhq.com/unknown/chap08.html)
       - [Patton's Speech on June 5, 1944](http://www.pattonhq.com/speech.html)
-  - [Cadet Patton at VMI](http://www.vmi.edu/archives.aspx?id=5299) Virginia Military Institute Archives
+  - [Cadet Patton at VMI](https://web.archive.org/web/20140422184145/http://www.vmi.edu/archives.aspx?id=5299) Virginia Military Institute Archives
   - [On Spartacus Schoolnet](https://web.archive.org/web/20100430013100/http://www.spartacus.schoolnet.co.uk/2WWpatton.htm)
   - [General George Patton Museum](http://www.generalpatton.org/)
   - [Patton: Ordeal and Triumph by Ladislas Farago](https://web.archive.org/web/20100118152618/http://www.westholmepublishing.com/patton.html)

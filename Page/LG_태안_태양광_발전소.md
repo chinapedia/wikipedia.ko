@@ -41,7 +41,7 @@
 
 ## 각주
 
-[분류:2008년 설립](https://ko.wikipedia.org/wiki/분류:2008년_설립 "wikilink") [태안 태양광 발전소](https://ko.wikipedia.org/wiki/분류:LG의_이전_자회사 "wikilink") [분류:대한민국의 발전소](https://ko.wikipedia.org/wiki/분류:대한민국의_발전소 "wikilink") [분류:태안군의 건축물](https://ko.wikipedia.org/wiki/분류:태안군의_건축물 "wikilink") [분류:태양광 발전소](https://ko.wikipedia.org/wiki/분류:태양광_발전소 "wikilink")
+[분류:2008년 설립](https://ko.wikipedia.org/wiki/분류:2008년_설립 "wikilink") [태안 태양광 발전소](https://ko.wikipedia.org/wiki/분류:LG의_이전_자회사 "wikilink") [분류:대한민국의 태양 에너지](https://ko.wikipedia.org/wiki/분류:대한민국의_태양_에너지 "wikilink") [분류:대한민국의 발전소](https://ko.wikipedia.org/wiki/분류:대한민국의_발전소 "wikilink") [분류:태안군의 건축물](https://ko.wikipedia.org/wiki/분류:태안군의_건축물 "wikilink") [분류:태양광 발전소](https://ko.wikipedia.org/wiki/분류:태양광_발전소 "wikilink")
 
 1.  [LG，태양광 에너지 사업 ‘햇빛’](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=014&aid=0001995731) 파이낸셜 뉴스 2008-07-07
 2.  [LG솔라에너지, 태안에 국내최대 태양광발전소 완공](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=020&aid=0001972296) [동아일보](../Page/동아일보.md "wikilink") 2008-07-07

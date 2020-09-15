@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VfB 슈투트가르트](https://ko.wikipedia.org/wiki/VfB_슈투트가르트).
 
 
-**페어라인 퓌어 베베궁스슈필레 슈투트가르트 1893 e. V.**(Verein für Bewegungsspiele Stuttgart 1893 e. V.) 혹은 줄여서 **VfB 슈투트가르트**(VfB Stuttgart)로 알려진 이 클럽은 [독일](../Page/독일.md "wikilink") [바덴뷔르템베르크주](../Page/바덴뷔르템베르크주.md "wikilink") [슈투트가르트](../Page/슈투트가르트.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 클럽은 축구 클럽으로 가장 유명하며, 2번을 제외한 모든 [분데스리가](https://ko.wikipedia.org/wiki/푸스볼-분데스리가 "wikilink") 시즌에 참여하였다. 이 팀은 5번의 리그 타이틀을 보유하고 있으며, 이중 최근에 들어 우승한 시즌은 2006-07 시즌이다. 이 클럽은 리그 외에도 [DFB-포칼](../Page/DFB-포칼.md "wikilink") 우승을 3회 경험하였다.
+**페어라인 퓌어 베베궁스슈필레 슈투트가르트 1893 e. V.**(Verein für Bewegungsspiele Stuttgart 1893 e. V.) 혹은 줄여서 **VfB 슈투트가르트**(VfB Stuttgart)로 알려진 이 클럽은 [독일](../Page/독일.md "wikilink") [바덴뷔르템베르크주](../Page/바덴뷔르템베르크주.md "wikilink") [슈투트가르트](../Page/슈투트가르트.md "wikilink")를 연고지로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 클럽은 축구 클럽으로 가장 유명하며, 3번을 제외한 모든 [분데스리가](https://ko.wikipedia.org/wiki/푸스볼-분데스리가 "wikilink") 시즌에 참여하였다. 이 팀은 5번의 리그 타이틀을 보유하고 있으며, 이중 최근에 들어 우승한 시즌은 2006-07 시즌이다. 이 클럽은 리그 외에도 [DFB-포칼](../Page/DFB-포칼.md "wikilink") 우승을 3회 경험하였다.
 
 슈투트가르트의 홈 구장은 [메르세데스-벤츠 아레나로](../Page/메르세데스-벤츠_아레나.md "wikilink"), 네카어파크 (Neckarpark, 칸슈타터 바센 지역에 위치한 스포츠와 엔터테인먼트 단지) 에 위치하고 있다. 그 외에도 실력을 갖춘 [VfB 슈투트가르트 II를](https://ko.wikipedia.org/wiki/VfB_슈투트가르트_II "wikilink") 현재 [3. 리가에](../Page/3._리가.md "wikilink") 보유하고 있다. (리저브 팀은 최고 [3. 리가까지만](../Page/3._리가.md "wikilink") 승격이 가능하다.) 이 외에도 U-19 청소년 팀은 10번을 우승한 U-19 리그 최다 타이틀 기록을 보유한 팀이며, U-17팀 또한 6번의 우승을 경험하였다.
 
