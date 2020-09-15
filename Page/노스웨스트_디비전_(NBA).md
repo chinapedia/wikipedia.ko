@@ -155,6 +155,11 @@
 <td><p><a href="../Page/덴버_너기츠.md" title="wikilink">덴버 너기츠</a></p></td>
 <td><p>54승 28패 .659</p></td>
 </tr>
+<tr class="even">
+<td><p>2020년</p></td>
+<td><p><a href="../Page/덴버_너기츠.md" title="wikilink">덴버 너기츠</a></p></td>
+<td><p>46승 27패 .630</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -170,21 +175,18 @@
 <tbody>
 <tr class="odd">
 <td><p>5회</p></td>
-<td><p><a href="../Page/오클라호마시티_선더.md" title="wikilink">오클라호마시티 선더</a></p></td>
+<td><p><a href="../Page/오클라호마시티_선더.md" title="wikilink">오클라호마시티 선더</a><br />
+ <a href="../Page/덴버_너기츠.md" title="wikilink">덴버 너기츠</a></p></td>
 </tr>
 <tr class="even">
-<td><p>4회</p></td>
-<td><p><a href="../Page/덴버_너기츠.md" title="wikilink">덴버 너기츠</a></p></td>
-</tr>
-<tr class="odd">
 <td><p>3회</p></td>
 <td><p><a href="../Page/유타_재즈.md" title="wikilink">유타 재즈</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2회</p></td>
 <td><p><a href="../Page/포틀랜드_트레일블레이저스.md" title="wikilink">포틀랜드 트레일블레이저스</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1회</p></td>
 <td><p><a href="../Page/시애틀_슈퍼소닉스_(1967년).md" title="wikilink">시애틀 슈퍼소닉스</a></p></td>
 </tr>

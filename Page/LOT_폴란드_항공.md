@@ -58,7 +58,7 @@
 
 ## 보유 기종
 
-  - [2020년](../Page/2020년.md "wikilink") [2월](../Page/2월.md "wikilink") 기준으로 LOT 폴란드 항공은 다음과 같은 기종을 보유하고 있다. 평균 기령은 6.5년인 반면 [유로 LOT와](https://ko.wikipedia.org/wiki/유로_LOT "wikilink") [LOT 차터의](https://ko.wikipedia.org/wiki/LOT_차터 "wikilink") 경우 평균 기령이 12.8년이다.\[3\]\[4\]
+  - [2020년](../Page/2020년.md "wikilink") [7월](../Page/7월.md "wikilink") 기준으로 LOT 폴란드 항공은 다음과 같은 기종을 보유하고 있다. 평균 기령은 6.5년인 반면 [유로 LOT와](https://ko.wikipedia.org/wiki/유로_LOT "wikilink") [LOT 차터의](https://ko.wikipedia.org/wiki/LOT_차터 "wikilink") 경우 평균 기령이 12.8년이다.\[3\]\[4\]
 
 ### 현재 사용하는 기종
 
@@ -106,22 +106,6 @@
 </div>
 <p></abbr></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에어_벨기에_(2016년)" title="wikilink">에어 벨기에</a> 임차 운항</br><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/10월_24일.md" title="wikilink">10월 24일까지</a> 임차 운항 예정[7]</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/보잉_737.md" title="wikilink">보잉 737-400</a></p></td>
-<td><p>1</p></td>
-<td><p>0</p></td>
-<td><p>0</p></td>
-<td><p>20</p></td>
-<td><p>9</p></td>
-</tr>
-<tr class="odd">
-<td><p>2</p></td>
-<td><p>순차적으로 퇴역 예정[8]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/보잉_737.md" title="wikilink">보잉 737-700</a></p></td>
@@ -221,8 +205,8 @@
 </tr>
 <tr class="even">
 <td><p>합계</p></td>
-<td><p>99</p></td>
-<td><p>5</p></td>
+<td><p>96</p></td>
+<td><p>9</p></td>
 <td><p>11</p></td>
 <td></td>
 <td></td>
@@ -238,7 +222,7 @@
 | [에어버스 A330-300](../Page/에어버스_A330.md "wikilink")                              | 1                                      | 2013년                            | 2013년                            | 임차 기종                                                                         | [하이 플라이](https://ko.wikipedia.org/wiki/하이_플라이 "wikilink") 임차 운항     |
 | [보잉 737-300](../Page/보잉_737.md "wikilink")                                    | 3                                      | 1996년                            | 2005년                            | [보잉 737-400](../Page/보잉_737.md "wikilink")                                    |                                                                     |
 | 1                                                                             | 1999년                                  | 1999년                            | 임차 기종                            | [에어 뉴질랜드](../Page/에어_뉴질랜드.md "wikilink") 임차 운항                                |                                                                     |
-| [보잉 737-400](../Page/보잉_737.md "wikilink")                                    | 7                                      | 1993년                            | 2014년                            | [보잉 737-800](../Page/보잉_737.md "wikilink")                                    |                                                                     |
+| [보잉 737-400](../Page/보잉_737.md "wikilink")                                    | 10                                     | 1993년                            | 2020년                            | [보잉 737-800](../Page/보잉_737.md "wikilink")                                    | \[8\]                                                               |
 | [보잉 737-500](../Page/보잉_737.md "wikilink")                                    | 12                                     | 1992년                            | 2011년                            | [보잉 737-800](../Page/보잉_737.md "wikilink")                                    |                                                                     |
 | [보잉 767-200ER](../Page/보잉_767.md "wikilink")                                  | 3                                      | 1989년                            | 2008년                            | [보잉 787](../Page/보잉_787_드림라이너.md "wikilink")                                  |                                                                     |
 | [보잉 767-300ER](../Page/보잉_767.md "wikilink")                                  | 7                                      | 1996년                            | 2014년                            | [보잉 787](../Page/보잉_787_드림라이너.md "wikilink")                                  |                                                                     |
@@ -283,9 +267,9 @@
 
 ## 사건 및 사고
 
-  - [2011년](../Page/2011년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink"), [뉴어크 리버티 국제공항에서](https://ko.wikipedia.org/wiki/뉴어크_리버티_국제공항 "wikilink") [쇼팽 국제공항으로](../Page/바르샤바_쇼팽_국제공항.md "wikilink") 오던 LOT 항공기가 바퀴가 내려오지 않아 동체착륙을 시도하였으나, 부상자은 없었다.\[9\]
+  - [2011년](../Page/2011년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink"), [뉴어크 리버티 국제공항에서](https://ko.wikipedia.org/wiki/뉴어크_리버티_국제공항 "wikilink") [쇼팽 국제공항으로](../Page/바르샤바_쇼팽_국제공항.md "wikilink") 오던[LOT 항공기가 바퀴가 내려오지 않아 동체착륙을 시도하였으나](https://ko.wikipedia.org/wiki/LOT_폴란드_항공_16편_동체착륙_사건 "wikilink"), 부상자은 없었다.\[9\]
   - [2018년](../Page/2018년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink"), LOT 항공의 자회사인 [유로 LOT의](https://ko.wikipedia.org/wiki/유로_LOT "wikilink") 항공기의 앞바퀴가 내려오지 않아 동체착륙을 하였지만, 부상자는 없었다.\[10\]
-  - [2020년](../Page/2020년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink"), [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")에서 [쇼팽 국제공항으로](../Page/바르샤바_쇼팽_국제공항.md "wikilink") 가던 LOT 항공기에 [코로나 19](https://ko.wikipedia.org/wiki/코로나_19 "wikilink") 확진자가 탑승해 승객들을 태우지 않고 이륙하였고, 대신에 대체 항공기를 띄웠다.\[11\]
+  - [2020년](../Page/2020년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink"), [인천국제공항](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink")에서 [쇼팽 국제공항으로](../Page/바르샤바_쇼팽_국제공항.md "wikilink") 가던 LOT 항공기에 [코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink") 확진자가 탑승해 승객들을 태우지 않고 이륙하였고, 대신에 대체 항공기를 띄웠다.\[11\]
 
 ## 각주
 

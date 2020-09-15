@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [SBS 나이트라인](https://ko.wikipedia.org/wiki/SBS_나이트라인).
 
 
-**SBS 나이트라인**(SBS NIGHTLINE)은 [대한민국](../Page/대한민국.md "wikilink") [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") [월요일](../Page/월요일.md "wikilink") \~ [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 12시 20분, [수요일](../Page/수요일.md "wikilink") 밤 12시 30분, [목요일](../Page/목요일.md "wikilink") 밤 12시 40분에 방송되는 [SBS의 마감뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
+《**SBS 나이트라인**》()은 [대한민국](../Page/대한민국.md "wikilink") [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") [월요일](../Page/월요일.md "wikilink") \~ [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 12시 30분, [수요일](../Page/수요일.md "wikilink") 밤 12시 10분, [목요일](../Page/목요일.md "wikilink") 밤 12시 20분에 방송되는 [SBS의 마감뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
 
 ## 개요
 
   - 편성표, NEXT 영상에는 **나이트라인**으로 표현된다.
-  - 본래는 [모닝와이드](../Page/모닝와이드.md "wikilink") [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink") 등과 함께 메인 스튜디오에서 진행을 했으나, [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 2017년 새해 개편으로 인해 2017년 1월 2일부터 새로운 메인 스튜디오 공사에 들어감에 따라 같은 해 [1월 27일까지](../Page/1월_27일.md "wikilink") [모닝와이드](../Page/모닝와이드.md "wikilink"), [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink"), [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink"), [SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink"), [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 주말뉴스](https://ko.wikipedia.org/wiki/SBS_주말뉴스 "wikilink"), [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink") 등과 함께 [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오에서 임시로 진행하고 있었으며, 같은 해 [1월 30일에](../Page/1월_30일.md "wikilink") 새로운 메인 스튜디오가 개편됨에 따라 같은 해 [1월 31일부터](../Page/1월_31일.md "wikilink") 현재 [모닝와이드](../Page/모닝와이드.md "wikilink"), [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink") 등과 함께 다시 메인 스튜디오에서 진행하고 있다.
+  - 본래는 [모닝와이드](../Page/모닝와이드.md "wikilink"). [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 뉴스특보와](../Page/SBS_뉴스특보.md "wikilink") 함께 메인 스튜디오에서 진행을 했으나, [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 2017년 새해 개편으로 인해 2017년 1월 2일부터 새로운 메인 스튜디오 공사에 들어감에 따라 같은 해 [1월 27일까지](../Page/1월_27일.md "wikilink") [모닝와이드](../Page/모닝와이드.md "wikilink"), [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink"), [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink"), [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink"), [SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink"), [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 주말뉴스](https://ko.wikipedia.org/wiki/SBS_주말뉴스 "wikilink"), [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink") 등과 함께 [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") 전용 스튜디오에서 임시로 진행하고 있었으며, 같은 해 [1월 30일에](../Page/1월_30일.md "wikilink") 새로운 메인 스튜디오가 개편됨에 따라 같은 해 [1월 31일부터](../Page/1월_31일.md "wikilink") 현재 [모닝와이드](../Page/모닝와이드.md "wikilink"), [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink"), [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink") 등과 함께 다시 메인 스튜디오에서 진행하고 있다.
 
 ## 방송 시간
 
-현재 방송시간은 [2020년](../Page/2020년.md "wikilink") [5월 25일부터를](../Page/5월_25일.md "wikilink") 기준으로 한다.
+현재 방송시간은 [2020년](../Page/2020년.md "wikilink") [8월 31일부터를](../Page/8월_31일.md "wikilink") 기준으로 한다.
 
 <table>
 <thead>
@@ -538,7 +538,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/5월_28일.md" title="wikilink">5월 28일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/6월_3일.md" title="wikilink">6월 3일</a></p></td>
-<td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
+<td><p>월요일 ~ 화요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
+수요일 ~ 목요일 밤 12시 15분 ~ 12시 30분 (15분)<br />
 금요일 밤 12시 45분 ~12시 50분 (5분)<br />
 토요일 밤 12시 50분 ~ 새벽 1시 (15분)<br />
 일요일 새벽 2시 ~ 2시 10분 (10분)</p></td>
@@ -546,7 +547,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/6월_4일.md" title="wikilink">6월 4일</a> ~ <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/8월_11일.md" title="wikilink">8월 11일</a></p></td>
-<td><p>월요일 ~ 목요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
+<td><p>월요일 ~ 화요일 밤 12시 5분 ~ 12시 20분 (15분)<br />
+수요일 ~ 목요일 밤 12시 15분 ~ 12시 30분 (15분)<br />
 금요일 밤 12시 45분 ~ 12시 50분 (5분)<br />
 토요일 밤 12시 50분 ~ 새벽 1시 (15분)</p></td>
 <td></td>
@@ -656,7 +658,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_25일.md" title="wikilink">6월 25일</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -667,6 +669,43 @@
 목요일 밤 12시 50분 ~ 새벽 1시 20분 (30분)</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/7월_23일.md" title="wikilink">7월 23일</a></p></td>
+<td><p>월요일 밤 12시 ~ 12시 30분 (30분)<br />
+화요일 밤 12시 20분 ~ 12시 50분 (30분)<br />
+수요일 밤 12시 30분 ~ 새벽 1시 (30분)<br />
+목요일 밤 12시 40분 ~ 새벽 1시 10분 (30분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/7월_27일.md" title="wikilink">7월 27일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/7월_30일.md" title="wikilink">7월 30일</a></p></td>
+<td><p>월요일, 목요일 밤 12시 40분 ~ 새벽 1시 10분 (30분)<br />
+화요일 밤 12시 20분 ~ 12시 50분 (30분)<br />
+수요일 밤 12시 30분 ~ 새벽 1시 (30분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/8월_3일.md" title="wikilink">8월 3일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/8월_20일.md" title="wikilink">8월 20일</a></p></td>
+<td><p>월요일, 수요일 밤 12시 30분 ~ 새벽 1시 (30분)<br />
+화요일 밤 12시 20분 ~ 12시 50분 (30분)<br />
+목요일 밤 12시 40분 ~ 새벽 1시 10분 (30분)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/8월_27일.md" title="wikilink">8월 27일</a></p></td>
+<td><p>월요일 밤 12시 30분 ~ 새벽 1시 (30분)<br />
+화요일 밤 12시 20분 ~ 12시 50분 (30분)<br />
+수요일 밤 12시 10분 ~ 12시 40분 (30분)<br />
+목요일 밤 12시 40분 ~ 새벽 1시 10분 (30분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a> ~ <strong>현재</strong></p></td>
+<td><p>월요일 ~ 화요일 밤 12시 30분 ~ 새벽 1시 (30분)<br />
+수요일 밤 12시 10분 ~ 12시 40분 (30분)<br />
+목요일 밤 12시 20분 ~ 12시 50분 (30분)</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -674,7 +713,7 @@
 
   - 사실은? ([SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") 재방송)
   - 나이트라인 뉴스 속으로
-  - SBS 날씨 - [양태빈](https://ko.wikipedia.org/wiki/양태빈 "wikilink")
+  - SBS 날씨 - 전소영 기상캐스터
   - SBS 나이트라인 클로징
 
 ## 앵커
@@ -688,10 +727,10 @@
 | 대수  | 진행자                                                                | 진행 기간                          | 비고           |
 | --- | ------------------------------------------------------------------ | ------------------------------ | ------------ |
 | 1대  | [이재윤](https://ko.wikipedia.org/wiki/이재윤 "wikilink") 前 아나운서         | 1991년 12월 9일 \~ 1994년 4월 15일   |              |
-| 2대  | [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장                 | 1994년 4월 18일 \~ 1994년 10월 21일  |              |
+| 2대  | [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 前 아나운서팀 국장               | 1994년 4월 18일 \~ 1994년 10월 21일  |              |
 | 3대  | 이궁 前 논설위원                                                          | 1994년 10월 24일 \~ 1996년 3월 22일  | \[2\]        |
 | 4대  | [김성호](https://ko.wikipedia.org/wiki/김성호 "wikilink") 前 기자           | 1996년 3월 25일 \~ 1996년 10월 18일  |              |
-| 5대  | [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장                 | 1996년 10월 21일 \~ 1997년 2월 28일  | \[3\]        |
+| 5대  | [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 前 아나운서팀 국장               | 1996년 10월 21일 \~ 1997년 2월 28일  | \[3\]        |
 | 6대  | 이승열 前 보도제작국장                                                       | 1997년 3월 3일 \~ 1998년 10월 18일   |              |
 | 7대  | 박수택 前 환경전문기자                                                       | 1998년 10월 19일 \~ 2000년 4월 14일  |              |
 | 8대  | 신우선 前 기자                                                           | 2000년 4월 17일 \~ 2002년 1월 4일    | \[4\]        |
@@ -703,10 +742,10 @@
 | 14대 | [편상욱](../Page/편상욱.md "wikilink") 국제부장                              | 2009년 4월 27일 \~ 2011년 3월 18일   |              |
 | 15대 | [정성근](../Page/정성근.md "wikilink") 前 논설위원                            | 2011년 3월 21일 \~ 2012년 1월 10일   | \[11\]\[12\] |
 | 16대 | [하남신](../Page/하남신.md "wikilink") 前 논설실장                            | 2012년 1월 30일 \~ 2013년 12월 6일   | \[13\]       |
-| 17대 | [배재학](../Page/배재학.md "wikilink") 편집2부장                             | 2013년 12월 9일 \~ 2015년 11월 19일  | \[14\]       |
+| 17대 | [배재학](../Page/배재학.md "wikilink") 부장급 기자                            | 2013년 12월 9일 \~ 2015년 11월 19일  | \[14\]       |
 | 18대 | 이형근 논설위원                                                           | 2015년 11월 23일 \~ 2018년 11월 13일 |              |
-| 19대 | [김석재](../Page/김석재_\(기자\).md "wikilink") 보도본부 부장                    | 2018년 11월 14일 \~ 2019년 7월 18일  |              |
-| 20대 | [편상욱](../Page/편상욱.md "wikilink") 국제부장                              | 2019년 7월 22일 \~ **현재**         | \[15\]       |
+| 19대 | [김석재](../Page/김석재_\(기자\).md "wikilink") 부장급 기자                     | 2018년 11월 14일 \~ 2019년 7월 18일  |              |
+| 20대 | [편상욱](../Page/편상욱.md "wikilink") 국제부장                              | 2019년 7월 22일 \~ **현재**         | \[15\]\[16\] |
 
 ## 타이틀 변천사
 
@@ -746,11 +785,11 @@ SBS 뉴스 (금요일)</p></td>
 ## 지역별 자체방송
 
   - 월요일 \~ 목요일 [KNN](../Page/KNN.md "wikilink"), [TJB](../Page/대전방송.md "wikilink"), [kbc](../Page/광주방송.md "wikilink"), [ubc](../Page/울산방송.md "wikilink"), [JTV](../Page/전주방송.md "wikilink"), [CJB](../Page/청주방송.md "wikilink"), [G1](../Page/G1.md "wikilink"), [JIBS](../Page/제주국제자유도시방송.md "wikilink")
-  - [TBC는](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 자체방송\[16\]
+  - [TBC는](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 자체방송\[17\]
 
 ## 경쟁 프로그램
 
-  - [KBS 뉴스 (2430)](../Page/KBS_뉴스_\(2430\).md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [KBS 뉴스라인](../Page/KBS_뉴스라인.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
   - [스포츠 하이라이트](../Page/스포츠_하이라이트_\(텔레비전_프로그램\).md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
   - [스포츠 다이어리](../Page/스포츠_다이어리.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
 
@@ -776,9 +815,9 @@ SBS 뉴스 (금요일)</p></td>
 [분류:SBS의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_뉴스_텔레비전_프로그램 "wikilink") [분류:1991년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1991년에_시작한_대한민국_TV_프로그램 "wikilink")
 
 1.  개국 당시에는 밤 12시 30분에 방송되었다.
-2.  1995년 설 연휴로 인하여, 1995년 설 연휴 방송분은 당시 토요일 [모닝와이드](../Page/모닝와이드.md "wikilink") 1,2부의 진행을 맡고 있던 [한종희](https://ko.wikipedia.org/wiki/한종희 "wikilink") 기자가 **SBS 뉴스**로 대신 진행했다.
-3.  [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장은 SBS 마감뉴스 진행한 지 2년 만에 SBS 나이트라인 재진행.
-4.  신우선 前 기자의 휴가 또는 출장으로 인하여, 2001년 1월 21일 방송분은 SBS 나이트라인의 2, 5대 앵커인 [김태욱](https://ko.wikipedia.org/wiki/김태욱 "wikilink") 아나운서팀 국장이 대신 진행했다.
+2.  1995년 설 연휴로 인하여, 1995년 설 연휴 방송분은 당시 토요일 [모닝와이드](../Page/모닝와이드.md "wikilink") 1,2부의 진행을 맡고 있던 [한종희](https://ko.wikipedia.org/wiki/한종희 "wikilink") 前 기자가 **SBS 뉴스**로 대신 진행했다.
+3.  [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 前 아나운서팀 국장은 SBS 마감뉴스 진행한 지 2년 만에 SBS 나이트라인 재진행.
+4.  신우선 前 기자의 휴가 또는 출장으로 인하여, 2001년 1월 21일 방송분은 당시 [SBS 뉴스와 생활경제의](../Page/SBS_12_뉴스.md "wikilink") 진행을 맡고 있던 SBS 나이트라인의 2, 5대 앵커인 [김태욱](https://ko.wikipedia.org/wiki/김태욱 "wikilink") 前 아나운서팀 국장이 대신 진행했다.
 5.  이궁 前 논설위원은 6년 만에 SBS 나이트라인 재진행.
 6.  신우선 前 기자는 2년 만에 SBS 나이트라인 재진행.
 7.  신우선 前 기자의 휴가 또는 출장으로 인하여, 2004년 11월 30일 \~ 12월 4일 방송분은 [최기환](../Page/최기환.md "wikilink") 아나운서가 대신 진행했고, 12월 17일 방송분은 양만희 기자가 대신 진행했으며, 12월 21일 \~ 12월 24일 방송분은 [박광범](../Page/박광범.md "wikilink") 아니운서(現. [SBS 낮 종합뉴스](../Page/SBS_낮_종합뉴스.md "wikilink") 앵커)가 대신 진행했다.
@@ -786,8 +825,9 @@ SBS 뉴스 (금요일)</p></td>
 9.  이승열 前 보도제작국장(現. [국제방송교류재단](../Page/국제방송교류재단.md "wikilink") 사장)의 여름 휴가로 인하여, 2005년 8월 23일 \~ 8월 27일 방송분은 [신용철](../Page/신용철.md "wikilink") 아나운서가 대신 진행했다.
 10. [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 사상 최초로 여성 앵커가 SBS 나이트라인을 진행했다.
 11. [정성근](../Page/정성근.md "wikilink") 前 논설위원(現. [자유한국당](../Page/자유한국당.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink")당 파주갑 당원협의회 운영위원장)은 7년 만에 SBS 나이트라인 재진행.
-12. [정성근](../Page/정성근.md "wikilink") 前 논설위원(現. [자유한국당](../Page/자유한국당.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink")당 파주갑 당원협의회 운영위원장)은 [2012년](../Page/2012년.md "wikilink") [1월 27일까지](../Page/1월_27일.md "wikilink") SBS 나이트라인을 진행할 예정이었으나, [2012년](../Page/2012년.md "wikilink") [1월 10일에](../Page/1월_10일.md "wikilink") [대한민국 제19대 국회의원 선거에](https://ko.wikipedia.org/wiki/대한민국_제19대_국회의원_선거 "wikilink") 출마하기 위해 SBS 논설위원을 그만두고 SBS 나이트라인에서 하차하게 되어, [2012년](../Page/2012년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") 방송분은 당시 [SBS 뉴스퍼레이드의](https://ko.wikipedia.org/wiki/SBS_뉴스퍼레이드 "wikilink") 진행을 맡고 있던 [배재학](../Page/배재학.md "wikilink") 편집2부장이 대신 진행했다.
-13. [하남신](../Page/하남신.md "wikilink") 前 논설실장의 장인상 장례식 관계로 인하여, [2012년](../Page/2012년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink") 방송분은 당시 [SBS 뉴스퍼레이드의](https://ko.wikipedia.org/wiki/SBS_뉴스퍼레이드 "wikilink") 진행을 맡고 있던 SBS 나이트라인의 14대 앵커인 [배재학](../Page/배재학.md "wikilink") 편집2부장이 대신 진행했고, [하남신](../Page/하남신.md "wikilink") 前 논설실장(現. [방송통신심의위원회](https://ko.wikipedia.org/wiki/방송통신심의위원회 "wikilink") 심의위원)의 휴가 또는 출장으로 인하여 [2012년](../Page/2012년.md "wikilink") [7월 28일](../Page/7월_28일.md "wikilink"), [10월 6일](../Page/10월_6일.md "wikilink"), [11월 30일](../Page/11월_30일.md "wikilink") \~ [12월 1일](../Page/12월_1일.md "wikilink"), [12월 4일](../Page/12월_4일.md "wikilink") \~ [12월 8일](../Page/12월_8일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink") \~ [3월 16일](../Page/3월_16일.md "wikilink"), [4월 26일](../Page/4월_26일.md "wikilink") \~ [4월 27일](../Page/4월_27일.md "wikilink"), [5월 28일](../Page/5월_28일.md "wikilink") \~ [6월 1일](../Page/6월_1일.md "wikilink"), [6월 4일](../Page/6월_4일.md "wikilink") \~ [6월 8일](../Page/6월_8일.md "wikilink"), [9월 24일](../Page/9월_24일.md "wikilink") \~ [9월 26일](../Page/9월_26일.md "wikilink"), [10월 12일](../Page/10월_12일.md "wikilink"), [11월 16일](../Page/11월_16일.md "wikilink") 방송분은 당시 [SBS 뉴스라인의](https://ko.wikipedia.org/wiki/SBS_뉴스라인_\(SBS_러브FM\) "wikilink") 진행을 맡고 있던 SBS 나이트라인의 7대 앵커인 박수택 前 환경전문기자(現. [정의당](https://ko.wikipedia.org/wiki/정의당 "wikilink") 당원)가 대신 진행했다.
-14. [배재학](../Page/배재학.md "wikilink") 편집2부장의 휴가 또는 출장으로 인하여, 2014년 [5월 10일](../Page/5월_10일.md "wikilink"), [5월 17일](../Page/5월_17일.md "wikilink") 방송분은 [나이트라인 스포츠의](../Page/나이트라인_스포츠.md "wikilink") 앵커인 [염용석](https://ko.wikipedia.org/wiki/염용석 "wikilink") 아나운서가 대신 진행했고, 2014년 [8월 15일](../Page/8월_15일.md "wikilink") \~ [8월 16일](../Page/8월_16일.md "wikilink") 방송분은 [김용태](https://ko.wikipedia.org/wiki/김용태 "wikilink") 정치부 기자(現. 주말 [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") 앵커)가 대신 진행했으며, [2014년](../Page/2014년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink"), 2015년 [1월 24일](../Page/1월_24일.md "wikilink"), [4월 11일](../Page/4월_11일.md "wikilink"), [6월 6일](../Page/6월_6일.md "wikilink") 방송분은 SBS 나이트라인의 2, 5대 앵커인 [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장이 대신 진행했다.
+12. [정성근](../Page/정성근.md "wikilink") 前 논설위원(現. [자유한국당](../Page/자유한국당.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink")당 파주갑 당원협의회 운영위원장)은 [2012년](../Page/2012년.md "wikilink") [1월 27일까지](../Page/1월_27일.md "wikilink") SBS 나이트라인을 진행할 예정이었으나, [2012년](../Page/2012년.md "wikilink") [1월 10일에](../Page/1월_10일.md "wikilink") [대한민국 제19대 국회의원 선거에](https://ko.wikipedia.org/wiki/대한민국_제19대_국회의원_선거 "wikilink") 출마하기 위해 SBS 논설위원을 그만두고 SBS 나이트라인에서 하차하게 되어, [2012년](../Page/2012년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") 방송분은 당시 [SBS 뉴스퍼레이드의](https://ko.wikipedia.org/wiki/SBS_뉴스퍼레이드 "wikilink") 진행을 맡고 있던 [배재학](../Page/배재학.md "wikilink") 부장급 기자가 대신 진행했다.
+13. [하남신](../Page/하남신.md "wikilink") 前 논설실장의 휴가 또는 장인상 장례식 관계로 인하여, [2012년](../Page/2012년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") 방송분은 당시 [SBS 뉴스퍼레이드의](../Page/SBS_오_뉴스.md "wikilink") 진행을 맡고 있던 SBS 나이트라인의 14대 앵커인 [배재학](../Page/배재학.md "wikilink") 편집2부장이 대신 진행했고, [2012년](../Page/2012년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [10월 11일](../Page/10월_11일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") 방송분은 당시 [SBS 뉴스라인의](https://ko.wikipedia.org/wiki/SBS_뉴스라인_\(SBS_러브FM\) "wikilink") 진행을 맡고 있던 SBS 나이트라인의 7대 앵커인 박수택 前 환경전문기자(現. [정의당](https://ko.wikipedia.org/wiki/정의당 "wikilink") 당원)가 대신 진행했다.
+14. [배재학](../Page/배재학.md "wikilink") 부장급 기자의 휴가 또는 출장으로 인하여, [2014년](../Page/2014년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink"), [2014년](../Page/2014년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") 방송분은 당시 [나이트라인 스포츠의](../Page/나이트라인_스포츠.md "wikilink") 진행을 맡고 있던 [염용석](https://ko.wikipedia.org/wiki/염용석 "wikilink") 아나운서가 대신 진행했고, [2014년](../Page/2014년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") 방송분은 [김용태](https://ko.wikipedia.org/wiki/김용태 "wikilink") 정치부 기자가 대신 진행했으며, [2014년](../Page/2014년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink"), [2015년](../Page/2015년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink"), [2015년](../Page/2015년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink"), [2015년](../Page/2015년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") 방송분은 SBS 나이트라인의 2, 5대 앵커인 [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 前 아나운서팀 국장이 대신 진행했다.
 15. [편상욱](../Page/편상욱.md "wikilink") 국제부장은 8년 만에 SBS 나이트라인 재진행.
-16. 단, 특집 편성으로 인해 자체방송 없이 그대로 방송하는 경우도 있다.
+16. [편상욱](../Page/편상욱.md "wikilink") 국제부장의 휴가 또는 개인 사정으로 인하여, 2020년 6월 29일 방송분은 [SBS 오 뉴스의](../Page/SBS_오_뉴스.md "wikilink") 앵커인 [한수진](../Page/한수진_\(1969년\).md "wikilink") 선임기자가 대신 진행했고, 2020년 8월 3일 \~ 2020년 8월 6일 방송분은 SBS 나이트라인의 18대 앵커인 이형근 논설위원이 대신 진행했다.
+17. 단, 특집 편성으로 인해 자체방송 없이 그대로 방송하는 경우도 있다.

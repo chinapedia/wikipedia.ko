@@ -5,7 +5,7 @@
 
 ## 지역민방 프로그램
 
-SBS시사토론은 각각의 지역민영방송 2곳이 자체편성 관계로 방송되지 않으며, 프로그램 제작국인 [SBS](../Page/SBS.md "wikilink") 외 [G1](https://ko.wikipedia.org/wiki/강원민방 "wikilink"), [kbc](../Page/광주방송.md "wikilink"), [JIBS](https://ko.wikipedia.org/wiki/JIBS "wikilink"), [ubc](../Page/울산방송.md "wikilink"), [TBC](https://ko.wikipedia.org/wiki/대구방송 "wikilink"), [TJB](../Page/대전방송.md "wikilink"), [JTV](../Page/전주방송.md "wikilink") 지역민방 7개만이 자체편성 없이 그대로 방송한다. 다음 지역민방 프로그램은 밤 12시 35분부터 방송된다.(토론 프로그램중 유일무이하게 전국으로 동시 송출되지 않는다.)
+SBS시사토론은 각각의 지역민영방송 2곳이 자체편성 관계로 방송되지 않으며, 프로그램 제작국인 [G1](https://ko.wikipedia.org/wiki/강원민방 "wikilink"), [kbc](../Page/광주방송.md "wikilink"), [JIBS](https://ko.wikipedia.org/wiki/JIBS "wikilink"), [ubc](../Page/울산방송.md "wikilink"), [TBC](https://ko.wikipedia.org/wiki/대구방송 "wikilink"), [TJB](../Page/대전방송.md "wikilink"), [JTV](../Page/전주방송.md "wikilink") 등 지역민방 7개만이 자체편성 없이 그대로 방송한다. 다음 지역민방 프로그램은 밤 12시 35분부터 방송된다. (토론 프로그램중 유일무이하게 전국으로 동시 송출되지 않는다.)
 
   - [KNN](../Page/KNN.md "wikilink") KNN 스페셜, TV갤러리
   - [CJB](../Page/청주방송.md "wikilink") 시사진단

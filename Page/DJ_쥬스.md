@@ -7,7 +7,7 @@
 
 **DJ Juice**는 중고등학교 시절 춤에 관심을 가지고 추다가, 음악을 찾아보면서 [1999 대한민국](https://ko.wikipedia.org/wiki/1999_대한민국 "wikilink"), [Gang Starr](https://ko.wikipedia.org/wiki/갱_스타 "wikilink"), [DJ Premier](../Page/DJ_프리미어.md "wikilink") 등의 음악에 빠져 힙합을 좋아하게 되었다.\[1\] 이후 힙합 음악을 만들고 싶다는 생각에 DJ 학원을 다니기도 하면서 디제잉을 시작하였다. 특히 이후 [DJ Nega에게](https://ko.wikipedia.org/wiki/DJ_네가 "wikilink") 레슨을 받은 것이 DJ 스킬을 늘리는 데 큰 도움을 줬다. 그의 첫 '데뷔'는 [한량사](../Page/한량사.md "wikilink")의 컴필레이션 앨범 *절충 Project vol.2* 수록곡 *하몽: M2*의 스크래칭 세션이었다.\[2\]
 
-이후 그는 DJ 짱가와 만나 2003년 [Bust This를](../Page/버스트_디스.md "wikilink") 결성하였으며, 한량사와 계약을 맺고 소속 아티스트로써 여러 활동을 하였다. 2005년 후반에는 일시적으로 [Paloalto와](../Page/팔로알토_\(가수\).md "wikilink") 함께 **Triplets**를 결성하여 활동하기도 하였고, [Superman IVY와도](../Page/재지_아이비.md "wikilink") 함께 활발히 공연 활동을 하였다. Bust This는 2007년 멤버들의 고민 끝에 처음이자 마지막 앨범을 내고 해체하였다.
+이후 그는 DJ 짱가와 만나 2003년 [Bust This를](../Page/버스트_디스.md "wikilink") 결성하였으며, 한량사와 계약을 맺고 소속 아티스트로써 여러 활동을 하였다. 2005년 후반에는 일시적으로 [Paloalto와](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink") 함께 **Triplets**를 결성하여 활동하기도 하였고, [Superman IVY와도](../Page/재지_아이비.md "wikilink") 함께 활발히 공연 활동을 하였다. Bust This는 2007년 멤버들의 고민 끝에 처음이자 마지막 앨범을 내고 해체하였다.
 
 해체 후 2008년 2월부터 DJ Juice는 솔로 앨범 준비에 들어갔다.\[3\] 이 앨범은 2008년 6월 4일 발매되었는데, DJ로써의 그의 모습보다는 비트메이커로써의 모습에 초점이 맞춰진 앨범이었다. 인터뷰에서 그는 최대한 다양한 스타일을 추구하여, 자신이 표현할 수 있는 범위를 넓히면서 스타일의 깊이를 찾아가는 과정으로써 앨범을 작업하였다고 말하였다.\[4\] 앨범 작업은 특별한 소속사 없이 음악 작업부터 참여진 섭외, 녹음실 예약까지 모두 DJ Juice가 맡았다.
 

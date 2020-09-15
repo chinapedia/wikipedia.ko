@@ -9,7 +9,7 @@
 
 ## 중고평균가격
 
-2015년11월 캐논EOS500D 평균가격은(바디기준)13만원이다.(중고나라 기준)[1](http://cafe.naver.com/joonggonara)
+2015년11월 캐논EOS500D 평균가격은(바디기준)13만원이다.(중고나라 기준)[1](https://web.archive.org/web/20151117022201/http://cafe.naver.com/joonggonara)
 
 ## 같이 보기
 
@@ -26,7 +26,7 @@
 
   - [dcinside.com의 리뷰](https://web.archive.org/web/20101022071908/http://dica.dcinside.com/review.php?pid=8555)
 
-  - [dpreview.com의 리뷰](http://www.dpreview.com/reviews/canoneos500d/)
+  - [dpreview.com의 리뷰](https://web.archive.org/web/20091212131235/http://www.dpreview.com/reviews/canoneos500d/)
 
   - [캐논코리아 500D 공식 안내 사이트](https://web.archive.org/web/20110319070001/http://www.canon-ci.co.kr/actions/ProductMainAction?cmd=view&product_code=NPAB796360)
 

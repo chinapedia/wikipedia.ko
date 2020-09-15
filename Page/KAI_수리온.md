@@ -5,9 +5,11 @@
 
 대한민국에서 활용하기 위해 각종 파생형이 개발되었으나, 개발과정의 결함에 관한 논란 역시 존재한다.
 
-## 사업배경과 경과
+## 역사
 
 수리온은 [대한민국 국군의](../Page/대한민국_국군.md "wikilink") 노후화된 UH-1, 500MD를 대체하기 위해 2006년 6월에 개발에 착수하였고, 2010년에 초도비행에 성공하였으며, 2012년 12월부터 100대가 실전 배치되었다.\[1\]
+
+[에어버스 헬리콥터는](../Page/에어버스_헬리콥터.md "wikilink") 자사의 세계적인 베스트셀러 헬리콥터인 퓨마헬기([아에로스파시알 SA 330 퓌마](../Page/아에로스파시알_SA_330_퓌마.md "wikilink"))를 한국에는 수리온(초도비행 2010년 3월), 중국에는 [유로콥터 EC175](../Page/유로콥터_EC175.md "wikilink")(초도비행 2009년 12월)으로 판매했다. 중국에서 생산된 버전은 Avicopter AC352라고 부르는데 초도비행을 2016년 12월에 했다. [에어버스 헬리콥터는](../Page/에어버스_헬리콥터.md "wikilink") 인도의 [:en:HAL Medium Lift Helicopter](https://ko.wikipedia.org/wiki/:en:HAL_Medium_Lift_Helicopter "wikilink") 사업에 또다시 퓨마헬기로 도전하고 있다.
 
 ## 엔진
 
@@ -110,7 +112,7 @@
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.koreaaero.com/english/product/kuh.asp)
+  - [공식 웹사이트](https://web.archive.org/web/20160312220826/http://www.koreaaero.com/english/product/kuh.asp)
 
   - [수리온 영상](https://www.youtube.com/watch?v=LwPQiuo_5n4&t=15s)
 
@@ -132,7 +134,7 @@
 12.
 13.
 14.
-15. ['수리온'의 굴욕 '안전'에 발목 잡혔다.](http://www.sisaweek.com/news/articleView.html?idxno=75461) 2016.08.04 시사위크
+15. ['수리온'의 굴욕 '안전'에 발목 잡혔다.](http://www.sisaweek.com/news/articleView.html?idxno=75461)  2016.08.04 시사위크
 16. [소방당국 구매대상서 국산헬기 수리온 원천배제 논란](http://www.newsis.com/ar_detail/view.html?ar_id=NISX20160801_0014259655&cID=10401&pID=10400) 2016-08-01 뉴시스
 17.
 18.

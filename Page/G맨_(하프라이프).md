@@ -33,7 +33,7 @@
 
 ### 정리
 
-최초 하프라이프 시리즈의 시간대에서부터 그의 행적을 정리해 보면,
+최초 하프라이프 시리즈의 시간대에서부터 그의 행적을 정리해 보면 다음과 같다.
 
   - 실험 당일, [대공명 현상을](https://ko.wikipedia.org/wiki/대공명_현상 "wikilink") 일으키기 위해 크리스탈 표본을 전달.
 
@@ -92,5 +92,3 @@
 이로 미루어 볼 때 그는 어느 세력을 중심으로 한 거대 조직에 연관되어 있으며, 그 목적은 콤바인과 깊은 연관 관계에 있는 것으로 생각된다. 그러나 그가 불러일으킨 사고와 지구에 대한 행실을 보면 결코 지구 세력 측에 대해 호의적인 것은 아닌 것으로 보인다.
 
 [분류:하프라이프의 등장인물](https://ko.wikipedia.org/wiki/분류:하프라이프의_등장인물 "wikilink")
-
-[pl:Lista postaci ze świata Half-Life\#G-Man](https://ko.wikipedia.org/wiki/pl:Lista_postaci_ze_świata_Half-Life#G-Man "wikilink")

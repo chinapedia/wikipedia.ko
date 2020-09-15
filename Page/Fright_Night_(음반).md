@@ -15,7 +15,7 @@
 
 ## 외부 링크
 
-  - [*Fright Night*](http://www.stratovarius.com/pages/albums.php?item=16)
+  - [*Fright Night*](https://web.archive.org/web/20160303205705/http://www.stratovarius.com/pages/albums.php?item=16)
   - [스트라토바리우스 누리집 - BAND - BIOGRAPHY](https://web.archive.org/web/20090722224607/http://www.stratovarius.com/band.php)
 
 [분류:1989년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1989년_데뷔_음반 "wikilink") [분류:스트라토바리우스의 음반](https://ko.wikipedia.org/wiki/분류:스트라토바리우스의_음반 "wikilink") [분류:컬럼비아 레코드 음반](https://ko.wikipedia.org/wiki/분류:컬럼비아_레코드_음반 "wikilink")

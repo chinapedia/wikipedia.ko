@@ -24,32 +24,27 @@
 
 ### 남성 연예인
 
-  - [권영민](https://ko.wikipedia.org/wiki/권영민_\(1989년\) "wikilink")
   - [김영재](https://ko.wikipedia.org/wiki/김영재_\(1995년\) "wikilink")
   - [김한종](https://ko.wikipedia.org/wiki/김한종_\(1982년\) "wikilink")
-  - [더노드](https://ko.wikipedia.org/wiki/더노드 "wikilink")
-  - [데니 안](../Page/데니_안.md "wikilink")
+  - [노광식](https://ko.wikipedia.org/wiki/더노드 "wikilink")
   - [동현](../Page/동현_\(1989년\).md "wikilink")
+  - [로몬](../Page/로몬.md "wikilink")
   - [류담](../Page/류담.md "wikilink")
   - [류승수](../Page/류승수.md "wikilink")
   - [박건우](../Page/박건우_\(배우\).md "wikilink")
   - [박상남](https://ko.wikipedia.org/wiki/박상남 "wikilink")
   - [박선호](../Page/박선호_\(배우\).md "wikilink")
-  - [박솔로몬](../Page/박솔로몬.md "wikilink")
   - [박준형](../Page/박준형_\(가수\).md "wikilink")
-  - [박태준](../Page/박태준_\(가수\).md "wikilink")
   - [박현우](../Page/박현우_\(배우\).md "wikilink")
   - [백성현](https://ko.wikipedia.org/wiki/백성현 "wikilink")
   - [빅맨](https://ko.wikipedia.org/wiki/빅맨_\(가수\) "wikilink")
   - [손준호](https://ko.wikipedia.org/wiki/손준호_\(뮤지컬_배우\) "wikilink")
-  - [오광록](../Page/오광록.md "wikilink")
   - [엄기준](../Page/엄기준.md "wikilink")
-  - [이봉원](../Page/이봉원.md "wikilink")
+  - [오광록](../Page/오광록.md "wikilink")
   - [윤주빈](../Page/윤주빈.md "wikilink")
+  - [이봉원](../Page/이봉원.md "wikilink")
   - [장혁](../Page/장혁.md "wikilink")
   - [정수교](../Page/정수교.md "wikilink")
-  - [정찬민](https://ko.wikipedia.org/wiki/정찬민_\(희극인\) "wikilink")
-  - [제이쓴](https://ko.wikipedia.org/wiki/제이쓴 "wikilink")
   - [지은성](../Page/지은성_\(1991년\).md "wikilink")
   - [최영민](https://ko.wikipedia.org/wiki/최영민 "wikilink")
   - [케빈](https://ko.wikipedia.org/wiki/케빈_\(1993년\) "wikilink")
@@ -60,19 +55,19 @@
 
   - [김다예](../Page/김다예.md "wikilink")
   - [김수정](../Page/김수정_\(2004년\).md "wikilink")
-  - [김연준](https://ko.wikipedia.org/wiki/김연준_\(1996년\) "wikilink")
   - [김유정](../Page/김유정_\(배우\).md "wikilink")
   - [김윤혜](../Page/김윤혜.md "wikilink")
   - [김지영](../Page/김지영_\(2005년\).md "wikilink")
   - [김하늘](../Page/김하늘.md "wikilink")
   - [김혜윤](../Page/김혜윤.md "wikilink")
   - [리원](https://ko.wikipedia.org/wiki/리원 "wikilink")
+  - [박세희](https://ko.wikipedia.org/wiki/박세희_\(2010년\) "wikilink")
   - [박소현](../Page/박소현_\(배우\).md "wikilink")
   - [송채윤](https://ko.wikipedia.org/wiki/송채윤_\(2000년\) "wikilink")
   - [연지후](../Page/연지후.md "wikilink")
   - [오아린](../Page/오아린.md "wikilink")
   - [오연서](../Page/오연서.md "wikilink")
-  - [이가원](https://ko.wikipedia.org/wiki/이가원_\(1991년\) "wikilink")
+  - [이가원](https://ko.wikipedia.org/wiki/이가원_\(배우\) "wikilink")
   - [이고은](../Page/이고은_\(배우\).md "wikilink")
   - [이미숙](../Page/이미숙.md "wikilink")
   - [이유진](../Page/이유진_\(여자_배우\).md "wikilink")
@@ -82,7 +77,6 @@
   - [조아영](../Page/조아영_\(1991년\).md "wikilink")
   - [최수정](https://ko.wikipedia.org/wiki/최수정 "wikilink")
   - [한가림](../Page/한가림.md "wikilink")
-  - [홍현희](../Page/홍현희.md "wikilink")
   - [혜린](../Page/혜린.md "wikilink")
 
 ### 음악 그룹
@@ -97,6 +91,7 @@
   - [공유](../Page/공유_\(배우\).md "wikilink")
   - [권오중](../Page/권오중.md "wikilink")
   - [권영기](../Page/권영기.md "wikilink")
+  - [권영민](https://ko.wikipedia.org/wiki/권영민_\(1989년\) "wikilink")
   - [김광일](https://ko.wikipedia.org/wiki/김광일_\(배우\) "wikilink")
   - [김기방](../Page/김기방.md "wikilink")
   - [김기수](../Page/김기수_\(희극인\).md "wikilink")
@@ -112,6 +107,7 @@
   - [김학래](../Page/김학래_\(희극인\).md "wikilink")
   - [나윤](../Page/김대진_\(배우\).md "wikilink")
   - [대니얼 대 김](../Page/대니얼_대_김.md "wikilink")
+  - [데니 안](../Page/데니_안.md "wikilink")
   - [마동석](../Page/마동석.md "wikilink")
   - [문희준](../Page/문희준.md "wikilink")
   - [박기영](https://ko.wikipedia.org/wiki/박기영_\(1981년\) "wikilink")
@@ -121,6 +117,7 @@
   - [박윤희](../Page/박윤희_\(배우\).md "wikilink")
   - [박재범](../Page/박재범.md "wikilink")
   - [박진택](../Page/박진택.md "wikilink")
+  - [박태준](../Page/박태준_\(가수\).md "wikilink")
   - [백도빈](../Page/백도빈.md "wikilink")
   - [서배준](../Page/서배준.md "wikilink")
   - [설경구](../Page/설경구.md "wikilink")
@@ -151,7 +148,7 @@
   - [임슬옹](../Page/임슬옹.md "wikilink")
   - [임종인](https://ko.wikipedia.org/wiki/임종인_\(1987년\) "wikilink")
   - [임형준](../Page/임형준.md "wikilink")
-  - [장경업](https://ko.wikipedia.org/wiki/장경업 "wikilink")
+  - [장경업](../Page/장경업.md "wikilink")
   - [장동혁](../Page/장동혁.md "wikilink")
   - [전재형](../Page/전재형.md "wikilink")
   - [정상윤](../Page/정상윤.md "wikilink")
@@ -160,6 +157,8 @@
   - [정우성](../Page/정우성.md "wikilink")
   - [정윤민](../Page/정윤민.md "wikilink")
   - [정은찬](../Page/정은찬.md "wikilink")
+  - [정찬민](https://ko.wikipedia.org/wiki/정찬민_\(희극인\) "wikilink")
+  - [제이쓴](https://ko.wikipedia.org/wiki/제이쓴 "wikilink")
   - [조경훈](../Page/조경훈_\(1990년\).md "wikilink")
   - [조동혁](../Page/조동혁.md "wikilink")
   - [조상기](../Page/조상기.md "wikilink")
@@ -200,6 +199,7 @@
   - [김수겸](https://ko.wikipedia.org/wiki/김수겸_\(1982년\) "wikilink")
   - [김숙](../Page/김숙.md "wikilink")
   - [김신영](../Page/김신영.md "wikilink")
+  - [김연준](https://ko.wikipedia.org/wiki/김연준_\(1996년\) "wikilink")
   - [김정화](../Page/김정화.md "wikilink")
   - [김채은](../Page/김채은.md "wikilink")
   - [김화주](https://ko.wikipedia.org/wiki/김화주 "wikilink")
@@ -266,6 +266,7 @@
   - [황정음](../Page/황정음.md "wikilink")
   - [황하나](../Page/황하나.md "wikilink")
   - [혜린](https://ko.wikipedia.org/wiki/김리하 "wikilink")
+  - [홍현희](../Page/홍현희.md "wikilink")
 
 ### 음악 그룹
 
@@ -274,7 +275,7 @@
   - [소울스타](../Page/소울스타.md "wikilink")
   - [써드코스트](https://ko.wikipedia.org/wiki/써드코스트 "wikilink")
 
-## 소속 드라마 작가
+## 과거 소속 드라마 작가
 
   - [김영현](../Page/김영현_\(작가\).md "wikilink")
   - [박상연](../Page/박상연.md "wikilink")
@@ -290,12 +291,12 @@
 | --------------------------------------------------------------- | ------- | -------- |
 | 제목                                                              | 제작      | 비고 변경    |
 | 세상 어디에도 없는 착한남자                                                 | IHQ     |          |
-| **함부로 애틋하게**                                                    | **IHQ** | **공동제작** |
+| [함부로 애틋하게](../Page/함부로_애틋하게.md "wikilink")                      | **IHQ** | **공동제작** |
 | [아이언맨](https://ko.wikipedia.org/wiki/아이언맨_\(드라마\) "wikilink")   | IHQ     |          |
 | [페이지터너](https://ko.wikipedia.org/wiki/페이지터너_\(드라마\) "wikilink") | IHQ     | 공동제작     |
-| 아버지가 이상해                                                        | IHQ     |          |
-| 포레스트                                                            | IHQ     | 공동제작     |
-|                                                                 | IHQ     |          |
+| [아버지가 이상해](https://ko.wikipedia.org/wiki/아버지가_이상해 "wikilink")   | IHQ     |          |
+| [포레스트](https://ko.wikipedia.org/wiki/포레스트 "wikilink")           | IHQ     | 공동제작     |
+| [지독한 운명](https://ko.wikipedia.org/wiki/지독한_운명 "wikilink")       | IHQ     |          |
 
 ### SBS
 

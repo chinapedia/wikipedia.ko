@@ -29,13 +29,13 @@
 ## 같이 보기
 
   - [전국노래자랑](../Page/전국노래자랑.md "wikilink") (KBS 1TV)
-  - [노래가 좋아](../Page/노래가_좋아.md "wikilink") (KBS 1TV)
+  - [노래가 좋아](../Page/노래가_좋아.md "wikilink") (KBS 2TV)
   - [열린음악회](../Page/열린음악회.md "wikilink") (KBS 1TV)
   - [가요무대](../Page/가요무대.md "wikilink") (KBS 1TV)
   - [MBC가요베스트](../Page/MBC가요베스트.md "wikilink") (MBC NET)
   - [전국 톱 10 가요쇼](https://ko.wikipedia.org/wiki/전국_톱_10_가요쇼 "wikilink") (JTV)
-  - [성인가요콘서트](../Page/성인가요콘서트.md "wikilink") (INET TV)
-  - [가요사랑콘서트](../Page/가요사랑콘서트.md "wikilink") (INET TV)
+  - [성인가요콘서트](../Page/성인가요콘서트.md "wikilink") (아이넷TV)
+  - [가요사랑콘서트](../Page/가요사랑콘서트.md "wikilink") (아이넷TV)
 
 ## 각주
 

@@ -9,7 +9,7 @@
 
 ### 소속 멤버
 
-  - 이종성 : 예명 tacat. 창설자. 작곡및 편곡부터 음악전반의 믹싱, 마스터링까지 전적으로 담당하고 있다. 현재는 탈퇴.(http://sid-sound.com/main/infomation/2877\#0),블로그:(http://blog.naver.com/tacat080427)
+  - 이종성 : 예명 tacat. 창설자. 작곡및 편곡부터 음악전반의 믹싱, 마스터링까지 전적으로 담당하고 있다. 현재는 탈퇴.(https://web.archive.org/web/20150402222914/http://sid-sound.com/main/infomation/2877\#0),블로그:(http://blog.naver.com/tacat080427)
   - 강민훈 : 예명 BLOODMOON. 공동창설자. 어린시절부터 클래식작곡에 능통해 많은곡을 남겼다.
   - 이상용 : 예명 HiTaZ.작곡및 편곡담당. 2013년부터는 Cradle Edge라는 일렉트로닉 음악을 주로한 프로젝트를 시작했다.
   - 김민석 : 예명 4-parts. 작곡담당. 명곡인 '여래아'를 중학교 2학년때에 작곡하여 주목받음.
@@ -343,7 +343,7 @@
 
 ## 외부 링크
 
-  - [S.I.D-Sound 공식 웹사이트](http://sid-sound.com/)
+  - [S.I.D-Sound 공식 웹사이트](https://web.archive.org/web/20080705023558/http://sid-sound.com/)
 
   -
 [S.I.D-Sound](https://ko.wikipedia.org/wiki/분류:S.I.D-Sound "wikilink") [분류:대한민국의 인디 록 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_인디_록_밴드 "wikilink") [분류:2005년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_결성된_음악_그룹 "wikilink")

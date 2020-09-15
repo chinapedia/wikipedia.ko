@@ -53,8 +53,6 @@
 
 [분류:인터넷 신조어](https://ko.wikipedia.org/wiki/분류:인터넷_신조어 "wikilink") [분류:인터넷 문화](https://ko.wikipedia.org/wiki/분류:인터넷_문화 "wikilink")
 
-[ja:LART](https://ko.wikipedia.org/wiki/ja:LART "wikilink")
-
 1.  McFedries, Paul (2001). The Complete Idiot's Guide to a Smart Vocabulary. Alpha Books. . p. 214
 2.  Jansen, Erin (2002). Netlingo: The Internet Dictionary. NetLingo Inc.. . p. 244
 3.  [luser](http://catb.org/jargon/html/L/luser.html)

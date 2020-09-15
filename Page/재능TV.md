@@ -1,25 +1,23 @@
 > This article is converted from Wikipedia: [재능TV](https://ko.wikipedia.org/wiki/재능TV).
 
 
-**JEI 재능TV**(상호명: **㈜재능스스로방송**)는 [대한민국](../Page/대한민국.md "wikilink")의 어린이 대상 [케이블 텔레비전](../Page/케이블_텔레비전.md "wikilink") 방송국이다. ㈜재능스스로방송은 [㈜재능교육이](../Page/재능교육.md "wikilink") 지분 100%를 보유하고 있는 계열사이다.
+**JEI 재능TV**(<small>상호명:</small> ㈜재능스스로방송)는 [대한민국](../Page/대한민국.md "wikilink")의 어린이 대상 [케이블 텔레비전](../Page/케이블_텔레비전.md "wikilink") 방송국이다. ㈜재능스스로방송은 [㈜재능교육이](../Page/재능교육.md "wikilink") 지분 100%를 보유하고 있는 계열사이다.
 
-1995년 3월에 **두산수퍼네트워크**라는 이름으로 방송을 시작하였으며, 개국 당시부터 막대한 적자를 기록하면서 [1998년](../Page/1998년.md "wikilink") 3월에 [㈜재능교육에서](../Page/재능교육.md "wikilink") 인수하면서 **재능스스로방송**으로 재개국하였다. 2001년 1월, **JEI 스스로방송**으로 채널명을 변경하였고, 2004년 4월에 **English TV** 채널을 인수하였으며 채널명을 **JEI 재능방송**으로 다시 변경하였다. 이후 2007년 10월에 현 채널명인 **JEI 재능TV**으로 변경하였다.
+1995년 3월에 **두산수퍼네트워크**라는 이름으로 방송을 시작하였으며, 개국 당시부터 막대한 적자를 기록하면서, [EBS](../Page/한국교육방송공사.md "wikilink") 위성 개국 이전에 [마이TV](https://ko.wikipedia.org/wiki/마이TV "wikilink")와 [다솜방송](https://ko.wikipedia.org/wiki/다솜방송 "wikilink") 등의 더불어 [대학수학능력시험](../Page/대학수학능력시험.md "wikilink")([수능](https://ko.wikipedia.org/wiki/수능 "wikilink")) 편성하였으며, [1998년](../Page/1998년.md "wikilink") [3월](../Page/3월.md "wikilink")에 [㈜재능교육에서](../Page/재능교육.md "wikilink") 인수하면서 **재능스스로방송**으로 재개국하였다. 2001년 1월, **JEI 스스로방송**으로 채널명을 변경하였고, 2004년 4월에 **English TV** 채널을 인수하였으며 채널명을 **JEI 재능방송**으로 다시 변경하였다. 이후 2007년 10월에 현 채널명인 **JEI 재능TV**으로 변경하였다.
 
-주로 어린이 대상 프로그램의 제작 및 수입 등을 진행하고 있다.
+재능 TV는 주로 어린이 대상 프로그램의 제작 및 수입 등을 진행하고 있다.
 
 ## 주요 프로그램
 
 ### JEI 재능TV
 
   - 송은이의 eye to eye: 톡Talk한 어린이의 토론배틀\! 자신의 생각을 논리적으로 표현할 줄 아는 초등학생들의 상상초월 토론프로그램. 인기 연예인 송은이가 진행자로 아이들의 토론을 이끌어냄
-  - 최은경의 ‘Mom대로 키워라’: 우리아이 대한민국 1% 만들기 프로젝트. 똑똑한 엄마를 위한 재능TV의 똑똑한 육아정보 프로그램. 방송인 최은경이 MC를 맡았다.
-  - 썬더일레븐: 일본에서 ‘이나즈마 일레븐’으로 알려진 애니메이션. 1기부터 4기까지 2011년까지 방송되었으며 신작인 ‘썬더일레븐 GO’는 2012년 2월 13일 재능TV를 통해 한국에서 처음으로 방송되었다.
-
-'썬더일레븐 GO 크로노스톤' 은 2013년 3월 첫방송 되었다.
-
-  - 마법천자문: 손오공을 주인공으로 하는 한자마법 애니메이션. 한자를 통해 마왕을 물리치는 손오공 일행의 활약에 어린이들의 좋은 반응을 얻고 있는 프로그램이다. 케이블에서는 재능TV가 처음으로 방송했고 지상파에서는 MBC에서 방송된 바 있다.
-  - 뽀롱뽀롱 뽀로로: 어린이들의 대통령 뽀로로\! 재능TV를 통해서 꾸준히 방송되고 있는 프로그램. 특히 유아들에게 좋은 반응을 얻고 있는 애니메이션이다.
-  - 코코몽2: 전작인 ‘냉장고나라 코코몽’에 더 재미있는 요소와 캐릭터를 투입해 만든 프로그램이다. 재능TV에서 케이블 첫방송했다.
+  - 최은경의 ‘Mom대로 키워라’: 우리아이 대한민국 1% 만들기 프로젝트. 똑똑한 엄마를 위한 JEI 재능TV의 똑똑한 육아정보 프로그램. 방송인 최은경이 MC를 맡았다.
+  - 썬더일레븐: 일본에서 ‘이나즈마 일레븐’으로 알려진 애니메이션. 1기부터 4기까지 2011년까지 방송되었으며 신작인 ‘썬더일레븐 GO’는 2012년 2월 13일 JEI 재능TV를 통해 한국에서 처음으로 방송되었다.
+  - '썬더일레븐 GO 크로노스톤' 은 2013년 3월 첫방송 되었다.
+  - 마법천자문: 손오공을 주인공으로 하는 한자마법 애니메이션. 한자를 통해 마왕을 물리치는 손오공 일행의 활약에 어린이들의 좋은 반응을 얻고 있는 프로그램이다. 케이블에서는 JEI 재능TV가 처음으로 방송했고 지상파에서는 MBC에서 방송된 바 있다.
+  - 뽀롱뽀롱 뽀로로: 어린이들의 대통령 뽀로로\! JEI 재능TV를 통해서 꾸준히 방송되고 있는 프로그램. 특히 유아들에게 좋은 반응을 얻고 있는 애니메이션이다.
+  - 코코몽2: 전작인 ‘냉장고나라 코코몽’에 더 재미있는 요소와 캐릭터를 투입해 만든 프로그램이다. JEI 재능TV에서 케이블 첫방송했다.
 
 ### JEI English TV
 
@@ -55,16 +53,16 @@
   - [2004년](../Page/2004년.md "wikilink") 7월 - 2004 대한민국 교육 브랜드 대상 수상.
   - [2005년](../Page/2005년.md "wikilink") 7월 - 방송위원회 공익성 방송 분야 채널 선정. (어린이·청소년 부문)
   - [2006년](../Page/2006년.md "wikilink") 4월 - 채널 공급 분야를 교육에서 어린이로 변경.
-  - [2006년](../Page/2006년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") - 재능TV 웹사이트 리뉴얼.
+  - [2006년](../Page/2006년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") - JEI 재능TV 웹사이트 리뉴얼.
   - [2006년](../Page/2006년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") - 캐치프레이즈 도입.
   - [2007년](../Page/2007년.md "wikilink") 6월 - 분당에서 가산디지털단지으로 사옥 이전.
   - [2007년](../Page/2007년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") - JEI재능방송에서 **JEI재능TV**로 채널명 변경.
   - [2008년](../Page/2008년.md "wikilink") 1월 - **방송체험학습장 2008** 개관.
   - [2008년](../Page/2008년.md "wikilink") 7월 - 어린이에서 어린이 및 보조적 데이터방송으로 방송분야 변경.
-  - [2010년](../Page/2010년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") - 재능TV 웹사이트 리뉴얼.
+  - [2010년](../Page/2010년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") - JEI 재능TV 웹사이트 리뉴얼.
   - [2010년](../Page/2010년.md "wikilink") 10월 - HD 콘텐츠 제작시스템 구축.
   - [2010년](../Page/2010년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink") - 유아 및 미취학 프로그램 제이와 콩나무 방송 개시.
-  - [2010년](../Page/2010년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink") - 재능TV ID 영상 교체.
+  - [2010년](../Page/2010년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink") - JEI 재능TV ID 영상 교체.
   - [2011년](../Page/2011년.md "wikilink") 3월 - 『2011 제 5회 케이블TV 방송대상 - 교육/어린이』 (100년 전 우리는 어떻게 살았을까요) 수상.
   - [2011년](../Page/2011년.md "wikilink") 7월 - 한국만화영상진흥원과 업무협약 체결.
   - [2012년](../Page/2012년.md "wikilink") 5월 - 『2012 제 6회 케이블TV 방송대상 - 교육/어린이』(송은이의 eye to eye) 수상.
@@ -74,7 +72,7 @@
 
 ## 채널 번호
 
-  - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프의_방송_채널 "wikilink") - 156번
+  - [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프의_방송_채널 "wikilink") - 485번
   - [올레TV](https://ko.wikipedia.org/wiki/올레_TV의_방송_채널 "wikilink") - 986번
   - [SK B tv](https://ko.wikipedia.org/wiki/B_TV의_방송_채널 "wikilink") - 192번
   - [U+tv G](https://ko.wikipedia.org/wiki/U+_TV의_방송_채널 "wikilink") - 223번
@@ -85,9 +83,9 @@
   - [현대HCN](../Page/현대HCN.md "wikilink") - 302번
   - [푸른방송](https://ko.wikipedia.org/wiki/푸른방송 "wikilink") - 183번
 
-## 재능TV 프로그램
+## JEI 재능TV 프로그램
 
-#### 재능TV에서 방영한 프로그램
+#### JEI 재능TV에서 방영한 프로그램
 
   - [톰과 제리](../Page/톰과_제리.md "wikilink") (2005년 9월 5일 첫방송)
   - [으랏차차 짠돌이네](../Page/으랏차차_짠돌이네.md "wikilink") (2007년 6월 25일 \~ 2010년 말, 2011년 7월 18일 \~ 2011년 12월)
@@ -158,6 +156,7 @@
   - [꾸러기 닌자 토리](../Page/꾸러기_닌자_토리.md "wikilink")
   - [난다 난다 니얀다](../Page/난다_난다_니얀다.md "wikilink")
   - [로봇용사 다그온](../Page/용자지령_다그온.md "wikilink")
+  - [바이트 초이카](https://ko.wikipedia.org/wiki/바이트_초이카 "wikilink")
   - [헬로 카봇](../Page/헬로_카봇.md "wikilink")
   - [터닝메카드](../Page/터닝메카드.md "wikilink")
   - [터닝메카드 W](../Page/터닝메카드_W.md "wikilink")
@@ -188,7 +187,7 @@
   - [헤이\! 아놀드](https://ko.wikipedia.org/wiki/헤이!_아놀드 "wikilink")
   - [아기친구 러그래츠](../Page/러그래츠.md "wikilink")
   - [컸다, 러그래츠](https://ko.wikipedia.org/wiki/컸다,_러그래츠 "wikilink")
-  - [천재소년 지미 뉴트론](https://ko.wikipedia.org/wiki/천재소년_지미_뉴트론 "wikilink")
+  - [천재소년 지미 뉴트론](../Page/천재소년_지미_뉴트론.md "wikilink")
   - [리틀피플](https://ko.wikipedia.org/wiki/리틀피플 "wikilink")
   - [도라도라 영어나라](../Page/도라도라_영어나라.md "wikilink")
   - [포포의 알파벳 세상](https://ko.wikipedia.org/wiki/포포의_알파벳_세상 "wikilink")
@@ -216,7 +215,7 @@
   - [내 친구 펭귄 핑구](../Page/핑구.md "wikilink")
   - [안녕\! 오스월드](../Page/안녕!_오스월드.md "wikilink")
   - [쫑알쫑알 진저](https://ko.wikipedia.org/wiki/쫑알쫑알_진저 "wikilink")
-  - [환경전사 젠타포스](https://ko.wikipedia.org/wiki/환경전사_젠타포스 "wikilink")
+  - [환경전사 젠타포스](../Page/환경전사_젠타포스.md "wikilink")
   - [B 로봇 가브타크](https://ko.wikipedia.org/wiki/B_로봇_가브타크 "wikilink")
   - [철완 탐정 로보타크](https://ko.wikipedia.org/wiki/철완_탐정_로보타크 "wikilink")
   - [토끼네 집으로 오세요](https://ko.wikipedia.org/wiki/토끼네_집으로_오세요 "wikilink")
@@ -235,7 +234,7 @@
 
 ## 포켓몬스터 방영 문제
 
-재능TV는 2008년 9월부터 포켓몬코리아와 계약을 맺어 포켓몬스터 AG와 DP를 방영하였다.(\~2011년 1월 5일) 하지만, 5기 오프닝과 엔딩에서 4:3 레터박스를 사용하지 않은 점과 "Pokemon"을 "Pocketmon"으로 표기한 데 있어 시청자의 심한 항의를 받았다. 결국 포켓몬코리아는 재능TV와 계약을 갑자기 파기해서 [투니버스](../Page/투니버스.md "wikilink")와 계약을 맺었으며, 결국 재능TV는 2011년 4월부터 방영 예정 이었던 [포켓몬스터 베스트위시와](../Page/포켓몬스터_베스트위시.md "wikilink") 같은해 6월 방영예정이었던 13기 극장판인 환영의 패자 조르아크의 방영이 무산되었다. 이후 [2012년](../Page/2012년.md "wikilink") [12월 17일부터](../Page/12월_17일.md "wikilink") 포켓몬스터 베스트위시를 방송했다. 현재는 [포켓몬스터 XY라는](https://ko.wikipedia.org/wiki/포켓몬스터_XY "wikilink") 새로운 프로그램이 방영되어 지금에 이르고 있다.
+JEI 재능TV는 2008년 9월부터 포켓몬코리아와 계약을 맺어 포켓몬스터 AG와 DP를 방영하였다.(\~2011년 1월 5일) 하지만, 5기 오프닝과 엔딩에서 4:3 레터박스를 사용하지 않은 점과 "Pokemon"을 "Pocketmon"으로 표기한 데 있어 시청자의 심한 항의를 받았다. 결국 포켓몬코리아는 재JEI 재능TV와 계약을 갑자기 파기해서 [투니버스](../Page/투니버스.md "wikilink")와 계약을 맺었으며, 결국 JEI 재능TV는 2011년 4월부터 방영 예정 이었던 [포켓몬스터 베스트위시와](../Page/포켓몬스터_베스트위시.md "wikilink") 같은해 6월 방영예정이었던 13기 극장판인 환영의 패자 조르아크의 방영이 무산되었다. 이후 [2012년](../Page/2012년.md "wikilink") [12월 17일부터](../Page/12월_17일.md "wikilink") 포켓몬스터 베스트위시를 방송했다. 현재는 [포켓몬스터 XY라는](https://ko.wikipedia.org/wiki/포켓몬스터_XY "wikilink") 새로운 프로그램이 방영되어 지금에 이르고 있다.
 
 ## 같이 보기
 
@@ -249,7 +248,7 @@
 
 ## 외부 링크
 
-  - [JEI 재능TV](http://www.jei-tv.com) - 공식 웹사이트
+  - [JEI 재능TV](https://web.archive.org/web/20090119183925/http://jei-tv.com/) - 공식 웹사이트
 
 [\*](https://ko.wikipedia.org/wiki/분류:재능TV "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [두산수퍼네트워크](https://ko.wikipedia.org/wiki/분류:두산의_이전_자회사 "wikilink") [두산수퍼네트워크](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [두산수퍼네트워크](https://ko.wikipedia.org/wiki/분류:1998년_폐지된_텔레비전_방송국과_채널 "wikilink") [JN23TV](https://ko.wikipedia.org/wiki/분류:1998년_설립된_텔레비전_방송국과_채널 "wikilink") [JN23TV](https://ko.wikipedia.org/wiki/분류:2000년_폐지된_텔레비전_방송국과_채널 "wikilink") [JEI스스로방송](https://ko.wikipedia.org/wiki/분류:2001년_설립된_텔레비전_방송국과_채널 "wikilink") [JEI스스로방송](https://ko.wikipedia.org/wiki/분류:2004년_폐지된_텔레비전_방송국과_채널 "wikilink") [JEI재능방송](https://ko.wikipedia.org/wiki/분류:2004년_설립된_텔레비전_방송국과_채널 "wikilink") [JEI재능방송](https://ko.wikipedia.org/wiki/분류:2007년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:2007년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2007년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:텔레비전 어린이 방송](https://ko.wikipedia.org/wiki/분류:텔레비전_어린이_방송 "wikilink")
 

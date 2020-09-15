@@ -2734,12 +2734,9 @@
 
 ## 각주
 
-## 참고 자료
-
-  - [K리그 공식 웹사이트 - 선수개인기록](https://web.archive.org/web/20130927085245/http://www.kleague.com/kr/sub.asp?avan=1008120000)
-
 ## 외부 링크
 
+  - [K리그 공식 웹사이트 - 선수개인기록](https://web.archive.org/web/20130927085245/http://www.kleague.com/kr/sub.asp?avan=1008120000)
   - [FC 서울 공식 웹사이트](http://www.fcseoul.com/)
 
 [명단4](https://ko.wikipedia.org/wiki/분류:FC_서울 "wikilink") [FC_서울의_축구_선수](https://ko.wikipedia.org/wiki/분류:FC_서울의_축구_선수 "wikilink") [선수](https://ko.wikipedia.org/wiki/분류:대한민국의_구단별_축구_선수_목록 "wikilink")

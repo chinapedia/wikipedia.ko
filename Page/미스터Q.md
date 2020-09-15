@@ -33,7 +33,7 @@
   - [이진아](../Page/이진아_\(배우\).md "wikilink")
   - [이기열](../Page/이기열.md "wikilink")
   - [김명국](../Page/김명국_\(배우\).md "wikilink")
-  - [김성령](../Page/김성령.md "wikilink")
+  - 조성범
   - [최용민](../Page/최용민.md "wikilink")
   - [홍순창](../Page/홍순창.md "wikilink")
   - [문회원](../Page/문회원.md "wikilink")
@@ -47,6 +47,8 @@
   - [민경조](../Page/민경조.md "wikilink")
   - [김희정](../Page/김희정_\(1970년\).md "wikilink")
   - 김지은
+  - [정욱](../Page/정욱_\(1973년\).md "wikilink")
+  - [원기준](../Page/원기준.md "wikilink")
   - [박형재](https://ko.wikipedia.org/wiki/박형재 "wikilink")
   - [권도경](../Page/권도경.md "wikilink")
   - [윤기원](../Page/윤기원_\(배우\).md "wikilink")

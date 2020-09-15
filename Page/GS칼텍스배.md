@@ -44,9 +44,10 @@
 | 19 | [2014년](../Page/2014년.md "wikilink") | [김지석](../Page/김지석_\(바둑_기사\).md "wikilink")                    | 3-0 | [최철한](../Page/최철한.md "wikilink")                    |
 | 20 | [2015년](../Page/2015년.md "wikilink") | [목진석](../Page/목진석.md "wikilink")                              | 3-1 | [최철한](../Page/최철한.md "wikilink")                    |
 | 21 | [2016년](../Page/2016년.md "wikilink") | [이동훈](https://ko.wikipedia.org/wiki/이동훈_\(바둑_기사\) "wikilink") | 3-0 | [윤찬희](https://ko.wikipedia.org/wiki/윤찬희 "wikilink") |
-| 21 | [2017년](../Page/2017년.md "wikilink") | [안국현](https://ko.wikipedia.org/wiki/안국현 "wikilink")           | 3-2 | [김지석](../Page/김지석_\(바둑_기사\).md "wikilink")          |
-| 22 | [2018년](../Page/2018년.md "wikilink") | [신진서](../Page/신진서.md "wikilink")                              | 3-2 | [이세돌](../Page/이세돌.md "wikilink")                    |
-| 23 | [2019년](../Page/2019년.md "wikilink") | [신진서](../Page/신진서.md "wikilink")                              | 3-0 | [김지석](../Page/김지석_\(바둑_기사\).md "wikilink")          |
+| 22 | [2017년](../Page/2017년.md "wikilink") | [안국현](https://ko.wikipedia.org/wiki/안국현 "wikilink")           | 3-2 | [김지석](../Page/김지석_\(바둑_기사\).md "wikilink")          |
+| 23 | [2018년](../Page/2018년.md "wikilink") | [신진서](../Page/신진서.md "wikilink")                              | 3-2 | [이세돌](../Page/이세돌.md "wikilink")                    |
+| 24 | [2019년](../Page/2019년.md "wikilink") | [신진서](../Page/신진서.md "wikilink")                              | 3-0 | [김지석](../Page/김지석_\(바둑_기사\).md "wikilink")          |
+| 25 | [2020년](../Page/2020년.md "wikilink") | [신진서](../Page/신진서.md "wikilink")                              | 3-0 | [김지석](../Page/김지석_\(바둑_기사\).md "wikilink")          |
 |    |                                      |                                                               |     |                                                     |
 
 [분류:대한민국의 바둑 기전](https://ko.wikipedia.org/wiki/분류:대한민국의_바둑_기전 "wikilink") [분류:GS칼텍스](https://ko.wikipedia.org/wiki/분류:GS칼텍스 "wikilink")

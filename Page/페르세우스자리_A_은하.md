@@ -36,7 +36,7 @@ NGC 1275의 중심에는 태양보다 3억 4,000만 배 무거운 [초대질량 
 
   - Gabany, R. Jay. [cosmotography.com](http://www.cosmotography.com/images/ngc1275.html) – An image made with a 20" telescope, which displays the unusual gas filaments
 
-[분류:특이은하](https://ko.wikipedia.org/wiki/분류:특이은하 "wikilink") [분류:페르세우스자리](https://ko.wikipedia.org/wiki/분류:페르세우스자리 "wikilink") [분류:NGC 천체](https://ko.wikipedia.org/wiki/분류:NGC_천체 "wikilink") [분류:세이퍼트 은하](https://ko.wikipedia.org/wiki/분류:세이퍼트_은하 "wikilink") [분류:페르세우스자리 은하단](https://ko.wikipedia.org/wiki/분류:페르세우스자리_은하단 "wikilink") [분류:콜드웰 천체](https://ko.wikipedia.org/wiki/분류:콜드웰_천체 "wikilink") [분류:PGC 천체](https://ko.wikipedia.org/wiki/분류:PGC_천체 "wikilink") [분류:UGC 천체](https://ko.wikipedia.org/wiki/분류:UGC_천체 "wikilink")
+[분류:특이은하](https://ko.wikipedia.org/wiki/분류:특이은하 "wikilink") [분류:페르세우스자리](https://ko.wikipedia.org/wiki/분류:페르세우스자리 "wikilink") [분류:NGC 천체](https://ko.wikipedia.org/wiki/분류:NGC_천체 "wikilink") [분류:세이퍼트 은하](https://ko.wikipedia.org/wiki/분류:세이퍼트_은하 "wikilink") [분류:페르세우스자리 은하단](https://ko.wikipedia.org/wiki/분류:페르세우스자리_은하단 "wikilink") [분류:콜드웰 천체](https://ko.wikipedia.org/wiki/분류:콜드웰_천체 "wikilink") [분류:PGC 천체](https://ko.wikipedia.org/wiki/분류:PGC_천체 "wikilink") [분류:UGC 천체](https://ko.wikipedia.org/wiki/분류:UGC_천체 "wikilink") [분류:상호작용은하](https://ko.wikipedia.org/wiki/분류:상호작용은하 "wikilink")
 
 1.
 2.

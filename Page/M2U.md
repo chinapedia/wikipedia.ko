@@ -159,7 +159,7 @@ Airwave
 
 ## 외부 링크
 
-  - [M2U Studio](http://m2ustudio.com/)
+  - [M2U Studio](https://web.archive.org/web/20100209052453/http://m2ustudio.com/)
 
   -
   - [M2U Soundcloud](http://soundcloud.com/m2ustudio/)

@@ -54,12 +54,12 @@
 </table>
 <h3 id="솔로">솔로</h3>
 <ul>
-<li><a href="../Page/허영지.md" title="wikilink">허영지</a> (과거 <a href="../Page/카라_(음악_그룹).md" title="wikilink">카라</a> 출신)</li>
-<li><a href="../Page/손동표.md" title="wikilink">손동표</a> (과거 <a href="https://ko.wikipedia.org/wiki/엑스원" title="wikilink">엑스원</a> 출신)</li>
+<li><a href="../Page/허영지.md" title="wikilink">허영지</a></li>
+<li><a href="../Page/손동표.md" title="wikilink">손동표</a></li>
 </ul>
 <h3 id="연기자">연기자</h3>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/이현주_(가수)" title="wikilink">이현주</a> (과거 <a href="../Page/에이프릴_(음악_그룹).md" title="wikilink">에이프릴</a>, <a href="../Page/유니티_(음악_그룹).md" title="wikilink">유니티</a> 출신)</li>
+<li><a href="https://ko.wikipedia.org/wiki/이현주_(가수)" title="wikilink">이현주</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -72,7 +72,8 @@
   - 송재원
   - 박시영
   - 이준혁
-  -
+  - 손동표
+
 ## 과거 소속 연예인
 
 <table>
@@ -82,7 +83,7 @@
 <ul>
 <li><a href="https://ko.wikipedia.org/wiki/잼_(대한민국의_음악_그룹)" title="wikilink">ZAM</a></li>
 <li><a href="../Page/젝스키스.md" title="wikilink">젝스키스</a></li>
-<li><a href="../Page/핑클.md" title="wikilink">핑클</a></li>
+<li><a href="../Page/핑클.md" title="wikilink">핑클</a>[5]</li>
 <li><a href="https://ko.wikipedia.org/wiki/클릭비" title="wikilink">클릭비</a></li>
 <li><a href="../Page/SS501.md" title="wikilink">SS501</a></li>
 <li><a href="../Page/카라_(음악_그룹).md" title="wikilink">카라</a></li>
@@ -97,7 +98,7 @@
 <li><a href="https://ko.wikipedia.org/wiki/샤인_(듀오)" title="wikilink">Shyne</a>(샤인)</li>
 <li><a href="https://ko.wikipedia.org/wiki/선하" title="wikilink">선하</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/A&#39;st1" title="wikilink">A'st1</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/스타하우스_엔터테인먼트" title="wikilink">유혜인</a> (<a href="../Page/퓨리티.md" title="wikilink">퓨리티</a> 전 멤버), 현 <a href="https://ko.wikipedia.org/wiki/스타하우스_엔터테인먼트" title="wikilink">스타하우스 엔터테인먼트</a> 소속 <a href="../Page/배우.md" title="wikilink">배우</a></li>
+<li><a href="../Page/유혜인.md" title="wikilink">유혜인</a> (<a href="../Page/퓨리티.md" title="wikilink">퓨리티</a> 전 멤버), 현 <a href="https://ko.wikipedia.org/wiki/높은_엔터테인먼트" title="wikilink">높은 엔터테인먼트</a> 소속 <a href="../Page/배우.md" title="wikilink">배우</a></li>
 <li>전재은 (<a href="../Page/퓨리티.md" title="wikilink">퓨리티</a> 전 멤버)</li>
 <li><a href="https://ko.wikipedia.org/wiki/에이젝스_(음악_그룹)" title="wikilink">에이젝스</a></li>
 <li><a href="../Page/캐스퍼_(대한민국의_래퍼).md" title="wikilink">캐스퍼</a></li>
@@ -106,10 +107,10 @@
 </ul>
 <h3 id="연기자_등">연기자 등</h3>
 <ul>
-<li><a href="https://ko.wikipedia.org/wiki/오현경" title="wikilink">오현경</a>[5]</li>
-<li><a href="https://ko.wikipedia.org/wiki/박소현" title="wikilink">박소현</a>[6]</li>
-<li><a href="../Page/이승연.md" title="wikilink">이승연</a>[7]</li>
-<li><a href="../Page/이본.md" title="wikilink">이본</a>[8]</li>
+<li><a href="../Page/오현경_(1970년).md" title="wikilink">오현경</a>[6]</li>
+<li><a href="../Page/박소현_(배우).md" title="wikilink">박소현</a>[7]</li>
+<li><a href="../Page/이승연.md" title="wikilink">이승연</a>[8]</li>
+<li><a href="../Page/이본.md" title="wikilink">이본</a>[9]</li>
 <li><a href="../Page/최할리.md" title="wikilink">최할리</a></li>
 <li><a href="../Page/최배영.md" title="wikilink">최배영</a></li>
 <li>송찬익</li>
@@ -125,7 +126,7 @@
   - [도로시](../Page/도로시_\(유튜버\).md "wikilink") (유튜버)
   - [박시현](https://ko.wikipedia.org/wiki/박시현_\(가수\) "wikilink") (전 5인조 걸그룹 [스피카](../Page/스피카_\(음악_그룹\).md "wikilink") 멤버)
   - [서지수](../Page/서지수_\(가수\).md "wikilink") (현 8인조 걸그룹 [러블리즈](../Page/러블리즈.md "wikilink") 멤버)
-  - [소원](../Page/소원_\(가수\).md "wikilink") (현 6인조 걸그룹 [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버)\[9\]
+  - [소원](../Page/소원_\(가수\).md "wikilink") (현 6인조 걸그룹 [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 멤버)\[10\]
   - [손담비](../Page/손담비.md "wikilink") (가수, 배우)
   - [손유지](https://ko.wikipedia.org/wiki/손유지 "wikilink") (전 5인조 걸그룹 [애플비](https://ko.wikipedia.org/wiki/애플비 "wikilink") (Apple.B) 멤버, 현 3인조 걸그룹 [써드아이](../Page/써드아이.md "wikilink") (3YE) 멤버, [베이비 카라](https://ko.wikipedia.org/wiki/베이비_카라 "wikilink") 참가자, [아이돌 리부팅 프로젝트 더 유닛](../Page/아이돌_리부팅_프로젝트_더_유닛.md "wikilink") 참가자)
   - 故 안소진 ([베이비 카라](https://ko.wikipedia.org/wiki/베이비_카라 "wikilink") 참가자, [2015년](../Page/2015년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") 사망)
@@ -202,8 +203,9 @@
 2.
 3.
 4.
-5.
+5.  멤버 중 이효리는 소원과 더불어 이 회사 출신 연예인 중 가장 큰 성공을 거두었다.
 6.
 7.
 8.
-9.  이 회사 출신 연예인 중 가장 큰 성공을 거두었다.
+9.
+10. 이효리와 더불어 이 회사 출신 연예인 중 가장 큰 성공을 거두었다.

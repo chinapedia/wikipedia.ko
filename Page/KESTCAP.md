@@ -22,7 +22,7 @@
 
 ## 참고 자료
 
-  - 디지털 타임스[1](http://www.dt.co.kr/contents.html?article_no=2008071602011557630003)
+  - 디지털 타임스[1](https://web.archive.org/web/20160304202404/http://www.dt.co.kr/contents.html?article_no=2008071602011557630003)
   - 메디컬 투데이[2](http://www.mdtoday.co.kr/mdtoday/index.html?no=59722)
   - ETnews[3](http://www.etnews.co.kr/news/detail.html?id=200807150177)
 

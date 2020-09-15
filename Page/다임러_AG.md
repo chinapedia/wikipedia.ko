@@ -25,5 +25,6 @@
       - [디트로이트 디젤](https://ko.wikipedia.org/wiki/디트로이트_디젤 "wikilink")(Detroit Diesel)
       - [토마스 빌트 버스](../Page/토마스_빌트_버스.md "wikilink")(Thomas Built Buses)
       - [웨스턴 스타 트럭](../Page/웨스턴_스타_트럭.md "wikilink")(Western Star Trucks)
+      - [미쓰비시후소트럭 버스](../Page/미쓰비시후소트럭_버스.md "wikilink")(Mitsubishi Fuso[(en)](https://ko.wikipedia.org/wiki/:en:Fuso_\(company\) "wikilink"))
 
 [분류:1926년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1926년_설립된_기업 "wikilink") [분류:독일의 자동차 제조 기업](https://ko.wikipedia.org/wiki/분류:독일의_자동차_제조_기업 "wikilink") [분류:다임러 그룹](https://ko.wikipedia.org/wiki/분류:다임러_그룹 "wikilink") [분류:독일의 다국적 기업](https://ko.wikipedia.org/wiki/분류:독일의_다국적_기업 "wikilink") [분류:독일의 브랜드](https://ko.wikipedia.org/wiki/분류:독일의_브랜드 "wikilink")

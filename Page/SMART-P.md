@@ -53,7 +53,7 @@
 
 <references/>
 
-[분류:원자로](https://ko.wikipedia.org/wiki/분류:원자로 "wikilink") [분류:대한민국의 과학과 기술](https://ko.wikipedia.org/wiki/분류:대한민국의_과학과_기술 "wikilink") [분류:경수로](https://ko.wikipedia.org/wiki/분류:경수로 "wikilink") [분류:대한민국의 원자력](https://ko.wikipedia.org/wiki/분류:대한민국의_원자력 "wikilink")
+[분류:대한민국의 원자력](https://ko.wikipedia.org/wiki/분류:대한민국의_원자력 "wikilink") [분류:경수로](https://ko.wikipedia.org/wiki/분류:경수로 "wikilink")
 
 1.  반면에, [바라쿠다급 잠수함](../Page/바라쿠다급_잠수함.md "wikilink"), [샤를르드골 항공모함](https://ko.wikipedia.org/wiki/샤를르드골_항공모함 "wikilink"), [트리옹팡급 잠수함에](https://ko.wikipedia.org/wiki/트리옹팡급_잠수함 "wikilink") 사용되는 프랑스의 [K15 원자로는](https://ko.wikipedia.org/wiki/K15_원자로 "wikilink") 열출력이 150MWt이다.
 2.  ['일체형 원자로 개발사업' 좌초 위기](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=011&aid=0000202101)《서울경제신문》

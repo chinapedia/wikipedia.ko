@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [E편한세상](https://ko.wikipedia.org/wiki/E편한세상).
 
 
-**e편한세상**은 [대림산업](../Page/대림산업.md "wikilink")에서 만든 아파트 전문 브랜드이다. 계열사인 삼호와 [고려개발](../Page/고려개발.md "wikilink")도 지난 2001년 11월 대림과 브랜드 사용 계약을 맺은 뒤 같은 브랜드로 주택사업을 하고 있다.\[1\]
+**e편한세상**은 [대림산업](../Page/대림산업.md "wikilink")에서 만든 아파트 전문 브랜드이다. 계열사인 [대림건설](../Page/대림건설.md "wikilink")도 지난 2001년 11월 대림과 브랜드 사용 계약을 맺은 뒤 같은 브랜드로 주택사업을 하고 있다.\[1\]
 
 ## BI
 
@@ -70,17 +70,14 @@ BI에서 주황색 땅콩모양은 구름을 형상화 한다. e편한세상이 
 ## 같이 보기
 
   - [대림산업](../Page/대림산업.md "wikilink")
-  - [고려개발](../Page/고려개발.md "wikilink")
-  - [삼호개발](https://ko.wikipedia.org/wiki/삼호개발 "wikilink")
-  - [대림건설](https://ko.wikipedia.org/wiki/대림건설 "wikilink") ()
+  - [대림건설](../Page/대림건설.md "wikilink")
 
 ## 각주
 
 ## 외부 링크
 
   - [대림산업 e편한세상 홈페이지](http://www.daelim-apt.co.kr/)
-  - [고려개발 e편한세상 홈페이지](http://www.kdc-apt.co.kr/)
-  - [삼호 e편한세상 홈페이지](http://www.samhoapt21.co.kr/)
+  - [대림건설 e편한세상 홈페이지](http://www.samhoapt21.co.kr/)
 
 [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink") [분류:대한민국의 아파트 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_아파트_브랜드 "wikilink") [분류:대림그룹](https://ko.wikipedia.org/wiki/분류:대림그룹 "wikilink")
 

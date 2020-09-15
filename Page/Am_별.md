@@ -23,7 +23,7 @@
 
 [분류:항성의 형태](https://ko.wikipedia.org/wiki/분류:항성의_형태 "wikilink") [분류:특이별](https://ko.wikipedia.org/wiki/분류:특이별 "wikilink")
 
-1.  [Am star](http://www.daviddarling.info/encyclopedia/A/Am_star.html), *The Internet Encyclopedia of Science*, David Darling. Accessed on line August 14, 2008.
+1.  [Am star](http://www.daviddarling.info/encyclopedia/A/Am_star.html) , *The Internet Encyclopedia of Science*, David Darling. Accessed on line August 14, 2008.
 2.
 3.
 4.  Names and apparent visual magnitudes taken from [SIMBAD](https://ko.wikipedia.org/wiki/SIMBAD "wikilink"), unless otherwise noted.

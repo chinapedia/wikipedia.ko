@@ -14,4 +14,4 @@
   - [KDE룩스 아이스WM 꼴](https://web.archive.org/web/20040826225210/http://www.kde-look.org/index.php?xcontentmode=18) - 아이스WM에 달 수 있는 여러가지 꼴들
   - [프레시미트 아이스WM 꼴](http://themes.freshmeat.net/browse/925/) - 아이스WM에 달 수 있는 여러가지 꼴들
 
-[분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:1997년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1997년_소프트웨어 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink")
+[분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:1997년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1997년_소프트웨어 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink") [분류:자유 데스크톱 환경](https://ko.wikipedia.org/wiki/분류:자유_데스크톱_환경 "wikilink")

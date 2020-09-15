@@ -39,7 +39,7 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:BMW_E39_front_20081125.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:BMW_E39_rear_20081125.jpg "wikilink")
 
-[1995년](../Page/1995년.md "wikilink")에 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이 출시되었고, 이듬해인 [1996년](../Page/1996년.md "wikilink")에 [투어링이](../Page/스테이션_왜건.md "wikilink") 출시되었다. 5 시리즈 중 가장 성공적이었다는 평가와 전형적인 [BMW](../Page/BMW.md "wikilink")의 스타일을 완성했다는 평가를 받았다. 정통적인 세단의 구조를 반영하면서 높고 짧은 길이의 데크를 가지고 있어서 스포티한 느낌에 고급스러운 느낌까지 갖췄다. 3세대까지 라디에이터 그릴과 후드가 따로 존재했지만, 4세대부터 일체형으로 바뀌었다. 직렬 6기통 2,494cc 가솔린 엔진과 직렬 6기통 2,926cc 디젤 엔진도 추가되어 엔진 라인업이 다양해졌다. [대한민국](../Page/대한민국.md "wikilink")에는 [1996년](../Page/1996년.md "wikilink")에 처음으로 정식 수입을 시작하였으며, [2004년](../Page/2004년.md "wikilink")까지 오랜 기간동안 판매되었다. [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")은 [2003년 6월에](../Page/2003년_6월.md "wikilink") 공식 생산 종료되었으며, [투어링은](../Page/스테이션_왜건.md "wikilink") [2004년 4월까지](../Page/2004년_4월.md "wikilink") 생산되었다. [X5(E53)가](https://ko.wikipedia.org/wiki/BMW_X5#1세대\(E53\) "wikilink") E39 플랫폼을 이용해 설계되었다.
+[1995년](../Page/1995년.md "wikilink")에 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이 출시되었고, 이듬해인 [1996년](../Page/1996년.md "wikilink")에 [투어링이](../Page/스테이션_왜건.md "wikilink") 출시되었다. 5 시리즈 중 가장 성공적이었다는 평가와 전형적인 [BMW](../Page/BMW.md "wikilink")의 스타일을 완성했다는 평가를 받았다. 정통적인 세단의 구조를 반영하면서 높고 짧은 길이의 데크를 가지고 있어서 스포티한 느낌에 고급스러운 느낌까지 갖췄다. 3세대까지 라디에이터 그릴과 후드가 따로 존재했지만, 4세대부터 일체형으로 바뀌었다. 직렬 6기통 2,494cc 가솔린 엔진과 직렬 6기통 2,926cc 디젤 엔진도 추가되어 엔진 라인업이 다양해졌다. [대한민국](../Page/대한민국.md "wikilink")에는 [1996년](../Page/1996년.md "wikilink")에 처음으로 정식 수입을 시작하였으며, [2004년](../Page/2004년.md "wikilink")까지 오랜 기간동안 판매되었다. [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")은 [2003년 6월에](../Page/2003년_6월.md "wikilink") 공식 생산 종료되었으며, [투어링은](../Page/스테이션_왜건.md "wikilink") [2004년 4월까지](../Page/2004년_4월.md "wikilink") 생산되었다. BMW의 첫 SUV인 [X5(E53)가](https://ko.wikipedia.org/wiki/BMW_X5#1세대\(E53\) "wikilink") E39 플랫폼을 이용해 설계되었다.
 
 파일:BMW E39 front 20081216.jpg|BMW 5 시리즈 세단(후기형) 정측면 파일:BMW E39 rear 20081216.jpg|BMW 5 시리즈 세단(후기형) 후측면 파일:BMW E39 Touring front 20081125.jpg|BMW 5 시리즈 투어링(전기형) 정측면 파일:BMW E39 Touring rear 20081125.jpg|BMW 5 시리즈 투어링(전기형) 후측면 파일:BMW E39 Touring front 20090204.jpg|BMW 5 시리즈 투어링(후기형) 정측면 파일:BMW E39 Touring rear 20090204.jpg|BMW 5 시리즈 투어링(후기형) 후측면
 
@@ -70,7 +70,11 @@
 [`right`](https://ko.wikipedia.org/wiki/파일:2018_BMW_520d_xDrive_M_Sport_Automatic_2.0_Front.jpg "wikilink")
 [`right`](https://ko.wikipedia.org/wiki/파일:2018_BMW_520d_xDrive_M_Sport_Automatic_2.0_Rear.jpg "wikilink")
 
-[2017년](../Page/2017년.md "wikilink")에 [북미 국제 오토쇼를](../Page/북미_국제_오토쇼.md "wikilink") 통해 공개되었다. 플랫폼은 [7 시리즈와](../Page/BMW_7_시리즈.md "wikilink") 공용한다. 제스처 컨트롤, 리모컨 컨트롤 파킹 기능이 추가되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [M](https://ko.wikipedia.org/wiki/M "wikilink") 스포츠패키지만 장착되어 들어오다, 연식변경으로 럭셔리 라인이 추가되었다.
+[2016년 11월에](https://ko.wikipedia.org/wiki/2016년_11월 "wikilink") 먼저 공개되었고, [2017년](../Page/2017년.md "wikilink")에 [북미 국제 오토쇼를](../Page/북미_국제_오토쇼.md "wikilink") 통해 공개되었다. 플랫폼은 [7 시리즈와](../Page/BMW_7_시리즈.md "wikilink") 공용한다. 제스처 컨트롤, 리모컨 컨트롤 파킹 기능이 추가되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 530i, 520d, 530d [M](https://ko.wikipedia.org/wiki/M "wikilink") 스포츠패키지만 장착되어 들어오다, 연식변경으로 520i, M550d와 럭셔리 라인이 추가되었다. [2020년 5월에](https://ko.wikipedia.org/wiki/2020년_5월 "wikilink") 한국 BMW 드라이빙 센터에서 세계 최초로 페이스리프트가 공개되었다. 헤드램프가 슬림하면서 얇게 변경되고, 테일램프는 디테일이 바뀌었다. 520d는 마일드 하이브리드가 적용되어 523d로 바뀌었고, 환경 규제로 인해 고성능 디젤 M550d가 단종되었다.
+
+## 8세대(H20/H21/H22)
+
+[2025년](../Page/2025년.md "wikilink")에 출시 예정이다.
 
 ## 경쟁 차량
 
@@ -83,7 +87,7 @@
   - [렉서스](../Page/렉서스.md "wikilink") - [ES](../Page/렉서스_ES.md "wikilink"), [GS](../Page/렉서스_GS.md "wikilink")
   - [캐딜락](../Page/캐딜락.md "wikilink") - [CTS](../Page/캐딜락_CTS.md "wikilink"), [XTS](https://ko.wikipedia.org/wiki/캐딜락_XTS "wikilink")
   - [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink") - [Q70](https://ko.wikipedia.org/wiki/인피니티_Q70 "wikilink")
-  - [볼보](../Page/볼보.md "wikilink") - [S90](https://ko.wikipedia.org/wiki/볼보_S90 "wikilink")
+  - [볼보](../Page/볼보.md "wikilink") - [S90](../Page/볼보_S90.md "wikilink")
 
 ## 외부 링크
 

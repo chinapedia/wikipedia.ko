@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EISA](https://ko.wikipedia.org/wiki/EISA).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:EISA_Bus.jpg "wikilink") **EISA**(Extended Industry Standard Architecture)는 PC/AT 호환기 용에 개발한 32비트 [컴퓨터 버스](../Page/버스_\(컴퓨팅\).md "wikilink") 방식이다. EISA는 [IBM](../Page/IBM.md "wikilink")의 IBM PS/2에 탑재한 MCA에 대항할 뿐만 아니라, PC/AT 호환기 제조회사 9개 사(Gang of Nine: AST Research, [컴팩](../Page/컴팩.md "wikilink"), Epson, [HP](https://ko.wikipedia.org/wiki/휴렛_팻커드 "wikilink"), NEC, Olivetti, Tandy, WYSE, Zenith Data Systems)에 의해서 1988년 말에 제정되었다. 규격서는 유료로 배포되었지만, 규격 그 자체는 공개 도메인 되어 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:EISA_Bus.jpg "wikilink") **EISA**(Extended Industry Standard Architecture)는 PC/AT 호환기 용에 개발한 32비트 [컴퓨터 버스](../Page/버스_\(컴퓨팅\).md "wikilink") 방식이다. EISA는 [IBM](../Page/IBM.md "wikilink")의 IBM PS/2에 탑재한 MCA에 대항할 뿐만 아니라, PC/AT 호환기 제조회사 9개 사(Gang of Nine: AST Research, [컴팩](../Page/컴팩.md "wikilink"), Epson, [HP](../Page/휴렛_팩커드.md "wikilink"), NEC, Olivetti, Tandy, WYSE, Zenith Data Systems)에 의해서 1988년 말에 제정되었다. 규격서는 유료로 배포되었지만, 규격 그 자체는 공개 도메인 되어 있다.
 
 고도한 버스 조정 기능, 리소스 자동 설정, 4GB까지의 메모리 어드레스 서포트, 이론으로 최대 33Mbytes/Sec의 대역 등, [MCA](https://ko.wikipedia.org/wiki/MCA "wikilink")에 거의 필적하는 사양을 가지고 있지만, [ISA](https://ko.wikipedia.org/wiki/ISA "wikilink")과의 호환성을 유지하기 위해서 노이즈 대책이 필요한 그라운드 신호선의 레이아웃이 최적화 되지 못하고, 고속화에 제약이 걸렸기 때문에 절대적인 성능에는 MCA에 뒤떨어진다.
 

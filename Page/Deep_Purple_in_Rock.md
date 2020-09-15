@@ -86,4 +86,6 @@
   - [이언 페이스](https://ko.wikipedia.org/wiki/이언_페이스 "wikilink") : [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
   - [닉 심퍼](https://ko.wikipedia.org/wiki/닉_심퍼 "wikilink") : [베이스 기타](../Page/베이스_기타.md "wikilink") (트랙 2만)
 
-[분류:하드 록 음반](https://ko.wikipedia.org/wiki/분류:하드_록_음반 "wikilink") [분류:헤비 메탈 음반](https://ko.wikipedia.org/wiki/분류:헤비_메탈_음반 "wikilink") [분류:딥 퍼플의 음반](https://ko.wikipedia.org/wiki/분류:딥_퍼플의_음반 "wikilink") [분류:영국의 음반](https://ko.wikipedia.org/wiki/분류:영국의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:1970년 음반](https://ko.wikipedia.org/wiki/분류:1970년_음반 "wikilink")
+## 외부 링크
+
+[분류:1970년 음반](https://ko.wikipedia.org/wiki/분류:1970년_음반 "wikilink") [분류:딥 퍼플의 음반](https://ko.wikipedia.org/wiki/분류:딥_퍼플의_음반 "wikilink") [분류:워너 브라더스 레코드 음반](https://ko.wikipedia.org/wiki/분류:워너_브라더스_레코드_음반 "wikilink")

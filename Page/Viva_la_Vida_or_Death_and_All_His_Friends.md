@@ -3,7 +3,7 @@
 
 《**Viva la Vida or Death and All His Friends**》는 [영국](../Page/영국.md "wikilink")의 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink") 밴드 [콜드플레이](../Page/콜드플레이.md "wikilink")가 2008년 6월 11일에 발매한 네 번째 스튜디오 음반이다. 음반 제목은 스페인어이며, 해석하면 "인생 만세(long live life)"라는 뜻이다. 서정적으로, 이 음반은 사랑, 삶, 죽음, 전쟁에 대한 언급들을 담고 있다.
 
-음반이 발매되자 비평가들에겐 좋은 평가를 얻고 상업적으로도 성공을 거뒀다. 홍보를 위해 5월에는 〈Violet〉, 〈Viva la Vida〉를, 11월에는 〈Lovers in Japan〉, 〈Lost\!〉 총 4개의 싱글을 발매했으며, 〈[Viva la Vida](../Page/Viva_la_Vida.md "wikilink")〉는 밴드 처음으로 미국과 영국에서 모두 1위를 차지했다. 2009년 9월 14일엔 5번째 싱글이자 이 음반의 마지막 싱글로 〈Strawberry Swing〉가 발매됐다. 이 음반은 음악 비평가들에게 긍정적인 평가를 받았고, 종합 비평 사이트인 메타크리틱에서 72점을 얻었다\[1\]. 또 2009년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink")에서 최우수 록 음반상을 받았으며 2008년 가장 많이 팔린 음반이기도 하다\[2\]. 2009년 7월에는 전 세계 판매량이 800만 장을 넘었고\[3\] 가장 많이 다운로드 된 음반이 됐다\[4\]. 2008년 11월 25일엔 이 음반에 [EP](../Page/익스텐디드_플레이.md "wikilink") 《[Prospekt's March](https://ko.wikipedia.org/wiki/Prospekt's_March "wikilink")》가 포함된 버전으로 재발매됐다.
+음반이 발매되자 비평가들에겐 좋은 평가를 얻고 상업적으로도 성공을 거뒀다. 홍보를 위해 5월에는 〈Violet〉, 〈Viva la Vida〉를, 11월에는 〈Lovers in Japan〉, 〈Lost\!〉 총 4개의 싱글을 발매했으며, 〈[Viva la Vida](../Page/Viva_la_Vida.md "wikilink")〉는 밴드 처음으로 미국과 영국에서 모두 1위를 차지했다. 2009년 9월 14일엔 5번째 싱글이자 이 음반의 마지막 싱글로 〈Strawberry Swing〉가 발매됐다. 이 음반은 음악 비평가들에게 긍정적인 평가를 받았고, 종합 비평 사이트인 메타크리틱에서 72점을 얻었다\[1\]. 또 2009년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink")에서 최우수 록 음반상을 받았으며 2008년 가장 많이 팔린 음반이기도 하다\[2\]. 2009년 7월에는 전 세계 판매량이 800만 장을 넘었고\[3\] 가장 많이 다운로드 된 음반이 됐다\[4\]. 2008년 11월 25일엔 이 음반에 [EP](../Page/익스텐디드_플레이.md "wikilink") 《[Prospekt's March](../Page/Prospekt's_March.md "wikilink")》가 포함된 버전으로 재발매됐다.
 
 ## 개요
 

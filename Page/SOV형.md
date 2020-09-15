@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SOV형](https://ko.wikipedia.org/wiki/SOV형).
 
 
-**SOV형**이란 언어유형학에서 [주어](https://ko.wikipedia.org/wiki/주어 "wikilink")(Subject)-[목적어](../Page/목적어.md "wikilink")(Object)-[동사](../Page/동사_\(품사\).md "wikilink")(Verb)의 순서로 구성된 [언어](../Page/언어.md "wikilink")들을 가리키는 표현이다. [한국어](../Page/한국어.md "wikilink"), [일본어](../Page/일본어.md "wikilink"), [터키어](../Page/터키어.md "wikilink") 등이 속하며 교착어들이 많다. SOV 언어들은 SVO 어순의 언어들에 비해 문장의 통사적 안정도가 낮다. 그래서 영어, 중국어 등(영어와 중국어는 한국어, 일본어, 터키어와 다르게 고립어이다.)과 같은 고정 어순을 나타내는 언어(고립어)보다 자유 어순을 나타내는 언어가(교착어 등) 많다. 따라서 주어와 목적어가 위상으로 구별되는 SVO 언어들과 다르게 SOV 언어들은 형태소에 의해 주어와 목적어를 구별하는 것이 일반적인데, 그 유형은 대체로 네 가지로 분류할 수 있다.(아래에서 표지를 갖는다는 말은 격조사가 붙는다는 전문용어이다.) SOV언어들은 SVO의 고립어들과 다르게 문장성분구조 즉S와 O와 V의 순서를 자유자재로 바꿀 수 있다.
+**SOV형**이란 언어유형학에서 [주어](https://ko.wikipedia.org/wiki/주어 "wikilink")(Subject)-[목적어](../Page/목적어.md "wikilink")(Object)-[동사](../Page/동사_\(품사\).md "wikilink")(Verb)의 순서로 구성된 [언어](../Page/언어.md "wikilink")들을 가리키는 표현이다. [한국어](../Page/한국어.md "wikilink"), [일본어](../Page/일본어.md "wikilink"), [터키어](../Page/터키어.md "wikilink") 등이 속하며 교착어들이 많다. SOV 언어들은 [SVO 어순의 언어들에](../Page/SVO형.md "wikilink") 비해 문장의 통사적 안정도가 낮다. 그래서 영어, 중국어 등(영어와 중국어는 한국어, 일본어, 터키어와 다르게 고립어이다.)과 같은 고정 어순을 나타내는 언어(고립어)보다 자유 어순을 나타내는 언어가(교착어 등) 많다. 따라서 주어와 목적어가 위상으로 구별되는 SVO 언어들과 다르게 SOV 언어들은 형태소에 의해 주어와 목적어를 구별하는 것이 일반적인데, 그 유형은 대체로 네 가지로 분류할 수 있다.(아래에서 표지를 갖는다는 말은 격조사가 붙는다는 전문용어이다.) SOV언어들은 SVO의 고립어들과 다르게 문장성분구조 즉S와 O와 V의 순서를 자유자재로 바꿀 수 있다.
 
   - 주어와 목적어 모두 표지를 갖는 경우: [한국어](../Page/한국어.md "wikilink"), [일본어](../Page/일본어.md "wikilink") (※사실상 어순이 불필요함. 심지어 주격•목적격 조사(원칙이지만)도 불필요함.)
   - 주어는 영표지이고 목적어가 표지를 갖는 경우: 나머지 [알타이어족](https://ko.wikipedia.org/wiki/알타이어족 "wikilink")의 언어들
@@ -31,5 +31,7 @@
   - [OVS형](https://ko.wikipedia.org/wiki/OVS형 "wikilink")
 
 [SOV형_언어](https://ko.wikipedia.org/wiki/분류:SOV형_언어 "wikilink")
+
+<references />
 
 1.  Whereas Claudi (1993) argues for SVO on the basis of existing SVO \> SOV grammaticalization paths, Gensler (1997) points out that the notion of 'basic word order' is problematic as it excludes structures with, for example, auxiliaries.

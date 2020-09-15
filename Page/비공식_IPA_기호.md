@@ -58,7 +58,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td></td>
+<td><p>t의 윗부분과 s의 아랫부분의 합자</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무성_치경_파찰음" title="wikilink">무성 치경 파찰음</a></p></td>
 <td></td>
 <td><p>1976년 폐기됨</p></td>

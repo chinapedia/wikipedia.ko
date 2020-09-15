@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [APG III 분류 체계](https://ko.wikipedia.org/wiki/APG_III_분류_체계).
 
 
-**APG III 분류 체계**는 [속씨식물](../Page/속씨식물.md "wikilink")을 분류하는 현대 [식물 분류 체계이다](https://ko.wikipedia.org/wiki/식물_분류_체계_목록 "wikilink"). 2009년에 [속씨식물 계통연구 그룹](https://ko.wikipedia.org/wiki/속씨식물_계통연구_그룹 "wikilink")(APG, Angiosperm Phylogeny Group)이 출판했다.\[1\]\[2\]\[3\] 2009년 10월, 린네 학회의 회원들이 APG III 분류 체계와 호환되고 부합하는, 모든 육상식물들의 공식적인 계통학적 분류를 제안했다.\[4\] 2016년 발표된 [APG IV 분류 체계로](https://ko.wikipedia.org/wiki/APG_IV_분류_체계 "wikilink") 대체하였다.
+**APG III 분류 체계**는 [속씨식물](../Page/속씨식물.md "wikilink")을 분류하는 현대 [식물 분류 체계이다](https://ko.wikipedia.org/wiki/식물_분류_체계_목록 "wikilink"). 2009년에 [속씨식물 계통연구 그룹](https://ko.wikipedia.org/wiki/속씨식물_계통연구_그룹 "wikilink")(APG, Angiosperm Phylogeny Group)이 출판했다.\[1\]\[2\]\[3\] 2009년 10월, 린네 학회의 회원들이 APG III 분류 체계와 호환되고 부합하는, 모든 육상식물들의 공식적인 계통학적 분류를 제안했다.\[4\] 2016년 발표된 [APG IV 분류 체계로](../Page/APG_IV_분류_체계.md "wikilink") 대체하였다.
 
 아래에 나열된 분류는 목(目)들과 목으로 분류되지 않은 과(科)들이다. 분류에서 같은 레벨의 목들은 알파벳순으로 배치되었다. 목들이 이전 버전의 APG 분류 체계([APG 분류 체계](../Page/APG_분류_체계.md "wikilink"), [APG II 분류 체계](../Page/APG_II_분류_체계.md "wikilink"))에서 포함하고 있는 과들과 다를 수 있으므로 주의해야 한다.
 
@@ -175,7 +175,7 @@
 
   - [APG 분류 체계](../Page/APG_분류_체계.md "wikilink") (1998년)
   - [APG II 분류 체계](../Page/APG_II_분류_체계.md "wikilink") (2003년)
-  - [APG IV 분류 체계](https://ko.wikipedia.org/wiki/APG_IV_분류_체계 "wikilink") (2016년)
+  - [APG IV 분류 체계](../Page/APG_IV_분류_체계.md "wikilink") (2016년)
   - [속씨식물 분류 체계 비교](../Page/속씨식물_분류_체계_비교.md "wikilink")
 
 ## 외부 링크

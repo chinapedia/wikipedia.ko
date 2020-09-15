@@ -43,7 +43,7 @@ LXDE 프로젝트는 2006년 대만 프로그래머인 Hong Jen Yee가 시작했
 
   - [LXDE 소스포지 프로젝트 페이지](http://sourceforge.net/projects/lxde/)
 
-[분류:데스크톱 환경](https://ko.wikipedia.org/wiki/분류:데스크톱_환경 "wikilink") [분류:GNU 프로젝트 소프트웨어](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트_소프트웨어 "wikilink") [분류:그놈](https://ko.wikipedia.org/wiki/분류:그놈 "wikilink") [분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:2006년 소프트웨어](https://ko.wikipedia.org/wiki/분류:2006년_소프트웨어 "wikilink")
+[분류:자유 데스크톱 환경](https://ko.wikipedia.org/wiki/분류:자유_데스크톱_환경 "wikilink") [분류:GNU 프로젝트 소프트웨어](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트_소프트웨어 "wikilink") [분류:그놈](https://ko.wikipedia.org/wiki/분류:그놈 "wikilink") [분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:2006년 소프트웨어](https://ko.wikipedia.org/wiki/분류:2006년_소프트웨어 "wikilink")
 
 1.
 2.

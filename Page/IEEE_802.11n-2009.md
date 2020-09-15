@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IEEE 802.11n-2009](https://ko.wikipedia.org/wiki/IEEE_802.11n-2009).
 
 
-**IEEE 802.11n-2009** 또는 **IEEE 802.11n**은 기존 표준인 [IEEE 802.11a와](https://ko.wikipedia.org/wiki/IEEE_802.11a "wikilink") [IEEE 802.11g의](https://ko.wikipedia.org/wiki/IEEE_802.11g "wikilink") 대역폭을 향상시키기 위한 [IEEE 802.11](../Page/IEEE_802.11.md "wikilink") 무선 네트워킹 표준의 개정판이다. IEEE 802.11n는 40MHz의 채널 대역을 사용함으로써 최대 데이터 전송률을 54Mbps에서 600Mbps로 상당히 향상시켰다. 와이파이 연합(Wi-Fi Alliance)은 2007년부터 IEEE 802.11n의 물리적 규격에 대한 드래프트(draft, 초안) 2.0을 기반으로 드래프트-N 제품들과의 상호 연동성에 대한 인증 업무를 수행하고 있다. 연합은 드래프트 2.0 이후에 추가된 성능 향상에 대한 호환성 테스트를 업그레이드하고 있다. 또한 모든 드래프트-N을 바탕으로 인증을 거친 제품들이 최종 표준을 마친 제품들과도 여전히 호환 가능하다고 발표하였다. 2009년 9년 16일, [IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink")는 IEEE 802.11n 표준을 최종적으로 비준하였으며, 드래프트 2.0을 대부분 수용하였다.\[1\]
+**IEEE 802.11n-2009** 또는 **IEEE 802.11n**은 기존 표준인 [IEEE 802.11a와](https://ko.wikipedia.org/wiki/IEEE_802.11a "wikilink") [IEEE 802.11g의](https://ko.wikipedia.org/wiki/IEEE_802.11g "wikilink") 대역폭을 향상시키기 위한 [IEEE 802.11](../Page/IEEE_802.11.md "wikilink") 무선 네트워킹 표준의 개정판이다. IEEE 802.11n는 40MHz의 채널 대역을 사용함으로써 최대 데이터 전송률을 54Mbps에서 600Mbps로 상당히 향상시켰다. 와이파이 연합(Wi-Fi Alliance)은 2007년부터 IEEE 802.11n의 물리적 규격에 대한 드래프트(draft, 초안) 2.0을 기반으로 드래프트-N 제품들과의 상호 연동성에 대한 인증 업무를 수행하고 있다. 연합은 드래프트 2.0 이후에 추가된 성능 향상에 대한 호환성 테스트를 업그레이드하고 있다. 또한 모든 드래프트-N을 바탕으로 인증을 거친 제품들이 최종 표준을 마친 제품들과도 여전히 호환 가능하다고 발표하였다. 2009년 9월 16일, [IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink")는 IEEE 802.11n 표준을 최종적으로 비준하였으며, 드래프트 2.0을 대부분 수용하였다.\[1\]
 
 ## 개요
 

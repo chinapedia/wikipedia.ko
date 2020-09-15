@@ -9,6 +9,6 @@
 
 <references/>
 
-[분류:팝 발라드](https://ko.wikipedia.org/wiki/분류:팝_발라드 "wikilink") [분류:대한민국의 팝 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink")
+[분류:팝 발라드](https://ko.wikipedia.org/wiki/분류:팝_발라드 "wikilink") [분류:K-pop 노래](https://ko.wikipedia.org/wiki/분류:K-pop_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink")
 
 1.

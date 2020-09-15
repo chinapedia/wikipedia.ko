@@ -9,29 +9,29 @@
 
 ## 등장 인물
 
-  - [오현경](../Page/오현경_\(1936년\).md "wikilink") : 오장수 역 - 만년과장 - 부장대리 - 이사 진급
+  - [오현경](../Page/오현경_\(1936년\).md "wikilink") : (손권) 이장수역 - 만년과장 - 부장대리 - 이사 진급
   - [서인석](../Page/서인석_\(배우\).md "wikilink") : 유비 역 - 대리 - 과장
   - [장용](../Page/장용_\(배우\).md "wikilink") : 조조 역 - 대리
-  - [김희라](../Page/김희라.md "wikilink") : 장비 역 - 대리
-  - [정종준](../Page/정종준.md "wikilink") : 관우 역 - 대리
+  - [김희라](../Page/김희라.md "wikilink") : 장비 역 - 대리_ 지방발령(하차)
+  - [정종준](../Page/정종준.md "wikilink") : 관우 역 - 대리_(도중하차)
   - [김성찬](../Page/김성찬_\(배우\).md "wikilink") : 여포 역 - 대리
-  - [박용식](../Page/박용식.md "wikilink") : 자재부장 역
+  - [박용식](../Page/박용식.md "wikilink") : 연구위원_자재부장 역
   - [박웅](../Page/박웅.md "wikilink") : 상무 역
   - [김진해](../Page/김진해.md "wikilink") : 사장 역
-  - [송기윤](../Page/송기윤.md "wikilink") : 오자룡 역
-  - [노경주](../Page/노경주.md "wikilink") : 현미경 역
-  - [이규석](../Page/이규석_\(가수\).md "wikilink")
+  - [송기윤](../Page/송기윤.md "wikilink") : 조운 역 오자룡_사원
+  - [노경주](../Page/노경주.md "wikilink") : 현미경 역_사원
+  - [이규석](../Page/이규석_\(가수\).md "wikilink") : 황충 역 _신입사원(단기출연)
   - [이미경](https://ko.wikipedia.org/wiki/이미경_\(1960년\) "wikilink") : 전 간호사 역 - 의무실 근무
-  - 김교순 : 이사 역
-  - [이미영](../Page/이미영_\(배우\).md "wikilink") : 조 대리 - 과장 역
+  - 김교순 : 자재이사 역
+  - [이미영](../Page/이미영_\(배우\).md "wikilink") : 조아영 역_과장
   - [홍리나](../Page/홍리나.md "wikilink") : 홍세나 역
   - [선우재덕](../Page/선우재덕.md "wikilink") : 우재용 역
   - [박진성](https://ko.wikipedia.org/wiki/박진성 "wikilink") : 장필도 역
   - [윤다훈](../Page/윤다훈.md "wikilink") : 김진상 역
   - [정소녀](https://ko.wikipedia.org/wiki/정소녀 "wikilink")
   - [김응석](../Page/김응석.md "wikilink")
-  - [한인수](../Page/한인수.md "wikilink")
-  - [정재순](../Page/정재순.md "wikilink") : 오장수 아내 역
+  - [한인수](../Page/한인수.md "wikilink") : 진산 기업_임원 역 (조연)
+  - [정재순](../Page/정재순.md "wikilink") : (손권) 이장수 아내 역
   - [전유성](../Page/전유성.md "wikilink")
   - [엄용수](https://ko.wikipedia.org/wiki/엄용수 "wikilink") : 자동차 세일즈맨 (1회)
   - [신구](../Page/신구_\(배우\).md "wikilink") : 관우 아버지 역 (1회)
@@ -47,26 +47,48 @@
   - [온영삼](../Page/온영삼.md "wikilink")
   - [김성원](../Page/김성원_\(배우\).md "wikilink")
   - [유명순](../Page/유명순.md "wikilink")
-  - [김성겸](../Page/김성겸.md "wikilink")
-  - [양영준](../Page/양영준.md "wikilink")
+  - [이진수](../Page/이진수_\(배우\).md "wikilink")
+  - [김성겸](../Page/김성겸.md "wikilink") 토끼농장 사업주 역_(조연)
+  - [양영준](../Page/양영준.md "wikilink") 진선기업 _임원 역(조연)
   - [이진숙](https://ko.wikipedia.org/wiki/이진숙 "wikilink")
   - [박현숙](../Page/박현숙_\(배우\).md "wikilink")
   - [장정희](../Page/장정희.md "wikilink")
   - [김을동](../Page/김을동.md "wikilink") : 자룡 어머니 역 (148회)
   - [이원발](../Page/이원발.md "wikilink")
-  - [이대로](../Page/이대로.md "wikilink")
+  - [이대로](../Page/이대로.md "wikilink") : 감사반장 _역 이장수 동창 역(조연) 156회
   - [오승룡](../Page/오승룡.md "wikilink")
-  - [이신재](../Page/이신재.md "wikilink")
+  - [이신재](../Page/이신재.md "wikilink") : 진산기업 상무 역 (조연)
   - [맹호림](../Page/맹호림.md "wikilink")
   - [윤덕용](../Page/윤덕용.md "wikilink")
   - [홍여진](../Page/홍여진.md "wikilink")
   - [변영훈](../Page/변영훈.md "wikilink")
   - [선우용녀](https://ko.wikipedia.org/wiki/선우용녀 "wikilink")
-  - [양택조](../Page/양택조.md "wikilink")
+  - [양택조](../Page/양택조.md "wikilink") 진산기업 _임원 역 (조연)
   - [박정수](../Page/박정수_\(배우\).md "wikilink")
   - [임병기](../Page/임병기.md "wikilink")
   - [김지선](https://ko.wikipedia.org/wiki/김지선 "wikilink")
-  - [정동남](../Page/정동남.md "wikilink")
+  - [김복희](../Page/김복희_\(배우\).md "wikilink")
+  - [정동남](../Page/정동남.md "wikilink") 월미도 횟집 호객 꾼 역 (조연)
+  - [이한위](../Page/이한위.md "wikilink")
+  - [김지영](https://ko.wikipedia.org/wiki/김지영 "wikilink")
+  - [김미경](https://ko.wikipedia.org/wiki/김미경 "wikilink")
+  - [배도환](../Page/배도환.md "wikilink")
+  - [문미봉](../Page/문미봉.md "wikilink")
+  - [박주아](../Page/박주아_\(배우\).md "wikilink")
+  - [홍륜의](../Page/홍륜의.md "wikilink")
+  - [김덕현](../Page/김덕현_\(배우\).md "wikilink")
+  - [조재훈](https://ko.wikipedia.org/wiki/조재훈 "wikilink")
+  - [장미자](../Page/장미자.md "wikilink")
+  - [전원주](../Page/전원주.md "wikilink")
+  - [이주실](../Page/이주실.md "wikilink") : 아영 고모 역 (222회)
+  - [전도연](../Page/전도연.md "wikilink")
+  - [김정난](../Page/김정난.md "wikilink")
+  - [서영애](https://ko.wikipedia.org/wiki/서영애 "wikilink")
+  - [이효정](../Page/이효정_\(1961년\).md "wikilink")
+  - [원석연](../Page/원석연_\(배우\).md "wikilink")
+  - [여운계](../Page/여운계.md "wikilink")
+  - [노현희](../Page/노현희.md "wikilink")
+  - 차두옥
   - 김혜란
   - 이정원
   - 홍영미
@@ -86,28 +108,27 @@
   - 윤관용
   - 김해권
   - 서상익
-  - 황범식
+  - [황범식](../Page/황범식.md "wikilink")
   - 최현기
   - 김희진
   - 안승미
   - 이춘식
   - 박해상
   - 안해숙
-  - 김형일
+  - [김형일](../Page/김형일_\(배우\).md "wikilink")
   - 김지예
   - 박칠용
   - 이정웅
   - 김동완
-  - 오욱철
+  - [오욱철](../Page/오욱철.md "wikilink")
   - 최윤정
-  - 이진수
   - 황민
   - 김동완
   - 이혜정
   - 이현실
   - 김종구
   - 임영식
-  - 신동훈
+  - [신동훈](../Page/신동훈_\(1953년\).md "wikilink")
   - 이두섭
   - 한혜경
   - 곽정희
@@ -115,8 +136,8 @@
   - 김주미
   - 정복임
   - 송중원
-  - 이일웅
-  - 권경하
+  - [이일웅](../Page/이일웅.md "wikilink")
+  - [권경하](https://ko.wikipedia.org/wiki/권경하 "wikilink")
   - 김보미
   - 양재성
   - 원수현
@@ -144,7 +165,7 @@
   - 여영옥
   - 이윤정
   - 오미자
-  - 한정국
+  - [한정국](../Page/한정국_\(배우\).md "wikilink")
   - 김영은
   - 남춘
   - 홍해
@@ -161,9 +182,95 @@
   - 김성근
   - 조준형
   - 이영재
+  - 이종만
+  - 민지환
+  - 안광진
+  - 이용진
+  - 반문섭
+  - 김상훈
+  - 이한나
+  - 이계영
+  - 한연수
+  - 함석훈
+  - 이기철
+  - 유선회
+  - 박시영
+  - 박정웅
+  - 김정연
+  - 류용진
+  - [김원희](../Page/김원희.md "wikilink") : 고복남 역
+  - 유루나
+  - 박영숙
+  - 전경희
+  - 안효진
+  - 윤영아
+  - 김대환
+  - 홍영자
+  - 이선용
+  - 김정균
+  - 손호균
+  - 권오균
+  - 오진수
+  - 김봉근
+  - 김소유
+  - 박은영
+  - 오수민
+  - 김수미라
+  - 김하림
+  - 양재원
+  - 최연수
+  - 김시원
+  - 최정원
+  - 안형식
+  - 홍성숙
+  - 박삼순
+  - 우수진
+  - 손영춘
+  - 문홍식
+  - 이상원
+  - 한연석
+  - 김기복
+  - 이종길
+  - 김수정
+  - 이강수
+  - 정해창
+  - 이문환
+  - 신용규
+  - 최윤주
+  - 이영
+  - 이항수
+  - 이지형
+  - 주수정
+  - 김일란
+  - 곽경환
+  - 추석양
+  - 문윤선
+  - 여운국
+  - 구한승
+  - 박현정
+  - 조은덕
+  - 서영진
+  - 강영아
+  - 고경숙
+  - 황소영
+  - 정현기
+  - 백경미
+  - 박지혜
+  - 김준혁
+  - 김창봉
+  - 곽근아
+  - 박인서
+  - 신소영
+  - 이향아
+  - 권미혜
+  - 김예령
+  - 고광우
+  - 방숙례
+  - 장영주
+  - 권혁호
   - 임옥경 : 사무직 직원 역
   - [안문숙](../Page/안문숙.md "wikilink") : 사무직 직원 역
-  - [이주경](../Page/이주경.md "wikilink") : 사무직 직원 역
+  - [이주경](../Page/이주경.md "wikilink") : 한유경 역
   - 전유진 : 사무직 직원 역
 
 ## 에피소드 목록

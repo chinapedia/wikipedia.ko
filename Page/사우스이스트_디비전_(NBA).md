@@ -155,6 +155,11 @@
 <td><p><a href="../Page/올랜도_매직.md" title="wikilink">올랜도 매직</a></p></td>
 <td><p>bgcolor= FBCEB1 | 42승 40패 .512</p></td>
 </tr>
+<tr class="even">
+<td><p>2020년</p></td>
+<td><p><a href="../Page/마이애미_히트.md" title="wikilink">마이애미 히트</a></p></td>
+<td><p>44승 29패 .603</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -169,7 +174,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>9회</p></td>
+<td><p>10회</p></td>
 <td><p><a href="../Page/마이애미_히트.md" title="wikilink">마이애미 히트</a></p></td>
 </tr>
 <tr class="even">

@@ -105,16 +105,16 @@
 | 작가상    | 권미경                                                           |
 |        |                                                               |
 
-| 부문     | 수상자                                                                                  |
-| ------ | ------------------------------------------------------------------------------------ |
-| 남자 연기상 | [장두석](../Page/장두석.md "wikilink")                                                     |
-| 여자 연기상 | [최용순](https://ko.wikipedia.org/wiki/최용순 "wikilink")                                  |
-| 남자 신인상 | [서인석](https://ko.wikipedia.org/wiki/서인석 "wikilink")                                  |
-| 여자 신인상 | [김현영](https://ko.wikipedia.org/wiki/김현영_\(희극인\) "wikilink")                          |
-| 작품상    | [한바탕 웃음으로](https://ko.wikipedia.org/wiki/한바탕_웃음으로_\(텔레비전_프로그램\) "wikilink") - 봉숭아 학당 |
-| 특별상    | [배삼룡](../Page/배삼룡.md "wikilink")                                                     |
-| 인기상    | [오재미](../Page/오재미.md "wikilink")                                                     |
-|        |                                                                                      |
+| 부문     | 수상자                                                               |
+| ------ | ----------------------------------------------------------------- |
+| 남자 연기상 | [장두석](../Page/장두석.md "wikilink")                                  |
+| 여자 연기상 | [최용순](https://ko.wikipedia.org/wiki/최용순 "wikilink")               |
+| 남자 신인상 | [서인석](https://ko.wikipedia.org/wiki/서인석 "wikilink")               |
+| 여자 신인상 | [김현영](https://ko.wikipedia.org/wiki/김현영_\(희극인\) "wikilink")       |
+| 작품상    | [한바탕 웃음으로](../Page/한바탕_웃음으로_\(텔레비전_프로그램\).md "wikilink") - 봉숭아 학당 |
+| 특별상    | [배삼룡](../Page/배삼룡.md "wikilink")                                  |
+| 인기상    | [오재미](../Page/오재미.md "wikilink")                                  |
+|        |                                                                   |
 
 | 부문     | 수상자                                                               |
 | ------ | ----------------------------------------------------------------- |
@@ -459,7 +459,7 @@
 <td><p>17회 <a href="../Page/2019년.md" title="wikilink">2019년</a></p></td>
 <td><p><a href="../Page/도경완.md" title="wikilink">도경완</a><br />
 <a href="../Page/김태우_(1981년).md" title="wikilink">김태우</a></p></td>
-<td><p><a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>, <a href="https://ko.wikipedia.org/wiki/신상출시_편스토랑" title="wikilink">신상출시 편스토랑</a>, <a href="../Page/노래가_좋아.md" title="wikilink">노래가 좋아</a><br />
+<td><p><a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>, <a href="../Page/신상출시_편스토랑.md" title="wikilink">신상출시 편스토랑</a>, <a href="../Page/노래가_좋아.md" title="wikilink">노래가 좋아</a><br />
 <a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡 - 전설을 노래하다</a></p></td>
 </tr>
 <tr class="odd">
@@ -547,7 +547,7 @@
 <td><p>10회 <a href="../Page/2011년.md" title="wikilink">2011년</a></p></td>
 <td><p><a href="../Page/박은영_(아나운서).md" title="wikilink">박은영</a><br />
 <a href="../Page/양준혁.md" title="wikilink">양준혁</a></p></td>
-<td><p><a href="../Page/이희경_(희극인).md" title="wikilink">이희경</a><br />
+<td><p><a href="https://ko.wikipedia.org/wiki/이희경" title="wikilink">이희경</a><br />
 <a href="../Page/정태호_(희극인).md" title="wikilink">정태호</a></p></td>
 </tr>
 <tr class="odd">
@@ -690,7 +690,7 @@
 </tr>
 <tr class="even">
 <td><p>17회 <a href="../Page/2019년.md" title="wikilink">2019년</a></p></td>
-<td><p>백순영 (<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>, <a href="https://ko.wikipedia.org/wiki/신상출시_편스토랑" title="wikilink">신상출시 편스토랑</a>)</p></td>
+<td><p>백순영 (<a href="../Page/슈퍼맨이_돌아왔다.md" title="wikilink">슈퍼맨이 돌아왔다</a>, <a href="../Page/신상출시_편스토랑.md" title="wikilink">신상출시 편스토랑</a>)</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1020,7 +1020,7 @@
 <tr class="even">
 <td><p>17회</p></td>
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a></p></td>
-<td><p><a href="../Page/이경규.md" title="wikilink">이경규</a>, <a href="../Page/이영자.md" title="wikilink">이영자</a> (<a href="https://ko.wikipedia.org/wiki/신상출시_편스토랑" title="wikilink">신상출시 편스토랑</a>)<br />
+<td><p><a href="../Page/이경규.md" title="wikilink">이경규</a>, <a href="../Page/이영자.md" title="wikilink">이영자</a> (<a href="../Page/신상출시_편스토랑.md" title="wikilink">신상출시 편스토랑</a>)<br />
 <a href="../Page/최보민_(가수).md" title="wikilink">최보민</a>, <a href="../Page/신예은.md" title="wikilink">신예은</a> (<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>)</p></td>
 </tr>
 <tr class="odd">
@@ -1250,7 +1250,7 @@
 <tr class="even">
 <td><p>16회</p></td>
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a></p></td>
-<td><p><a href="../Page/양파_(가수).md" title="wikilink">양파</a> (<a href="../Page/음악정원.md" title="wikilink">음악정원</a>), <a href="../Page/이수현_(1999년).md" title="wikilink">수현 (악동뮤지션)</a> (<a href="../Page/볼륨을_높여요.md" title="wikilink">볼륨을 높여요</a>) (올해의 신인상)<br />
+<td><p><a href="../Page/양파_(가수).md" title="wikilink">양파</a> (<a href="https://ko.wikipedia.org/wiki/양파의_음악정원" title="wikilink">음악정원</a>), <a href="../Page/이수현_(1999년).md" title="wikilink">수현 (악동뮤지션)</a> (<a href="../Page/볼륨을_높여요.md" title="wikilink">볼륨을 높여요</a>) (올해의 신인상)<br />
 <a href="../Page/장항준.md" title="wikilink">장항준</a>, <a href="../Page/김진수_(배우).md" title="wikilink">김진수</a> (<a href="../Page/미스터_라디오.md" title="wikilink">미스터 라디오</a>) (올해의 엔터테인먼트상)<br />
 <a href="../Page/박은영_(아나운서).md" title="wikilink">박은영</a> (<a href="../Page/FM대행진.md" title="wikilink">FM대행진</a>) (올해의 DJ상)</p></td>
 </tr>
@@ -1272,12 +1272,12 @@
 
   - 15회 ([2016년](../Page/2016년.md "wikilink")) 부터 시상하기 시작하였음.
 
-| 회차  | 연도                                   | 출연자(수상작)                                                        |
-| --- | ------------------------------------ | --------------------------------------------------------------- |
-| 15회 | [2016년](../Page/2016년.md "wikilink") | [마음의 소리](../Page/마음의_소리_\(시트콤\).md "wikilink")                  |
-| 16회 | [2018년](../Page/2018년.md "wikilink") | [대화의 희열](../Page/대화의_희열.md "wikilink")                          |
-| 17회 | [2019년](../Page/2019년.md "wikilink") | [신상출시 편스토랑](https://ko.wikipedia.org/wiki/신상출시_편스토랑 "wikilink") |
-|     |                                      |                                                                 |
+| 회차  | 연도                                   | 출연자(수상작)                                       |
+| --- | ------------------------------------ | ---------------------------------------------- |
+| 15회 | [2016년](../Page/2016년.md "wikilink") | [마음의 소리](../Page/마음의_소리_\(시트콤\).md "wikilink") |
+| 16회 | [2018년](../Page/2018년.md "wikilink") | [대화의 희열](../Page/대화의_희열.md "wikilink")         |
+| 17회 | [2019년](../Page/2019년.md "wikilink") | [신상출시 편스토랑](../Page/신상출시_편스토랑.md "wikilink")   |
+|     |                                      |                                                |
 
 #### 핫이슈 예능인상
 
@@ -1306,7 +1306,7 @@
 <td><p><a href="../Page/백호_(가수).md" title="wikilink">백호</a> (<a href="https://ko.wikipedia.org/wiki/으라차차_만수로" title="wikilink">으라차차 만수로</a>)<br />
 <a href="../Page/최민환.md" title="wikilink">최민환</a> (<a href="../Page/살림하는_남자들.md" title="wikilink">살림하는 남자들</a>)<br />
 <a href="https://ko.wikipedia.org/wiki/양치승" title="wikilink">양치승</a> (<a href="../Page/사장님_귀는_당나귀_귀.md" title="wikilink">사장님 귀는 당나귀 귀</a>)<br />
-<a href="https://ko.wikipedia.org/wiki/조명섭" title="wikilink">조명섭</a> (<a href="../Page/노래가_좋아.md" title="wikilink">노래가 좋아</a>)</p></td>
+<a href="../Page/조명섭.md" title="wikilink">조명섭</a> (<a href="../Page/노래가_좋아.md" title="wikilink">노래가 좋아</a>)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1535,7 +1535,7 @@
   - [2011년](../Page/2011년.md "wikilink") **연예대상**은 프로그램 멤버 단체가 대상을 수상하였다. (당시 멤버 : [이수근](../Page/이수근_\(희극인\).md "wikilink"), [엄태웅](../Page/엄태웅.md "wikilink"), [김종민](../Page/김종민.md "wikilink"), [은지원](../Page/은지원.md "wikilink"), [이승기](../Page/이승기.md "wikilink"))
   - [2011년](../Page/2011년.md "wikilink") **연예대상** 수상자 선정 시 대상 후보에 없었던 팀에게 대상을 시상하면서 많은 비판을 받았다. 당초 [이경규](../Page/이경규.md "wikilink"), [김병만](../Page/김병만.md "wikilink"), [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink"), [이승기](../Page/이승기.md "wikilink") 등 총 5명의 후보였으며, 이 중 《[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")》에서 화제을 모은 코너인 〈달인〉에서 뜨거운 인기를 얻은 김병만이 유력한 후보였지만 아무도 예상치 못한 《[1박 2일](../Page/1박_2일.md "wikilink")》이 단체로 대상을 수상하면서 급조된 시상이 아니냐는 의혹을 샀다.\[5\]
   - [2018년](../Page/2018년.md "wikilink") **연예대상**은 [2002년](../Page/2002년.md "wikilink") 연예대상 시상식 개최 이후 최초로 여성이 대상을 수상하였다.
-  - [2019년](../Page/2019년.md "wikilink") **연예대상**은 [2011년](../Page/2011년.md "wikilink") 연예대상 시상식에 이어 역대 두번째로 프로그램 멤버 단체가 대상을 수상하였다. (당시 멤버 : [샘 해밍턴](../Page/샘_해밍턴.md "wikilink"), [박주호](../Page/박주호.md "wikilink"), [문희준](../Page/문희준.md "wikilink"), [홍경민](../Page/홍경민.md "wikilink"), [도경완](../Page/도경완.md "wikilink"))\[6\]
+  - [2019년](../Page/2019년.md "wikilink") **연예대상**은 [2011년](../Page/2011년.md "wikilink") 연예대상 시상식에 이어 역대 두번째로 프로그램 멤버 단체가 대상을 수상하였으며 (당시 멤버 : [샘 해밍턴](../Page/샘_해밍턴.md "wikilink"), [박주호](../Page/박주호.md "wikilink"), [문희준](../Page/문희준.md "wikilink"), [홍경민](../Page/홍경민.md "wikilink"), [도경완](../Page/도경완.md "wikilink"))\[6\] 이로 인해 [샘 해밍턴은](../Page/샘_해밍턴.md "wikilink") 방송 3사 최초 [재한 외국인](../Page/외국인.md "wikilink") 연예대상 수상자라는 기록을 쓰게 되었다.
 
 ## 패러디
 

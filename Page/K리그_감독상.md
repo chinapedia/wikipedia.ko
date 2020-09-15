@@ -225,7 +225,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그_챌린지_2015" title="wikilink">2015</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조덕제" title="wikilink">조덕제</a></p></td>
+<td><p><a href="../Page/조덕제_(1965년).md" title="wikilink">조덕제</a></p></td>
 <td><p><a href="../Page/수원_FC.md" title="wikilink">수원 FC</a></p></td>
 </tr>
 <tr class="even">

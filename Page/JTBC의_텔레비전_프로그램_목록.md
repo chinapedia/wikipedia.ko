@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JTBC의 텔레비전 프로그램 목록](https://ko.wikipedia.org/wiki/JTBC의_텔레비전_프로그램_목록).
 
 
-__NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Page/텔레비전.md "wikilink") 프로그램**을 통해 발표된 순서로 나열 및 정리한 것이다.
+__NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Page/텔레비전.md "wikilink") 프로그램**을 제목 순서로 나열 및 정리한 것이다.
 
 ## ㄱ
 
@@ -23,7 +23,7 @@ __NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Pa
 
   - [궁중잔혹사 - 꽃들의 전쟁](https://ko.wikipedia.org/wiki/궁중잔혹사_-_꽃들의_전쟁 "wikilink")   ([2013년](../Page/2013년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [9월 8일](../Page/9월_8일.md "wikilink"))
 
-  - [골든 디스크 시상식](https://ko.wikipedia.org/wiki/골든_디스크_시상식 "wikilink")  ([2012년](../Page/2012년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink")-현재)
+  - [골든 디스크](../Page/골든_디스크.md "wikilink")  ([2012년](../Page/2012년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink")\~현재)
 
   - [귀부인](../Page/귀부인_\(드라마\).md "wikilink")   ([2014년](../Page/2014년.md "wikilink") [1월 13일](../Page/1월_13일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink"))
 
@@ -41,7 +41,7 @@ __NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Pa
 
   - [꽃탕](https://ko.wikipedia.org/wiki/꽃탕 "wikilink")   ([2012년](../Page/2012년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink"))
 
-  - [꽃파당: 조선혼담공작소](../Page/꽃파당:_조선혼담공작소.md "wikilink")   ([2019년](../Page/2019년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ )
+  - [꽃파당: 조선혼담공작소](../Page/꽃파당:_조선혼담공작소.md "wikilink")   ([2019년](../Page/2019년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink"))
 
   - [꿈스타그램](https://ko.wikipedia.org/wiki/꿈스타그램 "wikilink")  ([2017년](../Page/2017년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink"))
 
@@ -113,7 +113,7 @@ __NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Pa
 
   - [라이프](../Page/라이프_\(2018년_드라마\).md "wikilink")   ([2018년](../Page/2018년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink"))
 
-  - [랜선라이프](../Page/랜선라이프.md "wikilink")  ([2018년](../Page/2018년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~[현재](https://ko.wikipedia.org/wiki/현재 "wikilink") )
+  - [랜선라이프](../Page/랜선라이프.md "wikilink")  ([2018년](../Page/2018년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~[2019년](../Page/2019년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink"))
 
   - [러브 어게인](../Page/러브_어게인.md "wikilink")   ([2012년](../Page/2012년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink"))
 
@@ -257,7 +257,7 @@ __NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Pa
 
   - [슈퍼맨을 만나다](https://ko.wikipedia.org/wiki/슈퍼맨을_만나다 "wikilink")   ([2016년](../Page/2016년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink"))
 
-  - [슈퍼밴드](https://ko.wikipedia.org/wiki/슈퍼밴드 "wikilink")   ([2019년](../Page/2019년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") \~ )
+  - [슈퍼밴드](https://ko.wikipedia.org/wiki/슈퍼밴드 "wikilink")   ([2019년](../Page/2019년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") )
 
   - [스케치](../Page/스케치_\(드라마\).md "wikilink")   ([2018년](../Page/2018년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [7월 14일](../Page/7월_14일.md "wikilink"))
 
@@ -351,6 +351,8 @@ __NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Pa
 
   - [이 밥이 나를 살렸다](https://ko.wikipedia.org/wiki/이_밥이_나를_살렸다 "wikilink")   ([2014년](../Page/2014년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink"))
 
+  - [이규연의 스포트라이트](../Page/이규연의_스포트라이트.md "wikilink")(2015년 5월 31일\~)
+
   - [이번 주 아내가 바람을 핍니다](../Page/이번_주_아내가_바람을_핍니다.md "wikilink")   ([2016년](../Page/2016년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink"))
 
   - [이수근 김병만의 상류사회](../Page/이수근_김병만의_상류사회.md "wikilink")   ([2011년](../Page/2011년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink"))
@@ -371,7 +373,9 @@ __NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Pa
 
   - [잡스](https://ko.wikipedia.org/wiki/잡스_\(교양_프로그램\) "wikilink")   ([2017년](../Page/2017년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink"))
 
-  - [장미 없는 꽃집](../Page/장미가_없는_꽃집.md "wikilink")   ([2012년](../Page/2012년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink"))
+  - [장르만 코미디](https://ko.wikipedia.org/wiki/장르만_코미디 "wikilink")   ([2020년](../Page/2020년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") \~)
+
+  - [장미가 없는 꽃집](../Page/장미가_없는_꽃집.md "wikilink")   ([2012년](../Page/2012년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink"))
 
   - [적과의 동침](../Page/적과의_동침_\(텔레비전_프로그램\).md "wikilink")   ([2013년](../Page/2013년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink"))
 
@@ -516,6 +520,8 @@ __NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Pa
   - [힙합의 민족 2](../Page/힙합의_민족.md "wikilink")   ([2016년](../Page/2016년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink"))
 
 ## 숫자 또는 영문
+
+  - [1호가 될 순 없어](https://ko.wikipedia.org/wiki/1호가_될_순_없어 "wikilink")  (2020년 5월 20일\~현재)
 
   - [1%의 정보](https://ko.wikipedia.org/wiki/1%의_정보 "wikilink")   ([2016년](../Page/2016년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink"))
 

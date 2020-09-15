@@ -173,7 +173,7 @@
 ## 외부 링크
 
   - [한국전쟁 당시 군사 지도 기호(ARMY.MIL)](http://www.army.mil/cmh-pg/books/korea/ebb/sym.htm)
-  - [캐나다에서 사용중인 NATO 지도 기호](http://army.ca/wiki/index.php/NATO_Map_Symbols)
+  - [캐나다에서 사용중인 NATO 지도 기호](https://web.archive.org/web/20101002145346/http://www.army.ca/wiki/index.php/NATO_Map_Symbols)
   - [오르텔리움 기호 공장: 온라인 기호 생성기](https://web.archive.org/web/20140714225352/http://www.stackframe.com/SymbolFactory/)
   - [MIL-STD-2525C](http://www.mapsymbs.com/ms2525c.pdf)
 

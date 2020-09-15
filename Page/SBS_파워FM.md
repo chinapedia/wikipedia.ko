@@ -7,13 +7,13 @@
 
 키 스테이션인 SBS를 비롯한, 9개 [지역민방](../Page/지역방송국.md "wikilink") 네트워크를 통해서 전국적으로 일제히 송출한다.
 
-대표 프로그램으로 오후2:00 \~ 오후4:00 시간대 청취율 1위를 보유 중인 [두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink"), 개국 이후 진행자 변동없이 유지되고 있는 [최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink") 등이 있다.
+대표 프로그램으로 오후 2시 \~ 4시 사이 청취율 1위를 보유 중인 《[두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink")》, 개국 이후 진행자 변동없이 유지되고 있는 《[최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink")》 등이 있다.
 
 ## 역사
 
-SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14일이다](../Page/11월_14일.md "wikilink"). 개국 전 3개월간 시험 방송을 하였으며, 시험 방송 기간에는 음악만을 송출하였다. 개국 당시 1년 동안에는 [SBS 인기가요의](../Page/SBS_인기가요.md "wikilink") 전신인 [생방송 TV 가요 20의](../Page/생방송_TV_가요_20.md "wikilink") [TV](../Page/SBS_TV.md "wikilink") 수중계를 하거나, 매주 [일요일](../Page/일요일.md "wikilink")마다 가수들의 콘서트 실황 중계를 한 적이 있었다.
+SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14일이다](../Page/11월_14일.md "wikilink"). 개국 전 3개월간 시험 방송을 하였으며, 시험 방송 기간에는 음악만을 방송하였다. 개국 당시 1년 동안에는 《[SBS 인기가요](../Page/SBS_인기가요.md "wikilink")》의 전신인 《[생방송 TV 가요 20](../Page/생방송_TV_가요_20.md "wikilink")》을 [TV 채널과](../Page/SBS_TV.md "wikilink") 동시에 방송하거나, [일요일](../Page/일요일.md "wikilink")마다 가수들의 콘서트 실황 중계를 한 적이 있었다.
 
-107.7㎒ 송신소는 관악산에 위치해 있는데, 경기 북부 일부 지역은 관악산 전파가 도봉산, 북한산, 수락산에 막혀서 수신이 어려웠다. 그러다가 [2010년](../Page/2010년.md "wikilink") [11월 9일에](../Page/11월_9일.md "wikilink") 동두천 중계소가 개국하면서 매우 안전한 수신이 가능하게 하였다.
+107.7㎒ 송신소는 관악산에 위치해 있는데, 경기도 북부 일부 지역은 관악산 전파가 도봉산, 북한산, 수락산에 막혀서 수신이 어려웠다. 그러다가 [2010년](../Page/2010년.md "wikilink") [11월 9일에](../Page/11월_9일.md "wikilink") 동두천 중계소가 개국하면서 매우 양호한 수신이 가능하게 하였다.
 
 ## 연혁
 
@@ -49,10 +49,11 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
   - [2016년](../Page/2016년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") : [두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink") 방송 10주년.
   - [2016년](../Page/2016년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") : [KNN 파워FM](../Page/KNN_파워FM.md "wikilink") 감악산 중계소 개소(거창권 FM 106.7㎒).
   - [2016년](../Page/2016년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") : SBS 파워FM 개국 20주년, [최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink") 방송 20주년.
+  - [2020년](../Page/2020년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink") : SBS 러브FM 붐붐파워 동시 송출.
 
-## 방송 권역 (SBS 파워FM 수도권 기준)
+## 방송 권역
 
-  - [서울특별시](../Page/서울특별시.md "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 전 지역, [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") 북부\[1\], [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부\[2\], [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영서 일부 지역](https://ko.wikipedia.org/wiki/영서_지방 "wikilink")\[3\]
+  - [서울특별시](../Page/서울특별시.md "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 전 지역, [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink") 북부, [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부, [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영서 일부 지역](https://ko.wikipedia.org/wiki/영서_지방 "wikilink")
 
 ## 방송 송출 시설망
 
@@ -65,19 +66,18 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <th><p>출력</p></th>
 <th><p>호출부호</p></th>
 <th><p>송신소 위치</p></th>
-<th><p>비고</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>SBS 파워FM<br />
+<td><p>SBS<br />
+파워FM<br />
 (수도권)</p></td>
 <td><p>관악산 송신소</p></td>
 <td><p>FM 107.7㎒</p></td>
 <td><p>10kW</p></td>
 <td><p>HLSQ-FM</p></td>
 <td><p>경기 안양시 동안구 비산동 산3-1</p></td>
-<td><p>동일 송신</p></td>
 </tr>
 <tr class="even">
 <td><p>동두천 중계소</p></td>
@@ -86,17 +86,16 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>경기 동두천시 생연동 산43-4</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>KNN 파워FM<br />
+<td><p>KNN<br />
+파워FM<br />
 (부산·경남)</p></td>
 <td><p>황령산 송신소</p></td>
 <td><p>FM 99.9㎒</p></td>
 <td><p>5kW</p></td>
 <td><p>HLDG-FM</p></td>
 <td><p>부산 연제구 연산2동 산181-3</p></td>
-<td><p>SBS 송신</p></td>
 </tr>
 <tr class="even">
 <td><p>불모산 중계소</p></td>
@@ -105,13 +104,11 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>경남 창원시 성산구 천선동 산213-8</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>장군대산 중계소</p></td>
 <td><p>FM 105.5㎒</p></td>
 <td><p>경남 진주시 문산읍 상문리 325-5</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -123,12 +120,10 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>부산 기장군 일광면 삼성리 산41</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>양산타워 중계소</p></td>
 <td><p>경남 양산시 동면 석산리 656-30</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -141,7 +136,6 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>감악산 중계소</p></td>
@@ -150,24 +144,22 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>경남 거창군 신원면 구사리 산12-1</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>TBC 드림FM<br />
+<td><p>TBC<br />
+드림FM<br />
 (대구·경북)</p></td>
 <td><p>팔공산 송신소</p></td>
 <td><p>FM 99.3㎒</p></td>
 <td><p>5kW</p></td>
 <td><p>HLDE-FM</p></td>
 <td><p>경북 영천시 신녕면 치산리 산141-5</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>조항산 중계소</p></td>
 <td><p>FM 99.7㎒</p></td>
 <td><p>1kW</p></td>
 <td><p>경북 포항시 남구 장기면 죽정리 산94-1</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -178,7 +170,6 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>경북 안동시 북후면 신전리 산69</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>와룡산 중계소</p></td>
@@ -187,17 +178,16 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>TJB 대전방송 파워FM<br />
+<td><p>TJB 대전방송<br />
+파워FM<br />
 (대전·세종·충남)</p></td>
 <td><p>식장산 송신소</p></td>
 <td><p>FM 95.7㎒</p></td>
 <td><p>5kW</p></td>
 <td><p>HLDF-FM</p></td>
 <td><p>대전 동구 낭월동 300</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>원효봉 중계소</p></td>
@@ -206,24 +196,22 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>충남 서산시 해미면 산수리 산25-1</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>kbc 광주방송 마이FM<br />
+<td><p>KBC 광주방송<br />
+마이FM<br />
 (광주·전남)</p></td>
 <td><p>무등산 송신소</p></td>
 <td><p>FM 101.1㎒</p></td>
 <td><p>5kW</p></td>
 <td><p>HLDH-FM</p></td>
 <td><p>광주 북구 금곡동 산1-1</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>구봉산 중계소</p></td>
 <td><p>FM 96.7㎒</p></td>
 <td><p>1kW</p></td>
 <td><p>전남 여수시 여서동 산160-3</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -234,7 +222,6 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>전남 광양시 성황동 산228</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>영광 중계소</p></td>
@@ -243,44 +230,42 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>전남 영광군 영광읍 도동리 산3-6 물퇴봉</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>ubc 울산방송 그린FM<br />
+<td><p>UBC 울산방송<br />
+그린FM<br />
 (울산)</p></td>
 <td><p>무룡산 송신소</p></td>
 <td><p>FM 92.3㎒</p></td>
 <td><p>3kW</p></td>
 <td><p>HLDP-FM</p></td>
 <td><p>울산 북구 화봉동 20-1</p></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>JTV 전주방송 매직FM<br />
+<td><p>JTV 전주방송<br />
+매직FM<br />
 (전북)</p></td>
 <td><p>모악산 송신소</p></td>
 <td><p>FM 90.1㎒</p></td>
 <td><p>5kW</p></td>
 <td><p>HLDQ-FM</p></td>
 <td><p>전북 김제시 금산면 금산리 산1</p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>CJB 청주방송 조이FM<br />
+<td><p>CJB 청주방송<br />
+조이FM<br />
 (충북)</p></td>
 <td><p>우암산 송신소</p></td>
 <td><p>FM 101.5㎒</p></td>
 <td><p>3kW</p></td>
 <td><p>HLDR-FM</p></td>
 <td><p>충북 청주시 상당구 수동 산2-4</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>가엽산 중계소</p></td>
 <td><p>FM 97.9㎒</p></td>
 <td><p>500W</p></td>
 <td><p>충북 음성군 음성읍 용산리 산11-4</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -291,24 +276,22 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>충북 제천시 신월동 산39-30</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>G1 강원민방 프레시FM<br />
+<td><p>G1 강원민방<br />
+프레시FM<br />
 (강원)</p></td>
 <td><p>대룡산 송신소</p></td>
 <td><p>FM 105.1㎒</p></td>
 <td><p>3kW</p></td>
 <td><p>HLCG-FM</p></td>
 <td><p>강원 춘천시 동내면 고은리 산1-2</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>괘방산 중계소</p></td>
 <td><p>FM 106.1㎒</p></td>
 <td><p>1kW</p></td>
 <td><p>강원 강릉시 강동면 정동진리 산19-1</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -319,13 +302,11 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>강원 속초시 도문동 산151</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>함백산 중계소</p></td>
 <td><p>FM 99.3㎒</p></td>
 <td><p>강원 태백시 황지동 660</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -337,7 +318,6 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>강원 원주시 소초면 장양리 산76-39</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>태기산 중계소</p></td>
@@ -346,17 +326,16 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>강원 횡성군 둔내면 태기리 산1-5</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>JIBS 제주방송 뉴파워FM<br />
+<td><p>JIBS 제주방송<br />
+뉴파워FM<br />
 (제주)</p></td>
 <td><p>견월악 송신소</p></td>
 <td><p>FM 101.5㎒</p></td>
 <td><p>3kW</p></td>
 <td><p>HLQC-FM</p></td>
 <td><p>제주 제주시 봉개동 산78-1</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>삼매봉 중계소</p></td>
@@ -365,14 +344,12 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 <td><p>제주 서귀포시 서홍동 822-1</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>금악 중계소</p></td>
 <td><p>FM 97.5㎒</p></td>
 <td><p>100W</p></td>
 <td><p>제주 제주시 한림읍 금악리 산1-2</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -387,7 +364,7 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 
 ## 방송 프로그램
 
-*' 2020년 6월 2일 기준\[4\]*'
+*' 2020년 6월 2일 기준\[1\]*'
 
 <table>
 <thead>
@@ -461,16 +438,16 @@ KNN 웰빙라이프)</p></td>
 <tr class="even">
 <td><p>20:00</p></td>
 <td><p><a href="../Page/영스트리트_(라디오_프로그램).md" title="wikilink">이준의 영스트리트</a></p></td>
-<td><p>△ (장원일의 음악본색) [5]</p></td>
+<td><p>△ (장원일의 음악본색) [2]</p></td>
 </tr>
 <tr class="odd">
 <td><p>22:00</p></td>
-<td><p><a href="../Page/배성재의_텐.md" title="wikilink">배성재의 텐</a></p></td>
+<td><p><a href="../Page/배성재의_텐.md" title="wikilink">배성재의 텐</a> (전국방송)</p></td>
 <td><p>O</p></td>
 </tr>
 <tr class="even">
 <td><p>23:00</p></td>
-<td><p><a href="../Page/뮤직하이.md" title="wikilink">우원재의 뮤직하이</a></p></td>
+<td><p><a href="../Page/뮤직하이.md" title="wikilink">딘딘의 뮤직하이</a></p></td>
 <td><p>○ ○</p></td>
 </tr>
 <tr class="odd">
@@ -486,9 +463,9 @@ KNN 웰빙라이프)</p></td>
 </tbody>
 </table>
 
-  - 《[김영철의 파워FM](../Page/파워FM_\(라디오_프로그램\).md "wikilink")》, 《[최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink")》은 동시 네트워크로 일제히 송출된다.
-  - 《[두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink")》도 전국 동시 네트워크로 일제히 송출되지만, [KNN 파워FM](../Page/KNN_파워FM.md "wikilink"), [TBC 드림FM에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 프로야구 중계 시즌 (3월 하순 \~ 9월 중순) 일요일과 공휴일에는 프로야구 중계 관계로 결방된다.
-  - 오전 6시 57분부터 오후 9시 57분까지 57분 교통정보가, 오전 9시 30분, 낮 12시 30분, 오후 2시 30분, 오후 7시 30분에는 [사랑으로 하나되는 세상과](https://ko.wikipedia.org/wiki/사랑으로_하나되는_세상 "wikilink") 오전 6시 30분, 오전 7시 56분, 오전 8시 30분, 오전 10시 30분, 오전 10시 56분, 오전 11시 30분, 오후 1시 30분, 오후 3시 30분, 오후 5시 30분, 오후 6시 30분, 오후 8시 30분, 오후 9시 30분, 오후 10시 30분까지 SBS 생활정보, 우리말 지킴이,사랑으로 하나되는 세상이 컴퓨터 마이크선을 오디오에다 꽂은 채로 송출된다.
+  - 《[김영철의 파워FM](../Page/파워FM_\(라디오_프로그램\).md "wikilink")》, 《[최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink")》은 동시 네트워크로 일제히 방송된다.
+  - 《[두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink")》도 전국 동시 네트워크로 일제히 방송되지만, [KNN 파워FM](../Page/KNN_파워FM.md "wikilink"), [TBC 드림FM에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 프로야구 중계 시즌 (3월 하순 \~ 9월 중순) 일요일과 공휴일에는 프로야구 중계 관계로 편성이 중단된다.
+  - 오전 6시 57분부터 오후 9시 57분까지 57분 교통정보가, 오전 9시 30분, 낮 12시 30분, 오후 2시 30분, 오후 7시 30분에는 [사랑으로 하나되는 세상과](https://ko.wikipedia.org/wiki/사랑으로_하나되는_세상 "wikilink") 오전 6시 30분, 오전 7시 56분, 오전 8시 30분, 오전 10시 30분, 오전 10시 56분, 오전 11시 30분, 오후 1시 30분, 오후 3시 30분, 오후 5시 30분, 오후 6시 30분, 오후 8시 30분, 오후 9시 30분, 오후 10시 30분까지 SBS 생활정보, 우리말 지킴이,사랑으로 하나되는 세상이 방송된다.
 
 ## 특집 프로그램
 
@@ -503,33 +480,20 @@ KNN 웰빙라이프)</p></td>
 ### 정각 시보
 
   - [나래이동통신](https://ko.wikipedia.org/wiki/나래이동통신 "wikilink") 나래텔
-  - [LG텔레콤](../Page/LG유플러스.md "wikilink")
+  - [LG유플러스](../Page/LG유플러스.md "wikilink")
   - [쌍용자동차](../Page/쌍용자동차.md "wikilink")
   - [SK텔레콤](../Page/SK텔레콤.md "wikilink")
   - [SK이노베이션](../Page/SK이노베이션.md "wikilink")
-  - [선진](https://ko.wikipedia.org/wiki/선진 "wikilink") 크린포크
+  - 선진 크린포크
   - [Yes24](https://ko.wikipedia.org/wiki/Yes24 "wikilink")
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")
   - [기아자동차](../Page/기아자동차.md "wikilink")
   - [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")
 
-### 정각 시보(고릴라용)
-
-  - 하나온 비즈마켓
-  - 눔 다이어트
-  - 메리츠화재
-  - [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")중학 프리미엄
-  - 안나올츠 폼클렌징
-  - 돌아온 방탄꼭지
-
 ### 30분 시보
 
   - [ADT캡스](https://ko.wikipedia.org/wiki/ADT캡스 "wikilink")
   - [박문각](../Page/박문각.md "wikilink")
-
-### 30분 시보(고릴라용)
-
-  - 메리츠화재
 
 ## 로고송
 
@@ -626,6 +590,11 @@ KNN 웰빙라이프)</p></td>
   - [송도영](../Page/송도영.md "wikilink") - 사랑의 테마
   - [이국주](../Page/이국주.md "wikilink") - [영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink")
   - [재현](../Page/재현_\(1997년\).md "wikilink"), [쟈니](../Page/쟈니_\(가수\).md "wikilink") - [NCT의 night night\!](../Page/NCT의_night_night!.md "wikilink")
+  - [존박](https://ko.wikipedia.org/wiki/존박 "wikilink") - [뮤직하이](../Page/뮤직하이.md "wikilink")
+
+<!-- end list -->
+
+  - [정소민](../Page/정소민.md "wikilink") - [영스트리트](https://ko.wikipedia.org/wiki/영스트리트 "wikilink")
   - [박선영](../Page/박선영_\(아나운서\).md "wikilink") - [씨네타운](../Page/씨네타운.md "wikilink")
 
 ## 제휴 네트워크
@@ -635,12 +604,12 @@ KNN 웰빙라이프)</p></td>
 | **SBS**                                        | SBS 파워FM   | [서울특별시](../Page/서울특별시.md "wikilink") · [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") · [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") · [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink")([원주시](../Page/원주시.md "wikilink"), [문막읍](../Page/문막읍.md "wikilink") [반계리](https://ko.wikipedia.org/wiki/반계리 "wikilink"))            | [1996년](../Page/1996년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") |
 | [KNN](../Page/KNN.md "wikilink")               | KNN 파워FM   | [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") ・ [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") · [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") · [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [경주시](https://ko.wikipedia.org/wiki/경주시 "wikilink") [감포읍](../Page/감포읍.md "wikilink")                              | [1997년](../Page/1997년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink")     |
 | [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") | TBC 드림FM   | [대구광역시](../Page/대구광역시.md "wikilink") · [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink")                                                                                                                                                                                                                                                        | 1997년 [12월 1일](../Page/12월_1일.md "wikilink")                                  |
-| [광주방송](../Page/광주방송.md "wikilink")             | kbc 마이FM   | [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") · [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink")                                                                                                                                                                                                                                     | [1998년](../Page/1998년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink")     |
+| [광주방송](../Page/광주방송.md "wikilink")             | KBC 마이FM   | [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") · [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink")                                                                                                                                                                                                                                     | [1998년](../Page/1998년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink")     |
 | [대전방송](../Page/대전방송.md "wikilink")             | TJB 파워FM   | [대전광역시](https://ko.wikipedia.org/wiki/대전광역시 "wikilink") · [세종특별자치시](../Page/세종특별자치시.md "wikilink") · [충청남도](https://ko.wikipedia.org/wiki/충청남도 "wikilink")                                                                                                                                                                                          | 1998년 [3월 2일](../Page/3월_2일.md "wikilink")                                    |
 | [전주방송](../Page/전주방송.md "wikilink")             | JTV 매직FM   | [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink")                                                                                                                                                                                                                                                                                               | [2001년](../Page/2001년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink")   |
-| [울산방송](../Page/울산방송.md "wikilink")             | ubc 그린FM   | [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") · [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") · [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 동부 일부 · [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink"), [경주시](https://ko.wikipedia.org/wiki/경주시 "wikilink") 일부 | 2001년 [9월 1일](../Page/9월_1일.md "wikilink")                                    |
-| [청주방송](../Page/청주방송.md "wikilink")             | CJB 조이FM   | [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") · [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") 원주시 귀래면                                                                                                                                                                                                                           | 2001년 [9월 26일](../Page/9월_26일.md "wikilink")                                  |
-| [제주국제자유도시방송](../Page/제주국제자유도시방송.md "wikilink") | JIBS 뉴파워FM | [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink")                                                                                                                                                                                                                                                                                         | [2003년](../Page/2003년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink")     |
+| [울산방송](../Page/울산방송.md "wikilink")             | UBC 그린FM   | [울산광역시](https://ko.wikipedia.org/wiki/울산광역시 "wikilink") · [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") · [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 동부 일부 · [경상북도](https://ko.wikipedia.org/wiki/경상북도 "wikilink") [포항시](https://ko.wikipedia.org/wiki/포항시 "wikilink"), [경주시](https://ko.wikipedia.org/wiki/경주시 "wikilink") 일부 | 2001년 [9월 1일](../Page/9월_1일.md "wikilink")                                    |
+| [청주방송](../Page/청주방송.md "wikilink")             | CJB 조이FM   | [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") · 세종특별자치시 일부 · 강원도 원주시 귀래면                                                                                                                                                                                                                                                                    | 2001년 [9월 26일](../Page/9월_26일.md "wikilink")                                  |
+| [제주방송](../Page/제주방송.md "wikilink")             | JIBS 뉴파워FM | [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink")                                                                                                                                                                                                                                                                                         | [2003년](../Page/2003년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink")     |
 | [G1](../Page/G1.md "wikilink")                 | G1 프레시FM   | [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink")                                                                                                                                                                                                                                                                                           | 2003년 [10월 10일](../Page/10월_10일.md "wikilink")                                |
 
 ## 참고 사항
@@ -649,10 +618,16 @@ KNN 웰빙라이프)</p></td>
 
 ## 같이 보기
 
-  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
-  - [tbs eFM](https://ko.wikipedia.org/wiki/tbs_eFM "wikilink")
-  - [SBS TV](../Page/SBS_TV.md "wikilink")
-  - [채널A](../Page/채널A.md "wikilink")
+※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 의무형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
+
+  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
+  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
+  - [EBS FM](../Page/EBS_FM.md "wikilink")
+  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
+  - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
+  - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
+  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
+  - [극동방송](../Page/극동방송.md "wikilink")
 
 ## 외부 링크
 
@@ -664,8 +639,5 @@ KNN 웰빙라이프)</p></td>
   -
 [분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [파워FM](https://ko.wikipedia.org/wiki/분류:SBS의_라디오_네트워크 "wikilink") [분류:1996년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1996년_설립된_라디오_방송국 "wikilink")
 
-1.  충청남도 [천안시](../Page/천안시.md "wikilink"), [당진군](https://ko.wikipedia.org/wiki/당진군 "wikilink"), [예산군](../Page/예산군.md "wikilink"), [홍성군](../Page/홍성군.md "wikilink") 등지에서 잡음 없이 청취 가능하다. 하지만 [논산시](../Page/논산시.md "wikilink")의 경우, 카라디오에 한해 들을 수 있다. 단, [금산군](../Page/금산군.md "wikilink")은 [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink") 방송국과 혼선이 돼 청취가 불가능하다.
-2.  [진천군](../Page/진천군.md "wikilink"), [음성군](../Page/음성군.md "wikilink"), [충주시](https://ko.wikipedia.org/wiki/충주시 "wikilink")에서 청취 가능하다.
-3.  원주시 [반곡관설동](../Page/반곡관설동.md "wikilink") 혁신도시 일대에서만 들을 수 있다. [단계동](../Page/단계동.md "wikilink"), [개운동](https://ko.wikipedia.org/wiki/개운동 "wikilink")에서는 전혀 잡히지 않는다. 다만, [문막읍](../Page/문막읍.md "wikilink")에서는 카라디오로만 약간이나마 들을 수 있다.
-4.  '○' 표시 기호는 동시 네트워크로 일제히 송출된다.
-5.  프로야구 롯데 경기 때는 결방.
+1.  '○' 표시 기호는 동시 네트워크로 일제히 송출된다.
+2.  프로야구 롯데 경기 때는 방송 중단.

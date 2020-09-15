@@ -177,7 +177,7 @@ FC 서울은 이을용 감독대행 체제로 운영했지만 리그에서 8승 
 ## 참고 자료
 
   - [K리그 공식 웹사이트 - K리그 히스토리](http://www.kleague.com/kr/sub.asp?avan=1001125100)
-  - [FC 서울 매치데이 매거진](http://www.fcseoul.com/match/report/report_list.jsp)
+  - [FC 서울 매치데이 매거진](https://web.archive.org/web/20110509235915/http://www.fcseoul.com/match/report/report_list.jsp)
   - [네이버 디지털 뉴스 아카이브 옛날 뉴스 다시 보기](https://newslibrary.naver.com/search/searchByDate.nhn)
   - 월간 축구전문지 [베스트일레븐](https://ko.wikipedia.org/wiki/베스트일레븐 "wikilink") (구 월간축구)
   - [국립중앙도서관](../Page/국립중앙도서관.md "wikilink") 일간스포츠 마이크로필름 자료

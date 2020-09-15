@@ -39,7 +39,7 @@
 <td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a>-<a href="../Page/효창운동장.md" title="wikilink">효창운동장</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/친선경기" title="wikilink">친선경기</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정순천" title="wikilink">정순천</a><br />
-<a href="https://ko.wikipedia.org/wiki/이순명" title="wikilink">이순명</a></p></td>
+<a href="../Page/이순명.md" title="wikilink">이순명</a></p></td>
 <td></td>
 <td></td>
 <td></td>

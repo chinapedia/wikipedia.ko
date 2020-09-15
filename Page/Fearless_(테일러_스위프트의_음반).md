@@ -227,4 +227,4 @@
 22.
 23.
 24. <http://www.cmt.com/news/news-in-brief/1619171/taylor-swifts-fearless-earns-numerous-international-certifications.jhtml>
-25. <http://www.ifpi.org/content/section_news/mideast_2010_H2.html>
+25.

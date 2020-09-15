@@ -237,6 +237,14 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/스페인_여자_농구_국가대표팀" title="wikilink">스페인</a></p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2022년_FIBA_여자_농구_월드컵" title="wikilink">2022년</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

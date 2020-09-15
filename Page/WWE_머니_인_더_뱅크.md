@@ -99,7 +99,7 @@
 <td><p>2020년 5월 10일</p></td>
 <td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
 <td><p>WWE 퍼포먼스 센터</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/무관중_경기" title="wikilink">무관중 경기</a></p></td>
+<td><p><a href="../Page/무관중_경기.md" title="wikilink">무관중 경기</a></p></td>
 <td><p><a href="../Page/아스카_(프로레슬링_선수).md" title="wikilink">아스카</a> vs. 셰이나 배즐러 vs. <a href="../Page/나이아_잭스.md" title="wikilink">나이아 잭스</a> vs. <a href="https://ko.wikipedia.org/wiki/데이나_브룩" title="wikilink">데이나 브룩</a> vs. <a href="../Page/레이시_에반스.md" title="wikilink">레이시 에반스</a> vs. <a href="../Page/카멜라_(프로레슬링_선수).md" title="wikilink">카멜라</a> (WWE 러 위민스 챔피언십 머니 인 더 뱅크 레더 매치) <a href="../Page/알레이스터_블랙.md" title="wikilink">알레이스터 블랙</a> vs. <a href="../Page/A.J._스타일스.md" title="wikilink">A.J. 스타일스</a> vs. <a href="../Page/레이_미스테리오.md" title="wikilink">레이 미스테리오</a> vs. <a href="../Page/대니얼_브라이언.md" title="wikilink">대니얼 브라이언</a> vs. <a href="../Page/배런_코빈.md" title="wikilink">킹 코빈</a> vs. <a href="https://ko.wikipedia.org/wiki/오티즈_(남자_프로레슬링선수)" title="wikilink">오티즈</a> (머니 인 더 뱅크 레더 매치)</p></td>
 </tr>
 <tr class="even">

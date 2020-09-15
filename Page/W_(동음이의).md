@@ -30,7 +30,7 @@
   - **[W](https://ko.wikipedia.org/wiki/W_\(헬로!_프로젝트\) "wikilink")**는 [헬로\! 프로젝트에서](../Page/헬로!_프로젝트.md "wikilink") 활동했던 여성 듀엣이다.
   - **[더블유 앤 웨일](https://ko.wikipedia.org/wiki/더블유_앤_웨일 "wikilink")**(W & Whale)는 대한민국의 음악 그룹이다.
   - **[W (잡지)](https://ko.wikipedia.org/wiki/W_\(잡지\) "wikilink")**는 두산매거진이 2005년 3월에 창간한 패션 문화 잡지다.
-  - 《**[W](../Page/W_\(드라마\).md "wikilink")**》는 [2016년](../Page/2016년.md "wikilink") [MBC의](../Page/MBC_TV.md "wikilink") [수목드라마이다](../Page/문화방송_수목_미니시리즈.md "wikilink").
+  - 《**[W](../Page/W_\(드라마\).md "wikilink")**》는 2016년 [MBC의](../Page/MBC_TV.md "wikilink") [수목드라마이다](../Page/문화방송_수목_미니시리즈.md "wikilink").
 
 ### 기타
 

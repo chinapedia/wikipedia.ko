@@ -24,5 +24,3 @@
 </div>
 
 </onlyinclude>
-
-[분류:위키백과 그림 저작권 틀](https://ko.wikipedia.org/wiki/분류:위키백과_그림_저작권_틀 "wikilink")

@@ -444,6 +444,6 @@ low bits</p></td>
 
   - [Rambus XDR Product Page](http://www.rambus.com/us/products/xdr_xdr2/index.html)
 
-[분류:컴퓨터 메모리](https://ko.wikipedia.org/wiki/분류:컴퓨터_메모리 "wikilink")
+[분류:SDRAM](https://ko.wikipedia.org/wiki/분류:SDRAM "wikilink")
 
 1.  [XDR™ Architecture](http://www.rambus.com/assets/documents/products/dl_0161_v0_8.pdf)  (Rambus)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CBS 표준FM](https://ko.wikipedia.org/wiki/CBS_표준FM).
 
 
-**CBS 표준FM**은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [기독교방송의](../Page/CBS_\(대한민국의_방송사\).md "wikilink") 라디오 채널 중 하나이다. 수도권에서 FM 98.1㎒로 방송하고 있으며 24시간 방송되고 있다. [1954년](../Page/1954년.md "wikilink")에 AM 방송이 개국되었으며, [1998년](../Page/1998년.md "wikilink")에 표준FM 방송이 개국되었다. 해외에서는 [CBS의](../Page/CBS_\(대한민국의_방송사\).md "wikilink") 인터넷 라디오인 《RAINBOW》와 《만나》로 들을 수 있다. 각 프로그램 (뉴스 제외)에는 편지와 엽서뿐 아니라 휴대전화를 이용해서 짧은 문자메시지(\#1212-정보이용료 50원 별도), 긴 문자메시지, 사진(\#1212-정보이용료 100원 별도),인터넷 라디오《RAINBOW》, 카카오톡 플러스친구《CBS라디오》를 통해 방송에 참여할 수 있다.
+**CBS 표준FM**은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [기독교방송의](../Page/CBS_\(대한민국의_방송사\).md "wikilink") 라디오 채널 중 하나이다. 수도권에서 FM 98.1㎒로 방송하고 있으며 24시간 방송되고 있다. [1954년](../Page/1954년.md "wikilink")에 AM 방송이 개국되었으며, [1998년](../Page/1998년.md "wikilink")에 표준FM 방송이 개국되었다. 해외에서는 [CBS의](../Page/CBS_\(대한민국의_방송사\).md "wikilink") 인터넷 라디오인 《RAINBOW》와 《만나》로 들을 수 있다. 각 프로그램 (뉴스 제외)에는 편지와 엽서뿐 아니라 휴대전화를 이용해서 짧은 문자메시지(\#1212-정보이용료 50원 별도), 긴 문자메시지, 사진(\#1212-정보이용료 100원 별도), 인터넷 라디오《RAINBOW》, 카카오톡 플러스친구《CBS라디오》를 통해 방송에 참여할 수 있다.
 
 ## 연혁
 
@@ -41,12 +41,14 @@
   - [2017년](../Page/2017년.md "wikilink") - CBS 표준FM 경기 남부 중계소 허가 (초단파 100.7MHz, 경기 남부 지역)
   - [2018년](../Page/2018년.md "wikilink") - CBS 표준FM 경기 남부 중계소 개국 (초단파 100.7MHz, 경기 남부 지역)
   - [2018년](../Page/2018년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") - 인천광역시 남구 -\> 인천광역시 미추홀구
+  - [2020년](../Page/2020년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") - [코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink") 확진자 발생으로, 모든 프로그램이 결방되어 정시 뉴스를 제외한 음악 방송을 대체 편성\[1\]
+  - [2020년](../Page/2020년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") - CBS 표준FM 라디오 방송 송출 정상화 (낮 12시부터)
 
 ## 방송 프로그램(편성표)
 
-라디오 설교 프로그램의 경우, 지역의 FM 프로그램은 지역 교회의 설교로 대체하여 방송하고 있다. 평일에는 CBS 지역뉴스가 방송되며 주말은 CBS 지역뉴스 대신 CBS 본사 뉴스 수중계를 내보내고 있다.
+라디오 설교 프로그램의 경우, 지역의 FM 프로그램은 지역 교회의 설교로 대체하여 방송하고 있다. 평일에는 오전 10시, 낮 12시, 오후 3시에 CBS 지역뉴스가 방송되며 주말은 CBS 지역뉴스 대신 CBS 본사 뉴스 수중계를 내보내고 있다.
 
-''' 2020년 3월 23일 기준 '''
+''' 2020년 6월 15일 기준 '''
 
 <table>
 <thead>
@@ -152,13 +154,13 @@ o</p></td>
 </tr>
 <tr class="odd">
 <td><p>매일 14:05</p></td>
-<td><p><a href="../Page/오후의_향기_김윤주입니다.md" title="wikilink">오후의 향기 김윤주입니다</a>[1]</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/어떤가요_(라디오_프로그램)" title="wikilink">이봉규의 어떤가요</a>[2]</p></td>
 <td><p>o(주일 x)</p></td>
 </tr>
 <tr class="even">
 <td><p>매일 16:05<br />
 17:05</p></td>
-<td><p><a href="../Page/유영석의_팝콘.md" title="wikilink">유영석의 팝콘</a>[2]<br />
+<td><p><a href="../Page/유영석의_팝콘.md" title="wikilink">유영석의 팝콘</a>[3]<br />
 </p></td>
 <td><p>O(월~토요일) X(주일)</p></td>
 </tr>
@@ -241,7 +243,7 @@ CBS 표준FM의 지역별 주파수는 아래의 다음과 같다.
 | 경기남부 중계소                                        | FM 100.7㎒ |                           | 경기 수원시                                                                                                                            | [2018년](../Page/2018년.md "wikilink")                                          | 경기도 수원시, 오산시, 화성시, 평택시, 안성시, 충청남도 천안시, 아산시                                                                                                                                                                                                                                                                                                                  |                                                                               |
 | [강원CBS 표준FM](../Page/기독교강원방송.md "wikilink")     | HLDC-FM   | 느랏재 송신소                   | FM 93.7㎒                                                                                                                          | 3㎾                                                                            | 강원 춘천시 동면 평촌리 산46-4 (춘천MBC)                                                                                                                                                                                                                                                                                                                                 | [1995년](../Page/1995년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink")     |
 | 홍천 중계소                                          | 90W       | 강원 홍천군 홍천읍 연봉리 191-4      |                                                                                                                                   | [강원도](../Page/강원도.md "wikilink") [홍천군](../Page/홍천군.md "wikilink")             |                                                                                                                                                                                                                                                                                                                                                             |                                                                               |
-| 윗도골 중계소                                         | FM 94.9㎒  | 200W                      | 강원 원주시 소초면 수암리 산209-2 (G1 강원민방) \[3\]                                                                                             | [2015년](../Page/2015년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink")   | 강원도 [원주시](../Page/원주시.md "wikilink"), [횡성군](../Page/횡성군.md "wikilink") 일원, [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](../Page/이천시.md "wikilink"), [여주시](https://ko.wikipedia.org/wiki/여주시 "wikilink"), [양평군](../Page/양평군.md "wikilink") 일부                                                                                                   |                                                                               |
+| 윗도골 중계소                                         | FM 94.9㎒  | 200W                      | 강원 원주시 소초면 수암리 산209-2 (G1 강원민방) \[4\]                                                                                             | [2015년](../Page/2015년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink")   | 강원도 [원주시](../Page/원주시.md "wikilink"), [횡성군](../Page/횡성군.md "wikilink") 일원, [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [이천시](../Page/이천시.md "wikilink"), [여주시](https://ko.wikipedia.org/wiki/여주시 "wikilink"), [양평군](../Page/양평군.md "wikilink") 일부                                                                                                   |                                                                               |
 | [강원영동CBS 표준FM](../Page/기독교강원영동방송.md "wikilink") | HLCO-FM   | 괘방산 송신소                   | FM 91.5㎒                                                                                                                          | 3㎾                                                                            | 강원 강릉시 강동면 정동진리 산19-1 (MBC강원영동 강릉방송국)                                                                                                                                                                                                                                                                                                                       | [2001년](../Page/2001년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink")   |
 | 초록봉 중계소                                         | FM 91.9㎒  | 100W                      | 강원 동해시 비천동 산243-2                                                                                                                 | [2020년](../Page/2020년.md "wikilink") 하반기                                      | 강원도 [동해시](https://ko.wikipedia.org/wiki/동해시 "wikilink"), [삼척시](https://ko.wikipedia.org/wiki/삼척시 "wikilink") 일원, [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink"), [정선군](https://ko.wikipedia.org/wiki/정선군 "wikilink") 일부                                                                                                                                |                                                                               |
 | 속초 중계소                                          | 100W      | 강원 속초시 도문동 산321           | 강원도 [속초시](../Page/속초시.md "wikilink") 일원, [양양군](../Page/양양군.md "wikilink"), [고성군](https://ko.wikipedia.org/wiki/고성군 "wikilink") 일부 |                                                                               |                                                                                                                                                                                                                                                                                                                                                             |                                                                               |
@@ -277,15 +279,18 @@ CBS 표준FM의 지역별 주파수는 아래의 다음과 같다.
 
 ## 제공시보
 
-  - 삼성 갤럭시
+  - [삼성 갤럭시](../Page/삼성_갤럭시.md "wikilink")
   - 현대자동차 (30분 시보에 나온다.)
 
 ## 시보 멘트
 
   - 세상 달라진 아반떼가 OO시 30분을 알려드립니다.(2020년 4월 1일 \~ 현재)
   - OO시 30분입니다. 이어서 OOOO O부가 방송됩니다.(2019년 1월 1일 \~ 현재)
+  - FM 98.1메가헤르츠 AM 837키로헤르츠, CBS 라디오입니다. HLKY (광고 후) O시를 알려드립니다
 
 ## 같이 보기
+
+※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 경제형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
 
   - [KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink")
   - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
@@ -309,6 +314,7 @@ CBS 표준FM의 지역별 주파수는 아래의 다음과 같다.
 
 [분류:기독교방송](https://ko.wikipedia.org/wiki/분류:기독교방송 "wikilink") [분류:중파방송](https://ko.wikipedia.org/wiki/분류:중파방송 "wikilink") [분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [분류:1998년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1998년_설립된_라디오_방송국 "wikilink")
 
-1.  주일(일요일) 부산, 전북, 광주, 전남, 제주, 강원, 포항, 경남 - 이강민의 I Love CCM 방송 (CBS JOY4U 동시방송), 강원도 영동 지역은 자체 프로그램 가스펠 산책 방송.
-2.  주일(일요일) 강원, 부산, 경남 - 김윤주의 찬양의 숲 방송 (CBS JOY4U 동시방송)
-3.  [춘천CBS 원주 중계소 설립 허가](http://ch.local.cbs.co.kr/Nocut/Show.asp?LocalCD=10201060&NewsCD=2910044)
+1.  안내멘트 고지
+2.  주일(일요일) 부산, 전북, 광주, 전남, 제주, 강원, 포항, 경남 - 이강민의 I Love CCM 방송 (CBS JOY4U 동시방송), 강원도 영동 지역은 자체 프로그램 가스펠 산책 방송.
+3.  주일(일요일) 강원, 부산, 경남 - 김윤주의 찬양의 숲 방송 (CBS JOY4U 동시방송)
+4.  [춘천CBS 원주 중계소 설립 허가](http://ch.local.cbs.co.kr/Nocut/Show.asp?LocalCD=10201060&NewsCD=2910044)

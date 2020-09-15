@@ -21,6 +21,6 @@ libjpeg은 다음과 같은 유틸리티들을 포함하고 있다.
   - [Binary package](http://gnuwin32.sourceforge.net/packages/jpeg.htm) of libjpeg for [Microsoft Windows](https://ko.wikipedia.org/wiki/Microsoft_Windows "wikilink") (at [GnuWin32](https://ko.wikipedia.org/wiki/GnuWin32 "wikilink") in [SourceForge](https://ko.wikipedia.org/wiki/SourceForge "wikilink"))
   - [Binary packages](https://web.archive.org/web/20140423061451/http://www.clanlib.org/download.html) of libjpeg for [Microsoft Windows](https://ko.wikipedia.org/wiki/Microsoft_Windows "wikilink") (MingW and Microsoft Visual C++ versions 7 and 8), and for Mac OS X (Universal, GCC 4.0; PowerPC, GCC 4.0; PowerPC, GCC 3.3) (at [ClanLib](https://ko.wikipedia.org/wiki/ClanLib "wikilink"))
   - [Jpeg Faqs](http://www.faqs.org/faqs/jpeg-faq/)
-  - [Additional features for libjpeg](http://jpegclub.org/)
+  - [Additional features for libjpeg](https://web.archive.org/web/20100116010354/http://jpegclub.org/)
 
 [분류:그래픽 라이브러리](https://ko.wikipedia.org/wiki/분류:그래픽_라이브러리 "wikilink") [분류:C로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C로_작성된_자유_소프트웨어 "wikilink") [분류:JPEG](https://ko.wikipedia.org/wiki/분류:JPEG "wikilink")

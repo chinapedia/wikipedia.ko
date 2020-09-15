@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [뉴 슈퍼 마리오브라더스 Wii](https://ko.wikipedia.org/wiki/뉴_슈퍼_마리오브라더스_Wii).
 
 
-《**뉴 슈퍼 마리오브라더스 Wii**》()는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 액션 게임 소프트웨어이다. 대한민국에서는 [2010년](../Page/2010년.md "wikilink") [8월 7일에](../Page/8월_7일.md "wikilink") 블랙 [Wii](../Page/Wii.md "wikilink")와 함께 발매되었다.
+《**뉴 슈퍼 마리오브라더스 Wii**》()는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 액션 게임 소프트웨어이다. 대한민국에서는 [2010년](../Page/2010년.md "wikilink") [8월 7일에](../Page/8월_7일.md "wikilink") 블랙 [Wii](../Page/Wii.md "wikilink")와 함께 발매되었다. 뉴 슈퍼 마리오브라더스 1.5로 생각하면 된다.
 
 ## 개요
 

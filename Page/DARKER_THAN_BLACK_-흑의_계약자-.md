@@ -468,4 +468,4 @@ Physicalquantity Alternation Natural Deconstruction Organized Research Agency
 
   - [공식 홈페이지](http://www.d-black.net/)
 
-[분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:2007년 애니메이션](https://ko.wikipedia.org/wiki/분류:2007년_애니메이션 "wikilink") [분류:본즈의 애니메이션](https://ko.wikipedia.org/wiki/분류:본즈의_애니메이션 "wikilink") [분류:마이니치 방송의 심야 애니메이션](https://ko.wikipedia.org/wiki/분류:마이니치_방송의_심야_애니메이션 "wikilink") [분류:애니맥스](https://ko.wikipedia.org/wiki/분류:애니맥스 "wikilink")
+[분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:2007년 애니메이션](https://ko.wikipedia.org/wiki/분류:2007년_애니메이션 "wikilink") [분류:본즈의 애니메이션](https://ko.wikipedia.org/wiki/분류:본즈의_애니메이션 "wikilink") [분류:마이니치 방송의 심야 애니메이션](https://ko.wikipedia.org/wiki/분류:마이니치_방송의_심야_애니메이션 "wikilink") [분류:애니맥스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:애니맥스의_텔레비전_프로그램 "wikilink")

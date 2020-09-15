@@ -33,13 +33,13 @@
 | 2000년 11월 3일 \~ 2001년 4월 20일           | 매주 금요일 오후 9시 55분  |       |
 | 2001년 5월 4일 \~ 2001년 8월 17일            | 매주 금요일 오후 10시 50분 |       |
 | 2001년 8월 24일 \~ 2005년 4월 8일            | 매주 금요일 오후 9시 55분  |       |
-| 2005년 10월 29일 \~ 2006년 11월 4일          | 매주 토요일 오후 11시 40분 |       |
+| 2005년 4월 16일 \~ 2006년 11월 4일           | 매주 토요일 오후 11시 40분 |       |
 | 2006년 11월 11일 \~ 2007년 3월 10일          | 매주 토요일 오후 11시 30분 |       |
 
 ## 작품 리스트
 
-  - 아래의 프로그램들은 [2003년](../Page/2003년.md "wikilink") 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 [흡연](../Page/흡연.md "wikilink") 장면 및 [담배](https://ko.wikipedia.org/wiki/담배 "wikilink") 소품이 노출될 수 있으며, 시청자 여러분들의 양해를 바랍니다.
-  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 [시청 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 시행하여, 현재까지 이어지고 있다.
+  - 아래의 프로그램들은 [2003년](../Page/2003년.md "wikilink") 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 [흡연](../Page/흡연.md "wikilink") 장면 및 [담배](https://ko.wikipedia.org/wiki/담배 "wikilink") 소품이 노출될 수 있기 때문에 양해 바람.
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 시청 가능 연령을 표시하는 [드라마 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 의무적으로 시행하여 현재까지 이어지고 있다.
 
 ### 1991년
 
@@ -59,8 +59,8 @@
 <td><p>1회</p></td>
 <td><p>7월 7일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아빠는_사업가" title="wikilink">아빠는 사업가</a></p></td>
-<td><p><a href="../Page/김호영.md" title="wikilink">김호영</a>, <a href="../Page/박혜숙.md" title="wikilink">박혜숙</a>, <a href="https://ko.wikipedia.org/wiki/권은하" title="wikilink">권은하</a>, <a href="../Page/남능미.md" title="wikilink">남능미</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/탁지연" title="wikilink">탁지연</a>, <a href="https://ko.wikipedia.org/wiki/김선영" title="wikilink">김선영</a>, <a href="https://ko.wikipedia.org/wiki/정희연" title="wikilink">정희연</a></p></td>
+<td><p><a href="../Page/김호영.md" title="wikilink">김호영</a>, <a href="../Page/박혜숙.md" title="wikilink">박혜숙</a>, <a href="../Page/권은아.md" title="wikilink">권은아</a>, <a href="../Page/남능미.md" title="wikilink">남능미</a>,<br />
+<a href="../Page/안병경.md" title="wikilink">안병경</a>, <a href="https://ko.wikipedia.org/wiki/탁지연" title="wikilink">탁지연</a>, <a href="https://ko.wikipedia.org/wiki/김선영" title="wikilink">김선영</a>, <a href="https://ko.wikipedia.org/wiki/정희연" title="wikilink">정희연</a></p></td>
 <td><p>김정수</p></td>
 <td><p>김한영</p></td>
 </tr>
@@ -100,7 +100,7 @@
 <tr class="even">
 <td><p>6회</p></td>
 <td><p>8월 11일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/도출이의_전생" title="wikilink">도출이의 전생</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/도출이의_전쟁" title="wikilink">도출이의 전쟁</a></p></td>
 <td><p><a href="../Page/김주영_(1952년).md" title="wikilink">김주영</a>, <a href="../Page/박윤배.md" title="wikilink">박윤배</a>, <a href="../Page/이주경.md" title="wikilink">이주경</a>, <a href="../Page/임현식.md" title="wikilink">임현식</a></p></td>
 <td><p>이홍구</p></td>
 <td><p>정인</p></td>
@@ -168,8 +168,8 @@
 <td><p>14회</p></td>
 <td><p>10월 13일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/우황청심환" title="wikilink">우황청심환</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김인태" title="wikilink">김인태</a>, <a href="../Page/사미자.md" title="wikilink">사미자</a>, <a href="../Page/이영후.md" title="wikilink">이영후</a>, <a href="https://ko.wikipedia.org/wiki/박주아" title="wikilink">박주아</a>,<br />
-<a href="../Page/남성훈.md" title="wikilink">남성훈</a></p></td>
+<td><p><a href="../Page/김인태_(배우).md" title="wikilink">김인태</a>, <a href="../Page/사미자.md" title="wikilink">사미자</a>, <a href="../Page/이영후.md" title="wikilink">이영후</a>, <a href="https://ko.wikipedia.org/wiki/박주아" title="wikilink">박주아</a>,<br />
+<a href="../Page/남성훈.md" title="wikilink">남성훈</a>, <a href="../Page/엄유신.md" title="wikilink">엄유신</a>, <a href="../Page/권은아.md" title="wikilink">권은아</a>, <a href="https://ko.wikipedia.org/wiki/감우성" title="wikilink">감우성</a></p></td>
 <td><p>김남</p></td>
 <td><p>김승수</p></td>
 </tr>
@@ -177,7 +177,7 @@
 <td><p>15회</p></td>
 <td><p>10월 20일</p></td>
 <td><p><a href="../Page/한계령_(드라마).md" title="wikilink">한계령</a></p></td>
-<td></td>
+<td><p><a href="../Page/양미경.md" title="wikilink">양미경</a>, <a href="../Page/한인수.md" title="wikilink">한인수</a>, <a href="../Page/김동현_(1950년).md" title="wikilink">김동현</a></p></td>
 <td><p>김원석</p></td>
 <td><p>소원영</p></td>
 </tr>
@@ -201,7 +201,7 @@
 <td><p>18회</p></td>
 <td><p>11월 10일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/달리는_거위들" title="wikilink">달리는 거위들</a></p></td>
-<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강인덕" title="wikilink">강인덕</a>, <a href="https://ko.wikipedia.org/wiki/박경순" title="wikilink">박경순</a>, <a href="../Page/권은아.md" title="wikilink">권은아</a>, <a href="../Page/박영지.md" title="wikilink">박영지</a></p></td>
 <td><p>최일남</p></td>
 <td><p>정인</p></td>
 </tr>
@@ -217,7 +217,7 @@
 <td><p>20회</p></td>
 <td><p>11월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/문밖에서" title="wikilink">문밖에서</a></p></td>
-<td><p><a href="../Page/양미경.md" title="wikilink">양미경</a>, <a href="../Page/문성근.md" title="wikilink">문성근</a></p></td>
+<td><p><a href="../Page/양미경.md" title="wikilink">양미경</a>, <a href="../Page/문성근.md" title="wikilink">문성근</a>, <a href="../Page/정한용.md" title="wikilink">정한용</a>, <a href="../Page/심양홍.md" title="wikilink">심양홍</a></p></td>
 <td><p>정성주</p></td>
 <td><p>이진석</p></td>
 </tr>
@@ -225,7 +225,7 @@
 <td><p>21회</p></td>
 <td><p>12월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/막차_탄_동기동창" title="wikilink">막차 탄 동기동창</a></p></td>
-<td><p><a href="../Page/배연정.md" title="wikilink">배연정</a></p></td>
+<td><p><a href="../Page/배연정.md" title="wikilink">배연정</a>, <a href="../Page/오현경_(1936년).md" title="wikilink">오현경</a>, <a href="https://ko.wikipedia.org/wiki/김상순" title="wikilink">김상순</a></p></td>
 <td><p>유호</p></td>
 <td><p>김승수</p></td>
 </tr>
@@ -249,7 +249,7 @@
 <td><p>24회</p></td>
 <td><p>12월 22일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/끈_(드라마)" title="wikilink">끈</a></p></td>
-<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김은주" title="wikilink">김은주</a>, <a href="../Page/임현식.md" title="wikilink">임현식</a></p></td>
 <td><p>정지영</p></td>
 <td><p>김준호</p></td>
 </tr>
@@ -298,7 +298,7 @@
 <td><p>27회</p></td>
 <td><p>1월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/남겨진_사람들" title="wikilink">남겨진 사람들</a></p></td>
-<td></td>
+<td><p><a href="../Page/이경진.md" title="wikilink">이경진</a>, <a href="../Page/이계인.md" title="wikilink">이계인</a>, <a href="../Page/정혜선.md" title="wikilink">정혜선</a>, <a href="https://ko.wikipedia.org/wiki/임문수" title="wikilink">임문수</a></p></td>
 <td><p>이미숙</p></td>
 <td><p>이은규</p></td>
 </tr>
@@ -315,7 +315,7 @@
 <td><p>29회</p></td>
 <td><p>2월 2일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/원점_(드라마)" title="wikilink">원점</a></p></td>
-<td></td>
+<td><p><a href="../Page/김용건.md" title="wikilink">김용건</a>, <a href="https://ko.wikipedia.org/wiki/박정수" title="wikilink">박정수</a></p></td>
 <td><p>이미혜</p></td>
 <td><p>김한영</p></td>
 </tr>
@@ -331,7 +331,7 @@
 <td><p>31회</p></td>
 <td><p>2월 16일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/주말부부_별곡" title="wikilink">주말부부 별곡</a></p></td>
-<td></td>
+<td><p><a href="../Page/송재호.md" title="wikilink">송재호</a>, <a href="https://ko.wikipedia.org/wiki/선우용녀" title="wikilink">선우용녀</a></p></td>
 <td><p>조한순</p></td>
 <td><p>장근수</p></td>
 </tr>
@@ -340,7 +340,7 @@
 <td><p>2월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/빨간_구두_(1992년_드라마)" title="wikilink">빨간 구두</a></p></td>
 <td><p><a href="../Page/양미경.md" title="wikilink">양미경</a>, <a href="../Page/김동현.md" title="wikilink">김동현</a>, <a href="../Page/김홍석.md" title="wikilink">김홍석</a>, <a href="../Page/안병경.md" title="wikilink">안병경</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/정태섭" title="wikilink">정태섭</a>, <a href="../Page/한영수.md" title="wikilink">한영수</a>, <a href="https://ko.wikipedia.org/wiki/서창숙" title="wikilink">서창숙</a></p></td>
+<a href="../Page/정태섭_(배우).md" title="wikilink">정태섭</a>, <a href="../Page/한영수.md" title="wikilink">한영수</a>, <a href="https://ko.wikipedia.org/wiki/서창숙" title="wikilink">서창숙</a></p></td>
 <td><p>신성희</p></td>
 <td><p>강병문</p></td>
 </tr>
@@ -348,7 +348,7 @@
 <td><p>33회</p></td>
 <td><p>3월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/기찻길_옆_오막살이" title="wikilink">기찻길 옆 오막살이</a></p></td>
-<td></td>
+<td><p><a href="../Page/임현식.md" title="wikilink">임현식</a>, <a href="../Page/신신애.md" title="wikilink">신신애</a>, <a href="../Page/박상조.md" title="wikilink">박상조</a></p></td>
 <td><p>박정조</p></td>
 <td><p>정인</p></td>
 </tr>
@@ -364,7 +364,7 @@
 <td><p>35회</p></td>
 <td><p>3월 15일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/여심_(1992년_드라마)" title="wikilink">여심</a></p></td>
-<td></td>
+<td><p><a href="../Page/정영숙.md" title="wikilink">정영숙</a>, <a href="../Page/임혁주.md" title="wikilink">임혁주</a></p></td>
 <td><p>김수경</p></td>
 <td><p>김한영</p></td>
 </tr>
@@ -404,7 +404,7 @@
 <td><p>40회</p></td>
 <td><p>4월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/할미꽃과_몽당연필" title="wikilink">할미꽃과 몽당연필</a></p></td>
-<td><p><a href="../Page/오미희.md" title="wikilink">오미희</a></p></td>
+<td><p><a href="../Page/오미희.md" title="wikilink">오미희</a>, <a href="../Page/김복희_(배우).md" title="wikilink">김복희</a></p></td>
 <td><p>최순식</p></td>
 <td><p>김준호</p></td>
 </tr>
@@ -428,7 +428,7 @@
 <td><p>43회</p></td>
 <td><p>5월 17일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/꿈길" title="wikilink">꿈길</a></p></td>
-<td><p><a href="../Page/권성덕.md" title="wikilink">권성덕</a>, <a href="https://ko.wikipedia.org/wiki/박주아" title="wikilink">박주아</a>, <a href="../Page/권은아.md" title="wikilink">권은아</a>, <a href="../Page/나성균.md" title="wikilink">나성균</a></p></td>
+<td><p><a href="../Page/권성덕.md" title="wikilink">권성덕</a>, <a href="../Page/박주아_(배우).md" title="wikilink">박주아</a>, <a href="../Page/권은아.md" title="wikilink">권은아</a>, <a href="../Page/나성균.md" title="wikilink">나성균</a></p></td>
 <td><p>김준일</p></td>
 <td><p>김한영</p></td>
 </tr>
@@ -436,8 +436,8 @@
 <td><p>44회</p></td>
 <td><p>5월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/따따부따" title="wikilink">따따부따</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정진" title="wikilink">정진</a>, <a href="../Page/변희봉.md" title="wikilink">변희봉</a>, <a href="../Page/송옥숙.md" title="wikilink">송옥숙</a>, <a href="../Page/이한수.md" title="wikilink">이한수</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/김상순" title="wikilink">김상순</a>, <a href="../Page/박윤배.md" title="wikilink">박윤배</a>, <a href="https://ko.wikipedia.org/wiki/이금복" title="wikilink">이금복</a></p></td>
+<td><p><a href="../Page/정진_(1941년).md" title="wikilink">정진</a>, <a href="../Page/변희봉.md" title="wikilink">변희봉</a>, <a href="../Page/송옥숙.md" title="wikilink">송옥숙</a>, <a href="../Page/이한수_(배우).md" title="wikilink">이한수</a>,<br />
+<a href="../Page/김상순_(배우).md" title="wikilink">김상순</a>, <a href="../Page/박윤배.md" title="wikilink">박윤배</a>, <a href="https://ko.wikipedia.org/wiki/이금복" title="wikilink">이금복</a></p></td>
 <td><p>김남</p></td>
 <td><p>강병문</p></td>
 </tr>
@@ -469,7 +469,7 @@
 <td><p>48회</p></td>
 <td><p>6월 21일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/따뜻한_이별" title="wikilink">따뜻한 이별</a></p></td>
-<td></td>
+<td><p><a href="../Page/문성근.md" title="wikilink">문성근</a>, <a href="../Page/양미경.md" title="wikilink">양미경</a>, <a href="../Page/김현주_(1964년).md" title="wikilink">김현주</a></p></td>
 <td><p>이금주</p></td>
 <td><p>이진석</p></td>
 </tr>
@@ -477,7 +477,7 @@
 <td><p>49회</p></td>
 <td><p>6월 28일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/녹색_꿈을_찾아서" title="wikilink">녹색 꿈을 찾아서</a></p></td>
-<td></td>
+<td><p><a href="../Page/이정길_(1944년).md" title="wikilink">이정길</a>, <a href="../Page/김찬우_(배우).md" title="wikilink">김찬우</a>, <a href="https://ko.wikipedia.org/wiki/서주화" title="wikilink">서주화</a></p></td>
 <td><p>이홍구</p></td>
 <td><p>장근수</p></td>
 </tr>
@@ -493,7 +493,7 @@
 <td><p>51회</p></td>
 <td><p>7월 12일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/그리운_타국" title="wikilink">그리운 타국</a></p></td>
-<td><p><a href="../Page/이희도.md" title="wikilink">이희도</a>, <a href="../Page/박순천.md" title="wikilink">박순천</a></p></td>
+<td><p><a href="../Page/이희도.md" title="wikilink">이희도</a>, <a href="../Page/박순천_(배우).md" title="wikilink">박순천</a></p></td>
 <td><p>신선희</p></td>
 <td><p>정운현</p></td>
 </tr>
@@ -510,7 +510,7 @@
 <td><p>53회</p></td>
 <td><p>7월 26일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/야간_탈옥" title="wikilink">야간 탈옥</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이정길" title="wikilink">이정길</a>, <a href="../Page/변희봉.md" title="wikilink">변희봉</a>, <a href="../Page/장항선.md" title="wikilink">장항선</a>, <a href="../Page/이계인.md" title="wikilink">이계인</a></p></td>
+<td><p><a href="../Page/이정길_(1944년).md" title="wikilink">이정길</a>, <a href="../Page/변희봉.md" title="wikilink">변희봉</a>, <a href="../Page/장항선.md" title="wikilink">장항선</a>, <a href="../Page/이계인.md" title="wikilink">이계인</a></p></td>
 <td><p>이환경</p></td>
 <td><p>소원영</p></td>
 </tr>
@@ -518,13 +518,13 @@
 <td><p>54회</p></td>
 <td><p>8월 9일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/남자만_셋" title="wikilink">남자만 셋</a></p></td>
-<td></td>
+<td><p><a href="../Page/송기윤.md" title="wikilink">송기윤</a>, <a href="../Page/이한수_(배우).md" title="wikilink">이한수</a>, <a href="../Page/오연수.md" title="wikilink">오연수</a>, <a href="../Page/전운.md" title="wikilink">전운</a></p></td>
 <td><p>김혜린</p></td>
 <td><p>이진석</p></td>
 </tr>
 <tr class="odd">
 <td><p>55회</p></td>
-<td><p>8월 15일</p></td>
+<td><p>8월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/닭쌈" title="wikilink">닭쌈</a></p></td>
 <td></td>
 <td><p>한칠성</p></td>
@@ -534,7 +534,7 @@
 <td><p>56회</p></td>
 <td><p>8월 30일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이차도_복순전" title="wikilink">이차도 복순전</a></p></td>
-<td><p><a href="../Page/곽진영.md" title="wikilink">곽진영</a>, <a href="https://ko.wikipedia.org/wiki/정호근" title="wikilink">정호근</a></p></td>
+<td><p><a href="../Page/곽진영.md" title="wikilink">곽진영</a>, <a href="../Page/정호근_(배우).md" title="wikilink">정호근</a></p></td>
 <td><p>이미숙</p></td>
 <td><p>강병문</p></td>
 </tr>
@@ -542,7 +542,8 @@
 <td><p>57회</p></td>
 <td><p>9월 6일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/빨간_아오자이" title="wikilink">빨간 아오자이</a></p></td>
-<td></td>
+<td><p><a href="../Page/신윤정.md" title="wikilink">신윤정</a>, <a href="../Page/하유미_(배우).md" title="wikilink">하유미</a>, <a href="../Page/송재호.md" title="wikilink">송재호</a>, <a href="../Page/김용림.md" title="wikilink">김용림</a>,<br />
+<a href="../Page/김을동.md" title="wikilink">김을동</a>, <a href="../Page/윤철형.md" title="wikilink">윤철형</a>, <a href="../Page/신복숙.md" title="wikilink">신복숙</a></p></td>
 <td><p>김혜린</p></td>
 <td><p>정운현</p></td>
 </tr>
@@ -550,7 +551,7 @@
 <td><p>58회</p></td>
 <td><p>9월 13일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/자화상_(드라마)" title="wikilink">자화상</a></p></td>
-<td></td>
+<td><p><a href="../Page/김호영.md" title="wikilink">김호영</a>, <a href="../Page/남능미.md" title="wikilink">남능미</a>, <a href="https://ko.wikipedia.org/wiki/강문희" title="wikilink">강문희</a>, <a href="../Page/박영지.md" title="wikilink">박영지</a></p></td>
 <td><p>박남준</p></td>
 <td><p>김준호</p></td>
 </tr>
@@ -582,7 +583,7 @@
 <td><p>62회</p></td>
 <td><p>10월 11일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/환각의_계절" title="wikilink">환각의 계절</a></p></td>
-<td></td>
+<td><p><a href="../Page/김소이.md" title="wikilink">김소이</a>, <a href="../Page/김응석.md" title="wikilink">김응석</a></p></td>
 <td><p>임경택</p></td>
 <td><p>권이상</p></td>
 </tr>
@@ -590,7 +591,7 @@
 <td><p>63회</p></td>
 <td><p>10월 18일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/산바람_(1992년_드라마)" title="wikilink">산바람</a></p></td>
-<td></td>
+<td><p><a href="../Page/박인환_(배우).md" title="wikilink">박인환</a>, <a href="../Page/이영후.md" title="wikilink">이영후</a>, <a href="https://ko.wikipedia.org/wiki/김동년" title="wikilink">김동년</a></p></td>
 <td><p>정세호</p></td>
 <td><p>이문희</p></td>
 </tr>
@@ -623,7 +624,7 @@
 <td><p>67회</p></td>
 <td><p>11월 15일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/거북이의_꿈" title="wikilink">거북이의 꿈</a></p></td>
-<td><p><a href="../Page/심혜진.md" title="wikilink">심혜진</a></p></td>
+<td><p><a href="../Page/심혜진.md" title="wikilink">심혜진</a>, <a href="../Page/이희도.md" title="wikilink">이희도</a>, <a href="../Page/이낙훈.md" title="wikilink">이낙훈</a>, <a href="../Page/김호영.md" title="wikilink">김호영</a></p></td>
 <td><p>강제규</p></td>
 <td><p>최창욱</p></td>
 </tr>
@@ -655,7 +656,7 @@
 <td><p>71회</p></td>
 <td><p>12월 13일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/금연_주식회사" title="wikilink">금연 주식회사</a></p></td>
-<td></td>
+<td><p><a href="../Page/연규진.md" title="wikilink">연규진</a>, <a href="../Page/양미경.md" title="wikilink">양미경</a>, <a href="../Page/나영진.md" title="wikilink">나영진</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정지우_(드라마_작가)" title="wikilink">정지우</a></p></td>
 <td><p>조중현</p></td>
 </tr>
@@ -737,7 +738,7 @@
 <td><p>78회</p></td>
 <td><p>2월 12일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/무거운_가방" title="wikilink">무거운 가방</a></p></td>
-<td><p><a href="../Page/임채원.md" title="wikilink">임채원</a></p></td>
+<td><p><a href="../Page/임채원.md" title="wikilink">임경옥</a></p></td>
 <td><p>이유미</p></td>
 <td><p>권이상</p></td>
 </tr>
@@ -769,7 +770,10 @@
 <td><p>82회</p></td>
 <td><p>3월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사과_하나_별_둘" title="wikilink">사과 하나 별 둘</a></p></td>
-<td><p><a href="../Page/강태기.md" title="wikilink">강태기</a>, <a href="../Page/주현.md" title="wikilink">주현</a></p></td>
+<td><p><a href="../Page/주현.md" title="wikilink">주현</a>, <a href="../Page/강태기.md" title="wikilink">강태기</a>, <a href="https://ko.wikipedia.org/wiki/박경순" title="wikilink">박경순</a>, <a href="https://ko.wikipedia.org/wiki/정진" title="wikilink">정진</a>,<br />
+<a href="https://ko.wikipedia.org/wiki/최낙천" title="wikilink">최낙천</a>, <a href="https://ko.wikipedia.org/wiki/김지영" title="wikilink">김지영</a>, <a href="../Page/조형기.md" title="wikilink">조형기</a>, <a href="../Page/이희도.md" title="wikilink">이희도</a>,<br />
+<a href="https://ko.wikipedia.org/wiki/이경아" title="wikilink">이경아</a>, <a href="https://ko.wikipedia.org/wiki/김영옥" title="wikilink">김영옥</a>, <a href="https://ko.wikipedia.org/wiki/김영배" title="wikilink">김영배</a>, <a href="../Page/이재훈.md" title="wikilink">이재훈</a>,<br />
+<a href="../Page/한태일.md" title="wikilink">한태일</a>, <a href="../Page/최동준.md" title="wikilink">최동준</a>, 김경란, <a href="../Page/고용화.md" title="wikilink">고용화</a></p></td>
 <td><p>김운경</p></td>
 <td><p>정운현</p></td>
 </tr>
@@ -785,7 +789,7 @@
 <td><p>84회</p></td>
 <td><p>4월 2일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아빠_사랑해요" title="wikilink">아빠 사랑해요</a></p></td>
-<td><p><a href="../Page/맹상훈.md" title="wikilink">맹상훈</a>, <a href="https://ko.wikipedia.org/wiki/박성미" title="wikilink">박성미</a>, <a href="https://ko.wikipedia.org/wiki/박소정" title="wikilink">박소정</a></p></td>
+<td><p><a href="../Page/맹상훈.md" title="wikilink">맹상훈</a>, <a href="../Page/박성미_(배우).md" title="wikilink">박성미</a>, <a href="https://ko.wikipedia.org/wiki/박소정" title="wikilink">박소정</a></p></td>
 <td><p>박정화</p></td>
 <td><p>이진석</p></td>
 </tr>
@@ -809,7 +813,7 @@
 <td><p>87회</p></td>
 <td><p>4월 30일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/용문동_대형" title="wikilink">용문동 대형</a></p></td>
-<td><p><a href="../Page/나한일.md" title="wikilink">나한일</a>, <a href="../Page/양희경.md" title="wikilink">양희경</a>, <a href="https://ko.wikipedia.org/wiki/이미지" title="wikilink">이미지</a></p></td>
+<td><p><a href="../Page/나한일.md" title="wikilink">나한일</a>, <a href="../Page/양희경.md" title="wikilink">양희경</a>, <a href="../Page/이미지_(1960년).md" title="wikilink">이미지</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정지우_(드라마_작가)" title="wikilink">정지우</a></p></td>
 <td><p>조중현</p></td>
 </tr>
@@ -882,7 +886,7 @@
 <td><p>96회</p></td>
 <td><p>7월 9일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/어느_흐린_날의_사랑" title="wikilink">어느 흐린 날의 사랑</a></p></td>
-<td><p><a href="../Page/이계인.md" title="wikilink">이계인</a>, <a href="../Page/박순애.md" title="wikilink">박순애</a>, <a href="https://ko.wikipedia.org/wiki/이정훈" title="wikilink">이정훈</a></p></td>
+<td><p><a href="../Page/이계인.md" title="wikilink">이계인</a>, <a href="../Page/박순애.md" title="wikilink">박순애</a>, <a href="../Page/이정훈_(배우).md" title="wikilink">이정훈</a></p></td>
 <td><p>박순영</p></td>
 <td><p>장두익</p></td>
 </tr>
@@ -890,7 +894,7 @@
 <td><p>97회</p></td>
 <td><p>7월 16일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/반함의_구슬" title="wikilink">반함의 구슬</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박은수" title="wikilink">박은수</a></p></td>
+<td><p><a href="../Page/박은수_(배우).md" title="wikilink">박은수</a></p></td>
 <td><p>김태관</p></td>
 <td><p>이재갑</p></td>
 </tr>
@@ -914,7 +918,7 @@
 <td><p>100회</p></td>
 <td><p>8월 6일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/저녁식탁" title="wikilink">저녁식탁</a></p></td>
-<td></td>
+<td><p><a href="../Page/김민정_(1948년).md" title="wikilink">김민정</a>, <a href="../Page/김용건.md" title="wikilink">김용건</a>, <a href="https://ko.wikipedia.org/wiki/안용남" title="wikilink">안용남</a>, <a href="https://ko.wikipedia.org/wiki/천영덕" title="wikilink">천영덕</a></p></td>
 <td><p>이금주</p></td>
 <td><p>장근수</p></td>
 </tr>
@@ -978,7 +982,7 @@
 <td><p>108회</p></td>
 <td><p>10월 15일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/거름꽃" title="wikilink">거름꽃</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김상순" title="wikilink">김상순</a>, <a href="../Page/반효정.md" title="wikilink">반효정</a>, <a href="../Page/고두심.md" title="wikilink">고두심</a>, <a href="../Page/김성녀.md" title="wikilink">김성녀</a></p></td>
+<td><p><a href="../Page/김상순_(배우).md" title="wikilink">김상순</a>, <a href="../Page/반효정.md" title="wikilink">반효정</a>, <a href="../Page/고두심.md" title="wikilink">고두심</a>, <a href="../Page/김성녀.md" title="wikilink">김성녀</a></p></td>
 <td><p>김진숙</p></td>
 <td><p>오현창</p></td>
 </tr>
@@ -1054,7 +1058,7 @@
 <td><p>117회</p></td>
 <td><p>12월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/가면의_꿈" title="wikilink">가면의 꿈</a></p></td>
-<td></td>
+<td><p><a href="../Page/남성훈.md" title="wikilink">남성훈</a>, <a href="../Page/한석규.md" title="wikilink">한석규</a>, <a href="../Page/윤예희.md" title="wikilink">윤예희</a></p></td>
 <td><p>최순식</p></td>
 <td><p>최용원</p></td>
 </tr>
@@ -1127,7 +1131,7 @@
 <td><p>123회</p></td>
 <td><p>2월 11일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/나이_오십에_무엇을_두려워하랴" title="wikilink">나이 오십에 무엇을 두려워하랴</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박인환" title="wikilink">박인환</a>, <a href="../Page/임현식.md" title="wikilink">임현식</a>, <a href="https://ko.wikipedia.org/wiki/현석" title="wikilink">현석</a></p></td>
+<td><p><a href="../Page/박인환_(배우).md" title="wikilink">박인환</a>, <a href="../Page/임현식.md" title="wikilink">임현식</a>, <a href="../Page/현석_(배우).md" title="wikilink">현석</a>, <a href="../Page/김기현_(성우).md" title="wikilink">김기현</a></p></td>
 <td><p>이종옥</p></td>
 <td><p>김남원</p></td>
 </tr>
@@ -1143,7 +1147,7 @@
 <td><p>125회</p></td>
 <td><p>2월 25일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사막에서_사는_법" title="wikilink">사막에서 사는 법</a></p></td>
-<td></td>
+<td><p><a href="../Page/강태기.md" title="wikilink">강태기</a>, <a href="../Page/정혜선.md" title="wikilink">정혜선</a>, <a href="https://ko.wikipedia.org/wiki/선우용녀" title="wikilink">선우용녀</a></p></td>
 <td><p>이찬규</p></td>
 <td><p>정운현</p></td>
 </tr>
@@ -1169,7 +1173,7 @@
 <td><p>128회</p></td>
 <td><p>3월 18일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/길거리표_부처님" title="wikilink">길거리표 부처님</a></p></td>
-<td><p><a href="../Page/조형기.md" title="wikilink">조형기</a>, <a href="https://ko.wikipedia.org/wiki/김영옥" title="wikilink">김영옥</a>, <a href="../Page/김주영_(1952년).md" title="wikilink">김주영</a>, <a href="../Page/홍순창.md" title="wikilink">홍순창</a></p></td>
+<td><p><a href="../Page/조형기.md" title="wikilink">조형기</a>, <a href="../Page/김영옥_(배우).md" title="wikilink">김영옥</a>, <a href="../Page/김주영_(1952년).md" title="wikilink">김주영</a>, <a href="../Page/홍순창.md" title="wikilink">홍순창</a></p></td>
 <td><p>서희정</p></td>
 <td><p>최명규</p></td>
 </tr>
@@ -1185,7 +1189,7 @@
 <td><p>130회</p></td>
 <td><p>4월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/돈벼락" title="wikilink">돈벼락</a></p></td>
-<td><p><a href="../Page/전무송.md" title="wikilink">전무송</a>, <a href="../Page/박혜숙.md" title="wikilink">박혜숙</a>, <a href="../Page/김미현.md" title="wikilink">김미현</a>, <a href="../Page/조병기.md" title="wikilink">조병기</a></p></td>
+<td><p><a href="../Page/전무송.md" title="wikilink">전무송</a>, <a href="../Page/박혜숙.md" title="wikilink">박혜숙</a>, <a href="../Page/김미현.md" title="wikilink">김미현</a>, <a href="../Page/조민기.md" title="wikilink">조병기</a></p></td>
 <td><p>김선정</p></td>
 <td><p>최용원</p></td>
 </tr>
@@ -1225,7 +1229,7 @@
 <td><p>135회</p></td>
 <td><p>5월 13일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/그녀의_동거" title="wikilink">그녀의 동거</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최종환" title="wikilink">최종환</a>, <a href="../Page/이경심.md" title="wikilink">이경심</a></p></td>
+<td><p><a href="../Page/최종환_(배우).md" title="wikilink">최종환</a>, <a href="../Page/이경심.md" title="wikilink">이경심</a>, <a href="../Page/김주영_(1952년).md" title="wikilink">김주영</a>, <a href="../Page/김찬우_(배우).md" title="wikilink">김찬우</a></p></td>
 <td><p>김정자</p></td>
 <td><p>김사현</p></td>
 </tr>
@@ -1241,7 +1245,7 @@
 <td><p>137회</p></td>
 <td><p>5월 27일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사랑의_인사_(1994년_드라마)" title="wikilink">사랑의 인사</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박소현" title="wikilink">박소현</a>, <a href="https://ko.wikipedia.org/wiki/이상우" title="wikilink">이상우</a>,</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박소현" title="wikilink">박소현</a>, <a href="https://ko.wikipedia.org/wiki/이상우" title="wikilink">이상우</a>, <a href="../Page/김찬우_(배우).md" title="wikilink">김찬우</a>, <a href="../Page/김동수_(1970년).md" title="wikilink">김동수</a></p></td>
 <td><p>정유경</p></td>
 <td><p>안판석</p></td>
 </tr>
@@ -1273,7 +1277,7 @@
 <td><p>141회</p></td>
 <td><p>6월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/주례_있습니까" title="wikilink">주례 있습니까</a></p></td>
-<td><p><a href="../Page/정명환.md" title="wikilink">정명환</a>, <a href="../Page/장서희.md" title="wikilink">장서희</a>, <a href="../Page/박규채.md" title="wikilink">박규채</a></p></td>
+<td><p><a href="../Page/정명환.md" title="wikilink">정명환</a>, <a href="../Page/장서희.md" title="wikilink">장서희</a>, <a href="../Page/박규채.md" title="wikilink">박규채</a>, <a href="../Page/여운계.md" title="wikilink">여운계</a></p></td>
 <td><p>김봉진</p></td>
 <td><p>심현우,<br />
 김용수</p></td>
@@ -1322,7 +1326,7 @@
 <td><p>147회</p></td>
 <td><p>8월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/황혼이_아름다운_이유" title="wikilink">황혼이 아름다운 이유</a></p></td>
-<td><p><a href="../Page/박정수_(배우).md" title="wikilink">박정수</a>, <a href="../Page/심양홍.md" title="wikilink">심양홍</a>, <a href="../Page/연운경.md" title="wikilink">연운경</a>,<br />
+<td><p><a href="../Page/박정수_(배우).md" title="wikilink">박정수</a>, <a href="../Page/심양홍.md" title="wikilink">심양홍</a>, <a href="../Page/연운경.md" title="wikilink">연운경</a>, <a href="../Page/백일섭.md" title="wikilink">백일섭</a><br />
 <a href="../Page/이주실.md" title="wikilink">이주실</a>, <a href="../Page/전무송.md" title="wikilink">전무송</a></p></td>
 <td><p>김준섭</p></td>
 <td><p>최용원</p></td>
@@ -1405,7 +1409,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/가위_바위_보_(드라마)" title="wikilink">가위 바위 보</a></p></td>
 <td><p><a href="../Page/김현주_(1964년).md" title="wikilink">김현주</a>, <a href="../Page/이상숙.md" title="wikilink">이상숙</a>, <a href="../Page/연규진.md" title="wikilink">연규진</a>, <a href="../Page/최란.md" title="wikilink">최란</a>,<br />
 <a href="../Page/홍미라.md" title="wikilink">홍미라</a>, <a href="../Page/이인혜.md" title="wikilink">이인혜</a>, <a href="../Page/남윤정.md" title="wikilink">남윤정</a>, <a href="../Page/김지영_(1938년).md" title="wikilink">김지영</a>,<br />
-<a href="../Page/박영태_(배우).md" title="wikilink">박영태</a> , <a href="https://ko.wikipedia.org/wiki/장덕수_(동음이의)" title="wikilink">장덕수</a>, <a href="https://ko.wikipedia.org/wiki/김가은" title="wikilink">김가은</a>, <a href="https://ko.wikipedia.org/wiki/심솔" title="wikilink">심솔</a>,<br />
+<a href="../Page/박영태_(배우).md" title="wikilink">박영태</a> , <a href="../Page/장덕수_(배우).md" title="wikilink">장덕수</a>, <a href="https://ko.wikipedia.org/wiki/김가은" title="wikilink">김가은</a>, <a href="https://ko.wikipedia.org/wiki/심솔" title="wikilink">심솔</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/이경아" title="wikilink">이경아</a></p></td>
 <td><p>이금주</p></td>
 <td><p>최용원</p></td>
@@ -1415,7 +1419,7 @@
 <td><p>11월 4일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/천국에서_지옥까지" title="wikilink">천국에서 지옥까지</a></p></td>
 <td><p><a href="../Page/최명수.md" title="wikilink">최명수</a>, <a href="../Page/문미봉.md" title="wikilink">문미봉</a>, <a href="../Page/국정환.md" title="wikilink">국정환</a>, <a href="../Page/양희경.md" title="wikilink">양희경</a>,<br />
-<a href="../Page/송영창.md" title="wikilink">송영창</a>, <a href="../Page/박순천.md" title="wikilink">박순천</a></p></td>
+<a href="../Page/송영창.md" title="wikilink">송영창</a>, <a href="../Page/박순천_(배우).md" title="wikilink">박순천</a></p></td>
 <td><p>박종은</p></td>
 <td><p>최이섭</p></td>
 </tr>
@@ -1472,53 +1476,53 @@
 
 ### 1995년
 
-| 회차   | 방송일     | 작품명                                                                                         | 출연자                                                                                                                                                                                                                | 극본  | 연출  |
-| ---- | ------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- |
-| 164회 | 1월 6일   | [신 자린고비전](https://ko.wikipedia.org/wiki/신_자린고비전 "wikilink")                                 | [주용만](../Page/주용만.md "wikilink"), [임채원](../Page/임채원.md "wikilink")                                                                                                                                                 | 이금주 | 최용원 |
-| 165회 | 1월 13일  | [젯트 기류](https://ko.wikipedia.org/wiki/젯트_기류 "wikilink")                                     |                                                                                                                                                                                                                    | 이종옥 | 이대영 |
-| 166회 | 1월 20일  | [신데렐라는 더이상 여기에 살지 않는다](https://ko.wikipedia.org/wiki/신데렐라는_더이상_여기에_살지_않는다 "wikilink")       | [지수원](../Page/지수원.md "wikilink")                                                                                                                                                                                   | 임채준 | 최이섭 |
-| 167회 | 1월 27일  | [후천성 믿음 결핍증](https://ko.wikipedia.org/wiki/후천성_믿음_결핍증 "wikilink")                           |                                                                                                                                                                                                                    | 김영찬 | 이창섭 |
-| 168회 | 2월 10일  | [통 큰 남자 간 큰 남자](https://ko.wikipedia.org/wiki/통_큰_남자_간_큰_남자 "wikilink")                     |                                                                                                                                                                                                                    | 권인찬 | 김준호 |
-| 169회 | 2월 17일  | [유혹](https://ko.wikipedia.org/wiki/유혹_\(1995년_드라마\) "wikilink")                             |                                                                                                                                                                                                                    | 박예랑 | 김남원 |
-| 170회 | 2월 24일  | [엇박자 듀엣](https://ko.wikipedia.org/wiki/엇박자_듀엣 "wikilink")                                   |                                                                                                                                                                                                                    | 이형도 | 권이상 |
-| 171회 | 3월 3일   | [좁은 문](../Page/좁은_문.md "wikilink")                                                          | [구봉서](../Page/구봉서.md "wikilink"), [길용우](../Page/길용우.md "wikilink"), [김호영](../Page/김호영.md "wikilink"), [이정규](../Page/이정규.md "wikilink")                                                                             | 김태관 | 최창욱 |
-| 172회 | 3월 10일  | [우리들의 얼굴](https://ko.wikipedia.org/wiki/우리들의_얼굴 "wikilink")                                 |                                                                                                                                                                                                                    | 이금주 | 최용원 |
-| 173회 | 3월 17일  | [자유선언](../Page/자유선언.md "wikilink")                                                          | [박선영](../Page/박선영_\(1976년_배우\).md "wikilink"), [우희진](../Page/우희진.md "wikilink"), [유태웅](../Page/유태웅.md "wikilink")                                                                                                  | 하명희 | 이대영 |
-| 174회 | 3월 24일  | [아내의 비밀](https://ko.wikipedia.org/wiki/아내의_비밀 "wikilink")                                   |                                                                                                                                                                                                                    | 박종은 | 최이섭 |
-| 175회 | 3월 31일  | [스스로 신화가 된 여자](https://ko.wikipedia.org/wiki/스스로_신화가_된_여자 "wikilink")                       | [금보라](../Page/금보라.md "wikilink"), [김동현](../Page/김동현.md "wikilink")                                                                                                                                                 | 유갑렬 | 최이섭 |
-| 176회 | 4월 7일   | [무지개 위의 삼중주](https://ko.wikipedia.org/wiki/무지개_위의_삼중주 "wikilink")                           |                                                                                                                                                                                                                    | 여혜영 | 최창욱 |
-| 177회 | 4월 14일  | [마누라 지갑 털기](https://ko.wikipedia.org/wiki/마누라_지갑_털기 "wikilink")                             | [정한용](../Page/정한용.md "wikilink")                                                                                                                                                                                   | 심응찬 | 오현창 |
-| 178회 | 4월 21일  | [아델라이데](https://ko.wikipedia.org/wiki/아델라이데 "wikilink")                                     | [이주미](https://ko.wikipedia.org/wiki/이주미 "wikilink"), [성현아](../Page/성현아.md "wikilink"), [송재호](../Page/송재호.md "wikilink"), [최영재](https://ko.wikipedia.org/wiki/최영재 "wikilink")                                       | 이금주 | 최용원 |
-| 179회 | 4월 28일  | [제부도](../Page/제부도_\(드라마\).md "wikilink")                                                    | [이아로](https://ko.wikipedia.org/wiki/이아로 "wikilink"), [박찬환](../Page/박찬환.md "wikilink")                                                                                                                              | 하명희 | 이대영 |
-| 180회 | 5월 5일   | [크레파스와 담배](https://ko.wikipedia.org/wiki/크레파스와_담배 "wikilink")                               | [현석](https://ko.wikipedia.org/wiki/현석 "wikilink"), [홍진희](../Page/홍진희.md "wikilink"), [박주아](https://ko.wikipedia.org/wiki/박주아 "wikilink"), [김영옥](https://ko.wikipedia.org/wiki/김영옥 "wikilink")                      | 김지숙 | 김사현 |
-| 181회 | 5월 19일  | [봄을 탄다](../Page/봄을_탄다.md "wikilink")                                                        |                                                                                                                                                                                                                    | 하명희 | 이창섭 |
-| 182회 | 6월 2일   | [사랑이 흔들릴 때](https://ko.wikipedia.org/wiki/사랑이_흔들릴_때 "wikilink")                             | [황신혜](../Page/황신혜.md "wikilink"), [이효정](../Page/이효정_\(1961년\).md "wikilink")                                                                                                                                       | 정성주 | 이창순 |
-| 183회 | 6월 9일   | [달수의 재판](https://ko.wikipedia.org/wiki/달수의_재판 "wikilink")                                   | [강남길](../Page/강남길.md "wikilink"), [김동수](https://ko.wikipedia.org/wiki/김동수 "wikilink"), [김애경](../Page/김애경.md "wikilink"), [홍승기](https://ko.wikipedia.org/wiki/홍승기 "wikilink")                                       | 김선영 | 오현창 |
-| 184회 | 6월 16일  | [묻어버린 세월](https://ko.wikipedia.org/wiki/묻어버린_세월 "wikilink")                                 |                                                                                                                                                                                                                    | 이종욱 | 최용원 |
-| 185회 | 6월 23일  | [그 아버지에 그 아들](https://ko.wikipedia.org/wiki/그_아버지에_그_아들 "wikilink")                         |                                                                                                                                                                                                                    | 박종은 | 최이섭 |
-| 186회 | 6월 30일  | [길 위의 여자](https://ko.wikipedia.org/wiki/길_위의_여자_\(1995년_드라마\) "wikilink")                   |                                                                                                                                                                                                                    | 이란  | 김준호 |
-| 187회 | 7월 7일   | [비련](https://ko.wikipedia.org/wiki/비련_\(드라마\) "wikilink")                                   | [이정희](https://ko.wikipedia.org/wiki/이정희 "wikilink")                                                                                                                                                                | 정성주 | 이창순 |
-| 188회 | 7월 14일  | [섹스 모자이크에 관한 보고서](https://ko.wikipedia.org/wiki/섹스_모자이크에_관한_보고서 "wikilink")                 | [정한용](../Page/정한용.md "wikilink"), [배종옥](../Page/배종옥.md "wikilink"), [김창완](../Page/김창완.md "wikilink"), [김동수](https://ko.wikipedia.org/wiki/김동수 "wikilink")                                                          | 김선영 | 오현창 |
-| 189회 | 7월 21일  | [건맨](https://ko.wikipedia.org/wiki/건맨_\(드라마\) "wikilink")                                   |                                                                                                                                                                                                                    | 송민호 | 김사현 |
-| 190회 | 7월 28일  | [스물여섯 쉰둘](https://ko.wikipedia.org/wiki/스물여섯_쉰둘 "wikilink")                                 | [이상아](../Page/이상아.md "wikilink"), [명로진](../Page/명로진.md "wikilink"), [김창숙](https://ko.wikipedia.org/wiki/김창숙_\(배우\) "wikilink")                                                                                     | 한혜규 | 박성수 |
-| 191회 | 8월 11일  | [특별한 유혹](https://ko.wikipedia.org/wiki/특별한_유혹 "wikilink")                                   | [김진아](https://ko.wikipedia.org/wiki/김진아 "wikilink"), [김성일](https://ko.wikipedia.org/wiki/김성일 "wikilink"), [송영창](../Page/송영창.md "wikilink")                                                                         | 오계진 | 최이섭 |
-| 192회 | 8월 18일  | [노란 나비 노란 꽃에](https://ko.wikipedia.org/wiki/노란_나비_노란_꽃에 "wikilink")                         | [홍리나](../Page/홍리나.md "wikilink"), [윤철형](../Page/윤철형.md "wikilink")                                                                                                                                                 | 김오민 | 김준호 |
-| 193회 | 8월 25일  | [인연](../Page/인연_\(드라마\).md "wikilink")                                                      |                                                                                                                                                                                                                    | 이경희 | 이창순 |
-| 194회 | 9월 1일   | [호스피스 아줌마](https://ko.wikipedia.org/wiki/호스피스_아줌마 "wikilink")                               | [윤여정](../Page/윤여정.md "wikilink"), [김창숙](https://ko.wikipedia.org/wiki/김창숙_\(배우\) "wikilink"), [장용](https://ko.wikipedia.org/wiki/장용 "wikilink")                                                                    | 김진숙 | 오현창 |
-| 195회 | 9월 15일  | [약속](https://ko.wikipedia.org/wiki/약속_\(1995년_드라마\) "wikilink")                             | [김수정](https://ko.wikipedia.org/wiki/김수정_\(1976년\) "wikilink")                                                                                                                                                      | 정현숙 | 김사현 |
-| 196회 | 9월 21일  | [웨딩드레스](https://ko.wikipedia.org/wiki/웨딩드레스_\(1995년_드라마\) "wikilink")                       |                                                                                                                                                                                                                    | 김준섭 | 최용원 |
-| 197회 | 9월 29일  | [두 여자의 사랑](https://ko.wikipedia.org/wiki/두_여자의_사랑 "wikilink")                               |                                                                                                                                                                                                                    | 정미정 | 이대영 |
-| 198회 | 10월 6일  | [서울 블루스](https://ko.wikipedia.org/wiki/서울_블루스 "wikilink")                                   | [조형기](../Page/조형기.md "wikilink"), [정성모](../Page/정성모.md "wikilink"), [홍리나](../Page/홍리나.md "wikilink")                                                                                                               | 이정선 | 김윤철 |
-| 199회 | 10월 13일 | [예수가 떠난 후 남자들은 다시 돌을 던졌다](https://ko.wikipedia.org/wiki/예수가_떠난_후_남자들은_다시_돌을_던졌다 "wikilink") | [김진아](https://ko.wikipedia.org/wiki/김진아 "wikilink"), [김상중](../Page/김상중.md "wikilink")                                                                                                                              | 임채준 | 최이섭 |
-| 200회 | 10월 20일 | [휘파람 골짜기](https://ko.wikipedia.org/wiki/휘파람_골짜기 "wikilink")                                 | [홍성민](https://ko.wikipedia.org/wiki/홍성민 "wikilink"), [김수진](https://ko.wikipedia.org/wiki/김수진 "wikilink"), [문용민](https://ko.wikipedia.org/wiki/문용민 "wikilink"), [이원용](https://ko.wikipedia.org/wiki/이원용 "wikilink") | 서희정 | 최명규 |
-| 201회 | 10월 27일 | [무채색 기행](https://ko.wikipedia.org/wiki/무채색_기행 "wikilink")                                   | [우연희](https://ko.wikipedia.org/wiki/우연희 "wikilink"), [이동신](../Page/이동신.md "wikilink"), [최종환](https://ko.wikipedia.org/wiki/최종환 "wikilink")                                                                         | 김오민 | 이창섭 |
-| 202회 | 11월 10일 | [엄마가 없으면 우리는 행복하다](https://ko.wikipedia.org/wiki/엄마가_없으면_우리는_행복하다 "wikilink")               | [윤미라](../Page/윤미라.md "wikilink"), [연규진](../Page/연규진.md "wikilink"), [구봉서](../Page/구봉서.md "wikilink")                                                                                                               | 이란  | 권이상 |
-| 203회 | 11월 17일 | [사랑한다면](https://ko.wikipedia.org/wiki/사랑한다면_\(1995년_드라마\) "wikilink")                       | [배종옥](../Page/배종옥.md "wikilink"), [최민식](../Page/최민식.md "wikilink"), [이재룡](../Page/이재룡.md "wikilink")                                                                                                               | 이정선 | 이창순 |
-| 204회 | 11월 24일 | [달수의 집짓기](https://ko.wikipedia.org/wiki/달수의_집짓기 "wikilink")                                 | [강남길](../Page/강남길.md "wikilink")                                                                                                                                                                                   | 김선영 | 오현창 |
-| 205회 | 12월 8일  | [이혼보고서](https://ko.wikipedia.org/wiki/이혼보고서 "wikilink")                                     | [김동현](../Page/김동현.md "wikilink"), [양미경](../Page/양미경.md "wikilink")                                                                                                                                                 | 김정현 | 장근수 |
-| 206회 | 12월 15일 | [비가 와도 젖은 자는 다시 젖지 않는다](https://ko.wikipedia.org/wiki/비가_와도_젖은_자는_다시_젖지_않는다 "wikilink")     | [김상중](../Page/김상중.md "wikilink"), [최종환](https://ko.wikipedia.org/wiki/최종환 "wikilink"), [김세준](../Page/김세준.md "wikilink"), [김서라](../Page/김서라.md "wikilink")                                                          | 김금순 | 이대영 |
-| 207회 | 12월 22일 | [압구정동 황진이](https://ko.wikipedia.org/wiki/압구정동_황진이 "wikilink")                               | [윤해영](https://ko.wikipedia.org/wiki/윤해영 "wikilink"), [최명수](../Page/최명수.md "wikilink")                                                                                                                              | 임채준 | 최이섭 |
-|      |         |                                                                                             |                                                                                                                                                                                                                    |     |     |
+| 회차   | 방송일     | 작품명                                                                                         | 출연자                                                                                                                                                                                           | 극본  | 연출  |
+| ---- | ------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| 164회 | 1월 6일   | [신 자린고비전](https://ko.wikipedia.org/wiki/신_자린고비전 "wikilink")                                 | [주용만](../Page/주용만.md "wikilink"), [임경옥](../Page/임채원.md "wikilink")                                                                                                                            | 이금주 | 최용원 |
+| 165회 | 1월 13일  | [젯트 기류](https://ko.wikipedia.org/wiki/젯트_기류 "wikilink")                                     |                                                                                                                                                                                               | 이종옥 | 이대영 |
+| 166회 | 1월 20일  | [신데렐라는 더이상 여기에 살지 않는다](https://ko.wikipedia.org/wiki/신데렐라는_더이상_여기에_살지_않는다 "wikilink")       | [지수원](../Page/지수원.md "wikilink")                                                                                                                                                              | 임채준 | 최이섭 |
+| 167회 | 1월 27일  | [후천성 믿음 결핍증](https://ko.wikipedia.org/wiki/후천성_믿음_결핍증 "wikilink")                           |                                                                                                                                                                                               | 김영찬 | 이창섭 |
+| 168회 | 2월 10일  | [통 큰 남자 간 큰 남자](https://ko.wikipedia.org/wiki/통_큰_남자_간_큰_남자 "wikilink")                     |                                                                                                                                                                                               | 권인찬 | 김준호 |
+| 169회 | 2월 17일  | [유혹](https://ko.wikipedia.org/wiki/유혹_\(1995년_드라마\) "wikilink")                             |                                                                                                                                                                                               | 박예랑 | 김남원 |
+| 170회 | 2월 24일  | [엇박자 듀엣](https://ko.wikipedia.org/wiki/엇박자_듀엣 "wikilink")                                   |                                                                                                                                                                                               | 이형도 | 권이상 |
+| 171회 | 3월 3일   | [좁은 문](../Page/좁은_문.md "wikilink")                                                          | [구봉서](../Page/구봉서.md "wikilink"), [길용우](../Page/길용우.md "wikilink"), [김호영](../Page/김호영.md "wikilink"), [이정규](../Page/이정규.md "wikilink")                                                        | 김태관 | 최창욱 |
+| 172회 | 3월 10일  | [우리들의 얼굴](https://ko.wikipedia.org/wiki/우리들의_얼굴 "wikilink")                                 |                                                                                                                                                                                               | 이금주 | 최용원 |
+| 173회 | 3월 17일  | [자유선언](../Page/자유선언.md "wikilink")                                                          | [박선영](../Page/박선영_\(1976년_배우\).md "wikilink"), [우희진](../Page/우희진.md "wikilink"), [유태웅](../Page/유태웅.md "wikilink")                                                                             | 하명희 | 이대영 |
+| 174회 | 3월 24일  | [아내의 비밀](https://ko.wikipedia.org/wiki/아내의_비밀 "wikilink")                                   |                                                                                                                                                                                               | 박종은 | 최이섭 |
+| 175회 | 3월 31일  | [스스로 신화가 된 여자](https://ko.wikipedia.org/wiki/스스로_신화가_된_여자 "wikilink")                       | [금보라](../Page/금보라.md "wikilink"), [김동현](../Page/김동현_\(1950년\).md "wikilink"), [김찬우](../Page/김찬우_\(배우\).md "wikilink")                                                                         | 유갑렬 | 최이섭 |
+| 176회 | 4월 7일   | [무지개 위의 삼중주](https://ko.wikipedia.org/wiki/무지개_위의_삼중주 "wikilink")                           |                                                                                                                                                                                               | 여혜영 | 최창욱 |
+| 177회 | 4월 14일  | [마누라 지갑 털기](https://ko.wikipedia.org/wiki/마누라_지갑_털기 "wikilink")                             | [정한용](../Page/정한용.md "wikilink")                                                                                                                                                              | 심응찬 | 오현창 |
+| 178회 | 4월 21일  | [아델라이데](https://ko.wikipedia.org/wiki/아델라이데 "wikilink")                                     | [이주미](https://ko.wikipedia.org/wiki/이주미 "wikilink"), [성현아](../Page/성현아.md "wikilink"), [송재호](../Page/송재호.md "wikilink"), [최영재](https://ko.wikipedia.org/wiki/최영재 "wikilink")                  | 이금주 | 최용원 |
+| 179회 | 4월 28일  | [제부도](../Page/제부도_\(드라마\).md "wikilink")                                                    | [이아로](https://ko.wikipedia.org/wiki/이아로 "wikilink"), [박찬환](../Page/박찬환.md "wikilink")                                                                                                         | 하명희 | 이대영 |
+| 180회 | 5월 5일   | [크레파스와 담배](https://ko.wikipedia.org/wiki/크레파스와_담배 "wikilink")                               | [현석](../Page/현석_\(배우\).md "wikilink"), [홍진희](../Page/홍진희.md "wikilink"), [박주아](../Page/박주아_\(배우\).md "wikilink"), [김영옥](../Page/김영옥_\(배우\).md "wikilink")                                     | 김지숙 | 김사현 |
+| 181회 | 5월 19일  | [봄을 탄다](../Page/봄을_탄다.md "wikilink")                                                        |                                                                                                                                                                                               | 하명희 | 이창섭 |
+| 182회 | 6월 2일   | [사랑이 흔들릴 때](https://ko.wikipedia.org/wiki/사랑이_흔들릴_때 "wikilink")                             | [황신혜](../Page/황신혜.md "wikilink"), [이효정](../Page/이효정_\(1961년\).md "wikilink")                                                                                                                  | 정성주 | 이창순 |
+| 183회 | 6월 9일   | [달수의 재판](https://ko.wikipedia.org/wiki/달수의_재판 "wikilink")                                   | [강남길](../Page/강남길.md "wikilink"), [김동수](../Page/김동수_\(1947년\).md "wikilink"), [김애경](../Page/김애경.md "wikilink"), [홍승기](https://ko.wikipedia.org/wiki/홍승기 "wikilink")                           | 김선영 | 오현창 |
+| 184회 | 6월 16일  | [묻어버린 세월](https://ko.wikipedia.org/wiki/묻어버린_세월 "wikilink")                                 |                                                                                                                                                                                               | 이종욱 | 최용원 |
+| 185회 | 6월 23일  | [그 아버지에 그 아들](https://ko.wikipedia.org/wiki/그_아버지에_그_아들 "wikilink")                         |                                                                                                                                                                                               | 박종은 | 최이섭 |
+| 186회 | 6월 30일  | [길 위의 여자](https://ko.wikipedia.org/wiki/길_위의_여자_\(1995년_드라마\) "wikilink")                   |                                                                                                                                                                                               | 이란  | 김준호 |
+| 187회 | 7월 7일   | [비련](https://ko.wikipedia.org/wiki/비련_\(드라마\) "wikilink")                                   | [이정희](https://ko.wikipedia.org/wiki/이정희 "wikilink")                                                                                                                                           | 정성주 | 이창순 |
+| 188회 | 7월 14일  | [섹스 모자이크에 관한 보고서](https://ko.wikipedia.org/wiki/섹스_모자이크에_관한_보고서 "wikilink")                 | [정한용](../Page/정한용.md "wikilink"), [배종옥](../Page/배종옥.md "wikilink"), [김창완](../Page/김창완.md "wikilink"), [김동수](../Page/김동수_\(1970년\).md "wikilink")                                              | 김선영 | 오현창 |
+| 189회 | 7월 21일  | [건맨](https://ko.wikipedia.org/wiki/건맨_\(드라마\) "wikilink")                                   |                                                                                                                                                                                               | 송민호 | 김사현 |
+| 190회 | 7월 28일  | [스물여섯 쉰둘](https://ko.wikipedia.org/wiki/스물여섯_쉰둘 "wikilink")                                 | [이상아](../Page/이상아.md "wikilink"), [명로진](../Page/명로진.md "wikilink"), [김창숙](https://ko.wikipedia.org/wiki/김창숙_\(배우\) "wikilink")                                                                | 한혜규 | 박성수 |
+| 191회 | 8월 11일  | [특별한 유혹](https://ko.wikipedia.org/wiki/특별한_유혹 "wikilink")                                   | [김진아](https://ko.wikipedia.org/wiki/김진아 "wikilink"), [김성일](https://ko.wikipedia.org/wiki/김성일 "wikilink"), [송영창](../Page/송영창.md "wikilink")                                                    | 오계진 | 최이섭 |
+| 192회 | 8월 18일  | [노란 나비 노란 꽃에](https://ko.wikipedia.org/wiki/노란_나비_노란_꽃에 "wikilink")                         | [홍리나](../Page/홍리나.md "wikilink"), [윤철형](../Page/윤철형.md "wikilink")                                                                                                                            | 김오민 | 김준호 |
+| 193회 | 8월 25일  | [인연](../Page/인연_\(드라마\).md "wikilink")                                                      |                                                                                                                                                                                               | 이경희 | 이창순 |
+| 194회 | 9월 1일   | [호스피스 아줌마](https://ko.wikipedia.org/wiki/호스피스_아줌마 "wikilink")                               | [윤여정](../Page/윤여정.md "wikilink"), [김창숙](https://ko.wikipedia.org/wiki/김창숙_\(배우\) "wikilink"), [장용](../Page/장용_\(배우\).md "wikilink")                                                           | 김진숙 | 오현창 |
+| 195회 | 9월 15일  | [약속](https://ko.wikipedia.org/wiki/약속_\(1995년_드라마\) "wikilink")                             | [김수정](https://ko.wikipedia.org/wiki/김수정_\(1976년\) "wikilink"), [이경심](../Page/이경심.md "wikilink"), [신구](../Page/신구_\(배우\).md "wikilink")                                                        | 정현숙 | 김사현 |
+| 196회 | 9월 21일  | [웨딩드레스](https://ko.wikipedia.org/wiki/웨딩드레스_\(1995년_드라마\) "wikilink")                       |                                                                                                                                                                                               | 김준섭 | 최용원 |
+| 197회 | 9월 29일  | [두 여자의 사랑](https://ko.wikipedia.org/wiki/두_여자의_사랑 "wikilink")                               |                                                                                                                                                                                               | 정미정 | 이대영 |
+| 198회 | 10월 6일  | [서울 블루스](https://ko.wikipedia.org/wiki/서울_블루스 "wikilink")                                   | [조형기](../Page/조형기.md "wikilink"), [정성모](../Page/정성모.md "wikilink"), [홍리나](../Page/홍리나.md "wikilink")                                                                                          | 이정선 | 김윤철 |
+| 199회 | 10월 13일 | [예수가 떠난 후 남자들은 다시 돌을 던졌다](https://ko.wikipedia.org/wiki/예수가_떠난_후_남자들은_다시_돌을_던졌다 "wikilink") | [김진아](https://ko.wikipedia.org/wiki/김진아 "wikilink"), [김상중](../Page/김상중.md "wikilink")                                                                                                         | 임채준 | 최이섭 |
+| 200회 | 10월 20일 | [휘파람 골짜기](https://ko.wikipedia.org/wiki/휘파람_골짜기 "wikilink")                                 | [홍성민](https://ko.wikipedia.org/wiki/홍성민 "wikilink"), [김수진](https://ko.wikipedia.org/wiki/김수진 "wikilink"), [문용민](../Page/문용민_\(배우\).md "wikilink"), [이원용](../Page/이원용_\(1958년\).md "wikilink") | 서희정 | 최명규 |
+| 201회 | 10월 27일 | [무채색 기행](https://ko.wikipedia.org/wiki/무채색_기행 "wikilink")                                   | [우연희](https://ko.wikipedia.org/wiki/우연희 "wikilink"), [이동신](../Page/이동신.md "wikilink"), [최종환](../Page/최종환_\(배우\).md "wikilink")                                                                | 김오민 | 이창섭 |
+| 202회 | 11월 10일 | [엄마가 없으면 우리는 행복하다](https://ko.wikipedia.org/wiki/엄마가_없으면_우리는_행복하다 "wikilink")               | [윤미라](../Page/윤미라.md "wikilink"), [연규진](../Page/연규진.md "wikilink"), [구봉서](../Page/구봉서.md "wikilink")                                                                                          | 이란  | 권이상 |
+| 203회 | 11월 17일 | [사랑한다면](https://ko.wikipedia.org/wiki/사랑한다면_\(1995년_드라마\) "wikilink")                       | [배종옥](../Page/배종옥.md "wikilink"), [최민식](../Page/최민식.md "wikilink"), [이재룡](../Page/이재룡.md "wikilink")                                                                                          | 이정선 | 이창순 |
+| 204회 | 11월 24일 | [달수의 집짓기](https://ko.wikipedia.org/wiki/달수의_집짓기 "wikilink")                                 | [강남길](../Page/강남길.md "wikilink")                                                                                                                                                              | 김선영 | 오현창 |
+| 205회 | 12월 8일  | [이혼보고서](https://ko.wikipedia.org/wiki/이혼보고서 "wikilink")                                     | [김동현](../Page/김동현.md "wikilink"), [양미경](../Page/양미경.md "wikilink")                                                                                                                            | 김정현 | 장근수 |
+| 206회 | 12월 15일 | [비가 와도 젖은 자는 다시 젖지 않는다](https://ko.wikipedia.org/wiki/비가_와도_젖은_자는_다시_젖지_않는다 "wikilink")     | [김상중](../Page/김상중.md "wikilink"), [최종환](../Page/최종환_\(배우\).md "wikilink"), [김세준](../Page/김세준.md "wikilink"), [김서라](../Page/김서라.md "wikilink")                                                 | 김금순 | 이대영 |
+| 207회 | 12월 22일 | [압구정동 황진이](https://ko.wikipedia.org/wiki/압구정동_황진이 "wikilink")                               | [윤해영](https://ko.wikipedia.org/wiki/윤해영 "wikilink"), [최명수](../Page/최명수.md "wikilink")                                                                                                         | 임채준 | 최이섭 |
+|      |         |                                                                                             |                                                                                                                                                                                               |     |     |
 
 ### 1996년
 
@@ -1570,7 +1574,7 @@
 <td><p>212회</p></td>
 <td><p>2월 2일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/40년_만의_편지" title="wikilink">40년 만의 편지</a></p></td>
-<td><p><a href="../Page/김흥기.md" title="wikilink">김흥기</a>, <a href="../Page/김형자.md" title="wikilink">김형자</a>, <a href="../Page/임채원.md" title="wikilink">임채원</a>, <a href="https://ko.wikipedia.org/wiki/홍성민" title="wikilink">홍성민</a></p></td>
+<td><p><a href="../Page/김흥기.md" title="wikilink">김흥기</a>, <a href="../Page/김형자.md" title="wikilink">김형자</a>, <a href="../Page/임채원.md" title="wikilink">임경옥</a>, <a href="../Page/홍성민_(배우).md" title="wikilink">홍성민</a></p></td>
 <td><p>이권자</p></td>
 <td><p>이유황</p></td>
 </tr>
@@ -1586,7 +1590,7 @@
 <td><p>214회</p></td>
 <td><p>2월 16일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/못찾겠다_꾀꼬리" title="wikilink">못찾겠다 꾀꼬리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김영옥" title="wikilink">김영옥</a>, <a href="../Page/전운.md" title="wikilink">전운</a>, <a href="../Page/윤예희.md" title="wikilink">윤예희</a></p></td>
+<td><p><a href="../Page/김영옥_(배우).md" title="wikilink">김영옥</a>, <a href="../Page/전운.md" title="wikilink">전운</a>, <a href="../Page/윤예희.md" title="wikilink">윤예희</a></p></td>
 <td><p>김오민</p></td>
 <td><p>김준호</p></td>
 </tr>
@@ -1650,7 +1654,7 @@
 <td><p>222회</p></td>
 <td><p>4월 26일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미완성_누드" title="wikilink">미완성 누드</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박은영" title="wikilink">박은영</a>, <a href="../Page/김병세.md" title="wikilink">김병세</a>, <a href="https://ko.wikipedia.org/wiki/최종환" title="wikilink">최종환</a>, <a href="../Page/이주경.md" title="wikilink">이주경</a></p></td>
+<td><p><a href="../Page/박은영_(배우).md" title="wikilink">박은영</a>, <a href="../Page/김병세.md" title="wikilink">김병세</a>, <a href="../Page/최종환_(배우).md" title="wikilink">최종환</a>, <a href="../Page/이주경.md" title="wikilink">이주경</a></p></td>
 <td><p>임채준</p></td>
 <td><p>이주환</p></td>
 </tr>
@@ -1658,7 +1662,7 @@
 <td><p>223회</p></td>
 <td><p>5월 3일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/달수_아들_학교_가다" title="wikilink">달수 아들 학교 가다</a></p></td>
-<td><p><a href="../Page/강남길.md" title="wikilink">강남길</a>, <a href="../Page/임예진.md" title="wikilink">임예진</a>, <a href="../Page/조형기.md" title="wikilink">조형기</a>, <a href="https://ko.wikipedia.org/wiki/현석" title="wikilink">현석</a></p></td>
+<td><p><a href="../Page/강남길.md" title="wikilink">강남길</a>, <a href="../Page/임예진.md" title="wikilink">임예진</a>, <a href="../Page/조형기.md" title="wikilink">조형기</a>, <a href="../Page/현석_(배우).md" title="wikilink">현석</a></p></td>
 <td><p>김경희</p></td>
 <td><p>오현창</p></td>
 </tr>
@@ -1666,7 +1670,7 @@
 <td><p>224회</p></td>
 <td><p>5월 10일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/문간방_여자" title="wikilink">문간방 여자</a></p></td>
-<td><p><a href="../Page/김창완.md" title="wikilink">김창완</a>, <a href="../Page/조양자.md" title="wikilink">조양자</a>, <a href="https://ko.wikipedia.org/wiki/조명연" title="wikilink">조명연</a>, <a href="https://ko.wikipedia.org/wiki/김지영" title="wikilink">김지영</a></p></td>
+<td><p><a href="../Page/김창완.md" title="wikilink">김창완</a>, <a href="../Page/조양자.md" title="wikilink">조양자</a>, <a href="https://ko.wikipedia.org/wiki/조명연" title="wikilink">조명연</a>, <a href="https://ko.wikipedia.org/wiki/김지영_(1937년)" title="wikilink">김지영</a></p></td>
 <td><p>박예랑</p></td>
 <td><p>김남원</p></td>
 </tr>
@@ -1690,7 +1694,7 @@
 <td><p>227회</p></td>
 <td><p>6월 7일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/도깨비집" title="wikilink">도깨비집</a></p></td>
-<td><p><a href="../Page/고두심.md" title="wikilink">고두심</a>, <a href="../Page/윤철형.md" title="wikilink">윤철형</a>, <a href="https://ko.wikipedia.org/wiki/김현숙" title="wikilink">김현숙</a>, <a href="../Page/나경미.md" title="wikilink">나경미</a></p></td>
+<td><p><a href="../Page/고두심.md" title="wikilink">고두심</a>, <a href="../Page/윤철형.md" title="wikilink">윤철형</a>, <a href="../Page/김현숙_(1971년).md" title="wikilink">김현숙</a>, <a href="../Page/나경미.md" title="wikilink">나경미</a></p></td>
 <td><p>서희정</p></td>
 <td><p>권이상</p></td>
 </tr>
@@ -1706,7 +1710,7 @@
 <td><p>229회</p></td>
 <td><p>6월 21일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/굴_지나가기" title="wikilink">굴 지나가기</a></p></td>
-<td><p><a href="../Page/임현식.md" title="wikilink">임현식</a>, <a href="https://ko.wikipedia.org/wiki/김동주" title="wikilink">김동주</a>, <a href="../Page/이주경.md" title="wikilink">이주경</a>, <a href="../Page/정승호.md" title="wikilink">정승호</a></p></td>
+<td><p><a href="../Page/임현식.md" title="wikilink">임현식</a>, <a href="../Page/김동주_(배우).md" title="wikilink">김동주</a>, <a href="../Page/이주경.md" title="wikilink">이주경</a>, <a href="../Page/정승호.md" title="wikilink">정승호</a></p></td>
 <td><p>심응찬</p></td>
 <td><p>임화민</p></td>
 </tr>
@@ -1738,7 +1742,7 @@
 <td><p>233회</p></td>
 <td><p>7월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/다섯_마리_강아지" title="wikilink">다섯 마리 강아지</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김민희" title="wikilink">김민희</a>, <a href="../Page/김자옥.md" title="wikilink">김자옥</a>, <a href="../Page/김동현.md" title="wikilink">김동현</a>, <a href="../Page/손숙.md" title="wikilink">손숙</a>,<br />
+<td><p><a href="../Page/염홍.md" title="wikilink">김민희</a>, <a href="../Page/김자옥.md" title="wikilink">김자옥</a>, <a href="../Page/김동현_(1950년).md" title="wikilink">김동현</a>, <a href="../Page/손숙.md" title="wikilink">손숙</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/김승현" title="wikilink">김승현</a></p></td>
 <td><p>오계진</p></td>
 <td><p>권이상</p></td>
@@ -1755,7 +1759,7 @@
 <td><p>235회</p></td>
 <td><p>8월 9일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사진을_만난_남자" title="wikilink">사진을 만난 남자</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박세준" title="wikilink">박세준</a>, <a href="https://ko.wikipedia.org/wiki/정호근" title="wikilink">정호근</a></p></td>
+<td><p><a href="../Page/박세준_(배우).md" title="wikilink">박세준</a>, <a href="../Page/정호근_(배우).md" title="wikilink">정호근</a></p></td>
 <td><p>송민호</p></td>
 <td><p>박종</p></td>
 </tr>
@@ -1804,7 +1808,7 @@
 <td><p>241회</p></td>
 <td><p>9월 20일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/합장_(드라마)" title="wikilink">합장</a></p></td>
-<td><p><a href="../Page/박규채.md" title="wikilink">박규채</a>, <a href="../Page/김용림.md" title="wikilink">김용림</a>, <a href="../Page/양희경.md" title="wikilink">양희경</a>, <a href="https://ko.wikipedia.org/wiki/박성미" title="wikilink">박성미</a>,<br />
+<td><p><a href="../Page/박규채.md" title="wikilink">박규채</a>, <a href="../Page/김용림.md" title="wikilink">김용림</a>, <a href="../Page/양희경.md" title="wikilink">양희경</a>, <a href="../Page/박성미_(배우).md" title="wikilink">박성미</a>,<br />
 <a href="../Page/윤예희.md" title="wikilink">윤예희</a></p></td>
 <td><p>홍애경</p></td>
 <td><p>오현창</p></td>
@@ -1829,7 +1833,7 @@
 <td><p>244회</p></td>
 <td><p>10월 18일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고리_(드라마)" title="wikilink">고리</a></p></td>
-<td><p><a href="../Page/정경순.md" title="wikilink">정경순</a>, <a href="../Page/전인택.md" title="wikilink">전인택</a>, <a href="https://ko.wikipedia.org/wiki/김영옥" title="wikilink">김영옥</a></p></td>
+<td><p><a href="../Page/정경순.md" title="wikilink">정경순</a>, <a href="../Page/전인택.md" title="wikilink">전인택</a>, <a href="../Page/김영옥_(배우).md" title="wikilink">김영옥</a></p></td>
 <td><p>이송정</p></td>
 <td><p>김남원</p></td>
 </tr>
@@ -1845,7 +1849,7 @@
 <td><p>246회</p></td>
 <td><p>11월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/나,_28세_미혼" title="wikilink">나, 28세 미혼</a></p></td>
-<td><p><a href="../Page/김혜리_(배우).md" title="wikilink">김혜리</a>, <a href="../Page/이응경.md" title="wikilink">이응경</a>, <a href="https://ko.wikipedia.org/wiki/이진우" title="wikilink">이진우</a>, <a href="../Page/김규철.md" title="wikilink">김규철</a></p></td>
+<td><p><a href="../Page/김혜리_(배우).md" title="wikilink">김혜리</a>, <a href="../Page/이응경.md" title="wikilink">이응경</a>, <a href="../Page/이진우_(배우).md" title="wikilink">이진우</a>, <a href="../Page/김규철.md" title="wikilink">김규철</a></p></td>
 <td><p>김선영</p></td>
 <td><p>조중현</p></td>
 </tr>
@@ -1862,7 +1866,7 @@
 <td><p>248회</p></td>
 <td><p>11월 15일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/언제나_두_번째_토요일처럼" title="wikilink">언제나 두 번째 토요일처럼</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박진성" title="wikilink">박진성</a>, <a href="../Page/나현희.md" title="wikilink">나현희</a>, <a href="https://ko.wikipedia.org/wiki/김형일" title="wikilink">김형일</a></p></td>
+<td><p><a href="../Page/박진성_(배우).md" title="wikilink">박진성</a>, <a href="../Page/나현희.md" title="wikilink">나현희</a>, <a href="../Page/김형일_(배우).md" title="wikilink">김형일</a></p></td>
 <td><p>송민호</p></td>
 <td><p>이창섭</p></td>
 </tr>
@@ -2039,7 +2043,7 @@
 <td><p>267회</p></td>
 <td><p>4월 18일</p></td>
 <td><p><a href="../Page/마른_꽃.md" title="wikilink">마른 꽃</a></p></td>
-<td><p><a href="../Page/김민자.md" title="wikilink">김민자</a>, <a href="../Page/이순재.md" title="wikilink">이순재</a>, <a href="../Page/선우은숙.md" title="wikilink">선우은숙</a></p></td>
+<td><p><a href="../Page/김민자.md" title="wikilink">김민자</a>, <a href="../Page/이순재.md" title="wikilink">이순재</a>, <a href="../Page/선우은숙.md" title="wikilink">선우은숙</a>, <a href="../Page/사미자.md" title="wikilink">사미자</a></p></td>
 <td><p>박진숙</p></td>
 <td><p>장수봉</p></td>
 </tr>
@@ -2079,7 +2083,7 @@
 <td><p>272회</p></td>
 <td><p>5월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/어느_봄날의_동화" title="wikilink">어느 봄날의 동화</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정욱" title="wikilink">정욱</a>, <a href="../Page/손현주.md" title="wikilink">손현주</a>, <a href="../Page/윤유선.md" title="wikilink">윤유선</a></p></td>
+<td><p><a href="../Page/정욱_(1938년).md" title="wikilink">정욱</a>, <a href="../Page/손현주.md" title="wikilink">손현주</a>, <a href="../Page/윤유선.md" title="wikilink">윤유선</a></p></td>
 <td><p>박찬홍</p></td>
 <td><p>김준호</p></td>
 </tr>
@@ -2103,7 +2107,8 @@
 <td><p>275회</p></td>
 <td><p>6월 13일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/어머니_당신의_이야기" title="wikilink">어머니 당신의 이야기</a></p></td>
-<td><p><a href="../Page/김혜자.md" title="wikilink">김혜자</a>, <a href="../Page/한인수.md" title="wikilink">한인수</a>, <a href="../Page/윤손하.md" title="wikilink">윤손하</a>, <a href="https://ko.wikipedia.org/wiki/김소원" title="wikilink">김소원</a></p></td>
+<td><p><a href="../Page/김혜자.md" title="wikilink">김혜자</a>, <a href="../Page/한인수.md" title="wikilink">한인수</a>, <a href="../Page/윤손하.md" title="wikilink">윤손하</a>, <a href="https://ko.wikipedia.org/wiki/김소원" title="wikilink">김소원</a>,<br />
+<a href="../Page/김진해.md" title="wikilink">김진해</a></p></td>
 <td><p>한재은</p></td>
 <td><p>박성수</p></td>
 </tr>
@@ -2191,7 +2196,7 @@
 <td><p>286회</p></td>
 <td><p>10월 3일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/네발_자전거" title="wikilink">네발 자전거</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유준상" title="wikilink">유준상</a>, <a href="../Page/추상미.md" title="wikilink">추상미</a>, <a href="https://ko.wikipedia.org/wiki/조민희" title="wikilink">조민희</a></p></td>
+<td><p><a href="../Page/유준상_(배우).md" title="wikilink">유준상</a>, <a href="../Page/추상미.md" title="wikilink">추상미</a>, <a href="../Page/조민희_(배우).md" title="wikilink">조민희</a></p></td>
 <td><p>이정선</p></td>
 <td><p>이창섭</p></td>
 </tr>
@@ -2199,7 +2204,7 @@
 <td><p>287회</p></td>
 <td><p>10월 10일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/세탁소에_들러보세요" title="wikilink">세탁소에 들러보세요</a></p></td>
-<td><p><a href="../Page/백일섭.md" title="wikilink">백일섭</a>, <a href="../Page/박인환_(배우).md" title="wikilink">박인환</a>, <a href="../Page/김청.md" title="wikilink">김청</a>, <a href="https://ko.wikipedia.org/wiki/김지영" title="wikilink">김지영</a></p></td>
+<td><p><a href="../Page/백일섭.md" title="wikilink">백일섭</a>, <a href="../Page/박인환_(배우).md" title="wikilink">박인환</a>, <a href="../Page/김청.md" title="wikilink">김청</a>, <a href="../Page/김지영_(1974년).md" title="wikilink">김지영</a></p></td>
 <td><p>지영희</p></td>
 <td><p>한희</p></td>
 </tr>
@@ -2215,7 +2220,7 @@
 <td><p>289회</p></td>
 <td><p>10월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/용서받지_못한_여자" title="wikilink">용서받지 못한 여자</a></p></td>
-<td><p><a href="../Page/김정난.md" title="wikilink">김정난</a>, <a href="https://ko.wikipedia.org/wiki/이정훈" title="wikilink">이정훈</a>, <a href="../Page/김을동.md" title="wikilink">김을동</a>, <a href="../Page/서권순.md" title="wikilink">서권순</a></p></td>
+<td><p><a href="../Page/김정난.md" title="wikilink">김정난</a>, <a href="../Page/이정훈_(배우).md" title="wikilink">이정훈</a>, <a href="../Page/김을동.md" title="wikilink">김을동</a>, <a href="../Page/서권순.md" title="wikilink">서권순</a></p></td>
 <td><p>이한호</p></td>
 <td><p>임화민</p></td>
 </tr>
@@ -2264,7 +2269,7 @@
 <td><p>295회</p></td>
 <td><p>12월 26일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/7일_간의_선택" title="wikilink">7일 간의 선택</a></p></td>
-<td></td>
+<td><p><a href="../Page/김미숙.md" title="wikilink">김미숙</a>, <a href="../Page/임채무.md" title="wikilink">임채무</a>, <a href="../Page/정동환.md" title="wikilink">정동환</a></p></td>
 <td><p>권도희</p></td>
 <td><p>최용원</p></td>
 </tr>
@@ -2313,7 +2318,7 @@
 <td><p>298회</p></td>
 <td><p>1월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정아_이야기" title="wikilink">정아 이야기</a></p></td>
-<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/남주희" title="wikilink">남주희</a>, <a href="../Page/최철호.md" title="wikilink">최철호</a>, <a href="../Page/이낙훈.md" title="wikilink">이낙훈</a>, <a href="../Page/정혜선.md" title="wikilink">정혜선</a></p></td>
 <td><p>구선경</p></td>
 <td><p>오경훈</p></td>
 </tr>
@@ -2498,7 +2503,7 @@
 <td><p>321회</p></td>
 <td><p>7월 17일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/내_짝궁_박순정" title="wikilink">내 짝궁 박순정</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이성재" title="wikilink">이성재</a>, <a href="https://ko.wikipedia.org/wiki/김지영" title="wikilink">김지영</a>, <a href="../Page/전혜진_(1988년).md" title="wikilink">전혜진</a></p></td>
+<td><p><a href="../Page/이성재_(배우).md" title="wikilink">이성재</a>, <a href="../Page/김지영_(1974년).md" title="wikilink">김지영</a>, <a href="../Page/전혜진_(1988년).md" title="wikilink">전혜진</a></p></td>
 <td><p>정유경</p></td>
 <td><p>안판석</p></td>
 </tr>
@@ -2522,7 +2527,7 @@
 <td><p>324회</p></td>
 <td><p>8월 7일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/산부인과에_가면_잃어버린_사랑을_찾을_수_있을까" title="wikilink">산부인과에 가면 잃어버린 사랑을 찾을 수 있을까</a></p></td>
-<td><p><a href="../Page/홍경인.md" title="wikilink">홍경인</a>, <a href="https://ko.wikipedia.org/wiki/박준희" title="wikilink">박준희</a>, <a href="../Page/신충식.md" title="wikilink">신충식</a>, <a href="https://ko.wikipedia.org/wiki/김지영" title="wikilink">김지영</a>,<br />
+<td><p><a href="../Page/홍경인.md" title="wikilink">홍경인</a>, <a href="../Page/박준희_(방송인).md" title="wikilink">박준희</a>, <a href="../Page/신충식.md" title="wikilink">신충식</a>, <a href="https://ko.wikipedia.org/wiki/김지영_(1937년)" title="wikilink">김지영</a>,<br />
 <a href="../Page/권재희.md" title="wikilink">권재희</a></p></td>
 <td><p>김신영</p></td>
 <td><p>최이섭</p></td>
@@ -2563,7 +2568,7 @@
 <td><p>329회</p></td>
 <td><p>9월 11일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/숨은_얼굴_찾기" title="wikilink">숨은 얼굴 찾기</a></p></td>
-<td><p><a href="../Page/김혜선_(배우).md" title="wikilink">김혜선</a>, <a href="https://ko.wikipedia.org/wiki/박성미" title="wikilink">박성미</a></p></td>
+<td><p><a href="../Page/김혜선_(배우).md" title="wikilink">김혜선</a>, <a href="../Page/박성미_(배우).md" title="wikilink">박성미</a></p></td>
 <td><p>고동률</p></td>
 <td><p>임화민</p></td>
 </tr>
@@ -2644,7 +2649,7 @@
 <td><p>339회</p></td>
 <td><p>11월 20일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/가족_만들기" title="wikilink">가족 만들기</a></p></td>
-<td><p><a href="../Page/정원중.md" title="wikilink">정원중</a>, <a href="https://ko.wikipedia.org/wiki/김지영" title="wikilink">김지영</a>, <a href="../Page/권재희.md" title="wikilink">권재희</a>, <a href="../Page/신충식.md" title="wikilink">신충식</a></p></td>
+<td><p><a href="../Page/정원중.md" title="wikilink">정원중</a>, <a href="../Page/김지영_(1974년).md" title="wikilink">김지영</a>, <a href="../Page/권재희.md" title="wikilink">권재희</a>, <a href="../Page/신충식.md" title="wikilink">신충식</a></p></td>
 <td><p>김미경</p></td>
 <td><p>최이섭</p></td>
 </tr>
@@ -2652,7 +2657,7 @@
 <td><p>340회</p></td>
 <td><p>11월 27일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/나는_너에게_무엇이었을까?" title="wikilink">나는 너에게 무엇이었을까?</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김현숙" title="wikilink">김현숙</a>, <a href="../Page/최철호.md" title="wikilink">최철호</a></p></td>
+<td><p><a href="../Page/김현숙_(1971년).md" title="wikilink">김현숙</a>, <a href="../Page/최철호.md" title="wikilink">최철호</a></p></td>
 <td><p>윤성희</p></td>
 <td><p>권석장</p></td>
 </tr>
@@ -2660,7 +2665,7 @@
 <td><p>341회</p></td>
 <td><p>12월 4일</p></td>
 <td><p><a href="../Page/장밋빛_인생_(1998년_드라마).md" title="wikilink">장밋빛 인생</a></p></td>
-<td><p><a href="../Page/여운계.md" title="wikilink">여운계</a>, <a href="../Page/김무생.md" title="wikilink">김무생</a></p></td>
+<td><p><a href="../Page/여운계.md" title="wikilink">여운계</a>, <a href="../Page/김무생.md" title="wikilink">김무생</a>, <a href="../Page/김창숙.md" title="wikilink">김창숙</a></p></td>
 <td><p>윤대성</p></td>
 <td><p>김승수</p></td>
 </tr>
@@ -2668,7 +2673,7 @@
 <td><p>342회</p></td>
 <td><p>12월 11일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/신데렐라_죽이기" title="wikilink">신데렐라 죽이기</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박성미" title="wikilink">박성미</a>, <a href="../Page/반효정.md" title="wikilink">반효정</a>, <a href="https://ko.wikipedia.org/wiki/김현주" title="wikilink">김현주</a></p></td>
+<td><p><a href="../Page/박성미_(배우).md" title="wikilink">박성미</a>, <a href="../Page/반효정.md" title="wikilink">반효정</a>, <a href="../Page/김현주_(1977년).md" title="wikilink">김현주</a></p></td>
 <td><p>이금주</p></td>
 <td><p>이정표</p></td>
 </tr>
@@ -2717,7 +2722,7 @@
 <td><p>345회</p></td>
 <td><p>1월 11일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/남편의_못생긴_애인" title="wikilink">남편의 못생긴 애인</a></p></td>
-<td><p><a href="../Page/강남길.md" title="wikilink">강남길</a>, <a href="../Page/박순천.md" title="wikilink">박순천</a></p></td>
+<td><p><a href="../Page/강남길.md" title="wikilink">강남길</a>, <a href="../Page/박순천_(배우).md" title="wikilink">박순천</a></p></td>
 <td><p>박예랑</p></td>
 <td><p>김남원</p></td>
 </tr>
@@ -2786,7 +2791,7 @@
 <td><p>353회</p></td>
 <td><p>3월 5일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/북어_대가리" title="wikilink">북어 대가리</a></p></td>
-<td><p><a href="../Page/이혜숙.md" title="wikilink">이혜숙</a>, <a href="../Page/박순천.md" title="wikilink">박순천</a>, <a href="../Page/최상훈.md" title="wikilink">최상훈</a>, <a href="../Page/김규철.md" title="wikilink">김규철</a></p></td>
+<td><p><a href="../Page/이혜숙.md" title="wikilink">이혜숙</a>, <a href="../Page/박순천_(배우).md" title="wikilink">박순천</a>, <a href="../Page/최상훈.md" title="wikilink">최상훈</a>, <a href="../Page/김규철.md" title="wikilink">김규철</a></p></td>
 <td><p>김보영</p></td>
 <td><p>장근수</p></td>
 </tr>
@@ -2868,7 +2873,7 @@
 <td><p>363회</p></td>
 <td><p>5월 14일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/악어와_악어새" title="wikilink">악어와 악어새</a></p></td>
-<td><p><a href="../Page/송옥숙.md" title="wikilink">송옥숙</a>, <a href="../Page/박순천.md" title="wikilink">박순천</a>, <a href="https://ko.wikipedia.org/wiki/김영옥" title="wikilink">김영옥</a></p></td>
+<td><p><a href="../Page/송옥숙.md" title="wikilink">송옥숙</a>, <a href="../Page/박순천_(배우).md" title="wikilink">박순천</a>, <a href="../Page/김영옥_(배우).md" title="wikilink">김영옥</a></p></td>
 <td><p>김보영</p></td>
 <td><p>장근수</p></td>
 </tr>
@@ -2900,7 +2905,7 @@
 <td><p>367회</p></td>
 <td><p>6월 11일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/뻐꾸기_아빠" title="wikilink">뻐꾸기 아빠</a></p></td>
-<td><p><a href="../Page/노주현.md" title="wikilink">노주현</a>, <a href="../Page/이태란.md" title="wikilink">이태란</a>, <a href="../Page/장호일.md" title="wikilink">장호일</a></p></td>
+<td><p><a href="../Page/노주현.md" title="wikilink">노주현</a>, <a href="../Page/이태란.md" title="wikilink">이태란</a>, <a href="../Page/장호일.md" title="wikilink">장호일</a>, <a href="../Page/윤여정.md" title="wikilink">윤여정</a></p></td>
 <td><p>윤형운</p></td>
 <td><p>최창욱</p></td>
 </tr>
@@ -2949,7 +2954,7 @@
 <td><p>373회</p></td>
 <td><p>7월 30일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아버지의_여자" title="wikilink">아버지의 여자</a></p></td>
-<td><p><a href="../Page/정혜영.md" title="wikilink">정혜영</a>, <a href="https://ko.wikipedia.org/wiki/박정수" title="wikilink">박정수</a>, <a href="../Page/남성진.md" title="wikilink">남성진</a></p></td>
+<td><p><a href="../Page/정혜영.md" title="wikilink">정혜영</a>, <a href="../Page/박정수_(배우).md" title="wikilink">박정수</a>, <a href="../Page/남성진.md" title="wikilink">남성진</a></p></td>
 <td><p>김영인</p></td>
 <td><p>권이상</p></td>
 </tr>
@@ -2965,7 +2970,7 @@
 <td><p>375회</p></td>
 <td><p>8월 27일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/지상에서의_하루" title="wikilink">지상에서의 하루</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정찬" title="wikilink">정찬</a>, <a href="../Page/박주미.md" title="wikilink">박주미</a></p></td>
+<td><p><a href="../Page/정찬_(배우).md" title="wikilink">정찬</a>, <a href="../Page/박주미.md" title="wikilink">박주미</a></p></td>
 <td><p>윤원영</p></td>
 <td><p>오경훈</p></td>
 </tr>
@@ -2973,7 +2978,7 @@
 <td><p>376회</p></td>
 <td><p>9월 3일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유혹_(1999년_드라마)" title="wikilink">유혹</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김정현" title="wikilink">김정현</a>, <a href="../Page/지수원.md" title="wikilink">지수원</a></p></td>
+<td><p><a href="../Page/김정현_(1976년).md" title="wikilink">김정현</a>, <a href="../Page/지수원.md" title="wikilink">지수원</a></p></td>
 <td><p>유우재</p></td>
 <td><p>이대영</p></td>
 </tr>
@@ -3144,7 +3149,7 @@
 <td><p>394회</p></td>
 <td><p>3월 3일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/내겐_너무_이쁜_당신" title="wikilink">내겐 너무 이쁜 당신</a></p></td>
-<td><p><a href="../Page/권오중.md" title="wikilink">권오중</a>, <a href="https://ko.wikipedia.org/wiki/김지영" title="wikilink">김지영</a></p></td>
+<td><p><a href="../Page/권오중.md" title="wikilink">권오중</a>, <a href="../Page/김지영_(1974년).md" title="wikilink">김지영</a></p></td>
 <td><p>정유경</p></td>
 <td><p>권석장</p></td>
 </tr>
@@ -3168,7 +3173,7 @@
 <td><p>397회</p></td>
 <td><p>3월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/돼지꿈_꾼_날" title="wikilink">돼지꿈 꾼 날</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김일우" title="wikilink">김일우</a>, <a href="https://ko.wikipedia.org/wiki/김현주" title="wikilink">김현주</a></p></td>
+<td><p><a href="../Page/김일우_(1963년).md" title="wikilink">김일우</a>, <a href="../Page/김현주_(1964년).md" title="wikilink">김현주</a></p></td>
 <td><p>고동률</p></td>
 <td><p>임화민</p></td>
 </tr>
@@ -3201,7 +3206,7 @@
 <td><p>401회</p></td>
 <td><p>4월 28일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/그,_그녀에게_버림받다" title="wikilink">그, 그녀에게 버림받다</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김정균" title="wikilink">김정균</a>, <a href="../Page/김혜선_(배우).md" title="wikilink">김혜선</a></p></td>
+<td><p><a href="../Page/김정균_(배우).md" title="wikilink">김정균</a>, <a href="../Page/김혜선_(배우).md" title="wikilink">김혜선</a></p></td>
 <td><p>소현경</p></td>
 <td><p>최용원</p></td>
 </tr>
@@ -3217,7 +3222,7 @@
 <td><p>403회</p></td>
 <td><p>5월 12일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/목격자를_찾습니다" title="wikilink">목격자를 찾습니다</a></p></td>
-<td><p><a href="../Page/박순천.md" title="wikilink">박순천</a>, <a href="../Page/정한헌.md" title="wikilink">정한헌</a>, <a href="../Page/이계인.md" title="wikilink">이계인</a></p></td>
+<td><p><a href="../Page/박순천_(배우).md" title="wikilink">박순천</a>, <a href="../Page/정한헌.md" title="wikilink">정한헌</a>, <a href="../Page/이계인.md" title="wikilink">이계인</a></p></td>
 <td><p>고동률</p></td>
 <td><p>조중현</p></td>
 </tr>
@@ -3289,7 +3294,7 @@
 <td><p>412회</p></td>
 <td><p>7월 28일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/동보씨의_파랑새" title="wikilink">동보씨의 파랑새</a></p></td>
-<td><p><a href="../Page/김지수_(1972년).md" title="wikilink">김지수</a>, <a href="https://ko.wikipedia.org/wiki/이훈" title="wikilink">이훈</a></p></td>
+<td><p><a href="../Page/김지수_(1972년).md" title="wikilink">김지수</a>, <a href="../Page/이훈_(배우).md" title="wikilink">이훈</a></p></td>
 <td><p>김성희</p></td>
 <td><p>이태곤</p></td>
 </tr>
@@ -3297,7 +3302,7 @@
 <td><p>413회</p></td>
 <td><p>8월 4일</p></td>
 <td><p><a href="../Page/사랑에_대한_예의.md" title="wikilink">사랑에 대한 예의</a></p></td>
-<td><p><a href="../Page/김정난.md" title="wikilink">김정난</a>, <a href="https://ko.wikipedia.org/wiki/김일우" title="wikilink">김일우</a></p></td>
+<td><p><a href="../Page/김정난.md" title="wikilink">김정난</a>, <a href="../Page/김일우_(1963년).md" title="wikilink">김일우</a></p></td>
 <td><p>김순옥</p></td>
 <td><p>임화민</p></td>
 </tr>
@@ -3313,7 +3318,7 @@
 <td><p>415회</p></td>
 <td><p>9월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/큰_형님" title="wikilink">큰 형님</a></p></td>
-<td><p><a href="../Page/김성겸.md" title="wikilink">김성겸</a>, <a href="../Page/이호재.md" title="wikilink">이호재</a>, <a href="https://ko.wikipedia.org/wiki/김일우" title="wikilink">김일우</a>, <a href="../Page/강성진_(배우).md" title="wikilink">강성진</a>,<br />
+<td><p><a href="../Page/김성겸.md" title="wikilink">김성겸</a>, <a href="../Page/이호재.md" title="wikilink">이호재</a>, <a href="../Page/김일우_(1953년).md" title="wikilink">김일우</a>, <a href="../Page/강성진_(배우).md" title="wikilink">강성진</a>,<br />
 <a href="../Page/허영란.md" title="wikilink">허영란</a></p></td>
 <td><p>이기원</p></td>
 <td><p>윤재문</p></td>
@@ -3354,7 +3359,7 @@
 <td><p>420회</p></td>
 <td><p>10월 6일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/내가_너무_사랑하는_당신" title="wikilink">내가 너무 사랑하는 당신</a></p></td>
-<td><p><a href="../Page/김정난.md" title="wikilink">김정난</a>, <a href="https://ko.wikipedia.org/wiki/김현주" title="wikilink">김현주</a>, <a href="../Page/김주승.md" title="wikilink">김주승</a></p></td>
+<td><p><a href="../Page/김정난.md" title="wikilink">김정난</a>, <a href="../Page/김현주_(1964년).md" title="wikilink">김현주</a>, <a href="../Page/김주승.md" title="wikilink">김주승</a></p></td>
 <td><p>박후정</p></td>
 <td><p>이정표</p></td>
 </tr>
@@ -3387,7 +3392,7 @@
 <td><p>11월 3일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/노란_잠수함" title="wikilink">노란 잠수함</a></p></td>
 <td><p><a href="../Page/나문희.md" title="wikilink">나문희</a>, <a href="../Page/강문영.md" title="wikilink">강문영</a>, <a href="../Page/정승호.md" title="wikilink">정승호</a>, <a href="../Page/박종관.md" title="wikilink">박종관</a> ,<br />
-<a href="../Page/임현식.md" title="wikilink">임현식</a>, <a href="https://ko.wikipedia.org/wiki/김복희" title="wikilink">김복희</a>, <a href="../Page/유승봉.md" title="wikilink">유승봉</a></p></td>
+<a href="../Page/임현식.md" title="wikilink">임현식</a>, <a href="../Page/김복희_(배우).md" title="wikilink">김복희</a>, <a href="../Page/유승봉.md" title="wikilink">유승봉</a></p></td>
 <td><p>이란</p></td>
 <td><p>이창섭</p></td>
 </tr>
@@ -3419,7 +3424,7 @@
 <td><p>428회</p></td>
 <td><p>12월 22일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아들_그리고_연인" title="wikilink">아들 그리고 연인</a></p></td>
-<td><p><a href="../Page/송채환.md" title="wikilink">송채환</a>, <a href="https://ko.wikipedia.org/wiki/김정균" title="wikilink">김정균</a></p></td>
+<td><p><a href="../Page/송채환.md" title="wikilink">송채환</a>, <a href="../Page/김정균_(배우).md" title="wikilink">김정균</a></p></td>
 <td><p>조윤숙</p></td>
 <td><p>이대영</p></td>
 </tr>
@@ -3452,7 +3457,7 @@
 <td><p>429회</p></td>
 <td><p>1월 5일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/거꾸로_가는_남자" title="wikilink">거꾸로 가는 남자</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이상우" title="wikilink">이상우</a>, <a href="../Page/김채연.md" title="wikilink">김채연</a></p></td>
+<td><p><a href="../Page/이상우_(가수).md" title="wikilink">이상우</a>, <a href="../Page/김채연.md" title="wikilink">김채연</a></p></td>
 <td><p>박은령</p></td>
 <td><p>이정표</p></td>
 </tr>
@@ -3460,7 +3465,7 @@
 <td><p>430회</p></td>
 <td><p>1월 12일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/총각_파티_(드라마)" title="wikilink">총각 파티</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박광현" title="wikilink">박광현</a>, <a href="../Page/김현수.md" title="wikilink">김현수</a></p></td>
+<td><p><a href="../Page/박광현_(배우).md" title="wikilink">박광현</a>, <a href="../Page/김현수_(1978년).md" title="wikilink">김현수</a></p></td>
 <td><p>손은혜</p></td>
 <td><p>임화민</p></td>
 </tr>
@@ -3468,7 +3473,7 @@
 <td><p>431회</p></td>
 <td><p>1월 19일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성주푸리" title="wikilink">성주푸리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김지호" title="wikilink">김지호</a>, <a href="https://ko.wikipedia.org/wiki/정준" title="wikilink">정준</a> <a href="../Page/지진희.md" title="wikilink">지진희</a>, <a href="../Page/정동환.md" title="wikilink">정동환</a></p></td>
+<td><p><a href="../Page/김지호_(배우).md" title="wikilink">김지호</a>, <a href="https://ko.wikipedia.org/wiki/정준" title="wikilink">정준</a>, <a href="../Page/지진희.md" title="wikilink">지진희</a>, <a href="../Page/정동환.md" title="wikilink">정동환</a></p></td>
 <td><p>이유리</p></td>
 <td><p>황인뢰</p></td>
 </tr>
@@ -3492,7 +3497,7 @@
 <td><p>434회</p></td>
 <td><p>2월 9일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사랑한다면_이들처럼_(2001년_드라마)" title="wikilink">사랑한다면 이들처럼</a></p></td>
-<td><p><a href="../Page/김정난.md" title="wikilink">김정난</a>, <a href="https://ko.wikipedia.org/wiki/이기영" title="wikilink">이기영</a></p></td>
+<td><p><a href="../Page/김정난.md" title="wikilink">김정난</a>, <a href="../Page/이기영_(배우).md" title="wikilink">이기영</a></p></td>
 <td><p>박후정</p></td>
 <td><p>이정표</p></td>
 </tr>
@@ -3500,7 +3505,7 @@
 <td><p>435회</p></td>
 <td><p>2월 16일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/키쓰" title="wikilink">키쓰</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박시은" title="wikilink">박시은</a>, <a href="../Page/박용하.md" title="wikilink">박용하</a></p></td>
+<td><p><a href="../Page/박시은_(1980년).md" title="wikilink">박시은</a>, <a href="../Page/박용하.md" title="wikilink">박용하</a></p></td>
 <td><p>김선정</p></td>
 <td><p>최용원</p></td>
 </tr>
@@ -3524,7 +3529,7 @@
 <td><p>438회</p></td>
 <td><p>3월 9일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/남자_이야기_(2001년_드라마)" title="wikilink">남자 이야기</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김갑수" title="wikilink">김갑수</a>, <a href="../Page/박순천.md" title="wikilink">박순천</a></p></td>
+<td><p><a href="../Page/김갑수_(배우).md" title="wikilink">김갑수</a>, <a href="../Page/박순천_(배우).md" title="wikilink">박순천</a></p></td>
 <td><p>이금주</p></td>
 <td><p>장근수</p></td>
 </tr>
@@ -3532,7 +3537,7 @@
 <td><p>439회</p></td>
 <td><p>3월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/가면_애인" title="wikilink">가면 애인</a></p></td>
-<td><p><a href="../Page/성현아.md" title="wikilink">성현아</a>, <a href="https://ko.wikipedia.org/wiki/박형준" title="wikilink">박형준</a></p></td>
+<td><p><a href="../Page/성현아.md" title="wikilink">성현아</a>, <a href="../Page/박형준_(배우).md" title="wikilink">박형준</a></p></td>
 <td><p>이승태</p></td>
 <td><p>이창섭</p></td>
 </tr>
@@ -3548,7 +3553,7 @@
 <td><p>441회</p></td>
 <td><p>4월 6일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고슴도치_(드라마)" title="wikilink">고슴도치</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김일우" title="wikilink">김일우</a>, <a href="../Page/조하나_(1972년).md" title="wikilink">조하나</a></p></td>
+<td><p><a href="../Page/김일우_(1963년).md" title="wikilink">김일우</a>, <a href="../Page/조하나_(1972년).md" title="wikilink">조하나</a></p></td>
 <td><p>손은혜</p></td>
 <td><p>이대영</p></td>
 </tr>
@@ -3580,7 +3585,7 @@
 <td><p>445회</p></td>
 <td><p>5월 11일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/북해도_(드라마)" title="wikilink">북해도</a></p></td>
-<td><p><a href="../Page/이아현.md" title="wikilink">이아현</a>, <a href="../Page/오대규.md" title="wikilink">오대규</a>, <a href="https://ko.wikipedia.org/wiki/이정훈" title="wikilink">이정훈</a></p></td>
+<td><p><a href="../Page/이아현.md" title="wikilink">이아현</a>, <a href="../Page/오대규.md" title="wikilink">오대규</a>, <a href="../Page/이정훈_(배우).md" title="wikilink">이정훈</a></p></td>
 <td><p>손은혜</p></td>
 <td><p>김사현</p></td>
 </tr>
@@ -3588,7 +3593,7 @@
 <td><p>446회</p></td>
 <td><p>5월 25일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/행복한_남자_(드라마)" title="wikilink">행복한 남자</a></p></td>
-<td><p><a href="../Page/김주승.md" title="wikilink">김주승</a>, <a href="https://ko.wikipedia.org/wiki/김정균" title="wikilink">김정균</a></p></td>
+<td><p><a href="../Page/김주승.md" title="wikilink">김주승</a>, <a href="../Page/김정균_(배우).md" title="wikilink">김정균</a></p></td>
 <td><p>도현정</p></td>
 <td><p>최용원</p></td>
 </tr>
@@ -3612,7 +3617,7 @@
 <td><p>449회</p></td>
 <td><p>6월 15일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/닭싸움_(드라마)" title="wikilink">닭싸움</a></p></td>
-<td><p><a href="../Page/박순천.md" title="wikilink">박순천</a>, <a href="../Page/임예진.md" title="wikilink">임예진</a></p></td>
+<td><p><a href="../Page/박순천_(배우).md" title="wikilink">박순천</a>, <a href="../Page/임예진.md" title="wikilink">임예진</a></p></td>
 <td><p>고동률</p></td>
 <td><p>이대영</p></td>
 </tr>
@@ -3652,7 +3657,7 @@
 <td><p>454회</p></td>
 <td><p>7월 27일</p></td>
 <td><p><a href="../Page/아내는_채팅중.md" title="wikilink">아내는 채팅중</a></p></td>
-<td><p><a href="../Page/양희경.md" title="wikilink">양희경</a>, <a href="https://ko.wikipedia.org/wiki/현석" title="wikilink">현석</a></p></td>
+<td><p><a href="../Page/양희경.md" title="wikilink">양희경</a>, <a href="../Page/현석_(배우).md" title="wikilink">현석</a></p></td>
 <td><p>정성희</p></td>
 <td><p>오현창</p></td>
 </tr>
@@ -3660,7 +3665,7 @@
 <td><p>455회</p></td>
 <td><p>8월 3일</p></td>
 <td><p><a href="../Page/바다끝_물고기.md" title="wikilink">바다끝 물고기</a></p></td>
-<td><p><a href="../Page/신은정.md" title="wikilink">신은정</a>, <a href="../Page/하재영.md" title="wikilink">하재영</a>, <a href="../Page/이동욱_(배우).md" title="wikilink">이동욱</a>, <a href="https://ko.wikipedia.org/wiki/김성희" title="wikilink">김성희</a></p></td>
+<td><p><a href="../Page/신은정.md" title="wikilink">신은정</a>, <a href="../Page/하재영.md" title="wikilink">하재영</a>, <a href="../Page/이동욱_(배우).md" title="wikilink">이동욱</a>, <a href="https://ko.wikipedia.org/wiki/김성희_(1969년)" title="wikilink">김성희</a></p></td>
 <td><p><a href="../Page/김순옥_(작가).md" title="wikilink">김순옥</a></p></td>
 <td><p>임화민</p></td>
 </tr>
@@ -3676,7 +3681,7 @@
 <td><p>457회</p></td>
 <td><p>8월 24일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/법대로_합시다" title="wikilink">법대로 합시다</a></p></td>
-<td><p><a href="../Page/최란.md" title="wikilink">최란</a>, <a href="https://ko.wikipedia.org/wiki/정호근" title="wikilink">정호근</a></p></td>
+<td><p><a href="../Page/최란.md" title="wikilink">최란</a>, <a href="../Page/정호근_(배우).md" title="wikilink">정호근</a></p></td>
 <td><p>이현경</p></td>
 <td><p>최이섭</p></td>
 </tr>
@@ -3700,7 +3705,7 @@
 <td><p>460회</p></td>
 <td><p>9월 14일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/그녀만의_전쟁" title="wikilink">그녀만의 전쟁</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김정균" title="wikilink">김정균</a>, <a href="../Page/조하나_(1972년).md" title="wikilink">조하나</a></p></td>
+<td><p><a href="../Page/김정균_(배우).md" title="wikilink">김정균</a>, <a href="../Page/조하나_(1972년).md" title="wikilink">조하나</a></p></td>
 <td><p>차영주</p></td>
 <td><p>최원석</p></td>
 </tr>
@@ -3751,7 +3756,7 @@
 <td><p>466회</p></td>
 <td><p>11월 9일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/사랑이_하고_싶다" title="wikilink">사랑이 하고 싶다</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이상우" title="wikilink">이상우</a>, <a href="https://ko.wikipedia.org/wiki/정소영" title="wikilink">정소영</a></p></td>
+<td><p><a href="../Page/이상우_(가수).md" title="wikilink">이상우</a>, <a href="https://ko.wikipedia.org/wiki/정소영" title="wikilink">정소영</a></p></td>
 <td><p>손은혜,<br />
 오경희</p></td>
 <td><p><a href="../Page/김진만_(1968년).md" title="wikilink">김진만</a></p></td>
@@ -3760,7 +3765,7 @@
 <td><p>467회</p></td>
 <td><p>11월 16일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/내_아내는_강력계" title="wikilink">내 아내는 강력계</a></p></td>
-<td><p><a href="../Page/정성화.md" title="wikilink">정성화</a>, <a href="https://ko.wikipedia.org/wiki/김윤경" title="wikilink">김윤경</a></p></td>
+<td><p><a href="../Page/정성화.md" title="wikilink">정성화</a>, <a href="../Page/김윤경_(1976년).md" title="wikilink">김윤경</a></p></td>
 <td><p>이기원</p></td>
 <td><p>최원석</p></td>
 </tr>
@@ -3768,7 +3773,7 @@
 <td><p>468회</p></td>
 <td><p>11월 23일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엄마에_관한_기억" title="wikilink">엄마에 관한 기억</a></p></td>
-<td><p><a href="../Page/연운경.md" title="wikilink">연운경</a>, <a href="https://ko.wikipedia.org/wiki/전혜진" title="wikilink">전혜진</a></p></td>
+<td><p><a href="../Page/연운경.md" title="wikilink">연운경</a>, <a href="../Page/전혜진_(1970년).md" title="wikilink">전혜진</a></p></td>
 <td><p>김선영</p></td>
 <td><p>한희</p></td>
 </tr>
@@ -3784,7 +3789,7 @@
 <td><p>470회</p></td>
 <td><p>12월 7일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/겨울아이" title="wikilink">겨울아이</a></p></td>
-<td><p><a href="../Page/이상아.md" title="wikilink">이상아</a>, <a href="../Page/서지희.md" title="wikilink">서지희</a>, <a href="../Page/남능미.md" title="wikilink">남능미</a></p></td>
+<td><p><a href="../Page/이상아.md" title="wikilink">이상아</a>, <a href="../Page/서지희.md" title="wikilink">서지희</a>, <a href="../Page/나문희.md" title="wikilink">나문희</a>, <a href="../Page/남능미.md" title="wikilink">남능미</a></p></td>
 <td><p>강은주</p></td>
 <td><p>고동선</p></td>
 </tr>
@@ -3800,7 +3805,7 @@
 <td><p>472회</p></td>
 <td><p>12월 21일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엄지손가락의_꿈" title="wikilink">엄지손가락의 꿈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김정균" title="wikilink">김정균</a>, <a href="../Page/박현숙_(배우).md" title="wikilink">박현숙</a></p></td>
+<td><p><a href="../Page/김정균_(배우).md" title="wikilink">김정균</a>, <a href="../Page/박현숙_(배우).md" title="wikilink">박현숙</a></p></td>
 <td><p>여정미</p></td>
 <td><p>이정표</p></td>
 </tr>
@@ -3808,7 +3813,7 @@
 <td><p>473회</p></td>
 <td><p>12월 28일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/그_겨울의_약속" title="wikilink">그 겨울의 약속</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김영호" title="wikilink">김영호</a>, <a href="../Page/정성모.md" title="wikilink">정성모</a></p></td>
+<td><p><a href="../Page/김영호_(배우).md" title="wikilink">김영호</a>, <a href="../Page/정성모.md" title="wikilink">정성모</a></p></td>
 <td><p>이혜선</p></td>
 <td><p>이재동</p></td>
 </tr>
@@ -3897,7 +3902,7 @@
 <td><p>481회</p></td>
 <td><p>3월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/우연_(드라마)" title="wikilink">우연</a></p></td>
-<td><p><a href="../Page/성현아.md" title="wikilink">성현아</a>, <a href="https://ko.wikipedia.org/wiki/윤태영" title="wikilink">윤태영</a></p></td>
+<td><p><a href="../Page/성현아.md" title="wikilink">성현아</a>, <a href="../Page/윤태영_(배우).md" title="wikilink">윤태영</a></p></td>
 <td><p>황선영</p></td>
 <td><p>이재동</p></td>
 </tr>
@@ -3945,7 +3950,7 @@
 <td><p>487회</p></td>
 <td><p>4월 19일</p></td>
 <td><p><a href="../Page/4월_이야기_(드라마).md" title="wikilink">4월 이야기</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유준상" title="wikilink">유준상</a>, <a href="../Page/권민중.md" title="wikilink">권민중</a>, <a href="../Page/홍은희.md" title="wikilink">홍은희</a></p></td>
+<td><p><a href="../Page/유준상_(배우).md" title="wikilink">유준상</a>, <a href="../Page/권민중.md" title="wikilink">권민중</a>, <a href="../Page/홍은희.md" title="wikilink">홍은희</a></p></td>
 <td><p>송은혜</p></td>
 <td><p>유정준</p></td>
 </tr>
@@ -4113,7 +4118,7 @@
 <td><p>509회</p></td>
 <td><p>10월 11일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/꿈은_이루어진다_(드라마)" title="wikilink">꿈은 이루어진다</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이상우" title="wikilink">이상우</a>, <a href="../Page/김나운.md" title="wikilink">김나운</a></p></td>
+<td><p><a href="../Page/이상우_(가수).md" title="wikilink">이상우</a>, <a href="../Page/김나운.md" title="wikilink">김나운</a></p></td>
 <td><p>이현경</p></td>
 <td><p>이창섭</p></td>
 </tr>
@@ -4137,7 +4142,7 @@
 <td><p>511회</p></td>
 <td><p>11월 8일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아버지_VS_아들" title="wikilink">아버지 VS 아들</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박인환" title="wikilink">박인환</a>, <a href="../Page/고명환.md" title="wikilink">고명환</a>, <a href="../Page/윤지숙.md" title="wikilink">윤지숙</a></p></td>
+<td><p><a href="../Page/박인환_(배우).md" title="wikilink">박인환</a>, <a href="../Page/고명환.md" title="wikilink">고명환</a>, <a href="../Page/윤지숙.md" title="wikilink">윤지숙</a></p></td>
 <td><p>이종욱</p></td>
 <td><p>이대영</p></td>
 </tr>
@@ -4145,7 +4150,7 @@
 <td><p>512회</p></td>
 <td><p>11월 22일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엄마는_괴로워" title="wikilink">엄마는 괴로워</a></p></td>
-<td><p><a href="../Page/이유리.md" title="wikilink">이유리</a>, <a href="../Page/진태현.md" title="wikilink">진태현</a></p></td>
+<td><p><a href="../Page/이유리.md" title="wikilink">이유리</a>, <a href="../Page/진태현.md" title="wikilink">김태현</a></p></td>
 <td><p>김정훈</p></td>
 <td><p>최원석</p></td>
 </tr>
@@ -4228,7 +4233,7 @@
 <td><p>519회</p></td>
 <td><p>1월 17일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/돈보다_남자" title="wikilink">돈보다 남자</a></p></td>
-<td><p><a href="../Page/심형탁.md" title="wikilink">심형탁</a>, <a href="https://ko.wikipedia.org/wiki/강소정" title="wikilink">강소정</a>, <a href="../Page/김인문.md" title="wikilink">김인문</a></p></td>
+<td><p><a href="../Page/심형탁.md" title="wikilink">심형탁</a>, <a href="https://ko.wikipedia.org/wiki/강소정" title="wikilink">강소정</a>, <a href="../Page/김인문_(배우).md" title="wikilink">김인문</a></p></td>
 <td><p>정현정</p></td>
 <td><p>권석장</p></td>
 </tr>
@@ -4302,8 +4307,8 @@
 <td><p>528회</p></td>
 <td><p>3월 28일</p></td>
 <td><p><a href="../Page/살인에_관한_고백.md" title="wikilink">살인에 관한 고백</a></p></td>
-<td><p><a href="../Page/윤영준_(배우).md" title="wikilink">윤영준</a>, <a href="../Page/홍수민.md" title="wikilink">홍충민</a>, <a href="https://ko.wikipedia.org/wiki/이병욱" title="wikilink">이병욱</a>, <a href="../Page/최용민.md" title="wikilink">최용민</a>,<br />
-<a href="../Page/박도유_(배우).md" title="wikilink">박도유</a>, <a href="../Page/전익령.md" title="wikilink">전익령</a>, <a href="https://ko.wikipedia.org/wiki/이경원" title="wikilink">이경원</a>, 최화영,<br />
+<td><p><a href="../Page/윤영준_(배우).md" title="wikilink">윤영준</a>, <a href="../Page/홍수민.md" title="wikilink">홍충민</a>, <a href="../Page/이병욱_(배우).md" title="wikilink">이병욱</a>, <a href="../Page/최용민.md" title="wikilink">최용민</a>,<br />
+<a href="../Page/박도유_(배우).md" title="wikilink">양현태</a>, <a href="../Page/전익령.md" title="wikilink">전익령</a>, <a href="https://ko.wikipedia.org/wiki/이경원" title="wikilink">이경원</a>, 최화영,<br />
 <a href="../Page/정지순.md" title="wikilink">정지순</a>, <a href="../Page/강지환.md" title="wikilink">강지환</a>, 정현아</p></td>
 <td><p><a href="../Page/김이영.md" title="wikilink">김이영</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김도훈_(연출가)" title="wikilink">김도훈</a></p></td>
@@ -4312,7 +4317,7 @@
 <td><p>529회</p></td>
 <td><p>4월 4일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/발가락이_닮았다_(드라마)" title="wikilink">발가락이 닮았다</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이상우" title="wikilink">이상우</a></p></td>
+<td><p><a href="../Page/이상우_(가수).md" title="wikilink">이상우</a></p></td>
 <td><p>김선정</p></td>
 <td><p>최용원</p></td>
 </tr>
@@ -4507,7 +4512,7 @@
 <tr class="odd">
 <td><p>553회</p></td>
 <td><p>10월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/新데렐라" title="wikilink">新데렐라</a></p></td>
+<td><p><a href="../Page/新데렐라.md" title="wikilink">新데렐라</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김태연" title="wikilink">김태연</a>, <a href="https://ko.wikipedia.org/wiki/김광일" title="wikilink">김광일</a>, <a href="https://ko.wikipedia.org/wiki/박형재" title="wikilink">박형재</a></p></td>
 <td><p>박형진,<br />
 장현옥</p></td>
@@ -4516,7 +4521,7 @@
 <tr class="even">
 <td><p>554회</p></td>
 <td><p>10월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이발사의_첫사랑" title="wikilink">이발사의 첫사랑</a></p></td>
+<td><p><a href="../Page/이발사의_첫사랑.md" title="wikilink">이발사의 첫사랑</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이주희" title="wikilink">이주희</a>, <a href="../Page/고호경.md" title="wikilink">고호경</a></p></td>
 <td><p>박은령</p></td>
 <td><p>오경훈</p></td>
@@ -4532,7 +4537,7 @@
 <tr class="even">
 <td><p>556회</p></td>
 <td><p>10월 31일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애인보다_좋은" title="wikilink">애인보다 좋은</a></p></td>
+<td><p><a href="../Page/애인보다_좋은.md" title="wikilink">애인보다 좋은</a></p></td>
 <td><p><a href="../Page/최재원_(배우).md" title="wikilink">최재원</a>, <a href="../Page/권민중.md" title="wikilink">권민중</a>, <a href="../Page/왕지혜.md" title="wikilink">민지혜</a></p></td>
 <td><p>김순덕</p></td>
 <td><p>이대영</p></td>
@@ -4703,7 +4708,7 @@
 <tr class="odd">
 <td><p>574회</p></td>
 <td><p>4월 2일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/풀밭_위의_식사" title="wikilink">풀밭 위의 식사</a></p></td>
+<td><p><a href="../Page/풀밭_위의_식사.md" title="wikilink">풀밭 위의 식사</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김태연" title="wikilink">김태연</a>, <a href="../Page/여현수.md" title="wikilink">여현수</a>, <a href="../Page/유정석.md" title="wikilink">유정석</a>, <a href="../Page/이혜미.md" title="wikilink">이혜미</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고선희" title="wikilink">고선희</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/임화민" title="wikilink">임화민</a></p></td>
@@ -4870,7 +4875,7 @@
 <tr class="odd">
 <td><p>593회</p></td>
 <td><p>9월 17일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/액션배우_정맑음" title="wikilink">액션배우 정맑음</a></p></td>
+<td><p><a href="../Page/액션배우_정맑음.md" title="wikilink">액션배우 정맑음</a></p></td>
 <td><p><a href="../Page/윤진서.md" title="wikilink">윤진서</a>, <a href="../Page/강신일.md" title="wikilink">강신일</a>, <a href="../Page/허정민.md" title="wikilink">허정민</a>, <a href="../Page/한희_(배우).md" title="wikilink">한희</a></p></td>
 <td><p><a href="../Page/김도우.md" title="wikilink">김도우</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김도훈" title="wikilink">김도훈</a></p></td>
@@ -5108,7 +5113,7 @@
 <td><p>10월 29일</p></td>
 <td><p><a href="../Page/태릉선수촌_(드라마).md" title="wikilink">태릉선수촌</a>(8부작)[2]</p></td>
 <td><p><a href="../Page/이민기.md" title="wikilink">이민기</a>, <a href="../Page/최정윤.md" title="wikilink">최정윤</a>, <a href="https://ko.wikipedia.org/wiki/김별" title="wikilink">김별</a>, <a href="../Page/이선균.md" title="wikilink">이선균</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍자매_(홍진아,_홍자람)" title="wikilink">홍진아</a></p></td>
+<td><p><a href="../Page/홍자매_(홍진아,_홍자람).md" title="wikilink">홍진아</a></p></td>
 <td><p><a href="../Page/이윤정_(연출가).md" title="wikilink">이윤정</a></p></td>
 </tr>
 <tr class="even">
@@ -5324,7 +5329,7 @@
 <tr class="odd">
 <td><p>636회</p></td>
 <td><p>5월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후(後)" title="wikilink">후(後)</a></p></td>
+<td><p><a href="../Page/후(後).md" title="wikilink">후(後)</a></p></td>
 <td><p><a href="../Page/이선균.md" title="wikilink">이선균</a>, <a href="../Page/홍수현.md" title="wikilink">홍수현</a>, <a href="../Page/김혜나.md" title="wikilink">김혜나</a>, <a href="https://ko.wikipedia.org/wiki/경준" title="wikilink">경준</a>,<br />
 <a href="../Page/김혜옥.md" title="wikilink">김혜옥</a>, <a href="../Page/전성애.md" title="wikilink">전성애</a>, <a href="https://ko.wikipedia.org/wiki/김초원" title="wikilink">김초원</a>, <a href="https://ko.wikipedia.org/wiki/이영희" title="wikilink">이영희</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박지숙" title="wikilink">박지숙</a></p></td>

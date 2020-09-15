@@ -29,7 +29,7 @@
 ### SNK의 캐릭터
 
   - 사무라이쇼다운의 등장캐릭터
-      - [하오마루](https://ko.wikipedia.org/wiki/하오마루 "wikilink"), [나코루루](https://ko.wikipedia.org/wiki/나코루루 "wikilink")(캡콤)
+      - [하오마루](https://ko.wikipedia.org/wiki/하오마루 "wikilink"), [나코루루](../Page/나코루루.md "wikilink")(캡콤)
       - [기바가미 겐쥬로](https://ko.wikipedia.org/wiki/기바가미_겐쥬로 "wikilink"), [어스퀘이커](https://ko.wikipedia.org/wiki/어스퀘이커 "wikilink"), [시키](https://ko.wikipedia.org/wiki/시키 "wikilink")(SNK)
   - 아랑전설 막판보스
       - [기스 하워드](../Page/기스_하워드.md "wikilink")(공통)

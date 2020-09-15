@@ -72,7 +72,7 @@
 [분류:2010년 싱글](https://ko.wikipedia.org/wiki/분류:2010년_싱글 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:애프터스쿨의 노래](https://ko.wikipedia.org/wiki/분류:애프터스쿨의_노래 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink") [분류:대한민국의 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:데뷔 싱글](https://ko.wikipedia.org/wiki/분류:데뷔_싱글 "wikilink") [분류:2010년 EP](https://ko.wikipedia.org/wiki/분류:2010년_EP "wikilink")
 
 1.
-2.  [﻿2010년 가온차트 부문별 Top 100위 - 국내](http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=36) 《[가온 차트](../Page/가온_차트.md "wikilink")》. 2011-04-16 확인.
+2.  [2010년 가온차트 부문별 Top 100위 - 국내](http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=36) 《[가온 차트](../Page/가온_차트.md "wikilink")》. 2011-04-16 확인.
 3.
 4.
 5.

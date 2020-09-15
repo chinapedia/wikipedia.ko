@@ -45,7 +45,7 @@ Y1은 이탈리아의 디젤 동차 [ALn 668을](https://ko.wikipedia.org/wiki/F
 
   - [차량 정보](http://www.railways-in-croatia.com/HR/Glavni%20okviri/7122.htm)
 
-  - [차량 정보](http://www.zeljeznice.net/motovlak/dmu/7122/7122.htm)
+  - [차량 정보](https://web.archive.org/web/20110717002955/http://www.zeljeznice.net/motovlak/dmu/7122/7122.htm)
 
 [Y1](https://ko.wikipedia.org/wiki/분류:스웨덴의_철도_차량 "wikilink") [Y1](https://ko.wikipedia.org/wiki/분류:노르웨이의_철도_차량 "wikilink") [Y1](https://ko.wikipedia.org/wiki/분류:크로아티아의_철도_차량 "wikilink")
 

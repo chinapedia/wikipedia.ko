@@ -36,8 +36,8 @@
 
 ## 외부 링크
 
-  - [게임 공식 웹사이트](http://www.sassecuretomorrowgame.com/gb_index.html)
+  - [게임 공식 웹사이트](https://web.archive.org/web/20081208205343/http://www.sassecuretomorrowgame.com/gb_index.html)
 
-  - [시티 인터랙티브사 웹사이트](http://www.city-interactive.com/en/gry-promowane-en/index.html)
+  - [시티 인터랙티브사 웹사이트](https://web.archive.org/web/20081113120403/http://www.city-interactive.com/en/gry-promowane-en/index.html)
 
 [분류:2008년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2008년_비디오_게임 "wikilink") [분류:1인칭 슈팅 게임](https://ko.wikipedia.org/wiki/분류:1인칭_슈팅_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink")

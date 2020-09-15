@@ -5,7 +5,7 @@
 
 [1971년](../Page/1971년.md "wikilink")에 [인터시티스 페어스컵을](../Page/인터시티스_페어스컵.md "wikilink") 대체하기 위한 차원에서 시작되었으며 [1999년](../Page/1999년.md "wikilink")에는 [UEFA 컵위너스컵을](../Page/UEFA_컵위너스컵.md "wikilink") 통합했다. 인터시티스 페어스컵은 UEFA 유로파리그(UEFA컵 포함)의 전신으로 여겨지지만 UEFA에서는 인터시티스 페어스컵의 기록을 UEFA 유로파리그의 기록으로 인정하지 않는다. 2009년 7월부터 **UEFA컵**(UEFA Cup)에서 UEFA 유로파리그라는 현재의 명칭으로 바뀌었다.\[1\]\[2\]
 
-UEFA 유로파리그의 최근 우승 팀은 2018-19 시즌의 [첼시다](https://ko.wikipedia.org/wiki/첼시FC "wikilink").
+UEFA 유로파리그의 최근 우승 팀은 2019-20 시즌의 [세비야다](https://ko.wikipedia.org/wiki/세비야_FC "wikilink").
 
 ## 역사
 
@@ -1131,11 +1131,11 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <tr class="even">
 <td><p>2019/20<br />
 <small><em><a href="../Page/2019-20년_UEFA_유로파리그.md" title="wikilink">세부 정보</a></em></small></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
-<td><p><strong>-</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
-<td><p><a href="../Page/그단스크.md" title="wikilink">그단스크</a><br />
-<a href="../Page/스타디온_에네르가_그단스크.md" title="wikilink">스타디온 에네르가 그단스크</a></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/세비야_FC" title="wikilink">세비야</a></strong></p></td>
+<td><p><strong>3 - 2</strong></p></td>
+<td><p><a href="../Page/FC_인테르나치오날레_밀라노.md" title="wikilink">인테르나치오날레</a></p></td>
+<td><p><a href="../Page/쾰른.md" title="wikilink">쾰른</a><br />
+<a href="../Page/라인에네르기슈타디온.md" title="wikilink">라인에네르기슈타디온</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2020/21<br />
@@ -1143,8 +1143,26 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
 <td><p><strong>-</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
+<td><p><a href="../Page/그단스크.md" title="wikilink">그단스크</a><br />
+<a href="../Page/스타디온_에네르가_그단스크.md" title="wikilink">스타디온 에네르가 그단스크</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2021/22<br />
+<small><em><a href="https://ko.wikipedia.org/wiki/2021-22년_UEFA_유로파리그" title="wikilink">세부 정보</a></em></small></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
 <td><p><a href="../Page/세비야.md" title="wikilink">세비야</a><br />
 <a href="../Page/에스타디오_라몬_산체스_피스후안.md" title="wikilink">에스타디오 라몬 산체스 피스후안</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2022/23<br />
+<small><em><a href="https://ko.wikipedia.org/wiki/2022-23년_UEFA_유로파리그" title="wikilink">세부 정보</a></em></small></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
+<td><p><a href="../Page/부다페스트.md" title="wikilink">부다페스트</a><br />
+<a href="../Page/푸슈카시_아레나.md" title="wikilink">푸슈카시 아레나</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1164,31 +1182,31 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/세비야_FC" title="wikilink">세비야</a></p></td>
-<td><p>5</p></td>
+<td><p>6</p></td>
 <td><p>0</p></td>
-<td><p><a href="../Page/2005-06년_UEFA컵.md" title="wikilink">2006</a>, <a href="../Page/2006-07년_UEFA컵.md" title="wikilink">2007</a>, <a href="../Page/2013-14년_UEFA_유로파리그.md" title="wikilink">2014</a>, <a href="../Page/2014-15년_UEFA_유로파리그.md" title="wikilink">2015</a>, <a href="../Page/2015-16년_UEFA_유로파리그.md" title="wikilink">2016</a></p></td>
+<td><p><a href="../Page/2005-06년_UEFA컵.md" title="wikilink">2006</a>, <a href="../Page/2006-07년_UEFA컵.md" title="wikilink">2007</a>, <a href="../Page/2013-14년_UEFA_유로파리그.md" title="wikilink">2014</a>, <a href="../Page/2014-15년_UEFA_유로파리그.md" title="wikilink">2015</a>, <a href="../Page/2015-16년_UEFA_유로파리그.md" title="wikilink">2016</a>, <a href="../Page/2019-20년_UEFA_유로파리그.md" title="wikilink">2020</a></p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/FC_인테르나치오날레_밀라노.md" title="wikilink">인테르나치오날레</a></p></td>
+<td><p>3</p></td>
+<td><p>2</p></td>
+<td><p><a href="../Page/1990-91년_UEFA컵.md" title="wikilink">1991</a>, <a href="../Page/1993-94년_UEFA컵.md" title="wikilink">1994</a>, <a href="../Page/1997-98년_UEFA컵.md" title="wikilink">1998</a></p></td>
+<td><p><a href="../Page/1996-97년_UEFA컵.md" title="wikilink">1997</a>, <a href="../Page/2019-20년_UEFA_유로파리그.md" title="wikilink">2020</a></p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/리버풀_FC.md" title="wikilink">리버풀</a></p></td>
 <td><p>3</p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/1972-73년_UEFA컵.md" title="wikilink">1973</a>, <a href="../Page/1975-76년_UEFA컵.md" title="wikilink">1976</a>, <a href="../Page/2000-01년_UEFA컵.md" title="wikilink">2001</a></p></td>
 <td><p><a href="../Page/2015-16년_UEFA_유로파리그.md" title="wikilink">2016</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 <td><p>3</p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/1976-77년_UEFA컵.md" title="wikilink">1977</a>, <a href="../Page/1989-90년_UEFA컵.md" title="wikilink">1990</a>, <a href="../Page/1992-93년_UEFA컵.md" title="wikilink">1993</a></p></td>
 <td><p><a href="../Page/1994-95년_UEFA컵.md" title="wikilink">1995</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/FC_인테르나치오날레_밀라노.md" title="wikilink">인테르나치오날레</a></p></td>
-<td><p>3</p></td>
-<td><p>1</p></td>
-<td><p><a href="../Page/1990-91년_UEFA컵.md" title="wikilink">1991</a>, <a href="../Page/1993-94년_UEFA컵.md" title="wikilink">1994</a>, <a href="../Page/1997-98년_UEFA컵.md" title="wikilink">1998</a></p></td>
-<td><p><a href="../Page/1996-97년_UEFA컵.md" title="wikilink">1997</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/아틀레티코_마드리드" title="wikilink">아틀레티코 마드리드</a></p></td>
@@ -1587,7 +1605,6 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 
 ## 같이 보기
 
-  - [UEFA 네이션스리그](https://ko.wikipedia.org/wiki/UEFA_네이션스리그 "wikilink")
   - [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink")
   - [UEFA 슈퍼컵](../Page/UEFA_슈퍼컵.md "wikilink")
   - [코파 수다메리카나](../Page/코파_수다메리카나.md "wikilink")
@@ -1604,7 +1621,7 @@ UEFA 챔피언스리그 예선에 참가하는 각국 리그 우승팀들이 예
 
   - [UEFA RANKINGS AND MORE...](http://www.uefa-coefficients.com/index.php)
 
-[UEFA_유로파리그](https://ko.wikipedia.org/wiki/분류:UEFA_유로파리그 "wikilink")
+[UEFA_유로파리그](https://ko.wikipedia.org/wiki/분류:UEFA_유로파리그 "wikilink") [분류:1971년 설립된 스포츠 리그](https://ko.wikipedia.org/wiki/분류:1971년_설립된_스포츠_리그 "wikilink")
 
 1.
 2.

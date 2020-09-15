@@ -392,13 +392,31 @@
 <td><p><a href="../Page/뉴올리언스_펠리컨스.md" title="wikilink">뉴올리언스 펠리컨스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/카피타네스_데_시우다드데멕시코" title="wikilink">카피타네스 데 시우다드데멕시코</a></p></td>
+<td><p><a href="../Page/카피타네스_데_시우다드데멕시코.md" title="wikilink">카피타네스 데 시우다드데멕시코</a></p></td>
 <td><p><a href="../Page/멕시코시티.md" title="wikilink">멕시코시티</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/힘나시오_올림피코_후안_데_라_바레라" title="wikilink">힘나시오 올림피코 후안 데 라 바레라</a></p></td>
+<td><p><a href="../Page/힘나시오_올림피코_후안_데_라_바레라.md" title="wikilink">힘나시오 올림피코 후안 데 라 바레라</a></p></td>
 <td><p>5,242명</p></td>
 <td><p>2017년</p></td>
 <td><p>2020년</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/G_리그_셀렉트팀.md" title="wikilink">G 리그 셀렉트팀</a></p></td>
+<td><p><a href="../Page/캘리포니아주.md" title="wikilink">캘리포니아주</a> <a href="../Page/월넛크릭_(캘리포니아주).md" title="wikilink">월넛크릭</a></p></td>
+<td></td>
+<td></td>
+<td><p>2020년</p></td>
+<td><p>2020년</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/노던_애리조나_선스.md" title="wikilink">디트로이트 G 리그 팀</a></p></td>
+<td><p><a href="../Page/미시간주.md" title="wikilink">미시간주</a> <a href="../Page/디트로이트.md" title="wikilink">디트로이트</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/웨인_스테이트_아레나" title="wikilink">웨인 스테이트 아레나</a></p></td>
+<td><p>3,000명</p></td>
+<td><p>2003년</p></td>
+<td><p>2021년</p></td>
+<td><p><a href="../Page/디트로이트_피스턴스.md" title="wikilink">디트로이트 피스턴스</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -983,8 +1001,9 @@
 </tr>
 <tr class="even">
 <td><p>2020~2021</p></td>
-<td><p>29개</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/카피타네스_데_시우다드데멕시코" title="wikilink">카피타네스 데 시우다드데멕시코</a></p></td>
+<td><p>30개</p></td>
+<td><p><a href="../Page/카피타네스_데_시우다드데멕시코.md" title="wikilink">카피타네스 데 시우다드데멕시코</a><br />
+ <a href="../Page/G_리그_셀렉트팀.md" title="wikilink">G 리그 셀렉트팀</a></p></td>
 <td></td>
 <td></td>
 <td></td>

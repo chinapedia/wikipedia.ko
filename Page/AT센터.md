@@ -24,6 +24,4 @@
   - [코엑스](../Page/코엑스.md "wikilink")
   - [서울무역전시컨벤션센터](../Page/서울무역전시컨벤션센터.md "wikilink")
 
-## 외부 링크
-
 [분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [분류:서울 서초구](https://ko.wikipedia.org/wiki/분류:서울_서초구 "wikilink") [분류:대한민국의 컨벤션 센터](https://ko.wikipedia.org/wiki/분류:대한민국의_컨벤션_센터 "wikilink")

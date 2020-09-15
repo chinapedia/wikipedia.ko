@@ -29,7 +29,7 @@
     남편과 초등학교 6학년 아이를 집에 남겨두고, KING에 입주한 주부. 착하고 상냥한 성격. [나베 요리가](https://ko.wikipedia.org/wiki/나베_요리 "wikilink") 특기. 4화에서는 김치나베를 만든다.
   - 타나카 쇼이치：[후카자와 아츠시](https://ko.wikipedia.org/wiki/후카자와_아츠시 "wikilink")
     IT관계의 일을 하고 있다.모리타 등 새로 온 입주자들이 살기 전부터 KING에 입주하고 있었만, 자신의 방에 틀어박혀 일만 하는 것 하였다. 오타쿠 친구 많음. 좋아하는 것은 바나나.
-  - 호소노 하루오미：[히라야마 히로유키](https://ko.wikipedia.org/wiki/히라야마_히로유키 "wikilink")
+  - 호소노 하루오미：[히라야마 히로유키](../Page/히라야마_히로유키.md "wikilink")
     영화 회사‘몰타 필름’의 프로듀서. 매니아 영화 작품만 배급.
   - 타카쿠사키 소라：[오오쿠라 코지](https://ko.wikipedia.org/wiki/오오쿠라_코지 "wikilink")
     전 샐러리맨의 [니트](../Page/니트족.md "wikilink")\[4\]. 방안에 틀어 박혀 초목으로 재배한 염료로 그림을 그린다.
@@ -65,7 +65,7 @@
     마지마의 어시스던트. 제5화에서 어시스턴트를 그만 둔다.
   - 이시이 키요미：[안도 사쿠라](https://ko.wikipedia.org/wiki/안도_사쿠라 "wikilink"), 스즈키 카즈코：[코바야시 키나코](https://ko.wikipedia.org/wiki/코바야시_키나코 "wikilink")
     아사코의 친구, 은행원.
-  - 시바타：[이부키 고로](https://ko.wikipedia.org/wiki/이부키_고로 "wikilink")
+  - 시바타：[이부키 고로](../Page/이부키_고로.md "wikilink")
     아사코를 스카우트 한 예능 프로덕션 《오피스·위시》의 거물 매니저.
   - 손의 여자친구：[코바야시 아이](https://ko.wikipedia.org/wiki/코바야시_아이 "wikilink")
     소극단의 여배우. 손의 가게에서 일을 돕고 있다.

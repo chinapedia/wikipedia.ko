@@ -1,27 +1,27 @@
 > This article is converted from Wikipedia: [MBC 제왕전](https://ko.wikipedia.org/wiki/MBC_제왕전).
 
 
-**MBC 제왕전**은 [대한민국](../Page/대한민국.md "wikilink")에서 주최한 [바둑 기전이다](../Page/바둑_기전.md "wikilink"). [문화방송](../Page/문화방송.md "wikilink")의 후원으로 [1982년](../Page/1982년.md "wikilink")에 창설되었다. [1995년](../Page/1995년.md "wikilink")에 제13회 대회를 마지막으로 중단되었다.
+**MBC 제왕전**은 [대한민국](../Page/대한민국.md "wikilink")에서 주최했던 TV 속기전으로 치러진[바둑 기전이다](../Page/바둑_기전.md "wikilink"). [문화방송](../Page/문화방송.md "wikilink")의 후원으로 [1982년](../Page/1982년.md "wikilink")에 창설되었다. [1995년](../Page/1995년.md "wikilink")에 제13회 대회를 마지막으로 중단되었다.
 
 [최양락](../Page/최양락.md "wikilink")은 해설자인 [윤기현](https://ko.wikipedia.org/wiki/윤기현 "wikilink") 9단을 패러디하여 [알까기](../Page/알까기.md "wikilink") 프로그램 해설로 제2의 전성기를 누렸다.
 
 ## 역대 우승자
 
-| 회수 | 연도   | 우승                                  | 전적    | 준우승                                                    |
-| -- | ---- | ----------------------------------- | ----- | ------------------------------------------------------ |
-| 1  | 1982 | [조훈현](../Page/조훈현.md "wikilink") 九단 | 2 - 0 | [서봉수](../Page/서봉수.md "wikilink") 七단                    |
-| 2  | 1984 | [서봉수](../Page/서봉수.md "wikilink") 八단 | 2 - 0 | [장수영](../Page/장수영.md "wikilink") 七단                    |
-| 3  | 1985 | [조훈현](../Page/조훈현.md "wikilink") 九단 | 2 - 0 | [하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 七단 |
-| 4  | 1986 | [조훈현](../Page/조훈현.md "wikilink") 九단 | 2 - 1 | [서봉수](../Page/서봉수.md "wikilink") 八단                    |
-| 5  | 1987 | [조훈현](../Page/조훈현.md "wikilink") 九단 | 2 - 0 | [서봉수](../Page/서봉수.md "wikilink") 九단                    |
-| 6  | 1988 | [서봉수](../Page/서봉수.md "wikilink") 九단 | 2 - 0 | [조훈현](../Page/조훈현.md "wikilink") 九단                    |
-| 7  | 1989 | [조훈현](../Page/조훈현.md "wikilink") 九단 | 2 - 0 | [서봉수](../Page/서봉수.md "wikilink") 九단                    |
-| 8  | 1990 | [조훈현](../Page/조훈현.md "wikilink") 九단 | 2 - 0 | [서능욱](../Page/서능욱.md "wikilink") 九단                    |
-| 9  | 1991 | [이창호](../Page/이창호.md "wikilink") 五단 | 2 - 0 | [서봉수](../Page/서봉수.md "wikilink") 九단                    |
-| 10 | 1992 | [이창호](../Page/이창호.md "wikilink") 五단 | 2 - 0 | [유창혁](../Page/유창혁.md "wikilink") 五단                    |
-| 11 | 1993 | [이창호](../Page/이창호.md "wikilink") 六단 | 2 - 0 | [유창혁](../Page/유창혁.md "wikilink") 六단                    |
-| 12 | 1994 | [조훈현](../Page/조훈현.md "wikilink") 九단 | 2 - 1 | [유창혁](../Page/유창혁.md "wikilink") 六단                    |
-| 13 | 1995 | [조훈현](../Page/조훈현.md "wikilink") 九단 | 2 - 0 | [김성룡](../Page/김성룡_\(바둑_기사\).md "wikilink") 三단          |
-|    |      |                                     |       |                                                        |
+| 기수 | 연도         | 우승                                  | 전적    | 준우승                                                        |
+| -- | ---------- | ----------------------------------- | ----- | ---------------------------------------------------------- |
+| 1  | 1982\~1983 | [조훈현](../Page/조훈현.md "wikilink") 九단 | 2 - 0 | 서봉수 七단                                                     |
+| 2  | 1983\~1984 | [서봉수](../Page/서봉수.md "wikilink") 八단 | 2 - 0 | [장수영](../Page/장수영.md "wikilink") 七단                        |
+| 3  | 1984\~1985 | 조훈현 九단                              | 2 - 0 | (故) [하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 七단 |
+| 4  | 1985\~1986 | 조훈현 九단                              | 2 - 1 | [서봉수](../Page/서봉수.md "wikilink") 八단                        |
+| 5  | 1986\~1987 | 조훈현 九단                              | 2 - 0 | 서봉수 九단                                                     |
+| 6  | 1987\~1988 | 서봉수 九단                              | 2 - 0 | 조훈현 九단                                                     |
+| 7  | 1988\~1989 | 조훈현 九단                              | 2 - 0 | 서봉수 九단                                                     |
+| 8  | 1989\~1990 | 조훈현 九단                              | 2 - 0 | [서능욱](../Page/서능욱.md "wikilink") 九단                        |
+| 9  | 1990\~1991 | [이창호](../Page/이창호.md "wikilink") 五단 | 2 - 0 | 서봉수 九단                                                     |
+| 10 | 1991\~1992 | 이창호 五단                              | 2 - 0 | [유창혁](../Page/유창혁.md "wikilink") 五단                        |
+| 11 | 1992\~1993 | 이창호 六단                              | 2 - 0 | 유창혁 六단                                                     |
+| 12 | 1993\~1994 | 조훈현 九단                              | 2 - 1 | 유창혁 六단                                                     |
+| 13 | 1994\~1995 | 조훈현 九단                              | 2 - 0 | [김성룡](../Page/김성룡_\(바둑_기사\).md "wikilink") 三단              |
+|    |            |                                     |       |                                                            |
 
 [분류:대한민국의 바둑 기전](https://ko.wikipedia.org/wiki/분류:대한민국의_바둑_기전 "wikilink") [분류:문화방송](https://ko.wikipedia.org/wiki/분류:문화방송 "wikilink") [분류:중단된 기전](https://ko.wikipedia.org/wiki/분류:중단된_기전 "wikilink")

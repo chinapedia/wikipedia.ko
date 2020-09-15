@@ -164,7 +164,7 @@
 <tr class="odd">
 <td><p>최우수 파워 노래상</p></td>
 <td><p>Hot Girl Summer<br />
-<small>(<a href="https://ko.wikipedia.org/wiki/메건_더_스탤리언" title="wikilink">메건 더 스탤리언</a> (Feat. <a href="../Page/니키_미나즈.md" title="wikilink">니키 미나즈</a> · <a href="https://ko.wikipedia.org/wiki/타이_달라_사인" title="wikilink">타이 달라 사인</a>))</small></p></td>
+<small>(<a href="../Page/메건_더_스탤리언.md" title="wikilink">메건 더 스탤리언</a> (Feat. <a href="../Page/니키_미나즈.md" title="wikilink">니키 미나즈</a> · <a href="https://ko.wikipedia.org/wiki/타이_달라_사인" title="wikilink">타이 달라 사인</a>))</small></p></td>
 <td></td>
 </tr>
 <tr class="even">

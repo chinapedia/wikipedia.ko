@@ -28,7 +28,7 @@ TC46의 멤버는 다음과 같다:
   - [마이크로소프트](../Page/마이크로소프트.md "wikilink")
   - [모노타입 이미징](https://ko.wikipedia.org/wiki/모노타입_코퍼레이션 "wikilink")
   - [Océ 테크놀로지스](https://ko.wikipedia.org/wiki/Océ "wikilink")
-  - [페이지마크 테크놀로지](https://ko.wikipedia.org/wiki/페이지마크_테크놀로지 "wikilink") [1](http://www.pagemarktechnology.com/)
+  - [페이지마크 테크놀로지](https://ko.wikipedia.org/wiki/페이지마크_테크놀로지 "wikilink") [1](https://web.archive.org/web/20080704131741/http://www.pagemarktechnology.com/)
   - [파나소닉/마츠시타](https://ko.wikipedia.org/wiki/파나소닉_코퍼레이션 "wikilink")
 
 <!-- end list -->
@@ -53,13 +53,13 @@ TC46의 멤버는 다음과 같다:
   - [XML 문서 규격](https://web.archive.org/web/20090825035207/http://www.microsoft.com/whdc/xps/xpsspec.mspx)
   - [마이크로소프트 XPS 개발 팀 블로그](http://blogs.msdn.com/xps/)
   - [XPS 문서 보기](https://web.archive.org/web/20090815052229/http://www.microsoft.com/whdc/xps/viewxps.mspx)
-  - [무료 XPS 뷰어](http://softwareimaging.com/products-services/XPSViewer/index.asp) - 32/64비트 버전
+  - [무료 XPS 뷰어](https://web.archive.org/web/20081121013225/http://softwareimaging.com/products-services/XPSViewer/index.asp) - 32/64비트 버전
   - [표준 ECMA-388 오픈 XML 문서 규격](http://www.ecma-international.org/publications/standards/Ecma-388.htm)
-  - [STDU 뷰어](http://www.stdutility.com/stduviewer.html)
+  - [STDU 뷰어](https://web.archive.org/web/20101007113329/http://stdutility.com/stduviewer.html)
 
 [분류:윈도우우 비스타](https://ko.wikipedia.org/wiki/분류:윈도우우_비스타 "wikilink") [분류:XML 기반 표준](https://ko.wikipedia.org/wiki/분류:XML_기반_표준 "wikilink") [분류:프린터](https://ko.wikipedia.org/wiki/분류:프린터 "wikilink") [분류:XML](https://ko.wikipedia.org/wiki/분류:XML "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink") [분류:Ecma 표준](https://ko.wikipedia.org/wiki/분류:Ecma_표준 "wikilink")
 
 1.
-2.  [War and PDF: Microsoft submits XPS to standards body](http://arstechnica.com/news.ars/post/20070701-microsoft-submits-pdf-competitor-to-standards-body.html)
+2.
 3.
 4.

@@ -36,7 +36,7 @@
 
 ### 메인
 
-  - **[motsu](https://ko.wikipedia.org/wiki/motsu "wikilink")** (모츠, 본명 : 세가와 모토다카(瀬川素公, せがわ もとたか), 출생년도 비공개 [5월 22일생](../Page/5월_22일.md "wikilink")) 랩, 보컬, 작사 담당
+  - **[motsu](https://ko.wikipedia.org/wiki/motsu "wikilink")** (모츠, 본명 : 세가와 모토다카(瀬川素公, せがわ もとたか), [1967년](../Page/1967년.md "wikilink") [5월 22일생](../Page/5월_22일.md "wikilink")) 랩, 보컬, 작사 담당
   - **[yuri](https://ko.wikipedia.org/wiki/yuri "wikilink")** (유리, 본명 : 마스다 유리(益田祐里, ますだ ゆり), [1977년](../Page/1977년.md "wikilink") [2월 22일생](../Page/2월_22일.md "wikilink")) 보컬 담당
 
 ### 서포트

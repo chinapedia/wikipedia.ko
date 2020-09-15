@@ -1375,6 +1375,16 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>6점차</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></td>
+<td><p>2020-06-14</p></td>
+<td><p><a href="../Page/대구_FC.md" title="wikilink">대구 FC</a></p></td>
+<td><p><a href="../Page/DGB대구은행파크.md" title="wikilink">A</a></p></td>
+<td><p>0–6</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1544,12 +1554,13 @@
 <td><p>약 34,000<br />
 (vs <a href="https://ko.wikipedia.org/wiki/LA_갤럭시" title="wikilink">LA 갤럭시</a>)[5]<br />
 약 41,500<br />
-(vs <a href="../Page/FC_도쿄.md" title="wikilink">FC 도쿄</a>)<ref>{{뉴스 인용|url=<a href="http://m.fcseoul.com/mobile/news_tv/fcnews_view.jsp?seq=1224&amp;tcd=news&amp;pg=1%7C저자=%7C제목=FC서울">http://m.fcseoul.com/mobile/news_tv/fcnews_view.jsp?seq=1224&amp;tcd=news&amp;pg=1|저자=|제목=FC서울</a>, FC도쿄와 사이 좋은 1대1 무승부</p></td>
-<td><p>출판사=FC서울 공식 웹사이트}}</ref></p></td>
+(vs <a href="../Page/FC_도쿄.md" title="wikilink">FC 도쿄</a>)[6]</p></td>
 <td><p>K리그 시즌 총관 2위<br />
 정규시즌 평관 2위</p></td>
 <td></td>
 <td></td>
+<td><p>포스트시즌:<br />
+<a href="../Page/K리그_챔피언십.md" title="wikilink">K리그 챔피언십</a> 2경기 평균관중</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울_2009_시즌" title="wikilink">2009</a></p></td>
@@ -1638,10 +1649,10 @@ K리그 평관 1위</p></td>
 미개최</p></td>
 <td><p>K리그 총관 2위<br />
 K리그 평관 2위</p></td>
-<td><p>객단가 6,452원 (1위)[6]<br />
+<td><p>객단가 6,452원 (1위)[7]<br />
 입장수입 약 20억원 (1위)</p></td>
 <td><div style="text-align: center;">
-<p>79%[7]</p>
+<p>79%[8]</p>
 </div></td>
 <td></td>
 <td></td>
@@ -1662,7 +1673,7 @@ K리그 평관 2위</p></td>
 <td><p>출판사=스포츠조선 |date=}}</ref><br />
 입장수입 약 20억원 (1위)</p></td>
 <td><div style="text-align: center;">
-<p>87%[8]</p>
+<p>87%[9]</p>
 </div></td>
 <td></td>
 </tr>
@@ -1680,9 +1691,9 @@ K리그 평관 2위</p></td>
 K리그 평관 2위</p></td>
 <td><p>9,485원 (1위)<ref>{{뉴스 인용 |제목= FC서울, K리그 최초, '객단가 9,000원' 의 벽 넘다</p></td>
 <td><p>출판사=일간스포츠 |date=}}</ref><br />
-입장수입 약 31억원 (1위)[9]</p></td>
+입장수입 약 31억원 (1위)[10]</p></td>
 <td><div style="text-align: center;">
-<p>86.5%[10]</p></td>
+<p>86.5%[11]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1697,10 +1708,10 @@ K리그 평관 2위</p></td>
 미개최</p></td>
 <td><p>K리그 총관 1위<br />
 K리그 평관 1위</p></td>
-<td><p>10,287원 (1위)[11]<br />
-입장수입 3,519,507,978원 (1위)[12]</p></td>
+<td><p>10,287원 (1위)[12]<br />
+입장수입 3,519,507,978원 (1위)[13]</p></td>
 <td><div style="text-align: center;">
-<p>86.4%[13]</p></td>
+<p>86.4%[14]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1716,11 +1727,11 @@ K리그 평관 1위</p></td>
 미개최</p></td>
 <td><p>K리그 총관 1위<br />
 K리그 평관 1위<br />
-한국 프로스포츠 평관 1위[14]</p></td>
-<td><p>10,182원 (2위)[15]<br />
-입장수입 3,156,949,999원 (1위)[16]</p></td>
+한국 프로스포츠 평관 1위[15]</p></td>
+<td><p>10,182원 (2위)[16]<br />
+입장수입 3,156,949,999원 (1위)[17]</p></td>
 <td><div style="text-align: center;">
-<p>85.6%[17]</p></td>
+<p>85.6%[18]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3923,7 +3934,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/차두리.md" title="wikilink">차두리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">프레임없음</a><span style="color:SILVER;font-family:'Garamond'"><strong>2015</strong></span> 2015년 5월 1일~[18]</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">프레임없음</a><span style="color:SILVER;font-family:'Garamond'"><strong>2015</strong></span> 2015년 5월 1일~[19]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4191,7 +4202,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
  <a href="../Page/고양_KB국민은행_축구단.md" title="wikilink">국민은행</a><br />
  <a href="../Page/제주_유나이티드_FC.md" title="wikilink">유공 코끼리</a></p></td>
 <td><p><a href="../Page/삐야퐁_피우온.md" title="wikilink">피아퐁의</a> 데뷔전 데뷔골 기록 또한<br />
-<a href="../Page/K리그.md" title="wikilink">K리그</a> 외국인 선수 최초 기록[19]<br />
+<a href="../Page/K리그.md" title="wikilink">K리그</a> 외국인 선수 최초 기록[20]<br />
 <br />
 <br />
 </p></td>
@@ -4298,16 +4309,16 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <tr class="header">
 <th><p>순번</p></th>
 <th><p>이름</p></th>
-<th><p>선임일자</p></th>
-<th><p>취임일자</p></th>
-<th><p>사임일자</p></th>
-<th><p>재임시즌</p></th>
+<th></th>
+<th></th>
+<th></th>
+<th><p>재임 시즌</p></th>
 <th><p>비고</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1대</p></td>
+<td><p>초대</p></td>
 <td><p><a href="../Page/박세학.md" title="wikilink">박세학</a></p></td>
 <td><p>1983-08-12</p></td>
 <td><p>1983-12-22</p></td>
@@ -4315,20 +4326,21 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><p>1984–1987</p></td>
 <td><ul>
 <li>구단 초대 감독</li>
-<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="https://ko.wikipedia.org/wiki/K리그_1985" title="wikilink"><span style="color:GOLD;">1985</a></strong></span> 구단 최초 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그 우승</span></a></strong> 감독</li>
+<li>구단 최초 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 감독 (<a href="https://ko.wikipedia.org/wiki/K리그_1985" title="wikilink"><span style="color:#DAA520;">1985</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">대행</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">대행</a></p></td>
 <td><p><a href="../Page/고재욱.md" title="wikilink">고재욱</a></p></td>
 <td><p>1987-12-01</p></td>
 <td><p>1987-12-01</p></td>
 <td><p>1988-12-26</p></td>
 <td><p>1988</p></td>
 <td><ul>
-<li>구단 최초 <a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">감독 대행</a></li>
-<li>1988시즌 <a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">감독 대행</a> 수행 후 1989시즌부터 정식 감독으로 승격</li>
-<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="../Page/K리그_1990.md" title="wikilink"><span style="color:GOLD;">1990</a></strong></span> 구단 2번째 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그 우승</span></a></strong> 감독</li>
+<li>구단 최초 <a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">감독대행</a> (1988)</li>
+<li>1989시즌부터 정식 감독으로 승격</li>
+<li>구단 최초 <a href="../Page/전국축구선수권대회.md" title="wikilink"><span style="color:#ED4000;">전국선수권 우승</span></a> 감독 (<a href="../Page/전국축구선수권대회.md" title="wikilink"><span style="color:#ED4000;">1988</span></a>)</li>
+<li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 감독 (<a href="../Page/K리그_1990.md" title="wikilink"><span style="color:#DAA520;">1990</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -4348,7 +4360,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><p>1996-11-05</p></td>
 <td><p>1994–1996</p></td>
 <td><ul>
-<li>구단 최초 FC 서울 선수 출신 감독</li>
+<li>구단 최초 서울 선수 출신 감독</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -4359,7 +4371,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><p>1998-11-25</p></td>
 <td><p>1997–1998</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">프레임없음</a><span style="color:SILVER;font-family:'Garamond'"><strong><a href="../Page/FA컵_1998.md" title="wikilink"><span style="color:SILVER;">1998</a></strong></span> 구단 최초 <strong><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink"><span style="color:SILVER;">FA컵 우승</span></a></strong> 감독</li>
+<li>구단 최초 <a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 감독 (<a href="../Page/FA컵_1998.md" title="wikilink"><span style="color:#ED4000;">1998</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -4371,7 +4383,8 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><p>1999–2004</p></td>
 <td><ul>
 <li>구단 역대 최장수 감독 (6시즌)</li>
-<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="https://ko.wikipedia.org/wiki/K리그_2000" title="wikilink"><span style="color:GOLD;">2000</a></strong></span> 구단 3번째 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그 우승</span></a></strong> 감독</li>
+<li>구단 3번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 감독 (<a href="https://ko.wikipedia.org/wiki/K리그_2000" title="wikilink"><span style="color:#DAA520;">2000</span></a>)</li>
+<li>구단 최초 <a href="../Page/슈퍼컵_(대한민국).md" title="wikilink"><span style="color:#8B4513;">슈퍼컵 우승</span></a> 감독 (<a href="../Page/대한민국_슈퍼컵_2001.md" title="wikilink"><span style="color:#8B4513;">2001</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -4382,12 +4395,12 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><p>2006-12-02</p></td>
 <td><p>2005–2006</p></td>
 <td><ul>
-<li>구단 최초 <a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a> 우승 감독</li>
+<li>구단 최초 <a href="../Page/리그컵_(대한민국).md" title="wikilink"><span style="color:#008000;">리그컵 우승</span></a> 감독 (<a href="../Page/리그컵_2006.md" title="wikilink"><span style="color:#008000;">2006</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>7대</p></td>
-<td><p><a href="../Page/셰놀_귀네슈.md" title="wikilink">셰놀 귀네슈</a></p></td>
+<td><p><a href="../Page/셰놀_귀네슈.md" title="wikilink">귀네슈</a></p></td>
 <td><p>2006-12-08</p></td>
 <td><p>2007-01-08</p></td>
 <td><p>2009-11-25</p></td>
@@ -4398,16 +4411,16 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 </tr>
 <tr class="odd">
 <td><p>8대</p></td>
-<td><p><a href="../Page/넬루_빙가다.md" title="wikilink">넬루 빙가다</a></p></td>
+<td><p><a href="../Page/넬루_빙가다.md" title="wikilink">빙가다</a></p></td>
 <td><p>2009-12-14</p></td>
 <td><p>2010-01-03</p></td>
 <td><p>2010-12-13</p></td>
 <td><p>2010</p></td>
 <td><ul>
 <li><p>구단 2번째 외국인 감독</p></li>
-<li>구단 최초 <strong>더블 우승</strong> 달성 (<a href="../Page/K리그.md" title="wikilink">K리그</a>와 <a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a>)</li>
-<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="https://ko.wikipedia.org/wiki/K리그_2010" title="wikilink"><span style="color:GOLD;">2010</a></strong></span> 구단 4번째 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그 우승</span></a></strong> 감독</li>
-<li>구단 2번째 <a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a> 우승 감독</li>
+<li>구단 최초 더블 우승 달성 (<a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a> &amp; <a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a>)</li>
+<li>구단 4번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 감독 (<a href="https://ko.wikipedia.org/wiki/K리그_2010" title="wikilink"><span style="color:#DAA520;">2010</span></a>)</li>
+<li>구단 2번째 <a href="../Page/리그컵_(대한민국).md" title="wikilink"><span style="color:#008000;">리그컵 우승</span></a> 감독 (<a href="../Page/리그컵_2010.md" title="wikilink"><span style="color:#008000;">2010</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -4418,24 +4431,23 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><p>2011-04-26</p></td>
 <td><p>2011</p></td>
 <td><ul>
-<li>구단 최초 시즌 도중 자진사퇴한 감독</li>
+<li>구단 최초 시즌 도중 사퇴한 감독</li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">대행</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최용수_(축구인)" title="wikilink">최용수</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">대행</a></p></td>
+<td><p><a href="../Page/최용수.md" title="wikilink">최용수</a></p></td>
 <td><p>2011-04-26</p></td>
 <td><p>2011-04-27</p></td>
 <td><p>2011-12-08</p></td>
 <td><p>2011</p></td>
 <td><ul>
-<li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">감독 대행</a></li>
-<li>2011시즌 <a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">감독 대행</a> 수행 후 2012시즌부터 정식 감독으로 승격</li>
-<li>구단 2번째 FC 서울 선수 출신 감독</li>
-<li>구단 최초 FC 서울 선수, 코치, 감독 자격으로 <a href="../Page/K리그.md" title="wikilink">K리그</a> 우승 달성</li>
-<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="https://ko.wikipedia.org/wiki/K리그_2012" title="wikilink"><span style="color:GOLD;">2012</a></strong></span> 구단 5번째 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그 우승</span></a></strong> 감독</li>
-<li><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">프레임없음</a><span style="color:SILVER;font-family:'Garamond'"><strong><a href="../Page/FA컵_2015.md" title="wikilink"><span style="color:SILVER;">2015</a></strong></span> 구단 2번째 <strong><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink"><span style="color:SILVER;">FA컵 우승</span></a></strong> 감독</li>
-<li>구단 2번째 시즌 도중 자진사퇴한 감독</li>
+<li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">감독대행</a> (2011)</li>
+<li>2012시즌부터 정식 감독으로 승격</li>
+<li>구단 2번째 서울 선수 출신 감독</li>
+<li>구단 5번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 감독 (<a href="https://ko.wikipedia.org/wiki/K리그_2012" title="wikilink"><span style="color:#DAA520;">2012</span></a>)</li>
+<li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 감독 (<a href="../Page/FA컵_2015.md" title="wikilink"><span style="color:#ED4000;">2015</span></a>)</li>
+<li>구단 2번째 시즌 도중 사퇴한 감독</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -4448,14 +4460,15 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">대행</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">대행</a></p></td>
 <td><p><a href="../Page/김성재_(축구인).md" title="wikilink">김성재</a></p></td>
 <td><p>2016-06-23</p></td>
 <td><p>2016-06-23</p></td>
 <td><p>2016-06-26</p></td>
 <td><p>2016</p></td>
 <td><ul>
-<li>구단 3번째 <a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">감독 대행으로</a> 최소 경기 (1경기) 지휘</li>
+<li>구단 3번째 <a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">감독대행</a> (2016)</li>
+<li>최소 경기 지휘 (1경기)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -4463,10 +4476,44 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><p><a href="../Page/황선홍.md" title="wikilink">황선홍</a></p></td>
 <td><p>2016-06-21</p></td>
 <td><p>2016-06-27</p></td>
-<td></td>
-<td><p>2016–현재</p></td>
+<td><p>2018-04-30</p></td>
+<td><p>2016–2018</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="https://ko.wikipedia.org/wiki/K리그_클래식_2016" title="wikilink"><span style="color:GOLD;">2016</a></strong></span> 구단 6번째 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그 우승</span></a></strong> 감독</li>
+<li>구단 6번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 감독 (<a href="https://ko.wikipedia.org/wiki/K리그_클래식_2016" title="wikilink"><span style="color:#DAA520;">2016</span></a>)</li>
+<li>구단 3번째 시즌 도중 사퇴한 감독</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">대행</a></p></td>
+<td><p><a href="../Page/이을용.md" title="wikilink">이을용</a></p></td>
+<td><p>2018-04-30</p></td>
+<td><p>2018-04-30</p></td>
+<td><p>2018-10-11</p></td>
+<td><p>2018</p></td>
+<td><ul>
+<li>구단 4번째 <a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">감독대행</a> (2018)</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>12대</p></td>
+<td><p><a href="../Page/최용수.md" title="wikilink">최용수</a></p></td>
+<td><p>2018-10-11</p></td>
+<td><p>2018-10-11</p></td>
+<td><p>2020-07-30</p></td>
+<td><p>2018–2020</p></td>
+<td><ul>
+<li>구단 최초 재취임 감독</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">대행</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김호영_(축구인)" title="wikilink">김호영</a></p></td>
+<td><p>2020-07-30</p></td>
+<td><p>2020-07-30</p></td>
+<td></td>
+<td><p>2020–현재</p></td>
+<td><ul>
+<li>구단 5번째 <a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">감독대행</a> (2020)</li>
 </ul></td>
 </tr>
 </tbody>
@@ -4486,17 +4533,20 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>구단주</p></td>
-<td><p><a href="../Page/허창수.md" title="wikilink">허창수</a></p></td>
+<td><CENTER/>
+<p>구단주</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/허태수" title="wikilink">허태수</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>사장</p></td>
-<td><p>엄태진</p></td>
+<td><CENTER/>
+<p>사장</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/엄태진" title="wikilink">엄태진</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>단장</p></td>
+<td><CENTER/>
+<p>단장</p></td>
 <td><p>강명원</p></td>
 <td></td>
 </tr>
@@ -4515,67 +4565,70 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <tr class="header">
 <th><p>순번</p></th>
 <th><p>이름</p></th>
-<th><p>취임</p></th>
-<th><p>사임</p></th>
-<th><p>재임시즌</p></th>
+<th><p>취임 일자</p></th>
+<th><p>사임 일자</p></th>
+<th><p>재임 시즌</p></th>
 <th><p>비고</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><div style="text-align: center;">
-<p>1대</p>
-</div></td>
+<td><center>
+<p>초대</p></td>
 <td><p><a href="../Page/구자경_(1925년).md" title="wikilink">구자경</a></p></td>
-<td><div style="text-align: center;">
-<p>1983-08-12</p>
-</div></td>
-<td><div style="text-align: center;">
-<p>1990-12-27</p>
-</div></td>
-<td><div style="text-align: center;">
-<p>1984–1990</p>
-</div></td>
+<td><center>
+<p>1983-08-12</p></td>
+<td><center>
+<p>1990-12-27</p></td>
+<td><center>
+<p>1984–1990</p></td>
 <td><ul>
 <li>초대 구단주</li>
-<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="https://ko.wikipedia.org/wiki/K리그_1985" title="wikilink"><span style="color:GOLD;">1985</span></a>, <a href="../Page/K리그_1990.md" title="wikilink"><span style="color:GOLD;">1990</span></a></strong></span> 구단 최초 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그</span></a> <span style="color:GOLD;">우승</span></strong> 구단주</li>
+<li>구단 최초 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 구단주 (<a href="https://ko.wikipedia.org/wiki/K리그_1985" title="wikilink"><span style="color:#DAA520;">1985</span></a>･<a href="../Page/K리그_1990.md" title="wikilink"><span style="color:#DAA520;">1990</span></a>)</li>
+<li>구단 최초 <a href="../Page/전국축구선수권대회.md" title="wikilink"><span style="color:#ED4000;">전국선수권 우승</span></a> 구단주 (<a href="../Page/전국축구선수권대회.md" title="wikilink"><span style="color:#ED4000;">1988</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><div style="text-align: center;">
-<p>2대</p>
-</div></td>
+<td><center>
+<p>2대</p></td>
 <td><p><a href="../Page/구본무.md" title="wikilink">구본무</a></p></td>
-<td><div style="text-align: center;">
-<p>1990-12-28</p>
-</div></td>
-<td><div style="text-align: center;">
-<p>1998-02-28</p>
-</div></td>
-<td><div style="text-align: center;">
-<p>1991–1997</p>
-</div></td>
+<td><center>
+<p>1990-12-28</p></td>
+<td><center>
+<p>1998-02-28</p></td>
+<td><center>
+<p>1991–1997</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><div style="text-align: center;">
-<p>3대</p>
-</div></td>
+<td><center>
+<p>3대</p></td>
 <td><p><a href="../Page/허창수.md" title="wikilink">허창수</a></p></td>
-<td><div style="text-align: center;">
-<p>1998-03-01</p>
-</div></td>
-<td><div style="text-align: center;">
-</div></td>
-<td><div style="text-align: center;">
-<p>1998–현재</p>
-</div></td>
+<td><center>
+<p>1998-03-01</p></td>
+<td><center>
+<p>2020-03-23</p></td>
+<td><center>
+<p>1998–2020</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/파일:K_League_Classic_Trophy.png" title="wikilink">프레임없음</a><span style="color:GOLD;font-family:'Garamond'"><strong><a href="https://ko.wikipedia.org/wiki/K리그_2000" title="wikilink"><span style="color:GOLD;">2000</span></a>, <a href="https://ko.wikipedia.org/wiki/K리그_2010" title="wikilink"><span style="color:GOLD;">2010</span></a>, <a href="https://ko.wikipedia.org/wiki/K리그_2012" title="wikilink"><span style="color:GOLD;">2012</span></a>, <a href="https://ko.wikipedia.org/wiki/K리그_클래식_2016" title="wikilink"><span style="color:GOLD;">2016</span></a></strong></span> 구단 2번째 <strong><a href="../Page/K리그.md" title="wikilink"><span style="color:GOLD;">K리그</span></a> <span style="color:GOLD;">우승</span></strong> 구단주</li>
-<li><a href="https://ko.wikipedia.org/wiki/파일:Korean_FA_Cup_Trophy.png" title="wikilink">프레임없음</a><span style="color:SILVER;font-family:'Garamond'"><strong><a href="../Page/FA컵_1998.md" title="wikilink"><span style="color:SILVER;">1998</span></a>, <a href="../Page/FA컵_2015.md" title="wikilink"><span style="color:SILVER;">2015</span></a></strong></span> 구단 최초 <strong><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink"><span style="color:SILVER;">FA컵</span></a> <span style="color:SILVER;">우승</span></strong> 구단주</li>
+<li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 구단주 (<a href="https://ko.wikipedia.org/wiki/K리그_2000" title="wikilink"><span style="color:#DAA520;">2000</span></a>･<a href="https://ko.wikipedia.org/wiki/K리그_2010" title="wikilink"><span style="color:#DAA520;">2010</span></a>･<a href="https://ko.wikipedia.org/wiki/K리그_2012" title="wikilink"><span style="color:#DAA520;">2012</span></a>･<a href="https://ko.wikipedia.org/wiki/K리그_클래식_2016" title="wikilink"><span style="color:#DAA520;">2016</span></a>)</li>
+<li>구단 최초 <a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 구단주 (<a href="../Page/FA컵_1998.md" title="wikilink"><span style="color:#ED4000;">1998</span></a>･<a href="../Page/FA컵_2015.md" title="wikilink"><span style="color:#ED4000;">2015</span></a>)</li>
+<li>구단 최초 <a href="../Page/리그컵_(대한민국).md" title="wikilink"><span style="color:#008000;">리그컵 우승</span></a> 구단주 (<a href="../Page/리그컵_2006.md" title="wikilink"><span style="color:#008000;">2006</span></a>･<a href="../Page/리그컵_2010.md" title="wikilink"><span style="color:#008000;">2010</span></a>)</li>
+<li>구단 최초 <a href="../Page/슈퍼컵_(대한민국).md" title="wikilink"><span style="color:#8B4513;">슈퍼컵 우승</span></a> 구단주 (<a href="../Page/대한민국_슈퍼컵_2001.md" title="wikilink"><span style="color:#8B4513;">2001</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="even">
+<td><center>
+<p>4대</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/허태수" title="wikilink">허태수</a></p></td>
+<td><center>
+<p>2020-03-26</p></td>
+<td><center></td>
+<td><center>
+<p>2020–현재</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -4619,7 +4672,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>3년</p>
 </div></td>
 <td><p>약 45억~47억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 400만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[20]</p></td>
+약 400만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[21]</p></td>
 <td><p><a href="../Page/미국_달러.md" title="wikilink">USD</a> 1,178.80<br />
 </p></td>
 <td></td>
@@ -4638,7 +4691,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>3년</p>
 </div></td>
 <td><p>약 44억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 220만 <a href="../Page/파운드_스털링.md" title="wikilink">파운드</a>[21][22]</p></td>
+약 220만 <a href="../Page/파운드_스털링.md" title="wikilink">파운드</a>[22][23]</p></td>
 <td><p>USD 1,237.10<br />
 <a href="../Page/파운드_스털링.md" title="wikilink">GBP</a> 2,049.19</p></td>
 <td></td>
@@ -4657,7 +4710,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>3년</p>
 </div></td>
 <td><p>약 42억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 400만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[23][24]</p></td>
+약 400만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[24][25]</p></td>
 <td><p>USD 1,057.00</p></td>
 <td></td>
 </tr>
@@ -4675,7 +4728,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>4년</p>
 </div></td>
 <td><p>약 35억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 200만 <a href="../Page/파운드_스털링.md" title="wikilink">파운드</a>[25][26]</p></td>
+약 200만 <a href="../Page/파운드_스털링.md" title="wikilink">파운드</a>[26][27]</p></td>
 <td><p>USD 1,178.10<br />
 <a href="../Page/파운드_스털링.md" title="wikilink">GBP</a> 1,687.22</p></td>
 <td></td>
@@ -4694,7 +4747,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>3년</p>
 </div></td>
 <td><p>약 34억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 300만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[27]<ref>{{뉴스 인용|url=<a href="http://www.goal.com/en/news/14/asia/2011/07/10/2568413/official-former-afc-player-of-the-year-server-djeparov-leaves-fc-">http://www.goal.com/en/news/14/asia/2011/07/10/2568413/official-former-afc-player-of-the-year-server-djeparov-leaves-fc-</a></p></td>
+약 300만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[28]<ref>{{뉴스 인용|url=<a href="http://www.goal.com/en/news/14/asia/2011/07/10/2568413/official-former-afc-player-of-the-year-server-djeparov-leaves-fc-">http://www.goal.com/en/news/14/asia/2011/07/10/2568413/official-former-afc-player-of-the-year-server-djeparov-leaves-fc-</a></p></td>
 <td><p>저자=|제목=Former AFC Player of the Year Server Djeparov leaves FC Seoul to join Al Shabab|날짜=2011-07-10|출판사=골닷컴}}</ref></p></td>
 <td><p>USD 1,064.30<br />
 <a href="../Page/유로.md" title="wikilink">EUR</a> 1,512.78</p></td>
@@ -4713,7 +4766,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>4년</p>
 </div></td>
 <td><p>약 32억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 200만 <a href="../Page/유로.md" title="wikilink">유로</a>[28]</p></td>
+약 200만 <a href="../Page/유로.md" title="wikilink">유로</a>[29]</p></td>
 <td><p>USD 1,087.00<br />
 <a href="../Page/유로.md" title="wikilink">EUR</a> 1,596.69</p></td>
 <td></td>
@@ -4732,7 +4785,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>3년</p>
 </div></td>
 <td><p>약 27억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 250만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[29]</p></td>
+약 250만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[30]</p></td>
 <td><p>USD 1,101.30</p></td>
 <td></td>
 </tr>
@@ -4751,7 +4804,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 3년</p>
 </div></td>
 <td><p>약 23억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 180만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[30]</p></td>
+약 180만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[31]</p></td>
 <td><p>USD 1,187.20</p></td>
 <td></td>
 </tr>
@@ -4769,7 +4822,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>비공개</p>
 </div></td>
 <td><p>약 22억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 1억 5천만 <a href="../Page/일본_엔.md" title="wikilink">엔</a>[31]</p></td>
+약 1억 5천만 <a href="../Page/일본_엔.md" title="wikilink">엔</a>[32]</p></td>
 <td><p>USD 1,125.50<br />
 <a href="../Page/일본_엔.md" title="wikilink">JPY</a> 1,477.42</p></td>
 <td></td>
@@ -4788,7 +4841,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>3년</p>
 </div></td>
 <td><p>약 20억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 174만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[32]</p></td>
+약 174만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[33]</p></td>
 <td><p>USD 1,144.50<br />
 </p></td>
 <td></td>
@@ -4807,7 +4860,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>3년</p>
 </div></td>
 <td><p>약 19억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 200만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[33]</p></td>
+약 200만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[34]</p></td>
 <td><p>USD 958.80</p></td>
 <td></td>
 </tr>
@@ -4825,7 +4878,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>3년</p>
 </div></td>
 <td><p>약 17억~19억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 160~180만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[34]<ref>{{뉴스 인용|url=<a href="http://sports.news.naver.com/sports/index.nhn?category=soccer&amp;ctg=news&amp;mod=read&amp;office_id=076&amp;article_id=0002647605">http://sports.news.naver.com/sports/index.nhn?category=soccer&amp;ctg=news&amp;mod=read&amp;office_id=076&amp;article_id=0002647605</a></p></td>
+약 160~180만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[35]<ref>{{뉴스 인용|url=<a href="http://sports.news.naver.com/sports/index.nhn?category=soccer&amp;ctg=news&amp;mod=read&amp;office_id=076&amp;article_id=0002647605">http://sports.news.naver.com/sports/index.nhn?category=soccer&amp;ctg=news&amp;mod=read&amp;office_id=076&amp;article_id=0002647605</a></p></td>
 <td><p>저자=|제목=하대성이 못다한 브라질월드컵 이야기 그리고 홍명보 |날짜=2014-12-08|출판사=스포츠조선}}</ref></p></td>
 <td><p>USD 1,050.50</p></td>
 </tr>
@@ -4843,7 +4896,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>2년</p>
 </div></td>
 <td><p>약 17억~19억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 150만~170만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[35][36]</p></td>
+약 150만~170만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[36][37]</p></td>
 <td><p>USD 1,111.80</p></td>
 <td></td>
 </tr>
@@ -4860,7 +4913,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>비공개</p>
 </div></td>
-<td><p>약 17억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[37][38]</p></td>
+<td><p>약 17억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[38][39]</p></td>
 <td><p>USD 936.50</p></td>
 <td></td>
 </tr>
@@ -4877,7 +4930,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>3년</p>
 </div></td>
-<td><p>약 15억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[39][40]</p></td>
+<td><p>약 15억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[40][41]</p></td>
 <td><p>USD 951.30</p></td>
 <td></td>
 </tr>
@@ -4895,7 +4948,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>3년 6개월</p>
 </div></td>
 <td><p>약 12억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 110만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[41]</p></td>
+약 110만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[42]</p></td>
 <td><p>USD 1,790.00</p></td>
 <td></td>
 </tr>
@@ -4912,7 +4965,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>5년</p>
 </div></td>
-<td><p>11억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[42]</p></td>
+<td><p>11억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[43]</p></td>
 <td><p>USD 1,173.60</p></td>
 <td></td>
 </tr>
@@ -4930,7 +4983,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>2년</p>
 </div></td>
 <td><p>약 11억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 1억 <a href="../Page/일본_엔.md" title="wikilink">엔</a>[43][44]</p></td>
+약 1억 <a href="../Page/일본_엔.md" title="wikilink">엔</a>[44][45]</p></td>
 <td><p>USD 1,187.00<br />
 <a href="../Page/일본_엔.md" title="wikilink">JYP</a></p></td>
 <td></td>
@@ -4949,7 +5002,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>2년</p>
 </div></td>
 <td><p>약 8억 5천만 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 70만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[45]</p></td>
+약 70만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[46]</p></td>
 <td><p>USD 1,158.20</p></td>
 <td></td>
 </tr>
@@ -4986,7 +5039,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>4년</p>
 </div></td>
-<td><p>약 25억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[46]<ref>{{뉴스 인용|url=<a href="http://sports.news.naver.com/sports/index.nhn?category=k_league&amp;ctg=news&amp;mod=read&amp;office_id=032&amp;article_id=0001943992">http://sports.news.naver.com/sports/index.nhn?category=k_league&amp;ctg=news&amp;mod=read&amp;office_id=032&amp;article_id=0001943992</a></p></td>
+<td><p>약 25억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[47]<ref>{{뉴스 인용|url=<a href="http://sports.news.naver.com/sports/index.nhn?category=k_league&amp;ctg=news&amp;mod=read&amp;office_id=032&amp;article_id=0001943992">http://sports.news.naver.com/sports/index.nhn?category=k_league&amp;ctg=news&amp;mod=read&amp;office_id=032&amp;article_id=0001943992</a></p></td>
 <td><p>저자=|제목=용병은‘구관이 명관’…23명중 17명 브라질 출신|날짜=2008-03-05|출판사=경향신문}}</ref></p></td>
 <td><p><a href="../Page/미국_달러.md" title="wikilink">USD</a> 922.90</p></td>
 </tr>
@@ -5003,7 +5056,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>3년</p>
 </div></td>
-<td><p>약 15억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[47]~20억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[48]</p></td>
+<td><p>약 15억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[48]~20억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[49]</p></td>
 <td><p>USD 1,122.00</p></td>
 <td></td>
 </tr>
@@ -5021,7 +5074,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>2년</p>
 </div></td>
 <td><p>약 13억 5천만 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 120만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[49]</p></td>
+약 120만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[50]</p></td>
 <td><p>USD 1,145.09</p></td>
 <td></td>
 </tr>
@@ -5038,7 +5091,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>3년</p>
 </div></td>
-<td><p>약 11억~15억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[50]</p></td>
+<td><p>약 11억~15억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[51]</p></td>
 <td><p>USD 1,116.70</p></td>
 <td></td>
 </tr>
@@ -5055,7 +5108,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>5년</p>
 </div></td>
-<td><p>10억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[51]</p></td>
+<td><p>10억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[52]</p></td>
 <td><p>USD 1,181.60</p></td>
 <td></td>
 </tr>
@@ -5072,7 +5125,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>3년 6개월</p>
 </div></td>
-<td><p>약 10억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[52]</p></td>
+<td><p>약 10억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[53]</p></td>
 <td><p>USD 1,008.50</p></td>
 <td></td>
 </tr>
@@ -5089,7 +5142,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>3년</p>
 </div></td>
-<td><p>약 10억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[53]</p></td>
+<td><p>약 10억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[54]</p></td>
 <td><p>USD 1,167.60</p></td>
 <td></td>
 </tr>
@@ -5106,7 +5159,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>3년 6개월</p>
 </div></td>
-<td><p>약 10억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[54]</p></td>
+<td><p>약 10억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[55]</p></td>
 <td><p>USD 1,194.40</p></td>
 <td></td>
 </tr>
@@ -5123,7 +5176,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>비공개</p>
 </div></td>
-<td><p>10억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[55]</p></td>
+<td><p>10억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[56]</p></td>
 <td><p>USD 1,074.50</p></td>
 <td></td>
 </tr>
@@ -5141,7 +5194,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>4년</p>
 </div></td>
 <td><p>약 9억 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 200만 <a href="../Page/브라질_헤알.md" title="wikilink">헤알</a>[56][57]</p></td>
+약 200만 <a href="../Page/브라질_헤알.md" title="wikilink">헤알</a>[57][58]</p></td>
 <td><p>USD 1,064.00<br />
 <a href="../Page/브라질_헤알.md" title="wikilink">BRL</a> 454.11</p></td>
 <td></td>
@@ -5159,7 +5212,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>비공개</p>
 </div></td>
-<td><p>약 8억~9억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[58]</p></td>
+<td><p>약 8억~9억 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[59]</p></td>
 <td><p>USD 1,136.00</p></td>
 <td><p>약 7억<a href="../Page/대한민국_원.md" title="wikilink">원</a>+선수 1명<br />
 (<a href="../Page/이재안.md" title="wikilink">이재안</a>)</p></td>
@@ -5178,7 +5231,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>비공개</p>
 </div></td>
 <td><p>약 6억~8억 5천만 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 50만[59]~70만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[60][61]</p></td>
+약 50만[60]~70만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[61][62]</p></td>
 <td><p>USD 1,242.70</p></td>
 <td></td>
 </tr>
@@ -5195,7 +5248,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><div style="text-align: center;">
 <p>2년 6개월</p>
 </div></td>
-<td><p>6억 6천만 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[62]</p></td>
+<td><p>6억 6천만 <a href="../Page/대한민국_원.md" title="wikilink">원</a>[63]</p></td>
 <td><p>USD 1,166.50</p></td>
 <td></td>
 </tr>
@@ -5213,7 +5266,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>비공개</p>
 </div></td>
 <td><p>약 5억 4천만 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 60만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[63]</p></td>
+약 60만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[64]</p></td>
 <td><p>USD 902.00</p></td>
 <td></td>
 </tr>
@@ -5231,7 +5284,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>비공개</p>
 </div></td>
 <td><p>약 4억 3천만 <a href="../Page/대한민국_원.md" title="wikilink">원</a> (당시 환율)<br />
-약 50만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[64]</p></td>
+약 50만 <a href="../Page/미국_달러.md" title="wikilink">달러</a>[65]</p></td>
 <td><p>USD 1,242.70</p></td>
 <td></td>
 </tr>
@@ -5257,7 +5310,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 
   - [부천 SK에서](../Page/제주_유나이티드_FC.md "wikilink") [트라브존스포르로](../Page/트라브존스포르_\(축구\).md "wikilink") 완적이적 형식으로 이적하였으나
     이적료 미지급으로 부천 SK가 선수 소유권을 다시 가지게 되었으며
-    이에따라 부천 SK에 이적료 지급\[65\]
+    이에따라 부천 SK에 이적료 지급\[66\]
 
 ## 역대 자매결연 구단
 
@@ -5272,17 +5325,17 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/가시와_레이솔.md" title="wikilink">히타치 축구단</a> (현 <a href="../Page/가시와_레이솔.md" title="wikilink">가시와 레이솔</a>)</p></td>
-<td><p>1992-04-14[66]</p></td>
+<td><p>1992-04-14[67]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/보카_주니어스" title="wikilink">보카 주니어스</a></p></td>
-<td><p>2005-07-25[67][68]</p></td>
+<td><p>2005-07-25[68][69]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/FC_도쿄.md" title="wikilink">FC 도쿄</a></p></td>
-<td><p>2006-08-05[69]</p></td>
+<td><p>2006-08-05[70]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -5299,7 +5352,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 ## 참고 자료
 
   - [K리그 공식 기록 페이지](https://web.archive.org/web/20150702122820/http://kleague.com/kr/sub.asp?avan=1008010000&)
-  - [FC 서울 매치데이 매거진](http://www.fcseoul.com/match/report/report_list.jsp)
+  - [FC 서울 매치데이 매거진](https://web.archive.org/web/20110509235915/http://www.fcseoul.com/match/report/report_list.jsp)
   - [네이버 디지털 뉴스 아카이브 옛날 신문 보기](http://dna.naver.com/search/searchByDate.nhn#)
   - 월간 축구전문지 [베스트일레븐](https://ko.wikipedia.org/wiki/베스트일레븐 "wikilink")(구 월간축구)
   - [국립중앙도서관](../Page/국립중앙도서관.md "wikilink") 일간스포츠 마이크로필름 자료
@@ -5308,7 +5361,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 
   - [FC 서울 공식 웹사이트](http://www.fcseoul.com/)
 
-[분류:FC 서울](https://ko.wikipedia.org/wiki/분류:FC_서울 "wikilink") [분류:축구단 기록과 통계](https://ko.wikipedia.org/wiki/분류:축구단_기록과_통계 "wikilink")
+[분류:FC 서울](https://ko.wikipedia.org/wiki/분류:FC_서울 "wikilink") [분류:대한민국 축구단의 기록과 통계](https://ko.wikipedia.org/wiki/분류:대한민국_축구단의_기록과_통계 "wikilink")
 
 1.
 2.
@@ -5321,12 +5374,12 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 9.
 10.
 11.
-12. 2017 K리그 연감 150P
-13.
+12.
+13. 2017 K리그 연감 150P
 14.
 15.
-16. 2018 K리그 연감 144P
-17.
+16.
+17. 2018 K리그 연감 144P
 18.
 19.
 20.
@@ -5379,3 +5432,4 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 67.
 68.
 69.
+70.

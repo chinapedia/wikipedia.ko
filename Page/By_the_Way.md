@@ -68,4 +68,6 @@
   - [줄리안 슈내벌](https://ko.wikipedia.org/wiki/줄리안_슈내벌 "wikilink") 과 [레드 핫 칠리 페퍼스](../Page/레드_핫_칠리_페퍼스.md "wikilink") – [아트 디렉션](https://ko.wikipedia.org/wiki/아트_디렉션 "wikilink")
   - [블라더미르 멜러](https://ko.wikipedia.org/wiki/블라더미르_멜러 "wikilink") – [마스터링](https://ko.wikipedia.org/wiki/마스터링 "wikilink")
 
-[분류:레드 핫 칠리 페퍼스의 음반](https://ko.wikipedia.org/wiki/분류:레드_핫_칠리_페퍼스의_음반 "wikilink") [분류:2002년 음반](https://ko.wikipedia.org/wiki/분류:2002년_음반 "wikilink")
+## 외부 링크
+
+[분류:2002년 음반](https://ko.wikipedia.org/wiki/분류:2002년_음반 "wikilink") [분류:레드 핫 칠리 페퍼스의 음반](https://ko.wikipedia.org/wiki/분류:레드_핫_칠리_페퍼스의_음반 "wikilink") [분류:워너 브라더스 레코드 음반](https://ko.wikipedia.org/wiki/분류:워너_브라더스_레코드_음반 "wikilink") [분류:릭 루빈이 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:릭_루빈이_프로듀싱한_음반 "wikilink")

@@ -34,6 +34,16 @@ Megpoid는 2009년 6월 26일 VOCALOID2 엔진을 기반으로 발매된 VOCALOI
 
 [2012년](../Page/2012년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") 발매된 [닌텐도 3DS](../Page/닌텐도_3DS.md "wikilink") 용 게임. 《하츠네 미쿠 and Future Stars Project mirai》에는 등장하지 않았으나, 《하츠네 미쿠 Project mirai 2》와《하츠네 미쿠 Project mirai 디럭스》부터는 Megpoid도 등장한다. 찾아와서 팁을 알려주거나 일부 PV에 나오는 역할로 등장한다.
 
+### 도서
+
+  - 악의 딸
+
+악곡 악의 딸을 소설화한 책. Megpoid(또는gumi)를 모티브로 한 구미리아가 등장한다.
+
+  - 악의 대죄 네메시스의 총구
+
+악곡 네메시스의 총구를 소설화 한 책. Megpoid를 모티브로 한 네메시스 스도우가 등장한다.
+
 ## 같이 보기
 
   - [VOCALOID](https://ko.wikipedia.org/wiki/VOCALOID "wikilink")

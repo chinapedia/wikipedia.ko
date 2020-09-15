@@ -9,7 +9,7 @@
 
 ## 관심
 
-[애플은](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [맥 OS X를](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") PC 스타일의 컴퓨터를 판매한 적은 없다. OS X에는 [잉크웰](https://ko.wikipedia.org/wiki/잉크웰 "wikilink")을 통한 필기 인식을 지원하지 않는다. 대신 애플은\[8\]\[9\]\[10\] 전통적인 PC와는 구별되지만 굳건한 터치 인터페이스는\[11\] 태블릿 PC 개발 역사에 한 획을 그었다고 여겨지고 있다.\[12\]
+[애플](../Page/애플.md "wikilink")은 [맥 OS X를](https://ko.wikipedia.org/wiki/맥_OS_X "wikilink") PC 스타일의 컴퓨터를 판매한 적은 없다. OS X에는 [잉크웰](https://ko.wikipedia.org/wiki/잉크웰 "wikilink")을 통한 필기 인식을 지원하지 않는다. 대신 애플은\[8\]\[9\]\[10\] 전통적인 PC와는 구별되지만 굳건한 터치 인터페이스는\[11\] 태블릿 PC 개발 역사에 한 획을 그었다고 여겨지고 있다.\[12\]
 
 ## 각주
 
@@ -30,7 +30,7 @@
 5.  <https://www.youtube.com/watch?v=KPDfHWAEV8A>
 6.
 7.
-8.  www.fsf.org/news/ibad_launch iPad is iBad for freedom — Free Software Foundation — working together for free software \]
+8.  <http://www.fsf.org/news/ibad_launch> iPad is iBad for freedom — Free Software Foundation — working together for free software \]
 9.  [아이패드는 컴퓨터가 아니다](http://spectrum.ieee.org/consumer-electronics/portable-devices/the-ipad-is-not-a-computer)
 10.  Popular Science |확인날짜=2010-10-17 |보존url=<https://web.archive.org/web/20100420043520/http://www.popsci.com/gadgets/article/2010-01/ipad%E2%80%99s-closed-system-sometimes-i-hate-being-right> |보존날짜=2010-04-20 |url-status=dead }}
 11. [Thoughts on Flash](https://www.apple.com/hotnews/thoughts-on-flash/)

@@ -65,7 +65,7 @@
 
 ## 7세대(G20)
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:2019_BMW_320d_xDrive_M_Sport_2.0_Front.jpg "wikilink") [2018년](../Page/2018년.md "wikilink")에 [파리 모터쇼에서](../Page/파리_모터쇼.md "wikilink") 공개되었다. {{-}}
+[섬네일](https://ko.wikipedia.org/wiki/파일:2019_BMW_320d_xDrive_M_Sport_2.0_Front.jpg "wikilink") [2018년](../Page/2018년.md "wikilink")에 [파리 모터쇼에서](../Page/파리_모터쇼.md "wikilink") 공개되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [2019년 5월에](https://ko.wikipedia.org/wiki/2019년_5월 "wikilink") 330i, 320d가 먼저 출시되고, M340i, 320i는 하반기에 들여왔다. 이후 왜건 버전인 투어링도 같이 들여왔다. {{-}}
 
 ## 외부 링크
 

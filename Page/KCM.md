@@ -3,9 +3,9 @@
 
 **KCM**(, [1982년](../Page/1982년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")이다.
 
-## 이력
+## 경력
 
-2002년 언더그라운드 라이브 클럽에서 R\&B 음악 가수 첫 데뷔한 그는 2003년 SBS 서울방송 TV 드라마 때려 OST인 '알아요'로 처음 이름을 알리고, 2004년 1집 Beautiful Mind로 정식 데뷔했다. 흑백사진, 은영이에게, 너에게 전하는 아홉 가지 바램 등 히트곡을 가지고 있다.
+[2002년](../Page/2002년.md "wikilink") 언더그라운드 라이브 클럽에서 R\&B 음악 가수 첫 데뷔한 그는 [2003년](../Page/2003년.md "wikilink") SBS 서울방송 TV 드라마 때려 OST인 '알아요'로 처음 이름을 알리고, [2004년](../Page/2004년.md "wikilink") 1집 Beautiful Mind로 정식 데뷔했다. 흑백사진, 은영이에게, 너에게 전하는 아홉 가지 바램 등 히트곡을 가지고 있다.
 
 ## 학력
 
@@ -357,7 +357,7 @@
 ### 예능
 
   - 2007년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[준비됐어요](../Page/준비됐어요.md "wikilink")》
-  - 2008년 [MBC 드라마넷](../Page/MBC_드라마넷.md "wikilink") 《[MT왕](https://ko.wikipedia.org/wiki/MT왕 "wikilink")》
+  - 2008년 [MBC 드라마넷](../Page/MBC_드라마넷.md "wikilink") 《[MT왕](../Page/MT왕.md "wikilink")》
   - 2008년 [KBS 조이](../Page/KBS_조이.md "wikilink") 《막무가내 팩토리》
   - 2008년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[있다\! 없다?](../Page/있다!_없다?.md "wikilink")》
   - 2009년 [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 《[가족오락관](https://ko.wikipedia.org/wiki/가족오락관 "wikilink")》
@@ -366,7 +366,7 @@
   - 2010년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[세대공감 토요일](../Page/세대공감_토요일.md "wikilink")》
   - 2010년 [MBC](../Page/문화방송.md "wikilink") 《[세바퀴](../Page/세상을_바꾸는_퀴즈.md "wikilink")》
   - 2011년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[출발드림팀 시즌 2](../Page/출발드림팀_시즌_2.md "wikilink")》
-  - 2016년 [MBC](../Page/문화방송.md "wikilink") 《[미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")》 - 파리잡는 파리넬리, 빵야빵야 총잡이(생방)
+  - 2016년 [MBC](../Page/문화방송.md "wikilink") 《[미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")》 - 파리잡는 파리넬리, 빵야빵야 총잡이 (생방) 내가 가왕 안 되면 귀신이 곡할 노릇\! 귀신의 집
   - 2016년 [JTBC](../Page/JTBC.md "wikilink") 《[투유 프로젝트 - 슈가맨](../Page/투유_프로젝트_-_슈가맨.md "wikilink")》
   - 2016년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[불후의 명곡 - 전설을 노래하다](../Page/불후의_명곡_-_전설을_노래하다.md "wikilink")》
   - 2016년 [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 《[열린음악회](../Page/열린음악회.md "wikilink")》
@@ -375,13 +375,14 @@
   - 2017년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[런닝맨](https://ko.wikipedia.org/wiki/런닝맨 "wikilink")》
   - 2017년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[정글의 법칙](../Page/정글의_법칙.md "wikilink")》
   - 2017년 [JTBC](../Page/JTBC.md "wikilink") 《[갑자기 히어로즈](https://ko.wikipedia.org/wiki/갑자기_히어로즈 "wikilink")》
-  - 2019년 채널A 《[리와인드 - 시간을 달리는 게임](../Page/리와인드_-_시간을_달리는_게임.md "wikilink")》
+  - 2019년 [채널A](../Page/채널A.md "wikilink") 《[리와인드 - 시간을 달리는 게임](../Page/리와인드_-_시간을_달리는_게임.md "wikilink")》
+  - 2020년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[동상이몽 2 - 너는 내 운명](../Page/동상이몽_2_-_너는_내_운명.md "wikilink")》 (특별출연)
 
 ### 드라마
 
   - 《[보그맘](../Page/보그맘.md "wikilink")》 (2017년, MBC)
 
-## 홍보대사
+### 홍보대사
 
   - 2011년 6월 서울특별시장애인체육회 홍보대사
 

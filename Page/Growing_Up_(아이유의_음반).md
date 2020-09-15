@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Growing Up \(아이유의 음반\)](https://ko.wikipedia.org/wiki/Growing_Up_\(아이유의_음반\)).
 
 
-《'''''Growing Up '''''》은 [대한민국](../Page/대한민국.md "wikilink")의 여자 팝 가수 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 첫 번째 정규 음반이다. 2009년 4월 23일 [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다. 타이틀곡은 "Boo"로 활동하였고, 후속곡 〈있잖아 <small>Rock ver.</small>〉으로도 많은 사랑을 받았다. 아이유는 이 음반을 통해 이미지 변신을 시도하여 더 많은 인기를 얻었다.
+《***Growing Up***》은 [대한민국](../Page/대한민국.md "wikilink")의 여자 팝 가수 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 첫 번째 정규 음반이다. 2009년 4월 23일 [로엔 엔터테인먼트를](https://ko.wikipedia.org/wiki/로엔_엔터테인먼트 "wikilink") 통해 발매되었다. 타이틀곡은 "Boo"로 활동하였고, 후속곡 〈있잖아 <small>Rock ver.</small>〉으로도 많은 사랑을 받았다. 아이유는 이 음반을 통해 이미지 변신을 시도하여 더 많은 인기를 얻었다.
 
 ## 개요
 

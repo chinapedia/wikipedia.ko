@@ -120,7 +120,7 @@ editing Systems and Software
   - [샘플 전자책 라이브러리](https://web.archive.org/web/20090601063632/http://www.infogridpacific.com/igp/AZARDI/ePub%20Books%20and%20Resources/)
   - [팀 오라일리가 말하는 EPUB의 중요성, 포브스 기사](http://www.forbes.com/2009/02/22/kindle-oreilly-ebooks-technology-breakthroughs_oreilly.html)
 
-[분류:전자 출판](https://ko.wikipedia.org/wiki/분류:전자_출판 "wikilink") [분류:페이지 기술 언어](https://ko.wikipedia.org/wiki/분류:페이지_기술_언어 "wikilink") [분류:XML 기반 표준](https://ko.wikipedia.org/wiki/분류:XML_기반_표준 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink")
+[분류:전자 출판](https://ko.wikipedia.org/wiki/분류:전자_출판 "wikilink") [분류:페이지 기술 언어](https://ko.wikipedia.org/wiki/분류:페이지_기술_언어 "wikilink") [분류:XML 기반 표준](https://ko.wikipedia.org/wiki/분류:XML_기반_표준 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink") [분류:전자 종이 기술](https://ko.wikipedia.org/wiki/분류:전자_종이_기술 "wikilink")
 
 1.
 2.

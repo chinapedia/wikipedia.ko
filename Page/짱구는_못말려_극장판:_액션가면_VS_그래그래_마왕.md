@@ -49,7 +49,7 @@ PMP 엔터테인먼트에 의해 VCD를 통해 영어 제목으로는 Crayon Shi
 
 괄호 안은 대한민국 더빙명임.
 
-  - [노하라 신노스케](../Page/노하라_신노스케.md "wikilink") ([노하라 신노스케](../Page/신짱구.md "wikilink"))
+  - [노하라 신노스케](../Page/노하라_신노스케.md "wikilink") (**신짱구**)
   - [노하라 히로시](../Page/노하라_히로시.md "wikilink") ([신형만](../Page/노하라_히로시.md "wikilink"))
   - [노하라 미사에](../Page/노하라_미사에.md "wikilink") ([노하라 미사에](../Page/봉미선.md "wikilink"))
   - [시로](../Page/시로_\(캐릭터\).md "wikilink") (흰둥이)
@@ -103,26 +103,37 @@ PMP 엔터테인먼트에 의해 VCD를 통해 영어 제목으로는 Crayon Shi
 
   - 짱구 - [박영남](../Page/박영남.md "wikilink")
   - 짱구 아빠 - [오세홍](../Page/오세홍.md "wikilink")
-  - 짱구 엄마 - [강희선](../Page/강희선.md "wikilink")
-  - 액션가면 - [현경수](../Page/현경수.md "wikilink")
-  - 그래그래마왕 - [윤세웅](https://ko.wikipedia.org/wiki/윤세웅 "wikilink")
-  - 미미 - [여민정](../Page/여민정_\(성우\).md "wikilink")
-  - 리리 - [하은진](../Page/하은진_\(성우\).md "wikilink")
+  - 짱구 엄마 / 맹구 - [강희선](../Page/강희선.md "wikilink")
+  - 액션가면 / 원장 - [현경수](../Page/현경수.md "wikilink")
+  - 그래그래 마왕 - [윤세웅](https://ko.wikipedia.org/wiki/윤세웅 "wikilink")
+  - 철수 / 미미 - [여민정](../Page/여민정_\(성우\).md "wikilink")
   - 장성공 박사 - [이장우](https://ko.wikipedia.org/wiki/이장우 "wikilink")
-  - 좀빌리티 - [시영준](../Page/시영준.md "wikilink")
-  - 흰둥이 - [장경희](../Page/장경희_\(성우\).md "wikilink")
-  - 철수 - [여민정](../Page/여민정_\(성우\).md "wikilink")
-  - 유리 - [장경희](../Page/장경희_\(성우\).md "wikilink")
-  - 훈이 - [정혜옥](../Page/정혜옥_\(성우\).md "wikilink")
-  - 맹구 - [강희선](../Page/강희선.md "wikilink")
-  - 원장 - [현경수](../Page/현경수.md "wikilink")
-  - 부원장 - [주자영](../Page/주자영.md "wikilink")
-  - 채성아 - [하은진](../Page/하은진_\(성우\).md "wikilink")
+  - 좀빌리티 / T백남작 - [시영준](../Page/시영준.md "wikilink")
+  - 흰둥이 / 유리 - [장경희](../Page/장경희_\(성우\).md "wikilink")
+  - 훈이 / 장미꽃 소녀 B - [정혜옥](../Page/정혜옥_\(성우\).md "wikilink")
+  - 부원장 -
+  - 채성아 / 리리 / 장미꽃 소녀 C - [하은진](../Page/하은진_\(성우\).md "wikilink")
   - 나미리 - [윤여진](../Page/윤여진.md "wikilink")
-  - T백남작 - [시영준](../Page/시영준.md "wikilink")
   - 장미꽃 소녀 A - [권인지](../Page/권인지.md "wikilink")
-  - 장미꽃 소녀 B - [정혜옥](../Page/정혜옥_\(성우\).md "wikilink")
-  - 장미꽃 소녀 C - [하은진](../Page/하은진_\(성우\).md "wikilink")
+
+#### SBS 더빙
+
+  - 짱구 - [박영남](../Page/박영남.md "wikilink")
+  - 짱구 아빠 - [오세홍](../Page/오세홍.md "wikilink")
+  - 짱구 엄마 / 맹구 - [강희선](../Page/강희선.md "wikilink")
+  - 액션가면 - [김민석](../Page/김민석_\(성우\).md "wikilink")
+  - 그래그래 마왕 - [박수옥](https://ko.wikipedia.org/wiki/박수옥 "wikilink")
+  - 철수 / 부원장 - [김정애](../Page/김정애_\(성우\).md "wikilink")
+  - 원장 / 장성공 박사 / 좀빌리비 - [김관진](../Page/김관진_\(성우\).md "wikilink")
+  - T백남작 - [김영민](../Page/김영민_\(성우\).md "wikilink")
+  - 훈이 / 흰둥이 - [김미정](https://ko.wikipedia.org/wiki/김미정_\(성우\) "wikilink")
+  - 유리 - [한수경](../Page/한수경_\(성우\).md "wikilink")
+  - 채성아 - [안경진](../Page/안경진.md "wikilink")
+  - 나미리 - [최향윤](../Page/최향윤.md "wikilink")
+  - 미미 / 리리 - [주유랑](../Page/주유랑.md "wikilink")
+  - 장군 - [이선](../Page/이선_\(성우\).md "wikilink")
+  - 맹돌 - [문지현](../Page/문지현.md "wikilink")
+  - 수재 - [박은숙](../Page/박은숙.md "wikilink")
 
 ## 제작진
 

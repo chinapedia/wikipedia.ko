@@ -1076,9 +1076,9 @@
 후안 카를로스 유스테 히메네스 (<a href="https://ko.wikipedia.org/wiki/스페인_왕립_축구_협회" title="wikilink">스페인</a>)<br />
 페르민 마르티네스 이바네스 (<a href="https://ko.wikipedia.org/wiki/스페인_왕립_축구_협회" title="wikilink">스페인</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/마시모_부사카" title="wikilink">마시모 부사카</a> (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
+<a href="https://ko.wikipedia.org/wiki/마시모_부사카" title="wikilink">마시모 부사카</a> (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)<br />
 <strong>후보 대기심:</strong><br />
-마티아스 아네트 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)</p></td>
+마티아스 아네트 (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Motsu](https://ko.wikipedia.org/wiki/Motsu).
 
 
-**모쓰**(motsu, 본명:**세가와 모토다카**(瀬川 素公, 출생연도 비공개, 5월 22일\~)은 [지바현](../Page/지바현.md "wikilink") [카시와 시](https://ko.wikipedia.org/wiki/가시와_시 "wikilink") 출신 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")이다. 신장 178cm에 별자리는 쌍둥이자리로 음악 그룹 [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink")의 랩과 작사를 담당하고 있다.
+**모쓰**(motsu, 본명:**세가와 모토다카**(瀬川 素公, 1967년, 5월 22일\~)은 [지바현](../Page/지바현.md "wikilink") [카시와 시](https://ko.wikipedia.org/wiki/가시와_시 "wikilink") 출신 [음악가](https://ko.wikipedia.org/wiki/음악가 "wikilink")이다. 신장 178cm에 별자리는 쌍둥이자리로 음악 그룹 [m.o.v.e](https://ko.wikipedia.org/wiki/m.o.v.e "wikilink")의 랩과 작사를 담당하고 있다.
 
 ## 인물 및 약력
 

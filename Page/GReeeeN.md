@@ -372,6 +372,15 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>34</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020" title="wikilink">2020</a></p></td>
+<td><p>(星影のエール)</p></td>
+<td><p>5</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

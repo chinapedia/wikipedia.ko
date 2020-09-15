@@ -30,18 +30,18 @@
 <!-- end list -->
 
 1.  **Monster (Korean Ver.)**
-2.  죽기 전에 죽지 않아 (What U want) (<small>Featuring [Bizzy](../Page/비지_\(가수\).md "wikilink"), [Paloalto](../Page/팔로알토_\(가수\).md "wikilink")</small>)
+2.  죽기 전에 죽지 않아 (What U want) (<small>Featuring [Bizzy](../Page/비지_\(가수\).md "wikilink"), [Paloalto](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink")</small>)
 3.  Rebel Music
 4.  내 눈을 쳐다봐 (<small>Featuring [Bizzy](../Page/비지_\(가수\).md "wikilink"), [YDG](../Page/양동근.md "wikilink"), [정인](../Page/정인_\(가수\).md "wikilink")</small>)
 5.  주파수 (<small>Featuring [화나](../Page/화나.md "wikilink")</small>)
 6.  Freaky Deaky Superstar (<small>Featuring Jungsshin, Sun</small>)
-7.  비벼대 (<small>Featuring 1kyne, [Bizzy](../Page/비지_\(가수\).md "wikilink"), [Paloalto](../Page/팔로알토_\(가수\).md "wikilink"), YangGang, Sama-D</small>)
+7.  비벼대 (<small>Featuring 1kyne, [Bizzy](../Page/비지_\(가수\).md "wikilink"), [Paloalto](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink"), YangGang, Sama-D</small>)
 8.  Die Legend 2 (<small>Featuring [다이나믹 듀오](../Page/다이나믹_듀오.md "wikilink"), [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink") a.k.a Gonzo Tha Notorious Kid</small>)
 9.  Jet Pack (English Ver.) (<small>Featuring Sef Cobane, Zeebra</small>)
 10. Rest In Peace (Question) (<small>Featuring Ann</small>)
 11. Three Kingz (<small>Featuring Stylistic Jones</small>)
 12. 짝패 (<small>Featuring [Paloalto](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink")</small>)
-13. 서러운 울음소리 (<small>Featuring [Sean2Slow](https://ko.wikipedia.org/wiki/Sean2Slow "wikilink"), [Bizzy](../Page/비지_\(가수\).md "wikilink"), [Double K](https://ko.wikipedia.org/wiki/Double_K "wikilink"), [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink") a.k.a Gonzo Tha Notorious Kid, [Paloalto](../Page/팔로알토_\(가수\).md "wikilink")</small>)
+13. 서러운 울음소리 (<small>Featuring [Sean2Slow](https://ko.wikipedia.org/wiki/Sean2Slow "wikilink"), [Bizzy](../Page/비지_\(가수\).md "wikilink"), [Double K](https://ko.wikipedia.org/wiki/Double_K "wikilink"), [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink") a.k.a Gonzo Tha Notorious Kid, [Paloalto](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink")</small>)
 14. Monster (English Ver.) (<small>Featuring Roscoe Umali, [Rakim](../Page/라킴.md "wikilink"), Rakka Of Dilated People, [윤미래](../Page/윤미래.md "wikilink")</small>)
 
 ## 특이 사항

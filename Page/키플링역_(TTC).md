@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [키플링역 \(TTC\)](https://ko.wikipedia.org/wiki/키플링역_\(TTC\)).
 
 
-**키플링역**(Kipling Station)은 [토론토 지하철](../Page/토론토_지하철.md "wikilink") [블루어-댄포스선](../Page/블루어-댄포스선.md "wikilink")의 서부 종착역으로, 이토비코는 물론 공항으로 이어지는 TTC의 여러 버스 노선이 정차할 뿐만 아니라 [GO 트랜싯](../Page/GO_트랜싯.md "wikilink") [밀턴선](../Page/밀턴선.md "wikilink") 통근열차가 정차하는 [동명의 통근열차역과도](../Page/키플링역_\(GO\).md "wikilink") 연결된다. 이와 동시에 기존에 이즐링턴역에 종착하던 [마이웨이](https://ko.wikipedia.org/wiki/마이웨이_\(미시소가\) "wikilink") 버스는 추후 광역 버스 터미널이 새로 지어지는대로 이 역에서 종착할 예정이다.\[1\]
+**키플링역**(Kipling Station)은 [토론토 지하철](../Page/토론토_지하철.md "wikilink") [2호선 블루어-댄포스의](../Page/2호선_블루어-댄포스.md "wikilink") 서부 종착역으로, 이토비코는 물론 공항으로 이어지는 TTC의 여러 버스 노선이 정차할 뿐만 아니라 [GO 트랜싯](../Page/GO_트랜싯.md "wikilink") [밀턴선](../Page/밀턴선.md "wikilink") 통근열차가 정차하는 [동명의 통근열차역과도](../Page/키플링역_\(GO\).md "wikilink") 연결된다. 이와 동시에 기존에 이즐링턴역에 종착하던 [마이웨이](https://ko.wikipedia.org/wiki/마이웨이_\(미시소가\) "wikilink") 버스는 추후 광역 버스 터미널이 새로 지어지는대로 이 역에서 종착할 예정이다.\[1\]
 
 ## 역사
 

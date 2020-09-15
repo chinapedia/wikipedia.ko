@@ -43,197 +43,104 @@
 
 ## 보유 기종
 
-  - [2019년](../Page/2019년.md "wikilink") [11월](../Page/11월.md "wikilink") 기준으로 LATAM 칠레는 다음과 같은 기종을 보유하고 있으며 평균 기령은 5.8년이다.\[6\]\[7\]
+  - [2020년](../Page/2020년.md "wikilink") [7월](../Page/7월.md "wikilink") 기준으로 LATAM 칠레는 다음과 같은 기종을 보유하고 있으며 평균 기령은 5.8년이다.\[6\]\[7\]
 
 ### 현재 사용하는 기종
 
-| <span style="color:white;">기종</span>                                      | <span style="color:white;">대수</span>                             | <span style="color:white;">주문</span> | <span style="color:white;">좌석</span> | <span style="color:white;">비고</span>               |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------ | ------------------------------------ | -------------------------------------------------- |
-| <abbr title="Business Class"> <span style="color:white;">J</abbr>         | <abbr title="Economy Class"> <span style="color:white;">Y</abbr> | <span style="color:white;">합계        |                                      |                                                    |
-| [에어버스 A319-100](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink")       | 18                                                               | 0                                    | 0                                    | 144                                                |
-| [에어버스 A320-200](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink")       | 54                                                               | 0                                    | 12                                   | 138                                                |
-| 0                                                                         | 174                                                              | 174                                  |                                      |                                                    |
-| [에어버스 A320neo](https://ko.wikipedia.org/wiki/에어버스_A320neo_패밀리 "wikilink") | 7                                                                | 5                                    | 0                                    | 174                                                |
-| [에어버스 A321-200](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink")       | 18                                                               | 0                                    | 0                                    | 220                                                |
-| [에어버스 A321neo](https://ko.wikipedia.org/wiki/에어버스_A320neo_패밀리 "wikilink") | 0                                                                | 5                                    | TBA                                  | [2019년](../Page/2019년.md "wikilink")부터 순차적으로 도입 예정 |
-| [보잉 767-300ER](../Page/보잉_767.md "wikilink")                              | 16                                                               | 0                                    | 30                                   | 191                                                |
-| [보잉 787-8](../Page/보잉_787_드림라이너.md "wikilink")                            | 10                                                               | 0                                    | 30                                   | 217                                                |
-| [보잉 787-9](../Page/보잉_787_드림라이너.md "wikilink")                            | 16                                                               | 10                                   | 45                                   | 260                                                |
-| **합계**                                                                    | **115**                                                          | **24**                               |                                      |                                                    |
-|                                                                           |                                                                  |                                      |                                      |                                                    |
-
-**LATAM 칠레의 보유 기종**
-
-### 퇴역 기종
-
 <table>
-<caption><strong>LATAM 칠레의 퇴역 기종</strong>[8]</caption>
+<caption><strong>LATAM 칠레의 보유 기종</strong></caption>
 <thead>
 <tr class="header">
-<th><p><span style="color:white;">기종</p></th>
-<th><p><span style="color:white;">대수</p></th>
-<th><p><span style="color:white;">도입 년도</p></th>
-<th><p><span style="color:white;">퇴역 년도</p></th>
-<th><p><span style="color:white;">비고</p></th>
+<th><p><span style="color:white;">기종</span></p></th>
+<th><p><span style="color:white;">대수</span></p></th>
+<th><p><span style="color:white;">주문</span></p></th>
+<th><p><span style="color:white;">좌석</span></p></th>
+<th><p><span style="color:white;">비고</span></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/에어버스_A320" title="wikilink">에어버스 A318-100</a></p></td>
-<td><p>15</p></td>
-<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a></p></td>
-<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a></p></td>
-<td><p><a href="../Page/아비앙카_브라질.md" title="wikilink">아비앙카 브라질에</a> 매각</p></td>
+<td><p><abbr title="Business Class"> <span style="color:white;">J</abbr></p></td>
+<td><p><abbr title="Economy Class"> <span style="color:white;">Y</abbr></p></td>
+<td><p><span style="color:white;">합계</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/에어버스_A340.md" title="wikilink">에어버스 A340-300</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/에어버스_A320" title="wikilink">에어버스 A319-100</a></p></td>
+<td><p>18</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>144</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/에어버스_A320" title="wikilink">에어버스 A320-200</a></p></td>
+<td><p>54</p></td>
+<td><p>12</p></td>
+<td><p>12</p></td>
+<td><p>138</p></td>
+</tr>
+<tr class="even">
+<td><p>0</p></td>
+<td><p>174</p></td>
+<td><p>174</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/에어버스_A320neo_패밀리" title="wikilink">에어버스 A320neo</a></p></td>
+<td><p>7</p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/2004년.md" title="wikilink">2004년</a></p></td>
-<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a></p></td>
-<td><p>4대는 예비용으로 저장<br />
-1대는 <a href="../Page/스칸디나비아_항공.md" title="wikilink">스칸디나비아 항공에</a> 매각</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/보잉_707.md" title="wikilink">보잉 707-320B</a></p></td>
-<td><p>불명</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>0</p></td>
+<td><p>174</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/보잉_727.md" title="wikilink">보잉 727-100</a></p></td>
-<td><p>불명</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/에어버스_A320" title="wikilink">에어버스 A321-200</a></p></td>
+<td><p>12</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>220</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/보잉_737.md" title="wikilink">보잉 737-200</a></p></td>
-<td><p>25</p></td>
-<td><p><a href="../Page/2003년.md" title="wikilink">2003년</a></p></td>
-<td><p><a href="../Page/2008년.md" title="wikilink">2008년</a></p></td>
-<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/에어버스_A320neo_패밀리" title="wikilink">에어버스 A321neo</a></p></td>
+<td><p>0</p></td>
+<td><p>5</p></td>
+<td><p><abbr title="To Be Announced"></p>
+<div style="text-align: center;">
+<p>TBA</p>
+</div>
+<p></abbr></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a>부터 순차적으로 도입 예정</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/보잉_747.md" title="wikilink">보잉 747-100</a></p></td>
-<td><p>1</p></td>
-<td><p><a href="../Page/1988년.md" title="wikilink">1988년</a></p></td>
-<td><p><a href="../Page/1990년.md" title="wikilink">1990년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/에어_링구스" title="wikilink">에어 링구스</a> 임차 운항</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/보잉_757.md" title="wikilink">보잉 757-200</a></p></td>
-<td><p>1</p></td>
-<td><p><a href="../Page/1996년.md" title="wikilink">1996년</a></p></td>
-<td><p><a href="../Page/1997년.md" title="wikilink">1997년</a></p></td>
-<td><p>임차 운항</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/보잉_767.md" title="wikilink">보잉 767-200ER</a></p></td>
-<td><p>6</p></td>
-<td><p><a href="../Page/1990년.md" title="wikilink">1990년</a></p></td>
-<td><p><a href="../Page/1996년.md" title="wikilink">1996년</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/보잉_767.md" title="wikilink">보잉 767-300ER</a></p></td>
-<td><p>6</p></td>
-<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/보잉_777.md" title="wikilink">보잉 777-200ER</a></p></td>
-<td><p>2</p></td>
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a></p></td>
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a></p></td>
-<td></td>
+<td><p>16</p></td>
+<td><p>0</p></td>
+<td><p>30</p></td>
+<td><p>191</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/더글러스_DC-3.md" title="wikilink">더글러스 DC-3</a></p></td>
-<td><p>불명</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/보잉_787_드림라이너.md" title="wikilink">보잉 787-8</a></p></td>
+<td><p>10</p></td>
+<td><p>0</p></td>
+<td><p>30</p></td>
+<td><p>217</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/더글러스_DC-4" title="wikilink">더글러스 DC-4</a></p></td>
-<td><p>불명</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/보잉_787_드림라이너.md" title="wikilink">보잉 787-9</a></p></td>
+<td><p>12</p></td>
+<td><p>10</p></td>
+<td><p>45</p></td>
+<td><p>260</p></td>
 </tr>
 <tr class="odd">
-<td><p>드 하빌랜드 도브 DH-104</p></td>
-<td><p>불명</p></td>
-<td></td>
+<td><p>합계</p></td>
+<td><p>105</p></td>
+<td><p>36</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/드_하빌랜드_캐나다_DHC-6_트윈오터" title="wikilink">드 하빌랜드 DHC-6</a></p></td>
-<td><p>불명</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>록히드 C-60</p></td>
-<td><p>불명</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>록히드 일렉트라 L-10A</p></td>
-<td><p>불명</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/맥도넬더글러스_DC-10" title="wikilink">맥도넬더글러스 DC-10-30</a></p></td>
-<td><p>5</p></td>
-<td><p><a href="../Page/1980년.md" title="wikilink">1980년</a></p></td>
-<td><p><a href="../Page/1986년.md" title="wikilink">1986년</a></p></td>
-<td><p><a href="../Page/에어_뉴질랜드.md" title="wikilink">에어 뉴질랜드</a>, <a href="../Page/팬아메리칸_월드_항공.md" title="wikilink">팬아메리칸 월드 항공</a> 임차 운항</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/브리티시_에어로스페이스_146.md" title="wikilink">BAe 146-200</a></p></td>
-<td><p>3</p></td>
-<td><p><a href="../Page/1990년.md" title="wikilink">1990년</a></p></td>
-<td><p><a href="../Page/1997년.md" title="wikilink">1997년</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/수드_에이비에이션_카라벨" title="wikilink">수드 에이비에이션 카라벨</a></p></td>
-<td><p>불명</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/콘베어_880" title="wikilink">콘베어 880</a></p></td>
-<td><p>불명</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>포드 5 ATC</p></td>
-<td><p>불명</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>하빌랜드 기피시 모스</p></td>
-<td><p>불명</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -242,6 +149,36 @@
 </tr>
 </tbody>
 </table>
+
+### 퇴역 기종
+
+| <span style="color:white;">기종                                                  | <span style="color:white;">대수                    | <span style="color:white;">도입 년도     | <span style="color:white;">퇴역 년도     | <span style="color:white;">비고                                   |
+| ------------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------ | ------------------------------------ | --------------------------------------------------------------- |
+| [에어버스 A318-100](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink")            | 15                                               | [2007년](../Page/2007년.md "wikilink") | [2013년](../Page/2013년.md "wikilink") | [아비앙카 브라질에](../Page/아비앙카_브라질.md "wikilink") 매각                  |
+| [에어버스 A321-200](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink")            | 6                                                | [2016년](../Page/2016년.md "wikilink") | [2020년](../Page/2020년.md "wikilink") | 현재 예비용으로 저장                                                     |
+| [에어버스 A340-300](../Page/에어버스_A340.md "wikilink")                               | 4                                                | [2004년](../Page/2004년.md "wikilink") | [2015년](../Page/2015년.md "wikilink") |                                                                 |
+| 1                                                                              | [스칸디나비아 항공에](../Page/스칸디나비아_항공.md "wikilink") 매각 |                                      |                                      |                                                                 |
+| [보잉 707-320B](../Page/보잉_707.md "wikilink")                                    | 불명                                               | [1967년](../Page/1967년.md "wikilink") | [1980년](../Page/1980년.md "wikilink") |                                                                 |
+| [보잉 727-100](../Page/보잉_727.md "wikilink")                                     | 불명                                               | [1968년](../Page/1968년.md "wikilink") | [1980년](../Page/1980년.md "wikilink") |                                                                 |
+| [보잉 737-200](../Page/보잉_737.md "wikilink")                                     | 25                                               | [1980년](../Page/1980년.md "wikilink") | [2008년](../Page/2008년.md "wikilink") |                                                                 |
+| [보잉 747-100](../Page/보잉_747.md "wikilink")                                     | 1                                                | [1988년](../Page/1988년.md "wikilink") | [1990년](../Page/1990년.md "wikilink") | [에어 링구스](https://ko.wikipedia.org/wiki/에어_링구스 "wikilink") 임차 운항 |
+| [보잉 757-200](../Page/보잉_757.md "wikilink")                                     | 1                                                | [1996년](../Page/1996년.md "wikilink") | [1997년](../Page/1997년.md "wikilink") | 임차 운항                                                           |
+| [보잉 767-200ER](../Page/보잉_767.md "wikilink")                                   | 6                                                | [1990년](../Page/1990년.md "wikilink") | [1996년](../Page/1996년.md "wikilink") |                                                                 |
+| [보잉 767-300ER](../Page/보잉_767.md "wikilink")                                   | 6                                                | [2016년](../Page/2016년.md "wikilink") | [2019년](../Page/2019년.md "wikilink") |                                                                 |
+| [보잉 777-200ER](../Page/보잉_777.md "wikilink")                                   | 2                                                | [2018년](../Page/2018년.md "wikilink") | [2019년](../Page/2019년.md "wikilink") |                                                                 |
+| [보잉 787-9](../Page/보잉_787_드림라이너.md "wikilink")                                 | 4                                                | [2016년](../Page/2016년.md "wikilink") | [2020년](../Page/2020년.md "wikilink") | 현재 예비용으로 저장                                                     |
+| [더글러스 DC-3](../Page/더글러스_DC-3.md "wikilink")                                   | 불명                                               | [1946년](../Page/1946년.md "wikilink") | [1960년](../Page/1960년.md "wikilink") |                                                                 |
+| [더글러스 DC-6](https://ko.wikipedia.org/wiki/더글러스_DC-6 "wikilink")                | 불명                                               | [1956년](../Page/1956년.md "wikilink") | [1967년](../Page/1967년.md "wikilink") |                                                                 |
+| [드 하빌랜드 도브 DH-104](https://ko.wikipedia.org/wiki/드_하빌랜드_도브_DH-104 "wikilink")  | 불명                                               |                                      |                                      |                                                                 |
+| [드 하빌랜드 DHC-6](https://ko.wikipedia.org/wiki/드_하빌랜드_캐나다_DHC-6_트윈오터 "wikilink") | 불명                                               | [1955년](../Page/1955년.md "wikilink") | [1980년](../Page/1980년.md "wikilink") |                                                                 |
+| [록히드 C-60](https://ko.wikipedia.org/wiki/록히드_C-60 "wikilink")                  | 불명                                               | [1943년](../Page/1943년.md "wikilink") | [1960년](../Page/1960년.md "wikilink") |                                                                 |
+| [록히드 일렉트라 L-10A](https://ko.wikipedia.org/wiki/록히드_일렉트라_L-10A "wikilink")      | 불명                                               | [1943년](../Page/1943년.md "wikilink") | [1960년](../Page/1960년.md "wikilink") |                                                                 |
+| [맥도넬더글러스 DC-10-30](https://ko.wikipedia.org/wiki/맥도넬더글러스_DC-10 "wikilink")     | 5                                                | [1980년](../Page/1980년.md "wikilink") | [1986년](../Page/1986년.md "wikilink") |                                                                 |
+| [BAe 146-200](../Page/브리티시_에어로스페이스_146.md "wikilink")                          | 3                                                | [1990년](../Page/1990년.md "wikilink") | [1997년](../Page/1997년.md "wikilink") |                                                                 |
+| [수드 에비에이션 카라벨](https://ko.wikipedia.org/wiki/수드_에비에이션_카라벨 "wikilink")          | 불명                                               | [1964년](../Page/1964년.md "wikilink") | [1968년](../Page/1968년.md "wikilink") |                                                                 |
+|                                                                                |                                                  |                                      |                                      |                                                                 |
+
+**LATAM 칠레의 퇴역 기종**\[8\]
 
 ## 각주
 

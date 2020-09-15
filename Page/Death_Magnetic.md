@@ -83,7 +83,7 @@
 
   - [메탈리카 공식 홈페이지](http://www.metallica.com)
 
-[분류:2008년 음반](https://ko.wikipedia.org/wiki/분류:2008년_음반 "wikilink") [분류:메탈리카의 음반](https://ko.wikipedia.org/wiki/분류:메탈리카의_음반 "wikilink") [분류:미국의 음반](https://ko.wikipedia.org/wiki/분류:미국의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:릭 루빈이 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:릭_루빈이_프로듀싱한_음반 "wikilink") [분류:버티고 레코드의 음반](https://ko.wikipedia.org/wiki/분류:버티고_레코드의_음반 "wikilink") [분류:워너 브라더스 레코드의 음반](https://ko.wikipedia.org/wiki/분류:워너_브라더스_레코드의_음반 "wikilink")
+[분류:2008년 음반](https://ko.wikipedia.org/wiki/분류:2008년_음반 "wikilink") [분류:메탈리카의 음반](https://ko.wikipedia.org/wiki/분류:메탈리카의_음반 "wikilink") [분류:미국의 음반](https://ko.wikipedia.org/wiki/분류:미국의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:릭 루빈이 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:릭_루빈이_프로듀싱한_음반 "wikilink") [분류:버티고 레코드 음반](https://ko.wikipedia.org/wiki/분류:버티고_레코드_음반 "wikilink") [분류:워너 브라더스 레코드 음반](https://ko.wikipedia.org/wiki/분류:워너_브라더스_레코드_음반 "wikilink")
 
 1.
 2.

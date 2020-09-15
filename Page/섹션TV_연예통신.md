@@ -395,7 +395,7 @@
 
 ## 시청률
 
-  - [1999년](../Page/1999년.md "wikilink")부터 [2000년대](../Page/2000년대.md "wikilink") 초반까지 높은 시청률 인기를 누렸으나, [2000년대](../Page/2000년대.md "wikilink") 중반 이후부터 [케이블 TV](https://ko.wikipedia.org/wiki/케이블_TV "wikilink") 채널, [인터넷 뉴스](https://ko.wikipedia.org/wiki/인터넷_뉴스 "wikilink") 보급 확산으로 인기가 갈수록 떨어지자, 시청률 너무 저조하여, 오랫동안 21년만에 마침내 폐지하였다.
+  - [1999년](../Page/1999년.md "wikilink")부터 [2000년대](../Page/2000년대.md "wikilink") 초반까지 높은 시청률 인기를 누렸으나, [2000년대](../Page/2000년대.md "wikilink") 중반 이후부터 [케이블 TV](https://ko.wikipedia.org/wiki/케이블_TV "wikilink") 채널, [인터넷 뉴스](https://ko.wikipedia.org/wiki/인터넷_뉴스 "wikilink") 보급 확산으로 인기가 갈수록 떨어지자, 시청률이 너무 저조하여, 오랫동안 21년만에 마침내 폐지하였다.
 
 ## 연예 정보 프로그램
 

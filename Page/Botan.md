@@ -5,7 +5,7 @@
 
 Botan은 여러 다양한 암호화 알고리즘을 제공한다. 또한 암호와 관련한 포맷, 프로토콜 지원 기능도 제공한다.
 
-Botan 프로젝트의 원 이름은 [OpenCL](../Page/OpenCL.md "wikilink")이었다. 2002년 OpenCL에서 Botan으로 이름을 바꾸었다. 2008년 현재 OpenCL이라는 이름은, 전혀 다른 곳인, [애플 (기업)의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 그래픽스 카드 프로그래밍 언어에 쓰이는 이름이 되어 있다.\[1\].
+Botan 프로젝트의 원 이름은 [OpenCL](../Page/OpenCL.md "wikilink")이었다. 2002년 OpenCL에서 Botan으로 이름을 바꾸었다. 2008년 현재 OpenCL이라는 이름은, 전혀 다른 곳인, [애플](../Page/애플.md "wikilink")의 그래픽스 카드 프로그래밍 언어에 쓰이는 이름이 되어 있다.\[1\].
 
 2007년, 독일의 연방정보보안국()이 전자여권(ePassports)을 위한 Card Verifiable Certificates 를 Botan에 추가하여 구현한다는 내용의 계약을 플렉스시큐어 사(FlexSecure GmbH)와 맺었다. 수정된 Botan은 InSiTo라는 이름 하에 발매되었다.\[2\].
 

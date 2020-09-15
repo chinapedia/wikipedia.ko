@@ -23,66 +23,163 @@
 
 ## 구성원
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+<table>
+<thead>
+<tr class="header">
+<th><p>이름</p></th>
+<th><p>소개</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/네기시_아이" title="wikilink">네기시 아이</a></strong></p></td>
+<td><ul>
+<li>이름 : 根岸愛 (네기시 아이, Negishi Ai)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/사이타마현" title="wikilink">사이타마현</a></li>
+<li>색상 :  흰색</li>
+<li>포지션 : 리더</li>
+<li>밴드 편성시 : 키보드</li>
+<li>활동 기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월.md" title="wikilink">11월</a> ~</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/이와무라_나츠미" title="wikilink">이와무라 나츠미</a></strong></p></td>
+<td><ul>
+<li>이름 : 岩村捺未 (이와무라 나츠미, Iwamura Natsumi)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/가나가와현.md" title="wikilink">가나가와현</a></li>
+<li>색상 :  주황</li>
+<li>포지션 : 최연장자</li>
+<li>밴드 편성시 : 퍼커션</li>
+<li>활동 기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월.md" title="wikilink">11월</a> ~</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/후지모토_유키미" title="wikilink">후지모토 유키미</a></p></td>
+<td><ul>
+<li>이름 : 藤本有紀美 (후지모토 유키미, Fujimoto Yukimi)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/도쿄도.md" title="wikilink">도쿄도</a></li>
+<li>색상 :  파랑</li>
+<li>포지션 : 서브리더</li>
+<li>밴드 편성시 : 머니퓰레이터</li>
+<li>활동 기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월.md" title="wikilink">11월</a> ~</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/안자이_나오미" title="wikilink">안자이 나오미</a></p></td>
+<td><ul>
+<li>이름 : 安斉奈緒美 (안자이 나오미, Anzai Naomi)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/사이타마현" title="wikilink">사이타마현</a></li>
+<li>색상 :  빨강</li>
+<li>밴드 편성시 : 기타</li>
+<li>활동 기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월.md" title="wikilink">11월</a> ~</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/모리_시오리" title="wikilink">모리 시오리</a></p></td>
+<td><ul>
+<li>이름 : 森詩織 (모리 시오리, Mori Shiori)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/도쿄도.md" title="wikilink">도쿄도</a></li>
+<li>색상 :  노랑</li>
+<li>밴드 편성시 : 보컬</li>
+<li>활동 기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월.md" title="wikilink">11월</a> ~</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/마스이_미오.md" title="wikilink">마스이 미오</a></p></td>
+<td><ul>
+<li>이름 : 増井みお (마스이 미오, Masui Mio)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/도쿄도.md" title="wikilink">도쿄도</a></li>
+<li>색상 :  물색</li>
+<li>밴드 편성시 : 베이스</li>
+<li>활동 기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월.md" title="wikilink">11월</a> ~</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/타마이_안나" title="wikilink">타마이 안나</a></p></td>
+<td><ul>
+<li>이름 : 玉井杏奈 (타마이 안나, Tamai Anna)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/도쿄도.md" title="wikilink">도쿄도</a></li>
+<li>색상 :  보라</li>
+<li>밴드 편성시 : 드럼</li>
+<li>활동 기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월.md" title="wikilink">11월</a> ~</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ### 이전 구성원
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+<table>
+<thead>
+<tr class="header">
+<th><p>이름</p></th>
+<th><p>소개</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/사쿠마_카호" title="wikilink">사쿠마 카호</a></p></td>
+<td><ul>
+<li>이름 : 佐久間夏帆 (사쿠마 카호, Sakuma Kaho)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/후쿠오카현.md" title="wikilink">후쿠오카현</a></li>
+<li>색상 :  초록</li>
+<li>활동 기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월.md" title="wikilink">11월</a> ~ <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/12월.md" title="wikilink">12월</a></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/오쿠나가_마코토.md" title="wikilink">오쿠나가 마코토</a></p></td>
+<td><ul>
+<li>이름 : 奥仲麻琴 (오쿠나가 마코토, Okunaka Makoto)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/사이타마현" title="wikilink">사이타마현</a></li>
+<li>색상 :  분홍</li>
+<li>밴드 편성시 : 키보드</li>
+<li>활동 기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월.md" title="wikilink">11월</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/마키타_사코.md" title="wikilink">마키타 사코</a></p></td>
+<td><ul>
+<li>이름 : 槙田紗子 (마키타 사코, Makita Sako)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/가나가와현.md" title="wikilink">가나가와현</a></li>
+<li>색상 :  연두</li>
+<li>밴드 편성시 : 기타</li>
+<li>활동 기간 : <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/11월.md" title="wikilink">11월</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/12월_30일.md" title="wikilink">12월 30일</a></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 음반
 
 ### 싱글
 
-<font size="5" color="#78D2FF">■</font> … 10위 이내　<font size="5" color="#FF94D2">■</font> … 20위 이내　<font size="5" color="#A4FF3C">■</font> … 30위 이내
+<span style="color:#78D2FF">■</span> … 10위 이내 <span style="color:#FF94D2">■</span> … 20위 이내 <span style="color:#A4FF3C">■</span> … 30위 이내
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p> </p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>타이틀</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>발매일</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>커플링곡</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>최고<br />
-순위</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>등장<br />
-횟수</p>
-</div>
-<p>'''</p></td>
+<td><p>타이틀</p></td>
+<td><p>발매일</p></td>
+<td><p>커플링곡</p></td>
+<td><p>최고<br />
+순위</p></td>
+<td><p>등장<br />
+횟수</p></td>
 </tr>
 <tr class="even">
 <td><p>2011년</p></td>
@@ -305,39 +402,19 @@
 
 ### 앨범
 
-<font size="5" color="#78D2FF">■</font> … 10위 이내　<font size="5" color="#FF94D2">■</font> … 20위 이내　<font size="5" color="#A4FF3C">■</font> … 30위 이내
+<span style="color:#78D2FF">■</span> … 10위 이내 <span style="color:#FF94D2">■</span> … 20위 이내 <span style="color:#A4FF3C">■</span> … 30위 이내
 
 <table>
 <tbody>
 <tr class="odd">
 <td><p> </p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>타이틀</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>발매일</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>커플링곡</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>최고<br />
-순위</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>등장<br />
-횟수</p>
-</div>
-<p>'''</p></td>
+<td><p>타이틀</p></td>
+<td><p>발매일</p></td>
+<td><p>커플링곡</p></td>
+<td><p>최고<br />
+순위</p></td>
+<td><p>등장<br />
+횟수</p></td>
 </tr>
 <tr class="even">
 <td><p>2011년</p></td>
@@ -475,33 +552,13 @@
 <tbody>
 <tr class="odd">
 <td><p> </p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>타이틀</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>발매일</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>커플링곡</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>최고<br />
-순위</p>
-</div>
-<p>'''</p></td>
-<td><p>'''</p>
-<div style="text-align: center;">
-<p>등장<br />
-횟수</p>
-</div>
-<p>'''</p></td>
+<td><p>타이틀</p></td>
+<td><p>발매일</p></td>
+<td><p>커플링곡</p></td>
+<td><p>최고<br />
+순위</p></td>
+<td><p>등장<br />
+횟수</p></td>
 </tr>
 <tr class="even">
 <td><p>2013년</p></td>
@@ -577,7 +634,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:right" bgcolor=""|4th</p></td>
+<td><p>4th</p></td>
 <td><p><strong>PASSPO☆ COMPLETE BEST ALBUM 'POWER -UNIVERSAL MUSIC YEARS-</strong>'</p></td>
 <td><p>12월 2일</p></td>
 <td><ul>
@@ -588,7 +645,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:right" bgcolor=""|5th</p></td>
+<td><p>5th</p></td>
 <td><p><strong>PASSPO☆ COMPLETE BEST ALBUM 'POP -UNIVERSAL MUSIC YEARS-</strong>'</p></td>
 <td><p>12월 2일</p></td>
 <td><ul>
@@ -617,7 +674,7 @@
 
 <!-- end list -->
 
-  - [PASSPO☆の放課後２２時限目](http://logirl.favclip.com/live/) 파스포☆ LoGiRL 방송 (2015년 1월 20일 \~ 2015년 11월 10일, 매주 화요일 22:00 \~ 23:00)
+  - [PASSPO☆の放課後２２時限目](https://web.archive.org/web/20150809074722/http://logirl.favclip.com/live) 파스포☆ LoGiRL 방송 (2015년 1월 20일 \~ 2015년 11월 10일, 매주 화요일 22:00 \~ 23:00)
 
 ## 외부 링크
 

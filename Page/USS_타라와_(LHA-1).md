@@ -22,6 +22,6 @@
   - [USS Tarawa history at U.S. Carriers](http://www.uscarriers.net/lha1history.htm)
   - \[<http://navysite.de/ships/lha3.htm> USS Belleau Wood
 
-[분류:헬리콥터 모함](https://ko.wikipedia.org/wiki/분류:헬리콥터_모함 "wikilink") [분류:미국의 해군 함정](https://ko.wikipedia.org/wiki/분류:미국의_해군_함정 "wikilink") [분류:강습상륙함](https://ko.wikipedia.org/wiki/분류:강습상륙함 "wikilink") [분류:1973년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1973년_진수된_선박 "wikilink")
+[분류:헬리콥터 모함](https://ko.wikipedia.org/wiki/분류:헬리콥터_모함 "wikilink") [분류:미국의 해군 함정](https://ko.wikipedia.org/wiki/분류:미국의_해군_함정 "wikilink") [분류:강습상륙함](https://ko.wikipedia.org/wiki/분류:강습상륙함 "wikilink") [분류:1973년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1973년_진수된_선박 "wikilink") [분류:타라와 전투](https://ko.wikipedia.org/wiki/분류:타라와_전투 "wikilink")
 
 1.

@@ -594,7 +594,7 @@ fripSide라는 단어는 sat이 만든 단어로, [레코드의 B면을](https:/
 
   - [야기누마 사토시 공식 웹사이트](https://web.archive.org/web/20100211023720/http://blog.livedoor.jp/fripside_sat/)
 
-  - [난죠 요시노 공식 블로그](http://nanjolno.jugem.jp/)
+  - [난죠 요시노 공식 블로그](https://web.archive.org/web/20140417162923/http://nanjolno.jugem.jp/)
 
 [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:일본의 음악가](https://ko.wikipedia.org/wiki/분류:일본의_음악가 "wikilink") [분류:비주얼 아츠](https://ko.wikipedia.org/wiki/분류:비주얼_아츠 "wikilink") [분류:비디오 게임 음악](https://ko.wikipedia.org/wiki/분류:비디오_게임_음악 "wikilink") [분류:2002년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2002년_결성된_음악_그룹 "wikilink") [분류:혼성 듀오](https://ko.wikipedia.org/wiki/분류:혼성_듀오 "wikilink")
 

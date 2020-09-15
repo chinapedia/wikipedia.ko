@@ -34,10 +34,10 @@
 ## 외부 링크
 
   -
-  - [BNSF Railway SEC Filings](http://www.secdatabase.com/CIK/15511/Company-Name/BNSF-RAILWAY-CO)
+  - [BNSF Railway SEC Filings](https://web.archive.org/web/20171013042756/http://www.secdatabase.com/CIK/15511/Company-Name/BNSF-RAILWAY-CO)
 
-  - [Citizens for Rail Security](http://www.citizensforrailsecurity.com/)
+  - [Citizens for Rail Security](https://web.archive.org/web/20180710122409/http://www.citizensforrailsecurity.com/)
 
-  - [List and Family Trees of North American Railroads](http://laurent.aublette.free.fr/histo/bnsf_hist.html)
+  - [List and Family Trees of North American Railroads](https://web.archive.org/web/20180703134021/http://laurent.aublette.free.fr/histo/bnsf_hist.html)
 
 [분류:1996년 설립](https://ko.wikipedia.org/wiki/분류:1996년_설립 "wikilink") [분류:미국의 철도 기업](https://ko.wikipedia.org/wiki/분류:미국의_철도_기업 "wikilink") [분류:BNSF 철도](https://ko.wikipedia.org/wiki/분류:BNSF_철도 "wikilink") [분류:모하비 사막](https://ko.wikipedia.org/wiki/분류:모하비_사막 "wikilink")

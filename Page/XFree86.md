@@ -17,6 +17,6 @@
 
   - [프로젝트 홈페이지](https://web.archive.org/web/20031020210433/http://xfree86.org/)
 
-[분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink")
+[분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:자유 윈도 시스템](https://ko.wikipedia.org/wiki/분류:자유_윈도_시스템 "wikilink")
 
 1.

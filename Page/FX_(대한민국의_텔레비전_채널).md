@@ -7,7 +7,7 @@
 
   - [2008년](../Page/2008년.md "wikilink") [3월](../Page/3월.md "wikilink") : 개국.
   - [2013년](../Page/2013년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") : [스카이라이프를](../Page/KT스카이라이프.md "wikilink") 통한 송신을 개시.
-  - 2013년 [4월 1일](../Page/4월_1일.md "wikilink") : [고선명 텔레비전](../Page/고선명_텔레비전.md "wikilink") 방송을 개시.
+  - [2013년](../Page/2013년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") : [고선명 텔레비전](../Page/고선명_텔레비전.md "wikilink") 방송을 개시.
   - [2014년](../Page/2014년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink")\~ 2016년 3월 : [GSL중계](https://ko.wikipedia.org/wiki/글로벌_스타크래프트_II_리그 "wikilink")
   - [2017년](../Page/2017년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") 미국에서 운영하는 FX네트워크의 소유주인 21세기폭스가 월트 디즈니 컴퍼니 인수되었다.
   - [2017년](../Page/2017년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") WWE중계 마지막 방송

@@ -26,7 +26,7 @@ TARGET 시스템은 토, 일요일 및 공휴일에 작동하지 않는다. [크
 ## 외부 링크
 
   - [ECB](http://www.ecb.int/paym/target/html/index.en.html)
-  - [TARGET2 Information Portal](http://target2.net)
+  - [TARGET2 Information Portal](https://web.archive.org/web/20191118182513/http://www.target2.net/)
 
 [분류:유럽 연합](https://ko.wikipedia.org/wiki/분류:유럽_연합 "wikilink") [분류:유럽 연합의 경제](https://ko.wikipedia.org/wiki/분류:유럽_연합의_경제 "wikilink")
 

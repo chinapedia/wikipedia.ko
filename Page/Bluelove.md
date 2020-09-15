@@ -21,4 +21,4 @@
   - [소속사 F\&C music](https://web.archive.org/web/20190402165627/http://www.fncmusic.com/)
   - [CNBLUE Malaysia FanClub](http://cnbluemalaysiafc.blogspot.com)
 
-[분류:씨엔블루의 음반](https://ko.wikipedia.org/wiki/분류:씨엔블루의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:2010년 음반](https://ko.wikipedia.org/wiki/분류:2010년_음반 "wikilink") [분류:2010년 EP](https://ko.wikipedia.org/wiki/분류:2010년_EP "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:가온 모바일 차트 1위 노래‎](https://ko.wikipedia.org/wiki/분류:가온_모바일_차트_1위_노래‎ "wikilink")
+[분류:씨엔블루의 음반](https://ko.wikipedia.org/wiki/분류:씨엔블루의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:2010년 음반](https://ko.wikipedia.org/wiki/분류:2010년_음반 "wikilink") [분류:2010년 EP](https://ko.wikipedia.org/wiki/분류:2010년_EP "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:가온 모바일 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_모바일_차트_1위_노래 "wikilink")

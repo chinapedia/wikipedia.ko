@@ -3,7 +3,7 @@
 
 《**Master of Puppets**》는 [1986년](../Page/1986년.md "wikilink") 3월 3일에 발매된 [미국](../Page/미국.md "wikilink")의 [헤비 메탈](../Page/헤비_메탈.md "wikilink") [밴드](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [메탈리카](../Page/메탈리카.md "wikilink")의 세 번째 정규앨범이다.
 
-[빌보드 200](../Page/빌보드_200.md "wikilink") 차트에서 29위에 올랐으며, 후엔 미국내에서 600만 장을 팔아서 6X 플래티넘을 인증받았다. 또한 베이시스트인 [클리프 버튼과](https://ko.wikipedia.org/wiki/클리프_버튼 "wikilink") 함께한 마지막 앨범이 되었는데, 밴드가 이 앨범의 프로모션을 위한 투어를 돌던 중 버스 사고로 인해 그가 숨졌기 때문이다. 현재까지 전 세계적으로 1,300만장 가까이 팔렸다.
+[빌보드 200](../Page/빌보드_200.md "wikilink") 차트에서 29위에 올랐으며, 후엔 미국내에서 600만 장을 팔아서 6X 플래티넘을 인증받았다. 또한 베이시스트인 [클리프 버튼과](https://ko.wikipedia.org/wiki/클리프_버튼 "wikilink") 함께한 마지막 앨범이 되었는데, 밴드가 이 앨범의 프로모션을 위한 투어를 돌던 중 버스 사고로 인해 그가 숨졌기 때문이다. 현재까지 전 세계적으로 1,300만 장 가까이 팔렸다.
 
 [2006년](../Page/2006년.md "wikilink")에는 이 앨범의 발매 20주년을 기념하여 6월 3일 [락 앰 링](https://ko.wikipedia.org/wiki/락_앰_링 "wikilink")(Rock am Ring Festival)으로부터 시작해 8월 15일 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") 내한공연으로 종료된 〈Escape from the Studio '06〉투어의 모든 공연에서 앨범 수록곡을 연주했다.
 

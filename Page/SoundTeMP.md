@@ -9,7 +9,7 @@
   - 이석진 (BlueBlue)
   - [곽동일](https://ko.wikipedia.org/wiki/곽동일 "wikilink") ([sevin](https://ko.wikipedia.org/wiki/sevin "wikilink") (1993-2004)) 현재 S.F.A 소속
   - 장성운 (Nikacha)
-  - 박진배 (Silhouetti ,[ESTi](https://ko.wikipedia.org/wiki/ESTi "wikilink"))
+  - [박진배](../Page/박진배.md "wikilink") (Silhouetti ,ESTi)
   - 박수일
   - 남구민 ([Nauts](https://ko.wikipedia.org/wiki/Nauts "wikilink"))
 
@@ -41,7 +41,7 @@
   - [라테일](https://ko.wikipedia.org/wiki/라테일 "wikilink") - 2006, [엑토즈소프트](https://ko.wikipedia.org/wiki/엑토즈소프트 "wikilink")
   - [팡야](../Page/팡야.md "wikilink") 시즌3 - 2006, [엔트리브 소프트](../Page/엔트리브_소프트.md "wikilink")
   - [디제이맥스](../Page/디제이맥스.md "wikilink") 시리즈
-  - [프린세스 메이커](../Page/프린세스_메이커.md "wikilink") 시리즈
+  - [프린세스 메이커 3](https://ko.wikipedia.org/wiki/프린세스_메이커:_꿈꾸는_요정 "wikilink")
   - [트리 오브 세이비어](https://ko.wikipedia.org/wiki/트리_오브_세이비어 "wikilink") - 2015(CBT), [IMC게임즈](https://ko.wikipedia.org/wiki/IMC게임즈 "wikilink")
 
 ## 음반

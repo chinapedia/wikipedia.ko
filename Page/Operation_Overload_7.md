@@ -26,4 +26,4 @@
 14. SPRING BREEZE
 15. destiny （original version） （초회 한정판 수록）
 
-[분류:일본의 음악](https://ko.wikipedia.org/wiki/분류:일본의_음악 "wikilink") [분류:M.o.v.e](https://ko.wikipedia.org/wiki/분류:M.o.v.e "wikilink") [en:Operation Overload 7 (album)](https://ko.wikipedia.org/wiki/en:Operation_Overload_7_\(album\) "wikilink")
+[분류:일본의 음악](https://ko.wikipedia.org/wiki/분류:일본의_음악 "wikilink") [분류:M.o.v.e](https://ko.wikipedia.org/wiki/분류:M.o.v.e "wikilink")

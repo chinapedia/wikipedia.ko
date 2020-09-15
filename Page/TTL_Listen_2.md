@@ -23,6 +23,6 @@
 
 <references/>
 
-[분류:엠넷 미디어 음반](https://ko.wikipedia.org/wiki/분류:엠넷_미디어_음반 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink") [분류:대한민국의 팝 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_노래 "wikilink") [분류:티아라의 음반](https://ko.wikipedia.org/wiki/분류:티아라의_음반 "wikilink")
+[분류:엠넷 미디어 음반](https://ko.wikipedia.org/wiki/분류:엠넷_미디어_음반 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink") [분류:K-pop 노래](https://ko.wikipedia.org/wiki/분류:K-pop_노래 "wikilink") [분류:티아라의 음반](https://ko.wikipedia.org/wiki/분류:티아라의_음반 "wikilink")
 
 1.

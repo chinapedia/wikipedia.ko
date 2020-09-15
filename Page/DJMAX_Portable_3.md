@@ -85,6 +85,6 @@ Planetboom, NieN, makou 등 디제이맥스 시리즈의 기존 인기 뮤지션
 
 [분류:2010년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2010년_비디오_게임 "wikilink") [분류:플레이스테이션 포터블 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_포터블_게임 "wikilink")
 
-1.  [PM Studios Announces 'DJMax Portable 3' for the PSP in 2010](http://au.psp.ign.com/articles/109/1092656p1.html) - IGN
+1.  [PM Studios Announces 'DJMax Portable 3' for the PSP in 2010](http://au.psp.ign.com/articles/109/1092656p1.html)  - IGN
 2.  [펜타비전, 'DJ맥스 포터블 3' 발표](http://www.ruliweb.com/data/rulinews/read.htm?page=4&num=17648&find=&ftext=&main=) - ruliweb.com
 3.  [DJMAX 포터블 3, 연주 시스템 소개](http://ruliweb.com/data/rulinews/read.htm?num=17823&page=2) - ruliweb.com

@@ -73,4 +73,4 @@
 
 1.  [1](http://media.daum.net/entertain/broadcast/view.html?cateid=1032&newsid=20070228214619203&p=khan)《경향신문》2007.02.28 〈스포츠칸〉생생 스타잉글리쉬 〈38〉
 2.
-3.  [신승훈 공식 홈페이지](http://www.shinseunghun.com) 상의 프로필 히스토리
+3.  [신승훈 공식 홈페이지](http://www.shinseunghun.com)  상의 프로필 히스토리

@@ -7,7 +7,7 @@
 
   - [2000년](../Page/2000년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") : 토요일 저녁 6시
   - [2000년](../Page/2000년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") : 목요일 저녁 7시 25분
-  - [2001년](../Page/2001년.md "wikilink") [4월 29일](../Page/4월_29일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") : 일요일 낮 1시 5분
+  - [2001년](../Page/2001년.md "wikilink") [4월 29일](../Page/4월_29일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") : 일요일 오후 1시 5분
   - [2001년](../Page/2001년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink") : 화요일 저녁 7시 25분
   - [2002년](../Page/2002년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") : 화요일 저녁 7시 20분
   - [2006년](../Page/2006년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") : 화요일 저녁 6시 50분

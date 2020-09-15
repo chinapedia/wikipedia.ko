@@ -29,7 +29,7 @@
 <tr class="even">
 <td><p>100</p></td>
 <td><div style="text-align: center;">
-<p><a href="https://ko.wikipedia.org/wiki/유태목" title="wikilink">유태목</a></p></td>
+<p><a href="../Page/유태목.md" title="wikilink">유태목</a></p></td>
 <td><p><a href="../Page/부산_아이파크.md" title="wikilink">대우 로얄즈</a></p></td>
 <td><p><a href="../Page/1983년.md" title="wikilink">1983년</a> <a href="../Page/9월_22일.md" title="wikilink">9월 22일</a></p></td>
 </tr>

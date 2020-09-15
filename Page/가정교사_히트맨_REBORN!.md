@@ -374,7 +374,7 @@
   - [가정교사 히트맨 REBORN\! the STAGE 공식 사이트](https://www.marv.jp/special/reborn-the-stage/)
 
   -
-  - [가정교사 히트맨 REBORN\! 네이버 공식 카페](http://cafe.naver.com/hitmanreborn)
+  - [가정교사 히트맨 REBORN\! 네이버 공식 카페](https://web.archive.org/web/20111102204441/http://cafe.naver.com/hitmanreborn)
 
   - [1](http://itphone.site40.net) - 히트맨 정보검색
 

@@ -26,10 +26,10 @@
   - [Rocketdyne Space Page](https://web.archive.org/web/20080308002633/http://www.pw.utc.com/vgn-ext-templating/v/index.jsp?vgnextrefresh=1&vgnextoid=a4a307b06f5eb010VgnVCM1000000881000aRCRD)
   - Astronautix.com:
       - [Delta IV Heavy](http://www.astronautix.com/lvs/delheavy.htm)
-      - [Delta IV Medium (5,4)](http://www.astronautix.com/lvs/delium54.htm)
-      - [Delta IV Medium (5,2)](http://www.astronautix.com/lvs/delium52.htm)
+      - [Delta IV Medium (5,4)](https://web.archive.org/web/20080830023114/http://www.astronautix.com/lvs/delium54.htm)
+      - [Delta IV Medium (5,2)](https://web.archive.org/web/20081011043339/http://www.astronautix.com/lvs/delium52.htm)
       - [Delta IV Medium (4,2)](http://www.astronautix.com/lvs/delium42.htm)
-      - [Delta IV Medium](http://www.astronautix.com/lvs/deledium.htm)
+      - [Delta IV Medium](https://web.archive.org/web/20080720004842/http://www.astronautix.com/lvs/deledium.htm)
 
 [분류:우주발사체](https://ko.wikipedia.org/wiki/분류:우주발사체 "wikilink") [분류:보잉](https://ko.wikipedia.org/wiki/분류:보잉 "wikilink") [분류:델타 로켓](https://ko.wikipedia.org/wiki/분류:델타_로켓 "wikilink")
 

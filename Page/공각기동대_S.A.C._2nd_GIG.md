@@ -98,7 +98,7 @@
 
   - [공식 웹사이트](http://www.kokaku-s.com/)
 
-  - [프로덕션 I.G](http://www.production-ig.co.jp/) - 이 작품의 제작사.
+  - [프로덕션 I.G](https://web.archive.org/web/20170909234054/https://www.production-ig.co.jp/) - 이 작품의 제작사.
 
   - [공각기동대 STAND ALONE COMPLEX](https://www.imdb.com/title/tt0346314/) - [인터넷 영화 데이터베이스](../Page/인터넷_영화_데이터베이스.md "wikilink").
 

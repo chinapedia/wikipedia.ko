@@ -85,6 +85,51 @@
   -
   -
   -
+## 제원 (MiG-15bis)
+
+  - 일반 특성
+
+<!-- end list -->
+
+  - **승무원:** 1명
+  - **길이:** 10.102 m (33 ft 2 in)
+  - **날개폭:** 10.085 m (33 ft 1 in)
+  - **높이:** 3.7 m (12 ft 2 in)
+  - **날개면적:** 20.6 m2 (222 sq ft)
+  - **공허중량:** 3,681 kg (8,115 lb)
+  - **만재중량:** 5,044 kg (11,120 lb)
+  - **최대이륙중량:** 6,106 kg (13,461 lb) with 2x600 l (160 US gal; 130 imp gal) drop-tanks
+  - **연료량:** 1,420 l (380 US gal; 310 imp gal) internal
+  - **엔진:** 1 × Klimov VK-1 centrifugal-flow turbojet, 26.5 kN (5,950 lbf) thrust
+
+<!-- end list -->
+
+  - 성능
+
+<!-- end list -->
+
+  - **최고속도:**
+      - 1,076 km/h (669 mph, 581 kn, 마하 0.87) at sea level
+      - 1,107 km/h (688 mph; 598 kn) / M0.9 at 3,000 m (9,843 ft)
+  - **순항속도:** 850 km/h (530 mph, 460 kn) Mach 0.69
+  - **순항거리:** 2,520 km (1,570 mi, 1,360 nmi) at 12,000 m (39,370 ft) with 2x 600 l (160 US gal; 130 imp gal) 드롭탱크
+  - **최고고도:** 15,500 m (50,900 ft)
+  - **상승률:** 51.2 m/s (10,080 ft/min)
+  - **추력대중량비:** 0.54
+
+<!-- end list -->
+
+  - 무장
+
+<!-- end list -->
+
+  - **기관포:**
+      - 2 × 23 mm Nudelman-Rikhter NR-23 autocannon in the lower left fuselage (각각 80발)
+      - 1 × 37 mm Nudelman N-37 autocannon in the lower right fuselage (40발)
+  - **하드포인트:** 2개
+      - 폭탄: 100 kg (220 lb) 폭탄
+      - 기타: 드롭탱크, 무유도로켓
+
 ## 각주
 
 [분류:소련 및 러시아의 전투기](https://ko.wikipedia.org/wiki/분류:소련_및_러시아의_전투기 "wikilink") [분류:경전투기](https://ko.wikipedia.org/wiki/분류:경전투기 "wikilink") [분류:단발 제트기](https://ko.wikipedia.org/wiki/분류:단발_제트기 "wikilink") [분류:미그기](https://ko.wikipedia.org/wiki/분류:미그기 "wikilink") [분류:1947년 첫 비행한 항공기](https://ko.wikipedia.org/wiki/분류:1947년_첫_비행한_항공기 "wikilink") [분류:중익기](https://ko.wikipedia.org/wiki/분류:중익기 "wikilink")

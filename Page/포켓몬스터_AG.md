@@ -276,7 +276,7 @@
 
 ## 등장인물
 
-  - 주인공은 **[한지우](../Page/한지우_\(포켓몬스터\).md "wikilink")**<small>(사토시)</small>와 **[봄이](../Page/봄이.md "wikilink")**<small>(하루카)</small>, **[정인](https://ko.wikipedia.org/wiki/정인 "wikilink")**<small>(마사토)</small>, **[웅](https://ko.wikipedia.org/wiki/웅 "wikilink")**<small>(타케시)</small>이다.
+  - 주인공은 **[한지우](../Page/한지우_\(포켓몬스터\).md "wikilink")**<small>(사토시)</small>와 **[봄이](../Page/봄이.md "wikilink")**<small>(하루카)</small>, **[정인](https://ko.wikipedia.org/wiki/정인_\(포켓몬스터\) "wikilink")**<small>(마사토)</small>, **[웅](https://ko.wikipedia.org/wiki/웅 "wikilink")**<small>(타케시)</small>이다.
   - 스타팅 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[나무지기](../Page/나무지기.md "wikilink"), [아차모](https://ko.wikipedia.org/wiki/아차모 "wikilink"), [물짱이](../Page/물짱이.md "wikilink")**이다.
   - 환상의 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[지라치](../Page/지라치.md "wikilink"), [테오키스](../Page/테오키스.md "wikilink")**이다
   - 전설의 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[레쿠쟈](../Page/레쿠쟈.md "wikilink"), [그란돈](https://ko.wikipedia.org/wiki/그란돈 "wikilink"), [가이오가](../Page/가이오가.md "wikilink"), [레지스틸](https://ko.wikipedia.org/wiki/레지스틸 "wikilink"), [레지락](https://ko.wikipedia.org/wiki/레지락 "wikilink"), [레지아이스](https://ko.wikipedia.org/wiki/레지아이스 "wikilink"), [라티오스](https://ko.wikipedia.org/wiki/라티오스 "wikilink"), [라티아스](https://ko.wikipedia.org/wiki/라티아스 "wikilink")**이다.

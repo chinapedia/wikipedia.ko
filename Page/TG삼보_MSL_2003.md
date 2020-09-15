@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TG삼보 MSL 2003](https://ko.wikipedia.org/wiki/TG삼보_MSL_2003).
 
 
-**TG삼보 MSL 2003**(2nd TG Sambo MSL 2003, TG삼보 MSL)은 MBC게임의 10번째리그이자 MSL이라는 약칭이 처음 사용된 대회이며, MSL의 2번째리그이다.
+**TG삼보 MSL 2003**(2nd TG Sambo MSL 2003, TG삼보 MSL)은 **MBC게임**의 **[10번째리그](https://ko.wikipedia.org/wiki/10번째리그 "wikilink")**이자 **MSL**이라는 **[약칭](https://ko.wikipedia.org/wiki/약칭 "wikilink")**이 처음 사용된 대회이며, **MSL**의 **[2번째리그](https://ko.wikipedia.org/wiki/2번째리그 "wikilink")**이다.
 
 ## 리그 본문
 

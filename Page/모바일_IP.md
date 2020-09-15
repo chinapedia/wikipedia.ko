@@ -73,7 +73,7 @@
 
   - [핸드오프](https://ko.wikipedia.org/wiki/핸드오프 "wikilink")
   - [로밍](https://ko.wikipedia.org/wiki/로밍 "wikilink")
-  - [GPRS 터널링 프로토콜](https://ko.wikipedia.org/wiki/GPRS_터널링_프로토콜 "wikilink")
+  - [GPRS 터널링 프로토콜](../Page/GPRS_터널링_프로토콜.md "wikilink")
   - [모바일 IPv6](https://ko.wikipedia.org/wiki/모바일_IPv6 "wikilink")
   - [프록시 모바일 IP](https://ko.wikipedia.org/wiki/프록시_모바일_IP "wikilink")
 

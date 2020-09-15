@@ -89,7 +89,7 @@
 </tbody>
 </table>
 
-## 부문별 수상자
+## 역대 부문별 수상자
 
 ### 2000년대 연예대상
 
@@ -943,7 +943,7 @@ TV - 김남경</p></td>
 <tr class="even">
 <td><p>베스트 패밀리상</p></td>
 <td><p><a href="../Page/김정민.md" title="wikilink">김정민</a> 가족, <a href="../Page/김태우_(1981년).md" title="wikilink">김태우</a> 가족,<br />
-<a href="https://ko.wikipedia.org/wiki/리키김" title="wikilink">리키김</a> 가족, <a href="https://ko.wikipedia.org/wiki/손준호_(배우)" title="wikilink">손준호</a> 가족<br />
+<a href="https://ko.wikipedia.org/wiki/리키김" title="wikilink">리키김</a> 가족, <a href="../Page/손준호_(배우).md" title="wikilink">손준호</a> 가족<br />
 (<a href="https://ko.wikipedia.org/wiki/오_마이_베이비" title="wikilink">오 마이 베이비</a>)</p></td>
 </tr>
 <tr class="odd">
@@ -1395,7 +1395,7 @@ TV - 김남경</p></td>
 <td><p>라디오 DJ상</p></td>
 <td><p><a href="../Page/송은이.md" title="wikilink">송은이</a>, <a href="../Page/김숙.md" title="wikilink">김숙</a><br />
 <a href="../Page/김영철_(희극인).md" title="wikilink">김영철</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/송은이,_김숙의_언니네_라디오" title="wikilink">송은이, 김숙의 언니네 라디오</a><br />
+<td><p><a href="../Page/송은이,_김숙의_언니네_라디오.md" title="wikilink">송은이, 김숙의 언니네 라디오</a><br />
 <a href="https://ko.wikipedia.org/wiki/파워_FM_(라디오_프로그램)" title="wikilink">김영철의 파워 FM</a></p></td>
 </tr>
 <tr class="even">
@@ -1635,7 +1635,7 @@ TV - 김남경</p></td>
 <td><p>우수상 {{-}} (리얼리티쇼 부문)</p></td>
 <td><p><a href="../Page/김희철_(가수).md" title="wikilink">김희철</a><br />
 <a href="../Page/윤상현_(배우).md" title="wikilink">윤상현</a></p></td>
-<td><p><a href="../Page/미운_우리_새끼.md" title="wikilink">미운 우리 새끼</a>, <a href="https://ko.wikipedia.org/wiki/맛남의_광장" title="wikilink">맛남의 광장</a><br />
+<td><p><a href="../Page/미운_우리_새끼.md" title="wikilink">미운 우리 새끼</a>, <a href="../Page/맛남의_광장.md" title="wikilink">맛남의 광장</a><br />
 <a href="../Page/동상이몽_2_-_너는_내_운명.md" title="wikilink">동상이몽 2 - 너는 내 운명</a></p></td>
 </tr>
 <tr class="even">
@@ -1653,7 +1653,7 @@ TV - 김남경</p></td>
 <tr class="even">
 <td><p>공로상</p></td>
 <td><p><a href="../Page/백종원.md" title="wikilink">백종원</a></p></td>
-<td><p><a href="../Page/백종원의_골목식당.md" title="wikilink">백종원의 골목식당</a>, <a href="https://ko.wikipedia.org/wiki/맛남의_광장" title="wikilink">맛남의 광장</a></p></td>
+<td><p><a href="../Page/백종원의_골목식당.md" title="wikilink">백종원의 골목식당</a>, <a href="../Page/맛남의_광장.md" title="wikilink">맛남의 광장</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>방송작가상</p></td>
@@ -1694,7 +1694,7 @@ TV - 김남경</p></td>
 <tr class="odd">
 <td><p>SBS 명예사원상</p></td>
 <td><p><a href="../Page/양세형.md" title="wikilink">양세형</a></p></td>
-<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a>, <a href="https://ko.wikipedia.org/wiki/맛남의_광장" title="wikilink">맛남의 광장</a>,<br />
+<td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a>, <a href="../Page/맛남의_광장.md" title="wikilink">맛남의 광장</a>,<br />
 <a href="../Page/미추리_8-1000.md" title="wikilink">미추리 8-1000</a>, <a href="../Page/가로채널.md" title="wikilink">가로채널</a></p></td>
 </tr>
 <tr class="even">
@@ -1704,7 +1704,7 @@ TV - 김남경</p></td>
 <a href="../Page/김동준_(가수).md" title="wikilink">김동준</a></p></td>
 <td><p><a href="../Page/정글의_법칙.md" title="wikilink">정글의 법칙</a><br />
 <a href="../Page/정글의_법칙.md" title="wikilink">정글의 법칙</a>, <a href="../Page/전설의_빅피쉬.md" title="wikilink">전설의 빅피쉬</a><br />
-<a href="https://ko.wikipedia.org/wiki/맛남의_광장" title="wikilink">맛남의 광장</a></p></td>
+<a href="../Page/맛남의_광장.md" title="wikilink">맛남의 광장</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>글로벌 프로그램상</p></td>
@@ -1764,7 +1764,7 @@ TV - 김남경</p></td>
   - [2009년](../Page/2009년.md "wikilink"), [2015년](../Page/2015년.md "wikilink"), [2017년](../Page/2017년.md "wikilink") **연예대상**은 공동 수상이 이루어졌다.
   - [2017년](../Page/2017년.md "wikilink") **연예대상**은 방송 3사 최초로 비연예인이 수상하였다.
   - [2018년](../Page/2018년.md "wikilink") **연예대상**은 [이승기](../Page/이승기.md "wikilink")가 대상을 수상하였고 [백종원](../Page/백종원.md "wikilink")은 시상식 현장에서 아무런 상도 가져가지 못하며 논란이 발생하였다.
-  - [2019년](../Page/2019년.md "wikilink") **연예대상**은 대상 유력후보인 [백종원](../Page/백종원.md "wikilink")이 [2018년](../Page/2018년.md "wikilink")에 이어 수상을 거부했으나 공로상을 수여하며 [2018년](../Page/2018년.md "wikilink") 발생했던 논란에 대해 어느 정도 대응했다는 평가를 받고 있다.
+  - [2019년](../Page/2019년.md "wikilink") **연예대상**은 대상 유력후보인 [백종원](../Page/백종원.md "wikilink")이 [2018년](../Page/2018년.md "wikilink")에 이어 수상을 거부했으나 공로상을 수여하며 [2018년](../Page/2018년.md "wikilink") 발생했던 논란에 대해 어느 정도 대응했다는 평을 듣고 있다.
 
 ## 시청률
 
@@ -1895,5 +1895,5 @@ TV - 김남경</p></td>
 
 [SBS_연예대상](https://ko.wikipedia.org/wiki/분류:SBS_연예대상 "wikilink") [분류:대한민국의 텔레비전상](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전상 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SBS의_예능_프로그램 "wikilink") [분류:2007년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2007년에_시작한_대한민국_TV_프로그램 "wikilink")
 
-1.  **연예대상 2관왕** : 같은 연도에 방송 3사 중 2개의 방송사에서 동시에 연예대상을 수상하는 것을 의미
+1.  **연예대상 2관왕** : 같은 연도에 방송 3사 중 2개의 방송사에서 동시에 연예대상을 수상하는 것을 의미함
 2.  [AGB 닐슨 미디어 리서치 홈페이지](http://www.agbnielsen.co.kr/)

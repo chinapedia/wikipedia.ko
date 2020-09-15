@@ -403,7 +403,8 @@
 
 | 부문                                                  | 수상자                                                                                                                                 | 출연작                                                                                                     |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 최우수 연기상                                             | [최수종](../Page/최수종.md "wikilink")                                                                                                    | [첫사랑](../Page/첫사랑_\(1996년_드라마\).md "wikilink"), [프로젝트](../Page/프로젝트_\(드라마\).md "wikilink")              |
+| 최우수 연기상                                             | [유동근](../Page/유동근.md "wikilink")                                                                                                    | [조광조](../Page/조광조_\(드라마\).md "wikilink"), [용의 눈물](../Page/용의_눈물.md "wikilink")                          |
+| [최수종](../Page/최수종.md "wikilink")                    | [첫사랑](../Page/첫사랑_\(1996년_드라마\).md "wikilink"), [프로젝트](../Page/프로젝트_\(드라마\).md "wikilink")                                          |                                                                                                         |
 | [김영애](../Page/김영애.md "wikilink")                    | [컬러](https://ko.wikipedia.org/wiki/컬러 "wikilink")- 회색, [사랑할때까지](../Page/사랑할때까지.md "wikilink"), [신고합니다](../Page/신고합니다.md "wikilink") |                                                                                                         |
 | 우수 연기상                                              | 남자                                                                                                                                  | [김영철](../Page/김영철_\(배우\).md "wikilink")                                                                 |
 | [배용준](../Page/배용준.md "wikilink")                    | [파파](../Page/파파_\(드라마\).md "wikilink"), [첫사랑](../Page/첫사랑_\(1996년_드라마\).md "wikilink")                                              |                                                                                                         |
@@ -1921,7 +1922,7 @@
 <td><p><a href="../Page/동백꽃_필_무렵.md" title="wikilink">동백꽃 필 무렵</a><br />
 <a href="../Page/왜그래_풍상씨.md" title="wikilink">왜그래 풍상씨</a><br />
 <a href="../Page/단,_하나의_사랑.md" title="wikilink">단, 하나의 사랑</a><br />
-<a href="https://ko.wikipedia.org/wiki/99억의_여자" title="wikilink">99억의 여자</a></p></td>
+<a href="../Page/99억의_여자.md" title="wikilink">99억의 여자</a></p></td>
 </tr>
 <tr class="even">
 <td><p>우수상</p></td>
@@ -2023,26 +2024,26 @@
 <a href="../Page/김정난.md" title="wikilink">김정난</a><br />
 <a href="../Page/하재숙.md" title="wikilink">하재숙</a></p></td>
 <td><p><a href="../Page/닥터_프리즈너.md" title="wikilink">닥터 프리즈너</a><br />
-<a href="https://ko.wikipedia.org/wiki/99억의_여자" title="wikilink">99억의 여자</a><br />
+<a href="../Page/99억의_여자.md" title="wikilink">99억의 여자</a><br />
 <a href="../Page/닥터_프리즈너.md" title="wikilink">닥터 프리즈너</a><br />
 <a href="https://ko.wikipedia.org/wiki/퍼퓸" title="wikilink">퍼퓸</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>연작 · 단막극상</p></td>
 <td><p><a href="../Page/정동환.md" title="wikilink">정동환</a><br />
-<a href="https://ko.wikipedia.org/wiki/이도현_(1995년)" title="wikilink">이도현</a><br />
+<a href="../Page/이도현_(1995년).md" title="wikilink">이도현</a><br />
 <a href="../Page/이주영_(1992년).md" title="wikilink">이주영</a><br />
 <a href="../Page/조수민.md" title="wikilink">조수민</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_드라마_스페셜" title="wikilink">KBS 드라마 스페셜 - 그렇게 살다</a><br />
 <a href="https://ko.wikipedia.org/wiki/KBS_드라마_스페셜" title="wikilink">KBS 드라마 스페셜 - 스카우팅 리포트</a><br />
 <a href="https://ko.wikipedia.org/wiki/KBS_드라마_스페셜" title="wikilink">KBS 드라마 스페셜 - 집우집주</a><br />
-<a href="https://ko.wikipedia.org/wiki/생일편지" title="wikilink">생일편지</a></p></td>
+<a href="../Page/생일편지.md" title="wikilink">생일편지</a></p></td>
 </tr>
 <tr class="even">
 <td><p>청소년 연기상</p></td>
 <td><p><a href="../Page/김강훈.md" title="wikilink">김강훈</a><br />
 박다연<br />
-<a href="https://ko.wikipedia.org/wiki/주예림" title="wikilink">주예림</a></p></td>
+<a href="../Page/주예림.md" title="wikilink">주예림</a></p></td>
 <td><p><a href="../Page/동백꽃_필_무렵.md" title="wikilink">동백꽃 필 무렵</a><br />
 <a href="../Page/조선로코-녹두전.md" title="wikilink">조선로코-녹두전</a><br />
 <a href="../Page/세상에서_제일_예쁜_내_딸.md" title="wikilink">세상에서 제일 예쁜 내 딸</a></p></td>

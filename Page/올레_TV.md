@@ -50,7 +50,7 @@
 ## 관련 항목
 
   - [KT스카이라이프](../Page/KT스카이라이프.md "wikilink")
-  - [Seezn](https://ko.wikipedia.org/wiki/시즌_\(플랫폼\) "wikilink")
+  - [Seezn](../Page/시즌_\(플랫폼\).md "wikilink")
 
 ## 외부 링크
 

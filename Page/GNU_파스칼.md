@@ -9,6 +9,6 @@
 
 ## 외부 링크
 
-  - [GNU 파스칼 공식 사이트](http://www.gnu-pascal.de/)
+  - [GNU 파스칼 공식 사이트](https://web.archive.org/web/20041102054016/http://www.gnu-pascal.de/)
 
 [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:절차적 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:절차적_프로그래밍_언어 "wikilink") [분류:구조적 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:구조적_프로그래밍_언어 "wikilink") [분류:파스칼 프로그래밍 언어 계열](https://ko.wikipedia.org/wiki/분류:파스칼_프로그래밍_언어_계열 "wikilink") [분류:파스칼 컴파일러](https://ko.wikipedia.org/wiki/분류:파스칼_컴파일러 "wikilink")

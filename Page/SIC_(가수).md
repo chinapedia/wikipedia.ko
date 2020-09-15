@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SIC \(가수\)](https://ko.wikipedia.org/wiki/SIC_\(가수\)).
 
 
-**SIC**(, [1982년](../Page/1982년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [배우](../Page/배우.md "wikilink")이다.
+**SIC**(, 1982년 12월 7일 \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [배우](../Page/배우.md "wikilink")이다.
 
 ## 학력
 
@@ -30,12 +30,12 @@
 
 ### 드라마
 
-| 연도   | 방송  | 제목                                                            | 역할        | 비고 |
-| ---- | --- | ------------------------------------------------------------- | --------- | -- |
-| 2017 | SBS | [귓속말](../Page/귓속말_\(드라마\).md "wikilink")                      | 행동대장      |    |
-| 2019 | SBS | [열혈사제](../Page/열혈사제.md "wikilink")                            | 장룡        |    |
-| 2020 | OCN | [본 대로 말하라](https://ko.wikipedia.org/wiki/본_대로_말하라 "wikilink") | 강동식 / 김요한 |    |
-| 2020 | SBS | [편의점 샛별이](https://ko.wikipedia.org/wiki/편의점_샛별이 "wikilink")   | 달식        |    |
+| 연도   | 방송  | 제목                                                                  | 역할        | 비고 |
+| ---- | --- | ------------------------------------------------------------------- | --------- | -- |
+| 2017 | SBS | [귓속말](../Page/귓속말_\(드라마\).md "wikilink")                            | 행동대장      |    |
+| 2019 | SBS | [열혈사제](../Page/열혈사제.md "wikilink")                                  | 장룡        |    |
+| 2020 | OCN | [본 대로 말하라](../Page/본_대로_말하라.md "wikilink")                          | 강동식 / 김요한 |    |
+| 2020 | SBS | [편의점 샛별이](https://ko.wikipedia.org/wiki/편의점_샛별이_\(드라마\) "wikilink") | 달식        |    |
 
 ### 영화
 
@@ -50,6 +50,7 @@
 
 ### 예능
 
+  - 2005년 KBS2 [상상플러스](https://ko.wikipedia.org/wiki/상상플러스 "wikilink")
   - 2020년 SBS [미운 우리 새끼](../Page/미운_우리_새끼.md "wikilink")
 
 ### 광고
@@ -58,6 +59,7 @@
   - 2019 [여기어때](../Page/여기어때.md "wikilink")
   - 2019 [맘스터치](../Page/맘스터치.md "wikilink")
   - 2020 [캐롯손해보험](https://ko.wikipedia.org/wiki/캐롯손해보험 "wikilink")
+  - 2020 [농심](../Page/농심.md "wikilink") 둥지냉면
 
 ## 수상 및 후보
 
@@ -112,8 +114,7 @@
 
   -
   -
-  - [SIC](https://www.instagram.com/monsterz_sic/) - 인스타그램
-
+  -
 ## 각주
 
 <references/>

@@ -83,7 +83,7 @@
   - [귄궤른 블디이예스포르](https://ko.wikipedia.org/wiki/귄궤른_블디이예스포르 "wikilink")
   - [카르시야카 SK](https://ko.wikipedia.org/wiki/카르시야카_SK "wikilink")
   - [카이세리 에르지예스스포르](../Page/카이세리_에르지예스스포르.md "wikilink")
-  - [메르신 이드만 유르두](https://ko.wikipedia.org/wiki/메르신_이드만_유르두 "wikilink")
+  - [메르신 이드만 유르두](../Page/메르신_이드만_유르두.md "wikilink")
   - [오르두스포르](https://ko.wikipedia.org/wiki/오르두스포르 "wikilink")
   - [삼순스포르](../Page/삼순스포르.md "wikilink")
   - [타비살리 린이트스포르](https://ko.wikipedia.org/wiki/타비살리_린이트스포르 "wikilink")

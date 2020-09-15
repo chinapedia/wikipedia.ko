@@ -110,7 +110,7 @@
 
 ## 각주
 
-[분류:2009년 음반](https://ko.wikipedia.org/wiki/분류:2009년_음반 "wikilink") [분류:리쌍의 음반](https://ko.wikipedia.org/wiki/분류:리쌍의_음반 "wikilink") [분류:가온 디지털 차트 1위 노래‎](https://ko.wikipedia.org/wiki/분류:가온_디지털_차트_1위_노래‎ "wikilink")
+[분류:2009년 음반](https://ko.wikipedia.org/wiki/분류:2009년_음반 "wikilink") [분류:리쌍의 음반](https://ko.wikipedia.org/wiki/분류:리쌍의_음반 "wikilink") [분류:가온 디지털 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_디지털_차트_1위_노래 "wikilink")
 
 1.
 2.

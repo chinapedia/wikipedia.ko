@@ -422,6 +422,11 @@
 <td><p><a href="../Page/토론토_랩터스.md" title="wikilink">토론토 랩터스</a></p></td>
 <td><p>58승 24패 .707</p></td>
 </tr>
+<tr class="even">
+<td><p>2020년</p></td>
+<td><p><a href="../Page/토론토_랩터스.md" title="wikilink">토론토 랩터스</a></p></td>
+<td><p>53승 19패 .736</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -440,7 +445,7 @@
 <td><p><a href="../Page/보스턴_셀틱스.md" title="wikilink">보스턴 셀틱스</a></p></td>
 </tr>
 <tr class="even">
-<td><p>6회</p></td>
+<td><p>7회</p></td>
 <td><p><a href="../Page/토론토_랩터스.md" title="wikilink">토론토 랩터스</a></p></td>
 </tr>
 <tr class="odd">

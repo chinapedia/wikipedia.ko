@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [서울 FC 마르티스](https://ko.wikipedia.org/wiki/서울_FC_마르티스).
 
 
-**서울 FC 마르티스**()는 [2009년](../Page/2009년.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink")까지 [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink")에 참가한 기독교 선교 축구단이다.
+**서울 FC 마르티스**()는 [2009년](../Page/2009년.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink")까지 [K3리그](../Page/K3리그.md "wikilink")에 참가한 기독교 선교 축구단이다.
 
 연고지는 [서울특별시](../Page/서울특별시.md "wikilink")이며 강북구민운동장을 홈구장으로 사용한다. 경기도 양주시에 위치한 삶의 교회에서 팀을 운영한다.
 

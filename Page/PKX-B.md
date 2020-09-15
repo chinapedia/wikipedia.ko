@@ -1,0 +1,18 @@
+> This article is converted from Wikipedia: [PKX-B](https://ko.wikipedia.org/wiki/PKX-B).
+
+
+**PKX-B**(또는 검독수리급 고속정)는 대한민국 차기 고속정 프로그램(PKX, Patrol Killer eXperimental)의 하나로 직접적으로 참수리급 고속정을 대체하는 고속정이다. 총 건조계획량은 16척이다.
+
+## 개발
+
+노후화된 [참수리급 고속정을](../Page/참수리급_고속정.md "wikilink") 대체하기위해 [대한민국 해군이](../Page/대한민국_해군.md "wikilink") 벌이고 있는 차세대 개량사업으로 [윤영하급 고속함과](../Page/윤영하급_고속함.md "wikilink") 함께 진행되었다. 총 24척이 계획량이었으나 각종 이유로 16척까지 줄어들었고, 사업우선순위에서 밀려 2020년 현재 아직까지 4척만 건조되었다.
+
+## 특징
+
+저출산으로 인한 인력문제를 해결하기위해 함을 최대한 자동화하였다. 그 덕분에 250톤짜리 고속정이 운용인원이 22명밖에 되지 않으며, 그마저도 그 중 수병은 두명밖에 안탄다.
+
+## 참고문헌
+
+  - [밀리터리 리뷰](https://ko.wikipedia.org/wiki/밀리터리_리뷰 "wikilink") 2010년 1월 호
+
+[분류:대한민국의 고속정](https://ko.wikipedia.org/wiki/분류:대한민국의_고속정 "wikilink")

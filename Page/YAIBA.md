@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - [카케토라](https://ko.wikipedia.org/wiki/카케토라 "wikilink")(호돌이)
+  - [카게토라](https://ko.wikipedia.org/wiki/카게토라 "wikilink")(호돌이)
 
 <!-- end list -->
 
@@ -57,17 +57,18 @@
     성우 : [이상헌](../Page/이상헌_\(성우\).md "wikilink")
     [오니마루의](https://ko.wikipedia.org/wiki/오니마루_타케시 "wikilink") 부하인 [매드 사이언티스트](https://ko.wikipedia.org/wiki/매드_사이언티스트 "wikilink").
 
-### 달
+### [달](../Page/달.md "wikilink")
 
-  - 카구야 공주(바니여왕)
-    성우 : [후카미 리카](../Page/후카미_리카.md "wikilink")/[윤미나](../Page/윤미나.md "wikilink")
-    먼 옛날 용의무녀인 인간여자와 재미삼아 합체를 하였다가 용신과의 싸움에서 귀를 잘리며 패하면서 분리하지 못한다. 지속적인 여성의 액기스가 필요하다. 1000년의 시간이 흘러 용신에게 깊은 원한이 생기며, [사야카의](https://ko.wikipedia.org/wiki/미네_사야카 "wikilink") 엑기스를 흡수한 뒤 본래의 모습을 되찾아 [야이바와](https://ko.wikipedia.org/wiki/쿠로가네_야이바 "wikilink") [오니마루가](https://ko.wikipedia.org/wiki/오니마루_타케시 "wikilink") 함께 덤벼도 쓰러지지 않는 최고의 고전 상대가 된다. 마지막에는 [야이바가](https://ko.wikipedia.org/wiki/쿠로가네_야이바 "wikilink") 최고의 힘을 쥐어 짜서 카구야를 [지구](../Page/지구.md "wikilink")에 봉인시키는데 성공한다.
+  - [카구야](https://ko.wikipedia.org/wiki/카구야_\(YAIBA\) "wikilink")
+
+<!-- end list -->
+
   - 츠키카게(월터)
     성우 : [나카무라 다이키](https://ko.wikipedia.org/wiki/나카무라_다이스케_\(성우\) "wikilink")/[유호한](../Page/유호한.md "wikilink")
-    달나라 사람의 장군으로, 카구야의 가장 충실한 부하이다. 나중에 동생인 겟코와 화해하게 된다. 카구야가 [지구](../Page/지구.md "wikilink")에 봉인 된 후 철수한다.
+    달나라 사람의 장군으로, [카구야의](https://ko.wikipedia.org/wiki/카구야_\(YAIBA\) "wikilink") 가장 충실한 부하이다. 나중에 동생인 겟코와 화해하게 된다. [카구야가](https://ko.wikipedia.org/wiki/카구야_\(YAIBA\) "wikilink") [지구](../Page/지구.md "wikilink")에 봉인 된 후 철수한다.
   - 겟코(월차)
     성우 : [야오 카즈키](https://ko.wikipedia.org/wiki/야오_카즈키 "wikilink")/[김영선](../Page/김영선_\(성우\).md "wikilink")\[1\]
-    츠키카게의 남동생으로 어렸을 때부터 친척들에게 차별당해 와서 형을 증오하고 있으며, 자신의 한 쪽 눈을 잃게 만든 용신에게도 원한이 있다. 달나라에서 금지되고 있는 마왕검을 사용하여 [야이바를](https://ko.wikipedia.org/wiki/쿠로가네_야이바 "wikilink") 압도하는 강력한 파워를 선보였다. 나중에 [오니마루에게](https://ko.wikipedia.org/wiki/오니마루_타케시 "wikilink") 마왕검을 빼앗기고 형인 츠키카게와 화해를 하게 된다. 카구야가 [지구](../Page/지구.md "wikilink")에 봉인 된 후 철수한다.
+    츠키카게의 남동생으로 어렸을 때부터 친척들에게 차별당해 와서 형을 증오하고 있으며, 자신의 한 쪽 눈을 잃게 만든 용신에게도 원한이 있다. 달나라에서 금지되고 있는 마왕검을 사용하여 [야이바를](https://ko.wikipedia.org/wiki/쿠로가네_야이바 "wikilink") 압도하는 강력한 파워를 선보였다. 나중에 [오니마루에게](https://ko.wikipedia.org/wiki/오니마루_타케시 "wikilink") 마왕검을 빼앗기고 형인 츠키카게와 화해를 하게 된다. [카구야가](https://ko.wikipedia.org/wiki/카구야_\(YAIBA\) "wikilink") [지구](../Page/지구.md "wikilink")에 봉인 된 후 철수한다.
 
 ## 작가의 다른 작품과의 관계
 

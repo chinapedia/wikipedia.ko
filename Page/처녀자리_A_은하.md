@@ -108,7 +108,7 @@ NGC 4486B는 NGC 4486A보다 크기가 작은 타원 은하이다. 메시에 87 
 
   - [ESA/허블 우주 망원경이 찍은 M87](http://www.spacetelescope.org/images/archive/freesearch/m87/viewall/1)
 
-  - [아마추어 천문가가 찍은 M87의 전파](http://astro.neutral.org/imagehtml/20060304_m87.html)
+  - [아마추어 천문가가 찍은 M87의 전파](https://web.archive.org/web/20071005062954/http://astro.neutral.org/imagehtml/20060304_m87.html)
 
   -
 [분류:타원은하](https://ko.wikipedia.org/wiki/분류:타원은하 "wikilink") [분류:처녀자리](https://ko.wikipedia.org/wiki/분류:처녀자리 "wikilink") [분류:전파은하](https://ko.wikipedia.org/wiki/분류:전파은하 "wikilink") [분류:특이은하](https://ko.wikipedia.org/wiki/분류:특이은하 "wikilink") [분류:1781년 발견한 천체](https://ko.wikipedia.org/wiki/분류:1781년_발견한_천체 "wikilink") [분류:처녀자리 은하단](https://ko.wikipedia.org/wiki/분류:처녀자리_은하단 "wikilink") [분류:PGC 천체](https://ko.wikipedia.org/wiki/분류:PGC_천체 "wikilink") [분류:NGC 천체](https://ko.wikipedia.org/wiki/분류:NGC_천체 "wikilink") [분류:UGC 천체](https://ko.wikipedia.org/wiki/분류:UGC_천체 "wikilink") [분류:메시에 천체](https://ko.wikipedia.org/wiki/분류:메시에_천체 "wikilink")
@@ -190,5 +190,5 @@ NGC 4486B는 NGC 4486A보다 크기가 작은 타원 은하이다. 메시에 87 
 75.
 76. [J. A. Biretta, W. B. Sparks, and F. Macchetto, *Astrophys. J.* **520**, 621 (1999).;](http://www.journals.uchicago.edu/ApJ/journal/issues/ApJ/v520n2/39787/39787.html)
 77. ["Chandra Reviews Black Hole Musical: Epic But Off-Key"](http://chandra.harvard.edu/press/06_releases/press_100506.html), [2006년](../Page/2006년.md "wikilink") [10월](../Page/10월.md "wikilink") 확인.
-78. [Universe Today, Gamma Rays Pour From the Edge of a Supermassive Black Hole](http://www.universetoday.com/2006/10/27/gamma-rays-pour-from-the-edge-of-a-supermassive-black-hole/), [2006년](../Page/2006년.md "wikilink") [10월](../Page/10월.md "wikilink") 확인.
+78. [Universe Today, Gamma Rays Pour From the Edge of a Supermassive Black Hole](http://www.universetoday.com/2006/10/27/gamma-rays-pour-from-the-edge-of-a-supermassive-black-hole/) , [2006년](../Page/2006년.md "wikilink") [10월](../Page/10월.md "wikilink") 확인.
 79. [태양보다 무려 66억배 무거운 괴물 '블랙홀'](http://photo.media.daum.net/photogallery/digital/spaceman/view.html?photoid=2773&newsid=20110115162606922&p=seoul/)

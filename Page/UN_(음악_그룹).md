@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [UN \(음악 그룹\)](https://ko.wikipedia.org/wiki/UN_\(음악_그룹\)).
 
 
-**UN**(**U**nited **N**-generation: 유엔)은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹으로](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"), 멤버는 [김정훈과](../Page/김정훈_\(1980년\).md "wikilink") [최정원](../Page/최정원_\(1981년_5월\).md "wikilink") 두 명이었다. 2000년 7월 26일, 1집 앨범 《United N-generation》에 속한 타이틀 곡 〈Voice mail〉로 데뷔한 이후, 〈평생〉, 〈You are the one〉으로 활동을 이어나갔다. 2001년 2집에서는 〈파도〉와 〈선물〉이 인기를 끌었다. 댄스 음악 기반인 1집과 2집으로 크게 성공한 뒤, 3집에서 알앤비 기반 발라드 〈Miracle〉로 변신을 추구하였다.\[1\] 정규 5집까지 발매한 뒤, 2005년 9월에 해체하였다.
+**UN**(**U**nited **N**-generation: 유엔)은 [김정훈과](../Page/김정훈_\(1980년\).md "wikilink") [최정원으로](../Page/최정원_\(1981년_5월\).md "wikilink") 구성되었던 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹으로](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"), 그룹 이름은 [N세대](https://ko.wikipedia.org/wiki/N세대 "wikilink")의 연합을 통하여 그들의 목소리를 노래에 담겠다는 의미를 지녔다.\[1\] 2000년 7월 26일, 1집 앨범 《United N-generation》에 속한 타이틀 곡 〈Voice mail〉로 데뷔한 이후, 〈평생〉, 〈You are the one〉으로 활동을 이어나갔다. 2001년 2집에서는 〈파도〉와 〈선물〉이 인기를 끌었다. 댄스 음악 기반인 1집과 2집으로 크게 성공한 뒤, 3집에서 알앤비 기반 발라드 〈Miracle〉로 변신을 추구하였다.\[2\] 정규 5집까지 발매한 뒤, 2005년 9월에 해체하였다.
 
-## 구성원
+## 이전 구성원
 
 |  |
 |  |
@@ -141,7 +141,7 @@
 <li><strong>HONEYMOON</strong></li>
 <li>사랑할걸 그랬나봐</li>
 <li>연인들의 바다</li>
-<li>REMEMBER</li>
+<li><strong>REMEMBER</strong></li>
 <li>알아요</li>
 <li>ROMANTIC BOY / COSMIC GIRL</li>
 <li>LOVE OF MY LIFE</li>
@@ -300,6 +300,7 @@
 
 <references />
 
-[분류:대한민국의 R\&B 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_R&B_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:2000년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년_결성된_음악_그룹 "wikilink") [분류:2005년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_해체된_음악_그룹 "wikilink")
+[분류:대한민국의 R\&B 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_R&B_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:2000년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2000년_결성된_음악_그룹 "wikilink") [분류:2005년 해체된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2005년_해체된_음악_그룹 "wikilink")
 
 1.
+2.

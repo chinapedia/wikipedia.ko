@@ -14,15 +14,15 @@
 
   - **코바야시 다이고** ([모토키 마사히로](../Page/모토키_마사히로.md "wikilink"))
   - **코바야시 미카** ([히로스에 료코](../Page/히로스에_료코.md "wikilink"))
-  - **야마시타 쓰야코** ([요시유키 가즈코](https://ko.wikipedia.org/wiki/요시유키_가즈코 "wikilink"))
+  - **야마시타 쓰야코** (요시유키 가즈코)
   - **사사키 쇼에이** ([야마자키 쓰토무](https://ko.wikipedia.org/wiki/야마자키_쓰토무 "wikilink"))
   - **우에무라 유리코** (요 키미코)
   - **히라타 쇼키치** (사사노 타카시)
-  - **야마시타** <다이고의 동급생> ([스기모토 뎃타](https://ko.wikipedia.org/wiki/스기모토_뎃타 "wikilink"))
+  - **야마시타** <다이고의 동급생> (스기모토 뎃타)
   - **코바야시 요시키** (미네기시 토오루)
-  - **야마시타 리에** ([다치바나 유카리](https://ko.wikipedia.org/wiki/다치바나_유카리 "wikilink"))
-  - **야마시타 시오리** ([이즈카 모모카](https://ko.wikipedia.org/wiki/이즈카_모모카 "wikilink"))
-  - **야마시타의 딸** ([고바야시 히데키](https://ko.wikipedia.org/wiki/고바야시_히데키 "wikilink"))
+  - **야마시타 리에** (다치바나 유카리)
+  - **야마시타 시오리** (이즈카 모모카)
+  - **야마시타의 딸** (고바야시 히데키)
 
 <!-- end list -->
 
@@ -44,22 +44,22 @@
   - 첼로 지도/극중 첼로 연주 : 가시와기 히로키
   - 제작사 : 영화 《굿바이》 제작위원회 ([TBS](https://ko.wikipedia.org/wiki/TBS "wikilink"), 세딕 인터내셔널, [쇼치쿠](../Page/쇼치쿠.md "wikilink"), 덴츠, 어뮤즈 소프트 엔터테인먼트, [쇼가쿠칸](../Page/쇼가쿠칸.md "wikilink"), [마이니치 방송](../Page/마이니치_방송.md "wikilink"), 아사히 신문사, TV-U 야마가타, TBS 라디오)
 
-## KBS 성우진
+## 한국판 성우진(KBS)
 
   - [박영재](../Page/박영재.md "wikilink") - 다이고([모토키 마사히로](../Page/모토키_마사히로.md "wikilink"))
   - [이채정](../Page/이채정.md "wikilink") - 미카([히로스에 료코](../Page/히로스에_료코.md "wikilink"))
   - [장광](../Page/장광.md "wikilink") - 사사키([야마자키 쓰토무](https://ko.wikipedia.org/wiki/야마자키_쓰토무 "wikilink"))
   - [민지](../Page/민지_\(성우\).md "wikilink") - 우에무라([요 기미코](https://ko.wikipedia.org/wiki/요_기미코 "wikilink"))
-  - [김창주](../Page/김창주.md "wikilink") - 히라타([사사노 다카시](https://ko.wikipedia.org/wiki/사사노_다카시 "wikilink"))
-  - [최문자](../Page/최문자.md "wikilink") - 츠야코([요시유키 가즈코](https://ko.wikipedia.org/wiki/요시유키_가즈코 "wikilink"))
-  - [장민혁](../Page/장민혁.md "wikilink") - 야마시타([스기모토 뎃타](https://ko.wikipedia.org/wiki/스기모토_뎃타 "wikilink"))
-  - [김준](../Page/김준_\(성우\).md "wikilink")
-  - [김익태](../Page/김익태.md "wikilink")
-  - [김혜미](../Page/김혜미.md "wikilink")
-  - [권연희](../Page/권연희.md "wikilink")
-  - [서지연](../Page/서지연.md "wikilink")
-  - [윤승희](../Page/윤승희.md "wikilink")
-  - [김목용](../Page/김목용.md "wikilink")
+  - [김창주](../Page/김창주.md "wikilink") - 히라타(사사노 다카시)
+  - [최문자](../Page/최문자.md "wikilink") - 츠야코(요시유키 가즈코)
+  - [장민혁](../Page/장민혁.md "wikilink") - 야마시타(스기모토 뎃타)
+  - [김준](../Page/김준_\(성우\).md "wikilink") - 토가시(야마다 다츠오)
+  - [김익태](../Page/김익태.md "wikilink") - 죽은 여자의 아빠(오오타니 료스케)
+  - [김혜미](../Page/김혜미.md "wikilink") - 죽은 여자의 엄마(코야나기 유키미)
+  - [권연희](../Page/권연희.md "wikilink") - 학생(마리 하야시다)
+  - [서지연](../Page/서지연.md "wikilink") - 야마시타의 딸(이즈카 햐카)
+  - [윤승희](../Page/윤승희.md "wikilink") - 야마시타의 아내(유카리 타치바나)
+  - [김목용](../Page/김목용.md "wikilink") - 불량 학생(타카라이 마사아키)
 
 ## 수상 정보
 
@@ -166,6 +166,8 @@
   - [무대 《굿바이》 공식 웹사이트](https://web.archive.org/web/20120320235508/http://www.tbs.co.jp/act/event/okuribito2010/)
 
   -
-[분류:2008년 영화](https://ko.wikipedia.org/wiki/분류:2008년_영화 "wikilink") [분류:다키타 요지로 감독 영화](https://ko.wikipedia.org/wiki/분류:다키타_요지로_감독_영화 "wikilink") [분류:야마가타현을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:야마가타현을_배경으로_한_작품 "wikilink") [분류:아카데미 국제영화상 수상작](https://ko.wikipedia.org/wiki/분류:아카데미_국제영화상_수상작 "wikilink") [분류:소설을 바탕으로 한 영화](https://ko.wikipedia.org/wiki/분류:소설을_바탕으로_한_영화 "wikilink") [분류:일본의 드라마 영화](https://ko.wikipedia.org/wiki/분류:일본의_드라마_영화 "wikilink") [분류:TBS 제작 영화](https://ko.wikipedia.org/wiki/분류:TBS_제작_영화 "wikilink") [분류:쇼치쿠](https://ko.wikipedia.org/wiki/분류:쇼치쿠 "wikilink") [분류:기쿠치 간상 수상자](https://ko.wikipedia.org/wiki/분류:기쿠치_간상_수상자 "wikilink") [분류:일본을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:일본을_배경으로_한_영화 "wikilink") [분류:일본에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:일본에서_촬영한_영화 "wikilink") [분류:야마가타현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:야마가타현을_배경으로_한_영화 "wikilink") [분류:일본 아카데미상 최우수 작품상 수상작](https://ko.wikipedia.org/wiki/분류:일본_아카데미상_최우수_작품상_수상작 "wikilink")
+  -
+  -
+[분류:2008년 영화](https://ko.wikipedia.org/wiki/분류:2008년_영화 "wikilink") [분류:일본의 영화 작품](https://ko.wikipedia.org/wiki/분류:일본의_영화_작품 "wikilink") [분류:일본어 영화 작품](https://ko.wikipedia.org/wiki/분류:일본어_영화_작품 "wikilink") [분류:다키타 요지로 감독 영화](https://ko.wikipedia.org/wiki/분류:다키타_요지로_감독_영화 "wikilink") [분류:야마가타현을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:야마가타현을_배경으로_한_작품 "wikilink") [분류:아카데미 국제영화상 수상작](https://ko.wikipedia.org/wiki/분류:아카데미_국제영화상_수상작 "wikilink") [분류:소설을 바탕으로 한 영화](https://ko.wikipedia.org/wiki/분류:소설을_바탕으로_한_영화 "wikilink") [분류:일본의 드라마 영화](https://ko.wikipedia.org/wiki/분류:일본의_드라마_영화 "wikilink") [분류:TBS 제작 영화](https://ko.wikipedia.org/wiki/분류:TBS_제작_영화 "wikilink") [분류:쇼치쿠](https://ko.wikipedia.org/wiki/분류:쇼치쿠 "wikilink") [분류:기쿠치 간상 수상자](https://ko.wikipedia.org/wiki/분류:기쿠치_간상_수상자 "wikilink") [분류:일본을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:일본을_배경으로_한_영화 "wikilink") [분류:일본에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:일본에서_촬영한_영화 "wikilink") [분류:야마가타현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:야마가타현을_배경으로_한_영화 "wikilink") [분류:일본 아카데미상 최우수 작품상 수상작](https://ko.wikipedia.org/wiki/분류:일본_아카데미상_최우수_작품상_수상작 "wikilink") [분류:죽음을 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:죽음을_소재로_한_영화 "wikilink") [분류:음악가를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:음악가를_소재로_한_영화 "wikilink") [분류:도쿄도를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:도쿄도를_배경으로_한_영화 "wikilink")
 
 1.  [日영화 '굿바이', 아카데미 외국어영화상 수상 (스타뉴스 2009.02.23)](http://star.moneytoday.co.kr/view/stview.php?no=2009022309425373590&type=1&outlink=1)

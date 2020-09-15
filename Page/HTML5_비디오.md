@@ -109,7 +109,7 @@
 
 ## 외부 링크
 
-  - [동영상 요소](https://web.archive.org/web/20100420024047/http://www.whatwg.org/specs/web-apps/current-work/multipage/video.html)
+  - [동영상 요소](https://html.spec.whatwg.org/multipage/media.html)
   - [HTML5 동영상 소개](http://dev.opera.com/articles/view/introduction-html5-video/)
   - [HTML5 동영상과 음성에 대해 알아야 할 모든 것](https://web.archive.org/web/20100307033247/http://my.opera.com/core/blog/2010/03/03/everything-you-need-to-know-about-html5-video-and-audio-2)
   - [자바스크립트 HTML5 동영상 Wrapper (GPL)](http://www.projekktor.com)

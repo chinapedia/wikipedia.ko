@@ -7,7 +7,9 @@
 
   - [X.Org 서버](../Page/X.Org_서버.md "wikilink"): 공식 X11 공식 규격 구현물. 현재 버전은 [XFree86](../Page/XFree86.md "wikilink")의 라이선스 변경 직전 버전에서 파생된 버전이다.
   - [D-Bus](../Page/D-Bus.md "wikilink"): KDE의 [DCOP](https://ko.wikipedia.org/wiki/DCOP "wikilink"), GNOME의 [보노보](../Page/보노보.md "wikilink")와 비슷한 역할을 하는 메시지 버스
-  - [드래그 앤 드롭](https://ko.wikipedia.org/wiki/드래그_앤_드롭 "wikilink"): 사실 X 윈도 시스템에서 드래그 앤 드롭은 지금도 많은 개선이 필요하다.
+
+<!-- end list -->
+
   - [하드웨어 추상화 계층](https://ko.wikipedia.org/wiki/하드웨어_추상화_계층 "wikilink")(HAL): 일관성 있는 초-운영체제적 계층
   - [fontconfig](https://ko.wikipedia.org/wiki/fontconfig "wikilink"): 글꼴 검색, 글꼴 이름 변경 등 글꼴 관련 작업을 수행하는 [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")
   - [Xft](https://ko.wikipedia.org/wiki/Xft "wikilink"): [프리타입](../Page/프리타입.md "wikilink")을 사용하는 [안티앨리어싱](https://ko.wikipedia.org/wiki/안티앨리어싱 "wikilink") 처리된 글꼴
@@ -25,8 +27,8 @@
 
 ## 외부 링크
 
-  - [freedesktop.org 공식 사이트](http://freedesktop.org/)
+  - [freedesktop.org 공식 사이트](https://web.archive.org/web/20080516033052/http://freedesktop.org/)
 
 [Freedesktop.org](https://ko.wikipedia.org/wiki/분류:Freedesktop.org "wikilink") [분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:컴퓨팅 웹사이트](https://ko.wikipedia.org/wiki/분류:컴퓨팅_웹사이트 "wikilink")
 
-1.  [1](http://www.freedesktop.org/wiki/)
+1.

@@ -21,7 +21,7 @@
 
 ## 운행 노선
 
-  - CSX는 [일리노이주](../Page/일리노이주.md "wikilink")를 거점으로 ​​한 [미국 북부와](https://ko.wikipedia.org/wiki/미국_북부 "wikilink") [플로리다주](../Page/플로리다주.md "wikilink") [잭슨빌](../Page/잭슨빌.md "wikilink")을 거점으로 운행하고 있다. 각각 5개의 지역 조직을 운영하고 있다.
+  - CSX는 [일리노이주](../Page/일리노이주.md "wikilink")를 거점으로 한 [미국 북부와](https://ko.wikipedia.org/wiki/미국_북부 "wikilink") [플로리다주](../Page/플로리다주.md "wikilink") [잭슨빌](../Page/잭슨빌.md "wikilink")을 거점으로 운행하고 있다. 각각 5개의 지역 조직을 운영하고 있다.
 
 ### [미국 북부](https://ko.wikipedia.org/wiki/미국_북부 "wikilink")
 

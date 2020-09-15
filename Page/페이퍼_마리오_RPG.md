@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [페이퍼 마리오 RPG](https://ko.wikipedia.org/wiki/페이퍼_마리오_RPG).
 
 
-**페이퍼 마리오 RPG**(, )는 [RPG](https://ko.wikipedia.org/wiki/RPG "wikilink") 형식의 비디오 게임으로, [인텔리전트 시스템즈에서](../Page/인텔리전트_시스템즈.md "wikilink") 개발, [닌텐도](../Page/닌텐도.md "wikilink")를 통해 보급되었다. 페이퍼 마리오 RPG는 마리오 RPG 시리즈의 4번째이자 페이퍼 마리오 시리즈의 2번째 게임이다.
+**페이퍼 마리오 RPG** (, )는 [RPG](https://ko.wikipedia.org/wiki/RPG "wikilink") 형식의 비디오 게임으로, [인텔리전트 시스템즈에서](../Page/인텔리전트_시스템즈.md "wikilink") 개발, [닌텐도](../Page/닌텐도.md "wikilink")를 통해 보급되었다. 페이퍼 마리오 RPG는 마리오 RPG 시리즈의 4번째 게임이자 페이퍼 마리오 시리즈의 2번째 게임이다.
 
 페이퍼 마리오 RPG의 게임 요소는 대부분이 전작인 [닌텐도 64용](../Page/닌텐도_64.md "wikilink") [페이퍼 마리오에서](https://ko.wikipedia.org/wiki/페이퍼_마리오 "wikilink") 빌려 온 것들이다. 예를 들면 턴제 방식의 전투와 강조된 액션, 그리고 페이퍼 테마 등이다. 플레이어는 기본적으로 주인공인 [마리오](../Page/마리오.md "wikilink")를 컨트롤하고, 일부 상황에서는 [피치나](../Page/피치_공주.md "wikilink") [쿠파도](https://ko.wikipedia.org/wiki/쿠파_\(게임_캐릭터\) "wikilink") 컨트롤이 가능하다. 이 게임의 스토리는 메가 밧텐 군단(, )으로부터 7개의 크리스탈 스타를 되찾고 피치를 구해내기 위한 마리오의 모험을 다루고 있다.
 

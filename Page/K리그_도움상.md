@@ -959,7 +959,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/R리그_2009.md" title="wikilink">2009</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/최성현_(축구_선수)" title="wikilink">최성현</a></p></td>
+<td><p><a href="../Page/최성현_(축구_선수).md" title="wikilink">최성현</a></p></td>
 <td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><div style="text-align: center;">
 <p>5</p></td>

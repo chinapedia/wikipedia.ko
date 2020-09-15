@@ -18,7 +18,9 @@
   - [2018년](../Page/2018년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink"): AK& 홍대점 개점 및 본사이전
   - [2018년](../Page/2018년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink"): AK&기흥점 개점
   - [2019년](../Page/2019년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink"): AK& 세종점 개점
-  - [2021년](../Page/2021년.md "wikilink") 8월 AK& 광명점 개점 예정
+  - [2020년](../Page/2020년.md "wikilink") [10월](../Page/10월.md "wikilink"): AK& 세종2차 개점 예정
+  - [2021년](../Page/2021년.md "wikilink") 10월 AK& 광명점 개점 예정
+  - [2022년](../Page/2022년.md "wikilink") AK& 금정점 개점 예정
   - [2022년](../Page/2022년.md "wikilink") 하반기 AK& 안산점 개점 예정
 
 ## 매장 현황
@@ -85,11 +87,10 @@
 
 ## Neighborhood Shopping Center
 
+  - AK& 세종2차 2020년 10월 개점 예정
   - AK& 안산점 2022년 하반기 개점 예정[1](http://www.shinailbo.co.kr/news/articleView.html?idxno=1241000)
-
-<!-- end list -->
-
-  - AK& 광명 추가 출점예정[2](http://www.thebell.co.kr/free/content/ArticleView.asp?key=201910310100059240003680&svccode=00&page=1&sort=thebell_check_time)
+  - AK& 금정 추가 출점확정[2](http://www.thebell.co.kr/free/content/ArticleView.asp?key=202007091008361600105026&svccode=00&page=1&sort=thebell_check_time)
+  - AK& 광명 2021년 10월 개점 예정[3](http://www.thebell.co.kr/free/content/ArticleView.asp?key=202007091008361600105026&svccode=00&page=1&sort=thebell_check_time)
 
 ### 폐업한 점포
 
@@ -102,8 +103,8 @@
 <!-- end list -->
 
   -
-    지상2층에는 전철을 탈 수 있도록 통로가 연결되어 있다. 장기전으로 인근지역에 매출에 밀려 8월 31일 폐점하였다.
-    최근 이랜드에서 2020년 4월부터 10년간 임대하는 조건으로 인수확정 (NC 백화점 구로점 개점 예정)
+    지상 2층에는 전철을 탈 수 있도록 통로가 연결되어 있다. 장기전으로 인근지역에 매출에 밀려 8월 31일 폐점하였다.
+    이랜드에서 2020년 9월부터 10년간 임대하는 조건으로 인수확정 (NC 백화점 신구로점 개점 예정)
 
 ## 멤버스 카드
 

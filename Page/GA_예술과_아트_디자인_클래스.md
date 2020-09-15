@@ -163,19 +163,19 @@ GA 1학년 5인조. 이 만화의 주요 등장인물들.
 
 ### 스태프
 
-  - 원작: 키유즈키 사토코
-  - 감독 : 사쿠라이 히로아키
-  - 각본 : 마치다 토우코
-  - 캐릭터 디자인 : 와타나베 아츠코
-  - 소도구 디자인 : 니노 료타
-  - 총작화감독 : 나카하라 키요타카
-  - 미술감독 : 카스가 레이지
-  - 편집 : 사쿠라이 타카시
-  - 음향감독 : 에비나 야스노리
-  - 음향: 아베 쥰, 무토 세이지
+  - 원작: [키유즈키 사토코](https://ko.wikipedia.org/wiki/키유즈키_사토코 "wikilink")
+  - 감독 : [사쿠라이 히로아키](https://ko.wikipedia.org/wiki/사쿠라이_히로아키 "wikilink")
+  - 각본 : [마치다 토우코](https://ko.wikipedia.org/wiki/마치다_토우코 "wikilink")
+  - 캐릭터 디자인 : [와타나베 아츠코](https://ko.wikipedia.org/wiki/와타나베_아츠코 "wikilink")
+  - 소도구 디자인 : [니노 료타](https://ko.wikipedia.org/wiki/니노_료타 "wikilink")
+  - 총작화감독 : [나카하라 키요타카](https://ko.wikipedia.org/wiki/나카하라_키요타카 "wikilink")
+  - 미술감독 : [카스가 레이지](https://ko.wikipedia.org/wiki/카스가_레이지 "wikilink")
+  - 편집 : [사쿠라이 타카시](https://ko.wikipedia.org/wiki/사쿠라이_타카시 "wikilink")
+  - 음향감독 : [에비나 야스노리](https://ko.wikipedia.org/wiki/에비나_야스노리 "wikilink")
+  - 음향: [아베 쥰](https://ko.wikipedia.org/wiki/아베_쥰 "wikilink"), [무토 세이지](https://ko.wikipedia.org/wiki/무토_세이지 "wikilink")
   - 취재・미술협력 : [여자 미술대학](https://ko.wikipedia.org/wiki/여자_미술대학 "wikilink"), 여자 미술대학 부속 중고등학교
   - 애니메이션 제작 : AICPLUS+
-  - 제작 : GA제작위원회
+  - 제작 : [GA제작위원회](https://ko.wikipedia.org/wiki/GA제작위원회 "wikilink")
 
 ### 주제가
 
@@ -476,6 +476,8 @@ GA 1학년 5인조. 이 만화의 주요 등장인물들.
 </tr>
 </tbody>
 </table>
+
+## 각주
 
 ## 같이 보기
 

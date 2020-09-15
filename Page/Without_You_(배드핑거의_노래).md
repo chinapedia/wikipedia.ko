@@ -9,9 +9,9 @@
 
 ## 해리 닐슨 버전
 
-[Everybody's Talkin](https://ko.wikipedia.org/wiki/Everybody's_Talkin "wikilink") 으로 당시 잘 알려져있던 [해리 닐슨은](../Page/해리_닐슨.md "wikilink") 한 파티에서 [배드핑거](https://ko.wikipedia.org/wiki/배드핑거 "wikilink")의 Without You를 듣고 [비틀즈](../Page/비틀즈.md "wikilink")의 노래로 오해했다가\[2\] 사실을 알고나서 71년 자신의 앨범인 [Nilsson Schmilsson에](https://ko.wikipedia.org/wiki/Nilsson_Schmilsson "wikilink") 리메이크 버전을 발표한다. 이곡은 그 후 미국 팝 차트에서 4주 연속 1위를 했으며 71년 3월 1일부터 5주 연속 [영국 팝차트](https://ko.wikipedia.org/wiki/영국_팝차트 "wikilink") 1위를 기록하며 약 80만장의 판매고를 올렸다.\[3\] 이곡의 제작자인 리차드 페리는 후에 "발라드에 강한 비트가 들어간 그 당시 매우 차별화된 음반이었다. 이 음반이후로 많은 가수들이 비슷한곡을 발표했지만 그 당시엔 누구도 하지않았다"\[4\] 라고 설명했다.
+[Everybody's Talkin](https://ko.wikipedia.org/wiki/Everybody's_Talkin "wikilink") 으로 당시 잘 알려져 있던 [해리 닐슨은](../Page/해리_닐슨.md "wikilink") 한 파티에서 [배드핑거](https://ko.wikipedia.org/wiki/배드핑거 "wikilink")의 Without You를 듣고 [비틀즈](../Page/비틀즈.md "wikilink")의 노래로 오해했다가\[2\] 사실을 알고 나서 71년 자신의 앨범인 [Nilsson Schmilsson에](https://ko.wikipedia.org/wiki/Nilsson_Schmilsson "wikilink") 리메이크 버전을 발표한다. 이 곡은 그 후 미국 팝 차트에서 4주 연속 1위를 했으며 71년 3월 1일부터 5주 연속 [영국 팝차트](https://ko.wikipedia.org/wiki/영국_팝차트 "wikilink") 1위를 기록하며 약 80만 장의 판매고를 올렸다.\[3\] 이곡의 제작자인 리차드 페리는 후에 "발라드에 강한 비트가 들어간 그 당시 매우 차별화된 음반이었다. 이 음반 이후로 많은 가수들이 비슷한 곡을 발표했지만 그 당시엔 누구도 하지 않았다"\[4\] 라고 설명했다.
 
-닐슨은 라이브를 자주 하진않았지만 1992년 [링고 스타와](../Page/링고_스타.md "wikilink") 그의 밴드인 올 스타 밴드와 함께 라스베가스의 [시저스 팰리스에서](https://ko.wikipedia.org/wiki/시저스_팰리스 "wikilink") 공연을 하기도 했다.
+닐슨은 라이브를 자주 하진 않았지만 1992년 [링고 스타와](../Page/링고_스타.md "wikilink") 그의 밴드인 올 스타 밴드와 함께 라스베가스의 [시저스 팰리스에서](https://ko.wikipedia.org/wiki/시저스_팰리스 "wikilink") 공연을 하기도 했다.
 
 ## 머라이어 캐리 버전
 
@@ -19,7 +19,7 @@
 
 ### 차트 성적
 
-Without you는 [빌보드 핫 100의](../Page/빌보드_핫_100.md "wikilink") 3위에까지 올랐으며 상위 40위에 21주간, 전체 23주간 차트에 머물렀다. 또한 유럽에서 엄청난 히트를 기록하며 영국에서 1위로 데뷔해 4주간 1위 자리를 유지했고\[5\], 스위스에서 10주연속 1위와 네덜란드12주 연속 1위, 독일에서 4주간 오스트리아에서 8주간 1위를 하였으며 캐나다, 프랑스, 노르웨이, 호주 등에서 3위권에 들었다.
+Without You는 [빌보드 핫 100의](../Page/빌보드_핫_100.md "wikilink") 3위에까지 올랐으며 상위 40위에 21주간, 전체 23주간 차트에 머물렀다. 또한 유럽에서 엄청난 히트를 기록하며 영국에서 1위로 데뷔해 4주간 1위 자리를 유지했고\[5\], 스위스에서 10주 연속 1위와 네덜란드 12주 연속 1위, 독일에서 4주간 오스트리아에서 8주간 1위를 하였으며 캐나다, 프랑스, 노르웨이, 호주 등에서 3위권에 들었다.
 
 ## 참조
 

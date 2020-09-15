@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [DJMAX Trilogy](https://ko.wikipedia.org/wiki/DJMAX_Trilogy).
 
 
-**디제이맥스 트릴로지**(DJMAX Trilogy, DM TR)는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 PC용 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 디제이맥스 시리즈의 시작인 [온라인 게임](../Page/온라인_게임.md "wikilink") [디제이맥스](../Page/디제이맥스.md "wikilink")의 서비스 종료 후 그 계보를 잇는 작품이다. 프로필 키로 동작하는 USB 메모리가 제공되며, 이것이 있어야만 게임을 실행할 수 있다.
+**디제이맥스 트릴로지**()는 [대한민국](../Page/대한민국.md "wikilink")의 게임 개발사인 [펜타비전](../Page/펜타비전.md "wikilink")에서 개발한 PC용 [음악 게임이다](https://ko.wikipedia.org/wiki/음악_게임 "wikilink"). 디제이맥스 시리즈의 시작인 [온라인 게임](../Page/온라인_게임.md "wikilink") [디제이맥스](../Page/디제이맥스.md "wikilink")의 서비스 종료 후 그 계보를 잇는 작품이다. 프로필 키로 동작하는 USB 메모리가 제공되며, 이것이 있어야만 게임을 실행할 수 있다.
 
 ## 개요
 
-[DJMAX](https://ko.wikipedia.org/wiki/DJMAX "wikilink") 시리즈의 그 6번째 시리즈로 〈[DJMAX Online](https://ko.wikipedia.org/wiki/DJMAX_Online "wikilink")〉과 〈DJMAX Portable〉[1편](../Page/DJMAX_Portable.md "wikilink") 및 [2편의](../Page/DJMAX_Portable_2.md "wikilink") 총집편이라고 할 수 있으며 네트워크 서비스를 지원한다. 한편 이 시리즈는 같은 시기에 진행되었던 [메트로 프로젝트와는](https://ko.wikipedia.org/wiki/디제이맥스_메트로_프로젝트 "wikilink") 다른 계보의 작품으로 프로듀서도 메트로 프로젝트의 프로듀서인 신봉건 프로듀서(Ponglow)가 아닌, 이철희 프로듀서(Forte Escape)다.\[1\]
+[DJMAX](https://ko.wikipedia.org/wiki/DJMAX "wikilink") 시리즈의 그 6번째 시리즈로 〈[DJMAX Online](https://ko.wikipedia.org/wiki/DJMAX_Online "wikilink")〉과 〈DJMAX Portable〉[1편](../Page/DJMAX_Portable.md "wikilink") 및 [2편의](../Page/DJMAX_Portable_2.md "wikilink") 총집편이라고 할 수 있으며 네트워크 서비스를 지원한다. 한편 이 시리즈는 같은 시기에 진행되었던 [메트로 프로젝트와는](https://ko.wikipedia.org/wiki/디제이맥스_메트로_프로젝트 "wikilink") 다른 계보의 작품으로 프로듀서도 메트로 프로젝트의 프로듀서인 신봉건 프로듀서(Ponglow)가 아닌, 이철희 프로듀서(Forte Escape)이다.\[1\]
 
 ## 게임 모드
 

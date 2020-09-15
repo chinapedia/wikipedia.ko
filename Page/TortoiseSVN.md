@@ -236,7 +236,7 @@ int main ()
 
 ## 외부 링크
 
-  - [TortoiseSVN 공식 웹사이트](http://tortoisesvn.tigris.org)
+  - [TortoiseSVN 공식 웹사이트](https://web.archive.org/web/20060407095620/http://tortoisesvn.tigris.org/)
   - [TortoiseSVN 내려받기](http://tortoisesvn.net/downloads)
 
 [분류:버전 관리 시스템](https://ko.wikipedia.org/wiki/분류:버전_관리_시스템 "wikilink") [분류:2003년 소프트웨어](https://ko.wikipedia.org/wiki/분류:2003년_소프트웨어 "wikilink") [분류:윈도우 전용 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:윈도우_전용_자유_소프트웨어 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink")

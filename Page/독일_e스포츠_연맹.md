@@ -17,6 +17,6 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.e-sb.de/)
+  - [공식 홈페이지](https://web.archive.org/web/20100117052335/http://e-sb.de/)
 
 [분류:E스포츠 단체](https://ko.wikipedia.org/wiki/분류:E스포츠_단체 "wikilink") [분류:2017년 설립](https://ko.wikipedia.org/wiki/분류:2017년_설립 "wikilink")

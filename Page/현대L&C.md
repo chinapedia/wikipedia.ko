@@ -9,26 +9,26 @@
 
 ## 연혁
 
-  - [1966년](../Page/1966년.md "wikilink") 11월 충북 부강 PVC 공장 준공 (대한프라스틱)
-  - [1972년](../Page/1972년.md "wikilink") 12월 한국프라스틱공업㈜ 설립 (PVC 5개사 통합)
-  - [1988년](../Page/1988년.md "wikilink") 05월 한양화학, 한국프라스틱공업㈜ 합병
-  - [1994년](../Page/1994년.md "wikilink") 10월 한화종합화학㈜로 사명 변경
-  - [1999년](../Page/1999년.md "wikilink") 07월 한화종합화학 / 한화석유화학 분리
-  - [2003년](../Page/2003년.md "wikilink") 03월 한화종화(북경) 설립
-  - [2005년](../Page/2005년.md "wikilink") 03월 Maxforma Plastics LLC.
-  - 2005년 07월 한화종화(상해) 설립
-  - [2007년](../Page/2007년.md "wikilink") 10월 한화L\&C로 사명 변경
-  - 2007년 11월 [미국](../Page/미국.md "wikilink") [아즈델](https://ko.wikipedia.org/wiki/아즈델 "wikilink")사 인수 (자동차 경량화 부품 세계1위 업체)
-  - 2007년 12월 [체코](../Page/체코.md "wikilink") 자동차부품 생산법인 설립
-  - 2007년 12월 [캐나다](../Page/캐나다.md "wikilink") 칸스톤(엔지니어드 스톤) 생산법인 설립
-  - [2008년](../Page/2008년.md "wikilink") 06월 대림콩크리트 EP(엔지니어드스톤) 사업부문 인수
-  - [2009년](../Page/2009년.md "wikilink") 07월 [캐나다](../Page/캐나다.md "wikilink") 온타리오주 칸스톤(엔지니어드 스톤) 생산공장 준공
-  - 2009년 02월 상해 판매법인 설립
-  - 2009년 10월 [체코](../Page/체코.md "wikilink") 오스트라바 자동차부품 생산공장 준공
-  - 2013년 03월 [미국 미시간](https://ko.wikipedia.org/wiki/미국_미시간 "wikilink") EPP 생산공장 준공
-  - 2014년 07월 한화첨단소재 건자재 부문이 분리되어 신규 법인 설립 되었으며 한화그룹에서 분리 (MSPE: Morgan Stanley Private Equity에서 인수)
-  - 2015년 08월 유럽 판매법인 설립
-  - 2018년 12월 현대백화점그룹 편입, 현대L\&C로 사명 변경<ref name="newsis_2018-12-03">
+  - [1966년](../Page/1966년.md "wikilink") [11월](../Page/11월.md "wikilink") 충북 부강 PVC 공장 준공 (대한프라스틱)
+  - [1972년](../Page/1972년.md "wikilink") [12월](../Page/12월.md "wikilink") 한국프라스틱공업㈜ 설립 (PVC 5개사 통합)
+  - [1988년](../Page/1988년.md "wikilink") [5월](../Page/5월.md "wikilink") 한양화학, 한국프라스틱공업㈜ 합병
+  - [1994년](../Page/1994년.md "wikilink") [10월](../Page/10월.md "wikilink") 한화종합화학㈜로 사명 변경
+  - [1999년](../Page/1999년.md "wikilink") [7월](../Page/7월.md "wikilink") 한화종합화학 / 한화석유화학 분리
+  - [2003년](../Page/2003년.md "wikilink") [3월](../Page/3월.md "wikilink") 한화종화(북경) 설립
+  - [2005년](../Page/2005년.md "wikilink") [3월](../Page/3월.md "wikilink") Maxforma Plastics LLC.
+  - [2005년](../Page/2005년.md "wikilink") [7월](../Page/7월.md "wikilink") 한화종화(상해) 설립
+  - [2007년](../Page/2007년.md "wikilink") [10월](../Page/10월.md "wikilink") 한화L\&C로 사명 변경
+  - [2007년](../Page/2007년.md "wikilink") [11월](../Page/11월.md "wikilink") [미국](../Page/미국.md "wikilink") 아즈델사 인수 (자동차 경량화 부품 세계1위 업체)
+  - [2007년](../Page/2007년.md "wikilink") [12월](../Page/12월.md "wikilink") [체코](../Page/체코.md "wikilink") 자동차부품 생산법인 설립
+  - [2007년](../Page/2007년.md "wikilink") [12월](../Page/12월.md "wikilink") [캐나다](../Page/캐나다.md "wikilink") 칸스톤(엔지니어드 스톤) 생산법인 설립
+  - [2008년](../Page/2008년.md "wikilink") [6월](../Page/6월.md "wikilink") 대림콩크리트 EP(엔지니어드스톤) 사업부문 인수
+  - [2009년](../Page/2009년.md "wikilink") [7월](../Page/7월.md "wikilink") [캐나다](../Page/캐나다.md "wikilink") 온타리오주 칸스톤(엔지니어드 스톤) 생산공장 준공
+  - [2009년](../Page/2009년.md "wikilink") [2월](../Page/2월.md "wikilink") 상해 판매법인 설립
+  - [2009년](../Page/2009년.md "wikilink") [10월](../Page/10월.md "wikilink") [체코](../Page/체코.md "wikilink") 오스트라바 자동차부품 생산공장 준공
+  - [2013년](../Page/2013년.md "wikilink") [3월](../Page/3월.md "wikilink") [미국](../Page/미국.md "wikilink") 미시간 EPP 생산공장 준공
+  - [2014년](../Page/2014년.md "wikilink") [7월](../Page/7월.md "wikilink") 한화첨단소재 건자재 부문이 분리되어 신규 법인 설립 되었으며 한화그룹에서 분리 (MSPE: Morgan Stanley Private Equity에서 인수)
+  - [2015년](../Page/2015년.md "wikilink") [8월](../Page/8월.md "wikilink") 유럽 판매법인 설립
+  - [2018년](../Page/2018년.md "wikilink") [12월](../Page/12월.md "wikilink") 현대백화점그룹 편입, 현대L\&C로 사명 변경<ref name="newsis_2018-12-03">
 
 </ref>
 
@@ -41,5 +41,9 @@
   - 교육센터(러닝아카데미): 서울특별시 용산구 한강대로 367, 2층 (동자동)
 
 ## 각주
+
+## 외부 링크
+
+  - [현대L\&C 공식 홈페이지](http://www.hyundailnc.com/)
 
 [분류:대한민국의 석유화학 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_석유화학_기업 "wikilink") [분류:1974년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1974년_설립된_기업 "wikilink") [분류:2014년 폐지](https://ko.wikipedia.org/wiki/분류:2014년_폐지 "wikilink") [분류:2014년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2014년_설립된_기업 "wikilink")

@@ -55,7 +55,7 @@ let rec qsort = function
   - [초급 OCaml 튜토리얼](http://www.ocf.berkeley.edu/~mbh/tutorial/index.html)
   - [실용적으로 접근한 튜토리얼](http://www.soton.ac.uk/~fangohr/software/ocamltutorial/index.html)
   - [OCaml Batteries Included](http://batteries.forge.ocamlcore.org), 사용자 커뮤니티에서 작성한 Ocaml 표준 라이브러리
-  - [OCaml-Java](http://ocamljava.x9c.fr/), OCaml for Java
+  - [OCaml-Java](https://web.archive.org/web/20110721024935/http://ocamljava.x9c.fr/), OCaml for Java
   - [OCamIL](http://www.pps.jussieu.fr/~montela/ocamil/), [Microsoft .NET를](https://ko.wikipedia.org/wiki/.net "wikilink") 위한 Ocaml 컴파일러
   - [다양한 프로그래밍 언어의 속도 비교](https://web.archive.org/web/20120831065317/http://shootout.alioth.debian.org/) Ocaml의 결과도 있음
   - [LablGL and LablGTK](http://wwwfun.kurims.kyoto-u.ac.jp/soft/olabl/) [OpenGL](../Page/OpenGL.md "wikilink")+ 바인딩 (LablGL) 및 [GTK+](../Page/GTK+.md "wikilink") 바인딩 (LablGTK)

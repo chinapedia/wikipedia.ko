@@ -110,7 +110,7 @@
 | 3  | [장민철](../Page/장민철.md "wikilink")                              | Protoss | [MBC게임 히어로](../Page/MBC게임_히어로.md "wikilink")                  | 11  | 10 | 1 | 91%  |
 | 3  | [정우용](https://ko.wikipedia.org/wiki/정우용_\(프로게이머\) "wikilink") | Terran  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 14  | 10 | 4 | 71%  |
 | 5  | [최호선](../Page/최호선.md "wikilink")                              | Terran  | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 12  | 9  | 3 | 75%  |
-| 6  | [황병영](https://ko.wikipedia.org/wiki/황병영 "wikilink")           | Terran  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 16  | 9  | 7 | 56%  |
+| 6  | [황병영](../Page/황병영.md "wikilink")                              | Terran  | [KT 롤스터](../Page/KT_롤스터.md "wikilink")                        | 16  | 9  | 7 | 56%  |
 | 7  | [이승석](../Page/이승석.md "wikilink")                              | Zerg    | [SK텔레콤 T1](https://ko.wikipedia.org/wiki/SK텔레콤_T1 "wikilink") | 10  | 8  | 2 | 80%  |
 | 8  | [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink")           | Terran  | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 11  | 8  | 3 | 73%  |
 | 9  | [한두열](https://ko.wikipedia.org/wiki/한두열 "wikilink")           | Zerg    | [CJ 엔투스](https://ko.wikipedia.org/wiki/CJ_엔투스 "wikilink")     | 13  | 8  | 5 | 62%  |

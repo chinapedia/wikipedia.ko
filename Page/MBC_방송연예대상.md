@@ -1329,10 +1329,10 @@ MC<br />
 <a href="../Page/한혜연_(스타일리스트).md" title="wikilink">한혜연</a></p></td>
 <td><p><a href="../Page/같이_펀딩.md" title="wikilink">같이 펀딩</a>, <a href="../Page/호구의_연애.md" title="wikilink">호구의 연애</a><br />
 <a href="../Page/놀면_뭐하니?.md" title="wikilink">놀면 뭐하니?</a><br />
-<a href="https://ko.wikipedia.org/wiki/선을_넘는_녀석들_-_리턴즈" title="wikilink">선을 넘는 녀석들 - 리턴즈</a><br />
+<a href="../Page/선을_넘는_녀석들_-_리턴즈.md" title="wikilink">선을 넘는 녀석들 - 리턴즈</a><br />
 <a href="../Page/미스터리_음악쇼_복면가왕.md" title="wikilink">미스터리 음악쇼 복면가왕</a><br />
 <a href="../Page/같이_펀딩.md" title="wikilink">같이 펀딩</a><br />
-<a href="../Page/나_혼자_산다.md" title="wikilink">나 혼자 산다</a>, <a href="https://ko.wikipedia.org/wiki/언니네_쌀롱" title="wikilink">언니네 쌀롱</a></p></td>
+<a href="../Page/나_혼자_산다.md" title="wikilink">나 혼자 산다</a>, <a href="../Page/언니네_쌀롱.md" title="wikilink">언니네 쌀롱</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1485,7 +1485,7 @@ MC<br />
 <tr class="odd">
 <td><p>3회</p></td>
 <td><p><a href="../Page/2003년.md" title="wikilink">2003년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김현철_(희극_배우)" title="wikilink">김현철</a>, <a href="../Page/MC몽.md" title="wikilink">MC몽</a><br />
+<td><p><a href="../Page/김현철_(희극인).md" title="wikilink">김현철</a>, <a href="../Page/MC몽.md" title="wikilink">MC몽</a><br />
 <a href="https://ko.wikipedia.org/wiki/주영훈" title="wikilink">주영훈</a></p></td>
 </tr>
 <tr class="even">
@@ -1591,7 +1591,7 @@ MC<br />
 | 19회                                      | [2019년](../Page/2019년.md "wikilink")                                                                                                                                                                     | [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink") | [놀면 뭐하니?](../Page/놀면_뭐하니?.md "wikilink")     | 공동수상 |
 | [박나래](../Page/박나래.md "wikilink")         | [나 혼자 산다](../Page/나_혼자_산다.md "wikilink"), [구해줘\! 홈즈](../Page/구해줘!_홈즈.md "wikilink")                                                                                                                      |                                                     |                                              |      |
 | [이영자](../Page/이영자.md "wikilink")         | [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink")                                                                                                                                                             |                                                     |                                              |      |
-| [전현무](../Page/전현무.md "wikilink")         | [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink"), [선을 넘는 녀석들 - 리턴즈](https://ko.wikipedia.org/wiki/선을_넘는_녀석들_-_리턴즈 "wikilink")                                                                                |                                                     |                                              |      |
+| [전현무](../Page/전현무.md "wikilink")         | [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink"), [선을 넘는 녀석들 - 리턴즈](../Page/선을_넘는_녀석들_-_리턴즈.md "wikilink")                                                                                                   |                                                     |                                              |      |
 | [김구라](../Page/김구라.md "wikilink")         | [복면가왕](https://ko.wikipedia.org/wiki/복면가왕 "wikilink"), [라디오스타](../Page/황금어장_라디오스타.md "wikilink"), [마이 리틀 텔레비전 V2](../Page/마이_리틀_텔레비전_V2.md "wikilink")                                                   |                                                     |                                              |      |
 | [김성주](../Page/김성주_\(방송인\).md "wikilink") | [복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")                                                                                                                                                              |                                                     |                                              |      |
 |                                          |                                                                                                                                                                                                          |                                                     |                                              |      |
@@ -2410,7 +2410,7 @@ MC<br />
 <a href="../Page/장성규.md" title="wikilink">장성규</a><br />
 <small> (<a href="../Page/마이_리틀_텔레비전_V2.md" title="wikilink">마이 리틀 텔레비전 V2</a>, <a href="../Page/전지적_참견_시점.md" title="wikilink">전지적 참견 시점</a>)</small><br />
 <a href="../Page/홍현희.md" title="wikilink">홍현희</a><br />
-<small>(<a href="https://ko.wikipedia.org/wiki/언니네_쌀롱" title="wikilink">언니네 쌀롱</a>, <a href="../Page/전지적_참견_시점.md" title="wikilink">전지적 참견 시점</a>)<br />
+<small>(<a href="../Page/언니네_쌀롱.md" title="wikilink">언니네 쌀롱</a>, <a href="../Page/전지적_참견_시점.md" title="wikilink">전지적 참견 시점</a>)<br />
 </small></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -2828,7 +2828,7 @@ MC<br />
   - [2011년](../Page/2011년.md "wikilink")에는 시상식 개편으로 인하여 **연예대상** 대신 **올해의 예능 프로그램상**이라는 이름으로 시상되었다.
   - [2013년](../Page/2013년.md "wikilink")에는 프로그램이 대상을 수상하였다.
   - [2017년](../Page/2017년.md "wikilink")에는 방송 3사 최초로 타방송사 출신의 아나운서가 대상을 수상하였다.
-  - [2018년](../Page/2018년.md "wikilink")에는 [2001년](../Page/2001년.md "wikilink") 연예대상 시상식 이후 17년만에 여성 예능인이 대상을 수상하였으며, [2019년](../Page/2019년.md "wikilink")에는 방송 3사 연예대상 최초로 2년 연속 여성 예능인이 대상을 수상하였다.
+  - [2018년](../Page/2018년.md "wikilink")에는 [2001년](../Page/2001년.md "wikilink") 연예대상 시상식 이후 17년만에 여성 예능인이 대상을 수상하였으며, [2019년](../Page/2019년.md "wikilink")에는 방송 3사 최초로 2년 연속 여성 예능인이 대상을 수상하였다.
 
 ## 시청률
 

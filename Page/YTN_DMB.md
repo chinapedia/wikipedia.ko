@@ -21,9 +21,9 @@
   -
     mYTN은 종합편성채널로, YTN의 뉴스콘텐츠와 교양 오락 등 다양한 정보성 프로그램으로 편성되어 있다.
     지상파DMB 최초로 LPGA TOUR 경기를 생중계하고 있으며, 생활속의 과학 이야기 그리고 골프정보 프로그램 등 뉴스뿐만 아니라 다양한 정보들을 시청할 수 있다.
-    [울산방송](../Page/울산방송.md "wikilink"),[청주방송](../Page/청주방송.md "wikilink"),[전주방송](../Page/전주방송.md "wikilink")을 제외한나머지는 지역방송없이 100%본사 수중계이다.
+    [울산방송](../Page/울산방송.md "wikilink"), [청주방송](../Page/청주방송.md "wikilink"), [전주방송](../Page/전주방송.md "wikilink")을 제외한 나머지는 지역방송없이 100% 본사 수중계이다.
     **편성표**
-    [mYTN 편성표](http://dmb.ytn.co.kr/mytn/schedule.php)
+    [mYTN 편성표](https://web.archive.org/web/20190809043013/https://dmb.ytn.co.kr/mytn/schedule.php)
 
 <!-- end list -->
 
@@ -80,7 +80,11 @@
 <!-- end list -->
 
   -
-    부가 데이터 서비스, 교통정보, 웹서비스 등 다양한 데이터 서비스를 제공하는 채널이다. 네비게이션에서는 YTN DMB TPEG 서비스를 제공하고 있다. [홈페이지](http://www.dmbtpeg.com/)
+    부가 데이터 서비스, 교통정보, 웹서비스 등 다양한 데이터 서비스를 제공하는 채널이다. 네비게이션에서는 YTN DMB TPEG 서비스를 제공하고 있다. [홈페이지](https://web.archive.org/web/20150926010922/http://dmbtpeg.com/)
+
+## 정파
+
+매달 첫째 월요일 오전 2시부터 5시까지 계획정파를 실시한다.(수도권 직접송출 기준이며, 지역송출은 다를 수 있다.)
 
 ## 방송 송출 시설망
 
@@ -111,6 +115,6 @@
 
 ## 외부 링크
 
-  - [YTN DMB](http://www.ytndmb.com/)
+  - [YTN DMB](https://web.archive.org/web/20100418051111/http://www.ytndmb.com/)
 
-[분류:YTN](https://ko.wikipedia.org/wiki/분류:YTN "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink") [분류:2005년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2005년_설립된_텔레비전_방송국과_채널 "wikilink")
+[DMB](https://ko.wikipedia.org/wiki/분류:YTN의_자회사 "wikilink") [분류:대한민국의 디지털 멀티미디어 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_디지털_멀티미디어_방송국 "wikilink") [분류:2005년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2005년_설립된_텔레비전_방송국과_채널 "wikilink")

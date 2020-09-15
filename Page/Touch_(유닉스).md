@@ -86,8 +86,8 @@ touch는 myfile.txt의 내용을 수정하지 않는다; 이것은 단지 파일
 ## 외부 링크
 
   - [touch에 대한 상술](http://www.opengroup.org/onlinepubs/009695399/utilities/touch.html)
-  - [ntouch/dtouch 페이지](http://www.flos-freeware.ch/archive.html)
-  - [touch 사용 예제](http://www.bellevuelinux.org/touch.html)
+  - [ntouch/dtouch 페이지](https://web.archive.org/web/20081217025340/http://www.flos-freeware.ch/archive.html)
+  - [touch 사용 예제](https://web.archive.org/web/20081103140410/http://www.bellevuelinux.org/touch.html)
 
 <!-- end list -->
 

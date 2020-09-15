@@ -17,6 +17,4 @@ L-카르니틴 은 lysine 과 methionine 아미노산에서 만들어진다.
 
 [분류:약학](https://ko.wikipedia.org/wiki/분류:약학 "wikilink") [분류:4차 암모늄 화합물](https://ko.wikipedia.org/wiki/분류:4차_암모늄_화합물 "wikilink") [분류:아세트산 에스터](https://ko.wikipedia.org/wiki/분류:아세트산_에스터 "wikilink") [분류:항노화 물질](https://ko.wikipedia.org/wiki/분류:항노화_물질 "wikilink") [분류:아미노산 유도체](https://ko.wikipedia.org/wiki/분류:아미노산_유도체 "wikilink")
 
-[ja:カルニチン\#アセチルカルニチン](https://ko.wikipedia.org/wiki/ja:カルニチン#アセチルカルニチン "wikilink")
-
 1.

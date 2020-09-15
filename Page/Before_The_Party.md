@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Before The Party](https://ko.wikipedia.org/wiki/Before_The_Party).
 
 
-《**Before The Party**》는 가수 [장혜진](https://ko.wikipedia.org/wiki/장혜진 "wikilink")이 [1994년](../Page/1994년.md "wikilink")에 발표한 1집 음반이다. 타이틀 곡은 〈내게로〉로 작곡가 [유정연](../Page/유정연.md "wikilink"), 작사가 [박창학](https://ko.wikipedia.org/wiki/박창학 "wikilink")이 만든 곡이다.\[1\]
+《**Before The Party**》는 가수 [장혜진](https://ko.wikipedia.org/wiki/장혜진 "wikilink")이 [1994년](../Page/1994년.md "wikilink")에 발표한 3집 음반이다. 타이틀 곡은 〈내게로〉로 작곡가 [유정연](../Page/유정연.md "wikilink"), 작사가 [박창학](https://ko.wikipedia.org/wiki/박창학 "wikilink")이 만든 곡이다.\[1\]
 
 ## 음반 정보
 

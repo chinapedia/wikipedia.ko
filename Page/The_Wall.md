@@ -37,7 +37,7 @@
 3.  "Nobody Home" - 3:26
 4.  "Vera" - 1:35
 5.  "Bring the Boys Back Home" - 1:21
-6.  "[Comfortably Numb](https://ko.wikipedia.org/wiki/Comfortably_Numb "wikilink")" (길모어 / 워터스) - 6:24
+6.  "[Comfortably Numb](../Page/Comfortably_Numb.md "wikilink")" (길모어 / 워터스) - 6:24
 
 ### 4면
 

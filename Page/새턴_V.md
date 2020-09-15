@@ -234,5 +234,3 @@ S-IVB 는, 만약 그대로 궤도상에 남아 있으면 우주선과 충돌하
   - [아폴로 11호](../Page/아폴로_11호.md "wikilink")
 
 [분류:소모성 우주 발사체](https://ko.wikipedia.org/wiki/분류:소모성_우주_발사체 "wikilink") [분류:아폴로 계획](https://ko.wikipedia.org/wiki/분류:아폴로_계획 "wikilink") [분류:페이퍼클립 작전](https://ko.wikipedia.org/wiki/분류:페이퍼클립_작전 "wikilink")
-
-[de:Saturn (Rakete)\#Saturn V](https://ko.wikipedia.org/wiki/de:Saturn_\(Rakete\)#Saturn_V "wikilink")

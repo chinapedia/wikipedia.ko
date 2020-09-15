@@ -16,7 +16,7 @@
 
 ## 외부 링크
 
-  - [ITT Corporation](http://www.itt.com)
+  - [ITT Corporation](https://web.archive.org/web/20130502075333/http://www.itt.com/)
   - [Cortelco](https://web.archive.org/web/20180607035524/https://www.cortelco.com/)
   - [Antony C. Sutton book Wall Street and the Rise of Hitler Chapter 5](https://web.archive.org/web/20100804234322/http://www.reformed-theology.org/html/books/wall_street/chapter_05.htm)
   - [Nazi Involvement](http://www.reformation.org/wall-st-ch5.html)

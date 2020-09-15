@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HTML5](https://ko.wikipedia.org/wiki/HTML5).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:HTML5-logo.svg "wikilink")  **HTML5**는 [HTML](../Page/HTML.md "wikilink")의 완전한 5번째 버전으로 월드 와이드 웹 (World Wide Web)의 핵심 [마크업 언어이다](../Page/마크업_언어.md "wikilink"). 2004년 7월 Web Hypertext Application Technology Working Group(WHATWG)에서 웹 애플리케이션 1.0이라는 이름으로 세부 명세 작업을 시작하였다.
+**HTML5**는 [HTML](../Page/HTML.md "wikilink")의 완전한 5번째 버전으로 월드 와이드 웹 (World Wide Web)의 핵심 [마크업 언어이다](../Page/마크업_언어.md "wikilink"). 2004년 7월 Web Hypertext Application Technology Working Group(WHATWG)에서 웹 애플리케이션 1.0이라는 이름으로 세부 명세 작업을 시작하였다.
 
 HTML5는 [HTML 4.01](https://ko.wikipedia.org/wiki/HTML_4.01 "wikilink"), [XHTML](../Page/XHTML.md "wikilink") 1.0, DOM 레벨 2 HTML에 대한 차기 표준 제안이다. 비디오, 오디오 등 다양한 부가기능과 최신 멀티미디어 콘텐츠를 [액티브X](../Page/액티브X.md "wikilink") 없이 브라우저에서 쉽게 볼 수 있게 하는 것을 목적으로 한다.
 
@@ -270,7 +270,7 @@ HTML5.1 개발 일정
 
 ## HTML5 기반 암호화 표준화 진행
 
-모질라한국커뮤니티는 웹 표준 기반 HTML5 암호화 및 대한민국의 공인인증서등에 사용가능한 [W3C](../Page/W3C.md "wikilink") [웹 크립토그래피 API](https://www.w3.org/TR/WebCryptoAPI/)를 제안하였다.\[6\]\[7\]\[8\] 2014년 버전 이후로 W3C는 공식적으로 웹크립토그래피를 지원한다.\[9\]\[10\]
+모질라한국커뮤니티는 웹 표준 기반 HTML5 암호화 및 대한민국의 공인인증서등에 사용가능한 [W3C](../Page/W3C.md "wikilink") [웹 크립토그래피 API](https://web.archive.org/web/20180910140421/https://www.w3.org/TR/WebCryptoAPI/)를 제안하였다.\[6\]\[7\]\[8\] 2014년 버전 이후로 W3C는 공식적으로 웹크립토그래피를 지원한다.\[9\]\[10\]
 
 ## 같이 보기
 
@@ -318,4 +318,4 @@ HTML5.1 개발 일정
 7.  [W3.org 공식 웹크립토그래피](https://www.w3.org/2012/webcrypto/)
 8.  <https://www.w3.org/2011/11/webcryptography-charter.html>
 9.  [W3C](https://www.w3.org/TR/2014/CR-WebCryptoAPI-20141211/)
-10. [W3C](https://www.w3.org/TR/WebCryptoAPI/)
+10.

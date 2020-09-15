@@ -22,8 +22,8 @@
 | [시크](https://ko.wikipedia.org/wiki/젤다의_전설_시리즈#sheik "wikilink")      | 젤다의 전설 시리즈                                                    |
 | [사무스](https://ko.wikipedia.org/wiki/사무스_아란 "wikilink")               | [메트로이드 시리즈](https://ko.wikipedia.org/wiki/메트로이드 "wikilink")   |
 | [커비](../Page/커비_\(등장인물\).md "wikilink")                              | [별의 커비 시리즈](../Page/별의_커비.md "wikilink")                      |
-| [폭스](https://ko.wikipedia.org/wiki/폭스_맥클라우드 "wikilink")              | |[스타폭스 시리즈](https://ko.wikipedia.org/wiki/스타폭스 "wikilink")    |
-| [팔코](https://ko.wikipedia.org/wiki/팔코_람바디 "wikilink")                | 스타폭스                                                          |
+| [폭스](../Page/폭스_맥클라우드.md "wikilink")                                 | |[스타폭스 시리즈](https://ko.wikipedia.org/wiki/스타폭스 "wikilink")    |
+| [팔코](../Page/팔코_람바디.md "wikilink")                                   | 스타폭스                                                          |
 | [아이스 클라이머](../Page/아이스_클라이머.md "wikilink")                           | 아이스 클라이머                                                      |
 | [Mr.게임&워치](https://ko.wikipedia.org/wiki/Mr.게임&워치 "wikilink")        | [게임 & 워치](../Page/게임_&_워치.md "wikilink")                      |
 | [피츄](https://ko.wikipedia.org/wiki/피츄 "wikilink")                    | [포켓몬스터 시리즈](../Page/포켓몬스터.md "wikilink")                      |

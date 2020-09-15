@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Platonic](https://ko.wikipedia.org/wiki/Platonic).
 
 
-***Platonic***은 [은지원](../Page/은지원.md "wikilink")의 5번째 정규 앨범이다. [2009년](../Page/2009년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") 발매되었다.
+**Platonic**은 [은지원](../Page/은지원.md "wikilink")의 5번째 정규 앨범이다. [2009년](../Page/2009년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") 발매되었다.
 
 ## 트랙
 

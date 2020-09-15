@@ -10,7 +10,7 @@
 ## 외부 링크
 
   - [FON의 공식 사이트](https://web.archive.org/web/20180905071141/https://fon.com/)
-  - [BT FON 커뮤니티 사이트](http://www.btfon.com)
+  - [BT FON 커뮤니티 사이트](https://web.archive.org/web/20140823165609/http://www.btfon.com/)
   - [FON 연구소](https://web.archive.org/web/20100309092202/http://labs.fon.com/)
   - [FON-도시](https://web.archive.org/web/20090102003553/http://www.fon-city.com/fon-cities.html)
   - [FON -위키](http://arquivo.pt/wayback/20091223210533/http%3A//wiki.fon.com/wiki/Main_Page)

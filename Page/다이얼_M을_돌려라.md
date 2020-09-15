@@ -11,9 +11,9 @@
 
   - [레이 밀렌드](https://ko.wikipedia.org/wiki/레이_밀렌드 "wikilink") - 토니 웬디스 역
   - [그레이스 켈리](../Page/그레이스_켈리.md "wikilink") - 마고 메리 웬디스 역
-  - [로버트 커밍스](https://ko.wikipedia.org/wiki/로버트_커밍스 "wikilink") - 마크 할리데이 역
+  - [로버트 커밍스](../Page/로버트_커밍스.md "wikilink") - 마크 할리데이 역
   - [존 윌리엄스](https://ko.wikipedia.org/wiki/존_윌리엄스_\(배우\) "wikilink") - 허버드 경감 역
-  - [앤서니 도슨](https://ko.wikipedia.org/wiki/앤서니_도슨 "wikilink") - 찰스 알렉산더 스완 (또다른 이름은 레스켓)
+  - [앤서니 도슨](../Page/앤서니_도슨.md "wikilink") - 찰스 알렉산더 스완 (또다른 이름은 레스켓)
   - [레오 브리트](https://ko.wikipedia.org/wiki/레오_브리트 "wikilink") - 이야기꾼
   - [앨프리드 히치콕](https://ko.wikipedia.org/wiki/앨프리드_히치콕 "wikilink") - 히치콕은 액자에 나온 동창회 모임 옆에 있는 남자로 출연하다.
 

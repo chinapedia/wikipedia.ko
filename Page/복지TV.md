@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [복지TV](https://ko.wikipedia.org/wiki/복지TV).
 
 
-**복지TV**(福祉TV, WBC, )는 [2005년](../Page/2005년.md "wikilink") [12월](../Page/12월.md "wikilink")에 개국한 [대한민국](../Page/대한민국.md "wikilink")의 [사회적 약자](../Page/장애인.md "wikilink") 대상 [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"). [2013년](../Page/2013년.md "wikilink")에 [의무채널로](../Page/공익채널.md "wikilink") 지정되었다.
+**복지TV**(福祉TV, **WBC**, )는 [2005년](../Page/2005년.md "wikilink") [12월](../Page/12월.md "wikilink")에 개국한 [대한민국](../Page/대한민국.md "wikilink")의 [사회적 약자](../Page/장애인.md "wikilink") 대상 [유료방송](../Page/대한민국의_케이블TV_방송.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"). 2013년에 [의무채널로](../Page/공익채널.md "wikilink") 지정되었다.
 
 ## 로고송
 
   - 희망을 나누어요 우리 모두 사랑해요 WBC 복지TV [2005년](../Page/2005년.md "wikilink") [12월](../Page/12월.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink")
-  - 사랑이 넘치는 세상 복지TV [2013년](../Page/2013년.md "wikilink") \~
+  - 사랑이 넘치는 세상 WBC 복지TV [2013년](../Page/2013년.md "wikilink") \~ [현재](https://ko.wikipedia.org/wiki/현재 "wikilink")
 
 ## 프로그램
 
@@ -44,6 +44,6 @@
 
 ## 외부 링크
 
-  - [WBC 복지TV 홈페이지](http://www.iwbc.co.kr/index.html)
+  - [WBC 복지TV 홈페이지](https://web.archive.org/web/20120111232922/http://www.iwbc.co.kr/index.html)
 
 [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:2005년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2005년_설립된_텔레비전_방송국과_채널 "wikilink")

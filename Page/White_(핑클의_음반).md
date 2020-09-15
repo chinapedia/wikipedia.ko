@@ -99,10 +99,10 @@
 
 </dl>
 <ul>
-<li><a href="../Page/이효리.md" title="wikilink">이효리</a> - 리더, 서브 <a href="https://ko.wikipedia.org/wiki/보컬" title="wikilink">보컬</a>, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a></li>
+<li><a href="../Page/이효리.md" title="wikilink">이효리</a> - 리더, <a href="https://ko.wikipedia.org/wiki/리드보컬" title="wikilink">리드보컬</a>, <a href="https://ko.wikipedia.org/wiki/코러스_(대중음악)" title="wikilink">코러스</a></li>
 <li><a href="../Page/성유리.md" title="wikilink">성유리</a> - 서브보컬, 코러스</li>
 <li><a href="../Page/이진_(1980년).md" title="wikilink">이진</a> - 서브보컬, 코러스</li>
-<li><a href="../Page/옥주현.md" title="wikilink">옥주현</a> - <a href="https://ko.wikipedia.org/wiki/리드보컬" title="wikilink">리드보컬</a>, 코러스</li>
+<li><a href="../Page/옥주현.md" title="wikilink">옥주현</a> - <a href="https://ko.wikipedia.org/wiki/메인보컬" title="wikilink">메인보컬</a>, 코러스</li>
 </ul>
 <dl>
 <dt>세션</dt>

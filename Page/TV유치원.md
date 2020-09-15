@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV유치원](https://ko.wikipedia.org/wiki/TV유치원).
 
 
-《**TV유치원**》은 매주 [월요일](../Page/월요일.md "wikilink") \~ [목요일](../Page/목요일.md "wikilink") 오후 3시 30분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [한국방송공사](../Page/한국방송공사.md "wikilink")의 [어린이](../Page/어린이.md "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")으로, [문화방송](../Page/문화방송.md "wikilink")의 [뽀뽀뽀 모두야 놀자](../Page/뽀뽀뽀_모두야_놀자.md "wikilink"), [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")의 [딩동댕 유치원과](../Page/딩동댕_유치원.md "wikilink") 더불어 3대 어린이 프로그램으로 불린다.
+《**TV유치원**》은 매주 [월요일](../Page/월요일.md "wikilink") \~ [목요일](../Page/목요일.md "wikilink") 오후 3시 30분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [한국방송공사](../Page/한국방송공사.md "wikilink")의 [유아](../Page/유아.md "wikilink") [교육](../Page/교육.md "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")으로, [문화방송](../Page/문화방송.md "wikilink")의 [뽀뽀뽀](https://ko.wikipedia.org/wiki/뽀뽀뽀 "wikilink"), [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")의 [딩동댕 유치원과](../Page/딩동댕_유치원.md "wikilink") 더불어 3대 어린이 프로그램으로 불린다.
 
 ## 프로그램 소개
 
@@ -52,32 +52,30 @@
   - 지니의 한글놀이
   - 클레이 날날날
   - 꼬야랑 숨은그림찾기
-  - [꼬꼬마 텔레토비](../Page/꼬꼬마_텔레토비.md "wikilink")(리부트) - 본방송
-  - 이럴땐 손씻기
+  - [토마스와 친구들](../Page/토마스와_친구들.md "wikilink")(제19기)
   - TV유치원 체조
+  - 이럴땐 손씻기
 
 ### 화요일
 
   - 지니의 한글놀이
   - 어린이뉴스 뚜뚜
   - 다른그림찾기
-  - [꼬꼬마 텔레토비](../Page/꼬꼬마_텔레토비.md "wikilink")(리부트) - 재방송
+  - 정글비트 멍키와 트렁크
   - 이럴땐 손씻기
 
 ### 수요일
 
   - 지니의 한글놀이
   - 직업탐험 바쁘다 바빠
-  - 꼬야랑 숨은그림찾기
-  - [토마스와 친구들](../Page/토마스와_친구들.md "wikilink")(제19기)
+  - [꼬꼬마 텔레토비](../Page/꼬꼬마_텔레토비.md "wikilink")(리부트) - 본방송
   - 이럴땐 손씻기
 
 ### 목요일
 
   - 지니의 한글놀이
-  - 흔한남매의 COMMON ENGLISH
-  - 다른그림찾기
-  - 정글비트 멍키와 트렁크
+  - 꼬야랑 할꺼야
+  - [꼬꼬마 텔레토비](../Page/꼬꼬마_텔레토비.md "wikilink")(리부트) - 재방송
   - 이럴땐 손씻기
 
 ## 역대 구성
@@ -90,7 +88,6 @@
   - 춤춤춤
   - 출동 우주탐험대 스페이스 레이서
   - 캐리의 냠냠밥상
-  - 꼬야랑 할꺼야
   - 트니트니 지지맨
   - 액션 잉글리시
   - 핑과 퐁
@@ -98,6 +95,7 @@
   - 클레이 쓩쓩
   - 색깔배우기
   - 빠빠랑 책이랑
+  - 흔한남매의 COMMON ENGLISH
 
 ## 등장인물
 
@@ -128,8 +126,8 @@
 
 ### 역대 파니파니
 
-  - [리아](../Page/리아_\(방송인\).md "wikilink")\[3\]([2007년](../Page/2007년.md "wikilink") [1월 2일](../Page/11월_20일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink")) : 윙키
-  - [권재환](https://ko.wikipedia.org/wiki/권재환 "wikilink")([2007년](../Page/2006년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink")) : 팜팜
+  - [리아](../Page/리아_\(방송인\).md "wikilink")\[3\]([2007년](../Page/2007년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink")) : 윙키
+  - [권재환](https://ko.wikipedia.org/wiki/권재환 "wikilink")([2007년](../Page/2007년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink")) : 팜팜
   - [오나라](../Page/오나라_\(배우\).md "wikilink")([2007년](../Page/2007년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink")) : 샤랑
   - [노우진](../Page/노우진.md "wikilink")([2008년](../Page/2008년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink")) : 팜팜
   - [송다원](https://ko.wikipedia.org/wiki/송다원 "wikilink")([2008년](../Page/2008년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink")) : 윙키
@@ -155,6 +153,11 @@
   - 럭키강이 (강민석)
   - [정성호](https://ko.wikipedia.org/wiki/정성호 "wikilink")
   - [장다운](../Page/장다운.md "wikilink"), [한으뜸](https://ko.wikipedia.org/wiki/한으뜸 "wikilink") ([2019년](../Page/2019년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") \~ **현재**) (흔한남매)
+  - 어수지, 어수아, 어민준 ([2019년](../Page/2019년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") \~ **현재**) (뚜지, 뚜아, 뚜빠)
+
+## 참고 사항
+
+  - [1980년대](../Page/1980년대.md "wikilink")와 [1990년대](../Page/1990년대.md "wikilink") 사이 높은 시청률 인기를 누렸으며, [2000년대](../Page/2000년대.md "wikilink") 들어서, [뉴미디어](https://ko.wikipedia.org/wiki/뉴미디어 "wikilink") 시대를 맞아, [인터넷](../Page/인터넷.md "wikilink"), [스마트폰](../Page/스마트폰.md "wikilink")이 발달하고, [IPTV](../Page/IPTV.md "wikilink") 서비스가 보편화 이후로 프로그램 사라지지 않고, 육아 교육 프로그램 유일한 편성하고 있다.
 
 ## 타이틀 변천사
 
@@ -171,7 +174,7 @@
 
 ## 외부 링크
 
-  - 김지효 씀[KBS TV유치원 홈페이지](http://www.kbs.co.kr/2tv/sisa/kinder/index.html)
+[KBS TV유치원 홈페이지](http://www.kbs.co.kr/2tv/sisa/kinder/index.html)
 
 [분류:한국방송공사의 어린이 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_어린이_텔레비전_프로그램 "wikilink") [분류:대한민국의 어린이 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_어린이_텔레비전_프로그램 "wikilink") [분류:1982년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1982년에_시작한_대한민국_TV_프로그램 "wikilink")
 

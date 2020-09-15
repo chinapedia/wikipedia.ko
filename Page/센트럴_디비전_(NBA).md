@@ -477,6 +477,11 @@
 <td><p><a href="../Page/밀워키_벅스.md" title="wikilink">밀워키 벅스</a></p></td>
 <td><p>60승 22패 .732</p></td>
 </tr>
+<tr class="even">
+<td><p>2020년</p></td>
+<td><p><a href="../Page/밀워키_벅스.md" title="wikilink">밀워키 벅스</a></p></td>
+<td><p>56승 17패 .767</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -492,12 +497,12 @@
 <tbody>
 <tr class="odd">
 <td><p>9회</p></td>
-<td><p><a href="../Page/디트로이트_피스턴스.md" title="wikilink">디트로이트 피스턴스</a></p></td>
+<td><p><a href="../Page/디트로이트_피스턴스.md" title="wikilink">디트로이트 피스턴스</a><br />
+ <a href="../Page/밀워키_벅스.md" title="wikilink">밀워키 벅스</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8회</p></td>
-<td><p><a href="../Page/시카고_불스.md" title="wikilink">시카고 불스</a><br />
- <a href="../Page/밀워키_벅스.md" title="wikilink">밀워키 벅스</a></p></td>
+<td><p><a href="../Page/시카고_불스.md" title="wikilink">시카고 불스</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7회</p></td>

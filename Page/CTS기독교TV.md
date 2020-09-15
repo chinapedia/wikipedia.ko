@@ -3,7 +3,7 @@
 
 [썸네일에](https://ko.wikipedia.org/wiki/파일:DPP_0404.jpg "wikilink") 위치한 CTS본사\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:사진_195.jpg "wikilink")
 
-**CTS기독교TV**(Christian Television System)는 [대한민국](../Page/대한민국.md "wikilink")의 종교 방송이며 최초의 기독교 텔레비전이다. 복음을 전파하는 영상매체로 [1995년](../Page/1995년.md "wikilink") 설립되었고, 현재 [개신교](../Page/개신교.md "wikilink") 43개교단이 주주로 참여하고 있다. 현재 CEO는 [감경철](../Page/감경철.md "wikilink") 회장이며, 기감, 예장 합동, 예장 통합이 공동대표이사직을 담당하고 있다. 한국 개신교 1000만 성도들의 신앙성숙과 정보화 시대에 비신앙인들에게 복음을 전하는 첨단 선교매체로서 선교와 교육, 문화와 예술, 생활과 정보 등의 프로그램을 편성 제작하는 종합복음 영상 매체이다. 첨단 정보화시대를 향한 예언자적 선교매체로서 그리스도의 부활과 구속의 은총을 널리 전하고 정의와 평화 창조질서의 보전을 선도하는 한국교회의 동반자가 되는 것을 목표 삼아 그리스도의 문화를 이 사회에 심는 편성, 하나님의 창조질서를 회복시키는 편성, 한국교회의 성장과 연합 및 교제를 위한 편성 등 3대 방송지침을 가진다.
+**CTS기독교TV**()는 [대한민국](../Page/대한민국.md "wikilink")의 종교 방송이며 최초의 기독교 텔레비전이다. 복음을 전파하는 영상매체로 [1995년](../Page/1995년.md "wikilink") 설립되었고, 현재 [개신교](../Page/개신교.md "wikilink") 43개교단이 주주로 참여하고 있다. 현재 CEO는 [감경철](../Page/감경철.md "wikilink") 회장이며, 기감, 예장 합동, 예장 통합이 공동대표이사직을 담당하고 있다. 한국 개신교 1000만 성도들의 신앙성숙과 정보화 시대에 비신앙인들에게 복음을 전하는 첨단 선교매체로서 선교와 교육, 문화와 예술, 생활과 정보 등의 프로그램을 편성 제작하는 종합복음 영상 매체이다. 첨단 정보화시대를 향한 예언자적 선교매체로서 그리스도의 부활과 구속의 은총을 널리 전하고 정의와 평화 창조질서의 보전을 선도하는 한국교회의 동반자가 되는 것을 목표 삼아 그리스도의 문화를 이 사회에 심는 편성, 하나님의 창조질서를 회복시키는 편성, 한국교회의 성장과 연합 및 교제를 위한 편성 등 3대 방송지침을 가진다.
 
 [노량진](https://ko.wikipedia.org/wiki/노량진 "wikilink")의 본사를 비롯해 한국 18곳, 해외 3곳의 지사를 두고 있다. 현재 각 지역 Cable TV와 Skylife를 통한 [위성방송](../Page/위성방송.md "wikilink") 중이며 2010년 8월부터 IPTV 서비스를 통해 전국 어디서나 시청자가 원하는 플랫폼으로 24시간 방송을 접할 수 있도록 하고 있다.\[1\] 특히 국가조찬기도회, 서울시청 성탄트리 점등행사 등을 주관하며 한국 기독교 텔레비전 방송계를 선도하고 있다.\[2\] 아울러 2010년 3월 CTS Family Channel을 개국해 방송 중이며 CTS Education Channel 개국 또한 앞두고 있다.
 
@@ -304,21 +304,21 @@
 
 ## 지사 목록
 
-  - [CTS기독교TV 경남(창원)방송](http://gn.cts.tv)
-  - [CTS기독교TV 광주방송](http://gwangju.cts.tv)
-  - [CTS기독교TV 부산방송](http://busan.cts.tv)
-  - [CTS기독교TV 대구방송](http://daegu.cts.tv)
+  - [CTS기독교TV 경남(창원)방송](https://web.archive.org/web/20191106020229/http://gn.cts.tv/)
+  - [CTS기독교TV 광주방송](https://web.archive.org/web/20191023150416/http://gwangju.cts.tv/)
+  - [CTS기독교TV 부산방송](https://web.archive.org/web/20191023151152/http://busan.cts.tv/)
+  - [CTS기독교TV 대구방송](https://web.archive.org/web/20191222220930/http://daegu.cts.tv/)
       - [페이스북](https://www.facebook.com/ctsdg)
-  - [CTS기독교TV 전남방송](http://jeonnam.cts.tv)
+  - [CTS기독교TV 전남방송](https://web.archive.org/web/20191222221039/http://jeonnam.cts.tv/)
   - [CTS기독교TV 영서방송](https://web.archive.org/web/20110515022107/http://youngseo.cts.tv/)
   - [CTS기독교TV 청주방송](https://web.archive.org/web/20111115003616/http://cheongju.cts.tv/)
   - [CTS기독교TV 노량진 본사](http://www.cts.tv)
       - [페이스북](https://www.facebook.com/ctsKorea)
-  - [CTS기독교TV 울산방송](http://ulsan.cts.tv)
+  - [CTS기독교TV 울산방송](https://web.archive.org/web/20191222221338/http://ulsan.cts.tv/)
       - [페이스북](https://www.facebook.com/CTS-ulsan)
   - [CTS기독교TV 고양방송](https://web.archive.org/web/20180416194313/http://goyang.cts.tv/)
-  - [CTS기독교TV 전북방송](http://jeonbuk.cts.tv)
-  - [CTS기독교TV 목포방송](http://mokpo.cts.tv)
+  - [CTS기독교TV 전북방송](https://web.archive.org/web/20191229082813/http://jeonbuk.cts.tv/)
+  - [CTS기독교TV 목포방송](https://web.archive.org/web/20191222221236/http://mokpo.cts.tv/)
   - [CTS기독교TV USA방송](http://us.cts.tv)
   - [CTS기독교TV 성남방송](https://web.archive.org/web/20180317160139/http://sungnam.cts.tv/)
   - CTS기독교TV 중앙네트워크
@@ -386,7 +386,7 @@
   - 한국기독교장로회총회
   - 예수교대한하나님의성회
 
-## 채널번호 (CTS 기독교TV)
+## 채널번호 (CTS기독교TV)
 
   - [KT스카이라이프](../Page/KT스카이라이프.md "wikilink") 183번
   - [B TV](../Page/B_TV.md "wikilink") 301번

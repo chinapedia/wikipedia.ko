@@ -54,7 +54,7 @@
 </tbody>
 </table>
 
-## 참고
+## 각주
 
 [분류:1984년 음반](https://ko.wikipedia.org/wiki/분류:1984년_음반 "wikilink") [분류:메탈리카의 음반](https://ko.wikipedia.org/wiki/분류:메탈리카의_음반 "wikilink") [분류:엘렉트라 레코드 음반](https://ko.wikipedia.org/wiki/분류:엘렉트라_레코드_음반 "wikilink")
 

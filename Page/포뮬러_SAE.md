@@ -17,7 +17,7 @@
 
 국내에서 참가한 팀들의 수상현황은 다음과 같다. 2006년 국립금오공과대학교 자작자동차동아리 오토매니아(https://www.facebook.com/lets.automania) 에서 신인상( William C. Mitchell Rookie Award)을 수상했고 2011년 국민대학교 KORA가 Cost Report부문 1위를 차지했다. 아울러 한국기술대학교 자.연.인팀이 JSAE(일본자동차공학회)에서 주최한 제 4회 Student Formula Japan에서 신인상(Rookie Award)을 수상하였다.
 
-대한민국에서 참가한 사례 중 가장 성공을 거둔 사례로는 국민대학교의 자작자동차동아리 KORA (KOOKMIN RACING)를 들 수 있다. KORA는(https://www.facebook.com/kookmin.racing) 2015년 (미시건)에 출전하여 120여개 팀 중 종합 4위(아시아1위)를 달성했다. 그 외 참가대학으로는 충북대학교, 울산대학교, 영남대학교, 영남이공대학교, 호서대학교 챌린져 (https://www.facebook.com/KSAE.challenger) , 군산대학교 등이 있다.
+대한민국에서 참가한 사례 중 가장 성공을 거둔 사례로는 국민대학교의 자작자동차동아리 KORA (KOOKMIN RACING)를 들 수 있다. KORA는(https://www.facebook.com/kookmin.racing) 2015년 (미시건)에 출전하여 120여개 팀 중 종합 4위(아시아1위)를 달성했다. 그 외 참가대학으로는 호서대학교 CHALLENGER (https://www.facebook.com/KSAE.challenger), 한양대학교 에리카, 충북대학교, 울산대학교, 영남대학교, 영남이공대학교, 군산대학교 등이 있다.
 
 ## 외부 링크
 

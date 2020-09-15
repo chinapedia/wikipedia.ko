@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FINKL \(싱글\)](https://ko.wikipedia.org/wiki/FINKL_\(싱글\)).
 
 
-《**FINKL**》은 [2005년](../Page/2005년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") 발매된 [대한민국](../Page/대한민국.md "wikilink") [여자](https://ko.wikipedia.org/wiki/여자 "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [핑클](../Page/핑클.md "wikilink")의 디지털 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). 총 3곡의 트랙으로 구성되어 있다. 전체 러닝타임은 11분 6초이다.
+《**FINKL**》은 [2005년](../Page/2005년.md "wikilink") [10월 19일에](../Page/10월_19일.md "wikilink") 발매된 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [핑클](../Page/핑클.md "wikilink")의 디지털 [싱글이다](../Page/싱글_\(음악\).md "wikilink"). 뜨한 FINKL은 총 3곡의 트랙으로 구성되어 있다. 그리고 FINKL의 전체 러닝타임은 11분 6초이다.
 
 ## 설명
 

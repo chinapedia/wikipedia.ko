@@ -16,6 +16,8 @@
 
 ※ 구분은 2012년 3월 31일 시점을 나타낸다.
 
+  - 新生せあらーずエンジェルとおいろけ先輩:[아키타 카즈에](https://ko.wikipedia.org/wiki/아키타_카즈에 "wikilink")(1기)&[코죠 세아라](https://ko.wikipedia.org/wiki/코죠_세아라 "wikilink")(3기)
+
 ### 1기생
 
   - 굵은 글씨는 캡틴
@@ -33,135 +35,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아키타_카즈에" title="wikilink">아키타 카즈에</a></p></td>
-<td><p>穐田和恵</p></td>
-<td><p>あきた かずえ</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>유닛 「新生せあらーずエンジェルとおいろけ先輩」 구성원[5]</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/이마요시_메구미.md" title="wikilink">이마요시 메구미</a></p></td>
-<td><p>今吉めぐみ</p></td>
-<td><p>いまよし めぐみ</p></td>
-<td></td>
-<td><p>아크 프로듀션</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/우메다_하루카.md" title="wikilink">우메다 하루카</a></p></td>
-<td><p>梅田悠</p></td>
-<td><p>うめだ はるか</p></td>
-<td></td>
-<td><p>선 뮤직 프로덕션</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/우라노_카즈미" title="wikilink">우라노 카즈미</a></p></td>
-<td><p>浦野一美</p></td>
-<td><p>うらの かずみ</p></td>
-<td></td>
-<td><p>프로덕션 오기</p></td>
-<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀B</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오코치_미사" title="wikilink">오오코치 미사</a></p></td>
-<td><p>大河内美紗</p></td>
-<td><p>おおこうち みさ</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오호리_메구미" title="wikilink">오오호리 메구미</a></p></td>
-<td><p>大堀恵</p></td>
-<td><p>おおほり めぐみ</p></td>
-<td></td>
-<td><p><a href="../Page/호리프로.md" title="wikilink">호리프로</a></p></td>
-<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀K</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카이다_쥬리" title="wikilink">카이다 쥬리</a></p></td>
-<td><p>甲斐田樹里</p></td>
-<td><p>かいだ じゅり</p></td>
-<td></td>
-<td><p>허니 비트</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/카토_마미" title="wikilink">카토 마미</a></p></td>
-<td><p>加藤雅美</p></td>
-<td><p>かとう まみ</p></td>
-<td></td>
-<td><p>센스업</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/코치_마사미" title="wikilink">코치 마사미</a></p></td>
-<td><p>河内麻沙美</p></td>
-<td><p>こうち まさみ</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>주식회사 MANNIE JAPAN INC.의 홍보담당<br />
-자신의 프로듀서 <a href="http://www.smirnasli.com/#/?lang=ja">SMIR NASLI</a>를 설립</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/코하라_하루카" title="wikilink">코하라 하루카</a></p></td>
-<td><p>小原春香</p></td>
-<td><p>こはら はるか</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀B</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/콘도_사야카" title="wikilink">콘도 사야카</a></p></td>
-<td><p>近藤さや香</p></td>
-<td><p>こんどう さやか</p></td>
-<td></td>
-<td><p>센트 포스</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/사토_유카리_(가수).md" title="wikilink">사토 유카리</a></p></td>
-<td><p>佐藤由加理</p></td>
-<td><p>さとう ゆかり</p></td>
-<td></td>
-<td><p>게이에이 프로덕션</p></td>
-<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀A</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/세리나_(1985년)" title="wikilink">세리나</a></p></td>
-<td><p>芹那</p></td>
-<td><p>せりな</p></td>
-<td></td>
-<td><p>엠즈 팩토리 / 업무 제휴 : A-PLUS</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/첸츄" title="wikilink">첸츄</a></p></td>
-<td><p>チェン・チュー</p></td>
-<td><p>-</p></td>
-<td></td>
-<td><p>호리프로</p></td>
-<td><p>자매 그룹 유일한 <a href="https://ko.wikipedia.org/wiki/중국인" title="wikilink">중국인</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/테즈카_마치코" title="wikilink">테즈카 마치코</a></p></td>
-<td><p>手束真知子</p></td>
-<td><p>てづか まちこ</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>구 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀KII</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/나츄.md" title="wikilink">나츄</a></p></td>
-<td><p>-</p></td>
-<td><p>なちゅ</p></td>
-<td></td>
-<td><p>와타나베 엔터테인먼트</p></td>
-<td><p>본명 : 竹川奈津子</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/니시쿠니하라_레이코" title="wikilink">니시쿠니하라 레이코</a></p></td>
 <td><p>西国原礼子</p></td>
 <td><p>にしくにはら れいこ</p></td>
@@ -178,6 +51,135 @@
 <td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀K</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/미츠이_히로미" title="wikilink">미츠이 히로미</a></p></td>
+<td><p>三ツ井裕美</p></td>
+<td><p>みつい ひろみ</p></td>
+<td></td>
+<td><p>office48</p></td>
+<td><p>댄스 스쿨의 강사</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/오오호리_메구미" title="wikilink">오오호리 메구미</a></p></td>
+<td><p>大堀恵</p></td>
+<td><p>おおほり めぐみ</p></td>
+<td></td>
+<td><p><a href="../Page/호리프로.md" title="wikilink">호리프로</a></p></td>
+<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀K</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/나츄.md" title="wikilink">나츄</a></p></td>
+<td><p>-</p></td>
+<td><p>なちゅ</p></td>
+<td></td>
+<td><p>와타나베 엔터테인먼트</p></td>
+<td><p>본명 : 竹川奈津子</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/콘도_사야카" title="wikilink">콘도 사야카</a></p></td>
+<td><p>近藤さや香</p></td>
+<td><p>こんどう さやか</p></td>
+<td></td>
+<td><p>센트 포스</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/오오코치_미사" title="wikilink">오오코치 미사</a></p></td>
+<td><p>大河内美紗</p></td>
+<td><p>おおこうち みさ</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/아키타_카즈에" title="wikilink">아키타 카즈에</a></p></td>
+<td><p>穐田和恵</p></td>
+<td><p>あきた かずえ</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>「新生せあらーずエンジェルとおいろけ先輩」 구성원[5]</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/우라노_카즈미" title="wikilink">우라노 카즈미</a></p></td>
+<td><p>浦野一美</p></td>
+<td><p>うらの かずみ</p></td>
+<td></td>
+<td><p>프로덕션 오기</p></td>
+<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀B</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/세리나_(1985년)" title="wikilink">세리나</a></p></td>
+<td><p>芹那</p></td>
+<td><p>せりな</p></td>
+<td></td>
+<td><p>엠즈 팩토리 / 업무 제휴 : A-PLUS</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/첸츄" title="wikilink">첸츄</a></p></td>
+<td><p>チェン・チュー</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>호리프로</p></td>
+<td><p>자매 그룹 유일한 <a href="https://ko.wikipedia.org/wiki/중국인" title="wikilink">중국인</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/테즈카_마치코" title="wikilink">테즈카 마치코</a></p></td>
+<td><p>手束真知子</p></td>
+<td><p>てづか まちこ</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>구 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀KII</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/카토_마미" title="wikilink">카토 마미</a></p></td>
+<td><p>加藤雅美</p></td>
+<td><p>かとう まみ</p></td>
+<td></td>
+<td><p>센스업</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/코치_마사미" title="wikilink">코치 마사미</a></p></td>
+<td><p>河内麻沙美</p></td>
+<td><p>こうち まさみ</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>주식회사 MANNIE JAPAN INC.의 홍보담당<br />
+자신의 프로듀서 <a href="http://www.smirnasli.com/#/?lang=ja">SMIR NASLI</a>를 설립</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/이마요시_메구미.md" title="wikilink">이마요시 메구미</a></p></td>
+<td><p>今吉めぐみ</p></td>
+<td><p>いまよし めぐみ</p></td>
+<td></td>
+<td><p>아크 프로듀션</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/우메다_하루카.md" title="wikilink">우메다 하루카</a></p></td>
+<td><p>梅田悠</p></td>
+<td><p>うめだ はるか</p></td>
+<td></td>
+<td><p>선 뮤직 프로덕션</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/코하라_하루카" title="wikilink">코하라 하루카</a></p></td>
+<td><p>小原春香</p></td>
+<td><p>こはら はるか</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀B</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/사토_유카리_(가수).md" title="wikilink">사토 유카리</a></p></td>
+<td><p>佐藤由加理</p></td>
+<td><p>さとう ゆかり</p></td>
+<td></td>
+<td><p>게이에이 프로덕션</p></td>
+<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀A</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/하타케야마_치사키" title="wikilink">하타케야마 치사키</a></p></td>
 <td><p>畠山智妃</p></td>
 <td><p>はたけやま ちさき</p></td>
@@ -186,12 +188,12 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미츠이_히로미" title="wikilink">미츠이 히로미</a></p></td>
-<td><p>三ツ井裕美</p></td>
-<td><p>みつい ひろみ</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/카이다_쥬리" title="wikilink">카이다 쥬리</a></p></td>
+<td><p>甲斐田樹里</p></td>
+<td><p>かいだ じゅり</p></td>
 <td></td>
-<td><p>office48</p></td>
-<td><p>댄스 스쿨의 강사</p></td>
+<td><p>허니 비트</p></td>
+<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -227,6 +229,54 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/이토_마나" title="wikilink">이토 마나</a></p></td>
+<td><p>伊東愛</p></td>
+<td><p>いとう まな</p></td>
+<td></td>
+<td><p>에이벡스 매니지먼트</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/KONAN.md" title="wikilink">KONAN</a></p></td>
+<td><p>-</p></td>
+<td><p>こなん</p></td>
+<td></td>
+<td><p>원에이트 프로모션</p></td>
+<td><p>전예명 : 虎南有美</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/다카하시_유이" title="wikilink">다카하시 유이</a></p></td>
+<td><p>たかはしゆい</p></td>
+<td><p>たかはし ゆい</p></td>
+<td></td>
+<td><p>엠즈 팩토리 / 업무 제휴 : 아키야마 오피스</p></td>
+<td><p>본명 · 전예명 : 高橋由衣</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/마츠시마_루미" title="wikilink">마츠시마 루미</a></p></td>
+<td><p>松島瑠美</p></td>
+<td><p>まつしま るみ</p></td>
+<td></td>
+<td><p>티후아나 엔터테인먼트</p></td>
+<td><p>현예명 : 木川るみ</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/키모토_유키" title="wikilink">키모토 유키</a></p></td>
+<td><p>木本夕貴</p></td>
+<td><p>きもと ゆうき</p></td>
+<td></td>
+<td><p>SMA 엔터테인먼트</p></td>
+<td><p>전예명 : 木本優</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/츠다_마리나" title="wikilink">츠다 마리나</a></p></td>
+<td><p>津田麻莉奈</p></td>
+<td><p>つだ まりな</p></td>
+<td></td>
+<td><p>호리프로</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/아키코_(배우).md" title="wikilink">아키코</a></p></td>
 <td><p>亜希子</p></td>
 <td><p>あきこ</p></td>
@@ -238,14 +288,6 @@
 연예활동은 프리</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이토_마나" title="wikilink">이토 마나</a></p></td>
-<td><p>伊東愛</p></td>
-<td><p>いとう まな</p></td>
-<td></td>
-<td><p>에이벡스 매니지먼트</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오오야마_아이미" title="wikilink">오오야마 아이미</a></p></td>
 <td><p>大山愛未</p></td>
 <td><p>おおやま あいみ</p></td>
@@ -253,39 +295,7 @@
 <td><p>크리에이트 프로모션</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/키모토_유키" title="wikilink">키모토 유키</a></p></td>
-<td><p>木本夕貴</p></td>
-<td><p>きもと ゆうき</p></td>
-<td></td>
-<td><p>SMA 엔터테인먼트</p></td>
-<td><p>전예명 : 木本優</p></td>
-</tr>
 <tr class="even">
-<td><p><a href="../Page/KONAN.md" title="wikilink">KONAN</a></p></td>
-<td><p>-</p></td>
-<td><p>こなん</p></td>
-<td></td>
-<td><p>원에이트 프로모션</p></td>
-<td><p>전예명 : 虎南有美</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/다카하시_유이" title="wikilink">다카하시 유이</a></p></td>
-<td><p>たかはしゆい</p></td>
-<td><p>たかはし ゆい</p></td>
-<td></td>
-<td><p>엠즈 팩토리 / 업무 제휴 : 아키야마 오피스</p></td>
-<td><p>본명 · 전예명 : 高橋由衣</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/츠다_마리나" title="wikilink">츠다 마리나</a></p></td>
-<td><p>津田麻莉奈</p></td>
-<td><p>つだ まりな</p></td>
-<td></td>
-<td><p>호리프로</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/나츠코_(1989년_8월).md" title="wikilink">나츠코</a></p></td>
 <td><p>奈津子</p></td>
 <td><p>なつこ</p></td>
@@ -294,7 +304,7 @@
 <td><p>아키코와 쌍둥이 (언니)<br />
 본명 : 大木奈津子</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/후쿠다_아카네" title="wikilink">후쿠다 아카네</a></p></td>
 <td><p>福田朱子</p></td>
 <td><p>ふくだ あかね</p></td>
@@ -302,7 +312,7 @@
 <td><p>필리 사운드 / 에이전시 : 랑데부</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/후지코소_유미" title="wikilink">후지코소 유미</a></p></td>
 <td><p>藤社優美</p></td>
 <td><p>ふじこそ ゆみ</p></td>
@@ -310,21 +320,13 @@
 <td><p>헨미 프로모션</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/호소다_미유우" title="wikilink">호소다 미유우</a></p></td>
 <td><p>細田海友</p></td>
 <td><p>ほそだ みゆう</p></td>
 <td></td>
 <td><p>에이벡스 매니지먼트</p></td>
 <td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠시마_루미" title="wikilink">마츠시마 루미</a></p></td>
-<td><p>松島瑠美</p></td>
-<td><p>まつしま るみ</p></td>
-<td></td>
-<td><p>티후아나 엔터테인먼트</p></td>
-<td><p>현예명 : 木川るみ</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -352,6 +354,22 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/미레이" title="wikilink">miray</a></p></td>
+<td><p>-</p></td>
+<td><p>ミレイ</p></td>
+<td></td>
+<td><p>EF RECORDS</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/정시연.md" title="wikilink">시연</a></p></td>
+<td><p>シヨン</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>에스아이 엔터테인먼트</p></td>
+<td><p>자매 그룹 유일한 <a href="../Page/한국인.md" title="wikilink">한국인</a></p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/코죠_세아라" title="wikilink">코죠 세아라</a></p></td>
 <td><p>光上せあら</p></td>
 <td><p>こうじょう せあら</p></td>
@@ -369,22 +387,6 @@
 <td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀A</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/시나하마_사에미.md" title="wikilink">시나하마 사에미</a></p></td>
-<td><p>尻無浜冴美</p></td>
-<td><p>しなはま さえみ</p></td>
-<td></td>
-<td><p>사디카</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/정시연.md" title="wikilink">시연</a></p></td>
-<td><p>シヨン</p></td>
-<td><p>-</p></td>
-<td></td>
-<td><p>에스아이 엔터테인먼트</p></td>
-<td><p>자매 그룹 유일한 <a href="../Page/한국인.md" title="wikilink">한국인</a></p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/토지마_하나" title="wikilink">토지마 하나</a></p></td>
 <td><p>戸島花</p></td>
 <td><p>とじま はな</p></td>
@@ -393,11 +395,11 @@
 <td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀A</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미레이" title="wikilink">miray</a></p></td>
-<td><p>-</p></td>
-<td><p>ミレイ</p></td>
+<td><p><a href="../Page/시나하마_사에미.md" title="wikilink">시나하마 사에미</a></p></td>
+<td><p>尻無浜冴美</p></td>
+<td><p>しなはま さえみ</p></td>
 <td></td>
-<td><p>EF RECORDS</p></td>
+<td><p>사디카</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -547,37 +549,37 @@
 
 ※ 재적 당시에 [AKS](http://www.akb48.co.jp/company)에 소속.
 
-| 소속 사무소                                                                              | 소속 구성원                                                                                                                                                                                                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [오오타 프로덕션](http://www.ohtapro.co.jp/)                                               | [노로 카요](https://web.archive.org/web/20130806142137/http://www.ohtapro.co.jp/talent/NoroKayo/)                                                                                                                                                                                                                                                            |
-| [프로덕션 오기](http://ogipro.com/)                                                       | [우라노 카즈미](https://web.archive.org/web/20111129200525/http://www.ogipro.com/talent/urano/)                                                                                                                                                                                                                                                                |
-| [호리프로](http://www.horipro.co.jp/)                                                   | [오오호리 메구미](https://web.archive.org/web/20160525070402/http://www.horipro.co.jp/ohorimegumi/), [첸츄](https://web.archive.org/web/20150201024211/http://www.horipro.co.jp/chencyu/), [츠다 마리나](http://www.horipro.co.jp/tsudamarina/)                                                                                                                        |
-| [와타나베 엔터테인먼트](http://www.watanabepro.co.jp/)                                        | [나츄](http://www.watanabepro.co.jp/mypage/artist/nachu.html)                                                                                                                                                                                                                                                                                              |
-| [게이에이 프로덕션](http://www.geiei.co.jp/)                                                | [사토 유카리](https://web.archive.org/web/20130805154910/http://geiei.co.jp/talent/yukari-sato)                                                                                                                                                                                                                                                               |
-| [엠즈 팩토리](https://web.archive.org/web/20111015185314/http://www.ms-showbiz.co.jp/)   | [세리나](https://web.archive.org/web/20120410235557/http://msshowbiz.mods.jp/archives/20)(업무 제휴 : [A-PLUS](http://www.aplus-japan.com/talent/serina/)), [다카하시 유이](https://web.archive.org/web/20120210102916/http://msshowbiz.mods.jp/archives/145)(업무 제휴 : [아키야마 오피스](https://web.archive.org/web/20140225175115/http://www.akiyamaoffice.jp/gtal_4.html)) |
-| [아사이 기획](http://www.asaikikaku.co.jp/)                                              | [하타케야마 치사키](https://web.archive.org/web/20110905204111/http://www.asaikikaku.co.jp/profile/hatakeyama/)                                                                                                                                                                                                                                                  |
-| [원에이트 프로모션](http://www.18pro.co.jp/)                                                | [아이카와 유키](https://web.archive.org/web/20111020154254/http://www.18pro.co.jp/html/model_yuuki_aikawa.htm), [코난](https://web.archive.org/web/20120420182625/http://www.18pro.co.jp/html/model_konan.html)                                                                                                                                                  |
-| [아시아 비즈니스 파트너](http://www.abp-inc.co.jp/)                                           | [나츠코](http://abp-inc.co.jp/member/natsuko)                                                                                                                                                                                                                                                                                                               |
-| [JME ais](http://ais-jme.com/)                                                      | [오오야마 아이미](https://web.archive.org/web/20121015141631/http://ais-jme.com/talent/oyamaaimi/)                                                                                                                                                                                                                                                              |
-| [에이벡스 매니지먼트](http://avex-management.jp/)                                            | [이토 마나](https://web.archive.org/web/20121021090137/http://d.avexnet.jp/ito-mana), [카이다 쥬리](https://web.archive.org/web/20121021090239/http://d.avexnet.jp/kaida-jyuri), [호소다 미유우](https://web.archive.org/web/20121021090054/http://d.avexnet.jp/hosoda-miyuu)                                                                                           |
-| [선 뮤직 브레인](http://www.sunmusic-brain.jp/)                                           | [코마타니 히토미](http://www.sunmusic-brain.jp/profile.php?id=184)                                                                                                                                                                                                                                                                                              |
-| [office48](http://office48.jp/)                                                     | 미츠이 히로미                                                                                                                                                                                                                                                                                                                                                  |
-| 에스아이 엔터테인먼트                                                                         | 시연                                                                                                                                                                                                                                                                                                                                                       |
-| [센스업](http://senseup-pro.net/)                                                      | [카토 마미](https://web.archive.org/web/20150524115424/http://www.senseup-pro.com/talent/kato-mami.html)                                                                                                                                                                                                                                                     |
-| [센트 포스](http://www.centforce.com/index.html)                                        | [콘도 사야카](http://www.centforce.com/profile/t_profile/kondousayaka.html)                                                                                                                                                                                                                                                                                   |
-| [SMA 엔터테인먼트](http://www.sma.co.jp/)                                                 | [키모토 유키](https://web.archive.org/web/20120404131354/http://www.sma.co.jp/artist/profile/index/210)                                                                                                                                                                                                                                                       |
-| [아크 프로듀션](http://arckproduction.com/)                                               | [이마요시 메구미](http://arckproduction.com/artists/talent_model/%e4%bb%8a%e5%90%89%e3%82%81%e3%81%90%e3%81%bf/)                                                                                                                                                                                                                                                |
-| [허니 비트](http://www.honeybeat.jp/)                                                   | [카이다 쥬리](https://web.archive.org/web/20150628042504/http://www.honeybeat.jp/artist/kaida.php)                                                                                                                                                                                                                                                            |
-| [사디카](http://www.sadeeca.jp/)                                                       | [시나하마 사에미](https://web.archive.org/web/20120423023859/http://www.sadeeca.jp/talent_profile/shinahama_s/profile.htm)                                                                                                                                                                                                                                      |
-| [TWIN PLANET](http://www.tp-co.jp/)                                                 | [코죠 세아라](https://web.archive.org/web/20130404011924/http://www.tp-co.jp/japanese/my-media_kojo.html)                                                                                                                                                                                                                                                     |
-| 필리 사운드, [랑데부](http://www.rendezvous.co.jp/)                                         | 후쿠다 아카네                                                                                                                                                                                                                                                                                                                                                  |
-| [드레스코드](http://dresscode-pro.com/)                                                  | [토지마 하나](http://dresscode-pro.com/tojima_hana2.html)                                                                                                                                                                                                                                                                                                     |
-| [티후아나 엔터테인먼트](https://web.archive.org/web/20140527083950/http://www.tifananet.com/) | 키카와 루미 (마츠시마 루미)                                                                                                                                                                                                                                                                                                                                         |
-| [선 뮤직 프로덕션](http://www.sunmusic.org/)                                               | [우메다 하루카](http://www.sunmusic.org/profile/umeda_haruka.html)                                                                                                                                                                                                                                                                                             |
-| [헨미 프로모션](https://web.archive.org/web/20141218134607/http://henmi-pro.co.jp/)       | [후지코소 유미](https://web.archive.org/web/20150924025700/http://www.henmi-pro.co.jp/management/yumi_fujikoso/)                                                                                                                                                                                                                                               |
-| [크리에이트 프로모션](http://www.create-promotion.co.jp/)                                    | 오오야마 아이미                                                                                                                                                                                                                                                                                                                                                 |
-| EF RECORDS                                                                          | [miray](https://www.miray-singer.com/)                                                                                                                                                                                                                                                                                                                   |
-|                                                                                     |                                                                                                                                                                                                                                                                                                                                                          |
+| 소속 사무소                                                                              | 소속 구성원                                                                                                                                                                                                                                                                                                                                                                                          |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [오오타 프로덕션](http://www.ohtapro.co.jp/)                                               | [노로 카요](https://web.archive.org/web/20130806142137/http://www.ohtapro.co.jp/talent/NoroKayo/)                                                                                                                                                                                                                                                                                                   |
+| [프로덕션 오기](http://ogipro.com/)                                                       | [우라노 카즈미](https://web.archive.org/web/20111129200525/http://www.ogipro.com/talent/urano/)                                                                                                                                                                                                                                                                                                       |
+| [호리프로](http://www.horipro.co.jp/)                                                   | [오오호리 메구미](https://web.archive.org/web/20160525070402/http://www.horipro.co.jp/ohorimegumi/), [첸츄](https://web.archive.org/web/20150201024211/http://www.horipro.co.jp/chencyu/), [츠다 마리나](https://web.archive.org/web/20150704031823/http://www.horipro.co.jp/tsudamarina/)                                                                                                                    |
+| [와타나베 엔터테인먼트](http://www.watanabepro.co.jp/)                                        | [나츄](http://www.watanabepro.co.jp/mypage/artist/nachu.html)                                                                                                                                                                                                                                                                                                                                     |
+| [게이에이 프로덕션](http://www.geiei.co.jp/)                                                | [사토 유카리](https://web.archive.org/web/20130805154910/http://geiei.co.jp/talent/yukari-sato)                                                                                                                                                                                                                                                                                                      |
+| [엠즈 팩토리](https://web.archive.org/web/20111015185314/http://www.ms-showbiz.co.jp/)   | [세리나](https://web.archive.org/web/20120410235557/http://msshowbiz.mods.jp/archives/20)(업무 제휴 : [A-PLUS](https://web.archive.org/web/20110624221606/http://aplus-japan.com/talent/serina/)), [다카하시 유이](https://web.archive.org/web/20120210102916/http://msshowbiz.mods.jp/archives/145)(업무 제휴 : [아키야마 오피스](https://web.archive.org/web/20140225175115/http://www.akiyamaoffice.jp/gtal_4.html)) |
+| [아사이 기획](http://www.asaikikaku.co.jp/)                                              | [하타케야마 치사키](https://web.archive.org/web/20110905204111/http://www.asaikikaku.co.jp/profile/hatakeyama/)                                                                                                                                                                                                                                                                                         |
+| [원에이트 프로모션](http://www.18pro.co.jp/)                                                | [아이카와 유키](https://web.archive.org/web/20111020154254/http://www.18pro.co.jp/html/model_yuuki_aikawa.htm), [코난](https://web.archive.org/web/20120420182625/http://www.18pro.co.jp/html/model_konan.html)                                                                                                                                                                                         |
+| [아시아 비즈니스 파트너](http://www.abp-inc.co.jp/)                                           | [나츠코](https://web.archive.org/web/20151117014055/http://abp-inc.co.jp/member/natsuko)                                                                                                                                                                                                                                                                                                           |
+| [JME ais](http://ais-jme.com/)                                                      | [오오야마 아이미](https://web.archive.org/web/20121015141631/http://ais-jme.com/talent/oyamaaimi/)                                                                                                                                                                                                                                                                                                     |
+| [에이벡스 매니지먼트](http://avex-management.jp/)                                            | [이토 마나](https://web.archive.org/web/20121021090137/http://d.avexnet.jp/ito-mana), [카이다 쥬리](https://web.archive.org/web/20121021090239/http://d.avexnet.jp/kaida-jyuri), [호소다 미유우](https://web.archive.org/web/20121021090054/http://d.avexnet.jp/hosoda-miyuu)                                                                                                                                  |
+| [선 뮤직 브레인](http://www.sunmusic-brain.jp/)                                           | [코마타니 히토미](https://web.archive.org/web/20111201173044/http://www.sunmusic-brain.jp/profile.php?id=184)                                                                                                                                                                                                                                                                                          |
+| [office48](https://web.archive.org/web/20110430180316/http://office48.jp/)          | 미츠이 히로미                                                                                                                                                                                                                                                                                                                                                                                         |
+| 에스아이 엔터테인먼트                                                                         | 시연                                                                                                                                                                                                                                                                                                                                                                                              |
+| [센스업](http://senseup-pro.net/)                                                      | [카토 마미](https://web.archive.org/web/20150524115424/http://www.senseup-pro.com/talent/kato-mami.html)                                                                                                                                                                                                                                                                                            |
+| [센트 포스](http://www.centforce.com/index.html)                                        | [콘도 사야카](http://www.centforce.com/profile/t_profile/kondousayaka.html)                                                                                                                                                                                                                                                                                                                          |
+| [SMA 엔터테인먼트](http://www.sma.co.jp/)                                                 | [키모토 유키](https://web.archive.org/web/20120404131354/http://www.sma.co.jp/artist/profile/index/210)                                                                                                                                                                                                                                                                                              |
+| [아크 프로듀션](http://arckproduction.com/)                                               | [이마요시 메구미](http://arckproduction.com/artists/talent_model/%e4%bb%8a%e5%90%89%e3%82%81%e3%81%90%e3%81%bf/)                                                                                                                                                                                                                                                                                       |
+| [허니 비트](http://www.honeybeat.jp/)                                                   | [카이다 쥬리](https://web.archive.org/web/20150628042504/http://www.honeybeat.jp/artist/kaida.php)                                                                                                                                                                                                                                                                                                   |
+| [사디카](http://www.sadeeca.jp/)                                                       | [시나하마 사에미](https://web.archive.org/web/20120423023859/http://www.sadeeca.jp/talent_profile/shinahama_s/profile.htm)                                                                                                                                                                                                                                                                             |
+| [TWIN PLANET](http://www.tp-co.jp/)                                                 | [코죠 세아라](https://web.archive.org/web/20130404011924/http://www.tp-co.jp/japanese/my-media_kojo.html)                                                                                                                                                                                                                                                                                            |
+| 필리 사운드, [랑데부](http://www.rendezvous.co.jp/)                                         | 후쿠다 아카네                                                                                                                                                                                                                                                                                                                                                                                         |
+| [드레스코드](http://dresscode-pro.com/)                                                  | [토지마 하나](http://dresscode-pro.com/tojima_hana2.html)                                                                                                                                                                                                                                                                                                                                            |
+| [티후아나 엔터테인먼트](https://web.archive.org/web/20140527083950/http://www.tifananet.com/) | 키카와 루미 (마츠시마 루미)                                                                                                                                                                                                                                                                                                                                                                                |
+| [선 뮤직 프로덕션](http://www.sunmusic.org/)                                               | [우메다 하루카](http://www.sunmusic.org/profile/umeda_haruka.html)                                                                                                                                                                                                                                                                                                                                    |
+| [헨미 프로모션](https://web.archive.org/web/20141218134607/http://henmi-pro.co.jp/)       | [후지코소 유미](https://web.archive.org/web/20150924025700/http://www.henmi-pro.co.jp/management/yumi_fujikoso/)                                                                                                                                                                                                                                                                                      |
+| [크리에이트 프로모션](http://www.create-promotion.co.jp/)                                    | 오오야마 아이미                                                                                                                                                                                                                                                                                                                                                                                        |
+| EF RECORDS                                                                          | [miray](https://www.miray-singer.com/)                                                                                                                                                                                                                                                                                                                                                          |
+|                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ### 구성원 구성 추이
 
@@ -928,7 +930,7 @@
   - [SKE48](../Page/SKE48.md "wikilink")
   - [NMB48](../Page/NMB48.md "wikilink")
   - [HKT48](../Page/HKT48.md "wikilink")
-  - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
+  - [NGT48](../Page/NGT48.md "wikilink")
   - [STU48](../Page/STU48.md "wikilink")
 
 <!-- end list -->

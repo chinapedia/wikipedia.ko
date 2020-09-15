@@ -11,26 +11,26 @@
 
   -
     퓨처스 나눔 - [SK 와이번스](../Page/SK_와이번스.md "wikilink"), [LG 트윈스](../Page/LG_트윈스.md "wikilink"), [두산 베어스](../Page/두산_베어스.md "wikilink"), [고양 히어로즈](../Page/고양_히어로즈.md "wikilink"), [경찰](../Page/경찰_야구단.md "wikilink"), [kt 위즈](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink")
-    퓨처스 드림 - [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink"), [상무](../Page/상무_피닉스_\(야구\).md "wikilink"), [한화 이글스](../Page/한화_이글스.md "wikilink"), [NC 다이노스](../Page/NC_다이노스.md "wikilink")
+    퓨처스 드림 - [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink"), [상무](../Page/상무_피닉스_\(야구\).md "wikilink"), [한화 이글스](../Page/한화_이글스.md "wikilink"), [창원 다이노스](../Page/창원_다이노스.md "wikilink")
 
 ## 퓨처스 올스타전 MVP
 
-| 시즌    | MVP                                                                                  | 소속팀                                                           | 소속리그   |
-| ----- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------- | ------ |
-| 2007년 | [채태인](../Page/채태인.md "wikilink")                                                     | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 남부리그   |
-| 2008년 | [전준우](../Page/전준우.md "wikilink")                                                     | [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")                      |        |
-| 2009년 | [이명환](https://ko.wikipedia.org/wiki/이명환_\(야구_선수\) "wikilink")                        | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") |        |
-| 2010년 | [김종호](../Page/김종호_\(1984년\).md "wikilink")                                           | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      |        |
-| 2011년 | [김남석](../Page/김재율.md "wikilink")                                                     | [경찰 야구단](../Page/경찰_야구단.md "wikilink")                        | 북부리그   |
-| 2012년 | 우천 취소                                                                                |                                                               |        |
-| 2013년 | [정진호](../Page/정진호_\(1988년\).md "wikilink")                                           | [상무](../Page/상무_피닉스_\(야구\).md "wikilink")                     | 남부리그   |
-| 2014년 | 우천 취소                                                                                |                                                               |        |
-| 2015년 | [하주석](../Page/하주석.md "wikilink")                                                     | [상무](../Page/상무_피닉스_\(야구\).md "wikilink")                     | 드림 올스타 |
-| 2016년 | [신성현](../Page/신성현.md "wikilink")                                                     | [한화 이글스](../Page/한화_이글스.md "wikilink")                        | 남부리그   |
-| 2017년 | [최민제](https://ko.wikipedia.org/wiki/최민제 "wikilink")                                  | [SK 와이번스](../Page/SK_와이번스.md "wikilink")                      |        |
-| 2018년 | [이호연](../Page/이호연.md "wikilink")                                                     | [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")                      |        |
-| 2019년 | 우천 취소                                                                                |                                                               |        |
-| 2020년 | [코로나바이러스감염증-19 범유행으로](https://ko.wikipedia.org/wiki/코로나바이러스감염증-19_범유행 "wikilink") 취소 |                                                               |        |
+| 시즌    | MVP                                                           | 소속팀                                                           | 소속리그   |
+| ----- | ------------------------------------------------------------- | ------------------------------------------------------------- | ------ |
+| 2007년 | [채태인](../Page/채태인.md "wikilink")                              | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      | 남부리그   |
+| 2008년 | [전준우](../Page/전준우.md "wikilink")                              | [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")                      |        |
+| 2009년 | [이명환](https://ko.wikipedia.org/wiki/이명환_\(야구_선수\) "wikilink") | [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") |        |
+| 2010년 | [김종호](../Page/김종호_\(1984년\).md "wikilink")                    | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")                      |        |
+| 2011년 | [김남석](../Page/김재율.md "wikilink")                              | [경찰 야구단](../Page/경찰_야구단.md "wikilink")                        | 북부리그   |
+| 2012년 | 우천 취소                                                         |                                                               |        |
+| 2013년 | [정진호](../Page/정진호_\(1988년\).md "wikilink")                    | [상무](../Page/상무_피닉스_\(야구\).md "wikilink")                     | 남부리그   |
+| 2014년 | 우천 취소                                                         |                                                               |        |
+| 2015년 | [하주석](../Page/하주석.md "wikilink")                              | [상무](../Page/상무_피닉스_\(야구\).md "wikilink")                     | 드림 올스타 |
+| 2016년 | [신성현](../Page/신성현.md "wikilink")                              | [한화 이글스](../Page/한화_이글스.md "wikilink")                        | 남부리그   |
+| 2017년 | [최민제](https://ko.wikipedia.org/wiki/최민제 "wikilink")           | [SK 와이번스](../Page/SK_와이번스.md "wikilink")                      |        |
+| 2018년 | [이호연](../Page/이호연.md "wikilink")                              | [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")                      |        |
+| 2019년 | 우천 취소                                                         |                                                               |        |
+| 2020년 | [코로나19 범유행으로](../Page/코로나19_범유행.md "wikilink") 취소             |                                                               |        |
 
 ## 제1회 한국프로야구 퓨처스 올스타전
 
@@ -114,7 +114,7 @@
 
 ## 제14회 KBO 퓨처스 올스타전
 
-[코로나바이러스감염증-19 범유행으로](https://ko.wikipedia.org/wiki/코로나바이러스감염증-19_범유행 "wikilink") 취소되었다.
+[코로나19 범유행으로](../Page/코로나19_범유행.md "wikilink") 취소되었다.
 
 ## 읽어보기
 

@@ -23,6 +23,7 @@
   - 2016년 11월 : 현대증권 완전자회사 편입
   - 2017년 1월 : 현대증권과 KB투자증권 합병으로 통합 KB증권 출범
   - 2017년 7월 : KB캐피탈, KB손해보험 완전자회사 편입
+  - 2020년 9월 : 푸르덴셜생명보험 자회사 편입
 
 ## 역대 회장
 
@@ -49,7 +50,7 @@
   - [KB국민은행](../Page/KB국민은행.md "wikilink") ([KB국민은행 홈페이지](http://www.kbstar.co.kr))
   - [KB증권](../Page/KB증권.md "wikilink") ([KB증권 홈페이지](https://web.archive.org/web/20161220160552/https://www.hdable.co.kr/go.able))
   - [KB손해보험](../Page/KB손해보험.md "wikilink") ([KB손해보험 홈페이지](http://www.kbinsure.co.kr))
-  - [KB국민카드](../Page/KB국민카드.md "wikilink") ([KB국민카드 홈페이지](http://www.kbcard.com))
+  - [KB국민카드](../Page/KB국민카드.md "wikilink") ([KB국민카드 홈페이지](https://web.archive.org/web/20110225002727/http://kbcard.com/))
   - [KB생명보험](../Page/KB생명보험.md "wikilink") ([KB생명보험 홈페이지](http://www.kbli.co.kr))
   - [KB자산운용](https://ko.wikipedia.org/wiki/KB자산운용 "wikilink") ([KB자산운용 홈페이지](http://www.kbam.co.kr))
   - [KB캐피탈](https://ko.wikipedia.org/wiki/KB캐피탈 "wikilink") ([KB캐피탈 홈페이지](http://www.kbcapital.co.kr))
@@ -58,6 +59,6 @@
   - [KB인베스트먼트](https://ko.wikipedia.org/wiki/KB인베스트먼트 "wikilink") ([KB인베스트먼트 홈페이지](http://www.kbic.co.kr/))
   - [KB신용정보](https://ko.wikipedia.org/wiki/KB신용정보 "wikilink") ([KB신용정보 홈페이지](http://www.kbci.co.kr))
   - [KB데이타시스템](https://ko.wikipedia.org/wiki/KB데이타시스템 "wikilink") ([KB데이타시스템 홈페이지](https://web.archive.org/web/20121216192145/http://www.kds.co.kr/))
-  - [공항철도](../Page/공항철도_\(기업\).md "wikilink")(KB공항철도사모특별자산투자신탁) ([공항철도 홈페이지](http://www.arex.or.kr))
+  - [공항철도](../Page/공항철도_\(기업\).md "wikilink")(KB공항철도사모특별자산투자신탁) ([공항철도 홈페이지](https://web.archive.org/web/20200428235346/https://www.arex.or.kr/))
 
 [KB금융그룹](https://ko.wikipedia.org/wiki/분류:KB금융그룹 "wikilink") [분류:2008년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2008년_설립된_기업 "wikilink") [분류:대한민국의 금융지주사](https://ko.wikipedia.org/wiki/분류:대한민국의_금융지주사 "wikilink") [분류:대한민국의 기업집단](https://ko.wikipedia.org/wiki/분류:대한민국의_기업집단 "wikilink")

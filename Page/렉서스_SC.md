@@ -15,7 +15,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Lexus-SC430-1.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:06-07_Lexus_SC430.jpg "wikilink")
 
-[2001년](../Page/2001년.md "wikilink")에 출시된 2세대는 [쿠페](../Page/쿠페.md "wikilink")였던 1세대와 달리, 전동 개폐식 알루미늄 하드 탑을 갖춘 [컨버터블](../Page/컨버터블.md "wikilink")로 탈바꿈했다. 4인승이나, 실제로는 뒷좌석에 앉기 힘들 정도로 매우 좁다. 당시 판매되고 있던 [LS(3세대)와](https://ko.wikipedia.org/wiki/렉서스_LS#3세대 "wikilink") 같은 V8 4,300cc 엔진이 장착되며, SC430으로도 알려져 있다. [일본](../Page/일본.md "wikilink")에서는 [2005년](../Page/2005년.md "wikilink")에 [렉서스](../Page/렉서스.md "wikilink")가 런칭되어 [토요타 소어러라는](../Page/토요타_소어러.md "wikilink") 차명은 소멸되고, 해외에서와 동일하게 SC로 명칭이 변경되어 판매되었다. [2010년](../Page/2010년.md "wikilink")에 후속 차종 없이 단종되었고, 현재 SC의 자리는 [RC와](../Page/렉서스_RC.md "wikilink") [LC가](https://ko.wikipedia.org/wiki/렉서스_LC "wikilink") 채우고 있다. USB의 보급으로 이를 마지막으로 자동차 카세트 튜너는 역사 속으로 사라졌다.
+[2001년](../Page/2001년.md "wikilink")에 출시된 2세대는 [쿠페](../Page/쿠페.md "wikilink")였던 1세대와 달리, 전동 개폐식 알루미늄 하드 탑을 갖춘 [컨버터블](../Page/컨버터블.md "wikilink")로 탈바꿈했다. 4인승이나, 실제로는 뒷좌석에 앉기 힘들 정도로 매우 좁다. 당시 판매되고 있던 [LS(3세대)와](https://ko.wikipedia.org/wiki/렉서스_LS#3세대 "wikilink") 같은 V8 4,300cc 엔진이 장착되며, SC430으로도 알려져 있다. [일본](../Page/일본.md "wikilink")에서는 [2005년](../Page/2005년.md "wikilink")에 [렉서스](../Page/렉서스.md "wikilink")가 런칭되어 [토요타 소어러라는](../Page/토요타_소어러.md "wikilink") 차명은 소멸되고, 해외에서와 동일하게 SC로 명칭이 변경되어 판매되었다. [2010년](../Page/2010년.md "wikilink")에 후속 차종 없이 단종되었고, 현재 SC의 자리는 [RC와](../Page/렉서스_RC.md "wikilink") [LC가](https://ko.wikipedia.org/wiki/렉서스_LC "wikilink") 채우고 있다.
 
 {{-}}
 

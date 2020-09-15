@@ -3,7 +3,7 @@
 
 [185px](https://ko.wikipedia.org/wiki/파일:BookerTWashington-Cheynes.LOC.jpg "wikilink") **부커 T. 워싱턴**(Booker T. Washington, [1856년](../Page/1856년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") \~ [1915년](../Page/1915년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink"))은 1890년부터 죽을 때까지 [미국](../Page/미국.md "wikilink")의 교육자이자 연설가, 흑인 사회의 대표적인 리더로서 활동을 했다.
 
-그는 노예로 태어나 1865년의 [남북전쟁](https://ko.wikipedia.org/wiki/남북전쟁 "wikilink") 이후, 자유로운 몸이 되어 흑인의 경제 자립을 돕기 위해 앨라배마에 [터스키기 기술학교](https://ko.wikipedia.org/wiki/터스키기_기술학교 "wikilink")(Tuskegee Institute)를 설립하였다. 이것은 흑인들이 흑백 평등의 즉각 실현을 위한 투쟁을 포기하고, [백인 우월](https://ko.wikipedia.org/wiki/백인_우월 "wikilink") 체제를 받아들이는 데서 해결점을 찾으려는 타협적인 태도였다. 워싱턴의 타협 정신은 1895년의 애틀랜타 목화 박람회에서 행한 유명한 '손가락 연설'에서 나타난다. "흑인과 백인은 손가락처럼 갈라져 있다. 그는 그렇지만 서로의 발전을 위해 하나로 합쳐질 수 있다"고 그는 말하였다. 나중에 급진적인 흑인 민족주의자들은 그의 태도를 가리켜 백인에게 순순히 복종하는 '톰 아저씨의 생각(Uncle Tomism)'이라고 비판하였다. 하지만 그 당시 흑인들에게는 다른 방법이 없었다. 국민의 압도적 다수가 흑인을 제2급의 시민으로 깔보고 있는 사회에서 흑인들이 선택할 방법은 아무것도 없었던 것이다.
+그는 노예로 태어나 1865년의 [남북전쟁](https://ko.wikipedia.org/wiki/남북전쟁 "wikilink") 이후, 자유로운 몸이 되어 흑인의 경제 자립을 돕기 위해 앨라배마에 [터스키기 기술학교](https://ko.wikipedia.org/wiki/터스키기_기술학교 "wikilink")(Tuskegee Institute)를 설립하였다. 이것은 흑인들이 흑백 평등의 즉각 실현을 위한 투쟁을 포기하고, [백인 우월](../Page/백인_우월주의.md "wikilink") 체제를 받아들이는 데서 해결점을 찾으려는 타협적인 태도였다. 워싱턴의 타협 정신은 1895년의 애틀랜타 목화 박람회에서 행한 유명한 '손가락 연설'에서 나타난다. "흑인과 백인은 손가락처럼 갈라져 있다. 그는 그렇지만 서로의 발전을 위해 하나로 합쳐질 수 있다"고 그는 말하였다. 나중에 급진적인 흑인 민족주의자들은 그의 태도를 가리켜 백인에게 순순히 복종하는 '톰 아저씨의 생각(Uncle Tomism)'이라고 비판하였다. 하지만 그 당시 흑인들에게는 다른 방법이 없었다. 국민의 압도적 다수가 흑인을 제2급의 시민으로 깔보고 있는 사회에서 흑인들이 선택할 방법은 아무것도 없었던 것이다.
 
 ## 경력
 
@@ -15,7 +15,7 @@
 
 노예해방 이전의 마지막 세대의 대표자 격이었던 워싱턴은 전후 남부사회에서 해방된 흑인들의 교육문제에 관한 믿을 만한 주창자로 널리 인식되었다. 생애 마지막 20년 동안 그는 전국적으로 지지자들을 거느리고 있었는데, 그중에는 흑인 교육자, 목사, 신문편집자, 사업가도 있었고, 특히 사회문제 및 교육문제에 관해 자유주의적인 경향을 가진 자들이 그를 지지했다. 그에 대한 비판자들은 그의 지지자들을 "터스키기파"라고 불렀다. 그는 정치, 자선사업 및 교육분야에서 전국적인 지도자들과 교류를 가졌고 미국의 주요대학들로부터 명예학위를 받았다.
 
-말년에 워싱턴은 1909년에 창설된 '전미 유색인 지위향상 협회'의 지도자들로부터 비판을 받았다. 듀보이스(W. E. B. Du Bois)는 [공민권](https://ko.wikipedia.org/wiki/공민권 "wikilink")을 획득하기 위하여 정치적 행동에 나설 것을 제안했다. 그는 워싱턴을 "위대한 순응주의자"라고 불렀다. 이에 대한 워싱턴의 반응은 흑인들은 수적으로 열세이므로 대결은 재앙을 가져올 것이라는 것이었다. 그는 협력적인 백인들에게 협조하는 것이 결국 인종주의를 극복하는 유일한 길이라고 믿었다.
+말년에 워싱턴은 1909년에 창설된 [전미 흑인 지위 향상 협회의](https://ko.wikipedia.org/wiki/전미_흑인_지위_향상_협회 "wikilink") 지도자들로부터 비판을 받았다. 듀보이스(W. E. B. Du Bois)는 [공민권](https://ko.wikipedia.org/wiki/공민권 "wikilink")을 획득하기 위하여 정치적 행동에 나설 것을 제안했다. 그는 워싱턴을 "위대한 순응주의자"라고 불렀다. 이에 대한 워싱턴의 반응은 흑인들은 수적으로 열세이므로 대결은 재앙을 가져올 것이라는 것이었다. 그는 협력적인 백인들에게 협조하는 것이 결국 인종주의를 극복하는 유일한 길이라고 믿었다.
 
 워싱턴은 [인종차별](https://ko.wikipedia.org/wiki/인종차별 "wikilink") 및 흑인들에 대한 [선거권](../Page/선거권.md "wikilink") 박탈에 대한 법률적 도전에 은밀하게 큰 기여를 했다. 그는 인종차별 시대의 사회적 현실에 교묘하게 적응함으로써 더 많은 것을 얻을 수 있다고 믿었다.
 
@@ -56,9 +56,9 @@
 
 ## 죽음
 
-워싱턴은 자주 여행을 다니고 광범위한 일을 했지만, 터스키기의 교장직은 지속했다. 그는 급속도로 건강이 악화되어 [뉴욕](../Page/뉴욕.md "wikilink")에서 쓰러졌고, 터스키기 자택으로 실려와서, 1915년 11월 14일에 59세의 나이로 사망했다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Booker_T_Washington_burial_3c11868r.jpg "wikilink") 워싱턴은 자주 여행을 다니고 광범위한 일을 했지만, 터스키기의 교장직은 지속했다. 그는 급속도로 건강이 악화되어 [뉴욕](../Page/뉴욕.md "wikilink")에서 쓰러졌고, 터스키기 자택으로 실려와서, 1915년 11월 14일에 59세의 나이로 사망했다.
 
-그의 사인은 명확하게 밝혀지지는 않았지만 아마도 신경쇠약과 [동맥경화증](../Page/동맥경화증.md "wikilink")이었을 것이다. 그는 터스키기 대학 부속 예배당 근처에 묻혔다.[오른쪽](https://ko.wikipedia.org/wiki/파일:Booker_T_Washington_burial_3c11868r.jpg "wikilink")
+그의 사인은 명확하게 밝혀지지는 않았지만 아마도 신경쇠약과 [동맥경화증](../Page/동맥경화증.md "wikilink")이었을 것이다. 그는 터스키기 대학 부속 예배당 근처에 묻혔다.
 
 당시에 그의 죽음은 과로로 악화된 [울혈성 심부전](../Page/심부전.md "wikilink") 때문인 것으로 여겨졌다. 2006년 3월에 유족들의 동의하에 의료기록에 대한 조사가 이루어져서 그의 사인이 정상수치의 2배가 넘는 [고혈압](https://ko.wikipedia.org/wiki/고혈압 "wikilink") 탓인 것으로 밝혀졌다.
 
@@ -66,7 +66,7 @@
 
 ## 명예학위와 기념비들
 
-워싱턴은 미국사회에 공헌한 대가로 1896년에 [하버드 대학으로부터](https://ko.wikipedia.org/wiki/하버드_대학 "wikilink") 명예석사학위를 받았고, 1901년에는 [다트머스 대학으로부터](https://ko.wikipedia.org/wiki/다트머스_대학 "wikilink") 명예 박사학위를 받았다. [왼쪽](https://ko.wikipedia.org/wiki/파일:Booker_T_Washington_1940_Issue-10c.jpg "wikilink") [우표](../Page/우표.md "wikilink")에 나온 워싱턴의 자화상\]\]
+워싱턴은 미국사회에 공헌한 대가로 1896년에 [하버드 대학으로부터](https://ko.wikipedia.org/wiki/하버드_대학 "wikilink") 명예석사학위를 받았고, 1901년에는 [다트머스 대학으로부터](https://ko.wikipedia.org/wiki/다트머스_대학 "wikilink") 명예 박사학위를 받았다. [오른쪽](https://ko.wikipedia.org/wiki/파일:Booker_T_Washington_1940_Issue-10c.jpg "wikilink") [우표](../Page/우표.md "wikilink")에 나온 워싱턴의 자화상\]\]
 
 1901년에 [시어도어 루즈벨트](https://ko.wikipedia.org/wiki/시어도어_루즈벨트 "wikilink") 대통령의 초대를 받고 백악관을 방문했던 최초의 흑인이었다. 2008년 대통령 선거 직후에 패배한 공화당 후보 [존 맥케인](https://ko.wikipedia.org/wiki/존_맥케인 "wikilink") 상원의원은 "한 세기 전의 워싱턴의 백악관 방문이 씨앗이 되어 최초의 흑인 대통령인 [버락 오바마로](../Page/버락_오바마.md "wikilink") 결실을 맺었다"고 말했다.
 
@@ -101,7 +101,7 @@
 
   - [Booker T. Washington Delivers the 1895 Atlanta "Compromise" Speech](http://historymatters.gmu.edu/d/39/) from the American Social History Project / Center for Media and Learning (Graduate Center, CUNY) and the Center for History and New Media (George Mason University)
 
-  - [Booker T. Washington statue at Tuskegee University](http://www.dcmemorials.com/index_indiv0008405.htm)
+  - [Booker T. Washington statue at Tuskegee University](https://web.archive.org/web/20090220205140/http://www.dcmemorials.com/index_indiv0008405.htm)
 
   -
   - [The paper of Booker T. washington](https://web.archive.org/web/20010428130632/http://www.historycooperative.org/btw/)

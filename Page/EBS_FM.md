@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EBS FM](https://ko.wikipedia.org/wiki/EBS_FM).
 
 
-**EBS FM**은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")에서 운영·방송하는 FM [라디오](../Page/라디오.md "wikilink") 방송 채널이다. 주로 [어학](https://ko.wikipedia.org/wiki/어학 "wikilink"), [교육](../Page/교육.md "wikilink"), [교양](../Page/교양.md "wikilink") 프로그램 등을 방송한다. 아침에는 어학, 심야에는 주로 문학 관련 프로그램을 중점적으로 편성하므로, [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")의 송출망을 공유하고 있다. 채널 특성상 지역방송과 상업광고가 없고 24시간 방송이 아니며, 오전 5시부터 다음 날 오전 2시까지만 방송한다.
+**EBS FM**은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")에서 운영·방송하는 FM [라디오](../Page/라디오.md "wikilink") 방송 채널이다. 주로 [어학](https://ko.wikipedia.org/wiki/어학 "wikilink"), [교육](../Page/교육.md "wikilink"), [교양](../Page/교양.md "wikilink") 프로그램 등을 방송한다. 아침에는 어학, 심야에는 주로 문학 관련 프로그램을 중점적으로 편성하므로, [KBS의](../Page/한국방송공사.md "wikilink") 송출망을 공유하고 있다. 채널 특성상 지역방송과 상업광고가 없고 24시간 방송이 아니며, 오전 5시부터 다음 날 오전 2시까지만 방송한다.
 
 ## 정규방송 시간
 
@@ -54,7 +54,10 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
   - [모닝 스페셜](https://ko.wikipedia.org/wiki/모닝_스페셜 "wikilink")
   - [인도네시아어로 배우는 TOPIK Ⅰ](https://ko.wikipedia.org/wiki/인도네시아어로_배우는_TOPIK_Ⅰ "wikilink")
   - [포켓 중국어](https://ko.wikipedia.org/wiki/포켓_중국어 "wikilink")
+  - [생생 중국어](https://ko.wikipedia.org/wiki/생생_중국어 "wikilink")
+  - [고고 중국어](https://ko.wikipedia.org/wiki/고고_중국어 "wikilink")
   - [김과장, 영어로 날다](https://ko.wikipedia.org/wiki/김과장,_영어로_날다 "wikilink")
+  - [권주현의 진짜 영국 영어](https://ko.wikipedia.org/wiki/권주현의_진짜_영국_영어 "wikilink")
   - [김대균 토익킹](https://ko.wikipedia.org/wiki/김대균_토익킹 "wikilink")
   - [입이 트이는 영어](https://ko.wikipedia.org/wiki/입이_트이는_영어 "wikilink")
   - [귀가 트이는 영어](https://ko.wikipedia.org/wiki/귀가_트이는_영어 "wikilink")
@@ -65,24 +68,13 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
 
 #### 교양
 
-  - [詩 콘서트](https://ko.wikipedia.org/wiki/시_콘서트 "wikilink") (책 읽어주는 라디오, [정애리](../Page/정애리.md "wikilink") 진행)
-  - [인피니트 성종의 미드나잇 블랙](https://ko.wikipedia.org/wiki/인피니트_성종의_미드나잇_블랙 "wikilink") ([성종](../Page/이성종.md "wikilink") 진행)
-  - [책으로 행복한 12시](https://ko.wikipedia.org/wiki/책으로_행복한_12시 "wikilink") (책 읽어주는 라디오, [김현주](../Page/김현주_\(1964년\).md "wikilink") 진행)
+  - [최수진의 모닝스페셜](https://ko.wikipedia.org/wiki/최수진의_모닝스페셜 "wikilink") ([최수진](https://ko.wikipedia.org/wiki/최수진 "wikilink") 진행)
+  - [오천만의 재무상담](https://ko.wikipedia.org/wiki/오천만의_재무상담 "wikilink")
   - [세계음악기행](../Page/세계음악기행.md "wikilink") ([이승열](../Page/이승열.md "wikilink") 진행)
-  - [다문화 음악여행](https://ko.wikipedia.org/wiki/다문화_음악여행 "wikilink") ([이금희](../Page/이금희_\(방송인\).md "wikilink") 진행)
-  - [라디오 행복한 교육세상](https://ko.wikipedia.org/wiki/라디오_행복한_교육세상 "wikilink") ([문지애](../Page/문지애.md "wikilink") 진행)
-  - [EBS 공감시대](https://ko.wikipedia.org/wiki/EBS_공감시대 "wikilink") ([고운기](../Page/고운기.md "wikilink") 진행)
   - [EBS 북카페](https://ko.wikipedia.org/wiki/EBS_북카페 "wikilink") (책 읽어주는 라디오, [윤고은](https://ko.wikipedia.org/wiki/윤고은 "wikilink") 진행)
-  - [뮤직 원더랜드](https://ko.wikipedia.org/wiki/뮤직_원더랜드 "wikilink")
-  - [백성문의 오천만의 변호인](https://ko.wikipedia.org/wiki/백성문의_오천만의_변호인 "wikilink")
-  - [아름다운 동요세상](https://ko.wikipedia.org/wiki/아름다운_동요세상 "wikilink")
+  - [북&렉처](https://ko.wikipedia.org/wiki/북&렉처 "wikilink")
+  - [오디오 천국](https://ko.wikipedia.org/wiki/오디오_천국 "wikilink")
   - [김용우의 일요 풍류방](https://ko.wikipedia.org/wiki/김용우의_일요_풍류방 "wikilink") ([김용우](https://ko.wikipedia.org/wiki/김용우 "wikilink") 진행)
-  - [일요음악여행 - 세계음악, 하림입니다](https://ko.wikipedia.org/wiki/일요음악여행_-_세계음악,_하림입니다 "wikilink") ([하림](../Page/하림_\(가수\).md "wikilink") 진행)
-  - [일요음악여행 - 가요](https://ko.wikipedia.org/wiki/일요음악여행_-_가요 "wikilink")
-  - [일요음악여행 - 영화음악](https://ko.wikipedia.org/wiki/일요음악여행_-_영화음악 "wikilink")
-  - [일요음악여행 - 클래식](https://ko.wikipedia.org/wiki/일요음악여행_-_클래식 "wikilink")
-  - [일요음악여행 - 팝](https://ko.wikipedia.org/wiki/일요음악여행_-_팝 "wikilink")
-  - [책으로 행복한 12시](https://ko.wikipedia.org/wiki/책으로_행복한_12시 "wikilink")
   - [청소년 소통 프로젝트 경청](https://ko.wikipedia.org/wiki/청소년_소통_프로젝트_경청 "wikilink") ([정세운](../Page/정세운_\(가수\).md "wikilink") 진행)
 
 ### 종영된 프로그램
@@ -220,6 +212,7 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
   - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
   - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
   - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
+  - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
   - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
   - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
@@ -229,7 +222,7 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
 
 ## 외부 링크
 
-  - [프로그램 편성표](http://www.ebs.co.kr/actions/OrganizeList?cmd=index&menu_id=Q014&&media=#) - EBS FM
+  - [프로그램 편성표](https://www.ebs.co.kr/schedule?channelCd=RADIO&onor=RADIO) - EBS FM
   - [EBS FM](http://www.ebs.co.kr/radio/home) - 공식 웹사이트
 
 [분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [FM](https://ko.wikipedia.org/wiki/분류:한국교육방송공사의_라디오_네트워크 "wikilink") [분류:1990년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1990년_설립된_라디오_방송국 "wikilink")

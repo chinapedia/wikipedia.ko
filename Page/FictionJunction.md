@@ -682,7 +682,7 @@
 
 ## 외부 링크
 
-  - [픽션정크션 JVC 공식 웹사이트](http://www.jvcmusic.co.jp/fj/)
+  - [픽션정크션 JVC 공식 웹사이트](https://web.archive.org/web/20090821063258/http://www.jvcmusic.co.jp/fj/)
 
   - [픽션정크션 공식 웹사이트](http://www.fictionjunction.com/fjcom/fictionjunction.html)
 

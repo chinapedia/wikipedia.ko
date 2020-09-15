@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BeForU](https://ko.wikipedia.org/wiki/BeForU).
 
 
-**BeForU**는 [일본](../Page/일본.md "wikilink")의 여성 가수 그룹이다. [2001년](../Page/2001년.md "wikilink") [코나미](../Page/코나미.md "wikilink")에서 데뷔했다.
+**BeForU**는 [일본](../Page/일본.md "wikilink")의 여성 가수 그룹이다. [2000년](../Page/2000년.md "wikilink") [코나미](../Page/코나미.md "wikilink")에서 데뷔했다.
 
 ## 멤버
 

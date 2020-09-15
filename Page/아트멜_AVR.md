@@ -85,7 +85,7 @@ AVRISP MKII와 같은 툴 없이 아두이노를 ISP 툴로 만들어 사용할 
 
   - [AVR Solutions](http://www.atmel.com/products/avr/default.asp?family_id=607)
 
-[분류:마이크로컨트롤러](https://ko.wikipedia.org/wiki/분류:마이크로컨트롤러 "wikilink")
+[분류:마이크로컨트롤러](https://ko.wikipedia.org/wiki/분류:마이크로컨트롤러 "wikilink") [분류:명령어 집합 구조](https://ko.wikipedia.org/wiki/분류:명령어_집합_구조 "wikilink")
 
 1.
 2.

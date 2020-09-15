@@ -19,9 +19,7 @@
   - [2008년](../Page/2008년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink"): 개국 (삼성산 송신소, 3㎾)
   - [2009년](../Page/2009년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink"): 기존에 YTN FM에서 YTN News FM으로 변경
   - [2010년](../Page/2010년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink"): 삼성산 송신소에서 청계산 송신소로 이전
-  - [2013년](../Page/2013년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink"): 대전 YTN News FM 개국(주파수 : 101.1㎒, 출력 : 1㎾)
   - [2014년](../Page/2014년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink"): 상암동 YTN 뉴스퀘어 이전
-  - [2015년](../Page/2015년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") 청주 YTN News FM 개국(주파수 : 100.5㎒, 출력 : 1㎾)
   - [2015년](../Page/2015년.md "wikilink"): 출력 증강 (3㎾ → 5㎾)
 
 ## 방송 프로그램
@@ -409,8 +407,8 @@
 
 ## 외부 링크
 
-  - [YTN RADIO](http://radio.ytn.co.kr/)
+  - [YTN RADIO](https://radio.ytn.co.kr/)
 
-[NEWS FM](https://ko.wikipedia.org/wiki/분류:YTN "wikilink") [분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [분류:대한민국의 라디오 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_라디오_방송국 "wikilink") [분류:2008년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:2008년_설립된_라디오_방송국 "wikilink") [분류:2009년 폐지된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:2009년_폐지된_라디오_방송국 "wikilink") [분류:2009년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:2009년_설립된_라디오_방송국 "wikilink")
+[NEWS FM](https://ko.wikipedia.org/wiki/분류:YTN의_자회사 "wikilink") [분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [분류:대한민국의 라디오 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_라디오_방송국 "wikilink") [분류:2008년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:2008년_설립된_라디오_방송국 "wikilink") [분류:2009년 폐지된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:2009년_폐지된_라디오_방송국 "wikilink") [분류:2009년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:2009년_설립된_라디오_방송국 "wikilink")
 
 1.  간혹, 뉴스 보도 중에 종료되는 경우도 있다.

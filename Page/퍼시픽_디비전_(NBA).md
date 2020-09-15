@@ -397,6 +397,11 @@
 <td><p><a href="../Page/골든스테이트_워리어스.md" title="wikilink">골든스테이트 워리어스</a></p></td>
 <td><p>57승 25패 .695</p></td>
 </tr>
+<tr class="even">
+<td><p>2020년</p></td>
+<td><p><a href="../Page/로스앤젤레스_레이커스.md" title="wikilink">로스앤젤레스 레이커스</a></p></td>
+<td><p>52승19패 .732</p></td>
+</tr>
 </tbody>
 </table>
 

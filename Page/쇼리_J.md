@@ -14,8 +14,8 @@
   - [2017년](../Page/2017년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 아찔한 캠핑
   - [2018년](../Page/2018년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [랭킹쇼 123](https://ko.wikipedia.org/wiki/랭킹쇼_123 "wikilink")
   - [2018년](../Page/2018년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink") - 프랑켄슈타인 쫀쫀해요 빠방♪(참가자)
-  - [2019년](../Page/2019년.md "wikilink") [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") [생존자들](https://ko.wikipedia.org/wiki/생존자들 "wikilink")
-  - [2020년](../Page/2020년.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[진짜 농구, 핸섬타이거즈](https://ko.wikipedia.org/wiki/진짜_농구,_핸섬타이거즈 "wikilink")》
+  - [2019년](../Page/2019년.md "wikilink") [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") [생존자들](../Page/생존자들.md "wikilink")
+  - [2020년](../Page/2020년.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[진짜 농구, 핸섬타이거즈](../Page/진짜_농구,_핸섬타이거즈.md "wikilink")》
 
 ### 드라마
 
@@ -55,6 +55,6 @@
 
   -
   -
-[분류:마이티 마우스](https://ko.wikipedia.org/wiki/분류:마이티_마우스 "wikilink") [분류:1982년 태어남](https://ko.wikipedia.org/wiki/분류:1982년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:반포고등학교 동문](https://ko.wikipedia.org/wiki/분류:반포고등학교_동문 "wikilink") [분류:계원조형예술대학 동문](https://ko.wikipedia.org/wiki/분류:계원조형예술대학_동문 "wikilink") [분류:한국방송통신대학교 동문](https://ko.wikipedia.org/wiki/분류:한국방송통신대학교_동문 "wikilink") [분류:고려대학교 언론대학원 동문](https://ko.wikipedia.org/wiki/분류:고려대학교_언론대학원_동문 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink")
+[분류:마이티 마우스](https://ko.wikipedia.org/wiki/분류:마이티_마우스 "wikilink") [분류:1982년 태어남](https://ko.wikipedia.org/wiki/분류:1982년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:반포고등학교 동문](https://ko.wikipedia.org/wiki/분류:반포고등학교_동문 "wikilink") [분류:계원조형예술대학 동문](https://ko.wikipedia.org/wiki/분류:계원조형예술대학_동문 "wikilink") [분류:한국방송통신대학교 동문](https://ko.wikipedia.org/wiki/분류:한국방송통신대학교_동문 "wikilink") [분류:고려대학교 언론대학원 동문](https://ko.wikipedia.org/wiki/분류:고려대학교_언론대학원_동문 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink")
 
 1.  [가수 '마이티마우스' 대구 오리온스 홍보대사 위촉](http://eto.freechal.com/news/view.asp?Code=20091018231159640) - 경제투데이

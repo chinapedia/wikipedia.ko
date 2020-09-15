@@ -162,6 +162,6 @@
 
 ## 외부 링크
 
-  - [WBSC](http://www.wbsc.org/rankings/) - 공식 웹사이트
+  - [WBSC](https://web.archive.org/web/20181028110149/http://www.wbsc.org/rankings/) - 공식 웹사이트
 
 [분류:국제 야구](https://ko.wikipedia.org/wiki/분류:국제_야구 "wikilink") [분류:야구 랭킹](https://ko.wikipedia.org/wiki/분류:야구_랭킹 "wikilink")

@@ -29,7 +29,7 @@
 
   - [DRDO](https://ko.wikipedia.org/wiki/DRDO "wikilink") [BC-350 Chanakya](https://ko.wikipedia.org/wiki/BC-350_Chanakya "wikilink")
 
-## 더 보기
+## 같이 보기
 
 ## 외부 링크
 

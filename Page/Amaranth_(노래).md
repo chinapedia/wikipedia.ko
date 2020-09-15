@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Amaranth \(노래\)](https://ko.wikipedia.org/wiki/Amaranth_\(노래\)).
 
 
-"**Amaranth**"는 [핀란드](../Page/핀란드.md "wikilink") [심포닉 파워 메탈](https://ko.wikipedia.org/wiki/심포닉_메탈#심포닉_파워_메탈 "wikilink") 밴드 [나이트위시](../Page/나이트위시.md "wikilink")의 앨범 *[Dark Passion Play](https://ko.wikipedia.org/wiki/Dark_Passion_Play "wikilink")*의 두 번째 싱글이다.
+《**Amaranth**》는 [핀란드](../Page/핀란드.md "wikilink") [심포닉 파워 메탈](https://ko.wikipedia.org/wiki/심포닉_메탈#심포닉_파워_메탈 "wikilink") 밴드 [나이트위시](../Page/나이트위시.md "wikilink")의 앨범 《[Dark Passion Play](https://ko.wikipedia.org/wiki/Dark_Passion_Play "wikilink")》의 두 번째 싱글이다.
 
 싱글에 포함된 또 다른 곡 "[While Your Lips Are Still Red](https://ko.wikipedia.org/wiki/While_Your_Lips_Are_Still_Red "wikilink")"는 핀란드 [영화](../Page/영화.md "wikilink") "[LIEKSA\!](https://ko.wikipedia.org/wiki/LIEKSA! "wikilink")"의 O.S.T로 쓰인 곡이다. 이 곡은 [엠푸 부오리넨과](https://ko.wikipedia.org/wiki/엠푸_부오리넨 "wikilink") [아네트 올슨을](https://ko.wikipedia.org/wiki/아네트_올슨 "wikilink") 제외한 세 명의 맴버가 녹음했고, 영화의 일부분을 잘라 만든 형태의 뮤직비디오는 2007년 6월 15일 공개되었다\[1\]. 이 곡은 정식 발표 전에 인터넷에 유출되었는데 그 날짜가 정확히 언제인지는 알려져 있지 않다\[2\].
 
@@ -172,8 +172,6 @@
 ## 각주
 
 [분류:2007년 싱글](https://ko.wikipedia.org/wiki/분류:2007년_싱글 "wikilink") [분류:나이트위시의 싱글](https://ko.wikipedia.org/wiki/분류:나이트위시의_싱글 "wikilink") [분류:스파인팜 레코드의 음반](https://ko.wikipedia.org/wiki/분류:스파인팜_레코드의_음반 "wikilink") [분류:누클리어 블라스트 레코드의 음반](https://ko.wikipedia.org/wiki/분류:누클리어_블라스트_레코드의_음반 "wikilink") [분류:핀란드 싱글차트 1위](https://ko.wikipedia.org/wiki/분류:핀란드_싱글차트_1위 "wikilink") [분류:2007년 노래](https://ko.wikipedia.org/wiki/분류:2007년_노래 "wikilink")
-
-[lt:Dark Passion Play\#Amaranth](https://ko.wikipedia.org/wiki/lt:Dark_Passion_Play#Amaranth "wikilink")
 
 1.
 2.

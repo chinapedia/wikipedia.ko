@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [광주 FC](https://ko.wikipedia.org/wiki/광주_FC).
 
 
-**광주 FC**는 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")를 연고지로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink")단이다. [2010년](../Page/2010년.md "wikilink") 창단하여 [K리그](../Page/K리그.md "wikilink") [2011 시즌부터](https://ko.wikipedia.org/wiki/K리그_2011 "wikilink") 리그에 참가하고 있으며 홈구장은 [광주월드컵경기장](../Page/광주월드컵경기장.md "wikilink")이다.
+**광주 FC**는 [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")를 연고지로 하는 [대한민국](../Page/대한민국.md "wikilink")의 프로 [축구](../Page/축구.md "wikilink")단이다. [2010년](../Page/2010년.md "wikilink") 창단하여 [K리그](../Page/K리그.md "wikilink") [2011 시즌부터](https://ko.wikipedia.org/wiki/K리그_2011 "wikilink") 리그에 참가하고 있으며 홈구장은 [광주축구전용구장](https://ko.wikipedia.org/wiki/광주축구전용구장 "wikilink")이다.
 
 2013년 승강제 도입 이후 승격 후 첫 해 잔류에 성공한 최초의 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink") 구단이며 시도민구단 중 최초로 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")에서 [득점상과](../Page/K리그_득점상.md "wikilink") [최우수선수상](../Page/K리그_최우수선수상.md "wikilink") 수상자를 배출한 구단이다.
 
@@ -98,7 +98,7 @@
 
 ### 현재 소속 선수
 
-[2020년](../Page/2020년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") 기준
+[2020년](../Page/2020년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") 기준
 
 ### 임대 및 군 복무 중인 선수
 
@@ -305,7 +305,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017년</p></td>
-<td><p><a href="../Page/이종민_(1983년).md" title="wikilink">이종민</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/송승민" title="wikilink">송승민</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018년</p></td>

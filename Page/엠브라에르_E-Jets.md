@@ -5,7 +5,7 @@
 
 ## 같이 보기
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg "wikilink")
+[섬네일의](https://ko.wikipedia.org/wiki/파일:LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg "wikilink") 엠브라에르 E195LR.\]\]
 
 ## 각주
 

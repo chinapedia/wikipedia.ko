@@ -241,7 +241,7 @@ make는 [명령 줄 변수로서](../Page/명령_줄_인터페이스.md "wikilin
 ## 외부 링크
 
   - [GNU make 홈페이지](http://www.gnu.org/software/make/)
-  - [KLDP GNU make](http://wiki.kldp.org/KoreanDoc/html/GNU-Make/GNU-Make.html)
+  - [KLDP GNU make](https://web.archive.org/web/20120831105433/http://wiki.kldp.org/KoreanDoc/html/GNU-Make/GNU-Make.html)
 
 [분류:GNU 프로젝트 소프트웨어](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트_소프트웨어 "wikilink") [분류:유닉스 SUS2008 유틸리티](https://ko.wikipedia.org/wiki/분류:유닉스_SUS2008_유틸리티 "wikilink") [분류:빌드 자동화](https://ko.wikipedia.org/wiki/분류:빌드_자동화 "wikilink") [분류:스크립트 언어](https://ko.wikipedia.org/wiki/분류:스크립트_언어 "wikilink")
 

@@ -3,6 +3,8 @@
 
 〈**Lucy in the Sky with Diamonds**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 노래로, 1967년 음반 《[Sgt. Pepper's Lonely Hearts Club Band](https://ko.wikipedia.org/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band "wikilink")》의 수록곡이다. 그 곡은 주로 [존 레논에](../Page/존_레논.md "wikilink") 의해 쓰여졌고 [레논-매카트니](../Page/레논-매카트니.md "wikilink") 작사, 작곡 파트너쉽으로 인정받았다. 레논의 아들인 [줄리언은](../Page/줄리언_레논.md "wikilink") 그가 "루시 – 다이아몬드로 하늘에서"라고 부르는 유치원의 그림을 통해 이 노래를 영감을 주었다고 전해진다. 이 곡이 발매된 직후, 각각의 제목 명사의 첫 글자가 의도적으로 "[LSD](https://ko.wikipedia.org/wiki/LSD "wikilink")"를 썼다는 추측이 나왔다. 레논은 [폴 매카트니가](../Page/폴_매카트니.md "wikilink") 확인한 주장인\[1\]\[2\]\[3\] [루이스 캐럴의](../Page/루이스_캐럴.md "wikilink") 《[이상한 나라의 앨리스](../Page/이상한_나라의_앨리스.md "wikilink")》에 의해 그 환상적인 이미지가 영감을 받았다고 주장하면서 마약 노래로 의도했다는 것을 거듭 부인했다.\[4\]
 
+비틀즈는 1967년 3월에 〈Lucy in the Sky with Diamonds〉를 녹음했다. 곡의 진귀한 자질을 더하여, 음악 편곡에는 스튜디오 효과로 중하게 처리된 [로레이 오르간](https://ko.wikipedia.org/wiki/로레이_오르간 "wikilink") 부분과 [인도](../Page/인도.md "wikilink") [탐부라](https://ko.wikipedia.org/wiki/탐부라 "wikilink")가 제공하는 [드론이](https://ko.wikipedia.org/wiki/드론_\(음악\) "wikilink") 있다. 그 노래는 [사이키델릭](https://ko.wikipedia.org/wiki/사이키델릭_음악 "wikilink") 장르의 핵심 작품으로 인정받고 있다. 많은 커버 버전들 중에서, 1974년 레논의 게스트 참여와 함께 [엘튼 존의](../Page/엘튼_존.md "wikilink") 녹음이 [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink")에서 1위를 차지했다.
+
 ## 참여 인원
 
   - [존 레논](../Page/존_레논.md "wikilink") - [더블 트래킹](https://ko.wikipedia.org/wiki/더블_트래킹 "wikilink") 리드 보컬, [마라카스](https://ko.wikipedia.org/wiki/마라카스 "wikilink")

@@ -92,9 +92,17 @@
 <td><p><strong>3 : 1</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p>2020년<br />
-<em><a href="../Page/2020년_FIFA_U-20_여자_월드컵.md" title="wikilink">상세 정보</a></em></p></td>
+<td><p>2021년<br />
+<em><a href="../Page/2021년_FIFA_U-20_여자_월드컵.md" title="wikilink">상세 정보</a></em></p></td>
 <td></td>
+<td><p><strong></strong></p></td>
+<td><p><strong>? : ?</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2022년<br />
+<em><a href="https://ko.wikipedia.org/wiki/2022년_FIFA_U-20_여자_월드컵" title="wikilink">상세 정보</a></em></p></td>
+<td><p><br />
+</p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>? : ?</strong></p></td>
 </tr>
@@ -231,6 +239,6 @@
 
 ## 외부 링크
 
-  - [U-20 대회 공식 웹사이트](http://www.fifa.com/u20womensworldcup/)
+  - [U-20 대회](http://www.fifa.com/u20womensworldcup/) - 공식 웹사이트
 
 [FIFA_U-20_여자_월드컵](https://ko.wikipedia.org/wiki/분류:FIFA_U-20_여자_월드컵 "wikilink")

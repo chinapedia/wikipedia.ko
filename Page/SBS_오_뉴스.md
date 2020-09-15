@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS 오 뉴스](https://ko.wikipedia.org/wiki/SBS_오_뉴스).
 
 
-《**SBS 오 뉴스**》()는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시에 [SBS에서](../Page/SBS_TV.md "wikilink") 방송하는 [SBS의 저녁 뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
+《**SBS 오 뉴스**》()는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시에 [SBS에서](../Page/SBS_TV.md "wikilink") 방송하는 [SBS의 저녁 심층뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
 
 ## 개요
 
@@ -33,10 +33,8 @@
 | [2017년](../Page/2017년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink")         | 평일 오후 5시 \~ 저녁 6시 5분 (1시간 5분)                                                                                                                              |                                   |
 | [2017년](../Page/2017년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink")       | 평일 오후 5시 \~ 저녁 6시 10분 (1시간 10분)                                                                                                                            |                                   |
 | [2017년](../Page/2017년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink")     | 평일 오후 5시 \~ 저녁 6시 (1시간)                                                                                                                                    |                                   |
-| [2019년](../Page/2019년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink")     |                                                                                                                                                            |                                   |
-| [2020년](../Page/2020년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") \~ **현재**                                                                          |                                                                                                                                                            |                                   |
+| [2019년](../Page/2019년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ **현재**                                                                          |                                                                                                                                                            |                                   |
 | [2019년](../Page/2019년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink")     | 매주 평일 오후 5시 \~ 5시 55분 (55분)                                                                                                                                |                                   |
-| [2020년](../Page/2020년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink")     | 매주 평일 오후 5시 \~ 5시 50분 (50분)                                                                                                                                |                                   |
 
 ※ [공휴일에는](../Page/대한민국의_공휴일.md "wikilink") 오후 시간대에 10분간 **SBS 뉴스**로 대체 편성된다.
 
@@ -55,11 +53,11 @@
 | --- | ---------------------------------------------------------- | ---------------------------- | ----- |
 | 1대  | [손석기](https://ko.wikipedia.org/wiki/손석기 "wikilink") 前 아나운서 | 1994년 1월 31일 \~ 1994년 4월 15일 |       |
 | 2대  | [김정일](../Page/김정일_\(아나운서\).md "wikilink") 아나운서             | 1995년 9월 4일 \~ 2002년 11월 1일  |       |
-| 3대  | [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장         | 2002년 11월 4일 \~ 2004년 2월 27일 |       |
+| 3대  | [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 前 아나운서팀 국장       | 2002년 11월 4일 \~ 2004년 2월 27일 |       |
 | 4대  | [신용철](../Page/신용철.md "wikilink") 아나운서팀장                    | 2004년 3월 2일 \~ 2005년 4월 22일  |       |
-| 5대  | [김범주](https://ko.wikipedia.org/wiki/김범주 "wikilink") 사회부 차장 | 2005년 4월 25일 \~ 2005년 7월 1일  |       |
+| 5대  | [편상욱](../Page/편상욱.md "wikilink") 사회부 차장                    | 2005년 4월 25일 \~ 2005년 7월 1일  |       |
 | 6대  | [이정은](https://ko.wikipedia.org/wiki/이정은 "wikilink") 인천지국장  | 2005년 7월 4일 \~ 2007년 1월 12일  |       |
-| 7대  | [김석재](../Page/김석재_\(기자\).md "wikilink") 보도본부 부장            | 2007년 1월 15일 \~ 2008년 1월 18일 |       |
+| 7대  | [김석재](../Page/김석재_\(기자\).md "wikilink") 부장급 기자             | 2007년 1월 15일 \~ 2008년 1월 18일 |       |
 | 8대  | [김정일](../Page/김정일_\(아나운서\).md "wikilink") 아나운서             | 2008년 1월 21일 \~ 2008년 5월 2일  | \[2\] |
 | 9대  | [배재학](../Page/배재학.md "wikilink") 국제부 기자                    | 2008년 5월 5일 \~ 2013년 12월 6일  |       |
 | 10대 | [김정일](../Page/김정일_\(아나운서\).md "wikilink") 아나운서             | 2013년 12월 9일 \~ 2016년 7월 29일 | \[3\] |
@@ -71,12 +69,12 @@
 | --- | --------------------------------------------------------------------- | ------------------------------ | ------------ |
 | 1대  | [최영주](../Page/최영주_\(1969년\).md "wikilink") 아나운서                       | 1994년 1월 31일 \~ 1994년 4월 15일   |              |
 | 2대  | [김성경](../Page/김성경.md "wikilink") 前 아나운서                               | 1995년 9월 4일 \~ 2001년 4월 27일    |              |
-| 3대  | [박경은](https://ko.wikipedia.org/wiki/박경은_\(아나운서\) "wikilink") 아나운서     | 2001년 4월 30일 \~ 2004년 2월 27일   |              |
+| 3대  | [이병희](../Page/이병희_\(아나운서\).md "wikilink") 아나운서                        | 2001년 4월 30일 \~ 2004년 2월 27일   |              |
 | 4대  | [이현경](../Page/이현경_\(방송인\).md "wikilink") 아나운서                         | 2004년 3월 2일 \~ 2005년 4월 22일    |              |
 | 5대  | [김지연](https://ko.wikipedia.org/wiki/김지연_\(1978년_9월\) "wikilink") 아나운서 | 2005년 4월 25일 \~ 2008년 5월 2일    | \[5\]        |
 | 6대  | [윤소영](https://ko.wikipedia.org/wiki/윤소영_\(1978년\) "wikilink") 前 아나운서  | 2008년 5월 5일 \~ 2009년 9월 30일    | \[6\]        |
 | 7대  | [김지연](https://ko.wikipedia.org/wiki/김지연_\(1978년_9월\) "wikilink") 아나운서 | 2009년 10월 1일 \~ 2011년 12월 30일  | \[7\]        |
-| 8대  | [박경은](https://ko.wikipedia.org/wiki/박경은_\(아나운서\) "wikilink") 아나운서     | 2012년 1월 2일 \~ 2013년 5월 31일    | \[8\]\[9\]   |
+| 8대  | [이병희](../Page/이병희_\(아나운서\).md "wikilink") 아나운서                        | 2012년 1월 2일 \~ 2013년 5월 31일    | \[8\]\[9\]   |
 | 9대  | [이혜승](../Page/이혜승.md "wikilink") 아나운서                                 | 2013년 6월 3일 \~ 2013년 9월 27일    |              |
 | 10대 | [최영아](https://ko.wikipedia.org/wiki/최영아 "wikilink") 아나운서              | 2013년 9월 30일 \~ 2013년 11월 8일   |              |
 | 11대 | [김지연](https://ko.wikipedia.org/wiki/김지연_\(1978년_9월\) "wikilink") 아나운서 | 2013년 11월 11일 \~ 2014년 10월 10일 | \[10\]\[11\] |
@@ -110,13 +108,13 @@
 
 ### 네트워크 현장
 
-**네트워크 현장**은 [SBS TV와](../Page/SBS_TV.md "wikilink") 네트워크 협정을 맺은 지역 민영 방송을 연결하여 그 지역의 소식을 전해준다. [KBS 뉴스 5의](../Page/KBS_뉴스_5.md "wikilink") 이 시각 네트워크와 과거 [MBC 이브닝뉴스의](https://ko.wikipedia.org/wiki/MBC_이브닝뉴스 "wikilink") 네트워크 오늘과 비슷하다.
+**네트워크 현장**은 [SBS TV와](../Page/SBS_TV.md "wikilink") 네트워크 협정을 맺은 지역 민영 방송을 연결하여 그 지역의 소식을 전해준다. [KBS 뉴스 5의](../Page/KBS_뉴스_5.md "wikilink") 이 시각 네트워크와 과거 [MBC 이브닝뉴스](https://ko.wikipedia.org/wiki/MBC_이브닝뉴스 "wikilink")(현 [5 MBC 뉴스](../Page/5_MBC_뉴스.md "wikilink"))의 네트워크 오늘과 비슷하다.
 
-  - 월요일 : 광주 전남 ([kbc 광주방송](../Page/광주방송.md "wikilink") 최창은 아나운서), 부산 경남 ([KNN](../Page/KNN.md "wikilink") 김다롬 아나운서)
-  - 화요일 : 전북 전주 ([JTV 전주방송](../Page/전주방송.md "wikilink") 서주영 아나운서), 울산 ([ubc 울산방송](../Page/울산방송.md "wikilink") 장수정 아나운서)
-  - 수요일 : 제주 ([JIBS 제주국제자유도시방송](../Page/제주국제자유도시방송.md "wikilink") 김지현 아나운서), 대전 세종 충남 ([TJB 대전방송](../Page/대전방송.md "wikilink") 김현지 아나운서)
-  - 목요일 : 강원 ([G1 강원민방](../Page/G1.md "wikilink") 손민정 아나운서), 대구 경북 ([TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 김다은 아나운서)
-  - 금요일 : 충북 청주 ([CJB 청주방송](../Page/청주방송.md "wikilink") 황수동 아나운서)
+  - 월요일 : 광주 ([kbc 광주방송](../Page/광주방송.md "wikilink") 최창은 아나운서(남)), 부산 ([KNN](../Page/KNN.md "wikilink") 김다롬 아나운서(여))
+  - 화요일 : 전주 ([JTV 전주방송](../Page/전주방송.md "wikilink") 서주영 아나운서(여)), 울산 ([ubc 울산방송](../Page/울산방송.md "wikilink") 장수정 아나운서(여))
+  - 수요일 : 제주 ([JIBS 제주방송](../Page/제주방송.md "wikilink") 장성규 아나운서(남)), 대전 ([TJB 대전방송](../Page/대전방송.md "wikilink") 김현지 아나운서(여))
+  - 목요일 : 강원 ([G1 강원민방](../Page/G1.md "wikilink") 손민정 아나운서(여)), 대구 ([TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 김다은 아나운서(여))
+  - 금요일 : 청주 ([CJB 청주방송](../Page/청주방송.md "wikilink") 황수동 아나운서(남), 연규옥 아나운서(여))
 
 ### 수도권 소식
 
@@ -130,9 +128,9 @@
 
 **오 클릭**은 SNS와 인터넷 검색어 등을 통해 시민들의 통해 시민들의 하루 관심사와 반응을 정리하는 코너이다. 이 뉴스의 서브 앵커인 [김선재](../Page/김선재_\(아나운서\).md "wikilink") 아나운서가 진행한다.
 
-### 경제 소식
+### 오 BIZ
 
-**경제 소식**은 한 주간의 경제 소식을 전해주는 코너이다. [정경윤](https://ko.wikipedia.org/wiki/정경윤 "wikilink") 경제부 기자가 진행하며, 화요일에만 방송한다.
+**오 BIZ**는 경제 소식을 전해주는 코너이다. [권애리](https://ko.wikipedia.org/wiki/권애리 "wikilink") 기자가 진행한다.
 
 ### 건강 소식
 
@@ -160,24 +158,25 @@
 
 ### SBS 날씨
 
-  - [이여진](https://ko.wikipedia.org/wiki/이여진_\(방송인\) "wikilink") 기상캐스터
+  - 양태빈 기상캐스터
 
 ## 일부지역 자체 방송\[17\]
 
 다음 지역민방 프로그램은 네트워크 현장이 끝나는 오후 5시 40분 경부터 방송된다.
 
   - 오후 5시 40분부터 저녁 6시까지 방송되는 지역민방
-  - KNN(부산경남)는 저녁 6시부터, CJB(충북)는 저녁 7시부터 방송한다.
+  - [KNN](../Page/KNN.md "wikilink")(부산경남)는 저녁 6시부터 방송한다.
 
-| 방송국                                            | 방송 권역                                                                                                                                        | 프로그램 타이틀                                                      | 방송 시간        | 진행자                                                 |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------ | --------------------------------------------------- |
-| [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") | [대구](../Page/대구광역시.md "wikilink")·[경북](https://ko.wikipedia.org/wiki/경상북도 "wikilink")                                                        | [TBC 대경뉴스광장](../Page/TBC_대경뉴스광장.md "wikilink")                | 17:40\~18:00 | [김다은](https://ko.wikipedia.org/wiki/김다은 "wikilink") |
-| [G1](../Page/G1.md "wikilink")                 | [강원](../Page/강원도.md "wikilink")                                                                                                              | [뉴스퍼레이드 강원](../Page/뉴스퍼레이드_강원.md "wikilink")                  | 17:40\~18:00 | [손민정](https://ko.wikipedia.org/wiki/손민정 "wikilink") |
-| [TJB](../Page/대전방송.md "wikilink")              | [대전](https://ko.wikipedia.org/wiki/대전광역시 "wikilink")·[충남](https://ko.wikipedia.org/wiki/충청남도 "wikilink")·[세종](../Page/세종특별자치시.md "wikilink") | [TJB 뉴스 (1745)](../Page/TJB_뉴스_\(1745\).md "wikilink")        | 17:45\~18:00 | [이은지](https://ko.wikipedia.org/wiki/이은지 "wikilink") |
-| [kbc](../Page/광주방송.md "wikilink")              | [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")·[전남](https://ko.wikipedia.org/wiki/전라남도 "wikilink")                                     | [kbc 저녁뉴스](https://ko.wikipedia.org/wiki/kbc_저녁뉴스 "wikilink") | 17:45\~18:00 | [최창은](https://ko.wikipedia.org/wiki/최창은 "wikilink") |
-| [ubc](../Page/울산방송.md "wikilink")              | [울산](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")                                                                                         | [ubc 뉴스라인](https://ko.wikipedia.org/wiki/ubc_뉴스라인 "wikilink") | 17:45\~18:00 | [장수정](https://ko.wikipedia.org/wiki/장수정 "wikilink") |
-| [JTV](../Page/전주방송.md "wikilink")              | [전북](https://ko.wikipedia.org/wiki/전라북도 "wikilink")                                                                                          | [JTV 저녁뉴스](https://ko.wikipedia.org/wiki/JTV_저녁뉴스 "wikilink") | 17:45\~18:00 | [서주영](https://ko.wikipedia.org/wiki/서주영 "wikilink") |
-| [JIBS](../Page/제주국제자유도시방송.md "wikilink")       | [제주](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink")                                                                                       | [JIBS 저녁뉴스](../Page/JIBS_저녁뉴스.md "wikilink")                  | 17:45\~18:00 | [김지현](https://ko.wikipedia.org/wiki/김지현 "wikilink") |
+| 방송국                                            | 방송 권역                                                                                                                                        | 프로그램 타이틀                                                      | 방송 시간        | 진행자                                                          |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
+| [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") | [대구](../Page/대구광역시.md "wikilink")·[경북](https://ko.wikipedia.org/wiki/경상북도 "wikilink")                                                        | [TBC 대경뉴스광장](../Page/TBC_대경뉴스광장.md "wikilink")                | 17:40\~18:00 | [김다은](https://ko.wikipedia.org/wiki/김다은 "wikilink")          |
+| [TJB](../Page/대전방송.md "wikilink")              | [대전](https://ko.wikipedia.org/wiki/대전광역시 "wikilink")·[세종](../Page/세종특별자치시.md "wikilink")·[충남](https://ko.wikipedia.org/wiki/충청남도 "wikilink") | [TJB 뉴스 (1745)](../Page/TJB_뉴스_\(1745\).md "wikilink")        | 17:45\~18:00 | [이보현](https://ko.wikipedia.org/wiki/이보현_\(아나운서\) "wikilink") |
+| [kbc](../Page/광주방송.md "wikilink")              | [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink")·[전남](https://ko.wikipedia.org/wiki/전라남도 "wikilink")                                     | [kbc 저녁뉴스](https://ko.wikipedia.org/wiki/kbc_저녁뉴스 "wikilink") | 17:45\~18:00 | [최창은](https://ko.wikipedia.org/wiki/최창은 "wikilink")          |
+| [CJB](../Page/청주방송.md "wikilink")              | [충북](https://ko.wikipedia.org/wiki/충청북도 "wikilink")                                                                                          | [CJB 뉴스 (1740)](../Page/CJB_뉴스_\(1740\).md "wikilink")        | 17:40\~18:00 | [연규옥](https://ko.wikipedia.org/wiki/연규옥 "wikilink")          |
+| [JTV](../Page/전주방송.md "wikilink")              | [전북](https://ko.wikipedia.org/wiki/전라북도 "wikilink")                                                                                          | [JTV 저녁뉴스](https://ko.wikipedia.org/wiki/JTV_저녁뉴스 "wikilink") | 17:45\~18:00 | [서주영](https://ko.wikipedia.org/wiki/서주영 "wikilink")          |
+| [ubc](../Page/울산방송.md "wikilink")              | [울산](https://ko.wikipedia.org/wiki/울산광역시 "wikilink")                                                                                         | [ubc 뉴스라인](https://ko.wikipedia.org/wiki/ubc_뉴스라인 "wikilink") | 17:45\~18:00 | [장수정](https://ko.wikipedia.org/wiki/장수정 "wikilink")          |
+| [G1](../Page/G1.md "wikilink")                 | [강원](../Page/강원도.md "wikilink")                                                                                                              | [뉴스퍼레이드 강원](../Page/뉴스퍼레이드_강원.md "wikilink")                  | 17:40\~18:00 | [손민정](https://ko.wikipedia.org/wiki/손민정 "wikilink")          |
+| [JIBS](../Page/제주국제자유도시방송.md "wikilink")       | [제주](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink")                                                                                       | [JIBS 저녁뉴스](../Page/JIBS_저녁뉴스.md "wikilink")                  | 17:45\~18:00 | [장성규](../Page/장성규.md "wikilink")                             |
 
 ## 타이틀 변천사
 
@@ -242,14 +241,14 @@
 5.  [김지연](https://ko.wikipedia.org/wiki/김지연_\(1978년_9월\) "wikilink") 아나운서의 결혼 휴가로 인하여 2008년 1월 21일 \~ 2008년 1월 25일 방송분은 SBS 뉴스퍼레이드의 4대 여성 앵커인 [이현경](../Page/이현경_\(방송인\).md "wikilink") 아나운서가 대신 진행했다.
 6.  [윤소영](https://ko.wikipedia.org/wiki/윤소영_\(1978년\) "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2009년 1월 6일 방송분은 SBS 뉴스퍼레이드의 3대 여성 앵커인 [이병희](../Page/이병희_\(아나운서\).md "wikilink") 아나운서(現. [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink") 앵커)가 대신 진행했다.
 7.  [김지연](https://ko.wikipedia.org/wiki/김지연_\(1978년_9월\) "wikilink") 아나운서는 1년 만에 SBS 뉴스퍼레이드 재진행.
-8.  [박경은](https://ko.wikipedia.org/wiki/박경은_\(아나운서\) "wikilink") 아나운서는 8년 만에 SBS 뉴스퍼레이드 재진행.
-9.  [박경은](https://ko.wikipedia.org/wiki/박경은_\(아나운서\) "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2013년 5월 2일 방송분은 [이혜승](../Page/이혜승.md "wikilink") 아나운서(現. 평일 [모닝와이드](../Page/모닝와이드.md "wikilink") 3부 앵커)가 대신 진행했다.
+8.  [이병희](../Page/이병희_\(아나운서\).md "wikilink") 아나운서는 8년 만에 SBS 뉴스퍼레이드 재진행.
+9.  [이병희](../Page/이병희_\(아나운서\).md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2013년 5월 2일 방송분은 [이혜승](../Page/이혜승.md "wikilink") 아나운서(現. 평일 [모닝와이드](../Page/모닝와이드.md "wikilink") 3부 앵커)가 대신 진행했다.
 10. [김지연](https://ko.wikipedia.org/wiki/김지연_\(1978년_9월\) "wikilink") 아나운서는 SBS 뉴스퍼레이드 2차 진행한 지 2년 만에 SBS 뉴스퍼레이드 재진행.
 11. [김지연](https://ko.wikipedia.org/wiki/김지연_\(1978년_9월\) "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2013년 12월 26일 방송분은 [김정일](../Page/김정일_\(아나운서\).md "wikilink") 아나운서가 단독으로 진행했다.
-12. [김소원](../Page/김소원_\(아나운서\).md "wikilink") 아나운서(現. [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink") 앵커)의 휴가 또는 출장으로 인하여, 2016년 7월 29일, 10월 21일 방송분은 [최혜림](../Page/최혜림.md "wikilink") 아나운서(現. 평일 [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") 앵커)가 대신 진행했고, 9월 30일 방송분은 [SBS 1010 뉴스의](https://ko.wikipedia.org/wiki/SBS_1010_뉴스 "wikilink") 앵커인 [박경은](https://ko.wikipedia.org/wiki/박경은_\(아나운서\) "wikilink") 아나운서가 대신 진행했다.
-13. [김소원](../Page/김소원_\(아나운서\).md "wikilink") 아나운서(現. [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink") 앵커)는 [2016년](../Page/2016년.md "wikilink") [12월 30일까지](../Page/12월_30일.md "wikilink") [박상도](../Page/박상도.md "wikilink") 아나운서(現. [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink") 앵커)와 함께 SBS 뉴스퍼레이드를 진행할 예정이였으나 [2016년](../Page/2016년.md "wikilink") [12월 27일에](../Page/12월_27일.md "wikilink") 갑작스러운 사정으로 인해 SBS 뉴스퍼레이드에서 하차하게 되어, [2016년](../Page/2016년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") \~ [12월 29일](../Page/12월_29일.md "wikilink") 방송분은 [이윤아](../Page/이윤아.md "wikilink") 아나운서가 대신 진행했고, [12월 30일](../Page/12월_30일.md "wikilink") 방송분은 당시 [SBS 뉴스 (1010)의](../Page/SBS_뉴스_\(1010\).md "wikilink") 진행을 맡고 있던 [박경은](https://ko.wikipedia.org/wiki/박경은_\(아나운서\) "wikilink") 아나운서가 대신 진행했다.
+12. [김소원](../Page/김소원_\(아나운서\).md "wikilink") 아나운서(現. [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink") 앵커)의 휴가 또는 출장으로 인하여, 2016년 7월 29일, 10월 21일 방송분은 [최혜림](../Page/최혜림.md "wikilink") 아나운서(現. 평일 [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") 앵커)가 대신 진행했고, 9월 30일 방송분은 [SBS 1010 뉴스의](https://ko.wikipedia.org/wiki/SBS_1010_뉴스 "wikilink") 앵커인 [이병희](../Page/이병희_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
+13. [김소원](../Page/김소원_\(아나운서\).md "wikilink") 아나운서(現. [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink") 앵커)는 [2016년](../Page/2016년.md "wikilink") [12월 30일까지](../Page/12월_30일.md "wikilink") [박상도](../Page/박상도.md "wikilink") 아나운서(現. [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink") 앵커)와 함께 SBS 뉴스퍼레이드를 진행할 예정이였으나 [2016년](../Page/2016년.md "wikilink") [12월 27일에](../Page/12월_27일.md "wikilink") 갑작스러운 사정으로 인해 SBS 뉴스퍼레이드에서 하차하게 되어, [2016년](../Page/2016년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") \~ [12월 29일](../Page/12월_29일.md "wikilink") 방송분은 [이윤아](../Page/이윤아.md "wikilink") 아나운서가 대신 진행했고, [12월 30일](../Page/12월_30일.md "wikilink") 방송분은 당시 [SBS 뉴스 (1010)의](../Page/SBS_뉴스_\(1010\).md "wikilink") 진행을 맡고 있던 [박은경](../Page/박은경_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
 14. [한수진](../Page/한수진_\(1969년\).md "wikilink") 선임기자의 개인 사정으로 인하여, [2017년](../Page/2017년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") \~ [4월 26일](../Page/4월_26일.md "wikilink") 방송분은 박현석 기자(現. 평일 [모닝와이드](../Page/모닝와이드.md "wikilink") 1, 2부 앵커)가 대신 진행했고, [한수진](../Page/한수진_\(1969년\).md "wikilink") 선임기자의 휴가로 인하여, [2018년](../Page/2018년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") \~ [2월 28일](../Page/2월_28일.md "wikilink") 방송분은 [고희경](https://ko.wikipedia.org/wiki/고희경_\(방송인\) "wikilink") 뉴스토리팀장이 대신 진행했다.
-15. 2019년 3월 4일부터는 월요일 \~ 수요일에만 진행.
+15. 2019년 3월 4일부터 2019년 8월 28일까지는 월요일 \~ 수요일에만 진행.
 16. 목요일 \~ 금요일에만 진행.
 17. 다만, 해당 시간대에 중계방송이 편성됨으로 인해 SBS 오 뉴스의 방송 분량이 단축되거나 SBS 오 뉴스가 특집 또는 [SBS 뉴스특보로](../Page/SBS_뉴스특보.md "wikilink") 방송될 경우에는 방송 시간이 변경되거나 특집 또는 뉴스특보로 방송되거나 결방된다.
 18. 다만, 이 뉴스의 일부 코너들은 그대로 방송되었다.

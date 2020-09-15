@@ -23,7 +23,7 @@ McGaugh, Scott *Midway Magic - An Oral History of America's Legendary Aircraft C
 
 ## 외부 링크
 
-  - [USS Midway Museum](http://www.midway.org)
+  - [USS Midway Museum](https://web.archive.org/web/20110225123343/http://midway.org/)
   - [history.navy.mil: USS *Midway*](http://www.history.navy.mil/danfs/m10/midway-iii.htm)
   - [MidwaySailor.com](http://www.midwaysailor.com/midway/index.html).
   - [HNSA Ship Page: USS Midway](https://web.archive.org/web/20090201061806/http://hnsa.org/ships/midway.htm)

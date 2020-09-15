@@ -37,7 +37,7 @@
 
 첫 앨범 《merveilles》([오리콘](../Page/오리콘.md "wikilink") 첫등장 2위)를 비롯 발표되는 곡 대부분이 오리콘 차트의 상위를 차지하는 인기를 얻었으나, [각트](https://ko.wikipedia.org/wiki/각트 "wikilink")와 기타 멤버들과의 심각한 불화로 밴드는 분열되고 해체 위기에 이른다. 결국 1998년 12월 [각트](https://ko.wikipedia.org/wiki/각트 "wikilink")의 갑작스런 행방불명과 이듬해 1월 그의 탈퇴, 6월 드러머 카미의 갑작스러운 죽음 등의 사태가 겹치는 시련을 겪는다. 2001년 12월, 멤버 각자의 자유로운 활동을 위하여 밴드는 활동을 중단하기에 이른다.
 
-2011년 1월 26일에 발표 된 비쥬얼 계 밴드의 컴필레이션 앨범 《Crush\! -90's V-Rock Best Hit Cover Songs-》의 수록곡 중 Malice Mizer의 노래: 〈月下の夜想曲〉이 [D](https://ko.wikipedia.org/wiki/D_\(음악_그룹\) "wikilink") 의해 커버 되어 있습니다.\[1\]
+2011년 1월 26일에 발표 된 비쥬얼 계 밴드의 컴필레이션 앨범 《Crush\! -90's V-Rock Best Hit Cover Songs-》의 수록곡 중 Malice Mizer의 노래: 〈月下の夜想曲〉이 [D](https://ko.wikipedia.org/wiki/D_\(음악_그룹\) "wikilink") 의해 커버 되어 있다.\[1\]
 
 ## 음반 목록
 

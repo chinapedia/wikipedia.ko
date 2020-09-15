@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BMW 7 시리즈](https://ko.wikipedia.org/wiki/BMW_7_시리즈).
 
 
-**BMW 7 시리즈**(BMW 7 Series)는 [독일](../Page/독일.md "wikilink")의 고급 자동차 회사인 [BMW](../Page/BMW.md "wikilink")의 대형 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")으로, F 세그먼트에 속한다. [바이에른주](../Page/바이에른주.md "wikilink") 딩골핑 공장에서 생산된다.
+**BMW 7 시리즈**(BMW 7 Series)는 [독일](../Page/독일.md "wikilink")의 고급 자동차 회사인 [BMW](../Page/BMW.md "wikilink")의 대형 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")으로, F 세그먼트에 속한다.
 
 ## 1세대(E23)
 
@@ -62,6 +62,8 @@
 [2015년](../Page/2015년.md "wikilink") 6월에 풀 모델 체인지를 통해 코드명이 F+숫자에서 G+숫자로 변경되었으며, 코드네임 중 G11은 숏 바디 사양, G12는 롱 바디 사양이다. 조화로운 차체 비율과 정교한 라인을 바탕으로 하는 차별화된 존재감과 역동적이면서도 우아한 세련미를 가진 디자인에 카본 코어를 통한 경량화 설계가 이루어진 것이 특징이다. 터치 디스플레이와 제스처 컨트롤, 레이저 라이트 등의 신기술이 적용됐으며, 또한 LCD 디스플레이가 내장된 스마트 키가 적용됐는데, 주행 가능 거리 및 다양한 정보를 이 디스플레이를 통해 확인할 수 있을 뿐만 아니라 차 안에서 모바일 기기와 함께 충전이 가능하다. [플러그인 하이브리드는](../Page/플러그인_하이브리드.md "wikilink") 2.0ℓ 258마력 가솔린 터보 엔진과 70kw(95마력)급의 모터를 조합하였다. 가솔린 엔진은 직렬 6기통 3.0ℓ 326마력 직분사 [터보차저](../Page/터보차저.md "wikilink")와 V8 4.4ℓ 450마력 [바이 터보](../Page/터보차저.md "wikilink"), 610마력 V12 6.6리터 바이 터보를 사용하며, 디젤 엔진은 직렬 6기통 3.0ℓ [터보차저](../Page/터보차저.md "wikilink") 265마력\~320마력을 사용한다. 여기에 ZF에서 제조한 8단 [자동변속기](../Page/자동변속기.md "wikilink")를 맞물리며, [후륜구동](../Page/후륜구동.md "wikilink") 및 [4륜구동](../Page/4륜구동.md "wikilink") 중 하나를 선택할 수 있다. V12 6.6리터 바이 터보 엔진은 [롤스로이스 고스트에](https://ko.wikipedia.org/wiki/롤스로이스_고스트 "wikilink") 달리는 N74 유닛이며, 5세대 760Li에 장착된 터보 엔진의 배기량을 키운 것이다.
 
 [대한민국](../Page/대한민국.md "wikilink")에는 [2015년](../Page/2015년.md "wikilink") [10월 14일에](../Page/10월_14일.md "wikilink") 판매를 시작했으며, 3.0ℓ 직렬 6기통 265마력 디젤 엔진을 얹은 730d와 730Ld, V8 4.4ℓ 450마력 가솔린 [터보차저](../Page/터보차저.md "wikilink") 엔진을 얹은 750Li가 우선 들어왔고 모두 4륜구동(X드라이브)만 판매한다. 이후 플러그인 하이브리드와 M760i가 들어왔으며, 750은 760으로 대체됐다.
+
+[2018년](../Page/2018년.md "wikilink")에 페이스리프트가 공개되었다. 헤드램프가 얇고, 키드니 그릴이 더 커지고, 디자인이 많이 변경되었다. 한국에서는 [2019년 6월부터](https://ko.wikipedia.org/wiki/2019년_6월 "wikilink") 출시되었다.
 
 파일:BMW 7Series Front (right).jpg|BMW 7 시리즈 M 스포트 패키지 정측면 파일:BMW 7Series Rear (left).jpg|BMW 7 시리즈 M 스포트 패키지 후측면
 

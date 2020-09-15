@@ -34,7 +34,7 @@
 
 ## 단점
 
-  - 소액 증거금 만큼, 방향이 틀릴 경우 엄청난 [손실](https://ko.wikipedia.org/wiki/손실 "wikilink") 또는 [부채](../Page/부채.md "wikilink")로 [전환](https://ko.wikipedia.org/wiki/전환 "wikilink")된다.
+  - 소액 증거금 만큼, 방향이 틀릴 경우 엄청난 [손실](https://ko.wikipedia.org/wiki/손실 "wikilink") 또는 [부채로](https://ko.wikipedia.org/wiki/부채_\(경제\) "wikilink") [전환](https://ko.wikipedia.org/wiki/전환 "wikilink")된다.
   - [중앙은행](../Page/중앙은행.md "wikilink"), [정부](../Page/정부.md "wikilink")개입이 발생하는 경우 통화 가격 널뛰기가 심하다.
   - 미등록 중계회사나 선물회사의 경우, 그 회사가 부도 날 경우 [투자금](https://ko.wikipedia.org/wiki/투자금 "wikilink")이 보호될 수 없다.
   - [예금자보호](https://ko.wikipedia.org/wiki/예금자보호 "wikilink")대상이 아니다.

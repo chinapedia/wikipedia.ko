@@ -291,6 +291,14 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Russia.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/러시아_비치사커_국가대표팀" title="wikilink">러시아</a></p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2021년_FIFA_비치사커_월드컵" title="wikilink">2021</a></p></td>
+<td><p>[모스크바]] 루즈니키 올림픽 단지</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

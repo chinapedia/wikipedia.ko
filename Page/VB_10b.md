@@ -19,8 +19,6 @@
 
 [분류:독수리자리](https://ko.wikipedia.org/wiki/분류:독수리자리 "wikilink") [분류:외계 행성](https://ko.wikipedia.org/wiki/분류:외계_행성 "wikilink") [분류:2009년 발견한 외계 행성](https://ko.wikipedia.org/wiki/분류:2009년_발견한_외계_행성 "wikilink")
 
-[de:VB 10 b](https://ko.wikipedia.org/wiki/de:VB_10_b "wikilink") [en:VB 10b](https://ko.wikipedia.org/wiki/en:VB_10b "wikilink") [fr:VB 10b](https://ko.wikipedia.org/wiki/fr:VB_10b "wikilink")
-
 1.  [arXiv:0906.0544 absrtact](http://xxx.lanl.gov/abs/0906.0544)
 2.
 3.  [아주 작은 별 도는 외부행성 발견](http://www.newshankuk.com/news/news_view.asp?articleno=k2009060210160645224), 뉴스한국, 2009-06-02 입력, 2009-09-01 확인.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BATOO 스타리그 08\~09](https://ko.wikipedia.org/wiki/BATOO_스타리그_08\~09).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Ongamenet_2009_BATOO_Starleague_Grand_final.JPG "wikilink") **BATOO 스타리그 08\~09**는 [2008년](../Page/2008년.md "wikilink") 부터 [2009년](../Page/2009년.md "wikilink")까지 진행된 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 스타리그이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Ongamenet_2009_BATOO_Starleague_Grand_final.JPG "wikilink") **BATOO 스타리그 08\~09**는 [2008년](../Page/2008년.md "wikilink")부터 [2009년](../Page/2009년.md "wikilink")까지 진행된 [온게임넷](https://ko.wikipedia.org/wiki/온게임넷 "wikilink")의 스타리그이다.
 
 ## 리그기간
 
@@ -62,7 +62,7 @@
 
   - **예선** - 용산 이스포츠 보조 경기장
   - **본선** - 용산 이스포츠 상설 경기장
-  - **결승** - [부산](https://ko.wikipedia.org/wiki/부산 "wikilink") [사직실내체육관](../Page/사직실내체육관.md "wikilink") (프로농구 [부산 KT 소닉붐의](../Page/부산_KT_소닉붐.md "wikilink") 홈 경기장)
+  - **결승** - [부산 사직실내체육관](../Page/사직실내체육관.md "wikilink") ([KBL](https://ko.wikipedia.org/wiki/한국_프로_농구 "wikilink") [부산 KT 소닉붐의](../Page/부산_KT_소닉붐.md "wikilink") 홈 경기장)
 
 ## 맵
 
@@ -120,11 +120,11 @@
 
 ### 조별 본선 진출자
 
-| A조  | B조  | C조  | D조  | E조  | F조 | G조  | H조  | I조  | J조  | K조  | L조  |
-| --- | --- | --- | --- | --- | -- | --- | --- | --- | --- | --- | --- |
-| 박상우 | 신상문 | 조재걸 | 김재춘 | 민찬기 |    | 김윤중 |     | 강구열 | 이제동 | 박종수 | 이영한 |
-| M조  | N조  | O조  | P조  | Q조  | R조 | S조  | T조  | U조  | V조  | W조  | X조  |
-| 김구현 | 고강민 | 김민제 | 서기수 | 조일장 |    | 박문기 | 고석현 | 구성훈 | 박대경 |     | 박동수 |
+| A조  | B조  | C조  | D조  | E조  | F조         | G조  | H조         | I조  | J조  | K조         | L조  |
+| --- | --- | --- | --- | --- | ---------- | --- | ---------- | --- | --- | ---------- | --- |
+| 박상우 | 신상문 | 조재걸 | 김재춘 | 민찬기 | <s>신희승</s> | 김윤중 | <s>진영수</s> | 강구열 | 이제동 | 박종수        | 이영한 |
+| M조  | N조  | O조  | P조  | Q조  | R조         | S조  | T조         | U조  | V조  | W조         | X조  |
+| 김구현 | 고강민 | 김민제 | 서기수 | 조일장 | <s>김창희</s> | 박문기 | 고석현        | 구성훈 | 박대경 | <s>박명수</s> | 박동수 |
 
 ### 36강 시드자
 

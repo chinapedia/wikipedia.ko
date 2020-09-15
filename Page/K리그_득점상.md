@@ -250,7 +250,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/K리그_2004.md" title="wikilink">2004</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조앙_소아리스_다_모타_네투" title="wikilink">모따</a></p></td>
+<td><p><a href="../Page/주앙_소아리스_다_모타_네투.md" title="wikilink">모따</a></p></td>
 <td><p><a href="../Page/전남_드래곤즈.md" title="wikilink">전남 드래곤즈</a></p></td>
 <td><div style="text-align: center;">
 <p>14</p></td>
@@ -887,7 +887,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/R리그_2002" title="wikilink">2002</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이선우" title="wikilink">이선우</a></p></td>
+<td><p><a href="../Page/이선우.md" title="wikilink">이선우</a></p></td>
 <td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
 <td><div style="text-align: center;">
 <p>7</p></td>

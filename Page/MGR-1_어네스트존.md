@@ -3,12 +3,20 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:MGR-1_Honest_John_rocket.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:Demonstration_cluster_bomb.jpg "wikilink") **어네스트존**(Honest John) 로켓은 미국 최초의 핵공격 가능한 지대지 로켓이다. 최초발사는 1951년, 실전배치는 1953년 1월에 있었다. [W31 핵탄두가](https://ko.wikipedia.org/wiki/W31_핵탄두 "wikilink") 장착되며, 1960년대 후반에는 [사린 신경 가스](../Page/사린.md "wikilink") 탄두가 장착되었다.[1](http://www.tpub.com/content/decontaminationequipment/TM-9-1300-2753/css/TM-9-1300-2753_18.htm)
 
-2가지 기종이 있다:
+## 역사
+
+총 7000개 이상의 생산을 마치고, 어네스트존 개량형의 생산은 [1965년](../Page/1965년.md "wikilink")에 중단되어 [1973년](../Page/1973년.md "wikilink") [랜스 미사일로](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") 교체되었다. 그러나 [나토](https://ko.wikipedia.org/wiki/나토 "wikilink")와 유럽과 미국 주방위군에는 [1982년](../Page/1982년.md "wikilink")까지 사용되었다.
+
+1957년 7월 15일 주한미군이 핵무장화에 착수한다고 공식 발표했다. 1958년 1월 29일 주한미군이 남한에 핵무기를 배치했다고 발표했다. 2월 3일 주한미군 1군단 비행장에서 280 mm [M65 원자포와](https://ko.wikipedia.org/wiki/M65_원자포 "wikilink") '어네스토존'을 공개했다. [M65 원자포는](https://ko.wikipedia.org/wiki/M65_원자포 "wikilink") 무려 2대의 트랙터에 의해 견인되는 83톤짜리 거포(巨砲)로, 운용에만 20여 명의 병력을 필요로 했다. M65 원자포는 15kt 파괴력의 W-9 핵포탄, 사거리 30 km이다. 20대가 제작되어 16대가 한국과 서독에 배치되었다.
+
+어네스트존은 60 kt [W7 핵탄두를](https://ko.wikipedia.org/wiki/W7_핵탄두 "wikilink") 장착하며, 사거리 50 km 이다. [주한미군](https://ko.wikipedia.org/wiki/주한미군 "wikilink")에 배치된 최초의 핵미사일이다.
+
+## 버전
+
+2가지 모델이 있다:
 
   - **MGR-1A** 사거리 48 km, 추력 400 [kN](https://ko.wikipedia.org/wiki/kN "wikilink"), 중량 2,720 kg, 직경 580 mm, 길이 8.32 m.
   - **MGR-1B** 사거리 37 km, 추력 382 [kN](https://ko.wikipedia.org/wiki/kN "wikilink"), 중량 2,040 kg, 직경 760 mm, 길이 7.56 m.
-
-총 7000개 이상의 생산을 마치고, 어네스트존 개량형의 생산은 [1965년](../Page/1965년.md "wikilink")에 중단되어 [1973년](../Page/1973년.md "wikilink") [랜스 미사일로](https://ko.wikipedia.org/wiki/랜스_미사일 "wikilink") 교체되었다. 그러나 [나토](https://ko.wikipedia.org/wiki/나토 "wikilink")와 유럽과 미국 주방위군에는 [1982년](../Page/1982년.md "wikilink")까지 사용되었다.
 
 ## 북한과 비교
 
@@ -118,4 +126,4 @@
   - Redstone Arsenal (Alabama) (includes declassified military monograph on the Honest John, chronology, pictures, and a movie of an Honest John firing) [2](https://web.archive.org/web/20090221141933/http://www.redstone.army.mil/history/systems/HONEST_JOHN.html)
   - Honest John Missile Base in Germany <http://www.herzobase.org>
 
-[분류:미국의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:미국의_지대지유도탄 "wikilink") [분류:핵포병](https://ko.wikipedia.org/wiki/분류:핵포병 "wikilink") [분류:미국의 핵무기](https://ko.wikipedia.org/wiki/분류:미국의_핵무기 "wikilink") [분류:집속탄](https://ko.wikipedia.org/wiki/분류:집속탄 "wikilink")
+[분류:미국의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:미국의_지대지유도탄 "wikilink") [분류:미국의 핵무기](https://ko.wikipedia.org/wiki/분류:미국의_핵무기 "wikilink") [분류:캐나다의 핵무기](https://ko.wikipedia.org/wiki/분류:캐나다의_핵무기 "wikilink") [분류:핵포병](https://ko.wikipedia.org/wiki/분류:핵포병 "wikilink") [분류:집속탄](https://ko.wikipedia.org/wiki/분류:집속탄 "wikilink")

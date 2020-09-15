@@ -40,4 +40,4 @@ Direct2D는 GDI, GDI+, Direct3D과의 상호 운용성을 가지며 [DirectWrite
 2.  \[<http://msdn.microsoft.com/en-us/library/dd370990(VS.85>).aspx Direct2D (Windows) \]
 3.
 4.  [Release Notes: Mozilla Developer Preview](http://www.mozilla.org/projects/devpreview/releasenotes/)
-5.  2010년 4월 현재, 파이어폭스 3.7 nightly 빌드에서 사용 가능하지만 기본값은 '사용안함'이다. 사용하기 위해서는 [여기](http://www.basschouten.com/blog1.php/2010/03/02/presenting-direct2d-hardware-acceleratio)를 참조하라.
+5.  2010년 4월 현재, 파이어폭스 3.7 nightly 빌드에서 사용 가능하지만 기본값은 '사용안함'이다. 사용하기 위해서는 [여기](http://www.basschouten.com/blog1.php/2010/03/02/presenting-direct2d-hardware-acceleratio) 를 참조하라.

@@ -40,9 +40,9 @@ PEN 시리즈에 디지털 모델로서 첫 번째로 합류하였다. 전체적
 
   - [dcinside.com의 리뷰](https://web.archive.org/web/20090904022803/http://dica.dcinside.com/review.php?pid=8575)
 
-  - [dpreview.com의 리뷰](http://www.dpreview.com/reviews/olympusep1/)
+  - [dpreview.com의 리뷰](https://web.archive.org/web/20091203194316/http://www.dpreview.com/reviews/olympusep1/)
 
-  - [ephotozine의 리뷰](http://www.ephotozine.com/article/Olympus-EP1-11723)
+  - [ephotozine의 리뷰](https://web.archive.org/web/20090830073208/http://www.ephotozine.com/article/Olympus-EP1-11723)
 
 ## 각주
 

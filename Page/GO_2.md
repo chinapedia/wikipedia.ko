@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GO 2](https://ko.wikipedia.org/wiki/GO_2).
 
 
-**Go 2**(고 투)는 SCP 소속인 [패스트웨이 / 더스티](https://ko.wikipedia.org/wiki/패스트웨이 "wikilink")(본명 : 엔니오 자니니)와 에이스(본명 : [크리스찬 코데노티](https://ko.wikipedia.org/wiki/크리스찬_코데노티 "wikilink"))가 결성한 이인그룹이다.
+**Go 2**(고 투)는 SCP 소속인 [패스트웨이 / 더스티](https://ko.wikipedia.org/wiki/패스트웨이 "wikilink")(본명 : 엔니오 자니니)와 에이스(본명 : [크리스찬 코데노티](https://ko.wikipedia.org/wiki/크리스찬_코데노티 "wikilink"))가 결성한 2인 그룹이다.
 
 ## 개요
 

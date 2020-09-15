@@ -22,7 +22,7 @@
 
 <references/>
 
-[분류:가온 디지털 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_디지털_차트_1위_노래 "wikilink") [분류:가온 모바일 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_모바일_차트_1위_노래 "wikilink") [분류:브라운 아이드 걸스의 노래](https://ko.wikipedia.org/wiki/분류:브라운_아이드_걸스의_노래 "wikilink") [분류:일렉트로팝 노래](https://ko.wikipedia.org/wiki/분류:일렉트로팝_노래 "wikilink") [분류:대한민국의 팝 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink")
+[분류:가온 디지털 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_디지털_차트_1위_노래 "wikilink") [분류:가온 모바일 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_모바일_차트_1위_노래 "wikilink") [분류:브라운 아이드 걸스의 노래](https://ko.wikipedia.org/wiki/분류:브라운_아이드_걸스의_노래 "wikilink") [분류:일렉트로팝 노래](https://ko.wikipedia.org/wiki/분류:일렉트로팝_노래 "wikilink") [분류:K-pop 노래](https://ko.wikipedia.org/wiki/분류:K-pop_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink")
 
 1.  김재환 (2009년 8월 20일) [브아걸 ‘아브라카다브라’ 3주연속 1위](http://news.joins.com/article/722/3735722.html?ctg=15) . [중앙일보](../Page/중앙일보.md "wikilink")/Newsen.
 2.  (2009년 12월 22일) [작곡가들이 뽑은 올해의 걸작 ‘아브라카다브라’](http://media.daum.net/entertain/others/view.html?cateid=100030&newsid=20091222111404326&p=ilgansports&t__nil_enter=uptxt&nil_id=5) [다음](../Page/다음.md "wikilink") / [일간스포츠](../Page/일간스포츠.md "wikilink")

@@ -21,7 +21,7 @@
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:FAIRCHILD_REPUBLIC_A-10A_THUNDERBOLT_II.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:A-10_Thunderbolt_II_Gun_Run.JPEG "wikilink") [섬네일에서](https://ko.wikipedia.org/wiki/파일:GAU-8A_Avenger_Gatling_gun.jpg "wikilink") 사용한다.\]\]
 
-## 참고
+## 각주
 
 ## 외부 링크
 

@@ -21,11 +21,11 @@
 
 ## 수행 단계
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Arecibo_naic_big.gif "wikilink") SETI@home의 프로젝트는 몇 단계의 과정을 거쳐 이루어진다. 먼저 프로젝트의 수행을 위한 정보는 [푸에르토리코](../Page/푸에르토리코.md "wikilink")에 위치한 지름 305m의 세계 최대의 단일 전파망원경인 [아레시보 천문대의](../Page/아레시보_천문대.md "wikilink") 수신기에서 수집된다. 수집된 데이터는 용량이 매우 크기 때문에 [분산 컴퓨팅기술을](../Page/분산_컴퓨팅.md "wikilink") 이용하여 처리하는데, [캘리포니아 대학교 버클리에서](../Page/캘리포니아_대학교_버클리.md "wikilink") 데이터를 일정 단위로 작게 나누어 전 세계의 [BOINC](../Page/BOINC.md "wikilink")소프트웨어를 설치한 [개인용 컴퓨터로](../Page/개인용_컴퓨터.md "wikilink") 분산되어 보낸다. [개인용 컴퓨터에서](../Page/개인용_컴퓨터.md "wikilink") 데이터의 분석이 이루어지며, 분석된 결과는 다시 [캘리포니아 대학교 버클리로](../Page/캘리포니아_대학교_버클리.md "wikilink") 보내진다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Arecibo_naic_big.png "wikilink") SETI@home의 프로젝트는 몇 단계의 과정을 거쳐 이루어진다. 먼저 프로젝트의 수행을 위한 정보는 [푸에르토리코](../Page/푸에르토리코.md "wikilink")에 위치한 지름 305m의 세계 최대의 단일 전파망원경인 [아레시보 천문대의](../Page/아레시보_천문대.md "wikilink") 수신기에서 수집된다. 수집된 데이터는 용량이 매우 크기 때문에 [분산 컴퓨팅기술을](../Page/분산_컴퓨팅.md "wikilink") 이용하여 처리하는데, [캘리포니아 대학교 버클리에서](../Page/캘리포니아_대학교_버클리.md "wikilink") 데이터를 일정 단위로 작게 나누어 전 세계의 [BOINC](../Page/BOINC.md "wikilink")소프트웨어를 설치한 [개인용 컴퓨터로](../Page/개인용_컴퓨터.md "wikilink") 분산되어 보낸다. [개인용 컴퓨터에서](../Page/개인용_컴퓨터.md "wikilink") 데이터의 분석이 이루어지며, 분석된 결과는 다시 [캘리포니아 대학교 버클리로](../Page/캘리포니아_대학교_버클리.md "wikilink") 보내진다.
 
 ## 기록
 
-현재까지 어떤 외계 지적 생명체의 증거를 발견하지 못했지만, 여러가지 기록을 남기고 있다. SETI@home 프로젝트는 전 세계에서 520만 이상이 참여한 [분산 컴퓨팅](../Page/분산_컴퓨팅.md "wikilink") 프로젝트이다. [2001년](../Page/2001년.md "wikilink") [9월 26일에는](../Page/9월_26일.md "wikilink") 총 10의 21제곱수의 [부동 소수점연산을](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink") 수행하여 [기네스 세계 기록으로](../Page/기네스_세계_기록.md "wikilink") 인정되기도 했다. 2019년 10월 25일 기준으로 초당 평균 **989테라플롭스**(TeraFLOPS)의 [부동 소수점연산을](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink") 기록하고 있다.\[2\]
+현재까지 어떤 외계 지적 생명체의 증거를 발견하지 못했지만, 여러가지 기록을 남기고 있다. SETI@home 프로젝트는 전 세계에서 520만 이상이 참여한 [분산 컴퓨팅](../Page/분산_컴퓨팅.md "wikilink") 프로젝트이다. [2001년](../Page/2001년.md "wikilink") [9월 26일에는](../Page/9월_26일.md "wikilink") 총 10의 21제곱수의 [부동소수점](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink") 연산을 수행하여 [기네스 세계 기록으로](../Page/기네스_세계_기록.md "wikilink") 인정되기도 했다. 2019년 10월 25일 기준으로 초당 평균 **989테라플롭스**(TeraFLOPS)의 [부동소수점](https://ko.wikipedia.org/wiki/부동_소수점 "wikilink") 연산을 기록하고 있다.\[2\]
 
 ## 참여
 

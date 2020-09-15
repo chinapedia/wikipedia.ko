@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [유니언역 \(TTC\)](https://ko.wikipedia.org/wiki/유니언역_\(TTC\)).
 
 
-**유니언역**(Union Station)은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")의 지하철 [영-유니버시티 선의](https://ko.wikipedia.org/wiki/영-유니버시티_선 "wikilink") 역이다. [1954년](../Page/1954년.md "wikilink")에 개통된 이 역은 이 노선의 영과 유니버시티 구역 사이의 루프에 중심역이 되는 곳이다. 그리고 이 역은 또한 베이 스트리트와 요크 스트리트, 프론트 스트리트가 맞닿아 있으며, 역의 북쪽으로는 [유니언 기차역이](https://ko.wikipedia.org/wiki/유니언_역_\(토론토\) "wikilink") 위치해있다. 이 역은 1954년 3월 30일 개통 이후 1963년 2월 28일 유니버시티 부분의 개통 전까지 영 노선의 종착역이었다.
+**유니언역**(Union Station)은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink")의 지하철 [1호선 영-유니버시티의](../Page/1호선_영-유니버시티.md "wikilink") 역이다. [1954년](../Page/1954년.md "wikilink")에 개통된 이 역은 이 노선의 영과 유니버시티 구역 사이의 루프에 중심역이 되는 곳이다. 그리고 이 역은 또한 베이 스트리트와 요크 스트리트, 프론트 스트리트가 맞닿아 있으며, 역의 북쪽으로는 [유니언 기차역이](https://ko.wikipedia.org/wiki/유니언_역_\(토론토\) "wikilink") 위치해있다. 이 역은 1954년 3월 30일 개통 이후 1963년 2월 28일 유니버시티 부분의 개통 전까지 영 노선의 종착역이었다.
 
 유니언 역에서 [고 트랜싯의](https://ko.wikipedia.org/wiki/고_트랜싯 "wikilink") 통근 열차와 버스, [유니언 피어슨 급행](https://ko.wikipedia.org/wiki/유니언_피어슨_급행 "wikilink"), [VIA 철도와](../Page/VIA_철도.md "wikilink") [암트랙](../Page/암트랙.md "wikilink") 철도로 갈아탈 수 있으며 이 역은 하루 99,960명의 승객이 이용하는 토론토에서 세 번째로 가장 바쁜 지하철역이다.\[1\]
 

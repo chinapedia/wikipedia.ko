@@ -17,6 +17,6 @@ MIPS-X는 [DVD 플레이어](../Page/DVD_플레이어.md "wikilink") [펌웨어]
 
   - [MIPS-X 원서](https://web.archive.org/web/20061029113256/http://mos.stanford.edu/papers/mh_jssc_87.pdf) (스탠포드)
 
-[분류:마이크로프로세서](https://ko.wikipedia.org/wiki/분류:마이크로프로세서 "wikilink")
+[분류:마이크로프로세서](https://ko.wikipedia.org/wiki/분류:마이크로프로세서 "wikilink") [분류:명령어 집합 구조](https://ko.wikipedia.org/wiki/분류:명령어_집합_구조 "wikilink")
 
 1.  [hsc instruction](ftp://reports.stanford.edu/pub/cstr/reports/csl/tr/86/289/CSL-TR-86-289.pdf) , MIPS-X Instruction Set and Programmer's Manual, p. 65.

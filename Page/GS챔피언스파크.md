@@ -244,8 +244,8 @@
 
 ## 참고 문헌
 
-  - [FC 서울 공식 웹사이트 - GS챔피언스파크 소개 페이지](http://www.fcseoul.com/club/ground/park.jsp)
-  - [FC 서울 공식 웹사이트 온라인 역사관 173P](http://www.fcseoul.com/history.jsp)
+  - [FC 서울 공식 웹사이트 - GS챔피언스파크 소개 페이지](https://web.archive.org/web/20110318203401/http://www.fcseoul.com/club/ground/park.jsp)
+  - [FC 서울 공식 웹사이트 온라인 역사관 173P](https://web.archive.org/web/20150706212516/http://www.fcseoul.com/history.jsp)
 
 ## 같이 보기
 
@@ -254,7 +254,7 @@
 
 ## 외부 링크
 
-  - [FC 서울 - GS챔피언스파크](http://www.fcseoul.com/club/ground/park.jsp)
+  - [FC 서울 - GS챔피언스파크](https://web.archive.org/web/20110318203401/http://www.fcseoul.com/club/ground/park.jsp)
 
 [분류:1988년 설립](https://ko.wikipedia.org/wiki/분류:1988년_설립 "wikilink") [분류:1988년 완공된 스포츠 시설](https://ko.wikipedia.org/wiki/분류:1988년_완공된_스포츠_시설 "wikilink") [분류:구리시의 건축물](https://ko.wikipedia.org/wiki/분류:구리시의_건축물 "wikilink") [분류:구리시의 스포츠](https://ko.wikipedia.org/wiki/분류:구리시의_스포츠 "wikilink") [분류:대한민국의 축구 훈련장](https://ko.wikipedia.org/wiki/분류:대한민국의_축구_훈련장 "wikilink") [분류:대한민국의 축구 경기장](https://ko.wikipedia.org/wiki/분류:대한민국의_축구_경기장 "wikilink") [분류:구리시의 축구 경기장](https://ko.wikipedia.org/wiki/분류:구리시의_축구_경기장 "wikilink") [분류:GS스포츠](https://ko.wikipedia.org/wiki/분류:GS스포츠 "wikilink") [분류:FC 서울](https://ko.wikipedia.org/wiki/분류:FC_서울 "wikilink")
 

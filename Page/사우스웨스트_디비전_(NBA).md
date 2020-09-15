@@ -161,6 +161,11 @@
 <td><p><a href="../Page/휴스턴_로키츠.md" title="wikilink">휴스턴 로키츠</a></p></td>
 <td><p>53승 29패 .646</p></td>
 </tr>
+<tr class="even">
+<td><p>2020년</p></td>
+<td><p><a href="../Page/휴스턴_로키츠.md" title="wikilink">휴스턴 로키츠</a></p></td>
+<td><p>44승 28패 .611</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -179,7 +184,7 @@
 <td><p><a href="../Page/샌안토니오_스퍼스.md" title="wikilink">샌안토니오 스퍼스</a></p></td>
 </tr>
 <tr class="even">
-<td><p>3회</p></td>
+<td><p>4회</p></td>
 <td><p><a href="../Page/휴스턴_로키츠.md" title="wikilink">휴스턴 로키츠</a></p></td>
 </tr>
 <tr class="odd">

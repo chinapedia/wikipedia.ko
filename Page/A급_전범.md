@@ -83,7 +83,7 @@
   - [도이하라 겐지](../Page/도이하라_겐지.md "wikilink") - 육군 군인, 펑텐 특무 기관장, 제12방면 군사령관
   - [도조 히데키](../Page/도조_히데키.md "wikilink") - 육군 군인, 제40대 [내각총리대신](https://ko.wikipedia.org/wiki/일본_내각총리대신 "wikilink")
   - [무토 아키라](../Page/무토_아키라.md "wikilink") - 육군 군인, 제14방면군 참모장 (필리핀)
-  - [마쓰이 이와네](../Page/마쓰이_이와네.md "wikilink")\[1\]
+  - [마쓰이 이와네](../Page/마쓰이_이와네.md "wikilink")\[1\] - 육군 군인, 중지나방면군 사령관, 상하이 파견군 사령관
   - [히로타 고키](../Page/히로타_고키.md "wikilink") - 문관, 제32대 [내각총리대신](https://ko.wikipedia.org/wiki/일본_내각총리대신 "wikilink")
 
 ### 종신형

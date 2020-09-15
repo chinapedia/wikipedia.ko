@@ -23,6 +23,9 @@
 
 ## 외부 링크
 
+  -
+  - [Interview with Jimmy Page on the making of Led Zeppelin III](http://www.led-zeppelin.org/reference/index.php?m=int3)
+
 [분류:1970년 음반](https://ko.wikipedia.org/wiki/분류:1970년_음반 "wikilink") [분류:레드 제플린의 음반](https://ko.wikipedia.org/wiki/분류:레드_제플린의_음반 "wikilink") [분류:애틀랜틱 레코드 음반](https://ko.wikipedia.org/wiki/분류:애틀랜틱_레코드_음반 "wikilink")
 
 1.

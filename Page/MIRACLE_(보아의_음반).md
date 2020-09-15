@@ -149,7 +149,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>(후속곡)기적</strong></p></td>
+<td><p><strong>(후속곡)기적(Miracle)</strong></p></td>
 <td></td>
 <td></td>
 </tr>

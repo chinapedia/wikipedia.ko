@@ -13,7 +13,7 @@
 
 ### 《실제상황 토요일》 편성 시기
 
-  - 1기 당시 메인 MC는 [김제동](../Page/김제동.md "wikilink")이었고, [강호동](../Page/강호동.md "wikilink")과 [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")이 각각 강팀과 유팀의 팀장을 맡았다. 1기 출연자는 [윤현진](https://ko.wikipedia.org/wiki/윤현진_\(1978년\) "wikilink") SBS 아나운서(X맨), [은지원](../Page/은지원.md "wikilink"), [박예진](https://ko.wikipedia.org/wiki/박예진 "wikilink"), [김C](../Page/김C.md "wikilink"), [토니 안](../Page/토니_안.md "wikilink"), [김종민](../Page/김종민.md "wikilink"), [김경호](../Page/김경호_\(가수\).md "wikilink"), 애니(전 타샤니 멤버)였다.
+  - 1기 당시 메인 MC는 [김제동](../Page/김제동.md "wikilink")이었고, [강호동](../Page/강호동.md "wikilink")과 [유재석](https://ko.wikipedia.org/wiki/유재석 "wikilink")이 각각 강팀과 유팀의 팀장을 맡았다. 1기 출연자는 [윤현진](https://ko.wikipedia.org/wiki/윤현진_\(1978년\) "wikilink") SBS 아나운서(X맨), [은지원](../Page/은지원.md "wikilink"), [박예진](https://ko.wikipedia.org/wiki/박예진 "wikilink"), [김C](../Page/김C.md "wikilink"), [토니 안](../Page/토니_안.md "wikilink"), [김종민](../Page/김종민.md "wikilink"), [김경호](../Page/김경호_\(가수\).md "wikilink"), [애니](https://ko.wikipedia.org/wiki/애니_\(가수\) "wikilink")(전 타샤니 멤버)였다.
   - 2기부터 메인 MC가 김제동에서 유재석으로 바뀌었고, 김제동은 김팀(1기에는 유팀)의 팀장을 맡게 되었다.
   - 초창기에 출시된 '단결 말타기', '줄줄이 말해요', '날아라 프라이팬' 등의 게임들이 히트했고, 특히 2004년 5월에 출시된 '당연하지\!'가 메가히트하면서 큰 화제를 불러일으켰다.
 
@@ -28,7 +28,7 @@
 
   - 2006년 11월 가을개편으로 일요일이 좋다 7시대 코너가 폐지되면서 일요일이 좋다가 X맨 단독코너 체제로 개편되었다.
   - **일요일이 좋다 X맨**은 **New X맨**으로 코너명을 바꾸고 기존의 심리게임에서 벗어나 출연진 중 그 주의 설문조사에서 1위를 한 출연자가 X맨이 되고, 마지막에 X맨이 속한 팀이 패하는 형식으로 탈바꿈했다. 이 설문조사에는 MC 유재석도 포함되었는데, 이는 유재석의 순위를 기준으로 상위는 강호동 팀(이하 강팀), 하위는 이혁재 팀(이하 이팀)으로 분류되기 때문이었다. 또 아무도 모르는 X맨의 특성상 각 팀장은 게임에서 승리할 시 팀원을 상대팀으로부터 영입할 수도 있고, 상대팀으로 방출할 수도 있다.
-  - New X맨 체제에서 시청률이 하락하자 [2007년](../Page/2007년.md "wikilink") 봄 개편으로 X맨은 폐지되었다. 이로써 이 프로그램은 현재까지 강호동과 유재석이 함께 출연한 마지막 프로그램으로 남게 되었다.
+  - 그러나, New X맨 체제에서 시청률이 하락하자 [2007년](../Page/2007년.md "wikilink") 봄 개편으로 X맨은 폐지되었다. 이로써 이 프로그램은 현재까지 강호동과 유재석이 함께 출연한 마지막 프로그램으로 남게 되었다.
 
 ## 방송 시간
 
@@ -218,8 +218,8 @@
 
 #### 당시 아이돌 스타
 
-  - [신화](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") : [2004년](../Page/2004년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink"), [17일](../Page/10월_17일.md "wikilink") 신화 특집 방송
-  - (구) [동방신기](../Page/동방신기.md "wikilink") : [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink"), [8일](../Page/10월_8일.md "wikilink") 동방신기 특집 방송
+  - [신화](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") : [2004년](../Page/2004년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink"), [17일](../Page/10월_17일.md "wikilink") (신화 특집 방송 당시 출연)
+  - (구) [동방신기](../Page/동방신기.md "wikilink") : [2006년](../Page/2006년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink"), [8일](../Page/10월_8일.md "wikilink") (동방신기 특집 방송 당시 출연)
   - [문희준](../Page/문희준.md "wikilink"), [장우혁](../Page/장우혁.md "wikilink"), [토니 안](../Page/토니_안.md "wikilink"), [강타](../Page/강타.md "wikilink"), [이재원](../Page/이재원_\(가수\).md "wikilink") - [H.O.T.](../Page/H.O.T..md "wikilink") 멤버들 (모두 한번 이상은 출연했다.)
   - [SS501](../Page/SS501.md "wikilink")
   - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")

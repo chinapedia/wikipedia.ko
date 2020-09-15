@@ -28,7 +28,7 @@
   - [김영삼](https://ko.wikipedia.org/wiki/김영삼 "wikilink")
   - [신민당](../Page/신민당_\(1967년\).md "wikilink")
   - [부마 민주화 운동](https://ko.wikipedia.org/wiki/부마_민주화_운동 "wikilink")
-  - [김영삼 의원제명 파동](https://ko.wikipedia.org/wiki/김영삼_의원제명_파동 "wikilink")
+  - [김영삼 의원 제명 파동](../Page/김영삼_의원_제명_파동.md "wikilink")
   - [제4공화국](../Page/대한민국_제4공화국.md "wikilink")
   - [10·26 사태](https://ko.wikipedia.org/wiki/10·26_사태 "wikilink")
   - [이돈명](../Page/이돈명.md "wikilink")

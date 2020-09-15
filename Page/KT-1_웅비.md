@@ -14,7 +14,7 @@
 
 ## 엔진
 
-KT-1은 950 마력의 [프랫 앤 휘트니 캐나다 PT6 터보프롭](https://ko.wikipedia.org/wiki/프랫_앤_휘트니_캐나다_PT6_터보프롭 "wikilink") 엔진을 사용한다. 2007년 터키에 40대가 수출되었다. 터키 [TAI](https://ko.wikipedia.org/wiki/TAI "wikilink")는 KT-1과 비슷한 [TAI 휴르커스를](https://ko.wikipedia.org/wiki/TAI_휴르커스 "wikilink") 개발해 2013년 8월 29일 초도비행에 성공, 2018년 판매를 시작했다. [TAI 휴르커스는](https://ko.wikipedia.org/wiki/TAI_휴르커스 "wikilink") 1,600 마력의 [프랫 앤 휘트니 캐나다 PT6a-68t 터보프롭](https://ko.wikipedia.org/wiki/프랫_앤_휘트니_캐나다_PT6_터보프롭 "wikilink") 엔진을 사용한다.
+KT-1은 950 마력의 [프랫 앤 휘트니 캐나다 PT6 터보프롭](https://ko.wikipedia.org/wiki/프랫_앤_휘트니_캐나다_PT6_터보프롭 "wikilink") 엔진을 사용한다. 2007년 터키에 40대가 수출되었다. 터키 [TAI](https://ko.wikipedia.org/wiki/TAI "wikilink")는 KT-1과 비슷한 [TAI 휴르커스를](https://ko.wikipedia.org/wiki/TAI_휴르커스 "wikilink") 개발해 2013년 8월 29일 초도비행에 성공, 2018년 판매를 시작했다. [TAI 휴르커스는](https://ko.wikipedia.org/wiki/TAI_휴르커스 "wikilink") 1,600 마력의 [프랫 앤 휘트니 캐나다 PT6A-62 터보프롭](https://ko.wikipedia.org/wiki/프랫_앤_휘트니_캐나다_PT6_터보프롭 "wikilink") 엔진을 사용한다.
 
 반면, 한국은 [UH-60 블랙호크](https://ko.wikipedia.org/wiki/UH-60_블랙호크 "wikilink"), [AH-64 아파치](../Page/AH-64_아파치.md "wikilink"), 대통령 전용헬기인 [H-92 슈퍼호크](https://ko.wikipedia.org/wiki/H-92_슈퍼호크 "wikilink"), [수리온](https://ko.wikipedia.org/wiki/수리온 "wikilink"), [CN-235](../Page/CN-235.md "wikilink") 수송기 등에 1,500-3,000 마력의 [제너럴 일렉트릭 T700을](../Page/제너럴_일렉트릭_T700.md "wikilink") 사용한다. 대량사용으로 인한 정비의 편의성, 부품 공급 등을 고려하면, KT-1에도 [제너럴 일렉트릭 T700](../Page/제너럴_일렉트릭_T700.md "wikilink") 사용을 검토해 볼 수도 있을 것이다. [수리온](https://ko.wikipedia.org/wiki/수리온 "wikilink")은 엔진 정비의 편의성 때문에, 성능저하에도 불구하고 프랑스제 엔진을 채택하지 않고, 비용이 추가되는 설계변경까지 했다.
 

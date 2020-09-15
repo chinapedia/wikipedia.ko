@@ -5,7 +5,7 @@
 
 ## 연혁
 
-  - [2009년](../Page/2009년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink") 참가 승인
+  - [2009년](../Page/2009년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [K3리그](../Page/K3리그.md "wikilink") 참가 승인
   - [2010년](../Page/2010년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") 창단
   - 2017시즌 불참
   - [2020년](../Page/2020년.md "wikilink") [K5리그](../Page/K5리그.md "wikilink") 광주/전남 리그 편입
@@ -25,9 +25,9 @@
 
 ## 외부 링크
 
-  - [K3, 춘천시민구단 등 3팀 참가 승인(한국축구신문 2009년 12월 3일자)](http://www.weeklysoccer.co.kr/bbs/board.php?bo_table=news&wr_id=426)
+  - [K3, 춘천시민구단 등 3팀 참가 승인(한국축구신문 2009년 12월 3일자)](https://web.archive.org/web/20140203174703/http://www.weeklysoccer.co.kr/bbs/board.php?bo_table=news&wr_id=426)
   - [영광FC 축구단 창단, 군민 화합과 일체감 조성 기여(영광함평장성 인터넷뉴스 2010년 1월 28일자)](http://www.yhinews.com/ArticleView.asp?intNum=14490&ASection=001002)
 
 [전남_영광_FC](https://ko.wikipedia.org/wiki/분류:전남_영광_FC "wikilink") [분류:2010년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2010년_설립된_축구단 "wikilink") [영광 FC](https://ko.wikipedia.org/wiki/분류:전라남도의_스포츠 "wikilink") [분류:K3리그 (아마추어) 구단](https://ko.wikipedia.org/wiki/분류:K3리그_\(아마추어\)_구단 "wikilink")
 
-1.  [K3, 춘천시민구단 등 3팀 참가 승인(한국축구신문 2009년 12월 3일자)](http://www.weeklysoccer.co.kr/bbs/board.php?bo_table=news&wr_id=426)
+1.

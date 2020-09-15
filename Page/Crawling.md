@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Crawling](https://ko.wikipedia.org/wiki/Crawling).
 
 
-《**Crawling**》은 [린킨 파크의](../Page/린킨_파크.md "wikilink") 정규 음반 *[Hybrid Theory](../Page/Hybrid_Theory.md "wikilink")*의 5번째 트랙이자 2번째 싱글 음반이다. [2001년](../Page/2001년.md "wikilink")에 발매되어 2002년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 최고의 하드 록 퍼포먼스 부문에서 수상했다.
+《**Crawling**》(크롤링)은 [린킨 파크의](../Page/린킨_파크.md "wikilink") 정규 음반 *[Hybrid Theory](../Page/Hybrid_Theory.md "wikilink")*의 5번째 트랙이자 2번째 싱글 음반이다. [2001년](../Page/2001년.md "wikilink")에 발매되어 2002년 [그래미상](https://ko.wikipedia.org/wiki/그래미상 "wikilink") 최고의 하드 록 퍼포먼스 부문에서 수상했다.
 
 ## 곡
 
@@ -46,5 +46,3 @@
 
   -
 [분류:록 발라드](https://ko.wikipedia.org/wiki/분류:록_발라드 "wikilink") [분류:헤비 메탈 노래](https://ko.wikipedia.org/wiki/분류:헤비_메탈_노래 "wikilink") [분류:린킨 파크의 노래](https://ko.wikipedia.org/wiki/분류:린킨_파크의_노래 "wikilink") [분류:누 메탈](https://ko.wikipedia.org/wiki/분류:누_메탈 "wikilink") [분류:미국의 노래](https://ko.wikipedia.org/wiki/분류:미국의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:2001년 싱글](https://ko.wikipedia.org/wiki/분류:2001년_싱글 "wikilink") [분류:2000년 노래](https://ko.wikipedia.org/wiki/분류:2000년_노래 "wikilink")
-
-[lt:Hybrid Theory\#Crawling](https://ko.wikipedia.org/wiki/lt:Hybrid_Theory#Crawling "wikilink")

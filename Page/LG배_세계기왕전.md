@@ -184,7 +184,7 @@
 <td><p><a href="../Page/스웨.md" title="wikilink">스웨</a> 九단</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/24회_LG배_세계기왕전" title="wikilink">23</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/24회_LG배_세계기왕전" title="wikilink">24</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/24회_LG배_세계기왕전" title="wikilink">2019-2020</a></p></td>
 <td><p><strong><a href="../Page/신진서.md" title="wikilink">신진서</a></strong> 九단</p></td>
 <td><p>2-0</p></td>

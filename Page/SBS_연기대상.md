@@ -194,14 +194,14 @@
 
 **개그맨 부문**
 
-| 부문      | 수상자                                                                                                                                                                                                                                                  |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 유행어 상   | [최양락](../Page/최양락.md "wikilink")                                                                                                                                                                                                                     |
-| 차라리 가수상 | [최형만](../Page/최형만.md "wikilink")                                                                                                                                                                                                                     |
-| 여우주연상   | [서세원](../Page/서세원.md "wikilink")                                                                                                                                                                                                                     |
-| 신인상     | [김경태](https://ko.wikipedia.org/wiki/김경태 "wikilink")                                                                                                                                                                                                  |
-| 특별상     | [문성근](../Page/문성근.md "wikilink"), [김승규](https://ko.wikipedia.org/wiki/김승규 "wikilink"), [이선우](https://ko.wikipedia.org/wiki/이선우 "wikilink"), [이주연](https://ko.wikipedia.org/wiki/이주연 "wikilink"), [성성모](https://ko.wikipedia.org/wiki/성성모 "wikilink") |
-|         |                                                                                                                                                                                                                                                      |
+| 부문      | 수상자                                                                                                                                                                                                                               |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 유행어 상   | [최양락](../Page/최양락.md "wikilink")                                                                                                                                                                                                  |
+| 차라리 가수상 | [최형만](../Page/최형만.md "wikilink")                                                                                                                                                                                                  |
+| 여우주연상   | [서세원](../Page/서세원.md "wikilink")                                                                                                                                                                                                  |
+| 신인상     | [김경태](https://ko.wikipedia.org/wiki/김경태 "wikilink")                                                                                                                                                                               |
+| 특별상     | [문성근](../Page/문성근.md "wikilink"), [김승규](https://ko.wikipedia.org/wiki/김승규 "wikilink"), [이선우](../Page/이선우.md "wikilink"), [이주연](https://ko.wikipedia.org/wiki/이주연 "wikilink"), [성성모](https://ko.wikipedia.org/wiki/성성모 "wikilink") |
+|         |                                                                                                                                                                                                                                   |
 
 | 부문                                      | 수상자                                                                                      | 출연작                                                         |
 | --------------------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
@@ -436,7 +436,7 @@
 </p></td>
 <td><p><a href="../Page/차인표.md" title="wikilink">차인표</a><br />
 <a href="../Page/송혜교.md" title="wikilink">송혜교</a></p></td>
-<td><p><a href="../Page/완전한_사랑.md" title="wikilink">완전한 사랑</a><br />
+<td><p><a href="https://ko.wikipedia.org/wiki/완전한_사랑_(2003년_드라마)" title="wikilink">완전한 사랑</a><br />
 <a href="../Page/올인.md" title="wikilink">올인</a> |- align=center|- align=center</p></td>
 </tr>
 <tr class="even">
@@ -1174,7 +1174,7 @@
 <tr class="even">
 <td><p>로맨틱코미디 부문 우수 연기상</p></td>
 <td><p><a href="../Page/강민혁_(가수).md" title="wikilink">강민혁</a><br />
-<a href="../Page/민아_(1993년_5월).md" title="wikilink">민아</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/방민아" title="wikilink">민아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/딴따라" title="wikilink">딴따라</a><br />
 <a href="https://ko.wikipedia.org/wiki/미녀_공심이" title="wikilink">미녀 공심이</a></p></td>
 </tr>
@@ -1258,7 +1258,7 @@
 <a href="../Page/김민석_(배우).md" title="wikilink">김민석</a><br />
 <a href="https://ko.wikipedia.org/wiki/백현_(가수)" title="wikilink">백현</a><br />
 <a href="../Page/양진성.md" title="wikilink">양진성</a><br />
-<a href="../Page/민아_(1993년_5월).md" title="wikilink">민아</a><br />
+<a href="https://ko.wikipedia.org/wiki/방민아" title="wikilink">민아</a><br />
 <a href="../Page/혜리.md" title="wikilink">혜리</a><br />
 <a href="../Page/문지인.md" title="wikilink">문지인</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/끝에서_두번째_사랑" title="wikilink">끝에서 두번째 사랑</a><br />
@@ -1498,8 +1498,8 @@
 <td><p>장편드라마 부문 최우수 연기상</p></td>
 <td><p><a href="../Page/서도영.md" title="wikilink">서도영</a><br />
 <a href="../Page/심이영.md" title="wikilink">심이영</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/맛_좀_보실래요" title="wikilink">맛 좀 보실래요</a>, <a href="../Page/강남_스캔들.md" title="wikilink">강남 스캔들</a><br />
-<a href="https://ko.wikipedia.org/wiki/맛_좀_보실래요" title="wikilink">맛 좀 보실래요</a></p></td>
+<td><p><a href="../Page/맛_좀_보실래요.md" title="wikilink">맛 좀 보실래요</a>, <a href="../Page/강남_스캔들.md" title="wikilink">강남 스캔들</a><br />
+<a href="../Page/맛_좀_보실래요.md" title="wikilink">맛 좀 보실래요</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>중편드라마 부문 최우수 연기상</p></td>
@@ -1614,7 +1614,7 @@
 | 21 | [2013년](../Page/2013년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [이보영](../Page/이보영_\(배우\).md "wikilink"), [김우빈](../Page/김우빈.md "wikilink")                                             |
 | 22 | [2014년](../Page/2014년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [박신혜](../Page/박신혜.md "wikilink"), [박서준](../Page/박서준.md "wikilink")                                                    |
 | 23 | [2015년](../Page/2015년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [임지연](../Page/임지연.md "wikilink"), [유준상](https://ko.wikipedia.org/wiki/유준상 "wikilink")                                 |
-| 24 | [2016년](../Page/2016년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [장근석](../Page/장근석.md "wikilink"), [민아](../Page/민아_\(1993년_5월\).md "wikilink")                                         |
+| 24 | [2016년](../Page/2016년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [장근석](../Page/장근석.md "wikilink"), [민아](https://ko.wikipedia.org/wiki/방민아 "wikilink")                                  |
 | 25 | [2017년](../Page/2017년.md "wikilink") | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [이보영](../Page/이보영_\(배우\).md "wikilink")                                                                       |
 | 26 | [2018년](../Page/2018년.md "wikilink") | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [신혜선](../Page/신혜선.md "wikilink"), [이제훈](../Page/이제훈.md "wikilink")                                            |
 | 27 | [2019년](../Page/2019년.md "wikilink") | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [장나라](../Page/장나라.md "wikilink")                                                                              |
@@ -1622,11 +1622,11 @@
 
 ## 뒷이야기 및 논란
 
-  - [1997년](../Page/1997년.md "wikilink")에는 [대한민국의 IMF 구제금융 요청과](https://ko.wikipedia.org/wiki/대한민국의_IMF_구제금융_요청 "wikilink") 함께 전체적으로 드라마 시청률 경쟁에서 참패하게 되자\[1\] 시상식을 진행하지 않았다.
+  - [1997년](../Page/1997년.md "wikilink") 시상식은 [대한민국의 IMF 구제금융 요청과](https://ko.wikipedia.org/wiki/대한민국의_IMF_구제금융_요청 "wikilink") 함께 다른 방송사와의 드라마 시청률 경쟁에서 참패하게 되자\[1\] 연기대상 시상식을 진행하지 않았다.
   - 배우 [고두심](../Page/고두심.md "wikilink")은 [1989년](../Page/1989년.md "wikilink"), [2004년](../Page/2004년.md "wikilink"), [2015년](../Page/2015년.md "wikilink") (KBS), [1990년](../Page/1990년.md "wikilink"), [2004년](../Page/2004년.md "wikilink") (MBC), [2000년](../Page/2000년.md "wikilink") (SBS) 에서 각각 **연기대상**을 수상하여 **연기대상 최초 그랜드슬램 수상자**로 기록되어 있다.
-  - [문근영](../Page/문근영.md "wikilink") ([2008년](../Page/2008년.md "wikilink"), 만 21), [김희선](../Page/김희선.md "wikilink")([1998년](../Page/1998년.md "wikilink"), 만 22)은 방송 3사 연기대상 최연소 대상 수상자로 기록되어 있다.
+  - [문근영](../Page/문근영.md "wikilink") ([2008년](../Page/2008년.md "wikilink"), 만 21), [김희선](../Page/김희선.md "wikilink")([1998년](../Page/1998년.md "wikilink"), 만 22)은 방송 3사를 통틀어 **연기대상 최연소 대상 수상자**로 기록되어 있다.
   - 배우 [박신양](../Page/박신양.md "wikilink")은 [2004년](../Page/2004년.md "wikilink"), [2007년](../Page/2007년.md "wikilink") 수상, [한석규](../Page/한석규.md "wikilink")는 [2011년](../Page/2011년.md "wikilink"), [2016년](../Page/2016년.md "wikilink") 수상으로 **SBS 연기대상 최다 수상자**로 기록되어 있다.
-  - [2001년](../Page/2001년.md "wikilink") [강수연](../Page/강수연.md "wikilink")과 [전인화](../Page/전인화.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [박신양](../Page/박신양.md "wikilink")과 [김정은](../Page/김정은_\(배우\).md "wikilink"), [2007년](../Page/2007년.md "wikilink") [박신양](../Page/박신양.md "wikilink")과 [김희애](../Page/김희애.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [감우성](https://ko.wikipedia.org/wiki/감우성 "wikilink")과 [김선아](../Page/김선아.md "wikilink") 등 총 4번의 공동수상이 있었다.
+  - [2001년](../Page/2001년.md "wikilink") [강수연](../Page/강수연.md "wikilink")과 [전인화](../Page/전인화.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [박신양](../Page/박신양.md "wikilink")과 [김정은](../Page/김정은_\(배우\).md "wikilink"), [2007년](../Page/2007년.md "wikilink") [박신양](../Page/박신양.md "wikilink")과 [김희애](../Page/김희애.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [감우성](https://ko.wikipedia.org/wiki/감우성 "wikilink")과 [김선아](../Page/김선아.md "wikilink")의 대상 공동수상이 있었다.
   - [2010년](../Page/2010년.md "wikilink") **연기대상**에서 배우 [고현정](../Page/고현정.md "wikilink")이 대상을 수상했으나 이미 연기대상 대상 수상자가 정해졌다는 이른바 [고현정](../Page/고현정.md "wikilink") 빅딜설이라는 소문이 나돌면서 논란이 있으며\[2\]\[3\]\[4\] 또한, [고현정](../Page/고현정.md "wikilink")의 수상소감에 대해서도 비판이 있다.\[5\]\[6\] [2011년](../Page/2011년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") 2010년 SBS 연기대상 재방송 방송에서 [고현정](../Page/고현정.md "wikilink")의 수상소감은 편집되었고\[7\] 그 이후 2012년 4월 고현정이 진행하는 GO쇼가 방송되었다.
   - [2010년](../Page/2010년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") [김수현](../Page/김수현_\(작가\).md "wikilink") 작가는 [트위터](../Page/트위터.md "wikilink")에서 “SBS 연말 연기상, '[인생은 아름다워](../Page/인생은_아름다워_\(2010년_드라마\).md "wikilink")' 팬들은 기대를 접으시기 바랍니다. 상은 받을 만한 가치가 있을 때 '상'이라는 생각 변함없고, 아마도 인아는 찬밥일 겁니다. 괜찮습니다. 잔칫상 구색 맞추기 동원보다는 아예 찬밥이 깔끔”이라고 말했다.\[8\]
   - [2001년](../Page/2001년.md "wikilink") **연기대상**부터 대상 후보를 포함하여 한 해 최고의 연기자 다수에게 수여하던 "10대 스타상"은 SBS의 시상식 개편으로 인하여 [2017년](../Page/2017년.md "wikilink") **연기대상**부터 폐지되었다.

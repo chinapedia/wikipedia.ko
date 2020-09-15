@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [마리오 카트 Wii](https://ko.wikipedia.org/wiki/마리오_카트_Wii).
 
 
-《**마리오 카트 Wii**》()는 [닌텐도](../Page/닌텐도.md "wikilink")가 개발한 [Wii](../Page/Wii.md "wikilink")용 게임 소프트웨어이다. [일본](../Page/일본.md "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") 먼저 발매했으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [2009년](../Page/2009년.md "wikilink") [4월 30일에](../Page/4월_30일.md "wikilink") 발매되었다. 마리오 카트 시리즈의 여섯 번째 작품이다. [대한민국](../Page/대한민국.md "wikilink")에서는 [김범](../Page/김범.md "wikilink"), [김창완](../Page/김창완.md "wikilink"), [박미선](../Page/박미선.md "wikilink")이 광고모델을 하였다. 처음에는 경량급, 중량급, 무제한급 모두 4가지씩 12명의 캐릭터만 선택할 수 있으나 게임을 진행해 가면서 나머지 12명이 추가되어 경량급, 중량급, 무제한급 모두 8가지씩 24명의 캐릭터를 선택할 수 있게 된다. 레이싱 코스는 마리오 카트 Wii에서 처음 소개된 니트로 코스 16개와 이전의 시리즈에서 등장하였던 레트로 코스 16개, 모두 32개로 구성되어 있다.
+《**마리오 카트 Wii**》()는 [닌텐도](../Page/닌텐도.md "wikilink")에서 개발한 [Wii](../Page/Wii.md "wikilink")용 게임 소프트웨어이다. 마리오 카트 시리즈의 여섯번째 작품이며, [일본](../Page/일본.md "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") 먼저 발매했으며, [대한민국](../Page/대한민국.md "wikilink")에서는 [2009년](../Page/2009년.md "wikilink") [4월 30일에](../Page/4월_30일.md "wikilink") 발매되었다. [대한민국](../Page/대한민국.md "wikilink")에서는 [김범](../Page/김범.md "wikilink"), [김창완](../Page/김창완.md "wikilink"), [박미선](../Page/박미선.md "wikilink")이 광고모델을 하였다. 처음에는 경량급, 중량급, 무제한급 모두 4가지씩 12명의 캐릭터만 선택할 수 있으나 게임을 진행해 가면서 나머지 12명이 추가되어 경량급, 중량급, 무제한급 모두 8가지씩 24명의 캐릭터를 선택할 수 있게 된다. 레이싱 코스는 마리오 카트 Wii에서 처음 소개된 니트로 코스 16개와 이전의 시리즈에서 등장하였던 레트로 코스 16개, 모두 32개로 구성되어 있다.
 
 ## 지원 컨트롤러
 
@@ -9,6 +9,24 @@
   - 눈차크
   - 클래식 컨트롤러
   - [게임큐브](https://ko.wikipedia.org/wiki/게임큐브 "wikilink") 컨트롤러
+
+## 등장인물
+
+  - [마리오](../Page/마리오.md "wikilink")
+  - [루이지](../Page/루이지.md "wikilink")
+  - [피치공주](https://ko.wikipedia.org/wiki/피치공주 "wikilink")
+  - [데이지 공주](../Page/데이지_공주.md "wikilink")
+  - [키노피오](../Page/키노피오.md "wikilink")
+  - [키노피코](https://ko.wikipedia.org/wiki/키노피코 "wikilink")
+  - [베이비 마리오](../Page/마리오.md "wikilink")
+  - [베이비 피치](https://ko.wikipedia.org/wiki/피치공주 "wikilink")
+  - [베이비 루이지](../Page/루이지.md "wikilink")
+  - [베이비 데이지](../Page/데이지_공주.md "wikilink")
+  - [로젤리나](../Page/로젤리나.md "wikilink")
+  - [킹부끄](https://ko.wikipedia.org/wiki/킹부끄 "wikilink")
+  - [쿠파](../Page/쿠파_\(캐릭터\).md "wikilink")
+  - [동키콩](../Page/동키콩.md "wikilink")
+  - [요시](../Page/요시.md "wikilink")
 
 ## 사운드트랙
 

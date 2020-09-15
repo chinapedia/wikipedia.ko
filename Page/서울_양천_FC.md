@@ -7,7 +7,7 @@
 
 서울 양천 FC의 전신인 FC 성은은, 서울 성은교회 신자들로 구성되어 [1995년](../Page/1995년.md "wikilink")에 창단한 아마추어 축구클럽이다. 지난 [2000년](../Page/2000년.md "wikilink")부터 선교팀을 벗어나 연예인들과 각종 스포츠 선수와 프로, 실업, 대학 그리고 현역 축구선수들로 재구성되어 움직이기 시작했다.
 
-[2009년](../Page/2009년.md "wikilink"), FC 성은은 [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink") 참가 의지를 보였다. 참가 의지를 밝힌 당시에, FC 성은에는 연예인 [이휘재](../Page/이휘재.md "wikilink")가 선수로 뛰고 있어 큰 주목을 받았다.\[1\] 이후 FC 성은은 서울 양천 FC로 팀을 개명하고 [2009년](../Page/2009년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [목동 종합 운동장에서](https://ko.wikipedia.org/wiki/목동_주경기장 "wikilink") [서울 유나이티드를](https://ko.wikipedia.org/wiki/서울_유나이티드 "wikilink") 상대로 발족기념 친선경기를 가졌다. 경기는 5대5로 끝났다.\[2\]
+[2009년](../Page/2009년.md "wikilink"), FC 성은은 [K3리그](../Page/K3리그.md "wikilink") 참가 의지를 보였다. 참가 의지를 밝힌 당시에, FC 성은에는 연예인 [이휘재](../Page/이휘재.md "wikilink")가 선수로 뛰고 있어 큰 주목을 받았다.\[1\] 이후 FC 성은은 서울 양천 FC로 팀을 개명하고 [2009년](../Page/2009년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [목동 종합 운동장에서](https://ko.wikipedia.org/wiki/목동_주경기장 "wikilink") [서울 유나이티드를](https://ko.wikipedia.org/wiki/서울_유나이티드 "wikilink") 상대로 발족기념 친선경기를 가졌다. 경기는 5대5로 끝났다.\[2\]
 
 [2009년](../Page/2009년.md "wikilink") [10월](../Page/10월.md "wikilink"), 정식적으로 K3리그 참가 신청서를 제출하였고, [11월 20일에](../Page/11월_20일.md "wikilink") 최종 선수선발을 마쳤으며 [12월 4일](../Page/12월_4일.md "wikilink") 오후 2시에 [양천구](../Page/양천구.md "wikilink")청 청사 내 대강당에서 창단식을 열었다.\[3\]\[4\] 그러나 재정문제로 인해 [K3리그 2010](https://ko.wikipedia.org/wiki/K3리그_2010 "wikilink") 참가가 불발되면서 2011 시즌에 참가하는 것에 기대를 걸고있다.
 

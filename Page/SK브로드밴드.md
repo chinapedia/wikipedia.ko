@@ -125,8 +125,6 @@
 
 ## 로고
 
-파일:Hanaro Telecom CI old 1999.png|(구)하나로통신 심볼.
-
 ## 각주
 
 <references />

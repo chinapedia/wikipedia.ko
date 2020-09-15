@@ -467,7 +467,7 @@
 ## 같이 보기
 
   - [속씨식물의 과 목록](../Page/속씨식물의_과_목록_\(APG_III_분류_체계\).md "wikilink") ([APG III 분류 체계](../Page/APG_III_분류_체계.md "wikilink"))
-  - [속씨식물의 과 목록](../Page/속씨식물의_과_목록.md "wikilink") ([APG IV 분류 체계](https://ko.wikipedia.org/wiki/APG_IV_분류_체계 "wikilink"))
+  - [속씨식물의 과 목록](../Page/속씨식물의_과_목록.md "wikilink") ([APG IV 분류 체계](../Page/APG_IV_분류_체계.md "wikilink"))
 
 ## 외부 링크
 

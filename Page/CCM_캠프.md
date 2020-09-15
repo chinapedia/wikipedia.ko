@@ -66,10 +66,10 @@
   - [조수아](../Page/조수아.md "wikilink") (2006.3\~2006.12)
   - [최정원](https://ko.wikipedia.org/wiki/최정원_\(아나운서\) "wikilink") CBS 아나운서 (2007\~2008)
   - [심기식](https://ko.wikipedia.org/wiki/심기식 "wikilink") CBS 아나운서 (2008\~2009) (1차)
-  - [김은영](https://ko.wikipedia.org/wiki/김은영_\(아나운서\) "wikilink") CBS 아나운서 (2009\~2010) (1차)
+  - [김은영](../Page/김은영_\(아나운서\).md "wikilink") CBS 아나운서 (2009\~2010) (1차)
   - [송정훈](https://ko.wikipedia.org/wiki/송정훈_\(아나운서\) "wikilink") CBS 아나운서 (2010.5.10\~2014.5.18)
   - [이성재](../Page/이성재_\(배우\).md "wikilink") (2014.5.19\~2016.10.30)
-  - [김은영](https://ko.wikipedia.org/wiki/김은영_\(아나운서\) "wikilink") CBS 아나운서 (2016.10.31\~2017.4.30) (2차)
+  - [김은영](../Page/김은영_\(아나운서\).md "wikilink") CBS 아나운서 (2016.10.31\~2017.4.30) (2차)
   - [한웅재](../Page/한웅재.md "wikilink") 싱어송라이터, 목사 (2017.5.1\~2019.9.29)
   - [심기식](https://ko.wikipedia.org/wiki/심기식 "wikilink") CBS 아나운서 (2019.09.30\~) (2차)
 

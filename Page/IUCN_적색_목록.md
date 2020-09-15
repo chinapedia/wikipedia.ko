@@ -15,7 +15,7 @@
   - [준위협](https://ko.wikipedia.org/wiki/멸종_준위협종 "wikilink")(NT, Near Threatened) - 가까운 장래에 야생에서 멸종 우려 위기에 처할 가능성이 높음.
   - [관심 대상](https://ko.wikipedia.org/wiki/관심대상종 "wikilink")(LC, Least Concern) - 위험이 낮고 위험 범주에 도달하지 않음.
   - [정보 부족](https://ko.wikipedia.org/wiki/정보부족종 "wikilink")(DD, Data Deficient) - 멸종 위험에 관한 평가 자료 부족.
-  - 미평가(NE, Not Evaluated, NE) - 아직 평가 작업을 거치지 않음.
+  - 미평가(NE, Not Evaluated) - 아직 평가 작업을 거치지 않음.
 
 IUCN 적색목록에 대해 논할 때, 위급(CR), 위기(EN), 취약(VU)의 세 부류를 합해 [멸종 우려](https://ko.wikipedia.org/wiki/멸종_우려 "wikilink")(threatened)라고 한다.
 

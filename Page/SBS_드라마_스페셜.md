@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS 드라마 스페셜](https://ko.wikipedia.org/wiki/SBS_드라마_스페셜).
 
 
-**SBS 수목 드라마**는 [SBS TV에서](../Page/SBS_TV.md "wikilink") 매주 [수요일](../Page/수요일.md "wikilink")부터 [목요일](../Page/목요일.md "wikilink") 오후 10시에 방송되는 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+**SBS 수목 드라마**는 [SBS TV에서](../Page/SBS_TV.md "wikilink") 매주 [수요일](../Page/수요일.md "wikilink")부터 [목요일](../Page/목요일.md "wikilink") 오후 10시에 방송되는 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink"). 대부분 16부작에서 30부작 사이의 미니 시리즈 형식으로 현재 방영되고 있으나 50부작에서 120부작이 넘는 장편 드라마도 방영되었다.
 
 ## 개요
 
@@ -11,11 +11,9 @@
 
 ### 22시 드라마
 
-대부분 16부작에서 30부작 사이의 미니시리즈 형식으로 현재 방영되고 있으나, 50부작에서 120부작이 넘는 장편 드라마도 방영되었다.
-
 당초 일일극이었던 《[유심초](../Page/유심초_\(드라마\).md "wikilink")》를 1992년 3월 25일 옮겨오면서 시작됐는데 당시에는 9시 55분에 방영됐다. 이후 1992년 5월 20일부터 1994년 4월 14일까지 8시 50분에 방영되면서 잠정 폐지된다. 《[이 남자가 사는 법](../Page/이_남자가_사는_법.md "wikilink")》를 시작으로 해당 시간대는 재개된다.
 
-《[황후의 품격](../Page/황후의_품격.md "wikilink")》까지 '드라마 스페셜'이라는 명칭으로 방영되다가 《[빅이슈](../Page/빅이슈.md "wikilink")》부터 '수목 드라마'로 명칭을 변경 되었고 《[시크릿 부티크](../Page/시크릿_부티크.md "wikilink")》까지 방송 되었고 해당 시간대는 휴방 중이다.
+《[황후의 품격](../Page/황후의_품격.md "wikilink")》까지 '드라마 스페셜'이라는 명칭으로 방영되다가 《[빅이슈](../Page/빅이슈.md "wikilink")》부터 '수목 드라마'로 명칭이 변경 되어 《[시크릿 부티크](../Page/시크릿_부티크.md "wikilink")》까지 방송 되었고 해당 시간대는 휴방 중이다.
 
 한편, 미니 시리즈로 방영된 《[모래시계](../Page/모래시계_\(드라마\).md "wikilink")》는 본 방송 당시 월 \~ 목 4회 편성됐고 나중에 수 \~ 목, 토 \~ 일 4회로 재방영됐다.
 
@@ -66,34 +64,46 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1998년 3월 2일 ~ 2008년 5월 15일</p></td>
+<td><p>1998년 3월 4일 ~ 2001년 5월 24일</p></td>
+<td><p>수, 목 밤 9시 55분 ~ 10시 55분</p></td>
+<td><p>60분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2001년 5월 30일 ~ 2008년 5월 15일</p></td>
 <td><p>수, 목 밤 9시 55분 ~ 11시 5분</p></td>
 <td><p>70분</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>2008년 5월 18일 ~ 2013년 10월 17일</p></td>
+<tr class="odd">
+<td><p>2008년 5월 21일 ~ 2013년 10월 17일</p></td>
 <td><p>수, 목 밤 10시 ~ 11시 15분</p></td>
 <td><p>75분</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2013년 10월 23일 ~ 2017년 5월 4일</p></td>
 <td><p>수, 목 밤 10시 ~ 11시 10분</p></td>
 <td><p>70분</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017년 5월 10일 ~ 2019년 7월 11일</p></td>
 <td><p>70분<br />
 (1회당 35분 2회 연속 방송)</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019년 7월 17일 ~ 2019년 11월 28일</p></td>
 <td><p>70분<br />
 (1부 40분 2부 30분 분할 방송)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -105,9 +115,10 @@
 ## 작품 리스트
 
   - 아래의 프로그램들은 [2003년](../Page/2003년.md "wikilink") 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 [흡연](../Page/흡연.md "wikilink") 장면 및 [담배](https://ko.wikipedia.org/wiki/담배 "wikilink") 소품이 노출될 수 있으며, 시청자 여러분들의 양해를 바랍니다.
-  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 시청 가능 연령을 표시하는 [드라마 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 의무적으로 시행하여, 현재까지 이어지고 있다.
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 시청 가능 연령을 표시하는 [드라마 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 의무적으로 시행하여 현재까지 이어지고 있다.
+  - [2017년](../Page/2017년.md "wikilink") [3월 1일부터](../Page/3월_1일.md "wikilink") TV 프로그램 등급 표시 외에 주제, 폭력성, 선정성, 언어, 모방 위험 등 분류 사유 표시를 의무적으로 시행하고 있다.
 
-### [1990년대](../Page/1990년대.md "wikilink") 전반
+### 1990년대
 
 #### [<span style="color:black">1992년</span>](../Page/1992년.md "wikilink")
 
@@ -155,7 +166,7 @@
 
 <!-- end list -->
 
-  - 《[서울 야상곡](https://ko.wikipedia.org/wiki/서울_야상곡 "wikilink")》 : 1995년 1월 4일 \~ 1995년 2월 1일 (95년 1월 4일 1\~2회 연속 방영) (이 작품까지 **수목드라마**로 방송됨)
+  - 《[서울 야상곡](../Page/서울_야상곡.md "wikilink")》 : 1995년 1월 4일 \~ 1995년 2월 1일 (95년 1월 4일 1\~2회 연속 방영) (이 작품까지 **수목드라마**로 방송됨)
   - 《[사랑은 블루](../Page/사랑은_블루.md "wikilink")》 : 1995년 2월 8일 \~ 1995년 3월 30일
   - 《[우리들의 넝쿨](../Page/우리들의_넝쿨_\(드라마\).md "wikilink")》 : 1995년 4월 5일 \~ 1995년 5월 11일
   - 《[다시 만날 때까지](../Page/다시_만날_때까지.md "wikilink")》 : 1995년 5월 17일 \~ 1995년 7월 6일 (**수목드라마**로 방영됨)
@@ -172,8 +183,6 @@
   - 《[신비의 거울속으로](../Page/신비의_거울속으로.md "wikilink")》 : 1995년 7월 12일 \~ 1995년 8월 31일
   - 《[째즈](../Page/째즈_\(드라마\).md "wikilink")》 : 1995년 9월 6일 \~ 1995년 10월 26일
   - 《[해빙](../Page/해빙_\(1995년_드라마\).md "wikilink")》 : 1995년 11월 8일 \~ 1995년 12월 28일
-
-### [1990년대](../Page/1990년대.md "wikilink") 후반
 
 #### [<span style="color:black">1996년</span>](../Page/1996년.md "wikilink")
 
@@ -210,7 +219,7 @@
   - 《[크리스탈](../Page/크리스탈_\(드라마\).md "wikilink")》 : 1999년 10월 6일 \~ 1999년 11월 25일
   - 《[TV 러브 스토리](https://ko.wikipedia.org/wiki/TV_러브_스토리 "wikilink")》 : 1999년 12월 1일 \~ 2000년 1월 27일
 
-### [2000년대](../Page/2000년대.md "wikilink") 전반
+### 2000년대
 
 #### [<span style="color:black">2000년</span>](../Page/2000년.md "wikilink")
 
@@ -256,8 +265,6 @@
   - 《[남자가 사랑할 때](../Page/남자가_사랑할_때_\(2004년_드라마\).md "wikilink")》 : 2004년 9월 30일 \~ 2004년 11월 18일
   - 《[유리화](../Page/유리화_\(드라마\).md "wikilink")》 : 2004년 12월 1일 \~ 2005년 2월 3일
 
-### [2000년대](../Page/2000년대.md "wikilink") 후반
-
 #### [<span style="color:black">2005년</span>](../Page/2005년.md "wikilink")
 
   - 《[홍콩 익스프레스](https://ko.wikipedia.org/wiki/홍콩익스프레스_\(드라마\) "wikilink")》 : 2005년 2월 16일 \~ 2005년 4월 7일
@@ -301,7 +308,7 @@
   - 《[미남이시네요](../Page/미남이시네요.md "wikilink")》 : 2009년 10월 7일 \~ 2009년 11월 26일
   - 《[크리스마스에 눈이 올까요?](../Page/크리스마스에_눈이_올까요?.md "wikilink")》 : 2009년 12월 2일 \~ 2010년 1월 28일
 
-### [2010년대](../Page/2010년대.md "wikilink") 전반
+### 2010년대
 
 #### [<span style="color:black">2010년</span>](../Page/2010년.md "wikilink")
 
@@ -345,8 +352,6 @@
   - 《[내겐 너무 사랑스러운 그녀](https://ko.wikipedia.org/wiki/내겐_너무_사랑스러운_그녀 "wikilink")》 : 2014년 9월 17일 \~ 2014년 11월 6일
   - 《[피노키오](https://ko.wikipedia.org/wiki/피노키오_\(드라마\) "wikilink")》 : 2014년 11월 12일 \~ 2015년 1월 15일
 
-### [2010년대](../Page/2010년대.md "wikilink") 후반
-
 #### [<span style="color:black">2015년</span>](../Page/2015년.md "wikilink")
 
   - 《[하이드 지킬, 나](https://ko.wikipedia.org/wiki/하이드_지킬,_나 "wikilink")》 : 2015년 1월 21일 \~ 2015년 3월 26일
@@ -383,27 +388,27 @@
 
 #### [<span style="color:black">2019년</span>](../Page/2019년.md "wikilink")
 
-  - 《[빅이슈](../Page/빅이슈_\(2019년_드라마\).md "wikilink")》 : 2019년 3월 6일 \~ 2019년 5월 2일 (이 작품부터 **수목드라마**로 명칭 변경)
+  - 《[빅이슈](../Page/빅이슈_\(2019년_드라마\).md "wikilink")》 : 2019년 3월 6일 \~ 2019년 5월 2일 (이 작품부터 **수목 드라마**로 명칭 변경)
   - 《[절대 그이](../Page/절대_그이_\(드라마\).md "wikilink")》 : 2019년 5월 15일 \~ 2019년 7월 11일 (이 작품까지 1회당 35분 2회 분할 편성)
   - 《[닥터 탐정](../Page/닥터_탐정.md "wikilink")》 : 2019년 7월 17일 \~ 2019년 9월 5일 (이 작품부터 **1부 40분 2부 30분 분할** 편성)
   - 《[시크릿 부티크](../Page/시크릿_부티크.md "wikilink")》 : 2019년 9월 18일 \~ 2019년 11월 28일
 
 ## 같이 보기
 
-  - [한국방송공사 수목드라마](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink")
-  - [문화방송 수목 미니시리즈](../Page/문화방송_수목_미니시리즈.md "wikilink")
-  - [JTBC 수목 미니시리즈](https://ko.wikipedia.org/wiki/JTBC_수목_미니시리즈 "wikilink")
-  - [tvN 수목드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink")
+  - [KBS 2TV 수목 드라마](https://ko.wikipedia.org/wiki/KBS_2TV_수목_드라마 "wikilink")
+  - [MBC 수목 드라마](../Page/MBC_수목_드라마.md "wikilink")
+  - [JTBC 수목 드라마](https://ko.wikipedia.org/wiki/JTBC_수목_드라마 "wikilink")
+  - [tvN 수목 드라마](https://ko.wikipedia.org/wiki/tvN_수목_드라마 "wikilink")
 
 ## 각주
 
 <references/>
 
-[분류:SBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SBS_드라마_스페셜 "wikilink")
+[\*](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SBS_수목_드라마 "wikilink")
 
 1.
 2.  지역 민방 4개 방송과 함께 완전 방송
 3.  PSB 부산방송(현 [KNN](../Page/KNN.md "wikilink") 부산경남방송)과 공동 제작, 국내 제작 드라마 중 유일무이하게 프로그램 제작국인 SBS 본사와는 달리, 지역 민방 네트워크가 자체적으로 제작하여, 전국 동시 네트워크로 송출된 드라마
 4.  1998년 1월 28일 방송분은 설날특선영화 《흑협》 편성 관계로 결방됐으며, 이 때문에 다음 날인 1998년 1월 29일 9\~10회 연속 방송됐고, 1998년 2월 19일 방송분(22회)은 9시부터 '나가노 동계 올림픽' 편성 관계로 10시 45분에 방송됐으며, 이 과정에서 9시 일일극 《[지평선 너머](../Page/지평선_너머.md "wikilink")》는 10시에 방영됨.
-5.  2002년 5월 31일 제주민영방송 개국과 함께 완전방송
+5.  2002년 5월 31일 [JIBS 제주방송](https://ko.wikipedia.org/wiki/JIBS_제주방송 "wikilink") 개국과 함께 [동시 네트워크로](https://ko.wikipedia.org/wiki/동시_네트워크 "wikilink") 전국 방송
 6.  2회 연속 방영, 2부작 드라마로 방송됨

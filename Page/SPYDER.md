@@ -11,7 +11,7 @@
 
 SPYDER-SR 시스템은 360도를 방어한다. 미사일은 목표물 확인 즉시 5초 안에 발사된다. 사거리는 최대 20 마일, 요격고도는 최저 50 피트 최대 120,000 피트이다. 전천후 주야간 동시다중목표물의 요격이 가능하다.
 
-지휘통제 유닛은 [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")에서 개발했다. 트럭 견인식 박스이며, [엘타](https://ko.wikipedia.org/wiki/엘타 "wikilink") EL/M-2106 ATAR 레이다, 피아식별장치, [VHF](https://ko.wikipedia.org/wiki/VHF "wikilink")/[UHF](https://ko.wikipedia.org/wiki/UHF "wikilink") 통신장치를 장착했다. 통신장치를 통해 발사부대 내부용 교신과 상위 요격부대와 교신된다. 엘타 EL/M-2106 ATAR 3차원 탐색 레이다는 동시에 500개의 목표물을 추적할 수 있다. 전천후 주야간 작동을 한다. 레이다는 진보된 ECCM 장비를 갖추어 전자전이 심한 적에도 대응할 수 있다.
+지휘통제 유닛은 [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")에서 개발했다. 트럭 견인식 박스이며, [엘타](https://ko.wikipedia.org/wiki/엘타 "wikilink") EL/M-2106 ATAR 레이더, 피아식별장치, [VHF](https://ko.wikipedia.org/wiki/VHF "wikilink")/[UHF](https://ko.wikipedia.org/wiki/UHF "wikilink") 통신장치를 장착했다. 통신장치를 통해 발사부대 내부용 교신과 상위 요격부대와 교신된다. 엘타 EL/M-2106 ATAR 3차원 탐색 레이더는 동시에 500개의 목표물을 추적할 수 있다. 전천후 주야간 작동을 한다. 레이다는 진보된 ECCM 장비를 갖추어 전자전이 심한 적에도 대응할 수 있다.
 
 ## 수출
 

@@ -84,7 +84,7 @@
 
   - [4 Tomorrow 사이트](https://web.archive.org/web/20091010071307/http://www.4tomorrow.co.kr/)
 
-[분류:삼성그룹](https://ko.wikipedia.org/wiki/분류:삼성그룹 "wikilink") [분류:광고 음악](https://ko.wikipedia.org/wiki/분류:광고_음악 "wikilink") [분류:온라인 광고](https://ko.wikipedia.org/wiki/분류:온라인_광고 "wikilink") [분류:대한민국의 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_노래 "wikilink") [분류:카라의 노래](https://ko.wikipedia.org/wiki/분류:카라의_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:대한민국의 팝 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_노래 "wikilink")
+[분류:삼성그룹](https://ko.wikipedia.org/wiki/분류:삼성그룹 "wikilink") [분류:광고 음악](https://ko.wikipedia.org/wiki/분류:광고_음악 "wikilink") [분류:온라인 광고](https://ko.wikipedia.org/wiki/분류:온라인_광고 "wikilink") [분류:대한민국의 노래](https://ko.wikipedia.org/wiki/분류:대한민국의_노래 "wikilink") [분류:카라의 노래](https://ko.wikipedia.org/wiki/분류:카라의_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:K-pop 노래](https://ko.wikipedia.org/wiki/분류:K-pop_노래 "wikilink")
 
 1.
 2.

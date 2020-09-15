@@ -62,7 +62,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009년 3월 6일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오렌지_군_(캘리포니아주)" title="wikilink">오렌지 카운티</a></p></td>
+<td><p><a href="../Page/오렌지군_(캘리포니아주).md" title="wikilink">오렌지 카운티</a></p></td>
 <td><p>추가 바람</p></td>
 <td><p>라미라다 극장</p></td>
 <td></td>

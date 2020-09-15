@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Just Dance](https://ko.wikipedia.org/wiki/Just_Dance).
 
 
-**"Just Dance"**는 미국의 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 싱글 음반으로 데뷔 음반 *[The Fame](../Page/The_Fame.md "wikilink")*에 수록되어 있다. 프로듀서는 레드원이 맡았으며 작곡, 작사도 하였다. 이 싱글은 가가의 정규 앨범 *[The Fame](../Page/The_Fame.md "wikilink")*의 첫 싱글로 발표되었다. 가가는 프로듀서 레드원과 10분만에 "a happy record"를 탄생시켰다고 말했다. "Just Dance" 또한 알앤비 영향을 가지고 클럽에서 술을 마시며 작곡 및 작사를 했다고 한다.
+**"Just Dance"**는 미국의 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 싱글 음반으로 데뷔 음반 *[The Fame](../Page/The_Fame.md "wikilink")*에 수록되어 있다. 프로듀서는 레드원이 맡았으며 작곡, 작사도 하였다. 이 싱글은 가가의 정규 앨범 *[The Fame](../Page/The_Fame.md "wikilink")*의 첫 싱글로 발표되었다. 가가는 프로듀서 레드원과 10분 만에 "a happy record"를 탄생시켰다고 말했다. "Just Dance" 또한 알앤비 영향을 가지고 클럽에서 술을 마시며 작곡 및 작사를 했다고 한다.
 
-이 싱글은 미국, 호주, 캐나다, 아일랜드, 네덜란드, 영국뿐만 아니라 다른 여러 나라에서 상위 10위안에 진입하며 대중적인 성공을했다. 미국에서는, "Just Dance"가 2009년 1월 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 1위에 올라 2008년 5월에 발매해 5개월만에 정상을 차지했다. 미국에서 이 곡은 디지털 다운로드로 일주일만에 4십만건 이상이 팔렸다.
+이 싱글은 미국, 호주, 캐나다, 아일랜드, 네덜란드, 영국뿐만 아니라 다른 여러 나라에서 상위 10위안에 진입하며 대중적인 성공을 했다. 미국에서는, "Just Dance"가 2009년 1월 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 1위에 올라 2008년 5월에 발매해 5개월 만에 정상을 차지했다. 미국에서 이 곡은 디지털 다운로드로 일주일 만에 4십만 건 이상이 팔렸다.
 
 ## 트랙리스트
 

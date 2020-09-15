@@ -5,7 +5,7 @@
 
 앨범은 8개 나라 차트에서 20위권에 진입했으며 특히 [빌보드](../Page/빌보드.md "wikilink")200 차트에서는 9위를 기록하며 드림시어터의 역대 미국 차트순위중 최고기록을 세웠다.\[2\] 앨범에 대한 평론가들의 평가는 대개 긍정적이다. MetalReview.com의 Jon Eardley는 드림 시어터를 "[프로그레시브 락](https://ko.wikipedia.org/wiki/프로그레시브_락 "wikilink")/[메탈계를](../Page/프로그레시브_메탈.md "wikilink") 통틀어 가장 일관성있는 음악을 하는 밴드"로 평가했다.\[3\]
 
-드림시어터는 앨범 발매 직후 1년동안 35개국을 돌며 Chaos In Motion 월드 투어를 진행했다. 앨범은 일반 버전과 스페셜 에디션 버전의 두 가지 형태로 발매되었다. 스페셜 에디션에는 5.1 채널 서라운드 믹스와 메이킹 필름 DVD가 포함되어 있다.
+드림시어터는 앨범 발매 직후 1년동안 35개국을 돌며 Chaos In Motion 월드 투어를 진행했다. 앨범은 일반 버전과 스페셜 에디션 버전의 두 가지 형태로 발매되었다. 스페셜 에디션에는 5.1 채널 서라운드 믹스와 메이킹 필름 DVD가 포함되어 있다.metal-invader.com
 
 ## 배경
 
@@ -35,7 +35,7 @@
 
 ### Repentance
 
-"Repentance"는 포트노이가 작사하는 [12단계 연작의](https://ko.wikipedia.org/wiki/12단계_연작 "wikilink") 4번째 파트이다\[38\]. 이번 파트에서는 수 명의 사람들이 등장해, 그들의 잘못이나 후회등을 뉘우치고 직접 사과하는 내용이 담겨 있다\[39\]. 7년 반 동안 술을 마시지 않은 포트노이\[40\] 는 [미카엘 오케르펠트](https://ko.wikipedia.org/wiki/미카엘_오케르펠트 "wikilink"), [존 앤더슨](https://ko.wikipedia.org/wiki/존_앤더슨 "wikilink"), [다니엘 길덴로우](https://ko.wikipedia.org/wiki/다니엘_길덴로우 "wikilink"), [스티브 호가스](https://ko.wikipedia.org/wiki/스티브_호가스 "wikilink"), [크리스 제리코](../Page/크리스_제리코.md "wikilink"), [닐 모스](https://ko.wikipedia.org/wiki/닐_모스 "wikilink"), [조 새트리아니](../Page/조_새트리아니.md "wikilink"), [코리 테일러](https://ko.wikipedia.org/wiki/코리_테일러 "wikilink"), [스티브 바이](../Page/스티브_바이.md "wikilink"), [스티븐 윌슨](https://ko.wikipedia.org/wiki/스티븐_윌슨 "wikilink"), [데이비드 엘럽슨](https://ko.wikipedia.org/wiki/데이비드_엘럽슨 "wikilink") 등 친구 혹은 동료 음악가들을 초대해 각자 가지고 있는 슬픔이나 후회, 사과 등을 이야기하도록 하여\[41\] 그것들을 녹음해 곡 속에 집어넣었다. 이 12단계 연작은 밴드의 10번째 정규 앨범 [Black Clouds & Silver Linings에서](../Page/Black_Clouds_&_Silver_Linings.md "wikilink") 끝나게 된다.
+"Repentance"는 포트노이가 작사하는 [12단계 연작의](https://ko.wikipedia.org/wiki/12단계_연작 "wikilink") 4번째 파트이다\[38\]. 이번 파트에서는 수 명의 사람들이 등장해, 그들의 잘못이나 후회등을 뉘우치고 직접 사과하는 내용이 담겨 있다\[39\]. 7년 반 동안 술을 마시지 않은 포트노이\[40\] 는 [미카엘 오케르펠트](https://ko.wikipedia.org/wiki/미카엘_오케르펠트 "wikilink"), [존 앤더슨](https://ko.wikipedia.org/wiki/존_앤더슨 "wikilink"), [다니엘 길덴로우](https://ko.wikipedia.org/wiki/다니엘_길덴로우 "wikilink"), [스티브 호가스](https://ko.wikipedia.org/wiki/스티브_호가스 "wikilink"), [크리스 제리코](../Page/크리스_제리코.md "wikilink"), [닐 모스](https://ko.wikipedia.org/wiki/닐_모스 "wikilink"), [조 새트리아니](../Page/조_새트리아니.md "wikilink"), [코리 테일러](https://ko.wikipedia.org/wiki/코리_테일러 "wikilink"), [스티브 바이](../Page/스티브_바이.md "wikilink"), [스티븐 윌슨](../Page/스티븐_윌슨.md "wikilink"), [데이비드 엘럽슨](https://ko.wikipedia.org/wiki/데이비드_엘럽슨 "wikilink") 등 친구 혹은 동료 음악가들을 초대해 각자 가지고 있는 슬픔이나 후회, 사과 등을 이야기하도록 하여\[41\] 그것들을 녹음해 곡 속에 집어넣었다. 이 12단계 연작은 밴드의 10번째 정규 앨범 [Black Clouds & Silver Linings에서](../Page/Black_Clouds_&_Silver_Linings.md "wikilink") 끝나게 된다.
 
 ### Prophets of War
 

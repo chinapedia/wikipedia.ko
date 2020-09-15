@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [앱 스토어 \(iOS\)](https://ko.wikipedia.org/wiki/앱_스토어_\(iOS\)).
 
 
-**앱 스토어**()는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 운영하고 있는 [아이폰](../Page/아이폰.md "wikilink"), [아이패드](../Page/아이패드.md "wikilink") 및 [아이팟 터치용](../Page/아이팟_터치.md "wikilink") [응용 소프트웨어](../Page/응용_소프트웨어.md "wikilink") [다운로드](../Page/다운로드.md "wikilink") 서비스이다. [아이폰 3G가](../Page/아이폰_3G.md "wikilink") 발표될 즈음인 2008년 7월 10일부터 [아이튠즈](../Page/아이튠즈.md "wikilink")의 업데이트 형태로 서비스가 시작되었다.
+**앱 스토어**()는 [애플](../Page/애플.md "wikilink")이 운영하고 있는 [아이폰](../Page/아이폰.md "wikilink"), [아이패드](../Page/아이패드.md "wikilink") 및 [아이팟 터치용](../Page/아이팟_터치.md "wikilink") [응용 소프트웨어](../Page/응용_소프트웨어.md "wikilink") [다운로드](../Page/다운로드.md "wikilink") 서비스이다. [아이폰 3G가](../Page/아이폰_3G.md "wikilink") 발표될 즈음인 2008년 7월 10일부터 [아이튠즈](../Page/아이튠즈.md "wikilink")의 업데이트 형태로 서비스가 시작되었다.
 
 "앱 스토어"란 이름은 "애플의 응용 소프트웨어 가게 (Apple Application Software Store)"란 의미를 담고 있다.
 

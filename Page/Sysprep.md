@@ -23,8 +23,6 @@ Sysprep은 설치 과정 동안에 새로운 컴퓨터 이름, 고유 보안 식
 
 ## 각주
 
-<references />
-
 ## 외부 링크
 
   - [윈도 XP의 성공적인 배포를 위한 Sysprep 도구 이용법](http://support.microsoft.com/default.aspx?scid=kb;en-us;302577)

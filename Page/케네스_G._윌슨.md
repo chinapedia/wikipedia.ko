@@ -5,7 +5,7 @@
 
 ## 생애
 
-1936년에 태어났다. 아버지는 저명한 화학자 [에드가 브라이트 윌슨 주니어였다](https://ko.wikipedia.org/wiki/에드가_브라이트_윌슨_주니어 "wikilink"). [하버드 대학교에서](../Page/하버드_대학교.md "wikilink") [퍼트넘 장학생이었으며](https://ko.wikipedia.org/wiki/윌리엄_로웰_퍼트넘_수학경시대회 "wikilink"), 1961년 [칼텍의](../Page/캘리포니아_공과대학교.md "wikilink") [머리 겔만](../Page/머리_겔만.md "wikilink") 아래에서 박사 학위를 받았다. 1963년에 [코넬 대학교](../Page/코넬_대학교.md "wikilink") 물리학과의 조교수, 1970년에 정교수가 되었다. [1980년](../Page/1980년.md "wikilink") [울프상](https://ko.wikipedia.org/wiki/울프상 "wikilink") [물리학](../Page/물리학.md "wikilink") 부문을 [마이클 E. 피셔](https://ko.wikipedia.org/wiki/마이클_E._피셔 "wikilink"), [리오 카다노프와](../Page/리오_카다노프.md "wikilink") 같이 수상하였다.
+1936년에 태어났다. 아버지는 저명한 화학자 [에드가 브라이트 윌슨 주니어였다](https://ko.wikipedia.org/wiki/에드가_브라이트_윌슨_주니어 "wikilink"). [하버드 대학교에서](../Page/하버드_대학교.md "wikilink") [퍼트넘 장학생이었으며](../Page/윌리엄_로웰_퍼트넘_수학경시대회.md "wikilink"), 1961년 [칼텍의](../Page/캘리포니아_공과대학교.md "wikilink") [머리 겔만](../Page/머리_겔만.md "wikilink") 아래에서 박사 학위를 받았다. 1963년에 [코넬 대학교](../Page/코넬_대학교.md "wikilink") 물리학과의 조교수, 1970년에 정교수가 되었다. [1980년](../Page/1980년.md "wikilink") [울프상](https://ko.wikipedia.org/wiki/울프상 "wikilink") [물리학](../Page/물리학.md "wikilink") 부문을 [마이클 E. 피셔](https://ko.wikipedia.org/wiki/마이클_E._피셔 "wikilink"), [리오 카다노프와](../Page/리오_카다노프.md "wikilink") 같이 수상하였다.
 
 [1982년](../Page/1982년.md "wikilink")에 [임계 현상에서의](https://ko.wikipedia.org/wiki/임계_현상 "wikilink") 이차 [상전이](../Page/상전이.md "wikilink")에 대해 [양자 역학과](https://ko.wikipedia.org/wiki/양자_역학 "wikilink") [통계 역학을](https://ko.wikipedia.org/wiki/통계_역학 "wikilink") 결합한 건설적인 접근 방법, 즉 [재규격화](../Page/재규격화.md "wikilink") 이론에 대한 공로로 [노벨 물리학상을](../Page/노벨_물리학상.md "wikilink") 수상 하였다.
 

@@ -111,7 +111,7 @@
 
 #### 제4화\~제5화
 
-  - 토미나가 마사시 - [오치아이 모토키](https://ko.wikipedia.org/wiki/오치아이_모토키 "wikilink")
+  - 토미나가 마사시 - [오치아이 모토키](../Page/오치아이_모토키.md "wikilink")
   - 사쿠마 히비키 - [와카바 류야](https://ko.wikipedia.org/wiki/와카바_류야 "wikilink")
   - 카메다 준야 - [오노 켄쇼](../Page/오노_켄쇼.md "wikilink")
   - 아사부키 마야 - [스즈키 카스미](https://ko.wikipedia.org/wiki/스즈키_카스미 "wikilink")

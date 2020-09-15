@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 바둑왕전](https://ko.wikipedia.org/wiki/KBS_바둑왕전).
 
 
-《**KBS 바둑왕전**》(KBS 바둑王戰)은 [1980년](../Page/1980년.md "wikilink") [1월 6일부터](../Page/1월_6일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [12월 29일까지](../Page/12월_29일.md "wikilink") 방송되었던 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [바둑](../Page/바둑.md "wikilink") 프로그램이다.
+《**KBS 바둑왕전**》(KBS 바둑王戰)은 [1980년](../Page/1980년.md "wikilink") [1월 6일부터](../Page/1월_6일.md "wikilink") 방송되는 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [바둑](../Page/바둑.md "wikilink") 프로그램이다.
 
 ## 개요
 
@@ -921,7 +921,7 @@
 
   - 해설 :[노영하](../Page/노영하.md "wikilink") 九단 : [1998년](../Page/1998년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink")
 
-  - 진행 :[남치형](https://ko.wikipedia.org/wiki/남치형 "wikilink") 初단, 해설 :[노영하](../Page/노영하.md "wikilink") 九단 : [2001년](../Page/2001년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink")
+  - 진행 :[남치형](../Page/남치형.md "wikilink") 初단, 해설 :[노영하](../Page/노영하.md "wikilink") 九단 : [2001년](../Page/2001년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink")
 
   - 진행 :[김성룡](../Page/김성룡_\(바둑_기사\).md "wikilink") 九단, 해설 :[노영하](../Page/노영하.md "wikilink") 九단 : [2003년](../Page/2003년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink")\[6\]\[7\]
 
@@ -939,12 +939,12 @@
   - 제17기 \~ 제18기 : 예선을 거쳐 본선에 진출한 20명이 승자조와 패자조로 나누어 토너먼트 대결을 벌여 우승자를 결정한다. 결승전은 3번기,패자조는 승자2회전에서 부터 패했을때만 가능하다.
   - 제11기 \~ 제16기, 제19기 \~ 제24기 : 예선을 거쳐 본선에 진출한 24명이 승자조와 패자조로 나누어 토너먼트 대결을 벌여 우승자를 결정한다. 결승전은 3번기,패자조는 승자2회전에서 부터 패했을때만 가능하다.
   - 제25기 \~ 제33기 : 예선을 거쳐 본선에 진출한 22명과 시드를 받고 본선에 진출한 6명이 진출하여 28명이 승자조와 패자조로 나누어 토너먼트 대결을 벌여 우승자를 결정한다. 결승전은 3번기,패자조는 승자2회전에서 부터 패했을때만 가능하다.
-  - 제34기 \~ **현재** : 치열한 예선전을 뚫고 본선에 진출한 42명과 시드를 받고 본선에 진출한 8명의 프로기사들이 대국을 펼쳐 결승전은 3번기.
-  - 제1기 \~ 제10기, 제34기 부터는 제외되었다.
-  - 결승전은 3번기.
+  - 제34기 \~ 제38기 : 치열한 예선전을 뚫고 본선에 진출한 42명과 시드를 받고 본선에 진출한 8명의 프로기사들이 대국을 펼쳐 결승전은 3번기.
+  - 제1기 \~ 제10기, 제34기 부터는 패자조에서 제외되었다.
   - 대국 녹화 후 편집, 사전 모니터 및 해설 녹화를 거쳐 방송한다.
   - 시간은 각자 1인당 5분(제19기-2000년 \~ ), 30초 초읽기 10회(9기 \~ 11기), 30초 초읽기 5회(제12기 \~ )
   - 덤은 흑을 쥔사람은 6.5집(1998년 \~ )을 공제한다.
+  - 제39기 \~ **현재** : 치열한 예선전을 뚫고 본선에 진출한 5명과 시드를 받고 본선에 진출한 3명의 프로기사들이 대국을 펼쳐 결승전은 3번기.
 
 ## 역대 우승자 · 준우승자
 
@@ -1002,7 +1002,7 @@
 <td><p>(故) <a href="https://ko.wikipedia.org/wiki/하찬석" title="wikilink">하찬석</a> 七단</p></td>
 <td><p>2-1</p></td>
 <td><p>김희중 七단</p></td>
-<td></td>
+<td><p>생전 우승한 기사(5기)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1986년.md" title="wikilink">1986년</a></p></td>
@@ -1286,6 +1286,22 @@
 <td><p><a href="../Page/신진서.md" title="wikilink">신진서</a> 九단 우승!<br />
 <a href="../Page/신민준.md" title="wikilink">신민준</a> 九단 준우승!</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/39기_KBS_바둑왕전" title="wikilink">39기</a></p></td>
+<td><p>단</p></td>
+<td><p>0-0</p></td>
+<td><p>단</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1328,6 +1344,9 @@
 | 제33기 |                                           |
 | 제34기 |                                           |
 | 제35기 |                                           |
+| 제36기 |                                           |
+| 제37기 |                                           |
+| 제38기 |                                           |
 
 ## 기록
 

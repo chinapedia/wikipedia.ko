@@ -26,6 +26,6 @@
 
 1.
 2.
-3.  [우리말샘](https://opendict.korean.go.kr/service/openApiInfo)
+3.
 4.  <https://www.data.go.kr/search/index.do?index=OPENAPI&query=&currentPage=1&countPerPage=10>
 5.  출처 : <http://it.chosun.com/site/data/html_dir/2018/05/17/2018051785054.html>

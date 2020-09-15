@@ -16,6 +16,7 @@
   - [크롬 도쿠로](../Page/크롬_도쿠로.md "wikilink")
   - [히바리 쿄야](../Page/히바리_쿄야.md "wikilink")
   - [사사가와 료헤이](../Page/사사가와_료헤이.md "wikilink")
+  - [정력왕](https://ko.wikipedia.org/wiki/이명박 "wikilink")
 
 ## 봉고레 역대보스
 

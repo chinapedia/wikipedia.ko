@@ -102,8 +102,6 @@ AFN 360 인터넷 라디오 홈페이지와 스마트폰 앱으로 청취할수 
 
   -
 
-  - [AFN Korea 한국 시청자 라운지](https://web.archive.org/web/20081015210807/http://www.afn.co.kr/)
-
   - [그땐 ‘미드’에 밤새우고 ‘팝’에 열광했었다](http://weekly.donga.com/docs/magazine/weekly/2008/01/23/200801230500043/200801230500043_1.html), 《주간동아》 621호, 2008.1.29
 
 [분류:1950년 설립](https://ko.wikipedia.org/wiki/분류:1950년_설립 "wikilink") [분류:대한민국의 라디오 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_라디오_방송국 "wikilink") [분류:대한민국의 수도권 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_수도권_지상파_방송국 "wikilink") [분류:대한민국의 지상파 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_지상파_방송국 "wikilink") [분류:주한 미군](https://ko.wikipedia.org/wiki/분류:주한_미군 "wikilink")

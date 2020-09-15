@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [U-KBS](https://ko.wikipedia.org/wiki/U-KBS).
 
 
-**U-KBS**는 [한국방송공사](../Page/한국방송공사.md "wikilink")가 운영하는 [대한민국](../Page/대한민국.md "wikilink")의 [지상파DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 방송국이다. [2005년](../Page/2005년.md "wikilink") [12월 1일부터](../Page/12월_1일.md "wikilink") 방송을 개시하였다\[1\].
+**U-KBS**는 [한국방송공사](../Page/한국방송공사.md "wikilink")가 운영하는 [대한민국](../Page/대한민국.md "wikilink")의 [지상파DMB](../Page/디지털_멀티미디어_방송.md "wikilink") 방송국이다. [2005년](../Page/2005년.md "wikilink") [12월 1일부터](../Page/12월_1일.md "wikilink") 방송을 개시하였다.\[1\]
 
 ## 채널 구성
 
-| 조합명                                                          | 채널명                                                             | 송출 형식                               | 전송 속도                                     | 운영 방식 | 비고                                   |
-| ------------------------------------------------------------ | --------------------------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----- | ------------------------------------ |
-| U-KBS                                                        | [HD KBS STAR](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 비디오 채널 (DMB)                        | 512kbps                                   | 자체    | 2020년 1월 1일 TV수중계 방송에 U-KBS 로고 표출 중지 |
-| [KBS STAR](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 320kbps                                                         |                                     |                                           |       |                                      |
-| [KBS HEART](../Page/KBS_2TV.md "wikilink")                   | 352kbps                                                         | 2020년 1월 1일 U KBS STAR에 한해 자체 편성 중지 |                                           |       |                                      |
-| KBS MUSIC                                                    | V-Radio 채널 (DMB)                                                | 128kbps                             | [2FM](../Page/KBS_제2FM.md "wikilink") 수중계 |       |                                      |
-| KBS CLOVER                                                   | 데이터 채널                                                          | 128kbps 자체                          |                                           |       |                                      |
+| 조합명                                                            | 채널명                                                               | 송출 형식                               | 전송 속도                                     | 운영 방식 | 비고                                   |
+| -------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----- | ------------------------------------ |
+| U-KBS                                                          | [HD U-KBS STAR](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 비디오 채널 (DMB)                        | 512kbps                                   | 자체    | 2020년 1월 1일 TV수중계 방송에 U-KBS 로고 표출 중지 |
+| [U-KBS STAR](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 320kbps                                                           |                                     |                                           |       |                                      |
+| [U-KBS HEART](../Page/KBS_2TV.md "wikilink")                   | 352kbps                                                           | 2020년 1월 1일 U KBS STAR에 한해 자체 편성 중지 |                                           |       |                                      |
+| KBS MUSIC                                                      | V-Radio 채널 (DMB)                                                  | 128kbps                             | [2FM](../Page/KBS_제2FM.md "wikilink") 수중계 |       |                                      |
+| KBS CLOVER                                                     | 데이터 채널                                                            | 128kbps 자체                          |                                           |       |                                      |
 
 ## 비디오 채널
 
@@ -25,12 +25,12 @@
   - 서보배의 출동 노래판 (종영)
   - 버터 잉글리쉬 (종영)
   - [가애란의 알약톡톡](../Page/가애란의_알약톡톡.md "wikilink") (종영)
-  - U-KBS 스페셜
+  - U-KBS 스페셜 (종영)
   - 박은영, 강유정의 무비무비 (종영)
   - 서경덕의 국가대표 (종영)
   - 엄지인의 시사콜콜 (종영)
   - 차정인의 뉴스풀이 (종영)
-  - 이광용의 옐로카드 (종영)
+  - 이광용의 옐로우카드 (종영)
   - [알약톡톡 2](https://ko.wikipedia.org/wiki/알약톡톡_2 "wikilink") (종영)
   - 차정인의 티타임 (종영)
   - 인터뷰선물 (종영)

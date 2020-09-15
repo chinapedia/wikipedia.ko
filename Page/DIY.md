@@ -22,7 +22,7 @@
 
 ## 참고
 
-  - Putting your client to work: A good way to achieve great service at low cost?’by Philip G. Moscoso, Alejandro Lago and Marlene Amorim [Source: The European Business Review, March-April 2011)](https://www.academia.edu/21871294/Putting_Your_Client_to_Work_A_Good_Way_to_Achieve_Great_Service_at_Low_Cost) [1](https://afewgooddaniel.wordpress.com/2013/04/16/%EB%8B%B9%EC%8B%A0%EC%9D%80-%EC%85%80%ED%94%84%EC%84%9C%EB%B9%84%EC%8A%A4self-service%EC%97%90-%EC%9D%B5%EC%88%99%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C-ebr-2011-%EC%95%84%ED%8B%B0%ED%81%B4-%EC%9D%B8/)
+  - Putting your client to work: A good way to achieve great service at low cost?’by Philip G. Moscoso, Alejandro Lago and Marlene Amorim [Source: The European Business Review, March-April 2011)](https://www.academia.edu/21871294/Putting_Your_Client_to_Work_A_Good_Way_to_Achieve_Great_Service_at_Low_Cost) [1](https://web.archive.org/web/20190108100742/https://afewgooddaniel.wordpress.com/2013/04/16/%EB%8B%B9%EC%8B%A0%EC%9D%80-%EC%85%80%ED%94%84%EC%84%9C%EB%B9%84%EC%8A%A4self-service%EC%97%90-%EC%9D%B5%EC%88%99%ED%95%98%EC%8B%AD%EB%8B%88%EA%B9%8C-ebr-2011-%EC%95%84%ED%8B%B0%ED%81%B4-%EC%9D%B8/)
 
 ## 외부 링크
 

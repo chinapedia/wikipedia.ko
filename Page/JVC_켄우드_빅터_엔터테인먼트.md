@@ -87,6 +87,7 @@
   - [박정민](../Page/박정민_\(가수\).md "wikilink") (일본에서 ROMEO라는 예명으로 활동한다.)
   - [니콜](../Page/니콜_\(1991년\).md "wikilink")
   - [마마무](../Page/마마무.md "wikilink")
+  - [세븐](../Page/세븐_\(가수\).md "wikilink")
   - [VIXX](../Page/빅스_\(음악_그룹\).md "wikilink")
 
 ### 플라잉 독

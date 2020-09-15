@@ -92,7 +92,7 @@
   - [KBS전주 해피FM](../Page/KBS전주방송총국.md "wikilink")
   - [KBS부산 해피FM](../Page/KBS부산방송총국.md "wikilink")
   - [KBS창원 해피FM](../Page/KBS창원방송총국.md "wikilink")
-  - [김원준의 라디오스타](../Page/김원준의_라디오스타.md "wikilink")
+  - [두근두근 음악엔](https://ko.wikipedia.org/wiki/두근두근_음악엔 "wikilink")
 
 ## 외부 링크
 

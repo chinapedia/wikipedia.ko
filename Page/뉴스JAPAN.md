@@ -10,7 +10,8 @@
   - [안도 유코](https://ko.wikipedia.org/wiki/안도_유코 "wikilink") (1994년 4월 \~ 2000년 3월)
   - [다시로 나오코](https://ko.wikipedia.org/wiki/다시로_나오코 "wikilink") (2000년 4월 \~ 2002년 9월)
   - [다키가와 크리스텔](../Page/다키가와_크리스텔.md "wikilink") (2002년 10월 \~ 2009년 9월)
-  - [아키모토 유리](https://ko.wikipedia.org/wiki/아키모토_유리 "wikilink") (2009년 10월 \~ 현재)
+  - [아키모토 유리](https://ko.wikipedia.org/wiki/아키모토_유리 "wikilink") (2009년 10월 \~ 2012 년 9 월)
+  - [오시마 유카리](https://ko.wikipedia.org/wiki/오시마_유카리 "wikilink") (2012 년 10 월 \~ 2015 년 3 월)
 
 ### 남성
 
@@ -62,6 +63,7 @@
   - [뉴스 제로](../Page/뉴스_제로.md "wikilink") ([닛폰 TV 방송망](../Page/닛폰_TV_방송망.md "wikilink") 계열국)
   - [NEWS23](../Page/NEWS23.md "wikilink") ([도쿄 방송](https://ko.wikipedia.org/wiki/도쿄_방송 "wikilink") 계열국)
   - [보도 스테이션](../Page/보도_스테이션.md "wikilink") ([TV 아사히](../Page/TV_아사히.md "wikilink") 계열국)
+  - [다 포르토\!](https://ko.wikipedia.org/wiki/다_포르토! "wikilink")
 
 ## 외부 링크
 

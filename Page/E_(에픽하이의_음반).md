@@ -63,7 +63,7 @@
   - [MYK](https://ko.wikipedia.org/wiki/MYK "wikilink")
   - [Dok2](../Page/도끼_\(가수\).md "wikilink")
   - [다이나믹 듀오](../Page/다이나믹_듀오.md "wikilink")
-  - [드렁큰타이거](https://ko.wikipedia.org/wiki/드렁큰타이거 "wikilink") - [타이거 JK](../Page/타이거_JK.md "wikilink"), [팔로알토](https://ko.wikipedia.org/wiki/Paloalto "wikilink"), [비지](../Page/비지_\(가수\).md "wikilink")
+  - [드렁큰타이거](https://ko.wikipedia.org/wiki/드렁큰타이거 "wikilink") - [타이거 JK](../Page/타이거_JK.md "wikilink"), [팔로알토](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink"), [비지](../Page/비지_\(가수\).md "wikilink")
 
 ### R-16 힙합 콘서트
 

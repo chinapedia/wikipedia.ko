@@ -542,8 +542,8 @@
 <td><p><strong>최우수 선수:</strong><br />
 <a href="../Page/디에고_포를란.md" title="wikilink">디에고 포를란</a> (우루과이)</p>
 <p><strong>부심:</strong><br />
-프란체스코 부라지나 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)[23]<br />
-마티아스 아네트 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)[24]<br />
+프란체스코 부라지나 (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)[23]<br />
+마티아스 아네트 (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)[24]<br />
 <strong>대기심:</strong><br />
 <a href="../Page/볼프강_슈타르크.md" title="wikilink">볼프강 슈타르크</a> (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)[25]<br />
 <strong>후보 대기심:</strong><br />

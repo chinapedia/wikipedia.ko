@@ -39,4 +39,4 @@
 
 [분류:캐논 EOS DSLR 카메라](https://ko.wikipedia.org/wiki/분류:캐논_EOS_DSLR_카메라 "wikilink")
 
-1.  [Canon 50D Review ISO Sensitivity / Noise Levels](http://www.dpreview.com/reviews/canoneos50d/page18.asp)
+1.

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [Bad World Tour](https://ko.wikipedia.org/wiki/Bad_World_Tour).
 
 
-**Bad World Tour**는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 첫 번째 월드투어이다. [미국](../Page/미국.md "wikilink")을 비롯해 [유럽](../Page/유럽.md "wikilink"),[일본](../Page/일본.md "wikilink"),[오스트레일리아](../Page/오스트레일리아.md "wikilink") 등지에서 개최했으며, [1987년](../Page/1987년.md "wikilink") 8월 12일 부터 [1989년](../Page/1989년.md "wikilink") 1월 27일까지 이어졌다. 이 투어는 [펩시](../Page/펩시.md "wikilink")가 서포트해줬으며, 16달동안 123개의 투어를 했으며, 440만명이 넘는 팬들을 15개국에서 만났다. 또한 이 투어는 1억 2천 5백이 넘는 수익률을 벌어, [기네스 북에](https://ko.wikipedia.org/wiki/기네스_북 "wikilink") '가장 거대하고 규모 있는 투어'로 올랐다. 미국에서만 54개의 콘서트를 개최했으며,[1988년](../Page/1988년.md "wikilink")에는 'Tour of the Year 1988'로 뽑혔으며, 역사상 가장 위대한 투어로 뽑힌다.
+**Bad World Tour**는 [마이클 잭슨의](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink") 첫 번째 월드투어이다. [미국](../Page/미국.md "wikilink")을 비롯해 [유럽](../Page/유럽.md "wikilink"), [일본](../Page/일본.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink") 등지에서 개최했으며, [1987년](../Page/1987년.md "wikilink") 8월 12일부터 [1989년](../Page/1989년.md "wikilink") 1월 27일까지 이어졌다. 이 투어는 [펩시](../Page/펩시.md "wikilink")가 서포트해줬으며, 16달 동안 123개의 투어를 했으며, 440만 명이 넘는 팬들을 15개국에서 만났다. 또한 이 투어는 1억 2천5백이 넘는 수익률을 벌어, [기네스 북에](https://ko.wikipedia.org/wiki/기네스_북 "wikilink") '가장 거대하고 규모 있는 투어'로 올랐다. 미국에서만 54개의 콘서트를 개최했으며, [1988년](../Page/1988년.md "wikilink")에는 'Tour of the Year 1988'로 뽑혔으며, 역사상 가장 위대한 투어로 뽑힌다.
 
-그는 모든 콘서트의 수익률을 기아로 허덕이는 아이나 몸이 안좋은 아이들을 위해 기부했으며, 400개의 티켓을 제공하기도 했다. [섬네일을](https://ko.wikipedia.org/wiki/파일:Michaeljacksonphoto_drewcohen.JPG "wikilink") 부르는 [마이클 잭슨](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink")\]\]
+그는 모든 콘서트의 수익률을 기아로 허덕이는 아이나 몸이 안 좋은 아이들을 위해 기부했으며, 400개의 티켓을 제공하기도 했다. [섬네일을](https://ko.wikipedia.org/wiki/파일:Michaeljacksonphoto_drewcohen.JPG "wikilink") 부르는 [마이클 잭슨](https://ko.wikipedia.org/wiki/마이클_잭슨 "wikilink")\]\]
 
 ## 곡 리스트
 

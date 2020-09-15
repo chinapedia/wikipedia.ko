@@ -7,7 +7,7 @@ OpenCL이 만들어진 이유는 [OpenGL](../Page/OpenGL.md "wikilink")이나 [O
 
 ## 역사
 
-OpenCL은 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 최초로 개발했으며 OpenCL의 상표권도 애플이 가지고 있다. 그 후 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink"), [인텔](../Page/인텔.md "wikilink"), [엔비디아](../Page/엔비디아.md "wikilink") 등과 함께 애플은 문서를 다듬어 최초의 제안서(proposal)를 [크로노스 그룹에](../Page/크로노스_그룹.md "wikilink") 제출하였다. 2008년 6월 16일 크로노스 컴퓨트 워킹 그룹(Khronos Compute Working Group)이 결성되었다.\[1\] 크로노스 컴퓨트 워킹 그룹에는 CPU, GPU, 임베디드 프로세서, 소프트웨어 업체들이 참여하였다. 2008년 6월부터 5개월 동안 이 그룹은 OpenCL 1.0을 만들기 위해 작업하였다. 2008년 11월 18일 마침내 기술 규격 정보를 담은 OpenCL 1.0 명세서(specification)가 완성되었다.\[2\] 이 기술 명세서는 크로노스 그룹 그룹원들이 검토(review)하였다. 그 후, 2008년 12월 8일 공식적으로 발표되었다.\[3\]
+OpenCL은 [애플](../Page/애플.md "wikilink")이 최초로 개발했으며 OpenCL의 상표권도 애플이 가지고 있다. 그 후 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink"), [인텔](../Page/인텔.md "wikilink"), [엔비디아](../Page/엔비디아.md "wikilink") 등과 함께 애플은 문서를 다듬어 최초의 제안서(proposal)를 [크로노스 그룹에](../Page/크로노스_그룹.md "wikilink") 제출하였다. 2008년 6월 16일 크로노스 컴퓨트 워킹 그룹(Khronos Compute Working Group)이 결성되었다.\[1\] 크로노스 컴퓨트 워킹 그룹에는 CPU, GPU, 임베디드 프로세서, 소프트웨어 업체들이 참여하였다. 2008년 6월부터 5개월 동안 이 그룹은 OpenCL 1.0을 만들기 위해 작업하였다. 2008년 11월 18일 마침내 기술 규격 정보를 담은 OpenCL 1.0 명세서(specification)가 완성되었다.\[2\] 이 기술 명세서는 크로노스 그룹 그룹원들이 검토(review)하였다. 그 후, 2008년 12월 8일 공식적으로 발표되었다.\[3\]
 
 OpenCL은 [맥 OS X 10.6](https://ko.wikipedia.org/wiki/맥_OS_X_10.6 "wikilink") 스노 레퍼드에서부터 지원된다.\[4\]  최초의 OpenCL 구현은 [LLVM](../Page/LLVM.md "wikilink") 및 [Clang](https://ko.wikipedia.org/wiki/Clang "wikilink") 컴파일러를 기반으로 한 것으로 알려졌다.
 

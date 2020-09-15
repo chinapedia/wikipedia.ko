@@ -24,7 +24,7 @@
 **용호의 권 팀**
 
   - [료 사카자키](https://ko.wikipedia.org/wiki/료_사카자키 "wikilink")
-  - [로버트 가르시아](https://ko.wikipedia.org/wiki/로버트_가르시아 "wikilink")
+  - [로버트 가르시아](../Page/로버트_가르시아.md "wikilink")
   - [타쿠마 사카자키](https://ko.wikipedia.org/wiki/타쿠마_사카자키 "wikilink")
 
 **이오리 팀**
@@ -65,7 +65,7 @@
 
 **이카리 팀**
 
-  - [랄프 존스](https://ko.wikipedia.org/wiki/랄프_존스 "wikilink")
+  - [랄프 존스](../Page/랄프_존스.md "wikilink")
   - [클락 스틸](https://ko.wikipedia.org/wiki/클락_스틸 "wikilink")
   - [레오나 하이데른](../Page/레오나_하이데른.md "wikilink")
 

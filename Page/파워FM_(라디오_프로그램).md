@@ -36,8 +36,8 @@
 
 ### 요일별 코너
 
-  - 월요일 : 나나랜드
-  - 화요일 :
+  - 월요일 : 나나랜드 ([박지윤](../Page/박지윤_\(성우\).md "wikilink")) ([정형석](../Page/정형석.md "wikilink"))
+  - 화요일 : 오.일.발.라.FLEX\~([황보](https://ko.wikipedia.org/wiki/황보 "wikilink"))
   - 수요일 : 직장인탐구생활 ([주시은](../Page/주시은.md "wikilink"))
   - 목요일 : 빅데이터쇼 (최재원 이사)
   - 금요일 : 그러면 안돼\~ ([권진영](../Page/권진영.md "wikilink"))

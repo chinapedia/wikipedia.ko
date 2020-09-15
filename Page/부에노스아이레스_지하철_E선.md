@@ -11,24 +11,26 @@
 
 ## 지하철 역
 
-  - 레티로 [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBASE\)_bullet.svg "wikilink")
-  - 카탈리나 스
-  - 중앙 메일 [20px](https://ko.wikipedia.org/wiki/파일:Línea_B_\(SBASE\)_bullet.svg "wikilink")
-  - 볼리바르 [20px](https://ko.wikipedia.org/wiki/파일:Línea_A_\(SBASE\)_bullet.svg "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_D_\(SBASE\)_bullet.svg "wikilink")
-  - 벨그라노
-  - 인디펜덴시아 [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBASE\)_bullet.svg "wikilink")
-  - 산 호세
-  - 엔트레 리오스
-  - 피친차
-  - 유유이 [20px](https://ko.wikipedia.org/wiki/파일:Línea_H_\(SBASE\)_bullet.svg "wikilink")
-  - 제네랄 우르키사
-  - 보에도
-  - 아베니다 라 플라타
-  - 호세 마리아 모레노
-  - 에밀리오 미트레
-  - 메다야 미라그로사
-  - 바레라
-  - 비르레예스 광장 [20px](https://ko.wikipedia.org/wiki/파일:Línea_P_\(SBASE\)_bullet.svg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:Línea_E_del_Subte_de_Buenos_Aires.svg "wikilink")
+
+  - Retiro (레티로) [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBASE\)_bullet.svg "wikilink")
+  - Catalinas (카탈리나 스)
+  - Correo Central (중앙 메일) [20px](https://ko.wikipedia.org/wiki/파일:Línea_B_\(SBASE\)_bullet.svg "wikilink")
+  - Bolívar (볼리바르) [20px](https://ko.wikipedia.org/wiki/파일:Línea_A_\(SBASE\)_bullet.svg "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_D_\(SBASE\)_bullet.svg "wikilink")
+  - Balgrano (벨그라노)
+  - Independencia (인디펜덴시아) [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBASE\)_bullet.svg "wikilink")
+  - San José (산 호세)
+  - Entre Ríos (엔트레 리오스)
+  - Pichincha (피친차)
+  - Jujuy (유유이) [20px](https://ko.wikipedia.org/wiki/파일:Línea_H_\(SBASE\)_bullet.svg "wikilink")
+  - General Urquiza (제네랄 우르키사)
+  - Boedo (보에도)
+  - Avenida La Plata (아베니다 라 플라타)
+  - José María Moreno (호세 마리아 모레노)
+  - Emilio Mitre (에밀리오 미트레)
+  - Medalla Milagrosa (메다야 미라그로사)
+  - Varela (바레라)
+  - Plaza de los Virreyes (비르레예스 광장) [20px](https://ko.wikipedia.org/wiki/파일:Línea_P_\(SBASE\)_bullet.svg "wikilink")
 
 ## 관련 항목
 

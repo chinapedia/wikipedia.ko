@@ -73,8 +73,8 @@
 <td><p><strong>2-1</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>2020년<br />
-<em><a href="../Page/2020년_FIFA_U-17_여자_월드컵.md" title="wikilink">상세 정보</a></em></p></td>
+<td><p>2021년<br />
+<em><a href="../Page/2021년_FIFA_U-17_여자_월드컵.md" title="wikilink">상세 정보</a></em></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>?-?</strong></p></td>

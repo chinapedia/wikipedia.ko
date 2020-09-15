@@ -1295,7 +1295,7 @@
 [개인 수상 목록](https://ko.wikipedia.org/wiki/분류:K리그_상 "wikilink")
 
 1.  [스포츠토토 한국축구대상 한국축구발전 '숨은 주역'](http://sports.naver.com/general/news/read.nhn?oid=076&aid=0000018145)
-2.  [서정원, KBS '베스트 골' 선정](http://www.bluewings.kr/index.php?mid=news&page=598&document_srl=272900)
+2.
 3.  [K리그 대상- 권창훈의 수원 더비 발리킥, 2016 최고의 골](http://sports.news.naver.com/kfootball/news/read.nhn?oid=343&aid=0000065557)
 4.  [K리그 개막특집-새 시즌 앞둔 K리그, ‘환골탈태’를 외치다](http://sports.news.naver.com/general/news/read.nhn?oid=139&aid=0001958421)
 5.  [K리그 개막특집-새 시즌 앞둔 K리그, ‘환골탈태’를 외치다](http://sports.news.naver.com/general/news/read.nhn?oid=139&aid=0001958421)

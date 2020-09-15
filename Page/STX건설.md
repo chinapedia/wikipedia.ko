@@ -1,12 +1,12 @@
 > This article is converted from Wikipedia: [STX건설](https://ko.wikipedia.org/wiki/STX건설).
 
 
-**STX건설** 주식회사는 대한민국 [STX그룹](../Page/STX그룹.md "wikilink")에서 분리된 건설사이다. ‘Rebuild the Value for Vision 2030’이라는 슬로건을 목표로 그간 전경련 회관 신축, 부산국제금용센터 복 합개발, 한강플로팅 아일랜드, OSTT 온산탱크터미널, 이라크 디젤파워플랜트, STX대련 조선해양 종합생산기지 등 새로운 랜드마크 건설과 대형 개발사업에 참여하였다.
+**STX건설** 주식회사는 대한민국 [STX그룹](../Page/STX그룹.md "wikilink")에서 분리된 건설사이다. ‘Rebuild the Value for Vision 2030’이라는 슬로건을 목표로 그간 전경련 회관 신축, 부산국제금용센터 복합개발, 한강플로팅 아일랜드, OSTT 온산탱크터미널, 이라크 디젤파워플랜트, STX대련 조선해양 종합생산기지 등 새로운 랜드마크 건설과 대형 개발사업에 참여하였다.
 
 ## 사무소
 
-  - 창원사무소: [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink") 성산구 중앙대로84길 3, 범한빌딩 9층 (상남동)
-  - 서울사무소: [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 영동대로 96길 34, 대윤빌딩 3층
+  - 창원사무소: [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink") 성산구 중앙대로228번길 6 (신월동)
+  - 부산사무소: [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [동구](https://ko.wikipedia.org/wiki/동구 "wikilink") 중앙대로 263 (초량동)
 
 ## 해외사업
 

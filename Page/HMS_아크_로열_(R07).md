@@ -9,7 +9,7 @@
 
 ## 무기와 비행기
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:BAe_Sea_Harrier_FA2.JPG "wikilink") [시 해리어](../Page/시_해리어.md "wikilink")\]\] [섬네일의](https://ko.wikipedia.org/wiki/파일:Sea-dart_DN-SN-90-08592.jpg "wikilink") [시 다트](https://ko.wikipedia.org/wiki/시_다트 "wikilink")\]\] 항공모함의 비행 그룹은 9대의 [해리어와](https://ko.wikipedia.org/wiki/:en:Hawker_Siddeley_Harrier "wikilink") 12대의 헬리콥터(주로 [시킹](https://ko.wikipedia.org/wiki/:en:Westland_Sea_King "wikilink") 헬리콥터인데, 대잠전 또는 공중조기경보를 한다.)로 이루어진다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:BAe_Sea_Harrier_FA2.JPG "wikilink")\]\] [섬네일](https://ko.wikipedia.org/wiki/파일:Sea-dart_DN-SN-90-08592.jpg "wikilink")\]\] 항공모함의 비행 그룹은 9대의 [해리어와](../Page/호커_시들리_해리어.md "wikilink") 12대의 헬리콥터(주로 [시킹](../Page/웨스틀랜드_시_킹.md "wikilink") 헬리콥터인데, 대잠전 또는 공중조기경보를 한다.)로 이루어진다.
 
 항공모함에는 영국 해군 태스크포스를 위한 작전 본부를 제공하기도 한다.
 
@@ -17,7 +17,7 @@
 
 ## 갤러리
 
-파일:HMSEndurance Portsmouth2.jpg 파일:Hmsarkroyal-portsmouth21-03-07.JPG 파일:Ark_royal_r07.600px.jpg 파일:HMS Ark Royal (R07) 5 Oct 08.jpg 파일:Exercise Joint Warrior 2008, Clyde 5 Oct.jpg
+파일:HMSEndurance Portsmouth2.jpg |포츠머스에 정박한 HMS 앤듀런스 (A171), HMS 아크 로열, 42형 구축함 HMS 리버풀 (D92) 파일:Hmsarkroyal-portsmouth21-03-07.JPG |포츠머스에 정박한 HMS 아크 로열 (R07) 2007년 3월 21일 파일:Ark_royal_r07.600px.jpg |런던 그리니치 선거 안의 HMS 아크 로열 (R07), 2004년 2월 26일 파일:HMS Ark Royal (R07) 5 Oct 08.jpg |2008년 조인트 워리어 연습에 참가한 HMS 아크 로열 (R07), 그해 10월 5일 파일:Exercise Joint Warrior 2008, Clyde 5 Oct.jpg |2008년 조인트 워리어 연습에 참가한 HMS 아크 로열 (R07), 그해 10월 5일
 
 ## 외부 링크
 
@@ -25,4 +25,4 @@
   - [BBC factfile](http://news.bbc.co.uk/1/hi/uk/2173249.stm)
   - [Maritimequest HMS Ark Royal photo gallery](http://www.maritimequest.com/warship_directory/great_britain/pages/aircraft_carriers/hms_ark_royal_r07.htm)
 
-[분류:영국의 항공모함](https://ko.wikipedia.org/wiki/분류:영국의_항공모함 "wikilink") [분류:1981년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1981년_진수된_선박 "wikilink") [분류:인빈시블급 항공모함](https://ko.wikipedia.org/wiki/분류:인빈시블급_항공모함 "wikilink")
+[분류:1981년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1981년_진수된_선박 "wikilink") [분류:인빈시블급 항공모함](https://ko.wikipedia.org/wiki/분류:인빈시블급_항공모함 "wikilink")

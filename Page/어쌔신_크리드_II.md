@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [어쌔신 크리드 II](https://ko.wikipedia.org/wiki/어쌔신_크리드_II).
 
 
-**어쌔신 크리드 II**(Assassin's Creed II)는 3인칭 액션 어드벤처 비디오 게임으로 [유비소프트 몬트리올이](https://ko.wikipedia.org/wiki/유비소프트_몬트리올 "wikilink") 개발하고 유비소프트가 배급했다. 어쌔신 크리드 시리즈의 두 번째 작품이며, 에지오 3부작에서 첫 번째 작품이다. [엑스박스 360과](../Page/엑스박스_360.md "wikilink") [PS3](../Page/플레이스테이션_3.md "wikilink") 버전은 2009년 12월 17일 발매되었으며 PC버전은 2010년 3월 12일 발매되었다.
+《**어쌔신 크리드 II**》(Assassin's Creed II)는 3인칭 액션 어드벤처 비디오 게임으로 [유비소프트 몬트리올이](https://ko.wikipedia.org/wiki/유비소프트_몬트리올 "wikilink") 개발하고 유비소프트가 배급했다. 어쌔신 크리드 시리즈의 두 번째 작품이며, 에지오 3부작에서 첫 번째 작품이다. [엑스박스 360과](../Page/엑스박스_360.md "wikilink") [PS3](../Page/플레이스테이션_3.md "wikilink") 버전은 2009년 12월 17일 발매되었으며 PC버전은 2010년 3월 12일 발매되었다.
 
 어쌔신 크리드 시리즈의 배경은 실제 역사에서 통제와 평화를 추구하는 기사단과 자유와 평화를 추구하는 암살단의 대결 구도로 구성된다. 어쌔신 크리드 II에서는 현대에 데스몬드 마일즈가 애니머스 기계장치를 통해 자신의 선조인 [에지오 아디토레 데 피렌체의](https://ko.wikipedia.org/wiki/에지오_아우디토레_다_피렌체 "wikilink") 연대기를 들여다보는 액자식 구조의 이야기를 다루고 있다. 주요 배경은 15세기 말 [르네상스](../Page/르네상스.md "wikilink") 시대 [이탈리아](../Page/이탈리아.md "wikilink") [피렌체](../Page/피렌체.md "wikilink"), [베네치아](../Page/베네치아.md "wikilink"), [토스카나주](https://ko.wikipedia.org/wiki/토스카나주 "wikilink"), [포를리](../Page/포를리.md "wikilink")이며, 에지오를 조종하면서 그 시대의 이탈리아 풍경과 역사적 상황을 재구성한 모습을 엿볼 수 있다.
 

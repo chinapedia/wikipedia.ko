@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NU ABO](https://ko.wikipedia.org/wiki/NU_ABO).
 
 
-《**NU ABO**》(Nu 예삐오)는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 첫 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/미니_음반 "wikilink"). [SM 엔터테인먼트를](../Page/SM_엔터테인먼트.md "wikilink") 통해 2010년 5월 3일 발매되었다. 이번 미니 음반은 *[Chu\~♡](../Page/Chu~♡.md "wikilink")*(2009) 이후 약 6개월만에 선보이는 음반으로 [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink"), [켄지](../Page/켄지.md "wikilink"), [히치하이커](https://ko.wikipedia.org/wiki/히치하이커_\(작곡가\) "wikilink") 등이 앨범의 작곡가로 참여하였다. 발매 전, 멤버의 티저 사진을 공개하였는데 [설리](https://ko.wikipedia.org/wiki/설리 "wikilink")는 금발의 파격적인 머리를 해 눈길을 끌었으며 그 금발은 가발인 것으로 드러났다. KBS 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》에서 첫 무대를 선보였다.
+《**NU ABO**》(Nu 예삐오)는 [대한민국](../Page/대한민국.md "wikilink")의 음악 그룹 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")의 첫 번째 [미니 음반이다](https://ko.wikipedia.org/wiki/미니_음반 "wikilink"). [SM 엔터테인먼트를](../Page/SM_엔터테인먼트.md "wikilink") 통해 2010년 5월 3일 발매되었다. 이번 미니 음반은 *[Chu\~♡](../Page/Chu~♡.md "wikilink")*(2009) 이후 약 6개월만에 선보이는 음반으로 [유영진](https://ko.wikipedia.org/wiki/유영진 "wikilink"), [켄지](../Page/켄지.md "wikilink"), [히치하이커](https://ko.wikipedia.org/wiki/히치하이커_\(작곡가\) "wikilink") 등이 앨범의 작곡가로 참여하였다. 발매 전, 멤버의 티저 사진을 공개하였는데 [설리는](../Page/설리_\(1994년\).md "wikilink") 금발의 파격적인 머리를 해 눈길을 끌었으며 그 금발은 가발인 것으로 드러났다. KBS 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》에서 첫 무대를 선보였다.
 
 ## 수록곡
 

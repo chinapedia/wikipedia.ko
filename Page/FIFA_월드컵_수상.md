@@ -633,7 +633,7 @@
 
 ## 올스타 팀
 
-**올스타 팀**은 월드컵 대회 최고의 선수들로 팀을 구성한 것으로 1990년에 처음 구성되었다. 2002년부터는 올스타 팀에 감독이 신설되었다.
+**올스타 팀**은 1994년부터 2006년까지 월드컵 대회별로 최고의 활약을 보인 선수들을 선정한 팀이다. 2006년까지 FIFA 산하 기술위원회가 수상자를 선정했다.
 
 <table>
 <thead>
@@ -643,7 +643,6 @@
 <th><p>수비수</p></th>
 <th><p>미드필더</p></th>
 <th><p>공격수</p></th>
-<th><p>감독</p></th>
 </tr>
 </thead>
 <tbody>
@@ -664,13 +663,12 @@
  <a href="../Page/기예르모_스타빌레.md" title="wikilink">기예르모 스타빌레</a><br />
  <a href="https://ko.wikipedia.org/wiki/베르트_페이트노드" title="wikilink">베르트 페이트노드</a><br />
 </p></td>
-<td><p>N/A</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1934년_FIFA_월드컵" title="wikilink">1934년</a></p></td>
 <td><p><a href="../Page/리카르도_사모라.md" title="wikilink">리카르도 사모라</a><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하신토_킹코세스" title="wikilink">하신토 킹코세스</a><br />
+<td><p><a href="../Page/하신토_킹코세스.md" title="wikilink">하신토 킹코세스</a><br />
  <a href="https://ko.wikipedia.org/wiki/에랄도_몬체글리오" title="wikilink">에랄도 몬체글리오</a><br />
 </p></td>
 <td><p><a href="../Page/루이스_몬티.md" title="wikilink">루이스 몬티</a><br />
@@ -683,7 +681,6 @@
  <a href="../Page/마티아스_진델라.md" title="wikilink">마티아스 진델라</a><br />
  <a href="../Page/올드르지흐_네예들리.md" title="wikilink">올드르지흐 네예들리</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1938년_FIFA_월드컵" title="wikilink">1938년</a></p></td>
@@ -702,7 +699,6 @@
  <a href="https://ko.wikipedia.org/wiki/젠겔러_지울라" title="wikilink">젠겔러 지울라</a><br />
  <a href="../Page/레오니다스_다_시우바.md" title="wikilink">레오니다스</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1950년_FIFA_월드컵" title="wikilink">1950년</a></p></td>
@@ -721,7 +717,6 @@
  <a href="https://ko.wikipedia.org/wiki/자이르_(축구_선수)" title="wikilink">자이르</a><br />
  <a href="https://ko.wikipedia.org/wiki/후안_알베르토_스치아피노" title="wikilink">후안 알베르토 스치아피노</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1954년_FIFA_월드컵" title="wikilink">1954년</a></p></td>
@@ -740,7 +735,6 @@
  <a href="../Page/코치시_샨도르.md" title="wikilink">코치시 샨도르</a><br />
  <a href="../Page/치보르_졸탄.md" title="wikilink">치보르 졸탄</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1958년_FIFA_월드컵" title="wikilink">1958년</a></p></td>
@@ -759,7 +753,6 @@
  <a href="../Page/레몽_코파.md" title="wikilink">레몽 코파</a><br />
  <a href="../Page/군나르_그렌.md" title="wikilink">군나르 그렌</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1962년_FIFA_월드컵" title="wikilink">1962년</a></p></td>
@@ -778,7 +771,6 @@
  <a href="../Page/가힌샤.md" title="wikilink">가힌샤</a><br />
  <a href="../Page/레오넬_산체스.md" title="wikilink">레오넬 산체스</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵" title="wikilink">1966년</a></p></td>
@@ -797,7 +789,6 @@
  <a href="../Page/우베_젤러.md" title="wikilink">우베 젤러</a><br />
  <a href="../Page/에우제비우.md" title="wikilink">에우제비우</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1970년_FIFA_월드컵" title="wikilink">1970년</a></p></td>
@@ -816,7 +807,6 @@
  <a href="../Page/게르트_뮐러.md" title="wikilink">게르트 뮐러</a><br />
  <a href="../Page/자이르지뉴.md" title="wikilink">자이르지뉴</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1974년_FIFA_월드컵" title="wikilink">1974년</a></p></td>
@@ -835,7 +825,6 @@
  <a href="../Page/요한_크라위프.md" title="wikilink">요한 크라위프</a><br />
  <a href="../Page/그제고시_라토.md" title="wikilink">그제고시 라토</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1978년_FIFA_월드컵" title="wikilink">1978년</a></p></td>
@@ -854,7 +843,6 @@
  <a href="../Page/파올로_로시.md" title="wikilink">파올로 로시</a><br />
  <a href="../Page/마리오_켐페스.md" title="wikilink">마리오 켐페스</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1982년_FIFA_월드컵" title="wikilink">1982년</a></p></td>
@@ -873,7 +861,6 @@
 <td><p><a href="../Page/파올로_로시.md" title="wikilink">파올로 로시</a><br />
  <a href="../Page/카를하인츠_루메니게.md" title="wikilink">카를하인츠 루메니게</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1986년_FIFA_월드컵" title="wikilink">1986년</a></p></td>
@@ -892,7 +879,6 @@
  <a href="../Page/에밀리오_부트라게뇨.md" title="wikilink">에밀리오 부트라게뇨</a><br />
  <a href="../Page/게리_리네커.md" title="wikilink">게리 리네커</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1990년_FIFA_월드컵" title="wikilink">1990년</a></p></td>
@@ -911,7 +897,6 @@
  <a href="../Page/로제_밀라.md" title="wikilink">로제 밀라</a><br />
  <a href="../Page/위르겐_클린스만.md" title="wikilink">위르겐 클린스만</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1994년_FIFA_월드컵" title="wikilink">1994년</a></p></td>
@@ -930,7 +915,6 @@
  <a href="../Page/흐리스토_스토이치코프.md" title="wikilink">흐리스토 스토이치코프</a><br />
  <a href="../Page/로베르토_바조.md" title="wikilink">로베르토 바조</a><br />
 </p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵" title="wikilink">1998년</a></p></td>
@@ -950,7 +934,6 @@
  <a href="../Page/다보르_슈케르.md" title="wikilink">다보르 슈케르</a><br />
  <a href="../Page/브리안_라우드루프.md" title="wikilink">브리안 라우드루프</a><br />
  <a href="../Page/데니스_베르흐캄프.md" title="wikilink">데니스 베르흐캄프</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2002년_FIFA_월드컵" title="wikilink">2002년</a></p></td>
@@ -973,7 +956,6 @@
  <a href="../Page/엘_하지_디우프.md" title="wikilink">엘 하지 디우프</a><br />
  <a href="../Page/하산_샤슈.md" title="wikilink">하산 샤슈</a><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/루이스_펠리페_스콜라리" title="wikilink">루이스 펠리페 스콜라리</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2006년_FIFA_월드컵" title="wikilink">2006년</a></p></td>
@@ -1001,8 +983,26 @@
  <a href="../Page/루카_토니.md" title="wikilink">루카 토니</a><br />
  <a href="../Page/프란체스코_토티.md" title="wikilink">프란체스코 토티</a><br />
 </p></td>
-<td><p><a href="../Page/마르첼로_리피.md" title="wikilink">마르첼로 리피</a></p></td>
 </tr>
+</tbody>
+</table>
+
+## 드림 팀
+
+**드림 팀**은 2010년 대회부터 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")의 공식 홈페이지인 FIFA.com에서 팬들이 참여하는 온라인 투표로 선정하며, 2006년 대회까지 선정했던 올스타 팀을 대체한다.
+
+<table>
+<thead>
+<tr class="header">
+<th><p>연도</p></th>
+<th><p>골키퍼</p></th>
+<th><p>수비수</p></th>
+<th><p>미드필더</p></th>
+<th><p>공격수</p></th>
+<th><p>감독</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵" title="wikilink">2010년</a></p></td>
 <td><p><a href="../Page/이케르_카시야스.md" title="wikilink">이케르 카시야스</a><br />
@@ -1055,6 +1055,55 @@
  <a href="../Page/해리_케인.md" title="wikilink">해리 케인</a><br />
  <a href="https://ko.wikipedia.org/wiki/크리스티아누_호날두" title="wikilink">크리스티아누 호날두</a></p></td>
 <td><p><a href="../Page/디디에_데샹.md" title="wikilink">디디에 데샹</a></p></td>
+</tr>
+</tbody>
+</table>
+
+## 후원사 선정 베스트 팀
+
+2014년과 2018년 대회에서는 월드컵 공식 후원사가 자체적으로 정한 기준에 따라 또 하나의 베스트 팀을 구성하였다.
+
+<table>
+<thead>
+<tr class="header">
+<th><p>연도</p></th>
+<th><p>골키퍼</p></th>
+<th><p>수비수</p></th>
+<th><p>미드필더</p></th>
+<th><p>공격수</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2014년_FIFA_월드컵" title="wikilink">2014년</a></p></td>
+<td><p><a href="../Page/마누엘_노이어.md" title="wikilink">마누엘 노이어</a><br />
+</p></td>
+<td><p><a href="../Page/마르코스_로호.md" title="wikilink">마르코스 로호</a><br />
+ <a href="../Page/마츠_후멜스.md" title="wikilink">마츠 후멜스</a><br />
+ <a href="../Page/치아구_시우바.md" title="wikilink">치아구 시우바</a><br />
+ <a href="../Page/스테판_더_프레이.md" title="wikilink">스테판 더 프레이</a><br />
+</p></td>
+<td><p><a href="../Page/오스카르_두스_산투스_임보아바_주니오르.md" title="wikilink">오스카르</a><br />
+ <a href="../Page/토니_크로스.md" title="wikilink">토니 크로스</a><br />
+ <a href="https://ko.wikipedia.org/wiki/필립_람" title="wikilink">필립 람</a><br />
+ <a href="https://ko.wikipedia.org/wiki/하메스_로드리게스" title="wikilink">하메스 로드리게스</a><br />
+</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아르연_로번" title="wikilink">아르연 로번</a><br />
+ <a href="../Page/토마스_뮐러.md" title="wikilink">토마스 뮐러</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2018년_FIFA_월드컵" title="wikilink">2018년</a></p></td>
+<td><p><a href="../Page/티보_쿠르투아.md" title="wikilink">티보 쿠르투아</a></p></td>
+<td><p><a href="../Page/라파엘_바란.md" title="wikilink">라파엘 바란</a><br />
+ <a href="../Page/치아구_시우바.md" title="wikilink">치아구 시우바</a><br />
+ <a href="../Page/안드레아스_그랑크비스트.md" title="wikilink">안드레아스 그랑크비스트</a><br />
+ <a href="../Page/예리_미나.md" title="wikilink">예리 미나</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/루카_모드리치" title="wikilink">루카 모드리치</a><br />
+ <a href="../Page/필리피_코치뉴.md" title="wikilink">필리피 코치뉴</a><br />
+ <a href="../Page/데니스_체리셰프.md" title="wikilink">데니스 체리셰프</a></p></td>
+<td><p><a href="../Page/앙투안_그리즈만.md" title="wikilink">앙투안 그리즈만</a><br />
+ <a href="../Page/해리_케인.md" title="wikilink">해리 케인</a><br />
+ <a href="../Page/에덴_아자르.md" title="wikilink">에덴 아자르</a></p></td>
 </tr>
 </tbody>
 </table>

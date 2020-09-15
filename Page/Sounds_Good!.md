@@ -49,7 +49,7 @@
 
 ## 외부 링크
 
-  - [PPTNZ](http://peppertones.net/) 페퍼톤스 홈페이지
+  - [PPTNZ](https://web.archive.org/web/20120526090904/http://www.peppertones.net/) 페퍼톤스 홈페이지
 
 [분류:2009년 음반](https://ko.wikipedia.org/wiki/분류:2009년_음반 "wikilink") [분류:페퍼톤스의 음반](https://ko.wikipedia.org/wiki/분류:페퍼톤스의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:일렉트로니카 음반](https://ko.wikipedia.org/wiki/분류:일렉트로니카_음반 "wikilink")
 

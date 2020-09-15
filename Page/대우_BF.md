@@ -38,7 +38,7 @@
   - [부강교통](https://ko.wikipedia.org/wiki/부강교통 "wikilink")(현 [보영운수](../Page/보영운수_\(경기\).md "wikilink"))
   - [신진운수](../Page/신진운수.md "wikilink")
   - [서울승합](../Page/서울승합.md "wikilink")
-  - [경기여객](https://ko.wikipedia.org/wiki/경기여객_\(광주시\) "wikilink")(현 [경기고속](../Page/경기고속.md "wikilink"))
+  - [경기여객](../Page/경기여객.md "wikilink")(현 [경기고속](../Page/경기고속.md "wikilink"))
 
 ### BF105
 

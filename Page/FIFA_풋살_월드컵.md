@@ -125,7 +125,7 @@
 <a href="../Page/이란_풋살_국가대표팀.md" title="wikilink">이란</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2020년_FIFA_풋살_월드컵" title="wikilink">2020</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2021년_FIFA_풋살_월드컵" title="wikilink">2021</a></p></td>
 <td></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_None.svg" title="wikilink">100x20px</a><br />
 <a href="https://ko.wikipedia.org/wiki/?_풋살_국가대표팀" title="wikilink">?</a></strong></p></td>

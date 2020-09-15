@@ -84,7 +84,7 @@
 <td><p><a href="../Page/SBS_(대한민국의_방송사).md" title="wikilink">SBS</a></p></td>
 <td><p>매년 12월 마지막주 방송(9개 지역 민방 네트워크로 릴레이 송출)<br />
 (방송 일정 및 시간은 편성 상황에 따라 유동적으로 달라질 수 있음)</p></td>
-<td><p>키국(프로그램 제작국)</p></td>
+<td><p>프로그램 제작국(키국)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산</a>·<a href="https://ko.wikipedia.org/wiki/경상남도" title="wikilink">경남</a></p></td>
@@ -160,7 +160,7 @@
 
 [분류:SBS](https://ko.wikipedia.org/wiki/분류:SBS "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악상](https://ko.wikipedia.org/wiki/분류:대한민국의_음악상 "wikilink") [분류:1996년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1996년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:대한민국의 음악제](https://ko.wikipedia.org/wiki/분류:대한민국의_음악제 "wikilink")
 
-1.  프로그램 제작국인 [SBS](../Page/SBS.md "wikilink")를 비롯한 KNN 부산경남방송, TBC 대구방송, TJB 대전방송 등 9개 지역 민방 모두 동시 네트워크로 일제히 송출한다.
+1.  프로그램 제작국(키국)인 [SBS](../Page/SBS.md "wikilink")를 비롯한 KNN 부산경남방송, TBC 대구방송, TJB 대전방송 등 9개 지역 민방 모두 [동시 네트워크로](https://ko.wikipedia.org/wiki/동시_네트워크 "wikilink") 일제히 송출한다.
 2.
 3.  <https://www.youtube.com/watch?v=RG-kA-09e2E>
 4.  [2006년](../Page/2006년.md "wikilink") [5월 10일부터](../Page/5월_10일.md "wikilink") 개칭한 KNN 부산경남방송의 경우, 방송 당시 PSB 부산방송 명칭을 [2006년](../Page/2006년.md "wikilink") [5월 9일까지](../Page/5월_9일.md "wikilink") 표기했다.

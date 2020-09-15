@@ -54,5 +54,3 @@
   - [SNCF TGV-R profile on Trainspo](http://trainspo.com/class/970/)
 
 [분류:TGV 차량](https://ko.wikipedia.org/wiki/분류:TGV_차량 "wikilink")
-
-[de:Train à grande vitesse\#TGV Réseau](https://ko.wikipedia.org/wiki/de:Train_à_grande_vitesse#TGV_Réseau "wikilink")

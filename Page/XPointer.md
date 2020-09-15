@@ -48,9 +48,9 @@ href="URL\#Xpointer(Xpath 표현식)"
 
 ## 외부 링크
 
-  - [XPointer Framework](http://www.w3.org/TR/xptr-framework/)
-  - [Positional element addressing](http://www.w3.org/TR/xptr-element/)
-  - [Namespacing](http://www.w3.org/TR/xptr-xmlns/)
-  - [Path based addressing](http://www.w3.org/TR/xptr-xpointer/)
+  - [XPointer Framework](https://web.archive.org/web/20080430173750/http://www.w3.org/TR/xptr-framework/)
+  - [Positional element addressing](https://web.archive.org/web/20080619030516/http://www.w3.org/TR/xptr-element/)
+  - [Namespacing](https://web.archive.org/web/20080417233235/http://www.w3.org/TR/xptr-xmlns/)
+  - [Path based addressing](https://web.archive.org/web/20080330213328/http://www.w3.org/TR/xptr-xpointer/)
 
 [분류:W3C 표준](https://ko.wikipedia.org/wiki/분류:W3C_표준 "wikilink")

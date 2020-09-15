@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sudo](https://ko.wikipedia.org/wiki/Sudo).
 
 
-**sudo** 명령어는 [유닉스](../Page/유닉스.md "wikilink") 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink"), 다른 사용자의 보안 권한, 보통 [슈퍼유저](../Page/슈퍼유저.md "wikilink")로서 프로그램을 구동할 수 있도록 하는 [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다. 명칭은 본래 슈퍼유저로서의 실행에 사용되던 것에서 “superuser do”에서 유래하였으나, 후에 프로그램의 기능이 확장되며 “substitute user do”(다른 사용자의 권한으로 실행)의 줄임말로 해석되게 되었다. 기본적으로 Sudo는 사용자 비밀번호를 요구하지만 루트 비밀번호(root password)가 필요할 수도 있고, 한 터미널에 한번만 입력하고 그 다음부터는 비밀번호가 필요 없다.\[1\] Sudo는 각 명령줄에 사용할 수 있으며 일부 상황에서는 관리자 권한을 위한 슈퍼유저 로그인(superuser login)을 완벽히 대신하며, 주로 [우분투](https://ko.wikipedia.org/wiki/우분투 "wikilink"), [리눅스](../Page/리눅스.md "wikilink")와 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") 에서 볼 수 있다.\[2\]\[3\]
+**sudo** 명령어는 [유닉스](../Page/유닉스.md "wikilink") 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") [운영 체제에서](../Page/운영_체제.md "wikilink"), 다른 사용자의 보안 권한, 보통 [슈퍼유저](../Page/슈퍼유저.md "wikilink")로서 프로그램을 구동할 수 있도록 하는 [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다. 명칭은 본래 슈퍼유저로서의 실행에 사용되던 것에서 “superuser do”에서 유래하였으나, 후에 프로그램의 기능이 확장되며 “substitute user do”(다른 사용자의 권한으로 실행)의 줄임말로 해석되게 되었다. 기본적으로 Sudo는 사용자 비밀번호를 요구하지만 루트 비밀번호(root password)가 필요할 수도 있고, 한 터미널에 한번만 입력하고 그 다음부터는 비밀번호가 필요 없다.\[1\] Sudo는 각 명령줄에 사용할 수 있으며 일부 상황에서는 관리자 권한을 위한 슈퍼유저 로그인(superuser login)을 완벽히 대신하며, 주로 [우분투](https://ko.wikipedia.org/wiki/우분투 "wikilink"), [리눅스](../Page/리눅스.md "wikilink")와 [애플](../Page/애플.md "wikilink")의 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") 에서 볼 수 있다.\[2\]\[3\]
 
 ## 역사
 

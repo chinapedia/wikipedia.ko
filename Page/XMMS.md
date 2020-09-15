@@ -33,6 +33,6 @@
 
 ## 외부 링크
 
-  - [XMMS 공식 사이트](http://www.xmms.org/)
+  - [XMMS 공식 사이트](https://web.archive.org/web/20050922202654/http://www.xmms.org/)
 
 [분류:GNU 프로젝트 소프트웨어](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트_소프트웨어 "wikilink") [분류:리눅스 소프트웨어](https://ko.wikipedia.org/wiki/분류:리눅스_소프트웨어 "wikilink") [분류:미디어 플레이어](https://ko.wikipedia.org/wiki/분류:미디어_플레이어 "wikilink") [분류:C로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C로_작성된_자유_소프트웨어 "wikilink")

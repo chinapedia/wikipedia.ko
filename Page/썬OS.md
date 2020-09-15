@@ -68,4 +68,4 @@
   - [썬 하드웨어 참조 (개요)](http://www.sunhelp.org/faq/sunref1.html)
   - [썬OS 및 솔라리스 버전사](https://web.archive.org/web/20060708215337/http://www.ocf.berkeley.edu/solaris/versions)
 
-[분류:BSD](https://ko.wikipedia.org/wiki/분류:BSD "wikilink") [분류:유닉스 시스템 V](https://ko.wikipedia.org/wiki/분류:유닉스_시스템_V "wikilink")
+[분류:BSD](https://ko.wikipedia.org/wiki/분류:BSD "wikilink") [분류:유닉스 시스템 V](https://ko.wikipedia.org/wiki/분류:유닉스_시스템_V "wikilink") [분류:썬 마이크로시스템즈 소프트웨어](https://ko.wikipedia.org/wiki/분류:썬_마이크로시스템즈_소프트웨어 "wikilink")

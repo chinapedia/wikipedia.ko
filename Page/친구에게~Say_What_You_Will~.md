@@ -29,8 +29,8 @@
 
 ## 외부 링크
 
-  - [친구에게 \~Say What You Will\~ - Victor Entertainment](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-35787.html)
+  - [친구에게 \~Say What You Will\~ - Victor Entertainment](https://web.archive.org/web/20081206070924/http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-35787.html)
 
-  - [음반사 홈페이지안의 싱글 소개](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-35787.html)
+  - [음반사 홈페이지안의 싱글 소개](https://web.archive.org/web/20081206070924/http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-35787.html)
 
 [분류:2005년 싱글](https://ko.wikipedia.org/wiki/분류:2005년_싱글 "wikilink") [분류:2005년 오리콘 싱글 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:2005년_오리콘_싱글_차트_1위_작품 "wikilink")

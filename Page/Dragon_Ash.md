@@ -46,6 +46,6 @@
 
 ## 외부 링크
 
-  - [Dragon Ash 공식 웹사이트](http://dragonash.co.jp/)
+  - [Dragon Ash 공식 웹사이트](https://web.archive.org/web/20090118083525/http://dragonash.co.jp/)
 
 [분류:일본의 가수](https://ko.wikipedia.org/wiki/분류:일본의_가수 "wikilink") [분류:일본의 록 밴드](https://ko.wikipedia.org/wiki/분류:일본의_록_밴드 "wikilink") [분류:빅터 엔터테인먼트의 음악가](https://ko.wikipedia.org/wiki/분류:빅터_엔터테인먼트의_음악가 "wikilink") [분류:1996년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1996년_결성된_음악_그룹 "wikilink")

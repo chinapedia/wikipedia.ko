@@ -46,7 +46,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2011" title="wikilink">2011</a></p></td>
+<td><p><a href="../Page/2011년.md" title="wikilink">2011</a></p></td>
 <td><p>2011.10.07</p></td>
 <td><p>Jun. K</p></td>
 <td><p>한국</p></td>
@@ -60,7 +60,7 @@
 <td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2014" title="wikilink">2014</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014</a></p></td>
 <td><p>2014.06.12</p></td>
 <td><p>Jun. K</p></td>
 <td><p>한국</p></td>
@@ -74,7 +74,7 @@
 <td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2015" title="wikilink">2015</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015</a></p></td>
 <td><p>2015.12.30</p></td>
 <td><p>Jun. K</p></td>
 <td><p>한국</p></td>
@@ -88,7 +88,7 @@
 <td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016" title="wikilink">2016</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016</a></p></td>
 <td><p>2016.08.02</p></td>
 <td><p>Jun. K</p></td>
 <td><p>한국</p></td>
@@ -102,7 +102,7 @@
 <td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016" title="wikilink">2016</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016</a></p></td>
 <td><p>2016.08.09</p></td>
 <td><p>Jun. K[19]<br />
 </p></td>
@@ -117,7 +117,7 @@
 <td><p><a href="../Page/JYP_엔터테인먼트.md" title="wikilink">JYP 엔터테인먼트</a></p></td>
 </tr>
 <tr class="even">
-<td><p>rowspan="4|<a href="https://ko.wikipedia.org/wiki/2017" title="wikilink">2017</a></p></td>
+<td><p>rowspan="4|<a href="../Page/2017년.md" title="wikilink">2017</a></p></td>
 <td><p>2017.01.04</p></td>
 <td><p>Jun. K</p></td>
 <td><p>한국</p></td>
@@ -190,7 +190,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2014" title="wikilink">2014</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014</a></p></td>
 <td><p>2014.05.14</p></td>
 <td><p>Jun. K</p></td>
 <td><p>일본</p></td>
@@ -203,7 +203,7 @@
 <td><p><a href="../Page/에픽_레코드_재팬.md" title="wikilink">에픽 레코드 재팬</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2015" title="wikilink">2015</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015</a></p></td>
 <td><p>2015.11.25</p></td>
 <td><p>Jun. K</p></td>
 <td><p>일본</p></td>
@@ -216,7 +216,7 @@
 <td><p><a href="../Page/에픽_레코드_재팬.md" title="wikilink">에픽 레코드 재팬</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2016" title="wikilink">2016</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016</a></p></td>
 <td><p>2016.12.14</p></td>
 <td><p>Jun. K</p></td>
 <td><p>일본</p></td>
@@ -229,7 +229,7 @@
 <td><p><a href="../Page/에픽_레코드_재팬.md" title="wikilink">에픽 레코드 재팬</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2018" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018</a></p></td>
 <td><p>2018.04.04</p></td>
 <td><p>Jun. K</p></td>
 <td><p>일본</p></td>
@@ -1776,7 +1776,7 @@ G20 캠페인송</p></td>
 <a href="https://www.youtube.com/watch?v=wCFK6QuqpAw">〈G20 LET'S GO〉(ENG)</a><br />
 </p></td>
 <td><p>G20정상회의 기념</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
@@ -1854,14 +1854,14 @@ ENTERTAINMENT</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2013" title="wikilink">2013</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013</a></p></td>
 <td><p>뮤지컬</p></td>
 <td><p>《<a href="../Page/삼총사_(뮤지컬).md" title="wikilink">삼총사</a>》(한국, 일본)</p></td>
 <td><p>달타냥 役</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2013" title="wikilink">2013</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013</a></p></td>
 <td><p>뮤지컬 (일본)</p></td>
 <td><p>《잭더리퍼》</p></td>
 <td><p>다니엘 役</p></td>
@@ -1892,27 +1892,27 @@ ENTERTAINMENT</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/2008년.md" title="wikilink">2008년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a></p></td>
+<td><p>M.net</p></td>
 <td><p>《열혈남아》</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2008년.md" title="wikilink">2008년</a>~<a href="../Page/2009년.md" title="wikilink">2009년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC_every1" title="wikilink">MBC every1</a></p></td>
+<td><p>MBC every1</p></td>
 <td><p>《아이돌 군단의 떴다! 그녀 시즌3》</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2009년.md" title="wikilink">2009년</a>~<a href="../Page/2010년.md" title="wikilink">2010년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a></p></td>
+<td><p>M.net</p></td>
 <td><p>《와일드바니》</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2011년.md" title="wikilink">2011년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/SBS_Plus" title="wikilink">SBS Plus</a></p></td>
+<td><p>SBS Plus</p></td>
 <td><p>《2PM SHOW》</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2011년.md" title="wikilink">2011년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+<td><p>KBS 2TV</p></td>
 <td><p>《<a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡 - 전설을 노래하다</a>》<br />
 * <a href="../Page/민해경.md" title="wikilink">민해경</a> <보고싶은 얼굴> - Jun. K<br />
 * <a href="../Page/현진영.md" title="wikilink">현진영</a> <흐린기억 속에 그대> - Jun. K<br />
@@ -1922,7 +1922,7 @@ ENTERTAINMENT</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2012년.md" title="wikilink">2012년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+<td><p>KBS 2TV</p></td>
 <td><p>《<a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡 - 전설을 노래하다</a>》<br />
 * <a href="../Page/R.ef.md" title="wikilink">R.ef</a> <이별공식> - Jun. K<br />
 </p></td>
@@ -1934,7 +1934,7 @@ ENTERTAINMENT</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
+<td><p>KBS 2TV</p></td>
 <td><p>《<a href="../Page/불후의_명곡_-_전설을_노래하다.md" title="wikilink">불후의 명곡 - 전설을 노래하다</a>》</p>
 <ul>
 <li><a href="../Page/백년설.md" title="wikilink">백년설</a> <대지의 항구> - Jun. K<br />
@@ -1945,28 +1945,28 @@ ENTERTAINMENT</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a></p></td>
-<td><p><a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
+<td><p>CJ E&amp;M</p></td>
 <td><p>《MEET&amp;GREET》: JUN. K "NO LOVE" Necklace</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
+<td><p>tvN</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/문제적_남자" title="wikilink">문제적 남자</a>》[44]<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p>KBS 2TV</p></td>
 <td><p>《<a href="../Page/대국민_토크쇼_안녕하세요.md" title="wikilink">대국민 토크쇼 안녕하세요</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>MBC</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/듀엣_가요제" title="wikilink">듀엣 가요제</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>MBC</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/복면가왕" title="wikilink">복면가왕</a>》<br />
 * <a href="https://ko.wikipedia.org/wiki/김승진" title="wikilink">김승진</a> <유리창에 그린 안녕> - Jun. K &amp; <a href="../Page/박남정.md" title="wikilink">박남정</a><br />
 * <a href="../Page/이적_(가수).md" title="wikilink">이적</a> <Rain> - Jun. K<br />
@@ -1975,27 +1975,27 @@ ENTERTAINMENT</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p>M.net</p></td>
 <td><p>《<a href="../Page/너의_목소리가_보여.md" title="wikilink">너의 목소리가 보여</a>》: <a href="../Page/우영.md" title="wikilink">우영</a>, <a href="../Page/닉쿤.md" title="wikilink">닉쿤</a>, Jun. K</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>MBC</p></td>
 <td><p>《<a href="../Page/미스터리_음악쇼_복면가왕.md" title="wikilink">미스터리 음악쇼 복면가왕</a> - 각진 인생 네모의 꿈》</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2017년.md" title="wikilink">2017년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
+<td><p>tvN</p></td>
 <td><p>《리얼트립 태국》: <a href="../Page/닉쿤.md" title="wikilink">닉쿤</a>, Jun. K</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2017년.md" title="wikilink">2017년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/THE_E&amp;M" title="wikilink">THE E&amp;M</a></p></td>
+<td><p>THE E&amp;M</p></td>
 <td><p>웹예능 《셀럽티비 (Celuv.TV)》: <a href="http://www.vlive.tv/video/51593?channelCode=EF7F">Jun. K</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2020년.md" title="wikilink">2020년</a></p></td>
-<td><p><a href="../Page/플레이리스트.md" title="wikilink">뮤플리</a></p></td>
+<td><p>뮤플리</p></td>
 <td><p>《올때믹》 : 우영, Jun. K</p></td>
 </tr>
 <tr class="odd">
@@ -2112,7 +2112,7 @@ ENTERTAINMENT</p></td>
 <td><p>2018</p></td>
 <td><p>Jun. K</p></td>
 <td><ul>
-<li><a href="http://www.vlive.tv/video/49423?channelCode=EF7F">《준케이​의 루프탑라이브》(JUN. K X Rooftop Live)</a> (<a href="../Page/네이버.md" title="wikilink">네이버</a> V LIVE)<br />
+<li><a href="http://www.vlive.tv/video/49423?channelCode=EF7F">《준케이의 루프탑라이브》(JUN. K X Rooftop Live)</a> (<a href="../Page/네이버.md" title="wikilink">네이버</a> V LIVE)<br />
 </li>
 </ul></td>
 </tr>
