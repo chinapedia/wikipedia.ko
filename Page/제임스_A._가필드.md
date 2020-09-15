@@ -88,7 +88,7 @@
   - [Photo of Bodie, California memorial dedicated to President James A. Garfield](http://www.flickr.com/photos/darthjenni/3688511935/?reg=1&src=comment)
   - [Pike County, KY](http://www.tourpikecounty.com/index.php?page=bushwhacking-on-the-russell-fork), site of Garfield's commission as a Brigadier General
   - [James Garfield](http://americanpresidents.org/presidents/president.asp?PresidentNumber=20) at [C-SPAN](https://ko.wikipedia.org/wiki/C-SPAN "wikilink")'s *[American Presidents: Life Portraits](https://ko.wikipedia.org/wiki/American_Presidents:_Life_Portraits "wikilink")*
-  - [*Booknotes* interview with Kenneth Ackerman on *Dark Horse: The Surprise Election and Political Murder of President James A. Garfield*, July 27, 2003.](https://web.archive.org/web/20120509235213/http://www.booknotes.org/Watch/159447-1/Kenneth+Ackerman.aspx)
+  - [*Booknotes* interview with Kenneth Ackerman on *Dark Horse: The Surprise Election and Political Murder of President James A. Garfield*, July 27, 2003.](https://www.hong200.com)
   - [Essay on James Garfield and shorter essays on each member of his cabinet and First Lady from the Miller Center of Public Affairs](https://web.archive.org/web/20071211033328/http://www.millercenter.virginia.edu/index.php/academic/americanpresident/garfield)
   - [Program for the March 4, 1881 Inauguration of U.S. President James A. Garfield](http://hdl.loc.gov/loc.rbc/batchelder.p01n04) from the collections of the Library of Congress
 

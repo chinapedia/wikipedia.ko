@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CNN](https://ko.wikipedia.org/wiki/CNN).
 
 
-**유선 보도 방송망**(有線報道放送網, Cable News Network, 약칭 **CNN**)는 유선 방송망 등을 통해 [뉴스](../Page/뉴스.md "wikilink") 프로그램을 24시간 동안 보도하는 [미국](../Page/미국.md "wikilink")의 생방송 뉴스 전문 텔레비전 방송사이다. 직원 수는 약 4000여 명이며, 주요 경쟁사는 [폭스 뉴스 채널](../Page/폭스_뉴스_채널.md "wikilink")(Fox News Channel)과 [MSNBC](../Page/MSNBC.md "wikilink")가 있다.
+**유선 보도 방송망**(有線報道放送網, , 약칭 **CNN**)는 유선 방송망 등을 통해 [뉴스](../Page/뉴스.md "wikilink") 프로그램을 24시간 동안 보도하는 [미국](../Page/미국.md "wikilink")의 생방송 뉴스 전문 텔레비전 방송사이다. 직원 수는 약 4000여 명이며, 주요 경쟁사는 [폭스 뉴스 채널](../Page/폭스_뉴스_채널.md "wikilink")(Fox News Channel)과 [MSNBC](../Page/MSNBC.md "wikilink")가 있다.
 
 ## 역사
 
@@ -25,9 +25,9 @@
 
 CNN은 [미국](../Page/미국.md "wikilink") 국내용으로 방송하는 CNN US와 미국 외의 전 세계로 방송되는 [CNN 인터내셔널로](../Page/CNN_인터내셔널.md "wikilink") 나뉜다. 자매채널로 [HLN](https://ko.wikipedia.org/wiki/HLN "wikilink")이 있다. 이들 채널은 각각 별도의 프로그램으로 방송되지만, [앤더슨 쿠퍼 360°같은](../Page/앤더슨_쿠퍼_360°.md "wikilink") 일부 프로그램은 CNN US와 CNN 인터내셔널과 동시에 방송되기도 한다.
 
-**CNN US**는 미국 국내용으로 방송되기 때문에 미국 내의 소식, 특히 미국 정치와 사회를 중심으로 다룬다. 새벽 시간대에는 미국내의 범죄 및 사회 [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink")가 방송되기도 한다. [한국](../Page/한국.md "wikilink")에서도 [스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프 "wikilink") 171번, [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink")(강남지점 기준) 88번을 통해 송출되고 있다.
+**CNN US**는 미국 국내용으로 방송되기 때문에 미국 내의 소식, 특히 미국 정치와 사회를 중심으로 다룬다. 새벽 시간대에는 미국내의 범죄 및 사회 [다큐멘터리](https://ko.wikipedia.org/wiki/다큐멘터리 "wikilink")가 방송되기도 한다. [대한민국](../Page/대한민국.md "wikilink")에서도 [KT스카이라이프](../Page/KT스카이라이프.md "wikilink") 171번, [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink")(강남지점 기준) 88번을 통해 송출되고 있다.
 
-**CNN 인터내셔널**은 세계 각지의 소식의 비중이 높다. 방송 스튜디오도 [애틀랜타](../Page/애틀랜타.md "wikilink")를 넘어 [런던](../Page/런던.md "wikilink")과 [홍콩](../Page/홍콩.md "wikilink") 등에서도 진행하고 있다. 보통 한국시간 기준 오전 시간대에는 [런던](../Page/런던.md "wikilink") 및 미국의 생방송이 진행되고, 한국시간 기준의 오후 시간대에서는 [홍콩](../Page/홍콩.md "wikilink")을 중심으로 한 [아시아](../Page/아시아.md "wikilink") 지역 생방송을 지행한다. 그 외 시간대에서는 주요 뉴스의 재방송을 방송한다. [영국](../Page/영국.md "wikilink") 및 [오스트레일리아](../Page/오스트레일리아.md "wikilink") 출신 앵커들도 많이 출연하기 때문에 [미국식 영어](https://ko.wikipedia.org/wiki/미국식_영어 "wikilink") 위주인 CNN US와 다르게 [영국식 영어나](https://ko.wikipedia.org/wiki/영국식_영어 "wikilink") [호주식 영어](https://ko.wikipedia.org/wiki/호주식_영어 "wikilink") 등도 접할 수 있다.
+**CNN 인터내셔널**은 세계 각지의 소식의 비중이 높다. 방송 스튜디오도 [애틀랜타](../Page/애틀랜타.md "wikilink")를 넘어 [런던](../Page/런던.md "wikilink")과 [홍콩](../Page/홍콩.md "wikilink") 등에서도 진행하고 있다. 보통 한국시간 기준 오전 시간대에는 [런던](../Page/런던.md "wikilink") 및 미국의 생방송이 진행되고, 한국시간 기준의 오후 시간대에서는 [홍콩](../Page/홍콩.md "wikilink")을 중심으로 한 [아시아](../Page/아시아.md "wikilink") 지역 생방송을 지행한다. 그 외 시간대에서는 주요 뉴스의 재방송을 방송한다. [영국](../Page/영국.md "wikilink") 및 [오스트레일리아](../Page/오스트레일리아.md "wikilink") 출신 앵커들도 많이 출연하기 때문에 [미식 영어](https://ko.wikipedia.org/wiki/미식_영어 "wikilink") 위주인 CNN US와 다르게 [영국 영어나](../Page/영국_영어.md "wikilink") [오스트레일리아 영어](https://ko.wikipedia.org/wiki/오스트레일리아_영어 "wikilink") 등도 접할 수 있다.
 
 그리고 영어 외에 기타 외국어로 방송하는 채널도 있으며, 대표적으로 [스페인어](../Page/스페인어.md "wikilink")로 방송하는 [CNN 엔 에스파뇰](https://ko.wikipedia.org/wiki/CNN_엔_에스파뇰 "wikilink")(CNN en Español)과 [CNN 칠레](https://ko.wikipedia.org/wiki/CNN_칠레 "wikilink") (CNN Chile), [터키어](../Page/터키어.md "wikilink")로 방송하는 [CNN 튀르크](https://ko.wikipedia.org/wiki/CNN_튀르크 "wikilink")(CNN Türk), [인도네시아어](../Page/인도네시아어.md "wikilink")로 방송하는 [CNN 인도네시아](https://ko.wikipedia.org/wiki/CNN_인도네시아 "wikilink")(CNN Indonesia), [영어](../Page/영어.md "wikilink")와 [타갈로그어](../Page/타갈로그어.md "wikilink")를 병용하는 [CNN 필리핀](https://ko.wikipedia.org/wiki/CNN_필리핀 "wikilink")(CNN Philippines)이 있다.
 
@@ -316,7 +316,7 @@ am은 아침, pm은 저녁을 뜻한다.
 ## 같이 보기
 
   - [CNN 인터내셔널](../Page/CNN_인터내셔널.md "wikilink")
-  - [보도전문채널](https://ko.wikipedia.org/wiki/보도전문채널 "wikilink")
+  - [보도전문채널](../Page/보도전문채널.md "wikilink")
 
 ## 외부 링크
 

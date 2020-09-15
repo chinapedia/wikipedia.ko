@@ -331,7 +331,7 @@
 방새샘, 김윤지, 정미란, 유혜인, 임효진,<br />
 문경은)</p></td>
 <td><p>〈Stop〉</p></td>
-<td><p><a href="../Page/수원대학교.md" title="wikilink">수원대학교</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/수원여자대학" title="wikilink">수원여자대학</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -579,7 +579,7 @@
           - 2\. 제주특별자치도: 양연숙 ([제주대학교](https://ko.wikipedia.org/wiki/제주대학교 "wikilink")) - 이젠 안녕\!
           - 3\. 서울특별시: 이재영 ([중앙대학교](https://ko.wikipedia.org/wiki/중앙대학교 "wikilink")) - 그대 떠나도
       - 은상
-          - 1\. 서울특별시: 이지연 ([수원대학교](../Page/수원대학교.md "wikilink")) - 이별은 계절에 실려
+          - 1\. 서울특별시: [이지연](../Page/이연경_\(배우\).md "wikilink") ([수원대학교](../Page/수원대학교.md "wikilink")) - 이별은 계절에 실려
           - 2\. 미국: 정재진 (버지니아 의과대학교) - 그대를 기다리며
       - 금상
           - 서울특별시: 이은영 ([이화여자대학교](../Page/이화여자대학교.md "wikilink")) - 사랑은 이별을 위해

@@ -26,7 +26,7 @@ MPEG은 MPEG-21 이후 빈번히 창안되는 새로운 표준 기술들을 각 
 
 ### 영상 압축
 
-MPEG 영상 [코덱](../Page/코덱.md "wikilink")은 [변환 코덱을](https://ko.wikipedia.org/wiki/변환_코덱 "wikilink") 이용하는 [손실 압축 방식을](../Page/손실_압축.md "wikilink") 사용한다. 손실 변환 코덱에서, 그림과 소리의 샘플은 작은 조각으로 나뉘고, [주파수 공간으로](https://ko.wikipedia.org/wiki/주파수_공간 "wikilink") 변환되어 [양자화된다](https://ko.wikipedia.org/wiki/양자화_\(정보_이론\) "wikilink"). 이렇게 조작된 값들은 다시 [엔트로피 부호화된다](https://ko.wikipedia.org/wiki/엔트로피_부호화 "wikilink").
+MPEG 영상 [코덱](../Page/코덱.md "wikilink")은 [변환 코덱을](https://ko.wikipedia.org/wiki/변환_코덱 "wikilink") 이용하는 [손실 압축 방식을](../Page/손실_압축.md "wikilink") 사용한다. 손실 변환 코덱에서, 그림과 소리의 샘플은 작은 조각으로 나뉘고, [주파수 공간으로](https://ko.wikipedia.org/wiki/주파수_공간 "wikilink") 변환되어 [양자화된다](https://ko.wikipedia.org/wiki/양자화_\(정보_이론\) "wikilink"). 이렇게 조작된 값들은 다시 [엔트로피 부호화된다](../Page/엔트로피_부호화.md "wikilink").
 
 MPEG-1, MPEG-2, MPEG-4 등의 동영상 코딩 시스템에는 움직임 보상 등의 과정을 이용하여, 연속되는 두 그림 또는 근처의 그림들 사이의 차이를 경제적으로 전송함으로써 압축이 이루어진다.
 

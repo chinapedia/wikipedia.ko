@@ -45,7 +45,7 @@
 
 ### 공민권법 시행
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Lyndon_Johnson_signing_Civil_Rights_Act,_July_2,_1964.jpg "wikilink") [1964년](../Page/1964년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink") 존슨 대통령은 남부 제주의 재통합기 이래 첫 효과적 민권 법률인 1964년 공민권법 시행에 서명하였다. [1954년](../Page/1954년.md "wikilink") 학교에서 인종적 분리가 비헌법적이라고 주장한 [미국 대법원의](https://ko.wikipedia.org/wiki/미국_대법원 "wikilink") 브라운 대 교육부 판례에 특정을 지은 결정과 [마틴 루서 킹 주니어의](https://ko.wikipedia.org/wiki/마틴_루서_킹_주니어 "wikilink") 〈[I have a dream](https://ko.wikipedia.org/wiki/I_have_a_dream "wikilink")〉유명한 연설과 케네디 대통령이 선거가 열리는 동안 공민권 법안의 통과를 자신의 연설의 일부로 만듬에 이어 공민권 운동이 추진력을 얻었다. 존슨은 부통령으로서 케네디의 동등 고용 기회 협회의 의장을 지냈고 케네디의 사망에 이어 법안을 통하여 보는 등불을 차지하였다.
+[1964년](../Page/1964년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink") 존슨 대통령은 남부 제주의 재통합기 이래 첫 효과적 민권 법률인 1964년 공민권법 시행에 서명하였다. [1954년](../Page/1954년.md "wikilink") 학교에서 인종적 분리가 비헌법적이라고 주장한 [미국 대법원의](https://ko.wikipedia.org/wiki/미국_대법원 "wikilink") 브라운 대 교육부 판례에 특정을 지은 결정과 [마틴 루서 킹 주니어의](https://ko.wikipedia.org/wiki/마틴_루서_킹_주니어 "wikilink") 〈[I have a dream](https://ko.wikipedia.org/wiki/I_have_a_dream "wikilink")〉유명한 연설과 케네디 대통령이 선거가 열리는 동안 공민권 법안의 통과를 자신의 연설의 일부로 만듬에 이어 공민권 운동이 추진력을 얻었다. 존슨은 부통령으로서 케네디의 동등 고용 기회 협회의 의장을 지냈고 케네디의 사망에 이어 법안을 통하여 보는 등불을 차지하였다.
 
 입법은 고용과 교육에서 [인종 차별을](../Page/인종_차별.md "wikilink") 금지하였고, 공공 장소들에서 인종적 분리를 무법으로 하여 1965년의 투표권법을 위하여 원칙을 놓았다. 공민권법 시행은 7월에 있던 장기적 토론 후에 하원과 상원을 통과시켰고 텔레비전으로 방영된 수백명의 내빈들과 함께 한 조인식에서 존슨 대통령에 의하여 서명되었다.
 

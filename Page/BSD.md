@@ -5,7 +5,7 @@
 
 역사적으로 BSD는 **버클리 유닉스**(Berkeley Unix)라는 유닉스의 갈래로 간주되는데, 그 까닭은 오리지널 [AT\&T](../Page/AT&T.md "wikilink") 유닉스 운영 체제의 초기 코드 기반과 디자인을 공유하기 때문이다. 1980년대에 BSD는 [DEC](https://ko.wikipedia.org/wiki/DEC "wikilink") [ULTRIX](https://ko.wikipedia.org/wiki/ULTRIX "wikilink"), [썬 마이크로시스템즈](../Page/썬_마이크로시스템즈.md "wikilink") [SunOS](https://ko.wikipedia.org/wiki/SunOS "wikilink")와 같은 사유 유닉스 변종의 형태로 [워크스테이션](../Page/워크스테이션.md "wikilink") 계열 시스템의 업체들에 널리 채택되었다. 이는 라이선스를 받기 쉽고, 수많은 기술 회사들의 창립자들이 느꼈던 친숙함 때문이다.
 
-이러한 사유 BSD 파생판들은 1990년대에 유닉스 [시스템 V 릴리스 4](https://ko.wikipedia.org/wiki/유닉스_시스템_V "wikilink") 및 [OSF/1](https://ko.wikipedia.org/wiki/트루64_유닉스 "wikilink") 시스템으로 인해 빛을 보지 못했지만(둘 다 BSD 코드 및 기타 현대 유닉스 시스템의 기초를 통합하고 있었음) 나중에 BSD 릴리스들은 [FreeBSD](../Page/FreeBSD.md "wikilink"), [오픈BSD](https://ko.wikipedia.org/wiki/오픈BSD "wikilink"), [NetBSD](../Page/NetBSD.md "wikilink"), [TrueOS](../Page/TrueOS.md "wikilink")와 같은 진행 중인 몇 가지 [오픈 소스](../Page/오픈_소스.md "wikilink") 개발 프로젝트들의 기초를 제공하였다. 다시 말해, [윈도우 NT 3.1의](../Page/윈도우_NT_3.1.md "wikilink") [TCP/IP](https://ko.wikipedia.org/wiki/TCP/IP "wikilink") 네트워킹 코드나\[1\], [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [OS X과](https://ko.wikipedia.org/wiki/OS_X "wikilink") [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")의 기초 대부분과 같이 현대의 사유 운영 체제에 부분적으로나 전체적으로 포함되었다는 것을 의미한다.
+이러한 사유 BSD 파생판들은 1990년대에 유닉스 [시스템 V 릴리스 4](https://ko.wikipedia.org/wiki/유닉스_시스템_V "wikilink") 및 [OSF/1](https://ko.wikipedia.org/wiki/트루64_유닉스 "wikilink") 시스템으로 인해 빛을 보지 못했지만(둘 다 BSD 코드 및 기타 현대 유닉스 시스템의 기초를 통합하고 있었음) 나중에 BSD 릴리스들은 [FreeBSD](../Page/FreeBSD.md "wikilink"), [오픈BSD](https://ko.wikipedia.org/wiki/오픈BSD "wikilink"), [NetBSD](../Page/NetBSD.md "wikilink"), [TrueOS](../Page/TrueOS.md "wikilink")와 같은 진행 중인 몇 가지 [오픈 소스](../Page/오픈_소스.md "wikilink") 개발 프로젝트들의 기초를 제공하였다. 다시 말해, [윈도우 NT 3.1의](../Page/윈도우_NT_3.1.md "wikilink") [TCP/IP](https://ko.wikipedia.org/wiki/TCP/IP "wikilink") 네트워킹 코드나\[1\], [애플](../Page/애플.md "wikilink")의 [OS X과](https://ko.wikipedia.org/wiki/OS_X "wikilink") [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")의 기초 대부분과 같이 현대의 사유 운영 체제에 부분적으로나 전체적으로 포함되었다는 것을 의미한다.
 
 ## 역사
 
@@ -62,7 +62,7 @@
 
   - [FreeBSD](http://www.freebsd.org/), [NetBSD](http://www.netbsd.org/), [OpenBSD](http://www.openbsd.org/), [DragonFlyBSD](http://www.dragonflybsd.org/), [TrueOS](http://www.trueos.org/), [DesktopBSD](http://desktopbsd.net/) - 주요 BSD
   - [BSDforum.kr](https://web.archive.org/web/20071118220109/http://bsdforum.kr/)
-  - [Korea FreeBSD Users Group](http://www.kr.freebsd.org/)
+  - [Korea FreeBSD Users Group](https://web.archive.org/web/20051013071811/http://www.kr.freebsd.org/)
   - [Korea FreeBSD IRC Users Group](https://web.archive.org/web/20070520113141/http://freebsdcity.org/)
 
 [BSD](https://ko.wikipedia.org/wiki/분류:BSD "wikilink") [분류:1977년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1977년_소프트웨어 "wikilink") [분류:자유 소프트웨어 운영 체제](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어_운영_체제 "wikilink") [분류:C로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C로_작성된_자유_소프트웨어 "wikilink")

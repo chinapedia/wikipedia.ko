@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PPSh-41](https://ko.wikipedia.org/wiki/PPSh-41).
 
 
-**1941년형 샤파긴 기관단총**(, ), 일명 **따발총**()은 [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 중 [소련](../Page/소련.md "wikilink")이 개발한 [기관단총](../Page/기관단총.md "wikilink")이다. [게오르기 샤파긴이](../Page/게오르기_샤파긴.md "wikilink") 설계하였으며, 비싸고 생산이 어려운 [PPD-40](https://ko.wikipedia.org/wiki/PPD-40 "wikilink")을 대체하기 위해 만들어졌다. 단순한 [블로우백](https://ko.wikipedia.org/wiki/블로우백 "wikilink") 작동 방식에, 박스 또는 드럼 탄창과 [7.62 × 25 mm 토카레프](https://ko.wikipedia.org/wiki/7.62_×_25_mm_토카레프 "wikilink") 탄을 사용한다. 철판으로 찍어냈기 때문에 생산하기가 쉬우며, 크롬선 처리한 약실과 총신은 전투 상황에서 총 관리에 신경을 덜 쓰도록 만들어졌다.
+**1941년형 샤파긴 기관단총**(, ), 일명 **따발총**()은 [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 중 [소련](../Page/소련.md "wikilink")이 개발한 [기관단총](../Page/기관단총.md "wikilink")이다. [게오르기 샤파긴이](../Page/게오르기_샤파긴.md "wikilink") 설계하였으며, 비싸고 생산이 어려운 [PPD-40](https://ko.wikipedia.org/wiki/PPD-40 "wikilink")을 대체하기 위해 만들어졌다. 단순한 [블로우백](https://ko.wikipedia.org/wiki/블로우백 "wikilink") 작동 방식에, 박스 또는 드럼 탄창과 [7.62 × 25 mm 토카레프](https://ko.wikipedia.org/wiki/7.62_×_25_mm_토카레프 "wikilink") 탄을 사용한다. 철판으로 찍어냈기 때문에 생산하기가 쉬우며, 크롬선 처리한 약실과 총신은 전투 상황에서 총 관리에 신경을 덜 쓰도록 만들어졌다.그리고 연사속도가 아주 빠르다.
 
 ## 역사
 

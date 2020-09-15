@@ -12,6 +12,10 @@
   - 내향적 감각적 (Si)
   - 외향적 감성적 (Fe)
 
+## INTP 커뮤니티
+
+  - INTP Forum[1](https://open.kakao.com/o/ggBeXkJb)
+
 ## 각주
 
 <references/>

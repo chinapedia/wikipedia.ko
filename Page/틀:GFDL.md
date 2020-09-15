@@ -16,8 +16,8 @@
 `    }}`
 ` }}`
 
-|  }} <includeonly>[](https://ko.wikipedia.org/wiki/분류:GFDL_그림 "wikilink")</includeonly></onlyinclude>
+|  }} <includeonly>[](https://ko.wikipedia.org/wiki/분류:GFDL_파일 "wikilink")</includeonly></onlyinclude>
 
-[\*](https://ko.wikipedia.org/wiki/분류:GFDL_그림 "wikilink") [](https://ko.wikipedia.org/wiki/분류:위키백과_그림_저작권_틀 "wikilink")
+[\*](https://ko.wikipedia.org/wiki/분류:GFDL_파일 "wikilink") [](https://ko.wikipedia.org/wiki/분류:위키백과_그림_저작권_틀 "wikilink")
 
 <noinclude> </noinclude>

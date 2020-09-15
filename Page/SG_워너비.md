@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SG 워너비](https://ko.wikipedia.org/wiki/SG_워너비).
 
 
-**SG 워너비**(SG Wannabe)는 [대한민국](../Page/대한민국.md "wikilink")의 남성 가요 그룹이며, [이석훈](../Page/이석훈_\(가수\).md "wikilink"), [김진호](../Page/김진호_\(가수\).md "wikilink"), [김용준으로](../Page/김용준_\(가수\).md "wikilink") 구성되어 있다. 공식 색은 **펄골드**로, 야광봉과 풍선을 사용하고 있다. 전 리더였던 故[채동하](../Page/채동하.md "wikilink")는 2008년 5월, 활동을 마치고 탈퇴하였다. 채동하가 탈퇴한 후 SG워너비는 [이석훈을](../Page/이석훈_\(가수\).md "wikilink") 영입하였다.
+**SG 워너비**(SG Wannabe)는 [대한민국](../Page/대한민국.md "wikilink")의 남성 가요 그룹이며, [이석훈](../Page/이석훈_\(가수\).md "wikilink"), [김진호](../Page/김진호_\(가수\).md "wikilink"), [김용준으로](../Page/김용준_\(가수\).md "wikilink") 구성되어 있다. 공식 색은 **펄골드**로, 야광봉과 풍선을 사용하고 있다. 전 리더였던 故[채동하](../Page/채동하.md "wikilink")는 2008년 5월, 활동을 마치고 탈퇴하였으며 SG워너비는 새 멤버 [이석훈을](../Page/이석훈_\(가수\).md "wikilink") 영입하였다.
 
 이석훈은 데뷔 전, 몇 몇 드라마의 OST에 참여 했고, 공연 경력이 풍부한 것으로 알려져 있었다. 2008년 4월 24일 [엠 카운트다운](https://ko.wikipedia.org/wiki/엠_카운트다운 "wikilink") 컴백 무대로 데뷔하였다.
 
-2011년 THE LAST 전국투어 콘서트를 마지막으로 활동을 잠정적으로 중단하였다가 2015년 8월, 4년만에 완전체로 컴백하면서 다시 활동을 재개하였다.
+2011년 11월 THE LAST 전국투어 콘서트를 마지막으로 활동을 잠정적으로 중단하였다가 2015년 8월, 4년만에 완전체로 컴백하면서 다시 활동을 재개하였다.
 
 ## 개요
 
@@ -441,7 +441,7 @@
 <td style="text-align: left;"></td>
 <td style="text-align: left;"><p><strong><a href="../Page/THE_VOICE.md" title="wikilink">THE VOICE</a></strong></p>
 <ul>
-<li><strong>발매일 :[[2016년]&lt;_[[8월_19일|2016년]&lt; <a href="../Page/8월_19일.md" title="wikilink">8월 19일</a></strong></li>
+<li><strong>발매일 :<a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/8월_19일.md" title="wikilink">8월 19일</a></strong></li>
 <li>'''판매량 : 21,294(판매중)</li>
 <li><strong>언어 : <a href="../Page/한국어.md" title="wikilink">한국어</a></strong></li>
 </ul></td>
@@ -721,20 +721,24 @@
 ## 수상경력
 
   - 2004년 SBS 가요대전 신인상
-  - 2004년 제19회 골든디스크상 PAVV 신인가수상 (1집 SG Wanna Be+)
+  - 2004년 제19회 골든디스크상 PAVV 신인가수상 (1집 WANNA BE+)
   - 2004년 제15회 서울가요대상 신인상
   - 2005년 제12회 대한민국 연예예술상 그룹부문가수상
   - 2005년 멜론 뮤직 어워드 올해의 앨범상 (2집 살다가)
   - 2005년 MKMF 뮤직비디오 페스티벌 남자그룹상
   - 2005년 제20회 골든디스크상 본상/**대상** (2집 살다가)
+  - 2005년 [쥬크온 뮤직 어워드](https://ko.wikipedia.org/wiki/쥬크온 "wikilink") 올해의 가수상
+  - 2005년 [쥬크온 뮤직 어워드](https://ko.wikipedia.org/wiki/쥬크온 "wikilink") 리메이크상
+  - 2005년 [뮤즈 뮤직 어워드](https://ko.wikipedia.org/wiki/뮤즈 "wikilink") 올해의 앨범상 (2집 살다가)
+  - 2005년 [뮤즈 뮤직 어워드](https://ko.wikipedia.org/wiki/뮤즈 "wikilink") 올해의 리메이크상
   - 2005년 SBS 가요대전 본상/프로듀서상
   - 2005년 KBS 가요대상 올해의 가수상
   - 2005년 MBC 10대 가수가요제 본상 (하지만 SG워너비의 거부로 수상이 되지않음)
   - 2005년 중국 시나엔터테인먼트 선정 '10대 아시아 레코드'
-  - 2006년 제13회 대한민국 연예예술상 남자발라드 가수상
-  - 2006년 MKMF 뮤직페스티벌 디지털 인기상/올해 최고의 앨범상/최고 노래상 (내사람 : Partner for life)
+  - 2006년 제13회 대한민국 연예예술상 남자 발라드 가수상
+  - 2006년 MKMF 뮤직페스티벌 디지털 인기상/**올해 최고의 앨범상**/**올해 최고의 노래상** (내사람 : Partner for life)
   - 2006년 제16회 서울가요대상 본상
-  - 2006년 제21회 골든디스크 본상/디지털음원부문 **대상** (3집 The 3rd Masterpiece)
+  - 2006년 제21회 골든디스크 본상/**디지털음원부문 대상** (3집 The 3rd Masterpiece)
   - 2006년 SBS 가요대전 본상/프로듀서상
   - 2007년 20's choice best보컬상 (김진호)
   - 2007년 MKMF 뮤직페스티벌 R\&B Soul 음악상

@@ -11,7 +11,7 @@
 
 ## 사이트 구성
 
-  - [KLDP](http://kldp.org) KLDP의 모든 사이트 내용을 한눈에 확인할 수 있는 허브 사이트
+  - [KLDP](https://web.archive.org/web/20060219233450/http://kldp.org/) KLDP의 모든 사이트 내용을 한눈에 확인할 수 있는 허브 사이트
   - [KLDP Wiki](https://web.archive.org/web/20051027110452/http://wiki.kldp.org/) 특정 분야에 대한 문서화 및 OpenSource, FreeSoftware 전반에 관한 이야기
   - [KLDP Forum(BBS)](https://web.archive.org/web/20070310233410/http://kldp.org/forum) 커뮤니티 사이트(질문/답변, 토의/토론, 새소식 등)
   - [KLDP Geek Blog](https://web.archive.org/web/20070308153658/http://kldp.org/blog) FOSS나 geek culture, 기타 IT 관련 블로그 (현재 내용에 제약은 없다.)
@@ -23,7 +23,7 @@
   - 1997년 : 관리자가 진학을 하면서 주소가 http://www.postech.ac.kr/\~cessi 로 바뀜
   - 1998년 : URL을 http://kldp.linux-kr.org 로 바꿈
   - 1998년 : 시스템공학연구소(구 SERI) 슈퍼컴퓨팅센터의 후원으로 계정을 얻어 운영
-  - 1999년 : URL을 <http://kldp.org> 로 바꿈
+  - 1999년 : URL을 <https://web.archive.org/web/20060219233450/http://kldp.org/> 로 바꿈
   - 1999년 : 웹데이터뱅크와 데이콤 보라넷의 후원으로 독립서버로 이전
   - 2000년 8월 : [데비안](../Page/데비안.md "wikilink") GNU/Linux 2.2(potato) 시디롬 제작/배포
   - 2000년 11월 20일 : 오픈소스 뉴스/토론 사이트 [geekforum](https://web.archive.org/web/20080705125652/http://geekforum.kldp.org/) 개설

@@ -84,6 +84,6 @@ edit*
 
   - [ls.c](http://minnie.tuhs.org/UnixTree/V5/usr/source/s1/ls.c.html) AT\&T Ver. 5 UNIX의 ls 소스 코드.
 
-  - [GNU ls 소스 코드](http://ftp.gnu.org/pub/gnu/coreutils/)
+  - [GNU ls 소스 코드](https://web.archive.org/web/20100718181921/http://ftp.gnu.org/pub/gnu/coreutils/)
 
 [분류:표준 유닉스 프로그램](https://ko.wikipedia.org/wiki/분류:표준_유닉스_프로그램 "wikilink") [분류:유닉스 SUS2008 유틸리티](https://ko.wikipedia.org/wiki/분류:유닉스_SUS2008_유틸리티 "wikilink")

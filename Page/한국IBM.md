@@ -58,7 +58,9 @@
   - [스마터 플래닛 한국 홈페이지](http://www-903.ibm.com/kr/smartplanet/index.html)
   - [스마터 플래닛 본사 홈페이지](http://www-03.ibm.com/innovation/us/think/index.shtml?ca=agus_brthinklp-20081111&me=vanity&met=thinkvan&re=thinkvan&s_tact=106aw01w&cm_mmc=agus_brthinklp-20081111-106aw01w-_-p-_-thinkvan-_-thinkvan)
 
-[분류:IBM](https://ko.wikipedia.org/wiki/분류:IBM "wikilink") [분류:컴퓨터 하드웨어 기업](https://ko.wikipedia.org/wiki/분류:컴퓨터_하드웨어_기업 "wikilink") [분류:대한민국의 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_기업 "wikilink") [분류:1967년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1967년_설립된_기업 "wikilink")
+[분류:IBM](https://ko.wikipedia.org/wiki/분류:IBM "wikilink")
+
+[분류:컴퓨터 하드웨어 기업](https://ko.wikipedia.org/wiki/분류:컴퓨터_하드웨어_기업 "wikilink") [분류:대한민국의 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_기업 "wikilink") [분류:1967년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1967년_설립된_기업 "wikilink")
 
 1.  [IBM, 한국 IT 기업 CEO 250명 배출](http://www.hankyung.com/news/app/newsview.php?aid=2011061900291), 한국경제
 2.  ['금융권과 한국IBM'의 악연](http://www.dt.co.kr/contents.html?article_no=2014061602010351739002) 디지털타임스, 2014년 6월 16일

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [헤클러운트코흐 MP5](https://ko.wikipedia.org/wiki/헤클러운트코흐_MP5).
 
 
-**MP5**()는 [헤클러&코흐](https://ko.wikipedia.org/wiki/헤클러&코흐 "wikilink")에서 개발, 생산 중인 [기관단총](../Page/기관단총.md "wikilink")이다. 과거 대부분의 기관단총이 [오픈 볼트방식이어서](../Page/오픈_볼트.md "wikilink") 초탄 명중률이 떨어졌으나, MP5는 [클로즈드 볼트](../Page/클로즈드_볼트.md "wikilink") 방식을 사용하여 초탄 명중률이 매우 높다. 정밀도 및 신뢰성이 뛰어나 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")부터 수많은 [특수부대](../Page/특수부대.md "wikilink")나 대테러부대에서 채용하였다.
+**MP5**()는 [헤클러&코흐](https://ko.wikipedia.org/wiki/헤클러&코흐 "wikilink")에서 개발, 생산 중인 [기관단총](../Page/기관단총.md "wikilink")이다. 과거 대부분의 기관단총이 [오픈 볼트방식이어서](../Page/오픈_볼트.md "wikilink") 초탄 명중률이 떨어졌으나, MP5는 [클로즈드 볼트](../Page/클로즈드_볼트.md "wikilink") 방식을 사용하여 초탄 명중률이 매우 높다. 정밀도 및 신뢰성이 뛰어나 [1970년대](https://ko.wikipedia.org/wiki/1970년대 "wikilink")부터 수많은 [특수부대](../Page/특수부대.md "wikilink")나 대테러부대에서 채용하였다.그리고 이 기관단총은 소총을 기반으로 만들어 졌다고 한다.
 
 ## 역사
 
@@ -11,7 +11,7 @@
 
 또한 독일군의 제식 소총인 [G36을](https://ko.wikipedia.org/wiki/헤클러&코흐_G36 "wikilink") 기관단총 못지않게 단축시킨 G36K모델과 같은 단축형 소총([카빈](https://ko.wikipedia.org/wiki/카빈 "wikilink"))들도 MP5의 경쟁자로 인식되고 있다.
 
-이 총이 쓰인 잘 알려진 대테러 작전으로 [님로드 작전이](https://ko.wikipedia.org/wiki/님로드_작전 "wikilink") 있다. 1980년 4월 30일에 영국에 위치한 런던에 있는 이란 대사관을 점거한 테러리스트들에게 돌격하여 MP5로 무장한 [SAS가](https://ko.wikipedia.org/wiki/SAS_\(영국_육군\) "wikilink") 사살하였다.
+이 총이 쓰인 잘 알려진 대테러 작전으로 [님로드 작전이](https://ko.wikipedia.org/wiki/님로드_작전 "wikilink") 있다. 1980년 4월 30일에 영국에 위치한 런던에 있는 이란 대사관을 점거한 테러리스트들에게 돌격하여 MP5로 무장한 [SAS가](../Page/SAS_\(영국\).md "wikilink") 사살하였다.
 
 ## 변형
 
@@ -170,7 +170,7 @@ MP5의 단축형으로, 분당 900발을 쏠 수 있다.
 
   - \- UAE 특수부대, Abu Dhabi 경찰 SWAT, 두바이 경찰 [SWAT](../Page/SWAT.md "wikilink"), UAE VIP 부대.
 
-  - \- [SAS](https://ko.wikipedia.org/wiki/SAS_\(영국_육군\) "wikilink"), [특수 보트 지원대](https://ko.wikipedia.org/wiki/특수_보트_지원대 "wikilink"), [런던 경찰](https://ko.wikipedia.org/wiki/런던_경찰 "wikilink") [전문 화기 사령부](https://ko.wikipedia.org/wiki/전문_화기_사령부 "wikilink").
+  - \- [SAS](../Page/SAS_\(영국\).md "wikilink"), [특수 보트 지원대](https://ko.wikipedia.org/wiki/특수_보트_지원대 "wikilink"), [런던 경찰](https://ko.wikipedia.org/wiki/런던_경찰 "wikilink") [전문 화기 사령부](https://ko.wikipedia.org/wiki/전문_화기_사령부 "wikilink").
 
   - \- [해병대](../Page/미국_해병대.md "wikilink") 수색 중대, 해군 경비 대대 및 특수작전 부대, [육군 레인저](https://ko.wikipedia.org/wiki/육군_레인저 "wikilink"), [델타 포스](../Page/델타_포스.md "wikilink"), [해군](../Page/미국_해군.md "wikilink") [네이비 씰](https://ko.wikipedia.org/wiki/네이비_씰 "wikilink"), [공군 전투 통제팀](https://ko.wikipedia.org/wiki/공군_전투_통제팀 "wikilink") 및 수많은 경찰청과 연방 기관.
 

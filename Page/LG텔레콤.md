@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [LG텔레콤](https://ko.wikipedia.org/wiki/LG텔레콤).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:LG_Telecom_Daerijeom.jpg "wikilink") **LG텔레콤**(LG Telecom)은 대한민국의 [이동통신](https://ko.wikipedia.org/wiki/이동통신 "wikilink") 사업자였으며 [LG 그룹](https://ko.wikipedia.org/wiki/LG_그룹 "wikilink") 계열사이다. 유무선통합 3위 사업자이며, 이동 통신 3위 사업자이다. [2010년](../Page/2010년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") [LG데이콤](../Page/LG데이콤.md "wikilink"), [LG파워콤](../Page/LG파워콤.md "wikilink")과 합병하였다. [2010년](../Page/2010년.md "wikilink") [7월 1일부터](../Page/7월_1일.md "wikilink") 사명을 [LG유플러스](../Page/LG유플러스.md "wikilink")(LG U+)로 변경하였다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:LG_Telecom_Daerijeom.jpg "wikilink") **LG텔레콤**()은 대한민국의 [이동통신](https://ko.wikipedia.org/wiki/이동통신 "wikilink") 사업자였으며 [LG 그룹](https://ko.wikipedia.org/wiki/LG_그룹 "wikilink") 계열사이다. 유무선통합 3위 사업자이며, 이동 통신 3위 사업자이다. [2010년](../Page/2010년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") [LG데이콤](../Page/LG데이콤.md "wikilink"), [LG파워콤](../Page/LG파워콤.md "wikilink")과 합병하였다. [2010년](../Page/2010년.md "wikilink") [7월 1일부터](../Page/7월_1일.md "wikilink") 사명을 [LG유플러스](../Page/LG유플러스.md "wikilink")(LG U+)로 변경하였다.
 
 ## 역사
 
 1996년 7월 창립하였다. 1997년 10월부터 1.8Ghz PCS 기술을 기반으로 2세대 이동통신 서비스를 제공하였다. 해외 다른 주파수의 1.8Ghz CDMA기반으로 시작하였다.
 
-LG텔레콤은 휴대 전화 식별 번호로 019를 사용했으나 현재는 번호이동에 의해 무색해졌고 정부의 정책에 의해 010으로 번호 통합이 이루어지고 있다. [애니콜](https://ko.wikipedia.org/wiki/애니콜 "wikilink"), [싸이언](https://ko.wikipedia.org/wiki/싸이언 "wikilink"), [스카이](https://ko.wikipedia.org/wiki/베가_\(휴대_전화\) "wikilink"), [캔유](../Page/캔유.md "wikilink") 등의 단말기가 있다. 대한민국 이동통신 사업자 중 유일하게 일본산 [카시오](../Page/카시오.md "wikilink") 및 [도시바](../Page/도시바.md "wikilink")의 단말기를 한국어화하고 소프트웨어를 재개발하여 판매했으며, [SK텔레콤](../Page/SK텔레콤.md "wikilink")이 일본 [산요](https://ko.wikipedia.org/wiki/산요 "wikilink")사의 핸드폰을 도입했을 때와는 달리 지속적으로 차기 브랜드를 내놓았다.
+LG텔레콤은 휴대 전화 식별 번호로 019를 사용했으나 현재는 번호이동에 의해 무색해졌고 정부의 정책에 의해 010으로 번호 통합이 이루어지고 있다. [애니콜](https://ko.wikipedia.org/wiki/애니콜 "wikilink"), [싸이언](https://ko.wikipedia.org/wiki/싸이언 "wikilink"), [스카이](../Page/스카이_\(휴대_전화\).md "wikilink"), [캔유](../Page/캔유.md "wikilink") 등의 단말기가 있다. 대한민국 이동통신 사업자 중 유일하게 일본산 [카시오](../Page/카시오.md "wikilink") 및 [도시바](../Page/도시바.md "wikilink")의 단말기를 한국어화하고 소프트웨어를 재개발하여 판매했으며, [SK텔레콤](../Page/SK텔레콤.md "wikilink")이 일본 [산요](https://ko.wikipedia.org/wiki/산요 "wikilink")사의 핸드폰을 도입했을 때와는 달리 지속적으로 차기 브랜드를 내놓았다.
 
 2006년 7월, LG텔레콤은 동기식 IMT-2000사업권을 정부에 반납했고, 통신관련법에 따라 당시 남용사장은 경질되었다. 동기식 IMT-2000 사업권을 반납한 후, 고속 데이터 등에 필요성을 느끼던 LG텔레콤에서는 [퀄컴](../Page/퀄컴.md "wikilink")의 CDMA-2000 1x EV-DO 리비전 A를 사용하겠다고 발표했다. 리비전 A는 기존의 1x EV-DO 망을 일부 개량한 것으로, 증설에 필요한 금액이 [HSDPA](https://ko.wikipedia.org/wiki/HSDPA "wikilink")망 증설 금액의 10\~20%밖에 되지 않아서 , 매우 저렴한 가격으로 SK텔레콤과 [KT](../Page/KT.md "wikilink")의 3.5세대 [HSDPA](https://ko.wikipedia.org/wiki/HSDPA "wikilink") 망에 대항할 수 있는 것으로 주장하고 있다. 설치 이후 누리꾼들에게 "퀄컴에 속아 넘어갔다"는 등 여러 비판을 들어 왔고, 그 이상 규격인 리비전 B에 대해서는 언급을 회피하였다. 2010년 4월 800Mhz를 추가를 배정받아 [LTE](https://ko.wikipedia.org/wiki/LTE "wikilink") 투자를 준비하고 있다.
 

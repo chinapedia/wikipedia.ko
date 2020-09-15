@@ -95,4 +95,4 @@ zzzzz=00000 이라면, 문자는 16비트 이하로 표현이 가능하다. 즉,
   - [Unicode Standard 4.0 Chapter 2](http://www.unicode.org/versions/Unicode4.0.0/ch02.pdf) (PDF) 일반 구조. UTF-16 는 *2.5 Encoding Forms* (S.20) 에 정의되어 있다.
   - [Unicode TN12: UTF-16 for Processing](http://www.unicode.org/notes/tn12/#U4ch2)
 
-[분류:유니코드](https://ko.wikipedia.org/wiki/분류:유니코드 "wikilink")
+[분류:문자 인코딩](https://ko.wikipedia.org/wiki/분류:문자_인코딩 "wikilink") [분류:유니코드 변환 형식](https://ko.wikipedia.org/wiki/분류:유니코드_변환_형식 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA 월드컵 트로피](https://ko.wikipedia.org/wiki/FIFA_월드컵_트로피).
 
 
-**FIFA컵**(Fifa Cup)은 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 우승국에게 주어지는 [황금](../Page/황금.md "wikilink") [트로피](https://ko.wikipedia.org/wiki/트로피 "wikilink")이다. 월드컵 대회가 [1930년](../Page/1930년.md "wikilink")에 창설된 이래, 두 개의 트로피가 우승의 증표가 되었다. 하나는 쥘 리메 컵으로 [1930년](../Page/1930년.md "wikilink")부터 [1970년](../Page/1970년.md "wikilink")까지, 그리고 다른 하나는 FIFA컵으로 [1974년](../Page/1974년.md "wikilink")부터 현재까지 이어져 오고 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Passarella_world_cup.jpg "wikilink") **FIFA컵**(Fifa Cup)은 [FIFA 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 우승국에게 주어지는 [황금](../Page/황금.md "wikilink") [트로피](https://ko.wikipedia.org/wiki/트로피 "wikilink")이다. 월드컵 대회가 [1930년](../Page/1930년.md "wikilink")에 창설된 이래, 두 개의 트로피가 우승의 증표가 되었다. 하나는 쥘 리메 컵으로 [1930년](../Page/1930년.md "wikilink")부터 [1970년](../Page/1970년.md "wikilink")까지, 그리고 다른 하나는 FIFA컵으로 [1974년](../Page/1974년.md "wikilink")부터 현재까지 이어져 오고 있다.
 
 원래 Victory(승리)라고 이름지어졌던 쥘 리메 컵은 후에 전 FIFA 회장이었던 [쥘 리메를](../Page/쥘_리메.md "wikilink") 기려 그의 이름을 따 다시 이름지어졌다. 이 트로피는 금으로 도금된 순[은](../Page/은.md "wikilink")과 [청금석](../Page/청금석.md "wikilink")으로 만들어졌고, [그리스](../Page/그리스.md "wikilink") 신화에 등장하는 승리의 여신인 [니케](../Page/니케.md "wikilink")를 묘사했다. 1970년, [브라질이](../Page/브라질_축구_국가대표팀.md "wikilink") 3회 우승을 하며 이 트로피를 영구 소유하게 되면서 이를 대체하는 트로피에 대한 제작이 촉구되었다. 이 트로피는 [1983년](../Page/1983년.md "wikilink")에 도난당해서 영영 찾지 못하게 되었다.
 
@@ -13,7 +13,7 @@
 
 [제2차 세계 대전동안](../Page/제2차_세계_대전.md "wikilink"), 이것은 [1938년 FIFA 월드컵의](https://ko.wikipedia.org/wiki/1938년_FIFA_월드컵 "wikilink") 우승 팀인 [이탈리아가](../Page/이탈리아_축구_국가대표팀.md "wikilink") 소유하였다. FIFA의 이탈리아 부회장이었으며 이탈리아 축구 협회의 회장이었던 [오토리노 바라시는](https://ko.wikipedia.org/wiki/오토리노_바라시 "wikilink") [나치가](https://ko.wikipedia.org/wiki/민족사회주의_독일_노동자당 "wikilink") 이것을 가져가는 것을 막기 위해 비밀스럽게 [로마](../Page/로마.md "wikilink")에 있는 은행에서 트로피를 옮겨 그의 침대 밑의 신발 상자에 이것을 숨겼다.\[2\]
 
-[잉글랜드](../Page/잉글랜드.md "wikilink")에서 열리는 [1966년 FIFA 월드컵을](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink") 4개월 앞둔 [1966년](../Page/1966년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink"), [웨스트민스터 센트럴 홀에서](https://ko.wikipedia.org/wiki/웨스트민스터_센트럴_홀 "wikilink") 일반인에게 개방된 전시회를 하던 도중 이것이 도난당하였다. 이것은 사라진 뒤 7일 뒤에 [사우스 런던의](https://ko.wikipedia.org/wiki/사우스_런던 "wikilink") [어퍼 노우드](https://ko.wikipedia.org/wiki/어퍼_노우드 "wikilink") 교외의 정원 울타리 밑바닥에서 주인과 산책나온 개에 의해 신문지에 덮인 채로 발견됐다.\[3\]
+[잉글랜드](../Page/잉글랜드.md "wikilink")에서 열리는 [1966년 FIFA 월드컵을](https://ko.wikipedia.org/wiki/1966년_FIFA_월드컵 "wikilink") 4개월 앞둔 [1966년](../Page/1966년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink"), [웨스트민스터 센트럴 홀에서](https://ko.wikipedia.org/wiki/웨스트민스터_센트럴_홀 "wikilink") 일반인에게 개방된 전시회를 하던 도중 이것이 도난당하였다. 이것은 사라진 뒤 7일 뒤에 [사우스런던](../Page/사우스런던.md "wikilink")의 [어퍼 노우드](https://ko.wikipedia.org/wiki/어퍼_노우드 "wikilink") 교외의 정원 울타리 밑바닥에서 주인과 산책나온 개에 의해 신문지에 덮인 채로 발견됐다.\[3\]
 
 안전을 위해서, [잉글랜드 축구 협회는](https://ko.wikipedia.org/wiki/잉글랜드_축구_협회 "wikilink") 경기 이후의 축하에 사용하기 위해 비밀스럽게 이것의 복제품을 만들었다. 이 복제품은 그 이후 1970년까지 사용되었다. FIFA가 이 복제품을 경매에 붙였던 [1997년](../Page/1997년.md "wikilink") 당시 이 복제품은 254,500 파운드에 거래되었다. 이 트로피는 복제품이 아니라 진품일 수도 있다는 추측을 낳기도 했다.\[4\] 경매 후에, FIFA는 이 복제품을 프레스톤에 있는 [잉글랜드 국립 축구 박물관에](https://ko.wikipedia.org/wiki/잉글랜드_국립_축구_박물관 "wikilink") 전시하기로 결정하였다.
 

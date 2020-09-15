@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MacOS](https://ko.wikipedia.org/wiki/MacOS).
 
 
-**macOS**(맥오에스, 이전 이름: OS X, 맥 OS X / Mac OS X\[1\])는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 제작한 [운영 체제이다](../Page/운영_체제.md "wikilink"). [2002년](../Page/2002년.md "wikilink") 4월부터 모든 [매킨토시](../Page/매킨토시.md "wikilink") 컴퓨터에 적용되고 있다. 이 운영 체제는 [1984년](../Page/1984년.md "wikilink") 1월부터 애플 컴퓨터를 이끌어 왔던 [맥 OS의](../Page/맥_OS.md "wikilink") 마지막 고전 버전인 [맥 오에스 9의](https://ko.wikipedia.org/wiki/맥_오에스_9 "wikilink") 뒤를 잇는다. OS X이라는 이 운영 체제의 예전 이름에 들어있는 "X"라는 글자는 알파벳 "X"을 뜻하는 것이 아니라, [매킨토시](../Page/매킨토시.md "wikilink")의 10번째 운영 체제를 뜻하는 것이기 때문에, 로마 숫자 "10"을 뜻하는 것이다.\[2\] 이 [운영 체제는](../Page/운영_체제.md "wikilink") [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [1996년](../Page/1996년.md "wikilink") 12월에 인수한\[3\] [NeXT](../Page/NeXT.md "wikilink")의 기술력으로 만들어졌으며 [유닉스에](../Page/유닉스_계열.md "wikilink") 기반을 하고 있다.\[4\] 2011년 7월 20일에 [OS X 라이언이](../Page/맥_OS_X_라이언.md "wikilink") 출시되었다. 기존에도 줄여서 OS X이라고 많이 표현했으나, [OS X 마운틴 라이언](../Page/OS_X_마운틴_라이언.md "wikilink") 공개와 함께 기존 맥 OS X (Mac OS X)에서 맥 (Mac)이라는 단어가 공식적으로 제거되었다.
+**macOS**(맥오에스, 이전 이름: OS X, 맥 OS X / Mac OS X\[1\])는 [애플](../Page/애플.md "wikilink")이 제작한 [운영 체제이다](../Page/운영_체제.md "wikilink"). [2002년](../Page/2002년.md "wikilink") 4월부터 모든 [매킨토시](../Page/매킨토시.md "wikilink") 컴퓨터에 적용되고 있다. 이 운영 체제는 [1984년](../Page/1984년.md "wikilink") 1월부터 애플 컴퓨터를 이끌어 왔던 [맥 OS의](../Page/맥_OS.md "wikilink") 마지막 고전 버전인 [맥 오에스 9의](https://ko.wikipedia.org/wiki/맥_오에스_9 "wikilink") 뒤를 잇는다. OS X이라는 이 운영 체제의 예전 이름에 들어있는 "X"라는 글자는 알파벳 "X"을 뜻하는 것이 아니라, [매킨토시](../Page/매킨토시.md "wikilink")의 10번째 운영 체제를 뜻하는 것이기 때문에, 로마 숫자 "10"을 뜻하는 것이다.\[2\] 이 [운영 체제는](../Page/운영_체제.md "wikilink") [애플](../Page/애플.md "wikilink")이 [1996년](../Page/1996년.md "wikilink") 12월에 인수한\[3\] [NeXT](../Page/NeXT.md "wikilink")의 기술력으로 만들어졌으며 [유닉스에](../Page/유닉스_계열.md "wikilink") 기반을 하고 있다.\[4\] 2011년 7월 20일에 [OS X 라이언이](../Page/맥_OS_X_라이언.md "wikilink") 출시되었다. 기존에도 줄여서 OS X이라고 많이 표현했으나, [OS X 마운틴 라이언](../Page/OS_X_마운틴_라이언.md "wikilink") 공개와 함께 기존 맥 OS X (Mac OS X)에서 맥 (Mac)이라는 단어가 공식적으로 제거되었다.
 
 2016년 6월 13일에 [macOS 시에라](https://ko.wikipedia.org/wiki/macOS_시에라 "wikilink") 공개와 함께 제품명이 OS X에서 macOS로 변경되었다.
 
@@ -165,6 +165,13 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>macOS 빅 서</p></td>
+<td><p>빅 서</p></td>
+<td><p>2020년 6월 22일</p></td>
+<td><p>2020년 가을 예정</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -188,7 +195,7 @@
 
 [2002년](../Page/2002년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") 나온 맥 OS X 10.2 재규어(Jaguar)는 [쿼츠](../Page/쿼츠_\(그래픽스_계층\).md "wikilink") 익스트림 기술과, 랑데뷰 네트워킹 기술([2005년](../Page/2005년.md "wikilink") 봉쥬르로 이름이 바뀜)을 지원했으며, [iChat](https://ko.wikipedia.org/wiki/iChat "wikilink") 인터넷 메신저와, [스팸메일](https://ko.wikipedia.org/wiki/스팸메일 "wikilink") 필터가 추가되었다. 또 [코드네임](https://ko.wikipedia.org/wiki/코드네임 "wikilink")을 [마케팅](../Page/마케팅.md "wikilink")과 [광고](https://ko.wikipedia.org/wiki/광고 "wikilink")에도 사용하였다.
 
-### 맥 OS X 10.3 팬더
+### 맥 OS X 10.3 [팬서](../Page/퓨마.md "wikilink")
 
 [2003년](../Page/2003년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") 나온 맥 OS X 10.3 팬더(Panther)는 기존의 아쿠아 인터페이스와 함께 메탈룩 인터페이스를 채용했다. 팬더에서는 파인더가 개선되어 전반적인 실행 속도가 재규어에 비해 매우 빨라졌다. 재규어에서 사라졌던 꼬리표가 다시 부활했으며, 새로 추가된 엑스포제 기능은 응용 프로그램과 창의 전환을 빠르고 직관적으로 할 수 있게 하였다. 그 밖에도 사용자 계정을 빠르게 전환할 수 있는 기능과 사파리 웹 브라우저, 개발 도구인 [Xcode](https://ko.wikipedia.org/wiki/Xcode "wikilink")가 추가되었고, 재규어부터 지원된 쿼츠 익스트림 기술은 팬서의 비주얼적인 면을 보다 향상시켰다. 최종 업그레이드 버전은 10.3.9이다.
 
@@ -252,9 +259,13 @@
 
 스크린 타임 기능이 추가되었다. 사용 시간을 모니터링하고, 다운타임 일정을 잡고, 앱과 웹사이트 사용 시간 제한을 모든 기기에 걸쳐 설정할 수 있는 기능이다.
 
+### macOS 빅 서
+
+2020년 6월 22일 WWDC 2020에서 공개되었다. [맥 OS X 10.0 치타가](../Page/맥_OS_X_10.0.md "wikilink") 나온지 19년만에 메이저 버전이 11.0으로 업데이트되었다. UI가 전반적으로 리프레시되었고, [인텔](../Page/인텔.md "wikilink") 프로세서에서 [Apple Silicon으로의](https://ko.wikipedia.org/wiki/Apple_Silicon "wikilink") 전환을 발표하며 [ARM 아키텍처를](../Page/ARM_아키텍처.md "wikilink") 지원하는 최초의 맥 운영체제가 되었다. 전환에 따른 하위호환성을 지원하기 위해 [로제타 2와](../Page/로제타_\(소프트웨어\).md "wikilink") [유니버설 2](../Page/유니버설_바이너리.md "wikilink") 등의 기술이 함께 발표되었다.
+
 ## 맥 앱스토어
 
-맥 앱스토어는 iOS의 앱스토어랑 비슷한 개념이다.하지만 iOS의 앱스토어에는 있는 앱이 맥 앱스토어에는 없을 수도 있다.\[19\] 맥 앱스토어에 올라오는 앱들은 모두 애플의 승인을 받아야 하며, macOS의 보안기능인 [게이트키퍼](https://ko.wikipedia.org/wiki/게이트키퍼 "wikilink")에 걸리지 않는다. 현재 대한민국의 맥 앱스토어는 게임 카테고리가 빠져있는 상태이다.
+[맥 앱스토어는](../Page/앱_스토어_\(macOS\).md "wikilink") iOS의 앱스토어랑 비슷한 개념이다.하지만 iOS의 앱스토어에는 있는 앱이 맥 앱스토어에는 없을 수도 있다.\[19\] 맥 앱스토어에 올라오는 앱들은 모두 애플의 승인을 받아야 하며, macOS의 보안기능인 [게이트키퍼](https://ko.wikipedia.org/wiki/게이트키퍼 "wikilink")에 걸리지 않는다. 현재 대한민국의 맥 앱스토어는 게임 카테고리가 빠져있는 상태이다.
 
 ## 언어
 
@@ -311,7 +322,7 @@ macOS는 다음 언어 중 하나를 선택하여 사용할 수 있다.\[20\]  |
 
 ## 같이 보기
 
-  - [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink")
+  - [애플](../Page/애플.md "wikilink")
   - [아이맥](../Page/아이맥.md "wikilink")
   - [맥북](../Page/맥북.md "wikilink")
   - [맥북 프로](../Page/맥북_프로.md "wikilink")

@@ -66,7 +66,7 @@
 
   - [데파페페 공식 웹사이트](http://www.sonymusic.co.jp/Music/Info/depapepe/)
 
-  - [한국 데파페페 팬카페](http://cafe.naver.com/depa.cafe)
+  - [한국 데파페페 팬카페](https://web.archive.org/web/20091123193944/http://cafe.naver.com/depa.cafe)
 
 [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:고베시 출신](https://ko.wikipedia.org/wiki/분류:고베시_출신 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:소니 뮤직 엔터테인먼트 (일본)의 음악가](https://ko.wikipedia.org/wiki/분류:소니_뮤직_엔터테인먼트_\(일본\)의_음악가 "wikilink")
 

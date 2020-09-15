@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [GS그룹](https://ko.wikipedia.org/wiki/GS그룹).
 
 
-**GS그룹**은 [LG그룹](../Page/LG그룹.md "wikilink")의 4개 회사가 분리·독립하여 이루어진 대한민국의 [대규모 기업집단으로](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink") 2004년 7월 1일 GS홀딩스(현 [주식회사 GS](../Page/GS_\(기업\).md "wikilink"))가 출범하여 [LG그룹](../Page/LG그룹.md "wikilink")에서 분리 작업을 시작하여\[1\][2005년](../Page/2005년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") GS홀딩스 외 13개사의 계열분리가 [공정위에](../Page/대한민국_공정거래위원회.md "wikilink") 의해 승인되어 법적 계열분리가 완료되었다.\[2\][2005년](../Page/2005년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink")‘GS CI및 경영이념선포식' 행사와 함께 공식 출범하였다.\[3\]
+**GS그룹**은 [LG그룹](../Page/LG그룹.md "wikilink")의 4개 회사가 분리·독립하여 이루어진 대한민국의 [대규모 기업집단으로](https://ko.wikipedia.org/wiki/대규모_기업집단 "wikilink") 2004년 7월 1일 GS홀딩스(현 [주식회사 GS](../Page/GS_\(기업\).md "wikilink"))가 출범하여 [LG그룹](../Page/LG그룹.md "wikilink")에서 분리 작업을 시작\[1\]하여 [2005년](../Page/2005년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") GS홀딩스 외 13개사의 계열분리가 [공정위에](../Page/대한민국_공정거래위원회.md "wikilink") 의해 승인되어 법적 계열분리가 완료\[2\]되었다. [2005년](../Page/2005년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink")‘GS CI및 경영이념선포식' 행사와 함께 공식 출범\[3\]하였다.
 
-[지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink")인 [주식회사 GS가](../Page/GS_\(기업\).md "wikilink") [GS칼텍스](../Page/GS칼텍스.md "wikilink"), [GS리테일](../Page/GS리테일.md "wikilink"), [GS홈쇼핑](https://ko.wikipedia.org/wiki/GS홈쇼핑 "wikilink") 등을 자회사로 거느리고 있으며, [GS건설](../Page/GS건설.md "wikilink")과는 계열사 관계이다. 현 회장은 [허준구](https://ko.wikipedia.org/wiki/허준구 "wikilink")의 장남 [허창수](../Page/허창수.md "wikilink")이다. 허씨 가문은 만석군 집안으로 [함안](../Page/함안군.md "wikilink") 사람이다.\[4\]
+[지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink")인 [주식회사 GS가](../Page/GS_\(기업\).md "wikilink") [GS칼텍스](../Page/GS칼텍스.md "wikilink"), [GS리테일](../Page/GS리테일.md "wikilink"), [GS홈쇼핑](https://ko.wikipedia.org/wiki/GS홈쇼핑 "wikilink") 등을 자회사로 거느리고 있으며, [GS건설](../Page/GS건설.md "wikilink")과는 계열사 관계이다. 현 회장은 [허태수](https://ko.wikipedia.org/wiki/허태수 "wikilink")이다
 
 ## 역사
 
@@ -36,6 +36,7 @@ LG그룹은 구인회상점으로 창업당시에는 동생인 [구철회](https
       - [GS25](../Page/GS25.md "wikilink")
       - [GS수퍼마켓](../Page/GS수퍼마켓.md "wikilink")
       - [GS파크24](https://ko.wikipedia.org/wiki/GS파크24 "wikilink")
+      - [랄라블라](../Page/랄라블라.md "wikilink")
   - [GS SHOP](../Page/GS_SHOP.md "wikilink")
   - [GS글로벌](../Page/GS글로벌.md "wikilink")
       - 이사회는 사내이사 4인, 사외이사 5인으로 구성된다. 2010년 현재, 사내이사는 허창수(회장), 허명수(CEO), 우상룡, 이휘성이고 사외이사는 김종빈, 김정만, 이덕훈, 편종근, 박경서 이사이다.
@@ -44,7 +45,8 @@ LG그룹은 구인회상점으로 창업당시에는 동생인 [구철회](https
       - [GS칼텍스 서울 KIXX](../Page/GS칼텍스_서울_KIXX.md "wikilink")
   - [GS건설](../Page/GS건설.md "wikilink")
       - 자이에스앤디
-          - GS건설 자회사이며 GS그룹의 계열사로 시큐리티사업과 주택관리,에너지사업,홈네트워크를 주 사업으로 하고 있다. 대표이사 차천수(GS건설 부사장 출신)\*\* 자이오앤엠
+          - GS건설 자회사이며 GS그룹의 계열사로 시큐리티사업과 주택관리,에너지사업,홈네트워크를 주 사업으로 하고 있다. 대표이사 차천수(GS건설 부사장 출신)
+      - 자이오앤엠
       - 위드서비스
       - GCS
       - BSM
@@ -77,4 +79,3 @@ LG그룹은 구인회상점으로 창업당시에는 동생인 [구철회](https
 1.
 2.  [LG그룹, GS와 법적 계열분리 완료](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=029&aid=0000094074)
 3.  [재계7위 GS그룹 31일 공식 출범](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0000076339)
-4.

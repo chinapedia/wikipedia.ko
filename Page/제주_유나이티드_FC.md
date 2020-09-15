@@ -106,7 +106,7 @@
 
 ### 현재 선수 명단
 
-[2020년](../Page/2020년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink") 기준
+[2020년](../Page/2020년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") 기준      [16px](https://ko.wikipedia.org/wiki/파일:Vice_Captain_Sports.gif "wikilink")   [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")        [16px](https://ko.wikipedia.org/wiki/파일:Vice_Captain_Sports.gif "wikilink")
 
 ### 임대 및 군 복무 중인 선수
 
@@ -532,7 +532,7 @@
 | 2017   | 1부     | **2**  | FA컵 | **16강** | \-     |
 | 2018   | 1부     | **5**  | FA컵 | **8강**  | \-     |
 | 2019   | 1부     | **12** | FA컵 | **16강** | \-     |
-| 2020   | 2부     |        | FA컵 |         | \-     |
+| 2020   | 2부     |        | FA컵 | **16강** | \-     |
 
 ## 같이 보기
 
@@ -543,7 +543,7 @@
 ## 외부 링크
 
   -
-  - [제주 유나이티드 웹사이트](https://web.archive.org/web/20070527220716/http://www.jeju-utd.com/)
+  - [제주 유나이티드 웹사이트](http://www.jeju-utd.com/)
 
   - [제주 유나이티드 페이스북](https://www.facebook.com/fcjejuunited)
 

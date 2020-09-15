@@ -3,13 +3,11 @@
 
 **유벤투스 풋볼 클럽**()은 [이탈리아](../Page/이탈리아.md "wikilink") [피에몬테주](../Page/피에몬테주.md "wikilink") [토리노](../Page/토리노.md "wikilink")가 연고지인 [축구](../Page/축구.md "wikilink") 클럽이다. **유벤투스**(Juventus)는 [라틴어](../Page/라틴어.md "wikilink")로 **젊음**이라는 의미이며,\[1\] 줄여서 **유베**(Juve)라고 한다. 별명은 엠블럼과 유니폼의 색상인 흰(Bianco)과 검정(Nero)을 뜻하는 **비안코네로**(Bianconero, 복수형 비안코네리 (Bianconeri)), **라 베키아 시뇨라**(La Vecchia Signora, 나이든 귀부인), **제브레**(Zebre, 얼룩말) 등이 있다. 이탈리아에서 3번째로 오래된 축구 클럽이며, 2006–07 시즌을 제외하고 줄곧 1부 리그인 [세리에 A에](../Page/세리에_A.md "wikilink") 있었다.
 
-엠블럼 한 가운데에 있는 것은 [소](../Page/소.md "wikilink")로, 이는 연고지 [토리노](../Page/토리노.md "wikilink") 시의 어원인 타우리니(Taurini, 소의 사람들)에서 유래하였다. [토리노](../Page/토리노.md "wikilink") 시의 문양 그리고 연고지 라이벌인 [토리노 FC의](../Page/토리노_FC.md "wikilink") 문양에도 있다.
-
 연고지인 토리노에서는 [토리노 FC와](../Page/토리노_FC.md "wikilink") 경쟁관계에 있다. 그리고 이 두 클럽 간의 경기를 [토리노 더비라고](https://ko.wikipedia.org/wiki/토리노_더비 "wikilink") 부른다.
 
 1990년대 후반 3연속 챔피언스리그 결승 진출(1995-96 우승, 1996-97, 1997-98 준우승)을 비롯하여 꾸준하게 유럽 클럽 대항전에서 활약하여, IFFHS(International Federation of Football History & Statistics, FIFA 산하 통계 전문 기관)에서 선정한 20세기 축구 클럽 순위에서 1위인 [레알 마드리드에](https://ko.wikipedia.org/wiki/레알_마드리드 "wikilink") 뒤이어 2위에 위치하면서 다시 한 번 세계 최정상의 클럽들 중 하나임을 공인받았다.
 
-이탈리아 클럽랭킹 1위, 세리에 A 최다 우승(32회) 등의 기록을 보유하고 있다.
+이탈리아 클럽랭킹 1위, 세리에 A 최다 우승(36회) 등의 기록을 보유하고 있다.
 
 ## 역사
 
@@ -89,13 +87,11 @@
 
 ### 최근 명단
 
-2020년 5월 4일 기준''\[32\]
-
-주장
+2020년 8월 28일 기준''\[32\]                (주장)
 
 ## 코칭 스태프
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Sarri_2016.jpg "wikilink")\]\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:20150616_-_Portugal_-_Italie_-_Genève_-_Andrea_Pirlo_\(cropped\).jpg "wikilink")
 
 \[33\]
 
@@ -191,7 +187,7 @@
 
 ### 국내 대회
 
-**[세리에 A](../Page/세리에_A.md "wikilink") : 35회** <small></small>
+**[세리에 A](../Page/세리에_A.md "wikilink") : 36회**
 
 <table>
 <tbody>
@@ -238,6 +234,7 @@
 <li>2016-17</li>
 <li>2017-18</li>
 <li>2018-19</li>
+<li>2019-20</li>
 </ul></td>
 </tr>
 </tbody>
@@ -451,13 +448,9 @@
 
   - (＃)은 현역 선수.
 
-## 네임드 팬
-
-  - [알베르토 몬디](../Page/알베르토_몬디.md "wikilink") (방송연예인)
-
 ## 비판
 
-2019년 7월 26일, 대한민국 서울에서 개최된 팀 [K리그](../Page/K리그.md "wikilink")와의 친선경기에서 계약서에 명시된 [크리스티아누 호날두의](https://ko.wikipedia.org/wiki/크리스티아누_호날두 "wikilink") 45분 이상 의무 출전 조항 파기 등 무성의한 태도로 한국 축구팬들에게 많은 비판을 받았다. 사건이후 크리스트아누 호날두는 강날두로 불리다가 날강두라고 불리게 되었다. \[34\]
+2019년 7월 26일, 대한민국 서울에서 개최된 팀 [K리그](../Page/K리그.md "wikilink")와의 친선경기에서 계약서에 명시된 [크리스티아누 호날두의](https://ko.wikipedia.org/wiki/크리스티아누_호날두 "wikilink") 45분 이상 의무 출전 조항 파기 등 무성의한 태도로 한국 축구팬들에게 많은 비판을 받았다. 사건이후 크리스트아누 호날두는 강날두로 불리다가 날강두라고 불리게 되었다.\[34\]
 
 ## 문양, 별 의미
 

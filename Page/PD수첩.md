@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PD수첩](https://ko.wikipedia.org/wiki/PD수첩).
 
 
-《**PD수첩**》은 [대한민국](../Page/대한민국.md "wikilink") [MBC TV에서](../Page/MBC_TV.md "wikilink") 화요일 밤 11시에 방송되는 [문화방송](../Page/문화방송.md "wikilink")의 탐사보도 프로그램이다. 프로듀서들이 제작하는 [탐사보도](../Page/탐사보도.md "wikilink") 형식을 띄고 있다.
+《**PD수첩**》은 [MBC TV에서](../Page/MBC_TV.md "wikilink") 매주 화요일 밤 10시 50분에 방송되는 [문화방송](../Page/문화방송.md "wikilink")의 탐사보도 프로그램이다. 프로듀서들이 제작하는 [탐사보도](../Page/탐사보도.md "wikilink") 형식을 띄고 있다.
 
 ## 방송 시간
 
@@ -15,6 +15,7 @@
 | [1991년](../Page/1991년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink")                                                                                    |                                                                                                                                                        |                                                                         |       |
 | [1993년](../Page/1993년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink")   |                                                                                                                                                        |                                                                         |       |
 | [1995년](../Page/1995년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink")       |                                                                                                                                                        |                                                                         |       |
+| [2020년](../Page/2020년.md "wikilink") [5월 26일](../Page/5월_26일.md "wikilink")                                                                                    |                                                                                                                                                        |                                                                         |       |
 | [1991년](../Page/1991년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink")                                                                                    | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:00 \~ 11:40                                                                                | 40분                                                                     |       |
 | [1991년](../Page/1991년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink")                                                                                    | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 10:50 \~ 11:35                                                                                |                                                                         |       |
 | [1991년](../Page/1991년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") \~ [1992년](../Page/1992년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink")     | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 10:55 \~ 11:40                                                                                | 50분                                                                     |       |
@@ -23,7 +24,9 @@
 | [1999년](../Page/1999년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink")                                                                                  | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:00 \~ 12:00                                                                                | 1시간                                                                     |       |
 | [1999년](../Page/1999년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [3월 14일](../Page/3월_14일.md "wikilink")     |                                                                                                                                                        |                                                                         |       |
 | [2000년](../Page/2000년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink")                                                                                    |                                                                                                                                                        |                                                                         |       |
+| [2020년](../Page/2020년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink")                                                                                    |                                                                                                                                                        |                                                                         |       |
 | [1999년](../Page/1999년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink")                                                                                  | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:10 \~ 12:10                                                                                |                                                                         |       |
+| [2008년](../Page/2008년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink")       |                                                                                                                                                        |                                                                         |       |
 | [2000년](../Page/2000년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink")                                                                                    | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:05 \~ 12:05                                                                                |                                                                         |       |
 | [2000년](../Page/2000년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink")       |                                                                                                                                                        |                                                                         |       |
 | [2001년](../Page/2001년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink")                                                                                    |                                                                                                                                                        |                                                                         |       |
@@ -78,26 +81,23 @@
 | [2009년](../Page/2009년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [6월 16일](../Page/6월_16일.md "wikilink")       |                                                                                                                                                        |                                                                         |       |
 | [2015년](../Page/2015년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink")     |                                                                                                                                                        |                                                                         |       |
 | [2019년](../Page/2019년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink")     |                                                                                                                                                        |                                                                         |       |
-| [2008년](../Page/2008년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink")       | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:10 \~ 12:10                                                                                | 1시간                                                                     |       |
-| [2008년](../Page/2008년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink")                                                                                      | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:35 \~ 12:35                                                                                |                                                                         |       |
+| [2008년](../Page/2008년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink")                                                                                      | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:35 \~ 12:35                                                                                | 1시간                                                                     |       |
 | [2008년](../Page/2008년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink")                                                                                  | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 12:10 \~ 1:05                                                                                 | 55분                                                                     |       |
 | [2009년](../Page/2009년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink")                                                                                  | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:15 \~ 12:15                                                                                | 1시간                                                                     |       |
 | [2010년](../Page/2010년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink")                                                                                      | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:05 \~ 12:25                                                                                | 1시간 20분                                                                 |       |
 | [2013년](../Page/2013년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink")                                                                                      | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 10:55 \~ 11:50                                                                                | 55분                                                                     |       |
 | [2013년](../Page/2013년.md "wikilink") [4월 16일](../Page/4월_16일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [10월 15일](../Page/10월_15일.md "wikilink")   | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:20 \~ 12:15                                                                                |                                                                         |       |
 | [2019년](../Page/2019년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink")                                                                                  | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:00 \~ 11:55                                                                                |                                                                         |       |
-| [2020년](../Page/2020년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~                                                                                 |                                                                                                                                                        |                                                                         |       |
-| [2020년](../Page/2020년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink")                                                                                    | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:00 \~ 12:00                                                                                | 1시간                                                                     |       |
+| [2020년](../Page/2020년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink")     |                                                                                                                                                        |                                                                         |       |
+| [2020년](../Page/2020년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink")                                                                                      | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 10:50 \~ 11:50                                                                                | 1시간                                                                     |       |
+| [2020년](../Page/2020년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink") \~ **현재**                                                                            | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 10:50 \~ 11:45                                                                                | 55분                                                                     |       |
 |                                                                                                                                                                |                                                                                                                                                        |                                                                         |       |
 
 ## 제작진
 
-2018년 8월 26일 기준
-
-  - CP : 박건식
-  - 연출PD : 한학수, 김형윤, 박상준, 이중각, 임채원, 서정문, 김동희, 김정민, 강효임, 조철영, 박신유, 이세진
-  - 취재PD : 신민경, 홍세정,
-  - 조연출PD : 문효진, 양다은, 차철우, 이성재, 전건우, 최다솜
+  - 총괄CP : 박건식
+  - 연출PD : 한학수, 김형윤, 박상준, 이중각, 서정문, 김동희, 김정민, 조철영
+  - 조연출PD : 신민경.홍세정, 문효진. 이성재. 양다은, 차철우, 전건우, 최다솜
   - 구성작가 : 정재홍, 이아미, 조희정, 장은정, 류가영
   - 취재작가 : 고아영, 문옥현, 박은현, 권하영, 조유미, 김도희, 배소윤, 김세민
   - 팩트체크 : 전서연
@@ -147,8 +147,8 @@
 
 #### 2008년
 
-  - [8월 12일](../Page/8월_12일.md "wikilink") :[베이징 올림픽](https://ko.wikipedia.org/wiki/베이징_올림픽 "wikilink") 중계로 결방되었으며, 지난 광우병 보도방송에 대한 방송통신위원회의 시청자 사과 명령을 통해 [뉴스데스크](https://ko.wikipedia.org/wiki/뉴스데스크 "wikilink")가 끝난 다음에 사과 방송을 내보냈다.
-  - [8월 19일](../Page/8월_19일.md "wikilink"), [8월 26일](../Page/8월_26일.md "wikilink") :[베이징올림픽](https://ko.wikipedia.org/wiki/베이징올림픽 "wikilink") 중계로 결방되다가, [9월 2일에](../Page/9월_2일.md "wikilink") 다시 정상방송을 했다.
+  - [8월 12일](../Page/8월_12일.md "wikilink") : [베이징 올림픽](https://ko.wikipedia.org/wiki/베이징_올림픽 "wikilink") 중계방송으로 결방되었으며, 지난 광우병 보도방송에 대한 방송통신위원회의 시청자 사과 명령을 통해 [뉴스데스크](https://ko.wikipedia.org/wiki/뉴스데스크 "wikilink")가 끝난 다음에 사과 방송을 내보냈다.
+  - [8월 19일](../Page/8월_19일.md "wikilink"), [8월 26일](../Page/8월_26일.md "wikilink") : [베이징올림픽](https://ko.wikipedia.org/wiki/베이징올림픽 "wikilink") 중계방송으로 결방되다가 [9월 2일에](../Page/9월_2일.md "wikilink") 다시 정상방송을 했다.
   - [10월 21일](../Page/10월_21일.md "wikilink") : 2008 프로야구 플레이오프 5차전으로 밤 12시 10분에 방영되었다.
   - [12월 30일](../Page/12월_30일.md "wikilink") : [MBC 연기대상](../Page/MBC_연기대상.md "wikilink") 방송으로 결방.
 
@@ -251,11 +251,13 @@
 
 #### 2019년
 
-  - 1월 1일 : 신년특선영화 - [박열](../Page/박열.md "wikilink") 방송으로 결방
-  - 2월 5일 : \<설 특집 [구해줘\! 홈즈](../Page/구해줘!_홈즈.md "wikilink")\>와 \<설 특집 2019 빈 소년\> 편성으로 결방
-  - 3월 26일 : 수목드라마 \<[더 뱅커](../Page/더_뱅커.md "wikilink") 프롤로그\> 편성으로 결방
+  - [1월 1일](../Page/1월_1일.md "wikilink") : 신년특선영화 - [박열](../Page/박열.md "wikilink") 방송으로 결방
+  - [2월 5일](../Page/2월_5일.md "wikilink") : \<설 특집 [구해줘\! 홈즈](../Page/구해줘!_홈즈.md "wikilink")\>와 \<설 특집 2019 빈 소년\> 편성으로 결방
+  - [3월 26일](../Page/3월_26일.md "wikilink") : 수목드라마 \<[더 뱅커](../Page/더_뱅커.md "wikilink") 프롤로그\> 편성으로 결방
 
 #### 2020년
+
+  - [7월 7일](../Page/7월_7일.md "wikilink") : 《[최애 엔터테인먼트 스페셜](https://ko.wikipedia.org/wiki/최애_엔터테인먼트 "wikilink")》 편성으로 결방
 
 ## 소재
 

@@ -5,7 +5,7 @@
 
 최대 256 색까지 저장할 수 있는 [비손실 압축](https://ko.wikipedia.org/wiki/비손실_압축 "wikilink") 형식이다. GIF에 쓰인 [LZW](../Page/LZW.md "wikilink") 알고리즘에 대한 [특허](../Page/특허.md "wikilink")를 [유니시스](../Page/유니시스.md "wikilink") 사가 가지고 있다는 것이 알려지고, 또한 256 색의 제한에 한계를 느끼면서 [PNG](../Page/PNG.md "wikilink")라는 새로운 표준이 개발되었다.
 
-GIF는 지프()나 기프(), 또는 지아이에프로 읽는다. GIF 포맷의 저자는 **지프**로 읽는다고 밝혔으나\[1\], 기프라는 발음도 계속 쓰이고 있다.
+GIF는 지프()나 기프(), 또는 지아이에프로 읽는다. GIF 포맷의 저자는 **지프**로 읽는다고 밝혔으나\[1\], 기프라는 발음도 계속 쓰이고 있다. Rotating earth (large).gif 사람들은 GIF를 움짤 이라고 부르기도 한다
 
 ## 유니시스와 LZW 특허
 
@@ -195,6 +195,7 @@ FFFh</p></td>
 ## 같이 보기
 
   - [소프트웨어 특허](https://ko.wikipedia.org/wiki/소프트웨어_특허 "wikilink")
+  - [사진](../Page/사진.md "wikilink")
 
 ## 각주
 

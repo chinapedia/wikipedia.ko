@@ -1,7 +1,9 @@
 > This article is converted from Wikipedia: [God \(음악 그룹\)](https://ko.wikipedia.org/wiki/God_\(음악_그룹\)).
 
 
-**god**(지오디, **g**roove **o**ver **d**ose)는 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹이다.\[1\]\[2\] 2000년 3집 음반 184만장,\[3\] 2001년 4집 음반 171만장 이상을 판매하고, 방송 3사 가요대상을 수상하는 등 국민그룹으로 불리며 최고의 전성기를 구가했다. '100일간의 휴먼 콘서트'라는 타이틀에 매일 다른 주제로 구성된 콘서트 100회를 전회 매진시키며 성공적으로 끝마쳐, 공연계의 한 획을 긋기도 했다. 2004년 [윤계상](../Page/윤계상.md "wikilink")의 탈퇴 이후 4인조로 활동하다 2005년 7집 '하늘 속으로' 를 끝으로 활동을 잠정 중단하고 각자 개인활동을 시작했다. 2012년 윤계상의 원테이블이라는 방송을 통하여 윤계상의 탈퇴 이후 첫 다섯명이 방송을 하게되었으며 2014년 데뷔 15주년이 되는 해에 5인조로 8집을 발매하여 다시 그룹 활동을 재기하였다. 2019년 데뷔 20주년 기념으로 THEN\&NOW 앨범을 발매하였다.
+**god**(지오디, **g**roove **o**ver **d**ose)는 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹이다.\[1\]\[2\] 2000년 3집 음반 184만장,\[3\] 그룹 이름은 "내 안의 또다른 나"라는 뜻을 담고 있다.
+
+2001년 4집 음반 171만장 이상을 판매하고, 방송 3사 가요대상을 수상하는 등 국민그룹으로 불리며 최고의 전성기를 구가했다. '100일간의 휴먼 콘서트'라는 타이틀에 매일 다른 주제로 구성된 콘서트 100회를 전회 매진시키며 성공적으로 끝마쳐, 공연계의 한 획을 긋기도 했다. 2004년 [윤계상](../Page/윤계상.md "wikilink")의 탈퇴 이후 4인조로 활동하다 2005년 7집 '하늘 속으로' 를 끝으로 활동을 잠정 중단하고 각자 개인활동을 시작했다. 2012년 윤계상의 원테이블이라는 방송을 통하여 윤계상의 탈퇴 이후 첫 다섯명이 방송을 하게되었으며 2014년 데뷔 15주년이 되는 해에 5인조로 8집을 발매하여 다시 그룹 활동을 재기하였다. 2019년 데뷔 20주년 기념으로 THEN\&NOW 앨범을 발매하였다.
 
 ## 구성원
 
@@ -378,7 +380,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2000년 (총 19회)</p></td>
+<td><p>2000년 (총 20회)</p></td>
 <td><ul>
 <li>'''사랑해 그리고 기억해 (총 2회)
 <ul>
@@ -388,14 +390,15 @@
 <li>'''애수 (총 5회)
 <ul>
 <li>3월 5일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
-<li>3월 7일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 1위</li>
 <li>3월 12일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
-<li>3월 14일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 1위 (2주 연속)</li>
+<li>3월 14일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 1위</li>
 <li>3월 19일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위 (트리플 크라운)</li>
+<li>3월 14일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 1위 (2주 연속)</li>
 </ul></li>
-<li>'''Friday Night (총 3회)
+<li><strong>Friday Night (총 4회)</strong>
 <ul>
 <li>4월 9일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
+<li>4월 11일 <a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》1위</li>
 <li>4월 16일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위</li>
 <li>4월 23일 <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 1위 (트리플 크라운)</li>
 </ul></li>
@@ -505,8 +508,6 @@
   - [박진영](../Page/박진영.md "wikilink")
 
 ## 각주
-
-우리엄마가 좋아함
 
 ## 외부 링크
 

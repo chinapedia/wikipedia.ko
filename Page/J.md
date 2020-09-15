@@ -14,12 +14,13 @@
 
 ## 이름
 
-j를 [경구개 접근음](https://ko.wikipedia.org/wiki/경구개_접근음 "wikilink") ()로 발음하는 언어에서는 j를 '요트'(jot, [독일어](../Page/독일어.md "wikilink")), '요드'(jod, [노르웨이어](../Page/노르웨이어.md "wikilink")), '예'(jé, [체코어](../Page/체코어.md "wikilink")) 등으로 부른다.
+j를 [경구개 접근음](https://ko.wikipedia.org/wiki/경구개_접근음 "wikilink") ()으로 발음하는 언어에서는 j를 '요트'(jot, [독일어](../Page/독일어.md "wikilink")), '요드'(jod, [노르웨이어](../Page/노르웨이어.md "wikilink")), '예'(jé, [체코어](../Page/체코어.md "wikilink")) 등으로 부른다.
 
 ## 컴퓨터 부호
 
 ## 쓰임
 
+  - J는 에너지 단위로 쓰이며, '줄'이라고 읽는다.
   - j는 [국제음성기호](https://ko.wikipedia.org/wiki/국제음성기호 "wikilink")에서 [경구개 접근음을](https://ko.wikipedia.org/wiki/경구개_접근음 "wikilink") 나타낸다.
 
 ## 관련 문자

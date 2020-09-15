@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ECMA스크립트](https://ko.wikipedia.org/wiki/ECMA스크립트).
 
 
-**ECMA스크립트**(ECMAScript, 또는 ES\[1\])는 [Ecma 인터내셔널의](../Page/Ecma_인터내셔널.md "wikilink") **ECMA-262** 기술 규격에 정의된 표준화된 [스크립트 프로그래밍 언어이다](https://ko.wikipedia.org/wiki/스크립트_프로그래밍_언어 "wikilink"). [자바스크립트](../Page/자바스크립트.md "wikilink")를 표준화하기 위해 만들어졌고 지금도 자바스크립트가 제일 잘 알려져 있지만, [액션스크립트](../Page/액션스크립트.md "wikilink")와 [J스크립트](../Page/J스크립트.md "wikilink") 등 다른 구현체도 포함하고 있다.\[2\] ECMA스크립트는 [웹의](../Page/월드_와이드_웹.md "wikilink") 클라이언트 사이드 스크립트로 많이 사용되며 [Node.js](../Page/Node.js.md "wikilink")를 사용한 서버 응용 프로그램 및 서비스에도 점차 많이 쓰이고 있다.
+**ECMA스크립트**(ECMAScript, 또는 ES\[1\])란, [Ecma International이](../Page/Ecma_인터내셔널.md "wikilink") **ECMA-262** 기술 규격에 따라 정의하고 있는 표준화된 [스크립트 프로그래밍 언어를](https://ko.wikipedia.org/wiki/스크립트_프로그래밍_언어 "wikilink") 말한다. [자바스크립트](../Page/자바스크립트.md "wikilink")를 표준화하기 위해 만들어졌다. [액션스크립트](../Page/액션스크립트.md "wikilink")와 [J스크립트](../Page/J스크립트.md "wikilink") 등 다른 구현체도 포함하고 있다.\[2\] ECMA스크립트는 [웹의](../Page/월드_와이드_웹.md "wikilink") 클라이언트 사이드 스크립트로 많이 사용되며 [Node.js](../Page/Node.js.md "wikilink")를 사용한 서버 응용 프로그램 및 서비스에도 점차 많이 쓰이고 있다.
 
 ## 역사
 

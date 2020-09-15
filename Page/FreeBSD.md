@@ -9,7 +9,7 @@ FreeBSD는 BSD 유닉스로 알려진 [캘리포니아 대학교 버클리](../P
 
 기본적으로 32비트 [x86](https://ko.wikipedia.org/wiki/x86 "wikilink") 프로세서(IA-32) 기반 i386 플랫폼을 중심으로 개발되고 있으며 현재 64비트 확장판 [AMD64](https://ko.wikipedia.org/wiki/AMD64 "wikilink")(x86-64)을 비롯하여 [NEC PC-98](https://ko.wikipedia.org/wiki/NEC_PC-98 "wikilink"), 64비트 프로세서 [인텔](../Page/인텔.md "wikilink") [아이테니엄](../Page/아이테니엄.md "wikilink")(IA-64), [SPARC](../Page/SPARC.md "wikilink"), [파워PC](../Page/파워PC.md "wikilink"), [DEC 알파](../Page/DEC_알파.md "wikilink") [아키텍처](https://ko.wikipedia.org/wiki/아키텍처 "wikilink")를 지원하며(단, FreeBSD 7부터 [DEC Alpha](../Page/DEC_알파.md "wikilink") 프로세서 제외), 아울러 [ARM](../Page/ARM_아키텍처.md "wikilink"), [MIPS](https://ko.wikipedia.org/wiki/MIPS_아키텍처 "wikilink") 프로세서와 [MS](../Page/마이크로소프트.md "wikilink") [Xbox](https://ko.wikipedia.org/wiki/Xbox "wikilink") 기종에 대한 개발이 진행되고 있다.
 
-FreeBSD 자체는 상용화되지는 않았으나, 안정적이고 튼튼한 운영 체제로 인정받으며 Walnut Creek CDROM(cdrom.com), [야후\!](../Page/야후!.md "wikilink"), [핫메일](../Page/핫메일.md "wikilink")(Hotmail)\[1\]\[2\] 등의 대형 인터넷 서비스에 사용되어 왔으며, 대한민국에서도 포털사이트 [드림위즈](https://ko.wikipedia.org/wiki/드림위즈 "wikilink")(www.dreamwiz.com), [세이클럽](https://ko.wikipedia.org/wiki/세이클럽 "wikilink")(www.sayclub.com) 등에 채용되었다.\[3\] 또한, 상용 제품인 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") Mac OS X의 코어 Darwin의 토대\[4\]이며, 마이크로소프트의 C\# 및 CLI 소스공유(Shared Source Initiative) 대상이다.\[5\]\[6\]
+FreeBSD 자체는 상용화되지는 않았으나, 안정적이고 튼튼한 운영 체제로 인정받으며 Walnut Creek CDROM(cdrom.com), [야후\!](../Page/야후!.md "wikilink"), [핫메일](../Page/핫메일.md "wikilink")(Hotmail)\[1\]\[2\] 등의 대형 인터넷 서비스에 사용되어 왔으며, 대한민국에서도 포털사이트 [드림위즈](https://ko.wikipedia.org/wiki/드림위즈 "wikilink")(www.dreamwiz.com), [세이클럽](https://ko.wikipedia.org/wiki/세이클럽 "wikilink")(www.sayclub.com) 등에 채용되었다.\[3\] 또한, 상용 제품인 [애플](../Page/애플.md "wikilink") Mac OS X의 코어 Darwin의 토대\[4\] 이며, 마이크로소프트의 C\# 및 CLI 소스공유(Shared Source Initiative) 대상이다.\[5\]\[6\]
 
 ## 역사
 
@@ -29,7 +29,7 @@ FreeBSD의 개발은 [1993년](../Page/1993년.md "wikilink")부터 4.3BSD Net/2
 
 [1995년 1월에](https://ko.wikipedia.org/wiki/1995년_1월 "wikilink") 발표된 FreeBSD 2.0은 4.4BSD를 기반으로 전면 재작성되어 [1995년 6월](https://ko.wikipedia.org/wiki/1995년_6월 "wikilink") 버전 2.0.5을 거쳐 [1998년 11월](https://ko.wikipedia.org/wiki/1998년_11월 "wikilink") 버전 2.1.7.1과 버전 2.2.8로 완료되었다. 가장 큰 향상은 [CMU의](https://ko.wikipedia.org/wiki/카네기_멜론_대학교 "wikilink") [Mach](https://ko.wikipedia.org/wiki/Mach "wikilink") 가상 메모리 시스템을 개선하여 과부하 상태에서도 안정적인 성능을 유지하도록 최적화되었고, 포트(port) 시스템이 도입되어 서드파티 소프트웨어의 설치 및 관리의 편의를 제공한다.
 
-FreeBSD 3.0은 [1998년 10월에](https://ko.wikipedia.org/wiki/1998년_10월 "wikilink") 발표되어 [2000년 7월](https://ko.wikipedia.org/wiki/2000년_7월 "wikilink") 버전 3.5.1로 마무리되었는데, [ELF 바이너리 포맷으로](https://ko.wikipedia.org/wiki/ELF_바이너리_포맷 "wikilink") 전환, [대칭형 다중 프로세서](https://ko.wikipedia.org/wiki/대칭형_다중_프로세서 "wikilink")(SMP) 시스템 지원, 새로운 64비트 플랫폼 [DEC Alpha](https://ko.wikipedia.org/wiki/DEC_Alpha "wikilink") 지원 등의 변화가 있었다. 비록 확실한 기능상의 이점도 성능 향상도 가져오지 못했다는 비판도 있었으나, [1995년 6월에](https://ko.wikipedia.org/wiki/1995년_6월 "wikilink") 완성된 BSD Unix의 최종 결과물 4.4BSD-Lite2까지 흡수\[11\]하며 이전의 여러 개발 성과들을 총괄하여, 향후 FreeBSD 4에서의 도약을 위한 토대가 되었다.
+FreeBSD 3.0은 [1998년 10월에](https://ko.wikipedia.org/wiki/1998년_10월 "wikilink") 발표되어 [2000년 7월](https://ko.wikipedia.org/wiki/2000년_7월 "wikilink") 버전 3.5.1로 마무리되었는데, [ELF 바이너리 포맷으로](https://ko.wikipedia.org/wiki/ELF_바이너리_포맷 "wikilink") 전환, [대칭형 다중 프로세서](https://ko.wikipedia.org/wiki/대칭형_다중_프로세서 "wikilink")(SMP) 시스템 지원, 새로운 64비트 플랫폼 [DEC Alpha](https://ko.wikipedia.org/wiki/DEC_Alpha "wikilink") 지원 등의 변화가 있었다. 비록 확실한 기능상의 이점도 성능 향상도 가져오지 못했다는 비판도 있었으나, [1995년 6월에](https://ko.wikipedia.org/wiki/1995년_6월 "wikilink") 완성된 BSD Unix의 최종 결과물 4.4BSD-Lite2까지 흡수\[11\] 하며 이전의 여러 개발 성과들을 총괄하여, 향후 FreeBSD 4에서의 도약을 위한 토대가 되었다.
 
 [2000년 3월에는](https://ko.wikipedia.org/wiki/2000년_3월 "wikilink") FreeBSD를 후원하던 Walnut Creek CDROM과 BSD/OS의 개발사 BSDi가 합병하였다.\[12\]\[13\] 이 결과, 원래 CSRG의 BSD 개발자들이었던 BSDi의 개발진이 FreeBSD에 합류하여 BSD/OS와 FreeBSD의 코드를 통합한 오픈 소스 FreeBSD 개발을 지속하고, BSD/OS는 이를 바탕으로 비공개 드라이버 등 상업용 구성 요소를 추가하고 상업적 기술 지원을 제공하는 상용 제품으로 추진하는 방안이 모색되었다.\[14\]\[15\]
 
@@ -320,7 +320,7 @@ FreeBSD/ia64는 인텔 아이태니엄(Itanium) [IA-64](https://ko.wikipedia.org
 
 #### DEC 알파 아키텍처
 
-FreeBSD/alpah는 DEC 알파 프로세서 기반 시스템을 지원한다. FreeBSD 3.3\[24\] 및 FreeBSD 4.1\[25\]부터 지원되었으나 알파 기종의 단종에 따라 FreeBSD 7부터는 개발이 중단되었다.\[26\]
+FreeBSD/alpah는 DEC 알파 프로세서 기반 시스템을 지원한다. FreeBSD 3.3\[24\] 및 FreeBSD 4.1\[25\] 부터 지원되었으나 알파 기종의 단종에 따라 FreeBSD 7부터는 개발이 중단되었다.\[26\]
 
 #### SUN UltraSparc 아키텍처
 
@@ -412,13 +412,13 @@ FreeBSD 프로젝트를 후원하기 위한 비영리 단체로 FreeBSD 재단([
 
 FreeBSD는 다른 BSD계열 운영 체제와 마찬가지로 기본적으로 BSD 라이선스를 따르고 있으나, 최종 배포본 구성에서는 외부 개발 코드도 사용되므로 전체적으로는 다양한 [라이선스](https://ko.wikipedia.org/wiki/라이선스 "wikilink")가 적용되어 있다.
 
-거의 대부분을 차지하는 비교적 새로 짜인 기본 코드는 FreeBSD 라이선스\[35\]가 적용되는데, 이것은 두 조항으로 구성된 BSD 사용 허가서로서 저작권 명시와 보증 부인 및 면책 선언을 유지하는 조건으로 자유로운 수정 및 재배포가 허락된다.
+거의 대부분을 차지하는 비교적 새로 짜인 기본 코드는 FreeBSD 라이선스\[35\] 가 적용되는데, 이것은 두 조항으로 구성된 BSD 사용 허가서로서 저작권 명시와 보증 부인 및 면책 선언을 유지하는 조건으로 자유로운 수정 및 재배포가 허락된다.
 
 그 밖에 외부 코드는 대부분 BSD 계열 라이선스나 [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink") 또는 [LGPL](https://ko.wikipedia.org/wiki/LGPL "wikilink")을 따르고 있다.
 
 ### 로고와 마스코트
 
-초기 FreeBSD 로고는 ‘Beastie’라는 애칭의 BSD 데몬(BSD Daemon)을 그대로 사용했다. 4.2BSD부터 사용된 BSD의 로고 BSD 데몬은 다른 이름은 갖지 않는다. 현재 BSD 데몬의 저작권은 4.4BSD의 개발자였던 마셜 커크(Marshall Kirk McKusick)가 소유하고 있다.\[36\] 여기에는 여러 가지 도안이 존재하는데 가장 널리 알려진 것은 애니메이션 “토이 스토리(Toy Story)”의 작가 존 라세터(John Alan Lasseter)의 작품이다. FreeBSD에 특화된 도안으로는 [호소카와 타츠미의 도안](http://fromto.cc/hosokawa/gallery/)이 사용되다가,\[37\] 2005년에 새로운 로고를 공모하여 2005년 10월 8일 Anton K. Gural의 디자인이 채택되었고,\[38\] 예전의 [BSD 데몬은](../Page/BSD_데몬.md "wikilink") FreeBSD의 마스코트로 남게 되었다.
+초기 FreeBSD 로고는 ‘Beastie’라는 애칭의 BSD 데몬(BSD Daemon)을 그대로 사용했다. 4.2BSD부터 사용된 BSD의 로고 BSD 데몬은 다른 이름은 갖지 않는다. 현재 BSD 데몬의 저작권은 4.4BSD의 개발자였던 마셜 커크(Marshall Kirk McKusick)가 소유하고 있다.\[36\] 여기에는 여러 가지 도안이 존재하는데 가장 널리 알려진 것은 애니메이션 “토이 스토리(Toy Story)”의 작가 존 라세터(John Alan Lasseter)의 작품이다. FreeBSD에 특화된 도안으로는 [호소카와 타츠미의 도안](https://web.archive.org/web/20070625050606/http://fromto.cc/hosokawa/gallery/) 이 사용되다가,\[37\] 2005년에 새로운 로고를 공모하여 2005년 10월 8일 Anton K. Gural의 디자인이 채택되었고,\[38\] 예전의 [BSD 데몬은](../Page/BSD_데몬.md "wikilink") FreeBSD의 마스코트로 남게 되었다.
 
 FreeBSD의 슬로건은 ‘The Power to Serve’이다.
 
@@ -430,7 +430,7 @@ FreeBSD의 슬로건은 ‘The Power to Serve’이다.
 
   - [《About FreeBSD》. 최준호, 김승영, 오준선, 편용헌. (주)영진닷컴, 2000.](https://web.archive.org/web/20100704213117/http://www.kr.freebsd.org/doc/aboutfreebsd/) (절판)
   - [《클릭하세요 FreeBSD》. 최성, 이영옥. 도서출판 대림, 2005.](https://web.archive.org/web/20120111072055/http://www.drbook.co.kr/new_20050605/books/view.asp?ISBN=8972807184)
-  - [《오픈 소스 BSD 돌아온 전설》. Michael W. Lucas 저. 이정문, 신승현 역. 에이콘출판사, 2003.](http://www.acornpub.co.kr/book/open-bsd/) (번역판: 원제 *Absolute BSD*. 2002.)
+  - [《오픈 소스 BSD 돌아온 전설》. Michael W. Lucas 저. 이정문, 신승현 역. 에이콘출판사, 2003.](https://web.archive.org/web/20071103012444/http://www.acornpub.co.kr/book/open-bsd) (번역판: 원제 *Absolute BSD*. 2002.)
 
 ### 영문 출판본
 
@@ -451,12 +451,12 @@ FreeBSD의 슬로건은 ‘The Power to Serve’이다.
   - [*FreeBSD Handbook*. The FreeBSD Documentation Project. 2008.](http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/)
   - [*FreeBSD Developers' Handbook*. The FreeBSD Documentation Project. 2006.](http://www.freebsd.org/doc/en_US.ISO8859-1/books/developers-handbook/)
   - [*FreeBSD Architecture Handbook*. The FreeBSD Documentation Project. 2006.](http://www.freebsd.org/doc/en_US.ISO8859-1/books/arch-handbook/)
-  - [*The Complete FreeBSD*. Greg Lehey. 2006.](http://www.lemis.com/grog/Documentation/CFBSD/)
+  - [*The Complete FreeBSD*. Greg Lehey. 2006.](https://web.archive.org/web/20071126130421/http://www.lemis.com/grog/Documentation/CFBSD/)
 
 ## 참고문헌
 
   - 《about FreeBSD》. 최준호, 김승영, 오준선, 편용헌. (주)영진닷컴, 2000.
-  - 《오픈 소스》. 송창훈, 이기동, 이만용, 최준호. 한빛미디어(주), 2000. [1](http://www.hanb.co.kr/look.php?isbn=89-7914-069-X)
+  - 《오픈 소스》. 송창훈, 이기동, 이만용, 최준호. 한빛미디어(주), 2000. [1](https://web.archive.org/web/20071030235321/http://www.hanb.co.kr/look.php?isbn=89-7914-069-X)
   - 《한글 FreeBSD 핸드북》. 이영옥 역, 김승영 편. KFUG, 2005. [2](https://web.archive.org/web/20071112120256/http://www.kr.freebsd.org/doc/KoreanFreeBSDHandbook/)
   - *FreeBSD 6 UNLEASHED*. Brian Tiemann. SAMS Publishing, 2006.
   - *FreeBSD Handbook*. The FreeBSD Documentation Project. 2008. [3](http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/)
@@ -466,13 +466,10 @@ FreeBSD의 슬로건은 ‘The Power to Serve’이다.
   - [〈버클리 유닉스의 20년〉, Marshall Kirk McKusick, 최준호 역. 《오픈 소스》(PDF판). 한빛미디어, 2000.](http://www.hanb.co.kr/download/opensource/opensource02.pdf)
   - [〈왜 FreeBSD인가?〉, Frank Pohlmann. 《IBM developerWorks》(한국판). IBM, 2005.](http://www.ibm.com/developerworks/kr/library/os-freebsd/)
   - [〈Yahoo\!와 FreeBSD〉, David Filo, 김승영 역. 1999.](https://web.archive.org/web/20080511180603/http://www.kr.freebsd.org/doc/yahoo_and_freebsd/)
-  - [〈전 세계 역사상 가장 위대한 소프트웨어〉, 《컴퓨터월드》, 2006년 11월호.](http://www.itdaily.kr/news/articleView.html?idxno=5415)
-
-<!-- end list -->
-
+  - [〈전 세계 역사상 가장 위대한 소프트웨어〉, 《컴퓨터월드》, 2006년 11월호.](https://web.archive.org/web/20101127134541/http://itdaily.kr/news/articleView.html?idxno=5415)
   - ["Twenty Years of Berkeley Unix", Marshall Kirk McKusick. *Open Sources*. O'Reilly Media, 1999.](http://www.oreilly.com/catalog/opensources/book/kirkmck.html)
   - ["The FreeBSD System", *Operating Systems Concepts* (6th edn.). Abraham Silberschatz, Peter Baer Galvin. Greg Gagne. John Wiley & Sons, 2001.](http://www.wiley.com/college/silberschatz6e/0471417432/pdf/bsd.pdf)
-  - ["Why FreeBSD", Frank Pohlmann. *IBM developerWorks*. IBM, 2005.](http://www-128.ibm.com/developerworks/opensource/library/os-freebsd/)
+  - ["Why FreeBSD", Frank Pohlmann. *IBM developerWorks*. IBM, 2005.](https://web.archive.org/web/20071028134530/http://www-128.ibm.com/developerworks/opensource/library/os-freebsd/)
   - ["What's The Greatest Software Ever Written?", Charles Babcock. *InformationWeek*, 2006-09-14.](http://www.informationweek.com/research/showArticle.jhtml?articleID=191901844)
 
 ## 각주

@@ -3,7 +3,7 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:Agm-154a.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:JSOW-C_ACF1D.jpg "wikilink")
 
-**AGM-154 JSOW(Joint Standoff Weapon**은 유도 폭탄과 공대지 미사일의 중간에 위치하는 폭탄이다. 이 폭탄은 동력을 사용하지는 않으나 발사 후에 폭탄 상부에 접혀져 있던 날개를 펼쳐서 장거리를 활공하여 목표를 명중시키는 방식이다.
+**AGM-154 JSOW**()은 유도 폭탄과 공대지 미사일의 중간에 위치하는 폭탄이다. 이 폭탄은 동력을 사용하지는 않으나 발사 후에 폭탄 상부에 접혀져 있던 날개를 펼쳐서 장거리를 활공하여 목표를 명중시키는 방식이다.
 
 활공거리는 고도에 따라 다르지만 15해리 \~ 40해리 정도 가능하다. 유도 시스템은 [관성항법](https://ko.wikipedia.org/wiki/관성항법 "wikilink")과 [GPS](../Page/GPS.md "wikilink")를 사용하는 하이브리드 방식이다. 탄두는 3가지를 옵션으로 사용할 수 있다.
 

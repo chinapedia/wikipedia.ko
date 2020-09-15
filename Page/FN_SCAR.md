@@ -3,17 +3,17 @@
 
 **FN SCAR**는 [미군](../Page/미군.md "wikilink")의 SCAR(**S**pecial Operations Forces **C**ombat **A**ssault **R**ifle) 프로그램의 요구사항에 맞추어 [파브리크 나시오날 드 에르스탈사가](https://ko.wikipedia.org/wiki/파브리크_나시오날_드_에르스탈 "wikilink") 개발, 생산하는 [돌격소총](../Page/돌격소총.md "wikilink"), [전투소총](../Page/전투소총.md "wikilink"), [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink") 시스템이다. FN SCAR은 [미군](../Page/미군.md "wikilink")을 위해 개발되었으며 [M4](../Page/M4_카빈.md "wikilink"), [CQBR](https://ko.wikipedia.org/wiki/CQBR "wikilink"), [Mk 12 SPR](https://ko.wikipedia.org/wiki/Mk_12_SPR "wikilink"), [M16시리즈](../Page/M16_소총.md "wikilink"), [SR25](https://ko.wikipedia.org/wiki/SR25 "wikilink")를 대체할 예정이다.
 
-다양한 변형이 있지만 크게 **SCAR-L**(Mk 16 Mod 0)과 **SCAR-H**(Mk 17 Mod 0)로 구분된다. SCAR-L은 [5.56 × 45 mm NATO탄을](../Page/5.56_×_45_mm_NATO.md "wikilink") 사용하며, SCAR-H는 [7.62 × 51 mm NATO탄을](../Page/7.62_×_51_mm_NATO.md "wikilink") 사용한다. 두 모델은 처음부터 모듈시스템을 염두에 두고 설계하였기 때문에, SCAR-L과 SCAR-H는 약 90%의 부품이 호환되어 총의 변형이 매우 쉽다.
+다양한 변형이 있지만 크게 **SCAR-L**(Mk 16 Mod 0)과 **SCAR-H**(Mk 17 Mod 0)로 구분된다. SCAR-L은 [5.56 × 45 mm NATO탄을](../Page/5.56_×_45_mm_NATO.md "wikilink") 사용하며, SCAR-H는 [7.62 × 51 mm NATO탄을](../Page/7.62_×_51_mm_NATO.md "wikilink") 사용한다. 두 모델은 처음부터 모듈시스템 을 염두에 두고 설계하였기 때문에, SCAR-L과 SCAR-H는 약 90%의 부품이 호환되어 [총](../Page/총.md "wikilink")의 변형이 매우 쉽다.
 
 SCAR은 [2007년](../Page/2007년.md "wikilink") [6월](../Page/6월.md "wikilink")에 초기 생산 테스트를 마쳤다. 몇 가지의 연기가 있은 후에, [2009년](../Page/2009년.md "wikilink") [4월](../Page/4월.md "wikilink")에 처음으로 생산된 소총이 실전 군인들을 위해 지급되기 시작했다. 그리고 [2009년](../Page/2009년.md "wikilink")에 [미국](../Page/미국.md "wikilink")의 75 레인져 부대가 이 소총 600개를 실전에 배치할 첫 대부대가 될 전망이다.
 
-그러나 2010년 6월, 미국 특수전투사령부(USSOCOM)에서 Mk.16 Mod 0(SCAR-L)의 도입을 취소, 현재는 Mk.17 Mod 0만 쓰고 있는 상황이다.
+그러나 2010년 6월, [미국](../Page/미국.md "wikilink")특수전투사령부(USSOCOM)에서 Mk.16 Mod 0(SCAR-L)의 도입을 취소, 현재는 Mk.17 Mod 0만 쓰고 있는 상황이다.
 
 ## 개요
 
-SCAR은 두개의 구경으로, 중/단거리 전투버전이 있다. 이것이 2003년에 시작한 특수부대들의 새 총을 찾기 위한 "US SOCOM 대회"에서 승리를 거두게 해 주었다. (다른 경쟁자로서는 [콜트](https://ko.wikipedia.org/wiki/콜트 "wikilink")사와 [로빈슨 암즈 XCR이](https://ko.wikipedia.org/wiki/Robinson_Arms_XCR "wikilink") 있다.) [HK사가](https://ko.wikipedia.org/wiki/Heckler_&_Koch "wikilink") [XM8 소총을](https://ko.wikipedia.org/wiki/XM8_소총 "wikilink") 미국 육군의 [M4 카빈과](../Page/M4_카빈.md "wikilink") [M16 소총을](../Page/M16_소총.md "wikilink") 대체하기위해 개발되었지만 이 프로그램은 2005년 취소되고 말았다.
+SCAR은 두개의 구경으로, 중/단거리 전투버전이 있다. 이것이 2003년에 시작한 [특수부대](../Page/특수부대.md "wikilink")들의 새 총을 찾기 위한 "US SOCOM 대회"에서 승리를 거두게 해 주었다. (다른 경쟁자로서는 [콜트](https://ko.wikipedia.org/wiki/콜트 "wikilink")사와 [로빈슨 암즈 XCR이](https://ko.wikipedia.org/wiki/Robinson_Arms_XCR "wikilink") 있다.) [HK사가](https://ko.wikipedia.org/wiki/Heckler_&_Koch "wikilink") [XM8 소총을](https://ko.wikipedia.org/wiki/XM8_소총 "wikilink") 미국 육군의 [M4 카빈과](../Page/M4_카빈.md "wikilink") [M16 소총을](../Page/M16_소총.md "wikilink") 대체하기위해 개발되었지만 이 프로그램은 2005년 취소되고 말았다.
 
-SCAR은 두개의 버전으로 생산된다. 경량버전인 **SCAR-L**(Mk 16 Mod 0)은 [5.56 × 45mm NATO탄과](https://ko.wikipedia.org/wiki/5.56_×_45mm_NATO "wikilink") 함께 [M16 소총의](../Page/M16_소총.md "wikilink") 개량된 30발들이 [STANAG](https://ko.wikipedia.org/wiki/STANAG "wikilink") 탄창을 사용한다. 중량버전인 **SCAR-H**(Mk 17 Mod 0)은 파괴력이 강한 [7.62 × 51mm NATO탄과](https://ko.wikipedia.org/wiki/7.62_×_51mm_NATO "wikilink") 함께 새로 개발된 20발들이 전용탄창을 사용한다. 여러길이의 총열이 단거리전투와 장거리전투를 위해 개발되었다.
+SCAR은 두개의 버전으로 생산된다. 경량버전인 **SCAR-L**(Mk 16 Mod 0)은 [5.56 × 45mm NATO탄과](https://ko.wikipedia.org/wiki/5.56_×_45mm_NATO "wikilink") 함께 [M16 소총의](../Page/M16_소총.md "wikilink") 개량된 30발들이 [STANAG](https://ko.wikipedia.org/wiki/STANAG "wikilink") 탄창을 사용한다. 중량버전인 **SCAR-H**(Mk 17 Mod 0)은 [파괴력](https://ko.wikipedia.org/wiki/파괴력 "wikilink")이 강한 [7.62 × 51mm NATO탄과](https://ko.wikipedia.org/wiki/7.62_×_51mm_NATO "wikilink") 함께 새로 개발된 20발들이 전용탄창을 사용한다. 여러길이의 총열이 단거리전투와 장거리전투를 위해 개발되었다.
 
 SCAR-L용으로서 총 3개의 크고작은 길이의 총열들이 생산되었다
 
@@ -73,11 +73,11 @@ SCAR은 사우스 케롤라이나주 콜롬비아에 있는 FN Manufacturing LLC
 
   - **다음의 PC(콘솔 포함) 게임에 등장한다.**
 
-PLAYERUNKNOWN'S BATTLEGROUNDS(배틀그라운드), 톰 클랜시의 더 디비전 등
+PLAYERUNKNOWN'S BATTLEGROUNDS([배틀그라운드](https://ko.wikipedia.org/wiki/배틀그라운드 "wikilink")), 톰 클랜시의 더 디비전 등
 
   - **다음의 모바일 게임에 등장한다.**
 
-[스페셜솔져](https://ko.wikipedia.org/wiki/스페셜솔져 "wikilink"), 팬텀스트라이크 Bullet Force 등
+[스페셜솔져](https://ko.wikipedia.org/wiki/스페셜솔져 "wikilink"), [팬텀스트라이크](https://ko.wikipedia.org/wiki/팬텀스트라이크 "wikilink") Bullet Force 등
 
 ## 같이 보기
 

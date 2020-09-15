@@ -580,7 +580,7 @@
 </tbody>
 </table>
 
-## 관련 항목
+## 같이 보기
 
   - [경제협력개발기구](../Page/경제협력개발기구.md "wikilink") (OECD)
   - [국제수학과학교육연구](https://ko.wikipedia.org/wiki/국제수학과학교육연구 "wikilink") (TIMSS)

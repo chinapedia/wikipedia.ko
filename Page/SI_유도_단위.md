@@ -35,5 +35,3 @@
 style="font-size:larger;font-weight:bold;"|[SI](https://ko.wikipedia.org/wiki/SI "wikilink") 기본 단위로부터 유도된 단위
 
 [\*](https://ko.wikipedia.org/wiki/분류:SI_단위계 "wikilink") [SI_유도_단위](https://ko.wikipedia.org/wiki/분류:SI_유도_단위 "wikilink")
-
-[sv:SI-enhet\#Härledda enheter](https://ko.wikipedia.org/wiki/sv:SI-enhet#Härledda_enheter "wikilink")

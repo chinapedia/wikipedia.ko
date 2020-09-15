@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [평양FM방송](https://ko.wikipedia.org/wiki/평양FM방송).
 
 
-**평양FM방송**(平壤FM放送, )은 [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")의 유일한 [FM](../Page/FM_방송.md "wikilink") [라디오 방송국이다](https://ko.wikipedia.org/wiki/라디오_방송국 "wikilink"). [1989년](../Page/1989년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 개국했다.
+**평양FM방송**(平壤FM放送, )은 [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")의 유일하게 [FM](../Page/FM_방송.md "wikilink") 주파수로만 방송하는 [라디오 방송국이다](https://ko.wikipedia.org/wiki/라디오_방송국 "wikilink"). [1989년](../Page/1989년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 개국했다.
 
 ## 방송 시간
 

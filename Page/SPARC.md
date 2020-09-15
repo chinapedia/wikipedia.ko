@@ -775,7 +775,7 @@
 
   - [SPARC 인터내셔널](http://www.sparc.org/)
 
-[분류:마이크로프로세서](https://ko.wikipedia.org/wiki/분류:마이크로프로세서 "wikilink") [분류:오라클 코퍼레이션](https://ko.wikipedia.org/wiki/분류:오라클_코퍼레이션 "wikilink") [분류:후지쯔](https://ko.wikipedia.org/wiki/분류:후지쯔 "wikilink") [분류:64비트 컴퓨터](https://ko.wikipedia.org/wiki/분류:64비트_컴퓨터 "wikilink") [분류:32비트 컴퓨터](https://ko.wikipedia.org/wiki/분류:32비트_컴퓨터 "wikilink")
+[분류:마이크로프로세서](https://ko.wikipedia.org/wiki/분류:마이크로프로세서 "wikilink") [분류:오라클 코퍼레이션](https://ko.wikipedia.org/wiki/분류:오라클_코퍼레이션 "wikilink") [분류:후지쯔](https://ko.wikipedia.org/wiki/분류:후지쯔 "wikilink") [분류:64비트 컴퓨터](https://ko.wikipedia.org/wiki/분류:64비트_컴퓨터 "wikilink") [분류:32비트 컴퓨터](https://ko.wikipedia.org/wiki/분류:32비트_컴퓨터 "wikilink") [분류:명령어 집합 구조](https://ko.wikipedia.org/wiki/분류:명령어_집합_구조 "wikilink")
 
 1.  Various SPARC V7 implementations were produced by Fujitsu, [LSI Logic](https://ko.wikipedia.org/wiki/LSI_Logic "wikilink"), Weitek, Texas Instruments and Cypress. A SPARC V7 processor generally consisted of several discrete chips, usually comprising an Integer Unit (IU), a [Floating-Point Unit](https://ko.wikipedia.org/wiki/Floating-Point_Unit "wikilink") (FPU), a [Memory Management Unit](https://ko.wikipedia.org/wiki/Memory_Management_Unit "wikilink") (MMU) and 캐시 memory.
 2.

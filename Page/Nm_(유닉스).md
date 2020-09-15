@@ -100,6 +100,6 @@ C++ 컴파일러를 사용하면 출력은 아래와 같이 다르다:
 ## 외부 링크
 
   - [(영문) [맨페이지](https://ko.wikipedia.org/wiki/맨페이지 "wikilink")의 설명](http://www.linuxmanpages.com/man1/nm.1.php)
-  - [nm 활용](http://kldp.org/node/68410)
+  - [nm 활용](https://web.archive.org/web/20070930015621/http://kldp.org/node/68410)
 
 [분류:유닉스 프로그래밍 도구](https://ko.wikipedia.org/wiki/분류:유닉스_프로그래밍_도구 "wikilink") [분류:유닉스 SUS2008 유틸리티](https://ko.wikipedia.org/wiki/분류:유닉스_SUS2008_유틸리티 "wikilink")

@@ -45,6 +45,6 @@
 ## 외부 링크
 
   - [소개](https://web.archive.org/web/20050905102411/http://www.hanasoft.com.cn/frmMain.html?PageID=Work&SubjectID=CJK_IME)
-  - [KRISTAL](http://www.kristalinfo.com/download/): 현재 이 페이지의 하단에서 다운로드가 가능하다.
+  - [KRISTAL](https://web.archive.org/web/20140103235553/http://www.kristalinfo.com/download/): 현재 이 페이지의 하단에서 다운로드가 가능하다.
 
 [분류:입력기](https://ko.wikipedia.org/wiki/분류:입력기 "wikilink")

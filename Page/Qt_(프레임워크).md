@@ -141,11 +141,17 @@ int main(int argc, char *argv[])
 
 ## 외부 링크
 
-  - [Qt 홈페이지](http://www.qt.io/)
+  -
 
   - [Qt Wiki홈페이지](https://wiki.qt.io/Main/ko)
 
   - [Qt 홈페이지](http://www.qtsoftware.com/title-ko?set_language=ko&cl=ko)
+
+  - [유튜브](https://www.youtube.com/c/QtStudios/featured)
+
+  - [인스타그램](https://www.instagram.com/theqtcompany/)
+
+  - [페이스북](https://www.facebook.com/qt/)
 
 [분류:KDE](https://ko.wikipedia.org/wiki/분류:KDE "wikilink") [분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:위젯 툴킷](https://ko.wikipedia.org/wiki/분류:위젯_툴킷 "wikilink") [분류:1992년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1992년_소프트웨어 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink") [분류:LGPL 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:LGPL_라이선스_소프트웨어 "wikilink") [분류:자유 라이브러리](https://ko.wikipedia.org/wiki/분류:자유_라이브러리 "wikilink")
 

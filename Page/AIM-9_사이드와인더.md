@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AIM-9 사이드와인더](https://ko.wikipedia.org/wiki/AIM-9_사이드와인더).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Aim-9l.jpg "wikilink") **AIM-9 사이드와인더**는 미국에서 개발된 대표적인 단거리 [공대공 미사일이다](https://ko.wikipedia.org/wiki/공대공_미사일 "wikilink").
+[섬네일](https://ko.wikipedia.org/wiki/파일:Aim-9l.jpg "wikilink") **AIM-9 사이드와인더**()는 미국에서 개발된 대표적인 단거리 [공대공 미사일이다](https://ko.wikipedia.org/wiki/공대공_미사일 "wikilink").
 
 미국제 전투기는 대부분 기본 무장으로 탑재할 수 있고, 대개 주익 끝 파일런에 장착한다. 유도 방식은 적외선 유도 방식이다.
 

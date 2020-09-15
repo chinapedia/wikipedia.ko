@@ -59,7 +59,7 @@
 
 ## 일반 시장 출시
 
-2007년 12월말까지 [Give One Get One](http://www.laptop.org/) 프로그램에 의해서 일반인도 구입할 수 있다. 다만, 이것은 상용 판매는 아니고 [OLPC](../Page/OLPC.md "wikilink") 프로젝트 후원의 일종으로 2대를 주문하여 1대는 개발도상국 어린이에게 보내지는 방식이다.
+2007년 12월말까지 [Give One Get One](http://www.laptop.org/) 프로그램에 의해서 일반인도 구입할 수 있으나 상용으로 팔지 않고 [OLPC](../Page/OLPC.md "wikilink") 프로젝트 후원의 일종으로 2대를 주문하여 1대는 개발도상국 어린이에게 보내지는 방식이다.
 
 ## 같이 보기
 

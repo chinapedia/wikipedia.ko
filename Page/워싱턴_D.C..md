@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [워싱턴 D.C.](https://ko.wikipedia.org/wiki/워싱턴_D.C.).
 
 
-**워싱턴 D.C.**((District of Columbia), )는 [미국](../Page/미국.md "wikilink")의 [수도](../Page/수도.md "wikilink")다. 정식 명칭은 **컬럼비아 특별구**()이다. [조지 워싱턴과](../Page/조지_워싱턴.md "wikilink") [크리스토퍼 콜럼버스에서](../Page/크리스토퍼_콜럼버스.md "wikilink") 이름을 가져왔다. 미국 어느 [50개 주에도](../Page/미국의_주.md "wikilink") 속하지 않는 독립 행정 구역이다. 좁지만, 국제적으로 막강한 정치적 영향력 있는 세계 도시이며, 금융 센터로서도 중요성 높다. 수도로서 기능하도록 디자인한 계획도시다.
+**워싱턴 D.C.**((District of Columbia), )는 [미국](../Page/미국.md "wikilink")의 [수도](../Page/수도.md "wikilink")다. 정식 명칭은 **컬럼비아 구**()이다. [조지 워싱턴과](../Page/조지_워싱턴.md "wikilink") [크리스토퍼 콜럼버스에서](../Page/크리스토퍼_콜럼버스.md "wikilink") 이름을 가져왔다. 미국 어느 [50개 주에도](../Page/미국의_주.md "wikilink") 속하지 않는 독립 행정 구역이다. 좁지만, 국제적으로 막강한 정치적 영향력 있는 세계 도시이며, 금융 센터로서도 중요성 높다. 수도로서 기능하도록 디자인한 계획도시다.
 
 워싱턴 D.C.는 [포토맥 강](https://ko.wikipedia.org/wiki/포토맥_강 "wikilink") 북쪽 유역에 자리 잡고 있으며, 남서쪽으로 [버지니아주](../Page/버지니아주.md "wikilink")와 다른 쪽으로는 [메릴랜드주](../Page/메릴랜드주.md "wikilink")와 경계를 맞대고 있다. [1790년](../Page/1790년.md "wikilink") [조지 워싱턴](../Page/조지_워싱턴.md "wikilink") 대통령이 이곳을 수도로 정하고, 프랑스의 피에르 샤를 랑팡을 초청하여 새 수도 설계를 의뢰하였다. 현재 잘 정비한 시원한 거리는 피에르 랑팡의 설계를 골격으로 하여 이어받은 것이다.\[1\] 이 구역의 인구는 693,972명인데, 주변 교외 지역에서 드나드는 통근자를 고려하면 주중 인구는 백만이 넘는다. 컬럼비아 구역을 포괄하는 [워싱턴 대도시권의](https://ko.wikipedia.org/wiki/워싱턴_대도시권 "wikilink") 인구는 613만 명으로, 미국의 대도시권 가운데 6번째로 큰 규모이다.
 
@@ -9,7 +9,7 @@
 
 워싱턴 D.C는 원래 컬럼비아 영역의 개별 지자체였는데 [1871년 의회법으로](https://ko.wikipedia.org/wiki/1871년_의회법 "wikilink") 도시와 이 영토를 컬럼비아 구역이라는 하나의 단위로 합병하였다. 이 도시의 법적 명칭이 '컬럼비아 구역'인 것은 바로 이 때문이다. 그 이전의 수도는 [뉴욕](../Page/뉴욕.md "wikilink")이었다. 도시의 이름은 [미국 독립 전쟁의](../Page/미국_독립_전쟁.md "wikilink") 지도자이자 [초대 대통령인](../Page/미국의_대통령.md "wikilink") [조지 워싱턴의](../Page/조지_워싱턴.md "wikilink") 이름에서 따온 것이다.
 
-[워싱턴 기념탑](https://ko.wikipedia.org/wiki/워싱턴_기념탑 "wikilink")(555[피트](../Page/피트.md "wikilink"), 약 169.3m)의 높이 이상으로 건축물을 건설하지 못하도록 하여, [뉴욕](../Page/뉴욕.md "wikilink")와 달리 [초고층 건물이](https://ko.wikipedia.org/wiki/초고층_건물 "wikilink") 드물다. [백악관](../Page/백악관.md "wikilink"), [펜타곤](../Page/펜타곤.md "wikilink"), 연방 의사당 등 미국의 주요 정부 기관이 있다. 정식 연방주가 아니므로 상원 의석은 없으나, 표결권이 없는 [미국 하원 파견대표](../Page/미국_하원_파견대표.md "wikilink") 1명 ([2019년](../Page/2019년.md "wikilink") 현재 [민주당의](https://ko.wikipedia.org/wiki/미국_민주당 "wikilink") Eleanor Holmes Norton의원)과 대통령선거인단 3표를 확보하고 있다.
+[워싱턴 기념탑](https://ko.wikipedia.org/wiki/워싱턴_기념탑 "wikilink")(555[피트](../Page/피트.md "wikilink"), 약 169.3m)의 높이 이상으로 건축물을 건설하지 못하도록 하여, [뉴욕](../Page/뉴욕.md "wikilink")과는 달리 [초고층 건물이](https://ko.wikipedia.org/wiki/초고층_건물 "wikilink") 드물다. [백악관](../Page/백악관.md "wikilink"), [펜타곤](../Page/펜타곤.md "wikilink"), 연방 의사당 등 미국의 주요 정부 기관이 있다. 정식 연방주가 아니므로 상원 의석은 없으나, 표결권이 없는 [미국 하원 파견대표](../Page/미국_하원_파견대표.md "wikilink") 1명 ([2019년](../Page/2019년.md "wikilink") 현재 [민주당의](https://ko.wikipedia.org/wiki/미국_민주당 "wikilink") Eleanor Holmes Norton의원)과 대통령선거인단 3표를 확보하고 있다.
 
 ## 역사
 
@@ -37,11 +37,19 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:DC_satellite_image.jpg "wikilink")
 
-1899년 12층짜리 카이로 아파트 건물(Cairo Apartment Building)이 들어서자 의회는 [건물 고도 제한법](https://ko.wikipedia.org/wiki/건물_고도_제한법 "wikilink")(Heights of Buildings Act)을 통과하여 어느 건물도 의사당보다 높게 짓지 못하도록 규정하였다. 이 법은 1910년에 개정되어 건물 고도를 인접 가로의 폭에서 6.1m를 더한 높이 이상으로 건설하지 못하도록 제한하였다.\[9\] 오늘날 워싱턴 시의 건물 윤곽선(skyline)은 낮고 넓게 퍼진 모양새를 갖추어, 워싱턴 시가 "복잡하지 않고 바람이 잘 통하는" 거리에 "낮고 편리한" 건물들이 있는 "미국의 파리"가 되길 바라던 토머스 제퍼슨의 뜻을 따르고 있다.\[10\] 그러하여 [워싱턴 기념비](https://ko.wikipedia.org/wiki/워싱턴_기념비 "wikilink")(Washington Monument)는 구역에서 가장 높은 구조물이다.\[11\] 그러나 [도시의 확산](https://ko.wikipedia.org/wiki/도시의_확산 "wikilink") 현상으로 교통 및 주택 문제를 이유로 워싱턴의 고도 제한은 비난을 받았다.\[12\] 구역의 고도 제한 규정을 피하기 위해 시내와 가까운 곳의 높은 건물은 포토맥 강에서 [버지니아주](../Page/버지니아주.md "wikilink")의 [로슬린](https://ko.wikipedia.org/wiki/로슬린 "wikilink")쪽에 건설되곤 한다.\[13\]
+1899년 12층짜리 카이로 아파트 건물(Cairo Apartment Building)이 들어서자 의회는 [건물 고도 제한법](https://ko.wikipedia.org/wiki/건물_고도_제한법 "wikilink")(Heights of Buildings Act)을 통과하여 어느 건물도 의사당보다 높게 짓지 못하도록 규정하였다. 이 법은 1910년에 개정되어 건물 고도를 인접 가로의 폭에서 6.1m를 더한 높이 이상으로 건설하지 못하도록 제한하였다.\[9\] 오늘날 워싱턴 시의 건물 윤곽선(skyline)은 낮고 넓게 퍼진 모양새를 갖추어, 워싱턴 시가 "복잡하지 않고 바람이 잘 통하는" 거리에 "낮고 편리한" 건물들이 있는 "미국의 파리"가 되길 바라던 토머스 제퍼슨의 뜻을 따르고 있다.\[10\] 그러하여 [워싱턴 기념비](https://ko.wikipedia.org/wiki/워싱턴_기념탑 "wikilink")(Washington Monument)는 구역에서 가장 높은 구조물이다.\[11\] 그러나 [도시의 확산](https://ko.wikipedia.org/wiki/도시의_확산 "wikilink") 현상으로 교통 및 주택 문제를 이유로 워싱턴의 고도 제한은 비난을 받았다.\[12\] 구역의 고도 제한 규정을 피하기 위해 시내와 가까운 곳의 높은 건물은 포토맥 강에서 [버지니아주](../Page/버지니아주.md "wikilink")의 [로슬린](https://ko.wikipedia.org/wiki/로슬린 "wikilink")쪽에 건설되곤 한다.\[13\]
 
 컬럼비아 구역은 넓이가 제각각인 4개의 지구(quadrant)로 나뉘는데, 북서 지구(Northwest), 북동 지구(Northeast), 남동 지구(Southeast), 남서 지구(Southwest)가 바로 그것이다. 네 지구의 경계선은 [미국 의회 의사당이](https://ko.wikipedia.org/wiki/미국_의회_의사당 "wikilink") 기준이다.\[14\] 모든 도로 이름에는 지구 이름의 약자가 붙어 그 도로가 속한 지구를 표시한다. 워싱턴 시에서는 대부분 모든 거리가 격자 모양으로 뻗어있으며, 동서 방향 거리 이름에는 글자가 붙고, (가령 C Street SW) 남북 방향 거리 이름에는 숫자가 붙는다. (가령 4th Street NW)).\[15\] 또 원형 교차점에서 대각선으로 뻗어나가는 도로 이름은 우선 미국의 주 이름을 따서 붙이는데, 미국의 50개 주 모든 이름으로 도로명이 있으며, [푸에르토 리코와](https://ko.wikipedia.org/wiki/푸에르토_리코 "wikilink") 컬럼비아 구역의 이름을 지닌 대로도 있다. 워싱턴의 어떤 가로는 특히 눈에 띄는데, 가령 [펜실베이니아 거리](https://ko.wikipedia.org/wiki/펜실베이니아_거리 "wikilink")(Pennsylvania Avenue)는 [백악관](../Page/백악관.md "wikilink")과 [미국 의회의사당을](https://ko.wikipedia.org/wiki/미국_의회의사당 "wikilink") 이어주며, [K 거리](https://ko.wikipedia.org/wiki/K_거리 "wikilink")(K Street)는 여러 로비 단체의 건물을 잇고 있다.\[16\] 워싱턴에는 174개국 외국 대사관이 있으며, 이 가운데 59개는 [매사추세츠 거리](https://ko.wikipedia.org/wiki/매사추세츠_거리 "wikilink")(Massachusetts Avenue)에 있는데 이 거리는 비공식적으로 [대사관길](https://ko.wikipedia.org/wiki/대사관길 "wikilink")(Embassy Row)이라 부르기도 한다.\[17\]
 
 ## 문화
+
+### 명소
+
+내셔널 몰은 워싱턴 시내에있는 넓은 개방형 공원으로 동쪽의 미국 [국회 의사당과](https://ko.wikipedia.org/wiki/미국의회 "wikilink") 서쪽의 [링컨 기념관](../Page/링컨_기념관.md "wikilink") 사이에 자리잡고 있다. [내셔널 몰의](https://ko.wikipedia.org/wiki/내셔널_몰 "wikilink") 공원은 종종 정치 시위, 음악회, 축제, 대통령 취임식등의 장소로 이용된다. 내셔널 몰의 중앙에는 169m 높이의 [워싱턴 기념탑이](https://ko.wikipedia.org/wiki/워싱턴_기념탑 "wikilink") 있다. 워싱턴 기념탑을 중심으로 동쪽에는 박물관이 모여 있고 서쪽에는 기념관이나 기념비등이 모여 있다. 워싱턴 기념탑에서 북쪽에는 프레지던트공원과 접해있고 백악관이 북쪽 끝에 있다. 워싱턴 기념탑은 서쪽편 에 있는 링컨 기념관에서 바라볼때 그 사이에 있는 리플렉팅 풀(Reflecting pool) 연못물에 기념탑이 반사되어 보이도록 설계되었다. 리플렉팅 풀과 기념탑 사이에는 제2차 세계 대전 기념관이 있다. 내셔널 몰의 서쪽에 있는 명소중에서 가장 많은 관광객이 찾아 오는 곳은 링컨 기념관으로 매년 약 6 백만명의 방문객이 찾아 온다. 링컨 기념관 앞에서 보면 좌우로 베트남 용사 기념비와 [한국전 참전 용사 기념비가](https://ko.wikipedia.org/wiki/한국전_참전_용사_기념비 "wikilink") 있다. 한국전 기념비에는 스테인레스강으로 만든 19 군인병사의 조각상이 있다. “자유는 거저 주어지는 것이 아니다”라고 쓰인 비석도 있다.
+
+워싱턴 기념탐 남쪽에 타이달베이신(Tidal Basin)이라고 하는 반 인공 호수가 포토맥강과 연결되어 있는데 이 주변에는 벚꽃 나무가 줄 지어 있다. 프랭클린 델라 노 루즈 벨트 기념관, 조지 메이슨 기념관, [제퍼슨 기념관](https://ko.wikipedia.org/wiki/제퍼슨_기념관 "wikilink"), [마틴 루터 킹 주니어](../Page/마틴_루터_킹_주니어.md "wikilink") 기념관 및 D.C.1차 세계대전 기념관이 호수 주변에 있다.
+
+내셔널 몰의 북쪽에 있는 미국 국립문서기록관리청(National Archives)은 독립 선언, 헌법 및 권리 장전등을 보관하고 있는 곳이며 미국 역사에 중요한 수천 개의 문서를 보관하고 있다. [미국 의회 도서관은](https://ko.wikipedia.org/wiki/미국_의회_도서관 "wikilink") 국회 의사당 동쪽에 위치하고 있으며 1 억 4,400 만 권이 넘는 책, 원고 및 기타 자료를 소장하고있는 세계에서 가장 큰 도서관이다.
 
 ### 박물관
 
@@ -121,7 +129,7 @@
 
   - [남아프리카 공화국](../Page/남아프리카_공화국.md "wikilink") [프리토리아](../Page/프리토리아.md "wikilink")
 
-  - [대한민국](../Page/대한민국.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")
+  - [대한민국](../Page/대한민국.md "wikilink") [서울](../Page/서울특별시.md "wikilink")
 
   - [벨기에](../Page/벨기에.md "wikilink") [브뤼셀](../Page/브뤼셀.md "wikilink")
 

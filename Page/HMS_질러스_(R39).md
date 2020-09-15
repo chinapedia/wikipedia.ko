@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HMS 질러스 \(R39\)](https://ko.wikipedia.org/wiki/HMS_질러스_\(R39\)).
 
 
-**HMS 질러스 (R39)**는 영국의 구축함이다. 질러스함은 1955년 7월 15일 이스라엘에 판매되어서 에일라트(Eilat)함이 되었다. 1967년 에일라트함은 스틱스 미사일 4발에 피격되어 격침되었다.
+**HMS 질러스 (R39)**는 영국의 구축함이다. 질러스함은 1955년 7월 15일 이스라엘에 판매되어서 에일라트(Eilat)함이 되었다. 1967년 에일라트함은 [스틱스 미사일](https://ko.wikipedia.org/wiki/스틱스_미사일 "wikilink") 4발에 [피격](https://ko.wikipedia.org/wiki/피격 "wikilink")되어 [격침](https://ko.wikipedia.org/wiki/격침 "wikilink")되었다.
 
 ## 스틱스 미사일 피격
 
@@ -29,7 +29,7 @@
   - 이스라엘은 스틱스 대함미사일에 관한 정보를 캐내고자 이집트 영해였던 침몰 장소에 비밀리에 잠수부를 보내어 관련 증거를 수집하여 대응책을 마련함.
   - 현재 이스라엘 해군은 새로 건조한 [초계함](https://ko.wikipedia.org/wiki/초계함 "wikilink")을 [INS 에일라트로](../Page/INS_에일라트.md "wikilink") 명명하여 이 배를 기리고 있다.
 
-## 더 보기
+## 같이 보기
 
   - [엑조세 스톰](https://ko.wikipedia.org/wiki/엑조세 "wikilink")
 

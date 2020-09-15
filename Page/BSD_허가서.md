@@ -71,11 +71,11 @@ BSD 3-Clause License
 
 ## 참고
 
-  - [타이젠](https://www.tizen.org/ko/bsd-3-clause-license?langredirect=1)
+  - [타이젠](https://web.archive.org/web/20180807125306/https://www.tizen.org/ko/bsd-3-clause-license?langredirect=1)
 
 ## 외부 링크
 
-  - [BSD 허가서](http://olis.or.kr/ossw/license/license/detail.do?lid=1003) (한국저작권위원회 OLIS)
+  - [BSD 허가서](https://web.archive.org/web/20110815154849/http://olis.or.kr/ossw/license/license/detail.do?lid=1003) (한국저작권위원회 OLIS)
 
   - [BSD 허가서에 관하여](http://opensource.org/licenses/bsd-license.php)
 

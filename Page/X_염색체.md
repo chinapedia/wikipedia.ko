@@ -13,7 +13,7 @@
 
 X 염색체에 있는 수많은 유전자 중에서 실제로 [성결정](https://ko.wikipedia.org/wiki/성결정 "wikilink")과 관련있는 유전자는 거의 없다. 여아가 [배아](https://ko.wikipedia.org/wiki/배아 "wikilink") [발생](https://ko.wikipedia.org/wiki/발생 "wikilink")하는 초기에 거의 모든 체세포에서 두 개의 X 염색체 중 하나가 무작위적으로 불활성화되어 [바소체](../Page/바소체.md "wikilink")를 형성하며 영구적으로 유지된다. 이 현상을 [X 염색체 불활성화](https://ko.wikipedia.org/wiki/X_염색체_불활성화 "wikilink") 또는 라이온화()라고 한다. X 염색체 불활성화가 정상적으로 일어나면 여자는 남자와 동일하게 각 체세포에서 한 개의 X 염색체만이 기능할 것이다. 그러나 최근 연구 결과에 따르면 기존에 가설과는 다르게 바소체가 생물학적으로 완전히 불활성화 상태는 아니다.\[5\]
 
-그 외 [지능](../Page/지능.md "wikilink") 관련 유전자가 포함되어 있어 자녀의 인지능력에 지대한 영향을 미친다.그렇기에 어머니의 지능이 어느 정도냐에 따라 자녀의 인지능력이 결정된다고 할 정도이다. 아들/딸 모두 어머니로 부터 1개의 X염색체를 받고 아들의 경우 아버지로 부터 Y염색체만 받기에 아버지의 지능 유전자가 영향을 주지 않는다.
+또한 70년대에 X 염색체에서 지능 관련 유전자가 발견되어 지능의 유전은 X 염색체로 이루어진다고 생각하는 사람들도 있었지만,[1](https://pubmed.ncbi.nlm.nih.gov/5031080/) 계속해서 나오는 연구결과에 따르면 지능에 관련된 유전자는 X 염색체 뿐만 아니라 다른 염색체에서도 발견되기에 X 염색체로만 지능의 유전이 된다는 것은 잘못된 생각이다.[2](https://www.forbes.com/sites/emilywillingham/2016/09/16/no-research-has-not-established-that-you-inherited-your-intelligence-from-your-mother/#46b655d66502)[3](https://medicalxpress.com/news/2012-02-genes-earlier-linked-specific-intelligence.html)[4](https://medicalxpress.com/news/2012-10-intelligence-genes.html)[5](https://medicalxpress.com/news/2017-05-scientists-genetic-roots-intelligence.html)
 
 ### 구조
 

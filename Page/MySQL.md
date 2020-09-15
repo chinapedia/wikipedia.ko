@@ -565,11 +565,11 @@ MySQL 5.6은 새로운 출시판의 시금석이 될 예정으로 2011년 MySQL 
 
 ## 외부 링크
 
-  - [MySQL 공식 홈페이지](http://www.mysql.com/)
+  -
 
   - [MySQL 5.5 Reference Manual](http://dev.mysql.com/doc/refman/5.5/en/index.html)
 
-[MySQL](https://ko.wikipedia.org/wiki/분류:MySQL "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:데이터베이스 관리 시스템](https://ko.wikipedia.org/wiki/분류:데이터베이스_관리_시스템 "wikilink") [분류:1995년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1995년_소프트웨어 "wikilink") [분류:오라클 소프트웨어](https://ko.wikipedia.org/wiki/분류:오라클_소프트웨어 "wikilink") [분류:GPL 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:GPL_라이선스_소프트웨어 "wikilink") [분류:관계형 데이터베이스 관리 시스템](https://ko.wikipedia.org/wiki/분류:관계형_데이터베이스_관리_시스템 "wikilink") [분류:자유 데이터베이스 관리 시스템](https://ko.wikipedia.org/wiki/분류:자유_데이터베이스_관리_시스템 "wikilink") [분류:워드프레스](https://ko.wikipedia.org/wiki/분류:워드프레스 "wikilink")
+[MySQL](https://ko.wikipedia.org/wiki/분류:MySQL "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:데이터베이스 관리 시스템](https://ko.wikipedia.org/wiki/분류:데이터베이스_관리_시스템 "wikilink") [분류:1995년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1995년_소프트웨어 "wikilink") [분류:오라클 소프트웨어](https://ko.wikipedia.org/wiki/분류:오라클_소프트웨어 "wikilink") [분류:GPL 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:GPL_라이선스_소프트웨어 "wikilink") [분류:관계형 데이터베이스 관리 시스템](https://ko.wikipedia.org/wiki/분류:관계형_데이터베이스_관리_시스템 "wikilink") [분류:자유 데이터베이스 관리 시스템](https://ko.wikipedia.org/wiki/분류:자유_데이터베이스_관리_시스템 "wikilink") [분류:워드프레스](https://ko.wikipedia.org/wiki/분류:워드프레스 "wikilink") [분류:썬 마이크로시스템즈 소프트웨어](https://ko.wikipedia.org/wiki/분류:썬_마이크로시스템즈_소프트웨어 "wikilink")
 
 1.
 2.

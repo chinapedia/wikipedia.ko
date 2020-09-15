@@ -18,7 +18,7 @@
 ### 슬로건의 역사
 
   - Looks Good/Feels Good/Sounds Good ([2003년](../Page/2003년.md "wikilink") [4월](../Page/4월.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink"))
-  - CYON idea ([2005년](../Page/2005년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
+  - CYON idea ([2005년](../Page/2005년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink"))
   - touch the wonder CYON ([2008년](../Page/2008년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink")\~ [2009년](../Page/2009년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink"))
   - I'm your CYON ([2009년](../Page/2009년.md "wikilink") [3월 12일](../Page/3월_12일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink"))
 
@@ -32,12 +32,12 @@
 
   - D: 셀룰러(800 MHz 대역을 사용하는 SK텔레콤에 해당. Digital Cellular Network의 첫 글자인 D를 표기.)
   - P: PCS(1.8 GHz 대역의 사업자인 KT와 [LG유플러스](../Page/LG유플러스.md "wikilink") 에 해당.)
-  - C: QCIF폰(LG-KC1과 [2004년](../Page/2004년.md "wikilink") 이전에 출시된 모델은 일반 QCIF폰이 아닌 스마트폰 기종임.)
+  - C: 2G 통신망 QCIF폰(LG-KC1과 [2004년](../Page/2004년.md "wikilink") 이전에 출시된 모델은 일반 QCIF폰이 아닌 스마트폰 기종임.)
 
 상기의 제품들은 VOD 기능을 지원하지 않는다.(스마트폰과 후기 SK텔레콤용 모델은 제외. SK텔레콤의 경우 모든 기종에 [MOD](https://ko.wikipedia.org/wiki/MOD "wikilink")를 기본적으로 지원함.)
 
-  - V: VOD폰(후기에는 QVGA로 바뀌며, 이에 대응하여 D,P 시리즈 대신 C:QCIF가 나옴.)
-  - B: DMB폰(초기 지상파 DMB 모델인 KD1200/LD1200 모델은 D시리즈이나 여기에 포함. 지상파 DMB와 위성 DMB를 구분짓기 위해 D와 B를 혼용한 듯하나, 뒤늦게 SK텔레콤에서도 지상파 DMB 모델이 생산됨에 따라 기존에 저가형 셀룰러 모델에 사용되고 있던 알파벳 D가 겹쳐지게 되어 이후에는 B만 사용하게 됨.)
+  - V: 동기식 3G VOD폰(후기에는 QVGA로 바뀌며, 이에 대응하여 D,P 시리즈 대신 C:QCIF가 나옴.)
+  - B: 동기식 3G DMB폰(초기 지상파 DMB 모델인 KD1200/LD1200 모델은 D시리즈이나 여기에 포함. 지상파 DMB와 위성 DMB를 구분짓기 위해 D와 B를 혼용한 듯하나, 뒤늦게 SK텔레콤에서도 지상파 DMB 모델이 생산됨에 따라 기존에 저가형 셀룰러 모델에 사용되고 있던 알파벳 D가 겹쳐지게 되어 이후에는 B만 사용하게 됨.)
   - H: HSDPA/HSUPA폰(LG유플러스는 [CDMA2000](../Page/CDMA2000.md "wikilink") 1x [EV-DO](../Page/EV-DO.md "wikilink") [Rev.A](https://ko.wikipedia.org/wiki/Rev.A "wikilink"), 최근에 출시된 중고가형 3G 기종은 H대신 U를 사용하며, U계열은 일반 [휴대폰](https://ko.wikipedia.org/wiki/휴대폰 "wikilink")과 스마트폰이 혼재함.)
 
 그 다음의 네 자리 숫자(0000)는 단말기 고유의 값인데, 셀룰러 대역을 사용하는 SK텔레콤의 경우 세 자리 숫자(000)이 붙고, PCS 대역을 사용하는 KT와 LG유플러스는 네 자리 숫자 그대로를 사용한다. 그러나, 간혹 LG-KC1과 같은 예외의 경우도 있다. [대한민국](../Page/대한민국.md "wikilink") 이외 지역에 판매되는 모델도 기본적으로 이름을 붙이는 방식은 동일하나 [대한민국](../Page/대한민국.md "wikilink")의 [SK텔레콤](../Page/SK텔레콤.md "wikilink")용 모델과 같이 뒷자리 고유번호는 3자리 숫자이다.
@@ -83,7 +83,7 @@
   - LG-KC3500 / LG-LC3500 컬러홀릭폰
   - LG-LC3600 시그니처
 
-#### V계열 -VOD 지원, 2G폰
+#### V계열 -VOD 지원, 2G폰 3G폰 혼재
 
   - LG-KV2300 / LG-LV2300 블랙라벨 초콜릿폰 2
   - LG-SV240 /LG-KV2400 / LG-LV2400 아카펠라뮤직폰
@@ -110,7 +110,7 @@
   - LG-SV850/LV8500 와인폰 폴더
   - LG-SV900 업다운슬라이드폰
 
-#### B계열 - DMB 지원, 2G폰
+#### B계열 - DMB 지원, 2G폰 3G폰 혼재
 
   - LG-KD1200 / LG-LD1200 타임머슨 DMB폰 (이름은 D계열이지만 DMB 지원)
   - LG-LB1200 회전형 DMB폰

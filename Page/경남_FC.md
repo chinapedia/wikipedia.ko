@@ -7,15 +7,15 @@
 
 ### 초창기
 
-첫 시즌인 [2006 시즌에](https://ko.wikipedia.org/wiki/K리그_2006 "wikilink") 핵심 공격수 [김진용의](../Page/김진용_\(1982년\).md "wikilink") 부상 이탈로 후반기에 큰 타격을 입었고, 후반기에 12위를 기록했다. 하지만 [리그 컵에서](https://ko.wikipedia.org/wiki/K리그_컵_2006 "wikilink") 3위를 기록하였다. [2007 시즌에는](https://ko.wikipedia.org/wiki/K리그_2007 "wikilink") [박항서](../Page/박항서.md "wikilink")의 전술과 내, 외국인 선수들의 조화를 통해 K리그 4위에 올랐다. 하지만 플레이오프에서 [포항 스틸러스에게](../Page/포항_스틸러스.md "wikilink") [승부차기](../Page/승부차기.md "wikilink")로 패배하였다. 당 시즌 영입한 [까보레는](../Page/이베라우두_지_제수스_페헤이라.md "wikilink") 26경기 동안 18골을 기록했고 리그 8경기 동안 계속해서 공격 포인트를 기록하며 리그 정상급 공격수로 군림하였다. 이를 바탕으로 [득점상을](../Page/K리그_득점상.md "wikilink") 차지하였고, [베스트 11에도](../Page/K리그_베스트_11.md "wikilink") 뽑혔다. 그는 자신이 경남을 사랑하며, [대한민국](../Page/대한민국.md "wikilink")에 귀화할 것이라고 밝히기도 하였으나 2007 시즌이 끝난 후 [FC 도쿄로](../Page/FC_도쿄.md "wikilink") 이적하였다. 또한 [전형두](https://ko.wikipedia.org/wiki/전형두 "wikilink") 대표이사와 박항서 감독 간의 갈등이 있은 후 대표이사와 감독이 연이어 사임하였다.\[1\]
+첫 시즌인 [2006 시즌에](https://ko.wikipedia.org/wiki/K리그_2006 "wikilink") 핵심 공격수 [김진용의](../Page/김진용_\(1982년\).md "wikilink") 부상 이탈로 후반기에 큰 타격을 입었고, 후반기에 12위를 기록했다. 하지만 [리그 컵에서](https://ko.wikipedia.org/wiki/K리그_컵_2006 "wikilink") 3위를 기록하였다. [2007 시즌에는](https://ko.wikipedia.org/wiki/K리그_2007 "wikilink") [박항서](../Page/박항서.md "wikilink")의 전술과 내, 외국인 선수들의 조화를 통해 K리그 4위에 올랐다. 하지만 플레이오프에서 [포항 스틸러스에게](../Page/포항_스틸러스.md "wikilink") [승부차기](../Page/승부차기.md "wikilink")로 패배하였다. 당 시즌 영입한 [까보레는](../Page/이베라우두_지_제수스_페헤이라.md "wikilink") 26경기 동안 18골을 기록했고 리그 8경기 동안 계속해서 공격 포인트를 기록하며 리그 정상급 공격수로 군림하였다. 이를 바탕으로 [득점상을](../Page/K리그_득점상.md "wikilink") 차지하였고, [베스트 11에도](../Page/K리그_베스트_11.md "wikilink") 뽑혔다. 그는 자신이 경남을 사랑하며, [대한민국](../Page/대한민국.md "wikilink")에 귀화할 것이라고 밝히기도 하였으나 2007 시즌이 끝난 후 [FC 도쿄로](../Page/FC_도쿄.md "wikilink") 이적하였다. 또한 [전형두](../Page/전형두.md "wikilink") 대표이사와 박항서 감독 간의 갈등이 있은 후 대표이사와 감독이 연이어 사임하였다.\[1\]
 
 ### 조광래 감독과 조광래 유치원
 
-[2008 시즌이](https://ko.wikipedia.org/wiki/K리그_2008 "wikilink") 시작하기 전, [진주](https://ko.wikipedia.org/wiki/진주시 "wikilink") 출신의 [조광래](../Page/조광래.md "wikilink")가 감독에 선임되었다. 조광래의 지도 하에 경남은 팬들을 위해 가파른 상승세를 보여주었다. 신인 [서상민](../Page/서상민.md "wikilink")은 가장 눈에 띄는 선수였는데, [대구를](../Page/대구_FC.md "wikilink") 상대로 한 [K리그 2008](https://ko.wikipedia.org/wiki/K리그_2008 "wikilink") 개막전에서 역대 신인 최초로 개막전 멀티골을 기록하며 이름을 알렸다.\[2\] 또한 [브라질](../Page/브라질.md "wikilink") 국적의 공격형 미드필더 [인디오의](../Page/안토니우_호제리우_시우바_올리베이라.md "wikilink") 활약은 까보레의 빈자리를 메우기에 충분했다. 시즌 마지막 경기에서, 경남은 플레이오프를 함께 노리고 있는 [전북 현대 모터스를](../Page/전북_현대_모터스.md "wikilink") 만났다. [김동찬](../Page/김동찬.md "wikilink")의 선제골로, 경남 팬들은 플레이오프에 진출할 것이라는 기대감이 커졌으나, [김형범](../Page/김형범.md "wikilink")의 프리킥을 포함해 3골을 내리 내주며 역전패를 당했다. [FA컵에서는](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 김동찬의 준결승전 [해트트릭](../Page/해트트릭.md "wikilink")을 포함한 연속 득점에 힘입어 결승에 올랐지만 결승전에서 포항 스틸러스에게 패하였다. [2009년 1월](../Page/2009년_1월.md "wikilink"), 지역 프랜차이즈 스타 김진용이 [김동현과의](../Page/김동현_\(1984년\).md "wikilink") 트레이드로 [성남 일화 천마로](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink") 이적했다. 이 트레이드로 인해, 경남 팬들은 경남 운영진에 지역 출신 선수를 판매한 것에 대해 항의하였고, 이에 경남 운영진은 2009 시즌 동안 그의 등번호를 결번 처리하기로 결정하였다.
+[2008 시즌이](https://ko.wikipedia.org/wiki/K리그_2008 "wikilink") 시작하기 전, [진주](https://ko.wikipedia.org/wiki/진주시 "wikilink") 출신의 [조광래](../Page/조광래.md "wikilink")가 감독에 선임되었다. 조광래의 지도 하에 경남은 팬들을 위해 가파른 상승세를 보여주었다. 신인 [서상민](../Page/서상민.md "wikilink")은 가장 눈에 띄는 선수였는데, [대구를](../Page/대구_FC.md "wikilink") 상대로 한 [K리그 2008](https://ko.wikipedia.org/wiki/K리그_2008 "wikilink") 개막전에서 역대 신인 최초로 개막전 멀티골을 기록하며 이름을 알렸다.\[2\] 또한 [브라질](../Page/브라질.md "wikilink") 국적의 공격형 미드필더 [인디오의](../Page/안토니우_호제리우_시우바_올리베이라.md "wikilink") 활약은 까보레의 빈자리를 메우기에 충분했다. 시즌 마지막 경기에서, 경남은 플레이오프를 함께 노리고 있는 [전북 현대 모터스를](../Page/전북_현대_모터스_FC.md "wikilink") 만났다. [김동찬](../Page/김동찬.md "wikilink")의 선제골로, 경남 팬들은 플레이오프에 진출할 것이라는 기대감이 커졌으나, [김형범](../Page/김형범.md "wikilink")의 프리킥을 포함해 3골을 내리 내주며 역전패를 당했다. [FA컵에서는](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 김동찬의 준결승전 [해트트릭](../Page/해트트릭.md "wikilink")을 포함한 연속 득점에 힘입어 결승에 올랐지만 결승전에서 포항 스틸러스에게 패하였다. [2009년 1월](../Page/2009년_1월.md "wikilink"), 지역 프랜차이즈 스타 김진용이 [김동현과의](../Page/김동현_\(1984년\).md "wikilink") 트레이드로 [성남 일화 천마로](https://ko.wikipedia.org/wiki/성남_일화_천마 "wikilink") 이적했다. 이 트레이드로 인해, 경남 팬들은 경남 운영진에 지역 출신 선수를 판매한 것에 대해 항의하였고, 이에 경남 운영진은 2009 시즌 동안 그의 등번호를 결번 처리하기로 결정하였다.
 
 [2009 K리그](https://ko.wikipedia.org/wiki/K리그_2009 "wikilink") 초반에 부진한 모습을 보였으나 베테랑 수문장 [김병지](../Page/김병지.md "wikilink")의 영입과 함께 [이용래](https://ko.wikipedia.org/wiki/이용래 "wikilink"), [김태욱을](https://ko.wikipedia.org/wiki/김태욱_\(1987년\) "wikilink") 비롯한 많은 신인이 맹활약을 펼치며 강한 인상을 남겼다. [조광래](../Page/조광래.md "wikilink") 감독이 선발한 신인 선수들의 활약이 눈부시자 언론과 축구팬들은 조광래 감독의 신인 발굴 능력을 칭찬하며 경남의 어린 선수들을 일컬어 '조광래 유치원'이라 칭하기 시작했다. 특히 [김동찬](../Page/김동찬.md "wikilink")은 총 12골을 넣으면서 '조광래 유치원'의 핵심적 역할을 하였고, 초반의 부진을 딛고 [K리그 챔피언십](../Page/K리그_챔피언십.md "wikilink") 진출 가시권까지 진입했다. 정규리그 마지막 라운드까지 K리그 챔피언십 진출을 두고 [인천](https://ko.wikipedia.org/wiki/인천_유나이티드 "wikilink"), [전남](../Page/전남_드래곤즈.md "wikilink") 등과 경쟁했으나 마지막 라운드에서 [전북에](../Page/전북_현대_모터스.md "wikilink") 패하며 진출에 실패하고 말았다. 하지만 언론과 축구팬들은 경남 선수단을 두고 '조광래 유치원'이라 칭하며 신인 선수들을 주축으로 중위권의 성적을 일궈낸 조광래 감독의 신인 발굴 능력에 찬사를 보내기도 하였다.\[3\]
 
-[2010 시즌부터](https://ko.wikipedia.org/wiki/K리그_2010 "wikilink") [창원축구센터](../Page/창원축구센터.md "wikilink")를 홈구장으로 사용하기 시작하였다. 그간 사용해온 [창원종합운동장](../Page/창원종합운동장.md "wikilink")은 종합경기장의 특성상 경기 관람에 불편이 있었기 때문에 축구전용구장으로의 이전은 팬들에게 큰 선물이 되었다. 동시에 엠블럼과 클럽송도 바꾸며 팬들로부터 호응을 얻었다. 또한 팀의 핵심 전력이었던 [인디오의](../Page/안토니우_호제리우_시우바_올리베이라.md "wikilink") 임대 기간이 완전히 만료되어 [마르셀로와](https://ko.wikipedia.org/wiki/마르셀루_브라스_페헤이라_다_시우바 "wikilink") [루시오를](../Page/루시우_테오필루_다_시우바.md "wikilink") 영입하였다. 루시오는 시즌 초반부터 연일 득점포를 터뜨리며 활약하였으나 그에 비해 마르셀로는 전반기 4경기에 출전한 후 방출당하였다. [2010년 7월에](../Page/2010년_7월.md "wikilink") [조광래](../Page/조광래.md "wikilink") 감독이 차기 [국가대표팀](../Page/대한민국_축구_국가대표팀.md "wikilink") 감독에 선임되면서 경남 감독직도 겸임하겠다고 밝혔으나, 구단과 상의 끝에 경남 감독에서 사임했다.\[4\] 결국 [김귀화](../Page/김귀화.md "wikilink") 수석코치 [감독대행](https://ko.wikipedia.org/wiki/감독대행 "wikilink") 체제로 가게되었다. 김귀화 체제 아래 경남은 3년 만에 챔피언십에 진출하였으나 [전북 현대 모터스에게](../Page/전북_현대_모터스.md "wikilink") 패배하면서 시즌을 마감하였다.
+[2010 시즌부터](https://ko.wikipedia.org/wiki/K리그_2010 "wikilink") [창원축구센터](../Page/창원축구센터.md "wikilink")를 홈구장으로 사용하기 시작하였다. 그간 사용해온 [창원종합운동장](../Page/창원종합운동장.md "wikilink")은 종합경기장의 특성상 경기 관람에 불편이 있었기 때문에 축구전용구장으로의 이전은 팬들에게 큰 선물이 되었다. 동시에 엠블럼과 클럽송도 바꾸며 팬들로부터 호응을 얻었다. 또한 팀의 핵심 전력이었던 [인디오의](../Page/안토니우_호제리우_시우바_올리베이라.md "wikilink") 임대 기간이 완전히 만료되어 [마르셀로와](https://ko.wikipedia.org/wiki/마르셀루_브라스_페헤이라_다_시우바 "wikilink") [루시오를](../Page/루시우_테오필루_다_시우바.md "wikilink") 영입하였다. 루시오는 시즌 초반부터 연일 득점포를 터뜨리며 활약하였으나 그에 비해 마르셀로는 전반기 4경기에 출전한 후 방출당하였다. [2010년 7월에](../Page/2010년_7월.md "wikilink") [조광래](../Page/조광래.md "wikilink") 감독이 차기 [국가대표팀](../Page/대한민국_축구_국가대표팀.md "wikilink") 감독에 선임되면서 경남 감독직도 겸임하겠다고 밝혔으나, 구단과 상의 끝에 경남 감독에서 사임했다.\[4\] 결국 [김귀화](../Page/김귀화.md "wikilink") 수석코치 [감독대행](https://ko.wikipedia.org/wiki/감독대행 "wikilink") 체제로 가게되었다. 김귀화 체제 아래 경남은 3년 만에 챔피언십에 진출하였으나 [전북 현대 모터스에게](../Page/전북_현대_모터스_FC.md "wikilink") 패배하면서 시즌을 마감하였다.
 
 ### 흔들리는 경남
 
@@ -31,7 +31,7 @@
 
 2015년 1월 6일 [박성화](../Page/박성화.md "wikilink") 감독이 경남의 새 감독으로 공식 임명되었다.\[10\] [2015 시즌](https://ko.wikipedia.org/wiki/K리그_챌린지_2015 "wikilink") 첫 경기에서 [안산과](https://ko.wikipedia.org/wiki/안산_경찰청_축구단 "wikilink") 무승부를 거두고 2라운드에서 [고양에](https://ko.wikipedia.org/wiki/고양_Hi_FC "wikilink") 승리를 거두며 리그 2위로 올라서 좋은 출발을 보이는 듯 하였으나 8월 26일까지 [상주전까지](../Page/상주_상무_축구단.md "wikilink") 홈에서 승리를 거두지 못하는 부진을 겪으며 하위권으로 처졌고 결국 리그 9위로 시즌을 마감하였다. 시즌 종료 후 11월 23일자로 해임된 박성화 감독이 구단이 시즌 중 일방적으로 승리수당 지급을 중단하고 외국인 선수 기용 문제에 간섭하는 등 구단 운영에 문제가 있었다고 언론에 공개하여 논란이 되었다.\[11\]
 
-한편 12월 18일엔 안종복 전임 단장이 재직하던 시절 경남에 유리한 판정을 부탁하며 심판에게 현금을 건넨 것이 인정되어 프로축구연맹으로부터 2016 시즌 승점 10점 감점 및 벌금 징계를 받았다.\[12\]
+한편 12월 18일엔 [안종복](https://ko.wikipedia.org/wiki/안종복 "wikilink") 전임 단장이 재직하던 시절 경남에 유리한 판정을 부탁하며 심판에게 현금을 건넨 것이 인정되어 프로축구연맹으로부터 2016 시즌 승점 10점 감점 및 벌금 징계를 받았다.\[12\]
 
 ### 창단 10주년을 맞이하다
 
@@ -63,7 +63,7 @@
 
 ### 현재 선수 명단
 
-[2020년](../Page/2020년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") 기준               [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
+[2020년](../Page/2020년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") 기준              [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
 
 ### 임대 및 군 복무 중인 선수
 
@@ -170,14 +170,14 @@
 
 ### 코칭 스태프
 
-| 직위     | 이름                                                  |
-| ------ | --------------------------------------------------- |
-| 감독     | [설기현](../Page/설기현.md "wikilink")                    |
-| 수석 코치  | 김종영                                                 |
-| 골키퍼 코치 | 양지원                                                 |
-| 코치     | [홍준형](https://ko.wikipedia.org/wiki/홍준형 "wikilink") |
-| 코치     | [배효성](../Page/배효성.md "wikilink")                    |
-| 피지컬 코치 | 하파엘                                                 |
+| 직위     | 이름                                                          |
+| ------ | ----------------------------------------------------------- |
+| 감독     | [설기현](../Page/설기현.md "wikilink")                            |
+| 수석 코치  | [홍준형](https://ko.wikipedia.org/wiki/홍준형 "wikilink")         |
+| 골키퍼 코치 | [김지운](https://ko.wikipedia.org/wiki/김지운 "wikilink")         |
+| 코치     | [배효성](../Page/배효성.md "wikilink")                            |
+| 코치     | [곽태휘](https://ko.wikipedia.org/wiki/곽태휘_\(축구인\) "wikilink") |
+| 피지컬 코치 | 하파엘                                                         |
 
 ### 감독 연혁
 
@@ -411,6 +411,6 @@
 17. [경남FC 무패행진 이끈 김종부 리더십은?](http://www.knnews.co.kr/news/articleView.php?idxno=1214555/)
 18. ['임대 스타' 말컹, 경남에 완전이적…계약기간 3년](http://sports.chosun.com/news/ntype.htm?id=201705180100140690009988&servicedate=20170517/)
 19. 안경남 (2017.7.3) [경남, 수원에 1-2 패배…18연속 무패행진 마감](http://www.mydaily.co.kr/new_yk/html/read.php?newsid=201707032115632135&ext=na/) 마이데일리
-20. ["세리머니 사과하라" 부천 서포터스, 경남FC 선수단 '감금'](http://m.idomin.com/?mod=news&act=articleView&idxno=545540)
+20.
 21. [경남 우승, '김종부 매직' 클래식 간다](http://sports.news.naver.com/kfootball/news/read.nhn?oid=436&aid=0000026897/)
 22. [황교안 ‘경남FC 난입사태’에 ‘불법 선거운동’ 논란](http://www.hani.co.kr/arti/politics/assembly/888098.html)

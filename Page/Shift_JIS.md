@@ -36,17 +36,17 @@ Shift_JIS는 JIS X 0201을 기반으로, 사용되지 않는 두 영역에 JIS X
 
 ## 외부 링크
 
-  - [일본어 텍스트 인코딩 (Ka-Ping Yee)](http://lfw.org/text/jp.html)
+  - [일본어 텍스트 인코딩 (Ka-Ping Yee)](https://web.archive.org/web/20060805210427/http://lfw.org/text/jp.html)
 
-  - [JIS X 0201 부분을 뺀 Shift_JIS 변환표](http://www.rikai.com/library/kanjitables/kanji_codes.sjis.shtml)
+  - [JIS X 0201 부분을 뺀 Shift_JIS 변환표](https://web.archive.org/web/20070114165313/http://www.rikai.com/library/kanjitables/kanji_codes.sjis.shtml)
 
-  - [Shift_JIS 전각 문자](http://www.page.sannet.ne.jp/mtoga/etc/cpu/bih-g_cj.htm)
+  - [Shift_JIS 전각 문자](https://web.archive.org/web/20060620034952/http://www.page.sannet.ne.jp/mtoga/etc/cpu/bih-g_cj.htm)
 
-  - [Shift_JIS 제 1수준 한자](http://www.page.sannet.ne.jp/mtoga/etc/cpu/bih-g_ck.htm)
+  - [Shift_JIS 제 1수준 한자](https://web.archive.org/web/20060911104158/http://www.page.sannet.ne.jp/mtoga/etc/cpu/bih-g_ck.htm)
 
-  - [Shift_JIS 제 2수준 한자](http://www.page.sannet.ne.jp/mtoga/etc/cpu/bih-g_cl.htm)
+  - [Shift_JIS 제 2수준 한자](https://web.archive.org/web/20060620035005/http://www.page.sannet.ne.jp/mtoga/etc/cpu/bih-g_cl.htm)
 
-  - [기타 Shift_JIS 문자](http://www.page.sannet.ne.jp/mtoga/etc/cpu/bih-g_cm.htm)
+  - [기타 Shift_JIS 문자](https://web.archive.org/web/20060620035017/http://www.page.sannet.ne.jp/mtoga/etc/cpu/bih-g_cm.htm)
 
 [분류:문자 인코딩](https://ko.wikipedia.org/wiki/분류:문자_인코딩 "wikilink")
 

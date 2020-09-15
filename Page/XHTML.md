@@ -160,7 +160,7 @@ XHTML 1.0 Strict 문서의 한 예이다.
 
   - [W3C의 마크업 유효성 검사 프로그램](http://validator.w3.org/)
 
-  - [WDG HTML 유효성 검사 프로그램](http://www.htmlhelp.com/tools/validator/)
+  - [WDG HTML 유효성 검사 프로그램](https://web.archive.org/web/20050713032845/http://htmlhelp.com/tools/validator/)
 
   - [KLDP의 마크업 유효성 검사 프로그램](http://validator.kldp.org/)
 

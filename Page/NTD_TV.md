@@ -57,7 +57,6 @@ NTD TV Korea 언론은 2018년 6월 5일 사실과 다른 [가짜뉴스](../Page
 
 ## 같이 보기
 
-  - [에포크타임스](https://kr.theepochtimes.com/)
   - [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")
 
 ## 각주

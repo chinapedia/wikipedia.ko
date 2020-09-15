@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG전자](https://ko.wikipedia.org/wiki/LG전자).
 
 
-**LG전자**(LG電子, )는 전자 제품을 생산하는 [대한민국](../Page/대한민국.md "wikilink")의 기업이다. [LG그룹](../Page/LG그룹.md "wikilink") 내에서 생활가전, 디지털 기기등의 전자 기기 제조 회사이며, LG그룹을 대표하는 계열사이자 [대한민국](../Page/대한민국.md "wikilink")의 [대기업](../Page/대기업.md "wikilink")이다. [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")와 라이벌 관계에 있다. 대한민국 2위 대기업이다. 휴대전화, 공기청정기, 냉장고, 세탁기 등을 주로 생산한다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 여의대로 128(여의도동)에 있다.
+**LG전자**(, 이전의 이름: [금성사](../Page/금성사.md "wikilink"))는 전자 제품을 생산하는 [대한민국](../Page/대한민국.md "wikilink")의 기업이다. [LG그룹](../Page/LG그룹.md "wikilink") 내에서 생활가전, 디지털 기기등의 전자 기기 제조 회사이며, LG그룹을 대표하는 계열사이자 [대한민국](../Page/대한민국.md "wikilink")의 [대기업](../Page/대기업.md "wikilink")이다. [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")와 라이벌 관계에 있다. 대한민국 2위 대기업이다. 휴대전화, 공기청정기, 냉장고, 세탁기 등을 주로 생산한다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 여의대로 128(여의도동)에 있다.
 
 ## 역사
 
@@ -75,6 +75,7 @@
 
   - [LG전자 베스트샵](https://ko.wikipedia.org/wiki/LG전자_베스트샵 "wikilink")
   - [LG전자서비스](https://ko.wikipedia.org/wiki/LG전자서비스 "wikilink")
+  - [LG 페이](https://ko.wikipedia.org/wiki/LG_페이 "wikilink")
   - [LG그룹](../Page/LG그룹.md "wikilink")
   - [제니스 일렉트로닉스](../Page/제니스_일렉트로닉스.md "wikilink")
 

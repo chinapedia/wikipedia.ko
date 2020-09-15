@@ -11,14 +11,14 @@
   - **비타민 B<sub>2</sub>** ([리보플래빈](https://ko.wikipedia.org/wiki/리보플래빈 "wikilink"))
   - **비타민 B<sub>3</sub>** ([나이아신](https://ko.wikipedia.org/wiki/나이아신 "wikilink"), [니코틴아마이드](https://ko.wikipedia.org/wiki/니코틴아마이드 "wikilink"))
   - **비타민 B<sub>5</sub>** ([판토텐산](../Page/판토텐산.md "wikilink"))
-  - **비타민 B<sub>6</sub>** ([피리독신](../Page/피리독신.md "wikilink"), [피리독살](https://ko.wikipedia.org/wiki/피리독살 "wikilink"), [피리독사민](https://ko.wikipedia.org/wiki/피리독사민 "wikilink"))
+  - **비타민 B<sub>6</sub>** ([피리독신](../Page/피리독신.md "wikilink"), [피리독살](../Page/피리독살.md "wikilink"), [피리독사민](https://ko.wikipedia.org/wiki/피리독사민 "wikilink"))
   - **비타민 B<sub>7</sub>** ([바이오틴](https://ko.wikipedia.org/wiki/바이오틴 "wikilink")) (비타민 H라고도 한다)
   - **비타민 B<sub>9</sub>** ([폴산](https://ko.wikipedia.org/wiki/폴산 "wikilink"), [엽산](../Page/엽산.md "wikilink")) (비타민 L이라고도 한다)
   - **비타민 B<sub>12</sub>** ([코발라민](https://ko.wikipedia.org/wiki/코발라민 "wikilink"))
 
 ## 비타민 B의 효과
 
-  - 면역체계 강화
+  - 면역체계 강화\!\!\!\!
   - 신경계기능 강화
   - [췌장암](../Page/췌장암.md "wikilink")의 발병 위험률 감소
   - 피부색과 근육 건강을 유지

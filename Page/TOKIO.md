@@ -162,7 +162,7 @@
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p><a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a></p></td>
+<td><p><a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/2월_26일.md" title="wikilink">2월 26일</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/MAGIC_CHANNEL" title="wikilink">MAGIC CHANNEL</a></strong></p></td>
 <td></td>
 <td><p>6위</p></td>

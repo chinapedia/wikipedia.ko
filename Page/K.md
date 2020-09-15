@@ -17,6 +17,7 @@ K는 손바닥을 뜻하는 그림 문자에서 유래했다.
 ## 쓰임
 
   - k는 [국제음성기호](https://ko.wikipedia.org/wiki/국제음성기호 "wikilink")에서 [무성 연구개 파열음을](https://ko.wikipedia.org/wiki/무성_연구개_파열음 "wikilink") 나타낸다.
+  - [야구](../Page/야구.md "wikilink")에서 삼진 아웃을 나타낸다.\[1\]
 
 ## 관련 글자
 
@@ -24,4 +25,8 @@ K는 손바닥을 뜻하는 그림 문자에서 유래했다.
   - [Κ κ](../Page/Κ.md "wikilink"),(그리스 문자)
   - [К к](https://ko.wikipedia.org/wiki/К "wikilink"),(키릴 문자)
 
+## 각주
+
 [K](https://ko.wikipedia.org/wiki/분류:로마자_낱자 "wikilink")
+
+1.  [낫아웃](../Page/낫아웃.md "wikilink")은 좌우로 뒤집은 형태를 사용

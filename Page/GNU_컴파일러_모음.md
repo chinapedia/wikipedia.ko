@@ -334,16 +334,16 @@ FSF 버전과는 별개로 GCC 버전이 지원하고 있는 추가 프로세서
 
   - [GCC 매뉴얼 목록](http://gcc.gnu.org/onlinedocs/)
 
-  - [GCC 위키](http://gcc.gnu.org/wiki)
+  - [GCC 위키](https://web.archive.org/web/20060829144955/http://gcc.gnu.org/wiki)
 
 [분류:GNU 프로젝트 소프트웨어](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트_소프트웨어 "wikilink") [분류:C 컴파일러](https://ko.wikipedia.org/wiki/분류:C_컴파일러 "wikilink") [분류:C++ 컴파일러](https://ko.wikipedia.org/wiki/분류:C++_컴파일러 "wikilink") [분류:1987년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1987년_소프트웨어 "wikilink") [분류:크로스 플랫폼 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_자유_소프트웨어 "wikilink") [분류:유닉스 프로그래밍 도구](https://ko.wikipedia.org/wiki/분류:유닉스_프로그래밍_도구 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink") [분류:GPL 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:GPL_라이선스_소프트웨어 "wikilink") [분류:파스칼 컴파일러](https://ko.wikipedia.org/wiki/분류:파스칼_컴파일러 "wikilink") [분류:자유 컴파일러와 인터프리터](https://ko.wikipedia.org/wiki/분류:자유_컴파일러와_인터프리터 "wikilink")
 
-1.  ["GCC Front Ends"](http://gcc.gnu.org/frontends.html), gnu.org, Retrieved November 25, 2011.
-2.  {{ 웹 인용 |url=<http://bitbucket.org/goshawk/gdc/> |제목=gdc project on bitbucket |accessdate=3 July 2010 }}
-3.  {{ 웹 인용|url=[http://gcc.gnu.org/wiki/Fortran2003|제목=Fortran](http://gcc.gnu.org/wiki/Fortran2003%7C제목=Fortran) 2003 Features in GNU Fortran }}
-4.  [\[PATCH](http://gcc.gnu.org/ml/gcc-patches/2002-04/msg00887.html) Remove chill\], gcc.gnu.org, Retrieved July 29, 2010.
-5.  {{ 웹 인용|url=<http://www.gccupc.org/> |제목=GCC UPC (GCC Unified Parallel C) | <http://www.gccupc.org/> |publisher=<http://www.gccupc.org/>\<\! |date=2006-02-20 |accessdate=2009-03-11 }}
-6.  {{ 웹 인용|제목=Hexagon Project Wiki|url=<https://www.codeaurora.org/xwiki/bin/Hexagon/> }}
+1.  ["GCC Front Ends"](http://gcc.gnu.org/frontends.html) , gnu.org, Retrieved November 25, 2011.
+2.
+3.
+4.  [ \[PATCH](http://gcc.gnu.org/ml/gcc-patches/2002-04/msg00887.html) Remove chill\], gcc.gnu.org, Retrieved July 29, 2010.
+5.
+6.
 7.  {{ 웹 인용|제목=sx-gcc: port gcc to nec sx vector cpu|url=<http://code.google.com/p/sx-gcc/> }}
 8.
 9.  [GCC Releases](http://www.gnu.org/software/gcc/releases.html), gnu.org. Accessed on line Mar. 26, 2014.

@@ -1,24 +1,6 @@
 > This article is converted from Wikipedia: [위키백과:GNU 자유 문서 사용 허가서](https://ko.wikipedia.org/wiki/위키백과:GNU_자유_문서_사용_허가서).
 
 
-  -
-    This is an unofficial translation of the GNU Free Documentation License version 1.2 into Korean. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documents that uses the GNU FDL version 1.2 -- only the original English text of the GNU FDL version 1.2 does that. However, We hope that this translation will help Korean speakers understand the GNU FDL version 1.2 better.
-
-<!-- end list -->
-
-  -
-    이 문서는 자유 소프트웨어 재단(Free Software Foundation)의 GNU Free Documentation License 1.2판을 한국어로 번역한 것입니다. 이 문서는 GNU Free Documentation License 1.2판이 내포하고 있는 호혜적인 자유와 공유의 정신을 보다 많은 사람들에게 알리기 위한 희망에서 작성되었지만, 자유 소프트웨어 재단의 공식 문서로 취급될 수는 없습니다. 이는 원래의 문서가 의도하고 있는 내용이 왜곡되지 않고 법률적으로 유효하기 위해 선행되어야 할 양국의 현행 법률과 언어의 적합성 여부에 대한 전문가들의 검토 작업에 많은 시간과 비용이 필요하기 때문입니다. 또한 공식 번역문으로 인정된 문서라 하더라도 다른 언어로의 번역에 따른 위험 부담은 여전히 남아 있게 됩니다. 따라서 자유 소프트웨어 재단은 오역이나 해석상의 난점으로 인해 발생될지 모를 혼란과 분쟁의 가능성을 미연에 방지하고, 문서가 담고 있는 내용과 취지를 보다 많은 사람들에게 알리려는 상반된 목적을, 한국어 번역문을 공식적으로 승인하지 않는 방법으로 양립시키고 있습니다.
-
-<!-- end list -->
-
-  -
-    자유 소프트웨어 재단은 어떠한 언어에 대한 번역문도 공식적으로 인정하지 않고 있으며, 그러한 계획 또한 갖고 있지 않습니다. 자유 소프트웨어 재단은 GNU Free Documentation License 1.2판을 실무에 적용할 경우, 오직 영문판에 의해서만 그 법률적 효력이 올바르게 발생될 수 있음을 권고합니다. 이 번역문은 법률적 검토와 문서간의 동일성 여부에 대한 검증을 거치지 않은 것이며, 이로 인해 야기될 수 있을지도 모를 법률적인 문제에 대해 어떠한 형태의 보증도 제공하지 않습니다. GNU Free Documantation License 1.2판을 상업 목적의 실무에 사용하려고 할 경우에는 변호사나 변리사에게 직접 자문을 구하시기 바랍니다. 그러나 대부분의 일반 사용자들에게는 이 번역문이 전달하려고 하는 내용과 취지를 이해하는 것만으로도 충분한 가치가 있을 것입니다.
-
-<!-- end list -->
-
-  -
-    한국어 개정: 2005년 9월 1일 송창훈 \<chsong@gnu.org\>
-
 # GNU 자유 문서 사용 허가서
 
 1.2 판, 2002년 11월

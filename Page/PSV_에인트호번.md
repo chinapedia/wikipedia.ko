@@ -7,7 +7,7 @@
 
 네덜란드의 축구 리그인 [에레디비시](../Page/에레디비시.md "wikilink")에서 [AFC 아약스](../Page/AFC_아약스.md "wikilink"), [페예노르트](../Page/페예노르트.md "wikilink")와 함께 ‘빅3’로 불린다. [2017년](../Page/2017년.md "wikilink") 현재까지 총 23회의 리그 우승컵을 들어올렸으며, [1988년](../Page/1988년.md "wikilink") 현재의 [UEFA 챔피언스리그의](../Page/UEFA_챔피언스리그.md "wikilink") 전신인 [유러피언컵](https://ko.wikipedia.org/wiki/유러피언컵 "wikilink")에서 우승하였다.
 
-[2004-05](https://ko.wikipedia.org/wiki/에레디비시_2004-05 "wikilink") 시즌에는 리그 우승을 차지함과 동시에 [UEFA 챔피언스리그에서](../Page/UEFA_챔피언스리그.md "wikilink") 4강까지 진출하였지만 4강전에서 [AC 밀란에게](../Page/AC_밀란.md "wikilink") [원정 다득점](../Page/원정_다득점.md "wikilink") 원칙에 의해 아쉽게 결승 진출이 좌절되기도 하였다. [2004-05](https://ko.wikipedia.org/wiki/에레디비시_2004-05 "wikilink") 시즌부터 [2007-08](https://ko.wikipedia.org/wiki/에레디비시_2007-08 "wikilink") 시즌까지 리그 4연패를 달성한 후에는 7시즌 동안 우승컵을 들지 못하였으나 [2014-15](../Page/에레디비시_2014-15.md "wikilink") 시즌에는 우승, 2015-16 시즌에도 우승을 하며 리그 2연패를 달성하였다. [2017-18](https://ko.wikipedia.org/wiki/에레디비시_2017-18 "wikilink") 시즌에 [아약스 암스테르담을](https://ko.wikipedia.org/wiki/아약스_암스테르담 "wikilink") 맞대결경기에서 이기고 우승을 확정하였다.
+[2004-05](https://ko.wikipedia.org/wiki/에레디비시_2004-05 "wikilink") 시즌에는 리그 우승을 차지함과 동시에 [UEFA 챔피언스리그에서](../Page/UEFA_챔피언스리그.md "wikilink") 4강까지 진출하였지만 4강전에서 [AC 밀란에게](../Page/AC_밀란.md "wikilink") [원정 다득점](../Page/원정_다득점.md "wikilink") 원칙에 의해 아쉽게 결승 진출이 좌절되기도 하였다. [2004-05](https://ko.wikipedia.org/wiki/에레디비시_2004-05 "wikilink") 시즌부터 [2007-08](https://ko.wikipedia.org/wiki/에레디비시_2007-08 "wikilink") 시즌까지 리그 4연패를 달성한 후에는 7시즌 동안 우승컵을 들지 못하였으나 [2014-15](../Page/에레디비시_2014-15.md "wikilink") 시즌에는 우승, 2015-16 시즌에도 우승을 하며 리그 2연패를 달성하였다. [2017-18](https://ko.wikipedia.org/wiki/에레디비시_2017-18 "wikilink") 시즌에는 [아약스와의](../Page/AFC_아약스.md "wikilink") 경기에서 이기고 우승을 확정하였다.
 
 ## 선수 명단
 
@@ -16,8 +16,6 @@
 *2017년 8월 30일 기준*\[1\]
 
 [16px](https://ko.wikipedia.org/wiki/파일:Captain_sports.svg "wikilink")
-
-{{클럽팀 선수명단 | 번호 =18| 국적 = 네덜란드 | 포지션 = MF | 이름 =[파블로 로사리오](https://ko.wikipedia.org/wiki/파블로_로사리오 "wikilink")}
 
 #### 임대 중
 
@@ -35,8 +33,8 @@
 
 <!-- end list -->
 
-  - **[요한 크라위프 스할](https://ko.wikipedia.org/wiki/요한_크라위프_스할 "wikilink") : 9회**
-      - [1992](https://ko.wikipedia.org/wiki/네덜란드_슈퍼컵_1992 "wikilink"), [1996](https://ko.wikipedia.org/wiki/요한_크라위프_스할_1996 "wikilink"), [1997](https://ko.wikipedia.org/wiki/요한_크라위프_스할_1997 "wikilink"), [1998](https://ko.wikipedia.org/wiki/요한_크라위프_스할_1998 "wikilink"), [2000](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2000 "wikilink"), [2001](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2001 "wikilink"), [2003](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2003 "wikilink"), [2008](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2008 "wikilink"), [2012](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2012 "wikilink")
+  - **[요한 크라위프 스할](https://ko.wikipedia.org/wiki/요한_크라위프_스할 "wikilink") : 11회**
+      - [1992](https://ko.wikipedia.org/wiki/네덜란드_슈퍼컵_1992 "wikilink"), [1996](https://ko.wikipedia.org/wiki/요한_크라위프_스할_1996 "wikilink"), [1997](https://ko.wikipedia.org/wiki/요한_크라위프_스할_1997 "wikilink"), [1998](https://ko.wikipedia.org/wiki/요한_크라위프_스할_1998 "wikilink"), [2000](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2000 "wikilink"), [2001](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2001 "wikilink"), [2003](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2003 "wikilink"), [2008](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2008 "wikilink"), [2012](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2012 "wikilink"), [2015](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2015 "wikilink"), [2016](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2016 "wikilink")
 
 ### 국제 대회
 
@@ -150,8 +148,18 @@
 <td><p>[14]</p></td>
 </tr>
 <tr class="odd">
-<td><p>2017–</p></td>
+<td><p>2017–2018</p></td>
 <td><p><a href="../Page/마르코_판_힝컬.md" title="wikilink">마르코 판 힝컬</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018-2019</p></td>
+<td><p><a href="../Page/뤽_더_용.md" title="wikilink">뤽 더 용</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019–</p></td>
+<td><p><a href="../Page/이브라힘_아펠라이.md" title="wikilink">이브라힘 아펠라이</a></p></td>
 <td></td>
 </tr>
 </tbody>

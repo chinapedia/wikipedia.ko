@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SF \(장르\)](https://ko.wikipedia.org/wiki/SF_\(장르\)).
 
 
-**사이언스픽션**() 또는 줄여서 **SF**는 [미래](https://ko.wikipedia.org/wiki/미래 "wikilink")의 배경, 미래의 [과학](../Page/과학.md "wikilink")과 [기술](../Page/기술.md "wikilink"), [우주여행](https://ko.wikipedia.org/wiki/우주비행 "wikilink"), [시간여행](https://ko.wikipedia.org/wiki/시간여행 "wikilink"), [초광속여행](https://ko.wikipedia.org/wiki/초광속여행 "wikilink"), [평행우주](https://ko.wikipedia.org/wiki/다중우주론 "wikilink"), [외계생명체](https://ko.wikipedia.org/wiki/외계생명체 "wikilink") 등을 소재로 하는 [장르](https://ko.wikipedia.org/wiki/장르 "wikilink")이다. 소설인 경우, **과학소설**(科學小說)이라고 한다. SF는 종종 과학적인것을 포함한 다른 [혁신](https://ko.wikipedia.org/wiki/혁신 "wikilink")스런 잠재적인 결과를 탐구하여 "아이디어문학"이라 불리곤 했다.\[1\]
+**공상과학, 사이언스픽션**() 또는 줄여서 **SF**는 [미래](https://ko.wikipedia.org/wiki/미래 "wikilink")의 배경, 미래의 [과학](../Page/과학.md "wikilink")과 [기술](../Page/기술.md "wikilink"), [우주여행](https://ko.wikipedia.org/wiki/우주비행 "wikilink"), [시간여행](https://ko.wikipedia.org/wiki/시간여행 "wikilink"), [초광속여행](https://ko.wikipedia.org/wiki/초광속여행 "wikilink"), [평행우주](https://ko.wikipedia.org/wiki/다중우주론 "wikilink"), [외계생명체](https://ko.wikipedia.org/wiki/외계생명체 "wikilink") 등을 소재로 하는 [장르](https://ko.wikipedia.org/wiki/장르 "wikilink")이다. 소설인 경우, **과학소설**(科學小說)이라고 한다. SF는 종종 과학적인것을 포함한 다른 [혁신](https://ko.wikipedia.org/wiki/혁신 "wikilink")스런 잠재적인 결과를 탐구하여 "아이디어문학"이라 불리곤 했다.\[1\]
 
 ## 정의
 
@@ -61,7 +61,7 @@ SF를 [사색](https://ko.wikipedia.org/wiki/사색 "wikilink")과 [스토리텔
 
 위와 같은 이유로 국내 SF계에서는 팬덤과 작가, 출판사 등을 통틀어 오랫동안 '공상과학소설'을 '과학소설'로 바꿔부르는 데 노력을 기울였고, 현재는 영화, 만화, 게임 등 여타 매체를 포함한 광범위한 장르명으로서 '공상과학'을 대체하는 용어로 'SF'가 선호되는 편이다.\[62\]\[63\]
 
-한편 [중국](../Page/중국.md "wikilink")에서는 SF장르를 과학환상() 또는 간단히 과환이라고 부른다\[64\] [북한](https://ko.wikipedia.org/wiki/북한 "wikilink")에서도 '과학환상작품'이라는 유사용어를 사용한다.\[65\]
+한편 [중국](../Page/중국.md "wikilink")에서는 SF장르를 과학환상() 또는 간단히 과환이라고 부른다\[64\] [조선민주주의인민공화국](../Page/조선민주주의인민공화국.md "wikilink")에서도 '과학환상작품'이라는 유사용어를 사용한다.\[65\]
 
 ### 사이파이(Sci-fi)라는 표현
 
@@ -193,7 +193,7 @@ SF를 다양한 [하위장르](https://ko.wikipedia.org/wiki/하위장르 "wikil
 
 ### 진지한 문학으로서
 
-중요한 로망스 작가로 여겨지는 [셸리는](../Page/메리_셸리.md "wikilink") 《[프랑켄슈타인](../Page/프랑켄슈타인.md "wikilink")》을 비롯한 SF소설을 여럿 썼다.\[104\] 《[유년기의 끝](https://ko.wikipedia.org/wiki/유년기의_끝 "wikilink")》를 비롯한 많은 SF소설들이 비평적 호응을 이끌어냈다. [헉슬리의](../Page/올더스_헉슬리.md "wikilink") 《[멋진 신세계](../Page/멋진_신세계.md "wikilink")》, [오웰의](../Page/조지_오웰.md "wikilink") 《[1984](https://ko.wikipedia.org/wiki/1984 "wikilink")》, [버지스의](https://ko.wikipedia.org/wiki/앤서니_버지스 "wikilink") 《[시계태엽 오렌지](https://ko.wikipedia.org/wiki/시계태엽_오렌지 "wikilink")》, [애트우드의](../Page/마거릿_애트우드.md "wikilink") 《[시녀 이야기](https://ko.wikipedia.org/wiki/시녀_이야기 "wikilink")》 등 주류 문학에서 존경받는 여러 작가들이 SF를 썼다. [노벨 문학상](../Page/노벨_문학상.md "wikilink") 수상자 [레싱은](../Page/도리스_레싱.md "wikilink") SF 시리즈 《[아르고스의 카노푸스](https://ko.wikipedia.org/wiki/아르고스의_카노푸스 "wikilink")》를 썼고, [보니것이](../Page/커트_보니것.md "wikilink") 쓴 대부분의 작품은 SF의 소재나 테마를 포함하고 있다.
+중요한 로망스 작가로 여겨지는 [셸리는](../Page/메리_셸리.md "wikilink") 《[프랑켄슈타인](../Page/프랑켄슈타인.md "wikilink")》을 비롯한 SF소설을 여럿 썼다.\[104\] 《[유년기의 끝](../Page/유년기의_끝.md "wikilink")》를 비롯한 많은 SF소설들이 비평적 호응을 이끌어냈다. [헉슬리의](../Page/올더스_헉슬리.md "wikilink") 《[멋진 신세계](../Page/멋진_신세계.md "wikilink")》, [오웰의](../Page/조지_오웰.md "wikilink") 《[1984](https://ko.wikipedia.org/wiki/1984 "wikilink")》, [버지스의](https://ko.wikipedia.org/wiki/앤서니_버지스 "wikilink") 《[시계태엽 오렌지](https://ko.wikipedia.org/wiki/시계태엽_오렌지 "wikilink")》, [애트우드의](../Page/마거릿_애트우드.md "wikilink") 《[시녀 이야기](https://ko.wikipedia.org/wiki/시녀_이야기 "wikilink")》 등 주류 문학에서 존경받는 여러 작가들이 SF를 썼다. [노벨 문학상](../Page/노벨_문학상.md "wikilink") 수상자 [레싱은](../Page/도리스_레싱.md "wikilink") SF 시리즈 《[아르고스의 카노푸스](https://ko.wikipedia.org/wiki/아르고스의_카노푸스 "wikilink")》를 썼고, [보니것이](../Page/커트_보니것.md "wikilink") 쓴 대부분의 작품은 SF의 소재나 테마를 포함하고 있다.
 
 학자 [시피는](https://ko.wikipedia.org/wiki/톰_시피 "wikilink") SF에서 끊임없이 논의되는 주제들에 대해 질문을 던졌다: "SF와 판타지의 관계란 무엇인가? SF 독자는 여전히 남자 청소년들이 지배적인가? SF는 성숙하지만 괴벽하지 않은 문학자들에게 어필할 수 있는 취향인가?"\[105\] SF 작가 [르귄은](https://ko.wikipedia.org/wiki/어슐러_K._르_귄 "wikilink") 그녀의 여러 차례 재판된 에세이 "과학소설과 브라운 부인(Science Fiction and Mrs Brown)"에서 이러한 질문에 답변하기 위해 영국 작가 [울프의](../Page/버지니아_울프.md "wikilink") 에세이 《베넷 씨와 브라운 부인》을 인용하며 시작한다.
 

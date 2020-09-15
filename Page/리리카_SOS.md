@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [리리카 SOS](https://ko.wikipedia.org/wiki/리리카_SOS).
 
 
-**리리카 SOS**(, 너스엔젤 리리카 SOS)는 [슈에이샤](../Page/슈에이샤.md "wikilink")의 만화 잡지 리본(りぼん)에서 [아키모토 야스시](../Page/아키모토_야스시.md "wikilink")(秋元 康) 원작, 이케노 고이(池野 恋) 작화로 연재된 만화이자 이를 원작으로 한 TV 애니메이션이다.
+**리리카 SOS**(, 너스엔젤 리리카 SOS)는 [슈에이샤](../Page/슈에이샤.md "wikilink")의 만화 잡지 [리본](../Page/리본_\(잡지\).md "wikilink")(りぼん)에서 [아키모토 야스시](../Page/아키모토_야스시.md "wikilink")(秋元 康) 원작, 이케노 고이(池野 恋) 작화로 연재된 만화이자 이를 원작으로 한 TV 애니메이션이다.
 
 ## 개요
 

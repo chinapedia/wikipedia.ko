@@ -11,6 +11,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
 
 ### 발행중
 
+  - [중고라도 사랑이 하고 싶어](https://ko.wikipedia.org/wiki/중고라도_사랑이_하고_싶어 "wikilink") (1권\~12권)
   - [○×△베이스](https://ko.wikipedia.org/wiki/○×△베이스 "wikilink") (1권)
   - [1학년 10반의 분투 1권](https://ko.wikipedia.org/wiki/1학년_10반의_분투_1권 "wikilink") (1\~3권)
   - [5656\! Knights’ Strange Night](https://ko.wikipedia.org/wiki/5656!_Knights’_Strange_Night "wikilink") (1권)
@@ -172,6 +173,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
   - [순행의 반여신](https://ko.wikipedia.org/wiki/순행의_반여신 "wikilink") (1권)
   - [스쿨 라이브 온라인](https://ko.wikipedia.org/wiki/스쿨_라이브_온라인 "wikilink") (1권)
   - [스트레인지 문](https://ko.wikipedia.org/wiki/스트레인지_문 "wikilink") (1권)
+  - [슬레이어즈](../Page/슬레이어즈.md "wikilink") 신장판 (1\~4권)
   - [전기 시리즈](https://ko.wikipedia.org/wiki/전기_시리즈 "wikilink")
       - [성계의 전기](../Page/성계의_전기.md "wikilink") (1\~5권)
   - [소금의 거리](https://ko.wikipedia.org/wiki/소금의_거리 "wikilink")
@@ -253,6 +255,7 @@ NT 노벨에서 번역·발행한 라이트 노벨의 목록은 자음 기준에
   - [재생의 패러다임 시프트](https://ko.wikipedia.org/wiki/재생의_패러다임_시프트 "wikilink") (1\~3권)
   - [재와 환상의 그림갈](../Page/재와_환상의_그림갈.md "wikilink") (1\~14권)
       - 14+
+      - 14++
   - [저, 트윈테일이 됩니다](https://ko.wikipedia.org/wiki/저,_트윈테일이_됩니다 "wikilink") (1\~9권)
   - [저널리즘 연구회의 우울한 사건부](https://ko.wikipedia.org/wiki/저널리즘_연구회의_우울한_사건부 "wikilink") (1권)
   - [저주 브레이커 시이코](https://ko.wikipedia.org/wiki/저주_브레이커_시이코 "wikilink") (1권)

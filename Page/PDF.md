@@ -70,6 +70,15 @@ PDF는 컴퓨터 환경에 관계없이 같은 표현을 하기 위한 목적으
   - [Go2PDF](http://www.go2pdf.com/product.html) – 프리웨어 가상 프린터 드라이버. 단, 설치시 번들기능주의 해제
   - [PDFCreator](http://pdfcreator.sourceforge.net/) – [윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [GPL](../Page/GNU_일반_공중_사용_허가서.md "wikilink") PDF 프린터 드라이버, 단 설치시 **번들기능**(무언가 추가적으로 다른걸 같이 설치하려는 시도)이 있으므로 주의해서 해제할 것
 
+## 프라이버시
+
+다음은 PDF 포맷은 민감한 정보가 파일내에 남아있을수있다는 [미디어위키](../Page/미디어위키.md "wikilink")의 알림창이다.\[4\]
+
+`개인정보 고려사항`
+`PDF의 포맷은 복잡하므로 특정한 상황에서 개인정보의 일부가 노출될 수 있습니다. 안전한 방식으로 PDF 뷰어를 구성했는지 확인하십시오. `
+<U>`이 문제에 대해 더 알아보세요.`</U>
+`이 문제는 이 특정 파일에 직접 관련된 것은 아니며, PDF 포맷의 일반적인 문제입니다.`
+
 ## 같이 보기
 
   - [전자 문서](../Page/전자_문서.md "wikilink")
@@ -89,3 +98,4 @@ PDF는 컴퓨터 환경에 관계없이 같은 표현을 하기 위한 목적으
 1.  Tim Bienz외, Portable Document Format Reference Manual Version 1.2, Adobe Systems Inc., 1996년 11월 12일, , [2011년 6월 21일 확인](http://www.pdf-tools.com/public/downloads/pdf-reference/pdfreference12.pdf)  중 19면
 2.  PDF 파일을 만들거나 읽을 수 있게 만들어진 소프트웨어
 3.  [Prag A Tool](http://www.pragatool.org/a1084453-portable-document-format.cfm) 2011년 6월 21일 확인
+4.  (미디어위키-보안/PDF파일)https://www.mediawiki.org/wiki/Help:Security/PDF_files

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [애플 II](https://ko.wikipedia.org/wiki/애플_II).
 
 
-**애플 II**(**Apple II**, <small>애플 투</small>)는 [애플 컴퓨터가](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [1977년](../Page/1977년.md "wikilink")에 만든 [개인용 컴퓨터이다](../Page/개인용_컴퓨터.md "wikilink"). 1970년대 말부터 80년대 전반에 걸쳐 개인용 컴퓨터 붐을 이끈 주역이었다. 이 글에서는 애플 II뿐만 아니라 후속 모델인 애플 II+, 애플 //e, 애플 //c, 애플 IIGS 등에 걸친 전반적인 발전을 소개한다.
+**애플 II**(**Apple II**, <small>애플 투</small>)는 [애플 컴퓨터가](../Page/애플.md "wikilink") [1977년](../Page/1977년.md "wikilink")에 만든 [개인용 컴퓨터이다](../Page/개인용_컴퓨터.md "wikilink"). 1970년대 말부터 80년대 전반에 걸쳐 개인용 컴퓨터 붐을 이끈 주역이었다. 이 글에서는 애플 II뿐만 아니라 후속 모델인 애플 II+, 애플 //e, 애플 //c, 애플 IIGS 등에 걸친 전반적인 발전을 소개한다.
 
 애플 II 시리즈 대부분의 모델이 [컴퓨터 키보드](https://ko.wikipedia.org/wiki/컴퓨터_키보드 "wikilink"), 메인보드, 전원장치가 하나로 합쳐진 일체형으로 제작되었으며, 내부에 8개의 확장 슬롯이 있어 다양한 주변장치를 연결하여 사용할 수 있었다. [중앙 처리 장치로는](../Page/중앙_처리_장치.md "wikilink") [MOS 6502와](../Page/MOS_6502.md "wikilink") 그 후속제품이 쓰였으며, 컬러 혹은 단색 디스플레이를 연결하거나 가정용 텔레비전으로 영상을 출력할 수 있었다. 저장 장치로는 초기에 전용 테이프 레코더가 쓰였으며, 이후에는 [플로피 디스크](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") 드라이버(5 1/4인치)가 많이 쓰였다. 애플 II가 시장에서 인기를 끌게 되면서 다양한 소프트웨어가 출시되었는데, 스프레드시트 프로그램인 [비지칼크](../Page/비지칼크.md "wikilink"), 데이터베이스 프로그램인 [dBASE](https://ko.wikipedia.org/wiki/dBASE "wikilink"), 워드프로세서인 [워드스타](https://ko.wikipedia.org/wiki/워드스타 "wikilink") 등 사무용 소프트웨어와 다양한 게임 소프트웨어, 교육용 소프트웨어들이 출시되어 이후 개인용 컴퓨터 혁명을 이끌게 되었다. 내장된 [애플소프트 베이식으로](https://ko.wikipedia.org/wiki/애플소프트_베이식 "wikilink") 사용자가 다양한 프로그램을 직접 제작할 수 있었으며, [베이직](../Page/베이직.md "wikilink") 외에도 이전에는 대형 컴퓨터에서만 가능하였던 [포트란](../Page/포트란.md "wikilink"), [코볼](../Page/코볼.md "wikilink")과 같은 언어와 새로운 컴퓨터 언어인 [파스칼](../Page/파스칼_\(프로그래밍_언어\).md "wikilink"), [C](../Page/C_\(프로그래밍_언어\).md "wikilink") 등으로 프로그램을 제작할 수 있었다. [울티마](../Page/울티마.md "wikilink"), [위저드리](https://ko.wikipedia.org/wiki/위저드리 "wikilink") 등 많은 역사적인 게임도 애플에서부터 시작되었다.
 
@@ -138,7 +138,7 @@
 
 ### 하드웨어
 
-애플 II 시리즈 이후, 매킨토시 컴퓨터가 한동안 대한민국에 보급되기까지, 대한민국에는 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 지사는 물론 대리점도 없었다. 그 대신 다양한 복제품이 만들어졌다.
+애플 II 시리즈 이후, 매킨토시 컴퓨터가 한동안 대한민국에 보급되기까지, 대한민국에는 [애플](../Page/애플.md "wikilink") 지사는 물론 대리점도 없었다. 그 대신 다양한 복제품이 만들어졌다.
 
   - 로맥스: 로얄컴퓨터
   - 말룸(MALUM)\[3\]
@@ -173,7 +173,7 @@
   - [8비트 컴퓨터](https://ko.wikipedia.org/wiki/8비트_컴퓨터 "wikilink")
   - [MSX](../Page/MSX.md "wikilink")
   - [SPC-1000](https://ko.wikipedia.org/wiki/SPC-1000 "wikilink")
-  - [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink")
+  - [애플](../Page/애플.md "wikilink")
 
 ## 외부 링크
 

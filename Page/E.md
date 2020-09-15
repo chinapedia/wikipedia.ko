@@ -1,7 +1,11 @@
 > This article is converted from Wikipedia: [E](https://ko.wikipedia.org/wiki/E).
 
 
-**E**, **e**는 [로마자](../Page/로마자.md "wikilink")의 다섯 번째 글자이다. 빈도: 12.702%/1위 (이 글자가 가장 자주 쓰이는 언어는 [영어](../Page/영어.md "wikilink"), [스페인어](../Page/스페인어.md "wikilink"), [독일어](../Page/독일어.md "wikilink"), [프랑스어](../Page/프랑스어.md "wikilink"), [네덜란드어](../Page/네덜란드어.md "wikilink") 등이다.)
+**E**는 [알파벳](https://ko.wikipedia.org/wiki/알파벳 "wikilink")의 [글자](https://ko.wikipedia.org/wiki/글자 "wikilink")이다.
+
+## 빈도
+
+12.702%/1위</br> [로마자](../Page/로마자.md "wikilink")를 사용하는 나라에서 많이 쓰인다.
 
 ## 이름
 

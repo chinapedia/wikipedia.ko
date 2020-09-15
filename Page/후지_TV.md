@@ -34,12 +34,12 @@
   - [1964년](../Page/1964년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") - [도쿄 올림픽](../Page/1964년_하계_올림픽.md "wikilink") 개시에 따라 컬러 텔레비전 시험 방송 개시. (도쿄 3번째)
   - [1964년](../Page/1964년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") - 컬러 텔레비전 본방송 시작.
   - [1966년](../Page/1966년.md "wikilink") [10월](../Page/10월.md "wikilink") [후지 뉴스 네트워크](../Page/후지_뉴스_네트워크.md "wikilink")(FNN) 발족
-  - [1967년](../Page/1967년.md "wikilink") [3월](../Page/3월.md "wikilink") - 후지TV 가와다쵸 사옥 빌딩 착공
-  - [1969년](../Page/1969년.md "wikilink") [3월](../Page/3월.md "wikilink") - 후지TV 가와다쵸 사옥 빌딩 완공
   - [1969년](../Page/1969년.md "wikilink") [10월](../Page/10월.md "wikilink") - [후지 네트워크](../Page/후지_네트워크.md "wikilink")(FNS) 발족.
+  - [1970년](../Page/1970년.md "wikilink") [11월](../Page/11월.md "wikilink") - 후지TV 가와다쵸 사옥 빌딩 착공
   - [1971년](../Page/1971년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") - [대한민국](../Page/대한민국.md "wikilink")의 [문화방송과](https://ko.wikipedia.org/wiki/MBC "wikilink") 제휴 협정 체결.
   - [1971년](../Page/1971년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") - 문화방송 도쿄지국을 후지TV 카와다쵸 제1별관 개설
   - [1971년](../Page/1971년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") - 후지TV 서울지국 문화방송 정동사옥 개설
+  - [1971년](../Page/1971년.md "wikilink") [11월](../Page/11월.md "wikilink") - 후지TV 가와다쵸 사옥 빌딩 완공
   - [1972년](../Page/1972년.md "wikilink") [1월](../Page/1월.md "wikilink") - 흑백 방송 중단 및 컬러화 완료.
   - [1978년](../Page/1978년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") - 음성 다중 실용화 시험 방송 개시.
   - [1982년](../Page/1982년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") - 후지TV 서울지국이 [문화방송](../Page/문화방송.md "wikilink") 정동사옥에서 여의도 사옥으로 이전.
@@ -76,7 +76,7 @@
   - [2013년](../Page/2013년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink") - [도쿄 스카이 트리에서](https://ko.wikipedia.org/wiki/도쿄_스카이_트리 "wikilink") 방송 송출 시작
   - [2014년](../Page/2014년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") - 후지TV 서울지국을 [문화방송](../Page/문화방송.md "wikilink") 상암동 신사옥으로 이전.
   - [2015년](../Page/2015년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") - 이날 정오를 기해 BS디지털 위성을 통해 송출하던 난시청지역용 지상파 동시방송을 중단.
-  - [2020년](../Page/2020년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") - [산림청](../Page/대한민국_산림청.md "wikilink") 계약 예정.
+  - [2020년](../Page/2020년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") - [산림청](../Page/대한민국_산림청.md "wikilink") 계약 확정.
 
 ## 지역 민방 (네트워크 가맹국)
 
@@ -173,13 +173,14 @@
   - [디지털 몬스터](../Page/디지털_몬스터.md "wikilink")(디지몬 시리즈, )
       - [디지털 몬스터의 작품 목록](https://ko.wikipedia.org/wiki/디지털_몬스터#TV_애니메이션 "wikilink")
   - [란마 ½](../Page/란마_½.md "wikilink")()
+  - [보노보노](../Page/보노보노.md "wikilink")(ぼのぼの)
   - [원피스](../Page/원피스_\(만화\).md "wikilink")()
   - [우루세이 야츠라](https://ko.wikipedia.org/wiki/우루세이_야츠라 "wikilink") (시끌별 녀석들\[1\], )
   - [유유백서](../Page/유유백서.md "wikilink")()
   - [은하철도 999](../Page/은하철도_999.md "wikilink")()
   - [천년여왕](../Page/천년여왕.md "wikilink")()
   - [철완 아톰](https://ko.wikipedia.org/wiki/철완_아톰 "wikilink")()
-  - [사자에상](../Page/사자에상.md "wikilink")
+  - [사자에상](../Page/사자에상.md "wikilink")(サザエさん)
   - [마루코는 아홉살](../Page/마루코는_아홉살.md "wikilink")(마루코는 아홉살, )
   - [타임 트래블 톤데케만](https://ko.wikipedia.org/wiki/타임_트래블_톤데케만 "wikilink")(시간탐험대, )
   - [플란다스의 개](../Page/플랜더스의_개_\(애니메이션\).md "wikilink")()
@@ -317,7 +318,7 @@
 
   - [후지 텔레비전 영어 공식 홈페이지](http://www.fujitv.co.jp/en/index.html)
 
-  - [후지텔레비전 서울지국 공식 홈페이지](http://www.fujikorea.tv/)
+  - [후지텔레비전 서울지국 공식 홈페이지](https://web.archive.org/web/20070928003830/http://www.fujikorea.tv/)
 
   - [FNN(Fuji News Network)뉴스](https://web.archive.org/web/20080501150355/http://fnn.fujitv.co.jp/)
 

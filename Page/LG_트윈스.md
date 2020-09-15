@@ -3,15 +3,15 @@
 
 **LG 트윈스**(LG Twins)는 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink")를 연고지로 하는 [KBO](../Page/한국야구위원회.md "wikilink") 소속 [프로 야구단이다](https://ko.wikipedia.org/wiki/프로_야구 "wikilink"). 주식회사로서 [LG그룹](../Page/LG그룹.md "wikilink")의 계열사이다. [송파구](https://ko.wikipedia.org/wiki/송파구 "wikilink") [잠실동](../Page/잠실동.md "wikilink")에 있는 [서울종합운동장 야구장을](../Page/서울종합운동장_야구장.md "wikilink") [두산 베어스와](../Page/두산_베어스.md "wikilink") 함께 공동 홈구장으로 사용하고 있다.
 
-[1990년](../Page/1990년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") MBC 청룡 인수조인식을 통해 인수작업을 완료하였으며\[1\] [1990년](../Page/1990년.md "wikilink") [3월 15일에](../Page/3월_15일.md "wikilink") LG 트윈스로 공식 창단식을 거행하였다. LG 트윈스로 창단 첫 해인 1990년에 백인천 감독 하에서 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 우승을 차지했고, 이어 [1994년](../Page/1994년.md "wikilink")에 2번째 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 우승을 차지했다. [서울종합운동장 야구장](../Page/서울종합운동장_야구장.md "wikilink")(잠실야구장)을 [서울특별시](../Page/서울특별시.md "wikilink")로부터 [두산 베어스와](../Page/두산_베어스.md "wikilink") 공동으로 임차해 함께 홈 구장으로 사용 중이다. [2009년](../Page/2009년.md "wikilink")부터 홈경기에서 [두산 베어스와는](../Page/두산_베어스.md "wikilink") 달리 중앙 펜스를 4미터 앞당긴 **X CANVAS ZONE**(구 X-ZONE)의 설치로 좌우 펜스는 100m로 동일하나 중앙 펜스가 121m로 조정하여 운영하였다.\[2\] 2010 시즌에는 X CANVAS ZONE에서 **INFINIA ZONE**으로 명칭을 바꾸어 사용하였으며, [2011년](../Page/2011년.md "wikilink")부터 사용하지 않기로 결정하였다.
+[1990년](../Page/1990년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") MBC 청룡 인수조인식을 통해 인수작업을 완료하였으며\[1\] [1990년](../Page/1990년.md "wikilink") [3월 15일에](../Page/3월_15일.md "wikilink") LG 트윈스로 공식 창단식을 거행하였다. LG 트윈스로 창단 첫 해인 1990년에 백인천 감독 하에서 [한국시리즈](../Page/KBO_한국시리즈.md "wikilink") 우승을 차지했고, 이어 [1994년](../Page/1994년.md "wikilink")에 2번째 [KBO 한국시리즈](../Page/KBO_한국시리즈.md "wikilink") 우승을 차지했다. [서울종합운동장 야구장](../Page/서울종합운동장_야구장.md "wikilink")(잠실야구장)을 [두산 베어스와](../Page/두산_베어스.md "wikilink") 함께 홈 구장으로 사용 중이다. [2009년](../Page/2009년.md "wikilink")부터 홈경기에서 [두산 베어스와는](../Page/두산_베어스.md "wikilink") 달리 중앙 펜스를 4미터 앞당긴 **X CANVAS ZONE**(구 X-ZONE)의 설치로 좌우 펜스는 100m로 동일하나 중앙 펜스가 121m로 조정하여 운영하였다.\[2\] 2010 시즌에는 X CANVAS ZONE에서 **INFINIA ZONE**으로 명칭을 바꾸어 사용하였으며, [2011년](../Page/2011년.md "wikilink")부터 사용하지 않기로 결정하였다.
 
 [1983년](../Page/1983년.md "wikilink"), [1990년](../Page/1990년.md "wikilink"), [1994년](../Page/1994년.md "wikilink"), [1997년](../Page/1997년.md "wikilink"), [1998년](../Page/1998년.md "wikilink"), [2002년](../Page/2002년.md "wikilink")에 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink")에 진출했으나 [1990년](../Page/1990년.md "wikilink")과 [1994년](../Page/1994년.md "wikilink") 2회 우승하였다. 또한 [2013](https://ko.wikipedia.org/wiki/2013 "wikilink")년에는 [2002년](../Page/2002년.md "wikilink") 이후 11년 만에 포스트시즌에 진출하였으나, [두산 베어스에게](../Page/두산_베어스.md "wikilink") 패배하여 한국시리즈 진출이 좌절되었다. [2014년](../Page/2014년.md "wikilink")에는 정규시즌 4위로 준플레이오프에 진출해 [NC 다이노스에게](../Page/NC_다이노스.md "wikilink") 승리를 거두고 플레이오프에 진출하였으나, [넥센 히어로즈에게](../Page/키움_히어로즈.md "wikilink") 패배하였다. [2019년](../Page/2019년.md "wikilink"), 정규시즌 4위로 와일드카드에서 5위 [NC 다이노스에게](../Page/NC_다이노스.md "wikilink") 승리를 거두고 준플레이오프에서 [키움 히어로즈에게](../Page/키움_히어로즈.md "wikilink") 패배하였다.
 
 ## 역사
 
-### MBC 청룡 창단과 1982년-1989년
+### MBC 청룡 (1982년\~1989년)
 
-[1982년](../Page/1982년.md "wikilink") [1월 26일에](../Page/1월_26일.md "wikilink") 창단되었고, [1982년](../Page/1982년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") [동대문야구장](../Page/동대문야구장.md "wikilink")에서 [삼성 라이온즈를](../Page/삼성_라이온즈.md "wikilink") 상대로 프로 야구 첫 경기를 치렀다. 이 날 경기에서 연장 10회 말 [삼성의](../Page/삼성_라이온즈.md "wikilink") [투수](../Page/투수.md "wikilink") [이선희를](../Page/이선희_\(야구인\).md "wikilink") 상대로 [이종도](https://ko.wikipedia.org/wiki/이종도 "wikilink")가 끝내기 만루 홈런을 터뜨리면서 11:7로 극적인 승리를 거둬, [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 사상 최초의 승리팀으로 기록되었다. [1983년](../Page/1983년.md "wikilink") 후기 리그에서 우승을 차지하면서 [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink")에 진출했으나, [해태 타이거즈에게](../Page/해태_타이거즈.md "wikilink") 1무 4패로 무릎을 꿇으면서 준우승을 차지했다 [1989년](../Page/1989년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") [MBC 문화방송](../Page/문화방송.md "wikilink") 노-사간 합의에 의하여 MBC 청룡을 매각하기로 의결했고, [1990년](../Page/1990년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") [럭키금성 그룹이](../Page/LG그룹.md "wikilink") 130억 원에 인수하여 [3월 15일부터](../Page/3월_15일.md "wikilink") LG 트윈스로 개명했다.
+[1982년](../Page/1982년.md "wikilink") [1월 26일에](../Page/1월_26일.md "wikilink") [MBC 청룡으로](../Page/MBC_청룡.md "wikilink") 창단되었고, [1982년](../Page/1982년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") [동대문야구장](../Page/동대문야구장.md "wikilink")에서 [삼성 라이온즈를](../Page/삼성_라이온즈.md "wikilink") 상대로 프로 야구 첫 경기를 치렀다. 이 날 경기에서 연장 10회 말 [삼성의](../Page/삼성_라이온즈.md "wikilink") [투수](../Page/투수.md "wikilink") [이선희를](../Page/이선희_\(야구인\).md "wikilink") 상대로 [이종도](https://ko.wikipedia.org/wiki/이종도 "wikilink")가 끝내기 만루 홈런을 터뜨리면서 11:7로 극적인 승리를 거둬, [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 사상 최초의 승리팀으로 기록되었다. [1983년](../Page/1983년.md "wikilink") 후기 리그에서 우승을 차지하면서 [한국시리즈에](../Page/KBO_한국시리즈.md "wikilink") 진출했으나, [해태 타이거즈에게](../Page/해태_타이거즈.md "wikilink") 1무 4패로 무릎을 꿇으면서 준우승을 차지했다 [1989년](../Page/1989년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") [MBC 문화방송](../Page/문화방송.md "wikilink") 노-사간 합의에 의하여 MBC 청룡을 매각하기로 의결했고, [1990년](../Page/1990년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") [럭키금성그룹이](../Page/LG그룹.md "wikilink") 130억 원에 인수하여 [3월 15일부터](../Page/3월_15일.md "wikilink") LG 트윈스로 개명했다.
 
 ### LG 트윈스 창단과 1990년
 
@@ -45,7 +45,7 @@ LG 트윈스의 초대 감독은 [백인천](../Page/백인천.md "wikilink")이
 
 FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논란을 불러 일으키며 [2004년](../Page/2004년.md "wikilink") 11월에 계약이 끝난 후 [KIA 타이거즈로](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") 2:2 트레이드되었고, 이 트레이드 때 같이 간 [중견수](https://ko.wikipedia.org/wiki/중견수 "wikilink") [이용규](../Page/이용규.md "wikilink")는 트레이드된 이후 [KIA 타이거즈의](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") 테이블 세터로 맹활약하여 LG에게는 큰 마이너스가 되었다.
 
-[2005년](../Page/2005년.md "wikilink") 시즌 후 [KIA 타이거즈와](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") 또 한 차례 3:3 트레이드를 단행했으나 양 팀 모두 별다른 이득을 내지 못했고, 이 트레이드 상대 선수들 중 트레이드된 후 곧바로 상무에 입대하여 병역을 마친 [서동욱만이](https://ko.wikipedia.org/wiki/서동욱_\(야구_선수\) "wikilink") 뒤늦게 멀티플레이어로써 빛을 보았다.
+[2005년](../Page/2005년.md "wikilink") 시즌 후 [KIA 타이거즈와](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") 또 한 차례 3:3 트레이드를 단행했으나 양 팀 모두 별다른 이득을 내지 못했고, 이 트레이드 상대 선수들 중 트레이드된 후 곧바로 상무에 입대하여 병역을 마친 [서동욱만이](../Page/서동욱_\(야구인\).md "wikilink") 뒤늦게 멀티플레이어로써 빛을 보았다.
 
 ### 2007년\~2009년
 
@@ -59,7 +59,7 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 
 [김재박](../Page/김재박.md "wikilink") 감독이 성적 부진 및 계약 기간 만료로 물러난 뒤 당시 두산 베어스의 2군 감독을 맡았던 [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") 감독을 영입한 LG는 현금 트레이드를 통해서 [넥센 히어로즈의](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 외야수 [이택근](../Page/이택근.md "wikilink")을 영입했고 [넥센 히어로즈에서](../Page/키움_히어로즈.md "wikilink") 방출된 좌투수 [이상열](https://ko.wikipedia.org/wiki/이상열 "wikilink")을 좌완 불펜 강화 차원에서 영입하여 2010년 시즌을 준비하게 된다. 그러나 시즌 개막과 동시에 여러 잡음이 발생하게 되는데, 4월 2일 투수 [이형종](https://ko.wikipedia.org/wiki/이형종 "wikilink")이 자신의 미니홈피에 [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") 감독을 비난하는 글을 올려 파문이 일었고, 에이스 [봉중근](../Page/봉중근.md "wikilink")의 부인이 [봉중근](../Page/봉중근.md "wikilink")이 2군행을 통보받자 그의 미니홈피에 [박종훈](https://ko.wikipedia.org/wiki/박종훈_\(1959년\) "wikilink") 감독을 비난하는 글을 올렸다가 삭제하는 사건이 발생하기도 했다. [이형종](https://ko.wikipedia.org/wiki/이형종 "wikilink")은 5월 16일 잠실에서 열린 롯데 자이언츠와의 경기에 선발 투수로 등판해 5이닝 2실점으로 프로 데뷔 첫 선발승을 신고했으나, 이후 부상으로 2군에 다시 내려가 또 다시 잡음을 일으킨 뒤 8월 10일에 임의탈퇴 공시되었다. 그리고 방황 끝에 2013년에 복귀를 선언하였다. 그 해 7월에는 투수 서승화가 자신의 홈페이지에 야구를 그만두겠다는 발언 등 안팎으로 홍역을 치른 LG는 SK 와이번스와의 4:3 트레이드로 투수 [박현준](https://ko.wikipedia.org/wiki/박현준 "wikilink"), [김선규](https://ko.wikipedia.org/wiki/김선규 "wikilink"), 포수 [윤상균의](../Page/윤요섭.md "wikilink") 영입 및 그 해 맹타를 휘두르며 골든 글러브를 받은 포수 [조인성의](../Page/조인성_\(야구인\).md "wikilink") 맹활약에도 불구하고 그 해 57승 71패 5무(승률 .429)로 6위에 그치면서 포스트 시즌 진출에 실패하게 된다.
 
-2011년 LG는 시즌 초반 잠깐이지만 1위에 오르는 등 승승장구하게 된다. 에이스 봉중근이 팔꿈치 부상으로 토미 존 수술을 받게 되어 시즌을 마감했지만, 선발 투수 빅 3라 불리는 [박현준과](../Page/박현준_\(야구_선수\).md "wikilink") [레다메스 리즈](../Page/레다메스_리즈.md "wikilink"), [벤자민 주키치의](../Page/벤자민_주키치.md "wikilink") 활약으로 8개 구단 중 30승에 선착했고, 승패마진이 +10까지 올려놓았다. 그러나, 6월 17일 잠실 SK전에서 마무리로 등판한 고졸 신인 투수 [임찬규](../Page/임찬규.md "wikilink")가 9회초 2사 후 밀어내기 4실점으로 역전패 당한 이후 페이스가 흔들리기 시작하더니, 7월 21일 목동에서 열린 넥센 히어로즈와의 3연전을 모두 패하면서 승패마진이 0으로 추락하면서 시즌 전반기를 마치게 된다. 그 해 유난히 넥센 히어로즈만 만나면 치열한 경기가 펼쳐져서 엘 클라시코를 본뜬 LG 트윈스와 넥센 히어로즈의 새로운 서울 더비를 나타내는 신조어인 엘 넥라시코라는 말이 만들어졌다. 7월 31일 트레이드 마감 시한을 3시간 남기고 [넥센 히어로즈와의](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 트레이드로 투수 [심수창](../Page/심수창.md "wikilink")과 내야수 [박병호를](../Page/박병호_\(1986년\).md "wikilink") 내주고 투수 [송신영](../Page/송신영.md "wikilink")과 [김성현을](../Page/김성현_\(1989년\).md "wikilink") 영입하는 두고두고 회자될 만한 역대급 실수를 저지르며 분위기 반전을 꾀했으나, 다소 늦은 감이 있었다. 8월 3일 문학 SK전에서 끝내기 역전패를 당한 이후 LG는 5위로 떨어졌고, 9월 24일 잠실 SK전 패배로 9년 연속 포스트 시즌 진출에 실패하게 됐다. 이는 KBO 리그 사상 최초의 일이다. 한편 시즌 초 투수 [오상민](../Page/오상민.md "wikilink")이 사적인 잡음을 일으켜 일찌감치 웨이버 공시되었고, 8월에는 투수 [이범준](https://ko.wikipedia.org/wiki/이범준 "wikilink")이 투수들이 많이 들어와 설 자리가 없어진다고 자신의 트위터에 불만을 표시하기도 하였다. 시즌 후에는 [서승화](../Page/서승화.md "wikilink")가 또 다시 온라인에서 잡음을 일으켜 선수단 내부가 여전히 어수선했다. [서승화](../Page/서승화.md "wikilink")는 시즌 후 방출당했다.
+2011년 LG는 시즌 초반 잠깐이지만 1위에 오르는 등 승승장구하게 된다. 에이스 봉중근이 팔꿈치 부상으로 토미 존 수술을 받게 되어 시즌을 마감했지만, 선발 투수 빅 3라 불리는 [박현준과](../Page/박현준_\(야구_선수\).md "wikilink") [레다메스 리즈](../Page/레다메스_리즈.md "wikilink"), [벤자민 주키치의](../Page/벤자민_주키치.md "wikilink") 활약으로 8개 구단 중 30승에 선착했고, 승패마진이 +10까지 올려놓았다. 그러나, 6월 17일 잠실 SK전에서 마무리로 등판한 고졸 신인 투수 [임찬규](../Page/임찬규.md "wikilink")가 9회초 2사 후 밀어내기 4실점으로 역전패 당한 이후 페이스가 흔들리기 시작하더니, 7월 21일 목동에서 열린 넥센 히어로즈와의 3연전을 모두 패하면서 승패마진이 0으로 추락하면서 시즌 전반기를 마치게 된다. 그 해 유난히 넥센 히어로즈만 만나면 치열한 경기가 펼쳐져서 엘 클라시코를 본뜬 LG 트윈스와 넥센 히어로즈의 새로운 서울 더비를 나타내는 신조어인 엘 넥라시코라는 말이 만들어졌다. 7월 31일 트레이드 마감 시한을 3시간 남기고 [넥센 히어로즈와의](../Page/키움_히어로즈.md "wikilink") 트레이드로 투수 [심수창](../Page/심수창.md "wikilink")과 내야수 [박병호를](../Page/박병호_\(1986년\).md "wikilink") 내주고 투수 [송신영](../Page/송신영.md "wikilink")과 [김성현을](../Page/김성현_\(1989년\).md "wikilink") 영입하는 두고두고 회자될 만한 역대급 실수를 저지르며 분위기 반전을 꾀했으나, 다소 늦은 감이 있었다. 8월 3일 문학 SK전에서 끝내기 역전패를 당한 이후 LG는 5위로 떨어졌고, 9월 24일 잠실 SK전 패배로 9년 연속 포스트 시즌 진출에 실패하게 됐다. 이는 KBO 리그 사상 최초의 일이다. 한편 시즌 초 투수 [오상민](../Page/오상민.md "wikilink")이 사적인 잡음을 일으켜 일찌감치 웨이버 공시되었고, 8월에는 투수 [이범준](https://ko.wikipedia.org/wiki/이범준 "wikilink")이 투수들이 많이 들어와 설 자리가 없어진다고 자신의 트위터에 불만을 표시하기도 하였다. 시즌 후에는 [서승화](../Page/서승화.md "wikilink")가 또 다시 온라인에서 잡음을 일으켜 선수단 내부가 여전히 어수선했다. [서승화](../Page/서승화.md "wikilink")는 시즌 후 방출당했다.
 
 ### 2012년
 
@@ -73,7 +73,7 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 
 ### 2013년
 
-전력 보강에도 불구하고 시즌 전 전문가들은 LG 트윈스가 중하위권에 머물 것으로 예상하였다. 우려대로 5월 중순에는 7위까지 쳐졌으나 [5월 17일](../Page/5월_17일.md "wikilink") SK전부터 [6월 23일](../Page/6월_23일.md "wikilink") 삼성전까지 일명 '운명의 33연전'에서 22승 9패(우천취소 2경기) 라는 놀라운 승률을 기록하였으며, [6월 30일](../Page/6월_30일.md "wikilink") SK전에서 승리하면서 10연속 위닝 시리즈를 달성하였다. 시즌 종료를 2경기 앞두고 자력으로 플레이오프에 직행할 수 없는 상황이 되었으나 [10월 5일](../Page/10월_5일.md "wikilink") [잠실야구장](https://ko.wikipedia.org/wiki/잠실야구장 "wikilink")에서 열린 두산과의 시즌 최종전에서 승리하였고, 2위를 눈앞에 두었던 [넥센 히어로즈가](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 같은 시각 [한밭종합운동장 야구장에서](../Page/한밭종합운동장_야구장.md "wikilink") 열린 [한화 이글스전에서](../Page/한화_이글스.md "wikilink") 예상 외로 외국인 [투수](../Page/투수.md "wikilink") [데니 바티스타의](../Page/데니_바티스타.md "wikilink") 12탈삼진 호투에 마무리 [송창식의](../Page/송창식_\(야구_선수\).md "wikilink") 역투로 막혀 패하고 말았다. LG는 극적으로 2위를 확정지으며 플레이오프 직행에 성공하였다. LG의 플레이오프 직행은 [1997년](../Page/1997년.md "wikilink") 이후 16년 만이었다. 같은 날 마무리 투수 [봉중근](../Page/봉중근.md "wikilink")은 한 시즌 팀 최다 세이브(38세이브)를 달성하였다. 또한 이날 경기 후에는 [1루수](https://ko.wikipedia.org/wiki/1루수 "wikilink") [최동수의](https://ko.wikipedia.org/wiki/최동수_\(야구_선수\) "wikilink") 은퇴식이 열렸다. 그렇게 플레이오프에 진출한 LG 트윈스는 준플레이오프에서 리버스 스윕을 하고 올라온 [두산베어스에게](../Page/두산_베어스.md "wikilink") 플레이오프에서 3-1로 패하면서, [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 진출에 실패해 [삼성과의](../Page/삼성_라이온즈.md "wikilink") 맞대결이 무산되었다. [2013년](../Page/2013년.md "wikilink")의 선전의 배경에는 각각 타율 부문 1, 3, 4, 10위를 차지한 [이병규](../Page/이병규_\(1974년\).md "wikilink"), [이진영](../Page/이진영.md "wikilink"), [박용택](../Page/박용택.md "wikilink"), [정성훈을](../Page/정성훈_\(1980년\).md "wikilink") 비롯한 베테랑 야수들의 활약과 [정의윤](../Page/정의윤.md "wikilink"), [김용의](../Page/김용의.md "wikilink"), [문선재](../Page/문선재.md "wikilink"), [손주인](../Page/손주인.md "wikilink") 등 신진 세력의 성장이 있었으며, [봉중근](../Page/봉중근.md "wikilink"), [이동현](../Page/이동현_\(1983년\).md "wikilink") 등 건재한 불펜과 2년 만에 10승 투수 3명([류제국](../Page/류제국.md "wikilink"), [레다메스 리즈](../Page/레다메스_리즈.md "wikilink"), [우규민](../Page/우규민.md "wikilink"))이 등장한 선발진은 팀 방어율 1위 (3.72)를 달성하였다.
+전력 보강에도 불구하고 시즌 전 전문가들은 LG 트윈스가 중하위권에 머물 것으로 예상하였다. 우려대로 5월 중순에는 7위까지 쳐졌으나 [5월 17일](../Page/5월_17일.md "wikilink") SK전부터 [6월 23일](../Page/6월_23일.md "wikilink") 삼성전까지 일명 '운명의 33연전'에서 22승 9패(우천취소 2경기) 라는 놀라운 승률을 기록하였으며, [6월 30일](../Page/6월_30일.md "wikilink") SK전에서 승리하면서 10연속 위닝 시리즈를 달성하였다. 시즌 종료를 2경기 앞두고 자력으로 플레이오프에 직행할 수 없는 상황이 되었으나 [10월 5일](../Page/10월_5일.md "wikilink") [잠실야구장](https://ko.wikipedia.org/wiki/잠실야구장 "wikilink")에서 열린 두산과의 시즌 최종전에서 승리하였고, 2위를 눈앞에 두었던 [넥센 히어로즈가](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 같은 시각 [한밭종합운동장 야구장에서](../Page/한밭종합운동장_야구장.md "wikilink") 열린 [한화 이글스전에서](../Page/한화_이글스.md "wikilink") 예상 외로 외국인 [투수](../Page/투수.md "wikilink") [데니 바티스타의](../Page/데니_바티스타.md "wikilink") 12탈삼진 호투에 마무리 [송창식의](../Page/송창식_\(야구_선수\).md "wikilink") 역투로 막혀 패하고 말았다. LG는 극적으로 2위를 확정지으며 플레이오프 직행에 성공하였다. 11년만의 포스트시즌 진출이자, LG의 플레이오프 직행은 [1997년](../Page/1997년.md "wikilink") 이후 16년 만이었다. 같은 날 마무리 투수 [봉중근](../Page/봉중근.md "wikilink")은 한 시즌 팀 최다 세이브(38세이브)를 달성하였다. 또한 이날 경기 후에는 [1루수](https://ko.wikipedia.org/wiki/1루수 "wikilink") [최동수의](https://ko.wikipedia.org/wiki/최동수_\(야구_선수\) "wikilink") 은퇴식이 열렸다. 그렇게 플레이오프에 진출한 LG 트윈스는 준플레이오프에서 리버스 스윕을 하고 올라온 [두산베어스에게](../Page/두산_베어스.md "wikilink") 플레이오프에서 3-1로 패하면서, [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 진출에 실패해 [삼성과의](../Page/삼성_라이온즈.md "wikilink") 맞대결이 무산되었다. [2013년](../Page/2013년.md "wikilink")의 선전의 배경에는 각각 타율 부문 1, 3, 4, 10위를 차지한 [이병규](../Page/이병규_\(1974년\).md "wikilink"), [이진영](../Page/이진영.md "wikilink"), [박용택](../Page/박용택.md "wikilink"), [정성훈을](../Page/정성훈_\(1980년\).md "wikilink") 비롯한 베테랑 야수들의 활약과 [정의윤](../Page/정의윤.md "wikilink"), [김용의](../Page/김용의.md "wikilink"), [문선재](../Page/문선재.md "wikilink"), [손주인](../Page/손주인.md "wikilink") 등 신진 세력의 성장이 있었으며, [봉중근](../Page/봉중근.md "wikilink"), [이동현](../Page/이동현_\(1983년\).md "wikilink") 등 건재한 불펜과 2년 만에 10승 투수 3명([류제국](../Page/류제국.md "wikilink"), [레다메스 리즈](../Page/레다메스_리즈.md "wikilink"), [우규민](../Page/우규민.md "wikilink"))이 등장한 선발진은 팀 방어율 1위 (3.72)를 달성하였다.
 
 ### 2014년
 
@@ -437,7 +437,7 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 <td></td>
 <td></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/이순철" title="wikilink">이순철</a><br />
-<a href="../Page/양승호.md" title="wikilink">양승호</a><small>(대행)</small></strong></p></td>
+<a href="../Page/양승호_(야구인).md" title="wikilink">양승호</a><small>(대행)</small></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -705,7 +705,7 @@ LG 트윈스에서는 [한국 프로 야구 최우수 선수](https://ko.wikiped
 (<a href="../Page/두산_베어스.md" title="wikilink">두산 베어스</a>, 내야수)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2020년_KBO_리그_2차_드래프트" title="wikilink">2020</a></p></td>
+<td><p><a href="../Page/2020년_KBO_리그_2차_드래프트.md" title="wikilink">2020</a></p></td>
 <td><p><a href="../Page/백청훈.md" title="wikilink">백청훈</a><br />
 (<a href="../Page/SK_와이번스.md" title="wikilink">SK 와이번스</a>, 투수)</p></td>
 <td><p><a href="../Page/정근우.md" title="wikilink">정근우</a><br />
@@ -723,85 +723,12 @@ LG 트윈스에서는 [한국 프로 야구 최우수 선수](https://ko.wikiped
 | [350px](https://ko.wikipedia.org/wiki/파일:KBO_Retired_LG_41_svg.png "wikilink") | [350px](https://ko.wikipedia.org/wiki/파일:KBO_Retired_LG_9.png "wikilink") |
 | [김용수](../Page/김용수_\(야구인\).md "wikilink")                                       | [이병규](../Page/이병규_\(1974년\).md "wikilink")                                |
 
-## 응원
-
-#### 타자응원가
-
-  - [박용택](../Page/박용택.md "wikilink") - 저작권 문제로 사용안함
-
-\- 등장곡 : [김범수의](../Page/김범수_\(가수\).md "wikilink") '나타나'
-
-  - [오지환](../Page/오지환.md "wikilink") - 원곡 : [박진영](../Page/박진영.md "wikilink")의 '너의 뒤에서'
-
-가사 : 무적LG 오지환\! 무적LG 오지환\! 워어어어어어어 무\!적\!L\!G\!오\!지\!환\!
-\-등장곡:
-
-  - [김용의](../Page/김용의.md "wikilink") - 원곡 : 영화 신부수업OST '여자를 내려주세요'
-
-가사 : 날려라 L\!G\! 김용의\~ 날려라 L\!G\! 김용의\~ 워어어어\~ 어어어어\~ 무\!적\!L\!G\!김\!용\!의\!
-
-  - [정주현](../Page/정주현.md "wikilink") - 원곡 : 뉴질랜드 민요 'Epo i tai tai e'
-
-가사 : LG의 정주현\~ 오 LG의 정주현\~ 정주현 안타 정주현 안타안타 오\! 오오오오오\~
-
-\-등장곡 : Maroon5의 Lucky strike
-
-  - [채은성](../Page/채은성.md "wikilink") - 원곡 : [쥬얼리](../Page/쥬얼리.md "wikilink") - Step
-
-가사 : 채은성\~ 힘차게 날아올라봐\~ LG의 승리위하여\~ 채은성 넌 빛나고 있어\~ 채은성\~ 힘차게 날아올라봐\~ LG의 승리위하여\~ 채은성 주인공은 바로 너\~
-\- 등장곡 : Carly Rae Jepsen 'I Really Like You'
-
-  - [박지규](../Page/박지규.md "wikilink") - 원곡 : 동요 -훌랄라폴카
-
-가사 : 박지규 안타\~ 박지규 안타\~ 박지규 안타\~ 타타타\!
-
-  - [유강남](../Page/유강남.md "wikilink") - 원곡 : [Lady Gaga](../Page/레이디_가가.md "wikilink") - The Edge of Glory
-
-가사 : 무적LG\~ (무적LG\~) 유강남\~(유강남\~) 워어 어어어\~ LG의\~(LG의\~) 유강남\~ 워어 워우워\~(x2)
-\- 등장곡 : [싸이](../Page/싸이.md "wikilink")의 [강남스타일](../Page/강남스타일.md "wikilink")
-
-  - [양석환](../Page/양석환.md "wikilink") - 원곡 : Lady GaGa - Bad Romance(군입대)
-
-가사 : LG의 양석환 안타을 위해 워\~ 양석환 워워워워\~ LG의 양석환 안타을 위해 워\~ 양석환 워워워워\~ 워\~ 워워워\~ 워워워\~ LG 양석환 워워워워\~ 워\~ 워워워 워워워\~ LG 양석환
-\- 등장곡 : 블락비 - 잭팟
-
-  - [이형종](https://ko.wikipedia.org/wiki/이형종 "wikilink") - 원곡 : 마야의 위풍당당
-
-가사 : 오 LG 이형종\~ 오 LG 이형종\~ 오 LG 이형종\~ 워 워어어어 힘차게 달려가라 LG 이형종\~\[22\]
-\-등장곡 : 리치&레오(빅스)의 마지막 승부
-
-  - [안익훈](../Page/안익훈.md "wikilink") - 원곡 :(군입대)
-
-가사 : 오\! 안익훈\~ 오\! 안익훈\~ 무적 L\!G\! 승리위하여\~ -등장곡 : 프로듀스 101 - 나야 나 (PICK ME)
-
-  - [이천웅](../Page/이천웅.md "wikilink") - 원곡 : Kelly Clackson - My life would suck without you
-
-가사 : 무적LG\~ 이천웅\~ 워우워\~예\~ x4
-\-등장곡 : 박진영의 swing baby
-
-  - [정상호](../Page/정상호.md "wikilink") - 저작권문제로 잠시 이용안하는중
-
-\-등장곡 : LMNT의 juliet
-
-  - [최재원](../Page/최재원_\(야구_선수\).md "wikilink") - 원곡 :
-
-가사 : LG 최재원 안타\~ LG 최재원 안타\~ 우리가 함께 해 LG 최재원\~
-**타자공통응원** - 원곡 :
-\-가사 : (빠바바밤)안\! (빠바바밤)타\! (빠바바바바밤) O\!O\!O\!(O에는 선수이름)
-원곡 : 남진의 님과함께
-\- 가사 : (저 푸른 초원위에) OOO 안타\! (그림같은 집을 짓고) OOO 안타\! (사랑하는 우리님과) OOO 안타\! (한 백연 살고싶어) OOO 안타\!
-
-### 응원단
+## 응원단
 
   - 아나운서 : 황건하
-
-<!-- end list -->
-
   - 응원단장 : 김정석
-
-<!-- end list -->
-
-  - 치어리더 : 유세리, 장세희, 윤소은, 차영현, 하지원, 김도희, 남궁혜미, 정다예, 이연경 　
+  - 치어리더 팀장 : 정다혜
+  - 치어리더 : 유세리, 장세희, 윤소은, 차영현, 하지원, 김도희, 남궁혜미, 이연경 　
 
 ## 같이 보기
 
@@ -839,4 +766,3 @@ LG 트윈스에서는 [한국 프로 야구 최우수 선수](https://ko.wikiped
 19.
 20.
 21.
-22. [이진영](../Page/이진영.md "wikilink")이 LG 트윈스시절에 사용하던 응원가. 단 [이진영](../Page/이진영.md "wikilink") 버전은 '당당히 마주하라'였고 [이형종](https://ko.wikipedia.org/wiki/이형종 "wikilink")버전은 '힘차게 달려가라'로 개사

@@ -154,7 +154,7 @@
 
 [right](https://ko.wikipedia.org/wiki/파일:20111112_renault_samsung_sm7_1.jpg "wikilink") [right](https://ko.wikipedia.org/wiki/파일:20111112_renault_samsung_sm7_2.jpg "wikilink")
 
-[현대 제네시스와](../Page/현대_제네시스.md "wikilink") \[\[쌍용_체어맨\#2세대(W200)|쌍용 체어맨 W\]\[그랜저5G(HG)\]\] 등 [대한민국](../Page/대한민국.md "wikilink")산 대형 신차가 출시될 예정인 상황에서 상품성 강화 및 신선함 유지를 위해 [2008년](../Page/2008년.md "wikilink") [1월 3일에](../Page/1월_3일.md "wikilink") 페이스 리프트를 거쳐 뉴 아트라는 서브 네임이 더해졌다. 헤드 램프를 비롯한 프론트가 바뀌어 [SM5(2세대)와](https://ko.wikipedia.org/wiki/르노삼성_SM5#2세대 "wikilink") 휀더 형상이 다르게 되었으며, 리어 또한 리어 램프를 비롯한 트렁크 리드와 리어 범퍼가 바뀌었다. [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 실내 공기 청정 시스템인 SPI 모듈이 기본 적용되었다. [2009년](../Page/2009년.md "wikilink") [4월 1일에는](../Page/4월_1일.md "wikilink") 프레스티지를 추가하여 선택의 폭을 넓혔다.\[4\] [2011년 8월에](../Page/2011년_8월.md "wikilink") 올 뉴 SM7로 풀 모델 체인지를 거쳤다.
+[현대 제네시스와](../Page/현대_제네시스.md "wikilink") [쌍용 체어맨 W](https://ko.wikipedia.org/wiki/쌍용_체어맨#2세대\(W200\) "wikilink"), [현대 그랜저 HG](https://ko.wikipedia.org/wiki/현대_그랜저_HG "wikilink") 등 [대한민국](../Page/대한민국.md "wikilink")산 대형 신차가 출시될 예정인 상황에서 상품성 강화 및 신선함 유지를 위해 [2008년](../Page/2008년.md "wikilink") [1월 3일에](../Page/1월_3일.md "wikilink") 페이스 리프트를 거쳐 뉴 아트라는 서브 네임이 더해졌다. 헤드 램프를 비롯한 프론트가 바뀌어 [SM5(2세대)와](https://ko.wikipedia.org/wiki/르노삼성_SM5#2세대 "wikilink") 휀더 형상이 다르게 되었으며, 리어 또한 리어 램프를 비롯한 트렁크 리드와 리어 범퍼가 바뀌었다. [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 실내 공기 청정 시스템인 SPI 모듈이 기본 적용되었다. [2009년](../Page/2009년.md "wikilink") [4월 1일에는](../Page/4월_1일.md "wikilink") 프레스티지를 추가하여 선택의 폭을 넓혔다.\[4\] [2011년 8월에](../Page/2011년_8월.md "wikilink") 올 뉴 SM7로 풀 모델 체인지를 거쳤다.
 
 <table>
 <thead>

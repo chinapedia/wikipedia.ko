@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [서처 II](https://ko.wikipedia.org/wiki/서처_II).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:IAI-Searcher2.jpg "wikilink") **서처 II**(Searcher Mk II System)는 [이스라엘](../Page/이스라엘.md "wikilink") [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")사가 제작한 중저고도 무인 정찰기이다. 3세대였던 서처 I에 비해 서처 II는 4세대 무인기 시스템이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:IAI-Searcher2.jpg "wikilink") **서처 II**()는 [이스라엘](../Page/이스라엘.md "wikilink") [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")사가 제작한 중저고도 무인 정찰기이다. 3세대였던 서처 I에 비해 서처 II는 4세대 무인기 시스템이다.
 
 ## 제원
 

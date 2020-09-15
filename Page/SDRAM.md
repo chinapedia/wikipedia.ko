@@ -60,6 +60,6 @@ SDRAM 장치는 내부적으로 2개나 4개 또는 8개의 독립된 내부 데
 
 ## 각주
 
-[분류:컴퓨터 메모리](https://ko.wikipedia.org/wiki/분류:컴퓨터_메모리 "wikilink")
+[SDRAM](https://ko.wikipedia.org/wiki/분류:SDRAM "wikilink") [분류:대한민국의 발명품](https://ko.wikipedia.org/wiki/분류:대한민국의_발명품 "wikilink")
 
 1.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [아스널 FC](https://ko.wikipedia.org/wiki/아스널_FC).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Trophy_presentation_Highbury_2004.JPG "wikilink") **아스널 풋볼 클럽**()은 [런던](../Page/런던.md "wikilink")을 연고지로 [홀로웨이](https://ko.wikipedia.org/wiki/홀로웨이 "wikilink")의 [에미레이츠 스타디움을](https://ko.wikipedia.org/wiki/에미레이츠_스타디움 "wikilink") 홈구장으로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 잉글랜드의 1부 리그인 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 속해 있다. 아스널 FC(이하 아스널)는 현재 잉글랜드에서 가장 성공한 클럽들 중 하나이며, 13번의 리그 우승을 이뤘고, [FA컵](../Page/FA컵.md "wikilink")에서 13번의 우승으로 [맨체스터 유나이티드를](https://ko.wikipedia.org/wiki/맨체스터_유나이티드 "wikilink") 제치고 잉글랜드 최다 우승 기록을 가지고있다. 그리고 당시 [풋볼 리그](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 1919-20 시즌부터 시작하여 그 동안 한번도 2부 리그로 강등되지 않으면서 연속적으로 가장 오랫동안 1부 리그 잔류 기록을 세우고 있는 팀이기도 하다. 또한 20세기 평균 8.5등으로 영국 최고의 성적을 거두고 있다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Trophy_presentation_Highbury_2004.JPG "wikilink") **아스널 풋볼 클럽**()은 [런던](../Page/런던.md "wikilink")을 연고지로 [홀로웨이](https://ko.wikipedia.org/wiki/홀로웨이 "wikilink")의 [에미레이츠 스타디움을](https://ko.wikipedia.org/wiki/에미레이츠_스타디움 "wikilink") 홈구장으로 하는 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 잉글랜드의 1부 리그인 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 속해 있다. 아스널 FC(이하 아스널)는 현재 잉글랜드에서 가장 성공한 클럽들 중 하나이며, 13번의 리그 우승을 이뤘고, [FA컵](../Page/FA컵.md "wikilink")에서 14번의 우승으로 [맨체스터 유나이티드를](https://ko.wikipedia.org/wiki/맨체스터_유나이티드 "wikilink") 제치고 잉글랜드 최다 우승 기록을 가지고있다. 그리고 당시 [풋볼 리그](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 1919-20 시즌부터 시작하여 그 동안 한번도 2부 리그로 강등되지 않으면서 연속적으로 가장 오랫동안 1부 리그 잔류 기록을 세우고 있는 팀이기도 하다. 또한 20세기 평균 8.5등으로 영국 최고의 성적을 거두고 있다.
 
 아스널은 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 이후인 1970-71 시즌에 리그와 FA컵에서 우승하면서 20세기에 더블을 기록한 두 번째 팀이 되었다. 이후 지금까지 두 번의 리그와 FA컵 우승 더블, 한 번의 컵 더블, 그리고 프리미어리그 최초의 [무패 우승을](https://ko.wikipedia.org/wiki/무패_우승 "wikilink") 기록하였다. 또한 [2005-06년 UEFA 챔피언스리그](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2005-06 "wikilink") 결승전에 진출해, [런던](../Page/런던.md "wikilink") 연고 축구단으로는 [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") 결승전에 진출한 첫 번째 팀이 되기도 하였다.
 
@@ -167,9 +167,9 @@
 
   -
 
-    **우승 (13, 최다 기록)**: 1929-30, 1935-36, 1949-50, 1970-71, 1978-79, 1992-93, 1997-98, 2001-02, 2002-03, 2004-05, 2013-14, 2014-15, 2016-17
+    **우승 (14, 최다 기록)**: 1929-30, 1935-36, 1949-50, 1970-71, 1978-79, 1992-93, 1997-98, 2001-02, 2002-03, 2004-05, 2013-14, 2014-15, 2016-17, 2019-20
 
-    **준우승 (7)**: 1926-27, 1931-32, 1951-52, 1971-72, 1977-78, 1979-80, 2000-01
+    , **준우승 (7)**: 1926-27, 1931-32, 1951-52, 1971-72, 1977-78, 1979-80, 2000-01
 
 <!-- end list -->
 
@@ -191,7 +191,7 @@
 
   -
 
-    **우승 (15)**: 1930, 1931, 1933, 1934, 1938, 1948, 1953, 1991\*, 1998, 1999, 2002, 2004, 2014, 2015, 2017
+    **우승 (16)**: 1930, 1931, 1933, 1934, 1938, 1948, 1953, 1991\*, 1998, 1999, 2002, 2004, 2014, 2015, 2017, 2020
 
     **준우승 (7)**: 1935, 1936, 1979, 1989, 1993, 2003, 2005
 
@@ -444,7 +444,7 @@
 
 ### 1군 선수 명단
 
-2020년 3월 20일 기준\[108\]
+2020년 8월 14일 기준\[108\]          
 
 ### 임대 선수 명단
 
@@ -544,6 +544,12 @@
 <td></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
 </tr>
+<tr class="odd">
+<td><p>2020</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/피에르-에메릭_오바메양" title="wikilink">피에르-에메릭 오바메양</a></p></td>
+<td></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -589,53 +595,47 @@
 </tr>
 <tr class="even">
 <td><p>수석 코치</p></td>
-<td><p><a href="../Page/프레디_융베리.md" title="wikilink">프레디 융베리</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>수석 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스티브_라운드" title="wikilink">스티브 라운드</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>수석 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/알베르트_스투이벤버그" title="wikilink">알베르트 스투이벤버그</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>골키퍼 코치</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/살_비보" title="wikilink">살 비보</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>골키퍼 코치</p></td>
 <td><p>이냐키 카나 파본</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>유소년 아카데미 감독</p></td>
 <td><p><a href="../Page/페어_메르테자커.md" title="wikilink">페어 메르테자커</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>U-23 감독</p></td>
 <td><p><a href="../Page/스티브_볼드.md" title="wikilink">스티브 볼드</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Head of performance</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쉐드_포사이스" title="wikilink">쉐드 포사이스</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>클럽 주치의</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/게리_오드리스콜" title="wikilink">게리 오드리스콜</a></p></td>
 <td></td>

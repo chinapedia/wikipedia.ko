@@ -75,7 +75,7 @@
 
 롤링은 [워너 브라더스와](../Page/워너_브라더스.md "wikilink") 《해리 포터》 시리즈의 영화 계약을 할 때 주요 규정 중 하나로 영화에 등장하는 모든 배우는 [영국인](../Page/영국인.md "wikilink")으로 캐스팅하고 모든 촬영지는 영국에서 촬영하는 것을 내걸었고, 일반적으로 준수되었다.\[68\] 당초에는 영화 감독으로 [스티븐 스필버그가](../Page/스티븐_스필버그.md "wikilink") 언급 되었지만 롤링과 제작사와의 마찰로 성사되지 않았고,\[69\] 워너 브라더스는 가족 중심의 친화적인 필름을 원해 《[나홀로 집에](https://ko.wikipedia.org/wiki/나홀로_집에 "wikilink")》시리즈와 《[미세스 다웃파이어](../Page/미세스_다웃파이어.md "wikilink")》 등으로 알려진 [크리스 콜럼버스를](../Page/크리스_콜럼버스.md "wikilink") 선택했다.\[70\]
 
-롤링은 전 시리즈에서 모든 스크립트를 검토하고 영화에 대한 여러 가지 창의적인 제어를 얻었을 뿐 아니라,\[71\] 최종장을 두 편으로 나눴고 《해리 포터와 죽음의 성물》에 프로듀서로 참여했다.\[72\] 《해리 포터》 영화 시리즈는 10년동안 총 8편의 영화로 제작되며, 영화관 입장권 판매로만 64억 달러(한화 약 6조 7700억 원)의 엄청난 수입을 거두웠다.
+롤링은 전 시리즈에서 모든 스크립트를 검토하고 영화에 대한 여러 가지 창의적인 조언을 했을 뿐 아니라,\[71\] 최종장을 두 편으로 나눴고 《해리 포터와 죽음의 성물》에 프로듀서로 참여했다.\[72\] 《해리 포터》 영화 시리즈는 10년동안 총 8편의 영화로 제작되며, 영화관 입장권 판매로만 64억 달러(한화 약 6조 7700억 원)의 엄청난 수입을 거두웠다.
 
 롤링과 프로듀서 [데이비드 헤이먼](https://ko.wikipedia.org/wiki/데이비드_헤이먼 "wikilink")·[데이비드 배런](https://ko.wikipedia.org/wiki/데이비드_배런 "wikilink")(David Barron), 그리고 감독 [데이비드 예이츠](https://ko.wikipedia.org/wiki/데이비드_예이츠 "wikilink")·[마이크 뉴얼](../Page/마이크_뉴얼.md "wikilink")·[알폰소 쿠아론은](../Page/알폰소_쿠아론.md "wikilink") [영국 아카데미 영화상 시상식에서](https://ko.wikipedia.org/wiki/영국_아카데미_영화상 "wikilink") 《해리 포터》 영화 시리즈의 전세계적인 성공과 공헌을 인정받아 마이클 밸컨 공로상(Michael Balcon Award for Outstanding British Contribution to Cinema)을 받았다.\[73\]
 
@@ -137,7 +137,7 @@
 
 ### 성인 소설
 
-  - 《캐주얼 베이컨시》 (The Casual Vacancy) (2012년)
+  - 《[캐주얼 베이컨시](https://ko.wikipedia.org/wiki/캐주얼_베이컨시 "wikilink")》 (The Casual Vacancy) (2012년)
 
 ### 코모란 스트라이크 시리즈
 
@@ -264,7 +264,7 @@
 
   -
   -
-[J._K._롤링](https://ko.wikipedia.org/wiki/분류:J._K._롤링 "wikilink") [분류:1965년 태어남](https://ko.wikipedia.org/wiki/분류:1965년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:기독교 작가](https://ko.wikipedia.org/wiki/분류:기독교_작가 "wikilink") [분류:잉글랜드의 소설가](https://ko.wikipedia.org/wiki/분류:잉글랜드의_소설가 "wikilink") [분류:잉글랜드의 아동문학 작가](https://ko.wikipedia.org/wiki/분류:잉글랜드의_아동문학_작가 "wikilink") [분류:잉글랜드의 교육자](https://ko.wikipedia.org/wiki/분류:잉글랜드의_교육자 "wikilink") [분류:잉글랜드의 판타지 작가](https://ko.wikipedia.org/wiki/분류:잉글랜드의_판타지_작가 "wikilink") [분류:잉글랜드의 영화 제작자](https://ko.wikipedia.org/wiki/분류:잉글랜드의_영화_제작자 "wikilink") [분류:잉글랜드의 억만장자](https://ko.wikipedia.org/wiki/분류:잉글랜드의_억만장자 "wikilink") [분류:여자 억만장자](https://ko.wikipedia.org/wiki/분류:여자_억만장자 "wikilink") [분류:대영제국 훈장 장교](https://ko.wikipedia.org/wiki/분류:대영제국_훈장_장교 "wikilink") [분류:휴고상 수상작가](https://ko.wikipedia.org/wiki/분류:휴고상_수상작가 "wikilink") [분류:프랑스계 잉글랜드인](https://ko.wikipedia.org/wiki/분류:프랑스계_잉글랜드인 "wikilink") [분류:스코틀랜드계 잉글랜드인](https://ko.wikipedia.org/wiki/분류:스코틀랜드계_잉글랜드인 "wikilink") [분류:웨일스계 잉글랜드인](https://ko.wikipedia.org/wiki/분류:웨일스계_잉글랜드인 "wikilink") [분류:글로스터셔주 출신](https://ko.wikipedia.org/wiki/분류:글로스터셔주_출신 "wikilink") [분류:엑서터 대학교 동문](https://ko.wikipedia.org/wiki/분류:엑서터_대학교_동문 "wikilink") [분류:에든버러 대학교 동문](https://ko.wikipedia.org/wiki/분류:에든버러_대학교_동문 "wikilink") [분류:해리 포터](https://ko.wikipedia.org/wiki/분류:해리_포터 "wikilink") [분류:포르투갈에 거주한 영국인](https://ko.wikipedia.org/wiki/분류:포르투갈에_거주한_영국인 "wikilink")
+[J._K._롤링](https://ko.wikipedia.org/wiki/분류:J._K._롤링 "wikilink") [분류:1965년 태어남](https://ko.wikipedia.org/wiki/분류:1965년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:기독교 작가](https://ko.wikipedia.org/wiki/분류:기독교_작가 "wikilink") [분류:잉글랜드의 소설가](https://ko.wikipedia.org/wiki/분류:잉글랜드의_소설가 "wikilink") [분류:잉글랜드의 아동문학 작가](https://ko.wikipedia.org/wiki/분류:잉글랜드의_아동문학_작가 "wikilink") [분류:잉글랜드의 교육자](https://ko.wikipedia.org/wiki/분류:잉글랜드의_교육자 "wikilink") [분류:잉글랜드의 판타지 작가](https://ko.wikipedia.org/wiki/분류:잉글랜드의_판타지_작가 "wikilink") [분류:잉글랜드의 영화 제작자](https://ko.wikipedia.org/wiki/분류:잉글랜드의_영화_제작자 "wikilink") [분류:잉글랜드의 억만장자](https://ko.wikipedia.org/wiki/분류:잉글랜드의_억만장자 "wikilink") [분류:여자 억만장자](https://ko.wikipedia.org/wiki/분류:여자_억만장자 "wikilink") [분류:대영제국 훈장 장교](https://ko.wikipedia.org/wiki/분류:대영제국_훈장_장교 "wikilink") [분류:휴고상 수상작가](https://ko.wikipedia.org/wiki/분류:휴고상_수상작가 "wikilink") [분류:프랑스계 잉글랜드인](https://ko.wikipedia.org/wiki/분류:프랑스계_잉글랜드인 "wikilink") [분류:스코틀랜드계 잉글랜드인](https://ko.wikipedia.org/wiki/분류:스코틀랜드계_잉글랜드인 "wikilink") [분류:웨일스계 잉글랜드인](https://ko.wikipedia.org/wiki/분류:웨일스계_잉글랜드인 "wikilink") [분류:글로스터셔주 출신](https://ko.wikipedia.org/wiki/분류:글로스터셔주_출신 "wikilink") [분류:엑서터 대학교 동문](https://ko.wikipedia.org/wiki/분류:엑서터_대학교_동문 "wikilink") [분류:에든버러 대학교 동문](https://ko.wikipedia.org/wiki/분류:에든버러_대학교_동문 "wikilink") [분류:해리 포터](https://ko.wikipedia.org/wiki/분류:해리_포터 "wikilink") [분류:포르투갈에 거주한 영국인](https://ko.wikipedia.org/wiki/분류:포르투갈에_거주한_영국인 "wikilink") [분류:우울증 병력이 있는 사람](https://ko.wikipedia.org/wiki/분류:우울증_병력이_있는_사람 "wikilink")
 
 1.
 2.

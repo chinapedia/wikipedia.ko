@@ -45,7 +45,7 @@
 
   - [부커 T. & 더 M.G.'s의](https://ko.wikipedia.org/wiki/부커_T._&_더_M.G.'s "wikilink") *Abbey Road* 커버 앨범인 《McLemore Avenue''(1969년)에서, 그들은 자신들이 작업했던 스택스 레코즈 스튜디오가 위치한 거리 이름을 땄다.
   - [레드 핫 칠리 페퍼스는](../Page/레드_핫_칠리_페퍼스.md "wikilink") 《The Abbey Road E.P.》라는 앨범에서 앨범을 따라했다.
-  - 폴 매카트니는 《[Paul Is Live](https://ko.wikipedia.org/wiki/Paul_Is_Live "wikilink")》라는 앨범에서 스스로 이 앨범 사진을 따라했다. 이는 폴 매카트니 사망설과도 관련되어 있다. 이 앨범 커버 사진에서 비틀의 번호판은 51IS(당시 그의 나이)로 바뀌었고 《The Beatles》앨범의 〈[Martha My Dear](https://ko.wikipedia.org/wiki/Martha_My_Dear "wikilink")〉란 곡에 등장하는 자신의 애완견 Martha의 새끼 중 한 마리와 함께 등장한다.
+  - 폴 매카트니는 《[Paul Is Live](../Page/Paul_Is_Live.md "wikilink")》라는 앨범에서 스스로 이 앨범 사진을 따라했다. 이는 폴 매카트니 사망설과도 관련되어 있다. 이 앨범 커버 사진에서 비틀의 번호판은 51IS(당시 그의 나이)로 바뀌었고 《The Beatles》앨범의 〈[Martha My Dear](https://ko.wikipedia.org/wiki/Martha_My_Dear "wikilink")〉란 곡에 등장하는 자신의 애완견 Martha의 새끼 중 한 마리와 함께 등장한다.
   - 미국의 TV만화 [심슨 가족에서](../Page/심슨_가족.md "wikilink") 호머 심슨의 남성 4중창 그룹 *The Be Sharps*의 두 번째 앨범 "Bigger Than Jesus"의 앨범 커버는 4명의 멤버들이 《Abbey Road》의 커버 사진 모습으로 물 위를 걷는 모습이다.
 
 ### 비틀
@@ -72,6 +72,8 @@
 | 전 세계 발매                              | [1987년](../Page/1987년.md "wikilink") [10월 10일](../Page/10월_10일.md "wikilink") | 애플, [EMI](../Page/EMI.md "wikilink")(팔로폰)                       | CD                                  | CDP 7 46446 2 |
 | [일본](../Page/일본.md "wikilink") (재발매) | [1998년](../Page/1998년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink")   | [도시바 EMI](https://ko.wikipedia.org/wiki/도시바_EMI "wikilink")     | CD                                  | TOCP 51122    |
 | [일본](../Page/일본.md "wikilink")       | [2004년](../Page/2004년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink")   | [도시바 EMI](https://ko.wikipedia.org/wiki/도시바_EMI "wikilink")     | 리마스터 LP                             | TOJP 60142    |
+
+## 각주
 
 ## 외부 링크
 

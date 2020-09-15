@@ -131,4 +131,4 @@ CATS: 하하하하하... (ハッハッハッハッハッ ・・・)<br />
   - [공식 AYBABTU 동영상 사이트](https://web.archive.org/web/20131228014933/http://www.planettribes.com/allyourbase/)
   - [퀵타임 동영상](http://www.overclocked.org/OCzerowing.htm)
 
-[분류:인터넷 밈](https://ko.wikipedia.org/wiki/분류:인터넷_밈 "wikilink") [분류:비디오 게임 문화](https://ko.wikipedia.org/wiki/분류:비디오_게임_문화 "wikilink")
+[분류:비디오 게임 밈](https://ko.wikipedia.org/wiki/분류:비디오_게임_밈 "wikilink") [분류:인용](https://ko.wikipedia.org/wiki/분류:인용 "wikilink")

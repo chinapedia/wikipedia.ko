@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [URL](https://ko.wikipedia.org/wiki/URL).
 
 
-**URL**(Uniform Resource Locator 또는 web address, )은 네트워크 상에서 자원이 어디 있는지를 알려주기 위한 규약이다. 즉, [컴퓨터 네트워크와](../Page/컴퓨터_네트워크.md "wikilink") 검색 [메커니즘](https://ko.wikipedia.org/wiki/메커니즘 "wikilink")에서의 위치를 지정하는, [웹 리소스에](https://ko.wikipedia.org/wiki/리소스_\(웹\) "wikilink") 대한 참조이다. 흔히 웹 사이트 주소로 알고 있지만, URL은 웹 사이트 주소뿐만 아니라 컴퓨터 네트워크상의 자원을 모두 나타낼 수 있다. 그 주소에 접속하려면 해당 URL에 맞는 [프로토콜을](../Page/통신_프로토콜.md "wikilink") 알아야 하고, 그와 동일한 프로토콜로 접속해야 한다.
+**URL**(Uniform Resource Locator 또는 web address, )은 네트워크 상에서 자원이 어디 있는지를 알려주기 위한 규약이다. 즉, [컴퓨터 네트워크와](../Page/컴퓨터_네트워크.md "wikilink") 검색 [메커니즘](https://ko.wikipedia.org/wiki/메커니즘 "wikilink")에서의 위치를 지정하는, [웹 리소스에](https://ko.wikipedia.org/wiki/리소스_\(웹\) "wikilink") 대한 참조이다. 쉽게 말해서, 웹 페이지를 찾기위한 주소를 말한다. 흔히 웹 사이트 주소로 알고 있지만, URL은 웹 사이트 주소뿐만 아니라 컴퓨터 네트워크상의 자원을 모두 나타낼 수 있다. 그 주소에 접속하려면 해당 URL에 맞는 [프로토콜을](../Page/통신_프로토콜.md "wikilink") 알아야 하고, 그와 동일한 프로토콜로 접속해야 한다.
 
 [FTP](https://ko.wikipedia.org/wiki/FTP "wikilink") 프로토콜인 경우에는 FTP [클라이언트](https://ko.wikipedia.org/wiki/클라이언트 "wikilink")를 이용해야 하고, [HTTP](../Page/HTTP.md "wikilink")인 경우에는 [웹 브라우저를](../Page/웹_브라우저.md "wikilink") 이용해야 한다. [텔넷](../Page/텔넷.md "wikilink")의 경우에는 텔넷 프로그램을 이용해서 접속해야 한다.
 

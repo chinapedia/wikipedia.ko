@@ -57,7 +57,7 @@ RNA는 분자구조와 생물학적 기능에 따라 9가지로 나뉜다.\[4\]
 [섬네일](https://ko.wikipedia.org/wiki/파일:TRNA_ribosomes_diagram_en.svg "wikilink") [세포](../Page/세포.md "wikilink")에서 이루어지는 [단백질](../Page/단백질.md "wikilink")의 형성에는 RNA, [DNA](../Page/DNA.md "wikilink"), [리보솜](../Page/리보솜.md "wikilink"), [효소](../Page/효소.md "wikilink") 등이 관여한다. 단백질의 형성과정은 다음과 같다.\[6\]
 
 1.  DNA에서 [mRNA](https://ko.wikipedia.org/wiki/mRNA "wikilink")가 [전사된다](../Page/전사_\(생물학\).md "wikilink"). 동시에 세포 내에서는 아미노산 활성화 효소에 의해 [tRNA](https://ko.wikipedia.org/wiki/tRNA "wikilink")에 [아미노산](../Page/아미노산.md "wikilink")(amino acid)이 부착된다.
-2.  mRNA의 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")는 3개씩 짝을 이뤄 하나의 [아미노산](../Page/아미노산.md "wikilink")을 지정한다. 예를 들어 UUU(우라실-우라실-우라실)는 [페닐알라닌](https://ko.wikipedia.org/wiki/페닐알라닌 "wikilink")을 지정한다.
+2.  mRNA의 [뉴클레오타이드](../Page/뉴클레오타이드.md "wikilink")는 3개씩 짝을 이뤄 하나의 [아미노산](../Page/아미노산.md "wikilink")을 지정한다. 예를 들어 UUU(우라실-우라실-우라실)는 [페닐알라닌](../Page/페닐알라닌.md "wikilink")을 지정한다.
 3.  전사된 mRNA가 리보솜의 소단위체(small subunit)에 부착된다.
 4.  1번에서 아미노산이 부착된 [tRNA](https://ko.wikipedia.org/wiki/tRNA "wikilink")가 mRNA의 지정된 [염기서열](https://ko.wikipedia.org/wiki/염기서열 "wikilink")의 뉴클레오타이드에 부착된다.(오른쪽 그림의 첫 단계)
 5.  리보솜의 큰 단위체(large subunit)가 소단위체(small subunit)와 결합한다.
@@ -79,7 +79,7 @@ RNA는 분자구조와 생물학적 기능에 따라 9가지로 나뉜다.\[4\]
 
 | 아미노산                                                    | 코돈                           | 아미노산                                                  | 코돈                           |
 | ------------------------------------------------------- | ---------------------------- | ----------------------------------------------------- | ---------------------------- |
-| [페닐알라닌](https://ko.wikipedia.org/wiki/페닐알라닌 "wikilink") | UUU, UUC                     | [류신](../Page/류신.md "wikilink")                        | UUA, UUG, CUU, CUC, CUA, CUG |
+| [페닐알라닌](../Page/페닐알라닌.md "wikilink")                    | UUU, UUC                     | [류신](../Page/류신.md "wikilink")                        | UUA, UUG, CUU, CUC, CUA, CUG |
 | [이소류신](https://ko.wikipedia.org/wiki/이소류신 "wikilink")   | AUU, AUC, AUA                | [메티오닌](https://ko.wikipedia.org/wiki/메티오닌 "wikilink") | AUG                          |
 | [발린](https://ko.wikipedia.org/wiki/발린 "wikilink")       | GUU, GUC, GUA, GUG           | [세린](../Page/세린.md "wikilink")                        | UCU, UCC, UCA, UCG, AGU, AGC |
 | [프롤린](https://ko.wikipedia.org/wiki/프롤린 "wikilink")     | CCU, CCC, CCA, CCG           | [트레오닌](https://ko.wikipedia.org/wiki/트레오닌 "wikilink") | ACU, ACC, ACA, ACG           |

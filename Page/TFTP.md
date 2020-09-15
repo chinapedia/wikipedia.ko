@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TFTP](https://ko.wikipedia.org/wiki/TFTP).
 
 
-**TFTP** (Trivial File Transfer Protocol)는 [FTP와](../Page/파일_전송_프로토콜.md "wikilink") 마찬가지로 파일을 전송하기 위한 프로토콜이지만, FTP보다 더 단순한 방식으로 파일을 전송한다. 따라서 데이터 전송 과정에서 데이터가 손실될 수 있는 등 불안정하다는 단점을 가지고 있다. 하지만 [FTP처럼](../Page/파일_전송_프로토콜.md "wikilink") 복잡한 [프로토콜을](../Page/통신_프로토콜.md "wikilink") 사용하지 않기 때문에 구현이 간단하다. [임베디드 시스템에서](../Page/임베디드_시스템.md "wikilink") [운영 체제](../Page/운영_체제.md "wikilink") 업로드로 주로 사용된다.
+**간단한 파일 전송 프로토콜** (TFTP, Trivial File Transfer Protocol)은 [FTP와](../Page/파일_전송_프로토콜.md "wikilink") 마찬가지로 파일을 전송하기 위한 프로토콜이지만, FTP보다 더 단순한 방식으로 파일을 전송한다. 따라서 데이터 전송 과정에서 데이터가 손실될 수 있는 등 불안정하다는 단점을 가지고 있다. 하지만 [FTP처럼](../Page/파일_전송_프로토콜.md "wikilink") 복잡한 [프로토콜을](../Page/통신_프로토콜.md "wikilink") 사용하지 않기 때문에 구현이 간단하다. [임베디드 시스템에서](../Page/임베디드_시스템.md "wikilink") [운영 체제](../Page/운영_체제.md "wikilink") 업로드로 주로 사용된다.
 
 1981년에 처음 표준화되었다.\[1\]
 

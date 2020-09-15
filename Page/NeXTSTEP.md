@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NeXTSTEP](https://ko.wikipedia.org/wiki/NeXTSTEP).
 
 
-**NeXTSTEP**(넥스트스텝)은 [애플사의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 공동 설립자인 [스티브 잡스가](../Page/스티브_잡스.md "wikilink") [1985년](../Page/1985년.md "wikilink") 설립한 [넥스트 사](https://ko.wikipedia.org/wiki/넥스트_사 "wikilink")(NeXT Inc.)에서 개발한 객체 지향형 [운영 체제이다](../Page/운영_체제.md "wikilink"). 넥스트 워크스테이션에 사용하기 위해 개발한 [유닉스](../Page/유닉스.md "wikilink") 계통의 [운영 체제로서](../Page/운영_체제.md "wikilink"), [소프트웨어](../Page/소프트웨어.md "wikilink") 개발을 [마우스](../Page/마우스.md "wikilink") 조작에 의한 그래픽 방식으로 처리할 수 있는 객체 지향형 기능을 제공하므로 [프로그램](../Page/컴퓨터_프로그램.md "wikilink") 개발 기간을 단축할 수 있다. 후에 랩소디(Rhapsody)를 거쳐 [OS X으로](https://ko.wikipedia.org/wiki/OS_X "wikilink") 발전되었다.
+**NeXTSTEP**(넥스트스텝)은 [애플](../Page/애플.md "wikilink")사의 공동 설립자인 [스티브 잡스가](../Page/스티브_잡스.md "wikilink") [1985년](../Page/1985년.md "wikilink") 설립한 [넥스트 사](https://ko.wikipedia.org/wiki/넥스트_사 "wikilink")(NeXT Inc.)에서 개발한 객체 지향형 [운영 체제이다](../Page/운영_체제.md "wikilink"). 넥스트 워크스테이션에 사용하기 위해 개발한 [유닉스](../Page/유닉스.md "wikilink") 계통의 [운영 체제로서](../Page/운영_체제.md "wikilink"), [소프트웨어](../Page/소프트웨어.md "wikilink") 개발을 [마우스](../Page/마우스.md "wikilink") 조작에 의한 그래픽 방식으로 처리할 수 있는 객체 지향형 기능을 제공하므로 [프로그램](../Page/컴퓨터_프로그램.md "wikilink") 개발 기간을 단축할 수 있다. 후에 랩소디(Rhapsody)를 거쳐 [OS X으로](https://ko.wikipedia.org/wiki/OS_X "wikilink") 발전되었다.
 
 넥스트스텝은 발매 당시 혁신적인 개발환경으로 사람들에게 큰 인상을 남겼다. 당시 [객체지향](https://ko.wikipedia.org/wiki/객체지향 "wikilink")개발 방법론과 개발도구가 생소하던 시점에 '모든것이 객체다' 다른 기치를 걸고 현재의 컴포넌트 지향적인 개발 환경과 비슷한 환경을 하였다. 당시 [오브젝티브-C](../Page/오브젝티브-C.md "wikilink")라는 생소한 언어를 사용함에도 불구하고 개발의 효율성으로 인하여 엔터프라이즈업계와 국방부에서 심심치 않게 사용되었다.
 

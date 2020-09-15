@@ -49,4 +49,4 @@ MMIX 칩에는 $0부터 $255까지 256개의 범용 레지스터와 32개의 특
   - [Donald Knuth's MMIX news page](http://www-cs-faculty.stanford.edu/~knuth/mmix-news.html) — [CWEB](https://ko.wikipedia.org/wiki/CWEB "wikilink")으로 만든 MMIX의 [오픈 소스](../Page/오픈_소스.md "wikilink") 시뮬레이터와 프로그래머 매뉴얼, 예제 프로그램.
   - [MMIXmasters web site](https://web.archive.org/web/20070516201842/http://mmixmasters.sourceforge.net/) TAOCP 1권 \~ 3권에서 예전 MIX로 만든 예제 프로그램을 새로운 MMIX로 바꾸려는 사람(MMIXmasters)들의 모임.
 
-[분류:컴퓨터 프로그래밍](https://ko.wikipedia.org/wiki/분류:컴퓨터_프로그래밍 "wikilink") [분류:추상기계](https://ko.wikipedia.org/wiki/분류:추상기계 "wikilink") [분류:도널드 커누스](https://ko.wikipedia.org/wiki/분류:도널드_커누스 "wikilink")
+[분류:컴퓨터 프로그래밍](https://ko.wikipedia.org/wiki/분류:컴퓨터_프로그래밍 "wikilink") [분류:추상기계](https://ko.wikipedia.org/wiki/분류:추상기계 "wikilink") [분류:도널드 커누스](https://ko.wikipedia.org/wiki/분류:도널드_커누스 "wikilink") [분류:명령어 집합 구조](https://ko.wikipedia.org/wiki/분류:명령어_집합_구조 "wikilink")

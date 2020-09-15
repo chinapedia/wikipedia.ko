@@ -96,7 +96,7 @@ Service층은  Plain Old Java Interfaces (POJI)  혹은  Plain Old Java Objec
   - Sun JCP [JSR-249](http://www.jcp.org/en/jsr/detail?id=249) (Mobile Service Architecture for CDC)
   - Sun JCP [JSR-277](http://www.jcp.org/en/jsr/detail?id=277) (Java Module System)
   - Sun JCP [JSR-291](http://www.jcp.org/en/jsr/detail?id=291) (Dynamic Component Support for Java SE - AKA OSGi 4.1)
-  - Sun JCP [JSR-294](http://www.jcp.org/en/jsr/detail?id=294) (Improved Modularity Support in the Java Programming Language)
+  - Sun JCP [JSR-294](https://web.archive.org/web/20120515164954/http://jcp.org/en/jsr/detail?id=294) (Improved Modularity Support in the Java Programming Language)
   - [HGi](http://www.homegatewayinitiative.org/) (Home Gateway initiative)
 
 ## 대한민국의 OSGi 커뮤니티

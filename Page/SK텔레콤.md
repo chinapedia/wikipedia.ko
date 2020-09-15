@@ -9,9 +9,9 @@
 
 1999년 신세대 전용 이동통신 브랜드인 ‘TTL’을 출시하였으며, 2000년에는 베트남 CDMA 이동전화 사업에 진출하였다. 2004년 위성DMB용 위성을 일본 MBCo와 공동으로 쏘아 올렸으며, 계열사인 [TU미디어](../Page/TU미디어.md "wikilink")를 통하여 이동전화용 위성DMB 방송을 제공하였으나, 이용률 부진과 단말기 부족 등으로 인하여 2012년에 서비스를 종료하였다. 2006년에는 미국의 EarthLink사와 ‘Helio’([힐리오](../Page/힐리오.md "wikilink"))라는 회사를 설립하여 미국 내의 [MVNO](https://ko.wikipedia.org/wiki/MVNO "wikilink") 사업을 진행하였으나, 2008년 6월 힐리오를 [버진모바일](https://ko.wikipedia.org/wiki/버진모바일 "wikilink")에 매각하였다.
 
-SK텔레콤은 2.1GHz대역 60MHz폭에서 [3G](https://ko.wikipedia.org/wiki/3G "wikilink")([HSPA+](https://ko.wikipedia.org/wiki/HSPA+ "wikilink"))를, 800MHz대역 20MHz폭(전국망)과 1.8GHz대역 35MHz폭(보조망)에서 LTE 및 광대역LTE-A로 서비스하고 있다. SK텔레콤은 2010년에 [HSPA+](https://ko.wikipedia.org/wiki/HSPA+ "wikilink")를 지원하기 위해 2.1GHz대역 20MHz폭을 추가로 배정받았으며, 2011년 8월 29일에 1.8GHz대역 35MHz폭을 추가로 배정받아 2012년 7월 1일, 세계 최초로 멀티캐리어를 지원하였다. 현재 주요 단말기 공급처는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink"), [LG전자](../Page/LG전자.md "wikilink"), [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 등이 있다.
+SK텔레콤은 2.1GHz대역 60MHz폭에서 [3G](https://ko.wikipedia.org/wiki/3G "wikilink")([HSPA+](https://ko.wikipedia.org/wiki/HSPA+ "wikilink"))를, 800MHz대역 20MHz폭(전국망)과 1.8GHz대역 35MHz폭(보조망)에서 LTE 및 광대역LTE-A로 서비스하고 있다. SK텔레콤은 2010년에 [HSPA+](https://ko.wikipedia.org/wiki/HSPA+ "wikilink")를 지원하기 위해 2.1GHz대역 20MHz폭을 추가로 배정받았으며, 2011년 8월 29일에 1.8GHz대역 35MHz폭을 추가로 배정받아 2012년 7월 1일, 세계 최초로 멀티캐리어를 지원하였다. 현재 주요 단말기 공급처는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink"), [LG전자](../Page/LG전자.md "wikilink"), [애플](../Page/애플.md "wikilink") 등이 있다.
 
-더욱이, SK텔레콤은 [2G](https://ko.wikipedia.org/wiki/2G "wikilink") [CDMA](https://ko.wikipedia.org/wiki/CDMA "wikilink") 시스템 노후화로 인한 주파수 재배치의 일환으로, 2019년에 종료 승인을 확정하였다. 이는, 2G 장비 노후화가 심해 통신망 장애 문제가 우려되고, 핵심부품의 단종으로 인한 유지보수의 불가로, 정상적인 서비스를 계속적으로 유지하기가 곤란하다는 전제 조건으로, 2G 서비스 종료를 선언한 것이다.
+더욱이, SK텔레콤은 [2020년](../Page/2020년.md "wikilink") [7월 27일에](../Page/7월_27일.md "wikilink") [2G](https://ko.wikipedia.org/wiki/2G "wikilink") [CDMA](https://ko.wikipedia.org/wiki/CDMA "wikilink") 서비스를 최종적으로 종료하였다. 이는, 2G 장비 노후화가 심해 통신망 장애 문제가 우려되고, 핵심부품의 단종으로 인한 유지보수의 불가로, 정상적인 서비스를 계속적으로 유지하기가 곤란하다는 전제 조건으로, 2G 서비스 종료를 선언한 것이다.
 
 ### LTE 상용화
 
@@ -65,13 +65,13 @@ SK텔레콤은 2.1GHz대역 60MHz폭에서 [3G](https://ko.wikipedia.org/wiki/3G
 
 ## 지배구조
 
-이사회는 사내이사 3인외이사 5인으로 구성된다. 사내이사는 최재원, 하성민, 서진우, 사외이사는 심달섭, 엄낙용, 임현진, 정재영, 조재호이다. (2011년 3월 현재) 2008년 이사회 내 위원회로서 기업시민위원회를 신설하였다. 이것은 기존의 윤리위원회를 개편한 것이다.\[4\]
+이사회는 사내이사 3인고 사외이사 5인으로 구성된다. 사내이사는 최재원, 하성민, 서진우, 사외이사는 심달섭, 엄낙용, 임현진, 정재영, 조재호이다. (2011년 3월 현재) 2008년 이사회 내 위원회로서 기업시민위원회를 신설하였다. 이것은 기존의 윤리위원회를 개편한 것이다.\[4\]
 
 ## 논란
 
-### 자유구속 앱
+### 어린이들의 [자유](../Page/자유.md "wikilink")구속 애플리케이션
 
-SK 텔레콤은 [ZEM](https://ko.wikipedia.org/wiki/ZEM "wikilink")이라는 앱을 만들이 어린이들의 게임중독을 막게 되었다. 부모들에게는 좋은 앱으로 평가받았으나 자녀들에게는 "별로다, 자유를 구속하니까 풀어줘라" 등의 의견의 나왔다.
+SK 텔레콤은 [ZEM](https://ko.wikipedia.org/wiki/ZEM "wikilink")이라는 [애플리케이션](https://ko.wikipedia.org/wiki/애플리케이션 "wikilink")을 만들어 수많은 어린이들의 게임중독을 막게 되었다. 부모들에게는 좋은 앱으로 평가받았으나 어린이들에게는 "별로다, 자유를 구속하니까 풀어줘라" 등의 의견의 나왔으며 욕을 많이 받는다.게다가 헌법 제 17조와 18조,유엔 아동 권리 협약 16조도 위반했다.
 
 ### 인터넷 댓글 아르바이트 논란
 
@@ -168,4 +168,4 @@ SK텔레콤이 [2018년 동계 올림픽에](../Page/2018년_동계_올림픽.md
 15. [SKT, 평창올림픽 KT중계망 훼손…오늘 부랴부랴 원상복구](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=001&aid=0009727839)
 16. [SKT, 하나카드 지분 49% 취득 의결](http://www.ddaily.co.kr/news/news_view.php?uid=57346)
 17. [하나카드, 49% 지분 SKT에 매각 방안 확정](http://www.fnnews.com/view?ra=Sent0401m_View&corp=fnnews&arcid=00000921845436&cDateYear=2009&cDateMonth=12&cDateDay=14)
-18. [SK텔레콤, 하나SK카드 지분 15% 우선 매각(종합](http://news.einfomax.co.kr/news/articleView.html?idxno=116832) 연합뉴스 2014.8.11 작성
+18. [SK텔레콤, 하나SK카드 지분 15% 우선 매각(종합](http://news.einfomax.co.kr/news/articleView.html?idxno=116832)  연합뉴스 2014.8.11 작성

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HTTPS](https://ko.wikipedia.org/wiki/HTTPS).
 
 
-**HTTPS**(, **HTTP over [TLS](../Page/전송_계층_보안.md "wikilink")**,\[1\]\[2\] **HTTP over SSL**,\[3\] **HTTP Secure**\[4\]\[5\])는 [월드 와이드 웹](../Page/월드_와이드_웹.md "wikilink") 통신 프로토콜인 [HTTP](../Page/HTTP.md "wikilink")의 보안이 강화된 버전이다. HTTPS는 통신의 인증과 암호화를 위해 [넷스케이프 커뮤니케이션즈 코퍼레이션이](https://ko.wikipedia.org/wiki/넷스케이프_커뮤니케이션즈_코퍼레이션 "wikilink") 개발했으며, [전자 상거래에서](../Page/전자_상거래.md "wikilink") 널리 쓰인다.
+**HTTPS**(, **HTTP over [TLS](../Page/전송_계층_보안.md "wikilink")**,\[1\]\[2\] **HTTP over SSL**,\[3\] **HTTP Secure**\[4\]\[5\])는 [월드 통볼시 웹](https://ko.wikipedia.org/wiki/월드_통볼시_웹 "wikilink") 통신 프로토콜인 [HTTP](../Page/HTTP.md "wikilink")의 보안이 강화된 버전이다. HTTPS는 통신의 인증과 암호화를 위해 [넷스케이프 커뮤니케이션즈 코퍼레이션이](https://ko.wikipedia.org/wiki/넷스케이프_커뮤니케이션즈_코퍼레이션 "wikilink") 개발했으며, [전자 로그인에서](https://ko.wikipedia.org/wiki/전자_로그인 "wikilink") 널리 쓰인다.
 
 HTTPS는 소켓 통신에서 일반 텍스트를 이용하는 대신에, [SSL](https://ko.wikipedia.org/wiki/SSL "wikilink")이나 [TLS](https://ko.wikipedia.org/wiki/트랜스포트_레이어_보안 "wikilink") 프로토콜을 통해 [세션](https://ko.wikipedia.org/wiki/:en:Session_\(computer_science\) "wikilink") 데이터를 암호화한다. 따라서 데이터의 적절한 보호를 보장한다. HTTPS의 기본 [TCP/IP](https://ko.wikipedia.org/wiki/TCP/IP "wikilink") 포트는 443이다.
 
@@ -11,7 +11,7 @@ HTTPS를 사용하는 웹페이지의 [URI는](../Page/통합_자원_식별자.m
 
 ## 역사
 
-[넷스케이프 커뮤니케이션스는](https://ko.wikipedia.org/wiki/넷스케이프_커뮤니케이션스 "wikilink") 1994년에 [넷스케이프 내비게이터](../Page/넷스케이프_내비게이터.md "wikilink") 웹 브라우저를 위해 HTTPS를 개발하였다.\[6\] 원래 HTTPS는 [SSL](https://ko.wikipedia.org/wiki/보안_소켓_계층 "wikilink") 프로토콜과 함께 사용되었다. SSL이 [전송 계층 보안](../Page/전송_계층_보안.md "wikilink")(TLS)으로 발전했을 때 2000년 5월 HTTPS는 공식적으로 RFC 2818에 규정되었다.
+[넷스케이프 커뮤니케이션스는](https://ko.wikipedia.org/wiki/넷스케이프_커뮤니케이션스 "wikilink") 1994년에 [넷스케이프 내비게이터](../Page/넷스케이프_내비게이터.md "wikilink") 웹 브라우저를 위해 HTTPS를 개발하였다.\[6\] 원래 HTTPS는 [SSL](https://ko.wikipedia.org/wiki/보안_소켓_계층 "wikilink") 프로토콜과 함께 사용되었다. SSL이 [전송 계층 보안](../Page/전송_계층_보안.md "wikilink")(TLS)으로 발전했을 때 2000년 5월 HTTPS는 공식적으로 RFC 2818에 규정되었다. 그다음 역사는 있다.
 
 ## 통계
 

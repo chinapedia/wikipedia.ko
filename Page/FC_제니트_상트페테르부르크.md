@@ -105,7 +105,7 @@
 <!-- end list -->
 
   -
-    **16강 (4회) :** 1985-86 (16강),[2011-12](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2011-12 "wikilink") (16강),[2012-13](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2012-13 "wikilink") (16강),[2013-14](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2013-14 "wikilink") (16강)
+    **16강 (4회) :** 1985-86 (16강), [2011-12](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2011-12 "wikilink") (16강), [2012-13](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2012-13 "wikilink") (16강), [2013-14](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2013-14 "wikilink") (16강)
     **조별예선 (1회) :** [2014-15](https://ko.wikipedia.org/wiki/UEFA_챔피언스리그_2014-15 "wikilink") (진행중)
 
 <!-- end list -->
@@ -117,7 +117,7 @@
   -
     **우승 (1회) :** [2007-08](https://ko.wikipedia.org/wiki/UEFA컵_2007-08 "wikilink")\[3\]
     **8강 (1회) :** [2005-06](https://ko.wikipedia.org/wiki/UEFA컵_2005-06 "wikilink")
-    **16강 (3회) :** [2008-09](https://ko.wikipedia.org/wiki/UEFA_컵_2008-09 "wikilink"),[2010-11](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2010-11 "wikilink"),[2012-13](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2012-13 "wikilink")
+    **16강 (3회) :** [2008-09](https://ko.wikipedia.org/wiki/UEFA_컵_2008-09 "wikilink"), [2010-11](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2010-11 "wikilink"), [2012-13](https://ko.wikipedia.org/wiki/UEFA_유로파리그_2012-13 "wikilink")
     **조별리그 (1회) :** [2004-05](https://ko.wikipedia.org/wiki/UEFA컵_2004-05 "wikilink")
 
 <!-- end list -->

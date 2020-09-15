@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [맨체스터 유나이티드 FC](https://ko.wikipedia.org/wiki/맨체스터_유나이티드_FC).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Old_Trafford_inside_20060726_1.jpg "wikilink") **맨체스터 유나이티드 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")에 있는 잉글랜드 프로 축구 구단이다. 1964-65 시즌 이래 단 1번의 시즌을 제외하고는 잉글랜드에서 최다 평균 관중 기록을 차지해왔다. [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 개편 당시 원년 구단이었으며, 현재까지 계속 소속되어 있다. 프리미어리그 최다우승 • 잉글랜드에서 유일하게 트레블을 달성한 명문클럽이지만, [알렉스 퍼거슨](../Page/알렉스_퍼거슨.md "wikilink") 감독의 은퇴 이후로 부진을 면치 못하고 있다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Old_Trafford_inside_20060726_1.jpg "wikilink") **맨체스터 유나이티드 풋볼 클럽**()은 [잉글랜드](../Page/잉글랜드.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")에 있는 잉글랜드 프로 축구 구단이다. 1964-65 시즌 이래 단 1번의 시즌을 제외하고는 잉글랜드에서 최다 평균 관중 기록을 차지해왔다. [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink") 개편 당시 원년 구단이었으며, 현재까지 계속 소속되어 있다. 프리미어리그 최다우승 • 잉글랜드에서 유일하게 트레블을 달성한 명문클럽이다.
 
 구단은 [1878년](../Page/1878년.md "wikilink") [3월5일](https://ko.wikipedia.org/wiki/3월5일 "wikilink") 랭커셔 요크셔 철도의 뉴턴 히스 지부 실업팀인 **뉴턴 히스 LYR FC**(Newton Heath LYR F.C.)로 설립되었고, [1902년](../Page/1902년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") 맨체스터 유나이티드 FC로 개명했다.
 
@@ -365,7 +365,7 @@
 <td><p>2004 – 2017</p></td>
 <td><p>559</p></td>
 <td><p>253</p></td>
-<td><p>0.505</p></td>
+<td><p>0.452</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>

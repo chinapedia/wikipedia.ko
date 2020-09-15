@@ -19,5 +19,3 @@
   - [팬택 계열 홈페이지](https://web.archive.org/web/20100209064206/http://www.pantech.co.kr/)
 
 [분류:휴대 전화 기업](https://ko.wikipedia.org/wiki/분류:휴대_전화_기업 "wikilink") [분류:대한민국의 전자 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_전자_기업 "wikilink") [분류:없어진 기업](https://ko.wikipedia.org/wiki/분류:없어진_기업 "wikilink") [분류:1995년 설립](https://ko.wikipedia.org/wiki/분류:1995년_설립 "wikilink") [분류:2005년 폐지](https://ko.wikipedia.org/wiki/분류:2005년_폐지 "wikilink") [분류:SK의 자회사](https://ko.wikipedia.org/wiki/분류:SK의_자회사 "wikilink")
-
-[en:SK Teletech](https://ko.wikipedia.org/wiki/en:SK_Teletech "wikilink")

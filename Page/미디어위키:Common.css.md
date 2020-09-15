@@ -1257,7 +1257,7 @@ div\#content a\[href$=".pdf"\].external, div\#content a\[href\*=".pdf?"\].extern
 /\* Style for horizontal lists (separator following item).
 
 `  @source mediawiki.org/wiki/Snippets/Horizontal_lists`
-`  @revision 7 (2015-11-12)`
+`  @revision 8 (2016-05-21)`
 `  @author `[`User:Edokter`](https://ko.wikipedia.org/wiki/User:Edokter "wikilink")
 `*/`
 
@@ -1275,7 +1275,7 @@ div\#content a\[href$=".pdf"\].external, div\#content a\[href\*=".pdf?"\].extern
 
 `   display: inline;`
 
-} /\* Hide empty list itmes \*/ .hlist .mw-empty-li {
+} /\* Hide empty list items \*/ .hlist .mw-empty-li {
 
 `   display: none;`
 
@@ -1283,7 +1283,14 @@ div\#content a\[href$=".pdf"\].external, div\#content a\[href\*=".pdf?"\].extern
 
 `   content: ": ";`
 
-} .hlist dd:after, .hlist li:after {
+} /\*\*
+
+`* Note hlist style usage differd in`
+`* the Minerva skin. Remember .hlist is a class defined in core as well! Please check Minerva desktop (and Minerva.css) when changing`
+`* See `<https://phabricator.wikimedia.org/T213239>
+`*/`
+
+.hlist dd:after, .hlist li:after {
 
 `   content: " · ";`
 `   font-weight: bold;`
@@ -1299,7 +1306,7 @@ div\#content a\[href$=".pdf"\].external, div\#content a\[href\*=".pdf?"\].extern
 
 } .hlist dd dd:last-child:after, .hlist dd dt:last-child:after, .hlist dd li:last-child:after, .hlist dt dd:last-child:after, .hlist dt dt:last-child:after, .hlist dt li:last-child:after, .hlist li dd:last-child:after, .hlist li dt:last-child:after, .hlist li li:last-child:after {
 
-`   content: ") ";`
+`   content: ")";`
 `   font-weight: normal;`
 
 } /\* Put ordinals in front of ordered list items \*/ .hlist ol {
@@ -1312,12 +1319,11 @@ div\#content a\[href$=".pdf"\].external, div\#content a\[href\*=".pdf?"\].extern
 
 } .hlist ol \> li:before {
 
-`   content: " " counter(listitem) " ";`
-`   white-space: nowrap;`
+`   content: " " counter(listitem) "\a0";`
 
 } .hlist dd ol \> li:first-child:before, .hlist dt ol \> li:first-child:before, .hlist li ol \> li:first-child:before {
 
-`   content: " (" counter(listitem) " ";`
+`   content: " (" counter(listitem) "\a0";`
 
 }
 
@@ -1330,6 +1336,28 @@ div\#content a\[href$=".pdf"\].external, div\#content a\[href\*=".pdf?"\].extern
 } .plainlist ol li, .plainlist ul li {
 
 `   margin-bottom: 0;`
+
+}
+
+/\* 일본어판의 hlist 스타일 가져옴 \*/ .hlist-pipe dd:after, .hlist-pipe li:after {
+
+`   content: " | ";`
+`   font-weight: normal;`
+
+} .hlist-hyphen dd:after, .hlist-hyphen li:after {
+
+`   content: " - ";`
+`   font-weight: normal;`
+
+} .hlist-comma dd:after, .hlist-comma li:after {
+
+`   content: ", ";`
+`   font-weight: normal;`
+
+} .hlist-slash dd:after, .hlist-slash li:after {
+
+`   content: " / ";`
+`   font-weight: normal;`
 
 }
 

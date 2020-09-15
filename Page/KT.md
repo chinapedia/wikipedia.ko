@@ -3,7 +3,7 @@
 
 [150px](https://ko.wikipedia.org/wiki/파일:KT_Logo_\(1991-2001\).svg "wikilink")
 
-**주식회사 케이티**(株式會社-, KT Corporation)는 [대한민국](../Page/대한민국.md "wikilink")의 유무선 통신 서비스 매출액 1위의 선두 업체이다. 유·무선 전화, [초고속 인터넷](https://ko.wikipedia.org/wiki/초고속_인터넷 "wikilink") 등 유·무선 통신 서비스업이 주요 업종이다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") 불정로 90 (정자동)에 위치한다. 1981년 한국전기통신공사로 창립한 뒤 2001년 12월에 (주)KT로 상호를 변경하였다.\[1\] 2009년 6월 1일에 이동 통신 자회사인 [KTF와](../Page/케이티프리텔.md "wikilink") 인수 합병을 하였고,\[2\] 2011년 7월에 유·무선 통신 서비스 조직을 통합하였다.\[3\] 독점규제 및 공정거래 등에 관한 법률상 독과점 사업자로서 시장지배적 사업자 지위 남용 규제를 받는다. 통신의 새로운 패러다임을 여는 GiGA 인터넷 가입자 100만을 가장 먼저 달성하였다.
+**주식회사 케이티**(株式會社-, KT Corporation)는 [대한민국](../Page/대한민국.md "wikilink")의 유무선 통신 서비스 업체이다. 유·무선 전화, [초고속 인터넷](https://ko.wikipedia.org/wiki/초고속_인터넷 "wikilink") 등 유·무선 통신 서비스업이 주요 업종이다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") 불정로 90 (정자동)에 위치한다. 1981년 한국전기통신공사로 창립한 뒤 2001년 12월에 (주)KT로 상호를 변경하였다.\[1\] 2009년 6월 1일에 이동 통신 자회사인 [KTF와](../Page/케이티프리텔.md "wikilink") 인수 합병을 하였고,\[2\] 2011년 7월에 유·무선 통신 서비스 조직을 통합하였다.\[3\] 독점규제 및 공정거래 등에 관한 법률상 독과점 사업자로서 시장지배적 사업자 지위 남용 규제를 받는다. 통신의 새로운 패러다임을 여는 GiGA 인터넷 가입자 100만을 가장 먼저 달성하였다.
 
 ## 연혁
 
@@ -75,13 +75,13 @@
   - [2009년](../Page/2009년.md "wikilink") [7월](../Page/7월.md "wikilink") 기업 슬로건 All New KT를 **olleh kt**로 변경하였다.
   - [2009년](../Page/2009년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") 자회사인 KT FDS를 [동양그룹](https://ko.wikipedia.org/wiki/동양그룹 "wikilink")에 매각하였다.
   - [2009년](../Page/2009년.md "wikilink") [10월](../Page/10월.md "wikilink") 첫 유무선 통합 상품인 [FMC](https://ko.wikipedia.org/wiki/FMC "wikilink")(Fixed Mobile Convergence) 서비스인 QOOK\&SHOW 를 출시하였다.\[15\]
-  - [2009년](../Page/2009년.md "wikilink") [11월](../Page/11월.md "wikilink") 한국 최초로 [애플사의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [아이폰](../Page/아이폰.md "wikilink")을 [도입하였다](../Page/대한민국의_아이폰_출시.md "wikilink").
+  - [2009년](../Page/2009년.md "wikilink") [11월](../Page/11월.md "wikilink") 한국 최초로 [애플](../Page/애플.md "wikilink")사의 [아이폰](../Page/아이폰.md "wikilink")을 [도입하였다](../Page/대한민국의_아이폰_출시.md "wikilink").
   - [2009년](../Page/2009년.md "wikilink") [12월](../Page/12월.md "wikilink") 한국 최초 3W(Wi-Fi, WiBro, WCDMA) 핸드폰인 쇼옴니아를 출시하였다.
   - [2010년](../Page/2010년.md "wikilink") [4월](../Page/4월.md "wikilink") 한국디지털위성방송이 KT그룹에 편입하였다.
   - [2010년](../Page/2010년.md "wikilink") [4월](../Page/4월.md "wikilink") [금호렌터카](https://ko.wikipedia.org/wiki/금호렌터카 "wikilink")(현 [롯데렌터카](https://ko.wikipedia.org/wiki/롯데렌터카 "wikilink"))를 인수하였다.
   - [2010년](../Page/2010년.md "wikilink") [6월](../Page/6월.md "wikilink") [클라우드](https://ko.wikipedia.org/wiki/클라우드 "wikilink") 스토리지 Ucloud 서비스를 출시하였다.
   - 2010년 8월 31일자로 [다우 존스 지속가능지수 월드](https://ko.wikipedia.org/wiki/다우_존스_지속가능지수_월드 "wikilink")(Dow Jones Sustainability Index World)에 처음으로 편입되었다.\[16\]
-  - [2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink") [애플사의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") '[아이폰4](https://ko.wikipedia.org/wiki/아이폰4 "wikilink")'와 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") 무제한데이터 요금제를 출시하였다.\[17\]
+  - [2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink") [애플](../Page/애플.md "wikilink")사의 '[아이폰4](https://ko.wikipedia.org/wiki/아이폰4 "wikilink")'와 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") 무제한데이터 요금제를 출시하였다.\[17\]
   - [2010년](../Page/2010년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [11월 12일](../Page/11월_12일.md "wikilink"): 대한민국에서 개최된 G20 정상회의 주관통신사업자로 선정되었다.\[18\]
   - [2011년](../Page/2011년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink"): [유선](https://ko.wikipedia.org/wiki/유선 "wikilink")의 ‘쿡(QOOK)’, [무선](https://ko.wikipedia.org/wiki/무선 "wikilink")의 ‘쇼(SHOW)’라는 브랜드를 버리고 ‘올레(olleh)’라는 단 하나의 이름을 사용하여 [유선](https://ko.wikipedia.org/wiki/유선 "wikilink")의 ‘올레 홈(olleh home)’, [무선](https://ko.wikipedia.org/wiki/무선 "wikilink")의 '올레 모바일(olleh mobile)’이라는 [브랜드](../Page/브랜드.md "wikilink")를 사용하기 시작하였다.\[19\]
   - [2011년](../Page/2011년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink"): [BC카드](https://ko.wikipedia.org/wiki/BC카드 "wikilink") 지분 20.05%를 인수하여 2대 주주가 되었다.\[20\]
@@ -98,13 +98,13 @@
   - [2017년](../Page/2017년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") [2018평창동계올림픽](../Page/2018년_동계_올림픽.md "wikilink") 이통통신사 공식후원사 지정
   - [2018년](../Page/2018년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink") 평창올림픽 대비 세계 첫 5G서비스 완료
   - [2018년](../Page/2018년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") KT커넥티드체험관 강원도 강릉서 개관 첫 **가상 증강현실 올림픽** 개시
-  - [2018년](../Page/2018년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") MCN 사업자인 [DIA TV](../Page/DIA_TV.md "wikilink") 협업을 해 어린이 예능 채널 짝꿍TV 개국행사 개최
+  - [2018년](../Page/2018년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") MCN 사업자인 [DIA TV](../Page/DIA_TV.md "wikilink") 협업을 해 어린이 예능 채널 짝꿍TV 개국행사 개최
 
 ## 주주 및 이사회
 
-1997년 IMF 사태에 따라 경제위기 수습을 위한 재원 마련으로 공기업 매각이 추진되어 [1998년](../Page/1998년.md "wikilink") 12월 [한국증권거래소](https://ko.wikipedia.org/wiki/한국증권거래소 "wikilink"), [1999년](../Page/1999년.md "wikilink") 5월 [뉴욕증권시장](https://ko.wikipedia.org/wiki/뉴욕증권시장 "wikilink")에 상장되었다. [전기통신사업법에](https://ko.wikipedia.org/wiki/s:전기통신사업법 "wikilink") 의해 기간통신사업자에서 외국인 주주의 의결권을 다 합쳐도 총 의결권의 49%를 넘을 수 없게 되어 있다. 이사회는 사내이사 3명, 사외이사 8명 총 11명의 이사로 구성(2013년 3월 기준)되어 있다. 사외이사는 사외이사 전원, 사내이사 1인으로 구성된 사외이사후보추천위원회에서 선임하고 있으며, 임기는 3년 이내이다. 이사회 의장은 사외이사 중에서 선출되며, 임기는 1년이다. 이사회 내에는 5개 상설 소위원회와 2개 임시 소위원회가 있다. 이사회는 필요한 경우 별도의 위원회를 추가 설치할 수 있다. 사내이사(3명)로는 황창규 대표이사, 임헌문이사, 구현모이사가 있고 사외이사(8명)로는 이사회 의장인 송도균 이사와 김종구, 차상균, 장석권, 박대근, 정동욱, 이계민, 임일이사가 있다.
+[1997년 IMF 사태에](https://ko.wikipedia.org/wiki/대한민국의_IMF_구제금융_요청 "wikilink") 따라 경제위기 수습을 위한 재원 마련으로 공기업 매각이 추진되어 [1998년](../Page/1998년.md "wikilink") 12월 [한국증권거래소](https://ko.wikipedia.org/wiki/한국증권거래소 "wikilink"), [1999년](../Page/1999년.md "wikilink") 5월 [뉴욕증권시장](https://ko.wikipedia.org/wiki/뉴욕증권시장 "wikilink")에 상장되었다. [전기통신사업법에](https://ko.wikipedia.org/wiki/s:전기통신사업법 "wikilink") 의해 기간통신사업자에서 외국인 주주의 의결권을 다 합쳐도 총 의결권의 49%를 넘을 수 없게 되어 있다. 이사회는 사내이사 3명, 사외이사 8명 총 11명의 이사로 구성(2013년 3월 기준)되어 있다. 사외이사는 사외이사 전원, 사내이사 1인으로 구성된 사외이사후보추천위원회에서 선임하고 있으며, 임기는 3년 이내이다. 이사회 의장은 사외이사 중에서 선출되며, 임기는 1년이다. 이사회 내에는 5개 상설 소위원회와 2개 임시 소위원회가 있다. 이사회는 필요한 경우 별도의 위원회를 추가 설치할 수 있다. 사내이사(3명)로는 황창규 대표이사, 임헌문이사, 구현모이사가 있고 사외이사(8명)로는 이사회 의장인 송도균 이사와 김종구, 차상균, 장석권, 박대근, 정동욱, 이계민, 임일이사가 있다.
 
-## 그룹 경영 체계 및 자회사
+## 경영 체계 및 계열사
 
 유무선 통신 전문 공기업에서 출발한 KT는 민영화 이후 [2015년](../Page/2015년.md "wikilink") 그룹 매출 40조원 달성을 목표로 렌탈, 부동산, 경비, 교육, 신용카드 등 다양한 비통신 시장으로 진입하고 있다. 2015년 9월 30일 기준으로 [BC카드](https://ko.wikipedia.org/wiki/BC카드 "wikilink") 등 41개의 자회사\[23\] 를 운영 중이다.
 
@@ -126,15 +126,13 @@
   - KTIS\[36\]
   - [KT스카이라이프](../Page/KT스카이라이프.md "wikilink")\[37\]
       - (주)스카이라이프티브이\[38\]
-  - [애니맥스브로드캐스팅코리아(유)](https://ko.wikipedia.org/wiki/애니맥스_\(대한민국\) "wikilink")
+  - [애니맥스브로드캐스팅코리아](https://ko.wikipedia.org/wiki/애니맥스브로드캐스팅코리아 "wikilink")
+  - [현대 HCN](https://ko.wikipedia.org/wiki/현대_HCN "wikilink")
   - KT 에스테이트\[39\]
   - KT 와이브로 인프라
-
-| style="vertical-align: top;" width="20%"|
-
   - KT 넥스알\[40\]
   - 스마트채널
-  - [비씨카드](../Page/비씨카드.md "wikilink")
+  - [BC카드](../Page/비씨카드.md "wikilink")
   - 주식회사 HNC 네트워크\[41\]
   - VP 주식회사\[42\]
   - 이니텍 주식회사\[43\]
@@ -156,6 +154,7 @@
       - [kt 위즈](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink")
   - 오토피온
   - KT 엠모바일
+  - [케이뱅크](../Page/케이뱅크.md "wikilink")
 
 ## 논란
 
@@ -187,7 +186,7 @@ KT는 미래창조과학부(현 [과학기술정보통신부](https://ko.wikiped
 
   - [KT 공식 웹사이트](http://www.kt.com/)
 
-[KT](https://ko.wikipedia.org/wiki/분류:KT "wikilink") [분류:1981년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1981년_설립된_기업 "wikilink") [분류:경기도의 기업](https://ko.wikipedia.org/wiki/분류:경기도의_기업 "wikilink") [분류:클라우드 컴퓨팅 제공자](https://ko.wikipedia.org/wiki/분류:클라우드_컴퓨팅_제공자 "wikilink") [분류:대한민국의 지주회사](https://ko.wikipedia.org/wiki/분류:대한민국의_지주회사 "wikilink") [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink") [분류:1981년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1981년_설립된_기업 "wikilink")
+[KT](https://ko.wikipedia.org/wiki/분류:KT "wikilink") [분류:1981년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1981년_설립된_기업 "wikilink") [분류:경기도의 기업](https://ko.wikipedia.org/wiki/분류:경기도의_기업 "wikilink") [분류:클라우드 컴퓨팅 제공자](https://ko.wikipedia.org/wiki/분류:클라우드_컴퓨팅_제공자 "wikilink") [분류:대한민국의 지주회사](https://ko.wikipedia.org/wiki/분류:대한민국의_지주회사 "wikilink") [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink")
 
 1.  <http://100.naver.com/100.nhn?docid=186060>
 2.

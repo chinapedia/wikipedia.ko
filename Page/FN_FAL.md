@@ -133,7 +133,7 @@ CAL, FNC: 후에 5.56mm NATO탄이 NATO표준 탄약이 되자, 벨기에는 FAL
 
 ## 대중문화
 
-  - 영화 《[히트](https://ko.wikipedia.org/wiki/히트_\(영화\) "wikilink")》 초반 장갑차 습격 장면에서 [톰 시즈모어는](../Page/톰_시즈모어.md "wikilink") FN FAL(가 아니라 갈릴)을 사용한다.
+  - 영화 《[히트](../Page/히트_\(1995년_영화\).md "wikilink")》 초반 장갑차 습격 장면에서 [톰 시즈모어는](../Page/톰_시즈모어.md "wikilink") FN FAL(가 아니라 갈릴)을 사용한다.
   - PC Game 《[콜 오브 듀티: 모던 워페어 2](../Page/콜_오브_듀티:_모던_워페어_2.md "wikilink")》 에 등장한다.
   - PC Game 《[SAS 시큐어 투모로우](../Page/SAS_시큐어_투모로우.md "wikilink")》에 등장한다.
   - PC Online Game 《A.V.A》에서는 'SA-58'이라는 이름으로 등장한다. SA-58은 FN FAL의 바리에이션 중 하나.

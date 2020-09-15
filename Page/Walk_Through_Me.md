@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Walk Through Me](https://ko.wikipedia.org/wiki/Walk_Through_Me).
 
 
-《**Walk Through Me**》는 [2004년](../Page/2004년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") 발매된 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 통산 4집 앨범이자 정규 2집 앨범이다. 정규 1집 앨범인 《[Let It Rain](https://ko.wikipedia.org/wiki/Let_It_Rain "wikilink")》은 주로 인디 시절 작곡되었던 곡들이 재편곡되어 수록되었으나 이 앨범은 전 앨범보다 조금 더 대중적인 멜로디의 곡들을 수록했고 새로 작곡된 곡들로 이뤄져있다. 여전히 넬 특유의 몽환적이고 서정적인, 그리고 우울한 분위기를 담아냈다. <믿어선 안될 말>에서나 들려오던 피아노, 키보드사운드가 전면에 깔리기 시작했다. 사랑노래뿐만 아닌 자아 정체성, 사회 비판 등의 내용을 담은 노래도 수록되었다. 〈**Thank You**〉가 타이틀곡, 〈**Selfish Love**〉이 후속곡이다.
+《**Walk Through Me**》는 [2004년](../Page/2004년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") 발매된 [넬의](https://ko.wikipedia.org/wiki/넬_\(음악_그룹\) "wikilink") 통산 4집 앨범이자 정규 2집 앨범이다. 정규 1집 앨범인 《[Let It Rain](../Page/Let_It_Rain.md "wikilink")》은 주로 인디 시절 작곡되었던 곡들이 재편곡되어 수록되었으나 이 앨범은 전 앨범보다 조금 더 대중적인 멜로디의 곡들을 수록했고 새로 작곡된 곡들로 이뤄져있다. 여전히 넬 특유의 몽환적이고 서정적인, 그리고 우울한 분위기를 담아냈다. <믿어선 안될 말>에서나 들려오던 피아노, 키보드사운드가 전면에 깔리기 시작했다. 사랑노래뿐만 아닌 자아 정체성, 사회 비판 등의 내용을 담은 노래도 수록되었다. 〈**Thank You**〉가 타이틀곡, 〈**Selfish Love**〉이 후속곡이다.
 
 ## 수록곡
 

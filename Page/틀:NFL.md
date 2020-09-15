@@ -36,7 +36,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/필라델피아_이글스" title="wikilink">필라델피아 이글스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴_레드스킨스" title="wikilink">워싱턴 레드스킨스</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/워싱턴_풋볼팀" title="wikilink">워싱턴 풋볼팀</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/NFL_시즌_목록" title="wikilink">NFL 시즌</a>{{·}} <a href="https://ko.wikipedia.org/wiki/NFL_플레이오프" title="wikilink">NFL 플레이오프</a>{{·}} <a href="https://ko.wikipedia.org/wiki/AFC_챔피언십_경기" title="wikilink">AFC 챔피언십</a>{{·}} <a href="https://ko.wikipedia.org/wiki/NFC_챔피언십_경기" title="wikilink">NFC 챔피언십</a>{{·}} <a href="../Page/슈퍼볼.md" title="wikilink">슈퍼볼</a>{{·}} <a href="../Page/프로볼.md" title="wikilink">프로볼</a> {{·}} <del><a href="../Page/월드_풋볼_리그.md" title="wikilink">WFL</a></del> {{·}}<del><a href="../Page/북미_풋볼_리그.md" title="wikilink">USFL</a></del> {{·}}<del><a href="../Page/XFL.md" title="wikilink">XFL</a></del></p></td>

@@ -81,4 +81,6 @@
   - [스타더스트 (소속 사무소)](http://www.stardust.co.jp/profile/k.html)
 
   -
+  -
+  -
 [분류:1983년 태어남](https://ko.wikipedia.org/wiki/분류:1983년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 남자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_가수 "wikilink") [분류:일본의 남자 가수](https://ko.wikipedia.org/wiki/분류:일본의_남자_가수 "wikilink") [분류:대한민국의 팝 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_가수 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:빅터 엔터테인먼트의 음악가](https://ko.wikipedia.org/wiki/분류:빅터_엔터테인먼트의_음악가 "wikilink") [분류:스타더스트 프로모션](https://ko.wikipedia.org/wiki/분류:스타더스트_프로모션 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RQ-2 파이오니어](https://ko.wikipedia.org/wiki/RQ-2_파이오니어).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:RQ-2_Pioneer_is_catapulted_from_a_launching_rail_1.JPEG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:RQ-2B_Pioneer_\(drawing\).png "wikilink") **RQ-2 파이오니어**(RQ-2 Pioneer)는 [이스라엘](../Page/이스라엘.md "wikilink") [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")와 [미국](../Page/미국.md "wikilink") [AAI 사가](https://ko.wikipedia.org/wiki/AAI_사 "wikilink") 합작개발한 무인 정찰기이다. 미국 해군, 해병대, 육군에서 사용된다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:RQ-2_Pioneer_is_catapulted_from_a_launching_rail_1.JPEG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:RQ-2B_Pioneer_\(drawing\).png "wikilink") **RQ-2 파이오니어**()는 [이스라엘](../Page/이스라엘.md "wikilink") [IAI](https://ko.wikipedia.org/wiki/IAI "wikilink")와 [미국](../Page/미국.md "wikilink") [AAI 사가](https://ko.wikipedia.org/wiki/AAI_사 "wikilink") 합작개발한 무인 정찰기이다. 미국 해군, 해병대, 육군에서 사용된다.
 
 1986년부터 실전배치되었으며, 처음에는 [전함](../Page/전함.md "wikilink")에 탑재되었다. 함포 사격(gunnery spotting)에 이용되었다. 그러다가, 점차 상륙부대를 위한 정찰, 첩보 임무에 사용되었다. 전함에 탑재된 파이오니어는 로켓 부스터를 사용해서 이륙한다. 그밖에 캐터펄트나 활주로를 통해 이륙하기도 한다. 착륙은 수상함의 경우 그물망을 통해 회수한다. 75파운드의 화물을 탑재하고, 5시간 동안 비행할 수 있다.
 

@@ -31,7 +31,7 @@
 
   - [1988년](../Page/1988년.md "wikilink") [4월](../Page/4월.md "wikilink"), 스케이트 보이즈()중에서 그룹 결성. 결성 당시의 나이는 각각 나카이 만 15세, 기무라 만 15세, 이나가키 만 14세, 모리 만 14세, 쿠사나기 만 13세, 카토리 만 11세였다.
   - CD 데뷔까지의 주니어의 활동 기간이 3년 이상으로, 그동안 아이돌 프로그램이나 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink"), [무대](https://ko.wikipedia.org/wiki/무대 "wikilink") 등에 출연하며, [아이돌](https://ko.wikipedia.org/wiki/아이돌 "wikilink")로서의 인기를 확보 해 나갔다. 그룹 이름은 사무실의 사장 [쟈니 키타가와가](https://ko.wikipedia.org/wiki/쟈니_키타가와 "wikilink") 이 당시의 스케이트 보이즈의 캐치 카피한 "**S**ports **M**usic **A**ssemble **P**eople"("스포츠와 음악을 하기 위해 모인 사람들 "이라는 뜻)의 영문 머리 글자에서 명명했다.
-  - [1991년](../Page/1991년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 일본 무도관에서 첫 콘서트를 마치고, 같은 해 9월 9일, 〈Can't Stop\!-LOVING-〉로 CD 데뷔. 동시에 당시 아이돌이 활동의​​ 주류로 있던 음악 프로그램이 줄줄이 감소하기 시작해, "아이돌 빙하기"라는 시대에서, 버라이어티 등에서 활동하는 모험을 택한다. [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink") 《홍백가합전》에 〈Can't Stop\!-LOVING-〉으로 첫 출장했다.
+  - [1991년](../Page/1991년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") 일본 무도관에서 첫 콘서트를 마치고, 같은 해 9월 9일, 〈Can't Stop\!-LOVING-〉로 CD 데뷔. 동시에 당시 아이돌이 활동의 주류로 있던 음악 프로그램이 줄줄이 감소하기 시작해, "아이돌 빙하기"라는 시대에서, 버라이어티 등에서 활동하는 모험을 택한다. [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink") 《홍백가합전》에 〈Can't Stop\!-LOVING-〉으로 첫 출장했다.
   - [1992년](../Page/1992년.md "wikilink") 4월 (데뷔 반년 후), [후지 TV의](../Page/후지_TV.md "wikilink") 《꿈이 MORIMORI》에 고정 출연이 결정되었다. 이 프로그램의 당시 아이돌로서는 이례적으로, 본격적인 콩트 등을 연기하며, 지명도와 인기를 얻기 시작했다.
   - [1994년](../Page/1994년.md "wikilink")에 12번째 싱글 〈Hey Hey 언제나 정말 고마워()〉로 첫 [오리콘](../Page/오리콘.md "wikilink") 1위를 획득했다.
   - [1995년](../Page/1995년.md "wikilink")에 [NTV](https://ko.wikipedia.org/wiki/NTV "wikilink") 《24시간 TV "사랑은 지구를 구한다"》의 진행을 맡았다.
@@ -273,7 +273,7 @@
 <td><p>24.</p></td>
 <td><p><a href="../Page/다이너마이트_(SMAP의_노래).md" title="wikilink">ダイナマイト</a></p></td>
 <td><p>다이너마이트</p></td>
-<td><p><a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a></p></td>
+<td><p><a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/2월_26일.md" title="wikilink">2월 26일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>25.</p></td>
@@ -633,7 +633,7 @@
 | [2007년](../Page/2007년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink") |                                                                             |                                                                               |                                    |
 | 4                                                                           | 1997년 4월 25일                                                                | \-                                                                            | 드라마 《내가 나이기 때문에》                   |
 | 5                                                                           | 2001년 8월 8일                                                                 | Smap Short Films                                                              |                                    |
-| 6                                                                           | 2002년 8월 23일                                                                | 드라마 《기묘한 이야기 ​​SMAP 특별편》                                                      |                                    |
+| 6                                                                           | 2002년 8월 23일                                                                | 드라마 《기묘한 이야기 SMAP 특별편》                                                        |                                    |
 | 7                                                                           | \-                                                                          | [2005년](../Page/2005년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") | X'smap\~호랑이와 사자와 다섯 남자             |
 | 8                                                                           | \-                                                                          | [2010년](../Page/2010년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink")   | SMAP ☆ 노력하겠습니다 \~\! 2010 10시간 초완전판 |
 
@@ -1098,7 +1098,7 @@ SMAP의 투어는 앨범 발매와 동시에 실시한다. 초기에는 1년에 
   - 《더 호감을\~두 사람 사이의 거리》 ([NTV](https://ko.wikipedia.org/wiki/NTV "wikilink"), 1992년)
   - 《내가 나이기 때문에》 (1997년, [후지 TV](../Page/후지_TV.md "wikilink"))
   - 《후루하타 닌자부로 스페셜 "후루하타 닌자부로 vs SMAP"》 ([후지 TV](../Page/후지_TV.md "wikilink"), 1999년)
-  - 《기묘한 이야기​​ SMAP 특별편》 (2001년, [후지 TV](../Page/후지_TV.md "wikilink"))
+  - 《기묘한 이야기 SMAP 특별편》 (2001년, [후지 TV](../Page/후지_TV.md "wikilink"))
   - 《X'smap\~호랑이와 사자와 다섯 남자》 (2004년, [후지 TV](../Page/후지_TV.md "wikilink"))
   - 《독 토마토 살인사건 》 (2010년, [TV 아사히](../Page/TV_아사히.md "wikilink"))
 
@@ -1145,7 +1145,7 @@ SMAP의 투어는 앨범 발매와 동시에 실시한다. 초기에는 1년에 
   - 핫페파 (채용전문, 2006년, 2007년)
   - 포카리 스웨트 (오츠카 제약, 2007년 -)
   - [NTT](https://ko.wikipedia.org/wiki/NTT "wikilink") (NTT(일본 전신전화 주식회사), 1995년 - 1999년)
-  - N​​TT 동일본 (1999년 - 2009년)
+  - NTT 동일본 (1999년 - 2009년)
   - 후렛트 히카리 (NTT 동일본, 2006년 -)
   - 드래곤 퀘스트 IX 밤하늘의 수호자 (스퀘어 에닉스, 2009년)
   - 소프트 뱅크 모바일 (2009년 -)
