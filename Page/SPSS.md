@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [SPSS](https://ko.wikipedia.org/wiki/SPSS).
 
 
-**SPSS**는 통계적 분석과 데이터 마이닝등에 사용되는 통계 분석 프로그램 모음이다. SPSS는 "**S**tatistical **P**ackage for the **S**ocial **S**ciences"(사회과학을 위한 통계 처리)의 첫글자를 따서 지어졌으며, 1968년 처음 개발되어 SPSS주식회사(SPSS Inc.)가 2009년까지 개발해오다 [IBM](https://www.ibm.com/kr-ko/)에 흡수되어 현재 회사명은 IBM SPSS 스테티스틱스(IBM SPSS Statistics)로 변경되었고, IBM에서 앱을 개발 및 판매한다.
+**SPSS**는 통계적 분석과 데이터 마이닝등에 사용되는 통계 분석 프로그램 모음이다. SPSS는 "**S**tatistical **P**ackage for the **S**ocial **S**ciences"(사회과학을 위한 통계 처리)의 첫글자를 따서 지어졌으며, 1968년 처음 개발되어 SPSS주식회사(SPSS Inc.)가 2009년까지 개발해오다 [IBM](../Page/IBM.md "wikilink")에 흡수되어 현재 회사명은 IBM SPSS 스테티스틱스(IBM SPSS Statistics)로 변경되었고, IBM에서 앱을 개발 및 판매한다.\[1\]
 
 ## 개요
 
-SPSS는 사회과학을 연구자들을 위한 통계 분석 [앱](https://ko.wikipedia.org/wiki/앱 "wikilink")으로 시작되었다. 대학 수준 학술연구를 위한 앱으로 사회학, 정치학과 경제학과 경영학 분야 등에서 널리 사용된다. 현재는 기업의 시장조사와 정부활동을 위한 통계 분석, 보건분야에서도 사용하며, 대다수의 조사전문 기관에서 활용한다. 대학에서도 사회과학 분야와 정치, 경제, 경영 분야를 시작하면서 접하는 통계 기법은 SPSS를 활용하여 강의할 정도이다.
+SPSS는 사회과학 연구자들을 위한 통계 분석 [앱](https://ko.wikipedia.org/wiki/앱 "wikilink")으로 시작되었다. 대학 수준 학술연구를 위한 앱으로 사회학, 정치학과 경제학과 경영학 분야 등에서 널리 사용된다. 현재는 기업의 시장조사와 정부활동을 위한 통계 분석, 보건분야에서도 사용하며, 대다수의 조사전문 기관에서 활용한다. 대학에서도 사회과학 분야와 정치, 경제, 경영 분야를 시작하면서 접하는 통계 기법은 SPSS를 활용하여 강의할 정도이다.
 
 기본적인 통계 기능에서 점차 그 영역을 확대하고 있으며 현재는 [IBM AMOS와](https://ko.wikipedia.org/wiki/IBM_AMOS "wikilink") 연동되어 사용한다.
 
@@ -28,7 +28,16 @@ SPSS는 사회과학을 연구자들을 위한 통계 분석 [앱](https://ko.wi
 
 2019년 기준 26판이 AMOS와 함께 발매되었고, 한글판은 25판을 제공한다. 2009년 인수된 이후 IBM의 기업 관리 운영 컨설팅 소프트웨어로 자리매김하고 있다. 현재 제공되는 기업용 SPSS는 데이터 마이닝과 텍스트 분석, 빅데이터 관리까지 가능하며, 조사기법의 다양한 개발 방법까지도 제공한다.
 
+## 같이 보기
+
+  - [R](../Page/R_\(프로그래밍_언어\).md "wikilink")
+  - [PSPP](https://ko.wikipedia.org/wiki/PSPP "wikilink")
+
 ## 외부 링크
 
   -
+## 참고
+
 [분류:통계학](https://ko.wikipedia.org/wiki/분류:통계학 "wikilink") [분류:통계 소프트웨어](https://ko.wikipedia.org/wiki/분류:통계_소프트웨어 "wikilink") [분류:윈도우 소프트웨어](https://ko.wikipedia.org/wiki/분류:윈도우_소프트웨어 "wikilink") [분류:MacOS 소프트웨어](https://ko.wikipedia.org/wiki/분류:MacOS_소프트웨어 "wikilink") [분류:크로스 플랫폼 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_소프트웨어 "wikilink") [분류:IBM 소프트웨어](https://ko.wikipedia.org/wiki/분류:IBM_소프트웨어 "wikilink") [분류:자바 플랫폼 소프트웨어](https://ko.wikipedia.org/wiki/분류:자바_플랫폼_소프트웨어 "wikilink")
+
+1.  (IBM SPSS)https://www.ibm.com/kr-ko/analytics/spss-trials

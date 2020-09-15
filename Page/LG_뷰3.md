@@ -3,7 +3,7 @@
 
 '''LG 뷰3 '''(LG Vu3)는 [LG전자](../Page/LG전자.md "wikilink")에서 [2013년](../Page/2013년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 출시한 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. [LG 옵티머스 뷰 II의](../Page/LG_옵티머스_뷰_II.md "wikilink") 후속작이며, [LG 뷰](https://ko.wikipedia.org/wiki/LG_뷰 "wikilink") 시리즈로서는 처음 발매된 기종이다. [2014년](../Page/2014년.md "wikilink") [3월 17일에](../Page/3월_17일.md "wikilink") 안드로이드 킷캣으로 업그레이드됐다.
 
-## 운영체제 업그레이드
+## 운영 체제 업그레이드
 
 ### 안드로이드 4.4.2 킷캣 업그레이드
 
@@ -29,7 +29,7 @@
 
 ### Q 보이스
 
-음성 시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스](../Page/S_보이스.md "wikilink"), [팬택](../Page/팬택.md "wikilink")의 스마트 보이스와 유사하다.
+음성 시스템으로, 말을 해서 각종 기능을 실행하거나 원하는 것을 찾을 수 있다. [애플](../Page/애플.md "wikilink")의 [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [S 보이스](../Page/S_보이스.md "wikilink"), [팬택](../Page/팬택.md "wikilink")의 스마트 보이스와 유사하다.
 
 [LG전자](../Page/LG전자.md "wikilink")의 독자기술인 **베르니케**기술을 사용하여서 높은 인식률과 재미있는 멘트를 쓰기도 한다.
 

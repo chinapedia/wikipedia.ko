@@ -344,7 +344,7 @@
 모하메드 알 무사위 (<a href="https://ko.wikipedia.org/wiki/오만_축구_협회" title="wikilink">오만</a>)<br />
 할림 압둘 하미드 (<a href="https://ko.wikipedia.org/wiki/말레이시아_축구_협회" title="wikilink">말레이시아</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">대기심</a>:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/우르스_마이어" title="wikilink">우르스 마이어</a> (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)</p></td>
+<a href="https://ko.wikipedia.org/wiki/우르스_마이어" title="wikilink">우르스 마이어</a> (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -1037,7 +1037,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
-로랑 로시 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
+로랑 로시 (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)<br />
 레이날도 살리나스 (<a href="../Page/온두라스_축구_연맹.md" title="wikilink">온두라스</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">대기심</a>:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/리샤르트_부이치크" title="wikilink">리샤르트 부이치크</a> (<a href="https://ko.wikipedia.org/wiki/폴란드_축구_협회" title="wikilink">폴란드</a>)</p></td>

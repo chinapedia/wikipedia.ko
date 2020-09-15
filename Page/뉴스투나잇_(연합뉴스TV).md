@@ -33,8 +33,8 @@
 
 ### 평일
 
-  - [서태왕](https://ko.wikipedia.org/wiki/서태왕 "wikilink") 아나운서 (남)
-  - [조영빈](../Page/조영빈.md "wikilink") 아나운서 (여)
+  - [성유미](https://ko.wikipedia.org/wiki/성유미 "wikilink") 아나운서 (여)
+  - [이남규](https://ko.wikipedia.org/wiki/이남규 "wikilink") 아나운서 (남)
 
 ### 주말
 

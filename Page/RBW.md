@@ -1,36 +1,58 @@
 > This article is converted from Wikipedia: [RBW](https://ko.wikipedia.org/wiki/RBW).
 
 
-**알비더블유**(RBW)는 대한민국의 종합컨텐츠제작 기업이다. 원래는 RainbowbridgeAgency로 [김진우를](../Page/김진우_\(음악_프로듀서\).md "wikilink") 대표로, [김도훈](../Page/김도훈_\(작곡가\).md "wikilink"), [황성진](https://ko.wikipedia.org/wiki/황성진_\(작사가\) "wikilink"), 김형규, 최갑원 등 프로듀서들이 모여 2010년 3월 설립되었으며 본사는 서울특별시 동대문구 장한로20길 7, 서희스타힐스 B1에 있다. 그 후 2015년 3월 WA엔터테인먼트를 흡수 합병, '레인보우브릿지월드, RBW(대표: 김진우, 김도훈)'로 사명을 변경하였다.\[1\] 소속 아티스트로는 [마마무](../Page/마마무.md "wikilink"), [베이식](../Page/베이식_\(가수\).md "wikilink"), [양파](../Page/양파_\(가수\).md "wikilink"), [오브로젝트](../Page/오브로젝트.md "wikilink"), 브로맨스 등이 있다.
+**알비더블유**(RBW)는 대한민국의 종합컨텐츠제작 기업이다. 원래는 RainbowbridgeAgency로 [김진우를](../Page/김진우_\(음악_프로듀서\).md "wikilink") 대표로, [김도훈](../Page/김도훈_\(작곡가\).md "wikilink"), [황성진](https://ko.wikipedia.org/wiki/황성진_\(작사가\) "wikilink"), 김형규, 최갑원 등 프로듀서들이 모여 2010년 3월 설립되었으며 본사는 서울특별시 동대문구 장한로20길 7, 서희스타힐스 B1에 있다. 그 후 2015년 3월 WA엔터테인먼트를 흡수 합병, '레인보우브릿지월드, RBW(대표: 김진우, 김도훈)'로 사명을 변경하였다.\[1\] 소속 아티스트로는 [마마무](../Page/마마무.md "wikilink"), [브로맨스](../Page/브로맨스_\(음악_그룹\).md "wikilink"), [원어스](../Page/원어스.md "wikilink"), [원위](https://ko.wikipedia.org/wiki/원위 "wikilink"), [퍼플키스](https://ko.wikipedia.org/wiki/퍼플키스 "wikilink") 등이 있다.
 
 ## 소속 연예인
 
-| 소속 연예인                                                         | 직업     | 구성원                                                                                                                                   | 리더                                    | 데뷔    |
-| -------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ----- |
-| [마마무](../Page/마마무.md "wikilink")                               | 가수     | [솔라](../Page/솔라_\(가수\).md "wikilink"), [문별](../Page/문별.md "wikilink"), [휘인](../Page/휘인.md "wikilink"), [화사](../Page/화사.md "wikilink") | [솔라](../Page/솔라_\(가수\).md "wikilink") | 2014년 |
-| [베이식](../Page/베이식_\(가수\).md "wikilink")                        | MC(래퍼) | \-                                                                                                                                    | \-                                    | 2007년 |
-| [빅트레이](https://ko.wikipedia.org/wiki/빅트레이 "wikilink")          | MC(래퍼) | \-                                                                                                                                    | \-                                    | 2010년 |
-| [양파](../Page/양파_\(가수\).md "wikilink")                          | 가수     | \-                                                                                                                                    | \-                                    | 1996년 |
-| [오브로젝트](../Page/오브로젝트.md "wikilink")                           | 가수     | 오태석, 윤닭                                                                                                                               | \-                                    | 2014년 |
-| [브로맨스](../Page/브로맨스_\(음악_그룹\).md "wikilink")                   | 가수     | 박장현, 박현규, 이찬동, 이현석                                                                                                                    | 박장현                                   | 2016년 |
-| [코스믹 걸](https://ko.wikipedia.org/wiki/코스믹_걸 "wikilink")        | 가수     | \-                                                                                                                                    | \-                                    | 2016년 |
-| [원어스](https://ko.wikipedia.org/wiki/원어스 "wikilink")            | 가수     | RAVN, 서호, 이도, 건희, 환웅, 시온                                                                                                              | RAVN                                  | 2019년 |
-| [원위](https://ko.wikipedia.org/wiki/원위 "wikilink")              | 가수     | 용훈 (리더, 메인보컬), 강현 (기타), 하린 (드럼), 동명 (보컬, 키보드), 키아                                                                                     | 용훈                                    | 2015년 |
-| [김유나](https://ko.wikipedia.org/wiki/김유나_\(싱어송라이터\) "wikilink") | 가수     | \-                                                                                                                                    | \-                                    | 2018년 |
-| [호연주](https://ko.wikipedia.org/wiki/호연주 "wikilink")            | 가수     | \-                                                                                                                                    | \-                                    | 2007년 |
-| [오브제](https://ko.wikipedia.org/wiki/오브제_\(가수\) "wikilink")     | 가수     | \-                                                                                                                                    | \-                                    | 2019년 |
-| [오연](https://ko.wikipedia.org/wiki/오연_\(가수\) "wikilink")       | 가수     | \-                                                                                                                                    | \-                                    | 2019년 |
-
-## 소속 연습생
-
-  - [나고은](../Page/PRODUCE_48_참가자_목록.md "wikilink")
-  - [박지은](../Page/PRODUCE_48_참가자_목록.md "wikilink")
-  - 장은성
-  - 이예솔
-  - 모리 코유키
-  - 박수진
-  - 조서영
-  - 이채영
+<table>
+<thead>
+<tr class="header">
+<th><p>직업</p></th>
+<th><p>소속 연예인</p></th>
+<th><p>구성원</p></th>
+<th><p>리더</p></th>
+<th><p>데뷔</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>가수</p></td>
+<td><p><a href="../Page/마마무.md" title="wikilink">마마무</a></p></td>
+<td><p><a href="../Page/솔라_(가수).md" title="wikilink">솔라</a>, <a href="../Page/문별.md" title="wikilink">문별</a>, <a href="../Page/휘인.md" title="wikilink">휘인</a>, <a href="../Page/화사.md" title="wikilink">화사</a></p></td>
+<td><p><a href="../Page/솔라_(가수).md" title="wikilink">솔라</a></p></td>
+<td><p>2014년</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/브로맨스_(음악_그룹).md" title="wikilink">브로맨스</a></p></td>
+<td><p>박장현, 박현규, 이찬동, 이현석</p></td>
+<td><p>박장현</p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/원어스.md" title="wikilink">원어스</a></p></td>
+<td><p>RAVN, 서호, 이도, 건희, 환웅, 시온</p></td>
+<td></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/원위" title="wikilink">원위</a></p></td>
+<td><p>용훈 , 강현 (기타), 하린 (드럼), 동명 , 키아</p></td>
+<td><p>용훈</p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> → <a href="../Page/2016년.md" title="wikilink">2016년</a> → <a href="../Page/2019년.md" title="wikilink">2019년</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/퍼플키스" title="wikilink">퍼플키스</a></p></td>
+<td><p>박지은, 나고은, 도시, 이레, 유키, 채인, 수안</p></td>
+<td><p>미정</p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 아티스트 인큐베이팅 참여 내역
 

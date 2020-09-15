@@ -48,7 +48,7 @@
   - [유동현](../Page/유동현.md "wikilink")
   - [박상훈](https://ko.wikipedia.org/wiki/박상훈_\(1986년_성우\) "wikilink")
   - [김혜미](../Page/김혜미.md "wikilink")
-  - [남기원](https://ko.wikipedia.org/wiki/남기원 "wikilink")
+  - [남기원](../Page/남기원.md "wikilink")
 
 ## 외부 링크
 

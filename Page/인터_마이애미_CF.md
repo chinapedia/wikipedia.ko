@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/인터_마이애미_CF_스타디움" title="wikilink">인터 마이애미 CF 스타디움</a></p></td>
+<td><p><a href="../Page/인터_마이애미_CF_스타디움.md" title="wikilink">인터 마이애미 CF 스타디움</a></p></td>
 <td><p>2020년~현재</p></td>
 <td><p><a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> <a href="../Page/포트로더데일.md" title="wikilink">포트로더데일</a></p></td>
 <td><p>인터 마이애미 CF</p></td>

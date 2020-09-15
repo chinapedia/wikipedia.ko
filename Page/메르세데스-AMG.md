@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [메르세데스-AMG](https://ko.wikipedia.org/wiki/메르세데스-AMG).
 
 
-[대체글=](https://ko.wikipedia.org/wiki/파일:C63_AMG_BS._\(7911031370\).jpg "wikilink") **메르세데스-AMG**()는 [독일](../Page/독일.md "wikilink") [아팔터바흐](https://ko.wikipedia.org/wiki/아팔터바흐 "wikilink")에 본사를 둔 [자동차](../Page/자동차.md "wikilink") 및 [엔진](../Page/엔진.md "wikilink") 제조 회사이다. 모회사는 [다임러 AG이며](../Page/다임러_AG.md "wikilink"), 대표 모델로는 [AMG GT가](https://ko.wikipedia.org/wiki/AMG_GT "wikilink") 있다.
+[대체글=](https://ko.wikipedia.org/wiki/파일:C63_AMG_BS._\(7911031370\).jpg "wikilink") **메르세데스-AMG**()는 [독일](../Page/독일.md "wikilink") [아팔터바흐](https://ko.wikipedia.org/wiki/아팔터바흐 "wikilink")에 본사를 둔 [자동차](../Page/자동차.md "wikilink") 및 [엔진](../Page/엔진.md "wikilink") 제조 회사이다. 모회사는 [다임러 AG이며](../Page/다임러_AG.md "wikilink"), 대표 모델로는 [메르세데스-AMG GT가](https://ko.wikipedia.org/wiki/메르세데스-AMG_GT "wikilink") 있다.
 
 사명인 **AMG**는 [한스-베르너 아우프레흐트](https://ko.wikipedia.org/wiki/:en:Hans-Werner_Aufrecht "wikilink")(**A**ufrecht), [에어하트 멜허](https://ko.wikipedia.org/wiki/:en:Erhard_Melcher "wikilink")(**M**elcher), [그로사스파흐](https://ko.wikipedia.org/wiki/:en:Großaspach "wikilink")(**G**roßaspach, 아우프레흐트의 고향)의 머릿글자를 따서 지어진 이름이다.
 
@@ -14,13 +14,15 @@
 ## AMG 생산 차종
 
   - AMG 원
-  - AMG GT
-  - AMG GT S
-  - AMG GT C
-  - AMG GT R
-  - AMG GT R Pro
-  - AMG GT 3
-  - AMG GT 4
+  - [메르세데스-AMG GT](https://ko.wikipedia.org/wiki/메르세데스-AMG_GT "wikilink")
+
+`*AMG GT`
+`*AMG GT S`
+`*AMG GT C `
+`*AMG GT R`
+`*AMG GT R Pro`
+
+  - [메르세데스-AMG GT 4](https://ko.wikipedia.org/wiki/메르세데스-AMG_GT_4 "wikilink")
   - A 35
   - A 45 4매틱
   - CLA 45 4매틱

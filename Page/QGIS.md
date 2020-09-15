@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [QGIS](https://ko.wikipedia.org/wiki/QGIS).
 
 
-**QGIS**(과거 이름: Quantum GIS)는 데이터 뷰, 편집, 분석을 제공하는 크로스 플랫폼 [자유](../Page/자유_소프트웨어.md "wikilink")-[오픈 소스](../Page/오픈_소스.md "wikilink") 데스크톱 [지리 정보 체계](https://ko.wikipedia.org/wiki/지리_정보_체계 "wikilink")(GIS) 응용 프로그램이다.\[1\]
+**QGIS**는 데이터 뷰, 편집, 분석을 제공하는 크로스 플랫폼 [자유](../Page/자유_소프트웨어.md "wikilink")-[오픈 소스](../Page/오픈_소스.md "wikilink") 데스크톱 [지리 정보 체계](https://ko.wikipedia.org/wiki/지리_정보_체계 "wikilink")(GIS) 응용 프로그램이다.\[1\] 과거 이름은 **Quantum GIS**이다.
 
 ## 출시 역사
 

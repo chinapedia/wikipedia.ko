@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [JTBC 뉴스 아침\&](https://ko.wikipedia.org/wiki/JTBC_뉴스_아침\&).
 
 
-**《JTBC 뉴스 아침&》**은 [대한민국](../Page/대한민국.md "wikilink")에서 평일 오전 7시 정각에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송하는 [JTBC](../Page/JTBC.md "wikilink")의 주중 아침 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
+**《JTBC 뉴스 아침&》**은 [대한민국](../Page/대한민국.md "wikilink")에서 매주 평일 아침 7시 30분에 [텔레비전](../Page/텔레비전.md "wikilink")으로 방송하는 [JTBC](../Page/JTBC.md "wikilink")의 주중 아침 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
 
 ## 역대 앵커
 
-| 기수 | 진행자                                                                                                                | 진행 기간                                                                                                                                                      |
-| -- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1기 | [김필규](../Page/김규식.md "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink")                              | [2013년](../Page/2013년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") |
-| 2기 | [박성준](https://ko.wikipedia.org/wiki/박성준_\(1969년\) "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink") | [2014년](../Page/2014년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") |
-| 3기 | [박성준](https://ko.wikipedia.org/wiki/박성준_\(1969년\) "wikilink"), [안나경](../Page/안나경.md "wikilink")                    | [2014년](../Page/2014년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink")   |
-| 4기 | [박성준](https://ko.wikipedia.org/wiki/박성준_\(1969년\) "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink") | [2015년](../Page/2015년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink")   |
-| 5기 | [장성규](../Page/장성규.md "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink")                              | [2015년](../Page/2015년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink")   |
-| 6기 | [김진일](../Page/김진일.md "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink")                              | [2016년](../Page/2016년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink")     |
-| 7기 | [성문규](../Page/성문규.md "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink")                              | [2017년](../Page/2017년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink")   |
-| 8기 | [이정헌](https://ko.wikipedia.org/wiki/이정헌 "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink")           | [2017년](../Page/2017년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") \~ **현재**                                                                      |
-|    |                                                                                                                    |                                                                                                                                                            |
+| 순서 | 진행자                                                                                                      | 진행 기간                                                                                                                                                      |
+| -- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | [김필규](../Page/김규식.md "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink")                    | [2013년](../Page/2013년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") |
+| 2  | [박성준](../Page/박성준_\(1969년\).md "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink")          | [2014년](../Page/2014년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") |
+| 3  | [박성준](../Page/박성준_\(1969년\).md "wikilink"), [안나경](../Page/안나경.md "wikilink")                             | [2014년](../Page/2014년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink")   |
+| 4  | [박성준](../Page/박성준_\(1969년\).md "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink")          | [2015년](../Page/2015년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink")   |
+| 5  | [장성규](../Page/장성규.md "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink")                    | [2015년](../Page/2015년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink")   |
+| 6  | [김진일](../Page/김진일.md "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink")                    | [2016년](../Page/2016년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink")     |
+| 7  | [성문규](../Page/성문규.md "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink")                    | [2017년](../Page/2017년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink")   |
+| 8  | [이정헌](https://ko.wikipedia.org/wiki/이정헌 "wikilink"), [황남희](https://ko.wikipedia.org/wiki/황남희 "wikilink") | [2017년](../Page/2017년.md "wikilink") [8월 14일](../Page/8월_14일.md "wikilink") \~ **현재**                                                                      |
+|    |                                                                                                          |                                                                                                                                                            |
 
 ## 방송 시간
 
@@ -29,53 +29,57 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/9월_16일.md" title="wikilink">9월 16일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/4월_4일.md" title="wikilink">4월 4일</a></p></td>
-<td><p>오전 7:00 ~ 8:25 (85분)</p></td>
+<td><p>아침 7:00 ~ 8:25 (85분)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/4월_16일.md" title="wikilink">4월 16일</a></p></td>
-<td><p>오전 8:00 ~ 9:00 (60분)</p></td>
+<td><p>아침 8:00 ~ 9:00 (60분)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/4월_28일.md" title="wikilink">4월 28일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/5월_16일.md" title="wikilink">5월 16일</a></p></td>
-<td><p>오전 6:50 ~ 8:20 (90분)</p></td>
+<td><p>아침 6:50 ~ 8:20 (90분)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/5월_20일.md" title="wikilink">5월 20일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/5월_23일.md" title="wikilink">5월 23일</a></p></td>
-<td><p>오전 7:25 ~ 8:25 (60분)</p></td>
+<td><p>아침 7:25 ~ 8:25 (60분)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/5월_26일.md" title="wikilink">5월 26일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/7월_25일.md" title="wikilink">7월 25일</a></p></td>
-<td><p>오전 7:20 ~ 8:40 (80분)</p></td>
+<td><p>아침 7:20 ~ 8:40 (80분)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/7월_28일.md" title="wikilink">7월 28일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/9월_19일.md" title="wikilink">9월 19일</a></p></td>
-<td><p>오전 7:20 ~ 8:35 (75분)</p></td>
+<td><p>아침 7:20 ~ 8:35 (75분)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/9월_22일.md" title="wikilink">9월 22일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/9월_26일.md" title="wikilink">9월 26일</a><br />
 <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/1월_5일.md" title="wikilink">1월 5일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/1월_30일.md" title="wikilink">1월 30일</a><br />
 <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/9월_21일.md" title="wikilink">9월 21일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/8월_11일.md" title="wikilink">8월 11일</a></p></td>
-<td><p>오전 7:30 ~ 9:00 (90분)</p></td>
+<td><p>아침 7:30 ~ 9:00 (90분)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/9월_29일.md" title="wikilink">9월 29일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/1월_2일.md" title="wikilink">1월 2일</a></p></td>
-<td><p>오전 7:20 ~ 8:50 (90분)</p></td>
+<td><p>아침 7:20 ~ 8:50 (90분)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/2월_2일.md" title="wikilink">2월 2일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/9월_18일.md" title="wikilink">9월 18일</a></p></td>
-<td><p>오전 7:30 ~ 9:10 (100분)</p></td>
+<td><p>아침 7:30 ~ 9:10 (100분)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/8월_14일.md" title="wikilink">8월 14일</a> ~ <strong>현재</strong></p></td>
-<td><p>오전 7:00 ~ 8:30 (90분)</p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/8월_14일.md" title="wikilink">8월 14일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_19일.md" title="wikilink">6월 19일</a></p></td>
+<td><p>아침 7:00 ~ 8:30 (90분)</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_22일.md" title="wikilink">6월 22일</a> ~ <strong>현재</strong></p></td>
+<td><p>아침 7:30 ~ 8:30 (60분)</p></td>
 </tr>
 </tbody>
 </table>
 
 ## 결방 사유
 
-  - 매년 [US여자오픈](https://ko.wikipedia.org/wiki/US여자오픈 "wikilink")와 [US 오픈](../Page/US_오픈_\(골프\).md "wikilink") 3R · FR 중계 관계로 결방되었다.
-  - [2020년](../Page/2020년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink"), [김민아](https://ko.wikipedia.org/wiki/김민아_\(방송인\) "wikilink") [기상캐스터](https://ko.wikipedia.org/wiki/기상캐스터 "wikilink")의 발열 증세로 일부 편성 결방되었다.
+  - 매년 [US여자오픈](https://ko.wikipedia.org/wiki/US여자오픈 "wikilink")와 [US 오픈](../Page/US_오픈_\(골프\).md "wikilink") 3R · FR 중계방송 관계로 결방된다.
+  - [2020년](../Page/2020년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") [김민아](../Page/김민아_\(방송인\).md "wikilink") [기상캐스터](https://ko.wikipedia.org/wiki/기상캐스터 "wikilink")의 발열 증세로 일부 편성 결방되었다.
 
 ## 관련 자료
 
@@ -84,7 +88,7 @@
 <!-- end list -->
 
   -
-    <small>[2011년](../Page/2001년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink") \~ [2012년](../Page/2002년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink") ; 평일 오전 7시 정각 \~ 8시 20분</small>
+    <small>[2011년](../Page/2011년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink") ; 평일 오전 7시 정각 \~ 8시 20분</small>
 
 <!-- end list -->
 
@@ -93,7 +97,7 @@
 <!-- end list -->
 
   -
-    <small>[2012년](../Page/2002년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink") \~ [2012년](../Page/2002년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") ; 평일 오전 7시 정각 \~ 8시 정각</small>
+    <small>[2012년](../Page/2012년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") ; 평일 오전 7시 정각 \~ 8시 정각</small>
 
 <!-- end list -->
 
@@ -102,7 +106,7 @@
 <!-- end list -->
 
   -
-    <small>[2013년](../Page/2003년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [2013년](../Page/2003년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") ; 평일 오전 6시 50분 \~ 8시 10분</small>
+    <small>[2013년](../Page/2013년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") ; 평일 오전 6시 50분 \~ 8시 10분</small>
 
 ## 같이 보기
 

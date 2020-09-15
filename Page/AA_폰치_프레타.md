@@ -23,6 +23,6 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.pontepretaesportes.com.br/)
+  - [공식 홈페이지](https://web.archive.org/web/20141229003425/http://www.pontepretaesportes.com.br/)
 
 [AA_폰치_프레타](https://ko.wikipedia.org/wiki/분류:AA_폰치_프레타 "wikilink") [분류:브라질의 축구단](https://ko.wikipedia.org/wiki/분류:브라질의_축구단 "wikilink") [분류:1900년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1900년_설립된_축구단 "wikilink") [분류:상파울루주의 축구단](https://ko.wikipedia.org/wiki/분류:상파울루주의_축구단 "wikilink")

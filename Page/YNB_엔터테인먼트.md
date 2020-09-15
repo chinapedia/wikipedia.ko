@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [YNB 엔터테인먼트](https://ko.wikipedia.org/wiki/YNB_엔터테인먼트).
 
 
-**YNB 엔터테인먼트**(YNB Entertainment)는 [대한민국](../Page/대한민국.md "wikilink")의 연예기획사다. 공동대표이사는 양승원과 방윤태 사장이었다. 2011년에 설립되어 2018년에 폐업하였다.
+**YNB 엔터테인먼트**()는 [대한민국](../Page/대한민국.md "wikilink")의 연예기획사다. 공동대표이사는 [양승원](https://ko.wikipedia.org/wiki/양승원 "wikilink")과 [방윤태](https://ko.wikipedia.org/wiki/방윤태 "wikilink") [사장](https://ko.wikipedia.org/wiki/사장 "wikilink")이었다. 2011년에 설립되어 2018년에 폐업하였다.
 
 ## 연혁
 
@@ -52,7 +52,7 @@
 [분류:대한민국의 연예 기획사](https://ko.wikipedia.org/wiki/분류:대한민국의_연예_기획사 "wikilink") [분류:2011년 설립](https://ko.wikipedia.org/wiki/분류:2011년_설립 "wikilink") [분류:2018년 폐지](https://ko.wikipedia.org/wiki/분류:2018년_폐지 "wikilink")
 
 1.
-2.  [대중문화예술종합정보시스템](https://ent.kocca.kr/UID/CPI/U002/baseSearch.do) 검색결과. 키워드 “와이앤비”. 2019년 7월 8일 검색함.
+2.  [대중문화예술종합정보시스템](https://ent.kocca.kr/UID/CPI/U002/baseSearch.do)  검색결과. 키워드 “와이앤비”. 2019년 7월 8일 검색함.
 3.
 4.
 5.  ['괴물신인' 알맹, 알고보니 싸이 10년 매니저가 키운다](https://news.joins.com/article/16205988), 일간스포츠, 2014년 10월 23일.

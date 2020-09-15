@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WebCL](https://ko.wikipedia.org/wiki/WebCL).
 
 
-**WebCL** (**웹 컴퓨팅 언어**)는 플러그인 없이 웹 브라우저만을 이용하여 이질 [병렬 컴퓨팅을](../Page/병렬_컴퓨팅.md "wikilink") 수행하기 위한 [OpenCL](../Page/OpenCL.md "wikilink") 이용 [자바스크립트](../Page/자바스크립트.md "wikilink") [바인딩](https://ko.wikipedia.org/wiki/바인딩 "wikilink")이다.  기본적으로 WebCL은 멀티코어 CPU와 GPU가 제 성능을 발휘할 수 있도록 해준다. 웹 브라우저 안에서도 예를 들어 물리엔진이나 캔바스 요소 그리고 영상 편집같은 계산을 많이하는 컴퓨터 프로그램이 원활하게 구동되도록 해준다.  WebCL은 비영리단체인 크로노스 그룹에서 개발하고 관리하고 있다. 2014년 3월 19일 WebCL 1.0 표준문서가 개발되어 발표되었다.
+**WebCL**(**웹 컴퓨팅 언어**)은 플러그인 없이 웹 브라우저만을 이용하여 이질 [병렬 컴퓨팅을](../Page/병렬_컴퓨팅.md "wikilink") 수행하기 위한 [OpenCL](../Page/OpenCL.md "wikilink") 이용 [자바스크립트](../Page/자바스크립트.md "wikilink") [바인딩](https://ko.wikipedia.org/wiki/바인딩 "wikilink")이다.  기본적으로 WebCL은 멀티코어 CPU와 GPU가 제 성능을 발휘할 수 있도록 해준다. 웹 브라우저 안에서도 예를 들어 물리엔진이나 캔바스 요소 그리고 영상 편집같은 계산을 많이하는 컴퓨터 프로그램이 원활하게 구동되도록 해준다.  WebCL은 비영리단체인 크로노스 그룹에서 개발하고 관리하고 있다. 2014년 3월 19일 WebCL 1.0 표준문서가 개발되어 발표되었다.
 
 ## 구현
 

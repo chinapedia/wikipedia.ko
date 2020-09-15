@@ -43,10 +43,10 @@
 
 ## 외부 링크
 
-  - [KC 홈페이지](http://kc.daejookc.com/index.htm)
+  - [KC 홈페이지](https://web.archive.org/web/20200318055653/http://kc.daejookc.com/index.htm)
 
 [분류:영암군](https://ko.wikipedia.org/wiki/분류:영암군 "wikilink") [분류:전라남도의 기업](https://ko.wikipedia.org/wiki/분류:전라남도의_기업 "wikilink") [분류:2001년 설립](https://ko.wikipedia.org/wiki/분류:2001년_설립 "wikilink")
 
-1.  [대불공단내 KC주식회사 “국내최초로 자체 개발한 초미분(Ultra Fine) 고백색 수산화 알루미늄(KH-101)”신제품 출시](http://jnsm.co.kr/sub_read.html?uid=1688)《전남신문》2006년 12월 4일
+1.  [대불공단내 KC주식회사 “국내최초로 자체 개발한 초미분(Ultra Fine) 고백색 수산화 알루미늄(KH-101)”신제품 출시](http://jnsm.co.kr/sub_read.html?uid=1688) 《전남신문》2006년 12월 4일
 2.  [국무총리상 - KC (주),“직원이 즐거워야 회사 발전” 노사 한마음](http://article.joinsmsn.com/news/article/article.asp?ctg=11&Total_ID=9342939)《중앙일보》2012년 9월 17일
 3.  [“일본산 수산화알루미늄 반덤핑 제소”](https://archive.is/20130627004604/ktc.go.kr/kboard/download.jsp?no=899&bd=999999995&br=0&bc=0&bm=17&lo=l&db=0&ty=)《한국화학》선종률

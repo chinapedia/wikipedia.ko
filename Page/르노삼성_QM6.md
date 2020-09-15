@@ -173,7 +173,7 @@
 
 ### 더 뉴 QM6(2019년 6월\~현재)
 
-2019년 6월에 부분변경 모델이 나오면서 2.0 LPG 엔진이 추가됐으며, 전륜구동만 나온다.
+2019년 6월에 부분변경 모델이 나오면서 2.0 LPG 엔진이 추가됐으며, 전륜구동만 나온다. 9월에 1.7 디젤(2WD)과 2.0 디젤(4WD)이 출시되었다.
 
 <table>
 <thead>
@@ -388,4 +388,4 @@
 
   - [르노삼성자동차](http://www.renaultsamsungm.com/main.jsp)
 
-[QM6](https://ko.wikipedia.org/wiki/분류:르노의_차종 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:르노삼성자동차의_차종 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:전륜구동 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:스포츠_유틸리티_자동차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:2016년_도입된_자동차 "wikilink")
+[QM6](https://ko.wikipedia.org/wiki/분류:르노삼성자동차의_차종 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:전륜구동 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:스포츠_유틸리티_자동차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [QM6](https://ko.wikipedia.org/wiki/분류:2016년_도입된_자동차 "wikilink")

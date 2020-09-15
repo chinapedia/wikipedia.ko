@@ -85,7 +85,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오페라리우_페호비아리우_EC" title="wikilink">오페라리우</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/폰타그로사" title="wikilink">폰타그로사</a></p></td>
+<td><p><a href="../Page/폰타그로사.md" title="wikilink">폰타그로사</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/이피랑가_FC" title="wikilink">이피랑가</a></p></td>

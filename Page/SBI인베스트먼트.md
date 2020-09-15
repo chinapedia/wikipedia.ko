@@ -19,7 +19,7 @@
   - [에이티넘인베스트먼트](https://ko.wikipedia.org/wiki/에이티넘인베스트먼트 "wikilink")
   - [대성창업투자](https://ko.wikipedia.org/wiki/대성창업투자 "wikilink")
   - [벤처캐피털](https://ko.wikipedia.org/wiki/벤처캐피털 "wikilink")
-  - [SBI 홀딩스](https://ko.wikipedia.org/wiki/SBI_홀딩스 "wikilink")
+  - [SBI 홀딩스](../Page/SBI_홀딩스.md "wikilink")
 
 ## 참고 문헌
 

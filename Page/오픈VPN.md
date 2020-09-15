@@ -9,7 +9,7 @@
 
 ## 외부 링크
 
-  - [오픈VPN 프로젝트 홈페이지](https://openvpn.net/index.php/open-source.html)
+  - [오픈VPN 프로젝트 홈페이지](https://web.archive.org/web/20150922135228/https://openvpn.net/index.php/open-source.html)
 
   - [오픈VPN 프레젠테이션 및 시연 영상](https://archive.org/details/HantsLUG_openvpn) Hampshire Linux User Group. Archive.org. [details](http://hantslug.org.uk/wiki/TechTalks).
 

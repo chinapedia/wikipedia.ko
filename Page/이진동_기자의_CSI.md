@@ -14,7 +14,7 @@
 
 ## 외부 링크
 
-  - [이진동 기자의 CSI 홈페이지](http://tv.chosun.com/sisa/newscsi/main/main.html)
+  - [이진동 기자의 CSI 홈페이지](https://web.archive.org/web/20130723110110/http://tv.chosun.com/sisa/newscsi/main/main.html)
 
 [분류:TV조선의 시사교양 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:TV조선의_시사교양_텔레비전_프로그램 "wikilink")
 

@@ -94,8 +94,8 @@ int main (int argc, char *argv[])
 ## 외부 링크
 
   - [TechBase](http://techbase.kde.org/), documentation for KDE developers
-  - [KDE Projects](https://projects.kde.org/), overview of all projects within git.kde.org
-  - [KDE quick Git source code browser](http://quickgit.kde.org/)
+  - [KDE Projects](https://web.archive.org/web/20160316183714/https://projects.kde.org/), overview of all projects within git.kde.org
+  - [KDE quick Git source code browser](https://web.archive.org/web/20161115125438/https://quickgit.kde.org/)
   - [KDE Bug Tracking System](http://arquivo.pt/wayback/19990430062327/http://bugs.kde.org/)
   - [KDE tutorial first program](http://techbase.kde.org/Development/Tutorials/First_program)
 

@@ -68,7 +68,7 @@ EPOXI는 딥 임팩트 확장 탐사(Deep Impact Extended Investigation, DIXI)�
 4.
 5.
 6.  <http://www.jpl.nasa.gov/news/news.php?release=2012-313>
-7.  <http://spaceflightnow.com/news/n1112/17deepimpact/>
+7.
 8.
 9.  [NASA calls off search for lost Deep Impact comet probe](http://www.abc.net.au/news/2013-09-21/nasa-calls-off-search-for-deep-impact-comet-probe/4972930) - Australian Broadcasting Corporation - Retrieved September 21, 2013.
 10.

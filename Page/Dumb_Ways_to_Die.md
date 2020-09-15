@@ -39,7 +39,7 @@
 
   -
 
-[분류:멜버른의 교통](https://ko.wikipedia.org/wiki/분류:멜버른의_교통 "wikilink") [분류:인터넷 밈](https://ko.wikipedia.org/wiki/분류:인터넷_밈 "wikilink") [분류:2012년 노래](https://ko.wikipedia.org/wiki/분류:2012년_노래 "wikilink") [분류:2013년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2013년_비디오_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:2013년 논쟁](https://ko.wikipedia.org/wiki/분류:2013년_논쟁 "wikilink") [분류:바이럴 영상](https://ko.wikipedia.org/wiki/분류:바이럴_영상 "wikilink")
+[분류:멜버른의 교통](https://ko.wikipedia.org/wiki/분류:멜버른의_교통 "wikilink") [분류:인터넷 밈](https://ko.wikipedia.org/wiki/분류:인터넷_밈 "wikilink") [분류:2012년 노래](https://ko.wikipedia.org/wiki/분류:2012년_노래 "wikilink") [분류:2013년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2013년_비디오_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:2013년 논쟁](https://ko.wikipedia.org/wiki/분류:2013년_논쟁 "wikilink") [분류:바이럴 영상](https://ko.wikipedia.org/wiki/분류:바이럴_영상 "wikilink") [분류:비디오 게임 밈](https://ko.wikipedia.org/wiki/분류:비디오_게임_밈 "wikilink")
 
 1.
 2.

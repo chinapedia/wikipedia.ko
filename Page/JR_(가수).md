@@ -92,6 +92,7 @@ I HATE YOU (2018)
   - Mnet 《[니가 알던 내가 아냐 시즌1](https://ko.wikipedia.org/wiki/니가_알던_내가_아냐_시즌1 "wikilink")》 (2018) - 고정 MC
   - SBS 《[인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")》 (2019) - 1001회 스페셜 MC
   - Mnet 《[유학소녀](../Page/유학소녀.md "wikilink")》 (2019) - 스토리텔러
+  - NQQ 《[위플레이](../Page/위플레이.md "wikilink")》 (2020) - 고정멤버
 
 ### 잡지
 

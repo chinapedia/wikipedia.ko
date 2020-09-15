@@ -16,7 +16,7 @@ PRT 파르반은 최대 350명(군인 200명, 민간인 100명, 경찰 40명)으
 ## 외부 링크
 
   -
-[분류:2010년 설립](https://ko.wikipedia.org/wiki/분류:2010년_설립 "wikilink") [분류:2014년 폐지](https://ko.wikipedia.org/wiki/분류:2014년_폐지 "wikilink") [분류:지역재건팀](https://ko.wikipedia.org/wiki/분류:지역재건팀 "wikilink") [분류:대한민국의 군사사](https://ko.wikipedia.org/wiki/분류:대한민국의_군사사 "wikilink") [분류:대한민국의 공병 부대 및 조직](https://ko.wikipedia.org/wiki/분류:대한민국의_공병_부대_및_조직 "wikilink") [분류:아프가니스탄 전쟁 (2001년-현재)에 참전한 부대 및 조직](https://ko.wikipedia.org/wiki/분류:아프가니스탄_전쟁_\(2001년-현재\)에_참전한_부대_및_조직 "wikilink") [분류:대한민국-아프가니스탄 관계](https://ko.wikipedia.org/wiki/분류:대한민국-아프가니스탄_관계 "wikilink") [분류:파르반주](https://ko.wikipedia.org/wiki/분류:파르반주 "wikilink")
+[분류:2010년 설립](https://ko.wikipedia.org/wiki/분류:2010년_설립 "wikilink") [분류:2014년 폐지](https://ko.wikipedia.org/wiki/분류:2014년_폐지 "wikilink") [분류:지역재건팀](https://ko.wikipedia.org/wiki/분류:지역재건팀 "wikilink") [분류:대한민국의 군사사](https://ko.wikipedia.org/wiki/분류:대한민국의_군사사 "wikilink") [분류:대한민국의 공병 부대 및 조직](https://ko.wikipedia.org/wiki/분류:대한민국의_공병_부대_및_조직 "wikilink") [분류:제1차 미국-아프가니스탄 전쟁의 대한민국의 부대 및 조직](https://ko.wikipedia.org/wiki/분류:제1차_미국-아프가니스탄_전쟁의_대한민국의_부대_및_조직 "wikilink") [분류:대한민국-아프가니스탄 관계](https://ko.wikipedia.org/wiki/분류:대한민국-아프가니스탄_관계 "wikilink") [분류:파르반주](https://ko.wikipedia.org/wiki/분류:파르반주 "wikilink")
 
 1.
 2.

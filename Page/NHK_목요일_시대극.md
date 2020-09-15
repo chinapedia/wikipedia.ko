@@ -14,7 +14,7 @@
   - [오오카 정담 이케다 다이스케 포물장](https://ko.wikipedia.org/wiki/오오카_정담_이케다_다이스케_포물장 "wikilink")(1966년 4월 - [1967년](../Page/1967년.md "wikilink") 3월)
   - [분고 포물회도](https://ko.wikipedia.org/wiki/분고_포물회도 "wikilink")(1967년 4월 - [1968년](../Page/1968년.md "wikilink") 10월)
   - [개화탐정장](https://ko.wikipedia.org/wiki/개화탐정장 "wikilink")(1968년 11월 - [1969년](../Page/1969년.md "wikilink") 10월)
-  - [구라마텐구](https://ko.wikipedia.org/wiki/구라마텐구 "wikilink")(1969년 10월 - [1970년](../Page/1970년.md "wikilink") 10월)
+  - [구라마텐구](../Page/구라마텐구.md "wikilink")(1969년 10월 - [1970년](../Page/1970년.md "wikilink") 10월)
   - [남자는 담력](https://ko.wikipedia.org/wiki/남자는_담력 "wikilink")(1970년 10월 - [1971년](../Page/1971년.md "wikilink") 10월)
   - [천하 미안](https://ko.wikipedia.org/wiki/천하_미안 "wikilink")(1971년 10월 - [1972년](../Page/1972년.md "wikilink") 10월)
   - [붉은 수염](https://ko.wikipedia.org/wiki/붉은_수염_\(1972년_드라마\) "wikilink")(1972년 10월 - [1973년](../Page/1973년.md "wikilink") 9월)
@@ -93,7 +93,8 @@
   - [온주쿠 카와세미\~제3장\~](https://ko.wikipedia.org/wiki/온주쿠_카와세미~제3장~ "wikilink")(2005년 5월 - 8월)
   - [비밀 칼 말 뼈다귀](https://ko.wikipedia.org/wiki/비밀_칼_말_뼈다귀 "wikilink")(2005년 8월 - 9월)
   - [게이지로 툇마루 일기2](https://ko.wikipedia.org/wiki/게이지로_툇마루_일기 "wikilink")(2005년 10월 - 12월)
-  - [이즈모노 오쿠니](https://ko.wikipedia.org/wiki/이즈모노_오쿠니 "wikilink")(2006년 1월 - 2월)
+  - [이즈모노 오쿠니](https://ko.wikipedia.org/wiki/이즈모노_오쿠니_\(소설\) "wikilink")(2006년 1월 - 2월)
+  - [야규 쥬베이 7번승부](https://ko.wikipedia.org/wiki/야규_쥬베이_7번승부 "wikilink") （재방송）(2006년 2월 - 3월)
 
 ### 목요일 시대극(2006 - 2007년)
 
@@ -147,6 +148,12 @@
   - [아시걸](https://ko.wikipedia.org/wiki/아시걸 "wikilink")(2017년 9월 23일 - 12월 16일)
   - [주판 사무라이 바람의 이치베에](https://ko.wikipedia.org/wiki/주판_사무라이_바람의_이치베에 "wikilink")(2018년 5월 19일 - 7월 21일)
   - [누케마이루\~여자 세명 신궁 참배](https://ko.wikipedia.org/wiki/누케마이루~여자_세명_신궁_참배 "wikilink")(2018년 10월 27일 - 12월 22일）
+  - [막말 미식가 무사 밥\! 2](https://ko.wikipedia.org/wiki/막말_미식가_무사_밥! "wikilink")(2019년 1월 19일 - 3월 9일)
+  - 쿠로기리 니자에몽 1 & 2(2019년 4월 6일 - 7월 20일)
+  - [코키치의 아내](https://ko.wikipedia.org/wiki/코키치의_아내 "wikilink")(2019년 7월 27일 - 9월 21일)
+  - [대부호 도신](https://ko.wikipedia.org/wiki/대부호_도신 "wikilink")(2019년 10월 5일 - 2020년 1월 11일)
+  - [달개비풀 나나의 검](https://ko.wikipedia.org/wiki/달개비풀_나나의_검 "wikilink")(2020년 1월 25일 - 3월 21일)
+  - 쿠로기리 니자에몽 3 & 4(2020년 4월 11일 - 진행 중)
 
 ## 각주
 
@@ -155,7 +162,7 @@
 ## 외부 링크
 
   - [NHK 드라마](https://web.archive.org/web/20130216174332/http://www9.nhk.or.jp/drama/)
-  - [NHK 시대극](http://www.nhk.or.jp/jidaigeki/index.html)
+  - [NHK 시대극](https://web.archive.org/web/20101204184531/http://www.nhk.or.jp/jidaigeki/index.html)
 
 [목요일](https://ko.wikipedia.org/wiki/분류:NHK의_텔레비전_드라마 "wikilink") [엔에이치케이](https://ko.wikipedia.org/wiki/분류:NHK의_시대극 "wikilink")
 

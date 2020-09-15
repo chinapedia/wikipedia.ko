@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sanggar Mustika](https://ko.wikipedia.org/wiki/Sanggar_Mustika).
 
 
-**Sanggar Mustika**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 시티 누르할리자의 여덟 번째 정규 앨범이다. 2002년 3월 10일 수리아 레코드를 통해 발매되었다. 총 4만 장 이상 판매되었으며, 인도네시아에서 75,000 장의 판매량을 기록했다.
+**Sanggar Mustika**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 시티 누르할리자의 아홉 번째 정규 앨범이다. 2002년 3월 10일 수리아 레코드를 통해 발매되었다. 총 4만 장 이상 판매되었으며, 인도네시아에서 75,000 장의 판매량을 기록했다.
 
 ## 앨범 개요
 

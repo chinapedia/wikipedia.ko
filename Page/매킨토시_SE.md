@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [매킨토시 SE](https://ko.wikipedia.org/wiki/매킨토시_SE).
 
 
-**매킨토시 SE**(Macintosh SE)는 [1987년](../Page/1987년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink")\[1\]\[2\]에 [매킨토시 II와](../Page/매킨토시_II.md "wikilink") 함께 출시된 [매킨토시](../Page/매킨토시.md "wikilink") 컴퓨터이다. 매킨토시 SE 시리즈의 첫 모델이며 [매킨토시 II의](../Page/매킨토시_II.md "wikilink") 출시 이후로 발매된 첫 [컴팩트 매킨토시이기도](https://ko.wikipedia.org/wiki/컴팩트_매킨토시 "wikilink") 하다.
+**매킨토시 SE**(Macintosh SE)는 [1987년](../Page/1987년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink")\[1\]\[2\] 에 [매킨토시 II와](../Page/매킨토시_II.md "wikilink") 함께 출시된 [매킨토시](../Page/매킨토시.md "wikilink") 컴퓨터이다. 매킨토시 SE 시리즈의 첫 모델이며 [매킨토시 II의](../Page/매킨토시_II.md "wikilink") 출시 이후로 발매된 첫 [컴팩트 매킨토시이기도](https://ko.wikipedia.org/wiki/컴팩트_매킨토시 "wikilink") 하다.
 
 첫 출시 당시 가격은 플로피 디스크 2개 탑재 제품은 $2900로, 20MB 하드디스크 탑재 제품은 $3900로 판매되었다. SE의 판매 실적이 높아지자 플로피 디스크 탑재 제품의 가격을 $3700으로 인상한 적이 있었다. 인상 직후 반발이 있으면서 다시 $2900로 환원하였다.
 
-CPU는 매킨토시 플러스와 동일한 8MHz 68000를 사용하고 있다. 1989년 1월 이후 CPU를 16MHz 68030를 장착한 업그레이드 제품인 [매킨토시 SE/30을](https://ko.wikipedia.org/wiki/매킨토시_SE/30 "wikilink") 내놓게 된다.
+CPU는 매킨토시 플러스와 동일한 8 MHz 68000를 사용하고 있다. 1989년 1월 이후 CPU를 16 MHz 68030를 장착한 업그레이드 제품인 [매킨토시 SE/30을](https://ko.wikipedia.org/wiki/매킨토시_SE/30 "wikilink") 내놓게 된다.
 
 ## 특징
 
@@ -23,7 +23,7 @@ SE는 매킨토시 II와 함께 ADB버스 규격을 새로 도입을 하였고, 
 
 ## 매킨토시 SE FDHD
 
-본래 매킨토시 SE는 단일 양면 이중 밀도 (SSDD)(400kB) 및 양면 이중 밀도(DSDD)(800kB)의 플로피 디스크를 사용할 수 있다. 1989년 8월, 애플은 [슈퍼드라이브](../Page/슈퍼드라이브.md "wikilink")로 업그레이드 된 매킨토시 SE FDHD(“**F**loppy **D**isk **H**igh **D**ensity”)를 내놓았다. 이 슈퍼드라이브는 1.4MB의 고밀도(HD)플로피 디스크를 읽을 수 있는 플로피 디스크 드라이브이다.\[3\]기존 매킨토시 SE에서도 사용할 수 있도록 업그레이드 키드를 내놓았다.
+본래 매킨토시 SE는 단일 양면 이중 밀도 (SSDD)(400kB) 및 양면 이중 밀도(DSDD)(800kB)의 플로피 디스크를 사용할 수 있다. 1989년 8월, 애플은 [슈퍼드라이브](../Page/슈퍼드라이브.md "wikilink")로 업그레이드 된 매킨토시 SE FDHD(“**F**loppy **D**isk **H**igh **D**ensity”)를 내놓았다. 이 슈퍼드라이브는 1.4MB의 고밀도(HD)플로피 디스크를 읽을 수 있는 플로피 디스크 드라이브이다.\[3\] 기존 매킨토시 SE에서도 사용할 수 있도록 업그레이드 키드를 내놓았다.
 
 ## 사양
 
@@ -57,7 +57,7 @@ SE는 매킨토시 II와 함께 ADB버스 규격을 새로 도입을 하였고, 
 ## 외부 링크
 
   -
-[분류:매킨토시](https://ko.wikipedia.org/wiki/분류:매킨토시 "wikilink")
+[분류:68k 매킨토시](https://ko.wikipedia.org/wiki/분류:68k_매킨토시 "wikilink")
 
 1.
 2.

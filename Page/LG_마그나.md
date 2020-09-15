@@ -3,7 +3,7 @@
 
 **LG 마그나**(LG Magna)는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink"), 자급제용으로 출시한 보급형 스마트폰이다. MWC 2015에서 [스피릿 (볼트)](../Page/LG_볼트.md "wikilink"), 레온, 조이와 공개되었으며, [G4와](../Page/LG_G4.md "wikilink") 디자인이 비슷해서 [유럽](../Page/유럽.md "wikilink")에서는 G4 C라는 이름으로 출시되었다.
 
-## 운영체제/소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 5.0 롤리팝
 

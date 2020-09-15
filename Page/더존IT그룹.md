@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [더존IT그룹](https://ko.wikipedia.org/wiki/더존IT그룹).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:더존_강촌캠퍼스_연구동.JPG "wikilink") **더존ICT그룹**(Douzone ICT Group, **DOUZONE**)은 대한민국의 IT전문 기업집단이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:더존_강촌캠퍼스_연구동.JPG "wikilink") **더존IT그룹**(Douzone IT Group, **DOUZONE**)은 대한민국의 IT전문 기업집단이다.
 
 1997년 설립되어 세무회계 소프트웨어를 중심으로 성장했다. **더존비즈온**이 모태이며 **더존다스**를 지주회사로 하고 있다. 사명(社名)인 “더존”은 세무회계 소프트웨어의 대명사로도 사용된다. 대한민국 ERP 점유율 1위 기업으로, 2018년 대한민국 소프트웨어기업 최초로 2000억원대 매출을 기록했다.
 
@@ -71,9 +71,9 @@
 ## 계열사
 
   - 더존다스 (DOUZONE DASS) - 더존IT그룹 지주회사
-  - 더존비즈온 (DOUZONE BizOn) - 더존다스의 ERP부문과 더존디지털웨어, 더존SNS, 더존뉴턴스, 더존ISS 등을 합병.
-  - 더존에듀캠 (DOUZONE EDUCAM)(구 더존E\&H) - 온라인 교육 전문 법인
-  - 더존NEXT (DOUZONE Next)(구 더존C\&T)
+  - 더존비즈온 (DOUZONE BizOn) - 더존다스의 ERP부문을 통합하고 더존디지털웨어, 더존SNS, 더존뉴턴스, 더존ISS 등을 합병함.
+  - 더존에듀캠 (DOUZONE EDUCAM)(구 더존E\&H) - 온라인 교육 전문 회사
+  - 더존NEXT (DOUZONE Next)(구 더존C\&T) - 더존비즈온 자회사에 속함.
   - 더존IT네트워크 (DOUZONE IT Network) - 더존비즈온 자회사에 속함.
   - 더존CHINA (DOUZONE CHINA) - 더존IT그룹 중국 현지법인
   - 더존JAPAN (DOUZONE JAPAN) - 더존IT그룹 일본 현지법인

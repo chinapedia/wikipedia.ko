@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUPER JUNIOR-K.R.Y. SPECIAL WINTER CONCERT](https://ko.wikipedia.org/wiki/SUPER_JUNIOR-K.R.Y._SPECIAL_WINTER_CONCERT).
 
 
-《**SUPER JUNIOR-K.R.Y. SPECIAL WINTER CONCERT**》는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 유닛 **[슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink")**의 일본 전국 콘서트 투어이다.
+《**SUPER JUNIOR-K.R.Y. SPECIAL WINTER CONCERT**》는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 유닛 **[슈퍼주니어-K.R.Y.](../Page/슈퍼주니어-K.R.Y..md "wikilink")**의 일본 전국 콘서트 투어이다.
 
 ## 투어 일정
 
@@ -21,8 +21,9 @@
 
 ## 제작
 
-  - [슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink") ([예성](../Page/예성.md "wikilink"), [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink"))
+  - [슈퍼주니어-K.R.Y.](../Page/슈퍼주니어-K.R.Y..md "wikilink") ([예성](../Page/예성.md "wikilink"), [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink"))
   - 기획 · 제작 : [에이벡스 엔터테인먼트](../Page/에이벡스_엔터테인먼트.md "wikilink"), [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 재팬
+  - 총감독 : 마츠다 토모코
 
 ## 각주
 

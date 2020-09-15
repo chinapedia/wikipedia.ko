@@ -81,7 +81,7 @@
 </tr>
 <tr class="even">
 <td><p>시즌2 (2012~2013)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/악동뮤지션" title="wikilink">악동뮤지션</a> (<a href="https://ko.wikipedia.org/wiki/이수현" title="wikilink">이수현</a>, <a href="../Page/이찬혁.md" title="wikilink">이찬혁</a>) ()</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/악동뮤지션" title="wikilink">악동뮤지션</a> (<a href="../Page/이수현_(1999년).md" title="wikilink">이수현</a>, <a href="../Page/이찬혁_(가수).md" title="wikilink">이찬혁</a>) ()</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/방예담" title="wikilink">방예담</a> ()</p></td>
 <td><p><a href="../Page/앤드류_최.md" title="wikilink">앤드류 최</a> ()</p></td>
 </tr>

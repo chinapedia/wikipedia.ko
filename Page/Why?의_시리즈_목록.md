@@ -1,105 +1,105 @@
 > This article is converted from Wikipedia: [Why\?의 시리즈 목록](https://ko.wikipedia.org/wiki/Why\?의_시리즈_목록).
 
 
-아래는 [대한민국](../Page/대한민국.md "wikilink")의 학습만화인 [Why?](https://ko.wikipedia.org/wiki/Why? "wikilink")의 **시리즈 목록**이다.
+아래는 [대한민국](../Page/대한민국.md "wikilink")의 학습만화인 [Why?의](https://ko.wikipedia.org/wiki/Why?_\(만화\) "wikilink") **시리즈 목록**이다.
 
 ## 과학, 수학
 
 ### 초등과학학습만화
 
-1.  우주
-2.  인체
-3.  바다
-4.  컴퓨터
-5.  식물
-6.  지구
-7.  동물
-8.  곤충
-9.  환경
-10. 생명과학
-11. 날씨
-12. 핵과 에너지
-13. 사춘기와 성
-14. 공룡
-15. 화학
-16. 발명,발견
-17. 물리
-18. 화석
-19. 남극,북극
-20. 똥
-21. 물
-22. 로봇
-23. 외계인과 UFO
-24. 자연재해
-25. 질병
-26. 독 있는 동식물
-27. 동굴
-28. 갯벌
-29. 로켓과 탐사선
-30. 교통수단
-31. 미생물
-32. 인류
-33. 스포츠 과학
-34. 응급처치
-35. 별과 별자리
-36. 뇌
-37. 빛과 소리
-38. 정보통신
-39. 파충,양서류
-40. 식품과 영양
-41. 실험관찰
-42. 미래과학
-43. 유전과 혈액형
-44. 장수풍뎅이와 사슴벌레
-45. 물고기
-46. 새
-47. 생활과학
-48. 전통과학
-49. 전기전자
-50. 과학사건
-51. 과학수사
-52. 불과 연소
-53. 공생과 천적
-54. 암석과 광물
-55. 해부학
-56. 장애와 과학
-57. 컴퓨터 바이러스
-58. 고대동물
-59. 심해
-60. 수면과학
-61. 현미경과 관찰
-62. 생활안전
-63. 극지탐험
-64. 소프트웨어와 코딩
-65. 마술과학
-66. 동물의학
-67. 위험물질
-68. 상대성 이론
-69. 표준과학
-70. 드론
-71. 기후변화
-72. 의료기기
-73. 아마존
-74. 3D프린팅
-75. 살아있는 화석
-76. 익충과 해충
-77. 빅데이터
-78. 인공지능
-79. 미래에너지
-80. 가상현실 증강현실
-81. 사물인터넷
-82. 생존과학
-83. 첨단 소재
-84. 기생충
-85. 멸종 위기 동식물
-86. 약물과 치료
-87. 요리과학
-88. 토목과 건축
-89. 카메라
-90. 과학 법칙
-91. 놀이 기구
-92. 암호 화폐와 블록체인
-93. 악기와 소리
+1.  [우주](../Page/우주.md "wikilink")
+2.  [인체](../Page/인체.md "wikilink")
+3.  [바다](../Page/바다.md "wikilink")
+4.  [컴퓨터](../Page/컴퓨터.md "wikilink")
+5.  [식물](../Page/식물.md "wikilink")
+6.  [지구](../Page/지구.md "wikilink")
+7.  [동물](../Page/동물.md "wikilink")
+8.  [곤충](../Page/곤충.md "wikilink")
+9.  [환경](https://ko.wikipedia.org/wiki/환경 "wikilink")
+10. [생명과학](../Page/생명과학.md "wikilink")
+11. [날씨](https://ko.wikipedia.org/wiki/날씨 "wikilink")
+12. [핵](https://ko.wikipedia.org/wiki/핵 "wikilink")과 [에너지](../Page/에너지.md "wikilink")
+13. [사춘기](../Page/사춘기.md "wikilink")와 [성](../Page/성.md "wikilink")
+14. [공룡](../Page/공룡.md "wikilink")
+15. [화학](../Page/화학.md "wikilink")
+16. [발명](../Page/발명.md "wikilink"), [발견](https://ko.wikipedia.org/wiki/발견 "wikilink")
+17. [물리](https://ko.wikipedia.org/wiki/물리 "wikilink")
+18. [화석](../Page/화석.md "wikilink")
+19. [남극](../Page/남극.md "wikilink"), [북극](../Page/북극.md "wikilink")
+20. [똥](../Page/똥.md "wikilink")
+21. [물](https://ko.wikipedia.org/wiki/물 "wikilink")
+22. [로봇](../Page/로봇.md "wikilink")
+23. [외계인](../Page/외계인.md "wikilink")과 [UFO](https://ko.wikipedia.org/wiki/UFO "wikilink")
+24. [자연재해](../Page/자연재해.md "wikilink")
+25. [질병](../Page/질병.md "wikilink")
+26. [독 있는 동식물](https://ko.wikipedia.org/wiki/독_있는_동식물 "wikilink")
+27. [동굴](https://ko.wikipedia.org/wiki/동굴 "wikilink")
+28. [갯벌](https://ko.wikipedia.org/wiki/갯벌 "wikilink")
+29. [로켓](../Page/로켓.md "wikilink")과 [탐사선](https://ko.wikipedia.org/wiki/탐사선 "wikilink")
+30. [교통수단](https://ko.wikipedia.org/wiki/교통수단 "wikilink")
+31. [미생물](../Page/미생물.md "wikilink")
+32. [인류](https://ko.wikipedia.org/wiki/인류 "wikilink")
+33. [스포츠](../Page/스포츠.md "wikilink") [과학](../Page/과학.md "wikilink")
+34. [응급처치](https://ko.wikipedia.org/wiki/응급처치 "wikilink")
+35. [별과 별자리](https://ko.wikipedia.org/wiki/별과_별자리 "wikilink")
+36. [뇌](../Page/뇌.md "wikilink")
+37. [빛과 소리](https://ko.wikipedia.org/wiki/빛과_소리 "wikilink")
+38. [정보통신](https://ko.wikipedia.org/wiki/정보통신 "wikilink")
+39. [파충,양서류](https://ko.wikipedia.org/wiki/파충,양서류 "wikilink")
+40. [식품과 영양](https://ko.wikipedia.org/wiki/식품과_영양 "wikilink")
+41. [실험관찰](https://ko.wikipedia.org/wiki/실험관찰 "wikilink")
+42. [미래과학](https://ko.wikipedia.org/wiki/미래과학 "wikilink")
+43. [유전](../Page/유전.md "wikilink")과 [혈액형](../Page/혈액형.md "wikilink")
+44. [장수풍뎅이](../Page/장수풍뎅이.md "wikilink")와 [사슴벌레](../Page/사슴벌레.md "wikilink")
+45. [물고기](../Page/물고기.md "wikilink")
+46. [새](../Page/새.md "wikilink")
+47. [생활과학](https://ko.wikipedia.org/wiki/생활과학 "wikilink")
+48. [전통과학](https://ko.wikipedia.org/wiki/전통과학 "wikilink")
+49. [전기전자](https://ko.wikipedia.org/wiki/전기전자 "wikilink")
+50. [과학사건](https://ko.wikipedia.org/wiki/과학사건 "wikilink")
+51. [과학수사](https://ko.wikipedia.org/wiki/과학수사 "wikilink")
+52. [불과 연소](https://ko.wikipedia.org/wiki/불과_연소 "wikilink")
+53. [공생과 천적](https://ko.wikipedia.org/wiki/공생과_천적 "wikilink")
+54. [암석과 광물](https://ko.wikipedia.org/wiki/암석과_광물 "wikilink")
+55. [해부학](../Page/해부학.md "wikilink")
+56. [장애](https://ko.wikipedia.org/wiki/장애 "wikilink")와 [과학](../Page/과학.md "wikilink")
+57. [컴퓨터 바이러스](../Page/컴퓨터_바이러스.md "wikilink")
+58. [고대동물](https://ko.wikipedia.org/wiki/고대동물 "wikilink")
+59. [심해](../Page/심해.md "wikilink")
+60. [수면과학](https://ko.wikipedia.org/wiki/수면과학 "wikilink")
+61. [현미경](../Page/현미경.md "wikilink")과 [관찰](https://ko.wikipedia.org/wiki/관찰 "wikilink")
+62. [생활안전](https://ko.wikipedia.org/wiki/생활안전 "wikilink")
+63. [극지탐험](https://ko.wikipedia.org/wiki/극지탐험 "wikilink")
+64. [소프트웨어와 코딩](https://ko.wikipedia.org/wiki/소프트웨어와_코딩 "wikilink")
+65. [마술](../Page/마술.md "wikilink")과학
+66. [동물의학](https://ko.wikipedia.org/wiki/동물의학 "wikilink")
+67. [위험물질](https://ko.wikipedia.org/wiki/위험물질 "wikilink")
+68. [상대성 이론](https://ko.wikipedia.org/wiki/상대성_이론 "wikilink")
+69. [표준과학](https://ko.wikipedia.org/wiki/표준과학 "wikilink")
+70. [드론](../Page/드론.md "wikilink")
+71. [기후변화](https://ko.wikipedia.org/wiki/기후변화 "wikilink")
+72. [의료기기](https://ko.wikipedia.org/wiki/의료기기 "wikilink")
+73. [아마존](https://ko.wikipedia.org/wiki/아마존 "wikilink")
+74. [3D프린팅](https://ko.wikipedia.org/wiki/3D프린팅 "wikilink")
+75. [살아있는 화석](https://ko.wikipedia.org/wiki/살아있는_화석 "wikilink")
+76. [익충과 해충](https://ko.wikipedia.org/wiki/익충과_해충 "wikilink")
+77. [빅데이터](https://ko.wikipedia.org/wiki/빅데이터 "wikilink")
+78. [인공지능](../Page/인공지능.md "wikilink")
+79. [미래에너지](https://ko.wikipedia.org/wiki/미래에너지 "wikilink")
+80. [가상현실 증강현실](https://ko.wikipedia.org/wiki/가상현실_증강현실 "wikilink")
+81. [사물인터넷](../Page/사물인터넷.md "wikilink")
+82. [생존과학](https://ko.wikipedia.org/wiki/생존과학 "wikilink")
+83. [첨단 소재](https://ko.wikipedia.org/wiki/첨단_소재 "wikilink")
+84. [기생충](https://ko.wikipedia.org/wiki/기생충 "wikilink")
+85. [멸종 위기 동식물](https://ko.wikipedia.org/wiki/멸종_위기_동식물 "wikilink")
+86. [약물](https://ko.wikipedia.org/wiki/약물 "wikilink")과 [치료](https://ko.wikipedia.org/wiki/치료 "wikilink")
+87. [요리](../Page/요리.md "wikilink")과학
+88. [토목과 건축](https://ko.wikipedia.org/wiki/토목과_건축 "wikilink")
+89. [카메라](https://ko.wikipedia.org/wiki/카메라 "wikilink")
+90. [과학 법칙](https://ko.wikipedia.org/wiki/과학_법칙 "wikilink")
+91. [놀이 기구](https://ko.wikipedia.org/wiki/놀이_기구 "wikilink")
+92. \[\[암호 화폐와 블록체인¥¥
+93. [악기와 소리](https://ko.wikipedia.org/wiki/악기와_소리 "wikilink")
 
 ### 수학학습만화
 
@@ -315,6 +315,8 @@
 
 ### Why+
 
+\[1\]
+
 1.  생활과학
 2.  곤충
 3.  식물
@@ -327,3 +329,5 @@
 10. 기술과학
 
 [분류:만화에 관한 목록](https://ko.wikipedia.org/wiki/분류:만화에_관한_목록 "wikilink")
+
+1.  일본에서 제작한 책이다. 그러나 인기가 없다.

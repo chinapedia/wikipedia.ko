@@ -33,8 +33,6 @@ ST-에릭슨의 주요 센터는 [프랑스](../Page/프랑스.md "wikilink"), [
 
 ## 각주
 
-<references/>
-
 ## 외부 링크
 
   -

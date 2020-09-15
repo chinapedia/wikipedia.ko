@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [LG G 플렉스](https://ko.wikipedia.org/wiki/LG_G_플렉스).
 
 
-**LG G 플렉스**(LG G Flex)는 [LG전자](../Page/LG전자.md "wikilink")가 [2013년](../Page/2013년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink") 여의도 [트윈빌딩](https://ko.wikipedia.org/wiki/LG_트윈_타워 "wikilink") 행사장에서 발표하여\[1\] [11월 12일](../Page/11월_12일.md "wikilink") 대한민국 3개 통신사에서 동시출시한\[2\] [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
+**LG G 플렉스**()는 [LG전자](../Page/LG전자.md "wikilink")가 [2013년](../Page/2013년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink") 여의도 [트윈빌딩](https://ko.wikipedia.org/wiki/LG_트윈_타워 "wikilink") 행사장에서 발표하여\[1\] [11월 12일](../Page/11월_12일.md "wikilink") 대한민국 3개 통신사에서 동시출시한\[2\] [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
 [갤럭시 라운드에](https://ko.wikipedia.org/wiki/갤럭시_라운드 "wikilink") 이어 2번째로 [플렉서블 디스플레이를](../Page/플렉서블_디스플레이.md "wikilink") 탑재한 스마트폰이다.\[3\] 배터리 또한 휘어지는 배터리를 채용하였으며, 기존에 출시된 모든 휴대전화와 달리 힘을 가하면 조금씩 휘는 점이 특징이다.
 
-## 운영 체제/소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 4.4.2 킷캣 업그레이드
 
-3월 27일 경 노크 코드가 포함된 안드로이드 4.4.2 킷캣이 업그레이드 되었다
+3월 27일 경 노크 코드가 포함된 안드로이드 4.4.2 킷캣이 업그레이드 되었다.
 
 ## 기타 업그레이드
 

@@ -26,13 +26,13 @@
   - [웨스 앤더슨](../Page/웨스_앤더슨.md "wikilink") - 부동산 중개인 족제비
   - [캐런 더피](https://ko.wikipedia.org/wiki/캐런_더피 "wikilink") - 수달 린다(Linda)
   - 로빈 헐스톤 - 월터 보기스(Walter Boggis)
-  - [휴고 기네스](https://ko.wikipedia.org/wiki/휴고_기네스 "wikilink") - 나다니엘 번스(Nathaniel Bunce)
+  - [휴고 기네스](https://ko.wikipedia.org/wiki/휴고_기네스 "wikilink") - 네이선 번스(Nathan Bunce)
   - [헬렌 매크로리](https://ko.wikipedia.org/wiki/헬렌_매크로리 "wikilink") - 빈 부인
-  - [로만 코폴라](https://ko.wikipedia.org/wiki/로만_코폴라 "wikilink") - 컨트랙터 다람쥐
+  - [로만 코폴라](../Page/로만_코폴라.md "wikilink") - 컨트랙터 다람쥐
   - [주먼 말로프](https://ko.wikipedia.org/wiki/주먼_말로프 "wikilink") - 아그네스(Agnes)
   - [제레미 도슨](https://ko.wikipedia.org/wiki/제레미_도슨 "wikilink") - 비버의 아들
   - [가스 제닝스](https://ko.wikipedia.org/wiki/가스_제닝스 "wikilink") - 빈의 아들
-  - [브라이언 콕스](https://ko.wikipedia.org/wiki/브라이언_콕스 "wikilink") - 리포터 다니얼 피보디(Daniel Peabody)
+  - [브라이언 콕스](https://ko.wikipedia.org/wiki/브라이언_콕스 "wikilink") - 리포터 대니얼 피바디(Daniel Peabody)
   - 트리스탄 올리버 - 폭발업자
   - 제임스 헤밀턴 - 두더지
   - 스티브 M. 랄스 - 비버

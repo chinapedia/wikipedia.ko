@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [마초리아 \(Machoria\)](https://ko.wikipedia.org/wiki/마초리아_\(Machoria\)).
 
 
-《**마초리아 (Machoria)**》는 [헌터리아](../Page/헌터리아.md "wikilink")의 두 번째 디지털 싱글 앨범이다. 아이돌 그룹 '프리스타'의 멤버 '단비'가 앨범에 참여하였다.
+**\<마초리아 (Machoria)**》는 [헌터리아](../Page/헌터리아.md "wikilink")의 두 번째 디지털 싱글 앨범이다. 아이돌 그룹 '프리스타'의 멤버 '단비'가 앨범에 참여하였다.
 
 ## 수록곡
 

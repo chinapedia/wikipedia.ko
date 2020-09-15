@@ -515,7 +515,7 @@
 <tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
 에브첸 암레르 (<a href="https://ko.wikipedia.org/wiki/체코_축구_협회" title="wikilink">체코</a>)<br />
-로랑 로시 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
+로랑 로시 (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">대기심</a>:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/압둘_라만_알자이드" title="wikilink">압둘 라만 알자이드</a> (<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_연맹" title="wikilink">사우디아라비아</a>)</p></td>
 </tr>

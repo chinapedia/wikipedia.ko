@@ -20,7 +20,7 @@
 
   - [MBC 뉴스특보](../Page/MBC_뉴스특보.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
   - [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink") ([SBS TV](../Page/SBS_TV.md "wikilink"))
-  - [JTBC 뉴스특보](https://ko.wikipedia.org/wiki/JTBC_뉴스특보 "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
+  - [EBS 뉴스특보](https://ko.wikipedia.org/wiki/EBS_뉴스특보 "wikilink") ([EBS 1TV](../Page/EBS_1TV.md "wikilink"))
 
 ## 그 외 [KBS 뉴스 프로그램](../Page/한국방송공사의_뉴스_프로그램.md "wikilink")
 
@@ -33,16 +33,17 @@
   - [KBS 뉴스 7](../Page/KBS_뉴스_7.md "wikilink")
   - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink")
   - [KBS 스포츠 9](../Page/KBS_스포츠_9.md "wikilink")
+  - [KBS 뉴스라인](../Page/KBS_뉴스라인.md "wikilink")
   - [KBS 뉴스 (2430)](../Page/KBS_뉴스_\(2430\).md "wikilink")
-  - [KBS 주말뉴스](https://ko.wikipedia.org/wiki/KBS_주말뉴스 "wikilink")
+  - [KBS 뉴스 (주말)](../Page/KBS_뉴스_\(주말\).md "wikilink")
+  - [코로나19 통합뉴스룸](https://ko.wikipedia.org/wiki/코로나19_통합뉴스룸 "wikilink")
 
 ### [KBS 2TV](../Page/KBS_2TV.md "wikilink")
 
   - [KBS 아침뉴스타임](../Page/KBS_아침뉴스타임.md "wikilink")
   - [지구촌 뉴스](../Page/지구촌_뉴스.md "wikilink")
   - [KBS 뉴스타임 (1500)](../Page/KBS_뉴스타임_\(1500\).md "wikilink")
-  - [KBS 경제타임](https://ko.wikipedia.org/wiki/KBS_경제타임 "wikilink")
-  - [KBS 글로벌 24](../Page/KBS_글로벌_24.md "wikilink")
+  - [통합뉴스룸ET](../Page/통합뉴스룸ET.md "wikilink")
 
 ## 각주
 

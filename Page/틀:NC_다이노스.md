@@ -11,6 +11,7 @@
   - [선수](https://ko.wikipedia.org/wiki/NC_다이노스_연도별_선수_명단 "wikilink")
   - [감독](https://ko.wikipedia.org/wiki/:분류:NC_다이노스_감독 "wikilink")
   - [창원 다이노스](../Page/창원_다이노스.md "wikilink")
+  - [개막전 선발투수](https://ko.wikipedia.org/wiki/NC_다이노스의_개막전_선발투수_목록 "wikilink")
   - [단디](https://ko.wikipedia.org/wiki/단디 "wikilink")와 [쎄리](https://ko.wikipedia.org/wiki/쎄리 "wikilink")
   - [NC 다이노스 홈구장 부지 선정 논란](../Page/NC_다이노스_홈구장_부지_선정_논란.md "wikilink")
 

@@ -13,21 +13,21 @@
 
 ## 참가 가수 명단
 
-1.  아이린 카라 (미국)\[2\]
-2.  스가와라 요이치 (일본)
-3.  패티김 (한국)
-4.  미레유 마티유 (프랑스)
-5.  그룹 제트 (미국)
-6.  피아 자도라 (미국)
-7.  조영남 (한국)
-8.  나나 무스쿠리 (그리스)
-9.  로라 브래니건 (미국)
-10. 리우 수오라 (중국)
-11. 윤복희 (한국)
-12. 레슬리 만도키(서독) & 에바 썬(헝가리) 부부
-13. 조용필 (한국)
-14. 잉글버트 험퍼딩크 (영국)
-15. 이바 자니키 (그리스) - 출연 계약후 불참\[3\]
+  - [아이린 카라](https://ko.wikipedia.org/wiki/아이린_카라 "wikilink") (미국)\[2\]
+  - [스가와라 요이치](https://ko.wikipedia.org/wiki/스가와라_요이치 "wikilink") (일본)
+  - [패티김](../Page/패티_김.md "wikilink") (한국)
+  - [미레유 마티외](../Page/미레유_마티외.md "wikilink") (프랑스)
+  - [그룹 제트](https://ko.wikipedia.org/wiki/그룹_제트 "wikilink") (미국)
+  - [피아 자도라](https://ko.wikipedia.org/wiki/피아_자도라 "wikilink") (미국)
+  - [조영남](../Page/조영남.md "wikilink") (한국)
+  - [나나 무스쿠리](../Page/나나_무스쿠리.md "wikilink") (그리스)
+  - [로라 브래니건](https://ko.wikipedia.org/wiki/로라_브래니건 "wikilink") (미국)
+  - [리우 수오라](https://ko.wikipedia.org/wiki/리우_수오라 "wikilink") (중국)
+  - [윤복희](../Page/윤복희.md "wikilink") (한국)
+  - [레슬리 만도키](https://ko.wikipedia.org/wiki/레슬리_만도키 "wikilink") (서독) & [에바 썬](https://ko.wikipedia.org/wiki/에바_썬 "wikilink") (헝가리) 부부
+  - [조용필](../Page/조용필.md "wikilink") (한국)
+  - [잉글버트 험퍼딩크](../Page/잉글버트_험퍼딩크.md "wikilink") (영국)
+  - [이바 자니키](../Page/이바_자니키.md "wikilink") (그리스) - 출연 계약후 불참
 
 ## 같이 보기
 
@@ -45,4 +45,3 @@
 
 1.
 2.
-3.

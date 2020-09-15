@@ -21,7 +21,7 @@
 3.  The Everlasting Guilty Crown（[BOOM BOOM SATELLITES](https://ko.wikipedia.org/wiki/붐_붐_새틀라이츠 "wikilink") remix -The Last Moment Of The Dawn-）\[7:55\]
 4.  The Everlasting Guilty Crown（TV Edit）\[1:36\]
 5.  The Everlasting Guilty Crown（[Instrumental](https://ko.wikipedia.org/wiki/반주 "wikilink")）
-6.  너 하늘 기적（Instrumental）
+6.  키미소라키세키（Instrumental）
 7.  The Everlasting Guilty Crown（TV Edit）（Instrumental）
 
 **DVD（초회 한정반만）**

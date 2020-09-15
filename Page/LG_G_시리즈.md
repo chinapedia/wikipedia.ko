@@ -1,7 +1,19 @@
 > This article is converted from Wikipedia: [LG G 시리즈](https://ko.wikipedia.org/wiki/LG_G_시리즈).
 
 
-**LG G 시리즈**는 [LG 옵티머스 G를](../Page/LG_옵티머스_G.md "wikilink") 통해 [2012년](../Page/2012년.md "wikilink")부터 출시해온 [LG전자](../Page/LG전자.md "wikilink")의 플래그쉽 스마트폰, 태블릿 시리즈이다. [2013년](../Page/2013년.md "wikilink")부터 [LG G2를](../Page/LG_G2.md "wikilink") 시작으로 [옵티머스라는](../Page/LG_옵티머스_\(제품군\).md "wikilink") 이름을 적용하지 않았으며\[1\], [2015년](../Page/2015년.md "wikilink")부터는 [LG V](../Page/LG_V.md "wikilink") 시리즈가 새롭게 자리잡음에 따라 G 시리즈는 매년 상반기에 출시한다. 차기작으로 갈수록 넘버링이 1씩 올라가며, 주요 타겟층은 프리미엄 기능을 원하는 소비자들이다.\[2\] 플래그쉽 이외에도 여러 파생작들이 출시되었다. [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [삼성 갤럭시 S 시리즈에](../Page/삼성_갤럭시_S_시리즈.md "wikilink") 대항한다. [2018년](../Page/2018년.md "wikilink"), [LG전자](../Page/LG전자.md "wikilink")가 새로운 인공지능 브랜드인 LG ThinQ(LG 씽큐)를 런칭하면서 인공지능 관련 기능을 탑재한 기기에는 ThinQ라는 이름을 붙이는 정책을 펼쳤다.\[3\] 이에 따라서 [LG G7 ThinQ부터](https://ko.wikipedia.org/wiki/LG_G7_ThinQ "wikilink") [LG전자](../Page/LG전자.md "wikilink")의 플래그쉽 스마트폰에 ThinQ 네이밍이 붙게 되었다.\[4\] 그리고 [LG G7 ThinQ와](https://ko.wikipedia.org/wiki/LG_G7_ThinQ "wikilink") [LG V40 ThinQ의](https://ko.wikipedia.org/wiki/LG_V40_ThinQ "wikilink") 출시를 통해 기존의 구분 방식을 뒤집고 [LG G 시리즈는](../Page/LG_G_시리즈.md "wikilink") [LCD](../Page/액정_디스플레이.md "wikilink") 플래그쉽 스마트폰 전용 라인업, LG V 시리즈는 [OLED](https://ko.wikipedia.org/wiki/OLED "wikilink") 플래그쉽 스마트폰 전용 라인업으로 구분한다고 밝혔다.\[5\] [LG전자](../Page/LG전자.md "wikilink")는 [LG G8 ThinQ와](https://ko.wikipedia.org/wiki/LG_G8_ThinQ "wikilink") [LG V50 ThinQ의](https://ko.wikipedia.org/wiki/LG_V50_ThinQ "wikilink") 출시와 함께 [2019년](../Page/2019년.md "wikilink")부터 출시 시기에 상관없이 [LG G 시리즈는](../Page/LG_G_시리즈.md "wikilink") [4G LTE](https://ko.wikipedia.org/wiki/4G_LTE "wikilink") 플래그쉽 스마트폰 전용 라인업, [LG V](../Page/LG_V.md "wikilink") 시리즈는 [5G](https://ko.wikipedia.org/wiki/5G "wikilink") 전용 스마트폰 라인업으로 구분될 것이라고 밝혔다.\[6\] [2020년](../Page/2020년.md "wikilink"), [LG전자](../Page/LG전자.md "wikilink") MC사업본부의 신임 수장인 이연모 수석부사장의 취임 이후 [LG전자](../Page/LG전자.md "wikilink") 스마트폰 브랜드의 전략적 개편을 진행했다. [2020년](../Page/2020년.md "wikilink")부터 LG G 시리즈를 창설 8년만에 폐지하고\[7\], 기존의 알파뉴메릭(알파벳+숫자) 조합의 네이밍 대신 피처폰 시절의 제품별 펫네임을 붙이는 브랜드 전략으로 개편했다.\[8\]
+**LG G 시리즈**는 [LG 옵티머스 G를](../Page/LG_옵티머스_G.md "wikilink") 통해 [2012년](../Page/2012년.md "wikilink")부터 출시해온 [LG전자](../Page/LG전자.md "wikilink")의 플래그쉽 스마트폰 브랜드이며, [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [삼성 갤럭시 S 시리즈에](../Page/삼성_갤럭시_S_시리즈.md "wikilink") 대항한다. [2013년](../Page/2013년.md "wikilink")부터 [LG G2를](../Page/LG_G2.md "wikilink") 시작으로 [옵티머스라는](../Page/LG_옵티머스_\(제품군\).md "wikilink") 이름을 적용하지 않았으며\[1\], [2015년](../Page/2015년.md "wikilink")부터는 [LG V](../Page/LG_V.md "wikilink") 시리즈가 새롭게 자리잡음에 따라 G 시리즈는 매년 상반기에 출시한다. 차기작으로 갈수록 넘버링이 1씩 올라가며, 주요 타겟층은 프리미엄 기능을 원하는 소비자들이다.\[2\] 플래그쉽 이외에도 여러 파생작들이 출시되었다. [2020년](../Page/2020년.md "wikilink")부터 [LG전자](../Page/LG전자.md "wikilink") MC사업본부의 신임 수장인 이연모 수석부사장의 취임 이후 [LG전자](../Page/LG전자.md "wikilink") 스마트폰 브랜드의 개편에 따라 LG G 시리즈를 폐지하고\[3\], 피처폰 시절의 제품별 펫네임을 붙이는 브랜드 전략으로 개편했다.\[4\]
+
+## 역사
+
+[LG 옵티머스 G를](../Page/LG_옵티머스_G.md "wikilink") 통해 [2012년](../Page/2012년.md "wikilink")부터 출시해온 [LG전자](../Page/LG전자.md "wikilink")의 플래그쉽 스마트폰, 태블릿 시리즈이다. [2013년](../Page/2013년.md "wikilink")부터 [LG G2를](../Page/LG_G2.md "wikilink") 시작으로 [옵티머스라는](../Page/LG_옵티머스_\(제품군\).md "wikilink") 이름을 적용하지 않았으며\[5\], [2015년](../Page/2015년.md "wikilink")부터는 [LG V](../Page/LG_V.md "wikilink") 시리즈가 새롭게 자리잡음에 따라 G 시리즈는 매년 상반기에 출시한다. 차기작으로 갈수록 넘버링이 1씩 올라가며, 주요 타겟층은 프리미엄 기능을 원하는 소비자들이다.\[6\] 플래그쉽 이외에도 여러 파생작들이 출시되었다. [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [삼성 갤럭시 S 시리즈에](../Page/삼성_갤럭시_S_시리즈.md "wikilink") 대항한다.
+
+[2018년](../Page/2018년.md "wikilink"), [LG전자](../Page/LG전자.md "wikilink")가 새로운 인공지능 브랜드인 LG ThinQ(LG 씽큐)를 런칭하면서 인공지능 관련 기능을 탑재한 기기에는 ThinQ라는 이름을 붙이는 정책을 펼쳤다.\[7\] 이에 따라서 [LG G7 ThinQ부터](https://ko.wikipedia.org/wiki/LG_G7_ThinQ "wikilink") [LG전자](../Page/LG전자.md "wikilink")의 플래그쉽 스마트폰에 ThinQ 네이밍이 붙게 되었다.\[8\] 그리고 [LG G7 ThinQ와](https://ko.wikipedia.org/wiki/LG_G7_ThinQ "wikilink") [LG V40 ThinQ의](https://ko.wikipedia.org/wiki/LG_V40_ThinQ "wikilink") 출시를 통해 기존의 구분 방식을 뒤집고 [LG G 시리즈는](../Page/LG_G_시리즈.md "wikilink") [LCD](../Page/액정_디스플레이.md "wikilink") 플래그쉽 스마트폰 전용 라인업, LG V 시리즈는 [OLED](https://ko.wikipedia.org/wiki/OLED "wikilink") 플래그쉽 스마트폰 전용 라인업으로 구분한다고 밝혔다.\[9\]
+
+[2019년](../Page/2019년.md "wikilink"), [LG전자](../Page/LG전자.md "wikilink")는 [LG G8 ThinQ와](https://ko.wikipedia.org/wiki/LG_G8_ThinQ "wikilink") [LG V50 ThinQ의](https://ko.wikipedia.org/wiki/LG_V50_ThinQ "wikilink") 출시부터 출시 시기에 상관없이 [LG G 시리즈는](../Page/LG_G_시리즈.md "wikilink") [4G LTE](https://ko.wikipedia.org/wiki/4G_LTE "wikilink") 플래그쉽 스마트폰 전용 라인업, [LG V](../Page/LG_V.md "wikilink") 시리즈는 [5G](https://ko.wikipedia.org/wiki/5G "wikilink") 전용 스마트폰 라인업으로 구분될 것이라고 밝혔다.\[10\]
+
+[2020년](../Page/2020년.md "wikilink"), [LG전자](../Page/LG전자.md "wikilink") MC사업본부의 신임 수장인 이연모 수석부사장의 취임 이후 [LG전자](../Page/LG전자.md "wikilink") 스마트폰 브랜드의 전략적 개편을 진행했다. [2020년](../Page/2020년.md "wikilink")부터 LG G 시리즈를 창설 8년만에 폐지하고\[11\], 기존의 알파뉴메릭(알파벳+숫자) 조합의 네이밍 대신 피처폰 시절의 제품별 펫네임을 붙이는 브랜드 전략으로 개편했다.\[12\]
+
+## 역사
 
 ## 안드로이드 스마트폰
 
@@ -17,7 +29,7 @@
 
 #### LG G5
 
-#### LG G6
+#### LG G6 ThinQ
 
 #### LG G7 ThinQ
 
@@ -53,7 +65,7 @@
 
 #### LG G 플렉스 시리즈
 
-플렉시블 디스플레이를 앞세워 출시한 시리즈이다. 하지만, [LG G 플렉스 2의](../Page/LG_G_플렉스_2.md "wikilink") 실패로 폐기되었다.\[9\]
+플렉시블 디스플레이를 앞세워 출시한 시리즈이다. 하지만, [LG G 플렉스 2의](../Page/LG_G_플렉스_2.md "wikilink") 실패로 폐기되었다.\[13\]
 
 ##### LG G 플렉스
 
@@ -61,7 +73,7 @@
 
 #### LG G 프로 시리즈
 
-LG 옵티머스 G의 파생 제품으로 출시됐으나, [2014년](../Page/2014년.md "wikilink") 정식 라인업으로 승격했다. 하지만, [2015년](../Page/2015년.md "wikilink") 기존의 G 시리즈와 뚜렷한 차별화를 이루지 못해 폐기되었다.\[10\]
+LG 옵티머스 G의 파생 제품으로 출시됐으나, [2014년](../Page/2014년.md "wikilink") 정식 라인업으로 승격했다. 하지만, [2015년](../Page/2015년.md "wikilink") 기존의 G 시리즈와 뚜렷한 차별화를 이루지 못해 폐기되었다.\[14\]
 
 ##### LG 옵티머스 G 프로
 
@@ -79,7 +91,7 @@ LG 옵티머스 G의 파생 제품으로 출시됐으나, [2014년](../Page/2014
   - [LG X 시리즈](../Page/LG_X_시리즈.md "wikilink")
   - [LG V](../Page/LG_V.md "wikilink")
   - [LG Q](../Page/LG_Q.md "wikilink")
-  - [LG VELVET](https://ko.wikipedia.org/wiki/LG_VELVET "wikilink") (후속 브랜드)\[11\]
+  - [LG VELVET](https://ko.wikipedia.org/wiki/LG_VELVET "wikilink") (후속 브랜드)\[15\]
 
 ## 각주
 
@@ -96,5 +108,9 @@ LG 옵티머스 G의 파생 제품으로 출시됐으나, [2014년](../Page/2014
 7.
 8.
 9.
-10.  케이벤치|확인날짜=2020-01-29}}
+10.
 11.
+12.
+13.
+14.  케이벤치|확인날짜=2020-01-29}}
+15.

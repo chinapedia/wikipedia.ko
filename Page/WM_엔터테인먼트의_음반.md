@@ -145,7 +145,16 @@
   - 2020년 4월 27일 오마이걸 - **NONSTOP**
   - 2020년 5월 8일 온앤오프 - **\[Digital Single\] 로드 투 킹덤 <왕의 노래> Part.1**
   - 2020년 5월 22일 온앤오프 - **\[Digital Single\] 로드 투 킹덤 <왕의 노래> Part.2**
-  - 2020년 5월 27일 산들 - **\[Digital Single\] 게으른 나**
+  - 2020년 5월 27일 산들 - **\[Digital Single\] 게으른 나**\[45\]
+  - 2020년 6월 5일 온앤오프 - **\[Digital Single\] 로드 투 킹덤 <너의 노래> Part.1**
+  - 2020년 6월 12일 온앤오프 - **\[Digital Single\] 신세계**\[46\]
+  - 2020년 6월 16일 비니 - **썸툰 2020 OST**
+  - 2020년 7월 2일 산들 - **\[Digital Single\] 작은 상자**\[47\]
+  - 2020년 7월 20일 산들 - **\[Digital Single\] 취기를 빌려 (취향저격 그녀 X 산들)**
+  - 2020년 8월 5일 산들 - **생각집 EP.1**
+  - 2020년 8월 10일 온앤오프 - **SPIN OFF**
+  - 2020년 8월 16일 오마이걸 - **\[Digital Single\] 뽀마이걸**
+  - 2020년 9월 7일 유아 - **Bon Voyage**
 
 ## 각주
 
@@ -179,7 +188,7 @@
 26. [크루셜 스타도](../Page/크루셜_스타.md "wikilink") 앨범 참여.
 27. [한희준](../Page/한희준.md "wikilink"), [박재정](../Page/박재정_\(가수\).md "wikilink"), [자밀킴](https://ko.wikipedia.org/wiki/자밀킴 "wikilink"), [전현무](../Page/전현무.md "wikilink")도 앨범 참여.
 28. [지키리](../Page/지키리.md "wikilink")의 멤버 [하하](https://ko.wikipedia.org/wiki/하하 "wikilink")도 앨범 참여.
-29. [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")와 [언니쓰](https://ko.wikipedia.org/wiki/언니쓰 "wikilink")의 멤버 [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"), [소나무의](../Page/소나무_\(음악_그룹\).md "wikilink") 멤버 [디애나](https://ko.wikipedia.org/wiki/디애나_\(가수\) "wikilink"), [I.B.I](https://ko.wikipedia.org/wiki/I.B.I "wikilink")와 [C.I.V.A](https://ko.wikipedia.org/wiki/C.I.V.A "wikilink")의 멤버 [김소희](https://ko.wikipedia.org/wiki/김소희_\(가수\) "wikilink"), [러블리즈](../Page/러블리즈.md "wikilink")의 멤버 [류수정](../Page/류수정.md "wikilink"), [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 멤버 [슬기](../Page/슬기.md "wikilink")도 앨범 참여.
+29. [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")와 [언니쓰](https://ko.wikipedia.org/wiki/언니쓰 "wikilink")의 멤버 [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"), [소나무의](../Page/소나무_\(음악_그룹\).md "wikilink") 멤버 [디애나](../Page/디애나_\(가수\).md "wikilink"), [I.B.I](https://ko.wikipedia.org/wiki/I.B.I "wikilink")와 [C.I.V.A](https://ko.wikipedia.org/wiki/C.I.V.A "wikilink")의 멤버 [김소희](https://ko.wikipedia.org/wiki/김소희_\(가수\) "wikilink"), [러블리즈](../Page/러블리즈.md "wikilink")의 멤버 [류수정](../Page/류수정.md "wikilink"), [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 멤버 [슬기](../Page/슬기.md "wikilink")도 앨범 참여.
 30. [유승우](https://ko.wikipedia.org/wiki/유승우 "wikilink")도 앨범 참여.
 31. [양희은](../Page/양희은.md "wikilink"), [거미](../Page/거미_\(가수\).md "wikilink"), [비투비](../Page/비투비.md "wikilink")의 네 멤버 [육성재](../Page/육성재.md "wikilink"), [프니엘](../Page/프니엘.md "wikilink"), [정일훈](../Page/정일훈_\(가수\).md "wikilink"), [이민혁도](../Page/이민혁_\(가수\).md "wikilink") 앨범 참여.
 32. [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"), [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"), [마이네임](../Page/마이네임.md "wikilink"), [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink") 외 114명도 앨범 참여.
@@ -190,8 +199,11 @@
 37. [씨엔블루](../Page/씨엔블루.md "wikilink")의 멤버 [강민혁](../Page/강민혁_\(가수\).md "wikilink"), [펜타곤의](../Page/펜타곤_\(음악_그룹\).md "wikilink") 두 멤버 [후이](../Page/후이.md "wikilink"), [우석도](../Page/우석_\(가수\).md "wikilink") 앨범 참여.
 38. [정승환](https://ko.wikipedia.org/wiki/정승환_\(가수\) "wikilink"),[비스트와](../Page/비스트_\(음악_그룹\).md "wikilink") [하이라이트의](../Page/하이라이트_\(음악_그룹\).md "wikilink") 멤버 [양요섭](../Page/양요섭.md "wikilink")도 앨범 참여.
 39. [박명수](../Page/박명수.md "wikilink")도 앨범 참여.
-40. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.
+40. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/WOODZ "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.
 41. [유재환](../Page/유재환.md "wikilink")도 앨범 참여.
 42. [러블리즈](../Page/러블리즈.md "wikilink")도 앨범 참여.
-43. [퀸덤](https://ko.wikipedia.org/wiki/퀸덤 "wikilink") 파이널 경연 곡
+43. [퀸덤](../Page/퀸덤.md "wikilink") 파이널 경연 곡
 44. [YB의](../Page/YB_\(밴드\).md "wikilink") 멤버 [윤도현](../Page/윤도현.md "wikilink")도 앨범 참여.
+45. '생각집' 시리즈 첫 번째 앨범.
+46. [로드 투 킹덤](https://ko.wikipedia.org/wiki/로드_투_킹덤 "wikilink") 파이널 경연 곡
+47. '생각집' 시리즈 두 번째 앨범.

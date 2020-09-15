@@ -61,7 +61,7 @@
 
   - \- [황금역](../Page/황금역.md "wikilink")(도보 30초)
 
-## 더 보기
+## 같이 보기
 
   - [SK건설](../Page/SK건설.md "wikilink")
   - [대한민국의 마천루 목록](../Page/대한민국의_마천루_목록.md "wikilink")

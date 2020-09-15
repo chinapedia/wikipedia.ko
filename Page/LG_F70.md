@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG F70](https://ko.wikipedia.org/wiki/LG_F70).
 
 
-**LG F70**은 LG전자에서 보급형으로 출시한 LTE 스마트폰이다. 대한민국에서 출시되었으며 대한민국의 이통 3사를 통해 출시되었다.
+**LG F70**은 [LG전자](../Page/LG전자.md "wikilink")에서 보급형으로 출시된 LTE 스마트폰이다. 또한 LG F70은 [대한민국](../Page/대한민국.md "wikilink")에서 출시되었으며, [대한민국](../Page/대한민국.md "wikilink")의 이동통신사 3사를 통해 출시되었다.
 
 ## 운영체제/소프트웨어
 

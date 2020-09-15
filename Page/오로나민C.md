@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [오로나민C](https://ko.wikipedia.org/wiki/오로나민C).
 
 
-**오로나민C**(Oronamin C, )는 [일본](../Page/일본.md "wikilink")의 [오츠카 제약이](../Page/오츠카_제약.md "wikilink") 1965년 생산하기 시작하여 [2015년](../Page/2015년.md "wikilink")부터 [동아오츠카](../Page/동아오츠카.md "wikilink")의 라이센스로 [대한민국](../Page/대한민국.md "wikilink")에서 판매되고 있는 [비타민](../Page/비타민.md "wikilink") [드링크](https://ko.wikipedia.org/wiki/드링크 "wikilink")이다. 다른 비타민 드링크와는 달리 [탄산](../Page/탄산.md "wikilink")이 함유된 것 역시 특징이다.
+**오로나민C**(Oronamin C, )는 [일본](../Page/일본.md "wikilink")의 [오츠카 제약이](../Page/오츠카_제약.md "wikilink") 1965년 생산하기 시작하여 [2015년](../Page/2015년.md "wikilink")부터 [동아오츠카](../Page/동아오츠카.md "wikilink")의 라이센스로 [대한민국](../Page/대한민국.md "wikilink")에서 판매되고 있는 [비타민](../Page/비타민.md "wikilink") [드링크](https://ko.wikipedia.org/wiki/드링크 "wikilink")이다. 다른 비타민 드링크와는 달리 [탄산](../Page/탄산.md "wikilink")이 함유되어 있다.
 
 ## 특징
 
-오로나민C의 맥시캡(Maxi-Cap)은 국내 최초로 도입된 3세대 안전마개로, 지렛대의 원리를 적용한 새로운 방식의 안전마개로 한 번에 분리되는 원터치 캡이라는 특징을 가지고 있어 비교적 안전하게 개봉할 수 있다.
+오로나민C의 맥시캡(Maxi-Cap)은 국내 최초로 도입된 [3](../Page/3.md "wikilink")세대 [안전마개](https://ko.wikipedia.org/wiki/안전마개 "wikilink")로, 지렛대의 원리를 적용한 새로운 방식의 안전마개로 한 번에 분리되는 원터치 캡이라는 특징을 가지고 있어 비교적 안전하게 개봉할 수 있다.
 
 병뚜껑의 역사는 1965\~1970년까지는 맥주, 사이다, 콜라병처럼 병따개로 따는 형태 였다가 1971년부터는 가스활명수나 비타 500같은 금속제 뚜껑을썼고, 1985년 [파라콰트 연쇄독살사건으로](../Page/파라콰트_연쇄독살사건.md "wikilink") 인해 이듬해인 1986년부터는 따는 형태로 바뀌었다.
 

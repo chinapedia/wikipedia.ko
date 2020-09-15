@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [MBC 뉴스 \(주말\)](https://ko.wikipedia.org/wiki/MBC_뉴스_\(주말\)).
 
 
-《**MBC 뉴스 (주말)**》()는 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 오전, 오후에 방송되는 [문화방송 뉴스 프로그램이다](https://ko.wikipedia.org/wiki/문화방송_뉴스_프로그램 "wikilink").
+《**MBC 뉴스 (주말)**》()는 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 오전과 오후에 방송되는 [문화방송 뉴스 프로그램이다](https://ko.wikipedia.org/wiki/문화방송_뉴스_프로그램 "wikilink").
 
 ## 기획의도 / 개요
 
 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink")의 경우, [평일](https://ko.wikipedia.org/wiki/평일 "wikilink")에 방송하는 데일리 뉴스프로그램을 편성하지 않고, 약 10분 분량의 단신 뉴스를 편성한다.\[1\]
 
-  - 편성표와 앵커 멘트에는 **MBC 뉴스**라고 표기한다.\[2\]
+  - 편성표와 앵커 멘트로는 **MBC 뉴스**로 표기한다.\[2\]
   - imbc.com에는 뉴스 프로그램에 한해서 로그인 없이 실시간 방송을 볼수있다.
   - 지역국들은 뉴스시간대라도 로그인을 해야지 볼 수 있으며 울산은 예외다.
 
@@ -62,4 +62,4 @@
 [분류:문화방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_뉴스_텔레비전_프로그램 "wikilink")
 
 1.  단, [MBC 뉴스데스크는](../Page/MBC_뉴스데스크.md "wikilink") 제외되며, [MBC 뉴스투데이는](../Page/MBC_뉴스투데이.md "wikilink") 토요일에도 편성된다.
-2.  다만, [신동진](../Page/신동진_\(아나운서\).md "wikilink") 아나운서가 일요일 낮 12시 뉴스를 진행할 당시 앵커 멘트에는 **MBC 낮 뉴스**로 표기하고 있었다.
+2.  다만, [신동진](../Page/신동진_\(아나운서\).md "wikilink") 아나운서(現. [5 MBC 뉴스](../Page/5_MBC_뉴스.md "wikilink") 앵커)가 일요일 낮 12시 MBC 뉴스를 진행할 당시 앵커 멘트로는 **MBC 낮 뉴스**로 표기했다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [My Heart Will Go On](https://ko.wikipedia.org/wiki/My_Heart_Will_Go_On).
 
 
-"'''My Heart Will Go On' 1997년 영화 타이타닉 (1997년 영화)의 주제가로, 1998년 [아카데미 주제가상을](https://ko.wikipedia.org/wiki/아카데미_주제가상 "wikilink") 수상했다. 타이타닉의 Love theme, 즉 사랑의 주제가로 사용되었으며, 타이타닉의 메인 주제가이기도 하다. [셀린 디온이](https://ko.wikipedia.org/wiki/셀린_디온 "wikilink") 불렀다.작곡은 제임스 호너에 의해, 작사는 윌 제닝스. 이 로맨틱한 노래는 영화 타이타닉의 전무후무한 흥행과 함께 세계 각지에서 수많은 사랑을 받은 곡이며, 영화 OST중 손에 꼽히는 유명한 노래입니다.
+"**My Heart Will Go On"** 은 1997년 영화 타이타닉 (1997년 영화)의 주제가로, 1998년 [아카데미 주제가상을](https://ko.wikipedia.org/wiki/아카데미_주제가상 "wikilink") 수상했다. 타이타닉의 Love theme, 즉 사랑의 주제가로 사용되었으며, 타이타닉의 메인 주제가이기도 하다. [셀린 디온이](https://ko.wikipedia.org/wiki/셀린_디온 "wikilink") 불렀다. 작곡은 제임스 호너에 의해, 작사는 윌 제닝스에 의해 쓰여진 곡이다. 이 로맨틱한 노래는 영화 타이타닉의 전무후무한 흥행과 함께 세계 각지에서 수많은 사랑을 받은 곡이며, 영화 OST 중 손에 꼽히는 유명한 노래이다.
 
 ## 트랙 목록
 

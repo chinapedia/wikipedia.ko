@@ -262,7 +262,7 @@
 
 ## 외부 링크
 
-  - [공식 웹페이지](http://www.seattlestandardcafe.com/)
+  - [공식 웹페이지](https://web.archive.org/web/20140106160917/http://seattlestandardcafe.com/)
 
   - [공식 블로그](http://blog.naver.com/sscmomo) - [네이버 블로그](../Page/네이버.md "wikilink")
 

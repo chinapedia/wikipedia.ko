@@ -41,7 +41,7 @@
 ### 영화
 
   - 타타라 사무라이 (2017년)
-  - [지진새](https://ko.wikipedia.org/wiki/지진새 "wikilink") (2019년)
+  - [지진새](../Page/지진새.md "wikilink") (2019년)
   - [댓 모먼트, 마이 하트 크라이드](https://ko.wikipedia.org/wiki/댓_모먼트,_마이_하트_크라이드 "wikilink") (2019년)
 
 ### CM

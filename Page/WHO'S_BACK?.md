@@ -32,7 +32,7 @@
       - (5:00) 작사: STY / 작곡: STY
           - **I SEE ME**는 디지털 싱글로 첫 공개되어 〈[Milestone](https://ko.wikipedia.org/wiki/Milestone "wikilink")〉에 수록되었던 곡으로, 보아가 모델로 활동하는 오디오 테크니카의 CM송으로 사용되었다.
 9.  MASAYUME CHASING
-      - (3:39) 작사: Junji Ishiwatari / 작곡: [Steven Lee](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink"), Caroline Gustavsson
+      - (3:39) 작사: Junji Ishiwatari / 작곡: [Steven Lee](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink"), Caroline Gustavsson
           - **MASAYUME CHASING**은 보아의 36번째 동명의 싱글 타이틀 곡으로, 애니메이션 「[페어리 테일](../Page/페어리_테일.md "wikilink")」의 오프닝곡으로 사용되었다.
 10. The Shadow (Japanese Ver.)
       - (3:23) 작사: BoA / 작곡: Joe Belmaati

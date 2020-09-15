@@ -382,7 +382,7 @@
   - 2018년 9월 10일 DAY6 - **\[Digital Single\] Beautiful Feeling**
   - 2018년 9월 12일 트와이스 - **BDZ**
   - 2018년 9월 17일 GOT7 - **Present : You**
-  - 2018년 9월 21일 [보이스토리](https://ko.wikipedia.org/wiki/보이스토리 "wikilink") - **Enough**
+  - 2018년 9월 21일 [보이스토리](../Page/보이스토리.md "wikilink") - **Enough**
   - 2018년 10월 1일 우영 - **\[Digital Single\] SONG ONE (내 인생의 노래) - 우영 (2PM) 편**
   - 2018년 10월 10일 낙준 - **\[Digital Single\] Still...**
   - 2018년 10월 15일 영재,박지민 - **\[Digital Single\] \[생명보험사회공헌재단\] 다 들어줄개 Part.2**
@@ -459,7 +459,15 @@
   - 2020년 6월 10일 준케이 - **\[Digital Single\] This is not a song, 1929**
   - 2020년 6월 10일 준케이 - **\[Japan Digital Single\] This is not a song, 1929**
   - 2020년 6월 17일 스트레이 키즈 - **GO生**
+  - 2020년 6월 30일 [NiziU](https://ko.wikipedia.org/wiki/NiziU "wikilink") - **[Make you happy](https://ko.wikipedia.org/wiki/Make_you_happy "wikilink")**
   - 2020년 7월 8일 트와이스 - **\[Japan Digital Sinlge\] Fanfare**
+  - 2020년 7월 16일 스트레이 키즈 - **\[Digital Single\] 만찢남녀 Part.1**
+  - 2020년 8월 12일 박진영 - **\[Digital Single\] When We Disco**\[66\]
+  - 2020년 8월 17일 ITZY - **Not Shy**
+  - 2020년 8월 31일 [DAY6 (Even of Day)](../Page/DAY6.md "wikilink") - **The Book of Us Gluon - Nothing can tear us apart**
+  - 2020년 9월 14일 스트레이 키즈 - **IN生**
+  - 2020년 9월 16일 트와이스 - **\[Japan\] [\#TWICE3](https://ko.wikipedia.org/wiki/TWICE3 "wikilink")**
+  - 2020년 10월 ?일 트와이스 - **미정**
 
 ## 각주
 
@@ -475,7 +483,7 @@
 8.  소녀시대도 앨범 참여.
 9.  [정우](../Page/정우.md "wikilink")도 앨범 참여.
 10. [아웃사이더도](https://ko.wikipedia.org/wiki/아웃사이더_\(가수\) "wikilink") 앨범 참여.
-11. [리오케이코아](https://ko.wikipedia.org/wiki/리오케이코아_\(가수\) "wikilink"),[팔로알토](../Page/팔로알토_\(가수\).md "wikilink"),[지조](https://ko.wikipedia.org/wiki/지조_\(가수\) "wikilink"),[울티마도](https://ko.wikipedia.org/wiki/울티마_\(가수\) "wikilink") 앨범 참여
+11. [리오케이코아](https://ko.wikipedia.org/wiki/리오케이코아_\(가수\) "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink"),[지조](https://ko.wikipedia.org/wiki/지조_\(가수\) "wikilink"),[울티마도](https://ko.wikipedia.org/wiki/울티마_\(가수\) "wikilink") 앨범 참여
 12. [김지수](../Page/김지수_\(가수\).md "wikilink"),[강소라](../Page/강소라.md "wikilink")도 앨범 참여.
 13. [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 맴버 [지연도](../Page/지연_\(가수\).md "wikilink") 앨범 참여.
 14. GOT7으로 데뷔하기 전에 낸 유닛 앨범.
@@ -527,6 +535,7 @@
 60. [울랄라세션](../Page/울랄라세션.md "wikilink")의 멤버 [김명훈](../Page/김명훈_\(가수\).md "wikilink"),[이루펀트](../Page/이루펀트.md "wikilink")의 멤버 [키비](../Page/키비_\(가수\).md "wikilink"),[배지환](../Page/배지환.md "wikilink")도 앨범 참여.
 61. [공승연](../Page/공승연.md "wikilink")도 앨범 참여.
 62. [장기하와 얼굴들의](../Page/장기하와_얼굴들.md "wikilink") 멤버 [장기하](../Page/장기하.md "wikilink"),[전일준](https://ko.wikipedia.org/wiki/전일준 "wikilink"),[차일훈](https://ko.wikipedia.org/wiki/차일훈 "wikilink")도 앨범 참여.
-63. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[박선호](../Page/박선호_\(배우\).md "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 95명도 앨범 참여.
+63. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/WOODZ "wikilink"),[박선호](../Page/박선호_\(배우\).md "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 95명도 앨범 참여.
 64. [이상훈도](https://ko.wikipedia.org/wiki/이상훈_\(작곡가\) "wikilink") 앨범 참여.
 65. [최정윤](../Page/최정윤.md "wikilink")도 앨범에 참여.
+66. [선미](../Page/선미.md "wikilink")도 참여.

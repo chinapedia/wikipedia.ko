@@ -7,4 +7,4 @@
 
   - [슬랑오르 FA 공식 웹사이트](http://www.faselangor.my/)
 
-[슬랑오르_FA](https://ko.wikipedia.org/wiki/분류:슬랑오르_FA "wikilink") [분류:1936년 설립](https://ko.wikipedia.org/wiki/분류:1936년_설립 "wikilink") [분류:1936년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1936년_설립된_축구단 "wikilink") [분류:말레이시아의 축구단](https://ko.wikipedia.org/wiki/분류:말레이시아의_축구단 "wikilink") [분류:1967년 아시안 클럽 챔피언십 선수단](https://ko.wikipedia.org/wiki/분류:1967년_아시안_클럽_챔피언십_선수단 "wikilink")
+[슬랑오르_FA](https://ko.wikipedia.org/wiki/분류:슬랑오르_FA "wikilink") [분류:1936년 설립](https://ko.wikipedia.org/wiki/분류:1936년_설립 "wikilink") [분류:1936년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1936년_설립된_축구단 "wikilink") [분류:말레이시아의 축구단](https://ko.wikipedia.org/wiki/분류:말레이시아의_축구단 "wikilink") [분류:1967년 아시안 챔피언 클럽 토너먼트 선수단](https://ko.wikipedia.org/wiki/분류:1967년_아시안_챔피언_클럽_토너먼트_선수단 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PLAY \(AKMU의 음반\)](https://ko.wikipedia.org/wiki/PLAY_\(AKMU의_음반\)).
 
 
-《**PLAY**》는 대한민국의 어쿠스틱 듀오 그룹 [악동뮤지션](https://ko.wikipedia.org/wiki/악동뮤지션 "wikilink")의 첫 정규 앨범이자 데뷔 앨범이다. 2013년 4월, SBS 오디션 프로그램 《K팝 스타 2》에서 우승을 한 후 발표한 앨범으로 2014년 4월 7일 [KT 뮤직을](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 통해 발매되었다.
+《**PLAY**》는 대한민국의 어쿠스틱 듀오 그룹 [악동뮤지션의](../Page/AKMU.md "wikilink") 첫 정규 앨범이자 데뷔 앨범이다. 2013년 4월, SBS 오디션 프로그램 《K팝 스타 2》에서 우승을 한 후 발표한 앨범으로 2014년 4월 7일 [KT 뮤직을](https://ko.wikipedia.org/wiki/KT_뮤직 "wikilink") 통해 발매되었다.
 
 ## 배경
 
@@ -99,7 +99,7 @@
 
 ## 외부 링크
 
-  - [악동뮤지션 공식 웹사이트](http://www.yg-akmu.com)
+  - [악동뮤지션 공식 웹사이트](https://web.archive.org/web/20170305002720/http://yg-akmu.com/)
 
 <!-- end list -->
 

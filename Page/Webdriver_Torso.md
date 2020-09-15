@@ -1,7 +1,9 @@
 > This article is converted from Wikipedia: [Webdriver Torso](https://ko.wikipedia.org/wiki/Webdriver_Torso).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Webdriver_Torso_Slide.tiff "wikilink") **Webdriver Torso**는 파랑색, 빨강색 사각형으로 구성된 11초짜리 영상을 대부분 업로드하는 [유튜브](../Page/유튜브.md "wikilink") 계정이다. 2016년 1월 21일 기준 43만개의 영상이 업로드되어 있으며,\[1\] 84,000명 이상이 이 채널을 구독하고 있다.\[2\] 초기에는 이 계정의 목적에 대해 여러 추측이 있었지만, 유튜브 측에서는 이 계정을 유튜브 내부 테스트를 위해 만들었다고 밝혔다.\[3\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:Webdriver_Torso_Slide.tiff "wikilink")
+
+**Webdriver Torso**는 파랑색, 빨강색 사각형으로 구성된 11초짜리 영상을 대부분 업로드하는 [유튜브](../Page/유튜브.md "wikilink") 계정이다. 2020년 8월 19일 기준 62만개의 영상이 업로드되어 있으며,\[1\] 17만명 이상이 이 채널을 구독하고 있다.\[2\] 초기에는 이 계정의 목적에 대해 여러 추측이 있었지만, 유튜브 측에서는 이 계정을 유튜브 내부 테스트를 위해 만들었다고 밝혔다.\[3\]
 
 ## 콘텐츠
 
@@ -11,7 +13,7 @@
 
 ### 특이한 영상
 
-이 채널에는 3가지 특이한 영상이 있다. 첫번째는 "tmpRkRl85"라는 이름의 영상으로 영상이 나온지 대략 2.5초 후 빨간 사각형이 [릭 애스틀리](../Page/릭_애스틀리.md "wikilink")(릭롤링)이 춤추는 [실루엣](https://ko.wikipedia.org/wiki/실루엣 "wikilink")으로 바뀐다.\[7\] "00014"라는 이름의 영상은 조명으로 밝게 빛나는 [에펠탑](../Page/에펠탑.md "wikilink")을 찍은 [파리](https://ko.wikipedia.org/wiki/파리 "wikilink")의 영상이다.\[8\] 영상 마지막에는 카메라가 밑으로 내려가면서 수 프레임동안 "Webdriver Torso"의 [페이스북](../Page/페이스북.md "wikilink") 페이지가 비치는 것을 볼 수 있다.\[9\] 마지막 영상은 "0.455442373793"이라는 영상으로 오직 [프랑스](../Page/프랑스.md "wikilink")에서만 시청 가능하며, 시청에 대략 1.99[유로](../Page/유로.md "wikilink")가 필요하며 프랑스에서 발급한 신용카드로만 지불할 수 있다.\[10\] 이 영상은 미국의 성인 만화 [Aqua Teen Hunger Force의](https://ko.wikipedia.org/wiki/Aqua_Teen_Hunger_Force "wikilink") 한 에피소드를 볼 수 있다.\[11\]
+이 채널에는 3가지 특이한 영상이 있다. 첫번째는 "tmpRkRl85"라는 이름의 영상으로 영상이 나온지 대략 2.5초 후 빨간 사각형이 [릭 애스틀리](../Page/릭_애스틀리.md "wikilink")(릭롤링)이 춤추는 [실루엣](https://ko.wikipedia.org/wiki/실루엣 "wikilink")으로 바뀐다.\[7\] "00014"라는 이름의 영상은 조명으로 밝게 빛나는 [에펠탑](../Page/에펠탑.md "wikilink")을 찍은 [파리](https://ko.wikipedia.org/wiki/파리 "wikilink")의 영상이다.\[8\] 영상 마지막에는 카메라가 밑으로 내려가면서 수 프레임동안 "Webdriver Torso"의 [페이스북](../Page/페이스북.md "wikilink") 페이지가 비치는 것을 볼 수 있다.\[9\] 마지막 영상은 "0.455442373793"이라는 영상으로 오직 [프랑스](../Page/프랑스.md "wikilink")에서만 시청 가능하며, 시청에 대략 1.99[유로](../Page/유로.md "wikilink")가 필요하며 프랑스에서 발급한 신용카드로만 지불할 수 있다.\[10\] 이 영상은 미국의 성인 만화 Aqua Teen Hunger Force의 한 에피소드를 볼 수 있다.\[11\]
 
 ### 비슷한 채널
 
@@ -37,13 +39,9 @@
 
 ## 이스터 에그
 
-[구글](../Page/구글.md "wikilink")이나 [유튜브](../Page/유튜브.md "wikilink") 홈페이지에서 "webdriver torso"를 검색할 경우, 구글 로고와 유튜브 홈페이지 검색결과의 모습이 webdriver torso 비디오의 빨강과 파랑 사각형으로 바뀐다.\[22\]
+[thumbnail](https://ko.wikipedia.org/wiki/파일:Google_webdriver_torso_logo.gif "wikilink") [구글](../Page/구글.md "wikilink")이나 [유튜브](../Page/유튜브.md "wikilink") 홈페이지에서 "webdriver torso"를 검색할 경우, 구글 로고와 유튜브 홈페이지 검색결과의 모습이 Webdriver Torso 비디오로 바뀐다.\[22\]
 
 ## 각주
-
-## 외부 링크
-
-  - [Webdriver Torso 공식 계정](https://www.youtube.com/channel/UCsLiV4WJfkTEHH0b9PmRklw)
 
 [분류:구글](https://ko.wikipedia.org/wiki/분류:구글 "wikilink") [분류:인터넷 밈](https://ko.wikipedia.org/wiki/분류:인터넷_밈 "wikilink") [분류:유튜브 채널](https://ko.wikipedia.org/wiki/분류:유튜브_채널 "wikilink")
 

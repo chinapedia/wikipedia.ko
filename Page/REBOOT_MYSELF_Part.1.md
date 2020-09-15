@@ -11,7 +11,7 @@
 
 ### 곡 소개
 
-1,000개 이상의 녹음 트랙에 신해철의 목소리만을 중복 녹음하고 직접 엔지니어링과 믹스를 한 〈**A.D.D.a**〉, 사회 풍자와 정치적 함의가 압축된 [펑크](../Page/펑크.md "wikilink") 장르의 곡 〈**Catch me if you can**〉, 70년대의 소울, 디스코, R\&B의 느낌과 모던한 사운드를 복잡한 과정으로 블렌딩하고 〈Catch me if you can〉과 마찬가지로 리허설 밴드의 연주-모션 샘플링-재녹음 등의 과정을 거쳤으며 [N.EX.T](../Page/N.EX.T.md "wikilink")의 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink") [제이드](../Page/제이드_\(음악가\).md "wikilink"), 전 [키보디스트](https://ko.wikipedia.org/wiki/키보디스트 "wikilink") [지현수](https://ko.wikipedia.org/wiki/지현수 "wikilink"), [노바소닉](../Page/노바소닉.md "wikilink")의 보컬 [이현섭](../Page/이현섭.md "wikilink")이 지원한 〈**Princess Maker**〉, 가사에서 전달되는 내용은 신해철의 아내에 대한 개인적 스토리로 들리지만 그의 어린 딸과 사회의 모든 사람들에게 외치고 싶었다던, '어찌 되든 아프지만 마라' 라는 핵심 메시지를 담은 〈**단 하나의 약속**〉까지 총 네 곡이 수록되어있다. 수록곡 중 〈단 하나의 약속〉의 첫 제목은 'Eternal flame' 이었으며, 파일의 저장 제목은 'happily ever after and after'였다. 그가 아내와 만남을 시작하던 시절에 처음 만들어져 꾸준히 손질을 한 끝에 발표되어 15년이라는 가장 긴 작업기간을 가진 곡이며, 노래의 끝 부분에는 [1997년](../Page/1997년.md "wikilink") 발매된 넥스트의 싱글 〈[Here, I Stand For You](../Page/Here,_I_Stand_For_You.md "wikilink")〉의 도입부 [영어](../Page/영어.md "wikilink") [나레이션](https://ko.wikipedia.org/wiki/나레이션 "wikilink")이 등장한다.\[11\]
+1,000개 이상의 녹음 트랙에 신해철의 목소리만을 중복 녹음하고 직접 엔지니어링과 믹스를 한 〈**A.D.D.a**〉, 사회 풍자와 정치적 함의가 압축된 [펑크](../Page/펑크.md "wikilink") 장르의 곡 〈**Catch me if you can**〉, 70년대의 소울, 디스코, R\&B의 느낌을 구현하고 〈Catch me if you can〉과 마찬가지로 리허설 밴드의 연주-모션 샘플링-재녹음 등의 과정을 거쳤으며 [N.EX.T](../Page/N.EX.T.md "wikilink")의 [베이시스트](https://ko.wikipedia.org/wiki/베이시스트 "wikilink") [제이드](../Page/제이드_\(음악가\).md "wikilink"), 전 [키보디스트](https://ko.wikipedia.org/wiki/키보디스트 "wikilink") [지현수](https://ko.wikipedia.org/wiki/지현수 "wikilink"), [노바소닉](../Page/노바소닉.md "wikilink")의 보컬 [이현섭](../Page/이현섭.md "wikilink")이 참여한 〈**Princess Maker**〉, 가사에서 전달되는 내용은 신해철의 아내에 대한 개인적 스토리로 들리지만 그의 어린 딸과 사회의 모든 사람들에게 외치고 싶었던, '어찌 되든 아프지만 마라' 라는 핵심 메시지를 담은 〈**단 하나의 약속**〉까지 총 네 곡이 수록되어 있다. 수록곡 중 〈단 하나의 약속〉의 첫 제목은 'Eternal flame'이었으며, 파일의 저장 제목은 'happily ever after and after'였다. 그가 아내와 만남을 시작하던 시절에 처음 만들어져 꾸준히 손질을 한 끝에 발표되어 15년이라는 가장 긴 작업기간을 가진 곡이며, 노래의 끝 부분에는 [1997년](../Page/1997년.md "wikilink") 발매된 넥스트의 싱글 〈[Here, I Stand For You](../Page/Here,_I_Stand_For_You.md "wikilink")〉의 도입부 [영어](../Page/영어.md "wikilink") [나레이션](https://ko.wikipedia.org/wiki/나레이션 "wikilink")이 등장한다.\[11\]
 
 ## 수록곡
 
@@ -87,5 +87,5 @@
 8.
 9.
 10. [신해철 사망 원인 저산소 허혈성 뇌손상 “가족 지켜보는 가운데..”](http://www.newsen.com/news_view.php?uid=201410272209372310) | 뉴스엔, 2014년 10월 27일
-11. [네이버 뮤직 Reboot Myself](http://music.naver.com/album/index.nhn?albumId=161485)
+11.
 12. 《Reboot Myself EP》 [라이너 노츠](https://ko.wikipedia.org/wiki/라이너_노츠 "wikilink")

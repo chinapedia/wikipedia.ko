@@ -7,7 +7,7 @@
 
 ## 선수 명단
 
-[thumb는](https://ko.wikipedia.org/wiki/파일:Javier_Zanetti_FC_Internazionale.jpg "wikilink") 인테르에서 가장 많은 경기에 출전하였다.\]\] [thumb는](https://ko.wikipedia.org/wiki/파일:Giuseppe_Meazza_1935.jpg "wikilink") 인테르에서 가장 많은 득점을 기록하였다..\]\]
+[섬네일는](https://ko.wikipedia.org/wiki/파일:Javier_Zanetti_FC_Internazionale.jpg "wikilink") 인테르에서 가장 많은 경기에 출전하였다.\]\] [섬네일는](https://ko.wikipedia.org/wiki/파일:Giuseppe_Meazza_1935.jpg "wikilink") 인테르에서 가장 많은 득점을 기록하였다..\]\]
 
 *국적 열은 선수가 뛴 국가대표팀 기준이다.*
 
@@ -1349,4 +1349,4 @@
 
   - [Interfc.it](https://web.archive.org/web/20150429105710/http://www.interfc.it/default.asp)는 빠짐없이 모든 [FC 인테르나치오날레 밀라노 선수 목록](https://web.archive.org/web/20160420003748/http://www.interfc.it/Giocatori1.asp)을 가지고 있다.
 
-[분류:FC 인테르나치오날레 밀라노](https://ko.wikipedia.org/wiki/분류:FC_인테르나치오날레_밀라노 "wikilink") [FC_인테르나치오날레_밀라노의_축구_선수](https://ko.wikipedia.org/wiki/분류:FC_인테르나치오날레_밀라노의_축구_선수 "wikilink") [인테르나치오날레‎](https://ko.wikipedia.org/wiki/분류:이탈리아의_구단별_축구_선수_목록 "wikilink")
+[분류:FC 인테르나치오날레 밀라노](https://ko.wikipedia.org/wiki/분류:FC_인테르나치오날레_밀라노 "wikilink") [FC_인테르나치오날레_밀라노의_축구_선수](https://ko.wikipedia.org/wiki/분류:FC_인테르나치오날레_밀라노의_축구_선수 "wikilink") [인테르나치오날레](https://ko.wikipedia.org/wiki/분류:이탈리아의_구단별_축구_선수_목록 "wikilink")

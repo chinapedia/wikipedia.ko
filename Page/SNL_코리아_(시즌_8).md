@@ -17,7 +17,7 @@
   - [이세영](../Page/이세영_\(희극인\).md "wikilink")\[1\]
   - [김민교](../Page/김민교_\(배우\).md "wikilink")
   - [이수민](../Page/이수민_\(1984년\).md "wikilink")
-  - [김소혜](https://ko.wikipedia.org/wiki/김소혜_\(배우\) "wikilink")
+  - [김소혜](https://ko.wikipedia.org/wiki/김소혜_\(1992년\) "wikilink")
   - [장도윤](../Page/장도윤.md "wikilink")
   - [이명훈](../Page/이명훈_\(배우\).md "wikilink")
 

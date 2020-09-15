@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BOBBY](https://ko.wikipedia.org/wiki/BOBBY).
 
 
-**BOBBY**(, [1995년](../Page/1995년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [IKON](../Page/IKON.md "wikilink")의 메인래퍼를 말고 있다.
+**BOBBY**(, [1995년](../Page/1995년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 가수이다. [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [IKON](../Page/IKON.md "wikilink")의 메인래퍼를 말고 있다.
 
 ## 학력
 
@@ -462,7 +462,7 @@
 
   -
 
-[분류:IKON의 일원](https://ko.wikipedia.org/wiki/분류:IKON의_일원 "wikilink") [분류:1995년 태어남](https://ko.wikipedia.org/wiki/분류:1995년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:대한민국의 싱어송라이터](https://ko.wikipedia.org/wiki/분류:대한민국의_싱어송라이터 "wikilink") [분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:Show Me The Money 참가자](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money_참가자 "wikilink") [분류:리얼리티 텔레비전 프로그램 우승자](https://ko.wikipedia.org/wiki/분류:리얼리티_텔레비전_프로그램_우승자 "wikilink") [분류:미국에 거주한 대한민국인](https://ko.wikipedia.org/wiki/분류:미국에_거주한_대한민국인 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:서울연희초등학교 동문](https://ko.wikipedia.org/wiki/분류:서울연희초등학교_동문 "wikilink") [분류:연북중학교 동문](https://ko.wikipedia.org/wiki/분류:연북중학교_동문 "wikilink") [분류:대한민국의 검정고시 통과자](https://ko.wikipedia.org/wiki/분류:대한민국의_검정고시_통과자 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink")
+[분류:IKON의 일원](https://ko.wikipedia.org/wiki/분류:IKON의_일원 "wikilink") [분류:1995년 태어남](https://ko.wikipedia.org/wiki/분류:1995년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:YG 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_소속 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:Show Me The Money 참가자](https://ko.wikipedia.org/wiki/분류:Show_Me_The_Money_참가자 "wikilink") [분류:리얼리티 텔레비전 프로그램 우승자](https://ko.wikipedia.org/wiki/분류:리얼리티_텔레비전_프로그램_우승자 "wikilink") [분류:대한민국에 거주한 미국인](https://ko.wikipedia.org/wiki/분류:대한민국에_거주한_미국인 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:서울연희초등학교 동문](https://ko.wikipedia.org/wiki/분류:서울연희초등학교_동문 "wikilink") [분류:연북중학교 동문](https://ko.wikipedia.org/wiki/분류:연북중학교_동문 "wikilink") [분류:대한민국의 검정고시 통과자](https://ko.wikipedia.org/wiki/분류:대한민국의_검정고시_통과자 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink")
 
 1.
 2.  오리콘 스트리밍 차트. 오리콘 차트. (각각의 순위에 대해서는 여기를 참고하세요)

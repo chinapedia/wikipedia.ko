@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [미치GO](https://ko.wikipedia.org/wiki/미치GO).
 
 
-***미치GO***은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-Dragon의](../Page/지드래곤.md "wikilink") 노래이다. 이 노래는 2013년 4월 1일 [네이버](../Page/네이버.md "wikilink") [LINE에서](../Page/라인_\(소프트웨어\).md "wikilink") 디지털 음원으로 첫 공개가 되었고, 이후 그의 두 번째 솔로 정규 음반 *[COUP D'ETAT](https://ko.wikipedia.org/wiki/COUP_D'ETAT "wikilink")*에 수록 되어 있다.
+***미치GO***은 대한민국의 음악 그룹 [빅뱅의](../Page/빅뱅_\(음악_그룹\).md "wikilink") [G-Dragon의](../Page/지드래곤.md "wikilink") 노래이다. 이 노래는 2013년 4월 1일 [네이버](../Page/네이버.md "wikilink") [LINE에서](../Page/라인_\(소프트웨어\).md "wikilink") 디지털 음원으로 첫 공개가 되었고, 이후 그의 두 번째 솔로 정규 음반 *[COUP D'ETAT](https://ko.wikipedia.org/wiki/COUP_D'ETAT "wikilink")*에 수록 되어 있다.트랙리스트는 7번(삐딱하게 앞)이다.
 
 ## 배경
 
@@ -90,7 +90,7 @@
 
 ## 외부 링크
 
-  - [지드래곤 공식 사이트](http://www.ygbigbang.com/gdragon/)
+  - [지드래곤 공식 사이트](https://web.archive.org/web/20150804095238/http://www.ygbigbang.com/gdragon/)
   - [YG 엔터테인먼트](http://ygfamily.com/)
 
 <!-- end list -->

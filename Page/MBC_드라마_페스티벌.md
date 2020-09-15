@@ -85,7 +85,7 @@
 <td><p>10월 31일</p></td>
 <td><p><a href="../Page/상놈탈출기.md" title="wikilink">상놈탈출기</a></p></td>
 <td><p><a href="../Page/박기웅.md" title="wikilink">박기웅</a>, <a href="../Page/서동원_(배우).md" title="wikilink">서동원</a>, <a href="../Page/김용건.md" title="wikilink">김용건</a>, <a href="../Page/이엘.md" title="wikilink">이엘</a>,<br />
-<a href="../Page/김형범_(배우).md" title="wikilink">김형범</a>, <a href="../Page/조우진_(배우).md" title="wikilink">조우진</a>, <a href="../Page/김주현_(배우).md" title="wikilink">여지</a>, <a href="https://ko.wikipedia.org/wiki/한지완" title="wikilink">한지완</a></p></td>
+<a href="../Page/김형범_(배우).md" title="wikilink">김형범</a>, <a href="../Page/조우진_(배우).md" title="wikilink">조우진</a>, <a href="../Page/김주현_(배우).md" title="wikilink">여지</a>, <a href="../Page/한지완.md" title="wikilink">한지완</a></p></td>
 <td><p>류문상</p></td>
 <td><p>오현종</p></td>
 <td><p>4.3%</p></td>

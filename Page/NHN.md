@@ -100,7 +100,9 @@
 
   - [토스트](http://www.toast.com)
 
-[NHN엔터테인먼트](https://ko.wikipedia.org/wiki/분류:NHN엔터테인먼트 "wikilink") [분류:네이버](https://ko.wikipedia.org/wiki/분류:네이버 "wikilink") [분류:1999년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1999년_설립된_기업 "wikilink") [분류:2000년 폐지](https://ko.wikipedia.org/wiki/분류:2000년_폐지 "wikilink") [분류:2013년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2013년_설립된_기업 "wikilink")
+[NHN엔터테인먼트](https://ko.wikipedia.org/wiki/분류:NHN엔터테인먼트 "wikilink")
+
+[분류:네이버](https://ko.wikipedia.org/wiki/분류:네이버 "wikilink") [분류:1999년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1999년_설립된_기업 "wikilink") [분류:2000년 폐지](https://ko.wikipedia.org/wiki/분류:2000년_폐지 "wikilink") [분류:2013년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2013년_설립된_기업 "wikilink")
 
 1.  [꿈같은 얘기가 비즈니스모델, 그래서 나는 오늘도 꿈을 꾼다.](http://shindonga.donga.com/docs/magazine/shin/2003/05/26/200305260500013/200305260500013_1.html) - 신동아 2003년 6월 통권 525호
 2.  [NHN, 사명 '네이버'로 변경…한게임과 분할(종합)](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=001&aid=0006405886) 연합뉴스 2013-08-01 13:21, 2013-08-09 확인

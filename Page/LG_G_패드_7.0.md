@@ -19,10 +19,6 @@
 
 [2014년](../Page/2014년.md "wikilink") 7월 7일, 229,000원으로 출고가를 조정하고, 출시되었다.
 
-## 공개
-
-[2014년](../Page/2014년.md "wikilink") 5월 12일, 첫 공개가 되었다.
-
 ## 외형
 
 7.0인치의 소화면 태블릿이며, 폴리카보네이트 플라스틱으로 마감되었다.
@@ -63,12 +59,11 @@ G시리즈 폰과 자동 연동되는 메모
 
   - [구글](../Page/구글.md "wikilink")의 [넥서스 7 2세대](https://ko.wikipedia.org/wiki/넥서스_7_2세대 "wikilink")
   - [아마존닷컴](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink")의 [킨들 파이어 HDX 8.9](https://ko.wikipedia.org/wiki/킨들_파이어_HDX_8.9 "wikilink")
-  - [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [갤럭시 탭 4 7.0](https://ko.wikipedia.org/wiki/갤럭시_탭_4_7.0 "wikilink")
+  - [삼성 갤럭시 탭 4 7.0](../Page/삼성_갤럭시_탭_4_7.0.md "wikilink")
 
 ## 같이 보기
 
   - [LG 옵티머스 패드](../Page/LG_옵티머스_패드.md "wikilink")
-  - [LG G3](../Page/LG_G3.md "wikilink")
   - [LG G 패드 8.3](../Page/LG_G_패드_8.3.md "wikilink")
   - [LG G 패드 8.0](../Page/LG_G_패드_8.0.md "wikilink")
   - [LG G 패드 10.1](../Page/LG_G_패드_10.1.md "wikilink")

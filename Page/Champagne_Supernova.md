@@ -15,6 +15,6 @@
 
 ## 외부 링크
 
-[분류:1995년 노래](https://ko.wikipedia.org/wiki/분류:1995년_노래 "wikilink") [분류:1996년 싱글](https://ko.wikipedia.org/wiki/분류:1996년_싱글 "wikilink") [분류:오아시스의 노래](https://ko.wikipedia.org/wiki/분류:오아시스의_노래 "wikilink") [분류:우주 공간을 소재로 한 노래‎](https://ko.wikipedia.org/wiki/분류:우주_공간을_소재로_한_노래‎ "wikilink") [분류:약을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:약을_소재로_한_노래 "wikilink") [분류:록 발라드](https://ko.wikipedia.org/wiki/분류:록_발라드 "wikilink")
+[분류:1995년 노래](https://ko.wikipedia.org/wiki/분류:1995년_노래 "wikilink") [분류:1996년 싱글](https://ko.wikipedia.org/wiki/분류:1996년_싱글 "wikilink") [분류:오아시스의 노래](https://ko.wikipedia.org/wiki/분류:오아시스의_노래 "wikilink") [분류:우주 공간을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:우주_공간을_소재로_한_노래 "wikilink") [분류:약을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:약을_소재로_한_노래 "wikilink") [분류:록 발라드](https://ko.wikipedia.org/wiki/분류:록_발라드 "wikilink")
 
 1.  [Nigel Dick Filmography](http://www.nigeldick.com/films/productions-1996/)

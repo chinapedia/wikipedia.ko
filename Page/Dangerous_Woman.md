@@ -15,7 +15,7 @@
 6\. Let Me Love You (feat. [릴 웨인](../Page/릴_웨인.md "wikilink")) - 3:43
 7\. Greedy - 3:34
 8\. Leave Me Lonely (feat. [메이시 그레이](https://ko.wikipedia.org/wiki/메이시_그레이 "wikilink")) - 3:49
-9\. Everyday (feat. [퓨처](https://ko.wikipedia.org/wiki/퓨처_\(가수\) "wikilink")) - 3:14
+9\. Everyday (feat. [퓨처](../Page/퓨처_\(가수\).md "wikilink")) - 3:14
 10\. Bad Decisions - 3:46
 11\. Thinking Bout You - 3:20
 

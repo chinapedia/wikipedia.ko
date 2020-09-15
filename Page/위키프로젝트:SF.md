@@ -7,11 +7,9 @@
 
 ## 참가자
 
-1\. [MU.BOX](https://ko.wikipedia.org/wiki/사:MU.BOX "wikilink") ([토론](https://ko.wikipedia.org/wiki/사토:MU.BOX "wikilink")) 2019년 12월 9일 (월) 18:48 (KST)
-
-2\. [Darkdamager](https://ko.wikipedia.org/wiki/사:Darkdamager "wikilink") ([토론](https://ko.wikipedia.org/wiki/사토:Darkdamager "wikilink")) 2019년 12월 13일 (금) 22:25 (KST)
-
-3\.[사:라이트닝 에스제이준](https://ko.wikipedia.org/wiki/사:라이트닝_에스제이준 "wikilink")[$.¥.£](https://ko.wikipedia.org/wiki/사:라이트닝_에스제이준 "wikilink") ([토론](https://ko.wikipedia.org/wiki/사토:라이트닝_에스제이준 "wikilink")) 2020년 1월 23일 (목) 16:13 (KST)
+1.  [MU.BOX](https://ko.wikipedia.org/wiki/사:MU.BOX "wikilink") ([토론](https://ko.wikipedia.org/wiki/사토:MU.BOX "wikilink")) 2019년 12월 9일 (월) 18:48 (KST)
+2.  [사:라이트닝 에스제이준](https://ko.wikipedia.org/wiki/사:라이트닝_에스제이준 "wikilink")[$.¥.£](https://ko.wikipedia.org/wiki/사:라이트닝_에스제이준 "wikilink") ([토론](https://ko.wikipedia.org/wiki/사토:라이트닝_에스제이준 "wikilink")) 2020년 1월 23일 (목) 16:13 (KST)
+3.  [<span style="color:#002db9">**파란여우**</span>](https://ko.wikipedia.org/wiki/사:AquAFox "wikilink") ([<span style="color:#00cccc">문의/토론</span>](https://ko.wikipedia.org/wiki/사토:AquAFox "wikilink")) 2020년 8월 12일 (수) 07:51 (KST) - SF 장르를 좋아합니다.
 
 이 프로젝트에 참여하는 사용자의 목록입니다. 참가자 및 참여를 원하시는 분은  틀을 자신의 사용자 문서에 달면 됩니다.
 

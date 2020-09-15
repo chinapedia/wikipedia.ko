@@ -31,7 +31,7 @@ U-12팀에 부문에서는 전문적인 U-12팀을 두지 않은 채 **리틀 FC
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_(서울)_축구부" title="wikilink">U-18팀</a> 감독</p></td>
 <td><p><a href="../Page/차두리.md" title="wikilink">차두리</a></p></td>
-<td></td>
+<td><p>사퇴 감독대행 김진규</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오산고등학교_(서울)_축구부" title="wikilink">U-18팀</a> 코치</p></td>
@@ -697,7 +697,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 (대후 / <a href="../Page/2010_K리그_드래프트.md" title="wikilink">2010 드래프트</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/김학승" title="wikilink">김학승</a> (대)</p></td>
+<td><p><a href="../Page/김학승.md" title="wikilink">김학승</a> (대)</p></td>
 <td><p><a href="../Page/최명훈.md" title="wikilink">최명훈</a> (대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박준경" title="wikilink">박준경</a> (대)</p></td>
 <td></td>
@@ -738,7 +738,7 @@ FC 서울은 U-18팀으로 2012년 12월 창단한 [오산고등학교 축구부
 </tr>
 <tr class="even">
 <td><p><a href="../Page/박민규_(축구_선수).md" title="wikilink">박민규</a> (대)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박준영_(축구_선수)" title="wikilink">박준영</a> (대)</p></td>
+<td><p><a href="../Page/박준영_(축구_선수).md" title="wikilink">박준영</a> (대)</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -5,7 +5,7 @@
 
 ## 정보
 
-이 곡은 1999년 발생했던 [컬럼바인 고등학교 총기 난사 사건의](../Page/컬럼바인_고등학교_총기_난사_사건.md "wikilink") 범인이었던 [에릭 해리스(Eric Harris)와 딜런 클리볼드(Dylan Klebold)에](https://ko.wikipedia.org/wiki/:en:Eric_Harris_and_Dylan_Klebold "wikilink") 대한 내용을 담고있다. 당시 [맨슨은](../Page/마릴린_맨슨.md "wikilink") 범인들의 집에서 그의 앨범이 발견됐다는 이유로, 게임과 폭력적 영화와 함께 묶여 마치 총기 난사의 원인인 양 비난받아 곤욕을 치루기도 했다\[1\] \[2\]. 2002년에 그는 이 사건을 다룬 [마이클 무어의](../Page/마이클_무어.md "wikilink") [다큐멘터리 영화](../Page/다큐멘터리_영화.md "wikilink") 《[볼링 포 콜럼바인](../Page/볼링_포_콜럼바인.md "wikilink")》에 출연하기도 했다.
+이 곡은 1999년 발생했던 [콜럼바인 고등학교 총기 난사 사건의](https://ko.wikipedia.org/wiki/콜럼바인_고등학교_총기_난사_사건 "wikilink") 범인이었던 [에릭 해리스(Eric Harris)와 딜런 클리볼드(Dylan Klebold)에](https://ko.wikipedia.org/wiki/:en:Eric_Harris_and_Dylan_Klebold "wikilink") 대한 내용을 담고있다. 당시 [맨슨은](../Page/마릴린_맨슨.md "wikilink") 범인들의 집에서 그의 앨범이 발견됐다는 이유로, 게임과 폭력적 영화와 함께 묶여 마치 총기 난사의 원인인 양 비난받아 곤욕을 치루기도 했다\[1\] \[2\]. 2002년에 그는 이 사건을 다룬 [마이클 무어의](../Page/마이클_무어.md "wikilink") [다큐멘터리 영화](../Page/다큐멘터리_영화.md "wikilink") 《[볼링 포 콜럼바인](../Page/볼링_포_콜럼바인.md "wikilink")》에 출연하기도 했다.
 
 ## 수록곡
 
@@ -19,7 +19,7 @@
 
 <references/>
 
-[분류:2001년 싱글](https://ko.wikipedia.org/wiki/분류:2001년_싱글 "wikilink") [분류:2000년 노래](https://ko.wikipedia.org/wiki/분류:2000년_노래 "wikilink") [분류:2005년 싱글](https://ko.wikipedia.org/wiki/분류:2005년_싱글 "wikilink") [분류:2005년 EP](https://ko.wikipedia.org/wiki/분류:2005년_EP "wikilink") [분류:마릴린 맨슨의 노래](https://ko.wikipedia.org/wiki/분류:마릴린_맨슨의_노래 "wikilink") [분류:미국의 노래](https://ko.wikipedia.org/wiki/분류:미국의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink")
+[분류:2001년 싱글](https://ko.wikipedia.org/wiki/분류:2001년_싱글 "wikilink") [분류:2000년 노래](https://ko.wikipedia.org/wiki/분류:2000년_노래 "wikilink") [분류:2005년 싱글](https://ko.wikipedia.org/wiki/분류:2005년_싱글 "wikilink") [분류:2005년 EP](https://ko.wikipedia.org/wiki/분류:2005년_EP "wikilink") [분류:마릴린 맨슨의 노래](https://ko.wikipedia.org/wiki/분류:마릴린_맨슨의_노래 "wikilink") [분류:미국의 노래](https://ko.wikipedia.org/wiki/분류:미국의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:콜럼바인 고등학교 총기 난사 사건](https://ko.wikipedia.org/wiki/분류:콜럼바인_고등학교_총기_난사_사건 "wikilink")
 
 1.
 2.

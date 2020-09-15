@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DAY6](https://ko.wikipedia.org/wiki/DAY6).
 
 
-**DAY6**(데이식스)는 [성진](../Page/성진_\(가수\).md "wikilink"), [Jae](../Page/Jae.md "wikilink"), [Young K](../Page/Young_K.md "wikilink"), [원필](../Page/원필.md "wikilink"), [도운으로](https://ko.wikipedia.org/wiki/도운_\(가수\) "wikilink") 구성된 5인조 남성 밴드다.
+**DAY6**(데이식스)는 [성진](../Page/성진_\(가수\).md "wikilink"), [Jae](../Page/Jae.md "wikilink"), [Young K](../Page/Young_K.md "wikilink"), [원필](../Page/원필.md "wikilink"), [도운으로](../Page/도운_\(가수\).md "wikilink") 구성된 5인조 남성 밴드다.
 
 ## 구성원
 
@@ -1331,7 +1331,7 @@
 <td><p>작사 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>, <a href="../Page/박진영.md" title="wikilink">박진영</a><br />
 작곡 : <a href="../Page/Jae.md" title="wikilink">Jae</a>, <a href="../Page/원필.md" title="wikilink">원필</a>,<br />
 MAJORCODE, 문상선</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
@@ -1341,7 +1341,7 @@ MAJORCODE, 문상선</p></td>
 <td><p>《친구와 우정을 지키는 방법 -<br />
 <a href="../Page/봄여름가을겨울.md" title="wikilink">봄여름가을겨울</a> 트리뷰트 Vol.4 》</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -2661,7 +2661,7 @@ M2</p></td>
 <tr class="even">
 <td><p>2016.06.13</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=bjYZ_TR3uG8">성진 &amp; 도운 〈Good Night〉</a><br />
 </li>
@@ -2674,7 +2674,7 @@ M2</p></td>
 <tr class="odd">
 <td><p>2016.06.20</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=56dIImixJao">성진 &amp; 도운 〈말하는 대로〉</a><br />
 </li>
@@ -2688,7 +2688,7 @@ M2</p></td>
 <td><p>2016.05.20</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=VbeS4SYQnPI">성진 &amp; Young K &amp; 도운 〈죽겠네〉</a><br />
 </li>
@@ -2715,7 +2715,7 @@ M2</p></td>
 <td><p>2016.09.29</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <a href="../Page/Jae.md" title="wikilink">Jae</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=keR4-lSKggQ">성진, Jae, 도운 &amp; 윤현상 〈걱정말아요 그대〉</a><br />
 </li>
@@ -2729,7 +2729,7 @@ M2</p></td>
 <td><p>2016.09.08</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <a href="../Page/원필.md" title="wikilink">원필</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=V3lAXs9TICU">성진 &amp; 원필 &amp; 도운 〈이게 아닌데〉</a><br />
 </li>
@@ -2757,7 +2757,7 @@ M2</p></td>
 <td><p>2016.07.21</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=f-iv5lqVPi8">성진, Young K, 도운 〈Just The Way You Are〉</a><br />
 </li>
@@ -2770,7 +2770,7 @@ M2</p></td>
 <tr class="even">
 <td><p>2016.10.31</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=8wJFKSiepVg">성진 &amp; 도운 〈Little Star〉</a><br />
 </li>
@@ -2783,7 +2783,7 @@ M2</p></td>
 <tr class="odd">
 <td><p>2016.09.26</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=PqbER_hahbA">성진 &amp; 도운 〈Oh My God〉</a><br />
 </li>
@@ -2809,7 +2809,7 @@ M2</p></td>
 <tr class="odd">
 <td><p>2016.07.04</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=VOPEFxib6co">성진 &amp; 도운 〈안아줘〉</a><br />
 </li>
@@ -2863,7 +2863,7 @@ M2</p></td>
 <td><p><a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
 <a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
 <a href="../Page/원필.md" title="wikilink">원필</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=QHOuuVcWk8Q">성진, Young K, 원필, 도운 〈Good Life〉</a><br />
 </li>
@@ -2916,7 +2916,7 @@ M2</p></td>
 <td><p><a href="../Page/Jae.md" title="wikilink">Jae</a><br />
 <a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
 <a href="../Page/성진_(가수).md" title="wikilink">성진</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=qW2fRE1NELA">Jae, Young K, 성진, 도운 〈She Will Be Loved〉</a><br />
 </li>
@@ -2929,7 +2929,7 @@ M2</p></td>
 <tr class="even">
 <td><p>2016.08.08</p></td>
 <td><p><a href="../Page/Jae.md" title="wikilink">Jae</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=J2U1Vz-vO6E">Jae &amp; 도운 〈How Deep Is Your Love〉</a><br />
 </li>
@@ -2956,7 +2956,7 @@ M2</p></td>
 <td><p>2016.04.28</p></td>
 <td><p><a href="../Page/Jae.md" title="wikilink">Jae</a><br />
 <a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=PSrUHW74Yj8">Jae, Young K, 도운 〈Put Your Records On〉</a><br />
 </li>
@@ -2984,7 +2984,7 @@ M2</p></td>
 <td><p>2016.05.12</p></td>
 <td><p><a href="../Page/원필.md" title="wikilink">원필</a><br />
 <a href="../Page/Jae.md" title="wikilink">Jae</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=pVV0gD6JMH0">원필 &amp; Jae 〈벚꽃엔딩〉</a><br />
 </li>
@@ -2998,7 +2998,7 @@ M2</p></td>
 <td><p>2016.11.18</p></td>
 <td><p><a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
 <a href="../Page/원필.md" title="wikilink">원필</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=2Z5ZAXLhrlQ">Young K 〈D〉</a><br />
 </li>
@@ -3037,7 +3037,7 @@ M2</p></td>
 <tr class="even">
 <td><p>2016.08.15</p></td>
 <td><p><a href="../Page/Young_K.md" title="wikilink">Young K</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=8GigwMdpMK0">Young K &amp; 도운 〈Hey Jude〉</a><br />
 </li>
@@ -3050,7 +3050,7 @@ M2</p></td>
 <tr class="odd">
 <td><p>2016.10.24</p></td>
 <td><p><a href="../Page/원필.md" title="wikilink">원필</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=FK3ChW0b8E4">원필 &amp; 도운 〈Mind Trick〉</a><br />
 </li>
@@ -3063,7 +3063,7 @@ M2</p></td>
 <tr class="even">
 <td><p>2016.07.11</p></td>
 <td><p><a href="../Page/원필.md" title="wikilink">원필</a><br />
-<a href="https://ko.wikipedia.org/wiki/도운_(가수)" title="wikilink">도운</a></p></td>
+<a href="../Page/도운_(가수).md" title="wikilink">도운</a></p></td>
 <td><ul>
 <li><a href="https://www.youtube.com/watch?v=TNtvyqp1Epg">원필 &amp; 도운 〈기억을 걷는 시간〉</a><br />
 </li>

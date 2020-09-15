@@ -58,6 +58,7 @@
   - 2015년 혈액형 군\! 3 (Assez Finaund Fabric., ZEXCS와의 공동 제작)
   - 2016년 [다가시카시](../Page/다가시카시.md "wikilink")
   - 2016년 [이 미술부에는 문제가 있다\!](../Page/이_미술부에는_문제가_있다!.md "wikilink")
+  - 2020년 [내 청춘 러브코메디는 잘못됐다.-완-](https://ko.wikipedia.org/wiki/내_청춘_러브코메디는_잘못됐다.-완- "wikilink")
 
 ### OVA
 

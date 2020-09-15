@@ -45,8 +45,8 @@
 **서포트 댄서 멤버**
 
   - [사야시 리호](../Page/사야시_리호.md "wikilink")(전[모닝구무스메](../Page/모닝구무스메.md "wikilink")멤버&현[모닝구무스메](../Page/모닝구무스메.md "wikilink"))OG멤버)
-  - [후지히라 카노](https://ko.wikipedia.org/wiki/후지히라_카노 "wikilink")
-  - [오카자키 모모코](https://ko.wikipedia.org/wiki/오카자키_모모코 "wikilink")
+  - [후지히라 카노](https://ko.wikipedia.org/wiki/후지히라_카노 "wikilink")(현[사쿠라학원](https://ko.wikipedia.org/wiki/사쿠라학원 "wikilink")멤버)
+  - [오카자키 모모코](https://ko.wikipedia.org/wiki/오카자키_모모코 "wikilink")(전[사쿠라학원](https://ko.wikipedia.org/wiki/사쿠라학원 "wikilink")멤버)
 
 **주요 서포트 멤버**
 

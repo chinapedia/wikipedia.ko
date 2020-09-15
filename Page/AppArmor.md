@@ -43,7 +43,7 @@ AppArmor는 2014년 Synology의 DSM 5.1 베타에 통합되었다.\[8\]
 ## 외부 링크
 
   - [AppArmor Wiki](http://wiki.apparmor.net/index.php/Main_Page)
-  - [AppArmor](http://en.opensuse.org/SDB:AppArmor) description from openSUSE.org
+  - [AppArmor](https://web.archive.org/web/20150921153747/https://en.opensuse.org/SDB:AppArmor) description from openSUSE.org
   - [LKML thread](https://lkml.org/lkml/2006/4/19/199) containing comments and criticism of AppArmor
   - [Apparmor packages for Ubuntu](https://wiki.ubuntu.com/AppArmor)
   - [Counterpoint:](http://www.linux-magazine.com/issues/2006/69/counterpoint) Novell and Red Hat security experts face off on AppArmor and SELinux

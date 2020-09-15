@@ -17,7 +17,7 @@
 
 ## 특징
 
-[썸네일](https://ko.wikipedia.org/wiki/파일:Macintosh_II_motherboard.jpg "wikilink") 매킨토시 II는 16MHz의 [모토로라 68020](https://ko.wikipedia.org/wiki/모토로라_68020 "wikilink") 프로세서를 최초로 탑재하였고 이와 함께 [모토로라 68881](../Page/모토로라_68881.md "wikilink") [부동 소수점 장치도](../Page/부동_소수점_장치.md "wikilink") 들어있다. 표준 메모리는 1MB이며 20MB까지 확장가능하다. 별도의 FDHD 업그레이드 킷을 이용하면 68MB까지 확장할 수 있다. 5.15인치 40MB [SCSI](../Page/SCSI.md "wikilink") 내장 [하드디스크](https://ko.wikipedia.org/wiki/하드디스크 "wikilink")와 800KB 지원 3.5인치 [플로피 디스크](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") 드라이브가 포함되어 있다. 그리고 6개의 [NuBus](https://ko.wikipedia.org/wiki/NuBus "wikilink") 확장 슬롯이 있어 NuBus 그래픽 카드를 이용하여 최대 6개의 [디스플레이](https://ko.wikipedia.org/wiki/디스플레이 "wikilink")를 연결하는 것이 가능하다.(단, 1개의 확장 슬롯은 [그래픽 카드](../Page/그래픽_카드.md "wikilink") 최소 1개를 필수로 장착해야 하는데, 이는 내장 그래픽 칩셋이 포함되어 있지 않기 때문이다.) 이외에 사용할 수 있는 확장 슬롯으로 [Mac286](https://ko.wikipedia.org/wiki/Mac286 "wikilink")이라 하여 [인텔](../Page/인텔.md "wikilink")의 [80286](https://ko.wikipedia.org/wiki/80286 "wikilink") 칩이 포함되어 [MS-DOS](../Page/MS-DOS.md "wikilink") 에뮬레이션에 사용할 수 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Macintosh_II_motherboard.jpg "wikilink") 매킨토시 II는 16MHz의 [모토로라 68020](https://ko.wikipedia.org/wiki/모토로라_68020 "wikilink") 프로세서를 최초로 탑재하였고 이와 함께 [모토로라 68881](../Page/모토로라_68881.md "wikilink") [부동소수점 장치도](../Page/부동_소수점_장치.md "wikilink") 들어있다. 표준 메모리는 1MB이며 20MB까지 확장가능하다. 별도의 FDHD 업그레이드 킷을 이용하면 68MB까지 확장할 수 있다. 5.15인치 40MB [SCSI](../Page/SCSI.md "wikilink") 내장 [하드디스크](https://ko.wikipedia.org/wiki/하드디스크 "wikilink")와 800KB 지원 3.5인치 [플로피 디스크](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") 드라이브가 포함되어 있다. 그리고 6개의 [NuBus](https://ko.wikipedia.org/wiki/NuBus "wikilink") 확장 슬롯이 있어 NuBus 그래픽 카드를 이용하여 최대 6개의 [디스플레이](https://ko.wikipedia.org/wiki/디스플레이 "wikilink")를 연결하는 것이 가능하다.(단, 1개의 확장 슬롯은 [그래픽 카드](../Page/그래픽_카드.md "wikilink") 최소 1개를 필수로 장착해야 하는데, 이는 내장 그래픽 칩셋이 포함되어 있지 않기 때문이다.) 이외에 사용할 수 있는 확장 슬롯으로 [Mac286](https://ko.wikipedia.org/wiki/Mac286 "wikilink")이라 하여 [인텔](../Page/인텔.md "wikilink")의 [80286](https://ko.wikipedia.org/wiki/80286 "wikilink") 칩이 포함되어 [MS-DOS](../Page/MS-DOS.md "wikilink") 에뮬레이션에 사용할 수 있다.
 
 매킨토시 II와 매킨토시 SE부터는 키보드를 포함하지 않고 판매되기도 한다. 그리고 [ADB](https://ko.wikipedia.org/wiki/ADB "wikilink")(Apple Desktop Bus)라는 새로운 규격을 장착했으며, 이를 이용하여 기본 [애플 키보드](../Page/애플_키보드.md "wikilink")(M0116), [애플 확장 키보드](https://ko.wikipedia.org/wiki/애플_확장_키보드 "wikilink")(Apple Extended Keyboard)와 [애플 마우스를](https://ko.wikipedia.org/wiki/애플_마우스 "wikilink") 별도로 구매할 수 있다.
 
@@ -40,7 +40,7 @@
   - [Mac II profile](http://www.lowendmac.com/ii/macintosh-ii.html) - Low End Mac
   - [매킨토시 II의 기술 사양](https://web.archive.org/web/20080410162408/http://docs.info.apple.com/article.html?artnum=112168) - apple.com
 
-[분류:매킨토시](https://ko.wikipedia.org/wiki/분류:매킨토시 "wikilink")
+[분류:68k 매킨토시](https://ko.wikipedia.org/wiki/분류:68k_매킨토시 "wikilink")
 
 1.  Levy, Steven. ''Insanely Great: The Life and Times of *Macintosh*, the Computer That Changed Everything.'' New York: Viking, 1994; p. 229-231
 2.  [Macintosh II and Macintosh SE announced](http://macgui.com/usenet/?group=14&id=1509)

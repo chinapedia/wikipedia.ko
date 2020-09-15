@@ -121,7 +121,7 @@
 
   - [The Beatles Interview Database entry](http://www.beatlesinterviews.org/dba01please.html)
 
-  - [Beatles Music History\! entry](http://www.beatlesebooks.com/she-loves-you)
+  - [Beatles Music History\! entry](https://web.archive.org/web/20170107065128/http://www.beatlesebooks.com/she-loves-you)
 
   -
 [분류:1963년 노래](https://ko.wikipedia.org/wiki/분류:1963년_노래 "wikilink") [분류:1963년 싱글](https://ko.wikipedia.org/wiki/분류:1963년_싱글 "wikilink") [분류:비틀즈의 노래](https://ko.wikipedia.org/wiki/분류:비틀즈의_노래 "wikilink") [분류:레논-매카트니가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:레논-매카트니가_작곡한_노래 "wikilink") [분류:팔로폰 싱글](https://ko.wikipedia.org/wiki/분류:팔로폰_싱글 "wikilink") [분류:캐피틀 레코드 싱글](https://ko.wikipedia.org/wiki/분류:캐피틀_레코드_싱글 "wikilink")

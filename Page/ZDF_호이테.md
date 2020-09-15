@@ -23,4 +23,4 @@
 
 ## 외부 링크
 
-[분류:독일의 뉴스 텔레비전 프로그램‎](https://ko.wikipedia.org/wiki/분류:독일의_뉴스_텔레비전_프로그램‎ "wikilink") [분류:ZDF의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:ZDF의_텔레비전_프로그램 "wikilink")
+[분류:독일의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:독일의_뉴스_텔레비전_프로그램 "wikilink") [분류:ZDF의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:ZDF의_텔레비전_프로그램 "wikilink")

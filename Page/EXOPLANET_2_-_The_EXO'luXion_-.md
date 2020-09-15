@@ -333,7 +333,7 @@
 <td><p>2016년 2월 27일</p></td>
 <td><p><a href="../Page/자카르타.md" title="wikilink">자카르타</a></p></td>
 <td></td>
-<td><p>인도네시아 컨벤션 센터</p></td>
+<td><p>자카르타 국제 엑스포</p></td>
 <td><p>15,284명</p></td>
 </tr>
 <tr class="odd">

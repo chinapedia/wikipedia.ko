@@ -19,7 +19,7 @@
 
   - [KBS 뉴스특보](../Page/KBS_뉴스특보.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
   - [MBC 뉴스특보](../Page/MBC_뉴스특보.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
-  - [JTBC 뉴스특보](https://ko.wikipedia.org/wiki/JTBC_뉴스특보 "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
+  - [EBS 뉴스특보](https://ko.wikipedia.org/wiki/EBS_뉴스특보 "wikilink") ([EBS 1TV](../Page/EBS_1TV.md "wikilink"))
 
 ## 그 외 [SBS 뉴스 프로그램](../Page/SBS의_뉴스_프로그램.md "wikilink")
 
@@ -38,10 +38,6 @@
 ## 각주
 
 <references/>
-
-## 외부 링크
-
-  - [SBS 뉴스](http://news.sbs.co.kr)
 
 [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink") [분류:SBS의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_뉴스_텔레비전_프로그램 "wikilink")
 

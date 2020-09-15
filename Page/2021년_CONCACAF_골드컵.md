@@ -80,22 +80,22 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2021년_CONCACAF_골드컵_예선" title="wikilink">2021년 CONCACAF 골드컵 예선 2라운드</a> 승자</p></td>
+<td><p><a href="../Page/2021년_CONCACAF_골드컵_예선.md" title="wikilink">2021년 CONCACAF 골드컵 예선</a> 승자</p></td>
 <td><p>?번째</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2021년_CONCACAF_골드컵_예선" title="wikilink">2021년 CONCACAF 골드컵 예선 2라운드</a> 승자</p></td>
+<td><p><a href="../Page/2021년_CONCACAF_골드컵_예선.md" title="wikilink">2021년 CONCACAF 골드컵 예선</a> 승자</p></td>
 <td><p>?번째</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2021년_CONCACAF_골드컵_예선" title="wikilink">2021년 CONCACAF 골드컵 예선 2라운드</a> 승자</p></td>
+<td><p><a href="../Page/2021년_CONCACAF_골드컵_예선.md" title="wikilink">2021년 CONCACAF 골드컵 예선</a> 승자</p></td>
 <td><p>?번째</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/2021년_CONCACAF_골드컵_예선" title="wikilink">2021년 CONCACAF 골드컵 예선 2라운드</a> 승자</p></td>
+<td><p><a href="../Page/2021년_CONCACAF_골드컵_예선.md" title="wikilink">2021년 CONCACAF 골드컵 예선</a> 승자</p></td>
 <td><p>?번째</p></td>
 </tr>
 </tbody>

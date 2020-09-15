@@ -431,7 +431,7 @@
   - [선태식물의 과 목록](../Page/선태식물의_과_목록.md "wikilink")
   - [양치식물의 과 목록](../Page/양치식물의_과_목록.md "wikilink")
   - [속씨식물의 과 목록](../Page/속씨식물의_과_목록_\(APG_II_분류_체계\).md "wikilink") ([APG II 분류 체계](../Page/APG_II_분류_체계.md "wikilink"))
-  - [속씨식물의 과 목록](../Page/속씨식물의_과_목록.md "wikilink") ([APG IV 분류 체계](https://ko.wikipedia.org/wiki/APG_IV_분류_체계 "wikilink"))
+  - [속씨식물의 과 목록](../Page/속씨식물의_과_목록.md "wikilink") ([APG IV 분류 체계](../Page/APG_IV_분류_체계.md "wikilink"))
 
 ## 각주
 

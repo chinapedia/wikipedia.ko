@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Pancawarna](https://ko.wikipedia.org/wiki/Pancawarna).
 
 
-**Pancawarna**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 시티 누르할리자의 다섯 번째 정규 앨범이자, 네 번째 팝 앨범이다. 말레이시아 내에서 총 10만 장의 판매량을 기록했다.
+**Pancawarna**는 [말레이시아](../Page/말레이시아.md "wikilink")의 팝 가수 시티 누르할리자의 여섯 번째 정규 앨범이자, 네 번째 팝 앨범이다. 말레이시아 내에서 총 10만 장의 판매량을 기록했다.
 
 ## 앨범 개요
 

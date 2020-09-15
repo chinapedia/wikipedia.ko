@@ -17,14 +17,16 @@
 
 ## 같이 보기
 
-  - [신비한TV 서프라이즈](../Page/신비한TV_서프라이즈.md "wikilink")
-  - [궁금한 이야기 Y](../Page/궁금한_이야기_Y.md "wikilink")
+  - [메인뉴스 프로그램](https://ko.wikipedia.org/wiki/뉴스_프로그램 "wikilink")
+  - [KBS 9시 뉴스](https://ko.wikipedia.org/wiki/KBS_9시_뉴스 "wikilink") - 80년 11월까지 동시간대 경쟁 프로그램
+  - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") - 80년 11월까지 동시간대 경쟁 프로그램
+  - [JTBC 뉴스룸](../Page/JTBC_뉴스룸.md "wikilink") - 종합편성채널 개국 이후 메인뉴스 프로그램
 
 ## 각주
 
 <references/>
 
-[분류:1972년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1972년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1980년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1980년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1970년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1970년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1980년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1980년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink") [분류:동양방송의 뉴스 텔레비전 프로그램‎](https://ko.wikipedia.org/wiki/분류:동양방송의_뉴스_텔레비전_프로그램‎ "wikilink")
+[분류:1972년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1972년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1980년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1980년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1970년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1970년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1980년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1980년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink") [분류:동양방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:동양방송의_뉴스_텔레비전_프로그램 "wikilink")
 
 1.  《TBC 석간》, 1980년 11월 30일 방영(본사)
 2.  《TBC 고별석간》, 1980년 11월 30일 방영(부산지국 자체방송)

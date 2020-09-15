@@ -87,11 +87,11 @@
 
 ## 외부 링크
 
-  - [Rock 'n' Roll](http://www.jpgr.co.uk/pcs7169.html) - Graham Calkin's Beatles Pages
+  - [Rock 'n' Roll](https://web.archive.org/web/20171102170322/http://www.jpgr.co.uk/pcs7169.html) - Graham Calkin's Beatles Pages
   - [Lennon v. Levy – The *Roots* Lawsuit](https://web.archive.org/web/20110921164539/http://abbeyrd.best.vwh.net/lenlevy.htm)
-  - [The Roots of Rock 'n' Roll](http://www.rarebeatles.com/roots/roots.htm)
+  - [The Roots of Rock 'n' Roll](https://web.archive.org/web/20170222201130/http://www.rarebeatles.com/roots/roots.htm)
 
 [분류:1975년 음반](https://ko.wikipedia.org/wiki/분류:1975년_음반 "wikilink") [분류:존 레논의 음반](https://ko.wikipedia.org/wiki/분류:존_레논의_음반 "wikilink") [분류:애플 레코드 음반](https://ko.wikipedia.org/wiki/분류:애플_레코드_음반 "wikilink") [분류:리메이크 음반](https://ko.wikipedia.org/wiki/분류:리메이크_음반 "wikilink")
 
-1.  [The Beatles 'Come Together' Was Stolen from a Chuck Berry Song?](http://wpdh.com/the-beatles-come-together-was-stolen-from-a-chuck-berry-song) 101.5 WPDH (2015년 3월 25일).
-2.  [John Lennon - Roots (Vinyl)](http://bootlegzone.com/album.php?name=roots&section=2) BootlegZone
+1.  [The Beatles 'Come Together' Was Stolen from a Chuck Berry Song?](http://wpdh.com/the-beatles-come-together-was-stolen-from-a-chuck-berry-song)  101.5 WPDH (2015년 3월 25일).
+2.  [John Lennon - Roots (Vinyl)](http://bootlegzone.com/album.php?name=roots&section=2)  BootlegZone

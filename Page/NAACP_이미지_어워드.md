@@ -60,7 +60,7 @@
 ## 외부 링크
 
   -
-[분류:미디어상](https://ko.wikipedia.org/wiki/분류:미디어상 "wikilink")
+[분류:미디어상](https://ko.wikipedia.org/wiki/분류:미디어상 "wikilink") [분류:1967년 설립](https://ko.wikipedia.org/wiki/분류:1967년_설립 "wikilink")
 
 1.  ["Together They Did It\!" The 12th Annual NAACP Image Awards](https://books.google.com/books?id=FSoEAAAAMBAJ&lpg=PA162&ots=Y16YV-yiUZ&dq=image%20awards%20january%201980&pg=PA162#v=onepage&q&f=false)
 2.

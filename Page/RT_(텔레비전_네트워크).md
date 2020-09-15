@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RT \(텔레비전 네트워크\)](https://ko.wikipedia.org/wiki/RT_\(텔레비전_네트워크\)).
 
 
-**RT**(아르티)는 [러시아](../Page/러시아.md "wikilink")에서 방송하는 [국제](https://ko.wikipedia.org/wiki/국제_방송 "wikilink") [보도전문채널](https://ko.wikipedia.org/wiki/보도전문채널 "wikilink")로 [2005년](../Page/2005년.md "wikilink") [12월 10일에](../Page/12월_10일.md "wikilink") 개국하였다. 기존 명칭은 **러시아 투데이**()였으며 2009년부터 RT라는 약칭을 공식 명칭으로 사용하기 시작하였다.
+**RT**(아르티)는 [러시아](../Page/러시아.md "wikilink")에서 방송하는 [국제](https://ko.wikipedia.org/wiki/국제_방송 "wikilink") [보도전문채널](../Page/보도전문채널.md "wikilink")로 [2005년](../Page/2005년.md "wikilink") [12월 10일에](../Page/12월_10일.md "wikilink") 개국하였다. 기존 명칭은 **러시아 투데이**()였으며 2009년부터 RT라는 약칭을 공식 명칭으로 사용하기 시작하였다.
 
 RT는 서방 언론이 러시아를 일방적으로 부정적으로 묘사하는 데에 반발한 러시아 정부가 거액의 돈을 들여 설립한 방송국으로 [국영 방송에](https://ko.wikipedia.org/wiki/국영_방송 "wikilink") 가까운 형태를 띄고 있다. 현재 모회사는 ANO TV-Novosti로 [모스크바](../Page/모스크바.md "wikilink")에 본사를 두고 있다.
 

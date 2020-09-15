@@ -64,7 +64,7 @@
   - 〈good kid〉에는 [The Neptunes의](https://ko.wikipedia.org/wiki/넵튠스 "wikilink") 멤버 [Pharrell Williams와](../Page/퍼렐_윌리엄스.md "wikilink") [Chad Hugo가](https://ko.wikipedia.org/wiki/채드_휴고 "wikilink") 보컬 피처링을 맡았으며 크레딧에는 수록되지 않았다.\[70\]
   - 〈m.A.A.d city〉에는 [ScHoolboy Q가](https://ko.wikipedia.org/wiki/스쿨보이_큐 "wikilink") 보컬 피처링을 맡았으며 크레딧에는 수록되지 않았다.\[71\]
 
-</br>
+<!-- end list -->
 
   - 샘플 크레딧
 
@@ -80,11 +80,9 @@
   - 〈Compton〉은 Formula IV의 〈What's This World Coming To〉를 [샘플링했다](../Page/샘플링_\(음악\).md "wikilink").\[78\]
   - 〈The Recipe〉는 Twin Sister의 〈Meet the Frownies〉를 [샘플링했다](../Page/샘플링_\(음악\).md "wikilink").\[79\]
 
-</br>
-
 ## 크레딧
 
-《good kid, m.A.A.d city》의 크레딧은 [AllMusic](../Page/올뮤직.md "wikilink")\[80\]에서 발췌한 것이다.
+《good kid, m.A.A.d city》의 크레딧은 [AllMusic](../Page/올뮤직.md "wikilink")\[80\] 에서 발췌한 것이다.
 
   - [Kendrick Lamar](../Page/켄드릭_라마.md "wikilink") — art direction, primary artist
   - [Dr. Dre](../Page/닥터_드레.md "wikilink") — executive producer, featured artist, mixing

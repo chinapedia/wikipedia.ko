@@ -57,7 +57,7 @@
 </tr>
 <tr class="even">
 <td><p>2014년 10월 29일</p></td>
-<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
 <td></td>
 <td><p><a href="../Page/도쿄_돔.md" title="wikilink">도쿄 돔</a>[5]</p></td>
 <td><p>통산 112,388명</p></td>
@@ -78,14 +78,14 @@
 </tr>
 <tr class="odd">
 <td><p>2014년 11월 22일</p></td>
-<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
+<td><p><a href="../Page/베이징시.md" title="wikilink">북경</a></p></td>
 <td></td>
 <td><p>마스터 카드 센터[6]</p></td>
 <td><p>12,882명</p></td>
 </tr>
 <tr class="even">
 <td><p>2014년 11월 29일</p></td>
-<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">대북</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[7]</p></td>
 <td><p>통산 25,360명</p></td>
@@ -99,7 +99,7 @@
 </tr>
 <tr class="even">
 <td><p>2014년 12월 5일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대판" title="wikilink">대판</a></p></td>
 <td></td>
 <td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a>[8]</p></td>
 <td><p>통산 154,038명</p></td>
@@ -120,7 +120,7 @@
 </tr>
 <tr class="odd">
 <td><p>2014년 12월 20일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카" title="wikilink">후쿠오카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/복강" title="wikilink">복강</a></p></td>
 <td><p><a href="../Page/후쿠오카_돔.md" title="wikilink">후쿠오카 야후오쿠! 돔</a></p></td>
 <td><p>52,874명</p></td>
 <td></td>
@@ -141,7 +141,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년 2월 7일</p></td>
-<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상해</a></p></td>
 <td></td>
 <td><p>메르세데스 벤츠 아레나[10]</p></td>
 <td><p>14,675명</p></td>
@@ -155,7 +155,7 @@
 </tr>
 <tr class="even">
 <td><p>2015년 3월 29일</p></td>
-<td><p><a href="../Page/난징시.md" title="wikilink">난징</a></p></td>
+<td><p><a href="../Page/난징시.md" title="wikilink">남경</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/난징_올림픽_스포츠_센터" title="wikilink">난징 올림픽 스포츠 센터</a></p></td>
 <td><p>13,983명</p></td>

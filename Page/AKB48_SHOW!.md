@@ -42,6 +42,6 @@
 
 ## 외부 링크
 
-  - [AKB48 SHOW\! 공식 홈페이지](http://www.nhk.or.jp/akb48show/)
+  - [AKB48 SHOW\! 공식 홈페이지](https://web.archive.org/web/20140410131902/http://www.nhk.or.jp/akb48show/)
 
 [분류:AKB48](https://ko.wikipedia.org/wiki/분류:AKB48 "wikilink") [분류:SKE48](https://ko.wikipedia.org/wiki/분류:SKE48 "wikilink") [분류:NMB48](https://ko.wikipedia.org/wiki/분류:NMB48 "wikilink") [분류:HKT48](https://ko.wikipedia.org/wiki/분류:HKT48 "wikilink") [분류:NGT48](https://ko.wikipedia.org/wiki/분류:NGT48 "wikilink") [분류:STU48](https://ko.wikipedia.org/wiki/분류:STU48 "wikilink") [분류:일본의 텔레비전 버라이어티 쇼](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_버라이어티_쇼 "wikilink") [분류:NHK의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:NHK의_텔레비전_프로그램 "wikilink") [분류:아이돌 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:아이돌_텔레비전_프로그램 "wikilink")

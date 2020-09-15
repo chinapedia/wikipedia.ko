@@ -39,7 +39,7 @@
 2.  **Keep The Challenge**
 3.  **It's going down** - 키쿠치 후마
       -
-        작사: 키쿠치 후마 / 작곡: Christofer Erixon, Joakim Bjornberg, [Steven Lee](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink") / 편곡: 요시오카 타쿠
+        작사: 키쿠치 후마 / 작곡: Christofer Erixon, Joakim Bjornberg, [Steven Lee](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink") / 편곡: 요시오카 타쿠
 
 ### 통상반
 

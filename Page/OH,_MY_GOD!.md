@@ -82,6 +82,6 @@
 
 ## 외부 링크
 
-  - [OH MY GOD\!](http://comic.naver.com/webtoon/list.nhn?titleId=563786&weekday=sat)
+  - [OH MY GOD\!](https://web.archive.org/web/20190816034339/https://comic.naver.com/webtoon/list.nhn?titleId=563786&weekday=sat)
 
 [분류:네이버 웹툰](https://ko.wikipedia.org/wiki/분류:네이버_웹툰 "wikilink") [분류:신화를 바탕으로 한 만화](https://ko.wikipedia.org/wiki/분류:신화를_바탕으로_한_만화 "wikilink") [분류:종교 만화](https://ko.wikipedia.org/wiki/분류:종교_만화 "wikilink") [분류:판타지 만화](https://ko.wikipedia.org/wiki/분류:판타지_만화 "wikilink") [분류:세계 종말을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:세계_종말을_소재로_한_작품 "wikilink")

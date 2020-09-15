@@ -30,7 +30,7 @@
 
 1.  "소녀와 가로등 (진미령)" ([장덕](../Page/장덕.md "wikilink") 작사 / [장덕](../Page/장덕.md "wikilink") 작곡)
 2.  "영원한 사랑 (김상월)" (정풍송 작사 / 정풍송 작곡)
-3.  "추억 (현혜미)" ([현혜미](https://ko.wikipedia.org/wiki/현혜미 "wikilink") 작사 / [안건마](https://ko.wikipedia.org/wiki/안건마 "wikilink") 작곡 / [안건마](https://ko.wikipedia.org/wiki/안건마 "wikilink") 편곡) ***- 최우수 편곡상***
+3.  "추억 (현혜미)" ([현혜미](https://ko.wikipedia.org/wiki/현혜미 "wikilink") 작사 / [안건마](../Page/안건마.md "wikilink") 작곡 / [안건마](../Page/안건마.md "wikilink") 편곡) ***- 최우수 편곡상***
 4.  "추억의 계절 (방은미)" ([오현진](https://ko.wikipedia.org/wiki/오현진 "wikilink") 작사 / [현대웅](https://ko.wikipedia.org/wiki/현대웅 "wikilink") 작곡)
 5.  "나의 꿈 (하수영)" ([하수영](https://ko.wikipedia.org/wiki/하수영 "wikilink") 작사 / [하수영](https://ko.wikipedia.org/wiki/하수영 "wikilink") 작곡) ***- 최우수 작사상***
 

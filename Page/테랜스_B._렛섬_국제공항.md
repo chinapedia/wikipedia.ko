@@ -5,7 +5,7 @@
 
 영국령 버진아일랜드의 주요 섬은 [토르톨라 섬이고](https://ko.wikipedia.org/wiki/토르톨라_섬 "wikilink"), 그 섬 동쪽에 작은 [비프 아일랜드라는](https://ko.wikipedia.org/wiki/비프_아일랜드 "wikilink") 섬이 [퀸 엘리자베스 2세 다리로](https://ko.wikipedia.org/wiki/퀸_엘리자베스_2세_다리 "wikilink") 연결되어 있다.
 
-1.4 km의 활주로 하나로 구성된 작은 공항이다. 72인승 터보프롭 [ATR 72](../Page/ATR_72.md "wikilink") 여객기, 34인승 터보프롭 [사브 340](https://ko.wikipedia.org/wiki/사브_340 "wikilink") 여객기가 취항한다.
+1.4 km의 활주로 하나로 구성된 작은 공항이다. 72인승 터보프롭 [ATR 72](../Page/ATR_72.md "wikilink") 여객기, 34인승 터보프롭 [사브 340](../Page/사브_340.md "wikilink") 여객기가 취항한다.
 
 ## 운항 노선
 

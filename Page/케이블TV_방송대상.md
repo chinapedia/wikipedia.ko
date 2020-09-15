@@ -415,7 +415,7 @@ HD다큐멘터리 '고군산군도 천년의 역사를 품다' (금강방송)</p
 </tr>
 <tr class="odd">
 <td><p>PP작품상 창의콘텐츠</p></td>
-<td><p>영상기록 서울 시간을 품다 (<a href="../Page/교통방송.md" title="wikilink">교통방송</a>)</p></td>
+<td><p>영상기록 서울 시간을 품다 (<a href="../Page/TBS_(대한민국의_방송사).md" title="wikilink">교통방송</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>PP작품상 문화교류</p></td>
@@ -770,6 +770,123 @@ KCTV스페셜-가네보의 검은 실타래 (한국케이블TV <a href="../Page/
 | colspan="2" text align=center|파트너상     | CJ헬로 영남방송 + 안동시청 김중옥 팀장 - 유통특작과 유통지원팀</br>티브로드 + 원곡동반상회 패널일동 - 김명홍,전유리,속파오시다,마리아,율리아,그레이스,버지니아,게이꼬</br>딜라이브 + 이상용MC - '청춘노래자랑'</br>현대HCN충북방송 + (사)풀꿈환경재단 - '초록마을에 가다'</br>CMB어린이합창단</br>JCN울산중앙방송 + 울산대학교 한삼건 교수 - '울산택리지'</br>KCTV제주방송 + 오다겸MC - '삼춘 어디 감수과'</br>서경방송 + 중국 시안방송국 - '진주-시안 석류꽃의 봄'</br>ARRIS Group Korea |                                                                                                    |
 | colspan="2" text align=center|지역채널 개인상 | 김광수 PD (지역채널 프로듀서상)</br>김석범 보도국장 (지역채널 보도기자상)</br>전현표 감독 (지역채널 촬영감독상)</br>박종호 기술감독 (지역채널 방송기술상)                                                                                                                                                                                                                          |                                                                                                    |
 |                                        |                                                                                                                                                                                                                                                                                                                          |                                                                                                    |
+
+### 2019년
+
+<table>
+<thead>
+<tr class="header">
+<th><p>|부문</p></th>
+<th><p>|세부 부문</p></th>
+<th><p>|수상작 / 수상자</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>rowspan="7" align="center" text |PP 작품상</p></td>
+<td><p>align="center" text |드라마 부문 대상</p></td>
+<td><p><a href="../Page/미스터_션샤인.md" title="wikilink">미스터 션샤인</a> (<a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>)</p></td>
+</tr>
+<tr class="even">
+<td><p>align="center" text |예능/코미디 부문 대상</p></td>
+<td><p>대한 외국인 (<a href="https://ko.wikipedia.org/wiki/MBC_Every_1" title="wikilink">MBC Every1</a>)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>align="center" text |교양/다큐 부문 대상</p></td>
+<td><p>국악버스킹 우리가 (<a href="https://ko.wikipedia.org/wiki/ONT_채널" title="wikilink">ONT</a>)<br />
+뷰티풀 코리아 (<a href="../Page/YTN_사이언스.md" title="wikilink">YTN사이언스</a>)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>align="center" text |어린이 부문 대상</p></td>
+<td><p>키위 (<a href="../Page/대교어린이TV.md" title="wikilink">대교어린이TV</a>)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>align="center" text |음악 부문 대상</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/PRODUCE_48" title="wikilink">프로듀스 48</a> (<a href="../Page/엠넷.md" title="wikilink">Mnet</a>)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>align="center" text |기획 부문 대상</p></td>
+<td><p>가요 110년의 기록 (<a href="../Page/아이넷TV.md" title="wikilink">아이넷TV</a>)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>align="center" text |글로벌 부문 대상</p></td>
+<td><p>After School Club (<a href="../Page/아리랑국제방송.md" title="wikilink">아리랑 국제방송</a>)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>colspan="2" align="center" text |PP 채널상</p></td>
+<td><p>드라맥스</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>colspan="2" align="center" text |VOD 상</p></td>
+<td><p><a href="../Page/미스터_션샤인.md" title="wikilink">미스터 션샤인</a> (<a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>rowspan="3" align="center" text |지역채널 작품상</p></td>
+<td><p>align="center" text |보도 부문 대상</p></td>
+<td><p><탐사보도>풀뿌리 의회, 이것만은 뿌리 뽑자 (CMB광주방송)<br />
+깜깜이 예산 의정운영공통 경비 조례 제정해 공개해야 (티브로드 대경방송)</p></td>
+</tr>
+<tr class="odd">
+<td><p>align="center" text |정규방송 부문 대상</p></td>
+<td><p>키즈 솔로몬 (딜라이브 우리케이블TV)<br />
+우리동네 사는 이야기 '사천 다솔사' (서경방송)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>align="center" text |특집방송 부문 대상</p></td>
+<td><p>꽃보다 아름다운 이름 '저는 청년입니다' (CJ헬로 호남방송)<br />
+크레타와 우리한지 지중해를 물들이다 (금강방송)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>colspan="2" align="center" text |지역파트너스상</p></td>
+<td><p>서경방송 - 경상남도 산청군청 통합관제센터 CMB - 대전세종충남 시민기자단</p>
+<p>티브로드 ABC방송 - 안양지역시민연대 최병렬 대표</p>
+<p>KCTV 제주방송 - 김경태 방송인</p>
+<p>현대HCN - 여성장학클럽 홀씨</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>colspan="2" align="center" text |우수지자체상</p></td>
+<td><p>부산광역시 기장군청 서울특별시 도봉구청</p>
+<p>서울특별시 서초구청</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>지역채널 특별상</p></td>
+<td><p>지역채널 핫옴니채널상</p></td>
+<td><p>지역연구소 G.Lab (CJ헬로) 지역채널 모바일 앱 (티브로드)</p>
+<p>인사이드 서초 &amp; HCN매거진 서초 (현대HCN 서초방송)</p></td>
+</tr>
+<tr class="even">
+<td><p>지역채널 핫클립상</p></td>
+<td><p><유튜브 CJ헬로 뉴스>투기냐 아니냐, 목포시민에게 물었습니다!</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>colspan="2" align="center" text |지역채널 개인상</p></td>
+<td><p>양희승 PD (지역채널 프로듀서상)<br />
+박일국 기자 (지역채널 보도기자상)<br />
+김창현 감독 (지역채널 촬영감독상)<br />
+김동현 기술감독 (지역채널 방송기술상) 김인자 상담사 (지역채널 상담사상)</p>
+<p>김태형 기사 (지역채널 기사상)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>colspan="2" align="center" text |공로상</p></td>
+<td><p>조오섭 소통기획관(국가균형발전위원회)</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 외부 링크
 

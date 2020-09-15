@@ -3,7 +3,7 @@
 
 **FIVB 세계 남자배구 선수권대회**()는 [배구](../Page/배구.md "wikilink") 종목을 총괄하는 국제기구인 [국제 배구 연맹](../Page/국제_배구_연맹.md "wikilink")(FIVB)이 주관하는 국제 배구 대회이다. 대회는 [1949년](../Page/1949년.md "wikilink")에 창설되었으며, [FIVB](../Page/국제_배구_연맹.md "wikilink") 가맹국의 성인 남자 국가대표팀이 참여한다. 대회 초창기에는 변동 사항이 있었지만, [1962년](../Page/1962년.md "wikilink") 이래 4년을 주기로 열리고 있다. 현재 우승국은 자국에서 개최된 [2014년 선수권대회에서](https://ko.wikipedia.org/wiki/2014년_FIVB_세계_남자배구_선수권대회 "wikilink") 우승한 [폴란드이다](https://ko.wikipedia.org/wiki/폴란드_배구_국가대표팀 "wikilink").
 
-현행 대회 방식 하에서 본선에 진출하기 위해서는 본선이 시작되기 3년 전부터 시행되는 예선 단계를 거쳐야 한다. 본선 토너먼트에서는 개최국을 포함한 24개국이 한 달 남짓 동안 개최국에서 대회를 치른다. 현재까지 총 18번의 세계 선수권대회가 열리는 동안 7개국이 우승을 차지하였다. 최다 우승국으로는 [소련 국가대표팀의](../Page/소련.md "wikilink") 기록을 승계하는 [러시아가](https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀 "wikilink") 6번 우승컵을 들어올렸다. [러시아는](https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀 "wikilink") 또한 역대 모든 세계 선수권대회의 본선 토너먼트에 진출한 유일한 국가대표팀이다. [러시아의](https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀 "wikilink") 뒤를 이어 [브라질과](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") [이탈리아가](https://ko.wikipedia.org/wiki/이탈리아_배구_국가대표팀 "wikilink") 각각 3번씩 대권을 들어올렸다. [폴란드와](https://ko.wikipedia.org/wiki/폴란드_배구_국가대표팀 "wikilink") [체코슬로바키아 대표팀의](../Page/체코슬로바키아.md "wikilink") 기록을 승계하는 [체코는](https://ko.wikipedia.org/wiki/체코_배구_국가대표팀 "wikilink") 각자 총 2번, [미국과](https://ko.wikipedia.org/wiki/미국_배구_국가대표팀 "wikilink") [동독 대표팀의](../Page/동독.md "wikilink") 기록을 승계하는 [독일은](https://ko.wikipedia.org/wiki/독일_배구_국가대표팀 "wikilink") 각자 총 1번 세계 선수권대회에서 우승하였다.
+현행 대회 방식 하에서 본선에 진출하기 위해서는 본선이 시작되기 3년 전부터 시행되는 예선 단계를 거쳐야 한다. 본선 토너먼트에서는 개최국을 포함한 24개국이 한 달 남짓 동안 개최국에서 대회를 치른다. 현재까지 총 18번의 세계 선수권대회가 열리는 동안 7개국이 우승을 차지하였다. 최다 우승국으로는 [소련 국가대표팀의](../Page/소련.md "wikilink") 기록을 승계하는 [러시아가](https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀 "wikilink") 6번 우승컵을 들어올렸다. [러시아는](https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀 "wikilink") 또한 역대 모든 세계 선수권대회의 본선 토너먼트에 진출한 유일한 국가대표팀이다. [러시아의](https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀 "wikilink") 뒤를 이어 [브라질과](https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀 "wikilink") [이탈리아가](https://ko.wikipedia.org/wiki/이탈리아_배구_국가대표팀 "wikilink") 각각 3번씩 대권을 들어올렸다. [폴란드와](https://ko.wikipedia.org/wiki/폴란드_배구_국가대표팀 "wikilink") [체코슬로바키아 대표팀의](../Page/체코슬로바키아.md "wikilink") 기록을 승계하는 [체코는](https://ko.wikipedia.org/wiki/체코_배구_국가대표팀 "wikilink") 각자 총 2번, [미국과](../Page/미국_배구_국가대표팀.md "wikilink") [동독 대표팀의](../Page/동독.md "wikilink") 기록을 승계하는 [독일은](https://ko.wikipedia.org/wiki/독일_배구_국가대표팀 "wikilink") 각자 총 1번 세계 선수권대회에서 우승하였다.
 
 차기 세계 선수권대회는 2018년에 열리며, [이탈리아](../Page/이탈리아.md "wikilink")와 [불가리아](../Page/불가리아.md "wikilink")가 공동으로 개최된다. 동일한 성격의 여자부 대회로는 [FIVB 세계 여자배구 선수권대회가](https://ko.wikipedia.org/wiki/FIVB_세계_여자배구_선수권대회 "wikilink") 있다.
 
@@ -236,7 +236,7 @@
 <td><p><br />
 <a href="../Page/프랑스.md" title="wikilink">프랑스</a></p></td>
 <td><p><br />
-<strong><a href="https://ko.wikipedia.org/wiki/미국_배구_국가대표팀" title="wikilink">미국</a></strong></p></td>
+<strong><a href="../Page/미국_배구_국가대표팀.md" title="wikilink">미국</a></strong></p></td>
 <td><p><strong>3-1</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀" title="wikilink">소련</a></p></td>
@@ -271,7 +271,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/네덜란드_배구_국가대표팀" title="wikilink">네덜란드</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/미국_배구_국가대표팀" title="wikilink">미국</a></p></td>
+<a href="../Page/미국_배구_국가대표팀.md" title="wikilink">미국</a></p></td>
 <td><p><strong>3-1</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/쿠바_배구_국가대표팀" title="wikilink">쿠바</a></p></td>
@@ -361,7 +361,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀" title="wikilink">브라질</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/미국_배구_국가대표팀" title="wikilink">미국</a></p></td>
+<a href="../Page/미국_배구_국가대표팀.md" title="wikilink">미국</a></p></td>
 <td><p><strong>3-1</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/세르비아_배구_국가대표팀" title="wikilink">세르비아</a></p></td>

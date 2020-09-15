@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [산업방송 채널i](https://ko.wikipedia.org/wiki/산업방송_채널i).
 
 
-**산업방송**()은 대한민국의 유일한 산업 분야 전문 [방송채널사용사업자(PP)](https://ko.wikipedia.org/wiki/방송채널사용사업자\(PP\) "wikilink")이다.
+**산업방송 채널i**(産業放送チャンネルi, )은 대한민국의 유일한 산업 분야 전문 방송채널사용사업자(PP)이다.
 
 ## [산업방송 채널i](../Page/산업방송_채널i.md "wikilink") 개국
 
@@ -9,7 +9,7 @@
 
 ## 연혁
 
-  - [2014년](../Page/2014년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") 산업방송 채널 i 개국
+  - [2014년](../Page/2014년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") 산업방송 채널i 개국
 
 ## 인력 현황
 
@@ -81,8 +81,8 @@
   - [산업방송 공식 홈페이지](http://www.chi.or.kr)
   - [한국산업기술문화재단 홈페이지](http://www.kimac.or.kr/)
   - [산업방송 페이스북](https://www.facebook.com/industryTV?pnref=story/)
-  - [산업방송 유투브](https://www.youtube.com/channel/UC_SfATANgLfDTl2KJD06EUQ/)
+  - [산업방송 유튜브](https://www.youtube.com/channel/UC_SfATANgLfDTl2KJD06EUQ/)
   - [산업방송 앱 다운로드 (구글Play)](https://play.google.com/store/apps/details?id=kimac.chi.android&hl=ko/)
   - [산업방송 앱 다운로드 (애플 앱스토어)](https://itunes.apple.com/kr/app/san-eobbangsong-chaeneoli/id892281441?/)
 
-[산업방송_채널i](https://ko.wikipedia.org/wiki/분류:산업방송_채널i "wikilink") [산업방송채널i](https://ko.wikipedia.org/wiki/분류:한국산업기술미디어문화재단 "wikilink") [분류:2009년 설립](https://ko.wikipedia.org/wiki/분류:2009년_설립 "wikilink") [분류:대한민국의 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_방송국 "wikilink")
+[분류:2014년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2014년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2014년 설립](https://ko.wikipedia.org/wiki/분류:2014년_설립 "wikilink") [분류:대한민국의 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_방송국 "wikilink")

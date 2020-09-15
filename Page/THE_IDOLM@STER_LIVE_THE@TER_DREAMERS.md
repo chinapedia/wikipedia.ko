@@ -91,7 +91,7 @@
 
 :\# Dreaming\!
 
-:\#: 노래: 키사라기 치하야 ([이마이 아사미](../Page/이마이_아사미.md "wikilink")), 스오우 모모코 ([와타나베 케이코](https://ko.wikipedia.org/wiki/와타나베_케이코 "wikilink")), 토쿠가와 마츠리 ([스와 아야카](https://ko.wikipedia.org/wiki/스와_아야카 "wikilink")), 니카이도 치즈루 ([노무라 카나코](https://ko.wikipedia.org/wiki/노무라_카나코 "wikilink")), 하기와라 유키호 ([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink")), 하코자키 세리카 ([아사쿠라 모모](https://ko.wikipedia.org/wiki/아사쿠라_모모 "wikilink")), 바바 코노미 ([다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미_\(성우\) "wikilink")), 마카베 미즈키 ([아베 리카](https://ko.wikipedia.org/wiki/아베_리카 "wikilink")), 미야오 미야 ([키리타니 초초](https://ko.wikipedia.org/wiki/키리타니_초초 "wikilink"))、모가미 시즈카 ([타도코로 아즈사](https://ko.wikipedia.org/wiki/타도코로_아즈사 "wikilink"))
+:\#: 노래: 키사라기 치하야 ([이마이 아사미](../Page/이마이_아사미.md "wikilink")), 스오우 모모코 ([와타나베 케이코](https://ko.wikipedia.org/wiki/와타나베_케이코 "wikilink")), 토쿠가와 마츠리 ([스와 아야카](https://ko.wikipedia.org/wiki/스와_아야카 "wikilink")), 니카이도 치즈루 ([노무라 카나코](https://ko.wikipedia.org/wiki/노무라_카나코 "wikilink")), 하기와라 유키호 ([아사쿠라 아즈미](https://ko.wikipedia.org/wiki/아사쿠라_아즈미 "wikilink")), 하코자키 세리카 ([아사쿠라 모모](https://ko.wikipedia.org/wiki/아사쿠라_모모 "wikilink")), 바바 코노미 ([다카하시 미나미](../Page/다카하시_미나미_\(성우\).md "wikilink")), 마카베 미즈키 ([아베 리카](https://ko.wikipedia.org/wiki/아베_리카 "wikilink")), 미야오 미야 ([키리타니 초초](https://ko.wikipedia.org/wiki/키리타니_초초 "wikilink"))、모가미 시즈카 ([타도코로 아즈사](https://ko.wikipedia.org/wiki/타도코로_아즈사 "wikilink"))
 
 :\#: 작사: 마사키 에리카, 작곡: BNSI (사토 타카후미), 편곡: Arte Refact
 
@@ -123,7 +123,7 @@
 
 :\# **Decided**
 
-:\#: 노래: 토쿠가와 마츠리 ([스와 아야카](https://ko.wikipedia.org/wiki/스와_아야카 "wikilink"))×바바 코노미 ([다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미_\(성우\) "wikilink"))
+:\#: 노래: 토쿠가와 마츠리 ([스와 아야카](https://ko.wikipedia.org/wiki/스와_아야카 "wikilink"))×바바 코노미 ([다카하시 미나미](../Page/다카하시_미나미_\(성우\).md "wikilink"))
 
 :\#: 작사: [유키 아이라](https://ko.wikipedia.org/wiki/유키_아이라 "wikilink"), 작곡·편곡: 야마구치 아키히코
 

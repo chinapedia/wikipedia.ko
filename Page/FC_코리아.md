@@ -15,7 +15,7 @@
 
 ### 국제 대회
 
-2015년 [재일 조선인](https://ko.wikipedia.org/wiki/일본의_통일_코리안들_축구_대표팀 "wikilink")(United Koreans in Japan) 축구 협회를 만들어 [독립 축구 협회 연맹의](../Page/독립_축구_협회_연맹.md "wikilink") 정식 회원으로 가입했다.
+2015년 [재일 조선인](../Page/일본의_통일_코리안들_축구_대표팀.md "wikilink")(United Koreans in Japan) 축구 협회를 만들어 [독립 축구 협회 연맹의](../Page/독립_축구_협회_연맹.md "wikilink") 정식 회원으로 가입했다.
 
 ## 같이 보기
 

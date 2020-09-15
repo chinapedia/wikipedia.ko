@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BMW X6](https://ko.wikipedia.org/wiki/BMW_X6).
 
 
-**BMW X6**는 [BMW](../Page/BMW.md "wikilink")가 생산 및 판매하는 준대형 크로스오버 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink"). 앞모습은 SUV의 거대함이 있지만 뒷모습은 쿠페처럼 전고를 점점 낮게 설계된 것이 특징이다. SUV의 중후함과 쿠페의 날렵한 디자인을 적절히 타협했다.
+**BMW X6**는 [BMW](../Page/BMW.md "wikilink")가 생산 및 판매하는 준대형 크로스오버 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink"). 앞모습은 SUV의 거대함이 있지만 뒷모습은 쿠페처럼 전고를 점점 낮게 설계된 것이 특징이다. SUV의 중후함과 쿠페의 날렵한 디자인을 적절히 타협했다. {{-}}
 
 ## 1세대(E71, E72)
 
@@ -14,5 +14,9 @@
 ## 2세대(F16)
 
 [thumb](https://ko.wikipedia.org/wiki/파일:2018_BMW_X6_xDrive30d_M_Sport_Automatic_3.0_Front.jpg "wikilink") [thumb](https://ko.wikipedia.org/wiki/파일:2018_BMW_X6_xDrive30d_M_Sport_Automatic_3.0_Rear.jpg "wikilink") [2014년 10월에](../Page/2014년_10월.md "wikilink") [파리 모터쇼를](../Page/파리_모터쇼.md "wikilink") 통해 공개되었고, 같은 해 말에 출시되었다. 라인업의 경우, xDrive35i, xDrive50i, M, xDrive30d, xDrive40d, M50d가 있다. {{-}}
+
+## 3세대(G06)
+
+[thumb](https://ko.wikipedia.org/wiki/파일:2020_BMW_X6_xDrive30d_M_Sport_Automatic_3.0.jpg "wikilink") [2019년 7월에](https://ko.wikipedia.org/wiki/2019년_7월 "wikilink") 공개되었다. {{-}}
 
 [X6](https://ko.wikipedia.org/wiki/분류:BMW의_차종 "wikilink") [X6](https://ko.wikipedia.org/wiki/분류:스포츠_유틸리티_자동차 "wikilink") [X6](https://ko.wikipedia.org/wiki/분류:대형_승용차 "wikilink") [X6](https://ko.wikipedia.org/wiki/분류:하이브리드_차량 "wikilink") [X6](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [X6](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [X6](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [X6](https://ko.wikipedia.org/wiki/분류:2008년_도입된_자동차 "wikilink")

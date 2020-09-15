@@ -31,7 +31,7 @@
 
 ### 작용 원리
 
-[frame](https://ko.wikipedia.org/wiki/파일:ERG_이론_작용_원리.jpg "wikilink")
+[프레임](https://ko.wikipedia.org/wiki/파일:ERG_이론_작용_원리.jpg "wikilink")
 
 [ERG 이론에서는](../Page/ERG_이론.md "wikilink") 위의 세가지 욕구가 다음과 같은 원리로 작용한다.
 
@@ -160,7 +160,7 @@
   - [ERG 이론에 대한 간단한 정리](https://www.youtube.com/watch?v=kvhr2H5rAgY) 영어
   - [동기부여 이론들에 대한 간단한 정리와 비교](https://www.youtube.com/watch?v=5Hs2FfBM7kE) 영어
 
-[분류:경영학](https://ko.wikipedia.org/wiki/분류:경영학 "wikilink") [분류:조직행동학](https://ko.wikipedia.org/wiki/분류:조직행동학 "wikilink")
+[분류:경영학](https://ko.wikipedia.org/wiki/분류:경영학 "wikilink") [분류:조직 행동](https://ko.wikipedia.org/wiki/분류:조직_행동 "wikilink") [분류:단계 이론](https://ko.wikipedia.org/wiki/분류:단계_이론 "wikilink")
 
 1.  김범국 외, 『조직행위론』, 제주대학교 출판부, (1998)
 2.  'H'자동차 회사에서 동기부여가 직무만족에 미치는 영향에 관한 실증연구(조직지원인식의 조절역할을 중심으로) 울산대학교, 오종환, 2011

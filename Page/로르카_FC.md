@@ -7,4 +7,4 @@
 
   - [공식 홈페이지](https://web.archive.org/web/20170725034229/http://lorcafc.com/)
 
-[로르카_FC](https://ko.wikipedia.org/wiki/분류:로르카_FC "wikilink") [분류:2003년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2003년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:무르시아 지방의 축구단](https://ko.wikipedia.org/wiki/분류:무르시아_지방의_축구단 "wikilink")
+[로르카_FC](https://ko.wikipedia.org/wiki/분류:로르카_FC "wikilink") [분류:2003년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2003년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:무르시아주의 축구단](https://ko.wikipedia.org/wiki/분류:무르시아주의_축구단 "wikilink")

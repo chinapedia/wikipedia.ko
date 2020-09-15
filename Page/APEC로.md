@@ -52,7 +52,7 @@
 (<a href="https://ko.wikipedia.org/wiki/광안대로" title="wikilink">광안대로</a>)<br />
 (<a href="../Page/장산로_(부산).md" title="wikilink">장산로</a>)<br />
 해운대로394번길</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/올림픽교차로_환승센터" title="wikilink">올림픽교차로 환승센터</a> 위치</p></td>
+<td><p><a href="../Page/올림픽교차로_환승센터.md" title="wikilink">올림픽교차로 환승센터</a> 위치</p></td>
 <td></td>
 </tr>
 <tr class="odd">

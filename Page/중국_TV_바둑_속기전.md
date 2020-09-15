@@ -28,7 +28,7 @@
 | 9  | 1995 | '''[마샤오춘](../Page/마샤오춘.md "wikilink")                      | 1-0 | [녜웨이핑](../Page/녜웨이핑.md "wikilink")                            |
 | 10 | 1996 | '''[차오다위안](https://ko.wikipedia.org/wiki/차오다위안 "wikilink") | 1-0 | [왕레이](https://ko.wikipedia.org/wiki/왕레이_\(1977년\) "wikilink") |
 | 11 | 1997 | '''[녜웨이핑](../Page/녜웨이핑.md "wikilink")                      | 1-0 | [위빈](../Page/위빈_\(바둑_기사\).md "wikilink")                      |
-| 12 | 1999 | '''[창하오](../Page/창하오.md "wikilink")                        | 1-0 | [류싱](https://ko.wikipedia.org/wiki/류싱 "wikilink")             |
+| 12 | 1999 | '''[창하오](../Page/창하오.md "wikilink")                        | 1-0 | [류싱](../Page/류싱.md "wikilink")                                |
 | 13 | 2001 | '''[후야오위](../Page/후야오위.md "wikilink")                      | 1-0 | [마샤오춘](../Page/마샤오춘.md "wikilink")                            |
 |    |      |                                                            |     |                                                               |
 
@@ -51,9 +51,9 @@
 | 회수 | 연도   | 우승                                                       | 전적  | 준우승                                                           |
 | -- | ---- | -------------------------------------------------------- | --- | ------------------------------------------------------------- |
 | 1  | 2002 | **[마샤오춘](../Page/마샤오춘.md "wikilink")**                   | 1-0 | [딩웨이](https://ko.wikipedia.org/wiki/딩웨이 "wikilink")           |
-| 2  | 2003 | '''[저우허양](https://ko.wikipedia.org/wiki/저우허양 "wikilink") | 1-0 | [펑취안](https://ko.wikipedia.org/wiki/펑취안 "wikilink")           |
+| 2  | 2003 | '''[저우허양](https://ko.wikipedia.org/wiki/저우허양 "wikilink") | 1-0 | [펑취안](../Page/펑취안_\(바둑_기사\).md "wikilink")                    |
 | 3  | 2004 | '''[구리](../Page/구리_\(바둑_기사\).md "wikilink")              | 1-0 | [위빈](../Page/위빈_\(바둑_기사\).md "wikilink")                      |
-| 4  | 2005 | '''[류싱](https://ko.wikipedia.org/wiki/류싱 "wikilink")     | 1-0 | [구리](../Page/구리_\(바둑_기사\).md "wikilink")                      |
+| 4  | 2005 | '''[류싱](../Page/류싱.md "wikilink")                        | 1-0 | [구리](../Page/구리_\(바둑_기사\).md "wikilink")                      |
 | 5  | 2006 | '''[뤄시허](https://ko.wikipedia.org/wiki/뤄시허 "wikilink")   | 1-0 | [왕시](https://ko.wikipedia.org/wiki/왕시 "wikilink")             |
 | 6  | 2007 | '''[퍄오원야오](../Page/퍄오원야오.md "wikilink")                  | 1-0 | [천야오예](../Page/천야오예.md "wikilink")                            |
 | 7  | 2008 | '''[셰허](../Page/셰허.md "wikilink")                        | 1-0 | [리저](https://ko.wikipedia.org/wiki/리저 "wikilink")             |
@@ -80,11 +80,11 @@
 
 ### 당호십국(当湖十局)배
 
-| 회수 | 연도   | 우승                                                      | 전적  | 준우승                                                     |
-| -- | ---- | ------------------------------------------------------- | --- | ------------------------------------------------------- |
-| 1  | 2017 | **[장타오](https://ko.wikipedia.org/wiki/장타오 "wikilink")** | 1-0 | [리쉬안하오](https://ko.wikipedia.org/wiki/리쉬안하오 "wikilink") |
-| 2  | 2018 | **[판팅위](../Page/판팅위_\(1996년\).md "wikilink")**          | 1-0 | [판윈뤄](https://ko.wikipedia.org/wiki/판윈뤄 "wikilink")     |
-| 3  | 2019 | **[딩하오](https://ko.wikipedia.org/wiki/딩하오 "wikilink")** | 1-0 | [쉬자양](https://ko.wikipedia.org/wiki/쉬자양 "wikilink")     |
-|    |      |                                                         |     |                                                         |
+| 회수 | 연도   | 우승                                                                | 전적  | 준우승                                                     |
+| -- | ---- | ----------------------------------------------------------------- | --- | ------------------------------------------------------- |
+| 1  | 2017 | **[장타오](https://ko.wikipedia.org/wiki/장타오_\(바둑_기사\) "wikilink")** | 1-0 | [리쉬안하오](https://ko.wikipedia.org/wiki/리쉬안하오 "wikilink") |
+| 2  | 2018 | **[판팅위](../Page/판팅위_\(1996년\).md "wikilink")**                    | 1-0 | [판윈뤄](https://ko.wikipedia.org/wiki/판윈뤄 "wikilink")     |
+| 3  | 2019 | **[딩하오](https://ko.wikipedia.org/wiki/딩하오 "wikilink")**           | 1-0 | [쉬자양](../Page/쉬자양.md "wikilink")                        |
+|    |      |                                                                   |     |                                                         |
 
 [분류:중국의 바둑 기전](https://ko.wikipedia.org/wiki/분류:중국의_바둑_기전 "wikilink")

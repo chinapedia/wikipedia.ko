@@ -25,7 +25,7 @@
 
 저술가 잭 스피어스는 자신의 책 '헐리우드: 황금의 시대'에서, *How Brown Saw the Baseball Game*과 《*How the Office Boy Saw the Ball Game*》이 '사실상 같은 줄거리'를 가지고 있다고 썼다.\[20\] 저널 '베이스 볼'에 '야구 영화: 1920년까지'라는 제목의 글을 기고한 롭 엘더맨 역시 두 영화의 유사성을 언급했다.\[21\]
 
-, *How Brown Saw the Baseball Game*의 원본 존재 여부는 불확실하며, 사실상 [유실 영화이다](https://ko.wikipedia.org/wiki/유실_영화 "wikilink"). 만약 다시 발견될 경우 [퍼블릭 도메인](../Page/퍼블릭_도메인.md "wikilink") 상태가 될 것이다.\[22\]
+, *How Brown Saw the Baseball Game*의 원본 존재 여부는 불확실하며, 사실상 [유실 영화이다](../Page/유실_영화.md "wikilink"). 만약 다시 발견될 경우 [퍼블릭 도메인](../Page/퍼블릭_도메인.md "wikilink") 상태가 될 것이다.\[22\]
 
 ## 각주
 

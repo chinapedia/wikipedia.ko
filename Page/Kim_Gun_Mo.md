@@ -14,7 +14,7 @@
   - 베이스 기타 : 김현규, 이태윤
   - 드럼 : 김희연
   - 피아노 & 신디사이저 : 김효국, 김형석, 김건모
-  - 컴퓨터 프로그래밍 : 원창준 (iplayjun.com), 이두헌, 김건모
+  - 컴퓨터 프로그래밍 : 원창준(iplayjun.com), 이두헌, 김건모
   - 리믹스 : 김창환
   - 코러스 : 박광현, [박미경](../Page/박미경_\(가수\).md "wikilink"), [박선주](../Page/박선주_\(가수\).md "wikilink"), 천성일, 김건모
   - 색소폰 : [이정식](https://ko.wikipedia.org/wiki/이정식_\(음악가\) "wikilink")
@@ -22,4 +22,4 @@
 
 ## 외부 링크
 
-[분류:1992년 음반](https://ko.wikipedia.org/wiki/분류:1992년_음반 "wikilink") [분류:김건모의 음반](https://ko.wikipedia.org/wiki/분류:김건모의_음반 "wikilink") [분류:댄스 팝 음반](https://ko.wikipedia.org/wiki/분류:댄스_팝_음반 "wikilink")
+[분류:1992년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1992년_데뷔_음반 "wikilink") [분류:김건모의 음반](https://ko.wikipedia.org/wiki/분류:김건모의_음반 "wikilink") [분류:댄스 팝 음반](https://ko.wikipedia.org/wiki/분류:댄스_팝_음반 "wikilink")

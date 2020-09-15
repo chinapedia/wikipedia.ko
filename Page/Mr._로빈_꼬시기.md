@@ -14,7 +14,7 @@
   - [이성민](../Page/이성민_\(배우\).md "wikilink") : 양 상무 역
   - [옥지영](https://ko.wikipedia.org/wiki/옥지영 "wikilink") : 윤미 역
   - [백도빈](../Page/백도빈.md "wikilink") : 홍 대리 역
-  - [박현영](https://ko.wikipedia.org/wiki/박현영 "wikilink") : 선영 역
+  - [박현영](../Page/박현영_\(배우\).md "wikilink") : 선영 역
   - [이갑선](../Page/이갑선.md "wikilink") : 나진국 역
   - [이원우](https://ko.wikipedia.org/wiki/이원우_\(배우\) "wikilink") : 병태 역
   - [나츠키 요스케](https://ko.wikipedia.org/wiki/나츠키_요스케 "wikilink") : 미쯔요시 역

@@ -25,7 +25,7 @@
 
   - [인천 LNG복합발전소](http://www.poscoenergy.com/renew/_service/business/generator/incheon_power03.asp)
 
-[분류:인천 서구의 건축물](https://ko.wikipedia.org/wiki/분류:인천_서구의_건축물 "wikilink") [분류:대한민국의 화력 발전소](https://ko.wikipedia.org/wiki/분류:대한민국의_화력_발전소 "wikilink")
+[분류:대한민국의 천연가스 화력발전소](https://ko.wikipedia.org/wiki/분류:대한민국의_천연가스_화력발전소 "wikilink") [분류:인천 서구의 건축물](https://ko.wikipedia.org/wiki/분류:인천_서구의_건축물 "wikilink")
 
 1.  [전력통계정보시스템](https://epsis.kpx.or.kr/)
 2.  [LNG 복합화전 7·8·9호기 준공… 수도권 전력난 ‘숨통'](http://www.kyeonggi.com/news/articleView.html?idxno=743415)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ACD 레냐노](https://ko.wikipedia.org/wiki/ACD_레냐노).
 
 
-'''A.C. 레냐노 S.S.D. '''()는 [이탈리아](../Page/이탈리아.md "wikilink") [레냐노](https://ko.wikipedia.org/wiki/레냐노 "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1913년](../Page/1913년.md "wikilink")에 창단되었다. 2018-19 시즌 [이탈리아 축구 리그 시스템에서](../Page/이탈리아_축구_리그_시스템.md "wikilink") 5부 리그에 해당하는 [에첼렌차](https://ko.wikipedia.org/wiki/에첼렌차 "wikilink") [롬바르디아주](../Page/롬바르디아주.md "wikilink") 지역 리그에서 승격해 현재는 [세리에 D](https://ko.wikipedia.org/wiki/세리에_D "wikilink") (그룹 B)에서 경기하고 있다.
+'''A.C. 레냐노 S.S.D. '''()는 [이탈리아](../Page/이탈리아.md "wikilink") [레냐노](../Page/레냐노.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1913년](../Page/1913년.md "wikilink")에 창단되었다. 2018-19 시즌 [이탈리아 축구 리그 시스템에서](../Page/이탈리아_축구_리그_시스템.md "wikilink") 5부 리그에 해당하는 [에첼렌차](https://ko.wikipedia.org/wiki/에첼렌차 "wikilink") [롬바르디아주](../Page/롬바르디아주.md "wikilink") 지역 리그에서 승격해 현재는 [세리에 D](https://ko.wikipedia.org/wiki/세리에_D "wikilink") (그룹 B)에 참가하고 있다.
 
 ## 역사
 

@@ -45,6 +45,7 @@
 
 ## 외부 링크
 
+  - [LG전자 공식 사이트 'LG-F480S,L,K'](http://www.lge.co.kr/lgekor/product/mobile/smart-phone/productDetail.do?cateId=0210&prdId=EPRD.285234)
   - [LG전자 공식 사이트 'LG-T480S'](http://www.lge.co.kr/lgekor/product/mobile/smart-phone/productDetail.do?cateId=0210&prdId=EPRD.289278)
   - [LG 와인스마트 TV CF (스마트 + 폴더 편)](https://www.youtube.com/watch?v=QX1HBmh60K0)
   - [LG 와인스마트 TV CF (폴더 + 스마트 편)](https://www.youtube.com/watch?v=giKW8ktbQ4Y)

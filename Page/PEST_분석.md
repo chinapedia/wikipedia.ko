@@ -9,7 +9,7 @@
 
 주요 4 요소를 살펴보면 다음과 같다.
 
-  - 정치적(**Political**) 요소는 정부가 경제에 간섭하는 정도이다. 특별하게는 [세금](https://ko.wikipedia.org/wiki/세금 "wikilink"), [노동법](../Page/노동법.md "wikilink"), [무역](https://ko.wikipedia.org/wiki/무역 "wikilink") 제재, [환경법](https://ko.wikipedia.org/wiki/환경법 "wikilink"), [관세](../Page/관세.md "wikilink"), 정치적 안정성 등을 포괄한다. 정치적 요소는 정부 차원에서 진흥하거나 제재하고자 하는 재화나 용역의 종류를 포함하기도 한다. 국가적 차원에서 중앙정부가 보건, 교육, 인프라 구축 등에 끼치는 영향을 고려한다.
+  - 정치적(**Political**) 요소는 정부가 경제에 간섭하는 정도이다. 특별하게는 [세금](https://ko.wikipedia.org/wiki/세금 "wikilink"), [노동법](../Page/노동법.md "wikilink"), [무역](https://ko.wikipedia.org/wiki/무역 "wikilink") 제재, [환경법](../Page/환경법.md "wikilink"), [관세](../Page/관세.md "wikilink"), 정치적 안정성 등을 포괄한다. 정치적 요소는 정부 차원에서 진흥하거나 제재하고자 하는 재화나 용역의 종류를 포함하기도 한다. 국가적 차원에서 중앙정부가 보건, 교육, 인프라 구축 등에 끼치는 영향을 고려한다.
 
 <!-- end list -->
 

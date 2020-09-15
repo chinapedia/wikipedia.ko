@@ -1,22 +1,22 @@
 > This article is converted from Wikipedia: [스팀OS](https://ko.wikipedia.org/wiki/스팀OS).
 
 
-**스팀OS**()는 [밸브 코퍼레이션이](../Page/밸브_코퍼레이션.md "wikilink") 개발한 컴퓨터 [운영 체제이다](../Page/운영_체제.md "wikilink"). [스팀 머신](https://ko.wikipedia.org/wiki/스팀_머신 "wikilink") [비디오 게임 콘솔용](../Page/비디오_게임_콘솔.md "wikilink") 주 운영 체제로 설계되었다. 스팀 머신용 최종 사용자 베타 테스팅 시작과 함께 2013년 12월 13일에 첫 출시되었다.
+**스팀OS**()는 [밸브 코퍼레이션이](../Page/밸브_코퍼레이션.md "wikilink") 개발한 게임에 특화된 컴퓨터 [운영 체제이다](../Page/운영_체제.md "wikilink"). [스팀](../Page/스팀_\(소프트웨어\).md "wikilink") [비디오 게임용](../Page/비디오_게임.md "wikilink") 주 운영 체제로 설계되었다. 스팀 머신용 최종 사용자 베타 테스팅 시작과 함께 2013년 12월 13일에 첫 출시되었다.
 
 ## 기능
 
-스팀OS는 거실에서 비디오 게임을 하는 데 초점을 맞추어 설계되어 있다. 사용자들은 윈도우, 맥, 리눅스 컴퓨터로부터 스팀OS를 구동 중인 시스템으로 스트리밍할 수 있으며, 데스크톱에 동일한 형태의 공유 및 제한을 통합한다.\[1\]
+스팀OS는 거실에서 비디오 게임을 하는 데 초점을 맞추어 설계되어 있다. 사용자는 일반 데스크톱 컴퓨터나, 미니 컴퓨터에 윈도우처럼 설치해서 스팀 머신처럼 사용할 수 있다. 사용자들은 윈도우, 맥, 리눅스 컴퓨터로부터 스팀OS를 구동 중인 시스템으로 스트리밍할 수 있으며, 데스크톱에 동일한 형태의 공유 및 제한을 통합한다.\[1\]
 
 ### 시스템 요구 사항
 
 기본 스팀OS 설치본을 위한 현재의 시스템 하드웨어 요구 사항은 다음을 포함한다:\[2\]
 
-  - [인텔](../Page/인텔.md "wikilink") 또는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink") 64비트 지원 프로세서
-  - 4 GB 이상의 [램](https://ko.wikipedia.org/wiki/램 "wikilink")
-  - 200 GB 이상의 [하드 디스크](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink")
-  - [엔비디아](../Page/엔비디아.md "wikilink") (페르미 그래픽 카드 이상\[3\]), [인텔](../Page/인텔.md "wikilink"), [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink") 그래픽 카드 ([라데온 HD 5XXX](https://ko.wikipedia.org/wiki/라데온_HD_5000_시리즈 "wikilink") 이상)
+  - [인텔](../Page/인텔.md "wikilink") 또는 [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink") 64비트 호환 프로세서
+  - 4GB 이상의 [램](https://ko.wikipedia.org/wiki/램 "wikilink")
+  - 200GB 이상의 [하드 디스크](https://ko.wikipedia.org/wiki/하드_디스크 "wikilink")
+  - [엔비디아](../Page/엔비디아.md "wikilink"), [인텔](../Page/인텔.md "wikilink"), [AMD](https://ko.wikipedia.org/wiki/AMD "wikilink") 그래픽 카드 ([라데온 8500](https://ko.wikipedia.org/wiki/라데온_HD_5000_시리즈 "wikilink") 및 이후 제품)
   - 설치를 위한 [USB](../Page/USB.md "wikilink") 포트
-  - [UEFI](../Page/통일_확장_펌웨어_인터페이스.md "wikilink") 부팅 지원
+  - [UEFI](../Page/통일_확장_펌웨어_인터페이스.md "wikilink") 부팅 지원\[3\]
 
 추가적인 구성 단계를 요구하는 사용자 지정 설치 방식도 이용 가능하다. 이 방식을 이용하면 용량이 작은 하드 디스크에도 설치할 수 있다. 레거시 BIOS 메인보드를 지원하는 ISO 이미지 인스톨러도 존재한다.\[4\] 인스톨러는 밸브 저장소를 통해 받을 수 있다.\[5\]
 

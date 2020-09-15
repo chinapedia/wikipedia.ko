@@ -95,7 +95,7 @@
 </tr>
 <tr class="odd">
 <td><p>1994년<br />
-<a href="https://ko.wikipedia.org/wiki/1994년_UEFA_U-21_축구_선수권_대회" title="wikilink">자세히</a></p></td>
+<a href="../Page/1994년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">자세히</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong> (<a href="../Page/연장전.md" title="wikilink">연장전</a>)</p></td>
@@ -103,7 +103,7 @@
 </tr>
 <tr class="even">
 <td><p>1996년<br />
-<a href="https://ko.wikipedia.org/wiki/1996년_UEFA_U-21_축구_선수권_대회" title="wikilink">자세히</a></p></td>
+<a href="../Page/1996년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">자세히</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 1</strong><br />
@@ -112,7 +112,7 @@
 </tr>
 <tr class="odd">
 <td><p>1998년<br />
-<a href="https://ko.wikipedia.org/wiki/1998년_UEFA_U-21_축구_선수권_대회" title="wikilink">자세히</a></p></td>
+<a href="../Page/1998년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">자세히</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1 : 0</strong></p></td>
@@ -234,12 +234,12 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>5 (<a href="https://ko.wikipedia.org/wiki/1986년_UEFA_U-21_축구_선수권_대회" title="wikilink">1986</a>, <a href="https://ko.wikipedia.org/wiki/1998년_UEFA_U-21_축구_선수권_대회" title="wikilink">1998</a>, <a href="../Page/2011년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2011</a>, <a href="../Page/2013년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2013</a>, <a href="https://ko.wikipedia.org/wiki/2019년_UEFA_U-21_축구_선수권_대회" title="wikilink">2019</a>)</p></td>
-<td><p>3 (<a href="https://ko.wikipedia.org/wiki/1984년_UEFA_U-21_축구_선수권_대회" title="wikilink">1984</a>, <a href="https://ko.wikipedia.org/wiki/1996년_UEFA_U-21_축구_선수권_대회" title="wikilink">1996</a>, <a href="https://ko.wikipedia.org/wiki/2017년_UEFA_U-21_축구_선수권_대회" title="wikilink">2017</a>)</p></td>
+<td><p>5 (<a href="https://ko.wikipedia.org/wiki/1986년_UEFA_U-21_축구_선수권_대회" title="wikilink">1986</a>, <a href="../Page/1998년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">1998</a>, <a href="../Page/2011년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2011</a>, <a href="../Page/2013년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2013</a>, <a href="https://ko.wikipedia.org/wiki/2019년_UEFA_U-21_축구_선수권_대회" title="wikilink">2019</a>)</p></td>
+<td><p>3 (<a href="https://ko.wikipedia.org/wiki/1984년_UEFA_U-21_축구_선수권_대회" title="wikilink">1984</a>, <a href="../Page/1996년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">1996</a>, <a href="https://ko.wikipedia.org/wiki/2017년_UEFA_U-21_축구_선수권_대회" title="wikilink">2017</a>)</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>5 (<a href="https://ko.wikipedia.org/wiki/1992년_UEFA_U-21_축구_선수권_대회" title="wikilink">1992</a>, <a href="https://ko.wikipedia.org/wiki/1994년_UEFA_U-21_축구_선수권_대회" title="wikilink">1994</a>, <a href="https://ko.wikipedia.org/wiki/1996년_UEFA_U-21_축구_선수권_대회" title="wikilink">1996</a>, <a href="../Page/2000년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2000</a>, <a href="../Page/2004년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2004</a>)</p></td>
+<td><p>5 (<a href="https://ko.wikipedia.org/wiki/1992년_UEFA_U-21_축구_선수권_대회" title="wikilink">1992</a>, <a href="../Page/1994년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">1994</a>, <a href="../Page/1996년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">1996</a>, <a href="../Page/2000년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2000</a>, <a href="../Page/2004년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2004</a>)</p></td>
 <td><p>2 (<a href="https://ko.wikipedia.org/wiki/1986년_UEFA_U-21_축구_선수권_대회" title="wikilink">1986</a>, <a href="../Page/2013년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2013</a>)</p></td>
 </tr>
 <tr class="odd">
@@ -290,12 +290,12 @@
 <tr class="even">
 <td></td>
 <td><p>–</p></td>
-<td><p>2 (<a href="https://ko.wikipedia.org/wiki/1988년_UEFA_U-21_축구_선수권_대회" title="wikilink">1988</a>, <a href="https://ko.wikipedia.org/wiki/1998년_UEFA_U-21_축구_선수권_대회" title="wikilink">1998</a>)</p></td>
+<td><p>2 (<a href="https://ko.wikipedia.org/wiki/1988년_UEFA_U-21_축구_선수권_대회" title="wikilink">1988</a>, <a href="../Page/1998년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">1998</a>)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>–</p></td>
-<td><p>2 (<a href="https://ko.wikipedia.org/wiki/1994년_UEFA_U-21_축구_선수권_대회" title="wikilink">1994</a>, <a href="../Page/2015년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2015</a>)</p></td>
+<td><p>2 (<a href="../Page/1994년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">1994</a>, <a href="../Page/2015년_UEFA_U-21_축구_선수권_대회.md" title="wikilink">2015</a>)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -430,7 +430,7 @@
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파비안_루이스" title="wikilink">파비안 루이스</a></p></td>
+<td><p><a href="../Page/파비안_루이스.md" title="wikilink">파비안 루이스</a></p></td>
 <td></td>
 </tr>
 </tbody>

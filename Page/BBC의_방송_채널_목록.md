@@ -55,7 +55,7 @@
   - **[BBC 사우스웨스트](../Page/BBC_사우스웨스트.md "wikilink")**
       - [BBC 채널 아일랜즈](https://ko.wikipedia.org/wiki/BBC_채널_아일랜즈 "wikilink") - 채널 제도 대상
   - **[BBC One 웨스트](../Page/BBC_웨스트.md "wikilink")**
-  - **[BBC One 웨스트미들랜즈](https://ko.wikipedia.org/wiki/BBC_웨스트미들랜즈 "wikilink")**
+  - **[BBC One 웨스트미들랜즈](../Page/BBC_웨스트미들랜즈.md "wikilink")**
   - **[BBC One 요크셔 링컨셔](../Page/BBC_요크셔_링컨셔.md "wikilink")**
   - **[BBC One 요크셔](../Page/BBC_요크셔.md "wikilink")**
 

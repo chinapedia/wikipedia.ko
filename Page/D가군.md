@@ -15,7 +15,7 @@
 이는 다음과 같은 공리를 만족시켜야 한다. 모든 \(\mathcal O_X\)의 단면 \(f\), \(\mathcal M\)의 단면 \(m\), \(X\) 위의 [벡터장](../Page/벡터장.md "wikilink") \(u,v\)에 대하여,
 
   - (\(\mathcal O_X\)-선형성) \(\nabla_{fv}m=f(\nabla_vm)\)
-  - ([곱의 법칙](../Page/곱의_법칙_\(미적분학\).md "wikilink")) \(\nabla_v(fm)=(\nabla_vf)m+f\nabla_vm\)
+  - ([곱 규칙](https://ko.wikipedia.org/wiki/곱_규칙 "wikilink")) \(\nabla_v(fm)=(\nabla_vf)m+f\nabla_vm\)
   - ([리 괄호에](https://ko.wikipedia.org/wiki/리_괄호 "wikilink") 대한 [준동형](../Page/준동형.md "wikilink")) \(\nabla_{[u,v]}=[\nabla_v,\nabla_v]\)
 
 ## 예

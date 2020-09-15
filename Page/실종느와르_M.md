@@ -32,7 +32,7 @@
   - [진용욱](../Page/진용욱.md "wikilink")
   - [장준녕](https://ko.wikipedia.org/wiki/장준녕 "wikilink")
   - [김종두](https://ko.wikipedia.org/wiki/김종두 "wikilink")
-  - [강민태](https://ko.wikipedia.org/wiki/강민태 "wikilink") : 사채업자 2 역
+  - [강민태](../Page/강민태.md "wikilink") : 사채업자 2 역
   - [장하람](https://ko.wikipedia.org/wiki/장하람 "wikilink") : 사채업자 3 역
   - [서은아](../Page/서은아.md "wikilink") : 은채린 역
   - [박주희](../Page/박주희_\(1987년\).md "wikilink") : 이지수 역

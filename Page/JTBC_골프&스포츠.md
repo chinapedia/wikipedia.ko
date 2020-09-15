@@ -5,17 +5,17 @@
 
 ## 역사
 
-2015년 8월 1일 [JTBC](../Page/JTBC.md "wikilink")가 세계 최대 TV 네트워크사 폭스 인터내셔널 채널 아시아(FOX International Channels Asiaㆍ이하 FIC)와 손을 잡고 스포츠종합채널인 (구) JTBC3 폭스 스포츠(FOX Sports)의 개국을 하루 앞두고 7월 28일 오전 상암동 본사 사옥에서 FIC와 전략적 업무 제휴를 체결했다.\[1\] 또한 2020년 3월 11일자로 채널명이 JTBC 골프&스포츠(JTBC GOLF\&SPORTS)로 변경되었다.
+2015년 8월 1일 [JTBC](../Page/JTBC.md "wikilink")가 세계 최대 TV 네트워크사 폭스 인터내셔널 채널 아시아(FOX International Channels Asiaㆍ이하 FIC)와 손을 잡고 스포츠종합채널인 (구) JTBC 골프&스포츠(GOLF\&SPORTS)의 개국을 하루 앞두고 7월 28일 오전 상암동 본사 사옥에서 FIC와 전략적 업무 제휴를 체결했다.\[1\] 또한 2020년 3월 11일자로 채널명이 JTBC 골프&스포츠(JTBC GOLF\&SPORTS)로 변경되었다.
 
-## 연혁
+### 연혁
 
-  - 2015년 8월 1일 과거 다큐멘터리 채널인 [에스트리](../Page/에스트리.md "wikilink")를 인수하여 개국했다. IPTV 채널인 B tv는 126번, [올레 TV](../Page/올레_TV.md "wikilink") 는 61번이다.
+  - 2015년 8월 1일 과거 다큐멘터리 채널인 [에스트리](../Page/에스트리.md "wikilink")를 인수하여 JTBC3 FOX SPORTS로 개국했고 2020년 3월 11일 채널명이 JTBC 골프&스포츠로 변경되었다.
 
 ## 아나운서
 
-  - [임경진](../Page/임경진.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink") 소속 아나운서)
-  - [이진욱](../Page/이진욱.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink") 소속 아나운서)
-  - [송민교](../Page/송민교.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink") 소속 아나운서)
+  - [임경진](../Page/임경진.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink") 소속)
+  - [이진욱](../Page/이진욱.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink") 소속)
+  - [송민교](../Page/송민교.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink") 소속)
   - 이인환 (프리랜서)
   - 박기덕 (프리랜서)
   - 박용식 (프리랜서)

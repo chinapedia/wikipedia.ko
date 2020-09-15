@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Mr. Simple \(노래\)](https://ko.wikipedia.org/wiki/Mr._Simple_\(노래\)).
 
 
-《**Mr. Simple**》은 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")가 일본에서 발매한 2번째 싱글이다.
+《**Mr. Simple**》은 [대한민국](../Page/대한민국.md "wikilink")의 남성 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 일본에서 발매한 2번째 싱글이다.
 
 ## 개요
 

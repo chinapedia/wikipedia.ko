@@ -21,10 +21,10 @@
 
   - [《영화 도라에몽》 공식 사이트](http://www.dora-move.com/)
 
-  - [도라에몽 3D Short 프롤로그](http://dora-world.com/yojigen/3d_short/no1.html)
+  - [도라에몽 3D Short 프롤로그](https://web.archive.org/web/20150707214340/http://dora-world.com/yojigen/3d_short/no1.html)
 
-  - [도라에몽 3D Short 도라야키 공장](http://dora-world.com/yojigen/3d_short/no2.html)
+  - [도라에몽 3D Short 도라야키 공장](https://web.archive.org/web/20151104021941/http://dora-world.com/yojigen/3d_short/no2.html)
 
-  - [도라에몽 3D Short 오시즈카니](http://dora-world.com/yojigen/3d_short/no3.html)
+  - [도라에몽 3D Short 오시즈카니](https://web.archive.org/web/20160303181332/http://dora-world.com/yojigen/3d_short/no3.html)
 
 [분류:도라에몽 영화](https://ko.wikipedia.org/wiki/분류:도라에몽_영화 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink") [분류:2008년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2008년_애니메이션_영화 "wikilink")

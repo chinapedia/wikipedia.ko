@@ -219,7 +219,7 @@
 ##### 뉴클레오시드/뉴클레오티드 역전사 효소 억제제
 
   - [아바카비르](https://ko.wikipedia.org/wiki/아바카비르 "wikilink") (ABC)
-  - [디다노신](https://ko.wikipedia.org/wiki/디다노신 "wikilink") (ddI)
+  - [디다노신](../Page/디다노신.md "wikilink") (ddI)
   - [엠트리시타빈](https://ko.wikipedia.org/wiki/엠트리시타빈 "wikilink") (FTC)\[19\]
   - [라미부딘](https://ko.wikipedia.org/wiki/라미부딘 "wikilink") (3TC)
   - [스타부딘](https://ko.wikipedia.org/wiki/스타부딘 "wikilink") (d4T)
@@ -424,11 +424,11 @@
 
 ### 혈장 대체제
 
-  - [덱스트란](https://ko.wikipedia.org/wiki/덱스트란 "wikilink") 70\[42\]
+  - [덱스트란](../Page/덱스트란.md "wikilink") 70\[42\]
 
 ## 심혈관계 제제
 
-### 항협십증제
+### 항협심증제
 
   - [비소프롤롤](../Page/비소프롤롤.md "wikilink")\[43\]
   - [삼질산글리세린](https://ko.wikipedia.org/wiki/삼질산글리세린 "wikilink")
@@ -695,7 +695,7 @@
 
   - [아시클로버](../Page/아시클로버.md "wikilink")
   - [아지스로마이신](https://ko.wikipedia.org/wiki/아지스로마이신 "wikilink")
-  - [겐타마이신](https://ko.wikipedia.org/wiki/겐타마이신 "wikilink")
+  - [겐타마이신](../Page/겐타마이신.md "wikilink")
   - [테트라사이클린](https://ko.wikipedia.org/wiki/테트라사이클린 "wikilink")
 
 ### 항염증제
@@ -732,7 +732,7 @@
   - [에르고메트린](https://ko.wikipedia.org/wiki/에르고메트린 "wikilink")
   - [미소프로스톨](https://ko.wikipedia.org/wiki/미소프로스톨 "wikilink")
   - [옥시토신](../Page/옥시토신.md "wikilink")
-  - [미페프리스톤](https://ko.wikipedia.org/wiki/미페프리스톤 "wikilink") - [미소프로스톨](https://mmv.kr) \[53\]
+  - [미페프리스톤](../Page/미페프리스톤.md "wikilink") - 미소프로스톨 \[53\]
 
 ### 항자궁수축제
 
@@ -751,6 +751,8 @@
   - [할로페리돌](../Page/할로페리돌.md "wikilink")
   - [리스페리돈](../Page/리스페리돈.md "wikilink")
   - [클로자핀](../Page/클로자핀.md "wikilink")
+  - [쿠에티아핀](../Page/쿠에티아핀.md "wikilink")
+  - [아리피프라졸](../Page/아리피프라졸.md "wikilink")
 
 ### 기분 장애에 쓰이는 제제
 
@@ -758,12 +760,14 @@
 
   - [아미트리프틸린](../Page/아미트리프틸린.md "wikilink")
   - [플루옥세틴](../Page/플루옥세틴.md "wikilink")
+  - [에스시탈로프람](../Page/에스시탈로프람.md "wikilink")
 
 #### 양극성 장애에 쓰이는 제제
 
   - [카르바마제핀](../Page/카르바마제핀.md "wikilink")
   - [탄산리튬](https://ko.wikipedia.org/wiki/탄산리튬 "wikilink")
-  - [발프로익산](https://ko.wikipedia.org/wiki/발프로익산 "wikilink") ([발프로익산나트륨](https://ko.wikipedia.org/wiki/발프로익산나트륨 "wikilink"))
+  - [발프로익산](https://ko.wikipedia.org/wiki/발프로익산 "wikilink") (발프로산나트륨/마그네슘)
+  - [토피라메이트](../Page/토피라메이트.md "wikilink")
 
 ### 불안장애에 쓰이는 제제
 
@@ -776,7 +780,7 @@
 ### 정신 활성 약물의 사용으로 인한 장애 치료제
 
   - [니코틴 대체 요법](https://ko.wikipedia.org/wiki/니코틴_대체_요법 "wikilink") (NRT)
-  - [메타돈](../Page/메타돈.md "wikilink")
+  - [부프로피온](../Page/부프로피온.md "wikilink") (금연치료의약품)
 
 ## 기도에 작용하는 제제
 

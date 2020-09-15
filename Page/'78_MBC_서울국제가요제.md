@@ -70,14 +70,14 @@
 8.  "장미의 여인 (숙자매)" ([장익환](https://ko.wikipedia.org/wiki/장익환 "wikilink") 작사 / [장익환](https://ko.wikipedia.org/wiki/장익환 "wikilink") 작곡) ***- 본선 진출***
 9.  "더욱 큰 사랑 (장현)" ([장덕](../Page/장덕.md "wikilink") 작사 / [장덕](../Page/장덕.md "wikilink") 작곡) ***- 본선 진출***
 10. "사랑할 줄 아는 사람 (소리나)" ([마상원](../Page/마상원.md "wikilink") 작사 / [마상원](../Page/마상원.md "wikilink") 작곡)
-11. "꽃잎이여 영원하라 (현혜미)" ([안건마](https://ko.wikipedia.org/wiki/안건마 "wikilink") 작사 / [안건마](https://ko.wikipedia.org/wiki/안건마 "wikilink") 작곡)
+11. "꽃잎이여 영원하라 (현혜미)" ([안건마](../Page/안건마.md "wikilink") 작사 / [안건마](../Page/안건마.md "wikilink") 작곡)
 12. "토함산 (송창식)" ([송창식](https://ko.wikipedia.org/wiki/송창식 "wikilink") 작사 / [송창식](https://ko.wikipedia.org/wiki/송창식 "wikilink") 작곡) ***- 본선 진출***
 13. "공연히 (윤시내&사계절)" ([최종혁](../Page/최종혁.md "wikilink") 작사 / [최종혁](../Page/최종혁.md "wikilink") 작곡) ***- 본선 진출***
 14. "음악에 젖어 (유준)" ([허대운](https://ko.wikipedia.org/wiki/허대운 "wikilink") 작사 / [허대운](https://ko.wikipedia.org/wiki/허대운 "wikilink") 작곡)
 15. "아\! 사랑아 (정미조)" ([김기웅](../Page/김기웅.md "wikilink") 작사 / [김기웅](../Page/김기웅.md "wikilink") 작곡) ***- 동경가요제 파견***
 16. "내님아 (김민)" ([김민](https://ko.wikipedia.org/wiki/김민 "wikilink") 작사 / [황중원](https://ko.wikipedia.org/wiki/황중원 "wikilink") 작곡) ***- 일본곡 표절로 탈락***
 17. "이슬비 (맹일하)" ([임성하](https://ko.wikipedia.org/wiki/임성하 "wikilink") 작사 / [맹원식](https://ko.wikipedia.org/wiki/맹원식 "wikilink") 작곡)
-18. "당신의 꿈을 나에게 (이세진)" ([장욱조](https://ko.wikipedia.org/wiki/장욱조 "wikilink") 작사 / [장욱조](https://ko.wikipedia.org/wiki/장욱조 "wikilink") 작곡) ***- 기 발표곡으로 참가 탈락***
+18. "당신의 꿈을 나에게 (이세진)" ([장욱조](../Page/장욱조.md "wikilink") 작사 / [장욱조](../Page/장욱조.md "wikilink") 작곡) ***- 기 발표곡으로 참가 탈락***
 19. "곡예사의 첫사랑 (박경애)" ([정민섭](https://ko.wikipedia.org/wiki/정민섭 "wikilink") 작사 / [정민섭](https://ko.wikipedia.org/wiki/정민섭 "wikilink") 작곡) ***- 본선 진출***
 20. "바늘과 실 (윤복희)" ([윤항기](../Page/윤항기.md "wikilink") 작사 / [윤항기](../Page/윤항기.md "wikilink") 작곡) ***- 본선 진출***
 

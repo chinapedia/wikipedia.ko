@@ -25,7 +25,7 @@
 
 소프트웨어는 총 3차 업데이트까지 진행되었다.
 
-1차 - 2016년 1월 21일 1.크롬 브라우져를 기본 인터넷 사용으로 설정 2.기타 성능 개선 적용
+1차 - 2016년 1월 21일 1.크롬 브라우저를 기본 인터넷 사용으로 설정 2.기타 성능 개선 적용
 
 2차 - 2016년 2월 25일 1.내부 저장공간 표기 수정 2. 안드로이드 보안 패치 적용 3.뮤직에서 한글제목 깨지는 현상 수정 4.수신거절 목록 업데이트 5.계산기 오류수정 6.입력기에서 자음 입력한 뒤 장시간 경과 후 모음 입력 시 문자조합이 완성되지 않는 문제 수정(입력기)
 
@@ -61,8 +61,8 @@
 
 ## 외부 링크
 
-  - [원터치 공식홈페이지](http://www.alcatelonetouch.co.kr/)
-  - [SOL폰 액세서리](http://www.alcatelonetouch.co.kr/accessory/accessory_main_v2.asp)
-  - [SOL폰 소프트웨어 다운로드](http://www.alcatelonetouch.co.kr/service/download.asp?gubun=1)
+  - [원터치 공식홈페이지](https://web.archive.org/web/20170403214701/http://alcatelonetouch.co.kr/)
+  - [SOL폰 액세서리](https://web.archive.org/web/20170213001925/http://www.alcatelonetouch.co.kr/accessory/accessory_main_v2.asp)
+  - [SOL폰 소프트웨어 다운로드](https://web.archive.org/web/20170213001137/http://www.alcatelonetouch.co.kr/service/download.asp?gubun=1)
 
 [분류:2016년 도입](https://ko.wikipedia.org/wiki/분류:2016년_도입 "wikilink") [분류:안드로이드 장치](https://ko.wikipedia.org/wiki/분류:안드로이드_장치 "wikilink")

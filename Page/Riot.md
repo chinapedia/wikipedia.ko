@@ -61,4 +61,4 @@
 3.
 4.  <https://twitter.com/EMPIREdi/status/429356768834363393>
 5.  <http://www.ballerstatus.com/2007/07/26/nick-cannon-qd3-launch-star-camp-on-nickelodeon/>
-6.  <http://www.thewhoslookinglist.com/top-20-list-hall-of-fame/>
+6.

@@ -15,7 +15,7 @@
 
   - [천진우](https://ko.wikipedia.org/wiki/천진우\(축구\) "wikilink")
 
-  - [정수인](https://ko.wikipedia.org/wiki/정수인 "wikilink")
+  - [정수인](https://ko.wikipedia.org/wiki/정수인_\(축구_선수\) "wikilink")
 
   - [백장현](https://ko.wikipedia.org/wiki/백장현 "wikilink")
 

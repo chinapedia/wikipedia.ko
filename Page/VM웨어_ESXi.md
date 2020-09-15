@@ -20,6 +20,7 @@ ESX라는 이름은 Elastic Sky X의 준말이다.\[3\]\[4\]
 
   - [VMware ESX product page](http://www.vmware.com/support/vsphere-hypervisor.html)
   - [ESXi Release and Build Number History](http://www.virten.net/vmware/esxi-release-build-number-history/)
+  - [VMware ESXi Image For HPE Servers](https://www.hpe.com/kr/ko/servers/hpe-esxi.html)
 
 [ESX](https://ko.wikipedia.org/wiki/분류:VM웨어 "wikilink")
 

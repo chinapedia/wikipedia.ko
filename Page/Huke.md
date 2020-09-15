@@ -54,7 +54,7 @@
 
   -
   -
-[분류:일본의 삽화가](https://ko.wikipedia.org/wiki/분류:일본의_삽화가 "wikilink") [분류:supercell](https://ko.wikipedia.org/wiki/분류:supercell "wikilink") [분류:1981년 태어남](https://ko.wikipedia.org/wiki/분류:1981년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink")
+[분류:일본의 삽화가](https://ko.wikipedia.org/wiki/분류:일본의_삽화가 "wikilink") [분류:Supercell](https://ko.wikipedia.org/wiki/분류:Supercell "wikilink") [분류:1981년 태어남](https://ko.wikipedia.org/wiki/분류:1981년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink")
 
 1.  메탈 기어 솔리드 시리즈 스탭 롤, [deviantART](https://ko.wikipedia.org/wiki/deviantART "wikilink") 등록명
 2.

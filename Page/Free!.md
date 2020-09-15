@@ -712,6 +712,10 @@
 
 《**극장판 Free\! -Road to the World- 꿈**》(프리 다이브 로드 투 더 월드, )의 타이틀로, 《**Free\! -Dive to the Future-**》(프리 다이브 투 더 퓨쳐)를 재구축하여, 새로운 에피소드를 추가해 극장판이 제작. [2019년](../Page/2019년.md "wikilink") [7월 5일에](../Page/7월_5일.md "wikilink") 공개.
 
+### 2021년 완전 제작 극장판
+
+[2021년](../Page/2021년.md "wikilink")에 공개 예정.
+
 ## 각주
 
 <references/>
@@ -750,7 +754,7 @@
 
   - [《하이☆스피드\!》공식 사이트 - KA 에스마 문고](http://www.kyotoanimation.co.jp/books/highspeed/)
 
-[분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:교토 애니메이션](https://ko.wikipedia.org/wiki/분류:교토_애니메이션 "wikilink") [분류:2013년 애니메이션](https://ko.wikipedia.org/wiki/분류:2013년_애니메이션 "wikilink") [분류:UHF 애니메이션](https://ko.wikipedia.org/wiki/분류:UHF_애니메이션 "wikilink") [분류:TV 아사히 계열 심야 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_아사히_계열_심야_애니메이션 "wikilink") [분류:애니맥스](https://ko.wikipedia.org/wiki/분류:애니맥스 "wikilink") [분류:오리지널 비디오 애니메이션](https://ko.wikipedia.org/wiki/분류:오리지널_비디오_애니메이션 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink") [분류:학원 만화](https://ko.wikipedia.org/wiki/분류:학원_만화 "wikilink") [분류:수영 만화](https://ko.wikipedia.org/wiki/분류:수영_만화 "wikilink") [분류:스포츠 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:스포츠_텔레비전_애니메이션 "wikilink") [분류:수영을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:수영을_소재로_한_작품 "wikilink") [분류:고등학교를 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:고등학교를_배경으로_한_작품 "wikilink") [분류:고등학교를 배경으로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:고등학교를_배경으로_한_애니메이션 "wikilink") [분류:돗토리현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:돗토리현을_배경으로_한_영화 "wikilink") [분류:라이트 노벨의 애니메이션화 작품](https://ko.wikipedia.org/wiki/분류:라이트_노벨의_애니메이션화_작품 "wikilink") [분류:돗토리현을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:돗토리현을_배경으로_한_작품 "wikilink") [분류:2013년 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:2013년_텔레비전_애니메이션 "wikilink") [분류:2013년 소설](https://ko.wikipedia.org/wiki/분류:2013년_소설 "wikilink")
+[분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:교토 애니메이션](https://ko.wikipedia.org/wiki/분류:교토_애니메이션 "wikilink") [분류:2013년 애니메이션](https://ko.wikipedia.org/wiki/분류:2013년_애니메이션 "wikilink") [분류:UHF 애니메이션](https://ko.wikipedia.org/wiki/분류:UHF_애니메이션 "wikilink") [분류:TV 아사히 계열 심야 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_아사히_계열_심야_애니메이션 "wikilink") [분류:애니맥스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:애니맥스의_텔레비전_프로그램 "wikilink") [분류:오리지널 비디오 애니메이션](https://ko.wikipedia.org/wiki/분류:오리지널_비디오_애니메이션 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink") [분류:학원 만화](https://ko.wikipedia.org/wiki/분류:학원_만화 "wikilink") [분류:수영 만화](https://ko.wikipedia.org/wiki/분류:수영_만화 "wikilink") [분류:스포츠 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:스포츠_텔레비전_애니메이션 "wikilink") [분류:수영을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:수영을_소재로_한_작품 "wikilink") [분류:고등학교를 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:고등학교를_배경으로_한_작품 "wikilink") [분류:고등학교를 배경으로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:고등학교를_배경으로_한_애니메이션 "wikilink") [분류:돗토리현을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:돗토리현을_배경으로_한_영화 "wikilink") [분류:라이트 노벨의 애니메이션화 작품](https://ko.wikipedia.org/wiki/분류:라이트_노벨의_애니메이션화_작품 "wikilink") [분류:돗토리현을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:돗토리현을_배경으로_한_작품 "wikilink") [분류:2013년 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:2013년_텔레비전_애니메이션 "wikilink") [분류:2013년 소설](https://ko.wikipedia.org/wiki/분류:2013년_소설 "wikilink") [분류:2021년 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:2021년_애니메이션_영화 "wikilink")
 
 1.
 2.

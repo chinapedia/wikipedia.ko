@@ -3,7 +3,7 @@
 
 **ESET**은 1992년 설립된 IT 보안 서비스 기업으로, 본사는 [슬로바키아](../Page/슬로바키아.md "wikilink") [브라티슬라바](../Page/브라티슬라바.md "wikilink")에 위치해 있다.\[1\] ESET은 2008년, 2009년, 2010년 가장 성공한 슬로바키아 기업으로 선정되었다.\[2\]\[3\]
 
-ESET은 [ESET NOD32와](https://ko.wikipedia.org/wiki/ESET_NOD32 "wikilink") 같은 [바이러스 검사 소프트웨어](../Page/바이러스_검사_소프트웨어.md "wikilink") 와 [방화벽](https://ko.wikipedia.org/wiki/방화벽_\(컴퓨팅\) "wikilink") 제품 등을 제공하면서, [바이러스 검사 소프트웨어에서](../Page/바이러스_검사_소프트웨어.md "wikilink") 경쟁하고 있다.
+ESET은 [ESET NOD32와](../Page/ESET_NOD32.md "wikilink") 같은 [바이러스 검사 소프트웨어](../Page/바이러스_검사_소프트웨어.md "wikilink") 와 [방화벽](https://ko.wikipedia.org/wiki/방화벽_\(컴퓨팅\) "wikilink") 제품 등을 제공하면서, [바이러스 검사 소프트웨어에서](../Page/바이러스_검사_소프트웨어.md "wikilink") 경쟁하고 있다.
 
 ## 같이 보기
 

@@ -330,10 +330,10 @@
   - Juice=Juice LIVE TOUR 2019 \~Con Amor J=J DAY SPECIAL\~ (2019년 10월 10일, 마이나비 BLITZ 아카사카)
   - Juice=Juice Concert 2019 \~octopic\!\~ (2019년 12월 4일, [국립 요요기 제일 체육관](../Page/국립_요요기_경기장.md "wikilink"))
       - 국내 23곳의 극장에서 라이브 뷰잉을 실시
-  - Juice=Juice LIVE TOUR 2020 \~NEW SENSATION\~ (2020년 2월 3일 \~ 7월 14일, 3개 도시 7회 공연)\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]
-  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ (공연 중지, 일자 미정)\[22\]\[23\]\[24\]
-  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ FINAL (2020년 공연 중지, 일자 미정, 도쿄 커튼 시어터)\[25\]
-  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ FINAL 미야모토 카린 졸업 스페셜 (공연 중지, 일자 미정, 도쿄 커튼 시어터)\[26\]\[27\]
+  - Juice=Juice LIVE TOUR 2020 \~NEW SENSATION\~ (2020년 2월 3일 \~ 9일, 2개 도시 5회 공연)\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]\[22\]
+  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ (공연 중지, 일자 미정)\[23\]\[24\]\[25\]
+  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ FINAL (2020년 공연 중지, 일자 미정, 도쿄 커튼 시어터)\[26\]
+  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ FINAL 미야모토 카린 졸업 스페셜 (공연 중지, 일자 미정, 도쿄 커튼 시어터)\[27\]\[28\]
 
 ### 합동 라이브 · 콘서트
 
@@ -434,6 +434,8 @@
 
       -
 
+      -
+
   - [Juice=Juice](https://web.archive.org/web/20200430225515/https://www.tiktok.com/@juicejuice_uf) - [TikTok](../Page/TikTok.md "wikilink")
 
 [Juice=Juice](https://ko.wikipedia.org/wiki/분류:Juice=Juice "wikilink") [분류:헬로\! 프로젝트](https://ko.wikipedia.org/wiki/분류:헬로!_프로젝트 "wikilink") [분류:2013년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_결성된_음악_그룹 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink")
@@ -452,16 +454,17 @@
 12.
 13. [Juice=Juice 미야모토 카린, 안주루무 후나기 무스부의 졸업 정기에 관해](http://www.helloproject.com/news/11977/)
 14. 2017년 10월 10일부터《이나바 마나카의 마나리아루》였으나, 그룹을 가입한 후 타이틀이 변경되었다.
-15. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 2월 29일의 기치조지 · 3월 1일의 지바 · 7일의 니가타 · 8일의 사이타마 · 28일의 나라 · 29일의 교토 · 4월 11일의 오카야마 · 12일의 야마구치 · 18일 · 19일의 요코하마 · 5월 7일의 지바 (정기) · 10일의 홋카이도 · 6월 20일의 나라 (정기) · 26일의 지바 (정기) 공연이 중지되었다. 그 중 일부는 정기 공연으로 실행될 예정이다.
+15. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 2월 29일의 기치조지 · 3월 1일의 지바 · 7일의 니가타 · 8일의 사이타마 · 28일의 나라 · 29일의 교토 · 4월 11일의 오카야마 · 12일의 야마구치 · 18일 · 19일의 요코하마 · 5월 7일의 지바 (정기) · 10일의 홋카이도 · 6월 20일의 나라 (정기) · 26일의 지바 (정기) · 7월 13일 · 14일의 사이타마 (정기) 공연이 중지되었다.
 16. [라이브 하우스 공연의 개최 중지의 소식](http://www.helloproject.com/news/11796/)
 17. [콘서트 투어, 라이브 하우스 공연, 디너쇼, 정기 공연의 개최 중지의 소식](http://www.helloproject.com/news/11845/)
 18. [신종 코로나바이러스 감염 확대에 따른 중지 및 대체 공연 공지](http://www.helloproject.com/news/11903/)
 19. [콘서트 투어, 라이브 하우스 공연의 개최 중지의 소식](http://www.helloproject.com/news/11930/)
 20. [콘서트 투어, 라이브 하우스 공연의 개최 중지 및 일반 발매 중지의 소식](http://www.helloproject.com/news/11960/)
 21. [콘서트 투어, 라이브 하우스 공연의 개최 중지의 소식 (2020년 4월 21일)](http://www.helloproject.com/news/11976/)
-22. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 4월 25일 · 26일 · 5월 3일 · 4일 · 16일 · 23일 · 31일의 공연이 중지되었다.
-23.
+22. [신종 코로나바이러스 감염 확대에 인해 중지의 소식](http://www.helloproject.com/news/12042/)
+23. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 4월 25일 · 26일 · 5월 3일 · 4일 · 16일 · 23일 · 31일의 공연이 중지되었다.
 24.
-25. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 6월 2일의 공연이 중지되었다.
-26. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 6월 3일의 공연이 중지되었다.
-27.
+25.
+26. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 6월 2일의 공연이 중지되었다.
+27. [신종 코로나바이러스](https://ko.wikipedia.org/wiki/2019년_신종_코로나바이러스 "wikilink") 감염 우려로 인해 6월 3일의 공연이 중지되었다.
+28.

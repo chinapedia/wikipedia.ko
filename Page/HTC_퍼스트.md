@@ -11,6 +11,10 @@
 
 [페이스북](../Page/페이스북.md "wikilink")과 [HTC 코퍼레이션이](https://ko.wikipedia.org/wiki/HTC_코퍼레이션 "wikilink") 공동개발한 스마트폰으로, [페이스북홈](https://ko.wikipedia.org/wiki/페이스북홈 "wikilink")이 제품내에 기본탑재되어 있다.\[2\]
 
+## 같이 보기
+
+[HTC 휴대 전화 목록](../Page/HTC_휴대_전화_목록.md "wikilink")
+
 ## 각주
 
 ## 외부 링크

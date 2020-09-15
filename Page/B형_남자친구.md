@@ -21,6 +21,7 @@
   - [김꽃비](https://ko.wikipedia.org/wiki/김꽃비 "wikilink") : 고딩 2 역
   - [권민](https://ko.wikipedia.org/wiki/권민 "wikilink") : 강의실 역
   - [이용주](https://ko.wikipedia.org/wiki/이용주 "wikilink") : 인터뷰 남 역
+  - [박현영](../Page/박현영_\(배우\).md "wikilink") : 인터뷰 여 역
   - [김민수](../Page/김민수_\(1969년\).md "wikilink") : 버스 연인 역
   - [이현우](../Page/이현우_\(1966년\).md "wikilink") (우정출연)
   - [김해곤](../Page/김해곤.md "wikilink") (우정출연)

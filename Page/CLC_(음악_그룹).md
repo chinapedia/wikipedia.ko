@@ -1,8 +1,6 @@
 > This article is converted from Wikipedia: [CLC \(음악 그룹\)](https://ko.wikipedia.org/wiki/CLC_\(음악_그룹\)).
 
 
-**CLC**(씨엘씨)는 [대한민국](../Page/대한민국.md "wikilink")의 7인조 [걸 그룹으로](../Page/걸_그룹.md "wikilink"), [큐브 엔터테인먼트](../Page/큐브_엔터테인먼트.md "wikilink") 소속이다. CLC는 **C**rysta**L** **C**lear의 약자로 수정처럼 맑게, 수정처럼 영원히 변치 않는 매력을 지니겠다는 의미를 담고 있다. [2015년](../Page/2015년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") 데뷔 쇼케이스를 통해 데뷔무대를 가졌다. [3월 19일](../Page/3월_19일.md "wikilink") 앨범 《첫사랑》을 발매하였고, 이 날 [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")을 시작으로 본격적인 방송 활동을 시작하였다. [2019년](../Page/2019년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") 데뷔 4년만에 음악방송에서 첫 1위를 차지하였다.
-
 ## 구성원
 
 |  |
@@ -163,6 +161,30 @@
 <li>Breakdown</li>
 <li>Like It</li>
 <li>I Need U</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+### 싱글 앨범
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><p>순서</p></th>
+<th><p>align="left" width="300px|음반 정보</p></th>
+<th><p>align="left" width="220px|트랙 리스트</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>1</strong></p></td>
+<td><p>《<strong><a href="https://ko.wikipedia.org/wiki/HELICOPTER" title="wikilink">HELICOPTER</a></strong>》</p>
+<ul>
+<li>발매일: <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/9월_2일.md" title="wikilink">9월 2일</a></li>
+</ul></td>
+<td><ol>
+<li><strong>HELICOPTER</strong></li>
 </ol></td>
 </tr>
 </tbody>
@@ -398,6 +420,8 @@
 
 ## 외부 링크
 
+  -
+  -
   -
   -
   -

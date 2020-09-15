@@ -5,15 +5,15 @@
 
 2014년 4월 29일 공개하여\[1\], 2014년 5월 31일 출시했다.\[2\]
 
-## 연혁
+## 출시
 
-  - 2014년 4월 29일 : 제품 공개\[3\]
+  - 2014년 4월 29일 : 제품 출시\[3\]
 
 ## 색상
 
-  - 차콜 블랙
-  - 쉬머 화이트
-  - 일렉트릭 블루
+  - 차콜 [블랙](../Page/블랙.md "wikilink")
+  - 쉬머 [화이트](../Page/화이트.md "wikilink")
+  - 일렉트릭 [블루](https://ko.wikipedia.org/wiki/블루 "wikilink")
 
 ## CPU
 
@@ -21,7 +21,7 @@
 
 클러스터간 이동(Cluster Migration) 외에도 인커널 스위처 (In Kernel Switcher)와 다른 기종간 다중 처리(Heterogeneous Multi Processing)를 지원하여 상황에 따라 CPU를 1\~6개까지 작동시킬수 있게 되어, [big.LITTLE](https://ko.wikipedia.org/wiki/big.LITTLE "wikilink")을 완벽하게 지원한다.
 
-## 운영 체제/소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 4.4 킷캣
 

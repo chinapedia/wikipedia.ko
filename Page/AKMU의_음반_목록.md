@@ -493,7 +493,7 @@
 
 ## 외부 링크
 
-  - [악동뮤지션 공식 웹사이트](http://www.yg-akmu.com)
+  - [악동뮤지션 공식 웹사이트](https://web.archive.org/web/20170305002720/http://yg-akmu.com/)
 
 [분류:AKMU](https://ko.wikipedia.org/wiki/분류:AKMU "wikilink") [분류:대한민국 음악가의 음반 연보](https://ko.wikipedia.org/wiki/분류:대한민국_음악가의_음반_연보 "wikilink")
 

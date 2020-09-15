@@ -13,7 +13,7 @@
   - [최송현](../Page/최송현.md "wikilink") : 라디오 작가 박경양 역
   - [신다은](../Page/신다은.md "wikilink") : 고아영 역
   - [이준하](../Page/이준하.md "wikilink") : 고은수 역
-  - [최희원](https://ko.wikipedia.org/wiki/최희원 "wikilink") : 고현지 역
+  - [최희원](../Page/최희원.md "wikilink") : 고현지 역
   - [조석현](../Page/조석현.md "wikilink") : 조 형사 역
   - [곽도원](../Page/곽도원.md "wikilink") : 장석현 기자 역
   - [엄태구](../Page/엄태구.md "wikilink") : 엄 형사 역

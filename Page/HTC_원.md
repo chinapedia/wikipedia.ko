@@ -44,6 +44,7 @@
   - [HTC 원 미니](../Page/HTC_원_미니.md "wikilink")
   - [HTC 버터플라이 S](../Page/HTC_버터플라이_S.md "wikilink")
   - [구글 에디션](https://ko.wikipedia.org/wiki/구글_에디션 "wikilink")
+  - [HTC 휴대 전화 목록](../Page/HTC_휴대_전화_목록.md "wikilink")
 
 ## 각주
 

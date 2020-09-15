@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DJ 보보](https://ko.wikipedia.org/wiki/DJ_보보).
 
 
-**DJ 보보**(DJ BoBo, 본명: **페터 르네 치피리아노 바우만**(Peter René Cipiriano Baumann), 1968년 1월 5일 \~ )는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [송라이터](https://ko.wikipedia.org/wiki/송라이터 "wikilink"), [댄서](../Page/춤.md "wikilink"), [음악 프로듀서이다](../Page/음악_프로듀서.md "wikilink").
+**DJ 보보**(DJ BoBo, 본명: **페터 르네 치피리아노 바우만**(Peter René Cipiriano Baumann), [1968년](../Page/1968년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ )는 [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), [송라이터](https://ko.wikipedia.org/wiki/송라이터 "wikilink"), [댄서](../Page/춤.md "wikilink"), [음악 프로듀서이다](../Page/음악_프로듀서.md "wikilink").
 
 이탈리아인 아버지와 스위스인 어머니 사이에서 태어났다. 어린 시절에는 베이커리에서 일했지만 음악에 심취한 뒤부터 음악가의 길을 걷게 되었고 1985년부터 [디스크 자키로](../Page/디스크_자키.md "wikilink") 활동하기 시작했다. [유로비전 송 콘테스트 2007에서](../Page/유로비전_송_콘테스트_2007.md "wikilink") 스위스 대표로 참가했다. [월드 뮤직 어워드에서는](../Page/월드_뮤직_어워드.md "wikilink") 음반이 가장 많이 팔린 스위스 출신 아티스트라는 기록을 남겼다. 2006년 10월에는 [유엔](../Page/유엔.md "wikilink") [세계 식량 계획](../Page/세계_식량_계획.md "wikilink") 홍보대사로 임명되기도 했다.
 

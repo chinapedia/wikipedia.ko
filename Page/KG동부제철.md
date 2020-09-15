@@ -27,5 +27,5 @@ KG Dongbu Thai Steel Co.Ltd.(태국), KG Dongbu USA Inc.(미국), KG Dongbu Sing
 
 1.  동부그룹株, 급등..제철 채권단과 경영정상화 합의, 이데일리 2014.10.23
 2.  [김준기회장, 동부제철 경영권 포기](http://news.mk.co.kr/newsRead.php?year=2014&no=1346820) 《매일경제》, 2014년 10월 23일
-3.  [동부 김준기 회장 눈물의 이메일 "동부제철을 떠납니다"](http://www.egreennews.com/news/articleView.html?idxno=120688) 《그린경제》, 2014년 10월 23일
+3.  [동부 김준기 회장 눈물의 이메일 "동부제철을 떠납니다"](http://www.egreennews.com/news/articleView.html?idxno=120688)  《그린경제》, 2014년 10월 23일
 4.  [김준기 동부그룹 회장 “동부제철 대표이사 물러나겠다”](http://www.hani.co.kr/arti/economy/economy_general/661141.html) 《한겨레》, 2014년 10월 23일

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IOS 8](https://ko.wikipedia.org/wiki/IOS_8).
 
 
-**iOS 8**은 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [iOS 7의](https://ko.wikipedia.org/wiki/iOS_7 "wikilink") 후속 버전으로 [2014년](../Page/2014년.md "wikilink") [9월 17일에](../Page/9월_17일.md "wikilink") OS X 10.10과 출시한 64bit OS [iOS](https://ko.wikipedia.org/wiki/iOS_\(애\(OS_X_10.10과_연동\)플\) "wikilink") 계열 [스마트폰](../Page/스마트폰.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink").
+**iOS 8**은 [애플](../Page/애플.md "wikilink")이 [iOS 7의](https://ko.wikipedia.org/wiki/iOS_7 "wikilink") 후속 버전으로 [2014년](../Page/2014년.md "wikilink") [9월 17일에](../Page/9월_17일.md "wikilink") OS X 10.10과 출시한 64bit OS [iOS](https://ko.wikipedia.org/wiki/iOS_\(애\(OS_X_10.10과_연동\)플\) "wikilink") 계열 [스마트폰](../Page/스마트폰.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink").
 
 ## 새로 바뀐 기능
 

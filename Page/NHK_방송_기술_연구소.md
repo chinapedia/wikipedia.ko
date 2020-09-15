@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NHK 방송 기술 연구소](https://ko.wikipedia.org/wiki/NHK_방송_기술_연구소).
 
 
-[thumb](https://ko.wikipedia.org/wiki/파일:NHK_Science_&_Technical_Research_Laboratories.JPG "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:NHK_Science_&_Technical_Research_Laboratories.JPG "wikilink")
 
 **NHK 방송 기술 연구소**(), ()는 일본방송협회(이하 NHK)가 1930년에 설립한 연구소로서 방송기술을 개발하고 있다. 소재지는 동경 세타가야구. 매년 5월에는 연구소의 성과를 일반에게 공개하고 연구실을 개방하고 있다.
 

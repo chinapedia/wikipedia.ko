@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IOS 10](https://ko.wikipedia.org/wiki/IOS_10).
 
 
-**iOS 10**은 [iOS 9의](https://ko.wikipedia.org/wiki/iOS_9 "wikilink") 후속으로 [애플에서](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 iOS 모바일 [운영 체제의](../Page/운영_체제.md "wikilink") 10 번째 주요 배포판이다. [2016년](../Page/2016년.md "wikilink") [6월 13일에](../Page/6월_13일.md "wikilink") 열린 Worldwide Developers Conference에서 발표되었으며 [2016년](../Page/2016년.md "wikilink") [9월 13일에](../Page/9월_13일.md "wikilink") 배포되었다. 후속 버전은 2017년 6월 5일에 발표된 [iOS 11이다](https://ko.wikipedia.org/wiki/iOS_11 "wikilink").
+**iOS 10**은 [iOS 9의](https://ko.wikipedia.org/wiki/iOS_9 "wikilink") 후속으로 [애플](../Page/애플.md "wikilink")에서 개발한 iOS 모바일 [운영 체제의](../Page/운영_체제.md "wikilink") 10 번째 주요 배포판이다. [2016년](../Page/2016년.md "wikilink") [6월 13일에](../Page/6월_13일.md "wikilink") 열린 Worldwide Developers Conference에서 발표되었으며 [2016년](../Page/2016년.md "wikilink") [9월 13일에](../Page/9월_13일.md "wikilink") 배포되었다. 후속 버전은 2017년 6월 5일에 발표된 [iOS 11이다](https://ko.wikipedia.org/wiki/iOS_11 "wikilink").
 
 iOS 10은 3D Touch 및 잠금 화면의 변경 사항을 통합했다. 메시지에는 추가로 이모티콘이 포함되어 있으며 타사 앱은 iMessage에서 기능을 확장 할 수 있고, 지도에는 인터페이스가 새롭게 디자인 되었으며 타사 기능이 새로 추가되었고, 홈 앱은 "HomeKit"을 지원하는 액세서리를 관리하며, 사진에는 알고리즘 검색 기능이 추가되었다. Siri는 워크 아웃 앱 시작, IM 전송, Lyft 또는 Uber 앱 요청 및 지불 기능 사용과 같은 타사 앱에 특화된 요청과 호환되도록 하였다.
 

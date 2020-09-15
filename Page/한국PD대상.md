@@ -54,7 +54,7 @@
 
   - 일시 : [2011년](../Page/2011년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink")
   - 장소 : 서울 목동 방송회관 2층 브로드홀
-  - 사회 : [유형서](https://ko.wikipedia.org/wiki/유형서 "wikilink"), [배현진](../Page/배현진.md "wikilink")
+  - 사회 : [유형서](../Page/유형서.md "wikilink"), [배현진](../Page/배현진.md "wikilink")
 
 | 부문                  | 수상작(자)                                                                  |
 | ------------------- | ----------------------------------------------------------------------- |
@@ -202,7 +202,7 @@
 | 출연자상 라디오진행자 부문    | \`[배미향](https://ko.wikipedia.org/wiki/배미향 "wikilink")\`               |
 | 출연자상 코미디언 부문      | \`[김지민](https://ko.wikipedia.org/wiki/김지민 "wikilink")\`               |
 | 제작부문상 TV작가 부문     | \`[안선효](https://ko.wikipedia.org/wiki/안선효 "wikilink")\`               |
-| 제작부문상 라디오작가 부문    | \`[남미영](https://ko.wikipedia.org/wiki/남미영 "wikilink")\`               |
+| 제작부문상 라디오작가 부문    | \`[남미영](../Page/남미영.md "wikilink")\`                                  |
 | 제작부문상 기술 부문       | \`[김현수](../Page/김현수.md "wikilink")\`                                  |
 | 제작부문상 음악효과 부문     | \`고성필\`                                                               |
 | 제작부문상 촬영 부문       | \`손인식,윤권..\`                                                          |

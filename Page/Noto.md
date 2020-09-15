@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Noto](https://ko.wikipedia.org/wiki/Noto).
 
 
-**Noto**는 [Google](https://ko.wikipedia.org/wiki/Google "wikilink")이 개발한 [오픈 소스](../Page/오픈_소스.md "wikilink") [글꼴패밀리다](https://ko.wikipedia.org/wiki/폰트 "wikilink").\[1\]
+**Noto**는 [Google](https://ko.wikipedia.org/wiki/Google "wikilink")이 개발한 [오픈 소스](../Page/오픈_소스.md "wikilink") [글꼴](../Page/글꼴.md "wikilink") 패밀리이다.\[1\]
 
 ## 개요
 
@@ -1164,6 +1164,7 @@ Bold</p></td>
 
   - [백묵글꼴](https://ko.wikipedia.org/wiki/백묵글꼴 "wikilink")
   - [은 글꼴](https://ko.wikipedia.org/wiki/은_글꼴 "wikilink")
+  - [구글 폰트](../Page/구글_폰트.md "wikilink")
 
 ## 각주
 
@@ -1178,4 +1179,4 @@ Bold</p></td>
 
 1.
 2.
-3.  [구글의 새로운 Pan-CJK (汎韓中日) 글꼴을 소개합니다](http://googledevkr.blogspot.kr/2014/07/cjkfont.html) Google Developers Korean Blog, 2014년 7월 16일
+3.  [구글의 새로운 Pan-CJK (汎韓中日) 글꼴을 소개합니다](http://googledevkr.blogspot.kr/2014/07/cjkfont.html)  Google Developers Korean Blog, 2014년 7월 16일

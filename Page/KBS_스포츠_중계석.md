@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [KBS 스포츠 중계석](https://ko.wikipedia.org/wiki/KBS_스포츠_중계석).
 
 
-《**KBS 스포츠 중계석**》은 매주 [토요일](../Page/토요일.md "wikilink") 밤 1시 \~ 2시 30분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송하는 [스포츠](../Page/스포츠.md "wikilink") 프로그램이다.
+《**KBS 스포츠 중계석**》은 매주 [토요일](../Page/토요일.md "wikilink") 새벽 1시에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송하는 [스포츠](../Page/스포츠.md "wikilink") 프로그램이다.
 
 ## 기획 의도
 
-[스포츠](../Page/스포츠.md "wikilink") 경기를 녹화 중계하는 스포츠 프로그램이다.
+[스포츠](../Page/스포츠.md "wikilink") 경기를 녹화 중계방송으로 하는 스포츠 프로그램이다.
 
 ## 방송 시간
 

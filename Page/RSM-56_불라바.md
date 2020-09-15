@@ -19,7 +19,7 @@ R-30 ( RSM-56 ) 불라바 미사일은 모스크바 열역학 연구원에서 Yu
 
 ## 각주
 
-[분류:러시아의 미사일](https://ko.wikipedia.org/wiki/분류:러시아의_미사일 "wikilink")
+[분류:러시아의 미사일](https://ko.wikipedia.org/wiki/분류:러시아의_미사일 "wikilink") [분류:러시아의 핵무기](https://ko.wikipedia.org/wiki/분류:러시아의_핵무기 "wikilink")
 
 1.
 2.

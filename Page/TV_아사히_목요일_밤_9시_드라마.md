@@ -333,7 +333,7 @@
 <!-- end list -->
 
   - 《[엔젤 뱅크 \~ 전직대리인](https://ko.wikipedia.org/wiki/엔젤_뱅크_-드래곤사쿠라_외전- "wikilink")》(원작:[미타 노리후사](https://ko.wikipedia.org/wiki/미타_노리후사 "wikilink") 주연:[하세가와 쿄코](../Page/하세가와_쿄코.md "wikilink"))
-  - 《[동창회 \~러브 어게인 ​​증후군](https://ko.wikipedia.org/wiki/동창회_~러브_어게인_​​증후군 "wikilink")》(주연:쿠로키 히토미, 타카하시 카츠노리, 사이토 유키, [미카미 히로시](https://ko.wikipedia.org/wiki/미카미_히로시 "wikilink"))
+  - 《[동창회 \~러브 어게인 증후군](https://ko.wikipedia.org/wiki/동창회_~러브_어게인_증후군 "wikilink")》(주연:쿠로키 히토미, 타카하시 카츠노리, 사이토 유키, [미카미 히로시](https://ko.wikipedia.org/wiki/미카미_히로시 "wikilink"))
   - 《[케이조쿠 \~ 경시청 미해결 사건 전담 연속 수사반](https://ko.wikipedia.org/wiki/케이조쿠_~_경시청_미해결_사건_전담_연속_수사반 "wikilink")》(주연:[기무라 요시노](../Page/기무라_요시노.md "wikilink"))
   - 《[나사케의 여자 \~국세국사찰관\~](https://ko.wikipedia.org/wiki/나사케의_여자_~국세국사찰관~ "wikilink")》(주연:요네쿠라 료코)
 

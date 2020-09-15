@@ -3,7 +3,7 @@
 
 **LG GX**는 [LG전자](../Page/LG전자.md "wikilink")가 [2013년 12월](../Page/2013년_12월.md "wikilink") 17일에 출시한 중상급형 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. [옵티머스 G 프로와](https://ko.wikipedia.org/wiki/옵티머스_G_프로 "wikilink") 달리 노크온과 노크코드를 지원한다. 2014년 4월 F310LR을 추가로 출시하였다
 
-## 운영 체제/소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [4.1.2 젤리빈](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink")
 

@@ -3,7 +3,7 @@
 
 **LG GX2**는 [2014년](../Page/2014년.md "wikilink") [8월 27일에](../Page/8월_27일.md "wikilink") 출시된 [LG전자](../Page/LG전자.md "wikilink")의 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] 해외에서는 **G 비스타**라는 이름으로 판매되고 있으며, [LG G3의](../Page/LG_G3.md "wikilink") 파생 모델 중 하나이다. 네이밍은 [LG GX의](https://ko.wikipedia.org/wiki/LG_GX "wikilink") 후속작이나, 전체적인 성능은 [GX에](https://ko.wikipedia.org/wiki/LG_GX "wikilink") 비해 떨어진다.
 
-## 운영 체제
+## 운영 체제 / 소프트웨어
 
 ### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [4.4.2 킷캣](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink")
 

@@ -65,7 +65,7 @@
 
   - [영화 파이널 카운트다운](https://web.archive.org/web/20080515235422/http://www.spectrepublishing.com/FinalCountdown.html)
 
-[분류:미국의 항공모함](https://ko.wikipedia.org/wiki/분류:미국의_항공모함 "wikilink") [분류:니미츠급 항공모함](https://ko.wikipedia.org/wiki/분류:니미츠급_항공모함 "wikilink") [분류:1972년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1972년_진수된_선박 "wikilink")
+[분류:1972년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1972년_진수된_선박 "wikilink") [분류:니미츠급 항공모함](https://ko.wikipedia.org/wiki/분류:니미츠급_항공모함 "wikilink")
 
 1.
 2.

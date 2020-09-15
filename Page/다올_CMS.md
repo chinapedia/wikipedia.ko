@@ -39,12 +39,12 @@
 
 ## 외부 링크
 
-  - [다올 CMS 공식 사이트](http://www.daolcms.org/)
+  - [다올 CMS 공식 사이트](https://web.archive.org/web/20140520220212/http://www.daolcms.org/)
 
   - [다올 CMS Github 프로젝트](https://github.com/daolcms/daol-core)
 
 [분류:인터넷 포럼 소프트웨어](https://ko.wikipedia.org/wiki/분류:인터넷_포럼_소프트웨어 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink")
 
-1.  <http://www.daolcms.org/daol>
-2.  [다올 CMS 1.0.0.0 정식 배포](http://www.daolcms.org/releases/431)
-3.  [다올 CMS 1.0.1.0 정식 배포](http://www.daolcms.org/releases/3564)
+1.
+2.
+3.

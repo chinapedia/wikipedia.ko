@@ -54,14 +54,14 @@
   - 영카메오: 1차 예선 탈락
   - [우태운](https://ko.wikipedia.org/wiki/우노_\(래퍼\) "wikilink"): 3차 예선 탈락
   - [원](../Page/원_\(래퍼\).md "wikilink"): 1차 공연 탈락
-  - [원썬](https://ko.wikipedia.org/wiki/원썬 "wikilink"): 2차 예선 탈락
+  - [원썬](../Page/원썬.md "wikilink"): 2차 예선 탈락
   - 이규환: 3차 예선 탈락
   - 이보: 3차 예선 탈락
   - [정상수](../Page/정상수.md "wikilink"): 3차 예선 탈락
   - [제이니](../Page/제이니.md "wikilink"): 2차 예선 탈락
   - 제이덥: 3차 예선 탈락
   - [제이켠](../Page/제이켠.md "wikilink")(Kox bilie): 3차 예선 탈락
-  - [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"): 3차 예선 탈락
+  - [조승연](https://ko.wikipedia.org/wiki/WOODZ "wikilink"): 3차 예선 탈락
   - 존재인: 2차 예선 탈락
   - [주노플로](../Page/주노플로.md "wikilink"): 3차 예선 탈락
   - [지투](https://ko.wikipedia.org/wiki/지투 "wikilink"): 1차 공연 탈락 (마이크 미지명)

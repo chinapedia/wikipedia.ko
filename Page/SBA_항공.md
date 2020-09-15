@@ -115,5 +115,5 @@
 
 1.  "[English page](http://www.sbairlines.com/eng/default.html)." *SBA Airlines*
 2.  "[Oficinas](https://www.sbairlines.com/Oficinas.aspx#VZLA1)." SBA Airlines. Retrieved on January 17, 2012. "Calle 3B, Edificio Tokay, Piso 3, La Urbina."
-3.  [SBA Airlines Fleet](http://www.ch-aviation.ch/portal/airline.php?cha=BBR)
+3.
 4.

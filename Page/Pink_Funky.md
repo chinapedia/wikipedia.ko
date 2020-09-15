@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Pink Funky](https://ko.wikipedia.org/wiki/Pink_Funky).
 
 
-《**Pink Funky**》는 대한민국의 음악 그룹 [마마무](../Page/마마무.md "wikilink")의 세 번째 미니 음반이다. [2015년](../Page/2015년.md "wikilink") [6월 19일에](../Page/6월_19일.md "wikilink") 발매되어, 당일 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 타이틀 곡 〈음오아예 (Um Oh Ah Yeh)〉로 컴백 무대를 선보였다.
+《**Pink Funky**》는 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [마마무](../Page/마마무.md "wikilink")의 세 번째 미니 음반이다. [2015년](../Page/2015년.md "wikilink") [6월 19일에](../Page/6월_19일.md "wikilink") 발매되어, 당일 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 타이틀 곡 〈음오아예 (Um Oh Ah Yeh)〉로 컴백 무대를 선보였다.
 
 ## 개요
 

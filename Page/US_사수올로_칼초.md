@@ -37,7 +37,7 @@
 
 [섬네일에](https://ko.wikipedia.org/wiki/파일:Stadio_Alberto_Braglia.jpg "wikilink") 있는 [스타디오 알베르토 브라리아는](https://ko.wikipedia.org/wiki/스타디오_알베르토_브라리아 "wikilink") 세리에 B에 있는 동안에 사수올로의 임시 홈경기가 열렸다.\]\] 원래 홈경기장은 [스타디오 엔조 리치였고](https://ko.wikipedia.org/wiki/스타디오_엔조_리치 "wikilink") 여전히 훈련용으로 사용하나 관중 수용량(4000)이 적어 세리에 B에서는 [모데나](../Page/모데나.md "wikilink")에 위치한 [스타디오 알베르토 브라리아에서](https://ko.wikipedia.org/wiki/스타디오_알베르토_브라리아 "wikilink") 경기를 치루고 있다.\[9\]
 
-2013-14 시즌부터, 첫 세리에 A를 치루는 사수올로는 [레가 프로 프리마 디비시오네](../Page/레가_프로_프리마_디비시오네.md "wikilink") 클럽 [레자나와](https://ko.wikipedia.org/wiki/AC_레자나_1919 "wikilink") 공유한 [레조넬에밀리아](../Page/레조넬에밀리아.md "wikilink")에 있는 [마페이 스타디움 - 치타 델 트리콜로레](https://ko.wikipedia.org/wiki/마페이_스타디움_-_치타_델_트리콜로레 "wikilink")(전 스타디오 지질뇨)에서 경기를 치른다.\[10\]
+2013-14 시즌부터, 첫 세리에 A를 치루는 사수올로는 [레가 프로 프리마 디비시오네](../Page/레가_프로_프리마_디비시오네.md "wikilink") 클럽 [레자나와](https://ko.wikipedia.org/wiki/AC_레자나_1919 "wikilink") 공유한 [레조넬에밀리아](../Page/레조넬에밀리아.md "wikilink")에 있는 [마페이 스타디움 - 치타 델 트리콜로레](../Page/마페이_스타디움_-_치타_델_트리콜로레.md "wikilink")(전 스타디오 지질뇨)에서 경기를 치른다.\[10\]
 
 ## 선수단
 

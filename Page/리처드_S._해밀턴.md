@@ -10,7 +10,7 @@
 ## 외부 링크
 
   -
-  - [컬럼비아 대학교 홈페이지](http://www.math.columbia.edu/people/directory/?dname=Hamilton&did=39)
+  - [컬럼비아 대학교 홈페이지](https://web.archive.org/web/20141208232457/http://www.math.columbia.edu/people/directory/?dname=Hamilton&did=39)
 
   - [Richard Hamilton](http://www.claymath.org/research_award/Hamilton/hamilton_bio.php) – [클레이 수학연구소](../Page/클레이_수학연구소.md "wikilink") 홈페이지의 프로필
 
@@ -18,6 +18,6 @@
 
   - [Lecture by Hamilton on Ricci flow](http://www.msri.org/publications/ln/msri/2003/ricciflow/hamilton/1/index.html)
 
-  - [Shaw Prize Autobiography](http://www.shawprize.org/en/shaw.php?tmp=3&twoid=90&threeid=181&fourid=307&fiveid=155)
+  - [Shaw Prize Autobiography](https://web.archive.org/web/20141007232259/http://www.shawprize.org/en/shaw.php?tmp=3&twoid=90&threeid=181&fourid=307&fiveid=155)
 
 [분류:1943년 태어남](https://ko.wikipedia.org/wiki/분류:1943년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:20세기 수학자](https://ko.wikipedia.org/wiki/분류:20세기_수학자 "wikilink") [분류:21세기 수학자](https://ko.wikipedia.org/wiki/분류:21세기_수학자 "wikilink") [분류:미분기하학자](https://ko.wikipedia.org/wiki/분류:미분기하학자 "wikilink") [분류:미국의 수학자](https://ko.wikipedia.org/wiki/분류:미국의_수학자 "wikilink") [분류:프린스턴 대학교 동문](https://ko.wikipedia.org/wiki/분류:프린스턴_대학교_동문 "wikilink") [분류:예일 대학교 동문](https://ko.wikipedia.org/wiki/분류:예일_대학교_동문 "wikilink") [분류:컬럼비아 대학교 교수](https://ko.wikipedia.org/wiki/분류:컬럼비아_대학교_교수 "wikilink") [분류:클레이 연구상 수상자](https://ko.wikipedia.org/wiki/분류:클레이_연구상_수상자 "wikilink")

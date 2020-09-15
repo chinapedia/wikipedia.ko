@@ -15,7 +15,7 @@
 
 이 음반의 모든 곡의 프로듀싱과 가사는 [G-Dragon이](../Page/지드래곤.md "wikilink") 참여했다. 한국어 곡의 랩 가사는 [T.O.P](../Page/T.O.P.md "wikilink")이 썼으며, "Wings(날개)"의 곡 가사에는 [대성](https://ko.wikipedia.org/wiki/대성 "wikilink")이 참여했다.
 
-이 음반에는 오리지널 일본 곡인 "Ego"와 "Feeling" 외에도 일본어 버전으로 새롭게 녹음한 "Blue", "Fantastic Baby", "Bad Boy"와 "Haru Haru(하루하루)", 이전에 한국어로 발표 된 곡, "Intro (Alive)", "Love Dust(사랑먼지)", "Ain't No Fun(재미없어)"와 [대성의](../Page/대성_\(가수\).md "wikilink") 솔로 곡 "Wings(날개)"가 수록 되었다. 또한 일본어 버전의 "Haru Haru(하루하루)"는 이전의 베스트 앨범인 *[The Best Of BIGBANG](../Page/The_Best_Of_BIGBANG.md "wikilink")*에 수록 되었다. 또한 "Feeling"은 [독일](../Page/독일.md "wikilink") [EDM과](https://ko.wikipedia.org/wiki/전자_댄스_음악 "wikilink") [일렉트로 하우스](https://ko.wikipedia.org/wiki/일렉트로_하우스 "wikilink") [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")의 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink") [보이즈 노이즈가](https://ko.wikipedia.org/wiki/보이즈_노이즈 "wikilink") 편곡에 참여했다.
+이 음반에는 오리지널 일본 곡인 "Ego"와 "Feeling" 외에도 일본어 버전으로 새롭게 녹음한 "Blue", "Fantastic Baby", "Bad Boy"와 "Haru Haru(하루하루)", 이전에 한국어로 발표 된 곡, "Intro (Alive)", "Love Dust(사랑먼지)", "Ain't No Fun(재미없어)"와 [대성의](../Page/대성_\(가수\).md "wikilink") 솔로 곡 "Wings(날개)"가 수록 되었다. 또한 일본어 버전의 "Haru Haru(하루하루)"는 이전의 베스트 앨범인 *[The Best Of BIGBANG](../Page/The_Best_Of_BIGBANG.md "wikilink")*에 수록 되었다. 또한 "Feeling"은 [독일](../Page/독일.md "wikilink") [EDM과](https://ko.wikipedia.org/wiki/전자_댄스_음악 "wikilink") [일렉트로 하우스](../Page/일렉트로_하우스.md "wikilink") [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")의 [DJ](https://ko.wikipedia.org/wiki/DJ "wikilink") [보이즈 노이즈가](https://ko.wikipedia.org/wiki/보이즈_노이즈 "wikilink") 편곡에 참여했다.
 
 ## 프로모션
 

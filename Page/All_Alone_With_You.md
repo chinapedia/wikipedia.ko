@@ -14,7 +14,7 @@
 1.  **All Alone With You** \[5:50\]
       -
         [후지텔레비](https://ko.wikipedia.org/wiki/후지_텔레비젼 "wikilink") 계 「[노이타미나](../Page/노이타미나.md "wikilink")」 애니메이션 「[PSYCHO-PASS](../Page/PSYCHO-PASS.md "wikilink")」후기 엔딩 테마.
-        전작의 [EDM으로부터](https://ko.wikipedia.org/wiki/일렉트로닉_댄스_뮤직 "wikilink") 일변한 [미디엄 발라드](https://ko.wikipedia.org/wiki/발라드 "wikilink") 조의 악곡이 되고 있다.
+        전작의 [EDM으로부터](../Page/일렉트로닉_댄스_뮤직.md "wikilink") 일변한 [미디엄 발라드](https://ko.wikipedia.org/wiki/발라드 "wikilink") 조의 악곡이 되고 있다.
 2.  **elbadaernU** \[4:10\]
       -
         타이틀의 의미는 「불가해한, 판독하기 어렵다(Unreadable)」의 의미이다.

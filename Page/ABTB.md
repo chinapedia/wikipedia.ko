@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ABTB](https://ko.wikipedia.org/wiki/ABTB).
 
 
-**ABTB**(Attraction Between Two Bodies)는 [대한민국](../Page/대한민국.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 얼터너티브-하드 록의 바탕 위에 다양한 음악적 층위가 켜켜이 쌓인 사운드를 숙련된 솜씨와 열정적인 태도로 연주한다. 2014년 결성 이후 네이버 온스테이지, EBS 공감, 지산 록페스티벌 등의 무대에 섰으며 한국대중음악상을 통해 그 가치를 인정받았다. 2016년 1집 『Attraction Between Two Bodies』발표 이후 싱글 "이중사고", "무임승차"를 냈고 세 장의 편집 앨범에 참여했다. 2020년 5월 1일 2집 ﻿『daydream﻿』을 발표했다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:ABTBprofile2020.jpg "wikilink") **ABTB**(Attraction Between Two Bodies)는 [대한민국](../Page/대한민국.md "wikilink")의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). 얼터너티브-하드 록의 바탕 위에 다양한 음악적 층위가 켜켜이 쌓인 사운드를 숙련된 솜씨와 열정적인 태도로 연주한다. 2014년 결성 이후 네이버 온스테이지, EBS 공감, 지산 록페스티벌 등의 무대에 섰으며 한국대중음악상을 통해 그 가치를 인정받았다. 2016년 1집 『Attraction Between Two Bodies』발표 이후 싱글 "이중사고", "무임승차"를 냈고 세 장의 편집 앨범에 참여했다. 2020년 5월 1일 2집 『daydream』을 발표했다.
 
 ## 구성원
 

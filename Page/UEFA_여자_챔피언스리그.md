@@ -34,7 +34,7 @@
 </tr>
 <tr class="even">
 <td><p>2001-02<br />
-<small><a href="https://ko.wikipedia.org/wiki/2001-02_UEFA_여자컵" title="wikilink">상세</a></small></p></td>
+<small><a href="https://ko.wikipedia.org/wiki/2001-02년_UEFA_여자컵" title="wikilink">상세</a></small></p></td>
 <td><p><strong><a href="../Page/1._FFC_프랑크푸르트.md" title="wikilink">1. FFC 프랑크푸르트</a></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><strong><a href="../Page/우메오_IK.md" title="wikilink">우메오 IK</a></strong></p></td>
@@ -43,7 +43,7 @@
 </tr>
 <tr class="odd">
 <td><p>2002-03<br />
-<small><a href="https://ko.wikipedia.org/wiki/2002-03_UEFA_여자컵" title="wikilink">상세</a></p></td>
+<small><a href="https://ko.wikipedia.org/wiki/2002-03년_UEFA_여자컵" title="wikilink">상세</a></p></td>
 <td><p><strong><a href="../Page/우메오_IK.md" title="wikilink">우메오 IK</a></strong></p></td>
 <td><p>합계 <strong>7 - 1</strong><br />
 1차전 <strong>4 - 1</strong><br />
@@ -56,7 +56,7 @@
 </tr>
 <tr class="even">
 <td><p>2003-04<br />
-<small><a href="https://ko.wikipedia.org/wiki/2003-04_UEFA_여자컵" title="wikilink">상세</a></p></td>
+<small><a href="https://ko.wikipedia.org/wiki/2003-04년_UEFA_여자컵" title="wikilink">상세</a></p></td>
 <td><p><strong><a href="../Page/우메오_IK.md" title="wikilink">우메오 IK</a></strong></p></td>
 <td><p>합계 <strong>8 - 0</strong><br />
 1차전 <strong>3 - 0</strong><br />
@@ -69,7 +69,7 @@
 </tr>
 <tr class="odd">
 <td><p>2004-05<br />
-<small><a href="https://ko.wikipedia.org/wiki/2004-05_UEFA_여자컵" title="wikilink">상세</a></p></td>
+<small><a href="https://ko.wikipedia.org/wiki/2004-05년_UEFA_여자컵" title="wikilink">상세</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/1._FFC_투르비네_포츠담" title="wikilink">1. FFC 투르비네 포츠담</a></strong></p></td>
 <td><p>합계 <strong>5 - 1</strong><br />
 1차전 <strong>2 - 0</strong><br />
@@ -82,7 +82,7 @@
 </tr>
 <tr class="even">
 <td><p>2005-06<br />
-<small><a href="https://ko.wikipedia.org/wiki/2005-06_UEFA_여자컵" title="wikilink">상세</a></p></td>
+<small><a href="https://ko.wikipedia.org/wiki/2005-06년_UEFA_여자컵" title="wikilink">상세</a></p></td>
 <td><p><strong><a href="../Page/1._FFC_프랑크푸르트.md" title="wikilink">1. FFC 프랑크푸르트</a></strong></p></td>
 <td><p>합계 <strong>7 - 2</strong><br />
 1차전 <strong>4 - 0</strong><br />
@@ -95,7 +95,7 @@
 </tr>
 <tr class="odd">
 <td><p>2006-07<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2006-07_UEFA_여자컵" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2006-07년_UEFA_여자컵" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="../Page/아스널_WFC.md" title="wikilink">아스널 레이디스 FC</a></strong></p></td>
 <td><p>합계 <strong>1 - 0</strong><br />
 1차전 <strong>1 - 0</strong><br />
@@ -108,7 +108,7 @@
 </tr>
 <tr class="even">
 <td><p>2007-08<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2007-08_UEFA_여자컵" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2007-08년_UEFA_여자컵" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="../Page/1._FFC_프랑크푸르트.md" title="wikilink">1. FFC 프랑크푸르트</a></strong></p></td>
 <td><p>합계 <strong>4 - 3</strong><br />
 1차전 <strong>1 - 1</strong><br />
@@ -121,7 +121,7 @@
 </tr>
 <tr class="odd">
 <td><p>2008-09<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2008-09_UEFA_여자컵" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2008-09년_UEFA_여자컵" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/FCR_2001_뒤스부르크" title="wikilink">FCR 2001 뒤스부르크</a></strong></p></td>
 <td><p>합계 <strong>7 - 1</strong><br />
 1차전 <strong>6 - 0</strong><br />
@@ -141,7 +141,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009-10<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2009-10_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2009-10년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/1._FFC_투르비네_포츠담" title="wikilink">1. FFC 투르비네 포츠담</a></strong></p></td>
 <td><p><strong>0 - 0 (<a href="../Page/연장전.md" title="wikilink">연장</a>)</strong><br />
 <strong>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 7 - 6)</strong></p></td>
@@ -151,7 +151,7 @@
 </tr>
 <tr class="even">
 <td><p>2010-11<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2010-11_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2010-11년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1._FFC_투르비네_포츠담" title="wikilink">1. FFC 투르비네 포츠담</a></p></td>
@@ -160,7 +160,7 @@
 </tr>
 <tr class="odd">
 <td><p>2011-12<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2011-12_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2011-12년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="../Page/1._FFC_프랑크푸르트.md" title="wikilink">1. FFC 프랑크푸르트</a></p></td>
@@ -169,7 +169,7 @@
 </tr>
 <tr class="even">
 <td><p>2012-13<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2012-13_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2012-13년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="../Page/VfL_볼프스부르크_(여자_축구).md" title="wikilink">VfL 볼프스부르크</a></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></p></td>
@@ -178,7 +178,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013-14<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2013-14_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2013-14년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="../Page/VfL_볼프스부르크_(여자_축구).md" title="wikilink">VfL 볼프스부르크</a></strong></p></td>
 <td><p><strong>4 - 3</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/튀레쇠_FF" title="wikilink">튀레쇠 FF</a></p></td>
@@ -187,7 +187,7 @@
 </tr>
 <tr class="even">
 <td><p>2014-15<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2014-15_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2014-15년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="../Page/1._FFC_프랑크푸르트.md" title="wikilink">1. FFC 프랑크푸르트</a></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/파리_생제르맹_FC_(여자_축구).md" title="wikilink">파리 생제르맹</a></p></td>
@@ -196,17 +196,17 @@
 </tr>
 <tr class="odd">
 <td><p>2015-16<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2015-16_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2015-16년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></strong></p></td>
 <td><p><strong>1 - 1 (<a href="../Page/연장전.md" title="wikilink">연장</a>)</strong><br />
 <strong>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4 - 3)</strong></p></td>
 <td><p><a href="../Page/VfL_볼프스부르크_(여자_축구).md" title="wikilink">VfL 볼프스부르크</a></p></td>
 <td><p><a href="../Page/레조넬에밀리아.md" title="wikilink">레조넬에밀리아</a><br />
-<a href="https://ko.wikipedia.org/wiki/마페이_스타디움_-_치타_델_트리콜로레" title="wikilink">마페이 스타디움 - 치타 델 트리콜로레</a></p></td>
+<a href="../Page/마페이_스타디움_-_치타_델_트리콜로레.md" title="wikilink">마페이 스타디움 - 치타 델 트리콜로레</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016-17<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2016-17_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2016-17년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></strong></p></td>
 <td><p><strong>0 - 0 (<a href="../Page/연장전.md" title="wikilink">연장</a>)</strong><br />
 <strong>(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 7 - 6)</strong></p></td>
@@ -216,7 +216,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017-18<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2017-18_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2017-18년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></strong></p></td>
 <td><p><strong>4 - 1 (<a href="../Page/연장전.md" title="wikilink">연장</a>)</strong></p></td>
 <td><p><a href="../Page/VfL_볼프스부르크_(여자_축구).md" title="wikilink">VfL 볼프스부르크</a></p></td>
@@ -225,7 +225,7 @@
 </tr>
 <tr class="even">
 <td><p>2018-19<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2018-19_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2018-19년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></strong></p></td>
 <td><p><strong>4 - 1</strong></p></td>
 <td><p><a href="../Page/FC_바르셀로나_페메니.md" title="wikilink">바르셀로나</a></p></td>
@@ -234,21 +234,39 @@
 </tr>
 <tr class="odd">
 <td><p>2019-20<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2019-20_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
-<td><p><strong>? - ?</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
-<td><p><a href="../Page/빈.md" title="wikilink">빈</a><br />
-<a href="https://ko.wikipedia.org/wiki/프란츠_호어_슈타디온" title="wikilink">프란츠 호어 슈타디온</a></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2019-20년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<td><p><strong><a href="../Page/올랭피크_리옹_(여자_축구).md" title="wikilink">올랭피크 리옹</a></strong></p></td>
+<td><p><strong>3 - 1</strong></p></td>
+<td><p><a href="../Page/VfL_볼프스부르크_(여자_축구).md" title="wikilink">VfL 볼프스부르크</a></p></td>
+<td><p><a href="../Page/산세바스티안.md" title="wikilink">산세바스티안</a><br />
+<a href="https://ko.wikipedia.org/wiki/에스타디오_데_아노에타" title="wikilink">에스타디오 데 아노에타</a>[1]</p></td>
 </tr>
 <tr class="even">
 <td><p>2020-21<br />
-<small><em><a href="https://ko.wikipedia.org/wiki/2020-21_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<small><em><a href="https://ko.wikipedia.org/wiki/2020-21년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
 <td><p><strong>? - ?</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
 <td><p><a href="../Page/예테보리.md" title="wikilink">예테보리</a><br />
 <a href="../Page/감라_울레비.md" title="wikilink">감라 울레비</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019-20<br />
+<small><em><a href="https://ko.wikipedia.org/wiki/2021-22년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
+<td><p><strong>? - ?</strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
+<td><p><a href="../Page/토리노.md" title="wikilink">토리노</a><br />
+<a href="../Page/유벤투스_스타디움.md" title="wikilink">유벤투스 스타디움</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2020-21<br />
+<small><em><a href="https://ko.wikipedia.org/wiki/2022-23년_UEFA_여자_챔피언스리그" title="wikilink">상세</a></em></small></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
+<td><p><strong>? - ?</strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
+<td><p><a href="../Page/에인트호번.md" title="wikilink">에인트호번</a><br />
+<a href="../Page/필립스_스타디온.md" title="wikilink">필립스 스타디온</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -258,8 +276,12 @@
   - [UEFA 유럽 여자 축구 선수권 대회](../Page/UEFA_유럽_여자_축구_선수권_대회.md "wikilink")
   - [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink")
 
+## 각주
+
 ## 외부 링크
 
   - [UEFA 여자 챔피언스리그 공식 홈페이지](http://www.uefa.com/womenschampionsleague/)
 
 [UEFA_여자_챔피언스리그](https://ko.wikipedia.org/wiki/분류:UEFA_여자_챔피언스리그 "wikilink")
+
+1.  원래는 [오스트리아](../Page/오스트리아.md "wikilink") [빈](../Page/빈.md "wikilink")에 위치한 [프란츠 호어 슈타디온에서](https://ko.wikipedia.org/wiki/프란츠_호어_슈타디온 "wikilink") 열릴 예정이었으나 UEFA 집행위원회가 2020년 3월 23일에 유럽에서 일어난 [코로나19 범유행의](../Page/코로나19_범유행.md "wikilink") 여파를 고려하여 UEFA 주관 클럽 축구 대회 일정을 연기하기로 결정했다. UEFA 집행위원회는 2020년 6월 17일에 열린 회의에서 UEFA 여자 챔피언스리그 결승전 경기를 스페인 산세바스티안에 위치한 에스타디오 데 아노에타에서 대신 열기로 결정했다.

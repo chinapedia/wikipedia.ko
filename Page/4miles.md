@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [4miles](https://ko.wikipedia.org/wiki/4miles).
 
 
-**홍성민**(1975년 12월 25일 \~ )은 **4miles**라는 예명으로 알려진 [대한민국](../Page/대한민국.md "wikilink")의 싱어송라이터 겸 음악 프로듀서이며, a.k.a.는 **모지스 홍**(Moses Hong)이다.
+**홍성민**([1975년](../Page/1975년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") \~ )은 **4miles**라는 예명으로 알려진 [대한민국](../Page/대한민국.md "wikilink")의 싱어송라이터 겸 음악 프로듀서이며, a.k.a.는 **모지스 홍**(Moses Hong)이다.
 
 ## 이력
 

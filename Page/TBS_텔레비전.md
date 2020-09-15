@@ -24,7 +24,9 @@
   - [1951년](../Page/1951년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") - 주식회사 라디오 도쿄 설립등기
   - [1951년](../Page/1951년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") - 도쿄도 지요다구 유라쿠정의 스튜디오에서 일본 6번째 민간 AM라디오방송 본방송 개시. (**콜사인** **JOKR**, [주파수](https://ko.wikipedia.org/wiki/주파수 "wikilink") 1130KHz, 출력 50 kW)
   - [1953년](../Page/1953년.md "wikilink") [8월](../Page/8월.md "wikilink") - 주파수를 950KHz로 변경
+  - [1952년](../Page/1952년.md "wikilink") [8월](../Page/8월.md "wikilink") - TBS 아카사카 미디어 빌딩 착공
   - [1953년](../Page/1953년.md "wikilink") [12월](../Page/12월.md "wikilink") - 회사이름을 약칭인 "KRT"로 변경.(주식회사 라디오 도쿄의 영문표기인 **K**abusikigaisha **R**adio **T**okyo로부터 유래.)
+  - [1955년](../Page/1955년.md "wikilink") [3월](../Page/3월.md "wikilink") - TBS 아카사카 미디어 빌딩 준공
   - [1955년](../Page/1955년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") - 도쿄도 미나토구 아카사카에서 지상 아날로그 텔레비전 본방송 개시. (호출 부호 **JOKR-TV**, 채널 6, 영상 출력 10kW, 음성 출력 5kW)
   - [1958년](../Page/1958년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") - 일본방송 최초로 VTR을 사용한 텔레비전 드라마 「나는 조개가 되고 싶다」방송 (VTR영상은 방송 전반부에 사용했으며 후반부는 생방송, 프로그램은 전편이 [비디오테이프](../Page/비디오테이프.md "wikilink")로 보존)
   - [1959년](../Page/1959년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") - 황태자 성혼 퍼레이드 중계 취재 협력을 기회로, 일본 최초의 뉴스 네트워크인 「**JNN**」결성
@@ -41,7 +43,7 @@
   - [1968년](../Page/1968년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") - 저녁뉴스 컬러방송 실시와 더불어 컬러 필름에 의한 뉴스 취재 개시
   - [1971년](../Page/1971년.md "wikilink") [11월](../Page/11월.md "wikilink") - 라디오의 출력을 100 kW에 증강
   - [1973년](../Page/1973년.md "wikilink") [1월](../Page/1월.md "wikilink") - OP·ED에서 스튜디오 세트로 구성된 첫 컬러 OP·ED '유리봉'을 방영.
-      - 90초 버전으로 방영되었으며 1987년 9월까지 방영되었다.
+      - 90초 버전으로 방영되었으며 1987년 9월까지 방영되었다가 OP·ED를 30초 버전으로 방영되었으며 1991년 9월까지 방영이 되었다.
   - [1974년](../Page/1974년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink") - [간사이 지방의](https://ko.wikipedia.org/wiki/간사이_지방 "wikilink") 네트워크 준 중심방송국을 [아사히 방송에서](../Page/아사히_방송.md "wikilink") [마이니치 방송](../Page/마이니치_방송.md "wikilink")(MBS)으로 변경.
   - [1977년](../Page/1977년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") - 일본 최초의 3시간 드라마「바다는 되살아난다」방송.
   - [1978년](../Page/1978년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") - 텔레비전음성다중방송을 개시
@@ -50,10 +52,12 @@
   - [1986년](../Page/1986년.md "wikilink") [4월](../Page/4월.md "wikilink") - 텔레비전 문자다중방송 본방송 개시
   - [1987년](../Page/1987년.md "wikilink") [10월](../Page/10월.md "wikilink") - 텔레비전 24시간 방송 개시
   - [1989년](../Page/1989년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") [지쿠시 데쓰야를](../Page/지쿠시_데쓰야.md "wikilink") 메인 캐스터로 기용한 뉴스 프로그램 "[NEWS23](../Page/NEWS23.md "wikilink")\[3\]"이 시작되었다.
+  - [1990년](../Page/1990년.md "wikilink") [11월](../Page/11월.md "wikilink") - TBS 방송센터 착공 (아카사카 5메쵸 3번 6호)
   - [1990년](../Page/1990년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink") - 창립 40주년 기념사업으로 본사 특파원을 태운 우주선을 [카자흐스탄](../Page/카자흐스탄.md "wikilink") 바이코누르 우주 기지에서 쏘아 올린다〈TBS 우주 프로젝트〉
+  - [1991년](../Page/1991년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - TBS 도쿄방송 CI 변경
   - [1992년](../Page/1992년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") - 라디오 AM스테레오 방송의 본방송을 개시
   - [1994년](../Page/1994년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") - 현사옥 「TBS 방송 센터 (일명 빅 햇)」로 이전
-  - [1995년](../Page/1995년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") - 대한민국에 뉴스채널 YTN 보도협정 제휴
+  - [1995년](../Page/1995년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") - 대한민국에 뉴스채널 [YTN](../Page/YTN.md "wikilink") 보도협정 제휴
   - [1998년](../Page/1998년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") - CS방송 「JNN 뉴스버드」방송 개시
   - [2000년](../Page/2000년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") - 자회사로서 라디오 부문을 담당하는 주식회사 [TBS 라디오 & 커뮤니케이션즈](../Page/TBS_라디오_&_커뮤니케이션즈.md "wikilink"), 텔레비전 오락 프로그램 제작을 당담하는 주식회사*TBS 엔터테인먼트*, 텔레비전 스포츠 프로그램 제작을 당담하는 주식회사*TBS 스포츠*를 설립 및 분사화
   - [2000년](../Page/2000년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") - BS디지털 방송 「[BS-i](https://ko.wikipedia.org/wiki/BS-i "wikilink")」(현 BS-TBS/디지털 BS 6ch) 방송 개시

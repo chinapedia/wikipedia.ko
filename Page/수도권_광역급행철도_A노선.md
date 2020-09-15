@@ -75,8 +75,8 @@
 <td><p>Unjeong</p></td>
 <td><p>雲井</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>0.0</p></td>
+<td><p>0.0</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a></p></td>
 </tr>
 <tr class="even">
@@ -112,7 +112,7 @@
 <td></td>
 <td><p><a href="../Page/연신내역.md" title="wikilink">연신내</a></p></td>
 <td><p>Yeonsinnae</p></td>
-<td><p>延新川</p></td>
+<td></td>
 <td><p><br />
 </p></td>
 <td></td>
@@ -125,7 +125,7 @@
 <td></td>
 <td><p><a href="../Page/서울역.md" title="wikilink">서울역</a></p></td>
 <td><p>Seoul</p></td>
-<td><p>首爾</p></td>
+<td></td>
 <td><p><br />
 <br />
 <br />
@@ -197,7 +197,7 @@
 <td><p>東灘</p></td>
 <td><p><a href="../Page/수서고속철도.md" title="wikilink">수서고속철도</a></p></td>
 <td></td>
-<td><p>83.3</p></td>
+<td><p>83.1</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/화성시" title="wikilink">화성시</a></p></td>
 <td></td>
 </tr>

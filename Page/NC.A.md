@@ -200,7 +200,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><strong>15</strong></p></td>
-<td style="text-align: center;"><p><strong>《헤어질 자신 있니》</strong><small>(with.<a href="https://ko.wikipedia.org/wiki/HYNN" title="wikilink">HYNN</a>)</small></p>
+<td style="text-align: center;"><p><strong>《헤어질 자신 있니》</strong><small>(with.<a href="../Page/HYNN.md" title="wikilink">HYNN</a>)</small></p>
 <ul>
 <li>발매일: 2019년 10월 11일</li>
 </ul></td>
@@ -586,7 +586,7 @@ Global Audition - 포르투칼(Portugal) 편</p></td>
 <td style="text-align: center;"><p>MBC music</p></td>
 <td style="text-align: center;"><p>순위의 재구성 차트8</p></td>
 <td style="text-align: center;"><p>NC.A(공동MC)</p></td>
-<td style="text-align: center;"><p>2014년 04월 07일 ~ 2014‎년 ‎11‎월 ‎14‎일</p></td>
+<td style="text-align: center;"><p>2014년 04월 07일 ~ 2014년 11월 14일</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2014</p></td>

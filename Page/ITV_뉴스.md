@@ -17,6 +17,4 @@
   - [채널 4 뉴스](../Page/채널_4_뉴스.md "wikilink")
   - [BBC 뉴스](../Page/BBC_뉴스.md "wikilink")
 
-## 외부 링크
-
 [분류:영국의 텔레비전 뉴스](https://ko.wikipedia.org/wiki/분류:영국의_텔레비전_뉴스 "wikilink") [분류:ITV](https://ko.wikipedia.org/wiki/분류:ITV "wikilink")

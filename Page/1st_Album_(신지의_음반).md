@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1st Album \(신지의 음반\)](https://ko.wikipedia.org/wiki/1st_Album_\(신지의_음반\)).
 
 
-《**1st Album**》은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [신지의](../Page/신지_\(가수\).md "wikilink") 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink").
+《**1st Album**》은 [대한민국](../Page/대한민국.md "wikilink")의 가수 [신지의](../Page/신지_\(가수\).md "wikilink") 정규 1집 앨범이다.
 
 ## 개요
 
@@ -15,4 +15,4 @@
 
 ## 수록곡
 
-[분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:2008년 음반](https://ko.wikipedia.org/wiki/분류:2008년_음반 "wikilink") [분류:신지의 음반](https://ko.wikipedia.org/wiki/분류:신지의_음반 "wikilink")
+[분류:신지의 음반](https://ko.wikipedia.org/wiki/분류:신지의_음반 "wikilink") [분류:2008년 음반](https://ko.wikipedia.org/wiki/분류:2008년_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink")

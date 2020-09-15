@@ -158,8 +158,6 @@ Avex 레코딩 스튜디오에서 [808s & Heartbreak을](../Page/808s_&_Heartbre
 
 ## 각주
 
-<references/>
-
 [분류:2010년 음반](https://ko.wikipedia.org/wiki/분류:2010년_음반 "wikilink") [분류:카녜이 웨스트의 음반](https://ko.wikipedia.org/wiki/분류:카녜이_웨스트의_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:힙합 음반](https://ko.wikipedia.org/wiki/분류:힙합_음반 "wikilink") [분류:미국의 1위 음반](https://ko.wikipedia.org/wiki/분류:미국의_1위_음반 "wikilink") [분류:카녜이 웨스트가 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:카녜이_웨스트가_프로듀싱한_음반 "wikilink")
 
 1.  캘러핸비버, Noah (November 2010). [카녜이 웨스트: Project Runaway](http://www.complex.com/music/2010/11/kanye-west-project-runaway). *Complex*. Retrieved on 2010-11-30.

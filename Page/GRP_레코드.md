@@ -1,0 +1,460 @@
+> This article is converted from Wikipedia: [GRP 레코드](https://ko.wikipedia.org/wiki/GRP_레코드).
+
+
+**GRP 레코드**()는 [미국](../Page/미국.md "wikilink")의 재즈 레코드 레이블 기업이다. 1978년 [데이브 그루신과](https://ko.wikipedia.org/wiki/데이브_그루신 "wikilink") [래리 로센에](https://ko.wikipedia.org/wiki/래리_로센 "wikilink") 의해 설립되었다. GRP는 올 디지털 레코딩과 재즈 팝 사운드로 유명하였다.
+
+## 디스코그래피
+
+### GRP/Arista
+
+  - GRP-5000: Angela Bofill: Angie
+  - GRP-5001: Dave Valentin: Legends
+  - GRP-5002: Urban Ensemble: The Music of Roland Vazquez
+  - GRP-5003: Tom Browne: Browne Sugar
+  - GRP-5004: Jay Hoggard: Days Like These
+  - GRP-5005: Angela Bofill: Angel of the Night
+  - GRP-5006: Dave Valentin: The Hawk
+  - GRP-5007: Scott Jarrett: Without Rhyme or Reason
+  - GRP-5008: Tom Browne: Love Approach
+  - GRP-5009: Dave Valentin: Land of the Third Eye
+  - GRP-5010: Dave Grusin: Mountain Dance
+  - GRP-5011: Bernard Wright: Nard
+  - GRP-5503: Tom Browne: Magic
+  - GRP-5504: Bobby Broom: Clean Sweep
+  - GRP-5505: Dave Valentin: Pied Piper
+  - GRP-5506: Dave Grusin & The GRP All Stars: Live in Japan
+  - GRP-5507: Tom Browne: Yours Truly
+  - GRP-5509: Don Blackman: Don Blackman
+  - GRP-5510: Dave Grusin: Out of the Shadows
+  - GRP-5511: Dave Valentin: In Love's Theme
+  - GRP-A-1004: Dave Valentin: Flute Juice
+  - GRP-A-1005: Homi & Jarvis: Friend of a Friend
+
+### 1983-1996
+
+  - GRP-9501 Dave Grusin: NY/LA Dream Band
+  - GRP-9502 Glenn Miller: In a Digital Mood
+  - GRP-9503 Gerry Mulligan: Little Big Horn
+  - GRP-9504 Dave Grusin: Night Lines
+  - GRP-9505 Special EFX: Special EFX
+  - GRP-9506 Kevin Eubanks: Sundance
+  - GRP-9507 Dave Grusin: Mountain Dance
+  - GRP-9508 Dave Valentin: Kalahari
+  - GRP-9509 GRP Sampler Vol.1 Limited Edition
+  - GRP-9510 Diane Schuur: Deedles
+  - GRP-9511 Dave Grusin: Out of the Shadows
+  - GRP-9512 Dizzy Gillespie: New Faces
+  - GRP-9513: Dave Grusin: Original Motion Picture Soundtrack Themes
+  - GRP-9514 Dave Grusin: One of a Kind
+  - GRP-9515: Dave Valentin: The Hawk
+  - GRP-9516: Jay Hoggard: Days Like These
+  - GRP-9517: Tom Browne: Browne Sugar
+  - GRP-9518: Scott Jarrett: Without Rhyme or Reason
+  - GRP-9519: Dave Valentin: Legends
+  - GRP-9520 (GRP-A-1013): Kevin Eubanks: Opening Night
+  - 9521 (GRP-A-1014): Special EFX: Modern Manners
+  - 9522 (GRP-A-1015): Dave Grusin & Lee Ritenour: Harlequin
+  - 9523 (GRP-A-1016): Dave Valentin: Jungle Garden
+  - 9524 (GRP-A-1017): Lee Ritenour: Rio
+  - 9525: Lee Ritenour: On the Line
+  - 9526: Dave Valentin: In Love's Time
+  - 9527 (GRP-A 1019): Randy Goodrum: Solitary Nights
+  - 9528 (GRP-A-1020): Billy Cobham: Warning
+  - 9529: Sampler Vol. 2 Limited Edition
+  - 9531 (GRP-A-1022): Diane Schuur: Schuur Thing
+  - 9532 (GRP-A-1023): Grusin/Schuur/Valentin/Ritenour: Live in Session
+  - 9533 (GRP-A-1024): Eddie Daniels: Breakthrough
+  - 9534 (GRP-A 1025): Special EFX: Slice of Life
+  - 9535 (GRP-A-1026): Chick Corea: The Chick Corea Elektric Band
+  - 9536 (GRP-A 1027): Billy Cobham: Power Play
+  - 9537 (GRP-A 1028): Dave Valentin: Light Struck
+  - 9538 (GRP-A-1021): Lee Ritenour: Earth Run
+  - 9539 (GRP-A-1029): Kevin Eubanks: Face to Face
+  - 9540 (GRP-A-1030): Diane Schuur: Timeless
+  - 9541 (GRP-A-1031): David Benoit: This Side Up
+  - 9542 (GR-1032): Stéphane Grappelli: Plays Jerome Kern
+  - 9543 (GR-1033): Special EFX: Mystique
+  - 9544 (GR-1034): Eddie Daniels: To Bird With Love
+  - 9545 (GR-1035): David Benoit: Freedom at Midnight
+  - 9546 (GR 1036): Chick Corea: Light Years
+  - 9547 (GR-1037): Dave Grusin: Cinemagic
+  - 9548 (GR-1038): Duke Ellington Orchestra: Digital Duke
+  - 9549: New Magic Sampler
+  - 9550 (GR-1039): Diane Schuur & the Count Basie Orchestra
+  - 9551 (GR-1040): Billy Cobham: Picture This
+  - 9552 (GR-1041): Kevin Eubanks: The Heat of Heat
+  - 9553 (GR-1042): Lee Ritenour: Portrait
+  - 9554 (GR 1043): Dave Valentin: Mind Time
+  - 9555 (GR-1044): Tom Scott: Streamlines
+  - 9556 (GR-1045): Szakcsi: Sa: chi
+  - 9557 (GR-1046): Yutaka: Yutaka
+  - 9558 (GR 1047): David Benoit: Every Step of the Way
+  - 9559 (GR-1048): Special EFX: Double Feature
+  - 9560 (GR-1049): John Patitucci: John Patitucci
+  - 9561 (GR-1050): Eddie Daniels: Memos From Paradise
+  - 9562 (GR-1051): Dave Grusin & Don Grusin: Sticks and Stones
+  - 9563 (GR-1052): Eric Marienthal: Voices of the Heart
+  - 9564 (GR-1053): Chick Corea: Eye of the Beholder
+  - 9565 (GR-1054): Kevin Eubanks: Shadow Prophets
+  - 9566: Various Artists: Go for the Gold
+  - 9567: Diane Schuur: About You
+  - 9568: Dave Valentin: Live at the Blue Note
+  - 9569: Gary Burton: Times Like These
+  - 9570: Lee Ritenour: Festival
+  - 9571: Tom Scott: Flashpoint
+  - 9572: Mark Egan: A Touch of Light
+  - 9573: Daryl Stuermer: Steppin' Out
+  - 9574: Christmas Collection Vol. 1
+  - 9575: Billy Cobham: Billy's Best Hits
+  - 95762: Various Artists: Music Beyond the Horizon
+  - 9577: Szakcsi: Mystic Dreams
+  - 9578: Deborah Henson-Conant: On the Rise
+  - 9579: Dave Grusin: Collection
+  - 9580: Kevin Eubanks: The Searcher
+  - 9581: Special EFX: Confidential
+  - 9582: Chick Corea: Chick Corea Akoustic Band
+  - 9583: John Patitucci: On the Corner
+  - 9584: Eddie Daniels: Blackwood
+  - 9585: Omar Hakim: Rhythm Deep
+  - 9586: Eric Marienthal: Round Trip
+  - 9587: David Benoit: Urban Daydreams
+  - 9588: The Rippingtons Featuring Russ Freeman: Tourist in Paradise
+  - 9589: New York Voices: New York Voices
+  - 9590: Various Artists: GRP Digital Sampler: On the Cutting Edge
+  - 9591: Diane Schuur: Collection
+  - 9592: Dave Grusin: Migration
+  - 9593: Nelson Rangell: Playing for Keeps
+  - 9594: Lee Ritenour: Color Rit
+  - 9595: David Benoit: Waiting for Spring
+  - 9596: Various Artists: Happy Anniversary Charlie Brown\!
+  - 9597: The Rippingtons: Kilimanjaro
+  - 9598: Gary Burton: Reunion
+  - 9599: Steve Khan: Public Access
+  - 9600: Deborah Henson-Conant: Caught in the Act
+  - 9601: Chick Corea Elektric Band: Inside Out
+  - 9602: Don Grusin: Raven
+  - 9603: Patti Austin: Love Is Gonna Getcha
+  - 9604: Kevin Eubanks: Promise of Tomorrow
+  - 9605: The Rippingtons: Moonlighting
+  - 9606: Dave Valentin & Herbie Mann: Two Amigos
+  - 9607: Eddie Daniels: Nepenthe
+  - 9608: Spyro Gyra: Fast Forward
+  - 9609: Special EFX: Just Like Magic
+  - 9610: Eric Marienthal: Crossroads
+  - 9611: Larry Carlton: Collection
+  - 9612: Carl Anderson: Pieces of a Heart
+  - 9613: Tom Scott: Them Changes
+  - 9614: Acoustic Alchemy: Reference Point
+  - 9615: Lee Ritenour: Stolen Moments
+  - 9616: Yutaka: Brazasia
+  - 9617: John Patitucci: Sketchbook
+  - 9618: The Rippingtons Featuring Russ Freeman: Welcome to the St. James' Club
+  - 9619: Dave Weckl: Master Plan
+  - 9620: The Meeting: The Meeting
+  - 9621: David Benoit: Inner Motion
+  - 9622: Michael Brecker: Now You See It & Now You Don't)
+  - 9623: Michael Paulo: Fusebox
+  - 9624: Nelson Rangell: Nelson Rangell
+  - 9625: Tom Schuman: Extremities
+  - 9626: George Howard: Dancing in the Sun
+  - 9627: Chick Corea Akoustic Band: Alive
+  - 9628: Diane Schuur: Pure Schuur
+  - 9629: George Howard: Love and Understanding
+  - 9630: Yellowjackets: Greenhouse
+  - 9632: Claus Ogerman Featuring Michael Brecker: Claus Ogerman
+  - 9633: Amani A.W. Murray: Amani A.W. Murray
+  - 9634: Arturo Sandoval: Flight to Freedom
+  - 9635: Eddie Daniels: ...This Is Now
+  - 9636: Deborah Henson-Conant: Talking Hands
+  - 9637: B.B. King: Live at the Apollo
+  - 9638: The Crusaders: Healing the Wounds
+  - 9640: Special EFX: Peace of the World
+  - 9641: Garfield: Am I Cool or What?
+  - 9642: Spyro Gyra: Collection
+  - 9643: Gary Burton: Cool Nights
+  - 9644: Don Grusin: Zephyr
+  - 9645: Lee Ritenour: Collection
+  - 9646: Tom Scott: Keep This Love Alive
+  - 9647: Szakcsi: Eve of Chance
+  - 9648: Acoustic Alchemy: Back on the Case
+  - 9649: Chick Corea Elektric Band: Beneath the Mask
+  - 9650: Christmas Collection Vol.2
+  - 9651: The Rippingtons Featuring Russ Freeman: Curves Ahead
+  - 9652: Voyceboxing: Voyceboxing
+  - 9653: New York Voices: Hearts of Fire
+  - 9654: David Benoit: Shadows
+  - 9655: Eric Marienthal: Oasis
+  - 9656: Dave Samuels: Natural Selection
+  - 9657: Kenny Kirkland: Kenny Kirkland
+  - 9658: Joe Sample: Collection
+  - 9659: George Howard: Love Will Follow
+  - 9660: Patti Austin: Carry On
+  - 9661: Dudley Moore: Songs Without Words
+  - 9662: Nelson Rangell: In Every Moment
+  - 9663: Kim Pensyl: 3 Day Weekend
+  - 9664: Dave Valentin: Musical Portraits
+  - 9665: Eddie Daniels & Gary Burton: Benny Rides Again
+  - 9666: Acoustic Alchemy: Early Alchemy
+  - 9667: Yellowjackets: Live Wires
+  - 9668: Arturo Sandoval: I Remember Clifford
+  - 9669: George Howard: Do I Ever Cross Your Mind
+  - 9670: Special EFX: Global Village
+  - 9671: Carl Anderson: Fantasy Hotel
+  - 9672: GRP All-Star Big Band: GRP All-Star Big Band
+  - 9673: Dave Weckl: Heads Up
+  - 9674: Spyro Gyra: Three Wishes
+  - 9675: Tom Scott: Born Again
+  - 9676: Don Grusin: No Borders
+  - 9677: Rene Luis Toledo: The Dreamer
+  - 9678: Sal Marquez: One for Dewey
+  - 9679: Gerry Mulligan: Re: Birth of the Cool
+  - 9681: The Rippingtons Featuring Russ Freeman: Weekend in Monaco
+  - 9682: Patti Austin: Live
+  - 9683: Larry Carlton: Kid Gloves
+  - 9684: Brecker Brothers: The Return of the Brecker Brothers
+  - 9685: Gary Burton: Six Pack
+  - 9686: George Howard: Steppin' Out
+  - 9687: David Benoit: Letter to Evan
+  - 9688: Acoustic Alchemy: The New Edge
+  - 9689: Yellowjackets: Like a River
+  - 9690: Special EFX: Collection
+  - 9691: Eric Marienthal: One Touch
+  - 9692: Billy Taylor Featuring Gerry Mulligan: Dr. T
+  - 9693: Yutaka: Another Sun
+  - 9694: Phillip Bent: The Pressure
+  - 9695: Nelson Rangell: Truest Heart
+  - 9696: Dave Samuels: Del Sol
+  - 9697: Lee Ritenour: Wes Bound
+  - 9698: Acoustic Alchemy: The New Edge
+  - 9699: Dave Valentin: Red Sun
+  - 9700: New York Voices: What's Inside
+  - 9701: Arturo Sandoval Featuring Michel Legrand: Dream Come True
+  - 9703: Diane Schuur: Love Songs
+  - 97052" Lee Ritenour: Wes Bound
+  - 9706: Gold Encore Series: Digital Big Band Bash\!
+  - 9707: Gold Encore Series: I Love a Piano
+  - 9708: Gold Encore Series: Guitar Fire
+  - 9709: Gold Encore Series: World of Contemporary Jazz Groups
+  - 9710: Kim Pensyl: Eyes of Wonder
+  - 9711: Acoustic Alchemy: The New Edge
+  - 9712: Rob Wasserman: Duets
+  - 9713: Diane Schuur: Love Songs
+  - 9714: Spyro Gyra: Dreams Beyond Control
+  - 9715: Dave Grusin: Homage to Duke
+  - 9716: Eddie Daniels: Under the Influence
+  - 97172: Eddie Daniels: Under the Influence
+  - 9718: The Rippingtons Featuring Russ Freeman: Live in L.A.
+  - 9719: Don Grusin: Native Land
+  - 9720: Sergio Salvatore: Sergio Salvatore
+  - 9721: We're All In This Together: Group AIDS Benefit
+  - 9722: Dave Grusin: Homage to Duke
+  - 9723: Larry Carlton: Renegade Gentleman
+  - 9724: George Howard: When Summer Comes
+  - 9725: John Patitucci: Another World
+  - 9726: Jimmy Haslip: Arc
+  - 9727: Tony Remy: Boof\!
+  - 9728: Christmas Collection Vol. 3
+  - 9729: Kim Pensyl: A Kim Pensyl Christmas
+  - 9730: Jack Elliott Featuring Ray Brown: American Jazz Philharmonic
+  - 9731: Chick Corea Elektric Band II: Paint the World
+  - 9732: Gold Encore Series: Songbirds
+  - 9733: Gold Encore Series: Triumphant Sax
+  - 9734: Christmas Collection 3 Disc Box
+  - 9736: Tony Remy: Boof
+  - 9737: Szakcsi: Straight Ahead
+  - 9738: Gary Burton & Rebecca Paris: It's Another Day
+  - 9739: David Benoit & Russ Freeman: The Benoit/Freeman Project
+  - 9740: GRP All-Star Big Band: Dave Grusin Presents GRP All-Star Big Band Live\!
+  - 9741: Chick Corea Electric Band II: Paint the World
+  - 9742: Ramsey Lewis: Sky Islands
+  - 9746: The Crusaders: Live in Japan
+  - 9747: Gold Encore Series: Sound the Trumpets
+  - 9748: Gold Encore Series: Balladeers\!
+  - 9749: Gold Encore Series: Feeling the Blues
+  - 9750: Gold Encore Series: Magical Duos
+  - 9752: Tom Scott: Reed My Lips
+  - 9753: Billy Taylor: It's a Matter of Pride
+  - 9754: Yellowjackets: Run for Your Life
+  - 9755: Nelson Rangell: Yes, Then Yes
+  - 97562: Billy Taylor: It's a Matter of Pride
+  - 97582: Szakcsi: Straight Ahead
+  - 97592: Tom Scott: Reed My Lips
+  - 9760: Dave Weckl: Hard: Wired
+  - 9761: Arturo Sandoval: Dance On
+  - 9762: Sergio Salvatore: Tune Up
+  - 97632: Sergio Salvatore: Tune Up
+  - 9766: New York Voices: Collection
+  - 9767: Diane Schuur & B. B. King: Heart to Heart
+  - 9768: Eddie Daniels: Collection
+  - 9769: Dave Valentin: Tropic Heat
+  - 9770: Kim Pensyl: Pensyl Sketches Collection
+  - 97732: Chick Corea: Expressions
+  - 9774: Chick Corea: Expressions
+  - 9776: Gold Encore Series: Feel the Vibes
+  - 9777: Various Artists: Acoustic Jazz
+  - 9778: Carl Anderson: Heavy Weather Sunlight Again
+  - 9779: Don Grusin: Banana Fish
+  - 9780: George Howard: A Home Far Away
+  - 9781: Russ Freeman and The Rippingtons: Sahara
+  - 9782: Gold Encore Series: Jazz Live
+  - 9783: Acoustic Alchemy: Against the Grain
+  - 9784: The Brecker Brothers: Out of the Loop
+  - 9785: Eric Marienthal: Street Dance
+  - 9787: David Benoit: Shaken Not Stirred
+  - 9788: Teodross Avery Quartet: In Other Words
+  - 9789: Dave Grusin: The Orchestral Album
+  - 9790: Gold Encore Series: Jazz Romance
+  - 9791: Gold Encore Series: Jazz Exotica
+  - 9792: Gold Encore Series: Covering All the Bassists
+  - 9793: Gold Encore Series: Beat of a Different Drummer
+  - 9794: Stolen Moments: Red Hot + Cool
+  - 9796: Gold Encore Series: The Joy of Christmas
+  - 97972: Dave Grusin: The Orchestral Album
+  - 9798: Teodross Avery Quartet: In Other Words
+  - 9800: GRP All-Star Big Band: All Blues
+  - 9801: Yellowjackets: Like a River
+  - 9802: John Patitucci: Mistura Fina
+  - 9803: Tom Scott: Night Creatures
+  - 98042: Tom Scott: Night Creatures
+  - 9805: Gary Burton & Makato Ozone: Face to Face
+  - 9806: Billy Taylor Trio: Homage
+  - 9808: Spyro Gyra: Love and Other Obsessions
+  - 9809: Yellowjackets: Collection
+  - 98102: Diana Krall: Only Trust Your Heart
+  - 98112: Spyro Gyra: Love and Other Obsessions
+  - 9812: Spyro Gyra: Point of View
+  - 9813: Spyro Gyra: Rites of Summer
+  - 9814: Nelson Rangell: Destiny
+  - 9815: Urban Knights: Urban Knights I
+  - 9817: Lee Ritenour & Larry Carlton: Larry and Lee
+  - 9818: Arturo Sandoval: Arturo Sandoval & The Latin Train
+  - 9819: Chick Corea: Forever & Beyond 1964–1996 (Box Set)
+  - 9821: Patti Austin: The Ultimate Collection
+  - 9822: Arturo Sandoval: Arturo Sandoval & El Train Latino
+  - 9823: George Benson: That's Right
+  - 98242: George Benson: That's Right
+  - 9825: Diana Krall: Stepping Out
+  - 9826: Russ Freeman: Holiday
+  - 9827: Various Artists: I Got No Kick Against Modern Jazz
+  - 9828: Dave Grusin: The Cure
+  - 98292: Jerald Daemyon: Thinking About You
+  - 98302: Nils Gessinger: Ducks 'N' Cookies
+  - 98312: David Benoit: The Best of David Benoit 1987–1995
+  - 98322: Various Artists: I Got No Kick Against Modern Jazz
+  - 9833: Acoustic Alchemy: Red Dust & Spanish Lace
+  - 9834: Acoustic Alchemy: Natural Elements
+  - 98352: The Rippingtons: Brave New World
+  - 98362: Yoshiko Kishino: Fairy Tale
+  - 9837: Acoustic Alchemy: Blue Chip
+  - 9838: John Klemmer: Mosaic: The Best of John Klemmer
+  - 98392: George Howard: Attitude Adjustment
+  - 98402: Kevin Eubanks: The Best of Kevin Eubanks
+  - 9841: Diane Schuur: Love Walked In
+  - 98422: Spyro Gyra: Heart of the Night
+  - 9843: Ramsey Lewis: Between the Keys
+  - 9844: Tom Scott & The L.A. Express: Bluestreak
+  - 9845: Acoustic Alchemy: Best Kept Secret
+  - 9846: Arturo Sandoval: Swingin 2
+  - 9848: Acoustic Alchemy: Arcanum
+  - 9849: Spyro Gyra: Heart of the Night
+  - 98502: Nils Gessinger: Scratch Blue
+  - 9851: Gary Burton: Collection
+  - 9852: David Benoit: Remembering Christmas
+  - 9853: Eric Marienthal: Collection
+  - 9854: Larry Carlton: The Gift
+  - 9855: Luis Salinas: Salinas
+  - 9858: The Jazzmasters: The Jazzmasters III
+  - 9861: Urban Knights: Urban Knights II
+  - 9863: Diane Schuur: Blues for Schuur
+  - 9864: Nelson Rangell: Turning Night Into Day
+  - 9865: Dave Grusin: Two for the Road
+  - 9867: Spyro Gyra: 20/20
+  - 9869: Mehmet Ergin: Beyond the Seven Hills
+  - 98702: Ella Fitzgerald: Priceless Jazz
+  - 98712: Billie Holiday: Priceless Jazz
+  - 98722: Louis Armstrong: Priceless Jazz
+  - 98732: Johnny Hartman: Priceless Jazz
+  - 98742: John Coltrane: Priceless Jazz
+  - 98752: Duke Ellington: Priceless Jazz
+  - 98762: Sonny Rollins: Priceless Jazz
+  - 98772: Charles Mingus: Priceless Jazz
+  - 98782: Chick Corea: Priceless Jazz
+  - 98792: Gato Barbieri: Priceless Jazz
+  - 98802: Pharoah Sanders: Priceless Jazz
+  - 9881: Various Artists: Priceless Jazz
+  - 9882: Lee Ritenour: Alive in L.A.
+  - 98832: David Benoit: American Landscape
+  - 9885: George Howard: Very Best of George Howard (And Then Some)
+  - 9886: Various Artists: A Traditional Jazz Christmas
+  - 9887: Various Artists: A Contemporary Jazz Christmas
+  - 9888: Diane Schuur: The Very Best of Diane Schuur
+  - 9889: Larry Carlton: Collection Volume 2
+  - 9890: Keiko Matsui: Collection
+  - 98912: The Rippingtons: The Best of the Rippingtons
+  - 98922: Crusaders: Priceless Jazz
+  - 9893: Yellowjackets: Priceless Jazz
+  - 9894: Keith Jarrett: Priceless Jazz
+  - 98952: Gil Evans: Priceless Jazz
+  - 98962: Tom Scott: Priceless Jazz
+  - 9897: Carmen McRae: Priceless Jazz
+  - 98982: Ramsey Lewis: Priceless Jazz
+  - 98992: Ahmad Jamal: Priceless Jazz
+  - 9900: Brecker Brothers: Priceless Jazz
+  - 99012: Various Artists: Priceless Jazz Sampler 2
+  - 9902: George Howard: Midnight Mood
+  - 9903: Spyro Gyra: Road Scholars
+  - 99042: Ramsey Lewis: Dance of the Soul
+  - 9906: George Benson: Standing Together
+  - 99072: Acoustic Alchemy: Positive Thinking
+  - 9908: Marcus Miller: Live & More
+  - 9909: Marc Antoine: Classical Soul
+  - 9910: Marc Antoine: Urban Gypsy
+  - 9913: Nelson Rangell: The Very Best of Nelson Rangel
+  - 9914: Alice Coltrane: Priceless Jazz
+  - 9915: John Coltrane: Priceless Jazz (More John Coltrane)
+  - 9916: Ella Fitzgerald: Priceless Jazz (More Ella Fitzgerald)
+  - 9917: Billie Holiday: Priceless Jazz (More Billie Holiday)
+  - 9918: Louis Armstrong: Priceless Jazz (More Louis Armstrong)
+  - 9919: Various Artists: Priceless Jazz Sampler 3
+  - 9920: Count Basie: Swingstation
+  - 9921: Ella Fitzgerald With Chick Webb: Swingstation
+  - 9922: Lionel Hampton: Swingstation
+  - 9923: Jimmie Lunceford: Swingstation
+  - 9924: Various Artists: Swingstation Sampler
+  - 9925: George Benson: Standing Together
+  - 9926: Marc Antoine: Madrid
+  - 99282: Nelson Rangell: The Best of Nelson Rangell
+  - 9929: Rachel Z: Love Is The Power
+  - 9930: Stephane Grappelli: Priceless Jazz
+  - 9931: McCoy Tyner: Priceless Jazz
+  - 9932: Dave Grusin: Priceless Jazz
+  - 9933: Stanley Turrentine/Shirley Scott: Priceless Jazz
+  - 9934: Freddie Hubbard: Priceless Jazz
+  - 9935: Various Artists: A Time for Love
+  - 9936: Various Artists:Cole Porter Songbook
+  - 9937: Various Artists: Gershwin Songbook
+  - 9938: Various Artists: Rodgers & Hart Songbook
+  - 99392: Rachel Z: Love Is the Power
+  - 9940: Various Artists: Priceless Jazz Sampler 4
+  - 9942: David Benoit: Professional Dreamer
+  - 9943: Various Artists: Irving Berlin Songbook
+  - 9944: Various Artists: Tenor Sax Ballads
+  - 9945: Lionel Hampton: Priceless Jazz
+  - 9946: John Klemmer: Priceless Jazz
+  - 9947: Betty Carter: Priceless Jazz
+  - 9948: Brecker Brothers: Priceless Jazz
+  - 9949: James Moody: Priceless Jazz
+  - 9950: Various Artists: Priceless Jazz Sampler 5
+  - 9951: Louis Jordan: Swingstation
+  - 9952: Charlie Barnet/Jimmy Dorsey: Swingstation
+  - 9953: Tommy Dorsey/Artie Shaw: Swingstation
+  - 9954: Benny Goodman: Swingstation
+  - 9955: Various Artists: Swingstation Sampler 2
+  - 9956: Joe Sample: The Song Lives On
+
+## 외부 링크
+
+  - [The Dave Grusin Archive](http://www.grusin.net)
+  - [Official site of co-founder Larry Rosen](http://www.larryrosen.com)
+
+[분류:미국의 음반사](https://ko.wikipedia.org/wiki/분류:미국의_음반사 "wikilink") [분류:워너 뮤직 그룹](https://ko.wikipedia.org/wiki/분류:워너_뮤직_그룹 "wikilink")

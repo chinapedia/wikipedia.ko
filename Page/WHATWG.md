@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WHATWG](https://ko.wikipedia.org/wiki/WHATWG).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:WHATWG_logo.svg "wikilink")  **웹 하이퍼텍스트 애플리케이션 테크놀로지 워킹 그룹**(Web Hypertext Application Technology Working Group, WHATWG)은 [HTML](../Page/HTML.md "wikilink") 및 관련 기술을 발전시키는 데 관심이 있는 사람들의 모임이다. 2004년 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink"), [모질라 재단](../Page/모질라_재단.md "wikilink"), [오페라 소프트웨어의](https://ko.wikipedia.org/wiki/오페라_소프트웨어 "wikilink") 개인들이 설립하였다.\[1\] 그 후, 당시 WHATWG 규격의 편집장이었던 [이안 힉슨](https://ko.wikipedia.org/wiki/이안_힉슨 "wikilink")(Ian Hickson)이 오페라 소프트웨어에서 [구글](../Page/구글.md "wikilink")로 이직함에 따라 구글도 WHATWG의 일원이 됐다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:WHATWG_logo.svg "wikilink")  **웹 하이퍼텍스트 애플리케이션 테크놀로지 워킹 그룹**(Web Hypertext Application Technology Working Group, WHATWG)은 [HTML](../Page/HTML.md "wikilink") 및 관련 기술을 발전시키는 데 관심이 있는 사람들의 모임이다. 2004년 [애플](../Page/애플.md "wikilink"), [모질라 재단](../Page/모질라_재단.md "wikilink"), [오페라 소프트웨어의](https://ko.wikipedia.org/wiki/오페라_소프트웨어 "wikilink") 개인들이 설립하였다.\[1\] 그 후, 당시 WHATWG 규격의 편집장이었던 [이안 힉슨](https://ko.wikipedia.org/wiki/이안_힉슨 "wikilink")(Ian Hickson)이 오페라 소프트웨어에서 [구글](../Page/구글.md "wikilink")로 이직함에 따라 구글도 WHATWG의 일원이 됐다.
 
 WHATWG는 멤버스(Members)로 불리는 초대 전용의 조그마한 감시 위원회를 가지고 있으며 이 위원회는 규격을 맡은 편집장을 탄핵할 권한을 가지고 있다.\[2\] 누구든지 WHATWG 메일링 리스트에 참가하여 기여자로 참여할 수 있다.
 

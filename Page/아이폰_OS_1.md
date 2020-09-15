@@ -5,7 +5,7 @@
 
 ## 역사
 
-[2007년](../Page/2007년.md "wikilink")에 맥월드 컨퍼런스에서 [아이폰 (1세대)와](../Page/아이폰_\(1세대\).md "wikilink") 함께 처음으로 공개되었다. 공개 당시 [애플은](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 아이폰 OS 1을 "[맥 OS X 타이거에](../Page/맥_OS_X_타이거.md "wikilink") 기반해 있다" 라고 하였다. 당시 [애플](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발자 내에서는, 새로운 아이폰 OS 를 [아이팟](../Page/아이팟.md "wikilink")을 기반으로 하여 만들자는 주장이 있었고, [OS X를](https://ko.wikipedia.org/wiki/OS_X "wikilink") 기반으로 하여 만들자는 주장이 서로 대립되었는데, [스티브 잡스가](../Page/스티브_잡스.md "wikilink") [OS X를](https://ko.wikipedia.org/wiki/OS_X "wikilink") 기반으로 하여 만들자는 주장을 지지하게 되면서, 아이폰 OS 1은 [맥 OS X 타이거에](../Page/맥_OS_X_타이거.md "wikilink") 기반으로 하여 개발되게 되었다. 따라서 아이폰 OS 1에 존재하였던 Dock 기능이나, 상태 막대와 같은 기능은 [OS X를](https://ko.wikipedia.org/wiki/OS_X "wikilink") 본떠 만들어지게 되었다.
+[2007년](../Page/2007년.md "wikilink")에 맥월드 컨퍼런스에서 [아이폰 (1세대)와](../Page/아이폰_\(1세대\).md "wikilink") 함께 처음으로 공개되었다. 공개 당시 [애플](../Page/애플.md "wikilink")은 아이폰 OS 1을 "[맥 OS X 타이거에](../Page/맥_OS_X_타이거.md "wikilink") 기반해 있다" 라고 하였다. 당시 [애플](../Page/애플.md "wikilink") 개발자 내에서는, 새로운 아이폰 OS 를 [아이팟](../Page/아이팟.md "wikilink")을 기반으로 하여 만들자는 주장이 있었고, [OS X를](https://ko.wikipedia.org/wiki/OS_X "wikilink") 기반으로 하여 만들자는 주장이 서로 대립되었는데, [스티브 잡스가](../Page/스티브_잡스.md "wikilink") [OS X를](https://ko.wikipedia.org/wiki/OS_X "wikilink") 기반으로 하여 만들자는 주장을 지지하게 되면서, 아이폰 OS 1은 [맥 OS X 타이거에](../Page/맥_OS_X_타이거.md "wikilink") 기반으로 하여 개발되게 되었다. 따라서 아이폰 OS 1에 존재하였던 Dock 기능이나, 상태 막대와 같은 기능은 [OS X를](https://ko.wikipedia.org/wiki/OS_X "wikilink") 본떠 만들어지게 되었다.
 
 또한 [스티브 잡스의](../Page/스티브_잡스.md "wikilink") 전기문에 의하면, 개발 전에 [스티브 잡스는](../Page/스티브_잡스.md "wikilink") [앱스토어](../Page/앱_스토어_\(iOS\).md "wikilink") 가 새로운 아이폰 OS 1에 필요한 것을 알고는 있었지만, [스티브 잡스는](../Page/스티브_잡스.md "wikilink") 아직 넣지 말라고 하였으며, "나중에 이 아이폰이 출시된 이후 넣어도 된다" 고 하였다고 한다. 따라서 이후 아이폰 OS 1의 후속 버전인 [아이폰 OS 2](../Page/아이폰_OS_2.md "wikilink") 에서 [앱스토어가](../Page/앱_스토어_\(iOS\).md "wikilink") 추가되었다.
 
@@ -15,4 +15,4 @@
 
 아이폰 OS 1.1.3은 [아이팟 터치](../Page/아이팟_터치.md "wikilink") 사용자들에 한해 19.95 달러를 지불해야만 운영 체제를 업그레이드할 수 있었다.
 
-[분류:애플](https://ko.wikipedia.org/wiki/분류:애플 "wikilink") [분류:iOS](https://ko.wikipedia.org/wiki/분류:iOS "wikilink")
+[분류:애플](https://ko.wikipedia.org/wiki/분류:애플 "wikilink") [분류:IOS](https://ko.wikipedia.org/wiki/분류:IOS "wikilink")

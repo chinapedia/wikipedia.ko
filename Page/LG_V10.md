@@ -3,7 +3,7 @@
 
 **LG V10**은 [LG전자](../Page/LG전자.md "wikilink")가 [대한민국](../Page/대한민국.md "wikilink")에 [2015년](../Page/2015년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") 출시한 스마트폰이다.\[1\] 광고는 [대한민국](../Page/대한민국.md "wikilink")의 모델인 [스테파니 리와](../Page/스테파니_리.md "wikilink") 가수 [자이언티](../Page/자이언티.md "wikilink"), 영화감독 [장진](https://ko.wikipedia.org/wiki/장진 "wikilink")이 'V10 라이프스타일'이라는 주제로 촬영되었다.
 
-## 운영체제 / 소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 5.1 롤리팝
 

@@ -3,7 +3,7 @@
 
 **LG X 스크린**(LG X Screen)은 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [2월](../Page/2월.md "wikilink") [모바일 월드 그레스](https://ko.wikipedia.org/wiki/모바일_월드_그레스 "wikilink") 2016에서 공개하고, [2016년](../Page/2016년.md "wikilink") [3월 23일](../Page/3월_23일.md "wikilink") 출시한 보급형 스마트폰이다.\[1\]\[2\] [LG X](https://ko.wikipedia.org/wiki/LG_X "wikilink") 시리즈의 모델이며, 세컨드 스크린과 120도 광각 전면 카메라가 특징이다.\[3\]
 
-## 운영체제 / 소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 7.0 누가
 

@@ -73,7 +73,7 @@
 </tr>
 <tr class="even">
 <td><p>1978</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/죠스_2" title="wikilink">죠스 2</a> <em>Jaws 2</em></p></td>
+<td><p><a href="../Page/죠스_2.md" title="wikilink">죠스 2</a> <em>Jaws 2</em></p></td>
 <td><p><a href="../Page/자노_슈와르크.md" title="wikilink">자노 슈와르크</a></p></td>
 </tr>
 <tr class="odd">

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Girls Live](https://ko.wikipedia.org/wiki/The_Girls_Live).
 
 
-《**The Girls Live**》(더 걸스 라이브)는 [2014년](../Page/2014년.md "wikilink") [1월 9일부터](../Page/1월_9일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 목요일 심야에 방송되고 있는 [헬로\! 프로젝트](../Page/헬로!_프로젝트.md "wikilink") 멤버 출연의 TV 프로그램이다. [2017년](../Page/2017년.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") 목요일 심야로 방송되었으나, 동년 [4월 3일부터](../Page/4월_3일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [3월 25일까지](../Page/3월_25일.md "wikilink") 월요일 심야로 방송되었다.
+《**The Girls Live**》(더 걸스 라이브)는 [2014년](../Page/2014년.md "wikilink") [1월 9일부터](../Page/1월_9일.md "wikilink") [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 목요일 심야에 방송되었던 [헬로\! 프로젝트](../Page/헬로!_프로젝트.md "wikilink") 멤버 출연의 TV 프로그램이다. [2017년](../Page/2017년.md "wikilink") [3월 30일까지](../Page/3월_30일.md "wikilink") 목요일 심야로 방송되었으나, 동년 [4월 3일부터](../Page/4월_3일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [3월 25일까지](../Page/3월_25일.md "wikilink") 월요일 심야로 방송되었다.
 
 ## 개요
 

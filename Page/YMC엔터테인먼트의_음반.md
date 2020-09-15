@@ -127,7 +127,7 @@
   - 2017년 6월 5일 배치기 - **\[Digital Single\] Moonlight**
   - 2017년 7월 13일 제시 - **Un2verse**
   - 2017년 8월 7일 [워너원](../Page/워너원.md "wikilink") - **[1×1=1 (TO BE ONE)](https://ko.wikipedia.org/wiki/1×1=1_\(TO_BE_ONE\) "wikilink")**
-  - 2017년 8월 25일 [케이시](https://ko.wikipedia.org/wiki/케이시_\(가수\) "wikilink") - **\[Digital Single\] 비야 와라 (Let It Rain)**
+  - 2017년 8월 25일 [케이시](../Page/케이시_\(가수\).md "wikilink") - **\[Digital Single\] 비야 와라 (Let It Rain)**
   - 2017년 8월 27일 제시 - **\[Digital Single\] 판타스틱 듀오 2 Part.13**\[37\]
   - 2017년 11월 13일 워너원 - **1-1=0 (Nothing Without You)**
   - 2017년 11월 19일 케이시 - **\[Digital Single\] 이 노랠 들어요**
@@ -163,7 +163,7 @@
 6.  [소울스타](../Page/소울스타.md "wikilink")의 멤버 [이승우](https://ko.wikipedia.org/wiki/이승우 "wikilink")도 앨범 참여.
 7.  마이티 마우스 미니 2집의 선공개곡.
 8.  [어쿠스틱 콜라보도](../Page/어쿠스틱_콜라보.md "wikilink") 앨범 참여.
-9.  [빅스타의](../Page/빅스타_\(대한민국의_음악_그룹\).md "wikilink") 멤버 [필독](../Page/필독_\(가수\).md "wikilink"), [일렉트로보이즈](../Page/일렉트로보이즈.md "wikilink")의 멤버 [마부스](../Page/마부스.md "wikilink"), [차쿤](https://ko.wikipedia.org/wiki/차쿤 "wikilink")도 앨범 참여.
+9.  [빅스타의](../Page/빅스타_\(대한민국의_음악_그룹\).md "wikilink") 멤버 [필독](../Page/필독_\(래퍼\).md "wikilink"), [일렉트로보이즈](../Page/일렉트로보이즈.md "wikilink")의 멤버 [마부스](../Page/마부스.md "wikilink"), [차쿤](https://ko.wikipedia.org/wiki/차쿤 "wikilink")도 앨범 참여.
 10. [거미도](../Page/거미_\(가수\).md "wikilink") 앨범 참여.
 11. [god의](https://ko.wikipedia.org/wiki/god_\(음악_그룹\) "wikilink") 멤버 [김태우도](../Page/김태우_\(1981년\).md "wikilink") 앨범 참여.
 12. [투엘슨](https://ko.wikipedia.org/wiki/투엘슨 "wikilink")도 앨범 참여.
@@ -196,6 +196,6 @@
 39. [트리탑스](https://ko.wikipedia.org/wiki/트리탑스 "wikilink"), [씨에](https://ko.wikipedia.org/wiki/씨에 "wikilink"), [몬스타엑스](../Page/몬스타엑스.md "wikilink")의 멤버 [형원](../Page/형원.md "wikilink"), [AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 멤버 [지민](../Page/지민_\(래퍼\).md "wikilink"), [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 멤버 [효민](../Page/효민.md "wikilink"), [DJ DOC의](../Page/DJ_DOC.md "wikilink") 멤버 [김창렬](https://ko.wikipedia.org/wiki/김창렬 "wikilink")도 앨범 참여.
 40. 소울라이츠의 데뷔 10주년 앨범.
 41. 워너원 미니 2집의 선공개곡.
-42. [멜로망스](../Page/멜로망스.md "wikilink")의 멤버 [정동환](../Page/정동환.md "wikilink"), [리듬파워](../Page/리듬파워.md "wikilink"), [양다일](https://ko.wikipedia.org/wiki/양다일 "wikilink")도 앨범 참여.
+42. [멜로망스](../Page/멜로망스.md "wikilink")의 멤버 [정동환](../Page/정동환.md "wikilink"), [리듬파워](../Page/리듬파워.md "wikilink"), [양다일](../Page/양다일.md "wikilink")도 앨범 참여.
 43. [매드 클라운도](../Page/매드_클라운.md "wikilink") 앨범 참여.
 44. [더블 케이](../Page/더블_케이.md "wikilink"), [올 블랙의](../Page/올_블랙.md "wikilink") 멤버 [마이크로닷도](../Page/마이크로닷_\(래퍼\).md "wikilink") 앨범 참여.

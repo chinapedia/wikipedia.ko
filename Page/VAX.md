@@ -555,7 +555,7 @@ VAX는 4개의 하드웨어 구현 권한 모드가 있다.
 
   - [SimH VAX](http://simh.trailing-edge.com/) Open source emulator that supports VAX architecture
 
-[분류:1997년 출시](https://ko.wikipedia.org/wiki/분류:1997년_출시 "wikilink") [분류:미니컴퓨터](https://ko.wikipedia.org/wiki/분류:미니컴퓨터 "wikilink") [분류:32비트 컴퓨터](https://ko.wikipedia.org/wiki/분류:32비트_컴퓨터 "wikilink")
+[분류:1997년 출시](https://ko.wikipedia.org/wiki/분류:1997년_출시 "wikilink") [분류:미니컴퓨터](https://ko.wikipedia.org/wiki/분류:미니컴퓨터 "wikilink") [분류:32비트 컴퓨터](https://ko.wikipedia.org/wiki/분류:32비트_컴퓨터 "wikilink") [분류:명령어 집합 구조](https://ko.wikipedia.org/wiki/분류:명령어_집합_구조 "wikilink")
 
 1.
 2.

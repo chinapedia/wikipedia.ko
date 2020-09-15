@@ -55,13 +55,13 @@
 | 3경기 | 진에어 그린윙스          | 패      |
 | 승점  | 경기                | \-1    |
 
-| 포지션   | 진에어 그린윙스     | CJ 엔투스       |
-| ----- | ------------ | ------------ |
-| 탑     | TrAce 여창동    | Flame 이호종    |
-| 정글    | Radar 김항민    | Daydream 강경민 |
-| 미드    | Fly 송용준      | Ambition 강찬용 |
-| AD 캐리 | Cpt Jack 강형우 | Emperor 김진현  |
-| 서포터   | XD 이은택       | Lustboy 함장식  |
+| 포지션   | 진에어 그린윙스                                      | CJ 엔투스                                             |
+| ----- | --------------------------------------------- | -------------------------------------------------- |
+| 탑     | TrAce 여창동                                     | Flame 이호종                                          |
+| 정글    | Radar 김항민                                     | Daydream [강경민](../Page/강경민.md "wikilink")          |
+| 미드    | Fly 송용준                                       | Ambition 강찬용                                       |
+| AD 캐리 | Cpt Jack 강형우                                  | Emperor [김진현](../Page/김진현_\(프로게이머\).md "wikilink") |
+| 서포터   | XD [이은택](../Page/이은택_\(1995년\).md "wikilink") | Lustboy 함장식                                        |
 
   - [2월 16일](../Page/2월_16일.md "wikilink")
 
@@ -72,13 +72,13 @@
 | 3경기 | SK텔레콤 T1   | 승         |
 | 승점  | 경기         | \+3       |
 
-| 포지션   | SK텔레콤 T1   | 인크레더블 미라클      |
-| ----- | ---------- | -------------- |
-| 탑     | Impact 정언영 | Apple 정철우      |
-| 정글    | Bengi 배성웅  | Reign Over 김의진 |
-| 미드    | Faker 이상혁  | KurO 이서행       |
-| AD 캐리 | Piglet 채광진 | Violet 임두성     |
-| 서포터   | Casper 권지민 | Lasha 권민우      |
+| 포지션   | SK텔레콤 T1                                                             | 인크레더블 미라클                                                                |
+| ----- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 탑     | Impact [정언영](https://ko.wikipedia.org/wiki/정언영 "wikilink")           | Apple 정철우                                                                |
+| 정글    | Bengi [배성웅](../Page/배성웅.md "wikilink")                               | Reign Over [김의진](https://ko.wikipedia.org/wiki/김의진_\(프로게이머\) "wikilink") |
+| 미드    | Faker 이상혁                                                            | KurO [이서행](https://ko.wikipedia.org/wiki/이서행 "wikilink")                 |
+| AD 캐리 | Piglet [채광진](../Page/채광진.md "wikilink")                              | Violet 임두성                                                               |
+| 서포터   | Casper [권지민](https://ko.wikipedia.org/wiki/권지민_\(프로게이머\) "wikilink") | Lasha 권민우                                                                |
 
 ### 2주차
 
@@ -91,13 +91,13 @@
 | 3경기 | KT 롤스터         | 승         |
 | 승점  | 경기             | \-1       |
 
-| 포지션   | KT 롤스터      | 나진 e-엠파이어  |
-| ----- | ----------- | ---------- |
-| 탑     | Ssumday 김찬호 | Save 백영진   |
-| 정글    | KaKAO 이병권   | Watch 조재걸  |
-| 미드    | Rookie 송의진  | Ggoong 유병준 |
-| AD 캐리 | Arrow 노동현   | PraY 김종인   |
-| 서포터   | Hachani 하승찬 | Cain 장누리   |
+| 포지션   | KT 롤스터                                                              | 나진 e-엠파이어                              |
+| ----- | ------------------------------------------------------------------- | -------------------------------------- |
+| 탑     | Ssumday 김찬호                                                         | Save 백영진                               |
+| 정글    | KaKAO [이병권](https://ko.wikipedia.org/wiki/이병권_\(프로게이머\) "wikilink") | Watch [조재걸](../Page/조재걸.md "wikilink") |
+| 미드    | Rookie [송의진](../Page/송의진.md "wikilink")                             | Ggoong 유병준                             |
+| AD 캐리 | Arrow [노동현](https://ko.wikipedia.org/wiki/노동현 "wikilink")           | PraY 김종인                               |
+| 서포터   | Hachani [하승찬](../Page/하승찬.md "wikilink")                            | Cain 장누리                               |
 
   - [2월 23일](../Page/2월_23일.md "wikilink")
 
@@ -108,13 +108,13 @@
 | 3경기 | 삼성 갤럭시       | 승        |
 | 승점  | 경기           | \+1      |
 
-| 포지션   | 삼성 갤럭시     | 진에어 그린윙스     |
-| ----- | ---------- | ------------ |
-| 탑     | Looper 장형석 | TrAce 여창동    |
-| 정글    | DanDy 최인규  | Radar 김항민    |
-| 미드    | Pawn 허원석   | Fly 송용준      |
-| AD 캐리 | Deft 김혁규   | Cpt Jack 강형우 |
-| 서포터   | Mata 조세형   | XD 이은택       |
+| 포지션   | 삼성 갤럭시                                            | 진에어 그린윙스     |
+| ----- | ------------------------------------------------- | ------------ |
+| 탑     | Looper [장형석](../Page/장형석_\(프로게이머\).md "wikilink") | TrAce 여창동    |
+| 정글    | DanDy [최인규](../Page/최인규_\(1994년\).md "wikilink")  | Radar 김항민    |
+| 미드    | Pawn 허원석                                          | Fly 송용준      |
+| AD 캐리 | Deft 김혁규                                          | Cpt Jack 강형우 |
+| 서포터   | Mata 조세형                                          | XD 이은택       |
 
 ### 3주차
 
@@ -127,13 +127,13 @@
 | 3경기 | CJ 엔투스       | 승        |
 | 승점  | 경기           | \-1      |
 
-| 포지션   | CJ 엔투스       | SK텔레콤 T1   |
-| ----- | ------------ | ---------- |
-| 탑     | Flame 이호종    | Marin 장경환  |
-| 정글    | Daydream 강경민 | H0R0 조재환   |
-| 미드    | Ambition 강찬용 | Ezhoon 이지훈 |
-| AD 캐리 | Emperor 김진현  | Bang 배준식   |
-| 서포터   | Lustboy 함장식  | Wolf 이재완   |
+| 포지션   | CJ 엔투스                                             | SK텔레콤 T1                                        |
+| ----- | -------------------------------------------------- | ----------------------------------------------- |
+| 탑     | Flame 이호종                                          | Marin 장경환                                       |
+| 정글    | Daydream 강경민                                       | H0R0 [조재환](../Page/조재환_\(프로게이머\).md "wikilink") |
+| 미드    | Ambition 강찬용                                       | Ezhoon 이지훈                                      |
+| AD 캐리 | Emperor [김진현](../Page/김진현_\(프로게이머\).md "wikilink") | Bang 배준식                                        |
+| 서포터   | Lustboy 함장식                                        | Wolf 이재완                                        |
 
   - [3월 2일](../Page/3월_2일.md "wikilink")
 
@@ -144,13 +144,13 @@
 | 3경기 | 인크레더블 미라클     | 승      |
 | 승점  | 경기            | \+1    |
 
-| 포지션   | 인크레더블 미라클   | KT 롤스터      |
-| ----- | ----------- | ----------- |
-| 탑     | Smeb 송경호    | Leopard 이호성 |
-| 정글    | Lil4c 전호진   | inSec 최인석   |
-| 미드    | MidKing 박용우 | Ryu 류상욱     |
-| AD 캐리 | Violet 임두성  | Score 고동빈   |
-| 서포터   | Bbuing 이인용  | Mafa 원상연    |
+| 포지션   | 인크레더블 미라클                                                 | KT 롤스터                                |
+| ----- | --------------------------------------------------------- | ------------------------------------- |
+| 탑     | Smeb 송경호                                                  | Leopard 이호성                           |
+| 정글    | Lil4c [전호진](https://ko.wikipedia.org/wiki/전호진 "wikilink") | inSec 최인석                             |
+| 미드    | MidKing 박용우                                               | Ryu 류상욱                               |
+| AD 캐리 | Violet 임두성                                                | Score 고동빈                             |
+| 서포터   | Bbuing 이인용                                                | Mafa [원상연](../Page/원상연.md "wikilink") |
 
 ### 4주차
 
@@ -199,13 +199,13 @@
 | 3경기 | CJ 엔투스       | 승         |
 | 승점  | 경기           | \+1       |
 
-| 포지션   | CJ 엔투스      | 인크레더블 미라클   |
-| ----- | ----------- | ----------- |
-| 탑     | Shy 박상면     | Smeb 송경호    |
-| 정글    | Swift 백다훈   | Lil4c 전호진   |
-| 미드    | CoCo 신진영    | MidKing 박용우 |
-| AD 캐리 | Space 선호산   | Violet 임두성  |
-| 서포터   | MadLife 홍민기 | Bbuing 이인용  |
+| 포지션   | CJ 엔투스                                 | 인크레더블 미라클   |
+| ----- | -------------------------------------- | ----------- |
+| 탑     | Shy 박상면                                | Smeb 송경호    |
+| 정글    | Swift [백다훈](../Page/백다훈.md "wikilink") | Lil4c 전호진   |
+| 미드    | CoCo [신진영](../Page/신진영.md "wikilink")  | MidKing 박용우 |
+| AD 캐리 | Space 선호산                              | Violet 임두성  |
+| 서포터   | MadLife 홍민기                            | Bbuing 이인용  |
 
 ## 포스트시즌
 
@@ -219,13 +219,13 @@
 | 2경기 | **나진 White Shield** | **승**  |
 | 3경기 | **나진 e-엠파이어**       | **승**  |
 
-| 포지션   | 나진 e-엠파이어  | CJ 엔투스       |
-| ----- | ---------- | ------------ |
-| 탑     | Save 백영진   | Flame 이호종    |
-| 정글    | Hojin 이호진  | Daydream 강경민 |
-| 미드    | Ggoong 유병준 | Ambition 강찬용 |
-| AD 캐리 | Ohq 오규민    | Emperor 김진현  |
-| 서포터   | Cain 장누리   | Lustboy 함장식  |
+| 포지션   | 나진 e-엠파이어                                               | CJ 엔투스       |
+| ----- | ------------------------------------------------------- | ------------ |
+| 탑     | Save 백영진                                                | Flame 이호종    |
+| 정글    | Hojin 이호진                                               | Daydream 강경민 |
+| 미드    | Ggoong 유병준                                              | Ambition 강찬용 |
+| AD 캐리 | Ohq [오규민](https://ko.wikipedia.org/wiki/오규민 "wikilink") | Emperor 김진현  |
+| 서포터   | Cain 장누리                                                | Lustboy 함장식  |
 
 #### 2차전
 
@@ -235,13 +235,13 @@
 | 2경기 | CJ 엔투스 Frost     | 패         |
 | 3경기 | **CJ 엔투스**       | 승         |
 
-| 포지션   | CJ 엔투스      | 나진 e-엠파이어  |
-| ----- | ----------- | ---------- |
-| 탑     | Shy 박상면     | Save 백영진   |
-| 정글    | Swift 백다훈   | Hojin 이호진  |
-| 미드    | Coco 신진영    | Ggoong 유병준 |
-| AD 캐리 | Space 선호산   | Ohq 오규민    |
-| 서포터   | Madlife 홍민기 | Cain 장누리   |
+| 포지션   | CJ 엔투스                                 | 나진 e-엠파이어                                        |
+| ----- | -------------------------------------- | ------------------------------------------------ |
+| 탑     | Shy 박상면                                | Save 백영진                                         |
+| 정글    | Swift [백다훈](../Page/백다훈.md "wikilink") | Hojin [이호진](../Page/이호진_\(프로게이머\).md "wikilink") |
+| 미드    | Coco 신진영                               | Ggoong 유병준                                       |
+| AD 캐리 | Space 선호산                              | Ohq 오규민                                          |
+| 서포터   | Madlife 홍민기                            | Cain 장누리                                         |
 
 #### 데스매치
 

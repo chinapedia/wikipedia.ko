@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [아폴론 스미르니 FC](https://ko.wikipedia.org/wiki/아폴론_스미르니_FC).
 
 
-**아폴론 스미르니 FC**()는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [아테네](../Page/아테네.md "wikilink")에 연고를 두고 있는 축구 클럽이다. 이 팀은 2017-18 시즌 기준으로 [슈퍼리그 그리스에서](https://ko.wikipedia.org/wiki/슈퍼리그_그리스 "wikilink") 활동하고 있다.
+**아폴론 스미르니 FC**()는 [그리스](../Page/그리스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로 [아테네](../Page/아테네.md "wikilink")에 연고를 두고 있는 축구 클럽이다. 이 팀은 2020-21 시즌 기준으로 [수페르리가 엘라다에서](../Page/수페르리가_엘라다.md "wikilink") 활동하고 있다.
 
 아폴론 스미르니는 [1890년](../Page/1890년.md "wikilink")에 [오스만 제국의](../Page/오스만_제국.md "wikilink") [스미르나](https://ko.wikipedia.org/wiki/스미르나 "wikilink")(현재의 [터키](../Page/터키.md "wikilink") [이즈미르](../Page/이즈미르.md "wikilink"))에서 "오르페아스 스미르니스"(Orfeas Smyrnis)이라는 이름으로 창단되었다. [1922년](../Page/1922년.md "wikilink")에 그리스와 터키 사이에 전쟁이 일어나자 아테네로 연고를 이전했다.
 

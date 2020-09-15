@@ -17,6 +17,8 @@
 
 [2009년](../Page/2009년.md "wikilink") [1월](../Page/1월.md "wikilink")에 직계 판매 부문 회사인 **닛산 디젤 트럭**() 합병과 동시에 **UD트럭 재팬**()을 설립했다. [2010년](../Page/2010년.md "wikilink") [1월](../Page/1월.md "wikilink")에 [볼보](../Page/볼보.md "wikilink")가 지분 전체 출자 했던 **일본 볼보**()를 합병했다. 같은 해 [2월](../Page/2월.md "wikilink")에 현재의 사명으로 변경된데 이어 대기업에 한해서 대형 트럭을 출시했다. [2012년](../Page/2012년.md "wikilink")에 [대한민국](../Page/대한민국.md "wikilink") 지사 설립과 동시에 본격적으로 진출 했으며\[7\] 같은 해 [9월](../Page/9월.md "wikilink")에 최초로 생산하기 시작했다.\[8\] [2014년](../Page/2014년.md "wikilink")에 [인도](../Page/인도.md "wikilink") 시장 진출을 위해 [버스](../Page/버스.md "wikilink") 생산을 다시 재개했다.\[9\]
 
+[2019년](../Page/2019년.md "wikilink") [12월](../Page/12월.md "wikilink")에 [일본](../Page/일본.md "wikilink")의 [버스](../Page/버스.md "wikilink") 및 [트럭](../Page/트럭.md "wikilink") 제조 기업인 [이스즈 자동차가](../Page/이스즈_자동차.md "wikilink") [볼보트럭](../Page/볼보트럭.md "wikilink")과 상호 협력을 체결을 발표했으며, 이와는 별도로 [이스즈 자동차에](../Page/이스즈_자동차.md "wikilink") 인수될 예정이다.\[10\]
+
 ## 생산 공장
 
   - UD트럭 본사 (UD Trucks Corporation, [일본](../Page/일본.md "wikilink") [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") [아게오시](../Page/아게오시.md "wikilink"))
@@ -133,3 +135,4 @@
 7.
 8.
 9.  '[Volvo launches UD Buses in India](http://www.business-standard.com/article/companies/volvo-launches-ud-buses-in-india-114031900330_1.html)' on *Business Standard* website, viewed 2014-03-25
+10.

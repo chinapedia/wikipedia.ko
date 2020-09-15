@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IOS 6](https://ko.wikipedia.org/wiki/IOS_6).
 
 
-**iOS 6**은 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [iOS 5의](https://ko.wikipedia.org/wiki/iOS_5 "wikilink") 후속 버전 으로 설계하여 [2012년](../Page/2012년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") 출시한 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 계열의 [스마트폰](../Page/스마트폰.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink"). [2013년](../Page/2013년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") 출시 된 [iOS 7의](https://ko.wikipedia.org/wiki/iOS_7 "wikilink") 이전 버전이다. iOS 6 부터는 애플이 개발한 새로운 지도 애플리케이션이 생겼으며, [Passbook](https://ko.wikipedia.org/wiki/Passbook "wikilink") 애플리케이션과 [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), 그리고 메일 앱에서 VIP 기능이 새로이 추가 되었다.
+**iOS 6**은 [애플](../Page/애플.md "wikilink")이 [iOS 5의](https://ko.wikipedia.org/wiki/iOS_5 "wikilink") 후속 버전 으로 설계하여 [2012년](../Page/2012년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") 출시한 [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink") 계열의 [스마트폰](../Page/스마트폰.md "wikilink") [운영 체제이다](../Page/운영_체제.md "wikilink"). [2013년](../Page/2013년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") 출시 된 [iOS 7의](https://ko.wikipedia.org/wiki/iOS_7 "wikilink") 이전 버전이다. iOS 6 부터는 애플이 개발한 새로운 지도 애플리케이션이 생겼으며, [Passbook](https://ko.wikipedia.org/wiki/Passbook "wikilink") 애플리케이션과 [시리](https://ko.wikipedia.org/wiki/시리 "wikilink"), 그리고 메일 앱에서 VIP 기능이 새로이 추가 되었다.
 
 ## 새로운 기능
 

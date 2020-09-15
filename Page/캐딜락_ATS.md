@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Cadillac_ATS_2.0_Turbo_AWD_Premium_–_Frontansicht,_16._Oktober_2015,_Düsseldorf.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Cadillac_ATS_2.0_Turbo_AWD_Premium_–_Heckansicht,_16._Oktober_2015,_Düsseldorf.jpg "wikilink")
 
-**캐딜락 ATS**(Cadillac ATS)는 [캐딜락](../Page/캐딜락.md "wikilink")의 중형차이다. [2012년 1월에](../Page/2012년_1월.md "wikilink") 첫 선을 보였으며, [2010년](../Page/2010년.md "wikilink")에 판매 부진으로 단종된 [BLS의](../Page/캐딜락_BLS.md "wikilink") 후속 차종으로 출시되었다. [2013년](../Page/2013년.md "wikilink")에는 잡지 에스콰이어가 올해의 차로 선정했고, [북아메리카](../Page/북아메리카.md "wikilink") 올해의 차로 선정됐다.
+**캐딜락 ATS**()는 [캐딜락](../Page/캐딜락.md "wikilink")의 중형차이다. [2012년 1월에](../Page/2012년_1월.md "wikilink") 첫 선을 보였으며, [2010년](../Page/2010년.md "wikilink")에 판매 부진으로 단종된 [BLS의](../Page/캐딜락_BLS.md "wikilink") 후속 차종으로 출시되었다. [2013년](../Page/2013년.md "wikilink")에는 잡지 에스콰이어가 올해의 차로 선정했고, [북아메리카](../Page/북아메리카.md "wikilink") 올해의 차로 선정됐다.
 
 바디 타입의 경우 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이 먼저 선보였으며, 이후 [2014년](../Page/2014년.md "wikilink") 여름에 [쿠페](../Page/쿠페.md "wikilink")가 추가되었다. 중국 공략 모델인 ATS-L과 고성능 모델 ATS-V가 있다.
 

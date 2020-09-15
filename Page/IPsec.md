@@ -18,14 +18,13 @@ IPsec 스위트는 [개방형 표준이다](../Page/개방형_표준.md "wikilin
 
 ## 암호화 알고리즘
 
-  - [HMAC](https://ko.wikipedia.org/wiki/HMAC "wikilink")-[SHA1](https://ko.wikipedia.org/wiki/SHA1 "wikilink")
-  - [HMAC](https://ko.wikipedia.org/wiki/HMAC "wikilink")-[SHA256](https://ko.wikipedia.org/wiki/SHA256 "wikilink")
-  - [HMAC](https://ko.wikipedia.org/wiki/HMAC "wikilink")-[SHA384](https://ko.wikipedia.org/wiki/SHA384 "wikilink")
+  - [HMAC](https://ko.wikipedia.org/wiki/HMAC "wikilink")-[SHA-1](https://ko.wikipedia.org/wiki/SHA-1 "wikilink")
+  - [HMAC](https://ko.wikipedia.org/wiki/HMAC "wikilink")-[SHA-2](../Page/SHA-2.md "wikilink")
   - [Triple DES](https://ko.wikipedia.org/wiki/Triple_DES "wikilink")-[CBC](../Page/블록_암호_운용_방식.md "wikilink")
   - [AES](../Page/고급_암호화_표준.md "wikilink")-CBC
   - [AES](../Page/고급_암호화_표준.md "wikilink")-GCM
 
-더 자세한 정보는 RFC 4835를 참조.
+더 자세한 정보는 RFC 4835 를 참조.
 
 ## 참조
 

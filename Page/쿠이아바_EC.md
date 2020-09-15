@@ -5,6 +5,6 @@
 
 ## 외부 링크
 
-  - [공식 사이트](http://boaec.com.br/)
+  - [공식 사이트](https://web.archive.org/web/20130402153201/http://boaec.com.br/)
 
 [쿠이아바_EC](https://ko.wikipedia.org/wiki/분류:쿠이아바_EC "wikilink") [분류:2001년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2001년_설립된_축구단 "wikilink") [분류:브라질의 축구단](https://ko.wikipedia.org/wiki/분류:브라질의_축구단 "wikilink") [분류:마투그로수주의 축구단](https://ko.wikipedia.org/wiki/분류:마투그로수주의_축구단 "wikilink")

@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [DJ 클래지](https://ko.wikipedia.org/wiki/DJ_클래지).
 
 
-**클래지**(본명 : 김성훈, [1974년](../Page/1974년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")이자, [디스크자키](https://ko.wikipedia.org/wiki/디스크자키 "wikilink")이며, 혼성 그룹 [클래지콰이의](../Page/클래지콰이_프로젝트.md "wikilink") 리더이다. 현재 소속사는 [플럭서스 뮤직이다](../Page/플럭서스_뮤직.md "wikilink").
-
-[대한민국](../Page/대한민국.md "wikilink")에서 데뷔하기 전부터 [캐나다](../Page/캐나다.md "wikilink")에 거주하면서 자신의 [웹사이트](../Page/웹사이트.md "wikilink")에 직접 작곡한 곡을 업로드하였고, 이 곡들이 [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 일대의 클럽에서 인기를 얻으면서 [2004](https://ko.wikipedia.org/wiki/2004 "wikilink")년에 대한민국에서 클래지콰이의 첫 번째 정규 앨범 《[Instant Pig](../Page/Instant_Pig.md "wikilink")》로 데뷔하였다. 클래지콰이의 앨범의 프로듀싱, 앨범에 수록된 곡들의 작곡과 작사를 담당하고 있으나 방송에는 거의 출연하지 않고 있다.
+**클래지**(본명 : 김성훈, [1974년](../Page/1974년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink")이자, [디스크자키](https://ko.wikipedia.org/wiki/디스크자키 "wikilink")이며, 혼성 그룹 [클래지콰이의](../Page/클래지콰이_프로젝트.md "wikilink") 리더이다. 현재 소속사는 [플럭서스 뮤직이다](../Page/플럭서스_뮤직.md "wikilink"). [대한민국](../Page/대한민국.md "wikilink")에서 데뷔하기 전부터 [캐나다](../Page/캐나다.md "wikilink")에 거주하면서 자신의 [웹사이트](../Page/웹사이트.md "wikilink")에 직접 작곡한 곡을 업로드하였고, 이 곡들이 [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") 일대의 클럽에서 인기를 얻으면서 [2004](https://ko.wikipedia.org/wiki/2004 "wikilink")년에 대한민국에서 클래지콰이의 첫 번째 정규 앨범 《[Instant Pig](../Page/Instant_Pig.md "wikilink")》로 데뷔하였다. 클래지콰이의 앨범의 프로듀싱, 앨범에 수록된 곡들의 작곡과 작사를 담당하고 있으나 방송에는 거의 출연하지 않고 있다.
 
 ## 음반 목록
 

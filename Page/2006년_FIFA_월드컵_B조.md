@@ -263,7 +263,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/레오_베인하커르" title="wikilink">레오 베인하커르</a></p></td>
+<td><p><a href="../Page/레오_베인하커르.md" title="wikilink">레오 베인하커르</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -513,7 +513,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/레오_베인하커르" title="wikilink">레오 베인하커르</a></p></td>
+<td><p><a href="../Page/레오_베인하커르.md" title="wikilink">레오 베인하커르</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -890,8 +890,8 @@
 <td><p><strong>최우수 선수:</strong><br />
 <a href="../Page/조_콜.md" title="wikilink">조 콜</a> (잉글랜드)</p>
 <p><strong>부심:</strong><br />
-프란체스코 부라지나 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
-마티아스 아네트 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
+프란체스코 부라지나 (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)<br />
+마티아스 아네트 (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)<br />
 <strong>대기심:</strong><br />
 <a href="../Page/칼릴_알감디.md" title="wikilink">칼릴 알 감디</a> (<a href="https://ko.wikipedia.org/wiki/사우디아라비아_축구_연맹" title="wikilink">사우디아라비아</a>)<br />
 <strong>후보 대기심:</strong><br />
@@ -1054,7 +1054,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/레오_베인하커르" title="wikilink">레오 베인하커르</a></p></td>
+<td><p><a href="../Page/레오_베인하커르.md" title="wikilink">레오 베인하커르</a></p></td>
 <td></td>
 </tr>
 </tbody>

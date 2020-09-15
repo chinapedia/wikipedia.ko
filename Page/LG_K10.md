@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG K10](https://ko.wikipedia.org/wiki/LG_K10).
 
 
-**LG K10**은 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") 출시한 보급형 저가 스마트폰이다. 원래는 [2016년](../Page/2016년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") 출시 예정이었으나, 단말기 배송 지연으로 인해 [2016년](../Page/2016년.md "wikilink") [1월 15일로](../Page/1월_15일.md "wikilink") 연기되었다.\[1\]\[2\] [LG K](https://ko.wikipedia.org/wiki/LG_K "wikilink") 시리즈의 최상위 모델이었으며, K 시리즈 특유의 조약돌을 형상화한 페블 디자인이 특징이다. 해외에는 4G LTE 모델과 3G 모델로 나뉘어 출시됐다.
+**LG K10**은 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink") 출시한 보급형 저가 스마트폰이다. 원래는 [2016년](../Page/2016년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") 출시 예정이었으나, 단말기 배송 지연으로 인해 [2016년](../Page/2016년.md "wikilink") [1월 15일로](../Page/1월_15일.md "wikilink") 연기되었다.\[1\]\[2\] [LG K](https://ko.wikipedia.org/wiki/LG_K "wikilink") 시리즈의 최상위 모델이었다. K 시리즈 특유의 조약돌을 형상화한 페블 디자인이 특징이다. 해외에는 4G LTE 모델과 3G 모델로 나뉘어 출시됐다.
 
 ## 해외판
 

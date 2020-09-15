@@ -88,6 +88,8 @@ AMD 옵테론 A1100 시리즈
   - [셈프론](../Page/셈프론.md "wikilink") (*Thoroughbred*, *Thorton*, *Barton*) (2004)
   - [모바일 셈프론](../Page/셈프론.md "wikilink")
 
+## x86-64 아키텍처 프로세서
+
 ### K8 코어 아키텍처
 
 **[K8 시리즈](https://ko.wikipedia.org/wiki/AMD_K8 "wikilink") (2003-)**

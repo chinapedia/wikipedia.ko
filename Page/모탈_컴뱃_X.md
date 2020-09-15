@@ -229,7 +229,7 @@
 ## 외부 링크
 
   -
-[분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:취소된 플레이스테이션 3 게임](https://ko.wikipedia.org/wiki/분류:취소된_플레이스테이션_3_게임 "wikilink") [분류:플레이스테이션 4 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_4_게임 "wikilink") [분류:미국의 비디오 게임](https://ko.wikipedia.org/wiki/분류:미국의_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:취소된 엑스박스 360 게임](https://ko.wikipedia.org/wiki/분류:취소된_엑스박스_360_게임 "wikilink") [분류:엑스박스 원 게임](https://ko.wikipedia.org/wiki/분류:엑스박스_원_게임 "wikilink") [분류:3세대 언리얼 엔진 사용](https://ko.wikipedia.org/wiki/분류:3세대_언리얼_엔진_사용 "wikilink") [분류:2015년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2015년_비디오_게임 "wikilink") [분류:대전 격투 게임](https://ko.wikipedia.org/wiki/분류:대전_격투_게임 "wikilink")
+[분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:취소된 플레이스테이션 3 게임](https://ko.wikipedia.org/wiki/분류:취소된_플레이스테이션_3_게임 "wikilink") [분류:플레이스테이션 4 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_4_게임 "wikilink") [분류:미국의 비디오 게임](https://ko.wikipedia.org/wiki/분류:미국의_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:취소된 엑스박스 360 게임](https://ko.wikipedia.org/wiki/분류:취소된_엑스박스_360_게임 "wikilink") [분류:엑스박스 원 게임](https://ko.wikipedia.org/wiki/분류:엑스박스_원_게임 "wikilink") [분류:언리얼 엔진 게임](https://ko.wikipedia.org/wiki/분류:언리얼_엔진_게임 "wikilink") [분류:2015년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2015년_비디오_게임 "wikilink") [분류:대전 격투 게임](https://ko.wikipedia.org/wiki/분류:대전_격투_게임 "wikilink")
 
 1.
 2.

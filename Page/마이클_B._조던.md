@@ -17,7 +17,7 @@
   - 《[화씨 451](../Page/화씨_451.md "wikilink")》 (2018, [HBO](https://ko.wikipedia.org/wiki/HBO "wikilink")) - 몬태그 역
   - 《[크리드 2](../Page/크리드_2.md "wikilink")》 (2018) - 아도니스 크리드 역
   - 《[화씨 451](../Page/화씨_451.md "wikilink")》 (2018) - 몬태그 역
-  - 《[저스트 머시](https://ko.wikipedia.org/wiki/저스트_머시 "wikilink")》 (2019) - [브라이언 스티븐슨](https://ko.wikipedia.org/wiki/브라이언_스티븐슨 "wikilink") 역
+  - 《[저스트 머시](../Page/저스트_머시.md "wikilink")》 (2019) - [브라이언 스티븐슨](https://ko.wikipedia.org/wiki/브라이언_스티븐슨 "wikilink") 역
 
 ## 외부 링크
 

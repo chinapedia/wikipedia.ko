@@ -28,8 +28,8 @@
 ## 외부 링크
 
   - 킹레코드에 의한 소개 페이지
-      - [초회한정반](http://www.kingrecords.co.jp/cs/g/gKICM-91438/)
-      - [통상반](http://www.kingrecords.co.jp/cs/g/gKICM-1438/)
+      - [초회한정반](https://web.archive.org/web/20160304092540/http://www.kingrecords.co.jp/cs/g/gKICM-91438/)
+      - [통상반](https://web.archive.org/web/20160304100704/http://www.kingrecords.co.jp/cs/g/gKICM-1438/)
 
 [분류:유이카오리의 노래](https://ko.wikipedia.org/wiki/분류:유이카오리의_노래 "wikilink") [분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink") [분류:게임 주제가](https://ko.wikipedia.org/wiki/분류:게임_주제가 "wikilink")
 

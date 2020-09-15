@@ -19,7 +19,7 @@
   - [넥서스 5](../Page/넥서스_5.md "wikilink")
   - [갤럭시 J5](https://ko.wikipedia.org/wiki/갤럭시_J5 "wikilink")
 
-## 참고 자료
+## 각주
 
 [분류:삼성전자의 스마트폰](https://ko.wikipedia.org/wiki/분류:삼성전자의_스마트폰 "wikilink") [분류:삼성전자](https://ko.wikipedia.org/wiki/분류:삼성전자 "wikilink") [분류:스마트폰](https://ko.wikipedia.org/wiki/분류:스마트폰 "wikilink")
 

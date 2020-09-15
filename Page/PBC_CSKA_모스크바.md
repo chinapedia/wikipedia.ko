@@ -10,7 +10,7 @@
 
 ## 외부 링크
 
-  - [PBC CSKA 모스크바 웹사이트](http://www.cskabasket.com/?lang=en)
+  - [PBC CSKA 모스크바 웹사이트](https://web.archive.org/web/20100114203614/http://cskabasket.com/?lang=en)
 
   - [PBC CSKA 모스크바 페이스북](https://www.facebook.com/cskabasket)
 

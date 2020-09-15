@@ -33,6 +33,8 @@
 
 {{-}}
 
+## 4세대(T33)
+
 ## 경쟁 차종
 
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") - [싼타페](../Page/현대_싼타페.md "wikilink")

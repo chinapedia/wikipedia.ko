@@ -103,7 +103,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="../Page/김소혜_(1999년).md" title="wikilink">김소혜</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김소혜" title="wikilink">김소혜</a></p></td>
 <td><p>레드라인 엔터테인먼트</p></td>
 <td><p>16세[9]</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
@@ -1576,7 +1576,7 @@
 4.  3차 방출 평가 순위. (1위\~22위 : 생존 / 23\~35위 : 방출)
 5.  4차 방출 평가 순위. (1위\~11위 : 생존 / 12\~22위 : 방출)
 6.  1999년 12월 4일생
-7.  1999년 12월 4일생
+7.
 8.  1996년 8월 28일생
 9.  1999년 7월 19일생
 10.

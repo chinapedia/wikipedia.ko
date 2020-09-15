@@ -63,7 +63,7 @@ end
 
 ## 외부 링크
 
-  - [Elixir language website](http://elixir-lang.org)
+  - [Elixir language website](https://web.archive.org/web/20120418080914/http://elixir-lang.org/)
 
   - [공식 홈페이지 Getting Started 한국어 번역](https://web.archive.org/web/20160305052943/https://erlnote.wordpress.com/category/elixir/)
 
@@ -73,7 +73,7 @@ end
 
   - [Elixir - A modern approach to programming for the Erlang VM video presentation](http://vimeo.com/53221562)
 
-  - [Dave Thomas: "Programming Elixir: Functional |\> Concurrent |\> Pragmatic |\> Fun" (book)](http://pragprog.com/book/elixir/programming-elixir)
+  - [Dave Thomas: "Programming Elixir: Functional |\> Concurrent |\> Pragmatic |\> Fun" (book)](https://web.archive.org/web/20150610090110/https://pragprog.com/book/elixir/programming-elixir)
 
   - [Simon St. Laurent, J. David Eisenberg: "Introducing Elixir" (book)](http://shop.oreilly.com/product/0636920030584.do)
 

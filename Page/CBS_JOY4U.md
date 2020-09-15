@@ -10,7 +10,7 @@
 
 ## 방송 프로그램 (편성표)
 
-''' 2018년 4월 1일 기준 '''
+''' 2020년 6월 23일 기준 '''
 
 <table>
 <thead>
@@ -38,7 +38,7 @@
 </tr>
 <tr class="odd">
 <td><p>08:00</p></td>
-<td><p>박명규의 내 영혼의 노래</p></td>
+<td><p>송정훈의 샬롭 CCM</p></td>
 </tr>
 <tr class="even">
 <td><p>10:00</p></td>
@@ -49,25 +49,25 @@
 <td><p>최인혁의 사랑의 노래 평화의 노래</p></td>
 </tr>
 <tr class="even">
-<td><p>14:00</p></td>
-<td><p>최정원의 Beautiful Day<br />
+<td><p>14:00 주일 14:05</p></td>
+<td><p>서연미의 Beautiful Day<br />
 (일) 지역 CBS 표준FM 동시방송[2]</p></td>
 </tr>
 <tr class="odd">
-<td><p>16:00</p></td>
+<td><p>16:00 주일 16:05</p></td>
 <td><p>김은영의 찬양의 숲<br />
 (일) 지역 CBS 표준FM 동시방송[3]</p></td>
 </tr>
 <tr class="even">
 <td><p>18:00</p></td>
-<td><p>송정훈의 로뎀나무 아래서</p></td>
+<td><p>당신을 향한 노래</p></td>
 </tr>
 <tr class="odd">
 <td><p>20:00</p></td>
 <td><p>안성진의 CCM 파워</p></td>
 </tr>
 <tr class="even">
-<td><p>22:00</p></td>
+<td><p>22:00 주일 14:00,15:00</p></td>
 <td><p>오늘의 CCM1</p></td>
 </tr>
 <tr class="odd">
@@ -75,7 +75,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/가스펠_아워" title="wikilink">가스펠 아워 1부</a> (CBS 표준FM 동시방송)</p></td>
 </tr>
 <tr class="even">
-<td><p>23:00</p></td>
+<td><p>23:00 주일 16:00,17:00</p></td>
 <td><p>오늘의 CCM2 (월 ~ 금 방송)</p></td>
 </tr>
 <tr class="odd">

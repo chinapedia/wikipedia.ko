@@ -180,8 +180,8 @@
 <td><p><strong>최우수 선수:</strong><br />
 <a href="../Page/사비_에르난데스.md" title="wikilink">샤비</a> (스페인)</p>
 <p><strong>부심:</strong><br />
-프란체스코 부라지나 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
-마티아스 아네트 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
+프란체스코 부라지나 (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)<br />
+마티아스 아네트 (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)<br />
 <strong>대기심:</strong><br />
 <a href="../Page/로베르토_로세티.md" title="wikilink">로베르토 로세티</a> (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 <strong>후보 대기심:</strong><br />

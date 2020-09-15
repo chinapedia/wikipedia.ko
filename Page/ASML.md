@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ASML](https://ko.wikipedia.org/wiki/ASML).
 
 
-**ASML**()은 [반도체](../Page/반도체.md "wikilink") 제조용 [광학](../Page/광학.md "wikilink") [노광](../Page/노광.md "wikilink") 공정 장치를 만드는 [네덜란드](../Page/네덜란드.md "wikilink") 굴지의 [다국적 기업이다](../Page/다국적_기업.md "wikilink"). [극자외선](https://ko.wikipedia.org/wiki/극자외선 "wikilink")(EUV) 노광 장치를 독점하는 기업으로 널리 알려졌다. 현재 전세계 반도체 제조장비 기업 가운데 가장 시가총액과 영업이익이 크며, 매출액은 2위를 자랑한다.
+**ASML**()은 [반도체](../Page/반도체.md "wikilink") 제조용 [광학](../Page/광학.md "wikilink") [노광](../Page/노광.md "wikilink") 공정 장치를 만드는 [네덜란드](../Page/네덜란드.md "wikilink") 굴지의 [다국적 기업이다](../Page/다국적_기업.md "wikilink"). [극자외선](https://ko.wikipedia.org/wiki/극자외선 "wikilink")(EUV) 노광 장치를 독점하는 기업으로 널리 알려졌다. 현재 전세계 반도체 제조장비 기업 가운데 시가총액과 영업이익이 가장 크며, 매출액은 2위를 자랑한다.
 
 ## 개요
 

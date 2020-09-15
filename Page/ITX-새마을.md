@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ITX-새마을](https://ko.wikipedia.org/wiki/ITX-새마을).
 
 
-**ITX-새마을**(Intercity Train eXpress-Saemaeul)은 [한국철도공사](../Page/한국철도공사.md "wikilink")의 특별급행 등급 열차이다. [새마을호](../Page/새마을호.md "wikilink")를 대체할 목적으로 등장하였으며, [2014년](../Page/2014년.md "wikilink") [5월 12일부터](../Page/5월_12일.md "wikilink") [경부선](../Page/경부선.md "wikilink"), [호남선](../Page/호남선.md "wikilink"), [전라선](../Page/전라선.md "wikilink"), [경전선](../Page/경전선.md "wikilink"), [동해선](https://ko.wikipedia.org/wiki/동해선 "wikilink"), [중앙선](../Page/중앙선.md "wikilink") 등 주요 간선에서 운행된다. 기존에는 **비츠로**라는 이름으로 일반에 알려졌던 적이 있다. 법적으로 [새마을호](../Page/새마을호.md "wikilink")와 등급이 동일하고, 운임도 기존 새마을호와 동일한 요금으로 책정하였다. [현대로템](../Page/현대로템.md "wikilink")이 제작한 [간선 전기 동차 (EMU-150)가](../Page/한국철도공사_210000호대_간선_전기_동차.md "wikilink") 운행되며, 명칭은 대국민 열차명 공모를 통해 선정되었다.
+**ITX-새마을**(Intercity Train eXpress-Saemaeul)은 [한국철도공사](../Page/한국철도공사.md "wikilink")의 특별급행 등급 열차다. [새마을호](../Page/새마을호.md "wikilink")를 대체할 목적으로 등장하였으며, [2014년](../Page/2014년.md "wikilink") [5월 12일부터](../Page/5월_12일.md "wikilink") [경부선](../Page/경부선.md "wikilink"), [호남선](../Page/호남선.md "wikilink"), [전라선](../Page/전라선.md "wikilink"), [경전선](../Page/경전선.md "wikilink"), [동해선](https://ko.wikipedia.org/wiki/동해선 "wikilink"), [중앙선](../Page/중앙선.md "wikilink") 등에서 운행된다. 기존에는 **비츠로**라는 이름으로 일반에 알려졌던 적이 있다. 법적으로 [새마을호](../Page/새마을호.md "wikilink")와 등급이 동일하고 운임도 기존 새마을호와 동일한 요금으로 책정하였다. [현대로템](../Page/현대로템.md "wikilink")이 제작한 [간선 전기 동차 (EMU-150)가](../Page/한국철도공사_210000호대_간선_전기_동차.md "wikilink") 운행되며, 명칭은 대국민 열차명 공모를 통해 선정되었다.
 
 ## 연혁
 
@@ -26,9 +26,9 @@
 
 ### 차호
 
-[누리로](../Page/누리로.md "wikilink")의 200000번대에 이어 210000번대 차호를 부여받아 운행된다. 총 23편성이 도입되었다.
+[누리로](../Page/누리로.md "wikilink")의 200000번대에 이어 210000번대 차호를 부여받아 운행된다. 총 24편성이 도입되었다.
 
-  - 210101-210109\~212301-212309 : [2013년](../Page/2013년.md "wikilink") 제작
+  - 210101-210109\~212401-212409 : [2013년](../Page/2013년.md "wikilink") 제작
 
 ## 운행 노선
 

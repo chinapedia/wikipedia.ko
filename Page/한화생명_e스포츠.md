@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [한화생명 e스포츠](https://ko.wikipedia.org/wiki/한화생명_e스포츠).
 
 
-**한화생명 e스포츠**(Hanwha Life Esports)는 대한민국의 [리그 오브 레전드와](../Page/리그_오브_레전드.md "wikilink") [카트라이더](https://ko.wikipedia.org/wiki/카트라이더 "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다.
+**한화생명 e스포츠**(Hanwha Life Esports)는 대한민국의 [리그 오브 레전드와](../Page/리그_오브_레전드.md "wikilink") [크레이지레이싱 카트라이더](../Page/크레이지레이싱_카트라이더.md "wikilink") [프로게임단](https://ko.wikipedia.org/wiki/프로게임단 "wikilink")이다.
 
 ## 개요
 
@@ -59,7 +59,7 @@
 
   - 감독 : 윤영재
   - [문호준](../Page/문호준.md "wikilink") (스피드 에이스)
-  - [이은택](https://ko.wikipedia.org/wiki/이은택 "wikilink") (아이템 에이스)(우울증으로 중도하차)
+  - [강석인](https://ko.wikipedia.org/wiki/강석인 "wikilink") (아이템 에이스)
   - 최영훈 (스위퍼)
   - 배성빈 (러너)
   - 박도현 (스위퍼)

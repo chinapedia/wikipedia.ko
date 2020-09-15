@@ -721,7 +721,7 @@
 <td><p>1988년 5월</p></td>
 <td><p>1988년 6월</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정종덕" title="wikilink">정종덕</a></p></td>
+<td><p><a href="../Page/정종덕.md" title="wikilink">정종덕</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정호선_(축구인)" title="wikilink">정호선</a></p></td>
 <td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1988052300329211018&amp;editNo=3&amp;printCount=1&amp;publishDate=1988-05-23&amp;officeId=00032&amp;pageNo=11&amp;printNo=13122&amp;publishType=00020">선수 명단 기사</a></p></td>
 <td><p><a href="../Page/1988년_AFC_아시안컵_예선.md" title="wikilink">1988 아시안컵 예선</a></p></td>
@@ -736,7 +736,7 @@
 <td><p>1988년 5월</p></td>
 <td><p>1988년 6월</p></td>
 <td><p>B팀</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박수일_(1944년)" title="wikilink">박수일</a></p></td>
+<td><p><a href="../Page/박수일_(1944년).md" title="wikilink">박수일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고봉우" title="wikilink">고봉우</a></p></td>
 <td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1988052300209208004&amp;editNo=2&amp;printCount=1&amp;publishDate=1988-05-23&amp;officeId=00020&amp;pageNo=8&amp;printNo=20502&amp;publishType=00020">선수 명단 기사</a></p></td>
 <td><p><a href="../Page/코리아컵_국제축구대회.md" title="wikilink">1988 대통령배 국제축구대회</a></p></td>

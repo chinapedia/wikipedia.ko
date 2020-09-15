@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Quizlet](https://ko.wikipedia.org/wiki/Quizlet).
 
 
-**Quizlet**은 앤드류 서더랜드가 개발한 온라인 학습 도구이다. 2005년 10월에 고안해냈고, 2007년 1월에 공식적으로 릴리스했다.\[1\] 2018년 10월 현재 Quizlet은 사용자들이 2억개의 플래시카드(flashcard) 세트를 생성했으며, 매달 3천만 명 이상의 사람들이 방문하고 있다.\[2\]
+**Quizlet**은 앤드류 비에이비오가 개발한 온라인 학습 도구이다. 2005년 10월에 고안해냈고, 2007년 1월에 공식적으로 릴리스했다.\[1\] 2018년 10월 현재 Quizlet은 사용자들이 2억개의 플래시카드(flashcard) 세트를 생성했으며, 매달 3천만 명 이상의 사람들이 방문하고 있다.\[2\]
 
 현재 [영어](../Page/영어.md "wikilink"), [독일어](../Page/독일어.md "wikilink"), [스페인어](../Page/스페인어.md "wikilink"), [중국어](../Page/중국어.md "wikilink"), [한국어](../Page/한국어.md "wikilink"), [프랑스어](../Page/프랑스어.md "wikilink"), [인도네시아어](../Page/인도네시아어.md "wikilink"), [이탈리아어](../Page/이탈리아어.md "wikilink"), [네덜란드어](../Page/네덜란드어.md "wikilink"), [폴란드어](../Page/폴란드어.md "wikilink"), [포르투갈어](../Page/포르투갈어.md "wikilink"), [러시아어](../Page/러시아어.md "wikilink"), [터키어](../Page/터키어.md "wikilink"), [베트남어](../Page/베트남어.md "wikilink"), [일본어](../Page/일본어.md "wikilink")를 지원한다
 

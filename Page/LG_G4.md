@@ -3,7 +3,7 @@
 
 **LG G4**는 [LG전자](../Page/LG전자.md "wikilink")가 제조/판매하는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다. 2015년 4월 29일에 주요 6개국\[1\]에 공개했고, 같은 날 [대한민국](../Page/대한민국.md "wikilink")에 출시했다. \[2\] 5.5[인치](https://ko.wikipedia.org/wiki/인치 "wikilink") Quad HD [IPS](https://ko.wikipedia.org/wiki/IPS "wikilink") 디스플레이를 탑재하였다. CPU는 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") 808 헥사코어를 장착하여 광대역 LTE-A를 지원한다.
 
-## 운영체제/소프트웨어
+## 운영체제 / 소프트웨어
 
 ### [안드로이드](https://ko.wikipedia.org/wiki/안드로이드 "wikilink") [5.1 롤리팝](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink")
 
@@ -82,6 +82,7 @@ LG G4는 [5.1 롤리팝을](https://ko.wikipedia.org/wiki/안드로이드_버전
 
   - [삼성 갤럭시 S6](../Page/삼성_갤럭시_S6.md "wikilink")
   - [삼성 갤럭시 S6 엣지](../Page/삼성_갤럭시_S6_엣지.md "wikilink")
+  - [팬택 y6](https://ko.wikipedia.org/wiki/팬택_y6 "wikilink")
   - [넥서스 5X](../Page/넥서스_5X.md "wikilink")
 
 ## 각주

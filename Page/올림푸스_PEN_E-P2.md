@@ -30,6 +30,6 @@
 
   - [올림푸스 공식 블로그](http://blog.olympus.co.kr/)
 
-  - [팝코넷 E-P2 리뷰](http://www.popco.net/zboard/view.php?id=dica_review&no=459)
+  - [팝코넷 E-P2 리뷰](https://web.archive.org/web/20131213024841/http://www.popco.net/zboard/view.php?id=dica_review&no=459)
 
 [분류:렌즈 교환식 미러리스 카메라](https://ko.wikipedia.org/wiki/분류:렌즈_교환식_미러리스_카메라 "wikilink")

@@ -41,23 +41,6 @@
 
   - [2008년](../Page/2008년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") - [SBS 외주작가 투신 자살 사건이](../Page/SBS_외주작가_투신_자살_사건.md "wikilink") 발생했다.
 
-## 대중문화
-
-### 드라마
-
-  - [하늘이시여](../Page/하늘이시여.md "wikilink") - SBS가 아닌 SBN이 나오고 SBN 목동사옥 5층의 뉴스센터가 나온다.
-  - [백만장자와 결혼하기](../Page/백만장자와_결혼하기.md "wikilink") - SBS가 아닌 HBS가 나오고 HBS 방송국이 나온다.
-  - [101번째 프러포즈](../Page/101번째_프러포즈.md "wikilink") - SBS가 아닌 GBS가 나오고 GBS 목동사옥 11층의 라디오 스튜디오가 나온다.
-  - [드라마의 제왕](https://ko.wikipedia.org/wiki/드라마의_제왕 "wikilink") - SBC가 위에는 하얀색, 아래에는 빨간색 영어로 나오고 SBC 방송 센터가 나온다.
-  - [결혼의 여신](../Page/결혼의_여신.md "wikilink") - SBC가 하얀 영어로 나오고 SBC 방송 센터가 나오고 내부가 나온다.
-  - [피노키오](https://ko.wikipedia.org/wiki/피노키오_\(드라마\) "wikilink") - MSC가 빨간 영어가 나오고 MSC 방송 센터가 나온다.
-  - [당신이 잠든 사이에](../Page/당신이_잠든_사이에_\(드라마\).md "wikilink") - SBC 방송 센터가 나온다.
-  - [끝에서 두번째 사랑](https://ko.wikipedia.org/wiki/끝에서_두번째_사랑 "wikilink") - SBC 방송 센터로 나오고 [SBS 방송 센터](../Page/SBS_방송_센터.md "wikilink") 18층 편성실 사무실도 나온다. 세트장과 복도등은 SBS 일산제작센터에서 촬영했다.
-
-### 예능
-
-  - [런닝맨](https://ko.wikipedia.org/wiki/런닝맨 "wikilink") 13회 - SBS 방송 센터가 나온다.
-
 ## 갤러리
 
 파일:Hyperion Towers Night.JPG

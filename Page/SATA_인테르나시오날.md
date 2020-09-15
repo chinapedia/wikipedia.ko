@@ -19,12 +19,12 @@
 
 ## 외부 링크
 
-  - [SATA International](http://www.sata.pt/?engl=1)
+  - [SATA International](https://web.archive.org/web/20120722222835/http://www.sata.pt/?engl=1)
   - [SATA International](http://www.sata.pt)
   - [SATA International Fleet](http://www.planespotters.net/Airline/SATA-International)
-  - [Travel: SATA International providing new air service to the Azores and Lisbon – San Francisco, CA](http://portuguese-american-journal.com/travel-sata-international-providing-new-air-service-to-the-azores-and-lisbon-san-francisco-ca/) Portuguese American Journal
+  - [Travel: SATA International providing new air service to the Azores and Lisbon – San Francisco, CA](https://web.archive.org/web/20131006194702/http://portuguese-american-journal.com/travel-sata-international-providing-new-air-service-to-the-azores-and-lisbon-san-francisco-ca/) Portuguese American Journal
 
 [분류:1990년 설립](https://ko.wikipedia.org/wiki/분류:1990년_설립 "wikilink") [분류:포르투갈의 항공사](https://ko.wikipedia.org/wiki/분류:포르투갈의_항공사 "wikilink") [분류:포르투갈의 브랜드](https://ko.wikipedia.org/wiki/분류:포르투갈의_브랜드 "wikilink")
 
 1.  "[Customer Care](http://sata.pt/en/other-services/customer-care) ." SATA. Retrieved on 7 July 2010. "Av. Infante D. Henrique, 55 - 1º andar 9504-528 Ponta Delgada Azores - Portugal"
-2.  "[Press Kit 2010](http://www.sata.pt/sites/default/files/PRESS%20KIT.MAR%C3%87O%20%202010_en_L2_0.pdf)." SATA. Retrieved on 7 July 2010. "The SATA Group comprises air transport companies whose decision centre is located in the city of Ponta Delgada, on the island of São Miguel, in the archipelago of Azores."
+2.  "[Press Kit 2010](http://www.sata.pt/sites/default/files/PRESS%20KIT.MAR%C3%87O%20%202010_en_L2_0.pdf) ." SATA. Retrieved on 7 July 2010. "The SATA Group comprises air transport companies whose decision centre is located in the city of Ponta Delgada, on the island of São Miguel, in the archipelago of Azores."

@@ -26,7 +26,7 @@
   - [2015년](../Page/2015년.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[동상이몽, 괜찮아 괜찮아](../Page/동상이몽,_괜찮아_괜찮아.md "wikilink")》 - ([지민](../Page/지민_\(래퍼\).md "wikilink"))
   - [2015년](../Page/2015년.md "wikilink") [SBS플러스](https://ko.wikipedia.org/wiki/SBS플러스 "wikilink") 《[날씬한 도시락](https://ko.wikipedia.org/wiki/날씬한_도시락 "wikilink")》 - ([지민](../Page/지민_\(래퍼\).md "wikilink"), [유나](../Page/유나_\(1992년\).md "wikilink"), [혜정](../Page/혜정.md "wikilink"), [찬미](../Page/찬미_\(1996년\).md "wikilink"))
   - [2015년](../Page/2015년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[황금어장 라디오스타](../Page/황금어장_라디오스타.md "wikilink")》 426회 - ([초아](https://ko.wikipedia.org/wiki/초아 "wikilink"))
-  - [2015년](../Page/2015년.md "wikilink") [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")》 231회 - ([초아](https://ko.wikipedia.org/wiki/초아 "wikilink"), [민아](https://ko.wikipedia.org/wiki/민아_\(1993년_9월\) "wikilink"))
+  - [2015년](../Page/2015년.md "wikilink") [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 《[대국민 토크쇼 안녕하세요](../Page/대국민_토크쇼_안녕하세요.md "wikilink")》 231회 - ([초아](https://ko.wikipedia.org/wiki/초아 "wikilink"), [민아](../Page/권민아.md "wikilink"))
   - [2015년](../Page/2015년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[황금어장 라디오스타](../Page/황금어장_라디오스타.md "wikilink")》 437회 - ([지민](../Page/지민_\(래퍼\).md "wikilink"))
   - [2015년](../Page/2015년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")》 26회 - ([초아](https://ko.wikipedia.org/wiki/초아 "wikilink")) - 오매, 단풍 들겄네
   - 2015년 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 《[SNL 코리아](../Page/SNL_코리아.md "wikilink")》 - (AOA)
@@ -36,6 +36,7 @@
   - [2016년](../Page/2016년.md "wikilink") [EBS 1TV](../Page/EBS_1TV.md "wikilink") 《[생방송 톡\!톡\! 보니하니](https://ko.wikipedia.org/wiki/생방송_톡!톡!_보니하니 "wikilink")》3037회 - ([AOA 크림](https://ko.wikipedia.org/wiki/AOA_크림 "wikilink"))
   - [2016년](../Page/2016년.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[정글의 법칙](../Page/정글의_법칙.md "wikilink")》 - ([설현](../Page/설현.md "wikilink"))
   - [2017년](../Page/2017년.md "wikilink") [EBS1](../Page/EBS_1TV.md "wikilink") 《[글로벌 아빠 찾아 삼만리](../Page/글로벌_아빠_찾아_삼만리.md "wikilink")》- ([찬미](../Page/찬미_\(1996년\).md "wikilink"), [혜정](../Page/혜정.md "wikilink"), [지민](../Page/지민_\(래퍼\).md "wikilink")) 특별출연
+  - [2020](https://ko.wikipedia.org/wiki/2020 "wikilink") [SBS](../Page/SBS.md "wikilink")《런닝맨》-AOA 특별출연
 
 ## 연기 활동
 
@@ -46,13 +47,13 @@
   - [SBS](../Page/SBS.md "wikilink") 주말 특별기획 《[청담동 앨리스](https://ko.wikipedia.org/wiki/청담동_앨리스 "wikilink")》 - 한세진 역 ([혜정](../Page/혜정.md "wikilink")) (2012년 [12월 1일](../Page/12월_1일.md "wikilink") \~ 2013년 [1월 27일](../Page/1월_27일.md "wikilink"))
   - [SBS](../Page/SBS.md "wikilink") 일일드라마 《[못난이 주의보](../Page/못난이_주의보.md "wikilink")》 - 공나리 역 ([설현](../Page/설현.md "wikilink")) ([2013년](../Page/2013년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ 2013년 [11월 29일](../Page/11월_29일.md "wikilink"))
   - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 수목드라마 《[칼과 꽃](../Page/칼과_꽃.md "wikilink")》 - 달기 역 ([혜정](../Page/혜정.md "wikilink")) (2013년 [7월 3일](../Page/7월_3일.md "wikilink") \~2013년 [9월 5일](../Page/9월_5일.md "wikilink"))
-  - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 드라마 스페셜 《[사춘기 메들리](../Page/사춘기_메들리.md "wikilink")》 - 윤진영 역 ([민아](https://ko.wikipedia.org/wiki/민아_\(1993년_9월\) "wikilink")) (2013년 [7월 10일](../Page/7월_10일.md "wikilink") \~ 2013년 [7월 31일](../Page/7월_31일.md "wikilink"))
-  - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 주말연속극 《[참 좋은 시절](https://ko.wikipedia.org/wiki/참_좋은_시절 "wikilink")》 - 차해원 아역 ([민아](https://ko.wikipedia.org/wiki/민아_\(1993년_9월\) "wikilink")) (2014년 [2월 22일](../Page/2월_22일.md "wikilink") \~ 2014년 [8월 10일](../Page/8월_10일.md "wikilink")) ([김희선](../Page/김희선.md "wikilink") 아역) (1회\~5회 특별출연)
-  - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 금요드라마 《[꽃할배 수사대](../Page/꽃할배_수사대.md "wikilink")》 - 한설희 역 ([민아](https://ko.wikipedia.org/wiki/민아_\(1993년_9월\) "wikilink")) (2014년 [5월 9일](../Page/5월_9일.md "wikilink") \~ 2014년 [7월 25일](../Page/7월_25일.md "wikilink"))
-  - [SBS](../Page/SBS.md "wikilink") 주말극장 《[모던 파머](https://ko.wikipedia.org/wiki/모던_파머 "wikilink")》 - 이수연 역 ([민아](https://ko.wikipedia.org/wiki/민아_\(1993년_9월\) "wikilink")) ([2014년](../Page/2014년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink")) (3회 \~20회)
+  - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 드라마 스페셜 《[사춘기 메들리](../Page/사춘기_메들리.md "wikilink")》 - 윤진영 역 ([민아](../Page/권민아.md "wikilink")) (2013년 [7월 10일](../Page/7월_10일.md "wikilink") \~ 2013년 [7월 31일](../Page/7월_31일.md "wikilink"))
+  - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 주말연속극 《[참 좋은 시절](https://ko.wikipedia.org/wiki/참_좋은_시절 "wikilink")》 - 차해원 아역 ([민아](../Page/권민아.md "wikilink")) (2014년 [2월 22일](../Page/2월_22일.md "wikilink") \~ 2014년 [8월 10일](../Page/8월_10일.md "wikilink")) ([김희선](../Page/김희선.md "wikilink") 아역) (1회\~5회 특별출연)
+  - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 금요드라마 《[꽃할배 수사대](../Page/꽃할배_수사대.md "wikilink")》 - 한설희 역 ([민아](../Page/권민아.md "wikilink")) (2014년 [5월 9일](../Page/5월_9일.md "wikilink") \~ 2014년 [7월 25일](../Page/7월_25일.md "wikilink"))
+  - [SBS](../Page/SBS.md "wikilink") 주말극장 《[모던 파머](https://ko.wikipedia.org/wiki/모던_파머 "wikilink")》 - 이수연 역 ([민아](../Page/권민아.md "wikilink")) ([2014년](../Page/2014년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink")) (3회 \~20회)
   - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 금요미니시리즈 《[오렌지 마말레이드](../Page/오렌지_마말레이드_\(드라마\).md "wikilink")》 - 백마리 역 ([설현](../Page/설현.md "wikilink")) ([2015년](../Page/2015년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink"))
   - [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 웹드라마 《[프린스의 왕자](../Page/프린스의_왕자.md "wikilink")》 - 박유나 역 ([유나](../Page/유나_\(1992년\).md "wikilink")) ([2015년](../Page/2015년.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink"))
-  - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 주말연속극 《[부탁해요 엄마](https://ko.wikipedia.org/wiki/부탁해요_엄마 "wikilink")》 - 고앵두 역 ([민아](https://ko.wikipedia.org/wiki/민아_\(1993년_9월\) "wikilink")) ([2015년](../Page/2015년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") \~[2016년](../Page/2016년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink")) (33회\~54회)
+  - [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") 주말연속극 《[부탁해요 엄마](https://ko.wikipedia.org/wiki/부탁해요_엄마 "wikilink")》 - 고앵두 역 ([민아](../Page/권민아.md "wikilink")) ([2015년](../Page/2015년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") \~[2016년](../Page/2016년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink")) (33회\~54회)
 
 ### 영화
 

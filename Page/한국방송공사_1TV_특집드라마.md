@@ -1,11 +1,15 @@
 > This article is converted from Wikipedia: [한국방송공사 1TV 특집드라마](https://ko.wikipedia.org/wiki/한국방송공사_1TV_특집드라마).
 
 
-**한국방송공사 1TV 특집드라마**는 명절이나 특정한 기간으로 지정된 날이나 달을 기념하기 위해 부정기적으로 편성·방영되는 드라마이다.
+**KBS 1TV 특집 드라마**는 명절이나 특정한 기간으로 지정된 날이나 달을 기념하기 위해 부정기적으로 편성·방영 되는 드라마이다.
 
 ## 작품 리스트
 
-### 1970년대 후반
+  - 아래의 프로그램들은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 시행중인 [2002년](../Page/2002년.md "wikilink") 금연 캠페인 시행 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 흡연 장면 및 담배 소품이 노출될 수 있으며, 시청자 여러분들의 양해를 바랍니다.
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 시청 가능 연령을 표시하는 [드라마 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 의무적으로 시행하여, 현재까지 이어지고 있다.
+  - [2017년](../Page/2017년.md "wikilink") [3월 1일부터](../Page/3월_1일.md "wikilink") 프로그램 등급 표시 외에 주제, 폭력성, 선정성, 언어, 모방 위험 등 분류 사유 표시를 의무적으로 시행하고 있다.
+
+### 1970년대
 
 #### 1977년
 
@@ -27,10 +31,10 @@
   - 《[34인](https://ko.wikipedia.org/wiki/34인 "wikilink")》 : 1979년 3월 1일 (3.1절 특집 드라마)
   - 《[레만호에 지다](https://ko.wikipedia.org/wiki/레만호에_지다 "wikilink")》 : 1979년 6월 23일 \~ 1979년 6월 24일 (6.25 특집 드라마)
   - 《[낯설은 골짜기](https://ko.wikipedia.org/wiki/낯설은_골짜기 "wikilink")》 : 1979년 6월 25일 (6.25 특집 드라마)
-  - 《[대한국인](https://ko.wikipedia.org/wiki/대한국인 "wikilink")》 : 1979년 8월 15일 (8.15 특집 드라마)
+  - 《[대한국인](../Page/대한국인.md "wikilink")》 : 1979년 8월 15일 (8.15 특집 드라마)
   - 《[까치집](https://ko.wikipedia.org/wiki/까치집 "wikilink")》 : 1979년 10월 4일 (추석 특집 드라마)
 
-### 1980년대 전반
+### 1980년대
 
 #### 1980년
 
@@ -52,9 +56,9 @@
   - 《[산울림](https://ko.wikipedia.org/wiki/산울림_\(드라마\) "wikilink")》 : 1982년 3월 9일 (기업 드라마)
   - 《[내일은 태양](https://ko.wikipedia.org/wiki/내일은_태양_\(드라마\) "wikilink")》 : 1982년 5월 4일
   - 《[소파 방정환](https://ko.wikipedia.org/wiki/소파_방정환_\(드라마\) "wikilink")》 : 1982년 5월 5일 (어린이 날 특집 드라마)
-  - 《[맥포](https://ko.wikipedia.org/wiki/맥포 "wikilink")》 : 1982년 5월 21일 \~ 1982년 5월 22일 (한미수교 100주년 특집 드라마)
+  - 《[맥토](https://ko.wikipedia.org/wiki/맥토 "wikilink")》 : 1982년 5월 21일 \~ 1982년 5월 22일 (한미수교 100주년 특집 드라마)
   - 《[13세 소년](https://ko.wikipedia.org/wiki/13세_소년_\(드라마\) "wikilink")》 : 1982년 6월 25일 (6.25 특집 드라마)
-  - 《[그 여름의 이들](https://ko.wikipedia.org/wiki/그_여름의_이들 "wikilink")》 : 1982년 8월 14일 \~ 1982년 8월 15일 (8.15 특집 드라마)
+  - 《[그 여름의 이틀](https://ko.wikipedia.org/wiki/그_여름의_이틀 "wikilink")》 : 1982년 8월 14일 \~ 1982년 8월 15일 (8.15 특집 드라마)
   - 《[새야 새야](https://ko.wikipedia.org/wiki/새야_새야 "wikilink")》 : 1982년 10월 2일 (추석 특집 드라마)
 
 #### 1983년
@@ -84,8 +88,6 @@
   - 《[두 아버지](https://ko.wikipedia.org/wiki/두_아버지 "wikilink")》 : 1984년 8월 15일 (8.15 특집 드라마)
   - 《[마돈나여, 광야에서 별을 노래하라](https://ko.wikipedia.org/wiki/마돈나여,_광야에서_별을_노래하라 "wikilink")》 : 1984년 12월 20일 \~ 1984년 12월 22일 (영상 시극)
   - 《[아직도 내사랑 끝나지 않았네](https://ko.wikipedia.org/wiki/아직도_내사랑_끝나지_않았네 "wikilink")》 : 1984년 12월 25일
-
-### 1980년대 후반
 
 #### 1985년
 
@@ -128,7 +130,7 @@
 <!-- end list -->
 
   - 《[종이학](https://ko.wikipedia.org/wiki/종이학_\(1987년_드라마\) "wikilink")》 : 1987년 월 일 (3.1절 특집 드라마)
-  - 《[환멸을 찾아서](https://ko.wikipedia.org/wiki/환멸을_찾아서 "wikilink")》 : 1987년 6월 23일 \~ 1987년 6월 24일 (6.25 특집 드라마)
+  - 《[환멸을 찾아서](../Page/환멸을_찾아서.md "wikilink")》 : 1987년 6월 23일 \~ 1987년 6월 24일 (6.25 특집 드라마)
   - 《[이차돈](https://ko.wikipedia.org/wiki/이차돈_\(드라마\) "wikilink")》 : 1987년 5월 5일 (부처님 오신 날 특집 드라마)
   - 《[시냇물 흘러흘러 어디로 가나](https://ko.wikipedia.org/wiki/시냇물_흘러흘러_어디로_가나 "wikilink")》 : 1987년 10월 6일 \~ 1987년 10월 7일 (추석 특집 드라마)
   - 《[땅에서도 이루어지소서](https://ko.wikipedia.org/wiki/땅에서도_이루어지소서 "wikilink")》 : 1987년 12월 25일 (성탄절 특집 드라마)
@@ -167,7 +169,7 @@
   - 《[영주의 증명](https://ko.wikipedia.org/wiki/영주의_증명 "wikilink")》 : 1989년 8월 13일 \~ 1989년 8월 14일 (8.15 특집 드라마)
   - 《[초승달과 밤배](https://ko.wikipedia.org/wiki/초승달과_밤배_\(드라마\) "wikilink")》 : 1989년 12월 30일 (송년 특집 드라마)
 
-### 1990년대 전반
+### 1990년대
 
 #### 1990년
 
@@ -180,7 +182,7 @@
   - 《[비객](https://ko.wikipedia.org/wiki/비객 "wikilink")》 : 1990년 5월 6일 (앙코르 특집 드라마)
   - 《[안개를 찾아서](https://ko.wikipedia.org/wiki/안개를_찾아서 "wikilink")》 : 1990년 4월 28일
   - 《[우리들의 조부님](https://ko.wikipedia.org/wiki/우리들의_조부님 "wikilink")》 : 1990년 6월 23일 (6.25 특집 분단 문학 시리즈)
-  - 《[봉숭아물꽃](https://ko.wikipedia.org/wiki/봉숭아물꽃 "wikilink")》 : 1990년 6월 24일 (6.25 특집 분단 문학 시리즈)
+  - 《[봉숭아꽃물](https://ko.wikipedia.org/wiki/봉숭아꽃물 "wikilink")》 : 1990년 6월 24일 (6.25 특집 분단 문학 시리즈)
   - 《[어머니의 노래](https://ko.wikipedia.org/wiki/어머니의_노래 "wikilink")》 : 1990년 6월 25일 (6.25 특집 분단 문학 시리즈)
   - 《[왕조의 세월](../Page/왕조의_세월.md "wikilink")》 : 1990년 8월 16일 \~ 1990년 8월 17일 (8.15 특집 드라마)
   - 《[몽기미 풍경](https://ko.wikipedia.org/wiki/몽기미_풍경 "wikilink")》 : 1990년 10월 2일 (추석 특집 드라마)
@@ -236,9 +238,7 @@
   - 《[5월의 여행](https://ko.wikipedia.org/wiki/5월의_여행 "wikilink")》 : 1994년 5월 27일 (가정의 달 특집 드라마)
   - 《[역사 앞에서](https://ko.wikipedia.org/wiki/역사_앞에서 "wikilink")》 : 1994년 6월 24일 (6.25 특집 2부작 드라마)
   - 《[빈 잔의 축배](https://ko.wikipedia.org/wiki/빈_잔의_축배 "wikilink")》 : 1994년 8월 15일 (8.15 특집 드라마)
-  - 《[춘향전](https://ko.wikipedia.org/wiki/춘향전_\(1994년_드라마\) "wikilink")》 : 1994년 9월 20일 (추석 특집 드라마)
-
-### 1990년대 후반
+  - 《[춘향전](../Page/춘향전_\(1994년_드라마\).md "wikilink")》 : 1994년 9월 20일 (추석 특집 드라마)
 
 #### 1995년
 
@@ -258,7 +258,7 @@
 
   - 《[목마들의 언덕](https://ko.wikipedia.org/wiki/목마들의_언덕 "wikilink")》 : 1998년 1월 2일 (신년 특집 드라마)
   - 《[귀향, 그 짧은 이야기](https://ko.wikipedia.org/wiki/귀향,_그_짧은_이야기 "wikilink")》 : 1998년 1월 27일 (설 특집 드라마)
-  - 《[춘향전](https://ko.wikipedia.org/wiki/춘향전_\(1994년_드라마\) "wikilink")》 : 1998년 1월 27일 (앙코르 설 특집 드라마)
+  - 《[춘향전](../Page/춘향전_\(1994년_드라마\).md "wikilink")》 : 1998년 1월 27일 (앙코르 설 특집 드라마)
   - 《[불붙는 난간](https://ko.wikipedia.org/wiki/불붙는_난간 "wikilink")》 : 1998년 10월 3일 (앙코르 추석 특집 드라마)
   - 《[만석꾼 며느리 뽑기](https://ko.wikipedia.org/wiki/만석꾼_며느리_뽑기 "wikilink")》 : 1998년 10월 6일 (앙코르 추석 특집 드라마)
 
@@ -266,10 +266,10 @@
 
   - 《[인연이란](https://ko.wikipedia.org/wiki/인연이란 "wikilink")》 : 1999년 1월 2일 (앙코르 신년 특집 드라마)
   - 《[셔터맨, 슈퍼맨, 비디오맨](https://ko.wikipedia.org/wiki/셔터맨,_슈퍼맨,_비디오맨 "wikilink")》 : 1999년 2월 14일 (앙코르 설 특집 드라마)(1995년 12월 24일 [KBS 드라마게임으로](../Page/KBS_드라마게임.md "wikilink") 방영된 작품의 앙코르)
-  - 《[춘향전](https://ko.wikipedia.org/wiki/춘향전_\(1994년_드라마\) "wikilink")》 : 1999년 2월 15일 (앙코르 설 특집 드라마)
+  - 《[춘향전](../Page/춘향전_\(1994년_드라마\).md "wikilink")》 : 1999년 2월 15일 (앙코르 설 특집 드라마)
   - 《[마음이 하는 일](https://ko.wikipedia.org/wiki/마음이_하는_일 "wikilink")》 : 1999년 9월 23일 (추석 특집 드라마)
 
-### 2000년대 전반
+### 2000년대
 
 #### 2000년
 
@@ -283,20 +283,32 @@
 
   - 《[천년의 꿈](https://ko.wikipedia.org/wiki/천년의_꿈 "wikilink")》 : 2003년 2월 1일 (설날 특집 드라마)
 
-### 2000년대 후반
-
 #### 2005년
 
   - 《[내 손을 잡아요](https://ko.wikipedia.org/wiki/내_손을_잡아요 "wikilink")》 : 2005년 2월 9일 (설날 특집 드라마)
 
 ### 2010년대
 
+#### 2010년
+
   - 《[고마워 웃게해줘서](https://ko.wikipedia.org/wiki/고마워_웃게해줘서 "wikilink")》 : 2010년 12월 25일 (성탄 특집 드라마)
+
+#### 2015년
+
   - 《[눈길](../Page/눈길.md "wikilink")》 : 2015년 2월 28일 \~ 2015년 3월 1일 (광복 70주년 특집 드라마)
+
+#### 2017년
+
   - 《[언제나 해피엔딩](https://ko.wikipedia.org/wiki/언제나_해피엔딩 "wikilink")》 : 2017년 10월 8일 (추석 특집 드라마)
-  - 《[조선미인별전](../Page/조선미인별전.md "wikilink")》 : 2018년 1월 6일 \~ 2018년 1월 7일 (신년특집 뮤지컬 드라마)
-  - 《[그날이 오면](https://ko.wikipedia.org/wiki/그날이_오면_\(2019년_드라마\) "wikilink")》 : 2019년 3월 1일 (3.1절 특집 드라마)
+
+#### 2018년
+
+  - 《[조선미인별전](../Page/조선미인별전.md "wikilink")》 : 2018년 1월 6일 \~ 2018년 1월 7일 (신년 특집 뮤지컬 드라마)
+
+#### 2019년
+
+  - 《[그날이 오면](https://ko.wikipedia.org/wiki/그날이_오면_\(2019년_드라마\) "wikilink")》 : 2019년 3월 1일 (3.1절 100주년 특집 드라마)
 
 ## 같이 보기
 
-[분류:한국방송공사의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [한국방송공사_1TV_특집드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사_1TV_특집드라마 "wikilink") [분류:단막극](https://ko.wikipedia.org/wiki/분류:단막극 "wikilink")
+[분류:한국방송공사 1TV 특집드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사_1TV_특집드라마 "wikilink") [분류:단막극](https://ko.wikipedia.org/wiki/분류:단막극 "wikilink")

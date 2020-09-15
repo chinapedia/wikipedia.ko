@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OH MY GIRL](https://ko.wikipedia.org/wiki/OH_MY_GIRL).
 
 
-《**OH MY GIRL**》(오마이걸)은 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [오마이걸](../Page/오마이걸.md "wikilink")의 데뷔 음반이자 첫 번째 미니 음반이다. 프로듀서 72(본명: 최재혁)와 좋은놈(본명: 문정규)이 총괄 프로듀싱을 맡았으며, 타이틀 곡 〈Cupid〉의 작곡은 [EXO](../Page/EXO.md "wikilink")의 〈으르렁〉, [샤이니](../Page/샤이니.md "wikilink")의 〈Dream Girl〉 등을 작곡한 Jordan Kyle과 Jarah Gibson, 그리고 [신혁](https://ko.wikipedia.org/wiki/신혁 "wikilink")이, 작사는 [김이나](../Page/김이나.md "wikilink")가 맡았다. 타이틀 곡 〈Cupid〉의 뮤직비디오는 4월 20일 정오에 공개되었다.
+《**OH MY GIRL**》은 [대한민국](../Page/대한민국.md "wikilink")의 걸그룹 [오마이걸](../Page/오마이걸.md "wikilink")의 데뷔 음반이자 첫번째 미니 음반이다. 프로듀서 72(본명: 최재혁)와 좋은놈(본명: 문정규)이 총괄 프로듀싱을 맡았으며, 타이틀 곡 《Cupid》의 작곡은 [EXO](../Page/EXO.md "wikilink")의 《으르렁》, [샤이니](../Page/샤이니.md "wikilink")의 《Dream Girl》 등을 작곡한 Jordan Kyle과 Jarah Gibson, 그리고 [신혁](https://ko.wikipedia.org/wiki/신혁 "wikilink")이, 작사는 [김이나](../Page/김이나.md "wikilink")가 맡았다. 타이틀 곡 《Cupid》의 뮤직비디오는 4월 20일 정오에 공개되었다.
 
 ## 발매 과정 및 활동
 

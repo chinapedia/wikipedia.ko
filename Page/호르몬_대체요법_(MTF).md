@@ -41,7 +41,7 @@ MTF HRT의 효능에 비해 그 위험이 감수할 수 있을 만큼 작으나 
   - [유방](../Page/유방.md "wikilink")의 발달과 그에 수반하는 [유두](../Page/유두.md "wikilink") 팽창\[1\]
   - [체모](https://ko.wikipedia.org/wiki/체모 "wikilink")의 양이 줄어들고 가늘어짐
   - [체취](https://ko.wikipedia.org/wiki/체취 "wikilink")와 [땀](https://ko.wikipedia.org/wiki/땀 "wikilink")냄새가 변화함
-  - [성장판](https://ko.wikipedia.org/wiki/성장판 "wikilink")이 아직 닫히지 않았다면 [골반](https://ko.wikipedia.org/wiki/골반 "wikilink")이 넓어질 수도 있음
+  - [뼈끝판](https://ko.wikipedia.org/wiki/뼈끝판 "wikilink")이 아직 닫히지 않았다면 [골반](https://ko.wikipedia.org/wiki/골반 "wikilink")이 넓어질 수도 있음
   - [근육](../Page/근육.md "wikilink")이 줄어듬
   - [피부](../Page/피부.md "wikilink")가 여윔
   - [정맥](https://ko.wikipedia.org/wiki/정맥 "wikilink")이 덜 잘 보이게 됨

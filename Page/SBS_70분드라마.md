@@ -3,7 +3,7 @@
 
 《**SBS 70분드라마**》는 [SBS](../Page/SBS.md "wikilink")에서 [1997년](../Page/1997년.md "wikilink") [6월 15일부터](../Page/6월_15일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [1월 23일까지](../Page/1월_23일.md "wikilink") 총 29부작에 걸쳐 방영된 단막극 프로그램이다.
 
-이 드라마는 국내 최초로 방영되기 전에 서울 대학로 성좌소극장에서 시청자를 대상으로 특별 시사회를 마련하였다. 〈가방을 든 남자〉(연출 손홍조 극본 김남)를 상영하였고, 연출을 담당한 손홍조 PD와 주인공인 이발사 장씨로 나오는 배우 최용민이 참석하여 날카로운 질문에 답을 하였다.\[1\]\[2\]
+이 드라마는 국내 최초로 방영되기 전에 서울 대학로 성좌소극장에서 시청자를 대상으로 특별 시사회를 마련하였다. 〈가방을 든 남자〉(연출 손홍조 극본 김남)를 상영하였고, 연출을 담당한 손홍조 PD와 주인공인 이발사 장씨로 나오는 배우 최용민이 참석하여 날카로운 질문에 답을 하였다.\[1\]\[2\] 한편, IMF 역풍에 휘말려\[3\] [1998년](../Page/1998년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") 막을 내렸으며 [1997년](../Page/1997년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") 방영된 '숙희.정희' 편이 동성애 장면을 적나라하게 묘사했다는 이유 때문에 방송위원회 전체회의에서 "시청자 사과명령" 조치를 받았고\[4\] 원래 같은 달 7일 내보낼 예정이었으나 가족채널 이미지에 어울리지 않는다는 자체 판단 때문에\[5\] 3주 미뤄졌으며 SBS는 [2001년](../Page/2001년.md "wikilink") 《[오픈드라마 남과여](https://ko.wikipedia.org/wiki/SBS_오픈드라마_남과여 "wikilink")》로 단막극을 재신설했는데 해당 작품에 앞서 주말 밤 9시 50분에 한 테마당 2부작으로 구성되어 방송하는 형식인 《와이드 극장 70》으로 단막극을 내보낼 계획이었지만\[6\] 조건이 안 맞아 무산됐다.
 
 ## 작품 리스트
 
@@ -141,7 +141,7 @@
 <tr class="odd">
 <td><p>13회</p></td>
 <td><p>9월 7일</p></td>
-<td><p>자전거 도둑[3]</p></td>
+<td><p>자전거 도둑[7]</p></td>
 <td><p><a href="../Page/조민기.md" title="wikilink">조민기</a>, 서혜린, 김경아, 박승태, <a href="https://ko.wikipedia.org/wiki/박인환" title="wikilink">박인환</a>,<br />
 <a href="../Page/성동일.md" title="wikilink">성동일</a>, 전운, 조남석, <a href="../Page/권은아.md" title="wikilink">권은아</a>, 서윤경,<br />
 <a href="../Page/윤기원_(배우).md" title="wikilink">윤기원</a></p></td>
@@ -308,7 +308,7 @@
 <td><p>여자, 여자, 여자</p></td>
 <td><p><a href="../Page/윤미라.md" title="wikilink">윤미라</a>, <a href="../Page/차주옥.md" title="wikilink">차주옥</a>, <a href="https://ko.wikipedia.org/wiki/박주아" title="wikilink">박주아</a>, <a href="../Page/맹상훈.md" title="wikilink">맹상훈</a>, <a href="../Page/남포동_(배우).md" title="wikilink">남포동</a>,<br />
 <a href="../Page/박윤배.md" title="wikilink">박윤배</a>, <a href="https://ko.wikipedia.org/wiki/이미경" title="wikilink">이미경</a>, 정하완, 이배국, 이명숙,<br />
-이은경, 윤미향, <a href="../Page/김남진.md" title="wikilink">김남진</a></p></td>
+이은경, 윤미향, <a href="../Page/김승민_(배우).md" title="wikilink">김남진</a></p></td>
 <td><p>이유선</p></td>
 <td><p>장형일</p></td>
 </tr>
@@ -332,4 +332,8 @@
 
 1.
 2.
-3.  [드라마'자전거 도둑' 현실·회상 잦은교차 지나친 카메라 기교 원작의 향기 사라져](http://newslibrary.naver.com/viewer/index.nhn?articleId=1997090900289121013&editNo=5&printCount=1&publishDate=1997-09-09&officeId=00028&pageNo=21&printNo=2979&publishType=00010)
+3.
+4.
+5.
+6.
+7.  [드라마'자전거 도둑' 현실·회상 잦은교차 지나친 카메라 기교 원작의 향기 사라져](http://newslibrary.naver.com/viewer/index.nhn?articleId=1997090900289121013&editNo=5&printCount=1&publishDate=1997-09-09&officeId=00028&pageNo=21&printNo=2979&publishType=00010)

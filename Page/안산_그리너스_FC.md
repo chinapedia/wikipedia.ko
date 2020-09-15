@@ -40,7 +40,7 @@
 
 ### 현재 선수단
 
-[2020년](../Page/2020년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") 기준
+[2020년](../Page/2020년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") 기준
 
 ### 임대 및 군 복무 중인 선수 명단
 
@@ -64,7 +64,7 @@
 </tr>
 <tr class="even">
 <td><p>수석 코치</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박성배" title="wikilink">박성배</a></p></td>
+<td><p><a href="../Page/박성배_(축구인).md" title="wikilink">박성배</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

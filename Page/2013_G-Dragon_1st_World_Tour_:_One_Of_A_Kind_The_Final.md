@@ -11,7 +11,7 @@
 
 ## 외부 링크
 
-  - [지드래곤 공식 사이트](http://www.ygbigbang.com/gdragon/)
+  - [지드래곤 공식 사이트](https://web.archive.org/web/20150804095238/http://www.ygbigbang.com/gdragon/)
 
 [분류:2013년 라이브 음반](https://ko.wikipedia.org/wiki/분류:2013년_라이브_음반 "wikilink") [분류:지드래곤의 음반](https://ko.wikipedia.org/wiki/분류:지드래곤의_음반 "wikilink") [분류:YG 엔터테인먼트 음반](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink")
 

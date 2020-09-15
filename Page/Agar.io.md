@@ -20,7 +20,7 @@ Agar.io는 2015년 4월 28일, 당시 19세였던 브라질 출신 개발자 Mat
 ## 외부 링크
 
   -
-[분류:2015년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2015년_비디오_게임 "wikilink") [분류:액션 게임](https://ko.wikipedia.org/wiki/분류:액션_게임 "wikilink") [분류:캐주얼 게임](https://ko.wikipedia.org/wiki/분류:캐주얼_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:브라우저 게임](https://ko.wikipedia.org/wiki/분류:브라우저_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:다중 사용자 온라인 게임](https://ko.wikipedia.org/wiki/분류:다중_사용자_온라인_게임 "wikilink")
+[분류:2015년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2015년_비디오_게임 "wikilink") [분류:액션 게임](https://ko.wikipedia.org/wiki/분류:액션_게임 "wikilink") [분류:캐주얼 게임](https://ko.wikipedia.org/wiki/분류:캐주얼_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:브라우저 게임](https://ko.wikipedia.org/wiki/분류:브라우저_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:다중 사용자 온라인 게임](https://ko.wikipedia.org/wiki/분류:다중_사용자_온라인_게임 "wikilink") [분류:배틀 로열 게임](https://ko.wikipedia.org/wiki/분류:배틀_로열_게임 "wikilink")
 
 1.
 2.

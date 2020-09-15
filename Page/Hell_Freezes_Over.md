@@ -31,4 +31,6 @@
 2.  "The Heart of the Matter"
 3.  "Seven Bridges Road"
 
+## 외부 링크
+
 [분류:이글스의 음반](https://ko.wikipedia.org/wiki/분류:이글스의_음반 "wikilink") [분류:1994년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1994년_라이브_음반 "wikilink") [분류:1994년 영상 음반](https://ko.wikipedia.org/wiki/분류:1994년_영상_음반 "wikilink")

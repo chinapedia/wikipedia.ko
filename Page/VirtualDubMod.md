@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VirtualDubMod](https://ko.wikipedia.org/wiki/VirtualDubMod).
 
 
-**VirtualDubMod**(버추얼덥모드)는 Avery Lee의 [VirtualDub](../Page/VirtualDub.md "wikilink")에 기반한 [마이크로소프트 윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [오픈 소스](../Page/오픈_소스.md "wikilink") 비디오 캡처, 처리 도구이다.
+**VirtualDubMod**(버추얼덥모드)는 Avery Lee의 [VirtualDub](../Page/VirtualDub.md "wikilink")에 기반한 [마이크로소프트 윈도우용](../Page/마이크로소프트_윈도우.md "wikilink") [오픈 소스](../Page/오픈_소스.md "wikilink") 비디오 캡처, 처리 도구이다.
 
 ## 특징
 

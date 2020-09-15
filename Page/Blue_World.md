@@ -6,7 +6,7 @@
 ## 설명
 
   - 멤버 [희철의](../Page/김희철_\(가수\).md "wikilink") 소집해제 이후 첫 복귀작이다.
-  - 동년 개최된 《[SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink") - [Treasure Island](../Page/Treasure_Island.md "wikilink")》 를 통해 한국어 버전을 최초 공개하였다.
+  - 동년 개최된 《[SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink") - [Treasure Island](../Page/Treasure_Island.md "wikilink")》 를 통해 작사가 이스란이 작사한 한국어 버전에 최초 공개되었다.
 
 ## 수록곡
 

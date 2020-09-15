@@ -631,7 +631,7 @@
 
 <!-- end list -->
 
-  - [조너선 데이비드](https://ko.wikipedia.org/wiki/조너선_데이비드 "wikilink")
+  - [조너선 데이비드](../Page/조너선_데이비드.md "wikilink")
 
 <!-- end list -->
 
@@ -781,11 +781,11 @@
 
   - [압디엘 아로요](https://ko.wikipedia.org/wiki/압디엘_아로요 "wikilink")
 
-  - [에드가르 요엘 바르세나스](https://ko.wikipedia.org/wiki/에드가르_요엘_바르세나스 "wikilink")
+  - [에드가르 바르세나스](https://ko.wikipedia.org/wiki/에드가르_바르세나스 "wikilink")
 
   - [아르만도 쿠퍼](https://ko.wikipedia.org/wiki/아르만도_쿠퍼 "wikilink")
 
-  - [에리크 다비스](https://ko.wikipedia.org/wiki/에리크_다비스 "wikilink")
+  - [에릭 다비스](https://ko.wikipedia.org/wiki/에릭_다비스 "wikilink")
 
   - [가브리엘 토레스](https://ko.wikipedia.org/wiki/가브리엘_토레스 "wikilink")
 

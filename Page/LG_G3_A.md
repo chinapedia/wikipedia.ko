@@ -3,7 +3,7 @@
 
 **LG G3 A**는 [LG전자](../Page/LG전자.md "wikilink")가 [SK텔레콤](../Page/SK텔레콤.md "wikilink")의 요청으로 [SK텔레콤](../Page/SK텔레콤.md "wikilink")을 통해 [2014년](../Page/2014년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") 출시한 [LG G3의](../Page/LG_G3.md "wikilink") 파생 모델이다.\[1\] 스펙은 [LG G2와](../Page/LG_G2.md "wikilink") 같지만 디자인은 [LG G3와](../Page/LG_G3.md "wikilink") 비슷하다. 디자인은 [G3와](../Page/LG_G3.md "wikilink") 거의 동일하지만 배터리 커버에 헤어라인이 아닌 3D 메탈릭 프린팅 기법을 사용하여 다른 느낌을 주었다.
 
-## 운영체제/소프트웨어
+## 운영체제 / 소프트웨어
 
 ### 안드로이드 4.4 킷캣
 

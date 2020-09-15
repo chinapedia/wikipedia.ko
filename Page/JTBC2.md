@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [JTBC2](https://ko.wikipedia.org/wiki/JTBC2).
 
 
-**JTBC2**는 [중앙그룹](../Page/중앙그룹.md "wikilink") 산하의 종합 엔터테인먼트 채널이다. [2016년](../Page/2016년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 오전 7시, 기존의 [QTV에서](../Page/QTV_\(텔레비전_채널\).md "wikilink") 명칭이 바뀌었다.
-
-슬로건은 **색다른 즐거움**이다.
+**JTBC2**는 [중앙그룹](../Page/중앙그룹.md "wikilink") 산하의 종합 엔터테인먼트 채널이다. [2016년](../Page/2016년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 오전 7시, 기존의 [QTV에서](../Page/QTV_\(텔레비전_채널\).md "wikilink") 명칭이 바뀌었다. 슬로건은 **색다른 즐거움**이다.
 
 ## 연혁
 
@@ -11,14 +9,14 @@
 
 ## 방영 프로그램
 
-현재 JTBC에서 방송되는 예능/오락 프로그램과 드라마를 재방송하고 있으며, 일부 자체 프로그램도 방영하고 있다.
+현재 JTBC에서 방송되는 예능/오락 프로그램과 드라마를 재방송하고 있으며, 일부 자체 프로그램도 방영하고 있으나, 2020년부터 방영하지 않는다.
 
   - [바람난 언니들](../Page/바람난_언니들.md "wikilink")
   - [오늘의 운세](../Page/오늘의_운세.md "wikilink")
   - [악플의 밤](../Page/악플의_밤.md "wikilink")
   - [판벌려](https://ko.wikipedia.org/wiki/판벌려 "wikilink")
   - [그랜드 부다개스트](../Page/그랜드_부다개스트.md "wikilink")
-  - [런웨이브](https://ko.wikipedia.org/wiki/런웨이브 "wikilink")
+  - [런웨이브](../Page/런웨이브.md "wikilink")
 
 ## 같이 보기
 

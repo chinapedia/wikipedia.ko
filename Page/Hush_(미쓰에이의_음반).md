@@ -5,4 +5,4 @@
 
 ## 수록곡
 
-[분류:2013년 음반](https://ko.wikipedia.org/wiki/분류:2013년_음반 "wikilink") [분류:미쓰에이의 음반‎](https://ko.wikipedia.org/wiki/분류:미쓰에이의_음반‎ "wikilink")
+[분류:2013년 음반](https://ko.wikipedia.org/wiki/분류:2013년_음반 "wikilink") [분류:미쓰에이의 음반](https://ko.wikipedia.org/wiki/분류:미쓰에이의_음반 "wikilink")

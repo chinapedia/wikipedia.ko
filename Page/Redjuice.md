@@ -65,7 +65,7 @@
 
 ## 외부 링크
 
-  - [redjuicegraphics](http://redjuicegraphics.com/) - 본인의 HP
+  - [redjuicegraphics](https://web.archive.org/web/20140213064323/http://www.redjuicegraphics.com/) - 본인의 HP
 
   -
 [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 삽화가](https://ko.wikipedia.org/wiki/분류:일본의_삽화가 "wikilink") [분류:일본의 디자이너](https://ko.wikipedia.org/wiki/분류:일본의_디자이너 "wikilink") [분류:고치현 출신](https://ko.wikipedia.org/wiki/분류:고치현_출신 "wikilink") [분류:Supercell](https://ko.wikipedia.org/wiki/분류:Supercell "wikilink")

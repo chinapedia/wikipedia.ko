@@ -27,7 +27,7 @@ ASM-3의 사거리를 400 km 이상으로 늘린다고 하는데, 프랑스 ASMP
   - 무게: 900 kg
   - 사거리: 80 해리, 150 km 이상
   - 속도: 순항시 마하 3
-  - 탑재할 수 있는 전투기: [미쓰비시 F-2](../Page/미쓰비시_F-2.md "wikilink"), [F-15J](https://ko.wikipedia.org/wiki/F-15J "wikilink")
+  - 탑재할 수 있는 전투기: [미쓰비시 F-2](../Page/미쓰비시_F-2.md "wikilink")
 
 ## 다른 초음속 순항미사일
 
@@ -39,7 +39,7 @@ ASM-3의 사거리를 400 km 이상으로 늘린다고 하는데, 프랑스 ASMP
 
   - \- [3M22 지르콘](https://ko.wikipedia.org/wiki/3M22_지르콘 "wikilink")
 
-## 더 보기
+## 같이 보기
 
   - [Kh-31](../Page/Kh-31.md "wikilink") - 러시아의 동급 미사일, 무게 0.6톤, 마하 4.5, 사거리 120 km
   - [YJ-91](https://ko.wikipedia.org/wiki/YJ-91 "wikilink") - [Kh-31](../Page/Kh-31.md "wikilink")의 중국산

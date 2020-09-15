@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [USS 렉싱턴 \(CV-16\)](https://ko.wikipedia.org/wiki/USS_렉싱턴_\(CV-16\)).
 
 
-[300px](https://ko.wikipedia.org/wiki/파일:USS_Lexington_CV16.jpg "wikilink")
-
-**렉싱턴**(Lexington, CV-16)은 미 해군의 항공모함으로 [에식스급 항공모함의](../Page/에식스급_항공모함.md "wikilink") 6번함이다. 미 해군에서 [렉싱턴](https://ko.wikipedia.org/wiki/렉싱턴 "wikilink")이란 이름을 계승한 함으로선 5번째이다. 블루 고스트라는 애칭으로 알려져있다.
+[300px](https://ko.wikipedia.org/wiki/파일:USS_Lexington_CV16.jpg "wikilink") **USS 렉싱턴 (CV-16)**()은 [미국 해군의](../Page/미국_해군.md "wikilink") [에식스급 항공모함](../Page/에식스급_항공모함.md "wikilink") 6번함이다. 미 해군에서 [USS 렉싱턴이란](https://ko.wikipedia.org/wiki/USS_렉싱턴 "wikilink") 이름을 계승한 함으로선 5번째이다. 블루 고스트라는 애칭으로 알려져있다.
 
 ## 함력
 
@@ -27,7 +25,7 @@
 
 렉싱턴은 제2차 세계대전의 전공으로 특수공훈 부대장 및 11개의 종군성장을 받았다.
 
-## 등장하는 미디어 작품
+## 대중매체
 
 렉싱턴은 몇 편의 영화에 출연하기도 한 "배우"로서도 알려져 있다. 특히 유명한 예는 다음과 같다.
 
@@ -62,4 +60,4 @@
   - [HNSA Web Page: USS Lexington](https://web.archive.org/web/20090217222202/http://hnsa.org/ships/lexington.htm)
   - [USS Lexington Photo Index](http://www.navsource.org/archives/02/16.htm)
 
-[분류:미국의 항공모함](https://ko.wikipedia.org/wiki/분류:미국의_항공모함 "wikilink") [분류:에식스급 항공모함](https://ko.wikipedia.org/wiki/분류:에식스급_항공모함 "wikilink") [분류:1942년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1942년_진수된_선박 "wikilink")
+[분류:1942년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1942년_진수된_선박 "wikilink") [분류:에식스급 항공모함](https://ko.wikipedia.org/wiki/분류:에식스급_항공모함 "wikilink") [분류:제2차 세계 대전의 미국 항공모함](https://ko.wikipedia.org/wiki/분류:제2차_세계_대전의_미국_항공모함 "wikilink")

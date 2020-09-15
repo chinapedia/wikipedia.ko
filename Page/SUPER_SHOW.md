@@ -46,7 +46,7 @@
 </tr>
 <tr class="odd">
 <td><p>2008년 11월 22일</p></td>
-<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상해</a></p></td>
 <td></td>
 <td><p>상해 대무대[3]</p></td>
 <td><p>11,588명</p></td>
@@ -67,7 +67,7 @@
 </tr>
 <tr class="even">
 <td><p>2009년 1월 17일</p></td>
-<td><p><a href="../Page/난징시.md" title="wikilink">난징</a></p></td>
+<td><p><a href="../Page/난징시.md" title="wikilink">남경</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/난징_올림픽_스포츠_센터" title="wikilink">난징 올림픽 스포츠 센터</a></p></td>
 <td><p>통산 25,287명</p></td>
@@ -81,7 +81,7 @@
 </tr>
 <tr class="even">
 <td><p>2009년 3월 7일</p></td>
-<td><p><a href="../Page/청두시.md" title="wikilink">청두</a></p></td>
+<td><p><a href="../Page/청두시.md" title="wikilink">성도</a></p></td>
 <td><p>용천 체육장[5]</p></td>
 <td><p>30,652명</p></td>
 <td></td>

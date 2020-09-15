@@ -36,7 +36,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>ALICE</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Alice_Margarita_Reyes_De_Leon" title="wikilink">Alice Margarita Reyes De Leon</a></strong></p></td>
+<td><p><strong>Alice Margarita Reyes De Leon</strong></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>캡틴<br />
@@ -45,7 +45,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>ANDI</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Sandee_Sugay_Garcia" title="wikilink">Sandee Sugay Garcia</a></p></td>
+<td><p>Sandee Sugay Garcia</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -53,15 +53,15 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>COLE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Ashley_Nicole_T_Somera" title="wikilink">Ashley Nicole T Somera</a></p></td>
+<td><p>Ashley Nicole T Somera</p></td>
 <td></td>
 <td><p>1.5기</p></td>
-<td><p>2018년 5월 16일 가입</p></td>
+<td></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>DANA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Dana_Leanne_Evangelista_Brual" title="wikilink">Dana Leanne Evangelista Brual</a></p></td>
+<td><p>Dana Leanne Evangelista Brual</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -69,7 +69,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>EMZ</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Erica_Maria_Bacus_Macabutas" title="wikilink">Erica Maria Bacus Macabutas</a></p></td>
+<td><p>Erica Maria Bacus Macabutas</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -77,7 +77,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>GIA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Guinevere_Pahilanga_Muse" title="wikilink">Guinevere Pahilanga Muse</a></p></td>
+<td><p>Guinevere Pahilanga Muse</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -85,7 +85,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>JAMIE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Maria_Jamie_Beatrice_Gallardo_Alberto" title="wikilink">Maria Jamie Beatrice Gallardo Alberto</a></p></td>
+<td><p>Maria Jamie Beatrice Gallardo Alberto</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td></td>
@@ -93,7 +93,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>JAN</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Cristine_Jan_Roque_Elaurza" title="wikilink">Cristine Jan Roque Elaurza</a></p></td>
+<td><p>Cristine Jan Roque Elaurza</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -101,7 +101,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>KLAIRE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Klaire_Hugh_Presno" title="wikilink">Klaire Hugh Presno</a></p></td>
+<td><p>Klaire Hugh Presno</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td></td>
@@ -109,7 +109,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>NICE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Eunys_Mantes_Abad" title="wikilink">Eunys Mantes Abad</a></p></td>
+<td><p>Eunys Mantes Abad</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -117,7 +117,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>LANEY</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Lorelaine_Delos_reyes_Sañosa" title="wikilink">Lorelaine Delos reyes Sañosa</a></p></td>
+<td><p>Lorelaine Delos reyes Sañosa</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -125,7 +125,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>PRINCESS</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Princess_Rius_Briquillo" title="wikilink">Princess Rius Briquillo</a></p></td>
+<td><p>Princess Rius Briquillo</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -133,7 +133,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>RANS</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Francinne_Roy_Rifol" title="wikilink">Francinne Roy Rifol</a></p></td>
+<td><p>Francinne Roy Rifol</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -141,7 +141,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>SAM</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Christina_Samantha_Cortan_Tagana" title="wikilink">Christina Samantha Cortan Tagana</a></p></td>
+<td><p>Christina Samantha Cortan Tagana</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td></td>
@@ -149,7 +149,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>SHAIRA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Shaira_Asebias_Duran" title="wikilink">Shaira Asebias Duran</a></p></td>
+<td><p>Shaira Asebias Duran</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -157,7 +157,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>SHEKI</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Shekinah_Igarta_Arzaga" title="wikilink">Shekinah Igarta Arzaga</a></p></td>
+<td><p>Shekinah Igarta Arzaga</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -165,7 +165,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>YZABEL</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Dana_Yzabel_Divinagracia" title="wikilink">Dana Yzabel Divinagracia</a></p></td>
+<td><p>Dana Yzabel Divinagracia</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td></td>
@@ -199,7 +199,7 @@ MNL48 캡틴</p></td>
 <tbody>
 <tr class="odd">
 <td><p>ABBY</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Abelaine_Saunar_Trinidad" title="wikilink">Abelaine Saunar Trinidad</a></p></td>
+<td><p>Abelaine Saunar Trinidad</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -207,7 +207,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>ALY</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jhona_Alyanah_Montefalcon_Padillo" title="wikilink">Jhona Alyanah Montefalcon Padillo</a></p></td>
+<td><p>Jhona Alyanah Montefalcon Padillo</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -215,7 +215,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>ALYSSA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Alyssa_Nicole_Magsino_Garcia" title="wikilink">Alyssa Nicole Magsino Garcia</a></p></td>
+<td><p>Alyssa Nicole Magsino Garcia</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -223,7 +223,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>BELLE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Aubrey_Ysabelle_Badong_Delos_Reyes" title="wikilink">Aubrey Ysabelle Badong Delos Reyes</a></p></td>
+<td><p>Aubrey Ysabelle Badong Delos Reyes</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -231,7 +231,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>BREI</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Aubrey_Salvatierra_Binuya" title="wikilink">Aubrey Salvatierra Binuya</a></p></td>
+<td><p>Aubrey Salvatierra Binuya</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -239,7 +239,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>COLEEN</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Coleen_Apura_Trinidad" title="wikilink">Coleen Apura Trinidad</a></p></td>
+<td><p>Coleen Apura Trinidad</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -247,7 +247,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>DARYLL</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Daryll_Caritativo_Matalino" title="wikilink">Daryll Caritativo Matalino</a></p></td>
+<td><p>Daryll Caritativo Matalino</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -255,7 +255,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>ECKA</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Ericka_Joyce_Madriaga_Sibug" title="wikilink">Ericka Joyce Madriaga Sibug</a></strong></p></td>
+<td><p><strong>Ericka Joyce Madriaga Sibug</strong></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>캡틴</p></td>
@@ -263,7 +263,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>ELLA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Ella_Mae_Rada_Amat" title="wikilink">Ella Mae Rada Amat</a></p></td>
+<td><p>Ella Mae Rada Amat</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -271,7 +271,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>JAYDEE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jennifer_Nandy_Garcia_Villaruel" title="wikilink">Jennifer Nandy Garcia Villaruel</a></p></td>
+<td><p>Jennifer Nandy Garcia Villaruel</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -279,7 +279,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>JEM</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jemimah_Sapuriada_Caldejon" title="wikilink">Jemimah Sapuriada Caldejon</a></p></td>
+<td><p>Jemimah Sapuriada Caldejon</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -287,7 +287,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>JOYCE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Valerie_Joyce_Daita" title="wikilink">Valerie Joyce Daita</a></p></td>
+<td><p>Valerie Joyce Daita</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -295,7 +295,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>KARLA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Ruth_Carla_Mariano_Dela_Paz" title="wikilink">Ruth Carla Mariano Dela Paz</a></p></td>
+<td><p>Ruth Carla Mariano Dela Paz</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -303,7 +303,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>LARA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Lara_Mae_Agan_Layar" title="wikilink">Lara Mae Agan Layar</a></p></td>
+<td><p>Lara Mae Agan Layar</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -311,7 +311,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>MIHO</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Miho_De_Jesus_Hoshino" title="wikilink">Miho De Jesus Hoshino</a></p></td>
+<td><p>Miho De Jesus Hoshino</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td></td>
@@ -319,7 +319,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>ROWEE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Loulle_Angelyn_Maagad_Villaflores" title="wikilink">Loulle Angelyn Maagad Villaflores</a></p></td>
+<td><p>Loulle Angelyn Maagad Villaflores</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -327,7 +327,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>RUTH</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Ruth_Alterado_Lingat" title="wikilink">Ruth Alterado Lingat</a></p></td>
+<td><p>Ruth Alterado Lingat</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -361,7 +361,7 @@ MNL48 캡틴</p></td>
 <tbody>
 <tr class="odd">
 <td><p>AMY</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Amanda_Manabat_Isidto" title="wikilink">Amanda Manabat Isidto</a></p></td>
+<td><p>Amanda Manabat Isidto</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td></td>
@@ -369,7 +369,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>DIAN</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Dian_Marie_Rele_Mercado" title="wikilink">Dian Marie Rele Mercado</a></p></td>
+<td><p>Dian Marie Rele Mercado</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -377,7 +377,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>FRANCES</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Francese_Therese_Andale_Pinlac" title="wikilink">Francese Therese Andale Pinlac</a></p></td>
+<td><p>Francese Therese Andale Pinlac</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td></td>
@@ -385,7 +385,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>GABB</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Gabrielle_Ruedas_Skribikin" title="wikilink">Gabrielle Ruedas Skribikin</a></p></td>
+<td><p>Gabrielle Ruedas Skribikin</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -393,7 +393,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>GRACE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Mary_Grace_Velasco_Buenaventura" title="wikilink">Mary Grace Velasco Buenaventura</a></p></td>
+<td><p>Mary Grace Velasco Buenaventura</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -401,7 +401,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>ICE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Nicelle_Joy_Coronel_Bozon" title="wikilink">Nicelle Joy Coronel Bozon</a></p></td>
+<td><p>Nicelle Joy Coronel Bozon</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td></td>
@@ -409,7 +409,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>KAY</strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/Kaede_Rivera_Ishiyama" title="wikilink">Kaede Rivera Ishiyama / 이시야마 카에데</a>(石山楓)</strong></p></td>
+<td><p><strong>Kaede Rivera Ishiyama|Kaede Rivera Ishiyama / 이시야마 카에데(石山楓)</strong></p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>캡틴<br />
@@ -418,7 +418,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>KYLA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Kyla_Angelica_Marie_Tarong_De_Catalina" title="wikilink">Kyla Angelica Marie Tarong De Catalina</a></p></td>
+<td><p>Kyla Angelica Marie Tarong De Catalina</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -426,7 +426,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>LEI</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Lorraine_Leigh_Lacumba" title="wikilink">Lorraine Leigh Lacumba</a></p></td>
+<td><p>Lorraine Leigh Lacumba</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -434,7 +434,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>MARI</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Mariz_Mapesos_Iyog" title="wikilink">Mariz Mapesos Iyog</a></p></td>
+<td><p>Mariz Mapesos Iyog</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -442,7 +442,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>SELA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Marsela_Mari_Dela_cruz_Guia" title="wikilink">Marsela Mari Dela cruz Guia</a></p></td>
+<td><p>Marsela Mari Dela cruz Guia</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -450,7 +450,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>SHAINA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Shaina_Asebias_Duran" title="wikilink">Shaina Asebias Duran</a></p></td>
+<td><p>Shaina Asebias Duran</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -458,7 +458,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>TIN</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Christine_Ann_Coralde_Coloso" title="wikilink">Christine Ann Coralde Coloso</a></p></td>
+<td><p>Christine Ann Coralde Coloso</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -466,7 +466,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>THEA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Althea_Degillo_Itona" title="wikilink">Althea Degillo Itona</a></p></td>
+<td><p>Althea Degillo Itona</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td></td>
@@ -474,7 +474,7 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="odd">
 <td><p>YSSA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Chelsey_Yssacky_Miranda_Bautista" title="wikilink">Chelsey Yssacky Miranda Bautista</a></p></td>
+<td><p>Chelsey Yssacky Miranda Bautista</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td></td>
@@ -508,7 +508,7 @@ MNL48 캡틴</p></td>
 <tbody>
 <tr class="odd">
 <td><p>NILE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Anne_Nicole_Cortado_Casitas" title="wikilink">Anne Nicole Cortado Casitas</a></p></td>
+<td><p>Anne Nicole Cortado Casitas</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td><p>2기생 후보자</p></td>
@@ -516,353 +516,13 @@ MNL48 캡틴</p></td>
 </tr>
 <tr class="even">
 <td><p>TRISH</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Trisha_Branggan_Labrador" title="wikilink">Trisha Branggan Labrador</a></p></td>
+<td><p>Trisha Branggan Labrador</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td><p>2기생 후보자</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 전 멤버
-
-#### 정규 멤버
-
-<table>
-<thead>
-<tr class="header">
-<th><p>예명</p></th>
-<th><p>이름</p></th>
-<th><p>생년월일</p></th>
-<th><p>기수</p></th>
-<th><p>최종 소속</p></th>
-<th><p>최종 재적일</p></th>
-<th><p>비고</p></th>
-<th><p>총선거<br />
-순위</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>ZEN</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Zennae_Aballe_Inot" title="wikilink">Zennae Aballe Inot</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>NIV</p></td>
-<td><p>2018년 6월 8일</p></td>
-<td></td>
-<td><p>5위</p></td>
-</tr>
-<tr class="even">
-<td><p>TRIXIE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Sharlene_Trixie_Caceres_Tano" title="wikilink">Sharlene Trixie Caceres Tano</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>MII</p></td>
-<td></td>
-<td><p>7위</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>VAN</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Vanessa_Laguisma_Yap" title="wikilink">Vanessa Laguisma Yap</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>MII</p></td>
-<td></td>
-<td><p>30위</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>MAE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Angelica_Mae_Barrientos_Batocael" title="wikilink">Angelica Mae Barrientos Batocael</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>MII</p></td>
-<td></td>
-<td><p>43위</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>NINA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Niña_Editha_Morales_Guirnalda" title="wikilink">Niña Editha Morales Guirnalda</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>MII</p></td>
-<td><p>2018년 7월 6일</p></td>
-<td></td>
-<td><p>21위(연)</p></td>
-</tr>
-<tr class="even">
-<td><p>CASSEY</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Cassandra_Mae_Bajolo_Pestillos" title="wikilink">Cassandra Mae Bajolo Pestillos</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>MII</p></td>
-<td><p>2019년 5월 1일</p></td>
-<td></td>
-<td><p>18위(연)</p></td>
-</tr>
-<tr class="odd">
-<td><p>ERICA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Princess_Erica_Uyanguren_Sanico" title="wikilink">Princess Erica Uyanguren Sanico</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>MII</p></td>
-<td></td>
-<td><p>18위</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>NECCA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Necca_Lagumbay_Adelan" title="wikilink">Necca Lagumbay Adelan</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>MII</p></td>
-<td></td>
-<td><p>42위</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>SHA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Sharei_Siao_Engbino" title="wikilink">Sharei Siao Engbino</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>MII</p></td>
-<td></td>
-<td><p>36위</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>HAZEL</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Hazel_Joy_Anub_Marzonia" title="wikilink">Hazel Joy Anub Marzonia</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>NIV</p></td>
-<td></td>
-<td><p>41위</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>MADIE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Madelaine_Oidem_Epilogo" title="wikilink">Madelaine Oidem Epilogo</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>NIV</p></td>
-<td></td>
-<td><p>47위</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>JEWEL</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Khyan_Jewel_Cacapit" title="wikilink">Khyan Jewel Cacapit</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>L</p></td>
-<td></td>
-<td><p>40위</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>QUINCY</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Quincy_Josiah_Binalla_Santillan" title="wikilink">Quincy Josiah Binalla Santillan</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>L</p></td>
-<td><p>2019년 5월 23일</p></td>
-<td></td>
-<td><p>16위</p></td>
-</tr>
-<tr class="even">
-<td><p>SAYAKA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Sayaka_Anonuevo_Awane" title="wikilink">Sayaka Anonuevo Awane / 아와네 사야카</a>(粟根さやか)</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>MII</p></td>
-<td><p>2019년 6월 9일</p></td>
-<td><p>일본인 멤버</p></td>
-<td><p>12위</p></td>
-</tr>
-<tr class="odd">
-<td><p>ASH</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Ashley_Cloud_Santos_Garcia" title="wikilink">Ashley Cloud Santos Garcia</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>L</p></td>
-<td><p>2019년 9월 15일</p></td>
-<td></td>
-<td><p>9위</p></td>
-</tr>
-<tr class="even">
-<td><p>CESS</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Princess_Rabago_Labay" title="wikilink">Princess Rabago Labay</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>MII</p></td>
-<td><p>2019년 11월 5일</p></td>
-<td></td>
-<td><p>48위</p></td>
-</tr>
-<tr class="odd">
-<td><p>DANI</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Daniella_Mae_Ramos_Palmero" title="wikilink">Daniella Mae Ramos Palmero</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>NIV</p></td>
-<td><p>2020년 1월 13일</p></td>
-<td></td>
-<td><p>21위(연)</p></td>
-</tr>
-<tr class="even">
-<td><p>FAITH</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Faith_Shanrae_Alvarez_Santiago" title="wikilink">Faith Shanrae Alvarez Santiago</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>MII</p></td>
-<td><p>2020년 1월 26일</p></td>
-<td></td>
-<td><p>13위</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-#### 연구생
-
-<table>
-<thead>
-<tr class="header">
-<th><p>예명</p></th>
-<th><p>이름</p></th>
-<th><p>생년월일</p></th>
-<th><p>기수</p></th>
-<th><p>최종 재적일</p></th>
-<th><p>비고</p></th>
-<th><p>총선거<br />
-순위<br />
-(연구생)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>KANA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Karina_Dannah_Delos_santos_Vital" title="wikilink">Karina Dannah Delos santos Vital</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2018년 5월 2일자</p></td>
-<td></td>
-<td><p>7위</p></td>
-</tr>
-<tr class="even">
-<td><p>AROL</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Carol_Semilla_Reyes" title="wikilink">Carol Semilla Reyes</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2018년 5월 16일 이전</p></td>
-<td></td>
-<td><p>2위</p></td>
-</tr>
-<tr class="odd">
-<td><p>IKEE</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Micaella_Joy_Salas_Yabut" title="wikilink">Micaella Joy Salas Yabut</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td></td>
-<td><p>16위</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>VERN</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Vemberneth_Daray_Villanueva" title="wikilink">Vemberneth Daray Villanueva</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2018년 7월 2일</p></td>
-<td></td>
-<td><p>15위</p></td>
-</tr>
-<tr class="odd">
-<td><p>NIAH</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Sheccaniah_Faith_Saludares_Baler" title="wikilink">Sheccaniah Faith Saludares Baler</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2018년 11월 7일</p></td>
-<td></td>
-<td><p>5위</p></td>
-</tr>
-<tr class="even">
-<td><p>EDA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Edralyn_Lozada_Tocop" title="wikilink">Edralyn Lozada Tocop</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2018년 12월 13일</p></td>
-<td></td>
-<td><p>22위</p></td>
-</tr>
-<tr class="odd">
-<td><p>VIRA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Edelvira_Jallorina_Bandong" title="wikilink">Edelvira Jallorina Bandong</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2019년 5월 1일</p></td>
-<td></td>
-<td><p>12위</p></td>
-</tr>
-<tr class="even">
-<td><p>YNA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Polaris_Yna_Casipong_Salazar" title="wikilink">Polaris Yna Casipong Salazar</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td></td>
-<td><p>24위</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>ESSEL</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jessel_Gregorio_Montaos" title="wikilink">Jessel Gregorio Montaos</a></p></td>
-<td></td>
-<td><p>1.5기</p></td>
-<td><p>2019년 10월 7일</p></td>
-<td><p>2019년 5월 23일 재가입</p></td>
-<td><p>31위</p></td>
-</tr>
-<tr class="even">
-<td><p>MELA</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Jamela_Magracia_Magbanlac" title="wikilink">Jamela Magracia Magbanlac</a></p></td>
-<td></td>
-<td><p>1기</p></td>
-<td></td>
-<td><p>14위</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>JEAN</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/Je-ann_Benette_Lazatin_Guinto" title="wikilink">Je-ann Benette Lazatin Guinto</a></p></td>
-<td></td>
-<td><p>2기</p></td>
-<td></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -985,9 +645,9 @@ MNL48 캡틴</p></td>
 
 ### 착신 싱글
 
-| 발매일           | 타이틀                                                                         | 비고 |
-| ------------- | --------------------------------------------------------------------------- | -- |
-| 2018년 12월 24일 | **[Amazing Grace](https://ko.wikipedia.org/wiki/Amazing_Grace "wikilink")** |    |
+| 발매일           | 타이틀               | 비고 |
+| ------------- | ----------------- | -- |
+| 2018년 12월 24일 | **Amazing Grace** |    |
 
 ### 참가 작품
 
@@ -1005,7 +665,7 @@ MNL48 캡틴</p></td>
   - [SKE48](../Page/SKE48.md "wikilink")
   - [NMB48](../Page/NMB48.md "wikilink")
   - [HKT48](../Page/HKT48.md "wikilink")
-  - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
+  - [NGT48](../Page/NGT48.md "wikilink")
   - [STU48](../Page/STU48.md "wikilink")
 
 <!-- end list -->

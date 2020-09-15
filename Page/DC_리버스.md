@@ -73,7 +73,7 @@ DC가 2016년 [원더콘](https://ko.wikipedia.org/wiki/원더콘 "wikilink")에
 <a href="../Page/스콧_스나이더.md" title="wikilink">스콧 스나이더</a><br />
 <strong>그림</strong><br />
 다양</p></td>
-<td style="text-align: center;"><p><a href="../Page/존_로미타_주니어.md" title="wikilink">존 로미타 주니어</a>, <a href="https://ko.wikipedia.org/wiki/숀_머피" title="wikilink">숀 머피</a>, <a href="https://ko.wikipedia.org/wiki/폴_포프" title="wikilink">폴 포프</a>, <a href="https://ko.wikipedia.org/wiki/툴라_로테이" title="wikilink">툴라 로테이</a>, <a href="https://ko.wikipedia.org/wiki/아푸아_리처드슨" title="wikilink">아푸아 리처드슨</a>, <a href="https://ko.wikipedia.org/wiki/프란체스코_프란카빌라" title="wikilink">프란체스코 프란카빌라</a> 등이 돌아가면서 작화를 그림. 월간 연재로 시작.</p></td>
+<td style="text-align: center;"><p><a href="../Page/존_로미타_주니어.md" title="wikilink">존 로미타 주니어</a>, <a href="https://ko.wikipedia.org/wiki/숀_머피_(만화가)" title="wikilink">숀 머피</a>, <a href="https://ko.wikipedia.org/wiki/폴_포프" title="wikilink">폴 포프</a>, <a href="https://ko.wikipedia.org/wiki/툴라_로테이" title="wikilink">툴라 로테이</a>, <a href="https://ko.wikipedia.org/wiki/아푸아_리처드슨" title="wikilink">아푸아 리처드슨</a>, <a href="https://ko.wikipedia.org/wiki/프란체스코_프란카빌라" title="wikilink">프란체스코 프란카빌라</a> 등이 돌아가면서 작화를 그림. 월간 연재로 시작.</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>《배트걸과 버즈 오브 프레이》</p></td>

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [OBS 뉴스라인 인천-경기](https://ko.wikipedia.org/wiki/OBS_뉴스라인_인천-경기).
 
 
-《**OBS 뉴스라인 인천-경기**》는 [OBS경인TV](../Page/OBS경인TV.md "wikilink")의 [뉴스](../Page/뉴스.md "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
+《**OBS 뉴스라인 인천-경기**》는 [OBS경인TV](../Page/OBS경인TV.md "wikilink")의 [마감뉴스](../Page/뉴스.md "wikilink") [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 방송 시간
 
 | 방송 채널                                                                                                                                                          | 방송 기간                                                                                                                     | 방송 시간                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [OBS경인TV](../Page/OBS경인TV.md "wikilink")                                                                                                                       | [2011년](../Page/2011년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ 2012년 [2월 3일](../Page/2월_3일.md "wikilink") | 평일 밤 11시 \~ 11시 10분 (10분) |
+| [OBS](../Page/OBS경인TV.md "wikilink")                                                                                                                           | [2011년](../Page/2011년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ 2012년 [2월 3일](../Page/2월_3일.md "wikilink") | 평일 밤 11시 \~ 11시 10분 (10분) |
 | [2012년](../Page/2012년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") \~ 2013년 [4월 12일](../Page/4월_12일.md "wikilink")                                      | 평일 밤 10시 55분 \~ 11시 5분 (10분)                                                                                              |                           |
 | [2013년](../Page/2013년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") \~ 2014년 [6월 27일](../Page/6월_27일.md "wikilink")                                    | 평일 밤 10시 45분 \~ 11시 5분 (20분)                                                                                              |                           |
 | [2016년](../Page/2016년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ 2018년 10월 26일                                                                   |                                                                                                                           |                           |
@@ -29,8 +29,8 @@
 ### 역대 앵커
 
   - 1기 : [김준호](https://ko.wikipedia.org/wiki/김준호_\(아나운서\) "wikilink") : 2013.10.28 \~ 2014.10.3
-  - 2기 : [유영선](https://ko.wikipedia.org/wiki/유영선 "wikilink"), [최지해](../Page/최지해.md "wikilink") : 2014.10.6 \~ 2015.9.11
-  - 3기 : [유영선](https://ko.wikipedia.org/wiki/유영선 "wikilink") : 2015.9.14 \~ 현재
+  - 2기 : [유영선](../Page/유영선.md "wikilink"), [최지해](../Page/최지해.md "wikilink") : 2014.10.6 \~ 2015.9.11
+  - 3기 : [유영선](../Page/유영선.md "wikilink") : 2015.9.14 \~ 현재
 
 ## 관련 항목
 

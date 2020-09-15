@@ -17,7 +17,7 @@
 
 ## 현재 앵커
 
-  - [2016년](../Page/2016년.md "wikilink") [10월 3일부터](../Page/10월_3일.md "wikilink") [2017년](../Page/2017년.md "wikilink") [9월 17일까지](../Page/9월_17일.md "wikilink") 평일에는 [하태원](https://ko.wikipedia.org/wiki/하태원 "wikilink") 국제부장과 [곽정아](https://ko.wikipedia.org/wiki/곽정아 "wikilink") 기자, 주말에는 [최재원](https://ko.wikipedia.org/wiki/최재원 "wikilink") 기자와 [김민지](https://ko.wikipedia.org/wiki/김민지 "wikilink") 기자가 진행하고 있다.
+  - [2016년](../Page/2016년.md "wikilink") [10월 3일부터](../Page/10월_3일.md "wikilink") [2017년](../Page/2017년.md "wikilink") [9월 17일까지](../Page/9월_17일.md "wikilink") 평일에는 [하태원](../Page/하태원.md "wikilink") 국제부장과 [곽정아](https://ko.wikipedia.org/wiki/곽정아 "wikilink") 기자, 주말에는 [최재원](https://ko.wikipedia.org/wiki/최재원 "wikilink") 기자와 [김민지](https://ko.wikipedia.org/wiki/김민지 "wikilink") 기자가 진행하고 있다.
 
 ## 그 외 채널A 뉴스 프로그램
 

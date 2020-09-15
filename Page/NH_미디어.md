@@ -5,7 +5,6 @@
 
 ## 소속 연예인
 
-  - [유미](../Page/유미.md "wikilink")
   - [유키스](../Page/유키스.md "wikilink")
       - [수현](../Page/수현_\(가수\).md "wikilink")
       - [훈](../Page/훈_\(가수\).md "wikilink")
@@ -40,6 +39,7 @@
   - [일라이](https://ko.wikipedia.org/wiki/일라이 "wikilink") ([유키스](../Page/유키스.md "wikilink") 전 멤버)
   - [임창정](../Page/임창정.md "wikilink")
   - [방은희](../Page/방은희.md "wikilink")
+  - [유미](../Page/유미.md "wikilink")
 
 ## 연도별 배출 아티스트
 

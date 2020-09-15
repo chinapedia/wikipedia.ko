@@ -56,7 +56,7 @@
   - 김봉성
   - [강현중](../Page/강현중.md "wikilink") : 보람흥신소 사장 역
   - [소희정](../Page/소희정.md "wikilink") : 김순옥 역 - 사채업자
-  - [장예원](https://ko.wikipedia.org/wiki/장예원 "wikilink")
+  - 장예원
   - [오창경](../Page/오창경.md "wikilink")
   - [서진욱](../Page/서진욱.md "wikilink")
   - 심우창
@@ -183,6 +183,7 @@
   - [정호빈](../Page/정호빈.md "wikilink") : 정의석 역 - 국회의원 (4화)
   - [오민석](../Page/오민석.md "wikilink") : 김선우 역 - 호스트바 마담 (4화)
   - [이재은](../Page/이재은_\(1980년\).md "wikilink") : 정의석의 아내 역 (4화)
+  - [강성민](../Page/강성민_\(배우\).md "wikilink") : 도성규 역 (6화)
 
 ### 특별출연
 
@@ -212,8 +213,8 @@
   - 프로듀서 : 안훈찬
   - 극본 : 남상욱, 한수련, 이재곤
   - 연출 : [이승영](https://ko.wikipedia.org/wiki/이승영_\(연출가\) "wikilink")
-  - 기획 : [OCN](https://ko.wikipedia.org/wiki/OCN "wikilink")
-  - 제작 : MBC C\&I
+  - 기획 : [OCN](../Page/OCN_\(텔레비전_채널\).md "wikilink")
+  - 제작 : [MBC C\&I](https://ko.wikipedia.org/wiki/MBC_C&I "wikilink")
 
 ## 방영 목록
 

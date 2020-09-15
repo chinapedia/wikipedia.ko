@@ -22,7 +22,7 @@ A<sub>∞</sub>-오퍼라드를 [벡터 공간의](../Page/벡터_공간.md "wik
 \[\sum_{r+s+t=n}(-1)^{r+st}m_{r+1+t}(a_1,\dots,a_r,m_s(b_1,\dots,b_s),c_1,\dots,c_t)=0\qquad\forall a_i,b_i,c_i\in A\] 처음 몇 개의 항등식은 다음과 같다. 여기서 \(m_1=\delta\), \(m_2=\cdot\)으로 쓰자.
 
   - (공경계의 멱영성) \(\delta^2=0\)
-  - ([곱의 법칙](../Page/곱의_법칙_\(미적분학\).md "wikilink")) \(\delta(ab)=(\delta a)b+a(\delta b)\)
+  - ([곱 규칙](https://ko.wikipedia.org/wiki/곱_규칙 "wikilink")) \(\delta(ab)=(\delta a)b+a(\delta b)\)
   - (호모토피 [결합 법칙](https://ko.wikipedia.org/wiki/결합_법칙 "wikilink")) \(a(bc)-(ab)c=\delta m_3(a,b,c)+m_3(\delta a,b,c)+m_3(a,\delta b,c)+m_3(a,b,\delta c)\)
   - \(m_3(ab,c,d)-m_3(a,bc,d)+m_3(a,b,cd)-m_3(a,b,c)d-am_3(b,c,d)=-\delta m_4(a,b,c,d)+m_4(\delta a,b,c,d)+m_4(a,\delta b,c,d)+m_4(a,b,\delta c,d)+m_4(a,b,c,\delta d)\)
   - \(\vdots\)

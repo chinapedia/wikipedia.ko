@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [MBC강원영동](https://ko.wikipedia.org/wiki/MBC강원영동).
 
 
-**주식회사 MBC강원영동**(株式會社 MBC江原嶺東)은 [강원도](../Page/강원도.md "wikilink") 영동지역을 가시청권역으로 하는 대한민국의 지상파 TV, 라디오 방송국이다. [2015년](../Page/2015년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") [강릉문화방송과](../Page/MBC강원영동_강릉방송국.md "wikilink") [삼척문화방송이](../Page/MBC강원영동_삼척방송국.md "wikilink") 통합되어 MBC 강원영동이라는 새로운 이름의 지상파방송국으로 출범했다. TV방송 2채널, AM라디오 2채널, FM라디오 8채널 등을 운영하고 있으며, 강릉방송국은 영동 북부, 삼척방송국은 영동 남부를 방송권역으로서 방송중이다. 그리고 [MBC경남](../Page/MBC경남.md "wikilink") ([창원](https://ko.wikipedia.org/wiki/창원MBC "wikilink"), [진주](https://ko.wikipedia.org/wiki/진주MBC "wikilink"))에 이어 MBC계열 지상파 방송사의 2번째 합병사례이다.
+**주식회사 MBC강원영동**(株式會社 MBC江原嶺東)은 [강원도](https://ko.wikipedia.org/wiki/강원도_\(남\) "wikilink") [영동 지방을](https://ko.wikipedia.org/wiki/영동_지방 "wikilink") 가시청권역으로 하는 대한민국의 지상파 TV와 라디오 방송국이다. [2015년](../Page/2015년.md "wikilink") [1월 1일부터](../Page/1월_1일.md "wikilink") [강릉문화방송과](../Page/MBC강원영동_강릉방송국.md "wikilink") [삼척문화방송이](../Page/MBC강원영동_삼척방송국.md "wikilink") 통합되어 MBC 강원영동이라는 새로운 이름의 지상파방송국으로 출범했다. TV방송 2채널, AM라디오 2채널, FM라디오 8채널 등을 운영하고 있으며, 강릉방송국은 영동 북부와 삼척방송국은 영동 남부를 방송권역으로서 방송중이다. 그리고 [MBC경남](../Page/MBC경남.md "wikilink")에 이어 MBC계열 지상파 방송사의 2번째 합병사례다.
 
 ## 본사·지사 소재지
 
-  - (강릉방송국)
+  - [강릉방송국](../Page/MBC강원영동_강릉방송국.md "wikilink")
 
 <!-- end list -->
 
@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - (삼척방송국)
+  - [삼척방송국](../Page/MBC강원영동_삼척방송국.md "wikilink")
 
 <!-- end list -->
 
@@ -41,9 +41,15 @@
 
 ## 라디오방송
 
-강릉방송국와 삼척방송국 두 개 국으로 나뉘어 방송하며, 각 방송국은 AM라디오 1채널과 FM라디오 4채널과 AM라디오 1채널과 FM라디오 6채널을 운영중이다. 자세한 사랑은 아래 문서를 참조.
+강릉방송국와 삼척방송국 두 개 국으로 나뉘어 방송하며, 각 방송국은 AM라디오 1채널, FM라디오 4채널, AM라디오 1채널, FM라디오 6채널 등을 운영중이다. 자세한 사랑은 아래 문서를 참조.
 
 ## 아나운서
+
+### 전직
+
+  - [이다슬](../Page/이다슬.md "wikilink") (삼척MBC 입사, 현 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 성우)
+
+### 현직
 
   - 김현수 아나운서 (1996년 강릉MBC 입사)
   - 민기원 아나운서 (2003년 삼척MBC 입사)
@@ -51,8 +57,8 @@
 
 ## 같이 보기
 
-  - [MBC강원영동 강릉](../Page/MBC강원영동_강릉방송국.md "wikilink") - 본사 및 시사,보도 제작본부
-  - [MBC강원영동 삼척](../Page/MBC강원영동_삼척방송국.md "wikilink") - 경영 및 예능,교양프로 제작본부
+  - [MBC강원영동 강릉방송국](../Page/MBC강원영동_강릉방송국.md "wikilink") - 본사 및 시사,보도 제작본부
+  - [MBC강원영동 삼척방송국](../Page/MBC강원영동_삼척방송국.md "wikilink") - 경영 및 예능,교양프로 제작본부
 
 ## 참고
 

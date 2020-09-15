@@ -26,6 +26,7 @@
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="https://ko.wikipedia.org/wiki/목포시" title="wikilink">목포시</a></li>
 <li>유닛그룹 : 슈퍼주니어-D&amp;E, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
+<li>포지션 : 리더, 메인보컬, 메인댄서, 리드래퍼</li>
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -37,6 +38,7 @@
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
 <li>유닛그룹 : 슈퍼주니어-D&amp;E, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="../Page/슈퍼주니어-Happy.md" title="wikilink">슈퍼주니어-Happy</a></li>
+<li>포지션 : 메인래퍼, 메인댄서, 리드보컬</li>
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -54,6 +56,7 @@
   - 《The Beat Goes On》 스페셜 에디션 (2015년 3월 23일)
   - 미니앨범 2집 《Bout you》 (2018년 8월 16일)
   - 미니앨범 3집 《DANGER》 (2019년 4월 14일)
+  - 미니앨범 4집 《BAD BLOOD》 (2020년 9월 3일)
 
 ### 일본
 

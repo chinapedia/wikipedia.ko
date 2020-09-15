@@ -51,6 +51,13 @@
 <td><p>13,694</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로만_레인즈" title="wikilink">로만 레인즈</a> vs. <a href="../Page/브라운_스트로우먼.md" title="wikilink">브라운 스트로우먼</a> (싱글 매치)</p></td>
 </tr>
+<tr class="even">
+<td><p>2020년 8월 30일</p></td>
+<td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
+<td><p><a href="../Page/암웨이_센터.md" title="wikilink">암웨이 센터</a></p></td>
+<td><p><a href="../Page/무관중_경기.md" title="wikilink">무관중 경기</a></p></td>
+<td><p><a href="../Page/윈덤_로턴다.md" title="wikilink">브레이 와이어트</a> vs. <a href="https://ko.wikipedia.org/wiki/로만_레인즈" title="wikilink">로만 레인즈</a> vs. <a href="../Page/브라운_스트로우먼.md" title="wikilink">브라운 스트로우먼</a> (WWE 유니버셜 챔피언십, 트리플 쓰레트 매치)</p></td>
+</tr>
 </tbody>
 </table>
 

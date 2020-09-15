@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Eurex](https://ko.wikipedia.org/wiki/Eurex).
 
 
-유럽 파생상품거래소인 **Eurex**는 세계에서 가장 큰 파생상품거래소 중 하나이다. Eurex는 1900여 개의 전통투자 자산군 및 대안투자 자산군 상품을 제공하고 있다. 혁신적인 IT구조를 바탕으로 한 Eurex시장은 가장 많이 거래되는 유로화 표시 주가지수들과 고정자산 파생상품의 거래를 제공한다.
+**유럽 파생상품거래소**()는 세계에서 가장 큰 파생상품거래소 중 하나이다. Eurex는 1900여 개의 전통투자 자산군 및 대안투자 자산군 상품을 제공하고 있다. 혁신적인 IT구조를 바탕으로 한 Eurex 시장은 가장 많이 거래되는 유로화 표시 주가지수들과 고정자산 파생상품의 거래를 제공한다.
 
 이러한 주력상품 이외에도, 단일 주가 상품, 상장지수펀드(ETF)상품, 배당을 기초자산으로 하는 파생상품을 포함하고 있으며 변동성지수 상품, 기후, 부동산 등의 파생상품과 더불어 다양한 종류의 원자재 선물과 옵션 등을 광범위하게 제공하고 있다. Eurex의 회원사는 장외거래시 발생할 수 있는 손실 위험 없이 Eurex장외거래입력(EUREX OTC Trade Entry)서비스를 통해 대량협의거래가 가능하다. 이 모든 상품은 하나로 통합된 플랫폼에서 거래 가능하며, 전 세계 30여 개국의 400여 개의 회원사, 8000여 명의 트레이더들이 이용하고 있다.
 
@@ -131,7 +131,7 @@ Eurex의 주가지수 포트폴리오는 Dow Jones Global Titans 50 Index SM, EU
   - [Eurex Bonds 공식 홈페이지](https://web.archive.org/web/20120818092610/http://www.eurex-bonds.com/)
   - [Eurex Repo 공식 홈페이지](http://www.eurexrepo.com)
   - [Deutsche Boerse Group 공식 홈페이지](http://www.deutsche-boerse.com/dbag/dispatch/en/kir/gdb_navigation/home?Website)
-  - [SIX Swiss Exchange 공식 홈페이지](http://www.swx.com)
+  - [SIX Swiss Exchange 공식 홈페이지](https://web.archive.org/web/20080830040715/http://www.swx.com/)
   - [Eurex 한국어 홈페이지](http://www.eurexchange.asia/asia-04/)
 
 [분류:선물거래소](https://ko.wikipedia.org/wiki/분류:선물거래소 "wikilink")

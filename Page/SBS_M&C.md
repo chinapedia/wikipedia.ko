@@ -24,23 +24,22 @@
       - [SBS Sports](https://ko.wikipedia.org/wiki/SBS_Sports "wikilink")
       - [SBS Golf](https://ko.wikipedia.org/wiki/SBS_Golf "wikilink")
       - [SBS CNBC](../Page/SBS_CNBC.md "wikilink")
-      - [SBS F\!L](https://ko.wikipedia.org/wiki/SBS_F!L "wikilink")
+      - [SBS F\!L](../Page/SBS_F!L.md "wikilink")
       - [SBS MTV](../Page/SBS_MTV.md "wikilink")
-      - [SBS AfreecaTV](https://ko.wikipedia.org/wiki/SBS_AfreecaTV "wikilink")
-      - SBS F\!L UHD
       - [니켈로디언 코리아](https://ko.wikipedia.org/wiki/니켈로디언_코리아 "wikilink")
+      - SBS F\!L UHD
       - SBS의 모기업
           - [태영건설](../Page/태영건설.md "wikilink")
       - 지역민방
-          - [KNN 부산경남방송](../Page/KNN.md "wikilink")(모기업:넥센)
-          - [대구경북 TBC](https://ko.wikipedia.org/wiki/TBC_\(대구방송\) "wikilink")(모기업:귀뚜라미그룹)
-          - [kbc광주방송](../Page/광주방송.md "wikilink")(모기업:호반건설)
-          - [TJB 대전방송](../Page/대전방송.md "wikilink")(모기업:우성사료)
-          - [JTV 전주방송](../Page/전주방송.md "wikilink")(모기업:일진그룹)
-          - [ubc 울산방송](../Page/울산방송.md "wikilink")(모기업:SM그룹)
-          - [CJB 청주방송](../Page/청주방송.md "wikilink")(모기업:두진건설)
-          - [G1 강원민방](../Page/G1.md "wikilink")(모기업:(주)대양)
-          - [JIBS 제주방송](../Page/제주국제자유도시방송.md "wikilink")(모기업:한주홀딩스코리아)
+          - [KNN](../Page/KNN.md "wikilink")(모기업:넥센)
+          - [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink")(모기업:귀뚜라미그룹)
+          - [kbc](../Page/광주방송.md "wikilink")(모기업:호반건설)
+          - [TJB](../Page/대전방송.md "wikilink")(모기업:우성사료)
+          - [JTV](../Page/전주방송.md "wikilink")(모기업:일진그룹)
+          - [ubc](../Page/울산방송.md "wikilink")(모기업:SM그룹)
+          - [CJB](../Page/청주방송.md "wikilink")(모기업:두진건설)
+          - [G1](../Page/G1.md "wikilink")(모기업:(주)대양)
+          - [JIBS](../Page/제주방송.md "wikilink")(모기업:한주홀딩스코리아)
       - 지역민방의 모기업
           - [넥센](https://ko.wikipedia.org/wiki/넥센 "wikilink")(KNN 부산경남방송의 모기업)
           - [귀뚜라미그룹](https://ko.wikipedia.org/wiki/귀뚜라미그룹 "wikilink")(대구경북 TBC의 모기업)
@@ -55,7 +54,6 @@
           - [OBS](../Page/OBS경인TV.md "wikilink")
       - 독립민방의 모기업
           - [영안모자](../Page/영안모자.md "wikilink")(OBS 경인TV의 모기업)
-  - 위의 사업에 부대되는 사업
 
 ## 역대 사장
 

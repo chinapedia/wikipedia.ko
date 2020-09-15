@@ -13,7 +13,7 @@
 
 [분류:2016년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2016년_비디오_게임 "wikilink") [분류:인디 게임](https://ko.wikipedia.org/wiki/분류:인디_게임 "wikilink") [분류:어드벤처 게임](https://ko.wikipedia.org/wiki/분류:어드벤처_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:리눅스 게임](https://ko.wikipedia.org/wiki/분류:리눅스_게임 "wikilink") [분류:MacOS 게임](https://ko.wikipedia.org/wiki/분류:MacOS_게임 "wikilink") [분류:닌텐도 스위치 게임](https://ko.wikipedia.org/wiki/분류:닌텐도_스위치_게임 "wikilink") [분류:플레이스테이션 4 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_4_게임 "wikilink") [분류:엑스박스 원 게임](https://ko.wikipedia.org/wiki/분류:엑스박스_원_게임 "wikilink")
 
-1.  <http://weappy-studio.com/about/>
+1.
 2.
 3.
 4.

@@ -11,4 +11,4 @@
 
   - [공식 홈페이지](http://www.sdeibar.com/)
 
-[SD_에이바르](https://ko.wikipedia.org/wiki/분류:SD_에이바르 "wikilink") [분류:1940년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1940년_설립된_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:바스크 지방의 축구단](https://ko.wikipedia.org/wiki/분류:바스크_지방의_축구단 "wikilink")
+[SD_에이바르](https://ko.wikipedia.org/wiki/분류:SD_에이바르 "wikilink") [분류:1940년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1940년_설립된_축구단 "wikilink") [분류:라리가 구단](https://ko.wikipedia.org/wiki/분류:라리가_구단 "wikilink") [분류:바스크주의 축구단](https://ko.wikipedia.org/wiki/분류:바스크주의_축구단 "wikilink")

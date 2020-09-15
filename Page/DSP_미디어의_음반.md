@@ -254,7 +254,7 @@
   - 2019년 7월 6일 김채원 - **동네앨범 OST**\[29\]
   - 2019년 8월 4일 윤채경 - **\[Digital Single\] 우리 꼭 사귀는 것 같잖아요**\[30\]
   - 2019년 8월 18일 핑클 - **[FIN.K.L Best Album](https://ko.wikipedia.org/wiki/FIN.K.L_Best_Album "wikilink")**
-  - 2019년 9월 22일 카드 - **\[Digital Single\] [Dumb Litty](https://ko.wikipedia.org/wiki/Dumb_Litty "wikilink")**
+  - 2019년 9월 22일 카드 - **\[Digital Single\] [Dumb Litty](../Page/Dumb_Litty.md "wikilink")**
   - 2019년 10월 2일 에이프릴 - **어쩌다 발견한 하루 OST Part.1**
   - 2019년 11월 14일 레인보우 - **\[Digital Single\] Over the Rainbow**
 
@@ -265,6 +265,9 @@
   - 2020년 3월 1일 이나은, 이진솔 - **\[Digital Single\] [나은&진솔 X 김형석 사계](https://ko.wikipedia.org/wiki/시간차 "wikilink")**
   - 2020년 4월 2일 이진솔 - **어서와 OST Part.5**
   - 2020년 4월 22일 에이프릴 - **[Da Capo](https://ko.wikipedia.org/wiki/Da_Capo_\(에이프릴의_EP\) "wikilink")**
+  - 2020년 6월 26일 에이프릴 - **편의점 샛별이 OST Part.2**
+  - 2020년 7월 29일 에이프릴 - **\[Digital Single\] [Hello Summer](../Page/Hello_Summer.md "wikilink")**
+  - 2020년 8월 26일 카드 - **\[Digital Single\] [Way With Words](https://ko.wikipedia.org/wiki/Way_With_Words "wikilink")**
 
 ## 각주
 
@@ -297,7 +300,7 @@
 25. [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"), [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink") 외 55명도 앨범 참여.
 26. [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"), [굿데이](../Page/굿데이_\(음악_그룹\).md "wikilink") 외 51명도 앨범 참여.
 27. [자이언트 핑크](https://ko.wikipedia.org/wiki/자이언트_핑크 "wikilink"),[트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"),[위너와](../Page/위너_\(음악_그룹\).md "wikilink") [사우스클럽](../Page/사우스클럽.md "wikilink")의 멤버 [남태현](../Page/남태현.md "wikilink")도 앨범 참여.
-28. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink") 외 95명도 앨범 참여.
-29. [매드타운](../Page/매드타운.md "wikilink")의 멤버 [대원도](../Page/대원_\(가수\).md "wikilink") 앨범 참여.
+28. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/WOODZ "wikilink") 외 95명도 앨범 참여.
+29. [매드타운](../Page/매드타운.md "wikilink")의 전 멤버 [대원도](../Page/대원_\(가수\).md "wikilink") 앨범 참여.
 30. [보이스퍼](../Page/보이스퍼.md "wikilink")도 앨범 참여.
 31. 차우도 앨범 참여.

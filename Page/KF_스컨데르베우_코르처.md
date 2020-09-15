@@ -12,6 +12,6 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.kfskenderbeu.com/)
+  - [공식 홈페이지](https://web.archive.org/web/20130802084607/http://www.kfskenderbeu.com/)
 
 [KF_스컨데르베우_코르처](https://ko.wikipedia.org/wiki/분류:KF_스컨데르베우_코르처 "wikilink") [분류:1909년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1909년_설립된_축구단 "wikilink") [분류:알바니아의 축구단](https://ko.wikipedia.org/wiki/분류:알바니아의_축구단 "wikilink")

@@ -22,7 +22,7 @@
   - [워너원](../Page/워너원.md "wikilink")
   - [제시](../Page/제시_\(가수\).md "wikilink")
   - [에일리](../Page/에일리.md "wikilink")
-  - [케이시](https://ko.wikipedia.org/wiki/케이시_\(가수\) "wikilink")
+  - [케이시](../Page/케이시_\(가수\).md "wikilink")
 
 ## 디스코그래피
 

@@ -5,7 +5,7 @@
 
 ## 특징
 
-[250px](https://ko.wikipedia.org/wiki/파일:4A-GE.jpg "wikilink") 제 [4A-GE형 엔진(5밸브 헤드 사양)](https://ko.wikipedia.org/wiki/도요타_4A-GE "wikilink"))\]\] [250px](https://ko.wikipedia.org/wiki/파일:K20_head.jpg "wikilink") 제 [K20A형](https://ko.wikipedia.org/wiki/혼다_K형_엔진 "wikilink")[4기통](https://ko.wikipedia.org/wiki/직렬_4기통 "wikilink") DOHC 16밸브 엔진의 실린더 헤드\]\] [250px](https://ko.wikipedia.org/wiki/파일:DOHC-Zylinderkopf-Schnitt.jpg "wikilink") [섬네일에](https://ko.wikipedia.org/wiki/파일:4-Stroke-Engine.gif‎ "wikilink") 의해 개폐된다.\]\]
+[250px](https://ko.wikipedia.org/wiki/파일:4A-GE.jpg "wikilink") 제 [4A-GE형 엔진(5밸브 헤드 사양)](https://ko.wikipedia.org/wiki/도요타_4A-GE "wikilink"))\]\] [250px](https://ko.wikipedia.org/wiki/파일:K20_head.jpg "wikilink") 제 [K20A형](https://ko.wikipedia.org/wiki/혼다_K형_엔진 "wikilink")[4기통](https://ko.wikipedia.org/wiki/직렬_4기통 "wikilink") DOHC 16밸브 엔진의 실린더 헤드\]\] [250px](https://ko.wikipedia.org/wiki/파일:DOHC-Zylinderkopf-Schnitt.jpg "wikilink") [섬네일에](https://ko.wikipedia.org/wiki/파일:4-Stroke-Engine.gif "wikilink") 의해 개폐된다.\]\]
 
 [실린더 헤드의](https://ko.wikipedia.org/wiki/실린더_헤드 "wikilink") [밸브의](https://ko.wikipedia.org/wiki/포핏_밸브 "wikilink") 구동에 있어 흡기측과 배기측에 다른 [샤프트](https://ko.wikipedia.org/wiki/샤프트 "wikilink")를 사용한 것을 의미한다. [SOHC](../Page/SOHC.md "wikilink")에 비해 샤프트 당 부하가 적어진다. [로커 암을](https://ko.wikipedia.org/wiki/로커_암 "wikilink") 없애고 캠을 사용한 밸브 직동이 가능하기 때문에 고회전화·고출력화가 쉽다.\[1\]
 

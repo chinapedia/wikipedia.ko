@@ -11,6 +11,6 @@
 
 ## 외부 링크
 
-  - [공식 사이트](http://www.bicworld.com/en/homepage/homepage/)
+  - [공식 사이트](https://web.archive.org/web/20160118231240/http://www.bicworld.com/en/homepage/homepage/)
 
-[분류:1945년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1945년_설립된_기업 "wikilink") [분류:프랑스의 브랜드](https://ko.wikipedia.org/wiki/분류:프랑스의_브랜드 "wikilink") [분류:다국적 기업](https://ko.wikipedia.org/wiki/분류:다국적_기업 "wikilink") [분류:문방구](https://ko.wikipedia.org/wiki/분류:문방구 "wikilink") [분류:프랑스의 제조 기업](https://ko.wikipedia.org/wiki/분류:프랑스의_제조_기업 "wikilink")
+[분류:1945년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1945년_설립된_기업 "wikilink") [분류:프랑스의 브랜드](https://ko.wikipedia.org/wiki/분류:프랑스의_브랜드 "wikilink") [분류:다국적 기업](https://ko.wikipedia.org/wiki/분류:다국적_기업 "wikilink") [분류:프랑스의 제조 기업](https://ko.wikipedia.org/wiki/분류:프랑스의_제조_기업 "wikilink") [분류:필기 도구 제조사](https://ko.wikipedia.org/wiki/분류:필기_도구_제조사 "wikilink")

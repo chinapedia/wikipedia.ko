@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IGZO](https://ko.wikipedia.org/wiki/IGZO).
 
 
-**IGZO**（이그조）라는 단어의 의미는 [인듐](../Page/인듐.md "wikilink")・[갈륨](https://ko.wikipedia.org/wiki/갈륨 "wikilink")・[아연](../Page/아연.md "wikilink")・[산소](../Page/산소.md "wikilink")로 구성된 [어모퍼스 반도체를](https://ko.wikipedia.org/wiki/어모퍼스_반도체 "wikilink") 뜻한다. 다른 말로는 이것을 이용한 [액정 디스플레이를](../Page/액정_디스플레이.md "wikilink") 뜻한다.
+**IGZO**（이그조) 또는 **Indium Gallium Zinc Oxide**는 [인듐](../Page/인듐.md "wikilink")・[갈륨](https://ko.wikipedia.org/wiki/갈륨 "wikilink")・[아연](../Page/아연.md "wikilink")・[산소](../Page/산소.md "wikilink")로 구성된 [어모퍼스 반도체를](https://ko.wikipedia.org/wiki/어모퍼스_반도체 "wikilink") 뜻한다. 다른 말로는 이것을 이용한 [액정 디스플레이를](../Page/액정_디스플레이.md "wikilink") 뜻한다.
 
 ## 개발
 

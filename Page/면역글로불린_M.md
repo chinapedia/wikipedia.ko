@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [면역글로불린 M](https://ko.wikipedia.org/wiki/면역글로불린_M).
 
 
-[thumb|면역글로불린 M 항체 분자는 다섯 개 소단위로 이루어진다.
+[섬네일|면역글로불린 M 항체 분자는 다섯 개 소단위로 이루어진다.
 1: 면역글로불린 M 분자 한 개를 표시한 영역
 2: 중쇄
 3: 경쇄
@@ -10,7 +10,7 @@
 
 ## 구조와 기능
 
-[thumb](https://ko.wikipedia.org/wiki/파일:IgM_scheme.svg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:IgM_scheme.svg "wikilink")
 
 IgM은 여러 개가 모여 [이황결합](https://ko.wikipedia.org/wiki/이황결합 "wikilink")을 통하여 [공유적으로](https://ko.wikipedia.org/wiki/공유결합 "wikilink") 연결된다. 대개는 오합체이나, 육합체도 존재한다. 오량체일 때 IgM의 [분자량](https://ko.wikipedia.org/wiki/분자량 "wikilink")은 약 970 kDa이다.\[5\] 각 [단량체](https://ko.wikipedia.org/wiki/단량체 "wikilink")가 항원결합자리 두 개를 가지고 있기 때문에, 오합체 IgM은 10개의 결합자리를 갖는다. 그러나 항원의 크기 때문에 결합자리가 가려서 일반적으로 10개의 결합자리 모두가 [항원](../Page/항원.md "wikilink")과 결합할 수는 없다.
 
@@ -47,7 +47,7 @@ IgM은 [2-머캅토에탄올](../Page/2-머캅토에탄올.md "wikilink")에 의
   -
   - Medscape.com의 [면역글로불린 M 결핍증](http://emedicine.medscape.com/article/137693-overview)
 
-[분류:당단백질](https://ko.wikipedia.org/wiki/분류:당단백질 "wikilink") [분류:면역계통](https://ko.wikipedia.org/wiki/분류:면역계통 "wikilink")
+[분류:당단백질](https://ko.wikipedia.org/wiki/분류:당단백질 "wikilink") [분류:항체](https://ko.wikipedia.org/wiki/분류:항체 "wikilink")
 
 1.
 2.

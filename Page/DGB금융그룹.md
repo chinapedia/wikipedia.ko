@@ -22,6 +22,6 @@
 
 ## 외부 링크
 
-  - [DGB금융그룹 홈페이지](http://www.dgbfg.co.kr)
+  - [DGB금융그룹 홈페이지](https://web.archive.org/web/20160211035317/http://www.dgbfg.co.kr/)
 
 [분류:2011년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2011년_설립된_기업 "wikilink") [분류:대한민국의 브랜드](https://ko.wikipedia.org/wiki/분류:대한민국의_브랜드 "wikilink") [분류:비씨카드](https://ko.wikipedia.org/wiki/분류:비씨카드 "wikilink")

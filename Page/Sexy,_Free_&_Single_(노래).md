@@ -19,7 +19,7 @@
 1.  Sexy, Free & Single MV
 2.  Sexy, Free & Single (Korean Ver.) MV
 3.  Making Clip
-4.  Way ([SUPER SHOW 4](../Page/SUPER_SHOW_4.md "wikilink") 도쿄돔 공연 실황)
+4.  Way ([SUPER SHOW 4](../Page/SUPER_SHOW_4.md "wikilink") [도쿄 돔](../Page/도쿄_돔.md "wikilink") 공연 실황)
 
 ## 차트 기록
 

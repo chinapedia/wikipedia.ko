@@ -49,7 +49,7 @@
   - 12 [코너 길라스피](https://ko.wikipedia.org/wiki/코너_길라스피 "wikilink") ([Conor Gillaspie](https://ko.wikipedia.org/wiki/w:en:Conor_Gillaspie "wikilink"))
   - \-- [애덤 라로쉬](https://ko.wikipedia.org/wiki/애덤_라로쉬 "wikilink") ([Adam LaRoche](https://ko.wikipedia.org/wiki/w:en:Adam_LaRoche "wikilink"))
   - 10 [알렉세이 라미레스](https://ko.wikipedia.org/wiki/알렉세이_라미레스 "wikilink") ([Alexei Ramirez](https://ko.wikipedia.org/wiki/w:en:Alexei_Ramirez "wikilink"))
-  - \-- [타일러 살라디노](https://ko.wikipedia.org/wiki/타일러_살라디노 "wikilink") ([tyler saladino](https://ko.wikipedia.org/wiki/w:en:tyler_saladino "wikilink"))
+  - \-- [타일러 살라디노](../Page/타일러_살라디노.md "wikilink") ([tyler saladino](https://ko.wikipedia.org/wiki/w:en:tyler_saladino "wikilink"))
   - 77 [카를로스 산체스](https://ko.wikipedia.org/wiki/카를로스_산체스_\(야구_선수\) "wikilink") ([Carlos Sánchez](https://ko.wikipedia.org/wiki/w:en:Carlos_Sánchez_\(baseball\) "wikilink"))
   - 38 [앤디 윌킨스](https://ko.wikipedia.org/wiki/앤디_윌킨스 "wikilink") ([Andy Wilkins](https://ko.wikipedia.org/wiki/w:en:Andy_Wilkins "wikilink"))
 

@@ -32,7 +32,7 @@ Propan-2-yl 1-thio-β-D-galactopyranoside
 
 ## 외부 링크
 
-  - [아크로스 사이트의 IPTG 설명](http://iptgsale.blogspot.in)
+  - [아크로스 사이트의 IPTG 설명](https://web.archive.org/web/20180418130110/http://iptgsale.blogspot.in/)
   - [PDB의 단백질 결합 IPTG](http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=IPT)
 
 [분류:분자생물학](https://ko.wikipedia.org/wiki/분류:분자생물학 "wikilink") [분류:유기 황 화합물](https://ko.wikipedia.org/wiki/분류:유기_황_화합물 "wikilink") [분류:탄수화물](https://ko.wikipedia.org/wiki/분류:탄수화물 "wikilink") [분류:아이소프로필 화합물](https://ko.wikipedia.org/wiki/분류:아이소프로필_화합물 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SOHC](https://ko.wikipedia.org/wiki/SOHC).
 
 
-**SOHC**()란 [왕복 기관의](../Page/왕복_기관.md "wikilink") 한 형태로, 1개의 캠 샤프트가 실린더 헤드에 놓인 엔진을 의미한다. [DOHC](../Page/DOHC.md "wikilink")가 널리 보급되기 전에는 OHC라고도 불렸지만, 보다 명확한 구별을 위해 SOHC라 불리게 되었다. 또, [직렬식 실린더의](https://ko.wikipedia.org/wiki/직렬_엔진 "wikilink") SOHC 엔진에 한하여 '싱글 OHC'나 '1캠 OHC'라고 불리는 경우도 있다.
+**SOHC**()란 [왕복 기관의](../Page/왕복_기관.md "wikilink") 한 형태로, 1개의 캠 샤프트가 실린더 헤드에 놓인 엔진을 의미한다. [DOHC](../Page/DOHC.md "wikilink")가 널리 보편적으로 보급되기 이전에는 OHC라고도 불렸지만, 보다 명확한 구별을 위해 SOHC라 불리게 되었다. 또, [직렬식 실린더의](https://ko.wikipedia.org/wiki/직렬_엔진 "wikilink") SOHC 엔진에 한하여 '싱글 OHC'나 '1캠 OHC'라고 불리는 경우도 있다.
 
 ## 구조
 

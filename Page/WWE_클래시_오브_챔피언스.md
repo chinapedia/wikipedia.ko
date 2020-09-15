@@ -389,6 +389,13 @@
 <td></td>
 <td><p><a href="../Page/타일러_블랙.md" title="wikilink">세스 롤린스</a> vs. <a href="../Page/브라운_스트로우먼.md" title="wikilink">브라운 스트로우먼</a> (WWE 유니버셜 챔피언십)</p></td>
 </tr>
+<tr class="even">
+<td><p>2020년 9월 27일</p></td>
+<td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
+<td><p><a href="../Page/암웨이_센터.md" title="wikilink">암웨이 센터</a></p></td>
+<td><p><a href="../Page/무관중_경기.md" title="wikilink">무관중 경기</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

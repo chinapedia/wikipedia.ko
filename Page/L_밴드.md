@@ -50,5 +50,5 @@
 
 1.  <http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=138&aid=0002009565>
 2.  <http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=100&oid=079&aid=0000055598>
-3.  <http://f4buc.pagesperso-orange.fr/iaru_uhf_2009.htm>
-4.  <http://forums.qrz.com/showthread.php?189067-Transatlantic-VHF-UHF-DX>
+3.
+4.

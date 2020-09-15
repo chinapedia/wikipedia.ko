@@ -113,7 +113,7 @@
 10. ''[비구름](https://ko.wikipedia.org/wiki/비구름 "wikilink") ''
       -
         가: 미나세 이오리(쿠기미야 리에)
-        작사·작곡: [RYTHEM](https://ko.wikipedia.org/wiki/RYTHEM "wikilink")
+        작사·작곡: [RYTHEM](../Page/RYTHEM.md "wikilink")
         오리지널 아티스트: RYTHEM
 11. 아미 챌린지의 코너
 12. **첫사랑\~2장 고백의 불꽃\~**

@@ -349,7 +349,7 @@
   - 무라세 타츠오미 - [츠루미 싱고](https://ko.wikipedia.org/wiki/츠루미_싱고 "wikilink")
   - 오오스기 케이코 - [호리우치 케이코](https://ko.wikipedia.org/wiki/호리우치_케이코 "wikilink")
   - 오오스기 메구미 - [스기사키 하나](../Page/스기사키_하나.md "wikilink")
-  - 나카가미 렌 - [요시다 코타로](https://ko.wikipedia.org/wiki/요시다_코타로 "wikilink")
+  - 나카가미 렌 - [요시다 코타로](../Page/요시다_코타로.md "wikilink")
   - 마에지마 켄스케 - [바바 토오루](https://ko.wikipedia.org/wiki/바바_토오루 "wikilink")
 
 #### 아름다운 표적편 (美しき標的編)
@@ -457,7 +457,7 @@
 
   -
 
-[분류:2014년 드라마](https://ko.wikipedia.org/wiki/분류:2014년_드라마 "wikilink") [분류:TBS 목요 드라마9](https://ko.wikipedia.org/wiki/분류:TBS_목요_드라마9 "wikilink") [분류:연속 드라마 W](https://ko.wikipedia.org/wiki/분류:연속_드라마_W "wikilink") [분류:형사 드라마](https://ko.wikipedia.org/wiki/분류:형사_드라마 "wikilink") [분류:소설을 바탕으로 한 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:소설을_바탕으로_한_텔레비전_드라마 "wikilink") [분류:테러를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:테러를_소재로_한_작품 "wikilink") [분류:일본의 범죄 드라마](https://ko.wikipedia.org/wiki/분류:일본의_범죄_드라마 "wikilink") [분류:암살자를 주인공으로 한 드라마](https://ko.wikipedia.org/wiki/분류:암살자를_주인공으로_한_드라마 "wikilink")
+[분류:2014년 드라마](https://ko.wikipedia.org/wiki/분류:2014년_드라마 "wikilink") [분류:TBS 목요 드라마9](https://ko.wikipedia.org/wiki/분류:TBS_목요_드라마9 "wikilink") [분류:연속 드라마 W](https://ko.wikipedia.org/wiki/분류:연속_드라마_W "wikilink") [분류:형사 드라마](https://ko.wikipedia.org/wiki/분류:형사_드라마 "wikilink") [분류:일본의 소설을 바탕으로 한 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:일본의_소설을_바탕으로_한_텔레비전_드라마 "wikilink") [분류:테러를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:테러를_소재로_한_작품 "wikilink") [분류:일본의 범죄 드라마](https://ko.wikipedia.org/wiki/분류:일본의_범죄_드라마 "wikilink") [분류:암살자를 주인공으로 한 드라마](https://ko.wikipedia.org/wiki/분류:암살자를_주인공으로_한_드라마 "wikilink")
 
 1.
 2.

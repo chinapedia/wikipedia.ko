@@ -43,7 +43,7 @@ R AWD(V8)<br />
 
 ## 외부 링크
 
-  - [재규어 코리아](http://www.jaguarkorea.co.kr/)
-  - [재규어 영국 홈페이지](http://www.jaguar.co.uk/)
+  - [재규어 코리아](https://web.archive.org/web/20140213015311/http://www.jaguarkorea.co.kr/)
+  - [재규어 영국 홈페이지](https://web.archive.org/web/20131009234428/http://www.jaguar.co.uk/)
 
 [F-타입](https://ko.wikipedia.org/wiki/분류:재규어의_차종 "wikilink") [F-타입](https://ko.wikipedia.org/wiki/분류:후륜구동 "wikilink") [F-타입](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [F-타입](https://ko.wikipedia.org/wiki/분류:스포츠카 "wikilink") [F-타입](https://ko.wikipedia.org/wiki/분류:쿠페 "wikilink") [F-타입](https://ko.wikipedia.org/wiki/분류:컨버터블 "wikilink") [F-타입](https://ko.wikipedia.org/wiki/분류:대형_승용차 "wikilink") [F-타입](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [F-타입](https://ko.wikipedia.org/wiki/분류:2013년_도입된_자동차 "wikilink")

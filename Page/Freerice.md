@@ -170,4 +170,4 @@
 
 1.  [Find of the Year 2007, Category Charity](http://uk.promotions.yahoo.com/finds2007/charity/) (accessed on February 7, 2008).
 2.
-3.  <http://freerice.com/frmisc/totals>
+3.

@@ -43,40 +43,6 @@
 
 **FGA-35(3D)** 파조트론 계열의 AESA 레이다다. 직경 68cm에, 960개 모듈을 갖추고 있다.
 
-## AESA 레이다
-
-(모듈 소자, 레이다 탐지거리)
-
-  - [AN/APG-77](https://ko.wikipedia.org/wiki/AN/APG-77 "wikilink") 1,500개, 350km.
-
-<!-- end list -->
-
-  - [AN/APG-63(v)3](https://ko.wikipedia.org/wiki/AN/APG-63\(v\)3 "wikilink") 1,500개, 170km.
-
-<!-- end list -->
-
-  - [J/APG-1](https://ko.wikipedia.org/wiki/J/APG-1 "wikilink") 1,200개, 250km.
-
-<!-- end list -->
-
-  - [CAPTOR-E](https://ko.wikipedia.org/wiki/CAPTOR-E "wikilink") 1,400개, 178km.
-
-<!-- end list -->
-
-  - [AN/APG-79](https://ko.wikipedia.org/wiki/AN/APG-79 "wikilink") 1,100개, 170km.
-
-<!-- end list -->
-
-  - [AN/APG-81](https://ko.wikipedia.org/wiki/AN/APG-81 "wikilink") 1,300개, 270km
-
-<!-- end list -->
-
-  - [Zhuk-AE](https://ko.wikipedia.org/wiki/Zhuk-AE "wikilink") 680개, 156km.
-
-<!-- end list -->
-
-  - [Zhuk-MAE](https://ko.wikipedia.org/wiki/Zhuk-MAE "wikilink") 1,000개, 200km.
-
 ## 같이 보기
 
   - [AN/APG-63](https://ko.wikipedia.org/wiki/AN/APG-63 "wikilink")

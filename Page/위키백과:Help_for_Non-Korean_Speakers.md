@@ -25,7 +25,7 @@
 
 The following lists users who are able to help you:
 
-1.  [분당선M](https://ko.wikipedia.org/wiki/사:분당선M "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:분당선M "wikilink"))
+1.  [\*Youngjin](https://ko.wikipedia.org/wiki/사:*Youngjin "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:*Youngjin "wikilink"))
 2.  [위키백과당\!](https://ko.wikipedia.org/wiki/사:위키백과당! "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:위키백과당! "wikilink"))
 3.  [Dynamicwork](https://ko.wikipedia.org/wiki/사:Dynamicwork "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Dynamicwork "wikilink"))
 4.  [Kchwoo9](https://ko.wikipedia.org/wiki/사:Kchwoo9 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Kchwoo9 "wikilink"))
@@ -51,42 +51,50 @@ The following lists users who are able to help you:
 24. [Propheceer](https://ko.wikipedia.org/wiki/사:Propheceer "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Propheceer "wikilink"))
 25. [강남 학생](https://ko.wikipedia.org/wiki/사:강남_학생 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:강남_학생 "wikilink"))
 26. [바게트](https://ko.wikipedia.org/wiki/사:바게트 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사용자토론:바게트/English "wikilink"))
+27. [강주♬](https://ko.wikipedia.org/wiki/사:강주♬ "wikilink") ([사토](https://ko.wikipedia.org/wiki/사토:강주♬ "wikilink"))
+28. [Gomdoli4696](https://ko.wikipedia.org/wiki/사:Gomdoli4696 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Gomdoli4696 "wikilink"))
+29. [Whitetiger0423](https://ko.wikipedia.org/wiki/사:Whitetiger0423 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Whitetiger0423 "wikilink"))
+30. [파스텔 소녀](https://ko.wikipedia.org/wiki/사:파스텔_소녀 "wikilink") ([talk](https://ko.wikipedia.org/wiki/사토:파스텔_소녀 "wikilink"))
 
 ### **Comment Section**
 
 [Click here](https://ko.wikipedia.org/wiki/위키백과:Help_for_Non-Korean_Speakers/English_Comment_Section "wikilink") to go to the Comment Section.
 
-##
+## 日本語 (JA)
 
-###
+**韓国語版ウィキペディアへようこそ！**このページは韓国語が分からない、または得意ではない方々をサポートするページでございます。
 
-  -
-  -
-  -
-###
+### 韓国語版ウィキペディアで何ができますか？
+
+  - もちろん、今まで韓国語版ウィキペディアに掲載されていなかった、新しい情報を提供することができます。
+  - 韓国語での情報および韓国語が主に使われている国家、特に韓国に関する情報が求められます。
+  - 韓国語版ウィキペディアに関わる質問などがございましたら、下のコメント欄にご投稿ください。
+
+### 誰に助けを求めればいいですか？
+
+以下は日本語でのご対応ができる利用者の一覧です。
 
 1.  [IRTC1015](https://ko.wikipedia.org/wiki/사:IRTC1015 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:IRTC1015 "wikilink"))
 2.  [威光](https://ko.wikipedia.org/wiki/사:威光 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:威光 "wikilink"))
 3.  [고솜](https://ko.wikipedia.org/wiki/사:고솜 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:고솜 "wikilink"))
-4.  [유민](https://ko.wikipedia.org/wiki/사:유민 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:유민 "wikilink")) **
-5.  [베이징](https://ko.wikipedia.org/wiki/사:베이징 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:베이징 "wikilink")) **
-6.  [비엠미니](https://ko.wikipedia.org/wiki/사:비엠미니 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:비엠미니 "wikilink")) **
-7.  [한셀 마르](https://ko.wikipedia.org/wiki/사:Hansel_Mar "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Hansel_Mar "wikilink")) **
-8.  [Chugun](https://ko.wikipedia.org/wiki/사:Chugun "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Chugun "wikilink")) **
-9.  [Hijin6908](https://ko.wikipedia.org/wiki/사:Hijin6908 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Hijin6908 "wikilink")) **
-10. [LERK](https://ko.wikipedia.org/wiki/사:LERK "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:LERK "wikilink")) **
-11. [Mr.SamA_Shun](https://ko.wikipedia.org/wiki/사:Mr.SamA "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Mr.SamA "wikilink")) **
-12. [Realidad y Illusion](https://ko.wikipedia.org/wiki/사:Realidad_y_Illusion "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Realidad_y_Illusion "wikilink")) **
-13. [SHION](https://ko.wikipedia.org/wiki/사:SHION "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:SHION "wikilink")) **
-14. [Tiens](https://ko.wikipedia.org/wiki/사:Tiens "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Tiens "wikilink")) **
-15. [Tsuchiya Hikaru](https://ko.wikipedia.org/wiki/사:Tsuchiya_Hikaru "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Tsuchiya_Hikaru "wikilink")) **
-16. [201KEI](https://ko.wikipedia.org/wiki/사:subway06 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:subway06 "wikilink")) **
+4.  [유민](https://ko.wikipedia.org/wiki/사:유민 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:유민 "wikilink")) *(休眠アカウント)*
+5.  [베이징](https://ko.wikipedia.org/wiki/사:베이징 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:베이징 "wikilink")) *(休眠アカウント)*
+6.  [비엠미니](https://ko.wikipedia.org/wiki/사:비엠미니 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:비엠미니 "wikilink")) *(休眠アカウント)*
+7.  [한셀 마르](https://ko.wikipedia.org/wiki/사:Hansel_Mar "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Hansel_Mar "wikilink")) *(休眠アカウント)*
+8.  [Chugun](https://ko.wikipedia.org/wiki/사:Chugun "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Chugun "wikilink")) *(休眠アカウント)*
+9.  [Hijin6908](https://ko.wikipedia.org/wiki/사:Hijin6908 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Hijin6908 "wikilink")) *(休眠アカウント)*
+10. [LERK](https://ko.wikipedia.org/wiki/사:LERK "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:LERK "wikilink")) *(休眠アカウント)*
+11. [Mr.SamA_Shun](https://ko.wikipedia.org/wiki/사:Mr.SamA "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Mr.SamA "wikilink")) *(休眠アカウント)*
+12. [Realidad y Illusion](https://ko.wikipedia.org/wiki/사:Realidad_y_Illusion "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Realidad_y_Illusion "wikilink")) *(休眠アカウント)*
+13. [SHION](https://ko.wikipedia.org/wiki/사:SHION "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:SHION "wikilink")) *(休眠アカウント)*
+14. [Tiens](https://ko.wikipedia.org/wiki/사:Tiens "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Tiens "wikilink")) *(休眠アカウント)*
+15. [Tsuchiya Hikaru](https://ko.wikipedia.org/wiki/사:Tsuchiya_Hikaru "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Tsuchiya_Hikaru "wikilink")) *(休眠アカウント)*
+16. [201KEI](https://ko.wikipedia.org/wiki/사:subway06 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:subway06 "wikilink")) *(休眠アカウント)*
 17. [흑조](https://ko.wikipedia.org/wiki/사:흑조 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:흑조 "wikilink")) - 日本語を習っている段階ですから少し足りないかもしれません それでもご了承ください。
-18. [Gomdoli4696](https://ko.wikipedia.org/wiki/사:Gomdoli4696 "wikilink") ([会話](https://ko.wikipedia.org/wiki/사토:Gomdoli4696 "wikilink")) - 日本語はあまり上手ではない。 しかし、助けてあげられる。
 
-###
+### **コメント欄**
 
-（====）（\~\~\~\~）
+*新しい話題で投稿する時は、必ずタイトルの前と後ろに等号**四つ***（====）*をつけて、見出しを作ってください。また、投稿文の末尾には半角チルダを四つ*（\~\~\~\~）*つけ、署名をしてください。*
 
 ## Français (FR)
 
@@ -144,5 +152,6 @@ Warum sind die Artikeltitel der koreanischen Wikipedia für Könige gewöhnlich 
 Ang sumusunod na talaan ng mga tagagamit ay maaari kayong matulungan:
 
 1.  [리헌진](https://ko.wikipedia.org/wiki/사:Leeheonjin "wikilink") ([Usapan](https://ko.wikipedia.org/wiki/사토:Leeheonjin "wikilink"))
+2.  [파스텔 소녀](https://ko.wikipedia.org/wiki/사:파스텔_소녀 "wikilink") ([usapan](https://ko.wikipedia.org/wiki/사토:파스텔_소녀 "wikilink"))
 
 ### **Seksyong pang-komentaryo**

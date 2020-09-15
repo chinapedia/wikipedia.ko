@@ -14,7 +14,7 @@
   -
   - [GNU Findutils](https://www.gnu.org/software/findutils/findutils.html)
 
-  - [mlocate site](https://fedorahosted.org/mlocate/)
+  - [mlocate site](https://web.archive.org/web/20151222114135/https://fedorahosted.org/mlocate/)
 
 변종들
 

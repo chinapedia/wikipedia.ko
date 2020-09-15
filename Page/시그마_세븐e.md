@@ -79,6 +79,6 @@
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.sigma7e.com/)
+  - [공식 웹사이트](https://web.archive.org/web/20140427093654/http://sigma7e.com/)
 
 [분류:2009년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2009년_설립된_기업 "wikilink") [분류:일본의 연예 기획사](https://ko.wikipedia.org/wiki/분류:일본의_연예_기획사 "wikilink") [분류:일본의 성우사무소](https://ko.wikipedia.org/wiki/분류:일본의_성우사무소 "wikilink") [분류:일본의 기업](https://ko.wikipedia.org/wiki/분류:일본의_기업 "wikilink") [분류:도쿄도의 기업](https://ko.wikipedia.org/wiki/분류:도쿄도의_기업 "wikilink")

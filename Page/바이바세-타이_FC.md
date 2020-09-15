@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [바이바세-타이 FC](https://ko.wikipedia.org/wiki/바이바세-타이_FC).
 
 
-**바이바세-타이**는 [사모아](../Page/사모아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [사모아](../Page/사모아.md "wikilink")의 [투아나이마토](https://ko.wikipedia.org/wiki/투아나이마토 "wikilink")가 이 팀의 연고지이다. 현재 [사모아 내셔널 리그에](../Page/사모아_내셔널_리그.md "wikilink") 참가 중이며, [바일리마 키위와](../Page/키위_FC.md "wikilink") 함께 리그 최다인 6회 우승을 기록하고 있다.\[1\]
+**바이바세-타이**는 [사모아](../Page/사모아.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. [사모아](../Page/사모아.md "wikilink")의 [투아나이마토](https://ko.wikipedia.org/wiki/투아나이마토 "wikilink")가 이 팀의 연고지이다. 현재 [사모아 내셔널 리그에](../Page/사모아_내셔널_리그.md "wikilink") 참가 중이며, 7회 우승을 기록한 [바일리마 키위를](../Page/키위_FC.md "wikilink") 이어 6회 우승을 기록하고 있다.\[1\]
 
 ## 역사
 
-바이바세-타이는 [사모아 내셔널 리그의](../Page/사모아_내셔널_리그.md "wikilink") 첫 5 시즌 동안 무려 4번이나 우승을 달성했다. ([1982 시즌에는](https://ko.wikipedia.org/wiki/1982_사모아_내셔널_리그 "wikilink") [알라푸아가](https://ko.wikipedia.org/wiki/알라푸아_FC "wikilink") 우승했다.)\[2\] 그리고 [1998 시즌](https://ko.wikipedia.org/wiki/1998_사모아_내셔널_리그 "wikilink"), [2006 시즌에](https://ko.wikipedia.org/wiki/2006_사모아_내셔널_리그 "wikilink") 각각 우승하여 총 6회 우승을 기록했다. [1985 시즌에는](../Page/1985_사모아_내셔널_리그.md "wikilink") 준우승을 기록했다.\[3\]
+바이바세-타이는 [사모아 내셔널 리그의](../Page/사모아_내셔널_리그.md "wikilink") 첫 5 시즌 동안 무려 4번이나 우승을 달성했다. ([1982 시즌에는](https://ko.wikipedia.org/wiki/1982_사모아_내셔널_리그 "wikilink") [알라푸아가](../Page/알라푸아_FC.md "wikilink") 우승했다.)\[2\] 그리고 [1998 시즌](https://ko.wikipedia.org/wiki/1998_사모아_내셔널_리그 "wikilink"), [2006 시즌에](https://ko.wikipedia.org/wiki/2006_사모아_내셔널_리그 "wikilink") 각각 우승하여 총 6회 우승을 기록했다. [1985 시즌에는](../Page/1985_사모아_내셔널_리그.md "wikilink") 준우승을 기록했다.\[3\]
 
 ## 역대 우승
 

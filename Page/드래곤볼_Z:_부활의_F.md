@@ -32,7 +32,7 @@
   - [이용신](../Page/이용신.md "wikilink"): 비델
   - [박경혜](../Page/박경혜_\(성우\).md "wikilink"): 18호
   - [시영준](../Page/시영준.md "wikilink"): 신룡
-  - [이수진](https://ko.wikipedia.org/wiki/이수진_\(성우\) "wikilink"): 피라프
+  - [이수진](../Page/이수진_\(성우\).md "wikilink"): 피라프
   - [정유정](../Page/정유정_\(성우\).md "wikilink"): 슈
   - [김가령](../Page/김가령.md "wikilink"): 마이
   - [최원형](../Page/최원형.md "wikilink"): 트랭크스/해설

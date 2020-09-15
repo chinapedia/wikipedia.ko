@@ -30,11 +30,11 @@
 
 ## 외부 링크
 
-  - [dpreview.com Review](http://www.dpreview.com/products/canon/slrs/canon_eos6d)
+  - [dpreview.com Review](https://web.archive.org/web/20131212142712/http://www.dpreview.com/products/canon/slrs/canon_eos6d)
 
   - [캐논코리아 컨슈머 이미징 6D 공식 안내 사이트](https://web.archive.org/web/20131210191656/http://www.canon-ci.co.kr/actions/ProductMainAction?cmd=view&product_code=NPAB797266&ctg_id=1001)
 
 [분류:캐논 EOS DSLR 카메라](https://ko.wikipedia.org/wiki/분류:캐논_EOS_DSLR_카메라 "wikilink")
 
 1.  [6D 보도자료](http://www.kbench.com/life/?no=110225&sc=1)
-2.  [dpreview.com Review](http://www.dpreview.com/products/canon/slrs/canon_eos6d)
+2.

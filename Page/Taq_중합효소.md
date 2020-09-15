@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [Taq 중합효소](https://ko.wikipedia.org/wiki/Taq_중합효소).
 
 
-**Taq 중합효소**(**택 폴리머레이즈**, **<i>Taq</i>**, **<i>Taq</i> polymerase**, /ˌtæk ˈpɒlɨməreɪz/)는 토마스 D. 브록에 의해 1965년에 분리된 고도 호열 균 (thermophilic bacterium)인 테르무스 아쿠아티쿠스 (<i>Thermus aquaticus</i>)에서 이름을 따왔다.\[1\] 이는 종종 “택 폴 (Taq Pol)” (또는 간단히 “택 (Taq) ”)으로 축약해서 불리며, 짧은 DNA 절편을 증폭하기 위한 방법인 중합효소 연쇄 반응(polymerase chain reaction, PCR) 에서 자주 쓰인다.
+**Taq 중합효소**( )는 토마스 D. 브록에 의해 1965년에 분리된 고도 호열 균(thermophilic bacterium)인 테르무스 아쿠아티쿠스(<i>Thermus aquaticus</i>)에서 이름을 따왔다.\[1\] 이는 종종 '택 폴(Taq Pol)'(또는 간단히 '택(Taq)')으로 축약해서 불리며, 짧은 DNA 절편을 증폭하기 위한 방법인 중합효소 연쇄 반응(polymerase chain reaction, PCR) 에서 자주 쓰인다.
 
 T. 아쿠아티쿠스 (<i>T. aquaticus</i>)는 온천과 열수 분출공(熱水噴出孔, hydrothermal vents)에 사는 세균이다. <i>Taq</i> 중합효소는 PCR에서 요구되는 단백질 변성 조건(고온)을 견딜 수 있는 효소로 확인되었다.\[2\] 그러므로 이는 원래 PCR에서 사용되던 대장균 유래 DNA 중합효소를 대체하였다.\[3\] <i>Taq</i>의 활성 최적온도는 75–80℃이며, 92.5℃에서 반감기는 2시간이 넘으며, 95℃에서 40분, 97.5℃에서 9분이다. 이는 72℃에서 10초 이내에 DNA 가닥 1,000 염기 쌍을 복제할 수 있다.\[4\]
 
-<i>Taq</i>의 단점 중 하나는 3’에서 5’방향으로 핵산말단가수분해효소(exonuclease) 교정 활동(proofreading activity)이 없다는 것이다. 이로 인해 다소 낮은 복제 충실도(fidelity)가 나타난다. 원래의 오류율은 약 9,000 뉴클레오티드(nucleotide)당 하나 정도로 측정되었다.\[5\] 남아있는 두 도메인은 커플 도메인 모션 (coupled domain motion)을 통해 함께 작용한다.\[6\] 몇몇 내열성 DNA 중합효소가 다른 호열성 세균과 고세균(archaea)에서 분리되었다. 예를 들어, 극한성 생물(極限性生物, extremophile)인 고세균 <i>Pyrococcus furiosus</i>에서 발견된 Pfu DNA 중합효소는 교정(proofreading) 활성을 가지며, <i>Taq</i> 대신에 (또는 <i>Taq</i>과 함께) 고충실도 증폭 (high-fidelity, hi-fi)을 위해 쓰인다.
+<i>Taq</i>의 단점 중 하나는 3’에서 5’방향으로 핵산말단가수분해효소(exonuclease) 교정 활동(proofreading activity)이 없다는 것이다. 이로 인해 다소 낮은 복제 충실도(fidelity)가 나타난다. 원래의 오류율은 약 9,000 뉴클레오티드(nucleotide)당 하나 정도로 측정되었다.\[5\] 남아있는 두 도메인은 커플 도메인 모션 (coupled domain motion)을 통해 함께 작용한다.\[6\] 몇몇 내열성 DNA 중합효소가 다른 호열성 세균과 고균(archaea)에서 분리되었다. 예를 들어, 극한성 생물(極限性生物, extremophile)인 고균 <i>Pyrococcus furiosus</i>에서 발견된 Pfu DNA 중합효소는 교정(proofreading) 활성을 가지며, <i>Taq</i> 대신에 (또는 <i>Taq</i>과 함께) 고충실도 증폭 (high-fidelity, hi-fi)을 위해 쓰인다.
 
-<i>Taq</i>은 3’ 말단에 A(아데닌, adenine) 돌출부 (overhang) 를 가진 DNA 생성물을 만든다. 이는T(타이민, thymine) 3’ 돌출부(overhang)를 가진 클로닝 벡터(플라스미스와 같은)가 사용되는 TA 클로닝 (TA cloning) 에서 유용하다. 이는 PCR 생성물의 A 돌출부를 보완하며, PCR 생성물이 플라스미드 벡터로의 결찰(ligation)을 가능하게 한다.
+<i>Taq</i>은 3’말단에 A(아데닌, adenine) 돌출부(overhang)를 가진 DNA 생성물을 만든다. 이는 T(타이민, thymine) 3’돌출부(overhang)를 가진 클로닝 벡터(플라스미스와 같은)가 사용되는 TA 클로닝 (TA cloning) 에서 유용하다. 이는 PCR 생성물의 A 돌출부를 보완하며, PCR 생성물이 플라스미드 벡터로의 결찰(ligation)을 가능하게 한다.
 
 ## PCR에서 <i>Taq</i> 중합효소
 

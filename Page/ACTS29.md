@@ -21,7 +21,7 @@
 
 ## 역대 감독 및 코치
 
-팀창단후 초대 감독으로, [안산 할렐루야](https://ko.wikipedia.org/wiki/안산_할렐루야 "wikilink") 선수 출신인 [조영강](https://ko.wikipedia.org/wiki/조영강 "wikilink")이 선수 겸 감독을 맡았고, 초대 코치로는 [수원 삼성을](https://ko.wikipedia.org/wiki/수원_삼성 "wikilink") 거쳐 싱가폴 리그인 [S리그](https://ko.wikipedia.org/wiki/S리그 "wikilink")에서 뛴 바 있는 [임영우](https://ko.wikipedia.org/wiki/임영우 "wikilink")가 코치를 맡았다.
+팀창단후 초대 감독으로, [안산 할렐루야](https://ko.wikipedia.org/wiki/안산_할렐루야 "wikilink") 선수 출신인 [조영강](https://ko.wikipedia.org/wiki/조영강 "wikilink")이 선수 겸 감독을 맡았고, 초대 코치로는 [수원 삼성을](https://ko.wikipedia.org/wiki/수원_삼성 "wikilink") 거쳐 싱가폴 리그인 [S리그](https://ko.wikipedia.org/wiki/S리그 "wikilink")에서 뛴 바 있는 [임영우가](https://ko.wikipedia.org/wiki/임영우_\(축구_선수\) "wikilink") 코치를 맡았다.
 
   - 1대 감독:  (2014-) [조영강](https://ko.wikipedia.org/wiki/조영강 "wikilink")
 

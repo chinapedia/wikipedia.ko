@@ -30,7 +30,7 @@
 ## 외부 링크
 
   - [뉴스콘서트 홈페이지](http://home.jtbc.co.kr/Plan/PlanMean.aspx?prog_id=PR10010200&menu_id=PM10017679)
-  - [뉴스콘서트 (JTBC 뉴스 홈페이지)](http://news.jtbc.co.kr/Replay/news_replay.aspx?fcode=PR10010201)
+  - [뉴스콘서트 (JTBC 뉴스 홈페이지)](https://web.archive.org/web/20130921061930/http://news.jtbc.co.kr/Replay/news_replay.aspx?fcode=PR10010201)
 
 [분류:JTBC의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:JTBC의_뉴스_텔레비전_프로그램 "wikilink")
 

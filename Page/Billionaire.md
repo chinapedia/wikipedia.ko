@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Billionaire](https://ko.wikipedia.org/wiki/Billionaire).
 
 
-"**Billionaire**"는 미국의 가수 [트래비 매코이의](https://ko.wikipedia.org/wiki/트래비_매코이 "wikilink") 데뷔 싱글로, [브루노 마스가](../Page/브루노_마스.md "wikilink") 피처링을 맡았다. 음반 *[Lazarus](https://ko.wikipedia.org/wiki/Lazarus_\(트래비_매코이의_음반\) "wikilink")*에 수록되어 있으며, 프로듀싱은 [스미징턴스](https://ko.wikipedia.org/wiki/스미징턴스 "wikilink")가 맡았다.
+"**Billionaire**"는 [미합중국](https://ko.wikipedia.org/wiki/미합중국 "wikilink")의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink") [트래비 매코이의](https://ko.wikipedia.org/wiki/트래비_매코이 "wikilink") 데뷔 싱글로, [브루노 마스가](../Page/브루노_마스.md "wikilink") 피처링을 맡았다. 또한 Billionaire은 음반 *[Lazarus](https://ko.wikipedia.org/wiki/Lazarus_\(트래비_매코이의_음반\) "wikilink")*에 수록되어 있으며, 프로듀싱은 [스미징턴스](https://ko.wikipedia.org/wiki/스미징턴스 "wikilink")가 맡았다.
 
 ## 트랙리스트
 

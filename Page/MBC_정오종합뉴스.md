@@ -51,7 +51,7 @@
 <tr class="even">
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/10월_8일.md" title="wikilink">10월 8일</a> ~ <strong>현재</strong></p></td>
 <td><p>평일 낮 12:00 ~ 낮 12:20 (20분)<br />
-주말 낮 12:00 ~ 12:10 (10분)</p></td>
+주말 낮 12:00 ~ 낮 12:10 (10분)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -84,7 +84,7 @@
 | [부산MBC](../Page/부산문화방송.md "wikilink")         | MBC 정오종합뉴스 부산       | 박기홍                              |
 | [울산MBC](../Page/울산문화방송.md "wikilink")         | MBC 정오종합뉴스 울산       | 최진구                              |
 | [MBC경남](../Page/MBC경남.md "wikilink")          | MBC 정오종합뉴스 경남       | 백근곤                              |
-| [전주MBC](../Page/전주문화방송.md "wikilink")         | MBC 정오종합뉴스 전북권뉴스    | 이충훈                              |
+| [전주MBC](../Page/전주문화방송.md "wikilink")         | MBC 정오종합뉴스 전북권뉴스    | 목서윤, 이충훈, 정진형                    |
 | [광주MBC](../Page/광주문화방송.md "wikilink")         | MBC 정오종합뉴스 광주·전남    | 김두식                              |
 | [목포MBC](../Page/목포문화방송.md "wikilink")         | MBC 정오종합뉴스 목포·전남    | 김은재                              |
 | [여수MBC](../Page/여수문화방송.md "wikilink")         | MBC 정오종합뉴스 전남동부권    | 이용선                              |

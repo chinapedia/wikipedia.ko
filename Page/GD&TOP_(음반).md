@@ -131,7 +131,7 @@ GD\&TOP은 영국의 가수 [픽시 로트의](https://ko.wikipedia.org/wiki/픽
 
   - "INTRO"는 [프레다 페인의](https://ko.wikipedia.org/wiki/프레다_페인 "wikilink") 곡 "It's Yours to Have"을 샘플링했다.
   - "집에 가지마"는 [위스퍼스](https://ko.wikipedia.org/wiki/위스퍼스 "wikilink")의 곡 "Make It with You"을 샘플링했다.
-  - "어쩌란 말이냐?"는 [듀언 에디의](https://ko.wikipedia.org/wiki/듀언_에디 "wikilink") 곡 "Shazam\!"을 샘플링했다.
+  - "어쩌란 말이냐?"는 [듀언 에디의](../Page/듀언_에디.md "wikilink") 곡 "Shazam\!"을 샘플링했다.
   - "뻑이가요"는 Cajmere의 곡 "It's Time For the Percolator"을 샘플링했다.
 
 ## 차트

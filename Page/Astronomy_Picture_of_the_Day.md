@@ -25,9 +25,9 @@
 
   - [About APOD](http://apod.nasa.gov/apod/lib/about_apod.html): 언어별 웹사이트
 
-      - [대한민국 우주 외교관 우주:라이크](http://wouldyoulike.org/apod): APOD 한국어판
+      - [대한민국 우주 외교관 우주:라이크](https://web.archive.org/web/20150323191854/http://wouldyoulike.org/apod): APOD 한국어판
 
-  - [Astronomy Picture of the Day](http://www.concentricsky.com/products/iphone/apod/) – 공식 [아이폰](../Page/아이폰.md "wikilink"), [아이패드](../Page/아이패드.md "wikilink") 어플용 페이지
+  - [Astronomy Picture of the Day](https://web.archive.org/web/20120724081415/http://www.concentricsky.com/products/iphone/apod/) – 공식 [아이폰](../Page/아이폰.md "wikilink"), [아이패드](../Page/아이패드.md "wikilink") 어플용 페이지
 
   - [Astronomy Picture of the Day (APOD)](https://www.facebook.com/AstronomyPictureOfTheDay) – 공식 [페이스북](../Page/페이스북.md "wikilink") 홈페이지
 
@@ -42,5 +42,5 @@
 3.
 4.
 5.
-6.  [APOD for June 7, 2009](http://apod.nasa.gov/apod/ap090607.html)
-7.  [Astronomy Picture of the Day, 2013-06-05](https://apod.nasa.gov/apod/ap130605.html)
+6.
+7.

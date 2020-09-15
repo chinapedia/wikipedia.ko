@@ -51,7 +51,7 @@
 
 ### 정정용 체제
 
-2020시즌을 앞두고 [대한민국 U-20 축구 국가대표팀](../Page/대한민국_U-20_축구_국가대표팀.md "wikilink") 감독을 맡았던 정정용이 새롭게 서울 이랜드 FC 감독으로 취임했다.
+2020시즌을 앞두고 [대한민국 U-20 축구 국가대표팀](../Page/대한민국_U-20_축구_국가대표팀.md "wikilink") 감독을 맡았던 [정정용](../Page/정정용.md "wikilink")이 새롭게 서울 이랜드 FC 감독으로 취임했다.
 
 ## 선수단
 
@@ -421,9 +421,9 @@
 <td><div style="text-align: center;">
 <p>2019</p>
 </div></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>4</p></td>
+<td><p>5</p></td>
+<td><p>15</p></td>
 <td><ul>
 <li><p>구단 2번째 감독대행</p></li>
 </ul></td>
@@ -837,6 +837,14 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/원기종.md" title="wikilink">원기종</a></p></td>
+<td><p>7</p></td>
+<td><p>2</p></td>
+<td><p>9</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1199,7 +1207,7 @@
 
 [1984년](../Page/1984년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") [한일 정기전이](../Page/한일전_\(축구\).md "wikilink") 개최된 이후 [대한민국 축구 국가대표팀이](../Page/대한민국_축구_국가대표팀.md "wikilink") [월드컵](https://ko.wikipedia.org/wiki/월드컵 "wikilink") 예선 등 주요 A매치를 개최한 [대한민국](../Page/대한민국.md "wikilink") [축구](../Page/축구.md "wikilink")의 성지로 자리잡았으며, [2000년](../Page/2000년.md "wikilink") [5월 28일에](../Page/5월_28일.md "wikilink") [유고슬라비아 축구 국가대표팀과의](../Page/세르비아_몬테네그로_축구_국가대표팀.md "wikilink") 경기를 마지막으로 중단되었다가, [2013년](../Page/2013년.md "wikilink") [7월 28일에](../Page/7월_28일.md "wikilink") 개최된 [2013년 EAFF 동아시안컵](https://ko.wikipedia.org/wiki/2013년_EAFF_동아시안컵 "wikilink") [한일전으로](../Page/한일전_\(축구\).md "wikilink") 국가대표팀 축구 경기가 재개되었다.
 
-[1984년](../Page/1984년.md "wikilink") 개장 이후 1987년 4월 22일 [럭키금성과](https://ko.wikipedia.org/wiki/FC서울 "wikilink") [포항제철과의](../Page/포항_스틸러스.md "wikilink") 경기를 시작으로 서울올림픽주경기장을 메인 홈구장으로 하는 구단 없이 불규칙적으로 [프로축구의](../Page/K리그.md "wikilink") 리그 경기와 [올스타전](../Page/K리그_올스타전.md "wikilink") 등이 개최되었으며 2000년에 5월 5일 [부천 SK와](../Page/제주_유나이티드_FC.md "wikilink") [전남 드래곤즈의](../Page/전남_드래곤즈.md "wikilink") [K리그](../Page/K리그.md "wikilink") [리그컵](../Page/리그컵_\(대한민국\).md "wikilink") 결승전 경기를 마지막으로 중단되었다. 이후 [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink") [서울 유나이티드가](https://ko.wikipedia.org/wiki/서울_유나이티드 "wikilink") 홈구장으로 사용했으나 임대료와 대관 일정 문제로 [2012년](../Page/2012년.md "wikilink") 이후 사용을 중단했다.
+[1984년](../Page/1984년.md "wikilink") 개장 이후 1987년 4월 22일 [럭키금성과](https://ko.wikipedia.org/wiki/FC서울 "wikilink") [포항제철과의](../Page/포항_스틸러스.md "wikilink") 경기를 시작으로 서울올림픽주경기장을 메인 홈구장으로 하는 구단 없이 불규칙적으로 [프로축구의](../Page/K리그.md "wikilink") 리그 경기와 [올스타전](../Page/K리그_올스타전.md "wikilink") 등이 개최되었으며 2000년에 5월 5일 [부천 SK와](../Page/제주_유나이티드_FC.md "wikilink") [전남 드래곤즈의](../Page/전남_드래곤즈.md "wikilink") [K리그](../Page/K리그.md "wikilink") [리그컵](../Page/리그컵_\(대한민국\).md "wikilink") 결승전 경기를 마지막으로 중단되었다. 이후 [K3리그](../Page/K3리그.md "wikilink") [서울 유나이티드가](https://ko.wikipedia.org/wiki/서울_유나이티드 "wikilink") 홈구장으로 사용했으나 임대료와 대관 일정 문제로 [2012년](../Page/2012년.md "wikilink") 이후 사용을 중단했다.
 
 그러나 2015년부터 [K리그 챌린지에서](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") 활동하는 [서울 이랜드 FC의](../Page/서울_이랜드_FC.md "wikilink") 홈구장으로 사용하면서 다시 [프로축구](../Page/K리그.md "wikilink") 경기들이 개최되고 있다. 서울 이랜드 FC는 방대한 크기의 경기장에 대해 활용성을 높이기 위해 약 5,000석 규모의 가변석을 설치하여 운영하였다. 해당 가변석은 [2019 시즌](../Page/K리그2_2019.md "wikilink") 초반까지 사용되었으며, 이 후 구단 공식 SNS 계정을 통해 가변석은 철거되고 더이상 이용되지 않는다는 것이 밝혀졌다.
 

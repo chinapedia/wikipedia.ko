@@ -15,7 +15,7 @@
 
 1.  **[High Five](../Page/High_Five.md "wikilink")**
       -
-        작사: Shusui / 작곡: Takuya Harada, [STEVEN LEE](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink"), Drew Ryan Scott / 편곡: Takuya Harada
+        작사: Shusui / 작곡: Takuya Harada, [STEVEN LEE](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink"), Drew Ryan Scott / 편곡: Takuya Harada
 2.  **** / <small>**교차점**</small>
       -
         작사: 에비네 유코 / 작곡: SHIKATA & REO / 편곡: REO

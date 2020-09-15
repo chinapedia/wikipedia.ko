@@ -40,7 +40,7 @@
 
 타자마다 응원가가 다르며 원곡과 개사 부분은 아래와 같다.
 
-  - [이재원](https://ko.wikipedia.org/wiki/이재원 "wikilink") - 엘리제를 위하여
+  - [이재원](../Page/이재원_\(1988년\).md "wikilink") - 엘리제를 위하여
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - [최정](https://ko.wikipedia.org/wiki/최정 "wikilink") - 동요 '둥글게 둥글게'
+  - [최정](../Page/최정_\(야구_선수\).md "wikilink") - 동요 '둥글게 둥글게'
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - [최항](https://ko.wikipedia.org/wiki/최항 "wikilink") - 모차르트 교향곡 40번 1악장
+  - [최항](../Page/최항_\(야구_선수\).md "wikilink") - 모차르트 교향곡 40번 1악장
 
 <!-- end list -->
 
@@ -67,21 +67,21 @@
 
 <!-- end list -->
 
-  - [김성현](https://ko.wikipedia.org/wiki/김성현 "wikilink") - 자작곡
+  - [김성현](../Page/김성현_\(1987년\).md "wikilink") - [유정석](../Page/유정석.md "wikilink") - 승리의 약속
 
 <!-- end list -->
 
   -
-    와이번스 김성현 날려버려 김성현 아아아아 안타 오오오오 안타 x2
+    날려라 투혼 SK 와이번스의 김\~성현 (김성현)x2 세상에 빛이 되는 너의 안타를 보\~여줘 가자 김 (김) 성 (성) 현 (현) 승리 위\~해\~
 
 <!-- end list -->
 
-  - [김재현](../Page/김재현.md "wikilink") - 자작곡
+  - [김재현](../Page/김재현_\(1987년\).md "wikilink") - [정용화](https://ko.wikipedia.org/wiki/정용화 "wikilink") - 넌 내게 반했어
 
 <!-- end list -->
 
   -
-    와이번스 김재현 시원하게 날려라 와이번스 김재현 와이번스 김재현 x2
+    김재현 날아라 날아라\~ 영원한 와이번스 승리를 위해\~x2 김\~재현 오오 김재현\~ 김\~재현 오오 와이번스 김재현\~
 
 <!-- end list -->
 
@@ -99,34 +99,16 @@
 <!-- end list -->
 
   -
-    야야야야\~ 한동민 날려버려라\~(홈런) 한동민 날려버려라\~(홈런) 한동민 날려버려라\~ x2\[4\]
+    야야야야\~ 한동민 날려버려라\~ (홈런) 한동민 날려버려라\~ (홈런) 한동민 날려버려라\~ x2\[4\]
 
 <!-- end list -->
 
-  - [정의윤](../Page/정의윤.md "wikilink") - 자작곡
-
-<!-- end list -->
-
-  -
-    오\~ 정의윤 홈런 오오오오오 오\~ 정의윤 홈런 오오오오오 x2
-
-<!-- end list -->
-
-  - [이홍구](https://ko.wikipedia.org/wiki/이홍구 "wikilink") - [김영철](https://ko.wikipedia.org/wiki/김영철 "wikilink") - '따르릉'
+  - [정의윤](../Page/정의윤.md "wikilink") - 쿨 - 또 자 쿨쿨
 
 <!-- end list -->
 
   -
-    SK 와이번스 안타 이홍구\~SK 홈런타자 홈런 이홍구\~ 안타안타홈런홈런 안타 이홍구 홍구야 홍구 홍구야 이홍구야 x2 이홈런 저홈런 만나봤겠지만 즐거웠겠지만 홍구 홈런이 최고야\~
-
-<!-- end list -->
-
-  - [노수광](../Page/노수광.md "wikilink") - [지니](https://ko.wikipedia.org/wiki/지니 "wikilink") - '바른생활'
-
-<!-- end list -->
-
-  -
-    오\~ 오\~ 오\~예 SK 와이번스 날려버려 노수광 SK 와이번스 안타 노수광
+    우리모두 정 우리같이 의 다같이 윤 와\~ 와이번스 파워히터 와이번스 정의윤 와이번스 파워히터 와이번스 정의윤\[5\]
 
 <!-- end list -->
 
@@ -135,7 +117,7 @@
 <!-- end list -->
 
   -
-    와이번스 홈런 타자 로맥 홈런 날려라\~ 와이번스 홈런타자 로맥 홈런 날려라\~ 오오 오오 오오오 오오 오오오 오오 오오오\~ 와이번스 홈런 타자 로맥 홈런 날려라\~ x반복\[5\]
+    와이번스 홈런 타자 로맥 홈런 날려라\~ 와이번스 홈런타자 로맥 홈런 날려라\~ 오오 오오 오오오 오오 오오오 오오 오오오\~ 와이번스 홈런 타자 로맥 홈런 날려라\~ x반복\[6\]
 
 #### 추억의 응원가
 
@@ -144,9 +126,9 @@
 <!-- end list -->
 
   -
-    와이번스 날쌘돌이\~ 정근우\~ 와이번스 날쌘돌이 정근우\~ 최고의(최고의) 2루수(2루수) 와이번스의 근우\~
-    정근우 안타 날려라\~ 와이번스 날쌘돌이 정근우(안타 정근우) x2
-    근우가 치면 안타가 되고\~ 근우가 뛰면 도루가 되고\~ 근우 나가면 꼭 점수가 되고 언제나 상대팀은 울상이 되고\~ 안되는게 어딨어 정근우가 있는데 오늘도 근우 고고고고\~ 정근우가 있으면 언제나 승리 정근우 화이팅
+    1\. 와이번스 날쌘돌이\~ 정근우\~ 와이번스 날쌘돌이 정근우\~ 최고의(최고의) 2루수(2루수) 와이번스의 근우\~
+    2.정근우 안타 날려라\~ 와이번스 날쌘돌이 정근우(안타 정근우) x2
+    3.근우가 치면 안타가 되고\~ 근우가 뛰면 도루가 되고\~ 근우 나가면 꼭 점수가 되고 언제나 상대팀은 울상이 되고\~ 안되는게 어딨어 정근우가 있는데 오늘도 근우 고고고고\~ 정근우가 있으면 언제나 승리 정근우 화이팅
 
 <!-- end list -->
 
@@ -155,12 +137,12 @@
 <!-- end list -->
 
   -
-    정상호 홈런\~ 정상호 홈런\~ 정상호\~ 홈런 날려라\~ (살리고 살리고) 정상호 홈런\~ 정상호 홈런\~ 정상호\~ 홈런 날려라\~ x2
-    (박자에 맞춰서) \~호 \~호 \~호 \~호
+    1.정상호 홈런\~ 정상호 홈런\~ 정상호\~ 홈런 날려라\~ (살리고 살리고) 정상호 홈런\~ 정상호 홈런\~ 정상호\~ 홈런 날려라\~ x2
+    2.(박자에 맞춰서) \~호 \~호 \~호 \~호
 
 <!-- end list -->
 
-  - [신현철](https://ko.wikipedia.org/wiki/신현철 "wikilink") - [이승환](https://ko.wikipedia.org/wiki/이승환 "wikilink") - '세상에 뿌려진 사랑만큼'
+  - [신현철](../Page/신현철_\(야구_선수\).md "wikilink") - [이승환](https://ko.wikipedia.org/wiki/이승환 "wikilink") - '세상에 뿌려진 사랑만큼'
 
 <!-- end list -->
 
@@ -178,7 +160,7 @@
 
 <!-- end list -->
 
-  - [이명기](https://ko.wikipedia.org/wiki/이명기 "wikilink") The click five - Time machine/오페라 《[아이다](../Page/아이다.md "wikilink")》중 〈개선행진곡〉
+  - [이명기](../Page/이명기_\(1987년\).md "wikilink") The click five - Time machine/오페라 《[아이다](../Page/아이다.md "wikilink")》중 〈개선행진곡〉
 
 <!-- end list -->
 
@@ -189,7 +171,7 @@
 
 <!-- end list -->
 
-  - [이성우](https://ko.wikipedia.org/wiki/이성우 "wikilink") - 클레멘타인
+  - [이성우](../Page/이성우_\(야구_선수\).md "wikilink") - 클레멘타인
 
 <!-- end list -->
 
@@ -198,12 +180,12 @@
 
 <!-- end list -->
 
-  - [최정민](https://ko.wikipedia.org/wiki/최정민 "wikilink") -[노현태, 정상수](https://ko.wikipedia.org/wiki/노현태,_정상수 "wikilink") - '랩을 못해 죄송합니다(Feat. 제닛, 슬기 Of 빌리언)'
+  - [최정민](../Page/최정민_\(야구_선수\).md "wikilink") - 노현태,정상수 - '랩을 못해 죄송합니다(Feat. 제닛, 슬기 Of 빌리언)'
 
 <!-- end list -->
 
   -
-    번트 대고 뛰고 안타 치고 뛰고 SK와이번스 최정민
+    (SK와이번스 최정민) 번트 대고 뛰고 안타 치고 뛰고 SK와이번스 최정민
 
 <!-- end list -->
 
@@ -213,7 +195,7 @@
 
   -
     SK 와이번스 조성우\~ 라라랄라라라라랄라\~ SK 와이번스 조성우\~라라랄라라라라랄라\~ Hey Hey 조성우\~ Hey Hey 조성우\~ Hey Hey 조성우\~ SK 와이번스 조성우\~
-    안타 날려 조성우 안타 날려 조성우 x2\[6\]
+    안타 날려 조성우 안타 날려 조성우 x2\[7\]
 
 <!-- end list -->
 
@@ -233,8 +215,8 @@
 
   -
     1\. (한 소절이 끝날 때마다) **안타 조동화**
-    2\. 동화가 치면 안타가 되고 동화가 뛰면 도루가 되고 동화 나가면 꼭 점수가 되고 언제나 상대팀을 울상이 되고. 안되는 게 어딨어 조동화가 있는데 오늘도 동화 Go go go go 조동화 있으면 언제나 승리 조동화 화이팅\[7\]
-    3\. 와이번스 날쌘돌이 조동화 와이번스 날쌘돌이 조동화 달려라 조동화 와이번스의 동화\[8\]
+    2\. 동화가 치면 안타가 되고 동화가 뛰면 도루가 되고 동화 나가면 꼭 점수가 되고 언제나 상대팀을 울상이 되고. 안되는 게 어딨어 조동화가 있는데 오늘도 동화 Go go go go 조동화 있으면 언제나 승리 조동화 화이팅\[8\]
+    3\. 와이번스 날쌘돌이 조동화 와이번스 날쌘돌이 조동화 달려라 조동화 와이번스의 동화\[9\]
 
 <!-- end list -->
 
@@ -247,7 +229,7 @@
 
 <!-- end list -->
 
-  - [김동엽](https://ko.wikipedia.org/wiki/김동엽 "wikilink") - 자작곡
+  - [김동엽](../Page/김동엽_\(1990년\).md "wikilink") - 자작곡
 
 <!-- end list -->
 
@@ -256,12 +238,12 @@
 
 <!-- end list -->
 
-  - [조용호](https://ko.wikipedia.org/wiki/조용호 "wikilink") - 오페라 《[아이다](../Page/아이다.md "wikilink")》중 〈개선행진곡\>
+  - [조용호](../Page/조용호_\(1989년\).md "wikilink") - 오페라 《[아이다](../Page/아이다.md "wikilink")》중 〈개선행진곡\>
 
 <!-- end list -->
 
   -
-    SK 날려라 조용호 오오오오오 안타 날려라\~ 조용호 오오오오오오\~ x2\[9\]
+    SK 날려라 조용호 오오오오오 안타 날려라\~ 조용호 오오오오오오\~ x2\[10\]
 
 <!-- end list -->
 
@@ -319,6 +301,24 @@
 
 <!-- end list -->
 
+  - [노수광](../Page/노수광.md "wikilink") - [지니](https://ko.wikipedia.org/wiki/지니 "wikilink") - '바른생활'
+
+<!-- end list -->
+
+  -
+    오\~ 오\~ 오\~예 SK 와이번스 날려버려 노수광 SK 와이번스 안타 노수광
+
+<!-- end list -->
+
+  - [이홍구](../Page/이홍구_\(1990년\).md "wikilink") - [김영철](https://ko.wikipedia.org/wiki/김영철 "wikilink") - '따르릉'
+
+<!-- end list -->
+
+  -
+    SK 와이번스 안타 이홍구\~ SK 홈런타자 홈런 이홍구\~ 안타안타홈런홈런 안타 이홍구 홍구야 홍구 홍구야 이홍구야 x2 이홈런 저홈런 만나봤겠지만 즐거웠겠지만 홍구 홈런이 최고야\~
+
+<!-- end list -->
+
   - [앤드류 브라운](https://ko.wikipedia.org/wiki/앤드류_브라운 "wikilink") - [Harold Faltermeyer & Steve Stevens](https://ko.wikipedia.org/wiki/Harold_Faltermeyer_&_Steve_Stevens "wikilink") - 'Top Gun Anthem'
 
 <!-- end list -->
@@ -334,22 +334,22 @@
 <!-- end list -->
 
   -
-    헥터 고메즈 오오오오\~ 와이번스 고메즈 오오오오 (반복)
-    빠밤밤밤빠 빠밤밤밤빰 헥\~터 고\~메즈 (x4)
+    1\. 헥터 고메즈 오오오오\~ 와이번스 고메즈 오오오오 (반복)
+    2\. 빠밤밤밤빠 빠밤밤밤빰 헥\~터 고\~메즈 (x4)
 
 ### 선수 등장곡
 
   - 타자
-      - [이재원](https://ko.wikipedia.org/wiki/이재원 "wikilink") - [윤도현 밴드](https://ko.wikipedia.org/wiki/윤도현_밴드 "wikilink") - '나는 나비'
-      - [최정](https://ko.wikipedia.org/wiki/최정 "wikilink") - House of Pain - 'Jump around'
-      - [김성현](https://ko.wikipedia.org/wiki/김성현 "wikilink") - [원더걸스](../Page/원더걸스.md "wikilink") - 'Be my Baby'
-      - [김재현](../Page/김재현.md "wikilink") - [싸이](../Page/싸이.md "wikilink") - '내 눈에는'
+      - [이재원](../Page/이재원_\(1988년\).md "wikilink") - [윤도현 밴드](https://ko.wikipedia.org/wiki/윤도현_밴드 "wikilink") - '나는 나비'
+      - [최정](../Page/최정_\(야구_선수\).md "wikilink") - House of Pain - 'Jump around'
+      - [김성현](../Page/김성현_\(1987년\).md "wikilink") - [원더걸스](../Page/원더걸스.md "wikilink") - 'Be my Baby'
+      - [김재현](../Page/김재현_\(1987년\).md "wikilink") - [싸이](../Page/싸이.md "wikilink") - '내 눈에는'
       - [한동민](../Page/한동민.md "wikilink") - 사이먼 도미닉 - 'Simon Dominic'
       - [정의윤](../Page/정의윤.md "wikilink") - Coldplay - 'Viva La Vida'
   - 투수
       - [윤희상](../Page/윤희상.md "wikilink") - [써니힐](../Page/써니힐.md "wikilink") - '만인의 연인'
       - [박희수](../Page/박희수.md "wikilink") - Motorhead - 'The Game'
-      - [신재웅](https://ko.wikipedia.org/wiki/신재웅 "wikilink") - [빅뱅](https://ko.wikipedia.org/wiki/빅뱅 "wikilink") - '뱅뱅뱅'
+      - [신재웅](../Page/신재웅_\(1982년\).md "wikilink") - [빅뱅](https://ko.wikipedia.org/wiki/빅뱅 "wikilink") - '뱅뱅뱅'
 
 ### 선수별명
 
@@ -358,59 +358,50 @@
 <!-- end list -->
 
   - 현역타자
-      - [이재원](https://ko.wikipedia.org/wiki/이재원 "wikilink") - MR.클러치
-      - [최정](https://ko.wikipedia.org/wiki/최정 "wikilink") - 야구천재
-      - [김성현](https://ko.wikipedia.org/wiki/김성현 "wikilink") - 큐티식스
-      - [정진기](../Page/정진기.md "wikilink") - 진기스칸
+      - [이재원](../Page/이재원_\(1988년\).md "wikilink") - 좌완킬러 -\> MR.클러치
+      - [최정](../Page/최정_\(야구_선수\).md "wikilink") - 소년장사 -\> 야구천재
+      - [김성현](../Page/김성현_\(1987년\).md "wikilink") - 물샐틈 없는 내야수비 -\> 식스센스
       - [한동민](../Page/한동민.md "wikilink") - 동미니칸
-      - [정의윤](../Page/정의윤.md "wikilink") - 파워히터
-      - [노수광](../Page/노수광.md "wikilink") - 노토바이
-      - [제이미 로맥](../Page/제이미_로맥.md "wikilink") - 홈런공장 북미지점장
+      - 김강민 - 본능수비 -\> 짐승수비
 
 <!-- end list -->
 
   - 현역투수
-      - [윤희상](../Page/윤희상.md "wikilink") - 은화백
-      - [박희수](../Page/박희수.md "wikilink") - 다크템플러
-      - [김태훈](https://ko.wikipedia.org/wiki/김태훈 "wikilink") - 좌완다크호스
-      - [박종훈](https://ko.wikipedia.org/wiki/박종훈 "wikilink") - 신형잠수함
+      - [윤희상](../Page/윤희상.md "wikilink") - 히든카드 -\> Rising star
+      - [박희수](../Page/박희수.md "wikilink") - 예비역의 돌풍 -\> 다크템플러
+      - [김태훈](../Page/김태훈_\(1990년\).md "wikilink") - 좌완다크호스
+      - [박종훈](../Page/박종훈_\(1991년\).md "wikilink") - 신형잠수함
       - [서진용](../Page/서진용.md "wikilink") - 파이어드래곤
       - [문승원](../Page/문승원.md "wikilink") - New Moon
-      - [정영일](../Page/정영일.md "wikilink") - 구원대장
-      - [이승진](../Page/이승진.md "wikilink") - 파프리카
-      - [신재웅](https://ko.wikipedia.org/wiki/신재웅 "wikilink") - 막강허리
-      - [김주한](../Page/김주한_\(야구_선수\).md "wikilink") - 역투쟁이
 
 <!-- end list -->
 
   - 은퇴/이적타자
-      - [김재현](../Page/김재현.md "wikilink") - 캐넌히터
-      - [박재홍](https://ko.wikipedia.org/wiki/박재홍 "wikilink") - 리틀쿠바
-      - [이호준](https://ko.wikipedia.org/wiki/이호준 "wikilink") - You're my hero
-      - [정근우](../Page/정근우.md "wikilink") - 총알탄사나이
+      - [김재현](../Page/김재현_\(1975년\).md "wikilink") - 캐넌히터
+      - [박재홍](https://ko.wikipedia.org/wiki/박재홍_\(야구인\) "wikilink") - 리틀쿠바
+      - [이호준](../Page/이호준_\(야구인\).md "wikilink") - You're my hero
+      - [정근우](../Page/정근우.md "wikilink") - 날쌘돌이 -\> 총알탄사나이
       - [박경완](../Page/박경완.md "wikilink") - 포도대장
       - [최윤석](../Page/최윤석.md "wikilink") - 내야의 살림꾼
-      - [안치용](https://ko.wikipedia.org/wiki/안치용 "wikilink") - 난세영웅
-      - [조인성](https://ko.wikipedia.org/wiki/조인성 "wikilink") - 앉아쏴
-      - [김상현](https://ko.wikipedia.org/wiki/김상현 "wikilink") - 해결사
+      - [안치용](../Page/안치용_\(야구인\).md "wikilink") - 난세영웅
+      - [조인성](../Page/조인성_\(야구인\).md "wikilink") - 비룡의 앉아쏴 -\> 파워히터
+      - [김상현](../Page/김상현_\(1980년\).md "wikilink") - 해결사
       - [임훈](https://ko.wikipedia.org/wiki/임훈_\(야구_선수\) "wikilink") - 카리스마
-      - [박진만](../Page/박진만.md "wikilink") - 국민유격수
+      - [박진만](../Page/박진만.md "wikilink") - 내야의 종결자 -\> 국민유격수
       - [정상호](../Page/정상호.md "wikilink") - 터미네이터
       - [김연훈](../Page/김연훈.md "wikilink") - 철통수비
-      - [신현철](https://ko.wikipedia.org/wiki/신현철 "wikilink") - 철벽수비
-      - [이명기](https://ko.wikipedia.org/wiki/이명기 "wikilink") - 멀티히터
-      - [최정민](https://ko.wikipedia.org/wiki/최정민 "wikilink") - 팀플레이어
-      - [김민식](https://ko.wikipedia.org/wiki/김민식 "wikilink") - 공격첨병
+      - [신현철](../Page/신현철_\(야구_선수\).md "wikilink") - 철벽수비
+      - [이명기](../Page/이명기_\(1987년\).md "wikilink") - 멀티히터
+      - [최정민](../Page/최정민_\(야구_선수\).md "wikilink") - 팀플레이어
+      - [김민식](../Page/김민식_\(1989년\).md "wikilink") - 공격첨병
       - [박재상](https://ko.wikipedia.org/wiki/박재상_\(야구_선수\) "wikilink") - 아트스윙
-      - [허웅](https://ko.wikipedia.org/wiki/허웅 "wikilink") - 7전8기
+      - [허웅](../Page/허웅_\(1983년\).md "wikilink") - 7전8기
       - [조성우](../Page/조성우_\(1988년\).md "wikilink") - 아이언맨
       - [조동화](../Page/조동화.md "wikilink") - 가을동화
       - [이대수](../Page/이대수.md "wikilink") - 빗장수비
-      - [김동엽](https://ko.wikipedia.org/wiki/김동엽 "wikilink") - 거포교과서
-      - [나주환](../Page/나주환.md "wikilink") - 만능내야수
-      - [윤정우](../Page/윤정우.md "wikilink") - 히든카드
+      - [김동엽](../Page/김동엽_\(1990년\).md "wikilink") - 거포교과서
+      - [나주환](../Page/나주환.md "wikilink") - 유격대장 -\> 만능내야수
       - [박정권](../Page/박정권.md "wikilink") - 천하무적
-      - [루크 스캇](../Page/루크_스캇.md "wikilink") - 썬더
       - [앤드류 브라운](https://ko.wikipedia.org/wiki/앤드류_브라운 "wikilink") - 리쎌웨폰
       - [헥터 고메즈](../Page/헥터_고메즈.md "wikilink") - 토네이도
       - [대니 워스](../Page/대니_워스.md "wikilink") - WORTHY
@@ -418,23 +409,25 @@
 <!-- end list -->
 
   - 은퇴/이적투수
-      - [정대현](https://ko.wikipedia.org/wiki/정대현 "wikilink") - 여왕벌
+      - [가득염](../Page/가득염.md "wikilink") - 우승가득
+      - [정대현](../Page/정대현_\(1978년\).md "wikilink") - 여왕벌
       - [송은범](../Page/송은범.md "wikilink") - 긍정의 힘
       - [최영필](../Page/최영필.md "wikilink") - 풍운아
       - [진해수](../Page/진해수.md "wikilink") - 백절불굴
-      - [정우람](../Page/정우람.md "wikilink") - 돌아온수호신
+      - [정우람](../Page/정우람.md "wikilink") - 완소남 -\> 돌아온수호신
       - [엄정욱](../Page/엄정욱.md "wikilink") - 와일드씽
       - [이한진](../Page/이한진.md "wikilink") - 꽃미남잠수함
       - [윤길현](../Page/윤길현.md "wikilink") - 명품슬라이더
-      - [이재영](https://ko.wikipedia.org/wiki/이재영 "wikilink") - 블랑카
-      - [이승호](https://ko.wikipedia.org/wiki/이승호 "wikilink") - 왕의 귀환
+      - [이재영](../Page/이재영_\(1979년\).md "wikilink") - 블랑카
+      - [이승호](https://ko.wikipedia.org/wiki/이승호_\(1976년\) "wikilink") - 왕의 귀환
       - [전병두](../Page/전병두.md "wikilink") - 좌완 파이어볼러
-      - [고효준](../Page/고효준.md "wikilink") - New닥터
+      - [고효준](../Page/고효준.md "wikilink") - New닥터K
       - [전유수](../Page/전유수.md "wikilink") - 버팀목
       - [문광은](../Page/문광은.md "wikilink") - Rising Moon
-      - [박정배](https://ko.wikipedia.org/wiki/박정배 "wikilink") - New Hope
-      - [김광현](https://ko.wikipedia.org/wiki/김광현 "wikilink") - 대한민국에이스 (현재활동중)
+      - [박정배](../Page/박정배_\(야구인\).md "wikilink") - New Hope
+      - [김광현](../Page/김광현_\(야구_선수\).md "wikilink") - 대한민국에이스 (현재활동중)
       - [채병용](../Page/채병용.md "wikilink") - 돌직구
+      - [이승진](../Page/이승진.md "wikilink") - 파프리카
       - [로스 울프](../Page/로스_울프.md "wikilink") - 칼날제구
       - [조조 레이예스](https://ko.wikipedia.org/wiki/조조_레이예스 "wikilink") - 철벽투
       - [트래비스 밴와트](../Page/트래비스_밴와트.md "wikilink") - 밴호투
@@ -462,8 +455,9 @@
 2.
 3.  영화 [노팅힐](../Page/노팅힐.md "wikilink")(Notting Hill)에 나오는 OST 곡으로 [엘비스 코스텔로가](../Page/엘비스_코스텔로.md "wikilink") 부른 곡의 일부분을 따온 것이다.
 4.  NC 다이노스로 이적한 이호준이 SK 와이번스 시절에 쓰던 응원가다.
-5.  LG 트윈스와 3:3 트레이드 된 임훈이 SK 와이번스 시절에 쓰던 응원가다.
-6.  NC 다이노스로 이적한 모창민이 SK 와이번스 시절에 쓰던 응원가다.
-7.  한화 이글스로 이적한 정근우가 SK 와이번스 시절에 쓰던 응원가다.
-8.  한화 이글스로 이적한 정근우가 SK 와이번스 시절에 쓰던 응원가다. 뒷부분은 '최고의 2루수 와이번스의 근우'
-9.  KIA 타이거즈와 4:4 트레이드 된 이명기가 SK 와이번스 시절에 쓰던 응원가다.
+5.  은퇴한 안치용이 SK 와이번스 시절에 쓰던 응원가다.
+6.  LG 트윈스로 이적한 임훈이 SK 와이번스 시절에 쓰던 응원가다.
+7.  NC 다이노스로 이적한 모창민이 SK 와이번스 시절에 쓰던 응원가다.
+8.  한화 이글스로 이적한 정근우가 SK 와이번스 시절에 쓰던 응원가다.
+9.  한화 이글스로 이적한 정근우가 SK 와이번스 시절에 쓰던 응원가다. 뒷부분은 '최고의 2루수 와이번스의 근우'
+10. KIA 타이거즈로 이적한 이명기가 SK 와이번스 시절에 쓰던 응원가다.

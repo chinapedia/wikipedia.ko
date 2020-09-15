@@ -1,14 +1,13 @@
 > This article is converted from Wikipedia: [틀:FNC 엔터테인먼트](https://ko.wikipedia.org/wiki/틀:FNC_엔터테인먼트).
 
 
-<onlyinclude> [이재진](../Page/이재진_\(1991년\).md "wikilink") {{·}} [최민환](../Page/최민환.md "wikilink") {{·}} [송승현](../Page/송승현.md "wikilink"))
+<onlyinclude> [최민환](../Page/최민환.md "wikilink"))
 
-  - [씨엔블루](../Page/씨엔블루.md "wikilink") ([정용화](https://ko.wikipedia.org/wiki/정용화 "wikilink") {{·}} [이종현](../Page/이종현_\(가수\).md "wikilink") {{·}} [강민혁](../Page/강민혁_\(가수\).md "wikilink") {{·}} [이정신](../Page/이정신.md "wikilink"))
-  - [AOA](../Page/AOA_\(음악_그룹\).md "wikilink") ([지민](../Page/지민_\(래퍼\).md "wikilink") {{·}} [유나](../Page/유나_\(1992년\).md "wikilink") {{·}} [유경](https://ko.wikipedia.org/wiki/유경_\(가수\) "wikilink") {{·}} [혜정](../Page/혜정.md "wikilink") {{·}} [설현](../Page/설현.md "wikilink") {{·}} [찬미](../Page/찬미_\(1996년\).md "wikilink"))
+  - [씨엔블루](../Page/씨엔블루.md "wikilink") ([정용화](https://ko.wikipedia.org/wiki/정용화 "wikilink") {{·}} [강민혁](../Page/강민혁_\(가수\).md "wikilink") {{·}} [이정신](../Page/이정신.md "wikilink"))
+  - [AOA](../Page/AOA_\(음악_그룹\).md "wikilink") ([유나](../Page/유나_\(1992년\).md "wikilink") {{·}} [혜정](../Page/혜정.md "wikilink") {{·}} [설현](../Page/설현.md "wikilink") {{·}} [찬미](../Page/찬미_\(1996년\).md "wikilink"))
   - [엔플라잉](../Page/엔플라잉.md "wikilink") ([이승협](https://ko.wikipedia.org/wiki/이승협 "wikilink") {{·}} [권광진](https://ko.wikipedia.org/wiki/권광진 "wikilink") {{·}} [차훈](https://ko.wikipedia.org/wiki/차훈 "wikilink") {{·}} [김재현](../Page/김재현_\(가수\).md "wikilink") {{·}} [유회승](../Page/유회승.md "wikilink"))
   - [SF9](../Page/SF9.md "wikilink") ([영빈](https://ko.wikipedia.org/wiki/영빈 "wikilink") {{·}} [인성](https://ko.wikipedia.org/wiki/인성_\(가수\) "wikilink") {{·}} [재윤](https://ko.wikipedia.org/wiki/재윤 "wikilink") {{·}} [다원](../Page/다원_\(남자_가수\).md "wikilink") {{·}} [로운](../Page/로운.md "wikilink") {{·}} [주호](https://ko.wikipedia.org/wiki/주호_\(가수\) "wikilink") {{·}} [태양](https://ko.wikipedia.org/wiki/태양_\(1997년\) "wikilink") {{·}} [휘영](https://ko.wikipedia.org/wiki/휘영 "wikilink") {{·}} [찬희](../Page/찬희.md "wikilink"))
-  - [허니스트](../Page/허니스트.md "wikilink") (김철민 {{·}} 김환 {{·}} 서동성 {{·}} 오승석)
-  - [체리블렛](../Page/체리블렛.md "wikilink") (해윤 {{·}} 유주 {{·}} 미래 {{·}} 보라 {{·}} 지원 {{·}} 코코로 {{·}} 레미 {{·}} 채린 {{·}} 린린 {{·}} 메이)
+  - [체리블렛](../Page/체리블렛.md "wikilink") (해윤 {{·}} 유주 {{·}} 보라 {{·}} 지원 {{·}} 레미 {{·}} 채린 {{·}} 메이)
 
 | 묶음2 = 현재 솔로 | 내용2 =
 
@@ -17,7 +16,10 @@
 | 묶음3 = 과거 그룹 | 내용3 =
 
   - [M시그널](https://ko.wikipedia.org/wiki/M시그널 "wikilink") ([견우](https://ko.wikipedia.org/wiki/견우_\(가수\) "wikilink") {{·}} [전근화](https://ko.wikipedia.org/wiki/전근화 "wikilink"))
-  - [AOA](../Page/AOA_\(음악_그룹\).md "wikilink") (유경 {{·}} [초아](../Page/초아_\(1990년_3월\).md "wikilink") {{·}} [민아](https://ko.wikipedia.org/wiki/민아_\(1993년_9월\) "wikilink"))
+  - [FT아일랜드](../Page/FT아일랜드.md "wikilink") ([최종훈](../Page/최종훈_\(가수\).md "wikilink") {{·}} [송승현](../Page/송승현.md "wikilink"))
+  - [씨엔블루](../Page/씨엔블루.md "wikilink") ([이종현](../Page/이종현_\(가수\).md "wikilink"))
+  - [AOA](../Page/AOA_\(음악_그룹\).md "wikilink") (유경 {{·}} [초아](../Page/초아_\(1990년_3월\).md "wikilink") {{·}} [민아](../Page/권민아.md "wikilink") {{·}} [지민](../Page/지민_\(래퍼\).md "wikilink"))
+  - [허니스트](../Page/허니스트.md "wikilink")
 
 | 묶음4 = 과거 솔로 | 내용4 =
 

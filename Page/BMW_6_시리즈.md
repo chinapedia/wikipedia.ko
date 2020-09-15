@@ -35,7 +35,7 @@
 
 ## 4세대(G32,6시리즈 GT)
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:2018_BMW_630i_GT_M_Sport_Automatic_2.0_Front.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2018_BMW_630d_GT_M_Sport_Automatic_3.0_Rear.jpg "wikilink") [2017년](../Page/2017년.md "wikilink")에 기존 5시리즈 GT를 대체할 목적으로 출시되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:2018_BMW_630i_GT_M_Sport_Automatic_2.0_Front.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2018_BMW_630d_GT_M_Sport_Automatic_3.0_Rear.jpg "wikilink") [2017년](../Page/2017년.md "wikilink")에 기존 5시리즈 GT를 대체할 목적으로 출시되었다. 대한민국에서는 640d와 640i가 들여온다. [2020년 5월에](https://ko.wikipedia.org/wiki/2020년_5월 "wikilink") 한국의 BMW 드라이빙 센터에서 세계 최초로 페이스리프트가 공개되었다.
 
 {{-}}
 

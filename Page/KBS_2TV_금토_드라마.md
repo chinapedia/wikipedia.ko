@@ -1,0 +1,70 @@
+> This article is converted from Wikipedia: [KBS 2TV 금토 드라마](https://ko.wikipedia.org/wiki/KBS_2TV_금토_드라마).
+
+
+**KBS 2TV 금토 드라마**는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 매주 [금요일](../Page/금요일.md "wikilink")부터 [토요일](../Page/토요일.md "wikilink")에 방송되는 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink"). 2015년 《[프로듀사](https://ko.wikipedia.org/wiki/프로듀사 "wikilink")》를 시작으로 방송되었으나 이후 2년간 후속작이 없다가 2017년 《[최고의 한방](../Page/최고의_한방.md "wikilink")》으로 방송이 재개되었다. 하지만 같은 해 《[고백부부](../Page/고백부부.md "wikilink")》 종영 후 폐지되었다.
+
+## 방송 시간
+
+<table>
+<thead>
+<tr class="header">
+<th><p>방송 채널</p></th>
+<th><p>방송 기간</p></th>
+<th><p>방송 시간</p></th>
+<th><p>방송 분량</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/KBS_2TV.md" title="wikilink">KBS 2TV</a></p></td>
+<td><p>2015년 5월 15일 ~ 2015년 6월 20일</p></td>
+<td><p>매주 <a href="../Page/금요일.md" title="wikilink">금</a>, <a href="../Page/토요일.md" title="wikilink">토</a> 밤 9시 15분 ~ 10시 35분</p></td>
+<td><p>1시간 20분</p></td>
+</tr>
+<tr class="even">
+<td><p>2017년 6월 2일 ~ 2017년 7월 22일</p></td>
+<td><p>매주 <a href="../Page/금요일.md" title="wikilink">금</a>, <a href="../Page/토요일.md" title="wikilink">토</a> 밤 11시 ~ 12시 10분</p></td>
+<td><p>1시간 10분<br />
+(회당 35분 2회 연속 방송)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017년 8월 4일 ~ 2017년 11월 18일</p></td>
+<td><p>1시간 10분</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 작품 리스트
+
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 시청 가능 연령을 표시하는 [드라마 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 의무적으로 시행하여, 현재까지 이어지고 있다.
+  - [2017년](../Page/2017년.md "wikilink") [3월 1일부터](../Page/3월_1일.md "wikilink") 프로그램 등급 표시 외에 주제, 폭력성, 선정성, 언어, 모방 위험 등 분류 사유 표시를 의무적으로 시행하고 있다.
+
+### 2010년대
+
+#### 2015년
+
+  - 《[프로듀사](https://ko.wikipedia.org/wiki/프로듀사 "wikilink")》 : 2015년 5월 15일 \~ 2015년 6월 20일 (**예능 드라마**로 방송됨)
+
+#### 2017년
+
+  - 《[최고의 한방](../Page/최고의_한방.md "wikilink")》 : 2017년 6월 2일 \~ 2017년 7월 22일 (**예능 드라마**로 방송됨)
+  - 《[최강 배달꾼](../Page/최강_배달꾼.md "wikilink")》 : 2017년 8월 4일 \~ 2017년 9월 23일
+  - 《[고백부부](../Page/고백부부.md "wikilink")》 : 2017년 10월 13일 \~ 2017년 11월 18일 (**예능 드라마**로 방송됨)
+
+## 같이 보기
+
+  - [채널 A 금토 드라마](https://ko.wikipedia.org/wiki/채널_A_금토_드라마 "wikilink")
+  - [JTBC 금토드라마](../Page/JTBC_금토드라마.md "wikilink")
+  - [tvN 금토드라마](https://ko.wikipedia.org/wiki/tvN_금토드라마 "wikilink")
+  - [SBS 금토드라마](../Page/SBS_금토드라마.md "wikilink")
+
+[분류:한국방송공사의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [한국방송공사_금토드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사_금토드라마 "wikilink") [한국방송공사_예능드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사_예능드라마 "wikilink")

@@ -17,7 +17,7 @@
 
 ## 각주
 
-[분류:석탄 기술](https://ko.wikipedia.org/wiki/분류:석탄_기술 "wikilink") [분류:연료 가스](https://ko.wikipedia.org/wiki/분류:연료_가스 "wikilink")
+[분류:석탄 기술](https://ko.wikipedia.org/wiki/분류:석탄_기술 "wikilink") [분류:연료 가스](https://ko.wikipedia.org/wiki/분류:연료_가스 "wikilink") [분류:화력 발전](https://ko.wikipedia.org/wiki/분류:화력_발전 "wikilink")
 
 1.
 2.  <http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=029&aid=0000141168>

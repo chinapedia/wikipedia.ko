@@ -45,7 +45,7 @@
 1.  **In Fact**
 2.  **MY SECRET**
       -
-        작사: FOREST YOUNG / 작곡: [STEVEN LEE](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink"), Sebastian Thott, Didrik Thott / 편곡: Sebastian Thott, Billy Marx Jr.
+        작사: FOREST YOUNG / 작곡: [STEVEN LEE](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink"), Sebastian Thott, Didrik Thott / 편곡: Sebastian Thott, Billy Marx Jr.
 3.  **BLACK**
       -
         작사: 25→graffiti / 작곡: STEVEN LEE, Sebastian Thott, Didrik Thott / 편곡: Sebastian Thott, Billy Marx Jr.

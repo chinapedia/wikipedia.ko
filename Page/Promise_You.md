@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Promise You](https://ko.wikipedia.org/wiki/Promise_You).
 
 
-《**Promise You**》는 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 발라드 유닛 "[슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink")"의 일본에서 발매한 첫 번째 싱글이다.
+《**Promise You**》는 그룹 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 발라드 유닛 "[슈퍼주니어-K.R.Y.](../Page/슈퍼주니어-K.R.Y..md "wikilink")"의 일본에서 발매한 첫 번째 싱글이다.
 
 ## 설명
 
-  - [슈퍼주니어-K.R.Y](https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y "wikilink")의 최초의 정식 음반이다.
+  - [슈퍼주니어-K.R.Y.](../Page/슈퍼주니어-K.R.Y..md "wikilink")의 최초의 정식 음반이다.
   - 커플링곡인 "하나미즈키"의 뮤직비디오는 [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 일본 정규 1집 "[Hero](../Page/Hero_\(슈퍼주니어의_음반\).md "wikilink")" 2CD+DVD 버전에 수록되어 있다.
 
 ## 수록곡
@@ -24,14 +24,12 @@
 | 오리콘 일간 싱글 차트 | 1위    | 76,457장 |
 | 오리콘 주간 싱글 차트 | 2위    |         |
 | 오리콘 월간 싱글 차트 | 7위    |         |
-|              |       |         |
 
-### 한국 가온 차트 (음반)
+### 한국 가온 음반 차트
 
 | 차트    | 최고 순위 |
 | :---- | :---- |
 | 주간 차트 | 1위    |
-|       |       |
 
 ## 외부 링크
 

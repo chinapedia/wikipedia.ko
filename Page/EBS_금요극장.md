@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EBS 금요극장](https://ko.wikipedia.org/wiki/EBS_금요극장).
 
 
-**금요극장**은 [2011년](../Page/2011년.md "wikilink") [3월 4일부터](../Page/3월_4일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [8월 23일까지](../Page/8월_23일.md "wikilink") 방영되었고 이후 [2017년](../Page/2017년.md "wikilink") [3월 3일부터](../Page/3월_3일.md "wikilink") 다시 재개하여 [2019년](../Page/2019년.md "wikilink") [8월 16일까지](../Page/8월_16일.md "wikilink") [EBS 1TV로](../Page/EBS_1TV.md "wikilink") 방송되었던 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")의 [시네마](https://ko.wikipedia.org/wiki/시네마 "wikilink") 전문 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
+**금요극장**은 [2011년](../Page/2011년.md "wikilink") [3월 4일부터](../Page/3월_4일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [8월 23일까지](../Page/8월_23일.md "wikilink") 방영되었고 이후 [2017년](../Page/2017년.md "wikilink") [3월 3일부터](../Page/3월_3일.md "wikilink") 다시 재개하여 [2019년](../Page/2019년.md "wikilink") [8월 16일까지](../Page/8월_16일.md "wikilink") 방영되었고 이후 [2020년](../Page/2020년.md "wikilink") [8월 28일부터](../Page/8월_28일.md "wikilink") 다시 재개하여 [EBS 1TV로](../Page/EBS_1TV.md "wikilink") 방송된 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")의 [시네마](https://ko.wikipedia.org/wiki/시네마 "wikilink") 전문 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 기획 의도
 
@@ -26,6 +26,7 @@
 | [2018년](../Page/2018년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink")                                                                                  | 금요일 새벽 1:15 \~ 2:50 (95분)                                                                                                 |                                                            |
 | 2018년 [3월 2일](../Page/3월_2일.md "wikilink") \~ 2018년 8월 17일                                                                                                 | 매주 금요일 새벽 1:15 \~ 3:15 (120분)                                                                                             |                                                            |
 | 2018년 [8월 31일](../Page/8월_31일.md "wikilink") \~ 2019년 3월 29일                                                                                               | 매주 금요일 밤 12:35 \~ 새벽 2:35(매월 마지막 금요일은 밤 12:55 \~ 새벽 2:55) (120분)                                                          |                                                            |
+| 2020년 8월 28일 \~ **현재**                                                                                                                                     | 매주 금요일 밤 12:55분 \~ 새벽 2:55 (120분)                                                                                         |                                                            |
 
 ## 방송 회차
 

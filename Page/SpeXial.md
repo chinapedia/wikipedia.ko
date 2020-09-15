@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SpeXial](https://ko.wikipedia.org/wiki/SpeXial).
 
 
-**SpeXial**은 [가미제작](https://ko.wikipedia.org/wiki/가미제작 "wikilink") 소속의 [중화민국](../Page/중화민국.md "wikilink") 12인조 남성 음악 그룹이다.
+**SpeXial**은 [가미제작](https://ko.wikipedia.org/wiki/가미제작 "wikilink") 소속의 [중화민국](../Page/중화민국.md "wikilink") 4인조 남성 음악 그룹이다.
 
 ## 구성원
 

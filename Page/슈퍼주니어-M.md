@@ -15,39 +15,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/은혁.md" title="wikilink">은혁</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:WHYNOT-더_댄서_제작발표회_은혁.jpg" title="wikilink">100px</a></p></td>
-<td><ul>
-<li>본명 : 이혁재 (李赫宰)</li>
-<li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
-<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="../Page/슈퍼주니어-Happy.md" title="wikilink">슈퍼주니어-Happy</a></li>
-<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/조미_(가수).md" title="wikilink">조미</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Zhou_Mi_from_Acrofan_(cropped).jpg" title="wikilink">100px</a></p></td>
-<td><ul>
-<li>본명 : 조미 ()</li>
-<li>생년월일 : </li>
-<li>출생지 :  <a href="../Page/후베이성.md" title="wikilink">후베이 성</a> <a href="../Page/우한시.md" title="wikilink">우한 시</a></li>
-<li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
-<li>활동기간 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="../Page/동해_(가수).md" title="wikilink">동해</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:171115_슈퍼주니어_동해.jpg" title="wikilink">100px</a></p></td>
-<td><ul>
-<li>본명 : 이동해 (李東海)</li>
-<li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="https://ko.wikipedia.org/wiki/목포시" title="wikilink">목포시</a></li>
-<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
-<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
-</ul></td>
-</tr>
-<tr class="even">
 <td><p><strong><a href="../Page/시원_(가수).md" title="wikilink">시원</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:KCON_2015_Siwon.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
@@ -55,6 +22,43 @@
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
+<li>포지션 : 리더, 서브보컬</li>
+<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/은혁.md" title="wikilink">은혁</a></strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:WHYNOT-더_댄서_제작발표회_은혁.jpg" title="wikilink">100px</a></p></td>
+<td><ul>
+<li>본명 : 이혁재 (李赫宰)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="../Page/슈퍼주니어-Happy.md" title="wikilink">슈퍼주니어-Happy</a></li>
+<li>포지션 : 메인래퍼, 메인댄서, 서브보컬</li>
+<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/조미_(가수).md" title="wikilink">조미</a></strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:Zhou_Mi_from_Acrofan_(cropped).jpg" title="wikilink">100px</a></p></td>
+<td><ul>
+<li>본명 : 조미 ()</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/후베이성.md" title="wikilink">후베이 성</a> <a href="../Page/우한시.md" title="wikilink">우한 시</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
+<li>포지션 : 리드보컬</li>
+<li>활동기간 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/동해_(가수).md" title="wikilink">동해</a></strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:171115_슈퍼주니어_동해.jpg" title="wikilink">100px</a></p></td>
+<td><ul>
+<li>본명 : 이동해 (李東海)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="https://ko.wikipedia.org/wiki/목포시" title="wikilink">목포시</a></li>
+<li>유닛그룹 : <a href="../Page/슈퍼주니어-D&amp;E.md" title="wikilink">슈퍼주니어-D&amp;E</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
+<li>포지션 : 리드보컬, 리드래퍼, 리드댄서</li>
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -66,6 +70,7 @@
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천광역시</a></li>
 <li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y" title="wikilink">슈퍼주니어-K.R.Y</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
+<li>포지션 : 메인보컬</li>
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -77,6 +82,7 @@
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/슈퍼주니어-K.R.Y" title="wikilink">슈퍼주니어-K.R.Y</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
+<li>포지션 : 메인보컬</li>
 <li>활동기간 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/5월_27일.md" title="wikilink">5월 27일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -88,6 +94,7 @@
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
 <li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-Happy.md" title="wikilink">슈퍼주니어-Happy</a></li>
+<li>포지션 : 리드보컬, 리드댄서</li>
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ (활동 중단)[1]</li>
 </ul></td>
 </tr>
@@ -124,6 +131,7 @@
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/온타리오주" title="wikilink">온타리오 주</a> <a href="../Page/토론토.md" title="wikilink">토론토</a></li>
 <li>유닛그룹 : <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
+<li>포지션 : 메인댄서, 리드보컬, 서브래퍼</li>
 <li>활동기간 : <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_29일.md" title="wikilink">4월 29일</a>[3]</li>
 </ul></td>
 </tr>

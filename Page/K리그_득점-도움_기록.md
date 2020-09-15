@@ -240,6 +240,16 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>10</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이근호_(1985년)" title="wikilink">이근호</a></p></td>
+<td><p>2020-07-25</p></td>
+<td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대 호랑이</a></p></td>
+<td><p>292</p></td>
+<td><p>73 - 50</p></td>
+<td></td>
+<td><p><small><a href="../Page/K리그2.md" title="wikilink">K리그2</a> 기록 포함</small></p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -459,6 +469,16 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>20</p></td>
+<td><p><a href="../Page/황일수.md" title="wikilink">황일수</a></p></td>
+<td><p>2020-08-08</p></td>
+<td><p><a href="../Page/전북_현대_모터스.md" title="wikilink">전북 현대 모터스</a></p></td>
+<td><p>281</p></td>
+<td><p>45 - 40</p></td>
+<td></td>
+<td><p><small><a href="../Page/K리그2.md" title="wikilink">K리그2</a> 기록 포함</small></p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -814,7 +834,7 @@
 <td><p><a href="../Page/상주_상무_축구단.md" title="wikilink">상주 상무</a></p></td>
 <td><p>160</p></td>
 <td><p>30 - 30</p></td>
-<td><p>242경기 39골 44도움</p></td>
+<td><p>258경기 39골 44도움</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -854,7 +874,7 @@
 <td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><p>237</p></td>
 <td><p>64 - 30</p></td>
-<td><p>292경기 90골 34도움</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -894,7 +914,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대전 시티즌</a></p></td>
 <td><p>226</p></td>
 <td><p>58 - 31</p></td>
-<td></td>
+<td><p>272경기 71골 34도움</p></td>
 <td><p><small><a href="../Page/K리그2.md" title="wikilink">K리그2</a> 기록 포함</small></p></td>
 </tr>
 <tr class="even">
@@ -934,7 +954,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
 <td><p>195</p></td>
 <td><p>30 - 30</p></td>
-<td></td>
+<td><p>239경기 42골 35도움</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -984,7 +1004,7 @@
 <td><p><a href="../Page/전북_현대_모터스.md" title="wikilink">전북 현대 모터스</a></p></td>
 <td><p>138</p></td>
 <td><p>45 - 30</p></td>
-<td></td>
+<td><p>157경기 53골 33도움</p></td>
 <td></td>
 </tr>
 <tr class="odd">

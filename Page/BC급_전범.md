@@ -65,7 +65,7 @@ BC급 전범 중에는 당시 합병해 있던 [조선](../Page/조선.md "wikil
 
 ## 처벌
 
-[A급 전범](../Page/A급_전범.md "wikilink") 약 200명이 [스가모 구치소에](../Page/스가모_구치소.md "wikilink") 체포, 감금된 것과 동시에 [BC급 전범](../Page/BC급_전범.md "wikilink") 약 5,600명이 각지에서 체포되어 투옥되었다. [요코하마](https://ko.wikipedia.org/wiki/요코하마 "wikilink"), [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [라바울](../Page/라바울.md "wikilink"), [마닐라](../Page/마닐라.md "wikilink"), [마누스 섬](https://ko.wikipedia.org/wiki/마누스_섬 "wikilink") 등등 남방 각지의 50여 곳의 ​​감옥에 억류된 약 1,000명이 군사재판을 받고 사형당했다.
+[A급 전범](../Page/A급_전범.md "wikilink") 약 200명이 [스가모 구치소에](../Page/스가모_구치소.md "wikilink") 체포, 감금된 것과 동시에 [BC급 전범](../Page/BC급_전범.md "wikilink") 약 5,600명이 각지에서 체포되어 투옥되었다. [요코하마](https://ko.wikipedia.org/wiki/요코하마 "wikilink"), [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [라바울](../Page/라바울.md "wikilink"), [마닐라](../Page/마닐라.md "wikilink"), [마누스 섬](https://ko.wikipedia.org/wiki/마누스_섬 "wikilink") 등등 남방 각지의 50여 곳의 감옥에 억류된 약 1,000명이 군사재판을 받고 사형당했다.
 
 일본에서 전후 체포된 사람은 가족들에게 “좀 나갔다 오겠다”고 말을 남기고, 나갔다가 설마 자신이 전범으로 재판을 받게 될 것이라는 것을 예상치도 못한 사람이 많았다. 사형 판결을 받은 전범의 대부분은 유서, 유발(머리카락) 등을 남기게 허용하지 않았고, 유골도 비밀리에 소각 또는 매장되었다. 전범들 중 일부는 숨겨온 연필이나 자신의 피로 종이조각이나 화장지에 몰래 유서를 쓰고 [군종](https://ko.wikipedia.org/wiki/군종 "wikilink")병들에게 전해주면서 유족에게 전해달라고 부탁한 사람도 있었지만, 그것도 일부의 경우였을 뿐이었다. [1952년](../Page/1952년.md "wikilink") 〈[샌프란시스코 강화 조약](../Page/샌프란시스코_강화_조약.md "wikilink")〉 발효 후 전범 사망자의 유서는 스가모 형무소의 ‘스가모 유서 편찬위원회’에 의해 정리되어 《[세기의 유서](https://ko.wikipedia.org/wiki/세기의_유서 "wikilink")》라는 책으로 [1953년](../Page/1953년.md "wikilink")에 출판되었다.
 

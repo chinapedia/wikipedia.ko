@@ -3,7 +3,7 @@
 
 **LG L40**은 [LG전자](../Page/LG전자.md "wikilink")가 [2014년 4월](../Page/2014년_4월.md "wikilink") 출시한 최저가형 스마트폰이다. WMC 2014에서 [LG L70](../Page/LG_L70.md "wikilink"), [LG L90과](../Page/LG_L90.md "wikilink") 같이 공개되었으며, [유럽](../Page/유럽.md "wikilink")에만 출시되었다.
 
-## 운영체제/소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 4.4.2 킷캣
 

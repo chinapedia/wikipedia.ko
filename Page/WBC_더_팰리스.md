@@ -59,7 +59,7 @@ WBC 더 팰리스는 오피스텔 단지이다. 편의시설은 실내사우나,
 
 ## 갤러리
 
-파일:Construction in Centum City.png|건립 과정의 사진. 파일:Gwangalli Beach.jpg|공사가 끝난 WBC 더 팰리스. 파일:Plaza in Front of BEXCO.png|벡스코 앞 광장.
+파일:Construction in Centum City.png|건립 과정의 사진. 파일:Gwangalli Beach.jpg|공사가 끝난 WBC 더 팰리스.
 
 ## 같이 보기
 
@@ -76,8 +76,8 @@ WBC 더 팰리스는 오피스텔 단지이다. 편의시설은 실내사우나,
 
 ## 외부 링크
 
-  - [WBC The Palace 1 - CTBUH Database](http://skyscrapercenter.com/building/wbc-the-palace-1/719/)
-  - [WBC The Palace 2 - CTBUH Database](http://skyscrapercenter.com/building/wbc-the-palace-2/720/)
+  - [WBC The Palace 1 - CTBUH Database](https://web.archive.org/web/20150920122322/http://skyscrapercenter.com/building/wbc-the-palace-1/719)
+  - [WBC The Palace 2 - CTBUH Database](https://web.archive.org/web/20150920172201/http://skyscrapercenter.com/building/wbc-the-palace-2/720)
 
 [분류:부산광역시의 아파트](https://ko.wikipedia.org/wiki/분류:부산광역시의_아파트 "wikilink") [분류:부산광역시의 오피스텔](https://ko.wikipedia.org/wiki/분류:부산광역시의_오피스텔 "wikilink") [분류:부산광역시의 마천루](https://ko.wikipedia.org/wiki/분류:부산광역시의_마천루 "wikilink") [분류:부산 해운대구의 건축물](https://ko.wikipedia.org/wiki/분류:부산_해운대구의_건축물 "wikilink")
 

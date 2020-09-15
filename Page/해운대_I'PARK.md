@@ -70,7 +70,7 @@
 
 ## 시설
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Haeundae-ipark-2012.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Yacht_in_front_of_Marine_City.png "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Centum_City_and_Gwangan_Bridge_at_Early_Morning.jpg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:Centum_City_and_Gwangan_Bridge_at_Early_Morning.jpg "wikilink")
 
 ### 타워 101동 (헬스존)
 
@@ -125,7 +125,7 @@
 
   - [언터처블에](../Page/언터처블_\(대한민국의_드라마\).md "wikilink") 북천시의 마린시티가 나온다.
   - [고독한 미식가](../Page/고독한_미식가.md "wikilink") 시즌8 연말스페셜에 나온다.
-  - [2020년](../Page/2020년.md "wikilink")에 방영된 SBS 드라마 [더 킹 : 영원의 군주에](https://ko.wikipedia.org/wiki/더_킹_:_영원의_군주 "wikilink") 대한제국, 1994년 겨울이 나온다. 대한제국, 부산 본궁 2019년 가을이 나온다.
+  - [2020년](../Page/2020년.md "wikilink")에 방영된 SBS 드라마 [더 킹 : 영원의 군주에](../Page/더_킹_:_영원의_군주.md "wikilink") 대한제국, 1994년 겨울이 나온다. 대한제국, 부산 본궁 2019년 가을이 나온다.
 
 ### 영화
 

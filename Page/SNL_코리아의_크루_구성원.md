@@ -525,7 +525,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/김소혜_(배우)" title="wikilink">김소혜</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김소혜_(1992년)" title="wikilink">김소혜</a></p></td>
 <td><p>2016</p></td>
 <td><p>1</p></td>
 <td></td>

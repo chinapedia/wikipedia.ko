@@ -3,7 +3,7 @@
 
 ***Lost Stars***(〈로스트 스타스〉)는 [마룬 5의](../Page/마룬_5.md "wikilink") 보컬리스트이자 [배우](../Page/배우.md "wikilink")인 [애덤 리바인의](../Page/애덤_리바인.md "wikilink") 노래로, 본래 뮤지컬 로맨틱 코메디 영화 《[비긴 어게인](../Page/비긴_어게인.md "wikilink")》의 배경음악이다. 2012년 여름 [미국](../Page/미국.md "wikilink") [뉴욕](../Page/뉴욕.md "wikilink")에서 녹음되었으며, 2014년 6월에 싱글 음반으로 발매되었다. 애덤 리바인 버전 외에도 [키이라 나이틀리가](../Page/키이라_나이틀리.md "wikilink") 부른 버전이 있다.
 
-[더 보이스 (미국의 텔레비전 프로그램)](../Page/더_보이스_\(미국의_텔레비전_프로그램\).md "wikilink") 시즌 7 피날레에서 [애덤 리바인과](../Page/애덤_리바인.md "wikilink") 팀원 맷 맥앤드류([McAndrew](https://en.wikipedia.org/wiki/Matt_McAndrew%7CMatt))가 같이 공연을 했고, [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 83위를 기록했다.
+[더 보이스 (미국의 텔레비전 프로그램)](../Page/더_보이스_\(미국의_텔레비전_프로그램\).md "wikilink") 시즌 7 피날레에서[애덤 리바인과](../Page/애덤_리바인.md "wikilink") 팀원 맷 맥앤드류([McAndrew](https://en.wikipedia.org/wiki/Matt_McAndrew%7CMatt))가 같이 공연을 했고, [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 83위를 기록했다.
 
 ## 수록 음반
 

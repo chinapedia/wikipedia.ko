@@ -401,7 +401,7 @@ align:left;">
 <td><p>スキキライ</p></td>
 <td><p>2013년 10월 1일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/후지타니_토우코" title="wikilink">후지타니 토우코</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041010297" title="wikilink">ISBN 978-4-041-01029-7</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041010297" title="wikilink">ISBN 978-4-04-101029-7</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -409,7 +409,7 @@ align:left;">
 <td><p>2014년 2월 1일</p></td>
 <td><p>후지타니 토우코<br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041012031" title="wikilink">ISBN 978-4-041-01203-1</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041012031" title="wikilink">ISBN 978-4-04-101203-1</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -417,7 +417,7 @@ align:left;">
 <td><p>2014년 6월 1일</p></td>
 <td><p>후지타니 토우코<br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041015773" title="wikilink">ISBN 978-4-041-01577-3</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041015773" title="wikilink">ISBN 978-4-04-101577-3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -425,7 +425,7 @@ align:left;">
 <td><p>2014년 11월 1일</p></td>
 <td><p>후지타니 토우코<br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041015780" title="wikilink">ISBN 978-4-041-01578-0</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041015780" title="wikilink">ISBN 978-4-04-101578-0</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -433,14 +433,14 @@ align:left;">
 <td><p>2015년 7월 1일</p></td>
 <td><p>후지타니 토우코<br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041025116" title="wikilink">ISBN 978-4-041-02511-6</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041025116" title="wikilink">ISBN 978-4-04-102511-6</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p>告白予行練習　恋色に咲け</p></td>
 <td><p>2016년 4월 1일</p></td>
 <td><p>후지타니 토우코, <a href="https://ko.wikipedia.org/wiki/코우사카_마리" title="wikilink">코우사카 마리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041038390" title="wikilink">ISBN 978-4-041-03839-0</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784041038390" title="wikilink">ISBN 978-4-04-103839-0</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -451,7 +451,7 @@ align:left;">
 
 |   | 타이틀                     | 발매일         | 저자      | ISBN                                                                                                     |
 | - | ----------------------- | ----------- | ------- | -------------------------------------------------------------------------------------------------------- |
-| 1 | ずっと前から好きでした。\~告白実行委員会\~ | 2016년 4월 5일 | 코우사카 마리 | [ISBN 978-4-046-31589-2](https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784046315892 "wikilink") |
+| 1 | ずっと前から好きでした。\~告白実行委員会\~ | 2016년 4월 5일 | 코우사카 마리 | [ISBN 978-4-04-631589-2](https://ko.wikipedia.org/wiki/:ja:Special:BookSources/9784046315892 "wikilink") |
 
 ## 출처
 
@@ -461,7 +461,7 @@ align:left;">
 
   - <span class="official-website" contenteditable="false"></span>
 
-  - [HoneyWorksオフィシャルブログ - Powered by LINE](http://lineblog.me/honeyworks828/) (2015年11月19日～)
+  - [HoneyWorksオフィシャルブログ - Powered by LINE](https://web.archive.org/web/20160528152535/http://lineblog.me/honeyworks828//) (2015年11月19日～)
 
   -
 [분류:VOCALOID 음악가](https://ko.wikipedia.org/wiki/분류:VOCALOID_음악가 "wikilink") [분류:애니메이션 음악 작곡가](https://ko.wikipedia.org/wiki/분류:애니메이션_음악_작곡가 "wikilink") [분류:니코니코 동화](https://ko.wikipedia.org/wiki/분류:니코니코_동화 "wikilink") [분류:일본의 음악가](https://ko.wikipedia.org/wiki/분류:일본의_음악가 "wikilink")

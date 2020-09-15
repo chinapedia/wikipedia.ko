@@ -138,7 +138,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013년 7월 27일</p></td>
-<td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/동경" title="wikilink">동경</a></p></td>
 <td></td>
 <td><p><a href="../Page/도쿄_돔.md" title="wikilink">도쿄 돔</a>[13]</p></td>
 <td><p>통산 110,468명</p></td>
@@ -166,7 +166,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013년 8월 10일</p></td>
-<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">대북</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[15]</p></td>
 <td><p>통산 35,024명</p></td>
@@ -187,14 +187,14 @@
 </tr>
 <tr class="even">
 <td><p>2013년 8월 24일</p></td>
-<td><p><a href="../Page/상하이시.md" title="wikilink">상하이</a></p></td>
+<td><p><a href="../Page/상하이시.md" title="wikilink">상해</a></p></td>
 <td></td>
 <td><p>메르세데스 벤츠 아레나[16]</p></td>
 <td><p>13,653명</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013년 9월 14일</p></td>
-<td><p><a href="../Page/광저우시.md" title="wikilink">광저우</a></p></td>
+<td><p><a href="../Page/광저우시.md" title="wikilink">광주</a></p></td>
 <td><p>광저우 인터내셔널 스포츠 아레나[17]</p></td>
 <td><p>13,436명</p></td>
 <td></td>
@@ -243,7 +243,7 @@
 </tr>
 <tr class="even">
 <td><p>2013년 11월 15일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대판" title="wikilink">대판</a></p></td>
 <td></td>
 <td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a>[21]</p></td>
 <td><p>통산 100,592명</p></td>
@@ -271,7 +271,7 @@
 </tr>
 <tr class="even">
 <td><p>2014년 2월 22일</p></td>
-<td><p><a href="../Page/베이징시.md" title="wikilink">베이징</a></p></td>
+<td><p><a href="../Page/베이징시.md" title="wikilink">북경</a></p></td>
 <td></td>
 <td><p>캐피탈 인도어 스타디움[23]</p></td>
 <td><p>13,896명</p></td>

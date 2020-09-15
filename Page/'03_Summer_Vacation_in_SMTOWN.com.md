@@ -21,7 +21,7 @@
 ## 수록곡
 
   - <small>〈I Pray 4 You〉는 신화의 2002년 발매된 5집 《[Perfect Man](../Page/Perfect_Man.md "wikilink")》 수록곡이다.</small>
-  - <small>〈그대에게〉는 신해철의 곡으로, 이 곡을 통해서 1988년 [MBC 대학가요제‎에](https://ko.wikipedia.org/wiki/MBC_대학가요제‎ "wikilink") 그가 친구들과 결성한 그룹 [무한궤도로](../Page/무한궤도_\(밴드\).md "wikilink") 출전해 대상을 수상하였다.</small>
+  - <small>〈그대에게〉는 신해철의 곡으로, 이 곡을 통해서 1988년 [MBC 대학가요제에](../Page/MBC_대학가요제.md "wikilink") 그가 친구들과 결성한 그룹 [무한궤도로](../Page/무한궤도_\(밴드\).md "wikilink") 출전해 대상을 수상하였다.</small>
 
 ## 각주
 

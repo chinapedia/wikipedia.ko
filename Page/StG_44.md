@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [StG 44](https://ko.wikipedia.org/wiki/StG_44).
 
 
-**44년형 돌격소총**()은 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 때 독일군에게 제식화된 [돌격소총](../Page/돌격소총.md "wikilink")이이며 현대의 모든 돌격소총의 기본이된 사상최초의 "돌격소총"이다. 2차대전당시 "기관기총(Maschinenkarabiner)" 계획에 의해 개발된 소총의 최종 형태로, StG44가 개발되기 전까지 Mkb42(H), MP43 기관단총 (Machinenpistole43), MP44 기관단총 (Machinenpistole44)이란 프로토타입이 존재하나 최종적으로는 StG44로서 양산되었다. StG44의 설계, 배치와 사용은 보병용 소화기의 일대 혁신을 가져왔으며 오늘날의 근대적인 돌격소총의 선구적인 모델로 평가된다.
+**44년형 돌격소총**()은 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 때 독일군에게 제식화된 [돌격소총](../Page/돌격소총.md "wikilink")이이며 현대의 모든 돌격소총의 기본이된 사상최초의 "돌격소총"이다. 2차대전당시 "기관기총(Maschinenkarabiner)" 계획에 의해 개발된 소총의 최종 형태로, StG44가 개발되기 전까지 Mkb42(H), MP43 기관단총 (Machinenpistole43), MP44 기관단총 (Machinenpistole44)이란 프로토타입이 존재하나 최종적으로는 StG44로서 양산되었다. StG44의 설계, 배치와 사용은 보병용 소화기의 일대 혁신을 가져왔으며 오늘날의 근대적인 돌격소총의 선구적인 모델로 평가된다. 옛날에는 돌격소총의 아버지로 불렸다.
 
 ## 개발
 

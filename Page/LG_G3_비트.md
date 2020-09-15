@@ -3,7 +3,7 @@
 
 **LG G3 비트**(LG G3 Beat)는 [LG전자](../Page/LG전자.md "wikilink")가 2014년 7월 19일에 출시\[1\]한 [LG G3의](../Page/LG_G3.md "wikilink") 보급형 [패블릿](../Page/패블릿.md "wikilink") [스마트폰](../Page/스마트폰.md "wikilink")이다.
 
-## 운영체제 업그레이드
+## 운영체제 / 소프트웨어
 
 ### 안드로이드 4.4.2 킷캣
 

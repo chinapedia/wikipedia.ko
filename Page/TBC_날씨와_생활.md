@@ -5,10 +5,10 @@
 
 ## 진행자
 
-  - 1대 : [배효성](../Page/배효성.md "wikilink") 기상캐스터
-  - 2대 : [조서연](../Page/조서연.md "wikilink") 기상캐스터
-  - 3대 : [이채린](https://ko.wikipedia.org/wiki/이채린 "wikilink") 기상캐스터
-  - 4대 : [배효성](../Page/배효성.md "wikilink") 기상캐스터
+  - 1대 : [배효성](https://ko.wikipedia.org/wiki/배효성_\(기상_캐스터\) "wikilink") 기상 캐스터
+  - 2대 : [조서연](../Page/조서연.md "wikilink") 기상 캐스터
+  - 3대 : [이채린](https://ko.wikipedia.org/wiki/이채린 "wikilink") 기상 캐스터
+  - 4대 : [배효성](https://ko.wikipedia.org/wiki/배효성_\(기상_캐스터\) "wikilink") 기상 캐스터
 
 ## 코너
 
@@ -21,4 +21,4 @@
   - [TBC 홈페이지](http://www.tbc.co.kr)
   - [TBC 날씨와 생활 홈페이지](http://www.tbc.co.kr/tbc_news/n14_spec_life.html)
 
-[분류:대구방송의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대구방송의_텔레비전_프로그램 "wikilink")
+[분류:TBC의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:TBC의_텔레비전_프로그램 "wikilink")

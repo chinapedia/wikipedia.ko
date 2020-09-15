@@ -37,8 +37,8 @@
   - 일요법회 (재방송) (일요일) ([WBS 대구원음방송](../Page/대구원음방송.md "wikilink"))
   - 이익선의 아름다운 초대 (평일) ([BBS 대구불교방송](../Page/대구불교방송.md "wikilink"))
   - 김혜옥의 아름다운 초대 (주말) ([BBS 대구불교방송](../Page/대구불교방송.md "wikilink"))
-  - 시사하는바가 크다 (평일) ([TBN 대구교통방송](../Page/대구교통방송.md "wikilink")), ([TBN 경북교통방송](https://ko.wikipedia.org/wiki/경북교통방송 "wikilink"))
-  - TBN 교통시대 (주말) ([TBN 대구교통방송](../Page/대구교통방송.md "wikilink")), ([TBN 경북교통방송](https://ko.wikipedia.org/wiki/경북교통방송 "wikilink"))
+  - 시사하는바가 크다 (평일) ([TBN 대구교통방송](../Page/대구교통방송.md "wikilink")), ([TBN 경북교통방송](../Page/경북교통방송.md "wikilink"))
+  - TBN 교통시대 (주말) ([TBN 대구교통방송](../Page/대구교통방송.md "wikilink")), ([TBN 경북교통방송](../Page/경북교통방송.md "wikilink"))
 
 ### AM방송
 
@@ -63,7 +63,7 @@
 
 ## 각주
 
-[분류:대구방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:대구방송의_라디오_프로그램 "wikilink")
+[분류:TBC의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:TBC의_라디오_프로그램 "wikilink")
 
 1.  2020년 1월 28일부터 릴레이.
 2.  수도권 방송.

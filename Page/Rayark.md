@@ -11,7 +11,7 @@
   - [Deemo](../Page/Deemo.md "wikilink") - 2013년 11월 13일 애플 앱스토어에 처음 나왔고, 12월 26일 안드로이드 버전으로도 발매되었다.\[6\]
       - Deemo \~마지막 리사이틀\~ - [PS Vita](https://ko.wikipedia.org/wiki/PS_Vita "wikilink") 버전 Deemo 시리즈 게임이다.\[7\]
       - Deemo \~reborn\~ - 2019년 11월 21일 발매된 [PS4](https://ko.wikipedia.org/wiki/PS4 "wikilink")/[PS VR](https://ko.wikipedia.org/wiki/PS_VR "wikilink") 버전 게임이다.
-  - [Implosion](https://ko.wikipedia.org/wiki/임플로전 "wikilink") - 2015년 4월 9일 iOS 버전으로, 4월 26일 안드로이드 버전으로 발매되었다.\[8\]
+  - [Implosion](https://ko.wikipedia.org/wiki/임플로전_\(비디오_게임\) "wikilink") - 2015년 4월 9일 iOS 버전으로, 4월 26일 안드로이드 버전으로 발매되었다.\[8\]
   - [VOEZ](https://ko.wikipedia.org/wiki/VOEZ "wikilink") - 2016년 5월 26일 iOS 버전으로, 6월 2일 안드로이드 버전으로 발매되었다.
   - [Cytus II](https://ko.wikipedia.org/wiki/Cytus_II "wikilink") - 2018년 1월 18일 앱스토어에 처음 나왔다.\[9\]
   - [Sdorica](https://ko.wikipedia.org/wiki/스도리카 "wikilink") - 2018년 4월 19일 앱스토어와 구글 플레이에서 동시 발매되었다.\[10\]

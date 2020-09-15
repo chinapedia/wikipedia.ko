@@ -338,7 +338,7 @@ end
 `   if not long_d then`
 `       return nil, {{"parseDMS", "위도 값이 없습니다" }}`
 `   elseif not tonumber(long_d) then`
-`       return nil, {{"parseDMS", "Longitude could not be parsed as a number:" .. long_d }}`
+`       return nil, {{"parseDMS", "위도를 숫자로 처리할 수 없습니다:" .. long_d }}`
 `   end`
 `   `
 `   if not lat_m and not lat_s and not long_m and not long_s and #errors == 0 then `

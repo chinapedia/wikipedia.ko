@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BBC 컴리 웨일스](https://ko.wikipedia.org/wiki/BBC_컴리_웨일스).
 
 
-[200px](https://ko.wikipedia.org/wiki/파일:BBC_Cymru_Wales.png "wikilink") **BBC 컴리 웨일스**(BBC Cymru Wales, **BBC 웨일스**()와 **BBC 컴리**()의 병행표기)는 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 지부이자 [웨일스](../Page/웨일스.md "wikilink") 전역을 대상으로 한 국영방송이다.\[1\] 1964년에 설립된 BBC 컴리 웨일스는 [카디프](../Page/카디프.md "wikilink")에 본사를 두고 있으며, 텔레비전, 라디오, 온라인 방송에서 영어와 웨일스어로 된 다양한 프로그램을 제작하기 위해 1,200명의 직원들을 직접 고용하고 있다.\[2\]
+[200px](https://ko.wikipedia.org/wiki/파일:BBC_Cymru_Wales.png "wikilink") **BBC 컴리 웨일스**(BBC Cymru Wales, **BBC 웨일스**()와 **BBC 컴리**()의 병행표기)는 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 지부이자 [웨일스](../Page/웨일스.md "wikilink") 전역을 대상으로 한 국영방송이다.\[1\] 1964년에 설립된 BBC 컴리 웨일스는 [카디프](../Page/카디프.md "wikilink")에 본사를 두고 있으며, 텔레비전, 라디오, 온라인 방송에서 영어와 [웨일스](../Page/웨일스.md "wikilink")어로 된 다양한 프로그램을 제작하기 위해 1,200명의 직원들을 직접 고용하고 있다.\[2\]
 
 ## 방송
 

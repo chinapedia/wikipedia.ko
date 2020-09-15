@@ -14,7 +14,7 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.fcpetrolul.ro/)
+  - [공식 홈페이지](https://web.archive.org/web/20130805165504/http://fcpetrolul.ro/)
   - [서포터 홈페이지](http://www.doarpetrolul.ro/)
 
 [분류:루마니아의 축구단](https://ko.wikipedia.org/wiki/분류:루마니아의_축구단 "wikilink") [분류:FC 페트롤룰 플로이에슈티](https://ko.wikipedia.org/wiki/분류:FC_페트롤룰_플로이에슈티 "wikilink") [분류:1924년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1924년_설립된_축구단 "wikilink")

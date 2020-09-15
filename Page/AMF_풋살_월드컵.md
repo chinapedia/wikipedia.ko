@@ -231,4 +231,4 @@
 
 [분류:AMF 풋살 월드컵](https://ko.wikipedia.org/wiki/분류:AMF_풋살_월드컵 "wikilink")
 
-1.  라운드 로빈 방식으로 치뤄짐
+1.  라운드 로빈 방식으로 치러짐

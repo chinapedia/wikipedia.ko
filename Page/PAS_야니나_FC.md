@@ -9,7 +9,7 @@
 
 ## 외부 링크
 
-  - [공식 홈페이지](http://www.pasgiannina.gr/)
+  - [공식 홈페이지](https://web.archive.org/web/20130822131354/http://www.pasgiannina.gr/)
 
 [PAS_야니나_FC](https://ko.wikipedia.org/wiki/분류:PAS_야니나_FC "wikilink") [분류:1966년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1966년_설립된_축구단 "wikilink") [분류:그리스의 축구단](https://ko.wikipedia.org/wiki/분류:그리스의_축구단 "wikilink")
 

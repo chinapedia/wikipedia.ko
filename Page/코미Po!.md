@@ -103,7 +103,7 @@
 
   - [오늘닷컴 페이지](http://comicsin.oneul.com)
   - [comee의 코미Po\! 페이지](http://www.comee.jp/genre/comipochan/)
-  - [Puboo 페이지](http://p.booklog.jp/)
+  - [Puboo 페이지](https://web.archive.org/web/20150617061355/http://p.booklog.jp/)
 
 [분류:그래픽 소프트웨어](https://ko.wikipedia.org/wiki/분류:그래픽_소프트웨어 "wikilink")
 

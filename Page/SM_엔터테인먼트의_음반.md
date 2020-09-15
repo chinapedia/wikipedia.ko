@@ -1040,7 +1040,7 @@
   - 2019년 7월 19일 NCT 127 - **\[Digital Single\] Highway to Heaven**
   - 2019년 7월 20일 효연 - **\[Digital Single\] Badster**
   - 2019년 7월 21일 태연 - **호텔 델루나 OST Part.3**
-  - 2019년 7월 22일 [EXO-SC](https://ko.wikipedia.org/wiki/EXO-SC "wikilink") - **What a life**
+  - 2019년 7월 22일 [EXO-SC](../Page/EXO-SC.md "wikilink") - **What a life**
   - 2019년 7월 26일 NCT DREAM - **WE BOOM**
   - 2019년 8월 2일 [레이든](../Page/레이든_\(음악_프로듀서\).md "wikilink") - **\[Digital Single\] The Only**\[150\]
   - 2019년 8월 5일 케이준 - **\[Digital Single\] Friday**
@@ -1107,9 +1107,38 @@
   - 2020년 5월 25일 백현 - **Delight**
   - 2020년 5월 31일 긴조 - **\[Digital Single\] The Riot**
   - 2020년 6월 1일 레이 - **蓮 (LIT) Part.1**
+  - 2020년 6월 5일 효연 - **GOOD GIRL Episode 1**\[161\]
   - 2020년 6월 8일 슈퍼주니어-K.R.Y. - **푸르게 빛나던 우리의 계절**
+  - 2020년 6월 9일 NCT DREAM - **THE DREAM SHOW - The 1st Live Album**
   - 2020년 6월 9일 WayV - **Awaken The World**
-  - 2020년 7월 ?일 [아이린&슬기](https://ko.wikipedia.org/wiki/아이린&슬기 "wikilink") - **Monster**
+  - 2020년 6월 19일 NCT DREAM - **\[Digital Single\] Ridin’ 리믹스**\[162\]
+  - 2020년 6월 22일 조미 - **\[Digital Single\] Starry Night**
+  - 2020년 6월 26일 태연 - **\[Digital Single\] Happy(Summer Version)**\[163\]
+  - 2020년 7월 6일 [레드벨벳-아이린&슬기](https://ko.wikipedia.org/wiki/레드벨벳-아이린&슬기 "wikilink") - **Monster**
+  - 2020년 7월 7일 EXO-SC - **\[Digital Single\] 척**\[164\]
+  - 2020년 7월 9일 레이 - **\[Digital Single\] 蹦(Boom)**\[165\]
+  - 2020년 7월 13일 EXO-SC - **10억뷰**
+  - 2020년 7월 22일 DJ HYO - **\[Digital Single\] DESSERT**
+  - 2020년 7월 23일 규현 - **\[Digital Single\] Dreaming**\[166\]
+  - 2020년 7월 24일 예리 - **\[Digital Single\] 피버뮤직 2020 쿨 썸머 프로젝트 Vol.1 ‘해변의 여인’**\[167\]
+  - 2020년 7월 29일 WayV - **\[Digital Single\] Bad Alive (English Ver.)**
+  - 2020년 7월 31일 레드벨벳-아이린&슬기 - **\[Digital Single\] iScreaM Vol.3 : 놀이 (Naughty) Remix**
+  - 2020년 7월 31일 백현 - **\[Digital Single\] 공중정원**\[168\]
+  - 2020년 8월 4일 태민 - **\[Digital Single\] Never Gonna Dance Again : Prologue**\[169\]
+  - 2020년 8월 7일 예리 - **\[Digital Single\] 피버뮤직 2020 쿨 썸머 프로젝트 Vol.3 ‘애상’**\[170\]
+  - 2020년 8월 14일 Super M - **\[Digital Single\] 100**
+  - 2020년 8월 21일 레드벨벳 - **\[Digital Single\] Milky Way**\[171\]
+  - 2020년 8월 23일 규현 - **\[Digital Single\] 내 마음이 움찔했던 순간 (취향저격 그녀 X 규현)**
+  - 2020년 8월 28일 EXO-SC - **\[Digital Single\] iScreaM Vol.4 : 10억뷰 (1 Billion Views) Remix**
+  - 2020년 8월 28일 [SM Classics TOWN Orchestra](https://ko.wikipedia.org/wiki/SM_Classics_TOWN_Orchestra "wikilink") - **\[Digital Single\] Our Beloved BoA \#5 - SM STATION**
+  - 2020년 9월 1일 Super M - **\[Digital Single\] 호랑이**
+  - 2020년 9월 3일 슈퍼주니어-D\&E - **BAD BLOOD**
+  - 2020년 9월 7일 태민 - **Never Gonna Dance Again : Act 1**
+  - 2020년 9월 25일 Super M - **Super One**
+  - 2020년 ?월 ?일 태민 - **Never Gonna Dance Again : Act 2**
+  - 2020년 ?월 ?일 [카이](../Page/카이_\(1994년\).md "wikilink") - **미정**
+  - 2020년 ?월 ?일 레드벨벳 - **미정**
+  - 2020년 ?월 ?일 샤이니 - **미정**
 
 ## 각주
 
@@ -1236,7 +1265,7 @@
 119. 샤이니의 데뷔 10주년 앨범.
 120.
 121.
-122. [양다일](https://ko.wikipedia.org/wiki/양다일 "wikilink")도 앨범 참여.
+122. [양다일](../Page/양다일.md "wikilink")도 앨범 참여.
 123. [멜로망스](../Page/멜로망스.md "wikilink")도 앨범 참여. 'STATION X 0'(스테이션 영)의 첫 번째 주인공.
 124. [로꼬](../Page/로꼬.md "wikilink")도 앨범 참여. 'STATION X O'(스테이션 영)의 두 번째 주인공.
 125. 'STATION X O'(스테이션 영)의 세 번째 주인공.
@@ -1275,3 +1304,14 @@
 158. [수란](https://ko.wikipedia.org/wiki/수란 "wikilink")도 앨범 참여.
 159. [Sokodomo](https://ko.wikipedia.org/wiki/Sokodomo "wikilink")도 앨범 참여.
 160. [블락비](../Page/블락비.md "wikilink")의 멤버 [지코](../Page/지코.md "wikilink")도 앨범 참여.
+161. [YUNHWAY](https://ko.wikipedia.org/wiki/YUNHWAY "wikilink"),[15&](../Page/15&.md "wikilink")의 멤버 [제이미](https://ko.wikipedia.org/wiki/제이미_\(가수\) "wikilink"),[슬릭](../Page/슬릭_\(래퍼\).md "wikilink"),[Jhnovr](https://ko.wikipedia.org/wiki/Jhnovr "wikilink"),[Lil Tachi](https://ko.wikipedia.org/wiki/Lil_Tachi "wikilink"),[이영지](https://ko.wikipedia.org/wiki/이영지 "wikilink"),[치타](../Page/치타_\(가수\).md "wikilink"),[한요한](../Page/한요한.md "wikilink"),[UPT의](../Page/UPT_\(음악_그룹\).md "wikilink") 멤버 [스윙스](../Page/스윙스.md "wikilink")도 앨범 참여.
+162. EDM 레이블 ScreaM Records(스크림 레코즈)가 진행하는 ‘iScreaM’(아이스크림) 프로젝트.
+163. SM STATION 앨범.
+164. 첫 정규앨범 선공개곡.
+165. 蓮 (LIT) Part.2 선공개곡.
+166. PROJECT : 季 앨범.
+167. [빅스의](../Page/빅스_\(음악_그룹\).md "wikilink") 멤버 [라비](../Page/라비_\(가수\).md "wikilink"),[AB6IX](../Page/AB6IX.md "wikilink")의 멤버 [전웅](../Page/전웅.md "wikilink")도 앨범 참여.
+168. 보아 20주년 기념 프로젝트 '아워 비러브드 보아'(Our Beloved BoA) 앨범.
+169. 정규 3집 선공개곡.
+170. [빅스의](../Page/빅스_\(음악_그룹\).md "wikilink") 멤버 [라비](../Page/라비_\(가수\).md "wikilink"),[업텐션](../Page/업텐션.md "wikilink")의 멤버 [김우석](https://ko.wikipedia.org/wiki/김우석 "wikilink")도 앨범 참여.
+171. 보아 20주년 기념 프로젝트 '아워 비러브드 보아'(Our Beloved BoA) 앨범.

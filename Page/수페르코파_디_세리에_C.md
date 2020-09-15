@@ -36,7 +36,7 @@
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/FC_크로토네.md" title="wikilink">크로토네</a><br />
 </p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스타디오_아르테미오_프란키_(시에나)" title="wikilink">스타디오 아르테미오 프란키</a>,<br />
+<td><p><a href="../Page/스타디오_아르테미오_프란키_(시에나).md" title="wikilink">스타디오 아르테미오 프란키</a>,<br />
 <a href="../Page/시에나.md" title="wikilink">시에나</a></p></td>
 <td></td>
 </tr>
@@ -83,7 +83,7 @@
 <td><p><strong><a href="../Page/AS_리보르노_칼초.md" title="wikilink">리보르노</a></strong></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아스콜리_칼초_1898" title="wikilink">아스콜리</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스타디오_아르만도_피키" title="wikilink">스타디오 아르만도 피키</a>,<br />
+<td><p><a href="../Page/스타디오_아르만도_피키.md" title="wikilink">스타디오 아르만도 피키</a>,<br />
 <a href="../Page/리보르노.md" title="wikilink">리보르노</a></p></td>
 <td></td>
 </tr>

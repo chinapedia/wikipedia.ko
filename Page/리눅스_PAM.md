@@ -21,7 +21,7 @@
 
   - [Linux-PAM page](http://www.linux-pam.org/)
   - [pam.d(8) - Linux man page](http://linux.die.net/man/8/pam.d)
-  - [Development site for the Linux-PAM project](https://fedorahosted.org/linux-pam/)
+  - [Development site for the Linux-PAM project](https://web.archive.org/web/20160121042810/https://fedorahosted.org/linux-pam/)
   - [*Understanding PAM*, by A.P. Lawrence](http://aplawrence.com/Basics/understandingpam.html)
 
 [분류:리눅스 커널 특징](https://ko.wikipedia.org/wiki/분류:리눅스_커널_특징 "wikilink")

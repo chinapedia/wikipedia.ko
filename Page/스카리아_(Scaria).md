@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [스카리아 \(Scaria\)](https://ko.wikipedia.org/wiki/스카리아_\(Scaria\)).
 
 
-《**스카리아 (Scaria)**》는 [헌터리아](../Page/헌터리아.md "wikilink")의 네 번째 디지털 싱글 앨범이다.
+**\<스카리아 (Scaria)**》는 [헌터리아](../Page/헌터리아.md "wikilink")의 네 번째 디지털 싱글 앨범이다.
 
 ## 수록곡
 

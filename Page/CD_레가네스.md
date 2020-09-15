@@ -27,4 +27,4 @@ RB
   - [구리몽](https://ko.wikipedia.org/wiki/구리몽 "wikilink")
   - [우나이 부스틴자](https://ko.wikipedia.org/wiki/우나이_부스틴자 "wikilink")
 
-[CD_레가네스](https://ko.wikipedia.org/wiki/분류:CD_레가네스 "wikilink") [분류:1928년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1928년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:마드리드 지방의 축구단](https://ko.wikipedia.org/wiki/분류:마드리드_지방의_축구단 "wikilink")
+[CD_레가네스](https://ko.wikipedia.org/wiki/분류:CD_레가네스 "wikilink") [분류:1928년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1928년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:마드리드주의 축구단](https://ko.wikipedia.org/wiki/분류:마드리드주의_축구단 "wikilink")

@@ -29,20 +29,21 @@
 
 ## 진행자
 
-  - 박민설, 박철규
+  - 7대 박철규 아나운서 (남)
+  - 7대 박민설 아나운서 (여)
 
 ### 역대 진행자
 
 #### 남성
 
-| 역대 | 진행자                                                               | 진행 기간                                                                                                                                                      | 비고                    |
-| -- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| 1대 | 황범 아나운서                                                           | [2006년](../Page/2006년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink") |                       |
-| 2대 | 문근해 아나운서                                                          | [2007년](../Page/2007년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") |                       |
-| 3대 | 홍순빈 아나운서                                                          | [2015년](../Page/2015년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink") |                       |
-| 4대 | [이현동](https://ko.wikipedia.org/wiki/이현동_\(아나운서\) "wikilink") 아나운서 | [2017년](../Page/2017년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink")   | \[2\]\[3\]            |
-| 5대 | 현승훈 아나운서                                                          | [2017년](../Page/2017년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") \~ 2017년 [6월 30일](../Page/6월_30일.md "wikilink")                                |                       |
-| 6대 | 김제현 아나운서                                                          | [2017년](../Page/2017년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink") | \[4\] |-align="center |
+| 역대 | 진행자                                                                 | 진행 기간                                                                                                                                                          | 비고                    |
+| -- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| 1대 | 황범 아나운서                                                             | [2006년](../Page/2006년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink")     |                       |
+| 2대 | 문근해 아나운서                                                            | [2007년](../Page/2007년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink")     |                       |
+| 3대 | 홍순빈 前 아나운서                                                          | [2015년](../Page/2015년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") |                       |
+| 4대 | [이현동](https://ko.wikipedia.org/wiki/이현동_\(아나운서\) "wikilink") 前 아나운서 | [2016년](../Page/2016년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink")       | \[2\]\[3\]            |
+| 5대 | 현승훈 아나운서                                                            | [2017년](../Page/2017년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") \~ 2017년 [6월 30일](../Page/6월_30일.md "wikilink")                                    |                       |
+| 6대 | 김제현 아나운서                                                            | [2017년](../Page/2017년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [11월 29일](../Page/11월_29일.md "wikilink")     | \[4\] |-align="center |
 
 #### 여성
 
@@ -52,9 +53,9 @@
 | 2대 | 김지혜 아나운서 | [2007년](../Page/2007년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [11월 16일](../Page/11월_16일.md "wikilink") |       |
 | 3대 | 권은경 아나운서 | [2007년](../Page/2007년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink")   |       |
 | 4대 | 박소영 아나운서 | [2009년](../Page/2009년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink")     |       |
-| 5대 | 김수산 아나운서 | [2012년](../Page/2012년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") 일자 미상                                  |       |
-| 6대 | 조은화 아나운서 | [2014년](../Page/2014년.md "wikilink") 일자 미상 \~ [2016년](../Page/2016년.md "wikilink") 일자 미상                                                                     |       |
-| 7대 | 박민설 아나운서 | [2016년](../Page/2016년.md "wikilink") 일자 미상 \~ **현재**                                                                                                         | \[5\] |
+| 5대 | 김수산 아나운서 | [2012년](../Page/2012년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [2월](../Page/2월.md "wikilink")         |       |
+| 6대 | 조은화 아나운서 | [2014년](../Page/2014년.md "wikilink") 일자 미상 \~ [2016년](../Page/2016년.md "wikilink") [1월](../Page/1월.md "wikilink")일자 미상                                       |       |
+| 7대 | 박민설 아나운서 | [2016년](../Page/2016년.md "wikilink") [2월](../Page/2월.md "wikilink")일자 미상 \~ **현재**                                                                           | \[5\] |
 | 8대 | 김유영 리포터  | [2019년](../Page/2019년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink")     | \[6\] |
 
 ## 타이틀 변천사
@@ -88,8 +89,8 @@
 [분류:KNN의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_텔레비전_프로그램 "wikilink")
 
 1.  2017년 10월 23일부터 10월 27일까지는 No.1 한류축제 2017 부산원아시아페스티벌 생방송 관계로 결방되었다.
-2.  [이현동](https://ko.wikipedia.org/wiki/이현동_\(아나운서\) "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2017년](../Page/2017년.md "wikilink") [5월 4일](../Page/5월_4일.md "wikilink") 방송분은 박민설 아나운서가 단독으로 진행했다.
-3.  [이현동](https://ko.wikipedia.org/wiki/이현동_\(아나운서\) "wikilink") 아나운서는 [2017년](../Page/2017년.md "wikilink") [5월 15일까지](../Page/5월_15일.md "wikilink") 박민설 아나운서와 함께 생방송 여기는 정보센터를 진행할 예정이었으나, [2017년](../Page/2017년.md "wikilink") [5월 10일에](../Page/5월_10일.md "wikilink") 갑작스러운 사정으로 인해 생방송 여기는 정보센터에서 하차하게 되어, [2017년](../Page/2017년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") 방송분은 KNN 생방송 투데이의 2대 남성 앵커인 문근해 아나운서가 대신 진행했고, [2017년](../Page/2017년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 방송분은 박민설 아나운서가 단독으로 진행했다.
+2.  [이현동](https://ko.wikipedia.org/wiki/이현동_\(아나운서\) "wikilink") 前 아나운서의 휴가 또는 출장으로 인하여, [2017년](../Page/2017년.md "wikilink") [5월 4일](../Page/5월_4일.md "wikilink") 방송분은 박민설 아나운서가 단독으로 진행했다.
+3.  [이현동](https://ko.wikipedia.org/wiki/이현동_\(아나운서\) "wikilink") 前 아나운서는 [2017년](../Page/2017년.md "wikilink") [5월 15일까지](../Page/5월_15일.md "wikilink") 박민설 아나운서와 함께 생방송 여기는 정보센터를 진행할 예정이었으나, [2017년](../Page/2017년.md "wikilink") [5월 10일에](../Page/5월_10일.md "wikilink") 갑작스러운 사정으로 인해 생방송 여기는 정보센터에서 하차하게 되어, [2017년](../Page/2017년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [5월 15일](../Page/5월_15일.md "wikilink") 방송분은 KNN 생방송 투데이의 2대 남성 앵커인 문근해 아나운서가 대신 진행했고, [2017년](../Page/2017년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 방송분은 박민설 아나운서가 단독으로 진행했다.
 4.  김제현 아나운서의 휴가로 인하여, [2019년](../Page/2019년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") 방송분은 탤런트 김원범이 대신 진행했다.
 5.  박민설 아나운서의 겨울 휴가로 인하여, [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") 방송분은 [KNN 모닝와이드의](../Page/KNN_모닝와이드.md "wikilink") 앵커인 [이하윤](https://ko.wikipedia.org/wiki/이하윤_\(아나운서\) "wikilink") 아나운서가 대신 진행했다.
 6.  김유영 리포터의 휴가로 인하여, [2019년](../Page/2019년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") 방송분은 [이재원](https://ko.wikipedia.org/wiki/이재원 "wikilink") 기상캐스터가 대신 진행했고, [2019년](../Page/2019년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink") 방송분은 탤런트 김원범이 대신 진행했다.

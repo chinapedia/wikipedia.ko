@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Jae](https://ko.wikipedia.org/wiki/Jae).
 
 
-**Jae**([1992년](../Page/1992년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") \~ ), 또는 영어명 **제이 박**(), 한국어명 **박제형**은 [한국계 미국인](../Page/한국계_미국인.md "wikilink") 가수이며 [DAY6](../Page/DAY6.md "wikilink")의 일원으로 활동하고 있다. [속지주의](https://ko.wikipedia.org/wiki/속지주의 "wikilink") 국가 [아르헨티나](../Page/아르헨티나.md "wikilink")에서 태어나고 곧바로 이사하여 [캐나다](../Page/캐나다.md "wikilink")를 거친 후 [미국](../Page/미국.md "wikilink") [캘리포니아 주에](https://ko.wikipedia.org/wiki/캘리포니아_주 "wikilink") 정착하여 자랐으며 [미국](../Page/미국.md "wikilink") [국적을](https://ko.wikipedia.org/wiki/시민권 "wikilink") 취득했다.
+**Jae**([1992년](../Page/1992년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") \~ ), 또는 본명 **제이 박**(), 한국어명 **박제형**은 [한국계 미국인](../Page/한국계_미국인.md "wikilink") 가수이며 [DAY6](../Page/DAY6.md "wikilink")의 일원으로 활동하고 있다. [속지주의](https://ko.wikipedia.org/wiki/속지주의 "wikilink") 국가 [아르헨티나](../Page/아르헨티나.md "wikilink")에서 태어나고 곧바로 이사하여 [캐나다](../Page/캐나다.md "wikilink")를 거친 후 [미국](../Page/미국.md "wikilink") [캘리포니아 주](https://ko.wikipedia.org/wiki/캘리포니아_주 "wikilink") [로스엔젤레스](https://ko.wikipedia.org/wiki/로스엔젤레스 "wikilink")에 정착하여 자랐으며 [미국](../Page/미국.md "wikilink") [시민권](https://ko.wikipedia.org/wiki/시민권 "wikilink")을 취득했다.
 
 ## 학력
 
@@ -116,7 +116,7 @@
 <td><p>《<a href="../Page/진심이_닿다.md" title="wikilink">진심이 닿다</a> OST Part.5》</p></td>
 <td><p>작사 : Jae, <a href="../Page/원필.md" title="wikilink">원필</a><br />
 작곡 : Jae, <a href="../Page/원필.md" title="wikilink">원필</a>, Majorcode, 문상선</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원더케이" title="wikilink">원더케이</a></p></td>
+<td><p><a href="../Page/원더케이.md" title="wikilink">원더케이</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

@@ -11,4 +11,4 @@
 
 ## 각주
 
-[분류:1995년 도입](https://ko.wikipedia.org/wiki/분류:1995년_도입 "wikilink") [분류:가정용 게임기](https://ko.wikipedia.org/wiki/분류:가정용_게임기 "wikilink")
+[분류:1995년 도입](https://ko.wikipedia.org/wiki/분류:1995년_도입 "wikilink") [분류:가정용 게임기](https://ko.wikipedia.org/wiki/분류:가정용_게임기 "wikilink") [분류:아타리의 콘솔](https://ko.wikipedia.org/wiki/분류:아타리의_콘솔 "wikilink")

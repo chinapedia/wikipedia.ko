@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [포켓몬스터 XY \(애니메이션\)](https://ko.wikipedia.org/wiki/포켓몬스터_XY_\(애니메이션\)).
 
 
-《**포켓몬스터 XY**》(, )는 애니메이션 [포켓몬스터](../Page/포켓몬스터.md "wikilink")의 다섯 번째 시리즈이며, 일본에서 [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 [2013년](../Page/2013년.md "wikilink") [10월 17일부터](../Page/10월_17일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [11월 10일까지](../Page/11월_10일.md "wikilink") 방영되었다. 배경 지방은 [칼로스 지방이다](https://ko.wikipedia.org/wiki/칼로스_지방 "wikilink"). 대한민국에서는 [2014년](../Page/2014년.md "wikilink") [3월 10일부터](../Page/3월_10일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [12월 13일까지](../Page/12월_13일.md "wikilink") 방영했다.
+《**포켓몬스터 XY**》(, )는 [포켓몬스터](../Page/포켓몬스터.md "wikilink") 애니메이션의 다섯 번째 시리즈이며, [일본](../Page/일본.md "wikilink")에서 [TV 도쿄를](../Page/TV_도쿄.md "wikilink") 통해 [2013년](../Page/2013년.md "wikilink") [10월 17일부터](../Page/10월_17일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [11월 10일까지](../Page/11월_10일.md "wikilink") 방영되었다. 배경 지방은 [칼로스 지방이다](https://ko.wikipedia.org/wiki/칼로스_지방 "wikilink"). [대한민국](../Page/대한민국.md "wikilink")에서는 [2014년](../Page/2014년.md "wikilink") [3월 10일부터](../Page/3월_10일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [12월 13일까지](../Page/12월_13일.md "wikilink") 방영했다.
 
 ## 방송 기간
 
@@ -155,7 +155,7 @@
 <td><p>3</p></td>
 <td><p><strong>ゲッタバンバン(겟타반반)</strong></p></td>
 <td><p>포켓몬스터 XY 제 55화<br />
-<a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/1월_8일.md" title="wikilink">1월 8일</a>﻿</p></td>
+<a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/1월_8일.md" title="wikilink">1월 8일</a></p></td>
 <td><p>포켓몬스터 XY 제93화<br />
 <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_22일.md" title="wikilink">10월 22일</a></p></td>
 <td><p><strong>시작하는 여행</strong><br />
@@ -165,9 +165,9 @@
 <td><p>4</p></td>
 <td><p><strong>XY&amp;Z</strong></p></td>
 <td><p>포켓몬스터 XY&amp;Z 제1화<br />
-<a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_29일.md" title="wikilink">10월 29일</a>﻿</p></td>
+<a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_29일.md" title="wikilink">10월 29일</a></p></td>
 <td><p>포켓몬스터 XY&amp;Z 제142화<br />
-<a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/11월_10일.md" title="wikilink">11월 10일</a>﻿</p></td>
+<a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/11월_10일.md" title="wikilink">11월 10일</a></p></td>
 <td><p><strong>Remember Times</strong><br />
 포켓몬스터 XY&amp;Z</p></td>
 </tr>
@@ -216,7 +216,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><strong>ドリドリ(도리도리)﻿</strong></p></td>
+<td><p><strong>ドリドリ(도리도리)</strong></p></td>
 <td><p>포켓몬스터 XY 제47화<br />
 <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/10월_16일.md" title="wikilink">10월 16일</a></p></td>
 <td><p>포켓몬스터 XY 제67화<br />
@@ -238,9 +238,9 @@
 <td><p>5</p></td>
 <td><p><strong>プニちゃんのうた(푸니짱의 노래)</strong></p></td>
 <td><p>포켓몬스터 XY&amp;Z 제1화<br />
-<a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_29일.md" title="wikilink">10월 29일</a>﻿</p></td>
+<a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_29일.md" title="wikilink">10월 29일</a></p></td>
 <td><p>포켓몬스터 XY&amp;Z 제141화<br />
-<a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/11월_3일.md" title="wikilink">11월 3일</a>﻿</p></td>
+<a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/11월_3일.md" title="wikilink">11월 3일</a></p></td>
 <td><p><strong>MY FRIEND</strong><br />
 포켓몬스터 XY&amp;Z</p></td>
 </tr>
@@ -269,4 +269,4 @@
   - [투니버스 포켓몬스터 XY 프로그램 소개](https://web.archive.org/web/20160302164950/http://www.tooniland.com/tooniverse/program/getFrontNormalProgram.tl?programIndex=512)
   - [투니버스 포켓몬스터 XY\&Z 프로그램 소개](https://web.archive.org/web/20160310192901/http://www.tooniland.com/tooniverse/program/getFrontNormalProgram.tl?programIndex=632)
 
-[분류:포켓몬스터 (애니메이션)](https://ko.wikipedia.org/wiki/분류:포켓몬스터_\(애니메이션\) "wikilink") [분류:2013년 애니메이션](https://ko.wikipedia.org/wiki/분류:2013년_애니메이션 "wikilink") [분류:2014년 애니메이션](https://ko.wikipedia.org/wiki/분류:2014년_애니메이션 "wikilink") [분류:2015년 애니메이션](https://ko.wikipedia.org/wiki/분류:2015년_애니메이션 "wikilink") [분류:TV 도쿄 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_도쿄_계열_애니메이션 "wikilink") [분류:투니버스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:투니버스의_텔레비전_프로그램 "wikilink") [분류:재능TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:재능TV의_텔레비전_프로그램 "wikilink") [분류:대교어린이TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대교어린이TV의_텔레비전_프로그램 "wikilink") [분류:애니맥스](https://ko.wikipedia.org/wiki/분류:애니맥스 "wikilink")
+[분류:포켓몬스터 (애니메이션)](https://ko.wikipedia.org/wiki/분류:포켓몬스터_\(애니메이션\) "wikilink") [분류:2013년 애니메이션](https://ko.wikipedia.org/wiki/분류:2013년_애니메이션 "wikilink") [분류:2014년 애니메이션](https://ko.wikipedia.org/wiki/분류:2014년_애니메이션 "wikilink") [분류:2015년 애니메이션](https://ko.wikipedia.org/wiki/분류:2015년_애니메이션 "wikilink") [분류:TV 도쿄 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_도쿄_계열_애니메이션 "wikilink") [분류:투니버스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:투니버스의_텔레비전_프로그램 "wikilink") [분류:재능TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:재능TV의_텔레비전_프로그램 "wikilink") [분류:대교어린이TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대교어린이TV의_텔레비전_프로그램 "wikilink") [분류:애니맥스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:애니맥스의_텔레비전_프로그램 "wikilink") [분류:카툰 네트워크의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:카툰_네트워크의_텔레비전_프로그램 "wikilink")

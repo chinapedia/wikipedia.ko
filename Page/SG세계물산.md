@@ -5,9 +5,9 @@
 
 ## 사업
 
-의류 수출은 GAP그룹(GAP, OLD NAVY, BANANA REPUBLIC), Target, FOREVER21 등 미국의 대형 바이어들에게 [OEM](../Page/OEM.md "wikilink")방식으로 판매하고 있다. 수출 물량 중 북미의 비중이 커서 약 93%를 차지한다.
+의류 수출은 [GAP그룹](../Page/갭_\(기업\).md "wikilink")(GAP, OLD NAVY, BANANA REPUBLIC), Target, FOREVER21 등 [미국](../Page/미국.md "wikilink")의 대형 바이어들에게 [OEM](../Page/OEM.md "wikilink") 방식으로 판매하고 있다. 수출 물량 중 북미 지역의 비중이 크며, 약 93%를 차지한다.
 
-자체 브랜드로는 남성정장 BASSO, BASSO homme, 여성복 ab.f.z, ab.plus 총 4개의 브랜드를 보유하고 있어, 전국의 백화점, 대리점, 할인점 및 직영점을 통해 판매된다.
+자체 브랜드로는 남성정장 BASSO, BASSO homme, 여성복 ab.f.z, ab.plus 총 4개의 브랜드를 보유하고 있으며, 전국의 백화점, 대리점, 할인점 및 직영점을 통해 판매된다.
 
 매출구성은 의류수출사업(OEM) 61%, 패션사업(자가브랜드) 38%, 기타 1% 등으로 이루어진다. 매출액은 매년 3천억원을 넘는 수준이나 순이익은 다소 마이너스를 기록하고 있어 수익성 재고가 필요한 상황이다.
 

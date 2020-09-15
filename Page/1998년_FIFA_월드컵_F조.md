@@ -691,7 +691,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">부심</a>:</strong><br />
-로랑 로시시 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
+로랑 로시시 (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)<br />
 니콜라에 그리고레스쿠 (<a href="https://ko.wikipedia.org/wiki/루마니아_축구_협회" title="wikilink">루마니아</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/부심" title="wikilink">대기심</a>:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/뤼시앵_부샤르도" title="wikilink">뤼시앵 부샤르도</a> (<a href="https://ko.wikipedia.org/wiki/니제르_축구_협회" title="wikilink">니제르</a>)</p></td>

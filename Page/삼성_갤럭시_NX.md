@@ -21,7 +21,7 @@
 1.  <http://global.samsungtomorrow.com/?p=24918>
 2.
 3.
-4.  <http://www.bloter.net/archives/162614>
+4.
 5.
 6.
 7.

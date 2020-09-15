@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG L45](https://ko.wikipedia.org/wiki/LG_L45).
 
 
-''' LG L45 '''는 [LG전자](../Page/LG전자.md "wikilink")가 [2014년](../Page/2014년.md "wikilink") 중에 출시한 보급형 스마트폰이다. 정확한 출시일은 알려지지 않았으며, [인도에만](https://ko.wikipedia.org/wiki/나라_이름 "wikilink") 출시되었다.
+''' LG L45 '''는 [LG전자](../Page/LG전자.md "wikilink")가 [2014년](../Page/2014년.md "wikilink") 중에 출시한 보급형 스마트폰이다. 정확한 출시일은 알려지지 않았으며, [인도](../Page/인도.md "wikilink")에만 출시되었다.
 
 ## 운영체제/소프트웨어
 

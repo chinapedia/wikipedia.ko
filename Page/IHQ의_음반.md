@@ -127,6 +127,8 @@
 
 ## 2020년 \~ 2022년
 
+  - 2020년 8월 31일 god\[37\] - **브람스를 좋아하세요? OST Part.1**
+
 ## 각주
 
 [분류:대한민국 음반사의 음반 목록](https://ko.wikipedia.org/wiki/분류:대한민국_음반사의_음반_목록 "wikilink") [분류:IHQ](https://ko.wikipedia.org/wiki/분류:IHQ "wikilink")
@@ -166,4 +168,5 @@
 33. [015B](../Page/015B.md "wikilink")도 앨범 참여.
 34. [혁오](../Page/혁오.md "wikilink")도 앨범 참여.
 35. god의 데뷔 20주년 기념 앨범.
-36. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.
+36. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/WOODZ "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink") 외 96명도 앨범 참여.
+37. 스케줄 문제로 윤계상 제외.

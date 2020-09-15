@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BTL \(음악 그룹\)](https://ko.wikipedia.org/wiki/BTL_\(음악_그룹\)).
 
 
-**BTL**은 대한민국의 7인조 보이 그룹이다.
+**BTL**은 대한민국의 8인조 보이 그룹이다.
 
 ## 앨범
 

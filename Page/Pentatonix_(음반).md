@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Pentatonix \(음반\)](https://ko.wikipedia.org/wiki/Pentatonix_\(음반\)).
 
 
-**펜타토닉스(Pentatonix)**의 첫 오리지널 정규 앨범이다. 이전까지의 앨범들은 대부분 커버 작품으로, 커버곡이 메인이었다.
+《**Pentatonix**》는 [펜타토닉스](../Page/펜타토닉스.md "wikilink")의 첫 오리지널 정규 앨범이다. 이전까지의 앨범들은 대부분 커버 작품으로, 커버곡이 메인이었다.
 
 ## 수록곡
 

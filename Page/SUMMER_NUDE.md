@@ -143,7 +143,7 @@
 
 <!-- end list -->
 
-  - **키리하타 쇼** : [스가타 슌](https://ko.wikipedia.org/wiki/스가타_슌 "wikilink")
+  - **키리하타 쇼** : [스가타 슌](../Page/스가타_슌.md "wikilink")
 
 <!-- end list -->
 

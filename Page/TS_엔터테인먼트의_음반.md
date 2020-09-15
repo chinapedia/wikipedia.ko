@@ -76,7 +76,7 @@
   - 2015년 6월 16일 송지은,[슬리피](https://ko.wikipedia.org/wiki/슬리피_\(1984년\) "wikilink") - **\[Digital Single\] 쿨밤**
   - 2015년 6월 30일 송지은 - **썸남썸녀 OST Part.2**\[18\]
   - 2015년 7월 20일 소나무 - **[CUSHION](https://ko.wikipedia.org/wiki/CUSHION "wikilink")**
-  - 2015년 8월 19일 [디액션](https://ko.wikipedia.org/wiki/디액션 "wikilink")- **\[MIX TAPE\] 콜록(COLOCK)**
+  - 2015년 8월 19일 [디액션](../Page/디액션.md "wikilink")- **\[MIX TAPE\] 콜록(COLOCK)**
   - 2015년 9월 4일 디액션 - **\[MIX TAPE\] 압박해(Feat.차붐)**
   - 2015년 9월 7일 디액션 - **\[MIX TAPE\] 씻김굿**
   - 2015년 10월 20일 슬리피 - **\[Digital Single\] F/W**

@@ -630,13 +630,37 @@
 </tr>
 <tr class="odd">
 <td><p>2020</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/언더워터_(영화)" title="wikilink">언더워터</a></strong></p></td>
+<td><p><a href="../Page/언더워터_(영화).md" title="wikilink">언더워터</a></p></td>
 <td><p>In Association with</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/20세기_폭스" title="wikilink">20세기 폭스</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/:en:_The_Call_of_the_Wild_(2020_film)" title="wikilink">더 콜 오브 와일드</a></strong></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/:en:_Wendy_(film)" title="wikilink">웬디</a></strong></p></td>
 <td><p>In Association with</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/폭스_서치라이트_픽처스" title="wikilink">폭스 서치라이트 픽처스</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/콜_오브_와일드" title="wikilink">콜 오브 와일드</a></p></td>
+<td><p>In Association with</p></td>
+<td><p><a href="../Page/20세기_스튜디오.md" title="wikilink">20세기 스튜디오</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/엑스맨:_뉴_뮤턴트.md" title="wikilink">뉴 뮤턴트</a></p></td>
+<td><p>In Association with</p></td>
+<td><p><a href="../Page/20세기_스튜디오.md" title="wikilink">20세기 스튜디오</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/킹스맨:_퍼스트_에이전트.md" title="wikilink">킹스맨: 퍼스트 에이전트</a></p></td>
+<td><p>Made In Association with</p></td>
+<td><p><a href="../Page/20세기_스튜디오.md" title="wikilink">20세기 스튜디오</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/나일_강의_죽음_(2020년_영화)" title="wikilink">나일 강의 죽음</a></p></td>
+<td><p>Made In Association with</p></td>
 <td><p><a href="../Page/20세기_스튜디오.md" title="wikilink">20세기 스튜디오</a></p></td>
 <td></td>
 </tr>

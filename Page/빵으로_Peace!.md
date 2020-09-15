@@ -34,7 +34,7 @@
   - [パンでPeace\!｜TVアニメ公式サイト](http://pandepeace.com/)
 
   -
-[분류:네 컷 만화](https://ko.wikipedia.org/wiki/분류:네_컷_만화 "wikilink") [분류:미디어팩토리의 애니메이션 작품](https://ko.wikipedia.org/wiki/분류:미디어팩토리의_애니메이션_작품 "wikilink") [분류:요리 만화](https://ko.wikipedia.org/wiki/분류:요리_만화 "wikilink") [분류:월간 코믹 얼라이브](https://ko.wikipedia.org/wiki/분류:월간_코믹_얼라이브 "wikilink") [분류:단편 애니메이션](https://ko.wikipedia.org/wiki/분류:단편_애니메이션 "wikilink") [분류:2016년 애니메이션](https://ko.wikipedia.org/wiki/분류:2016년_애니메이션 "wikilink") [분류:진행 중인 작품](https://ko.wikipedia.org/wiki/분류:진행_중인_작품 "wikilink") [분류:고등학교를 배경으로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:고등학교를_배경으로_한_애니메이션 "wikilink") [분류:고등학교를 배경으로 한 만화](https://ko.wikipedia.org/wiki/분류:고등학교를_배경으로_한_만화 "wikilink") [분류:아사히 프로덕션](https://ko.wikipedia.org/wiki/분류:아사히_프로덕션 "wikilink") [분류:애니맥스](https://ko.wikipedia.org/wiki/분류:애니맥스 "wikilink")
+[분류:네 컷 만화](https://ko.wikipedia.org/wiki/분류:네_컷_만화 "wikilink") [분류:미디어팩토리의 애니메이션 작품](https://ko.wikipedia.org/wiki/분류:미디어팩토리의_애니메이션_작품 "wikilink") [분류:요리 만화](https://ko.wikipedia.org/wiki/분류:요리_만화 "wikilink") [분류:월간 코믹 얼라이브](https://ko.wikipedia.org/wiki/분류:월간_코믹_얼라이브 "wikilink") [분류:단편 애니메이션](https://ko.wikipedia.org/wiki/분류:단편_애니메이션 "wikilink") [분류:2016년 애니메이션](https://ko.wikipedia.org/wiki/분류:2016년_애니메이션 "wikilink") [분류:도쿄 메트로폴리탄 텔레비전의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:도쿄_메트로폴리탄_텔레비전의_텔레비전_프로그램 "wikilink") [분류:진행 중인 작품](https://ko.wikipedia.org/wiki/분류:진행_중인_작품 "wikilink") [분류:고등학교를 배경으로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:고등학교를_배경으로_한_애니메이션 "wikilink") [분류:고등학교를 배경으로 한 만화](https://ko.wikipedia.org/wiki/분류:고등학교를_배경으로_한_만화 "wikilink") [분류:아사히 프로덕션](https://ko.wikipedia.org/wiki/분류:아사히_프로덕션 "wikilink") [분류:애니맥스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:애니맥스의_텔레비전_프로그램 "wikilink")
 
 1.
 2.

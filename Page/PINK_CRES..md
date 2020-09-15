@@ -5,9 +5,9 @@
 
 ## 멤버
 
-  - **[나츠야키 미야비](../Page/나츠야키_미야비.md "wikilink")** (夏焼雅, [지바현](../Page/지바현.md "wikilink")출생, [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink")출신, [1992년](../Page/1992년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ ) - 최연장자, 리더, 메인보컬, 센터
-  - [코바야시 히카루](https://ko.wikipedia.org/wiki/코바야시_히카루 "wikilink") (小林 ひかる, [도쿄도](../Page/도쿄도.md "wikilink")출신, [1994년](../Page/1994년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") \~ ) - 메인래퍼
-  - [니헤이 유우카](https://ko.wikipedia.org/wiki/니헤이_유우카 "wikilink") (二瓶 有加, [도쿄도](../Page/도쿄도.md "wikilink")출신, [1995년](../Page/1995년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") \~ ) - 리드보컬
+  - **[나츠야키 미야비](../Page/나츠야키_미야비.md "wikilink")** (夏焼 雅, [지바현](../Page/지바현.md "wikilink") 출생, [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") 출신, [1992년](../Page/1992년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ ) - 최연장자, 리더, 메인보컬, 센터
+  - [코바야시 히카루](https://ko.wikipedia.org/wiki/M-line_club "wikilink") (小林 ひかる, [도쿄도](../Page/도쿄도.md "wikilink") 출신, [1994년](../Page/1994년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") \~ ) - 메인래퍼
+  - [니헤이 유우카](https://ko.wikipedia.org/wiki/M-line_club "wikilink") (二瓶 有加, [도쿄도](../Page/도쿄도.md "wikilink") 출신, [1995년](../Page/1995년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") \~ ) - 리드보컬
 
 ## 약력
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - [4월 1일](../Page/4월_1일.md "wikilink"), 회원 모집 결과 오디션 최종 합격자는 [코바야시 히카루와](https://ko.wikipedia.org/wiki/코바야시_히카루 "wikilink") [니헤이 유우카가](https://ko.wikipedia.org/wiki/니헤이_유우카 "wikilink") 결정되었다\[2\].
+  - [4월 1일](../Page/4월_1일.md "wikilink"), 회원 모집 결과 오디션 최종 합격자는 [코바야시 히카루와](https://ko.wikipedia.org/wiki/M-line_club "wikilink") [니헤이 유우카가](https://ko.wikipedia.org/wiki/M-line_club "wikilink") 결정되었다\[2\].
   - [8월 25일](../Page/8월_25일.md "wikilink"), [일본 무도관에서](https://ko.wikipedia.org/wiki/일본_무도관 "wikilink") 행해진「[Buono\!](../Page/Buono!.md "wikilink") Festa 2016」에서 그룹 이름이「**PINK CRES.**」(핑크 크레스.)로 결정했다고 발표되었다\[3\].
 
 <!-- end list -->
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - [6월 27일](../Page/6월_27일.md "wikilink"), 두번째 음반 えとせとら를 발매.
+  - [6월 27일](../Page/6월_27일.md "wikilink"), 두 번째 음반 えとせとら를 발매.
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - [5월 22일](../Page/5월_22일.md "wikilink"), 첫번째 싱글 トウキョウ・コンフュージョン／宇宙の女は甘くない를 발매.
+  - [5월 22일](../Page/5월_22일.md "wikilink"), 첫 번째 싱글 トウキョウ・コンフュージョン／宇宙の女は甘くない를 발매.
 
 <!-- end list -->
 
@@ -57,7 +57,7 @@
 
 <!-- end list -->
 
-  - [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"), 두번째 싱글 ルーレット를 발매.
+  - [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"), 두 번째 싱글 ルーレット를 발매.
 
 ## 음악
 
@@ -76,7 +76,7 @@
 
 1.  crescendo (2017년 [6월 28일](../Page/6월_28일.md "wikilink"))
 2.  えとせとら ([2018년](../Page/2018년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink"))
-3.  No Borders (미정)
+3.  Soleil (2020년 [10월 7일](../Page/10월_7일.md "wikilink"))
 
 ## 출연
 
@@ -109,6 +109,7 @@
 ### 그 외
 
   - [Buono\!](../Page/Buono!.md "wikilink") Festa 2016 (2016년 8월 25일, 일본 무도관)
+  - Heart to Heart 2020 \~Covers\~ (2020년 9월 27일, [Zepp Tokyo](https://ko.wikipedia.org/wiki/Zepp_Tokyo "wikilink"), 2회 공연)
 
 ## 각주
 

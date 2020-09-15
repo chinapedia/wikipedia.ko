@@ -37,7 +37,7 @@
 
 [분류:2002년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2002년_비디오_게임 "wikilink") [분류:대규모 다중 사용자 온라인 롤플레잉 게임](https://ko.wikipedia.org/wiki/분류:대규모_다중_사용자_온라인_롤플레잉_게임 "wikilink") [분류:브라우저 게임](https://ko.wikipedia.org/wiki/분류:브라우저_게임 "wikilink")
 
-1.  nationstates.net: [History](http://www.nationstates.net/HISTORY), accessdate: 10 April 2014
+1.  nationstates.net: [History](http://www.nationstates.net/HISTORY) , accessdate: 10 April 2014
 2.
 3.
 4.

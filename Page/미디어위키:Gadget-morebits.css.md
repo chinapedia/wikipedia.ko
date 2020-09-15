@@ -14,25 +14,25 @@
 
 /\* Morebits.status \*/
 
-.tw_status_status {
+.morebits_status_status {
 
 `   color: #4682B4;`
 
 }
 
-.tw_status_info {
+.morebits_status_info {
 
 `   color: #228B22;`
 
 }
 
-.tw_status_warn {
+.morebits_status_warn {
 
 `   color: #FF4500;`
 
 }
 
-.tw_status_error {
+.morebits_status_error {
 
 `   color: #FF4500;`
 `   font-weight: bold;`
@@ -129,7 +129,7 @@ form.quickform input:disabled + label {
 
 form.quickform span.quickformDescription {
 
-`   /* font-style: italic; */`
+`   font-style: italic;`
 
 }
 
@@ -140,19 +140,17 @@ form.quickform .quickformSubgroup {
 
 }
 
-form.quickform .tooltipButtonContainer {
+/\* The tooltip button and the content itself \*/ form.quickform .morebits-tooltipButton {
 
-`   position: relative;`
-`   width: 100%;`
-
-}
-
-form.quickform .tooltipButton {
-
-`   color: blue;`
+`   color: mediumblue;`
 `   font-weight: bold;`
 `   cursor: help;`
-`   padding: .2em;`
+`   padding: .3em;`
+
+} .morebits-ui-tooltip {
+
+`   padding: 4px 6px 4px 6px;`
+`   font-size: 13px;`
 
 }
 
@@ -208,68 +206,14 @@ div.morebits-previewbox .mw-editsection {
 
 }
 
-/\* Portlet \*/
-
-.skin-modern \#mw_contentwrapper div.portlet {
-
-`   overflow: hidden;`
-`   height: 1.5em;`
-`   margin: 0 0 0 14em;`
-`   padding: 0;`
-
-}
-
-.skin-modern \#mw_contentwrapper div.portlet h5 {
-
-`   display: none;`
-
-}
-
-.skin-modern \#mw_contentwrapper div.portlet div.pbody {
-
-`   margin: 0;`
-`   padding: 0;`
-
-}
-
-.skin-modern \#mw_contentwrapper div.portlet div.pbody ul {
-
-`   display: inline;`
-`   margin: 0;`
-
-}
-
-.skin-modern \#mw_contentwrapper div.portlet div.pbody ul li {
-
-`   display: block;`
-`   float: left;`
-`   height: 1.5em;`
-`   margin: 0 .5em;`
-`   padding: 0 .2em;`
-`   text-transform: lowercase;`
-
-}
-
-.skin-modern \#mw_contentwrapper div.portlet div.pbody ul li a {
-
-`   text-decoration: underline;`
-
-}
-
-.skin-modern \#mw_contentwrapper div.portlet div.pbody ul li.selected a {
-
-`   text-decoration: none;`
-
-}
-
 /\* Morebits.simpleWindow \*/
 
 .morebits-dialog {
 
 `   border: 1px #666 solid;`
 `   font: small sans-serif;`
-`   background-color: #F0F8FF !important;`
-`   background-image: none !important;`
+`   background-color: #F0F8FF;`
+`   background-image: none;`
 
 }
 
@@ -282,7 +226,8 @@ body.skin-monobook .morebits-dialog {
 body .ui-dialog.morebits-dialog .ui-dialog-titlebar {
 
 `   height: 1em;`
-`   background: repeat-x 50% 80% #cfd6e1 !important;  /* the actual image is specified in morebits.js - ResourceLoader mangles data: URIs in CSS */`
+`   background-color: #BCCADF !important;`
+`   background-image: none !important;`
 `   font: bold 1em sans-serif;`
 `   overflow: hidden;`
 `   padding: .4em .3em .5em !important;`
@@ -359,12 +304,6 @@ body .ui-dialog.morebits-dialog .morebits-dialog-footerlinks a {
 .morebits-dialog-buttons\[data-empty\] + .morebits-dialog-footerlinks {
 
 `   margin: .1em .4em -.2em 0;`
-
-}
-
-.ui-dialog.morebits-dialog a, .ui-dialog.morebits-dialog .ui-widget-content a {
-
-`   color: #0645AD;  /* jQuery imposes a ridiculous nearly-black colour on `<a>` tags... I don't understand it */`
 
 }
 

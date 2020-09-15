@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GNZ48](https://ko.wikipedia.org/wiki/GNZ48).
 
 
-**GNZ48**(지엔제트포티에이트)는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [광둥 성](https://ko.wikipedia.org/wiki/광둥_성 "wikilink") [광저우](https://ko.wikipedia.org/wiki/광저우 "wikilink")를 중심으로 활동하는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
+**GNZ48**(지엔제트포티에이트)는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [광둥 성](https://ko.wikipedia.org/wiki/광둥_성 "wikilink") [광저우](https://ko.wikipedia.org/wiki/광저우 "wikilink")를 중심으로 활동하고 있는 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 개요
 
@@ -57,7 +57,7 @@
 <td></td>
 <td><p>SNH48 5기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -66,7 +66,7 @@
 <td></td>
 <td><p>3기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -138,7 +138,8 @@
 <td><p><strong></strong></p></td>
 <td><p>SNH48 6기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td><p>캡틴</p></td>
+<td><p>캡틴<br />
+최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -151,7 +152,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/셰레이레이" title="wikilink">셰레이레이</a></p></td>
+<td><p><a href="../Page/셰레이레이.md" title="wikilink">셰레이레이</a></p></td>
 <td><p>Xiè Lěilěi</p></td>
 <td></td>
 <td><p>SNH48 5기</p></td>
@@ -201,7 +202,7 @@
 <td></td>
 <td><p>SNH48 5기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -246,7 +247,7 @@
 <td></td>
 <td><p>SNH48 6기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -291,7 +292,8 @@
 <td><p><strong></strong></p></td>
 <td><p>SNH48 6기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td><p>캡틴</p></td>
+<td><p>캡틴<br />
+최연장자</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong></strong></p></td>
@@ -300,7 +302,8 @@
 <td><p><strong></strong></p></td>
 <td><p>SNH48 6기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td><p>부캡틴</p></td>
+<td><p>부캡틴<br />
+최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -309,7 +312,7 @@
 <td></td>
 <td><p>SNH48 6기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -318,7 +321,7 @@
 <td></td>
 <td><p>SNH48 6기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -327,7 +330,7 @@
 <td></td>
 <td><p>SNH48 6기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -363,7 +366,7 @@
 <td></td>
 <td><p>2기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -408,7 +411,7 @@
 <td></td>
 <td><p>SNH48 6기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -544,7 +547,8 @@
 <td><p><strong></strong></p></td>
 <td><p>1기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td><p>캡틴</p></td>
+<td><p>캡틴<br />
+최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -598,7 +602,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>광저우 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>

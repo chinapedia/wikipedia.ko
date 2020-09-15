@@ -11,7 +11,7 @@ BBC 잉글리시 리전스의 본부는 버밍엄 [더 메일박스에](https://
 
 2009년 4월부터는 잉글리시 리전스 부가 [BBC 뉴스부와](../Page/BBC_뉴스.md "wikilink") 제휴하여 'BBC 뉴스 방송 운영에서 협력을 최대화'하기 위해 [BBC 뉴스와](../Page/BBC_뉴스.md "wikilink") 제휴하고 있다.\[5\]
 
-## 더 보기
+## 같이 보기
 
   - [BBC 시청자협의회 잉글랜드](https://ko.wikipedia.org/wiki/BBC_시청자협의회_잉글랜드 "wikilink")
   - [BBC 홈 서비스 -지역별](https://ko.wikipedia.org/wiki/BBC_홈_서비스#지역 "wikilink")

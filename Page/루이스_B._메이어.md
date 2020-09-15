@@ -1,11 +1,41 @@
 > This article is converted from Wikipedia: [루이스 B. 메이어](https://ko.wikipedia.org/wiki/루이스_B._메이어).
 
 
-**루이스 버트 메이어**(, [1884년](../Page/1884년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") \~ [1957년](../Page/1957년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink"))는 20세기 [민스크](../Page/민스크.md "wikilink") 출신의 [미국](../Page/미국.md "wikilink") 영화 제작자로, [메트로 골드윈 메이어의](../Page/메트로_골드윈_메이어.md "wikilink") 설립자이다.
+**루이스 버트 메이어**(Louis Burt Mayer, [1884년](../Page/1884년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") \~ [1957년](../Page/1957년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink"))는 [미국](../Page/미국.md "wikilink")의 [영화](../Page/영화.md "wikilink") 제작자이자 [할리우드](../Page/할리우드.md "wikilink") [영화 스튜디오](https://ko.wikipedia.org/wiki/영화_스튜디오 "wikilink") [메트로 골드윈 메이어의](../Page/메트로_골드윈_메이어.md "wikilink") 공동 창립자로 30년 동안 영화 산업에서 가장 권력적이었다.
 
-메이어는 구 [러시아 제국](../Page/러시아_제국.md "wikilink"), 현 [벨라루스](../Page/벨라루스.md "wikilink") 영토인 [민스크](../Page/민스크.md "wikilink")의 [유대인](../Page/유대인.md "wikilink") 가정에서 태어났으며, 본명은 **라자리 메이르**(Лазарь Меир)이다.
+## 러시아 탈출
+
+**라자리 메이르**(Лазарь Меир)란 본명으로 구 [러시아 제국](../Page/러시아_제국.md "wikilink") (현재 [벨라루스](../Page/벨라루스.md "wikilink")) [민스크](../Page/민스크.md "wikilink")의 [유대인](../Page/유대인.md "wikilink") 가정에서 태어나 어린 시절 [캐나다](../Page/캐나다.md "wikilink")로 이민을 떠나 거기에서 학교를 다녔다. 그는 자신의 이름을 "루이스"로 바꾸었다. [1904년](../Page/1904년.md "wikilink") [미국](../Page/미국.md "wikilink") [매사추세츠주](../Page/매사추세츠주.md "wikilink") [보스턴](../Page/보스턴.md "wikilink")으로 이주하여 5 센트 짜리의 극장을 발견하였다. 거기서 그는 [영화](../Page/영화.md "wikilink")들을 위한 자신의 사랑을 개발하였다.
+
+자기가 본 활발한 [비지니스](https://ko.wikipedia.org/wiki/비지니스 "wikilink") 투자를 알아챈 메이어는 [1907년](../Page/1907년.md "wikilink") [11월 28일](../Page/11월_28일.md "wikilink") 헤이버빌에 자신의 첫 영화 극장을 개장하였다. 3년의 세월 안에 그는 [뉴잉글랜드](../Page/뉴잉글랜드.md "wikilink")에서 가장 큰 극장 체인을 가졌다. [1916년](../Page/1916년.md "wikilink") 비지니스 파트너와 함께 [뉴욕](../Page/뉴욕.md "wikilink")에서 재능 예약 기관 메트로 픽처스를 창조하였다. 2년 후, 그는 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")로 이주하여 제작 회사 루이스 B. 메이어 영화사를 창립하였다. [1920년](../Page/1920년.md "wikilink") 로우스 극장 체인의 [마커스 로우는](../Page/마커스_로우.md "wikilink") 메트로 픽처스와 [새뮤얼 골드윈에](../Page/새뮤얼_골드윈.md "wikilink") 의하여 창립된 골드윈 픽처스를 사들였다. [1924년](../Page/1924년.md "wikilink") 메이어스와 그 2개의 회사들의 합병이 [메트로 골드윈 메이어](../Page/메트로_골드윈_메이어.md "wikilink") (MGM) 스튜디오에 결과를 가져왔다.
+
+## 스타들의 스튜디오
+
+메트로 골드윈 메이어는 그 시간에 최고의 스튜디오가 되었다. 스타들이 되는 것을 원했던 배우들이 메트로 골드윈 메이어로 자신들의 길을 찾아야 했다는 것을 알았다. 스튜디오는 독점 계약 기준에 일하였다. 이것은 배우가 특정한 세월 동안 메트로 골드윈 메이어 만을 위하여 일하는 것으로 동의한 것을 의미한다. 스튜디오는 배우들의 안정을 파는 데 책임이 있었고, 메이어의 개인적 가치와 믿음들에 따라 행동하는 데 기대되었다. 그는 메트로 골드윈 메이어의 아버지로 알려지게 되었고, 그들이 도움이 필요했던 것을 자신이 느낀 만큼 배우들의 많으니 필요성들을 개인적으로 돌보았다.
+
+메트로 골드윈 메이어의 슬로건은 "천국에 있는 것들보다 더 많은 별들" 이었고, 명단의 사실에 그는 그 주장을 위하녀 유명한 후원을 이루었다. [엘리자베스 테일러](https://ko.wikipedia.org/wiki/엘리자베스_테일러 "wikilink"), [클라크 게이블](../Page/클라크_게이블.md "wikilink"), [주디 갈런드와](../Page/주디_갈런드.md "wikilink") 많은 다른 배우들이 메트로 골드윈 메이어에 의하여 소유되었고, 그들은 그 때문에 세대의 이름들이 되었다.
+
+## 다른 형성들에서 권력
+
+[1929년](../Page/1929년.md "wikilink") [허버트 후버](../Page/허버트_후버.md "wikilink") 대통령은 [터키](../Page/터키.md "wikilink") 주재 대사로 임명과 함께 메이어를 유혹하였으나 메이어는 거절하여 [무성 영화들로부터](../Page/무성_영화.md "wikilink") [발성 영화들로](https://ko.wikipedia.org/wiki/발성_영화 "wikilink") 스튜디오의 변화를 감시할 수 있었다. 그와 후버는 세월 동안 강한 우정을 개발하였고, 후버의 대통령직을 통하여 메이어는 어떻게 정부를 관리하나에 제안과 함께 [백악관](../Page/백악관.md "wikilink")에 전화를 걸려고 하였다.
+
+메이어의 전망과 지킨 메트로 골드윈 메이어는 미국의 꿈 - 가족, 건전한 가치와 희망을 축하한 영화들을 제작하였다. 그는 그들이 출연한 영화들의 가치를 지지한 생활들을 이끄는 데 자신의 피고용인들을 기대하였다. 메트로 골드윈 메이어의 성공적인 앤디 하디 시리즈의 스타 [미키 루니는](../Page/미키_루니.md "wikilink") 자신의 파티와 계집질을 위하여 표제지들을 만들었으며 메이어는 루니를 임무로 데려갔다. [타임](https://ko.wikipedia.org/wiki/타임 "wikilink") 잡지에 의하면 메이어는 "넌 앤디 하디야\! 넌 미국이야\! 넌 성조기야\! 넌 상징이야\! 얆전히 굴어라\!" 하면서 배우에 소리친 것이 들렸다고 한다.
+
+## 문제의 발생
+
+스튜디오의 이득이 치솟으면서 메이어와 그의 제작 책임자 [어빙 솔버그](../Page/어빙_솔버그.md "wikilink") 사이에 긴장이 증가하였다. 솔버그는 《[오즈의 마법사](../Page/오즈의_마법사_\(1939년_영화\).md "wikilink")》와 《벤허》를 포함한 어떤 메트로 골드윈 메이어의 [박스 오피스](https://ko.wikipedia.org/wiki/박스_오피스 "wikilink") 거작들을 제작하였다. 메이어는 미국에서 보수를 가장 많이 받는 관리자로 해마다 1백만 달러를 만들었다. 솔버그는 스튜디오를 위하여 돈을 만든 각각의 영화에 그것이 자신의 완벽주의와 봉납이었기 때문에 자신이 똑같은 양을 받아야 한다고 느꼈다.
+
+메이어는 많은 사람들이 솔버그를 메트로 골드윈 메이어의 뒤에 위대한 지능으로 숙고한 사실을 원망하였다. 스튜디오 자신은 메이어와 솔버그의 후원자들 사이에 갈라졌다. [심장](../Page/심장.md "wikilink") 문제를 겪은 솔버그는 37세의 나이에 사망하였다. 그들 사이에 자라난 균열에 불구하고 메이어는 자신의 동료에 애도하였다.
+
+메이어의 지도 아래 15년의 세월은 메트로 골드윈 메이어가 "최고의 영화 공장"이라는 별명을 얻게 하였다. 하지만 미국이 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 이후의 세월로 들어가면서 인기는 쇠퇴하기 시작하였다 영화관 공개는 더 이상 감정적과 낭만작을 원하지 않았다. 메이어는 불가능해 보였고 아마 다른 방향에 스튜디오를 옮기는 데 마음을 내키지 않았다.
+
+## 새로운 시기
+
+스타와 감독들이 메트로 골드윈 메이어가 전혀 허용하지 않은 이익으로 각각의 영화를 위하여 이익의 몫을 요청하기 시작하였다. 솔버그의 자리를 채우는 데 메이어에 의하여 기용된 각본가이자 제작자 [도어 샤리는](https://ko.wikipedia.org/wiki/도어_샤리 "wikilink") 메이어를 그의 아이디어들에서 압도적이고 구식으로 찾았다. 둘 사이에 치열한 논쟁은 회장 [니컬러스 솅크가](https://ko.wikipedia.org/wiki/니컬러스_솅크 "wikilink") 그들 사이에 선택하는 데 강요하였다. 솅크는 샤리를 선택하였고, 37년 만에 메이어는 메트로 골드윈 메이어에서 나갔다.
+
+화가 나고 환멸을 느낀 메이어는 공공 생활로부터 퇴직하였다. [1957년](../Page/1957년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") 73세의 나이에 로스앤젤레스에서 [백혈병](../Page/백혈병.md "wikilink")으로 사망하였다.
 
 ## 외부 링크
 
   -
-[분류:1884년 태어남](https://ko.wikipedia.org/wiki/분류:1884년_태어남 "wikilink") [분류:1957년 죽음](https://ko.wikipedia.org/wiki/분류:1957년_죽음 "wikilink") [분류:미국의 영화 프로듀서](https://ko.wikipedia.org/wiki/분류:미국의_영화_프로듀서 "wikilink") [분류:아카데미 공로상 수상자](https://ko.wikipedia.org/wiki/분류:아카데미_공로상_수상자 "wikilink") [분류:민스크 출신](https://ko.wikipedia.org/wiki/분류:민스크_출신 "wikilink") [분류:백혈병으로 죽은 사람](https://ko.wikipedia.org/wiki/분류:백혈병으로_죽은_사람 "wikilink") [분류:유대계 미국인](https://ko.wikipedia.org/wiki/분류:유대계_미국인 "wikilink") [분류:벨라루스계 미국인](https://ko.wikipedia.org/wiki/분류:벨라루스계_미국인 "wikilink") [분류:유대계 벨라루스인](https://ko.wikipedia.org/wiki/분류:유대계_벨라루스인 "wikilink") [분류:유대계 캐나다인](https://ko.wikipedia.org/wiki/분류:유대계_캐나다인 "wikilink") [분류:벨라루스계 캐나다인](https://ko.wikipedia.org/wiki/분류:벨라루스계_캐나다인 "wikilink")
+[분류:1884년 태어남](https://ko.wikipedia.org/wiki/분류:1884년_태어남 "wikilink") [분류:1957년 죽음](https://ko.wikipedia.org/wiki/분류:1957년_죽음 "wikilink") [분류:미국의 영화 프로듀서](https://ko.wikipedia.org/wiki/분류:미국의_영화_프로듀서 "wikilink") [분류:미국의 영화 제작사 창립자](https://ko.wikipedia.org/wiki/분류:미국의_영화_제작사_창립자 "wikilink") [분류:메트로 골드윈 메이어](https://ko.wikipedia.org/wiki/분류:메트로_골드윈_메이어 "wikilink") [분류:아카데미 공로상 수상자](https://ko.wikipedia.org/wiki/분류:아카데미_공로상_수상자 "wikilink") [분류:유대계 미국인](https://ko.wikipedia.org/wiki/분류:유대계_미국인 "wikilink") [분류:벨라루스계 미국인](https://ko.wikipedia.org/wiki/분류:벨라루스계_미국인 "wikilink") [분류:유대계 벨라루스인](https://ko.wikipedia.org/wiki/분류:유대계_벨라루스인 "wikilink") [분류:유대계 캐나다인](https://ko.wikipedia.org/wiki/분류:유대계_캐나다인 "wikilink") [분류:벨라루스계 캐나다인](https://ko.wikipedia.org/wiki/분류:벨라루스계_캐나다인 "wikilink") [분류:백혈병으로 죽은 사람](https://ko.wikipedia.org/wiki/분류:백혈병으로_죽은_사람 "wikilink") [분류:민스크 출신](https://ko.wikipedia.org/wiki/분류:민스크_출신 "wikilink")

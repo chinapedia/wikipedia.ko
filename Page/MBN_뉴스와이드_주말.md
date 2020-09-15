@@ -16,7 +16,7 @@
   - [모여라 딩동댕](../Page/모여라_딩동댕.md "wikilink"), 출동\! 슈퍼윙스, 올리 앤 문, 미니특공대 슈퍼공룡파워, [마샤와 곰](../Page/마샤와_곰.md "wikilink") (EBS 1TV)
   - [시니어 토크쇼 황금연못](https://ko.wikipedia.org/wiki/시니어_토크쇼_황금연못 "wikilink"), [걸어서 세계속으로](../Page/걸어서_세계속으로.md "wikilink"), [일요진단](https://ko.wikipedia.org/wiki/일요진단 "wikilink"), [김영철의 동네 한 바퀴](../Page/김영철의_동네_한_바퀴.md "wikilink") (KBS 1TV)
   - [불타는 청춘](https://ko.wikipedia.org/wiki/불타는_청춘 "wikilink"), [런닝맨](../Page/런닝맨_\(텔레비전_프로그램\).md "wikilink"), [생활의 달인](../Page/생활의_달인.md "wikilink"), [TV 동물농장](../Page/TV_동물농장.md "wikilink") (SBS)
-  - [탐나는 TV](../Page/탐나는_TV.md "wikilink"), [선을 넘는 녀석들 - 리턴즈](https://ko.wikipedia.org/wiki/선을_넘는_녀석들_-_리턴즈 "wikilink"), [휴먼다큐 사람이 좋다](../Page/휴먼다큐_사람이_좋다.md "wikilink"), [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink") (MBC)
+  - [탐나는 TV](../Page/탐나는_TV.md "wikilink"), [선을 넘는 녀석들 - 리턴즈](../Page/선을_넘는_녀석들_-_리턴즈.md "wikilink"), [휴먼다큐 사람이 좋다](../Page/휴먼다큐_사람이_좋다.md "wikilink"), [전지적 참견 시점](../Page/전지적_참견_시점.md "wikilink") (MBC)
   - [사장님 귀는 당나귀 귀](../Page/사장님_귀는_당나귀_귀.md "wikilink"), [슈퍼맨이 돌아왔다](../Page/슈퍼맨이_돌아왔다.md "wikilink") (KBS 2TV)
 
 ## 그 외 매일방송의 관련 뉴스 프로그램
@@ -25,7 +25,7 @@
   - [굿모닝 MBN](../Page/굿모닝_MBN.md "wikilink")
   - [아침 & 매일경제](../Page/아침_&_매일경제.md "wikilink")
   - [전국 네트워크](../Page/전국_네트워크.md "wikilink")
-  - [MBN 프레스룸](https://ko.wikipedia.org/wiki/MBN_프레스룸 "wikilink")
+  - [MBN 프레스룸](../Page/MBN_프레스룸.md "wikilink")
   - [뉴스파이터](../Page/뉴스파이터.md "wikilink")
   - [MBN 뉴스와이드](../Page/MBN_뉴스와이드.md "wikilink")
   - [MBN 종합뉴스](../Page/MBN_종합뉴스.md "wikilink")

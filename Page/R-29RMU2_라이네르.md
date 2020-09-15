@@ -16,6 +16,6 @@
 
 ## 각주
 
-[분류:러시아의 미사일](https://ko.wikipedia.org/wiki/분류:러시아의_미사일 "wikilink") [분류:잠수함발사 탄도유도탄](https://ko.wikipedia.org/wiki/분류:잠수함발사_탄도유도탄 "wikilink")
+[분류:러시아의 미사일](https://ko.wikipedia.org/wiki/분류:러시아의_미사일 "wikilink") [분류:러시아의 핵무기](https://ko.wikipedia.org/wiki/분류:러시아의_핵무기 "wikilink") [분류:잠수함발사 탄도유도탄](https://ko.wikipedia.org/wiki/분류:잠수함발사_탄도유도탄 "wikilink")
 
 1.  러, 최신형 탄도미사일 시험 발사 성공, 연합뉴스, 2011-09-30

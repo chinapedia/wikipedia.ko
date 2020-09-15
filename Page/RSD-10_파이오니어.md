@@ -47,7 +47,7 @@
 
 ## 각주
 
-[분류:소련의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:소련의_지대지유도탄 "wikilink") [분류:북핵문제](https://ko.wikipedia.org/wiki/분류:북핵문제 "wikilink")
+[분류:소련의 지대지유도탄](https://ko.wikipedia.org/wiki/분류:소련의_지대지유도탄 "wikilink") [분류:소련의 핵무기](https://ko.wikipedia.org/wiki/분류:소련의_핵무기 "wikilink") [분류:북핵문제](https://ko.wikipedia.org/wiki/분류:북핵문제 "wikilink")
 
 1.  \[단독\]日월간지 "北 핵심 核과학자 제3國망명", 세계일보, 2004-07-30
 2.  <http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0004466365>

@@ -6,7 +6,7 @@
 [SKE48](../Page/SKE48.md "wikilink")
 [NMB48](../Page/NMB48.md "wikilink")
 [HKT48](../Page/HKT48.md "wikilink") | 장소 = 일본 무도관(개표 이벤트) | 날짜 = 2012년 5월 22일 10시 00분(JST) \~ 6월 5일 14시 59분(JST)(투표)
-2012년 6월 10일(개표) | 결과 = AKB48 27번째 싱글 〈〉의 선발 멤버 {{추가 연표 | 음악가 = [AKB48 선발 총선거](https://ko.wikipedia.org/wiki/AKB48_선발_총선거 "wikilink") | 음반종류 = 싱글 | 이전싱글 = \[\[AKB48_22nd_싱글_선발_총선거|
+2012년 6월 10일(개표) | 결과 = AKB48 27번째 싱글 〈〉의 선발 멤버 {{추가 연표 | 음악가 = [AKB48 선발 총선거](../Page/AKB48_선발_총선거.md "wikilink") | 음반종류 = 싱글 | 이전싱글 = \[\[AKB48_22nd_싱글_선발_총선거|
 
 **AKB48 27th 싱글 선발 총선거**()는 [AKB48](../Page/AKB48.md "wikilink")의 27번째 싱글 CD에 참여할 멤버를 팬 투표로 결정하는 이벤트이다. 이 선거에서 상위 16위까지의 멤버가 [2012년](../Page/2012년.md "wikilink") [8월 29일에](../Page/8월_29일.md "wikilink") 발매된 \<[깅엄 체크](https://ko.wikipedia.org/wiki/깅엄체크 "wikilink")\>(ギンガムチェック)의 선발 멤버가 되었다.
 

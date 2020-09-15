@@ -42,7 +42,7 @@
 1.
 2.  [구리 LG챔피언스파크 간판](http://blog.naver.com/eunbigunhe/110172921186)
 3.  [이천 LG챔피언스파크 간판](http://www.sportsseoul.com/news/read/98595)
-4.  [GS챔피언스파크 영어 공식소개페이지](http://www.fcseoul.com/en/club/park_eng.jsp)
+4.
 5.  [광주-기아 챔피언스 필드](http://www.tigers.co.kr/tigers/stadium_gwangju.asp)
 6.
 7.

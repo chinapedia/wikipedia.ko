@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Deeplearning4j](https://ko.wikipedia.org/wiki/Deeplearning4j).
 
 
-**Eclipse Deeplearning4j**는 [자바와](../Page/자바_\(프로그래밍_언어\).md "wikilink") [자바 가상머신](../Page/자바_가상_머신.md "wikilink") 용으로 작성된 [딥 러닝](https://ko.wikipedia.org/wiki/딥_러닝 "wikilink") 라이브러리이며\[1\]\[2\] [딥 러닝](https://ko.wikipedia.org/wiki/딥_러닝 "wikilink") 알고리즘을 광범위하게 지원하는 [컴퓨팅](../Page/라이브러리_\(컴퓨팅\).md "wikilink") 프레임워크이다.\[3\] Deeplearning4j에는 [Restricted Boltzmann machine](https://ko.wikipedia.org/wiki/:en:Restricted_Boltzmann_machine "wikilink"), [deep belief net](https://ko.wikipedia.org/wiki/:en:Deep_belief_network "wikilink"), deep autoencoder, stacked denoising autoencoder, [recursive neural tensor network](https://ko.wikipedia.org/wiki/:en:Recursive_neural_network "wikilink"), [word2vec](https://ko.wikipedia.org/wiki/:en:Word2vec "wikilink"), doc2vec, [Glove](https://ko.wikipedia.org/wiki/:en:GloVe_\(machine_learning\) "wikilink") 등의 알고리듬들이 구현 되어 있다. 이 알고리듬은 모두 아파치 [하둡과](../Page/아파치_하둡.md "wikilink") [스파크를](../Page/아파치_스파크.md "wikilink") 이용해 분산 병렬 처리가 가능하다.\[4\]
+**Eclipse Deeplearning4j**는 [자바와](../Page/자바_\(프로그래밍_언어\).md "wikilink") [자바 가상머신](../Page/자바_가상_머신.md "wikilink") 용으로 작성된 [딥 러닝](../Page/딥_러닝.md "wikilink") 라이브러리이며\[1\]\[2\] [딥 러닝](../Page/딥_러닝.md "wikilink") 알고리즘을 광범위하게 지원하는 [컴퓨팅](../Page/라이브러리_\(컴퓨팅\).md "wikilink") 프레임워크이다.\[3\] Deeplearning4j에는 [Restricted Boltzmann machine](https://ko.wikipedia.org/wiki/:en:Restricted_Boltzmann_machine "wikilink"), [deep belief net](https://ko.wikipedia.org/wiki/:en:Deep_belief_network "wikilink"), deep autoencoder, stacked denoising autoencoder, [recursive neural tensor network](https://ko.wikipedia.org/wiki/:en:Recursive_neural_network "wikilink"), [word2vec](https://ko.wikipedia.org/wiki/:en:Word2vec "wikilink"), doc2vec, [Glove](https://ko.wikipedia.org/wiki/:en:GloVe_\(machine_learning\) "wikilink") 등의 알고리듬들이 구현 되어 있다. 이 알고리듬은 모두 아파치 [하둡과](../Page/아파치_하둡.md "wikilink") [스파크를](../Page/아파치_스파크.md "wikilink") 이용해 분산 병렬 처리가 가능하다.\[4\]
 
 Deeplearning4j는 [아파치 라이선스](../Page/아파치_라이선스.md "wikilink") 2.0을 따르는 [오픈 소스 소프트웨어이며](../Page/오픈_소스_소프트웨어.md "wikilink")\[5\] [샌프란시스코](../Page/샌프란시스코.md "wikilink")와 [도쿄에](../Page/도쿄도.md "wikilink") 근거를 두며 Adam Gibson이 이끄는 [기계 학습](../Page/기계_학습.md "wikilink") 그룹이 주로 개발하고 있다.\[6\]\[7\] Skymind Intelligence Layer라고 불리는 엔터프라이즈 배포판에 DL4J, [Tensorflow](../Page/텐서플로.md "wikilink"), [Keras](https://ko.wikipedia.org/wiki/:en:Keras "wikilink") 및 기타 딥 러닝 라이브러리를 번들로 제공하는 스타트업 회사인 [Skymind를](https://ko.wikipedia.org/wiki/:en:Skymind "wikilink") 통해 상업적 지원을 받을 수 있다.\[8\] Deeplearning4j는 2017년 10월에 [Eclipse Foundation에](../Page/이클립스_재단.md "wikilink") 합류 하였다.\[9\]
 
@@ -31,14 +31,14 @@ Deeplearning4j는 금융 업계의 사기 탐지\[19\], 비정상 행위 탐지\
 
 ## 관련 라이브러리
 
-  - OpenNN [c++](https://ko.wikipedia.org/wiki/c++ "wikilink")기반의 오픈소스 [딥 러닝](https://ko.wikipedia.org/wiki/딥_러닝 "wikilink") 라이브러리
-  - [토치](http://torch.ch/) [루아](../Page/루아_\(프로그래밍_언어\).md "wikilink") 기반의 오픈소스 [딥 러닝](https://ko.wikipedia.org/wiki/딥_러닝 "wikilink") 라이브러리
-  - [띠아노](http://www.deeplearning.net/software/theano/) [파이썬](../Page/파이썬.md "wikilink") 기반의 오픈소스 [딥 러닝](https://ko.wikipedia.org/wiki/딥_러닝 "wikilink") 라이브러리
+  - OpenNN [c++](https://ko.wikipedia.org/wiki/c++ "wikilink")기반의 오픈소스 [딥 러닝](../Page/딥_러닝.md "wikilink") 라이브러리
+  - [토치](http://torch.ch/) [루아](../Page/루아_\(프로그래밍_언어\).md "wikilink") 기반의 오픈소스 [딥 러닝](../Page/딥_러닝.md "wikilink") 라이브러리
+  - [띠아노](http://www.deeplearning.net/software/theano/) [파이썬](../Page/파이썬.md "wikilink") 기반의 오픈소스 [딥 러닝](../Page/딥_러닝.md "wikilink") 라이브러리
   - [Tensorflow](http://www.tensorflow.org/) 구글에서 발표한 기계학습 오픈소스 library
 
 ## 더 보기
 
-  - [딥 러닝](https://ko.wikipedia.org/wiki/딥_러닝 "wikilink")
+  - [딥 러닝](../Page/딥_러닝.md "wikilink")
   - [인공지능](../Page/인공지능.md "wikilink")
   - [머신 러닝](https://ko.wikipedia.org/wiki/머신_러닝 "wikilink")
 

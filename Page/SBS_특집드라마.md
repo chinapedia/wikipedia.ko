@@ -1,28 +1,29 @@
 > This article is converted from Wikipedia: [SBS 특집드라마](https://ko.wikipedia.org/wiki/SBS_특집드라마).
 
 
-**SBS 특집드라마**는 명절이나 특정한 기간으로 지정된 날이나 달을 기념하기 위해 부정기적으로 편성·방영되는 드라마이다.
+**SBS 특집 드라마**는 명절이나 특정한 기간으로 지정된 날이나 달을 기념하기 위해 부정기적으로 편성·방영 되는 드라마이다.
 
 ## 작품 리스트
 
   - 아래의 프로그램들은 [2003년](../Page/2003년.md "wikilink") 이전에 제작 및 방영한 작품들로 부득이하게 일부 장면에서 [흡연](../Page/흡연.md "wikilink") 장면 및 [담배](https://ko.wikipedia.org/wiki/담배 "wikilink") 소품이 노출될 수 있으며, 시청자 여러분들의 양해를 바랍니다.
-  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 [시청 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 시행하여, 현재까지 이어지고 있다.
+  - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 시청 가능 연령을 표시하는 [드라마 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 의무적으로 시행하여, 현재까지 이어지고 있다.
+  - [2017년](../Page/2017년.md "wikilink") [3월 1일부터](../Page/3월_1일.md "wikilink") TV 프로그램 등급 표시 외에 주제, 폭력성, 선정성, 언어, 모방 위험 등 분류 사유 표시를 의무적으로 시행하고 있다.
 
-### 1990년대 전반
+### 1990년대
 
 #### 1991년
 
-  - 《[고래의 꿈](https://ko.wikipedia.org/wiki/고래의_꿈 "wikilink")》 : 1991년 12월 9일 (개국 특집드라마)
-  - 《[미늘](https://ko.wikipedia.org/wiki/미늘 "wikilink")》 : 1991년 12월 12일 (개국 특집드라마)
-  - 《[길](https://ko.wikipedia.org/wiki/길_\(SBS_드라마\) "wikilink")》 : 1991년 12월 15일 (2부작 개국 특집드라마)
+  - 《[고래의 꿈](https://ko.wikipedia.org/wiki/고래의_꿈 "wikilink")》 : 1991년 12월 9일 (개국 특집 드라마)
+  - 《[미늘](https://ko.wikipedia.org/wiki/미늘 "wikilink")》 : 1991년 12월 12일 (개국 특집 드라마)
+  - 《[길](https://ko.wikipedia.org/wiki/길_\(SBS_드라마\) "wikilink")》 : 1991년 12월 15일 (2부작 개국 특집 드라마)
 
 #### 1992년
 
-  - 《[다시 열리는 세월](https://ko.wikipedia.org/wiki/다시_열리는_세월 "wikilink")》 : 1992년 1월 1일\~1992년 1월 2일 (신년 특집드라마)
-  - 《[청실홍실](https://ko.wikipedia.org/wiki/청실홍실 "wikilink")》 : 1992년 2월 4일 (2부작 설날 특집드라마)
-  - 《[마록열전](https://ko.wikipedia.org/wiki/마록열전 "wikilink")》 : 1992년 8월 14일 (광복절 특집드라마)
-  - 《[파란 눈의 며느리](https://ko.wikipedia.org/wiki/파란_눈의_며느리 "wikilink")》 : 1992년 9월 10일 (추석 특집드라마)
-  - 《[어디로 가나](https://ko.wikipedia.org/wiki/어디로_가나 "wikilink")》 : 1992년 11월 13일 (3부작 창사 특집드라마)
+  - 《[다시 열리는 세월](https://ko.wikipedia.org/wiki/다시_열리는_세월 "wikilink")》 : 1992년 1월 1일\~1992년 1월 2일 (신년 특집 드라마)
+  - 《[청실홍실](https://ko.wikipedia.org/wiki/청실홍실 "wikilink")》 : 1992년 2월 4일 (2부작 설날 특집 드라마)
+  - 《[마록열전](https://ko.wikipedia.org/wiki/마록열전 "wikilink")》 : 1992년 8월 14일 (광복절 특집 드라마)
+  - 《[파란 눈의 며느리](https://ko.wikipedia.org/wiki/파란_눈의_며느리 "wikilink")》 : 1992년 9월 10일 (추석 특집 드라마)
+  - 《[어디로 가나](https://ko.wikipedia.org/wiki/어디로_가나 "wikilink")》 : 1992년 11월 13일 (3부작 창사 특집 드라마)
 
 #### 1993년
 
@@ -40,8 +41,6 @@
   - 《[이수일과 심순애](https://ko.wikipedia.org/wiki/이수일과_심순애_\(드라마\) "wikilink")》 : 1994년 9월 20일 (추석 특집드라마)
   - 《[아리랑](https://ko.wikipedia.org/wiki/아리랑_\(드라마\) "wikilink")》 : 1994년 9월 21일 (추석 특집드라마)
   - 《[그들만의 산타](https://ko.wikipedia.org/wiki/그들만의_산타 "wikilink")》 : 1994년 12월 29일 (2부작 성탄 특집드라마)
-
-### 1990년대 후반
 
 #### 1995년
 
@@ -83,7 +82,7 @@
   - 《[내 사랑 한지순](https://ko.wikipedia.org/wiki/내_사랑_한지순 "wikilink")》 : 1999년 2월 17일 (2부작 설날 특집드라마)
   - 《[아들아 너는 아느냐](https://ko.wikipedia.org/wiki/아들아_너는_아느냐 "wikilink")》 : 1999년 11월 14일 (3부작 창사 특집드라마)
 
-### 2000년대 전반
+### 2000년대
 
 #### 2000년
 
@@ -123,8 +122,6 @@
   - 《[광식의 노래](https://ko.wikipedia.org/wiki/광식의_노래 "wikilink")》 : 2004년 9월 29일 (추석 특집드라마)
   - 《[홍소장의 가을](../Page/홍소장의_가을.md "wikilink")》 : 2004년 11월 14일 (3부작 창사 특집드라마)
 
-### 2000년대 후반
-
 #### 2005년
 
   - 《[내사랑 토람이](https://ko.wikipedia.org/wiki/내사랑_토람이 "wikilink")》 : 2005년 1월 7일 (신년 특집드라마)
@@ -155,7 +152,7 @@
   - 《[아버지, 당신의 자리](../Page/아버지,_당신의_자리.md "wikilink")》 : 2009년 10월 5일 \~ 2009년 10월 6일 (추석 특집드라마)
   - 《[아버지의 집](../Page/아버지의_집.md "wikilink")》 : 2009년 12월 28일 (연말특집극)
 
-### 2010년대 전반
+### 2010년대
 
 #### 2010년
 
@@ -183,8 +180,6 @@
   - 《[강구 이야기](../Page/강구_이야기.md "wikilink")》 : 2014년 3월 29일 \~ 2014년 3월 30일 ([3D](../Page/3차원_텔레비전.md "wikilink") 제작 · 방송)
   - 《[엄마의 선택](../Page/엄마의_선택.md "wikilink")》 : 2014년 10월 12일
 
-### 2010년대 후반
-
 #### 2015년
 
   - 《[내일을 향해 뛰어라](../Page/내일을_향해_뛰어라.md "wikilink")》 : 2015년 2월 20일 (UHD 특집드라마)
@@ -209,12 +204,6 @@
 #### 2019년
 
   - 《[17세의 조건](../Page/17세의_조건.md "wikilink")》 : 2019년 8월 5일 \~ 2019년 8월 6일 ([월화 드라마로](../Page/SBS_월화드라마.md "wikilink") 방영됨)
-
-### 2020년 전반
-
-#### 2020년
-
-  - 《**고맙습니다**》 2020년 5월 5일 \~ 방영예정(어린이날 UHD 드라마)
 
 ## 같이 보기
 

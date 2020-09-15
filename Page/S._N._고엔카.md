@@ -138,14 +138,14 @@
   - [Podcasts about Vipassana Meditation](http://www.pariyatti.org/ResourcesProjects/Podcasts/tabid/58/Default.aspx) (audio talks).
   - [Brief biography of Goenka](https://web.archive.org/web/20180308041311/http://www.vridhamma.org/Teachers-4) at VRI.
   - [Brief biography of Goenka & publications](http://store.pariyatti.org/Goenka-SN_bymfg_686-4-1.html/) at Pariyatti
-  - S.N. Goenka [Meditation Now Tour](http://www.events.dhamma.org/en/2002/) of North America.
+  - S.N. Goenka [Meditation Now Tour](https://web.archive.org/web/20120226030104/http://www.events.dhamma.org/en/2002/) of North America.
   - [Pilgrimages for Vipassana meditators as taught by Goenka](http://www.vipassanapilgrimage.org/) (website)
   - Dhamma Korea 담마코리아 홈페이지 <https://web.archive.org/web/20171207141411/https://www.korea.dhamma.org/ko/>
 
 ## 녹취록
 
   - [The Art of Living: Vipassana Meditation](http://www.dhamma.org/en/art.shtml) based upon a talk given in Berne, Switzerland.
-  - [An Interview with S. N. Goenka](http://www.events.dhamma.org/presskit/tricycle-2000-en) *[Tricycle: The Buddhist Review](https://ko.wikipedia.org/wiki/:en:Tricycle:_The_Buddhist_Review "wikilink")* | Winter 2000
+  - [An Interview with S. N. Goenka](https://web.archive.org/web/20180307151334/http://www.events.dhamma.org/presskit/tricycle-2000-en) *[Tricycle: The Buddhist Review](https://ko.wikipedia.org/wiki/:en:Tricycle:_The_Buddhist_Review "wikilink")* | Winter 2000
   - [Universal Spirituality for Peace](http://www.executive.dhamma.org/en/unaddress0800.shtml) the complete text of the address given by Goenka to the [United Nations General Assembly](https://ko.wikipedia.org/wiki/:en:United_Nations_General_Assembly "wikilink") | 29 August 2000
   - [Q\&A by Goenka](http://www.buddhanet.net/bvk_study/bvk21e.htm) BuddhaNet | 1997 & 1999
   - [Meeting Between Goenka and Krishnamurti](http://www.buddhanet.net/bvk_study/bvk22c.htm) BuddhaNet | 17 October 2000

@@ -35,7 +35,7 @@
 
 ## 외부 링크
 
-  - [JSB3 MEMBER｜ELLY｜3대째 J Soul Brothers OFFICIAL WEBSITE](http://www.jsoulb.jp/profile/elly.php)
+  - [JSB3 MEMBER｜ELLY｜3대째 J Soul Brothers OFFICIAL WEBSITE](https://web.archive.org/web/20140702032504/http://jsoulb.jp/profile/elly.php)
 
   -
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [드라마 W](https://ko.wikipedia.org/wiki/드라마_W).
 
 
-*' 드라마 W*'()는 [WOWOW](../Page/WOWOW.md "wikilink")가 2003년부터 비 정기적으로 제작 · 방송중인 TV 드라마 시리즈. 전 작품 HD로 제작.
+*' 드라마 W*'()는 [WOWOW](../Page/WOWOW.md "wikilink")가 2003년부터 비 정기적으로 제작 · 방송 중인 TV 드라마 시리즈. 전 작품 HD로 제작.
 
 ## 작품 목록
 
@@ -389,7 +389,7 @@
 <td><p>총 5회</p></td>
 <td><p>스즈키 코스케</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오오이시_테츠야" title="wikilink">오오이시 테츠야</a></p></td>
-<td><p><a href="../Page/오오이즈미_요.md" title="wikilink">오오이즈미 요</a>,단 레이,<a href="https://ko.wikipedia.org/wiki/히라야마_히로유키" title="wikilink">히라야마 히로유키</a>,와타베 아츠로</p></td>
+<td><p><a href="../Page/오오이즈미_요.md" title="wikilink">오오이즈미 요</a>,단 레이,<a href="../Page/히라야마_히로유키.md" title="wikilink">히라야마 히로유키</a>,와타베 아츠로</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/니레_슈헤이" title="wikilink">니레 슈헤이</a></p></td>
 <td></td>
 </tr>
@@ -719,7 +719,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/아오야마_신지" title="wikilink">아오야마 신지</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/니시오카_타쿠야" title="wikilink">니시오카 타쿠야</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미카미_히로시" title="wikilink">미카미 히로시</a>、<a href="../Page/소메타니_쇼타.md" title="wikilink">소메타니 쇼타</a>、<a href="../Page/릴리_프랭키.md" title="wikilink">릴리 프랭키</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나카야마_시치리" title="wikilink">나카야마 시치리</a></p></td>
+<td><p><a href="../Page/나카야마_시치리.md" title="wikilink">나카야마 시치리</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1020,7 +1020,7 @@
 </tr>
 <tr class="even">
 <td><p>27</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/더블_판타지" title="wikilink">더블 판타지</a>》</p></td>
+<td><p>《<a href="../Page/더블_판타지.md" title="wikilink">더블 판타지</a>》</p></td>
 <td><p>6월 16일 - 7월 14일</p></td>
 <td><p>총 5회</p></td>
 <td><p>미노리카와 오사무</p></td>
@@ -1186,6 +1186,28 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>39</p></td>
+<td><p>《파레토의 오산~케이스 워커 살인사건》</p></td>
+<td><p>3월 7일 - 4월 4일</p></td>
+<td><p>총 5회</p></td>
+<td><p>고바야시 세이치로</p></td>
+<td><p>武井彩</p></td>
+<td><p>하시모토 아이, 마스다 타카히사, 키타무라 유키야, 마스모토 마리카, 와다 미사토, 코이치 만타로, 니시다 나오미</p></td>
+<td><p>유즈키 유코</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>40</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/철의_뼈" title="wikilink">철의 뼈</a>》</p></td>
+<td><p>4월 18일 - 5월 16일</p></td>
+<td><p>총 5회</p></td>
+<td><p>스즈키 코스케</p></td>
+<td><p>마에카와 요이치</p></td>
+<td><p><a href="../Page/카미키_류노스케.md" title="wikilink">카미키 류노스케</a>, <a href="../Page/우치노_세이요.md" title="wikilink">우치노 세이요</a>, <a href="../Page/츠치야_타오.md" title="wikilink">츠치야 타오</a>, <a href="../Page/코유키.md" title="wikilink">코유키</a>, <a href="../Page/무카이_오사무.md" title="wikilink">무카이 오사무</a>, <a href="../Page/시바타_쿄헤이.md" title="wikilink">시바타 쿄헤이</a>, <a href="../Page/하시모토_료스케.md" title="wikilink">하시모토 료스케</a></p></td>
+<td><p><a href="../Page/이케이도_준.md" title="wikilink">이케이도 준</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>#</p></td>
 <td><p>제목</p></td>
 <td><p>첫 방송일</p></td>
@@ -1240,7 +1262,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/주가폭락" title="wikilink">주가폭락</a>》</p></td>
+<td><p>《<a href="../Page/이케이도_준.md" title="wikilink">주가폭락</a>》</p></td>
 <td><p>10월 19일 - 11월 16일</p></td>
 <td><p>총 5회</p></td>
 <td><p>스즈키 코스케</p></td>
@@ -1292,7 +1314,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/오니시_켄이치" title="wikilink">오니시 켄이치</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/코이데_케이스케" title="wikilink">코이데 케이스케</a>,<a href="../Page/쿠라시나_카나.md" title="wikilink">쿠라시나 카나</a>,<a href="https://ko.wikipedia.org/wiki/와카무라_마유미" title="wikilink">와카무라 마유미</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/야쿠아루_가쿠" title="wikilink">야쿠아루 가쿠</a></p></td>
-<td></td>
+<td><p>[9]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -1363,7 +1385,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/토다야마_마사시" title="wikilink">토다야마 마사시</a></p></td>
 <td><p><a href="../Page/에구치_요스케.md" title="wikilink">에구치 요스케</a>,<a href="../Page/하기와라_마사토.md" title="wikilink">하기와라 마사토</a>,<a href="../Page/하야시_켄토.md" title="wikilink">하야시 켄토</a>,<a href="../Page/마토부_세이.md" title="wikilink">마토부 세이</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/기요타케_히데토시" title="wikilink">기요타케 히데토시</a></p></td>
-<td></td>
+<td><p>[10]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
@@ -1397,7 +1419,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/아베_테루오" title="wikilink">아베 테루오</a></p></td>
 <td><p><a href="../Page/타나베_세이이치.md" title="wikilink">타나베 세이이치</a>,<a href="https://ko.wikipedia.org/wiki/시구로_켄" title="wikilink">시구로 켄</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/안도_요시아키" title="wikilink">안도 요시아키</a></p></td>
-<td><p>[9]</p></td>
+<td><p>[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
@@ -1409,7 +1431,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/스기하라_노리아키" title="wikilink">스기하라 노리아키</a></p></td>
 <td><p><a href="../Page/시이나_킷페이.md" title="wikilink">시이나 킷페이</a>,<a href="../Page/키리타니_켄타.md" title="wikilink">키리타니 켄타</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/하타노_쇼" title="wikilink">하타노 쇼</a></p></td>
-<td><p>[10]</p></td>
+<td><p>[12]</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
@@ -1421,7 +1443,7 @@
 <td><p>다나베 미츠루</p></td>
 <td><p><a href="../Page/츠치야_타오.md" title="wikilink">츠치야 타오</a></p></td>
 <td><p><a href="../Page/히가시노_게이고.md" title="wikilink">히가시노 게이고</a></p></td>
-<td><p>[11]</p></td>
+<td><p>[13]</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
@@ -1433,7 +1455,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/마에카와_요이치" title="wikilink">마에카와 요이치</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타카야_카미카와" title="wikilink">타카야 카미카와</a></p></td>
 <td><p><a href="../Page/야마사키_도요코.md" title="wikilink">야마사키 도요코</a></p></td>
-<td><p>[12]</p></td>
+<td><p>[14]</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
@@ -1444,7 +1466,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/시노자키_에리코" title="wikilink">시노자키 에리코</a></p></td>
 <td><p><a href="../Page/키타가와_케이코.md" title="wikilink">키타가와 케이코</a>, <a href="../Page/시바타_쿄헤이.md" title="wikilink">시바타 쿄헤이</a>, <a href="https://ko.wikipedia.org/wiki/오노에_마쓰야" title="wikilink">오노에 마쓰야</a>, <a href="https://ko.wikipedia.org/wiki/후루야_잇코" title="wikilink">후루야 잇코</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/나카야마_치리_(소설가)" title="wikilink">나카야마 치리</a></p></td>
-<td><p>[13][14]</p></td>
+<td><p>[15][16]</p></td>
 </tr>
 <tr class="even">
 <td><p>17</p></td>
@@ -1455,7 +1477,7 @@
 <td></td>
 <td><p>키무라 후미노, 아오키 숭고한</p></td>
 <td><p>아사미 카즈시</p></td>
-<td><p>[15]</p></td>
+<td><p>[17]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017년</p></td>
@@ -1477,7 +1499,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/시노자키_에리코" title="wikilink">시노자키 에리코</a></p></td>
 <td><p><a href="../Page/나카마_유키에.md" title="wikilink">나카마 유키에</a></p></td>
 <td><p><a href="../Page/미야베_미유키.md" title="wikilink">미야베 미유키</a></p></td>
-<td><p>[16]</p></td>
+<td><p>[18]</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
@@ -1492,7 +1514,7 @@
 <a href="https://ko.wikipedia.org/wiki/야마오카_준페이" title="wikilink">야마오카 준페이</a></p></td>
 <td><p>스즈키 료헤이</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/몽키_펀치" title="wikilink">몽키 펀치</a></p></td>
-<td><p>[17]</p></td>
+<td><p>[19]</p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
@@ -1503,7 +1525,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/스즈키_사토시" title="wikilink">스즈키 사토시</a></p></td>
 <td><p><a href="../Page/쿠보타_마사타카.md" title="wikilink">쿠보타 마사타카</a>, <a href="https://ko.wikipedia.org/wiki/오자와_유키요시" title="wikilink">오자와 유키요시</a>, <a href="../Page/하기와라_마사토.md" title="wikilink">하기와라 마사토</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/다이몬_타케아키" title="wikilink">다이몬 타케아키</a></p></td>
-<td><p>[18]</p></td>
+<td><p>[20]</p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
@@ -1541,7 +1563,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/마에카와_요이치" title="wikilink">마에카와 요이치</a></p></td>
 <td><p><a href="../Page/무카이_오사무.md" title="wikilink">무카이 오사무</a>, <a href="../Page/사이토_타쿠미.md" title="wikilink">사이토 타쿠미</a></p></td>
 <td><p>이케이도 준</p></td>
-<td></td>
+<td><p>[21]</p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
@@ -1587,7 +1609,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/마에카와_요이치" title="wikilink">마에카와 요이치</a></p></td>
 <td><p><a href="../Page/오다_유지.md" title="wikilink">오다 유지</a>, <a href="https://ko.wikipedia.org/wiki/키시다니_고로" title="wikilink">키시다니 고로</a>, <a href="https://ko.wikipedia.org/wiki/후루야_잇코" title="wikilink">후루야 잇코</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/슈_료카" title="wikilink">슈 료카</a>, <a href="https://ko.wikipedia.org/wiki/노다_시게루" title="wikilink">노다 시게루</a></p></td>
-<td></td>
+<td><p>[22]</p></td>
 </tr>
 <tr class="even">
 <td><p>27</p></td>
@@ -1609,7 +1631,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/타카다_료" title="wikilink">타카다 료</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타치_히로시" title="wikilink">타치 히로시</a>, <a href="https://ko.wikipedia.org/wiki/후루카와_유키" title="wikilink">후루카와 유키</a>, <a href="https://ko.wikipedia.org/wiki/호시노_마리" title="wikilink">호시노 마리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이시카와_토모타케" title="wikilink">이시카와 토모타케</a></p></td>
-<td></td>
+<td><p>[23]</p></td>
 </tr>
 <tr class="even">
 <td><p>29</p></td>
@@ -1642,7 +1664,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/이케다_나츠코" title="wikilink">이케다 나츠코</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카미카와_타카야" title="wikilink">카미카와 타카야</a>, <a href="../Page/고이즈미_코타로.md" title="wikilink">고이즈미 코타로</a>, <a href="../Page/우치다_유키.md" title="wikilink">우치다 유키</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쇼다_칸" title="wikilink">쇼다 칸</a></p></td>
-<td></td>
+<td><p>[24]</p></td>
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
@@ -1675,7 +1697,7 @@
 <td><p>마에가와 요이치</p></td>
 <td><p><a href="../Page/타키자와_히데아키.md" title="wikilink">타키자와 히데아키</a>, <a href="../Page/나카무라_토오루.md" title="wikilink">나카무라 토오루</a>, <a href="https://ko.wikipedia.org/wiki/나가쓰카_쿄조" title="wikilink">나가쓰카 쿄조</a>, <a href="https://ko.wikipedia.org/wiki/쿠도_아스카" title="wikilink">쿠도 아스카</a>, <a href="../Page/야마모토_미즈키.md" title="wikilink">야마모토 미즈키</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오가네_토시히코" title="wikilink">오가네 토시히코</a></p></td>
-<td></td>
+<td><p>[25]</p></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
@@ -1708,7 +1730,7 @@
 <td><p>다나카 히로시</p></td>
 <td><p>시이나 킷페이, 스기모토 텟타, 스즈키 사와, 이시나 세이, 키타무라 유키야</p></td>
 <td><p>쿠사카베 요우</p></td>
-<td></td>
+<td><p>[26]</p></td>
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
@@ -1741,7 +1763,7 @@
 <td><p>아나부키 이치로</p></td>
 <td><p>-</p></td>
 <td><p>아사미 카즈시</p></td>
-<td></td>
+<td><p>[27]</p></td>
 </tr>
 <tr class="even">
 <td><p>2020년</p></td>
@@ -1772,9 +1794,9 @@
 <td><p>총 6회</p></td>
 <td><p>무라카미 쇼스케 츠즈키 쥰이치</p></td>
 <td><p>사쿠라이 다케하루</p></td>
-<td><p><a href="../Page/쿠사카리_마사오.md" title="wikilink">쿠사카리 마사오</a>, <a href="../Page/미조바타_준페이.md" title="wikilink">미조바타 준페이</a>, <a href="https://ko.wikipedia.org/wiki/다카하시_메아리쥰" title="wikilink">다카하시 메아리쥰</a></p></td>
+<td><p><a href="../Page/쿠사카리_마사오.md" title="wikilink">쿠사카리 마사오</a>, <a href="../Page/미조바타_준페이.md" title="wikilink">미조바타 준페이</a>, 호리베 케이스케, 고바야시 타카시, 나토리 유코, 호리우치 마사미, <a href="../Page/이와마츠_료.md" title="wikilink">이와마츠 료</a></p></td>
 <td><p>마야마 진</p></td>
-<td></td>
+<td><p>[28]</p></td>
 </tr>
 <tr class="odd">
 <td><p>42</p></td>
@@ -1831,10 +1853,20 @@
 9.
 10.
 11.
-12. 개국 25주년 기념작품.
+12.
 13.
-14.
+14. 개국 25주년 기념작품.
 15.
 16.
 17.
 18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.

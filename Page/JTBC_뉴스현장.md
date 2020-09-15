@@ -57,15 +57,15 @@
 
 ### 평일
 
-| 기수 | 진행자                                                                                            | 진행 기간                                                                                                                                                        |
-| -- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1기 | [성문규](../Page/성문규.md "wikilink"),[이지은](https://ko.wikipedia.org/wiki/이지은 "wikilink")           | [2004년](../Page/2004년.md "wikilink") [6월 16일](../Page/6월_16일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink")   |
-| 2기 | [박성준](https://ko.wikipedia.org/wiki/박성준_\(1969년\) "wikilink"),[송민교](../Page/송민교.md "wikilink") | [2004년](../Page/2004년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink")     |
-| 3기 | [박성태](../Page/박성태.md "wikilink"),[송민교](../Page/송민교.md "wikilink")                              | [2005년](../Page/2005년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink")     |
-| 4기 | [박성준](https://ko.wikipedia.org/wiki/박성준_\(1969년\) "wikilink"),[송민교](../Page/송민교.md "wikilink") | [2005년](../Page/2005년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") |
-| 5기 | [김종혁](../Page/김종혁.md "wikilink"),[송민교](../Page/송민교.md "wikilink")                              | [2006년](../Page/2006년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink")       |
-| 6기 | [김종혁](../Page/김종혁.md "wikilink")                                                               | [2006년](../Page/2006년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink")     |
-| 7기 | [성문규](../Page/성문규.md "wikilink")                                                               | [2008년](../Page/2008년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink")   |
+| 기수 | 진행자                                                                                  | 진행 기간                                                                                                                                                        |
+| -- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1기 | [성문규](../Page/성문규.md "wikilink"),[이지은](https://ko.wikipedia.org/wiki/이지은 "wikilink") | [2004년](../Page/2004년.md "wikilink") [6월 16일](../Page/6월_16일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink")   |
+| 2기 | [박성준](../Page/박성준_\(1969년\).md "wikilink"),[송민교](../Page/송민교.md "wikilink")          | [2004년](../Page/2004년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink")     |
+| 3기 | [박성태](../Page/박성태.md "wikilink"),[송민교](../Page/송민교.md "wikilink")                    | [2005년](../Page/2005년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink")     |
+| 4기 | [박성준](../Page/박성준_\(1969년\).md "wikilink"),[송민교](../Page/송민교.md "wikilink")          | [2005년](../Page/2005년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") |
+| 5기 | [김종혁](../Page/김종혁.md "wikilink"),[송민교](../Page/송민교.md "wikilink")                    | [2006년](../Page/2006년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink")       |
+| 6기 | [김종혁](../Page/김종혁.md "wikilink")                                                     | [2006년](../Page/2006년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink")     |
+| 7기 | [성문규](../Page/성문규.md "wikilink")                                                     | [2008년](../Page/2008년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink")   |
 
 ## 같이 보기
 

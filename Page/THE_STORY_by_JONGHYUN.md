@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [THE STORY by JONGHYUN](https://ko.wikipedia.org/wiki/THE_STORY_by_JONGHYUN).
 
 
-《**THE STORY by JONGHYUN**은》 [SM TOWN의](../Page/SM_TOWN.md "wikilink") 소극장 콘서트 브랜드 〈[THE AGIT](https://ko.wikipedia.org/wiki/THE_AGIT "wikilink")〉의 일환으로, [샤이니](../Page/샤이니.md "wikilink")의 [종현](../Page/종현.md "wikilink")의 단독 콘서트 테마이다.\[1\]
+《**THE STORY by JONGHYUN**》은 [SM TOWN의](../Page/SM_TOWN.md "wikilink") 소극장 콘서트 브랜드 〈[THE AGIT](https://ko.wikipedia.org/wiki/THE_AGIT "wikilink")〉의 일환으로, [샤이니](../Page/샤이니.md "wikilink")의 [종현](../Page/종현.md "wikilink")의 단독 콘서트 테마이다.\[1\]
 
 ## 일정
 

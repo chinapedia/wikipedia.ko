@@ -60,8 +60,6 @@ chroot $TARGETDIR ln -s /proc/mounts /etc/mtab
 
 ## 각주
 
-<references />
-
 ## 외부 링크
 
   -

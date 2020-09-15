@@ -46,7 +46,7 @@ YCgCo 색상 모형에 관련된 연구:
 
   - H. Malvar, G. Sullivan, *YCoCg-R: A color space with RGB reversibility and low dynamic range.* ISO/IEC JTC1/SC29/WG11 and ITU-T SG16 Q.6, Document JVT-I014, 2003.
   - S. Sun: *Residual Color Transform Using YCoCg-R.* ISO/IEC JTC1/SC29/WG11 and ITU-T Q6/SG16, Document JVT-L014, March 2004.
-  - Woo-Shik Kim, Dmitry Birinov, Dae-Sung Cho, Hyun Mun Kim (Multimedia Lab, Samsung AIT); Video Coding Experts Group (VCEG): *Enhancements to RGB coding in H.264/MPEG-4 AVC FRExt*. Proposal, 26th Meeting: Busan, KR, 16–22. April 2005 ([ITU Document VCEG-Z16](http://wftp3.itu.int/av-arch/video-site/0504_Bus/VCEG-Z16.doc), doc)
+  - Woo-Shik Kim, Dmitry Birinov, Dae-Sung Cho, Hyun Mun Kim (Multimedia Lab, Samsung AIT); Video Coding Experts Group (VCEG): *Enhancements to RGB coding in H.264/MPEG-4 AVC FRExt*. Proposal, 26th Meeting: Busan, KR, 16–22. April 2005 ([ITU Document VCEG-Z16](https://web.archive.org/web/20150125081948/http://wftp3.itu.int/av-arch/video-site/0504_Bus/VCEG-Z16.doc), doc)
   - P. Agawane, K.R. Rao (Multimedia Processing Lab, University of Texas at Arlington): *Implementation and evaluation of residual color transform for 4:4:4 lossless RGB coding.* International Conference on Recent Advances in Communication Engineering, Hyderabad, India. 20-23 December 2008. ([ppt](https://web.archive.org/web/20100704085151/http://www-ee.uta.edu/dip/Research_Files/MPL/Research/RecentResearch/Pooja.ppt))
 
 ## 참조

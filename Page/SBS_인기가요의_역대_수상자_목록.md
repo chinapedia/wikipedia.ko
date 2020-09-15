@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS 인기가요의 역대 수상자 목록](https://ko.wikipedia.org/wiki/SBS_인기가요의_역대_수상자_목록).
 
 
-**이 문서**에는 **[SBS 인기가요](../Page/SBS_인기가요.md "wikilink") 역대 수상자 목록**을 담고 있습니다.
+**이 문서**에는 **[SBS 인기가요](../Page/SBS_인기가요.md "wikilink") 역대 수상자 목록**을 담고 있다.
 
 ## 1위 수상자
 
@@ -2237,10 +2237,32 @@
 
 **6월**
 
-  - 6월 7일 (1050회) -
-  - 6월 14일 (1051회) -
-  - 6월 21일 (1052회) -
-  - 6월 28일 (1053회) -
+  - 6월 7일 (1050회) - [백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") Candy
+  - 6월 14일 (1051회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") MORE\&MORE
+  - 6월 21일 (1052회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") MORE\&MORE (2주 연속)
+  - 6월 28일 (1053회) - [아이즈원](../Page/아이즈원.md "wikilink") 환상동화
+
+**7월**
+
+  - 7월 5일 (1054회) - [블랙핑크](../Page/블랙핑크.md "wikilink") How You Like That
+  - 7월 12일 (1055회) - [블랙핑크](../Page/블랙핑크.md "wikilink") How You Like That (2주 연속)
+  - 7월 19일 (1056회) - **[블랙핑크](../Page/블랙핑크.md "wikilink") How You Like That (3주 연속)**
+  - 7월 26일 (1057회) - [화사](../Page/화사.md "wikilink") 마리아
+
+**8월**
+
+  - 8월 2일 (1058회) - [화사](../Page/화사.md "wikilink") 마리아 (2주 연속)
+  - 8월 9일 (1059회) - **[화사](../Page/화사.md "wikilink") 마리아 (3주 연속)**
+  - 8월 16일 (1060회) - [(여자)아이들](../Page/\(여자\)아이들.md "wikilink") 덤디덤디
+  - 8월 23일 (1061회) - [(여자)아이들](../Page/\(여자\)아이들.md "wikilink") 덤디덤디 (2주 연속)
+  - 8월 30일 (1062회) - [방탄소년단](../Page/방탄소년단.md "wikilink") Dynamite
+
+**9월**
+
+  - 9월 6일 (1063회) -
+  - 9월 13일 (1064회) -
+  - 9월 20일 (1065회) -
+  - 9월 27일 (1066회) -
 
 ## 인기가요 CHART 트리플 크라운 Top Artist
 
@@ -2300,11 +2322,12 @@
       - 42대: [방탄소년단](../Page/방탄소년단.md "wikilink") ON (2020.03.15)\[139\]
       - 43대: [ITZY](../Page/ITZY.md "wikilink") WANNABE (2020.04.05)
       - 44대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 에잇 (2020.05.31)\[140\]
-      - 45대: **?**
-      - 46대: **?**
-      - 47대: **?**
-      - 48대: **?**
-      - 49대: **?**
+      - 45대: [블랙핑크](../Page/블랙핑크.md "wikilink") How You Like That (2020.07.19)\[141\]
+      - 46대: [화사](../Page/화사.md "wikilink") 마리아 (2020.08.09)
+      - 47대: **미 정**
+      - 48대: **미 정**
+      - 49대: **미 정**
+      - 50대: **미 정**
 
 ## 같이 보기
 
@@ -2458,3 +2481,4 @@
 138.
 139.
 140.
+141.

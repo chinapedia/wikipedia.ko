@@ -92,7 +92,7 @@
 16. **MY EVERY TIME**
 17. **SUNRISE**
       -
-        작사: 25→graffiti / 작곡: ROCK STONE, [STEVEN LEE](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink"), JIMMY RICHARD / 편곡: Pieni tonttu
+        작사: 25→graffiti / 작곡: ROCK STONE, [STEVEN LEE](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink"), JIMMY RICHARD / 편곡: Pieni tonttu
 18. **** / <small>**다정한 비**</small>
       -
         작사: Nai-T, KAHLUA / 작곡: Nai-T / 편곡: Billy Marx Jr.

@@ -139,7 +139,7 @@ JBCZ-9015(통상반)</p></td>
 
   - [VALSHE 공식 블로그 Powered by LINE](http://lineblog.me/valshe/)
 
-[분류:일본의 여자 가수](https://ko.wikipedia.org/wiki/분류:일본의_여자_가수 "wikilink") [분류:일본 컬럼비아](https://ko.wikipedia.org/wiki/분류:일본_컬럼비아 "wikilink") [분류:빙 (기업)](https://ko.wikipedia.org/wiki/분류:빙_\(기업\) "wikilink") [분류:생년 미상](https://ko.wikipedia.org/wiki/분류:생년_미상 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink")
+[분류:일본의 여자 가수](https://ko.wikipedia.org/wiki/분류:일본의_여자_가수 "wikilink") [분류:일본 컬럼비아](https://ko.wikipedia.org/wiki/분류:일본_컬럼비아 "wikilink") [분류:빙 (기업)](https://ko.wikipedia.org/wiki/분류:빙_\(기업\) "wikilink") [분류:1986년 태어남](https://ko.wikipedia.org/wiki/분류:1986년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink")
 
 1.  한국어 더빙판에서는 “붸르쉐브니크 칸촤베카”라고 표기되어있다.
 2.

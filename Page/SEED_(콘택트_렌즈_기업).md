@@ -40,7 +40,7 @@
   - [키타가와 케이코](../Page/키타가와_케이코.md "wikilink")
       - vivid moon 이미지 캐릭터 (2008년 \~ )
       - Fine UV 이미지 캐릭터 (2010년 \~ )
-      - Eye coffret 1day UV ​​이미지 캐릭터 (2012년 \~ )
+      - Eye coffret 1day UV 이미지 캐릭터 (2012년 \~ )
       - SEED Pure 시리즈 이미지 캐릭터 (2013년 \~ )
 
 ## 자회사

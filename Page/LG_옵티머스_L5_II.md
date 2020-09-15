@@ -8,7 +8,7 @@
   - [2013년](../Page/2013년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : [모바일 월드 콩그레스](../Page/모바일_월드_콩그레스.md "wikilink") 2013에서 제품 공개\[3\]
   - [2013년](../Page/2013년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") : [브라질](../Page/브라질.md "wikilink")에서 제품 출시\[4\]
 
-## 디자인
+## 특수 기능
 
 ### 홈 버튼 [LED](https://ko.wikipedia.org/wiki/LED "wikilink")
 

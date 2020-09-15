@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OS X 엘카피탠](https://ko.wikipedia.org/wiki/OS_X_엘카피탠).
 
 
-**OS X 엘캐피탄**(OS X El Capitan, 버전 10.11)은 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 12번째 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") 운영체제이다. [2015년](../Page/2015년.md "wikilink") [6월 2일에](../Page/6월_2일.md "wikilink") [애플 세계 개발자 회의에서](https://ko.wikipedia.org/wiki/애플_세계_개발자_회의 "wikilink") 발표되었으며, 개발자 베타는 6월 9일, 공개 베타는 7월 10일에 처음 공개되었으며, 정식 버전은 2015년 9월 30일 애플 맥 앱스토어를 통해 배포되었다. 이전 버전은 [OS X 요세미티이다](../Page/OS_X_요세미티.md "wikilink").
+**OS X 엘캐피탄**(OS X El Capitan, 버전 10.11)은 [애플](../Page/애플.md "wikilink")의 12번째 [OS X](https://ko.wikipedia.org/wiki/OS_X "wikilink") 운영체제이다. [2015년](../Page/2015년.md "wikilink") [6월 2일에](../Page/6월_2일.md "wikilink") [애플 세계 개발자 회의에서](https://ko.wikipedia.org/wiki/애플_세계_개발자_회의 "wikilink") 발표되었으며, 개발자 베타는 6월 9일, 공개 베타는 7월 10일에 처음 공개되었으며, 정식 버전은 2015년 9월 30일 애플 맥 앱스토어를 통해 배포되었다. 이전 버전은 [OS X 요세미티이다](../Page/OS_X_요세미티.md "wikilink").
 
 ## 이름
 

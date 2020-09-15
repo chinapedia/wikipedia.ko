@@ -12,7 +12,7 @@
 ## 연혁
 
   - [2015년](../Page/2015년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") : 시험방송 시작.
-  - 2015년 [2월 11일](../Page/2월_11일.md "wikilink") : 서울특별시 강남구 도곡동 본사에서 신용섭 EBS 사장, 최성준 방송통신위원장 등 12명이서 송출버튼을 누른 것으로 개국했다.
+  - 2015년 [2월 11일](../Page/2월_11일.md "wikilink") : 개국 및 컬러 방송 개시.
   - 2015년 [2월 13일](../Page/2월_13일.md "wikilink") : 구 [CJ 헬로비전](https://ko.wikipedia.org/wiki/CJ_헬로비전 "wikilink")(현 [LG헬로비전](../Page/LG헬로비전.md "wikilink"))과 [티브로드](../Page/티브로드.md "wikilink")(현 [SK브로드밴드](../Page/SK브로드밴드.md "wikilink")에 매각), [C\&M](https://ko.wikipedia.org/wiki/C&M "wikilink"), [HCN](https://ko.wikipedia.org/wiki/HCN_\(방송\) "wikilink"), [CMB](../Page/CMB_\(방송사\).md "wikilink") 등을 포함한 케이블TV 사업자들이 재송신하기로 합의를 하였다.\[1\]
   - 2015년 [4월 1일](../Page/4월_1일.md "wikilink") : 케이블TV 재송신 개시.\[2\]
   - 2015년 11월 21일 : KT 올레TV 라이브(KT IPTV)에서 EBS 2TV 재송신 개시
@@ -21,6 +21,23 @@
   - [2017년](../Page/2017년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") : 우면동, 도곡동 시대를 마감하고 방송사 신청사 이전 서울특별시 서초구 우면동 → 서울특별시 강남구 도곡동 → 경기도 고양시 일산동구 장항동 한류월드 신사옥 이전
   - [2017년](../Page/2017년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") : 우면동, 도곡동 사옥 시대 정비기간 마감.
   - [2017년](../Page/2017년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") : 우면동, 도곡동 시대를 마감하고 방송사 신청사 이전 준공 서울특별시 서초구 우면동 → 서울특별시 강남구 도곡동 → 경기도 고양시 일산동구 장항동 한류월드 신사옥 이전 준공
+
+## 방송 문구 변천사
+
+  - 이 프로그램은 www.ebs.co.kr에서 다시보실 수 있습니다. (2009년 \~ 2016년)
+  - 이 프로그램은 www.ebs.co.kr과 모바일 앱 ebs play을 통해서 다시보실 수 있습니다. (2017년 \~ 현재)
+  - 이 프로그램은 <http://primary.ebs.co.kr> 을 통해 다시보실 수 있습니다. (2015년\~2016년)
+  - 이 프로그램은 www.primary.ebs.co.kr과 EBS 초등 모바일 앱을 통해 다시보실 수 있습니다 (2019년\~현재)
+  - 이 프로그램은 www.ebse.co.kr을 통해 다시보실 수 있습니다 (2013년\~2017년)
+  - 이 프로그램은 www.ebse.co.kr와 ebse 모바일 앱을 통해 다시보실 수 있습니다. (2017년\~현재)
+  - 이 프로그램은 www.ebssw.kr 이솦을 통해서 다시보실 수 있습니다 (2019년 \~ 현재)
+  - ebs는 방송통신심의위원회의 심의규정을 준수합니다. (1990년 \~ 현재)
+  - 다음 시간에 만나요 (2000년 \~ 2013년, 2020년 \~ 현재)
+  - 제작지원 방송통신위원회 방송발전기금 (2009년 \~ 현재)
+  - 제작지원 미래창조과학부(현. 과학기술정보통신부) 방송발전기금 (2016년 \~2017년)
+  - 제작지원 교육부, 전국 16개 교육청 (2020년 \~ 현재)
+  - 정규 편성 관계로 ○○○○은 쉽니다. 시청자 여러분의 많은 시청 바랍니다 (2012년\~)
+  - 아래에 주요 방송 문구로 청각장애인을 위한 자막방송, 시청각장애인을 위한 자막 및 화면해설방송, 시각장애인을 위한 수어방송 등이 있다.
 
 ## 방송 프로그램
 
@@ -47,17 +64,17 @@
   - [이야기 한국사](https://ko.wikipedia.org/wiki/이야기_한국사 "wikilink")
   - [사이틴](https://ko.wikipedia.org/wiki/사이틴 "wikilink")
   - [사이틴 플러스](https://ko.wikipedia.org/wiki/사이틴_플러스 "wikilink")
-  - [즐거운 수학 EBS MATH](https://ko.wikipedia.org/wiki/즐거운_수학_EBS_MATH "wikilink")\[6\]
+  - [즐거운 수학 EBS MATH](../Page/즐거운_수학_EBS_MATH.md "wikilink")\[6\]
 
 #### 교양 · 교육 · 영화 · 다문화 · 통일 · 드라마
 
-  - [똑똑친구, 에디슨](https://ko.wikipedia.org/wiki/똑똑친구,_에디슨 "wikilink")
-  - [명령이다, 비트](https://ko.wikipedia.org/wiki/명령이다,_비트 "wikilink")
-  - [아하, 그렇구나](https://ko.wikipedia.org/wiki/아하,_그렇구나 "wikilink")
-  - [CLASS-e](https://ko.wikipedia.org/wiki/CLASS-e "wikilink")
+  - [직업탐구 별일입니다](https://ko.wikipedia.org/wiki/직업탐구_별일입니다 "wikilink")
+  - 파란만장
+  - [클래스 e](https://ko.wikipedia.org/wiki/클래스_e "wikilink")
   - [EBS 클래식](https://ko.wikipedia.org/wiki/EBS_클래식 "wikilink")
   - [EBS 명강](https://ko.wikipedia.org/wiki/EBS_명강 "wikilink")
-  - [바닷가 사람들](https://ko.wikipedia.org/wiki/바닷가_사람들 "wikilink") (2020년 5월 25일 첫방예정)
+  - [EBS 비즈니스 리뷰](https://ko.wikipedia.org/wiki/EBS_비즈니스_리뷰 "wikilink")
+  - [바닷가 사람들](https://ko.wikipedia.org/wiki/바닷가_사람들 "wikilink")
   - [와글와글 미술관](https://ko.wikipedia.org/wiki/와글와글_미술관 "wikilink")
   - [야옹 클래식](https://ko.wikipedia.org/wiki/야옹_클래식 "wikilink")
   - [과학할 고양](https://ko.wikipedia.org/wiki/과학할_고양 "wikilink")
@@ -66,22 +83,22 @@
   - [엉뚱남매 요리조리쇼](https://ko.wikipedia.org/wiki/엉뚱남매_요리조리쇼 "wikilink")
   - [삐뽀삐뽀 우리몸 X파일](https://ko.wikipedia.org/wiki/삐뽀삐뽀_우리몸_X파일 "wikilink")
   - [와글와글 미술관](https://ko.wikipedia.org/wiki/와글와글_미술관 "wikilink")
-  - [아기 동물 귀여워](https://ko.wikipedia.org/wiki/아기_동물_귀여워 "wikilink")
+  - [아기 동물 귀여워](../Page/아기_동물_귀여워.md "wikilink")
   - [과학할 고양](https://ko.wikipedia.org/wiki/과학할_고양 "wikilink")
   - [즐거운 수학 EBSMath](https://ko.wikipedia.org/wiki/즐거운_수학_EBSMath "wikilink")
   - [사이언스타Q](https://ko.wikipedia.org/wiki/사이언스타Q "wikilink")
   - [지식채널e](../Page/지식채널e.md "wikilink")
 
-### 유아 · 어린이 · 애니메이션
+#### 유아 · 어린이 · 애니메이션
 
   - [뚝딱남매 비츠와 밥](https://ko.wikipedia.org/wiki/뚝딱남매_비츠와_밥 "wikilink")
   - [방귀대장 뿡뿡이](../Page/방귀대장_뿡뿡이.md "wikilink")
-  - [애코와 친구들](https://ko.wikipedia.org/wiki/애코와_친구들 "wikilink")
+  - [애코와 친구들](../Page/애코와_친구들.md "wikilink")
   - [두근두근 방방](../Page/두근두근_방방.md "wikilink")
   - [미스테리야](https://ko.wikipedia.org/wiki/미스테리야 "wikilink")
-  - [예술아 놀자](https://ko.wikipedia.org/wiki/예술아_놀자 "wikilink")
-  - [미술탐험대](https://ko.wikipedia.org/wiki/미술탐험대 "wikilink")
+  - [최고다\!호기심 딱지](https://ko.wikipedia.org/wiki/최고다!호기심_딱지 "wikilink")
   - [허풍선이 과학쇼](https://ko.wikipedia.org/wiki/허풍선이_과학쇼 "wikilink")
+  - [허풍선이 음악쇼](https://ko.wikipedia.org/wiki/허풍선이_음악쇼 "wikilink")
   - [세미와 매직큐브](../Page/세미와_매직큐브.md "wikilink")
   - [픽시](https://ko.wikipedia.org/wiki/픽시 "wikilink")
 
@@ -262,7 +279,7 @@
 
 ## 같이 보기
 
-※ 주의사항 ※ 이 방송 채널은 청우식품, 롯데하이마트가 지정한 대한민국 공영방송 텔레비전 채널입니다. 같이 보기 부분을 함부로 편집하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
+※ 주의사항 ※ 이 방송 채널은 농심, 한성기업, 중앙일보, 한국방송광고진흥공사가 지정한 대한민국 공영방송 텔레비전 채널이다. 같이 보기 부분을 함부로 편집하지 마시고, 늘 눈으로 봐 주시기 바란다.
 
   - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
   - [KBS 2TV](../Page/KBS_2TV.md "wikilink")

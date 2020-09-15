@@ -27,6 +27,10 @@
 
 제품 구매시 [구글드라이브](https://ko.wikipedia.org/wiki/구글드라이브 "wikilink")에서 2년 동안 50 [GB를](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 무료로 제공한다.\[2\]
 
+## 같이 보기
+
+[HTC 휴대 전화 목록](../Page/HTC_휴대_전화_목록.md "wikilink")
+
 ## 각주
 
 ## 외부 링크

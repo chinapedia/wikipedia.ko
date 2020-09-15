@@ -7,7 +7,7 @@
 
 전작 〈[Intro Situation](../Page/Intro_Situation.md "wikilink")〉에서 약 반년만이 되는, 2015년 1번째 싱글이다. 발매형태는 DVD가 있는 초회한정반(KICM-91564) 및 통상반(KICM-1564)의 2종류로, DVD에는 〈NEO SIGNALIFE〉의 PV와 그 메이킹 영상이 수록되어있다.
 
-타이틀곡인 〈NEO SIGNALIFE〉는 분카방송 《분카방송 스포츠 스퀘어 \~ SET UP》의 엔딩테마로도 사용된 [EDM에서](https://ko.wikipedia.org/wiki/일렉트로닉_댄스_뮤직 "wikilink"), “‘다음 단계로 나아가는’ 강한 의사를 보여준다”는 컨셉트 하에 제작되었다\[2\]\[3\]. 또, 커플링곡인 〈오리온의 메시지〉()는 겨울 길의 풍경을 부른 [발라드](https://ko.wikipedia.org/wiki/발라드 "wikilink")로 제작되어있다\[4\]\[5\].
+타이틀곡인 〈NEO SIGNALIFE〉는 분카방송 《분카방송 스포츠 스퀘어 \~ SET UP》의 엔딩테마로도 사용된 [EDM에서](../Page/일렉트로닉_댄스_뮤직.md "wikilink"), “‘다음 단계로 나아가는’ 강한 의사를 보여준다”는 컨셉트 하에 제작되었다\[2\]\[3\]. 또, 커플링곡인 〈오리온의 메시지〉()는 겨울 길의 풍경을 부른 [발라드](https://ko.wikipedia.org/wiki/발라드 "wikilink")로 제작되어있다\[4\]\[5\].
 
 〈NEO SIGNALIFE〉의 PV는 유이카오리가 우주선으로 여행하는 장면과 곡에 맟추어서 춤추는 장면이 번갈아서 흐르는 것으로 되어있다\[6\]. 또, [디스크 자켓은](https://ko.wikipedia.org/wiki/디스크_자켓 "wikilink") 의상과 배경에 기하학적 무늬가 배합된 디자인으로 갖추어져있다\[7\].
 

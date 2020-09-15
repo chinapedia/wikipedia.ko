@@ -213,7 +213,7 @@
 
 <!-- end list -->
 
-  - [오렐리앙 요아힘](../Page/오렐리앙_요아힘.md "wikilink")
+  - [오렐리앵 조아킴](https://ko.wikipedia.org/wiki/오렐리앵_조아킴 "wikilink")
 
 <!-- end list -->
 

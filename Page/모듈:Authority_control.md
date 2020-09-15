@@ -1027,9 +1027,9 @@ end
 `   { 'MBI', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")`', 1330, p.mbiLink, category = 'MusicBrainz instrument' }, --special category name`
 `   { 'MBL', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")`', 966, p.mblLink, category = 'MusicBrainz label' }, --special category name`
 `   { 'MBP', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")`', 1004, p.mbpLink, category = 'MusicBrainz place' }, --special category name`
-`   { 'MBRG', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")` release group', 436, p.mbrgLink, category = 'MusicBrainz release group' }, --special category name`
+`   { 'MBRG', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")` 릴리스 그룹', 436, p.mbrgLink, category = 'MusicBrainz release group' }, --special category name`
 `   { 'MBS', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")`', 1407, p.mbsLink, category = 'MusicBrainz series' }, --special category name`
-`   { 'MBW', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")` work', 435, p.mbwLink, category = 'MusicBrainz work' }, --special category name`
+`   { 'MBW', '`[`뮤직브레인즈`](../Page/뮤직브레인즈.md "wikilink")` 작품', 435, p.mbwLink, category = 'MusicBrainz work' }, --special category name`
 `   { 'MGP', '`[`MGP`](../Page/수학_계보_프로젝트.md "wikilink")`', 549, p.mgpLink },`
 `   { 'NARA', '`[`NARA`](../Page/미국_국립문서기록관리청.md "wikilink")`', 1225, p.naraLink },`
 `   { 'NCL', '`[`NCL`](https://ko.wikipedia.org/wiki/국가도서관 "wikilink")`', 1048, p.nclLink },`
@@ -1054,7 +1054,7 @@ end
 `   { 'SBN', '`[`ICCU`](https://ko.wikipedia.org/wiki/:en:Istituto_Centrale_per_il_Catalogo_Unico "wikilink")`', 396, p.sbnLink },`
 `   { 'SELIBR', '`[`SELIBR`](../Page/LIBRIS.md "wikilink")`', 906, p.selibrLink },`
 `   { 'SIKART', '`[`SIKART`](https://ko.wikipedia.org/wiki/SIKART "wikilink")`', 781, p.sikartLink },`
-`   { 'SNAC-ID', '`[`SNAC`](https://ko.wikipedia.org/wiki/SNAC "wikilink")`', 3430, p.snacLink },`
+`   { 'SNAC-ID', '`[`SNAC`](../Page/SNAC.md "wikilink")`', 3430, p.snacLink },`
 `   { 'SUDOC', '`[`SUDOC`](https://ko.wikipedia.org/wiki/프랑스_대학도서관_종합목록 "wikilink")`', 269, p.sudocLink },`
 `   { 'S2AuthorId', '`[`S2AuthorId`](https://ko.wikipedia.org/wiki/:en:Semantic_Scholar "wikilink")`', 4012, p.s2authoridLink, category = 'Semantic Scholar author' }, --special category name`
 `   { 'TA98', '`[`TA98`](https://ko.wikipedia.org/wiki/:en:Terminologia_Anatomica "wikilink")`', 1323, p.ta98Link },`
@@ -1210,7 +1210,7 @@ function p.authorityControl( frame )
 `           name  = 'Authority control',`
 `           navboxclass = 'authority-control',`
 `           bodyclass = 'hlist',`
-`           group1 = '`[`전거``   ``통제`](../Page/전거_통제.md "wikilink")`'..pencil,`
+`           group1 = '`[`전거``   ``통제`](https://ko.wikipedia.org/wiki/위키백과:전거_통제 "wikilink")`'..pencil,`
 `           list1 = table.concat( elements )`
 `           } )`
 `       local auxCats = worldcatCat .. elementsCat .. suppressedIdCat .. deprecatedIdCat`

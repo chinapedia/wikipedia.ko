@@ -19,7 +19,7 @@
 
 ## 생산
 
-처음에 [유타주](../Page/유타주.md "wikilink") [리하이](../Page/리하이.md "wikilink") 지역의 [IM 플래시 테크놀로지스](https://ko.wikipedia.org/wiki/IM_플래시_테크놀로지스 "wikilink") LLC(인텔-마이크론의 합작회사)에 의해 운영되는 [웨이퍼 공정은](https://ko.wikipedia.org/wiki/웨이퍼_공정 "wikilink") 적은 양의 128 Gbit의 칩을 2015년에 생산하였다. 이들은 2개의 64 Gbit 플레인을 적층한다.\[21\]\[22\] 2016년 초에 IM 플래시의 CEO 가이 블랄록(Guy Blalock)은 이 칩들의 대량 생산이 아직 12\~18개월 남았다고 언급하였다.\[23\]
+처음에 [유타주](../Page/유타주.md "wikilink") [리하이](https://ko.wikipedia.org/wiki/리하이_\(유타주\) "wikilink") 지역의 [IM 플래시 테크놀로지스](https://ko.wikipedia.org/wiki/IM_플래시_테크놀로지스 "wikilink") LLC(인텔-마이크론의 합작회사)에 의해 운영되는 [웨이퍼 공정은](https://ko.wikipedia.org/wiki/웨이퍼_공정 "wikilink") 적은 양의 128 Gbit의 칩을 2015년에 생산하였다. 이들은 2개의 64 Gbit 플레인을 적층한다.\[21\]\[22\] 2016년 초에 IM 플래시의 CEO 가이 블랄록(Guy Blalock)은 이 칩들의 대량 생산이 아직 12\~18개월 남았다고 언급하였다.\[23\]
 
 비트 당 예상 가격은 DRAM 보다 더 낮고 NAND 보다 더 높을 것으로 추측되지만, 완성되는 제품에 따라 다르다.\[24\] 2016년 초에 IM 플래시는 1세대 솔리드 스테이트 드라이브가 95000 [IOPS](https://ko.wikipedia.org/wiki/IOPS "wikilink") 스루풋에 9 마이크로초 레이턴시를 달성할 것이라고 발표하였다.\[25\]
 

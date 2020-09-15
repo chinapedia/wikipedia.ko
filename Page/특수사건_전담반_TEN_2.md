@@ -152,7 +152,7 @@
   - [문경민](../Page/문경민.md "wikilink") : 문장 분석가 역
   - 신동훈
   - 문채성\<\!--
-  - [정수인](https://ko.wikipedia.org/wiki/정수인 "wikilink")--\>
+  - [정수인](../Page/정수인.md "wikilink")--\>
   - 진영범
   - 이정수
   - [육미라](../Page/육미라.md "wikilink") : 신영근네 동네 슈퍼 주인 역
@@ -264,7 +264,7 @@
 
   - [예수정](../Page/예수정.md "wikilink") : F사건 세 번째 피해자 최현정의 어머니 역 (1 \~ 2화)
   - [박병은](../Page/박병은.md "wikilink") : 송경태 역 (1 \~ 3화, 12화)
-  - [윤예희](../Page/윤예희.md "wikilink") : 사라 킴 (김순애) 역 (3화)
+  - [윤예희](../Page/윤예희.md "wikilink") : 사라 킴(김순애) 역 (3화)
   - [이현경](../Page/이현경_\(배우\).md "wikilink") : 최상희 역 - 백도식의 맞선녀 (6화)
   - [김용명](../Page/김용명.md "wikilink") : 반달 역 - 권투도장 관장, 백도식의 정보원 (6화)
   - [이선진](../Page/이선진.md "wikilink") : 신영근의 동료 교수 역 - 여지훈의 지인 (7화)
@@ -289,9 +289,9 @@
   - 스토리 : 채윤석, 조록환
   - 극본 : [이승영](https://ko.wikipedia.org/wiki/이승영_\(연출가\) "wikilink"), 조록환, 안영수, 신재형
   - 윤색 : 이재곤
-  - 연출 : [이승영](https://ko.wikipedia.org/wiki/이승영_\(연출가\) "wikilink")
-  - 기획 : OCN
-  - 제작 : MBC C\&I
+  - 연출 : 이승영
+  - 기획 : [OCN](../Page/OCN_\(텔레비전_채널\).md "wikilink")
+  - 제작 : [MBC C\&I](https://ko.wikipedia.org/wiki/MBC_C&I "wikilink")
 
 ## 방영 목록
 

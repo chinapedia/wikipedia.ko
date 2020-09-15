@@ -50,6 +50,4 @@
 
   - [ACTS29](../Page/ACTS29.md "wikilink")
 
-## 외부 링크
-
-[분류:잉글랜드의 축구단](https://ko.wikipedia.org/wiki/분류:잉글랜드의_축구단 "wikilink") [분류:2005년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2005년_설립된_축구단 "wikilink") <http://m.cafe.daum.net/londonfc> <https://www.facebook.com/groups/169889253042256/> <https://www.facebook.com/groups/651612761600583/>
+[분류:잉글랜드의 축구단](https://ko.wikipedia.org/wiki/분류:잉글랜드의_축구단 "wikilink") [분류:2005년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2005년_설립된_축구단 "wikilink")

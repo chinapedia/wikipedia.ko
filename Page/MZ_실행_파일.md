@@ -61,7 +61,7 @@ struct EXE_Header {
 
 ## 덧붙인 머리
 
-MZ를 만들어 낼 수 있는 다양한 제품들은 저마다 자신들만의 목적을 위해 기본 머리 뒷쪽에 뭔가를 덧붙이고 있다. 외부 링크 [EXE Format (영어)](http://www.fileformat.info/format/exe/corion-mz.htm) 에 관련한 내용이 여럿 포함되어 있다. 대부분은 어떤 제품으로 만들어졌는지를 표시하는 정도이고, 진짜로 해당 제품만을 위한 것은 구체적인 정보가 없는 상태다.
+MZ를 만들어 낼 수 있는 다양한 제품들은 저마다 자신들만의 목적을 위해 기본 머리 뒷쪽에 뭔가를 덧붙이고 있다. 외부 링크 [EXE Format (영어)](https://web.archive.org/web/20131020045350/http://www.fileformat.info/format/exe/corion-mz.htm) 에 관련한 내용이 여럿 포함되어 있다. 대부분은 어떤 제품으로 만들어졌는지를 표시하는 정도이고, 진짜로 해당 제품만을 위한 것은 구체적인 정보가 없는 상태다.
 
 마이크로소프트의 새 실행 파일 형식인 PE도 기본은 MZ이기 때문에 덧붙인 머리에 PE 머리에 대한 정보가 추가되어 있다. 아래 구조체는 MS의 SDK에 포함된 것이다. 앞 부분은 변수명만 다르게 정의되었을 뿐 기본 머리와 같다. PE에서 실질적인 의미가 있는 것은 맨 마지막의 e_lfanew 뿐이다. 새 형식의 머리가 어디에 있는지에 대한 정보다. 나머지 덧붙인 정보들은 PE가 만들어질 때까지 여러 제품들이 추가했던 정보들을 모두 반영하기 위한 형식적인 것이다.
 
@@ -192,7 +192,7 @@ MZ 실행 파일은 DOS와 [윈도 9x](https://ko.wikipedia.org/wiki/윈도_9x "
 
 ## 외부 링크
 
-  - [EXE Format](http://www.fileformat.info/format/exe/corion-mz.htm)
+  - [EXE Format](https://web.archive.org/web/20131020045350/http://www.fileformat.info/format/exe/corion-mz.htm)
 
   - [MZ DOS EXE file format](http://www.delorie.com/djgpp/doc/exe/)
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Translatewiki.net](https://ko.wikipedia.org/wiki/Translatewiki.net).
 
 
-**translatewiki.net**(번역위키닷넷)은 [미디어위키](../Page/미디어위키.md "wikilink")로 모든 텍스트를 번역할 수 있도록 하는 미디어위키의 번역 확장 기능으로 작동하는 웹 기반의 번역 플랫폼이다.
+**translatewiki.net**(번역위키닷넷)은 [미디어위키](../Page/미디어위키.md "wikilink")로 모든 텍스트를 번역할 수 있도록 하는 미디어위키의 번역 확장 기능으로 작동하는 [웹](https://ko.wikipedia.org/wiki/웹 "wikilink") 기반의 번역 플랫폼이다.
 
 세계에서 13번째로 문서 수가 가장 많은 위키이며\[1\], 약 5000명의 번역자가 있고\[2\], [미디어위키](../Page/미디어위키.md "wikilink"), [오픈스트리트맵](../Page/오픈스트리트맵.md "wikilink"), [미포스](https://ko.wikipedia.org/wiki/미포스 "wikilink"), [생명의 백과사전](../Page/생명의_백과사전.md "wikilink") 등을 포함하는 20개가 넘는 프로젝트의 문자열 5만 개가 있다\[3\].
 

@@ -9,7 +9,7 @@
 
 타이틀곡인 〈Ring Ring Rainbow\!\!〉은 [TV 애니메이션](../Page/일본의_애니메이션.md "wikilink") 《[성 아랫마을의 단델리온](https://ko.wikipedia.org/wiki/성_아랫마을의_단델리온#애니메이션 "wikilink")》의 [여는 곡으로](https://ko.wikipedia.org/wiki/주제가 "wikilink") 사용된 “가족”이 테마인 록튠\[3\]\[4\]이다.
 
-또, 커플링곡인 〈Calling Calling〉은 어른스러운 분위기인 [EDM이다](https://ko.wikipedia.org/wiki/일렉트로닉_댄스_뮤직 "wikilink")\[5\].
+또, 커플링곡인 〈Calling Calling〉은 어른스러운 분위기인 [EDM이다](../Page/일렉트로닉_댄스_뮤직.md "wikilink")\[5\].
 
 〈Ring Ring Rainbow\!\!〉의 PV는 유이카오리가 초원에서 노래에 맞추어서 춤추는 내용의 되고 있다\[6\]. 또, [디스크 자켓은](https://ko.wikipedia.org/wiki/디스크_자켓 "wikilink") 타이틀에 덧붙여서, 유이카오리 앞에 각양각색의 도너츠나 컬러풀한 케이크가 놓여진 아트워크로 되어있다\[7\].
 

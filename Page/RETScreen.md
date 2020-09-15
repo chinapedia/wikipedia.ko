@@ -72,7 +72,7 @@ RETScreen과 RETScreen 팀은 Ernst & Young/Euromoney 글로벌 재생 에너지
   -
   - ["RETScreen 은 무엇인가?"](https://web.archive.org/web/20150511055424/http://www.retscreen.net/ko/what_is_retscreen.php)
 
-[분류:재생 에너지](https://ko.wikipedia.org/wiki/분류:재생_에너지 "wikilink") [분류:1998년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1998년_소프트웨어 "wikilink") [분류:태양 에너지](https://ko.wikipedia.org/wiki/분류:태양_에너지 "wikilink") [분류:에너지 절약](https://ko.wikipedia.org/wiki/분류:에너지_절약 "wikilink") [분류:에너지 정책](https://ko.wikipedia.org/wiki/분류:에너지_정책 "wikilink") [분류:풍력](https://ko.wikipedia.org/wiki/분류:풍력 "wikilink") [분류:에너지 기술](https://ko.wikipedia.org/wiki/분류:에너지_기술 "wikilink") [분류:저탄소 경제](https://ko.wikipedia.org/wiki/분류:저탄소_경제 "wikilink")
+[분류:재생 에너지](https://ko.wikipedia.org/wiki/분류:재생_에너지 "wikilink") [분류:1998년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1998년_소프트웨어 "wikilink") [분류:태양열 발전](https://ko.wikipedia.org/wiki/분류:태양열_발전 "wikilink") [분류:풍력 발전](https://ko.wikipedia.org/wiki/분류:풍력_발전 "wikilink") [분류:에너지 절약](https://ko.wikipedia.org/wiki/분류:에너지_절약 "wikilink") [분류:에너지 정책](https://ko.wikipedia.org/wiki/분류:에너지_정책 "wikilink") [분류:에너지 기술](https://ko.wikipedia.org/wiki/분류:에너지_기술 "wikilink") [분류:저탄소 경제](https://ko.wikipedia.org/wiki/분류:저탄소_경제 "wikilink")
 
 1.
 2.

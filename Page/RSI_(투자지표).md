@@ -66,6 +66,6 @@ RSI는 개념과 계산 방식이 [스토캐스틱](../Page/스토캐스틱.md "
   - [주식 차트분석 보조지표 RSI 활용하기](http://mixiworld.tistory.com/57)
   - [RSI 투자보조지표](http://stockschart.tistory.com/16)
   - [RSI 지표 02 - 너무 쉬운 주식 전략 자료실](https://sites.google.com/site/stockhowto/rsi-jipyo-02)
-  - [RSI 매매 기법](http://giftalk.cafe24.com/index.php?mid=stock&document_srl=1041&listStyle=viewer)
+  - [RSI 매매 기법](https://web.archive.org/web/20141019100812/http://giftalk.cafe24.com/index.php?mid=stock&document_srl=1041&listStyle=viewer)
 
 [분류:투자](https://ko.wikipedia.org/wiki/분류:투자 "wikilink")

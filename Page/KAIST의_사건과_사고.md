@@ -119,7 +119,7 @@
 6.
 7.
 8.
-9.  [카이스트 서남표 총장 및 학교의 횡포를 고발합니다.](http://leaflet.tistory.com/558)
+9.
 10.
 11. {{ 뉴스 인용 |url=<http://news.hankooki.com/lpage/society/200901/h2009013103110421980.htm> |제목=KAIST판 '미네르바 사건' 서남표 총장, 비난글 포털에 올린 학생 고소해 논란 |출판사=한국일보 |날짜=2009년 1월 31일 |확인날짜=2013년 11월 18일 |보존url=<https://web.archive.org/web/20111118221806/http://news.hankooki.com/lpage/society/200901/h2009013103110421980.htm> |보존날짜=2011년 11월 18일 |url-status=dead }}
 12. {{ 뉴스 인용 |url=<http://www.hani.co.kr/arti/society/campus/336273.html> |제목=한겨레 - 카이스트 총장 비판글 고소 파문 |출판사= 한겨레 |날짜= 2009년 2월 1일 }}

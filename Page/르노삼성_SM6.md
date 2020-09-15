@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [르노삼성 SM6](https://ko.wikipedia.org/wiki/르노삼성_SM6).
 
 
-**르노삼성 SM6**(Renault Samsung SM6)는 [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 공식 출시한 중형 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이다. 차명인 SM6는 [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")'(Samsung Motors)'를 의미하는 SM에 [SM5와](../Page/르노삼성_SM5.md "wikilink") [SM7의](../Page/르노삼성_SM7.md "wikilink") 중간급을 상징하는 숫자 6을 결합한 것이다. [르노](../Page/르노.md "wikilink")와 [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")가 공동 개발한 SM6는 [QM3와는](../Page/르노삼성_QM3.md "wikilink") 달리, [부산](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 공장에서 생산되므로 대한민국에서는 국산차로 분류된다. 동급 경쟁 차량으로는 [현대 쏘나타](../Page/현대_쏘나타.md "wikilink"), [쉐보레 말리부](../Page/쉐보레_말리부.md "wikilink"), [기아 K5](../Page/기아_K5.md "wikilink"), [폭스바겐 파사트](../Page/폭스바겐_파사트.md "wikilink"), [혼다 어코드](../Page/혼다_어코드.md "wikilink"), [토요타 캠리](../Page/토요타_캠리.md "wikilink"), [닛산 알티마](../Page/닛산_알티마.md "wikilink"), [포드 몬데오등이](../Page/포드_몬데오.md "wikilink") 있다.
+**르노삼성 SM6**(Renault Samsung SM6)는 [르노삼성자동차](../Page/르노삼성자동차.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 공식 출시한 중형 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이다. 차명인 SM6는 르노삼성자동차'(Samsung Motors)'를 의미하는 SM에 [SM5와](../Page/르노삼성_SM5.md "wikilink") [SM7의](../Page/르노삼성_SM7.md "wikilink") 중간급을 상징하는 숫자 6을 결합한 것이다. [르노](../Page/르노.md "wikilink")와 르노삼성자동차가 공동 개발한 SM6는 [QM3와는](../Page/르노삼성_QM3.md "wikilink") 달리, [부산](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 공장에서 생산되므로 대한민국에서는 국산차로 분류된다. 그리고 형제차인 르노 탈리스만에는 왜건 사양이 있지만 SM6는 대한민국 시장에서 왜건 모델이 인기가 낮아 세단 사양만 존재한다. 동급 경쟁 차량으로는 [현대 쏘나타](../Page/현대_쏘나타.md "wikilink"), [쉐보레 말리부](../Page/쉐보레_말리부.md "wikilink"), [기아 K5](../Page/기아_K5.md "wikilink"), [폭스바겐 파사트](../Page/폭스바겐_파사트.md "wikilink"), [혼다 어코드](../Page/혼다_어코드.md "wikilink"), [토요타 캠리](../Page/토요타_캠리.md "wikilink"), [닛산 알티마](../Page/닛산_알티마.md "wikilink"), [포드 몬데오등이](../Page/포드_몬데오.md "wikilink") 있다.
 
 ## 1세대(LFD)
 
-### SM6(2016년 3월\~현재)
+### SM6(2016년 3월\~2020년 7월 14일)
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:20160311_Renault_Samsung_SM6_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:20160311_Renault_Samsung_SM6_02.jpg "wikilink")
 
@@ -222,10 +222,12 @@
 </tbody>
 </table>
 
-{{-}}
+### 더 뉴 SM6(2020년 7월 15일\~현재)
+
+2020년 7월 15일 출시되었다. PE 트림이 삭제되고 SE Plus 트림이 새로 개설되었다. 동급 최초로 무빙 턴시그널이 들어간다. 또한 많은 지적을 받았던 AM링크가 삭제되었다. {{-}}
 
 ## 외부 링크
 
   - [르노삼성자동차 공식 홈페이지](http://www.renaultsamsungm.com/)
 
-[SM6](https://ko.wikipedia.org/wiki/분류:르노의_차종 "wikilink") [SM6](https://ko.wikipedia.org/wiki/분류:르노삼성자동차의_차종 "wikilink") [SM6](https://ko.wikipedia.org/wiki/분류:세단 "wikilink") [SM6](https://ko.wikipedia.org/wiki/분류:전륜구동 "wikilink") [SM6](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [SM6](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink")
+[SM6](https://ko.wikipedia.org/wiki/분류:르노삼성자동차의_차종 "wikilink") [SM6](https://ko.wikipedia.org/wiki/분류:세단 "wikilink") [SM6](https://ko.wikipedia.org/wiki/분류:전륜구동 "wikilink") [SM6](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [SM6](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink")

@@ -8,6 +8,7 @@
   - [루이지](../Page/루이지.md "wikilink")
   - 파랑 [키노피오](../Page/키노피오.md "wikilink")
   - 노랑 키노피오
+  - 키노피코
   - 톳텐(마리오를 교체, 적/장애물에 닿아도 안 다치고 아이템을 얻을 수 없으나 얻은 아이템은 1UP으로 교체)
   - [피치](../Page/피치.md "wikilink")
   - [쿠파](https://ko.wikipedia.org/wiki/쿠파 "wikilink")

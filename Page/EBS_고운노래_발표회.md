@@ -42,7 +42,7 @@
 <td><p>무릎학교</p></td>
 <td><p>하청호</p></td>
 <td><p>오현주</p></td>
-<td><p>김우건( 산초등학교)</p></td>
+<td><p>김우건(부산 부흥초등학교 5학년)</p></td>
 </tr>
 <tr class="even">
 <td><p>제4회</p></td>
@@ -279,6 +279,7 @@
 <td style="text-align: left;"><ul>
 <li>일시 : <a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/7월_28일.md" title="wikilink">7월 28일</a> (수)</li>
 <li>장소 : 성남시민회관</li>
+<li>진행 : <a href="../Page/최선규.md" title="wikilink">최선규</a>, <a href="https://ko.wikipedia.org/wiki/한홍비" title="wikilink">한홍비</a></li>
 <li>방송 : <a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/7월_30일.md" title="wikilink">7월 30일</a> (금) EBS 라디오</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 220곡이 참가해 예선을 거쳐 본선에 12팀이 오름.<br />
@@ -416,6 +417,7 @@
 <td style="text-align: left;"><ul>
 <li>일시 : <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/7월_15일.md" title="wikilink">7월 15일</a> (토)</li>
 <li>장소 : 과천시민회관</li>
+<li>진행 : <a href="../Page/유열.md" title="wikilink">유열</a>, <a href="https://ko.wikipedia.org/wiki/한홍비" title="wikilink">한홍비</a></li>
 <li>방송 : <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/7월_28일.md" title="wikilink">7월 28일</a> (금) EBS 라디오</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 276곡이 참가해 1차 예선에 66곡, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
@@ -552,6 +554,7 @@
 <tr class="odd">
 <td style="text-align: left;"><ul>
 <li>장소 : 무주 반딧불 축제 행사장</li>
+<li>진행 : <a href="../Page/유열.md" title="wikilink">유열</a>, <a href="../Page/최윤영_(방송인).md" title="wikilink">최윤영</a></li>
 <li>방송 : <a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/9월_9일.md" title="wikilink">9월 9일</a> (일)</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 195곡이 참가해 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
@@ -689,6 +692,7 @@
 <td style="text-align: left;"><ul>
 <li>일시 : <a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a> (토) 오후 7시 30분</li>
 <li>장소 : 무주 반딧불 축제 행사장</li>
+<li>진행 : <a href="../Page/김생민.md" title="wikilink">김생민</a>, 김시연</li>
 <li>방송 : <a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a> (토) 오후 4시, EBS 라디오</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 212곡이 참가해 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
@@ -826,6 +830,7 @@
 <td style="text-align: left;"><ul>
 <li>일시 : <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_15일.md" title="wikilink">11월 15일</a> (토) 오후 4시</li>
 <li>장소 : 부천시청 대강당</li>
+<li>진행 : <a href="../Page/문천식.md" title="wikilink">문천식</a>, 김혜연</li>
 <li>방송 : <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/11월_22일.md" title="wikilink">11월 22일</a> (토) 오후 3시 20분 (라디오, 오후 5시)</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 249곡이 참가해 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />
@@ -963,6 +968,7 @@
 <td style="text-align: left;"><ul>
 <li>일시 : <a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/12월_18일.md" title="wikilink">12월 18일</a> (토) 오후 5시</li>
 <li>장소 : 부천시청 대강당</li>
+<li>진행 : <a href="https://ko.wikipedia.org/wiki/김태진" title="wikilink">김태진</a>, 김지선</li>
 <li>방송 : <a href="../Page/2004년.md" title="wikilink">2004년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a> (금) 오후 6시 50분 (라디오, <a href="../Page/12월_26일.md" title="wikilink">12월 26일</a>)</li>
 </ul>
 <p><strong>참가팀 :</strong> 총 198곡이 참가해 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />

@@ -19,7 +19,7 @@
         작사: ASIL, Masa Fujise, John World, SQUAREF / 작곡: James Winchester, Peter Boyes, Christopher Wortley / 편곡: Slice of Life
 3.  **Tell me why**
       -
-        작사: SQUAREF, mfmsiQ, John World / Rap 작사: [사쿠라이 쇼](../Page/사쿠라이_쇼.md "wikilink") / 작곡: Andreas Johansson, [STEVEN LEE](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink") / 편곡: A.K.Janeway
+        작사: SQUAREF, mfmsiQ, John World / Rap 작사: [사쿠라이 쇼](../Page/사쿠라이_쇼.md "wikilink") / 작곡: Andreas Johansson, [STEVEN LEE](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink") / 편곡: A.K.Janeway
 4.  **Asterisk**
       -
         작사·작곡·편곡: 100+ / Rap 작사: 사쿠라이 쇼

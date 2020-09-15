@@ -166,7 +166,7 @@
 <tbody>
 <tr class="odd">
 <td><p>102</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/옐_(드라마)" title="wikilink">옐</a>》(エール)</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/옐_(TV_드라마)" title="wikilink">옐</a>》(エール)</p></td>
 <td><p>2020년 3월 30일 ~ 2020년 9월 25일<br />
 (진행 중)</p></td>
 <td><p><a href="../Page/쿠보타_마사타카.md" title="wikilink">쿠보타 마사타카</a>(窪田正孝)<br />

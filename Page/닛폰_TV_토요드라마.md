@@ -69,7 +69,7 @@
 
   - [내일은 저의 바람이 분다](https://ko.wikipedia.org/wiki/내일은_저의_바람이_분다 "wikilink") (출연 : [코이즈미 쿄코](../Page/코이즈미_쿄코.md "wikilink") 외)
   - [이케나카 겐타 80킬로 III](https://ko.wikipedia.org/wiki/이케나카_겐타_80킬로 "wikilink") (출연 : [니시다 토시유키](../Page/니시다_토시유키.md "wikilink") 외)
-  - [쇼난 이야기 마이 웨이 마이 러브](https://ko.wikipedia.org/wiki/쇼난_이야기 "wikilink") (출연 : [사이토 유키](https://ko.wikipedia.org/wiki/사이토_유키 "wikilink"), [후지 타츠야](https://ko.wikipedia.org/wiki/후지_타츠야 "wikilink") 외)
+  - [쇼난 이야기 마이 웨이 마이 러브](https://ko.wikipedia.org/wiki/쇼난_이야기 "wikilink") (출연 : [사이토 유키](https://ko.wikipedia.org/wiki/사이토_유키 "wikilink"), [후지 타츠야](../Page/후지_타츠야.md "wikilink") 외)
   - [만나고 싶어서](https://ko.wikipedia.org/wiki/만나고_싶어서 "wikilink") (출연 : [오기노메 요코](../Page/오기노메_요코.md "wikilink") 외)
   - [그 여름에 안기고 싶은](https://ko.wikipedia.org/wiki/그_여름에_안기고_싶은 "wikilink") (출연 : [노무라 히로노부](https://ko.wikipedia.org/wiki/노무라_히로노부 "wikilink"), [콘노 미사코](https://ko.wikipedia.org/wiki/콘노_미사코 "wikilink") 외)
   - [연인의 노래가 들린다](https://ko.wikipedia.org/wiki/연인의_노래가_들린다 "wikilink") (출연 : [나카무라 마사토시](https://ko.wikipedia.org/wiki/나카무라_마사토시 "wikilink") 외)

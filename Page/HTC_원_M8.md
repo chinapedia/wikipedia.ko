@@ -37,6 +37,7 @@
 
   - [HTC 원 맥스](../Page/HTC_원_맥스.md "wikilink")
   - [HTC 원](../Page/HTC_원.md "wikilink")
+  - [HTC 휴대 전화 목록](../Page/HTC_휴대_전화_목록.md "wikilink")
 
 ## 각주
 

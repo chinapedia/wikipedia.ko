@@ -23,10 +23,10 @@
 
 ## 외부 링크
 
-  - [연속 TV 소설 아마짱 오리지널 사운드트랙](http://www.jvcmusic.co.jp/img/artist_top/A024440/amachan/linernotes/index.html) - 빅터 엔터테인먼트
+  - [연속 TV 소설 아마짱 오리지널 사운드트랙](https://web.archive.org/web/20130618155451/http://www.jvcmusic.co.jp/img/artist_top/A024440/amachan/linernotes/index.html) - 빅터 엔터테인먼트
 
 [분류:2013년 사운드트랙 음반](https://ko.wikipedia.org/wiki/분류:2013년_사운드트랙_음반 "wikilink") [분류:연속 TV 소설](https://ko.wikipedia.org/wiki/분류:연속_TV_소설 "wikilink")
 
 1.
 2.
-3.  [연속 TV 소설 〈아마짱〉 오리지널 사운드트랙](http://www.jvcmusic.co.jp/img/artist_top/A024440/amachan/linernotes/index.html), 빅터 엔터테인먼트, 2013년 6월 19일 열람.
+3.  [연속 TV 소설 〈아마짱〉 오리지널 사운드트랙](http://www.jvcmusic.co.jp/img/artist_top/A024440/amachan/linernotes/index.html) , 빅터 엔터테인먼트, 2013년 6월 19일 열람.

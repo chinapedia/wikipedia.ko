@@ -48,7 +48,7 @@
       - 1부 3권
       - 2부 4권
       - 3부 5권
-      - 4부 5권
+      - 4부 6권
       - 오피셜 팬북
   - [가든 로스트](https://ko.wikipedia.org/wiki/가든_로스트 "wikilink") / 쿄고쿠 이즈키
   - [납골당의 어린왕자](https://ko.wikipedia.org/wiki/납골당의_어린왕자 "wikilink") / 퉁구스카 / 11권

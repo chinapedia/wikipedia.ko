@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KARI TR-100](https://ko.wikipedia.org/wiki/KARI_TR-100).
 
 
-**KARI TR-100**은 대한민국 [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink")가 개발한 [틸트로터](https://ko.wikipedia.org/wiki/틸트로터 "wikilink") 방식의 수직이착륙 스마트 무인기이다. 민간용으로 개발되었으며, 무게를 1톤에서 600 kg으로 줄인 군용은 [대한항공 TR-60이다](https://ko.wikipedia.org/wiki/대한항공_TR-60 "wikilink"). [대한한공 KUS-TR로](https://ko.wikipedia.org/wiki/대한한공_KUS-TR "wikilink") 이름을 변경했으며, 무게는 200 kg으로 줄였다. 2013년 10월 17일 초도비행에 성공했다.\[1\]
+**KARI TR-100**은 대한민국 [KARI](https://ko.wikipedia.org/wiki/KARI "wikilink")가 개발한 [틸트로터](https://ko.wikipedia.org/wiki/틸트로터 "wikilink") 방식의 수직이착륙 스마트 무인기이다. 민간용으로 개발되었으며, 무게를 1톤에서 600 kg으로 줄인 군용은 [KARI TR-60이다](https://ko.wikipedia.org/wiki/KARI_TR-60 "wikilink"). 무게는 200 kg으로 줄였으며, 2013년 10월 17일 초도비행에 성공했다.\[1\]
 
 ## 역사
 
@@ -19,7 +19,7 @@ TR-100의 무장능력은 알려지지 않았다. KARI는 민간용이라고 주
 
 TR-100은 무게 1톤의 무인정찰기로서, 무게 1톤의 무인정찰기는 미국의 [MQ-1 프레데터가](../Page/MQ-1_프레데터.md "wikilink") 유명하다. 즉, TR-100은 수직이착륙 방식의 프레데터라고 할 수 있다.
 
-육지의 소형 운동장, 헬기 착륙장, 해군의 구축함, 독도함 등에서 이착륙이 가능하다. 그럼에도, 한국 정부는 개발이 완료되고 2년이 지나도록 아무런 사용도 하지 않고 있다.
+육지의 소형 운동장, 헬기 착륙장, 해군의 구축함, 독도함 등에서 이착륙이 가능하다. 그럼에도, 한국 정부는 개발이 완료되고 8년이 지나도록 아무런 사용도 하지 않고 있다.
 
 ## 제원
 

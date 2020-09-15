@@ -24,4 +24,4 @@ SATA 에어 아소르스 보유기종
 [분류:1941년 설립](https://ko.wikipedia.org/wiki/분류:1941년_설립 "wikilink") [분류:포르투갈의 항공사](https://ko.wikipedia.org/wiki/분류:포르투갈의_항공사 "wikilink")
 
 1.  "[Customer Care](http://sata.pt/en/other-services/customer-care) ." SATA. Retrieved on 7 July 2010.
-2.  "[Press Kit 2010](http://www.sata.pt/sites/default/files/PRESS%20KIT.MAR%C3%87O%20%202010_en_L2_0.pdf)." SATA. Retrieved on 7 July 2010. "The SATA Group comprises air transport companies whose decision centre is located in the city of Ponta Delgada, on the island of São Miguel, in the archipelago of Azores."
+2.  "[Press Kit 2010](http://www.sata.pt/sites/default/files/PRESS%20KIT.MAR%C3%87O%20%202010_en_L2_0.pdf) ." SATA. Retrieved on 7 July 2010. "The SATA Group comprises air transport companies whose decision centre is located in the city of Ponta Delgada, on the island of São Miguel, in the archipelago of Azores."

@@ -19,7 +19,7 @@
   - [J.R. 빌라리얼](https://ko.wikipedia.org/wiki/J.R._빌라리얼 "wikilink")
   - [제이슨 루이스](https://ko.wikipedia.org/wiki/제이슨_루이스 "wikilink")
   - [제이콥 바가스](https://ko.wikipedia.org/wiki/제이콥_바가스 "wikilink")
-  - [마이클 보웬](https://ko.wikipedia.org/wiki/마이클_보웬 "wikilink")
+  - [마이클 보웬](../Page/마이클_보웬.md "wikilink")
   - [M.C. 게이니](https://ko.wikipedia.org/wiki/M.C._게이니 "wikilink")
   - [조쉬 스튜어트](https://ko.wikipedia.org/wiki/조쉬_스튜어트 "wikilink")
   - [마고 마틴데일](https://ko.wikipedia.org/wiki/마고_마틴데일 "wikilink")
@@ -61,7 +61,7 @@
   - [엔젤 래시](https://ko.wikipedia.org/wiki/엔젤_래시 "wikilink")
   - [일레인 로](https://ko.wikipedia.org/wiki/일레인_로 "wikilink")
   - [맷 맥클루](https://ko.wikipedia.org/wiki/맷_맥클루 "wikilink")
-  - [트레이시 월터](https://ko.wikipedia.org/wiki/트레이시_월터 "wikilink")
+  - [트레이시 월터](../Page/트레이시_월터.md "wikilink")
   - [메건 엘리자베스 웨스콧](https://ko.wikipedia.org/wiki/메건_엘리자베스_웨스콧 "wikilink")
 
 ## 기타

@@ -3,7 +3,7 @@
 
 **소치에타 폴리스포르티바 아르스 에트 라보르**(), 통칭 **S.P.A.L.**은 [이탈리아](../Page/이탈리아.md "wikilink") [에밀리아로마냐주](../Page/에밀리아로마냐주.md "wikilink") [페라라](../Page/페라라.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다.
 
-1907년에 창단 후, 1928년 이래로 홈 경기를 1946-1977년 간 스팔의 회장이었던 [파올로 마차의](https://ko.wikipedia.org/wiki/파올로_마차 "wikilink") 이름이 붙여진, [스타디오 파올로 마차에서](https://ko.wikipedia.org/wiki/스타디오_파올로_마차 "wikilink") 치르고 있다.
+1907년에 창단 후, 1928년 이래로 홈 경기를 1946-1977년 간 스팔의 회장이었던 [파올로 마차의](https://ko.wikipedia.org/wiki/파올로_마차 "wikilink") 이름이 붙여진, [스타디오 파올로 마차에서](../Page/스타디오_파올로_마차.md "wikilink") 치르고 있다.
 
 스팔은 지금까지 1부 리그 23회, 2부 리그 26회, 3부 리그 41회, 4부 리그 7회, 5부 리그 1회 등을 겪었다. 최고 성적은 5위로 시즌을 마친 [세리에 A 1959–60이며](https://ko.wikipedia.org/wiki/세리에_A_1959–60 "wikilink"), [코파 이탈리아 1961–62](https://ko.wikipedia.org/wiki/코파_이탈리아_1961–62 "wikilink") 때는 결승전에 오르기도 했다.
 

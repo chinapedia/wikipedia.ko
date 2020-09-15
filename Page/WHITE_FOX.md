@@ -33,6 +33,7 @@
 
   - [에반게리온 신극장판: Q](../Page/에반게리온:_Q.md "wikilink") (제작 원청: [카라](https://ko.wikipedia.org/wiki/카라_\(스튜디오\) "wikilink"), 동화, 2012년)
   - [극장판 STEINS;GATE 부하영역의 데자뷰](../Page/Steins;Gate.md "wikilink") (2013년)
+  - [고블린 슬레이어: 고블린즈 크라운](../Page/고블린_슬레이어.md "wikilink") (2020년)
 
 ### 게임 내 애니메이션
 

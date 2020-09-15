@@ -3,7 +3,7 @@
 
 **LG K7**은 [LG전자](../Page/LG전자.md "wikilink")가 2016년 1월, [CES](../Page/소비자_가전_전시회.md "wikilink") 2016에서 처음 공개된 보급형 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] 원래 [대한민국](../Page/대한민국.md "wikilink")에도 출시할 예정이였으나 [K10만](../Page/LG_K10.md "wikilink") 출시되었다. [LG K](https://ko.wikipedia.org/wiki/LG_K "wikilink") 시리즈 중에서 중급 기종에 해당되며, [K8과](../Page/LG_K8.md "wikilink") [K5의](../Page/LG_K5.md "wikilink") 중간급이다. [K 시리즈](https://ko.wikipedia.org/wiki/LG_K "wikilink") 특유의 조약돌을 형상화한 페블 디자인이 특징이며, 상위 모델인 [K10과도](../Page/LG_K10.md "wikilink") 디자인이 거의 비슷하지만 재질과 베젤의 양에서 차이가 있다. 3G 모델과 LTE 모델로 나뉘어 공개되었다. [미국](../Page/미국.md "wikilink")에는 **트리뷰트 5**라는 이름으로 출시되기도 했다.
 
-## 운영체제 / 소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 5.1.1 롤리팝
 

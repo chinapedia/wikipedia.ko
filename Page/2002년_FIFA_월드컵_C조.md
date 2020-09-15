@@ -50,25 +50,9 @@
 
 ## 브라질 vs 터키
 
-<table>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p>{{축구 유니폼</p></td>
-<td><p>pattern_la = _shoulder stripes white stripes half</p></td>
-<td><p>pattern_b = _shoulder_stripes_white_stripes</p></td>
-<td><p>pattern_ra = _shoulder stripes white stripes half</p></td>
-<td><p>pattern_sh = _adidaswhite2002</p></td>
-<td><p>pattern_so = _3_stripes_white</p></td>
-<td><p>leftarm = D70000</p></td>
-<td><p>body = D70000</p></td>
-<td><p>rightarm = D70000</p></td>
-<td><p>shorts = D70000</p></td>
-<td><p>socks = D70000</p></td>
-<td><p>title = 터키 }}</p></td>
-</tr>
-</tbody>
-</table>
+|          |                            |                           |                            |                                |                        |                  |               |                   |                 |                |             |          |                                                         |                       |                                                         |                                 |               |                  |               |                   |                 |                |               |
+| -------- | -------------------------- | ------------------------- | -------------------------- | ------------------------------ | ---------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ----------- | -------- | ------------------------------------------------------- | --------------------- | ------------------------------------------------------- | ------------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- |
+| {{축구 유니폼 | pattern_la = _brasil2002 | pattern_b = _brasil2002 | pattern_ra = _brasil2002 | pattern_sh = _white_stripes | pattern_so = _bra02H | leftarm = FFDA00 | body = FFDA00 | rightarm = FFDA00 | shorts = 0000FF | socks = FFFFFF | title=브라질}} | {{축구 유니폼 | pattern_la = _shoulder_stripes_white_stripes_half | pattern_b = _tur02h | pattern_ra = _shoulder_stripes_white_stripes_half | pattern_sh = _adidaswhite2002 | pattern_so = | leftarm = FF0000 | body = FFFFFF | rightarm = FF0000 | shorts = FF0000 | socks = FF0000 | title = 터키 }} |
 
 <table style="width:10%;">
 <colgroup>
@@ -243,9 +227,9 @@
 
 ## 중국 vs 코스타리카
 
-|          |                                   |                                  |                                   |                                   |                                 |                  |               |                   |                 |                |               |          |                              |                             |                              |                              |               |                  |               |                   |                 |                |                  |
-| -------- | --------------------------------- | -------------------------------- | --------------------------------- | --------------------------------- | ------------------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- | -------- | ---------------------------- | --------------------------- | ---------------------------- | ---------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ---------------- |
-| {{축구 유니폼 | pattern_la = _adidasonwhite2002 | pattern_b = _adidasonwhite2002 | pattern_ra = _adidasonwhite2002 | pattern_sh = _adidasonwhite2002 | pattern_so = _3_stripes_red | leftarm = FF0000 | body = FF0000 | rightarm = FF0000 | shorts = FF0000 | socks = FFFFFF | title = 중국 }} | {{축구 유니폼 | pattern_la = _costarica02h | pattern_b = _costarica02h | pattern_ra = _costarica02h | pattern_sh = _red_stripes | pattern_so = | leftarm = 0033CC | body = FF0000 | rightarm = 0033CC | shorts = 0033CC | socks = FF0000 | title = 코스타리카 }} |
+|          |                                   |                                  |                                   |                                   |               |                  |               |                   |                 |                |               |          |                              |                             |                              |                              |               |                  |               |                   |                 |                |                  |
+| -------- | --------------------------------- | -------------------------------- | --------------------------------- | --------------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- | -------- | ---------------------------- | --------------------------- | ---------------------------- | ---------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ---------------- |
+| {{축구 유니폼 | pattern_la = _adidasonwhite2002 | pattern_b = _adidasonwhite2002 | pattern_ra = _adidasonwhite2002 | pattern_sh = _adidasonwhite2002 | pattern_so = | leftarm = FF0000 | body = FF0000 | rightarm = FF0000 | shorts = FF0000 | socks = FFFFFF | title = 중국 }} | {{축구 유니폼 | pattern_la = _costarica02h | pattern_b = _costarica02h | pattern_ra = _costarica02h | pattern_sh = _costarica02h | pattern_so = | leftarm = 0033CC | body = FF0000 | rightarm = 0033CC | shorts = 0033CC | socks = FF0000 | title = 코스타리카 }} |
 
 <table style="width:10%;">
 <colgroup>
@@ -420,25 +404,9 @@
 
 ## 브라질 vs 중국
 
-<table>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p>{{축구 유니폼</p></td>
-<td><p>pattern_la = _shoulder stripes white stripes half</p></td>
-<td><p>pattern_b = _shoulder stripes white stripes</p></td>
-<td><p>pattern_ra = _shoulder stripes white stripes half</p></td>
-<td><p>pattern_sh = _adidaswhite2002</p></td>
-<td><p>pattern_so = _3_stripes_white</p></td>
-<td><p>leftarm = FF0000</p></td>
-<td><p>body = FF0000</p></td>
-<td><p>rightarm = FF0000</p></td>
-<td><p>shorts = FF0000</p></td>
-<td><p>socks = FF0000</p></td>
-<td><p>title = 중국 }}</p></td>
-</tr>
-</tbody>
-</table>
+|          |                            |                           |                            |                                |                        |                  |               |                   |                 |                |             |          |                              |                         |                              |                                 |               |                  |               |                   |                 |                |               |
+| -------- | -------------------------- | ------------------------- | -------------------------- | ------------------------------ | ---------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ----------- | -------- | ---------------------------- | ----------------------- | ---------------------------- | ------------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- |
+| {{축구 유니폼 | pattern_la = _brasil2002 | pattern_b = _brasil2002 | pattern_ra = _brasil2002 | pattern_sh = _white_stripes | pattern_so = _bra02H | leftarm = FFDA00 | body = FFDA00 | rightarm = FFDA00 | shorts = 0000FF | socks = FFFFFF | title=브라질}} | {{축구 유니폼 | pattern_la = _benfica1213h | pattern_b = _china02a | pattern_ra = _benfica1213h | pattern_sh = _adidaswhite2002 | pattern_so = | leftarm = FF0000 | body = FF0000 | rightarm = FF0000 | shorts = FF0000 | socks = FF0000 | title = 중국 }} |
 
 <table style="width:10%;">
 <colgroup>
@@ -613,9 +581,9 @@
 
 ## 코스타리카 vs 터키
 
-|          |                              |                             |                              |                              |               |                  |               |                   |                 |                |                  |          |                          |                           |                          |                                   |                                   |                  |               |                   |                 |                |               |
-| -------- | ---------------------------- | --------------------------- | ---------------------------- | ---------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ---------------- | -------- | ------------------------ | ------------------------- | ------------------------ | --------------------------------- | --------------------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- |
-| {{축구 유니폼 | pattern_la = _costarica02h | pattern_b = _costarica02h | pattern_ra = _costarica02h | pattern_sh = _red_stripes | pattern_so = | leftarm = 0033CC | body = FF0000 | rightarm = 0033CC | shorts = 0033CC | socks = FFFFFF | title = 코스타리카 }} | {{축구 유니폼 | pattern_la = _fcb0809T | pattern_b = _turkey2002 | pattern_ra = _fcb0809T | pattern_sh = _adidasonwhite2002 | pattern_so = _3_stripes_white | leftarm = FFFFFF | body = FFFFFF | rightarm = FFFFFF | shorts = D70000 | socks = D70000 | title = 터키 }} |
+|          |                              |                             |                              |                              |               |                  |               |                   |                 |                |                  |          |                        |                       |                        |                                   |               |                  |               |                   |                 |                |               |
+| -------- | ---------------------------- | --------------------------- | ---------------------------- | ---------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ---------------- | -------- | ---------------------- | --------------------- | ---------------------- | --------------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- |
+| {{축구 유니폼 | pattern_la = _costarica02h | pattern_b = _costarica02h | pattern_ra = _costarica02h | pattern_sh = _costarica02h | pattern_so = | leftarm = 0033CC | body = FF0000 | rightarm = 0033CC | shorts = 0033CC | socks = FFFFFF | title = 코스타리카 }} | {{축구 유니폼 | pattern_la = _esp02a | pattern_b = _tur02a | pattern_ra = _esp02a | pattern_sh = _adidasonwhite2002 | pattern_so = | leftarm = FFFFFF | body = FFFFFF | rightarm = FFFFFF | shorts = FF0000 | socks = FF0000 | title = 터키 }} |
 
 <table style="width:10%;">
 <colgroup>
@@ -790,25 +758,9 @@
 
 ## 코스타리카 vs 브라질
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>{{축구 유니폼</p></td>
-<td><p>pattern_la = _costarica02h</p></td>
-<td><p>pattern_b = _costarica02h</p></td>
-<td><p>pattern_ra = _costarica02h</p></td>
-<td><p>pattern_sh = _red_stripes</p></td>
-<td><p>pattern_so =</p></td>
-<td><p>leftarm = 0033CC</p></td>
-<td><p>body = FF0000</p></td>
-<td><p>rightarm = 0033CC</p></td>
-<td><p>shorts = 0033CC</p></td>
-<td><p>socks = FFFFFF</p></td>
-<td><p>title = 코스타리카 }}</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|          |                              |                             |                              |                              |               |                  |               |                   |                 |                |                  |          |                            |                           |                            |                               |                        |                  |               |                   |                 |                             |
+| -------- | ---------------------------- | --------------------------- | ---------------------------- | ---------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ---------------- | -------- | -------------------------- | ------------------------- | -------------------------- | ----------------------------- | ---------------------- | ---------------- | ------------- | ----------------- | --------------- | --------------------------- |
+| {{축구 유니폼 | pattern_la = _costarica02h | pattern_b = _costarica02h | pattern_ra = _costarica02h | pattern_sh = _costarica02h | pattern_so = | leftarm = 0033CC | body = FF0000 | rightarm = 0033CC | shorts = 0033CC | socks = FFFFFF | title = 코스타리카 }} | {{축구 유니폼 | pattern_la = _brasil2002 | pattern_b = _brasil2002 | pattern_ra = _brasil2002 | pattern_sh = _blue_stripes | pattern_so = _bra02A | leftarm = FFDA00 | body = FFDA00 | rightarm = FFDA00 | shorts = FFFFFF | socks = 0000FF |title=브라질}} |
 
 <table style="width:10%;">
 <colgroup>
@@ -983,9 +935,9 @@
 
 ## 터키 vs 중국
 
-|          |                                                     |                                                  |                                                     |                                 |                                   |                  |               |                   |                 |                |               |          |                                   |                                  |                                   |                                   |                                 |                  |               |                   |                 |                |               |
-| -------- | --------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------- | ------------------------------- | --------------------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- | -------- | --------------------------------- | -------------------------------- | --------------------------------- | --------------------------------- | ------------------------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- |
-| {{축구 유니폼 | pattern_la = _shoulder stripes white stripes half | pattern_b = _shoulder_stripes_white_stripes | pattern_ra = _shoulder stripes white stripes half | pattern_sh = _adidaswhite2002 | pattern_so = _3_stripes_white | leftarm = D70000 | body = D70000 | rightarm = D70000 | shorts = D70000 | socks = D70000 | title = 터키 }} | {{축구 유니폼 | pattern_la = _adidasonwhite2002 | pattern_b = _adidasonwhite2002 | pattern_ra = _adidasonwhite2002 | pattern_sh = _adidasonwhite2002 | pattern_so = _3_stripes_red | leftarm = FF0000 | body = FF0000 | rightarm = FF0000 | shorts = FF0000 | socks = FFFFFF | title = 중국 }} |
+|          |                                                         |                       |                                                         |                                 |               |                  |               |                   |                 |                |               |          |                                   |                                  |                                   |                                   |               |                  |               |                   |                 |                |               |
+| -------- | ------------------------------------------------------- | --------------------- | ------------------------------------------------------- | ------------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- | -------- | --------------------------------- | -------------------------------- | --------------------------------- | --------------------------------- | ------------- | ---------------- | ------------- | ----------------- | --------------- | -------------- | ------------- |
+| {{축구 유니폼 | pattern_la = _shoulder_stripes_white_stripes_half | pattern_b = _tur02h | pattern_ra = _shoulder_stripes_white_stripes_half | pattern_sh = _adidaswhite2002 | pattern_so = | leftarm = FF0000 | body = FFFFFF | rightarm = FF0000 | shorts = FF0000 | socks = FF0000 | title = 터키 }} | {{축구 유니폼 | pattern_la = _adidasonwhite2002 | pattern_b = _adidasonwhite2002 | pattern_ra = _adidasonwhite2002 | pattern_sh = _adidasonwhite2002 | pattern_so = | leftarm = FF0000 | body = FF0000 | rightarm = FF0000 | shorts = FF0000 | socks = FFFFFF | title = 중국 }} |
 
 <table style="width:10%;">
 <colgroup>

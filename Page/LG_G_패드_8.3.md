@@ -91,9 +91,9 @@
 
 ## 경쟁 기종
 
-  - [구글](../Page/구글.md "wikilink")의 [넥서스 7](../Page/넥서스_7.md "wikilink")
-  - [아마존닷컴](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink")의 [킨들 파이어 HDX 8.9](https://ko.wikipedia.org/wiki/킨들_파이어_HDX_8.9 "wikilink")
-  - [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")의 [갤럭시노트10.1 2014에디션](https://ko.wikipedia.org/wiki/갤럭시노트10.1_2014에디션 "wikilink")
+  - [구글](../Page/구글.md "wikilink") [넥서스 7](../Page/넥서스_7.md "wikilink")
+  - [아마존](https://ko.wikipedia.org/wiki/아마존닷컴 "wikilink") [킨들 파이어 HDX 8.9](https://ko.wikipedia.org/wiki/킨들_파이어_HDX_8.9 "wikilink")
+  - [삼성 갤럭시 노트 10.1 2014 에디션](../Page/삼성_갤럭시_노트_10.1_2014_에디션.md "wikilink")
 
 ## 같이 보기
 

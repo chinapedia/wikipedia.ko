@@ -186,6 +186,8 @@
 ## 2020년 \~ 2022년
 
   - 2020년 5월 18일 이준영,소연 - **굿캐스팅 OST Part.3**
+  - 2020년 8월 25일 라붐 - **\[Digital Single\] 스마일팝팝 (Smile POP POP)**\[23\]
+  - 2020년 10월 ?일 라붐 - **미정**
 
 ## 각주
 
@@ -213,3 +215,4 @@
 20. [허니핑거식스](../Page/허니핑거식스.md "wikilink")의 멤버 [황예린](https://ko.wikipedia.org/wiki/황예린 "wikilink"),[지민혁](../Page/지민혁.md "wikilink")도 앨범 참여.
 21. [딘딘](../Page/딘딘.md "wikilink")도 앨범 참여.
 22. [Chris Brown](https://ko.wikipedia.org/wiki/Chris_Brown "wikilink"),[Ana Baby](https://ko.wikipedia.org/wiki/Ana_Baby "wikilink"),[B.Taylor](https://ko.wikipedia.org/wiki/B.Taylor "wikilink")도 앨범 참여.
+23. [베이비버스](https://ko.wikipedia.org/wiki/베이비버스 "wikilink")도 앨범 참여.

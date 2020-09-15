@@ -13,7 +13,7 @@
 
 ## 외부 링크
 
-  - [中森明菜 - アルテラシオン+4 - UNIVERSAL MUSIC JAPAN](http://www.universal-music.co.jp/nakamori-akina/products/umck-1152/)
+  - [中森明菜 - アルテラシオン+4 - UNIVERSAL MUSIC JAPAN](https://web.archive.org/web/20140429051210/http://www.universal-music.co.jp/nakamori-akina/products/umck-1152/)
 
 [분류:나카모리 아키나의 음반](https://ko.wikipedia.org/wiki/분류:나카모리_아키나의_음반 "wikilink") [분류:1995년 음반](https://ko.wikipedia.org/wiki/분류:1995년_음반 "wikilink")
 

@@ -54,7 +54,7 @@
 
 ### 飼い猫
 
-2018年7月から[スコティッシュフォールド](https://ko.wikipedia.org/wiki/スコティッシュフォールド "wikilink")のオス猫を飼い始めており<sup>[、](https://ko.wikipedia.org/wiki/HIKAKIN#cite%20note-40 "wikilink")</sup>猫の名前は「まるお」である。理由は「○○キンと呼んでいたら自分を呼んでるみたいになるから」や「日本ぽい名前がよくて、長すぎないように3文字以内にしたい」などがある<sup>[\[40](https://ko.wikipedia.org/wiki/HIKAKIN#cite%20note-41 "wikilink")\]</sup>。同年9月12日には、まるおと同じ日に生まれた血のつながった兄妹「もふこ」を飼い始めた。もふこはまるおと似ているがメス猫であり、やや目が大きく、しっぽが太いなどの違いがある<sup>[\[41](https://ko.wikipedia.org/wiki/HIKAKIN#cite%20note-42 "wikilink")\]</sup>。
+2018年7月から[スコティッシュフォールド](https://ko.wikipedia.org/wiki/スコティッシュフォールド "wikilink")のオス猫を飼い始めており<sup>[、](https://ko.wikipedia.org/wiki/HIKAKIN#cite_note-40 "wikilink")</sup>猫の名前は「まるお」である。理由は「○○キンと呼んでいたら自分を呼んでるみたいになるから」や「日本ぽい名前がよくて、長すぎないように3文字以内にしたい」などがある<sup>[\[40](https://ko.wikipedia.org/wiki/HIKAKIN#cite_note-41 "wikilink")\]</sup>。同年9月12日には、まるおと同じ日に生まれた血のつながった兄妹「もふこ」を飼い始めた。もふこはまるおと似ているがメス猫であり、やや目が大きく、しっぽが太いなどの違いがある<sup>[\[41](https://ko.wikipedia.org/wiki/HIKAKIN#cite_note-42 "wikilink")\]</sup>。
 
 ### 교류
 
@@ -161,7 +161,7 @@
   -
   -
   -
-  - [히카킨 공식 블로그](http://hikakin.blog.jp)
+  - [히카킨 공식 블로그](https://web.archive.org/web/20191209025302/http://hikakin.blog.jp/)
 
 [분류:1989년 태어남](https://ko.wikipedia.org/wiki/분류:1989년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:일본의 유튜버](https://ko.wikipedia.org/wiki/분류:일본의_유튜버 "wikilink") [분류:일본의 음악가](https://ko.wikipedia.org/wiki/분류:일본의_음악가 "wikilink") [분류:일본의 스키 점프 선수](https://ko.wikipedia.org/wiki/분류:일본의_스키_점프_선수 "wikilink") [분류:니가타현 출신](https://ko.wikipedia.org/wiki/분류:니가타현_출신 "wikilink")
 
