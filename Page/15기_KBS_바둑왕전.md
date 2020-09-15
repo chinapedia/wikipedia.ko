@@ -50,14 +50,14 @@
 | 패자 1회전                                                            | 패자 2회전                                                            |
 | [백성호](../Page/백성호.md "wikilink") 九단                               | [최규병](https://ko.wikipedia.org/wiki/최규병 "wikilink") 八단            |
 | [최규병](https://ko.wikipedia.org/wiki/최규병 "wikilink") 八단            |                                                                   |
-| [김수장](https://ko.wikipedia.org/wiki/김수장 "wikilink") 九단            |                                                                   |
+| [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                     |                                                                   |
 | [노준환](https://ko.wikipedia.org/wiki/노준환 "wikilink") 四단            | [우쑹성](../Page/우쑹성.md "wikilink") 九단                               |
 | [우쑹성](../Page/우쑹성.md "wikilink") 九단                               |                                                                   |
 | [김동엽](https://ko.wikipedia.org/wiki/김동엽_\(바둑_기사\) "wikilink") 六단  |                                                                   |
 | [백대현](https://ko.wikipedia.org/wiki/백대현 "wikilink") 三단            |                                                                   |
 | [조훈현](../Page/조훈현.md "wikilink") 九단                               | [조훈현](../Page/조훈현.md "wikilink") 九단                               |
 | [강훈](https://ko.wikipedia.org/wiki/강훈_\(1957년\) "wikilink")(大) 九단 |                                                                   |
-| [김수장](https://ko.wikipedia.org/wiki/김수장 "wikilink") 九단            |                                                                   |
+| [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                     |                                                                   |
 | [서봉수](../Page/서봉수.md "wikilink") 九단                               | [서봉수](../Page/서봉수.md "wikilink") 九단                               |
 | [양재호](https://ko.wikipedia.org/wiki/양재호 "wikilink") 九단            |                                                                   |
 | [박영찬](https://ko.wikipedia.org/wiki/박영찬_\(바둑_기사\) "wikilink") 二단  |                                                                   |

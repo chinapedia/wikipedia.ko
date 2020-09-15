@@ -13,7 +13,7 @@
 
 1차 분기 중 하나인 **하플로그룹 I1**(M253, M307, P30, P40)은 [북유럽](https://ko.wikipedia.org/wiki/북유럽 "wikilink")에서 가장 흔하게 나타나며 이외에 북부를 위주로 하여 유럽 각지에서 나타난다. 과거 흔히 [노르드인](../Page/노르드인.md "wikilink")(북방인종)으로 불리던 민족계통과 관련이 있다. 신석기시대에는 유럽 중부에 위치해있다가 이후 북유럽으로 올라간 것으로 추정된다.\[2\]
 
-한편 또다른 1차 분기인 **하플로그룹 I2**(M438)는 [발칸](https://ko.wikipedia.org/wiki/발칸 "wikilink") 및 [사르데냐](https://ko.wikipedia.org/wiki/사르데냐 "wikilink")에서 흔하게 나타나며 이외에 남유럽 및 [슬라브](https://ko.wikipedia.org/wiki/슬라브 "wikilink")권을 중심으로 유럽 각지에서 나타난다. 과거 흔히 [디나르인](https://ko.wikipedia.org/wiki/디나르인 "wikilink")으로 불리던 민족과 관련이 있다.
+한편 또다른 1차 분기인 **하플로그룹 I2**(M438)는 [발칸](https://ko.wikipedia.org/wiki/발칸 "wikilink") 및 [사르데냐](../Page/사르데냐.md "wikilink")에서 흔하게 나타나며 이외에 남유럽 및 [슬라브](https://ko.wikipedia.org/wiki/슬라브 "wikilink")권을 중심으로 유럽 각지에서 나타난다. 과거 흔히 [디나르인](https://ko.wikipedia.org/wiki/디나르인 "wikilink")으로 불리던 민족과 관련이 있다.
 
 ## 각주
 

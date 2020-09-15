@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [매킨토시 LC](https://ko.wikipedia.org/wiki/매킨토시_LC).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Macintosh_LC_\(original\)_-_front.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Macintosh_LC_\(original\)_-_internal.jpg "wikilink") **매킨토시 LC**(Macintosh LC)는 [애플 컴퓨터가](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 1990년 10월부터 1992년 3월까지 설계, 제조, 판매한 [개인용 컴퓨터이다](../Page/개인용_컴퓨터.md "wikilink").
+[섬네일](https://ko.wikipedia.org/wiki/파일:Macintosh_LC_\(original\)_-_front.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:Macintosh_LC_\(original\)_-_internal.jpg "wikilink") **매킨토시 LC**(Macintosh LC)는 [애플 컴퓨터가](../Page/애플.md "wikilink") 1990년 10월부터 1992년 3월까지 설계, 제조, 판매한 [개인용 컴퓨터이다](../Page/개인용_컴퓨터.md "wikilink").
 
 ## 개요
 
@@ -24,7 +24,7 @@
   - [Apple Macintosh LC (Original) Specs](https://everymac.com/systems/apple/mac_lc/specs/mac_lc.html) at everymac.com.
   - [Mac LC](http://lowendmac.com/1990/mac-lc/) at lowendmac.com.
 
-[매킨토시_LC](https://ko.wikipedia.org/wiki/분류:매킨토시_LC "wikilink")
+[분류:68k 매킨토시](https://ko.wikipedia.org/wiki/분류:68k_매킨토시 "wikilink")
 
 1.
 2.

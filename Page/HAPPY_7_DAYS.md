@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [HAPPY 7 DAYS](https://ko.wikipedia.org/wiki/HAPPY_7_DAYS).
 
 
-〈**HAPPY 7 DAYS**〉 (해피 세븐 데이즈)는 [9nine](../Page/9nine.md "wikilink")의 17번째 싱글이며 [2015년](../Page/2015년.md "wikilink") [6월 17일에](../Page/6월_17일.md "wikilink") **SME Records**로 부터 발매되었다.
+〈**HAPPY 7 DAYS**〉(해피 세븐 데이즈)는 [9nine](../Page/9nine.md "wikilink")의 17번째 싱글이며 [2015년](../Page/2015년.md "wikilink") [6월 17일에](../Page/6월_17일.md "wikilink") **SME Records**로 부터 발매되었다.
 
 ## 개요
 

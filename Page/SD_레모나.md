@@ -300,6 +300,6 @@
 
   - [Futbolme 팀 프로필](http://www.futbolme.com/com/equipo.asp?id_equipo=319)
 
-[SD_레모나](https://ko.wikipedia.org/wiki/분류:SD_레모나 "wikilink") [분류:2012년 폐지](https://ko.wikipedia.org/wiki/분류:2012년_폐지 "wikilink") [분류:1923년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1923년_설립된_축구단 "wikilink") [분류:바스크 지방의 축구단](https://ko.wikipedia.org/wiki/분류:바스크_지방의_축구단 "wikilink")
+[SD_레모나](https://ko.wikipedia.org/wiki/분류:SD_레모나 "wikilink") [분류:2012년 폐지](https://ko.wikipedia.org/wiki/분류:2012년_폐지 "wikilink") [분류:1923년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1923년_설립된_축구단 "wikilink") [분류:바스크주의 축구단](https://ko.wikipedia.org/wiki/분류:바스크주의_축구단 "wikilink")
 
 1.  [Las deudas acaban con el Lemona (Debt finishes Lemona)](http://www.elcorreo.com/vizcaya/v/20120708/deportes/mas-futbol/deudas-acaban-lemona-20120708.html); El Correo, 2012년 7월 8일

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PRODUCE X 101 - FINAL](https://ko.wikipedia.org/wiki/PRODUCE_X_101_-_FINAL).
 
 
-《**PRODUCE X 101 - FINAL**》은 [엠넷](../Page/엠넷.md "wikilink")에서 방영 된 《[PRODUCE X 101](https://ko.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")》 [참가자들의](../Page/PRODUCE_X_101_참가자_목록.md "wikilink") 파이널 미니 앨범이다. 2019년 7월 20일에 발매되었다. \[1\]
+《**PRODUCE X 101 - FINAL**》은 [엠넷](../Page/엠넷.md "wikilink")에서 방영 된 《[PRODUCE X 101](https://ko.wikipedia.org/wiki/PRODUCE_X_101 "wikilink")》 [참가자들의](../Page/PRODUCE_X_101_참가자_목록.md "wikilink") 파이널 미니 앨범이다. 2019년 7월 20일에 발매되었다.\[1\]
 
 ## 트랙 리스트
 

@@ -5,4 +5,4 @@
 
 ## 개요
 
-[분류:일본의 앨범](https://ko.wikipedia.org/wiki/분류:일본의_앨범 "wikilink") [분류:1979년 음반](https://ko.wikipedia.org/wiki/분류:1979년_음반 "wikilink")
+[분류:일본의 음반](https://ko.wikipedia.org/wiki/분류:일본의_음반 "wikilink") [분류:1979년 음반](https://ko.wikipedia.org/wiki/분류:1979년_음반 "wikilink")

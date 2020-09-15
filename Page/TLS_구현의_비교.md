@@ -98,7 +98,7 @@ SSL 2.0과 SSL 3.0에는 알려진 취약점이 존재한다. 예측 가능한 I
 
 ·        키 크기가 128 및 256 비트 [Advanced Encryption Standard (AES)](../Page/고급_암호화_표준.md "wikilink"). 트래픽 범위에 대해서는, AES는 대역폭이 낮은 경우엔 카운터 모드 (CTR)에서 사용하고 높은 대역폭의 경우 Galois / Counter Mode (GCM)에서 사용 할 필요가있다 ([블록 암호화 / 암호 사용 모드](../Page/블록_암호_운용_방식.md "wikilink") 참조) - [대칭 키 암호화](../Page/대칭_키_암호.md "wikilink")
 
-·        [타원 곡선 전자 서명 알고리즘 (ECDSA)](https://ko.wikipedia.org/wiki/:en:Elliptic_Curve_Digital_Signature_Algorithm "wikilink")- [전자 서명](../Page/전자서명.md "wikilink")
+·        [타원 곡선 전자 서명 알고리즘 (ECDSA)](../Page/타원곡선_DSA.md "wikilink")- [전자 서명](../Page/전자서명.md "wikilink")
 
 ·        [디피 헬만 곡선 (ECDH)](../Page/디피-헬먼_키_교환.md "wikilink") - [키 합의](https://ko.wikipedia.org/wiki/:en:Key_agreement "wikilink")
 

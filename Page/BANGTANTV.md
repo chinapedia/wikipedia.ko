@@ -5,18 +5,17 @@
 
 ## 소개
 
-**BANGTANTV**는 2012년 12월 16일에 처음으로 개설된 [대한민국](../Page/대한민국.md "wikilink")의 [보이그룹](https://ko.wikipedia.org/wiki/보이그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 유튜브 채널로 BANGTANTV, BANGTAN BOMB 등으로 불린다. 방탄소년단의 백 스테이지, 촬영 비하인드, 그리고 멤버별 로그와 개인 창작물이 업로드된다. 영상 업로드 주기는 정해져 있지 않지만, 활동 시기에 맞춰 업데이트되는 편이다.
+**BANGTANTV**는 2012년 12월 16일에 처음으로 개설된 [대한민국](../Page/대한민국.md "wikilink")의 [보이그룹](https://ko.wikipedia.org/wiki/보이그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 유튜브 채널로 BANGTANTV 로 불린다. 방탄소년단의 백 스테이지, 촬영 비하인드, 그리고 멤버별 로그와 개인 창작물이 업로드된다. 영상 업로드 주기는 정해져 있지 않지만, 활동 시기에 맞춰 업데이트되는 편이다.
 
-2019년 6월 11일 기준 총 조회수는 약 26억 회에 달하며, 1940만 명의 구독자를 보유하고 있다. [한국 유튜브 채널 중 3위](https://kr.noxinfluencer.com/youtube-channel-rank/top-100-kr-all-youtuber-sorted-by-subs-weekly?channel_id=UCLkAepWjdylmXSltofFvsYQ), [세계 유튜브 채널 중 99위](https://kr.noxinfluencer.com/youtube-channel-rank/top-100-all-all-youtuber-sorted-by-subs-weekly?channel_id=UCLkAepWjdylmXSltofFvsYQ)에 올라있다.
+2019년 6월 11일 기준 총 조회수는 약 26억 회에 달하며, 현재 약 3300만 명의 구독자를 보유하고 있다. [한국 유튜브 채널 중 3위](https://kr.noxinfluencer.com/youtube-channel-rank/top-100-kr-all-youtuber-sorted-by-subs-weekly?channel_id=UCLkAepWjdylmXSltofFvsYQ), [세계 유튜브 채널 중 99위](https://kr.noxinfluencer.com/youtube-channel-rank/top-100-all-all-youtuber-sorted-by-subs-weekly?channel_id=UCLkAepWjdylmXSltofFvsYQ)에 올라있다.
 
 ## 출연
 
-  - [방탄소년단](../Page/방탄소년단.md "wikilink")
   - [RM](../Page/RM_\(래퍼\).md "wikilink")
   - [진](../Page/진_\(가수\).md "wikilink")
   - [슈가](https://ko.wikipedia.org/wiki/슈가_\(래퍼\) "wikilink")
   - [제이홉](../Page/제이홉.md "wikilink")
-  - [지민](../Page/지민_\(남자_가수\).md "wikilink")
+  - [지민](https://ko.wikipedia.org/wiki/지민_\(가수\) "wikilink")
   - [뷔](../Page/뷔.md "wikilink")
   - [정국](../Page/정국.md "wikilink")
 
@@ -201,6 +200,10 @@ Golden Closet Film List
 
 재생목록의 영상을 입덕 (어떤 분야에 푹 빠져 마니아가 되기 시작했다는 뜻) 영상으로 꼽은 팬이 많을 정도로 그들의 자연스럽고 웃긴 모멘트를 많이 담아냈다. 영상의 길이가 길지 않아 짧은 주기로 많은 클립 영상이 업데이트되는 편이다. 2019년 6월 20일 기준 524개의 동영상이 업로드되어 있다.
 
+### BANGTAN BOMB
+
+촬영장 밖, 대기실 등에서 방탄소년단의 모습을 담은 영상을 업로드 해둔 재생목록이다.
+
 ### BTS Episode
 
 방탄소년단의 비하인드 영상을 업로드 해둔 재생목록이다. BANGTAN BOMB과 비슷한 류의 영상이지만, 보통 10분 이상의 영상이 대부분이다. MV 메이킹필름이나, 새 앨범의 콘셉트 포토 스케치, 시상식 비하인드, 멤버의 생일과 같은 기념일 에피소드 등이 주를 이룬다. 2019년 6월 20일 기준 74개의 동영상이 업로드되어 있다.
@@ -221,7 +224,7 @@ Golden Closet Film List
   - 140218 It's a j-hope-ful day\!
   - Jung Kook went to High school with BTS\!
   - SUGA Birthday support event
-  - '하루만(Just one day)' MV shooting Sketch
+  - '하루만 (Just one day)' MV shooting Sketch
   - 1st anniversary - so 4 more
   - 1st BTS Birthday Party (Jin chef of BTS)
   - 'DARK\&WILD' Jacket photo shooting

@@ -24,6 +24,7 @@
   - [홍석천](../Page/홍석천.md "wikilink")
   - [김자옥](../Page/김자옥.md "wikilink")
   - [김완태](../Page/김완태_\(아나운서\).md "wikilink")
+  - [우희진](../Page/우희진.md "wikilink")
 
 ## 같이 보기
 

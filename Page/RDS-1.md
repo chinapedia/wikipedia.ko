@@ -17,6 +17,6 @@
 
 ## 각주
 
-[분류:1949년 군사사](https://ko.wikipedia.org/wiki/분류:1949년_군사사 "wikilink") [분류:1949년 소련](https://ko.wikipedia.org/wiki/분류:1949년_소련 "wikilink") [분류:소련의 냉전사](https://ko.wikipedia.org/wiki/분류:소련의_냉전사 "wikilink") [분류:핵 실험](https://ko.wikipedia.org/wiki/분류:핵_실험 "wikilink")
+[분류:1949년 8월](https://ko.wikipedia.org/wiki/분류:1949년_8월 "wikilink") [분류:1949년 군사사](https://ko.wikipedia.org/wiki/분류:1949년_군사사 "wikilink") [분류:1949년 소련](https://ko.wikipedia.org/wiki/분류:1949년_소련 "wikilink") [분류:소련의 냉전사](https://ko.wikipedia.org/wiki/분류:소련의_냉전사 "wikilink") [분류:소련의 핵 실험](https://ko.wikipedia.org/wiki/분류:소련의_핵_실험 "wikilink") [분류:소련의 핵무기](https://ko.wikipedia.org/wiki/분류:소련의_핵무기 "wikilink")
 
 1.  \[그때 오늘\] 한국전쟁 발발의 원인이 된 소련의 핵실험 성공, 중앙일보, 2010.08.29

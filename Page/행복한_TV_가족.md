@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [행복한 TV 가족](https://ko.wikipedia.org/wiki/행복한_TV_가족).
 
 
-《**행복한 TV 가족**》은 [2001년](../Page/2001년.md "wikilink") [11월 3일부터](../Page/11월_3일.md "wikilink") [2001년](../Page/2001년.md "wikilink") [4월 20일까지](../Page/4월_20일.md "wikilink") [문화방송](../Page/문화방송.md "wikilink")에서 방송되었던 가족과 함께 나누는 따뜻한 이야기가 담긴 예능 프로그램이다.
+《**행복한 TV 가족**》은 [2000년](../Page/2000년.md "wikilink") [11월 3일부터](../Page/11월_3일.md "wikilink") [2001년](../Page/2001년.md "wikilink") [4월 20일까지](../Page/4월_20일.md "wikilink") [문화방송](../Page/문화방송.md "wikilink")에서 방송되었던 가족과 함께 나누는 따뜻한 이야기가 담긴 예능 프로그램이다.
 
 ## 기획의도
 

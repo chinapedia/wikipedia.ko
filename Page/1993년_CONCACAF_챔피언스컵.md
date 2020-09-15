@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1993년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1993년_CONCACAF_챔피언스컵).
 
 
-**1993년 CONCACAF 챔피언스컵**(1993 CONCACAF Champions' Cup)은 [1993년](../Page/1993년.md "wikilink") [1월 23일부터](../Page/1월_23일.md "wikilink") [12월 5일까지](../Page/12월_5일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 29번째 대회이다. [코스타리카](../Page/코스타리카.md "wikilink")의 [데포르티보 사프리사가](../Page/데포르티보_사프리사.md "wikilink") 결선 라운드에서 우승을 차지했다.
+**1993년 CONCACAF 챔피언스컵**(1993 CONCACAF Champions' Cup)은 [1993년](../Page/1993년.md "wikilink") [1월 23일부터](../Page/1월_23일.md "wikilink") [12월 5일까지](../Page/12월_5일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 29번째 대회이다. [코스타리카](../Page/코스타리카.md "wikilink")의 [데포르티보 사프리사가](../Page/데포르티보_사프리사.md "wikilink") 결선 라운드에서 우승을 차지했다.
 
 ## 북아메리카-중앙아메리카 지역 예선
 

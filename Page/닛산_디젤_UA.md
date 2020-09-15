@@ -21,7 +21,7 @@
 
 #### PU/UA32
 
-[1983년](../Page/1983년.md "wikilink") 배출가스 규제 대응에 따라 [1984년](../Page/1984년.md "wikilink")에 출시되었따. 엔진은 PE6H형이다. [1985년](../Page/1985년.md "wikilink")에 소음 규제 대응에 따라 마이너 체인지를 하면서 리어엔진 방열구가 없어지고 계기판의 디자인도 변경되면서 시프트 인디케이터로 변경했다. 차체는 후지중공업 (현, [스바루](../Page/스바루.md "wikilink"))에서 제작된 5E, 5B형과 [서일본 차체 공업에서](../Page/서일본_차체_공업.md "wikilink") 제작된 58MC형이 있다.
+[1983년](../Page/1983년.md "wikilink") 배출가스 규제 대응에 따라 [1984년](../Page/1984년.md "wikilink")에 출시되었다. 엔진은 PE6H형이다. [1985년](../Page/1985년.md "wikilink")에 소음 규제 대응에 따라 마이너 체인지를 하면서 리어엔진 방열구가 없어지고 계기판의 디자인도 변경되면서 시프트 인디케이터로 변경했다. 차체는 후지중공업 (현, [스바루](../Page/스바루.md "wikilink"))에서 제작된 5E, 5B형과 [서일본 차체 공업에서](../Page/서일본_차체_공업.md "wikilink") 제작된 58MC형이 있다.
 
 파일:Ibarakukoutsu-katsuta.jpg 파일:P-U32N_ISUHAKONE-2702.jpg 파일:Donanbus_602_UD_P-UA32N_FHI_5E.jpg 파일:538-5972-JR-East-P-UA32L.jpg
 

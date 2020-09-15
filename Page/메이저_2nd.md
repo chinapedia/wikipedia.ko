@@ -31,7 +31,9 @@
 
   - [NHK 애니메 월드｜메이저 세컨드](http://www.nhk.or.jp/anime/major2nd/)
 
-  - [애니메 「메이저 세컨드」 웹사이트](http://www.shopro.co.jp/tv/major2nd/)
+  - [애니메 「메이저 세컨드 제1시리즈」 웹사이트](https://www.shopro.co.jp/tv/major2nd/1st_series/)
+
+  - [애니메 「메이저 세컨드 제2시리즈」 웹사이트](http://www.shopro.co.jp/tv/major2nd/)
 
   -
 [분류:일본의 만화](https://ko.wikipedia.org/wiki/분류:일본의_만화 "wikilink") [분류:야구 만화](https://ko.wikipedia.org/wiki/분류:야구_만화 "wikilink") [분류:초등학교를 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:초등학교를_배경으로_한_작품 "wikilink") [분류:중학교를 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:중학교를_배경으로_한_작품 "wikilink") [분류:가나가와현을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:가나가와현을_배경으로_한_작품 "wikilink")

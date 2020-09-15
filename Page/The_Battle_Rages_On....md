@@ -19,6 +19,9 @@
 
 ## 외부 링크
 
+  -
+  - [14th studio album](http://www.thehighwaystar.com/rosas/jouni/discos/studio14.html)
+
 [분류:1993년 음반](https://ko.wikipedia.org/wiki/분류:1993년_음반 "wikilink") [분류:딥 퍼플의 음반](https://ko.wikipedia.org/wiki/분류:딥_퍼플의_음반 "wikilink") [분류:RCA 레코드 음반](https://ko.wikipedia.org/wiki/분류:RCA_레코드_음반 "wikilink")
 
 1.  <http://rnruniverse.proboards.com/thread/10829/mike-dimeo-riot-lizards-masterplan>

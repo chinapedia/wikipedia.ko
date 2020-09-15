@@ -29,7 +29,7 @@ name="best_tpj_cs"\>Orwant, Jon (ed.), *Computer Science & Perl Programming*, 20
   - [*Perl & LWP*](http://lwp.interglacial.com/), available to read free on Burke's website
   - Additional material to the "RTF Pocket Guide": <http://interglacial.com/rtf/>
 
-[분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink")
+[분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:펄 관계자](https://ko.wikipedia.org/wiki/분류:펄_관계자 "wikilink")
 
 1.
 2.

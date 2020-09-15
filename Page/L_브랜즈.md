@@ -22,9 +22,9 @@
 
 ## 외부 링크
 
-  - [배스 앤 바디 웍스 공식 웹사이트](http://www.bathandbodyworks.com)
+  - [배스 앤 바디 웍스 공식 웹사이트](https://web.archive.org/web/20200605020952/https://www.bathandbodyworks.com/)
   - [빅토리아 시크릿 공식 웹사이트](http://www.victoriassecret.com/)
-  - [헨리 벤델 공식 웹사이트](http://www.henribendel.com)
+  - [헨리 벤델 공식 웹사이트](https://web.archive.org/web/20200714025853/https://www.henribendel.com/)
   - [라 센자 공식 웹사이트](http://www.lasenza.com)
 
 [분류:1963년 설립](https://ko.wikipedia.org/wiki/분류:1963년_설립 "wikilink") [분류:미국의 의류 기업](https://ko.wikipedia.org/wiki/분류:미국의_의류_기업 "wikilink") [분류:속옷 브랜드](https://ko.wikipedia.org/wiki/분류:속옷_브랜드 "wikilink") [분류:란제리 브랜드](https://ko.wikipedia.org/wiki/분류:란제리_브랜드 "wikilink") [분류:빅토리아 시크릿](https://ko.wikipedia.org/wiki/분류:빅토리아_시크릿 "wikilink") [분류:1963년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1963년_설립된_기업 "wikilink")

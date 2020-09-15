@@ -8,6 +8,6 @@
 ## 외부 링크
 
   - [Esri 공식 사이트](http://www.esri.com/software/arcgis/)
-  - [ArcGIS 사이트](https://www.arcgis.com/features/index.html)
+  - [ArcGIS 사이트](https://web.archive.org/web/20180101225510/http://www.arcgis.com/features/index.html)
 
 [분류:GIS 소프트웨어](https://ko.wikipedia.org/wiki/분류:GIS_소프트웨어 "wikilink")

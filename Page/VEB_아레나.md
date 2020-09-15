@@ -22,7 +22,7 @@
   - [Design renderings at StadiumDB.com](http://stadiumdb.com/designs/rus/stadion_cska)
   - [**(ru)** Stadium information](https://web.archive.org/web/20071009125132/http://www.sport-express.ru/art.shtml?139215)
 
-[분류:2016년 설립](https://ko.wikipedia.org/wiki/분류:2016년_설립 "wikilink") [분류:러시아의 축구 경기 시설](https://ko.wikipedia.org/wiki/분류:러시아의_축구_경기_시설 "wikilink") [분류:모스크바의 건축물](https://ko.wikipedia.org/wiki/분류:모스크바의_건축물 "wikilink") [분류:모스크바의 스포츠](https://ko.wikipedia.org/wiki/분류:모스크바의_스포츠 "wikilink") [분류:PFC CSKA 모스크바](https://ko.wikipedia.org/wiki/분류:PFC_CSKA_모스크바 "wikilink") [분류:2016년 완공된 스포츠 시설](https://ko.wikipedia.org/wiki/분류:2016년_완공된_스포츠_시설 "wikilink")
+[분류:2016년 설립](https://ko.wikipedia.org/wiki/분류:2016년_설립 "wikilink") [분류:러시아의 축구 경기 시설](https://ko.wikipedia.org/wiki/분류:러시아의_축구_경기_시설 "wikilink") [분류:모스크바의 건축물](https://ko.wikipedia.org/wiki/분류:모스크바의_건축물 "wikilink") [분류:모스크바의 스포츠](https://ko.wikipedia.org/wiki/분류:모스크바의_스포츠 "wikilink") [분류:PFC CSKA 모스크바](https://ko.wikipedia.org/wiki/분류:PFC_CSKA_모스크바 "wikilink") [분류:2016년 완공된 스포츠 시설](https://ko.wikipedia.org/wiki/분류:2016년_완공된_스포츠_시설 "wikilink") [분류:북부 행정구](https://ko.wikipedia.org/wiki/분류:북부_행정구 "wikilink")
 
 1.
 2.  <http://pfc-cska.com/novosti/vse-novosti/stadium/arena-cska-vvedena-v-ekspluataciju/>

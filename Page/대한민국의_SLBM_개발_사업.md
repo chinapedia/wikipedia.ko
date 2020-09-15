@@ -39,7 +39,7 @@ SLBM은 [제2격](https://ko.wikipedia.org/wiki/제2격 "wikilink"), 즉 적의 
 
 속도가 매우 느린 [현무-3](../Page/현무-3.md "wikilink") 순항 미사일도 잠수함 VLS에 장착해 발사한다는데, 전세계적으로, 현무-3와 같은 순항미사일의 경우에는 잠수함 VLS에서 발사하는 경우에도, 재래식 탄두를 쓰고 있다.
 
-## 더 보기
+## 같이 보기
 
   - [북극성 1호](https://ko.wikipedia.org/wiki/북극성_1호 "wikilink")
 

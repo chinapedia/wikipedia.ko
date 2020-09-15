@@ -25,11 +25,11 @@ gEDA에서 g는 GNU를 EDA는 전자 설계 자동화(Electronic Design Automati
 ## 외부 링크
 
   -
-  - [gEDA 위키](http://wiki.geda-project.org/)
+  - [gEDA 위키](https://web.archive.org/web/20190123081225/http://wiki.geda-project.org/)
 
   - (PCB프로그램 웹사이트)pcb.geda-project.org
 
 [분류:컴퓨터 지원 설계 소프트웨어](https://ko.wikipedia.org/wiki/분류:컴퓨터_지원_설계_소프트웨어 "wikilink")
 
-1.  [gEDA - PCB프로젝트](http://pcb.geda-project.org/)
+1.
 2.  [우분투](https://launchpad.net/ubuntu/+source/pcb)

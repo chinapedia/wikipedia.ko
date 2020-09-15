@@ -54,4 +54,4 @@
 
 ## 각주
 
-[분류:폭격기](https://ko.wikipedia.org/wiki/분류:폭격기 "wikilink")
+[분류:영국 공군](https://ko.wikipedia.org/wiki/분류:영국_공군 "wikilink") [분류:영국의 원자력사](https://ko.wikipedia.org/wiki/분류:영국의_원자력사 "wikilink") [분류:영국의 폭격기](https://ko.wikipedia.org/wiki/분류:영국의_폭격기 "wikilink") [분류:전략폭격기](https://ko.wikipedia.org/wiki/분류:전략폭격기 "wikilink")

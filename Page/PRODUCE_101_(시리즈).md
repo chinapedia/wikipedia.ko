@@ -9,7 +9,7 @@
 
   - 최종 우승자: [전소미](../Page/전소미.md "wikilink")
   - 준우승자: [김세정](../Page/세정_\(가수\).md "wikilink")
-  - 3-11위: [최유정](../Page/최유정_\(가수\).md "wikilink"), [김청하](../Page/청하_\(가수\).md "wikilink"), [김소혜](../Page/김소혜_\(1999년\).md "wikilink"), [주결경](../Page/결경.md "wikilink"), [정채연](../Page/정채연.md "wikilink"), [김도연](../Page/김도연_\(가수\).md "wikilink"), [강미나](../Page/미나_\(1999년\).md "wikilink"), [임나영](../Page/나영_\(1995년_12월\).md "wikilink"), [유연정](../Page/연정_\(가수\).md "wikilink")
+  - 3-11위: [최유정](../Page/최유정_\(가수\).md "wikilink"), [김청하](../Page/청하_\(가수\).md "wikilink"), [김소혜](https://ko.wikipedia.org/wiki/김소혜 "wikilink"), [주결경](../Page/결경.md "wikilink"), [정채연](../Page/정채연.md "wikilink"), [김도연](../Page/김도연_\(가수\).md "wikilink"), [강미나](../Page/미나_\(1999년\).md "wikilink"), [임나영](../Page/임나영.md "wikilink"), [유연정](../Page/연정_\(가수\).md "wikilink")
 
 ## PRODUCE 101 (시즌2)
 
@@ -33,7 +33,7 @@
 
   - 최종 우승자: [김요한](../Page/김요한_\(가수\).md "wikilink")
   - 준우승자: [김우석](https://ko.wikipedia.org/wiki/우신 "wikilink")
-  - 3-10위: [한승우](../Page/한승우_\(가수\).md "wikilink"), [송형준](https://ko.wikipedia.org/wiki/송형준 "wikilink"), [조승연](https://ko.wikipedia.org/wiki/조승연_\(가수\) "wikilink"), [손동표](../Page/손동표.md "wikilink"), [이한결](../Page/이한결.md "wikilink"), [남도현](../Page/남도현.md "wikilink"), [차준호](https://ko.wikipedia.org/wiki/차준호 "wikilink"), [강민희](https://ko.wikipedia.org/wiki/강민희 "wikilink")
+  - 3-10위: [한승우](../Page/한승우_\(가수\).md "wikilink"), [송형준](https://ko.wikipedia.org/wiki/송형준 "wikilink"), [조승연](https://ko.wikipedia.org/wiki/WOODZ "wikilink"), [손동표](../Page/손동표.md "wikilink"), [이한결](../Page/이한결.md "wikilink"), [남도현](../Page/남도현.md "wikilink"), [차준호](https://ko.wikipedia.org/wiki/차준호 "wikilink"), [강민희](https://ko.wikipedia.org/wiki/강민희 "wikilink")
   - X: [이은상](https://ko.wikipedia.org/wiki/이은상_\(가수\) "wikilink")
 
 ## 논란
@@ -49,6 +49,10 @@
   - [믹스나인](../Page/믹스나인.md "wikilink") (2017, [JTBC](../Page/JTBC.md "wikilink"))
   - [언더나인틴](../Page/언더나인틴.md "wikilink") (2018, [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"))
 
-[PRODUCE_101](https://ko.wikipedia.org/wiki/분류:PRODUCE_101 "wikilink") [분류:아이돌 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:아이돌_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink") [분류:CJ ENM의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_프로그램 "wikilink")
+## 각주
+
+<references />
+
+[PRODUCE_101](https://ko.wikipedia.org/wiki/분류:PRODUCE_101 "wikilink") [분류:아이돌 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:아이돌_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악 경연회](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_경연회 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink") [분류:CJ ENM의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_프로그램 "wikilink")
 
 1.

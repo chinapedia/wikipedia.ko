@@ -5,26 +5,26 @@
 
 ## 노선 정보
 
-  - 노선명 : 수도권 광역급행철도 B선\[1\]
-  - 노선번호 : 미정
-  - 노선 거리 : 48.7km
-  - 운영 기관 : 미정
-  - 궤간 : 1,435mm ([표준궤](../Page/표준궤.md "wikilink"))
-  - 통행방식 : [좌측 통행](https://ko.wikipedia.org/wiki/좌측_통행 "wikilink")
-  - 역 수 : 13개
-  - 보안 장치 : [ATP](https://ko.wikipedia.org/wiki/자동_열차_방호_장치 "wikilink")
-  - 운행 열차 : [수도권 광역급행철도용 차량](https://ko.wikipedia.org/wiki/수도권_광역급행철도용_차량 "wikilink")
+  - 노선명: 수도권 광역급행철도 B선\[1\]
+  - 노선번호: 미정
+  - 노선 거리: 48.7km
+  - 운영 기관: 미정
+  - 궤간: 1,435mm ([표준궤](../Page/표준궤.md "wikilink"))
+  - 통행방식: [좌측 통행](https://ko.wikipedia.org/wiki/좌측_통행 "wikilink")
+  - 역 수: 13개
+  - 보안 장치: [ATP](https://ko.wikipedia.org/wiki/자동_열차_방호_장치 "wikilink")
+  - 운행 열차: [수도권 광역급행철도용 차량](https://ko.wikipedia.org/wiki/수도권_광역급행철도용_차량 "wikilink")
 
 ## 연혁
 
-  - [2017년](../Page/2017년.md "wikilink") : 예비타당성 조사 착수
-  - [2019년](../Page/2019년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") : 예비타당성 조사 통과
-  - [2022년 말](https://ko.wikipedia.org/wiki/2022년_말 "wikilink") : 기본설계 및 착공
-  - [2027년 말](https://ko.wikipedia.org/wiki/2027년_말 "wikilink") : 준공
+  - [2017년](../Page/2017년.md "wikilink"): 예비타당성 조사 착수
+  - [2019년](../Page/2019년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink"): 예비타당성 조사 통과
+  - [2022년](../Page/2022년.md "wikilink") 말: 기본설계 및 착공
+  - [2027년](../Page/2027년.md "wikilink") 말: 준공
 
 ## 역 목록
 
-2017년 7월 7일의 국토교통부 발표에 따른 것으로, 추후에 변동될 가능성이 있음.
+2017년 7월 7일의 국토교통부 발표에 따른 것으로, 추후에 변동될 가능성이 있다.
 
 <table>
 <thead>
@@ -212,7 +212,11 @@
 </tbody>
 </table>
 
-  - 차량기지 : [당아래차량사업소](https://ko.wikipedia.org/wiki/당아래차량사업소 "wikilink")
+  - 차량기지: [당아래차량사업소](https://ko.wikipedia.org/wiki/당아래차량사업소 "wikilink")
+
+## 평가
+
+철학자 전현우는 부평\~신도림 구간을 경인선 급행열차가 이미 19\~21분에 걸쳐 주행하는데, GTX의 양 역에서의 수직 환승 시간을 고려하면 GTX는 시간적 이득이 거의 없으며, 미미한 시간 절감 효과 때문에 부평역 이외의 급행열차 정차역에서 급행열차를 탑승한 승객이 부평역에서 GTX를 다시 환승하기도 기대하기 어렵다고 비판하였다.\[2\]
 
 ## 각주
 
@@ -220,4 +224,5 @@
 
 [분류:개발 중인 철도](https://ko.wikipedia.org/wiki/분류:개발_중인_철도 "wikilink") [분류:대한민국의 철도 노선](https://ko.wikipedia.org/wiki/분류:대한민국의_철도_노선 "wikilink") [분류:계획 중인 철도 노선](https://ko.wikipedia.org/wiki/분류:계획_중인_철도_노선 "wikilink")
 
-1.  [국토교통부의 3기신도시 발표](http://mrc153.tistory.com/152) 티스토리 앨버트로스 블로그
+1.  [국토교통부의 3기신도시 발표](http://mrc153.tistory.com/152)  티스토리 앨버트로스 블로그
+2.

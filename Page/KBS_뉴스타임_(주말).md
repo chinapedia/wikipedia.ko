@@ -353,12 +353,12 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/5월_15일.md" title="wikilink">5월 15일</a> ~ <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/5월_12일.md" title="wikilink">5월 12일</a></p></td>
-<td><p>매주 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 오전 9시 ~ 9시 5분 (5분)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 오전 9시 ~ 9시 5분 (5분)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/5월_18일.md" title="wikilink">5월 18일</a> ~ <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/10월_19일.md" title="wikilink">10월 19일</a></p></td>
-<td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 오전 9시 ~ 9시 5분 (5분)</p></td>
+<td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 오전 9시 ~ 9시 5분 (5분)</p></td>
 <td></td>
 </tr>
 </tbody>

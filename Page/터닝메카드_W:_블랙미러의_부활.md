@@ -68,36 +68,65 @@
 
 ### 악역
 
-  - 블랙미러: 사람들의 사악한 마음이 모여진 악의 결정체. 52화에서 메가드레곤에게 패배하고 완전히 사라진줄 알았으나, 복수를 위해 부활했다.토끼 형태인 탈을 쓰고있다
+  - 블랙미러(최종보스): 사람들의 사악한 마음이 모여진 악의 결정체. 52화에서 메가드레곤에게 패배하고 완전히 사라진줄 알았으나, 복수를 위해 부활했다. 토끼 형태인 탈을 쓰고있다
 
 (블랙미러) : "가라, 나의 부하\! ○○○\! 메카니멀 고\!"
 
 ## 등장 메카니멀
 
-  - 에반
-  - 피닉스
-  - 바벨
-  - 센뿔
-  - 모스톤
-  - 만타리
-  - 프린스콩
-  - 우르스
-  - 메가
-  - 메가테릭스
-  - 메가스파이더
-  - 메가드래곤
-  - 그리폰
-  - 스핑크스
-  - 그리핑크스(그리폰 + 스핑크스)
-  - 데스퍼
-  - 쿠루기
-  - 다이크
-  - 카이온
-  - 가고토스
-  - 윙라이온
-  - 메가에반
-  - 메가스콜피온
-  - 디스크캐논
+  - <span style="font-weight:bold; color:#0000ff">에반</span>
+  - <span style="font-weight:bold; color:#800080">타나토스</span>
+  - <span style="font-weight:bold; color:#008000">슈마</span>
+  - <span style="font-weight:bold; color:#800080">알타</span>
+  - <span style="font-weight:bold; color:#000000">피닉스</span>
+  - <span style="font-weight:bold; color:#dcdcdc">테로</span>
+  - <span style="font-weight:bold; color:#ff1493">미리내</span>
+  - <span style="font-weight:bold; color:#ff0000">코카트</span>
+  - <span style="font-weight:bold; color:#008000">베노사</span>
+  - <span style="font-weight:bold; color:#000000">게리온</span>
+  - <span style="font-weight:bold; color:#ff0000">무간</span>
+  - <span style="font-weight:bold; color:#dcdcdc">캉시</span>
+  - <span style="font-weight:bold; color:#008000">나백작</span>
+  - <span style="font-weight:bold; color:#ff00ff">독꼬리</span>
+  - <span style="font-weight:bold; color:#0000ff">타이탄</span>
+  - <span style="font-weight:bold; color:#800080">크로키</span>
+  - <span style="font-weight:bold; color:#000000">킹죠스</span>
+  - <span style="font-weight:bold; color:#a52a2a">파이온</span>
+  - <span style="font-weight:bold; color:#0000ff">크랑</span>
+  - <span style="font-weight:bold; color:#ff8c00">윙톡</span>
+  - <span style="font-weight:bold; color:#ff0000">만타리</span>
+  - <span style="font-weight:bold; color:#dcdcdc">옥타</span>
+  - <span style="font-weight:bold; color:#ff8c00">안드로매지션</span>
+  - <span style="font-weight:bold; color:#808080">바벨</span>
+  - <span style="font-weight:bold; color:#008000">센뿔</span>
+  - <span style="font-weight:bold; color:#0000ff">모스톤</span>
+  - <span style="font-weight:bold; color:#0000ff">프린스콩</span>
+  - <span style="font-weight:bold; color:#ff0000">우르스</span>
+  - <span style="font-weight:bold; color:#0000ff">타돌</span>
+  - <span style="font-weight:bold; color:#ff0000">메가</span>
+  - <span style="font-weight:bold; color:#0000ff">메가테릭스</span>
+  - <span style="font-weight:bold; color:#000000">메가스파이더</span>
+  - <span style="font-weight:bold; color:#ff0000">메가드래곤</span>
+  - <span style="font-weight:bold; color:#dcdcdc">그리폰</span>
+  - <span style="font-weight:bold; color:#ff0000">스핑크스</span>
+  - <span style="font-weight:bold; color:#dcdcdc">그리</span><span style="font-weight:bold; color:#ff0000">핑크스</span> (그리폰 + 스핑크스)
+  - <span style="font-weight:bold; color:#0000ff">요타</span>
+  - <span style="font-weight:bold; color:#ff0000">네오</span>
+  - <span style="font-weight:bold; color:#8a2be2">엑스</span>
+  - <span style="font-weight:bold; color:#dcdcdc">크라켄</span>
+  - <span style="font-weight:bold; color:#0000ff">피코</span>
+  - <span style="font-weight:bold; color:#ff0000">하이드론</span>
+  - <span style="font-weight:bold; color:#0000ff">카울</span>
+  - <span style="font-weight:bold; color:#0000ff">투스코</span>
+  - <span style="font-weight:bold; color:#000000">데스퍼</span>
+  - <span style="font-weight:bold; color:#008000">쿠루기</span>
+  - <span style="font-weight:bold; color:#0000ff">다이크</span>
+  - <span style="font-weight:bold; color:#ff0000">카이온</span>
+  - <span style="font-weight:bold; color:#000000">가고토스</span>
+  - <span style="font-weight:bold; color:#dcdcdc">윙라이온</span>
+  - <span style="font-weight:bold; color:#ff0000">메가에반</span>
+  - <span style="font-weight:bold; color:#ffff00">메가스콜피온</span>
+  - <span style="font-weight:bold; color:#ff0000">디스크캐논</span>
 
 ## 목소리 출연
 

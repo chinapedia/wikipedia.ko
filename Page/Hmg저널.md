@@ -75,7 +75,7 @@ HMG 저널 메인 페이지에서 오른쪽에 위치한 '뉴스레터 신청하
 
 2\. [HMG 테크](https://tech.hyundaimotorgroup.com/kr/about-hmg/)
 
-3\. [HMG TV](https://tv.hmgjournal.com/Index_Tv.blg)
+3\. [HMG TV](https://web.archive.org/web/20200607222751/https://tv.hmgjournal.com/Index_Tv.blg)
 
 4\. [페이스북 그룹](https://www.facebook.com/hyundaimotorgroup/)
 

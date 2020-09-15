@@ -9,6 +9,8 @@
 
 [이언 맥도널드와](https://ko.wikipedia.org/wiki/이언_맥도널드_\(음악가\) "wikilink") [피터 신필드가](https://ko.wikipedia.org/wiki/피터_신필드 "wikilink") 작곡한 〈[I Talk to the Wind](https://ko.wikipedia.org/wiki/I_Talk_to_the_Wind "wikilink")〉와 〈[The Court of the Crimson King](https://ko.wikipedia.org/wiki/The_Court_of_the_Crimson_King "wikilink")〉을 제외한 모든 노래가 [킹 크림슨이](../Page/킹_크림슨.md "wikilink") 작곡했다.
 
+## 각주
+
 ## 외부 링크
 
 [분류:1969년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1969년_데뷔_음반 "wikilink") [분류:킹 크림슨의 음반](https://ko.wikipedia.org/wiki/분류:킹_크림슨의_음반 "wikilink") [분류:아일랜드 레코드 음반](https://ko.wikipedia.org/wiki/분류:아일랜드_레코드_음반 "wikilink") [분류:애틀랜틱 레코드 음반](https://ko.wikipedia.org/wiki/분류:애틀랜틱_레코드_음반 "wikilink") [분류:폴리도르 레코드 음반](https://ko.wikipedia.org/wiki/분류:폴리도르_레코드_음반 "wikilink") [분류:버진 레코드 음반](https://ko.wikipedia.org/wiki/분류:버진_레코드_음반 "wikilink")

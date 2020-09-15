@@ -19,7 +19,7 @@ AMQP의 아이디어는 2003년 [런던](../Page/런던.md "wikilink") [JP모간
 
 ## 외부 링크
 
-  - [AMQP website](http://www.amqp.org)
+  - [AMQP website](https://web.archive.org/web/20110720093016/http://www.amqp.org/)
   - [OASIS AMQP technical committee](http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=amqp)
   - [High-level Overview of AMQP and the AMQP Model (version 0-9-1)](http://www.rabbitmq.com/tutorials/amqp-concepts.html)
 

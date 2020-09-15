@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Time \(유닉스\)](https://ko.wikipedia.org/wiki/Time_\(유닉스\)).
 
 
-[컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 **`time`**은 [유닉스](../Page/유닉스.md "wikilink"), [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제의 명령어이다. 특정 [명령어의](https://ko.wikipedia.org/wiki/명령어_\(컴퓨팅\) "wikilink") 실행 시간을 확인하는데 사용한다.
+[컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 **`time`**은 [유닉스](../Page/유닉스.md "wikilink"), [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제의 명령어이다. 특정 [명령어의](../Page/명령어_\(컴퓨팅\).md "wikilink") 실행 시간을 확인하는데 사용한다.
 
 ## 개요
 
@@ -97,7 +97,7 @@ $
   - [Cron](../Page/Cron.md "wikilink")
   - [TIME (명령어)](https://ko.wikipedia.org/wiki/TIME_\(명령어\) "wikilink")
 
-## 참고문헌
+## 참고 문헌
 
   -
   -

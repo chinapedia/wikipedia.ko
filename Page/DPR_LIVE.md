@@ -5,7 +5,7 @@
 
 ## 학력
 
-5살때 미국역인 괌으로 이민을 가서 초·중학교를 졸업하였다. 고등학생 때 한국으로 귀국 후 학교 대신 검정고시를 선택하였다. 2010년 4월 고졸 검정고시 62점으로 합격이고 최종 학력은 고등학교 졸업이다.
+5살때 미국역인 괌으로 이민을 가서 초·중학교를 졸업하였다. 고등학생 때 한국으로 귀국 후 학교 대신 검정고시를 선택하였다. 2010년 4월 고졸 검정고시 62점으로 최종 학력은 고등학교 졸업이다.
 
 ## 음반
 
@@ -52,7 +52,7 @@
 
 ## 외부 링크
 
-  - [공식사이트](http://www.dreamperfectregime.com/)
+  - [공식사이트](https://web.archive.org/web/20170606025921/http://www.dreamperfectregime.com/)
   - [트위터](https://twitter.com/_dprlive)
   - [페이스북](https://www.facebook.com/DPRLIVE)
   - [인스타그램](https://www.instagram.com/dprlive/)

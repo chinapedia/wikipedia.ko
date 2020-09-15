@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Master of Reality](https://ko.wikipedia.org/wiki/Master_of_Reality).
 
 
-《**Master of Reality**》는 1971년 7월 21일에 발매된 [영국](../Page/영국.md "wikilink")의 록 밴드 [블랙 사바스의](../Page/블랙_사바스.md "wikilink") 세 번째 스튜디오 음반이다. 이 앨범은 [둠 메탈](https://ko.wikipedia.org/wiki/둠_메탈 "wikilink"), [스토너 록](https://ko.wikipedia.org/wiki/스토너_록 "wikilink"), 그리고 [슬러지 메탈의](https://ko.wikipedia.org/wiki/슬러지_메탈 "wikilink") 근간으로 널리 알려져 있다.\[1\] 이 음반은 2백만 장 이상이 팔린 후 더블 플래티넘으로 인증받았다. 《Master of Reality》는 42년 뒤인 《[13](../Page/13_\(블랙_사바스의_음반\).md "wikilink")》까지 [미국](../Page/미국.md "wikilink")에서 최초로 10위 안에 든 음반이었다.
+《**Master of Reality**》는 1971년 7월 21일에 발매된 [영국](../Page/영국.md "wikilink")의 록 밴드 [블랙 사바스의](../Page/블랙_사바스.md "wikilink") 세 번째 스튜디오 음반이다. 이 음반은 [둠 메탈](https://ko.wikipedia.org/wiki/둠_메탈 "wikilink"), [스토너 록](https://ko.wikipedia.org/wiki/스토너_록 "wikilink"), 그리고 [슬러지 메탈의](https://ko.wikipedia.org/wiki/슬러지_메탈 "wikilink") 근간으로 널리 알려져 있다.\[1\] 이 음반은 2백만 장 이상이 팔린 후 더블 플래티넘으로 인증받았다. 《Master of Reality》는 42년 뒤인 《[13](../Page/13_\(블랙_사바스의_음반\).md "wikilink")》까지 [미국](../Page/미국.md "wikilink")에서 최초로 10위 안에 든 음반이었다.
 
 ## 곡 목록
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [=LOVE](https://ko.wikipedia.org/wiki/=LOVE).
 
 
-**=LOVE**(이콜러브)는 [사시하라 리노의](../Page/사시하라_리노.md "wikilink") 완전 프로듀스에 의해 [2017년](../Page/2017년.md "wikilink")에 탄생한 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink"). ([성우 유닛](../Page/일본의_성우_그룹.md "wikilink"))
+**=LOVE**(이콜러브)는 [사시하라 리노의](../Page/사시하라_리노.md "wikilink") 완전 프로듀스에 의해 [2017년](../Page/2017년.md "wikilink")에 탄생한 [일본](../Page/일본.md "wikilink")의 [여성](../Page/여성.md "wikilink") [아이돌 그룹이다](https://ko.wikipedia.org/wiki/아이돌_그룹 "wikilink").
 
 ## 개요
 
@@ -85,10 +85,10 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>2020년 4월 29일</p></td>
+<td><p>2020년 7월 8일</p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/CAMEO" title="wikilink">CAMEO</a></strong><br />
 <small>카메오</small></p></td>
-<td><p>-</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -101,8 +101,8 @@
 
 ## 같이 보기
 
-  - [≠ME](../Page/≠ME.md "wikilink")
-  - [사시하라 리노](../Page/사시하라_리노.md "wikilink")
+  - [≠ME](../Page/≠ME.md "wikilink")(자매그룹)
+  - [사시하라 리노](../Page/사시하라_리노.md "wikilink")(프로듀서)
 
 ## 외부 링크
 

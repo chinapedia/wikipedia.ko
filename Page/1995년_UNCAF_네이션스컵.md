@@ -163,7 +163,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Honduras.svg" title="wikilink">100px</a><br />
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:Flag_of_Honduras_(2008_Olympics).svg" title="wikilink">100px</a><br />
 <strong><a href="../Page/온두라스_축구_국가대표팀.md" title="wikilink">온두라스</a></strong><br />
 <strong>2번째 우승</strong></p></td>
 </tr>

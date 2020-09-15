@@ -7,7 +7,7 @@
 
 《African Herbsman》은 웨일러스가 1970년부터 1971년까지 프로듀서 [리 페리와](https://ko.wikipedia.org/wiki/리_"스크래치"_페리 "wikilink") 함께 [자메이카](../Page/자메이카.md "wikilink")에서 녹음한 곡의 일부를 모은 곡이다. 자메이카에서 큰 인기를 끌었던 〈Trenchtown Rock〉과 〈Lively Up Yourself〉라는 두 개의 자작곡도 포함되어 있다.
 
-그 중 몇 곡이 후에 말리에 의해 그의 후기 음반으로 재녹음될 것이다. 예를 들면 〈Lively Up Yourself〉 (《[Natty Dread](https://ko.wikipedia.org/wiki/Natty_Dread "wikilink")》), 〈Duppy Conqueror〉, 〈Put It On〉, 〈[Small Axe](https://ko.wikipedia.org/wiki/Small_Axe "wikilink")〉 (《[Burnin'](https://ko.wikipedia.org/wiki/Burnin'_\(음반\) "wikilink")》), 〈[Sun Is Shining](https://ko.wikipedia.org/wiki/Sun_Is_Shining "wikilink")〉 (《[Kaya](../Page/Kaya_\(음반\).md "wikilink")》) 등이 있다.
+그 중 몇 곡이 후에 말리에 의해 그의 후기 음반으로 재녹음될 것이다. 예를 들면 〈Lively Up Yourself〉 (《[Natty Dread](../Page/Natty_Dread.md "wikilink")》), 〈Duppy Conqueror〉, 〈Put It On〉, 〈[Small Axe](https://ko.wikipedia.org/wiki/Small_Axe "wikilink")〉 (《[Burnin'](https://ko.wikipedia.org/wiki/Burnin'_\(음반\) "wikilink")》), 〈[Sun Is Shining](https://ko.wikipedia.org/wiki/Sun_Is_Shining "wikilink")〉 (《[Kaya](../Page/Kaya_\(음반\).md "wikilink")》) 등이 있다.
 
 ## 곡 목록
 

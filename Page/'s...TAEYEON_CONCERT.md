@@ -123,6 +123,7 @@
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
   - 후원 : [YES24](../Page/YES24.md "wikilink")
+  - 총연출 : 황상훈
 
 ## 각주
 

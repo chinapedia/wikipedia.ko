@@ -83,25 +83,23 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>Release<br />
-date</p></th>
+<th><p>발매일</p></th>
 <th><p>제목</p></th>
-<th><p>Package number</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/Oricon" title="wikilink">Oricon</a><br />
-highest chart[15]</p></th>
-<th><p>Official page</p></th>
+<th><p>패키지 번호</p></th>
+<th><p><a href="../Page/오리콘.md" title="wikilink">오리콘</a> 최고순위[15]</p></th>
+<th><p>공식 사이트</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>September 17, 2014</p></td>
+<td><p>2014년 9월 17일</p></td>
 <td><p>Mag Mell</p></td>
 <td><p>SIHT-1001</p></td>
 <td><p>31</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Tracklist</p></td>
+<td><p>목차</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -129,14 +127,14 @@ highest chart[15]</p></th>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>October 12, 2016</p></td>
+<td><p>2016년 10월 12일</p></td>
 <td><p>Miracle Milk</p></td>
 <td><p>SIHT-1004</p></td>
 <td><p>12</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Tracklist</p></td>
+<td><p>목차</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -176,25 +174,23 @@ highest chart[15]</p></th>
 <table>
 <thead>
 <tr class="header">
-<th><p>Release<br />
-date</p></th>
+<th><p>발매일</p></th>
 <th><p>제목</p></th>
-<th><p>Package number</p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/Oricon" title="wikilink">Oricon</a><br />
-highest chart[16]</p></th>
-<th><p>Official page</p></th>
+<th><p>패키지 번호</p></th>
+<th><p><a href="../Page/오리콘.md" title="wikilink">오리콘</a> 최고순위[16]</p></th>
+<th><p>공식 사이트</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>May 24, 2017</p></td>
+<td><p>2017년 5월 14일</p></td>
 <td><p>Hue</p></td>
 <td><p>SNCL-00001</p></td>
 <td><p>25</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Tracklist</p></td>
+<td><p>목차</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -217,50 +213,43 @@ highest chart[16]</p></th>
 </tbody>
 </table>
 
-### Others
+### 기타
 
 <table>
 <thead>
 <tr class="header">
-<th><p>Release date</p></th>
-<th><p>Title</p></th>
-<th><p>Official page</p></th>
-<th><p>Note</p></th>
+<th><p>발매일</p></th>
+<th><p>타이틀</p></th>
+<th><p>공식 사이트</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>October 28, 2012</p></td>
+<td><p>2012년 10월 28일</p></td>
 <td><p>Chocological</p></td>
 <td></td>
-<td><p>Included in compilation album "Music On Our Palms"</p></td>
 </tr>
 <tr class="even">
-<td><p>April 7, 2013</p></td>
+<td><p>2013년 4월 7일</p></td>
 <td><p>MuNiCa - Cry of Pluto [Original Soundtrack]</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>November 27, 2013</p></td>
+<td><p>2013년 11월 27일</p></td>
 <td><p>H△G×Mili</p></td>
 <td></td>
-<td><p>Split album with H△G</p></td>
 </tr>
 <tr class="even">
-<td><p>December 22, 2014</p></td>
+<td><p>2014년 12월 22일</p></td>
 <td><p>Holy and Darkness 1</p></td>
 <td></td>
-<td><p>Colloboration with Tasuku Arai</p></td>
 </tr>
 <tr class="odd">
-<td><p>May 9, 2015</p></td>
+<td><p>2015년 5월 9일</p></td>
 <td><p>H△G×Mili vol.2</p></td>
 <td></td>
-<td><p>Split album with H△G</p></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>

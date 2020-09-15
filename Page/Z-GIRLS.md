@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Z-GIRLS](https://ko.wikipedia.org/wiki/Z-GIRLS).
 
 
-**Z-GIRLS**(지걸스)는 [아시아](../Page/아시아.md "wikilink") 7개국 합작 프로젝트 [걸그룹](https://ko.wikipedia.org/wiki/걸그룹 "wikilink")이다. 멤버 전원 외국인으로 구성되었다. [2019년](../Page/2019년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") Z-POP DREAM 프로젝트로 [Z-BOYS](https://ko.wikipedia.org/wiki/Z-BOYS "wikilink")와 같이 [잠실실내체육관](../Page/잠실실내체육관.md "wikilink")에서 데뷔했다. 현재 사용되고 있는 그룹명은 임시 그룹명으로 현재 그룹명 공모에 들어갔고 추후 결정되는대로 정식 그룹명으로 변경될 예정이다.
+**Z-GIRLS**(지걸스)는 [아시아](../Page/아시아.md "wikilink") 7개국 합작 프로젝트로 결성된 [걸그룹](https://ko.wikipedia.org/wiki/걸그룹 "wikilink")이다. 멤버 전원 외국인으로 구성되었다. 현재는 6인체제이며 [2019년](../Page/2019년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") Z-POP DREAM 프로젝트로 [Z-BOYS](https://ko.wikipedia.org/wiki/Z-BOYS "wikilink")와 같이 [잠실실내체육관](../Page/잠실실내체육관.md "wikilink")에서 데뷔했다. 현재 사용되고 있는 그룹명은 임시 그룹명으로 현재 그룹명 공모에 들어갔고 추후 결정되는대로 정식 그룹명으로 변경될 예정이다.
 
 ## 구성원
 
@@ -11,6 +11,13 @@
 |  |
 |  |
 |  |
+|  |
+|  |
+|  |
+|  |
+
+### 이전 구성원
+
 |  |
 |  |
 |  |

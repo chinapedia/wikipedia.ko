@@ -15,9 +15,13 @@
 
 본 스콧의 장례식이 끝난 후, 밴드는 즉시 교체된 프론트맨에 대한 오디션을 시작했다. 랭의 조언에 따라 이 밴드는 조르디인 가수 브라이언 존슨을 데려왔고, 그는 이 밴드를 감동시켰다. 그 밴드가 다음 날 지원자 명단의 나머지 부분을 애처롭게 처리한 후, 존슨은 두 번째 리허설을 위해 돌아왔다. 3월 29일, 맬컴 영은 그 가수에게 일자리를 제안하기 위해 전화를 걸었다.
 
+## 비평
+
+1980년 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》 리뷰에서 [데이비드 프리케는](https://ko.wikipedia.org/wiki/데이비드_프리케 "wikilink") 《Back in Black》을 "AC/DC의 6개 미국 음반 중 최고"일 뿐만 아니라 "헤비 메탈 아트의 정점: 장르의 피와 땀, 오만함을 모두 담아낸 《[Led Zeppelin II](../Page/Led_Zeppelin_II.md "wikilink")》 이후 첫 LP"로 여겼다.\[7\] 《[스매시 히트](https://ko.wikipedia.org/wiki/스매시_히트 "wikilink")》의 레드 스타는 "완전히 예측 가능하고 완전히 무시무시한 새로운 AC/DC 음반에 대한 최저 공통분모의 또 다른 승리"에 대해 곡들이 서로 구별되지 않고 과대남성적 환상, 록 음악 문구, 야한 기타, 그리고 둔한 리듬으로 얼룩진 것을 발견하면서 더 비판적이었다. 그는 그 기록을 10점 만점에 3점을 주었다.\[8\]
+
 ## 곡 목록
 
-모든 곡들은 [앵거스 영과](https://ko.wikipedia.org/wiki/앵거스_영 "wikilink") [맬컴 영](https://ko.wikipedia.org/wiki/맬컴_영 "wikilink") 그리고 [브라이언 존슨이](https://ko.wikipedia.org/wiki/브라이언_존슨 "wikilink") 작사/작곡하였다.
+모든 곡들은 [앵거스 영과](https://ko.wikipedia.org/wiki/앵거스_영 "wikilink") [맬컴 영](https://ko.wikipedia.org/wiki/맬컴_영 "wikilink") 그리고 [브라이언 존슨에](https://ko.wikipedia.org/wiki/브라이언_존슨 "wikilink") 의해 작사/작곡하였다.
 
 ## 각주
 
@@ -32,3 +36,5 @@
 4.  Mierendorf, Mike (2 August 2012). . *Cultural Transmogrifier Magazine*.
 5.
 6.
+7.
+8.

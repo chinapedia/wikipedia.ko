@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GECAS](https://ko.wikipedia.org/wiki/GECAS).
 
 
-**제너럴 일렉트릭 케피탈 항공 서비스**()는 아일랜드계 미국 ​​상업 항공기 금융 및리스 회사다. GECAS는 세계에서 가장 큰 민간 항공사 리스 / 파이낸싱 회사로 알려져 있다. GE 캐피탈(General Capital)의 계열사로, 항공기 장기 리스 / 임대 사업에서는 [ILFC](../Page/ILFC.md "wikilink")와 2대 기업으로 알려져 있다. GECAS 는 에어 버스 (Airbus) 및 보잉 (Boeing)과 같은 제조업체로부터 항공기를 구입 한 후 일반적으로 8 년 임대 계약을 맺고 리스 계약 을 통해 항공사에 임대 한다. 또한 항공기를 제조사에서 구입하여 임대 한다. 이 회사는 세 개의 글로벌 본사가 싱가포르 ; 섀넌, 카운티 클레어 와 노 워크, 코네티컷에 위치해 있다.
+**제너럴 일렉트릭 케피탈 항공 서비스**()는 아일랜드계 미국 상업 항공기 금융 및리스 회사다. GECAS는 세계에서 가장 큰 민간 항공사 리스 / 파이낸싱 회사로 알려져 있다. GE 캐피탈(General Capital)의 계열사로, 항공기 장기 리스 / 임대 사업에서는 [ILFC](../Page/ILFC.md "wikilink")와 2대 기업으로 알려져 있다. GECAS 는 에어 버스 (Airbus) 및 보잉 (Boeing)과 같은 제조업체로부터 항공기를 구입 한 후 일반적으로 8 년 임대 계약을 맺고 리스 계약 을 통해 항공사에 임대 한다. 또한 항공기를 제조사에서 구입하여 임대 한다. 이 회사는 세 개의 글로벌 본사가 싱가포르 ; 섀넌, 카운티 클레어 와 노 워크, 코네티컷에 위치해 있다.
 
 GECAS의 주 경쟁은 [AerCap](https://ko.wikipedia.org/wiki/AerCap "wikilink") 과, [ALTH](https://ko.wikipedia.org/wiki/ALTH "wikilink") 리스사, [ILFC](../Page/ILFC.md "wikilink") , [BBAM](https://ko.wikipedia.org/wiki/BBAM "wikilink")와 같은 다른 회사와 항공기 리스 부문에서 경쟁하고 있다.
 

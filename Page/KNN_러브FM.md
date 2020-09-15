@@ -7,7 +7,7 @@
 
 주로 [뉴스](../Page/뉴스.md "wikilink"), [시사](../Page/시사.md "wikilink"), [연예](https://ko.wikipedia.org/wiki/연예 "wikilink")오락, [음악](../Page/음악.md "wikilink"), [스포츠](../Page/스포츠.md "wikilink") 등의 종합 정보를 24시간 제공하는 [대한민국](../Page/대한민국.md "wikilink")의 종합 [라디오](../Page/라디오.md "wikilink") [채널](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink") 중 하나이다.
 
-부산광역시에서 청취할 수 있다.
+부산광역시와 경상남도, 전라남도 동부 및 일본 나가사키현 쓰시마시 일부에서만 청취할 수 있다.
 
 ### 로고송
 
@@ -43,23 +43,24 @@ KNN 러브FM은 [2016년](../Page/2016년.md "wikilink") [5월 10일에](../Page
 
 ## 방송 프로그램
 
-| KNN LOVE FM                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 프로그램명                                                                                                                                                |
-| [KNN 10시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1000\) "wikilink")                                                                               |
-| [1](http://www.knn.co.kr/category/radio/love-fm/elegantradio)[다희씨의 우아한 라디오](https://ko.wikipedia.org/wiki/우아한_라디오 "wikilink")                        |
-| [KNN 2시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1410\) "wikilink")                                                                                |
-| [2](https://web.archive.org/web/20160524065758/http://www.knn.co.kr/category/radio/love-fm/goodchoice) [강영운의 딱좋은 라디오](../Page/딱좋은_라디오.md "wikilink") |
-| [3](http://www.knn.co.kr/category/radio/love-fm/todaypmknn) [오늘 오후 KNN입니다](https://ko.wikipedia.org/wiki/오늘_오후_KNN입니다 "wikilink")                    |
-| [4](http://www.knn.co.kr/category/radio/power-fm/wellbeing_life) [KNN 웰빙라이프 (저녁)](../Page/KNN_웰빙라이프.md "wikilink")                                   |
-| [KNN 6시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1800\) "wikilink")                                                                                |
-| [5](http://www.knn.co.kr/category/radio/love-fm/onnaradio) [박민설의 온나라디오](https://ko.wikipedia.org/wiki/온나라디오 "wikilink")                              |
+| KNN LOVE FM                                                                                                                                                                  |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 프로그램명                                                                                                                                                                        |
+| [KNN 10시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1000\) "wikilink")                                                                                                       |
+| [1](http://www.knn.co.kr/category/radio/love-fm/elegantradio)[다희씨의 우아한 라디오](https://ko.wikipedia.org/wiki/우아한_라디오 "wikilink")                                                |
+| [KNN 2시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1410\) "wikilink")                                                                                                        |
+| [2](https://web.archive.org/web/20160524065758/http://www.knn.co.kr/category/radio/love-fm/goodchoice) [강영운의 딱좋은 라디오](../Page/딱좋은_라디오.md "wikilink")                         |
+| [3](https://web.archive.org/web/20200504145750/http://www.knn.co.kr/category/radio/love-fm/todaypmknn) [오늘 오후 KNN입니다](https://ko.wikipedia.org/wiki/오늘_오후_KNN입니다 "wikilink") |
+| [4](http://www.knn.co.kr/category/radio/power-fm/wellbeing_life) [KNN 웰빙라이프 (저녁)](../Page/KNN_웰빙라이프.md "wikilink")                                                           |
+| [KNN 6시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1800\) "wikilink")                                                                                                        |
+| [5](http://www.knn.co.kr/category/radio/love-fm/onnaradio) [박민설의 온나라디오](https://ko.wikipedia.org/wiki/온나라디오 "wikilink")                                                      |
 
 ## 수신 가능 지역
 
   - [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") 및 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 일원이다.
   - [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 경남 중부지역 일원이다.
   - [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 경남 서부지역 일원이다.
+  - [일본](../Page/일본.md "wikilink") [나가사키현](../Page/나가사키현.md "wikilink") [쓰시마시의](../Page/쓰시마시_\(나가사키현\).md "wikilink") 일부이다.
 
 ## 특집 프로그램
 

@@ -5,7 +5,7 @@
 
 ## 홍보
 
-트와이스는 4월 7일 [트위터](../Page/트위터.md "wikilink")를 통해 EP를 발표했고, 4월 23일과 30일 [JTBC](../Page/JTBC.md "wikilink") 《[아이돌룸](../Page/아이돌룸.md "wikilink")》의 2부작 스페셜에 출연했다. 2019년 5월에 시작된 이들의 [월드 투어는](../Page/트와이스의_콘서트_투어_목록.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink"), [방콕](../Page/방콕.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [마닐라](../Page/마닐라.md "wikilink")를 방문했다.
+트와이스는 4월 7일 [트위터](../Page/트위터.md "wikilink")를 통해 EP를 발표했고, 4월 23일과 30일 [JTBC](../Page/JTBC.md "wikilink") 《[아이돌룸](../Page/아이돌룸.md "wikilink")》의 2부작 스페셜에 출연했다. 2019년 5월에 시작된 이들의 [월드 투어는](../Page/트와이스의_콘서트_투어_목록.md "wikilink") [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")을 시작으로, [방콕](../Page/방콕.md "wikilink"), [싱가포르](../Page/싱가포르.md "wikilink"), [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink"), [마닐라](../Page/마닐라.md "wikilink")를 방문했다.
 
 ## 수록 내용
 

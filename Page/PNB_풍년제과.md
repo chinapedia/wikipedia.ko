@@ -1,7 +1,9 @@
 > This article is converted from Wikipedia: [PNB 풍년제과](https://ko.wikipedia.org/wiki/PNB_풍년제과).
 
 
-**PNB 풍년제과**는 [대한민국](../Page/대한민국.md "wikilink")의 제빵 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")이다. 1951년 [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink")에서 설립되었으며, 오리지널 초코파이가 유명하다. 군산 [이성당](https://ko.wikipedia.org/wiki/이성당 "wikilink"), 서울 [나폴레옹과자점](../Page/나폴레옹과자점.md "wikilink"), 대전 [성심당](../Page/성심당.md "wikilink"), 부산 비앤씨와 함께 대한민국 5대 빵집으로 꼽히기도 한다.\[1\] 전라북도 지역 기준으로는 군산시의 이성당과 쌍벽을 이루는 곳이기도 하다. 원래 이름은 '풍년제과' 였으나 1969년에 개업한 강동오케익의 풍년제과와의 법적분쟁과 이를 구분을 위하여 PNB라는 이름으로 개명하였다.
+풍년제과와 PNB풍년제과가 있는데 결론부터 말하면 **PNB 풍년제과**가 원조이다. 1951년 [전주시](https://ko.wikipedia.org/wiki/전주시 "wikilink")에서 설립되었으며,창업주의 손자가 3대를 이어 오고 있으며, 센베과자와 오리지널 초코파이가 유명하다.
+
+`군산 `[`이성당`](https://ko.wikipedia.org/wiki/이성당 "wikilink")`, 서울 `[`나폴레옹과자점`](../Page/나폴레옹과자점.md "wikilink")`, 대전 `[`성심당`](../Page/성심당.md "wikilink")`, 부산 비앤씨와 함께 대한민국 5대 빵집으로 꼽히기도 한다.`\[1\]` 전라북도 지역 기준으로는 군산시의 이성당과 쌍벽을 이루는 곳이기도 하다. 원래 이름은 '풍년제과' 였으나 선등록된 간판권리를 구매한 강동오케익과 법적분쟁과 이를 구분을 위하여 PNB라는 이름으로 개명하였다.`
 
 ## 역사
 

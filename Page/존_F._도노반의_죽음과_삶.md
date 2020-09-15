@@ -8,7 +8,9 @@
   - [킷 해링턴](../Page/킷_해링턴.md "wikilink") - 존 F. 도노반
   - [나탈리 포트만](https://ko.wikipedia.org/wiki/나탈리_포트만 "wikilink")
 
+## 각주
+
 ## 외부 링크
 
   -
-[분류:2018년 영화](https://ko.wikipedia.org/wiki/분류:2018년_영화 "wikilink") [분류:영어 영화 작품](https://ko.wikipedia.org/wiki/분류:영어_영화_작품 "wikilink") [분류:그자비에 돌란 감독 영화](https://ko.wikipedia.org/wiki/분류:그자비에_돌란_감독_영화 "wikilink") [분류:캐나다의 드라마 영화](https://ko.wikipedia.org/wiki/분류:캐나다의_드라마_영화 "wikilink") [분류:배우를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:배우를_소재로_한_영화 "wikilink") [분류:영화 제작을 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:영화_제작을_소재로_한_영화 "wikilink") [분류:몬트리올에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:몬트리올에서_촬영한_영화 "wikilink")
+[분류:2018년 영화](https://ko.wikipedia.org/wiki/분류:2018년_영화 "wikilink") [분류:영어 영화 작품](https://ko.wikipedia.org/wiki/분류:영어_영화_작품 "wikilink") [분류:그자비에 돌란 감독 영화](https://ko.wikipedia.org/wiki/분류:그자비에_돌란_감독_영화 "wikilink") [분류:캐나다의 성장 영화](https://ko.wikipedia.org/wiki/분류:캐나다의_성장_영화 "wikilink") [분류:캐나다의 드라마 영화](https://ko.wikipedia.org/wiki/분류:캐나다의_드라마_영화 "wikilink") [분류:캐나다의 성소수자 영화](https://ko.wikipedia.org/wiki/분류:캐나다의_성소수자_영화 "wikilink") [분류:게이 영화](https://ko.wikipedia.org/wiki/분류:게이_영화 "wikilink") [분류:배우를 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:배우를_소재로_한_영화 "wikilink") [분류:영화 제작을 소재로 한 영화](https://ko.wikipedia.org/wiki/분류:영화_제작을_소재로_한_영화 "wikilink") [분류:2006년을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:2006년을_배경으로_한_영화 "wikilink") [분류:2017년을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:2017년을_배경으로_한_영화 "wikilink") [분류:뉴욕을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:뉴욕을_배경으로_한_영화 "wikilink") [분류:런던을 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:런던을_배경으로_한_영화 "wikilink") [분류:프라하를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:프라하를_배경으로_한_영화 "wikilink") [분류:펜실베이니아주를 배경으로 한 영화](https://ko.wikipedia.org/wiki/분류:펜실베이니아주를_배경으로_한_영화 "wikilink") [분류:프라하에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:프라하에서_촬영한_영화 "wikilink") [분류:몬트리올에서 촬영한 영화](https://ko.wikipedia.org/wiki/분류:몬트리올에서_촬영한_영화 "wikilink")

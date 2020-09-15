@@ -324,7 +324,7 @@
 <tr class="even">
 <td><p><strong>Deus Caritas Est</strong></p></td>
 <td><p>신은 사랑이다</p></td>
-<td><p><a href="../Page/교황_베네딕토_16세.md" title="wikilink">교황 베네딕토 16세의</a> 첫 회칙에서의 제목이자 말이다. 다른 의미로는 <a href="https://ko.wikipedia.org/wiki/Deus_caritas_est_(동음이의어)" title="wikilink">Deus caritas est (동음이의어)</a> 보기.</p></td>
+<td><p><a href="../Page/교황_베네딕토_16세.md" title="wikilink">교황 베네딕토 16세의</a> 첫 회칙에서의 제목이자 말이다. 다른 의미로는 <a href="https://ko.wikipedia.org/wiki/Deus_caritas_est_(동음이의)" title="wikilink">Deus caritas est (동음이의)</a> 보기.</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/데우스_엑스_마키나" title="wikilink">deus ex machina</a></strong></p></td>

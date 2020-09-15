@@ -7,7 +7,13 @@
 
 ### 안드로이드 8.0 오레오
 
-LG V35 ThinQ는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [8.0.0 오레오를](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 기본 탑재하여 출시되었다.
+LG V35 ThinQ는 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") [8.0.0 오레오를](https://ko.wikipedia.org/wiki/안드로이드_버전_역사 "wikilink") 기본 탑재하여 출시되었다. 9.0파이 업데이트 2020년 2사분기 10.0 업데이트
+
+**<big>안드로이드 10</big>**
+
+LG V35 ThinQ는 2020년 6월 9일에 안드로이드 10으로 업데이트 되었다.
+
+자세히 알아보기: <https://www.lge.co.kr/lgekor/contents/mobile/swUpgradeDetail.do?swSeq=1323>
 
 ## 특수 기능
 
@@ -36,7 +42,7 @@ Q렌즈는 원하는 피사물을 촬영한 후, 그에 관한 정보검색, QR 
 ## 색상
 
   - [뉴 오로라 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink")
-  - 뉴 플래티넘 그레이
+  - [뉴](https://ko.wikipedia.org/wiki/뉴 "wikilink") [플래티넘](https://ko.wikipedia.org/wiki/플래티넘 "wikilink") [그레이](../Page/그레이.md "wikilink")
 
 ## 같이 보기
 

@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [MBC경남 창원방송](https://ko.wikipedia.org/wiki/MBC경남_창원방송).
 
 
-**MBC경남 창원방송**(MBC慶南 昌原放送)은 중부경남 지역을 가시청권으로 하는 대한민국의 지상파방송국이다. [1969년](../Page/1969년.md "wikilink")에 **경남방송**(약칭 KBC)으로 개국하였으며, [1971년](../Page/1971년.md "wikilink")에 **마산문화방송**으로 사명을 변경하였고, [2010년](../Page/2010년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 통합 [창원시](../Page/창원시.md "wikilink")의 출범과 함께 **창원문화방송**으로 사명을 변경하였다. [2011년](../Page/2011년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 서부경남 지역을 방송권역으로 하던 [구 진주문화방송과](https://ko.wikipedia.org/wiki/MBC경남_진주본부 "wikilink") 인수 합병하여 [MBC경남](../Page/MBC경남.md "wikilink")이 출범함에 따라 MBC경남 창원방송이 되었다. 호출부호는 **HLAP**이다.
+**[MBC경남](../Page/MBC경남.md "wikilink") 창원방송**(MBC慶南 昌原放送)은 중부경남 지역을 가시청권으로 하는 대한민국의 지상파방송국이다. [1969년](../Page/1969년.md "wikilink")에 **경남방송**(약칭 KBC)으로 개국하였으며, [1971년](../Page/1971년.md "wikilink")에 **마산문화방송**으로 사명을 변경하였고, [2010년](../Page/2010년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 통합 [창원시](../Page/창원시.md "wikilink")의 출범과 함께 **창원문화방송**으로 사명을 변경하였다. [2011년](../Page/2011년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 서부경남 지역을 방송권역으로 하던 [구 진주문화방송과](../Page/MBC경남_진주방송.md "wikilink") 인수 합병하여 [MBC경남](../Page/MBC경남.md "wikilink")이 출범함에 따라 MBC경남 창원방송이 되었다. 호출부호는 **HLAP**이다.
 
-개국 당시 사옥은 [마산합포구](../Page/마산합포구.md "wikilink") 서성동에 위치하고 있었으며, [1996년](../Page/1996년.md "wikilink") [9월 10일에](../Page/9월_10일.md "wikilink") [마산회원구](../Page/마산회원구.md "wikilink") 양덕동 신사옥으로 이전하였다. 인근에 [마산종합운동장](../Page/마산종합운동장.md "wikilink")과 3·15 아트센터 등이 있다.
+개국 당시 사옥은 [마산합포구](../Page/마산합포구.md "wikilink") 서성동에 위치하고 있었으며, [1996년](../Page/1996년.md "wikilink") [9월 10일에](../Page/9월_10일.md "wikilink") [마산회원구](../Page/마산회원구.md "wikilink") [양덕동](../Page/양덕동_\(창원시\).md "wikilink") 신사옥으로 이전하였다. 인근에 [마산야구센터](../Page/마산야구센터.md "wikilink")와 3·15 아트센터 등이 있다.
 
 ## 연혁
 
@@ -29,7 +29,7 @@
 
 ### 1990년대
 
-  - [1995년](../Page/1995년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") : [중국](../Page/중화인민공화국.md "wikilink") [산둥전시대](https://ko.wikipedia.org/wiki/산둥전시대 "wikilink")와 자매 결연
+  - [1995년](../Page/1995년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") : [중국](../Page/중화인민공화국.md "wikilink") [산둥전시대와](../Page/산둥_방송국.md "wikilink") 자매 결연
   - [1996년](../Page/1996년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") : 사옥 이전(마산시 서성동 -\> 양덕동)
   - [1996년](../Page/1996년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") : [마산합포구](../Page/마산합포구.md "wikilink") 서성동에서 [마산회원구](../Page/마산회원구.md "wikilink") 양덕동으로 신사옥 준공 기념식
   - [1999년](../Page/1999년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") : 표준FM 방송 개국(출력 3㎾, FM 98.9㎒)
@@ -47,6 +47,7 @@
   - [2011년](../Page/2011년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") : [진주문화방송과](https://ko.wikipedia.org/wiki/MBC경남_진주본부 "wikilink") 합병하여 [MBC경남](../Page/MBC경남.md "wikilink") 공식 출범(창원문화방송 → 창원방송, 진주문화방송 → 진주방송)
   - [2012년](../Page/2012년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") : 지상파 아날로그 TV 방송 종료
   - [2013년](../Page/2013년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") : 지상파 디지털TV방송 주파수 재배치 완료
+  - [2013년](../Page/2013년.md "wikilink") [12월 13일](../Page/12월_13일.md "wikilink") : 표준FM 내서 중계소 개국. (주파수 96.7㎒)
 
 ## TV방송 [MBC경남 창원 TV](https://ko.wikipedia.org/wiki/MBC경남_창원_TV "wikilink")
 
@@ -59,9 +60,9 @@
 <!-- end list -->
 
   - [MBC 뉴스투데이 경남](../Page/MBC_뉴스투데이.md "wikilink") 월\~금 오전 07:20 \~ 07:50 진행 : [백근곤](https://ko.wikipedia.org/wiki/백근곤 "wikilink"), [백율희](https://ko.wikipedia.org/wiki/백율희 "wikilink")
-  - [MBC 930뉴스 경남](../Page/930_MBC_뉴스.md "wikilink") 월\~금 오전 09:35 \~ 09:45 진행 : [이다슬](../Page/이다슬.md "wikilink")
-  - [MBC 5뉴스 경남](../Page/5_MBC_뉴스.md "wikilink") 월\~금 오후 17:15 \~ 17:25 진행 : [김혜민](https://ko.wikipedia.org/wiki/김혜민 "wikilink")
-  - [MBC 뉴스데스크 경남](../Page/MBC_뉴스데스크.md "wikilink")(창원) 월\~금 오후 20:25 \~ 20:45, 토\~일 오후 20:20 \~ 20:35 진행 : [이상훈](../Page/이상훈.md "wikilink") (평일), 진행 : 무작위 (주말)
+  - [MBC 930뉴스 경남](../Page/930_MBC_뉴스.md "wikilink") 월\~금 오전 09:30 \~ 09:40 진행 : [이다슬](../Page/이다슬.md "wikilink")
+  - [MBC 5뉴스 경남](../Page/5_MBC_뉴스.md "wikilink") 월\~금 오후 17:10 \~ 17:20 진행 : [김혜민](https://ko.wikipedia.org/wiki/김혜민 "wikilink")
+  - [MBC 뉴스데스크 경남](../Page/MBC_뉴스데스크.md "wikilink")(창원) 월\~금 오후 20:25 \~ 20:45, 토\~일 오후 20:20 \~ 20:35 진행 : [윤동현](../Page/윤동현.md "wikilink") (평일), 진행 : 무작위 (주말)
 
 <!-- end list -->
 
@@ -103,7 +104,7 @@
 | 마암 중계소  | CH 17 | 20W   | 경남 고성군 마암면 보전리 산266       |                       |
 | 상리 중계소  | CH 34 | 20W   | 경남 고성군 상리면 무선리 산134 무이산   |                       |
 | 함안 중계소  | CH 39 | 90W   | 경남 함안군 산인면 부봉리 산97-5      |                       |
-| 해인 중계소  | CH 43 | 2W    | 경남 합천군 가야면 치인리 산21-1      |                       |
+| 창녕 중계소  | CH 43 | 2W    | 경남 창녕군 성산면 냉천리            |                       |
 | 율곡 중계소  | CH 40 | 20W   | 경남 합천군 율곡면 제내리 산34-1      |                       |
 | 초계 중계소  | CH 45 | 20W   | 경남 합천군 초계면 아막리 산30        |                       |
 | 죽고리 소출력 | CH 45 | 0.05W | 경남 합천군 적중면 죽고리            | \[3\]                 |
@@ -140,18 +141,20 @@
 
 ### MBC경남 창원라디오
 
-| 프로그램명                                                                                                | 요일        | 시간                  | 진행자                                           |
-| ---------------------------------------------------------------------------------------------------- | --------- | ------------------- | --------------------------------------------- |
-| [좋은 아침 (창원),(진주)](https://mbcgn.kr/programme/good_morning)                                           | 월\~금, 토   | 30분 (월\~금), 55분 (토) | 백근곤(월\~금), 남선희(토)                             |
-| [당신의 11시 (창원),(진주)](https://mbcgn.kr/programme/7vVdWbKReAM7RWK)                                      | 월\~금      | 55분                 | 이다슬                                           |
-| [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink")                                                       | 월\~일      | 5분                  | 백율희                                           |
-| [즐거운 오후2시 (창원),(진주)](https://mbcgn.kr/programme/happy_2pm)                                           | 월\~금      | 115분                | 윤동현, 김여민                                      |
-| [MBC 15시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)                                           | 월\~일      | 5분                  | 김혜민                                           |
-| [MBC 17시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)                                           | 월\~일      | 5분                  | 김혜민                                           |
-| [MBC 뉴스네트워크](../Page/MBC_뉴스네트워크.md "wikilink")                                                       | 월\~금      | 10분                 | [부산문화방송 보도국](../Page/부산문화방송.md "wikilink") 앵커 |
-| [지리산의 메아리 (창원),(진주)](https://mbcgn.kr/programme/jirisan)                                             | 월\~금      | 5분                  | 오승철, 노명주                                      |
-| [오늘의 경남 (창원),(진주)](https://mbcgn.kr/programme/today_gn)                                              | 평일        | 45분                 | 김진철                                           |
-| [NC 다이노스](../Page/NC_다이노스.md "wikilink") [프로야구 중계](https://ko.wikipedia.org/wiki/프로야구_중계 "wikilink") | 시즌 평일 홈경기 | 225분                | 김진철, 한만정                                      |
+| 프로그램명                                                                   | 요일      | 시간                  | 진행자                                           |
+| ----------------------------------------------------------------------- | ------- | ------------------- | --------------------------------------------- |
+| [좋은 아침 (창원),(진주)](https://mbcgn.kr/programme/good_morning)              | 월\~금, 토 | 30분 (월\~금), 55분 (토) | 백근곤(월\~금), 남선희(토)                             |
+| 열려라 라디오 (창원),(진주)                                                       | 일요일     | 55분                 |                                               |
+| [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink")                          | 월\~금    | 5분                  | 백율희                                           |
+| [즐거운 오후2시 (창원),(진주)](https://mbcgn.kr/programme/happy_2pm)              | 월\~금    | 115분                | 윤동현, 김여민                                      |
+| [MBC 15시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)              | 월\~금    | 5분                  | 김혜민                                           |
+| [MBC 17시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)              | 월\~금    | 5분                  | 김혜민                                           |
+| [MBC 뉴스네트워크](../Page/MBC_뉴스네트워크.md "wikilink")                          | 월\~금    | 10분                 | [부산문화방송 보도국](../Page/부산문화방송.md "wikilink") 앵커 |
+| MBC 18시 뉴스                                                              | 토\~일    | 5분                  | 무작위                                           |
+| [지리산의 메아리 (창원),(진주)](https://mbcgn.kr/programme/jirisan)                | 월\~금    | 5분                  | 오승철, 노명주                                      |
+| [오늘의 경남 (창원),(진주)](https://mbcgn.kr/programme/today_gn)                 | 월\~금    | 45분                 | 김혜민                                           |
+| [당신의 저녁 (창원),(진주)](https://mbcgn.kr/programme/7vVdWbKReAM7RWK)          | 월\~금    | 50분                 | 이다슬                                           |
+| [MBC경남 창원 프로야구](https://ko.wikipedia.org/wiki/MBC경남_창원_프로야구 "wikilink") | 시즌 홈경기  | 225분                | 김진철, 백근곤, 윤동현, 염종석                            |
 
 ### MBC경남 창원 FM4U
 
@@ -194,8 +197,8 @@
 
 <!-- end list -->
 
-  - 이종승 보도국장
-  - 박민상 보도부장
+  - 박민상 보도국장
+  - 윤주화 보도부장
 
 <!-- end list -->
 
@@ -203,11 +206,10 @@
 
 <!-- end list -->
 
-  - 김태석 부장
-  - 윤주화 차장
   - 신은정 차장
   - 문철진 차장
-  - 정영민 기자
+  - 이상훈 차장
+  - 정영민 차장
   - 부정석 기자
   - 이재경 기자
   - 서창우 기자
@@ -218,10 +220,9 @@
 
 <!-- end list -->
 
-  - 박종웅 부장
-  - 김상헌 부장
+  - 박종웅 팀장
+  - 김상헌 국장
   - 장 영 차장
-  - 이상훈 차장
 
 ## 아나운서
 

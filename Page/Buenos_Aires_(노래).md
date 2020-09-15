@@ -5,7 +5,7 @@
 
 ## 발매 과정
 
-2019년 5월 3일, 두 번째 싱글 발매 결정이 발표됐으며\[1\] 개별 하이터치회, 개별 메시지 카드 전달회, 개별 사인회의 개최를 알렸다.\[2\] 이후 8일에는 통상반의 판매가 결정됐다. \[3\] 5월 20일부터 공식 SNS 계정을 통해서 3명씩 개인 자켓이 공개가 됐으며\[4\], 5월 24일에 수록곡과 자켓 비주얼이 공개됐다.\[5\] 5월 27일에는 뮤직 비디오의 첫 번째 티저가 공개됐으며\[6\] 6월 1일에 두 번째 티저가 공개됐다\[7\].
+2019년 5월 3일, 두 번째 싱글 발매 결정이 발표됐으며\[1\] 개별 하이터치회, 개별 메시지 카드 전달회, 개별 사인회의 개최를 알렸다.\[2\] 이후 8일에는 통상반의 판매가 결정됐다.\[3\] 5월 20일부터 공식 SNS 계정을 통해서 3명씩 개인 자켓이 공개가 됐으며\[4\], 5월 24일에 수록곡과 자켓 비주얼이 공개됐다.\[5\] 5월 27일에는 뮤직 비디오의 첫 번째 티저가 공개됐으며\[6\] 6월 1일에 두 번째 티저가 공개됐다\[7\].
 
 ## 수록 내용
 
@@ -102,7 +102,7 @@
           - [강혜원 버전](https://www.universal-music.co.jp/izone/products/pron-5051/)
           - [최예나 버전](https://www.universal-music.co.jp/izone/products/pron-5047/)
 
-[분류:아이즈원의 노래](https://ko.wikipedia.org/wiki/분류:아이즈원의_노래 "wikilink") [분류:2019년 싱글](https://ko.wikipedia.org/wiki/분류:2019년_싱글 "wikilink") [분류:2019년 노래](https://ko.wikipedia.org/wiki/분류:2019년_노래 "wikilink") [분류:일본어 노래](https://ko.wikipedia.org/wiki/분류:일본어_노래 "wikilink") [분류:부에노스아이레스를 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:부에노스아이레스를_배경으로_한_작품 "wikilink")
+[분류:아이즈원의 노래](https://ko.wikipedia.org/wiki/분류:아이즈원의_노래 "wikilink") [분류:2019년 싱글](https://ko.wikipedia.org/wiki/분류:2019년_싱글 "wikilink") [분류:2019년 노래](https://ko.wikipedia.org/wiki/분류:2019년_노래 "wikilink") [분류:일본어 노래](https://ko.wikipedia.org/wiki/분류:일본어_노래 "wikilink") [분류:부에노스아이레스를 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:부에노스아이레스를_배경으로_한_작품 "wikilink") [분류:2019년 오리콘 싱글 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:2019년_오리콘_싱글_차트_1위_작품 "wikilink")
 
 1.
 2.

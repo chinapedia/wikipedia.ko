@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Jvcki Wai](https://ko.wikipedia.org/wiki/Jvcki_Wai).
 
 
-**Jvcki Wai**(, , [1996년](../Page/1996년.md "wikilink") [7월 5일](../Page/7월_5일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink")이다.
+**Jvcki Wai**(**재키와이**, , [1996년](../Page/1996년.md "wikilink") [7월 5일](../Page/7월_5일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink")이다.
 
 ## 바이오그래피
 
-래퍼 화나(Fana)의 독립 기획 The Ugly Junction이 주최한 여성 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink") 컴피티션 GALMIGHTY에서 18살의 나이로 최종 우승을 거두면서 언더그라운드 힙합 씬에서의 활동을 시작했다.
+래퍼 [화나](../Page/화나.md "wikilink")(Fana)의 독립 기획 The Ugly Junction이 주최한 여성 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink") 컴피티션 GALMIGHTY에서 18살의 나이로 최종 우승을 거두면서 언더그라운드 힙합 씬에서의 활동을 시작했다.
 
 2016년 11월 21일, 《EXPOSURE》\[1\]를 발매하고, 타이틀 곡인 Exposure의 뮤직비디오를 공개했다.\[2\] 이후 사운드 클라우드\[3\]를 통해 《EXPOSURE》 EP의 데모 버전이 수록된 믹스테입 《Food Bye world》\[4\]를 공개하고, 싱글들을 내면서 활동했다.\[5\]
 
@@ -13,13 +13,13 @@
 
 2018년 [인디고뮤직](https://ko.wikipedia.org/wiki/인디고뮤직 "wikilink")과 계약했으며 2018년 7월 26일 첫 번째 정규 《Enchanted Propaganda》를 발매하고, 타이틀 곡 《Enchanted Propaganda》의 뮤직비디오를 공개했다.
 
-2019년 10월 25일, 인디고뮤직과의 계약 종료로 인디고뮤직을 나왔다.
+2019년 10월 25일, [인디고뮤직](https://ko.wikipedia.org/wiki/인디고뮤직 "wikilink")과의 계약 종료로 인디고뮤직을 떠났다.
 
 ## 디스코그래피
 
 #### 정규 앨범 (LP)
 
-  - Enchanted Propaganda (2018)
+  - [Enchanted Propaganda](https://ko.wikipedia.org/wiki/Enchanted_Propaganda "wikilink") (2018)
 
 #### 미니 앨범 (EP)
 
@@ -39,40 +39,52 @@
 
 ## 참여곡
 
-| 년도          | 아티스트                          | 음반                              | 타이틀                                             |
-| ----------- | ----------------------------- | ------------------------------- | ----------------------------------------------- |
-| 2016.06.14  | 퓨처리스틱 스웨버 (Futuristic Swaver) | Futuristic Swaver Vs. The World | Freak Show muny                                 |
-| 2017.02.10  | 에코 야드 (Eco Yard)              | Paranoize                       | Paranoize                                       |
-| 2017.12.12  | SINQMIN                       | Enter The World                 | Enter The World                                 |
-| 2017.12.14  | 에코 야드 (Eco Yard)              | Sir Eco Shines                  | Yung                                            |
-| 2018.01.20  | 인디고뮤직 (Indigo Music)          | Hyperreal                       | Hyperreal                                       |
-| 2018.02.05  | HD Beatz                      | Pure Cure                       | Pure Cure                                       |
-| 2018.03.10  | 키드밀리 (Kid Milli)              | AI, THE PLAYLIST                | IZAKAYA                                         |
-| 2018.03.16  | 인디고뮤직 (Indigo Music)          | Buru Star                       | Buru Star                                       |
-| 2018.05.09  | 키드밀리 (Kid Milli)              | IMNOTSPECIAL                    | bird                                            |
-| 2018.06.11  | PARKGOLF×jvcki wai            | xaradise                        | xaradise                                        |
-| 2018.06.15  | 수퍼비 (SUPERBEE) & 트웰브 (twlv)   | 벼락부자애들                          | 야 인마                                            |
-| 2018.06.24. | 인디고뮤직 (Indigo Music)          | IM                              | Work Out                                        |
-| 180409      |                               |                                 |                                                 |
-| 2018.07.09  | 퓨처리스틱 스웨버 (Futuristic Swaver) | Futuristic Language             | Okay Cool                                       |
-| 2018.07.19  | 릴 체리 (Lil Cherry)             | SAUCE TALK                      | \#ALL4MYSELF                                    |
-| 2018.07.30  | Uneducated Kid                | UNEDUCATED WORLD                | Amazing                                         |
-| 2018.09.26  | 브린 (Bryn)                     | Q                               | Stop Talking\!                                  |
-| 2018.10.17  | Jeremy Quest                  | Before the Quest                | 막걸리                                             |
-| 2018.10.18  | 기린                            | DJ Light, DJ Wegun              | DJ Light, DJ Wegun (Girls Around The World Mix) |
-| 2018.11.09. | 박재범                           | Finish Line                     | Finish Line                                     |
-| 2018.11.17  | 키드밀리 (Kid Milli)              | Maiden Voyage III               | Beluga                                          |
-| KOCEAN      |                               |                                 |                                                 |
-| 2018.12.12  | 제네 더 질라 (ZENE THE ZILLA)      | 전화하지마 비행 중이야                    | Liqour                                          |
-| 2019.02.21  | IMJMWDP                       | IMJMWDP                         | IMJMWDP                                         |
-| 2019.09.03  | Simon Dominic                 | 화기엄금                            | GOTT                                            |
-| 2019.10     | 지코(zico)                      | THINKING Part.1                 | 천둥벌거숭이(feat.yumdda,jvcki wai)                   |
-| 2020.03     | 쿠기 (Coogie)                   | North Face                      | North Face                                      |
+| 년도          | 아티스트                                                        | 음반                              | 타이틀                                             |
+| ----------- | ----------------------------------------------------------- | ------------------------------- | ----------------------------------------------- |
+| 2016.06.14  | 퓨처리스틱 스웨버 (Futuristic Swaver)                               | Futuristic Swaver Vs. The World | Freak Show muny                                 |
+| 2017.02.10  | 에코 야드 (Eco Yard)                                            | Paranoize                       | Paranoize                                       |
+| 2017.12.12  | SINQMIN                                                     | Enter The World                 | Enter The World                                 |
+| 2017.12.14  | 에코 야드 (Eco Yard)                                            | Sir Eco Shines                  | Yung                                            |
+| 2018.01.20  | 인디고뮤직 (Indigo Music)                                        | Hyperreal                       | Hyperreal                                       |
+| 2018.02.05  | HD Beatz                                                    | Pure Cure                       | Pure Cure                                       |
+| 2018.03.10  | 키드밀리 (Kid Milli)                                            | AI, THE PLAYLIST                | IZAKAYA                                         |
+| 2018.03.16  | 인디고뮤직 (Indigo Music)                                        | Buru Star                       | Buru Star                                       |
+| 2018.05.09  | 키드밀리 (Kid Milli)                                            | IMNOTSPECIAL                    | bird                                            |
+| 2018.06.11  | PARKGOLF×jvcki wai                                          | xaradise                        | xaradise                                        |
+| 2018.06.15  | 수퍼비 (SUPERBEE) & 트웰브 (twlv)                                 | 벼락부자애들                          | 야 인마                                            |
+| 2018.06.24. | 인디고뮤직 (Indigo Music)                                        | IM                              | Work Out                                        |
+| 180409      |                                                             |                                 |                                                 |
+| 2018.07.09  | 퓨처리스틱 스웨버 (Futuristic Swaver)                               | Futuristic Language             | Okay Cool                                       |
+| 2018.07.19  | 릴 체리 (Lil Cherry)                                           | SAUCE TALK                      | \#ALL4MYSELF                                    |
+| 2018.07.30  | Uneducated Kid                                              | UNEDUCATED WORLD                | Amazing                                         |
+| 2018.09.26  | 브린 (Bryn)                                                   | Q                               | Stop Talking\!                                  |
+| 2018.10.17  | Jeremy Quest                                                | Before the Quest                | 막걸리                                             |
+| 2018.10.18  | 기린                                                          | DJ Light, DJ Wegun              | DJ Light, DJ Wegun (Girls Around The World Mix) |
+| 2018.11.09. | 박재범                                                         | Finish Line                     | Finish Line                                     |
+| 2018.11.17  | 키드밀리 (Kid Milli)                                            | Maiden Voyage III               | Beluga                                          |
+| KOCEAN      |                                                             |                                 |                                                 |
+| 2018.12.12  | 제네 더 질라 (ZENE THE ZILLA)                                    | 전화하지마 비행 중이야                    | Liqour                                          |
+| 2019.02.21  | IMJMWDP                                                     | IMJMWDP                         | IMJMWDP                                         |
+| 2019.01.13  | Jvcki Wai & 양홍원 & Osshun Gum & 한요한                          | Dingo X Indigo Music            | 띵                                               |
+| 2019.05.21  | So\!YoON\!(황소윤)                                             | So\!YoON\!                      | FNTSY                                           |
+| 2019.06.21  | 릴러말즈(Leellamarz)                                            | MARZ 2 AMBITION                 | WINNIN                                          |
+| 2019.09.03  | Simon Dominic                                               | 화기엄금                            | GOTT                                            |
+| 2019.09.19  | 진보(Jinbo)                                                   | 힙합왕-나스나길 OST                    | Don’t Know                                      |
+| 2019.09.30  | 지코(zico)                                                    | THINKING Part.1                 | 천둥벌거숭이                                          |
+| 2019.10.13  | 기리보이                                                        | 호랑이소굴                           | 호랑이소굴                                           |
+| 2020.03.01  | 쿠기 (Coogie)                                                 | North Face                      | North Face                                      |
+| 2020.04.02  | 코드쿤스트                                                       | PEOPLE                          | Set Me Free (Feat. Loopy, Jvcki Wai)            |
+| 2020.05.29  | Jvcki Wai & 쿠기(Coogie) & 팔로알토 (Paloalto) & The Quiett & 뱃사공 | Fadeaway                        | Fadeway                                         |
+| 2020.06.15  | 비와이(BewhY), Son Simba(손 심바)                                 | NEO CHRISTIAN                   | 어디로                                             |
 
 ## 수상
 
   - 2013년 어글리정션 GALmighty 컴피티션 우승
-  - 2015년 힙합엘이 믹스테입 어워즈 : BEST MIXTAPE COLLABORATION SONG OF THE YEAR
+  - 2015년 힙합LE 믹스테입 어워즈 : BEST MIXTAPE COLLABORATION SONG OF THE YEAR
+
+## 여담
+
+재키와이의 [인스타그램](../Page/인스타그램.md "wikilink")에 한 누리꾼이 재키와이의 어릴적 사진과 함께 "힙합은 유치한데 뭐하러 하냐?" 라고 누리꾼이 댓글을 달자 재키와이가 "그럼 힙합 레이블엔 왜 들어왔겠냐? 자기 이름으로 낸 음반 한장도 없는 주제에 [힙합](../Page/힙합.md "wikilink")도 너 싫대"라고 답변을 해주어 큰 화제가 되었다.
 
 ## 각주
 

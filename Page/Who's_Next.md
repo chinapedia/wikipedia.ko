@@ -15,7 +15,7 @@
 
 ## 곡 목록
 
-[존 엔트위슬의](../Page/존_엔트위슬.md "wikilink") 〈[My Wife](https://ko.wikipedia.org/wiki/My_Wife "wikilink")〉를 제외한 모든 곡들은 [피트 타운젠드가](../Page/피트_타운젠드.md "wikilink") 작사/작곡하였다.
+[존 엔트위슬의](../Page/존_엔트위슬.md "wikilink") 〈[My Wife](https://ko.wikipedia.org/wiki/My_Wife "wikilink")〉를 제외한 모든 곡들은 [피트 타운젠드에](../Page/피트_타운젠드.md "wikilink") 의해 작사/작곡하였다.
 
 ## 각주
 

@@ -57,7 +57,7 @@
   - [시대음감](https://ko.wikipedia.org/wiki/시대음감 "wikilink") (주말) ([KBS포항 제1라디오](../Page/KBS포항방송국.md "wikilink"))
   - [주말 생방송 정보쇼](../Page/주말_생방송_정보쇼.md "wikilink") (주말, 1부) ([KBS포항 제1라디오](../Page/KBS포항방송국.md "wikilink"))
   - [오늘 같은 오후엔 이세준입니다](../Page/오늘_같은_오후엔.md "wikilink") ([KBS대구 해피FM](../Page/KBS대구방송총국.md "wikilink"))
-  - [오후의 향기 김윤주입니다](../Page/오후의_향기_김윤주입니다.md "wikilink") ([포항CBS 표준FM](../Page/기독교포항방송.md "wikilink"))
+  - [이봉규의 어떤가요](https://ko.wikipedia.org/wiki/어떤가요_\(라디오_프로그램\) "wikilink") ([포항CBS 표준FM](../Page/기독교포항방송.md "wikilink"))
 
 ### FM방송
 

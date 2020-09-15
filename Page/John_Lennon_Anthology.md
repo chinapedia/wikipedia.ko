@@ -111,7 +111,7 @@
 3.  "Serve Yourself" – 3:47 \[1980 home recording\]
 4.  "[My Life](https://ko.wikipedia.org/wiki/\(Just_Like\)_Starting_Over "wikilink")" – 2:36 \[1980 home recording\]
 5.  "[Nobody Told Me](https://ko.wikipedia.org/wiki/Nobody_Told_Me "wikilink")" – 3:31
-6.  "[Life Begins at 40](https://ko.wikipedia.org/wiki/Life_Begins_at_40 "wikilink")" – 2:23 \[1980 home recording\]
+6.  "[Life Begins at 40](../Page/Life_Begins_at_40.md "wikilink")" – 2:23 \[1980 home recording\]
 7.  "I Don't Wanna Face It" – 3:31
 8.  "[Woman](../Page/Woman_\(존_레논의_노래\).md "wikilink")" – 4:01
 9.  "Dear Yoko" – 2:33

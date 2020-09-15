@@ -5,4 +5,4 @@
 
 ## 대진표
 
-[01](https://ko.wikipedia.org/wiki/분류:SGM배_월드바둑챔피언십 "wikilink") [분류:2018년 바둑](https://ko.wikipedia.org/wiki/분류:2018년_바둑 "wikilink")
+[분류:바둑 국제 기전](https://ko.wikipedia.org/wiki/분류:바둑_국제_기전 "wikilink") [분류:2018년 바둑](https://ko.wikipedia.org/wiki/분류:2018년_바둑 "wikilink")

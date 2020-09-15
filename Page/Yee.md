@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Yee](https://ko.wikipedia.org/wiki/Yee).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Yee_Oro.PNG "wikilink") **Yee**는 [유튜버](../Page/유튜버.md "wikilink") revergo가 [2012년](../Page/2012년.md "wikilink") [2월 29일에](../Page/2월_29일.md "wikilink") 유튜브로 [업로드](https://ko.wikipedia.org/wiki/업로드 "wikilink")한 [매드무비](https://ko.wikipedia.org/wiki/매드무비 "wikilink")이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Yee_Oro.PNG "wikilink") **Yee**()는 [유튜버](../Page/유튜버.md "wikilink") revergo가 [2012년](../Page/2012년.md "wikilink") [2월 29일에](../Page/2월_29일.md "wikilink") [유튜브](../Page/유튜브.md "wikilink")로 [업로드](https://ko.wikipedia.org/wiki/업로드 "wikilink")한 [매드무비](https://ko.wikipedia.org/wiki/매드무비 "wikilink")이다. Yee라는 소리가 어떻게 만들어졌나면, [이탈리아](../Page/이탈리아.md "wikilink") 버전인 이 장면에서 오로가 피크(Peek)를 부를때 Peek의 P와 k가 ee만 들리게 되어 'Yee'라는 단어가 만들어졌다.
 
 ## 유래
 

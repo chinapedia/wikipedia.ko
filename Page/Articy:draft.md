@@ -7,7 +7,7 @@
 
 [분류:비디오 게임 개발 소프트웨어](https://ko.wikipedia.org/wiki/분류:비디오_게임_개발_소프트웨어 "wikilink")
 
-1.   Overview|website=www.nevigo.com|language=en-US|access-date=2017-02-25}}
+1.   Overview|website=www.nevigo.com|language=en-US|access-date=2017-02-25|보존url=[https://web.archive.org/web/20170318144050/http://www.nevigo.com/en/articydraft/overview/|보존날짜=2017-03-18|url-status=dead](https://web.archive.org/web/20170318144050/http://www.nevigo.com/en/articydraft/overview/%7C보존날짜=2017-03-18%7Curl-status=dead)}}
 2.
 3.   \#Showcase "The Detail" by Rival Games|website=www.nevigo.com|language=en-US|access-date=2017-02-25|보존url=[https://web.archive.org/web/20161229040923/http://www.nevigo.com/en/showcase-the-detail/|보존날짜=2016-12-29|url-status=dead](https://web.archive.org/web/20161229040923/http://www.nevigo.com/en/showcase-the-detail/%7C보존날짜=2016-12-29%7Curl-status=dead)}}
 4.   \#MadeWithArticy Orwell – A game tackling a contemporary issue|website=www.nevigo.com|language=en-US|access-date=2017-02-25|보존url=[https://web.archive.org/web/20161229071155/http://www.nevigo.com/en/madewitharticy-orwell/|보존날짜=2016-12-29|url-status=dead](https://web.archive.org/web/20161229071155/http://www.nevigo.com/en/madewitharticy-orwell/%7C보존날짜=2016-12-29%7Curl-status=dead)}}

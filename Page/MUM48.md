@@ -9,7 +9,7 @@
 
 [2017년](../Page/2017년.md "wikilink") [12월 27일](../Page/12월_27일.md "wikilink"), AKB48 그룹 2대 총감독 [요코야마 유이가](../Page/요코야마_유이.md "wikilink") 새 자매 그룹 **MUM48**(엠유엠포티에이트)를 발족하는 것을 발표하였다.
 
-그러나, [2018년](../Page/2018년.md "wikilink") [7월](../Page/7월.md "wikilink") 이후 SNS의 갱신이 끊기고 그 후 공식 사이트 폐쇄됐다. [2019년](../Page/2019년.md "wikilink") [6월 19일에](../Page/6월_19일.md "wikilink") [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")과 [MUB48](../Page/MUB48.md "wikilink")을 결성하는 프로젝트가 [뉴델리](../Page/뉴델리.md "wikilink")에서 기자회견에서 발표됐을때, [AKS와](../Page/AKS_\(기업\).md "wikilink") MUM48 회사 「RASHIMI RAJ MEDIA PRIVATE LIMITED」와 라이센스 계약이 [2018년](../Page/2018년.md "wikilink") [11월](../Page/11월.md "wikilink")에 해지되고, MUM48을 결성하는 프로젝트가 종료한 것으로 공표됐다.
+그러나, [2018년](../Page/2018년.md "wikilink") [7월](../Page/7월.md "wikilink") 이후 SNS의 갱신이 끊기고 그 후 공식 사이트 폐쇄됐다. [2019년](../Page/2019년.md "wikilink") [6월 19일에](../Page/6월_19일.md "wikilink") [DEL48](../Page/DEL48.md "wikilink")과 [MUB48](../Page/MUB48.md "wikilink")을 결성하는 프로젝트가 [뉴델리](../Page/뉴델리.md "wikilink")에서 기자회견에서 발표됐을때, [AKS와](../Page/AKS_\(기업\).md "wikilink") MUM48 회사 「RASHIMI RAJ MEDIA PRIVATE LIMITED」와 라이센스 계약이 [2018년](../Page/2018년.md "wikilink") [11월](../Page/11월.md "wikilink")에 해지되고, MUM48을 결성하는 프로젝트가 종료한 것으로 공표됐다.
 
 ## 관련 항목
 
@@ -37,7 +37,7 @@
   - [AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")
   - [SGO48](../Page/SGO48.md "wikilink")
   - [CGM48](../Page/CGM48.md "wikilink")
-  - [DEL48](https://ko.wikipedia.org/wiki/DEL48 "wikilink")
+  - [DEL48](../Page/DEL48.md "wikilink")
   - [MUB48](../Page/MUB48.md "wikilink")
 
 ## 각주

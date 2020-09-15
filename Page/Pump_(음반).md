@@ -13,6 +13,10 @@
 
 1994년에 녹음된 《[The Making of Pump](https://ko.wikipedia.org/wiki/The_Making_of_Pump "wikilink")》에 관한 비디오 다큐멘터리가 출시되었다.
 
+## 소송
+
+에어로스미스는 펌프라는 이름의 작은 록 밴드가 에어로스미스의 매니지먼트사를 서비스 마크 침해로 고소하자 로스쿨 교과서에 실렸다.\[4\] 에어로스미스가 승소했다.\[5\] 에어로스미스 역시 작사, 작곡 팀 [홀랜드-도지어-홀랜드](https://ko.wikipedia.org/wiki/홀랜드-도지어-홀랜드 "wikilink")가 〈[Standing in the Shadows of Love](https://ko.wikipedia.org/wiki/Standing_in_the_Shadows_of_Love "wikilink")〉의 멜로디와 비슷하게 들린 에어로스미스의 노래 〈The Other Side〉에서 메인 멜로디를 놓고 밴드를 고소하겠다고 협박하면서 법적 곤경에 처했다. 이 합의의 일환으로, 에어로스미스는 "홀랜드-도지어-홀랜드"를 〈The Other Side〉의 작사, 작곡 크레딧에 추가하기로 합의했다.
+
 ## 곡 목록
 
 ## 각주
@@ -20,8 +24,11 @@
 ## 외부 링크
 
   -
+  -
 [분류:1989년 음반](https://ko.wikipedia.org/wiki/분류:1989년_음반 "wikilink") [분류:에어로스미스의 음반](https://ko.wikipedia.org/wiki/분류:에어로스미스의_음반 "wikilink") [분류:게펀 레코드 음반](https://ko.wikipedia.org/wiki/분류:게펀_레코드_음반 "wikilink") [분류:브루스 페어번이 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:브루스_페어번이_프로듀싱한_음반 "wikilink")
 
 1.  [Rolling Stone review](https://www.rollingstone.com/music/albumreviews/pump-19891019)
 2.
 3.  [Billboard.com - Year End Charts - Year-end Albums - The Billboard 200](http://www.billboard.com/charts/year-end/1990/the-billboard-200)
+4.
+5.  *[Pump, Inc. v. Collins Management](http://frosszelnick.com/sites/default/files/cases_pdf/20060925101717_42_SELECTED_PDF.pdf) *, 746 F. Supp. 1159 (D. Mass. 1990)

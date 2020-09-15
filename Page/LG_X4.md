@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG X4](https://ko.wikipedia.org/wiki/LG_X4).
 
 
-**LG X4**는 [LG전자](../Page/LG전자.md "wikilink")가 [2018년 2월](https://ko.wikipedia.org/wiki/2018년_2월 "wikilink") 공개하여 [2018년](../Page/2018년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") 출시\[1\]한 보급형 스마트폰이다. **LG X4+**는 [대한민국](../Page/대한민국.md "wikilink")에 [2018년](../Page/2018년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink") 출시\[2\]된 보급형 스마트폰이다. LG X4는 [2018년 2월](https://ko.wikipedia.org/wiki/2018년_2월 "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")에서 열린 MWC 2018에 **LG K10α (2018)**로 LG\]로 다운그레이드 되었다.
+**LG X4**는 [LG전자](../Page/LG전자.md "wikilink")가 [2018년 2월](https://ko.wikipedia.org/wiki/2018년_2월 "wikilink") 공개하여 [2018년](../Page/2018년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") 출시\[1\]한 보급형 스마트폰이다. **LG X4+**는 [대한민국](../Page/대한민국.md "wikilink")에 [2018년](../Page/2018년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink") 출시\[2\]된 보급형 스마트폰이다. LG X4는 [2018년 2월](https://ko.wikipedia.org/wiki/2018년_2월 "wikilink") [바르셀로나](https://ko.wikipedia.org/wiki/바르셀로나 "wikilink")에서 열린 MWC 2018에 **LG K10α (2018)**로 LG로 다운그레이드 되었다.
 
 ## 운영 체제 / 소프트웨어
 

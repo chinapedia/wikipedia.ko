@@ -26,7 +26,7 @@
 | 《[Re : 팔로워](https://ko.wikipedia.org/wiki/Re_:_팔로워 "wikilink")》                 | 10월 6일 - 12월 15일 | [니시메 슌](../Page/니시메_슌.md "wikilink")                          | 오리지널 | 10부작 |
 | 2020년                                                                           |                  |                                                               |      |      |
 | 《[이 남자는 인생 최대 실수](https://ko.wikipedia.org/wiki/이_남자는_인생_최대_실수 "wikilink")》     | 1월 19일 - 3월 22일  | [마츠이 아이리](../Page/마츠이_아이리.md "wikilink")                      | \-   | 10부작 |
-| 《[연하 남친](https://ko.wikipedia.org/wiki/연하_남친 "wikilink")》                       | 4월 12일 - 6월      | 칸쟈니 주니어                                                       | 오리지널 | 미정   |
+| 《[연하 남친](https://ko.wikipedia.org/wiki/연하_남친 "wikilink")》                       | 4월 12일 - 6월 중순   | 칸쟈니 주니어                                                       | 오리지널 | 20부작 |
 |                                                                                 |                  |                                                               |      |      |
 
 ## 외부 링크

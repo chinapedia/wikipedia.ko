@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG Q7](https://ko.wikipedia.org/wiki/LG_Q7).
 
 
-**LG Q7**은 [LG전자](../Page/LG전자.md "wikilink")가 [2018년 5월](https://ko.wikipedia.org/wiki/2018년_5월 "wikilink") 공개한 중급형 [스마트폰](../Page/스마트폰.md "wikilink")이다. [Q6의](https://ko.wikipedia.org/wiki/LG_Q6 "wikilink") 후속작으로 18:9 비율의 디스플레이는 계승하면서 성능이 소폭 향상되었다. [대한민국](../Page/대한민국.md "wikilink")에는 [2018년](../Page/2018년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") Q7과 Q7+ 모델이 출시\[1\]되었는데 Q7은 오로라 블랙과 라벤더 바이올렛 두 가지 색상으로, Q7+는 모로칸 블루 단일 색상으로 출시되었다. 광고는 [이달의 소녀의](../Page/이달의_소녀.md "wikilink") 멤버 전희진이 맡았다.
+**LG Q7**은 [LG전자](../Page/LG전자.md "wikilink")가 [2018년 5월에](https://ko.wikipedia.org/wiki/2018년_5월 "wikilink") 공개한 중급형 [스마트폰](../Page/스마트폰.md "wikilink")이다. [Q6의](https://ko.wikipedia.org/wiki/LG_Q6 "wikilink") 후속작으로 18:9 비율의 디스플레이는 계승하면서 성능이 소폭 향상되었다. [대한민국](../Page/대한민국.md "wikilink")에는 [2018년](../Page/2018년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") Q7과 Q7+ 모델이 출시\[1\]되었는데 Q7은 오로라 블랙과 라벤더 바이올렛 두 가지 색상으로, Q7+는 모로칸 블루 단일 색상으로 출시되었다. 광고는 [이달의 소녀의](../Page/이달의_소녀.md "wikilink") 멤버 전희진이 맡았다.
 
 ## 운영 체제 / 소프트웨어
 

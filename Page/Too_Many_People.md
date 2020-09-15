@@ -5,7 +5,7 @@
 
 ## 녹음
 
-매카트니는 다리의 일부 동안 [가성](https://ko.wikipedia.org/wiki/가성 "wikilink")으로 노래했다. 두 번째 다리와 세 번째 연단의 기타 독주는 [휴 맥크라켄이](https://ko.wikipedia.org/wiki/휴_맥크라켄 "wikilink") 연주한다. 마지막 다리의 뒤를 이은 두 번째 솔로는 바닥 탐 옆면에 드럼 스틱이 있다.
+매카트니는 브릿지의 일부 동안 [가성](https://ko.wikipedia.org/wiki/가성 "wikilink")으로 노래했다. 두 번째 브릿지와 세 번째 연단의 기타 독주는 [휴 맥크라켄이](https://ko.wikipedia.org/wiki/휴_맥크라켄 "wikilink") 연주한다. 마지막 브릿지의 뒤를 이은 두 번째 솔로는 바닥 탐 옆면에 드럼 스틱이 있다.
 
 ## 참여 인원
 

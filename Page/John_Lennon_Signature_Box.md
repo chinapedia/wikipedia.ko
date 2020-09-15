@@ -40,7 +40,7 @@
 5.  "[Nobody Told Me](https://ko.wikipedia.org/wiki/Nobody_Told_Me "wikilink")" – 3:13
 6.  "[Honey Don't](https://ko.wikipedia.org/wiki/Honey_Don't "wikilink")" – 1:40
 7.  "[One of the Boys](https://ko.wikipedia.org/wiki/One_of_the_Boys_\(존_레논의_노래\) "wikilink")" – 2:39
-8.  "[India, India](https://ko.wikipedia.org/wiki/India,_India "wikilink")" – 3:07
+8.  "[India, India](../Page/India,_India.md "wikilink")" – 3:07
 9.  "[Serve Yourself](https://ko.wikipedia.org/wiki/Serve_Yourself "wikilink")" – 5:21
 10. "[Isolation](../Page/Isolation_\(존_레논의_노래\).md "wikilink")" – 3:07
 11. "[Remember](https://ko.wikipedia.org/wiki/Remember_\(존_레논의_노래\) "wikilink")" – 5:29

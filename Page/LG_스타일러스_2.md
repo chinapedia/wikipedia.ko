@@ -3,7 +3,7 @@
 
 ''' LG 스타일러스 2 '''는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") 출시한 태릿 보급형 스마트폰이다.\[1\] [2015년](../Page/2015년.md "wikilink") 출시한 [G 스타일로와](../Page/LG_G_스타일로.md "wikilink") 거의 비슷한 기종이지만 램이 1.5[GB에서](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 2[GB로](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") 늘어나고 카메라 성능이 향상되었다.
 
-## 운영체제 / 소프트웨어
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 6.0.1 마시멜로
 

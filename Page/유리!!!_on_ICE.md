@@ -39,7 +39,7 @@
 
   - [TV 아사히의 공식 홈페이지](http://www.tv-asahi.co.jp/douga/yurionice)
 
-[분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:2016년 애니메이션](https://ko.wikipedia.org/wiki/분류:2016년_애니메이션 "wikilink") [분류:TV 아사히 계열 심야 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_아사히_계열_심야_애니메이션 "wikilink") [분류:에이벡스 그룹의 애니메이션](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹의_애니메이션 "wikilink") [분류:스포츠 애니메이션](https://ko.wikipedia.org/wiki/분류:스포츠_애니메이션 "wikilink") [분류:피겨스케이팅을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:피겨스케이팅을_소재로_한_작품 "wikilink") [분류:사가현을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:사가현을_배경으로_한_작품 "wikilink") [분류:애니맥스](https://ko.wikipedia.org/wiki/분류:애니맥스 "wikilink")
+[분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:2016년 애니메이션](https://ko.wikipedia.org/wiki/분류:2016년_애니메이션 "wikilink") [분류:TV 아사히 계열 심야 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_아사히_계열_심야_애니메이션 "wikilink") [분류:에이벡스 그룹의 애니메이션](https://ko.wikipedia.org/wiki/분류:에이벡스_그룹의_애니메이션 "wikilink") [분류:스포츠 애니메이션](https://ko.wikipedia.org/wiki/분류:스포츠_애니메이션 "wikilink") [분류:피겨스케이팅을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:피겨스케이팅을_소재로_한_작품 "wikilink") [분류:사가현을 배경으로 한 작품](https://ko.wikipedia.org/wiki/분류:사가현을_배경으로_한_작품 "wikilink") [분류:애니맥스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:애니맥스의_텔레비전_프로그램 "wikilink")
 
 1.
 2.

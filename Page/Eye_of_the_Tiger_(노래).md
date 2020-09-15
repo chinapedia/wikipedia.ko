@@ -9,8 +9,6 @@
 
 1982년, 이 노래 작품의 첫 녹음과 발표는 하드 록 음악 밴드 [서바이버의](https://ko.wikipedia.org/wiki/서바이버_\(밴드\) "wikilink") 초기 보컬리스트였던 [데이브 비클러가](../Page/데이브_비클러.md "wikilink") 하였는데 이후 1984년 [비클러가](../Page/데이브_비클러.md "wikilink") 하드 록 밴드 서바이버에서 물러나자 [비클러와](../Page/데이브_비클러.md "wikilink") 목소리가 흡사하기로도 유명하였던 [지미 제이미슨이](../Page/지미_제이미슨.md "wikilink") 서바이버에 차기 보컬리스트 영입되었는데 [비클러가](../Page/데이브_비클러.md "wikilink") 1982년 원곡으로 부른 《Eye of the Tiger》라는 노래 작품을 1984년 이후 하드 록 밴드 서바이버의 차기 보컬리스트 [제이미슨이](../Page/지미_제이미슨.md "wikilink") 부르면서도 제이미슨은 비클러와 목소리가 한치의 오차가 느껴지지 않을 정도의 유사성 있는 컬러의 보이스로 화제를 모았다.
 
-국내에서는 대한민국 [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink") [팝 음악](../Page/팝_음악.md "wikilink") [그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [코리아나](../Page/코리아나.md "wikilink")(Koreana)도 이 노래 작품을 자신들의 글로벌 콘서트 자리에서 즐기어 불렀고 대한민국 가수 겸 작사가 [인순이](../Page/인순이.md "wikilink")와 대한민국 가수 겸 작사가 [김완제](../Page/김완제.md "wikilink")와 대한민국 가수 겸 뮤지컬배우 [김무영의](../Page/김무영_\(1987년\).md "wikilink") 각각 공통 성향 애창곡 중 하나로도 알려져 있다.
-
 ## 외부 링크
 
   - [YouTube - Survivor의 《Eye of the Tiger》 - 1982년 - Dave Bickler](https://www.youtube.com/watch?v=btPJPFnesV4)

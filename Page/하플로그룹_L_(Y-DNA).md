@@ -5,7 +5,7 @@
 
 많은 학자들은 L이 서아시아에서 발생하였을 것으로 추정하며 [인더스 지역을](https://ko.wikipedia.org/wiki/인더스_강 "wikilink") 따라서 확장된 것을 [신석기 시대의](../Page/신석기_시대.md "wikilink") 농업 확산과 연관짓는다. 한편 일부 학자는 이것이 [파미르 고원에서](https://ko.wikipedia.org/wiki/파미르_고원 "wikilink") 유래하였을 것이라고 주장하기도 한다.
 
-하플로그룹 L은 남아시아의 전체에 걸쳐 높고 낮은 비율로 검출되는데, 특히 [발로치스탄](https://ko.wikipedia.org/wiki/발로치스탄 "wikilink") (28%)\[1\], 북부 [아프가니스탄](https://ko.wikipedia.org/wiki/아프가니스탄 "wikilink")\[2\], 남부 [인도](../Page/인도.md "wikilink")\[3\]에서 높게 나온다.
+하플로그룹 L은 남아시아의 전체에 걸쳐 높고 낮은 비율로 검출되는데, 특히 [발로치스탄](https://ko.wikipedia.org/wiki/발로치스탄 "wikilink") (28%)\[1\], 북부 [아프가니스탄](https://ko.wikipedia.org/wiki/아프가니스탄 "wikilink")\[2\], 남부 [인도](../Page/인도.md "wikilink")\[3\]에서 높게 나온다. 또한 중동 여러 지역과 남유럽에서도 상당 비율로 나타난다.
 
 ## 계통수
 

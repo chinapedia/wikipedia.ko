@@ -3,7 +3,7 @@
 
 《**LOVE YOURSELF 結 'Answer**'》는 2018년 8월 24일 발매된 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 정규 3집 리패키지 음반이다. 타이틀 곡은 〈[IDOL](../Page/IDOL_\(방탄소년단의_노래\).md "wikilink")〉이다.
 
-## 개요
+## 소개
 
   - 이 음반은 ‘LOVE YOURSELF [起承轉結](https://ko.wikipedia.org/wiki/기승전결 "wikilink")’ 시리즈의 마지막 음반이다. 이 시리즈는 단편 영상인 LOVE YOURSELF 起 'Wonder', 미니 음반인 [LOVE YOURSELF 承 'Her'](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_承_'Her' "wikilink"), 정규 음반인 [LOVE YOURSELF 轉 'Tear'로](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_轉_'Tear' "wikilink") 구성된다.
   - 전작인 [LOVE YOURSELF 轉 'Tear'의](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_轉_'Tear' "wikilink") 리패키지 음반으로, 〈Euphoria〉, 〈Trivia 起: Just Dance〉, 〈Serendipity <small>(Full Length Edition)</small>〉, 〈Trivia 承: Love〉, 〈Trivia 轉: Seesaw〉, 〈Epiphany〉, 〈I'm Fine〉, 〈IDOL〉, 〈Answer: Love Myself〉, 〈DNA <small>(Pedal 2 LA Mix)</small>〉, 〈FAKE LOVE <small>(Rocking Vibe Mix)</small>〉, 〈MIC Drop <small>(Steve Aoki Remix) (Full Length Edition)</small>〉, 그리고 〈IDOL <small>(Feat. Nicki Minaj)</small>〉 등 13곡이 추가되었다. 그 밖의 곡들은 [LOVE YOURSELF 承 'Her'와](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_承_'Her' "wikilink") [LOVE YOURSELF 轉 'Tear'에](https://ko.wikipedia.org/wiki/LOVE_YOURSELF_轉_'Tear' "wikilink") 수록되었던 곡으로, 기존 곡과 신곡을 포함하여 모든 곡은 순서상 유기적인 서사를 보이도록 배치되었다.

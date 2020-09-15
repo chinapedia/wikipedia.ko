@@ -8,4 +8,4 @@
 [분류:전자 우편](https://ko.wikipedia.org/wiki/분류:전자_우편 "wikilink") [분류:인터넷 프로토콜 기반 네트워크 소프트웨어](https://ko.wikipedia.org/wiki/분류:인터넷_프로토콜_기반_네트워크_소프트웨어 "wikilink") [분류:인터넷 표준](https://ko.wikipedia.org/wiki/분류:인터넷_표준 "wikilink") [분류:인터넷 프로토콜](https://ko.wikipedia.org/wiki/분류:인터넷_프로토콜 "wikilink") [분류:상표](https://ko.wikipedia.org/wiki/분류:상표 "wikilink")
 
 1.  [Listserv](http://egloos.zum.com/teckoo/v/10389524)
-2.  [](http://www.lsoft.com/corporate/history-listserv.asp)
+2.

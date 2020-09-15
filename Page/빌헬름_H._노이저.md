@@ -25,6 +25,7 @@
 
 ## 같이 보기
 
+  - [한국칼빈학회](../Page/한국칼빈학회.md "wikilink")
   - [세계칼빈학회](../Page/세계칼빈학회.md "wikilink")
   - [세계개혁신학회](../Page/세계개혁신학회.md "wikilink")
 

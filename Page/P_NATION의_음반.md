@@ -20,6 +20,11 @@
   - 2020년 3월 19일 제시 - **\[Digital Single\] Digital Lover**
   - 2020년 4월 29일 던 - **신구함께**\[3\]
   - 2020년 5월 20일 크러쉬 - **\[Digital Single\] homemade 1**\[4\]
+  - 2020년 6월 7일 크러쉬 - **JTBC 비긴어게인 코리아 Episode.1**\[5\]
+  - 2020년 7월 14일 크러쉬 - **\[Digital Single\] OHIO**
+  - 2020년 7월 30일 제시 - *NUNA*
+  - 2020년 ?월 ?일 현아 - **\[Digital Single\] GOOD GIRL**\[6\]
+  - 2020년 ?월 ?일 현아 - **미정**
 
 ## 각주
 
@@ -29,3 +34,5 @@
 2.  최초의 OST 앨범.
 3.  [치타](../Page/치타_\(가수\).md "wikilink"),[선우정아](../Page/선우정아.md "wikilink")도 앨범 참여.
 4.  [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 멤버 [조이](../Page/조이.md "wikilink")도 참여.
+5.  [하림](../Page/하림_\(가수\).md "wikilink"),[슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 전 멤버 [헨리도](../Page/헨리_\(가수\).md "wikilink") 앨범 참여.
+6.  첫 정규 앨범 선공개곡.

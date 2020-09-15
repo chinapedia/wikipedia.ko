@@ -473,7 +473,7 @@
 <tr class="header">
 <th><p>연도</p></th>
 <th><p>수상 내역<br />
-(총 6회)</br></p></th>
+(총 7회)</br></p></th>
 </tr>
 </thead>
 <tbody>
@@ -484,14 +484,24 @@
 <li><strong>BREATHE</strong> (총 2회)
 <ul>
 <li><a href="../Page/6월_4일.md" title="wikilink">6월 4일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 더 쇼 초이스</li>
-<li><a href="../Page/6월_5일.md" title="wikilink">6월 5일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송</li>
+<li><a href="../Page/6월_5일.md" title="wikilink">6월 5일</a> <a href="https://ko.wikipedia.org/wiki/MBC_M" title="wikilink">MBC M</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송</li>
 </ul></li>
 <li><strong>BLIND FOR LOVE</strong> (총 4회)
 <ul>
 <li><a href="../Page/10월_15일.md" title="wikilink">10월 15일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 더 쇼 초이스</li>
-<li><a href="../Page/10월_16일.md" title="wikilink">10월 16일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송</li>
-<li><a href="../Page/10월_17일.md" title="wikilink">10월 17일</a> <a href="../Page/엠넷.md" title="wikilink">엠넷</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/10월_16일.md" title="wikilink">10월 16일</a> <a href="https://ko.wikipedia.org/wiki/MBC_M" title="wikilink">MBC M</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언송</li>
+<li><a href="../Page/10월_17일.md" title="wikilink">10월 17일</a> <a href="https://ko.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
 <li><a href="../Page/10월_22일.md" title="wikilink">10월 22일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 더 쇼 초이스 (2주 연속)</li>
+</ul></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2020년<br />
+(총 1회)</br></p></td>
+<td><ul>
+<li><strong>답을 줘</strong> (총 1회)
+<ul>
+<li><a href="../Page/7월_7일.md" title="wikilink">7월 7일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a>》 더 쇼 초이스</li>
 </ul></li>
 </ul></td>
 </tr>

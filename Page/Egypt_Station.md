@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Egypt Station](https://ko.wikipedia.org/wiki/Egypt_Station).
 
 
-《**Egypt Station**》은 [폴 매카트니의](../Page/폴_매카트니.md "wikilink") 열일곱 번째 솔로 스튜디오 음반이고, 2018년 9월 7일에 캐피틀 레코드에 의해 발매되었다.\[1\]
+《**Egypt Station**》은 [폴 매카트니의](../Page/폴_매카트니.md "wikilink") 열일곱 번째 솔로 스튜디오 음반이고, 2018년 9월 7일에 [캐피틀 레코드에](../Page/캐피틀_레코드.md "wikilink") 의해 발매되었다.\[1\]
 
 《Egypt Station》은 [그렉 커스틴이](https://ko.wikipedia.org/wiki/그렉_커스틴 "wikilink") 프로듀싱하고, [라이언 테더가](../Page/라이언_테더.md "wikilink") 프로듀싱한 트랙 1개를 제외하고 매카트니가 공동 프로듀싱했다.\[2\] 이 음반은 매카트니의 2013년 《[New](../Page/New_\(음반\).md "wikilink")》 이후 첫 번째 스튜디오 발매 음반이다. 두 곡 〈[I Don't Know](https://ko.wikipedia.org/wiki/I_Don't_Know_\(폴_매카트니의_노래\) "wikilink")〉와 〈[Come On to Me](https://ko.wikipedia.org/wiki/Come_On_to_Me "wikilink")〉로 구성된 이 음반의 첫 번째(더블 A-사이드) 싱글은 2018년 6월 20일에 발매되었다.\[3\]\[4\]
 

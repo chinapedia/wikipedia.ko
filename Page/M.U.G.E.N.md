@@ -18,7 +18,7 @@
   - [Official Elecbyte website](https://web.archive.org/web/20031017133707/http://www.elecbyte.com/) – Offline
   - [The MUGEN Archive – The largest Mugen download site](http://mugenarchive.com/)
   - [Mugenformac Website](https://web.archive.org/web/20170531002428/http://mugenformac.weebly.com/)
-  - [Games Made by Mugen](http://freankexpo.net/)
+  - [Games Made by Mugen](https://web.archive.org/web/20151204203708/http://www.freankexpo.net/)
 
 [분류:1999년 소프트웨어](https://ko.wikipedia.org/wiki/분류:1999년_소프트웨어 "wikilink") [분류:1999년 비디오 게임](https://ko.wikipedia.org/wiki/분류:1999년_비디오_게임 "wikilink") [분류:도스 게임](https://ko.wikipedia.org/wiki/분류:도스_게임 "wikilink") [분류:리눅스 게임](https://ko.wikipedia.org/wiki/분류:리눅스_게임 "wikilink") [분류:MacOS 게임](https://ko.wikipedia.org/wiki/분류:MacOS_게임 "wikilink") [분류:대전 격투 게임](https://ko.wikipedia.org/wiki/분류:대전_격투_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:비디오 게임 개발 소프트웨어](https://ko.wikipedia.org/wiki/분류:비디오_게임_개발_소프트웨어 "wikilink")
 

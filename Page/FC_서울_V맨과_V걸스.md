@@ -189,6 +189,24 @@ FC 서울 V맨(Victory-Man)과 V걸스(Victory-Girls)는 [FC 서울](https://ko.
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/FC_서울_2020_시즌" title="wikilink">2020</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/서현숙_(치어리더)" title="wikilink">서현숙</a></p></td>
+<td><p>이나경</p></td>
+<td><p>김다정</p></td>
+<td><p>박소진</p></td>
+<td><p>허은미</p></td>
+<td><p>천온유</p></td>
+</tr>
+<tr class="even">
+<td><p>정희정</p></td>
+<td><p>마서연</p></td>
+<td><p>임수지</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -210,11 +228,11 @@ FC 서울 V맨(Victory-Man)과 V걸스(Victory-Girls)는 [FC 서울](https://ko.
 
 ## 외부 링크
 
-  - [FC 서울 공식 웹사이트 V맨과 V걸스 소개 페이지](http://www.fcseoul.com/club/vgirl/vgirl01.jsp#fanzone_vgirls)
+  - [FC 서울 공식 웹사이트 V맨과 V걸스 소개 페이지](https://web.archive.org/web/20130120124310/http://www.fcseoul.com/club/vgirl/vgirl01.jsp#fanzone_vgirls)
 
 [분류:FC 서울](https://ko.wikipedia.org/wiki/분류:FC_서울 "wikilink") [분류:FC 서울 V맨과 V걸스](https://ko.wikipedia.org/wiki/분류:FC_서울_V맨과_V걸스 "wikilink")
 
 1.  [동행취재 - '수중 응원' FC서울 미모의 치어리더 'V걸스'](http://news.mk.co.kr/newsRead.php?year=2012&no=246296)
-2.  [FC 서울 공식 웹사이트 V맨과 V걸스 소개 페이지](http://www.fcseoul.com/club/vgirl/vgirl01.jsp#fanzone_vgirls)
+2.
 3.  [FC서울 치어리더도 '부상 투혼'...김지예 한발 붕대 '외발로 응원'](https://dispatchsns.tistory.com/197)
 4.  [축생술집 - 내가 바로 서울의 자랑이니라](https://sports.news.naver.com/kfootball/news/read.nhn?oid=343&aid=0000088473)

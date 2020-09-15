@@ -13,9 +13,9 @@
 
 1997년 3월 밴드는 오션 웨이 스튜디오에서 녹음 세션을 시작하기 위해 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에 도착했다. 고립된 섬에서 많은 음반을 녹음한 후, 대도시에서 일하는 것은 이 밴드의 다양한 음악가 친구들의 기부를 허용했다. 《Bridges to Babylon》은 7월까지 녹음되었으며, 4개월간의 제작으로 수년 동안 가장 간결한 녹음 기간 중 하나가 되었다. 리처즈가 아침까지 피곤해질 때까지 밤샘이 잦았다.\[2\]
 
-## 포장재
+## 커버 아트
 
-롤링 스톤스가 [슈테판 자그마이스터를](https://ko.wikipedia.org/wiki/슈테판_자그마이스터 "wikilink") 이 음반의 예술감독으로 선정하자, 재거는 그에게 [대영박물관](../Page/대영박물관.md "wikilink")에 전시된 [바빌로니아 미술에서](https://ko.wikipedia.org/wiki/바빌로니아_미술 "wikilink") 영감을 얻으라고 말했다. 자그마이스터는 인간의 머리와 수염을 가진 사자를 형상화한 [라마수](../Page/라마수.md "wikilink") 조각품에 가장 감명받았고, 예술가 케빈 머피에게 비슷한 [아시리아사자](https://ko.wikipedia.org/wiki/아시리아사자 "wikilink")를 공격 자세로 그리도록 의뢰했다. 《Bridges to Babylon》의 처음 백만 유닛은 특수 제작된 파일리 나무 전표 케이스에 싸여 있었는데, 이것은 사자가 디자인에 끼워져 있는 듯한 인상을 주었다. 커버의 사막 배경은 책자 전체로 확대되어 [Bridges to Babylon Tour](https://ko.wikipedia.org/wiki/Bridges_to_Babylon_Tour "wikilink") 무대 디자인의 기초가 되는 폐허를 특징으로 했다.\[3\]\[4\]
+롤링 스톤스가 [슈테판 자그마이스터를](https://ko.wikipedia.org/wiki/슈테판_자그마이스터 "wikilink") 이 음반의 예술감독으로 선정하자, 재거는 그에게 [대영박물관](../Page/대영박물관.md "wikilink")에 전시된 [바빌로니아 미술에서](https://ko.wikipedia.org/wiki/바빌로니아_미술 "wikilink") 영감을 얻으라고 말했다. 자그마이스터는 인간의 머리와 수염을 가진 사자를 형상화한 [라마수](../Page/라마수.md "wikilink") 조각품에 가장 감명받았고, 아티스트 케빈 머피에게 비슷한 [아시리아사자](https://ko.wikipedia.org/wiki/아시리아사자 "wikilink")를 공격 자세로 그리도록 의뢰했다. 《Bridges to Babylon》의 처음 백만 유닛은 특수 제작된 파일리 나무 전표 케이스에 싸여 있었는데, 이것은 사자가 디자인에 끼워져 있는 듯한 인상을 주었다. 커버의 사막 배경은 책자 전체로 확대되어 [Bridges to Babylon Tour](https://ko.wikipedia.org/wiki/Bridges_to_Babylon_Tour "wikilink") 무대 디자인의 기초가 되는 폐허를 특징으로 했다.\[3\]\[4\]
 
 ## 발매 및 접수처
 

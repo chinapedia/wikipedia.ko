@@ -9,7 +9,7 @@
 
 ## 곡 목록
 
-모든 곡들은 [도노반 리치가](https://ko.wikipedia.org/wiki/도노반_리치 "wikilink") 작사/작곡하였다.
+모든 곡들은 [도노반 리치에](https://ko.wikipedia.org/wiki/도노반_리치 "wikilink") 의해 작사/작곡하였다.
 
 ## 각주
 

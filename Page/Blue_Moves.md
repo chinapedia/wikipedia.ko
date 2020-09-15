@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Blue Moves](https://ko.wikipedia.org/wiki/Blue_Moves).
 
 
-《**Blue Moves**》는 [영국](../Page/영국.md "wikilink")의 음악가 [엘튼 존의](../Page/엘튼_존.md "wikilink") 열한 번째 정규 음반이다. 그 음반은 1976년 10월에 발매되었다. 이 음반은 존의 두 번째 더블 음반이자(《[Goodbye Yellow Brick Road](https://ko.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road "wikilink")》 이후) 그의 이름인 로켓 레코드가 발표한 첫 번째 음반이다.
+《**Blue Moves**》는 [영국](../Page/영국.md "wikilink")의 음악가 [엘튼 존의](../Page/엘튼_존.md "wikilink") 열한 번째 정규 음반이다. 그 음반은 1976년 10월에 발매되었다. 이 음반은 존의 두 번째 더블 음반이자(《[Goodbye Yellow Brick Road](https://ko.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road "wikilink")》 이후) 그의 이름인 로켓 레코드가 발표한 첫 번째 음반이다. 이 음반은 1972년 《[Honky Château](../Page/Honky_Château.md "wikilink")》로 시작된 존의 긴 연속 차트 1위를 기록하며 미국 차트 3위에 올랐다.
 
 ## 배경
 

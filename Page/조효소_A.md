@@ -33,7 +33,7 @@
 
 ### 지방산의 합성
 
-조효소 A는 화학적으로 [티올](https://ko.wikipedia.org/wiki/티올 "wikilink")이기 때문에 [카복실산](../Page/카복실산.md "wikilink")과 반응하여 [티오에스터](https://ko.wikipedia.org/wiki/티오에스터 "wikilink")를 형성할 수 있어서 아실기 운반체로 역할을 한다. 조효소 A는 [지방산](https://ko.wikipedia.org/wiki/지방산 "wikilink")을 [세포질](../Page/세포질.md "wikilink")에서 [미토콘드리아](../Page/미토콘드리아.md "wikilink")로 전달하는 것을 돕는다. [아실기](https://ko.wikipedia.org/wiki/아실기 "wikilink")를 운반하는 조효소 A의 분자를 [아실-CoA](https://ko.wikipedia.org/wiki/아실-CoA "wikilink")라고도 한다. 조효소 A가 아실기와 붙어 있지 않을 경우, 보통 "**CoASH**" 또는 "**HSCoA**"라고도 한다. 이 과정은 [세포막](../Page/세포막.md "wikilink")의 구조에 필수적인 세포 내 지방산의 생성을 촉진한다.\[20\]
+조효소 A는 화학적으로 [티올](https://ko.wikipedia.org/wiki/티올 "wikilink")이기 때문에 [카복실산](../Page/카복실산.md "wikilink")과 반응하여 [티오에스터](https://ko.wikipedia.org/wiki/티오에스터 "wikilink")를 형성할 수 있어서 아실기 운반체로 역할을 한다. 조효소 A는 [지방산](https://ko.wikipedia.org/wiki/지방산 "wikilink")을 [세포질](../Page/세포질.md "wikilink")에서 [미토콘드리아](../Page/미토콘드리아.md "wikilink")로 전달하는 것을 돕는다. [아실기](https://ko.wikipedia.org/wiki/아실기 "wikilink")를 운반하는 조효소 A의 분자를 [아실-CoA](../Page/아실-CoA.md "wikilink")라고도 한다. 조효소 A가 아실기와 붙어 있지 않을 경우, 보통 "**CoASH**" 또는 "**HSCoA**"라고도 한다. 이 과정은 [세포막](../Page/세포막.md "wikilink")의 구조에 필수적인 세포 내 지방산의 생성을 촉진한다.\[20\]
 
 조효소 A는 또한 [아실기 운반 단백질](https://ko.wikipedia.org/wiki/아실기_운반_단백질 "wikilink") 및 [포르밀테트라하이드로폴산 탈수소효소와](https://ko.wikipedia.org/wiki/포르밀테트라하이드로폴산_탈수소효소 "wikilink") 같은 [단백질](../Page/단백질.md "wikilink")에 [보결분자단](https://ko.wikipedia.org/wiki/보결분자단 "wikilink")으로 첨가되는 [포스포판테테인](https://ko.wikipedia.org/wiki/포스포판테테인 "wikilink")의 근원이다.\[21\]\[22\]
 
@@ -61,12 +61,12 @@
   - [지방산 아실-CoA](https://ko.wikipedia.org/wiki/지방산_아실-CoA "wikilink") (모든 지방산의 활성화된 형태, CoA 에스터만이 [모노아실글리세롤](https://ko.wikipedia.org/wiki/모노아실글리세롤 "wikilink"), [다이아실글리세롤](https://ko.wikipedia.org/wiki/다이아실글리세롤 "wikilink"), [트라이아실글리세롤](https://ko.wikipedia.org/wiki/트라이아실글리세롤 "wikilink")의 합성, [카르니틴 팔미토일트랜스퍼레이스](https://ko.wikipedia.org/wiki/카르니틴_팔미토일트랜스퍼레이스 "wikilink"), [콜레스테롤](../Page/콜레스테롤.md "wikilink")의 에스터화와 같은 중요한 반응에 대한 기질이다.)
       - [프로피오닐-CoA](https://ko.wikipedia.org/wiki/프로피오닐-CoA "wikilink")
       - [뷰티릴-CoA](https://ko.wikipedia.org/wiki/뷰티릴-CoA "wikilink")
-      - [크로토닐-CoA](https://ko.wikipedia.org/wiki/크로토닐-CoA "wikilink")
-  - [아세토아세틸-CoA](https://ko.wikipedia.org/wiki/아세토아세틸-CoA "wikilink")
+      - [크로토닐-CoA](../Page/크로토닐-CoA.md "wikilink")
+  - [아세토아세틸-CoA](../Page/아세토아세틸-CoA.md "wikilink")
   - [코마로일-CoA](https://ko.wikipedia.org/wiki/코마로일-CoA "wikilink") ([플라보노이드](../Page/플라보노이드.md "wikilink") 및 [스틸베노이드](https://ko.wikipedia.org/wiki/스틸베노이드 "wikilink") 생합성에 사용됨)
   - [벤조일-CoA](https://ko.wikipedia.org/wiki/벤조일-CoA "wikilink")
   - [다이카복실산](../Page/다이카복실산.md "wikilink")으로부터 유도된 아실
-      - [말로닐-CoA](https://ko.wikipedia.org/wiki/말로닐-CoA "wikilink") (지방산 생합성 및 [폴리케타이드](https://ko.wikipedia.org/wiki/폴리케타이드 "wikilink") 생합성에서 사슬의 신장에 중요함)
+      - [말로닐-CoA](../Page/말로닐-CoA.md "wikilink") (지방산 생합성 및 [폴리케타이드](https://ko.wikipedia.org/wiki/폴리케타이드 "wikilink") 생합성에서 사슬의 신장에 중요함)
       - [석시닐-CoA](../Page/석시닐-CoA.md "wikilink") ([헴](https://ko.wikipedia.org/wiki/헴 "wikilink") 생합성에 사용됨)
       - [HMG-CoA](https://ko.wikipedia.org/wiki/HMG-CoA "wikilink") ([아이소프레노이드](https://ko.wikipedia.org/wiki/아이소프레노이드 "wikilink") 생합성에 사용됨)
       - 피멜릴-CoA ([비오틴](https://ko.wikipedia.org/wiki/비오틴 "wikilink") 생합성에 사용됨)

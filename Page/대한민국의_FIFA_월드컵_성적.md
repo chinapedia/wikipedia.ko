@@ -914,7 +914,7 @@
 | [이탈리아](../Page/이탈리아_축구_국가대표팀.md "wikilink")                      | **1승 1패** | 1986, 2002       |
 | [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink") | 2패        | 1986, 2010       |
 | [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink")     | 1무        | 2006             |
-| [스페인](../Page/스페인_축구_국가대표팀.md "wikilink")                        | 2무 1패     | 1990, 1994, 2002 |
+| [스페인](../Page/스페인_축구_국가대표팀.md "wikilink")                        | 1승 1무 1패  | 1990, 1994, 2002 |
 | [네덜란드](../Page/네덜란드_축구_국가대표팀.md "wikilink")                      | 1패        | 1998             |
 | [우루과이](../Page/우루과이_축구_국가대표팀.md "wikilink")                      | 2패        | 1990, 2010       |
 | [스웨덴](../Page/스웨덴_축구_국가대표팀.md "wikilink")                        | 1패        | 2018             |
@@ -936,8 +936,7 @@
 |                                                                  |           |                  |
 
   - **상대 전적 우세** : [폴란드](../Page/폴란드_축구_국가대표팀.md "wikilink"), [포르투갈](../Page/포르투갈_축구_국가대표팀.md "wikilink"), [토고](../Page/토고_축구_국가대표팀.md "wikilink"), [그리스](../Page/그리스_축구_국가대표팀.md "wikilink") (각 1승)
-  - **상대 전적 동률** : [이탈리아](../Page/이탈리아_축구_국가대표팀.md "wikilink")(1승 1패), [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), [러시아](../Page/러시아_축구_국가대표팀.md "wikilink"), [미국](../Page/미국_축구_국가대표팀.md "wikilink"), [나이지리아](../Page/나이지리아_축구_국가대표팀.md "wikilink"), [불가리아](../Page/불가리아_축구_국가대표팀.md "wikilink"), [볼리비아](../Page/볼리비아_축구_국가대표팀.md "wikilink") (각 1무)
-  - **상대 전적 열세** : [독일](../Page/독일_축구_국가대표팀.md "wikilink")(1승 2패), [스페인](../Page/스페인_축구_국가대표팀.md "wikilink")(2무 1패), [벨기에](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink")(1무 2패), [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink"), [우루과이](../Page/우루과이_축구_국가대표팀.md "wikilink"), [멕시코](../Page/멕시코_축구_국가대표팀.md "wikilink"), [터키](../Page/터키_축구_국가대표팀.md "wikilink")(각 2패), [네덜란드](../Page/네덜란드_축구_국가대표팀.md "wikilink"), [스웨덴](../Page/스웨덴_축구_국가대표팀.md "wikilink"), [헝가리](../Page/헝가리_축구_국가대표팀.md "wikilink"), [스위스](../Page/스위스_축구_국가대표팀.md "wikilink"), [알제리](../Page/알제리_축구_국가대표팀.md "wikilink") (각 1패)
+  - **상대 전적 동률** : [이탈리아](../Page/이탈리아_축구_국가대표팀.md "wikilink")(1승 1패), [프랑스](https://ko.wikipedia.org/wiki/프랑스_축구_국가대표팀 "wikilink"), [러시아](../Page/러시아_축구_국가대표팀.md "wikilink"), [미국](../Page/미국_축구_국가대표팀.md "wikilink"), [나이지리아](../Page/나이지리아_축구_국가대표팀.md "wikilink"), [불가리아](../Page/불가리아_축구_국가대표팀.md "wikilink"), [볼리비아](../Page/볼리비아_축구_국가대표팀.md "wikilink") (각 1무) [스페인](../Page/스페인_축구_국가대표팀.md "wikilink")(1승 1무 1패), \* **상대 전적 열세** : [독일](../Page/독일_축구_국가대표팀.md "wikilink")(1승 2패), [벨기에](https://ko.wikipedia.org/wiki/벨기에_축구_국가대표팀 "wikilink")(1무 2패), [아르헨티나](https://ko.wikipedia.org/wiki/아르헨티나_축구_국가대표팀 "wikilink"), [우루과이](../Page/우루과이_축구_국가대표팀.md "wikilink"), [멕시코](../Page/멕시코_축구_국가대표팀.md "wikilink"), [터키](../Page/터키_축구_국가대표팀.md "wikilink")(각 2패), [네덜란드](../Page/네덜란드_축구_국가대표팀.md "wikilink"), [스웨덴](../Page/스웨덴_축구_국가대표팀.md "wikilink"), [헝가리](../Page/헝가리_축구_국가대표팀.md "wikilink"), [스위스](../Page/스위스_축구_국가대표팀.md "wikilink"), [알제리](../Page/알제리_축구_국가대표팀.md "wikilink") (각 1패)
 
 ## 각주
 

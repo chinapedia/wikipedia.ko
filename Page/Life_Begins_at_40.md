@@ -15,6 +15,6 @@
 
 ## 외부 링크
 
-  - [The Beatles Bible](http://www.beatlesbible.com/people/john-lennon/songs/life-begins-at-40/)
+  - [The Beatles Bible](https://web.archive.org/web/20181130030346/https://www.beatlesbible.com/people/john-lennon/songs/life-begins-at-40/)
 
 [분류:1998년 노래](https://ko.wikipedia.org/wiki/분류:1998년_노래 "wikilink") [분류:존 레논의 노래](https://ko.wikipedia.org/wiki/분류:존_레논의_노래 "wikilink") [분류:존 레논이 작곡한 노래](https://ko.wikipedia.org/wiki/분류:존_레논이_작곡한_노래 "wikilink")

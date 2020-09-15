@@ -16,7 +16,7 @@ A조
 
 B조
 
-  - [엠버](https://ko.wikipedia.org/wiki/엠버 "wikilink")
+  - [엠버](../Page/엠버_\(가수\).md "wikilink")
   - [은서](../Page/은서.md "wikilink")
 
 C조

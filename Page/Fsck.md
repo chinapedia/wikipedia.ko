@@ -36,8 +36,8 @@
 
   - [man fsck](https://web.archive.org/web/20150529001726/http://www.manpagez.com/man/8/fsck/)
   - [Checking and Repairing File system with fsck](http://www.adminschoice.com/repairing-unix-file-system-fsck)
-  - [Jargon File entry: fscking](http://www.catb.org/jargon/html/F/fscking.html)
-  - [The many faces of fsck](http://lwn.net/Articles/248180)
+  - [Jargon File entry: fscking](https://web.archive.org/web/20170218034631/http://catb.org/jargon/html/F/fscking.html)
+  - [The many faces of fsck](https://web.archive.org/web/20181119125426/https://lwn.net/Articles/248180/)
 
 [분류:파일 시스템](https://ko.wikipedia.org/wiki/분류:파일_시스템 "wikilink") [분류:유닉스 파일 시스템 관련 소프트웨어](https://ko.wikipedia.org/wiki/분류:유닉스_파일_시스템_관련_소프트웨어 "wikilink")
 

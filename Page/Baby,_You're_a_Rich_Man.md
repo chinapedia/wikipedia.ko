@@ -1,0 +1,12 @@
+> This article is converted from Wikipedia: [Baby, You\'re a Rich Man](https://ko.wikipedia.org/wiki/Baby,_You\'re_a_Rich_Man).
+
+
+〈**Baby, You're a Rich Man**〉은 1967년 7월 싱글 〈[All You Need Is Love](https://ko.wikipedia.org/wiki/All_You_Need_Is_Love "wikilink")〉의 [B-사이드로](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 발매된 [영국](../Page/영국.md "wikilink")의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 곡이다. 이 곡은 [존 레논의](../Page/존_레논.md "wikilink") 〈One of the Beautiful People〉이라는 제목의 미완성 곡에서 유래되었는데, [폴 매카트니는](../Page/폴_매카트니.md "wikilink") 이 곡에 후렴구를 추가했다. 이 곡은 [런던](../Page/런던.md "wikilink")의 [올림픽 스튜디오에서](https://ko.wikipedia.org/wiki/올림픽_스튜디오 "wikilink") 녹음되고 혼합되어, [EMI 스튜디오](https://ko.wikipedia.org/wiki/EMI_스튜디오 "wikilink") 밖에서 완전히 만들어진 비틀즈의 [EMI](../Page/EMI.md "wikilink") 음반 중 첫 번째가 되었다. [신시사이저](../Page/신시사이저.md "wikilink")의 선구자였던 [모노포닉](https://ko.wikipedia.org/wiki/모노포닉 "wikilink") 키보드 악기인 [클라비올린](https://ko.wikipedia.org/wiki/클라비올린 "wikilink")을 특징으로 한 팝송 중 가장 잘 알려진 곡이다. 레논은 오보에 세팅에서 클라비올린을 연주하여 [인도](../Page/인도.md "wikilink") [셰나이](https://ko.wikipedia.org/wiki/셰나이 "wikilink")를 암시하는 소리를 냈다. 그는 영국 반문화의 출현에 핵심이 된 런던 [알렉산드라 궁전에서](https://ko.wikipedia.org/wiki/알렉산드라_궁전 "wikilink") 열린 전야제인 [14시간 테크니콜러 드림](https://ko.wikipedia.org/wiki/14시간_테크니콜러_드림 "wikilink") 행사에 참석한 뒤 이 곡을 쓰기 시작했다. 그의 가사는 1960년대 히피 운동의 "아름다운 사람들"을 다루고 합창단과 결합하여 비물질적 부의 보편성에 관한 성명을 발표한다. 이 곡은 또한 비틀즈의 매니저인 [브라이언 엡스타인에게](../Page/브라이언_엡스타인.md "wikilink") 보내는 메시지로 해석을 초대했고, 그 대신에 명성에 대한 코멘트로서 해석을 불러왔다.
+
+〈Baby, You're a Rich Man〉은 미국 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 34위를 기록했다. 발매 한 달 후, [조지 해리슨은](../Page/조지_해리슨.md "wikilink") 사랑의 여름이 한창일 때 [샌프란시스코](../Page/샌프란시스코.md "wikilink")의 [헤이트애시베리](https://ko.wikipedia.org/wiki/헤이트애시베리 "wikilink")를 방문했을 때 이 노래를 불렀다. 이 트랙은 비틀즈의 《[Magical Mystery Tour](../Page/Magical_Mystery_Tour.md "wikilink")》 음반에도 등장했고 1968년에 제작된 애니메이션 영화 《[노란 잠수함](https://ko.wikipedia.org/wiki/노란_잠수함 "wikilink")》에서도 연속적으로 등장했다. 비록 이 곡이 후작의 사운드트랙 음반에는 수록되지 않았지만, 이 곡의 새로운 조합이 1999년 확장 발매된 《[Yellow Submarine Songtrack](https://ko.wikipedia.org/wiki/Yellow_Submarine_Songtrack "wikilink")》에 등장했다.
+
+## 각주
+
+## 외부 링크
+
+[분류:1967년 노래](https://ko.wikipedia.org/wiki/분류:1967년_노래 "wikilink") [분류:1967년 싱글](https://ko.wikipedia.org/wiki/분류:1967년_싱글 "wikilink") [분류:비틀즈의 노래](https://ko.wikipedia.org/wiki/분류:비틀즈의_노래 "wikilink") [분류:레논-매카트니가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:레논-매카트니가_작곡한_노래 "wikilink") [분류:팔로폰 싱글](https://ko.wikipedia.org/wiki/분류:팔로폰_싱글 "wikilink") [분류:캐피틀 레코드 싱글](https://ko.wikipedia.org/wiki/분류:캐피틀_레코드_싱글 "wikilink")

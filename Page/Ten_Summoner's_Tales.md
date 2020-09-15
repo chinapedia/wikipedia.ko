@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ten Summoner\'s Tales](https://ko.wikipedia.org/wiki/Ten_Summoner\'s_Tales).
 
 
-《**Ten Summoner's Tales**》는 [영국](../Page/영국.md "wikilink")의 록 음악가 [스팅의](../Page/스팅_\(가수\).md "wikilink") 네 번째 솔로 스튜디오 음반이다. 제목은 그의 성인 섬너와 소환사인 [제프리 초서의](../Page/제프리_초서.md "wikilink") 《[캔터베리 이야기](https://ko.wikipedia.org/wiki/캔터베리_이야기 "wikilink")》에서 등장인물을 합친 말이다. 1993년에 발매된 이 음반은 1980년대에 그의 양친을 잃은 후 1991년에 발매된 《[The Soul Cages](https://ko.wikipedia.org/wiki/The_Soul_Cages "wikilink")》라는 전작에 비해 눈에 띄게 긍정적인 분위기에서 사랑과 도덕의 주제를 탐구한다.
+《**Ten Summoner's Tales**》는 [영국](../Page/영국.md "wikilink")의 록 음악가 [스팅의](../Page/스팅_\(가수\).md "wikilink") 네 번째 솔로 스튜디오 음반이다. 제목은 그의 성인 섬너와 소환사인 [제프리 초서의](../Page/제프리_초서.md "wikilink") 《[캔터베리 이야기](https://ko.wikipedia.org/wiki/캔터베리_이야기 "wikilink")》에서 등장인물을 합친 말이다. 1993년에 발매된 이 음반은 1980년대에 그의 양친을 잃은 후 1991년에 발매된 《[The Soul Cages](../Page/The_Soul_Cages.md "wikilink")》라는 전작에 비해 눈에 띄게 긍정적인 분위기에서 사랑과 도덕의 주제를 탐구한다.
 
 이 음반에는 두 개의 미국 히트곡이 수록되어 있다. 〈[If I Ever Ever Lose My Faith in You](https://ko.wikipedia.org/wiki/If_I_Ever_Ever_Lose_My_Faith_in_You "wikilink")〉는 [빌보드 핫 100에서](../Page/빌보드_핫_100.md "wikilink") 17위에 올랐고 〈[Fields of Gold](https://ko.wikipedia.org/wiki/Fields_of_Gold "wikilink")〉는 23위에 올랐다.
 

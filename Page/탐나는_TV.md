@@ -16,7 +16,10 @@
 
 ## MC
 
-  - [손정은](https://ko.wikipedia.org/wiki/손정은 "wikilink") 아나운서 (여)
+  - [임현주](../Page/임현주.md "wikilink") 아나운서 (여)
+
+## 리포터
+
   - 위근우
   - [김선영](https://ko.wikipedia.org/wiki/김선영 "wikilink")
   - [이승한](https://ko.wikipedia.org/wiki/이승한 "wikilink")
@@ -25,20 +28,51 @@
   - 이독실
   - 공희정
 
+## 역대 MC
+
+  - 1대 [손정은](https://ko.wikipedia.org/wiki/손정은 "wikilink") 아나운서 (여) 2018년 9월 22일 \~ 2019년 11월 9일
+
+## 편성 변경
+
 ## 경쟁 프로그램
+
+  - 지상파
+
+<!-- end list -->
 
   - [열린 TV 시청자 세상](../Page/열린_TV_시청자_세상.md "wikilink") ([SBS TV](../Page/SBS_TV.md "wikilink"))
   - [TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink"))
+
+<!-- end list -->
+
+  - 지역 민영방송
+
+<!-- end list -->
+
   - [미디어 공감 좋은TV](../Page/미디어_공감_좋은TV.md "wikilink") ([OBS경인TV](../Page/OBS경인TV.md "wikilink"))
+  - [클릭 KNN 시청자 세상](../Page/클릭_KNN_시청자_세상.md "wikilink") ([KNN](../Page/KNN.md "wikilink"))
+  - [열린TBC](../Page/열린TBC.md "wikilink") ([TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink"))
+  - [kbc 열린 TV 시청자세상](../Page/열린_TV_시청자세상_\(텔레비전_프로그램\).md "wikilink") ([kbc](../Page/광주방송.md "wikilink"))
+
+<!-- end list -->
+
+  - 종합편성채널
+
+<!-- end list -->
+
   - [시청자 의회](../Page/시청자_의회.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
   - [채널A 시청자 마당](../Page/채널A_시청자_마당.md "wikilink") ([채널A](../Page/채널A.md "wikilink"))
   - [열린비평 TV를 말하다](../Page/열린비평_TV를_말하다.md "wikilink") ([TV조선](../Page/TV조선.md "wikilink"))
   - [열린TV 열린세상](../Page/열린TV_열린세상.md "wikilink") ([MBN](https://ko.wikipedia.org/wiki/MBN "wikilink"))
+
+<!-- end list -->
+
+  - 뉴스전문채널
+
+<!-- end list -->
+
   - [YTN 시민데스크](../Page/YTN_시민데스크.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))
   - [바로보는TV 옴부즈맨](../Page/바로보는TV_옴부즈맨.md "wikilink") ([연합뉴스TV](../Page/연합뉴스TV.md "wikilink"))
-  - [클릭 KNN 시청자 세상](../Page/클릭_KNN_시청자_세상.md "wikilink") ([KNN](../Page/KNN.md "wikilink"))
-  - [열린TBC](../Page/열린TBC.md "wikilink") ([TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink"))
-  - [kbc 열린 TV 시청자세상](../Page/열린_TV_시청자세상_\(텔레비전_프로그램\).md "wikilink") ([kbc](../Page/광주방송.md "wikilink"))
 
 ## 외부 링크
 

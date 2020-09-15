@@ -64,6 +64,6 @@
 
 ## 외부 링크
 
-  - [슈퍼 자이로 사다리 차량 소개](http://www.morita119.jp/fire_engine/ladder/index.html)
+  - [슈퍼 자이로 사다리 차량 소개](https://web.archive.org/web/20181007223130/http://www.morita119.jp/fire_engine/ladder/index.html)
 
 [MH](https://ko.wikipedia.org/wiki/분류:자동차_차종 "wikilink") [MH](https://ko.wikipedia.org/wiki/분류:긴급자동차 "wikilink") [MH](https://ko.wikipedia.org/wiki/분류:히노_자동차의_차종 "wikilink") [MH](https://ko.wikipedia.org/wiki/분류:1991년_도입된_자동차 "wikilink")

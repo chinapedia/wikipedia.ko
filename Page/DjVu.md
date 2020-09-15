@@ -5,7 +5,7 @@
 
 ## 개요
 
-DjVu 방식은 스캔된 문서의 압축에 특화되어 있으며, 그 경우의 압축률은 기존의 화상압축방식인 [JPEG](../Page/JPEG.md "wikilink")나 [TIFF G4를](https://ko.wikipedia.org/wiki/TIFF "wikilink") 크게 웃돈다. 또한, 배포 파일 크기가 작고, 다운로드 중에 일부 페이지를 열람할 수 있기 때문에, 일부에서는 [PDF](../Page/PDF.md "wikilink")의 대체로서 이용되는 일도 있지만, DjVu 파일 작성 소프트가 한정되어 있으므로 보급률은 PDF나 JPEG에 비해 매우 낮다. 아직 일반적으로 침투된 파일 형식이라고 보기는 어렵다.
+DjVu 방식은 스캔된 문서의 압축에 특화되어 있으며, 그 경우의 압축률은 기존의 화상압축방식인 [JPEG](../Page/JPEG.md "wikilink")나 [TIFF G4를](https://ko.wikipedia.org/wiki/TIFF "wikilink") 크게 웃돈다. 또한, 배포 파일 크기가 작고, 다운로드 중에 일부 페이지를 열람할 수 있기 때문에, 일부에서는 [PDF](../Page/PDF.md "wikilink")의 대체로서 이용되는 일도 있지만 DjVu 파일 작성 소프트가 한정되어 있으므로 보급률은 PDF나 JPEG에 비해 매우 낮다. 아직 일반적으로 침투된 파일 형식이라고 보기는 어렵다.
 
 ## 특징
 
@@ -26,4 +26,4 @@ DjVu 형식의 큰 특징은 PDF 형식과는 달리, 보기에 [글꼴](../Page
   - [DjVu.org](http://djvu.org/) - DjVu에 관한 정보
   - [DjVu File-Extension.info](http://www.file-extension.info/ja/format/djvu) - 확장기능 정보
 
-[분류:서면 통신](https://ko.wikipedia.org/wiki/분류:서면_통신 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink") [분류:그래픽 파일 포맷](https://ko.wikipedia.org/wiki/분류:그래픽_파일_포맷 "wikilink")
+[분류:서면 통신](https://ko.wikipedia.org/wiki/분류:서면_통신 "wikilink") [분류:오픈 포맷](https://ko.wikipedia.org/wiki/분류:오픈_포맷 "wikilink") [분류:그래픽 파일 포맷](https://ko.wikipedia.org/wiki/분류:그래픽_파일_포맷 "wikilink") [분류:전자 출판](https://ko.wikipedia.org/wiki/분류:전자_출판 "wikilink")

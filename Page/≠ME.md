@@ -176,7 +176,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>2020년 4월 29일</p></td>
+<td><p>2020년 7월 8일</p></td>
 <td><p>君と僕の歌<br />
 <small>너와 나의 노래</small></p></td>
 <td><p>=LOVE 7th 싱글 〈<a href="https://ko.wikipedia.org/wiki/CAMEO" title="wikilink">CAMEO</a>〉 수록</p></td>
@@ -192,7 +192,7 @@
 
 ## 같이 보기
 
-  - [=LOVE](../Page/=LOVE.md "wikilink")
+  - [=LOVE](../Page/=LOVE.md "wikilink")(자매그룹)
   - [사시하라 리노](../Page/사시하라_리노.md "wikilink")(프로듀서)
 
 ## 외부 링크

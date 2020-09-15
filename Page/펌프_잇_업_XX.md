@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [펌프 잇 업 XX](https://ko.wikipedia.org/wiki/펌프_잇_업_XX).
 
 
-**펌프 잇 업 XX**는 국내 21번째, 해외 18번째,전세계 16번째이자 20주년 기념작이다. 2019년 1월 7일에 [대한민국](../Page/대한민국.md "wikilink")에서 먼저 발매되었다.
+**펌프 잇 업 XX**는 국내 21번째, 해외 18번째, 전세계 16번째이자 20주년 기념작이다. 2019년 1월 7일에 [대한민국](../Page/대한민국.md "wikilink")에서 먼저 발매되었다.
 
 ## 수록곡
 
@@ -757,82 +757,82 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>어피니티 - 모놀리쓰</em>[12][13]</p></td>
+<td><p><em>어피니티 - 모노리스</em>[12]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em>코코넛 - 레이디버그</em>[14]</p></td>
+<td><p><em>코코넛 - 레이디버그</em>[13]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>코코넛 - 키티 캣</em>[15]</p></td>
+<td><p><em>코코넛 - 키티 캣</em>[14]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em>디클로니우스 - 하드코어 오브 더 노스</em>[16]</p></td>
+<td><p><em>디클로니우스 - 하드코어 오브 더 노스</em>[15]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>하이-G - 트리브 어태커</em>[17]</p></td>
+<td><p><em>하이-G - 트리브 어태커</em>[16]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em>나이트메어 - 드림 투 나이트메어</em>[18]</p></td>
+<td><p><em>나이트메어 - 드림 투 나이트메어</em>[17]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>스마일리 - 슈샤</em>[19]</p></td>
+<td><p><em>스마일리 - 슈샤</em>[18]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em>지그재그 - VVV</em>[20]</p></td>
+<td><p><em>지그재그 - VVV</em>[19]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>지르콘 - 스타 커맨드</em>[21]</p></td>
+<td><p><em>지르콘 - 스타 커맨드</em>[20]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em>J-미 &amp; 미디-D 핏. 한나 스톡젤 - 팝 더 트랙</em>[22]</p></td>
+<td><p><em>J-미 &amp; 미디-D 핏. 한나 스톡젤 - 팝 더 트랙</em>[21]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>신스울프 - 파사칼리아</em>[23]</p></td>
+<td><p><em>신스울프 - 파사칼리아</em>[22]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em>지르콘 - 바로크 바이러스</em>[24]</p></td>
+<td><p><em>지르콘 - 바로크 바이러스</em>[23]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>DM 아슈라 - 엘리제</strong>[25]</p></td>
+<td><p><strong>DM 아슈라 - 엘리제</strong>[24]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>반야 리믹스 바이 DM 아슈라 - 이그니스 패터스</strong>[26]</p></td>
+<td><p><strong>반야 리믹스 바이 DM 아슈라 - 이그니스 패터스</strong>[25]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>반야 리믹스 바이 크랭키 - 러브 이스 어 데인저 존 (크랭키 믹스)</strong>[27]</p></td>
+<td><p><strong>반야 리믹스 바이 크랭키 - 러브 이스 어 데인저 존 (크랭키 믹스)</strong>[26]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>반야 리믹스 바이 신스울프 - 힙노시스 (신스울프 믹스)</strong>[28]</p></td>
+<td><p><strong>반야 리믹스 바이 신스울프 - 힙노시스 (신스울프 믹스)</strong>[27]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1097,7 +1097,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>맥스&amp;둠 - 더 레볼루션</em>[29]</p></td>
+<td><p><em>맥스&amp;둠 - 더 레볼루션</em>[28]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1277,7 +1277,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>현 - 크로스오버 Feat.LynU</strong></p></td>
+<td><p><strong>현 - 크로스 오버 Feat.LynU</strong></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1452,17 +1452,17 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em>야시 프레스먼 &amp; 나딘 러스트레 - 허쉬</em>[30]</p></td>
+<td><p><em>야시 프레스먼 &amp; 나딘 러스트레 - 허쉬</em>[29]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>레인보우드래곤아이즈 - 시즈 마이 데이</em>[31]</p></td>
+<td><p><em>레인보우드래곤아이즈 - 시즈 마이 데이</em>[30]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><em>DM 아슈라 - 폴른 엔젤</em>[32]</p></td>
+<td><p><em>DM 아슈라 - 폴른 엔젤</em>[31]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1537,7 +1537,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>와락 - 크리스마스의 기억</em>[33]</p></td>
+<td><p><em>와락 - 크리스마스의 기억</em>[32]</p></td>
 <td><p>O2Jam 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
@@ -1587,7 +1587,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>아르체플룩스 - 킬 뎀!</em>[34]</p></td>
+<td><p><em>아르체플룩스 - 킬 뎀!</em>[33]</p></td>
 <td><p>네온FM 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
@@ -1607,7 +1607,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>SHK - 스위트로닉</em>[35]</p></td>
+<td><p><em>SHK - 스위트로닉</em>[34]</p></td>
 <td><p>2.01.0 추가곡</p></td>
 <td></td>
 </tr>
@@ -1617,7 +1617,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>아타스 - 트란사칼리아</strong>[36]</p></td>
+<td><p><strong>아타스 - 트란사칼리아</strong>[35]</p></td>
 <td><p>2.01.0 추가곡</p></td>
 <td></td>
 </tr>
@@ -1637,7 +1637,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>맥스 - 디스트릭트 1[37]</p></td>
+<td><p>맥스 - 디스트릭트 1[36]</p></td>
 <td><p>2.02.0 추가곡</p></td>
 <td></td>
 </tr>
@@ -1648,7 +1648,7 @@ NXA</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>나토 - 하트 래빗 코스터</strong></p></td>
-<td><p>1.04.0 추가</p></td>
+<td><p>1.04.0 추가곡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1662,8 +1662,18 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>도인 - 아이올라이트 스카이[37]</p></td>
+<td><p>2.03.0 추가곡</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>포리 - 퍼센트 엑스</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>포리 - 금혼식</strong>[38]</p></td>
+<td><p>2.03.0 추가곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1672,7 +1682,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>스태틱스피어 &amp; 복어수산 - 카르멘 버스[38]</p></td>
+<td><p>스태틱스피어 &amp; 복어수산 - 카르멘 버스[39]</p></td>
 <td><p>1.05.0 추가곡</p></td>
 <td></td>
 </tr>
@@ -1682,7 +1692,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>파이브워터 - 아이스 오브 데스</strong></p></td>
+<td><p><strong>파이버워터 - 아이스 오브 데스</strong></p></td>
 <td><p>1.01.0 추가곡</p></td>
 <td></td>
 </tr>
@@ -1692,7 +1702,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>쿼티즘 - 아드레날린 블래스터[39]</p></td>
+<td><p>쿼티즘 - 아드레날린 블래스터[40]</p></td>
 <td><p>2.02.0 추가곡</p></td>
 <td></td>
 </tr>
@@ -1702,7 +1712,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>애플소다 - 테일즈 오브 펌프니아[40]</p></td>
+<td><p>애플소다 - 테일즈 오브 펌프니아[41]</p></td>
 <td><p>1.05.0 추가곡</p></td>
 <td></td>
 </tr>
@@ -1712,8 +1722,18 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>DM 아슈라 - 오르빗 스태빌라이저[41]</p></td>
+<td><p>DM 아슈라 - 오르빗 스태빌라이저[42]</p></td>
 <td><p>1.05.0 추가곡</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>쿠로락 - 파괴[43]</p></td>
+<td><p>2.04.0 추가곡</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>제헤주키엘 - 클레마티스 랩소디아[44]</p></td>
+<td><p>2.04.0 추가곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1724,6 +1744,16 @@ NXA</p></td>
 <tr class="odd">
 <td><p><strong>맴매 - 탄탄멘</strong></p></td>
 <td><p>1.04.0 추가</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>캐슈 - 스타드림 (피트.로멜론)[45]</p></td>
+<td><p>2.04.0 추가곡</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>루시 - 조깅</em></p></td>
+<td><p>2.04.0 추가곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1747,7 +1777,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>터보 - 검은 고양이[42]</p></td>
+<td><p>터보 - 검은 고양이[46]</p></td>
 <td><p>1.04.0 추가곡</p></td>
 <td></td>
 </tr>
@@ -1783,7 +1813,7 @@ NXA</p></td>
 </tr>
 <tr class="odd">
 <td><p><em>에버글로우 - 아디오스</em></p></td>
-<td><p>2.00.0 추가곡</p></td>
+<td><p>2.00.0 추가곡, 중국판 제외곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1823,7 +1853,7 @@ NXA</p></td>
 </tr>
 <tr class="odd">
 <td><p><em>에버글로우 - 봉봉 쇼콜라</em></p></td>
-<td><p>2.02.0 추가곡</p></td>
+<td><p>2.02.0 추가곡, 중국판 제외곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1847,28 +1877,38 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><em>청하 - 벌써 12시</em></p></td>
+<td><p>2.03.0 추가곡</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>하온 - 붕붕</strong></p></td>
 <td><p>1.01.0 추가곡, 고등래퍼 곡</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><em>맷듀크 - 클럽나이트</em></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>맷듀크 - 인디스트럭터블</em></p></td>
 <td><p>2.01.0 추가곡</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><em>다스 - [86](피트.구미,카가미네 렌)</em></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>현 피트.셰피아스 - 크로스 소울</em></p></td>
 <td><p>1.05.0 추가곡, BMS 수록곡</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>큐리 - 브로큰 카르마 (PIU 에디트)</em></p></td>
+<td><p>2.03.0 추가곡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1898,57 +1938,77 @@ NXA</p></td>
 </tr>
 <tr class="even">
 <td><p><em>SHK - 이미지네이션</em></p></td>
-<td><p>O2JAM 콜라보레이션 이식곡</p></td>
+<td><p>O2Jam 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><em>제론 - 블랙 스완</em></p></td>
-<td><p>O2JAM 콜라보레이션 이식곡</p></td>
+<td><p>O2Jam 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><em>에스티 x M2U - 오벨리스크</em></p></td>
-<td><p>O2JAM 콜라보레이션 이식곡</p></td>
+<td><p>O2Jam 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><em>맥스 - 레이지 오브 파이어</em></p></td>
-<td><p>1.02.0 추가곡 O2JAM 콜라보레이션 이식곡</p></td>
+<td><p>1.02.0 추가곡, O2Jam 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>''나토 &amp; r300k - 듀얼 레이싱<레드 vs 블루> ''</p></td>
-<td><p>2.02.0 추가곡 O2JAM 콜라보레이션 이식곡</p></td>
+<td><p>2.02.0 추가곡, O2Jam 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><em>야마젯 (Feat.아마네) - 사이클링!</em></p></td>
-<td><p>2.01.0 추가곡 O2JAM 콜라보레이션 이식곡</p></td>
+<td><p>2.01.0 추가곡, O2Jam 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><em>맴매 - 우라늄</em></p></td>
-<td><p>2.00.0 추가곡 O2JAM 콜라보레이션 이식곡</p></td>
+<td><p>2.00.0 추가곡, O2Jam 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><em>FE - 제로아이즈</em></p></td>
-<td><p>1.01.0 추가곡 O2JAM 콜라보레이션 이식곡</p></td>
+<td><p>1.01.0 추가곡, O2Jam 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><em>M2U - 라이징 스타</em></p></td>
-<td><p>1.04.0 추가곡 O2JAM 콜라보레이션 이식곡</p></td>
+<td><p>1.04.0 추가곡, O2Jam 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><em>맴매 - 1 더하기 1은 귀요미</em></p></td>
+<td><p>2.03.0 추가곡, O2Jam 콜라보레이션 이식곡</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>r300k - 헤드리스 치킨</em></p></td>
+<td><p>2.04.0 추가곡, O2Jam 콜라보레이션 이식곡</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><em>야마젯 - 오버 더 호라이즌</em></p></td>
+<td><p>2.04.0 추가곡, O2Jam 콜라보레이션 이식곡</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><em>로체 - 로키</em></p></td>
 <td><p>EZ2AC 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>루나틱 사운드 - 디멘트 ~애프터 레전드~</em></p></td>
 <td><p>EZ2AC 콜라보레이션 이식곡</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>하우스플랜 - 하우스플랜</em></p></td>
+<td><p>2.04.0 추가곡, EZ2AC 콜라보레이션 이식곡</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2016,7 +2076,7 @@ NXA</p></td>
 <td><p>익시드<br />
 익시드2<br />
 제로</p></td>
-<td><p>| <strong>크래쉬 - 디그니티</strong>[43]</p></td>
+<td><p>| <strong>크래쉬 - 디그니티</strong>[47]</p></td>
 <td><p>1.04.0에서 부활</p></td>
 </tr>
 <tr class="even">
@@ -2065,7 +2125,7 @@ NXA</p></td>
 </tr>
 <tr class="even">
 <td><p>프라임2</p></td>
-<td><p><em>야시 프레스먼 &amp; 나딘 러스트레 - 허쉬</em>[44]</p></td>
+<td><p><em>야시 프레스먼 &amp; 나딘 러스트레 - 허쉬</em>[48]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2074,7 +2134,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><em>생션7 - 가고일</em>[45]</p></td>
+<td><p><em>생션7 - 가고일</em>[49]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2089,38 +2149,53 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><em>프로듀스48 - 내꺼야</em></p></td>
+<td><p>2.03.0 추가</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>모모랜드 - 뿜뿜</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>에이핑크 - 1도 없어</em></p></td>
 <td><p>2.02.0 추가</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><em>선미 - 가시나</em></p></td>
 <td><p>1.03.0 추가</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>마마무 - 별이 빛나는 밤</em></p></td>
 <td><p>1.04.0 추가</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><em>여자친구 - 밤</em></p></td>
 <td><p>2.02.0 추가</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>세븐틴 - 아주 나이스</em></p></td>
 <td><p>2.01.0 추가</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>홍진영 - 잘가라</em></p></td>
+<td><p>2.03.0 추가</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><em>다스 - [86](피트.구미,카가미네 렌)</em></p></td>
 <td><p>1.01.0 추가</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><em>지르콘 - 바로크 바이러스</em>[50]</p></td>
+<td><p>2.04.0 추가</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -2211,7 +2286,7 @@ NXA</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>반야 프로덕션 - 반야-P 클래식 리믹스[46]</p></td>
+<td><p>반야 프로덕션 - 반야-P 클래식 리믹스[51]</p></td>
 <td><p>미운 오리새끼<br />
 투우사의 노래<br />
 월광</p></td>
@@ -2249,7 +2324,7 @@ DJ 오타다</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>반야 프로덕션 - 미운 오리 토카타[47]</p></td>
+<td><p>반야 프로덕션 - 미운 오리 토카타[52]</p></td>
 <td><p>미운 오리새끼<br />
 토카타</p></td>
 <td></td>
@@ -2396,16 +2471,27 @@ FFF</p></td>
 <td><p><strong>애플소다VS맥스 - 데사파레세르</strong></p></td>
 <td><p>배니쉬<br />
 사라반드</p></td>
-<td><p>전용 BGA를 사용.</p></td>
+<td><p>전용 BGA를 사용</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>도인 &amp;&amp; 써니 - 에러코드: 0</strong>[53]</p></td>
+<td><p>리키지 볼티지<br />
+리무버블 디스코<br />
+퍼더<br />
+다람쥐 헌 쳇바퀴에 타고파<br />
+스켑틱<br />
+아이올라이트 스카이</p></td>
+<td><p>2.04.0 추가, 전용 BGA를 사용</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>폴 바주카 - 메테오 사이언스</p></td>
 <td><p>메테오라이즈<br />
 매드사이언스</p></td>
 <td><p>1.02.0 추가</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><em>캐슈 - 프라임 타임</em></p></td>
 <td><p>보이드의 앵귀시드 언메이킹<br />
 슬램의 1950<br />
@@ -2421,20 +2507,20 @@ DM 아슈라의 어나이얼레이터 메소드<br />
 <td><p>1.05.0 추가</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>맴매 - 파이어 누들 챌린지</em></p></td>
 <td><p>차이니즈 레스토랑<br />
 탄탄멘</p></td>
 <td><p>2.02.0 추가</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>카테고리</p></td>
 <td><p>곡제목</p></td>
 <td><p>수록곡</p></td>
 <td><p>비고</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2694,16 +2780,21 @@ DM 아슈라의 어나이얼레이터 메소드<br />
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>맥스 - 아이 원트 유</strong></p></td>
+<td><p>2.03.0 추가</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>큐리 - 포세이돈</strong></p></td>
 <td><p>1.03.0 추가</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><em>SHK - 스위트로닉</em></p></td>
 <td><p>2.01.0 추가</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>카테고리</p></td>
 <td><p>곡제목</p></td>
 <td><p>비고</p></td>
@@ -2755,30 +2846,36 @@ DM 아슈라의 어나이얼레이터 메소드<br />
 18.
 19.
 20.
-21.
-22. 인피니티 곡들 중 XX에서 수록된 곡은 12곡이다. 피에스타2와 동시에 수록된 7개의 곡들 중 반야 리믹스 3곡과 엘리제는 오리지널 곡으로 설정하고 있다. XX에서는 인핸스 리얼리티만 삭제되었다.
+21. 인피니티 곡들 중 XX에서 현재 수록된 곡은 13곡이다. 피에스타2와 동시에 수록된 7개의 곡들 중 반야 리믹스 3곡과 엘리제는 오리지널 곡으로 설정하고 있다. XX에서는 인핸스 리얼리티만 삭제되었다. XX에서 추가된 곡은 2.04.0 추가곡인 바로크 바이러스 풀송 뿐이다. 약간 편집된 인피니티 때와는 달리 무편집 그대로 수록하였다.
+22.
 23.
 24.
 25.
 26.
 27.
 28.
-29.
-30. 허쉬는 프라임2 당시 필리핀에서만 수록되었던 곡으로 XX에서는 세계에서도 정식으로 수록되었다.
+29. 허쉬는 프라임2 당시 필리핀에서만 수록되었던 곡으로 XX에서는 세계에서도 정식으로 수록되었다.
+30.
 31.
-32.
-33. NX에 수록된 애플잼의 스노우 드림의 원곡
-34.
-35. 2.01.0 패치 이전에 먼저 [펌프 잇 업 M에](https://ko.wikipedia.org/wiki/펌프_잇_업_M "wikilink") 선행 출연한 오리지널 곡.
-36.
-37. 2.02.0 패치 이전에 먼저 [펌프 잇 업 M에](https://ko.wikipedia.org/wiki/펌프_잇_업_M "wikilink") 선행 출연한 오리지널 곡.
-38. 1.05.0 패치 이전에 먼저 [펌프 잇 업 M에](https://ko.wikipedia.org/wiki/펌프_잇_업_M "wikilink") 선행 출연한 오리지널 곡.
-39.
+32. NX에 수록된 애플잼의 스노우 드림의 원곡
+33.
+34. 2.01.0 패치 이전에 먼저 [펌프 잇 업 M에](https://ko.wikipedia.org/wiki/펌프_잇_업_M "wikilink") 선행 출연한 오리지널 곡.
+35.
+36. 2.02.0 패치 이전에 먼저 [펌프 잇 업 M에](https://ko.wikipedia.org/wiki/펌프_잇_업_M "wikilink") 선행 출연한 오리지널 곡.
+37. 2.03.0 패치 이전에 먼저 [펌프 잇 업 M에](https://ko.wikipedia.org/wiki/펌프_잇_업_M "wikilink") 선행 출연한 오리지널 곡.
+38.
+39. 1.05.0 패치 이전에 먼저 [펌프 잇 업 M에](https://ko.wikipedia.org/wiki/펌프_잇_업_M "wikilink") 선행 출연한 오리지널 곡.
 40.
 41.
-42. 1st에서 수록된 동명곡은 반야가 편집한 편곡으로 XX에서는 원곡 그대로 편집하여 수록한다.
-43.
+42.
+43. 2.04.0 패치 이전에 먼저 [펌프 잇 업 M에](https://ko.wikipedia.org/wiki/펌프_잇_업_M "wikilink") 선행 출연한 오리지널 곡.
 44.
 45.
-46.
+46. 1st에서 수록된 동명곡은 반야가 편집한 편곡으로 XX에서는 원곡 그대로 편집하여 수록한다.
 47.
+48.
+49.
+50.
+51.
+52.
+53.

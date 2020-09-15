@@ -69,6 +69,8 @@
 12. "Your Song" – 3:58
 13. "[The Bitch Is Back](https://ko.wikipedia.org/wiki/The_Bitch_Is_Back "wikilink")" – 4:23
 
+## 각주
+
 ## 외부 링크
 
 [분류:1976년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1976년_라이브_음반 "wikilink") [분류:엘튼 존의 라이브 음반](https://ko.wikipedia.org/wiki/분류:엘튼_존의_라이브_음반 "wikilink")

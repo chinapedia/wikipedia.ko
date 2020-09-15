@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PMC: 더 벙커](https://ko.wikipedia.org/wiki/PMC:_더_벙커).
 
 
-《**PMC: 더 벙커**》는 2018년에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다. 《[더 테러 라이브](../Page/더_테러_라이브.md "wikilink")》의 [김병우](https://ko.wikipedia.org/wiki/김병우_\(영화_감독\) "wikilink") 감독 연출작이며, [하정우](../Page/하정우.md "wikilink"), [이선균](../Page/이선균.md "wikilink"), [제니퍼 일리](https://ko.wikipedia.org/wiki/제니퍼_일리 "wikilink"), [케빈 듀랜드가](https://ko.wikipedia.org/wiki/케빈_듀랜드 "wikilink") 출연하였다.
+《**PMC: 더 벙커**(PMC: The Bunker/Take Point)》는 2018년에 개봉한 [대한민국의](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 영화이다. 《[더 테러 라이브](../Page/더_테러_라이브.md "wikilink")》의 [김병우](https://ko.wikipedia.org/wiki/김병우_\(영화_감독\) "wikilink") 감독 연출작이며, [하정우](../Page/하정우.md "wikilink"), [이선균](../Page/이선균.md "wikilink"), [제니퍼 일리](https://ko.wikipedia.org/wiki/제니퍼_일리 "wikilink"), [케빈 듀랜드가](https://ko.wikipedia.org/wiki/케빈_듀랜드 "wikilink") 출연하였다.
 
 ## 캐스팅
 

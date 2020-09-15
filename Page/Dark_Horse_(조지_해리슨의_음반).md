@@ -11,6 +11,8 @@
 
 모든 곡들은 특별한 언급이 없는 한 [조지 해리슨에](../Page/조지_해리슨.md "wikilink") 의해 작사/작곡하였다.
 
+## 각주
+
 ## 외부 링크
 
 [분류:1974년 음반](https://ko.wikipedia.org/wiki/분류:1974년_음반 "wikilink") [분류:조지 해리슨의 음반](https://ko.wikipedia.org/wiki/분류:조지_해리슨의_음반 "wikilink") [분류:애플 레코드 음반](https://ko.wikipedia.org/wiki/분류:애플_레코드_음반 "wikilink")

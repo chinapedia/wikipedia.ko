@@ -46,14 +46,14 @@
 | [강원영동CBS](../Page/기독교강원영동방송.md "wikilink") | CBS 노컷뉴스 강원영동     | 전진, 최진성            |
 | [청주CBS](../Page/기독교청주방송.md "wikilink")     | CBS 노컷뉴스 충북       | 이한솔, 최영실           |
 | [대전CBS](../Page/기독교대전방송.md "wikilink")     | CBS 노컷뉴스 대전 세종 충남 | 서경희, 이태헌, 한정혜      |
-| [전북CBS](../Page/기독교전북방송.md "wikilink")     | CBS 노컷뉴스 전북권      | 양송희, 유연수, 임경희      |
-| [광주CBS](../Page/기독교광주방송.md "wikilink")     | CBS 노컷뉴스 광주·전남    | 곽다슬, 서수현, 정정섭      |
-| [전남CBS](../Page/기독교전남방송.md "wikilink")     | CBS 노컷뉴스 전남동부권    | 유영주, 임종훈           |
-| [대구CBS](../Page/기독교대구방송.md "wikilink")     | CBS 노컷뉴스 대구·경북    | 지영애                |
-| [포항CBS](../Page/기독교포항방송.md "wikilink")     | CBS 노컷뉴스 포항       | 유상원                |
-| [부산CBS](../Page/기독교부산방송.md "wikilink")     | CBS 노컷뉴스 부산       | 김정현, 김주현, 장문상, 정희경 |
+| [전북CBS](../Page/기독교전북방송.md "wikilink")     | CBS 노컷뉴스 전북권      | 양송희, 유연수           |
+| [광주CBS](../Page/기독교광주방송.md "wikilink")     | CBS 노컷뉴스 광주·전남    | 서수현, 정정섭, 한선미      |
+| [전남CBS](../Page/기독교전남방송.md "wikilink")     | CBS 노컷뉴스 전남동부권    | 안효경, 이진선, 임종훈      |
+| [대구CBS](../Page/기독교대구방송.md "wikilink")     | CBS 노컷뉴스 대구·경북    | 김나영, 박준상, 이현정, 지영애 |
+| [포항CBS](../Page/기독교포항방송.md "wikilink")     | CBS 노컷뉴스 포항       | 유상원, 김유정           |
+| [부산CBS](../Page/기독교부산방송.md "wikilink")     | CBS 노컷뉴스 부산       | 김정현, 장문상, 정희경      |
 | [울산CBS](../Page/기독교울산방송.md "wikilink")     | CBS 노컷뉴스 울산       | 김유리                |
-| [경남CBS](../Page/기독교경남방송.md "wikilink")     | CBS 노컷뉴스 경남       | 정혜영                |
+| [경남CBS](../Page/기독교경남방송.md "wikilink")     | CBS 노컷뉴스 경남       | 이윤상, 최태경           |
 | [제주CBS](../Page/기독교제주방송.md "wikilink")     | CBS 노컷뉴스 제주       | 류도성, 박혜진           |
 
 ## 같이 보기

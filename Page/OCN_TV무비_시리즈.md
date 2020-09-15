@@ -28,7 +28,7 @@
   - 《[삼인삼색](https://ko.wikipedia.org/wiki/삼인삼색 "wikilink")》 : 2008년 1월 17일 \~ 2008년 1월 31일
   - 《[유혹의 기술](https://ko.wikipedia.org/wiki/유혹의_기술 "wikilink")》 : 2008년 3월 28일 \~ 2008년 4월 18일
   - 《[코믹배틀 장감독 vs 김감독](https://ko.wikipedia.org/wiki/코믹배틀_장감독_vs_김감독 "wikilink")》 : 2008년 5월 9일
-  - 《[과거를 묻지 마세요](https://ko.wikipedia.org/wiki/과거를_묻지_마세요 "wikilink")》 : 2008년 5월 17일 \~ 2008년 6월 8일
+  - 《[과거를 묻지 마세요](https://ko.wikipedia.org/wiki/과거를_묻지_마세요_\(2008년_영화\) "wikilink")》 : 2008년 5월 17일 \~ 2008년 6월 8일
   - 《[경성 기방 영화관](https://ko.wikipedia.org/wiki/경성_기방_영화관 "wikilink")》 : 2008년 5월 17일 \~ 2008년 6월 14일 (10부작)
   - 《[여사부일체](https://ko.wikipedia.org/wiki/여사부일체 "wikilink")》 : 2008년 9월 19일 \~ 2008년 11월 7일
   - 《[천일야화 2](https://ko.wikipedia.org/wiki/천일야화_2 "wikilink")》 : 2008년 10월 13일 \~ 2008년 11월 4일

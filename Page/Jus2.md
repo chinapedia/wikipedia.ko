@@ -19,8 +19,6 @@
 | ----------------------------------------------------- | ---------- | ------ | ------------------------------------- | ------------ | ---------------------------------------------- |
 | [2019](https://ko.wikipedia.org/wiki/2019 "wikilink") | 2019.03.05 | Jus2   | [EP](../Page/익스텐디드_플레이.md "wikilink") | 《FOCUS》\[1\] | [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") |
 
-## 각주
-
 [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:남성 듀오](https://ko.wikipedia.org/wiki/분류:남성_듀오 "wikilink") [분류:GOT7](https://ko.wikipedia.org/wiki/분류:GOT7 "wikilink")
 
 1.

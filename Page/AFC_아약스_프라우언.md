@@ -10,6 +10,6 @@
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.ajax.nl/teams/ajax-vrouwen.htm)
+  - [공식 웹사이트](https://web.archive.org/web/20170704235056/http://www.ajax.nl/teams/ajax-vrouwen.htm)
 
 [AFC_아약스_프라우언](https://ko.wikipedia.org/wiki/분류:AFC_아약스_프라우언 "wikilink") [분류:2012년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2012년_설립된_축구단 "wikilink") [분류:AFC 아약스](https://ko.wikipedia.org/wiki/분류:AFC_아약스 "wikilink") [분류:네덜란드의 여자 축구단](https://ko.wikipedia.org/wiki/분류:네덜란드의_여자_축구단 "wikilink")

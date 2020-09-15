@@ -1,36 +1,68 @@
 > This article is converted from Wikipedia: [벨기에 퍼스트 디비전 B](https://ko.wikipedia.org/wiki/벨기에_퍼스트_디비전_B).
 
 
-**벨기에 2부 리그**는 [벨기에](../Page/벨기에.md "wikilink")의 축구 리그다.
+**벨기에 퍼스트 디비전 B**는 벨기에의 2부 리그로 [주필러 프로 리그의](../Page/벨기에_퍼스트_디비전_A.md "wikilink") 하위 리그이다. 공식적으로는 프록시무스 리그(Proximus League)로 불리고 있다.
 
-## 개요
+## 역사
 
-  - **리그명**: Proximus Pro League B
-  - **설립연도**: 1905년
-  - **참가클럽수**: 8개
-  - **시즌기간**: 8월\~다음해 5월
-  - **이적기간**: 1월, 7\~8월
+벨기에의 프로팀이 24개팀으로 감소하면서 [벨기에 왕립 축구 협회는](../Page/벨기에_왕립_축구_협회.md "wikilink") [2016년](../Page/2016년.md "wikilink")에 [벨기에 2부 리그를](https://ko.wikipedia.org/wiki/벨기에_2부_리그 "wikilink") 재정비해서 8개팀이 참가하는 새로운 리그를 신설했다.
 
-## 정규시즌
+## 구성
 
-  - **리그진행** (15-16시즌 까지)
-      - 2부 리그 18개 구단이 팀 당 2경기 씩 34라운드 소화
-      - 정규 시즌 최종 우승자는 1부 리그 직행 (1, 2, 3 Period 기록 합산)
-  - **특이사항**
-      - 1 Period (1 \~ 10라운드), 2 Period (11 \~ 22라운드), 3 Period (23 \~ 34라운드)의 우승자를 각각 뽑음
-      - 각 Period가 시작할 때는 이전 Period의 기록 초기화
-      - 각 Period의 우승자 3팀과 1부 리그 Relegation Playoff 승자 총 4개 팀이 최종 승격라운드 진행
-      - Period 우승자와 정규 시즌 최종 우승자 중복될 때에는 최종 순위 결과가 높은 팀에게 승격라운드 진출 기회를 부여
+프록시무스 리그는 2번의 라운드로 나누어 경기하는데 각각의 라운드마다 8개팀이 홈&어웨이 방식으로 2번씩 경기를 가지는 방식으로 라운드마다 14경기씩 총 28경기를 가지며 각 라운드 1위팀이 승격 플레이오프를 가져 승격팀을 결정한다. 만약 각 라운드 1위팀이 동일할 경우에는 승격 플레이오프없이 1위팀이 승격한다.
 
-## 용병규정
+2018-19 시즌까지 승격팀을 제외한 상위 3개팀은 [프로 리그의](../Page/벨기에_퍼스트_디비전_A.md "wikilink") 7\~15위팀과 [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink") 예선전 진출팀을 결정하는 플레이오프에 진출했고 나머지 4개팀이 강등 플레이오프를 가졌지만 2019년부터 승격팀을 포함해서 상위 6개팀이 모두 플레이오프에 진출하고 나머지 2개팀은 강등 플레이오프로 떨어져 5경기를 하며 강등팀을 결정한다.
 
-  - **개요**
-      - 국적에 따른 보유 한도 제한 없음
-  - **특징**
-      - 2012/2013시즌 프로 리그(1부)에 등록된 외국인 선수는 217명으로 내국인 216명을 처음으로 앞지름
-      - 2013/2014시즌 프로 리그(1부)에 등록된 외국인 선수는 225명 (49.8%, 총 선수 451명), 출신 국가는 63개국
-      - 2013/2014시즌 2부 리그에 등록된 외국인 선수는 163명 (32.7%, 총 선수 514명), 출신 국가는 43개국
-  - **선수체류**
-      - 프로운동선수로 비자를 받아 적법하게 장기 체류 가능 (B외국인 신분증)
+## 역대 우승팀
 
-[분류:벨기에의 축구 리그](https://ko.wikipedia.org/wiki/분류:벨기에의_축구_리그 "wikilink") [분류:1909년 설립된 스포츠 리그](https://ko.wikipedia.org/wiki/분류:1909년_설립된_스포츠_리그 "wikilink")
+<table>
+<thead>
+<tr class="header">
+<th><p>시즌</p></th>
+<th><p>전반기 우승팀</p></th>
+<th><p>후반기 우승팀</p></th>
+<th><p>승격 플레이오프 승리팀</p></th>
+<th><p>강등</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2016–17</p></td>
+<td><p><a href="../Page/KSV_루셀라레.md" title="wikilink">루셀라레</a></p></td>
+<td><p><a href="../Page/로열_앤트워프_FC.md" title="wikilink">앤트워프</a></p></td>
+<td><p><strong><a href="../Page/로열_앤트워프_FC.md" title="wikilink">앤트워프</a></strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/로멀_SK" title="wikilink">로멀</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2017–18</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/K_베이르스호트_VA" title="wikilink">베이르스호트</a></p></td>
+<td><p><a href="../Page/세르클러_브뤼허_KSV.md" title="wikilink">세르클러 브뤼허</a></p></td>
+<td><p><strong><a href="../Page/세르클러_브뤼허_KSV.md" title="wikilink">세르클러 브뤼허</a></strong></p></td>
+<td><p>없음 [1]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018–19</p></td>
+<td><p><a href="../Page/KV_메헬렌.md" title="wikilink">메헬렌</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/K_베이르스호트_VA" title="wikilink">베이르스호트</a></p></td>
+<td><p><strong><a href="../Page/KV_메헬렌.md" title="wikilink">메헬렌</a></strong></p></td>
+<td><p><a href="../Page/AFC_튀비즈.md" title="wikilink">튀비즈</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2019-20</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/OH_뢰번" title="wikilink">뢰번</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/K_베이르스호트_VA" title="wikilink">베이르스호트</a></p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/K_베이르스호트_VA" title="wikilink">베이르스호트</a></strong> [2]</p></td>
+<td><p><a href="../Page/KSV_루셀라레.md" title="wikilink">루셀라레</a><br />
+<a href="https://ko.wikipedia.org/wiki/로얄_엑셀시오르_비르통" title="wikilink">비르통</a><br />
+<a href="../Page/KSC_로케런.md" title="wikilink">로케런</a>[3]</p></td>
+</tr>
+</tbody>
+</table>
+
+## 각주
+
+[분류:유럽의 축구 2부 리그](https://ko.wikipedia.org/wiki/분류:유럽의_축구_2부_리그 "wikilink") [분류:2016년 설립된 스포츠 리그](https://ko.wikipedia.org/wiki/분류:2016년_설립된_스포츠_리그 "wikilink") [분류:벨기에의 축구 리그](https://ko.wikipedia.org/wiki/분류:벨기에의_축구_리그 "wikilink")
+
+1.  [튀비즈가](../Page/AFC_튀비즈.md "wikilink") 강등 예정이었지만 [리르서가](../Page/리르서_SK.md "wikilink") 파산으로 구단이 해체되면서 그대로 잔류하게 되었다.
+2.  [코로나 범유행으로](https://ko.wikipedia.org/wiki/벨기에의_코로나19_범유행 "wikilink") 리그를 4월에 조기 종료하면서 당시 순위에 따라 [주필러 프로리그에서](../Page/벨기에_퍼스트_디비전_A.md "wikilink") 강등 예정이었던 [바슬란트-베베런](../Page/바슬란트-베베런.md "wikilink")이 소송을 제기해 승소하면서 참가팀 수를 맞추기 위해 [베이르스호트와](https://ko.wikipedia.org/wiki/K_베이르스호트_VA "wikilink") [뢰번이](https://ko.wikipedia.org/wiki/OH_뢰번 "wikilink") 모두 승격했다.
+3.  [코로나 범유행으로](https://ko.wikipedia.org/wiki/벨기에의_코로나19_범유행 "wikilink") 강등 없이 다음 시즌이 진행될 예정이었지만 [루셀라레와](../Page/KSV_루셀라레.md "wikilink") [비르통은](https://ko.wikipedia.org/wiki/로얄_엑셀시오르_비르통 "wikilink") 채무이행을 위한 마땅한 계획을 내놓지 못하며 프로 축구 자격을 박탈당해 강등되었다. [로케런은](../Page/KSC_로케런.md "wikilink") 파산으로 구단이 해체되었다.

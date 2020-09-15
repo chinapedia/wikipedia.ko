@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1984년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1984년_CONCACAF_챔피언스컵).
 
 
-**1984년 CONCACAF 챔피언스컵**(1984 CONCACAF Champions' Cup)은 [1984년](../Page/1984년.md "wikilink") [3월 15일부터](../Page/3월_15일.md "wikilink") [10월 21일까지](../Page/10월_21일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 20번째 대회이다. [아이티](../Page/아이티.md "wikilink")의 [비올레트가](https://ko.wikipedia.org/wiki/비올레트_AC "wikilink") 우승을 차지했다.
+**1984년 CONCACAF 챔피언스컵**(1984 CONCACAF Champions' Cup)은 [1984년](../Page/1984년.md "wikilink") [3월 15일부터](../Page/3월_15일.md "wikilink") [10월 21일까지](../Page/10월_21일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 20번째 대회이다. [아이티](../Page/아이티.md "wikilink")의 [비올레트가](https://ko.wikipedia.org/wiki/비올레트_AC "wikilink") 우승을 차지했다.
 
 ## 북아메리카-중앙아메리카 지역 예선
 

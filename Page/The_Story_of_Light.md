@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Story of Light](https://ko.wikipedia.org/wiki/The_Story_of_Light).
 
 
-**The Story of Light**(더 스토리 오브 라이트)는 2018년 발매된 대한민국의 보이 그룹 [샤이니](../Page/샤이니.md "wikilink")의 여섯 번째 정규 음반이자 10주년 음반이다. 세 장의 미니 음반과 한 장의 통합본으로 나누어 발매되었다.
+**The Story of Light**(더 스토리 오브 라이트)는 2018년 발매된 대한민국의 보이 그룹 [샤이니](../Page/샤이니.md "wikilink")의 여섯 번째 정규 음반이자 10주년 음반이다. 세 장의 미니 음반과 한 장의 통합본으로 나누어 발매되었다. [종현](../Page/종현.md "wikilink")의 사망 이후 샤이니 4인조의 첫번째 앨범이다.
 
 ## 트랙 리스트
 

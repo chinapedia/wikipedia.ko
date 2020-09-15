@@ -63,7 +63,7 @@
 
   - [KNN 뉴스와 건강 공식 홈페이지](http://www.knn.co.kr/category/news/newshealth)
 
-[분류:KNN의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_텔레비전_프로그램 "wikilink") [분류:KNN의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_뉴스_텔레비전_프로그램 "wikilink")
+[분류:KNN의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_뉴스_텔레비전_프로그램 "wikilink")
 
-1.  [황범](https://ko.wikipedia.org/wiki/황범 "wikilink") 아나운서(現. 평일 [KNN 뉴스아이](../Page/KNN_뉴스아이.md "wikilink") 앵커)는 PSB 뉴스투데이 진행한 지 1년 만에 KNN 뉴스투데이 재진행.
-2.  [이해리](https://ko.wikipedia.org/wiki/이해리_\(아나운서\) "wikilink") 아나운서의 휴가로 인하여, 2017년 7월 3일 \~ 2017년 7월 7일, 2018년 12월 19일 \~ 2018년 12월 24일 방송분은 [KNN 뉴스와 생활경제의](https://ko.wikipedia.org/wiki/KNN_뉴스와_생활경제 "wikilink") 앵커인 정희정 아나운서가 대신 진행했다.
+1.  [황범](https://ko.wikipedia.org/wiki/황범 "wikilink") 아나운서(現. [KNN 모닝와이드](../Page/KNN_모닝와이드.md "wikilink") 앵커)는 PSB 뉴스투데이 진행한 지 1년 만에 KNN 뉴스투데이 재진행.
+2.  [이해리](https://ko.wikipedia.org/wiki/이해리_\(아나운서\) "wikilink") 아나운서(現. [KNN 날씨와 건강](../Page/KNN_날씨와_건강.md "wikilink") 진행자)의 휴가로 인하여, 2017년 7월 3일 \~ 2017년 7월 7일, 2018년 12월 19일 \~ 2018년 12월 24일 방송분은 [KNN 뉴스와 생활경제의](https://ko.wikipedia.org/wiki/KNN_뉴스와_생활경제 "wikilink") 앵커인 정희정 아나운서가 대신 진행했다.

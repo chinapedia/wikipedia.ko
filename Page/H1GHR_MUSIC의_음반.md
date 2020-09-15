@@ -5,6 +5,8 @@
 
 ## 2010년대
 
+### 2017년
+
   - 2017년 5월 28일 [Sik-K](https://ko.wikipedia.org/wiki/Sik-K "wikilink") - **\[Digital Single\] Fly**\[1\]
   - 2017년 6월 5일 Sik-K - **H.A.L.F (Have.A.Little.Fun)**
   - 2017년 6월 27일 [G.Soul](../Page/G.Soul.md "wikilink") - **\[Digital Single\] Tequila**
@@ -20,6 +22,9 @@
   - 2017년 11월 17일 그루비룸 - **\[Digital Single\] NELL X GROOVYROOM**\[4\]
   - 2017년 12월 15일 [Woodie Gochild](https://ko.wikipedia.org/wiki/Woodie_Gochild "wikilink") - **\[Digital Single\] 레츠기릿 (Let's Get It)**
   - 2017년 12월 25일 G.Soul - **\[Digital Single\] I\`ll Be There**
+
+### 2018년
+
   - 2018년 1월 12일 Woodie Gochild - **\[Digital Single\] Muse**
   - 2018년 1월 15일 Sik-K - **\[Digital Single\] 마음이 Choppy**
   - 2018년 1월 19일 Sik-K - **\[Digital Single\] TRAPART**
@@ -57,6 +62,9 @@
   - 2018년 12월 5일 Avatar Darko - **Truly Unruly**
   - 2018년 12월 9일 Woogie - **\[Digital Single\] 웰컴 투 서울**
   - 2018년 12월 16일 Woogie - **Rewind My Tape Part.2**
+
+### 2019년
+
   - 2019년 1월 18일 HAON - **\[Digital Single\] 꽃**
   - 2019년 1월 29일 그루비룸 - **\[Digital Single\] This Night**
   - 2019년 2월 13일 Sik-K - **\[Digital Single\] Addict**\[11\]
@@ -96,7 +104,9 @@
   - 2019년 12월 11일 Golden - **Hate Everything**
   - 2019년 12월 23일 Big Naughty - **\[Digital Single\] 휴(休)**
 
-## 2020년 \~ 2022년
+## 2020년대
+
+### 2020년
 
   - 2020년 1월 9일 pH-1 - **\[Digital Single\] Nerdy Love**
   - 2020년 1월 18일 Big Naughty - **\[Digital Single\] 투유 프로젝트 - 슈가맨3 Part.6**\[25\]
@@ -107,6 +117,14 @@
   - 2020년 5월 20일 Woogie - **\[Digital Single\] Fantasy.1**
   - 2020년 5월 28일 pH-1 - **\[Digital Single\] Tell Ya\!**
   - 2020년 5월 31일 그루비룸 - **\[Digital Single\] find your light : Burn \#2**
+  - 2020년 6월 4일 Sik-K,pH-1,김하온 - **\[Digital Single\] 깡 리믹스**\[26\]
+  - 2020년 6월 11일 Sik-K - **Headliner**
+  - 2020년 6월 11일 Big Naughty - **영혼수선공 OST Part.6**\[27\]
+  - 2020년 6월 27일 Sik-K - **Headliner (Deluxe)**
+  - 2020년 7월 4일 그루비룸 - **\[Digital Single\] find your light : Daylight \#3**
+  - 2020년 8월 28일 그루비룸 - **\[Digital Single\] find your light : FYL \#4**
+  - 2020년 9월 2일 하이어뮤직 - **RED TAPE: H1GHR**
+  - 2020년 9월 16일 하이어뮤직 - **BLUE TAPE: H1GHR**
 
 ## 각주
 
@@ -137,3 +155,5 @@
 23. [마마무](../Page/마마무.md "wikilink")의 멤버 [화사](../Page/화사.md "wikilink")도 앨범 참여.
 24. [기린](../Page/기린_\(가수\).md "wikilink"),[Sogumm](https://ko.wikipedia.org/wiki/Sogumm "wikilink"),[Meloh](https://ko.wikipedia.org/wiki/Meloh "wikilink"),[오사마리](https://ko.wikipedia.org/wiki/오사마리 "wikilink")도 앨범 참여.
 25. [권진아](https://ko.wikipedia.org/wiki/권진아 "wikilink"),[EXID](../Page/EXID.md "wikilink")의 멤버 [솔지](../Page/솔지.md "wikilink")도 앨범 참여.
+26. [2PM](https://ko.wikipedia.org/wiki/2PM "wikilink")의 전 멤버 [박재범](../Page/박재범.md "wikilink")도 앨범에 참여.
+27. [신하균](https://ko.wikipedia.org/wiki/신하균 "wikilink")도 앨범 참여.

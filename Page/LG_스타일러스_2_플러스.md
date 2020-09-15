@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG 스타일러스 2 플러스](https://ko.wikipedia.org/wiki/LG_스타일러스_2_플러스).
 
 
-**LG 스타일러스 2 플러스**는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink"), 글로벌 출시한 [패블릿](../Page/패블릿.md "wikilink") 중저가형 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [LG 스타일러스 2의](../Page/LG_스타일러스_2.md "wikilink") 성과가 좋아서 출시된 기종으로, 성능이 대폭 향상되었다. [미국](../Page/미국.md "wikilink") 버전과 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink"), [인도](../Page/인도.md "wikilink") 버전의 사양이 약간 다르다. [미국](../Page/미국.md "wikilink") 버전은 후면에 [지문](../Page/지문.md "wikilink") 인식 센서가 있는 반면 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")과 [인도](../Page/인도.md "wikilink") 버전은 전면 [LED](https://ko.wikipedia.org/wiki/LED "wikilink") 플래시가 탑재되어 있다.
+**LG 스타일러스 2 플러스**는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink"), 글로벌 출시한 [패블릿](../Page/패블릿.md "wikilink") 중저가형 [스마트폰](../Page/스마트폰.md "wikilink")이다.\[1\] [LG 스타일러스 2의](../Page/LG_스타일러스_2.md "wikilink") 성과가 좋아서 출시된 기종으로, 성능이 대폭 향상되었다. [미국](../Page/미국.md "wikilink") 버전과 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink"), [인도](../Page/인도.md "wikilink") 버전의 사양이 약간 다르다. [미국](../Page/미국.md "wikilink") 버전은 후면에 [지문](../Page/지문.md "wikilink") 인식 센서가 있는 반면 [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")과 [인도](../Page/인도.md "wikilink") 버전은 전면 [LED](https://ko.wikipedia.org/wiki/LED "wikilink") 플래시가 탑재 되어있다.
 
 ## 운영 체제 / 소프트웨어
 

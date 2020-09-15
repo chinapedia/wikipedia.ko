@@ -11,7 +11,7 @@
 
 ## 곡 목록
 
-[로니 우드와](../Page/로니_우드.md "wikilink") 공동 작사/작곡한 〈Black Limousine〉과 〈No Use in Crying〉을 제외하고, 모든 곡들은 [믹 재거와 키스 리처즈가](https://ko.wikipedia.org/wiki/재거/리처즈 "wikilink") 작사/작곡하였다.
+[로니 우드와](../Page/로니_우드.md "wikilink") 공동 작사/작곡한 〈Black Limousine〉과 〈No Use in Crying〉을 제외하고, 모든 곡들은 [믹 재거와 키스 리처즈에](https://ko.wikipedia.org/wiki/재거/리처즈 "wikilink") 의해 작사/작곡하였다.
 
 ## 각주
 

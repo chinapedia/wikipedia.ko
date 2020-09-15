@@ -32,7 +32,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/천이신" title="wikilink">천이신</a></p></td>
+<td><p>천이신</p></td>
 <td><p>Chen YiXin</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -41,7 +41,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다이쯔옌" title="wikilink">다이쯔옌</a></p></td>
+<td><p>다이쯔옌</p></td>
 <td><p>Dai ZiYan</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -50,7 +50,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/둥팡츠" title="wikilink">둥팡츠</a></p></td>
+<td><p>둥팡츠</p></td>
 <td><p>Dong FangChi</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -59,7 +59,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/관톈톈" title="wikilink">관톈톈</a></p></td>
+<td><p>관톈톈</p></td>
 <td><p>Guan TianTian</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -68,7 +68,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리스치" title="wikilink">리스치</a></p></td>
+<td><p>리스치</p></td>
 <td><p>Li ShiQi</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -77,7 +77,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/류녠" title="wikilink">류녠</a></p></td>
+<td><p>류녠</p></td>
 <td><p>Liu Nian</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -86,7 +86,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong></strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/마오웨이자" title="wikilink">마오웨이자</a></strong></p></td>
+<td><p><strong>마오웨이자</strong></p></td>
 <td><p><strong>Mao WeiJia</strong></p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>1기</strong></p></td>
@@ -96,7 +96,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/선잉" title="wikilink">선잉</a></p></td>
+<td><p>선잉</p></td>
 <td><p>Shen Ying</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -105,7 +105,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스커옌" title="wikilink">스커옌</a></p></td>
+<td><p>스커옌</p></td>
 <td><p>Shi KeYan</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -123,7 +123,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/완팡저우" title="wikilink">완팡저우</a></p></td>
+<td><p>완팡저우</p></td>
 <td><p>Wan FangZhou</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -132,7 +132,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/왕위둬" title="wikilink">왕위둬</a></p></td>
+<td><p>왕위둬</p></td>
 <td><p>Wang YuDuo</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -141,7 +141,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/웨이신_(SNH48)" title="wikilink">웨이신</a></p></td>
+<td><p>웨이신</p></td>
 <td><p>Wei Xin</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -150,7 +150,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우안치" title="wikilink">우안치</a></p></td>
+<td><p>우안치</p></td>
 <td><p>Wu AnQi</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -159,7 +159,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/예즈언" title="wikilink">예즈언</a></p></td>
+<td><p>예즈언</p></td>
 <td><p>Ye ZhiEn</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -168,7 +168,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/위안루이시" title="wikilink">위안루이시</a></p></td>
+<td><p>위안루이시</p></td>
 <td><p>Yuan RuiXi</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -177,16 +177,16 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/짜이위자" title="wikilink">짜이위자</a></p></td>
+<td><p>짜이위자</p></td>
 <td><p>Zhai YuJia</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>AKB48 (China) Holding Limited</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/저우냥치" title="wikilink">저우냥치</a></p></td>
+<td><p>저우냥치</p></td>
 <td><p>Zhou NianQi</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -195,7 +195,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/주링" title="wikilink">주링</a></p></td>
+<td><p>주링</p></td>
 <td><p>Zhu Ling</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -204,7 +204,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/좡샤오티" title="wikilink">좡샤오티</a></p></td>
+<td><p>좡샤오티</p></td>
 <td><p>Zhuang XiaoTi</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -240,7 +240,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/청안쯔" title="wikilink">청안쯔</a></p></td>
+<td><p>청안쯔</p></td>
 <td><p>Cheng Anzi</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -249,7 +249,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/궁루원" title="wikilink">궁루원</a></p></td>
+<td><p>궁루원</p></td>
 <td><p>Gong Luwen</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -258,7 +258,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/구이추추" title="wikilink">구이추추</a></p></td>
+<td><p>구이추추</p></td>
 <td><p>Gui Chuchu</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -267,7 +267,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후신인" title="wikilink">후신인</a></p></td>
+<td><p>후신인</p></td>
 <td><p>Hu Xinyin</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -276,7 +276,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/젠창웨이" title="wikilink">젠창웨이</a></p></td>
+<td><p>젠창웨이</p></td>
 <td><p>Jian Qiangwei</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -285,7 +285,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쿵커신" title="wikilink">쿵커신</a></p></td>
+<td><p>쿵커신</p></td>
 <td><p>Kong Kexin</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -294,7 +294,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리위먀오" title="wikilink">리위먀오</a></p></td>
+<td><p>리위먀오</p></td>
 <td><p>Li Yumiao</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -303,7 +303,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리사_(AKB48_Team_SH)" title="wikilink">리사</a></p></td>
+<td><p>리사</p></td>
 <td><p>Lisha</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -312,7 +312,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/량스안" title="wikilink">량스안</a></p></td>
+<td><p>량스안</p></td>
 <td><p>Liang Shian</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -321,7 +321,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/류류" title="wikilink">류류</a></p></td>
+<td><p>류류</p></td>
 <td><p>Liu Liu</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -330,7 +330,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/판추이" title="wikilink">판추이</a></p></td>
+<td><p>판추이</p></td>
 <td><p>Pan Qiuyi</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -339,7 +339,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/푸즈잉" title="wikilink">푸즈잉</a></p></td>
+<td><p>푸즈잉</p></td>
 <td><p>Pu Zhiying</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -348,7 +348,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/스아이베이" title="wikilink">스아이베이</a></p></td>
+<td><p>스아이베이</p></td>
 <td><p>Shi Aibei</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -357,7 +357,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/탄쥔시" title="wikilink">탄쥔시</a></p></td>
+<td><p>탄쥔시</p></td>
 <td><p>Tan Junxi</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -366,7 +366,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/왕위란" title="wikilink">왕위란</a></p></td>
+<td><p>왕위란</p></td>
 <td><p>Wang Yuran</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -375,7 +375,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우이팅" title="wikilink">우이팅</a></p></td>
+<td><p>우이팅</p></td>
 <td><p>Wu Yiting</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -384,7 +384,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/슝팡니" title="wikilink">슝팡니</a></p></td>
+<td><p>슝팡니</p></td>
 <td><p>Xiong Fangni</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -393,7 +393,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쩡쓰춘" title="wikilink">쩡쓰춘</a></p></td>
+<td><p>쩡쓰춘</p></td>
 <td><p>Zeng Sichun</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -402,7 +402,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장첸페이" title="wikilink">장첸페이</a></p></td>
+<td><p>장첸페이</p></td>
 <td><p>Zhang Qianfei</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -411,7 +411,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장차오위" title="wikilink">장차오위</a></p></td>
+<td><p>장차오위</p></td>
 <td><p>Zhang Qiaoyu</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -420,7 +420,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장잉루" title="wikilink">장잉루</a></p></td>
+<td><p>장잉루</p></td>
 <td><p>Zhang Yinglu</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -429,7 +429,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쩌우뤄난" title="wikilink">쩌우뤄난</a></p></td>
+<td><p>쩌우뤄난</p></td>
 <td><p>Zou Ruonan</p></td>
 <td><p>&lt;!--{{출생일과 나이</p></td>
 <td><p>|}}--&gt;</p></td>
@@ -465,7 +465,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/광탄탄" title="wikilink">광탄탄</a></p></td>
+<td><p>광탄탄</p></td>
 <td><p>Guan Tiantian</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -474,7 +474,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/쉬이팅" title="wikilink">쉬이팅</a></p></td>
+<td><p>쉬이팅</p></td>
 <td><p>Xu YiTing</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -483,55 +483,6 @@
 2019년 7월 10일 격하, 활동휴지</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 전 멤버
-
-<table>
-<thead>
-<tr class="header">
-<th><p>이름</p></th>
-<th><p>한글 표기</p></th>
-<th><p>병음 표기</p></th>
-<th><p>생년월일</p></th>
-<th><p>가입기</p></th>
-<th><p>졸업일</p></th>
-<th><p>현재 소속 사무소</p></th>
-<th><p>비고</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/류후이_(SNH48)" title="wikilink">류후이</a></p></td>
-<td><p>Liu Hui</p></td>
-<td><p>12월 18일</p></td>
-<td><p>1기</p></td>
-<td><p>2018년 12월 27일</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/류이한" title="wikilink">류이한</a></p></td>
-<td><p>Liu YiHan</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 <td></td>

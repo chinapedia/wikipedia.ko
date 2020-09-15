@@ -48,6 +48,7 @@
   - 2018년 7월 31일 이든 - **식샤를 합시다 3:비긴즈 OST Part.2**
   - 2018년 8월 21일 태일 - **식샤를 합시다 3:비긴즈 OST Part.5**
   - 2018년 8월 30일 이든,베이빌론 - **\[Digital Single\] Eden_Stardust.04**\[15\]
+  - 2018년 9월 26일 [T2U](../Page/블락비.md "wikilink") - **T2U**
   - 2018년 9월 28일 태일 - **매지컬 OST**
   - 2018년 9월 29일 이든, [Maddox](https://ko.wikipedia.org/wiki/Maddox "wikilink") - **\[Digital Single\] Eden_Stardust.05**
   - 2018년 10월 3일 베이빌론 - **CAELO**
@@ -109,6 +110,13 @@
 
   - 2020년 1월 6일 에이티즈 - **TREASURE EPILOGUE : Action To Answer**
   - 2020년 3월 18일 박경 - **\[Digital Single\] 새로고침**
+  - 2020년 6월 3일 이든 - **\[Digital Single\] EDEN_STARDUST2 vol.01**\[36\]
+  - 2020년 6월 22일 Maddox - **\[Digital Single\] Sleep**
+  - 2020년 6월 30일 베이빌론 - **\[Digital Single\] Nice Weather**
+  - 2020년 7월 17일 박경 - **편의점 샛별이 OST Part.6**\[37\]
+  - 2020년 7월 17일 이든 - **\[Digital Single\] EDEN_STARDUST2 vol.02**\[38\]
+  - 2020년 7월 29일 에이티즈 - **ATEEZ ZERO : FEVER Part.1**
+  - 2020년 8월 24일 이든 - **\[Digital Single\] EDEN_STARDUST2 vol.03**\[39\]
 
 ## 각주
 
@@ -149,3 +157,7 @@
 33. [니화](https://ko.wikipedia.org/wiki/니화 "wikilink")도 앨범 참여.
 34.
 35. [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 멤버 [예리도](../Page/예리_\(가수\).md "wikilink") 앨범 참여.
+36. [서사무엘](../Page/서사무엘.md "wikilink")도 앨범 참여.
+37. [우주소녀](../Page/우주소녀.md "wikilink")의 멤버 [설아](../Page/설아.md "wikilink")도 참여.
+38. [딘딘](../Page/딘딘.md "wikilink")도 앨범 참여.
+39. [지젤도](https://ko.wikipedia.org/wiki/지젤_\(가수\) "wikilink") 앨범 참여.

@@ -27,15 +27,15 @@
 
 이 역에서 갈아탈 수 있는 버스 노선은 아래와 같다.
 
-| 노선  | 종점           | 경유지                          | 비고                                                                   |
-| --- | ------------ | ---------------------------- | -------------------------------------------------------------------- |
-| 35  | 그리핀타운        | Griffintown                  | [플라스생앙리역](https://ko.wikipedia.org/wiki/플라스생앙리역 "wikilink")          |
-| 36  | 몽크           | Monk                         | [앙그리뇽역](../Page/앙그리뇽역.md "wikilink")                                 |
-| 61  | 웰링턴          | Wellington                   | 라살 / 아가일                                                             |
-| 75  | 드라코뮌         | De la Commune                | 스콰르빅토리아-OACI역                                                        |
-| 129 | 코트생트카트린느     | Côte-Sainte-Catherine        | 클랜래널드/ 이사벨라                                                          |
-| 168 | 시테뒤아브르       | Cité-du-Havres               | [맥길역](../Page/맥길역.md "wikilink")                                     |
-| 178 | 푸앵트노르 / 일데쇠르 | Pointe-Nord / Île-des-Soeurs | [루시앙 랄리에역](https://ko.wikipedia.org/wiki/루시앙_랄리에역_\(엑소\) "wikilink") |
+| 노선  | 종점           | 경유지                          | 비고                                                          |
+| --- | ------------ | ---------------------------- | ----------------------------------------------------------- |
+| 35  | 그리핀타운        | Griffintown                  | [플라스생앙리역](https://ko.wikipedia.org/wiki/플라스생앙리역 "wikilink") |
+| 36  | 몽크           | Monk                         | [앙그리뇽역](../Page/앙그리뇽역.md "wikilink")                        |
+| 61  | 웰링턴          | Wellington                   | 라살 / 아가일                                                    |
+| 75  | 드라코뮌         | De la Commune                | 스콰르빅토리아-OACI역                                               |
+| 129 | 코트생트카트린느     | Côte-Sainte-Catherine        | 클랜래널드/ 이사벨라                                                 |
+| 168 | 시테뒤아브르       | Cité-du-Havres               | [맥길역](../Page/맥길역.md "wikilink")                            |
+| 178 | 푸앵트노르 / 일데쇠르 | Pointe-Nord / Île-des-Soeurs | [루시앙 랄리에역](../Page/루시앙_랄리에역_\(엑소\).md "wikilink")           |
 
 ## 각주
 

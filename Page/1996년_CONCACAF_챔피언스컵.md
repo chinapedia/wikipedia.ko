@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1996년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1996년_CONCACAF_챔피언스컵).
 
 
-**1996년 CONCACAF 챔피언스컵**(1996 CONCACAF Champions' Cup)은 [1996년](../Page/1996년.md "wikilink") [3월 9일부터](../Page/3월_9일.md "wikilink") [7월 20일까지](../Page/7월_20일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 32번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술이](../Page/크루스_아술.md "wikilink") 결선 라운드에서 우승을 차지했다.
+**1996년 CONCACAF 챔피언스컵**(1996 CONCACAF Champions' Cup)은 [1996년](../Page/1996년.md "wikilink") [3월 9일부터](../Page/3월_9일.md "wikilink") [7월 20일까지](../Page/7월_20일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 32번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술이](../Page/크루스_아술.md "wikilink") 결선 라운드에서 우승을 차지했다.
 
 ## 북아메리카-중앙아메리카 지역 예선
 

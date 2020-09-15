@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [몬스터 월드 IV](https://ko.wikipedia.org/wiki/몬스터_월드_IV).
 
 
-《**몬스터 월드 IV**》(, )는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")가 발매한 [액션 어드벤처](https://ko.wikipedia.org/wiki/액션_어드벤처_게임 "wikilink") [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink"). [웨스톤 비트 엔터테인먼트가](https://ko.wikipedia.org/wiki/웨스톤_비트_엔터테인먼트 "wikilink") 마지막으로 개발한 《[원더보이/몬스터 월드](../Page/원더보이_\(비디오_게임_시리즈\).md "wikilink")》 게임으로, 1994년 4월 1일 [메가드라이브](https://ko.wikipedia.org/wiki/메가드라이브 "wikilink")로 출시됐다.
+《**몬스터 월드 IV**》(, )는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")가 발매한 [액션 어드벤처](https://ko.wikipedia.org/wiki/액션_어드벤처_게임 "wikilink") [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink"). [웨스톤 비트 엔터테인먼트가](../Page/웨스톤_비트_엔터테인먼트.md "wikilink") 마지막으로 개발한 《[원더보이/몬스터 월드](../Page/원더보이_\(비디오_게임_시리즈\).md "wikilink")》 게임으로, 1994년 4월 1일 [메가드라이브](https://ko.wikipedia.org/wiki/메가드라이브 "wikilink")로 출시됐다.
 
 이번 작품에서는 비선형 게임플레이가 간소화되고, 대신 동물친구 페페로그를 이용한 [던전 탐험에](https://ko.wikipedia.org/wiki/던전_탐험 "wikilink") 집중됐다. 또한 [이슬람의 황금 시대의](../Page/이슬람의_황금_시대.md "wikilink") 영향을 받은 아라비안 판타지 세계로 무대를 옮겼다.
 

@@ -71,7 +71,7 @@
 <a href="https://ko.wikipedia.org/wiki/고은아" title="wikilink">고은아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/연화" title="wikilink">연화</a>, <a href="https://ko.wikipedia.org/wiki/사나이들" title="wikilink">사나이들</a><br />
 <a href="https://ko.wikipedia.org/wiki/데릴사위" title="wikilink">데릴사위</a>, <a href="https://ko.wikipedia.org/wiki/꽃네" title="wikilink">꽃네</a>, <a href="https://ko.wikipedia.org/wiki/윤지경" title="wikilink">윤지경</a></p></td>
-<td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1974122700209205009&amp;editNo=2&amp;printCount=1&amp;publishDate=1974-12-27&amp;officeId=00020&amp;pageNo=5&amp;printNo=16383&amp;publishType=00020">3</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1974년.md" title="wikilink">1974년</a></p></td>
@@ -79,7 +79,7 @@
 <td><p><a href="../Page/이순재.md" title="wikilink">이순재</a><br />
 <a href="../Page/안인숙.md" title="wikilink">안인숙</a></p></td>
 <td></td>
-<td></td>
+<td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1974122700209205009&amp;editNo=2&amp;printCount=1&amp;publishDate=1974-12-27&amp;officeId=00020&amp;pageNo=5&amp;printNo=16383&amp;publishType=00020">3</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1975년.md" title="wikilink">1975년</a></p></td>
@@ -122,4 +122,4 @@
 | ------------------------------------ | ------ | -------------------------------- | --------------- | -- |
 | [1979년](../Page/1979년.md "wikilink") | **대상** | [강부자](../Page/강부자.md "wikilink") | 야 곰례야, 부부, 대춘향전 |    |
 
-[분류:TBS의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:TBS의_텔레비전_프로그램 "wikilink")
+[분류:동양방송의 연예오락 프로그램](https://ko.wikipedia.org/wiki/분류:동양방송의_연예오락_프로그램 "wikilink")

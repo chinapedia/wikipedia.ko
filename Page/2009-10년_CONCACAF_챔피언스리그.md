@@ -1,7 +1,83 @@
 > This article is converted from Wikipedia: [2009-10년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2009-10년_CONCACAF_챔피언스리그).
 
 
-**2009-10년 CONCACAF 챔피언스리그**(2009-10 CONCACAF Champions League)는 [2009년](../Page/2009년.md "wikilink") [7월 28일부터](../Page/7월_28일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [4월 28일까지](../Page/4월_28일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 2번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [파추카가](../Page/CF_파추카.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술을](../Page/크루스_아술.md "wikilink") 누르고 우승을 차지했다.
+**2009-10년 CONCACAF 챔피언스리그**(2009-10 CONCACAF Champions League)는 [2009년](../Page/2009년.md "wikilink") [7월 28일부터](../Page/7월_28일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [4월 28일까지](../Page/4월_28일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 2번째 대회이다. CONCACAF 챔피언스리그의 전신인 [CONCACAF 챔피언스컵을](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink") 포함하면 45번째 대회에 해당한다. [멕시코](../Page/멕시코.md "wikilink")의 [파추카가](../Page/CF_파추카.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술을](../Page/크루스_아술.md "wikilink") 누르고 우승을 차지했다.
+
+## 경기 일정
+
+<table>
+<thead>
+<tr class="header">
+<th><p>라운드</p></th>
+<th><p>추첨일</p></th>
+<th><p>1차전</p></th>
+<th><p>2차전</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>예비 라운드</p></td>
+<td><p>예비 라운드</p></td>
+<td><p>2009년 6월 11일<br />
+(<a href="../Page/미국.md" title="wikilink">미국</a> <a href="../Page/뉴욕.md" title="wikilink">뉴욕</a>)</p></td>
+<td><p>2009년 7월 28일 ~ 7월 30일</p></td>
+</tr>
+<tr class="even">
+<td><p>조별 예선</p></td>
+<td><p>1차전</p></td>
+<td><p>2009년 8월 18일 ~ 8월 20일</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2차전</p></td>
+<td><p>2009년 8월 25일 ~ 8월 27일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3차전</p></td>
+<td><p>2009년 9월 15일 ~ 9월 17일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4차전</p></td>
+<td><p>2009년 9월 22일 ~ 9월 24일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5차전</p></td>
+<td><p>2009년 9월 29일 ~ 10월 1일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6차전</p></td>
+<td><p>2009년 10월 20일 ~ 10월 22일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>결선 토너먼트</p></td>
+<td><p>8강전</p></td>
+<td><p>2009년 11월 17일</p></td>
+<td><p>2010년 3월 9일 ~ 3월 11일</p></td>
+</tr>
+<tr class="odd">
+<td><p>준결승전</p></td>
+<td><p>2010년 3월 30일 ~ 3월 31일</p></td>
+<td><p>2010년 4월 6일 ~ 4월 7일</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>결승전</p></td>
+<td><p>2010년 4월 21일</p></td>
+<td><p>2010년 4월 28일</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 예비 라운드
 
@@ -490,4 +566,4 @@
 
   - [2009-10년 CONCACAF 챔피언스리그 (RSSSF)](http://www.rsssf.com/tablesc/cacups2010.html)
 
-[분류:CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:CONCACAF_챔피언스리그 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2009년_축구 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2010년_축구 "wikilink")
+[분류:CONCACAF 챔피언스리그 시즌](https://ko.wikipedia.org/wiki/분류:CONCACAF_챔피언스리그_시즌 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2009년_축구 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2010년_축구 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [오픈AI](https://ko.wikipedia.org/wiki/오픈AI).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:OpenAI_Logo.svg "wikilink") **오픈AI**(OpenAI)는 [프렌들리 AI를](https://ko.wikipedia.org/wiki/프렌들리_AI "wikilink") 제고하고 개발함으로써 전적으로 인류에게 이익을 주는 것을 목표로 하는 비영리 [인공지능](../Page/인공지능.md "wikilink")(AI) 연구 기업이다. 이 단체의 목적은 특허와 연구를 대중에 공개함으로써 다른 기관들 및 연구원들과 자유로이 협업하는 것이다.\[1\] 설립자들(특히 [일론 머스크](../Page/일론_머스크.md "wikilink"), [Sam Altman](https://ko.wikipedia.org/wiki/Sam_Altman "wikilink"))은 [인공 지능의 존재 문제의](https://ko.wikipedia.org/wiki/인공_지능의_존재_문제 "wikilink") 염려에 부분적으로 동기를 받았다.\[2\]\[3\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:OpenAI_Logo.svg "wikilink") **오픈AI**(OpenAI)는 [프렌들리 AI를](https://ko.wikipedia.org/wiki/프렌들리_AI "wikilink") 제고하고 개발함으로써 전적으로 인류에게 이익을 주는 것을 목표로 하는 인공지능 연구소이다. 이윤을 목적으로 하는 기업 OpenAI LP와 그 모체 조직인 비영리 단체 OpenAI Inc로 구성되어 있다. 이 단체의 목적은 특허와 연구를 대중에 공개함으로써 다른 기관들 및 연구원들과 자유로이 협업하는 것이다.\[1\] 설립자들(특히 [일론 머스크](../Page/일론_머스크.md "wikilink"), [Sam Altman](https://ko.wikipedia.org/wiki/Sam_Altman "wikilink"))은 [인공 지능의 존재 문제의](https://ko.wikipedia.org/wiki/인공_지능의_존재_문제 "wikilink") 염려에 부분적으로 동기를 받았다.\[2\]\[3\]
 
 ## 역사
 

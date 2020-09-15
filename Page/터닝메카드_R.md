@@ -257,27 +257,7 @@
 </tbody>
 </table>
 
-## 제품 정보
-
-### 애니 제품
-
-  - 메카드 R 에반
-  - 메카드 R 타나토스
-  - 메카드 R 테로
-  - 메카드 R 알타
-  - 메카드 R 피닉스
-  - 메카드 R 베노사
-  - 메카드 R 프린스콩
-  - 메카드 R 독꼬리
-  - 메카드 R 디스크캐논
-  - 메카드 R 네오
-
-### 기타
-
-  - 메카드 R 컨트롤러
-  - 메카드 R 레이더
-
 ## 외부 링크
 
   -
-[분류:터닝메카드](https://ko.wikipedia.org/wiki/분류:터닝메카드 "wikilink") [분류:2010년대 대한민국의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_애니메이션 "wikilink") [분류:2017년 애니메이션](https://ko.wikipedia.org/wiki/분류:2017년_애니메이션 "wikilink") [분류:2018년 애니메이션](https://ko.wikipedia.org/wiki/분류:2018년_애니메이션 "wikilink") [분류:로봇 애니메이션](https://ko.wikipedia.org/wiki/분류:로봇_애니메이션 "wikilink") [분류:한국방송공사의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_애니메이션 "wikilink") [분류:대원방송의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대원방송의_텔레비전_프로그램 "wikilink") [분류:재능TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:재능TV의_텔레비전_프로그램 "wikilink") [분류:대교어린이TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대교어린이TV의_텔레비전_프로그램 "wikilink") [분류:애니맥스](https://ko.wikipedia.org/wiki/분류:애니맥스 "wikilink") [분류:애니플러스](https://ko.wikipedia.org/wiki/분류:애니플러스 "wikilink")
+[분류:터닝메카드](https://ko.wikipedia.org/wiki/분류:터닝메카드 "wikilink") [분류:2010년대 대한민국의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_애니메이션 "wikilink") [분류:2017년 애니메이션](https://ko.wikipedia.org/wiki/분류:2017년_애니메이션 "wikilink") [분류:2018년 애니메이션](https://ko.wikipedia.org/wiki/분류:2018년_애니메이션 "wikilink") [분류:로봇 애니메이션](https://ko.wikipedia.org/wiki/분류:로봇_애니메이션 "wikilink") [분류:한국방송공사의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_애니메이션 "wikilink") [분류:대원방송의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대원방송의_텔레비전_프로그램 "wikilink") [분류:재능TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:재능TV의_텔레비전_프로그램 "wikilink") [분류:대교어린이TV의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대교어린이TV의_텔레비전_프로그램 "wikilink") [분류:애니맥스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:애니맥스의_텔레비전_프로그램 "wikilink") [분류:카툰 네트워크의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:카툰_네트워크의_텔레비전_프로그램 "wikilink") [분류:니켈로디언의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:니켈로디언의_텔레비전_프로그램 "wikilink") [분류:애니플러스](https://ko.wikipedia.org/wiki/분류:애니플러스 "wikilink") [분류:자동차를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:자동차를_소재로_한_작품 "wikilink")

@@ -11,7 +11,7 @@
 
 2015년 9월 26일 밴드는 [뉴욕](../Page/뉴욕.md "wikilink")에서 열린 2015년 [글로벌 시티즌 페스티벌에서](https://ko.wikipedia.org/wiki/글로벌_시티즌_페스티벌 "wikilink") 신곡 〈Amazing Day〉를 포함한 6곡 세트를 연주했다.\[12\] 밴드의 프로듀서인 [릭 심슨은](https://ko.wikipedia.org/wiki/릭_심슨 "wikilink") 이 노래가 새 음반에 수록될 것이라고 확인했다. 2016년 11월 21일, 선두주자인 [크리스 마틴은](../Page/크리스_마틴.md "wikilink") [트위터](../Page/트위터.md "wikilink")를 통해 2017년에 출시될 새로운 음반을 발표했고, 《[Kaleidoscope EP](https://ko.wikipedia.org/wiki/Kaleidoscope_EP "wikilink")》라고 명명될 것이다.\[13\]
 
-## 제작
+## 프로듀싱
 
 이 음반은 [릭 심슨](https://ko.wikipedia.org/wiki/릭_심슨 "wikilink")(밴드의 장기 협업자)과 [노르웨이](../Page/노르웨이.md "wikilink")의 듀오 [스타게이트](../Page/스타게이트_\(프로덕션_팀\).md "wikilink")(토르 헤르만센, 미켈 에릭센)가 프로듀싱했다. 믹싱 임무는 주로 릭 심슨에 의해 수행되었다. 스타게이트 중역이 음반을 프로듀싱했다.
 

@@ -25,6 +25,10 @@
 
   - 星が降る街/夜更けのプロローグ ([2019년](../Page/2019년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink"))
   - 宙に浮くぐらい ([2020년](../Page/2020년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink"))
+  - SLEEPY BUSTERS (2020년 [2월 7일](../Page/2월_7일.md "wikilink"))
+  - 足音 (2020년 [5월 13일](../Page/5월_13일.md "wikilink"))
+  - BON-NO BORN (2020년 [6월 5일](../Page/6월_5일.md "wikilink"))
+  - axis (2020년 [6월 26일](../Page/6월_26일.md "wikilink"))
 
 ### 한정 싱글
 
@@ -70,11 +74,11 @@
   - [다코야키 레인보우](../Page/다코야키_레인보우.md "wikilink")
   - [밧텐쇼죠타이](../Page/밧텐쇼죠타이.md "wikilink")
   - [초 도키메키 센덴부](../Page/초_도키메키_센덴부.md "wikilink")
-  - [하치미츠 로켓](../Page/하치미츠_로켓.md "wikilink")
   - [아메후라시](../Page/아메후라시.md "wikilink")
   - [ukka](https://ko.wikipedia.org/wiki/ukka "wikilink")
   - [이키나리 토호쿠산](../Page/이키나리_토호쿠산.md "wikilink")
   - [CROWN POP](../Page/CROWN_POP.md "wikilink")
+  - [Awww\!](https://ko.wikipedia.org/wiki/Awww! "wikilink")
 
 ## 외부 링크
 

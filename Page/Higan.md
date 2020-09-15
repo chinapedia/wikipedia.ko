@@ -30,7 +30,7 @@ bsnes의 분기판은 [닌텐도 DS](../Page/닌텐도_DS.md "wikilink"), [XBAND
   -
   - [Linux packages](http://software.opensuse.org/package/higan) for various distributions
 
-[분류:크로스 플랫폼 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_자유_소프트웨어 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink") [분류:슈퍼 닌텐도 엔터테인먼트 시스템 에뮬레이터](https://ko.wikipedia.org/wiki/분류:슈퍼_닌텐도_엔터테인먼트_시스템_에뮬레이터 "wikilink") [분류:자유 에뮬레이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_에뮬레이션_소프트웨어 "wikilink") [분류:윈도우 에뮬레이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:윈도우_에뮬레이션_소프트웨어 "wikilink") [분류:macOS 에뮬레이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:macOS_에뮬레이션_소프트웨어 "wikilink") [분류:리눅스 에뮬레이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:리눅스_에뮬레이션_소프트웨어 "wikilink")
+[분류:크로스 플랫폼 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_자유_소프트웨어 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink") [분류:슈퍼 패미컴](https://ko.wikipedia.org/wiki/분류:슈퍼_패미컴 "wikilink") [분류:자유 에뮬레이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_에뮬레이션_소프트웨어 "wikilink") [분류:윈도우 에뮬레이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:윈도우_에뮬레이션_소프트웨어 "wikilink") [분류:macOS 에뮬레이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:macOS_에뮬레이션_소프트웨어 "wikilink") [분류:리눅스 에뮬레이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:리눅스_에뮬레이션_소프트웨어 "wikilink")
 
 1.
 2.

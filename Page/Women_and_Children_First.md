@@ -13,12 +13,13 @@
 
 ## 곡 목록
 
-모든 곡들은 [에디 반 헤일런](../Page/에디_반_헤일런.md "wikilink"), [알렉스 반 헤일런](../Page/알렉스_반_헤일런.md "wikilink"), [마이클 앤소니](https://ko.wikipedia.org/wiki/마이클_앤소니 "wikilink") 그리고 [데이빗 리 로스가](https://ko.wikipedia.org/wiki/데이빗_리_로스 "wikilink") 작사/작곡하였다.
+모든 곡들은 [에디 반 헤일런](../Page/에디_반_헤일런.md "wikilink"), [알렉스 반 헤일런](../Page/알렉스_반_헤일런.md "wikilink"), [마이클 앤소니](https://ko.wikipedia.org/wiki/마이클_앤소니 "wikilink") 그리고 [데이빗 리 로스에](https://ko.wikipedia.org/wiki/데이빗_리_로스 "wikilink") 의해 작사/작곡하였다.
 
 ## 각주
 
 ## 외부 링크
 
+  -
 [분류:1980년 음반](https://ko.wikipedia.org/wiki/분류:1980년_음반 "wikilink") [분류:반 헤일런의 음반](https://ko.wikipedia.org/wiki/분류:반_헤일런의_음반 "wikilink") [분류:워너 브라더스 레코드 음반](https://ko.wikipedia.org/wiki/분류:워너_브라더스_레코드_음반 "wikilink")
 
 1.

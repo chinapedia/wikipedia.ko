@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JIBS 낮 뉴스](https://ko.wikipedia.org/wiki/JIBS_낮_뉴스).
 
 
-**JIBS 낮 뉴스**는 대한민국 [JIBS](https://ko.wikipedia.org/wiki/JIBS "wikilink")에서 월요일 \~ 목요일 낮 12시 40분, 금요일 낮 12시 30분에 방송되는 [JIBS의](../Page/제주방송.md "wikilink") 낮 뉴스 프로그램이다.
+**JIBS 낮 뉴스**는 대한민국 [JIBS](https://ko.wikipedia.org/wiki/JIBS "wikilink")에서 평일 낮 12시 40분에 방송되는 [JIBS의](../Page/제주방송.md "wikilink") 낮 뉴스 프로그램이다.
 
 ## 방송 시간
 
@@ -16,7 +16,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/JIBS" title="wikilink">JIBS</a></p></td>
-<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/6월_3일.md" title="wikilink">6월 3일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a></p></td>
+<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/5월_31일.md" title="wikilink">5월 31일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 11시 20분 ~ 11시 30분 (10분)</p></td>
 </tr>
 <tr class="even">
@@ -90,7 +90,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_15일.md" title="wikilink">6월 15일</a> ~ <strong>현재</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_12일.md" title="wikilink">6월 12일</a></p></td>
 <td><p><a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 낮 12시 40분 ~ 12시 50분 (10분)<br />
 금요일 낮 12시 30분 ~ 12시 40분 (10분)</p></td>
 <td></td>
@@ -104,10 +109,10 @@
 
 ## 타이틀 변천사
 
-| 기수 | 타이틀       | 방송 기간                                                                                                                                                    |
-| -- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1기 | JIBS 생활뉴스 | [2002년](../Page/2002년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") |
-| 2기 | JIBS 낮 뉴스 | [2005년](../Page/2005년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ **현재**                                                                    |
+| 기수 | 타이틀       | 방송 기간                                                                                                                                                      |
+| -- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1기 | JIBS 생활뉴스 | [2002년](../Page/2002년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink") \~ [2005년](../Page/2005년.md "wikilink") [4월 22일](../Page/4월_22일.md "wikilink") |
+| 2기 | JIBS 낮 뉴스 | [2005년](../Page/2005년.md "wikilink") [4월 25일](../Page/4월_25일.md "wikilink") \~ **현재**                                                                      |
 
 ## 관련 항목
 

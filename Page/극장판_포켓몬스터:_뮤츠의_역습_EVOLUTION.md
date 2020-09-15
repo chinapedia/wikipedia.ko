@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [극장판 포켓몬스터: 뮤츠의 역습 EVOLUTION](https://ko.wikipedia.org/wiki/극장판_포켓몬스터:_뮤츠의_역습_EVOLUTION).
 
 
-《**극장판 포켓몬스터: 뮤츠의 역습 EVOLUTION**》()는 [2019년](../Page/2019년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") 개봉하는 [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제22기 영화이다.
+《**극장판 포켓몬스터: 뮤츠의 역습 EVOLUTION**》()은 [2019년](../Page/2019년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") 개봉한 [극장판 포켓몬스터의](https://ko.wikipedia.org/wiki/극장판_포켓몬스터 "wikilink") 제 22기 영화이다.
 
 ## 개요
 

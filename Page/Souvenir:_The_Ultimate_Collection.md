@@ -41,7 +41,7 @@
 8.  〈[Allentown](https://ko.wikipedia.org/wiki/Allentown "wikilink")〉 - 3:48
 9.  〈[Goodnight Saigon](https://ko.wikipedia.org/wiki/Goodnight_Saigon "wikilink")〉 - 7:00
 10. 〈[Tell Her About It](https://ko.wikipedia.org/wiki/Tell_Her_About_It "wikilink")〉 - 3:35
-11. 〈[Uptown Girl](https://ko.wikipedia.org/wiki/Uptown_Girl "wikilink")〉 - 3:15
+11. 〈[Uptown Girl](../Page/Uptown_Girl.md "wikilink")〉 - 3:15
 12. 〈[The Longest Time](../Page/The_Longest_Time.md "wikilink")〉 - 3:36
 13. 〈[You're Only Human (Second Wind)](https://ko.wikipedia.org/wiki/You're_Only_Human_\(Second_Wind\) "wikilink")〉 - 4:48
 14. 〈[The Night Is Still Young](../Page/The_Night_Is_Still_Young.md "wikilink")〉 - 5:29

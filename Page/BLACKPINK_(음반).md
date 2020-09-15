@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BLACKPINK \(음반\)](https://ko.wikipedia.org/wiki/BLACKPINK_\(음반\)).
 
 
-**BLACKPINK**(블랙핑크, )는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [블랙핑크](../Page/블랙핑크.md "wikilink")의 [미니 음반이다](https://ko.wikipedia.org/wiki/미니_음반 "wikilink"). 또, 그룹의 첫 [일본어](../Page/일본어.md "wikilink")판과 [한국어](../Page/한국어.md "wikilink")판의 양쪽 곡이 수록되는 [컴필레이션 음반이다](https://ko.wikipedia.org/wiki/컴필레이션_음반 "wikilink"). 2017년 8월 30일에 [YGEX](../Page/YGEX.md "wikilink")에서 발매됐다. 그리고, 2018년 3월 28일에 리패키지 음반 《**Re: BLACKPINK**》가 발매됐다.
+**BLACKPINK**(블랙핑크, )는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [블랙핑크](../Page/블랙핑크.md "wikilink")의 [미니 음반이다](https://ko.wikipedia.org/wiki/미니_음반 "wikilink"). 또, 그룹의 첫 [일본어](../Page/일본어.md "wikilink")판과 [한국어](../Page/한국어.md "wikilink")판의 곡이 수록되는 [컴필레이션 음반이다](https://ko.wikipedia.org/wiki/컴필레이션_음반 "wikilink"). 2017년 8월 30일에 [YGEX](../Page/YGEX.md "wikilink")에서 발매됐다. 그리고, 2018년 3월 28일에 리패키지 음반 《**Re: BLACKPINK**》가 발매됐다.
 
 ## 발매 배경
 

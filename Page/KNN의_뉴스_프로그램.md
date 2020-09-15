@@ -23,8 +23,8 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/KNN_모닝와이드.md" title="wikilink">KNN 모닝와이드</a></p></td>
-<td><p>평일 1시간</p></td>
-<td><p>07:35 ~ 08:35</p></td>
+<td><p>평일 25분</p></td>
+<td><p>07:35 ~ 08:00</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/황범" title="wikilink">황범</a>, 박수진</p></td>
 </tr>
 <tr class="even">
@@ -41,8 +41,8 @@
 <ul>
 <li><strong>주말편성조정</strong> : <strong>토~일</strong> (20:30 ~ 20:45)</li>
 </ul></td>
-<td><p>김제현, 김다롬 (평일)<br />
-무작위 (주말)</p></td>
+<td><p>평일 : 김제현, 박민설<br />
+주말 : 현승훈</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -58,7 +58,6 @@
   - [KNN 뉴스 (1000)](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1000\) "wikilink") 평일 오전 10시에 방영
   - [KNN 뉴스 (1410)](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1410\) "wikilink") 평일 오후 2시 10분에 방영
   - [KNN 뉴스 (1800)](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1800\) "wikilink") 매일 저녁 6시에 방영
-  - [KNN 뉴스아이](../Page/KNN_뉴스아이.md "wikilink") 평일 저녁 8시 25분에 방영
 
 ## 관련 보기
 

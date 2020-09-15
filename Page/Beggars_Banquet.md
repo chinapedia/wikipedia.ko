@@ -13,7 +13,7 @@
 
 ## 곡 목록
 
-모든 곡들은 [로버트 윌킨스이](https://ko.wikipedia.org/wiki/로버트_윌킨스 "wikilink") 작사/작곡한 〈Prodigal Son〉를 제외하고, [믹 재거와](../Page/믹_재거.md "wikilink") [키스 리처즈가](../Page/키스_리처즈.md "wikilink") 작사/작곡하였다.
+모든 곡들은 [로버트 윌킨스에](https://ko.wikipedia.org/wiki/로버트_윌킨스 "wikilink") 의해 작사/작곡한 〈Prodigal Son〉를 제외하고, [믹 재거와](../Page/믹_재거.md "wikilink") [키스 리처즈에](../Page/키스_리처즈.md "wikilink") 의해 작사/작곡하였다.
 
 ## 각주
 

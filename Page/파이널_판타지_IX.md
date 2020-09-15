@@ -7,7 +7,7 @@
 
 ## 각주
 
-[분류:2000년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2000년_비디오_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:플레이스테이션 (콘솔) 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_\(콘솔\)_게임 "wikilink") [분류:플레이스테이션 네트워크 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_네트워크_게임 "wikilink") [분류:롤플레잉 비디오 게임](https://ko.wikipedia.org/wiki/분류:롤플레잉_비디오_게임 "wikilink") [분류:미국의 비디오 게임](https://ko.wikipedia.org/wiki/분류:미국의_비디오_게임 "wikilink") [분류:의인화 캐릭터가 있는 게임](https://ko.wikipedia.org/wiki/분류:의인화_캐릭터가_있는_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:플레이스테이션 4 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_4_게임 "wikilink")
+[분류:2000년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2000년_비디오_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:플레이스테이션 (콘솔) 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_\(콘솔\)_게임 "wikilink") [분류:플레이스테이션 네트워크 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_네트워크_게임 "wikilink") [분류:롤플레잉 비디오 게임](https://ko.wikipedia.org/wiki/분류:롤플레잉_비디오_게임 "wikilink") [분류:미국의 비디오 게임](https://ko.wikipedia.org/wiki/분류:미국의_비디오_게임 "wikilink") [분류:의인화 캐릭터가 있는 게임](https://ko.wikipedia.org/wiki/분류:의인화_캐릭터가_있는_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:플레이스테이션 4 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_4_게임 "wikilink") [분류:반전 비디오 게임](https://ko.wikipedia.org/wiki/분류:반전_비디오_게임 "wikilink")
 
 1.
 2.

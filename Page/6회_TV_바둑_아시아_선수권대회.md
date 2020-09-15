@@ -57,7 +57,7 @@
 <td><p>7월 21일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/첸위핑" title="wikilink">첸위핑</a> 九단</p></td>
 <td><p><a href="../Page/유창혁.md" title="wikilink">유창혁</a> 六단</p></td>
-<td><p>307수 백 반집승</p></td>
+<td><p>317수 백 반집승</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -54,11 +54,12 @@
 <!-- end list -->
 
   - 시로구미(白組) :
-      - [NYC](https://ko.wikipedia.org/wiki/NYC "wikilink") (3) 〈100％勇気ＮＹＣ\[2\]〉
+      - [NYC](../Page/NYC_\(음악_그룹\).md "wikilink") (3) 〈100％勇気ＮＹＣ\[2\]〉
       - [flumpool](https://ko.wikipedia.org/wiki/flumpool "wikilink") (3) 〈証〉
       - "**[스즈키 후쿠](../Page/스즈키_후쿠.md "wikilink") (1)** 〈マル・マル・モリ・モリ！〉 **(합동 공연)**"
       - [FUNKY MONKEY BABYS](../Page/FUNKY_MONKEY_BABYS.md "wikilink") (3) 〈それでも信じてる〉
       - [AAA](../Page/AAA_\(음악_그룹\).md "wikilink") (2) 〈CALL〉
+      - [히라이 켄](../Page/히라이_켄.md "wikilink") (7) 〈いとしき日々よ〉
       - 호소카와 타카시 (35) 〈ねぶた〉
       - [포르노그라피티](../Page/포르노그라피티.md "wikilink") (10) 〈ワンモアタイム〉
       - **이나와시로코즈 (1)** 〈I love you & I need you ふくしま〉

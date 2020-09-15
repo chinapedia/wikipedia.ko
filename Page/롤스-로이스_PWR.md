@@ -38,4 +38,4 @@ PWR3 원자로를 개발중이다. 드레드노트급 4척을 계획중이며, 2
 
 ## 각주
 
-[분류:원자로](https://ko.wikipedia.org/wiki/분류:원자로 "wikilink")
+[분류:영국의 핵기술](https://ko.wikipedia.org/wiki/분류:영국의_핵기술 "wikilink") [분류:군사용 원자로](https://ko.wikipedia.org/wiki/분류:군사용_원자로 "wikilink")

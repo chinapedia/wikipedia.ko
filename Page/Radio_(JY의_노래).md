@@ -12,7 +12,7 @@
 
 1.  **Radio**
       -
-        작사・작곡：Uzoechi Emenike\[4\]​/Ina Wroldsen
+        작사・작곡：Uzoechi Emenike\[4\]/Ina Wroldsen
 2.  I'm Just Not into You
       -
         작사・작곡：Benjamin Berry/Antia Blay/Uzoechi Emenike/Camille Purcell
@@ -27,4 +27,4 @@
 1.
 2.
 3.
-4.  Uzoechi Emenike = MNEK​
+4.  Uzoechi Emenike = MNEK

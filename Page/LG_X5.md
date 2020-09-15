@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG X5](https://ko.wikipedia.org/wiki/LG_X5).
 
 
-**LG X5**는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink"), [SK텔레콤](../Page/SK텔레콤.md "wikilink") 전용으로 출시한 패블릿 보급형 스마트폰이다.\[1\] 원래 이름은 **X 맥스**이나 [SK텔레콤](../Page/SK텔레콤.md "wikilink")으로 넘어오면서 X5로 이름이 바뀌었다.\[2\] [SK텔레콤](../Page/SK텔레콤.md "wikilink")에서는 초경량과 대화면을 마케팅 포인트로 잡고 마케팅을 하고 있으며 전속 [방탄소년단](../Page/방탄소년단.md "wikilink")이 광고를 했다.
+**LG X5**는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink"), [SK텔레콤](../Page/SK텔레콤.md "wikilink") 전용으로 출시한 패블릿 보급형 스마트폰이다.\[1\] 원래 이름은 **X 맥스**이지만 [SK텔레콤](../Page/SK텔레콤.md "wikilink")으로 넘어오면서 X5로 이름이 바뀌었다.\[2\] [SK텔레콤](../Page/SK텔레콤.md "wikilink")에서는 초경량과 대화면을 마케팅 포인트로 잡고 마케팅을 하고 있으며 전속 [방탄소년단](../Page/방탄소년단.md "wikilink")이 광고를 했다.
 
 ## 운영 체제 / 소프트웨어
 

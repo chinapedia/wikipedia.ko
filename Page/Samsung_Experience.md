@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Samsung Experience](https://ko.wikipedia.org/wiki/Samsung_Experience).
 
 
-**Samsung Experience**(**SAMSUNG Experience**, 삼성 익스피리언스, 삼성 익스피어리언스)는 [삼성이](../Page/삼성그룹.md "wikilink") 자사의 안드로이드 기반 갤럭시 브랜드 전화에 사용하는 사용자 인터페이스이다. 원래 이름은 [터치위즈](../Page/터치위즈.md "wikilink")였으며, 2016년 말 [삼성 갤럭시 S7의](../Page/삼성_갤럭시_S7.md "wikilink") [안드로이드 누가의](https://ko.wikipedia.org/wiki/안드로이드_누가 "wikilink") 베타 빌드에서 현재의 명칭으로 변경되었다.\[1\]
+**Samsung Experience**(삼성 익스피리언스, 삼성 익스피어리언스)는 [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")가 자사의 안드로이드 기반 [갤럭시 브랜드](../Page/삼성_갤럭시.md "wikilink") 전화에 사용하는 [사용자 인터페이스이다](../Page/사용자_인터페이스.md "wikilink"). 원래 이름은 [터치위즈](../Page/터치위즈.md "wikilink")였으며, 2016년 말 [삼성 갤럭시 S7의](../Page/삼성_갤럭시_S7.md "wikilink") [안드로이드 누가의](https://ko.wikipedia.org/wiki/안드로이드_누가 "wikilink") 베타 빌드에서 현재의 명칭으로 변경되었다.\[1\] Samsung Experience의 후속은 [One UI이다](../Page/One_UI.md "wikilink").
 
 ## 역사
 
@@ -220,6 +220,37 @@
 
 </dl></td>
 </tr>
+<tr class="odd">
+<td><p>Samsung Experience 9.5 (갤럭시 노트9과 함께 출시)</p></td>
+<td><p>2018년 9월 9일</p></td>
+<td><dl>
+<dt>빅스비 2.0</dt>
+
+</dl>
+<ul>
+<li>자연스러운 대화</li>
+<li>개인화된 추천</li>
+<li>빨라진 응답 시간</li>
+</ul>
+<dl>
+<dt>이모티콘</dt>
+
+</dl>
+<ul>
+<li>이모티콘 11.0 지원</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>Samsung Experience 10.0<br />
+(베타 버전의 <a href="../Page/One_UI.md" title="wikilink">One UI</a>)</p></td>
+<td><p>2018년 11월</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -297,6 +328,7 @@
 ## 같이 보기
 
   - [터치위즈](../Page/터치위즈.md "wikilink")
+  - [삼성 갤럭시](../Page/삼성_갤럭시.md "wikilink")
 
 ## 각주
 

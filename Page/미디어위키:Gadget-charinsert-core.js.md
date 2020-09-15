@@ -71,11 +71,11 @@ jQuery( document ).ready( function ( $ ) {
 
 `       createEditTools: function ( placeholder ) {`
 `           var sel, id;`
-`           var box = document.createElement( "div" );`
+`           var box = document.createElement( 'div' );`
 `           var prevSubset = 0, curSubset = 0;`
-`           box.id = "specialchars";`
+`           box.id = 'editpage-specialchars';`
 `           box.className = "nopopups";`
-`           box.title = '편집창에 입력할 글자 혹은 태그를 클릭하세요';`
+`           box.title = '편집 창에 입력할 글자 혹은 태그를 클릭하세요';`
 
 `           // append user-defined sets`
 `           if ( window.charinsertCustom ) {`
@@ -246,12 +246,12 @@ jQuery( document ).ready( function ( $ ) {
 
 `       setup: function () {`
 `           var placeholder;`
-`           if ( $( '#specialchars' ).length ) {`
-`               placeholder = $( '#specialchars' )[0];`
+`           if ( $( '#editpage-specialchars' ).length ) {`
+`               placeholder = $( '#editpage-specialchars' )[0];`
 `           } else {`
 `               placeholder = $( '`
 
-<div id="specialchars">
+<div id="editpage-specialchars">
 
 </div>
 
@@ -274,7 +274,7 @@ jQuery( document ).ready( function ( $ ) {
 `           // Used to determine where to insert tags`
 `           editTools.createEditTools( placeholder );`
 `           window.updateEditTools = function () {`
-`               editTools.createEditTools( $( '#specialchars' )[0] );`
+`               editTools.createEditTools( $( '#editpage-specialchars' )[0] );`
 `           };`
 `       }`
 

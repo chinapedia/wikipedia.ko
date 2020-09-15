@@ -101,6 +101,7 @@
   - 1월 3일, TV 애니메이션 2기 방송 시작\[57\].
   - 1월 6일, 대한민국에서 TV 애니메이션 2기 방송 시작.
   - 2월 8일, 첫 단독 라디오 이벤트 ‘’ 개최 예정\[58\].
+  - 9월, 극장 애니메이션인 [뱅드림\! 필름 라이브](https://ko.wikipedia.org/wiki/뱅드림!_필름_라이브 "wikilink") 개봉. (일본은 13일, 대한민국은 26일)
 
 **2020년**
 
@@ -109,7 +110,7 @@
 
 ## 팀이름 및 구성원
 
-### \<Poppin' Party\>
+### Poppin' Party
 
   - **토야마 카스미** ([Gt](../Page/전기_기타.md "wikilink").&[Vo](https://ko.wikipedia.org/wiki/보컬리스트 "wikilink").)
 
@@ -154,7 +155,7 @@
   -
     성우: [오오하시 아야카](../Page/오오하시_아야카.md "wikilink")
 
-### <Afterglow>
+### Afterglow
 
   - **미타케 란** (Gt.\&Vo.)
 
@@ -199,7 +200,7 @@
   -
     성우: [히카사 요코](../Page/히카사_요코.md "wikilink")
 
-### \<Pastel\*Palettes\>
+### Pastel\*Palettes
 
   - **마루야마 아야** (Vo.)
 
@@ -244,7 +245,7 @@
   -
     성우: [나카가미 이쿠미](https://ko.wikipedia.org/wiki/나카가미_이쿠미 "wikilink")
 
-### <Roselia>
+### Roselia
 
   - **미나토 유키나** (Vo.)
 
@@ -289,7 +290,7 @@
   -
     성우: [사쿠라가와 메구](https://ko.wikipedia.org/wiki/사쿠라가와_메구 "wikilink")
 
-### \<헬로, 해피월드\!\>
+### Hello, happy world\!
 
   - **츠루마키 코코로** (Vo.)
 
@@ -300,7 +301,7 @@
 
 <!-- end list -->
 
-  - **오쿠사와 미사키 / 미셸 (DJ)**
+  - '''오쿠사와 미사키 / 미셸 ''' (DJ)
 
 <!-- end list -->
 
@@ -334,6 +335,60 @@
   -
     성우: [토요타 모에](https://ko.wikipedia.org/wiki/토요타_모에 "wikilink")
 
+### RAISE A SUILEN
+
+  - **레이야** (Ba.\&Vo.)
+
+<!-- end list -->
+
+  -
+    성우: [Raychell](https://ko.wikipedia.org/wiki/Raychell "wikilink")
+
+<!-- end list -->
+
+  - **아사히 롯카** (Gt.)
+
+<!-- end list -->
+
+  -
+    성우: [코하라 리코](https://ko.wikipedia.org/wiki/코하라_리코 "wikilink")
+
+<!-- end list -->
+
+  - **마스킹** (Dr.)
+
+<!-- end list -->
+
+  -
+    성우: [나츠메](https://ko.wikipedia.org/wiki/나츠메 "wikilink")
+
+<!-- end list -->
+
+  - **파레오** (Key.)
+
+<!-- end list -->
+
+  -
+    성우: [쿠라치 레오](https://ko.wikipedia.org/wiki/쿠라치_레오 "wikilink")
+
+<!-- end list -->
+
+  - **츄츄** (DJ)
+
+<!-- end list -->
+
+  -
+    성우: [츠무기 리사](https://ko.wikipedia.org/wiki/츠무기_리사 "wikilink")
+
+### 그 외
+
+  - **토야마 아스카**
+
+<!-- end list -->
+
+  -
+    성우: [오자키 유카](https://ko.wikipedia.org/wiki/오자키_유카 "wikilink")
+
 ## 스토리
 
 만화 《》 및 소설 《》과 TV 애니메이션 1기 이후의 미디어 믹스 작품에서는 스토리나 캐릭터 설정, 세계관 설정이 다르다.
@@ -361,6 +416,93 @@
 계절은 돌고돌아 고등학생이 되고 두 번짱 봄이 찾아온다. 카스미는 진급했으며 고등학교 2학년이 됐다. 카스미의 여동생 토야마 아스카는 인문계인 하네오카 여학교 고등부에 진학한다. 그곳에서 동급생이된 소녀 아시히 롯카와 친구가 된다. ‘Poppin'Party’의 멤버도 학년이 오르며 환경이 크게 변화했다. 그리고, 학생회나 아르바이트 등에 쫓기는 카스미 일행은 만날 시간이 거의 없어져갔다. 그러던 때에 그녀들의 앞에 상점 거리에 리뉴얼 오픈한 라이브 하우스 ‘Galaxy’(갤럭시)에서 아르바이트를 하고 있던 롯카가 나타난다. 롯카에게 부탁받은 ‘Poppin'Party’, ‘Roselia’, ‘Afterglow’, ‘헬로, 해피 월드\!’는 Galaxy의 리뉴얼 오픈 기념 라이브에 참가한다. 라이브는 무사히 성공으로 끝난다. 라이브가 끝나 후에 ‘Roselia’가 주최 라이브를 개최하는 것을 발표한 것을 계기로 카스미도 ‘Poppin'Party’로 주최 라이브를 개최하는 것을 선언한다.
 
 2기에서는 TV 애니메이션 1기 및 《뱅드림\! 걸즈 밴드 파티\!》 메인 스토리 시점보다 1년이 경과하고 등장인물들이 전원 진급한 형태로 등장한다. 또, 스토리는 1기만이 아닌 《뱅드림\! 걸즈 밴드 파티\!》를 전제로 한 스토리가 전개된다.
+
+## TV 애니메이션
+
+### 제작진
+
+  - 원작: ISSEN
+  - 캐릭터 원안: 히토와(ひと和)
+  - 스토리 원안: 나카무라 와타루(中村航)
+  - 제작 총지휘: 키다니 타카아키(木谷高明)
+  - 감독: 오오츠키 아츠시(大槻敦史)
+  - 시리즈 구성: 아야나 유니코(綾奈ゆにこ)
+  - 캐릭터 디자인: 닛타 마츠코(仁多マツコ)
+  - 색채 설계: 코지마 마키코(小島真喜子)
+  - 미술 감독: Scott MacDonald
+  - 촬영 감독: 우오야마 마사시(魚山真志)
+  - 편집: 니이미 모토키(新見元希)
+  - 음향 감독: 카메야마 토시키(亀山俊樹)
+  - 음악 프로듀서: 우에마츠 노리야스(上松範康), 후지타 준페이(藤田淳平)
+  - 음악: Elements Garden
+  - 애니메이션 제작: ISSEN×XEBEC
+  - 제작: 부시로드(ブシロード), 오버랩(オーバーラップ), 부시로드 뮤직(ブシロードミュージック), OLM(オー・エル・エム), [도쿄 MX](../Page/도쿄_메트로폴리탄_텔레비전.md "wikilink"), [굿 스마일 컴퍼니](../Page/굿_스마일_컴퍼니.md "wikilink")(グッドスマイルカンパニー), [호리프로](../Page/호리프로.md "wikilink")(ホリプロ)
+
+### 주제곡
+
+**1기**
+
+  -
+    **오프닝 테마 「두근두근 Experience\!(ときめきエクスペリエンス！)」**
+      -
+        작사 - 나카무라 와타루(中村航) / 작곡 - 우에마츠 노리야스(上松範康) / 편곡 - 후지마 히토시(藤間仁) / 노래 - Poppin'Party
+
+<!-- end list -->
+
+  -
+    '''엔딩 테마 「반짝임이나 꿈이나 〜Sing Girls〜(キラキラだとか夢だとか 〜Sing Girls〜)」
+      -
+        작사 - 나카무라 와타루(中村航) / 작곡・편곡 - 후지나가 류타로우(藤永龍太郎) / 노래 - Poppin'Party
+
+**2기**
+
+  -
+    **오프닝 테마**
+      -
+        **「인연의 뮤직(キズナミュージック♪)」**
+          -
+            작사 - 나카무라 와타루(中村航) / 작곡・편곡 - 후지나가 류타로우(藤永龍太郎) / 노래 - Poppin'Party
+
+<!-- end list -->
+
+  -
+
+      -
+        **「BRAVE JEWEL」**
+          -
+            작사 - 오다 아스카(織田あすか) / 작곡 - 우에마츠 노리야스(上松範康) / 편곡 - 후지나가 류타로우(藤永龍太郎) / 노래 - Roselia
+
+<!-- end list -->
+
+  -
+    **엔딩 테마**
+      -
+        **「Safe and Sound」**
+          -
+            작사 - 오다 아스카(織田あすか) / 작곡 - / 편곡 - 후지나가 류타로우(藤永龍太郎) / 노래 - Roselia
+
+<!-- end list -->
+
+  -
+
+      -
+        **「Jumpin'」**
+          -
+            작사 - 나카무라 와타루(中村航) / 작곡 - 우에마츠 노리야스(上松範康) / 편곡- / 노래 - Poppin'Party
+
+**3기**
+
+  -
+    **오프닝 테마 「이니셜(イニシャル)」**
+      -
+        작사 - 나카무라 와타루(中村航) / 작곡 - 우에마츠 노리야스(上松範康) / 편곡 - 후지나가 류타로우(藤永龍太郎) / 노래 - Poppin'Party
+
+<!-- end list -->
+
+  -
+    **엔딩 테마 「꿈을 꿰뚫는 시간에\!(夢を撃ち抜く瞬間に！)」**
+      -
+        작사 - 나카무라 와타루(中村航) / 작곡 - 우에마츠 노리야스(上松範康) / 편곡 - 타게다 유스케(竹田祐介) / 노래 - Poppin'Party
 
 ## 서적
 
@@ -417,6 +559,10 @@
 
   - (2018년 5월 16일)
 
+## 극장판 애니메이션
+
+## 음반 목록
+
 ## 각주
 
 ### 내용주
@@ -465,7 +611,7 @@
 
   -
 
-[분류:캐릭터송](https://ko.wikipedia.org/wiki/분류:캐릭터송 "wikilink") [분류:미디어 믹스](https://ko.wikipedia.org/wiki/분류:미디어_믹스 "wikilink") [분류:가공의 음악 그룹](https://ko.wikipedia.org/wiki/분류:가공의_음악_그룹 "wikilink") [분류:음악을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:음악을_소재로_한_작품 "wikilink") [분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:2017년 애니메이션](https://ko.wikipedia.org/wiki/분류:2017년_애니메이션 "wikilink") [분류:2019년 애니메이션](https://ko.wikipedia.org/wiki/분류:2019년_애니메이션 "wikilink") [분류:2020년 애니메이션](https://ko.wikipedia.org/wiki/분류:2020년_애니메이션 "wikilink") [분류:도쿄 메트로폴리탄 텔레비전의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:도쿄_메트로폴리탄_텔레비전의_텔레비전_프로그램 "wikilink") [분류:OLM](https://ko.wikipedia.org/wiki/분류:OLM "wikilink") [분류:XEBEC](https://ko.wikipedia.org/wiki/분류:XEBEC "wikilink") [분류:울트라 슈퍼 픽쳐스](https://ko.wikipedia.org/wiki/분류:울트라_슈퍼_픽쳐스 "wikilink") [분류:도쿄를 배경으로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:도쿄를_배경으로_한_애니메이션 "wikilink") [분류:고등학교를 배경으로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:고등학교를_배경으로_한_애니메이션 "wikilink") [분류:음악을 소재로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:음악을_소재로_한_애니메이션 "wikilink") [분류:록 음악을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:록_음악을_소재로_한_작품 "wikilink") [분류:애니맥스](https://ko.wikipedia.org/wiki/분류:애니맥스 "wikilink") [분류:애니플러스](https://ko.wikipedia.org/wiki/분류:애니플러스 "wikilink")
+[분류:캐릭터송](https://ko.wikipedia.org/wiki/분류:캐릭터송 "wikilink") [분류:미디어 믹스](https://ko.wikipedia.org/wiki/분류:미디어_믹스 "wikilink") [분류:가공의 음악 그룹](https://ko.wikipedia.org/wiki/분류:가공의_음악_그룹 "wikilink") [분류:음악을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:음악을_소재로_한_작품 "wikilink") [분류:일본의 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션 "wikilink") [분류:2017년 애니메이션](https://ko.wikipedia.org/wiki/분류:2017년_애니메이션 "wikilink") [분류:2019년 애니메이션](https://ko.wikipedia.org/wiki/분류:2019년_애니메이션 "wikilink") [분류:2020년 애니메이션](https://ko.wikipedia.org/wiki/분류:2020년_애니메이션 "wikilink") [분류:도쿄 메트로폴리탄 텔레비전의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:도쿄_메트로폴리탄_텔레비전의_텔레비전_프로그램 "wikilink") [분류:OLM](https://ko.wikipedia.org/wiki/분류:OLM "wikilink") [분류:XEBEC](https://ko.wikipedia.org/wiki/분류:XEBEC "wikilink") [분류:울트라 슈퍼 픽쳐스](https://ko.wikipedia.org/wiki/분류:울트라_슈퍼_픽쳐스 "wikilink") [분류:도쿄를 배경으로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:도쿄를_배경으로_한_애니메이션 "wikilink") [분류:고등학교를 배경으로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:고등학교를_배경으로_한_애니메이션 "wikilink") [분류:음악을 소재로 한 애니메이션](https://ko.wikipedia.org/wiki/분류:음악을_소재로_한_애니메이션 "wikilink") [분류:록 음악을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:록_음악을_소재로_한_작품 "wikilink") [분류:애니맥스의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:애니맥스의_텔레비전_프로그램 "wikilink") [분류:애니플러스](https://ko.wikipedia.org/wiki/분류:애니플러스 "wikilink")
 
 1.
 2.  기획 당시는 2017년 10월에 퇴임하고 현재 이사직을 맡고 있다.

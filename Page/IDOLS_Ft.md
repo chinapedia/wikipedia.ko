@@ -84,7 +84,7 @@
 <td></td>
 <td><p>SNH48 6기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -319,7 +319,7 @@
 <td></td>
 <td><p>SNH48 5기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -427,7 +427,7 @@
 <td></td>
 <td><p>SNH48 7기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -571,7 +571,8 @@
 <td><p><strong></strong></p></td>
 <td><p>CKG48 2기</p></td>
 <td><p>상해 구상 연예 경기 유한공사</p></td>
-<td><p>최연장자, 캡틴</p></td>
+<td><p>캡틴<br />
+최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>

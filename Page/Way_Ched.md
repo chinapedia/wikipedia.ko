@@ -3,6 +3,8 @@
 
 **Way Ched**(웨이체드)는 [대한민국](../Page/대한민국.md "wikilink")의 [프로듀서이다](../Page/음악_프로듀서.md "wikilink"). 웨이체드는 [하이그라운드](../Page/하이그라운드.md "wikilink") 소속이었다. 그 당시에는 '8' 이라는 예명으로 활동하였다.
 
+## 작업
+
 2016년 12월 6일, 위너의 강승윤이 주연으로 출연한 웹 드라마 '천년째 연애중' OST를 작곡 및 편곡에 참여했다.
 
 2018년 6월 12일, EP인 \[shere Feelings\]를 발매했다.
@@ -47,6 +49,6 @@
 
   -
   -
-[분류:1997년 태어남](https://ko.wikipedia.org/wiki/분류:1997년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink") [분류:대한민국의 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_프로듀서 "wikilink")
+[분류:1997년 태어남](https://ko.wikipedia.org/wiki/분류:1997년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink") [분류:대한민국의 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_프로듀서 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink")
 
 1.

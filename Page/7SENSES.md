@@ -12,65 +12,65 @@
 <th><p>영어이름</p></th>
 <th><p>소속 팀</p></th>
 <th><p>생년월일</p></th>
-<th><p>! rowspan=1 | 출생지</p></th>
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/쿵샤오인" title="wikilink">쿵샤오인</a></strong><br />
+</p></td>
+<td><p>Bee</p></td>
+<td><p>SNH48 팀SII</p></td>
+<td><p><br />
+캡틴<br />
+최연장자</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/다이멍" title="wikilink">다이멍</a></strong><br />
+</p></td>
+<td><p>Diamond</p></td>
+<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀SII</p></td>
+<td><p><br />
+부캡틴<br />
+최연장자</p></td>
+</tr>
 <tr class="odd">
 <td><p><a href="../Page/자오웨.md" title="wikilink">자오웨</a><br />
 </p></td>
 <td><p>Akira</p></td>
 <td><p>SNH48 팀NII</p></td>
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후베이_성" title="wikilink">후베이 성</a></p></td>
+<td><p><br />
+최연장자</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/쿵샤오인" title="wikilink">쿵샤오인</a></strong><br />
-</p></td>
-<td><p>Bee</p></td>
-<td><p>SNH48 팀SII</p></td>
-<td><p>, 캡틴, 최연장자</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/랴오닝_성" title="wikilink">랴오닝 성</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/다이멍" title="wikilink">다이멍</a></strong><br />
-</p></td>
-<td><p>Diamond</p></td>
-<td><p><a href="../Page/SNH48.md" title="wikilink">SNH48</a> 팀SII</p></td>
-<td><p>, 부캡틴</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상하이_시" title="wikilink">상하이 시</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/쉬양위줘" title="wikilink">쉬양위줘</a><br />
-</p></td>
-<td><p>Eliwa</p></td>
-<td><p>SNH48 팀HII</p></td>
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후난_성" title="wikilink">후난 성</a></p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/쉬자치.md" title="wikilink">쉬자치</a><br />
 </p></td>
 <td><p>kiki</p></td>
 <td><p>SNH48 팀SII</p></td>
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/저장_성" title="wikilink">저장 성</a></p></td>
+<td><p><br />
+최연장자</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/쉬양위줘" title="wikilink">쉬양위줘</a><br />
+</p></td>
+<td><p>Eliwa</p></td>
+<td><p>SNH48 팀HII</p></td>
+<td><p><br />
+최연장자</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/장위거.md" title="wikilink">장위거</a><br />
+</p></td>
+<td><p>Tako</p></td>
+<td><p>SNH48 팀SII</p></td>
+<td><p><br />
+최연장자</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/천린_(SNH48)" title="wikilink">천린</a><br />
 </p></td>
 <td><p>Lynn</p></td>
 <td><p>SNH48 팀X</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/상하이_시" title="wikilink">상하이 시</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/장위거.md" title="wikilink">장위거</a><br />
-</p></td>
-<td><p>Tako</p></td>
-<td><p>SNH48 팀SII</p></td>
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아무르_강" title="wikilink">아무르 강</a> <a href="https://ko.wikipedia.org/wiki/자무쓰_시" title="wikilink">자무쓰 시</a></p></td>
 </tr>
 </tbody>
 </table>

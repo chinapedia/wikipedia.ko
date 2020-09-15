@@ -5,21 +5,21 @@
 
 ## 노선 정보
 
-  - 노선명 : 수도권 광역급행철도 C노선
-  - 노선번호 : 미정
-  - 노선 거리 : 74.2km
-  - 운영 기관 : 미정
-  - 궤간 : 1,435mm ([표준궤](../Page/표준궤.md "wikilink"))
-  - 통행방식 : [좌측 통행](https://ko.wikipedia.org/wiki/좌측_통행 "wikilink")
-  - 역 수 : 10개
-  - 보안 장치 : [ATP](https://ko.wikipedia.org/wiki/자동_열차_방호_장치 "wikilink")
-  - 운행 열차 : [수도권 광역급행철도용 차량](https://ko.wikipedia.org/wiki/수도권_광역급행철도용_차량 "wikilink")
+  - 노선명: 수도권 광역급행철도 C노선
+  - 노선번호: 미정
+  - 노선 거리: 74.2km
+  - 운영 기관: 미정
+  - 궤간: 1,435mm ([표준궤](../Page/표준궤.md "wikilink"))
+  - 통행방식: [좌측 통행](https://ko.wikipedia.org/wiki/좌측_통행 "wikilink")
+  - 역 수: 10개
+  - 보안 장치: [ATP](https://ko.wikipedia.org/wiki/자동_열차_방호_장치 "wikilink")
+  - 운행 열차: [수도권 광역급행철도용 차량](https://ko.wikipedia.org/wiki/수도권_광역급행철도용_차량 "wikilink")
 
 ## 연혁
 
-  - [2016년](../Page/2016년.md "wikilink") [1월](../Page/1월.md "wikilink") : 예비타당성조사 착수
-  - [2018년](../Page/2018년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") : 예비타당성조사 통과
-  - [2021년](../Page/2021년.md "wikilink") : 착공
+  - [2016년](../Page/2016년.md "wikilink") [1월](../Page/1월.md "wikilink"): 예비타당성조사 착수
+  - [2018년](../Page/2018년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink"): 예비타당성조사 통과
+  - [2021년](../Page/2021년.md "wikilink"): 착공
 
 ## 역 목록
 
@@ -198,10 +198,16 @@
 </tbody>
 </table>
 
-  - 차량기지 : [과천차량사업소](https://ko.wikipedia.org/wiki/과천차량사업소 "wikilink")
+  - 차량기지: [과천차량사업소](https://ko.wikipedia.org/wiki/과천차량사업소 "wikilink")
+
+## 평가
+
+철학자 전현우는 본 노선의 예비타당성조사 보고서를 기준으로 할 때 GTX-C선은 사업비를 줄이기 위하여 경원선 덕정\~도봉산, 과천선 과천\~금정, 경부선 금정\~수원 구간을 선로 추가 없이 운행하는데, 이는 결국 선로용량 포화로 이어져 경부선 여객·화물열차, 경원선·4호선 완·급행열차 등 기존 열차가 정시에 운행되지 못하도록 만든다고 비판하였다.\[1\]
 
 ## 각주
 
 <references />
 
 [분류:개발 중인 철도](https://ko.wikipedia.org/wiki/분류:개발_중인_철도 "wikilink") [분류:대한민국의 철도 노선](https://ko.wikipedia.org/wiki/분류:대한민국의_철도_노선 "wikilink") [분류:계획 중인 철도 노선](https://ko.wikipedia.org/wiki/분류:계획_중인_철도_노선 "wikilink")
+
+1.

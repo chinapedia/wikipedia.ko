@@ -38,6 +38,7 @@
 ## 같이 보기
 
   - [대구복합스포츠타운](https://ko.wikipedia.org/wiki/대구복합스포츠타운 "wikilink")
+  - [대구복합스포츠타운 보조경기장](https://ko.wikipedia.org/wiki/대구복합스포츠타운_보조경기장 "wikilink")
   - [대구시민운동장](../Page/대구시민운동장.md "wikilink")
   - [대구 FC](../Page/대구_FC.md "wikilink")
 

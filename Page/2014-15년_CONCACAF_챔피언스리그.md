@@ -1,7 +1,77 @@
 > This article is converted from Wikipedia: [2014-15년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2014-15년_CONCACAF_챔피언스리그).
 
 
-**2014-15년 CONCACAF 챔피언스리그**(2014-15 CONCACAF Champions League)는 [2014년](../Page/2014년.md "wikilink") [8월 5일부터](../Page/8월_5일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [4월 29일까지](../Page/4월_29일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 50번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [아메리카가](../Page/클루브_아메리카.md "wikilink") 결승전에서 [캐나다](../Page/캐나다.md "wikilink")의 [몬트리올 임팩트를](../Page/몬트리올_임팩트.md "wikilink") 누르고 우승을 차지했다.
+**2014-15년 CONCACAF 챔피언스리그**(2014-15 CONCACAF Champions League)는 [2014년](../Page/2014년.md "wikilink") [8월 5일부터](../Page/8월_5일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [4월 29일까지](../Page/4월_29일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 7번째 대회이다. CONCACAF 챔피언스리그의 전신인 [CONCACAF 챔피언스컵을](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink") 포함하면 50번째 대회에 해당한다. [멕시코](../Page/멕시코.md "wikilink")의 [아메리카가](../Page/클루브_아메리카.md "wikilink") 결승전에서 [캐나다](../Page/캐나다.md "wikilink")의 [몬트리올 임팩트를](../Page/몬트리올_임팩트.md "wikilink") 누르고 우승을 차지했다.
+
+## 경기 일정
+
+<table>
+<thead>
+<tr class="header">
+<th><p>라운드</p></th>
+<th><p>추첨일</p></th>
+<th><p>1차전</p></th>
+<th><p>2차전</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>조별 예선</p></td>
+<td><p>1차전</p></td>
+<td><p>2014년 5월 28일<br />
+(<a href="../Page/미국.md" title="wikilink">미국</a> <a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> 도럴)</p></td>
+<td><p>2014년 8월 5일 ~ 8월 7일</p></td>
+</tr>
+<tr class="even">
+<td><p>2차전</p></td>
+<td><p>2014년 8월 19일 ~ 8월 21일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3차전</p></td>
+<td><p>2014년 8월 26일 ~ 8월 28일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4차전</p></td>
+<td><p>2014년 9월 16일 ~ 9월 18일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5차전</p></td>
+<td><p>2014년 9월 23일 ~ 9월 25일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6차전</p></td>
+<td><p>2014년 10월 21일 ~ 10월 23일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>결선 토너먼트</p></td>
+<td><p>8강전</p></td>
+<td><p>2015년 2월 24일 ~ 2월 26일</p></td>
+<td><p>2015년 3월 3일 ~ 3월 5일</p></td>
+</tr>
+<tr class="even">
+<td><p>준결승전</p></td>
+<td><p>2015년 3월 17일 ~ 3월 19일</p></td>
+<td><p>2015년 4월 7일 ~ 4월 9일</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>결승전</p></td>
+<td><p>2015년 4월 22일</p></td>
+<td><p>2015년 4월 29일</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 조별 예선
 
@@ -754,4 +824,4 @@
 
   - [2014-15년 CONCACAF 챔피언스리그 (RSSSF)](http://www.rsssf.com/tablesc/cacups2015.html)
 
-[분류:CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:CONCACAF_챔피언스리그 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2014년_축구 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2015년_축구 "wikilink")
+[분류:CONCACAF 챔피언스리그 시즌](https://ko.wikipedia.org/wiki/분류:CONCACAF_챔피언스리그_시즌 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2014년_축구 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2015년_축구 "wikilink")

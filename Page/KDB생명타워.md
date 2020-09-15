@@ -11,7 +11,7 @@
 
 파일:Seoul Station (145738821).jpeg 파일:View from Seoul 7017 Skypark.jpg 파일:A view of Seoul Station from Seoullo 7017.jpg
 
-## 더 보기
+## 같이 보기
 
   - [서울특별시의 마천루 목록](../Page/서울특별시의_마천루_목록.md "wikilink")
 

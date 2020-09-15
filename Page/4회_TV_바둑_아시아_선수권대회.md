@@ -45,10 +45,12 @@
 <td><p>8월 23일</p></td>
 <td><p><a href="../Page/다케미야_마사키.md" title="wikilink">다케미야 마사키</a> 九단</p></td>
 <td><p><a href="../Page/조훈현.md" title="wikilink">조훈현</a> 九단</p></td>
-<td><p>275수 백 반집승</p></td>
+<td><p>258수 백 반집승[1]</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
 [04](https://ko.wikipedia.org/wiki/분류:TV_바둑_아시아_선수권대회 "wikilink") [분류:1992년 바둑](https://ko.wikipedia.org/wiki/분류:1992년_바둑 "wikilink")
+
+1.  공베 메운 종국 275수

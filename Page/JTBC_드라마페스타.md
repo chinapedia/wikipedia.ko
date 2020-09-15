@@ -60,7 +60,7 @@
 <td><p><a href="../Page/한여름의_추억.md" title="wikilink">한여름의 추억</a></p></td>
 <td><p><a href="../Page/최강희_(배우).md" title="wikilink">최강희</a>, <a href="../Page/이준혁_(1984년).md" title="wikilink">이준혁</a>, <a href="../Page/태인호.md" title="wikilink">태인호</a>, <a href="../Page/이재원_(배우).md" title="wikilink">이재원</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/최재웅" title="wikilink">최재웅</a>, 최유송, <a href="../Page/허영지.md" title="wikilink">허영지</a>, <a href="../Page/윤진이.md" title="wikilink">윤진이</a>,<br />
-<a href="../Page/황상경.md" title="wikilink">황상경</a>, <a href="https://ko.wikipedia.org/wiki/천민희" title="wikilink">천민희</a>, <a href="../Page/손수현.md" title="wikilink">손수현</a></p></td>
+<a href="../Page/황상경.md" title="wikilink">황상경</a>, <a href="../Page/천민희.md" title="wikilink">천민희</a>, <a href="../Page/손수현.md" title="wikilink">손수현</a></p></td>
 <td><p>한가람</p></td>
 <td><p>심나연</p></td>
 <td><p>1.816%</p></td>
@@ -153,7 +153,7 @@
 <td><p>2화</p></td>
 <td><p>5월 18일 ~ 5월 19일</p></td>
 <td><p><a href="../Page/행복의_진수.md" title="wikilink">행복의 진수</a></p></td>
-<td><p><a href="../Page/공명_(배우).md" title="wikilink">공명</a>, <a href="../Page/소진_(1986년).md" title="wikilink">박소진</a></p></td>
+<td><p><a href="../Page/공명_(배우).md" title="wikilink">공명</a>, <a href="https://ko.wikipedia.org/wiki/박소진_(배우)" title="wikilink">박소진</a></p></td>
 <td><p>유소원</p></td>
 <td><p>윤재원</p></td>
 <td><p>1.248%</p></td>

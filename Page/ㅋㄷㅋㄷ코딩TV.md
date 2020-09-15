@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ㅋㄷㅋㄷ코딩TV](https://ko.wikipedia.org/wiki/ㅋㄷㅋㄷ코딩TV).
 
 
-《**ㅋㄷㅋㄷ코딩TV**》는 [2017년](../Page/2017년.md "wikilink") [9월 8일부터](../Page/9월_8일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [3월 8일까지](../Page/3월_8일.md "wikilink") 방영된 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [어린이](../Page/어린이.md "wikilink")•[코딩](https://ko.wikipedia.org/wiki/코딩 "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.
+《**ㅋㄷㅋㄷ코딩TV**》는 [2017년](../Page/2017년.md "wikilink") [9월 8일부터](../Page/9월_8일.md "wikilink") [2019년](../Page/2019년.md "wikilink") [3월 8일까지](../Page/3월_8일.md "wikilink") 방영된 [KBS 2TV](../Page/KBS_2TV.md "wikilink") [어린이](../Page/어린이.md "wikilink") [코딩](https://ko.wikipedia.org/wiki/코딩 "wikilink") [프로그램](https://ko.wikipedia.org/wiki/프로그램 "wikilink")이다.
 
 ## 출연자
 

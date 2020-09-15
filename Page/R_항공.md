@@ -13,19 +13,22 @@ R 항공은 운항이 정지되기 전까지 [태국](../Page/태국.md "wikilin
 
   - [방콕](../Page/방콕.md "wikilink") - [돈므앙 국제공항](../Page/돈므앙_국제공항.md "wikilink") (**허브**)
   - [치앙마이](../Page/치앙마이.md "wikilink") - [치앙마이 국제공항](https://ko.wikipedia.org/wiki/치앙마이_국제공항 "wikilink")
-  - [핫야이](../Page/핫야이.md "wikilink") - [핫야이 국제 공항](../Page/핫야이_국제공항.md "wikilink") \[3\]
+  - [핫야이](../Page/핫야이.md "wikilink") - [핫야이 국제 공항](../Page/핫야이_국제공항.md "wikilink")\[3\]
   - [콘깬](https://ko.wikipedia.org/wiki/콘깬 "wikilink") - [콘깬 공항](../Page/콘깬_공항.md "wikilink")
-  - [나리티왓](../Page/나라티왓.md "wikilink") - [나리티왓 공항](../Page/나라티왓_공항.md "wikilink") \[4\]
+  - [나리티왓](../Page/나라티왓.md "wikilink") - [나리티왓 공항](../Page/나라티왓_공항.md "wikilink")\[4\]
   - [핏사눌록](../Page/핏사눌록.md "wikilink") - [핏사눌록 공항](../Page/핏사눌록_공항.md "wikilink")
   - [푸껫](https://ko.wikipedia.org/wiki/푸껫 "wikilink") - [푸껫 국제공항](https://ko.wikipedia.org/wiki/푸껫_국제공항 "wikilink")
 
 ## 항공기
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:HS-RCC_\(22744805579\).jpg "wikilink") \]\] R 항공의 항공기는 다음과 같은 항공기로 구성됐었다. \[5\]
+**R 항공**은 다음과 같이 보유했다.\[5\]
 
-| 기종 | 대수 | 주문 | 탑승승객 수 | 기타 |+ **R 항공의 보유 기종** | [에어버스 A321-200](../Page/에어버스_A320_패밀리.md "wikilink") | 1 | \- | 220 |  |
-| -- | -- | -- | ------ | --------------------- | :--------------------------------------------------: | :-: | :-: | :-: | :-: |
-|    |    |    |        |                       |                                                      |   |    |     |  |
+| <span style="color:black;">기종                        | <span style="color:black;">대수 | <span style="color:black;">주문 | <span style="color:black;">탑승 승객 수 | <span style="color:black;">기타 |
+| ---------------------------------------------------- | ----------------------------- | ----------------------------- | ---------------------------------- | ----------------------------- |
+| [에어버스 A321-200](../Page/에어버스_A320_패밀리.md "wikilink") | 1                             | 0                             | 220                                |                               |
+|                                                      |                               |                               |                                    |                               |
+
+**R 항공의 보유 기종**
 
 ## 각주
 

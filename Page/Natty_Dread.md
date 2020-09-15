@@ -9,7 +9,7 @@
 
 《Natty Dread》는 1974년 10월 25일 [아일랜드 레코드와](../Page/아일랜드_레코드.md "wikilink") [터프 공에](https://ko.wikipedia.org/wiki/터프_공 "wikilink") 의해 발매되었다.\[2\]
 
-1975년, 이 음반은 4채널 8트랙 테이프에서 발매될 준비가 되어있는 몇몇 오디오 잡지에 언급되었다. 이런 일은 일어나지 않았다. 그러나, 〈Lively Up Yourself〉와 〈[No Woman, No Cry](https://ko.wikipedia.org/wiki/No_Woman,_No_Cry "wikilink")〉의 4채널 그래픽 혼합물은 마스터 테이프에서 나온 것으로 인터넷에서 구할 수 있다.
+1975년, 이 음반은 4채널 8트랙 테이프에서 발매될 준비가 되어있는 몇몇 오디오 잡지에 언급되었다. 이런 일은 일어나지 않았다. 그러나, 〈Lively Up Yourself〉와 〈[No Woman, No Cry](../Page/No_Woman,_No_Cry.md "wikilink")〉의 4채널 그래픽 혼합물은 마스터 테이프에서 나온 것으로 인터넷에서 구할 수 있다.
 
 2001년, 《Natty Dread》의 리마스터드 버전이 보너스 트랙이 수록된 [유니버설 레코드에](https://ko.wikipedia.org/wiki/유니버설_레코드 "wikilink") 의해 발매되었다.
 

@@ -39,13 +39,13 @@
 
   - [MÚSECA 공식 홈페이지](http://p.eagate.573.jp/game/museca/msc/p/index.html)
 
-  - [한국어 MÚSECA 공식 홈페이지](http://museca.uniana.com/msc_1half/top/index.html)
+  - [한국어 MÚSECA 공식 홈페이지](https://web.archive.org/web/20171009120502/http://museca.uniana.com/msc_1half/top/index.html)
 
   - [MÚSECA 1+1/2 공식 홈페이지](https://p.eagate.573.jp/game/museca/msc_1half/top/index.html)
 
   - [MÚSECA Compe. 공식 홈페이지](http://p.eagate.573.jp/game/museca/compe/index.html)
 
-[분류:비마니 시리즈](https://ko.wikipedia.org/wiki/분류:비마니_시리즈 "wikilink") [분류:2015년 출시‎](https://ko.wikipedia.org/wiki/분류:2015년_출시‎ "wikilink") [분류:E-Amusement](https://ko.wikipedia.org/wiki/분류:E-Amusement "wikilink")
+[분류:비마니 시리즈](https://ko.wikipedia.org/wiki/분류:비마니_시리즈 "wikilink") [분류:2015년 출시](https://ko.wikipedia.org/wiki/분류:2015년_출시 "wikilink") [분류:E-Amusement](https://ko.wikipedia.org/wiki/분류:E-Amusement "wikilink")
 
 1.
 2.

@@ -33,7 +33,7 @@
 <td><p><a href="../Page/도쿄.md" title="wikilink">도쿄</a></p></td>
 <td></td>
 <td><p><a href="../Page/도쿄_돔.md" title="wikilink">도쿄 돔</a></p></td>
-<td><p>117,100 / 117,100</p></td>
+<td><p>171,100 / 171,100</p></td>
 <td><p>―</p></td>
 </tr>
 <tr class="odd">
@@ -94,7 +94,7 @@
 <td><p>6월 23일</p></td>
 <td><p><a href="../Page/런던.md" title="wikilink">런던</a></p></td>
 <td></td>
-<td><p>페스트할레 프랑크푸르트</p></td>
+<td><p>웸블리 아레나</p></td>
 <td></td>
 <td></td>
 <td></td>

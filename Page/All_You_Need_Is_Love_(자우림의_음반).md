@@ -5,4 +5,6 @@
 
 ## 수록곡
 
+## 각주
+
 [분류:2004년 음반](https://ko.wikipedia.org/wiki/분류:2004년_음반 "wikilink") [분류:자우림의 음반](https://ko.wikipedia.org/wiki/분류:자우림의_음반 "wikilink")

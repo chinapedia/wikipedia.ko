@@ -15,6 +15,6 @@
 
 ## 곡 목록
 
-## 외부 링크
+## 각주
 
 [분류:1978년 음반](https://ko.wikipedia.org/wiki/분류:1978년_음반 "wikilink") [분류:주다스 프리스트의 음반](https://ko.wikipedia.org/wiki/분류:주다스_프리스트의_음반 "wikilink") [분류:컬럼비아 레코드 음반](https://ko.wikipedia.org/wiki/분류:컬럼비아_레코드_음반 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lilya and shadows of war](https://ko.wikipedia.org/wiki/Lilya_and_shadows_of_war).
 
 
-**릴랴와 전쟁의 그림자**(Lilya and shadows of war)는 개발자 라시드 아부에이데(Rasheed Abueideh)가 만든 어드벤처 게임이다. 그림과 일러스트는 ​웨다드 일샤이드(Wedad Irshaid)가 맡았으며 애니메이션은 사라 샤와(Sarah Shawwa)가 음악은 조르게 멘데크(Jorge Méndez)가 맡았다.
+**릴랴와 전쟁의 그림자**(Lilya and shadows of war)는 개발자 라시드 아부에이데(Rasheed Abueideh)가 만든 어드벤처 게임이다. 그림과 일러스트는 웨다드 일샤이드(Wedad Irshaid)가 맡았으며 애니메이션은 사라 샤와(Sarah Shawwa)가 음악은 조르게 멘데크(Jorge Méndez)가 맡았다.
 
 개발자 라시드 아부에이가 [가자 지구에서](../Page/가자_지구.md "wikilink") 일어난 전쟁 사진을 보게 되면서 게임을 만들었다고 한다.
 
@@ -37,7 +37,7 @@
 
 [Reboot Develop](http://rebootdevelopblue.com/)에서 인디 어워드(Indie award) 부문에서 2016년 시각적 우수상을 받았다.
 
-[GDWC](https://thegdwc.com/) 에서 진지한 범주 3위(Serious Category Third Place) 부문에서 2016년에 상을 받았다.
+[GDWC](https://web.archive.org/web/20180621143413/https://thegdwc.com/) 에서 진지한 범주 3위(Serious Category Third Place) 부문에서 2016년에 상을 받았다.
 
 ## 공식 선택
 

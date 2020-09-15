@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1987년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1987년_CONCACAF_챔피언스컵).
 
 
-**1987년 CONCACAF 챔피언스컵**(1987 CONCACAF Champions' Cup)은 [1987년](../Page/1987년.md "wikilink") [3월 31일부터](../Page/3월_31일.md "wikilink") [9월 30일까지](../Page/9월_30일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 23번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [아메리카가](../Page/클루브_아메리카.md "wikilink") 결승전에서 [트리니다드 토바고의](../Page/트리니다드_토바고.md "wikilink") [디펜스 포스를](https://ko.wikipedia.org/wiki/디펜스_포스_FC "wikilink") 누르고 우승을 차지했다.
+**1987년 CONCACAF 챔피언스컵**(1987 CONCACAF Champions' Cup)은 [1987년](../Page/1987년.md "wikilink") [3월 31일부터](../Page/3월_31일.md "wikilink") [9월 30일까지](../Page/9월_30일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 23번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [아메리카가](../Page/클루브_아메리카.md "wikilink") 결승전에서 [트리니다드 토바고의](../Page/트리니다드_토바고.md "wikilink") [디펜스 포스를](https://ko.wikipedia.org/wiki/디펜스_포스_FC "wikilink") 누르고 우승을 차지했다.
 
 ## 북아메리카-중앙아메리카 지역 예선
 

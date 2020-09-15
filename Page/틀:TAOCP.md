@@ -1,0 +1,4 @@
+> This article is converted from Wikipedia: [틀:TAOCP](https://ko.wikipedia.org/wiki/틀:TAOCP).
+
+
+|series=[The Art of Computer Programming](https://ko.wikipedia.org/wiki/The_Art_of_Computer_Programming "wikilink")|volume={{\#switch:|1=1|1f1=1 (fascicle 1)|2=2|3=3|4f0=4 (fascicle 0)|4f1=4 (fascicle 1)|4f2=4 (fascicle 2)|4f0=3 (fascicle 3)|4f4=4 (fascicle 4)|4f6=4 (fascicle 6)|4a|4A=4A}}|date= {{\#switch:|1={{\#switch:|1=1968|2=1973|3=1997}}|1f1=2005|2={{\#switch:|1=1969|2=1981|3=1997}}|3={{\#switch:|1=1973|2=1998}}|4f0=2008|4f1=2009|4f2=2005|4f3=2005|4f4=2006|4f6=2015|4a|4A=2011}}|location={{\#ifexpr:{{\#switch:|1={{\#switch:|1=1968|2=1973|3=1997}}|1f1=2005|2={{\#switch:|1=1969|2=1981|3=1997}}|3={{\#switch:|1=1973|2=1998}}|4f0=2008|4f1=2009|4f2=2005|4f3=2005|4f4=2006|4f6=2015|4a|4A=2011}} \< 2000|Reading, MA|Upper Saddle River, NJ}}|publisher=Addison-Wesley Professional|ref={{\#if:|harv|}}|page=|pages=|edition={{\#switch:|0=|1=st|2=nd|3=rd}}}}

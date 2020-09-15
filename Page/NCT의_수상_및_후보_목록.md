@@ -443,7 +443,7 @@
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
-<th><p>수상 내역 (총 18회)</p></th>
+<th><p>수상 내역 (총 19회)</p></th>
 </tr>
 </thead>
 <tbody>
@@ -494,7 +494,7 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>2020년 (총 2회)</p></td>
+<td><p>2020년 (총 6회)</p></td>
 <td><ul>
 <li><strong>영웅</strong> - NCT 127 (총 1회)
 <ul>
@@ -504,11 +504,12 @@
 <ul>
 <li><a href="../Page/5월_8일.md" title="wikilink">5월 8일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
 </ul></li>
-<li><strong>Punch</strong> - NCT 127 (총 3회)
+<li><strong>Punch</strong> - NCT 127 (총 4회)
 <ul>
-<li><a href="../Page/5월_28일.md" title="wikilink">5월 28일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》1위</li>
+<li><a href="../Page/5월_28일.md" title="wikilink">5월 28일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
 <li><a href="../Page/5월_29일.md" title="wikilink">5월 29일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
 <li><a href="../Page/5월_30일.md" title="wikilink">5월 30일</a> <a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_음악중심" title="wikilink">쇼 음악중심</a>》 1위</li>
+<li><a href="../Page/6월_4일.md" title="wikilink">6월 4일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (2주 연속)</li>
 </ul></li>
 </ul></td>
 </tr>

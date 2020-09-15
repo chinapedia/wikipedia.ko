@@ -23,7 +23,7 @@
 
   - 상금 : 상금 지급기준에 따라 상금 결정 (최소 1천만원에서 최대 5억원)
 
-## 수상자들
+## 주요 수상자들
 
 <table>
 <thead>
@@ -221,7 +221,8 @@
 
 ## 외부 링크
 
-[LG Blog](http://www.lgblog.co.kr/tag/lg의인상)
+  - [LG복지재단 LG 의인상](https://foundation.lg.or.kr/promotion-business/welfare-foundation/impression-of/)
+  - [LGBlog 'LG 의인상'](http://www.lgblog.co.kr/tag/lg의인상)
 
 ## 각주
 

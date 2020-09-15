@@ -17,7 +17,7 @@
 
 ## 외부 링크
 
-  - [*The River*](http://www.radio3net.ro/dbartists/supersearch/VGhlIFJpdmVyIChDb2x1bWJpYSk=/The%20River%20%28Columbia%29)
+  - [*The River*](https://archive.today/20130416131817/http://www.radio3net.ro/dbartists/supersearch/VGhlIFJpdmVyIChDb2x1bWJpYSk=/The%20River%20\(Columbia\))
   - [Album lyrics and audio samples](https://web.archive.org/web/20031002051730/http://www.brucespringsteen.net/albums/river.html)
 
 [분류:1980년 음반](https://ko.wikipedia.org/wiki/분류:1980년_음반 "wikilink") [분류:브루스 스프링스틴의 음반](https://ko.wikipedia.org/wiki/분류:브루스_스프링스틴의_음반 "wikilink") [분류:컬럼비아 레코드 음반](https://ko.wikipedia.org/wiki/분류:컬럼비아_레코드_음반 "wikilink")

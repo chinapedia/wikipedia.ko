@@ -43,7 +43,8 @@
   - 2020년 5월 13일 밴디트 - **Carnival**
   - 2020년 5월 30일 청하 - **\[Digital Single\] 여기 적어줘**
   - 2020년 6월 9일 청하 - **\[Digital Single\] Be Yourself**\[16\]
-  - 2020년 6월 ?일 청하 - **미정**
+  - 2020년 7월 6일 청하 - **\[Digital Single\] PLAY**\[17\]
+  - 2020년 ?월 ?일 청하 - **미정**
 
 ## 각주
 
@@ -51,7 +52,7 @@
 
 1.  [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[김세정](https://ko.wikipedia.org/wiki/세정 "wikilink"),[최유정](../Page/최유정_\(가수\).md "wikilink"),[허찬미](../Page/허찬미.md "wikilink"),[강미나](../Page/미나_\(1999년\).md "wikilink") 외 90명도 앨범 참여.
 2.  [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[김세정](https://ko.wikipedia.org/wiki/세정 "wikilink"),[최유정](../Page/최유정_\(가수\).md "wikilink"),[허찬미](../Page/허찬미.md "wikilink"),[김도연](../Page/김도연_\(가수\).md "wikilink"),[강미나](../Page/미나_\(1999년\).md "wikilink") 외 26명도 앨범 참여.
-3.  [김세정](https://ko.wikipedia.org/wiki/세정 "wikilink"),[정채연](../Page/정채연.md "wikilink"),[김소혜](https://ko.wikipedia.org/wiki/김소혜_\(가수\) "wikilink"),[전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[주결경](../Page/주결경.md "wikilink") 외 4명도 앨범 참여.
+3.  [김세정](https://ko.wikipedia.org/wiki/세정 "wikilink"),[정채연](../Page/정채연.md "wikilink"),[김소혜](https://ko.wikipedia.org/wiki/김소혜 "wikilink"),[전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[주결경](../Page/주결경.md "wikilink") 외 4명도 앨범 참여.
 4.  [기희현](../Page/기희현.md "wikilink"),[전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[최유정도](../Page/최유정_\(가수\).md "wikilink") 앨범 참여.
 5.  [헤일로도](../Page/헤일로_\(음악_그룹\).md "wikilink") 앨범 참여.그리고 최초의 OST 앨범.
 6.  [허정은](../Page/허정은.md "wikilink"),[황지아](https://ko.wikipedia.org/wiki/황지아 "wikilink"),[오운](https://ko.wikipedia.org/wiki/오운 "wikilink") 도 앨범 참여.
@@ -63,5 +64,6 @@
 12. [마미손](../Page/마미손.md "wikilink")도 앨범 참여.
 13. [폴킴](https://ko.wikipedia.org/wiki/폴킴 "wikilink")도 앨범 참여.
 14. 미니 2집의 선공개곡.
-15. 김청하 정규 1집의 선공개곡.
+15. 정규 1집의 첫번째 선공개곡.
 16. 스프라이트 협업.
+17. 정규 1집의 두번째 선공개곡.

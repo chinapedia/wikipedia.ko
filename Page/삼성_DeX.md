@@ -5,8 +5,6 @@
 
 이 독은 [USB-C](../Page/USB-C.md "wikilink") 포트, [이더넷](../Page/이더넷.md "wikilink"), [HDMI](../Page/HDMI.md "wikilink") 2.0 출력, 2개의 [USB 2.0](https://ko.wikipedia.org/wiki/USB_2.0 "wikilink") 포트를 제공한다.\[4\]
 
-만약 앱들이 하나씩만 작동한다면(예시로 게임A 와 게임B를 켯는데 하나는 멈춰있음) 또는 앱창의 사이즈 변경이 불가능 하다면 삼성 스토어에서 Good lock 을 받아주고 거기서 또 멀티스타 를 다운받고 Good lock - multistar 에서 멈춤없이 "멀티윈도우 사용" 을 켜주고 그아래의 "모든 앱 멀티윈도우 사용" 도 키고 단말기를 재부팅한다...
-
 또, 삼성은 기본 [안드로이드 OS](https://ko.wikipedia.org/wiki/안드로이드_OS "wikilink") 대신 호환 [리눅스](../Page/리눅스.md "wikilink") 배포판의 사용을 허용함으로써 온전한 [개인용 컴퓨터](../Page/개인용_컴퓨터.md "wikilink") 기능을 제공하는 리눅스 온 갤럭시(Linux On Galaxy)를 발표하였다.\[5\]\[6\]\[7\]
 
 DeX 데스크톱은 [Melopow Dock](https://www.amazon.ca/gp/product/B075V4SZKB)과 같은 타사 액세서리로 접근할 수도 있다.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IOS 11](https://ko.wikipedia.org/wiki/IOS_11).
 
 
-**iOS 11**는 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 iOS [모바일 운영 체제](../Page/모바일_운영_체제.md "wikilink") 중 [11번째 주요 릴리스이며](https://ko.wikipedia.org/wiki/IOS_버전_역사 "wikilink"), [iOS 10의](https://ko.wikipedia.org/wiki/iOS_10 "wikilink") 뒤를 잇는다. 2017년 6월 5일 [세계 개발자 회의(WWDC)](https://ko.wikipedia.org/wiki/애플_세계_개발자_회의 "wikilink") 에서 발표되었다. 최초의 [베타 버전은](../Page/소프트웨어_배포_생명_주기.md "wikilink") 키노트 발표 후 개발자들을 위해 공개되었으며, 퍼블릭 베타는 6월 말에 출시되었고, [2017년](../Page/2017년.md "wikilink") [9월19일](https://ko.wikipedia.org/wiki/9월19일 "wikilink")에 정식 버전이 출시되었다.
+**iOS 11**는 [애플](../Page/애플.md "wikilink")이 개발한 iOS [모바일 운영 체제](../Page/모바일_운영_체제.md "wikilink") 중 [11번째 주요 릴리스이며](https://ko.wikipedia.org/wiki/IOS_버전_역사 "wikilink"), [iOS 10의](https://ko.wikipedia.org/wiki/iOS_10 "wikilink") 뒤를 잇는다. 2017년 6월 5일 [세계 개발자 회의(WWDC)](https://ko.wikipedia.org/wiki/애플_세계_개발자_회의 "wikilink") 에서 발표되었다. 최초의 [베타 버전은](../Page/소프트웨어_배포_생명_주기.md "wikilink") 키노트 발표 후 개발자들을 위해 공개되었으며, 퍼블릭 베타는 6월 말에 출시되었고, [2017년](../Page/2017년.md "wikilink") [9월19일](https://ko.wikipedia.org/wiki/9월19일 "wikilink")에 정식 버전이 출시되었다.
 
 iOS 11은, 파일 탐색기의 기능을 공식적으로 지원하며, 멀티태스킹이 강화되었고, 애니모티콘 기능 등 사용자 친화적인 기능이 추가되었다. 이 외에 다양한 기능이 자잘하게 변경되었다.
 

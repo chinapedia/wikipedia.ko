@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [에버글로우 LAND](https://ko.wikipedia.org/wiki/에버글로우_LAND).
 
 
-《**에버글로우 LAND**》는 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방영된 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
+《**에버글로우 LAND**》는 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방영된 [에버글로우](../Page/에버글로우.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") 리얼리티 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 방송 개요
 
@@ -87,4 +87,4 @@
   - [에버글로우 LAND 네이버TV](https://tv.naver.com/cjenm.EVERGLOWLAND)
   - [에버글로우 LAND 카카오TV](https://tv.kakao.com/channel/3366196)
 
-[분류:엠넷에서 방영하는 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷에서_방영하는_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:아이돌 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:아이돌_텔레비전_프로그램 "wikilink")
+[분류:엠넷의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:엠넷의_텔레비전_프로그램 "wikilink") [분류:대한민국의 리얼리티 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_리얼리티_텔레비전_프로그램 "wikilink") [분류:아이돌 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:아이돌_텔레비전_프로그램 "wikilink")

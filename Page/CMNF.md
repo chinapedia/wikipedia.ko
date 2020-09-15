@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CMNF](https://ko.wikipedia.org/wiki/CMNF).
 
 
-**CMNF**는 **Clothed male, Naked female**의 약자로 옷을 입은 남자와 옷을 벌거벗은 여자들이 있는 형태를 의미한다. [에두아르 마네의](../Page/에두아르_마네.md "wikilink") 명작 [풀밭 위의 점심식사가](https://ko.wikipedia.org/wiki/풀밭_위의_점심식사 "wikilink") 대표적인 CMNF의 그림이다.그리고 누드쇼가있다.
+CMNF란 남자는 옷을입고 여자는 옷을벗고있는 상태를 말한다.
 
 ## 사진
 

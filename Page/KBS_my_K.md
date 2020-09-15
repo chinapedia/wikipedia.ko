@@ -7,7 +7,7 @@
 
 ### TV
 
-  - [KBS1](https://ko.wikipedia.org/wiki/KBS1 "wikilink"), [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") , 지역 KBS1(부산, 창원, 울산, 대구, 광주, 전주, 대전, 청주, 춘천, 제주), KBS 24시 뉴스, [KBS WORLD](https://ko.wikipedia.org/wiki/KBS_WORLD "wikilink")
+  - [KBS1](https://ko.wikipedia.org/wiki/KBS1 "wikilink"), [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") , 지역 KBS1(부산, 창원, 울산, 대구, 광주, 전주, 대전, 청주, 춘천, 제주), KBS 24시 뉴스, [KBS WORLD](https://ko.wikipedia.org/wiki/KBS_WORLD "wikilink") (KBS1, KBS2는 HD, SD 화질 제공)
 
 ### 라디오
 
@@ -25,20 +25,24 @@
 
 기본적으로 KBS에서 방송하는 프로그램의 다시보기(VOD)는 my K 앱에서 시청이 가능하다.
 
+ㅇ드라마/예능 : 3주 후 무료 시청 가능
+
+ㅇ시사교양/구작 : 무료 시청 가능
+
+
+
 ## 연혁
 
   - 2011\. 9 : 플레이어 K 서비스 런칭(TV 3채널, 라디오 7채널)
   - 2012\. 4 : 다시보기 및 실시간 채널 확대([KBS월드 TV를](https://ko.wikipedia.org/wiki/KBS_WORLD "wikilink") 14개 채널)
-  - 2013\. 8 : KBS1, KBS2 TV 실시간 자막 서비스zz
+  - 2013\. 8 : KBS1, KBS2 TV 실시간 자막 서비스
   - 2015\. 3 : 플레이어 K에서 KBS my K로 이름 변경, 전체 이름은 KBS my best friend K
   - 2015\. 9 : 9개 지역총국 KBS1TV 실시간 서비스
   - 2018\. 8 : 화면 UI/UX 개편, AWS 클라우드로 전환
 
-## my K 오리지널
+<!-- end list -->
 
-  - 2019 : [어썸 라이브](../Page/어썸_라이브.md "wikilink")
-  - 2018 : [디지털시청자칼럼](../Page/디지털시청자칼럼.md "wikilink")
-
+  -
 ## 외부 링크
 
   - [Google Play 앱](https://play.google.com/store/apps/details?id=kr.co.kbs.kplayer&hl=ko)

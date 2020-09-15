@@ -26,8 +26,6 @@
 
 ## 각주
 
-## 외부 링크
-
 [분류:1994년 음반](https://ko.wikipedia.org/wiki/분류:1994년_음반 "wikilink") [분류:에릭 클랩튼의 음반](https://ko.wikipedia.org/wiki/분류:에릭_클랩튼의_음반 "wikilink") [분류:워너 브라더스 레코드 음반](https://ko.wikipedia.org/wiki/분류:워너_브라더스_레코드_음반 "wikilink") [분류:리프리즈 레코드 음반](https://ko.wikipedia.org/wiki/분류:리프리즈_레코드_음반 "wikilink")
 
 1.

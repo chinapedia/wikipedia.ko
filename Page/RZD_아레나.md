@@ -27,7 +27,7 @@
 
   - [RZD Arena](http://www.fclm.ru/en/club/stadium/)
 
-[분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [분류:러시아의 축구 경기 시설](https://ko.wikipedia.org/wiki/분류:러시아의_축구_경기_시설 "wikilink") [분류:러시아 축구 국가대표팀](https://ko.wikipedia.org/wiki/분류:러시아_축구_국가대표팀 "wikilink") [분류:FC 로코모티프 모스크바](https://ko.wikipedia.org/wiki/분류:FC_로코모티프_모스크바 "wikilink") [분류:2002년 완공된 스포츠 시설](https://ko.wikipedia.org/wiki/분류:2002년_완공된_스포츠_시설 "wikilink") [분류:모스크바주의 건축물](https://ko.wikipedia.org/wiki/분류:모스크바주의_건축물 "wikilink") [분류:모스크바주의 스포츠](https://ko.wikipedia.org/wiki/분류:모스크바주의_스포츠 "wikilink")
+[분류:2002년 설립](https://ko.wikipedia.org/wiki/분류:2002년_설립 "wikilink") [분류:러시아의 축구 경기 시설](https://ko.wikipedia.org/wiki/분류:러시아의_축구_경기_시설 "wikilink") [분류:러시아 축구 국가대표팀](https://ko.wikipedia.org/wiki/분류:러시아_축구_국가대표팀 "wikilink") [분류:FC 로코모티프 모스크바](https://ko.wikipedia.org/wiki/분류:FC_로코모티프_모스크바 "wikilink") [분류:2002년 완공된 스포츠 시설](https://ko.wikipedia.org/wiki/분류:2002년_완공된_스포츠_시설 "wikilink") [분류:모스크바주의 건축물](https://ko.wikipedia.org/wiki/분류:모스크바주의_건축물 "wikilink") [분류:모스크바주의 스포츠](https://ko.wikipedia.org/wiki/분류:모스크바주의_스포츠 "wikilink") [분류:동부 행정구](https://ko.wikipedia.org/wiki/분류:동부_행정구 "wikilink")
 
 1.
 2.

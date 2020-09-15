@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1973년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1973년_CONCACAF_챔피언스컵).
 
 
-**1973년 CONCACAF 챔피언스컵**(1973 CONCACAF Champions' Cup)은 [1973년](../Page/1973년.md "wikilink") [6월 1일부터](../Page/6월_1일.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 9번째 대회이다. [수리남](../Page/수리남.md "wikilink")의 [트란스발이](../Page/SV_트란스발.md "wikilink") 우승을 차지했다.
+**1973년 CONCACAF 챔피언스컵**(1973 CONCACAF Champions' Cup)은 [1973년](../Page/1973년.md "wikilink") [6월 1일부터](../Page/6월_1일.md "wikilink") [8월 3일까지](../Page/8월_3일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 9번째 대회이다. [수리남](../Page/수리남.md "wikilink")의 [트란스발이](../Page/SV_트란스발.md "wikilink") 우승을 차지했다.
 
 ## 북아메리카 지역 예선
 

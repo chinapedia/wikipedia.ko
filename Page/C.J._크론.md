@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [C.J. 크론](https://ko.wikipedia.org/wiki/C.J._크론).
+
+
+**크리스토퍼 존 크론 주니어**(Christopher John Cron Jr., [1990년](../Page/1990년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ )는 **C.J. 크론**(C. J. Cron)이라는 이름으로 알려져 있는 [미국](../Page/미국.md "wikilink")의 [야구](../Page/야구.md "wikilink") 선수로, 메이저 리그 [디트로이트 타이거스의](../Page/디트로이트_타이거스.md "wikilink") 1루수이다. 미국의 전직 메이저 리그 소속 야구 선수였던 [크리스 크론의](https://ko.wikipedia.org/wiki/크리스_크론 "wikilink") 아들이기도 하다.
+
+[분류:1990년 태어남](https://ko.wikipedia.org/wiki/분류:1990년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:로스앤젤레스 에인절스 오브 애너하임 선수](https://ko.wikipedia.org/wiki/분류:로스앤젤레스_에인절스_오브_애너하임_선수 "wikilink") [분류:탬파베이 레이스 선수](https://ko.wikipedia.org/wiki/분류:탬파베이_레이스_선수 "wikilink") [분류:미네소타 트윈스 선수](https://ko.wikipedia.org/wiki/분류:미네소타_트윈스_선수 "wikilink") [분류:디트로이트 타이거스 선수](https://ko.wikipedia.org/wiki/분류:디트로이트_타이거스_선수 "wikilink") [분류:캘리포니아주 출신 야구 선수](https://ko.wikipedia.org/wiki/분류:캘리포니아주_출신_야구_선수 "wikilink") [분류:메이저 리그 베이스볼 내야수](https://ko.wikipedia.org/wiki/분류:메이저_리그_베이스볼_내야수 "wikilink")

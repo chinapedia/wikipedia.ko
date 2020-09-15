@@ -23,7 +23,7 @@
 
 ## 외부 링크
 
-[분류:1975년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1975년_데뷔_음반 "wikilink") [분류:레인보우의 음반](https://ko.wikipedia.org/wiki/분류:레인보우의_음반 "wikilink") [분류:폴리도르 레코드 음반](https://ko.wikipedia.org/wiki/분류:폴리도르_레코드_음반 "wikilink")
+[분류:1975년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1975년_데뷔_음반 "wikilink") [분류:레인보우 (밴드)의 음반](https://ko.wikipedia.org/wiki/분류:레인보우_\(밴드\)의_음반 "wikilink") [분류:폴리도르 레코드 음반](https://ko.wikipedia.org/wiki/분류:폴리도르_레코드_음반 "wikilink")
 
 1.
 2.

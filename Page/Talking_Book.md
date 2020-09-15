@@ -27,6 +27,8 @@
 
 ## 외부 링크
 
+  - *[Talking Book](http://www.discogs.com/Stevie-Wonder-Talking-Book/master/87446)*
+
 [분류:1972년 음반](https://ko.wikipedia.org/wiki/분류:1972년_음반 "wikilink") [분류:스티비 원더의 음반](https://ko.wikipedia.org/wiki/분류:스티비_원더의_음반 "wikilink")
 
 1.  Some observers count six classic albums, some count five, and others count four.

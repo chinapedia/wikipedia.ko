@@ -33,9 +33,8 @@
 ## 출장가수
 
 **진한 글씨는 그 해 첫 출장을 나타냄.**
-*괄호 안의 숫자는 출장횟수를 나타냄.*</br>
-
-### 1부
+*괄호 안의 숫자는 출장횟수를 나타냄.*
+\=== 1부 ===
 
   - 아카구미(紅組) :
       - **[후지모토 미키](../Page/후지모토_미키.md "wikilink") (1)** 〈ロマンティック 浮かれモード〉
@@ -45,15 +44,12 @@
       - 후지 아야코 (11) 〈流氷恋唄〉
       - [마츠우라 아야](../Page/마츠우라_아야.md "wikilink") (2) 〈Yeah\! めっちゃホリディ〉
       - [카하라 토모미](../Page/카하라_토모미.md "wikilink") (4) 〈あきらめましょう〉
-      - [hitomi](https://ko.wikipedia.org/wiki/hitomi "wikilink") (2) 〈SAMURAI DRIVE〉
+      - [히토미](https://ko.wikipedia.org/wiki/히토미_\(가수\) "wikilink") (2) 〈SAMURAI DRIVE〉
       - **스즈키 노리에 (1)** 〈私のおとうさん〉
       - [모닝구무스메](../Page/모닝구무스메.md "wikilink") (5) 〈[ここにいるぜぇ\!](../Page/여기에_있어!.md "wikilink") [そうだ\! We're ALIVE](https://ko.wikipedia.org/wiki/소다!_We're_ALIVE "wikilink") 2002 Ver.〉
       - [나가야마 요코](../Page/나가야마_요코.md "wikilink") (9) 〈めぐり逢い〉
       - 코야나기 유키 (3) 〈Lovin' you〉
       - 나카무라 미츠코 (10) 〈河内おとこ節〉
-
-<!-- end list -->
-
   - 시로구미(白組) :
       - **[w-inds.](https://ko.wikipedia.org/wiki/w-inds. "wikilink") (1)** 〈[NEW PARADISE](../Page/NEW_PARADISE.md "wikilink")〉
       - **[RAG FAIR](../Page/RAG_FAIR.md "wikilink") (1)** 〈恋のマイレージ〉

@@ -63,7 +63,7 @@
   - Doppler navigation
   - CT-52 정찰 포드
 
-## 더 보기
+## 같이 보기
 
   - [아브로 벌컨](../Page/아브로_벌컨.md "wikilink")
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG G 비스타 2](https://ko.wikipedia.org/wiki/LG_G_비스타_2).
 
 
-**LG G 비스타 2**는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [11월 5일](../Page/11월_5일.md "wikilink"), [미국](../Page/미국.md "wikilink") AT\&T 전용으로 출시한 중저가형 패블릿 스마트폰이다.\[1\] [G 비스타의](../Page/LG_Gx2.md "wikilink") 후속작으로 성능이 대폭 향상되었으며, 스타일러스 펜이 추가되었다. [G 비스타가](../Page/LG_Gx2.md "wikilink") 한국에는 [GX2라는](../Page/LG_Gx2.md "wikilink") 이름으로 출시되었기 때문에 G 비스타 2도 GX3라는 이름으로 출시된다는 루머가 돌기도 하였으나 결국 출시되지 않았다.
+**LG G 비스타 2**는 [LG전자](../Page/LG전자.md "wikilink")가 [2015년](../Page/2015년.md "wikilink") [11월 5일에](../Page/11월_5일.md "wikilink") [미합중국](https://ko.wikipedia.org/wiki/미합중국 "wikilink") AT\&T 전용으로 출시한 중저가형 패블릿 스마트폰이다.\[1\] [G 비스타의](../Page/LG_Gx2.md "wikilink") 후속작으로 성능이 대폭 향상되었으며, 스타일러스 펜이 추가되었다. [G 비스타가](../Page/LG_Gx2.md "wikilink") 한국에는 [GX2라는](../Page/LG_Gx2.md "wikilink") 이름으로 출시되었기 때문에 G 비스타 2도 GX3라는 이름으로 출시된다는 루머가 돌기도 하였으나 결국 출시되지 않았다.
 
 ## 운영 체제 / 소프트웨어
 

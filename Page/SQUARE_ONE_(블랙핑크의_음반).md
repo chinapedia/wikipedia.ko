@@ -12,4 +12,4 @@
   - ["휘파람" MV](https://www.youtube.com/watch?v=dISNgvVpWlo) - [유튜브](../Page/유튜브.md "wikilink")
   - ["붐바야" MV](https://www.youtube.com/watch?v=bwmSjveL3Lc) - [유튜브](../Page/유튜브.md "wikilink")
 
-[분류:2016년 싱글](https://ko.wikipedia.org/wiki/분류:2016년_싱글 "wikilink") [분류:데뷔 싱글](https://ko.wikipedia.org/wiki/분류:데뷔_싱글 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:지니뮤직 음반](https://ko.wikipedia.org/wiki/분류:지니뮤직_음반 "wikilink") [분류:블랙핑크의 음반](https://ko.wikipedia.org/wiki/분류:블랙핑크의_음반 "wikilink") [분류:YG 엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_싱글 "wikilink")
+[분류:2016년 싱글](https://ko.wikipedia.org/wiki/분류:2016년_싱글 "wikilink") [분류:데뷔 싱글](https://ko.wikipedia.org/wiki/분류:데뷔_싱글 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:블랙핑크의 음반](https://ko.wikipedia.org/wiki/분류:블랙핑크의_음반 "wikilink") [분류:YG 엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_싱글 "wikilink")

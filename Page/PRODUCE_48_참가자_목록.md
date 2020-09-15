@@ -257,7 +257,7 @@
 <tr class="odd">
 <td><p>17</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/가은_(1994년)" title="wikilink">이가은</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/PLEDIS" title="wikilink">PLEDIS</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/플레디스" title="wikilink">플레디스</a></p></td>
 <td><p>1994.</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>5</p></td>

@@ -67,7 +67,7 @@ dtrace -n 'vminfo:::pgpgin { @pg[execname] = sum(arg0); }'
   - [Tech Talk on DTrace given by Bryan Cantrill](https://www.youtube.com/watch?v=TgmA48fILq8%7CGoogle)
   - [Hidden in Plain Sight](http://queue.acm.org/detail.cfm?id=1117401), Sun Microsystems, by Bryan Cantrill
 
-[분류:자유 시스템 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_시스템_소프트웨어 "wikilink") [분류:디버거](https://ko.wikipedia.org/wiki/분류:디버거 "wikilink") [분류:관점 지향 프로그래밍](https://ko.wikipedia.org/wiki/분류:관점_지향_프로그래밍 "wikilink") [분류:리눅스 커널 특징](https://ko.wikipedia.org/wiki/분류:리눅스_커널_특징 "wikilink")
+[분류:자유 시스템 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_시스템_소프트웨어 "wikilink") [분류:디버거](https://ko.wikipedia.org/wiki/분류:디버거 "wikilink") [분류:관점 지향 프로그래밍](https://ko.wikipedia.org/wiki/분류:관점_지향_프로그래밍 "wikilink") [분류:리눅스 커널 특징](https://ko.wikipedia.org/wiki/분류:리눅스_커널_특징 "wikilink") [분류:썬 마이크로시스템즈 소프트웨어](https://ko.wikipedia.org/wiki/분류:썬_마이크로시스템즈_소프트웨어 "wikilink")
 
 1.  <http://www.slideshare.net/brendangregg/from-dtrace-to-linux> Published on Oct 13, 2014 (slide 28)
 2.  <https://github.com/dtrace4linux/linux>

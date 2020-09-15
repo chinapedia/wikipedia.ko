@@ -5,7 +5,7 @@
 
 ## 활동
 
-1912년 [옥스퍼드 대학교에](../Page/옥스퍼드_대학교.md "wikilink") 입학, 현대 언어와 중세 문학을 공부하였고 1920년에는 옥스퍼드 대학교 문학 석사 학위를 취득하였다. 그녀는 당시 옥스퍼드의 학위를 취득한 최초의 여성이었다. 도로시 L. 세이어스는 죽기 직전까지 추리소설은 물론 시, 희곡, 문학 비평, 번역, 에세이에 이르기까지 실로 넓은 영역에서 저술 활동을 하였다.[C. S. 루이스와](../Page/C._S._루이스.md "wikilink")[J. R. R. 톨킨](../Page/J._R._R._톨킨.md "wikilink"), [T. S. 엘리엇](../Page/T._S._엘리엇.md "wikilink") 등 당대 대표 작가들과 친분을 쌓았으며 1929년에는 G. K. 체스터튼, [애거서 크리스티](https://ko.wikipedia.org/wiki/애거서_크리스티 "wikilink"), 로널드 녹스 등과 더불어 영국 탐정소설 작가 클럽을 결성하기도 했다.\[3\]
+1912년 [옥스퍼드 대학교에](../Page/옥스퍼드_대학교.md "wikilink") 입학, 현대 언어와 중세 문학을 공부하였고 1920년에는 옥스퍼드 대학교 문학 석사 학위를 취득하였다. 그녀는 당시 옥스퍼드의 학위를 취득한 최초의 여성이었다. 도로시 L. 세이어스는 죽기 직전까지 추리소설은 물론 시, 희곡, 문학 비평, 번역, 에세이에 이르기까지 실로 넓은 영역에서 저술 활동을 하였다. [C. S. 루이스와](../Page/C._S._루이스.md "wikilink") [J. R. R. 톨킨](../Page/J._R._R._톨킨.md "wikilink"), [T. S. 엘리엇](../Page/T._S._엘리엇.md "wikilink") 등 당대 대표 작가들과 친분을 쌓았으며 1929년에는 G. K. 체스터튼, [애거서 크리스티](https://ko.wikipedia.org/wiki/애거서_크리스티 "wikilink"), 로널드 녹스 등과 더불어 영국 탐정소설 작가 클럽을 결성하기도 했다.\[3\]
 
 [대체글=Photograph of Christ Church Cathedral, the cathedral of the diocese of Oxford which also serves as the chapel of Christ Church College of the University of Oxford](https://ko.wikipedia.org/wiki/파일:Cathedral_oxford.jpg "wikilink")
 

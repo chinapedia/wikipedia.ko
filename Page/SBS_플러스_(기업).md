@@ -11,14 +11,24 @@
 
 ## 주요 방송 채널
 
-  - [SBS Plus](../Page/SBS_플러스.md "wikilink"): 드라마, 예능을 포함한 종합 엔터테인먼트 채널(슬로건: 기쁨 Plus)
+  -
+  -
+
+|                                           |                          |             |
+| ----------------------------------------- | ------------------------ | ----------- |
+| [SBS Plus](../Page/SBS_플러스.md "wikilink") | 드라마 예능을 포함한 종합 엔터테인먼트 채널 | 슬로건 기쁨 Plus |
 
 \- \<[셰프끼리](https://ko.wikipedia.org/wiki/셰프끼리 "wikilink")\>, \<[중화대반점](https://ko.wikipedia.org/wiki/중화대반점 "wikilink")\>, \<[도도하라](../Page/도도하라.md "wikilink")\>, \<[당신을 주문합니다](../Page/당신을_주문합니다.md "wikilink")\>, \<[똥강아지들](https://ko.wikipedia.org/wiki/똥강아지들 "wikilink")\>, \<[펫츠고\! 댕댕트립](https://ko.wikipedia.org/wiki/펫츠고!_댕댕트립 "wikilink")\> 등 드라마, 예능 프로그램 자체 제작
 
 \- 수준 높은 SBS 최신, 명작 드라마 제공
 
-  - [SBS FunE](https://ko.wikipedia.org/wiki/SBS_FunE "wikilink"): 연예 오락 전문 채널채널(슬로건: 다 함께 Fun\!)
+  -
 
+|                                                               |             |                |
+| ------------------------------------------------------------- | ----------- | -------------- |
+| [SBS FunE](https://ko.wikipedia.org/wiki/SBS_FunE "wikilink") | 연예 오락 전문 채널 | 슬로건 다 함께 Fun\! |
+
+  -
 \- \<[패션와 비밀의 상자](https://ko.wikipedia.org/wiki/패션와_비밀의_상자 "wikilink")\>, \<[슈퍼모델 선발대회](../Page/슈퍼모델_선발대회.md "wikilink")\> 등 다양한 자체 제작 프로그램 방송
 
 \- \<[런닝맨](https://ko.wikipedia.org/wiki/런닝맨 "wikilink")\>, \<[미운우리새끼](../Page/미운_우리_새끼.md "wikilink")\> 등 SBS 인기 예능 프로그램 방송

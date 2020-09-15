@@ -40,5 +40,5 @@
 
 [분류:미국의 신학자](https://ko.wikipedia.org/wiki/분류:미국의_신학자 "wikilink") [분류:칼뱅주의](https://ko.wikipedia.org/wiki/분류:칼뱅주의 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:바젤 대학교 동문](https://ko.wikipedia.org/wiki/분류:바젤_대학교_동문 "wikilink") [분류:장 칼뱅 연구가](https://ko.wikipedia.org/wiki/분류:장_칼뱅_연구가 "wikilink") [분류:장로교도](https://ko.wikipedia.org/wiki/분류:장로교도 "wikilink")
 
-1.  [Richard Gamble](http://www.providencecc.edu/febuary-academic-conference-featuring-dr-richard-gamble-how-the-reformation-transformed-genevan-society/)
-2.  [profile](https://christianuniversity.org/professors/dr-richard-c-gamble/)
+1.
+2.

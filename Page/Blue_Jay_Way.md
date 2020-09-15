@@ -1,0 +1,12 @@
+> This article is converted from Wikipedia: [Blue Jay Way](https://ko.wikipedia.org/wiki/Blue_Jay_Way).
+
+
+〈**Blue Jay Way**〉는 [영국](../Page/영국.md "wikilink")의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")가 녹음한 곡이다. [조지 해리슨이](../Page/조지_해리슨.md "wikilink") 작곡한 이 곡은 1967년 그룹의 《[Magical Mystery Tour](../Page/Magical_Mystery_Tour.md "wikilink")》 EP와 음반에 수록되었다. 이 노래는 해리슨이 [샌프란시스코](../Page/샌프란시스코.md "wikilink")의 [헤이트애시베리](https://ko.wikipedia.org/wiki/헤이트애시베리 "wikilink") 지역을 방문하기 직전인 1967년 8월 머물렀던 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")의 [할리우드 힐스의](https://ko.wikipedia.org/wiki/할리우드_힐스 "wikilink") 한 거리의 이름을 따서 지어졌다. 이 가사에는 음악 홍보 담당자인 [데렉 테일러가](https://ko.wikipedia.org/wiki/데렉_테일러 "wikilink") 안개가 자욱한 언덕을 뚫고 블루 제이 웨이로 가는 길을 찾기를 기다리는 해리슨의 기다림이 담겨 있으며, 해리슨은 런던에서 로스앤젤레스로 가는 비행 후 깨어 있으려고 애썼다.
+
+이 시기의 여러 해리슨의 작곡과 마찬가지로, 비틀즈는 해리슨이 연주하는 [드론](https://ko.wikipedia.org/wiki/드론_\(음악\) "wikilink") 같은 [해먼드 오르간](https://ko.wikipedia.org/wiki/해먼드_오르간 "wikilink") 부분을 포함하여 트랙에서 서양 악기만을 사용했지만, 〈Blue Jay Way〉는 [인도 고전 음악의](../Page/인도_고전_음악.md "wikilink") 측면을 통합하고 있다. 그룹의 사이키델릭 시대에 만들어진 이 트랙은 [플랜징](https://ko.wikipedia.org/wiki/플랜징 "wikilink"), [레슬리 로터리](https://ko.wikipedia.org/wiki/레슬리_스피커 "wikilink") 효과, 역전 테이프 사운드와 같은 스튜디오 기술을 폭넓게 활용한다. 이 곡은 1967년 비틀즈의 텔레비전 영화 《[매지컬 미스테리 투어](https://ko.wikipedia.org/wiki/매지컬_미스테리_투어_\(영화\) "wikilink")》에 등장했는데, 이 곡이 녹음에서 분명히 드러난 불안감과 탈골감을 시각적으로 재현한 순서였다.
+
+일부 평론가들은 이 노래가 단조롭다고 일축했지만, 다른 많은 비평가들은 그 노래의 갈망하는 질과 어두운 음악적 분위기에 감탄했다. [컨시퀀스 오브 사운드](https://ko.wikipedia.org/wiki/컨시퀀스_오브_사운드 "wikilink") 웹사이트는 〈Blue Jay Way〉를 "천사의 도시에 외설적이고 소름끼치는 신화를 추가하며 히트한 유령의 집"이라고 묘사하고 있다. 로스앤젤레스와 계속 연결된 이 곡은 컬트 리더 [찰스 맨슨이](../Page/찰스_맨슨.md "wikilink") 미국 인종과 관련된 반문화 혁명의 헬터 스켈터 이론의 토대로서 채택한 최초의 비틀즈 곡 중 하나이다. 이 노래를 취재한 아티스트로는 [버드 섕크](https://ko.wikipedia.org/wiki/버드_섕크 "wikilink"), [콜린 뉴먼](https://ko.wikipedia.org/wiki/콜린_뉴먼 "wikilink"), [트레이시 본햄](https://ko.wikipedia.org/wiki/트레이시_본햄 "wikilink"), [수지 앤 더 밴시스](../Page/수지_앤_더_밴시스.md "wikilink") 그리고 [그렉 호크스](https://ko.wikipedia.org/wiki/그렉_호크스 "wikilink") 등이 있다.
+
+## 외부 링크
+
+[분류:1967년 노래](https://ko.wikipedia.org/wiki/분류:1967년_노래 "wikilink") [분류:비틀즈의 노래](https://ko.wikipedia.org/wiki/분류:비틀즈의_노래 "wikilink") [분류:로스앤젤레스에 관한 노래](https://ko.wikipedia.org/wiki/분류:로스앤젤레스에_관한_노래 "wikilink")

@@ -29,7 +29,7 @@
 <li>최태완 - <a href="https://ko.wikipedia.org/wiki/키보드_(악기)" title="wikilink">건반</a>(1)</li>
 <li>김영용 - <a href="https://ko.wikipedia.org/wiki/타악기" title="wikilink">타악기</a>(1)</li>
 <li>한원종 - 코러스(1, 2, 5, 6)</li>
-<li>전승우 - 코러스(1)</li>
+<li><a href="../Page/전승우.md" title="wikilink">전승우</a> - 코러스(1)</li>
 <li>나원주 - <a href="../Page/피아노.md" title="wikilink">피아노</a>(3)</li>
 <li>양현 외 9인 - <a href="../Page/바이올린.md" title="wikilink">바이올린</a>(3, 5)</li>
 <li>한넬리, 박세진, 정운주 - <a href="../Page/비올라.md" title="wikilink">비올라</a>(3, 5)</li>

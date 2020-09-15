@@ -873,6 +873,9 @@
 
 ### [<span style="color:black">2020년</span>](../Page/2020년.md "wikilink")
 
+  -
+    <small>본 촬영은 출연진, 스태프, 관계자 모두 손 소독 및 마스크 착용 등 공공보건을 준수하여 진행하였다.</small>
+
 <table>
 <thead>
 <tr class="header">
@@ -993,12 +996,96 @@
 <tr class="even">
 <td><p>596</p></td>
 <td><p>6월 7일</p></td>
-<td><p><a href="../Page/선미.md" title="wikilink">선미</a>네 비디오가게</p></td>
-<td></td>
+<td><p><a href="../Page/선미.md" title="wikilink">선미</a>네 비디오가게 1부 (<a href="../Page/박미선.md" title="wikilink">박미선</a> 출연)</p></td>
+<td><p>파일럿 프로젝트[5]</p></td>
 </tr>
 <tr class="odd">
 <td><p>597</p></td>
 <td><p>6월 14일</p></td>
+<td><p>꼬리에 꼬리를 무는 그날 이야기 1부 〈<a href="https://ko.wikipedia.org/wiki/지강헌_사건" title="wikilink">지강헌 사건</a>〉 (<a href="../Page/1988년.md" title="wikilink">1988년</a>)</p></td>
+<td><p><a href="../Page/장성규.md" title="wikilink">장성규</a>, <a href="../Page/장항준.md" title="wikilink">장항준</a>, <a href="../Page/장도연.md" title="wikilink">장도연</a>, <a href="../Page/송은이.md" title="wikilink">송은이</a> 출연[6]</p></td>
+</tr>
+<tr class="even">
+<td><p>598</p></td>
+<td><p>6월 21일</p></td>
+<td><p>꼬리에 꼬리를 무는 그날 이야기 2부 〈<a href="../Page/박인수_사건.md" title="wikilink">박인수 사건</a>〉 (<a href="../Page/1955년.md" title="wikilink">1955년</a>)</p></td>
+<td><p><a href="../Page/장성규.md" title="wikilink">장성규</a>, <a href="../Page/장항준.md" title="wikilink">장항준</a>, <a href="../Page/장도연.md" title="wikilink">장도연</a> 출연[7]</p></td>
+</tr>
+<tr class="odd">
+<td><p>599</p></td>
+<td><p>6월 28일</p></td>
+<td><p>꼬리에 꼬리를 무는 그날 이야기 3부 (<a href="../Page/1998년.md" title="wikilink">1998년</a>)</p></td>
+<td><p><a href="../Page/장성규.md" title="wikilink">장성규</a>, <a href="../Page/장항준.md" title="wikilink">장항준</a>, <a href="../Page/장도연.md" title="wikilink">장도연</a>, <a href="../Page/허안나.md" title="wikilink">허안나</a> 출연[8]</p></td>
+</tr>
+<tr class="even">
+<td><p>600</p></td>
+<td><p>7월 5일</p></td>
+<td><p>혀를깨물다 일흔넷 <a href="https://ko.wikipedia.org/wiki/최말자_사건" title="wikilink">최말자의</a> 역사적인 여름</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>601</p></td>
+<td><p>7월 12일</p></td>
+<td><p>채팅앱에서 생긴일 은말하게 위험하게</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>602</p></td>
+<td><p>7월 19일</p></td>
+<td><p>혼공시대 당신의 아이는 혼자 공부할수 있습니까?</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>603</p></td>
+<td><p>7월 26일</p></td>
+<td><p>코로나시대 생존 전략을 찾아서</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>604</p></td>
+<td><p>8월 2일</p></td>
+<td><p>영재들의 성장시크릿</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>605</p></td>
+<td><p>8월 9일</p></td>
+<td><p>체벌, 훈육 그리고 학대</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>606</p></td>
+<td><p>8월 16일</p></td>
+<td><p>양육비전쟁 날버리지 말아요</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>607</p></td>
+<td><p>8월 23일</p></td>
+<td><p>개는 어떻게 사람을 사랑하는가</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>608</p></td>
+<td><p>8월 30일</p></td>
+<td><p>혼공코드 당신의 아이도 혼자 공부 할수 있습니다.</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>609</p></td>
+<td><p>9월 7일</p></td>
+<td><p>부린이와 동학개미 요즘것들의 재테크</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>610</p></td>
+<td><p>9월 14일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1021,3 +1108,7 @@
 2.  <http://wizard2.sbs.co.kr/resource/template/contents/07_review_detail.jsp?vProgId=1000083&vVodId=V0000010099&vMenuId=1001391&rpage=4&cpage=9&vVodCnt1=00709&vVodCnt2=00&vSection=V5&vCompressCode=>
 3.  참고로 [SBS](../Page/SBS.md "wikilink") 공채 탤런트는 [1991년](../Page/1991년.md "wikilink") 1기부터 [2009년](../Page/2009년.md "wikilink") 11기까지이며, 총 배출자는 200여명이다.
 4.  SBS 11기 공채 탤런트에 관한 이야기를 다루었다.
+5.  일부 장면에서 [시청 등급을](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 15세 이상 시청가로 분류하지 않기 때문에, "전체 시청가"로 분류되었다.
+6.
+7.
+8.

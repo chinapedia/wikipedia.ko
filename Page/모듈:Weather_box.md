@@ -64,7 +64,7 @@ local function makeSources(frame, args)
 `   local text`
 `   if source1 or source2 then`
 `       if source1 and source2 then`
-`           text = '출처 #1: ' .. source1 .. '\n' .. result .. '출처 #2: ' .. source2`
+`           text = '출처 1: ' .. source1 .. '\n' .. result .. '출처 2: ' .. source2`
 `       else`
 `           text = '출처: ' .. (source1 and source1 or source2)`
 `       end`

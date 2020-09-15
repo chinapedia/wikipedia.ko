@@ -5,4 +5,4 @@
 
 ## 각주
 
-[분류:1993년 도입](https://ko.wikipedia.org/wiki/분류:1993년_도입 "wikilink") [분류:매킨토시](https://ko.wikipedia.org/wiki/분류:매킨토시 "wikilink")
+[분류:1993년 도입](https://ko.wikipedia.org/wiki/분류:1993년_도입 "wikilink") [분류:68k 매킨토시](https://ko.wikipedia.org/wiki/분류:68k_매킨토시 "wikilink")

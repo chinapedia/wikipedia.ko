@@ -19,7 +19,7 @@
 
 2021년, 인도인이 무게 7톤의 ISRO 유인 우주선을 타고 인도 최초의 유인 우주비행을 할 계획이다. 무게 644톤의 [GSLV-III](../Page/GSLV-III.md "wikilink") 로켓으로 [사티시 다완 우주 센터에서](https://ko.wikipedia.org/wiki/사티시_다완_우주_센터 "wikilink") 발사될 것이다.
 
-## 더 보기
+## 같이 보기
 
 ## 각주
 

@@ -90,7 +90,7 @@
 
 ## 외부 링크
 
-  - [한국P2P금융협회 홈페이지](http://p2plending.or.kr/)
+  - [한국P2P금융협회 홈페이지](https://web.archive.org/web/20170611103311/http://p2plending.or.kr/)
   - [공시자료](http://p2plending.or.kr/public/)
   - [업체별 공시](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRBwbyj0ZDreW3asuYtvOs7RyEVnSSJ434J1Ye9Zx_ucVwCtQ7sZV1lCntG0nmvDOHbnBPBwyo1kgBS/pubhtml)
 

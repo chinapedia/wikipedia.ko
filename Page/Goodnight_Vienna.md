@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Goodnight Vienna](https://ko.wikipedia.org/wiki/Goodnight_Vienna).
 
 
-《**Goodnight Vienna**》는 [링고 스타의](../Page/링고_스타.md "wikilink") 네 번째 스튜디오 음반이다. 1974년 여름에 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에서 녹음되었고, 그 해 말에 발매되었다. 《Goodnight Vienna》는 상업적으로 성공한 이전 음반 《Ringo》를 따랐고, 스타는 [빌리 프레스턴](../Page/빌리_프레스턴.md "wikilink"), [클라우스 부어만](../Page/클라우스_부어만.md "wikilink"), [로비 로버트슨](../Page/로비_로버트슨.md "wikilink"), [해리 닐슨](../Page/해리_닐슨.md "wikilink"), 프로듀서 [리처드 페리를](https://ko.wikipedia.org/wiki/리처드_페리 "wikilink") 포함한 많은 같은 연주자를 사용했다. 제목은 "모든 것이 끝났다(it's all over)"는 뜻의 [리버풀](../Page/리버풀.md "wikilink") 속어다.
+《**Goodnight Vienna**》는 [링고 스타의](../Page/링고_스타.md "wikilink") 네 번째 스튜디오 음반이다. 1974년 여름에 [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에서 녹음되었고, 그 해 말에 발매되었다. 《Goodnight Vienna》는 상업적으로 성공한 이전 음반 《[Ringo](../Page/Ringo_\(음반\).md "wikilink")》를 따랐고, 스타는 [빌리 프레스턴](../Page/빌리_프레스턴.md "wikilink"), [클라우스 부어만](../Page/클라우스_부어만.md "wikilink"), [로비 로버트슨](../Page/로비_로버트슨.md "wikilink"), [해리 닐슨](../Page/해리_닐슨.md "wikilink"), 프로듀서 [리처드 페리를](https://ko.wikipedia.org/wiki/리처드_페리 "wikilink") 포함한 많은 같은 연주자를 사용했다. 제목은 "모든 것이 끝났다(it's all over)"는 뜻의 [리버풀](../Page/리버풀.md "wikilink") 속어다.
 
 ## 배경 및 녹음
 

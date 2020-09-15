@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [에글린턴역 \(GO\)](https://ko.wikipedia.org/wiki/에글린턴역_\(GO\)).
 
 
-**에글린턴역**(Eglinton Station) 은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink") 동쪽에 있는 [스카버러](https://ko.wikipedia.org/wiki/스카버러 "wikilink") 지역의 [GO 트랜싯](../Page/GO_트랜싯.md "wikilink") [레이크쇼어 이스트선](../Page/레이크쇼어_이스트선.md "wikilink") 통근 열차 역이다. 2016년에 새로운 보행자 터널과 엘리베이터가 설치되어 교통 약자도 손쉽게 이용할 수 있게 되었다.
+**에글린턴역**(Eglinton Station) 은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink") 동쪽에 있는 [스카버러](https://ko.wikipedia.org/wiki/스카버러 "wikilink")의 [에글린턴 애비뉴와](https://ko.wikipedia.org/wiki/에글린턴_애비뉴 "wikilink") 벨라미 로드에 있는 [GO 트랜싯](../Page/GO_트랜싯.md "wikilink") [레이크쇼어 이스트선](../Page/레이크쇼어_이스트선.md "wikilink") 통근 열차 역이다. 2016년에 새로운 보행자 터널과 엘리베이터가 설치되어 교통 약자도 손쉽게 이용할 수 있게 되었다.
 
 ## 버스 연결편
 

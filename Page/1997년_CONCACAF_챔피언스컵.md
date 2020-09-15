@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1997년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1997년_CONCACAF_챔피언스컵).
 
 
-**1997년 CONCACAF 챔피언스컵**(1997 CONCACAF Champions' Cup)은 [1997년](../Page/1997년.md "wikilink") [6월 1일부터](../Page/6월_1일.md "wikilink") [8월 24일까지](../Page/8월_24일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 33번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술이](../Page/크루스_아술.md "wikilink") 결승전에서 [미국](../Page/미국.md "wikilink")의 [로스앤젤레스 갤럭시를](../Page/로스앤젤레스_갤럭시.md "wikilink") 누르고 우승을 차지했다.
+**1997년 CONCACAF 챔피언스컵**(1997 CONCACAF Champions' Cup)은 [1997년](../Page/1997년.md "wikilink") [6월 1일부터](../Page/6월_1일.md "wikilink") [8월 24일까지](../Page/8월_24일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 33번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술이](../Page/크루스_아술.md "wikilink") 결승전에서 [미국](../Page/미국.md "wikilink")의 [로스앤젤레스 갤럭시를](../Page/로스앤젤레스_갤럭시.md "wikilink") 누르고 우승을 차지했다.
 
 ## 예선 라운드
 

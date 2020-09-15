@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [쌍용 코란도 C](https://ko.wikipedia.org/wiki/쌍용_코란도_C).
 
 
-'''쌍용 코란도 C (SsangYong Korando C) '''는 [대한민국](../Page/대한민국.md "wikilink")의 [쌍용자동차](../Page/쌍용자동차.md "wikilink")가 [2011년](../Page/2011년.md "wikilink")부터 [2019년](../Page/2019년.md "wikilink")까지 생산한 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink").
+**쌍용 코란도 C**(SsangYong Korando C)는 [대한민국](../Page/대한민국.md "wikilink")의 [쌍용자동차](../Page/쌍용자동차.md "wikilink")가 [2011년](../Page/2011년.md "wikilink")부터 [2019년](../Page/2019년.md "wikilink")까지 생산한 [SUV이며](../Page/스포츠_유틸리티_자동차.md "wikilink"), [코란도](../Page/쌍용_코란도.md "wikilink") 3세대의 [대한민국](../Page/대한민국.md "wikilink") 내수명이다.
 
 {{-}}
 
@@ -672,7 +672,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:20170406_SsangYong_Korando_C_01.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:20170406_SsangYong_Korando_C_02.jpg "wikilink")
 
-[2017년](../Page/2017년.md "wikilink") [1월 4일에](../Page/1월_4일.md "wikilink") 다시 한번 페이스 리프트를 거쳤다. [쌍용자동차](../Page/쌍용자동차.md "wikilink")의 디자인 아이덴티티인 숄더 윙 라디에이터 그릴이 적용되어 헤드 램프와 완벽하게 일체화된 선을 이루었고, 방향 지시등이 앞 범퍼로 옮겨졌다. 뒷 범퍼의 플라스틱 패널의 크기를 키워 오프로더 이미지를 더욱 강조하였다. 새로운 형상의 스티어링 휠은 오디오와 크루즈 컨트롤 등 모든 기능을 손쉽게 조작할 수 있도록 버튼을 구성하였고, 운전자의 취향과 기분에 따라 6컬러 중 선택할 수 있는 실린더 타입의 슈퍼비전 클러스터는 크롬 몰딩을 둘러 고급스러움과 스포티함을 추구하였다. 동급 최초로 전방 세이프티 카메라가 신규 적용되었으며, 확대 적용된 전·후방 감지 센서와 후방 카메라는 사각지대를 해소하여 안전성을 향상시켰다. [2019년 2월에](https://ko.wikipedia.org/wiki/2019년_2월 "wikilink") [4세대 뷰티풀 코란도에게](https://ko.wikipedia.org/wiki/쌍용_코란도#4세대\(C300\) "wikilink") 자리를 세습하고 단종되었다.
+[2017년](../Page/2017년.md "wikilink") [1월 4일에](../Page/1월_4일.md "wikilink") 다시 한번 페이스 리프트를 거쳤다. [쌍용자동차](../Page/쌍용자동차.md "wikilink")의 디자인 아이덴티티인 숄더 윙 라디에이터 그릴이 적용되어 헤드 램프와 완벽하게 일체화된 선을 이루었고, 방향 지시등이 앞 범퍼로 옮겨졌다. 뒷 범퍼의 플라스틱 패널의 크기를 키워 오프로더 이미지를 더욱 강조하였다. 새로운 형상의 스티어링 휠은 오디오와 크루즈 컨트롤 등 모든 기능을 손쉽게 조작할 수 있도록 버튼을 구성하였고, 운전자의 취향과 기분에 따라 6컬러 중 선택할 수 있는 실린더 타입의 슈퍼비전 클러스터는 크롬 몰딩을 둘러 고급스러움과 스포티함을 추구하였다. 동급 최초로 전방 세이프티 카메라가 신규 적용되었으며, 확대 적용된 전·후방 감지 센서와 후방 카메라는 사각지대를 해소하여 안전성을 향상시켰다. [2019년 2월에](https://ko.wikipedia.org/wiki/2019년_2월 "wikilink") [코란도의](../Page/쌍용_코란도.md "wikilink") 4세대 모델인 [뷰티풀 코란도에게](https://ko.wikipedia.org/wiki/쌍용_코란도#4세대\(C300\) "wikilink") 자리를 세습하고 단종되었다.
 
 <div class="NavFrame" style="clear:both">
 

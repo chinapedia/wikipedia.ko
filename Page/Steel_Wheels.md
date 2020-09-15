@@ -9,6 +9,8 @@
 
 모든 곡들은 [스티브 조던과](../Page/스티브_조던.md "wikilink") 공동 작사/작곡한 〈[Almost Hear You Sigh](https://ko.wikipedia.org/wiki/Almost_Hear_You_Sigh "wikilink")〉을 제외하고, [믹 재거와 키스 리처즈가](https://ko.wikipedia.org/wiki/재거/리처즈 "wikilink") 작사/작곡하였다.
 
+## 각주
+
 ## 외부 링크
 
 [분류:1989년 음반](https://ko.wikipedia.org/wiki/분류:1989년_음반 "wikilink") [분류:롤링 스톤스의 음반](https://ko.wikipedia.org/wiki/분류:롤링_스톤스의_음반 "wikilink") [분류:컬럼비아 레코드 음반](https://ko.wikipedia.org/wiki/분류:컬럼비아_레코드_음반 "wikilink") [분류:버진 레코드 음반](https://ko.wikipedia.org/wiki/분류:버진_레코드_음반 "wikilink")

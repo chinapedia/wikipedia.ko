@@ -813,7 +813,7 @@
 커털린 퇴뢱 (<a href="https://ko.wikipedia.org/wiki/헝가리_축구_연맹" title="wikilink">헝가리</a>)<br />
 사냐 로작-카르시치 (<a href="https://ko.wikipedia.org/wiki/크로아티아_축구_연맹" title="wikilink">크로아티아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/야나_아담코바" title="wikilink">야나 아담코바</a> (<a href="https://ko.wikipedia.org/wiki/체코_축구_협회" title="wikilink">체코</a>)<br />
+<a href="../Page/야나_아담코바.md" title="wikilink">야나 아담코바</a> (<a href="https://ko.wikipedia.org/wiki/체코_축구_협회" title="wikilink">체코</a>)<br />
 <strong>보조 대기심:</strong><br />
 스테파니-데일 이 싱 (<a href="https://ko.wikipedia.org/wiki/자메이카_축구_연맹" title="wikilink">자메이카</a>)<br />
 <strong>비디오 판독심:</strong><br />

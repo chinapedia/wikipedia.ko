@@ -72,7 +72,7 @@ Hunspell은 다음의 프로그램들에서 맞춤법 검사기로 사용할 수
 <tr class="even">
 <td><p>| <a href="../Page/사파리_(웹_브라우저).md" title="wikilink">사파리</a></p></td>
 <td><p><a href="../Page/웹_브라우저.md" title="wikilink">웹 브라우저</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/애플_(기업)" title="wikilink">Apple</a></p></td>
+<td><p><a href="../Page/애플.md" title="wikilink">Apple</a></p></td>
 <td><p>?</p></td>
 <td><p>-</p></td>
 </tr>
@@ -425,7 +425,7 @@ Hunspell은 [자유 소프트웨어의](../Page/자유_소프트웨어.md "wikil
 
   - [Mozilla bug report: Replace MySpell with HunSpell](https://bugzilla.mozilla.org/show_bug.cgi?id=319778)
 
-  - [Obtaining and Using Hunspell Compatible Dictionaries with XMetaL Author](http://forums.xmetal.com/index.php/topic,3011)
+  - [Obtaining and Using Hunspell Compatible Dictionaries with XMetaL Author](https://web.archive.org/web/20170824175253/http://forums.xmetal.com/index.php/topic,3011)
 
 [분류:맞춤법 검사기](https://ko.wikipedia.org/wiki/분류:맞춤법_검사기 "wikilink")
 

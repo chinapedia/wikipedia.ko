@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [메르세데스-벤츠 GLA](https://ko.wikipedia.org/wiki/메르세데스-벤츠_GLA).
 
 
-**메르세데스-벤츠 GLA 클래스**(Mercedes-Benz GLA-Class)는 [독일](../Page/독일.md "wikilink")의 [자동차](../Page/자동차.md "wikilink") 회사인 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조하여 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 브랜드로 판매하는 준중형 크로스오버 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink").
+**메르세데스-벤츠 GLA 클래스**(Mercedes-Benz GLA-Class)는 [독일](../Page/독일.md "wikilink")의 [자동차](../Page/자동차.md "wikilink") 회사인 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조하여 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 브랜드로 판매하는 준중형 크로스오버 [SUV이다](../Page/스포츠_유틸리티_자동차.md "wikilink").  {{-}}
 
 ## 1세대(X156)
 
@@ -9,11 +9,15 @@
 
 파일:Mercedes-Benz GLA X156 45 AMG 01 China 2016-04-17.jpg|메르세데스-AMG GLA 45 정측면 파일:Mercedes-Benz GLA X156 45 AMG 02 China 2016-04-17.jpg|메르세데스-AMG GLA 45 후측면
 
+{{-}}
+
 ## 2세대(H247)
 
 [2019년 12월](https://ko.wikipedia.org/wiki/2019년_12월 "wikilink") 메르세데스 me 미디어에서 공개되었다. 이와 동시에 코드네임 H로 변경되었다. 이와 동시에 길이가 잛아졌으나 전고를 좀더 높였다. 이와 동시에 와이드 디스플레이와 벤츠의 인공지능 기술인 MBUX가 적용되었다.
 
 파일:Mercedes-Benz H247 IMG 2805.jpg|메르세데스-벤츠 GLA 클래스 정측면 파일:Mercedes-Benz H247 IMG 2687.jpg|메르세데스-벤츠 GLA 클래스 후측면
+
+{{-}}
 
 ## 외부 링크
 

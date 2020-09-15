@@ -17,7 +17,7 @@ PDP-10은 [시분할](https://ko.wikipedia.org/wiki/시분할 "wikilink")을 일
   - KS10
   - 프론트엔드 시스템
 
-## 참고문헌
+## 참고 문헌
 
   - [C. Gordon Bell](https://ko.wikipedia.org/wiki/C._Gordon_Bell "wikilink"), [Alan Kotok](https://ko.wikipedia.org/wiki/Alan_Kotok "wikilink"), Thomas N. Hastings, Richard Hill, [*The Evolution of the DECsystem-10*](http://research.microsoft.com/users/GBell/Computer_Engineering/00000511.htm), in C. Gordon Bell, J. Craig Mudge, John E. McNamara, [*Computer Engineering: A DEC View of Hardware Systems Design*](http://research.microsoft.com/users/GBell/Computer_Engineering/contents.html) (Digital, Bedford, 1979)
 
@@ -33,7 +33,7 @@ PDP-10은 [시분할](https://ko.wikipedia.org/wiki/시분할 "wikilink")을 일
   - [PDP-10 stuff](http://pdp10.nocrew.org/)
   - [alt.sys.pdp10](news:alt.sys.pdp10)
 
-[분류:1968년 도입](https://ko.wikipedia.org/wiki/분류:1968년_도입 "wikilink") [분류:36비트 컴퓨터](https://ko.wikipedia.org/wiki/분류:36비트_컴퓨터 "wikilink")
+[분류:1968년 도입](https://ko.wikipedia.org/wiki/분류:1968년_도입 "wikilink") [분류:36비트 컴퓨터](https://ko.wikipedia.org/wiki/분류:36비트_컴퓨터 "wikilink") [분류:명령어 집합 구조](https://ko.wikipedia.org/wiki/분류:명령어_집합_구조 "wikilink")
 
 1.  Ceruzzi, p. 208, "It was large—even DEC's own literature called \[the PDP-10\] a mainframe."
 2.  Ceruzzi, p. 139

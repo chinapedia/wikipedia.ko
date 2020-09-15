@@ -11,8 +11,8 @@ KFNX는 1991년 7월 12일, **KCCF**라는 명칭으로 처음 개국했다. [19
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.1100kfnx.com)
-  - [KFNX 프로그램 스케줄](http://www.1100kfnx.com/index.php?/program_lineup/)
+  - [공식 웹사이트](https://web.archive.org/web/20180108120427/http://www.1100kfnx.com/)
+  - [KFNX 프로그램 스케줄](https://web.archive.org/web/20200605033144/http://www.1100kfnx.com/index.php?%2Fprogram_lineup%2F)
 
 ## 참조
 

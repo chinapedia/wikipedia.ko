@@ -5,8 +5,6 @@
 
 ## 각주
 
-## 외부 링크
-
 [분류:1982년 노래](https://ko.wikipedia.org/wiki/분류:1982년_노래 "wikilink") [분류:1982년 싱글](https://ko.wikipedia.org/wiki/분류:1982년_싱글 "wikilink") [분류:퀸의 노래](https://ko.wikipedia.org/wiki/분류:퀸의_노래 "wikilink") [분류:브라이언 메이가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:브라이언_메이가_작곡한_노래 "wikilink") [분류:다언어 노래](https://ko.wikipedia.org/wiki/분류:다언어_노래 "wikilink")
 
 1.  Roberts, David (2006). [British Hit Singles & Albums](https://ko.wikipedia.org/wiki/British_Hit_Singles_&_Albums "wikilink"). London: Guinness World Records Limited

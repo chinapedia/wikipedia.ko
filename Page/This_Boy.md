@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [This Boy](https://ko.wikipedia.org/wiki/This_Boy).
 
 
-〈**This Boy**〉는 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 곡으로, [존 레논이](../Page/존_레논.md "wikilink") 썼다([레논-매카트니](../Page/레논-매카트니.md "wikilink")로 표기). 1963년 11월, 팔로폰에서 싱글 [B면으로](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 〈[I Want to Hold Your Hand](../Page/I_Want_to_Hold_Your_Hand.md "wikilink")〉와 함께 발매되었다. 또한 1965년 미국 음반 《Meet the Beatles\!》에 세번째 트랙으로 수록되었다. 비틀즈는 1964년 2월 16일 《[에드 설리번 쇼](../Page/에드_설리번_쇼.md "wikilink")》에서 라이브로 공연했다.
+〈**This Boy**〉는 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 곡으로, [존 레논이](../Page/존_레논.md "wikilink") 작사했다([레논-매카트니](../Page/레논-매카트니.md "wikilink")로 표기). 1963년 11월, 팔로폰에서 싱글 [B면으로](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 〈[I Want to Hold Your Hand](../Page/I_Want_to_Hold_Your_Hand.md "wikilink")〉와 함께 발매되었다. 또한 1965년 미국 음반 《Meet the Beatles\!》에 세번째 트랙으로 수록되었다. 비틀즈는 1964년 2월 16일 《[에드 설리번 쇼](../Page/에드_설리번_쇼.md "wikilink")》에서 라이브로 공연했다.
 
 〈This Boy〉는 컴팩트 디스크로 리마스터되어 1988년 《[Past Masters, Volume One](https://ko.wikipedia.org/wiki/Past_Masters,_Volume_One "wikilink")》에 수록되어 발매했다. 2009년 9월 9일, 비틀즈 노래 리마스터링의 일환으로 재발매된 《[Past Masters](../Page/Past_Masters.md "wikilink")》에 담겨 발매했고, 《The Beatles Stereo Box Set》와 《The Beatles in Mono》 박스에도 담겼다.
 

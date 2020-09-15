@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DSM-5](https://ko.wikipedia.org/wiki/DSM-5).
 
 
-**DSM-5**는 [정신질환 진단및통계 메뉴얼](../Page/정신질환_진단_및_통계_편람.md "wikilink")(약칭 DSM)의 다섯번째 개정판으로 [미국정신의학협회](../Page/미국정신의학협회.md "wikilink")(APA)에서 발행한 분류 및 진단 절차인 DSM-5는 2013년도의 새로운 업데이트 버전이다. 미국에서 [DSM은](../Page/정신질환_진단_및_통계_편람.md "wikilink") 정신병 진단을 위한 주요 권한을 제공한다. 치료 권고는 권한있는 의료 제공자에 의한 지불에 적정성은 물론 DSM 분류에 의해 결정되기 때문에 새로운 버전의 출현은 상당한 실질적인 중요성을 갖는다. 이전 버전에서의 범주적일수있는 접근보다 보다 유연한 해석을 위해 차원적 접근을 시도한것으로 알려져있다.
+**DSM-5**는 [정신질환 진단및통계 메뉴얼](../Page/정신질환_진단_및_통계_편람.md "wikilink")(약칭 DSM)의 다섯번째 개정판으로 [미국정신의학협회](../Page/미국정신의학협회.md "wikilink")(APA)에서 발행한 분류 및 진단 절차인 DSM-5는 2013년도의 새로운 업데이트 버전이다. 미국에서 [DSM은](../Page/정신질환_진단_및_통계_편람.md "wikilink") 정신병 진단을 위한 주요 권한을 제공한다. 치료 권고는 권한있는 의료 제공자에 의한 지불에 적정성은 물론 DSM 분류에 의해 결정되기 때문에 새로운 버전의 출현은 상당한 실질적인 중요성을 갖는다. 이전 버전에서의 범주적일수있는 접근과 함께 보다 유연한 해석을 위해 차원적 접근을 추가적으로 시도한것으로 알려져있다.
 
 ## DSM 코드 및 카테고리
 
@@ -19,9 +19,9 @@
 | 309                                      | Adjustment Disorders [적응장애](https://ko.wikipedia.org/wiki/적응장애 "wikilink")          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | 312                                      | Impulse-Control Disorders [충동조절장애](https://ko.wikipedia.org/wiki/충동조절장애 "wikilink") | 312.34 [간헐적 폭발성 장애](../Page/간헐적_폭발성_장애.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 
-## DSM 장애분류 17개 범주
+## 섹션II의 22개 상위범주
 
-[정신분열증](https://ko.wikipedia.org/wiki/정신분열증 "wikilink")장애,[기분장애](https://ko.wikipedia.org/wiki/기분장애 "wikilink")([양극성장애](https://ko.wikipedia.org/wiki/양극성장애 "wikilink"),[우울장애](https://ko.wikipedia.org/wiki/우울장애 "wikilink")),[불안장애](../Page/불안장애.md "wikilink")(강박장애) ,[해리장애](../Page/해리성_장애.md "wikilink"),[신체형통증장애](https://ko.wikipedia.org/wiki/신체형통증장애 "wikilink"),[인격장애](../Page/인격장애.md "wikilink")(성격장애),[성적장애](https://ko.wikipedia.org/wiki/성적장애 "wikilink"),[섭식장애](https://ko.wikipedia.org/wiki/섭식장애 "wikilink"),[수면장애](https://ko.wikipedia.org/wiki/수면장애 "wikilink"),[적응장애](https://ko.wikipedia.org/wiki/적응장애 "wikilink"),[충동조절장애](https://ko.wikipedia.org/wiki/충동조절장애 "wikilink"),[인위성 장애](https://ko.wikipedia.org/wiki/허위성_장애 "wikilink"),[약물사용장애](https://ko.wikipedia.org/wiki/약물사용장애 "wikilink"),치매등 [신경인지장애](https://ko.wikipedia.org/wiki/신경인지장애 "wikilink"),아동및청소년장애,기타미분류장애,임상적관심대상의 기타장애의 17개전후의 범주가 장애(Disorder)에 따른 진단에서 분류 기준으로 사용된다.\[5\]
+DSM-5의 섹션II(section II)에서 [신경발달장애](https://ko.wikipedia.org/wiki/신경발달장애 "wikilink")(Neurodevelopmental Disorders),[조현병](https://ko.wikipedia.org/wiki/정신분열증 "wikilink") 스펙트럼및 기타정신병적장애(Schizophrenia Spectrum and Other Psychotic Disorders),[양극성장애](https://ko.wikipedia.org/wiki/양극성장애 "wikilink")(Bipolar and Related Disorders),[우울장애](https://ko.wikipedia.org/wiki/우울장애 "wikilink")(Depressive Disorders),[불안장애](../Page/불안장애.md "wikilink")(Anxiety Disorder),[강박장애](../Page/강박장애.md "wikilink")및 관련 장애(Obsessive－Compulsive and Related Disorders),[외상후 스트레스장애및](https://ko.wikipedia.org/wiki/외상후_스트레스장애 "wikilink") 관련 장애(Trauma－and Stressor－Related Disorders) ,[해리장애](../Page/해리성_장애.md "wikilink")(Dissociative Disorders),[신체증상장애](https://ko.wikipedia.org/wiki/신체형통증장애 "wikilink")(Somatic Symptom and Related Disorders),[섭식장애](https://ko.wikipedia.org/wiki/섭식장애 "wikilink")(Feeding and Eating Disorders),[배설장애](https://ko.wikipedia.org/wiki/배설장애 "wikilink")(Elimination Disorders),[수면장애](https://ko.wikipedia.org/wiki/수면장애 "wikilink")(Sleep-Wake Disorders),[성 기능 장애](../Page/성_기능_장애.md "wikilink")(Sexual Dysfunctions),[성별 불쾌감](../Page/성별_불쾌감.md "wikilink")(Gender Dysphoria),[충동조절장애](https://ko.wikipedia.org/wiki/충동조절장애 "wikilink")(Disruptive, Impulse-Control, and Conduct Disorders),[약물중독장애](https://ko.wikipedia.org/wiki/약물중독장애 "wikilink")(Substance－Related and Addictive Disorders),[신경인지장애](https://ko.wikipedia.org/wiki/신경인지장애 "wikilink")(Neurocognitive Disorders),[성격장애](https://ko.wikipedia.org/wiki/성격장애 "wikilink")(Personality Disorders),[성도착](../Page/성도착.md "wikilink")(Paraphilic Disorders),기타미분류정신장애(Other Mental Disorders),약물치료의 기타부작용(Medication-Induced Movement Disorders and Other Adverse Effects of Medication),임상적관심대상의 기타장애(Other Conditions That May Be a Focus of Clinical Attention) 등 22개전후의 범주가 장애(Disorder)에 따른 진단절차에서 분류 기준으로 사용된다.\[5\] 한편 섹션III(section III)에는 평가측정도구(Assessment Measures)와 문화적 재고사항(Cultural Formulation) 그리고 성격장애 진단을 위한 권고된 대체모델(Alternative DSM-5 Model for Personality Disorders),추가연구를 위한고려사항들(Conditions for Further Study)의 4개항목이 기술되어있다. 섹션I(section I)은 DSM의5번째 개정을 소개하는 섹션으로 DSM-5은 총3개의 섹션으로 구성되어있다.\[6\]
 
 ## ICD 10 챕터 V - 정신 및 행동 장애
 
@@ -30,7 +30,7 @@
   -
     (F00–F09) 기질성 또는 증상성 정신장애
     (F10–F19) 향정신성의약품 사용으로 인한 정신 및 행동 장애
-    (F20–F29) [조현병](../Page/조현병.md "wikilink"), 분열 및 망상 장애
+    (F20–F29) [조현병](../Page/조현병.md "wikilink"), 분열 및 [망상 장애](https://ko.wikipedia.org/wiki/망상_장애 "wikilink")
     (F30–F39) 기분 (정동) 장애
     (F40–F48) 신경증적, 스트레스 관련 및 신체형 장애
     (F50–F59) 생리적 교란 및 물리적 요인과 관련된 행동 증후군
@@ -53,6 +53,8 @@
 
   - [DSM - mhreference.org](https://mhreference.org/dsm-codes/dsm-code/)
   - [미국정신의학협회](https://www.psychiatry.org/psychiatrists/practice/dsm)
+  - (정신질환의 진단 및 통계편람 DSM-5 \[ 5판 \]APA 저 / 권준수, 김재진, 남궁기, 박원명 등역 | 학지사 | 2015년)http://www.yes24.com/Product/Goods/17843603?Acode=101
+  - (최성진. (2013). DSM-5의 개관. 한국심리학회 학술대회 자료집, 2013(1), 119-119.)https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06378664
 
 [분류:정신 및 행동장애](https://ko.wikipedia.org/wiki/분류:정신_및_행동장애 "wikilink")
 
@@ -60,4 +62,5 @@
 2.  충동형-Cluster B (dramatic, emotional or erratic disorders)
 3.  불안형-Cluster C (anxious or fearful disorders)
 4.  (DSM 5)301.4 Obsessive-Compulsive Personality Disorder
-5.  DSM-5 기준
+5.  (APA,DSM(Diagnostic and Statistical Manual of Mental)-5 기준 Disorders)https://www.psychiatry.org/psychiatrists/practice/dsm
+6.  (APA - DSM-5 contents)https://www.appi.org/Diagnostic_and_Statistical_Manual_of_Mental_Disorders_DSM-5_Fifth_Edition

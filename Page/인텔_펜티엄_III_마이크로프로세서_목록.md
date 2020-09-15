@@ -98,5 +98,5 @@
 [인텔 펜티엄 3](https://ko.wikipedia.org/wiki/분류:마이크로프로세서_목록 "wikilink")
 
 1.  [Pentium III 1000S](http://www.cpu-world.com/sspec/SL/SL5PS.html)
-2.  [Pentium III 1000S(OEM)](http://www.x86-guide.com/en/cpu/Intel-Pentium-III-S-1000-cpu-no3010.html)
+2.
 3.  [Intel Introduces Faster Intel® Pentium® III Processors For Front-End And General-Purpose Servers](http://www.intel.com/pressroom/archive/releases/2002/20020108comp.htm)

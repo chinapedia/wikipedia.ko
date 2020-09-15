@@ -27,7 +27,8 @@
 <td><p>1</p></td>
 <td><p>3월 1일</p></td>
 <td><p>나쁜 어린이표</p></td>
-<td><p><a href="../Page/정선경.md" title="wikilink">정선경</a>, 유동균, 이기룡, 김재영</p></td>
+<td><p><a href="../Page/정선경.md" title="wikilink">정선경</a>, <a href="https://ko.wikipedia.org/wiki/유동균_(배우)" title="wikilink">유동균</a>, 이기룡, 김재영,<br />
+<a href="../Page/김하균.md" title="wikilink">김하균</a>, <a href="../Page/조현숙.md" title="wikilink">조현숙</a></p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>황선미</p></td>
@@ -37,7 +38,7 @@
 <td><p>2</p></td>
 <td><p>3월 8일</p></td>
 <td><p>초대받은 아이들</p></td>
-<td><p><a href="../Page/송채환.md" title="wikilink">송채환</a>, 이풍운, 윤종환, 김종민</p></td>
+<td><p><a href="../Page/송채환.md" title="wikilink">송채환</a>, <a href="../Page/이풍운.md" title="wikilink">이풍운</a>, 윤종환, 김종민</p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>황선미</p></td>
@@ -47,7 +48,7 @@
 <td><p>3</p></td>
 <td><p>3월 15일 ~ 3월 22일</p></td>
 <td><p>세상에서 가장 친한 친구</p></td>
-<td><p>안현정, 박훈정, <a href="../Page/최태준.md" title="wikilink">최태준</a></p></td>
+<td><p>안현정, <a href="../Page/박훈정_(배우).md" title="wikilink">박훈정</a>, <a href="../Page/최태준.md" title="wikilink">최태준</a></p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>이경혜</p></td>
@@ -57,8 +58,8 @@
 <td><p>4</p></td>
 <td><p>3월 29일 ~ 4월 26일</p></td>
 <td><p>선생님 울지 마세요</p></td>
-<td><p><a href="../Page/이혜근.md" title="wikilink">이혜근</a>, 정은지, 안재홍, 이찬호,<br />
-김민우, 박훈정, 김성일, 원예지,<br />
+<td><p><a href="../Page/이혜근.md" title="wikilink">이혜근</a>, 정은지, 안재홍, <a href="../Page/이찬호.md" title="wikilink">이찬호</a>,<br />
+김민우, <a href="../Page/박훈정_(배우).md" title="wikilink">박훈정</a>, 김성일, 원예지,<br />
 남궁진</p></td>
 <td><p>김연신</p></td>
 <td><p>이상범</p></td>
@@ -89,7 +90,8 @@
 <td><p>7</p></td>
 <td><p>5월 31일</p></td>
 <td><p>멋진 내 남자친구</p></td>
-<td><p><a href="../Page/서지희_(1990년).md" title="wikilink">서지희</a>, 박훈정, <a href="../Page/곽정욱.md" title="wikilink">곽정욱</a>, 남궁진, <a href="../Page/민_(가수).md" title="wikilink">이민영</a></p></td>
+<td><p><a href="../Page/서지희_(1990년).md" title="wikilink">서지희</a>, 박훈정, <a href="../Page/곽정욱.md" title="wikilink">곽정욱</a>, 남궁진<br />
+<a href="../Page/민_(가수).md" title="wikilink">이민영</a></p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>이미애</p></td>
@@ -144,7 +146,7 @@
 <td><p>8월 2일 ~ 8월 23일,<br />
 8월 28일</p></td>
 <td><p>버드내 아이들</p></td>
-<td><p>정은지, <a href="../Page/류덕환.md" title="wikilink">류덕환</a>, 성인규, 이찬호,<br />
+<td><p>정은지, <a href="../Page/류덕환.md" title="wikilink">류덕환</a>, <a href="../Page/성인규.md" title="wikilink">성인규</a>, <a href="../Page/이찬호.md" title="wikilink">이찬호</a>,<br />
 오예림, 이상훈</p></td>
 <td><p>김연신</p></td>
 <td><p>이상범</p></td>
@@ -175,7 +177,7 @@
 <td><p>15</p></td>
 <td><p>9월 11일 ~ 9월 18일</p></td>
 <td><p>네 편이 되어줄게</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김유리_(1991년_6월)" title="wikilink">김유리</a>, 이지영, 김학준, 김송이,<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/김유리_(1991년_6월)" title="wikilink">김유리</a>, <a href="https://ko.wikipedia.org/wiki/이지영_(1989년)" title="wikilink">이지영</a>, <a href="../Page/김학준_(1992년).md" title="wikilink">김학준</a>, 김송이,<br />
 <a href="https://ko.wikipedia.org/wiki/박건태" title="wikilink">박건태</a>, <a href="../Page/민_(가수).md" title="wikilink">이민영</a>, 이민지, <a href="../Page/차기환.md" title="wikilink">차기환</a>,<br />
 <a href="../Page/김미정_(배우).md" title="wikilink">김미정</a>, 이현실, <a href="../Page/전정희_(배우).md" title="wikilink">전정희</a></p></td>
 <td><p>연미정</p></td>
@@ -187,7 +189,8 @@
 <td><p>16</p></td>
 <td><p>9월 25일</p></td>
 <td><p>난 키다리 현주가 좋아</p></td>
-<td><p>윤종환, 김민우, 이혜인, 이기룡</p></td>
+<td><p>윤종환, 김민우, 이혜인, 이기룡<br />
+<a href="../Page/김승환_(배우).md" title="wikilink">김승환</a>, <a href="../Page/임대호.md" title="wikilink">임대호</a>, <a href="../Page/이시은_(배우).md" title="wikilink">이시은</a></p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>김혜리</p></td>
@@ -431,6 +434,6 @@
 
 <references/>
 
-[분류:2002년 드라마](https://ko.wikipedia.org/wiki/분류:2002년_드라마 "wikilink") [분류:대한민국의 어린이 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:대한민국의_어린이_텔레비전_드라마 "wikilink") [분류:정윤정 시나리오 작품](https://ko.wikipedia.org/wiki/분류:정윤정_시나리오_작품 "wikilink")
+[분류:2002년 드라마](https://ko.wikipedia.org/wiki/분류:2002년_드라마 "wikilink") [분류:대한민국의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_드라마 "wikilink") [분류:어린이 드라마](https://ko.wikipedia.org/wiki/분류:어린이_드라마 "wikilink") [분류:정윤정 시나리오 작품](https://ko.wikipedia.org/wiki/분류:정윤정_시나리오_작품 "wikilink")
 
 1.  5월 28일은 특집 방송으로 결방

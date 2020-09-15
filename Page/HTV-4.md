@@ -47,7 +47,7 @@ HTV-4는 9월 4일 16시 20분에 정거장과 도킹이 해제되었으며, SSR
   -
 ## 외부 링크
 
-  - [HTV4 (Kounotori 4) Official page](http://iss.jaxa.jp/en/htv/mission/htv-4/), JAXA
+  - [HTV4 (Kounotori 4) Official page](https://web.archive.org/web/20130723121453/http://iss.jaxa.jp/en/htv/mission/htv-4/), JAXA
 
   - Official JAXA channel
 

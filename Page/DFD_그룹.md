@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DFD 그룹](https://ko.wikipedia.org/wiki/DFD_그룹).
 
 
-**DFD 그룹**은 수제화 사업을 전개하는 [대한민국](../Page/대한민국.md "wikilink")의 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")으로 [2017년](../Page/2017년.md "wikilink") 'DFD LIFE. CULTURE'로 사명을 바꾸고 카페, 힐링파크로 사업영역을 넓혔다. 의(衣), 식(食), 주(住), 휴(休), 미(美), 락(樂)의 조화로운 삶을 위해 라이프 스타일과 문화를 제안하는 기업체를 표방하고 있다.\[1\]구두 브랜드로는 SODA, SHOESPA, MANAS, THE FLEXX, DAKS SHOES 등이 있고, 의류 브랜드로서는 BOGNER, CUTTER & BUCK, BOB 등이 있다. 라이프 스타일 사업으로는 복합 문화 공간인 9 BLOCK, 레져 사업으로는 THE STAY AND HEALING PARK와 THE STAR HUE가 있다.
+**DFD 그룹**은 수제화 사업을 전개하는 [대한민국](../Page/대한민국.md "wikilink")의 [기업](https://ko.wikipedia.org/wiki/기업 "wikilink")으로 [2017년](../Page/2017년.md "wikilink") 'DFD LIFE. CULTURE'로 사명을 바꾸고 카페, 힐링파크로 사업영역을 넓혔다. 의(衣), 식(食), 주(住), 휴(休), 미(美), 락(樂)의 조화로운 삶을 위해 라이프 스타일과 문화를 제안하는 기업체를 표방하고 있다.\[1\]구두 브랜드로 SODA, SHOESPA, MANAS, THE FLEXX, DAKS SHOES 등이 있다. 라이프 스타일 사업으로는 복합 문화 공간인 9 BLOCK, 레져 사업으로는 THE STAY AND HEALING PARK와 THE STAR HUE CC 등이 있다.
 
 ## FASHION 브랜드
 
@@ -33,7 +33,7 @@
 
 `가평 보리산에 위치한 힐링 테마 파크로서 방갈로, 펜션, 글램핑 등의 숙박 시설을 갖추고 있다. 골프, 수영, 피트니스 등 액티비티 시설을 이용할 수 있으며 각종 전시회와 테라피, 자연과 함께할 수 있도록 꾸며놓은 산책로 등 힐링에 필요한 요소들까지 한번에 즐길 수 있도록 시설이 갖춰져 있다.`
 
-  - STAR 休
+  - THE STAR HUE
 
 `골프와 산림욕에 강점을 둔 리조트 입니다. 대한민국 10대 골프장에 선정되었고, MBN 골프대회 개최 되었었다. 스포츠와 문화를 접목시킨 SNC 행사 등 품격있는 이벤트를 기획 및 운영하고 있다.`
 

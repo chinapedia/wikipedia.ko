@@ -124,7 +124,7 @@
 </tr>
 <tr class="odd">
 <td><p>2019년 9월 28일</p></td>
-<td><p><a href="../Page/타이베이시.md" title="wikilink">타이베이</a></p></td>
+<td><p><a href="../Page/타이베이시.md" title="wikilink">대북</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a>[10]</p></td>
 <td><p>통산 24,282명</p></td>
@@ -138,7 +138,7 @@
 </tr>
 <tr class="odd">
 <td><p>2019년 10월 11일</p></td>
-<td><p><a href="../Page/후쿠오카시.md" title="wikilink">후쿠오카</a></p></td>
+<td><p><a href="../Page/후쿠오카시.md" title="wikilink">복강</a></p></td>
 <td></td>
 <td><p>마린 멧세 후쿠오카</p></td>
 <td><p>통산 36,682명</p></td>
@@ -159,7 +159,7 @@
 </tr>
 <tr class="even">
 <td><p>2019년 10월 18일</p></td>
-<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">대판</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오사카_성_홀" title="wikilink">오사카 성 홀</a></p></td>
 <td><p>통산 28,852명</p></td>
 <td></td>
@@ -173,7 +173,7 @@
 </tr>
 <tr class="even">
 <td><p>2019년 10월 22일</p></td>
-<td><p><a href="../Page/요코하마시.md" title="wikilink">요코하마</a></p></td>
+<td><p><a href="../Page/요코하마시.md" title="wikilink">횡빈</a></p></td>
 <td><p><a href="../Page/요코하마_아레나.md" title="wikilink">요코하마 아레나</a></p></td>
 <td><p>통산 29,528명</p></td>
 <td></td>

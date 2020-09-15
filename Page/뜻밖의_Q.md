@@ -23,6 +23,7 @@
   - [은지원](../Page/은지원.md "wikilink")
   - [유세윤](../Page/유세윤.md "wikilink")
   - [승관](../Page/승관_\(가수\).md "wikilink")
+  - [이수근](https://ko.wikipedia.org/wiki/이수근 "wikilink")
 
 ### 특별 진행자
 
@@ -89,12 +90,6 @@
 ## 참고 사항
 
   - 《[무한도전](../Page/무한도전.md "wikilink")》 이후 이어진 [토요일](../Page/토요일.md "wikilink") 저녁에 징크스를 면치 못했다.
-
-## 동시간대 경쟁 프로그램
-
-  - [빅픽처패밀리](../Page/빅픽처패밀리.md "wikilink") (SBS TV)
-  - [불후의 명곡 - 전설을 노래하다](../Page/불후의_명곡_-_전설을_노래하다.md "wikilink") (KBS 2TV)
-  - [다큐공감](../Page/다큐공감.md "wikilink") (KBS 1TV)
 
 ## 각주
 

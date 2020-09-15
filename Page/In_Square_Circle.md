@@ -9,6 +9,8 @@
 
 모든 곡들은 [스티비 원더에](../Page/스티비_원더.md "wikilink") 의해 작사/작곡하였다.
 
+## 각주
+
 ## 외부 링크
 
 [분류:1985년 음반](https://ko.wikipedia.org/wiki/분류:1985년_음반 "wikilink") [분류:스티비 원더의 음반](https://ko.wikipedia.org/wiki/분류:스티비_원더의_음반 "wikilink") [분류:모타운 음반](https://ko.wikipedia.org/wiki/분류:모타운_음반 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG K5](https://ko.wikipedia.org/wiki/LG_K5).
 
 
-**LG K5**는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink"), [아랍에미리트](../Page/아랍에미리트.md "wikilink"), [러시아](../Page/러시아.md "wikilink") 등에 출시한 보급형 스마트폰이다.\[1\] 기존 [LG K](https://ko.wikipedia.org/wiki/LG_K "wikilink") 시리즈와 디자인이 거의 달라진게 특징이며, [K4](../Page/LG_K4.md "wikilink"), [K3보다](../Page/LG_K3.md "wikilink") 상위 모델이지만 AP가 다운그레이드 되었다.
+**LG K5**는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink"), [아랍에미리트](../Page/아랍에미리트.md "wikilink"), [러시아](../Page/러시아.md "wikilink") 등에 출시한 보급형 스마트폰이다.\[1\] 기존 [LG K](https://ko.wikipedia.org/wiki/LG_K "wikilink") 시리즈와 디자인이 대부분 달라진게 특징이며, [K4](../Page/LG_K4.md "wikilink"), [K3보다](../Page/LG_K3.md "wikilink") 상위 모델이지만 AP가 다운그레이드 되었다.
 
 ## 운영 체제 / 소프트웨어
 

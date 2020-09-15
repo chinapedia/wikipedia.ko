@@ -9,6 +9,8 @@
 
   - 이 음반의 모든 [콤팩트 디스크](../Page/콤팩트_디스크.md "wikilink") 에디션에는 트랙 4로서 〈Mountain Jam〉(전체적으로 33:38로 실행됨)의 전체 버전이 포함되어 있다.
 
+## 각주
+
 ## 외부 링크
 
-[분류:1972년 음반](https://ko.wikipedia.org/wiki/분류:1972년_음반 "wikilink") [분류:1972년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1972년_라이브_음반 "wikilink") [분류:올맨 브라더스 밴드의 음반](https://ko.wikipedia.org/wiki/분류:올맨_브라더스_밴드의_음반 "wikilink")
+[분류:1972년 음반](https://ko.wikipedia.org/wiki/분류:1972년_음반 "wikilink") [분류:1972년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1972년_라이브_음반 "wikilink") [분류:올맨 브라더스 밴드의 음반](https://ko.wikipedia.org/wiki/분류:올맨_브라더스_밴드의_음반 "wikilink") [분류:올맨 브라더스 밴드의 라이브 음반](https://ko.wikipedia.org/wiki/분류:올맨_브라더스_밴드의_라이브_음반 "wikilink")

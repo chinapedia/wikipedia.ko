@@ -1,13 +1,15 @@
 > This article is converted from Wikipedia: [드라마 Biz](https://ko.wikipedia.org/wiki/드라마_Biz).
 
 
-**드라마 Biz**()는 [TV 도쿄](../Page/TV_도쿄.md "wikilink") [계열에서](../Page/TX네트워크.md "wikilink") 매주 월요일 편성되는 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다.
+**드라마 Biz**()는 [TV 도쿄](../Page/TV_도쿄.md "wikilink") [계열에서](../Page/TX네트워크.md "wikilink") 매주 월요일 편성되는 [드라마](https://ko.wikipedia.org/wiki/드라마 "wikilink")이다. 해당 프레임의 기존 방영 기간은 [2019년](../Page/2019년.md "wikilink") [4월 16일부터](../Page/4월_16일.md "wikilink") [2020년](../Page/2020년.md "wikilink") [6월 8일까지이며](../Page/6월_8일.md "wikilink") 종전 방영 시간대는 매주 월요일 22시 정각부터 22시 54분까지이다.
 
 ## 개요
 
 2018년 3월까지 월요일 22시 범위의 프로그램으로 방송되고 있던 「닛케이 스페셜 미래 세기 지팡 \~비등 현장의 경제학\~」이 수요일 22시 범위로 이동하게 됨에 따라 자사의 월요일 22시 범위에 신설된 드라마 범위이다.\[1\]
 
 이 프레임은 일을 주제로 비즈니스 드라마를 전개한다. 이 프레임에서의 드라마는 2011년 7월 18일 - 동년 9월 19일 방송 된 「[IS: 남자도 여자도 아닌 성](../Page/IS_\(만화\).md "wikilink")」이래 6년반 (7년) 모습이다.
+
+2020년 6월 8일 종영 후 해당 방송 프레임의 종결이 7월 2일에 열린 정례 회의 지리에서 확정되었다.\[2\] 후속 프로그램은 비정기로 편성되는 바라이어티 프로그램이 유력한 것으로 알려졌다.\[3\]
 
 ## 작품 소개
 
@@ -60,7 +62,7 @@
 <tr class="even">
 <td><p>《요츠바 은행 하라시마 히로미가 불평! ~이 여자에게 걸어라~》</p></td>
 <td><p>1월 21일 - 3월 11일</p></td>
-<td><p><a href="../Page/마키_요코.md" title="wikilink">마키 요코</a></p></td>
+<td><p><a href="../Page/마키_요코.md" title="wikilink">마키 요코</a>{{-}}<a href="../Page/니시노_나나세.md" title="wikilink">니시노 나나세</a></p></td>
 <td><p>슈 료카<br />
 <a href="https://ko.wikipedia.org/wiki/유메노_카즈코" title="wikilink">유메노 카즈코</a></p></td>
 <td><p>8부작</p></td>
@@ -82,7 +84,7 @@
 <tr class="odd">
 <td><p>《하루~종합상사의 여자~》</p></td>
 <td><p>10월 21일 - 12월 9일</p></td>
-<td><p><a href="../Page/나카타니_미키.md" title="wikilink">나카타니 미키</a></p></td>
+<td><p><a href="../Page/나카타니_미키.md" title="wikilink">나카타니 미키</a>{{-}}<a href="../Page/후지키_나오히토.md" title="wikilink">후지키 나오히토</a></p></td>
 <td><p>오리지널</p></td>
 <td><p>8부작</p></td>
 </tr>
@@ -96,17 +98,17 @@
 <tr class="odd">
 <td><p>《병원의 치료 방법~닥터 아리하라의 도전~》</p></td>
 <td><p>1월 20일 - 3월 9일</p></td>
-<td><p><a href="../Page/고이즈미_코타로.md" title="wikilink">고이즈미 코타로</a></p></td>
+<td><p><a href="../Page/고이즈미_코타로.md" title="wikilink">고이즈미 코타로</a>{{-}}<a href="../Page/타카시마_마사노부.md" title="wikilink">타카시마 마사노부</a></p></td>
 <td><p>오리지널</p></td>
 <td><p>7부작</p></td>
 </tr>
 <tr class="even">
 <td><p>《행렬의 여신~라면 서유기~》</p></td>
-<td><p>4월 20일 - (예정)</p></td>
+<td><p>4월 20일 - 6월 8일</p></td>
 <td><p><a href="../Page/스즈키_쿄카.md" title="wikilink">스즈키 쿄카</a>{{-}}<a href="../Page/쿠로시마_유이나.md" title="wikilink">쿠로시마 유이나</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/쿠베_로쿠로" title="wikilink">쿠베 로쿠로</a><br />
 <a href="https://ko.wikipedia.org/wiki/카와이_탄" title="wikilink">카와이 탄</a></p></td>
-<td><p>미정</p></td>
+<td><p>8부작</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -256,3 +258,5 @@ BS 테이터 방송</p></td>
 [TV_도쿄의_텔레비전_드라마](https://ko.wikipedia.org/wiki/분류:TV_도쿄의_텔레비전_드라마 "wikilink")
 
 1.
+2.
+3.

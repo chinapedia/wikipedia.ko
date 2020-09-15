@@ -78,7 +78,7 @@ LMMS는 SF2 포맷의 사운드폰트들과 GUS 패치들을 수용한다. 또, 
 
   - [LMMS Sharing Platform](https://lmms.io/lsp)
 
-[분류:디지털 오디오 워크스테이션 소프트웨어](https://ko.wikipedia.org/wiki/분류:디지털_오디오_워크스테이션_소프트웨어 "wikilink") [분류:자유 음악 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_음악_소프트웨어 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink") [분류:소프트웨어 드럼 머신](https://ko.wikipedia.org/wiki/분류:소프트웨어_드럼_머신 "wikilink") [분류:자유 오디오 편집기](https://ko.wikipedia.org/wiki/분류:자유_오디오_편집기 "wikilink") [분류:자유 교육용 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_교육용_소프트웨어 "wikilink")
+[분류:디지털 오디오 워크스테이션](https://ko.wikipedia.org/wiki/분류:디지털_오디오_워크스테이션 "wikilink") [분류:자유 음악 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_음악_소프트웨어 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink") [분류:소프트웨어 드럼 머신](https://ko.wikipedia.org/wiki/분류:소프트웨어_드럼_머신 "wikilink") [분류:자유 오디오 편집기](https://ko.wikipedia.org/wiki/분류:자유_오디오_편집기 "wikilink") [분류:자유 교육용 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_교육용_소프트웨어 "wikilink")
 
 1.
 2.

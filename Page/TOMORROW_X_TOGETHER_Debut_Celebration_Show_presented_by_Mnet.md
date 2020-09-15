@@ -11,13 +11,13 @@
 | :----------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
 | **[투모로우바이투게더](../Page/투모로우바이투게더.md "wikilink")** | [Answer Reveal The voice in the Voice Teaser belongs to\!](https://www.youtube.com/watch?v=MZ63mVXOldw) |
 
-|                               멤버                                |                                                              영상                                                               |
-| :-------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
-|  **[태현](https://ko.wikipedia.org/wiki/태현_\(가수\) "wikilink")**   | [Voice Teaser \#01 TOMORROW X TOGETHER Debut Celebration Show presented by Mnet](https://www.youtube.com/watch?v=J_MrGc_XOMw) |
-| **[수빈](https://ko.wikipedia.org/wiki/수빈_\(2000년\) "wikilink")** | [Voice Teaser \#02 TOMORROW X TOGETHER Debut Celebration Show presented by Mnet](https://www.youtube.com/watch?v=RKZwNPh95rQ) |
-|      **[범규](https://ko.wikipedia.org/wiki/범규 "wikilink")**      | [Voice Teaser \#03 TOMORROW X TOGETHER Debut Celebration Show presented by Mnet](https://www.youtube.com/watch?v=Cf5jQi32pio) |
-|  **[연준](https://ko.wikipedia.org/wiki/연준_\(가수\) "wikilink")**   | [Voice Teaser \#04 TOMORROW X TOGETHER Debut Celebration Show Presented by Mnet](https://www.youtube.com/watch?v=rdFZMMcLINg) |
-|    **[휴닝카이](https://ko.wikipedia.org/wiki/휴닝카이 "wikilink")**    | [Voice Teaser \#05 TOMORROW X TOGETHER Debut Celebration Show Presented by Mnet](https://www.youtube.com/watch?v=U-RlgD-fUhc) |
+|                              멤버                              |                                                              영상                                                               |
+| :----------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+| **[태현](https://ko.wikipedia.org/wiki/태현_\(가수\) "wikilink")** | [Voice Teaser \#01 TOMORROW X TOGETHER Debut Celebration Show presented by Mnet](https://www.youtube.com/watch?v=J_MrGc_XOMw) |
+|         **[수빈](../Page/수빈_\(2000년\).md "wikilink")**         | [Voice Teaser \#02 TOMORROW X TOGETHER Debut Celebration Show presented by Mnet](https://www.youtube.com/watch?v=RKZwNPh95rQ) |
+|    **[범규](https://ko.wikipedia.org/wiki/범규 "wikilink")**     | [Voice Teaser \#03 TOMORROW X TOGETHER Debut Celebration Show presented by Mnet](https://www.youtube.com/watch?v=Cf5jQi32pio) |
+| **[연준](https://ko.wikipedia.org/wiki/연준_\(가수\) "wikilink")** | [Voice Teaser \#04 TOMORROW X TOGETHER Debut Celebration Show Presented by Mnet](https://www.youtube.com/watch?v=rdFZMMcLINg) |
+|  **[휴닝카이](https://ko.wikipedia.org/wiki/휴닝카이 "wikilink")**   | [Voice Teaser \#05 TOMORROW X TOGETHER Debut Celebration Show Presented by Mnet](https://www.youtube.com/watch?v=U-RlgD-fUhc) |
 
 ## 각주
 

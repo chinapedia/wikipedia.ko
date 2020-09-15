@@ -172,20 +172,29 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
 
 ### 배틀그라운드
 
-  - 감독 : 배승후
-  - 선수
+KSV ASEL/KSV NOTITLE(NTT)로 시작되었으며 각각 Gen.G 골드, Gen.G 블랙으로 팀명을 변경하였다.
 
-박정영 Gen.G Loki
+2018년도 PUBG Global Invitational (세계대회) 3인칭 부문에서 젠지 골드 팀이 우승한 후, 단일팀인 Gen.G로 통합하였다.
 
-유상호 Gen.G Aqua5
+이후 이럴만한 기록이 없다, PKL 페이즈 2 우승부터 시작하여 각종 대회에서 우승하였고 PGI와 동일격 대회인 PGC에서 우승하며 세계대회 2관왕이라는 전적을
 
-나희주 Gen.G Inonix
+남기게 되었다. 현재는 2019 네이션스 컵 국가대표 스쿼드를 보유 중이다.
 
-차승훈 Gen.G Pio
+  - 감독 : 배승후(WatchinU)
+  - 코치 : 김민기(Chelator)
+  - 주장 : 유상호(Aqua5)
+  - 선수 (2019 PUBG 네이션스 컵 한국 국가대표 로스터와 동일)
+
+| 이름  | 닉네임    | 포지션 |
+| --- | ------ | --- |
+| 유상호 | Aqua5  | 백업  |
+| 차승훈 | Pio    | 오더  |
+| 나희주 | Inonix | 포탑  |
+| 박정영 | Loki   | 백업  |
 
 #### 주요 성적
 
-주요 대회 우승 10회, 준우승 5회
+주요 대회 우승 14회, 준우승 6회
 
 ## Gen.G BLACK
 
@@ -218,7 +227,6 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
   - 2018 PUBG Warfare Masters Pro Tour (PWM) 준우승
   - **Battle on 11th Street PUBG A TOUR 우승**
   - **2018 아프리카TV PUBG 리그 시즌 2 (APL) 우승**
-  - 2018 PUBG Global Invitational (PGI) FPP 9위
   - 2018 HOT6 PUBG Survival Series Season 2 Pro Tour 준우승
   - **PUBG 코리아 리그 2018 시즌 1 우승 (통합포인트 1위)**
   - **PUBG Global Invitational 2018 TPP 우승**
@@ -231,7 +239,16 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
   - 2019 핫식스 PUBG 코리아 리그 페이즈 1 14위
   - **2019 핫식스 PUBG 코리아 리그 페이즈 2 우승**
   - **2019 MET 아시아 시리즈 우승**
-
+  - 2019 핫식스 PUBG 코리아 리그 페이즈 3 6위
+  - **2019 PUBG GLOBAL CHAMPIONSHIP 우승**
+  - **2019 PUBG Japan Series Winter Invitational 우승**
+  - 2020 배틀그라운드 한중 친선전 8위
+  - **2020 배틀그라운드 위클리 시리즈 4/5주차 연속 우승**
+  - 2020 배틀그라운드 스매쉬 컵 시즌2 본선 10위
+  - 2020 PCS ASIA Charity Showdown 5위
+  - 2020 PCS 1 ASIA 한국대표 선발전 준우승
+  - 2020 PCS 1 ASIA 7위
+  -
 ## 외부 링크
 
   - [Gen.G e스포츠 공식 홈페이지](http://www.geng.gg/)

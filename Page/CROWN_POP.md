@@ -39,6 +39,31 @@
       - キミリプホリック
       - Cheerful Butterfly
       - またね
+2.  LIFE ([2020년](../Page/2020년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink"))
+
+<!-- end list -->
+
+  -
+
+      -
+        (Disc1)
+          - 午後四時ごろの好きです
+          - alright！
+          - Boot\!\!\!
+          - サマータイムルール
+          - 青天コンパス
+          - 光るラムネ
+          - ホログラフィック・デート
+          - 真っ白片思い
+          - 手のひらに青空
+          - LIFE
+        (Disc2)
+          - うさみみ
+          - 未来
+          - HARE BARE
+          - Cross over
+          - Make me happy
+          - prism
 
 ### 싱글
 
@@ -71,6 +96,7 @@
 ### 착신곡
 
 1.  青天コンパス (2020년 [5월 26일](../Page/5월_26일.md "wikilink"))
+2.  LIFE (2020년 [7월 1일](../Page/7월_1일.md "wikilink"))
 
 ## 관련 항목
 
@@ -78,13 +104,13 @@
   - [시리츠에비스추가쿠](../Page/시리츠에비스추가쿠.md "wikilink")
   - [TEAM SHACHI](../Page/TEAM_SHACHI.md "wikilink")
   - [다코야키 레인보우](../Page/다코야키_레인보우.md "wikilink")
-  - [초 도키메키 센덴부](../Page/초_도키메키_센덴부.md "wikilink")
   - [밧텐쇼죠타이](../Page/밧텐쇼죠타이.md "wikilink")
-  - [하치미츠 로켓](../Page/하치미츠_로켓.md "wikilink")
+  - [초 도키메키 센덴부](../Page/초_도키메키_센덴부.md "wikilink")
   - [아메후라시](../Page/아메후라시.md "wikilink")
   - [ukka](https://ko.wikipedia.org/wiki/ukka "wikilink")
   - [이키나리 토호쿠산](../Page/이키나리_토호쿠산.md "wikilink")
   - [B.O.L.T](../Page/B.O.L.T.md "wikilink")
+  - [Awww\!](https://ko.wikipedia.org/wiki/Awww! "wikilink")
 
 ## 외부 링크
 

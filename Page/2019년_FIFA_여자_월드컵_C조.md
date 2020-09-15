@@ -812,7 +812,7 @@
 새러 존스 (<a href="https://ko.wikipedia.org/wiki/뉴질랜드_축구_협회" title="wikilink">뉴질랜드</a>)<br />
 마리아 살라마시나 (<a href="https://ko.wikipedia.org/wiki/피지_축구_협회" title="wikilink">피지</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/클라우디아_움피에레스" title="wikilink">클라우디아 움피에레스</a> (<a href="https://ko.wikipedia.org/wiki/우루과이_축구_협회" title="wikilink">우루과이</a>)<br />
+<a href="../Page/클라우디아_움피에레스.md" title="wikilink">클라우디아 움피에레스</a> (<a href="https://ko.wikipedia.org/wiki/우루과이_축구_협회" title="wikilink">우루과이</a>)<br />
 <strong>후보 대기심:</strong><br />
 모니카 암보야 (<a href="https://ko.wikipedia.org/wiki/에콰도르_축구_연맹" title="wikilink">에콰도르</a>)<br />
 <strong>비디오 판독심:</strong><br />

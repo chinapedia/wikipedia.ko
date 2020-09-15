@@ -33,7 +33,7 @@
 
   - [Randal Schwartz photographs](https://www.flickr.com/photos/randal-schwartz) at [플리커](../Page/플리커.md "wikilink")
 
-[분류:1961년 태어남](https://ko.wikipedia.org/wiki/분류:1961년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미국의 프로그래머](https://ko.wikipedia.org/wiki/분류:미국의_프로그래머 "wikilink")
+[분류:1961년 태어남](https://ko.wikipedia.org/wiki/분류:1961년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:미국의 프로그래머](https://ko.wikipedia.org/wiki/분류:미국의_프로그래머 "wikilink") [분류:펄 작가](https://ko.wikipedia.org/wiki/분류:펄_작가 "wikilink")
 
 1.
 2.

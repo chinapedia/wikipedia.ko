@@ -11,7 +11,7 @@
 
 ## 외부 링크
 
-  - [Document sur la chaine de traction du TGV POS](http://sciences-physiques.ac-dijon.fr/documents/lycee/phys_app/traction_fer/TGV_POS_v3.pdf)
+  - [Document sur la chaine de traction du TGV POS](https://web.archive.org/web/20160303182304/http://sciences-physiques.ac-dijon.fr/documents/lycee/phys_app/traction_fer/TGV_POS_v3.pdf)
 
 [분류:TGV 차량](https://ko.wikipedia.org/wiki/분류:TGV_차량 "wikilink")
 

@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [BGT](https://ko.wikipedia.org/wiki/BGT).
 
 
-**벤더-게슈탈트검사**(BGT,Bender-Gestalt Test)는 [로샤검사](https://ko.wikipedia.org/wiki/로샤검사 "wikilink"),[주제통각검사](https://ko.wikipedia.org/wiki/주제통각검사 "wikilink"),[집-나무-사람 검사와](../Page/집-나무-사람_검사.md "wikilink") 함께 [투사적 기법의](https://ko.wikipedia.org/wiki/투사적_검사 "wikilink") [심리검사](https://ko.wikipedia.org/wiki/심리검사 "wikilink") 중 하나로 분류되며 [객관적 검사기법인](https://ko.wikipedia.org/wiki/객관적_검사 "wikilink") [웩슬러 지능검사나](../Page/웩슬러_성인_지능_검사.md "wikilink") [MMPI](https://ko.wikipedia.org/wiki/MMPI "wikilink")등과 함께 임상심리학에서 지속적으로 사용되온 심리측정도구이다.
-
-벤더도형검사라고도 불린다.
+**벤더-게슈탈트검사**(BGT,Bender-Gestalt Test)는 [로샤검사](https://ko.wikipedia.org/wiki/로샤검사 "wikilink"),[주제통각검사](../Page/주제통각검사.md "wikilink"),[집-나무-사람 검사와](../Page/집-나무-사람_검사.md "wikilink") 함께 [투사적 기법의](https://ko.wikipedia.org/wiki/투사적_검사 "wikilink") [심리검사](https://ko.wikipedia.org/wiki/심리검사 "wikilink") 중 하나로 분류되며 [객관적 검사기법인](https://ko.wikipedia.org/wiki/객관적_검사 "wikilink") [웩슬러 지능검사나](../Page/웩슬러_성인_지능_검사.md "wikilink") [MMPI](https://ko.wikipedia.org/wiki/MMPI "wikilink")등과 함께 임상심리학에서 지속적으로 사용되온 심리측정도구이다. **벤더도형검사**라고도 불린다.
 
 ## 투사적 모사
 

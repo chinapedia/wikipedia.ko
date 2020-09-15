@@ -80,4 +80,4 @@ Xmanager 최신 버전 기준 주요 기능은 다음과 같다.\[5\]
 3.  [시스템 요구 사항](https://www.netsarang.com/ko/xmanager-all-features)
 4.
 5.  [Xmanager 제품 기능](https://www.netsarang.com/ko/xmanager-all-features)
-6.  해시 기반 메세지 인증 코드
+6.  해시 기반 메시지 인증 코드

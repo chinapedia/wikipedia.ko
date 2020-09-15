@@ -1,0 +1,39 @@
+> This article is converted from Wikipedia: [뉴스LIVE](https://ko.wikipedia.org/wiki/뉴스LIVE).
+
+
+《**뉴스LIVE**》는 [대한민국](../Page/대한민국.md "wikilink") [YTN](../Page/YTN.md "wikilink")에서 평일 아침 9시에 방송되는 [YTN](../Page/YTN.md "wikilink")의 아침뉴스 프로그램이다.
+
+## 방송 시간
+
+| 방송 채널                                                                                                                                                      | 방송 기간                                                                                                                                                      | 방송 시간                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| [YTN](../Page/YTN.md "wikilink")                                                                                                                           | [2013년](../Page/2013년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink") | 평일 오전 10시 \~ 11시 40분 (1시간 40분) |
+| [2017년](../Page/2017년.md "wikilink") [2월 6일](../Page/2월_6일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") | 평일 오전 9시 \~ 11시 (2시간)                                                                                                                                      |                                |
+| [2018년](../Page/2018년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") | 평일 오전 9시 40분 \~ 11시 (1시간 20분)                                                                                                                              |                                |
+| [2019년](../Page/2019년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") \~ **현재**                                                                      | 평일 오전 9시 \~ 11시 (2시간)                                                                                                                                      |                                |
+
+## 앵커
+
+  - 이재윤 기자 (남)
+  - 이승민 아나운서 (여)
+
+## 타이틀 변천사
+
+| 역대 | 타이틀                                                       | 방송 기간                                                                                                                                                        |
+| -- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1기 | 뉴스정석                                                      | [2013년](../Page/2013년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [6월 26일](../Page/6월_26일.md "wikilink") |
+| 2기 | 뉴스타워                                                      | [2015년](../Page/2015년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") |
+| 3기 | [뉴스 940](../Page/뉴스_940.md "wikilink")                    | [2018년](../Page/2018년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink")   |
+| 4기 | [뉴스LIVE](https://ko.wikipedia.org/wiki/뉴스LIVE "wikilink") | [2019년](../Page/2019년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") \~ **현재**                                                                        |
+
+## 경쟁 뉴스 프로그램
+
+  - [KBS 930 뉴스](../Page/KBS_930_뉴스.md "wikilink")
+  - [930 MBC 뉴스](../Page/930_MBC_뉴스.md "wikilink")
+  - [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink")
+
+## 외부 링크
+
+  - [YTN 뉴스LIVE 홈페이지](https://www.ytn.co.kr/program/replay_gather_list.php?mode=P&idx=95)
+
+[분류:YTN의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:YTN의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink")

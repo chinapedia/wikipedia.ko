@@ -27,7 +27,6 @@
   - 김병수 - CJ ENM E\&M 부문 tvN 프로듀서
   - 김신영 - CJ ENM E\&M 부문 Mnet 프로듀서
   - 김영욱 - CJ ENM E\&M 부문 투니버스 프로듀서
-  - 김영화 - CJ ENM E\&M 부문 프로듀서/Olive 프로듀서/前 XTM 프로듀서
   - 김이경 - CJ ENM E\&M 부문 투니버스 프로듀서
   - 김형오 - CJ ENM E\&M 부문 프로듀서
   - 김혜영 - CJ ENM E\&M 부문 StoryOn 프로듀서
@@ -59,10 +58,10 @@
   - 이근찬 - CJ ENM E\&M 부문 프로듀서
   - 이덕재 - CJ ENM 미국사업담당/前 CJ ENM 미디어콘텐츠부문장/前 CJ ENM 방송콘텐츠부문장/前 tvN 본부장/前 tvN 국장
   - 이상윤 - CJ ENM E\&M 부문 Mnet 프로듀서, 팀장
+  - 이상훈 - CJ ENM E\&M 부문 프로듀서
   - 이선영 - CJ ENM E\&M 부문 Mnet 프로듀서/前 CJ ENM 프로듀서
   - 이슬기 - CJ ENM E\&M 부문 tvN 프로듀서
   - 이승훈 - CJ ENM E\&M 부문 드라마국 프로듀서
-  - 이준석 - CJ ENM E\&M 부문 프로듀서/前 On Style 프로듀서
   - 이진용 - CJ ENM E\&M 부문 프로듀서
   - 이진주 - CJ ENM E\&M 부문 프로듀서
   - 이태경 - CJ ENM E\&M 부문 tvN 프로듀서
@@ -81,7 +80,7 @@
   - 신소영 - CJ ENM E\&M부문 프로듀서/Olive 프로듀서/前 On Style 프로듀서
   - 신찬양 - CJ ENM E\&M 부문 tvN 프로듀서
   - 신소영 - CJ ENM E\&M부문 프로듀서/Olive 프로듀서/前 On Style 프로듀서
-  - 신형관 - CJ ENM 음악콘텐츠본부장(부사장 대우)/前 Mnet 상무/前 CJ ENM 엠넷콘텐츠부문장/前 Mnet 제작총괄국 국장/前 tvN 제작국 국장/前 tvN 프로듀서/前 마이엠넷 편성담당팀 팀장/前 Mnet 제작팀 팀장/前 Mnet 프로듀서/前 동아TV 프로듀서
+  - 신형관 - 아이랜드 TF/前 CJ ENM 음악콘텐츠본부장(부사장 대우)/前 Mnet 상무/前 CJ ENM 엠넷콘텐츠부문장/前 Mnet 제작총괄국 국장/前 tvN 제작국 국장/前 tvN 프로듀서/前 마이엠넷 편성담당팀 팀장/前 Mnet 제작팀 팀장/前 Mnet 프로듀서/前 동아TV 프로듀서
   - 전경남 - CJ ENM E\&M 부문 Mnet 프로듀서
   - 전지현 - CJ ENM E\&M 부문 Mnet 프로듀서
   - 정무원 - CJ ENM E\&M 부문 tvN 프로듀서
@@ -125,7 +124,7 @@
       - [김유곤](https://ko.wikipedia.org/wiki/김유곤 "wikilink") - CJ ENM E\&M 부문 tvN 콘텐츠기획팀 프로듀서/前 MBC 예능본부 1CP 예능프로듀서
       - 김희원 - CJ ENM E\&M 부문 프로듀서/前 MBC 예능본부 프로듀서/前 매일방송 MBN 프로듀서
       - 민철기 - CJ ENM E\&M 부문 프로듀서/前 MBC 예능본부 프로듀서
-      - 신정수 - CJ ENM E\&M 부문 Mnet 프로듀서/前 남색화염오락문화유한공사 프로듀서/前 MBC 예능본부 프로듀서
+      - 신정수 - CJ ENM E\&M 부문 Mnet 사업부장/前 프로듀서/前 남색화염오락문화유한공사 프로듀서/前 MBC 예능본부 프로듀서
       - 손창우 - CJ ENM E\&M 부문 tvN 프로듀서/前 MBC 예능본부 프로듀서
       - 유호철 - CJ ENM E\&M 부문 프로듀서/前 MBC 예능본부 프로듀서
       - 이상엽 - CJ ENM E\&M 부문 프로듀서/前 MBC 드라마본부 기획센터 기획보/前 MBC 드라마본부 프로듀서
@@ -185,7 +184,6 @@
 <!-- end list -->
 
   - KBS 출신 PD
-      - [김원석](../Page/김원석_\(연출가\).md "wikilink") - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 프로듀서
       - 백승룡 - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 tvN 프로듀서/前 KBS 드라마본부 프로듀서
       - 이나정 - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 프로듀서
       - [이응복](../Page/이응복.md "wikilink") - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 프로듀서
@@ -208,13 +206,16 @@
   - 강유미 - 前 투니버스 프로듀서
   - 계인선 - CIC미디어 프로듀서/前 투니버스 프로듀서
   - [곽정환](https://ko.wikipedia.org/wiki/곽정환_\(1972년\) "wikilink") - 스튜디오 앤 뉴 프로듀서/前 CJ E\&M 프로듀서/前 KBS 드라마 제작국 프로듀서
-  - 권해봄 - MBC 예능국 PD/前 tvN 프로듀서
+  - 권해봄 - [카카오M](../Page/카카오엠.md "wikilink") 프로듀서/前 MBC 예능국 PD/前 tvN 프로듀서
   - 고익조 - YG엔터테인먼트 프로듀서/前 Mnet 프로듀서, 팀장
+  - 김도형 - 스튜디오 디스커버리 PD/前 CJ ENM 프로듀서
   - 김무현 - 前 CJ E\&M 프로듀서
+  - [김원석](../Page/김원석_\(연출가\).md "wikilink") - [바람픽쳐스](https://ko.wikipedia.org/wiki/바람픽쳐스 "wikilink") 프로듀서/前 [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/前 CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 프로듀서
   - 김민 - SBS 예능본부 프로듀서/前 tvN 프로듀서
   - 김정범 - MBC플러스 프로듀서/前 CJ E\&M Mnet 프로듀서
   - 김정훈 - 프리랜서 프로듀서/前 TV조선 프로듀서/前 CJ E\&M 제작PD
   - 김지욱 - SM C\&C 프로듀서/前 CJ E\&M 책임프로듀서/前 QTV 제작팀 팀장
+  - 김영화 - 스튜디오 디스커버리 PD/前 CJ ENM E\&M 부문 프로듀서/前 Olive 프로듀서/前 XTM 프로듀서
   - 김형중 - JTBC 프로듀서/前 Mnet 프로듀서
   - 김헌주 - SM C\&C 프로듀서/前 CJ E\&M 프로듀서
   - 박장수 - 前 Mnet 프로듀서
@@ -228,6 +229,7 @@
   - [송창의](../Page/송창의_\(연출가\).md "wikilink") - 코엔미디어 제작본부 대표
   - 송현욱 - 스튜디오앤뉴 프로듀서 /前 tvN 프로듀서/前 KBS 프로듀서
   - 유치콕 - 메이크어스 딩고 스튜디오 프로듀서/前 CJ ENM 프로듀서
+  - 이준석 - 스튜디오 디스커버리 PD/前 CJ ENM E\&M 부문 프로듀서/前 On Style 프로듀서
   - 이재문 - 히든시퀀스 대표 프로듀서/前 CJ ENM 드라마기획 프로듀서/前 MBC 플러스미디어 프로듀서
   - 임우식 - 前 CJ E\&M 프로듀서
   - [이영균](https://ko.wikipedia.org/wiki/이영균 "wikilink") - [오리온](../Page/오리온.md "wikilink") 상무이사/前 CJ ENM(구 온미디어) 홍보실장
@@ -235,7 +237,7 @@
   - 정환석 - MBC 드라마넷 프로듀서/前 CJ ENM 예능1CP
   - 정유신 - TV조선 프로듀서/前 CJ ENM 프로듀서
   - 최재윤 - 메이크어스 딩고스튜디오 이사/前 Mnet America 제작편성총괄/前 Mnet 프로듀서
-  - 하정석 - 딩코푸드 총괄PD/前 CJ ENM 프로듀서
+  - 하정석 - 스튜디오 디스커버리 PD/前 딩코푸드 총괄PD/前 CJ ENM 프로듀서
   - 한동철 - YG엔터테인먼트 프로듀서/前 Mnet 프로듀서
   - 황형준 - 前 OGN 본부장/前 온게임넷 본부장/前 중화TV 본부장/ 前 이플레이온 본부장/ 前 온게임넷 국장/ 前 투니버스 프로듀서
 

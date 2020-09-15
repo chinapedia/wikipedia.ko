@@ -143,7 +143,7 @@
 
   - [브랜뉴뮤직 홈페이지 MXM 프로필](http://www.brandnewmusic.co.kr/portfolio-item/mxm/)
 
-  - [워너 뮤직 코리아 홈페이지 MXM 프로필](https://www.warnermusic.co.kr/artists/mxm/)
+  - [워너 뮤직 코리아 홈페이지 MXM 프로필](https://web.archive.org/web/20180330143431/https://www.warnermusic.co.kr/artists/mxm/)
 
   -
   -

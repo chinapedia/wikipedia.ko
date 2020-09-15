@@ -21,6 +21,7 @@
 
 ## 외부 링크
 
+  -
 [분류:1969년 음반](https://ko.wikipedia.org/wiki/분류:1969년_음반 "wikilink") [분류:데이비드 보위의 음반](https://ko.wikipedia.org/wiki/분류:데이비드_보위의_음반 "wikilink") [분류:EMI 레코드 음반](https://ko.wikipedia.org/wiki/분류:EMI_레코드_음반 "wikilink") [분류:머큐리 레코드 음반](https://ko.wikipedia.org/wiki/분류:머큐리_레코드_음반 "wikilink") [분류:팔로폰 음반](https://ko.wikipedia.org/wiki/분류:팔로폰_음반 "wikilink") [분류:RCA 레코드 음반](https://ko.wikipedia.org/wiki/분류:RCA_레코드_음반 "wikilink") [분류:버진 레코드 음반](https://ko.wikipedia.org/wiki/분류:버진_레코드_음반 "wikilink")
 
 1.  [Roy Carr](https://ko.wikipedia.org/wiki/Roy_Carr "wikilink") & [Charles Shaar Murray](https://ko.wikipedia.org/wiki/Charles_Shaar_Murray "wikilink") (1981). *Bowie: An Illustrated Record*: pp.28–29

@@ -11,7 +11,7 @@
 
 레논이 받은 또다른 영향은 그와 오노의 관계에 있다. 레논과 오노는 당시 자신들의 아방가르드 음반 《[Unfinished Music No.1: Two Virgins](https://ko.wikipedia.org/wiki/Unfinished_Music_No.1:_Two_Virgins "wikilink")》를 녹음한 상태였다. 레논은 "제가 그의 작품을 들었을 때 – 괴성과 울부짖는 것 뿐 아니라 단어 구절과 대화와 호흡과 이 모든 야릇한 것들을 포함하고 있었습니다 ... 몹시 흥미를 느꼈고, 그래서 저도 하나 해보고 싶었습니다."라고 말했다. 녹음 세션에 참석한 오노는, 레논에 의하면 사용될 테이프 루프를 고르는 데 도움을 주었다고 한다. 1992년 《뮤지션》지 인터뷰에서 해리슨은 그와 링고 스타는 EMI 녹음 보관소에서 사운드를 찾고 있었으며, 그중 "Number nine, number nine" 대화 음성이 있었다고 증언했다. 저자 칩 매딩거와 마스크 에스터는 《[Wonderwall Music](../Page/Wonderwall_Music.md "wikilink")》에 수록하기 위해 1967년 2월과 1968년 2월 녹음된 해리슨의 잘 알려지지 않은 실험 음악 〈[Dream Scene](https://ko.wikipedia.org/wiki/Dream_Scene_\(song\) "wikilink")〉의 세부내용을 기술하며, 해리슨이 현재 인정되고 있는 것보다 〈Revolution 9〉에 지대한 영향을 주었을 것이라는 주장을 했다.
 
-[Train_italien_pour_Turin_au_départ_de_Modane_(été_2019).JPG](https://ko.wikipedia.org/wiki/File:Train_italien_pour_Turin_au_départ_de_Modane_\(été_2019\).JPG "fig:Train_italien_pour_Turin_au_départ_de_Modane_(été_2019).JPG")
+[섬네일](https://ko.wikipedia.org/wiki/파일:Train_italien_pour_Turin_au_départ_de_Modane_\(été_2019\).JPG "wikilink")
 
 ## 녹음
 

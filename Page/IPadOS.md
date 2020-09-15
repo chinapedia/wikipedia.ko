@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IPadOS](https://ko.wikipedia.org/wiki/IPadOS).
 
 
-**iPadOS**(아이패드OS)은 [애플](../Page/애플.md "wikilink")의 [아이패드](../Page/아이패드.md "wikilink")전용 테블릿 컴퓨터 [운영 체제이다](../Page/운영_체제.md "wikilink"). iPadOS는 [2019년](../Page/2019년.md "wikilink") [9월](../Page/9월.md "wikilink")에 출시되었으며 기존의 [아이폰](../Page/아이폰.md "wikilink")과 [아이패드](../Page/아이패드.md "wikilink")간의 기능을 차별화하기 위한 목적으로 개발했다.\[1\] iPad가 처음으로 iOS를 사용하지않고 아이패드OS를 만들었다.
+**iPadOS**(아이패드OS)은 [애플](../Page/애플.md "wikilink")의 [아이패드](../Page/아이패드.md "wikilink")전용 테블릿 컴퓨터 [운영 체제이다](../Page/운영_체제.md "wikilink"). iPadOS는 [2019년](../Page/2019년.md "wikilink") [9월](../Page/9월.md "wikilink")에 출시되었으며 기존의 [아이폰](../Page/아이폰.md "wikilink")과 [아이패드](../Page/아이패드.md "wikilink")간의 기능을 차별화하기 위한 목적으로 개발했다.\[1\] 애플이 자사제품에 iOS를 사용하지않고 전용 OS를 새로 만들어 적용한 것은 IPadOS가 처음이다.
 
 ## 공식 지원 모델
 
@@ -11,6 +11,7 @@
   - 아이패드 에어 (3세대)
   - 아이패드 5세대
   - 아이패드 6세대
+  - 아이패드 7세대
   - 아이패드 미니4
   - 아이패드 미니 (5세대)
   - 아이패드 프로 (5세대)

@@ -15,7 +15,7 @@
 
 이 음반은 [머레이 더 케이의](https://ko.wikipedia.org/wiki/머레이_더_케이 "wikilink") "5차원의 음악" 콘서트 시리즈의 일부로 밴드의 9개 쇼에 이어 1967년 5월 [뉴욕](../Page/뉴욕.md "wikilink")의 [애틀랜틱 스튜디오에서](https://ko.wikipedia.org/wiki/애틀랜틱_스튜디오 "wikilink") 녹음되었습니다. 크림의 미국 레이블인 [앳코 레코드는](../Page/앳코_레코드.md "wikilink") [애틀랜틱 레코드의](../Page/애틀랜틱_레코드.md "wikilink") 완전한 소유의 자회사였다.\[5\]\[6\]
 
-이 세션은 [마운틴의](https://ko.wikipedia.org/wiki/마운틴_\(밴드\) "wikilink") 베이시스트 [펠릭스 파팔라디가](https://ko.wikipedia.org/wiki/펠릭스_파팔라디 "wikilink") 아내 [게일 콜린스와](https://ko.wikipedia.org/wiki/게일_콜린스_파팔라디 "wikilink") 함께 〈[Strange Brew](https://ko.wikipedia.org/wiki/Strange_Brew "wikilink")〉와 〈World of Pain〉을 공동 작곡했으며 후에 《[Layla and Other Assorted Love Songs](https://ko.wikipedia.org/wiki/Layla_and_Other_Assorted_Love_Songs "wikilink")》와 《[461 Ocean Boulevard](../Page/461_Ocean_Boulevard.md "wikilink")》와 같은 프로젝트에서 클랩튼과 함께 작업할 [톰 다우드가](https://ko.wikipedia.org/wiki/톰_다우드 "wikilink") 프로듀싱을 했다. 애틀랜틱 레코드 소유주 [아흐메트 에르테군도](../Page/아흐메트_에르테군.md "wikilink") 세션 중에 참석했다.\[7\]
+이 세션은 [마운틴의](https://ko.wikipedia.org/wiki/마운틴_\(밴드\) "wikilink") 베이시스트 [펠릭스 파팔라디가](https://ko.wikipedia.org/wiki/펠릭스_파팔라디 "wikilink") 아내 [게일 콜린스와](https://ko.wikipedia.org/wiki/게일_콜린스_파팔라디 "wikilink") 함께 〈[Strange Brew](https://ko.wikipedia.org/wiki/Strange_Brew "wikilink")〉와 〈World of Pain〉을 공동 작곡했으며 후에 《[Layla and Other Assorted Love Songs](../Page/Layla_and_Other_Assorted_Love_Songs.md "wikilink")》와 《[461 Ocean Boulevard](../Page/461_Ocean_Boulevard.md "wikilink")》와 같은 프로젝트에서 클랩튼과 함께 작업할 [톰 다우드가](https://ko.wikipedia.org/wiki/톰_다우드 "wikilink") 프로듀싱을 했다. 애틀랜틱 레코드 소유주 [아흐메트 에르테군도](../Page/아흐메트_에르테군.md "wikilink") 세션 중에 참석했다.\[7\]
 
 다우드에 따르면 녹음 세션은 3일 반밖에 걸리지 않았는데, 이는 음반의 길이를 고려한 업적이다. 그 밴드의 비자는 녹음 마지막 날에 만료되었다.\[8\]
 

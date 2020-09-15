@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [마블 vs. 캡콤](https://ko.wikipedia.org/wiki/마블_vs._캡콤).
 
 
-**마블 vs. 캡콤**()은 [캡콤](../Page/캡콤.md "wikilink")의 프렌차이즈와 [마블 코믹스의](../Page/마블_코믹스.md "wikilink") 캐릭터들이 등장하는 [크로스오버](https://ko.wikipedia.org/wiki/크로스오버_작품 "wikilink") [대전 격투 게임](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink") 시리즈이다. 이는 캡콤이 관여한 첫번째 Vs. 시리즈로, 그 후로 캡콤은 [SNK](../Page/SNK.md "wikilink")([SNK vs. 캡콤](../Page/SNK_vs._캡콤.md "wikilink"))나 [다쓰노코 프로덕션](https://ko.wikipedia.org/wiki/다쓰노코_프로덕션 "wikilink")([타츠노코 vs. 캡콤](https://ko.wikipedia.org/wiki/타츠노코_vs._캡콤 "wikilink"))과도 협력해서 시리즈를 제작했다. 1996년부터 현재까지 7개의 비디오 게임들로 구성돼있다.
+《**마블 vs. 캡콤**》 ()은 [캡콤](../Page/캡콤.md "wikilink")의 프렌차이즈와 [마블 코믹스의](../Page/마블_코믹스.md "wikilink") 캐릭터들이 등장하는 [크로스오버](https://ko.wikipedia.org/wiki/크로스오버_작품 "wikilink") [대전 격투 게임](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink") 시리즈이다. 이는 캡콤이 관여한 첫번째 Vs. 시리즈로, 그 후로 캡콤은 [SNK](../Page/SNK.md "wikilink")([SNK vs. 캡콤](../Page/SNK_vs._캡콤.md "wikilink"))나 [다쓰노코 프로덕션](https://ko.wikipedia.org/wiki/다쓰노코_프로덕션 "wikilink")([타츠노코 vs. 캡콤](https://ko.wikipedia.org/wiki/타츠노코_vs._캡콤 "wikilink"))과도 협력해서 시리즈를 제작했다. 1996년부터 현재까지 7개의 비디오 게임들로 구성돼있다.
 
 여기서 등장한 마블 등장인물들은 [엑스맨](../Page/엑스맨.md "wikilink") TV 시리즈와 같은 1990년대 애니메이션의 모습에 기반했고, 그 작품들과 같은 성우가 기용됐다. 마블 vs. 캡콤 3의 경우 [어벤저스](https://ko.wikipedia.org/wiki/어벤저스_\(애니메이션\) "wikilink"), [스펙테큘러 스파이더맨같은](https://ko.wikipedia.org/wiki/스펙테큘러_스파이더맨 "wikilink") 2000년대 후반 애니메이션들의 모습을 빌려왔다.
 
 ## 게임플레이
 
-마블 vs. 캡콤은 시리즈 시작부터 근 20여 년 동안 계속해서 진화해왔다. 최초엔 [스트리트 파이터 II의](../Page/스트리트_파이터_II:_더_월드_워리어.md "wikilink") 구성을 빌려와 [엑스맨: 칠드런 오브 디 아톰과](https://ko.wikipedia.org/wiki/엑스맨:_칠드런_오브_디_아톰 "wikilink") [마블 슈퍼 히어로즈처럼](https://ko.wikipedia.org/wiki/마블_슈퍼_히어로즈 "wikilink") 표준적인 일대일 3전 2선승제 격투 게임으로 시작됐다.
+《마블 vs. 캡콤》은 시리즈 시작부터 근 20여 년 동안 계속해서 진화해왔다. 최초엔 [스트리트 파이터 II의](../Page/스트리트_파이터_II:_더_월드_워리어.md "wikilink") 구성을 빌려와 [엑스맨: 칠드런 오브 디 아톰과](https://ko.wikipedia.org/wiki/엑스맨:_칠드런_오브_디_아톰 "wikilink") [마블 슈퍼 히어로즈처럼](https://ko.wikipedia.org/wiki/마블_슈퍼_히어로즈 "wikilink") 표준적인 일대일 3전 2선승제 격투 게임으로 시작됐다.
 
 ## 목록
 
@@ -1120,6 +1120,6 @@
 
   - [스트리트 파이터 X 철권](../Page/스트리트_파이터_X_철권.md "wikilink")
 
-[분류:캡콤 게임](https://ko.wikipedia.org/wiki/분류:캡콤_게임 "wikilink") [분류:비디오 게임 시리즈](https://ko.wikipedia.org/wiki/분류:비디오_게임_시리즈 "wikilink") [분류:슈퍼히어로 게임](https://ko.wikipedia.org/wiki/분류:슈퍼히어로_게임 "wikilink") [분류:스트리트 파이터](https://ko.wikipedia.org/wiki/분류:스트리트_파이터 "wikilink") [분류:비디오 게임의 크로스오버 작품](https://ko.wikipedia.org/wiki/분류:비디오_게임의_크로스오버_작품 "wikilink") [분류:아케이드 게임](https://ko.wikipedia.org/wiki/분류:아케이드_게임 "wikilink") [마블_vs._캡콤](https://ko.wikipedia.org/wiki/분류:마블_vs._캡콤 "wikilink")
+[분류:캡콤 게임](https://ko.wikipedia.org/wiki/분류:캡콤_게임 "wikilink") [분류:비디오 게임 시리즈](https://ko.wikipedia.org/wiki/분류:비디오_게임_시리즈 "wikilink") [분류:슈퍼히어로 게임](https://ko.wikipedia.org/wiki/분류:슈퍼히어로_게임 "wikilink") [분류:스트리트 파이터](https://ko.wikipedia.org/wiki/분류:스트리트_파이터 "wikilink") [분류:비디오 게임의 크로스오버 작품](https://ko.wikipedia.org/wiki/분류:비디오_게임의_크로스오버_작품 "wikilink") [분류:아케이드 게임](https://ko.wikipedia.org/wiki/분류:아케이드_게임 "wikilink") [마블_vs._캡콤](https://ko.wikipedia.org/wiki/분류:마블_vs._캡콤 "wikilink") [분류:캡콤 VS (시리즈)](https://ko.wikipedia.org/wiki/분류:캡콤_VS_\(시리즈\) "wikilink") [분류:캡콤의 프랜차이즈](https://ko.wikipedia.org/wiki/분류:캡콤의_프랜차이즈 "wikilink")
 
 1.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SF9](https://ko.wikipedia.org/wiki/SF9).
 
 
-**SF9**(에스에프나인)은 [대한민국](../Page/대한민국.md "wikilink")의 9인조 [보이 그룹으로](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"), 소속사는 [FNC 엔터테인먼트이다](../Page/FNC_엔터테인먼트.md "wikilink"). 팀명 SF9는 Sensational Feeling 9의 약자로, S는 세상을 깜짝 놀라게 할 소년들을 뜻하며, F는 FNC 엔터테인먼트가 야심차게 처음으로 선보이는 댄스 보이그룹이라는 뜻과 최고의 자리에 오르겠다는 각오를 담았다. 또, 한자 '오랠 구(久)'를 숫자 9로 형상화해 팀의 활동과 인기가 영원히 지속될 것이라는 의미를 포함했다.\[1\]팬덤이름은 판타지(영어:Fantasy)이다.
+**SF9**(에스에프나인)은 [대한민국](../Page/대한민국.md "wikilink")의 9인조 [보이 그룹으로](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink"), 소속사는 [FNC 엔터테인먼트이다](../Page/FNC_엔터테인먼트.md "wikilink"). 팀명 SF9는 Sensational Feeling 9의 약자로, S는 세상을 깜짝 놀라게 할 소년들을 뜻하며, F는 FNC 엔터테인먼트가 야심차게 처음으로 선보이는 댄스 보이그룹이라는 뜻과 최고의 자리에 오르겠다는 각오를 담았다. 또, 한자 '오랠 구(久)'를 숫자 9로 형상화해 팀의 활동과 인기가 영원히 지속될 것이라는 의미를 포함했다.\[1\] 팬덤 이름은 판타지(영어:Fantasy)이다.
 
 ## 구성원
 
@@ -44,7 +44,7 @@
 <li>Shh</li>
 <li>룰루랄라 (Lullu Lalla)</li>
 <li>One Love</li>
-<li>널 꽉잡은 손만큼 사랑해 (Like The Hands Held Tight)</li>
+<li>널 꽉 잡은 손만큼 (Like The Hands Held Tight)</li>
 <li>타 (Fire)</li>
 <li>더 잔인하게 (Stop it Now)</li>
 <li>춤을 출 거야 (Dance With Us)</li>
@@ -169,10 +169,25 @@
 <li>Echo</li>
 </ol></td>
 </tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>8</strong></p></td>
+<td style="text-align: left;"><p>《<strong>SF9 8th Mini Album `9loryUS`</strong>》</p>
+<ul>
+<li>발매일: <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/7월_6일.md" title="wikilink">7월 6일</a></li>
+</ul></td>
+<td style="text-align: left;"><ol>
+<li><strong>여름 향기가 날 춤추게 해 (Summer Breeze)</strong> <a href="https://www.youtube.com/watch?v=bU5K0kqaAME">뮤직비디오</a></li>
+<li>별을 따라 (Into The Night)</li>
+<li>Ok Sign</li>
+<li>비켜 (All Day All Night)</li>
+<li>미친 것처럼 (Go High)</li>
+<li>My Story, My Song</li>
+</ol></td>
+</tr>
 </tbody>
 </table>
 
-#### 싱글 앨범
+### 싱글 앨범
 
 <table>
 <thead>
@@ -198,7 +213,7 @@
 </tbody>
 </table>
 
-#### 디지털 싱글 앨범
+### 디지털 싱글 앨범
 
 <table>
 <thead>
@@ -225,9 +240,7 @@
 
 ## 음반 외 활동
 
-## 텔레비전 프로그램
-
-### 방송
+### 예능 프로그램
 
 | 연도                                                            | 방송사                                                                               | 제목                                                                                | 출연자    | 비고                                                                                        |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------- |
@@ -250,18 +263,16 @@
 
 ### 드라마
 
-| 연도 | 기간 | 방송사 | 제목 | 장르 | 비고 |-align"center" | [2016년](../Page/2016년.md "wikilink") | [3월 17일](../Page/3월_17일.md "wikilink") \~ [3월 19일](../Page/3월_19일.md "wikilink") | [네이버TV](../Page/네이버TV.md "wikilink") [MBC every1](https://ko.wikipedia.org/wiki/MBC_every1 "wikilink") | [클릭 유어 하트](../Page/클릭_유어_하트.md "wikilink") | 웹드라마 | 멤버전원출연 |
-| -- | -- | --- | -- | -- | ------------------ | ------------------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ---- | ------ |
+| 연도 | 기간 | 방송사 | 제목 | 장르 | 비고 |-align"center" | [2016년](../Page/2016년.md "wikilink") | [3월 17일](../Page/3월_17일.md "wikilink") \~ [3월 19일](../Page/3월_19일.md "wikilink") | [네이버TV](../Page/네이버TV.md "wikilink") [MBC every1](https://ko.wikipedia.org/wiki/MBC_every1 "wikilink") | [클릭 유어 하트](../Page/클릭_유어_하트.md "wikilink") | 웹드라마 | 멤버전원출연 |-align"center" | [2020년](../Page/2020년.md "wikilink") | [7월 23일](../Page/7월_23일.md "wikilink") | [JTBC](../Page/JTBC.md "wikilink") | [우리, 사랑했을까](https://ko.wikipedia.org/wiki/우리,_사랑했을까 "wikilink") | 수목드라마 | 영빈, 인성, 재윤, 다원, 로운, 주호, 유태양, 휘영 (6회 특별출연) |
+| -- | -- | --- | -- | -- | ------------------ | ------------------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------ | ---- | ---------------------- | ------------------------------------ | -------------------------------------- | ---------------------------------- | --------------------------------------------------------------- | ----- | ----------------------------------------- |
 
-## CF 광고
+### CF 광고
 
 | 연도         | 기업명      | 브랜드                                                   | 종류                               | 공동출연                                                                                             |
 | ---------- | -------- | ----------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------ |
 | 2016       | 주식회사 더엔진 | [스쿨룩스](https://ko.wikipedia.org/wiki/스쿨룩스 "wikilink") | 학생복                              |                                                                                                  |
 | 2019 \~ 현재 | (주) 월비통상 | 에비수                                                   | 청바지                              | [신비](../Page/신비_\(1998년\).md "wikilink") ([여자친구](https://ko.wikipedia.org/wiki/여자친구 "wikilink")) |
 | 농협목우촌      | 또래오래     | 치킨 프랜차이즈                                              | [신예은](../Page/신예은.md "wikilink") |                                                                                                  |
-
-공차 로운 광고
 
 ## 수상 목록
 
@@ -277,18 +288,22 @@
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
-<th><p>수상 내역 (총 3회)</p></th>
+<th><p>수상 내역 (총 4회)</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2020년 (총 3회)</p></td>
+<td><p>2020년 (총 4회)</p></td>
 <td><ul>
 <li><strong>Good Guy</strong> (총 3회)
 <ul>
 <li><a href="../Page/1월_16일.md" title="wikilink">1월 16일</a> <a href="https://ko.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
 <li><a href="../Page/1월_17일.md" title="wikilink">1월 17일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 《<a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a>》 K-Chart 1위</li>
 <li><a href="../Page/1월_30일.md" title="wikilink">1월 30일</a> <a href="https://ko.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (2주 연속)</li>
+</ul></li>
+<li><strong>여름 향기가 날 춤추게 해</strong> (총 1회)
+<ul>
+<li><a href="../Page/7월_14일.md" title="wikilink">7월 14일</a> <a href="../Page/SBS_MTV.md" title="wikilink">SBS MTV</a> 《<a href="https://ko.wikipedia.org/wiki/더_쇼" title="wikilink">더 쇼</a> 시즌5》 더 쇼 초이스</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -298,6 +313,7 @@
 ## 기타 활동
 
   - [2019년](../Page/2019년.md "wikilink") 두바이 한류 박람회 한류 홍보대사
+  - [2020년](../Page/2020년.md "wikilink") 글로벌 한류박람회 홍보대사
 
 ## 각주
 
@@ -311,6 +327,6 @@
   -
   -
   -
-[분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:FNC 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:FNC_엔터테인먼트_소속 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink")
+[분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:FNC 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:FNC_엔터테인먼트_소속 "wikilink") [분류:2016년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2016년_결성된_음악_그룹 "wikilink") [분류:다국적 음악 그룹](https://ko.wikipedia.org/wiki/분류:다국적_음악_그룹 "wikilink") [분류:K-pop 음악 그룹](https://ko.wikipedia.org/wiki/분류:K-pop_음악_그룹 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink")
 
 1.

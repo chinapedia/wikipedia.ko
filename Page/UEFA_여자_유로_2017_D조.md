@@ -67,7 +67,7 @@
 </tbody>
 </table>
 
-  - <small>**스페인, 스코틀랜드, 포르투갈은 승점이 같아 각 팀간의 전적으로 순위가 결정되었다. 그 결과 스페인이 조 2위로 8강전에 진출했다.**</small>
+  - <small>**스페인, 스코틀랜드, 포르투갈은 승점이 같아 각 팀 간의 전적으로 순위가 결정되었다. 그 결과 스페인이 조 2위로 8강전에 진출했다.**</small>
 
 <small>
 
@@ -271,7 +271,7 @@
 페트루차 이우굴레스쿠 (<a href="https://ko.wikipedia.org/wiki/루마니아_축구_연맹" title="wikilink">루마니아</a>)<br />
 미하엘라 체푸셔 (<a href="https://ko.wikipedia.org/wiki/루마니아_축구_연맹" title="wikilink">루마니아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/쿨차르_커털린" title="wikilink">쿨차르 커털린</a> (<a href="https://ko.wikipedia.org/wiki/헝가리_축구_연맹" title="wikilink">헝가리</a>)</p></td>
+<a href="../Page/쿨차르_커털린.md" title="wikilink">쿨차르 커털린</a> (<a href="https://ko.wikipedia.org/wiki/헝가리_축구_연맹" title="wikilink">헝가리</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -443,12 +443,12 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/조디_테일러" title="wikilink">조디 테일러</a> (잉글랜드)[2]</p>
+<a href="../Page/조디_테일러.md" title="wikilink">조디 테일러</a> (잉글랜드)[2]</p>
 <p><strong>부심:</strong><br />
 벨린다 브렘 (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)<br />
 사냐 로자크카르시치 (<a href="https://ko.wikipedia.org/wiki/크로아티아_축구_연맹" title="wikilink">크로아티아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/야나_아담코바" title="wikilink">야나 아담코바</a> (<a href="https://ko.wikipedia.org/wiki/체코_축구_협회" title="wikilink">체코</a>)</p></td>
+<a href="../Page/야나_아담코바.md" title="wikilink">야나 아담코바</a> (<a href="https://ko.wikipedia.org/wiki/체코_축구_협회" title="wikilink">체코</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -797,7 +797,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/루시_브론즈" title="wikilink">루시 브론즈</a> (잉글랜드)[4]</p>
+<a href="../Page/루시_브론즈.md" title="wikilink">루시 브론즈</a> (잉글랜드)[4]</p>
 <p><strong>부심:</strong><br />
 루치아 아브루체세 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 흐리술라 쿠롬필리아 (<a href="https://ko.wikipedia.org/wiki/그리스_축구_연맹" title="wikilink">그리스</a>)<br />

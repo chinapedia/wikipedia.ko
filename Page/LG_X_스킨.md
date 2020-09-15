@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG X 스킨](https://ko.wikipedia.org/wiki/LG_X_스킨).
 
 
-**LG X 스킨**(LG X Skin)은 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink"), 출시한 [LG U+](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 전용 보급형 스마트폰이다.\[1\] 처음 공개될 때에는 **X 스타일**이라는 이름으로 공개되었으나 [대한민국](../Page/대한민국.md "wikilink")에서 출시되면서 X 스킨이라는 이름으로 바뀌었다. 미국에는 **트리뷰트 HD**라는 이름으로 출시되기도 하였다.\[2\] 가격에 비해 얇은 두께가 특징이다.
+**LG X 스킨**(LG X Skin)은 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink"), 출시한 [LG U+](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 전용 보급형 스마트폰이다.\[1\] 처음 공개될 때에는 **X 스타일**이라는 이름으로 공개되었으나 [대한민국](../Page/대한민국.md "wikilink")에서 출시되면서 X 스킨이라는 이름으로 바뀌었다. 미국에는 **트리뷰트 HD**라는 이름으로 출시되기도 하였다.\[2\] 가격에 비해 얇은 두께가 특징이었다.
 
 ## 운영 체제 / 소프트웨어
 

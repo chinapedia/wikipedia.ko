@@ -1,13 +1,18 @@
 > This article is converted from Wikipedia: [ITZY](https://ko.wikipedia.org/wiki/ITZY).
 
 
-**ITZY**(있지)는 [2019년](../Page/2019년.md "wikilink") [2월 12일에](../Page/2월_12일.md "wikilink") 데뷔한 [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") 소속 5인조 [걸 그룹이다](../Page/걸_그룹.md "wikilink"). 팀명 ‘ITZY’는 “너희가 원하는 거 전부 있지? 있지\!”라고 자신감을 표방하는 이름이자, 특정 대상을 지칭할 때 쓰는 ‘it’, 가지고 싶은 대상을 향해 쓰는 ‘it’ 등 영어 ‘it’이 갖는 의미와, 걸 그룹에게 기대하는 모든 매력을 지니고 ‘있다’는 한국어의 뜻이 담긴 이름이다.
+{{ 음악 그룹 정보 |이름 = ITZY |로고 = Itzy logo.png |그림 = Itzy at a showcase debut on February 12, 2019.jpg|섬네일|ITZY K-POP Debut SHOECASE |설명 = 왼쪽부터 [예지](https://ko.wikipedia.org/wiki/예지_\(2000년\) "wikilink"), [리아](https://ko.wikipedia.org/wiki/리아_\(2000년\) "wikilink"), [류진](https://ko.wikipedia.org/wiki/류진_\(가수\) "wikilink"), [채령](../Page/채령_\(가수\).md "wikilink"), [유나](https://ko.wikipedia.org/wiki/유나_\(2003년\) "wikilink") |국가 = |결성지역 = [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") |장르 = [K-pop](../Page/K-pop.md "wikilink"), [댄스 팝](../Page/댄스_팝.md "wikilink") |활동 시기 = 2019년 \~ 현재 |레이블 =  Dreamus
+ [리퍼블릭 레코드](https://ko.wikipedia.org/wiki/리퍼블릭_레코드 "wikilink") |소속사 = [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") |웹사이트 = [공식 웹사이트](http://itzy.jype.com) |구성원 = [예지](https://ko.wikipedia.org/wiki/예지_\(2000년\) "wikilink")
+[리아](https://ko.wikipedia.org/wiki/리아_\(2000년\) "wikilink")
+[류진](https://ko.wikipedia.org/wiki/류진_\(가수\) "wikilink")
+[채령](../Page/채령_\(가수\).md "wikilink")
+[유나](https://ko.wikipedia.org/wiki/유나_\(2003년\) "wikilink") }} **ITZY**()는 [2019년](../Page/2019년.md "wikilink") [2월 12일에](../Page/2월_12일.md "wikilink") 데뷔한 [JYP 엔터테인먼트](../Page/JYP_엔터테인먼트.md "wikilink") 소속의 5인조 [걸 그룹이다](../Page/걸_그룹.md "wikilink"). 팀명 ‘ITZY’는 “너희가 원하는거 전부 있지? 있지\!”라고 자신감을 표방하는 이름이자, 특정 대상을 지칭할 때 쓰는 ‘It’, 가지고 싶은 대상을 향해 쓰는 ‘It’ 등 영어 ‘It’이 갖는 의미와, 걸 그룹에게 기대하는 모든 매력을 지니고 ‘있다’는 [한국어](../Page/한국어.md "wikilink")의 뜻이 담긴 이름이다.
 
 ## 활동
 
 ### 데뷔 전
 
-채령은 2013년 [K팝스타 3에](../Page/K팝스타_3.md "wikilink") 참가하였으며,\[1\] 2015년 JYP의 서바이벌 쇼 [식스틴](https://ko.wikipedia.org/wiki/식스틴 "wikilink")에 참가했으나 걸 그룹 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 구성원이 되는 데에는 실패하였다.\[2\] 류진은 2018년 [JTBC](../Page/JTBC.md "wikilink")의 서바이벌 프로그램 [믹스나인](../Page/믹스나인.md "wikilink")에 참가하여 여성 조 가운데 1위를 차지했으나, 9명의 남성 조와 9명의 여성 조 간의 대결이었던 최종회에서 남성 조가 우승하면서 데뷔하지 못하였다.\[3\] 예지는 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") [더 팬에](../Page/더_팬.md "wikilink") 참가했으나 5회에서 탈락하였다.\[4\] 리아를 제외한 멤버 전원이 2017년 엠넷의 리얼리티 쇼 [스트레이 키즈에](../Page/스트레이_키즈_\(텔레비전_프로그램\).md "wikilink") 보이 그룹 [스트레이 키즈에](../Page/스트레이_키즈.md "wikilink") 대항하여 프로젝트 그룹으로 출연하였다.\[5\]
+채령은 2013년 [K팝스타 3에](../Page/K팝스타_3.md "wikilink") 참가하였으며,\[1\] 2015년 JYP의 서바이벌 쇼 [식스틴](https://ko.wikipedia.org/wiki/식스틴 "wikilink")에 참가했으나 걸 그룹 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 구성원이 되는 데에는 실패하였다.\[2\] 류진은 2018년 [JTBC](../Page/JTBC.md "wikilink")의 서바이벌 프로그램 [믹스나인](../Page/믹스나인.md "wikilink")에 참가하여 여성 조 가운데 1위를 차지했으나, 9명의 남성 조와 9명의 여성 조 간의 대결이었던 최종회에서 남성 조가 우승하면서 데뷔하지 못하였다.\[3\] 예지는 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") [더 팬에](../Page/더_팬.md "wikilink") 참가했으나 5회에서 탈락하였다.\[4\] 류진, 유나는 [방탄소년단](../Page/방탄소년단.md "wikilink")의 뮤비에 나왔었다. 리아를 제외한 멤버 전원이 2017년 엠넷의 리얼리티 쇼 [스트레이 키즈에](../Page/스트레이_키즈_\(텔레비전_프로그램\).md "wikilink") 보이 그룹 [스트레이 키즈에](../Page/스트레이_키즈.md "wikilink") 대항하여 프로젝트 그룹으로 출연하였다.\[5\]
 
 ### 2019년: 데뷔, *IT'z Different*, *IT'z ICY*
 
@@ -17,9 +22,11 @@
 
 7월 29일 자정 첫 번째 미니앨범 IT'z ICY의 타이틀곡인 《ICY》 의 뮤직비디오를 공개하며 컴백하였다. 음악방송 12관왕을 달성하였다.
 
-### 2020년: *IT'z ME*
+### 2020년: *IT'z ME*, *Not Shy*
 
-2020년 3월 9일, 두 번째 미니앨범 IT'z ME의 타이틀곡 《WANNABE》로 컴백하였다. 같은 곡으로 8관왕을 달성하였다.
+2020년 3월 9일, 두 번째 미니앨범 IT'z ME의 타이틀곡 《WANNABE》로 컴백하였다. 또한 타이틀곡 《WANNABE》로 8관왕을 달성하였다.
+
+2020년 8월 17일, 세 번째 미니앨범 Not Shy의 타이틀곡 《Not Shy》로 컴백하였다.
 
 ## 구성원
 
@@ -38,7 +45,7 @@
 <li>생년월일 : </li>
 <li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/전라북도" title="wikilink">전라북도</a> <a href="https://ko.wikipedia.org/wiki/전주시" title="wikilink">전주시</a> <a href="../Page/완산구.md" title="wikilink">완산구</a></li>
 <li>학력 : <a href="../Page/전주상업정보고등학교.md" title="wikilink">전주상업정보고등학교</a> (졸업)</li>
-<li>활동기간 : 2019년 2월 12일 ~ 현재</li>
+<li>활동기간 : 2019년 ~ 현재</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -48,7 +55,7 @@
 <li>생년월일 : </li>
 <li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천광역시</a> <a href="../Page/연수구.md" title="wikilink">연수구</a></li>
 <li>학력 : <a href="../Page/서울공연예술고등학교.md" title="wikilink">서울공연예술고등학교</a> 실용음악과 (졸업)</li>
-<li>활동기간 : 2019년 2월 12일 ~ 현재</li>
+<li>활동기간 : 2019년 ~ 현재</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -58,7 +65,7 @@
 <li>생년월일 : </li>
 <li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a> <a href="../Page/광진구.md" title="wikilink">광진구</a></li>
 <li>학력 : <a href="https://ko.wikipedia.org/wiki/한림연예예술고등학교" title="wikilink">한림연예예술고등학교</a> 실용무용과 (졸업)</li>
-<li>활동기간 : 2019년 2월 12일 ~ 현재</li>
+<li>활동기간 : 2019년 ~ 현재</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -68,7 +75,7 @@
 <li>생년월일 : </li>
 <li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="../Page/용인시.md" title="wikilink">용인시</a> <a href="../Page/기흥구.md" title="wikilink">기흥구</a></li>
 <li>학력 : <a href="https://ko.wikipedia.org/wiki/한림연예예술고등학교" title="wikilink">한림연예예술고등학교</a> 뮤지컬과 (졸업)</li>
-<li>활동기간 : 2019년 2월 12일 ~ 현재</li>
+<li>활동기간 : 2019년 ~ 현재</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -78,7 +85,7 @@
 <li>생년월일 : </li>
 <li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/수원시" title="wikilink">수원시</a> <a href="https://ko.wikipedia.org/wiki/팔달구" title="wikilink">팔달구</a></li>
 <li>학력 : <a href="https://ko.wikipedia.org/wiki/한림연예예술고등학교" title="wikilink">한림연예예술고등학교</a> 실용무용과 (재학)</li>
-<li>활동기간 : 2019년 2월 12일 ~ 현재</li>
+<li>활동기간 : 2019년 ~ 현재</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -94,10 +101,10 @@
 
 ### 예능
 
-| 연도   | 방송사                                                   | 제목                                                                                | 역할                     |
-| ---- | ----------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------- |
-| 2019 | [JTBC](../Page/JTBC.md "wikilink")                    | 《[아는형님](https://ko.wikipedia.org/wiki/아는형님 "wikilink")》                           | 게스트                    |
-| 2020 | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") | 《[Paris et ITZY](https://ko.wikipedia.org/wiki/Paris_et_ITZY "wikilink")》(파리에 있지) | 멤버 전부(예지,리아,채령,류진,유나.) |
+| 연도   | 방송사                                                   | 제목                                                                                | 역할    |
+| ---- | ----------------------------------------------------- | --------------------------------------------------------------------------------- | ----- |
+| 2019 | [JTBC](../Page/JTBC.md "wikilink")                    | 《[아는 형님](../Page/아는_형님.md "wikilink")》                                            | 게스트   |
+| 2020 | [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") | 《[Paris et ITZY](https://ko.wikipedia.org/wiki/Paris_et_ITZY "wikilink")》(파리에 있지) | 고정 출연 |
 
 ## 수상 경력
 
@@ -142,7 +149,7 @@
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
-<th><p>수상 내역 (총 29회)</p></th>
+<th><p>수상 내역 (총 31회)</p></th>
 </tr>
 </thead>
 <tbody>
@@ -163,14 +170,14 @@
 </ul></li>
 <li><strong>ICY</strong> (총 12회)
 <ul>
-<li><a href="../Page/8월_7일.md" title="wikilink">8월 7일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> <a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a> 챔피언 송</li>
+<li><a href="../Page/8월_7일.md" title="wikilink">8월 7일</a> <a href="https://ko.wikipedia.org/wiki/MBC_M" title="wikilink">MBC M</a> <a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a> 챔피언 송</li>
 <li><a href="../Page/8월_8일.md" title="wikilink">8월 8일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> <a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a> 1위</li>
 <li><a href="../Page/8월_10일.md" title="wikilink">8월 10일</a> <a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> <a href="https://ko.wikipedia.org/wiki/쇼_음악중심" title="wikilink">쇼 음악중심</a> 1위</li>
 <li><a href="../Page/8월_11일.md" title="wikilink">8월 11일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> <a href="../Page/SBS_인기가요.md" title="wikilink">SBS 인기가요</a> 1위</li>
-<li><a href="../Page/8월_14일.md" title="wikilink">8월 14일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> <a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a> 챔피언 송 (2주 연속)</li>
+<li><a href="../Page/8월_14일.md" title="wikilink">8월 14일</a> <a href="https://ko.wikipedia.org/wiki/MBC_M" title="wikilink">MBC M</a> <a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a> 챔피언 송 (2주 연속)</li>
 <li><a href="../Page/8월_16일.md" title="wikilink">8월 16일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> <a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a> K-Chart 1위</li>
 <li><a href="../Page/8월_17일.md" title="wikilink">8월 17일</a> <a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> <a href="https://ko.wikipedia.org/wiki/쇼_음악중심" title="wikilink">쇼 음악중심</a> 1위 (2주 연속)</li>
-<li><a href="../Page/8월_21일.md" title="wikilink">8월 21일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> <a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a> 챔피언 송 (트리플 크라운)</li>
+<li><a href="../Page/8월_21일.md" title="wikilink">8월 21일</a> <a href="https://ko.wikipedia.org/wiki/MBC_M" title="wikilink">MBC M</a> <a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a> 챔피언 송 (트리플 크라운)</li>
 <li><a href="../Page/8월_22일.md" title="wikilink">8월 22일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> <a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a> 1위 (2주 연속)</li>
 <li><a href="../Page/8월_23일.md" title="wikilink">8월 23일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> <a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a> K-Chart 1위 (2주 연속)</li>
 <li><a href="../Page/8월_24일.md" title="wikilink">8월 24일</a> <a href="https://ko.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> <a href="https://ko.wikipedia.org/wiki/쇼_음악중심" title="wikilink">쇼 음악중심</a> 1위 (3주 연속)</li>
@@ -179,18 +186,23 @@
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>2020년 (총 8회)</p></td>
+<td><p>2020년 (총 10회)</p></td>
 <td><ul>
 <li><strong>WANNABE</strong> (총 8회)
 <ul>
-<li><a href="../Page/3월_19일.md" title="wikilink">3월 19일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li><a href="../Page/3월_19일.md" title="wikilink">3월 19일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> <a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a> 1위</li>
 <li><a href="../Page/3월_22일.md" title="wikilink">3월 22일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> <a href="../Page/SBS_인기가요.md" title="wikilink">SBS 인기가요</a> 1위</li>
-<li><a href="../Page/3월_25일.md" title="wikilink">3월 25일</a> <a href="https://ko.wikipedia.org/wiki/MBC_M" title="wikilink">MBC M</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언 송</li>
-<li><a href="../Page/3월_26일.md" title="wikilink">3월 26일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (2주 연속)</li>
+<li><a href="../Page/3월_25일.md" title="wikilink">3월 25일</a> <a href="https://ko.wikipedia.org/wiki/MBC_M" title="wikilink">MBC M</a> <a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a> 챔피언 송</li>
+<li><a href="../Page/3월_26일.md" title="wikilink">3월 26일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> <a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a> 1위 (2주 연속)</li>
 <li><a href="../Page/3월_29일.md" title="wikilink">3월 29일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> <a href="../Page/SBS_인기가요.md" title="wikilink">SBS 인기가요</a> 1위 (2주 연속)</li>
-<li><a href="../Page/4월_1일.md" title="wikilink">4월 1일</a> <a href="https://ko.wikipedia.org/wiki/MBC_M" title="wikilink">MBC M</a> 《<a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a>》 챔피언 송 (2주 연속)</li>
-<li><a href="../Page/4월_2일.md" title="wikilink">4월 2일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (트리플 크라운)</li>
+<li><a href="../Page/4월_1일.md" title="wikilink">4월 1일</a> <a href="https://ko.wikipedia.org/wiki/MBC_M" title="wikilink">MBC M</a> <a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a> 챔피언 송 (2주 연속)</li>
+<li><a href="../Page/4월_2일.md" title="wikilink">4월 2일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> <a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a> 1위 (트리플 크라운)</li>
 <li><a href="../Page/4월_5일.md" title="wikilink">4월 5일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> <a href="../Page/SBS_인기가요.md" title="wikilink">SBS 인기가요</a> 1위 (트리플 크라운)</li>
+</ul></li>
+<li><strong>Not Shy</strong> (총 2회)
+<ul>
+<li><a href="../Page/8월_26일.md" title="wikilink">8월 26일</a> <a href="https://ko.wikipedia.org/wiki/MBC_M" title="wikilink">MBC M</a> <a href="https://ko.wikipedia.org/wiki/쇼_챔피언" title="wikilink">쇼 챔피언</a> 챔피언 송</li>
+<li><a href="../Page/8월_28일.md" title="wikilink">8월 28일</a> <a href="https://ko.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> <a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a> K-Chart 1위</li>
 </ul></li>
 </ul></td>
 </tr>

@@ -42,13 +42,16 @@
   - [정관용의 지금, 이 사람](../Page/정관용의_지금,_이_사람.md "wikilink") (평일) ([KBS목포 제1라디오](../Page/KBS목포방송국.md "wikilink"))
   - [라디오 전국일주](../Page/라디오_전국일주.md "wikilink") (평일) ([KBS목포 제1라디오](../Page/KBS목포방송국.md "wikilink"))
   - [오늘 같은 오후엔 이세준입니다](../Page/오늘_같은_오후엔.md "wikilink") ([KBS광주 제2라디오](../Page/KBS광주방송총국.md "wikilink"))
-  - [오후의 향기 김윤주입니다](../Page/오후의_향기_김윤주입니다.md "wikilink") ([광주CBS 표준FM](../Page/기독교광주방송.md "wikilink"))
+  - [이봉규의 어떤가요](https://ko.wikipedia.org/wiki/어떤가요_\(라디오_프로그램\) "wikilink") ([광주CBS 표준FM](../Page/기독교광주방송.md "wikilink"))
 
 ### FM방송
 
   - [명연주 명음반](../Page/명연주_명음반.md "wikilink") ([KBS목포 음악FM](../Page/KBS목포방송국.md "wikilink"))
-  - [두시의 데이트 지석진입니다](../Page/두시의_데이트.md "wikilink") ([목포MBC FM4U](../Page/목포문화방송.md "wikilink"))
+  - [두시의 데이트 뮤지 안영미입니다](../Page/두시의_데이트.md "wikilink") ([목포MBC FM4U](../Page/목포문화방송.md "wikilink"))
   - [두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink") ([kbc My FM](../Page/광주방송.md "wikilink"))
+  - [그대에게 평화를 장환진입니다](https://ko.wikipedia.org/wiki/그대에게_평화를 "wikilink") 2부 ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
+  - [조은형의 가요세상](../Page/가요세상.md "wikilink") ([WBS 광주원음방송](../Page/광주원음방송.md "wikilink"))
+  - 주병선 자용스님의 오후가 좋다 2부 ([BBS 광주불교방송](../Page/광주불교방송.md "wikilink"))
   - 박철의 방방곡곡 ([TBN 광주교통방송](../Page/광주교통방송.md "wikilink"))
 
 ## 같이 보기

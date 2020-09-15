@@ -37,7 +37,7 @@ RFC 2616은 다음과 같이 언급한다:\[2\]
     RewriteCond %{SERVER_PORT} 80
     RewriteRule ^(.*)$ https://example.com/$1 [R,L]
 
-다음은 [펄](../Page/펄.md "wikilink") [펄](../Page/펄.md "wikilink") [CGI.pm](https://ko.wikipedia.org/wiki/CGI.pm "wikilink")을 사용한 예이다:
+다음은 [펄](../Page/펄.md "wikilink") [펄](../Page/펄.md "wikilink") [CGI.pm](../Page/CGI.pm.md "wikilink")을 사용한 예이다:
 
 ``` perl numberLines
 print redirect("https://example.com/newpage.html");

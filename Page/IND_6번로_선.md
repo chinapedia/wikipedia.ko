@@ -411,7 +411,7 @@
   - [nycsubway.org - IND 6th Ave./63rd St. Line](http://nycsubway.org/ind/6thave/)
 
   -
-[분류:뉴욕 지하철의 철도 노선‎](https://ko.wikipedia.org/wiki/분류:뉴욕_지하철의_철도_노선‎ "wikilink") [분류:1936년 개통한 철도 노선](https://ko.wikipedia.org/wiki/분류:1936년_개통한_철도_노선 "wikilink")
+[분류:뉴욕 지하철의 철도 노선](https://ko.wikipedia.org/wiki/분류:뉴욕_지하철의_철도_노선 "wikilink") [분류:1936년 개통한 철도 노선](https://ko.wikipedia.org/wiki/분류:1936년_개통한_철도_노선 "wikilink")
 
 1.
 2.

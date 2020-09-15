@@ -16,7 +16,7 @@
       - [슈가](https://ko.wikipedia.org/wiki/슈가_\(래퍼\) "wikilink")
       - [진](../Page/진_\(가수\).md "wikilink")
       - [제이홉](../Page/제이홉.md "wikilink")
-      - [지민](../Page/지민_\(남자_가수\).md "wikilink")
+      - [지민](https://ko.wikipedia.org/wiki/지민_\(가수\) "wikilink")
       - [뷔](../Page/뷔.md "wikilink")
       - [정국](../Page/정국.md "wikilink")
 

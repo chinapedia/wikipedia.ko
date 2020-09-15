@@ -72,7 +72,6 @@
 
 ## 앵커
 
-  - [여의주](https://ko.wikipedia.org/wiki/여의주 "wikilink") (여) - 프리랜서 아나운서
   - [유채림](https://ko.wikipedia.org/wiki/유채림 "wikilink") (여) - 프리랜서 아나운서
   - [송서미](https://ko.wikipedia.org/wiki/송서미 "wikilink") (여) - 프리랜서 아나운서
 

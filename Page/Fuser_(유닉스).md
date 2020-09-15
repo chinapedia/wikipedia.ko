@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fuser \(유닉스\)](https://ko.wikipedia.org/wiki/Fuser_\(유닉스\)).
 
 
-[유닉스](../Page/유닉스.md "wikilink") [명령어](https://ko.wikipedia.org/wiki/명령어_\(컴퓨팅\) "wikilink") **fuser**는 어느 [프로세스](../Page/프로세스.md "wikilink")가 특정 [컴퓨터 파일](../Page/컴퓨터_파일.md "wikilink"), [파일 시스템](../Page/파일_시스템.md "wikilink"), [유닉스 도메인 소켓을](https://ko.wikipedia.org/wiki/유닉스_도메인_소켓 "wikilink") 사용하는지를 표시하기 위해 사용된다.
+[유닉스](../Page/유닉스.md "wikilink") [명령어](../Page/명령어_\(컴퓨팅\).md "wikilink") **fuser**는 어느 [프로세스](../Page/프로세스.md "wikilink")가 특정 [컴퓨터 파일](../Page/컴퓨터_파일.md "wikilink"), [파일 시스템](../Page/파일_시스템.md "wikilink"), [유닉스 도메인 소켓을](https://ko.wikipedia.org/wiki/유닉스_도메인_소켓 "wikilink") 사용하는지를 표시하기 위해 사용된다.
 
 ## 예제
 

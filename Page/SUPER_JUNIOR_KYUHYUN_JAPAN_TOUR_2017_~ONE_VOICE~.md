@@ -74,6 +74,11 @@
 | 2017년 3월 14일 | [MAMACITA -AYAYA-](../Page/MAMACITA_-AYAYA-.md "wikilink") → [Sorry, Sorry](../Page/Sorry,_Sorry.md "wikilink") → Magic → [Mr. Simple](../Page/Mr._Simple_\(노래\).md "wikilink") → [Opera](../Page/Opera_\(슈퍼주니어의_노래\).md "wikilink") |                                                                                                             |
 |              |                                                                                                                                                                                                                                      |                                                                                                             |
 
+## 제작
+
+  - 기획 · 제작 : [에이벡스 엔터테인먼트](../Page/에이벡스_엔터테인먼트.md "wikilink"), [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 재팬
+  - 총감독 : 오오쿠보 마사오
+
 ## 각주
 
 [분류:규현의 콘서트 투어](https://ko.wikipedia.org/wiki/분류:규현의_콘서트_투어 "wikilink") [분류:2017년 콘서트 투어](https://ko.wikipedia.org/wiki/분류:2017년_콘서트_투어 "wikilink")

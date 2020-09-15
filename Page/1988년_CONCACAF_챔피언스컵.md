@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1988년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1988년_CONCACAF_챔피언스컵).
 
 
-**1988년 CONCACAF 챔피언스컵**(1988 CONCACAF Champions' Cup)은 [1988년](../Page/1988년.md "wikilink") [3월 11일부터](../Page/3월_11일.md "wikilink") [12월 21일까지](../Page/12월_21일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 24번째 대회이다. [온두라스](../Page/온두라스.md "wikilink")의 [올림피아가](https://ko.wikipedia.org/wiki/CD_올림피아 "wikilink") 결승전에서 [트리니다드 토바고의](../Page/트리니다드_토바고.md "wikilink") [디펜스 포스를](https://ko.wikipedia.org/wiki/디펜스_포스_FC "wikilink") 누르고 우승을 차지했다.
+**1988년 CONCACAF 챔피언스컵**(1988 CONCACAF Champions' Cup)은 [1988년](../Page/1988년.md "wikilink") [3월 11일부터](../Page/3월_11일.md "wikilink") [12월 21일까지](../Page/12월_21일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 24번째 대회이다. [온두라스](../Page/온두라스.md "wikilink")의 [올림피아가](https://ko.wikipedia.org/wiki/CD_올림피아 "wikilink") 결승전에서 [트리니다드 토바고의](../Page/트리니다드_토바고.md "wikilink") [디펜스 포스를](https://ko.wikipedia.org/wiki/디펜스_포스_FC "wikilink") 누르고 우승을 차지했다.
 
 ## 북아메리카-중앙아메리카 지역 예선
 

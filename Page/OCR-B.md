@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OCR-B](https://ko.wikipedia.org/wiki/OCR-B).
 
 
-**OCR-B**는 1968년 [아드리안 프루티거](https://ko.wikipedia.org/wiki/아드리안_프루티거 "wikilink")(Adrian Frutiger)가 [고정폭 글꼴](../Page/고정폭_글꼴.md "wikilink")(Monotype)을 위해 유럽 ​​컴퓨터 제조업체 협회([Ecma 인터내셔널](../Page/Ecma_인터내셔널.md "wikilink")) 표준에 따라 개발한 모노스페이스 글꼴([고정폭 글꼴](../Page/고정폭_글꼴.md "wikilink"))이다.
+**OCR-B**는 1968년 [아드리안 프루티거](https://ko.wikipedia.org/wiki/아드리안_프루티거 "wikilink")(Adrian Frutiger)가 [고정폭 글꼴](../Page/고정폭_글꼴.md "wikilink")(Monotype)을 위해 유럽 컴퓨터 제조업체 협회([Ecma 인터내셔널](../Page/Ecma_인터내셔널.md "wikilink")) 표준에 따라 개발한 모노스페이스 글꼴([고정폭 글꼴](../Page/고정폭_글꼴.md "wikilink"))이다.
 
 이것의 기능은 원래 금융 및 은행업무 용도로 특정 전자장치에 의한 광학문자인식([OCR](https://ko.wikipedia.org/wiki/OCR "wikilink")) 작업을 용이하게 하는 것이 목적이었다. 1973년에 개선된 [ISO](https://ko.wikipedia.org/wiki/ISO "wikilink") 1073 / II-1976 (E) 표준("Letterpress" 디자인, size 1)을 따른다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1999년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1999년_CONCACAF_챔피언스컵).
 
 
-**1999년 CONCACAF 챔피언스컵**(1999 CONCACAF Champions' Cup)은 [1999년](../Page/1999년.md "wikilink") [9월 28일부터](../Page/9월_28일.md "wikilink") [10월 3일까지](../Page/10월_3일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 35번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [네칵사가](../Page/클루브_네칵사.md "wikilink") 결승전에서 [코스타리카](../Page/코스타리카.md "wikilink")의 [알라후엘렌세를](../Page/LD_알라후엘렌세.md "wikilink") 누르고 우승을 차지했다.
+**1999년 CONCACAF 챔피언스컵**(1999 CONCACAF Champions' Cup)은 [1999년](../Page/1999년.md "wikilink") [9월 28일부터](../Page/9월_28일.md "wikilink") [10월 3일까지](../Page/10월_3일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 35번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [네칵사가](../Page/클루브_네칵사.md "wikilink") 결승전에서 [코스타리카](../Page/코스타리카.md "wikilink")의 [알라후엘렌세를](../Page/LD_알라후엘렌세.md "wikilink") 누르고 우승을 차지했다.
 
 ## 예선 플레이오프
 

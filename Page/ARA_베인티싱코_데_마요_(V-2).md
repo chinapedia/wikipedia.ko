@@ -38,9 +38,13 @@
 
 ## 외부 링크
 
+  -
   - [Historical Pictorial](http://www.histarmar.com.ar/Portaaviones/25deMayo.htm)
+
   - [Google Video](http://video.google.com/videoplay?docid=-8868080698453380235&q=armada+argentina) of [Super Etendards](https://ko.wikipedia.org/wiki/Super_Etendard "wikilink") practicing touch & go on ARA *25 de Mayo*
+
   - [Google Video](http://video.google.com/videoplay?docid=7722450037880206441&q=armada+argentina) of [A-4 Skyhawks](https://ko.wikipedia.org/wiki/A-4_Skyhawk "wikilink") on ARA *25 de Mayo*
+
   - [Naval-History.net HMS Venerable](http://www.naval-history.net/xGM-Chrono-04CV-Venerable.htm)
 
 [분류:항공모함](https://ko.wikipedia.org/wiki/분류:항공모함 "wikilink") [분류:1943년 진수된 선박](https://ko.wikipedia.org/wiki/분류:1943년_진수된_선박 "wikilink")

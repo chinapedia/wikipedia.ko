@@ -23,4 +23,4 @@ TWAIN [어플리케이션](https://ko.wikipedia.org/wiki/어플리케이션 "wik
 1.
 2.  <https://github.com/twain/twain-samples>
 3.  <https://github.com/twain>
-4.  [dynamsoft.com-Download virtual scanner for testing](https://developer.dynamsoft.com/dwt/kb/2659)
+4.

@@ -1,6 +1,8 @@
 > This article is converted from Wikipedia: [틀:4TeamBracket-FL](https://ko.wikipedia.org/wiki/틀:4TeamBracket-FL).
 
 
+[분류:토너먼트](https://ko.wikipedia.org/wiki/분류:토너먼트 "wikilink")
+
 <table>
 <tbody>
 <tr class="odd">

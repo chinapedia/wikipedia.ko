@@ -1,9 +1,11 @@
 > This article is converted from Wikipedia: [모듈:Gallery](https://ko.wikipedia.org/wiki/모듈:Gallery).
 
 
+\-- This module implements
+
 local p = {}
 
-local templatestyles = 'Template:Gallery/styles.css'
+local templatestyles = 'Template:Gallery/styles.css' local yesno = require('Module:Yesno')
 
 local function trim(s)
 
@@ -16,7 +18,7 @@ local tracking, preview
 local function checkarg(k,v)
 
 `   if k and type(k) == 'string' then`
-`       if k == 'align' or k == 'state' or k == 'style' or k == 'title' or`
+`       if k == 'align' or k == 'state' or k == 'style' or k == 'caption' or k == 'title' or`
 `           k == 'width' or k == 'height' or k == 'lines' or k == 'whitebg' or`
 `           k == 'mode' or k == 'footer' or k == 'perrow' or k == 'noborder' or`
 `           k:match('^alt%d+$') or k:match('^%d+$') then`
@@ -79,21 +81,21 @@ function p.gallery(frame)
 `       tbl:addClass('mod-gallery-' .. args.align:lower())`
 `   end`
 `   `
-`   if args.title then`
+`   if args.title or args.caption then`
 `       tbl:tag('div')`
 `           :addClass('title')`
 `               :tag('div')`
-`                   :wikitext(args.title)`
+`                   :wikitext(args.title or args.caption)`
 `   end`
 `   `
 `   local gargs = {}`
 `   gargs['class'] = 'nochecker' .. (args.noborder and '' or ' bordered-images')`
 `   gargs['widths'] = tonumber(args.width) or 180`
 `   gargs['heights'] = tonumber(args.height) or 180`
-`   gargs['style'] = 'line-height:130%;' .. (args['captionstyle'] or '')`
+`   gargs['style'] = 'line-height:1.35em'`
 `   gargs['perrow'] = args.perrow`
 `   gargs['mode'] = args.mode`
-`   if args.whitebg then`
+`   if yesno(args.whitebg or 'yes') then`
 `       gargs['class'] = gargs['class'] .. ' whitebg'`
 `   end`
 `   `

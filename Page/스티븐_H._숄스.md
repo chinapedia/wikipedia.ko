@@ -17,7 +17,7 @@
 
 ## 외부 링크
 
-  - <http://www.countryworks.com/artist_full.asp?KEY=SHOLES>
+  - <https://web.archive.org/web/20110717071407/http://www.countryworks.com/artist_full.asp?KEY=SHOLES>
   - <https://web.archive.org/web/20050208091417/http://www.countrymusichalloffame.com/inductees/steve_sholes.html>
 
 [분류:1911년 태어남](https://ko.wikipedia.org/wiki/분류:1911년_태어남 "wikilink") [분류:1968년 죽음](https://ko.wikipedia.org/wiki/분류:1968년_죽음 "wikilink") [분류:미국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:미국의_음악_프로듀서 "wikilink") [분류:컨트리 음악 명예의 전당 헌액자](https://ko.wikipedia.org/wiki/분류:컨트리_음악_명예의_전당_헌액자 "wikilink") [분류:머천트빌 출신](https://ko.wikipedia.org/wiki/분류:머천트빌_출신 "wikilink") [분류:럿거스 대학교 동문](https://ko.wikipedia.org/wiki/분류:럿거스_대학교_동문 "wikilink")

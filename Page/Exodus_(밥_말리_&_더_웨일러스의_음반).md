@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Exodus \(밥 말리 \& 더 웨일러스의 음반\)](https://ko.wikipedia.org/wiki/Exodus_\(밥_말리_\&_더_웨일러스의_음반\)).
 
 
-《**Exodus**》는 [자메이카](../Page/자메이카.md "wikilink")의 [레게](../Page/레게.md "wikilink") 밴드 [밥 말리 & 더 웨일러스의](../Page/밥_말리_&_더_웨일러스.md "wikilink") 아홉 번째 스튜디오 음반으로 1977년 6월 《[Rastaman Vibration](https://ko.wikipedia.org/wiki/Rastaman_Vibration "wikilink")》 (1976년)에 이어 [아일랜드 레코드를](../Page/아일랜드_레코드.md "wikilink") 통해 처음 발매되었다.
+《**Exodus**》는 [자메이카](../Page/자메이카.md "wikilink")의 [레게](../Page/레게.md "wikilink") 밴드 [밥 말리 & 더 웨일러스의](../Page/밥_말리_&_더_웨일러스.md "wikilink") 아홉 번째 스튜디오 음반으로 1977년 6월 《[Rastaman Vibration](../Page/Rastaman_Vibration.md "wikilink")》 (1976년)에 이어 [아일랜드 레코드를](../Page/아일랜드_레코드.md "wikilink") 통해 처음 발매되었다.
 
 1976년 12월 3일, [밥 말리의](../Page/밥_말리.md "wikilink") 목숨에 대한 암살 시도가 이루어졌는데, 그의 가슴은 갈기갈기 찢기고 팔은 총알로 맞았으나 그는 살아남았다.\[1\] 암살 시도에 따라 말리는 [자메이카](../Page/자메이카.md "wikilink")를 떠나 [런던](../Page/런던.md "wikilink")으로 추방되었고, 그곳에서 《Exodus》가 녹음되었다.
 

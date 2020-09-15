@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Happiness Is a Warm Gun](https://ko.wikipedia.org/wiki/Happiness_Is_a_Warm_Gun).
 
 
-〈**Happiness Is a Warm Gun**〉은 1968년 11월 22일에 발매된 더블 음반 《[The Beatles](../Page/The_Beatles_\(음반\).md "wikilink")》에 수록된 [비틀즈](../Page/비틀즈.md "wikilink")의 노래이다. 비록 [레논-매카트니](../Page/레논-매카트니.md "wikilink")에게 인정 받았지만, 이 노래는 [존 레논이](../Page/존_레논.md "wikilink") 작곡했다.
+〈**Happiness Is a Warm Gun**〉은 1968년 11월 22일에 발매된 더블 음반 《[The Beatles](../Page/The_Beatles_\(음반\).md "wikilink")》에 수록된 [비틀즈](../Page/비틀즈.md "wikilink")의 노래이다. 비록 [레논-매카트니](../Page/레논-매카트니.md "wikilink")에게 인정 받았지만, 이 노래는 [존 레논이](../Page/존_레논.md "wikilink") 작곡했다. 이 곡은 레논이 "더러운 노인", "마약 중독자", "총잡이(50년대 R\&R의 성가)"로 지칭하는 세 개의 뚜렷한 부분으로 구성되었다. 그는 [NRA](https://ko.wikipedia.org/wiki/전미_총기_협회 "wikilink") 잡지에서 제목을 따왔으며, 가사가 총에 대한 이중 엔트리와 [오노 요코에](../Page/오노_요코.md "wikilink") 대한 성욕이라고 설명했다.
 
 ## 작곡 및 영감
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Christmas Wonderland](https://ko.wikipedia.org/wiki/Christmas_Wonderland).
 
 
-[SM TOWN의](../Page/SM_TOWN.md "wikilink") 가수별 합동 릴레이 박람회 콘서트 〈[SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink")〉의 일환으로 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")와 [EXO](../Page/EXO.md "wikilink")의 합동 콘서트 테마이며 그리고 전속계약 해지 소송을 앞둔 엑소 중국인 멤버 [크리스과](https://ko.wikipedia.org/wiki/크리스_\(가수\) "wikilink") 에프엑스 [설리](https://ko.wikipedia.org/wiki/설리 "wikilink")의 탈퇴 전의 마지막 무대이다.\[1\]
+[SM TOWN의](../Page/SM_TOWN.md "wikilink") 가수별 합동 릴레이 박람회 콘서트 〈[SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink")〉의 일환으로 [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")와 [EXO](../Page/EXO.md "wikilink")의 합동 콘서트 테마이며 그리고 전속계약 해지 소송을 앞둔 엑소 중국인 멤버 [크리스과](https://ko.wikipedia.org/wiki/크리스_\(가수\) "wikilink") 에프엑스 [설리의](../Page/설리_\(1994년\).md "wikilink") 탈퇴 전의 마지막 무대이다.\[1\]
 
 ## 일정
 
@@ -37,7 +37,7 @@
 
 ## 제작
 
-  - [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink") ([빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink"), [루나](../Page/루나_\(가수\).md "wikilink"), [설리](https://ko.wikipedia.org/wiki/설리 "wikilink"), [크리스탈](../Page/크리스탈_\(가수\).md "wikilink"))
+  - [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink") ([빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink"), [루나](../Page/루나_\(가수\).md "wikilink"), [설리](../Page/설리_\(1994년\).md "wikilink"), [크리스탈](../Page/크리스탈_\(가수\).md "wikilink"))
   - [EXO](../Page/EXO.md "wikilink") ([시우민](../Page/시우민.md "wikilink"), [루한](../Page/루한.md "wikilink"), [크리스](https://ko.wikipedia.org/wiki/크리스_\(1990년\) "wikilink"), [수호](https://ko.wikipedia.org/wiki/수호_\(1991년\) "wikilink"), [레이](https://ko.wikipedia.org/wiki/레이_\(1991년\) "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(1992년\) "wikilink"), [첸](https://ko.wikipedia.org/wiki/첸 "wikilink"), [찬열](../Page/찬열.md "wikilink"), [디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink"), [타오](https://ko.wikipedia.org/wiki/타오_\(1993년\) "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink"), [세훈](../Page/세훈.md "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커

@@ -105,13 +105,13 @@
 
 ### 스케칭 영상
 
-|                               멤버                                |                                                 영상                                                  |
-| :-------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-|  **[태현](https://ko.wikipedia.org/wiki/태현_\(가수\) "wikilink")**   |   [TXT (투모로우바이투게더) 'Sketching Film' - 태현 (TAEHYUN)](https://www.youtube.com/watch?v=kf_jJLU68fQ)    |
-| **[수빈](https://ko.wikipedia.org/wiki/수빈_\(2000년\) "wikilink")** |    [TXT (투모로우바이투게더) 'Sketching Film' - 수빈 (SOOBIN)](https://www.youtube.com/watch?v=eK9C6AZGKt0)    |
-|      **[범규](https://ko.wikipedia.org/wiki/범규 "wikilink")**      |   [TXT (투모로우바이투게더) 'Sketching Film' - 범규 (BEOMGYU)](https://www.youtube.com/watch?v=KcVPPRmb7eA)    |
-|  **[연준](https://ko.wikipedia.org/wiki/연준_\(가수\) "wikilink")**   |   [TXT (투모로우바이투게더) 'Sketching Film' - 연준 (YEONJUN)](https://www.youtube.com/watch?v=vCFma-tDVaQ)    |
-|    **[휴닝카이](https://ko.wikipedia.org/wiki/휴닝카이 "wikilink")**    | [TXT (투모로우바이투게더) 'Sketching Film' - 휴닝카이 (HUENINGKAI)](https://www.youtube.com/watch?v=BPCaNrgWUss) |
+|                              멤버                              |                                                 영상                                                  |
+| :----------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| **[태현](https://ko.wikipedia.org/wiki/태현_\(가수\) "wikilink")** |   [TXT (투모로우바이투게더) 'Sketching Film' - 태현 (TAEHYUN)](https://www.youtube.com/watch?v=kf_jJLU68fQ)    |
+|         **[수빈](../Page/수빈_\(2000년\).md "wikilink")**         |    [TXT (투모로우바이투게더) 'Sketching Film' - 수빈 (SOOBIN)](https://www.youtube.com/watch?v=eK9C6AZGKt0)    |
+|    **[범규](https://ko.wikipedia.org/wiki/범규 "wikilink")**     |   [TXT (투모로우바이투게더) 'Sketching Film' - 범규 (BEOMGYU)](https://www.youtube.com/watch?v=KcVPPRmb7eA)    |
+| **[연준](https://ko.wikipedia.org/wiki/연준_\(가수\) "wikilink")** |   [TXT (투모로우바이투게더) 'Sketching Film' - 연준 (YEONJUN)](https://www.youtube.com/watch?v=vCFma-tDVaQ)    |
+|  **[휴닝카이](https://ko.wikipedia.org/wiki/휴닝카이 "wikilink")**   | [TXT (투모로우바이투게더) 'Sketching Film' - 휴닝카이 (HUENINGKAI)](https://www.youtube.com/watch?v=BPCaNrgWUss) |
 
 ### 티저 영상
 

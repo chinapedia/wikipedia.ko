@@ -110,6 +110,4 @@
 </tbody>
 </table>
 
-## 외부 링크
-
 [분류:스트레이 키즈의 콘서트 투어](https://ko.wikipedia.org/wiki/분류:스트레이_키즈의_콘서트_투어 "wikilink")

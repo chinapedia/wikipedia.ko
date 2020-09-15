@@ -9,7 +9,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IE_expansion.png "wikilink")
 
-  - R1a (M420)
+  - R1a (L146, M420, PF6229)
       - R1a\*
       - R1a1 (M459/PF6235, SRY1532.2/SRY10831.2)
           - R1a1\*
@@ -18,7 +18,7 @@
               - R1a1a1 (M417, page7)
                   - R1a1a1\*
                   - R1a1a1a (CTS7083/L664/S298)
-                  - R1a1a1b (S224/Z645, S441/Z647) - [매듭무늬토기 문화](https://ko.wikipedia.org/wiki/매듭무늬토기_문화 "wikilink")
+                  - R1a1a1b (PF6162/S224/Z645, S441/Z647) - [매듭무늬토기 문화](https://ko.wikipedia.org/wiki/매듭무늬토기_문화 "wikilink")
                       - R1a1a1b
                       - R1a1a1b1 (PF6217/S339/Z283)
                           - R1a1a1b1\*

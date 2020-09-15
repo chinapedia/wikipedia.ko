@@ -9,6 +9,26 @@
 
 2014년 제56회 그래미상 시상식에서 올해의 음반 그래미상, 베스트 댄스/일레트로니카 음반, 베스트 엔지니어링 음반, 비클래식, 베스트 팝 듀오/그룹 퍼포먼스 부문 [그래미 어워드를](../Page/그래미_어워드.md "wikilink") 수상했다.
 
+## 상업적 성과
+
+《Random Access Memories》는 [프랑스 음반 차트](https://ko.wikipedia.org/wiki/프랑스_음반_협회 "wikilink") 1위에 첫 주 판매량 19만5013장(실제 판매량 12만7361장, 디지털 판매량 6만7652장)으로\[1\], 데뷔해 다프트 펑크가 [프랑스](../Page/프랑스.md "wikilink")에서 첫 1위 음반을 벌어들였다. 다음 주에는 4만9600장이 팔려 75%의 매출 감소로 1위를 지켰다.\[2\] 이 음반은 프랑스 차트에서 3주 연속 1위를 차지하며 29%의 판매 감소를 견지하며 3만5500장으로 떨어졌다.\[3\]
+
+《Random Access Memories》는 첫 주에 165,091장이 판매되어 [영국 음반 차트에서](https://ko.wikipedia.org/wiki/영국_음반_차트 "wikilink") 1위에 데뷔하여\[4\], 이 듀오의 첫 번째 [영국](../Page/영국.md "wikilink") 1위 음반이 되었으며\[5\], 2013년 [원 디렉션의](../Page/원_디렉션.md "wikilink") 《[Midnight Memories](https://ko.wikipedia.org/wiki/Midnight_Memories "wikilink")》 다음으로 두 번째로 빠르게 판매된 아티스트 음반이 되었다.\[6\]\[7\] 이 음반은 다음 주 영국 차트에서 52,801장이 팔리며 1위를 유지했다.\[8\] 3주째에는 2만8182장 판매로 3위로 떨어졌다.\[9\]
+
+## 곡 목록
+
+## 각주
+
 ## 외부 링크
 
 [분류:2013년 음반](https://ko.wikipedia.org/wiki/분류:2013년_음반 "wikilink") [분류:다프트 펑크의 음반](https://ko.wikipedia.org/wiki/분류:다프트_펑크의_음반 "wikilink") [분류:컬럼비아 레코드 음반](https://ko.wikipedia.org/wiki/분류:컬럼비아_레코드_음반 "wikilink") [분류:그래미상 올해의 앨범상 수상작](https://ko.wikipedia.org/wiki/분류:그래미상_올해의_앨범상_수상작 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.

@@ -19,6 +19,7 @@
   - [써밋](https://ko.wikipedia.org/wiki/써밋 "wikilink") (DJ SMMT) (정성민)
   - [빅나티](https://ko.wikipedia.org/wiki/빅나티 "wikilink") (Big Naughty) (서동현)
   - 골든
+  - Trade L (이승훈)
 
 ### 해외
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [애플 ProRes](https://ko.wikipedia.org/wiki/애플_ProRes).
 
 
-**애플 ProRes**(Apple ProRes)는 최대 8K를 지원하는 [후반 작업에](https://ko.wikipedia.org/wiki/후반_작업 "wikilink") 사용할 목적으로 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 [손실](../Page/손실_압축.md "wikilink") [비디오 압축](../Page/데이터_압축.md "wikilink") 포맷이다. [Apple Intermediate Codec의](https://ko.wikipedia.org/wiki/Apple_Intermediate_Codec "wikilink") 뒤를 이으며 2007년 [파이널 컷 스튜디오](../Page/파이널_컷_스튜디오.md "wikilink") 2와 함께 선보였다.\[1\]
+**애플 ProRes**(Apple ProRes)는 최대 8K를 지원하는 [후반 작업에](https://ko.wikipedia.org/wiki/후반_작업 "wikilink") 사용할 목적으로 [애플](../Page/애플.md "wikilink")이 개발한 [손실](../Page/손실_압축.md "wikilink") [비디오 압축](../Page/데이터_압축.md "wikilink") 포맷이다. [Apple Intermediate Codec의](https://ko.wikipedia.org/wiki/Apple_Intermediate_Codec "wikilink") 뒤를 이으며 2007년 [파이널 컷 스튜디오](../Page/파이널_컷_스튜디오.md "wikilink") 2와 함께 선보였다.\[1\]
 
 ## 개요
 

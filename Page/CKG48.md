@@ -78,7 +78,7 @@
 <td></td>
 <td><p>SHY48 1기</p></td>
 <td><p>충칭 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -132,7 +132,7 @@
 <td></td>
 <td><p>1기</p></td>
 <td><p>충칭 구상 연예 경기 유한공사</p></td>
-<td></td>
+<td><p>최연장자</p></td>
 </tr>
 <tr class="odd">
 <td></td>

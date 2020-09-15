@@ -3,7 +3,7 @@
 
 [컴퓨팅](../Page/컴퓨팅.md "wikilink")에서 **alias**는 다양한 [명령 줄 인터프리터](../Page/명령_줄_인터페이스.md "wikilink")(워드를 다른 문자열로 치환할 수 있는 [유닉스 셸](../Page/유닉스_셸.md "wikilink"), [4DOS](../Page/4DOS.md "wikilink")/[4NT](https://ko.wikipedia.org/wiki/4NT "wikilink"), [윈도우 파워셸](https://ko.wikipedia.org/wiki/윈도우_파워셸 "wikilink") 등의 [셸](../Page/셸.md "wikilink"))의 명령어이다. 시스템 명령어를 단축시키기 위해 주로 사용되며, 그 외에 주기적으로 사용되는 명령어에 기본 변수를 추가하기 위해 사용된다. [MS-DOS](../Page/MS-DOS.md "wikilink")와 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 운영 체제의 앨리어스 기능은 [도스키](https://ko.wikipedia.org/wiki/도스키 "wikilink")(DOSKey) 명령 줄 유틸리티를 통해 제공된다.
 
-alias는 셸 세션이 생존하는 동안에만 지속된다. 주로 사용되는 별칭들은 셸의 구성 파일(csh의 경우 `~/.cshrc` 또는 시스템 전역 `/etc/csh.cshrc`, 배시의 경우 `~/.bashrc` 또는 시스템 전역 `/etc/bashrc` 또는 `/etc/bash.bashrc` for bash)에서 설정할 수 있으며 일치하는 셸 세션이 시작되자마자 이용이 가능하다. alias 명령어들은 설정 파일에 직접 기록하거나 별도의 파일에서 [source시켜서](https://ko.wikipedia.org/wiki/source_\(명령어\) "wikilink") 쓸 수 있으며 이름은 보통 .alias(여러 개의 셸을 사용할 경우 .alias-bash, alias-csh 등)로 명명한다.
+alias는 셸 세션이 생존하는 동안에만 지속된다. 주로 사용되는 별칭들은 셸의 구성 파일(csh의 경우 `~/.cshrc` 또는 시스템 전역 `/etc/csh.cshrc`, 배시의 경우 `~/.bashrc` 또는 시스템 전역 `/etc/bashrc` 또는 `/etc/bash.bashrc` for bash)에서 설정할 수 있으며 일치하는 셸 세션이 시작되자마자 이용이 가능하다. alias 명령어들은 설정 파일에 직접 기록하거나 별도의 파일에서 [source시켜서](https://ko.wikipedia.org/wiki/._\(명령어\) "wikilink") 쓸 수 있으며 이름은 보통 .alias(여러 개의 셸을 사용할 경우 .alias-bash, alias-csh 등)로 명명한다.
 
 ## 별칭 만들기
 

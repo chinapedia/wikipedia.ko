@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Palette \(아이유의 음반\)](https://ko.wikipedia.org/wiki/Palette_\(아이유의_음반\)).
 
 
-《**Palette**》(팔레트)는 대한민국의 싱어송라이터 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 네 번째 정규 음반으로, 2017년 4월 21일에 발매되었다. 타이틀곡은 "팔레트 (Feat. [지드래곤](../Page/지드래곤.md "wikilink"))"와 "이름에게"로 두 곡이다. 앨범 발매 이전에 첫 번째 선싱글 "[밤편지](https://ko.wikipedia.org/wiki/밤편지_\(아이유의_노래\) "wikilink")"가 2017년 3월 24일에 발매되었고 두 번째 선싱글 "사랑이 잘 (With [오혁](../Page/오혁.md "wikilink"))"이 2017년 4월 7일에 발매되었다.
+《**Palette**》(팔레트)는 대한민국의 싱어송라이터 [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")의 네 번째 정규 음반으로, 2017년 4월 21일에 발매되었다. 타이틀곡은 "팔레트 (Feat. [G-Dragon](https://ko.wikipedia.org/wiki/G-Dragon "wikilink"))"와 "이름에게"로 두 곡이다. 앨범 발매 이전에 첫 번째 선싱글 "[밤편지](https://ko.wikipedia.org/wiki/밤편지_\(아이유의_노래\) "wikilink")"가 2017년 3월 24일에 발매되었고 두 번째 선싱글 "사랑이 잘 (With [오혁](../Page/오혁.md "wikilink"))"이 2017년 4월 7일에 발매되었다.
 
 ## 수록곡
 

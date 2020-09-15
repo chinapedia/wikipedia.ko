@@ -1,147 +1,12 @@
 > This article is converted from Wikipedia: [CH.DIA](https://ko.wikipedia.org/wiki/CH.DIA).
 
 
-**CH.DIA**(채널 다이아)는 [CJ ENM이](../Page/CJ_ENM.md "wikilink") 운영하는 대한민국의 [크리에이터](../Page/크리에이터.md "wikilink") 전문 텔레비전 채널이다. 2020년 2월 28일까지는(구) **DIA TV** (구) 다이아 TV라는 명칭을 사용하였다.
-
-## CH.DIA 소속 [유튜버](../Page/유튜버.md "wikilink")
-
-### 게임
-
-  - [보겸](../Page/김보겸.md "wikilink")
-  - 재넌
-  - 감스트
-  - 테스터훈
-  - 릴카
-  - 꽃빈
-  - 머독방송
-  - 롤큐
-  - 이설TV
-  - 유소나
-  - 푸린TV
-  - 따효니
-  - 햇살살
-  - [잠뜰](https://ko.wikipedia.org/wiki/잠뜰 "wikilink")
-  - 수현
-  - [라더](https://ko.wikipedia.org/wiki/라더 "wikilink")
-  - 각별
-  - 자몽TV
-  - 비엠TV
-  - 나랑께TV
-
-### 스타일
-
-  - 씬님
-  - 회사원A
-  - 윤쨔미
-  - 오늘의 하늘
-  - 헤이즐
-  - 로즈하
-  - 킴닥스
-  - 곽토리
-  - 퓨어디
-  - 쏭냥
-  - 샨토끼
-  - 조수잔
-  - 깡나
-  - 혜쁨
-  - 치과의사 이수진
-
-### 동물
-
-  - 수리노을
-  - 슈앤트리
-  - 시바견 곰이탱이여우
-  - 강형욱의 견종백과
-  - 꼬불하개파마
-
-### 엔터
-
-  - [어썸하은](https://ko.wikipedia.org/wiki/나하은 "wikilink")
-  - VIVA DANCE STUDIO
-  - [대도서관](https://ko.wikipedia.org/wiki/대도서관 "wikilink")
-  - [윰댕](../Page/윰댕.md "wikilink")
-  - 띠미
-  - ARTBEAT
-  - [임영웅](https://ko.wikipedia.org/wiki/임영웅_\(가수\) "wikilink")
-  - [양준일](../Page/양준일.md "wikilink")
-  - DPOP Studio
-  - 소근커플
-  - 수상한 녀석들
-  - [박막례](../Page/박막례.md "wikilink")할머니
-  - [박미선](../Page/박미선.md "wikilink")
-  - [박구윤](../Page/박구윤.md "wikilink")
-  - 제니윤
-  - 꽈뚜룹
-  - 제이제이
-  - 혜서니
-  - 쏘야쭝아
-  - 노잼봇
-  - 느낌적인 느낌
-  - 주랄라
-  - 예씨
-  - 피아노 치는 이정환
-  - 권민제
-  - [경리](../Page/경리_\(가수\).md "wikilink")
-  - 김하나&변승주
-  - [펑티모](../Page/펑티모.md "wikilink")
-  - 퇴경아 약먹자
-  - Hale In Ocean 정혜일
-  - 미트
-
-### 푸드
-
-  - [밴쯔](../Page/밴쯔.md "wikilink")
-  - 슈기님
-  - 꿀키
-  - 나도
-  - HONG SOUND
-  - 소프
-  - 애주가 TV 참 PD
-  - 입짧은 햇님
-  - 더스쿱
-  - 시니
-  - 맛상무
-  - 박병진용사
-  - Team SeikaTV
-  - 밥굽남
-
-### 키즈/패밀리
-
-  - [라임튜브](https://ko.wikipedia.org/wiki/라임튜브 "wikilink")
-  - [마이린 TV](../Page/마이린_TV.md "wikilink")
-  - [간니닌니 다이어리](https://ko.wikipedia.org/wiki/간니닌니_다이어리 "wikilink")
-  - 유라야 놀자
-  - 뚜아뚜지TV
-  - 애니한 TV AnnieHan
-  - [노래하는하람](https://ko.wikipedia.org/wiki/노래하는하람 "wikilink")
-  - 프리티에스더 Pretty Esther
-  - 에그박사
-  - 닥터프
-  - 별난박TV
-  - 아롱다롱 TV
-  - 이채윤
-  - 룰루랄라티비
-  - 헤이지니
-  - 럭키강이
-  - 서은
-  - 루루체체 TV
-  - 모야모야패밀리
-  - 김소피야
-  - 정훈, 지훈TV
-  - 에디레일
-  - 징브르
-
-### it/전자기술
-
-  - [잇섭](https://ko.wikipedia.org/wiki/잇섭 "wikilink")
-
 ## 방영 프로그램
 
   - [잠뜰](https://ko.wikipedia.org/wiki/잠뜰 "wikilink")TV
   - 소근커플
   - 달려라치킨 미니어쳐
   - [수리노을](../Page/수리노을.md "wikilink") 탐묘생활
-  -
   - [꿀키](https://ko.wikipedia.org/wiki/꿀키 "wikilink") 심플레시피
   - Nado 먹을래
   - [라임튜브](https://ko.wikipedia.org/wiki/라임튜브 "wikilink")
@@ -161,11 +26,11 @@
   - 윰꽃
   - 쿡올트립
   - VIVA DANCE STUDIO
-  - 순백설탕 재미있는 베이킹
+  - [순백설탕 재미있는 베이킹](https://ko.wikipedia.org/wiki/순백설탕_재미있는_베이킹 "wikilink")
   - 뚜아뚜지TV
   - 아리키친
   - Enjoy커플
-  - 박막례할머니
+  - [박막례](../Page/박막례.md "wikilink") 할머니
   - 킴닥스 꿀단지
   - 조매력의 코미디나잇쇼
   - 입짧은 햇님
@@ -217,7 +82,7 @@
   - 율로리아의 우리아이 밥상
   - 가지 VLOG
   - 보통엄마
-  - 이셉세들
+  - 이십세들
   - 슛뚜
   - 대한민국 1등산적 밥굽남
   - 첼다바레
@@ -225,6 +90,8 @@
   - 미선 임파서블
   - 집사인 게 자랑
   - 똥차비디오
+  - 개밍순
+  - 꽈뚜룹
 
 ## 종영 프로그램
 
@@ -381,7 +248,7 @@
   - [올레 TV](../Page/올레_TV.md "wikilink")(IPTV) 채널 72번
   - U+ TVG(IPTV) 채널 155번
   - 딜라이브(케이블) 채널 80번
-  - SK브로드밴드(케이블) 채널 76번
+  - B tv 케이블(케이블, 舊 티브로드) 채널 76번
   - HCN(케이블) 채널 118번
   - [LG헬로비전](../Page/LG헬로비전.md "wikilink")(케이블) 채널 58번
 

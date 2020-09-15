@@ -34,5 +34,5 @@ FTSE 그룹은 잘 알려진 [FTSE 100 지수](../Page/FTSE_100_지수.md "wikil
 
 [분류:1995년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1995년_설립된_기업 "wikilink")
 
-1.  [FTSE - London Stock Exchange](http://www.londonstockexchange.com/traders-and-brokers/private-investors/private-investors/stock-markets/ftse/ftse.htm)
+1.
 2.

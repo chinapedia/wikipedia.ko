@@ -45,8 +45,6 @@
 
 ## 각주
 
-<references />
-
 [분류:1984년 노래](https://ko.wikipedia.org/wiki/분류:1984년_노래 "wikilink") [분류:존 레논의 노래](https://ko.wikipedia.org/wiki/분류:존_레논의_노래 "wikilink") [분류:존 레논이 작곡한 노래](https://ko.wikipedia.org/wiki/분류:존_레논이_작곡한_노래 "wikilink")
 
 1.

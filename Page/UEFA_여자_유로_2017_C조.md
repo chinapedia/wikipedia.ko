@@ -420,7 +420,7 @@
 스베틀라나 빌리치 (<a href="https://ko.wikipedia.org/wiki/세르비아_축구_협회" title="wikilink">세르비아</a>)<br />
 루치아 아브루체세 (<a href="../Page/이탈리아_축구_연맹.md" title="wikilink">이탈리아</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/카테리나_몬줄" title="wikilink">카테리나 몬줄</a> (<a href="https://ko.wikipedia.org/wiki/우크라이나_축구_연맹" title="wikilink">우크라이나</a>)</p></td>
+<a href="../Page/카테리나_몬줄.md" title="wikilink">카테리나 몬줄</a> (<a href="https://ko.wikipedia.org/wiki/우크라이나_축구_연맹" title="wikilink">우크라이나</a>)</p></td>
 </tr>
 </tbody>
 </table>

@@ -15,17 +15,21 @@
 
 《Let It Bleed》는 원래 1969년 7월에 발매될 예정이었다. 〈Honky Tonk Women〉은 그 달에 싱글로 발매되었지만, 음반 자체는 수많은 지연을 겪었고 결국 밴드의 미국 투어가 끝난 후 1969년 12월에 발매되었다. 이 음반의 대부분은 런던의 올림픽 스튜디오에서 녹음되었고, [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")의 엘렉트라 사운드 레코더 스튜디오에서 더 많은 작업이 진행되었고, 롤링 스톤스는 투어를 준비했다.\[5\] 로스앤젤레스가 녹음한 부분에는 게스트 뮤지션인 [메리 클레이튼](https://ko.wikipedia.org/wiki/메리_클레이튼 "wikilink")(〈Gimme Shelter〉), [바이런 버라인](https://ko.wikipedia.org/wiki/바이런_버라인 "wikilink")(〈Country Honk〉)\[6\], [바비 키스와](https://ko.wikipedia.org/wiki/바비_키스 "wikilink") [리언 러셀](../Page/리언_러셀.md "wikilink")(〈Live with Me〉)의 [오버더빙](https://ko.wikipedia.org/wiki/오버더빙 "wikilink")이 포함됐다.\[7\]
 
+## 음악 스타일
+
+전년도 《Beggars Banquet》와 마찬가지로, 이 음반은 그들의 활동 전 《[Aftermath](../Page/Aftermath_\(롤링_스톤스의_음반\).md "wikilink")》 시기에 두드러졌던 그룹의 [블루스](../Page/블루스.md "wikilink") 기반의 접근으로 되돌아가는 것이다. 이 일련의 음반들 중 가장 큰 영감을 받은 것은 미국의 [루츠 음악이었고](https://ko.wikipedia.org/wiki/루츠_음악 "wikilink") 《Let It Bleed》도 예외는 아니다. [가스펠](../Page/복음성가.md "wikilink")(〈Gimme Shelter〉와 〈You Can't Always Get What You Want〉에서 알 수 있음), [행크 윌리엄스와](../Page/행크_윌리엄스.md "wikilink") [지미 로저스](https://ko.wikipedia.org/wiki/지미_로저스 "wikilink")(〈Country Honk〉)\[8\], [시카고 블루스](https://ko.wikipedia.org/wiki/시카고_블루스 "wikilink")(〈Midnight Rambler〉)\[9\], 그리고 [컨트리 블루스](../Page/컨트리_블루스.md "wikilink")(〈You Got the Silver〉, 〈[Love in Vain](https://ko.wikipedia.org/wiki/Love_in_Vain "wikilink")〉)와 [컨트리 록](https://ko.wikipedia.org/wiki/컨트리_록 "wikilink")(〈[Let It Bleed](../Page/Let_It_Bleed_\(노래\).md "wikilink")〉)에서 많이 그렸다.\[10\]
+
 ## 가사
 
-[얀 웬너는](https://ko.wikipedia.org/wiki/얀_웬너 "wikilink") 1995년 《롤링 스톤》 인터뷰에서 이 음반의 곡들을 "충격적"이라고 표현하고 있으며, 그 배경은 "추한"다고 묘사하고 있다. 이번 음반의 월드뷰에서 [베트남 전쟁이](../Page/베트남_전쟁.md "wikilink") 역할을 했는지에 대한 질문을 받았다. 재거는 "저는 그렇게 생각해요. 비록 제가 미국에서 단지 시간제로 살고 있었지만, 저는 영향을 받았습니다. 그 모든 이미지들이 텔레비전에 나왔어요. 게다가, 캠퍼스까지 유출됐죠."라고 말했다.\[8\]
+[얀 웬너는](https://ko.wikipedia.org/wiki/얀_웬너 "wikilink") 1995년 《롤링 스톤》 인터뷰에서 이 음반의 곡들을 "충격적"이라고 표현하고 있으며, 그 배경은 "추한"다고 묘사하고 있다. 이번 음반의 월드뷰에서 [베트남 전쟁이](../Page/베트남_전쟁.md "wikilink") 역할을 했는지에 대한 질문을 받았다. 재거는 "저는 그렇게 생각해요. 비록 제가 미국에서 단지 시간제로 살고 있었지만, 저는 영향을 받았습니다. 그 모든 이미지들이 텔레비전에 나왔어요. 게다가, 캠퍼스까지 유출됐죠."라고 말했다.\[11\]
 
 ## 삽화
 
-음반 커버에는 [로버트 브라운존이](https://ko.wikipedia.org/wiki/로버트_브라운존 "wikilink") 디자인한 초현실적인 조각품이 전시되어 있다. 이 이미지는 골동품 축음기의 어조가 연주하는 《Let It Bleed》 레코드와 레코드가 쌓여 있는 대신에 접시 위에 여러 개의 아이템을 지지하는 레코드 체인저 스핀들로 구성된다(롤링 스톤스 레이블이 붙은 필름통 《Let It Bleed》, 시계 다이얼, 피자, 오토바이 타이어, 그리고 밴드를 대표하는 조각상들이 위에 정교한 아이싱을 얹은 케이크). 이 공사의 케이크 부품은 당시 알려지지 않은 요리사 작가 [델리아 스미스에](https://ko.wikipedia.org/wiki/델리아_스미스 "wikilink") 의해 준비되었다.\[9\] LP 소매의 뒷면에는 같은 "레코드 무더기" 혼합물이 흐트러진 상태로 나타나 있다.\[10\] 이 삽화는 이 음반의 작업 제목인 《Automatic Changer》에서 영감을 얻었다.\[11\]
+음반 커버에는 [로버트 브라운존이](https://ko.wikipedia.org/wiki/로버트_브라운존 "wikilink") 디자인한 초현실적인 조각품이 전시되어 있다. 이 이미지는 골동품 축음기의 어조가 연주하는 《Let It Bleed》 레코드와 레코드가 쌓여 있는 대신에 접시 위에 여러 개의 아이템을 지지하는 레코드 체인저 스핀들로 구성된다(롤링 스톤스 레이블이 붙은 필름통 《Let It Bleed》, 시계 다이얼, 피자, 오토바이 타이어, 그리고 밴드를 대표하는 조각상들이 위에 정교한 아이싱을 얹은 케이크). 이 공사의 케이크 부품은 당시 알려지지 않은 요리사 작가 [델리아 스미스에](https://ko.wikipedia.org/wiki/델리아_스미스 "wikilink") 의해 준비되었다.\[12\] LP 소매의 뒷면에는 같은 "레코드 무더기" 혼합물이 흐트러진 상태로 나타나 있다.\[13\] 이 삽화는 이 음반의 작업 제목인 《Automatic Changer》에서 영감을 얻었다.\[14\]
 
-《Let It Bleed》의 음반 커버는 2010년 1월에 발행된 "클래식 음반 커버" 우표를 위해 [로열메일](https://ko.wikipedia.org/wiki/로열메일 "wikilink")이 선정한 10개 중 하나이다.\[12\]\[13\]
+《Let It Bleed》의 음반 커버는 2010년 1월에 발행된 "클래식 음반 커버" 우표를 위해 [로열메일](https://ko.wikipedia.org/wiki/로열메일 "wikilink")이 선정한 10개 중 하나이다.\[15\]\[16\]
 
-재거는 원래 판화가 [M. C. 에셔에게](https://ko.wikipedia.org/wiki/M._C._에셔 "wikilink") 음반의 커버 디자인을 요청했지만, 에셔는 거절했다.\[14\]\[15\]
+재거는 원래 판화가 [M. C. 에셔에게](https://ko.wikipedia.org/wiki/M._C._에셔 "wikilink") 음반의 커버 디자인을 요청했지만, 에셔는 거절했다.\[17\]\[18\]
 
 ## 곡 목록
 
@@ -77,8 +81,11 @@
 8.
 9.
 10.
-11. Wyman, Bill. 2002. *Rolling With the Stones*
+11.
 12.
 13.
-14.
+14. Wyman, Bill. 2002. *Rolling With the Stones*
 15.
+16.
+17.
+18.

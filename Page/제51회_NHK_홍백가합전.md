@@ -17,7 +17,7 @@
 
 ## 심사원
 
-  - [다무라 료코](../Page/다니_료코.md "wikilink") : [2000년 하계 올림픽](https://ko.wikipedia.org/wiki/2000년_하계_올림픽 "wikilink") 여자 유도 48kg 이하급 금메달리스트.
+  - [다무라 료코](../Page/다니_료코.md "wikilink") : [2000년 하계 올림픽](https://ko.wikipedia.org/wiki/2000년_하계_올림픽 "wikilink") 여자 유도 48 kg 이하급 금메달리스트.
   - [나가시마 시게오](../Page/나가시마_시게오.md "wikilink") : [요미우리 자이언츠를](../Page/요미우리_자이언츠.md "wikilink") [센트럴 리그와](../Page/센트럴_리그.md "wikilink") [2000년 일본 시리즈](../Page/2000년_일본_시리즈.md "wikilink") 우승을 이끈 감독.
   - [다카하시 나오코](../Page/다카하시_나오코.md "wikilink") : 2000년 하계 올림픽 여자 마라톤 금메달리스트.
   - [와타나베 켄](../Page/와타나베_켄.md "wikilink") : 2001년 [NHK 대하드라마](../Page/NHK_대하드라마.md "wikilink") 『[호조 도키무네](../Page/호조_도키무네_\(드라마\).md "wikilink")』에서 호조 도키요리 역.
@@ -31,9 +31,8 @@
 ## 출장가수
 
 **진한 글씨는 그 해 이긴 조를 나타냄.**
-*괄호 안의 숫자는 출장횟수를 나타냄.*</br>
-
-### 1부
+*괄호 안의 숫자는 출장횟수를 나타냄.*
+\=== 1부 ===
 
   - **홍조(紅組)** :
       - [Whiteberry](../Page/Whiteberry.md "wikilink") (1) 〈夏祭り〉
@@ -49,9 +48,6 @@
       - 하라다 유리 (2) 〈夢ひとすじ〉
       - [모닝구무스메](../Page/모닝구무스메.md "wikilink") (3) 〈[ハッピーサマーウェディング大晦日スペシャル](../Page/해피_서머_웨딩.md "wikilink")\[1\]〉
       - [사카모토 후유미](../Page/사카모토_후유미.md "wikilink") (13) 〈風鈴〉
-
-<!-- end list -->
-
   - 백조(白組) :
       - 후지이 타카시 (1) 〈ナンダカンダ〉
       - [포르노그라피티](../Page/포르노그라피티.md "wikilink") (1) 〈サウダージ〉
@@ -74,7 +70,7 @@
       - [코자이 카오리](../Page/코자이_카오리.md "wikilink") (9) 〈無言坂〉
       - [하마사키 아유미](../Page/하마사키_아유미.md "wikilink") (2) 〈SEASONS〉
       - [스즈키 아미](../Page/스즈키_아미.md "wikilink") (2) 〈THANK YOU 4 EVERY DAY EVERY BODY〉
-      - [hitomi](https://ko.wikipedia.org/wiki/hitomi "wikilink") (1) 〈LOVE 2000〉
+      - [히토미](https://ko.wikipedia.org/wiki/히토미_\(가수\) "wikilink") (1) 〈LOVE 2000〉
       - 코야나기 유키 (1) 〈あなたのキスを数えましょう ～You were mine～〉
       - [마츠다 세이코](../Page/마츠다_세이코.md "wikilink") (14) 〈あなたに逢いたくて～Missing You～〉
       - [야시로 아키](../Page/야시로_아키.md "wikilink") (22) 〈なみだ恋〉

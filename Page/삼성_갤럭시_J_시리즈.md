@@ -472,20 +472,20 @@
 12.
 13.
 14.
-15.  Dotekománie.cz|last=Dotekománie.cz|date=2017-10-14|work=Dotekománie.cz|access-date=2018-06-25|language=cs-CZ}}
+15.  Dotekománie.cz|last=Dotekománie.cz|date=2017-10-14|work=Dotekománie.cz|access-date=2018-06-25|language=cs-CZ|보존url=[https://web.archive.org/web/20180625161004/https://dotekomanie.cz/2017/10/samsung-predstavil-galaxy-j2-2017-mobil-nejnizsi-kategorie/|보존날짜=2018-06-25|url-status=dead](https://web.archive.org/web/20180625161004/https://dotekomanie.cz/2017/10/samsung-predstavil-galaxy-j2-2017-mobil-nejnizsi-kategorie/%7C보존날짜=2018-06-25%7Curl-status=dead)}}
 16.
 17.
 18.
 19.  Samsung India|website=Samsung in|language=en-IN|access-date=2017-11-24}}
 20.
-21.  Gadgets Now|website=Gadget Now|access-date=2017-11-24}}
+21.  Gadgets Now|website=Gadget Now|access-date=2017-11-24|보존url=[https://web.archive.org/web/20171201041519/https://www.gadgetsnow.com/mobiles/samsung-galaxy-j2-2017-smartphone-with-4g-volte-launched-at-rs-7390/articleshow/61068278.cms|보존날짜=2017-12-01|url-status=dead](https://web.archive.org/web/20171201041519/https://www.gadgetsnow.com/mobiles/samsung-galaxy-j2-2017-smartphone-with-4g-volte-launched-at-rs-7390/articleshow/61068278.cms%7C보존날짜=2017-12-01%7Curl-status=dead)}}
 22.
 23.
 24.
 25.
 26.
 27.
-28.  LetsGoDigital|date=2018-03-27|work=LetsGoDigital|access-date=2018-06-21|language=en-US}}
+28.  LetsGoDigital|date=2018-03-27|work=LetsGoDigital|access-date=2018-06-21|language=en-US|보존url=[https://web.archive.org/web/20180621194301/https://en.letsgodigital.org/smartphones/samsung-galaxy-j3-top/|보존날짜=2018-06-21|url-status=dead](https://web.archive.org/web/20180621194301/https://en.letsgodigital.org/smartphones/samsung-galaxy-j3-top/%7C보존날짜=2018-06-21%7Curl-status=dead)}}
 29.
 30.
 31.
@@ -508,7 +508,7 @@
 48.
 49.  Samsung India|website=Samsung in|language=en-IN|access-date=2017-11-23}}
 50.
-51.  Mobile Specifications, Reviews & Comparison - Gadgets Now|website=Gadget Now|access-date=2017-11-23}}
+51.  Mobile Specifications, Reviews & Comparison - Gadgets Now|website=Gadget Now|access-date=2017-11-23|보존url=[https://web.archive.org/web/20170922055849/http://www.gadgetsnow.com/mobile-phones/Samsung-Galaxy-J7-Pro|보존날짜=2017-09-22|url-status=dead](https://web.archive.org/web/20170922055849/http://www.gadgetsnow.com/mobile-phones/Samsung-Galaxy-J7-Pro%7C보존날짜=2017-09-22%7Curl-status=dead)}}
 52.
 53.  Hello Vinci {{\!}} 4 September 2018|last=Dhamija|first=Ankur|website=www.hellovinci.com|language=en-US|access-date=2018-09-04|보존url=[https://web.archive.org/web/20180904191838/https://www.hellovinci.com/mobile/Samsung-Galaxy-J7-Prime-16GB-storage-price-in-india?color=Gold\&ram=3%20GB|보존날짜=2018-09-04|url-status=dead](https://web.archive.org/web/20180904191838/https://www.hellovinci.com/mobile/Samsung-Galaxy-J7-Prime-16GB-storage-price-in-india?color=Gold&ram=3%20GB%7C보존날짜=2018-09-04%7Curl-status=dead)}}
 54.
@@ -519,5 +519,5 @@
 59.
 60.
 61.  Samsung India|website=Samsung in|language=en-IN|access-date=2017-11-23}}
-62.  91mobiles.com|website=91mobiles|access-date=2017-11-23}}
+62.  91mobiles.com|website=91mobiles|access-date=2017-11-23|보존url=[https://web.archive.org/web/20180111031915/https://www.91mobiles.com/samsung-galaxy-j7-max-price-in-india|보존날짜=2018-01-11|url-status=dead](https://web.archive.org/web/20180111031915/https://www.91mobiles.com/samsung-galaxy-j7-max-price-in-india%7C보존날짜=2018-01-11%7Curl-status=dead)}}
 63.

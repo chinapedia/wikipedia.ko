@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [유희왕 VRAINS](https://ko.wikipedia.org/wiki/유희왕_VRAINS).
 
 
-**유희왕 VRAINS**(유희왕 브레인즈)는 2017년 5월에 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 방영 된 『[유희왕](../Page/유희왕.md "wikilink")』의 애니메이션 시리즈 6번째이다. 지금까지의 작품과 마찬가지로 『유희왕 듀얼몬스터즈 오피셜 카드 게임』과 제휴를 하고 있다. 한국에선 2020년에 120화로 완결까지 더빙방영할 가능성이 높다.
+**유희왕 VRAINS**(유희왕 브레인즈)는 2017년 5월에 [TV 도쿄](../Page/TV_도쿄.md "wikilink") 계열에서 방영 된 『[유희왕](../Page/유희왕.md "wikilink")』의 애니메이션 시리즈 6번째이다. 지금까지의 작품과 마찬가지로 『유희왕 듀얼몬스터즈 오피셜 카드 게임』과 제휴를 하고 있다.
 
 ## 작품 구성
 

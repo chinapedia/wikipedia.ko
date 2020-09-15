@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Love-tune](https://ko.wikipedia.org/wiki/Love-tune).
 
 
-[Love-tune은](https://ko.wikipedia.org/wiki/:ja:Love-tune "wikilink") [쟈니스 사무소](../Page/자니스_사무소.md "wikilink") 소속이였던 [쟈니스 주니어](../Page/자니스_주니어.md "wikilink") 7인조 그룹. 멤버 전원 퇴소 후 지금은 같은 멤버로 결성한 7ORDER이라는 그룹으로 활동하고 있다.
+**Love-tune**은 [쟈니스 사무소](../Page/자니스_사무소.md "wikilink") 소속이였던 [쟈니스 주니어](../Page/자니스_주니어.md "wikilink") 7인조 그룹이다. 멤버 전원 퇴소 후 지금은 같은 멤버로 결성한 7ORDER이라는 그룹으로 활동하고 있다.
 
 ## Love-tune의 유래
 
@@ -75,7 +75,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/나가츠마_레오" title="wikilink">나가츠마 레오</a> <small>長妻怜央</small></p></td>
-<td><p>1998년 6월 5일 (21세)</p></td>
+<td><p>1998년 6월 5일 (22세)</p></td>
 <td><p>A형</p></td>
 <td><p><a href="../Page/이바라키현.md" title="wikilink">이바라키현</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/키보드" title="wikilink">키보드</a></p></td>
@@ -86,7 +86,7 @@
 
 ## 내력
 
-[2016년](../Page/2016년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink"), 레슨중인 야스이를 방문한 쟈니 키타가와 사장이 그룹명을 결정해 『쟈니즈 긴자 2016』의 홈페이지의 갱신에 의해, Jr.내 유닛으로 발표된다. 그 당시 멤버는 야스이 켄타로, 사나다 유마, 모리타 뮤토, 하기야 케이고인 4명이였다. 같은 해 [5월 21일](../Page/5월_21일.md "wikilink"), 『쟈니즈 긴자 2016』에서 나가츠마 레오, 모로호시 쇼키, 아베 아란의 3명을 포함한 멤버로 Love-tune으로서 공연을 실시한 것으로부터, 멤버들은 이 날을 결성일로 하고 있다. 일반적으로는 같은 해 [6월 29일](../Page/6월_29일.md "wikilink"), 연극 DREAM BOY 제작발표회에서 멤버 가입 발표를 하였으나 결성일은 5월 21일로 기념하였다.
+[2016년](../Page/2016년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink"), 레슨중인 야스이를 방문한 쟈니 키타가와 사장이 그룹명을 결정해 『[쟈니즈 긴자 2016](https://ko.wikipedia.org/wiki/쟈니스_긴자#쟈니즈_긴자_2016 "wikilink")』의 홈페이지의 갱신에 의해, Jr.내 유닛으로 발표된다. 그 당시 멤버는 야스이 켄타로, 사나다 유마, 모리타 뮤토, 하기야 케이고인 4명이였다. 같은 해 [5월 21일](../Page/5월_21일.md "wikilink"), 『쟈니즈 긴자 2016』에서 나가츠마 레오, 모로호시 쇼키, 아베 아란의 3명을 포함한 멤버로 Love-tune으로서 공연을 실시한 것으로부터, 멤버들은 이 날을 결성일로 하고 있다. 일반적으로는 같은 해 [6월 29일](../Page/6월_29일.md "wikilink"), 연극 DREAM BOY 제작발표회에서 멤버 가입 발표를 하였으나 결성일은 5월 21일로 기념하였다.
 
 [2017년](../Page/2017년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") \~ [20일](../Page/10월_20일.md "wikilink"), 첫 단독 라이브 「Love‐tune Live 2017」실시됐다.
 
@@ -94,13 +94,13 @@
 
 [2019년](../Page/2019년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink"), 『7ORDER project』의 활동이 발표되었다. 이날 개설된 공식 [유튜브](../Page/유튜브.md "wikilink") 채널에서 오후 8시부터 생방송됐다. 생방송에서는 지금까지 [TV프로그램](https://ko.wikipedia.org/wiki/TV프로그램 "wikilink") 『이케단 MAX』나 이벤트에도 모습을 보이지 않았던 야스이도 합류한 7명이 함께 출연. 8월 22일부터 첫 단독 연극 『7ORDER』 총 27회 공연개최도 결정되었다.
 
-[2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink"), 「7ORDER」명의로 첫 곡 『Sabaoflower』를 7ORDER RECORDS로부터 발매해, 주문생산품으로 [CD데뷔를](https://ko.wikipedia.org/wiki/데뷔 "wikilink") 했다. 이 곡은 사나다 유마가 작사 작곡한 셀프 프로듀스 작품이다. 또, 발매 동시에, 표제곡만 디지털 송신이 개시된다. CD에는 표제곡 외에 연극『RADICAL PARTY -7ORDER-』에서 피로한『LIFE(Dance ver.)』도 수록되었다. 멤버가 직접 실링 스탬프로 봉하는 등, 멤버 자신의 의지로 「특별한 추억의 일품」이 되도록 고안되었다.
+[2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink"), 「7ORDER」명의로 첫 곡 『Sabãoflower』를 7ORDER RECORDS로부터 발매해, 주문생산품으로 [CD데뷔를](https://ko.wikipedia.org/wiki/데뷔 "wikilink") 했다. 이 곡은 사나다 유마가 작사 작곡한 셀프 프로듀스 작품이다. 또, 발매 동시에, 표제곡만 디지털 송신이 개시된다. CD에는 표제곡 외에 연극『RADICAL PARTY -7ORDER-』에서 피로한『LIFE(Dance ver.)』도 수록되었다. 멤버가 직접 실링 스탬프로 봉하는 등, 멤버 자신의 의지로 「특별한 추억의 일품」이 되도록 고안되었다.
 
 ## 작품
 
 ### 디지털 싱글
 
-  - Sabaoflower (2020년 3월 6일)
+  - Sabãoflower (2020년 3월 6일)
   - GIRL (2020년 5월 22일)
 
 ## 오리지널 곡
@@ -120,12 +120,12 @@
 
 ### 무대
 
-  - [쟈니스 긴자](https://ko.wikipedia.org/wiki/쟈니스_긴자 "wikilink") 2016 (2016년 5월 6일・21일・22일・31일, 시어터 크리에)
+  - 쟈니스 긴자 2016 〔출연자C〕 (2016년 5월 6일・21일・22일・31일, 시어터 크리에)
   - DREAM BOYS (2016년 9월 3일 \~ 30일, 제국극장)
   - JOHNNYS' ALL STARS IsLAND (2016년 12월 3일 \~ 2017년 1월 24일, 제국극장)
-  - 쟈니스 긴자 2017 (2017년 5월 11일 \~ 17일, 시어터 크리에)
+  - [쟈니스 긴자 2017](https://ko.wikipedia.org/wiki/쟈니스_긴자#쟈니스_긴자_2017 "wikilink") 〔출연자C〕 (2017년 5월 11일 \~ 17일, 시어터 크리에)
   - JOHNNYS' YOU\&ME IsLAND (2018년 1월 1일 \~ 27일, 제국극장)
-  - 7ORDER (2019년 8월 22일 \~ 9월 2일, 텐노즈 은하극장) 〔7ORDER project〕
+  - 7ORDER (2019년 8월 22일 \~ 9월 2일, 텐노즈 은하극장 / 9월 5일 \~ 8일, AiiA 2.5 시어터 고베) 〔7ORDER project〕
 
 ### 콘서트
 

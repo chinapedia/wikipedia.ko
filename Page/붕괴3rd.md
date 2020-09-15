@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [붕괴3rd](https://ko.wikipedia.org/wiki/붕괴3rd).
 
 
-**붕괴3rd**()는 [중국에서](../Page/중화인민공화국.md "wikilink") 개발한 [모바일 게임이다](../Page/모바일_게임.md "wikilink"). 미호요가 개발하고 미호요가 퍼블리싱하는 미소녀 3D 액션 모바일 게임이다.\[1\] 이 게임은 중국에서는 2016년 10월 14일에 출시되었고, 일본에서는 2017년 2월 22일, 대만에서는 2017년 5월 18일, 대한민국에서는 2017년 10월 17일에 출시되었다.
+**붕괴3rd**()는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")의 [miHoYo](https://ko.wikipedia.org/wiki/miHoYo "wikilink")가 개발 및 배급한 [모바일 게임이다](../Page/모바일_게임.md "wikilink").\[1\] 또한 붕괴3rd는 [중화인민공화국](../Page/중화인민공화국.md "wikilink")에서는 [2016년](../Page/2016년.md "wikilink") [10월 14일에](../Page/10월_14일.md "wikilink"), [일본](../Page/일본.md "wikilink")에서는 [2017년](../Page/2017년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink"), [대만](https://ko.wikipedia.org/wiki/대만 "wikilink")에서는 [2017년](../Page/2017년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink")에서는 [2017년](../Page/2017년.md "wikilink") [10월 17일에](../Page/10월_17일.md "wikilink") 출시되었다.
 
 ## 이야기
 

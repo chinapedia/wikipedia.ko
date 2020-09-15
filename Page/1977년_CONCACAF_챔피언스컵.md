@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1977년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1977년_CONCACAF_챔피언스컵).
 
 
-**1977년 CONCACAF 챔피언스컵**(1977 CONCACAF Champions' Cup)은 [1977년](../Page/1977년.md "wikilink") [4월 17일부터](../Page/4월_17일.md "wikilink") [1978년](../Page/1978년.md "wikilink") [2월 18일까지](../Page/2월_18일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 13번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [아메리카가](../Page/클루브_아메리카.md "wikilink") 결승전에서 [수리남](../Page/수리남.md "wikilink")의 [로빈후드를](https://ko.wikipedia.org/wiki/SV_로빈후드 "wikilink") 누르고 우승을 차지했다.
+**1977년 CONCACAF 챔피언스컵**(1977 CONCACAF Champions' Cup)은 [1977년](../Page/1977년.md "wikilink") [4월 17일부터](../Page/4월_17일.md "wikilink") [1978년](../Page/1978년.md "wikilink") [2월 18일까지](../Page/2월_18일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 13번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [아메리카가](../Page/클루브_아메리카.md "wikilink") 결승전에서 [수리남](../Page/수리남.md "wikilink")의 [로빈후드를](https://ko.wikipedia.org/wiki/SV_로빈후드 "wikilink") 누르고 우승을 차지했다.
 
 ## 북아메리카 지역 예선
 

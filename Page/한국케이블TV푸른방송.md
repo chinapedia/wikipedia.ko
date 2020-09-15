@@ -168,7 +168,7 @@
 </tbody>
 </table>
 
-  - **드라마 • 영화 디지털케이블TV**
+**보도 • 드라마 • 영화 디지털케이블TV**
 
 <table>
 <thead>
@@ -189,40 +189,24 @@
 <td><p>SD</p></td>
 </tr>
 <tr class="odd">
-<td><p>26-2</p></td>
-<td><p>73번</p></td>
+<td><p>23-1</p></td>
+<td><p>23번</p></td>
 </tr>
 <tr class="even">
-<td><p>30-1</p></td>
-<td><p>34번</p></td>
+<td><p>24-1</p></td>
+<td><p>24번</p></td>
 </tr>
 <tr class="odd">
-<td><p>30-2</p></td>
-<td><p>78번</p></td>
-</tr>
-<tr class="even">
 <td><p>31-1</p></td>
 <td><p>25번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>32-1</p></td>
 <td><p>30번</p></td>
-</tr>
-<tr class="even">
-<td><p>32-2</p></td>
-<td><p>37번</p></td>
 </tr>
 <tr class="odd">
 <td><p>33-1</p></td>
 <td><p>51번</p></td>
-</tr>
-<tr class="even">
-<td><p>35-1</p></td>
-<td><p>58번</p></td>
-</tr>
-<tr class="odd">
-<td><p>39-1</p></td>
-<td><p>53번</p></td>
 </tr>
 <tr class="even">
 <td><p>40-1</p></td>
@@ -233,223 +217,25 @@
 <td><p>28번</p></td>
 </tr>
 <tr class="even">
-<td><p>42-1</p></td>
-<td><p>41번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-!43-1</p></td>
+<td><p>43-1</p></td>
 <td><p>43번</p></td>
 </tr>
-<tr class="even">
-<td><p>-!54-1</p></td>
-<td><p>33번</p></td>
-</tr>
 <tr class="odd">
-<td><p>-!56-1</p></td>
-<td><p>121번</p></td>
-</tr>
-<tr class="even">
 <td><p>66-1</p></td>
-<td><p>30번</p></td>
+<td><p>32번</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>-</p></td>
 <td><p>46번</p></td>
 </tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>59번</p></td>
-</tr>
 <tr class="odd">
 <td><p>-</p></td>
-<td><p>61번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>68번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>79번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>94번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>98번</p></td>
+<td><p>53번</p></td>
 </tr>
 </tbody>
 </table>
 
-  - **스포츠 • 레저 디지털케이블TV**
-
-<table>
-<thead>
-<tr class="header">
-<th><p>채널 번호</p></th>
-<th><p>채널명</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>디지털<br />
-알뜰형</p></td>
-<td><p>디지털<br />
-케이블</p></td>
-</tr>
-<tr class="even">
-<td><p>HD</p></td>
-<td><p>SD</p></td>
-</tr>
-<tr class="odd">
-<td><p>44-1</p></td>
-<td><p>145번</p></td>
-</tr>
-<tr class="even">
-<td><p>45-1</p></td>
-<td><p>142번</p></td>
-</tr>
-<tr class="odd">
-<td><p>45-2</p></td>
-<td><p>144번</p></td>
-</tr>
-<tr class="even">
-<td><p>46-1</p></td>
-<td><p>142번</p></td>
-</tr>
-<tr class="odd">
-<td><p>46-2</p></td>
-<td><p>149번</p></td>
-</tr>
-<tr class="even">
-<td><p>47-1</p></td>
-<td><p>143번</p></td>
-</tr>
-<tr class="odd">
-<td><p>49-1</p></td>
-<td><p>117번</p></td>
-</tr>
-<tr class="even">
-<td><p>54-2</p></td>
-<td><p>139번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>74번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>115번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>116번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>118번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>146번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>147번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>148번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>150번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-</tbody>
-</table>
-
-  - **어린이 • 생활정보 • 홈쇼핑 디지털케이블TV**
-
-<table>
-<thead>
-<tr class="header">
-<th><p>채널 번호</p></th>
-<th><p>채널명</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>디지털<br />
-알뜰형</p></td>
-<td><p>디지털<br />
-케이블</p></td>
-</tr>
-<tr class="even">
-<td><p>HD</p></td>
-<td><p>SD</p></td>
-</tr>
-<tr class="odd">
-<td><p>8-1</p></td>
-<td><p>8번</p></td>
-</tr>
-<tr class="even">
-<td><p>10-1</p></td>
-<td><p>10번</p></td>
-</tr>
-<tr class="odd">
-<td><p>12-1</p></td>
-<td><p>6번</p></td>
-</tr>
-<tr class="even">
-<td><p>21-1</p></td>
-<td><p>21번</p></td>
-</tr>
-<tr class="odd">
-<td><p>36-2</p></td>
-<td><p>50번</p></td>
-</tr>
-<tr class="even">
-<td><p>50-1</p></td>
-<td><p>176번</p></td>
-</tr>
-<tr class="odd">
-<td><p>51-1</p></td>
-<td><p>183번</p></td>
-</tr>
-<tr class="even">
-<td><p>61-1</p></td>
-<td><p>69번</p></td>
-</tr>
-<tr class="odd">
-<td><p>62-1</p></td>
-<td><p>48번</p></td>
-</tr>
-<tr class="even">
-<td><p>65-1</p></td>
-<td><p>65번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>175번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>184번</p></td>
-</tr>
-</tbody>
-</table>
-
-  - **다큐멘터리 • 종교 • 정보 디지털케이블TV**
+**뉴스/시사/경제/정보 • 스포츠/레저/채널 디지털케이블TV**
 
 <table>
 <thead>
@@ -474,234 +260,32 @@
 <td><p>80번</p></td>
 </tr>
 <tr class="even">
-<td><p>23-1</p></td>
-<td><p>23번</p></td>
-</tr>
-<tr class="odd">
-<td><p>24-1</p></td>
-<td><p>24번</p></td>
-</tr>
-<tr class="even">
-<td><p>25-1</p></td>
-<td><p>84번</p></td>
-</tr>
-<tr class="odd">
-<td><p>55-1</p></td>
-<td><p>66번</p></td>
-</tr>
-<tr class="even">
-<td><p>57-1</p></td>
-<td><p>89번</p></td>
-</tr>
-<tr class="odd">
-<td><p>74-1</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>83번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>84번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>87번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>88번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>90번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>93번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>130번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>131번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>132번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>209번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-</tbody>
-</table>
-
-  - **음악 • 오락 디지털케이블TV**
-
-<table>
-<thead>
-<tr class="header">
-<th><p>채널 번호</p></th>
-<th><p>채널명</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>디지털<br />
-알뜰형</p></td>
-<td><p>디지털<br />
-케이블</p></td>
-</tr>
-<tr class="even">
-<td><p>HD</p></td>
-<td><p>SD</p></td>
-</tr>
-<tr class="odd">
-<td><p>5-1번</p></td>
-<td><p>20번</p></td>
-</tr>
-<tr class="even">
 <td><p>26-1</p></td>
-<td><p>3번</p></td>
+<td><p>84번</p></td>
 </tr>
 <tr class="odd">
-<td><p>27-1</p></td>
-<td><p>27번</p></td>
+<td><p>45-1</p></td>
+<td><p>141번</p></td>
 </tr>
 <tr class="even">
-<td><p>28-1</p></td>
-<td><p>-</p></td>
+<td><p>46-1</p></td>
+<td><p>142번</p></td>
 </tr>
 <tr class="odd">
-<td><p>29-1</p></td>
-<td><p>26번</p></td>
+<td><p>46-2</p></td>
+<td><p>149번</p></td>
 </tr>
 <tr class="even">
-<td><p>37-1</p></td>
-<td><p>57번</p></td>
+<td><p>47-1</p></td>
+<td><p>143번</p></td>
 </tr>
 <tr class="odd">
-<td><p>37-2</p></td>
-<td><p>96번</p></td>
+<td><p>49-1</p></td>
+<td><p>117번</p></td>
 </tr>
 <tr class="even">
-<td><p>63-1</p></td>
-<td><p>111번</p></td>
-</tr>
-<tr class="odd">
-<td><p>64-1</p></td>
-<td><p>112번</p></td>
-</tr>
-<tr class="even">
-<td><p>65-2</p></td>
-<td><p>109번</p></td>
-</tr>
-<tr class="odd">
-<td><p>67-1</p></td>
-<td><p>110번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>67번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>92번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>113번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>127번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>140번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-</tbody>
-</table>
-
-  - **종합편성 • 외국어 디지털케이블TV**
-
-<table>
-<thead>
-<tr class="header">
-<th><p>채널 번호</p></th>
-<th><p>채널명</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>디지털<br />
-알뜰형</p></td>
-<td><p>디지털<br />
-케이블</p></td>
-</tr>
-<tr class="even">
-<td><p>HD</p></td>
-<td><p>SD</p></td>
-</tr>
-<tr class="odd">
-<td><p>17-1</p></td>
-<td><p>14번</p></td>
-</tr>
-<tr class="even">
-<td><p>18-1</p></td>
-<td><p>18번</p></td>
-</tr>
-<tr class="odd">
-<td><p>19-1</p></td>
-<td><p>19번</p></td>
-</tr>
-<tr class="even">
-<td><p>20-1</p></td>
-<td><p>16번</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>230번</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>-</p></td>
+<td><p>54-2</p></td>
+<td><p>139번</p></td>
 </tr>
 <tr class="odd">
 <td><p>-</p></td>
@@ -714,101 +298,6 @@
 <tr class="odd">
 <td></td>
 <td></td>
-</tr>
-</tbody>
-</table>
-
-  - **공공 • 종교 • 교육 채널 디지털케이블TV**
-
-<table>
-<thead>
-<tr class="header">
-<th><p>채널 번호</p></th>
-<th><p>채널명</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>디지털<br />
-알뜰형</p></td>
-<td><p>디지털<br />
-케이블</p></td>
-</tr>
-<tr class="even">
-<td><p>HD</p></td>
-<td><p>SD</p></td>
-</tr>
-<tr class="odd">
-<td><p>2-1</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>3-1</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>68-1</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>69-1</p></td>
-<td><p>155번</p></td>
-</tr>
-<tr class="odd">
-<td><p>70-1</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>71-1</p></td>
-<td><p>158번</p></td>
-</tr>
-<tr class="odd">
-<td><p>71-2</p></td>
-<td><p>157번</p></td>
-</tr>
-<tr class="even">
-<td><p>72-1</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>73-1</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>74-1</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>95-1</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>96-1</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>97-1</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>-</p></td>
-<td><p>-</p></td>
 </tr>
 </tbody>
 </table>

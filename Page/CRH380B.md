@@ -396,7 +396,7 @@
 
 ## 외부 링크
 
-  - [CRH380B형 관련자료](http://v.youku.com/v_show/id_XMjA4MDM0MTY4.html)
+  - [CRH380B형 관련자료](https://web.archive.org/web/20171222105307/http://v.youku.com/v_show/id_XMjA4MDM0MTY4.html)
 
 [분류:중국의 고속철도 차량](https://ko.wikipedia.org/wiki/분류:중국의_고속철도_차량 "wikilink")
 

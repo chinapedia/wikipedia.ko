@@ -5,7 +5,7 @@
 
 이 음반은 밴드 멤버들 자신이 직접 프로듀싱했고, 자주 협연하는 [알렉스 다 키드](https://ko.wikipedia.org/wiki/알렉스_다_키드 "wikilink"), [매트맨 & 로빈](https://ko.wikipedia.org/wiki/매트맨_&_로빈 "wikilink"), [존 힐](https://ko.wikipedia.org/wiki/존_힐 "wikilink"), [조엘 리틀](https://ko.wikipedia.org/wiki/조엘_리틀 "wikilink"), 팀 랜돌프, 제이슨 드주지오는 밴드의 이전 노력인 《[Evolve](../Page/Evolve_\(음반\).md "wikilink")》(2017년), 그리고 조르겐 오데가르드를 프로듀싱했다. 리더 [댄 레이놀즈는](https://ko.wikipedia.org/wiki/댄_레이놀즈 "wikilink") 《Origins》를 《Evolve》의 "동생 같은 음반"이라고 묘사했고, 그것은 그들의 음악의 사이클을 완성할 것이라고 말했다.
 
-《Origins》는 평론가들로부터 대체로 엇갈린 평가를 받았지만, 이 음반이 전작 《Evolve》보다 개선된 음반이라는 주장이 많았다. 이 음반에는 〈[Natural](https://ko.wikipedia.org/wiki/Natural_\(이매진_드래곤스의_노래\) "wikilink")〉, 〈[Zero](https://ko.wikipedia.org/wiki/Zero_\(이매진_드래곤스의_노래\) "wikilink")〉, 〈[Machine](https://ko.wikipedia.org/wiki/Machine_\(이매진_드래곤스의_노래\) "wikilink")〉, 〈[Bad Liar](https://ko.wikipedia.org/wiki/Bad_Liar_\(이매진_드래곤스의_노래\) "wikilink")〉의 4개의 싱글이 선행되었다. 2019년에 추가로 싱글 〈Birds〉가 발매되었다.
+《Origins》는 평론가들로부터 대체로 엇갈린 평가를 받았지만, 이 음반이 전작 《Evolve》보다 개선된 음반이라는 주장이 많았다. 이 음반에는 〈[Natural](../Page/Natural_\(이매진_드래곤스의_노래\).md "wikilink")〉, 〈[Zero](https://ko.wikipedia.org/wiki/Zero_\(이매진_드래곤스의_노래\) "wikilink")〉, 〈[Machine](https://ko.wikipedia.org/wiki/Machine_\(이매진_드래곤스의_노래\) "wikilink")〉, 〈[Bad Liar](../Page/Bad_Liar_\(이매진_드래곤스의_노래\).md "wikilink")〉의 4개의 싱글이 선행되었다. 2019년에 추가로 싱글 〈Birds〉가 발매되었다.
 
 ## 배경
 

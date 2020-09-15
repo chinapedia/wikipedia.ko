@@ -623,7 +623,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/아시사트_오쇼알라" title="wikilink">아시사트 오쇼알라</a> (나이지리아)[9]</p>
+<a href="../Page/아시사트_오쇼알라.md" title="wikilink">아시사트 오쇼알라</a> (나이지리아)[9]</p>
 <p><strong>부심:</strong>[10]<br />
 예카테리나 쿠로치키나 (<a href="https://ko.wikipedia.org/wiki/러시아_축구_연합" title="wikilink">러시아</a>)<br />
 페트루차 유굴레스쿠 (<a href="https://ko.wikipedia.org/wiki/루마니아_축구_연맹" title="wikilink">루마니아</a>)<br />
@@ -812,7 +812,7 @@
 카트린 라팔스키 (<a href="../Page/독일_축구_연맹.md" title="wikilink">독일</a>)<br />
 흐리술라 쿠롬필리아 (<a href="https://ko.wikipedia.org/wiki/그리스_축구_연맹" title="wikilink">그리스</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/리엠_후세인" title="wikilink">리엠 후세인</a> (<a href="https://ko.wikipedia.org/wiki/독일_축구협회" title="wikilink">독일</a>)<br />
+<a href="../Page/리엠_후세인.md" title="wikilink">리엠 후세인</a> (<a href="https://ko.wikipedia.org/wiki/독일_축구협회" title="wikilink">독일</a>)<br />
 <strong>후보 대기심:</strong><br />
 리자 라시드 (<a href="https://ko.wikipedia.org/wiki/축구협회(잉글랜드)" title="wikilink">잉글랜드</a>)<br />
 <strong>비디오 판독심:</strong><br />

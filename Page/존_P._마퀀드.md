@@ -12,7 +12,7 @@
 
   - [Extensive biography on Marquand](http://www.harvardsquarelibrary.org/biographies/john-p-marquand)
 
-  - [Photos of the first edition of *The Late George Apley*](http://www.pprize.com/BookDetail.php?bk=20)
+  - [Photos of the first edition of *The Late George Apley*](https://web.archive.org/web/20171107013152/http://www.pprize.com/BookDetail.php?bk=20)
 
   - [Yale University Library, Beinecke Rare Book and Manuscript Library, Yale Collection of American Literature, Copyright 1996-2007 by the Yale University Library. Guide to the John P. Marquand Collection, YCAL MSS 48, by T. Michael Womack, May 1990, Revised: 2010-02-10](http://drs.library.yale.edu:8083/fedora/get/beinecke:marquand/PDF)
 

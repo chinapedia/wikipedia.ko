@@ -1,0 +1,8 @@
+> This article is converted from Wikipedia: [Larks\' Tongues in Aspic](https://ko.wikipedia.org/wiki/Larks\'_Tongues_in_Aspic).
+
+
+《**Larks' Tongues in Aspic**》은 [영국](../Page/영국.md "wikilink")의 [프로그레시브 록](../Page/프로그레시브_록.md "wikilink") 밴드 [킹 크림슨의](../Page/킹_크림슨.md "wikilink") 다섯 번째 스튜디오 음반으로 1973년 3월 23일 [영국](../Page/영국.md "wikilink")의 [아일랜드 레코드와](../Page/아일랜드_레코드.md "wikilink") [미국](../Page/미국.md "wikilink")과 [캐나다](../Page/캐나다.md "wikilink")의 [애틀랜틱 레코드를](../Page/애틀랜틱_레코드.md "wikilink") 통해 발매되었다. 이 음반은 킹 크림슨의 다섯 번째 형태로 데뷔한 음반으로, 원조 멤버이자 기타리스트인 [로버트 프립과](https://ko.wikipedia.org/wiki/로버트_프립 "wikilink") 새로운 멤버인 [존 웨튼](../Page/존_웨튼.md "wikilink")(보컬, 베이스), [데이비드 크로스](https://ko.wikipedia.org/wiki/데이비드_크로스_\(음악가\) "wikilink")(바이올린, 멜로트론), [제이미 뮤어](https://ko.wikipedia.org/wiki/제이미_뮤어 "wikilink")(퍼커션), [빌 브루포드](https://ko.wikipedia.org/wiki/빌_브루포드 "wikilink")(드럼)가 참여한다. 그것은 또한 [동유럽](../Page/동유럽.md "wikilink") [클래식 음악과](../Page/클래식_음악.md "wikilink") 유럽 [자유즉흥연주](https://ko.wikipedia.org/wiki/자유즉흥연주 "wikilink")를 중심적인 영향력으로 그려서 밴드의 진화에서 핵심 음반이다.
+
+## 외부 링크
+
+[분류:1973년 음반](https://ko.wikipedia.org/wiki/분류:1973년_음반 "wikilink") [분류:킹 크림슨의 음반](https://ko.wikipedia.org/wiki/분류:킹_크림슨의_음반 "wikilink") [분류:아일랜드 레코드 음반](https://ko.wikipedia.org/wiki/분류:아일랜드_레코드_음반 "wikilink") [분류:애틀랜틱 레코드 음반](https://ko.wikipedia.org/wiki/분류:애틀랜틱_레코드_음반 "wikilink") [분류:폴리도르 레코드 음반](https://ko.wikipedia.org/wiki/분류:폴리도르_레코드_음반 "wikilink") [분류:버진 레코드 음반](https://ko.wikipedia.org/wiki/분류:버진_레코드_음반 "wikilink")

@@ -15,7 +15,7 @@
 | 1998년 11월 22일 \~ 1998년 12월 27일           | 일요일 밤 10시 20분 \~ 11시 25분     |                         |
 | 1999년 1월 3일                              | 일요일 밤 11시 25분 \~ 12시 30분     |                         |
 | 1999년 1월 10일 \~ 1999년 5월 2일              | 일요일 밤 10시 25분 \~ 11시 30분     |                         |
-| 1999년 5월 9일 \~ 1999년 12월 19일             | 일요일 밤 10시 10분 \~ 11시 15분     |                         |
+| 1999년 5월 9일 \~ 2000년 4월 30일              | 일요일 밤 10시 10분 \~ 11시 15분     |                         |
 |                                          |                              |                         |
 
 ## 작품 리스트
@@ -168,7 +168,7 @@
 <td><p>51회</p></td>
 <td><p>1월 17일</p></td>
 <td><p><a href="../Page/은비령_(드라마).md" title="wikilink">은비령</a></p></td>
-<td><p><a href="../Page/이영애.md" title="wikilink">이영애</a></p></td>
+<td><p><a href="../Page/이영애.md" title="wikilink">이영애</a>,<a href="https://ko.wikipedia.org/wiki/이창훈" title="wikilink">이창훈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/강은경" title="wikilink">강은경</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/윤석호" title="wikilink">윤석호</a></p></td>
 </tr>

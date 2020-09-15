@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1985년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1985년_CONCACAF_챔피언스컵).
 
 
-**1985년 CONCACAF 챔피언스컵**(1985 CONCACAF Champions' Cup)은 [1985년](../Page/1985년.md "wikilink") [4월 9일부터](../Page/4월_9일.md "wikilink") [1986년](../Page/1986년.md "wikilink") [1월 26일까지](../Page/1월_26일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 21번째 대회이다. [트리니다드 토바고의](../Page/트리니다드_토바고.md "wikilink") [디펜스 포스가](https://ko.wikipedia.org/wiki/디펜스_포스_FC "wikilink") 결승전에서 [온두라스](../Page/온두라스.md "wikilink")의 [올림피아를](https://ko.wikipedia.org/wiki/CD_올림피아 "wikilink") 누르고 우승을 차지했다.
+**1985년 CONCACAF 챔피언스컵**(1985 CONCACAF Champions' Cup)은 [1985년](../Page/1985년.md "wikilink") [4월 9일부터](../Page/4월_9일.md "wikilink") [1986년](../Page/1986년.md "wikilink") [1월 26일까지](../Page/1월_26일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 21번째 대회이다. [트리니다드 토바고의](../Page/트리니다드_토바고.md "wikilink") [디펜스 포스가](https://ko.wikipedia.org/wiki/디펜스_포스_FC "wikilink") 결승전에서 [온두라스](../Page/온두라스.md "wikilink")의 [올림피아를](https://ko.wikipedia.org/wiki/CD_올림피아 "wikilink") 누르고 우승을 차지했다.
 
 ## 북아메리카-중앙아메리카 지역 예선
 

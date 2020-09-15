@@ -157,7 +157,7 @@
 <th><p><a href="../Page/인터넷_정보_서비스.md" title="wikilink">IIS</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/Syncplify.me_Server!" title="wikilink">Syncplify.me Server!</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/Sysax_Multi_Server" title="wikilink">Multi Server</a></p></th>
-<th><p><a href="http://www.sftpplus.com">SFTPPlus</a></p></th>
+<th><p><a href="https://web.archive.org/web/20190806221531/https://www.sftpplus.com/">SFTPPlus</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/WS_FTP" title="wikilink">WS FTP</a></p></th>
 <th><p><a href="../Page/Xftp.md" title="wikilink">Xftp</a></p></th>
 </tr>
@@ -536,7 +536,7 @@
 <td><p><a href="../Page/인터넷_정보_서비스.md" title="wikilink">IIS</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Syncplify.me_Server!" title="wikilink">Syncplify.me Server!</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Sysax_Multi_Server" title="wikilink">Multi Server</a></p></td>
-<td><p><a href="http://www.sftpplus.com">SFTPPlus</a></p></td>
+<td><p><a href="https://web.archive.org/web/20190806221531/https://www.sftpplus.com/">SFTPPlus</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/WS_FTP" title="wikilink">WS FTP</a></p></td>
 <td><p><a href="../Page/Xftp.md" title="wikilink">Xftp</a></p></td>
 </tr>

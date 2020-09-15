@@ -1,7 +1,77 @@
 > This article is converted from Wikipedia: [2012-13년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2012-13년_CONCACAF_챔피언스리그).
 
 
-**2012-13년 CONCACAF 챔피언스리그**(2012-13 CONCACAF Champions League)는 [2012년](../Page/2012년.md "wikilink") [7월 31일부터](../Page/7월_31일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [5월 1일까지](../Page/5월_1일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 48번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [몬테레이가](../Page/CF_몬테레이.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [산토스 라구나를](https://ko.wikipedia.org/wiki/산토스_라구나 "wikilink") 누르고 우승을 차지했다.
+**2012-13년 CONCACAF 챔피언스리그**(2012-13 CONCACAF Champions League)는 [2012년](../Page/2012년.md "wikilink") [7월 31일부터](../Page/7월_31일.md "wikilink") [2013년](../Page/2013년.md "wikilink") [5월 1일까지](../Page/5월_1일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 5번째 대회이다. CONCACAF 챔피언스리그의 전신인 [CONCACAF 챔피언스컵을](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink") 포함하면 48번째 대회에 해당한다. [멕시코](../Page/멕시코.md "wikilink")의 [몬테레이가](../Page/CF_몬테레이.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [산토스 라구나를](https://ko.wikipedia.org/wiki/산토스_라구나 "wikilink") 누르고 우승을 차지했다.
+
+## 경기 일정
+
+<table>
+<thead>
+<tr class="header">
+<th><p>라운드</p></th>
+<th><p>추첨일</p></th>
+<th><p>1차전</p></th>
+<th><p>2차전</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>조별 예선</p></td>
+<td><p>1차전</p></td>
+<td><p>2012년 6월 5일<br />
+(<a href="../Page/미국.md" title="wikilink">미국</a> <a href="../Page/뉴욕.md" title="wikilink">뉴욕</a>)</p></td>
+<td><p>2012년 7월 31일 ~ 8월 2일</p></td>
+</tr>
+<tr class="even">
+<td><p>2차전</p></td>
+<td><p>2012년 8월 21일 ~ 8월 23일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3차전</p></td>
+<td><p>2012년 8월 28일 ~ 8월 30일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4차전</p></td>
+<td><p>2012년 9월 18일 ~ 9월 20일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5차전</p></td>
+<td><p>2012년 9월 25일 ~ 9월 27일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6차전</p></td>
+<td><p>2012년 10월 23일 ~ 10월 25일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>결선 토너먼트</p></td>
+<td><p>8강전</p></td>
+<td><p>2013년 3월 5일 ~ 3월 7일</p></td>
+<td><p>2013년 3월 12일 ~ 3월 14일</p></td>
+</tr>
+<tr class="even">
+<td><p>준결승전</p></td>
+<td><p>2013년 4월 2일 ~ 4월 4일</p></td>
+<td><p>2013년 4월 9일 ~ 4월 11일</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>결승전</p></td>
+<td><p>2013년 4월 24일</p></td>
+<td><p>2013년 5월 1일</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 조별 예선
 
@@ -754,4 +824,4 @@
 
   - [2012-13년 CONCACAF 챔피언스리그 (RSSSF)](http://www.rsssf.com/tablesc/cacups2013.html)
 
-[분류:CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:CONCACAF_챔피언스리그 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2012년_축구 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2013년_축구 "wikilink")
+[분류:CONCACAF 챔피언스리그 시즌](https://ko.wikipedia.org/wiki/분류:CONCACAF_챔피언스리그_시즌 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2012년_축구 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2013년_축구 "wikilink")

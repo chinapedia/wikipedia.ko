@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [제주MBC 즐거운 오후 2시](https://ko.wikipedia.org/wiki/제주MBC_즐거운_오후_2시).
 
 
-**제주MBC 즐거운 오후 2시**는 [제주MBC 표준FM](../Page/제주문화방송.md "wikilink")(AM 747㎑, 표준FM 제주시 97.9㎒, 서귀포시 97.1㎒, 제주 서부 106.5㎒)에서 [2000년](../Page/2000년.md "wikilink") [12월 13일부터](../Page/12월_13일.md "wikilink") 현재까지 평일 오후 2시 5분부터 오후 4시까지 방송되는 제주 전 지역의 라디오 프로그램이다.
+**제주MBC 즐거운 오후 2시**는 [제주MBC 표준FM](../Page/제주문화방송.md "wikilink")(AM 774㎑, 표준FM 제주시 97.9㎒, 서귀포시 97.1㎒, 제주 서부 106.5㎒)에서 [1999년](../Page/1999년.md "wikilink")부터 현재까지 평일 오후 2시 5분부터 오후 4시까지 방송되는 제주 전 지역의 라디오 프로그램이다.
 
 ## 기획의도
 
@@ -35,7 +35,7 @@
   - [정관용의 지금, 이 사람](../Page/정관용의_지금,_이_사람.md "wikilink") ([KBS제주 제1라디오](../Page/KBS제주방송총국.md "wikilink"))
   - [라디오 전국일주](../Page/라디오_전국일주.md "wikilink") ([KBS제주 제1라디오](../Page/KBS제주방송총국.md "wikilink"))
   - [오늘 같은 오후엔 이세준입니다](../Page/오늘_같은_오후엔.md "wikilink") ([KBS제주 해피FM](../Page/KBS제주방송총국.md "wikilink"))
-  - [오후의 향기 김윤주입니다](../Page/오후의_향기_김윤주입니다.md "wikilink") ([제주CBS 표준FM](../Page/기독교제주방송.md "wikilink"))
+  - [이봉규의 어떤가요](https://ko.wikipedia.org/wiki/어떤가요_\(라디오_프로그램\) "wikilink") ([제주CBS 표준FM](../Page/기독교제주방송.md "wikilink"))
 
 ### FM방송
 

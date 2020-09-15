@@ -7,4 +7,4 @@
 
 ## 외부 링크
 
-[분류:1967년 노래](https://ko.wikipedia.org/wiki/분류:1967년_노래 "wikilink") [분류:비틀즈의 노래](https://ko.wikipedia.org/wiki/분류:비틀즈의_노래 "wikilink") [분류:레논-매카트니가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:레논-매카트니가_작곡한_노래 "wikilink") [분류:폴 매카트니의 노래](https://ko.wikipedia.org/wiki/분류:폴_매카트니의_노래 "wikilink") [분류:2005년 싱글](https://ko.wikipedia.org/wiki/분류:2005년_싱글 "wikilink") [분류:비 지스의 노래](https://ko.wikipedia.org/wiki/분류:비_지스의_노래 "wikilink") [분류:팔로폰 싱글](https://ko.wikipedia.org/wiki/분류:팔로폰_싱글 "wikilink") [분류:캐피틀 레코드 싱글](https://ko.wikipedia.org/wiki/분류:캐피틀_레코드_싱글 "wikilink")
+[분류:1967년 노래](https://ko.wikipedia.org/wiki/분류:1967년_노래 "wikilink") [분류:비틀즈의 노래](https://ko.wikipedia.org/wiki/분류:비틀즈의_노래 "wikilink") [분류:레논-매카트니가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:레논-매카트니가_작곡한_노래 "wikilink") [분류:폴 매카트니의 노래](https://ko.wikipedia.org/wiki/분류:폴_매카트니의_노래 "wikilink") [분류:2005년 싱글](https://ko.wikipedia.org/wiki/분류:2005년_싱글 "wikilink") [분류:비지스의 노래](https://ko.wikipedia.org/wiki/분류:비지스의_노래 "wikilink") [분류:팔로폰 싱글](https://ko.wikipedia.org/wiki/분류:팔로폰_싱글 "wikilink") [분류:캐피틀 레코드 싱글](https://ko.wikipedia.org/wiki/분류:캐피틀_레코드_싱글 "wikilink")

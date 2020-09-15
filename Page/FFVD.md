@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FFVD](https://ko.wikipedia.org/wiki/FFVD).
 
 
-**FFVD**(Final, Fully Verified Denuclearization)는 [북한 비핵화에](https://ko.wikipedia.org/wiki/북한_비핵화 "wikilink") 대한 미국의 해결 원칙이다. **최종적이고 완전하고 검증 가능한 비핵화**라고 번역한다.
+**FFVD**(Final, Fully Verified Denuclearization)는 [북한 비핵화에](https://ko.wikipedia.org/wiki/북한_비핵화 "wikilink") 대한 미국의 해결 원칙이다. **최종적이고 완전히 검증된 비핵화**라고 번역한다.
 
 ## 역사
 
@@ -10,7 +10,7 @@
 2018년 7월, [마이크 폼페이오](../Page/마이크_폼페이오.md "wikilink") 국무장관은 북한을 방문하기에 앞서 "김정은 위원장이 FFVD를 약속했다"며, 이는 미국의 북핵 해결 원칙이라고 못 박았다. 이후 미국은 CVID와 FFVD를 혼용하다가 10월부터는 FFVD로 거의 '단일화' 해왔다.
 
   - [CVID](../Page/CVID.md "wikilink") - 완전하고 검증가능하며 돌이킬 수 없는 비핵화(Complete Verifiable Irreversible Dismantling), 2002년 10월 3일 [조지 W. 부시](../Page/조지_W._부시.md "wikilink") 행정부, [리비아 모델이다](https://ko.wikipedia.org/wiki/리비아_모델 "wikilink").
-  - FFVD - 최종적이고 완전하고 검증 가능한 비핵화(Final, Fully Verified Denuclearization), 2018년 6월 [도널드 트럼프](../Page/도널드_트럼프.md "wikilink") 행정부
+  - FFVD - 최종적이고 완전히 검증된 비핵화(Final, Fully Verified Denuclearization), 2018년 6월 [도널드 트럼프](../Page/도널드_트럼프.md "wikilink") 행정부
 
 FFVD는 CVID와 말만 달라졌을 뿐 실질적인 의미는 거의 똑같다는 것이 전문가들의 분석이다.
 

@@ -7,39 +7,19 @@
 
 《Honky Château》는 〈[Rocket Man](../Page/Rocket_Man_\(노래\).md "wikilink")〉과 〈[Honky Cat](../Page/Honky_Cat.md "wikilink")〉으로부터 전세계적으로 두 개의 싱글이 발매되었다. 세 번째 싱글 〈Hercules〉는 발매 준비가 되었지만, 이것은 결코 실현되지 못했다.\[2\]
 
-## 중요 평가 및 차트 작업
+## 접수처
+
+### 비판적 평가
 
 비판적으로, 《Honky Château》는 존의 가장 훌륭한 기록 중 하나로 여겨진다. 《롤링 스톤》의 [존 랜도는](https://ko.wikipedia.org/wiki/존_랜도 "wikilink") 원래의 LP를 "현재 발매된 음반의 병폐를 능가하는 풍부하고, 따뜻하고, 만족스러운 음반"이라고 승인했다.\[3\] 다른 비평들도 마찬가지로 긍정적이었다. 회고적 리뷰에서, [올뮤직](../Page/올뮤직.md "wikilink")의 [스티븐 토마스 얼와인는](../Page/스티븐_토마스_얼와인.md "wikilink") "그것은 지금까지 엘튼 존과 버니 토핀이 작곡한 노래들 중 가장 집중적이고 뛰어난 곡으로 연주한다"라고 썼다.\[4\]
+
+### 차트 성공
 
 《Honky Château》는 미국 [빌보드](../Page/빌보드.md "wikilink") 차트에서 1위를 차지한 엘튼 존의 음반 중 첫 번째 음반이 되었다. 캐나다에서는, 이 음반이 1972년 7월 29일 [RPM 100](https://ko.wikipedia.org/wiki/RPM_\(잡지\) "wikilink") 톱 음반 차트에서 3위로 정점에 도달했고, 같은 해 11월 4일 9위로 떨어지기 전까지 2위를 5위로 떨어뜨린 뒤 12주 연속 3위로 되돌아갔다.
 
 ## 곡 목록
 
 모든 곡들은 [엘튼 존과](../Page/엘튼_존.md "wikilink") [버니 토핀에](../Page/버니_토핀.md "wikilink") 의해 작사/작곡하였다.
-
-**Side one**
-
-1.  "[Honky Cat](../Page/Honky_Cat.md "wikilink")" – 5:13
-2.  "Mellow" – 5:32
-3.  "[I Think I'm Going to Kill Myself](https://ko.wikipedia.org/wiki/I_Think_I'm_Going_to_Kill_Myself "wikilink")" – 3:35
-4.  "Susie (Dramas)" – 3:25
-5.  "[Rocket Man (I Think It's Going to Be a Long, Long Time)](../Page/Rocket_Man_\(노래\).md "wikilink")" – 4:45
-
-**Side two**
-
-1.
-
-    <li value=6>
-
-    "Salvation" – 3:58
-
-2.  "Slave" – 4:22
-
-3.  "Amy" – 4:03
-
-4.  "[Mona Lisas and Mad Hatters](https://ko.wikipedia.org/wiki/Mona_Lisas_and_Mad_Hatters "wikilink")" – 5:00
-
-5.  "Hercules" – 5:20
 
 ## 각주
 

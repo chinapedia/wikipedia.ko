@@ -33,6 +33,8 @@
 
 #### LG Q61
 
+#### LG Q92
+
 ## 같이 보기
 
   - [LG G 시리즈](../Page/LG_G_시리즈.md "wikilink")

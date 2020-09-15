@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1995년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1995년_CONCACAF_챔피언스컵).
 
 
-**1995년 CONCACAF 챔피언스컵**(1995 CONCACAF Champions' Cup)은 [1995년](../Page/1995년.md "wikilink") [2월 19일부터](../Page/2월_19일.md "wikilink") [12월 17일까지](../Page/12월_17일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 31번째 대회이다. [코스타리카](../Page/코스타리카.md "wikilink")의 [데포르티보 사프리사가](../Page/데포르티보_사프리사.md "wikilink") 결선 라운드에서 우승을 차지했다.
+**1995년 CONCACAF 챔피언스컵**(1995 CONCACAF Champions' Cup)은 [1995년](../Page/1995년.md "wikilink") [2월 19일부터](../Page/2월_19일.md "wikilink") [12월 17일까지](../Page/12월_17일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 31번째 대회이다. [코스타리카](../Page/코스타리카.md "wikilink")의 [데포르티보 사프리사가](../Page/데포르티보_사프리사.md "wikilink") 결선 라운드에서 우승을 차지했다.
 
 ## 북아메리카-중앙아메리카 지역 예선
 

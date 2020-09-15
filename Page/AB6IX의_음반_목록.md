@@ -84,6 +84,18 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2020</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/VIVID_(AB6IX의_음반)" title="wikilink">VIVID</a></strong></p>
+<ul>
+<li>포맷 : <a href="../Page/콤팩트_디스크.md" title="wikilink">CD</a> · <a href="https://ko.wikipedia.org/wiki/디지털_다운로드" title="wikilink">디지털 다운로드</a> · <a href="../Page/스트리밍.md" title="wikilink">스트리밍</a></li>
+<li>발매일자 : 2020년 6월 29일</li>
+<li>레이블 :  <a href="https://ko.wikipedia.org/wiki/워너뮤직" title="wikilink">워너뮤직</a></li>
+</ul></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>"—" 표시는 차트에 진입하지 못함을 의미함.</p></td>
 <td></td>
 <td></td>

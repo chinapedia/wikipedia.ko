@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1974년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1974년_CONCACAF_챔피언스컵).
 
 
-**1974년 CONCACAF 챔피언스컵**(1974 CONCACAF Champions' Cup)은 [1974년](../Page/1974년.md "wikilink") [5월 5일부터](../Page/5월_5일.md "wikilink") [10월 27일까지](../Page/10월_27일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 10번째 대회이다. [과테말라](../Page/과테말라.md "wikilink")의 [무니시팔이](https://ko.wikipedia.org/wiki/CSD_무니시팔 "wikilink") 결승전에서 [수리남](../Page/수리남.md "wikilink")의 [트란스발을](../Page/SV_트란스발.md "wikilink") 누르고 우승을 차지했다.
+**1974년 CONCACAF 챔피언스컵**(1974 CONCACAF Champions' Cup)은 [1974년](../Page/1974년.md "wikilink") [5월 5일부터](../Page/5월_5일.md "wikilink") [10월 27일까지](../Page/10월_27일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 10번째 대회이다. [과테말라](../Page/과테말라.md "wikilink")의 [무니시팔이](https://ko.wikipedia.org/wiki/CSD_무니시팔 "wikilink") 결승전에서 [수리남](../Page/수리남.md "wikilink")의 [트란스발을](../Page/SV_트란스발.md "wikilink") 누르고 우승을 차지했다.
 
 ## 북아메리카 지역 예선
 

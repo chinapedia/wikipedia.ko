@@ -43,7 +43,7 @@
 ## 외부 링크
 
   -
-[분류:응용 계층 프로토콜](https://ko.wikipedia.org/wiki/분류:응용_계층_프로토콜 "wikilink") [분류:API](https://ko.wikipedia.org/wiki/분류:API "wikilink") [분류:자유 그래픽 스포트웨어](https://ko.wikipedia.org/wiki/분류:자유_그래픽_스포트웨어 "wikilink")
+[분류:응용 계층 프로토콜](https://ko.wikipedia.org/wiki/분류:응용_계층_프로토콜 "wikilink") [분류:API](https://ko.wikipedia.org/wiki/분류:API "wikilink") [분류:자유 그래픽 스포트웨어](https://ko.wikipedia.org/wiki/분류:자유_그래픽_스포트웨어 "wikilink") [분류:자유 윈도 시스템](https://ko.wikipedia.org/wiki/분류:자유_윈도_시스템 "wikilink")
 
 1.  [EGL Overview](http://www.khronos.org/egl/)
 2.  [EGL 1.2 Specification](http://www.khronos.org/registry/egl/specs/eglspec.1.2.pdf)

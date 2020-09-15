@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG K8](https://ko.wikipedia.org/wiki/LG_K8).
 
 
-**LG K8**은 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") [남미](https://ko.wikipedia.org/wiki/남미 "wikilink") 등지나 [영국](../Page/영국.md "wikilink") 등의 국가에 출시한 보급형 스마트폰이다.\[1\] [LG K](https://ko.wikipedia.org/wiki/LG_K "wikilink") 시리즈 중 [K10](../Page/LG_K10.md "wikilink") 다음으로 높은 기종이지만 [K7과](../Page/LG_K7.md "wikilink") 성능 상의 큰 차이는 없다. [미국](../Page/미국.md "wikilink") AT\&T에서는 조금 더 낮은 성능으로 **피닉스 2** 라는 이름으로 출시되기도 하였다.\[2\]
+**LG K8**은 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") [남미](https://ko.wikipedia.org/wiki/남미 "wikilink") 등지나 [영국](../Page/영국.md "wikilink") 등의 국가에 출시한 보급형 스마트폰이다.\[1\] [LG K](https://ko.wikipedia.org/wiki/LG_K "wikilink") 시리즈 중 [K10](../Page/LG_K10.md "wikilink") 다음으로는 높은 기종이지만 [K7과](../Page/LG_K7.md "wikilink") 성능 상의 큰 차이는 없다. [미국](../Page/미국.md "wikilink") AT\&T에서는 조금 더 낮은 성능으로 **피닉스 2** 라는 이름으로 출시되기도 하였다.\[2\]
 
 ## 운영 체제 / 소프트웨어
 

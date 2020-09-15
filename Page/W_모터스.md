@@ -9,4 +9,4 @@
 
   -
 
-[분류:2012년 설립](https://ko.wikipedia.org/wiki/분류:2012년_설립 "wikilink") [분류:레바논의 자동차 제조 회사](https://ko.wikipedia.org/wiki/분류:레바논의_자동차_제조_회사 "wikilink") [분류:레바논의 브랜드](https://ko.wikipedia.org/wiki/분류:레바논의_브랜드 "wikilink")
+[분류:2012년 설립](https://ko.wikipedia.org/wiki/분류:2012년_설립 "wikilink") [분류:아랍에미리트의 자동차 제조 기업](https://ko.wikipedia.org/wiki/분류:아랍에미리트의_자동차_제조_기업 "wikilink") [분류:아랍에미리트의 브랜드](https://ko.wikipedia.org/wiki/분류:아랍에미리트의_브랜드 "wikilink") [분류:레바논의 자동차 제조 기업](https://ko.wikipedia.org/wiki/분류:레바논의_자동차_제조_기업 "wikilink") [분류:레바논의 브랜드](https://ko.wikipedia.org/wiki/분류:레바논의_브랜드 "wikilink")

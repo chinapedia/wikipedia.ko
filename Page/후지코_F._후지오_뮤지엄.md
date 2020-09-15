@@ -44,13 +44,13 @@
 
 ## 외부 링크
 
-  - [가와사키 시 후지코 F. 후지오 뮤지엄 공식 사이트](http://fujiko-museum.com/)
+  - [가와사키 시 후지코 F. 후지오 뮤지엄 공식 사이트](https://web.archive.org/web/20170128185212/http://fujiko-museum.com/)
 
 <!-- end list -->
 
-  - [가와사키시 시약소　후지코 F. 후지오 뮤지엄](http://www.city.kawasaki.jp/kurashi/category/32-3-0-0-0-0-0-0-0-0.html)
+  - [가와사키시 시약소　후지코 F. 후지오 뮤지엄](https://web.archive.org/web/20160704142005/http://www.city.kawasaki.jp/kurashi/category/32-3-0-0-0-0-0-0-0-0.html)
 
-  - [쇼가쿠칸 도라에몽 채널 후지코 F. 후지오 뮤지엄](http://dora-world.com/f_museum/)
+  - [쇼가쿠칸 도라에몽 채널 후지코 F. 후지오 뮤지엄](https://web.archive.org/web/20160705000318/http://dora-world.com/f_museum/)
 
 ## 각주
 
@@ -58,6 +58,6 @@
 
 1.  [교도 통신사](../Page/교도_통신사.md "wikilink")　[１００万人突破だよドラえもん　川崎市・藤子ミュージアム　2013/08/28 19:32 【共同通信】](http://www.47news.jp/CN/201308/CN2013082801001520.html)
 2.  [미니스톱](../Page/미니스톱.md "wikilink")에 설치되어 있는 〈Ministop LOPPI〉에서는 취급하지 않는다.
-3.  [입장 티켓의 구입 방법](http://l-tike.com/fujiko-m/) - 로손 티켓
-4.  [장애인 무료티켓안내](http://kawasaki.fujiko-museum.com/info01.html) - 후지코 F. 후지오 뮤지엄
+3.  [입장 티켓의 구입 방법](http://l-tike.com/fujiko-m/)  - 로손 티켓
+4.  [장애인 무료티켓안내](http://kawasaki.fujiko-museum.com/info01.html)  - 후지코 F. 후지오 뮤지엄
 5.  [개관 시간 · 교통 안내](http://fujiko-museum.com/access/)  - 후지코 F. 후지오 뮤지엄

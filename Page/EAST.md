@@ -35,7 +35,7 @@
 
 ## 각주
 
-[분류:핵융합](https://ko.wikipedia.org/wiki/분류:핵융합 "wikilink")
+[분류:중국의 원자력](https://ko.wikipedia.org/wiki/분류:중국의_원자력 "wikilink") [분류:핵융합](https://ko.wikipedia.org/wiki/분류:핵융합 "wikilink")
 
 1.  2025년 인공태양이 뜬다…반환점 지난 국제핵융합실험로 건설, 한겨레, 2018-10-14
 2.  中, 1억℃ '인공태양' 실험 성공 …"청정 핵발전 토대", 연합뉴스, 2018-11-13

@@ -8,7 +8,7 @@
 ## 외부 링크
 
   -
-[분류:2014년 소프트웨어](https://ko.wikipedia.org/wiki/분류:2014년_소프트웨어 "wikilink") [분류:안드로이드 소프트웨어](https://ko.wikipedia.org/wiki/분류:안드로이드_소프트웨어 "wikilink") [분류:IOS 소프트웨어](https://ko.wikipedia.org/wiki/분류:IOS_소프트웨어 "wikilink") [분류:비디오 소프트웨어](https://ko.wikipedia.org/wiki/분류:비디오_소프트웨어 "wikilink") [분류:소셜 네트워크 서비스](https://ko.wikipedia.org/wiki/분류:소셜_네트워크_서비스 "wikilink") [분류:샌프란시스코의 기업](https://ko.wikipedia.org/wiki/분류:샌프란시스코의_기업 "wikilink") [분류:TikTok](https://ko.wikipedia.org/wiki/분류:TikTok "wikilink")
+[분류:2014년 소프트웨어](https://ko.wikipedia.org/wiki/분류:2014년_소프트웨어 "wikilink") [분류:안드로이드 소프트웨어](https://ko.wikipedia.org/wiki/분류:안드로이드_소프트웨어 "wikilink") [분류:IOS 소프트웨어](https://ko.wikipedia.org/wiki/분류:IOS_소프트웨어 "wikilink") [분류:비디오 소프트웨어](https://ko.wikipedia.org/wiki/분류:비디오_소프트웨어 "wikilink") [분류:소셜 네트워크 서비스](https://ko.wikipedia.org/wiki/분류:소셜_네트워크_서비스 "wikilink") [분류:샌프란시스코의 기업](https://ko.wikipedia.org/wiki/분류:샌프란시스코의_기업 "wikilink") [분류:TikTok](https://ko.wikipedia.org/wiki/분류:TikTok "wikilink") [분류:바이트댄스](https://ko.wikipedia.org/wiki/분류:바이트댄스 "wikilink")
 
 1.  Rys, Dan. [Fresh Off a Big Funding Round, Musical.ly Signs Its First Major Label Deal with Warner Music](http://www.billboard.com/articles/business/7423281/warner-music-group-deal-musical-ly). Billboard. Retrieved 29 June 2016.
 2.

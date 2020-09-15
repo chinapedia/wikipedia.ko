@@ -33,7 +33,7 @@
 <td><p>12,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/알다프라_FC" title="wikilink">알다프라</a></p></td>
+<td><p><a href="../Page/알다프라_FC.md" title="wikilink">알다프라</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/알가르비아" title="wikilink">알가르비아</a></p></td>
 <td><p>모하메드 크위드</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/알다프라_스타디움" title="wikilink">알다프라 스타디움</a></p></td>

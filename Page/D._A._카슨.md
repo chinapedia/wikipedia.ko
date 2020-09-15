@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [D. A. 카슨](https://ko.wikipedia.org/wiki/D._A._카슨).
 
 
-**D. A. 카슨** (Donald Arthur Carson, 1946년 12월 21일 \~ )은 캐나다 몬트리얼에서 출생한 개혁주의적 복음주의 신학자이며 미국 트리니티 신학교의 신약신학 교수였다. 지금은 명예교수이다.\[1\] 한국의 제자로는 [합동신학대학원대학교](https://ko.wikipedia.org/wiki/합동신학대학원대학교 "wikilink")의 김추성 교수가 있다.
+**D. A. 카슨** (Donald Arthur Carson, [1946년](../Page/1946년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") \~ )은 캐나다 몬트리얼에서 출생한 개혁주의적 복음주의 신학자이며 미국 트리니티 신학교의 신약신학 교수였다. 지금은 명예교수이다.\[1\] 한국의 제자로는 [합동신학대학원대학교](https://ko.wikipedia.org/wiki/합동신학대학원대학교 "wikilink")의 김추성 교수가 있다.
 
 ## 교육
 

@@ -9,6 +9,10 @@
 
 그의 성령론은 기적적인 은사들이 사도시대로 종결되었다고 주장하였으며. 오늘날의 방언은 심리학적으로 유발된 반응이라고 주장하였다.\[3\]
 
+## 저서
+
+  - *Five Views on Sanctification ( Stanley N. Gundry Ed, Zondervan, 1987)*
+
 ## 각주
 
 <references/>

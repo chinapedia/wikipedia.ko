@@ -1,7 +1,77 @@
 > This article is converted from Wikipedia: [2013-14년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2013-14년_CONCACAF_챔피언스리그).
 
 
-**2013-14년 CONCACAF 챔피언스리그**(2013-14 CONCACAF Champions League)는 [2013년](../Page/2013년.md "wikilink") [8월 6일부터](../Page/8월_6일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [4월 23일까지](../Page/4월_23일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 49번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술이](../Page/크루스_아술.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [데포르티보 톨루카를](../Page/데포르티보_톨루카_FC.md "wikilink") 누르고 우승을 차지했다.
+**2013-14년 CONCACAF 챔피언스리그**(2013-14 CONCACAF Champions League)는 [2013년](../Page/2013년.md "wikilink") [8월 6일부터](../Page/8월_6일.md "wikilink") [2014년](../Page/2014년.md "wikilink") [4월 23일까지](../Page/4월_23일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 6번째 대회이다. CONCACAF 챔피언스리그의 전신인 [CONCACAF 챔피언스컵을](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink") 포함하면 49번째 대회에 해당한다. [멕시코](../Page/멕시코.md "wikilink")의 [크루스 아술이](../Page/크루스_아술.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [데포르티보 톨루카를](../Page/데포르티보_톨루카_FC.md "wikilink") 누르고 우승을 차지했다.
+
+## 경기 일정
+
+<table>
+<thead>
+<tr class="header">
+<th><p>라운드</p></th>
+<th><p>추첨일</p></th>
+<th><p>1차전</p></th>
+<th><p>2차전</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>조별 예선</p></td>
+<td><p>1차전</p></td>
+<td><p>2013년 6월 3일<br />
+(<a href="../Page/미국.md" title="wikilink">미국</a> <a href="../Page/플로리다주.md" title="wikilink">플로리다주</a> 도럴)</p></td>
+<td><p>2013년 8월 6일 ~ 8월 8일</p></td>
+</tr>
+<tr class="even">
+<td><p>2차전</p></td>
+<td><p>2013년 8월 20일 ~ 8월 22일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3차전</p></td>
+<td><p>2013년 8월 27일 ~ 8월 29일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4차전</p></td>
+<td><p>2013년 9월 17일 ~ 9월 19일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5차전</p></td>
+<td><p>2013년 9월 24일 ~ 9월 26일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6차전</p></td>
+<td><p>2013년 10월 22일 ~ 10월 24일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>결선 토너먼트</p></td>
+<td><p>8강전</p></td>
+<td><p>2014년 3월 10일 ~ 3월 12일</p></td>
+<td><p>2014년 3월 18일 ~ 3월 20일</p></td>
+</tr>
+<tr class="even">
+<td><p>준결승전</p></td>
+<td><p>2014년 4월 1일 ~ 4월 3일</p></td>
+<td><p>2014년 4월 8일 ~ 4월 10일</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>결승전</p></td>
+<td><p>2014년 4월 15일 ~ 4월 17일</p></td>
+<td><p>2014년 4월 22일 ~ 4월 24일</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 조별 예선
 
@@ -754,4 +824,4 @@
 
   - [2013-14년 CONCACAF 챔피언스리그 (RSSSF)](http://www.rsssf.com/tablesc/cacups2014.html)
 
-[분류:CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:CONCACAF_챔피언스리그 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2013년_축구 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2014년_축구 "wikilink")
+[분류:CONCACAF 챔피언스리그 시즌](https://ko.wikipedia.org/wiki/분류:CONCACAF_챔피언스리그_시즌 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2013년_축구 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2014년_축구 "wikilink")

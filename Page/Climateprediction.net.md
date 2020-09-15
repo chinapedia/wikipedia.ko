@@ -24,7 +24,7 @@ CPDN 프로젝트는 [영국](../Page/영국.md "wikilink")의 [옥스퍼드 대
   - [ClimatePrediction.net Website](http://www.climateprediction.net)
   - [Berkeley Open Infrastructure for Network Computing (BOINC)](http://boinc.berkeley.edu/)
   - [BOINC Wiki](https://web.archive.org/web/20060614215220/http://boinc-wiki.ath.cx/index.php?title=Climateprediction.net)
-  - [GridRepublic](http://www.gridrepublic.org)
+  - [GridRepublic](https://web.archive.org/web/20200310041942/https://www.gridrepublic.org/)
   - [Statistics for ClimatePrediction.net](https://web.archive.org/web/20071104020929/http://www.allprojectstats.com/po.php?projekt=21)
   - [Volunteer@Home.com — All about volunteer computing](https://web.archive.org/web/20090811022632/http://www.volunteerathome.com/)
   - [Video of the screensaver.](https://www.youtube.com/watch?v=14roFGSWXb4)

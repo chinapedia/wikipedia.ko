@@ -741,7 +741,7 @@ IND 8번로 선 (): <a href="https://ko.wikipedia.org/wiki/세계_무역_센터_
 
   - [nycsubway.org — IRT West Side Line](http://www.nycsubway.org/lines/westside.html)
 
-[분류:뉴욕 지하철의 철도 노선‎](https://ko.wikipedia.org/wiki/분류:뉴욕_지하철의_철도_노선‎ "wikilink") [분류:1904년 개통한 철도 노선](https://ko.wikipedia.org/wiki/분류:1904년_개통한_철도_노선 "wikilink")
+[분류:뉴욕 지하철의 철도 노선](https://ko.wikipedia.org/wiki/분류:뉴욕_지하철의_철도_노선 "wikilink") [분류:1904년 개통한 철도 노선](https://ko.wikipedia.org/wiki/분류:1904년_개통한_철도_노선 "wikilink")
 
 1.  [MTA Capital Construction](https://ko.wikipedia.org/wiki/MTA_Capital_Construction "wikilink") - [South Ferry Terminal Project](https://ko.wikipedia.org/wiki/South_Ferry_\(IRT_Broadway–Seventh_Avenue_Line\) "wikilink"), [Environmental Assessment and Section 4(f) Evaluation](http://web.mta.info/capconstr/sft/dea.htm),  
 2.  [MTA Capital Construction](https://ko.wikipedia.org/wiki/MTA_Capital_Construction "wikilink"), [Second Avenue Subway](https://ko.wikipedia.org/wiki/Second_Avenue_Subway "wikilink"), [Supplemental Draft Environmental Impact Statement](http://web.mta.info/capconstr/sas/sdeis.htm){{ , {{ 

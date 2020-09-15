@@ -7,9 +7,11 @@
 
 ## 개요
 
-  - [2014년](../Page/2014년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") **InterFM NAGOYA**라는 이름으로 개국했으며, [FM인터웨이브](../Page/FM인터웨이브.md "wikilink")의 지국 취급을 받았다.
-      - 이 당시에는 FM인터웨이브의 프로그램을 중심으로 일부 지역 방송을 넣는 형식으로 편성했으며, 주식회사 Radio NEO로 독립한 이후에는 자체편성 비율을 높이고 있다.
+  - [2010년](../Page/2010년.md "wikilink") [9월 30일](../Page/9월_30일.md "wikilink") [아이치 국제 방송의](../Page/아이치_국제_방송.md "wikilink") 폐국 후 4년만에 개국된 [MegaNet](../Page/MegaNet.md "wikilink") 가맹국이며, [2014년](../Page/2014년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") InterFM NAGOYA라는 이름으로 개국했다.
+      - 개국 초창기에는 [FM인터웨이브](../Page/FM인터웨이브.md "wikilink")의 지국 취급을 받았으며 이 당시에는 FM인터웨이브의 프로그램을 중심으로 일부 지역 방송을 넣는 형식으로 편성했었다.
+  - [2016년](../Page/2016년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 주식회사 Radio NEO로 독립한 이후에는 자체편성 비율을 높이고 있다.
   - 콜사인 JOCW는 [신에쓰 방송](../Page/신에쓰_방송.md "wikilink") 이나 중계국에서 사용하던 콜사인이다.
+  - 경영난을 이유로 [2020년](../Page/2020년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") 정오를 기해서 폐국했다.
 
 ## 연혁
 
@@ -22,9 +24,10 @@
   - [2014년](../Page/2014년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") - 시험방송 시작.
   - [2014년](../Page/2014년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") - 아침 7시 개국. 회사 명칭을 'InterFM NAGOYA'으로 바꾸었다.
   - [2015년](../Page/2015년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") - 인터넷 라디오 radiko를 통한 인터넷 실시간 방송 서비스 개시.
-  - [2015년](../Page/2015년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - 애칭을 **Radio NEO**로 변경.
+  - [2015년](../Page/2015년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") - 이름을 Radio NEO로 변경.
   - [2016년](../Page/2016년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") - 기노시타 그룹 홀딩스 산하에 있는 회사 Radio NEO 설립.
   - [2016년](../Page/2016년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") - 주식회사 Radio NEO 가 InterFM이 가지고 있던 InterFM NAGOYA의 방송면허를 승계.
+  - [2020년](../Page/2020년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") - 이날 정오를 기해서 폐국.
 
 ## 주파수
 

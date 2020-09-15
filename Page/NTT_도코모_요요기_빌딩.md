@@ -9,7 +9,7 @@
 
 도쿄 내에 위치한 빌딩 중에서는 [도쿄 미드타운](https://ko.wikipedia.org/wiki/도쿄_미드타운 "wikilink"), [도라노몬 힐스](https://ko.wikipedia.org/wiki/도라노몬_힐스 "wikilink"), [도쿄 도청사에](https://ko.wikipedia.org/wiki/도쿄_도청사 "wikilink") 이어 네 번째로 크다. 일반 상업용 건물이 아닌 NTT 도코모의 자사 업무용 빌딩이며, 관계자 이외에는 출입이 금지되어 있다. 건물 내부에는 휴대폰용 통신장비가 설치된 기계실 및 유통 콜센터가 입주한 사무실이 있다. 다만 이곳은 [NTT 도코모의](../Page/NTT_도코모.md "wikilink") 본사는 아니며, 요요기 빌딩이 아닌 [지요다구](../Page/지요다구.md "wikilink")의 [산노 파크 타워에](https://ko.wikipedia.org/wiki/산노_파크_타워 "wikilink") 자리해 있다. 또 신주쿠 화물역 부지내에 건설된 것이기에 건물주는 [일본국유철도 청산사업단의](https://ko.wikipedia.org/wiki/일본국유철도_청산사업단 "wikilink") 계열사인 레일시티 동개발 사가 맡고 있다.
 
-별관인 ‘애넥스1’(アネックスI)은 [파나 소닉 모바일 커뮤니케이션에서](https://ko.wikipedia.org/wiki/파나_소닉_모바일_커뮤니케이션 "wikilink") 제조한 도코모용 핸드폰의 수리회사 ‘마쓰덴통신’(松電通信)의 운영대리점, [도코모 샵](https://ko.wikipedia.org/wiki/도코모_샵 "wikilink") 요요기점이 들어서 있다. 그밖에 별관동에는 [프레시 네스버거](https://ko.wikipedia.org/wiki/프레시_네스버거 "wikilink"), [야요이켄](https://ko.wikipedia.org/wiki/야요이켄 "wikilink"), [중화요리](https://ko.wikipedia.org/wiki/중화요리 "wikilink"), [가고시마 요리](https://ko.wikipedia.org/wiki/가고시마_요리 "wikilink"), [베트남 요리](../Page/베트남_요리.md "wikilink"), 해산물 요리 등의 식당가가 자리해 있다.
+별관인 ‘애넥스1’(アネックスI)은 [파나 소닉 모바일 커뮤니케이션에서](https://ko.wikipedia.org/wiki/파나_소닉_모바일_커뮤니케이션 "wikilink") 제조한 도코모용 핸드폰의 수리회사 ‘마쓰덴통신’(松電通信)의 운영대리점, [도코모 샵](https://ko.wikipedia.org/wiki/도코모_샵 "wikilink") 요요기점이 들어서 있다. 그밖에 별관동에는 [프레시 네스버거](https://ko.wikipedia.org/wiki/프레시_네스버거 "wikilink"), [야요이켄](https://ko.wikipedia.org/wiki/야요이켄 "wikilink"), [중국 요리](../Page/중국_요리.md "wikilink"), [가고시마 요리](https://ko.wikipedia.org/wiki/가고시마_요리 "wikilink"), [베트남 요리](../Page/베트남_요리.md "wikilink"), 해산물 요리 등의 식당가가 자리해 있다.
 
 ## 구조
 

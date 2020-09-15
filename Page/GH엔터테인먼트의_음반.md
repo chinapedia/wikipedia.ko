@@ -43,6 +43,8 @@
 ## 2020년 \~ 2022년
 
   - 2020년 2월 21일 써드아이 - **\[Digital Single\] Queen**
+  - 2020년 6월 29일 써드아이 - **Triangle**
+  - 2020년 7월 14일 써드아이 - **\[Digital Single\] Summer Special**
 
 ## 각주
 

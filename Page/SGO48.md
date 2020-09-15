@@ -39,13 +39,6 @@
   - 후잉 응오 낌 쩌우 (Huỳnh Ngô Kim Châu) - Mon 몬
   - 응오 티 깜 니 (Ngô Thị Cẩm Nhi) / Ni Ni 니 니
 
-### 지난 멤버
-
-  - 코세키 유미 (Koseki Yumi, 小関優実) - 유일한 일본인
-  - 짠 응우옌 프엉 비 (Trần Nguyễn Phương Vy)
-  - 타이 자 응이 (Thái Gia Nghi)
-  - 응우옌 꾸에 민 헌 (Nguyễn Quế Minh Hân) / Sachi 사치이
-
 ## 디스코그래피
 
 ### 싱글

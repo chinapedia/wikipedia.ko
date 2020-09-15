@@ -11,7 +11,7 @@
 
 이 음반은 [크리스 토머스가](https://ko.wikipedia.org/wiki/크리스_토머스 "wikilink") 프로듀서를 맡았으며 [몬트세랫](https://ko.wikipedia.org/wiki/몬트세랫 "wikilink")의 AIR 스튜디오(《[Jump Up\!](../Page/Jump_Up!.md "wikilink")》의 같은 스튜디오)와 [할리우드](../Page/할리우드.md "wikilink")의 [선셋 사운드 레코더에서](https://ko.wikipedia.org/wiki/선셋_사운드_레코더 "wikilink") 녹음했다.
 
-존이 피아노 외에 [신시사이저](../Page/신시사이저.md "wikilink")를 연주한 것은 《[A Single Man](https://ko.wikipedia.org/wiki/A_Single_Man "wikilink")》 이후 처음으로 [제임스 뉴턴 하워드가](../Page/제임스_뉴턴_하워드.md "wikilink") 밴드를 탈퇴한 이후였다. 존은 신시사이저가 피아노로 연주되는 그러한 작곡에 전적으로 만족하지 않았음에도 불구하고 더 나은 빠른 록 곡을 쓸 수 있게 해준다고 느꼈다.\[1\]
+존이 피아노 외에 [신시사이저](../Page/신시사이저.md "wikilink")를 연주한 것은 《[A Single Man](../Page/A_Single_Man.md "wikilink")》 이후 처음으로 [제임스 뉴턴 하워드가](../Page/제임스_뉴턴_하워드.md "wikilink") 밴드를 탈퇴한 이후였다. 존은 신시사이저가 피아노로 연주되는 그러한 작곡에 전적으로 만족하지 않았음에도 불구하고 더 나은 빠른 록 곡을 쓸 수 있게 해준다고 느꼈다.\[1\]
 
 이 음반은 약 2주 만에 작곡되고 녹음되었으며, 일주일 만에 오버더빙이 완성되었다.\[2\]
 

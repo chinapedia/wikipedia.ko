@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EMac](https://ko.wikipedia.org/wiki/EMac).
 
 
-**eMac**은** **2002년 [애플에서](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 교육시장을 목표로 출시한 [매킨토시](../Page/매킨토시.md "wikilink") 데스크톱 컴퓨터이다[.](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") eMac은 2005년 10월 12일 부터 소매점에서 판매되었다. 2006년 7월 5일에 단종되었으며 저렴한 교육용 iMac으로 대체되었다.
+**eMac**은** **2002년 [애플](../Page/애플.md "wikilink")에서 교육시장을 목표로 출시한 [매킨토시](../Page/매킨토시.md "wikilink") 데스크톱 컴퓨터이다[.](../Page/애플.md "wikilink") eMac은 2005년 10월 12일 부터 소매점에서 판매되었다. 2006년 7월 5일에 단종되었으며 저렴한 교육용 iMac으로 대체되었다.
 
 eMac의 디자인은 1세대 [iMac과](../Page/아이맥.md "wikilink") 비슷하다. 첫 번째 iMac과 비교하여 eMac은 이전 세대 G3 프로세서보다 훨씬 빠른 PowerPC G4 프로세서와 비싼 LCD 화면 대신 교육 시장을 겨냥한 17 인치 평면 CRT 디스플레이를 특징으로한다. 그러나 iMac G3와는 달리 eMac은 무게가 23kg이고 운반 손잡이가 없어 휴대가 용이하지 않다.\[1\]
 
@@ -11,7 +11,7 @@ eMac은 일반적으로 iMac G4와 비슷한 성능과 기능을 제공하면서
 
 애플은 2002년 4월에 eMac을 선보였다. eMac은 원래 교육용 시장을 겨냥하고 개발되었지만, 그 수요는 한 달 후 일반 소매점에서 판매할 정도로 충분히 높았다. 소매 시장에서는 2세대 아이맥인 iMac G4에 비해 저가형 제품으로 자리잡았다. iMac G4의 LCD는 당시 CRT보다 훨씬 비쌌으며 이전 G3보다 훨씬 비쌌다. iMac G3보다 더 많은 처리 능력을 원하는 사람에게 eMac은 보다 저렴한 업그레이드로 간주되었다.
 
-eMac은 17 인치 평면 스크린 CRT 모니터, 700MHz 또는 800MHz에서 작동하는 Freescale PowerPC G4 프로세서, Nvidia GeForce2 MX 그래픽 및 내장 된 18 와트 스테레오 스피커를 특징으로했다. eMac의 가격은 1,099 달러, 1,499 달러로 799달러였던 iMac G3와 1499달러였던 iMac G4 사이의 가격을 보였다.
+eMac은 17 인치 평면 스크린 CRT 모니터, 700 MHz 또는 800MHz에서 작동하는 Freescale PowerPC G4 프로세서, Nvidia GeForce2 MX 그래픽 및 내장 된 18 와트 스테레오 스피커를 특징으로했다. eMac의 가격은 1,099 달러, 1,499 달러로 799달러였던 iMac G3와 1499달러였던 iMac G4 사이의 가격을 보였다.
 
 eMac은 기본적으로 Mac OS 9.2.2 및 Mac OS X을 OS X 10.1.4로 부팅한다.
 
@@ -85,7 +85,7 @@ eMac은 기본적으로 Mac OS 9.2.2 및 Mac OS X을 OS X 10.1.4로 부팅한다
 </tr>
 <tr class="even">
 <td><p><a href="../Page/랜덤_액세스_메모리.md" title="wikilink">메모리</a></p></td>
-<td><p>128 MB PC133 SDRAM (1GHz SuperDrive 모델의 경우 256MB)<br />
+<td><p>128 MB PC133 SDRAM (1 GHz SuperDrive 모델의 경우 256MB)<br />
 1GB로 확장 가능</p></td>
 <td><p>256 MB 333 MHz PC2700 DDR SDRAM (1.42 GHz SuperDrive 모델의 경우 512MB)<br />
 2GB로 확장 가능 (공식적으론 1GB까지 가능)[8][9]</p></td>
@@ -124,9 +124,9 @@ eMac은 기본적으로 Mac OS 9.2.2 및 Mac OS X을 OS X 10.1.4로 부팅한다
 <td><p><a href="../Page/광학_디스크_드라이브.md" title="wikilink">광학 디스크 드라이브</a></p></td>
 <td><p>Combo Drive (CD-RW/DVD-ROM)<br />
 <a href="../Page/슈퍼드라이브.md" title="wikilink">SuperDrive</a> (DVD-RW) (선택 가능)<br />
-초기 700MHz 모델의 경우 기본적으로 CD-RW,<br />
-기본적으로 800MHz 교육용 전용 1.25GHz 모델의 경우 기본적으로 CD-ROM,<br />
- 초기 800MHz 모델의 경우 기본적으로</p></td>
+초기 700 MHz 모델의 경우 기본적으로 CD-RW,<br />
+기본적으로 800 MHz 교육용 전용 1.25 GHz 모델의 경우 기본적으로 CD-ROM,<br />
+ 초기 800 MHz 모델의 경우 기본적으로</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -141,7 +141,7 @@ eMac은 기본적으로 Mac OS 9.2.2 및 Mac OS X을 OS X 10.1.4로 부팅한다
 56k V.92 모뎀</p></td>
 <td><p>선택 가능한 AirPort Extreme 802.11b/g<br />
 10/100 BASE-T 이더넷<br />
-56k V.92 모뎀 (교육용 1.25GHz 모델의 경우 선택 사양)<br />
+56k V.92 모뎀 (교육용 1.25 GHz 모델의 경우 선택 사양)<br />
 선택 가능한 <a href="../Page/블루투스.md" title="wikilink">Bluetooth</a> 1.1</p></td>
 <td></td>
 </tr>
@@ -203,7 +203,7 @@ Mac OS 9.2.2</p></td>
   - [Apple Introduces low cost Education Configuration for 17-inch iMac](https://web.archive.org/web/20110608070953/http://www.apple.com/pr/library/2006/jul/05imac.html)
   - [eMac Upgrade Guide](https://web.archive.org/web/20180422080338/http://www.lbodnar.dsl.pipex.com/eMac/eMac-upgrade.html)
 
-[분류:매킨토시](https://ko.wikipedia.org/wiki/분류:매킨토시 "wikilink")
+[분류:파워PC 매킨토시](https://ko.wikipedia.org/wiki/분류:파워PC_매킨토시 "wikilink")
 
 1.
 2.

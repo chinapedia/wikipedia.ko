@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1991년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1991년_CONCACAF_챔피언스컵).
 
 
-**1991년 CONCACAF 챔피언스컵**(1991 CONCACAF Champions' Cup)은 [1991년](../Page/1991년.md "wikilink") [4월 7일부터](../Page/4월_7일.md "wikilink") [9월 24일까지](../Page/9월_24일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 27번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [푸에블라가](https://ko.wikipedia.org/wiki/푸에블라_FC "wikilink") 결승전에서 [트리니다드 토바고의](../Page/트리니다드_토바고.md "wikilink") [폴리스를](https://ko.wikipedia.org/wiki/폴리스_FC "wikilink") 누르고 우승을 차지했다.
+**1991년 CONCACAF 챔피언스컵**(1991 CONCACAF Champions' Cup)은 [1991년](../Page/1991년.md "wikilink") [4월 7일부터](../Page/4월_7일.md "wikilink") [9월 24일까지](../Page/9월_24일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 27번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [푸에블라가](https://ko.wikipedia.org/wiki/푸에블라_FC "wikilink") 결승전에서 [트리니다드 토바고의](../Page/트리니다드_토바고.md "wikilink") [폴리스를](https://ko.wikipedia.org/wiki/폴리스_FC "wikilink") 누르고 우승을 차지했다.
 
 ## 북아메리카 지역 예선
 

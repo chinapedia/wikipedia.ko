@@ -18,7 +18,7 @@
 
 ## 외부 링크
 
-  - [JXTG 에너지 공식 홈페이지](https://www.noe.jxtg-group.co.jp/)
+  -
 
 [분류:일본의 제조 기업](https://ko.wikipedia.org/wiki/분류:일본의_제조_기업 "wikilink") [분류:일본의 정유 회사](https://ko.wikipedia.org/wiki/분류:일본의_정유_회사 "wikilink") [분류:일본의 전력 회사](https://ko.wikipedia.org/wiki/분류:일본의_전력_회사 "wikilink") [분류:미나토구 (도쿄도)의 기업](https://ko.wikipedia.org/wiki/분류:미나토구_\(도쿄도\)의_기업 "wikilink") [분류:지요다구의 기업](https://ko.wikipedia.org/wiki/분류:지요다구의_기업 "wikilink") [분류:일본의 다국적 기업](https://ko.wikipedia.org/wiki/분류:일본의_다국적_기업 "wikilink") [분류:1888년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1888년_설립된_기업 "wikilink") [분류:일본의 브랜드](https://ko.wikipedia.org/wiki/분류:일본의_브랜드 "wikilink")
 

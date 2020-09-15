@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1994년 CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/1994년_CONCACAF_챔피언스컵).
 
 
-**1994년 CONCACAF 챔피언스컵**(1994 CONCACAF Champions' Cup)은 [1993년](../Page/1993년.md "wikilink") [12월 12일부터](../Page/12월_12일.md "wikilink") [1995년](../Page/1995년.md "wikilink") [2월 5일까지](../Page/2월_5일.md "wikilink") 개최된 CONCACAF 챔피언스컵(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 30번째 대회이다. [코스타리카](../Page/코스타리카.md "wikilink")의 [카르타히네스가](https://ko.wikipedia.org/wiki/CS_카르타히네스 "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [아틀란테를](https://ko.wikipedia.org/wiki/CF_아틀란테 "wikilink") 누르고 우승을 차지했다.
+**1994년 CONCACAF 챔피언스컵**(1994 CONCACAF Champions' Cup)은 [1993년](../Page/1993년.md "wikilink") [12월 12일부터](../Page/12월_12일.md "wikilink") [1995년](../Page/1995년.md "wikilink") [2월 5일까지](../Page/2월_5일.md "wikilink") 개최된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(현재의 [CONCACAF 챔피언스리그](../Page/CONCACAF_챔피언스리그.md "wikilink"))의 30번째 대회이다. [코스타리카](../Page/코스타리카.md "wikilink")의 [카르타히네스가](https://ko.wikipedia.org/wiki/CS_카르타히네스 "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [아틀란테를](https://ko.wikipedia.org/wiki/CF_아틀란테 "wikilink") 누르고 우승을 차지했다.
 
 ## 북아메리카-중앙아메리카 지역 예선
 

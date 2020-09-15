@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [마이클 V. 폭스](https://ko.wikipedia.org/wiki/마이클_V._폭스).
 
 
-**마이클 V. 폭스** (Michael V. Fox, 1941년 \~ )는 미국의 성서의 학자이다.\[1\] 그는 [위스콘신 대학교의](../Page/위스콘신_대학교.md "wikilink") [히브리어](../Page/히브리어.md "wikilink")와 셈족학과의 홀스-반스콤 명예교수이다.\[2\] 폭스는 성경지혜문학 분야에 관하여 최고의 권위있는 학자로 평가받는다.\[3\] 한국에서 현창학 박사와 유선명 박사가 그의 제자이다.
+**마이클 V. 폭스**(Michael V. Fox, 1941년 \~ )는 미국의 성서의 학자이다.\[1\] 그는 [위스콘신 대학교의](../Page/위스콘신_대학교.md "wikilink") [히브리어](../Page/히브리어.md "wikilink")와 셈족학과의 홀스-반스콤 명예교수이다.\[2\] 폭스는 성경지혜문학 분야에 관하여 최고의 권위있는 학자로 평가받는다.\[3\] 한국에서 현창학 박사와 유선명 박사가 그의 제자이다.
 
 ## 생애
 
@@ -24,7 +24,7 @@
 
 ## 각주
 
-[분류:예루살렘 히브리 대학교 동문](https://ko.wikipedia.org/wiki/분류:예루살렘_히브리_대학교_동문 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:성서학자](https://ko.wikipedia.org/wiki/분류:성서학자 "wikilink") [분류:유대인](https://ko.wikipedia.org/wiki/분류:유대인 "wikilink") [분류:위스콘신 대학교 교수](https://ko.wikipedia.org/wiki/분류:위스콘신_대학교_교수 "wikilink") [분류:문학 이론가](https://ko.wikipedia.org/wiki/분류:문학_이론가 "wikilink") [분류:랍비](https://ko.wikipedia.org/wiki/분류:랍비 "wikilink") [분류:구약 학자](https://ko.wikipedia.org/wiki/분류:구약_학자 "wikilink") [분류:잠언서 연구가](https://ko.wikipedia.org/wiki/분류:잠언서_연구가 "wikilink")
+[분류:예루살렘 히브리 대학교 동문](https://ko.wikipedia.org/wiki/분류:예루살렘_히브리_대학교_동문 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:성서학자](https://ko.wikipedia.org/wiki/분류:성서학자 "wikilink") [분류:유대인](https://ko.wikipedia.org/wiki/분류:유대인 "wikilink") [분류:위스콘신 대학교 교수](https://ko.wikipedia.org/wiki/분류:위스콘신_대학교_교수 "wikilink") [분류:문학 이론가](https://ko.wikipedia.org/wiki/분류:문학_이론가 "wikilink") [분류:랍비](https://ko.wikipedia.org/wiki/분류:랍비 "wikilink") [분류:구약 학자](https://ko.wikipedia.org/wiki/분류:구약_학자 "wikilink") [분류:잠언서 연구가](https://ko.wikipedia.org/wiki/분류:잠언서_연구가 "wikilink") [분류:1941년 태어남](https://ko.wikipedia.org/wiki/분류:1941년_태어남 "wikilink")
 
 1.
 2.

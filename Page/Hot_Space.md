@@ -17,6 +17,11 @@
 
 ## 외부 링크
 
+  - [Queen official website: Discography: Hot Space](http://www.queenonline.com/en/the-band/discography/hot-space/): includes lyrics of all non-bonus tracks except "Put Out the Fire" and "Under Pressure".
+
+  - Other lyrics at Queen official website: ["Put Out the Fire"](http://www.queenonline.com/en/the-band/discography/queen-rocks/#lyrics) (from *[Queen Rocks](../Page/Queen_Rocks.md "wikilink")*), ["Under Pressure (Rah Mix)"](http://www.queenonline.com/en/the-band/discography/greatest-hits-iii/#lyrics) (from *[Greatest Hits III](https://ko.wikipedia.org/wiki/Greatest_Hits_III_\(퀸의_음반\) "wikilink")*)
+
+  -
 [분류:1982년 음반](https://ko.wikipedia.org/wiki/분류:1982년_음반 "wikilink") [분류:퀸의 음반](https://ko.wikipedia.org/wiki/분류:퀸의_음반 "wikilink") [분류:EMI 레코드 음반](https://ko.wikipedia.org/wiki/분류:EMI_레코드_음반 "wikilink") [분류:할리우드 레코드 음반](https://ko.wikipedia.org/wiki/분류:할리우드_레코드_음반 "wikilink") [분류:팔로폰 음반](https://ko.wikipedia.org/wiki/분류:팔로폰_음반 "wikilink")
 
 1.

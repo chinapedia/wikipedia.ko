@@ -29,7 +29,7 @@
 <td><p>2018년 10월 28일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유니언데일_(뉴욕주)" title="wikilink">유니언데일</a></p></td>
 <td><p><a href="../Page/나소_베터런스_메모리얼_콜리시엄.md" title="wikilink">나소 베터런스 메모리얼 콜리시엄</a></p></td>
-<td></td>
+<td><p>10,900</p></td>
 <td><p><a href="../Page/론다_라우시.md" title="wikilink">론다 라우시</a> vs. <a href="../Page/벨라_트윈스.md" title="wikilink">니키 벨라</a> (WWE RAW 위민스 챔피언십)</p></td>
 </tr>
 </tbody>

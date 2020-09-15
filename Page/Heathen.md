@@ -7,6 +7,10 @@
 
 보위는 2002년 하반기에 그의 [Heathen Tour와](https://ko.wikipedia.org/wiki/Heathen_Tour "wikilink") 몇몇 TV 라이브 공연을 위해 그의 음반을 길에서 가져갔다.
 
+## 곡 목록
+
+모든 곡들은 특별한 언급이 없는 한 [데이비드 보위에](../Page/데이비드_보위.md "wikilink") 의해 작사/작곡하였다.
+
 ## 각주
 
 ## 외부 링크

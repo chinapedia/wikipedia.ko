@@ -72,7 +72,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong></strong></p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/첸스야" title="wikilink">첸스야</a></strong></p></td>
+<td><p><strong>첸스야</strong></p></td>
 <td><p><strong>Chen Shih-ya</strong></p></td>
 <td><p><strong></strong></p></td>
 <td><p>1기</p></td>
@@ -83,12 +83,12 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/판쯔이" title="wikilink">판쯔이</a></p></td>
+<td><p>판쯔이</p></td>
 <td><p>Pan Tzi-yi</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
-<td><p><a href="../Page/마카오.md" title="wikilink">마카오</a>인 멤버</p></td>
+<td><p><a href="../Page/마카오.md" title="wikilink">마카오</a>인 멤버1</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -97,20 +97,20 @@ AKB48 Team TP 총캡틴<br />
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
-<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a>인 멤버</p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a>인 멤버1</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/차이야언" title="wikilink">차이야언</a></p></td>
+<td><p>차이야언</p></td>
 <td><p>Tsai Ya-en</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
-<td><p>2020년 1월 19일 승격</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/궈싱위" title="wikilink">궈싱위</a></p></td>
+<td><p>궈싱위</p></td>
 <td><p>Kuo Hsin-yu</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -146,7 +146,7 @@ AKB48 Team TP 총캡틴<br />
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/류위칭" title="wikilink">류위칭</a></p></td>
+<td><p>류위칭</p></td>
 <td><p>Liu Yu-ching</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -155,7 +155,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/류제밍" title="wikilink">류제밍</a></p></td>
+<td><p>류제밍</p></td>
 <td><p>Liu Jie-ming</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -173,7 +173,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린제" title="wikilink">린제</a></p></td>
+<td><p>린제</p></td>
 <td><p>Lin Chieh</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -182,14 +182,13 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리쟈리" title="wikilink">리쟈리</a></p></td>
+<td><p>리쟈리</p></td>
 <td><p>Lee Jia-li</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
 <td><p>최연소<br />
-여동생은 <a href="https://ko.wikipedia.org/wiki/리타첸" title="wikilink">리타첸</a><br />
-2020년 1월 19일 승격</p></td>
+여동생은 리타첸</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -220,7 +219,7 @@ AKB48 Team TP 총캡틴<br />
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/청스위" title="wikilink">청스위</a></p></td>
+<td><p>청스위</p></td>
 <td><p>Tseng Shih-yu</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -234,32 +233,31 @@ AKB48 Team TP 총캡틴<br />
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
-<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a>인 멤버<br />
-2019년 6월 15일 승격</p></td>
+<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a>인 멤버2</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린위쉰" title="wikilink">린위쉰</a></p></td>
+<td><p>린위쉰</p></td>
 <td><p>Lin Yu-hsin</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
-<td><p>2019년 6월 15일 승격</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/혼다_유즈카" title="wikilink">혼다 유즈카</a></p></td>
+<td><p>혼다 유즈카</p></td>
 <td><p>Honda Yuzuka</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
 <td><p>최연소<br />
-<a href="../Page/일본.md" title="wikilink">일본</a>인 멤버<br />
+<a href="../Page/일본.md" title="wikilink">일본</a>인 멤버1<br />
 활동중지</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장위린" title="wikilink">장위린</a></p></td>
+<td><p>장위린</p></td>
 <td><p>Chang Yu-lin</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -297,16 +295,16 @@ AKB48 Team TP 총캡틴<br />
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리타첸" title="wikilink">리타첸</a></p></td>
+<td><p>리타첸</p></td>
 <td><p>Li Cai-jie</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
-<td><p>언니는 <a href="https://ko.wikipedia.org/wiki/리챠리" title="wikilink">리챠리</a></p></td>
+<td><p>언니는 리챠리</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/자이전" title="wikilink">자이전</a></p></td>
+<td><p>자이전</p></td>
 <td><p>Chia I-chen</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -315,7 +313,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/포링" title="wikilink">포링</a></p></td>
+<td><p>포링</p></td>
 <td><p>Po Ling</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -324,7 +322,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장파파" title="wikilink">장파파</a></p></td>
+<td><p>장파파</p></td>
 <td><p>Chang Fa-fa</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -333,7 +331,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리멍춘" title="wikilink">리멍춘</a></p></td>
+<td><p>리멍춘</p></td>
 <td><p>Lee Meng-chun</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -342,7 +340,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린제신" title="wikilink">린제신</a></p></td>
+<td><p>린제신</p></td>
 <td><p>Lin Chieh-hsin</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -351,7 +349,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가오옌천" title="wikilink">가오옌천</a></p></td>
+<td><p>가오옌천</p></td>
 <td><p>Kao Yen-chen</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -360,17 +358,17 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/미야타_루카" title="wikilink">미야타 루카</a></p></td>
+<td><p>미야타 루카</p></td>
 <td><p>Miyata Ruka</p></td>
 <td></td>
 <td><p>2기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
 <td><p>최연장자<br />
-<a href="../Page/일본.md" title="wikilink">일본</a>인 멤버</p></td>
+<a href="../Page/일본.md" title="wikilink">일본</a>인 멤버2</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우완링" title="wikilink">우완링</a></p></td>
+<td><p>우완링</p></td>
 <td><p>Wu Wan-ling</p></td>
 <td></td>
 <td><p>2기</p></td>
@@ -379,7 +377,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린자니" title="wikilink">린자니</a></p></td>
+<td><p>린자니</p></td>
 <td><p>Lin Jia-ni</p></td>
 <td></td>
 <td><p>2기</p></td>
@@ -415,16 +413,16 @@ AKB48 Team TP 총캡틴<br />
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후지이_마유" title="wikilink">후지이 마유</a></p></td>
+<td><p>후지이 마유</p></td>
 <td><p>Fujii Mayu</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
-<td><p><a href="../Page/일본.md" title="wikilink">일본</a>인 멤버</p></td>
+<td><p><a href="../Page/일본.md" title="wikilink">일본</a>인 멤버3</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/차이이러우" title="wikilink">차이이러우</a></p></td>
+<td><p>차이이러우</p></td>
 <td><p>Tsai Yi-jou</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -433,7 +431,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/가오윈줴" title="wikilink">가오윈줴</a></p></td>
+<td><p>가오윈줴</p></td>
 <td><p>Gao Yun-jue</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -442,7 +440,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/왕이자" title="wikilink">왕이자</a></p></td>
+<td><p>왕이자</p></td>
 <td><p>Wang Yi-chia</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -451,7 +449,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정위웨이" title="wikilink">정위웨이</a></p></td>
+<td><p>정위웨이</p></td>
 <td><p>Cheng Yu-wei</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -460,7 +458,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뤄루이팅" title="wikilink">뤄루이팅</a></p></td>
+<td><p>뤄루이팅</p></td>
 <td><p>Lo Jui-ting</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -469,7 +467,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/둥쯔쉬안" title="wikilink">둥쯔쉬안</a></p></td>
+<td><p>둥쯔쉬안</p></td>
 <td><p>Tung Zih-syuan</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -478,7 +476,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/윙퉁쉰" title="wikilink">윙퉁쉰</a></p></td>
+<td><p>윙퉁쉰</p></td>
 <td><p>Weng Tung-hsun</p></td>
 <td></td>
 <td><p>2기</p></td>
@@ -487,7 +485,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/저우자안" title="wikilink">저우자안</a></p></td>
+<td><p>저우자안</p></td>
 <td><p>Chou Chia-an</p></td>
 <td></td>
 <td><p>2기</p></td>
@@ -523,7 +521,7 @@ AKB48 Team TP 총캡틴<br />
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/저우자위" title="wikilink">저우자위</a></p></td>
+<td><p>저우자위</p></td>
 <td><p>Zhou Jia-yu</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -532,7 +530,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린이윈" title="wikilink">린이윈</a></p></td>
+<td><p>린이윈</p></td>
 <td><p>Lin Yi-yun</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -541,7 +539,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린자잉" title="wikilink">린자잉</a></p></td>
+<td><p>린자잉</p></td>
 <td><p>Lin Chia-ying</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -550,16 +548,16 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오오야마_미레이" title="wikilink">오오야마 미레이</a></p></td>
+<td><p>오오야마 미레이</p></td>
 <td><p>Oyama Mirei</p></td>
 <td></td>
 <td><p>1기</p></td>
 <td><p>Muses &amp; Nymph Entertainment</p></td>
-<td><p><a href="../Page/일본.md" title="wikilink">일본</a>인 멤버</p></td>
+<td><p><a href="../Page/일본.md" title="wikilink">일본</a>인 멤버4</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정자위" title="wikilink">정자위</a></p></td>
+<td><p>정자위</p></td>
 <td><p>Cheng Chia-yu</p></td>
 <td></td>
 <td><p>1기</p></td>
@@ -568,7 +566,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/우치후이" title="wikilink">우치후이</a></p></td>
+<td><p>우치후이</p></td>
 <td><p>Wu Chi-hui</p></td>
 <td></td>
 <td><p>2기</p></td>
@@ -577,7 +575,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/위안쯔주" title="wikilink">위안쯔주</a></p></td>
+<td><p>위안쯔주</p></td>
 <td><p>Yuan Tzu-chu</p></td>
 <td></td>
 <td><p>2기</p></td>
@@ -586,7 +584,7 @@ AKB48 Team TP 총캡틴<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/린팅리" title="wikilink">린팅리</a></p></td>
+<td><p>린팅리</p></td>
 <td><p>Lin Ting-li</p></td>
 <td></td>
 <td><p>2기</p></td>
@@ -594,190 +592,6 @@ AKB48 Team TP 총캡틴<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 전 멤버
-
-#### 정규 멤버
-
-<table>
-<thead>
-<tr class="header">
-<th><p>이름</p></th>
-<th><p>한글 표기</p></th>
-<th><p>병음 표기</p></th>
-<th><p>생년월일</p></th>
-<th><p>가입기</p></th>
-<th><p>졸업일</p></th>
-<th><p>현재 소속 사무소</p></th>
-<th><p>비고</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/첸시위안" title="wikilink">첸시위안</a></p></td>
-<td><p>Chen Shih-yuan</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2018년 8월 25일</p></td>
-<td><p>beyond entertainment(超越娛樂)</p></td>
-<td><p>현재는 정규 멤버인 <a href="https://ko.wikipedia.org/wiki/천스야" title="wikilink">천스야</a>의 쌍둥이<br />
-사퇴하고 걸그룹 5TEAM 리더로 활동 중</p></td>
-</tr>
-<tr class="even">
-<td><p><br />
-()</p></td>
-<td><p><a href="../Page/아베_마리아_(가수).md" title="wikilink">아베 마리아</a></p></td>
-<td><p>Abe Maria[24]</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>2019년 10월 19일</p></td>
-<td><p>WalkGame Corp. (Camerabay)</p></td>
-<td><p><a href="../Page/일본.md" title="wikilink">일본</a>인 멤버<br />
-전 AKB48 팀4→K</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-#### 연구생
-
-<table>
-<thead>
-<tr class="header">
-<th><p>이름</p></th>
-<th><p>한글 표기</p></th>
-<th><p>병음 표기</p></th>
-<th><p>생년월일</p></th>
-<th><p>가입기</p></th>
-<th><p>졸업일</p></th>
-<th><p>현재 소속 사무소</p></th>
-<th><p>비고</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/황쯔칭" title="wikilink">황쯔칭</a></p></td>
-<td><p>Huang Tzu-ching</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2018년 3월</p></td>
-<td><p>-</p></td>
-<td><p>사퇴</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/천웨이" title="wikilink">천웨이</a></p></td>
-<td><p>Chen Wei</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>-</p></td>
-<td><p>사퇴</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/원천쥔" title="wikilink">원천쥔</a></p></td>
-<td><p>Wen Chen-chun</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>-</p></td>
-<td><p>사퇴</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장징" title="wikilink">장징</a></p></td>
-<td><p>Chang Jing</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>-</p></td>
-<td><p>사퇴</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/천자시" title="wikilink">천자시</a></p></td>
-<td><p>Chan Ka-hei</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>-</p></td>
-<td><p><a href="../Page/홍콩.md" title="wikilink">홍콩</a>인 멤버<br />
-사퇴</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리언윈" title="wikilink">리언윈</a></p></td>
-<td><p>Lee En-Yun</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>-</p></td>
-<td><p>사퇴</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/리첸시" title="wikilink">리첸시</a></p></td>
-<td><p>Lee Chen-si</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>2018년 8월 25일</p></td>
-<td><p>-</p></td>
-<td><p>사퇴</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/웡리페이" title="wikilink">웡리페이</a></p></td>
-<td><p>Weng Li-fei</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>-</p></td>
-<td><p>사퇴</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/첸린_(AKB48_Team_TP)" title="wikilink">첸린</a></p></td>
-<td><p>Chen Lin</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>-</p></td>
-<td><p>사퇴</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/류옌팅" title="wikilink">류옌팅</a></p></td>
-<td><p>Liu Yen-ting</p></td>
-<td></td>
-<td><p>1기</p></td>
-<td><p>-</p></td>
-<td><p>사퇴</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -797,7 +611,7 @@ AKB48 Team TP 총캡틴<br />
 | ------ | ------------- | ------------------------------------------------------------------------------------------------ | ------ | -- |
 | 1      | 2018년 12월 25일 | **[용왕직전(勇往直前)](https://ko.wikipedia.org/wiki/앞_밖에_보지_않아#AKB48_Team_TP에_의한_커버 "wikilink")**       | CD+DVD | A판 |
 | CD+DVD | B판            |                                                                                                  |        |    |
-| 2      | 2019년 7월 26일  | **[TTP Festival](https://ko.wikipedia.org/wiki/TTP_Festival "wikilink")**                        | CD+DVD | A판 |
+| 2      | 2019년 7월 26일  | **TTP Festival**                                                                                 | CD+DVD | A판 |
 | CD+DVD | B판            |                                                                                                  |        |    |
 | 3      | 2019년 12월 21일 | **[간아석양요마?(看見夕陽了嗎?)](https://ko.wikipedia.org/wiki/석양을_보고_있니?#AKB48_Team_TP에_의한_커버 "wikilink")** | CD+DVD | A판 |
 | CD+DVD | B판            |                                                                                                  |        |    |
@@ -892,4 +706,3 @@ AKB48 Team TP 총캡틴<br />
 21.
 22.
 23.
-24.

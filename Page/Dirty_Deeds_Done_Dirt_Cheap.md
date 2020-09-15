@@ -9,7 +9,7 @@ AC/DC는 1975년 12월 [앨버트 스튜디오에서](https://ko.wikipedia.org/w
 
 ## 곡 목록
 
-모든 곡들은 [앵거스 영과](https://ko.wikipedia.org/wiki/앵거스_영 "wikilink") [맬컴 영](https://ko.wikipedia.org/wiki/맬컴_영 "wikilink") 그리고 [본 스콧이](../Page/본_스콧.md "wikilink") 작사/작곡하였다.
+모든 곡들은 [앵거스 영과](https://ko.wikipedia.org/wiki/앵거스_영 "wikilink") [맬컴 영](https://ko.wikipedia.org/wiki/맬컴_영 "wikilink") 그리고 [본 스콧에](../Page/본_스콧.md "wikilink") 의해 작사/작곡하였다.
 
 ### 호주
 

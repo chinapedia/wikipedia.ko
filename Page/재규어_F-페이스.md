@@ -23,6 +23,6 @@
 
 ## 외부 링크
 
-  - [재규어 영국 홈페이지](http://www.jaguar.co.uk/)
+  - [재규어 영국 홈페이지](https://web.archive.org/web/20131009234428/http://www.jaguar.co.uk/)
 
 [F-페이스](https://ko.wikipedia.org/wiki/분류:재규어의_차종 "wikilink") [F-페이스](https://ko.wikipedia.org/wiki/분류:스포츠_유틸리티_자동차 "wikilink") [F-페이스](https://ko.wikipedia.org/wiki/분류:후륜구동 "wikilink") [F-페이스](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [F-페이스](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [F-페이스](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [F-페이스](https://ko.wikipedia.org/wiki/분류:2016년_도입된_자동차 "wikilink")

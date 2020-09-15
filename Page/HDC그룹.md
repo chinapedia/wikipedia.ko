@@ -36,7 +36,7 @@
   - [HDC현대산업개발](../Page/HDC현대산업개발.md "wikilink")
   - [HDC현대EP](../Page/HDC현대EP.md "wikilink")
   - [HDC아이파크몰](../Page/HDC아이파크몰.md "wikilink")
-  - [호텔HDC](../Page/호텔HDC.md "wikilink")
+  - [HDC호텔](https://ko.wikipedia.org/wiki/HDC호텔 "wikilink")
   - [HDC영창](../Page/HDC영창.md "wikilink")
   - [HDC아이앤콘스](https://ko.wikipedia.org/wiki/HDC아이앤콘스 "wikilink")
   - [HDC아이콘트롤스](../Page/HDC아이콘트롤스.md "wikilink")
@@ -69,6 +69,5 @@
 ## 외부 링크
 
   - [HDC그룹 홈페이지](http://hdc-holdings.com/)
-  - [HDC그룹 홍보영상](https://www.youtube.com/watch?v=P85raaEcR5g)
 
 [HDC그룹](https://ko.wikipedia.org/wiki/분류:HDC그룹 "wikilink")

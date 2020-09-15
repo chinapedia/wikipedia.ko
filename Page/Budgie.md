@@ -66,7 +66,7 @@ Budgie v1은 2014년 2월 18일, v10은 2015년 12월 27일 출시되었다. 그
 
   -
   -
-[분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:소프트웨어 포크](https://ko.wikipedia.org/wiki/분류:소프트웨어_포크 "wikilink")
+[분류:X 윈도 시스템](https://ko.wikipedia.org/wiki/분류:X_윈도_시스템 "wikilink") [분류:소프트웨어 포크](https://ko.wikipedia.org/wiki/분류:소프트웨어_포크 "wikilink") [분류:자유 데스크톱 환경](https://ko.wikipedia.org/wiki/분류:자유_데스크톱_환경 "wikilink")
 
 1.
 2.

@@ -1,7 +1,84 @@
 > This article is converted from Wikipedia: [2011-12년 CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/2011-12년_CONCACAF_챔피언스리그).
 
 
-**2011-12년 CONCACAF 챔피언스리그**(2011-12 CONCACAF Champions League)는 [2011년](../Page/2011년.md "wikilink") [7월 26일부터](../Page/7월_26일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [4월 25일까지](../Page/4월_25일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 47번째 대회이다. [멕시코](../Page/멕시코.md "wikilink")의 [몬테레이가](../Page/CF_몬테레이.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [산토스 라구나를](https://ko.wikipedia.org/wiki/산토스_라구나 "wikilink") 누르고 우승을 차지했다.
+**2011-12년 CONCACAF 챔피언스리그**(2011-12 CONCACAF Champions League)는 [2011년](../Page/2011년.md "wikilink") [7월 26일부터](../Page/7월_26일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [4월 25일까지](../Page/4월_25일.md "wikilink") 개최된 [CONCACAF 챔피언스리그의](../Page/CONCACAF_챔피언스리그.md "wikilink") 4번째 대회이다. CONCACAF 챔피언스리그의 전신인 [CONCACAF 챔피언스컵을](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink") 포함하면 47번째 대회에 해당한다. [멕시코](../Page/멕시코.md "wikilink")의 [몬테레이가](../Page/CF_몬테레이.md "wikilink") 결승전에서 [멕시코](../Page/멕시코.md "wikilink")의 [산토스 라구나를](https://ko.wikipedia.org/wiki/산토스_라구나 "wikilink") 누르고 우승을 차지했다.
+
+## 경기 일정
+
+<table>
+<thead>
+<tr class="header">
+<th><p>라운드</p></th>
+<th><p>추첨일</p></th>
+<th><p>1차전</p></th>
+<th><p>2차전</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>예비 라운드</p></td>
+<td><p>예비 라운드</p></td>
+<td><p>2011년 5월 18일<br />
+(<a href="../Page/미국.md" title="wikilink">미국</a> <a href="../Page/뉴욕.md" title="wikilink">뉴욕</a>)</p></td>
+<td><p>2011년 7월 26일 ~ 7월 28일</p></td>
+</tr>
+<tr class="even">
+<td><p>조별 예선</p></td>
+<td><p>1차전</p></td>
+<td><p>2011년 8월 16일 ~ 8월 18일</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2차전</p></td>
+<td><p>2011년 8월 23일 ~ 8월 25일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3차전</p></td>
+<td><p>2011년 9월 13일 ~ 9월 15일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4차전</p></td>
+<td><p>2011년 9월 20일 ~ 9월 22일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5차전</p></td>
+<td><p>2011년 9월 27일 ~ 9월 29일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6차전</p></td>
+<td><p>2011년 10월 18일 ~ 10월 20일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>결선 토너먼트</p></td>
+<td><p>8강전</p></td>
+<td><p>2011년 11월 8일<br />
+(<a href="../Page/미국.md" title="wikilink">미국</a> <a href="../Page/뉴욕.md" title="wikilink">뉴욕</a>)</p></td>
+<td><p>2012년 3월 6일 ~ 3월 8일</p></td>
+</tr>
+<tr class="odd">
+<td><p>준결승전</p></td>
+<td><p>2012년 3월 27일 ~ 3월 29일</p></td>
+<td><p>2012년 4월 3일 ~ 4월 5일</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>결승전</p></td>
+<td><p>2012년 4월 17일 ~ 4월 19일</p></td>
+<td><p>2012년 4월 24일 ~ 4월 26일</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 예비 라운드
 
@@ -490,4 +567,4 @@
 
   - [2011-12년 CONCACAF 챔피언스리그 (RSSSF)](http://www.rsssf.com/tablesc/cacups2012.html)
 
-[분류:CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:CONCACAF_챔피언스리그 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2011년_축구 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2012년_축구 "wikilink")
+[분류:CONCACAF 챔피언스리그 시즌](https://ko.wikipedia.org/wiki/분류:CONCACAF_챔피언스리그_시즌 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2011년_축구 "wikilink") [CONCACAF 챔피언스리그](https://ko.wikipedia.org/wiki/분류:2012년_축구 "wikilink")

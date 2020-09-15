@@ -19,7 +19,7 @@ py2exe는 공식 비트토렌트 클라이언트(버전 6.0 이전)를 배포하
 
   - [Alternative: PyInstaller](http://www.pyinstaller.org/)
 
-  - [Alternative: cx_Freeze](http://cx-freeze.sourceforge.net/)
+  - [Alternative: cx_Freeze](https://web.archive.org/web/20110219161144/http://cx-freeze.sourceforge.net/)
 
 [분류:파이썬 소프트웨어](https://ko.wikipedia.org/wiki/분류:파이썬_소프트웨어 "wikilink") [분류:MIT 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:MIT_라이선스_소프트웨어 "wikilink")
 

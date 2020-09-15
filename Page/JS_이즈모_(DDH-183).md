@@ -38,4 +38,4 @@
 
 ## 각주
 
-[분류:해상자위대](https://ko.wikipedia.org/wiki/분류:해상자위대 "wikilink")
+[분류:2013년 진수된 선박](https://ko.wikipedia.org/wiki/분류:2013년_진수된_선박 "wikilink") [분류:해상자위대의 구축함](https://ko.wikipedia.org/wiki/분류:해상자위대의_구축함 "wikilink")

@@ -5,11 +5,11 @@
 
 ## 개요
 
-나루토의 후속작. [휴우가 히나타와](https://ko.wikipedia.org/wiki/휴우가_히나타 "wikilink") 결혼한 [우즈마키 나루토가](../Page/우즈마키_나루토.md "wikilink") 낳은 아들 [우즈마키 보루토가](https://ko.wikipedia.org/wiki/우즈마키_보루토 "wikilink") 주인공이다.
+나루토의 후속작. [휴우가 히나타와](https://ko.wikipedia.org/wiki/휴우가_히나타 "wikilink") 결혼한 [우즈마키 나루토가](../Page/우즈마키_나루토.md "wikilink") 낳은 아들 [우즈마키 보루토가](../Page/우즈마키_보루토.md "wikilink") 주인공이다.
 
 ## 등장 인물
 
-  - [김율](../Page/김율.md "wikilink") - [우즈마키 보루토](https://ko.wikipedia.org/wiki/우즈마키_보루토 "wikilink") 役
+  - [김율](../Page/김율.md "wikilink") - [우즈마키 보루토](../Page/우즈마키_보루토.md "wikilink") 役
   - [엄상현](../Page/엄상현.md "wikilink") - [우즈마키 나루토](../Page/우즈마키_나루토.md "wikilink") 役
   - [김영선](../Page/김영선_\(성우\).md "wikilink") - [우치하 사스케](../Page/우치하_사스케.md "wikilink") 役
   - [여민정](../Page/여민정_\(성우\).md "wikilink") - [우치하 사쿠라](https://ko.wikipedia.org/wiki/하루노_사쿠라 "wikilink") 役
@@ -39,8 +39,8 @@
   - 김도희 - 아히루 / 니토라 役
   - [김기흥](../Page/김기흥_\(성우\).md "wikilink") - 이루카 / 제츠(백) 役
   - [권성혁](../Page/권성혁.md "wikilink") - 사루토비 코노하마루 役
-  - [정승욱](../Page/정승욱.md "wikilink") - 히나타 히야시 役
-  - [정혜옥](../Page/정혜옥_\(성우\).md "wikilink") - 히나타 하나비 / 카자마츠리 모에기 / 아야메 役
+  - [정승욱](../Page/정승욱.md "wikilink") - 휴우가 히야시 役
+  - [정혜옥](../Page/정혜옥_\(성우\).md "wikilink") - 휴우가 하나비 / 카자마츠리 모에기 / 아야메 役
   - [류승곤](../Page/류승곤.md "wikilink") - 토네리 役
   - [송준석](../Page/송준석_\(성우\).md "wikilink") - 카게마사 / 곤고로 役
   - [정훈석](../Page/정훈석.md "wikilink") - 오오츠츠키 모모시키 役

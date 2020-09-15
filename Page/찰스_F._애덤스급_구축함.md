@@ -22,6 +22,5 @@
 ## 같이 보기
 
   - [스프루언스급 구축함](https://ko.wikipedia.org/wiki/스프루언스급_구축함 "wikilink")
-  - [미국 해군](../Page/미국_해군.md "wikilink")
 
-[분류:구축함 함급](https://ko.wikipedia.org/wiki/분류:구축함_함급 "wikilink")
+[찰스_F._애덤스급_구축함](https://ko.wikipedia.org/wiki/분류:찰스_F._애덤스급_구축함 "wikilink")

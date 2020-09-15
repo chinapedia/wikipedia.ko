@@ -809,7 +809,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/바니나_코레아" title="wikilink">바니나 코레아</a> (아르헨티나)</p>
+<a href="../Page/바니나_코레아.md" title="wikilink">바니나 코레아</a> (아르헨티나)</p>
 <p><strong>부심:</strong><br />
 팡옌 (<a href="https://ko.wikipedia.org/wiki/중국축구협회" title="wikilink">중화인민공화국</a>)<br />
 김경민 (<a href="../Page/대한축구협회.md" title="wikilink">대한민국</a>)<br />

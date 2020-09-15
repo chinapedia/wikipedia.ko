@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG U](https://ko.wikipedia.org/wiki/LG_U).
 
 
-**LG U**는 [LG전자](../Page/LG전자.md "wikilink")가 [LG U+와](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 협업해서 [2016년](../Page/2016년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") 출시한 보급형 스마트폰이다.\[1\] 이름인 U는 'Your Smartphone'이라는 의미로 사용자를 지향한다는 의미를 담고 있다. [LG U+에서는](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 출시 초기에 20명의 U폰 체험단을 모집하기도 했다.\[2\]
+**LG U**는 [LG전자](../Page/LG전자.md "wikilink")가 [LG U+와](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 협업해서 [2016년](../Page/2016년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") 출시한 보급형 스마트폰이다.\[1\] 이름인 U는 **Your Smartphone**이라는 의미로 사용자를 지향한다는 의미를 담고 있다. [LG U+에서는](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") 출시 초기에 20명의 U폰 체험단을 모집하기도 했다.\[2\]
 
 ## 운영 체제 / 소프트웨어
 

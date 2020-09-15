@@ -21,8 +21,6 @@
   - [금요일 8시 드라마](../Page/금요일_8시_드라마.md "wikilink")
   - [드라마 Biz](../Page/드라마_Biz.md "wikilink")
 
-[ja:テレビ東京金曜8時枠の連続ドラマ](https://ko.wikipedia.org/wiki/ja:テレビ東京金曜8時枠の連続ドラマ "wikilink")
-
 [TV_도쿄의_텔레비전_드라마](https://ko.wikipedia.org/wiki/분류:TV_도쿄의_텔레비전_드라마 "wikilink")
 
 1.  자세한 내용은 [일본 과학 기술 진흥 재단\#텔레비전 방송 사업](https://ko.wikipedia.org/wiki/:ja:日本科学技術振興財団#テレビ放送事業 "wikilink") 항목을 참조.

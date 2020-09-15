@@ -32,8 +32,8 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 <td><ul>
 <li>본명 : 첸쿤 ()</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="../Page/푸젠성.md" title="wikilink">푸젠 성</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/NCT_U" title="wikilink">NCT U</a>, <a href="../Page/WayV.md" title="wikilink">WayV</a></li>
+<li>출생지 :  <a href="../Page/푸젠성.md" title="wikilink">푸젠성</a></li>
+<li>소속그룹 : <a href="../Page/NCT_(음악_그룹).md" title="wikilink">NCT</a></li>
 <li>활동기간 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -44,7 +44,7 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 <li>본명 : 치따폰리차이야폰꾼 ()</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/방콕.md" title="wikilink">방콕</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/NCT_U" title="wikilink">NCT U</a>, <a href="../Page/WayV.md" title="wikilink">WayV</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
+<li>소속그룹 : <a href="../Page/NCT_(음악_그룹).md" title="wikilink">NCT</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -54,8 +54,8 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 <td><ul>
 <li>본명 : 둥쓰청 ()</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="../Page/저장성.md" title="wikilink">저장 성</a></li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/NCT_U" title="wikilink">NCT U</a>, <a href="https://ko.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a>, <a href="../Page/WayV.md" title="wikilink">WayV</a></li>
+<li>출생지 :  <a href="../Page/저장성.md" title="wikilink">저장성</a></li>
+<li>소속그룹 : <a href="../Page/NCT_(음악_그룹).md" title="wikilink">NCT</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/7월_7일.md" title="wikilink">7월 7일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -66,7 +66,7 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 <li>본명 : 웡육헤이 ()</li>
 <li>생년월일 : </li>
 <li>출생지 : </li>
-<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/NCT_U" title="wikilink">NCT U</a>, <a href="../Page/WayV.md" title="wikilink">WayV</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
+<li>소속그룹 : <a href="../Page/NCT_(음악_그룹).md" title="wikilink">NCT</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/2월_19일.md" title="wikilink">2월 19일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -76,8 +76,7 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 <td><ul>
 <li>본명 : 샤오더쥔 ()</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="../Page/광둥성.md" title="wikilink">광둥 성</a></li>
-<li>유닛그룹 : <a href="../Page/WayV.md" title="wikilink">WayV</a></li>
+<li>출생지 :  <a href="../Page/광둥성.md" title="wikilink">광둥성</a></li>
 <li>활동기간 : <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/1월_17일.md" title="wikilink">1월 17일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -88,7 +87,6 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 <li>본명 : 웡군항 ()</li>
 <li>생년월일 : </li>
 <li>출생지 : </li>
-<li>유닛그룹 : <a href="../Page/WayV.md" title="wikilink">WayV</a></li>
 <li>활동기간 : <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/1월_17일.md" title="wikilink">1월 17일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -99,7 +97,6 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 <li>본명 : 류양양 ()</li>
 <li>생년월일 : </li>
 <li>출생지 : </li>
-<li>유닛그룹 : <a href="../Page/WayV.md" title="wikilink">WayV</a></li>
 <li>활동기간 : <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/1월_17일.md" title="wikilink">1월 17일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -118,13 +115,9 @@ WayV의 멤버 윈윈은 '우리의 사부(아문적사부)'에 [위샤오광](.
 | <font size=2>|2019년 12월 22일 | <font size=2>|[서울](https://ko.wikipedia.org/wiki/서울 "wikilink") | <font size=2>|            | <font size=2>|세종대학교 대양 홀      |
 | <font size=2>|2019년 12월 28일 | <font size=2>|[선전](../Page/선전시.md "wikilink")                   | <font size=2>|            | <font size=2>|바오안 스타디움        |
 
-## Beyond LIVE
+## [Beyond LIVE](https://ko.wikipedia.org/wiki/Beyond_LIVE "wikilink")
 
 ### Beyond The Vision
-
-| <font size=2>|개최일         | <font size=2>|플랫폼                                    |
-| ------------------------- | ---------------------------------------------------- |
-| <font size=2>|2020년 5월 3일 | <font size=2>|[V LIVE](../Page/V_LIVE.md "wikilink") |
 
 ## 각주
 

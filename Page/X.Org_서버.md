@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [X.Org 서버](https://ko.wikipedia.org/wiki/X.Org_서버).
 
 
-**X.Org 서버**(X.Org Server)는 [X.Org 재단에](https://ko.wikipedia.org/wiki/X.Org_재단 "wikilink") 의해 구성된 [X 윈도 시스템용](../Page/X_윈도_시스템.md "wikilink") [디스플레이 서버](https://ko.wikipedia.org/wiki/디스플레이_서버 "wikilink") 구현체인 [자유-오픈 소스](../Page/자유-오픈_소스_소프트웨어.md "wikilink") 구현체이다. 이 프로토콜의 클라이언트 사이드 구현체로는 [Xlib](../Page/Xlib.md "wikilink")와 [XCB](../Page/XCB.md "wikilink") 등으로 이용이 가능하다.
+**X.Org 서버**(X.Org Server)는 [X.Org 재단에](../Page/X.Org_재단.md "wikilink") 의해 구성된 [X 윈도 시스템용](../Page/X_윈도_시스템.md "wikilink") [디스플레이 서버](https://ko.wikipedia.org/wiki/디스플레이_서버 "wikilink") 구현체인 [자유-오픈 소스](../Page/자유-오픈_소스_소프트웨어.md "wikilink") 구현체이다. 이 프로토콜의 클라이언트 사이드 구현체로는 [Xlib](../Page/Xlib.md "wikilink")와 [XCB](../Page/XCB.md "wikilink") 등으로 이용이 가능하다.
 
 ## 소프트웨어 구조
 

@@ -292,5 +292,5 @@ Elmwood Avenue</p></td>
 2.  [Philadelphia Transit; Streetcars;Route 11 (Kavanaugh Transit Systems)](http://ktransit.com/transit/NAmerica/useast/philadelphia/lightrail/phl-lr-rt11.htm)
 3.
 4.
-5.  [SEPTA Subway-Surface Lines map](http://www.septa.org/maps/trolley/city.html)
+5.
 6.

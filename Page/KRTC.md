@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KRTC](https://ko.wikipedia.org/wiki/KRTC).
 
 
-**KRTC**는 건물 및 토목엔지니어링 서비스업종의 [주식회사](../Page/주식회사.md "wikilink")였다. 1965년, 한국철도기술공사(韓國鐵道技術公社)가 [대한민국 철도청](../Page/대한민국_철도청.md "wikilink") 산하 [재단법인](../Page/재단법인.md "wikilink")으로 출발하였으나 철도청 민영화 과정에서 2004년 주식회사로 전환되어 민영화되었고, 2009년 [KRTC](../Page/KRTC.md "wikilink")로 상호를 변경하였다.\[1\]\[2\]\[3\]\[4\]
+**KRTC**는 건물 및 토목엔지니어링 서비스업종의 [주식회사](../Page/주식회사.md "wikilink")였다. 1965년, 한국철도기술공사(韓國鐵道技術公社)가 [대한민국 철도청](../Page/대한민국_철도청.md "wikilink") 산하 [재단법인](../Page/재단법인.md "wikilink")으로 출발하였으나 철도청 공사화 과정에서 2004년 주식회사로 전환되어 민영화되었고, 2009년 [KRTC](../Page/KRTC.md "wikilink")로 상호를 변경하였다.\[1\]\[2\]\[3\]\[4\]
 
 ## 연혁
 

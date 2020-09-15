@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC경남 진주방송](https://ko.wikipedia.org/wiki/MBC경남_진주방송).
 
 
-**MBC경남 진주방송**(MBC慶南 晋州放送)은 서부경남 지역을 가시청권으로 하는 대한민국의 지상파방송국이다. [1968년](../Page/1968년.md "wikilink") [5월 31일에](../Page/5월_31일.md "wikilink") 진주민간방송(약칭 JBC)으로 개국하였으며, [1971년](../Page/1971년.md "wikilink") 진주문화방송으로 사명을 변경했다. [2011년](../Page/2011년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 중부경남 지역을 가시청권으로 하는 구 [창원문화방송과](https://ko.wikipedia.org/wiki/MBC경남_창원본부 "wikilink") 합병하여 MBC경남 진주방송 및 MBC경남의 본사로 개편되었다. 호출부호는 **HLAK**이다.
+**MBC경남 진주방송**(MBC慶南 晋州放送)은 경남 서부 지역을 가시청권으로 하는 대한민국의 지상파방송국이다. [1968년](../Page/1968년.md "wikilink") [5월 31일에](../Page/5월_31일.md "wikilink") 진주민간방송(약칭 JBC)으로 개국하였으며, [1971년](../Page/1971년.md "wikilink") 진주문화방송으로 사명을 변경했다. [2011년](../Page/2011년.md "wikilink") [9월 1일에](../Page/9월_1일.md "wikilink") 중부경남 지역을 가시청권으로 하는 [구 창원문화방송과](../Page/MBC경남_창원방송.md "wikilink") 합병하여 MBC경남 진주방송 및 MBC경남의 본사로 개편되었다. 호출부호는 **HLAK**이다.
 
 ## 연혁
 
@@ -55,7 +55,7 @@
   - 2010년 2월 1일 : 지상파DMB방송 개국.
   - 2010년 12월 : 남해 DTV중계소 개소
   - 2011년 8월 8일 : 방송통신위원회가 창원문화방송과 함께 합병 승인 (MBC경남으로 출범)
-  - 2011년 9월 1일 : [창원문화방송과](https://ko.wikipedia.org/wiki/MBC경남_창원본부 "wikilink") 합병하여 [MBC경남](../Page/MBC경남.md "wikilink") 진주방송으로 사명 변경
+  - 2011년 9월 1일 : [창원문화방송과](../Page/MBC경남_창원방송.md "wikilink") 합병하여 [MBC경남](../Page/MBC경남.md "wikilink") 진주방송으로 사명 변경
   - 2012년 10월 4일 : 지상파 아날로그 TV 방송 종료
   - 2013년 7월 17일 : 경상남도 서부지역 디지털 주파수 재배치 완료
 
@@ -77,7 +77,7 @@
 
   - [MBC TV특강](https://ko.wikipedia.org/wiki/MBC_TV특강 "wikilink")
   - [공간다큐 그곳](https://ko.wikipedia.org/wiki/공간다큐_그곳 "wikilink")
-  - [생방송 경남아사랑해](https://ko.wikipedia.org/wiki/생방송_경남아사랑해 "wikilink")
+  - [당신의 수요일 생방송 경남아 사랑해](https://ko.wikipedia.org/wiki/당신의_수요일_생방송_경남아_사랑해 "wikilink")
 
 ### 방송 송출 시설망
 
@@ -136,17 +136,19 @@
 
 #### MBC경남 진주라디오
 
-| 프로그램명                                                           | 요일      | 시간                  | 진행자                                           |
-| --------------------------------------------------------------- | ------- | ------------------- | --------------------------------------------- |
-| [좋은 아침 (창원),(진주)](https://mbcgn.kr/programme/good_morning)      | 월\~금, 토 | 30분 (월\~금), 55분 (토) | 백근곤 (월\~금), 남선희 (토)                           |
-| [당신의 11시 (창원),(진주)](https://mbcgn.kr/programme/7vVdWbKReAM7RWK) | 월\~금    | 55분                 | 이다슬                                           |
-| [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink")                  | 월\~일    | 5분                  | 김용석                                           |
-| [즐거운 오후2시 (창원),(진주)](https://mbcgn.kr/programme/happy_2pm)      | 월\~금    | 115분                | 김용석, 김여민                                      |
-| [MBC 15시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)      | 월\~일    | 5분                  | 백율희                                           |
-| [MBC 17시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)      | 월\~일    | 5분                  | 김진철                                           |
-| [MBC 뉴스네트워크](../Page/MBC_뉴스네트워크.md "wikilink")                  | 월\~금    | 10분                 | [부산문화방송 보도국](../Page/부산문화방송.md "wikilink") 앵커 |
-| [지리산의 메아리 (창원),(진주)](https://mbcgn.kr/programme/jirisan)        | 평일      | 5분                  | 오승철, 노명주                                      |
-| [오늘의 경남 (창원),(진주)](https://mbcgn.kr/programme/today_gn)         | 평일      | 45분                 | 김진철                                           |
+| 프로그램명                                                          | 요일      | 시간                  | 진행자                                           |
+| -------------------------------------------------------------- | ------- | ------------------- | --------------------------------------------- |
+| [좋은 아침 (창원),(진주)](https://mbcgn.kr/programme/good_morning)     | 월\~금, 토 | 30분 (월\~금), 55분 (토) | 백근곤 (월\~금), 남선희 (토)                           |
+| 열려라 라디오 (창원),(진주)                                              | 일요일     | 55분                 |                                               |
+| [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink")                 | 월\~금    | 5분                  | 김용석                                           |
+| [즐거운 오후2시 (창원),(진주)](https://mbcgn.kr/programme/happy_2pm)     | 월\~금    | 115분                | 김용석, 김여민                                      |
+| [MBC 15시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)     | 월\~금    | 5분                  | 백율희                                           |
+| [MBC 17시 뉴스](https://mbcgn.kr/programme/radionews/p/BJnx9)     | 월\~금    | 5분                  | 김진철                                           |
+| [MBC 뉴스네트워크](../Page/MBC_뉴스네트워크.md "wikilink")                 | 월\~금    | 10분                 | [부산문화방송 보도국](../Page/부산문화방송.md "wikilink") 앵커 |
+| MBC 18시 뉴스                                                     | 토\~일    | 5분                  | 무작위 (창원 수중계)                                  |
+| [지리산의 메아리 (창원),(진주)](https://mbcgn.kr/programme/jirisan)       | 평일      | 5분                  | 오승철, 노명주                                      |
+| [오늘의 경남 (창원),(진주)](https://mbcgn.kr/programme/today_gn)        | 평일      | 45분                 | 김혜민                                           |
+| [당신의 저녁 (창원),(진주)](https://mbcgn.kr/programme/7vVdWbKReAM7RWK) | 월\~금    | 50분                 | 이다슬                                           |
 
 #### MBC경남 진주 FM4U
 
@@ -178,7 +180,8 @@
 
 <!-- end list -->
 
-  - 이준석 부장
+  - 이종승 국장
+  - 이준석 국장
   - 서윤식 부장
   - 신동식 부장
 

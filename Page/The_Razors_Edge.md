@@ -11,9 +11,15 @@
 
 《The Razors Edge》가 발매되면서 [AC/DC](https://ko.wikipedia.org/wiki/AC/DC "wikilink")는 [월드 투어를](https://ko.wikipedia.org/wiki/Razors_Edge_World_Tour "wikilink") 시작했는데, 아마도 그들이 한 것 중 가장 많이 알려진 투어를 했을 것이다. 투어의 성공은 〈[Thunderstruck](../Page/Thunderstruck.md "wikilink")〉, 〈[Moneytalks](https://ko.wikipedia.org/wiki/Moneytalks "wikilink")〉, 〈Fire Your Guns〉, 〈The Razor's Edge〉, 〈[Are You Ready](https://ko.wikipedia.org/wiki/Are_You_Ready_\(AC/DC의_노래\) "wikilink")〉와 같은 군중을 만족시키는 노래들에 의해 촉진되었는데, 이 곡들은 《AC/DC Live Collector's Edition》 음반에도 라이브 버전으로 수록되었다. Razors Edge Tour의 몇몇 쇼는 1992년 《[AC/DC Live](https://ko.wikipedia.org/wiki/AC/DC_Live "wikilink")》라는 제목의 라이브 음반을 위해 녹음되었다. 《AC/DC Live》는 페어번에 의해 프로듀싱을 맡았으며, 1990년대 최고의 라이브 음반 중 하나로 여겨진다.\[4\] AC/DC가 DVD로 발매된 [몬스터즈 오브 락](https://ko.wikipedia.org/wiki/몬스터즈_오브_락 "wikilink") 쇼의 제목을 《[Live at Donington](https://ko.wikipedia.org/wiki/Live_at_Donington_\(AC/DC의_음반\) "wikilink")》으로 붙인 것은 이 투어 기간 동안이다. 이 밴드는 또한 [모스크바](../Page/모스크바.md "wikilink")의 [투시노 비행장에서](https://ko.wikipedia.org/wiki/투시노_비행장 "wikilink") 열린 1991년 "락 어라운드 더 블럭" 축제에 100만 명에 가까운 팬들이 참석한 무료 콘서트라는 제목을 붙였다.
 
+## 상업적 성과 및 접수처
+
+《The Razors Edge》는 [빌보드 200](../Page/빌보드_200.md "wikilink") 차트 2위에 정점을 찍고 77주 연속 차트에 머물렀다. 영국 차트에서도 4위에 올랐다. 이 음반은 AC/DC를 이전의 영광으로 되돌리는 데 도움이 되었다. 현재 이 음반은 미국에서 500만장이 팔리며 플래티넘 5배로 인증했다. 이 음반은 전 세계적으로 약 1,000만 장에서 1,200만 장이 판매되어 AC/DC 음반 중 네 번째로 많이 팔렸다(《[Dirty Deeds Done Dirt Cheap](../Page/Dirty_Deeds_Done_Dirt_Cheap.md "wikilink")》, 《[Highway to Hell](../Page/Highway_to_Hell.md "wikilink")》, 《[Back in Black](../Page/Back_in_Black.md "wikilink")》에 이어, 《[Who Made Who](../Page/Who_Made_Who.md "wikilink")》에 앞서서).
+
+그 음반은 전반적으로 호평을 받았다. [올뮤직](../Page/올뮤직.md "wikilink")은 이 음반에 별 다섯 개 중 세 개를 주고 브라이언 존슨의 보컬 퍼포먼스와 앵거스 영의 기타 연주를 모두 칭찬했으며, 이 음반은 "반년 만에 가장 강력한 음반"이라고 말했다.\[5\] 《[엔터테인먼트 위클리](../Page/엔터테인먼트_위클리.md "wikilink")》 측은 "이 음반은 정말 전달되는 음반"이라며 A등급을 줬다.\[6\] 반면 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》은 이번 음반을 스타 5명 중 2명꼴로 선사하며 과거 AC/DC 작품과의 유사성을 비판하며 "《The Razors Edge》로 AC/DC는 새로운 아이디어 하나 없이 최장수 기록을 세웠다"고 밝혔다.\[7\] 2008년 《롤링 스톤》 표지 기사에서 [데이비드 프리케는](https://ko.wikipedia.org/wiki/데이비드_프리케 "wikilink") "오래된 아이디어들이 너무 자주 따뜻해진 것처럼 들리는 몇 장의 음반 후에, 이것은 앵거스의 말벌착용 전차와 함께 첫 곡에 나오는 거의 돌아오는 것이다."라고 썼다.
+
 ## 곡 목록
 
-모든 곡들은 [앵거스 영과](https://ko.wikipedia.org/wiki/앵거스_영 "wikilink") [맬컴 영이](https://ko.wikipedia.org/wiki/맬컴_영 "wikilink") 작사/작곡하였다.
+모든 곡들은 [앵거스 영과](https://ko.wikipedia.org/wiki/앵거스_영 "wikilink") [맬컴 영에](https://ko.wikipedia.org/wiki/맬컴_영 "wikilink") 의해 작사/작곡하였다.
 
 ## 각주
 
@@ -28,3 +34,6 @@
 2.  [Blabbermouth.Net – AC/DC: Classic Albums Reach New Sales Heights](http://www.roadrunnerrecords.com/blabbermouth.net/news.aspx?mode=Article&newsitemID=54094)
 3.
 4.
+5.
+6.
+7.

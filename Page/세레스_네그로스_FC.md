@@ -161,9 +161,9 @@
 
 유나이티드 풋볼 리그 디비전에서는, 구단에서 5명 이상의 비 필리핀 국적의 선수를 등록할 수 있다. [영주권](https://ko.wikipedia.org/wiki/영주권 "wikilink")을 얻은 외국인 선수들은 자국인으로 등록될 수 있다.
 
-  - 김상민
+  - [김상민](https://ko.wikipedia.org/wiki/김상민 "wikilink")
 
-  - 손용찬
+  - [손용찬](https://ko.wikipedia.org/wiki/손용찬 "wikilink")
 
   - 발렌틴 카마
 

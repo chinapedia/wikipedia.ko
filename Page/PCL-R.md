@@ -22,7 +22,7 @@
   - [형사정책연구 제25권 제4호(통권 제100호, 2014 ․ 겨울) 미국 법원에서 심리학 도구(사이코패시 체크리스트, PCL-R)의 역할에 대한 연구-2005\~2012](https://webcache.googleusercontent.com/search?q=cache:IepTqppyafgJ:https://www.kic.re.kr/cmm/fms/FileDown.do%3FatchFileId%3DFILE_000000960053992%26fileSn%3D10%26browser%3DMSIE+&cd=1&hl=en&ct=clnk&gl=kr)
   - [Guide to the Project Management Body of Knowledge -PMBOK® Guide](https://books.google.co.kr/books?id=TZNHDwAAQBAJ&pg=PT666&lpg=PT666&dq=%EC%A4%80%EA%B5%AC%EC%A1%B0%EC%A0%81+%EC%9D%B8%ED%84%B0%EB%B7%B0&source=bl&ots=cMU6iVzRbT&sig=ACfU3U0FZi2_VQAYClyS1qW3A6TcBEk48A&hl=en&sa=X&ved=2ahUKEwj3iJ2ToYniAhVbfd4KHWqRCuMQ6AEwAnoECAgQAQ#v=onepage&q=%EC%A4%80%EA%B5%AC%EC%A1%B0%EC%A0%81%20%EC%9D%B8%ED%84%B0%EB%B7%B0&f=false)
 
-[분류:심리학](https://ko.wikipedia.org/wiki/분류:심리학 "wikilink") [분류:정신의학](https://ko.wikipedia.org/wiki/분류:정신의학 "wikilink")
+[분류:임상 심리 검사](https://ko.wikipedia.org/wiki/분류:임상_심리_검사 "wikilink")
 
 1.
 2.

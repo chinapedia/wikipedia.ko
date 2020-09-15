@@ -15,7 +15,7 @@
 
   - Jorgenson, Ernst (1998). *Elvis Presley: A Life In Music – The Complete Recording Sessions*. New York: St. Martin's Press.
   - *Elvis Presley* Special Edition FTD CD In depth review : <http://www.elvisinfonet.com/ftdreview_ElvisPresleyDeluxe.html>
-  - *Elvis Presley* Special Edition FTD CD Information: <http://shop.elvis.com.au/prod1462.htm>
+  - *Elvis Presley* Special Edition FTD CD Information: <https://web.archive.org/web/20140517014400/http://shop.elvis.com.au/prod1462.htm>
 
 ## 외부 링크
 

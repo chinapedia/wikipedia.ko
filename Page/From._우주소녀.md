@@ -7,6 +7,6 @@
 
 ## 외부 링크
 
-  - [『From. 우주소녀』](http://www.melon.com/album/music.htm?albumId=10028121) : [MelOn](https://ko.wikipedia.org/wiki/멜론_\(웹사이트\) "wikilink") - 앨범 정보
+  - [『From. 우주소녀』](https://web.archive.org/web/20170306212834/http://www.melon.com/album/music.htm?albumId=10028121) : [MelOn](https://ko.wikipedia.org/wiki/멜론_\(웹사이트\) "wikilink") - 앨범 정보
 
 [분류:2017년 음반](https://ko.wikipedia.org/wiki/분류:2017년_음반 "wikilink") [분류:2017년 EP](https://ko.wikipedia.org/wiki/분류:2017년_EP "wikilink") [분류:우주소녀의 음반](https://ko.wikipedia.org/wiki/분류:우주소녀의_음반 "wikilink") [분류:카카오엠 음반](https://ko.wikipedia.org/wiki/분류:카카오엠_음반 "wikilink")

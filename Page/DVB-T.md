@@ -168,6 +168,7 @@
   -
   - \[28\]
 
+  -
 ### 아프리카
 
   -
@@ -215,7 +216,7 @@
 1.
 2.
 3.
-4.  *[El Espectador](https://ko.wikipedia.org/wiki/El_Espectador "wikilink")*, [Colombia adopta el estándar europeo para la tv digital terrestre](http://elespectador.com/node/34794/), 2008년 8월 28일
+4.  *[El Espectador](https://ko.wikipedia.org/wiki/El_Espectador "wikilink")*, [Colombia adopta el estándar europeo para la tv digital terrestre](http://elespectador.com/node/34794/) , 2008년 8월 28일
 5.  *Evaluamos*, [TV Digital no ha llegado a toda Colombia y la CNTV ya piensa en modificar la norma](http://www.evaluamos.com/2011/internal.php?load=detail&id=12557), July 2011
 6.
 7.

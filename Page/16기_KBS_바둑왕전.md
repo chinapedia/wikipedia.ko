@@ -7,11 +7,53 @@
 
 ## 대진표
 
-### 승자조
+### 승자조,패자조
 
-### 패자조
-
-### 결승전
+| 승자조                                                               | 최종 결승전                                                           |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 승자 1회전                                                            | 승자 2회전                                                           |
+| [백성호](../Page/백성호.md "wikilink") 九단                               | [백성호](../Page/백성호.md "wikilink") 九단                              |
+| [장수영](../Page/장수영.md "wikilink") 九단                               |                                                                  |
+| [이창호](../Page/이창호.md "wikilink") 九단                               |                                                                  |
+| [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink") 九단  | [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink") 九단 |
+| [김준영](https://ko.wikipedia.org/wiki/김준영_\(바둑_기사\) "wikilink") 三단  |                                                                  |
+| [정수현](../Page/정수현.md "wikilink") 九단                               |                                                                  |
+| (故)[임선근](../Page/임선근.md "wikilink") 八단                            | (故)[임선근](../Page/임선근.md "wikilink") 八단                           |
+| [윤기현](https://ko.wikipedia.org/wiki/윤기현 "wikilink") 九단            |                                                                  |
+| [하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 八단            |                                                                  |
+| [백대현](https://ko.wikipedia.org/wiki/백대현 "wikilink") 三단            | [백대현](https://ko.wikipedia.org/wiki/백대현 "wikilink") 三단           |
+| [강훈](https://ko.wikipedia.org/wiki/강훈_\(1957년\) "wikilink")(大) 九단 |                                                                  |
+| [조대현](https://ko.wikipedia.org/wiki/조대현_\(바둑_기사\) "wikilink") 八단  |                                                                  |
+| [양재호](https://ko.wikipedia.org/wiki/양재호 "wikilink") 九단            | [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                    |
+| [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                     |                                                                  |
+| [허장회](https://ko.wikipedia.org/wiki/허장회 "wikilink") 八단            |                                                                  |
+| [서능욱](../Page/서능욱.md "wikilink") 九단                               | [서능욱](../Page/서능욱.md "wikilink") 九단                              |
+| [오송생](https://ko.wikipedia.org/wiki/오송생 "wikilink") 九단            |                                                                  |
+| [유창혁](../Page/유창혁.md "wikilink") 九단                               |                                                                  |
+| [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 七단            | [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 七단           |
+| [서봉수](../Page/서봉수.md "wikilink") 九단                               |                                                                  |
+| [조훈현](../Page/조훈현.md "wikilink") 九단                               |                                                                  |
+| [정현산](https://ko.wikipedia.org/wiki/정현산 "wikilink") 六단            | [김동엽](https://ko.wikipedia.org/wiki/김동엽_\(바둑_기사\) "wikilink") 七단 |
+| [김동엽](https://ko.wikipedia.org/wiki/김동엽_\(바둑_기사\) "wikilink") 七단  |                                                                  |
+| [김영환](https://ko.wikipedia.org/wiki/김영환_\(바둑_기사\) "wikilink") 四단  |                                                                  |
+| 패자조                                                               |                                                                  |
+| 패자 1회전                                                            | 패자 2회전                                                           |
+| [백성호](../Page/백성호.md "wikilink") 九단                               | [김영환](https://ko.wikipedia.org/wiki/김영환_\(바둑_기사\) "wikilink") 四단 |
+| [김영환](https://ko.wikipedia.org/wiki/김영환_\(바둑_기사\) "wikilink") 四단  |                                                                  |
+| [백대현](https://ko.wikipedia.org/wiki/백대현 "wikilink") 三단            |                                                                  |
+| [정수현](../Page/정수현.md "wikilink") 九단                               | [정수현](../Page/정수현.md "wikilink") 九단                              |
+| [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 七단            |                                                                  |
+| [서능욱](../Page/서능욱.md "wikilink") 九단                               |                                                                  |
+| [하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 八단            |                                                                  |
+| (故)[임선근](../Page/임선근.md "wikilink") 八단                            | [유창혁](../Page/유창혁.md "wikilink") 九단                              |
+| [유창혁](../Page/유창혁.md "wikilink") 九단                               |                                                                  |
+| [김동엽](https://ko.wikipedia.org/wiki/김동엽_\(바둑_기사\) "wikilink") 七단  |                                                                  |
+| [조대현](https://ko.wikipedia.org/wiki/조대현_\(바둑_기사\) "wikilink") 八단  | [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink") 九단 |
+| [허장회](https://ko.wikipedia.org/wiki/허장회 "wikilink") 八단            |                                                                  |
+| [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink") 九단  |                                                                  |
+| [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                     |                                                                  |
+| [조훈현](../Page/조훈현.md "wikilink") 九단                               |                                                                  |
+|                                                                   |                                                                  |
 
 ## 대국 결과
 
@@ -29,7 +71,7 @@
 | [김준영](https://ko.wikipedia.org/wiki/김준영_\(바둑_기사\) "wikilink") 二단 | [김종수](https://ko.wikipedia.org/wiki/김종수_\(바둑_기사\) "wikilink") 四단 | 270수 백 2집반승                                                      |                                                                  |             |    |    |
 | [임선근](../Page/임선근.md "wikilink") 八단                              | [박영찬](https://ko.wikipedia.org/wiki/박영찬_\(바둑_기사\) "wikilink") 二단 |                                                                  |                                                                  |             |    |    |
 | 7월 21일                                                           | [정현산](https://ko.wikipedia.org/wiki/정현산 "wikilink") 六단           | [최규병](https://ko.wikipedia.org/wiki/최규병 "wikilink") 八단           | 178수 백 불계승                                                       |             |    |    |
-| [하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 八단           | [윤현석](https://ko.wikipedia.org/wiki/윤현석_\(바둑_기사\) "wikilink") 四단 | 270수 백2집반승                                                       |                                                                  |             |    |    |
+| [하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 八단           | [윤현석](https://ko.wikipedia.org/wiki/윤현석_\(바둑_기사\) "wikilink") 四단 | 270수 백 2집반승                                                      |                                                                  |             |    |    |
 | [김영환](https://ko.wikipedia.org/wiki/김영환_\(바둑_기사\) "wikilink") 四단 | [김일환](https://ko.wikipedia.org/wiki/김일환_\(바둑_기사\) "wikilink") 七단 |                                                                  |                                                                  |             |    |    |
 | 7월 25일                                                           | [김동엽](https://ko.wikipedia.org/wiki/김동엽_\(바둑_기사\) "wikilink") 六단 | [노영하](../Page/노영하.md "wikilink") 八단                              |                                                                  |             |    |    |
 | 7월 28일                                                           | [허장회](https://ko.wikipedia.org/wiki/허장회 "wikilink") 八단           | [김재구](../Page/김재구.md "wikilink") 八단                              | 245수 흑 불계승                                                       |             |    |    |

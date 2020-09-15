@@ -13,7 +13,7 @@ LG G5 SE는 [안드로이드 6.0.1 마시멜로를](https://ko.wikipedia.org/wik
 
 ### 모듈형 교체 배터리
 
-(LG HI-FI PLUS With B\&O PLAY) B&0 튜닝 HI-FI DAC+AMP 32bit 음원 재생,업비트/업샘플링 지원
+(LG HI-FI PLUS With B\&O PLAY) B&0 튜닝 HI-FI DAC+AMP 32bit 음원 재생,업비트/업샘플링 지원.
 
 ### 전문가 모드
 

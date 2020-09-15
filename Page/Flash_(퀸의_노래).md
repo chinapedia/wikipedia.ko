@@ -13,7 +13,7 @@
 
 ## 외부 링크
 
-[분류:1980년 노래](https://ko.wikipedia.org/wiki/분류:1980년_노래 "wikilink") [분류:1980년 싱글](https://ko.wikipedia.org/wiki/분류:1980년_싱글 "wikilink") [분류:1981년 싱글](https://ko.wikipedia.org/wiki/분류:1981년_싱글 "wikilink") [분류:퀸의 노래](https://ko.wikipedia.org/wiki/분류:퀸의_노래 "wikilink") [분류:브라이언 메이가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:브라이언_메이가_작곡한_노래 "wikilink") [분류:듀엣 노래](https://ko.wikipedia.org/wiki/분류:듀엣_노래 "wikilink") [분류:영화 삽입곡](https://ko.wikipedia.org/wiki/분류:영화_삽입곡 "wikilink") [분류:우주 공간을 소재로 한 노래‎](https://ko.wikipedia.org/wiki/분류:우주_공간을_소재로_한_노래‎ "wikilink")
+[분류:1980년 노래](https://ko.wikipedia.org/wiki/분류:1980년_노래 "wikilink") [분류:1980년 싱글](https://ko.wikipedia.org/wiki/분류:1980년_싱글 "wikilink") [분류:1981년 싱글](https://ko.wikipedia.org/wiki/분류:1981년_싱글 "wikilink") [분류:퀸의 노래](https://ko.wikipedia.org/wiki/분류:퀸의_노래 "wikilink") [분류:브라이언 메이가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:브라이언_메이가_작곡한_노래 "wikilink") [분류:듀엣 노래](https://ko.wikipedia.org/wiki/분류:듀엣_노래 "wikilink") [분류:영화 삽입곡](https://ko.wikipedia.org/wiki/분류:영화_삽입곡 "wikilink") [분류:우주 공간을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:우주_공간을_소재로_한_노래 "wikilink")
 
 1.  ["Queen: Greatest Hits"](http://www.allmusic.com/album/r413002). Allmusic. Retrieved 12 May 2012
 2.

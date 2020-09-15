@@ -16,7 +16,7 @@
   - *L. f. graellsii* – <small>[Brehm](https://ko.wikipedia.org/wiki/:en:Alfred_Brehm "wikilink"), 1857</small>: [그린란드](../Page/그린란드.md "wikilink"), [아이슬란드](../Page/아이슬란드.md "wikilink"), [페로 제도](../Page/페로_제도.md "wikilink"), [브리튼 제도](../Page/브리튼_제도.md "wikilink") 등
   - *L. f. intermedius* – <small>Schiøler, 1922</small>: [네덜란드](../Page/네덜란드.md "wikilink"), [독일](../Page/독일.md "wikilink"), [덴마크](../Page/덴마크.md "wikilink"), [스웨덴](../Page/스웨덴.md "wikilink") 남서부, [노르웨이](../Page/노르웨이.md "wikilink") 서부 등
   - *L. f. fuscus* – <small>[Linnaeus](../Page/칼_폰_린네.md "wikilink"), 1758</small>: 노르웨이 북부, 스웨덴, [핀란드](../Page/핀란드.md "wikilink"), [백해](https://ko.wikipedia.org/wiki/백해 "wikilink") 등
-  - *[Heuglin's gull](https://ko.wikipedia.org/wiki/줄무늬노랑발갈매기_\(Heuglin's_Gull\) "wikilink")* – <small>Bree, 1876</small>: [러시아](../Page/러시아.md "wikilink") 북부, [시베리아](../Page/시베리아.md "wikilink") 중부 등
+  - *[Heuglin's gull](../Page/줄무늬노랑발갈매기_\(Heuglin's_Gull\).md "wikilink")* – <small>Bree, 1876</small>: [러시아](../Page/러시아.md "wikilink") 북부, [시베리아](../Page/시베리아.md "wikilink") 중부 등
   - *L. f. barabensis* – <small>[Johansen](https://ko.wikipedia.org/wiki/:en:Hans_Johansen "wikilink"), 1960</small>: [중앙아시아](../Page/중앙아시아.md "wikilink")
 
 ## 개요
@@ -25,7 +25,7 @@
 
 ## 사진
 
-파일:Lesser black-backed gull (Larus fuscus intermedius) in flight composite.jpg|*L. f. intermedius* (비행 중), [스웨덴](../Page/스웨덴.md "wikilink") 파일:Goeland adulte et juvénile.jpg|어미갈매기와 새끼 파일:Lesser black-backed gull 2015.jpg|확대한 모습 파일:Lesser black-backed gull (Larus fuscus graellsii).jpg|*L. f. graellsii* 성체, [모로코](../Page/모로코.md "wikilink") 파일:Lesser black-backed gull (Larus fuscus graellsii) young adult in flight.jpg|*L. f. graellsii* 어린 성체, [모로코](../Page/모로코.md "wikilink")
+파일:Lesser black-backed gull (Larus fuscus intermedius) in flight composite.jpg|*L. f. intermedius* (비행 중), [스웨덴](../Page/스웨덴.md "wikilink") 파일:Goeland adulte et juvénile.jpg|어미갈매기와 새끼 파일:Lesser black-backed gull 2015.jpg|확대한 모습 파일:Lesser black-backed gull (Larus fuscus graellsii).jpg|*L. f. graellsii* 성체, [모로코](../Page/모로코.md "wikilink") 파일:Lesser black-backed gull (Larus fuscus graellsii) young adult in flight.jpg|*L. f. graellsii* 어린 성체, [모로코](../Page/모로코.md "wikilink") Larus fuscus graellsii MHNT.ZOO.2010.11.122.15.jpg |Museum specimen
 
 ## 각주
 

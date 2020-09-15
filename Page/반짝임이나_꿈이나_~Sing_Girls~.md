@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - TV 애니메이션 《[BanG Dream\!](../Page/BanG_Dream!.md "wikilink")》 1기 여는 곡
+  - TV 애니메이션 《[BanG Dream\!](../Page/BanG_Dream!.md "wikilink")》 1기 닫는 곡
   - TV 방송 《월간 부시로드 TV with BanG Dream\!》 닫는 곡
 
 ## 주간차트

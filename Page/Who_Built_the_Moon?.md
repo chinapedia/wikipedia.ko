@@ -19,6 +19,8 @@
 
 ## 외부 링크
 
+  -
+  -
 [분류:2017년 음반](https://ko.wikipedia.org/wiki/분류:2017년_음반 "wikilink") [분류:노엘 갤러거스 하이 플라잉 버즈의 음반](https://ko.wikipedia.org/wiki/분류:노엘_갤러거스_하이_플라잉_버즈의_음반 "wikilink")
 
 1.

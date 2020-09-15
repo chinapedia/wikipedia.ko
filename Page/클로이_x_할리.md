@@ -7,12 +7,23 @@
 
 ## 음반 목록
 
+### 정규 앨범
+
   - *The Kids Are Alright* (2018)
+  - *Ungodly Hour* (2020)
+
+### EP
+
+  - *Uncovered* (2013)
+  - *Sugar Symphony* (2016)
+
+### 믹스테잎
+
+  - *The Two of Us* (2017)
 
 ## 외부 링크
 
   -
-
   -
 
   -
@@ -23,4 +34,6 @@
 
   -
 
-[분류:1998년 태어남](https://ko.wikipedia.org/wiki/분류:1998년_태어남 "wikilink") [분류:2000년 태어남](https://ko.wikipedia.org/wiki/분류:2000년_태어남 "wikilink") [분류:2008년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2008년_결성된_음악_그룹 "wikilink") [분류:미국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:미국의_걸_그룹 "wikilink") [분류:미국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:미국의_힙합_그룹 "wikilink") [분류:미국의 배우](https://ko.wikipedia.org/wiki/분류:미국의_배우 "wikilink") [분류:형제자매 듀오](https://ko.wikipedia.org/wiki/분류:형제자매_듀오 "wikilink") [분류:아프리카계 미국인 음악 그룹](https://ko.wikipedia.org/wiki/분류:아프리카계_미국인_음악_그룹 "wikilink") [분류:애틀랜타 출신 음악가](https://ko.wikipedia.org/wiki/분류:애틀랜타_출신_음악가 "wikilink") [분류:자매](https://ko.wikipedia.org/wiki/분류:자매 "wikilink") [분류:아프리카계 미국인](https://ko.wikipedia.org/wiki/분류:아프리카계_미국인 "wikilink")
+  -
+
+[분류:1998년 태어남](https://ko.wikipedia.org/wiki/분류:1998년_태어남 "wikilink") [분류:2000년 태어남](https://ko.wikipedia.org/wiki/분류:2000년_태어남 "wikilink") [분류:2008년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2008년_결성된_음악_그룹 "wikilink") [분류:미국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:미국의_걸_그룹 "wikilink") [분류:미국의 힙합 그룹](https://ko.wikipedia.org/wiki/분류:미국의_힙합_그룹 "wikilink") [분류:형제자매 듀오](https://ko.wikipedia.org/wiki/분류:형제자매_듀오 "wikilink") [분류:아프리카계 미국인 음악 그룹](https://ko.wikipedia.org/wiki/분류:아프리카계_미국인_음악_그룹 "wikilink") [분류:애틀랜타 출신 음악가](https://ko.wikipedia.org/wiki/분류:애틀랜타_출신_음악가 "wikilink")

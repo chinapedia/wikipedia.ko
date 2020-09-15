@@ -38,8 +38,8 @@
 11.
 12.
 13. [IKAROS and Solar Power Sail-Craft Missions for Outer Planetary Region Exploration](https://solarsystem.nasa.gov/docs/1_11_IKAROS%20and%20SOlar%20Power%20Sail-Craft%20Missions%20for%20Outer%20Planetary%20Region%20Exploration_J.%20Kawaguchi.pdf)  (PDF). J. Kawaguchi (JAXA). 15 June 2015.
-14. [JAXA Sail to Jupiter's Trojan Asteroids](https://www.centauri-dreams.org/?p=37322). Paul Gilster, *Centauri Dreams*. 15 March 2017.
-15. [Trajectory Design for Jovian Trojan Asteroid Exploration via Solar Power Sail](http://www.jsforum.or.jp/ISSS2017/papers/paper/17086_Paper_Dr.%20Takanao%20Saiki.pdf) (PDF). Takanao Saiki, Osam Mori. The [Institute of Space and Astronautical Science](https://ko.wikipedia.org/wiki/Institute_of_Space_and_Astronautical_Science "wikilink") (ISAS), [JAXA](https://ko.wikipedia.org/wiki/JAXA "wikilink"). 2017.
+14. [JAXA Sail to Jupiter's Trojan Asteroids](https://www.centauri-dreams.org/?p=37322) . Paul Gilster, *Centauri Dreams*. 15 March 2017.
+15. [Trajectory Design for Jovian Trojan Asteroid Exploration via Solar Power Sail](http://www.jsforum.or.jp/ISSS2017/papers/paper/17086_Paper_Dr.%20Takanao%20Saiki.pdf)  (PDF). Takanao Saiki, Osam Mori. The [Institute of Space and Astronautical Science](https://ko.wikipedia.org/wiki/Institute_of_Space_and_Astronautical_Science "wikilink") (ISAS), [JAXA](https://ko.wikipedia.org/wiki/JAXA "wikilink"). 2017.
 16.
 17. [Huge sail will power JAXA mission to Trojan asteroids and back](https://www.japantimes.co.jp/news/2016/07/21/national/science-health/huge-sail-will-power-jaxa-mission-trojan-asteroids-back/#.WkKUXpWWwY8). Shusuke Murai, *The Japan Times.* 21 July 2016.
 18.

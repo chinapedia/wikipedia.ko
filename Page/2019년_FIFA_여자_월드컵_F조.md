@@ -622,7 +622,7 @@
 베르나데타르 크윔비라 (<a href="https://ko.wikipedia.org/wiki/말라위_축구_협회" title="wikilink">말라위</a>)<br />
 리드위네 라코토자피노로 (<a href="https://ko.wikipedia.org/wiki/마다가스카르_축구_연맹" title="wikilink">마다가스카르</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/쿨차르_커털린" title="wikilink">쿨차르 커털린</a> (<a href="https://ko.wikipedia.org/wiki/헝가리_축구_연맹" title="wikilink">헝가리</a>)<br />
+<a href="../Page/쿨차르_커털린.md" title="wikilink">쿨차르 커털린</a> (<a href="https://ko.wikipedia.org/wiki/헝가리_축구_연맹" title="wikilink">헝가리</a>)<br />
 <strong>보조 대기심:</strong><br />
 퇴뢰크 커털린 (<a href="https://ko.wikipedia.org/wiki/헝가리_축구_연맹" title="wikilink">헝가리</a>)<br />
 <strong>비디오 판독심:</strong><br />

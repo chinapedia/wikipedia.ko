@@ -63,6 +63,6 @@ public class Javafxtuts extends Application {
   -
   - [OpenJFX website](http://openjdk.java.net/projects/openjfx/)
 
-[분류:자바 (프로그래밍 언어)](https://ko.wikipedia.org/wiki/분류:자바_\(프로그래밍_언어\) "wikilink") [분류:오라클 소프트웨어](https://ko.wikipedia.org/wiki/분류:오라클_소프트웨어 "wikilink")
+[분류:자바 (프로그래밍 언어)](https://ko.wikipedia.org/wiki/분류:자바_\(프로그래밍_언어\) "wikilink") [분류:오라클 소프트웨어](https://ko.wikipedia.org/wiki/분류:오라클_소프트웨어 "wikilink") [분류:썬 마이크로시스템즈 소프트웨어](https://ko.wikipedia.org/wiki/분류:썬_마이크로시스템즈_소프트웨어 "wikilink")
 
 1.

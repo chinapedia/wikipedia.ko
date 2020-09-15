@@ -102,7 +102,7 @@
   - 52-2번 [SmileTV Plus](../Page/SmileTV_Plus.md "wikilink") HD
   - 53-1번 [K Star](https://ko.wikipedia.org/wiki/K_Star "wikilink")
   - 54-1번 [JTBC4](https://ko.wikipedia.org/wiki/JTBC4 "wikilink")
-  - 55-1번 [CTS 기독교TV](https://ko.wikipedia.org/wiki/CTS_\(대한민국의_방송사\) "wikilink")
+  - 55-1번 [CTS 기독교TV](../Page/CTS기독교TV.md "wikilink")
   - 56-1번 [BTN불교TV](https://ko.wikipedia.org/wiki/불교TV "wikilink")
   - 57-1번 [평화방송](https://ko.wikipedia.org/wiki/평화방송 "wikilink")
   - 58-1번 [리빙TV](https://ko.wikipedia.org/wiki/리빙TV "wikilink")
@@ -256,7 +256,7 @@
   - 445번 - [FOX Life](https://ko.wikipedia.org/wiki/FOX_Life "wikilink") HD
   - 786번 - [채널뷰](../Page/채널뷰.md "wikilink") HD
   - 783번 - [히스토리](../Page/히스토리_\(텔레비전_채널\).md "wikilink") HD
-  - 789번 - [CTS 기독교TV](https://ko.wikipedia.org/wiki/CTS_\(대한민국의_방송사\) "wikilink") HD
+  - 789번 - [CTS 기독교TV](../Page/CTS기독교TV.md "wikilink") HD
   - 790번 - [BTN불교TV](https://ko.wikipedia.org/wiki/불교TV "wikilink") HD
   - 791번 - [CBSTV](../Page/CBS_\(대한민국의_방송사\).md "wikilink") HD
   - 792번 - [가톨릭평화방송](../Page/가톨릭평화방송.md "wikilink") HD

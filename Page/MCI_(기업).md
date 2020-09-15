@@ -20,6 +20,6 @@
   - [Verizon Enterprise Solutions corporate website](http://www.verizonenterprise.com/)
   - [William McGowan's MCI: 1968 to 1991](http://www.hagley.org/library/exhibits/MCI/)
 
-[분류:1983년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1983년_설립된_기업 "wikilink") [분류:기업 범죄](https://ko.wikipedia.org/wiki/분류:기업_범죄 "wikilink")
+[분류:1983년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1983년_설립된_기업 "wikilink") [분류:기업 범죄](https://ko.wikipedia.org/wiki/분류:기업_범죄 "wikilink") [분류:미시시피주의 기업](https://ko.wikipedia.org/wiki/분류:미시시피주의_기업 "wikilink") [분류:버지니아주의 기업](https://ko.wikipedia.org/wiki/분류:버지니아주의_기업 "wikilink")
 
 1.  [Verizon closes book on MCI merger](http://news.cnet.com/Verizon-closes-book-on-MCI-merger/2100-1037_3-6003498.html). News.cnet.com. January 6, 2006. Retrieved on 2011-12-10.

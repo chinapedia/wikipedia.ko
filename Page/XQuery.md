@@ -36,7 +36,7 @@
 
 ## 외부 링크
 
-  - [W3C XML Query (XQuery)](http://www.w3.org/XML/Query)
+  - [W3C XML Query (XQuery)](https://web.archive.org/web/20071101080719/http://www.w3.org/XML/Query/)
   - [XQuery tutorial](https://www.w3schools.com/xml/xquery_intro.asp)
   - [XQuery API for Java](https://ko.wikipedia.org/wiki/XQuery_API_for_Java "wikilink") (XQJ) [자바 커뮤니티 프로세스](../Page/자바_커뮤니티_프로세스.md "wikilink")
   - [hamlet.xml](http://www.ibiblio.org/xml/examples/shakespeare/hamlet.xml) Hamlet in XML Format

@@ -11,8 +11,8 @@
 
 ## 앵커
 
-  - [황인성](../Page/황인성.md "wikilink") 아나운서 (남)
-  - [박서현](https://ko.wikipedia.org/wiki/박서현 "wikilink") 아나운서 (여)
+  - [정예지](../Page/정예지.md "wikilink") 아나운서 (여)
+  - [김민광](https://ko.wikipedia.org/wiki/김민광 "wikilink") 아나운서 (남)
 
 ## 타이틀 변천사
 

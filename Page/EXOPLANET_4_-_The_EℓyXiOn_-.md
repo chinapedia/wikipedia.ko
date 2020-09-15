@@ -5,7 +5,7 @@
 
 ## 개요
 
-2017년 10월 19일, SM 엔터테인먼트는 [EXO](../Page/EXO.md "wikilink") 공식 홈페이지를 통해 EXO의 네 번째 단독 콘서트 일정을 발표하였으며,\[1\] 티켓 예매는 10월 25일에 [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다. EXO는 본 콘서트 투어를 통해 3회에 걸쳐 고척 스카이돔 무대에 오르는 위업을 달성하게 되었으며 25회의 공연과 함께 497,860명의 누적 관객을 동원하였다.
+2017년 10월 19일, SM 엔터테인먼트는 [EXO](../Page/EXO.md "wikilink") 공식 홈페이지를 통해 EXO의 네 번째 단독 콘서트 일정을 발표하였으며,\[1\] 티켓 예매는 10월 25일에 [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다. EXO는 본 콘서트 투어를 통해 3회에 걸쳐 고척 스카이돔 무대에 오르는 위업을 달성하게 되었으며 25회의 공연과 함께 497,868명의 누적 관객을 동원하였다.
 
 ## The EℓyXiOn \[dot\]
 
@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p>2017년 12월 22일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/후쿠오카" title="wikilink">후쿠오카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/복강" title="wikilink">복강</a></p></td>
 <td></td>
 <td><p>마린 멧세 후쿠오카</p></td>
 <td><p>통산 36,546명</p></td>
@@ -68,8 +68,8 @@
 </tr>
 <tr class="odd">
 <td><p>2018년 1월 27일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사이타마" title="wikilink">사이타마</a></p></td>
-<td><p><a href="../Page/사이타마_슈퍼_아레나.md" title="wikilink">사이타마 슈퍼 아레나</a> [4]</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/기옥" title="wikilink">기옥</a></p></td>
+<td><p><a href="../Page/사이타마_슈퍼_아레나.md" title="wikilink">사이타마 슈퍼 아레나</a> 스타디움 모드 [4]</p></td>
 <td><p>통산 58,674명</p></td>
 <td></td>
 </tr>
@@ -82,7 +82,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018년 2월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/타이베이" title="wikilink">타이베이</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대북" title="wikilink">대북</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/타이베이_아레나" title="wikilink">타이베이 아레나</a></p></td>
 <td><p>통산 25,352명</p></td>
@@ -96,7 +96,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018년 2월 23일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/오사카" title="wikilink">오사카</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대판" title="wikilink">대판</a></p></td>
 <td></td>
 <td><p><a href="../Page/오사카_돔.md" title="wikilink">쿄세라 돔 오사카</a></p></td>
 <td><p>통산 90,586명</p></td>
@@ -169,7 +169,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td></td>
 <td><p><a href="../Page/고척스카이돔.md" title="wikilink">고척스카이돔</a>[10]<small>[dot]</small></p></td>
-<td><p>통산 75,562명</p></td>
+<td><p>통산 75,570명</p></td>
 </tr>
 <tr class="even">
 <td><p>2018년 7월 14일</p></td>

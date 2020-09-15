@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [제임스 K. A. 스미스](https://ko.wikipedia.org/wiki/제임스_K._A._스미스).
 
 
-**제임스 K. A. 스미스**(James K. A. Smith, 1970년 - )는 캐나다 태생의 미국의 철학자이며\[1\] 현재 미국 [캘빈 칼리지](https://ko.wikipedia.org/wiki/캘빈_칼리지 "wikilink") 에서 [개혁신학](https://ko.wikipedia.org/wiki/개혁신학 "wikilink")과 [세계관](../Page/세계관.md "wikilink")을 강의하고 있다. 그는 [급진 정통주의](https://ko.wikipedia.org/wiki/급진_정통주의 "wikilink") 그리고 포스트모던 기독교안에서 신학적 철학적 운동과 관련하여 유명한 인물이다.\[2\] 그의 작품은 철학, 신학, 윤리, 미학, 과학 및 정치 사이의 경계지대에서 수행되고 있다. [대륙 철학으로부터](../Page/대륙_철학.md "wikilink") 도움을 받고 [어거스틴](https://ko.wikipedia.org/wiki/어거스틴 "wikilink"), [장 칼뱅부터](https://ko.wikipedia.org/wiki/장_칼뱅 "wikilink") [조나단 에드워즈](https://ko.wikipedia.org/wiki/조나단_에드워즈 "wikilink") 그리고 [아브라함 카이퍼까지로](../Page/아브라함_카이퍼.md "wikilink") 이어지는 어거스틴의 신학적 문화적 전통속에서 그의 관심은 교회의 실천과 교회가 문화에 대한 증인이 되는 것이었다. 이것이 그가 말하는 소위 문화적 예전을 해석하고 이해할 필요을 보여주는 것이었다.\[3\]
+**제임스 K. A. 스미스**(James K. A. Smith, 1970년 - )는 캐나다 태생의 미국의 철학자이며\[1\] 현재 미국 [캘빈 칼리지](https://ko.wikipedia.org/wiki/캘빈_칼리지 "wikilink") 에서 [개혁신학](https://ko.wikipedia.org/wiki/개혁신학 "wikilink")과 [세계관](../Page/세계관.md "wikilink")을 강의하고 있다. 그는 [급진 정통주의](../Page/급진_정통주의.md "wikilink") 그리고 포스트모던 기독교안에서 신학적 철학적 운동과 관련하여 유명한 인물이다.\[2\] 그의 작품은 철학, 신학, 윤리, 미학, 과학 및 정치 사이의 경계지대에서 수행되고 있다. [대륙 철학으로부터](../Page/대륙_철학.md "wikilink") 도움을 받고 [어거스틴](https://ko.wikipedia.org/wiki/어거스틴 "wikilink"), [장 칼뱅부터](https://ko.wikipedia.org/wiki/장_칼뱅 "wikilink") [조나단 에드워즈](https://ko.wikipedia.org/wiki/조나단_에드워즈 "wikilink") 그리고 [아브라함 카이퍼까지로](../Page/아브라함_카이퍼.md "wikilink") 이어지는 어거스틴의 신학적 문화적 전통속에서 그의 관심은 교회의 실천과 교회가 문화에 대한 증인이 되는 것이었다. 이것이 그가 말하는 소위 문화적 예전을 해석하고 이해할 필요을 보여주는 것이었다.\[3\]
 
 ## 생애와 교육
 

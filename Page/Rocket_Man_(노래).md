@@ -24,7 +24,7 @@
 ## 외부 링크
 
   -
-[분류:1972년 노래](https://ko.wikipedia.org/wiki/분류:1972년_노래 "wikilink") [분류:1972년 싱글](https://ko.wikipedia.org/wiki/분류:1972년_싱글 "wikilink") [분류:1980년 싱글](https://ko.wikipedia.org/wiki/분류:1980년_싱글 "wikilink") [분류:1991년 싱글](https://ko.wikipedia.org/wiki/분류:1991년_싱글 "wikilink") [분류:1992년 싱글](https://ko.wikipedia.org/wiki/분류:1992년_싱글 "wikilink") [분류:엘튼 존의 노래](https://ko.wikipedia.org/wiki/분류:엘튼_존의_노래 "wikilink") [분류:우주 공간을 소재로 한 노래‎](https://ko.wikipedia.org/wiki/분류:우주_공간을_소재로_한_노래‎ "wikilink") [분류:록 발라드](https://ko.wikipedia.org/wiki/분류:록_발라드 "wikilink") [분류:머큐리 레코드 싱글](https://ko.wikipedia.org/wiki/분류:머큐리_레코드_싱글 "wikilink")
+[분류:1972년 노래](https://ko.wikipedia.org/wiki/분류:1972년_노래 "wikilink") [분류:1972년 싱글](https://ko.wikipedia.org/wiki/분류:1972년_싱글 "wikilink") [분류:1980년 싱글](https://ko.wikipedia.org/wiki/분류:1980년_싱글 "wikilink") [분류:1991년 싱글](https://ko.wikipedia.org/wiki/분류:1991년_싱글 "wikilink") [분류:1992년 싱글](https://ko.wikipedia.org/wiki/분류:1992년_싱글 "wikilink") [분류:엘튼 존의 노래](https://ko.wikipedia.org/wiki/분류:엘튼_존의_노래 "wikilink") [분류:우주 공간을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:우주_공간을_소재로_한_노래 "wikilink") [분류:록 발라드](https://ko.wikipedia.org/wiki/분류:록_발라드 "wikilink") [분류:머큐리 레코드 싱글](https://ko.wikipedia.org/wiki/분류:머큐리_레코드_싱글 "wikilink")
 
 1.
 2.

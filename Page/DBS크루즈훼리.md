@@ -16,8 +16,8 @@
 
 하나의 선박으로 격일 단위로 주 1회 운항하고 있는 노선이다.
 
-  - [동해항](../Page/동해항국제여객터미널.md "wikilink") - [일본](../Page/일본.md "wikilink") [사카이미나토항](https://ko.wikipedia.org/wiki/사카이항 "wikilink")\[1\]
-  - [동해항](../Page/동해항국제여객터미널.md "wikilink") - [일본](../Page/일본.md "wikilink") [마이즈루항](https://ko.wikipedia.org/wiki/마이즈루항 "wikilink")
+  - [동해항](../Page/동해항국제여객터미널.md "wikilink") - [일본](../Page/일본.md "wikilink") [사카이미나토항](../Page/사카이항.md "wikilink")\[1\]
+  - [동해항](../Page/동해항국제여객터미널.md "wikilink") - [일본](../Page/일본.md "wikilink") [마이즈루항](../Page/마이즈루항.md "wikilink")
   - [동해항](../Page/동해항국제여객터미널.md "wikilink") - [러시아](../Page/러시아.md "wikilink") [블라디보스토크항](https://ko.wikipedia.org/wiki/블라디보스토크항 "wikilink")\[2\]
 
 ## 보유 선박

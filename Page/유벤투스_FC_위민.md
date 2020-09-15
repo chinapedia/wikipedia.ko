@@ -40,6 +40,6 @@
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.juventus.com/en/news/special/juventus-women.php)
+  - [공식 웹사이트](https://web.archive.org/web/20170816191836/http://www.juventus.com/en/news/special/juventus-women.php)
 
 [분류:2017년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2017년_설립된_축구단 "wikilink") [분류:이탈리아의 여자 축구단](https://ko.wikipedia.org/wiki/분류:이탈리아의_여자_축구단 "wikilink") [분류:유벤투스 FC](https://ko.wikipedia.org/wiki/분류:유벤투스_FC "wikilink")

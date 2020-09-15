@@ -213,23 +213,23 @@ GeoJSON은 [GPX](../Page/GPX.md "wikilink")와 호환되면서도, [XML](../Page
 [분류:지리 정보 시스템](https://ko.wikipedia.org/wiki/분류:지리_정보_시스템 "wikilink") [분류:자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_소프트웨어 "wikilink") [분류:JSON](https://ko.wikipedia.org/wiki/분류:JSON "wikilink")
 
 1.  [The GeoJSON Format](https://tools.ietf.org/html/rfc7946)
-2.  <http://geojson.org/>
+2.
 3.  <https://tools.ietf.org/html/rfc7946>
 4.  [OSM](https://wiki.openstreetmap.org/wiki/GeoJSON)
 5.  [iOS Location and Maps Programming Guide](https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/ProvidingDirections/ProvidingDirections.html)
-6.  [The GeoJSON Discussion List](http://lists.geojson.org/listinfo.cgi/geojson-geojson.org)
+6.
 7.  [lon,lat-4. Coordinate Reference System](https://tools.ietf.org/html/rfc7946#section-1.3)
-8.  [March 2007 Archives by thread](http://lists.geojson.org/pipermail/geojson-geojson.org/2007-March/thread.html)
+8.
 9.  <https://datatracker.ietf.org/wg/geojson/history/>
 10. [mapbox,OSRM](http://geojson.io/#map=5/3.755/99.580)
 11.
 12. <http://mapserver.org/output/template_output.html>
-13. <http://leafletjs.com/reference.html#geojson>
+13.
 14.
 15.
 16.
 17.
-18. <http://developers.cartodb.com/documentation/cartodb-js.html>
+18.
 19.
 20.
 21.

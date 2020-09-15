@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [원더보이 III: 드래곤의 함정](https://ko.wikipedia.org/wiki/원더보이_III:_드래곤의_함정).
 
 
-《**원더보이 III: 드래곤의 함정**》()은 [웨스톤 비트 엔터테인먼트가](https://ko.wikipedia.org/wiki/웨스톤_비트_엔터테인먼트 "wikilink") 개발하고 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")가 배급한 [액션 어드벤처](https://ko.wikipedia.org/wiki/액션_어드벤처_게임 "wikilink") [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink"). 《[원더보이](https://ko.wikipedia.org/wiki/원더보이 "wikilink")》 시리즈의 네번째 작품으로, 최초로 오락실용이 아닌 가정용 콘솔 전용으로 제작됐다. 자동진행 슈팅 게임이었던 전작 《[원더보이 III: 몬스터 레어](https://ko.wikipedia.org/wiki/원더보이_III:_몬스터_레어 "wikilink")》와 달리 《[원더보이 인 몬스터 랜드](../Page/원더보이_인_몬스터_랜드.md "wikilink")》의 디자인을 가져온 비직선형 횡스크롤 플랫폼 게임으로 변모했다.
+《**원더보이 III: 드래곤의 함정**》()은 [웨스톤 비트 엔터테인먼트가](../Page/웨스톤_비트_엔터테인먼트.md "wikilink") 개발하고 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")가 배급한 [액션 어드벤처](https://ko.wikipedia.org/wiki/액션_어드벤처_게임 "wikilink") [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink"). 《[원더보이](https://ko.wikipedia.org/wiki/원더보이 "wikilink")》 시리즈의 네번째 작품으로, 최초로 오락실용이 아닌 가정용 콘솔 전용으로 제작됐다. 자동진행 슈팅 게임이었던 전작 《[원더보이 III: 몬스터 레어](../Page/원더보이_III:_몬스터_레어.md "wikilink")》와 달리 《[원더보이 인 몬스터 랜드](../Page/원더보이_인_몬스터_랜드.md "wikilink")》의 디자인을 가져온 비직선형 횡스크롤 플랫폼 게임으로 변모했다.
 
 이전작 《원더보이 인 몬스터 랜드》의 마지막 레벨에서부터 게임이 재개되며, 보스전을 치룬 직후 메카드래곤의 저주를 받아 용이 된 원더보이가 다시 인간의 모습으로 돌아가기 위해 모험을 계속하는 것으로 본편이 시작된다. 각 지역을 탐방하며 새로운 장비를 획득하는 것 이외에 각종 동물로 변신할 수 있는 특기도 배울 수 있는데, 각 동물마다 가진 특수한 능력을 이용해 몬스터 랜드의 스테이지들을 돌파하는 것이 게임의 주된 목표이다.
 

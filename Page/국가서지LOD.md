@@ -3,7 +3,7 @@
 
 **국가서지 LOD**는 [국립중앙도서관](../Page/국립중앙도서관.md "wikilink")에서 제공하는 [공공 데이터 개방](../Page/공공_데이터_개방.md "wikilink") 서비스이다.
 
-[국립중앙도서관](../Page/국립중앙도서관.md "wikilink")은 국가대표도서관으로서 국가지식 정보자원을 망라적으로 수집하며, 이 자원에 대한 정보를 [국가서지](http://www.nl.go.kr/nation/)로 체계화하고 있다.
+[국립중앙도서관](../Page/국립중앙도서관.md "wikilink")은 국가대표도서관으로서 국가지식 정보자원을 망라적으로 수집하며, 이 자원에 대한 정보를 [국가서지](https://web.archive.org/web/20181204093802/http://www.nl.go.kr/nation/)로 체계화하고 있다.
 
 이렇게 구축된 국가서지 데이터를 정보수요자가 필요에 따라 활용할 수 있도록 표준형식에 맞게 개방하여 데이터 중심의 의미적 연결성을 확보하고 다양한 웹 자원과 자유롭게 연계, 융합하여 도서관 및 웹 데이터를 더욱 풍부하게 만드는 기반을 조성하고자 개방형 연결 데이터(Linked Open Data)로 발행하여 제공하고 있다.
 
@@ -67,7 +67,7 @@
 
 ## 외부 링크
 
-  - [국가서지 웹사이트](http://www.nl.go.kr/nation/)
-  - [LODAC 웹사이트](http://lodac.kr)
+  - [국가서지 웹사이트](https://web.archive.org/web/20181204093802/http://www.nl.go.kr/nation/)
+  - [LODAC 웹사이트](https://web.archive.org/web/20191229090002/http://www.lodac.kr/)
 
 [분류:서지학](https://ko.wikipedia.org/wiki/분류:서지학 "wikilink")

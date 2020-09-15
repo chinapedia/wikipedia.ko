@@ -231,7 +231,17 @@
   - 2020년 5월 24일 김유나 - **\[Digital Single\] 이젠 내가 너의 위로가 아니니**
   - 2020년 5월 26일 원위 - **ONE**
   - 2020년 5월 29일 문별 - **門OON : Repackage**
-  - 2020년 6월 ?일 화사 - **미정**
+  - 2020년 6월 5일 원어스 - **\[Digital Single\] 로드 투 킹덤 <너의 노래> Part.1**
+  - 2020년 6월 11일 황성진 - **\[Digital Single\] 황성진 프로젝트 Secondary words Vol.5**
+  - 2020년 6월 12일 원어스 - **\[Digital Single\] 컴백홈**\[47\]
+  - 2020년 6월 13일 호연주 - **\[Digital Single\] 슬로우 라이프**
+  - 2020년 6월 20일 브로맨스 - **\[Digital Single\] Always You**
+  - 2020년 6월 22일 런치박스 - **\[Digital Single\] 서프라이즈**
+  - 2020년 6월 29일 화사 - **Maria**
+  - 2020년 8월 12일 원위 - **우리, 사랑했을까 OST Part.6**
+  - 2020년 8월 19일 원어스 - **LIVED**
+  - 2020년 8월 29일 오연 - **\[Digital Single\] 자판기**
+  - 2020년 ?월 ?일 [퍼플키스](https://ko.wikipedia.org/wiki/퍼플키스 "wikilink") - **미정**
 
 ## 각주
 
@@ -263,7 +273,7 @@
 24. [김나영도](../Page/김나영_\(가수\).md "wikilink") 앨범 참여.
 25. [박보람](../Page/박보람.md "wikilink")도 앨범 참여.
 26. [제프 버넷도](https://ko.wikipedia.org/wiki/제프_버넷 "wikilink") 앨범 참여.
-27. [케이시도](https://ko.wikipedia.org/wiki/케이시_\(가수\) "wikilink") 앨범 참여.
+27. [케이시도](../Page/케이시_\(가수\).md "wikilink") 앨범 참여.
 28. [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"), [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"), [마이네임](../Page/마이네임.md "wikilink"), [JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"), [아이](../Page/아이_\(가수\).md "wikilink") 외 109명도 앨범 참여.
 29. [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"), [임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink"), [마이네임](../Page/마이네임.md "wikilink") 외 48명도 앨범 참여.
 30. [김보경도](../Page/김보경_\(가수\).md "wikilink") 앨범 참여.
@@ -281,5 +291,6 @@
 42. [Woogie](https://ko.wikipedia.org/wiki/Woogie "wikilink")도 앨범 참여.
 43. [(여자)아이들](../Page/\(여자\)아이들.md "wikilink")도 앨범 참여.
 44. [퀸덤](https://ko.wikipedia.org/wiki/퀸덤 "wikilink") 파이널 경연 곡
-45. [케이시도](https://ko.wikipedia.org/wiki/케이시_\(가수\) "wikilink") 앨범 참여.
+45. [케이시도](../Page/케이시_\(가수\).md "wikilink") 앨범 참여.
 46. 문별 미니 1집의 선공개곡.
+47. [로드 투 킹덤](https://ko.wikipedia.org/wiki/로드_투_킹덤 "wikilink") 파이널 경연 곡

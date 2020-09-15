@@ -5,4 +5,4 @@
 
 ## 역사
 
-[분류:미국의 군용 차량](https://ko.wikipedia.org/wiki/분류:미국의_군용_차량 "wikilink")
+[분류:미국의 군용 차량](https://ko.wikipedia.org/wiki/분류:미국의_군용_차량 "wikilink") [분류:지프의 차종](https://ko.wikipedia.org/wiki/분류:지프의_차종 "wikilink")

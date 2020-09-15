@@ -15,7 +15,7 @@
 
 2018년 1월 6일, [미국 제3함대의](https://ko.wikipedia.org/wiki/미국_제3함대 "wikilink") 항공모함 칼 빈슨이 모항인 샌디에이고를 출항했다. 2018년 2월 9일부터 2월 25일까지 열리는 한국의 [평창 올림픽의](https://ko.wikipedia.org/wiki/평창_올림픽 "wikilink") 안전 유지를 위해 [미국 제7함대에](https://ko.wikipedia.org/wiki/미국_제7함대 "wikilink") 배속된다. 칼 빈슨의 경우 승조 병력만 6,000명 이상에 전투기, 전자전기, 초계기 등 70대 이상의 항공기로 구성된 항모 전투비행단이 배속되어 있다. 이지스 순양함 [USS 레이크 챔플레인 (CG-57)](https://ko.wikipedia.org/wiki/USS_레이크_챔플레인_\(CG-57\) "wikilink"), 이지스 구축함 웨인 메이어와 USS 마이클 머피 (DDG-112)함이 호위하며 항모강습단을 구성한다. 수중에서는 핵 잠수함이 뒤따른다. 현재 일본 [요코스카 해군기지의](https://ko.wikipedia.org/wiki/요코스카_해군기지 "wikilink") [미국 제7함대에는](https://ko.wikipedia.org/wiki/미국_제7함대 "wikilink") [USS 로널드 레이건 (CVN-76)](../Page/USS_로널드_레이건_\(CVN-76\).md "wikilink") 항모강습단이 있는데, 항모 2척이 배치될 것이다.
 
-## 더 보기
+## 같이 보기
 
 ## 각주
 

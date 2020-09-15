@@ -3,7 +3,7 @@
 
 **LG Q8**은 [LG전자](../Page/LG전자.md "wikilink")가 [2016년](../Page/2016년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink") [일본](../Page/일본.md "wikilink")의 통신사인 [KDDI](../Page/KDDI.md "wikilink")와 [NTT 도코모를](../Page/NTT_도코모.md "wikilink") 통해 [일본](../Page/일본.md "wikilink") 내수용으로 먼저 출시된 스마트폰이다.\[1\] 일본 내수용은 통신사 별로 발매명이 다른데, KDDI는 **LG isai beat V34(LG 이사이 비트 V34)**라는 이름을 가졌으며, 반면에 NTT 도코모는 **LG V20 Pro**라는 이름을 가졌다. [LG V20를](../Page/LG_V20.md "wikilink") 기반으로 [일본](../Page/일본.md "wikilink") 시장용으로 현지화되어 화면 크기가 작아지고, 방수 기능을 추가한 점이 특징이다. [2017년](../Page/2017년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink"), 국내에서 LG Q8이라는 이름으로 준프리미엄 라인업인 [LG Q](../Page/LG_Q.md "wikilink") 시리즈 소속으로 편입되어, [KT](../Page/KT.md "wikilink")와 [LG유플러스](../Page/LG유플러스.md "wikilink")를 통해서 발매되었다.\[2\]
 
-## 운영 체제
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 7.0 누가
 

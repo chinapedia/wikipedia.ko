@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [아이폰 X](https://ko.wikipedia.org/wiki/아이폰_X).
 
 
-**아이폰 X**(iPhone X, 아이폰 텐\[1\])은 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 설계, 개발한 [스마트폰](../Page/스마트폰.md "wikilink")의 하나이다. 2017년 9월 12일에 [애플 파크](../Page/애플_파크.md "wikilink") 캠퍼스에 있는 [스티브 잡스 시어터에서](https://ko.wikipedia.org/wiki/스티브_잡스_시어터 "wikilink") 애플의 CEO [팀 쿡에](../Page/팀_쿡.md "wikilink") 의해 [아이폰 8, 아이폰 8 플러스와](../Page/아이폰_8.md "wikilink") 함께 발표되었으며 아이폰 X은 아이폰의 10주년을 기념하기 위해서 개발하였다. X은 로마 숫자 10을 뜻하여 '아이폰 텐' 이라고 부른다.
+**아이폰 X**(iPhone X, 아이폰 텐\[1\])은 [애플](../Page/애플.md "wikilink")이 설계, 개발한 [스마트폰](../Page/스마트폰.md "wikilink")의 하나이다. 2017년 9월 12일에 [애플 파크](../Page/애플_파크.md "wikilink") 캠퍼스에 있는 [스티브 잡스 시어터에서](https://ko.wikipedia.org/wiki/스티브_잡스_시어터 "wikilink") 애플의 CEO [팀 쿡에](../Page/팀_쿡.md "wikilink") 의해 [아이폰 8, 아이폰 8 플러스와](../Page/아이폰_8.md "wikilink") 함께 발표되었으며 아이폰 X는 아이폰의 10주년을 기념하기 위해서 개발하였다. X는 로마 숫자 10을 뜻하여 '아이폰 텐' 이라고 부른다.
 
 애플의 라인업에서 X 모델은 하이엔드의 프리미엄 모델에 위치해 있으며, 진보된 기술을 공개하기 위해 고안되었다. 케이스 제조업체들, [홈팟](../Page/홈팟.md "wikilink") 펌웨어, 최신 버전의 [iOS 11에서](https://ko.wikipedia.org/wiki/iOS_11 "wikilink") 유출된 사항들은 이 장치의 다양한 관점을 드러냈으며 여기에는 베젤이 거의 없는 디자인, 물리적 홈 버튼의 부재, [OLED](https://ko.wikipedia.org/wiki/OLED "wikilink") 디스플레이, 개선된 [심도 감지](https://ko.wikipedia.org/wiki/레인지_이미징 "wikilink"), 또 [페이스 ID로](https://ko.wikipedia.org/wiki/페이스_ID "wikilink") 불리는 [안면 인식](https://ko.wikipedia.org/wiki/안면_인식 "wikilink") 잠금 해제 시스템을 포함하고 있다. 참고로, 최초로 화면 모서리가 둥글어지고, M자로 파인 폰이다\[2\]\[3\]
 

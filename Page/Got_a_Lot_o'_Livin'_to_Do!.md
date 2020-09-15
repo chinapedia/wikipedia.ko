@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Got a Lot o\' Livin\' to Do!](https://ko.wikipedia.org/wiki/Got_a_Lot_o\'_Livin\'_to_Do!).
 
 
-〈**Got a Lot o' Livin' to Do\!**〉는 [엘비스 프레슬리의](../Page/엘비스_프레슬리.md "wikilink") 노래로, 1957년 장편영화 《[러빙 유](https://ko.wikipedia.org/wiki/러빙_유 "wikilink")》의 사운드트랙 가운데 한 곡이다.
+〈**Got a Lot o' Livin' to Do\!**〉는 [엘비스 프레슬리의](../Page/엘비스_프레슬리.md "wikilink") [노래](https://ko.wikipedia.org/wiki/노래 "wikilink")로, 1957년 장편영화 《[러빙 유](https://ko.wikipedia.org/wiki/러빙_유 "wikilink")》의 사운드트랙 가운데 한 곡이다.
 
 [에런 슈로더와](../Page/에런_슈로더.md "wikilink") [벤 와이스먼이](../Page/벤_와이스먼.md "wikilink") 작곡했다.\[1\]\[2\] 와이스먼의 경우 프레슬리가 영화에 들어갈 곡을 취입하던 사이 몸소 할리우드로 그를 내방한 바 있다.\[3\]\[4\] 그 경험을 엘비스는 후일 이렇게 묘사해 놓았다. "그 친구를 쳐다보고는, 웃어 주고, 이름을 묻고, 무슨 일로 스튜디오에 있냐 물었죠. 자기는 벤 와이스먼이고, 〈Got a Lot o' Livin' to Do\!〉를 쓴 사람이라 하더군요. 저는 그 자를 향해 이리 오라고 고함을 치곤 같이 노래를 불렀죠. 그날 이후로 벤과 저는 아주 좋은 친구가 되었고, 그 친구, 내게 57곡이나 지어준 거 있죠. 이게 다 우연한 만남 덕이라니\!"\[5\]
 

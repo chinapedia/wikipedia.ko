@@ -13,6 +13,10 @@
 
 [스티븐 타일러는](../Page/스티븐_타일러.md "wikilink") 〈Get a Grip〉과 〈[Amazing](https://ko.wikipedia.org/wiki/Amazing_\(에어로스미스의_노래\) "wikilink")〉과 같은 약물 남용과 함께 밴드의 역사를 되돌아보는 노래에 대해 "우리는 여러분이 이 노래를 교차로에 대한 오래된 믿음으로 돌릴 수 있고 악마와 계약을 맺을 수 있다고 말하고 있었습니다. 처음에는 재미있을 수 있지만 빚을 갚아야 할 때가 오고, 그것이 여러분을 쓰러뜨리고 있다는 것을 알 만큼 날카롭지 않다면, 그것은 정말로 여러분을 사로잡을 것입니다."\[5\]
 
+많은 곡들이 B-사이드로 쓰이거나 발매되지 않은 음반에 쓰이고 녹음되었다. 〈Don't Stop〉과 〈Head First〉가 B-사이드로 발매되었고, 수록곡의 수록곡으로 음반의 여러 스페셜 에디션에도 수록되어 있다. 다른 곡들은 1990년대 후반 에어로스미스 공식 웹사이트에 등재되었다. 〈Black Cherry〉, 〈Devil's Got A New Disguise〉, 〈Dime Store Lover〉, 〈Legendary Child〉, 〈Lizard Love〉, 〈Meltdown〉, 〈Rocket 88〉, 〈Wham Bam〉, 〈Yo Momma〉 등이 홈페이지 가사 페이지에 올랐다.
+
+2005년 칼로드너는 〈Trouble〉, 〈Strange〉, 〈13〉, 〈Keep On Movin〉뿐만 아니라 위의 노래 몇 곡의 존재를 확인했다. 〈Deuces Are Wild〉는 이 세션에서 다시 녹음되었을 가능성이 있다. 저작권 레퍼토리에도 〈Ain't Gonna Break My Heart〉, 〈Good Thang〉, 〈Jake〉 등 여러 곡이 수록돼 있다. 이 노래들은 1991년으로 거슬러 올라갈 수 있다. 〈Devil's Got A New Disguise〉, 〈Deuce Are Wild〉, 〈Lizard Love〉 그리고 〈Legendary Child〉의 재작업된 버전은 이후 다양한 음반과 사운드트랙에서 발매되었다.
+
 ## 접수처
 
 《Get a Grip》의 《[롤링 스톤](../Page/롤링_스톤.md "wikilink")》 잡지 리뷰에서 마크 콜먼은 타이틀곡을 좋아하며 〈Intro〉라는 제목의 이 음반의 소개를 〈[Walk This Way](https://ko.wikipedia.org/wiki/Walk_This_Way "wikilink")〉에서 [스티븐 타일러와](../Page/스티븐_타일러.md "wikilink") [조 페리의](https://ko.wikipedia.org/wiki/조_페리_\(음악가\) "wikilink") [Run-D.M.C.](../Page/Run-D.M.C..md "wikilink")와의 협업과 비교했지만, 대부분의 음반은 "모험심"이 부족하고 너무 "침울"하다고 느낀다. 그는 인터뷰에서 〈Livin' on the Edge〉를 [본 조비의](../Page/본_조비.md "wikilink") 노래와 비교했고 이 음반에 대한 문제는 외부 작곡가/협동자들로부터 온다고 느낀다.\[6\] 하지만, [로버트 크리스트가우가](../Page/로버트_크리스트가우.md "wikilink") 《[Rocks](https://ko.wikipedia.org/wiki/Rocks_\(음반\) "wikilink")》 이후 최고의 음반이라고 말하며 이 음반에 긍정적인 평가를 내렸다.\[7\]
@@ -27,6 +31,7 @@
 
 ## 외부 링크
 
+  -
   -
 [분류:1993년 음반](https://ko.wikipedia.org/wiki/분류:1993년_음반 "wikilink") [분류:에어로스미스의 음반](https://ko.wikipedia.org/wiki/분류:에어로스미스의_음반 "wikilink") [분류:게펀 레코드 음반](https://ko.wikipedia.org/wiki/분류:게펀_레코드_음반 "wikilink") [분류:브루스 페어번이 프로듀싱한 음반](https://ko.wikipedia.org/wiki/분류:브루스_페어번이_프로듀싱한_음반 "wikilink")
 

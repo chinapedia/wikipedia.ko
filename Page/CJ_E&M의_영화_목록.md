@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CJ E\&M의 영화 목록](https://ko.wikipedia.org/wiki/CJ_E\&M의_영화_목록).
 
 
-**[CJ ENM](../Page/CJ_ENM.md "wikilink")**산하 **[CJ E\&M](../Page/CJ_E&M.md "wikilink")**에 소속된 부서에서 집행한 영화 목록이다. 단, 미국 및 일본 법인이 배급한 영화는 이 문서에 기재하지 않았다.
+**[CJ ENM](../Page/CJ_ENM.md "wikilink")**산하에 소속된 **[CJ E\&M](../Page/CJ_E&M.md "wikilink")** 사업 부서에서 집행한 영화 목록이다. 단, 미국 및 일본 법인이 배급한 영화는 이 문서에 기재하지 않았다.
 
 ## 영화사업본부
 
@@ -389,7 +389,7 @@
 </tr>
 <tr class="even">
 <td><p>미국</p></td>
-<td><p>《<a href="../Page/포스_오브_네이처.md" title="wikilink">포스 오브 네이처</a>》</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/포스_오브_네이처_(1999년_영화)" title="wikilink">포스 오브 네이처</a>》</p></td>
 <td><p>1999.5.22</p></td>
 <td><p>실사</p></td>
 <td><p>수입<br />
@@ -400,7 +400,7 @@
 </tr>
 <tr class="odd">
 <td><p>미국</p></td>
-<td><p>《<a href="../Page/스몰_솔저.md" title="wikilink">스몰 솔져</a>》</p></td>
+<td><p>《<a href="../Page/스몰_솔저.md" title="wikilink">스몰 솔저</a>》</p></td>
 <td><p>1999.6.12</p></td>
 <td><p>실사</p></td>
 <td><p>수입<br />
@@ -4739,7 +4739,7 @@
 <tr class="odd">
 <td><p>한.미 합작</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/엔딩스,_비기닝스" title="wikilink">엔딩스 비기닝스</a>》</p></td>
-<td><p>2020.6</p></td>
+<td><p>2020.6.24</p></td>
 <td><p>실사</p></td>
 <td><p>제공, 배급, 제작</p></td>
 <td><p>CJ엔터테인먼트</p></td>
@@ -4748,7 +4748,25 @@
 <tr class="even">
 <td><p>한국</p></td>
 <td><p>《<a href="https://ko.wikipedia.org/wiki/다만_악에서_구하소서" title="wikilink">다만 악에서 구하소서</a>》</p></td>
-<td><p>2020.7</p></td>
+<td><p>2020.8.5</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_신혼여행_허리케인_~사라진_아빠~" title="wikilink">극장판 짱구는 못말려: 신혼여행 허리케인~ 사라진 아빠!</a>》</p></td>
+<td><p>2020.8.20</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="../Page/담보_(영화).md" title="wikilink">담보</a>》</p></td>
+<td><p>2020.9</p></td>
 <td><p>실사</p></td>
 <td><p>제공, 배급</p></td>
 <td><p>CJ엔터테인먼트</p></td>
@@ -5318,6 +5336,14 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>일본</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/짱구는_못말려_극장판:_신혼여행_허리케인_~사라진_아빠~" title="wikilink">극장판 짱구는 못말려: 신혼여행 허리케인~ 사라진 아빠!</a>》</p></td>
+<td><p>2020.8.20</p></td>
+<td><p>수입</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -5355,4 +5381,4 @@
 
 ## 각주
 
-[\*](https://ko.wikipedia.org/wiki/분류:CJ_엔터테인먼트_영화‎ "wikilink") [분류:제작사별 영화 목록](https://ko.wikipedia.org/wiki/분류:제작사별_영화_목록 "wikilink")
+[\*](https://ko.wikipedia.org/wiki/분류:CJ_엔터테인먼트_영화 "wikilink") [분류:제작사별 영화 목록](https://ko.wikipedia.org/wiki/분류:제작사별_영화_목록 "wikilink")

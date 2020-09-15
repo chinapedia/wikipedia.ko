@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IFC몰 \(서울\)](https://ko.wikipedia.org/wiki/IFC몰_\(서울\)).
 
 
-**IFC몰**()은 [서울시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 국제금융로 10번지([여의도동](https://ko.wikipedia.org/wiki/여의도동 "wikilink"))에 있는 [서울국제금융센터](https://ko.wikipedia.org/wiki/서울국제금융센터 "wikilink") 지하에 위치한 [쇼핑몰](https://ko.wikipedia.org/wiki/쇼핑몰 "wikilink")이다.
+**IFC몰**()은 [서울시](../Page/서울특별시.md "wikilink") [영등포구](../Page/영등포구.md "wikilink") 국제금융로 10번지([여의도동](https://ko.wikipedia.org/wiki/여의도동 "wikilink"))에 있는 [서울국제금융센터](https://ko.wikipedia.org/wiki/서울국제금융센터 "wikilink") 지하에 위치한 [쇼핑 센터이다](https://ko.wikipedia.org/wiki/쇼핑_센터 "wikilink").
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Yeouido_Skyscrapers.jpg "wikilink")
 
@@ -19,7 +19,7 @@
 
 ## 사건 및 사고
 
-[2017년](../Page/2017년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 지하에서 화재경보가 울렸다. 타는 냄새가 났다.\[1\]\[2\]
+[2017년](../Page/2017년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") 지하에서 화재경보가 울렸다. 그 후 타는 냄새와 연기가 나서 안에 있던 사람들이 대피하는 일이 벌어졌다.\[1\]\[2\]
 
 ## 교통
 
@@ -34,7 +34,7 @@
 ## 외부 링크
 
   -
-[분류:서울 영등포구의 건축물](https://ko.wikipedia.org/wiki/분류:서울_영등포구의_건축물 "wikilink") [분류:서울특별시의 쇼핑몰](https://ko.wikipedia.org/wiki/분류:서울특별시의_쇼핑몰 "wikilink")
+[분류:서울 영등포구의 건축물](https://ko.wikipedia.org/wiki/분류:서울_영등포구의_건축물 "wikilink") [분류:서울특별시의 쇼핑 센터](https://ko.wikipedia.org/wiki/분류:서울특별시의_쇼핑_센터 "wikilink")
 
 1.
 2.

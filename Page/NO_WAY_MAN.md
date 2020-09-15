@@ -17,7 +17,19 @@
 
 ## 수록 내용
 
-각각의 버전의 초도 한정판과 일반판의 수록 내용은 모두 동일하다. ​
+각각의 버전의 초도 한정판과 일반판의 수록 내용은 모두 동일하다.
+
+### Type A
+
+### Type B
+
+### Type C
+
+### Type D
+
+### Type E
+
+### 극장반
 
 ## 선발 멤버
 
@@ -64,13 +76,48 @@
   - HKT48 팀TII : [무라카와 비비안](https://ko.wikipedia.org/wiki/무라카와_비비안 "wikilink"), [아라마키 미사키](https://ko.wikipedia.org/wiki/아라마키_미사키 "wikilink")
   - NGT48 Team NIII : [야마다 노에](https://ko.wikipedia.org/wiki/야마다_노에 "wikilink")
 
+## 발매일
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>날짜</p></th>
+<th><p>포맷</p></th>
+<th><p>레이블</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>2018년 11월 28일</p></td>
+<td></td>
+<td><p><a href="../Page/You,_Be_Cool!.md" title="wikilink">You, Be Cool!</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2020년 7월 9일</p></td>
+<td></td>
+<td><p>극장반 제외</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 각주
 
 ### 내용주
 
 ### 참조주
-
-​
 
 ## 외부 링크
 

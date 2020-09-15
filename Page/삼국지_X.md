@@ -19,4 +19,4 @@
 
 [분류:2004년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2004년_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:플레이스테이션 2 게임](https://ko.wikipedia.org/wiki/분류:플레이스테이션_2_게임 "wikilink") [분류:턴제 전략 게임](https://ko.wikipedia.org/wiki/분류:턴제_전략_게임 "wikilink") [분류:대전략 비디오 게임](https://ko.wikipedia.org/wiki/분류:대전략_비디오_게임 "wikilink")
 
-1.  [역사왜곡 의혹 "역사왜곡 의혹 '삼국지10', 영등위 심의 통과",게임동아 2004년 12월 24일](http://www.gamedonga.co.kr/gamenews/gamenewsview.asp?sendgamenews=10507)
+1.

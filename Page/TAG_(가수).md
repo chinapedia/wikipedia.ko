@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TAG \(가수\)](https://ko.wikipedia.org/wiki/TAG_\(가수\)).
 
 
-**TAG**(, \[1\], [1998년](../Page/1998년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [골든차일드의](../Page/골든차일드_\(음악_그룹\).md "wikilink") 메인래퍼를 맡고 있다.\[2\]
+**TAG**(, 孫永宅\[1\], [1998년](../Page/1998년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [골든차일드의](../Page/골든차일드_\(음악_그룹\).md "wikilink") 메인래퍼를 맡고 있다.\[2\]
 
 ## 학력
 
@@ -41,7 +41,7 @@
 
 ## 각주
 
-[분류:1998년 태어남](https://ko.wikipedia.org/wiki/분류:1998년_태어남 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:전라북도 출신 음악가](https://ko.wikipedia.org/wiki/분류:전라북도_출신_음악가 "wikilink") [분류:골든차일드의 일원](https://ko.wikipedia.org/wiki/분류:골든차일드의_일원 "wikilink") [분류:전주서문초등학교 동문](https://ko.wikipedia.org/wiki/분류:전주서문초등학교_동문 "wikilink") [분류:전주예술중학교 동문](https://ko.wikipedia.org/wiki/분류:전주예술중학교_동문 "wikilink") [분류:한림연예예술고등학교 동문](https://ko.wikipedia.org/wiki/분류:한림연예예술고등학교_동문 "wikilink") [분류:울림엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:울림엔터테인먼트_소속 "wikilink") [분류:전주시 출신](https://ko.wikipedia.org/wiki/분류:전주시_출신 "wikilink") [분류:대한민국의 음악 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_프로듀서 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink")
+[분류:1998년 태어남](https://ko.wikipedia.org/wiki/분류:1998년_태어남 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:전라북도 출신 음악가](https://ko.wikipedia.org/wiki/분류:전라북도_출신_음악가 "wikilink") [분류:골든차일드의 일원](https://ko.wikipedia.org/wiki/분류:골든차일드의_일원 "wikilink") [분류:전주서문초등학교 동문](https://ko.wikipedia.org/wiki/분류:전주서문초등학교_동문 "wikilink") [분류:전주예술중학교 동문](https://ko.wikipedia.org/wiki/분류:전주예술중학교_동문 "wikilink") [분류:한림연예예술고등학교 동문](https://ko.wikipedia.org/wiki/분류:한림연예예술고등학교_동문 "wikilink") [분류:울림엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:울림엔터테인먼트_소속 "wikilink") [분류:전주시 출신](https://ko.wikipedia.org/wiki/분류:전주시_출신 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink")
 
 1.  [손영택 정보](http://tw.weibo.com/idofficial/3715602994195292)
 2.  [울림엔터테인먼트 공식홈페이지 프로필](http://woolliment.phps.kr/artists/about_goldenchild.php)

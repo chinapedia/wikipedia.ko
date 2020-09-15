@@ -42,6 +42,6 @@ DF-5를 개량해서 우주 발사체 [펑바오 1호를](https://ko.wikipedia.o
 
 ## 각주
 
-[분류:유도탄](https://ko.wikipedia.org/wiki/분류:유도탄 "wikilink")
+[분류:중화인민공화국의 핵무기](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_핵무기 "wikilink") [분류:유도탄](https://ko.wikipedia.org/wiki/분류:유도탄 "wikilink")
 
 1.  中공산당 기관지 "김정남 암살, 남한 소행일 듯", 뉴데일리, 2017.02.15.

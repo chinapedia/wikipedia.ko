@@ -7,13 +7,13 @@
 
 ## 한국어판 목소리 출연
 
-  - [김채하](../Page/김채하.md "wikilink"): 케이오
+  - [김채하](../Page/김채하.md "wikilink"): 케이오, 터보 케이오(티케이오)
   - [사문영](../Page/사문영.md "wikilink"): 이니드
   - [박상훈](https://ko.wikipedia.org/wiki/박상훈_\(2011년_성우\) "wikilink"): 래디클리스(래드)
   - [임채헌](../Page/임채헌.md "wikilink"): 가르 씨
-  - [전숙경](../Page/전숙경.md "wikilink"): 캐롤
+  - [전숙경](../Page/전숙경.md "wikilink"): 캐롤, 덴디
   - [홍진욱](../Page/홍진욱.md "wikilink"): 박수만 박사
-  - [김소희](../Page/김소희_\(성우\).md "wikilink"): 섀넌
+  - [김소희](../Page/김소희_\(성우\).md "wikilink"): 섀넌, 핑크
   - [황창영](../Page/황창영.md "wikilink"): 대럴
   - [석승훈](../Page/석승훈.md "wikilink"): 진짜마법해골, 레이먼드
   - [민아](../Page/민아_\(성우\).md "wikilink"): 미이라양
@@ -69,7 +69,7 @@
 
   -
 
-  - [OK K.O.\! 내일은 히어로 - 카툰네트워크 한국](http://www.cartoonnetworkkorea.com/program/program_show_view.html?code=506)
+  - [OK K.O.\! 내일은 히어로 - 카툰네트워크 한국](https://web.archive.org/web/20180213080210/http://www.cartoonnetworkkorea.com/program/program_show_view.html?code=506)
 
   -
   -

@@ -3,6 +3,8 @@
 
 〈**귀를 기울이면 (LOVE WHISPER)**〉은 2017년 8월 1일 발매된 [여자친구](https://ko.wikipedia.org/wiki/여자친구 "wikilink")의 미니 [음반](../Page/음반.md "wikilink") 《[PARALLEL](../Page/PARALLEL_\(EP\).md "wikilink")》의 타이틀곡이다.
 
+안무 난이도가 여자친구 싱글 중 가장 높으며 [보이 그룹도](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") 체력적으로 부담이 갈 정도로 안무 난이도가 높은 싱글이다.
+
 ## 차트
 
 <table>

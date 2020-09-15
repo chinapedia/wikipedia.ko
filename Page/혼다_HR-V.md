@@ -28,6 +28,8 @@
 
 {{-}}
 
+## 3세대
+
 ## 경쟁 차종
 
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") - [코나](../Page/현대_코나.md "wikilink"), [ix25](../Page/현대_ix25.md "wikilink")

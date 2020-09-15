@@ -3,7 +3,7 @@
 
 **K리그 이달의 선수상**(Player Of The Month, **POTM**)은 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")이 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")에서 1달 동안 가장 우수한 활약을 펼친 선수에게 수여하는 상이다. K리그 공식 [비디오 게임](../Page/비디오_게임.md "wikilink") 파트너인 [EA코리아의](../Page/일렉트로닉_아츠.md "wikilink") 후원을 받아 [2019 시즌을](https://ko.wikipedia.org/wiki/K리그1_2019 "wikilink") 앞두고 처음 제정되었다.\[1\] 한 달 동안 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink") 경기에서 경기 베스트 일레븐과 [최우수 선수에](https://ko.wikipedia.org/wiki/최우수_선수 "wikilink") 선정된 선수들을 대상으로 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink") 경기위원회에서 1차 투표(70점 만점)를 진행하고, 1차 투표에서 상위권을 차지한 후보들을 대상으로 2차 팬 투표(30점 만점)\[2\]를 진행하여 1,2차 투표 합산 점수가 가장 높은 선수가 최종 수상하게 된다. 수상자에게는 EA코리아에서 제작한 트로피와 함께 부상 100만원이 수여되며, 이달의 선수 패치가 새겨진 유니폼을 당해 시즌 종료 시까지 착용할 수 있다.\[3\]
 
-이달의 선수상 최초의 수상자는 [대구 FC의](../Page/대구_FC.md "wikilink") [세징야며](../Page/세자르_페르난두_시우바_멜로.md "wikilink"), 2019년 10월 시점까지 수상자를 가장 많이 배출한 구단은 [대구 FC](../Page/대구_FC.md "wikilink"), [전북 현대 모터스](../Page/전북_현대_모터스.md "wikilink") (2회)이다.
+이달의 선수상 최초의 수상자는 [대구 FC의](../Page/대구_FC.md "wikilink") [세징야며](../Page/세자르_페르난두_시우바_멜로.md "wikilink"), 2020년 7월 시점까지 수상자를 가장 많이 배출한 구단은 [대구 FC](../Page/대구_FC.md "wikilink"), [울산 현대](https://ko.wikipedia.org/wiki/울산_현대 "wikilink")(3회)이다.
 
 ## [2019](../Page/K리그_2019.md "wikilink")
 
@@ -84,6 +84,50 @@
 </tbody>
 </table>
 
+## [2020](https://ko.wikipedia.org/wiki/K리그_2020 "wikilink")
+
+<table>
+<thead>
+<tr class="header">
+<th><p>월</p></th>
+<th><p>이름</p></th>
+<th><p>포지션</p></th>
+<th><p>구단</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p><a href="../Page/주니오르_네그랑.md" title="wikilink">주니오</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대" title="wikilink">울산 현대</a></p></td>
+<td><p>[13]</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p><a href="../Page/세자르_페르난두_시우바_멜로.md" title="wikilink">세징야</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
+<td><p><a href="../Page/대구_FC.md" title="wikilink">대구 FC</a></p></td>
+<td><p>[14]</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p><a href="../Page/주니오르_네그랑.md" title="wikilink">주니오</a></p></td>
+<td><p><a href="../Page/공격수.md" title="wikilink">FW</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/울산_현대" title="wikilink">울산 현대</a></p></td>
+<td><p>[15]</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 각주
 
 ### 내용주
@@ -110,3 +154,6 @@
 10.
 11.
 12.
+13. ['4경기 5골' 울산 주니오, K리그 '5월의 선수상' 수상](https://www.yna.co.kr/view/MYH20200609005900038)
+14. [5경기서 5골-3도움, 세징야 ‘6월의 선수’](https://www.donga.com/news/Sports/article/all/20200708/101865838/1)
+15. [주니오, 7월에도 ‘이달의 선수’…시즌 2회 새역사](http://www.ksilbo.co.kr/news/articleView.html?idxno=769153)

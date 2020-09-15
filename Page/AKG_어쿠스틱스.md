@@ -63,6 +63,7 @@
   - N 라인업
       - N60NC
       - N60NC Wireless
+      - N400
   - Y 라인업
 
 ## 각주
@@ -75,7 +76,7 @@
 1.
 2.
 3.
-4.  [AKG history milestones](http://www.akg.com/site/powerslave,id,35,nodeid,35,p,0,_language,EN.html) Last accessed March 30, 2007
+4.  [AKG history milestones](http://www.akg.com/site/powerslave,id,35,nodeid,35,p,0,_language,EN.html)  Last accessed March 30, 2007
 5.
 6.
 7.
@@ -85,4 +86,4 @@
 11.
 12.
 13.
-14. [1](http://www.akg.com/DJ+++AKG+by+TIESTO-1066.html)
+14.

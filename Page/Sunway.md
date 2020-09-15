@@ -32,8 +32,8 @@
   - Peak memory bandwidth: 68 GB/s
   - Quad-channel 128-bit [DDR3](https://ko.wikipedia.org/wiki/DDR3 "wikilink")
   - Four-issue [superscalar](https://ko.wikipedia.org/wiki/superscalar "wikilink")
-  - 2 개의 정수 및 2 개의 부동 소수점 실행 유닛
-  - 7 단계 정수 파이프 라인 및 10 단계 부동 소수점 파이프 라인
+  - 2 개의 정수 및 2 개의 [부동소수점](../Page/부동소수점.md "wikilink") 실행 유닛
+  - 7 단계 정수 파이프 라인 및 10 단계 부동소수점 파이프 라인
   - 43 비트 가상 주소 및 40 비트 실물 어드레스
   - 최대 8TB 가상 메모리 및 1TB의 실물 메모리 지원
   - L1 캐시 : 8KB 명령 캐시 및 8KB KB 데이터 캐시\[7\]
@@ -52,7 +52,7 @@
 
 ## 각주
 
-[분류:마이크로프로세서](https://ko.wikipedia.org/wiki/분류:마이크로프로세서 "wikilink")
+[분류:마이크로프로세서](https://ko.wikipedia.org/wiki/분류:마이크로프로세서 "wikilink") [분류:명령어 집합 구조](https://ko.wikipedia.org/wiki/분류:명령어_집합_구조 "wikilink")
 
 1.
 2.

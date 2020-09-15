@@ -3,7 +3,7 @@
 
 **LG V30S ThinQ**는 [LG전자](../Page/LG전자.md "wikilink")에서 [2018년](../Page/2018년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink"), [MWC](../Page/모바일_월드_콩그레스.md "wikilink") 2018에서 공개한 [LG V30에서](https://ko.wikipedia.org/wiki/LG_V30 "wikilink") 인공지능 기술을 강화한 2018년형 모델이다. [2017년](../Page/2017년.md "wikilink")과는 달리, [LG G](https://ko.wikipedia.org/wiki/LG_G "wikilink") 시리즈의 차기작이 상반기 내 발표로 연기되면서, [LG V](../Page/LG_V.md "wikilink") 시리즈가 처음으로 별도의 발표행사 없이 [MWC 2018에서](../Page/모바일_월드_콩그레스.md "wikilink") 공개되었다. [LG전자](../Page/LG전자.md "wikilink")의 인공지능 브랜드인 [LG ThinQ](https://ko.wikipedia.org/wiki/LG_ThinQ "wikilink") 소속의 인공지능 기술인 **공감형 AI**가 적용된 점이 특징이며, [LG전자](../Page/LG전자.md "wikilink") 스마트폰 중 처음으로 [LG ThinQ에](https://ko.wikipedia.org/wiki/LG_ThinQ "wikilink") 소속된 기기이다. [2018년](../Page/2018년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink"), 기존의 [LG V30 ThinQ의](https://ko.wikipedia.org/wiki/LG_V30 "wikilink") 업데이트와 함께 대한민국 시장에 출시되었다.\[1\]
 
-## 운영 체제
+## 운영 체제 / 소프트웨어
 
 ### 안드로이드 8.0 오레오
 

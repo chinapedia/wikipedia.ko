@@ -73,7 +73,7 @@
   -
   -
   -
-[분류:여자친구의 노래‎](https://ko.wikipedia.org/wiki/분류:여자친구의_노래‎ "wikilink") [분류:2019년 싱글](https://ko.wikipedia.org/wiki/분류:2019년_싱글 "wikilink") [분류:2019년 노래](https://ko.wikipedia.org/wiki/분류:2019년_노래 "wikilink") [분류:일본어 노래](https://ko.wikipedia.org/wiki/분류:일본어_노래 "wikilink") [분류:킹레코드 (일본)의 노래](https://ko.wikipedia.org/wiki/분류:킹레코드_\(일본\)의_노래 "wikilink")
+[분류:여자친구의 노래](https://ko.wikipedia.org/wiki/분류:여자친구의_노래 "wikilink") [분류:2019년 싱글](https://ko.wikipedia.org/wiki/분류:2019년_싱글 "wikilink") [분류:2019년 노래](https://ko.wikipedia.org/wiki/분류:2019년_노래 "wikilink") [분류:일본어 노래](https://ko.wikipedia.org/wiki/분류:일본어_노래 "wikilink") [분류:킹레코드 (일본)의 노래](https://ko.wikipedia.org/wiki/분류:킹레코드_\(일본\)의_노래 "wikilink")
 
 1.
 2.

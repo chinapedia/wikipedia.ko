@@ -48,10 +48,10 @@
 
   - [음반 정보](https://web.archive.org/web/20180502211450/https://gfriendofficial.jp/gfriend_1st_best/)
 
-      - [KING e-SHOP 판](http://www.kingrecords.co.jp/cs/g/gNKCD-6835/)
-      - [초도 한정판 A](http://www.kingrecords.co.jp/cs/g/gKICS-93718/)
-      - [초도 한정판 B](http://www.kingrecords.co.jp/cs/g/gKICS-93719/)
-      - [일반판](http://www.kingrecords.co.jp/cs/g/gKICS-3718/)
+      - [KING e-SHOP 판](https://web.archive.org/web/20180314043237/http://www.kingrecords.co.jp/cs/g/gNKCD-6835/)
+      - [초도 한정판 A](https://web.archive.org/web/20180318132906/http://www.kingrecords.co.jp/cs/g/gKICS-93718/)
+      - [초도 한정판 B](https://web.archive.org/web/20180324051940/http://www.kingrecords.co.jp/cs/g/gKICS-93719/)
+      - [일반판](https://web.archive.org/web/20180428093754/http://www.kingrecords.co.jp/cs/g/gKICS-3718/)
 
   - 영상
 

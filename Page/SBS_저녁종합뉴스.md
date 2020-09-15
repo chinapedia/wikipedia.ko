@@ -3,7 +3,7 @@
 
 《**SBS 저녁종합뉴스**》는 [SBS 러브FM에서](../Page/SBS_러브FM.md "wikilink") 매일 저녁 6시에 방송되었던 [SBS 러브FM의](../Page/SBS_러브FM.md "wikilink") 저녁뉴스 프로그램이다.
 
-## 방송 시간
+## 역대 방송시간
 
 <table>
 <thead>

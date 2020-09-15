@@ -7,7 +7,7 @@
 
 《Painkiller》는 1989년 오랜 기간 드러머였던 [데이브 홀랜드를](https://ko.wikipedia.org/wiki/데이브_홀랜드_\(드러머\) "wikilink") 대체한 드러머 [스콧 트라비스가](https://ko.wikipedia.org/wiki/스콧_트라비스 "wikilink") 등장하는 주다스 프리스트의 첫 음반이다. 트라비스는 이전에 [로스엔젤레스](https://ko.wikipedia.org/wiki/로스엔젤레스 "wikilink") 밴드 [레이서 X의](https://ko.wikipedia.org/wiki/레이서_X "wikilink") 멤버였으며 더블 페달과 폭발 비트를 많이 사용하면서 주다스 프리스트에게 새로운 사운드와 무거운 엣지를 주었다.
 
-이 음반은 1990년 초 [프랑스](../Page/프랑스.md "wikilink") [브리뇰](https://ko.wikipedia.org/wiki/브리뇰 "wikilink")의 미라발 스튜디오에서 녹음되었고 그해 말 [네덜란드](../Page/네덜란드.md "wikilink") [힐베르쉼](https://ko.wikipedia.org/wiki/힐베르쉼 "wikilink")의 위셀로어드 스튜디오에서 혼합되었다. 주다스 프리스트가 [톰 알롬과](https://ko.wikipedia.org/wiki/톰_알롬 "wikilink") 함께 일하지 않았던 1978년의 《[Killing Machine](../Page/Killing_Machine.md "wikilink")》 이후 처음으로 밴드와 [크리스 트상가라이즈가](https://ko.wikipedia.org/wiki/크리스_트상가라이즈 "wikilink") 프로듀싱을 하였으며, 1976년의 《[Sad Wings of Destiny](https://ko.wikipedia.org/wiki/Sad_Wings_of_Destiny "wikilink")》 이후 처음으로 주다스 프리스트와 트상가라이즈 함께 작업하였다.
+이 음반은 1990년 초 [프랑스](../Page/프랑스.md "wikilink") [브리뇰](https://ko.wikipedia.org/wiki/브리뇰 "wikilink")의 미라발 스튜디오에서 녹음되었고 그해 말 [네덜란드](../Page/네덜란드.md "wikilink") [힐베르쉼](https://ko.wikipedia.org/wiki/힐베르쉼 "wikilink")의 위셀로어드 스튜디오에서 혼합되었다. 주다스 프리스트가 [톰 알롬과](https://ko.wikipedia.org/wiki/톰_알롬 "wikilink") 함께 일하지 않았던 1978년의 《[Killing Machine](../Page/Killing_Machine.md "wikilink")》 이후 처음으로 밴드와 [크리스 샹그리디가](https://ko.wikipedia.org/wiki/크리스_샹그리디 "wikilink") 프로듀싱을 하였으며, 1976년의 《[Sad Wings of Destiny](https://ko.wikipedia.org/wiki/Sad_Wings_of_Destiny "wikilink")》 이후 처음으로 주다스 프리스트와 트상가라이즈 함께 작업하였다.
 
 ## 접수처
 

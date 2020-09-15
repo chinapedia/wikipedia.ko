@@ -1,7 +1,17 @@
 > This article is converted from Wikipedia: [NHK 토요드라마](https://ko.wikipedia.org/wiki/NHK_토요드라마).
 
 
-**NHK 토요드라마**는 [1975년](../Page/1975년.md "wikilink") [10월](../Page/10월.md "wikilink") - [NHK 종합에서](../Page/NHK_종합_텔레비전.md "wikilink") [방송](../Page/방송.md "wikilink") 된 연속 드라마.
+**NHK 토요드라마**는 [1975년](../Page/1975년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 개시하고 종료 후 재개되어 [NHK 종합에서](../Page/NHK_종합_텔레비전.md "wikilink") 현재 24시대에 [방송](../Page/방송.md "wikilink")되는 연속 드라마 타이틀이다.
+
+## 작품 특징
+
+2011년에 「TARO의 탑」 및 「챌린지 드 \~ 졸업 \~」의 2 작품이 방송 된 후 같은 해 10월부터는 토요 특집 프레임 2 부 (원칙적으로 21시 - 22시 15 분) 틀 안에 언제든지 토요 드라마 스페셜로 방송되었다. 또한 이 시기에는 밤에 방송되는 현대 극의 연속 드라마 범위로 화요일의 「드라마 10」(22시 - 22시 45분 또는 22시 50분)와 2011년 10월 신설 된 「따르면 ★ 도라 "(22시 55 - 23시 25 분)가 있으며, 이곳은 고정 이어지고 있던 드라마 범위이다.
+
+2016년도는 2012 년도 이후 4년 만에 부정기 방송으로 돌아 단발 또는 2-3회 정도의 단기 집중 연속극을 중심으로 편성 예정이며, 'NHK 스페셜'과 교대로 방송한다. 기본 방송 시간도 21시 - 22시 15분이 되지만 작품에 따라 21시 50분 까지 의 시간도 있지만, 예외적으로 4 - 6월에 방송 된 '더하다 텔레비전'은 1개당 28분 단축 버전으로 20시 15분 - 20시 43분 10-11월에 방송 된 '스니퍼 후각 수사관 "다시 22시 - 22시 43분에 이 두 N 공간과 병렬 방송이었다.
+
+2018년 9월까지 2017년도와 마찬가지로 토요일 20시 15분 - 20시 45분 테두리로 방송했지만, 동 10월 이후에는 2016년도와 마찬가지로 원칙적으로 NHK 스페셜과 교대로 21시 - 21시 50분의 테두리에서 방송하고 있으며, 연속 방송이면 1 시리즈 5회 정도 드물게 「토요 드라마 스페셜」의 명의로 단발이나 전후 편 등도 방송한다.
+
+또한 토요일은 이 시기부터 18시 5분 - 18시 45분 '토요 시대극 → 토요일 시대 드라마 "23시 30분 - 24시 「따르면 드라마'과 함께 드라마 3 틀 체제가 취해지고 있다.
 
 ## 방송 목록
 
@@ -62,7 +72,7 @@
   - 《[영원의 샘](https://ko.wikipedia.org/wiki/영원의_샘 "wikilink")》
   - 《[져 이길\~전후를 만들어 남자 요시다 시게루\~](https://ko.wikipedia.org/wiki/져_이길~전후를_만들어_남자_요시다_시게루~ "wikilink")》
   - 《[실험 형사 토토리](https://ko.wikipedia.org/wiki/실험_형사_토토리 "wikilink")》
-  - 《[메이드 인 재팬](https://ko.wikipedia.org/wiki/메이드_인_재팬 "wikilink")》
+  - 《[메이드 인 재팬](https://ko.wikipedia.org/wiki/메이드_인_재팬_\(TV_드라마\) "wikilink")》
   - 《[화원·북의 영웅 아테루이전](https://ko.wikipedia.org/wiki/화원·북의_영웅_아테루이전 "wikilink")》
 
 ### 2013년 - 2015년
@@ -91,7 +101,7 @@
   - 《[대하 판타지 정령의 수호자](https://ko.wikipedia.org/wiki/정령의_수호자 "wikilink")》
   - 《[토토 텔레비전](https://ko.wikipedia.org/wiki/토토_텔레비전 "wikilink")》
   - 《[나쓰메 소세키의 아내](https://ko.wikipedia.org/wiki/나쓰메_소세키의_아내 "wikilink")》
-  - 《[스니퍼 후각 수사관](https://ko.wikipedia.org/wiki/스니퍼 "wikilink")》
+  - 《[스니퍼 후각 수사관](https://ko.wikipedia.org/wiki/스니퍼_후각_수사관 "wikilink")》
   - 《[스크랩 앤 빌드](https://ko.wikipedia.org/wiki/스크랩_앤_빌드 "wikilink")》
   - 《[대하 판타지 정령의 수호자 II 슬픈 파괴신](https://ko.wikipedia.org/wiki/정령의_수호자 "wikilink")》
   - 《[4호 경비](https://ko.wikipedia.org/wiki/4호_경비 "wikilink")》
@@ -102,8 +112,9 @@
   - 《[지독히 밸브가 서는 변호사가 학교에서 짖는](https://ko.wikipedia.org/wiki/지독히_밸브가_서는_변호사가_학교에서_짖는 "wikilink")》
   - 《[바카본 아빠보다 더 바보 아빠](https://ko.wikipedia.org/wiki/바카본_아빠보다_더_바보_아빠 "wikilink")》
   - 《[페이크 뉴스](https://ko.wikipedia.org/wiki/페이크_뉴스 "wikilink")》
+  - 《[악플 변호인](https://ko.wikipedia.org/wiki/악플_변호인 "wikilink")》
 
-### 2019년 이후
+### 2019년 이후 작품
 
   - 《[어머니, 돌아오다\~AI의 유언\~](https://ko.wikipedia.org/wiki/어머니,_돌아오다~AI의_유언~ "wikilink")》
   - 《[미카즈키](https://ko.wikipedia.org/wiki/미카즈키 "wikilink")》
@@ -113,6 +124,8 @@
   - 《[소년 토라지로](https://ko.wikipedia.org/wiki/소년_토라지로 "wikilink")》
   - 《[몸을 다해 요리첩](https://ko.wikipedia.org/wiki/몸을_다해_요리첩 "wikilink") 스페셜》
   - 《[마음의 상처를 치유하는 것](https://ko.wikipedia.org/wiki/마음의_상처를_치유하는_것 "wikilink")》
+  - 《[루 \~대만 익스프레스\~](https://ko.wikipedia.org/wiki/루_~대만_익스프레스~ "wikilink")》
+  - 《[천사에게 리퀘스트를 \~인생 마지막 소원\~](https://ko.wikipedia.org/wiki/천사에게_리퀘스트를_~인생_마지막_소원~ "wikilink")》
 
 ## 같이 보기
 

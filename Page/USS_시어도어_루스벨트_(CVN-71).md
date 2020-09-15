@@ -21,4 +21,4 @@
 
 ## 각주
 
-[분류:니미츠급 항공모함](https://ko.wikipedia.org/wiki/분류:니미츠급_항공모함 "wikilink")
+[분류:니미츠급 항공모함](https://ko.wikipedia.org/wiki/분류:니미츠급_항공모함 "wikilink") [분류:미국의 코로나19 범유행](https://ko.wikipedia.org/wiki/분류:미국의_코로나19_범유행 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG K4](https://ko.wikipedia.org/wiki/LG_K4).
 
 
-**LG K4**는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년 2월](../Page/2016년_2월.md "wikilink") [영국](../Page/영국.md "wikilink")과 [러시아](../Page/러시아.md "wikilink") 등의 국가에 출시한 보급형 스마트폰이다. 다른 [K 시리즈와](https://ko.wikipedia.org/wiki/LG_K "wikilink") 디자인은 거의 비슷하지만 [K5부터](../Page/LG_K5.md "wikilink") 후면키가 빠졌다. [캐나다](../Page/캐나다.md "wikilink") 버전은 AP가 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") 210으로 변경되어 출시되었다. [2016년](../Page/2016년.md "wikilink") [11월 29일에는](../Page/11월_29일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 전파 인증을 통과하기도 했다.\[1\]
+**LG K4**는 [LG전자](../Page/LG전자.md "wikilink")가 [2016년 2월](../Page/2016년_2월.md "wikilink") [영국](../Page/영국.md "wikilink")과 [러시아](../Page/러시아.md "wikilink") 등의 국가에 출시한 보급형 스마트폰이다. 다른 [K 시리즈와](https://ko.wikipedia.org/wiki/LG_K "wikilink") 디자인은 거의 비슷하지만 [K5부터](../Page/LG_K5.md "wikilink") 후면키가 빠졌다. [캐나다](../Page/캐나다.md "wikilink") 버전은 AP가 [퀄컴](../Page/퀄컴.md "wikilink") [스냅드래곤](../Page/스냅드래곤.md "wikilink") 210으로 변경돼어 출시되었다. [2016년](../Page/2016년.md "wikilink") [11월 29일에는](../Page/11월_29일.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")에서 전파 인증을 통과하기도 했다.\[1\]
 
 ## 운영 체제 / 소프트웨어
 

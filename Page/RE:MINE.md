@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RE:MINE](https://ko.wikipedia.org/wiki/RE:MINE).
 
 
-**RE:MINE**은 대한민국의 음악 그룹 [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 두 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
+**RE:MINE**은 [대한민국](../Page/대한민국.md "wikilink")의 [음악 그룹](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink") [나인뮤지스](../Page/나인뮤지스.md "wikilink")의 두 번째 [콘서트 투어이다](https://ko.wikipedia.org/wiki/콘서트_투어 "wikilink").
 
 ## 개요
 

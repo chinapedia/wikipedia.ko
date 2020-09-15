@@ -18,6 +18,6 @@
 ## 참고 자료
 
   -
-[분류:강원도 (남)의 국가등록문화재](https://ko.wikipedia.org/wiki/분류:강원도_\(남\)의_국가등록문화재 "wikilink") [분류:고성군 (강원도)의 건축물](https://ko.wikipedia.org/wiki/분류:고성군_\(강원도\)의_건축물 "wikilink") [분류:한국 전쟁](https://ko.wikipedia.org/wiki/분류:한국_전쟁 "wikilink") [분류:1953년 완공된 건축물](https://ko.wikipedia.org/wiki/분류:1953년_완공된_건축물 "wikilink")
+[분류:1953년 완공된 건축물](https://ko.wikipedia.org/wiki/분류:1953년_완공된_건축물 "wikilink") [분류:강원도 (남)의 국가등록문화재](https://ko.wikipedia.org/wiki/분류:강원도_\(남\)의_국가등록문화재 "wikilink") [분류:고성군 (강원도)의 건축물](https://ko.wikipedia.org/wiki/분류:고성군_\(강원도\)의_건축물 "wikilink") [분류:한국 전쟁에 관련된 시설](https://ko.wikipedia.org/wiki/분류:한국_전쟁에_관련된_시설 "wikilink")
 
 1.  [문화재청고시제2019-70호(고성 최동북단 감시초소 등 4건 문화재 등록)](http://gwanbo.mois.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001559609580332000&tocId=00000000000000001559609581682000&isTocOrder=N), 제19517호 / 관보(정호) / 발행일 : 2019. 6. 5. / 302 페이지 / 603.6KB

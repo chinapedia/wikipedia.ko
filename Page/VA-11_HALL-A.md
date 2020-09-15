@@ -206,9 +206,9 @@ VA-11 HALL-A의 음료 제작 레시피
 
 ## 사운드트랙
 
-작품의 [사이버펑크](../Page/사이버펑크.md "wikilink")적인 분위기에 어울리는 [일렉트로니카](https://ko.wikipedia.org/wiki/일렉트로니카 "wikilink")와 [디스코](https://ko.wikipedia.org/wiki/디스코 "wikilink"), [사이키델릭한](../Page/사이키델릭_록.md "wikilink") 음악이 중심적으로 다루어 진다. 각각 앨범들은 밴드캠프\[7\]\>에서 구매가 가능하다. 첫번째 트랙인《VA​-​11 HALL​-​A Prologue OST - Sounds From The Future》\[8\]는 2014년 8월 18일에 발표되었으며 가격은 4.99$. 두번째 트랙인《VA​-​11 HALL​-​A - Second Round》\[9\]는 2016년 1월 19일에 발표되었으며 가격은 7$. 세번째 트랙인《VA​-​11 HALL​-​A EX - Bonus Tracks Collection》\[10\]는 2017년 9월 19일에 발표되었으며 가격은 4$.
+작품의 [사이버펑크](../Page/사이버펑크.md "wikilink")적인 분위기에 어울리는 [일렉트로니카](https://ko.wikipedia.org/wiki/일렉트로니카 "wikilink")와 [디스코](https://ko.wikipedia.org/wiki/디스코 "wikilink"), [사이키델릭한](../Page/사이키델릭_록.md "wikilink") 음악이 중심적으로 다루어 진다. 각각 앨범들은 밴드캠프\[7\]\>에서 구매가 가능하다. 첫번째 트랙인《VA-11 HALL-A Prologue OST - Sounds From The Future》\[8\]는 2014년 8월 18일에 발표되었으며 가격은 4.99$. 두번째 트랙인《VA-11 HALL-A - Second Round》\[9\]는 2016년 1월 19일에 발표되었으며 가격은 7$. 세번째 트랙인《VA-11 HALL-A EX - Bonus Tracks Collection》\[10\]는 2017년 9월 19일에 발표되었으며 가격은 4$.
 
-### VA​-​11 HALL​-​A Prologue OST - Sounds From The Future
+### VA-11 HALL-A Prologue OST - Sounds From The Future
 
 1.  "Metropolis" \[01:06\]
 2.  "Karmotrine Dream" \[02:25\]
@@ -229,7 +229,7 @@ VA-11 HALL-A의 음료 제작 레시피
 17. "Underground Club" \[02:11\]
 18. "Showtime\!" \[03:18\]
 
-### VA​-​11 HALL​-​A - Second Round
+### VA-11 HALL-A - Second Round
 
 1.  "Hopes and Dreams" \[00:47\]
 2.  "A Neon Glow Lights the Way" \[02:32\]
@@ -274,7 +274,7 @@ VA-11 HALL-A의 음료 제작 레시피
 41. "Until We Meet Again" \[00:52\]
 42. "Digital Drive" \[01:33\]
 
-### VA​-​11 HALL​-​A EX - Bonus Tracks Collection
+### VA-11 HALL-A EX - Bonus Tracks Collection
 
 1.  "Glitch City" \[02:26\]
 2.  "Shine Spark" \[05:01\]

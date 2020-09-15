@@ -11,7 +11,7 @@
 
 ## 각주
 
-[분류:1972년 싱글](https://ko.wikipedia.org/wiki/분류:1972년_싱글 "wikilink") [분류:1972년 4월](https://ko.wikipedia.org/wiki/분류:1972년_4월 "wikilink") [분류:데이비드 보위의 노래](https://ko.wikipedia.org/wiki/분류:데이비드_보위의_노래 "wikilink") [분류:우주 공간을 소재로 한 노래‎](https://ko.wikipedia.org/wiki/분류:우주_공간을_소재로_한_노래‎ "wikilink")
+[분류:1972년 싱글](https://ko.wikipedia.org/wiki/분류:1972년_싱글 "wikilink") [분류:1972년 4월](https://ko.wikipedia.org/wiki/분류:1972년_4월 "wikilink") [분류:데이비드 보위의 노래](https://ko.wikipedia.org/wiki/분류:데이비드_보위의_노래 "wikilink") [분류:우주 공간을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:우주_공간을_소재로_한_노래 "wikilink")
 
 1.  Kevin Cann (2010). *Any Day Now – David Bowie: The London Years: 1947–1974*: p.242
 2.  Nicholas Pegg (2000). *The Complete David Bowie*: p.203

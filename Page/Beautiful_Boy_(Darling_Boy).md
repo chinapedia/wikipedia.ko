@@ -21,7 +21,7 @@
 
 ## 외부 링크
 
-  - [Beautiful Boy' by John Lennon](https://www.voakorea.com/a/1710566.html) - www.voakorea.com
+  - [Beautiful Boy' by John Lennon](https://web.archive.org/web/20181214071020/https://www.voakorea.com/a/1710566.html) - www.voakorea.com
 
 [분류:1980년 노래](https://ko.wikipedia.org/wiki/분류:1980년_노래 "wikilink") [분류:1981년 싱글](https://ko.wikipedia.org/wiki/분류:1981년_싱글 "wikilink") [분류:존 레논의 노래](https://ko.wikipedia.org/wiki/분류:존_레논의_노래 "wikilink") [분류:존 레논이 작곡한 노래](https://ko.wikipedia.org/wiki/분류:존_레논이_작곡한_노래 "wikilink")
 

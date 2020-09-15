@@ -25,8 +25,8 @@
 
 ## 앵커
 
-  - [김민광](https://ko.wikipedia.org/wiki/김민광 "wikilink") 아나운서 (남)
-  - [류미정](https://ko.wikipedia.org/wiki/류미정 "wikilink") 아나운서 (여)
+  - [윤도현](../Page/윤도현.md "wikilink") 아나운서 (남)
+  - [조서연](../Page/조서연.md "wikilink") 아나운서 (여)
 
 ## 타이틀 변천사
 

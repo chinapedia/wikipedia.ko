@@ -10,6 +10,6 @@
 
 ## 외부 링크
 
-  - [노바이구아수 공식 홈페이지](http://www.nifc.com.br/)
+  - [노바이구아수 공식 홈페이지](https://web.archive.org/web/20170108001033/http://www.nifc.com.br/)
 
 [노바이구아수_FC](https://ko.wikipedia.org/wiki/분류:노바이구아수_FC "wikilink") [분류:1990년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1990년_설립된_축구단 "wikilink") [분류:리우데자네이루주의 축구단](https://ko.wikipedia.org/wiki/분류:리우데자네이루주의_축구단 "wikilink")

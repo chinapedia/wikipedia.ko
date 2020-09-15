@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MacOS 하이 시에라](https://ko.wikipedia.org/wiki/MacOS_하이_시에라).
 
 
-**macOS 하이 시에라**(macOS High Sierra, 버전 10.13)은 [애플의](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 14번째 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink") 운영체제이다. 이전 버전은 [macOS 시에라이다](https://ko.wikipedia.org/wiki/macOS_시에라 "wikilink"). 하이 시에라에서는 기존의 사진, Safari, Siri를 포함한 [macOS 시에라의](https://ko.wikipedia.org/wiki/macOS_시에라 "wikilink") 기능을 보강한다. 2017년 6월 5일([태평양표준시](https://ko.wikipedia.org/wiki/태평양_표준시 "wikilink")), [WWDC](https://ko.wikipedia.org/wiki/WWDC "wikilink") 2017에서 공개 되었다.
+**macOS 하이 시에라**(macOS High Sierra, 버전 10.13)은 [애플](../Page/애플.md "wikilink")의 14번째 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink") 운영체제이다. 이전 버전은 [macOS 시에라이다](https://ko.wikipedia.org/wiki/macOS_시에라 "wikilink"). 하이 시에라에서는 기존의 사진, Safari, Siri를 포함한 [macOS 시에라의](https://ko.wikipedia.org/wiki/macOS_시에라 "wikilink") 기능을 보강한다. 2017년 6월 5일([태평양표준시](https://ko.wikipedia.org/wiki/태평양_표준시 "wikilink")), [WWDC](https://ko.wikipedia.org/wiki/WWDC "wikilink") 2017에서 공개 되었다.
 
 macOS 하이 시에라는 기존의 [HFS+](https://ko.wikipedia.org/wiki/HFS+ "wikilink") 포맷이 아닌, 애플에서 새로 개발한 [APFS](https://ko.wikipedia.org/wiki/APFS "wikilink")를 기본 파티션으로 채용했다. 또한 VR 기능의 확충을 위한 [메탈 2와](../Page/메탈_\(API\).md "wikilink") 더불어 [고효율 비디오 코딩을](../Page/고효율_비디오_코딩.md "wikilink") 채용하고 있다.
 

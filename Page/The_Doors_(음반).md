@@ -11,7 +11,7 @@
 
 ## 배경
 
-도어스의 최종 라인업은 [레이 만자렉의](../Page/레이_만자렉.md "wikilink") 두 형제가 떠나고 [로비 크리거가](https://ko.wikipedia.org/wiki/로비_크리거 "wikilink") 합류한 후인 65년 중반에 형성되었다. 크리거는 밴드의 멤버로 초대되었을 때 6개월 동안만 일렉트릭 기타를 연주하고 있었다. 이 그룹은 또한 [재즈](../Page/재즈.md "wikilink")에 열광하는 드러머 [존 덴스모어와](https://ko.wikipedia.org/wiki/존_덴스모어 "wikilink") 카리스마 있고 후에 상징적인 가수 [짐 모리슨을](../Page/짐_모리슨.md "wikilink") 보컬로 내세웠다. 이 밴드는 당초 6개월 계약으로 [컬럼비아 레코드와](../Page/컬럼비아_레코드.md "wikilink") 계약을 맺었으나 음반회사가 음반 프로듀서를 확보하지 못하자 발매에 동의했다. 레이블에서 발매된 후, 도어스는 [잭 홀츠만에](https://ko.wikipedia.org/wiki/잭_홀츠만 "wikilink") 의해 [엘렉트라 레코드에](https://ko.wikipedia.org/wiki/엘렉트라_레코드 "wikilink") 서명될 때까지 런던 포그와 [위스키 어 고 고를](https://ko.wikipedia.org/wiki/위스키_어_고_고 "wikilink") 포함한 클럽 장소를 연주했다.
+도어스의 최종 라인업은 [레이 만자렉의](../Page/레이_만자렉.md "wikilink") 두 형제가 떠나고 [로비 크리거가](https://ko.wikipedia.org/wiki/로비_크리거 "wikilink") 합류한 후인 65년 중반에 형성되었다. 크리거는 밴드의 멤버로 초대되었을 때 6개월 동안만 일렉트릭 기타를 연주하고 있었다. 이 그룹은 또한 [재즈](../Page/재즈.md "wikilink")에 열광하는 드러머 [존 덴스모어와](../Page/존_덴스모어.md "wikilink") 카리스마 있고 후에 상징적인 가수 [짐 모리슨을](../Page/짐_모리슨.md "wikilink") 보컬로 내세웠다. 이 밴드는 당초 6개월 계약으로 [컬럼비아 레코드와](../Page/컬럼비아_레코드.md "wikilink") 계약을 맺었으나 음반회사가 음반 프로듀서를 확보하지 못하자 발매에 동의했다. 레이블에서 발매된 후, 도어스는 [잭 홀츠만에](https://ko.wikipedia.org/wiki/잭_홀츠만 "wikilink") 의해 [엘렉트라 레코드에](https://ko.wikipedia.org/wiki/엘렉트라_레코드 "wikilink") 서명될 때까지 런던 포그와 [위스키 어 고 고를](https://ko.wikipedia.org/wiki/위스키_어_고_고 "wikilink") 포함한 클럽 장소를 연주했다.
 
 ## 녹음
 
@@ -19,7 +19,7 @@
 
 ## 곡 목록
 
-모든 곡들은 특별한 언급이 없는 한 [짐 모리슨](../Page/짐_모리슨.md "wikilink"), [레이 만자렉](../Page/레이_만자렉.md "wikilink"), [로비 크리거](https://ko.wikipedia.org/wiki/로비_크리거 "wikilink") 그리고 [존 덴스모어에](https://ko.wikipedia.org/wiki/존_덴스모어 "wikilink") 의해 작사/작곡하였다.
+모든 곡들은 특별한 언급이 없는 한 [짐 모리슨](../Page/짐_모리슨.md "wikilink"), [레이 만자렉](../Page/레이_만자렉.md "wikilink"), [로비 크리거](https://ko.wikipedia.org/wiki/로비_크리거 "wikilink") 그리고 [존 덴스모어에](../Page/존_덴스모어.md "wikilink") 의해 작사/작곡하였다.
 
 ## 각주
 

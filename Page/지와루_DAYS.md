@@ -100,6 +100,43 @@
   - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink"): 오구마 츠구미(팀G)
   - [STU48](../Page/STU48.md "wikilink"): 이시다 치호
 
+## 발매일
+
+<table>
+<thead>
+<tr class="header">
+<th><p>국가</p></th>
+<th><p>날짜</p></th>
+<th><p>포맷</p></th>
+<th><p>레이블</p></th>
+<th><p>비고</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>2019년 3월 13일</p></td>
+<td></td>
+<td><p><a href="../Page/You,_Be_Cool!.md" title="wikilink">You, Be Cool!</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2020년 6월 25일</p></td>
+<td></td>
+<td><p>극장반 제외</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 각주
 
 ### 내용주

@@ -9,7 +9,7 @@
 
 StrongARM은 더 빠른 ARM 마이크로프로세서를 만들기 위해 DEC와 [어드밴스트 RISC 머신스](../Page/ARM_홀딩스.md "wikilink") 간의 협업 프로젝트였다. StrongARM은 당시 ARM보다 더 많은 성능을 필요로 하는 저성능 임베디드 시장의 문제를 해결하기 위해 설계되었다. 더 새로운 [개인 정보 단말기](../Page/개인_정보_단말기.md "wikilink"), [셋톱박스](../Page/셋톱박스.md "wikilink")와 같은 장치들이 대상이었다.\[1\]\[2\]
 
-전통적으로 DEC의 [반도체](../Page/반도체.md "wikilink") 부문은 [매사추세츠주](../Page/매사추세츠주.md "wikilink")에 위치해 있었다. [실리콘밸리](../Page/실리콘밸리.md "wikilink")의 디자인 인재의 접근을 확충하기 위해 DEC는 [팰로앨토](../Page/팰로앨토.md "wikilink")에 디자인 센터를 설립하였다. 이 디자인 센터는 [Dan Dobberpuhl에](https://ko.wikipedia.org/wiki/Dan_Dobberpuhl "wikilink") 의해 주도되었으며 StrongARM 프로젝트의 주된 디자인 사이트였다. 이 프로젝트로 작업한 다른 디자인 사이트는 [텍사스 주 오스틴에](../Page/오스틴_\(텍사스주\).md "wikilink") 위치하였으며 [애플과](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") [모토로라](../Page/모토로라.md "wikilink")에서 복귀한 전 DEC 디자이너들 몇몇이 설립하였다. 이 프로젝트는 1995년에 구축되었으며 발빠르게 최초의 디자인 SA-110을 조달하였다.
+전통적으로 DEC의 [반도체](../Page/반도체.md "wikilink") 부문은 [매사추세츠주](../Page/매사추세츠주.md "wikilink")에 위치해 있었다. [실리콘밸리](../Page/실리콘밸리.md "wikilink")의 디자인 인재의 접근을 확충하기 위해 DEC는 [팰로앨토](../Page/팰로앨토.md "wikilink")에 디자인 센터를 설립하였다. 이 디자인 센터는 [Dan Dobberpuhl에](https://ko.wikipedia.org/wiki/Dan_Dobberpuhl "wikilink") 의해 주도되었으며 StrongARM 프로젝트의 주된 디자인 사이트였다. 이 프로젝트로 작업한 다른 디자인 사이트는 [텍사스 주 오스틴에](../Page/오스틴_\(텍사스주\).md "wikilink") 위치하였으며 [애플](../Page/애플.md "wikilink")과 [모토로라](../Page/모토로라.md "wikilink")에서 복귀한 전 DEC 디자이너들 몇몇이 설립하였다. 이 프로젝트는 1995년에 구축되었으며 발빠르게 최초의 디자인 SA-110을 조달하였다.
 
 DEC는 1997년 소송 합의의 일환으로 StrongARM을 인텔에 판매하는 것에 동의하였다.\[3\] 인텔은 RISC 프로세서 계열([i860](../Page/인텔_i860.md "wikilink"), [i960](../Page/인텔_i960.md "wikilink"))을 대체하기 위해 StrongARM을 사용하였다.
 
@@ -36,7 +36,7 @@ DEC의 반도체 부문이 인텔에 인수되었을 때 팰로앨토 디자인 
 
 [분류:인텔의 마이크로프로세서](https://ko.wikipedia.org/wiki/분류:인텔의_마이크로프로세서 "wikilink") [분류:ARM 아키텍처](https://ko.wikipedia.org/wiki/분류:ARM_아키텍처 "wikilink")
 
-1.  Montanaro, James et al. (1997). ["A 160-MHz, 32-b, 0.5-W CMOS RISC Microprocessor"](http://www.hpl.hp.com/hpjournal/dtj/vol9num1/vol9num1art5.pdf). *Digital Technical Journal*, vol. 9, no. 1. pp. 49–62.
+1.  Montanaro, James et al. (1997). ["A 160-MHz, 32-b, 0.5-W CMOS RISC Microprocessor"](http://www.hpl.hp.com/hpjournal/dtj/vol9num1/vol9num1art5.pdf) . *Digital Technical Journal*, vol. 9, no. 1. pp. 49–62.
 2.
 3.
 4.

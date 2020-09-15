@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [터미널 \(macOS\)](https://ko.wikipedia.org/wiki/터미널_\(macOS\)).
 
 
-**터미널**(Terminal, **Terminal.app**)은 [애플이](https://ko.wikipedia.org/wiki/애플_\(기업\) "wikilink") 개발한 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink") [운영 체제에](../Page/운영_체제.md "wikilink") 포함된 [단말 에뮬레이터이다](../Page/단말_에뮬레이터.md "wikilink").\[1\] 터미널은 macOS의 전작 운영 체제인 [NeXTSTEP](../Page/NeXTSTEP.md "wikilink"), [오픈스텝](../Page/오픈스텝.md "wikilink")에서 기원이 된다.\[2\]
+**터미널**(Terminal, **Terminal.app**)은 [애플](../Page/애플.md "wikilink")이 개발한 [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink") [운영 체제에](../Page/운영_체제.md "wikilink") 포함된 [단말 에뮬레이터이다](../Page/단말_에뮬레이터.md "wikilink").\[1\] 터미널은 macOS의 전작 운영 체제인 [NeXTSTEP](../Page/NeXTSTEP.md "wikilink"), [오픈스텝](../Page/오픈스텝.md "wikilink")에서 기원이 된다.\[2\]
 
 단말 에뮬레이터로서 이 애플리케이션은 [bash](../Page/배시_\(유닉스_셸\).md "wikilink")([맥 OS X 10.2](../Page/맥_OS_X_10.2.md "wikilink") 이후의 기본 셸\[3\]) 등의 [유닉스 셸과](../Page/유닉스_셸.md "wikilink") 결합하여 사용할 때 [명령 줄 인터페이스를](../Page/명령_줄_인터페이스.md "wikilink") 운영 체제에 제공함으로써 운영 체제에 대한 텍스트 기반 접근을 제공하며, 이는 macOS의 그래픽 사용자 경험에 대비된다.\[4\] 사용자는 macOS와 사용할 [콘 셸](../Page/콘_셸.md "wikilink"), [Tcsh](../Page/Tcsh.md "wikilink"), [Z 셸과](../Page/Z_셸.md "wikilink") 같은 다른 셸을 지정할 수 있다.\[5\]\[6\]
 
