@@ -130,10 +130,10 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/WWE_NXT_챔피언십.md" title="wikilink">NXT 챔피언</a></p></td>
+<td><p><a href="../Page/핀_베일러.md" title="wikilink">핀 베일러</a></p></td>
+<td><p>2020년 9월 8일</p></td>
+<td><p><a href="../Page/WWE_NXT.md" title="wikilink">WWE NXT: 슈퍼 튜즈데이</a></p></td>
 <td><p>공석</p></td>
-<td><p>2020년 8월 26일</p></td>
-<td><p><a href="../Page/WWE_NXT.md" title="wikilink">WWE NXT</a></p></td>
-<td><p>캐리언 크로스</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/WWE_NXT_노스_아메리칸_챔피언십" title="wikilink">NXT 노스 아메리칸 챔피언</a></p></td>

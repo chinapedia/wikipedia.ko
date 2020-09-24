@@ -16,7 +16,7 @@
 
 ## 역사
 
-[2011년](../Page/2011년.md "wikilink") [JTBC](../Page/JTBC.md "wikilink")가 개국을 시작됐지만, [2012년](../Page/2012년.md "wikilink") 여름경 중단하고, 이듬해 가을경 부활하고, [2013년](../Page/2013년.md "wikilink") 첫날 다시 중단하였다가, 이듬해 5월부터 다시 부활하였다가, [2014년](../Page/2014년.md "wikilink") [11월](../Page/11월.md "wikilink")까지 잠정 중단하였으며, 3년만 인 [2017년](../Page/2017년.md "wikilink") [12월 11일부터](../Page/12월_11일.md "wikilink") 다시 부활하였다.
+[2011년](../Page/2011년.md "wikilink") [JTBC](../Page/JTBC.md "wikilink")가 개국을 시작됐지만, [2012년](../Page/2012년.md "wikilink") 여름경 중단하고, 이듬해 가을경 부활하고, [2013년](../Page/2013년.md "wikilink") 첫날 다시 중단하였다가, 이듬해 5월부터 다시 부활하였다가, [2014년](../Page/2014년.md "wikilink") [11월](../Page/11월.md "wikilink")까지 잠정 중단하였으며, 3년만 인 [2017년](../Page/2017년.md "wikilink") [12월 11일부터](../Page/12월_11일.md "wikilink") 다시 부활하였다가, [2020년](../Page/2020년.md "wikilink")에 [코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink") 확산으로 편성 공백을 메우기 위해 작품을 늦어지는 경우가 있다.
 
 ## 작품 리스트
 
@@ -49,14 +49,14 @@
 
 #### 2017년
 
-  - 《[그냥 사랑하는 사이](../Page/그냥_사랑하는_사이.md "wikilink")》 : 2017년 12월 11일 \~ 2018년 1월 30일
+  - 《[그냥 사랑하는 사이](../Page/그냥_사랑하는_사이.md "wikilink")》\[1\] : 2017년 12월 11일 \~ 2018년 1월 30일
 
 #### 2018년
 
   - 《[으라차차 와이키키](../Page/으라차차_와이키키.md "wikilink")》 : 2018년 2월 5일 \~ 2018년 4월 17일
   - 《[미스 함무라비](../Page/미스_함무라비_\(드라마\).md "wikilink")》 : 2018년 5월 21일 \~ 2018년 7월 16일
   - 《[라이프](../Page/라이프_\(2018년_드라마\).md "wikilink")》 : 2018년 7월 23일 \~ 2018년 9월 11일
-  - 《[뷰티 인사이드](../Page/뷰티_인사이드_\(드라마\).md "wikilink")》 : 2018년 10월 1일 \~ 2018년 11월 20일
+  - 《[뷰티 인사이드](../Page/뷰티_인사이드_\(드라마\).md "wikilink")》\[2\] : 2018년 10월 1일 \~ 2018년 11월 20일
   - 《[일단 뜨겁게 청소하라](https://ko.wikipedia.org/wiki/일단_뜨겁게_청소하라_\(드라마\) "wikilink")》 : 2018년 11월 26일 \~ 2019년 2월 4일
 
 #### 2019년
@@ -74,9 +74,9 @@
 #### [2020년](../Page/2020년.md "wikilink")
 
   - 《[날씨가 좋으면 찾아가겠어요](https://ko.wikipedia.org/wiki/날씨가_좋으면_찾아가겠어요 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink")
-  - 《[야식남녀](../Page/야식남녀.md "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink")
+  - 《[야식남녀](../Page/야식남녀.md "wikilink")》\[3\] : [2020년](../Page/2020년.md "wikilink") [5월 25일](../Page/5월_25일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink")
   - 《[모범형사](../Page/모범형사.md "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink")
-  - 《[18 어게인](../Page/18_어게인.md "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") \~**현재**
+  - 《[18 어게인](../Page/18_어게인.md "wikilink")》\[4\] : [2020년](../Page/2020년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~**현재**
 
 ## 같이 보기
 
@@ -86,3 +86,8 @@
   - [tvN 월화 드라마](https://ko.wikipedia.org/wiki/tvN_월화_드라마 "wikilink")
 
 [분류:JTBC의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:JTBC의_텔레비전_드라마 "wikilink") [분류:JTBC 월화드라마](https://ko.wikipedia.org/wiki/분류:JTBC_월화드라마 "wikilink")
+
+1.  3년 뒤인 작품 부활
+2.  한달간 연기
+3.  [코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink") 여파로 연기
+4.

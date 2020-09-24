@@ -12,7 +12,7 @@
   - [미건 굿](https://ko.wikipedia.org/wiki/미건_굿 "wikilink") (Meagan Good) - 루바
   - [코스타스 맨다이어](https://ko.wikipedia.org/wiki/코스타스_맨다이어 "wikilink") (Costas Mandylor) - 호프만
   - [벳시 러셀](https://ko.wikipedia.org/wiki/벳시_러셀 "wikilink") (Betsy Russell) - 질
-  - [앵거스 맥페이든](https://ko.wikipedia.org/wiki/앵거스_맥페이든 "wikilink") (Angus Macfadyen) - 제프
+  - [앵거스 맥페이든](../Page/앵거스_맥페이든.md "wikilink") (Angus Macfadyen) - 제프
   - [도니 월버그](https://ko.wikipedia.org/wiki/도니_월버그 "wikilink") (Donnie Wahlberg) - 에릭
   - [대니 글러버](../Page/대니_글러버.md "wikilink") (Danny Glover) - 데이비드 탭
 

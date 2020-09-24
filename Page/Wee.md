@@ -5,7 +5,7 @@
 
 ## 방법
 
-학생들의 학교 적응을 위한 서비스를 실시한다. [게임 중독](https://ko.wikipedia.org/wiki/게임_중독 "wikilink") , [진로](https://ko.wikipedia.org/wiki/진로 "wikilink"), 개인 [성격](../Page/성격.md "wikilink") 탐구, [학교 폭력문제를](../Page/학교_폭력.md "wikilink") 다룬다.\[1\]
+학생들의 학교 적응을 위한 서비스를 실시한다. [게임 중독](../Page/게임_중독.md "wikilink") , [진로](https://ko.wikipedia.org/wiki/진로 "wikilink"), 개인 [성격](../Page/성격.md "wikilink") 탐구, [학교 폭력문제를](../Page/학교_폭력.md "wikilink") 다룬다.\[1\]
 
 ## 세부 활동
 

@@ -95,7 +95,7 @@ n=31을 소수판별하고 싶다고 하자.
 
 <references/>
 
-## 참고문헌
+## 참고 문헌
 
   - H. W. Lenstra jr. 와 Carl Pomerance, "[Primality testing with Gaussian periods](https://web.archive.org/web/20120225052810/http://www.math.dartmouth.edu/~carlp/aks041411.pdf)", 2011년 4월 12일
 

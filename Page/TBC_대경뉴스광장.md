@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBC 대경뉴스광장](https://ko.wikipedia.org/wiki/TBC_대경뉴스광장).
 
 
-《**TBC 대경뉴스광장**》()은 대한민국 [TBC에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 평일 오후 5시 40분에 방송되는 [TBC의 저녁뉴스 프로그램이다](../Page/TBC의_뉴스_프로그램.md "wikilink").
+《**TBC 대경뉴스광장**》()은 대한민국 [TBC에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 평일 오후 5시 30분에 방송되는 [TBC의 저녁뉴스 프로그램이다](../Page/TBC의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -66,7 +66,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/9월_18일.md" title="wikilink">9월 18일</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -78,6 +78,11 @@
 <tr class="odd">
 <td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_17일.md" title="wikilink">4월 17일</a></p></td>
 <td><p>평일 오후 5시 30분 ~ 저녁 5시 50분 (20분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/9월_21일.md" title="wikilink">9월 21일</a> ~ <strong>현재</strong></p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

@@ -61,7 +61,7 @@
 
 ## 외부 링크
 
-  - [텍사스 A\&M 대학교 웹사이트](http://www.tamu.edu/)
+  -
   - [텍사스 A\&M 한인학생회 웹사이트](http://www.koreanaggies.net/)
 
 [분류:텍사스주의 대학교](https://ko.wikipedia.org/wiki/분류:텍사스주의_대학교 "wikilink") [분류:미국 대학 협회](https://ko.wikipedia.org/wiki/분류:미국_대학_협회 "wikilink") [분류:미국의 공립 대학](https://ko.wikipedia.org/wiki/분류:미국의_공립_대학 "wikilink") [분류:랜드그랜트 대학교](https://ko.wikipedia.org/wiki/분류:랜드그랜트_대학교 "wikilink") [분류:칼리지스테이션](https://ko.wikipedia.org/wiki/분류:칼리지스테이션 "wikilink")

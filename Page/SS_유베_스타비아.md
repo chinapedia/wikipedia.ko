@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - **[세리에 D](https://ko.wikipedia.org/wiki/세리에_D "wikilink")**
+  - **[세리에 D](../Page/세리에_D.md "wikilink")**
       - 승격: 1971–72, 1978–79, 1990–91, 2003–04
 
 <!-- end list -->

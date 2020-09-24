@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [썬더일레븐 GO](https://ko.wikipedia.org/wiki/썬더일레븐_GO).
 
 
-**썬더일레븐 GO**()은 [레벨 파이브가](https://ko.wikipedia.org/wiki/레벨_파이브 "wikilink") 제작한 [닌텐도 3DS용](../Page/닌텐도_3DS.md "wikilink") 축구 RPG 게임 [이나즈마 일레븐 GO를](https://ko.wikipedia.org/wiki/이나즈마_일레븐_GO "wikilink") 원작으로 한 애니메이션이다. 2011년 5월 4일부터 방송중이며, [2012년](../Page/2012년.md "wikilink") [2월 13일에](../Page/2월_13일.md "wikilink") [JEI 재능TV에서](https://ko.wikipedia.org/wiki/JEI_재능TV "wikilink") **썬더 일레븐 GO**라는 더빙판으로 방영시작되었다.
+**썬더일레븐 GO**()은 [레벨 파이브가](https://ko.wikipedia.org/wiki/레벨_파이브 "wikilink") 제작한 [닌텐도 3DS용](../Page/닌텐도_3DS.md "wikilink") 축구 RPG 게임 [이나즈마 일레븐 GO를](https://ko.wikipedia.org/wiki/이나즈마_일레븐_GO "wikilink") 원작으로 한 애니메이션이다. 2011년 5월 4일부터 방송중이며, [2012년](../Page/2012년.md "wikilink") [2월 13일에](../Page/2월_13일.md "wikilink") [투니버스](../Page/투니버스.md "wikilink")에서 **썬더 일레븐 GO**라는 더빙판으로 방영시작되었다.
 
 ## 개요
 

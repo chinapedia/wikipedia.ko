@@ -37,7 +37,7 @@
 
   - 《[쌍갑포차](../Page/쌍갑포차_\(드라마\).md "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [6월 25일](../Page/6월_25일.md "wikilink")
   - 《[우리, 사랑했을까](https://ko.wikipedia.org/wiki/우리,_사랑했을까 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink")
-  - 《[사생활](https://ko.wikipedia.org/wiki/사생활_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [9월](../Page/9월.md "wikilink") \~**현재**
+  - 《[사생활](https://ko.wikipedia.org/wiki/사생활_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") \~ **현재**
 
 ## 같이 보기
 

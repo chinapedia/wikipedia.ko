@@ -10,10 +10,10 @@
   - 시즌1 - [김환](../Page/김환_\(방송인\).md "wikilink"), [이윤아](../Page/이윤아.md "wikilink")-월요일진행. [배지현](../Page/배지현.md "wikilink")-화요일 \~ 금요일진행
   - 시즌2 - [김환](../Page/김환_\(방송인\).md "wikilink"), [이윤아](../Page/이윤아.md "wikilink")- 월요일진행, [배지현](../Page/배지현.md "wikilink")-화요일 \~ 금요일진행
   - 시즌3 - [배지현](../Page/배지현.md "wikilink")-평일진행.[박윤희](https://ko.wikipedia.org/wiki/박윤희 "wikilink")-주말진행
-  - 시즌4 - [김민아](../Page/김민아.md "wikilink")-평일진행.[황보미](../Page/황보미.md "wikilink")-주말진행
-  - 시즌5 - [김민아](../Page/김민아.md "wikilink")-평일진행.[김세희](../Page/김세희.md "wikilink")-주말진행
-  - 시즌6 - [김민아](../Page/김민아.md "wikilink")-평일진행.[진달래](../Page/진달래_\(아나운서\).md "wikilink"), [김세희](../Page/김세희.md "wikilink") - 주말진행
-  - 시즌7 \~ 현재 - [김민아](../Page/김민아.md "wikilink")-평일진행.[진달래](../Page/진달래_\(아나운서\).md "wikilink"), [김세연](https://ko.wikipedia.org/wiki/김세연_\(1991년\) "wikilink") - 주말진행
+  - 시즌4 - [김민아](../Page/김민아_\(아나운서\).md "wikilink")-평일진행.[황보미](../Page/황보미.md "wikilink")-주말진행
+  - 시즌5 - [김민아](../Page/김민아_\(아나운서\).md "wikilink")-평일진행.[김세희](../Page/김세희.md "wikilink")-주말진행
+  - 시즌6 - [김민아](../Page/김민아_\(아나운서\).md "wikilink")-평일진행.[진달래](../Page/진달래_\(아나운서\).md "wikilink"), [김세희](../Page/김세희.md "wikilink") - 주말진행
+  - 시즌7 \~ 현재 - [김민아](../Page/김민아_\(아나운서\).md "wikilink")-평일진행.[진달래](../Page/진달래_\(아나운서\).md "wikilink"), [김세연](https://ko.wikipedia.org/wiki/김세연_\(1991년\) "wikilink") - 주말진행
 
 ## 기타
 

@@ -72,7 +72,7 @@
 <td><p><a href="../Page/롤리_(노스캐롤라이나주).md" title="wikilink">롤리</a></p></td>
 <td><p><a href="../Page/PNC_아레나.md" title="wikilink">RBC 센터</a></p></td>
 <td><p>9,000</p></td>
-<td><p><a href="../Page/부커_허프먼.md" title="wikilink">킹 부커</a> vs. <a href="../Page/보비_래슐리.md" title="wikilink">바비 래쉴리</a> vs. <a href="../Page/데이브_바티스타.md" title="wikilink">바티스타</a> vs. <a href="https://ko.wikipedia.org/wiki/데이브_핀레이" title="wikilink">핀레이</a> (월드 헤비웨이트 챔피언십, 페이탈 4-웨이 매치)</p></td>
+<td><p><a href="../Page/부커_허프먼.md" title="wikilink">킹 부커</a> vs. <a href="../Page/보비_래슐리.md" title="wikilink">바비 래쉴리</a> vs. <a href="../Page/데이브_바티스타.md" title="wikilink">바티스타</a> vs. <a href="../Page/데이브_핀레이.md" title="wikilink">핀레이</a> (월드 헤비웨이트 챔피언십, 페이탈 4-웨이 매치)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007년 10월 7일</p></td>

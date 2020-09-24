@@ -100,6 +100,6 @@
 
   - [SWC 공식 홈페이지](https://web.archive.org/web/20131118175614/http://www.swcwatch.com/)
 
-[분류:1983년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1983년_설립된_기업 "wikilink") [분류:2018년 해산된 기업](https://ko.wikipedia.org/wiki/분류:2018년_해산된_기업 "wikilink") [분류:대한민국의 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_기업 "wikilink") [분류:삼성의 이전 자회사](https://ko.wikipedia.org/wiki/분류:삼성의_이전_자회사 "wikilink") [분류:대한민국의 시계 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_시계_기업 "wikilink")
+[분류:1983년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1983년_설립된_기업 "wikilink") [분류:2018년 해산된 기업](https://ko.wikipedia.org/wiki/분류:2018년_해산된_기업 "wikilink") [분류:대한민국의 제조 기업](https://ko.wikipedia.org/wiki/분류:대한민국의_제조_기업 "wikilink") [분류:삼성의 이전 자회사](https://ko.wikipedia.org/wiki/분류:삼성의_이전_자회사 "wikilink") [분류:손목시계 제조업체](https://ko.wikipedia.org/wiki/분류:손목시계_제조업체 "wikilink")
 
 1.  지금은, 그 별칭이 현재의 회사명으로 되어있다.

@@ -15,15 +15,15 @@
 <td><p><strong>전체</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>1.</p></td>
+<td><p>2.</p></td>
 <td></td>
-<td><p>2020</p></td>
+<td><p>2019</p></td>
 <td><p>38.5</p></td>
 <td><p>14.8</p></td>
 <td><p>26.6[3][4] <small>(<a href="../Page/대한민국의_자살.md" title="wikilink">추가정보</a>)</small></p></td>
 </tr>
 <tr class="odd">
-<td><p>2.</p></td>
+<td><p>1.</p></td>
 <td></td>
 <td><p>2018</p></td>
 <td><p>50.9</p></td>

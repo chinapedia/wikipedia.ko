@@ -17,9 +17,9 @@
 | [KBS 2TV](../Page/KBS_2TV.md "wikilink")                                                                                                                     | [1995년](../Page/1995년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink")     | 매주 [일요일](../Page/일요일.md "wikilink") 오후 5:00 \~ 5:55 | 55분   |
 | [1999년](../Page/1999년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 오후 5:00 \~ 5:50                                                                                                        | 50분                                                 |       |
 | [1999년](../Page/1999년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink")   | 매주 [일요일](../Page/일요일.md "wikilink") 오후 4:50 \~ 5:35                                                                                                        | 45분                                                 |       |
-| [2000년](../Page/2000년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink")   | 매주 [토요일](../Page/토요일.md "wikilink") 오전 11:40 \~ 오후 12:30                                                                                                   | 50분                                                 |       |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                  | [2000년](../Page/2000년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [4월 29일](../Page/4월_29일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 오후 1:10 \~ 2:00 | 50분   |
-| [2001년](../Page/2001년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") \~ **현재**                                                                          | 매주 [일요일](../Page/일요일.md "wikilink") 오전 11:00 \~ 낮 12:00                                                                                                    | 60분                                                 |       |
+| [2000년](../Page/2000년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink")   | 매주 [토요일](../Page/토요일.md "wikilink") 오전 11:40 \~ 12:30                                                                                                      | 50분                                                 |       |
+| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                  | [2000년](../Page/2000년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [4월 29일](../Page/4월_29일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 낮 1:10 \~ 2:00  | 50분   |
+| [2001년](../Page/2001년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") \~ **현재**                                                                          | 매주 [일요일](../Page/일요일.md "wikilink") 오전 11:00 \~ 12:00                                                                                                      | 60분                                                 |       |
 
 ## 역대 진행자
 
@@ -44,7 +44,7 @@
 
 ## 역대 감정품 최고가
 
-1억 이상이 나온 감정품을 연도별로 나열\[2\]했으며,**굵은 글씨**는 10억 이상 또는 감정가를 매길 수는 없지만, 나름 가치가 있는 유물로 나온 감정품이다.
+1억 이상이 나온 감정품을 연도별로 나열\[2\]했으며, **굵은 글씨**는 10억 이상 또는 감정가를 매길 수는 없지만 나름 가치가 있는 유물로 나온 감정품이다.
 
 <table>
 <thead>
@@ -676,6 +676,13 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/9월_20일.md" title="wikilink">9월 20일</a></p></td>
+<td><p>팔도분도첩</p></td>
+<td><p>1</p></td>
+<td><p><strong><a href="../Page/1800년.md" title="wikilink">1800년</a>~<a href="../Page/1823년.md" title="wikilink">1823년</a></strong>사이에 제작된 것으로 추정되는 지도첩으로 백리척 작도법에 의해 제작된 과학적인 지도로 평가.</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -691,12 +698,12 @@
 
 과거(특히 90년대 및 2000년대 초반)에는 서예, 고서 / 도자기 / 미술품 / 민속품 외에 우편, 화석, 악기 등 다양한 의뢰품들이 많아서 감정위원들이 많았었다.
 
-  - 서예, 고서 감정위원 : [김선원](https://ko.wikipedia.org/wiki/김선원 "wikilink"), 심충식 등
-  - 도자기 감정위원 : 김대하, [이상문](https://ko.wikipedia.org/wiki/이상문_\(도예가\) "wikilink")\[10\] 등
+  - 서예, 고서 감정위원 : [김선원](https://ko.wikipedia.org/wiki/김선원 "wikilink"), 전병광, 심충식 등
+  - 도자기 감정위원 : 김대하, 손용두, 임상성, [이상문](https://ko.wikipedia.org/wiki/이상문_\(도예가\) "wikilink")\[10\] 등
   - 미술품(화랑, 유화, 판화, 만화 등) 감정위원 : 이숙영, 최병식, 조은정(판화), 권영섭(만화), 조희영 등
   - 악기 감정위원 : 손성목(축음기, 음반), 김성상(바이올린), 전인평 등
   - 편지, 우표 감정위원 : 김일근, 김갑식, 김요치, [진기홍](https://ko.wikipedia.org/wiki/진기홍 "wikilink") 등
-  - 그 외 감정위원 : [김동섭](https://ko.wikipedia.org/wiki/김동섭_\(지질학자\) "wikilink")(화석), 정윤호(시계), 박재광(군사 유물), 이종봉(금속), 허동현(사진), 김형식(화폐) 등
+  - 그 외 감정위원 : [김동섭](https://ko.wikipedia.org/wiki/김동섭_\(지질학자\) "wikilink")(화석), 정윤호(시계), 박재광(군사 유물), 이종봉(금속), 허동현(사진), 김형식(화폐), 장봉택(수석), 신희철, 정대영 등
 
 ### 현재
 
@@ -705,14 +712,14 @@
   - 서예, 고서 감정위원 : [김영복](https://ko.wikipedia.org/wiki/김영복_\(서예가\) "wikilink")\[11\], 김상환
   - 미술품 감정위원 : [진동만](https://ko.wikipedia.org/wiki/진동만 "wikilink")\[12\], 고금관
   - 도자기 감정위원 : 김준영
-  - 민속품 감정위원 : [양의숙](https://ko.wikipedia.org/wiki/양의숙 "wikilink")\[13\], 김경수
-  - 근대유물 감정위원 : [김영준](https://ko.wikipedia.org/wiki/김영준_\(미술가\) "wikilink")\[14\]
+  - 민속품 감정위원 : [양의숙](https://ko.wikipedia.org/wiki/양의숙 "wikilink")\[13\], 김경수\[14\]
+  - 근대유물 감정위원 : [김영준](https://ko.wikipedia.org/wiki/김영준_\(미술가\) "wikilink")\[15\]
   - 지도 감정위원 : 이상태
 
 ## 논란 및 사건
 
-  - [TV 도쿄의](../Page/TV_도쿄.md "wikilink") 《개운, 무엇이든 감정단》의 포맷을 표절한 의혹이 있다.\[15\]\[16\]
-  - [2013년](../Page/2013년.md "wikilink") [10월 16일에](../Page/10월_16일.md "wikilink") 사측이 MC를 [윤인구](https://ko.wikipedia.org/wiki/윤인구 "wikilink") 아나운서에서 [김동우](https://ko.wikipedia.org/wiki/김동우 "wikilink") 아나운서로 교체하라고 통보해 낙하산 논란이 불거졌으며, [10월 31일에](../Page/10월_31일.md "wikilink") 예정된 녹화가 중단되는 초유의 사태가 일어났다.\[17\] 결국 [11월 3일에](../Page/11월_3일.md "wikilink") 방영된 923회 방송분은 스페셜 방송으로 대체되었다.
+  - [TV 도쿄의](../Page/TV_도쿄.md "wikilink") 《개운, 무엇이든 감정단》의 포맷을 표절한 의혹이 있다.\[16\]\[17\]
+  - [2013년](../Page/2013년.md "wikilink") [10월 16일에](../Page/10월_16일.md "wikilink") 사측이 MC를 [윤인구](https://ko.wikipedia.org/wiki/윤인구 "wikilink") 아나운서에서 [김동우](https://ko.wikipedia.org/wiki/김동우 "wikilink") 아나운서로 교체하라고 통보해 낙하산 논란이 불거졌으며, [10월 31일에](../Page/10월_31일.md "wikilink") 예정된 녹화가 중단되는 초유의 사태가 일어났다.\[18\] 결국 [11월 3일에](../Page/11월_3일.md "wikilink") 방영된 923회 방송분은 스페셜 방송으로 대체되었다.
 
 ## 각주
 
@@ -727,7 +734,7 @@
 [분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1995년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1995년에_시작한_대한민국_TV_프로그램 "wikilink")
 
 1.
-2.  2017년 이전 방영분의 경우 다시보기가 안 되기 때문에, 나열된 의뢰품 외에도 많이 있을 가능성이 있음.
+2.  2017년 이전 방영분의 경우 다시보기가 안 되기 때문에 나열된 의뢰품 외에도 많이 있을 가능성이 있음.
 3.  [다산, 아내 치마 잘라 만든 ‘하피첩’ 진위 논란](http://news.donga.com/3//20060329/8289814/1) 《동아일보》2006.3.29
 4.  일제강점기 임시정부와 쌍성보 전투 등에서 활약한 독립운동가.
 5.  조선 중기의 문신이자 임진왜란 당시 군량미 제공으로 선조로부터 동지중추부사(종2품의 명예직)를 받음.
@@ -739,7 +746,8 @@
 11. 처음 출연 당시(2004년\~2005년)에는 근대 고서 감정을 맡았다.
 12. 양의숙 감정위원 다음으로 오랫동안 출연하고 있는 감정위원.
 13. 진품명품 첫 회부터 최근까지 출연하고 있는 감정위원.
-14. 김영복 위원과 비슷한 시기(2004년)에 출연해 현재까지 참여하고 있는 감정위원.
-15.
+14. 아주 가끔이긴 하지만, 토기 부분도 감정을 맡고 있다.
+15. 김영복 위원과 비슷한 시기(2004년)에 출연해 현재까지 참여하고 있는 감정위원.
 16.
 17.
+18.

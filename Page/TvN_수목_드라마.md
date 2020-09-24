@@ -75,7 +75,7 @@
   - [MBC 수목 드라마](../Page/MBC_수목_드라마.md "wikilink")
   - [SBS 수목 드라마](../Page/SBS_드라마_스페셜.md "wikilink")
   - [JTBC 수목 드라마](../Page/JTBC_수목_드라마.md "wikilink")
-  - [MBN 수목 드라마](https://ko.wikipedia.org/wiki/MBN_수목_드라마 "wikilink")
+  - [MBN 수목 드라마](../Page/MBN_수목_드라마.md "wikilink")
 
 ## 외부 링크
 

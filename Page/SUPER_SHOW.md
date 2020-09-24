@@ -55,7 +55,7 @@
 <td><p>2009년 1월 3일</p></td>
 <td><p>서울</p></td>
 <td></td>
-<td><p>올림픽펜싱경기장[4]<small>(앙코르)</small></p></td>
+<td><p>Sk올림픽 핸드볼경기장[4]<small>(앙코르)</small></p></td>
 <td><p>통산 13,957명</p></td>
 </tr>
 <tr class="odd">

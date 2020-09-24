@@ -210,7 +210,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">대행</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김호영_(축구인)" title="wikilink">김호영</a></p></td>
+<td><p><a href="../Page/김호영_(축구인).md" title="wikilink">김호영</a></p></td>
 <td><p>2020-08-04</p></td>
 <td><p>2020-08-04</p></td>
 <td></td>
@@ -3487,7 +3487,7 @@ U-18팀 코치로 보직 변경</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/김호영_(축구인)" title="wikilink">김호영</a></p></td>
+<td><p><a href="../Page/김호영_(축구인).md" title="wikilink">김호영</a></p></td>
 <td><p>2020년 6월 19일~</p></td>
 <td></td>
 <td></td>
@@ -3657,7 +3657,7 @@ U-18팀 코치로 보직 변경</p></td>
 </tbody>
 </table>
 
-###  [김호영](https://ko.wikipedia.org/wiki/김호영_\(축구인\) "wikilink") 감독 대행 체제 (2020년 7월 30일\~현재)
+###  [김호영](../Page/김호영_\(축구인\).md "wikilink") 감독 대행 체제 (2020년 7월 30일\~현재)
 
 <table>
 <thead>
@@ -3671,7 +3671,7 @@ U-18팀 코치로 보직 변경</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/감독_대행" title="wikilink">감독 대행</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김호영_(축구인)" title="wikilink">김호영</a></p></td>
+<td><p><a href="../Page/김호영_(축구인).md" title="wikilink">김호영</a></p></td>
 <td></td>
 <td><p>감독대행 공식 선임은 2020년 8월 1일</p></td>
 </tr>

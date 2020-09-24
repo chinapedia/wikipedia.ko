@@ -3,7 +3,7 @@
 
 **EXO**는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속의 [대한민국](../Page/대한민국.md "wikilink") 9인조 [보이 그룹이다](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink").
 
-현재 멤버 [수호](../Page/수호_\(가수\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [디오는](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink") 병역을 이행 중에 있다. ([2020년](../Page/2020년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") 기준)
+현재 멤버 [수호](../Page/수호_\(가수\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [디오는](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink") 병역을 이행 중에 있다. 현재 멤버 [레이는](../Page/레이_\(가수\).md "wikilink") 중국 에서 활동중 이다. ([2020년](../Page/2020년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") 기준)
 
 ## 개요
 
@@ -268,15 +268,12 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 </ul></td>
 </tr>
 <tr class="even">
-<td><blockquote>
-<p><a href="../Page/첸_(가수).md" title="wikilink">첸</a></p>
-</blockquote></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/디오_(1993년)" title="wikilink">디오</a></p></td>
 <td><ul>
-<li>본명 : 김종대 (金鍾大)</li>
+<li>본명 : 도경수 (都敬秀)</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/대전광역시" title="wikilink">대전광역시</a></li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>포지션 : 메인보컬</li>
-<li>유닛그룹 : <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
@@ -291,12 +288,15 @@ EXO는 5년 연속 대상을 수상하였으며, 2013년부터 현재까지 총 
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/디오_(1993년)" title="wikilink">디오</a></p></td>
+<td><blockquote>
+<p><a href="../Page/첸_(가수).md" title="wikilink">첸</a></p>
+</blockquote></td>
 <td><ul>
-<li>본명 : 도경수 (都敬秀)</li>
+<li>본명 : 김종대 (金鍾大)</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/대전광역시" title="wikilink">대전광역시</a></li>
 <li>포지션 : 메인보컬</li>
+<li>유닛그룹 : <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a></li>
 <li>활동기간 : <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>

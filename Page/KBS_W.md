@@ -12,7 +12,6 @@
 
 ## 슬로건
 
-  - 대한민국 여성 전문채널
   - 삶을 리드하는 채널
   - 여자, 삶을 리드하다
 
@@ -147,7 +146,7 @@
 
 ## 외부 링크
 
-  - [KBS W 홈페이지](http://www.kbsn.co.kr/w/index.do)
+  - [KBS N 홈페이지](http://www.kbsn.co.kr/index.do)
 
 [분류:한국방송공사의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_네트워크 "wikilink") [분류:생활 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:생활_텔레비전_네트워크 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink")
 

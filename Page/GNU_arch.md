@@ -51,19 +51,19 @@ GNU arch가 가장 많이 받은 비판은 다른 SCM 시스템에 대한 경험
 
 1.  [1](http://lists.gnu.org/archive/html/gnu-arch-users/2008-03/msg00003.html)
 2.  [2](http://www.linuxjournal.com/article/7671)
-3.  [3](http://ml.osdir.com/version-control.arch.user/2003-07/msg00833.html)
-4.  [4](http://lists.gnu.org/archive/html/gnu-arch-users/2004-10/msg00771.html)
-5.  [5](http://lists.gnu.org/archive/html/gnu-arch-users/2005-08/msg00030.html)
-6.  [6](http://bazaar-vcs.org/Baz1x)[7](http://bazaar-vcs.org/HistoryOfBazaar)
+3.
+4.  [3](http://lists.gnu.org/archive/html/gnu-arch-users/2004-10/msg00771.html)
+5.  [4](http://lists.gnu.org/archive/html/gnu-arch-users/2005-08/msg00030.html)
+6.  [5](http://bazaar-vcs.org/Baz1x)[6](http://bazaar-vcs.org/HistoryOfBazaar)
 7.
-8.  [8](http://lists.gnu.org/archive/html/gnu-arch-users/2005-10/msg00246.html)
-9.  [9](http://lists.gnu.org/archive/html/gnu-arch-users/2008-03/msg00003.html)
-10. [10](http://ml.osdir.com/version-control.arch.devel/2005-06/msg00034.html)
-11. [11](http://ml.osdir.com/version-control.arch.devel/2005-06/msg00034.html)
+8.  [7](http://lists.gnu.org/archive/html/gnu-arch-users/2005-10/msg00246.html)
+9.  [8](http://lists.gnu.org/archive/html/gnu-arch-users/2008-03/msg00003.html)
+10.
+11.
 12.
-13. [12](http://lists.gnu.org/archive/html/gnu-arch-users/2005-08/msg00009.html)
+13. [9](http://lists.gnu.org/archive/html/gnu-arch-users/2005-08/msg00009.html)
 14.
-15. [13](http://lists.gnu.org/archive/html/gnu-arch-users/2008-03/msg00000.html)
-16. [14](http://lists.gnu.org/archive/html/gnu-arch-users/2008-03/msg00005.html)
-17. [15](http://sourcefrog.net/weblog/software/vc/arch/whats-wrong.html) [16](http://sourcefrog.net/weblog/software/vc/arch/lord-interview.html)
-18. [17](http://www.enyo.de/fw/software/arch/design-issues.html)
+15. [10](http://lists.gnu.org/archive/html/gnu-arch-users/2008-03/msg00000.html)
+16. [11](http://lists.gnu.org/archive/html/gnu-arch-users/2008-03/msg00005.html)
+17. [12](http://sourcefrog.net/weblog/software/vc/arch/whats-wrong.html) [13](http://sourcefrog.net/weblog/software/vc/arch/lord-interview.html)
+18. [14](http://www.enyo.de/fw/software/arch/design-issues.html)

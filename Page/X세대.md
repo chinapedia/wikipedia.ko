@@ -1,9 +1,7 @@
 > This article is converted from Wikipedia: [X세대](https://ko.wikipedia.org/wiki/X세대).
 
 
-**X 세대**(Generation X)는 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 이후 [베이비 붐이](https://ko.wikipedia.org/wiki/베이비_붐 "wikilink") 끝난 뒤에 서구에서 태어난 세대이다.\[1\] 엄밀하게 정해진 시간 기준은 없지만,\[2\] 대체적으로 1970년대 생을 일컫는다.\[3\]\[4\]\[5\]\[6\]\[7\]
-
-서방세계 최초의 부모세대보다 가난한 세대이다.
+**X 세대**(Generation X)는 [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 이후 [베이비 붐이](https://ko.wikipedia.org/wiki/베이비_붐 "wikilink") 끝난 뒤에 서구에서 태어난 세대이다.\[1\] 엄밀하게 정해진 시간 기준은 없지만,\[2\] 대체적으로 1970년대 생을 일컫는다.\[3\]\[4\]\[5\]\[6\]\[7\] 서방세계 최초의 부모세대보다 가난한 세대이다.
 
 ## 같이 보기
 

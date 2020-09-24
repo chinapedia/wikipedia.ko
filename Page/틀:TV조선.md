@@ -3,7 +3,7 @@
 
 <onlyinclude>[JTBC](https://ko.wikipedia.org/wiki/:틀:JTBC_TV "wikilink"){{·}}[채널 A](https://ko.wikipedia.org/wiki/:틀:채널A_TV "wikilink"){{·}}[MBN](https://ko.wikipedia.org/wiki/:틀:MBN_TV "wikilink")
 
-¹ 유동적으로 편성되는 프로그램
+† 현재 잠정 중단된 프로그램 ¹ 유동적으로 편성되는 프로그램
 ² 연중 1회 방송되는 프로그램
 ³ [SBS F\!L](../Page/SBS_F!L.md "wikilink"), [라이프타임과](../Page/라이프타임_\(텔레비전_네트워크\).md "wikilink") 공동으로 편성되는 프로그램 }}</onlyinclude>
 

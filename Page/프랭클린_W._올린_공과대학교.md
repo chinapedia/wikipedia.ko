@@ -30,7 +30,7 @@ F.W.올린 재단은 올린 공대를 건립한 엔지니어 출신의 기업가
 
 ## 외부 링크
 
-  - [공식 웹사이트](http://www.olin.edu)
+  -
 
 [분류:1997년 개교](https://ko.wikipedia.org/wiki/분류:1997년_개교 "wikilink") [분류:매사추세츠주의 대학교](https://ko.wikipedia.org/wiki/분류:매사추세츠주의_대학교 "wikilink")
 

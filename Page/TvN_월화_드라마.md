@@ -113,7 +113,7 @@
   - [KBS 2TV 월화 드라마](../Page/KBS_2TV_월화_드라마.md "wikilink")
   - [MBC 월화 드라마](https://ko.wikipedia.org/wiki/MBC_월화_드라마 "wikilink")
   - [SBS 월화 드라마](../Page/SBS_월화_드라마.md "wikilink")
-  - [JTBC 월화 드라마](https://ko.wikipedia.org/wiki/JTBC_월화_드라마 "wikilink")
+  - [JTBC 월화 드라마](../Page/JTBC_월화_드라마.md "wikilink")
 
 ## 외부 링크
 

@@ -243,11 +243,39 @@
 
 채널A 계열의 두 번째 채널이다. [2015년](../Page/2015년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 개국하였다. 현재 방송되는 교양 · 예능 프로그램은 재방송하고 있으며, 일부 자체 프로그램도 방영하고 있다.
 
+## 채널 번호
+
+  - 채널A
+
+<!-- end list -->
+
+  - [KT스카이라이프](../Page/KT스카이라이프.md "wikilink") : 13번
+  - [올레 TV](../Page/올레_TV.md "wikilink"), [B TV](../Page/B_TV.md "wikilink"), [U+ TV](../Page/U+_TV.md "wikilink") : 18번
+  - 케이블TV : 대부분 18번이며 일부의 경우 지역에 따라 상이하게 다름.
+
+<!-- end list -->
+
+  - 채널A플러스
+
+<!-- end list -->
+
+  - [KT스카이라이프](../Page/KT스카이라이프.md "wikilink") : 118번
+  - [올레 TV](../Page/올레_TV.md "wikilink") : 98번
+  - [B TV](../Page/B_TV.md "wikilink") : 115번
+  - [U+ TV](../Page/U+_TV.md "wikilink") : 97번
+  - [LG헬로비전](../Page/LG헬로비전.md "wikilink") : 104번
+  - [딜라이브](../Page/딜라이브.md "wikilink") : 70번
+  - [CMB](../Page/CMB_\(방송사\).md "wikilink") : 119번
+  - [B TV 케이블](../Page/SK브로드밴드.md "wikilink") (구 티브로드) : 55번
+  - [현대HCN](../Page/현대HCN.md "wikilink") : 217번
+  - 개별 SO, 8VSB 상품 채널 : 지역에 따라 다름
+
 ## 각주
 
 ## 같이 보기
 
   - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
+  - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
   - [TBS eFM](../Page/TBS_eFM.md "wikilink")
   - [SBS TV](../Page/SBS_TV.md "wikilink")
 

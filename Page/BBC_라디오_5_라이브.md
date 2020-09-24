@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BBC 라디오 5 라이브](https://ko.wikipedia.org/wiki/BBC_라디오_5_라이브).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Logo_BBC_Radio_5_Live.svg "wikilink") **BBC 라디오 5 라이브**(BBC Radio 5 Live)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송 중 하나이다. 주 편성은 스포츠와 뉴스를 중심으로 하며, 긴급 시 뉴스 속보 프로그램도 방송한다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:Logo_BBC_Radio_5_Live.svg "wikilink") **BBC 라디오 5 라이브**(BBC Radio 5 Live)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송 중 하나로, 주 편성은 스포츠와 뉴스를 중심으로 하며, 긴급 시 뉴스 속보 프로그램도 방송한다.
 
 [1990년](../Page/1990년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") [BBC 라디오 2에서](../Page/BBC_라디오_2.md "wikilink") 사용되었던 AM 주파수를 따로 분리하여 개국하였다. 개국 당시에는 "BBC 라디오 5"였으나, [1994년](../Page/1994년.md "wikilink") [3월 28일부터](../Page/3월_28일.md "wikilink") 현재의 이름으로 바뀌었다.
 

@@ -13,15 +13,15 @@
 
   - 05:00 - 07:00 《[낭만가요](https://ko.wikipedia.org/wiki/낭만가요 "wikilink")A》
   - 07:00 - 09:00 《팝 2000A》
-  - 09:00 - 11:00 《꿈의 팝송A》
+  - 09:00 - 11:00 《Feeling Music》
   - 11:00 - 13:00 《[K팝 2000A](https://ko.wikipedia.org/wiki/K팝_2000 "wikilink")》
   - 13:00 - 15:00 《[낭만가요](https://ko.wikipedia.org/wiki/낭만가요 "wikilink")B》
   - 15:00 - 17:00 《팝 2000B》
-  - 17:00 - 19:00 《Korea Train eXpress》
+  - 17:00 - 19:00 《Feeling Music》
   - 19:00 - 21:00 《[K팝 2000B](https://ko.wikipedia.org/wiki/K팝_2000 "wikilink")》
   - 21:00 - 23:00 《[낭만가요](https://ko.wikipedia.org/wiki/낭만가요 "wikilink")A》 (재)
   - 23:00 - 01:00 《팝 2000A》 (재)
-  - 01:00 - 03:00 《꿈의 팝송A》 (재)
+  - 01:00 - 03:00 《Feeling Music》 (재)
   - 03:00 - 05:00 《[K팝 2000A](https://ko.wikipedia.org/wiki/K팝_2000 "wikilink")》 (재)
 
 ## 외부 링크

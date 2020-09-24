@@ -5,7 +5,7 @@
 
 ## 개요
 
-2011년 10월 5일, [SM 엔터테인먼트는](../Page/SM_엔터테인먼트.md "wikilink") [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") 공식 홈페이지를 통해 〈SUPER SHOW 4〉의 공연 일정을 공개하였으며, 같은 달 13일 [G마켓](../Page/G마켓.md "wikilink")을 통해 예매를 시작하였다. 한국 가수 최초의 프랑스 단독 공연과 일본 도쿄 돔 공연 들의 기록을 쓴 바 있으며 2012년 5월 열렸던 서울 앙코르 공연을 끝으로 24회의 공연 횟수와 45만여명의 총 누적 관객을 동원하였다.
+2011년 10월 5일, [SM 엔터테인먼트는](../Page/SM_엔터테인먼트.md "wikilink") [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") 공식 홈페이지를 통해 〈SUPER SHOW 4〉의 공연 일정을 공개하였으며, 같은 달 13일 [G마켓](../Page/G마켓.md "wikilink")을 통해 예매를 시작하였다. 한국 가수 최초의 프랑스 단독 공연과 일본 도쿄 돔 공연 들의 기록을 쓴 바 있으며 2012년 5월 열렸던 서울 앙코르 공연을 끝으로 24회의 공연 횟수와 452,416명의 총 누적 관객을 동원하였다.
 
 ## SUPER SHOW 4 ENCORE
 
@@ -253,7 +253,7 @@
 ## 제작
 
   - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") ([이특](../Page/이특.md "wikilink"), [예성](../Page/예성.md "wikilink"), [신동](../Page/신동_\(가수\).md "wikilink"), [성민](../Page/성민_\(1986년\).md "wikilink"), [은혁](../Page/은혁.md "wikilink"), [시원](../Page/시원_\(가수\).md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink"), [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink")), [조미](../Page/조미_\(가수\).md "wikilink")\[14\], [헨리](../Page/헨리_\(가수\).md "wikilink")\[15\]
-  - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
+  - 주최 : [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink")
   - 주관 : 드림메이커
   - 후원
       - 서울 : [G마켓](../Page/G마켓.md "wikilink")
@@ -389,5 +389,5 @@
 11.
 12.
 13.
-14. [파리](../Page/파리_\(프랑스\).md "wikilink"), [자카르타](../Page/자카르타.md "wikilink") 불참
-15. [파리](../Page/파리_\(프랑스\).md "wikilink"), [자카르타](../Page/자카르타.md "wikilink"), [동경](https://ko.wikipedia.org/wiki/동경 "wikilink"), 서울 앙코르 불참
+14. [파리](../Page/파리_\(프랑스\).md "wikilink"), [자카르타](../Page/자카르타.md "wikilink") 불참.
+15. [파리](../Page/파리_\(프랑스\).md "wikilink"), [자카르타](../Page/자카르타.md "wikilink"), [동경](https://ko.wikipedia.org/wiki/동경 "wikilink"), 서울 앙코르 불참.

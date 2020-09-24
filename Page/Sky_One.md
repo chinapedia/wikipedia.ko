@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sky One](https://ko.wikipedia.org/wiki/Sky_One).
 
 
-**Sky1**(스카이 원)은 [영국](../Page/영국.md "wikilink")과 [아일랜드](../Page/아일랜드.md "wikilink")의 방송국으로 [비 스카이 비](https://ko.wikipedia.org/wiki/비_스카이_비 "wikilink") 소속이다. 1982년 4월 26일에 개국한 영국에서 가장 오래된 비지상파 텔레비전 채널이다. 영국에서는 [스카이 UK](../Page/스카이_UK.md "wikilink"), 디지털 케이블([버진 미디어](https://ko.wikipedia.org/wiki/버진_미디어 "wikilink")), [IPTV](../Page/IPTV.md "wikilink")([톡톡 TV](https://ko.wikipedia.org/wiki/톡톡_TV "wikilink")), 온라인 (Sky GO)을 통해 시청이 가능하고, 아일랜드에서도 [스카이 아일랜드](https://ko.wikipedia.org/wiki/스카이_아일랜드 "wikilink"), [버진 미디어 아일랜드](https://ko.wikipedia.org/wiki/버진_미디어_아일랜드 "wikilink"), [EVision](https://ko.wikipedia.org/wiki/EVision "wikilink")을 통해 시청할 수 있다.
+**Sky One**(스카이 원)은 [영국](../Page/영국.md "wikilink")과 [아일랜드](../Page/아일랜드.md "wikilink")의 방송국으로 스카이 그룹 소속이다. 1982년 4월 26일에 개국한 영국에서 가장 오래된 비지상파 텔레비전 채널이다. 영국에서는 [스카이 UK](../Page/스카이_UK.md "wikilink"), 디지털 케이블([버진 미디어](https://ko.wikipedia.org/wiki/버진_미디어 "wikilink")), [IPTV](../Page/IPTV.md "wikilink")([톡톡 TV](https://ko.wikipedia.org/wiki/톡톡_TV "wikilink")), 온라인 (Sky GO)을 통해 시청이 가능하고, 아일랜드에서도 [스카이 아일랜드](https://ko.wikipedia.org/wiki/스카이_아일랜드 "wikilink"), [버진 미디어 아일랜드](https://ko.wikipedia.org/wiki/버진_미디어_아일랜드 "wikilink"), [EVision](https://ko.wikipedia.org/wiki/EVision "wikilink")을 통해 시청할 수 있다.
 
 ## 연혁
 
@@ -11,16 +11,18 @@
 
 [1988년](../Page/1988년.md "wikilink") 6월 스카이의 4개 채널 구성 및 **스카이 텔레비전** 네트워크 출범을 발표하였다.\[4\] 1989년 2월 5일에 스카이 텔레비전 네트워크(스카이 채널(Sky Channel), [스카이 뉴스](https://ko.wikipedia.org/wiki/스카이_뉴스 "wikilink")(Sky News), 스카이 무비스(Sky Movies), [유로스포츠](https://ko.wikipedia.org/wiki/유로스포츠 "wikilink")(Eurosport))가 출범하였다.
 
-[1989년](../Page/1989년.md "wikilink") 스카이 채널은 '''스카이 원 '''(Sky One)로 이름이 바뀌었고, 영국과 아일랜드 및 대부분 유럽 국가에 송출되었다. [2008년](../Page/2008년.md "wikilink") 8월에 현재의 Sky1란 이름으로 바뀌었다.
+[1989년](../Page/1989년.md "wikilink") 스카이 채널은 '''스카이 원 '''(Sky One)로 이름이 바뀌었고, 영국과 아일랜드 및 대부분 유럽 국가에 송출되었다.
 
-## Sky1 HD
+1996년 9월 1일부터 1년간, 그리고 2008년 8월부터 2017년 10월 8일까지 **Sky 1**으로 표기했다.
 
-**Sky1 HD**는 Sky1의 [HD 채널이다](../Page/고선명_텔레비전.md "wikilink"). 전신은 2006년 5월 22일에 개국한 [Sky HD였으며](https://ko.wikipedia.org/wiki/Sky_HD "wikilink"), 영화 및 Sky1의 일부 프로그램을 HD로 수중계하였다. [2010년](../Page/2010년.md "wikilink") [10월 1일에](../Page/10월_1일.md "wikilink") Sky1 HD의 방송을 시작하였다.
+## Sky One HD
+
+**Sky One HD**는 Sky One의 [HD 채널이다](../Page/고선명_텔레비전.md "wikilink"). 2006년 5월 22일에 Sky에서 개국했다. [2010년](../Page/2010년.md "wikilink") [10월 1일에는](../Page/10월_1일.md "wikilink") 버진미디어에서도 방송을 시작했다.
 
 ## 채널 번호
 
-  - [스카이 UK](../Page/스카이_UK.md "wikilink")-106번(SD/HD)/130번(+1)/170번(SD)
-  - [버진 미디어](https://ko.wikipedia.org/wiki/버진_미디어 "wikilink")-109번(SD)/110번(HD)
+  - [스카이 UK](../Page/스카이_UK.md "wikilink")-106번(SD/HD)/206(+1)/806번(SD)
+  - [버진 미디어](https://ko.wikipedia.org/wiki/버진_미디어 "wikilink")-109번(HD)/110번(SD)
   - [버진 미디어 아일랜드](https://ko.wikipedia.org/wiki/버진_미디어_아일랜드 "wikilink")-114번(SD)/143번(HD)
   - [WightFibre](https://ko.wikipedia.org/wiki/WightFibre "wikilink")-9번
   - [톡톡 TV](https://ko.wikipedia.org/wiki/톡톡_TV "wikilink")-301번

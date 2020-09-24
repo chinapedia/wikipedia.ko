@@ -21,7 +21,7 @@
       - **우승 (1)**: 2006–07
   - **[세리에 C2](https://ko.wikipedia.org/wiki/세리에_C2 "wikilink")**
       - **우승 (1)**: 2003–04
-  - **[세리에 D](https://ko.wikipedia.org/wiki/세리에_D "wikilink")**
+  - **[세리에 D](../Page/세리에_D.md "wikilink")**
       - **우승 (3)**: 1960–61, 1972–73, 1994–95
       - **준우승 (1)**: 2001–02
   - **[에첼렌차](https://ko.wikipedia.org/wiki/에첼렌차 "wikilink") 토스카나**

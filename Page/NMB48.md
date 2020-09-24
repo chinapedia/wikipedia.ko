@@ -9,6 +9,8 @@
 
 그룹명인 〈**NMB**〉의 유래는, 극장의 소재지인 [츄오 구와](https://ko.wikipedia.org/wiki/주오_구_\(오사카_시\) "wikilink") [나니와구](../Page/나니와구.md "wikilink")에 걸친 오사카의 2대 번화가 중 하나, 미나미에 있는 〈[남바](../Page/난바.md "wikilink")〉(**N**A**MB**A)로부터, 〈남바48〉로도 말해진다.
 
+총캡틴:**코지마 카린**
+
 ## 특징
 
 ### 활동 방침
@@ -3008,7 +3010,7 @@ YRCS-95084</p></td>
       - 청춘 걸즈 : 2011년 9월 4일
   - [싱가포르](../Page/싱가포르.md "wikilink") SCAPE에서 공연.
       - 청춘 걸즈 : 2011년 12월 4일
-  - [치바현](../Page/지바현.md "wikilink") [치바시](../Page/지바시.md "wikilink") [미하마구](https://ko.wikipedia.org/wiki/미하마구 "wikilink")에 소재하는 요시모토 마쿠하리 이온 몰 극장에서 공연.
+  - [치바현](../Page/지바현.md "wikilink") [치바시](../Page/지바시.md "wikilink") [미하마구](../Page/미하마구.md "wikilink")에 소재하는 요시모토 마쿠하리 이온 몰 극장에서 공연.
       - 지금 연애 중 : 2014년 1월 4일
 
 ## 수상

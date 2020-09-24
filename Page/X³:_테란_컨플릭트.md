@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [X³: 테란 컨플릭트](https://ko.wikipedia.org/wiki/X³:_테란_컨플릭트).
 
 
-《**X³: 테란 컨플릭트**》는 EGOSOFT사가 개발하고 딥 실버가 발행한 [싱글 플레이](https://ko.wikipedia.org/wiki/싱글_플레이 "wikilink") [우주](../Page/우주.md "wikilink") [무역](https://ko.wikipedia.org/wiki/무역 "wikilink") 및 [우주](../Page/우주.md "wikilink") [전투](../Page/전투.md "wikilink") [시뮬레이션](../Page/시뮬레이션.md "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink"). 전작 **X³: 리유니온**에 이어 후속작이다. [리유니온을](../Page/X³:_리유니온.md "wikilink") 기반으로 제작되었고 독립실행형이며, 리유니온에선 나오지 않았던 테란이 본격적으로 적용이 되었다. 테란이 본격적으로 X 우주에 진입하여 플레이어도 테란으로 플레이 할 수가 있다.
+《**X³: 테란 컨플릭트**》는 EGOSOFT사가 개발하고 딥 실버가 발행한 [싱글 플레이](https://ko.wikipedia.org/wiki/싱글_플레이 "wikilink") [우주](../Page/우주.md "wikilink") [무역](../Page/무역.md "wikilink") 및 [우주](../Page/우주.md "wikilink") [전투](../Page/전투.md "wikilink") [시뮬레이션](../Page/시뮬레이션.md "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink"). 전작 **X³: 리유니온**에 이어 후속작이다. [리유니온을](../Page/X³:_리유니온.md "wikilink") 기반으로 제작되었고 독립실행형이며, 리유니온에선 나오지 않았던 테란이 본격적으로 적용이 되었다. 테란이 본격적으로 X 우주에 진입하여 플레이어도 테란으로 플레이 할 수가 있다.
 
 ## X 우주
 

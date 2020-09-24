@@ -426,7 +426,7 @@
 <tr class="even">
 <td><p>1976</p></td>
 <td><p><a href="../Page/한양대학교.md" title="wikilink">한양대학교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/정순명" title="wikilink">정순명</a>(한양대)</p></td>
+<td><p><a href="../Page/정순명.md" title="wikilink">정순명</a>(한양대)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/고려대학교" title="wikilink">고려대학교</a></p></td>
 </tr>
 <tr class="odd">

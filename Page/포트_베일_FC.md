@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [포트 베일 FC](https://ko.wikipedia.org/wiki/포트_베일_FC).
 
 
-**포트 베일 FC**(Port Vale Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [스태퍼드셔주](https://ko.wikipedia.org/wiki/스태퍼드셔주 "wikilink") [스토크온트렌트](../Page/스토크온트렌트.md "wikilink") 버슬렘(Burslem)을 연고로 하는 축구 클럽이다.
+**포트 베일 FC**(Port Vale Football Club)는 [잉글랜드](../Page/잉글랜드.md "wikilink") [스태퍼드셔주](../Page/스태퍼드셔주.md "wikilink") [스토크온트렌트](../Page/스토크온트렌트.md "wikilink") 버슬렘(Burslem)을 연고로 하는 축구 클럽이다.
 
 포트 베일 FC는 구단명에 지리명이 들어가지 않는 몇몇의 잉글랜드 구단 중 하나로 트렌트 머시 운하에 있는 밸리항의 이름을 따서 구단명을 지었다.
 

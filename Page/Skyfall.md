@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Skyfall](https://ko.wikipedia.org/wiki/Skyfall).
 
 
-"**Skyfall**"은 [아델](../Page/아델.md "wikilink")의 노래로, 영화 《[007 시리즈](https://ko.wikipedia.org/wiki/007_시리즈 "wikilink")》 제 23작 《[007 스카이폴](../Page/007_스카이폴.md "wikilink")》의 주제가이다.\[1\] "Skyfall"은 007 시리즈 50주년이 되는 "글로벌 제임스 본드 데이"인 2012년 10월 5일에 발매되었다.\[2\] 2012년 아카데미 주제가상을 받았다.
+"**Skyfall**"은 [아델](../Page/아델.md "wikilink")의 노래로, 영화 《[007 시리즈](https://ko.wikipedia.org/wiki/007_\(영화_시리즈\) "wikilink")》의 23번째 작품인 《[007 스카이폴](../Page/007_스카이폴.md "wikilink")》의 주제가이다.\[1\] "Skyfall"은 007 시리즈 50주년이 되는 "글로벌 제임스 본드 데이"인 2012년 10월 5일에 발매되었다.\[2\] 2012년 아카데미 주제가상을 받았다.
 
 ## 트랙리스트
 

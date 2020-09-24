@@ -51,7 +51,7 @@ IOMMU는 게스트 OS와 주변기기의 액세스하는 주소의 매핑을 하
 
 ## 각주
 
-## 참고문헌
+## 참고 문헌
 
   -
 [분류:기억 장치](https://ko.wikipedia.org/wiki/분류:기억_장치 "wikilink")

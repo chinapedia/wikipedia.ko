@@ -5,7 +5,7 @@
 
 ## 유명 선수
 
-  - [딘 퍼맨](https://ko.wikipedia.org/wiki/딘_퍼맨 "wikilink")
+  - [딘 퍼맨](../Page/딘_퍼맨.md "wikilink")
 
   - [키스 검스](../Page/키스_검스.md "wikilink")
 

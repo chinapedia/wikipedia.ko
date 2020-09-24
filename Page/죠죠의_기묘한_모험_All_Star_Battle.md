@@ -156,7 +156,7 @@
   - 테렌스 드렌트 다비 & 아툼신
     성우 - [스와베 준이치](../Page/스와베_준이치.md "wikilink")
   - 오잉고 & 크눔신
-    성우 - [스가누마 히사요시](https://ko.wikipedia.org/wiki/스가누마_히사요시 "wikilink")
+    성우 - [스가누마 히사요시](../Page/스가누마_히사요시.md "wikilink")
   - 보잉고 & 토트신
     성우 - [후지모토 타카히로](https://ko.wikipedia.org/wiki/후지모토_타카히로 "wikilink")
 

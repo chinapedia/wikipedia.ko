@@ -16,7 +16,7 @@
   - 1996년 : Kanal 1, TV2가 각각 SVT1, SVT2로 명칭 변경
   - 1999년 : 디지털 지상파 송출 시작,
   - 1999년 3월 15일 : SVT24 개국
-  - 2002년 12월 23일 : Barnkanalen 개국
+  - 2002년 12월 23일 : Barnkanalen (지금의 SVT Barn) 개국
   - 2004년 9월 27일 : Kunskapskanalen 개국
   - 2006년 10월 20일 : HD 채널인 SVT HD 개국
   - 2010년 1월 : SVT24와 Kunskapskanalen이 자리를 바꿈. 이에 24시간 방송하던 SVT24의 방송 시간이 오후 8시부터 오전 5시 30분까지로 대폭 축소됨.\[1\]
@@ -28,8 +28,8 @@
 
   - [SVT1](https://ko.wikipedia.org/wiki/SVT1 "wikilink") - 종합 채널 (디지털 지상파 1번, 24시간 방송)
   - [SVT2](https://ko.wikipedia.org/wiki/SVT2 "wikilink") - 문화 채널 (디지털 지상파 2번, 24시간 방송)
-  - [SVT24](https://ko.wikipedia.org/wiki/SVT24 "wikilink") - 뉴스 채널 (디지털 지상파 98번, SVTB와 채널 공유, 오후 9시 \~ 오전 5시까지 방송)
-  - [Barnkanalen](https://ko.wikipedia.org/wiki/SVT_바른카날렌 "wikilink") - 어린이 채널 (2008년부터 2012년까지 SVTB라는 이름으로 방송했었음. 디지털 지상파 98번, SVT24와 채널 공유, 오전 5시 \~ 오후 9시까지 방송)
+  - [SVT24](https://ko.wikipedia.org/wiki/SVT24 "wikilink") - 뉴스 채널 (디지털 지상파 98번, SVT Barn과 채널 공유, 오후 9시 \~ 오전 5시까지 방송)
+  - [SVT Barn](https://ko.wikipedia.org/wiki/SVT_Barn "wikilink") - 어린이 채널 (2002년 개국 때부터 2008년까지, 2012년부터 2019년까지 Barnkanalen으로, 2008년부터 2012년까지 SVTB라는 이름으로 방송. 디지털 지상파 98번, SVT24와 채널 공유, 오전 5시 \~ 오후 9시까지 방송)
   - [Kunskapskanalen](https://ko.wikipedia.org/wiki/Kunskapskanalen "wikilink") - 다큐멘터리 채널 (공영 교육 방송 UR과 공동 운영. 디지털 지상파 99번, 오전 9시 \~ 오전 1시까지 방송)
   - [SVT World](https://ko.wikipedia.org/wiki/SVT_World "wikilink") - 국제 채널 (2017년 4월 30일 종방)
 

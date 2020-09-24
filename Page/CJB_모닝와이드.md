@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CJB 모닝와이드](https://ko.wikipedia.org/wiki/CJB_모닝와이드).
 
 
-《**CJB 모닝와이드**》는 [대한민국](../Page/대한민국.md "wikilink") [CJB](https://ko.wikipedia.org/wiki/CJB "wikilink")에서 월요일 \~ 목요일 아침 7시 35분에 방송되는 [CJB의 아침 뉴스쇼 프로그램이다](../Page/청주방송의_뉴스_프로그램.md "wikilink").
+《**CJB 모닝와이드**》는 [대한민국](../Page/대한민국.md "wikilink") [CJB에서](../Page/청주방송.md "wikilink") 월요일 \~ 목요일 아침 7시 35분에 방송되는 [CJB의 아침 뉴스쇼 프로그램이다](../Page/청주방송의_뉴스_프로그램.md "wikilink").
 
 ## 기획 의도 / 개요
 
@@ -38,7 +38,7 @@
 | -- | -------------------------------------------------------- | ----------------------------- | ----- |
 | 1대 | [연규옥](https://ko.wikipedia.org/wiki/연규옥 "wikilink") 아나운서 | 2012년 10월 15일 \~ 2018년 3월 30일 |       |
 | 2대 | [최지현](../Page/최지현.md "wikilink") 아나운서                    | 2018년 4월 2일 \~ 2020년 2월 28일   | \[1\] |
-| 3대 | [김세희](../Page/김세희.md "wikilink") 아나운서                    | 2020년 3월 2일 \~ **현재**         |       |
+| 3대 | [김세희](../Page/김세희.md "wikilink") 아나운서                    | 2020년 3월 2일 \~ **현재**         | \[2\] |
 
 ## 타이틀 변천사
 
@@ -81,4 +81,5 @@
 
 [분류:청주방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:청주방송의_뉴스_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink")
 
-1.  [최지현](../Page/최지현.md "wikilink") 아나운서의 출장으로 인하여, 2019년 6월 19잋 \~ 2019년 6월 20일 방송분은 [CJB 8 뉴스의](../Page/CJB_8_뉴스.md "wikilink") 앵커이자 충북 오늘은의 2대 여성 진행자인 [연규옥](https://ko.wikipedia.org/wiki/연규옥 "wikilink") 아나운서가 대신 진행했고, 2019년 6월 21일 방송분은 당시 [CJB 7 뉴스의](https://ko.wikipedia.org/wiki/CJB_7_뉴스 "wikilink") 진행을 맡고 있던 [안정은](https://ko.wikipedia.org/wiki/안정은 "wikilink") 기자가 대신 진행했다.
+1.  [최지현](../Page/최지현.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2019년 6월 19일 \~ 2019년 6월 20일 방송분은 [CJB 8 뉴스의](../Page/CJB_8_뉴스.md "wikilink") 앵커이자 충북 오늘은의 1대 여성 진행자인 [연규옥](https://ko.wikipedia.org/wiki/연규옥 "wikilink") 아나운서가 대신 진행했고, 2019년 6월 21일 방송분은 당시 [CJB 7 뉴스의](https://ko.wikipedia.org/wiki/CJB_7_뉴스 "wikilink") 진행을 맡고 있던 [안정은](https://ko.wikipedia.org/wiki/안정은 "wikilink") 기자가 대신 진행했다.
+2.  [김세희](../Page/김세희.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2020년 9월 3일 방송분은 [CJB 8 뉴스의](../Page/CJB_8_뉴스.md "wikilink") 앵커이자 CJB 모닝와이드의 1대 여성 앵커인 [연규옥](https://ko.wikipedia.org/wiki/연규옥 "wikilink") 아나운서가 대신 진행했다.

@@ -16,7 +16,7 @@
         작곡·편곡: 쿠리하라 사토루(Jazzin'park), 쿠보타 싱고(Jazzin'park)
 2.  **Black & White**
       -
-        작사: Sunny Boy / 작곡·편곡: [Steven Lee](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink")
+        작사: Sunny Boy / 작곡·편곡: [Steven Lee](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink")
 3.  **[WANNA BEEEE\!\!\!](https://ko.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")**
       -
         작사: KOMU / 작곡: CHOKKAKU, 히로이즘 / 편곡: CHOKKAKU

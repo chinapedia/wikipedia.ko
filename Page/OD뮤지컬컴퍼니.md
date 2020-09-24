@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OD뮤지컬컴퍼니](https://ko.wikipedia.org/wiki/OD뮤지컬컴퍼니).
 
 
-**(주)오디뮤지컬컴퍼니**(OD MUSICAL COMPANY)는 [뮤지컬](../Page/뮤지컬.md "wikilink"), [연극](../Page/연극.md "wikilink") 등의 공연예술작품을 기획, 제작하는 대한민국의 프로듀싱 컴퍼니이다.
+**(주)오디컴퍼니**(OD MUSICAL COMPANY)는 [뮤지컬](../Page/뮤지컬.md "wikilink"), [연극](../Page/연극.md "wikilink") 등의 공연예술작품을 기획, 제작하는 대한민국의 프로듀싱 컴퍼니이다.
 
 대표작으로는 뮤지컬 [지킬앤하이드](../Page/지킬_앤드_하이드_\(뮤지컬\).md "wikilink")(JEKYLL & HYDE), [그리스](https://ko.wikipedia.org/wiki/그리스_\(뮤지컬\) "wikilink"), [드림걸즈](https://ko.wikipedia.org/wiki/드림걸즈 "wikilink")([en](https://ko.wikipedia.org/wiki/:en:Dreamgirls "wikilink")), [맨오브라만차](https://ko.wikipedia.org/wiki/맨오브라만차 "wikilink")([en](https://ko.wikipedia.org/wiki/:en:Man_of_La_Mancha "wikilink")), [닥터 지바고](../Page/닥터_지바고.md "wikilink") 등이 있다.
 

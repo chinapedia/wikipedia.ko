@@ -3,6 +3,8 @@
 
 **MBN 수목 드라마**는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink")을 통해 매주 [수요일](../Page/수요일.md "wikilink")부터 [목요일](../Page/목요일.md "wikilink") 오후 11시에 방송 중인 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink"). 원래 [2012년](../Page/2012년.md "wikilink") [5월 9일부터](../Page/5월_9일.md "wikilink") [2012년](../Page/2012년.md "wikilink") [6월 28일까지](../Page/6월_28일.md "wikilink") 오후 8시 45분에 편성되었다가 폐지되었다. 이후 [2018년](../Page/2018년.md "wikilink")부터 봄 개편으로 오후 11시로 재편성되었다가 [2019년](../Page/2019년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") 다시 부활되었다.
 
+## 방송 시간
+
 ## 작품 목록
 
   - 아래의 프로그램들은 [2002년](../Page/2002년.md "wikilink") [11월](../Page/11월.md "wikilink") 이후에 시청 가능 연령을 표시하는 [드라마 등급 제도를](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 의무적으로 시행하여 현재까지 이어지고 있다.

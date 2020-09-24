@@ -10,7 +10,7 @@
   - [2014년](../Page/2014년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") : 여객 영업 개시\[2\]
   - [2014년](../Page/2014년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") : [경전선](../Page/경전선.md "wikilink"), [전라선](../Page/전라선.md "wikilink") 운행 개시
   - [2014년](../Page/2014년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") : [인천국제공항철도](../Page/인천국제공항철도.md "wikilink") [KTX](../Page/한국고속철도.md "wikilink") 운행과 함께 [경부선](../Page/경부선.md "wikilink"), [호남선](../Page/호남선.md "wikilink"), [전라선](../Page/전라선.md "wikilink") 증편
-  - [2014년](../Page/2014년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : [중앙선](../Page/중앙선.md "wikilink") 운행 개시
+  - [2014년](../Page/2014년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : [중앙선](../Page/중앙선.md "wikilink") 운행 개시. 시종착역은 [안동역](../Page/안동역.md "wikilink")에서 [영주역](../Page/영주역.md "wikilink")으로 단축.
   - [2015년](../Page/2015년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink") : [호남선 KTX](../Page/호남고속철도.md "wikilink") 운행과 함께 [호남선](../Page/호남선.md "wikilink") 증편
   - [2016년](../Page/2016년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") : [동해선](https://ko.wikipedia.org/wiki/동해선 "wikilink") 운행 개시
   - [2017년](../Page/2017년.md "wikilink") [12월 15일](../Page/12월_22일.md "wikilink") : [강릉선 KTX](../Page/강릉선.md "wikilink") 개통 및 [평창동계올림픽](../Page/2018년_동계_올림픽.md "wikilink") 특별수송기간으로 [중앙선](../Page/중앙선.md "wikilink") 운행 중단
@@ -18,7 +18,7 @@
 
 ## 차량/기술 사양
 
-[간선 전기 동차로](https://ko.wikipedia.org/wiki/간선_전기_동차 "wikilink") 6량 편성으로 운행되고 열차카페는 없으며, 대신 자판기가 설치되어 있다.
+[간선 전기 동차로](https://ko.wikipedia.org/wiki/간선_전기_동차 "wikilink") 6량 편성으로 운행되고 자판기가 설치되어 있다.
 
 ### 차체
 

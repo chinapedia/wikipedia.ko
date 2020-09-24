@@ -19,4 +19,4 @@
 
   - [S.T. 듀퐁](https://web.archive.org/web/20111202051834/http://www.st-dupont.com/en)
 
-[분류:1872년 설립](https://ko.wikipedia.org/wiki/분류:1872년_설립 "wikilink") [분류:프랑스의 브랜드](https://ko.wikipedia.org/wiki/분류:프랑스의_브랜드 "wikilink") [분류:호화 상표](https://ko.wikipedia.org/wiki/분류:호화_상표 "wikilink")
+[분류:1872년 설립](https://ko.wikipedia.org/wiki/분류:1872년_설립 "wikilink") [분류:프랑스의 브랜드](https://ko.wikipedia.org/wiki/분류:프랑스의_브랜드 "wikilink") [분류:호화 상표](https://ko.wikipedia.org/wiki/분류:호화_상표 "wikilink") [분류:필기구 제조사](https://ko.wikipedia.org/wiki/분류:필기구_제조사 "wikilink")

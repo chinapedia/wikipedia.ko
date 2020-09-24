@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [오픈SSH](https://ko.wikipedia.org/wiki/오픈SSH).
 
 
-**오픈SSH**(OpenSSH, OpenBSD Secure Shell)는 [ssh](../Page/시큐어_셸.md "wikilink") 프로토콜을 이용하여 [암호화](../Page/암호화.md "wikilink")된 통신 세션을 [컴퓨터 네트워크에](../Page/컴퓨터_네트워크.md "wikilink") 제공하는 [컴퓨터 프로그램의](https://ko.wikipedia.org/wiki/컴퓨터_소프트웨어 "wikilink") 모임이다. [SSH 커뮤니케이션스 시큐리티가](https://ko.wikipedia.org/wiki/텍티아 "wikilink") 제공하는 사유 [시큐어 셸](../Page/시큐어_셸.md "wikilink") 소프트웨어 제품군을 대체할 목적으로 [오픈 소스로](../Page/오픈_소스.md "wikilink") 작성되었다. [테오 드 라트의](https://ko.wikipedia.org/wiki/테오_드_라트 "wikilink") 주도 하에 오픈SSH는 보안을 중시하는 [오픈BSD](https://ko.wikipedia.org/wiki/openBSD "wikilink") 프로젝트의 일부로 개발되었다.\[1\] 이 프로젝트의 개발은 기부로 운영된다.
+**오픈SSH**(OpenSSH, OpenBSD Secure Shell)는 [시큐어 셸](../Page/시큐어_셸.md "wikilink") (Secure Shell, SSH) 프로토콜을 이용하여 [암호화](../Page/암호화.md "wikilink")된 통신 세션을 [컴퓨터 네트워크에](../Page/컴퓨터_네트워크.md "wikilink") 제공하는 [컴퓨터 프로그램의](https://ko.wikipedia.org/wiki/컴퓨터_소프트웨어 "wikilink") 모임이다. [SSH 커뮤니케이션스 시큐리티가](https://ko.wikipedia.org/wiki/텍티아 "wikilink") 제공하는 사유 [시큐어 셸](../Page/시큐어_셸.md "wikilink") 소프트웨어 제품군을 대체할 목적으로 [오픈 소스로](../Page/오픈_소스.md "wikilink") 작성되었다. [테오 드 라트의](https://ko.wikipedia.org/wiki/테오_드_라트 "wikilink") 주도 하에 오픈SSH는 보안을 중시하는 [오픈BSD](https://ko.wikipedia.org/wiki/openBSD "wikilink") 프로젝트의 일부로 개발되었다.\[1\] 이 프로젝트의 개발은 기부로 운영된다.
 
 ## 역사
 

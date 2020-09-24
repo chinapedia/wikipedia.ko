@@ -753,7 +753,7 @@ kt vs SK</p></td>
 <td><p>김성길(시구), <a href="../Page/김택진.md" title="wikilink">김택진</a>(시포)<br />
 <a href="../Page/김서형.md" title="wikilink">김서형</a><br />
 <a href="../Page/이용섭.md" title="wikilink">이용섭</a><br />
-<a href="https://ko.wikipedia.org/wiki/김소혜" title="wikilink">김소혜</a><br />
+<a href="../Page/김소혜.md" title="wikilink">김소혜</a><br />
 이태오(시구) / 오연지(시타)</p></td>
 <td><p>전 <a href="https://ko.wikipedia.org/wiki/무학초등학교_(경남)" title="wikilink">무학초등학교</a> 야구부 감독 / NC 구단주<br />
 배우<br />

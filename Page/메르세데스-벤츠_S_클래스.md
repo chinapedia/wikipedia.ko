@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [메르세데스-벤츠 S 클래스](https://ko.wikipedia.org/wiki/메르세데스-벤츠_S_클래스).
 
 
-**메르세데스-벤츠 S 클래스**(Mercedes-Benz S-Class)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조하여 독일의 고급 자동차 회사인 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 브랜드로 판매하는 대형 승용차이다.
+**메르세데스-벤츠 S 클래스**(Mercedes-Benz S-Class)는 [다임러 AG가](../Page/다임러_AG.md "wikilink") 제조하여 독일의 고급 자동차 회사인 [메르세데스-벤츠](../Page/메르세데스-벤츠.md "wikilink") 브랜드로 판매하는 대형 프리미엄 세단이다.
 
 {{-}}
 
@@ -98,7 +98,7 @@ S 클래스라는 차명이 처음 적용되었으며, [1972년](../Page/1972년
   - [재규어](../Page/재규어_자동차.md "wikilink") - [XJ](../Page/재규어_XJ.md "wikilink")
   - [링컨](../Page/링컨_\(자동차\).md "wikilink") - [컨티넨탈](https://ko.wikipedia.org/wiki/링컨_컨티넨탈 "wikilink")
   - [캐딜락](../Page/캐딜락.md "wikilink") - [CT6](../Page/캐딜락_CT6.md "wikilink")
-  - [마세라티](../Page/마세라티.md "wikilink") - [콰트로포르테](https://ko.wikipedia.org/wiki/마세라티_콰트로포르테 "wikilink")
+  - [마세라티](../Page/마세라티.md "wikilink") - [콰트로포르테](https://ko.wikipedia.org/wiki/마세라티_콰트로포르테 "wikilink") - [기아](https://ko.wikipedia.org/wiki/기아 "wikilink") - [기아 K9](../Page/기아_K9.md "wikilink")
 
 ## 각주
 

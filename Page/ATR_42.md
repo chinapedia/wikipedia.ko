@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ATR 42](https://ko.wikipedia.org/wiki/ATR_42).
 
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:Air_Madagascar_ATR_42-500_\(5R-MJG\)_parked_at_Toliara_Airport.jpg "wikilink") ATR 42-500\]\] **ATR 42**는 [프랑스](../Page/프랑스.md "wikilink")의 항공기 제조회사인 [ATR에서](https://ko.wikipedia.org/wiki/ATR_\(항공기_제조업체\) "wikilink") 제작한 단거리용 쌍발 [터보프롭](../Page/터보프롭.md "wikilink") 항공기이다.
+[섬네일의](https://ko.wikipedia.org/wiki/파일:ATR_ATR-42-500,_CSA_-_Czech_Airlines_AN1716018.jpg "wikilink") ATR 42-500\]\] **ATR 42**는 [프랑스](../Page/프랑스.md "wikilink")의 항공기 제조회사인 [ATR에서](https://ko.wikipedia.org/wiki/ATR_\(항공기_제조업체\) "wikilink") 제작한 단거리용 쌍발 [터보프롭](../Page/터보프롭.md "wikilink") 항공기이다.
 
 ## 역사
 

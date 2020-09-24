@@ -3410,7 +3410,7 @@ Cee my Nail 오너</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/데구치_아키" title="wikilink">데구치 아키</a></p></td>
 <td></td>
 <td><p>2007년 11월 26일</p></td>
-<td><p>-</p></td>
+<td><p>크로커다일</p></td>
 <td><p>졸업</p></td>
 <td><p>전 <a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td></td>

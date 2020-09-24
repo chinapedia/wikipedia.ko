@@ -62,7 +62,7 @@
   - 라이벌인 [에이브러햄 링컨이](../Page/에이브러햄_링컨.md "wikilink") 키가 크고 깡마른 체격의 소유자인 반면 스티븐 A. 더글러스는 작지만 단단한 체격을 지녀서 두 사람이 같이 서 있으면 대조되었다.
   - 발성이 상당히 좋아서 그의 목소리는 크고 중우하며 우렁찼다.
 
-## 참고문헌
+## 참고 문헌
 
   - McPherson, James M. *Battle Cry of Freedom*. Oxford Univ. Press, 1988. Standard modern history of the war.
   - Dean; Eric T., Jr. "Stephen A. Douglas and Popular Sovereignty" *Historian* 1995 57(4): 733-748 [online version](http://www.questia.com/PM.qst?a=o&d=5001651628)

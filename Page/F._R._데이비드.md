@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [F. R. 데이비드](https://ko.wikipedia.org/wiki/F._R._데이비드).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:FRDavid_cpr.jpg "wikilink") F. R. 데이비드(F. R. David, 본명: Robert Fitoussi, 1947년 1월 1일)는 튀니지계 프랑스인 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") 겸 팝 가수이다. 이 가수는 '사랑한다는 표현을 말로 옮기기 어렵다'는 가사의 싱글 'Words'와 '음악이 나를 슬프게 한다'는 'Music'을 히트시키고 계속해서 하드 록 풍 댄스곡 'Pick Up The Phone'으로 그 상승세를 도합 몇 년간 지속했다. 그의 첫 번째 음반은 한국의 예음사에서 발매되어 당시 십만장 이상의 LP 판매고를 올렸다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:FRDavid_cpr.jpg "wikilink") F. R. 데이비드(F. R. David, 본명: Robert Fitoussi, 1947년 1월 1일)는 튀니지계 프랑스인 [싱어송라이터](https://ko.wikipedia.org/wiki/싱어송라이터 "wikilink") 겸 팝 가수이다. 이 가수는 '사랑한다는 표현을 말로 옮기기 어렵다'는 가사의 싱글 'Words'와 '음악이 나를 슬프게 한다'는 'Music'을 히트시키고 계속해서 하드 록 풍 댄스곡 'Pick Up The Phone'으로 그 상승세를 도합 몇 년간 지속했다. 그의 첫 번째 음반은 한국의 예음사에서 발매되어 당시 10만 장 이상의 LP 판매고를 올렸다.
 
 ## 소개
 
 그리스의 [반젤리스](https://ko.wikipedia.org/wiki/반젤리스 "wikilink")(Vangelis)가 조직했던 그룹 오디세이(Odyssey)에 발탁되어 라이브에서 베이스를 연주했던 그는 템페스트(Tempest)라는 [반젤리스](https://ko.wikipedia.org/wiki/반젤리스 "wikilink") 서포트 팀을 만들어 같이 공연을 다녔으며 반젤리스의 솔로 앨범인 'Earth'에서 보컬과 베이스로 참여하게 되었다. 그는 계속 솔로 음반을 발표했으며 프랑스의 하드 록 그룹 바리에이션(Les Variations)에 몸담고 'Cafe De Paris' 음반을 발표했다. 하지만 보컬을 맡았던 그 팀에서 나오게 되었고 미국에서 두비 브라더스(The Dooby Brothers), 오 제이(The O'Jays), 토토(Toto) 등의 음반에 참여하며 미국 진출의 호기를 기다렸다.
 
-그는 싱글 'Words'가 유럽 전역에서 히트하는 것을 보고 프랑스로 돌아가 터를 잡았다. 1981년 프랑스에서 1위를 차지한 이 곡은 1982년 말 유럽 전역에서 정상을 밟았으며 영국 BBC의 TOTP에 나간 이후 영국에서도 1983년 2위까지 오르는 기록을 세웠다. 이 곡이 든 앨범은 전세계에서 총 1200만장이상의 판매고를 올렸으며 검은 선글라스와 하얀 스트라토캐스터 펜더 기타는 그의 트레이드마크가 되었다. 또한 미디엄 템포와 그룹 예스(Yes)의 존 앤더슨(Jon Anderson)을 연상시키는 미성의 목소리는 1980년대 중반 유럽 전역에서 인기를 얻는 그룹 모던 토킹(Modern Talking)에게 지대한 영향을 미쳤다. 실제로 이들의 첫 번째 곡은 F.R. 데이비드의 'Pick Up The Phone'을 독일어로 리메이크한 곡이었다.
+그는 싱글 'Words'가 유럽 전역에서 히트하는 것을 보고 프랑스로 돌아가 터를 잡았다. 1981년 프랑스에서 1위를 차지한 이 곡은 1982년 말 유럽 전역에서 정상을 밟았으며 영국 BBC의 TOTP에 나간 이후 영국에서도 1983년 2위까지 오르는 기록을 세웠다. 이 곡이 든 앨범은 전세계에서 총 1200만 장 이상의 판매고를 올렸으며 검은 선글라스와 하얀 스트라토캐스터 펜더 기타는 그의 트레이드마크가 되었다. 또한 미디엄 템포와 그룹 예스(Yes)의 존 앤더슨(Jon Anderson)을 연상시키는 미성의 목소리는 1980년대 중반 유럽 전역에서 인기를 얻는 그룹 모던 토킹(Modern Talking)에게 지대한 영향을 미쳤다. 실제로 이들의 첫 번째 곡은 F.R. 데이비드의 'Pick Up The Phone'을 독일어로 리메이크한 곡이었다.
 
 대성공을 거둔 첫 앨범에 이어 1984년 싱글로 발표한 'I Need You'도 유럽 전역에서 메가 히트를 기록했고 국내에서 'Girl(You Are My Song)'이 많은 인기를 끌었던 두 번째 앨범 'Long Distance Flight'도 많은 사랑을 받았다. 이 앨범에는 'This Time I Have To Win'이라는 뛰어난 곡이 수록되어 있다. 이에 힘입어 그는 CBS와 계약을 맺었으며 'Reflections'라는 음반을 발매했다. 여기에서도 'Don't Go'와 'Sun', 'Sahara Night'이 계속 인기를 얻었다.
 

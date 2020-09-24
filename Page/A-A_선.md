@@ -9,7 +9,7 @@
 
 대부분의 [붉은 군대가](../Page/붉은_군대.md "wikilink") 선 서부에는 겨울까지 도달하기 전에 [기습](https://ko.wikipedia.org/wiki/기습 "wikilink")으로 실패했다.\[7\] 독일의 [국방군은](../Page/독일_국방군.md "wikilink") 소련에게 군사 물자 및 [식품과](https://ko.wikipedia.org/wiki/식품_산업 "wikilink") [인구의](https://ko.wikipedia.org/wiki/인적_자원 "wikilink") 대부분이 소련에게 그어진 선 서쪽에 있을 것이라 판단했다.\[8\] 우랄 산맥의 동쪽 경계는 고려할 필요가 없다고 생각하였다. 그러나, 독일은 나중에 제국의 경계가 우랄산맥을 넘길 것이라고 생각했고, 남은 슬라브 민족을 산 너머의 유럽 바깥으로 보낼 계획을 세웠다. 이 계획은 노예가 된 사람 이외의 모든 슬라브인에게 적용되는 것이었다.\[9\] 만약 이 선에 도달한다면, [카프카스](https://ko.wikipedia.org/wiki/카프카스 "wikilink")와 [바쿠](../Page/바쿠.md "wikilink")의 석유 단지를 점령하면서 자국의 [석유](https://ko.wikipedia.org/wiki/석유 "wikilink") 충족량의 86%가 해결된다고 예상했다. 소련 파괴에 대한 군사 전략은 지리적 차원에서는 불가능한 것으로 판명되었기 때문에, 특히 군사적 의미에서 A-A 선의 경계를 지정하였다. 나머지 선 동부의 소련 산업 단지는 대부분 [루프트바페](../Page/루프트바페.md "wikilink")의 공중 폭격으로 파괴될 예정이었다.\[10\]
 
-## 더 보기
+## 같이 보기
 
   - [바르바로사 작전](../Page/바르바로사_작전.md "wikilink")
   - [나치 독일의 우랄 산맥 계획](../Page/나치_독일의_우랄_산맥_계획.md "wikilink")
@@ -17,9 +17,11 @@
 
 ## 각주
 
-<references group="nb" />
+  - 내용
 
-## 참조
+<!-- end list -->
+
+  - 출처
 
 [분류:소련의 역사](https://ko.wikipedia.org/wiki/분류:소련의_역사 "wikilink") [분류:나치 독일](https://ko.wikipedia.org/wiki/분류:나치_독일 "wikilink") [분류:추축국](https://ko.wikipedia.org/wiki/분류:추축국 "wikilink")
 

@@ -238,16 +238,13 @@
 <tr class="even">
 <td><p>9기</p></td>
 <td><p><a href="../Page/이재홍_(아나운서).md" title="wikilink">이재홍</a></p></td>
-<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/9월_7일.md" title="wikilink">9월 7일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/4월_12일.md" title="wikilink">4월 12일</a><br />
-<a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a><br />
-<a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/4월_26일.md" title="wikilink">4월 26일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/11월_1일.md" title="wikilink">11월 1일</a></p></td>
+<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/9월_7일.md" title="wikilink">9월 7일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/11월_1일.md" title="wikilink">11월 1일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10기</p></td>
 <td><p><a href="../Page/김홍성.md" title="wikilink">김홍성</a></p></td>
-<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/11월_8일.md" title="wikilink">11월 8일</a> ~ 2015년 8월 7일<br />
-<a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/8월_14일.md" title="wikilink">8월 14일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/11월_8일.md" title="wikilink">11월 8일</a> ~ <a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/8월_14일.md" title="wikilink">8월 14일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -259,21 +256,7 @@
 <tr class="odd">
 <td><p>12기</p></td>
 <td><p><a href="../Page/백정원.md" title="wikilink">백정원</a></p></td>
-<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_2일.md" title="wikilink">10월 2일</a> ~ 2015년 12월 25일<br />
-2015년 12월 31일<br />
-2016년 1월 8일 ~ 2016년 9월 2일<br />
-2016년 9월 10일<br />
-2016년 9월 13일<br />
-2016년 9월 23일 ~ 2016년 12월 2일<br />
-2016년 12월 8일<br />
-2016년 12월 16일 ~ 2017년 1월 20일<br />
-2017년 1월 26일<br />
-2017년 2월 3일 ~ 2017년 2월 10일<br />
-2017년 2월 17일 ~ 2017년 3월 3일<br />
-2017년 3월 9일<br />
-2017년 3월 17일 ~ 2017년 4월 28일<br />
-2017년 5월 4일<br />
-2017년 5월 12일 ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_1일.md" title="wikilink">9월 1일</a></p></td>
+<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/10월_2일.md" title="wikilink">10월 2일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/9월_1일.md" title="wikilink">9월 1일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -297,23 +280,13 @@
 <tr class="odd">
 <td><p>14기</p></td>
 <td><p><a href="../Page/이재후_(아나운서).md" title="wikilink">이재후</a></p></td>
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_2일.md" title="wikilink">3월 2일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_6일.md" title="wikilink">4월 6일</a><br />
-<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_13일.md" title="wikilink">4월 13일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a><br />
-<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_26일.md" title="wikilink">4월 26일</a><br />
-<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/5월_4일.md" title="wikilink">5월 4일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/8월_17일.md" title="wikilink">8월 17일</a><br />
-<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a><br />
-<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a><br />
-<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/9월_7일.md" title="wikilink">9월 7일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/3월_29일.md" title="wikilink">3월 29일</a></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_2일.md" title="wikilink">3월 2일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/3월_29일.md" title="wikilink">3월 29일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>15기</p></td>
 <td><p><a href="../Page/김태규_(아나운서).md" title="wikilink">김태규</a></p></td>
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_6일.md" title="wikilink">4월 6일</a><br />
-2019년 4월 12일 ~ 2019년 8월 30일<br />
-2019년 9월 6일<br />
-2019년 9월 13일<br />
-2019년 9월 20일 ~ <strong>진행중</strong></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_6일.md" title="wikilink">4월 6일</a> ~ <strong>현재</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -419,31 +392,19 @@
 <tr class="odd">
 <td><p>12기</p></td>
 <td><p><a href="../Page/전주리.md" title="wikilink">전주리</a></p></td>
-<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/6월_17일.md" title="wikilink">6월 17일</a> ~ 2017년 1월 20일<br />
-2017년 1월 26일<br />
-2017년 2월 3일 ~ 2017년 2월 10일<br />
-2017년 2월 17일 ~ 2017년 3월 3일<br />
-2017년 3월 9일<br />
-2017년 3월 17일 ~ 2017년 4월 28일<br />
-2017년 5월 4일<br />
-2017년 5월 12일 ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/6월_16일.md" title="wikilink">6월 16일</a></p></td>
+<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/6월_17일.md" title="wikilink">6월 17일</a> ~ <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/6월_16일.md" title="wikilink">6월 16일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>13기</p></td>
 <td><p><a href="../Page/강서은.md" title="wikilink">강서은</a></p></td>
-<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/6월_23일.md" title="wikilink">6월 23일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_6일.md" title="wikilink">4월 6일</a><br />
-<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_13일.md" title="wikilink">4월 13일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a><br />
-<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_26일.md" title="wikilink">4월 26일</a><br />
-<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/5월_4일.md" title="wikilink">5월 4일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/5월_11일.md" title="wikilink">5월 11일</a></p></td>
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/6월_23일.md" title="wikilink">6월 23일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/5월_11일.md" title="wikilink">5월 11일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>14기</p></td>
 <td><p><a href="../Page/이혜성.md" title="wikilink">이혜성</a></p></td>
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/8월_17일.md" title="wikilink">8월 17일</a><br />
-<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a><br />
-<a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a></p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/8월_31일.md" title="wikilink">8월 31일</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -456,22 +417,12 @@
 <td><p>16기</p></td>
 <td><p><a href="../Page/김종현_(1992년).md" title="wikilink">김종현</a></p></td>
 <td><p><a href="../Page/박소현_(1992년).md" title="wikilink">박소현</a></p></td>
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/10월_12일.md" title="wikilink">10월 12일</a> ~ 2019년 3월 29일<br />
-2019년 4월 6일<br />
-2019년 4월 12일 ~ 2019년 8월 30일<br />
-2019년 9월 6일<br />
-2019년 9월 13일<br />
-2019년 9월 20일</p></td>
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/10월_12일.md" title="wikilink">10월 12일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/9월_20일.md" title="wikilink">9월 20일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>17기</p></td>
 <td><p><a href="../Page/남현종.md" title="wikilink">남현종</a></p></td>
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/9월_27일.md" title="wikilink">9월 27일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_4일.md" title="wikilink">10월 4일</a><br />
-<a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/10월_18일.md" title="wikilink">10월 18일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/11월_8일.md" title="wikilink">11월 8일</a><br />
-<a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/11월_22일.md" title="wikilink">11월 22일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/12월_13일.md" title="wikilink">12월 13일</a><br />
-<a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/12월_27일.md" title="wikilink">12월 27일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/1월_10일.md" title="wikilink">1월 10일</a><br />
-<a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/1월_24일.md" title="wikilink">1월 24일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/2월_14일.md" title="wikilink">2월 14일</a><br />
-<a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_6일.md" title="wikilink">3월 6일</a></p></td>
+<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/9월_27일.md" title="wikilink">9월 27일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_6일.md" title="wikilink">3월 6일</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -495,7 +446,7 @@
 <tr class="even">
 <td><p>21기</p></td>
 <td><p><a href="../Page/김도연_(아나운서).md" title="wikilink">김도연</a></p></td>
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a> ~ <strong>진행중</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a> ~ <strong>현재</strong></p></td>
 <td></td>
 </tr>
 </tbody>

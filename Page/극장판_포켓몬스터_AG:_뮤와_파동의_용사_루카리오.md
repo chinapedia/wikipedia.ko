@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [극장판 포켓몬스터 AG: 뮤와 파동의 용사 루카리오](https://ko.wikipedia.org/wiki/극장판_포켓몬스터_AG:_뮤와_파동의_용사_루카리오).
 
 
-〈**뮤와 파도의 용사 루카리오**〉(劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ)는 [2005년](../Page/2005년.md "wikilink") [7월 16일에](../Page/7월_16일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink")〈[포켓몬스터](../Page/포켓몬스터.md "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제8기이다.
+〈**뮤와 파동의 용사 루카리오**〉(劇場版ポケットモンスター アドバンスジェネレーション ミュウと波導の勇者 ルカリオ)는 [2005년](../Page/2005년.md "wikilink") [7월 16일에](../Page/7월_16일.md "wikilink") 개봉된 [TV 애니메이션](../Page/애니메이션.md "wikilink")〈[포켓몬스터](../Page/포켓몬스터.md "wikilink")〉의 [극장판](https://ko.wikipedia.org/wiki/포켓몬스터_\(극장판\) "wikilink") 제8기이다.
 
 ## 줄거리
 

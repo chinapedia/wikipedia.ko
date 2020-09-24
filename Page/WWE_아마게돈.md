@@ -67,7 +67,7 @@
 <td><p><a href="../Page/리치먼드_(버지니아주).md" title="wikilink">리치먼드</a></p></td>
 <td><p><a href="../Page/리치먼드_콜리시엄.md" title="wikilink">리치먼드 콜리시엄</a></p></td>
 <td><p>8,200</p></td>
-<td><p><a href="../Page/데이브_바티스타.md" title="wikilink">바티스타</a> &amp; <a href="../Page/존_시나.md" title="wikilink">존 시나</a> vs. <a href="https://ko.wikipedia.org/wiki/데이브_핀레이" title="wikilink">핀레이</a> &amp; <a href="../Page/부커_허프먼.md" title="wikilink">킹 부커</a> (태그팀 매치)</p></td>
+<td><p><a href="../Page/데이브_바티스타.md" title="wikilink">바티스타</a> &amp; <a href="../Page/존_시나.md" title="wikilink">존 시나</a> vs. <a href="../Page/데이브_핀레이.md" title="wikilink">핀레이</a> &amp; <a href="../Page/부커_허프먼.md" title="wikilink">킹 부커</a> (태그팀 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2007년 12월 16일</p></td>

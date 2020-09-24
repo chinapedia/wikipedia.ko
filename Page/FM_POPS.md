@@ -26,10 +26,9 @@
   - [정관용의 지금, 이 사람](../Page/정관용의_지금,_이_사람.md "wikilink") (평일) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
   - [시대음감](https://ko.wikipedia.org/wiki/시대음감 "wikilink") (주말) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
   - [주말 생방송 정보쇼](../Page/주말_생방송_정보쇼.md "wikilink") (주말) ([KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink"))
-  - [김혜영과 함께](https://ko.wikipedia.org/wiki/김혜영과_함께 "wikilink") ([KBS 해피FM](../Page/KBS_제2라디오.md "wikilink"))
+  - [김혜영과 함께](https://ko.wikipedia.org/wiki/김혜영과_함께 "wikilink") ([KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink"))
   - [세계음악기행](../Page/세계음악기행.md "wikilink") ([EBS FM](../Page/EBS_FM.md "wikilink"))
   - [두시의 데이트 뮤지, 안영미입니다](../Page/두시의_데이트.md "wikilink") ([MBC FM4U](../Page/MBC_FM4U.md "wikilink"))
-  - [두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink") ([SBS 파워FM](../Page/SBS_파워FM.md "wikilink"))
   - 최일구의 허리케인 라디오 ([TBS](../Page/TBS_\(대한민국의_방송사\).md "wikilink") FM)
 
 ### 보급형 방송 채널
@@ -60,6 +59,7 @@
 ### IPTV형 방송 채널
 
   - [박준형, 정경미의 2시만세](../Page/두시만세.md "wikilink") ([MBC 표준FM](../Page/MBC_표준FM.md "wikilink"))
+  - [두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink") ([SBS 파워FM](../Page/SBS_파워FM.md "wikilink"))
   - The Steve Hatherly Show ([TBS eFM](../Page/TBS_eFM.md "wikilink"))
   - [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") (월\~토요일) ([SBS TV](../Page/SBS_TV.md "wikilink"))
   - [SBS 금토드라마](../Page/SBS_금토드라마.md "wikilink") 재방송 (일요일) ([SBS TV](../Page/SBS_TV.md "wikilink"))

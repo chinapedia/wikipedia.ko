@@ -1116,7 +1116,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/UFC_12" title="wikilink">UFC 12: Judgement Day</a></p></td>
 <td><p>1997년 2월 7일</p></td>
 <td><p>도선 시빅 센터</p></td>
-<td><p><a href="../Page/앨라배마주.md" title="wikilink">앨라배마주</a> <a href="https://ko.wikipedia.org/wiki/도선_(앨라배마주)" title="wikilink">도선</a></p></td>
+<td><p><a href="../Page/앨라배마주.md" title="wikilink">앨라배마주</a> <a href="../Page/도선_(앨라배마주).md" title="wikilink">도선</a></p></td>
 <td><p>[83]</p></td>
 </tr>
 <tr class="odd">

@@ -64,7 +64,7 @@
   - 18:00《[The Scoop](http://tbs.seoul.kr/cont/eFM/thescoop/intro/introduction.do?programId=PG2061261E)》
   - 20:00《[한국어 천재](http://tbs.seoul.kr/cont/eFM/koreangenius/introduction/introduction.do?programId=PG2061407E)》
   - 21:00《[악동서울](http://tbs.seoul.kr/cont/eFM/Akdongseoul/mcinfo/mcinfo.do?programId=PG2061113E)》
-  - 22:00《[天涯万里情](http://tbs.seoul.kr/cont/eFM/manlijung/introduction/introduction.do?programId=PG2061396E)》
+  - 22:00《[천애만리정](http://tbs.seoul.kr/cont/eFM/manlijung/introduction/introduction.do?programId=PG2061396E)》(天涯萬里情)
 
 다음 프로그램들은 [일요일](../Page/일요일.md "wikilink")에만 방송된다.
 
@@ -78,14 +78,13 @@
   - 18:00《[The Scoop](http://tbs.seoul.kr/cont/eFM/thescoop/intro/introduction.do?programId=PG2061261E)》
   - 20:00《[한국어 천재](http://tbs.seoul.kr/cont/eFM/koreangenius/introduction/introduction.do?programId=PG2061407E)》
   - 21:00《[악동서울](http://tbs.seoul.kr/cont/eFM/Akdongseoul/mcinfo/mcinfo.do?programId=PG2061113E)》
-  - 22:00《[天涯万里情](http://tbs.seoul.kr/cont/eFM/manlijung/introduction/introduction.do?programId=PG2061396E)》
+  - 22:00《[천애만리정](http://tbs.seoul.kr/cont/eFM/manlijung/introduction/introduction.do?programId=PG2061396E)》
 
 ## 같이 보기
 
   - [한국교통방송](../Page/한국교통방송.md "wikilink")
-  - [부산영어방송재단](../Page/부산영어방송재단.md "wikilink")
   - [광주영어방송재단](../Page/광주영어방송재단.md "wikilink")
-  - [아리랑 라디오](../Page/아리랑_라디오.md "wikilink")
+  - [부산영어방송재단](../Page/부산영어방송재단.md "wikilink")
 
 ## 각주
 

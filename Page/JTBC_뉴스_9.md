@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JTBC 뉴스 9](https://ko.wikipedia.org/wiki/JTBC_뉴스_9).
 
 
-《**JTBC 뉴스 9**》()은 [JTBC](../Page/JTBC.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") 11월부터, 2014년 9월까지, 평일 밤 8시 55분부터 9시 45분까지 방영한 [JTBC](../Page/JTBC.md "wikilink")의 주중 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
+《**JTBC 뉴스 9**》()은 [JTBC](../Page/JTBC.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [11월](../Page/11월.md "wikilink")부터 [2014년](../Page/2014년.md "wikilink") [9월](../Page/9월.md "wikilink")까지 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 밤 8시 55분부터 9시 45분까지 방영한 [JTBC](../Page/JTBC.md "wikilink")의 주중 메인 [뉴스](../Page/뉴스.md "wikilink") 프로그램이다.
 
 ## 구성
 

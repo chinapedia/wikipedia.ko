@@ -64,11 +64,7 @@
 
   - 2001년 2월부터 음악 프로그램 [방송 프로그램 등급제](../Page/대한민국의_텔레비전_등급_제도.md "wikilink") 실행
 
-<!-- end list -->
-
-  - [트로트 엑스](https://ko.wikipedia.org/wiki/트로트_엑스 "wikilink")
-
-<!-- end list -->
+GM
 
   - [트로트 엑스](https://ko.wikipedia.org/wiki/트로트_엑스 "wikilink")
 

@@ -18,4 +18,4 @@ UIC 568 신호 케이블을 사용하여 기관차끼리 떨어져 있어도 중
 ## 참조
 
   -
-[El 17](https://ko.wikipedia.org/wiki/분류:노르웨이의_철도_차량 "wikilink")
+[El 17](https://ko.wikipedia.org/wiki/분류:노르웨이의_전기_기관차 "wikilink")

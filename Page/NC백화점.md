@@ -38,12 +38,12 @@
 
 <!-- end list -->
 
-  - <s>신구로점 <small>(서울특별시 구로구 구로중앙로 152)</small></s>
+  - 신구로점 <small>(서울특별시 구로구 구로중앙로 152)</small>
 
 <!-- end list -->
 
   -
-    [1993년](../Page/1993년.md "wikilink") [9월10일](https://ko.wikipedia.org/wiki/9월10일 "wikilink")에 개점하였으며, 舊 AK플라자 구로본점이 들어섰던 건물을 사들여 개점예정. [서울 지하철 1호선](../Page/서울_지하철_1호선.md "wikilink") [구로역](../Page/구로역.md "wikilink")과는 1번 출구 연결통로와 본관 2층이 연결
+    [1993년](../Page/1993년.md "wikilink") [9월10일](https://ko.wikipedia.org/wiki/9월10일 "wikilink")에 개점하였으며, 舊 AK플라자 구로본점이 들어섰던 건물을 사들여 개점. [서울 지하철 1호선](../Page/서울_지하철_1호선.md "wikilink") [구로역](../Page/구로역.md "wikilink")과는 1번 출구 연결통로와 본관 2층이 연결
 
 #### 부산광역시
 

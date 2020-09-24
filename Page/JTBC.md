@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JTBC](https://ko.wikipedia.org/wiki/JTBC).
 
 
-**JTBC**()는 유료 플랫폼으로 방송하는 [대한민국의 종합편성채널이자](../Page/대한민국의_종합편성채널.md "wikilink") 사업자이다. JTBC는 2011년 3월 21일에 창립되어 2011년 12월 1일에 개국하였다. [중앙일보](../Page/중앙일보.md "wikilink")에서 출자하여 설립한 회사로, [중앙그룹](../Page/중앙그룹.md "wikilink")이 대주주로 있다. 사옥은 2011년 12월 1일 부터 2015년 1월 3일 까지는 [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") [순화동](https://ko.wikipedia.org/wiki/순화동 "wikilink") [삼성생명](https://ko.wikipedia.org/wiki/삼성생명 "wikilink") 빌딩에 있었으며, 2015년 1월 4일에 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [상암동으로](https://ko.wikipedia.org/wiki/상암동_\(마포구\) "wikilink") 이전하였다.
+**JTBC**()는 유료 플랫폼으로 방송하는 [대한민국의 종합편성채널이자](../Page/대한민국의_종합편성채널.md "wikilink") 사업자이다. JTBC는 2011년 3월 21일에 창립되어 2011년 12월 1일에 개국하였다. [중앙일보](../Page/중앙일보.md "wikilink")에서 출자하여 설립한 회사로, [중앙그룹](../Page/중앙그룹.md "wikilink")이 대주주로 있다. 사옥은 2011년 12월 1일부터 2015년 1월 3일까지는 [서울특별시](../Page/서울특별시.md "wikilink") [중구](../Page/중구_\(서울특별시\).md "wikilink") [순화동](https://ko.wikipedia.org/wiki/순화동 "wikilink") [삼성생명](https://ko.wikipedia.org/wiki/삼성생명 "wikilink") 빌딩에 있었으며, 2015년 1월 4일에 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [상암동으로](https://ko.wikipedia.org/wiki/상암동_\(마포구\) "wikilink") 이전하였다.
 
 [중앙일보](../Page/중앙일보.md "wikilink") 측은 JTBC가 과거 [언론 통폐합 정책으로](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") 폐국 후 전파 사용권 및 자산이 [KBS에](../Page/한국방송공사.md "wikilink") 몰수되었던 "[TBC](../Page/동양방송.md "wikilink")"의 후신임을 주장하고 있다. 이러한 이유를 들어 1980년 11월 30일에 폐국된 "[TBC](../Page/동양방송.md "wikilink")"를 기념하여 2011년 12월 1일에 개국했으며, 이는 다른 종편이 JTBC와 같은 일자에 개국하는 데 영향을 주었다.\[1\] 개국 때부터 "다채로운 즐거움"을 구호로 사용하고 있다. 종편 중에서 유일하게 회원 가입을 해야 실시간 방송을 볼 수 있다.\[2\]
 
@@ -13,9 +13,9 @@
 
 1980년 말 [신군부](https://ko.wikipedia.org/wiki/신군부 "wikilink")의 [언론 통폐합 정책으로](https://ko.wikipedia.org/wiki/1980년_언론_통폐합 "wikilink") 당시 [중앙일보](../Page/중앙일보.md "wikilink")와 같은 [삼성의](../Page/삼성그룹.md "wikilink") 계열사였던 [동양방송](../Page/동양방송.md "wikilink")(TBC)이 폐국되어 자산 일체가 [KBS에](../Page/한국방송공사.md "wikilink") 몰수당한 이후, 중앙일보는 자회사인 [중앙방송을](https://ko.wikipedia.org/wiki/중앙방송_\(대한민국_민영방송사\) "wikilink") 통해 유료 방송 [QTV](../Page/QTV_\(텔레비전_채널\).md "wikilink")(현 [JTBC2](../Page/JTBC2.md "wikilink")), J골프(현 [JTBC GOLF](../Page/JTBC_GOLF.md "wikilink")) 등을 운영하였고, 지면을 통해 TBC에 대한 기획 기사를 수차례 게재하였다.
 
-2009년 7월 22일에 여러 차례 [논란](../Page/대한민국_미디어_관련법_개정_논란.md "wikilink") 끝에 종합편성채널에 법적 근거를 부여하는 방송법 개정안이 당시 여당인 [한나라당의](../Page/자유한국당.md "wikilink") 단독 강행 처리로 국회를 통과했는데, 이는 야당과 시민사회단체로부터 "날치기"라고 비판 받고, 일사부재의의 원칙 위배 논란이 불거졌다. 이후 [2010년](../Page/2010년.md "wikilink") [11월 30일에](../Page/11월_30일.md "wikilink") 종합편성채널의 신청서 접수가 시작되었을 때, 중앙일보 측은 [동양방송](../Page/동양방송.md "wikilink")의 영문 약칭이었던 "TBC"라는 이름으로 신청을 시도하려 했으나, 해당 약칭을 1990년대부터 [대구경북](../Page/대구경북.md "wikilink") 지역의 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 계열 지역민영방송사인 대구방송(Taegu Broadcasting Corporation, 현 [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink"))이 선점하여 jTBC(소문자 j)라는 이름으로 신청서를 제출하였다. 이후 중앙그룹 측은 j를 뺀 TBC 상표를 사용하고자 해당 상표를 보유한 대구방송과 여러번 접촉했으나, 결국 TBC 측의 거절로 실패\[3\]했다.
+2009년 7월 22일에 여러 차례 [논란](../Page/대한민국_미디어_관련법_개정_논란.md "wikilink") 끝에 종합편성채널에 법적 근거를 부여하는 방송법 개정안이 당시 여당인 [한나라당의](../Page/자유한국당.md "wikilink") 단독 강행 처리로 국회를 통과했는데, 이는 야당과 시민사회단체로부터 "날치기"라고 비판 받고, 일사부재의의 원칙 위배 논란이 불거졌다. 이후 [2010년](../Page/2010년.md "wikilink") [11월 30일에](../Page/11월_30일.md "wikilink") 종합편성채널의 신청서 접수가 시작되었을 때, 중앙일보 측은 [동양방송](../Page/동양방송.md "wikilink")의 영문 약칭이었던 "TBC"라는 이름으로 신청을 시도하려 했으나, 해당 약칭을 1990년대부터 [대구경북](../Page/대구경북.md "wikilink") 지역의 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 계열 지역민영방송사인 [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink")(Taegu Broadcasting Corporation, 구 대구방송)가 선점하여 jTBC(소문자 j)라는 이름으로 신청서를 제출하였다. 이후 중앙그룹 측은 j를 뺀 TBC 상표를 사용하고자 해당 상표를 보유한 [TBC와](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 여러번 접촉했으나, 결국 TBC 측의 거절로 실패\[3\]했다.
 
-2010년 12월 31일에 종합편성 방송채널사업자로 선정된 이후, 2011년 3월 21일에 법인이 설립되어 같은 해 개국을 앞두고 로마자 표기를 고쳐 JTBC(대문자 J)로 12월 1일에 개국하였다. [중앙일보](../Page/중앙일보.md "wikilink")는 여러 통로를 통해 JTBC가 [동양방송](../Page/동양방송.md "wikilink")의 후신임을 주장하고 있으며, 개국 당일에 동양방송에 대한 다큐멘터리를 방송하는 등 이를 강조하는 모습을 보였다.
+2010년 12월 31일에 종합편성 방송채널사업자로 선정된 이후, 2011년 3월 21일에 법인이 설립되어 같은 해 개국을 앞두고 로마자 표기를 고쳐 JTBC(대문자 J)로 12월 1일에 개국하였다.
 
 ### 호평과 막대한 투자
 
@@ -85,6 +85,7 @@
       - [JTBC GOLF](../Page/JTBC_GOLF.md "wikilink")
       - [JTBC 어워즈](../Page/JTBC_어워즈.md "wikilink")
   - [삼성그룹](../Page/삼성그룹.md "wikilink")
+  - [중앙방송](https://ko.wikipedia.org/wiki/중앙방송_\(대한민국_민영방송사\) "wikilink")
   - [동양방송](../Page/동양방송.md "wikilink") - 이전 방송국
       - [KBS 2TV](../Page/KBS_2TV.md "wikilink") <small>(동양텔레비전)</small>
       - [KBS 쿨FM](https://ko.wikipedia.org/wiki/KBS_쿨FM "wikilink") <small>(동양FM)</small>
@@ -95,7 +96,7 @@
       - [CJ E\&M](../Page/CJ_E&M.md "wikilink")
       - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")
           - [XtvN](https://ko.wikipedia.org/wiki/XtvN "wikilink")
-          - [O tvN](https://ko.wikipedia.org/wiki/O_tvN "wikilink")
+          - [OtvN](https://ko.wikipedia.org/wiki/OtvN "wikilink")
       - [엠넷](../Page/엠넷.md "wikilink")
       - [OCN](../Page/OCN_\(텔레비전_채널\).md "wikilink")
       - [투니버스](../Page/투니버스.md "wikilink")

@@ -5,7 +5,7 @@
 
 ## 개요
 
-그동안 《**[TBC](../Page/동양방송.md "wikilink")(구) 방송가요대상**》 또는 《**[KBS 가요대상](../Page/KBS_가요대축제.md "wikilink")**》에서 트로트 장르의 곡으로서 선보였다. 이후 [2007년](../Page/2007년.md "wikilink")부터 트로트 장르의 곡을 따로 분리하여, 《**KBS 트로트대축제**》의 이름으로 개최되었으며, [2008년](../Page/2008년.md "wikilink")에는 글로벌 경제위기 여파로 잠시 폐지되었다가, [2009년](../Page/2009년.md "wikilink")부터 다시 방송되기 시작했으나, [2016년](../Page/2016년.md "wikilink")부터 방송되지 않았다.
+그동안 《**[TBC](../Page/동양방송.md "wikilink")(구) 방송가요대상**》 또는 《**[KBS 가요대상](../Page/KBS_가요대축제.md "wikilink")**》에서 트로트 장르의 곡으로서 선보였다. 이후 [2007년](../Page/2007년.md "wikilink")부터 트로트 장르의 곡을 따로 분리하여, 《**KBS 트로트대축제**》의 이름으로 개최되었으며, [2008년](../Page/2008년.md "wikilink")에는 글로벌 경제위기 여파로 잠시 폐지되었다가, [2009년](../Page/2009년.md "wikilink")부터 다시 방송되기 시작했으나, [2016년](../Page/2016년.md "wikilink")부터 방송되지 않았다.\[1\]
 
 ## 진행자
 
@@ -18,15 +18,21 @@
   - 7대(2014.12.29) : [임백천](../Page/임백천.md "wikilink"), [홍진영](../Page/홍진영.md "wikilink")
   - 8대(2015.12.28) : [김병찬](../Page/김병찬.md "wikilink"), [홍진영](../Page/홍진영.md "wikilink")
 
-## 관련 항목
+## 같이 보기
 
   - 《[KBS 가요대축제](../Page/KBS_가요대축제.md "wikilink")》
   - 《[MBC 가요대제전](../Page/MBC_가요대제전.md "wikilink")》
   - 《[SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》
   - 《[전국노래자랑](../Page/전국노래자랑.md "wikilink")》
 
+## 각주
+
+<references />
+
 ## 외부 링크
 
   - [KBS 트로트대축제](http://www.kbs.co.kr/1tv/enter/gayo/view/preview/2435543_107717.html) - [가요무대](../Page/가요무대.md "wikilink") 공식 웹사이트 내 페이지
 
 [분류:한국방송공사의 연예오락 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_연예오락_프로그램 "wikilink") [분류:한국방송공사의 음악 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_음악_프로그램 "wikilink") [분류:대한민국의 음악 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_텔레비전_프로그램 "wikilink") [분류:대한민국의 음악제](https://ko.wikipedia.org/wiki/분류:대한민국의_음악제 "wikilink") [분류:2007년 설립](https://ko.wikipedia.org/wiki/분류:2007년_설립 "wikilink") [분류:2007년 폐지](https://ko.wikipedia.org/wiki/분류:2007년_폐지 "wikilink") [분류:2009년 설립](https://ko.wikipedia.org/wiki/분류:2009년_설립 "wikilink") [분류:2016년 폐지](https://ko.wikipedia.org/wiki/분류:2016년_폐지 "wikilink")
+
+1.  [2020년](../Page/2020년.md "wikilink")에 [TV조선](../Page/TV조선.md "wikilink")으로 이동·편성한다.

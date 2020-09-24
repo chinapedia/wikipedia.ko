@@ -5,7 +5,7 @@
 
 ## 대한민국의 음악FM
 
-대한민국에서는 [1965년](../Page/1965년.md "wikilink") 대한민국 최초의 FM방송인 [서울FM방송](../Page/KBS_제2FM.md "wikilink")(현:[KBS 쿨FM](../Page/KBS_제2FM.md "wikilink"))이 개국되었고 그 후 [1970년](../Page/1970년.md "wikilink")엔 MBC 부산FM방송 그 후 [1971년](../Page/1971년.md "wikilink")에는 [MBC FM](../Page/MBC_FM4U.md "wikilink")(현:[MBC FM4U](../Page/MBC_FM4U.md "wikilink"))이 개국한다. [1979년](../Page/1979년.md "wikilink")에는 [KBS FM](../Page/KBS_제1FM.md "wikilink")(현:[KBS 클래식FM](../Page/KBS_제1FM.md "wikilink"))이 개국되었고 [1995년](../Page/1995년.md "wikilink")에는 [CBS FM](../Page/CBS_음악FM.md "wikilink")(현:[CBS 음악FM](../Page/CBS_음악FM.md "wikilink"))이, [1996년](../Page/1996년.md "wikilink")에는 [SBS 파워FM](../Page/SBS_파워FM.md "wikilink"), 그리고 [2001년](../Page/2001년.md "wikilink")에는 [국악방송](../Page/국악방송.md "wikilink")이 각각 개국했다.\[1\] 대한민국에서는 방송법상 이러한 음악FM방송에 뉴스와 스포츠 중계 등을 할 수 없으나, 민방위 훈련 방송은 가능하다.
+대한민국에서는 [1965년](../Page/1965년.md "wikilink") 대한민국 최초의 FM방송인 [서울FM방송](../Page/KBS_제2FM.md "wikilink")(현:[KBS 쿨FM](../Page/KBS_제2FM.md "wikilink"))이 개국되었고 그 후 [1970년](../Page/1970년.md "wikilink")엔 MBC 부산FM방송 그 후 [1971년](../Page/1971년.md "wikilink")에는 [MBC FM](../Page/MBC_FM4U.md "wikilink")(현:[MBC FM4U](../Page/MBC_FM4U.md "wikilink"))이 개국한다. [1979년](../Page/1979년.md "wikilink")에는 [KBS FM](../Page/KBS_제1FM.md "wikilink")(현:[KBS 클래식FM](../Page/KBS_제1FM.md "wikilink"))이 개국되었고 [1995년](../Page/1995년.md "wikilink")에는 [CBS FM](../Page/CBS_음악FM.md "wikilink")(현:[CBS 음악FM](../Page/CBS_음악FM.md "wikilink"))이, [1996년](../Page/1996년.md "wikilink")에는 [SBS 파워FM](../Page/SBS_파워FM.md "wikilink"), 그리고 [2001년](../Page/2001년.md "wikilink")에는 [국악방송](../Page/국악방송.md "wikilink")이 각각 개국했다.\[1\] 대한민국에서는 방송법상 이러한 음악FM방송에 뉴스와 스포츠 중계 등을 할 수 없으나, 민방위 훈련 방송은 가능하다.\[2\]
 
 ## 대한민국 (수도권)
 
@@ -148,3 +148,4 @@
 [분류:라디오](https://ko.wikipedia.org/wiki/분류:라디오 "wikilink")
 
 1.  [SBS 파워FM](../Page/SBS_파워FM.md "wikilink"), [KBS 쿨FM(2FM)](../Page/KBS_제2FM.md "wikilink"), [MBC FM4U의](../Page/MBC_FM4U.md "wikilink") 경우 연예인이 진행하는 프로그램이 많은데다 연예인 게스트 출연도 많아 오락성이 강하며 2시간 프로그램이지만 15곡 이상 틀지 않는 프로그램이 많아 사실상 오락FM에 더 가깝다.
+2.  단, 일부 방송국은 예외가 적용되고 있다.

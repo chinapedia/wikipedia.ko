@@ -39,4 +39,4 @@
 
 ## 같이 보기
 
-[IORE](https://ko.wikipedia.org/wiki/분류:스웨덴의_철도_차량 "wikilink")
+[IORE](https://ko.wikipedia.org/wiki/분류:스웨덴의_전기_기관차 "wikilink") [IORE](https://ko.wikipedia.org/wiki/분류:노르웨이의_전기_기관차 "wikilink")

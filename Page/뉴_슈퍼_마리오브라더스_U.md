@@ -21,6 +21,8 @@
 
 ## 게임 평가
 
+hsouuyoy
+
 ## 각주
 
 [분류:2012년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2012년_비디오_게임 "wikilink") [분류:Wii U 게임](https://ko.wikipedia.org/wiki/분류:Wii_U_게임 "wikilink") [분류:마리오 플랫폼 게임](https://ko.wikipedia.org/wiki/분류:마리오_플랫폼_게임 "wikilink") [분류:슈퍼 마리오](https://ko.wikipedia.org/wiki/분류:슈퍼_마리오 "wikilink")

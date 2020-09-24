@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBN 뉴스와이드](https://ko.wikipedia.org/wiki/MBN_뉴스와이드).
 
 
-**MBN 뉴스와이드**()는 [대한민국](../Page/대한민국.md "wikilink")에서 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시 50분부터 저녁 7시 20분에 방송되는 [매일방송의 뉴스 프로그램이다](../Page/매일방송의_뉴스_프로그램.md "wikilink").
+**MBN 뉴스와이드**()는 [대한민국](../Page/대한민국.md "wikilink")에서 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 4시 30분부터 5시 55분에 방송되는 [매일방송의 뉴스 프로그램이다](../Page/매일방송의_뉴스_프로그램.md "wikilink").
 
 ## 기획의도
 
@@ -22,20 +22,20 @@
 
 ## 방송 시간
 
-현재 방송 시간은 [2020년](../Page/2020년.md "wikilink") [3월 9일의](../Page/3월_9일.md "wikilink") [평일](https://ko.wikipedia.org/wiki/평일 "wikilink")을 기준으로 한다.
+현재 방송 시간은 [2020년](../Page/2020년.md "wikilink") [9월 7일의](../Page/9월_7일.md "wikilink") [평일](https://ko.wikipedia.org/wiki/평일 "wikilink")을 기준으로 한다.
 
 ※ 본 방송 시간은 [2015년](../Page/2015년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") 방송시간 변경 이후 기준이며, [공휴일](https://ko.wikipedia.org/wiki/공휴일 "wikilink")이나 특집 프로그램이 편성되면 결방될 수 있다.
 
-| 방송 채널                                                                                                                                            | 방송 기간                                                                                                                                                      | 방송 시간                        | 방송 분량   | 비고 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------- | -- |
-| [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink")                                                                                              | [2011년](../Page/2011년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") | 매주 평일 오후 5시 30분 \~ 저녁 6시 40분 | 1시간 10분 |    |
-| [2015년](../Page/2015년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") 일자 미상                        | 매주 평일 오후 5시 30분 \~ 저녁 7시 40분                                                                                                                               | 2시간 10분                      |         |    |
-| [2015년](../Page/2015년.md "wikilink") 일자 미상 \~ [2016년](../Page/2016년.md "wikilink") 일자 미상                                                         | 매주 평일 저녁 6시 10분 \~ 7시 40분                                                                                                                                  | 1시간 30분                      |         |    |
-| [2016년](../Page/2016년.md "wikilink") 일자 미상 \~ [2017년](../Page/2017년.md "wikilink") [6월](../Page/6월.md "wikilink")                                | 매주 평일 저녁 6시 \~ 7시 30분                                                                                                                                      | 1시간 30분                      |         |    |
-| [2017년](../Page/2017년.md "wikilink") [7월](../Page/7월.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") | 매주 평일 저녁 6시 10분 \~ 7시 30분                                                                                                                                  | 1시간 20분                      |         |    |
-| [2020년](../Page/2020년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") \~ **현재**                                                              | 매주 평일 오후 5시 50분 \~ 저녁 7시 20분                                                                                                                               | 1시간 30분                      |         |    |
-| [2020년](../Page/2020년.md "wikilink") \~ **예정**                                                                                                   | 매주 월요일 \~ 목요일 오후 5시 50분 \~ 저녁 7시 20분                                                                                                                       | 1시간 30분                      |         |    |
-| 매주 금요일 오후 5시 50분 \~ 저녁 6시 50분                                                                                                                    | 1시간                                                                                                                                                        |                              |         |    |
+| 방송 채널                                                                                                                                                  | 방송 기간                                                                                                                                                      | 방송 시간                        | 방송 분량   | 비고 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------- | -- |
+| [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink")                                                                                                    | [2011년](../Page/2011년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") | 매주 평일 오후 5시 30분 \~ 저녁 6시 40분 | 1시간 10분 |    |
+| [2015년](../Page/2015년.md "wikilink") [4월 13일](../Page/4월_13일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") 일자 미상                              | 매주 평일 오후 5시 30분 \~ 저녁 7시 40분                                                                                                                               | 2시간 10분                      |         |    |
+| [2015년](../Page/2015년.md "wikilink") 일자 미상 \~ [2016년](../Page/2016년.md "wikilink") 일자 미상                                                               | 매주 평일 저녁 6시 10분 \~ 7시 40분                                                                                                                                  | 1시간 30분                      |         |    |
+| [2016년](../Page/2016년.md "wikilink") 일자 미상 \~ [2017년](../Page/2017년.md "wikilink") [6월](../Page/6월.md "wikilink")                                      | 매주 평일 저녁 6시 \~ 7시 30분                                                                                                                                      | 1시간 30분                      |         |    |
+| [2017년](../Page/2017년.md "wikilink") [7월](../Page/7월.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink")       | 매주 평일 저녁 6시 10분 \~ 7시 30분                                                                                                                                  | 1시간 20분                      |         |    |
+| [2020년](../Page/2020년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") | 매주 평일 오후 5시 50분 \~ 저녁 7시 20분                                                                                                                               | 1시간 30분                      |         |    |
+| [2020년](../Page/2020년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") \~ **현재**                                                                    | 매주 평일 오후 4시 30분 \~ 5시 55분                                                                                                                                  | 1시간 25분                      |         |    |
+|                                                                                                                                                        |                                                                                                                                                            |                              |         |    |
 
 ## 타이틀 변천사
 
@@ -54,6 +54,27 @@
   - [이상훈](../Page/이상훈.md "wikilink")
   - [정광재](https://ko.wikipedia.org/wiki/정광재 "wikilink") ([2018년](../Page/2018년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") \~ [12월 15일](../Page/12월_15일.md "wikilink"))
   - [백운기](../Page/백운기.md "wikilink") ([2018년](../Page/2018년.md "wikilink") [12월 18일](../Page/12월_18일.md "wikilink") \~ 현재)
+
+## 경쟁 뉴스 프로그램
+
+  - [사사건건](../Page/사사건건_\(텔레비전_프로그램\).md "wikilink"), [KBS 뉴스 5](../Page/KBS_뉴스_5.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [5 MBC 뉴스](../Page/5_MBC_뉴스.md "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"))
+  - [SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink") ([SBS](../Page/SBS.md "wikilink"))
+  - [OBS 뉴스 오늘](../Page/OBS_뉴스_오늘.md "wikilink") ([OBS](https://ko.wikipedia.org/wiki/OBS "wikilink"))
+  - [사건반장](../Page/사건반장.md "wikilink"), [JTBC 정치부회의](https://ko.wikipedia.org/wiki/JTBC_정치부회의 "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
+
+## 그 외 매일방송의 관련 뉴스 프로그램
+
+  - [MBN 기상특보](../Page/MBN_기상특보.md "wikilink")
+  - [굿모닝 MBN](../Page/굿모닝_MBN.md "wikilink")
+  - [아침 & 매일경제](../Page/아침_&_매일경제.md "wikilink")
+  - [전국 네트워크](../Page/전국_네트워크.md "wikilink")
+  - [MBN 프레스룸](../Page/MBN_프레스룸.md "wikilink")
+  - [뉴스파이터](../Page/뉴스파이터.md "wikilink")
+  - [MBN 종합뉴스](../Page/MBN_종합뉴스.md "wikilink")
+  - [MBN 뉴스와이드 주말](../Page/MBN_뉴스와이드_주말.md "wikilink")
+  - [시사스페셜](../Page/시사스페셜.md "wikilink")
+  - [MBN 뉴스특보](../Page/MBN_뉴스특보.md "wikilink")
 
 ## 외부 링크
 

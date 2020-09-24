@@ -356,7 +356,7 @@
 <tr class="even">
 <td><p>C40</p></td>
 <td><p>2011년 10월</p></td>
-<td><p>2012년 10월</p></td>
+<td><p>2012년 9월</p></td>
 <td><p>1TB</p></td>
 <td></td>
 <td></td>

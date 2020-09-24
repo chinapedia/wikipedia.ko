@@ -11,4 +11,10 @@
 
 ## 트랙리스트
 
+## 외부 링크
+
+  -
+  -
+  -
+  -
 [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:2010년 음반](https://ko.wikipedia.org/wiki/분류:2010년_음반 "wikilink") [분류:박효신의 음반](https://ko.wikipedia.org/wiki/분류:박효신의_음반 "wikilink") [분류:가온 앨범 차트 1위 음반](https://ko.wikipedia.org/wiki/분류:가온_앨범_차트_1위_음반 "wikilink")

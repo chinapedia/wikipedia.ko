@@ -25,7 +25,7 @@
 <td><p>평일 저녁 6시 20분 ~ 6시 40분 (20분)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/1월_5일.md" title="wikilink">1월 5일</a> ~ <a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/3월_13일.md" title="wikilink">3월 13일</a></p></td>
+<td><p><a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/1월_5일.md" title="wikilink">1월 5일</a> ~ <a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/5월_22일.md" title="wikilink">5월 22일</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -248,6 +248,16 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/12월_26일.md" title="wikilink">12월 26일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_9일.md" title="wikilink">3월 9일</a></p></td>
+<td><p>평일 오후 5시 ~ 5시 15분 (15분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/9월_14일.md" title="wikilink">9월 14일</a> ~ <strong>현재</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/3월_12일.md" title="wikilink">3월 12일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_26일.md" title="wikilink">4월 26일</a></p></td>
 <td><p>평일 오후 4시 55분 ~ 5시 50분 (55분)</p></td>
 <td></td>
@@ -258,7 +268,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/9월_11일.md" title="wikilink">9월 11일</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -277,11 +287,11 @@
 
 ※ [공휴일에는](../Page/대한민국의_공휴일.md "wikilink") 오후 시간대에 10분간 **MBC 뉴스**로 대체 편성된다.
 
-## 구성
+## 코너
 
 ### 5 MBC 뉴스 오프닝
 
-[신동진](../Page/신동진_\(아나운서\).md "wikilink") 앵커
+[신동진](../Page/신동진_\(아나운서\).md "wikilink") 아나운서
 
 ### 오늘의 증권시황
 
@@ -293,7 +303,7 @@
 
 ### 5 MBC 뉴스 클로징
 
-신동진 앵커
+신동진 아나운서
 
 ## 앵커
 
@@ -346,31 +356,31 @@
 
 ##### 여성
 
-| 대수                                      | 진행자                                                                  | 진행 기간                         | 비고           |
-| --------------------------------------- | -------------------------------------------------------------------- | ----------------------------- | ------------ |
-| 1대                                      | [정혜정](../Page/정혜정.md "wikilink") 前 아나운서                              | 1988년 4월 \~ 1991년             |              |
-| 2대                                      | [김지은](../Page/김지은_\(아나운서\).md "wikilink") 前 편성국장                     | 1995년 4월 17일 \~ 1996년 3월 1일   |              |
-| 3대                                      | [오은실](https://ko.wikipedia.org/wiki/오은실 "wikilink") 前 아나운서           | 1996년 1월 15일 \~ 1996년 10월 18일 |              |
-| 4대                                      | [하지은](../Page/하지은.md "wikilink") 前 아나운서                              | 1996년 10월 21일 \~ 1997년 2월 28일 |              |
-| 5대                                      | [오은실](https://ko.wikipedia.org/wiki/오은실 "wikilink") 前 아나운서           | 1996년 12월 2일 \~ 1998년 4월 17일  | \[14\]       |
-| 6대                                      | [백지연](../Page/백지연.md "wikilink") 前 아나운서                              | 1997년 3월 3일 \~ 1997년 10월      |              |
-| 7대                                      | [박영선](../Page/박영선_\(1960년\).md "wikilink") 前 기자                      | 1997년 10월 \~ 1998년            |              |
-| 8대                                      | [이주연](https://ko.wikipedia.org/wiki/이주연 "wikilink") 前 아나운서           | 1998년 4월 27일 \~ 2005년 4월 29일  |              |
-| 9대                                      | [차미연](../Page/차미연.md "wikilink") 아나운서국 아나운서1부장                       | 2005년 5월 2일 \~ 2005년 12월 30일  |              |
-| 10대                                     | [김지은](../Page/김지은_\(아나운서\).md "wikilink") 前 편성국장                     | 2006년 1월 2일 \~ 2007년          | \[15\]       |
-| 11대                                     | [박소현](https://ko.wikipedia.org/wiki/박소현_\(1976년\) "wikilink") 前 아나운서 | 2007년 \~ 2008년 1월 4일          |              |
-| 12대                                     | [하지은](../Page/하지은.md "wikilink") 前 아나운서                              | 2008년 1월 8일 \~ 2009년 4월 24일   | \[16\]\[17\] |
-| 13대                                     | [배현진](../Page/배현진.md "wikilink") 前 기자                                | 2009년 4월 27일 \~ 2010년 6월 4일   |              |
-| [이하정](../Page/이하정.md "wikilink") 前 아나운서 | 2009년 4월 27일 \~ 2011년 2월 14일                                         | \[18\]                        |              |
-| 14대                                     | [구은영](../Page/구은영.md "wikilink") 아나운서                                | 2010년 6월 7일 \~ 2010년 10월 29일  |              |
-| 15대                                     | [하지은](../Page/하지은.md "wikilink") 前 아나운서                              | 2010년 11월 5일 \~ 2012년 1월 20일  | \[19\]       |
-| 16대                                     | [최현정](../Page/최현정_\(방송인\).md "wikilink") 前 아나운서                      | 2011년 2월 16일 \~ 2011년 11월 24일 | \[20\]       |
-| 17대                                     | [류수민](../Page/류수민.md "wikilink") 아나운서                                | 2011년 11월 28일 \~ 2012년 1월 19일 |              |
-| 18대                                     | [김원경](https://ko.wikipedia.org/wiki/김원경 "wikilink") 前 아나운서           | 2012년 4월 9일 \~ 2013년 3월 15일   |              |
-| 19대                                     | [이언주](../Page/이언주_\(기자\).md "wikilink") 기자                           | 2013년 3월 18일 \~ 2013년 7월 26일  |              |
-| 20대                                     | 박선영 기자                                                               | 2013년 7월 29일 \~ 2017년 12월 8일  | \[21\]       |
-| 21대                                     | [차미연](../Page/차미연.md "wikilink") 아나운서국 아나운서1부장                       | 2017년 12월 26일 \~ 2018년 3월 9일  | \[22\]       |
-| 22대                                     | [구은영](../Page/구은영.md "wikilink") 아나운서                                | 2019년 2월 7일 \~ 2020년 6월 25일   | \[23\]\[24\] |
+| 대수                                      | 진행자                                                        | 진행 기간                         | 비고           |
+| --------------------------------------- | ---------------------------------------------------------- | ----------------------------- | ------------ |
+| 1대                                      | [정혜정](../Page/정혜정.md "wikilink") 前 아나운서                    | 1988년 4월 \~ 1991년             |              |
+| 2대                                      | [김지은](../Page/김지은_\(아나운서\).md "wikilink") 前 편성국장           | 1995년 4월 17일 \~ 1996년 3월 1일   |              |
+| 3대                                      | [오은실](https://ko.wikipedia.org/wiki/오은실 "wikilink") 前 아나운서 | 1996년 1월 15일 \~ 1996년 10월 18일 |              |
+| 4대                                      | [하지은](../Page/하지은.md "wikilink") 前 아나운서                    | 1996년 10월 21일 \~ 1997년 2월 28일 |              |
+| 5대                                      | [오은실](https://ko.wikipedia.org/wiki/오은실 "wikilink") 前 아나운서 | 1996년 12월 2일 \~ 1998년 4월 17일  | \[14\]       |
+| 6대                                      | [백지연](../Page/백지연.md "wikilink") 前 아나운서                    | 1997년 3월 3일 \~ 1997년 10월      |              |
+| 7대                                      | [박영선](../Page/박영선_\(1960년\).md "wikilink") 前 기자            | 1997년 10월 \~ 1998년            |              |
+| 8대                                      | [이주연](https://ko.wikipedia.org/wiki/이주연 "wikilink") 前 아나운서 | 1998년 4월 27일 \~ 2005년 4월 29일  |              |
+| 9대                                      | [차미연](../Page/차미연.md "wikilink") 아나운서국 아나운서1부장             | 2005년 5월 2일 \~ 2005년 12월 30일  |              |
+| 10대                                     | [김지은](../Page/김지은_\(아나운서\).md "wikilink") 前 편성국장           | 2006년 1월 2일 \~ 2007년          | \[15\]       |
+| 11대                                     | [박소현](../Page/박소현_\(1976년\).md "wikilink") 前 아나운서          | 2007년 \~ 2008년 1월 4일          |              |
+| 12대                                     | [하지은](../Page/하지은.md "wikilink") 前 아나운서                    | 2008년 1월 8일 \~ 2009년 4월 24일   | \[16\]\[17\] |
+| 13대                                     | [배현진](../Page/배현진.md "wikilink") 前 기자                      | 2009년 4월 27일 \~ 2010년 6월 4일   |              |
+| [이하정](../Page/이하정.md "wikilink") 前 아나운서 | 2009년 4월 27일 \~ 2011년 2월 14일                               | \[18\]                        |              |
+| 14대                                     | [구은영](../Page/구은영.md "wikilink") 아나운서                      | 2010년 6월 7일 \~ 2010년 10월 29일  |              |
+| 15대                                     | [하지은](../Page/하지은.md "wikilink") 前 아나운서                    | 2010년 11월 5일 \~ 2012년 1월 20일  | \[19\]       |
+| 16대                                     | [최현정](../Page/최현정_\(방송인\).md "wikilink") 前 아나운서            | 2011년 2월 16일 \~ 2011년 11월 24일 | \[20\]       |
+| 17대                                     | [류수민](../Page/류수민.md "wikilink") 아나운서                      | 2011년 11월 28일 \~ 2012년 1월 19일 |              |
+| 18대                                     | [김원경](https://ko.wikipedia.org/wiki/김원경 "wikilink") 前 아나운서 | 2012년 4월 9일 \~ 2013년 3월 15일   |              |
+| 19대                                     | [이언주](../Page/이언주_\(기자\).md "wikilink") 기자                 | 2013년 3월 18일 \~ 2013년 7월 26일  |              |
+| 20대                                     | 박선영 기자                                                     | 2013년 7월 29일 \~ 2017년 12월 8일  | \[21\]       |
+| 21대                                     | [차미연](../Page/차미연.md "wikilink") 아나운서국 아나운서1부장             | 2017년 12월 26일 \~ 2018년 3월 9일  | \[22\]       |
+| 22대                                     | [구은영](../Page/구은영.md "wikilink") 아나운서                      | 2019년 2월 7일 \~ 2020년 6월 25일   | \[23\]\[24\] |
 
 #### 서브
 
@@ -426,13 +436,12 @@
 <tr class="odd">
 <td><p>5기</p></td>
 <td><p>MBC 뉴스</p></td>
-<td><p><a href="../Page/1980년.md" title="wikilink">1980년</a> <a href="../Page/12월_8일.md" title="wikilink">12월 8일</a> ~ 1981년 <a href="../Page/3월_13일.md" title="wikilink">3월 13일</a><br />
-<a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a> ~ <a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/6월_12일.md" title="wikilink">6월 12일</a></p></td>
+<td><p><a href="../Page/1980년.md" title="wikilink">1980년</a> <a href="../Page/12월_8일.md" title="wikilink">12월 8일</a> ~ <a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/5월_22일.md" title="wikilink">5월 22일</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6기</p></td>
 <td><p>MBC 저녁뉴스</p></td>
-<td><p><a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/6월_15일.md" title="wikilink">6월 15일</a> ~ <a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/4월_14일.md" title="wikilink">4월 14일</a></p></td>
+<td><p><a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a> ~ <a href="../Page/1995년.md" title="wikilink">1995년</a> <a href="../Page/4월_14일.md" title="wikilink">4월 14일</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7기</p></td>
@@ -600,7 +609,7 @@ MBC 뉴스 (금요일)</p></td>
 
   - 2012년 1월 23일 \~ 2012년 4월 6일 : MBC 파업으로 인한 결방
   - 2018년 6월 15일 \~ 2018년 6월 22일 : [2018 FIFA 월드컵 러시아](https://ko.wikipedia.org/wiki/2018_FIFA_월드컵_러시아 "wikilink") 중계방송 관계로 결방
-  - 2019년 3월 18일 \~ 2019년 7월 12일 : [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 개편에 따른 방송 일시 중단
+  - 2019년 3월 18일 \~ 2019년 7월 12일 : [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 개편으로 인한 방송 일시 중단
 
 ## 동 시간대 경쟁 프로그램
 

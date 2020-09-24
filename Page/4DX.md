@@ -234,7 +234,7 @@ CGV용산아이파크몰의 4DX관의 경우, 신규 모션 효과인 'Sway\&Twi
   - [CGV 4DX 인터내셔널 트레일러](https://www.youtube.com/watch?v=HE1l0sWGlqU) - [유튜브](../Page/유튜브.md "wikilink")
   - [CJ 4DPLEX 공식 페이스북](https://www.facebook.com/4DXKOREA/)
 
-[분류:영화 규격](https://ko.wikipedia.org/wiki/분류:영화_규격 "wikilink") [분류:영화관](https://ko.wikipedia.org/wiki/분류:영화관 "wikilink")
+[분류:영화 규격](https://ko.wikipedia.org/wiki/분류:영화_규격 "wikilink")
 
 1.
 2.

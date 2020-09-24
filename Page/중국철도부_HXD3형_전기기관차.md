@@ -13,4 +13,4 @@
 
   - [東芝 近代的な物流を支える機関車及び貨物電車システム](http://www.toshiba.co.jp/tech/review/2006/09/61_09pdf/a05.pdf)（PDF 파일）
 
-[분류:중국의 철도 차량](https://ko.wikipedia.org/wiki/분류:중국의_철도_차량 "wikilink") [HXD3](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_철도_교통 "wikilink") [전기 기관차](https://ko.wikipedia.org/wiki/분류:전기_기관차 "wikilink")
+[분류:중국의 전기 기관차](https://ko.wikipedia.org/wiki/분류:중국의_전기_기관차 "wikilink") [분류:중화인민공화국의 철도 교통](https://ko.wikipedia.org/wiki/분류:중화인민공화국의_철도_교통 "wikilink")

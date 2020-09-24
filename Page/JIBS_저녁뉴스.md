@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JIBS 저녁뉴스](https://ko.wikipedia.org/wiki/JIBS_저녁뉴스).
 
 
-**JIBS 저녁뉴스**는 대한민국 [JIBS](https://ko.wikipedia.org/wiki/JIBS "wikilink")에서 평일 오후 5시 45분에 방송되는 [JIBS의](../Page/제주방송.md "wikilink") 저녁뉴스 프로그램이다.
+《**JIBS 저녁뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") [JIBS에서](../Page/제주방송.md "wikilink") 평일 오후 5시 35분에 방송되는 [JIBS의 저녁뉴스 프로그램이다](../Page/제주방송의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -12,9 +12,10 @@
 | [2017년](../Page/2017년.md "wikilink") [6월 5일](../Page/6월_5일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink")   | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시 55분 \~ 저녁 6시 10분 (15분)                                                                               |                                                                             |
 | [2017년](../Page/2017년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시 45분 \~ 저녁 6시 (15분)                                                                                   |                                                                             |
 | [2019년](../Page/2019년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") |                                                                                                                                                              |                                                                             |
-| [2020년](../Page/2020년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") \~ **현재**                                                                      |                                                                                                                                                              |                                                                             |
+| [2020년](../Page/2020년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink") |                                                                                                                                                              |                                                                             |
 | [2019년](../Page/2019년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [5월 10일](../Page/5월_10일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시 40분 \~ 5시 55분 (15분)                                                                                  |                                                                             |
 | [2020년](../Page/2020년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [4월 17일](../Page/4월_17일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시 35분 \~ 5시 50분 (15분)                                                                                  |                                                                             |
+| [2020년](../Page/2020년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ **현재**                                                                      |                                                                                                                                                              |                                                                             |
 
 ## 앵커
 
@@ -33,6 +34,6 @@
 
 ## 외부 링크
 
-  - [JIBS 저녁뉴스 공식 홈페이지](http://www.jibs.co.kr/news/articles/viewArticles/)
+  - [JIBS 저녁뉴스 공식 홈페이지](http://www.jibs.co.kr/news/replay/viewNewsReplay)
 
 [분류:제주방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:제주방송의_뉴스_텔레비전_프로그램 "wikilink")

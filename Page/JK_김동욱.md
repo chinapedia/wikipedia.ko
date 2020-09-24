@@ -3,7 +3,7 @@
 
 **JK김동욱**(, [1975년](../Page/1975년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") \~ )은 [캐나다](../Page/캐나다.md "wikilink") 국적으로 [대한민국](../Page/대한민국.md "wikilink")에서 활동하는 가수이다. [1996년](../Page/1996년.md "wikilink") [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [오타와](../Page/오타와.md "wikilink")의 언더그라운드 [라이브 클럽에서](https://ko.wikipedia.org/wiki/라이브_클럽 "wikilink") [가수](https://ko.wikipedia.org/wiki/가수 "wikilink")로 첫 데뷔하였고 이후 [대한민국](../Page/대한민국.md "wikilink") 국내에서는 [2000년](../Page/2000년.md "wikilink") [SBS](../Page/SBS.md "wikilink") 넷뮤직 2000에서 금상을 수상하고 [2001년](../Page/2001년.md "wikilink") [영화](https://ko.wikipedia.org/wiki/대한민국_영화 "wikilink") 《[조폭 마누라](../Page/조폭_마누라.md "wikilink")》 OST에 실린 〈편지〉와 [MBC의](../Page/MBC_TV.md "wikilink") 드라마인 《[위기의 남자](https://ko.wikipedia.org/wiki/위기의_남자 "wikilink")》 OST로 사용된 〈미련한 사랑〉을 불러 알려지게 되었다. 정규 음반으로는 [2002년](../Page/2002년.md "wikilink") 1집 《LifeSentence》로 정식 데뷔하였다. 김동욱이란 이름은 본명이고 J는 캐나다에 있을 때 쓰던 이름이자 [로마 가톨릭교회의](../Page/로마_가톨릭교회.md "wikilink") [세례명](../Page/세례명.md "wikilink")인 [요아킴](../Page/요아킴.md "wikilink")(Joachim)의 앞글자를, K는 캐나다에서 옆집에 살던 암투병 중인 9살 꼬마 여자아이의 이름 케이트(Kate)의 앞글자를 따온 것이라는 이야기가 있었으나, 최근 무엇이든 물어보살에 출연하여 JK의 의미가 John Kim, 즉 캐나다에서 사용하던 자신의 Full Name의 약자를 따온거라 설명했다.
 
-## 학력
+학력
 
   - [캐나다 험버 대학교](https://ko.wikipedia.org/wiki/:en:Humber_College "wikilink") 재즈음악학과 [학사](../Page/학사.md "wikilink") 졸업
 

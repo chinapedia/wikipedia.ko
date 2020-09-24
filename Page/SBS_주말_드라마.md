@@ -3,7 +3,7 @@
 
 **SBS 주말 드라마**는 [SBS](../Page/SBS.md "wikilink")에서 매주 [토요일](../Page/토요일.md "wikilink")에 방송 되었던 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
-《[떴다\! 패밀리](../Page/떴다!_패밀리.md "wikilink")》라는 작품까지 잠정 폐지 되었고 《[동상이몽](../Page/동상이몽,_괜찮아_괜찮아.md "wikilink")》, 《[웃찾사](../Page/웃음을_찾는_사람들.md "wikilink")》 등 예능 프로그램으로 대체되었으나 이후 주말 드라마는 밤 10시 《[주말 특별 기획 드라마](../Page/SBS_주말_특별기획_드라마.md "wikilink")》의 남게 되었으나 [2016년](../Page/2016년.md "wikilink") [2월 13일부터](../Page/2월_13일.md "wikilink") 《[그래, 그런거야](../Page/그래,_그런거야.md "wikilink")》라는 작품으로 **주말 드라마**라는 명칭으로 다시 신설 했지만 이후 [2016년](../Page/2016년.md "wikilink") [11월 5일부터](../Page/11월_5일.md "wikilink") [2017년](../Page/2017년.md "wikilink") [4월 8일까지](../Page/4월_8일.md "wikilink") 《[우리 갑순이](../Page/우리_갑순이.md "wikilink")》의 개편에 따라 주말 오후 8시 45분부터 방송 시간대를 토요일 2회 연속 방송하는 형식으로 변경 되었으나\[1\] 이후 [2017년](../Page/2017년.md "wikilink") [4월 15일부터](../Page/4월_15일.md "wikilink") 주말 드라마는 폐지 되고 [SBS 주말 특별 기획 드라마로](https://ko.wikipedia.org/wiki/SBS_주말_특별_기획_드라마 "wikilink") 방송 대체되었다.
+《[떴다\! 패밀리](../Page/떴다!_패밀리.md "wikilink")》라는 작품까지 잠정 폐지 되었고 《[동상이몽](../Page/동상이몽,_괜찮아_괜찮아.md "wikilink")》, 《[웃찾사](../Page/웃음을_찾는_사람들.md "wikilink")》 등 예능 프로그램으로 대체되었으나 이후 주말 드라마는 밤 10시 《[주말 특별 기획 드라마](../Page/SBS_주말_특별기획_드라마.md "wikilink")》의 남게 되었으나 [2016년](../Page/2016년.md "wikilink") [2월 13일부터](../Page/2월_13일.md "wikilink") 《[그래, 그런거야](../Page/그래,_그런거야.md "wikilink")》라는 작품으로 **주말 드라마**라는 명칭으로 다시 신설 했지만 이후 [2016년](../Page/2016년.md "wikilink") [11월 5일부터](../Page/11월_5일.md "wikilink") [2017년](../Page/2017년.md "wikilink") [4월 8일까지](../Page/4월_8일.md "wikilink") 《[우리 갑순이](../Page/우리_갑순이.md "wikilink")》의 개편에 따라 주말 오후 8시 45분부터 방송 시간대를 토요일 2회 연속 방송하는 형식으로 변경 되었으나\[1\] 이후 [2017년](../Page/2017년.md "wikilink") [4월 15일부터](../Page/4월_15일.md "wikilink") 주말 드라마는 폐지 되고 [SBS 주말 특별 기획 드라마로](../Page/SBS_주말_특별_기획_드라마.md "wikilink") 방송 대체되었다.
 
 ## 방송 시간
 
@@ -133,8 +133,8 @@
   - 《[원더풀 마마](https://ko.wikipedia.org/wiki/원더풀_마마 "wikilink")》 : 2013년 4월 13일 \~ 2013년 9월 22일
   - 《[낯선 사람](../Page/낯선_사람.md "wikilink")》 : 2013년 11월 3일\[5\]
   - 《[열애](../Page/열애_\(2013년_드라마\).md "wikilink")》 : 2013년 9월 28일 \~ 2014년 3월 23일
-  - 《[강구 이야기](../Page/강구_이야기.md "wikilink")》 : 2014년 3월 29일 \~ 2014년 3월 30일 (특집드라마)
-  - 《[기분 좋은 날](../Page/기분_좋은_날_\(드라마\).md "wikilink")》 : 2014년 4월 26일 \~ 2014년 10월 5일
+  - 《[강구 이야기](../Page/강구_이야기.md "wikilink")》 : 2014년 3월 29일 \~ 2014년 3월 30일 (특집 드라마)
+  - 《[기분 좋은 날](../Page/기분_좋은_날_\(드라마\).md "wikilink")》 : 2014년 4월 26일 \~ 2014년 10월 5일 (본 작품까지 **주말 극장**이라는 명칭 사용)
   - 《[엄마의 선택](../Page/엄마의_선택.md "wikilink")》 : 2014년 10월 12일 (특집 드라마, 일요일 2회 연속 방영)\[6\]
   - 《[모던파머](../Page/모던파머.md "wikilink")》 : 2014년 10월 18일 \~ 2014년 12월 27일 (**주말 미니 시리즈**로 방송됨)
   - 《[떴다\! 패밀리](../Page/떴다!_패밀리.md "wikilink")》 : 2015년 1월 3일 \~ 2015년 3월 15일
@@ -143,8 +143,8 @@
 
 ## 같이 보기
 
-  - [KBS 2TV 주말 드라마](https://ko.wikipedia.org/wiki/KBS_2TV_주말_드라마 "wikilink")
-  - [MBC 주말 드라마](https://ko.wikipedia.org/wiki/MBC_주말_드라마 "wikilink")
+  - [KBS 2TV 주말 드라마](../Page/KBS_2TV_주말_드라마.md "wikilink")
+  - [MBC 주말 드라마](../Page/MBC_주말_드라마.md "wikilink")
 
 ## 각주
 

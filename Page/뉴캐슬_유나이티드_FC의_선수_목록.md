@@ -1294,8 +1294,9 @@
 <td><p><a href="../Page/앤디_캐럴.md" title="wikilink">앤디 캐럴</a></p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
 <td><p><a href="../Page/공격수.md" title="wikilink">공격수</a></p></td>
-<td><p>2006-2011</p></td>
-<td><p>91</p></td>
+<td><p>2006-2011<br />
+2019-현재</p></td>
+<td><p>112</p></td>
 <td><p>33</p></td>
 </tr>
 <tr class="even">
@@ -1407,7 +1408,7 @@
 <td><p><a href="../Page/웨일스.md" title="wikilink">웨일스</a></p></td>
 <td><p><a href="../Page/수비수.md" title="wikilink">수비수</a></p></td>
 <td><p>2011-현재</p></td>
-<td><p>168</p></td>
+<td><p>185</p></td>
 <td><p>3</p></td>
 </tr>
 <tr class="even">
@@ -1446,7 +1447,7 @@
 <td><p><a href="../Page/잭_콜백.md" title="wikilink">잭 콜백</a></p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
 <td><p><a href="../Page/미드필더.md" title="wikilink">미드필더</a></p></td>
-<td><p>2014-현재</p></td>
+<td><p>2014-2020</p></td>
 <td><p>102</p></td>
 <td><p>5</p></td>
 </tr>
@@ -1463,16 +1464,16 @@
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
 <td><p><a href="../Page/수비수.md" title="wikilink">수비수</a></p></td>
 <td><p>2014-현재</p></td>
-<td><p>137</p></td>
-<td><p>8</p></td>
+<td><p>166</p></td>
+<td><p>9</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/존조_셸비.md" title="wikilink">존조 셸비</a></p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
 <td><p><a href="../Page/미드필더.md" title="wikilink">미드필더</a></p></td>
 <td><p>2016-현재</p></td>
-<td><p>111</p></td>
-<td><p>8</p></td>
+<td><p>140</p></td>
+<td><p>14</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/모아메드_디아메.md" title="wikilink">모아메드 디아메</a></p></td>
@@ -1483,12 +1484,28 @@
 <td><p>8</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/아이작_헤이든.md" title="wikilink">아이작 헤이든</a></p></td>
+<td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
+<td><p><a href="../Page/미드필더.md" title="wikilink">미드필더</a></p></td>
+<td><p>2016-현재</p></td>
+<td><p>130</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="even">
 <td><p>맷 리치</p></td>
 <td><p><a href="../Page/스코틀랜드.md" title="wikilink">스코틀랜드</a></p></td>
 <td><p><a href="../Page/미드필더.md" title="wikilink">미드필더</a></p></td>
 <td><p>2016-현재</p></td>
-<td><p>125</p></td>
-<td><p>22</p></td>
+<td><p>148</p></td>
+<td><p>24</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/디안드레_예들린.md" title="wikilink">디안드레 예들린</a></p></td>
+<td><p><a href="../Page/미국.md" title="wikilink">미국</a></p></td>
+<td><p><a href="../Page/수비수.md" title="wikilink">수비수</a></p></td>
+<td><p>2016-현재</p></td>
+<td><p>115</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="even">
 <td></td>

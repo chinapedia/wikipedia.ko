@@ -34,11 +34,11 @@
 
 ### 할인
 
-통신사 제휴, CU 포인트 적립, 할인 서비스를 제공하고 있다.\[1\]
+통신사 제휴, CU 포인트 적립, 할인 서비스 등을 제공하고 있다.\[1\]
 
 ### 택배 픽업
 
-[2016년](../Page/2016년.md "wikilink") 11월부터 [소셜커머스](https://ko.wikipedia.org/wiki/소셜_커머스 "wikilink") 티몬과 제휴해‘택배 픽업’서비스를 제공하고 있다. 2017년 [5월 1일부터는](../Page/5월_1일.md "wikilink") [SK플래닛](../Page/SK플래닛.md "wikilink")의 온라인 쇼핑몰 [11번가](../Page/11번가.md "wikilink")와 제휴해 24시간 택배 픽업 서비스를 제공하기로 했다.\[2\]
+[2016년](../Page/2016년.md "wikilink") [11월](../Page/11월.md "wikilink")부터 [소셜커머스](https://ko.wikipedia.org/wiki/소셜_커머스 "wikilink") 티몬과 제휴해‘택배 픽업’서비스를 제공하고 있다. [2017년](../Page/2017년.md "wikilink") [5월 1일부터는](../Page/5월_1일.md "wikilink") [SK플래닛](../Page/SK플래닛.md "wikilink")의 온라인 쇼핑몰 [11번가](../Page/11번가.md "wikilink")와 제휴해 24시간 택배 픽업 서비스를 제공하기로 했다.\[2\]
 
 ## BI 변천사
 

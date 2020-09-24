@@ -143,7 +143,7 @@
   - [빅터](https://ko.wikipedia.org/wiki/릭_빅터 "wikilink")
   - [코너](https://ko.wikipedia.org/wiki/코너_오브라이언 "wikilink")
   - [신 카라](../Page/미스티코.md "wikilink")
-  - [후니코](https://ko.wikipedia.org/wiki/후니코 "wikilink")
+  - [후니코](../Page/후니코.md "wikilink")
   - [루크 하퍼](../Page/브로디_리.md "wikilink")
   - 조던 마일스
 

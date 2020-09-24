@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JTV 8 뉴스](https://ko.wikipedia.org/wiki/JTV_8_뉴스).
 
 
-**JTV 8 뉴스**는 [대한민국](../Page/대한민국.md "wikilink") [JTV](https://ko.wikipedia.org/wiki/JTV "wikilink")에서 평일 저녁 8시 35분, 주말 저녁 8시 30분에 방송되는 [전주방송의 메인뉴스 프로그램이다](https://ko.wikipedia.org/wiki/전주방송의_뉴스_프로그램 "wikilink").
+**JTV 8 뉴스**는 [대한민국](../Page/대한민국.md "wikilink") [JTV](https://ko.wikipedia.org/wiki/JTV "wikilink")에서 평일 저녁 8시 35분, 주말 저녁 8시 30분에 방송되는 [전주방송의 메인뉴스 프로그램이다](../Page/전주방송의_뉴스_프로그램.md "wikilink").
 
 ## 타이틀
 

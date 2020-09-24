@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BBC 라디오 4](https://ko.wikipedia.org/wiki/BBC_라디오_4).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:Logo_BBC_Radio_4.svg "wikilink") **BBC 라디오 4**(BBC Radio 4)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송 중 하나로, 뉴스, 시사, 교양 프로그램을 주로 방송한다. 영국의 비상 시 국가 기간방송의 역할도 담당하고 있으며, 매 시간 정시마다 6초 비프음 시보와 [빅 벤의](../Page/빅_벤.md "wikilink") 종소리 시보를 송출하는 것이 특징이다.\[1\]
+[오른쪽](https://ko.wikipedia.org/wiki/파일:BBC_Radio_4.svg "wikilink") **BBC 라디오 4**(BBC Radio 4)는 [BBC의](../Page/영국방송공사.md "wikilink") 라디오 방송 중 하나로, 뉴스, 시사, 교양 프로그램을 주로 방송한다. 영국의 비상 시 국가 기간방송의 역할도 담당하고 있으며, 매 시간 정시마다 6초 비프음 시보와 [빅 벤의](../Page/빅_벤.md "wikilink") 종소리 시보를 송출하는 것이 특징이다.\[1\]
 
 매일 01:00\~05:20에는 [BBC 월드 서비스를](../Page/BBC_월드_서비스.md "wikilink") 재송출하며, BBC 라디오 4 - BBC 월드 서비스 전환시에는 영국 국가가 방송된다.
 

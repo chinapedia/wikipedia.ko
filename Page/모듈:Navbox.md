@@ -556,11 +556,7 @@ function p.navbox(frame)
 `       getArgs = require('Module:Arguments').getArgs`
 `   end`
 `   local args = {}`
-`   parent_args = getArgs(frame, {wrappers = {'틀:둘러보기 상자', '틀:둘러보기 상자/중첩'}})`
-`   if frame.args.border then`
-`       -- This allows Template:Navbox_subgroup to use {{#invoke:Navbox|navbox|border=...}}.`
-`       parent_args.border = frame.args.border`
-`   end`
+`   parent_args = getArgs(frame, {wrappers = {'틀:둘러보기 상자'}})`
 
 `   -- Read the arguments in the order they'll be output in, to make references number in the right order.`
 `   local _`

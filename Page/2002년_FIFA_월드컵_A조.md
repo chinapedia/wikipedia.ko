@@ -700,7 +700,7 @@ A조의 다크호스 우루과이도 기대 이하의 프랑스를 상대로 득
 블라디미르 페르난데스 (<a href="https://ko.wikipedia.org/wiki/엘살바도르_축구_협회" title="wikilink">엘살바도르</a>)<br />
 커티스 찰스 (<a href="https://ko.wikipedia.org/wiki/앤티가_바부다_축구_협회" title="wikilink">앤티가 바부다</a>)<br />
 <strong>대기심:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/우르스_마이어" title="wikilink">우르스 마이어</a> (<a href="https://ko.wikipedia.org/wiki/스위스_축구_협회" title="wikilink">스위스</a>)</p></td>
+<a href="https://ko.wikipedia.org/wiki/우르스_마이어" title="wikilink">우르스 마이어</a> (<a href="../Page/스위스_축구_협회.md" title="wikilink">스위스</a>)</p></td>
 </tr>
 </tbody>
 </table>

@@ -178,7 +178,7 @@
   - 72-2번 [채널뷰](https://ko.wikipedia.org/wiki/채널_뷰 "wikilink")
   - 73-1번 [국회방송](../Page/국회방송.md "wikilink")
   - 74-1번 [아리랑국제방송](../Page/아리랑국제방송.md "wikilink")
-  - 74-2번 [OUN](https://ko.wikipedia.org/wiki/방송대학TV "wikilink")
+  - 74-2번 [OUN](../Page/방송대학TV.md "wikilink")
   - 75-1번 [CNN](../Page/CNN.md "wikilink")
   - 76-1번 [NHK 월드](../Page/일본방송협회.md "wikilink")
   - 77-1번 [복지TV](../Page/복지TV.md "wikilink")
@@ -331,7 +331,7 @@
   - 138번 청춘시대TV
   - 139번 [CNN](../Page/CNN.md "wikilink")
   - 140번 [NHK프리미엄](../Page/일본방송협회.md "wikilink")
-  - 141번 [OUN방송대학](https://ko.wikipedia.org/wiki/방송대학TV "wikilink")
+  - 141번 [OUN방송대학](../Page/방송대학TV.md "wikilink")
   - 142번 [EBS플러스1](../Page/EBS_플러스_1.md "wikilink")
   - 143번 [EBS플러스2](../Page/EBS_플러스_2.md "wikilink")
   - 144번 [EBS english](../Page/EBS_english.md "wikilink")

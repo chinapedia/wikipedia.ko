@@ -56,7 +56,7 @@
 <td><p><a href="../Page/이_시각_뉴스룸.md" title="wikilink">이 시각 뉴스룸</a></p></td>
 <td><p>주말 5분</p></td>
 <td><p>11:55 ~ 12:00</p></td>
-<td><p>토요일 : <a href="../Page/김하은.md" title="wikilink">김하은</a><br />
+<td><p>토요일 : 김하은<br />
 일요일 : 백다혜</p></td>
 </tr>
 <tr class="odd">

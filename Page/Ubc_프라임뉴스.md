@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ubc 프라임뉴스](https://ko.wikipedia.org/wiki/Ubc_프라임뉴스).
 
 
-**ubc 프라임뉴스**는 [SBS](../Page/SBS.md "wikilink")의 울산권 네트워크 방송사인 [울산방송](../Page/울산방송.md "wikilink")(ubc)의 메인 뉴스 프로그램이다. Will Young-Evergreen, Ashanti-Happy, Clay Aiken-Shine(2020.1.2\~2020.2.3 ubc Broadcasting Order Guide BGM)
+**ubc 프라임뉴스**는 [SBS](../Page/SBS.md "wikilink")의 울산권 네트워크 방송사인 [울산방송](../Page/울산방송.md "wikilink")(ubc)의 메인 뉴스 프로그램이다.
 
 ## 메인 진행
 

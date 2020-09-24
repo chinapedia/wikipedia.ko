@@ -1185,7 +1185,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/제_호베르투.md" title="wikilink">제 호베르투</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/제_호베르투_(1974년)" title="wikilink">제 호베르투</a></p></td>
 <td><p>미드필더</p></td>
 <td></td>
 <td><p>2002–2006<br />
