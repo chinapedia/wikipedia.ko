@@ -418,7 +418,7 @@
 <td><p>2014</p></td>
 <td><p>37(35)</p></td>
 <td><p>"<a href="https://ko.wikipedia.org/wiki/마에시카무카네" title="wikilink">앞 밖에 보지 않아</a>" </p></td>
-<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a></p></td>
+<td><p><a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/2월_26일.md" title="wikilink">2월 26일</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>-</p></td>

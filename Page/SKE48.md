@@ -13,6 +13,8 @@
 
 2011년 11월 1일, [피타고라스 프로모션에서](https://ko.wikipedia.org/wiki/피타고라스_프로모션 "wikilink") SKE48 멤버 및 SKE48 사업에 종사하고 있던 스탭이 [AKS에](../Page/AKS_\(기업\).md "wikilink") 전적. 이후, 2019년 3월 1일에 [KeyHolder](https://ko.wikipedia.org/wiki/KeyHolder "wikilink") 관련 회사로 신설된 주식회사 SKE가 SKE48 사업을 AKS부터 계승. 동년 7월 1일 운영회사 주식회사 SKE가 주식회사 제스트로 개명.
 
+총캡틴겸극장지배인:**사이토 마키코**
+
 ### AKB48와 다른 점
 
   - 대개 멤버의 출신지가 주부 지방의 [아이치현](../Page/아이치현.md "wikilink"), [기후현](../Page/기후현.md "wikilink"), [미에현](../Page/미에현.md "wikilink")이다.
@@ -66,7 +68,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td><p>7</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아오미_히나노" title="wikilink">아오미 히나노</a></p></td>
+<td><p>아오미 히나노</p></td>
 <td><p>青海ひな乃</p></td>
 <td><p>あおうみ ひなの</p></td>
 <td></td>
@@ -77,7 +79,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아카호리_키미에" title="wikilink">아카호리 키미에</a></p></td>
+<td><p>아카호리 키미에</p></td>
 <td><p>赤堀君江</p></td>
 <td><p>あかほり きみえ</p></td>
 <td></td>
@@ -88,7 +90,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아라노_히메카" title="wikilink">아라노 히메카</a></p></td>
+<td><p>아라노 히메카</p></td>
 <td><p>荒野姫楓</p></td>
 <td><p>あらの ひめか</p></td>
 <td></td>
@@ -99,7 +101,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이시구로_유즈키" title="wikilink">이시구로 유즈키</a></p></td>
+<td><p>이시구로 유즈키</p></td>
 <td><p>石黒友月</p></td>
 <td><p>いしぐろ ゆづき</p></td>
 <td></td>
@@ -110,7 +112,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이노우에_루카" title="wikilink">이노우에 루카</a></p></td>
+<td><p>이노우에 루카</p></td>
 <td><p>井上瑠夏</p></td>
 <td><p>いのうえ るか</p></td>
 <td></td>
@@ -121,7 +123,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오타니_유키" title="wikilink">오오타니 유키</a></p></td>
+<td><p>오오타니 유키</p></td>
 <td><p>大谷悠妃</p></td>
 <td><p>おおたに ゆうき</p></td>
 <td></td>
@@ -132,7 +134,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/카미무라_아유카" title="wikilink">카미무라 아유카</a></strong></p></td>
+<td><p><strong>카미무라 아유카</strong></p></td>
 <td><p><strong>上村亜柚香</strong></p></td>
 <td><p><strong>かみむら あゆか</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -143,7 +145,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/키타가와_요시노" title="wikilink">키타가와 요시노</a></p></td>
+<td><p>키타가와 요시노</p></td>
 <td><p>北川愛乃</p></td>
 <td><p>きたがわ よしの</p></td>
 <td></td>
@@ -154,7 +156,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사카모토_마린" title="wikilink">사카모토 마린</a></p></td>
+<td><p>사카모토 마린</p></td>
 <td><p>坂本真凛</p></td>
 <td><p>さかもと まりん</p></td>
 <td></td>
@@ -165,7 +167,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스기야마_아이카" title="wikilink">스기야마 아이카</a></p></td>
+<td><p>스기야마 아이카</p></td>
 <td><p>杉山愛佳</p></td>
 <td><p>すぎやま あいか</p></td>
 <td></td>
@@ -176,7 +178,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/츠즈키_리카" title="wikilink">츠즈키 리카</a></p></td>
+<td><p>츠즈키 리카</p></td>
 <td><p>都築里佳</p></td>
 <td><p>つづき りか</p></td>
 <td></td>
@@ -187,7 +189,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나카무라_이즈미" title="wikilink">나카무라 이즈미</a></p></td>
+<td><p>나카무라 이즈미</p></td>
 <td><p>仲村和泉</p></td>
 <td><p>なかむら いずみ</p></td>
 <td></td>
@@ -198,7 +200,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/노지마_카노" title="wikilink">노지마 카노</a></p></td>
+<td><p>노지마 카노</p></td>
 <td><p>野島樺乃</p></td>
 <td><p>のじま かの</p></td>
 <td></td>
@@ -209,7 +211,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/노무라_미요" title="wikilink">노무라 미요</a></p></td>
+<td><p>노무라 미요</p></td>
 <td><p>野村実代</p></td>
 <td><p>のむら みよ</p></td>
 <td></td>
@@ -232,7 +234,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td><p>19</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/마츠모토_치카코" title="wikilink">마츠모토 치카코</a></strong></p></td>
+<td><p><strong>마츠모토 치카코</strong></p></td>
 <td><p><strong>松本慈子</strong></p></td>
 <td><p><strong>まつもと ちかこ</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -298,7 +300,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td><p>7</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아오키_시오리" title="wikilink">아오키 시오리</a></p></td>
+<td><p>아오키 시오리</p></td>
 <td><p>青木詩織</p></td>
 <td><p>あおき しおり</p></td>
 <td></td>
@@ -309,7 +311,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아라이_유키" title="wikilink">아라이 유키</a></p></td>
+<td><p>아라이 유키</p></td>
 <td><p>荒井優希</p></td>
 <td><p>あらい ゆき</p></td>
 <td></td>
@@ -331,7 +333,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오시바_린카" title="wikilink">오오시바 린카</a></p></td>
+<td><p>오오시바 린카</p></td>
 <td><p>大芝りんか</p></td>
 <td><p>おおしば りんか</p></td>
 <td></td>
@@ -342,7 +344,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오타_아야카" title="wikilink">오오타 아야카</a></p></td>
+<td><p>오오타 아야카</p></td>
 <td><p>太田彩夏</p></td>
 <td><p>おおた あやか</p></td>
 <td></td>
@@ -365,7 +367,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 최연장자</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오카모토_아야카" title="wikilink">오카모토 아야카</a></p></td>
+<td><p>오카모토 아야카</p></td>
 <td><p>岡本彩夏</p></td>
 <td><p>おかもと あやか</p></td>
 <td></td>
@@ -376,7 +378,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카타오카_나루미" title="wikilink">카타오카 나루미</a></p></td>
+<td><p>카타오카 나루미</p></td>
 <td><p>片岡成美</p></td>
 <td><p>かたおか なるみ</p></td>
 <td></td>
@@ -388,7 +390,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/키타노_루카" title="wikilink">키타노 루카</a></strong></p></td>
+<td><p><strong>키타노 루카</strong></p></td>
 <td><p><strong>北野瑠華</strong></p></td>
 <td><p><strong>きたの るか</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -399,7 +401,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/시라이_코토노" title="wikilink">시라이 코토노</a></p></td>
+<td><p>시라이 코토노</p></td>
 <td><p>白井琴望</p></td>
 <td><p>しらい ことの</p></td>
 <td></td>
@@ -411,7 +413,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/시라이_유키노" title="wikilink">시라이 유키노</a></p></td>
+<td><p>시라이 유키노</p></td>
 <td><p>白井友紀乃</p></td>
 <td><p>しらい ゆきの</p></td>
 <td></td>
@@ -445,7 +447,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/타케우치_사키" title="wikilink">타케우치 사키</a></p></td>
+<td><p>타케우치 사키</p></td>
 <td><p>竹内彩姫</p></td>
 <td><p>たけうち さき</p></td>
 <td></td>
@@ -456,7 +458,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/나카노_아이리" title="wikilink">나카노 아이리</a></p></td>
+<td><p>나카노 아이리</p></td>
 <td><p>中野愛理</p></td>
 <td><p>なかの あいり</p></td>
 <td></td>
@@ -467,7 +469,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/히다카_유즈키" title="wikilink">히다카 유즈키</a></p></td>
+<td><p>히다카 유즈키</p></td>
 <td><p>日高優月</p></td>
 <td><p>ひだか ゆづき</p></td>
 <td></td>
@@ -489,7 +491,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미즈노_아이리" title="wikilink">미즈노 아이리</a></p></td>
+<td><p>미즈노 아이리</p></td>
 <td><p>水野愛理</p></td>
 <td><p>みずの あいり</p></td>
 <td></td>
@@ -544,7 +546,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td><p>7</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아이카와_호노카" title="wikilink">아이카와 호노카</a></p></td>
+<td><p>아이카와 호노카</p></td>
 <td><p>相川暖花</p></td>
 <td><p>あいかわ ほのか</p></td>
 <td></td>
@@ -555,7 +557,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아사이_유우카" title="wikilink">아사이 유우카</a></p></td>
+<td><p>아사이 유우카</p></td>
 <td><p>浅井裕華</p></td>
 <td><p>あさい ゆうか</p></td>
 <td></td>
@@ -577,7 +579,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이다_레오나" title="wikilink">이다 레오나</a></p></td>
+<td><p>이다 레오나</p></td>
 <td><p>井田玲音名</p></td>
 <td><p>いだ れおな</p></td>
 <td></td>
@@ -610,7 +612,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td><p>73</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/쿠라시마_아미" title="wikilink">쿠라시마 아미</a></p></td>
+<td><p>쿠라시마 아미</p></td>
 <td><p>倉島杏実</p></td>
 <td><p>くらしま あみ</p></td>
 <td></td>
@@ -621,7 +623,7 @@ SKE48는 오프닝 멤버 오디션 합격자 22명과 AKB 연구생에서부터
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/사이토_마키코" title="wikilink">사이토 마키코</a></strong></p></td>
+<td><p><strong>사이토 마키코</strong></p></td>
 <td><p><strong>斉藤真木子</strong></p></td>
 <td><p><strong>さいとう まきこ</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -634,7 +636,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사토_카호" title="wikilink">사토 카호</a></p></td>
+<td><p>사토 카호</p></td>
 <td><p>佐藤佳穂</p></td>
 <td><p>さとう かほ</p></td>
 <td></td>
@@ -656,7 +658,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스가와라_마야" title="wikilink">스가와라 마야</a></p></td>
+<td><p>스가와라 마야</p></td>
 <td><p>菅原茉椰</p></td>
 <td><p>すがわら まや</p></td>
 <td></td>
@@ -679,7 +681,7 @@ SKE48 극장 지배인<br />
 최연장자</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/다카하라_유우키" title="wikilink">다카하라 유우키</a></p></td>
+<td><p>다카하라 유우키</p></td>
 <td><p>髙畑結希</p></td>
 <td><p>たかはた ゆうき</p></td>
 <td></td>
@@ -690,7 +692,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/타나베_나츠미" title="wikilink">타나베 나츠미</a></p></td>
+<td><p>타나베 나츠미</p></td>
 <td><p>田辺美月</p></td>
 <td><p>たなべ みづき</p></td>
 <td></td>
@@ -712,7 +714,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/니시_마리나" title="wikilink">니시 마리나</a></p></td>
+<td><p>니시 마리나</p></td>
 <td><p>西満里奈</p></td>
 <td><p>にし まりな</p></td>
 <td></td>
@@ -723,7 +725,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/히라타_시이나" title="wikilink">히라타 시이나</a></p></td>
+<td><p>히라타 시이나</p></td>
 <td><p>平田詩奈</p></td>
 <td><p>ひらた しいな</p></td>
 <td></td>
@@ -734,7 +736,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후카이_네가이" title="wikilink">후카이 네가이</a></p></td>
+<td><p>후카이 네가이</p></td>
 <td><p>深井ねがい</p></td>
 <td><p>ふかい ねがい</p></td>
 <td></td>
@@ -745,7 +747,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>[5후쿠시 나오]]</strong></p></td>
+<td><p><strong>후쿠시 나오</strong></p></td>
 <td><p><strong>福士奈央</strong></p></td>
 <td><p><strong>ふくし なお</strong></p></td>
 <td><p><strong></strong></p></td>
@@ -796,7 +798,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이시카와_카논" title="wikilink">이시카와 카논</a></p></td>
+<td><p>이시카와 카논</p></td>
 <td><p>石川花音</p></td>
 <td><p>いしかわ かのん</p></td>
 <td></td>
@@ -806,7 +808,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이리우치지마_사야카" title="wikilink">이리우치지마 사야카</a></p></td>
+<td><p>이리우치지마 사야카</p></td>
 <td><p>入内嶋涼</p></td>
 <td><p>いりうちじま さやか</p></td>
 <td></td>
@@ -816,7 +818,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오하시_마코" title="wikilink">오오하시 마코</a></p></td>
+<td><p>오오하시 마코</p></td>
 <td><p>大橋真子</p></td>
 <td><p>おおはし まこ</p></td>
 <td></td>
@@ -826,7 +828,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카와시마_미하루" title="wikilink">카와시마 미하루</a></p></td>
+<td><p>카와시마 미하루</p></td>
 <td><p>川嶋美晴</p></td>
 <td><p>かわしま みはる</p></td>
 <td></td>
@@ -836,7 +838,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_에나" title="wikilink">스즈키 에나</a></p></td>
+<td><p>스즈키 에나</p></td>
 <td><p>鈴木愛菜</p></td>
 <td><p>すずき えな</p></td>
 <td></td>
@@ -846,7 +848,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_코코나" title="wikilink">스즈키 코코나</a></p></td>
+<td><p>스즈키 코코나</p></td>
 <td><p>鈴木恋奈</p></td>
 <td><p>すずき ここな</p></td>
 <td></td>
@@ -856,7 +858,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/타케우치_나나미" title="wikilink">타케우치 나나미</a></p></td>
+<td><p>타케우치 나나미</p></td>
 <td><p>竹内ななみ</p></td>
 <td><p>たけうち ななみ</p></td>
 <td></td>
@@ -866,7 +868,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나카사카_미유" title="wikilink">나카사카 미유</a></p></td>
+<td><p>나카사카 미유</p></td>
 <td><p>中坂美祐</p></td>
 <td><p>なかさか みゆ</p></td>
 <td></td>
@@ -876,7 +878,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/히라노_모모나" title="wikilink">히라노 모모나</a></p></td>
+<td><p>히라노 모모나</p></td>
 <td><p>平野百菜</p></td>
 <td><p>ひらの ももな</p></td>
 <td></td>
@@ -886,7 +888,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후지모토_후유카" title="wikilink">후지모토 후유카</a></p></td>
+<td><p>후지모토 후유카</p></td>
 <td><p>藤本冬香</p></td>
 <td><p>ふじもと ふゆか</p></td>
 <td></td>
@@ -896,7 +898,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아오키_리카" title="wikilink">아오키 리카</a></p></td>
+<td><p>아오키 리카</p></td>
 <td><p>青木莉樺</p></td>
 <td><p>あおき りか</p></td>
 <td></td>
@@ -906,7 +908,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이시즈카_미즈키" title="wikilink">이시즈카 미즈키</a></p></td>
+<td><p>이시즈카 미즈키</p></td>
 <td><p>石塚美月</p></td>
 <td><p>いしづか みづき</p></td>
 <td></td>
@@ -916,7 +918,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이가라시_하야카" title="wikilink">이가라시 하야카</a></p></td>
+<td><p>이가라시 하야카</p></td>
 <td><p>五十嵐早香</p></td>
 <td><p>いがらし はやか</p></td>
 <td></td>
@@ -926,7 +928,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이토_미키" title="wikilink">이토 미키</a></p></td>
+<td><p>이토 미키</p></td>
 <td><p>伊藤実希</p></td>
 <td><p>いとう みき</p></td>
 <td></td>
@@ -936,7 +938,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/카토_유이" title="wikilink">카토 유이</a></p></td>
+<td><p>카토 유이</p></td>
 <td><p>加藤結</p></td>
 <td><p>かとう ゆい</p></td>
 <td></td>
@@ -946,7 +948,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/키우치_리카코" title="wikilink">키우치 리카코</a></p></td>
+<td><p>키우치 리카코</p></td>
 <td><p>木内俐椛子</p></td>
 <td><p>きうち りかこ</p></td>
 <td></td>
@@ -956,7 +958,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/키토_미쿠루" title="wikilink">키토 미쿠루</a></p></td>
+<td><p>키토 미쿠루</p></td>
 <td><p>鬼頭未来</p></td>
 <td><p>きとう みくる</p></td>
 <td></td>
@@ -966,7 +968,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/사와다_카논" title="wikilink">사와다 카논</a></p></td>
+<td><p>사와다 카논</p></td>
 <td><p>澤田奏音</p></td>
 <td><p>さわだ かのん</p></td>
 <td></td>
@@ -976,7 +978,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스기우라_아난" title="wikilink">스기우라 아난</a></p></td>
+<td><p>스기우라 아난</p></td>
 <td><p>杉山歩南</p></td>
 <td><p>すぎやま あなん</p></td>
 <td></td>
@@ -986,7 +988,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/니시이_미오" title="wikilink">니시이 미오</a></p></td>
+<td><p>니시이 미오</p></td>
 <td><p>西井美桜</p></td>
 <td><p>にしい みお</p></td>
 <td></td>
@@ -996,7 +998,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/하야시_미레이" title="wikilink">하야시 미레이</a></p></td>
+<td><p>하야시 미레이</p></td>
 <td><p>林美澪</p></td>
 <td><p>はやし みれい</p></td>
 <td></td>
@@ -1041,7 +1043,7 @@ SKE48 극장 지배인<br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_키라라" title="wikilink">스즈키 키라라</a></p></td>
+<td><p>스즈키 키라라</p></td>
 <td><p>鈴木きらら</p></td>
 <td><p>すずき きらら</p></td>
 <td><p>1기</p></td>
@@ -1052,7 +1054,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/타카이_츠키나" title="wikilink">타카이 츠키나</a></p></td>
+<td><p>타카이 츠키나</p></td>
 <td><p>高井つき奈</p></td>
 <td><p>たかい つきな</p></td>
 <td><p>2009년 8월 31일</p></td>
@@ -1063,19 +1065,18 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/테즈카_마치코" title="wikilink">마에다 에이코</a></p></td>
-<td><p>前田栄子</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/테즈카_마치코" title="wikilink">테즈카 마치코</a></p></td>
+<td><p>手束真知子</p></td>
 <td><p>まえだ えいこ</p></td>
 <td><p>2기</p></td>
 <td><p>2009년 11월 29일</p></td>
 <td><p>KII</p></td>
 <td><p>(AKS)</p></td>
-<td><p><a href="../Page/SDN48.md" title="wikilink">SDN48</a> 이적<br />
-현예명 : <a href="https://ko.wikipedia.org/wiki/테즈카_마치코" title="wikilink">테즈카 마치코</a> (手束真知子)</p></td>
+<td><p><a href="../Page/SDN48.md" title="wikilink">SDN48</a> 이적</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이치하라_유리" title="wikilink">이치하라 유리</a></p></td>
+<td><p>이치하라 유리</p></td>
 <td><p>市原佑梨</p></td>
 <td><p>いちはら ゆり</p></td>
 <td><p>2009년 11월 30일</p></td>
@@ -1086,7 +1087,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/야마시타_모에" title="wikilink">야마시타 모에</a></p></td>
+<td><p>야마시타 모에</p></td>
 <td><p>山下もえ</p></td>
 <td><p>やました もえ</p></td>
 <td><p>1기</p></td>
@@ -1097,7 +1098,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/신카이_리나" title="wikilink">신카이 리나</a></p></td>
+<td><p>신카이 리나</p></td>
 <td><p>新海里奈</p></td>
 <td><p>しんかい りな</p></td>
 <td><p>2010년 5월 8일</p></td>
@@ -1108,7 +1109,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/모리_사유키" title="wikilink">모리 사유키</a></p></td>
+<td><p>모리 사유키</p></td>
 <td><p>森紗雪</p></td>
 <td><p>もり さゆき</p></td>
 <td><p>-</p></td>
@@ -1130,7 +1131,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/나카무라_유카" title="wikilink">나카무라 유카</a></p></td>
+<td><p>나카무라 유카</p></td>
 <td><p>中村優花</p></td>
 <td><p>なかむら ゆうか</p></td>
 <td><p>4기</p></td>
@@ -1152,7 +1153,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마노_하루카" title="wikilink">마노 하루카</a></p></td>
+<td><p>마노 하루카</p></td>
 <td><p>間野春香</p></td>
 <td><p>まの はるか</p></td>
 <td><p>2기</p></td>
@@ -1163,7 +1164,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/야마다_에리카" title="wikilink">야마다 에리카</a></p></td>
+<td><p>야마다 에리카</p></td>
 <td><p>山田恵里伽</p></td>
 <td><p>やまだ えりか</p></td>
 <td><p>3기</p></td>
@@ -1240,7 +1241,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/야가미_쿠미.md" title="wikilink">야가미 쿠미</a></p></td>
+<td><p>야가미 쿠미</p></td>
 <td><p>矢神久美</p></td>
 <td><p>やがみ くみ</p></td>
 <td><p>미라이쿠루</p></td>
@@ -1251,7 +1252,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아카에다_리리나" title="wikilink">아카에다 리리나</a></p></td>
+<td><p>아카에다 리리나</p></td>
 <td><p>赤枝里々奈</p></td>
 <td><p>あかえだ りりな</p></td>
 <td><p>2기</p></td>
@@ -1284,7 +1285,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/우에노_카스미" title="wikilink">우에노 카스미</a></p></td>
+<td><p>우에노 카스미</p></td>
 <td><p>上野圭澄</p></td>
 <td><p>うえの かすみ</p></td>
 <td><p>E</p></td>
@@ -1295,7 +1296,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/하라_미나미" title="wikilink">하라 미나미</a></p></td>
+<td><p>하라 미나미</p></td>
 <td><p>原望奈美</p></td>
 <td><p>はら みなみ</p></td>
 <td><p>4기</p></td>
@@ -1306,7 +1307,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/후지모토_미즈키" title="wikilink">후지모토 미즈키</a></p></td>
+<td><p>후지모토 미즈키</p></td>
 <td><p>藤本美月</p></td>
 <td><p>ふじもと みづき</p></td>
 <td><p>5기</p></td>
@@ -1317,7 +1318,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/니도이_사야카" title="wikilink">니도이 사야카</a></p></td>
+<td><p>니도이 사야카</p></td>
 <td><p>新土居沙也加</p></td>
 <td><p>にいどい さやか</p></td>
 <td><p>2013년 11월 30일</p></td>
@@ -1339,7 +1340,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사토_세이라" title="wikilink">사토 세이라</a></p></td>
+<td><p>사토 세이라</p></td>
 <td><p>佐藤聖羅</p></td>
 <td><p>さとう せいら</p></td>
 <td><p>1기</p></td>
@@ -1418,7 +1419,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오와키_아리사" title="wikilink">오오와키 아리사</a></p></td>
+<td><p>오오와키 아리사</p></td>
 <td><p>大脇有紗</p></td>
 <td><p>おおわき ありさ</p></td>
 <td><p>5기</p></td>
@@ -1452,7 +1453,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/야마다_레이카" title="wikilink">야마다 레이카</a></p></td>
+<td><p>야마다 레이카</p></td>
 <td><p>山田澪花</p></td>
 <td><p>やまだ れいか</p></td>
 <td><p>2기</p></td>
@@ -1463,7 +1464,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미즈노_호노카" title="wikilink">미즈노 호노카</a></p></td>
+<td><p>미즈노 호노카</p></td>
 <td><p>水埜帆乃香</p></td>
 <td><p>みずの ほのか</p></td>
 <td><p>4기</p></td>
@@ -1474,7 +1475,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/야마다_미즈호" title="wikilink">야마다 미즈호</a></p></td>
+<td><p>야마다 미즈호</p></td>
 <td><p>山田みずほ</p></td>
 <td><p>やまだ みずほ</p></td>
 <td><p>5기</p></td>
@@ -1485,7 +1486,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이와나가_츠구미" title="wikilink">이와나가 츠구미</a></p></td>
+<td><p>이와나가 츠구미</p></td>
 <td><p>岩永亞美</p></td>
 <td><p>いわなが つぐみ</p></td>
 <td><p>2015년 2월 28일</p></td>
@@ -1551,7 +1552,7 @@ SKE48 극장 지배인<br />
 <td><p>28위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아비루_리호" title="wikilink">아비루 리호</a></p></td>
+<td><p>아비루 리호</p></td>
 <td><p>阿比留李帆</p></td>
 <td><p>あびる りほ</p></td>
 <td><p>2기</p></td>
@@ -1573,7 +1574,7 @@ SKE48 극장 지배인<br />
 <td><p>15위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/타나카_나츠미" title="wikilink">타나카 나츠미</a></p></td>
+<td><p>타나카 나츠미</p></td>
 <td><p>田中菜津美</p></td>
 <td><p>たなか なつみ</p></td>
 <td><p>2015년 5월 28일</p></td>
@@ -1595,7 +1596,7 @@ SKE48 극장 지배인<br />
 <td><p>5위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/코도_사키" title="wikilink">코도 사키</a></p></td>
+<td><p>코도 사키</p></td>
 <td><p>神門沙樹</p></td>
 <td><p>ごうど さき</p></td>
 <td><p>드래프트1기</p></td>
@@ -1628,7 +1629,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/코이시_쿠미코" title="wikilink">코이시 쿠미코</a></p></td>
+<td><p>코이시 쿠미코</p></td>
 <td><p>小石公美子</p></td>
 <td><p>こいし くみこ</p></td>
 <td><p>드래프트1기</p></td>
@@ -1650,7 +1651,7 @@ SKE48 극장 지배인<br />
 <td><p>8위</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/야마시타_유카리" title="wikilink">야마시타 유카리</a></p></td>
+<td><p>야마시타 유카리</p></td>
 <td><p>山下ゆかり</p></td>
 <td><p>やました ゆかり</p></td>
 <td><p>4기</p></td>
@@ -1705,7 +1706,7 @@ SKE48 극장 지배인<br />
 <td><p>62위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/노구치_유메" title="wikilink">노구치 유메</a></p></td>
+<td><p>노구치 유메</p></td>
 <td><p>野口由芽</p></td>
 <td><p>のぐち ゆめ</p></td>
 <td><p>6기</p></td>
@@ -1716,7 +1717,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아즈마_리온" title="wikilink">아즈마 리온</a></p></td>
+<td><p>아즈마 리온</p></td>
 <td><p>東李苑</p></td>
 <td><p>あずま りおん</p></td>
 <td><p>2017년 3월 31일</p></td>
@@ -1749,7 +1750,7 @@ SKE48 극장 지배인<br />
 <td><p>77위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/타케우치_마이" title="wikilink">타케우치 마이</a></p></td>
+<td><p>타케우치 마이</p></td>
 <td><p>竹内舞</p></td>
 <td><p>たけうち まい</p></td>
 <td><p>4기</p></td>
@@ -1760,7 +1761,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/후타무라_하루카" title="wikilink">후타무라 하루카</a></p></td>
+<td><p>후타무라 하루카</p></td>
 <td><p>二村春香</p></td>
 <td><p>ふたむら はるか</p></td>
 <td><p>5기</p></td>
@@ -1782,7 +1783,7 @@ SKE48 극장 지배인<br />
 <td><p>22위</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/키모토_카논.md" title="wikilink">키모토 카논</a></p></td>
+<td><p>키모토 카논</p></td>
 <td><p>木本花音</p></td>
 <td><p>きもと かのん</p></td>
 <td><p>4기</p></td>
@@ -1793,7 +1794,7 @@ SKE48 극장 지배인<br />
 <td><p>31위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/고토_리사코" title="wikilink">고토 리사코</a></p></td>
+<td><p>고토 리사코</p></td>
 <td><p>後藤理沙子</p></td>
 <td><p>ごとう りさこ</p></td>
 <td><p>3기</p></td>
@@ -1815,7 +1816,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/다카테라_사나" title="wikilink">다카테라 사나</a></p></td>
+<td><p>다카테라 사나</p></td>
 <td><p>髙寺沙菜</p></td>
 <td><p>たかてら さな</p></td>
 <td><p>드래프트1기</p></td>
@@ -1826,7 +1827,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이치노_나루미" title="wikilink">이치노 나루미</a></p></td>
+<td><p>이치노 나루미</p></td>
 <td><p>市野成美</p></td>
 <td><p>いちの なるみ</p></td>
 <td><p>5기</p></td>
@@ -1837,7 +1838,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/다카츠카_나츠키" title="wikilink">다카츠카 나츠키</a></p></td>
+<td><p>다카츠카 나츠키</p></td>
 <td><p>髙塚夏生</p></td>
 <td><p>たかつか なつき</p></td>
 <td><p>드래프트1기</p></td>
@@ -1848,7 +1849,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이누즈카_아사나" title="wikilink">이누즈카 아사나</a></p></td>
+<td><p>이누즈카 아사나</p></td>
 <td><p>犬塚あさな</p></td>
 <td><p>いぬつか あさな</p></td>
 <td><p>4기</p></td>
@@ -1859,7 +1860,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/야하기_유키나" title="wikilink">야하기 유키나</a></p></td>
+<td><p>야하기 유키나</p></td>
 <td><p>矢作有紀奈</p></td>
 <td><p>やはぎ ゆきな</p></td>
 <td><p>8기</p></td>
@@ -1870,7 +1871,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/마치_오토하" title="wikilink">마치 오토하</a></p></td>
+<td><p>마치 오토하</p></td>
 <td><p>町音葉</p></td>
 <td><p>まち おとは</p></td>
 <td><p>7기</p></td>
@@ -1881,7 +1882,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/잇시키_레나" title="wikilink">잇시키 레나</a></p></td>
+<td><p>잇시키 레나</p></td>
 <td><p>一色嶺奈</p></td>
 <td><p>いっしき れな</p></td>
 <td><p>드래프트2기</p></td>
@@ -1892,7 +1893,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/야마다_쥬나" title="wikilink">야마다 쥬나</a></p></td>
+<td><p>야마다 쥬나</p></td>
 <td><p>山田樹奈</p></td>
 <td><p>やまだ じゅな</p></td>
 <td><p>6기</p></td>
@@ -1903,7 +1904,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오바타_유나" title="wikilink">오바타 유나</a></p></td>
+<td><p>오바타 유나</p></td>
 <td><p>小畑優奈</p></td>
 <td><p>おばた ゆな</p></td>
 <td><p>7기</p></td>
@@ -1914,7 +1915,7 @@ SKE48 극장 지배인<br />
 <td><p>34위</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오카다_미쿠" title="wikilink">오카다 미쿠</a></p></td>
+<td><p>오카다 미쿠</p></td>
 <td><p>岡田美紅</p></td>
 <td><p>おかだ みく</p></td>
 <td><p>8기</p></td>
@@ -1925,7 +1926,7 @@ SKE48 극장 지배인<br />
 <td><p>78위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/시라유키_코하쿠" title="wikilink">시라유키 코하쿠</a></p></td>
+<td><p>시라유키 코하쿠</p></td>
 <td><p>白雪希明</p></td>
 <td><p>しらゆき こはく</p></td>
 <td><p>E</p></td>
@@ -1943,11 +1944,11 @@ SKE48 극장 지배인<br />
 <td><p>2019년 5월 2일</p></td>
 <td><p>KII</p></td>
 <td><p>-</p></td>
-<td><p>-</p></td>
+<td><p>현재는<a href="../Page/유튜버.md" title="wikilink">유튜버</a></p></td>
 <td><p>13위</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/우치야마_미코토" title="wikilink">우치야마 미코토</a></p></td>
+<td><p>우치야마 미코토</p></td>
 <td><p>内山命</p></td>
 <td><p>うちやま みこと</p></td>
 <td><p>2기</p></td>
@@ -1958,7 +1959,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/다카기_유마나" title="wikilink">다카기 유마나</a></p></td>
+<td><p>다카기 유마나</p></td>
 <td><p>高木由麻奈</p></td>
 <td><p>たかぎ ゆまな</p></td>
 <td><p>4기</p></td>
@@ -1976,7 +1977,7 @@ SKE48 극장 지배인<br />
 <td><p>2019년 9월 30일</p></td>
 <td><p>S</p></td>
 <td><p>-</p></td>
-<td><p>-</p></td>
+<td><p>현재는<a href="../Page/유튜버.md" title="wikilink">유튜버</a></p></td>
 <td><p>27위</p></td>
 </tr>
 <tr class="even">
@@ -1991,7 +1992,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/노노가키_미키" title="wikilink">노노가키 미키</a></p></td>
+<td><p>노노가키 미키</p></td>
 <td><p>野々垣美希</p></td>
 <td><p>ののがき みき</p></td>
 <td><p>8기</p></td>
@@ -2031,7 +2032,7 @@ SKE48 극장 지배인<br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/와코_쥰나" title="wikilink">와코 쥰나</a></p></td>
+<td><p>와코 쥰나</p></td>
 <td><p>若生純奈</p></td>
 <td><p>わこう じゅんな</p></td>
 <td><p>2기<br />
@@ -2041,7 +2042,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이나가키_호나미" title="wikilink">이나가키 호나미</a></p></td>
+<td><p>이나가키 호나미</p></td>
 <td><p>稲垣ほなみ</p></td>
 <td><p>いながき ほなみ</p></td>
 <td><p>1기</p></td>
@@ -2050,7 +2051,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오제키_키하루" title="wikilink">오제키 키하루</a></p></td>
+<td><p>오제키 키하루</p></td>
 <td><p>尾関きはる</p></td>
 <td><p>おぜき きはる</p></td>
 <td><p>-</p></td>
@@ -2059,7 +2060,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사이토_유나" title="wikilink">사이토 유나</a></p></td>
+<td><p>사이토 유나</p></td>
 <td><p>齋藤優菜</p></td>
 <td><p>さいとう ゆな</p></td>
 <td><p>2기<br />
@@ -2069,7 +2070,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/시바키_아이코" title="wikilink">시바키 아이코</a></p></td>
+<td><p>시바키 아이코</p></td>
 <td><p>柴木愛子</p></td>
 <td><p>しばき あいこ</p></td>
 <td><p>1기</p></td>
@@ -2078,7 +2079,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오시마_후카" title="wikilink">오오시마 후카</a></p></td>
+<td><p>오오시마 후카</p></td>
 <td><p>大島風薫</p></td>
 <td><p>おおしま ふうか</p></td>
 <td><p>2기</p></td>
@@ -2087,7 +2088,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/하야시_세이카" title="wikilink">하야시 세이카</a></p></td>
+<td><p>하야시 세이카</p></td>
 <td><p>林星香</p></td>
 <td><p>はやし せいか</p></td>
 <td><p>-</p></td>
@@ -2096,7 +2097,7 @@ SKE48 극장 지배인<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/마에카와_아이카" title="wikilink">마에카와 아이카</a></p></td>
+<td><p>마에카와 아이카</p></td>
 <td><p>前川愛佳</p></td>
 <td><p>まえかわ あいか</p></td>
 <td><p>1기</p></td>
@@ -2105,7 +2106,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/하시모토_아유미" title="wikilink">하시모토 아유미</a></p></td>
+<td><p>하시모토 아유미</p></td>
 <td><p>橋本あゆみ</p></td>
 <td><p>はしもと あゆみ</p></td>
 <td><p>2기</p></td>
@@ -2114,7 +2115,7 @@ SKE48 극장 지배인<br />
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/야나세_아이코" title="wikilink">야나세 아이코</a></p></td>
+<td><p>야나세 아이코</p></td>
 <td><p>柳瀬愛子</p></td>
 <td><p>やなせ あいこ</p></td>
 <td><p>3기</p></td>
@@ -2124,7 +2125,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/한다_아야네" title="wikilink">한다 아야네</a></p></td>
+<td><p>한다 아야네</p></td>
 <td><p>半田礼音</p></td>
 <td><p>はんだ あやね</p></td>
 <td><p>2010년 5월 8일</p></td>
@@ -2133,7 +2134,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/노노야마_마린" title="wikilink">노노야마 마린</a></p></td>
+<td><p>노노야마 마린</p></td>
 <td><p>野々山茉琳</p></td>
 <td><p>ののやま まりん</p></td>
 <td><p>4기</p></td>
@@ -2142,7 +2143,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이마데_마이" title="wikilink">이마데 마이</a></p></td>
+<td><p>이마데 마이</p></td>
 <td><p>今出舞</p></td>
 <td><p>いまで まい</p></td>
 <td><p>3기</p></td>
@@ -2151,7 +2152,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/미야와키_리코" title="wikilink">미야와키 리코</a></p></td>
+<td><p>미야와키 리코</p></td>
 <td><p>宮脇理子</p></td>
 <td><p>みやわき りこ</p></td>
 <td><p>6기</p></td>
@@ -2160,7 +2161,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/코바야시_에미리" title="wikilink">코바야시 에미리</a></p></td>
+<td><p>코바야시 에미리</p></td>
 <td><p>小林絵未梨</p></td>
 <td><p>こばやし えみり</p></td>
 <td><p>4기</p></td>
@@ -2169,7 +2170,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이토_아카네" title="wikilink">이토 아카네</a></p></td>
+<td><p>이토 아카네</p></td>
 <td><p>伊藤茜</p></td>
 <td><p>いとう あかね</p></td>
 <td><p>6기</p></td>
@@ -2178,7 +2179,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/히오키_미키" title="wikilink">히오키 미키</a></p></td>
+<td><p>히오키 미키</p></td>
 <td><p>日置実希</p></td>
 <td><p>ひおき みき</p></td>
 <td><p>5기</p></td>
@@ -2187,7 +2188,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/키타하라_유나" title="wikilink">키타하라 유나</a></p></td>
+<td><p>키타하라 유나</p></td>
 <td><p>北原侑奈</p></td>
 <td><p>きたはら ゆうな</p></td>
 <td><p>6기</p></td>
@@ -2196,7 +2197,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/야노_아즈키" title="wikilink">야노 아즈키</a></p></td>
+<td><p>야노 아즈키</p></td>
 <td><p>矢野杏月</p></td>
 <td><p>やの あづき</p></td>
 <td><p>2014년 2월 23일</p></td>
@@ -2205,7 +2206,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/야마모토_유카" title="wikilink">야마모토 유카</a></p></td>
+<td><p>야마모토 유카</p></td>
 <td><p>山本由香</p></td>
 <td><p>やまもと ゆか</p></td>
 <td><p>2014년 3월 22일</p></td>
@@ -2214,7 +2215,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오리토_아이사" title="wikilink">오리토 아이사</a></p></td>
+<td><p>오리토 아이사</p></td>
 <td><p>折戸愛彩</p></td>
 <td><p>おりと あいさ</p></td>
 <td><p>2014년 4월 29일</p></td>
@@ -2223,7 +2224,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/소라_미유카" title="wikilink">소라 미유카</a></p></td>
+<td><p>소라 미유카</p></td>
 <td><p>空美夕日</p></td>
 <td><p>そら みゆか</p></td>
 <td><p>2014년 5월 31일</p></td>
@@ -2232,7 +2233,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/고토_마유코" title="wikilink">고토 마유코</a></p></td>
+<td><p>고토 마유코</p></td>
 <td><p>後藤真由子</p></td>
 <td><p>ごとう まゆこ</p></td>
 <td><p>2014년 7월 29일</p></td>
@@ -2241,7 +2242,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/사사키_유카" title="wikilink">사사키 유카</a></p></td>
+<td><p>사사키 유카</p></td>
 <td><p>佐々木柚香</p></td>
 <td><p>ささき ゆか</p></td>
 <td><p>2015년 2월 28일</p></td>
@@ -2250,7 +2251,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오기노_리사" title="wikilink">오기노 리사</a></p></td>
+<td><p>오기노 리사</p></td>
 <td><p>荻野利沙</p></td>
 <td><p>おぎの りさ</p></td>
 <td><p>5기</p></td>
@@ -2259,7 +2260,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/츠지_노조미_(SKE48)" title="wikilink">츠지 노조미</a></p></td>
+<td><p>츠지 노조미</p></td>
 <td><p>辻のぞみ</p></td>
 <td><p>つじ のぞみ</p></td>
 <td><p>7기</p></td>
@@ -2268,7 +2269,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/무라이_쥰나" title="wikilink">무라이 쥰나</a></p></td>
+<td><p>무라이 쥰나</p></td>
 <td><p>村井純奈</p></td>
 <td><p>むらい じゅんな</p></td>
 <td><p>2016년 9월 30일</p></td>
@@ -2277,7 +2278,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/카와사키_나루미" title="wikilink">카와사키 나루미</a></p></td>
+<td><p>카와사키 나루미</p></td>
 <td><p>川崎成美</p></td>
 <td><p>かわさき なるみ</p></td>
 <td><p>2016년 12월 31일</p></td>
@@ -2286,7 +2287,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/코바야시_카노" title="wikilink">코바야시 카노</a></p></td>
+<td><p>코바야시 카노</p></td>
 <td><p>小林佳乃</p></td>
 <td><p>こばやし かの</p></td>
 <td><p>8기</p></td>
@@ -2295,7 +2296,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/카와이_안나" title="wikilink">카와이 안나</a></p></td>
+<td><p>카와이 안나</p></td>
 <td><p>川合杏奈</p></td>
 <td><p>かわい あんな</p></td>
 <td><p>2017년 4월 12일</p></td>
@@ -2304,7 +2305,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이시카와_사키" title="wikilink">이시카와 사키</a></p></td>
+<td><p>이시카와 사키</p></td>
 <td><p>石川咲姫</p></td>
 <td><p>いしかわ さき</p></td>
 <td><p>2018년 6월 26일</p></td>
@@ -2313,7 +2314,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/코츠마_호노카" title="wikilink">코츠마 호노카</a></p></td>
+<td><p>코츠마 호노카</p></td>
 <td><p>上妻ほの香</p></td>
 <td><p>こうづま ほのか</p></td>
 <td><p>드래프트3기</p></td>
@@ -2322,7 +2323,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아츠미_아야하" title="wikilink">아츠미 아야하</a></p></td>
+<td><p>아츠미 아야하</p></td>
 <td><p>渥美彩羽</p></td>
 <td><p>あつみ あやは</p></td>
 <td><p>8기</p></td>
@@ -2331,7 +2332,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/와다_아이나" title="wikilink">와다 아이나</a></p></td>
+<td><p>와다 아이나</p></td>
 <td><p>和田愛菜</p></td>
 <td><p>わだ あいな</p></td>
 <td><p>7기</p></td>
@@ -2340,7 +2341,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/모리히라_리코" title="wikilink">모리히라 리코</a></p></td>
+<td><p>모리히라 리코</p></td>
 <td><p>森平莉子</p></td>
 <td><p>もりひら りこ</p></td>
 <td><p>8기</p></td>
@@ -2349,7 +2350,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아다치_레나" title="wikilink">아다치 레나</a></p></td>
+<td><p>아다치 레나</p></td>
 <td><p>安達玲奈</p></td>
 <td><p>あだち れいな</p></td>
 <td><p>9기</p></td>
@@ -2358,7 +2359,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-|-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오바_사야카" title="wikilink">오오바 사야카</a></p></td>
+<td><p>오오바 사야카</p></td>
 <td><p>大場紗也加</p></td>
 <td><p>おおば さやか</p></td>
 <td><p>2019년 5월 13일</p></td>
@@ -2367,7 +2368,7 @@ axone <a href="https://web.archive.org/web/20120114131915/http://ax1.jp/model/ya
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/스기야마_나타리" title="wikilink">스기야마 나타리</a></p></td>
+<td><p>스기야마 나타리</p></td>
 <td><p>杉山菜田里</p></td>
 <td><p>すぎやま なたりー</p></td>
 <td><p>2019년 6월 30일</p></td>

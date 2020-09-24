@@ -1,33 +1,11 @@
 > This article is converted from Wikipedia: [Kar98k](https://ko.wikipedia.org/wiki/Kar98k).
 
 
-98년식 단축형 기병총 (독일어: **Karabiner 98 kurz**, 약어: **Kar98k**, **K98**, **K98k**, 이하 K98k)은 1935년 6월 21일 독일 [국방군](https://ko.wikipedia.org/wiki/국방군 "wikilink")에 의해 표준 [제식소총](https://ko.wikipedia.org/wiki/제식소총 "wikilink")으로 채택된 [7.92×57mm 마우저](https://ko.wikipedia.org/wiki/7.92×57mm_마우저 "wikilink") 탄환을 사용하는 [볼트액션](https://ko.wikipedia.org/wiki/볼트액션 "wikilink") [소총](../Page/소총.md "wikilink")이다.\[1\] 이 소총은 독일 [마우저](../Page/마우저.md "wikilink")사 군용 소총들 중에 최종 형태 중 하나이다. [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 중 반자동, 자동 소총들이 등장했지만, Kar98k는 1945년 종전까지 핵심적인 독일 제식소총 역할을 했다. [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 종전 시기에 수백만 정이 [소련](../Page/소련.md "wikilink")에 노획되었으며, 군사원조로서 많은 국가에 제공되었다. 이 때문에 Kar98k는 창고에서 나와 [전세계](https://ko.wikipedia.org/wiki/전세계 "wikilink")에 걸쳐 많은 [전쟁](../Page/전쟁.md "wikilink")에 사용되고 있다.
+**98년식 단축형 기병총**(, <small>약어:</small> Kar98k, K98, K98k, 이하 K98k)은 1935년 6월 21일 독일 [국방군](https://ko.wikipedia.org/wiki/국방군 "wikilink")에 의해 표준 [제식소총](https://ko.wikipedia.org/wiki/제식소총 "wikilink")으로 채택된 [7.92×57mm 마우저](https://ko.wikipedia.org/wiki/7.92×57mm_마우저 "wikilink") 탄환을 사용하는 [볼트액션](https://ko.wikipedia.org/wiki/볼트액션 "wikilink") [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink")이다.\[1\] 이 소총은 독일 [마우저](../Page/마우저.md "wikilink")사 군용 소총들 중에 최종 형태 중 하나이다. [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 중 반자동, 자동 소총들이 등장했지만, Kar98k는 1945년 종전까지 핵심적인 독일 제식소총 역할을 했다. [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") [종전](https://ko.wikipedia.org/wiki/종전 "wikilink") 시기에 수백만 정이 [소련](../Page/소련.md "wikilink")에 노획되었으며, 군사원조로서 많은 국가에 제공되었다. 이 때문에 Kar98k는 창고에서 나와 [전세계](https://ko.wikipedia.org/wiki/전세계 "wikilink")에 걸쳐 많은 [전쟁](../Page/전쟁.md "wikilink")에 사용되고 있다.
 
-# 같이 보기
-
-  - [모신 소총](../Page/모신_소총.md "wikilink")
-  - [M1903 스프링필드](../Page/M1903_스프링필드.md "wikilink")
-
-# 역사
+## 역사
 
 1934년 2월, 독일 육군병기국은 [새 군용소총 채](https://web.archive.org/web/20180518054824/https://gunsafereview.net/a-chronology-of-development-by-daniel-watters/)용을 지시한다. K98k는 마우저사의 이전 소총들, *Standardmodell*, [Karabiner 98b](https://ko.wikipedia.org/wiki/Karabiner_98b "wikilink"), [Gewehr 98의](https://ko.wikipedia.org/wiki/Gewehr_98 "wikilink") 특징을 물려받는다. K98k는 이전의 K98b에서 총열을 보다 140mm 짧은 600mm 기병총 총열을 사용한 까닭에 *Karabiner 98 kurz*라는 이름을 갖게 된다. (참고: K98b는 기병총 (독일어: Karabiner)로 명명되었으나, 제1차 세계대전 시기의 기병총 슬링 방식, 꺾인 노리쇠 손잡이 설계를 제외하면 총열 길이, 성능 등은 보병총 (독일어: Gewehr)의 사양이다. 신형 기계식 조준기를 장착하고 1924년 제식채용되었다.) 이전 모델처럼, 이 소총은 기계식 조준기 사용시 500m와 8배 망원조준경 사용시 1000m 이상의 유효사거리와 함께 높은 신뢰성, 정확성을 보여준다
-
-`| last = Bishop`
-`| first = Chris`
-`| author-link =`
-`| last2 =`
-`| first2 =`
-`| author2-link =`
-`| title = The Encyclopedia of Weapons of World War II`
-`| place = New York`
-`| publisher = Orbis Publishing Ltd`
-`| year = 1998`
-`| volume =`
-`| edition =`
-`| url =`
-`| doi =`
-`| id =`
-`| isbn = 0-7607-1022-8}}`</ref>`0`
 
 ## 설계 상세
 
@@ -246,6 +224,11 @@ K98k는 이탈리아 반도의 공화국 [San Marino의](https://ko.wikipedia.or
 [Zastava Arms는](https://ko.wikipedia.org/wiki/Zastava_Arms "wikilink") 현재 (2010) [Zastava M48](https://ko.wikipedia.org/wiki/Zastava_M48 "wikilink") 군용소총과 [Zastava M07](https://ko.wikipedia.org/wiki/Zastava_M07 "wikilink") 저격소총의 단축총열 파생형인 M48/63 사냥총을 생산한다.\[32\]\[33\]
 
 1999년부터 [마우저 M98과](https://ko.wikipedia.org/wiki/마우저_M98 "wikilink") M98 매그넘 소총은 독일 *Mauser Jagdwaffen GmbH* (영어: Mauser Huntingweapons Ltd.)가 소유한 1936년의 설계도 원본과 마우저 소총 특허권에 따라 생산이 계속되고 있다.\[34\]\[35\]
+
+## 같이 보기
+
+  - [모신 소총](../Page/모신_소총.md "wikilink")
+  - [M1903 스프링필드](../Page/M1903_스프링필드.md "wikilink")
 
 ## 각주
 

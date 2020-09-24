@@ -5,7 +5,7 @@
 
 ## 개발
 
-[섬네일](https://ko.wikipedia.org/wiki/File:MiG17Underside1981.png "fig:섬네일") MiG-17의 기본적인 설계 사양은 [MiG-15](https://ko.wikipedia.org/wiki/MiG-15 "wikilink")를 바탕으로 한 것이다. 이에 따라 초기 [미그기](https://ko.wikipedia.org/wiki/미그기 "wikilink") 특유의 후퇴익으로 디자인 되었다. 주익의 내측 후퇴각은 45°, 외측 후퇴각은 42°이다. MiG-15와 동일한 클리모프 VK-1 형 [제트 엔진을](../Page/제트_엔진.md "wikilink") 탑재하였다. 미그-15와 비교할 때 가장 눈에 띄는 특징은 윙 펜스가 3중이라는 점이다. Mig-15의 윙 펜스는 2중이다. 시제기는 **SI**라 불렸으며 1950년 1월 14일 이반 이바쉬첸코가 처녀 비행에 성공하였다.\[3\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:MiG17Underside1981.png "wikilink") MiG-17의 기본적인 설계 사양은 [MiG-15](https://ko.wikipedia.org/wiki/MiG-15 "wikilink")를 바탕으로 한 것이다. 이에 따라 초기 [미그기](https://ko.wikipedia.org/wiki/미그기 "wikilink") 특유의 후퇴익으로 디자인 되었다. 주익의 내측 후퇴각은 45°, 외측 후퇴각은 42°이다. MiG-15와 동일한 클리모프 VK-1 형 [제트 엔진을](../Page/제트_엔진.md "wikilink") 탑재하였다. 미그-15와 비교할 때 가장 눈에 띄는 특징은 윙 펜스가 3중이라는 점이다. Mig-15의 윙 펜스는 2중이다. 시제기는 **SI**라 불렸으며 1950년 1월 14일 이반 이바쉬첸코가 처녀 비행에 성공하였다.\[3\]
 
 ## 특징
 

@@ -46,7 +46,7 @@
 | 2017 | [공조](../Page/공조_\(영화\).md "wikilink")                                 | 부대원4    |    |
 | 2018 | [너의 결혼식](../Page/너의_결혼식_\(영화\).md "wikilink")                         | 미식축구 선배 |    |
 | 2020 | [파이프라인](https://ko.wikipedia.org/wiki/파이프라인 "wikilink")               | 접새      |    |
-| 개봉미정 | [범죄도시 2](https://ko.wikipedia.org/wiki/범죄도시_2 "wikilink")             |         |    |
+| 개봉미정 | [범죄도시 2](https://ko.wikipedia.org/wiki/범죄도시_2 "wikilink")             | 장기철     |    |
 
 ### 예능
 

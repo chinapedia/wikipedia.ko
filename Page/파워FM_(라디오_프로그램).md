@@ -9,14 +9,14 @@
 
 ## 역대 진행자
 
-  - [이숙영](../Page/이숙영.md "wikilink") : [1996년](../Page/1996년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [10월 13일](../Page/10월_13일.md "wikilink")
+  - [이숙영](../Page/이숙영.md "wikilink") : [1996년](../Page/1996년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ 현재\[1\]
   - [박은지](../Page/박은지_\(방송인\).md "wikilink") : [2013년](../Page/2013년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink")
   - [호란](../Page/호란.md "wikilink") : [2014년](../Page/2014년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink")
       - **(임시진행)** [박은경](../Page/박은경_\(아나운서\).md "wikilink") : [2016년](../Page/2016년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink")
   - [김영철](../Page/김영철_\(희극인\).md "wikilink") : [2016년](../Page/2016년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") \~ 현재
       - **(임시진행)** [2017년](../Page/2017년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink"): [허경환](../Page/허경환.md "wikilink")
       - **(임시진행)** [2017년](../Page/2017년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink"): [박지선](../Page/박지선.md "wikilink")
-      - **(임시진행)** [2017년](../Page/2017년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink"): [김환](../Page/김환_\(방송인\).md "wikilink")\[1\]
+      - **(임시진행)** [2017년](../Page/2017년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink"): [김환](../Page/김환_\(방송인\).md "wikilink")\[2\]
       - **(임시진행)** [2019년](../Page/2019년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink"), [8월 21일](../Page/8월_21일.md "wikilink"), [8월 23일](../Page/8월_23일.md "wikilink"): [다비치](../Page/다비치.md "wikilink")
       - **(임시진행)** [2019년](../Page/2019년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink"): [이수근](../Page/이수근_\(희극인\).md "wikilink")
       - **(임시진행)** [2019년](../Page/2019년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink"): [서장훈](../Page/서장훈.md "wikilink")
@@ -54,4 +54,5 @@
 
 [분류:SBS 파워FM의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:SBS_파워FM의_라디오_프로그램 "wikilink")
 
-1.  [박지선·김환 '파워FM' 스페셜 DJ, 뉴욕 간 김영철 공백 채운다](http://tvdaily.asiae.co.kr/read.php3?aid=15050920321276375002)
+1.  [러브 FM에서만](https://ko.wikipedia.org/wiki/SBS_러브_FM "wikilink") 현재 진행.
+2.  [박지선·김환 '파워FM' 스페셜 DJ, 뉴욕 간 김영철 공백 채운다](http://tvdaily.asiae.co.kr/read.php3?aid=15050920321276375002)

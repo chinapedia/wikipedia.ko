@@ -833,7 +833,7 @@
   - [K리그 클래식](https://ko.wikipedia.org/wiki/K리그1 "wikilink")
   - [K리그](../Page/K리그.md "wikilink")
   - [K리그 컵](../Page/리그컵_\(대한민국\).md "wikilink")
-  - [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")
+  - [FA컵](../Page/FA컵_\(대한민국\).md "wikilink")
   - [수퍼컵](../Page/슈퍼컵_\(대한민국\).md "wikilink")
 
 ## 참고 자료

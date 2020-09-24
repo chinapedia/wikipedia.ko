@@ -19,7 +19,7 @@
   - 나이:14
   - 직업:중학생
 
-용한(?) [박수무당](https://ko.wikipedia.org/wiki/박수무당 "wikilink")이다 비록 점도 잘 못보고, 굿도 어떻게 하는 지도 모르고, [부적](../Page/부적.md "wikilink") 쓸 줄도 모르지만 무려 [천수관음](https://ko.wikipedia.org/wiki/천수관음 "wikilink")이 보살피고 계신 엄청난 [무당](https://ko.wikipedia.org/wiki/무당 "wikilink")이다. 본인은 무당이 싫지만, 형의 협박이나 어쩔 수 없는 운명에 이끌려 무당을 하고 있는 우리의 기운이 펄펄넘치는 단순무식 주인공소년이다.
+용한(?) [박수무당](https://ko.wikipedia.org/wiki/박수무당 "wikilink")이다 비록 점도 잘 못보고, 굿도 어떻게 하는 지도 모르고, [부적](../Page/부적.md "wikilink") 쓸 줄도 모르지만 무려 [천수관음](https://ko.wikipedia.org/wiki/천수관음 "wikilink")이 보살피고 계신 엄청난 [무당](../Page/무당.md "wikilink")이다. 본인은 무당이 싫지만, 형의 협박이나 어쩔 수 없는 운명에 이끌려 무당을 하고 있는 우리의 기운이 펄펄넘치는 단순무식 주인공소년이다.
 
 ### 신현제
 

@@ -93,6 +93,13 @@
 <td><p>10,000</p></td>
 <td><p><a href="../Page/타일러_블랙.md" title="wikilink">세스 롤린스</a> vs. <a href="../Page/윈덤_로턴다.md" title="wikilink">브레이 와이엇</a> (WWE 유니버셜 챔피언십, 헬 인 어 셀 매치)</p></td>
 </tr>
+<tr class="even">
+<td><p>2020년 10월 25일</p></td>
+<td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
+<td><p><a href="../Page/암웨이_센터.md" title="wikilink">암웨이 센터</a></p></td>
+<td><p><a href="../Page/무관중_경기.md" title="wikilink">무관중 경기</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

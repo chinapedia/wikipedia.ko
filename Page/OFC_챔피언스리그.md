@@ -9,9 +9,9 @@
 
 2006년 대회는 [뉴질랜드](../Page/뉴질랜드.md "wikilink")에서 열렸고, [오클랜드 시티가](../Page/오클랜드_시티_FC.md "wikilink") 우승하였다. 이 대회의 예선전에는 하위 순위의 리그 우승 팀이 참가하여 [피지](../Page/피지.md "wikilink")에서 진행되었다.
 
-전통적으로 오세아니아 우승 팀은 본선에 바로 참가하지 못하고 개최국의 우승 팀과의 예선전을 통과해야 본선에 참가할 수 있다. [2007년 FIFA 클럽 월드컵의](../Page/2007년_FIFA_클럽_월드컵.md "wikilink") 본선에 바로 참가하지 못하고 개최국이 일본의 [J리그](../Page/J리그.md "wikilink") 우승 팀이었던 [우라와 레즈가](https://ko.wikipedia.org/wiki/우라와_레즈 "wikilink") [AFC 챔피언스리그를](../Page/AFC_챔피언스리그.md "wikilink") 우승했기 때문에 AFC 챔피언스리그 준우승 팀이었던 이란의 [세파한이](https://ko.wikipedia.org/wiki/세파한_이스파한_FC "wikilink") 주최국 자리를 받아서 오클랜드 시티와의 예선전을 치렀다. 같은 방식으로 [2008년 FIFA 클럽 월드컵 2008에서도](https://ko.wikipedia.org/wiki/2008년_FIFA_클럽_월드컵_2008 "wikilink") OFC 챔피언스리그의 우승 팀은 개최국인 일본의 [J리그](../Page/J리그.md "wikilink") 우승 팀이었던 [감바 오사카가](../Page/감바_오사카.md "wikilink") [AFC 챔피언스리그를](../Page/AFC_챔피언스리그.md "wikilink") 우승했기 때문에 AFC 챔피언스리그에서 감바 오사카 다음으로 좋은 성적을 거둔 [애들레이드 유나이티드와](https://ko.wikipedia.org/wiki/애들레이드_유나이티드 "wikilink") 예선 플레이오프를 치러야 했다. 이는 [2009년](../Page/2009년.md "wikilink")과 [2010년](../Page/2010년.md "wikilink")에도 적용되어서 개최국 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 우승 팀과 경기를 하였다.
+전통적으로 오세아니아 우승 팀은 본선에 바로 참가하지 못하고 개최국의 우승 팀과의 예선전을 통과해야 본선에 참가할 수 있다. [2007년 FIFA 클럽 월드컵의](../Page/2007년_FIFA_클럽_월드컵.md "wikilink") 본선에 바로 참가하지 못하고 개최국이 일본의 [J리그](../Page/J리그.md "wikilink") 우승 팀이었던 [우라와 레즈가](https://ko.wikipedia.org/wiki/우라와_레즈 "wikilink") [AFC 챔피언스리그를](../Page/AFC_챔피언스리그.md "wikilink") 우승했기 때문에 AFC 챔피언스리그 준우승 팀이었던 이란의 [세파한이](https://ko.wikipedia.org/wiki/세파한_이스파한_FC "wikilink") 주최국 자리를 받아서 오클랜드 시티와의 예선전을 치렀다. 같은 방식으로 [2008년 FIFA 클럽 월드컵에서도](../Page/2008년_FIFA_클럽_월드컵.md "wikilink") OFC 챔피언스리그의 우승 팀은 개최국인 일본의 [J리그](../Page/J리그.md "wikilink") 우승 팀이었던 [감바 오사카가](../Page/감바_오사카.md "wikilink") [AFC 챔피언스리그를](../Page/AFC_챔피언스리그.md "wikilink") 우승했기 때문에 AFC 챔피언스리그에서 감바 오사카 다음으로 좋은 성적을 거둔 [애들레이드 유나이티드와](https://ko.wikipedia.org/wiki/애들레이드_유나이티드 "wikilink") 예선 플레이오프를 치러야 했다. 이는 [2009년](../Page/2009년.md "wikilink")과 [2010년](../Page/2010년.md "wikilink")에도 적용되어서 개최국 [아랍에미리트](../Page/아랍에미리트.md "wikilink")의 우승 팀과 경기를 하였다.
 
-2009-10 시즌에서는 [파푸아뉴기니](../Page/파푸아뉴기니.md "wikilink")의 [PRK 헤카리 유나이티드가](../Page/PRK_헤카리_유나이티드.md "wikilink") 우승하였다. 2010-11 시즌부터 2017 시즌까지 [뉴질랜드](../Page/뉴질랜드.md "wikilink")의 [오클랜드 시티가](../Page/오클랜드_시티_FC.md "wikilink") 대회 7연패를 기록하고 있다.
+2009-10 시즌에서는 [파푸아뉴기니](../Page/파푸아뉴기니.md "wikilink")의 [PRK 헤카리 유나이티드가](../Page/PRK_헤카리_유나이티드.md "wikilink") 우승하였다. 2010-11 시즌부터 2017 시즌까지 [뉴질랜드](../Page/뉴질랜드.md "wikilink")의 [오클랜드 시티가](../Page/오클랜드_시티_FC.md "wikilink") 대회 7연패를 기록했다.
 
 ## 구성
 
@@ -117,7 +117,7 @@ OFC 챔피언스리그에서는 각 축구 협회에서 1\~2팀씩 참가한다.
 <td><p><a href="https://ko.wikipedia.org/wiki/난디_FC" title="wikilink">난디 FC</a><br />
 <br />
 <small>(<a href="../Page/피지.md" title="wikilink">피지</a>)</small></p></td>
-<td><p><a href="../Page/난디.md" title="wikilink">난디</a>/<a href="https://ko.wikipedia.org/wiki/라우토카" title="wikilink">라우토카</a><br />
+<td><p><a href="../Page/난디.md" title="wikilink">난디</a>/<a href="../Page/라우토카.md" title="wikilink">라우토카</a><br />
 <br />
 <small>(<a href="../Page/피지.md" title="wikilink">피지</a>)</small></p></td>
 </tr>
@@ -202,7 +202,7 @@ OFC 챔피언스리그에서는 각 축구 협회에서 1\~2팀씩 참가한다.
 <br />
 <small><a href="../Page/피지.md" title="wikilink">피지</a></small></p></td>
 <td><p>1 - 2<br />
-<a href="https://ko.wikipedia.org/wiki/고빈드_파크" title="wikilink">고빈드 파크</a>, <a href="https://ko.wikipedia.org/wiki/바_(피지)" title="wikilink">바</a>, <a href="../Page/피지.md" title="wikilink">피지</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/고빈드_파크" title="wikilink">고빈드 파크</a>, <a href="../Page/바_(피지).md" title="wikilink">바</a>, <a href="../Page/피지.md" title="wikilink">피지</a></p></td>
 <td><p>1 - 0<br />
 <a href="https://ko.wikipedia.org/wiki/마운트_스마트_스타디움" title="wikilink">마운트 스마트 스타디움</a>, <a href="../Page/오클랜드_(뉴질랜드).md" title="wikilink">오클랜드</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></small></p></td>
 <td><p>6</p></td>
@@ -379,7 +379,7 @@ OFC 챔피언스리그에서는 각 축구 협회에서 1\~2팀씩 참가한다.
 <td><p>6 – 0<br />
 <a href="https://ko.wikipedia.org/wiki/데이비드_패링턴_파크" title="wikilink">데이비드 패링턴 파크</a>, <a href="../Page/웰링턴.md" title="wikilink">웰링턴</a>, <a href="../Page/뉴질랜드.md" title="wikilink">뉴질랜드</a></p></td>
 <td><p>4 – 3<br />
-<a href="https://ko.wikipedia.org/wiki/처칠_파크" title="wikilink">처칠 파크</a>, <a href="https://ko.wikipedia.org/wiki/라우토카" title="wikilink">라우토카</a>, <a href="../Page/피지.md" title="wikilink">피지</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/처칠_파크" title="wikilink">처칠 파크</a>, <a href="../Page/라우토카.md" title="wikilink">라우토카</a>, <a href="../Page/피지.md" title="wikilink">피지</a></p></td>
 <td><p>18</p></td>
 </tr>
 <tr class="odd">
@@ -395,6 +395,16 @@ OFC 챔피언스리그에서는 각 축구 협회에서 1\~2팀씩 참가한다.
 <td><p><a href="https://ko.wikipedia.org/wiki/스타드_뉘마달리_마장타" title="wikilink">스타드 뉘마달리 마장타</a>, <a href="../Page/누메아.md" title="wikilink">누메아</a>, <a href="../Page/누벨칼레도니.md" title="wikilink">누벨칼레도니</a></small><br />
 단판 승부</p></td>
 <td><p>18</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020<br />
+<small><a href="https://ko.wikipedia.org/wiki/2020년_OFC_챔피언스리그" title="wikilink">상세정보</a></small></p></td>
+<td><p>결선 토너먼트가 <a href="../Page/코로나19_범유행.md" title="wikilink">코로나19 범유행의</a> 여파로 인하여 취소됨에 따라 우승 팀이 없음</p></td>
+<td><p>18</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

@@ -207,16 +207,12 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
 
 ## 같이 보기
 
-※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 의무형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
-
   - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
-  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
-  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
-  - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
+  - [KBS 제1FM](../Page/KBS_제1FM.md "wikilink")
+  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
   - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
-  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
-  - [극동방송](../Page/극동방송.md "wikilink")
+  - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
 
 ## 각주
 

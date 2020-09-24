@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MRE](https://ko.wikipedia.org/wiki/MRE).
 
 
-[thumb가](https://ko.wikipedia.org/wiki/파일:MRE_contents.jpg "wikilink") 미국 본토를 강타한 직후 [미국 주방위군에](https://ko.wikipedia.org/wiki/미국_주방위군 "wikilink") 의해 주민에게 배포된 MRE\]\] [thumb가](https://ko.wikipedia.org/wiki/파일:JTF_Rita.jpg "wikilink") 미국 본토를 강타한 직후 미군이 [CH-47 치누크](../Page/CH-47_치누크.md "wikilink") 헬기에서 MRE를 하역하고 있다. [연방재난관리청](https://ko.wikipedia.org/wiki/연방재난관리청 "wikilink")의 긴급구제 지시로 MRE가 수해민들에게 배포되었다.\]\] **MRE**()는 미국의 [군인](https://ko.wikipedia.org/wiki/군인 "wikilink")들이 훈련할 때, 싸울 때 먹는 [전투 식량이다](https://ko.wikipedia.org/wiki/전투_식량 "wikilink").
+[thumb가](https://ko.wikipedia.org/wiki/파일:MRE_contents.jpg "wikilink") 미국 본토를 강타한 직후 [미국 주방위군에](https://ko.wikipedia.org/wiki/미국_주방위군 "wikilink") 의해 주민에게 배포된 MRE\]\] [thumb가](https://ko.wikipedia.org/wiki/파일:JTF_Rita.jpg "wikilink") 미국 본토를 강타한 직후 미군이 [CH-47 치누크](../Page/CH-47_치누크.md "wikilink") 헬기에서 MRE를 하역하고 있다. [연방재난관리청](https://ko.wikipedia.org/wiki/연방재난관리청 "wikilink")의 긴급구제 지시로 MRE가 수해민들에게 배포되었다.\]\] **MRE**()는 미국의 [군인](../Page/군인.md "wikilink")들이 훈련할 때, 싸울 때 먹는 [전투 식량이다](https://ko.wikipedia.org/wiki/전투_식량 "wikilink").
 
 2011년 MRE 제조사는 미국의 AMERIQUAL PACKING, THE WORNICK COMPANY, SOPAKCO의 세 회사이다. 각 회사가 협동하여 제조하여 한 봉지 내에 각 회사의 물품이 들어있을 수 있다. MRE에는 24가지의 메뉴가 있다. 이중 채식주의자 식단도 있고 대부분 고기류를 주로 이룬다. "방부제 덩어리" 라는 오명을 얻기도 하지만 방부제는 사용되지 않고 있다. 현재 손쉽게 구할 수 있는 MRE들은 주한미군 기지에서 유출된 엄연한 군용 물품이기에 상업적 재판매를 할 경우 처벌을 받을 수 있다.
 

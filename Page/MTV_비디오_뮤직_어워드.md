@@ -17,7 +17,84 @@
 
 ## 역대 시상식
 
-### 36회
+### 14회 (1997년)
+
+  - 일시 : 1997년 9월 4일 목요일
+  - 장소 : [미국](../Page/미국.md "wikilink") [New York](https://ko.wikipedia.org/wiki/New_York "wikilink") [New York City](https://ko.wikipedia.org/wiki/New_York_City "wikilink") [Radio City Music Hall](https://ko.wikipedia.org/wiki/Radio_City_Music_Hall "wikilink")
+  - 진행자 : Chris Rock
+
+| 시상 구분              | 수상자                                                                |
+| ------------------ | ------------------------------------------------------------------ |
+| **대상 ( 올해의 비디오 )** | Jamiroquai - Virtual Insanity                                      |
+| 신인상                | Fiona Apple - Sleep To Dream                                       |
+| 인기상                | The Prodigy - Breath                                               |
+| 남자 솔로 부문           | Beck - Devil's Haircut                                             |
+| 여자 솔로 부문           | Jewel - You Were Meant For Me                                      |
+| 그룹 부문              | No Doubt - Don't Speak                                             |
+| 댄스 부문              | Spice Girls - Wannabe                                              |
+| R\&B 부문            | Puff Daddy ( Feat. Faith Evans & 112 ) - I'll Be Missing You       |
+| 록 부문               | Aerosmith - Fallin in Love ( Is Hard on the Knees )                |
+| 얼터너티브 부문           | Sublime - What I Got                                               |
+| 랩 부문               | The Notorious B.I.G - Hypnotize                                    |
+| OST 부문             | Will Smith - Men In Black ( Men In Black OST )                     |
+| 혁신상                | Jamiroquai - Virtual Insanity                                      |
+| 감독상                | Beck (Beck - The New Pollution)                                    |
+| 안무상                | Peggy Hickey (Beck - The New Pollution)                            |
+| 미술상                | K.K Barrett (Beck - The New Pollution)                             |
+| 특수 효과상             | Jonathan Glazer and Sean Broughton (Jamiroquai - Virtual Insanity) |
+| 편집상                | Hank Corwin (Beck - The New Pollution)                             |
+| 촬영상                | Stephen Keith-Roach (Jamiroquai - Virtual Insanity)                |
+| 국제 인기상 (아시아)       | The Eraserhead - Ang Huling El Bimbo                               |
+| 국제 인기상 (호주)        | Silverchair - Freak                                                |
+| 국제 인기상 (브라질)       | Skank - É uma Partida de Futebol                                   |
+| 국제 인기상 (유럽)        | The Prodigy - Breathe                                              |
+| 국제 인기상 (인도)        | Asha Bhosle - O Mere Sona Re                                       |
+| 국제 인기상 (일본)        | Chara - Yasashii Kimochi                                           |
+| 국제 인기상 (라틴 아메리카)   | Cafe Tacuba - Chilanga Banda                                       |
+| 국제 인기상 (만다린)       | Mavis Fan - Bartender Angel                                        |
+| 마이클 잭슨 비디오 뱅가드상    | LL Cool J                                                          |
+| 마이클 잭슨 비디오 뱅가드상    | Mark Romanek                                                       |
+|                    |                                                                    |
+
+### 15회 (1998년)
+
+  - 일시 : 1998년 09월 10일 목요일
+  - 장소 : 미국 California Los Angeles Universal Ampethier
+  - 진행자 : Ben Stiller
+
+| 시상 구분                 | 수상자                                                                                                                                 |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **대상 ( 올해의 비디오 )**    | Madonna - Ray Of Light                                                                                                              |
+| 신인상                   | Nathalie Imburglia - "Torn"                                                                                                         |
+| 인기상                   | Puff Daddy and the Family (Feat. The LOX, Lil' Kim, The Notorious B.I.G. and Fuzzbubble - It's All About the Benjamins (rock remix) |
+| 남자 솔로 부문              | Will Smith - Just The Two Of Us                                                                                                     |
+| 여자 솔로 부문              | Madonna - Ray Of Light                                                                                                              |
+| 그룹 부문                 | Backstreet Boys - Everybody (Backstreet's Back)                                                                                     |
+| 댄스 부문                 | The Prodigy - Smake My B Up                                                                                                         |
+| R\&B 부문               | Wycleaf Jean - Gone Till November                                                                                                   |
+| 록 부문                  | Aerosmith - Pink                                                                                                                    |
+| 얼터너티브 부문              | Green Day - Good Riddance ( Time of Your Life )                                                                                     |
+| 랩 부문                  | Will Smith - Gettin' Jiggy Wit It                                                                                                   |
+| OST 부문                | Aerosmith - "I Don't Wanna Miss A Thing" ( Armageddon OST )                                                                         |
+| 혁신상                   | The Prodigy - Smake My B Up                                                                                                         |
+| 감독상                   | Jonas Åkerlund (Madonna - Ray Of Light)                                                                                             |
+| 안무상                   | Madonna & Jonas Åkerlund (Madonna - Ray Of Light)                                                                                   |
+| 미술상                   | Samantha Gore (Björk - Bachelorette)                                                                                                |
+| 특수 효과상                | Steve Murgatroyd, Dan Williams, Steve Hiam, and Anthony Walsham (Madonna - Frozen)                                                  |
+| 편집상                   | Jonas Åkerlund (Madonna - Ray Of Light)                                                                                             |
+| 촬영상                   | Harris Savides (Fionna Apple - Criminal)                                                                                            |
+| 국제 인기상 (아시아)          | Chrisye - Kala Cinta Menggoda                                                                                                       |
+| 국제 인기상 (호주)           | Kylie Minogue - Did It Again                                                                                                        |
+| 국제 인기상 (브라질)          | Racionais MC's - Diário de um Detento                                                                                               |
+| 국제 인기상 (인도)           | Lata Mangeshkar and Udit Narayan - Dil To Pagal Hai                                                                                 |
+| 국제 인기상 (일본)           | hide with Spread Beaver - Pink Spider                                                                                               |
+| 국제 인기상 (라틴 아메리카 (북쪽)) | Molotov - "Gimme The Power"                                                                                                         |
+| 국제 인기상 (라틴 아메리카 (남쪽)) | Molotov - "Gimme The Power"                                                                                                         |
+| 국제 인기상 (만다린)          | Coco Lee - "Di Da Di"                                                                                                               |
+| 마이클 잭슨 비디오 뱅가드상       | Beastie Boys                                                                                                                        |
+|                       |                                                                                                                                     |
+
+### 36회 (2019년)
 
   - 일시 : 2019년 8월 26일 월요일
   - 장소 : [미국](../Page/미국.md "wikilink") [뉴저지주](../Page/뉴저지주.md "wikilink") [뉴어크](https://ko.wikipedia.org/wiki/뉴어크 "wikilink") [프루덴셜 센터](../Page/프루덴셜_센터.md "wikilink")
@@ -179,6 +256,171 @@
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 37회
+
+  - 일시 : 2020년 8월 30일 월요일
+  - 장소 : [미국](../Page/미국.md "wikilink") [뉴저지주](../Page/뉴저지주.md "wikilink") [뉴어크](https://ko.wikipedia.org/wiki/뉴어크 "wikilink")
+  - 진행자 : 케케 팔머
+  - 최다 수상자 : 레이디 가가 (5관왕)
+  - 최다 후보자 : 레이디 가가 [아리아나 그란데](../Page/아리아나_그란데.md "wikilink") (9부문)
+
+<table>
+<thead>
+<tr class="header">
+<th><p>유형</p></th>
+<th><p>수상 부문</p></th>
+<th><p>수상</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>특별</p></td>
+<td><p>MTV Tri-Con상</p></td>
+<td><p>레이디 가가</p></td>
+</tr>
+<tr class="even">
+<td><p>주요</p></td>
+<td><p>올해의 비디오상</p></td>
+<td><p>Blinding Lights<br />
+<small>(<a href="https://ko.wikipedia.org/wiki/The_Weekend" title="wikilink">The Weekend</a>)</small></p></td>
+</tr>
+<tr class="odd">
+<td><p>올해의 가수상</p></td>
+<td><p><a href="../Page/레이디_가가.md" title="wikilink">레이디 가가</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>올해의 노래상</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/Rain_On_Me" title="wikilink">Rain On Me</a><br />
+<small>(<a href="../Page/레이디_가가.md" title="wikilink">레이디 가가</a> (Feat. <a href="../Page/아리아나_그란데.md" title="wikilink">아리아나 그란데</a>))</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>그룹상</p></td>
+<td><p><a href="../Page/방탄소년단.md" title="wikilink">방탄소년단</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>PUSH 신인상</p></td>
+<td><p>Doja Cat</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>콜라보레이션상</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/Rain_On_Me" title="wikilink">Rain On Me</a><br />
+<small>(<a href="../Page/레이디_가가.md" title="wikilink">레이디 가가</a> (Feat. <a href="../Page/아리아나_그란데.md" title="wikilink">아리아나 그란데</a>))</small></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>장르</p></td>
+<td><p>팝상</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/ON_(방탄소년단의_노래)" title="wikilink">ON</a><br />
+<small>(<a href="../Page/방탄소년단.md" title="wikilink">방탄소년단</a>)</small></p></td>
+</tr>
+<tr class="odd">
+<td><p>힙합상</p></td>
+<td><p>Savage<br />
+<small>Meghan Thee Stallion</small></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>R&amp;B상</p></td>
+<td><p>Blinding Lights<br />
+<small>The Weekend</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>K팝상</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/ON_(방탄소년단의_노래)" title="wikilink">ON</a><br />
+<small>(<a href="../Page/방탄소년단.md" title="wikilink">방탄소년단</a>)</small></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>라틴상</p></td>
+<td><p>Qué Pena<br />
+<small>(Maluma (Feat. J Balvin))</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>얼터너티브상</p></td>
+<td><p>Bloddy Valentine<br />
+<small>(Machine Gun Kelly)</small></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>락상</p></td>
+<td><p>Orphans<br />
+<small>(Coldplay)</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>기타</p></td>
+<td><p>긍정을 위한 비디오상</p></td>
+<td><p>I Can't Breath<br />
+<small>(<a href="https://ko.wikipedia.org/wiki/H.E.R" title="wikilink">H.E.R</a>)</small></p></td>
+</tr>
+<tr class="even">
+<td><p>뮤직비디오 집에서상</p></td>
+<td><p>I Stuck With U<br />
+<small>(Ariana Grande &amp; Justin Bieber)</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>검역 성과 상</p></td>
+<td><p>MTV UNPLUGGED at Home<br />
+<small>(CNCO)</small></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>여름의 노래상</p></td>
+<td><p>How You Like That<br />
+<small>(<a href="../Page/블랙핑크.md" title="wikilink">블랙핑크</a>)</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>창작</p></td>
+<td><p>감독상</p></td>
+<td><p>The Man<br />
+<small>(Taylor Swift))</small> | <small>(감독가 : Taylor Swift))</small></p></td>
+</tr>
+<tr class="even">
+<td><p>미술상</p></td>
+<td><p>Mother Daugther<br />
+<small>(Miley Cyrus)</small> | <small>(미술가 : Christian Stone)</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>안무상</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/ON_(방탄소년단의_노래)" title="wikilink">ON</a><br />
+<small>(<a href="../Page/방탄소년단.md" title="wikilink">방탄소년단</a>)</small> | <small>(안무가 : THE LAB &amp; 손승덕)</small></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>촬영상</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/Rain_On_Me" title="wikilink">Rain On Me</a><br />
+<small>(<a href="../Page/레이디_가가.md" title="wikilink">레이디 가가</a> (Feat. <a href="../Page/아리아나_그란데.md" title="wikilink">아리아나 그란데</a>))</small> | <small>(촬영가 : Michael Merriman)</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>편집상</p></td>
+<td><p>Mother Daugther<br />
+<small>(Miley Cyrus)</small> | <small>(편집자 : Alexandre Moors &amp; Nuno Xico)</small></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>시각 효과상</p></td>
+<td><p>Physical<br />
+<small>(Dua Lipa)</small> | <small>(시각 효과 : EIGHTY4 &amp; Mathematics)</small></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

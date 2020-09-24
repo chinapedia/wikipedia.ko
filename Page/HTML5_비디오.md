@@ -50,7 +50,7 @@
 <tr class="odd">
 <td><p><a href="../Page/Ogg.md" title="wikilink">Ogg</a> <a href="../Page/테오라.md" title="wikilink">Theora</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/H.264/AVC" title="wikilink">H.264/MPEG-4 AVC</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/VP8" title="wikilink">VP8</a> (<a href="../Page/WebM.md" title="wikilink">WebM</a>)</p></td>
+<td><p><a href="../Page/VP8.md" title="wikilink">VP8</a> (<a href="../Page/WebM.md" title="wikilink">WebM</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/인터넷_익스플로러.md" title="wikilink">인터넷 익스플로러</a></p></td>

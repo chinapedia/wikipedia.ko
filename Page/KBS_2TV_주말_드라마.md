@@ -1,21 +1,21 @@
 > This article is converted from Wikipedia: [KBS 2TV 주말 드라마](https://ko.wikipedia.org/wiki/KBS_2TV_주말_드라마).
 
 
-**KBS 2TV 주말 드라마**는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 매주 [토요일](../Page/토요일.md "wikilink")과 [일요일](../Page/일요일.md "wikilink") 오후 7시 55분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+**KBS 2TV 주말 드라마**는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 매주 [토요일](../Page/토요일.md "wikilink")부터 [일요일](../Page/일요일.md "wikilink") 오후 7시 55분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
 ## 개요
 
-[1980년](../Page/1980년.md "wikilink") [9월 6일부터](../Page/9월_6일.md "wikilink") TBC 동양방송에서 방송되어 왔지만 동양방송 서울본사, 부산지국이 [1980년](../Page/1980년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") KBS와 인수 합병되며, 같은 달 6일부터 KBS 2TV로 옮긴 축복을 통해 주말 연속극이 시작됐는데 당시에는 시간대가 오후 7시대([KST](https://ko.wikipedia.org/wiki/KST "wikilink"))였으나 [1987년](../Page/1987년.md "wikilink") [3월 7일부터](../Page/3월_7일.md "wikilink") 현재까지는 오후 7시 30분에서 오후 8시 사이로 바뀌었다.
+[1980년](../Page/1980년.md "wikilink") [9월 6일부터](../Page/9월_6일.md "wikilink") TBC 동양방송에서 방송되어 왔지만 동양방송 서울본사와 부산지국이 [1980년](../Page/1980년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") KBS와 인수 합병되며, 같은 달 6일부터 KBS 2TV로 옮긴 축복을 통해 주말 연속극이 시작됐는데 당시에는 시간대가 저녁 7시대([KST](https://ko.wikipedia.org/wiki/KST "wikilink"))였으나 [1987년](../Page/1987년.md "wikilink") [3월 7일부터](../Page/3월_7일.md "wikilink") 현재까지 저녁 7시 30분에서 밤 8시로 바뀌었다.
 
-한편, [1997년](../Page/1997년.md "wikilink") [6월 14일부터](../Page/6월_14일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink"), [1998년](../Page/1998년.md "wikilink") [10월 17일부터](../Page/10월_17일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [11월 15일까지](../Page/11월_15일.md "wikilink") 오후 9시 주말극을 편성한 바 있다.
+[1997년](../Page/1997년.md "wikilink") [6월 14일부터](../Page/6월_14일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [2월 15일까지와](../Page/2월_15일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [10월 17일부터](../Page/10월_17일.md "wikilink") [1998년](../Page/1998년.md "wikilink") [11월 15일까지](../Page/11월_15일.md "wikilink") 밤 9시 주말연속극을 편성한 바 있다.
 
-《[월계수 양복점 신사들](https://ko.wikipedia.org/wiki/월계수_양복점_신사들 "wikilink")》부터 **주말 연속극**에서 **주말 드라마**로 명칭을 변경하였다.
+《[월계수 양복점 신사들](https://ko.wikipedia.org/wiki/월계수_양복점_신사들 "wikilink")》부터 명칭을 **주말 연속극**에서 **주말 드라마**로 변경하였다.
 
-[2000년대](../Page/2000년대.md "wikilink") 중반 이후부터 드라마 작품 중의 하나로 최고 시청률 30\~40%대 넘는 유지하고 있다.
+[2000년대](../Page/2000년대.md "wikilink") 중반 이후부터 드라마 작품 중의 하나로 최고 시청률 30\~40%대를 유지하고 있다.
 
 ## 방송 시간
 
-현재 방송 시간은 [2019년](../Page/2019년.md "wikilink") [1월 5일부터](../Page/1월_5일.md "wikilink") 기준으로 한다.
+현재 방송 시간은 [2020년](../Page/2020년.md "wikilink") [9월 19일부터](../Page/9월_19일.md "wikilink") 기준으로 한다.
 
 <table>
 <thead>
@@ -30,24 +30,24 @@
 <tr class="odd">
 <td><p><a href="../Page/KBS_2TV.md" title="wikilink">KBS 2TV</a></p></td>
 <td><p>1980년 12월 6일 ~ 1987년 3월 1일</p></td>
-<td><p>매주 주말 오후 7시 ~ 7시 45분</p></td>
+<td><p>매주 주말 저녁 7시 ~ 7시 45분</p></td>
 <td><p>45분</p></td>
 </tr>
 <tr class="even">
 <td><p>1987년 3월 7일 ~ 1988년 2월 28일</p></td>
-<td><p>매주 주말 오후 7시 30분 ~ 8시 30분</p></td>
+<td><p>매주 주말 저녁 7시 30분 ~ 8시 30분</p></td>
 <td><p>1시간</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1988년 3월 5일 ~ 1991년 5월 26일</p></td>
-<td><p>매주 주말 오후 7시 40분 ~ 8시 40분</p></td>
+<td><p>매주 주말 저녁 7시 40분 ~ 8시 40분</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1991년 6월 1일 ~ 1993년 4월 25일</p></td>
-<td><p>매주 주말 오후 7시 50분 ~ 8시 50분</p></td>
+<td><p>매주 주말 저녁 7시 50분 ~ 8시 50분</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -59,7 +59,7 @@
 </tr>
 <tr class="even">
 <td><p>1993년 5월 1일 ~ 1997년 11월 30일</p></td>
-<td><p>매주 주말 오후 7시 55분 ~ 8시 55분</p></td>
+<td><p>매주 주말 저녁 7시 55분 ~ 8시 55분</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -71,19 +71,19 @@
 </tr>
 <tr class="even">
 <td><p>1997년 12월 6일 ~ 2000년 4월 30일</p></td>
-<td><p>매주 주말 오후 8시 ~ 9시</p></td>
+<td><p>매주 주말 저녁 8시 ~ 9시</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2007년 1월 6일 ~ 2007년 1월 7일</p></td>
-<td><p>매주 주말 오후 7시 55분 ~ 9시</p></td>
+<td><p>매주 주말 저녁 7시 55분 ~ 9시</p></td>
 <td><p>1시간 5분</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2006년 4월 1일 ~ 2006년 4월 2일</p></td>
-<td><p>매주 주말 오후 7시 55분 ~ 9시 5분</p></td>
+<td><p>매주 주말 저녁 7시 55분 ~ 9시 5분</p></td>
 <td><p>1시간 10분</p></td>
 <td></td>
 </tr>
@@ -95,7 +95,7 @@
 </tr>
 <tr class="even">
 <td><p>2010년 6월 19일 ~ 2010년 6월 20일</p></td>
-<td><p>매주 주말 오후 7시 55분 ~ 9시 15분</p></td>
+<td><p>매주 저녁 오후 7시 55분 ~ 9시 15분</p></td>
 <td><p>1시간 20분</p></td>
 <td></td>
 </tr>
@@ -113,19 +113,26 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019년 1월 5일 ~ <strong>현재</strong></p></td>
+<td><p>2019년 1월 5일 ~ 2020년 9월 13일</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2020년 9월 19일 ~ <strong>현재</strong></p></td>
+<td><p>1시간 20분<br />
+(1회당 <strong>1부</strong>, <strong>2부</strong> 각각 <strong>40분</strong>씩 분할방송)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2015년 6월 27일 ~ 2015년 6월 28일</p></td>
-<td><p>매주 주말 오후 7시 55분 ~ 9시 20분</p></td>
+<td><p>매주 주말 저녁 7시 55분 ~ 9시 20분</p></td>
 <td><p>1시간 25분<br />
 (1회당 45분과 40분 / 2회 연속 방송)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018년 10월 6일 ~ 2018년 12월 30일</p></td>
 <td></td>
 <td></td>
@@ -231,7 +238,7 @@
   - 《[가족끼리 왜 이래](https://ko.wikipedia.org/wiki/가족끼리_왜_이래 "wikilink")》 : 2014년 8월 15일 \~ 2015년 2월 15일
   - 《[파랑새의 집](https://ko.wikipedia.org/wiki/파랑새의_집 "wikilink")》 : 2015년 2월 21일 \~ 2015년 8월 9일
   - 《[부탁해요, 엄마](../Page/부탁해요,_엄마.md "wikilink")》 : 2015년 8월 15일 \~ 2016년 2월 14일
-  - 《[아이가 다섯](https://ko.wikipedia.org/wiki/아이가_다섯 "wikilink")》 : 2016년 2월 20일 \~ 2016년 08월 21일
+  - 《[아이가 다섯](https://ko.wikipedia.org/wiki/아이가_다섯 "wikilink")》 : 2016년 2월 20일 \~ 2016년 8월 21일
   - 《[월계수 양복점 신사들](https://ko.wikipedia.org/wiki/월계수_양복점_신사들 "wikilink")》 : 2016년 8월 27일 \~ 2017년 2월 26일
   - 《[아버지가 이상해](https://ko.wikipedia.org/wiki/아버지가_이상해 "wikilink")》 : 2017년 3월 4일 \~ 2017년 8월 27일
   - 《[황금빛 내 인생](https://ko.wikipedia.org/wiki/황금빛_내_인생 "wikilink")》 : 2017년 9월 2일 \~ 2018년 3월 11일
@@ -242,8 +249,8 @@
 
 ### 2020년대
 
-  - 《[한 번 다녀왔습니다](../Page/한_번_다녀왔습니다.md "wikilink")》 : 2020년 3월 28일 \~ 2020년 9월 13일
-  - 《[오\! 삼광빌라\!](https://ko.wikipedia.org/wiki/오!_삼광빌라! "wikilink")》 : 2020년 9월 19일 \~ **방영 예정**
+  - 《[한 번 다녀왔습니다](../Page/한_번_다녀왔습니다.md "wikilink")》 : 2020년 3월 28일 \~ 2020년 9월 13일 (본 작품부터 금요일에도 추가 재방송 겸 화면해설방송) (이 작품까지 1회당 40분 2회 분할 방송)
+  - 《[오\! 삼광빌라\!](https://ko.wikipedia.org/wiki/오!_삼광빌라! "wikilink")》 : 2020년 9월 19일 \~ 2021년 3월 7일 (본 작품부터 1회당 **40분**씩 **1부**, **2부** 분할 방송됨)
 
 ## 같이 보기
 

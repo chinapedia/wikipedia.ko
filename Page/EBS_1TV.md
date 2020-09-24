@@ -76,7 +76,7 @@
   - [2000년](../Page/2000년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") : [한국교육방송공사](../Page/한국교육방송공사.md "wikilink") 설립
   - [2000년](../Page/2000년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") : 《[최고의 요리비결](https://ko.wikipedia.org/wiki/최고의_요리비결 "wikilink")》 방송 개시
   - [2000년](../Page/2000년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink") : 《[희망풍경](../Page/희망풍경.md "wikilink")》, 《[모여라 딩동댕](../Page/모여라_딩동댕.md "wikilink")》 방송 개시
-  - [2001년](../Page/2001년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 수능특강 EBS 위성 1TV 재방송 변경(월요일 \~ 금요일 밤 11시 30분 부터 익일 12시 20분, 익일 12시 20분 부터 1시 10분 까지, 현재 EBS 플러스 1 방송대역)
+  - [2001년](../Page/2001년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") : 수능특강 EBS 위성 1TV 재방송 변경(월요일 \~ 금요일 밤 11시 30분 부터 익일 12시 20분, 익일 12시 20분 부터 1시 10분 까지, 현재 EBS 플러스 1 방송대역)
   - [2001년](../Page/2001년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink") : 《굿모닝 실버》, 《몽몽 인형극장》 방송 개시, 평일 오전 방송을 낮 12시까지로 1시간 환원
   - [2001년](../Page/2001년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") : 《[희망풍경](../Page/희망풍경.md "wikilink")》 토요일 마지막 방송, 월요일 \~ 화요일로 이동
   - [2001년](../Page/2001년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") : 《[희망풍경](../Page/희망풍경.md "wikilink")》 월요일 \~ 화요일로 이동 및 아침 6시 20분 방송
@@ -154,7 +154,7 @@
   - [2013년](../Page/2013년.md "wikilink") [2월 21일](../Page/2월_21일.md "wikilink") : 《[EBS 스페이스 공감](../Page/EBS_스페이스_공감.md "wikilink")》수요일 \~ 목요일 마지막 방송, [목요일](../Page/목요일.md "wikilink")로 축소
   - [2013년](../Page/2013년.md "wikilink") [2월 22일](../Page/2월_22일.md "wikilink") : 《[EBS 초대석](../Page/EBS_초대석.md "wikilink")》 종영
   - [2013년](../Page/2013년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : 애니메이션 정규 편성 변경 (놀이터 구조대, 뽀잉), 월요일 방송 15분 축소
-  - [2013년](../Page/2013년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 화요일 방송 10분 축소
+  - [2013년](../Page/2013년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") : 화요일 방송 10분 축소
   - [2013년](../Page/2013년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 수요일 방송 30분 축소
   - [2013년](../Page/2013년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 《[EBS 스페이스 공감](../Page/EBS_스페이스_공감.md "wikilink")》목요일로 이동 및 밤 0시 5분 방송
   - [2013년](../Page/2013년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : 《[희망풍경](../Page/희망풍경.md "wikilink")》 토요일로 이동 및 아침 6시 30분 방송
@@ -166,7 +166,7 @@
   - [2013년](../Page/2013년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") : 목요일 방송 10분 축소
   - [2013년](../Page/2013년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") : 지상파 디지털 TV 방송 채널 재배치
   - [2014년](../Page/2014년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") : 화요일 방송 20분 축소
-  - [2014년](../Page/2014년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 수요일 방송 10분 축소
+  - [2014년](../Page/2014년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") : 수요일 방송 10분 축소
   - [2014년](../Page/2014년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") : 목요일 방송 5분 축소
   - [2014년](../Page/2014년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : 금요일 방송을 오전 2시 15분까지 확대
   - [2014년](../Page/2014년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink") : 《[다큐 오늘](../Page/다큐_오늘.md "wikilink")》 방송 개시
@@ -255,9 +255,12 @@
 
   - [2020년](../Page/2020년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") : 《[별일 없이 산다](https://ko.wikipedia.org/wiki/별일_없이_산다_\(텔레비전_프로그램\) "wikilink")》종영
   - [2020년](../Page/2020년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") : 《[발견의 기쁨, 동네 책방](https://ko.wikipedia.org/wiki/발견의_기쁨,_동네_책방 "wikilink")》종영
+  - [2020년](../Page/2020년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") : 코로나19 범유행으로 인해 1학기 온라인 클래스 학교 온라인 수업 진행.
   - [2020년](../Page/2020년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") : 《[또개비 가족](https://ko.wikipedia.org/wiki/또개비_가족 "wikilink")》, 《[해요와 해요](https://ko.wikipedia.org/wiki/해요와_해요 "wikilink")》, 《[핫도그랑 만들어 볼까요](https://ko.wikipedia.org/wiki/핫도그랑_만들어_볼까요 "wikilink")》, 《[돈이 되는 토크쇼 - 머니톡](https://ko.wikipedia.org/wiki/돈이_되는_토크쇼_-_머니톡 "wikilink")》 방송 개시
   - [2020년](../Page/2020년.md "wikilink") [5월 18일](../Page/5월_18일.md "wikilink") : 《EBS 비즈니스 리뷰》방송 개시
-  - [2020년](../Page/2020년.md "wikilink") [9월](../Page/9월.md "wikilink") : 애니메이션 정규 편성 변경 (플라워링 하트 3)
+  - [2020년](../Page/2020년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") : 사회적 거리두기 2단계 확대. 코로나19 범유행으로 인해 2학기 온라인 클래스 학교 온라인 수업 진행.
+  - [2020년](../Page/2020년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") : 애니메이션 정규 편성 변경 (플라워링 하트 3)
+  - [2021년](../Page/2021년.md "wikilink") [3월](../Page/3월.md "wikilink") : 소피루비 시즌3 방송 재개. 봄 정규 편성 변경 (딩동댕유치원 2021 확장판, 보니하니 확장판)
 
 ## 방송 송출 시설망
 
@@ -321,7 +324,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [도전\! 나도 과학자](https://ko.wikipedia.org/wiki/도전!_나도_과학자 "wikilink")
   - [미래교육 플러스](../Page/미래교육_플러스.md "wikilink")
   - [나눔 0700](../Page/나눔_0700.md "wikilink")
-  - [경이로운 지구](https://ko.wikipedia.org/wiki/경이로운_지구_\(EBS\) "wikilink")
+  - [아주 각별한 기행](https://ko.wikipedia.org/wiki/아주_각별한_기행 "wikilink")
   - [다문화 고부열전](https://ko.wikipedia.org/wiki/다문화_고부열전 "wikilink")
   - [세계의 국립공원](https://ko.wikipedia.org/wiki/세계의_국립공원 "wikilink")
   - [세상의 모든 법칙](../Page/세상의_모든_법칙.md "wikilink")
@@ -348,6 +351,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
 #### 애니메이션
 
   - [도라도라 영어나라](../Page/도라도라_영어나라.md "wikilink")
+  - [강철소방대 파이어로보](../Page/강철소방대_파이어로보.md "wikilink")
   - [히어로 써클](https://ko.wikipedia.org/wiki/히어로_써클 "wikilink")
   - [레이디버그](../Page/미라큘러스:_레이디버그와_블랙캣.md "wikilink")
   - [미니특공대X](https://ko.wikipedia.org/wiki/미니특공대X "wikilink")
@@ -365,7 +369,7 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - [오즈: 마법을 찾아서](https://ko.wikipedia.org/wiki/오즈:_마법을_찾아서 "wikilink")
   - [페파피그](../Page/페파피그.md "wikilink")
   - [꼬마 히어로 슈퍼잭](../Page/꼬마_히어로_슈퍼잭.md "wikilink")
-  - [플라워링 하트](../Page/플라워링_하트.md "wikilink") 3기 (2020년 9월 첫방예정)
+  - [플라워링 하트](../Page/플라워링_하트.md "wikilink") 3기 (2020년 10월 5일 첫방송)
 
 ### 종영 프로그램
 
@@ -1051,13 +1055,13 @@ EBS TV는 별도의 지역(권역)별 방송 없이 전국 단일 방송으로 K
   - 이 프로그램은 www.primary.ebs.co.kr과 EBS 초등 모바일 앱을 통해 다시보실 수 있습니다 (2019년\~현재)
   - 이 프로그램은 www.ebse.co.kr을 통해 다시보실 수 있습니다 (2013년\~2017년)
   - 이 프로그램은 www.ebse.co.kr와 ebse 모바일 앱을 통해 다시보실 수 있습니다. (2017년\~현재)
-  - 이 프로그램은 www.ebssw.kr 이솦을 통해서 다시보실 수 있습니다 (2019년 \~ 현재)
+  - 이 프로그램은 www.ebs.co.kr 이솦을 통해서 다시보실 수 있습니다 (2019년 \~ 현재)
   - ebs는 방송통신심의위원회의 심의규정을 준수합니다. (1990년 \~ 현재)
   - 다음 시간에 만나요 (2000년 \~ 2013년, 2020년 \~ 현재)
   - 제작지원 방송통신위원회 방송발전기금 (2009년 \~ 현재)
   - 제작지원 미래창조과학부(현. 과학기술정보통신부) 방송발전기금 (2016년 \~2017년)
   - 제작지원 교육부, 전국 16개 교육청 (2020년 \~ 현재)
-      - 정규 편성 관계로 ○○○○은 쉽니다. 시청자 여러분의 많은 시청 바랍니다 (2012년\~)
+      - EIDF 또는 연중, 봄 개편, 가을 개편, 기념일 등 편성 관계로 ○○○○은 쉽니다. 시청자 여러분의 많은 시청 바랍니다 (2012년\~)
   - 아래에 주요 방송 문구로 청각장애인을 위한 자막방송, 시청각장애인을 위한 자막 및 화면해설방송, 시각장애인을 위한 수어방송 등이 있다.
 
 ## 같이 보기

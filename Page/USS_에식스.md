@@ -19,4 +19,4 @@
 
 [분류:미국 해군 함선 이름](https://ko.wikipedia.org/wiki/분류:미국_해군_함선_이름 "wikilink")
 
-1.  Essex의 한글 표기는 에섹스(x)가 아니라 에식스(o)이다. 국립국어원 표준국어대사전 [1](http://stdweb2.korean.go.kr/search/View.jsp?idx=228348), 두산백과사전 [2](http://www.encyber.com/search_w/ctdetail.php?gs=ws&gd=&cd=&d=&k=&inqr=&indme=&p=1&q=essex&masterno=865062&contentno=865062), 브리태니커 백과사전 [3](http://preview.britannica.co.kr/bol/topic.asp?article_id=b15a2090a) , 파스칼 백과사전 [4](http://kr.dictionary.search.yahoo.com/search/dictionaryp?&p=Essex&subtype=enc&pk=16090100&field=id)
+1.  Essex의 한글 표기는 에섹스(x)가 아니라 에식스(o)이다. 국립국어원 표준국어대사전 [1](https://stdict.korean.go.kr/search/searchView.do?word_no=228348&searchKeywordTo=3), 두산백과사전 [2](http://www.encyber.com/search_w/ctdetail.php?gs=ws&gd=&cd=&d=&k=&inqr=&indme=&p=1&q=essex&masterno=865062&contentno=865062), 브리태니커 백과사전 [3](http://preview.britannica.co.kr/bol/topic.asp?article_id=b15a2090a) , 파스칼 백과사전 [4](http://kr.dictionary.search.yahoo.com/search/dictionaryp?&p=Essex&subtype=enc&pk=16090100&field=id)

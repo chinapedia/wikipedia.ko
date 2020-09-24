@@ -318,7 +318,7 @@
   - 월간 잡지 MAXIM 2008년 8월호 화보 촬영 및 표지모델
   - tvN 오페라스타 2012, 불후의 명곡 출연
   - 작사 및 작곡 : 8eight 앨범 수록곡 다수.
-  - 피쳐링 : [디기리](../Page/디기리.md "wikilink"), [스퀘어](https://ko.wikipedia.org/wiki/스퀘어 "wikilink"), [제이스](../Page/제이스.md "wikilink"), [바나나걸](../Page/바나나걸.md "wikilink"), [전진](https://ko.wikipedia.org/wiki/전진 "wikilink"), [다이나믹듀오](https://ko.wikipedia.org/wiki/다이나믹듀오 "wikilink"), [H-유진](https://ko.wikipedia.org/wiki/H-유진 "wikilink"), [one sun](https://ko.wikipedia.org/wiki/one_sun "wikilink"), [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink"), [Vibe](https://ko.wikipedia.org/wiki/Vibe "wikilink"), [이루](../Page/이루.md "wikilink"), [Eden Beatz](https://ko.wikipedia.org/wiki/Eden_Beatz "wikilink"), [지조](../Page/지조.md "wikilink"), [주석](https://ko.wikipedia.org/wiki/주석 "wikilink"), [이세준](../Page/이세준.md "wikilink")
+  - 피쳐링 : [디기리](../Page/디기리.md "wikilink"), [스퀘어](https://ko.wikipedia.org/wiki/스퀘어 "wikilink"), [제이스](../Page/제이스.md "wikilink"), [바나나걸](../Page/바나나걸.md "wikilink"), [전진](https://ko.wikipedia.org/wiki/전진 "wikilink"), [다이나믹듀오](https://ko.wikipedia.org/wiki/다이나믹듀오 "wikilink"), [H-유진](../Page/H-유진.md "wikilink"), [one sun](https://ko.wikipedia.org/wiki/one_sun "wikilink"), [2AM](https://ko.wikipedia.org/wiki/2AM "wikilink"), [Vibe](https://ko.wikipedia.org/wiki/Vibe "wikilink"), [이루](../Page/이루.md "wikilink"), [Eden Beatz](https://ko.wikipedia.org/wiki/Eden_Beatz "wikilink"), [지조](../Page/지조.md "wikilink"), [주석](https://ko.wikipedia.org/wiki/주석 "wikilink"), [이세준](../Page/이세준.md "wikilink")
 
 ### [백찬 Chan)](../Page/백찬.md "wikilink")(BAEK
 

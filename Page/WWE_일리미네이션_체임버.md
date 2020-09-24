@@ -75,7 +75,7 @@
 <td><p><a href="../Page/휴스턴.md" title="wikilink">휴스턴</a></p></td>
 <td><p><a href="../Page/도요타_센터.md" title="wikilink">도요타 센터</a></p></td>
 <td></td>
-<td><p><a href="../Page/대니얼_브라이언.md" title="wikilink">대니얼 브라이언</a> vs. <a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> vs. <a href="https://ko.wikipedia.org/wiki/AJ_스타일스" title="wikilink">AJ 스타일스</a> vs. <a href="../Page/제프_하디.md" title="wikilink">제프 하디</a> vs. <a href="../Page/사모아_조.md" title="wikilink">사모아 조</a> vs. <a href="https://ko.wikipedia.org/wiki/코피_킹스턴" title="wikilink">코피 킹스턴</a> (WWE 챔피언십, 일리미네이션 체임버 매치)</p></td>
+<td><p><a href="../Page/대니얼_브라이언.md" title="wikilink">대니얼 브라이언</a> vs. <a href="../Page/랜디_오턴.md" title="wikilink">랜디 오턴</a> vs. <a href="https://ko.wikipedia.org/wiki/AJ_스타일스" title="wikilink">AJ 스타일스</a> vs. <a href="../Page/제프_하디.md" title="wikilink">제프 하디</a> vs. <a href="../Page/사모아_조.md" title="wikilink">사모아 조</a> vs. <a href="../Page/코피_킹스턴.md" title="wikilink">코피 킹스턴</a> (WWE 챔피언십, 일리미네이션 체임버 매치)</p></td>
 </tr>
 <tr class="even">
 <td><p>2020년 3월 8일</p></td>

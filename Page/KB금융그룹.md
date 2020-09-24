@@ -52,6 +52,7 @@
   - [KB손해보험](../Page/KB손해보험.md "wikilink") ([KB손해보험 홈페이지](http://www.kbinsure.co.kr))
   - [KB국민카드](../Page/KB국민카드.md "wikilink") ([KB국민카드 홈페이지](https://web.archive.org/web/20110225002727/http://kbcard.com/))
   - [KB생명보험](../Page/KB생명보험.md "wikilink") ([KB생명보험 홈페이지](http://www.kbli.co.kr))
+  - [푸르덴셜생명보험](../Page/푸르덴셜생명보험.md "wikilink") ([푸르덴셜생명보험 홈페이지](http://www.prudential.co.kr))
   - [KB자산운용](https://ko.wikipedia.org/wiki/KB자산운용 "wikilink") ([KB자산운용 홈페이지](http://www.kbam.co.kr))
   - [KB캐피탈](https://ko.wikipedia.org/wiki/KB캐피탈 "wikilink") ([KB캐피탈 홈페이지](http://www.kbcapital.co.kr))
   - [KB저축은행](../Page/KB저축은행.md "wikilink") ([KB저축은행 홈페이지](http://www.kbsavings.com))

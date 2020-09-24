@@ -126,7 +126,7 @@
 <tr class="even">
 <td><p>16:05<br />
 <small>(평일)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/국민과_함께_국군과_함께" title="wikilink">국민과 함께 국군과 함께</a></p></td>
+<td><p><a href="../Page/국민과_함께_국군과_함께.md" title="wikilink">국민과 함께 국군과 함께</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>16:00<br />

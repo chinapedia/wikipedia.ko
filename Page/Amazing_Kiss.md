@@ -7,7 +7,7 @@
 
   - 데뷔 싱글로부터 2개월만으로 신인 가수로서는 비교적 짧은 기간을 갖고 발매하였다.
   - 초회반에는 픽처 케이스 (Picture Case)라고 하여, 앞면 케이스에 자켓이 인쇄되어 발매되었다.
-  - 커플링 곡인 \<Someday, Somewhere\>는 보아 한국 정규 1집 [ID; Peace B의](https://ko.wikipedia.org/wiki/ID;_Peace_B_\(보아의_음반\) "wikilink") 마지막 트랙 <먼 훗날 우리>의 일본어 버전이다.
+  - 커플링 곡인 \<Someday, Somewhere\>는 보아 한국 정규 1집 [ID; Peace B의](../Page/ID;_Peace_B.md "wikilink") 마지막 트랙 <먼 훗날 우리>의 일본어 버전이다.
 
 ## 수록곡
 

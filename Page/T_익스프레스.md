@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [T 익스프레스](https://ko.wikipedia.org/wiki/T_익스프레스).
 
 
-**T 익스프레스**(T Express)는 [대한민국](../Page/대한민국.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [용인시](../Page/용인시.md "wikilink")에 위치한 [에버랜드](../Page/에버랜드.md "wikilink")에 있는 우든(목재) [롤러코스터](https://ko.wikipedia.org/wiki/롤러코스터 "wikilink")이다. 이 롤러코스터는 국내 최초의 우든 롤러코스터이며, [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [인타민](../Page/인타민.md "wikilink")사의 네 번째 조립식 트랙 우든 롤러코스터이다. 올라갈 때는 보통 롤러코스터들과는 달리 케이블 리프트 형식으로 올라간다. 건설 당시 [SK텔레콤](../Page/SK텔레콤.md "wikilink")에서 협찬해 T 익스프레스라는 이름이 붙게 되었다.
+**T 익스프레스**(T Express)는 [대한민국](../Page/대한민국.md "wikilink") [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [용인시](../Page/용인시.md "wikilink")에 위치한 [에버랜드](../Page/에버랜드.md "wikilink")에 있는 우든(목재) [롤러코스터](../Page/롤러코스터.md "wikilink")이다. 이 롤러코스터는 국내 최초의 우든 롤러코스터이며, [스위스](https://ko.wikipedia.org/wiki/스위스 "wikilink") [인타민](../Page/인타민.md "wikilink")사의 네 번째 조립식 트랙 우든 롤러코스터이다. 올라갈 때는 보통 롤러코스터들과는 달리 케이블 리프트 형식으로 올라간다. 건설 당시 [SK텔레콤](../Page/SK텔레콤.md "wikilink")에서 협찬해 T 익스프레스라는 이름이 붙게 되었다.
 
 T 익스프레스가 가져온 가장 큰 변화는 손님 수의 증가인데, 특히 80대와 유치원생 들이 많다. 에버랜드 통계에 따르면 유치원생 수는 80%까지, 80대 노인의 수는 89%까지 증가하였다.\[1\] 이는 상당히 빠른 속도로 인한 스릴감 때문이다. 그런만큼 대기줄은 상당히 긴편이다.
 

@@ -59,7 +59,7 @@
 
 ## 방송 사고
 
-  - [2016년](../Page/2016년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") : [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")〈[TT](../Page/TWICEcoaster_:_LANE_1.md "wikilink")〉 무대 시작 초반에 [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 〈[너 그리고 나](https://ko.wikipedia.org/wiki/너_그리고_나 "wikilink")〉의 MR로 바뀌는 음향사고가 발생하였다.
+  - [2016년](../Page/2016년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") : [트와이스](../Page/트와이스.md "wikilink")〈[TT](../Page/TWICEcoaster_:_LANE_1.md "wikilink")〉 무대 시작 초반에 [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 〈[너 그리고 나](https://ko.wikipedia.org/wiki/너_그리고_나 "wikilink")〉의 MR로 바뀌는 음향사고가 발생하였다.
   - [2019년](../Page/2019년.md "wikilink") [12월 25일](../Page/12월_25일.md "wikilink") : [웬디](https://ko.wikipedia.org/wiki/웬디 "wikilink")
 
 리허설중 2.5m 높이에서 떨어지는 사고가 발생했다 \[3\]
@@ -82,7 +82,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/수도권_(대한민국)" title="wikilink">수도권</a><br />
 (<a href="../Page/서울특별시.md" title="wikilink">서울</a>·<a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천</a>·<a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기</a>)</p></td>
 <td><p><a href="../Page/SBS_(대한민국의_방송사).md" title="wikilink">SBS</a></p></td>
-<td><p>매년 12월 마지막주 방송(9개 지역 민방 네트워크로 릴레이 송출)<br />
+<td><p>매년 12월 마지막주 방송(9개 지역 민방 <a href="https://ko.wikipedia.org/wiki/동시_네트워크" title="wikilink">동시 네트워크로</a> 릴레이 송출)<br />
 (방송 일정 및 시간은 편성 상황에 따라 유동적으로 달라질 수 있음)</p></td>
 <td><p>프로그램 제작국(키국)</p></td>
 </tr>

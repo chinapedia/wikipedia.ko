@@ -37,25 +37,25 @@
 
 Salyu 명의 싱글
 
-|    | 발매일                                                                                            | 제목                                | 최고순위\[1\] | 수록 음반                 |
-| -- | ---------------------------------------------------------------------------------------------- | --------------------------------- | --------- | --------------------- |
-| 1  | [2004년](../Page/2004년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink")                    | VALON-1                           | 34        | landmark              |
-| 2  | 2004년 [10월 27일](../Page/10월_27일.md "wikilink")                                                 | Dialogue                          | 74        |                       |
-| 3  | [2005년](../Page/2005년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink")                    | Peaty                             | 92        |                       |
-| 4  | [2005년](../Page/2005년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink")                    | 스이세이 ()                           | 54        |                       |
-| 5  | 2005년 [10월 26일](../Page/10월_26일.md "wikilink")                                                 | 가제니 노루 후네 ()                      | 29        | TERMINAL              |
-| 6  | [2006년](../Page/2006년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink")                      | Tower                             | 33        |                       |
-| 7  | [2006년](../Page/2006년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink")                      | name                              | 15        |                       |
-| 8  | 2006년 [11월 1일](../Page/11월_1일.md "wikilink")                                                   | 플랫폼 ()                            | 16        |                       |
-| 9  | [2007년](../Page/2007년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink")                  | LIBERTY                           | 14        | MAIDEN YOYAGE         |
-| 10 | 2007년 [11월 28일](../Page/11월_28일.md "wikilink")                                                 | iris \~시아와세노 하코\~ (iris \~)       | 26        |                       |
-| 11 | [2009년](../Page/2009년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink")                    | 코루테오 \~교레츠\~ / HALFWAY (/HALFWAY) | 10        |                       |
-| 12 | 2009년 [8월 19일](../Page/8월_19일.md "wikilink")                                                   | EXTENSION                         | 21        |                       |
-| 13 | [2010년](../Page/2010년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink")                    | 아따라시이 YES ()                      | 14        |                       |
-| 14 | 2010년 [8월 26일](../Page/8월_26일.md "wikilink")                                                   | LIFE                              | 21        | Photogenic            |
-| 15 | [2011년](../Page/2011년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink")                    | 아오조라/magic ()                     | 16        |                       |
-| 16 | [2012년](../Page/2012년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink")                      | Lighthouse                        | 19        |                       |
-| 17 | [2014년](../Page/2014년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") | 아이니유케루/라인 ()                      | 42        | Android & Human Being |
+|    | 발매일                                                                           | 제목                                | 최고순위\[1\] | 수록 음반                 |
+| -- | ----------------------------------------------------------------------------- | --------------------------------- | --------- | --------------------- |
+| 1  | [2004년](../Page/2004년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink")   | VALON-1                           | 34        | landmark              |
+| 2  | 2004년 [10월 27일](../Page/10월_27일.md "wikilink")                                | Dialogue                          | 74        |                       |
+| 3  | [2005년](../Page/2005년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink")   | Peaty                             | 92        |                       |
+| 4  | [2005년](../Page/2005년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink")   | 스이세이 ()                           | 54        |                       |
+| 5  | 2005년 [10월 26일](../Page/10월_26일.md "wikilink")                                | 가제니 노루 후네 ()                      | 29        | TERMINAL              |
+| 6  | [2006년](../Page/2006년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink")     | Tower                             | 33        |                       |
+| 7  | [2006년](../Page/2006년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink")     | name                              | 15        |                       |
+| 8  | 2006년 [11월 1일](../Page/11월_1일.md "wikilink")                                  | 플랫폼 ()                            | 16        |                       |
+| 9  | [2007년](../Page/2007년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") | LIBERTY                           | 14        | MAIDEN YOYAGE         |
+| 10 | 2007년 [11월 28일](../Page/11월_28일.md "wikilink")                                | iris \~시아와세노 하코\~ (iris \~)       | 26        |                       |
+| 11 | [2009년](../Page/2009년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink")   | 코루테오 \~교레츠\~ / HALFWAY (/HALFWAY) | 10        |                       |
+| 12 | 2009년 [8월 19일](../Page/8월_19일.md "wikilink")                                  | EXTENSION                         | 21        |                       |
+| 13 | [2010년](../Page/2010년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink")   | 아따라시이 YES ()                      | 14        |                       |
+| 14 | 2010년 [8월 26일](../Page/8월_26일.md "wikilink")                                  | LIFE                              | 21        | Photogenic            |
+| 15 | [2011년](../Page/2011년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink")   | 아오조라/magic ()                     | 16        |                       |
+| 16 | [2012년](../Page/2012년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink")     | Lighthouse                        | 19        |                       |
+| 17 | [2014년](../Page/2014년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink")   | 아이니유케루/라인 ()                      | 42        | Android & Human Being |
 
 salyu × salyu 명의 싱글
 

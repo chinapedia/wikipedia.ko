@@ -410,7 +410,7 @@
   - [더 뉴데이](../Page/더_뉴데이.md "wikilink")
       - [빅 E](https://ko.wikipedia.org/wiki/빅_E_랭스턴 "wikilink")
       - [재비어 우즈](../Page/오스틴_왓슨.md "wikilink")
-      - [코피 킹스턴](https://ko.wikipedia.org/wiki/코피_킹스턴 "wikilink")
+      - [코피 킹스턴](../Page/코피_킹스턴.md "wikilink")
   - [더 리바이벌](https://ko.wikipedia.org/wiki/더_리바이벌 "wikilink")
       - [대쉬 와일더](https://ko.wikipedia.org/wiki/대쉬_와일더 "wikilink")
       - [스캇 도슨](https://ko.wikipedia.org/wiki/스캇_도슨 "wikilink")

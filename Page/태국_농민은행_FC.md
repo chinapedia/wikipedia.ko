@@ -5,7 +5,7 @@
 
 ## 우승 기록
 
-  - **[아시안 클럽 챔피언십](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십 "wikilink")**
+  - **[아시안 클럽 챔피언십](../Page/아시안_클럽_챔피언십.md "wikilink")**
       - 우승: 1994, 1995
 
 <!-- end list -->

@@ -108,6 +108,13 @@
 (1부 40분 2부 40분 분할 방송)</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2020년 10월 26일 ~ <strong>예정</strong></p></td>
+<td><p>월, 화 밤 9시 40분 ~ 11시 10분</p></td>
+<td><p>90분<br />
+(1부 30분 2부 30분 3부 30분 분할 방송)</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -399,6 +406,7 @@
   - 《[키스 먼저 할까요](../Page/키스_먼저_할까요.md "wikilink")》 : 2018년 2월 20일 \~ 2018년 4월 24일
   - 《[EXIT](../Page/EXIT_\(드라마\).md "wikilink")》(단막극) : 2018년 4월 30일 \~ 2018년 5월 1일
   - 《[기름진 멜로](../Page/기름진_멜로.md "wikilink")》 : 2018년 5월 7일 \~ 2018년 7월 17일
+  - 《[서른이지만 열일곱입니다](../Page/서른이지만_열일곱입니다.md "wikilink")》 : 2018년 7월 23일 \~ 2018년 9월 18일
   - 《[여우각시별](../Page/여우각시별.md "wikilink")》 : 2018년 10월 1일 \~ 2018년 11월 26일
   - 《[사의 찬미](../Page/사의_찬미_\(드라마\).md "wikilink")》(단막극) : 2018년 11월 27일 \~ 2018년 12월 4일
   - 《[복수가 돌아왔다](../Page/복수가_돌아왔다.md "wikilink")》 : 2018년 12월 10일 \~ 2019년 2월 4일
@@ -418,13 +426,17 @@
   - 《[굿캐스팅](../Page/굿캐스팅.md "wikilink")》 : 2020년 4월 27일 \~ 2020년 6월 16일
   - 《[브람스를 좋아하세요?](https://ko.wikipedia.org/wiki/브람스를_좋아하세요? "wikilink")》 : 2020년 8월 31일 \~ **현재**
   - 《[펜트하우스](https://ko.wikipedia.org/wiki/펜트하우스_\(드라마\) "wikilink")》: 2020년 10월 26일 \~ **방영 예정**
-  - 《[나는 간호사 사람입니다](../Page/나는_간호사_사람입니다.md "wikilink")》: 2020년 12월 21일 \~ **방영 예정**
+
+#### [2021년](../Page/2021년.md "wikilink")
+
+  - 《[나는 간호사 사람입니다](../Page/나는_간호사_사람입니다.md "wikilink")\[2\]》: 2021년 1월 4일 \~ **방영 예정**
 
 ## 같이 보기
 
   - [KBS 2TV 월화 드라마](../Page/KBS_2TV_월화_드라마.md "wikilink")
   - [MBC 월화 드라마](https://ko.wikipedia.org/wiki/MBC_월화_드라마 "wikilink")
-  - [JTBC 월화 드라마](https://ko.wikipedia.org/wiki/JTBC_월화_드라마 "wikilink")
+  - [JTBC 월화 드라마](../Page/JTBC_월화_드라마.md "wikilink")
+  - [MBN 월화 드라마](https://ko.wikipedia.org/wiki/MBN_월화_드라마 "wikilink")
   - [tvN 월화 드라마](https://ko.wikipedia.org/wiki/tvN_월화_드라마 "wikilink")
 
 ## 각주
@@ -434,3 +446,4 @@
 [분류:SBS의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:SBS의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:SBS_월화드라마 "wikilink")
 
 1.
+2.  미니시리즈 작품 중 현직 간호사의 [실화](https://ko.wikipedia.org/wiki/실화 "wikilink")를 바탕으로 한 휴먼 메디컬 드라마이다.

@@ -2735,7 +2735,7 @@ MC<br />
 
 **<big>[2005년](../Page/2005년.md "wikilink") 베스트드레서상</big>**
 
-  - [다니엘 헤니](../Page/다니엘_헤니.md "wikilink"), [홍수아](https://ko.wikipedia.org/wiki/홍수아 "wikilink")
+  - [다니엘 헤니](../Page/다니엘_헤니.md "wikilink"), [홍수아](../Page/홍수아.md "wikilink")
 
 **<big>[2006년](../Page/2006년.md "wikilink") 네티즌이 뽑은 엽기순위</big>**
 

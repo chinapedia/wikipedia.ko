@@ -898,7 +898,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/R리그_2003" title="wikilink">2003</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/백영철" title="wikilink">백영철</a></p></td>
+<td><p><a href="../Page/백영철.md" title="wikilink">백영철</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성남_일화_천마" title="wikilink">성남 일화 천마</a></p></td>
 <td><div style="text-align: center;">
 <p>8</p></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SUPERCAR](https://ko.wikipedia.org/wiki/SUPERCAR).
 
 
-**SUPERCAR**(슈퍼카, )는 나카무라 코지와 이시와타리 준지를 중심으로 결성된 일본의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). [1997년](../Page/1997년.md "wikilink")에 데뷔하여 [2005년](../Page/2005년.md "wikilink") [2월 26일에](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 해산했다. 소속 음반사는 [큔 레코드이다](https://ko.wikipedia.org/wiki/큔_레코드 "wikilink").
+**SUPERCAR**(슈퍼카, )는 나카무라 코지와 이시와타리 준지를 중심으로 결성된 일본의 [록 밴드이다](https://ko.wikipedia.org/wiki/록_밴드 "wikilink"). [1997년](../Page/1997년.md "wikilink")에 데뷔하여 [2005년](../Page/2005년.md "wikilink") [2월 26일에](../Page/2월_26일.md "wikilink") 해산했다. 소속 음반사는 [큔 레코드이다](https://ko.wikipedia.org/wiki/큔_레코드 "wikilink").
 
 ## 멤버
 

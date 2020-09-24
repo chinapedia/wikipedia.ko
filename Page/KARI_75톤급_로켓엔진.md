@@ -7,13 +7,13 @@
 
 [나로호](../Page/나로호.md "wikilink")의 개발 과정에서 러시아와의 공동개발 도중 1단 액체엔진 기술이 이전되지 않았던 점에 대해 사업 초기 단계부터 꾸준히 비판이 나왔었다. 이에 나로호에 이어 발사할 [한국형발사체](https://ko.wikipedia.org/wiki/한국형발사체 "wikilink")에서는 액체엔진 기술을 포함해 자력 개발하기로 정했고\[2\], 이 계획에 따라 75톤급 엔진의 개발이 정해졌다.
 
-75톤급 엔진의 개발에는 나로호 개발 과정에서 독자적으로 개발한 [KARI 30톤급 로켓엔진의](../Page/KARI_30톤급_로켓엔진.md "wikilink") 개발 경험이 크게 도움이 되었다.\[3\] 2009년에는 엔진의 각 부분 체계 시제품을 조립해 시험을 수행하였으며\[4\]\[5\]\[6\]\[7\] 2012년에는 첫 시험용 액체 엔진이 조립을 마쳤다.\[8\] 현재 나로우주센터와 KARI 본원 등에 엔진 시험설비를 증축 하여 시험발사체 인증모델과 비행모델에 들어갈 엔진을 시험중에 있다.
+75톤급 엔진의 개발에는 나로호 개발 과정에서 독자적으로 개발한 [KARI 30톤급 로켓엔진의](../Page/KARI_30톤급_로켓엔진.md "wikilink") 개발 경험이 크게 도움이 되었다.\[3\] 2009년에는 엔진의 각 부분 체계 시제품을 조립해 시험을 수행하였으며\[4\]\[5\]\[6\]\[7\] 2012년에는 첫 시험용 액체 엔진이 조립을 마쳤다.\[8\] 현재 나로우주센터와 KARI 본원 등에 엔진 시험설비를 증축하여 한국형발사체 인증모델과 비행모델에 들어갈 엔진을 시험중에 있다.
 
-75톤급 엔진의 개발이 본격화 된 것은 최초의 시험시제인 EDM(Engine Development Model)\#1호기가 조립되어 나로우주센터의 지상연소시험에서 연소시험이 착수된 2016년 5월부터라고 할 수 있다. 이후 개발시제를 늘려가면서 설계 개선과 연소시험을 통한 검증을 통하여 비행용 모델까지 개발이 진행되었다. 2018년 11월 현재 75톤급 엔진의 100번째 연소시험이 성공리에 수행되었으며, 시험발사체와 한국형발사체를 통해 비행시험을 수행할 예정이다.
+75톤급 엔진의 개발이 본격화 된 것은 최초의 시험시제인 EDM(Engine Development Model)\#1호기가 조립되어 나로우주센터의 지상연소시험에서 연소시험이 착수된 2016년 5월부터라고 할 수 있다. 이후 개발시제를 늘려가면서 설계 개선과 연소시험을 통한 검증을 통하여 비행용 모델까지 개발이 진행되었다. 2018년 11월 75톤급 엔진의 100번째 연소시험이 성공리에 수행되었으며, 시험발사체와 비행시험을 통해 성능을 검증할 예정이다.
 
 ## 설계
 
-75톤급 엔진은 액체산소와 [케로신](https://ko.wikipedia.org/wiki/케로신 "wikilink")을 사용하는 [가스발생기 사이클의](../Page/가스발생기_사이클.md "wikilink") 액체연료 엔진이다. 진공 추력은 75톤, 진공 비추력은 298s이며 재생냉각 방식을 사용한다. 1단과 2단에 각각 들어갈 두가지 버전으로 제작될 예정이며 두 엔진은 기본적으로 동일하지만 1단 엔진의 확대비가 12인 반면 2단 엔진의 확대비는 35이다.\[9\]
+75톤급 엔진은 액체산소와 [케로신](https://ko.wikipedia.org/wiki/케로신 "wikilink")을 사용하는 [가스발생기 사이클의](../Page/가스발생기_사이클.md "wikilink") 액체연료 엔진이다. 진공 추력은 75톤, 진공 비추력은 300s이며 재생냉각 방식을 사용한다. 1단과 2단에 각각 들어갈 두가지 버전으로 제작될 예정이며 두 엔진은 기본적으로 동일하지만 1단 엔진의 확대비가 12인 반면 2단 엔진의 확대비는 35이다.\[9\]
 
 ## 연소시험
 
@@ -28,7 +28,7 @@
 | 진공추력 (tf) | 75.9           | 80.3            |
 | 진공비추력     | 298.6초         | 315.4초          |
 | 혼합비       | 2.209          | 2.209           |
-| 팽창비       | 12             | 25              |
+| 팽창비       | 12             | 35              |
 | 연소시간      | 127초           | 148초            |
 | 챔버압력      | 6.0            | 6.0             |
 
@@ -46,25 +46,44 @@
 
 ## 러시아
 
-KRE-075는 러시아 [앙가라 로켓을](https://ko.wikipedia.org/wiki/앙가라_로켓 "wikilink") 공동개발하는 [나로호](../Page/나로호.md "wikilink") 사업으로 개발된 엔진이다. 1976년 개발을 시작한 [RD-120](../Page/RD-120.md "wikilink") 엔진인데, 중국, 인도에도 기술수출되었다.
+1976년 개발을 시작한 [RD-120](../Page/RD-120.md "wikilink") 엔진인데, 중국, 인도에도 기술수출되었다.
 
   - [RD-120](../Page/RD-120.md "wikilink") 엔진, , 1976년 개발시작, 진공추력 85톤
   - [RD-801](https://ko.wikipedia.org/wiki/RD-801 "wikilink") 엔진, , 1976년 개발시작, 진공추력 136톤
   - [YF-100](https://ko.wikipedia.org/wiki/YF-100 "wikilink") 엔진, , 2000년 개발시작, 진공추력 136톤
   - [SCE-200](../Page/SCE-200.md "wikilink") 엔진, , 2005년 개발시작, 진공추력 200톤
-  - KRE-075 엔진, , 2009년, 진공추력 75톤
-
-한국은 나로호 1단에 사용된 진공추력 200톤 [RD-191](https://ko.wikipedia.org/wiki/RD-191 "wikilink") 엔진을 개발하려고 했지만, 미국의 반대로 무산되었다. [RD-191](https://ko.wikipedia.org/wiki/RD-191 "wikilink") 엔진은 [RD-120](../Page/RD-120.md "wikilink") 엔진 계열 중에서 추력이 가장 큰 버전이다. 우크라이나는 구소련 당시 공화국이었는데, 지금은 친미국가를 선언했고, 구소련 당시 [RD-120](../Page/RD-120.md "wikilink") 엔진 계열은 우크라이나에서 개발, 생산했었다. 친미 선언 이후, 러시아랑 우크라이나는 동일한 제원의 로켓 엔진을 따로 수출하고 있다.
-
-한국은 러시아에서 진공추력 200톤 [RD-191](https://ko.wikipedia.org/wiki/RD-191 "wikilink") 엔진 기술도입이 좌절되자, 우크라이나에서 관련 기술을 도입해 진공추력 75톤 KRE-075 엔진 개발에 성공했다. [누리호](../Page/누리호.md "wikilink") 1단과 2단에 사용될 것이다. 곧 추력을 높여 [KRE-090](https://ko.wikipedia.org/wiki/KRE-090 "wikilink") 엔진을 개발할 계획이다. 진공추력 200톤 [RD-191](https://ko.wikipedia.org/wiki/RD-191 "wikilink") 엔진을 국산화 하고, 이 엔진을 사용하는 러시아 [앙가라 로켓을](https://ko.wikipedia.org/wiki/앙가라_로켓 "wikilink") 카피할 계획이었는데, 미국의 반대로 무산되자, 진공추력 75톤 KRE-075 엔진을 개발해, 미국 [팰컨9](https://ko.wikipedia.org/wiki/팰컨9 "wikilink") 로켓을 카피하겠다고 항우연이 계획을 수정해 발표했다. [팰컨9](https://ko.wikipedia.org/wiki/팰컨9 "wikilink") 로켓의 [멀린 엔진이](https://ko.wikipedia.org/wiki/멀린_엔진 "wikilink") 진공추력 75톤이다. 9개를 묶어서 1단으로 사용한다.
-
-최근에는 다시 또 변경된 계획을 발표했다. 2020년 [누리호](../Page/누리호.md "wikilink")(KSLV-II), 2030년 [중궤도 정지궤도 발사체](../Page/중궤도_정지궤도_발사체.md "wikilink")(KSLV-III)를 발사할 것이며, KSLV-III가 [KRE-090](https://ko.wikipedia.org/wiki/KRE-090 "wikilink") 엔진 9개를 묶은 한국판 팰컨9라고 했다가, 최근에는 계획을 변경하여 미국의 팰컨9 보다는 중국의 [창정 3B](https://ko.wikipedia.org/wiki/창정_3B "wikilink") 카피를 하겠다고 한다.
 
 ## 우크라이나
 
 우크라이나는 소련이 멸망하면서 독립했으며, 최근에 친미를 선언해서 러시아군이 침공하기도 했다. 우크라이나에는 구소련 당시 ICBM을 대량생산하던 [유즈노예 설계국과](https://ko.wikipedia.org/wiki/유즈노예_설계국 "wikilink") [유즈마쉬 기계국이](https://ko.wikipedia.org/wiki/유즈마쉬_기계국 "wikilink") 있다. 연구소와 공장이다. 정부가 친미를 선언하면서 부도위기를 맞았다. 한국이 유즈노예에서 로켓 엔진 기술을 수입했다. 북한도 수입하려다가 저지당했다.
 
 우크라이나는 구소련 당시 로켓의 2단 엔진에 사용되던 것을 자체 국산화 해서, 최초의 우크라이나 1단 엔진 [RD-870](https://ko.wikipedia.org/wiki/RD-870 "wikilink")을 개발했다. 진공추력 89톤, 액체산소/등유를 사용하는데, KRE-075와 비슷하다. 그러나 한국 보다 최신기술인 단계식 연소 사이클을 사용한다.
+
+## 중국
+
+중국은 다양한 로켓 엔진이 있는데, 러시아, 중국, 북한은 액체연료 핵미사일에 [N2O4](https://ko.wikipedia.org/wiki/N2O4 "wikilink")/[UDMH](https://ko.wikipedia.org/wiki/UDMH "wikilink") 연료를 주로 사용한다. 상온에서 저장할 수 있는 [저장성 연료인](https://ko.wikipedia.org/wiki/저장성_연료 "wikilink") 대신에, 유독성 연소가스를 배출한다.
+
+한국의 KRE-075는 [RP-1](https://ko.wikipedia.org/wiki/RP-1 "wikilink")/[LOX](https://ko.wikipedia.org/wiki/LOX "wikilink") 연료를 사용하는데, [RP-1](https://ko.wikipedia.org/wiki/RP-1 "wikilink")은 등유로서 상온에서 저장할 수 있는 [저장성 연료이면서](https://ko.wikipedia.org/wiki/저장성_연료 "wikilink"), 무독성 연소가스를 배출한다. 그러나 [LOX](https://ko.wikipedia.org/wiki/LOX "wikilink")는 [극저온 연료여서](https://ko.wikipedia.org/wiki/극저온_연료 "wikilink"), 로켓 안에 연료를 주입하면 빠른 시간안에 발사하거나 다시 연료를 배출해야만 한다. 등유가 극저온 연료가 아니어서, [세미 극저온 연료라고](https://ko.wikipedia.org/wiki/세미_극저온_연료 "wikilink") 한다. [SS-8](../Page/SS-8.md "wikilink") ICBM이 [RP-1](https://ko.wikipedia.org/wiki/RP-1 "wikilink")/[LOX](https://ko.wikipedia.org/wiki/LOX "wikilink") 연료를 사용한다.
+
+중국의 핵미사일에 사용하는 [N2O4](https://ko.wikipedia.org/wiki/N2O4 "wikilink")/[UDMH](https://ko.wikipedia.org/wiki/UDMH "wikilink") 엔진은 30톤 추력, 80톤 추력이 있다. 80톤 추력 이상의 대형 엔진은 없다. 80톤 추력 엔진을 여러개 묶어서 사용한다. 그런데, 한국과 북한도 30톤 추력, 80톤 추력의 엔진을 개발했다. 즉, 한국과 북한은 중국 수준의 핵미사일용 액체연료 로켓 엔진을 모두 갖추었다고 볼 수 있다.
+
+  - [:en:YF-1](https://ko.wikipedia.org/wiki/:en:YF-1 "wikilink"), , 진공추력 30톤, [N2O4](https://ko.wikipedia.org/wiki/N2O4 "wikilink")/[UDMH](https://ko.wikipedia.org/wiki/UDMH "wikilink") 연료, [DF-4](https://ko.wikipedia.org/wiki/DF-4 "wikilink") ICBM
+  - [:en:YF-20](https://ko.wikipedia.org/wiki/:en:YF-20 "wikilink"), , 진공추력 80톤, [N2O4](https://ko.wikipedia.org/wiki/N2O4 "wikilink")/[UDMH](https://ko.wikipedia.org/wiki/UDMH "wikilink") 연료, [DF-5](../Page/DF-5.md "wikilink") ICBM
+  - [KRE-030](https://ko.wikipedia.org/wiki/KRE-030 "wikilink"), , 진공추력 30톤, [RP-1](https://ko.wikipedia.org/wiki/RP-1 "wikilink")/[LOX](https://ko.wikipedia.org/wiki/LOX "wikilink") 연료
+  - KRE-075, , 진공추력 75톤, [RP-1](https://ko.wikipedia.org/wiki/RP-1 "wikilink")/[LOX](https://ko.wikipedia.org/wiki/LOX "wikilink") 연료
+  - [노동엔진](https://ko.wikipedia.org/wiki/노동엔진 "wikilink"), , 진공추력 30톤, [N2O4](https://ko.wikipedia.org/wiki/N2O4 "wikilink")/[UDMH](https://ko.wikipedia.org/wiki/UDMH "wikilink") 연료, [노동 1호](https://ko.wikipedia.org/wiki/노동_1호 "wikilink") MRBM, [대포동 2호](../Page/대포동_2호.md "wikilink") ICBM
+  - [백두엔진](../Page/백두엔진.md "wikilink"), , 진공추력 80톤, [N2O4](https://ko.wikipedia.org/wiki/N2O4 "wikilink")/[UDMH](https://ko.wikipedia.org/wiki/UDMH "wikilink") 연료, [화성 15호](../Page/화성_15호.md "wikilink") ICBM
+
+비교를 해보면, KRE-075가 ICBM 엔진임을 분명하게 알 수 있다. 그러나 한국 정부는 절대 ICBM이 아니라 우주로켓 엔진이라고 주장한다. 소련은 [RP-1](https://ko.wikipedia.org/wiki/RP-1 "wikilink")/[LOX](https://ko.wikipedia.org/wiki/LOX "wikilink") 연료를 사용한 [SS-8](../Page/SS-8.md "wikilink") ICBM을 10년 정도 실전배치한 적이 있어서, 한국 정부의 주장이 그렇게 설득력이 높은 주장은 아니다.
+
+## 북한
+
+한국의 KRE-075와 북한의 [백두엔진](../Page/백두엔진.md "wikilink")이 개발경쟁을 했다. 서로 연소시험을 누가 먼저하는지 마치 내기라도 하듯이, 개발일정이 비슷했다. 둘 다 진공추력 80톤이다.
+
+  - KRE-075, , 진공추력 80톤, [RP-1](https://ko.wikipedia.org/wiki/RP-1 "wikilink")/[LOX](https://ko.wikipedia.org/wiki/LOX "wikilink") 연료
+      - 2016년 7월 20일 연소시험, 2018년 11월 28일 [누리호 시험발사체](../Page/누리호_시험발사체.md "wikilink") 시험발사
+  - [백두엔진](../Page/백두엔진.md "wikilink"), , 진공추력 80톤, [N2O4](https://ko.wikipedia.org/wiki/N2O4 "wikilink")/[UDMH](https://ko.wikipedia.org/wiki/UDMH "wikilink") 연료
+      - 2016년 9월 20일 연소시험, 2017년 7월 4일 [화성 14호](../Page/화성_14호.md "wikilink") ICBM 시험발사
 
 ## 각주
 

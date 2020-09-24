@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NSB El 16](https://ko.wikipedia.org/wiki/NSB_El_16).
 
 
-**NSB El 16** 전기 기관차는 노르웨이 카고넷에서 화물 열차를 견인하는 기관차이다. [El 18](../Page/NSB_El_18.md "wikilink") 기관차가 도입되기 전까지는 여객 열차 견인에도 사용되었다.
+**NSB El 16** 전기 기관차는 [노르웨이](../Page/노르웨이.md "wikilink") 카고넷에서 화물 열차를 견인하는 기관차이다. [El 18](../Page/NSB_El_18.md "wikilink") 기관차가 도입되기 전까지는 여객 열차 견인에도 사용되었다.
 
 ## 역사
 
@@ -13,4 +13,4 @@
 
   - [Jernbane.net 글](https://web.archive.org/web/20091126150938/http://www.jernbane.net/norge/el/el16/index.asp)
 
-[El 16](https://ko.wikipedia.org/wiki/분류:노르웨이의_철도_차량 "wikilink")
+[El 16](https://ko.wikipedia.org/wiki/분류:노르웨이의_전기_기관차 "wikilink")

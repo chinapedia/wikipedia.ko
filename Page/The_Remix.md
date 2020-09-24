@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Remix](https://ko.wikipedia.org/wiki/The_Remix).
 
 
-***The Remix***는 미국의 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 컴필레이션 리믹스 음반이다.[일본](../Page/일본.md "wikilink")에서 2010년 3월 3일 발매되었고, 한국에서는 2010년 4월 22일 발매되었다. *[The Fame](../Page/The_Fame.md "wikilink")*과 *[The Fame Monster](../Page/The_Fame_Monster.md "wikilink")*에 수록되어있는 노래들을 리믹스로 편곡한 음반이다.일본에서는 5십만장을 넘게 팔아 [음반 판매량 인증에서](../Page/음반_판매량_인증.md "wikilink") '골드'를 인증 받았다.
+***The Remix***는 미국의 가수 [레이디 가가의](../Page/레이디_가가.md "wikilink") 컴필레이션 리믹스 음반이다. [일본](../Page/일본.md "wikilink")에서 2010년 3월 3일 발매되었고, 한국에서는 2010년 4월 22일 발매되었다. *[The Fame](../Page/The_Fame.md "wikilink")*과 *[The Fame Monster](../Page/The_Fame_Monster.md "wikilink")*에 수록되어 있는 노래들을 리믹스로 편곡한 음반이다. 일본에서는 5십만장을 넘게 팔아 [음반 판매량 인증에서](../Page/음반_판매량_인증.md "wikilink") '골드'를 인증받았다.
 
 ## 트랙 리스트
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AMV \(파일 포맷\)](https://ko.wikipedia.org/wiki/AMV_\(파일_포맷\)).
 
 
-**AMV**는 [S1 MP3 플레이어와](../Page/S1_MP3_플레이어.md "wikilink") 같은 [MP4 플레이어에서](../Page/MP4_플레이어.md "wikilink") 재생하기 위해 만들어진 [사유](https://ko.wikipedia.org/wiki/사유_소프트웨어 "wikilink") [멀티미디어](../Page/멀티미디어.md "wikilink") [컨테이너 포맷이다](https://ko.wikipedia.org/wiki/컨테이너_포맷_\(디지털\) "wikilink"). 두 가지의 다른 MTV 포맷이 존재하는데 하나는 액션 칩셋에서 구동하기 위해 만들어졌으며, 다른 하나는 ALi M5661칩셋에서 구동할 수 있도록 만들어졌다. ALi 칩셋용 포맷은 ALIAVI이다.
+**AMV**는 [S1 MP3 플레이어와](../Page/S1_MP3_플레이어.md "wikilink") 같은 [MP4 플레이어에서](../Page/MP4_플레이어.md "wikilink") 재생하기 위해 만들어진 [사유](../Page/사유_소프트웨어.md "wikilink") [멀티미디어](../Page/멀티미디어.md "wikilink") [컨테이너 포맷이다](https://ko.wikipedia.org/wiki/컨테이너_포맷_\(디지털\) "wikilink"). 두 가지의 다른 MTV 포맷이 존재하는데 하나는 액션 칩셋에서 구동하기 위해 만들어졌으며, 다른 하나는 ALi M5661칩셋에서 구동할 수 있도록 만들어졌다. ALi 칩셋용 포맷은 ALIAVI이다.
 
 ## 형식
 

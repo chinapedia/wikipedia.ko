@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VSS 빈토레즈](https://ko.wikipedia.org/wiki/VSS_빈토레즈).
 
 
-**VSS**(, Vintovka Snajperskaya Spetsial'naya)는 **빈토레즈**("수명 절단기"\[1\])로 불리는 저격총으로, 소련의 정밀기계제작중심산업체(TsNIITochMash)에서 개발하였으며, Tula Arms Plant에서 생산하였다. VSS는 [스페츠나츠](../Page/스페츠나츠.md "wikilink")에서 비밀작전에 주로 사용되었으며, 이 점은 기본적인 것만 남겨둔 특별한 수송용 케이스에서 찾아볼 수 있다.
+**VSS**(, Vintovka Snajperskaya Spetsial'naya)는 **빈토레즈**("수명 절단기"\[1\])로 불리는 저격총으로, [소련](../Page/소련.md "wikilink")의 정밀기계제작중심산업체(TsNIITochMash)에서 개발하였으며, Tula Arms Plant에서 생산하였다. VSS는 [스페츠나츠](../Page/스페츠나츠.md "wikilink")에서 비밀작전에 주로 사용되었으며, 이 점은 기본적인 것만 남겨둔 특별한 수송용 케이스에서 찾아볼 수 있다.
 
 ## 디자인 세부사항
 
@@ -16,6 +16,10 @@
 개머리판은 [드라구노프 저격총에](https://ko.wikipedia.org/wiki/드라구노프_저격총 "wikilink") 사용된 나무로 된 개머리판을 대다수 모델이 사용하고 있다. 여기엔 고무로 만든 어깨 패드와 소총에서 떼어낼 수 있게 되어 있다. 최근의 VSS의 개머리판은 높은 강도의 폴리머를 이용하여 개머리판을 제작한다. VSS는 일반적으로 10개의 탄약이 들어가는 탄창과 반자동으로 발사된다. 또한 VSS는 20개의 탄약이 들어가는 탄창과 자동으로 발사되게 할 수도 있다.
 
 빈토레즈는 일반적으로 무거운 아음속탄인 [9x39mm](https://ko.wikipedia.org/wiki/9x39mm "wikilink") SP5탄을 사용한다. 이 탄약은 경화강철 혹은 텅스텐을 탄두에 사용하며, 100m 떨어진 곳에서 밀도가 높은 6mm강철도 관통하며, 2mm 짜리 강철판이나 표준 방탄모 같은 경우엔 500m에서도 관통하지만 일반적으로 400m가 유효사거리로 되어 있다.
+
+## 대중 문화
+
+[배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink"),[배틀그라운드 모바일에서](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink") 9mm탄을 사용하는 총 VSS로 등장한다.
 
 ## 같이 보기
 

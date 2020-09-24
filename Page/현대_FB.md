@@ -5,17 +5,17 @@
 
 ## 특징
 
-전형적인 전방 엔진-후륜 구동(FR) 방식의 버스이다.
+전형적인 전방 엔진-후륜 구동(FR) 방식의 버스다.
 
-  - [1982년](../Page/1982년.md "wikilink") 최초의 모델이 생산되었고, [1986년](../Page/1986년.md "wikilink") 2월 풀 모델 체인지되어 [1992년](../Page/1992년.md "wikilink") 단종 때까지 페이스리프트 없이 계속 생산되었다. 주요 경쟁 차종은 [대우 BF와](../Page/대우_BF.md "wikilink") [AM907이다](https://ko.wikipedia.org/wiki/아시아_AM버스 "wikilink").
+  - [1982년](../Page/1982년.md "wikilink") 최초의 모델이 생산되었고, [1986년](../Page/1986년.md "wikilink") 2월 풀 모델 체인지되어 [1992년](../Page/1992년.md "wikilink") 단종 때까지 페이스리프트 없이 계속 생산되었다. 주요 경쟁 차종은 [대우 BF와](../Page/대우_BF.md "wikilink") [아시아 AM907이다](https://ko.wikipedia.org/wiki/아시아_AM버스 "wikilink").
 
 <!-- end list -->
 
-  - [1982년](../Page/1982년.md "wikilink") 1호차가 라인-오프 했다. [1986년](../Page/1986년.md "wikilink") [1월](../Page/1월.md "wikilink") 현대 FB500가 출시되었으며 [1992년](../Page/1992년.md "wikilink") [1월](../Page/1월.md "wikilink") 단종 되었다.
+  - [1982년](../Page/1982년.md "wikilink") 1호차가 라인-오프 했다. [1986년](../Page/1986년.md "wikilink") [1월](../Page/1월.md "wikilink") 현대 FB500가 출시되었고, [1992년](../Page/1992년.md "wikilink") [1월](../Page/1월.md "wikilink") 단종되었다.
 
-전방 엔진 차량답게 바닥이 1m 정도로 높고 전후 높이가 일정하였으며, 옵션으로 제공되는 냉방 장치는 기본적으로 후방에 서브 엔진 타입으로만 장착되었다\[1\].
+전방 엔진 차량답게 바닥이 1m 정도로 높고 전후 높이가 일정하였고, 옵션으로 제공되는 냉방 장치는 기본적으로 후방에 서브 엔진 타입으로만 장착되었다\[1\].
 
-직렬 6기통 엔진을 사용하였고, 엔진은 FB485에는 대우중공업(현 [두산인프라코어](../Page/두산인프라코어.md "wikilink"))의 D0846HM/V가, FB500에는 미쓰비시의 D6BR 엔진이 장착되었다. 변속기는 기본적으로 전진 5단, 후진 1단 수동변속기를 장착했고, 옵션으로 전진 6단, 후진 1단의 [ZF](https://ko.wikipedia.org/wiki/ZF "wikilink") [수동변속기](../Page/수동변속기.md "wikilink")를 장착할 수 있었다. 서스펜션은 리프 서스펜션(판스프링)을 사용하였다.
+직렬 6기통 엔진을 사용하였고, 엔진은 FB485에는 대우중공업(현 [두산인프라코어](../Page/두산인프라코어.md "wikilink"))의 D0846HM/V가, FB500에는 미쓰비시의 D6BR 엔진이 장착되었다. 변속기는 기본적으로 전진 5단과 후진 1단 수동변속기를 장착했고, 옵션으로 전진 6단과 후진 1단의 [ZF](https://ko.wikipedia.org/wiki/ZF "wikilink") [수동변속기](../Page/수동변속기.md "wikilink")를 장착할 수 있었다. 서스펜션은 리프 서스펜션(판스프링)을 사용하였다.
 
 ## 모델
 
@@ -51,7 +51,7 @@ FB500은 전장 10.2미터급 대형 버스이다. 모델명은 휠베이스\[4\
 
 [FB](https://ko.wikipedia.org/wiki/분류:현대자동차의_버스_차종 "wikilink") [FB](https://ko.wikipedia.org/wiki/분류:버스 "wikilink") [FB](https://ko.wikipedia.org/wiki/분류:1980년대_자동차 "wikilink") [FB](https://ko.wikipedia.org/wiki/분류:1990년대_자동차 "wikilink") [FB](https://ko.wikipedia.org/wiki/분류:1982년_도입된_자동차 "wikilink")
 
-1.  냉방기 가동용 엔진은 그레이스, 포터, 갤로퍼 등에 사용된 [미쓰비시](https://ko.wikipedia.org/wiki/미쓰비시 "wikilink") D4BX 엔진을 사용하였다.
+1.  냉방기 가동용 엔진은 현대 그레이스, 현대 포터, 현대 갤로퍼 등에 사용된 [미쓰비시](https://ko.wikipedia.org/wiki/미쓰비시 "wikilink") D4BX 엔진을 사용하였다.
 2.  전후 차축간 거리를 말한다.
 3.  <http://newslibrary.naver.com/viewer/index.nhn?articleId=1983080400329201024&editNo=2&printCount=1&publishDate=1983-08-04&officeId=00032&pageNo=1&printNo=11646&publishType=00020>
 4.

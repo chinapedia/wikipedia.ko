@@ -145,9 +145,10 @@
 
 ### 2020년
 
-  - [2020년](../Page/2020년.md "wikilink") [1월 24일](../Page/1월_24일.md "wikilink"), [1월 27일](../Page/1월_27일.md "wikilink") : [2020설날](../Page/설날.md "wikilink") [예능 프로그램](https://ko.wikipedia.org/wiki/예능_프로그램 "wikilink") 편성으로 인한 결방
+  - [2020년](../Page/2020년.md "wikilink") [1월 24일](../Page/1월_24일.md "wikilink")\~[1월 27일](../Page/1월_27일.md "wikilink") : [2020설날](../Page/설날.md "wikilink") [예능 프로그램](https://ko.wikipedia.org/wiki/예능_프로그램 "wikilink") 편성으로 인한 결방
   - [2020년](../Page/2020년.md "wikilink") [6월 16일](../Page/6월_16일.md "wikilink") : KBS스포츠 [2020년 KBO 리그](../Page/2020년_KBO_리그.md "wikilink") [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink") VS [NC 다이노스](../Page/NC_다이노스.md "wikilink") 중계방송으로 인한 결방.
   - [2020년](../Page/2020년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink") : KBS스포츠 [2020년 KBO 리그](../Page/2020년_KBO_리그.md "wikilink") 중계방송으로 인한 결방.
+  - [2020년](../Page/2020년.md "wikilink") [9월30일](https://ko.wikipedia.org/wiki/9월30일 "wikilink")\~[10월 2일](../Page/10월_2일.md "wikilink"):[2020추석](../Page/추석.md "wikilink") [예능 프로그램](https://ko.wikipedia.org/wiki/예능_프로그램 "wikilink") [추석특선영화](../Page/추석특선영화.md "wikilink")편성으로 인한 결방
 
 ## 역사
 

@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - **[아시안 클럽 챔피언십](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십 "wikilink")**
+  - **[아시안 클럽 챔피언십](../Page/아시안_클럽_챔피언십.md "wikilink")**
       - 우승: 1988-89
 
 <!-- end list -->

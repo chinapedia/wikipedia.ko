@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fear of Music](https://ko.wikipedia.org/wiki/Fear_of_Music).
 
 
-***Fear of Music***는 [토킹 헤즈가](../Page/토킹_헤즈.md "wikilink") 1979년 발표한 세 번째 앨범이다. 이 앨범은 [브라이언 이노가](../Page/브라이언_이노.md "wikilink") 프로듀서로 참여한 두 번째 토킹 헤즈 앨범이다. 이 앨범은 기존 앨범 작업에서 많이 도입했던 스튜디오 라이브 형식을 버리고, 음향 실험과 스튜디오 작업을 극대화했다. 특히 싱글 "I Zimbra"는 아프로 비트와 월드 뮤직에 대한 관심이 드러나 있는데 이는 [Remain in Light에서](../Page/Remain_in_Light.md "wikilink") 구체화된다. "I Zimbra"는 로버트 프립이 기타로 참여하기도 했다.
+《**Fear of Music**》(피어 오브 뮤직)은 [토킹 헤즈가](../Page/토킹_헤즈.md "wikilink") 1979년 발표한 세 번째 앨범이다. 이 앨범은 [브라이언 이노가](../Page/브라이언_이노.md "wikilink") 프로듀서로 참여한 두 번째 토킹 헤즈 앨범이다. 이 앨범은 기존 앨범 작업에서 많이 도입했던 스튜디오 라이브 형식을 버리고, 음향 실험과 스튜디오 작업을 극대화했다. 특히 싱글 "I Zimbra"는 아프로 비트와 월드 뮤직에 대한 관심이 드러나 있는데 이는 [Remain in Light에서](../Page/Remain_in_Light.md "wikilink") 구체화된다. "I Zimbra"는 로버트 프립이 기타로 참여하기도 했다.
 
 앨범은 빌보드 21위까지 올라갔으며, 영국에서는 33위까지 올라갔다. 1985년 [골드](https://ko.wikipedia.org/wiki/골드 "wikilink") 기록을 따냈다.
 

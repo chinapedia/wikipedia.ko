@@ -11,7 +11,7 @@
 
 ### 정치진출
 
-[1920년대](https://ko.wikipedia.org/wiki/1920년대 "wikilink")에는 [증권](https://ko.wikipedia.org/wiki/증권 "wikilink")계에 종사하며 많은 재산을 모았고, [영화](../Page/영화.md "wikilink")사업과 [부동산](https://ko.wikipedia.org/wiki/부동산 "wikilink") 투자로 재산을 더욱 불렸다. [1920년](../Page/1920년.md "wikilink")대 말, [미국](../Page/미국.md "wikilink")의 대표적인 부자 중 한 사람이 되었다. 이와 함께 [민주당에](../Page/민주당_\(미국\).md "wikilink") 많은 정치자금을 대며 정계에서도 영향력을 확대했다. [프랭클린 루스벨트](https://ko.wikipedia.org/wiki/프랭클린_루스벨트 "wikilink") 대통령과도 인연을 맺어 그의 행정부에서 [1934년](../Page/1934년.md "wikilink") 신설된 [증권 거래 위원회](https://ko.wikipedia.org/wiki/미국_증권_거래_위원회 "wikilink") 초대 회장으로 임명되어 활동했으며, [1938년](../Page/1938년.md "wikilink") \~ [1940년](../Page/1940년.md "wikilink")에는 주 [영국](../Page/영국.md "wikilink") 대사로 재직했다. 아일랜드계가 미국의 주영 대사로 재직하게 된 것은 획기적인 사건이었다.
+[1920년대](https://ko.wikipedia.org/wiki/1920년대 "wikilink")에는 [증권](https://ko.wikipedia.org/wiki/증권 "wikilink")계에 종사하며 많은 재산을 모았고, [영화](../Page/영화.md "wikilink")사업과 [부동산](../Page/부동산.md "wikilink") 투자로 재산을 더욱 불렸다. [1920년](../Page/1920년.md "wikilink")대 말, [미국](../Page/미국.md "wikilink")의 대표적인 부자 중 한 사람이 되었다. 이와 함께 [민주당에](../Page/민주당_\(미국\).md "wikilink") 많은 정치자금을 대며 정계에서도 영향력을 확대했다. [프랭클린 루스벨트](https://ko.wikipedia.org/wiki/프랭클린_루스벨트 "wikilink") 대통령과도 인연을 맺어 그의 행정부에서 [1934년](../Page/1934년.md "wikilink") 신설된 [증권 거래 위원회](https://ko.wikipedia.org/wiki/미국_증권_거래_위원회 "wikilink") 초대 회장으로 임명되어 활동했으며, [1938년](../Page/1938년.md "wikilink") \~ [1940년](../Page/1940년.md "wikilink")에는 주 [영국](../Page/영국.md "wikilink") 대사로 재직했다. 아일랜드계가 미국의 주영 대사로 재직하게 된 것은 획기적인 사건이었다.
 
 ### 교육
 

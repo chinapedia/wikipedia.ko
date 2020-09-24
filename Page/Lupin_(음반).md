@@ -12,7 +12,7 @@
   - 2월 18일 - 카라의 세 번째 미니 앨범 《Lupin》발매
   - [2월 22일](../Page/2월_22일.md "wikilink") - 《Lupin》뮤직비디오 공개
   - [2월 25일](../Page/2월_25일.md "wikilink") - [엠넷](../Page/엠넷.md "wikilink") [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")에서 'Lupin/Umbrella' 컴백 무대
-  - [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") - [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 'Umbrella/Lupin' 컴백 무대, 컴백일에 종합 4위로 랭크
+  - [2월 26일](../Page/2월_26일.md "wikilink") - [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")에서 'Umbrella/Lupin' 컴백 무대, 컴백일에 종합 4위로 랭크
   - [2월 27일](../Page/2월_27일.md "wikilink") - [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [음악중심](https://ko.wikipedia.org/wiki/음악중심 "wikilink")에서 'Lupin/Umbrella' 컴백 무대
   - [2월 28일](../Page/2월_28일.md "wikilink") - [SBS](../Page/SBS.md "wikilink") [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")에서 'Lupin/Umbrella' 컴백 무대
   - [3월 4일](../Page/3월_4일.md "wikilink") - [엠넷](../Page/엠넷.md "wikilink") [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")에서 'Lupin' 으로 주간 1위

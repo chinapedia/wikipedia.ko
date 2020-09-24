@@ -394,11 +394,11 @@
 
 ## 같이 보기
 
-  - [KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink")
+  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
   - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
+  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
   - [CBS 표준FM](../Page/CBS_표준FM.md "wikilink")
   - [가톨릭평화방송](../Page/가톨릭평화방송.md "wikilink")
-  - [원음방송](../Page/원음방송.md "wikilink")
   - [불교방송](../Page/불교방송.md "wikilink")
 
 ## 참조

@@ -11,47 +11,52 @@
 <thead>
 <tr class="header">
 <th><p>이름</p></th>
+<th><p>사진</p></th>
 <th><p>소개</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><strong><a href="../Page/김재중.md" title="wikilink">재중</a></strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:180611_김재중.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 김재중 (金在中)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/충청남도" title="wikilink">충청남도</a> <a href="../Page/공주시.md" title="wikilink">공주시</a></li>
-<li>활동기간 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> ~ 현재</li>
+<li>활동기간 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/김준수_(가수).md" title="wikilink">준수</a></strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:뮤지컬_&#39;데스노트&#39;_제작발표회_김준수.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 김준수 (金俊秀)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
-<li>활동기간 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> ~ 현재</li>
+<li>활동기간 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-### 이전 구성원
+## 이전 구성원
 
 <table>
 <thead>
 <tr class="header">
 <th><p>이름</p></th>
+<th><p>사진</p></th>
 <th><p>소개</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/박유천.md" title="wikilink">유천</a></strong></p></td>
+<td><p><a href="../Page/박유천.md" title="wikilink">유천</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:Yoochun_at_&quot;Birth_of_actor,_Park_Yoochun&quot;_open_talk_at_BIFF,_3_October_2014_03.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
 <li>본명 : 박유천 (朴裕千)</li>
 <li>생년월일 : </li>
-<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a> <a href="https://ko.wikipedia.org/wiki/송파구" title="wikilink">송파구</a></li>
 <li>활동기간 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_23일.md" title="wikilink">4월 23일</a></li>
 </ul></td>
 </tr>

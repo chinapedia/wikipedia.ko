@@ -8,7 +8,7 @@
 ## 주요 선수
 
 ※ 역대 주요 선수는 클럽 통산 100경기 이상 출장, 주장 또는 부주장 역임, 각종 대회 개인상 수상, 각급 국가대표팀 경력을 가진 선수들로 선정되었다.
-※ FC 서울 소속으로 수립한 [K리그 통산 기록](../Page/K리그.md "wikilink")([정규시즌](https://ko.wikipedia.org/wiki/K리그1 "wikilink"), [포스트시즌](../Page/K리그_챔피언십.md "wikilink"), [리그컵](../Page/리그컵_\(대한민국\).md "wikilink"))이며, [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 등 기타 대회 기록은 포함되지 않았다.
+※ FC 서울 소속으로 수립한 [K리그 통산 기록](../Page/K리그.md "wikilink")([정규시즌](https://ko.wikipedia.org/wiki/K리그1 "wikilink"), [포스트시즌](../Page/K리그_챔피언십.md "wikilink"), [리그컵](../Page/리그컵_\(대한민국\).md "wikilink"))이며, [FA컵과](../Page/FA컵_\(대한민국\).md "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 등 기타 대회 기록은 포함되지 않았다.
 ※ 연도의 \* 표시는 은퇴 선수를 의미한다.
 
   - [박병철](../Page/박병철_\(축구인\).md "wikilink") (16경기, 1984\*)
@@ -239,7 +239,7 @@
 통산</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></th>
 <th><p><a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></th>
+<th><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></th>
 <th><p><a href="../Page/FC_서울의_국제클럽대항전.md" title="wikilink">국제클럽<br />
 대항전</a></p></th>
 <th><p>기타<br />
@@ -470,7 +470,7 @@
 통산</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></th>
 <th><p><a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></th>
+<th><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></th>
 <th><p><a href="../Page/FC_서울의_국제클럽대항전.md" title="wikilink">국제클럽<br />
 대항전</a></p></th>
 <th><p>기타<br />
@@ -930,7 +930,7 @@
 통산</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></th>
 <th><p><a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></th>
+<th><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></th>
 <th><p><a href="../Page/FC_서울의_국제클럽대항전.md" title="wikilink">국제클럽<br />
 대항전</a></p></th>
 <th><p>기타<br />
@@ -1241,7 +1241,7 @@
 <td><p><a href="../Page/김봉수_(축구인).md" title="wikilink">김봉수</a></p></td>
 <td></td>
 <td><ul>
-<li>구단 최초 <a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 주장단 (<a href="../Page/FA컵_1998.md" title="wikilink"><span style="color:#ED4000;">1998</span></a>)</li>
+<li>구단 최초 <a href="../Page/FA컵_(대한민국).md" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 주장단 (<a href="../Page/FA컵_1998.md" title="wikilink"><span style="color:#ED4000;">1998</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -1374,7 +1374,7 @@
 <tr class="even">
 <td><p><a href="../Page/차두리.md" title="wikilink">차두리</a></p></td>
 <td><ul>
-<li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 주장단 (<a href="../Page/FA컵_2015.md" title="wikilink"><span style="color:#ED4000;">2015</span></a>)</li>
+<li>구단 2번째 <a href="../Page/FA컵_(대한민국).md" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 주장단 (<a href="../Page/FA컵_2015.md" title="wikilink"><span style="color:#ED4000;">2015</span></a>)</li>
 <li>활동 기간: 2015년 5월 1일–2015시즌 종료[1]</li>
 </ul></td>
 <td></td>

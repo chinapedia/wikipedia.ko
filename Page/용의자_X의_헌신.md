@@ -72,7 +72,7 @@
 ### 개요
 
   - [일본](../Page/일본.md "wikilink")에서 [2008년](../Page/2008년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") 개봉되었고,\[1\] 개봉 후 4주 동안 주말 흥행 수입 1위를 기록했으며,\[2\] 10주 동안 Top 10 안에 들며 장기 흥행했다.\[3\] 일본 내에서 약 49억 2000만 엔의 흥행 수입을 올려서, 그 해 일본의 영화 중에서 흥행 수입 3위를 기록했다.\[4\]
-  - 해외에서는 [홍콩](../Page/홍콩.md "wikilink")에서 같은 해 [12월 24일에](../Page/12월_24일.md "wikilink") 개봉, 홍콩에서도 박스오피스 1위를 차지했다.\[5\] 이후 [싱가포르](../Page/싱가포르.md "wikilink")에서 [2009년](../Page/2009년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"), [대한민국](../Page/대한민국.md "wikilink")에서 같은 해 [4월 9일에](../Page/4월_9일.md "wikilink") 연이어 개봉하였다.
+  - 해외에서는 [홍콩](../Page/홍콩.md "wikilink")에서 같은 해 [12월 24일에](../Page/12월_24일.md "wikilink") 개봉, 홍콩에서도 박스오피스 1위를 차지했다.\[5\] 이후 [싱가포르](../Page/싱가포르.md "wikilink")에서 [2009년](../Page/2009년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink"), [대한민국](../Page/대한민국.md "wikilink")에서 같은 해 [4월 9일에](../Page/4월_9일.md "wikilink") 연이어 개봉하였다.
 
 ### 줄거리
 

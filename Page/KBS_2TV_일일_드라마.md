@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 2TV 일일 드라마](https://ko.wikipedia.org/wiki/KBS_2TV_일일_드라마).
 
 
-**KBS 2TV 일일 드라마**는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 7시 50분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+**KBS 2TV 일일 드라마**는 매주 [월요일](../Page/월요일.md "wikilink")부터 [금요일](../Page/금요일.md "wikilink") 오후 7시 50분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송 중인 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
 ## 일일 드라마 방송 시간
 
@@ -66,7 +66,7 @@
   - 《[여자는 왜?](../Page/여자는_왜?.md "wikilink")》 : 2001년 11월 5일 \~ 2002년 7월 12일
   - 《[결혼합시다](../Page/결혼합시다_\(2002년_드라마\).md "wikilink")》 : 2002년 7월 15일 \~ 2002년 12월 27일
   - 《[헬로\! 발바리](../Page/헬로!_발바리.md "wikilink")》 : 2003년 1월 1일 \~ 2003년 6월 6일
-  - 《[돌아온 뚝배기](../Page/돌아온_뚝배기.md "wikilink")》 : 2008년 6월 2일 \~ 2008년 10월 30일 (이 작품부터 **[HD](../Page/고선명_텔레비전.md "wikilink") 방송**이 시작됨.)
+  - 《[돌아온 뚝배기](../Page/돌아온_뚝배기.md "wikilink")》 : 2008년 6월 2일 \~ 2008년 10월 30일 (본 작품부터 **[HD급](../Page/고선명_텔레비전.md "wikilink") 고화질 방송**이 시작됨.)
 
 ### 2010년대
 
@@ -90,12 +90,12 @@
 ### 2020년대
 
   - 《[위험한 약속](https://ko.wikipedia.org/wiki/위험한_약속 "wikilink")》 : 2020년 3월 30일 \~ 2020년 8월 28일
-  - 《[비밀의 남자](../Page/비밀의_남자.md "wikilink")》 : 2020년 9월 7일 \~ **현재**
+  - 《[비밀의 남자](../Page/비밀의_남자.md "wikilink")》 : 2020년 9월 7일 \~ 2021년 1월 22일
 
 ## 같이 보기
 
   - [KBS 1TV 일일 드라마](../Page/KBS_1TV_일일_드라마.md "wikilink")
   - [MBC 일일 드라마](../Page/MBC_일일_드라마.md "wikilink")
-  - [SBS 일일 드라마](https://ko.wikipedia.org/wiki/SBS_일일_드라마 "wikilink")
+  - [SBS 일일 드라마](../Page/SBS_일일_드라마.md "wikilink")
 
 [분류:한국방송공사의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:한국방송공사_2TV_일일연속극 "wikilink")

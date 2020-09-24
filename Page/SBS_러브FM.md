@@ -5,11 +5,11 @@
 
 ## 개요
 
-주로 [뉴스](../Page/뉴스.md "wikilink"), [시사](../Page/시사.md "wikilink"), [연예](https://ko.wikipedia.org/wiki/연예 "wikilink")오락, [음악](../Page/음악.md "wikilink"), [스포츠](../Page/스포츠.md "wikilink") 등의 종합 정보를 24시간 제공하는 [대한민국](../Page/대한민국.md "wikilink")의 종합 [라디오](../Page/라디오.md "wikilink") [채널](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink") 중 하나이다.
+주로 [뉴스](../Page/뉴스.md "wikilink"), [시사](../Page/시사.md "wikilink"), [연예](../Page/연예.md "wikilink")오락, [음악](../Page/음악.md "wikilink"), [스포츠](../Page/스포츠.md "wikilink") 등의 종합 정보를 24시간 제공하는 [대한민국](../Page/대한민국.md "wikilink")의 종합 [라디오](../Page/라디오.md "wikilink") [채널](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink") 중 하나이다.
 
 서울특별시, 인천광역시, 경기도 전 지역, 충청남도 북부 일부 지역, 충청북도 북부 일부 지역, 강원도 영서 일부 지역에서 청취할 수 있다. 부산, 경남권에서는 [2016년](../Page/2016년.md "wikilink") [5월 10일부터](../Page/5월_10일.md "wikilink") [KNN](../Page/KNN.md "wikilink") 부산경남방송과 제휴하여 [KNN 러브FM에서도](../Page/KNN_러브FM.md "wikilink") 일부 러브FM의 프로그램을 송출하고 있다.
 
-매일 오전 6시 57분과 오후 9시 57분까지는 57분 교통정보, 오전 7시 30분부터 오후 10시 30분까지는 SBS 생활정보가 방송된다. 그 외의 시간대는, 광고 없이\[1\] 59분까지 음악을 내보내고 정시 시보를 내보낸다.
+매일 오전 6시 57분과 오후 9시 57분까지는 57분 교통정보, 오전 8시 30분부터 오후 11시 30분까지는 SBS 생활정보가 방송된다. 그 외의 시간대는, 광고 없이\[1\] 59분까지 음악을 내보내고 정시 시보를 내보낸다.
 
 ## 역사
 
@@ -53,46 +53,158 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
 
 | 방송 채널    | 연도    | 방송 시작 시간 | 방송 종료 시간 | 비고 |
 | -------- | ----- | -------- | -------- | -- |
-| SBS 러브FM | 1991년 | 05:00    | 02:00    |    |
-| 1996년    | 05:00 |          |          |    |
+| SBS 러브FM | 1991년 | 05:00    | 02:00    | 불명 |
+| 1996년    | 05:00 | 02:00    | 불명       |    |
+|          |       |          |          |    |
+|          | 05:00 | 불명       |          |    |
 
 ## 방송 프로그램
 
-**2020년 6월 2일 기준**
+**2020년 9월 17일 기준**
 
-| 방송시간                      | 프로그램 ([KNN](../Page/KNN_러브FM.md "wikilink") 부산경남방송 자체 제작)                                                                                                                                                                                 | [KNN 러브FM](../Page/KNN_러브FM.md "wikilink") (부산경남권)                                                                                   |
-| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 평일                        | 공휴일                                                                                                                                                                                                                                       | 주말                                                                                                                                   |
-| 05:00                     | [유영미의 마음은 언제나 청춘](../Page/마음은_언제나_청춘.md "wikilink")                                                                                                                                                                                       | ○                                                                                                                                    |
-| 06:00                     | [SBS 뉴스](https://ko.wikipedia.org/wiki/SBS_뉴스_\(라디오_프로그램\) "wikilink")                                                                                                                                                                    | [최영아의 책하고 놀자](https://ko.wikipedia.org/wiki/책하고_놀자 "wikilink") (주말)                                                                  |
-| 06:05                     | [고현준의 뉴스브리핑](../Page/뉴스브리핑_\(SBS_러브FM\).md "wikilink")                                                                                                                                                                                    | ○                                                                                                                                    |
-| 07:00                     | [이숙영의 러브FM](../Page/러브FM_\(라디오_프로그램\).md "wikilink")                                                                                                                                                                                      | ○                                                                                                                                    |
-| 09:00                     | [SBS 뉴스](https://ko.wikipedia.org/wiki/SBS_뉴스_\(라디오_프로그램\) "wikilink")                                                                                                                                                                    | ○                                                                                                                                    |
-| 09:05                     | [이철희의 정치쇼](../Page/SBS_정치쇼.md "wikilink") (주말 : [DJ 래피의 드라이브 뮤직](../Page/드라이브_뮤직.md "wikilink")) 1, 2부                                                                                                                                    | ○                                                                                                                                    |
-| 10:00                     | [SBS 뉴스](https://ko.wikipedia.org/wiki/SBS_뉴스_\(라디오_프로그램\) "wikilink") ([KNN 뉴스 (1000)](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1000\) "wikilink")) (주중)</br>([다희씨의 우아한 라디오](https://ko.wikipedia.org/wiki/우아한_라디오 "wikilink") 1, 2부) (주말) | ×                                                                                                                                    |
-| 10:05                     | [이철희의 정치쇼](../Page/SBS_정치쇼.md "wikilink") (주말 : [DJ 래피의 드라이브 뮤직](../Page/드라이브_뮤직.md "wikilink")) 3, 4부</br>([다희씨의 우아한 라디오](https://ko.wikipedia.org/wiki/우아한_라디오 "wikilink") 1, 2부)                                                       | ×                                                                                                                                    |
-| 11:00                     | [허지웅쇼](https://ko.wikipedia.org/wiki/허지웅쇼 "wikilink")</br>([다희씨의 우아한 라디오](https://ko.wikipedia.org/wiki/우아한_라디오 "wikilink") 3, 4부)                                                                                                        | ×                                                                                                                                    |
-| 12:00                     | [SBS 뉴스](https://ko.wikipedia.org/wiki/SBS_뉴스_\(라디오_프로그램\) "wikilink")                                                                                                                                                                    | ○                                                                                                                                    |
-| 12:05                     | [이재익의 시사특공대](https://ko.wikipedia.org/wiki/시사특공대 "wikilink")                                                                                                                                                                              | ○                                                                                                                                    |
-| 14:00                     | [SBS 낮 종합뉴스](../Page/SBS_낮_종합뉴스.md "wikilink") </br>([KNN 뉴스 (1410)](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1410\) "wikilink"))                                                                                                           | [SBS 뉴스](https://ko.wikipedia.org/wiki/SBS_뉴스_\(라디오_프로그램\) "wikilink") (주말)</br>([강영운의 딱좋은 라디오](../Page/딱좋은_라디오.md "wikilink")) (주말) |
-| 14:20 (평일)</br>14:05 (주말) | [나르샤의 아브라카다브라](../Page/아브라카다브라_\(라디오_프로그램\).md "wikilink")</br>([강영운의 딱좋은 라디오](../Page/딱좋은_라디오.md "wikilink")) (평일, 공휴일)                                                                                                                  | ×                                                                                                                                    |
-| 16:00                     | [붐붐파워](../Page/붐붐파워.md "wikilink") ([파워FM](../Page/SBS_파워FM.md "wikilink") 수중계)</br>([오늘 오후 KNN입니다](https://ko.wikipedia.org/wiki/오늘_오후_KNN입니다 "wikilink"))                                                                               | ×                                                                                                                                    |
-| 18:00                     | [SBS 뉴스](https://ko.wikipedia.org/wiki/SBS_뉴스_\(라디오_프로그램\) "wikilink") ([KNN 뉴스 (1800)](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1800\) "wikilink"))                                                                                        | ×                                                                                                                                    |
-| 18:05                     | [집으로 가는 길, 소이현입니다](../Page/집으로_가는_길_\(라디오_프로그램\).md "wikilink")                                                                                                                                                                           | ○                                                                                                                                    |
-| 20:00                     | [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") (TV 수중계)</br>([박민설의 온나라디오](https://ko.wikipedia.org/wiki/온나라디오 "wikilink")) (주말)                                                                                                               | △\[3\]                                                                                                                               |
-| 20:30                     | [신혜성의 음악 오디세이](../Page/음악_오디세이.md "wikilink") </br>([박민설의 온나라디오](https://ko.wikipedia.org/wiki/온나라디오 "wikilink"))                                                                                                                         | ×                                                                                                                                    |
-| 22:00                     | [SBS 뉴스](https://ko.wikipedia.org/wiki/SBS_뉴스_\(라디오_프로그램\) "wikilink") (평일)                                                                                                                                                               | [최백호의 낭만시대](../Page/최백호의_낭만시대.md "wikilink")                                                                                         |
-| 22:05                     | [최백호의 낭만시대](../Page/최백호의_낭만시대.md "wikilink")                                                                                                                                                                                              | ○                                                                                                                                    |
-| 00:00                     | [김태욱의 기분 좋은 밤](../Page/기분_좋은_밤.md "wikilink")                                                                                                                                                                                             | ○                                                                                                                                    |
-| 02:00                     | [이현경의 뮤직토피아](../Page/이현경의_뮤직토피아.md "wikilink")                                                                                                                                                                                            | ○                                                                                                                                    |
-| 04:00                     | [김정일의 생생가요](../Page/생생가요.md "wikilink")                                                                                                                                                                                                   | ○                                                                                                                                    |
-|                           |                                                                                                                                                                                                                                           |                                                                                                                                      |
+<table>
+<thead>
+<tr class="header">
+<th><p>방송시간</p></th>
+<th><p>프로그램 (<a href="../Page/KNN_러브FM.md" title="wikilink">KNN</a> 부산경남방송 자체 제작)</p></th>
+<th><p><a href="../Page/KNN_러브FM.md" title="wikilink">KNN 러브FM</a> (부산경남권)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>평일</p></td>
+<td><p>공휴일</p></td>
+<td><p>주말</p></td>
+</tr>
+<tr class="even">
+<td><p>05:00</p></td>
+<td><p><a href="../Page/마음은_언제나_청춘.md" title="wikilink">유영미의 마음은 언제나 청춘</a></p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="odd">
+<td><p>06:00</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a></p></td>
+<td><p><a href="../Page/책하고_놀자.md" title="wikilink">최영아의 책하고 놀자</a> (주말)</p></td>
+</tr>
+<tr class="even">
+<td><p>06:05</p></td>
+<td><p><a href="../Page/뉴스브리핑_(SBS_러브FM).md" title="wikilink">고현준의 뉴스브리핑</a></p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="odd">
+<td><p>07:00</p></td>
+<td><p><a href="../Page/러브FM_(라디오_프로그램).md" title="wikilink">이숙영의 러브FM</a></p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="even">
+<td><p>09:00</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a></p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="odd">
+<td><p>09:05</p></td>
+<td><p><a href="../Page/SBS_정치쇼.md" title="wikilink">이철희의 정치쇼</a><br />
+(주말 : <a href="../Page/드라이브_뮤직.md" title="wikilink">DJ 래피의 드라이브 뮤직</a>) 1, 2부</p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="even">
+<td><p>10:00</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a> (<a href="https://ko.wikipedia.org/wiki/KNN_뉴스_(1000)" title="wikilink">KNN 뉴스 (1000)</a>) (주중)</br>(<a href="https://ko.wikipedia.org/wiki/우아한_라디오" title="wikilink">다희씨의 우아한 라디오</a> 1, 2부) (주말)</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="odd">
+<td><p>10:05</p></td>
+<td><p><a href="../Page/SBS_정치쇼.md" title="wikilink">이철희의 정치쇼</a> (주말 : <a href="../Page/드라이브_뮤직.md" title="wikilink">DJ 래피의 드라이브 뮤직</a>) 3, 4부</br>(<a href="https://ko.wikipedia.org/wiki/우아한_라디오" title="wikilink">다희씨의 우아한 라디오</a> 1, 2부)</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="even">
+<td><p>11:00</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/허지웅쇼" title="wikilink">허지웅쇼</a></br>(<a href="https://ko.wikipedia.org/wiki/우아한_라디오" title="wikilink">다희 씨의 우아한 라디오</a> 3, 4부)</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="odd">
+<td><p>12:00</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a></p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="even">
+<td><p>12:05</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시사특공대" title="wikilink">이재익의 시사특공대</a></p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="odd">
+<td><p>14:00</p></td>
+<td><p><a href="../Page/SBS_낮_종합뉴스.md" title="wikilink">SBS 낮 종합뉴스</a> </br>(<a href="https://ko.wikipedia.org/wiki/KNN_뉴스_(1410)" title="wikilink">KNN 뉴스 (1410)</a>)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a> (주말)</br>(<a href="../Page/딱좋은_라디오.md" title="wikilink">강영운의 딱좋은 라디오</a>) (주말)</p></td>
+</tr>
+<tr class="even">
+<td><p>14:20 (평일)</br>14:05 (주말)</p></td>
+<td><p><a href="../Page/아브라카다브라_(라디오_프로그램).md" title="wikilink">나르샤의 아브라카다브라</a></br>(<a href="../Page/딱좋은_라디오.md" title="wikilink">강영운의 딱좋은 라디오</a>) (평일, 공휴일)</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="odd">
+<td><p>16:00</p></td>
+<td><p><a href="../Page/붐붐파워.md" title="wikilink">붐붐파워</a> (<a href="../Page/SBS_파워FM.md" title="wikilink">파워FM</a> 수중계)</br>(<a href="https://ko.wikipedia.org/wiki/오늘_오후_KNN입니다" title="wikilink">오늘 오후 KNN입니다</a>)</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="even">
+<td><p>18:00</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a> (<a href="https://ko.wikipedia.org/wiki/KNN_뉴스_(1800)" title="wikilink">KNN 뉴스 (1800)</a>)</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="odd">
+<td><p>18:05</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/황제성의_Ready_Yo_퐝퐝" title="wikilink">황제성의 Ready Yo 퐝퐝</a></p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="even">
+<td><p>20:00</p></td>
+<td><p><a href="../Page/SBS_8_뉴스.md" title="wikilink">SBS 8 뉴스</a> (TV 수중계)</br>(<a href="https://ko.wikipedia.org/wiki/온나라디오" title="wikilink">박민설의 온나라디오</a>) (주말)</p></td>
+<td><p>△[3]</p></td>
+</tr>
+<tr class="odd">
+<td><p>20:30</p></td>
+<td><p><a href="../Page/음악_오디세이.md" title="wikilink">신혜성의 음악 오디세이</a> </br>(<a href="https://ko.wikipedia.org/wiki/온나라디오" title="wikilink">박민설의 온나라디오</a>)</p></td>
+<td><p>×</p></td>
+</tr>
+<tr class="even">
+<td><p>22:00</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/SBS_뉴스_(라디오_프로그램)" title="wikilink">SBS 뉴스</a> (평일)</p></td>
+<td><p><a href="../Page/최백호의_낭만시대.md" title="wikilink">최백호의 낭만시대</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>22:05</p></td>
+<td><p><a href="../Page/최백호의_낭만시대.md" title="wikilink">최백호의 낭만시대</a></p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="even">
+<td><p>00:00</p></td>
+<td><p><a href="../Page/기분_좋은_밤.md" title="wikilink">김태욱의 기분 좋은 밤</a></p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="odd">
+<td><p>02:00</p></td>
+<td><p><a href="../Page/이현경의_뮤직토피아.md" title="wikilink">이현경의 뮤직토피아</a></p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="even">
+<td><p>04:00</p></td>
+<td><p><a href="../Page/생생가요.md" title="wikilink">김정일의 생생가요</a></p></td>
+<td><p>○</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-  - 《[유영미의 마음은 언제나 청춘](../Page/마음은_언제나_청춘.md "wikilink")》, 《[고현준의 뉴스브리핑](../Page/뉴스브리핑_\(SBS_러브FM\).md "wikilink")》, 《[최영아의 책하고 놀자](https://ko.wikipedia.org/wiki/책하고_놀자 "wikilink")》, 《[이숙영의 러브FM](../Page/러브FM_\(라디오_프로그램\).md "wikilink")》, 《[이철희의 정치쇼](../Page/SBS_정치쇼.md "wikilink")》 및 《[DJ 래피의 드라이브 뮤직](../Page/드라이브_뮤직.md "wikilink")》 1, 2부, 《[이재익의 시사특공대](https://ko.wikipedia.org/wiki/시사특공대 "wikilink")》, 《[집으로 가는 길, 소이현입니다](../Page/집으로_가는_길_\(라디오_프로그램\).md "wikilink")》, 《[최백호의 낭만시대](../Page/최백호의_낭만시대.md "wikilink")》, 《[김태욱의 기분 좋은 밤](../Page/기분_좋은_밤.md "wikilink")》, 《[이현경의 뮤직토피아](../Page/이현경의_뮤직토피아.md "wikilink")》, 《[김정일의 생생가요](../Page/생생가요.md "wikilink")》는 지역 자체방송 없이 청취할 수 있다. 단, 주말 오후 시간대 프로그램은 프로야구 중계 관계로 지연될 수 있다.
+  - 《[유영미의 마음은 언제나 청춘](../Page/마음은_언제나_청춘.md "wikilink")》, 《[고현준의 뉴스브리핑](../Page/뉴스브리핑_\(SBS_러브FM\).md "wikilink")》, 《[최영아의 책하고 놀자](../Page/책하고_놀자.md "wikilink")》, 《[이숙영의 러브FM](../Page/러브FM_\(라디오_프로그램\).md "wikilink")》, 《[이철희의 정치쇼](../Page/SBS_정치쇼.md "wikilink")》 및 《[DJ 래피의 드라이브 뮤직](../Page/드라이브_뮤직.md "wikilink")》 1, 2부, 《[이재익의 시사특공대](https://ko.wikipedia.org/wiki/시사특공대 "wikilink")》, 《[황제성의 Ready Yo 퐝퐝](https://ko.wikipedia.org/wiki/황제성의_Ready_Yo_퐝퐝 "wikilink")》, 《[최백호의 낭만시대](../Page/최백호의_낭만시대.md "wikilink")》, 《[김태욱의 기분 좋은 밤](../Page/기분_좋은_밤.md "wikilink")》, 《[이현경의 뮤직토피아](../Page/이현경의_뮤직토피아.md "wikilink")》, 《[김정일의 생생가요](../Page/생생가요.md "wikilink")》는 지역 자체방송 없이 청취할 수 있다. 단, 주말 오후 시간대 프로그램은 프로야구 중계 관계로 지연될 수 있다.
 
 <!-- end list -->
 
-  - 오전 6시 57분부터 오후 9시 57분까지 57분 교통정보와, 오전 7시 26분, 오후 2시 56분, 오후 4시 56분, 오후 9시 56분에는 [사랑으로 하나되는 세상](https://ko.wikipedia.org/wiki/사랑으로_하나되는_세상 "wikilink"), 오전 9시 56분에는 SBS 희망리포트, 오전 10시 56분, 낮 12시 30분에는 SBS 우리말 지킴이, 오전 10시 30분, 오후 1시 30분, 오후 3시 30분, 오후 10시 30분에는 SBS 생활정보가 방송된다.
+  - 오전 6시 57분부터 오후 9시 57분까지 57분 교통정보와, 오전 7시 26분, 오후 2시 56분, 오후 4시 56분, 오후 9시 56분에는 [사랑으로 하나되는 세상](https://ko.wikipedia.org/wiki/사랑으로_하나되는_세상 "wikilink"), 오전 9시 56분에는 SBS 희망리포트, 오전 10시 56분, 낮 12시 30분에는 SBS 우리말 지킴이, 오전 10시 30분, 오후 1시 30분, 오후 3시 30분, 오후 10시 30분, 오후 11시 30분에는 SBS 생활정보가 방송된다.
 
 ## 수신 가능 지역
 
@@ -101,7 +213,7 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
   - 심야 시간에 AM 792㎑를 통해 전국에서 청취할 수 있지만 중국방송과 혼선이 매우 심각하며 기상 상태에 따라서 수신률이 유동적으로 변동될 수 있다. 최근에 오디오 레벨이 원 상태로 복구되어 수신하기가 원활하다.
   - 경상남도의 경우 KNN 러브FM을 통해 부산광역시와 동일하게 SBS 러브FM 일부 프로그램과 지역 자체방송을 청취할 수 있다.
 
-2019년 5월 기준으로 부산광역시·경상남도 권역의 청취 불가 지역은 거창 감악산 중계소 영향권인 거창, 함양등 서북부경남권 지역이다.
+2019년 5월 기준으로 부산광역시·경상남도 권역의 청취 불가 지역은 거창 감악산 중계소 영향권인 거창, 함양등 경남 서북부권 지역이다.
 
 ## 특집 프로그램
 
@@ -147,22 +259,11 @@ SBS 러브FM의 경우 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikil
 
 ## 제공 시보
 
-2013년 \~ 2014년에는 롯데카드가 30분 시보 재개되었고, 2014년 \~ 2016년에는 현대자동차가 30분 시보 재개되었다. 2017년부터 현대자동차가 모든 홀수 정각 시보 재개되면서 현재 르노삼성자동차가 30분 시보 재개되면서 일부 시간대에 공백을 매꿨다.
-
 ### 정각 시보
 
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")
   - [기아자동차](../Page/기아자동차.md "wikilink")
   - [SK텔레콤](../Page/SK텔레콤.md "wikilink")
-
-### 정각 시보 (고릴라용)
-
-  - 눔 다이어트
-  - 메리츠화재
-  - [EBS](https://ko.wikipedia.org/wiki/EBS "wikilink")중학 프리미엄
-  - 안나올츠 폼클렌징
-  - 돌아온 방탄꼭지
-  - 서울문화예술대학교
 
 ### 30분 시보
 
@@ -171,23 +272,17 @@ SBS 러브FM의 경우 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikil
   - [삼성화재](https://ko.wikipedia.org/wiki/삼성화재 "wikilink")
   - [롯데카드](../Page/롯데카드.md "wikilink")
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink")
-
-### 30분 시보 (고릴라용)
-
-  - 메리츠화재
+  - [태영건설](../Page/태영건설.md "wikilink")
 
 ## 로고송
 
 ## 같이 보기
 
-※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 경제형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
-
-  - [KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink")
+  - [표준FM](../Page/표준FM.md "wikilink")
+  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
+  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
   - [CBS 표준FM](../Page/CBS_표준FM.md "wikilink")
-  - [가톨릭평화방송](../Page/가톨릭평화방송.md "wikilink")
-  - [불교방송](../Page/불교방송.md "wikilink")
-  - [원음방송](../Page/원음방송.md "wikilink")
-  - [YTN News FM](../Page/YTN라디오.md "wikilink")
+  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
 
 ## 각주
 

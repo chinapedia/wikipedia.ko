@@ -49,7 +49,7 @@
 <td><div style="text-align: center;">
 <p>N/A</p></td>
 <td><p><a href="../Page/수원_삼성_블루윙즈.md" title="wikilink">수원 삼성 블루윙즈</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십" title="wikilink">아시안 클럽 챔피언십</a> 우승</p></td>
+<td><p><a href="../Page/아시안_클럽_챔피언십.md" title="wikilink">아시안 클럽 챔피언십</a> 우승</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/K리그_2004.md" title="wikilink">2004</a></p></td>

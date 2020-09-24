@@ -76,7 +76,7 @@
   - [캐딜락](../Page/캐딜락.md "wikilink") - [CTS](../Page/캐딜락_CTS.md "wikilink"), [XTS](https://ko.wikipedia.org/wiki/캐딜락_XTS "wikilink")
   - [볼보](../Page/볼보자동차.md "wikilink") - [S90](../Page/볼보_S90.md "wikilink")
   - [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink") - [Q70](https://ko.wikipedia.org/wiki/인피니티_Q70 "wikilink")
-  - [링컨](../Page/링컨_\(자동차\).md "wikilink") - [MKZ](https://ko.wikipedia.org/wiki/링컨_MKZ "wikilink")
+  - [링컨](../Page/링컨_\(자동차\).md "wikilink") - [MKZ](../Page/링컨_MKZ.md "wikilink")
 
 ## 외부 링크
 

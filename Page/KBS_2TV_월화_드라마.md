@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 2TV 월화 드라마](https://ko.wikipedia.org/wiki/KBS_2TV_월화_드라마).
 
 
-**KBS 2TV 월화 드라마**는 매주 [월요일](../Page/월요일.md "wikilink")부터 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink")까지 밤 9시 30분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink"). 대부분 미니 시리즈 형식으로 현재 방영되고 있으며 장편 드라마도 방영되었다. [2019년](../Page/2019년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") 《**[조선로코 - 녹두전](https://ko.wikipedia.org/wiki/조선로코_-_녹두전 "wikilink")**》 최종회를 마지막 작품으로 이후 일시 중단되었다가 [2020년](../Page/2020년.md "wikilink") [4월 6일부터](../Page/4월_6일.md "wikilink") 《**[계약우정](https://ko.wikipedia.org/wiki/계약우정_\(드라마\) "wikilink")**》을 시작으로 부활하여 방영중이다.
+**KBS 2TV 월화 드라마**는 매주 [월요일](../Page/월요일.md "wikilink")부터 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink")까지 밤 9시 30분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink"). 대부분 미니 시리즈 형식으로 현재 방영되고 있으며 장편 드라마도 방영되었다. [2019년](../Page/2019년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") 《**[조선로코 - 녹두전](https://ko.wikipedia.org/wiki/조선로코_-_녹두전 "wikilink")**》 최종회를 마지막 작품으로 이후 일시 중단되었다가 [2020년](../Page/2020년.md "wikilink") [4월 6일부터](../Page/4월_6일.md "wikilink") 《**[계약 우정](https://ko.wikipedia.org/wiki/계약우정_\(드라마\) "wikilink")**》을 시작으로 부활하여 방영 중이다.
 
 ## 방송 시간
 
@@ -313,7 +313,7 @@
 
   - 《[쾌걸춘향](../Page/쾌걸춘향.md "wikilink")》 : 2005년 1월 3일 \~ 2005년 3월 1일 (미니시리즈)
   - 《[열여덟 스물아홉](../Page/열여덟_스물아홉.md "wikilink")》 : 2005년 3월 7일 \~ 2005년 4월 26일 (미니시리즈)
-  - 《[러브홀릭](../Page/러브홀릭_\(드라마\).md "wikilink")》 : 2005년 5월 2일 \~ 2005년 6월 21일 (미니시리즈) \<이 작품부터 **고선명 텔레비전|HD 방송**\>
+  - 《[러브홀릭](../Page/러브홀릭_\(드라마\).md "wikilink")》 : 2005년 5월 2일 \~ 2005년 6월 21일 (미니시리즈) \<이 작품부터 **HD급 고화질 방송**\>
   - 《[그녀가 돌아왔다](../Page/그녀가_돌아왔다.md "wikilink")》 : 2005년 6월 27일 \~ 2005년 8월 16일 (미니시리즈)
   - 《[웨딩](../Page/웨딩_\(드라마\).md "wikilink")》 : 2005년 8월 23일 \~ 2005년 10월 25일 (미니시리즈)
   - 《[이 죽일 놈의 사랑](../Page/이_죽일_놈의_사랑.md "wikilink")》 : 2005년 10월 31일 \~ 2005년 12월 20일 (미니시리즈)
@@ -333,7 +333,7 @@
   - 《[헬로\! 애기씨](../Page/헬로!_애기씨.md "wikilink")》 : 2007년 3월 19일 \~ 2007년 5월 8일 (미니시리즈)
   - 《[꽃 찾으러 왔단다](../Page/꽃_찾으러_왔단다.md "wikilink")》 : 2007년 5월 14일 \~ 2007년 7월 3일 (미니시리즈)
   - 《[한성별곡](../Page/한성별곡.md "wikilink")》 : 2007년 7월 9일 \~ 2007년 7월 31일 (미니시리즈)
-  - 《[아이 엠 샘](../Page/아이_엠_샘_\(드라마\).md "wikilink")》 : 2007년 8월 6일 \~ 2007년 10월 2일 (월화드라마)
+  - 《[아이 엠 샘](../Page/아이_엠_샘_\(드라마\).md "wikilink")》 : 2007년 8월 6일 \~ 2007년 10월 2일 (미니시리즈)
   - 《[얼렁뚱땅 흥신소](../Page/얼렁뚱땅_흥신소.md "wikilink")》 : 2007년 10월 8일 \~ 2007년 11월 27일 (미니시리즈)
   - 《[못된 사랑](../Page/못된_사랑.md "wikilink")》 : 2007년 12월 3일 \~ 2008년 2월 12일 (미니시리즈)
 
@@ -352,7 +352,7 @@
   - 《[남자이야기](../Page/남자이야기_\(드라마\).md "wikilink")》 : 2009년 4월 6일 \~ 2009년 6월 9일 (미니시리즈)
   - 《[결혼 못하는 남자](../Page/결혼_못하는_남자_\(2009년_드라마\).md "wikilink")》 : 2009년 6월 15일 \~ 2009년 8월 4일 (미니시리즈)
   - 《[전설의 고향](../Page/전설의_고향.md "wikilink")》 : 2009년 8월 10일 \~ 2009년 9월 8일
-  - 《[공주가 돌아왔다](../Page/공주가_돌아왔다.md "wikilink")》 : 2009년 9월 14일 \~ 2009년 11월 3일 (미니시리즈)
+  - 《[공주가 돌아왔다](../Page/공주가_돌아왔다.md "wikilink")》 : 2009년 9월 14일 \~ 2009년 11월 3일 (월화드라마)
   - 《[천하무적 이평강](../Page/천하무적_이평강.md "wikilink")》 : 2009년 11월 9일 \~ 2009년 12월 29일 (미니시리즈)
 
 ### 2010년대
@@ -457,13 +457,15 @@
   - 《[계약 우정](https://ko.wikipedia.org/wiki/계약우정_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink")
   - 《[본 어게인](https://ko.wikipedia.org/wiki/본_어게인_\(드라마\) "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink") (이 작품까지 1회당 35분씩 2회 분할 편성됨)
   - 《[그놈이 그놈이다](https://ko.wikipedia.org/wiki/그놈이_그놈이다 "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") (본 작품부터 오후 9시 30분으로 방송 시간 변경됨과 동시에 1회당 **1부 40분**, **2부 30분** 분할 방송됨)
-  - 《[좀비 탐정](../Page/좀비탐정_\(드라마\).md "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink")
+  - 《[좀비 탐정](../Page/좀비탐정_\(드라마\).md "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") (**예능 드라마**로 방영됨)
+
+#### 2021년
 
 ## 같이 보기
 
   - [MBC 월화 드라마](https://ko.wikipedia.org/wiki/MBC_월화_드라마 "wikilink")
-  - [SBS 월화 드라마](https://ko.wikipedia.org/wiki/SBS_월화_드라마 "wikilink")
-  - [JTBC 월화 드라마](https://ko.wikipedia.org/wiki/JTBC_월화_드라마 "wikilink")
+  - [SBS 월화 드라마](../Page/SBS_월화_드라마.md "wikilink")
+  - [JTBC 월화 드라마](../Page/JTBC_월화_드라마.md "wikilink")
   - [tvN 월화 드라마](https://ko.wikipedia.org/wiki/tvN_월화_드라마 "wikilink")
 
 [한국방송공사_월화드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사_월화드라마 "wikilink") [분류:한국방송공사의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink")

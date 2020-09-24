@@ -77,36 +77,31 @@
 
 ## 시보 멘트
 
-  - 수도권 : 아름다운 라디오 93.9㎒ CBS 음악FM입니다. H.L.K.Y. OOO이(가) OO시를 알려드립니다. 4초 시보음(광고가 있을 때에 쓰인다.)
+  - 수도권 : 아름다운 라디오 93.9㎒ CBS 음악FM입니다. H.L.K.Y. OOO이(가) OO시를 알려드립니다. 4초 시보음
 
 <!-- end list -->
 
-  - 부산 : 아름다운 라디오 102.1㎒, 서부산 105.3㎒ 부산CBS 음악FM입니다. H.L.K.P. OOO이(가) OO시를 알려드립니다. 4초 시보음(광고가 있을 때에 쓰인다.)
+  - 부산 : 아름다운 라디오 102.1㎒, 서부산 105.3㎒ 부산CBS 음악FM입니다. H.L.K.P. (상동)
 
 <!-- end list -->
 
-  - 대구 : 새로운 음악세상 FM 97.1㎒ 대구CBS 음악FM입니다. H.L.K.T. OOO이(가) OO시를 알려드립니다. 4초 시보음(광고가 있을 때에 쓰인다.)
+  - 대구 : 새로운 음악세상 FM 97.1㎒ 대구CBS 음악FM입니다. H.L.K.T. (상동)
 
 <!-- end list -->
 
-  - 대구 : 새로운 음악세상 97.1㎒ 여러분의 CBS 음악FM입니다. H.L.K.T. OOO이(가) OO시를 알려드립니다. 4초 시보음(광고가 있을 때에 쓰인다.)
+  - 대구 : 새로운 음악세상 97.1㎒ 여러분의 CBS 음악FM입니다. H.L.K.T. (상동)
 
 <!-- end list -->
 
-  - 광주 : 아름다운 라디오 FM 98.1㎒ HLEM-FM. 광주CBS 음악FM입니다. OOO이(가) OO시를 알려드립니다. 4초 시보음(광고가 있을 때에 쓰인다.)
+  - 광주 : 아름다운 라디오 FM 98.1㎒ HLEM-FM. 광주CBS 음악FM입니다. (상동)
 
 ## 같이 보기
 
-※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 의무형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
-
-  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
-  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
-  - [EBS FM](../Page/EBS_FM.md "wikilink")
+  - [음악FM](../Page/음악FM.md "wikilink")
+  - [KBS 제1FM](../Page/KBS_제1FM.md "wikilink")
+  - [KBS 제2FM](../Page/KBS_제2FM.md "wikilink")
   - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
   - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
-  - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
-  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
-  - [극동방송](../Page/극동방송.md "wikilink")
 
 ## 각주
 

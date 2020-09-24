@@ -63,12 +63,14 @@
   - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 경남 \<[MBC경남 창원](../Page/MBC경남_창원방송.md "wikilink")·[MBC경남 진주](../Page/MBC경남_진주방송.md "wikilink")(주말)\>
   - [MBC 뉴스데스크](../Page/MBC_뉴스데스크.md "wikilink") 경남(MBC경남 진주방송 뉴스데스크) \<[MBC경남 진주](../Page/MBC경남_진주방송.md "wikilink")(평일)\>
 
+## 각주
+
 ## 외부 링크
 
   - [KNN 공식 홈페이지](http://www.knn.co.kr)
   - [KNN 뉴스아이 공식페이지](http://www.knn.co.kr/category/news/newseye)
 
-[분류:KNN의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_뉴스_텔레비전_프로그램 "wikilink") [분류:KNN의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_뉴스_라디오_프로그램 "wikilink") [분류:SBS 네트워크 협정 지역 민영 방송국](https://ko.wikipedia.org/wiki/분류:SBS_네트워크_협정_지역_민영_방송국 "wikilink")
+[분류:KNN의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_뉴스_텔레비전_프로그램 "wikilink") [분류:KNN의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:KNN의_뉴스_라디오_프로그램 "wikilink")
 
 1.  [황범](https://ko.wikipedia.org/wiki/황범 "wikilink") 아나운서(現. [KNN 모닝와이드](../Page/KNN_모닝와이드.md "wikilink") 앵커)는 1년 만에 평일 KNN 뉴스아이 재진행.
 2.  김제현 아나운서의 휴가로 인하여, 2020년 8월 10일 \~ 2020년 8월 14일 방송분은 [KNN 모닝와이드의](../Page/KNN_모닝와이드.md "wikilink") 앵커인 [황범](https://ko.wikipedia.org/wiki/황범 "wikilink") 아나운서가 대신 진행했다.

@@ -3,6 +3,8 @@
 
 **DSP 미디어**()는 [1991년](../Page/1991년.md "wikilink")에 설립된 [대한민국](../Page/대한민국.md "wikilink")의 종합 [엔터테인먼트](https://ko.wikipedia.org/wiki/엔터테인먼트 "wikilink") 회사이다. 한밭기획 전무이사였던 [이호연](../Page/이호연.md "wikilink")이 [소방차의](https://ko.wikipedia.org/wiki/소방차_\(음악_그룹\) "wikilink") 성공을 바탕으로 독립하여 설립한 회사로서, 음반 기획 및 제작, 연예인 매니지먼트에 이어 이후 스타 마케팅, 레코딩 스튜디오, 음반 유통 등 관련 분야를 확장해나갔다. 2005년부터 [방송](../Page/방송.md "wikilink") 영상 제작까지 영역을 확장하여 종합 엔터테인먼트사로서의 면모를 갖추었다. 연예인 매니지 먼트, 음반제작, 방송 콘텐츠(TV드라마, 예능프로그램)를 제작, 공급함으로써 종합 문화 콘텐츠 회사를 지향한다. 참고로 한밭기획에서 이호연의 부하로 일하고 있던 [김태송](https://ko.wikipedia.org/wiki/김태송 "wikilink") 역시 이호연이 독립할 당시 같이 독립해서 [TS엔터테인먼트](https://ko.wikipedia.org/wiki/TS엔터테인먼트 "wikilink")를 설립했다. DSP 미디어는 현재 [허영지](../Page/허영지.md "wikilink"), [에이프릴](../Page/에이프릴_\(음악_그룹\).md "wikilink"), [이현주](https://ko.wikipedia.org/wiki/이현주_\(가수\) "wikilink"), [카드](../Page/카드_\(음악_그룹\).md "wikilink"), [손동표](../Page/손동표.md "wikilink") 등의 연예인이 있다. DSP 미디어의 대표적인 드라마(외주제작)는 《[마이걸](https://ko.wikipedia.org/wiki/마이걸_\(드라마\) "wikilink")》과 《[연개소문](../Page/연개소문_\(드라마\).md "wikilink")》, 《[외과의사 봉달희](https://ko.wikipedia.org/wiki/외과의사_봉달희 "wikilink")》 등이 있으며, 대표적인 예능 프로그램(외주제작)에는 《박수홍 최원정의 여유만만》, 《경제비타민》, 《좋은나라 운동본부》 등이 있다. 90년대 중후반 및 2000년대 초중반 [SM 엔터테인먼트와](../Page/SM_엔터테인먼트.md "wikilink") 라이벌 구도를 형성하며 아이돌 산업의 양대산맥을 이루었다.\[1\] 2010년 3월 [이호연](../Page/이호연.md "wikilink") 사장이 뇌출혈로 쓰러지며 아내인 최미경이 대표이사를 대행하는 체제로 바뀌었는데, 예전만큼의 위상을 보여주지 못하고 있다는 평가이다.\[2\]\[3\] 이호연 사장은 오랜 투병 생활 끝에 [2018년](../Page/2018년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") 항년 64세로 별세하였다.\[4\]
 
+이호연 사장이 사망했음에도 불구하고 이호연 사장이 운영하던 시절처럼 인재를 발굴해서 바로 데뷔시키는 버릇을 고치지 못하고 있으며 이로인해 회사의 미래는 매우 어둡다. 실제로도 [에이프릴](../Page/에이프릴_\(음악_그룹\).md "wikilink") 이후 5년 동안 가수 런칭이 전혀 이루어지지 않고 있으며 그 [에이프릴마저](../Page/에이프릴_\(음악_그룹\).md "wikilink") 아이돌 세계에서 하위권을 전전하는 [걸 그룹으로](../Page/걸_그룹.md "wikilink") 전락했다. 실제로도 하위권 걸그룹인 [CLC도](../Page/CLC_\(음악_그룹\).md "wikilink") No로 음악방송 1위를 획득했음에도 [에이프릴은](../Page/에이프릴_\(음악_그룹\).md "wikilink") 아직까지 음악방송 1위가 없다. 또한 발굴된 인물을 보더라도 이호연 사장이 직접 발굴한 [이효리](../Page/이효리.md "wikilink")는 40살이 넘어서도 계속 인기 절정의 가수로 활동하고 있는 반면 이호연 사장이 병원에 입원한 이후 발굴된 [윤채경](../Page/윤채경.md "wikilink")은 [PRODUCE 101에서](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink") [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")로 선발되지 못했으며 [V-1](../Page/V-1.md "wikilink")에서도 예선탈락 하는 등 가수로서의 가치가 그리 높지 않다.
+
 ## 연혁
 
   - [1991년](../Page/1991년.md "wikilink") [10월](../Page/10월.md "wikilink") 한밭기획에서 소방차를 기획하였던 이호연씨가 독립하여 대성기획 창립
@@ -95,7 +97,7 @@
 <li>김효수</li>
 <li><a href="https://ko.wikipedia.org/wiki/엄지선" title="wikilink">엄지선</a></li>
 <li>2Shai</li>
-<li><a href="https://ko.wikipedia.org/wiki/샤인_(듀오)" title="wikilink">Shyne</a>(샤인)</li>
+<li><a href="../Page/샤인_(듀오).md" title="wikilink">Shyne</a>(샤인)</li>
 <li><a href="https://ko.wikipedia.org/wiki/선하" title="wikilink">선하</a></li>
 <li><a href="https://ko.wikipedia.org/wiki/A&#39;st1" title="wikilink">A'st1</a></li>
 <li><a href="../Page/유혜인.md" title="wikilink">유혜인</a> (<a href="../Page/퓨리티.md" title="wikilink">퓨리티</a> 전 멤버), 현 <a href="https://ko.wikipedia.org/wiki/높은_엔터테인먼트" title="wikilink">높은 엔터테인먼트</a> 소속 <a href="../Page/배우.md" title="wikilink">배우</a></li>
@@ -160,7 +162,7 @@
   - [KBS 2TV](../Page/KBS_2TV.md "wikilink") 방방곡곡
   - [KBS 2TV](../Page/KBS_2TV.md "wikilink") 빅마마
   - [KBS 2TV](../Page/KBS_2TV.md "wikilink") WOW 화제와 현장
-  - [KBS N](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 게릴라 24시 노래방
+  - [KBS N](../Page/KBS_N.md "wikilink") 게릴라 24시 노래방
   - [KBS N sports](https://ko.wikipedia.org/wiki/KBS_N_sports "wikilink") [날아라 슛돌이 2](../Page/날아라_슛돌이.md "wikilink")
   - [KBS N sports](https://ko.wikipedia.org/wiki/KBS_N_sports "wikilink") [날아라 슛돌이 3](../Page/날아라_슛돌이.md "wikilink")
   - [KBS joy](https://ko.wikipedia.org/wiki/KBS_joy "wikilink") 이창명의 사생결단

@@ -20,408 +20,462 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>2019</p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a> '''</p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/노바크_조코비치" title="wikilink">노바크 조코비치</a> '''</p></td>
+<td><p>6-0, 4-6, 6-1</p></td>
+</tr>
+<tr class="even">
+<td><p>2018</p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a> '''</p></td>
+<td><p><strong>알렉산더 즈베레프</strong></p></td>
+<td><p>6-1, 1-6, 6-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017</p></td>
+<td><p><strong>알렉산더 즈베레프</strong></p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/노바크_조코비치" title="wikilink">노바크 조코비치</a> '''</p></td>
+<td><p>6-4, 6-3</p></td>
+</tr>
+<tr class="even">
+<td><p>2016</p></td>
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/앤디_머리" title="wikilink">앤디 머레이</a></strong></p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/노바크_조코비치" title="wikilink">노바크 조코비치</a> '''</p></td>
+<td><p>6-3, 6-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015</p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/노바크_조코비치" title="wikilink">노바크 조코비치</a> '''</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/로저_페더러" title="wikilink">로저 페더러</a></p></td>
+<td><p>6-4, 6-3</p></td>
+</tr>
+<tr class="even">
+<td><p>2014</p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/노바크_조코비치" title="wikilink">노바크 조코비치</a> '''</p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a> '''</p></td>
+<td><p>4-6, 6-3, 6-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>2013</p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a> '''</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/로저_페더러" title="wikilink">로저 페더러</a></p></td>
+<td><p>6-1, 6-3</p></td>
+</tr>
+<tr class="even">
+<td><p>2012</p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a> '''</p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/노바크_조코비치" title="wikilink">노바크 조코비치</a> '''</p></td>
+<td><p>7-5, 6-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>2011</p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/노바크_조코비치" title="wikilink">노바크 조코비치</a> '''</p></td>
+<td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a> '''</p></td>
+<td><p>6-4, 6-4</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2010_Internazionali_BNL_d&#39;Italia_–_Men&#39;s_Singles" title="wikilink">2010</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a></p></td>
 <td><p><a href="../Page/다비드_페레르.md" title="wikilink">다비드 페레르</a></p></td>
 <td><p>7–5, 6–2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2009_Internazionali_BNL_d&#39;Italia_–_Men&#39;s_Singles" title="wikilink">2009</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/노바크_조코비치" title="wikilink">노바크 조코비치</a></p></td>
 <td><p>7–6(2), 6–2</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2008_Rome_Masters_-_Men&#39;s_Singles" title="wikilink">2008</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/노바크_조코비치" title="wikilink">노바크 조코비치</a></p></td>
 <td><p><a href="../Page/스타니슬라스_바브링카.md" title="wikilink">스타니슬라스 바브링카</a></p></td>
 <td><p>4–6, 6–3, 6–3</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2007_Internazionali_BNL_d&#39;Italia_–_Men&#39;s_Singles" title="wikilink">2007</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a></p></td>
 <td><p><a href="../Page/페르난도_곤살레스.md" title="wikilink">페르난도 곤살레스</a></p></td>
 <td><p>6–2, 6–2</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2006_Internazionali_BNL_d&#39;Italia_–_Men&#39;s_Singles" title="wikilink">2006</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로저_페더러" title="wikilink">로저 페더러</a></p></td>
 <td><p>6–7(0), 7–6(5), 6–4, 2–6, 7–6(5)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2005_Internazionali_BNL_d&#39;Italia_–_Men&#39;s_Singles" title="wikilink">2005</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/라파엘_나달" title="wikilink">라파엘 나달</a></p></td>
 <td><p><a href="../Page/기예르모_코리아.md" title="wikilink">기예르모 코리아</a></p></td>
 <td><p>6–4, 3–6, 6–3, 4–6, 7–6(6)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2004_Internazionali_BNL_d&#39;Italia_-_Men&#39;s_Singles" title="wikilink">2004</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/카를로스_모야" title="wikilink">카를로스 모야</a></p></td>
 <td><p><a href="../Page/다비드_날반디안.md" title="wikilink">다비드 날반디안</a></p></td>
 <td><p>6–3, 6–3, 6–1</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2003_Internazionali_BNL_d&#39;Italia_-_Men&#39;s_Singles" title="wikilink">2003</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/펠릭스_만티야" title="wikilink">펠릭스 만티야</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/로저_페더러" title="wikilink">로저 페더러</a></p></td>
 <td><p>7–5, 6–2, 7–6(8)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2002_Internazionali_BNL_d&#39;Italia_-_Men&#39;s_Singles" title="wikilink">2002</a></p></td>
 <td><p>'''<a href="../Page/앤드리_애거시.md" title="wikilink">앤드리 애거시</a></p></td>
 <td><p><a href="../Page/토미_하스.md" title="wikilink">토미 하스</a></p></td>
 <td><p>6–3, 6–3, 6–0</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2001_Rome_Masters_-_Men&#39;s_Singles" title="wikilink">2001</a></p></td>
 <td><p>'''<a href="../Page/후안_카를로스_페레로.md" title="wikilink">후안 카를로스 페레로</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/구스타부_쿠에르텡" title="wikilink">구스타부 쿠에르텡</a></p></td>
 <td><p>3–6, 6–1, 2–6, 6–4, 6–2</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:2000_Rome_Masters_-_Men&#39;s_Singles" title="wikilink">2000</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/망누스_노르만" title="wikilink">망누스 노르만</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/구스타부_쿠에르텡" title="wikilink">구스타부 쿠에르텡</a></p></td>
 <td><p>6–3, 4–6, 6–4, 6–4</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1999_Italian_Open_-_Men&#39;s_Singles" title="wikilink">1999</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/구스타부_쿠에르텡" title="wikilink">구스타부 쿠에르텡</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/패트리_라프터" title="wikilink">패트리 라프터</a></p></td>
 <td><p>6–4, 7–5, 7–6(6)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1998_Italian_Open_-_Men&#39;s_Singles" title="wikilink">1998</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/마르셀로_리오스" title="wikilink">마르셀로 리오스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/알베르트_코스타" title="wikilink">알베르트 코스타</a></p></td>
 <td><p>부전승 (부상)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1997_Italian_Open_-_Men&#39;s_Singles" title="wikilink">1997</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/알렉스_코레자" title="wikilink">알렉스 코레자</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마르셀로_리오스" title="wikilink">마르셀로 리오스</a></p></td>
 <td><p>7–5, 7–5, 6–3</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1996_Italian_Open_-_Men&#39;s_Singles" title="wikilink">1996</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/토마스_무스터" title="wikilink">토마스 무스터</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/리하르트_크라이첵" title="wikilink">리하르트 크라이첵</a></p></td>
 <td><p>6–2, 6–4, 3–6, 6–3</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1995_Italian_Open_-_Men&#39;s_Singles" title="wikilink">1995</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/토마스_무스터" title="wikilink">토마스 무스터</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/세르지_브루게라" title="wikilink">세르지 브루게라</a></p></td>
 <td><p>3–6, 7–6(5), 6–2, 6–3</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1994_Rome_Masters_-_Men&#39;s_Singles" title="wikilink">1994</a></p></td>
 <td><p>'''<a href="../Page/피트_샘프러스.md" title="wikilink">피트 샘프러스</a></p></td>
 <td><p><a href="../Page/보리스_베커.md" title="wikilink">보리스 베커</a></p></td>
 <td><p>6–1, 6–2, 6–2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1993_Rome_Masters_-_Men&#39;s_Singles" title="wikilink">1993</a></p></td>
 <td><p>'''<a href="../Page/짐_쿠리어.md" title="wikilink">짐 쿠리어</a></p></td>
 <td><p><a href="../Page/고란_이바니셰비치.md" title="wikilink">고란 이바니셰비치</a></p></td>
 <td><p>6–1, 6–2, 6–2</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1992_Italian_Open_-_Men&#39;s_Singles" title="wikilink">1992</a></p></td>
 <td><p>'''<a href="../Page/짐_쿠리어.md" title="wikilink">짐 쿠리어</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카를로스_코스타" title="wikilink">카를로스 코스타</a></p></td>
 <td><p>7–6, 6–0, 6–4</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1991_Italian_Open_-_Men&#39;s_Singles" title="wikilink">1991</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/에밀리오_산체스" title="wikilink">에밀리오 산체스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/알베르토_만시니" title="wikilink">알베르토 만시니</a></p></td>
 <td><p>6–3, 6–1, 3–0 (기권)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:1990_Peugeot_Italian_Open_-_Men&#39;s_Singles" title="wikilink">1990</a></p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/토마스_무스터" title="wikilink">토마스 무스터</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/앤드리이_체스노코프" title="wikilink">앤드리이 체스노코프</a></p></td>
 <td><p>6–1, 6–3, 6–1</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1989</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/알베르토_만시니" title="wikilink">알베르토 만시니</a></p></td>
 <td><p><a href="../Page/앤드리_애거시.md" title="wikilink">앤드리 애거시</a></p></td>
 <td><p>6–3, 4–6, 2–6, 7–6, 6–1</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1988</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/이반_렌들" title="wikilink">이반 렌들</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/기예르모_페레스롤단" title="wikilink">기예르모 페레스롤단</a></p></td>
 <td><p>2–6, 6–4, 6–2, 4–6, 6–4</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/매츠_빌랜더" title="wikilink">매츠 빌랜더</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Martín_Jaite" title="wikilink">Martín Jaite</a></p></td>
 <td><p>6–3, 6–4, 6–4</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1986</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/이반_렌들" title="wikilink">이반 렌들</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/에밀리오_산체스" title="wikilink">에밀리오 산체스</a></p></td>
 <td><p>7–5, 4–6, 6–1, 6–1</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1985</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/야니크_노아" title="wikilink">야니크 노아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Miloslav_Mečíř" title="wikilink">Miloslav Mečíř</a></p></td>
 <td><p>6–3, 3–6, 6–2, 7–6</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1984</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/앤드리스_고메스" title="wikilink">앤드리스 고메스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Aaron_Krickstein" title="wikilink">Aaron Krickstein</a></p></td>
 <td><p>2–6, 6–1, 6–2, 6–2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1983</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/Jimmy_Arias" title="wikilink">Jimmy Arias</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/José_Higueras" title="wikilink">José Higueras</a></p></td>
 <td><p>6–2, 6–7, 6–1, 6–4</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1982</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/앤드리스_고메스" title="wikilink">앤드리스 고메스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엘리엇_텔처" title="wikilink">엘리엇 텔처</a></p></td>
 <td><p>6–2, 6–3, 6–2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1981</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/호세루이스_클레르크" title="wikilink">호세루이스 클레르크</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Víctor_Pecci" title="wikilink">Víctor Pecci</a></p></td>
 <td><p>6–3, 6–4, 6–0</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1980</p></td>
 <td><p>'''<a href="../Page/기예르모_빌라스.md" title="wikilink">기예르모 빌라스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/야니크_노아" title="wikilink">야니크 노아</a></p></td>
 <td><p>6–0, 6–4, 6–4</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1979</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/비터스_제럴라이티스" title="wikilink">비터스 제럴라이티스</a></p></td>
 <td><p><a href="../Page/기예르모_빌라스.md" title="wikilink">기예르모 빌라스</a></p></td>
 <td><p>6–7, 7–6, 6–7, 6–4, 6–2</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1978</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/비외른_보리" title="wikilink">비외른 보리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/아드리아노_파나타" title="wikilink">아드리아노 파나타</a></p></td>
 <td><p>1–6, 6–3, 6–1, 4–6, 6–3</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1977</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/비터스_제럴라이티스" title="wikilink">비터스 제럴라이티스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/안토니오_추가렐리" title="wikilink">안토니오 추가렐리</a></p></td>
 <td><p>6–2, 7–6, 3–6, 7–6</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1976</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/아드리아노_파나타" title="wikilink">아드리아노 파나타</a></p></td>
 <td><p><a href="../Page/기예르모_빌라스.md" title="wikilink">기예르모 빌라스</a></p></td>
 <td><p>2–6, 7–6, 6–2, 7–6</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1975</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/라울_라미레스" title="wikilink">라울 라미레스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마누엘_오란테스" title="wikilink">마누엘 오란테스</a></p></td>
 <td><p>7–6, 7–5, 7–5</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1974</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/비외른_보리" title="wikilink">비외른 보리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/일리에_나스타시" title="wikilink">일리에 나스타시</a></p></td>
 <td><p>6–3, 6–4, 6–2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1973</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/일리에_나스타시" title="wikilink">일리에 나스타시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마누엘_오란테스" title="wikilink">마누엘 오란테스</a></p></td>
 <td><p>6–1, 6–1, 6–1</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1972</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/마누엘_오란테스" title="wikilink">마누엘 오란테스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/얀_코데시" title="wikilink">얀 코데시</a></p></td>
 <td><p>4–6, 6–1, 7–5, 6–2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1971</p></td>
 <td><p>'''<a href="../Page/로드_레이버.md" title="wikilink">로드 레이버</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/얀_코데시" title="wikilink">얀 코데시</a></p></td>
 <td><p>7–5, 6–3, 6–3</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1970</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/일리에_나스타시" title="wikilink">일리에 나스타시</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/얀_코데시" title="wikilink">얀 코데시</a></p></td>
 <td><p>6–3, 1–6, 6–3, 8–6</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1969</p></td>
 <td><p>'''<a href="../Page/존_뉴컴.md" title="wikilink">존 뉴컴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/토니_로체" title="wikilink">토니 로체</a></p></td>
 <td><p>6–3, 4–6, 6–2, 5–7, 6–3</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1968</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/톰_오케르" title="wikilink">톰 오케르</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/밥_휴잇" title="wikilink">밥 휴잇</a></p></td>
 <td><p>10–8, 6–8, 6–1, 1–6, 6–0</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1967</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/마티_멀리건" title="wikilink">마티 멀리건</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/토니_로체" title="wikilink">토니 로체</a></p></td>
 <td><p>6–3, 0–6, 6–4, 6–1</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1966</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/토니_로체" title="wikilink">토니 로체</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/니콜라_피에트라녤리" title="wikilink">니콜라 피에트라녤리</a></p></td>
 <td><p>11–9, 6–1, 6–3</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1965</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/마티_멀리건" title="wikilink">마티 멀리건</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/마누엘_산타나" title="wikilink">마누엘 산타나</a></p></td>
 <td><p>1–6, 6–4, 6–3, 6–1</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1964</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/얀에리크_룬드크비스트" title="wikilink">얀에리크 룬드크비스트</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/프레드_스톨" title="wikilink">프레드 스톨</a></p></td>
 <td><p>1–6, 7–5, 6–3, 6–1</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1963</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/마티_멀리건" title="wikilink">마티 멀리건</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/보로_요바노비치" title="wikilink">보로 요바노비치</a></p></td>
 <td><p>6–2, 4–6, 6–3, 8–6</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1962</p></td>
 <td><p>'''<a href="../Page/로드_레이버.md" title="wikilink">로드 레이버</a></p></td>
 <td><p><a href="../Page/로이_에머슨.md" title="wikilink">로이 에머슨</a></p></td>
 <td><p>6–2, 1–6, 3–6, 6–3, 6–1</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1961</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/니콜라_피에트라녤리" title="wikilink">니콜라 피에트라녤리</a></p></td>
 <td><p><a href="../Page/로드_레이버.md" title="wikilink">로드 레이버</a></p></td>
 <td><p>6–8, 6–1, 6–1, 6–2</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1960</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/배리_매케이" title="wikilink">배리 매케이</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/루이스_아얄라" title="wikilink">루이스 아얄라</a></p></td>
 <td><p>7–5, 7–5, 0–6, 0–6, 6–1</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1959</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/루이스_아얄라" title="wikilink">루이스 아얄라</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/닐_프레이저" title="wikilink">닐 프레이저</a></p></td>
 <td><p>6–3, 3–6, 6–3, 6–3</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1958</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/머빈_로즈" title="wikilink">머빈 로즈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/니콜라_피에트라녤리" title="wikilink">니콜라 피에트라녤리</a></p></td>
 <td><p>5–7, 8–6, 6–4, 1–6, 6–2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1957</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/니콜라_피에트라녤리" title="wikilink">니콜라 피에트라녤리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/주세페_메를로" title="wikilink">주세페 메를로</a></p></td>
 <td><p>8–6, 6–2, 6–4</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1956</p></td>
 <td><p>'''<a href="../Page/루_호드.md" title="wikilink">루 호드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스벤_다비드손" title="wikilink">스벤 다비드손</a></p></td>
 <td><p>7–5, 6–2, 6–0</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1955</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/파우스토_가르디니" title="wikilink">파우스토 가르디니</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/주세페_메를로" title="wikilink">주세페 메를로</a></p></td>
 <td><p>1–6, 6–1, 3–6, 6–6 (기권)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1954</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/Budge_Patty" title="wikilink">Budge Patty</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엔리케_모레아" title="wikilink">엔리케 모레아</a></p></td>
 <td><p>11–9, 6–4, 6–4</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1953</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/야로슬라프_드로브니" title="wikilink">야로슬라프 드로브니</a></p></td>
 <td><p><a href="../Page/루_호드.md" title="wikilink">루 호드</a></p></td>
 <td><p>6–2, 6–1, 6–2</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1952</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/프랭크_세지먼" title="wikilink">프랭크 세지먼</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/야로슬라프_드로브니" title="wikilink">야로슬라프 드로브니</a></p></td>
 <td><p>7–5, 6–3, 1–6, 6–4</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1951</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/야로슬라프_드로브니" title="wikilink">야로슬라프 드로브니</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/잔니_쿠첼리" title="wikilink">잔니 쿠첼리</a></p></td>
 <td><p>6–1, 10–8, 6–0</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1950</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/야로슬라프_드로브니" title="wikilink">야로슬라프 드로브니</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/윌리엄_탤버트" title="wikilink">윌리엄 탤버트</a></p></td>
 <td><p>6–4, 6–3, 7–9, 6–2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1936-1949</p></td>
 <td><p><em>대회 미개최</em></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1935</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/윌머_하인스" title="wikilink">윌머 하인스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조반니_팔미에리" title="wikilink">조반니 팔미에리</a></p></td>
 <td><p>6–3, 10–8, 9–7</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1934</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/조반니_팔미에리" title="wikilink">조반니 팔미에리</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조르조_데스테파니" title="wikilink">조르조 데스테파니</a></p></td>
 <td><p>6–3, 6–0, 7–5</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1933</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/에마누엘레_사르토리오" title="wikilink">에마누엘레 사르토리오</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/Martin_Legeay" title="wikilink">Martin Legeay</a></p></td>
 <td><p>6–3, 6–1, 6–3</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1932</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/앙드레_메를랭" title="wikilink">앙드레 메를랭</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/조지_휴스" title="wikilink">조지 휴스</a></p></td>
 <td><p>6–1, 5–7, 6–0, 8–6</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1931</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/조지_휴스" title="wikilink">조지 휴스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/앙리_코셰" title="wikilink">앙리 코셰</a></p></td>
 <td><p>6–4, 6–3, 6–2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1930</p></td>
 <td><p>'''<a href="https://ko.wikipedia.org/wiki/빌_틸던" title="wikilink">빌 틸던</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/움베르토_데무르푸르고" title="wikilink">움베르토 데무르푸르고</a></p></td>
@@ -1480,7 +1534,7 @@
 
 ## 기록
 
-  - [라파엘 나달](https://ko.wikipedia.org/wiki/라파엘_나달 "wikilink"): 남자 단식 최다 우승 (4회)
+  - [라파엘 나달](https://ko.wikipedia.org/wiki/라파엘_나달 "wikilink"): 남자 단식 최다 우승 (9회)
   - [라파엘 나달](https://ko.wikipedia.org/wiki/라파엘_나달 "wikilink"): 남자 단식 최다 연속 우승 (3회, 2005–07년)
   - [크리스 에버트](../Page/크리스_에버트.md "wikilink"): 여자 단식 최다 우승 (5회)
   - [콘치타 마르티네스](https://ko.wikipedia.org/wiki/콘치타_마르티네스 "wikilink"): 여자 단식 최다 연속 우승 (4회, 1993–96년)

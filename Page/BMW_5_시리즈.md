@@ -83,7 +83,7 @@
   - [기아](../Page/기아자동차.md "wikilink") - [K9](../Page/기아_K9.md "wikilink")
   - [제네시스](../Page/제네시스_\(자동차\).md "wikilink") - [G80](../Page/제네시스_G80.md "wikilink")
   - [재규어](../Page/재규어_자동차.md "wikilink") - [XF](../Page/재규어_XF.md "wikilink")
-  - [링컨](https://ko.wikipedia.org/wiki/링컨_자동차 "wikilink") - [MKZ](https://ko.wikipedia.org/wiki/링컨_MKZ "wikilink")
+  - [링컨](https://ko.wikipedia.org/wiki/링컨_자동차 "wikilink") - [MKZ](../Page/링컨_MKZ.md "wikilink")
   - [렉서스](../Page/렉서스.md "wikilink") - [ES](../Page/렉서스_ES.md "wikilink"), [GS](../Page/렉서스_GS.md "wikilink")
   - [캐딜락](../Page/캐딜락.md "wikilink") - [CTS](../Page/캐딜락_CTS.md "wikilink"), [XTS](https://ko.wikipedia.org/wiki/캐딜락_XTS "wikilink")
   - [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink") - [Q70](https://ko.wikipedia.org/wiki/인피니티_Q70 "wikilink")

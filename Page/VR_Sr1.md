@@ -160,4 +160,4 @@ Sr1 기관차는 현재 핀란드 철도에서 가장 많이 사용하는 기관
   - [기관차 사진](http://olaviahokas.com/trainstuff/oavr.html)
   - [기관차 사진 2](http://www.railfaneurope.net/pix/fi/electric/Sr1/pix.html)
 
-[분류:전기 기관차](https://ko.wikipedia.org/wiki/분류:전기_기관차 "wikilink") [Sr1](https://ko.wikipedia.org/wiki/분류:핀란드의_철도_차량 "wikilink")
+[Sr1](https://ko.wikipedia.org/wiki/분류:핀란드의_전기_기관차 "wikilink")

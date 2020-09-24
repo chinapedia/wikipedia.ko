@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS 아침 드라마](https://ko.wikipedia.org/wiki/SBS_아침_드라마).
 
 
-**SBS 아침 드라마**는 매주 평일 [아침](https://ko.wikipedia.org/wiki/아침 "wikilink") 8시 35분에 방송 중인 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+**SBS 아침 드라마**는 매주 [월요일](../Page/월요일.md "wikilink")부터 [금요일](../Page/금요일.md "wikilink") 오전 8시 35분에 방송 중인 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
 ## 방송 시간
 
@@ -80,7 +80,7 @@
   - 《[고독의 문](../Page/고독의_문.md "wikilink")》 : 1991년 12월 10일 \~ 1992년 5월 16일
   - 《[겨울새](../Page/겨울새_\(1992년_드라마\).md "wikilink")》 : 1992년 5월 18일 \~ 1992년 10월 10일
   - 《[가을 여자](https://ko.wikipedia.org/wiki/가을_여자 "wikilink")》 : 1992년 10월 12일 \~ 1993년 4월 3일
-  - 《[사랑의 조건](https://ko.wikipedia.org/wiki/사랑의_조건_\(1993년_드라마\) "wikilink")》 : 1993년 4월 5일 \~ 1993년 9월 25일
+  - 《[사랑의 조건](../Page/사랑의_조건_\(1993년_드라마\).md "wikilink")》 : 1993년 4월 5일 \~ 1993년 9월 25일
   - 《[여자의 거울](../Page/여자의_거울.md "wikilink")》 : 1993년 9월 27일 \~ 1994년 2월 12일
   - 《[행복하고 싶어요](https://ko.wikipedia.org/wiki/행복하고_싶어요 "wikilink")》 : 1994년 2월 14일 \~ 1994년 7월 9일
   - 《[성냥갑 속의 여자](../Page/성냥갑_속의_여자.md "wikilink")》 : 1994년 7월 11일 \~ 1994년 11월 26일
@@ -96,7 +96,7 @@
   - 《[포옹](../Page/포옹_\(1998년_드라마\).md "wikilink")》 : 1998년 9월 21일 \~ 1998년 12월 31일
   - 《[지금은 사랑할 때](../Page/지금은_사랑할_때_\(1999년_드라마\).md "wikilink")》 : 1999년 1월 4일 \~ 1999년 5월 22일
   - 《[그녀의 선택](../Page/그녀의_선택.md "wikilink")》 : 1999년 5월 24일 \~ 1999년 10월 9일
-  - 《[첼로](https://ko.wikipedia.org/wiki/첼로_\(드라마\) "wikilink")》 : 1999년 10월 11일 \~ 2000년 2월 26일
+  - 《[첼로](../Page/첼로_\(드라마\).md "wikilink")》 : 1999년 10월 11일 \~ 2000년 2월 26일
 
 ### 2000년대
 
@@ -152,8 +152,8 @@
 
 ### 2020년대
 
-  - 《[엄마가 바람났다](https://ko.wikipedia.org/wiki/엄마가_바람났다 "wikilink")》 : 2020년 5월 4일 \~ 2020년 10월 16일
-  - 《[불새](https://ko.wikipedia.org/wiki/불새_\(2020년_드라마\) "wikilink")》 : 2020년 10월 19일 \~ 2021년 4월 2일
+  - 《[엄마가 바람났다](https://ko.wikipedia.org/wiki/엄마가_바람났다 "wikilink")》 : 2020년 5월 4일 \~ 2020년 10월 23일
+  - 《[불새](https://ko.wikipedia.org/wiki/불새_\(2020년_드라마\) "wikilink")》 : 2020년 10월 26일 \~ 2021년 4월 9일
 
 ## 같이 보기
 

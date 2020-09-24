@@ -28,7 +28,7 @@
 
 #### 컵
 
-  - **[FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")**
+  - **[FA컵](../Page/FA컵_\(대한민국\).md "wikilink")**
 
 <!-- end list -->
 
@@ -591,7 +591,7 @@
 
     <div id="2">
 
-    당시 공식 대회명칭은 [전국축구선수권대회](../Page/전국축구선수권대회.md "wikilink")로 2001년 [FA컵대회로](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 통합되었다.
+    당시 공식 대회명칭은 [전국축구선수권대회](../Page/전국축구선수권대회.md "wikilink")로 2001년 [FA컵대회로](../Page/FA컵_\(대한민국\).md "wikilink") 통합되었다.
 
     </div>
 
@@ -700,7 +700,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></td>
+<td><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></td>
 <td><p>N/A</p></td>
 <td><p><strong>1996–2016</strong></p></td>
 <td><p><strong>57</strong></p></td>
@@ -1325,7 +1325,7 @@
 <tr class="odd">
 <td><p><strong>최다 득점차 승리</strong></p></td>
 <td><p>9점차</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></td>
+<td><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></td>
 <td><p>2004-12-14</p></td>
 <td><p>파주 범우</p></td>
 <td><p><a href="../Page/양산종합운동장.md" title="wikilink">N</a></p></td>
@@ -1973,7 +1973,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 ## 선수
 
   - 1984–2019 시즌 기준
-  - 최다 출장 기록, 최다 득점 기록, 최다 무실점 기록, 최다 실점률 기록은 [K리그 통산 기록](../Page/K리그.md "wikilink")([정규시즌](https://ko.wikipedia.org/wiki/K리그1 "wikilink"), [포스트시즌](../Page/K리그_챔피언십.md "wikilink"), [리그컵](../Page/리그컵_\(대한민국\).md "wikilink"))과 [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 기록을 합산한 통산 기록이다.
+  - 최다 출장 기록, 최다 득점 기록, 최다 무실점 기록, 최다 실점률 기록은 [K리그 통산 기록](../Page/K리그.md "wikilink")([정규시즌](https://ko.wikipedia.org/wiki/K리그1 "wikilink"), [포스트시즌](../Page/K리그_챔피언십.md "wikilink"), [리그컵](../Page/리그컵_\(대한민국\).md "wikilink"))과 [FA컵과](../Page/FA컵_\(대한민국\).md "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 기록을 합산한 통산 기록이다.
   - [친선경기](https://ko.wikipedia.org/wiki/FC_서울의_친선경기 "wikilink") 기록은 제외되었다.
   - 최다 도움 기록과 최다 공격포인트 기록은 공식 도움 기록이 제공되는 [K리그 통산 기록으로만](../Page/K리그.md "wikilink") 계산되었다.
   - 기타 대회와 경기수는 다음과 같다
@@ -1998,7 +1998,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 통산</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></th>
 <th><p><a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></th>
+<th><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></th>
 <th><p><a href="../Page/FC_서울의_국제클럽대항전.md" title="wikilink">국제클럽<br />
 대항전</a></p></th>
 <th><p>기타<br />
@@ -2236,7 +2236,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 통산</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></th>
 <th><p><a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></th>
+<th><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></th>
 <th><p><a href="../Page/FC_서울의_국제클럽대항전.md" title="wikilink">국제클럽<br />
 대항전</a></p></th>
 <th><p>기타<br />
@@ -2690,7 +2690,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 통산</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></th>
 <th><p><a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></th>
+<th><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></th>
 <th><p><a href="../Page/FC_서울의_국제클럽대항전.md" title="wikilink">국제클럽<br />
 대항전</a></p></th>
 <th><p>기타<br />
@@ -2905,7 +2905,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 통산</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></th>
 <th><p><a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></th>
+<th><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></th>
 <th><p><a href="../Page/FC_서울의_국제클럽대항전.md" title="wikilink">국제클럽<br />
 대항전</a></p></th>
 <th><p>기타<br />
@@ -3180,7 +3180,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/정조국.md" title="wikilink">정조국</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></td>
+<td><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></td>
 <td><p>2004-12-14</p></td>
 <td><p>파주 범우</p></td>
 <td><p><a href="../Page/양산종합운동장.md" title="wikilink">N</a></p></td>
@@ -3301,7 +3301,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <th><p>이름</p></th>
 <th><p>통산</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></th>
+<th><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></th>
 <th><p><a href="../Page/AFC_챔피언스리그.md" title="wikilink">ACL</a></p></th>
 <th><p>시즌</p></th>
 <th><p>비고</p></th>
@@ -3387,7 +3387,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></td>
+<td><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최용수_(축구인)" title="wikilink">최용수</a></p></td>
 <td><p><strong>5</strong></p></td>
 <td><p>3</p></td>
@@ -3469,7 +3469,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></td>
+<td><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></td>
 <td><p><a href="../Page/김용대_(축구_선수).md" title="wikilink">김용대</a></p></td>
 <td><p><strong>2</strong></p></td>
 <td><p>3</p></td>
@@ -3576,7 +3576,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><p><strong>6경기<br />
 (4득점, 5도움)</strong></p></td>
 <td><p>2012/04/29–2012/05/28</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a> 포함</p></td>
+<td><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a> 포함</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>연속 무실점 경기</strong></p></td>
@@ -4371,7 +4371,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <td><p>1998-11-25</p></td>
 <td><p>1997–1998</p></td>
 <td><ul>
-<li>구단 최초 <a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 감독 (<a href="../Page/FA컵_1998.md" title="wikilink"><span style="color:#ED4000;">1998</span></a>)</li>
+<li>구단 최초 <a href="../Page/FA컵_(대한민국).md" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 감독 (<a href="../Page/FA컵_1998.md" title="wikilink"><span style="color:#ED4000;">1998</span></a>)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -4446,7 +4446,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <li>2012시즌부터 정식 감독으로 승격</li>
 <li>구단 2번째 서울 선수 출신 감독</li>
 <li>구단 5번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 감독 (<a href="https://ko.wikipedia.org/wiki/K리그_2012" title="wikilink"><span style="color:#DAA520;">2012</span></a>)</li>
-<li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 감독 (<a href="../Page/FA컵_2015.md" title="wikilink"><span style="color:#ED4000;">2015</span></a>)</li>
+<li>구단 2번째 <a href="../Page/FA컵_(대한민국).md" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 감독 (<a href="../Page/FA컵_2015.md" title="wikilink"><span style="color:#ED4000;">2015</span></a>)</li>
 <li>구단 2번째 시즌 도중 사퇴한 감독</li>
 </ul></td>
 </tr>
@@ -4507,7 +4507,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/감독대행" title="wikilink">대행</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김호영_(축구인)" title="wikilink">김호영</a></p></td>
+<td><p><a href="../Page/김호영_(축구인).md" title="wikilink">김호영</a></p></td>
 <td><p>2020-07-30</p></td>
 <td><p>2020-07-30</p></td>
 <td></td>
@@ -4612,7 +4612,7 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 <p>1998–2020</p></td>
 <td><ul>
 <li>구단 2번째 <a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink"><span style="color:#DAA520;">K리그1 우승</span></a> 구단주 (<a href="https://ko.wikipedia.org/wiki/K리그_2000" title="wikilink"><span style="color:#DAA520;">2000</span></a>･<a href="https://ko.wikipedia.org/wiki/K리그_2010" title="wikilink"><span style="color:#DAA520;">2010</span></a>･<a href="https://ko.wikipedia.org/wiki/K리그_2012" title="wikilink"><span style="color:#DAA520;">2012</span></a>･<a href="https://ko.wikipedia.org/wiki/K리그_클래식_2016" title="wikilink"><span style="color:#DAA520;">2016</span></a>)</li>
-<li>구단 최초 <a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 구단주 (<a href="../Page/FA컵_1998.md" title="wikilink"><span style="color:#ED4000;">1998</span></a>･<a href="../Page/FA컵_2015.md" title="wikilink"><span style="color:#ED4000;">2015</span></a>)</li>
+<li>구단 최초 <a href="../Page/FA컵_(대한민국).md" title="wikilink"><span style="color:#ED4000;">FA컵 우승</span></a> 구단주 (<a href="../Page/FA컵_1998.md" title="wikilink"><span style="color:#ED4000;">1998</span></a>･<a href="../Page/FA컵_2015.md" title="wikilink"><span style="color:#ED4000;">2015</span></a>)</li>
 <li>구단 최초 <a href="../Page/리그컵_(대한민국).md" title="wikilink"><span style="color:#008000;">리그컵 우승</span></a> 구단주 (<a href="../Page/리그컵_2006.md" title="wikilink"><span style="color:#008000;">2006</span></a>･<a href="../Page/리그컵_2010.md" title="wikilink"><span style="color:#008000;">2010</span></a>)</li>
 <li>구단 최초 <a href="../Page/슈퍼컵_(대한민국).md" title="wikilink"><span style="color:#8B4513;">슈퍼컵 우승</span></a> 구단주 (<a href="../Page/대한민국_슈퍼컵_2001.md" title="wikilink"><span style="color:#8B4513;">2001</span></a>)</li>
 </ul></td>

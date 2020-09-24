@@ -17,13 +17,13 @@
 
 ### 흔들리는 강원
 
-[2011 시즌의](https://ko.wikipedia.org/wiki/K리그_2011 "wikilink") 출발은 굉장이 좋지 않았다. 4라운드까지 전패한 이후 [최순호](../Page/최순호.md "wikilink") 감독이 자진 사퇴했다.\[12\] 이후 [김상호](../Page/김상호_\(축구인\).md "wikilink") 수석 코치가 새로운 감독으로 부임하였으나,\[13\] 무려 7라운드까지 승점 1점을 쌓지 못했고, 첫 득점도 7라운드 [인천 유나이티드전에서](https://ko.wikipedia.org/wiki/인천_유나이티드 "wikilink") 터졌다. 8라운드에서 [포항 스틸러스와](../Page/포항_스틸러스.md "wikilink") 비기며 1점을 챙겼지만 무려 12라운드까지 1승조차 거두지 못했다. 이때까지 모든 대회를 통틀어 강원이 승리한 경기는 [리그 컵](../Page/리그컵_2011.md "wikilink") 조별 리그에서 [광주에게](../Page/광주_FC.md "wikilink") 5-0으로 거둔 대승이었다. 마침내 13라운드에서 [부산 아이파크에게](../Page/부산_아이파크.md "wikilink") 1-0 승리를 거두며 리그 첫 승리를 기록했는데, 무려 216일 만의 승리였다.\[14\] 이후에 강원은 두 경기에서 승리를 거두었고, 시즌 총 3승을 거두었다. 30경기에서 득점은 14골에 그쳤다. 이는 2009년 첫 시즌 이래로 최악의 시즌이었다.\[15\]
+[2011 시즌의](https://ko.wikipedia.org/wiki/K리그_2011 "wikilink") 출발은 굉장히 좋지 않았다. 4라운드까지 전패한 이후 [최순호](../Page/최순호.md "wikilink") 감독이 자진 사퇴했다.\[12\] 이후 [김상호](../Page/김상호_\(축구인\).md "wikilink") 수석 코치가 새로운 감독으로 부임하였으나,\[13\] 무려 7라운드까지 승점 1점을 쌓지 못했고, 첫 득점도 7라운드 [인천 유나이티드전에서](https://ko.wikipedia.org/wiki/인천_유나이티드 "wikilink") 터졌다. 8라운드에서 [포항 스틸러스와](../Page/포항_스틸러스.md "wikilink") 비기며 1점을 챙겼지만 무려 12라운드까지 1승조차 거두지 못했다. 이때까지 모든 대회를 통틀어 강원이 승리한 경기는 [리그 컵](../Page/리그컵_2011.md "wikilink") 조별 리그에서 [광주에게](../Page/광주_FC.md "wikilink") 5-0으로 거둔 대승이었다. 마침내 13라운드에서 [부산 아이파크에게](../Page/부산_아이파크.md "wikilink") 1-0 승리를 거두며 리그 첫 승리를 기록했는데, 무려 216일 만의 승리였다.\[14\] 이후에 강원은 두 경기에서 승리를 거두었고, 시즌 총 3승을 거두었다. 30경기에서 득점은 14골에 그쳤다. 이는 2009년 첫 시즌 이래로 최악의 시즌이었다.\[15\]
 
-[승강제](../Page/승강제.md "wikilink")가 실시되는 [2012 시즌을](https://ko.wikipedia.org/wiki/K리그_2012 "wikilink") 앞두고 [배효성](https://ko.wikipedia.org/wiki/배효성_\(축구인\) "wikilink"), [김명중](../Page/김명중_\(축구_선수\).md "wikilink"), [김은중](../Page/김은중.md "wikilink") 등 공수에 걸쳐 전력을 보강하여 새 시즌에 임한 강원은 2라운드에 6위까지 기록하는 등 초반 선전하는 모습을 보였으나 시즌이 진행될수록 부진한 모습을 보였고 18라운드가 지난 후에는 [김상호](../Page/김상호_\(축구인\).md "wikilink") 감독이 코칭 스태프들과 함께 [사퇴](https://ko.wikipedia.org/wiki/사퇴 "wikilink")하였다. 이 과정에서 남종현 대표이사가 선수들 앞에서 잔여 연봉을 포기하고 사퇴하겠다는 내용을 담은 사퇴서를 선수들이 보는 앞에서 쓰게 했다는 내용이 알려져 찬반여론이 일기도 하였다.\[16\] [이을용](../Page/이을용.md "wikilink") 스카우트와 전환철 스카우트가 코치로 보직을 변경하였고, 국가대표 출신의 [이민성](../Page/이민성.md "wikilink")과 [김태수](../Page/김태수.md "wikilink") [강릉시청](../Page/강릉시청_축구단.md "wikilink") [GK코치가](../Page/골키퍼.md "wikilink") 새롭게 합류했다.\[17\] [김학범](../Page/김학범.md "wikilink") 감독은 “[강릉농공고](../Page/강릉중앙고등학교.md "wikilink")(현 [강릉중앙고등학교](../Page/강릉중앙고등학교.md "wikilink"))출신으로 고향팀에 도움을 주고 싶었는데 어려운 시기에 도움을 줄 기회가 생겨 기쁘다”며 “현재 구성된 코칭스태프들과 및 선수들과 함께 시련을 강인하게 헤쳐 나갈 준비가 돼있다”는 소감을 밝혔다.\[18\] 이후 2012년 11월 28일 [성남에게](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 1-0 승리를 거두며 1부 리그 잔류를 확정지었다.
+[승강제](../Page/승강제.md "wikilink")가 실시되는 [2012 시즌을](https://ko.wikipedia.org/wiki/K리그_2012 "wikilink") 앞두고 [배효성](../Page/배효성_\(축구인\).md "wikilink"), [김명중](../Page/김명중_\(축구_선수\).md "wikilink"), [김은중](../Page/김은중.md "wikilink") 등 공수에 걸쳐 전력을 보강하여 새 시즌에 임한 강원은 2라운드에 6위까지 기록하는 등 초반 선전하는 모습을 보였으나 시즌이 진행될수록 부진한 모습을 보였고 18라운드가 지난 후에는 [김상호](../Page/김상호_\(축구인\).md "wikilink") 감독이 코칭 스태프들과 함께 [사퇴](https://ko.wikipedia.org/wiki/사퇴 "wikilink")하였다. 이 과정에서 남종현 대표이사가 선수들 앞에서 잔여 연봉을 포기하고 사퇴하겠다는 내용을 담은 사퇴서를 선수들이 보는 앞에서 쓰게 했다는 내용이 알려져 찬반여론이 일기도 하였다.\[16\] [이을용](../Page/이을용.md "wikilink") 스카우트와 전환철 스카우트가 코치로 보직을 변경하였고, 국가대표 출신의 [이민성](../Page/이민성.md "wikilink")과 [김태수](../Page/김태수.md "wikilink") [강릉시청](../Page/강릉시청_축구단.md "wikilink") [GK코치가](../Page/골키퍼.md "wikilink") 새롭게 합류했다.\[17\] [김학범](../Page/김학범.md "wikilink") 감독은 “[강릉농공고](../Page/강릉중앙고등학교.md "wikilink")(현 [강릉중앙고등학교](../Page/강릉중앙고등학교.md "wikilink"))출신으로 고향팀에 도움을 주고 싶었는데 어려운 시기에 도움을 줄 기회가 생겨 기쁘다”며 “현재 구성된 코칭스태프들과 및 선수들과 함께 시련을 강인하게 헤쳐 나갈 준비가 돼있다”는 소감을 밝혔다.\[18\] 이후 2012년 11월 28일 [성남에게](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 1-0 승리를 거두며 1부 리그 잔류를 확정지었다.
 
 ### 강등
 
-[승강제](../Page/승강제.md "wikilink")가 실시되는 [2013 시즌을](https://ko.wikipedia.org/wiki/K리그_클래식_2013 "wikilink") 앞두고 [박호진](../Page/박호진.md "wikilink"), [박민](../Page/박민.md "wikilink"), [웨슬리](../Page/웨즐레이_바르보자_지_모라이스.md "wikilink") 등 공수에 걸쳐 전력을 보강하여 새 시즌에 임한 강원은 10경기 연속 무승을 기록하다 [5월 12일](../Page/5월_12일.md "wikilink") [성남을](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 2-1로 이겼다. 그 후, 무승과 연패가 이어지며 22라운드가 지난 후에는 김학범 감독이 [사퇴](https://ko.wikipedia.org/wiki/사퇴 "wikilink")하였고, 이후 새로운 감독으로 [김호영](https://ko.wikipedia.org/wiki/김호영_\(축구인\) "wikilink") 감독이 임명되었다. 그룹 B에서 부임 이후 7승을 하는 등 잔류를 하는 듯 보였지만, [승강 플레이오프](../Page/K리그_승강_플레이오프_2013.md "wikilink") 1, 2차전 총합 4 : 2로 패배해 강등되었다. 그 후, [김호영](https://ko.wikipedia.org/wiki/김호영_\(축구인\) "wikilink") 감독이 [사퇴](https://ko.wikipedia.org/wiki/사퇴 "wikilink")하였다. 새로운 감독으로 [아르투르 베르나르지스](../Page/아르투르_베르나르지스.md "wikilink") 감독이 임명되었다. 2부 리그에서의 첫 시즌이자 [아르투르](../Page/아르투르_베르나르지스.md "wikilink") 감독 체제에서의 첫 시즌인 [2014 시즌](https://ko.wikipedia.org/wiki/K리그_챌린지_2014 "wikilink"), 개막전 [안산에](https://ko.wikipedia.org/wiki/안산_경찰청_축구단 "wikilink") 3-0 대패를 당한 것을 시작으로 8라운드까지는 부진을 면치 못하였다. 하지만 이후 반등을 시작하여 플레이오프 진출권 주변인 3위에서 5위 사이를 넘나들었다. 2014년 9월, 구단은 훈련과 선수단 관리 방식을 두고 선수단과 마찰을 겪은 것을 이유로 [아르투르](../Page/아르투르_베르나르지스.md "wikilink") 감독을 경질하고 후임으로 [박효진](../Page/박효진_\(축구인\).md "wikilink") 코치를 감독 대행으로 선임하였다. 이후 정규 시즌 순위 3위로 승격 플레이오프에 진출하였으나, [광주 FC에](../Page/광주_FC.md "wikilink") 패하여 승격은 좌절되었다.
+[승강제](../Page/승강제.md "wikilink")가 실시되는 [2013 시즌을](https://ko.wikipedia.org/wiki/K리그_클래식_2013 "wikilink") 앞두고 [박호진](../Page/박호진.md "wikilink"), [박민](../Page/박민.md "wikilink"), [웨슬리](../Page/웨즐레이_바르보자_지_모라이스.md "wikilink") 등 공수에 걸쳐 전력을 보강하여 새 시즌에 임한 강원은 10경기 연속 무승을 기록하다 [5월 12일](../Page/5월_12일.md "wikilink") [성남을](https://ko.wikipedia.org/wiki/성남_FC "wikilink") 2-1로 이겼다. 그 후, 무승과 연패가 이어지며 22라운드가 지난 후에는 김학범 감독이 [사퇴](https://ko.wikipedia.org/wiki/사퇴 "wikilink")하였고, 이후 새로운 감독으로 [김용갑](../Page/김호영_\(축구인\).md "wikilink") 감독이 임명되었다. 그룹 B에서 부임 이후 7승을 하는 등 잔류를 하는 듯 보였지만, [승강 플레이오프](../Page/K리그_승강_플레이오프_2013.md "wikilink") 1, 2차전 총합 4 : 2로 패배해 강등되었다. 그 후, [김용갑](../Page/김호영_\(축구인\).md "wikilink") 감독이 [사퇴](https://ko.wikipedia.org/wiki/사퇴 "wikilink")하였다. 새로운 감독으로 [아르투르 베르나르지스](../Page/아르투르_베르나르지스.md "wikilink") 감독이 임명되었다. 2부 리그에서의 첫 시즌이자 [아르투르](../Page/아르투르_베르나르지스.md "wikilink") 감독 체제에서의 첫 시즌인 [2014 시즌](https://ko.wikipedia.org/wiki/K리그_챌린지_2014 "wikilink"), 개막전 [안산에](https://ko.wikipedia.org/wiki/안산_경찰청_축구단 "wikilink") 3-0 대패를 당한 것을 시작으로 8라운드까지는 부진을 면치 못하였다. 하지만 이후 반등을 시작하여 플레이오프 진출권 주변인 3위에서 5위 사이를 넘나들었다. 2014년 9월, 구단은 훈련과 선수단 관리 방식을 두고 선수단과 마찰을 겪은 것을 이유로 [아르투르](../Page/아르투르_베르나르지스.md "wikilink") 감독을 경질하고 후임으로 [박효진](../Page/박효진_\(축구인\).md "wikilink") 코치를 감독 대행으로 선임하였다. 이후 정규 시즌 순위 3위로 승격 플레이오프에 진출하였으나, [광주 FC에](../Page/광주_FC.md "wikilink") 패하여 승격은 좌절되었다.
 
 [2015 시즌을](https://ko.wikipedia.org/wiki/K리그_챌린지_2015 "wikilink") 앞두고 [최윤겸](../Page/최윤겸.md "wikilink") 감독이 구단의 신임 감독으로 선임되었다. [2015 시즌](https://ko.wikipedia.org/wiki/K리그_챌린지_2015 "wikilink") 첫 경기인 개막전 [상주 상무에](../Page/상주_상무_축구단.md "wikilink") 1:3 역전패를 당한 것을 시작으로 두 번째 경기인 [대구 FC에게도](../Page/대구_FC.md "wikilink") 1:2 역전패를 당해 2연패를 하고 만다. 하지만 3라운드 [부천 FC 1995에](https://ko.wikipedia.org/wiki/부천_FC_1995 "wikilink") 4:0으로 이겨 시즌 첫승과 홈경기 첫승을 거둔다. 그 후 [5월 13일에는](../Page/5월_13일.md "wikilink") [서울 이랜드 FC와의](../Page/서울_이랜드_FC.md "wikilink") 원정경기에서 4:2 승리를 거두고 9위를 유지했으나 [5월 24일](../Page/5월_24일.md "wikilink") [수원 FC와의](../Page/수원_FC.md "wikilink") 경기에서 1:2로 패하고 최하위로 떨어졌다. 그 후 올스타전 휴식기까지 5승 4무 11패에 10위를 기록하다 결국 시즌 7위. 승격 플레이오프 진출에 실패하면서 승격은 좌절되었다.
 
@@ -43,7 +43,7 @@
 
 [11월 2일](../Page/11월_2일.md "wikilink") [송경섭](../Page/송경섭_\(축구인\).md "wikilink") 전력강화팀장의 내부 승격으로 신임 감독직을 맡게 되었다.\[26\] 이후 시즌 최종전인 [11월 19일](../Page/11월_19일.md "wikilink") [울산 현대전에서](../Page/울산_현대_축구단.md "wikilink") 패배하였고, 사상 처음으로 [K리그 클래식](https://ko.wikipedia.org/wiki/K리그_클래식 "wikilink") 6위를 기록하였다.
 
-[리그](https://ko.wikipedia.org/wiki/K리그1_2018 "wikilink") 22라운드인 [전북과의](../Page/전북_현대_모터스.md "wikilink") 원정 경기에서 1:3로 패하였고 3연패로 성적이 7위까지 떨어지자 그에 대한 책임으로 [송경섭](../Page/송경섭_\(축구인\).md "wikilink") 감독과 상호 합의하에 계약을 해지했다.\[27\]\[28\]
+[리그](https://ko.wikipedia.org/wiki/K리그1_2018 "wikilink") 22라운드인 [전북과의](../Page/전북_현대_모터스.md "wikilink") 원정 경기에서 1:3로 패하였고 3연패로 성적이 7위까지 떨어지자 그에 대한 책임으로 [송경섭](../Page/송경섭_\(축구인\).md "wikilink") 감독과 상호 합의하에 계약을 해지하였다.\[27\]\[28\]
 
 ### 김병수 감독 체제 (2018–현재)
 
@@ -51,7 +51,7 @@
 
 [2019시즌](https://ko.wikipedia.org/wiki/K리그1_2019 "wikilink") K리그1에서 14승 8무 16패를 기록하여 최종 6위를 차지하였고, 신인 공격수 [김지현이](../Page/김지현_\(축구_선수\).md "wikilink") 2019년 연말 K리그 시상식에서 [영플레이어상을](../Page/K리그_영플레이어상.md "wikilink") 수상해 [김병수](../Page/김병수_\(축구인\).md "wikilink") 감독의 ‘병수 볼’을 다지는 한 해가 되었다.
 
-[2020시즌을](https://ko.wikipedia.org/wiki/K리그1_2020 "wikilink") 앞두고 지난 시즌 약점이었던 수비 보강에 초점을 맞춘 김병수 감독은 [임채민](../Page/임채민_\(축구_선수\).md "wikilink"), [신세계](https://ko.wikipedia.org/wiki/신세계_\(축구_선수\) "wikilink"), [채광훈](../Page/채광훈.md "wikilink"), [이병욱](../Page/이병욱_\(축구_선수\).md "wikilink"), [김영빈을](../Page/김영빈_\(1991년\).md "wikilink") 영입하였다.\[30\]
+[2020시즌을](https://ko.wikipedia.org/wiki/K리그1_2020 "wikilink") 앞두고 지난 시즌 약점이었던 수비 보강에 초점을 맞춘 김병수 감독은 [임채민](../Page/임채민_\(축구_선수\).md "wikilink"), [신세계](https://ko.wikipedia.org/wiki/신세계_\(축구_선수\) "wikilink"), [채광훈](../Page/채광훈.md "wikilink"), [이병욱](../Page/이병욱_\(축구_선수\).md "wikilink"), [김영빈을](../Page/김영빈_\(1991년\).md "wikilink") 영입하였다.\[30\] 이후 9월 20일 정규시즌 최종전 [수원 삼성전에서](../Page/수원_삼성_블루윙즈.md "wikilink") 역전패하며 2년 연속 파이널 A 진출이 좌절되었다.
 
 ## 선수단
 
@@ -97,7 +97,7 @@
 <tr class="odd">
 <td><p>2012년</p></td>
 <td><p><a href="../Page/김은중.md" title="wikilink">김은중</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/배효성_(축구인)" title="wikilink">배효성</a></p></td>
+<td><p><a href="../Page/배효성_(축구인).md" title="wikilink">배효성</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013년</p></td>
@@ -105,7 +105,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/배효성_(축구인)" title="wikilink">배효성</a></p></td>
+<td><p><a href="../Page/배효성_(축구인).md" title="wikilink">배효성</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -357,7 +357,7 @@
 </tr>
 <tr class="even">
 <td><p>4대</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김호영_(축구인)" title="wikilink">김호영</a></p></td>
+<td><p><a href="../Page/김호영_(축구인).md" title="wikilink">김호영</a></p></td>
 <td><p>2013/08/14</p></td>
 <td><p>2013/12/10</p></td>
 <td><p>2013</p></td>
@@ -483,21 +483,21 @@
 
 ## 역대 성적
 
-| 시즌       | 리그                                                 | [<span style="color:#FFFFFF">FA컵</span>](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") | [<span style="color:#FFFFFF">ACL</span>](../Page/AFC_챔피언스리그.md "wikilink") | 기타 |
-| -------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -- |
-| 등급\[35\] | 경기                                                 | 승                                                                                               | 무                                                                          | 패  |
-| 2009     | [1](https://ko.wikipedia.org/wiki/K리그1 "wikilink") | 28                                                                                              | 7                                                                          | 7  |
-| 2010     | 28                                                 | 8                                                                                               | 6                                                                          | 14 |
-| 2011     | 30                                                 | 3                                                                                               | 6                                                                          | 21 |
-| 2012     | 44                                                 | 14                                                                                              | 7                                                                          | 23 |
-| 2013     | 38                                                 | 8                                                                                               | 12                                                                         | 18 |
-| 2014     | [2](../Page/K리그2.md "wikilink")                    | 36                                                                                              | 16                                                                         | 6  |
-| 2015     | 40                                                 | 13                                                                                              | 12                                                                         | 15 |
-| 2016     | 40                                                 | 19                                                                                              | 9                                                                          | 12 |
-| 2017     | [1](https://ko.wikipedia.org/wiki/K리그1 "wikilink") | 38                                                                                              | 13                                                                         | 10 |
-| 2018     | 38                                                 | 12                                                                                              | 10                                                                         | 16 |
-| 2019     | 38                                                 | 14                                                                                              | 8                                                                          | 16 |
-| 2020     | 27                                                 |                                                                                                 |                                                                            |    |
+| 시즌       | 리그                                                 | [<span style="color:#FFFFFF">FA컵</span>](../Page/FA컵_\(대한민국\).md "wikilink") | [<span style="color:#FFFFFF">ACL</span>](../Page/AFC_챔피언스리그.md "wikilink") | 기타 |
+| -------- | -------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -- |
+| 등급\[35\] | 경기                                                 | 승                                                                            | 무                                                                          | 패  |
+| 2009     | [1](https://ko.wikipedia.org/wiki/K리그1 "wikilink") | 28                                                                           | 7                                                                          | 7  |
+| 2010     | 28                                                 | 8                                                                            | 6                                                                          | 14 |
+| 2011     | 30                                                 | 3                                                                            | 6                                                                          | 21 |
+| 2012     | 44                                                 | 14                                                                           | 7                                                                          | 23 |
+| 2013     | 38                                                 | 8                                                                            | 12                                                                         | 18 |
+| 2014     | [2](../Page/K리그2.md "wikilink")                    | 36                                                                           | 16                                                                         | 6  |
+| 2015     | 40                                                 | 13                                                                           | 12                                                                         | 15 |
+| 2016     | 40                                                 | 19                                                                           | 9                                                                          | 12 |
+| 2017     | [1](https://ko.wikipedia.org/wiki/K리그1 "wikilink") | 38                                                                           | 13                                                                         | 10 |
+| 2018     | 38                                                 | 12                                                                           | 10                                                                         | 16 |
+| 2019     | 38                                                 | 14                                                                           | 8                                                                          | 16 |
+| 2020     | 27                                                 |                                                                              |                                                                            |    |
 
 ## 연도별 스폰서
 
@@ -595,11 +595,11 @@
 
 ## 외부 링크
 
-  - [강원 FC 웹사이트](http://gangwon-fc.com/)
-  - [강원 FC 페이스북](https://www.facebook.com/gangwonfc)
-  - [강원 FC 유튜브](https://www.youtube.com/user/gangwonfc)
-  - [강원 FC 아프리카 TV](http://afreeca.com/gangwonfc)
-  - [강원 FC 인스타그램](https://www.instagram.com/gangwon_fc/)
+  - [강원 FC 공식 웹사이트](http://gangwon-fc.com/)
+  - [강원 FC 공식 페이스북](https://www.facebook.com/gangwonfc)
+  - [강원 FC 공식 유튜브 채널](https://www.youtube.com/user/gangwonfc)
+  - [강원 FC 공식 인스타그램](https://www.instagram.com/gangwon_fc/)
+  - [강원 FC 공식 네이버 포스트](https://post.naver.com/my.nhn?memberNo=33403345)
 
 [강원_FC](https://ko.wikipedia.org/wiki/분류:강원_FC "wikilink") [분류:강원도의 스포츠](https://ko.wikipedia.org/wiki/분류:강원도의_스포츠 "wikilink") [분류:K리그1 구단](https://ko.wikipedia.org/wiki/분류:K리그1_구단 "wikilink") [분류:K리그2 구단](https://ko.wikipedia.org/wiki/분류:K리그2_구단 "wikilink") [분류:2008년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:2008년_설립된_축구단 "wikilink")
 

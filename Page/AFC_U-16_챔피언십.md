@@ -67,7 +67,7 @@
 <td><p><br />
 <a href="../Page/바레인_축구_국가대표팀.md" title="wikilink">바레인</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></p></td>
+<a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1990년_AFC_U-17_챔피언십" title="wikilink">1990</a></p></td>
@@ -78,13 +78,13 @@
 <td><p><br />
 <a href="../Page/아랍에미리트_축구_국가대표팀.md" title="wikilink">아랍에미리트</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></p></td>
+<a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1992년_AFC_U-17_챔피언십" title="wikilink">1992</a></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></strong></p></td>
+<a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국</a></strong></p></td>
 <td><p><strong>2 – 2</strong><br />
 8 – 7 (<a href="../Page/승부차기.md" title="wikilink">승부차기</a>)</p></td>
 <td><p><br />
@@ -148,13 +148,13 @@
 <td><p><br />
 <a href="../Page/예멘_축구_국가대표팀.md" title="wikilink">예멘</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></p></td>
+<a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2004년_AFC_U-17_챔피언십" title="wikilink">2004</a></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></strong></p></td>
+<a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국</a></strong></p></td>
 <td><p><strong>1 – 0</strong></p></td>
 <td><p><br />
 <a href="../Page/조선민주주의인민공화국_축구_국가대표팀.md" title="wikilink">조선민주주의인민공화국</a></p></td>

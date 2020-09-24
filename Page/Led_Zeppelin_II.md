@@ -19,6 +19,10 @@
 
 ## 외부 링크
 
+  - [*Led Zeppelin II* según la *Rolling Stone*](http://www.rollingstone.com/news/story/6598066/75_led_zeppelin_ii)
+  - [*Led Zeppelin II* según *Allmusic*](http://www.allmusic.com/album/r11460)
+  - [*Led Zeppelin II* en el sitio oficial de Led Zeppelin](http://discography.ledzeppelin.com/disc_lz2.html)
+
 [분류:1969년 음반](https://ko.wikipedia.org/wiki/분류:1969년_음반 "wikilink") [분류:레드 제플린의 음반](https://ko.wikipedia.org/wiki/분류:레드_제플린의_음반 "wikilink") [분류:애틀랜틱 레코드 음반](https://ko.wikipedia.org/wiki/분류:애틀랜틱_레코드_음반 "wikilink")
 
 1.

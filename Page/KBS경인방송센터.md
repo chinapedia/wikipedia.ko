@@ -186,8 +186,8 @@
 
 #### 여성
 
-  - [강승희](https://ko.wikipedia.org/wiki/강승희_\(경인아나운서\) "wikilink") : 전직 [KBS충주](https://ko.wikipedia.org/wiki/KBS충주 "wikilink") 아나운서
-  - [조은민](https://ko.wikipedia.org/wiki/조은민 "wikilink") : 전직 [목포MBC](https://ko.wikipedia.org/wiki/목포MBC "wikilink") MC
+  - [강승희](https://ko.wikipedia.org/wiki/강승희_\(경인아나운서\) "wikilink") (2016년): 전직 [KBS충주](https://ko.wikipedia.org/wiki/KBS충주 "wikilink") 아나운서
+  - [조은민](https://ko.wikipedia.org/wiki/조은민 "wikilink") (2018년): 전직 [목포MBC](https://ko.wikipedia.org/wiki/목포MBC "wikilink") MC
 
 #### 전직
 
@@ -200,13 +200,13 @@
 ## 현직 기자
 
   - 김기흥
+  - 김민아
   - 김용덕
-  - 김진화
-  - 김학재
   - 박정권
   - 박재우
   - 박효인
   - 박희봉
+  - 송수진
   - 신지원
   - 유성식
   - 이정록

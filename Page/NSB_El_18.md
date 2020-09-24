@@ -30,7 +30,7 @@ El 18은 Re 460의 파생형이다. 장편성 여객 열차 및 고속 운행을
 ### 참고 문헌
 
   -
-[El 18](https://ko.wikipedia.org/wiki/분류:노르웨이의_철도_차량 "wikilink")
+[El 18](https://ko.wikipedia.org/wiki/분류:노르웨이의_전기_기관차 "wikilink")
 
 1.  Aspenberg, 2001: 86
 2.  Aspenberg, 2001: 99

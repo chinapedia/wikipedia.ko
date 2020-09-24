@@ -5,7 +5,7 @@
 
 ## 개요
 
-  - 신설 당시에는 생활경제 뉴스 프로그램이었고, 다른 [SBS 뉴스](https://ko.wikipedia.org/wiki/SBS_뉴스 "wikilink") 프로그램들과 같이 SBS 보도본부가 제작을 담당했으나, SBS의 2013년 새해 개편에 따라 2012년 12월 31일부터 [SBS CNBC가](../Page/SBS_CNBC.md "wikilink") 제작을 담당하게 되었고, 2015년 11월 20일부터 생활경제 시사교양 프로그램으로 전환되었다.
+  - 신설 당시에는 생활경제 뉴스쇼 프로그램이었고, 다른 [SBS 뉴스](https://ko.wikipedia.org/wiki/SBS_뉴스 "wikilink") 프로그램들과 같이 SBS 보도본부가 제작을 담당했으나, SBS의 2013년 새해 개편에 따라 2012년 12월 31일부터 [SBS CNBC가](../Page/SBS_CNBC.md "wikilink") 제작을 담당하게 되었고, 2015년 11월 20일부터 생활경제 시사교양 프로그램으로 전환되었다.
 
 ## 방송 시간
 
@@ -102,7 +102,7 @@
 
   - [SBS 생활경제](http://tv.sbs.co.kr/life_economy/)
 
-[분류:SBS의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_시사교양_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink")
+[분류:SBS의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_시사교양_프로그램 "wikilink") [분류:SBS의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_뉴스_텔레비전_프로그램 "wikilink") [분류:아침 정보 프로그램](https://ko.wikipedia.org/wiki/분류:아침_정보_프로그램 "wikilink")
 
 1.  [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장은 3년 만에 SBS 뉴스와 생활경제 재진행.
 2.  [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") 아나운서팀 국장과 [유영미](../Page/유영미.md "wikilink") 아나운서는 2008년 1월 14일부터 2008년 11월 28일까지 SBS 뉴스와 생활경제 1부를 진행했다.

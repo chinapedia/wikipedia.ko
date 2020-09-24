@@ -12,7 +12,7 @@
   - [2005년 4월](../Page/2005년_4월.md "wikilink") [25일](../Page/4월_25일.md "wikilink") \~ [10월 23일](../Page/10월_23일.md "wikilink")
       - 1부 : [이자람](../Page/이자람.md "wikilink") (가수, [아마도 이자람 밴드](../Page/아마도_이자람_밴드.md "wikilink"))
       - 2부 : 한재희 (프로듀서)
-      - 3부 : [박소현](https://ko.wikipedia.org/wiki/박소현_\(1976년\) "wikilink") (아나운서)
+      - 3부 : [박소현](../Page/박소현_\(1976년\).md "wikilink") (아나운서)
   - [2005년 10월](../Page/2005년_10월.md "wikilink") [24일](../Page/10월_24일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink")
       - 1부 : 이자람 (가수, 아마도 이자람 밴드)
       - 2부 : 한재희 (프로듀서)

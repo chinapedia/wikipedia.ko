@@ -22,9 +22,9 @@
 
 ## 대중교통 연결편
 
-유니언역에서 갈아탈 수 있는 [토론토 교통국의](../Page/토론토_교통국.md "wikilink") 버스 및 노면 전차 편은 아래와 같다. 노면 전차 노선인 509, 510번과 심야 노면 전차 노선인 317번은 역 안에 있는 노면 전차 승강장에서 탈 수 있지만 버스 노선은 역 밖에 있는 정류장에서 갈아타야 한다. 이 경우에는 메트로패스, 환승 표 또는 프레스토 카드 등 출발 지점에서 요금을 냈다는 증명이 필요하다.
+유니언역에서 갈아탈 수 있는 [토론토 교통국의](../Page/토론토_교통국.md "wikilink") 버스 및 노면 전차 편은 아래와 같다. 노면 전차 노선인 509, 510번과 심야 노면 전차 노선인 317번은 역 안에 있는 노면 전차 승강장에서 탈 수 있지만 버스 노선은 역 밖에 있는 정류장에서 갈아타야 한다. 이 경우에는 환승 표 또는 프레스토 카드 등 출발 지점에서 요금을 냈다는 증명이 필요하다.
 
-[유니언 기차역에서는](../Page/유니언역_\(토론토\).md "wikilink") [고 트랜싯의](https://ko.wikipedia.org/wiki/고_트랜싯 "wikilink") 모든 통근 열차 노선과 [토론토 피어슨 국제공항으로](https://ko.wikipedia.org/wiki/토론토_피어슨_국제공항 "wikilink") 가는 유니언-피어슨 급행, 그 외에 [몬트리올](../Page/몬트리올.md "wikilink"), [오타와](../Page/오타와.md "wikilink"), [킹스턴](../Page/킹스턴_\(온타리오주\).md "wikilink"), [윈저](../Page/윈저_\(온타리오주\).md "wikilink"), [사니아](../Page/사니아.md "wikilink") 및 [런던으로](../Page/런던_\(온타리오주\).md "wikilink") 가는 [VIA 철도의](../Page/VIA_철도.md "wikilink") [코리더](https://ko.wikipedia.org/wiki/코리더_\(VIA\) "wikilink") 열차 및 [밴쿠버](https://ko.wikipedia.org/wiki/밴쿠버 "wikilink")행 [캐나디안](../Page/캐나디안_\(열차\).md "wikilink") 열차로 갈아탈 수 있다. [나이아가라폴스](../Page/나이아가라폴스_\(온타리오주\).md "wikilink"), [버팔로](https://ko.wikipedia.org/wiki/버팔로_\(뉴욕주\) "wikilink") 및 [뉴욕](../Page/뉴욕.md "wikilink") [펜실베이니아역으로](../Page/펜실베이니아역_\(뉴욕\).md "wikilink") 가는 [메이플 리프](../Page/메이플_리프_\(열차\).md "wikilink") 열차는 VIA 철도와 [암트랙](../Page/암트랙.md "wikilink")에서 공동으로 운행하고 있다.
+[유니언 기차역에서는](../Page/유니언역_\(토론토\).md "wikilink") [고 트랜싯의](https://ko.wikipedia.org/wiki/고_트랜싯 "wikilink") 모든 통근 열차 노선과 [토론토 피어슨 국제공항으로](https://ko.wikipedia.org/wiki/토론토_피어슨_국제공항 "wikilink") 가는 유니언-피어슨 급행, 그 외에 [몬트리올](../Page/몬트리올.md "wikilink"), [오타와](../Page/오타와.md "wikilink"), [킹스턴](../Page/킹스턴_\(온타리오주\).md "wikilink"), [윈저](../Page/윈저_\(온타리오주\).md "wikilink"), [사니아](../Page/사니아.md "wikilink") 및 [런던으로](../Page/런던_\(온타리오주\).md "wikilink") 가는 [VIA 철도의](../Page/VIA_철도.md "wikilink") [코리더](https://ko.wikipedia.org/wiki/코리더_\(VIA\) "wikilink") 열차 및 [밴쿠버](https://ko.wikipedia.org/wiki/밴쿠버 "wikilink")행 [캐나디안](../Page/캐나디안_\(열차\).md "wikilink") 열차로 갈아탈 수 있다. [나이아가라폴스](../Page/나이아가라폴스_\(온타리오주\).md "wikilink"), [버팔로](https://ko.wikipedia.org/wiki/버팔로_\(뉴욕주\) "wikilink") 및 [뉴욕](../Page/뉴욕.md "wikilink") [펜실베이니아역으로](../Page/펜실베이니아역_\(뉴욕\).md "wikilink") 가는 [메이플 리프](../Page/메이플_리프_\(열차\).md "wikilink") 열차는 VIA 철도와 [암트랙](../Page/암트랙.md "wikilink")에서 공동으로 운행하고 있다. 코로나19의 여파로 뉴욕행 메이플 리프 열차와 밴쿠버행 캐나디안 열차는 운행이 중단된 상태이다.
 
 베이 스트리트 141번지에 위치한 [유니언역 버스 터미널에서는](../Page/유니언역_버스_터미널.md "wikilink") 고 트랜싯의 각종 버스 노선을 이용할 수 있으며 고 트랜싯의 버스 노선 목록은 버스 터미널 문서에 기재되어있다.
 
@@ -44,10 +44,10 @@
 
 ## 승차량 변동
 
-| 역 노선                                                            | 승차 인원      |
-| --------------------------------------------------------------- | ---------- |
-| 2007-2008년                                                      | 2008-2009년 |
-| [영-유니버시티 선](https://ko.wikipedia.org/wiki/영-유니버시티_선 "wikilink") | 80990\[6\] |
+| 역 노선                                       | 승차 인원      |
+| ------------------------------------------ | ---------- |
+| 2007-2008년                                 | 2008-2009년 |
+| [영-유니버시티선](../Page/영-유니버시티선.md "wikilink") | 80990\[6\] |
 
 ## 각주
 

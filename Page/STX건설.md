@@ -6,7 +6,7 @@
 ## 사무소
 
   - 창원사무소: [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [창원시](../Page/창원시.md "wikilink") 성산구 중앙대로228번길 6 (신월동)
-  - 부산사무소: [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [동구](https://ko.wikipedia.org/wiki/동구 "wikilink") 중앙대로 263 (초량동)
+  - 부산사무소: [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink") [동구](../Page/동구.md "wikilink") 중앙대로 263 (초량동)
 
 ## 해외사업
 

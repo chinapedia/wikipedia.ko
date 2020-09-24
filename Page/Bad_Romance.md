@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Bad Romance](https://ko.wikipedia.org/wiki/Bad_Romance).
 
 
-"**Bad Romance**"는 미국의 음악가 [레이디 가가의](../Page/레이디_가가.md "wikilink") 노래이다. 이 노래는 리패키지 EP 앨범 *[The Fame Monster](../Page/The_Fame_Monster.md "wikilink")*(2009)의 리드 싱글로 발매되었다. 프로듀서로는 [레드원](../Page/레드원.md "wikilink")과 레이디 가가 자신이 참여하였으며, 2008년과 2009년 사이 세계를 다니며 가가가 경험한것을 담아 쓴 곡이다. 노래는 발매예정보다 빨리 유출 돼 2009년 10월 6일 파리에서 열린 [알렉산더 맥퀸의](https://ko.wikipedia.org/wiki/알렉산더_맥퀸 "wikilink") 패션 위크에서 처음으로 선보였다. 이후 싱글의 커버 아트와 함께 정식 발매되었다.
+"**Bad Romance**"는 미국의 음악가 [레이디 가가의](../Page/레이디_가가.md "wikilink") 노래이다. 이 노래는 리패키지 EP 앨범 *[The Fame Monster](../Page/The_Fame_Monster.md "wikilink")*(2009)의 리드 싱글로 발매되었다. 프로듀서로는 [레드원](../Page/레드원.md "wikilink")과 레이디 가가 자신이 참여하였으며, 2008년과 2009년 사이 세계를 다니며 가가가 경험한 것을 담아 쓴 곡이다. 노래는 발매 예정보다 빨리 유출돼 2009년 10월 6일 파리에서 열린 [알렉산더 맥퀸의](https://ko.wikipedia.org/wiki/알렉산더_맥퀸 "wikilink") 패션 위크에서 처음으로 선보였다. 이후 싱글의 커버 아트와 함께 정식 발매되었다.
 
 ## 트랙 리스트
 

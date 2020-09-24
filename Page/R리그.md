@@ -297,7 +297,7 @@
 [프레임없음](https://ko.wikipedia.org/wiki/파일:Emoji_u26bd_transparent.svg "wikilink") **주요 컵 대회**
 
   - **대륙컵** [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink")
-  - **전국선수권** [대한민국 FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")
+  - **전국선수권** [대한민국 FA컵](../Page/FA컵_\(대한민국\).md "wikilink")
   - **프로선수권** [대한민국 리그컵](../Page/리그컵_\(대한민국\).md "wikilink")
   - **슈퍼컵** [대한민국 슈퍼컵](../Page/슈퍼컵_\(대한민국\).md "wikilink")
 

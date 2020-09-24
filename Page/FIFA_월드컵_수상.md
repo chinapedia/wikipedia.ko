@@ -969,7 +969,7 @@
  <a href="../Page/파비오_칸나바로.md" title="wikilink">파비오 칸나바로</a><br />
  <a href="../Page/잔루카_참브로타.md" title="wikilink">잔루카 참브로타</a><br />
  <a href="../Page/히카르두_카르발류.md" title="wikilink">히카르두 카르발류</a></p></td>
-<td><p><a href="../Page/제_호베르투.md" title="wikilink">제 호베르투</a><br />
+<td><p><a href="https://ko.wikipedia.org/wiki/제_호베르투_(1974년)" title="wikilink">제 호베르투</a><br />
  <a href="../Page/파트리크_비에라.md" title="wikilink">파트리크 비에라</a><br />
  <a href="https://ko.wikipedia.org/wiki/지네딘_지단" title="wikilink">지네딘 지단</a><br />
  <a href="../Page/미하엘_발라크.md" title="wikilink">미하엘 발라크</a><br />

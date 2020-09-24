@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [S.S.T.BAND](https://ko.wikipedia.org/wiki/S.S.T.BAND).
 
 
-**S.S.T.BAND**는 1988년부터 1993년까지 활동한 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")의 공식 밴드로 세가의 아케이드 게임 음악을 [락](https://ko.wikipedia.org/wiki/락 "wikilink") 버전으로 편곡해 페스티발에서 연주하거나 앨범으로 발표했다. SST는 세가 사운드 팀 (Sega Sound Team 1988-1989), 슈퍼 소닉 팀(Super Sonic Team 1989-1993) 줄임말이다.
+**S.S.T.BAND**는 1988년부터 1993년까지 활동한 [세가](../Page/세가.md "wikilink")의 공식 밴드로 세가의 아케이드 게임 음악을 [락](https://ko.wikipedia.org/wiki/락 "wikilink") 버전으로 편곡해 페스티발에서 연주하거나 앨범으로 발표했다. SST는 세가 사운드 팀 (Sega Sound Team 1988-1989), 슈퍼 소닉 팀(Super Sonic Team 1989-1993) 줄임말이다.
 
 밴드는 키보드리스트 마츠마에 키미타카(松前公高)와 미야우치 히로시(宮内博史), 키타리스트 나미키 코이치(並木晃一), 이이지마 조우지(飯島丈治), 베이시스트 코모리 신고(小森伸吾), 드러머 타나베 타케히코(田辺健彦) 모두 6명으로 구성되었다. 1990년 미야우치와 코모리가 빠지고 키보드의 미츠요시 타케노부(光吉猛修), 베이스의 사이토 마사토(斉藤昌人)가 새로 들어왔으며 1991년에는 타나베가 빠지고 드럼의 쿠마마루 히사노리(熊丸久徳)가 들어왔다.
 

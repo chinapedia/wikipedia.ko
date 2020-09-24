@@ -20,7 +20,7 @@
 
 <!-- end list -->
 
-1.  Intro/[Also sprach Zarathustra](https://ko.wikipedia.org/wiki/자라투스트라는_이렇게_말했다 "wikilink")
+1.  Intro/[Also sprach Zarathustra](../Page/자라투스트라는_이렇게_말했다.md "wikilink")
 2.  [Constant Motion](../Page/Constant_Motion.md "wikilink")
 3.  Panic Attack
 4.  Blind Faith

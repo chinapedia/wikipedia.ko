@@ -67,7 +67,7 @@ __NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Pa
 
   - [눈이 부시게](../Page/눈이_부시게.md "wikilink")   ([2019년](../Page/2019년.md "wikilink") [2월 11일](../Page/2월_11일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink"))
 
-  - [뉴스 콘서트](https://ko.wikipedia.org/wiki/뉴스_콘서트 "wikilink")  ([2013년](../Page/2013년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink"))
+  - [뉴스 콘서트](../Page/뉴스콘서트_\(JTBC\).md "wikilink")  ([2013년](../Page/2013년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink"))
 
   - [뉴스전망대](https://ko.wikipedia.org/wiki/뉴스전망대 "wikilink")  ([2011년](../Page/2011년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink") \~ [2012년](../Page/2012년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink"))
 
@@ -319,11 +319,15 @@ __NOTOC__ 다음은 **[JTBC](../Page/JTBC.md "wikilink")의 [텔레비전](../Pa
 
   - [연예 포토라인](https://ko.wikipedia.org/wiki/연예_포토라인 "wikilink")   ([2011년](../Page/2011년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink"))
 
-  - [열여덟의 순간](../Page/열여덟의_순간.md "wikilink")   ([2019년](../Page/2019년.md "wikilink") [7월](../Page/7월.md "wikilink") \~ )
+  - [열여덟의 순간](../Page/열여덟의_순간.md "wikilink")   ([2019년](../Page/2019년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink") \~ 2019년 9월 10일)
 
   - [와글와글 동네왕](https://ko.wikipedia.org/wiki/와글와글_동네왕 "wikilink")  ([2013년](../Page/2013년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink"))
 
-  - [에브리바디](../Page/에브리바디_\(텔레비전_프로그램\).md "wikilink")   ([2014년](../Page/2014년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink"))
+  - [에브리바디](../Page/에브리바디_\(텔레비전_프로그램\).md "wikilink")
+
+([2014년](../Page/2014년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink"))
+
+  - [우리, 사랑했을까](https://ko.wikipedia.org/wiki/우리,_사랑했을까 "wikilink") (2020년 7월 8일\~2020년 9월 2일)
 
   - [우리가 결혼할 수 있을까](../Page/우리가_결혼할_수_있을까.md "wikilink")   ([2012년](../Page/2012년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"))
 

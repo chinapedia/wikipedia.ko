@@ -3,7 +3,7 @@
 
 《**노부나가의 야망 Online**》()은 [코에이](../Page/코에이.md "wikilink")가 자사의 [시뮬레이션 게임](https://ko.wikipedia.org/wiki/시뮬레이션_게임 "wikilink") [노부나가의 야망 시리즈의](../Page/노부나가의_야망_시리즈.md "wikilink") [세계관](../Page/세계관.md "wikilink")을 베이스로 발매한 [MMORPG](https://ko.wikipedia.org/wiki/MMORPG "wikilink")이다. 본작은 [플레이스테이션 2](../Page/플레이스테이션_2.md "wikilink")(PS2)용으로서는 《[파이널 판타지 XI](../Page/파이널_판타지_XI.md "wikilink")》에 이어 2번째로 나온 MMORPG이지만, 플레이어 캐릭터 간의 대전이나 세력 간의 전투가 가능한 것이 《파이널 판타지 XI》와 다른 점이다.
 
-MMORPG로서는 드문 [센고쿠 시대의](../Page/센고쿠_시대.md "wikilink") [일본](../Page/일본.md "wikilink")이 배경으로, [사무라이](../Page/사무라이.md "wikilink")나 [닌자](../Page/닌자.md "wikilink") 등의 [직업](../Page/직업.md "wikilink")과 파티를 '도당(徒党)'이라고 부르는 것 등, 일본풍의 세계관을 전면에 내세운 작품이다. 단 '사실에 너무 구애되면 자유도를 잃어버리게 된다'고 하는 설계 사상에 기초를 두어, [신화](../Page/신화.md "wikilink")나 [오컬트](https://ko.wikipedia.org/wiki/오컬트 "wikilink") 등 [판타지](../Page/판타지.md "wikilink")의 요소도 가미되었다.
+MMORPG로서는 드문 [센고쿠 시대의](../Page/센고쿠_시대.md "wikilink") [일본](../Page/일본.md "wikilink")이 배경으로, [사무라이](../Page/사무라이.md "wikilink")나 [닌자](../Page/닌자.md "wikilink") 등의 [직업](../Page/직업.md "wikilink")과 파티를 '도당(徒党)'이라고 부르는 것 등, 일본풍의 세계관을 전면에 내세운 작품이다. 단 '사실에 너무 구애되면 자유도를 잃어버리게 된다'고 하는 설계 사상에 기초를 두어, [신화](../Page/신화.md "wikilink")나 [오컬트](../Page/오컬트.md "wikilink") 등 [판타지](../Page/판타지.md "wikilink")의 요소도 가미되었다.
 
 [PlayStation BB Unit이](https://ko.wikipedia.org/wiki/PlayStation_BB_Unit "wikilink") 필수이기 때문에, SCPH-70000 이후의 얇은 형태의 PS2에서는 플레이가 불가능하다.
 

@@ -56,6 +56,6 @@
 
 <references />
 
-[분류:메이플스토리](https://ko.wikipedia.org/wiki/분류:메이플스토리 "wikilink") [분류:대한민국의 만화](https://ko.wikipedia.org/wiki/분류:대한민국의_만화 "wikilink") [분류:게임의 만화화 작품](https://ko.wikipedia.org/wiki/분류:게임의_만화화_작품 "wikilink") [분류:책 시리즈](https://ko.wikipedia.org/wiki/분류:책_시리즈 "wikilink")
+[분류:메이플스토리](https://ko.wikipedia.org/wiki/분류:메이플스토리 "wikilink") [분류:대한민국의 만화](https://ko.wikipedia.org/wiki/분류:대한민국의_만화 "wikilink") [분류:비디오 게임을 바탕으로 한 만화](https://ko.wikipedia.org/wiki/분류:비디오_게임을_바탕으로_한_만화 "wikilink") [분류:만화 시리즈](https://ko.wikipedia.org/wiki/분류:만화_시리즈 "wikilink")
 
 1.

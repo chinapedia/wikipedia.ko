@@ -59,7 +59,7 @@
 <li><a href="../Page/SSE2.md" title="wikilink">SSE2</a></li>
 <li><a href="../Page/SSE3.md" title="wikilink">SSE3</a></li>
 <li><a href="../Page/SSSE3.md" title="wikilink">SSSE3</a></li>
-<li><a href="https://ko.wikipedia.org/wiki/SIMD" title="wikilink">SIMD</a></li>
+<li><a href="../Page/SIMD.md" title="wikilink">SIMD</a></li>
 <li><a href="../Page/고급_벡터_확장.md" title="wikilink">AVX</a></li>
 </ul></td>
 <td><ul>

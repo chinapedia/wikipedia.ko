@@ -136,7 +136,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/그랜드래피즈_드라이브.md" title="wikilink">그랜드래피즈 드라이브</a></p></td>
-<td><p><a href="../Page/미시간주.md" title="wikilink">미시간주</a> <a href="https://ko.wikipedia.org/wiki/워커" title="wikilink">워커</a></p></td>
+<td><p><a href="../Page/미시간주.md" title="wikilink">미시간주</a> <a href="../Page/워커.md" title="wikilink">워커</a></p></td>
 <td><p><a href="../Page/델타플렉스_아레나.md" title="wikilink">델타플렉스 아레나</a></p></td>
 <td><p>4,500명</p></td>
 <td><p>2006년</p></td>

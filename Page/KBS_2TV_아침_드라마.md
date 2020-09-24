@@ -5,17 +5,7 @@
 
 《[차달래 부인의 사랑](../Page/차달래_부인의_사랑.md "wikilink")》을 마지막으로 **KBS 2TV 아침 드라마**는 폐지 되었다.
 
-## 제공 시보(9시)(2001년 \~ 2002년)
-
-  - [LG생활건강](../Page/LG생활건강.md "wikilink") 노비드, 드봉비누, 자연퐁
-
-## 제공 시보(9시)(2002년 \~ 2003년)
-
-  - [위니아딤채](https://ko.wikipedia.org/wiki/위니아딤채 "wikilink") 발효과학 딤채, 뉴온 정수기
-
-## 제공 시보(9시)(2004년 \~ 2006년)
-
-  - [KBS 2TV](../Page/KBS_2TV.md "wikilink") 오전 9시 시보
+## 방송 시간
 
 ## 작품 리스트
 
@@ -81,12 +71,12 @@
   - 《[엄마도 예쁘다](../Page/엄마도_예쁘다.md "wikilink")》 : 2010년 4월 5일 \~ 2010년 10월 23일
   - 《[사랑하길 잘했어](../Page/사랑하길_잘했어.md "wikilink")》 : 2010년 10월 25일 \~ 2011년 4월 30일
   - 《[두근두근 달콤](../Page/두근두근_달콤.md "wikilink")》 : 2011년 5월 2일 \~ 2011년 11월 4일
-  - 《[차달래 부인의 사랑](../Page/차달래_부인의_사랑.md "wikilink")》 : 2018년 9월 3일 \~ 2019년 1월 18일 (해당 작품을 마지막으로 KBS 2TV 아침 드라마 폐지)
+  - 《[차달래 부인의 사랑](../Page/차달래_부인의_사랑.md "wikilink")》 : 2018년 9월 3일 \~ 2019년 1월 18일 (해당 작품을 마지막으로 **KBS 2TV 아침 드라마** 폐지)
 
 ## 같이 보기
 
   - [KBS 1TV 아침 드라마](https://ko.wikipedia.org/wiki/KBS_1TV_아침_드라마 "wikilink")
   - [MBC 아침 드라마](../Page/MBC_아침_드라마.md "wikilink")
-  - [SBS 아침 드라마](https://ko.wikipedia.org/wiki/SBS_아침_드라마 "wikilink")
+  - [SBS 아침 드라마](../Page/SBS_아침_드라마.md "wikilink")
 
 [분류:한국방송공사의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:한국방송공사_2TV_아침드라마 "wikilink")

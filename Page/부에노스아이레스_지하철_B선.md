@@ -13,7 +13,7 @@
 
   - 레안드로 N. 알렘 [20px](https://ko.wikipedia.org/wiki/파일:Línea_E_\(SBASE\)_bullet.svg "wikilink") [숩테 E선](../Page/부에노스아이레스_지하철_E선.md "wikilink")
   - 플로리다
-  - 카를로스 펠레그리니 [20px](https://ko.wikipedia.org/wiki/파일:Línea_D_\(SBASE\)_bullet.svg "wikilink") [숩테 D선](../Page/부에노스아이레스_지하철_D선.md "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBASE\)_bullet.svg "wikilink") [숩테 C선](https://ko.wikipedia.org/wiki/부에노스아이레스_지하철_C선 "wikilink")
+  - 카를로스 펠레그리니 [20px](https://ko.wikipedia.org/wiki/파일:Línea_D_\(SBASE\)_bullet.svg "wikilink") [숩테 D선](../Page/부에노스아이레스_지하철_D선.md "wikilink") [20px](https://ko.wikipedia.org/wiki/파일:Línea_C_\(SBASE\)_bullet.svg "wikilink") [숩테 C선](../Page/부에노스아이레스_지하철_C선.md "wikilink")
   - 우르과이
   - 카야오
   - 파스퇴르

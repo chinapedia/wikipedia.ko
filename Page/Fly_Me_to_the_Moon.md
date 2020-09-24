@@ -27,11 +27,11 @@
 
 [2009년](../Page/2009년.md "wikilink") [7월 20일에는](../Page/7월_20일.md "wikilink") 캐나다 재즈 피아니스트인 [다이애나 크롤이](../Page/다이애나_크롤.md "wikilink") [미국](../Page/미국.md "wikilink") [워싱턴](../Page/워싱턴_D.C..md "wikilink") [스미소니언 항공우주 박물관에서](https://ko.wikipedia.org/wiki/스미소니언_항공우주_박물관 "wikilink") 열린 아폴로 11호 40주년 기념식에서 'Fly me to the moon'을 연주했는데, 아폴로 11호의 세 승무원도 참석했다.
 
-[세가](https://ko.wikipedia.org/wiki/세가 "wikilink")의 스타일리쉬 액션 게임 [바요네타](https://ko.wikipedia.org/wiki/바요네타 "wikilink")의 테마곡으로도 쓰이는데, 주로 일반 버전과 논스톱 클라이맥스 버전 두 가지가 있다.
+[세가](../Page/세가.md "wikilink")의 스타일리쉬 액션 게임 [바요네타](https://ko.wikipedia.org/wiki/바요네타 "wikilink")의 테마곡으로도 쓰이는데, 주로 일반 버전과 논스톱 클라이맥스 버전 두 가지가 있다.
 
 ## 트리비아
 
-[이소연은](../Page/이소연_\(공학자\).md "wikilink") 소유스 TMA-12에 탑승했었던 당시 후기 미션 기자회견에서 승무원들과 'Fly me to the moon'을 불렀으며, [2009년](../Page/2009년.md "wikilink") 11월 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 드라마인 [미남이시네요](../Page/미남이시네요.md "wikilink")에서 [장근석](../Page/장근석.md "wikilink")이 이 곡을 불렀다. [아마존에](https://ko.wikipedia.org/wiki/아마존_닷_컴 "wikilink") 'Fly to the moon'을 치면 800개 이상의 [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink")파일이 검색된다. [신세기 에반게리온에](../Page/신세기_에반게리온.md "wikilink") 삽입된 적도 있으며 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")의 논스톱 스타일리쉬 액션 게임 [바요네타](https://ko.wikipedia.org/wiki/바요네타 "wikilink")의 테마곡으로도 쓰였다.(주로 일반 버전과 논스톱 클라이맥스 버전 두 가지가 있다)
+[이소연은](../Page/이소연_\(공학자\).md "wikilink") 소유스 TMA-12에 탑승했었던 당시 후기 미션 기자회견에서 승무원들과 'Fly me to the moon'을 불렀으며, [2009년](../Page/2009년.md "wikilink") 11월 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 드라마인 [미남이시네요](../Page/미남이시네요.md "wikilink")에서 [장근석](../Page/장근석.md "wikilink")이 이 곡을 불렀다. [아마존에](https://ko.wikipedia.org/wiki/아마존_닷_컴 "wikilink") 'Fly to the moon'을 치면 800개 이상의 [MP3](https://ko.wikipedia.org/wiki/MP3 "wikilink")파일이 검색된다. [신세기 에반게리온에](../Page/신세기_에반게리온.md "wikilink") 삽입된 적도 있으며 [세가](../Page/세가.md "wikilink")의 논스톱 스타일리쉬 액션 게임 [바요네타](https://ko.wikipedia.org/wiki/바요네타 "wikilink")의 테마곡으로도 쓰였다.(주로 일반 버전과 논스톱 클라이맥스 버전 두 가지가 있다)
 
 ## 각주
 

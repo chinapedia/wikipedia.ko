@@ -31,7 +31,7 @@ C.E(코즈믹 이러) 71년 6월 15일, 오브 연합 수장국의 오노고로 
 
   - 건담
 
-[프리덤 건담](https://ko.wikipedia.org/wiki/프리덤_건담 "wikilink")
+[프리덤 건담](../Page/프리덤_건담.md "wikilink")
 
 [스트라이크 프리덤 건담](https://ko.wikipedia.org/wiki/스트라이크_프리덤_건담 "wikilink")
 

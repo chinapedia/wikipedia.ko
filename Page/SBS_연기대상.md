@@ -436,7 +436,7 @@
 </p></td>
 <td><p><a href="../Page/차인표.md" title="wikilink">차인표</a><br />
 <a href="../Page/송혜교.md" title="wikilink">송혜교</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/완전한_사랑_(2003년_드라마)" title="wikilink">완전한 사랑</a><br />
+<td><p><a href="../Page/완전한_사랑_(2003년_드라마).md" title="wikilink">완전한 사랑</a><br />
 <a href="../Page/올인.md" title="wikilink">올인</a> |- align=center|- align=center</p></td>
 </tr>
 <tr class="even">
@@ -1174,7 +1174,7 @@
 <tr class="even">
 <td><p>로맨틱코미디 부문 우수 연기상</p></td>
 <td><p><a href="../Page/강민혁_(가수).md" title="wikilink">강민혁</a><br />
-<a href="https://ko.wikipedia.org/wiki/방민아" title="wikilink">민아</a></p></td>
+<a href="../Page/방민아.md" title="wikilink">민아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/딴따라" title="wikilink">딴따라</a><br />
 <a href="https://ko.wikipedia.org/wiki/미녀_공심이" title="wikilink">미녀 공심이</a></p></td>
 </tr>
@@ -1258,7 +1258,7 @@
 <a href="../Page/김민석_(배우).md" title="wikilink">김민석</a><br />
 <a href="https://ko.wikipedia.org/wiki/백현_(가수)" title="wikilink">백현</a><br />
 <a href="../Page/양진성.md" title="wikilink">양진성</a><br />
-<a href="https://ko.wikipedia.org/wiki/방민아" title="wikilink">민아</a><br />
+<a href="../Page/방민아.md" title="wikilink">민아</a><br />
 <a href="../Page/혜리.md" title="wikilink">혜리</a><br />
 <a href="../Page/문지인.md" title="wikilink">문지인</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/끝에서_두번째_사랑" title="wikilink">끝에서 두번째 사랑</a><br />
@@ -1614,7 +1614,7 @@
 | 21 | [2013년](../Page/2013년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [이보영](../Page/이보영_\(배우\).md "wikilink"), [김우빈](../Page/김우빈.md "wikilink")                                             |
 | 22 | [2014년](../Page/2014년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [박신혜](../Page/박신혜.md "wikilink"), [박서준](../Page/박서준.md "wikilink")                                                    |
 | 23 | [2015년](../Page/2015년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [임지연](../Page/임지연.md "wikilink"), [유준상](https://ko.wikipedia.org/wiki/유준상 "wikilink")                                 |
-| 24 | [2016년](../Page/2016년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [장근석](../Page/장근석.md "wikilink"), [민아](https://ko.wikipedia.org/wiki/방민아 "wikilink")                                  |
+| 24 | [2016년](../Page/2016년.md "wikilink") | [이휘재](../Page/이휘재.md "wikilink"), [장근석](../Page/장근석.md "wikilink"), [민아](../Page/방민아.md "wikilink")                                                     |
 | 25 | [2017년](../Page/2017년.md "wikilink") | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [이보영](../Page/이보영_\(배우\).md "wikilink")                                                                       |
 | 26 | [2018년](../Page/2018년.md "wikilink") | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [신혜선](../Page/신혜선.md "wikilink"), [이제훈](../Page/이제훈.md "wikilink")                                            |
 | 27 | [2019년](../Page/2019년.md "wikilink") | [신동엽](../Page/신동엽_\(희극인\).md "wikilink"), [장나라](../Page/장나라.md "wikilink")                                                                              |
@@ -1651,8 +1651,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/수도권_(대한민국)" title="wikilink">수도권</a><br />
 (<a href="../Page/서울특별시.md" title="wikilink">서울</a>·<a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천</a>·<a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기</a>)</p></td>
 <td><p><a href="../Page/SBS_(대한민국의_방송사).md" title="wikilink">SBS</a></p></td>
-<td><p>매년 <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a> 방송(9개 지역 민방 네트워크로 릴레이 송출)<br />
-(방송 시간은 편성 상황에 따라 유동적으로 달라질 수 있음)</p></td>
+<td><p>매년 <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a> 방송(9개 지역 민방 <a href="https://ko.wikipedia.org/wiki/동시_네트워크" title="wikilink">동시 네트워크로</a> 릴레이 송출되며<br />
+방송 시간은 편성 상황에 따라 유동적으로 달라질 수 있음)</p></td>
 <td><p>키국(프로그램 제작국)</p></td>
 </tr>
 <tr class="even">
@@ -1663,7 +1663,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산</a>·<a href="https://ko.wikipedia.org/wiki/경상남도" title="wikilink">경남</a></p></td>
-<td><p><a href="../Page/KNN.md" title="wikilink">KNN 부산경남방송</a>(구 PSB 부산방송)[9]</p></td>
+<td><p><a href="../Page/KNN.md" title="wikilink">KNN 부산경남방송</a> (구 PSB 부산방송)[9]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1699,7 +1699,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/강원민방" title="wikilink">G1 강원민방</a>(구 GTB 강원민방)[11]</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/강원민방" title="wikilink">G1 강원민방</a> (구 GTB 강원민방)[11]</p></td>
 <td><p>제9회(<a href="../Page/2001년.md" title="wikilink">2001년</a>)부터 시작</p></td>
 <td></td>
 </tr>

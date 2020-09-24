@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - [IPTV](../Page/IPTV.md "wikilink") 업체와 [포털사이트](https://ko.wikipedia.org/wiki/포털사이트 "wikilink"), [극장](https://ko.wikipedia.org/wiki/극장 "wikilink"), [전광판](https://ko.wikipedia.org/wiki/전광판 "wikilink") 등에 영상 재판매한 금액도 있어 650억 원에 플러스 알파의 매출을 기록했다. [SBS가](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 이번 월드컵 단독 중계를 위해 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 지불한 중계권료는 750억 원, 여기에 [방송](../Page/방송.md "wikilink") 제작비 100억 원 등 총 1086억 원을 쓴 것으로 알려졌다.\[10\]
+  - [IPTV](../Page/IPTV.md "wikilink") 업체와 [포털사이트](https://ko.wikipedia.org/wiki/포털사이트 "wikilink"), [극장](../Page/극장.md "wikilink"), [전광판](https://ko.wikipedia.org/wiki/전광판 "wikilink") 등에 영상 재판매한 금액도 있어 650억 원에 플러스 알파의 매출을 기록했다. [SBS가](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 이번 월드컵 단독 중계를 위해 [FIFA](https://ko.wikipedia.org/wiki/FIFA "wikilink")에 지불한 중계권료는 750억 원, 여기에 [방송](../Page/방송.md "wikilink") 제작비 100억 원 등 총 1086억 원을 쓴 것으로 알려졌다.\[10\]
 
 <!-- end list -->
 

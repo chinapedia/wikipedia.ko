@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 1TV 일일 드라마](https://ko.wikipedia.org/wiki/KBS_1TV_일일_드라마).
 
 
-**KBS 1TV 일일 드라마**는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 밤 8시 30분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송중인 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+**KBS 1TV 일일 드라마**는 매주 [월요일](../Page/월요일.md "wikilink")부터 [금요일](../Page/금요일.md "wikilink") 오후 8시 30분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송 중인 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
 ## 일일 드라마 방송 시간
 
@@ -89,8 +89,8 @@
   - 《[별난여자 별난남자](../Page/별난여자_별난남자.md "wikilink")》 : 2005년 9월 26일 \~ 2006년 5월 19일
   - 《[열아홉 순정](../Page/열아홉_순정_\(드라마\).md "wikilink")》 : 2006년 5월 22일 \~ 2007년 1월 12일
   - 《[하늘만큼 땅만큼](../Page/하늘만큼_땅만큼.md "wikilink")》 : 2007년 1월 15일 \~ 2007년 8월 31일
-  - 《[미우나 고우나](../Page/미우나_고우나_\(2007년_드라마\).md "wikilink")》 : 2007년 9월 3일 \~ 2008년 5월 2일 : [SD](https://ko.wikipedia.org/wiki/SD "wikilink")로 제작된 마지막 작품
-  - 《[너는 내 운명](../Page/너는_내_운명_\(드라마\).md "wikilink")》 : 2008년 5월 5일 \~ 2009년 1월 9일 : 이 작품부터 [HD](https://ko.wikipedia.org/wiki/HD "wikilink")방송 시작
+  - 《[미우나 고우나](../Page/미우나_고우나_\(2007년_드라마\).md "wikilink")》 : 2007년 9월 3일 \~ 2008년 5월 2일 ([SD](https://ko.wikipedia.org/wiki/SD "wikilink")로 제작된 마지막 작품)
+  - 《[너는 내 운명](../Page/너는_내_운명_\(드라마\).md "wikilink")》 : 2008년 5월 5일 \~ 2009년 1월 9일 (이 작품부터 [HD](https://ko.wikipedia.org/wiki/HD "wikilink") 방송 시작)
   - 《[집으로 가는 길](../Page/집으로_가는_길_\(드라마\).md "wikilink")》 : 2009년 1월 12일 \~ 2009년 6월 26일
   - 《[다 함께 차차차](../Page/다_함께_차차차_\(2009년_드라마\).md "wikilink")》 : 2009년 6월 29일 \~ 2010년 1월 29일
 
@@ -103,7 +103,7 @@
   - 《[별도 달도 따줄게](../Page/별도_달도_따줄게.md "wikilink")》 : 2012년 5월 7일 \~ 2012년 11월 2일
   - 《[힘내요 미스터 김](../Page/힘내요_미스터_김.md "wikilink")》 : 2012년 11월 5일 \~ 2013년 4월 26일
   - 《[지성이면 감천](../Page/지성이면_감천.md "wikilink")》 : 2013년 4월 29일 \~ 2013년 11월 1일
-  - 《[사랑은 노래를 타고](../Page/사랑은_노래를_타고.md "wikilink")》 : 2014년 11월 4일 \~ 2014년 6월 6일
+  - 《[사랑은 노래를 타고](../Page/사랑은_노래를_타고.md "wikilink")》 : 2013년 11월 4일 \~ 2014년 6월 6일
   - 《[고양이는 있다](../Page/고양이는_있다.md "wikilink")》 : 2014년 6월 9일 \~ 2014년 11월 21일
   - 《[당신만이 내사랑](../Page/당신만이_내사랑.md "wikilink")》 : 2014년 11월 24일 \~ 2015년 5월 8일
   - 《[가족을 지켜라](../Page/가족을_지켜라.md "wikilink")》 : 2015년 5월 11일 \~ 2015년 10월 30일
@@ -128,9 +128,9 @@
 
 ## 같이 보기
 
-  - [KBS 2TV 일일 드라마](https://ko.wikipedia.org/wiki/KBS_2TV_일일_드라마 "wikilink")
+  - [KBS 2TV 일일 드라마](../Page/KBS_2TV_일일_드라마.md "wikilink")
   - [MBC 일일 드라마](../Page/MBC_일일_드라마.md "wikilink")
-  - [SBS 일일 드라마](https://ko.wikipedia.org/wiki/SBS_일일_드라마 "wikilink")
+  - [SBS 일일 드라마](../Page/SBS_일일_드라마.md "wikilink")
 
 [분류:한국방송공사의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [분류:한국방송공사 1TV 일일연속극](https://ko.wikipedia.org/wiki/분류:한국방송공사_1TV_일일연속극 "wikilink")
 

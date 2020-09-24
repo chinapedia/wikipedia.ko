@@ -60,7 +60,7 @@
 <td></td>
 <td><p><span style="color:{{JR 노선색|W-KATA}};">■</span> <a href="https://ko.wikipedia.org/wiki/가타마치_선" title="wikilink">가타마치 선</a> (갓켄토시 선)·<span style="color:{{JR 노선색|W-OSAK}};">■</span><a href="../Page/오사카_순환선.md" title="wikilink">오사카 순환선</a><br />
 <span style="color:{{일본 사철 노선색|KH}};">■</span> <a href="../Page/게이한_전기_철도.md" title="wikilink">게이한 전기 철도</a> <a href="https://ko.wikipedia.org/wiki/게이한_전기_철도_본선" title="wikilink">본선</a><br />
-<span style="color:#94c747;">■</span> <a href="https://ko.wikipedia.org/wiki/오사카_메트로" title="wikilink">오사카 메트로</a> <a href="../Page/오사카시_고속_전기궤도_나가호리쓰루미료쿠치_선.md" title="wikilink">나가호리쓰루미료쿠치선</a> (N22)</p></td>
+<span style="color:#94c747;">■</span> <a href="https://ko.wikipedia.org/wiki/오사카_메트로" title="wikilink">오사카 메트로</a> <a href="https://ko.wikipedia.org/wiki/오사카_메트로_나가호리쓰루미료쿠치선" title="wikilink">나가호리쓰루미료쿠치선</a> (N22)</p></td>
 <td><p>-</p></td>
 <td><p>0.0</p></td>
 <td><p><a href="../Page/오사카부.md" title="wikilink">오사카부</a> <a href="../Page/오사카시.md" title="wikilink">오사카시</a></p></td>
@@ -76,7 +76,7 @@
 <tr class="odd">
 <td><p><a href="../Page/오사카텐만구_역.md" title="wikilink">오사카텐만구</a></p></td>
 <td></td>
-<td><p><span style="color:#362965;">■</span> 오사카 메트로 <a href="../Page/오사카시_고속_전기궤도_다니마치_선.md" title="wikilink">다니마치선</a> (<a href="../Page/미나미모리마치_역.md" title="wikilink">미나미모리마치 역</a>)·<span style="color:#632a17;">■</span> <a href="../Page/오사카시_고속_전기궤도_사카이스지_선.md" title="wikilink">사카이스지선</a> (미나미모리마치 역)</p></td>
+<td><p><span style="color:#362965;">■</span> 오사카 메트로 <a href="https://ko.wikipedia.org/wiki/오사카_메트로_다니마치선" title="wikilink">다니마치선</a> (<a href="../Page/미나미모리마치_역.md" title="wikilink">미나미모리마치 역</a>)·<span style="color:#632a17;">■</span> <a href="https://ko.wikipedia.org/wiki/오사카_메트로_사카이스지선" title="wikilink">사카이스지선</a> (미나미모리마치 역)</p></td>
 <td><p>1.3</p></td>
 <td><p>2.2</p></td>
 <td><p><a href="../Page/기타구_(오사카시).md" title="wikilink">기타구</a></p></td>
@@ -88,7 +88,7 @@
 <span style="color:{{JR 노선색|W}};">■</span> <a href="../Page/JR_고베_선.md" title="wikilink">JR 고베 선</a> (오사카 역)<br />
 <span style="color:{{JR 노선색|W-FUKU}};">■</span> <a href="https://ko.wikipedia.org/wiki/후쿠치야마_선" title="wikilink">JR 다카라즈카 선</a> (오사카 역)<br />
 <span style="color:{{JR 노선색|W-OSAK}};">■</span> <a href="../Page/오사카_순환선.md" title="wikilink">오사카 순환선</a> (오사카 역)<br />
-<span style="color:#e7211a;">■</span> 오사카 메트로 <a href="../Page/오사카시_고속_전기궤도_미도스지_선.md" title="wikilink">미도스지선</a> (<a href="https://ko.wikipedia.org/wiki/우메다_역" title="wikilink">우메다 역</a>)·<span style="color:#362965;">■</span> 다니마치선 (<a href="../Page/히가시우메다_역.md" title="wikilink">히가시우메다 역</a>)·<span style="color:#0d5c9e;">■</span> <a href="../Page/오사카시_고속_전기궤도_요쓰바시_선.md" title="wikilink">요쓰바시선</a> (<a href="../Page/니시우메다_역.md" title="wikilink">니시우메다 역</a>)<br />
+<span style="color:#e7211a;">■</span> 오사카 메트로 <a href="https://ko.wikipedia.org/wiki/오사카_메트로_미도스지선" title="wikilink">미도스지선</a> (<a href="https://ko.wikipedia.org/wiki/우메다_역" title="wikilink">우메다 역</a>)·<span style="color:#362965;">■</span> 다니마치선 (<a href="../Page/히가시우메다_역.md" title="wikilink">히가시우메다 역</a>)·<span style="color:#0d5c9e;">■</span> <a href="https://ko.wikipedia.org/wiki/오사카_메트로_요쓰바시선" title="wikilink">요쓰바시선</a> (<a href="../Page/니시우메다_역.md" title="wikilink">니시우메다 역</a>)<br />
 <span style="color:{{일본 사철 노선색|HS}};">■</span> <a href="https://ko.wikipedia.org/wiki/한신_전기_철도" title="wikilink">한신 전기 철도</a> <a href="https://ko.wikipedia.org/wiki/한신_전기_철도_본선" title="wikilink">본선</a> (우메다 역)<br />
 <span style="color:{{일본 사철 노선색|HQ}};">■</span> <a href="https://ko.wikipedia.org/wiki/한큐_전철" title="wikilink">한큐 전철</a> <a href="https://ko.wikipedia.org/wiki/한큐_전철_고베_본선" title="wikilink">고베 본선</a>·<a href="https://ko.wikipedia.org/wiki/한큐_전철_교토_본선" title="wikilink">교토 본선</a>·<a href="https://ko.wikipedia.org/wiki/한큐_전철_다카라즈카_본선" title="wikilink">다카라즈카 본선</a> (우메다 역)<br />
 <span style="color:{{일본 사철 노선색|KH}};">■</span> 게이한 전기 철도 <a href="https://ko.wikipedia.org/wiki/게이한_전기_철도_나카노시마_선" title="wikilink">나카노시마 선</a> (<a href="../Page/와타나베바시_역.md" title="wikilink">와타나베바시 역</a>)</p></td>
@@ -110,7 +110,7 @@
 <td><p><a href="../Page/에비에_역.md" title="wikilink">에비에</a></p></td>
 <td></td>
 <td><p><span style="color:{{일본 사철 노선색|HS}};">■</span> 한신 전기 철도 본선<br />
-<span style="color:#df3b8f;">■</span> 오사카 메트로 <a href="../Page/오사카시_고속_전기궤도_센니치마에_선.md" title="wikilink">센니치마에선</a> (<a href="../Page/노다한신_역.md" title="wikilink">노다한신 역</a>)</p></td>
+<span style="color:#df3b8f;">■</span> 오사카 메트로 <a href="https://ko.wikipedia.org/wiki/오사카_메트로_센니치마에선" title="wikilink">센니치마에선</a> (<a href="../Page/노다한신_역.md" title="wikilink">노다한신 역</a>)</p></td>
 <td><p>1.2</p></td>
 <td><p>6.0</p></td>
 <td></td>

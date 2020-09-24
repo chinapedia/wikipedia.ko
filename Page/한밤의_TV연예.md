@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [한밤의 TV연예](https://ko.wikipedia.org/wiki/한밤의_TV연예).
 
 
-《**한밤의 TV연예**》는 [SBS TV에서](../Page/SBS_TV.md "wikilink") [1995년](../Page/1995년.md "wikilink") [2월 9일부터](../Page/2월_9일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [3월 23일까지](../Page/3월_23일.md "wikilink") 방송되었던 [연예](https://ko.wikipedia.org/wiki/연예 "wikilink") 정보 프로그램이다.
+《**한밤의 TV연예**》는 [SBS TV에서](../Page/SBS_TV.md "wikilink") [1995년](../Page/1995년.md "wikilink") [2월 9일부터](../Page/2월_9일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [3월 23일까지](../Page/3월_23일.md "wikilink") 방송되었던 [연예](../Page/연예.md "wikilink") 정보 프로그램이다.
 
 ## 한밤의 TV연예 역사
 
@@ -96,7 +96,7 @@
   - [2008년](../Page/2008년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") : 2008 프로야구한국시리즈 3차전 [SK 와이번스](../Page/SK_와이번스.md "wikilink") VS [두산 베어스](../Page/두산_베어스.md "wikilink") 야구 중계 방송에 따른 결방
   - [2009년](../Page/2009년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") : 축구 국가대표 평가전 [대한민국](../Page/대한민국.md "wikilink") VS [파라과이](../Page/파라과이.md "wikilink") 중계 방송에 따른 결방
   - [2009년](../Page/2009년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") : 축구 국가대표 평가전 [대한민국](../Page/대한민국.md "wikilink") VS [세네갈](../Page/세네갈.md "wikilink") 중계 방송에 따른 결방
-  - [2010년](../Page/2010년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") \~ [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : [밴쿠버 동계 올림픽](../Page/2010년_동계_올림픽.md "wikilink") 중계 방송에 따른 2주간 결방
+  - [2010년](../Page/2010년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") \~ [2월 26일](../Page/2월_26일.md "wikilink") : [밴쿠버 동계 올림픽](../Page/2010년_동계_올림픽.md "wikilink") 중계 방송에 따른 2주간 결방
   - [2010년](../Page/2010년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") : [U-20](https://ko.wikipedia.org/wiki/U-20 "wikilink") 여자월드컵 4강전 중계 방송에 따른 결방
   - [2010년](../Page/2010년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") :[추석](../Page/추석.md "wikilink")특선영화 [김 씨 표류기](https://ko.wikipedia.org/wiki/김_씨_표류기 "wikilink") 편성으로 인한 결방
   - [2010년](../Page/2010년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") [2010 SBS연예대상](https://ko.wikipedia.org/wiki/연예대상 "wikilink") 생방송에 따른 결방

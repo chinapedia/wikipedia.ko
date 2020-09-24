@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [WinMX](https://ko.wikipedia.org/wiki/WinMX).
 
 
-**WinMX**(Windows Music Exchange)\[1\]는 [프리웨어](../Page/프리웨어.md "wikilink")로 제공되는 [윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [P2P](../Page/P2P.md "wikilink") [파일 공유](../Page/파일_공유.md "wikilink") 프로그램으로, 프론트코드 테크놀로지스(Frontcode Technologies)가 2001년에 개발하였다. 한 연구에 따르면,\[2\] 2005년에 210만 명의 사용자들이 온라인 음악 파일을 공유하였고 당시 음악 공유 1위의 원천이 되었다고 한다. 프론트코드 자체는 2005년 11월에 WinMX의 개발을 중단하였으나 개발자들의 커뮤니티에서 패치들이나 새로운 호스트 파일들을 수일 안에 공개함으로써 서비스를 다시 시작하기도 했다. 북미에서 WinMX는 [비트토렌트](https://ko.wikipedia.org/wiki/비트토렌트 "wikilink")와 [그누텔라](../Page/그누텔라.md "wikilink")와 같은 다른 네트워크에 잠식 당하기도 했지만 일본에서는 2006년 기준으로 300만 명이 넘는 사용자들이 즐길만큼 가장 유명한 P2P 클라이언트들 가운데 하나로 남기도 했다.\[3\] 대한민국에서는 한때 [소리바다](../Page/소리바다.md "wikilink") 서버를 이용하지 못하는 사태가 벌어지자 수많은 사용자들이 WinMX를 대신 사용한 것으로 알려져 있다.
+**WinMX**(Windows Music Exchange)\[1\]는 [프리웨어](../Page/프리웨어.md "wikilink")로 제공되는 [윈도용](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [P2P](../Page/P2P.md "wikilink") [파일 공유](../Page/파일_공유.md "wikilink") 프로그램으로, 프론트코드 테크놀로지스(Frontcode Technologies)가 2001년에 개발하였다. 한 연구에 따르면,\[2\] 2005년에 210만 명의 사용자들이 온라인 음악 파일을 공유하였고 당시 음악 공유 1위의 원천이 되었다고 한다. 프론트코드 자체는 2005년 11월에 WinMX의 개발을 중단하였으나 개발자들의 커뮤니티에서 패치들이나 새로운 호스트 파일들을 수일 안에 공개함으로써 서비스를 다시 시작하기도 했다. 북미에서 WinMX는 [비트토렌트](../Page/비트토렌트.md "wikilink")와 [그누텔라](../Page/그누텔라.md "wikilink")와 같은 다른 네트워크에 잠식 당하기도 했지만 일본에서는 2006년 기준으로 300만 명이 넘는 사용자들이 즐길만큼 가장 유명한 P2P 클라이언트들 가운데 하나로 남기도 했다.\[3\] 대한민국에서는 한때 [소리바다](../Page/소리바다.md "wikilink") 서버를 이용하지 못하는 사태가 벌어지자 수많은 사용자들이 WinMX를 대신 사용한 것으로 알려져 있다.
 
 ## 시작
 

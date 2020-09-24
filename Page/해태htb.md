@@ -26,6 +26,7 @@
   - [2016년](../Page/2016년.md "wikilink") [5월](../Page/5월.md "wikilink") - 상호명을 해태음료에서 해태htb로 변경.
   - [2019년](../Page/2019년.md "wikilink") [8월](../Page/8월.md "wikilink") - 그 동안 단종제품을 한 스포츠음료 네버스탑 재출시
   - [2019년](../Page/2019년.md "wikilink") [10월](../Page/10월.md "wikilink") - 그 동안 단종제품을 한 보리음료 보리텐 재출시
+  - [2020년](../Page/2020년.md "wikilink") [9월](../Page/9월.md "wikilink") - 김철하 회장 폐임. 이정훈, 전재호 공동대표이사 취임.
 
 ## 음료 사업
 

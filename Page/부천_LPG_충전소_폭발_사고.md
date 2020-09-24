@@ -23,7 +23,7 @@
 
 부천 LPG 폭발 사고는 사고 당일인 [1998년](../Page/1998년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") 오후 2시 14분 쯤 [부천소방서](https://ko.wikipedia.org/wiki/부천소방서 "wikilink")에 주민 신고가 접수, 오후 2시 20분경 시·구 재난상황요원이 현장에 출동, 현장 지휘소를 설치하였다. 그리고 오후 2시 30분에 경기도 상황실로 상황보고가 이루어졌으며, 오후 3시에는 사고대책본부가 시 재난상황실에 설치되었다.
 
-초동 대처 관련 사항으로 1,265명([소방서](../Page/소방서.md "wikilink") 392명, [경찰](../Page/경찰.md "wikilink") 423명, [군인](https://ko.wikipedia.org/wiki/군인 "wikilink") 45명, [공무원](https://ko.wikipedia.org/wiki/공무원 "wikilink") 194명, [의용소방대](https://ko.wikipedia.org/wiki/의용소방대 "wikilink") 124명, 기타 87명)의 인원과 177대([헬기](https://ko.wikipedia.org/wiki/헬기 "wikilink") 4대, [소방차](../Page/소방차.md "wikilink") 90대, 구조차 7대, 구급차 13대, 기타 63대)의 장비가 투입되었다.
+초동 대처 관련 사항으로 1,265명([소방서](../Page/소방서.md "wikilink") 392명, [경찰](../Page/경찰.md "wikilink") 423명, [군인](../Page/군인.md "wikilink") 45명, [공무원](https://ko.wikipedia.org/wiki/공무원 "wikilink") 194명, [의용소방대](https://ko.wikipedia.org/wiki/의용소방대 "wikilink") 124명, 기타 87명)의 인원과 177대([헬기](https://ko.wikipedia.org/wiki/헬기 "wikilink") 4대, [소방차](../Page/소방차.md "wikilink") 90대, 구조차 7대, 구급차 13대, 기타 63대)의 장비가 투입되었다.
 
 교통 통제나 질서 유지는 [부천중부경찰서](https://ko.wikipedia.org/wiki/부천중부경찰서 "wikilink")에 담당하였으며, 사고 현장 경비는 [육군](../Page/대한민국_육군.md "wikilink") 제103여단 48관리대대가 담당하였다.
 

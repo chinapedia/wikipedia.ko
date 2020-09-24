@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [이니셜 D 익스트림 스테이지](https://ko.wikipedia.org/wiki/이니셜_D_익스트림_스테이지).
 
 
-《**이니셜D 익스트림 스테이지**》(頭文字D エクストリーム ステージ)는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 [플레이 스테이션3](https://ko.wikipedia.org/wiki/플레이_스테이션3 "wikilink") 전용으로 개발한 [레이싱 게임이다](https://ko.wikipedia.org/wiki/레이싱_게임 "wikilink").
+《**이니셜D 익스트림 스테이지**》(頭文字D エクストリーム ステージ)는 [세가](../Page/세가.md "wikilink")에서 [플레이 스테이션3](https://ko.wikipedia.org/wiki/플레이_스테이션3 "wikilink") 전용으로 개발한 [레이싱 게임이다](https://ko.wikipedia.org/wiki/레이싱_게임 "wikilink").
 
 PS3로 나온 이니셜D 익스트림 스테이지. 아케이드 스테이지 버전4를 기반으로 제작되었다. PS3의 온라인기능을 이용해 다른유저와 같이 넷플레이로 배틀을 펼칠수있으나 그것은 일판에만 해당하는 이야기가 되었다. 참고로 인스톨기능이 없어 로딩이 매우 길다.
 

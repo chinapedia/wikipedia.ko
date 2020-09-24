@@ -683,7 +683,7 @@
 
   - [프로일란 레데스마](https://ko.wikipedia.org/wiki/프로일란_레데스마 "wikilink")
 
-  - [알렉상드르 알퐁스](https://ko.wikipedia.org/wiki/알렉상드르_알퐁스 "wikilink")
+  - [알렉상드르 알퐁스](../Page/알렉상드르_알퐁스.md "wikilink")
 
   - [스테판 오브레이](https://ko.wikipedia.org/wiki/스테판_오브레이 "wikilink")
 

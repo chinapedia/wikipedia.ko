@@ -18,7 +18,7 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 ## 연혁
 
   - [1996년](../Page/1996년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") : 시험 방송 개시.
-  - [1996년](../Page/1996년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") : 방송 개국(호출부호 HLSQ-FM, 수도권 FM 107.7㎒). [최화정의 파워타임](https://ko.wikipedia.org/wiki/파워_타임 "wikilink")(낮12:00 \~ 오후2:00) 방송 개시.
+  - [1996년](../Page/1996년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") : 방송 개국(호출부호 HLSQ-FM, 수도권 FM 107.7㎒). [최화정의 파워타임](https://ko.wikipedia.org/wiki/파워_타임 "wikilink")(낮 12:00 \~ 오후 2:00) 방송 개시.
   - [1997년](../Page/1997년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") : [PSB 블루웨이브FM](../Page/KNN_파워FM.md "wikilink")(호출부호 HLDG-FM, 부산권 FM 99.9㎒) 개국으로 SBS 파워FM 첫 네트워크 구축.
   - [1997년](../Page/1997년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") : [TBC 드림FM](../Page/TBC_\(대한민국의_방송사\).md "wikilink")(호출부호 HLDE-FM, 대구권 FM 99.3㎒) 개국.
   - [1998년](../Page/1998년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") : [kbc 마이FM](../Page/광주방송.md "wikilink")(호출부호 HLDH-FM. 광주권 FM 101.1㎒/전남동부권 96.7㎒) 개국.
@@ -358,13 +358,14 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 
 ## 방송 시간
 
-| 방송 채널    | 연도    | 방송 시작 시간 | 방송 종료 시간 | 비고 |
-| -------- | ----- | -------- | -------- | -- |
-| SBS 파워FM | 1996년 | 05:00    |          |    |
+| 방송 채널    | 연도    | 방송 시작 시간 | 방송 종료 시간            |
+| -------- | ----- | -------- | ------------------- |
+| SBS 파워FM | 1996년 | 05:00    | 02:00 (매월 마지막주 화요일) |
+|          | 05:00 |          |                     |
 
 ## 방송 프로그램
 
-*' 2020년 6월 2일 기준\[1\]*'
+*' 2020년 9월 21일 기준\[1\]*'
 
 <table>
 <thead>
@@ -391,9 +392,8 @@ SBS 파워FM의 첫 방송은 [1996년](../Page/1996년.md "wikilink") [11월 14
 </tr>
 <tr class="odd">
 <td><p>07:00</p></td>
-<td><p><a href="../Page/파워FM_(라디오_프로그램).md" title="wikilink">김영철의 파워FM</a><br />
-(전국방송)</p></td>
-<td><p>○</p></td>
+<td><p><a href="../Page/파워FM_(라디오_프로그램).md" title="wikilink">김영철의 파워FM</a></p></td>
+<td><p>전국방송</p></td>
 </tr>
 <tr class="even">
 <td><p>09:00</p></td>
@@ -405,21 +405,19 @@ KNN 웰빙라이프)</p></td>
 </tr>
 <tr class="odd">
 <td><p>11:00</p></td>
-<td><p><a href="../Page/씨네타운.md" title="wikilink">장예원의 씨네타운</a></p></td>
+<td><p><a href="../Page/씨네타운.md" title="wikilink">씨네타운</a></p></td>
 <td><p>△<br />
 (머니마니쇼, 평일)</p></td>
 </tr>
 <tr class="even">
 <td><p>12:00</p></td>
-<td><p><a href="../Page/최화정의_파워타임.md" title="wikilink">최화정의 파워타임</a><br />
-(전국방송)</p></td>
-<td><p>○</p></td>
+<td><p><a href="../Page/최화정의_파워타임.md" title="wikilink">최화정의 파워타임</a></p></td>
+<td><p>전국방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>14:00</p></td>
-<td><p><a href="../Page/두시탈출_컬투쇼.md" title="wikilink">두시탈출 컬투쇼</a><br />
-(전국방송)</p></td>
-<td><p>○</p></td>
+<td><p><a href="../Page/두시탈출_컬투쇼.md" title="wikilink">두시탈출 컬투쇼</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>16:00</p></td>
@@ -442,8 +440,8 @@ KNN 웰빙라이프)</p></td>
 </tr>
 <tr class="odd">
 <td><p>22:00</p></td>
-<td><p><a href="../Page/배성재의_텐.md" title="wikilink">배성재의 텐</a> (전국방송)</p></td>
-<td><p>O</p></td>
+<td><p><a href="../Page/배성재의_텐.md" title="wikilink">배성재의 텐</a></p></td>
+<td><p>△ (장원일의 음악본색) [3]</p></td>
 </tr>
 <tr class="even">
 <td><p>23:00</p></td>
@@ -464,7 +462,7 @@ KNN 웰빙라이프)</p></td>
 </table>
 
   - 《[김영철의 파워FM](../Page/파워FM_\(라디오_프로그램\).md "wikilink")》, 《[최화정의 파워타임](../Page/최화정의_파워타임.md "wikilink")》은 동시 네트워크로 일제히 방송된다.
-  - 《[두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink")》도 전국 동시 네트워크로 일제히 방송되지만, [KNN 파워FM](../Page/KNN_파워FM.md "wikilink"), [TBC 드림FM에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 프로야구 중계 시즌 (3월 하순 \~ 9월 중순) 일요일과 공휴일에는 프로야구 중계 관계로 편성이 중단된다.
+  - 《[두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink")》 , 《[배성재의 텐](../Page/배성재의_텐.md "wikilink")》도 전국 동시 네트워크로 일제히 방송되지만, [KNN 파워FM](../Page/KNN_파워FM.md "wikilink"), [TBC 드림FM에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 프로야구 중계 시즌 (3월 하순 \~ 9월 중순) 에는 프로야구 중계 관계로 편성이 중단된다. (각각 일요일과 공휴일, 매일)
   - 오전 6시 57분부터 오후 9시 57분까지 57분 교통정보가, 오전 9시 30분, 낮 12시 30분, 오후 2시 30분, 오후 7시 30분에는 [사랑으로 하나되는 세상과](https://ko.wikipedia.org/wiki/사랑으로_하나되는_세상 "wikilink") 오전 6시 30분, 오전 7시 56분, 오전 8시 30분, 오전 10시 30분, 오전 10시 56분, 오전 11시 30분, 오후 1시 30분, 오후 3시 30분, 오후 5시 30분, 오후 6시 30분, 오후 8시 30분, 오후 9시 30분, 오후 10시 30분까지 SBS 생활정보, 우리말 지킴이,사랑으로 하나되는 세상이 방송된다.
 
 ## 특집 프로그램
@@ -494,108 +492,303 @@ KNN 웰빙라이프)</p></td>
 
   - [ADT캡스](https://ko.wikipedia.org/wiki/ADT캡스 "wikilink")
   - [박문각](../Page/박문각.md "wikilink")
+  - [태영건설](../Page/태영건설.md "wikilink")
+  - 코리아 드라이브 1577-1577
 
 ## 로고송
 
 ## 역대 진행자
 
-  - [태진아](../Page/태진아.md "wikilink") - 트로트 하이웨이
-  - [김정일](../Page/김정일_\(아나운서\).md "wikilink") - 트로트 하이웨이
-  - [송영길](https://ko.wikipedia.org/wiki/송영길 "wikilink") - 트로트 하이웨이
-  - [김태욱](../Page/김태욱_\(아나운서\).md "wikilink") - [행복한 아침](../Page/행복한_아침_\(SBS\).md "wikilink")
-  - [김민지](../Page/김민지_\(아나운서\).md "wikilink") - 행복한 아침
-  - [배성재](../Page/배성재_\(아나운서\).md "wikilink") (현 배성재의 텐 진행) - 행복한 아침, 주말 유나이티드
-  - [김소원](https://ko.wikipedia.org/wiki/김소원 "wikilink") - FM 모닝와이드
-  - [곽영일](../Page/곽영일.md "wikilink") - 파워 잉글리시, 팝스 천국
-  - [신정원](https://ko.wikipedia.org/wiki/신정원 "wikilink") - 모닝 익스프레스
-  - [이혜승](../Page/이혜승.md "wikilink") - 모닝 익스프레스
-  - [박은경](https://ko.wikipedia.org/wiki/박은경 "wikilink") - 파워 플러스
-  - [유수연](../Page/유수연.md "wikilink") - Oops\! English
-  - [김영철](../Page/김영철_\(희극인\).md "wikilink") (현 김영철의 파워FM 진행) - 펀펀 투데이
-  - [이숙영](../Page/이숙영.md "wikilink") - [파워FM](../Page/파워FM_\(라디오_프로그램\).md "wikilink")
-  - [박은지](../Page/박은지_\(방송인\).md "wikilink") - [파워FM](../Page/파워FM_\(라디오_프로그램\).md "wikilink")
-  - [호란](../Page/호란.md "wikilink") - [파워FM](../Page/파워FM_\(라디오_프로그램\).md "wikilink")
-  - [김미숙](../Page/김미숙.md "wikilink") - [아름다운 이 아침](https://ko.wikipedia.org/wiki/아름다운_이_아침 "wikilink")
-  - [송승환](../Page/송승환.md "wikilink") - [씨네타운](../Page/씨네타운.md "wikilink")
-  - [심혜진](../Page/심혜진.md "wikilink") - 씨네타운
-  - [이승연](../Page/이승연.md "wikilink") - 씨네타운
-  - [공형진](../Page/공형진.md "wikilink") - 씨네타운
-  - [윤현진](https://ko.wikipedia.org/wiki/윤현진 "wikilink") - [러빙 유](https://ko.wikipedia.org/wiki/러빙_유_\(라디오_프로그램\) "wikilink")
-  - [오미희](../Page/오미희.md "wikilink") - [그대곁에](https://ko.wikipedia.org/wiki/그대곁에_\(SBS\) "wikilink")
-  - [이성미](https://ko.wikipedia.org/wiki/이성미 "wikilink") - 스트레스 제로
-  - [변정수](../Page/변정수.md "wikilink") - 앗\! 2시다
-  - [박철](https://ko.wikipedia.org/wiki/박철 "wikilink") - 2시 탈출
-  - [유정현](https://ko.wikipedia.org/wiki/유정현 "wikilink") - 2시 탈출
-  - [신성우](https://ko.wikipedia.org/wiki/신성우 "wikilink") - 뮤직 라이브
-  - [이현우](../Page/이현우_\(1966년\).md "wikilink") - 뮤직 라이브
-  - [한동준](../Page/한동준.md "wikilink") - 뮤직 라이브
-  - [장호일](../Page/장호일.md "wikilink") - 뮤직 토피아
-  - [허수경](../Page/허수경_\(방송인\).md "wikilink") - [가요풍경](https://ko.wikipedia.org/wiki/허수경의_가요풍경 "wikilink"), 해피투게더
-  - [김창렬](../Page/김창열_\(가수\).md "wikilink") - [올드스쿨](../Page/김창열의_올드스쿨.md "wikilink")
-  - [김현주](../Page/김현주_\(1964년\).md "wikilink") - [그대의 향기](https://ko.wikipedia.org/wiki/그대의_향기 "wikilink")
-  - [송채환](../Page/송채환.md "wikilink") - [그대의 향기](https://ko.wikipedia.org/wiki/그대의_향기 "wikilink")
-  - [김예분](../Page/김예분.md "wikilink") - [영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink")
-  - [채리나](../Page/채리나.md "wikilink") - 영스트리트
-  - [이지훈](https://ko.wikipedia.org/wiki/이지훈_\(1979년\) "wikilink") - 영스트리트
-  - [클릭비](https://ko.wikipedia.org/wiki/클릭비 "wikilink") - 영스트리트
-  - [하하](https://ko.wikipedia.org/wiki/하하 "wikilink") - [영스트리트(하하몽의 영스트리트)](../Page/영스트리트_\(라디오_프로그램\).md "wikilink"), [텐텐클럽](../Page/텐텐클럽.md "wikilink")
-  - [MC 몽](https://ko.wikipedia.org/wiki/MC_몽 "wikilink") - [영스트리트(하하몽의 영스트리트)](../Page/영스트리트_\(라디오_프로그램\).md "wikilink"), [동고동락](../Page/동고동락.md "wikilink")
-  - [장근석](../Page/장근석.md "wikilink") - [영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink")
-  - [김희철](../Page/김희철_\(가수\).md "wikilink") - [영스트리트(김희철 박희본의 영스트리트, 김희철의 영스트리트)](../Page/영스트리트_\(라디오_프로그램\).md "wikilink")
-  - [박희본](../Page/박희본.md "wikilink") - [영스트리트(김희철 박희본의 영스트리트)](../Page/영스트리트_\(라디오_프로그램\).md "wikilink")
-  - [김규종](../Page/김규종.md "wikilink"), [박정민](../Page/박정민_\(가수\).md "wikilink") - [영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink")
-  - [김희철](../Page/김희철_\(가수\).md "wikilink") - [영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink")
-  - [황광희](../Page/황광희.md "wikilink"), [김예원](../Page/김예원_\(1989년\).md "wikilink") - [영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink")
-  - [붐](../Page/붐_\(방송인\).md "wikilink") (현 붐붐파워 진행) - [영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink")
-  - [케이윌](https://ko.wikipedia.org/wiki/케이윌 "wikilink") - [영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink"), [대단한 라디오](../Page/대단한_라디오.md "wikilink")
-  - [장기하](../Page/장기하.md "wikilink") - [대단한 라디오](../Page/대단한_라디오.md "wikilink")
-  - [송은이](../Page/송은이.md "wikilink"), [신봉선](../Page/신봉선.md "wikilink") - [동고동락](../Page/동고동락.md "wikilink")
-  - [채시라](../Page/채시라.md "wikilink") - [그대곁에](https://ko.wikipedia.org/wiki/그대곁에_\(SBS\) "wikilink")
-  - [김승현](../Page/김승현_\(배우\).md "wikilink") - [텐텐클럽 배두나의 텐텐클럽, 김승현 박진희의 텐텐클럽, 양미라 김승현의 텐텐클럽)](../Page/텐텐클럽.md "wikilink")(김승현
-  - [배두나](../Page/배두나.md "wikilink") - [텐텐클럽 배두나의 텐텐클럽)](../Page/텐텐클럽.md "wikilink")(김승현
-  - [박진희](https://ko.wikipedia.org/wiki/박진희 "wikilink") - [텐텐클럽 박진희의 텐텐클럽)](../Page/텐텐클럽.md "wikilink")(김승현
-  - [양미라](../Page/양미라.md "wikilink") - [텐텐클럽 김승현의 텐텐클럽)](../Page/텐텐클럽.md "wikilink")(양미라
-  - [김동완](../Page/김동완_\(가수\).md "wikilink") - [텐텐클럽](../Page/텐텐클럽.md "wikilink")
-  - [환희](https://ko.wikipedia.org/wiki/환희_\(가수\) "wikilink"), [브라이언](../Page/브라이언_\(가수\).md "wikilink") ([플라이 투 더 스카이](../Page/플라이_투_더_스카이.md "wikilink")) - [텐텐클럽](../Page/텐텐클럽.md "wikilink")
-  - [박용하](../Page/박용하.md "wikilink") - [텐텐클럽](../Page/텐텐클럽.md "wikilink")
-  - [이적](../Page/이적_\(가수\).md "wikilink") - [텐텐클럽](../Page/텐텐클럽.md "wikilink")
-  - [스윗 소로우](../Page/스윗_소로우.md "wikilink") - [텐텐클럽](../Page/텐텐클럽.md "wikilink")
-  - [이석훈](../Page/이석훈_\(가수\).md "wikilink") - [텐텐클럽](../Page/텐텐클럽.md "wikilink")
-  - [김지호](../Page/김지호_\(배우\).md "wikilink") - [사랑느낌](https://ko.wikipedia.org/wiki/사랑느낌 "wikilink")
-  - [성시완](../Page/성시완.md "wikilink") - 월드 팝스, 0시의 리퀘스트
-  - [정지영](https://ko.wikipedia.org/wiki/정지영_\(아나운서\) "wikilink") - [스위트뮤직박스](../Page/스위트뮤직박스.md "wikilink")
-  - [소유진](../Page/소유진.md "wikilink") - 러브 러브
-  - [정미선](../Page/정미선.md "wikilink") - [스위트뮤직박스](../Page/스위트뮤직박스.md "wikilink")
-  - [정가은](../Page/정가은.md "wikilink") - [스위트뮤직박스](../Page/스위트뮤직박스.md "wikilink")
-  - [정선희](../Page/정선희.md "wikilink") - [오늘 같은 밤](https://ko.wikipedia.org/wiki/오늘_같은_밤 "wikilink")
-  - [장예원](../Page/장예원_\(아나운서\).md "wikilink") - [오늘 같은 밤](https://ko.wikipedia.org/wiki/오늘_같은_밤 "wikilink")
-  - [전영혁](../Page/전영혁.md "wikilink") - 음악 세계
-  - [조정식](../Page/조정식_\(아나운서\).md "wikilink") (현 조정식의 펀펀투데이 진행) - FM ZINE, [사운드 오브 뮤직](../Page/사운드_오브_뮤직_\(라디오_프로그램\).md "wikilink")
-  - [신해철](../Page/신해철.md "wikilink") - [신해철의 고스트 스테이션](https://ko.wikipedia.org/wiki/신해철의_고스트_스테이션 "wikilink")
-  - [남궁연](../Page/남궁연.md "wikilink") - 고릴라디오
-  - [김형중](../Page/김형중.md "wikilink") - [뮤직하이](../Page/뮤직하이.md "wikilink")
-  - [김지연](https://ko.wikipedia.org/wiki/김지연_\(1978년_9월\) "wikilink") - [뮤직하이](../Page/뮤직하이.md "wikilink")
-  - [이병희](../Page/이병희_\(아나운서\).md "wikilink") - [사운드 오브 뮤직](../Page/사운드_오브_뮤직_\(라디오_프로그램\).md "wikilink"), [뮤직하이](../Page/뮤직하이.md "wikilink")
-  - [김형준](../Page/김형준_\(1987년\).md "wikilink") - [뮤직하이](../Page/뮤직하이.md "wikilink")
-  - [롤러코스터](../Page/롤러코스터_\(음악_그룹\).md "wikilink") - Listen Up\!
-  - [정엽](https://ko.wikipedia.org/wiki/정엽 "wikilink") - 파워 스테이지 더 라이브, [뮤직하이](../Page/뮤직하이.md "wikilink")
-  - [이동진](https://ko.wikipedia.org/wiki/이동진_\(1968년\) "wikilink") - [이동진의 그럼에도 불구하고](https://ko.wikipedia.org/wiki/이동진의_그럼에도_불구하고 "wikilink")
-  - [물렁곈](https://ko.wikipedia.org/wiki/물렁곈 "wikilink") - [애프터 클럽](../Page/애프터_클럽.md "wikilink") (화요일)
-  - [배순탁](https://ko.wikipedia.org/wiki/배순탁 "wikilink") - [애프터 클럽](../Page/애프터_클럽.md "wikilink") (월요일)
-  - [프라이머리](../Page/프라이머리_\(음악가\).md "wikilink") - [애프터 클럽](../Page/애프터_클럽.md "wikilink") (일요일)
-  - [이현경](../Page/이현경_\(방송인\).md "wikilink") - [사운드 오브 뮤직](../Page/사운드_오브_뮤직_\(라디오_프로그램\).md "wikilink")
-  - [최혜림](../Page/최혜림.md "wikilink") - [사운드 오브 뮤직](../Page/사운드_오브_뮤직_\(라디오_프로그램\).md "wikilink")
-  - [유혜영](../Page/유혜영_\(아나운서\).md "wikilink") - [사운드 오브 뮤직](../Page/사운드_오브_뮤직_\(라디오_프로그램\).md "wikilink")
-  - [엔](https://ko.wikipedia.org/wiki/엔 "wikilink") - [빅스 엔 케이팝](../Page/빅스_엔_케이팝.md "wikilink")
-  - [송도영](../Page/송도영.md "wikilink") - 사랑의 테마
-  - [이국주](../Page/이국주.md "wikilink") - [영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink")
-  - [재현](../Page/재현_\(1997년\).md "wikilink"), [쟈니](../Page/쟈니_\(가수\).md "wikilink") - [NCT의 night night\!](../Page/NCT의_night_night!.md "wikilink")
-  - [존박](https://ko.wikipedia.org/wiki/존박 "wikilink") - [뮤직하이](../Page/뮤직하이.md "wikilink")
+  - [가요풍경](https://ko.wikipedia.org/wiki/허수경의_가요풍경 "wikilink")
+      - [허수경](../Page/허수경_\(방송인\).md "wikilink")
 
 <!-- end list -->
 
-  - [정소민](../Page/정소민.md "wikilink") - [영스트리트](https://ko.wikipedia.org/wiki/영스트리트 "wikilink")
-  - [박선영](../Page/박선영_\(아나운서\).md "wikilink") - [씨네타운](../Page/씨네타운.md "wikilink")
+  - 고릴라디오
+      - [남궁연](../Page/남궁연.md "wikilink")
+
+<!-- end list -->
+
+  - [그대곁에](https://ko.wikipedia.org/wiki/그대곁에_\(SBS\) "wikilink")
+      - [오미희](../Page/오미희.md "wikilink")
+      - [채시라](../Page/채시라.md "wikilink")
+
+<!-- end list -->
+
+  - [그대의 향기](https://ko.wikipedia.org/wiki/그대의_향기 "wikilink")
+      - [김현주](../Page/김현주_\(1964년\).md "wikilink")
+      - [송채환](../Page/송채환.md "wikilink")
+
+<!-- end list -->
+
+  - [대단한 라디오](../Page/대단한_라디오.md "wikilink")
+      - [장기하](../Page/장기하.md "wikilink")
+      - 케이윌
+
+<!-- end list -->
+
+  - [동고동락](../Page/동고동락.md "wikilink")
+      - MC 몽
+      - [송은이](../Page/송은이.md "wikilink"), [신봉선](../Page/신봉선.md "wikilink")
+
+<!-- end list -->
+
+  - 러브 러브
+      - [소유진](../Page/소유진.md "wikilink")
+
+<!-- end list -->
+
+  - [러빙 유](https://ko.wikipedia.org/wiki/러빙_유_\(라디오_프로그램\) "wikilink")
+      - [윤현진](../Page/윤현진_\(아나운서\).md "wikilink")
+
+<!-- end list -->
+
+  - 모닝 익스프레스
+      - [신정원](https://ko.wikipedia.org/wiki/신정원 "wikilink")
+      - [이혜승](../Page/이혜승.md "wikilink")
+
+<!-- end list -->
+
+  - 뮤직 라이브
+      - [신성우](https://ko.wikipedia.org/wiki/신성우 "wikilink")
+      - [이현우](../Page/이현우_\(1966년\).md "wikilink")
+      - [한동준](../Page/한동준.md "wikilink")
+
+<!-- end list -->
+
+  - 뮤직 토피아
+      - [장호일](../Page/장호일.md "wikilink")
+
+<!-- end list -->
+
+  - [뮤직하이](../Page/뮤직하이.md "wikilink")
+      - [김형중](../Page/김형중.md "wikilink")
+      - [김지연](https://ko.wikipedia.org/wiki/김지연_\(1978년_9월\) "wikilink")
+      - [김형준](../Page/김형준_\(1987년\).md "wikilink")
+      - [존박](https://ko.wikipedia.org/wiki/존박 "wikilink")
+      - [우원재](../Page/우원재.md "wikilink")
+      - [이병희](../Page/이병희_\(아나운서\).md "wikilink")
+      - 정엽
+
+<!-- end list -->
+
+  - [빅스 엔 케이팝](../Page/빅스_엔_케이팝.md "wikilink")
+      - [엔](https://ko.wikipedia.org/wiki/엔 "wikilink")
+
+<!-- end list -->
+
+  - [사랑느낌](https://ko.wikipedia.org/wiki/사랑느낌 "wikilink")
+      - [김지호](../Page/김지호_\(배우\).md "wikilink")
+
+<!-- end list -->
+
+  - 사랑의 테마
+      - [송도영](../Page/송도영.md "wikilink")
+
+<!-- end list -->
+
+  - [사운드 오브 뮤직](../Page/사운드_오브_뮤직_\(라디오_프로그램\).md "wikilink")
+      - 조정식
+      - 이병희
+      - [이현경](../Page/이현경_\(방송인\).md "wikilink")
+      - [최혜림](../Page/최혜림.md "wikilink")
+      - [유혜영](../Page/유혜영_\(아나운서\).md "wikilink")
+
+<!-- end list -->
+
+  - [스위트뮤직박스](../Page/스위트뮤직박스.md "wikilink")
+      - [정지영](https://ko.wikipedia.org/wiki/정지영_\(아나운서\) "wikilink")
+      - [정미선](../Page/정미선.md "wikilink")
+      - [정가은](../Page/정가은.md "wikilink")
+
+<!-- end list -->
+
+  - 스트레스 제로
+      - [이성미](https://ko.wikipedia.org/wiki/이성미 "wikilink")
+
+<!-- end list -->
+
+  - [신해철의 고스트 스테이션](https://ko.wikipedia.org/wiki/신해철의_고스트_스테이션 "wikilink")
+      - [신해철](../Page/신해철.md "wikilink")
+
+<!-- end list -->
+
+  - [씨네타운](../Page/씨네타운.md "wikilink")
+      - [송승환](../Page/송승환.md "wikilink")
+      - [심혜진](../Page/심혜진.md "wikilink")
+      - [이승연](../Page/이승연.md "wikilink")
+      - [공형진](../Page/공형진.md "wikilink")
+      - [박선영](../Page/박선영_\(아나운서\).md "wikilink")
+
+<!-- end list -->
+
+  - [아름다운 이 아침](https://ko.wikipedia.org/wiki/아름다운_이_아침 "wikilink")
+      - [김미숙](../Page/김미숙.md "wikilink")
+
+<!-- end list -->
+
+  - 앗\! 2시다
+      - [변정수](../Page/변정수.md "wikilink")
+
+<!-- end list -->
+
+  - [애프터 클럽](../Page/애프터_클럽.md "wikilink")
+      - [배순탁](https://ko.wikipedia.org/wiki/배순탁 "wikilink") (월요일)
+      - [물렁곈](https://ko.wikipedia.org/wiki/물렁곈 "wikilink") (화요일)
+      - [프라이머리](../Page/프라이머리_\(음악가\).md "wikilink") (일요일)
+
+<!-- end list -->
+
+  - [영스트리트](../Page/영스트리트_\(라디오_프로그램\).md "wikilink")
+      - [김예분](../Page/김예분.md "wikilink")
+      - 이성미
+      - [채리나](../Page/채리나.md "wikilink")
+      - [이지훈](https://ko.wikipedia.org/wiki/이지훈_\(1979년\) "wikilink")
+      - [클릭비](https://ko.wikipedia.org/wiki/클릭비 "wikilink")
+      - [하하](https://ko.wikipedia.org/wiki/하하 "wikilink")
+      - [MC 몽](https://ko.wikipedia.org/wiki/MC_몽 "wikilink")
+      - [장근석](../Page/장근석.md "wikilink")
+      - [김희철](../Page/김희철_\(가수\).md "wikilink")
+      - [박희본](../Page/박희본.md "wikilink")
+      - [김규종](../Page/김규종.md "wikilink")
+      - [박정민](../Page/박정민_\(가수\).md "wikilink")
+      - [김희철](../Page/김희철_\(가수\).md "wikilink")
+      - [황광희](../Page/황광희.md "wikilink")
+      - [김예원](../Page/김예원_\(1989년\).md "wikilink")
+      - [붐](../Page/붐_\(방송인\).md "wikilink")
+      - [케이윌](https://ko.wikipedia.org/wiki/케이윌 "wikilink")
+      - [이국주](../Page/이국주.md "wikilink")
+      - [정소민](../Page/정소민.md "wikilink")
+
+<!-- end list -->
+
+  - [오늘 같은 밤](https://ko.wikipedia.org/wiki/오늘_같은_밤 "wikilink")
+      - [정선희](../Page/정선희.md "wikilink")
+      - [장예원](../Page/장예원_\(아나운서\).md "wikilink")
+
+<!-- end list -->
+
+  - [올드스쿨](../Page/김창열의_올드스쿨.md "wikilink")
+      - [김창렬](../Page/김창열_\(가수\).md "wikilink")
+
+<!-- end list -->
+
+  - 월드 팝스, 0시의 리퀘스트
+      - [성시완](../Page/성시완.md "wikilink")
+
+<!-- end list -->
+
+  - 음악 세계
+      - [전영혁](../Page/전영혁.md "wikilink")
+
+<!-- end list -->
+
+  - [이동진의 그럼에도 불구하고](https://ko.wikipedia.org/wiki/이동진의_그럼에도_불구하고 "wikilink")
+      - [이동진](https://ko.wikipedia.org/wiki/이동진_\(1968년\) "wikilink")
+
+<!-- end list -->
+
+  - 주말 유나이티드
+      - 배성재
+
+<!-- end list -->
+
+  - [텐텐클럽](../Page/텐텐클럽.md "wikilink")
+      - [김승현](../Page/김승현_\(배우\).md "wikilink")
+      - [배두나](../Page/배두나.md "wikilink")
+      - [박진희](../Page/박진희_\(배우\).md "wikilink")
+      - [양미라](../Page/양미라.md "wikilink")
+      - [김동완](../Page/김동완_\(가수\).md "wikilink")
+      - [환희](https://ko.wikipedia.org/wiki/환희_\(가수\) "wikilink")
+      - [브라이언](../Page/브라이언_\(가수\).md "wikilink")
+      - [박용하](../Page/박용하.md "wikilink")
+      - 하하
+      - [이적](../Page/이적_\(가수\).md "wikilink")
+      - [스윗 소로우](../Page/스윗_소로우.md "wikilink")
+      - [이석훈](../Page/이석훈_\(가수\).md "wikilink")
+
+<!-- end list -->
+
+  - 트로트 하이웨이
+      - [태진아](../Page/태진아.md "wikilink")
+      - [김정일](../Page/김정일_\(아나운서\).md "wikilink")
+      - [송영길](https://ko.wikipedia.org/wiki/송영길_\(1946년\) "wikilink")
+
+<!-- end list -->
+
+  - 파워 스테이지 더 라이브
+      - [정엽](https://ko.wikipedia.org/wiki/정엽 "wikilink")
+
+<!-- end list -->
+
+  - 파워 잉글리시
+      - [곽영일](../Page/곽영일.md "wikilink")
+
+<!-- end list -->
+
+  - 파워 플러스
+      - [박은경](../Page/박은경_\(아나운서\).md "wikilink")
+
+<!-- end list -->
+
+  - [파워FM](../Page/파워FM_\(라디오_프로그램\).md "wikilink")
+      - [이숙영](../Page/이숙영.md "wikilink")
+      - [박은지](../Page/박은지_\(방송인\).md "wikilink")
+      - [호란](../Page/호란.md "wikilink")
+
+<!-- end list -->
+
+  - 팝스 천국
+      - 곽영일
+
+<!-- end list -->
+
+  - 펀펀 투데이
+      - [김영철](../Page/김영철_\(희극인\).md "wikilink")
+
+<!-- end list -->
+
+  - 해피투게더
+      - 허수경
+
+<!-- end list -->
+
+  - [행복한 아침](../Page/행복한_아침_\(SBS\).md "wikilink")
+      - [김태욱](../Page/김태욱_\(아나운서\).md "wikilink")
+      - [김민지](../Page/김민지_\(아나운서\).md "wikilink")
+      - [배성재](../Page/배성재_\(아나운서\).md "wikilink")
+
+<!-- end list -->
+
+  - FM 모닝와이드
+      - [김소원](../Page/김소원_\(아나운서\).md "wikilink")
+
+<!-- end list -->
+
+  - FM ZINE
+      - [조정식](../Page/조정식_\(아나운서\).md "wikilink")
+
+<!-- end list -->
+
+  - Listen Up\!
+      - [롤러코스터](../Page/롤러코스터_\(음악_그룹\).md "wikilink")
+
+<!-- end list -->
+
+  - [NCT의 night night\!](../Page/NCT의_night_night!.md "wikilink")
+      - [재현](../Page/재현_\(1997년\).md "wikilink")
+      - [쟈니](../Page/쟈니_\(가수\).md "wikilink")
+
+<!-- end list -->
+
+  - Oops\! English
+      - [유수연](../Page/유수연.md "wikilink")
+
+<!-- end list -->
+
+  - 2시 탈출
+      - [박철](../Page/박철_\(배우\).md "wikilink")
+      - [유정현](https://ko.wikipedia.org/wiki/유정현 "wikilink")
 
 ## 제휴 네트워크
 
@@ -618,16 +811,11 @@ KNN 웰빙라이프)</p></td>
 
 ## 같이 보기
 
-※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 의무형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
-
-  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
-  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
-  - [EBS FM](../Page/EBS_FM.md "wikilink")
+  - [음악FM](../Page/음악FM.md "wikilink")
+  - [KBS 제1FM](../Page/KBS_제1FM.md "wikilink")
+  - [KBS 제2FM](../Page/KBS_제2FM.md "wikilink")
   - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
-  - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
-  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
-  - [극동방송](../Page/극동방송.md "wikilink")
 
 ## 외부 링크
 
@@ -640,4 +828,5 @@ KNN 웰빙라이프)</p></td>
 [분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [파워FM](https://ko.wikipedia.org/wiki/분류:SBS의_라디오_네트워크 "wikilink") [분류:1996년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1996년_설립된_라디오_방송국 "wikilink")
 
 1.  '○' 표시 기호는 동시 네트워크로 일제히 송출된다.
-2.  프로야구 롯데 경기 때는 방송 중단.
+2.  프로야구 롯데 경기, 스토브리그 때는 방송 중단.
+3.  정규시즌 때는 방송 중단.

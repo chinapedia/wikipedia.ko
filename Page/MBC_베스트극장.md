@@ -4595,7 +4595,7 @@
 <td><p>563회</p></td>
 <td><p>12월 26일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/떠나요_삐삐롱_스타킹" title="wikilink">떠나요 삐삐롱 스타킹</a></p></td>
-<td></td>
+<td><p><a href="../Page/김수근_(1979년).md" title="wikilink">김수근</a>, <a href="../Page/장영남.md" title="wikilink">장영남</a></p></td>
 <td><p>장민석</p></td>
 <td><p>황인뢰</p></td>
 </tr>
@@ -5451,7 +5451,7 @@
 <td><p>649회</p></td>
 <td><p>9월 16일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/나의_문제적_그녀" title="wikilink">나의 문제적 그녀</a></p></td>
-<td><p><a href="../Page/김국진.md" title="wikilink">김국진</a>, <a href="https://ko.wikipedia.org/wiki/김지연" title="wikilink">김지연</a>, <a href="https://ko.wikipedia.org/wiki/홍수아" title="wikilink">홍수아</a></p></td>
+<td><p><a href="../Page/김국진.md" title="wikilink">김국진</a>, <a href="https://ko.wikipedia.org/wiki/김지연" title="wikilink">김지연</a>, <a href="../Page/홍수아.md" title="wikilink">홍수아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/노지설" title="wikilink">노지설</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최원석" title="wikilink">최원석</a></p></td>
 </tr>
@@ -5628,7 +5628,7 @@
 <td><p>3월 10일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/드리머즈" title="wikilink">드리머즈</a>(The Dreamers)</p></td>
 <td><p><a href="../Page/명계남.md" title="wikilink">명계남</a>, <a href="../Page/이일화.md" title="wikilink">이일화</a>, <a href="../Page/정지순.md" title="wikilink">정지순</a>, <a href="https://ko.wikipedia.org/wiki/이시환_(배우)" title="wikilink">이시환</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/박채경" title="wikilink">박채경</a>, <a href="../Page/장태훈.md" title="wikilink">장태훈</a>, <a href="https://ko.wikipedia.org/wiki/김상호" title="wikilink">김상호</a>, <a href="../Page/조재완.md" title="wikilink">조재완</a>,<br />
+<a href="https://ko.wikipedia.org/wiki/박채경" title="wikilink">박채경</a>, <a href="https://ko.wikipedia.org/wiki/장태훈_(1982년)" title="wikilink">장태훈</a>, <a href="https://ko.wikipedia.org/wiki/김상호" title="wikilink">김상호</a>, <a href="../Page/조재완.md" title="wikilink">조재완</a>,<br />
 <a href="../Page/김윤아.md" title="wikilink">김윤아</a>, <a href="../Page/붐_(방송인).md" title="wikilink">붐</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유희경" title="wikilink">유희경</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/최병길" title="wikilink">최병길</a></p></td>

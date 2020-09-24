@@ -1,20 +1,20 @@
 > This article is converted from Wikipedia: [KBS 바둑왕전](https://ko.wikipedia.org/wiki/KBS_바둑왕전).
 
 
-《**KBS 바둑왕전**》(KBS 바둑王戰)은 [1980년](../Page/1980년.md "wikilink") [1월 6일부터](../Page/1월_6일.md "wikilink") 방송되는 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [바둑](../Page/바둑.md "wikilink") 프로그램이다.
+《**KBS 바둑왕전**》(KBS 바둑王戰)은 [1980년](../Page/1980년.md "wikilink") [1월 6일부터](../Page/1월_6일.md "wikilink") 방송되는 [대한민국](../Page/대한민국.md "wikilink")의 [한국방송공사](../Page/한국방송공사.md "wikilink") [바둑](../Page/바둑.md "wikilink") 전문 프로그램이다.
 
 ## 개요
 
-### 기획의도
+### 기획 의도
 
   - 올해로 36기째를 맞이한 전통의 KBS 바둑왕전은 그 동안 400만 [바둑](../Page/바둑.md "wikilink") 팬들을 위한 [문화](../Page/문화.md "wikilink")의 장으로써 [TV](https://ko.wikipedia.org/wiki/TV "wikilink")속기 [바둑](../Page/바둑.md "wikilink") 대결로 또한 [한국](../Page/대한민국.md "wikilink") [바둑](../Page/바둑.md "wikilink")의 산실로서 그 역할을 꾸준히 해왔다.
   - 특히 [바둑](../Page/바둑.md "wikilink")이 [체육](https://ko.wikipedia.org/wiki/체육 "wikilink")종목으로 전환됨에 따라 [두뇌](https://ko.wikipedia.org/wiki/두뇌 "wikilink") [스포츠](../Page/스포츠.md "wikilink")로서 새로이 각광을 받고 있는 시점이다.
   - KBS 바둑왕전은 이러한 다양한 수요에 부응하여 국내 정상급 프로기사들의 속기 대국을 마련하여 연간 [방송](../Page/방송.md "wikilink")하고 있다.
   - 평소 좋아하는 기사들의 모습과 수준 높은 대국을 명쾌한 해설과 함께 감상 할 수 있는 좋은 시간이 될 것이다.
 
-### 제작내용
+### 제작 내용
 
-  - 치열한 예선전을 뚫고 본선에 진출한 42명과 시드를 받고 본선에 진출한 6명의 프로기사들이 [대국](../Page/대국.md "wikilink")을 펼친다.
+  - 치열한 예선전을 뚫고 본선에 진출한 5명과 시드를 받고 본선에 진출한 3명의 프로기사들이 [대국](../Page/대국.md "wikilink")을 펼친다.
   - KBS 바둑왕전은 치열한 예선전을 뚫고 본선에 진출한 48명의 프로기사들이 토너먼트 방식으로 [대국](../Page/대국.md "wikilink")을 펼친다.
   - [대국](../Page/대국.md "wikilink") [녹화](https://ko.wikipedia.org/wiki/녹화 "wikilink") 후 편집, [사전](../Page/사전.md "wikilink") [모니터](https://ko.wikipedia.org/wiki/모니터 "wikilink") 및 최종적으로 해설 [녹화](https://ko.wikipedia.org/wiki/녹화 "wikilink")를 거쳐 [방송](../Page/방송.md "wikilink")하게 된다.
 
@@ -28,9 +28,9 @@
 ### [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
 
   - [2015년](../Page/2015년.md "wikilink") [2월 14일부터](../Page/2월_14일.md "wikilink") [2016년](../Page/2016년.md "wikilink") [3월 26일까지](../Page/3월_26일.md "wikilink") 매주 [토요일](../Page/토요일.md "wikilink") 밤에 방영되었다.
-  - 매년 국제대회에서 개최하는 한중일 국제TV속기전인 《[TV 바둑 아시아 선수권대회](../Page/TV_바둑_아시아_선수권대회.md "wikilink")》, 국제기전인 《[삼성화재배 월드 바둑마스터스](../Page/삼성화재배_월드_바둑마스터스.md "wikilink")》를 대체하여 방송하고 있다.
+  - 매년 국제대회에서 개최하는 한중일 국제TV속기전인 《[TV 바둑 아시아 선수권대회](../Page/TV_바둑_아시아_선수권대회.md "wikilink")》와 국제기전인 《[삼성화재배 월드 바둑마스터스](../Page/삼성화재배_월드_바둑마스터스.md "wikilink")》를 대체하여 방송하고 있다.
 
-※ 단, 일부 [공휴일](https://ko.wikipedia.org/wiki/공휴일 "wikilink")이나 특집 및 [중계방송](https://ko.wikipedia.org/wiki/중계방송 "wikilink") [녹화](https://ko.wikipedia.org/wiki/녹화 "wikilink") 당일에는 결방된다.
+※ 일부 공휴일, 특집, 중계방송 등에는 결방된다.
 ※ [2012년](../Page/2012년.md "wikilink") [10월 8일](../Page/10월_8일.md "wikilink") : [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 24시간 방송 체제 도입 이후 기준임.
 
 | 방송 채널                                                                                                                                                                           | 방송 기간                                                                                                                                                                           | 방송 시간                                                                                                                                                                         |
@@ -47,7 +47,7 @@
 | [1980년](../Page/1980년.md "wikilink") [4월 3일](../Page/4월_3일.md "wikilink")                                                                                                       | 매주 [일요일](../Page/일요일.md "wikilink") 낮 12:50 \~ 오후 1:50 (1시간)                                                                                                                    |                                                                                                                                                                               |
 | [1980년](../Page/1980년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ [1980년](../Page/1980년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink")                      | 매주 [일요일](../Page/일요일.md "wikilink") 오후 1:20 \~ 2:20 (1시간)                                                                                                                       |                                                                                                                                                                               |
 | [1980년](../Page/1980년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink")                                                                                                     |                                                                                                                                                                                 |                                                                                                                                                                               |
-| [1980년](../Page/1980년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink")                                                                                                   |                                                                                                                                                                                 |                                                                                                                                                                               |
+| [1980년](../Page/1980년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink")\[1\]                                                                                              |                                                                                                                                                                                 |                                                                                                                                                                               |
 | [1980년](../Page/1980년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") \~ [1980년](../Page/1980년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink")                    | 매주 [일요일](../Page/일요일.md "wikilink") 오후 1:00 \~ 2:00 (1시간)                                                                                                                       |                                                                                                                                                                               |
 | [1998년](../Page/1998년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink")                      | 생방송 : 매주 [수요일](../Page/수요일.md "wikilink") \~ [목요일](../Page/목요일.md "wikilink") 오후 3:00 \~ 5:00 (2시간)                                                                             |                                                                                                                                                                               |
 | [2002년](../Page/2002년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink")                                                                                                     | 매주 [일요일](../Page/일요일.md "wikilink") 밤 1:00 \~ 2:30 (1시간 30분)                                                                                                                    |                                                                                                                                                                               |
@@ -320,6 +320,7 @@
 | [2019년](../Page/2019년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink")                                                                                                     | 매주 [일요일](../Page/일요일.md "wikilink") 새벽 1시 20분 \~ 새벽 2시 15분 (55분)                                                                                                                |                                                                                                                                                                               |
 | [2019년](../Page/2019년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink")                                                                                                     | 매주 [일요일](../Page/일요일.md "wikilink") 새벽 1시 15분 \~ 새벽 2시 15분 (1시간)                                                                                                                |                                                                                                                                                                               |
 | [2019년](../Page/2019년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink")                                                                                                   | 매주 [일요일](../Page/일요일.md "wikilink") 밤 12시 50분 \~ 새벽 2시 15분 (1시간 25분)                                                                                                            |                                                                                                                                                                               |
+| [2020년](../Page/2020년.md "wikilink") [9월 13일](../Page/9월_13일.md "wikilink") \~ **현재**                                                                                           | 매주 [일요일](../Page/일요일.md "wikilink") 밤 12시 35분 \~ 새벽 2시 (1시간 25분)                                                                                                                |                                                                                                                                                                               |
 
 ### [KBS 2TV](https://ko.wikipedia.org/wiki/KBS_제2TV "wikilink")
 
@@ -375,7 +376,7 @@
 | [1993년](../Page/1993년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink")                                                                                        |                                                                                                                                                          |                                                               |
 | [1993년](../Page/1993년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink")                                                                                        | 매주 [토요일](../Page/토요일.md "wikilink") 밤 12:05 \~ 1:00 (55분)                                                                                                |                                                               |
 | [1993년](../Page/1993년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink")     | 매주 [일요일](../Page/일요일.md "wikilink") 밤 12:00 \~ 1:00 (1시간)                                                                                                |                                                               |
-| [1994년](../Page/1994년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink")\[1\]\[2\] |                                                                                                                                                          |                                                               |
+| [1994년](../Page/1994년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink")\[2\]\[3\] |                                                                                                                                                          |                                                               |
 | [1994년](../Page/1994년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink")       |                                                                                                                                                          |                                                               |
 | [1994년](../Page/1994년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [12월 18일](../Page/12월_18일.md "wikilink")     |                                                                                                                                                          |                                                               |
 | [1995년](../Page/1995년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink")           |                                                                                                                                                          |                                                               |
@@ -393,7 +394,7 @@
 | [1995년](../Page/1995년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink")                                                                                        | 매주 [일요일](../Page/일요일.md "wikilink") 밤 12:35 \~ 1:35 (1시간)                                                                                                |                                                               |
 | [1996년](../Page/1996년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink")     | 매주 [일요일](../Page/일요일.md "wikilink") 밤 12:00 \~ 12:50 (50분)                                                                                               |                                                               |
 | [1996년](../Page/1996년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink")                                                                                        |                                                                                                                                                          |                                                               |
-| [1995년](../Page/1995년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink")         | 매주 [금요일](../Page/금요일.md "wikilink") 밤 12:10 \~ 1:10 (1시간)                                                                                                |                                                               |
+| [1995년](../Page/1995년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [4월 21일](../Page/4월_21일.md "wikilink")         | 매주 [금요일](../Page/금요일.md "wikilink") 밤 12:10 \~ 1:10 (1시간)                                                                                                |                                                               |
 | [1993년](../Page/1993년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink")                                                                                        | 매주 [토요일](../Page/토요일.md "wikilink") 밤 12:00 \~ 1:00 (1시간)                                                                                                |                                                               |
 | [1995년](../Page/1995년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink")                                                                                          |                                                                                                                                                          |                                                               |
 | [1995년](../Page/1995년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink")                                                                                        |                                                                                                                                                          |                                                               |
@@ -405,7 +406,7 @@
 | [1995년](../Page/1995년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink")       | 매주 [토요일](../Page/토요일.md "wikilink") 밤 12:15 \~ 1:00 (1시간)                                                                                                |                                                               |
 | [1995년](../Page/1995년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink")     |                                                                                                                                                          |                                                               |
 | [1995년](../Page/1995년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink")     | 매주 [토요일](../Page/토요일.md "wikilink") 밤 12:10 \~ 12:55 (45분)                                                                                               |                                                               |
-| [1996년](../Page/1996년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink")           |                                                                                                                                                          |                                                               |
+| [1996년](../Page/1996년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink")             |                                                                                                                                                          |                                                               |
 | [1995년](../Page/1995년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink")                                                                                      | 매주 [토요일](../Page/토요일.md "wikilink") 밤 12:50 \~ 1:50 (1시간)                                                                                                |                                                               |
 | [2004년](../Page/2004년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink")                                                                                          | 매주 [일요일](../Page/일요일.md "wikilink") 밤 1:20 \~ 2:40 (1시간 20분)                                                                                             |                                                               |
 | [2004년](../Page/2004년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink")         | 매주 [일요일](../Page/일요일.md "wikilink") 밤 1:40 \~ 3:00 (1시간 20분)                                                                                             |                                                               |
@@ -558,7 +559,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_프라임" title="wikilink">KBS위성 1TV</a>[3]</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/KBS_프라임" title="wikilink">KBS위성 1TV</a>[4]</p></td>
 <td><p><a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/3월_9일.md" title="wikilink">3월 9일</a></p></td>
 <td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오전 10:50 ~ 11:50 (1시간)</p></td>
 </tr>
@@ -896,7 +897,7 @@
 ## 현재 진행자
 
   - 이소용 바둑 캐스터 - KBS 바둑왕전의 진행자
-  - [박정상](../Page/박정상.md "wikilink") 9단 - KBS 바둑왕전의 해설자
+  - [송태곤](https://ko.wikipedia.org/wiki/송태곤 "wikilink") 9단 - KBS 바둑왕전의 해설자
   - 박강덕- KBS 바둑왕전의 기록자
   - 김민이- KBS 바둑왕전의 계시자
 
@@ -909,11 +910,11 @@
 
   - 진행 :승순선, 해설 :[노영하](../Page/노영하.md "wikilink") 七단 : ([1987년](../Page/1987년.md "wikilink") \~ [1989년](../Page/1989년.md "wikilink"))
 
-  - 초청해설 :[정수현](../Page/정수현.md "wikilink")\[4\], 해설 :[노영하](../Page/노영하.md "wikilink") : ([1989년](../Page/1989년.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink"))
+  - 초청해설 :[정수현](../Page/정수현.md "wikilink")\[5\], 해설 :[노영하](../Page/노영하.md "wikilink") : ([1989년](../Page/1989년.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink"))
 
   - 초청해설 :[장수영](../Page/장수영.md "wikilink") 九단 , 해설 :[노영하](../Page/노영하.md "wikilink") 七단: ([1993년](../Page/1993년.md "wikilink") [1월](../Page/1월.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [9월](../Page/9월.md "wikilink"))
 
-  - 진행 :유지인 아마 4단\[5\], 해설 :[노영하](../Page/노영하.md "wikilink") 八단 : [1995년](../Page/1995년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [12월](../Page/12월.md "wikilink") 일자 미상
+  - 진행 :유지인 아마 4단\[6\], 해설 :[노영하](../Page/노영하.md "wikilink") 八단 : [1995년](../Page/1995년.md "wikilink") [10월 27일](../Page/10월_27일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [12월](../Page/12월.md "wikilink") 일자 미상
 
   - 해설 :[노영하](../Page/노영하.md "wikilink") 八단 : [1996년](../Page/1996년.md "wikilink") [12월](../Page/12월.md "wikilink") \~ [1997](https://ko.wikipedia.org/wiki/1997 "wikilink") [2월](../Page/2월.md "wikilink")
 
@@ -923,7 +924,7 @@
 
   - 진행 :[남치형](../Page/남치형.md "wikilink") 初단, 해설 :[노영하](../Page/노영하.md "wikilink") 九단 : [2001년](../Page/2001년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") \~ [2002년](../Page/2002년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink")
 
-  - 진행 :[김성룡](../Page/김성룡_\(바둑_기사\).md "wikilink") 九단, 해설 :[노영하](../Page/노영하.md "wikilink") 九단 : [2003년](../Page/2003년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink")\[6\]\[7\]
+  - 진행 :[김성룡](../Page/김성룡_\(바둑_기사\).md "wikilink") 九단, 해설 :[노영하](../Page/노영하.md "wikilink") 九단 : [2003년](../Page/2003년.md "wikilink") [1월 26일](../Page/1월_26일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink")\[7\]\[8\]
 
   - 진행 :[한해원](https://ko.wikipedia.org/wiki/한해원 "wikilink") 三단, 해설 :[노영하](../Page/노영하.md "wikilink") 九단 : [2005년](../Page/2005년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월](../Page/1월.md "wikilink") 일자 미상
 
@@ -932,6 +933,8 @@
   - 진행 :[최유진](https://ko.wikipedia.org/wiki/최유진_\(바둑_기사\) "wikilink") 아마 5단, 해설 :[박정상](../Page/박정상.md "wikilink") 九단 : [2013년](../Page/2013년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink")
 
   - 진행 :이소용 바둑 캐스터, 해설 :[박정상](../Page/박정상.md "wikilink") 九단 : [2017년](../Page/2017년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink")
+
+  - 진행 :이소용 바둑 캐스터, 해설 :[송태곤](https://ko.wikipedia.org/wiki/송태곤 "wikilink") 九단 : [2020년](../Page/2020년.md "wikilink") [9월 13일](../Page/9월_13일.md "wikilink") \~ **현재**
 
   -
 ## 방식
@@ -949,7 +952,7 @@
 ## 역대 우승자 · 준우승자
 
 우승자와 준우승자는 [1989년](../Page/1989년.md "wikilink") 부터 매년마다 한국 KBS, 일본 NHK, 중국 CCTV가 교대로 개최하는 [TV 바둑 아시아 선수권대회에서](../Page/TV_바둑_아시아_선수권대회.md "wikilink") 출전한다.
-또한 [TV 바둑 아시아 선수권대회](../Page/TV_바둑_아시아_선수권대회.md "wikilink") 전기 우승자가 이 대회 전기 결승과 겹쳤을 경우 준결승전 패자 중 국내 선발전 통과한자가 출전권을 획득하여 이와 동시에 다음 대회에서 시드를 받게된다. 다음은 역대 우승/준우승자 목록이다.\[8\]
+또한 [TV 바둑 아시아 선수권대회](../Page/TV_바둑_아시아_선수권대회.md "wikilink") 전기 우승자가 이 대회 전기 결승과 겹쳤을 경우 준결승전 패자 중 국내 선발전 통과한자가 출전권을 획득하여 이와 동시에 다음 대회에서 시드를 받게된다. 다음은 역대 우승/준우승자 목록이다.\[9\]
 
 <table>
 <thead>
@@ -1147,14 +1150,14 @@
 <td><p>2-0</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/박병규_(바둑_기사)" title="wikilink">박병규</a> 四단</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/송태곤" title="wikilink">송태곤</a> 四단 최연소 속기왕 등극으로 <a href="../Page/한국기원.md" title="wikilink">한국기원</a> 승단 규정에 따라 六단 승단!,<br />
-<a href="https://ko.wikipedia.org/wiki/조한승" title="wikilink">조한승</a> 七단 3위</p></td>
+<a href="../Page/조한승.md" title="wikilink">조한승</a> 七단 3위</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2004년.md" title="wikilink">2004년</a></p></td>
 <td><p>23기</p></td>
 <td><p><a href="../Page/이창호.md" title="wikilink">이창호</a> 九단</p></td>
 <td><p>2-0</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조한승" title="wikilink">조한승</a> 七단</p></td>
+<td><p><a href="../Page/조한승.md" title="wikilink">조한승</a> 七단</p></td>
 <td><p><a href="../Page/이창호.md" title="wikilink">이창호</a>九단 통산 7회 우승!, 2년만에 바둑왕 탈환!<br />
 <a href="../Page/이세돌.md" title="wikilink">이세돌</a> 九단 3위</p></td>
 </tr>
@@ -1181,7 +1184,7 @@
 <td><p>26기</p></td>
 <td><p><a href="../Page/이창호.md" title="wikilink">이창호</a> 九단</p></td>
 <td><p>2-1</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조한승" title="wikilink">조한승</a> 九단</p></td>
+<td><p><a href="../Page/조한승.md" title="wikilink">조한승</a> 九단</p></td>
 <td><p><a href="../Page/이창호.md" title="wikilink">이창호</a> 九단 통산 9회 우승!, 2년만에 바둑왕 탈환! , <a href="../Page/최철한.md" title="wikilink">최철한</a> 九단 3위</p></td>
 </tr>
 <tr class="odd">
@@ -1288,7 +1291,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2020년.md" title="wikilink">2020년</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/39기_KBS_바둑왕전" title="wikilink">39기</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/제39기_KBS_바둑왕전" title="wikilink">39기</a></p></td>
 <td><p>단</p></td>
 <td><p>0-0</p></td>
 <td><p>단</p></td>
@@ -1347,6 +1350,7 @@
 | 제36기 |                                           |
 | 제37기 |                                           |
 | 제38기 |                                           |
+| 제39기 | [이영호](../Page/이영호_\(아나운서\).md "wikilink") |
 
 ## 기록
 
@@ -1358,8 +1362,13 @@
 
 ### 바둑해설 부문
 
-  - 국내 바둑왕전 최장수 진행자 [노영하](../Page/노영하.md "wikilink") 九단\[9\]\[10\]\[11\]\[12\]\[13\]
+  - 국내 바둑왕전 최장수 진행자 [노영하](../Page/노영하.md "wikilink") 九단\[10\]\[11\]\[12\]\[13\]\[14\]
   - 국내 최연소 바둑해설자 [박정상](../Page/박정상.md "wikilink")
+
+## 참고 사항
+
+  - [1981년](../Page/1981년.md "wikilink")에는 바둑왕전은 열리지 않는다.
+  - 매년에 열리는 비정기적 편성 프로그램이다.
 
 ## 각주
 
@@ -1370,16 +1379,17 @@
 
 [분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink") [분류:대한민국의 바둑 기전](https://ko.wikipedia.org/wiki/분류:대한민국의_바둑_기전 "wikilink") [KBS_바둑왕전](https://ko.wikipedia.org/wiki/분류:KBS_바둑왕전 "wikilink") [분류:1980년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1980년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink")
 
-1.  ([1994년](../Page/1994년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink")) 《[동아일보](../Page/동아일보.md "wikilink")》 [KBS 2 밤 12.30「KBS바둑왕전」](http://newslibrary.naver.com/viewer/index.nhn?articleId=1994013000209125030&editNo=40&printCount=1&publishDate=1994-01-30&officeId=00020&pageNo=25&printNo=22415&publishType=00010) [동아일보](../Page/동아일보.md "wikilink") 25면 [바둑](../Page/바둑.md "wikilink") [1994년](../Page/1994년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") 확인
-2.  ([1994년](../Page/1994년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink")) 《[동아일보](../Page/동아일보.md "wikilink")》 [TV바둑「찬밥 편성」에 불만소리](http://newslibrary.naver.com/viewer/index.nhn?articleId=1994042400209123015&editNo=45&printCount=1&publishDate=1994-04-24&officeId=00020&pageNo=23&printNo=22494&publishType=00010) [동아일보](../Page/동아일보.md "wikilink") 23면 [1994년](../Page/1994년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") 확인
-3.  ([1997년](../Page/1997년.md "wikilink") [5월](../Page/5월.md "wikilink")호) 《[월간 바둑](https://ko.wikipedia.org/wiki/월간_바둑 "wikilink")》[pp. 158-161/ 이사람의 행마법 KBS 바둑왕전 정석규 PD](http://ebook.cyberoro.com/fileupdown_pdf/full_pdf/F199705_572465525240.pdf) ([1997년](../Page/1997년.md "wikilink") [5월](../Page/5월.md "wikilink")호) 확인
-4.  ([1992년](../Page/1992년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink")) 《[경향신문](../Page/경향신문.md "wikilink")》 [유려한 해설"바둑학교수"정수현「KBS바둑왕전」 (KBS2·하오11:50)](http://newslibrary.naver.com/viewer/index.nhn?articleId=1992021500329130018&editNo=15&printCount=1&publishDate=1992-02-15&officeId=00032&pageNo=30&printNo=14317&publishType=00010) [경향신문](../Page/경향신문.md "wikilink") 30면 [바둑](../Page/바둑.md "wikilink") [1992년](../Page/1992년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") 확인
-5.  ([1995년](../Page/1995년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink")) 《[동아일보](../Page/동아일보.md "wikilink")》 [케이블 바둑TV「명승부30선」진행 유지인 미모 棋力(기력) 갖춘 대학3년생…"유시훈이 오빠예요"](http://newslibrary.naver.com/viewer/index.nhn?articleId=1995101800209133010&editNo=45&printCount=1&publishDate=1995-10-18&officeId=00020&pageNo=33&printNo=23000&publishType=00010) [동아일보](../Page/동아일보.md "wikilink") 33면 [1995년](../Page/1995년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 확인
-6.  [김성룡의](../Page/김성룡_\(바둑_기사\).md "wikilink") 대국 관계로 일부 방송분은 대신 [한해원](https://ko.wikipedia.org/wiki/한해원 "wikilink")이 진행하였다.
-7.  [노영하](../Page/노영하.md "wikilink") 九단의 개인 사정으로 인하여, [2003년](../Page/2003년.md "wikilink") 방송분은 [노영하](../Page/노영하.md "wikilink") 九단 대신 [양재호](https://ko.wikipedia.org/wiki/양재호 "wikilink") 九단이 해설하였다.
-8.
-9.  ([1984년](../Page/1984년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink")) 《[동아일보](../Page/동아일보.md "wikilink")》 [KBS바둑왕전 盧永夏(노영하)씨가解說(해설)](http://newslibrary.naver.com/viewer/index.nhn?articleId=1984011400209205021&editNo=2&printCount=1&publishDate=1984-01-14&officeId=00020&pageNo=5&printNo=19163&publishType=00020) [동아일보](../Page/동아일보.md "wikilink") 5면 [1984년](../Page/1984년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") 확인
-10. ([1984년](../Page/1984년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink")) 《[매일경제](https://ko.wikipedia.org/wiki/매일경제 "wikilink")》 [K3TV「바둑왕전」해설](http://newslibrary.naver.com/viewer/index.nhn?articleId=1984011900099209011&editNo=1&printCount=1&publishDate=1984-01-19&officeId=00009&pageNo=9&printNo=5500&publishType=00020) [매일경제](https://ko.wikipedia.org/wiki/매일경제 "wikilink") 9면 [1984년](../Page/1984년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") 확인
-11. ([1994년](../Page/1994년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink")) 《[경향신문](../Page/경향신문.md "wikilink")》 ["TV速棋(속기)해설 4인방 각축"](http://newslibrary.naver.com/viewer/index.nhn?articleId=1994050200329117016&editNo=15&printCount=1&publishDate=1994-05-02&officeId=00032&pageNo=17&printNo=15073&publishType=00010) [경향신문](../Page/경향신문.md "wikilink") 17면 [1994년](../Page/1994년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") 확인
-12. ([2013년](../Page/2013년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink")) 《[한국경제신문](../Page/한국경제신문.md "wikilink")》 ["조훈현 우승 중계 때 만세삼창 가장 감동…노영하를 끝으로 바둑해설 1세대 퇴장합니다"](http://www.hankyung.com/news/app/newsview.php?aid=2013051906041) [한국경제신문](../Page/한국경제신문.md "wikilink") [바둑](../Page/바둑.md "wikilink") [2013년](../Page/2013년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") 확인
-13. ([2013년](../Page/2013년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink")) 《[한국일보](../Page/한국일보.md "wikilink")》 ["명승부 장면 생생한 전달 30년, 행복했습니다"](http://sports.news.naver.com/sports/index.nhn?category=baduk&ctg=news&mod=read&office_id=038&article_id=0002391959) [한국일보](../Page/한국일보.md "wikilink") [바둑](../Page/바둑.md "wikilink") [2013년](../Page/2013년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink") 확인
+1.  [언론통폐합](../Page/언론통폐합.md "wikilink") 이전인 [KBS-TV가](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink") 방송하였다.
+2.  ([1994년](../Page/1994년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink")) 《[동아일보](../Page/동아일보.md "wikilink")》 [KBS 2 밤 12.30「KBS바둑왕전」](http://newslibrary.naver.com/viewer/index.nhn?articleId=1994013000209125030&editNo=40&printCount=1&publishDate=1994-01-30&officeId=00020&pageNo=25&printNo=22415&publishType=00010) [동아일보](../Page/동아일보.md "wikilink") 25면 [바둑](../Page/바둑.md "wikilink") [1994년](../Page/1994년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") 확인
+3.  ([1994년](../Page/1994년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink")) 《[동아일보](../Page/동아일보.md "wikilink")》 [TV바둑「찬밥 편성」에 불만소리](http://newslibrary.naver.com/viewer/index.nhn?articleId=1994042400209123015&editNo=45&printCount=1&publishDate=1994-04-24&officeId=00020&pageNo=23&printNo=22494&publishType=00010) [동아일보](../Page/동아일보.md "wikilink") 23면 [1994년](../Page/1994년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") 확인
+4.  ([1997년](../Page/1997년.md "wikilink") [5월](../Page/5월.md "wikilink")호) 《[월간 바둑](https://ko.wikipedia.org/wiki/월간_바둑 "wikilink")》[pp. 158-161/ 이사람의 행마법 KBS 바둑왕전 정석규 PD](http://ebook.cyberoro.com/fileupdown_pdf/full_pdf/F199705_572465525240.pdf) ([1997년](../Page/1997년.md "wikilink") [5월](../Page/5월.md "wikilink")호) 확인
+5.  ([1992년](../Page/1992년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink")) 《[경향신문](../Page/경향신문.md "wikilink")》 [유려한 해설"바둑학교수"정수현「KBS바둑왕전」 (KBS2·하오11:50)](http://newslibrary.naver.com/viewer/index.nhn?articleId=1992021500329130018&editNo=15&printCount=1&publishDate=1992-02-15&officeId=00032&pageNo=30&printNo=14317&publishType=00010) [경향신문](../Page/경향신문.md "wikilink") 30면 [바둑](../Page/바둑.md "wikilink") [1992년](../Page/1992년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") 확인
+6.  ([1995년](../Page/1995년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink")) 《[동아일보](../Page/동아일보.md "wikilink")》 [케이블 바둑TV「명승부30선」진행 유지인 미모 棋力(기력) 갖춘 대학3년생…"유시훈이 오빠예요"](http://newslibrary.naver.com/viewer/index.nhn?articleId=1995101800209133010&editNo=45&printCount=1&publishDate=1995-10-18&officeId=00020&pageNo=33&printNo=23000&publishType=00010) [동아일보](../Page/동아일보.md "wikilink") 33면 [1995년](../Page/1995년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") 확인
+7.  [김성룡의](../Page/김성룡_\(바둑_기사\).md "wikilink") 대국 관계로 일부 방송분은 대신 [한해원](https://ko.wikipedia.org/wiki/한해원 "wikilink")이 진행하였다.
+8.  [노영하](../Page/노영하.md "wikilink") 九단의 개인 사정으로 인하여, [2003년](../Page/2003년.md "wikilink") 방송분은 [노영하](../Page/노영하.md "wikilink") 九단 대신 [양재호](https://ko.wikipedia.org/wiki/양재호 "wikilink") 九단이 해설하였다.
+9.
+10. ([1984년](../Page/1984년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink")) 《[동아일보](../Page/동아일보.md "wikilink")》 [KBS바둑왕전 盧永夏(노영하)씨가解說(해설)](http://newslibrary.naver.com/viewer/index.nhn?articleId=1984011400209205021&editNo=2&printCount=1&publishDate=1984-01-14&officeId=00020&pageNo=5&printNo=19163&publishType=00020) [동아일보](../Page/동아일보.md "wikilink") 5면 [1984년](../Page/1984년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") 확인
+11. ([1984년](../Page/1984년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink")) 《[매일경제](https://ko.wikipedia.org/wiki/매일경제 "wikilink")》 [K3TV「바둑왕전」해설](http://newslibrary.naver.com/viewer/index.nhn?articleId=1984011900099209011&editNo=1&printCount=1&publishDate=1984-01-19&officeId=00009&pageNo=9&printNo=5500&publishType=00020) [매일경제](https://ko.wikipedia.org/wiki/매일경제 "wikilink") 9면 [1984년](../Page/1984년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") 확인
+12. ([1994년](../Page/1994년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink")) 《[경향신문](../Page/경향신문.md "wikilink")》 ["TV速棋(속기)해설 4인방 각축"](http://newslibrary.naver.com/viewer/index.nhn?articleId=1994050200329117016&editNo=15&printCount=1&publishDate=1994-05-02&officeId=00032&pageNo=17&printNo=15073&publishType=00010) [경향신문](../Page/경향신문.md "wikilink") 17면 [1994년](../Page/1994년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") 확인
+13. ([2013년](../Page/2013년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink")) 《[한국경제신문](../Page/한국경제신문.md "wikilink")》 ["조훈현 우승 중계 때 만세삼창 가장 감동…노영하를 끝으로 바둑해설 1세대 퇴장합니다"](http://www.hankyung.com/news/app/newsview.php?aid=2013051906041) [한국경제신문](../Page/한국경제신문.md "wikilink") [바둑](../Page/바둑.md "wikilink") [2013년](../Page/2013년.md "wikilink") [5월 19일](../Page/5월_19일.md "wikilink") 확인
+14. ([2013년](../Page/2013년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink")) 《[한국일보](../Page/한국일보.md "wikilink")》 ["명승부 장면 생생한 전달 30년, 행복했습니다"](http://sports.news.naver.com/sports/index.nhn?category=baduk&ctg=news&mod=read&office_id=038&article_id=0002391959) [한국일보](../Page/한국일보.md "wikilink") [바둑](../Page/바둑.md "wikilink") [2013년](../Page/2013년.md "wikilink") [5월 24일](../Page/5월_24일.md "wikilink") 확인

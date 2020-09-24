@@ -60,7 +60,7 @@ Tcgrep은 grep의 보완된 형태로 Perl언어를 사용한다.
   - [보이어-무어 문자열 검색 알고리즘](https://ko.wikipedia.org/wiki/보이어-무어_문자열_검색_알고리즘 "wikilink")
   - [유닉스 명령어 목록](../Page/유닉스_명령어_목록.md "wikilink")
 
-## 참고문헌
+## 참고 문헌
 
   -
   - Hume, Andrew *[A tale of two greps](http://www3.interscience.wiley.com/cgi-bin/abstract/113446956/ABSTRACT?CRETRY=1&SRETRY=0),* Software—Practice and Experience 18, ( 11 ), 1063–1072 ( 1988).

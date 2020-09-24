@@ -17,8 +17,8 @@
 ### 게스트
 
   - [박미희](../Page/박미희.md "wikilink") (해설위원)
-  - [최희](../Page/최희.md "wikilink") ([KBS N](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 아나운서)
-  - [장새별](https://ko.wikipedia.org/wiki/장새별 "wikilink") ([KBS N](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 아나운서)
+  - [최희](../Page/최희.md "wikilink") ([KBS N](../Page/KBS_N.md "wikilink") 아나운서)
+  - [장새별](https://ko.wikipedia.org/wiki/장새별 "wikilink") ([KBS N](../Page/KBS_N.md "wikilink") 아나운서)
 
 ### 해설위원
 

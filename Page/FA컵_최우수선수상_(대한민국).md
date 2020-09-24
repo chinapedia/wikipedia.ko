@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FA컵 최우수선수상 \(대한민국\)](https://ko.wikipedia.org/wiki/FA컵_최우수선수상_\(대한민국\)).
 
 
-이 문서는 [대한민국의 FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 최우수선수상을 받은 선수들의 목록이다.
+이 문서는 [대한민국의 FA컵에서](../Page/FA컵_\(대한민국\).md "wikilink") 최우수선수상을 받은 선수들의 목록이다.
 
 ## MVP
 
@@ -139,7 +139,7 @@
 
 ## 관련 항목
 
-  - [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")
+  - [FA컵](../Page/FA컵_\(대한민국\).md "wikilink")
   - [대한민국 FA컵 득점상](https://ko.wikipedia.org/wiki/대한민국_FA컵_득점상 "wikilink")
   - [K리그 최우수선수상](../Page/K리그_최우수선수상.md "wikilink")
   - [대한축구협회](../Page/대한축구협회.md "wikilink")

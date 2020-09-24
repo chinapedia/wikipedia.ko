@@ -366,8 +366,8 @@ SS에 등장하는 차종은 [이니셜D 아케이드 스테이지 Ver.3와](htt
 
 ### TOYOTA
 
-  - [TRUENO](https://ko.wikipedia.org/wiki/토요타_스프린터 "wikilink") GT-APEX ([AE86](https://ko.wikipedia.org/wiki/토요타_AE86 "wikilink")) - 후지와라 타쿠미 (아키나,츠치사카),후지와라 분타(분타 챌린지 레벨1\~10)
-  - [LEVIN](../Page/토요타_코롤라.md "wikilink") GT-APEX ([AE86](https://ko.wikipedia.org/wiki/토요타_AE86 "wikilink")) - 아키야마 와타루 (쇼마루)
+  - [TRUENO](https://ko.wikipedia.org/wiki/토요타_스프린터 "wikilink") GT-APEX ([AE86](../Page/토요타_AE86.md "wikilink")) - 후지와라 타쿠미 (아키나,츠치사카),후지와라 분타(분타 챌린지 레벨1\~10)
+  - [LEVIN](../Page/토요타_코롤라.md "wikilink") GT-APEX ([AE86](../Page/토요타_AE86.md "wikilink")) - 아키야마 와타루 (쇼마루)
   - [LEVIN](../Page/토요타_코롤라.md "wikilink") SR ([AE85](https://ko.wikipedia.org/wiki/토요타_AE85 "wikilink")) - 타케우치 이츠키 (묘우기)
   - [MR-2](https://ko.wikipedia.org/wiki/토요타_MR2 "wikilink") G-Limited (SW20) - 코가시와 카이 (이로하자카)
   - [MR-S](https://ko.wikipedia.org/wiki/토요타_MR2 "wikilink") S-Edition (ZZW30)

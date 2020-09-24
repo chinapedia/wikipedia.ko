@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [한국GM 라보](https://ko.wikipedia.org/wiki/한국GM_라보).
 
 
-**한국GM 라보**(GM Korea Labo)는 [한국GM](https://ko.wikipedia.org/wiki/한국GM "wikilink")의 경상용 트럭이므로 차명 '라보'는 '일꾼'을 뜻하는 [그리스어](../Page/그리스어.md "wikilink")다.
+**한국GM 라보**(GM Korea Labo)는 [한국GM](https://ko.wikipedia.org/wiki/한국GM "wikilink")의 경상용 트럭이며 차명 '라보'는 '일꾼'을 뜻하는 [그리스어](../Page/그리스어.md "wikilink")다.
 
 ## 1세대(DA51/DB51)
 

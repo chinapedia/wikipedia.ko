@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CL \(가수\)](https://ko.wikipedia.org/wiki/CL_\(가수\)).
 
 
-**CL**(, [1991년](../Page/1991년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [2NE1](../Page/2NE1.md "wikilink")의 리더였다. 대표곡으로는 "나쁜 기집애", "멘붕", "hello bitches" 등이 있다.
+**CL**(, [1991년](../Page/1991년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [걸 그룹](../Page/걸_그룹.md "wikilink") [2NE1](../Page/2NE1.md "wikilink")의 리더였다. 대표곡으로는 "나쁜 기집애", "멘붕", "hello bitches" 등이 있다.
 
 ## 생애
 

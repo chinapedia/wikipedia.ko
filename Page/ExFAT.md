@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ExFAT](https://ko.wikipedia.org/wiki/ExFAT).
 
 
-**exFAT** (확장 파일 할당 테이블, Extended File Allocation Table, 줄여서 FAT64)는 [특허 출원](../Page/특허.md "wikilink") 중인\[1\][사유](https://ko.wikipedia.org/wiki/사유_소프트웨어 "wikilink") [파일 시스템으로](../Page/파일_시스템.md "wikilink"), [마이크로소프트](../Page/마이크로소프트.md "wikilink")사가 [윈도우 CE 6.0](https://ko.wikipedia.org/wiki/윈도우_CE_6.0 "wikilink") 장치와 데스크톱 운영 체제 [윈도우 비스타 서비스 팩 1](../Page/윈도우_비스타.md "wikilink")\[2\] 및 [윈도우 7](https://ko.wikipedia.org/wiki/윈도우_7 "wikilink"), 그리고 자사의 서버 운영 체제인 [윈도우 서버 2008에](../Page/윈도우_서버_2008.md "wikilink") 도입하기 위해 만든 것이다.\[3\]
+**exFAT** (확장 파일 할당 테이블, Extended File Allocation Table, 줄여서 FAT64)는 [특허 출원](../Page/특허.md "wikilink") 중인\[1\][사유](../Page/사유_소프트웨어.md "wikilink") [파일 시스템으로](../Page/파일_시스템.md "wikilink"), [마이크로소프트](../Page/마이크로소프트.md "wikilink")사가 [윈도우 CE 6.0](https://ko.wikipedia.org/wiki/윈도우_CE_6.0 "wikilink") 장치와 데스크톱 운영 체제 [윈도우 비스타 서비스 팩 1](../Page/윈도우_비스타.md "wikilink")\[2\] 및 [윈도우 7](https://ko.wikipedia.org/wiki/윈도우_7 "wikilink"), 그리고 자사의 서버 운영 체제인 [윈도우 서버 2008에](../Page/윈도우_서버_2008.md "wikilink") 도입하기 위해 만든 것이다.\[3\]
 
 exFAT는 [NTFS](../Page/NTFS.md "wikilink") 파일 시스템이 자료 구조 오버헤드 등의 문제로 적절치 못할 경우, 또는 이전 버전인 [FAT](../Page/파일_할당_테이블.md "wikilink") 파일 시스템의 파일 크기/디렉터리 제약이 문제가 되는 경우에 사용될 수 있다.
 

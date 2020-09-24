@@ -27,7 +27,7 @@
   - [홍리나](../Page/홍리나.md "wikilink") : 홍세나 역
   - [선우재덕](../Page/선우재덕.md "wikilink") : 우재용 역
   - [박진성](https://ko.wikipedia.org/wiki/박진성 "wikilink") : 장필도 역
-  - [윤다훈](../Page/윤다훈.md "wikilink") : 김진상 역
+  - [윤다훈](../Page/윤다훈.md "wikilink") : 마청길 역
   - [정소녀](https://ko.wikipedia.org/wiki/정소녀 "wikilink")
   - [김응석](../Page/김응석.md "wikilink")
   - [한인수](../Page/한인수.md "wikilink") : 진산 기업_임원 역 (조연)
@@ -77,7 +77,7 @@
   - [박주아](../Page/박주아_\(배우\).md "wikilink")
   - [홍륜의](../Page/홍륜의.md "wikilink")
   - [김덕현](../Page/김덕현_\(배우\).md "wikilink")
-  - [조재훈](https://ko.wikipedia.org/wiki/조재훈 "wikilink")
+  - [조재훈](../Page/조재훈.md "wikilink")
   - [장미자](../Page/장미자.md "wikilink")
   - [전원주](../Page/전원주.md "wikilink")
   - [이주실](../Page/이주실.md "wikilink") : 아영 고모 역 (222회)
@@ -198,6 +198,7 @@
   - 박정웅
   - 김정연
   - 류용진
+  - 문창길
   - [김원희](../Page/김원희.md "wikilink") : 고복남 역
   - 유루나
   - 박영숙
@@ -268,6 +269,8 @@
   - 방숙례
   - 장영주
   - 권혁호
+  - 어수경
+  - 조정국
   - 임옥경 : 사무직 직원 역
   - [안문숙](../Page/안문숙.md "wikilink") : 사무직 직원 역
   - [이주경](../Page/이주경.md "wikilink") : 한유경 역

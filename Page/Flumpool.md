@@ -18,7 +18,7 @@
 
   - 야마무라 류타 (, [1985년](../Page/1985년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink") \~ )
       - [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink")·[기타](../Page/기타.md "wikilink") 담당. 오사카 부 마츠바라 시 출신.
-  - 사카이 카즈키 (, 1985년 [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") \~ )
+  - 사카이 카즈키 (, 1985년 [2월 26일](../Page/2월_26일.md "wikilink") \~ )
       - 기타 담당. 오사카 부 마츠바라 시 출신.
   - 아마카와 겡키 (, [1984년](../Page/1984년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") \~ )
       - [베이스 기타](../Page/베이스_기타.md "wikilink") 담당. 오사카 부 마츠바라 시 출신.

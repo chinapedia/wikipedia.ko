@@ -430,7 +430,7 @@ TV - 김남경</p></td>
 </tr>
 <tr class="odd">
 <td><p>특별상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/숀_리_(보디빌더)" title="wikilink">숀 리</a></p></td>
+<td><p><a href="../Page/숀_리_(보디빌더).md" title="wikilink">숀 리</a></p></td>
 </tr>
 <tr class="even">
 <td><p>만능 엔터테이너상</p></td>

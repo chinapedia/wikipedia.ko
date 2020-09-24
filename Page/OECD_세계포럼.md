@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [OECD 세계포럼](https://ko.wikipedia.org/wiki/OECD_세계포럼).
 
 
-**OECD 세계포럼**(OECD World Forum)은 GDP가 내재하는 한계를 넘어 경제, 사회, 환경 등을 모두 포괄할 수 있는 새로운 사회발전 개념을 정립하고, 발전 측정을 위한 새로운 패러다임 모색에 대해 글로벌 차원의 협력을 논의하기 위한 [OECD](https://ko.wikipedia.org/wiki/OECD "wikilink") 최대 규모 국제회의이다.
+**OECD 세계포럼**(영어:OECD World Forum)은 GDP가 내재하는 한계를 넘어 경제, 사회, 환경 등을 모두 포괄할 수 있는 새로운 사회발전 개념을 정립하고, 발전 측정을 위한 새로운 패러다임 모색에 대해 글로벌 차원의 협력을 논의하기 위한 [OECD](https://ko.wikipedia.org/wiki/OECD "wikilink") 최대 규모 국제회의이다.
 
 공식명칭은 **‘통계, 지식, 정책’에 관한 OECD 세계포럼(OECD World Forum on Statistics, Knowledge and Policy)**으로 OECD 통계국 주관 하에 OECD 회원국 중 한 곳을 선정하여 2\~3년에 한 번씩 개최된다.
 

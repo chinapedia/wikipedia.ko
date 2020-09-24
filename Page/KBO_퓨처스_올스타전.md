@@ -10,7 +10,7 @@
 [대한민국](../Page/대한민국.md "wikilink")에서는 2군 상태 및 군 팀에 있는 입단 5년 차 이하([신고선수](../Page/신고선수.md "wikilink") 포함)의 선수들로 리그별 20명(팀당 4명)을 선출한다. 리그 방식은 [2군 리그와도](../Page/KBO_퓨처스리그.md "wikilink") 같다.
 
   -
-    퓨처스 나눔 - [SK 와이번스](../Page/SK_와이번스.md "wikilink"), [LG 트윈스](../Page/LG_트윈스.md "wikilink"), [두산 베어스](../Page/두산_베어스.md "wikilink"), [고양 히어로즈](../Page/고양_히어로즈.md "wikilink"), [경찰](../Page/경찰_야구단.md "wikilink"), [kt 위즈](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink")
+    퓨처스 나눔 - [SK 와이번스](../Page/SK_와이번스.md "wikilink"), [LG 트윈스](../Page/LG_트윈스.md "wikilink"), [두산 베어스](../Page/두산_베어스.md "wikilink"), [고양 히어로즈](../Page/고양_히어로즈.md "wikilink"), [kt 위즈](https://ko.wikipedia.org/wiki/kt_위즈 "wikilink")
     퓨처스 드림 - [KIA 타이거즈](https://ko.wikipedia.org/wiki/KIA_타이거즈 "wikilink"), [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink"), [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink"), [상무](../Page/상무_피닉스_\(야구\).md "wikilink"), [한화 이글스](../Page/한화_이글스.md "wikilink"), [창원 다이노스](../Page/창원_다이노스.md "wikilink")
 
 ## 퓨처스 올스타전 MVP

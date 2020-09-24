@@ -3,7 +3,7 @@
 
 **KBS 연기대상**()은 한 해 동안 [KBS 드라마에서](../Page/KBS_드라마.md "wikilink") 연기를 한 연기자를 그 대상으로 하여 [1987년](../Page/1987년.md "wikilink")부터 시작하여 매년 [12월 31일](../Page/12월_31일.md "wikilink") 밤에 생방송으로 진행하는 시상식 프로그램이다. 우수상은 일일극, 미니시리즈(20부작 미만), 중편드라마(20 \~ 24부작), 장편드라마(24부작 초과)로 나뉘어 각 부문별로 시상하며, 전체 부문의 후보 가운데 최우수상 후보를 선정하여 최우수상과 대상 수상자를 결정한다.
 
-연기대상 시작 전에 공식 홈페이지를 통하여 네티즌 투표를 진행하여 네티즌상과 베스트 커플상 대상자를 선정하고 드라마 프로듀서, 작가 그리고 방송 담당 기자의 투표를 통하여 인기상 수상자를 선정한다. 아울러 [2012년](../Page/2012년.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink")까지 [KBS](../Page/한국방송공사.md "wikilink"), [MBC](../Page/문화방송.md "wikilink"), [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 등 지상파 방송 3사 드라마 프로듀서가 뽑은 연기자상을 도입하였으며 2013년에는 특별히 각 방송사 프로듀서가 직접 해당 방송국 연기대상 시상식에 시상자로 참석하기로 했으며 일례로 MBC 드라마 제작국장 이은규가 KBS 연기대상 시상식장에 참석했었다.
+연기대상 시작 전에 공식 홈페이지를 통하여 네티즌 투표를 진행하여 네티즌상과 베스트 커플상 대상자를 선정하고 드라마 프로듀서, 작가 그리고 방송 담당 기자의 투표를 통하여 인기상 수상자를 선정한다. 아울러 [2012년](../Page/2012년.md "wikilink")부터 [2015년](../Page/2015년.md "wikilink")까지 [KBS](../Page/한국방송공사.md "wikilink"), [MBC](../Page/문화방송.md "wikilink"), [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 등 지상파 방송 3사 드라마 프로듀서가 뽑은 연기자상을 도입하였으며 2013년에는 특별히 각 방송사 프로듀서가 직접 해당 방송국 연기대상 시상식에 시상자로 참석하기로 했으며 일례로 MBC 드라마본부 부장인 이은규가 KBS 연기대상 시상식장에 참석했었다.
 
 ## 역대 대상 수상자
 
@@ -222,6 +222,12 @@
 <td><p><a href="../Page/공효진.md" title="wikilink">공효진</a></p></td>
 <td><p><a href="../Page/동백꽃_필_무렵.md" title="wikilink">동백꽃 필 무렵</a></p></td>
 </tr>
+<tr class="even">
+<td><p>34회</p></td>
+<td><p>2020</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -346,7 +352,7 @@
 | [김정난](../Page/김정난.md "wikilink")           | [내일은 사랑](../Page/내일은_사랑.md "wikilink")                                                                               |                                                                                                           |
 | 아역상                                        | [정태우](../Page/정태우.md "wikilink")                                                                                     | [먼동](../Page/먼동.md "wikilink"), [사랑 그리고 이별](https://ko.wikipedia.org/wiki/사랑_그리고_이별 "wikilink")           |
 | [이재은](../Page/이재은_\(1980년\).md "wikilink") | [일월](https://ko.wikipedia.org/wiki/일월 "wikilink")                                                                    |                                                                                                           |
-| 우정상                                        | [조재훈](https://ko.wikipedia.org/wiki/조재훈 "wikilink")                                                                  |                                                                                                           |
+| 우정상                                        | [조재훈](../Page/조재훈.md "wikilink")                                                                                     |                                                                                                           |
 | 공로상                                        | [김지영](../Page/김지영_\(1938년\).md "wikilink")                                                                           | [들국화](https://ko.wikipedia.org/wiki/들국화 "wikilink"), [사랑은 못말려](../Page/사랑은_못말려.md "wikilink")             |
 | 특별상                                        | [대추나무 사랑걸렸네](../Page/대추나무_사랑걸렸네.md "wikilink") 팀                                                                     |                                                                                                           |
 | 탤런트가 뽑은 올해의 가수상                            | [김수희](../Page/김수희.md "wikilink")                                                                                     | 애모                                                                                                        |
@@ -365,7 +371,7 @@
 | [이아현](../Page/이아현.md "wikilink")           | [딸부잣집](../Page/딸부잣집.md "wikilink")                                |                                                                                                                                      |
 | 아역상                                        | [이민우](../Page/이민우_\(배우\).md "wikilink")                           | [당신이 그리워질때](../Page/당신이_그리워질때.md "wikilink"), [한명회](../Page/한명회.md "wikilink"), [춘향전](../Page/춘향전.md "wikilink"), 사랑이 꽃피는 교실         |
 | 박루시아                                       | [한명회](../Page/한명회.md "wikilink"), 스트라비발디                          |                                                                                                                                      |
-| 우정상                                        | [이종만](../Page/이종만_\(배우\).md "wikilink")                           | [한명회](../Page/한명회.md "wikilink"), [무당](https://ko.wikipedia.org/wiki/무당 "wikilink"), 역사의 라이벌                                         |
+| 우정상                                        | [이종만](../Page/이종만_\(배우\).md "wikilink")                           | [한명회](../Page/한명회.md "wikilink"), [무당](../Page/무당.md "wikilink"), 역사의 라이벌                                                            |
 | 공로상                                        | [최길호](https://ko.wikipedia.org/wiki/최길호 "wikilink")               |                                                                                                                                      |
 | 특별상                                        | [일요일은 참으세요](../Page/일요일은_참으세요.md "wikilink") 팀                    |                                                                                                                                      |
 | 부부대상                                       | 이영                                                                |                                                                                                                                      |

@@ -346,7 +346,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/R리그_2001" title="wikilink">2001</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/백영철" title="wikilink">백영철</a></p></td>
+<td><p><a href="../Page/백영철.md" title="wikilink">백영철</a></p></td>
 <td><p><a href="../Page/미드필더.md" title="wikilink">미드필더 (MF)</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">성남 일화 천마</a></p></td>
 </tr>

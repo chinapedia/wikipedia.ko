@@ -744,7 +744,7 @@
   - [K리그 클래식](https://ko.wikipedia.org/wiki/K리그1 "wikilink")
   - [K리그 챌린지](../Page/K리그2.md "wikilink")
   - [K리그 컵대회](https://ko.wikipedia.org/wiki/K리그_컵대회 "wikilink")
-  - [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")
+  - [FA컵](../Page/FA컵_\(대한민국\).md "wikilink")
   - [슈퍼컵](https://ko.wikipedia.org/wiki/대한민국_슈퍼컵 "wikilink")
   - [대한축구협회](../Page/대한축구협회.md "wikilink")
 

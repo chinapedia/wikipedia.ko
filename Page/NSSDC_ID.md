@@ -11,6 +11,8 @@
 
 카탈로그는 미국 [NASA](https://ko.wikipedia.org/wiki/NASA "wikilink") 산하의 [미국 우주과학 데이터 보관소](https://ko.wikipedia.org/wiki/미국_우주과학_데이터_보관소 "wikilink") (NSSDC)에서 관리한다.
 
+국제 우주 정거장의 NSSDC ID는 1988-067A이다.
+
 ## NSSDC ID 찾는 방법
 
 해당 인공위성의 NSSDC ID를 찾으려면, 구글에서 "NSSDC 영어인공위성이름" 또는 "SPACEWARN Bulletin 영어인공위성이름"을 검색하면 NSSDC에서 게시하는 SPACEWARN Bulletin의 정보가 나온다.

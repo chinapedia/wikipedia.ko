@@ -17,7 +17,7 @@
 10. Skit
 11. 서커스 (Feat. [Dok2](https://ko.wikipedia.org/wiki/Dok2 "wikilink"), [노홍철](../Page/노홍철.md "wikilink"))
 12. Love Is (Feat. [윤미래](../Page/윤미래.md "wikilink"), [권기범](https://ko.wikipedia.org/wiki/권기범 "wikilink"))
-13. 파도 (I Know, Feat. [Paloalto](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink"))
+13. 파도 (I Know, Feat. [Paloalto](../Page/팔로알토_\(래퍼\).md "wikilink"))
 14. 그림자 (Feat. 은주최)
 15. 나쁜 소식 (Bad News Is Coming, Feat. [BMK](../Page/BMK.md "wikilink"))
 16. 덩덕쿵 (Remix, Feat. [P-Type](../Page/피타입.md "wikilink"), [The Quiett](https://ko.wikipedia.org/wiki/The_Quiett "wikilink"))

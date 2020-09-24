@@ -85,13 +85,13 @@
 </tr>
 <tr class="even">
 <td><p>2017년</p></td>
-<td><p>1부 : <a href="../Page/아이린_(1991년).md" title="wikilink">아이린</a> (<a href="../Page/레드벨벳_(음악_그룹).md" title="wikilink">레드벨벳</a>), <a href="../Page/사나_(가수).md" title="wikilink">사나</a> (<a href="https://ko.wikipedia.org/wiki/트와이스" title="wikilink">트와이스</a>), <a href="../Page/진_(가수).md" title="wikilink">진</a> (<a href="../Page/방탄소년단.md" title="wikilink">방탄소년단</a>), <a href="../Page/찬열.md" title="wikilink">찬열</a> (<a href="../Page/EXO.md" title="wikilink">EXO</a>)<br />
+<td><p>1부 : <a href="../Page/아이린_(1991년).md" title="wikilink">아이린</a> (<a href="../Page/레드벨벳_(음악_그룹).md" title="wikilink">레드벨벳</a>), <a href="../Page/사나_(가수).md" title="wikilink">사나</a> (<a href="../Page/트와이스.md" title="wikilink">트와이스</a>), <a href="../Page/진_(가수).md" title="wikilink">진</a> (<a href="../Page/방탄소년단.md" title="wikilink">방탄소년단</a>), <a href="../Page/찬열.md" title="wikilink">찬열</a> (<a href="../Page/EXO.md" title="wikilink">EXO</a>)<br />
 2부 : <a href="../Page/민규.md" title="wikilink">민규</a> (<a href="../Page/세븐틴_(음악_그룹).md" title="wikilink">세븐틴</a>), <a href="../Page/예린.md" title="wikilink">예린</a> (<a href="../Page/여자친구_(음악_그룹).md" title="wikilink">여자친구</a>), <a href="../Page/강다니엘.md" title="wikilink">강다니엘</a> (<a href="../Page/워너원.md" title="wikilink">워너원</a>), <a href="../Page/솔라_(가수).md" title="wikilink">솔라</a> (<a href="../Page/마마무.md" title="wikilink">마마무</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018년</p></td>
-<td><p><a href="../Page/다현.md" title="wikilink">다현</a> (<a href="https://ko.wikipedia.org/wiki/트와이스" title="wikilink">트와이스</a>), <a href="../Page/진_(가수).md" title="wikilink">진</a> (<a href="../Page/방탄소년단.md" title="wikilink">방탄소년단</a>), <a href="../Page/찬열.md" title="wikilink">찬열</a> (<a href="../Page/EXO.md" title="wikilink">EXO</a>)</p></td>
+<td><p><a href="../Page/다현.md" title="wikilink">다현</a> (<a href="../Page/트와이스.md" title="wikilink">트와이스</a>), <a href="../Page/진_(가수).md" title="wikilink">진</a> (<a href="../Page/방탄소년단.md" title="wikilink">방탄소년단</a>), <a href="../Page/찬열.md" title="wikilink">찬열</a> (<a href="../Page/EXO.md" title="wikilink">EXO</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
