@@ -24,7 +24,7 @@
   - [마츠자카 케이코](../Page/마츠자카_케이코.md "wikilink") : 2008년 [NHK 대하드라마](../Page/NHK_대하드라마.md "wikilink") 『[아쓰히메](../Page/아쓰히메_\(드라마\).md "wikilink")』에서 이쿠시마 역.
   - [강상중](../Page/강상중.md "wikilink") : 베스트셀러 『고민하는 힘』의 저자이자 정치학자.
   - [호리키타 마키](../Page/호리키타_마키.md "wikilink") : 『아쓰히메』에서 [가즈노미야](../Page/가즈노미야_지카코_내친왕.md "wikilink") 역.
-  - [츠마부키 사토시](../Page/츠마부키_사토시.md "wikilink") : 2009년 NHK 대하드라마 『[천지인](../Page/천지인_\(드라마\).md "wikilink")』의 주인공 [나오에 가네쓰구](https://ko.wikipedia.org/wiki/나오에_가네쓰구 "wikilink") 역.
+  - [츠마부키 사토시](../Page/츠마부키_사토시.md "wikilink") : 2009년 NHK 대하드라마 『[천지인](../Page/천지인_\(드라마\).md "wikilink")』의 주인공 [나오에 가네쓰구](../Page/나오에_가네쓰구.md "wikilink") 역.
   - 우에노 유키코 : [2008년 하계 올림픽 소프트볼](../Page/2008년_하계_올림픽_소프트볼.md "wikilink") 금메달리스트.
 
 ## 출장가수

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [2021년 CONCACAF 골드컵](https://ko.wikipedia.org/wiki/2021년_CONCACAF_골드컵).
 
 
-**2021년 CONCACAF 골드컵**은 [2021년](../Page/2021년.md "wikilink")에 개최되는 16번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink").
+**2021년 CONCACAF 골드컵**은 [2021년](../Page/2021년.md "wikilink") [7월 10일부터](../Page/7월_10일.md "wikilink") [8월 1일까지](../Page/8월_1일.md "wikilink") 개최될 예정인 16번째 [CONCACAF 골드컵이다](../Page/CONCACAF_골드컵.md "wikilink").
 
 ## 개최 도시 및 경기장
 
@@ -80,8 +80,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/2021년_CONCACAF_골드컵_예선.md" title="wikilink">2021년 CONCACAF 골드컵 예선</a> 승자</p></td>
-<td><p>?번째</p></td>
+<td><p>초청 팀</p></td>
+<td><p>1번째</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -102,6 +102,8 @@
 </table>
 
 ## 시드 배정
+
+2021년 CONCACAF 골드컵 본선 조 추첨은 2020년 9월 28일에 [2021년 CONCACAF 골드컵 예선](../Page/2021년_CONCACAF_골드컵_예선.md "wikilink") 추첨과 함께 진행된다.
 
 ## 선수 명단
 

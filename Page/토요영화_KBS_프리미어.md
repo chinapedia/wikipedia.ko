@@ -239,7 +239,7 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/7월_19일.md" title="wikilink">7월 19일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/묵시록_코드" title="wikilink">묵시록 코드</a></p></td>
+<td><p><a href="../Page/묵시록_코드.md" title="wikilink">묵시록 코드</a></p></td>
 <td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 12:25 ~ 2:15 (110분)</p></td>
 </tr>
 <tr class="odd">
@@ -299,7 +299,7 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/10월_4일.md" title="wikilink">10월 4일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하루,_48시간" title="wikilink">하루, 48시간</a></p></td>
+<td><p><a href="../Page/하루,_48시간.md" title="wikilink">하루, 48시간</a></p></td>
 <td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 12:35 ~ 2:25 (110분)</p></td>
 </tr>
 <tr class="odd">
@@ -317,7 +317,7 @@
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/10월_25일.md" title="wikilink">10월 25일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/블랙_벌룬" title="wikilink">블랙 벌룬</a></p></td>
+<td><p><a href="../Page/블랙_벌룬.md" title="wikilink">블랙 벌룬</a></p></td>
 <td><p><a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 12:35 ~ 2:15 (100분)</p></td>
 </tr>
 <tr class="even">
@@ -346,13 +346,13 @@
   - [토요명화](../Page/토요명화.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink")) - [2007년](../Page/2007년.md "wikilink") [11월 4일에](../Page/11월_4일.md "wikilink") 폐지됨, 과거
   - [명화극장](../Page/명화극장.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")) - [2014년](../Page/2014년.md "wikilink") [12월 27일에](../Page/12월_27일.md "wikilink") 폐지됨, 과거
   - [독립영화관](../Page/독립영화관.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")) - 현재
-  - 위성극장 ([KBS 위성](https://ko.wikipedia.org/wiki/KBS_N "wikilink")) - [2002년](../Page/2002년.md "wikilink") [2월 24일에](../Page/2월_24일.md "wikilink") 폐지됨, 과거
+  - 위성극장 ([KBS 위성](../Page/KBS_N.md "wikilink")) - [2002년](../Page/2002년.md "wikilink") [2월 24일에](../Page/2월_24일.md "wikilink") 폐지됨, 과거
   - [MBC 주말의 명화](https://ko.wikipedia.org/wiki/MBC_주말의_명화 "wikilink") ([문화방송](../Page/문화방송.md "wikilink")) - [2010년](../Page/2010년.md "wikilink") [10월 30일에](../Page/10월_30일.md "wikilink") 폐지됨, 과거
   - [MBC 일요심야극장](../Page/MBC_일요심야극장.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink")) - [2004년](../Page/2004년.md "wikilink") [5월 2일에](../Page/5월_2일.md "wikilink") 폐지됨, 과거
-  - [MBC 금요영화천국](https://ko.wikipedia.org/wiki/MBC_금요영화천국 "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink")) - [2007년](../Page/2007년.md "wikilink") [5월 18일에](../Page/5월_18일.md "wikilink") 폐지됨, 과거
-  - [MBC 일요영화특선](https://ko.wikipedia.org/wiki/MBC_일요영화특선 "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink")) - [2007년](../Page/2007년.md "wikilink") [9월 16일에](../Page/9월_16일.md "wikilink") 폐지됨, 과거
+  - [MBC 금요영화천국](../Page/MBC_금요영화천국.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink")) - [2007년](../Page/2007년.md "wikilink") [5월 18일에](../Page/5월_18일.md "wikilink") 폐지됨, 과거
+  - [MBC 일요영화특선](../Page/MBC_일요영화특선.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink")) - [2007년](../Page/2007년.md "wikilink") [9월 16일에](../Page/9월_16일.md "wikilink") 폐지됨, 과거
   - [영화특급](../Page/영화특급.md "wikilink") ([SBS](../Page/SBS_TV.md "wikilink")) - [2011년](../Page/2011년.md "wikilink") [1월 2일에](../Page/1월_2일.md "wikilink") 폐지됨, 과거
-  - [시네클럽](https://ko.wikipedia.org/wiki/시네클럽_\(영화_프로그램\) "wikilink") ([SBS](../Page/SBS_TV.md "wikilink")) - [2008년](../Page/2008년.md "wikilink") [4월 28일에](../Page/4월_28일.md "wikilink") 폐지됨, 과거
+  - [시네클럽](../Page/시네클럽_\(영화_프로그램\).md "wikilink") ([SBS](../Page/SBS_TV.md "wikilink")) - [2008년](../Page/2008년.md "wikilink") [4월 28일에](../Page/4월_28일.md "wikilink") 폐지됨, 과거
   - [수요극장](https://ko.wikipedia.org/wiki/수요극장 "wikilink") ([EBS TV](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")) - [2014년](../Page/2014년.md "wikilink") [9월 10일에](../Page/9월_10일.md "wikilink") 폐지됨, 과거
   - [EBS 금요극장](../Page/EBS_금요극장.md "wikilink") ([EBS TV](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")) - [2013년](../Page/2013년.md "wikilink") [8월 23일에](../Page/8월_23일.md "wikilink") 폐지되었다가 [2017년](../Page/2017년.md "wikilink") [3월 3일에](../Page/3월_3일.md "wikilink") 부활했다가 [2019년](../Page/2019년.md "wikilink") [8월 16일에](../Page/8월_16일.md "wikilink") 다시 폐지됨, 과거
   - OBS 금요시네마 ([OBS 경인TV](https://ko.wikipedia.org/wiki/OBS_경인TV "wikilink")) - [2014년](../Page/2014년.md "wikilink") [10월 3일에](../Page/10월_3일.md "wikilink") 폐지됨, 과거

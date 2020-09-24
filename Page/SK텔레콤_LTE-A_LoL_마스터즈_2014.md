@@ -72,13 +72,13 @@
 | 3경기 | SK텔레콤 T1   | 승         |
 | 승점  | 경기         | \+3       |
 
-| 포지션   | SK텔레콤 T1                                                             | 인크레더블 미라클                                                                |
-| ----- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 탑     | Impact [정언영](https://ko.wikipedia.org/wiki/정언영 "wikilink")           | Apple 정철우                                                                |
-| 정글    | Bengi [배성웅](../Page/배성웅.md "wikilink")                               | Reign Over [김의진](https://ko.wikipedia.org/wiki/김의진_\(프로게이머\) "wikilink") |
-| 미드    | Faker 이상혁                                                            | KurO [이서행](https://ko.wikipedia.org/wiki/이서행 "wikilink")                 |
-| AD 캐리 | Piglet [채광진](../Page/채광진.md "wikilink")                              | Violet 임두성                                                               |
-| 서포터   | Casper [권지민](https://ko.wikipedia.org/wiki/권지민_\(프로게이머\) "wikilink") | Lasha 권민우                                                                |
+| 포지션   | SK텔레콤 T1                                                   | 인크레더블 미라클                                                                |
+| ----- | ---------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 탑     | Impact [정언영](https://ko.wikipedia.org/wiki/정언영 "wikilink") | Apple 정철우                                                                |
+| 정글    | Bengi [배성웅](../Page/배성웅.md "wikilink")                     | Reign Over [김의진](https://ko.wikipedia.org/wiki/김의진_\(프로게이머\) "wikilink") |
+| 미드    | Faker 이상혁                                                  | KurO [이서행](https://ko.wikipedia.org/wiki/이서행 "wikilink")                 |
+| AD 캐리 | Piglet [채광진](../Page/채광진.md "wikilink")                    | Violet 임두성                                                               |
+| 서포터   | Casper [권지민](../Page/권지민_\(프로게이머\).md "wikilink")          | Lasha 권민우                                                                |
 
 ### 2주차
 

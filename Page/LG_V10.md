@@ -57,7 +57,7 @@ LG V10은 전후면에 강한 내구성을 가진 듀라 스킨 실리콘 마감
 
 ## 색상
 
-  - [오션 블루](https://ko.wikipedia.org/wiki/남색 "wikilink")
+  - [오션 블루](../Page/남색.md "wikilink")
   - [럭스 화이트](../Page/하양.md "wikilink")
   - [모던 베이지](https://ko.wikipedia.org/wiki/베이지 "wikilink")
   - [스페이스 블랙](https://ko.wikipedia.org/wiki/검정 "wikilink") (국내 미출시)

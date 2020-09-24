@@ -19,7 +19,7 @@
       - 「이동의 시」와「CANOE」의 인스트곡
       - 작곡: [마에다 준](../Page/마에다_준.md "wikilink"), 편곡: [ANANT-GARDE EYES](https://ko.wikipedia.org/wiki/ANANT-GARDE_EYES "wikilink")
 3.  초목이 싹터
-      - 작곡・편곡: [미즈쓰키 료](https://ko.wikipedia.org/wiki/미즈쓰키_료 "wikilink")
+      - 작곡・편곡: [미즈쓰키 료](../Page/미즈쓰키_료.md "wikilink")
 4.  Fertiliser
       - 작곡: 오리토 신지, 편곡: [이우치 춤추는 소녀](https://ko.wikipedia.org/wiki/이우치_춤추는_소녀 "wikilink")
 5.  화뇌

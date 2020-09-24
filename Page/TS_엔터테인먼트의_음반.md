@@ -108,7 +108,7 @@
   - 2017년 4월 18일 송지은 - **애타는 로맨스 OST Part.1**\[24\]
   - 2017년 4월 27일 슬리피 - **\[Digital Single\] Beautiful Life**
   - 2017년 6월 8일 대현,종업 - **\[Digital Single\] Party Baby**
-  - 2017년 6월 14일 [디애나](https://ko.wikipedia.org/wiki/디애나_\(가수\) "wikilink") - **아이돌 드라마 공작단 OST Part.2**\[25\]
+  - 2017년 6월 14일 [디애나](../Page/디애나_\(가수\).md "wikilink") - **아이돌 드라마 공작단 OST Part.2**\[25\]
   - 2017년 7월 4일 방용국 - **\[Digital Single\] 야마자키**
   - 2017년 8월 14일 소나무 - **\[Digital Single\] HAPPY BOX Part.1**
   - 2017년 8월 27일 슬리피 - **\[Digital Single\] 판타스틱 듀오 2 Part.13**\[26\]

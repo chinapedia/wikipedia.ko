@@ -43,7 +43,7 @@
 
 ### 게임
 
-  - [하츠네 미쿠 -Project DIVA-](../Page/하츠네_미쿠_-Project_DIVA-.md "wikilink")([세가](https://ko.wikipedia.org/wiki/세가 "wikilink")) - 일부 일러스트,일부 코스튬 디자인
+  - [하츠네 미쿠 -Project DIVA-](../Page/하츠네_미쿠_-Project_DIVA-.md "wikilink")([세가](../Page/세가.md "wikilink")) - 일부 일러스트,일부 코스튬 디자인
   - [하츠네 미쿠 -Project DIVA- 2nd](../Page/하츠네_미쿠_-Project_DIVA-.md "wikilink")(세가) - 일부 일러스트, 일부 코스튬 디자인
   - LORD of VERMILION([스퀘어에닉스](https://ko.wikipedia.org/wiki/스퀘어에닉스 "wikilink")) - 일부카드 일러스트
   - 花咲くまにまに([5pb.](https://ko.wikipedia.org/wiki/5pb. "wikilink")) - 캐릭터 디자인

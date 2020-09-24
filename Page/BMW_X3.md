@@ -21,8 +21,8 @@
 
 ## 3세대(G01)
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:2018_BMW_X3_xDrive30d_M_Sport_Automatic_3.0_Front.jpg "wikilink") [xDrive 30d M Sport](https://ko.wikipedia.org/wiki/파일:2018_BMW_X3_xDrive30d_M_Sport_Automatic_3.0_Rear.jpg "wikilink")
+[섬네일](https://ko.wikipedia.org/wiki/파일:2018_BMW_X3_xDrive30d_M_Sport_Automatic_3.0_Front.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:2018_BMW_X3_xDrive30d_M_Sport_Automatic_3.0_Rear.jpg "wikilink")
 
 [2017년 6월에](https://ko.wikipedia.org/wiki/2017년_6월 "wikilink") 공개되었다. X3 최초로 [플러그인 하이브리드가](../Page/플러그인_하이브리드.md "wikilink") 추가되었다.
 
-[X3](https://ko.wikipedia.org/wiki/분류:BMW의_차종 "wikilink") [X3](https://ko.wikipedia.org/wiki/분류:스포츠_유틸리티_자동차 "wikilink") [X3](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [X3](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [X3](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [X3](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [분류:2003년 도입된 자동차](https://ko.wikipedia.org/wiki/분류:2003년_도입된_자동차 "wikilink")
+[X3](https://ko.wikipedia.org/wiki/분류:BMW의_차종 "wikilink") [X3](https://ko.wikipedia.org/wiki/분류:스포츠_유틸리티_자동차 "wikilink") [X3](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [X3](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [X3](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [X3](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [분류:2003년 도입된 자동차](https://ko.wikipedia.org/wiki/분류:2003년_도입된_자동차 "wikilink") [분류:2020년대 자동차](https://ko.wikipedia.org/wiki/분류:2020년대_자동차 "wikilink")

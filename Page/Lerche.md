@@ -97,7 +97,7 @@ NAZ와 공동 제작</p></td>
   - [공식 웹사이트](http://www.lerche.jp/)
 
   -
-[분류:일본의 애니메이션 제작 기업](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_제작_기업 "wikilink") [분류:2011년 설립](https://ko.wikipedia.org/wiki/분류:2011년_설립 "wikilink")
+[분류:일본의 애니메이션 제작 기업](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_제작_기업 "wikilink") [분류:2011년 설립](https://ko.wikipedia.org/wiki/분류:2011년_설립 "wikilink") [분류:스튜디오 히바리](https://ko.wikipedia.org/wiki/분류:스튜디오_히바리 "wikilink") [Lerche](https://ko.wikipedia.org/wiki/분류:Lerche "wikilink")
 
 1.
 2.

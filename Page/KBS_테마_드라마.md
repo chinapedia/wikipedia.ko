@@ -32,7 +32,7 @@
 <td><p>2화</p></td>
 <td><p><a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/6월_21일.md" title="wikilink">6월 21일</a> ~ <a href="../Page/6월_22일.md" title="wikilink">6월 22일</a></p></td>
 <td><p>그리운 곳에 기차는 멈춘다</p></td>
-<td><p><a href="../Page/김을동.md" title="wikilink">김을동</a>, <a href="https://ko.wikipedia.org/wiki/이민호" title="wikilink">이민호</a>, 맹호림, <a href="https://ko.wikipedia.org/wiki/조재훈" title="wikilink">조재훈</a>,<br />
+<td><p><a href="../Page/김을동.md" title="wikilink">김을동</a>, <a href="https://ko.wikipedia.org/wiki/이민호" title="wikilink">이민호</a>, 맹호림, <a href="../Page/조재훈.md" title="wikilink">조재훈</a>,<br />
 <a href="https://ko.wikipedia.org/wiki/박현정" title="wikilink">박현정</a>, <a href="../Page/조양자.md" title="wikilink">조양자</a>, 이재신</p></td>
 <td><p>최완규</p></td>
 <td><p>이녹영</p></td>

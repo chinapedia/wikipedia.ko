@@ -17,6 +17,6 @@
 
 ## 이름
 
-2soo는 진흙 이"泥"에 물 수 "水"자를 쓴 "이수"라는 이름을 그가 존경하는 뮤지션 [2pac](https://ko.wikipedia.org/wiki/2pac "wikilink") 처럼 숫자를 인용한 표기로 바꾼 것이며, "진흙이 섞인 물" 이란 뜻으로 밑바닥 진흙탕 같은 언더그라운드에서 래퍼로 시작한 초심을 잃지 않겠다는 뜻을 가지고 있다.
+2soo는 진흙 이"泥"에 물 수 "水"자를 쓴 "이수"라는 이름을 그가 존경하는 뮤지션 [2pac](https://ko.wikipedia.org/wiki/2pac "wikilink")처럼 숫자를 인용한 표기로 바꾼 것이며, "진흙이 섞인 물" 이란 뜻으로 밑바닥 진흙탕 같은 언더그라운드에서 래퍼로 시작한 초심을 잃지 않겠다는 뜻을 가지고 있다.
 
 [분류:1980년 태어남](https://ko.wikipedia.org/wiki/분류:1980년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink")

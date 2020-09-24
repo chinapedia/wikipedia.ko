@@ -18,7 +18,7 @@
 | 2014년 10월 2일        | [회목](https://ko.wikipedia.org/wiki/도치기 "wikilink")  | 우쓰노미야 시민 문화회관                                               | 2,000명      |
 | 2014년 10월 8일        | [구주](https://ko.wikipedia.org/wiki/큐슈 "wikilink")   | 이치고 그랜시어터                                                   | 1,800명      |
 | 2014년 10월 9일        | [장기](https://ko.wikipedia.org/wiki/나가사키 "wikilink") | 나가사키 브릭 홀                                                   | 2,000명      |
-| 2014년 10월 11일       | [장야](https://ko.wikipedia.org/wiki/나가노 "wikilink")  | 호쿠토 문화회관                                                    | 2,100명      |
+| 2014년 10월 11일       | [장야](../Page/나가노.md "wikilink")                     | 호쿠토 문화회관                                                    | 2,100명      |
 | 2014년 10월 12일       | [석천](../Page/이시카와.md "wikilink")                    | 혼다노모리 홀                                                     | 통산 3,400명   |
 | 2014년 10월 13일       |                                                     |                                                             |             |
 | 2014년 10월 15일       | [삼중](https://ko.wikipedia.org/wiki/미에 "wikilink")   | 미에 아트센터                                                     | 1,900명      |

@@ -7,11 +7,9 @@
 
 ### 현재 선수 명단
 
-2015년 7월 28일 기준\[1\]\[2\].
+2020년 9월 6일 기준\[1\]
 
 ### 임대 선수 명단
-
-\[3\]
 
 ## 성적
 
@@ -40,5 +38,3 @@
 [첼시_FC_위민](https://ko.wikipedia.org/wiki/분류:첼시_FC_위민 "wikilink") [분류:잉글랜드의 여자 축구단](https://ko.wikipedia.org/wiki/분류:잉글랜드의_여자_축구단 "wikilink") [분류:첼시 FC](https://ko.wikipedia.org/wiki/분류:첼시_FC "wikilink") [분류:1992년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1992년_설립된_축구단 "wikilink")
 
 1.
-2.
-3.

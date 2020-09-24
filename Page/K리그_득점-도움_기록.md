@@ -479,6 +479,16 @@
 <td><p><small><a href="../Page/K리그2.md" title="wikilink">K리그2</a> 기록 포함</small></p></td>
 </tr>
 <tr class="odd">
+<td><p>21</p></td>
+<td><p><a href="../Page/세징야_(축구_선수).md" title="wikilink">세징야</a></p></td>
+<td><p>2020-09-16</p></td>
+<td><p><a href="../Page/대구_FC.md" title="wikilink">대구 FC</a></p></td>
+<td><p>142</p></td>
+<td><p>55 - 40</p></td>
+<td></td>
+<td><p><small><a href="../Page/K리그2.md" title="wikilink">K리그2</a> 기록 포함</small></p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1008,6 +1018,16 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>51</p></td>
+<td><p><a href="../Page/박기동_(축구_선수).md" title="wikilink">박기동</a></p></td>
+<td><p>2020-08-22</p></td>
+<td><p><a href="../Page/경남_FC.md" title="wikilink">경남 FC</a></p></td>
+<td><p>222</p></td>
+<td><p>32 - 30</p></td>
+<td></td>
+<td><p><small><a href="../Page/K리그2.md" title="wikilink">K리그2</a> 기록 포함</small></p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1264,7 +1284,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그1_2019" title="wikilink">2019</a></p></td>
 <td><p><a href="../Page/문선민.md" title="wikilink">문선민</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/전북_현대_모터스_FC" title="wikilink">전북 현대 모터스</a></p></td>
+<td><p><a href="../Page/전북_현대_모터스_FC.md" title="wikilink">전북 현대 모터스</a></p></td>
 <td><p>10 - 10 (32경기)</p></td>
 <td><p>10 - 10 (32경기)</p></td>
 <td><p>리그컵 폐지</p></td>

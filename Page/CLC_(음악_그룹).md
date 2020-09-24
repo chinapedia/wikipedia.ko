@@ -26,14 +26,14 @@
 | [SORN](../Page/SORN.md "wikilink")                  |       |       |    |
 | [장예은](../Page/장예은.md "wikilink")                    |       |       |    |
 | [엘키](../Page/엘키.md "wikilink")                      |       |       |    |
-| [권은빈](../Page/권은빈.md "wikilink")                    |       |       |    |
+| [권은빈](../Page/권은빈.md "wikilink")                    |       | \[1\] |    |
 
   - 역대 리더
 
 <!-- end list -->
 
   - 1대 : [오승희](../Page/오승희.md "wikilink") (2015.03 \~ 2016.02)
-  - 2대 : [장승연](https://ko.wikipedia.org/wiki/장승연 "wikilink") (2016.03 \~ 현재)
+  - 2대 : [장승연](https://ko.wikipedia.org/wiki/장승연 "wikilink")
 
 ## 음반
 
@@ -185,6 +185,7 @@
 </ul></td>
 <td><ol>
 <li><strong>HELICOPTER</strong></li>
+<li>HELICOPTER (English Ver.)</li>
 </ol></td>
 </tr>
 </tbody>
@@ -294,7 +295,7 @@
 
   - [2015년](../Page/2015년.md "wikilink") CLC's 러브 케미스트리
   - [2015년](../Page/2015년.md "wikilink") 여왕의 게임
-  - [2015년](../Page/2015년.md "wikilink") CLC의 뷰티풀미션\[1\]
+  - [2015년](../Page/2015년.md "wikilink") CLC의 뷰티풀미션\[2\]
   - [2016년](../Page/2016년.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") CLC이즈
   - [2017년](../Page/2017년.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") PRODUSORN
   - [2017년](../Page/2017년.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") CLC 칯트키
@@ -303,16 +304,16 @@
 
 ### 예능 프로그램
 
-  - [2015년](../Page/2015년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[진짜 사나이](https://ko.wikipedia.org/wiki/진짜_사나이 "wikilink") - 여군특집3》 - 고정출연 ([최유진](https://ko.wikipedia.org/wiki/최유진 "wikilink"))
+  - [2015년](../Page/2015년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 《[진짜 사나이](https://ko.wikipedia.org/wiki/진짜_사나이 "wikilink") - 여군특집3》 - 고정 출연 ([최유진](https://ko.wikipedia.org/wiki/최유진 "wikilink"))
   - [2016년](../Page/2016년.md "wikilink") [1월 22일](../Page/1월_22일.md "wikilink") \~ [4월 1일](../Page/4월_1일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《[PRODUCE 101](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink")》 - 참가자 출연 ([권은빈](../Page/권은빈.md "wikilink"))
-  - [2016년](../Page/2016년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[동상이몽, 괜찮아 괜찮아](../Page/동상이몽,_괜찮아_괜찮아.md "wikilink")》 - 게스트 출연([최유진](https://ko.wikipedia.org/wiki/최유진 "wikilink"))
+  - [2016년](../Page/2016년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[동상이몽, 괜찮아 괜찮아](../Page/동상이몽,_괜찮아_괜찮아.md "wikilink")》 - 게스트 출연 ([최유진](https://ko.wikipedia.org/wiki/최유진 "wikilink"))
   - [2016년](../Page/2016년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") [SBS](../Page/SBS.md "wikilink") 《[동상이몽, 괜찮아 괜찮아](../Page/동상이몽,_괜찮아_괜찮아.md "wikilink")》 - 게스트 출연 ([권은빈](../Page/권은빈.md "wikilink"))
   - [2016년](../Page/2016년.md "wikilink") [7월 19일](../Page/7월_19일.md "wikilink") [JTBC](../Page/JTBC.md "wikilink") 《[걸스피릿](../Page/걸스피릿.md "wikilink")》 - 참가자 출연 ([오승희](../Page/오승희.md "wikilink"))
   - [2017년](../Page/2017년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") \~ [5월 12일](../Page/5월_12일.md "wikilink") [KSTAR](../Page/KSTAR.md "wikilink") 《원샷 OTT》 - 고정 MC ([장예은](../Page/장예은.md "wikilink"))
   - [2018년](../Page/2018년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") [SBS MTV](../Page/SBS_MTV.md "wikilink") 《[더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink")》 - 고정 MC ([장예은](../Page/장예은.md "wikilink"))
-  - [2019년](../Page/2019년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") \~ [6월 28일](../Page/6월_28일.md "wikilink") [온스타일](https://ko.wikipedia.org/wiki/온스타일 "wikilink") 《넥스트 뷰티 크리에이터스》 - 고정출연 ([장승연](https://ko.wikipedia.org/wiki/장승연 "wikilink"))
-  - [2019년](../Page/2019년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") [채널A 플러스](https://ko.wikipedia.org/wiki/채널A_플러스 "wikilink") 《꽉찬Beauty》 - 고정출연 ([장승연](https://ko.wikipedia.org/wiki/장승연 "wikilink"))
-  - [2020년](../Page/2020년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") \~ 현재 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《GOOD GIRL : 누가 방송국을 털었나》 - 고정출연 ([장예은](../Page/장예은.md "wikilink"))
+  - [2019년](../Page/2019년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") \~ [6월 28일](../Page/6월_28일.md "wikilink") [온스타일](https://ko.wikipedia.org/wiki/온스타일 "wikilink") 《넥스트 뷰티 크리에이터스》 - 고정 출연 ([장승연](https://ko.wikipedia.org/wiki/장승연 "wikilink"))
+  - [2019년](../Page/2019년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink") [채널A 플러스](https://ko.wikipedia.org/wiki/채널A_플러스 "wikilink") 《꽉찬Beauty》 - 고정 출연 ([장승연](https://ko.wikipedia.org/wiki/장승연 "wikilink"))
+  - [2020년](../Page/2020년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") \~ [7월 2일](../Page/7월_2일.md "wikilink") [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") 《GOOD GIRL : 누가 방송국을 털었나》 - 고정 출연 ([장예은](../Page/장예은.md "wikilink"))
 
 ### 방송 프로그램
 
@@ -342,7 +343,7 @@
 | [KBS Cool FM](https://ko.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | 《[슈퍼주니어의 KISS THE RADIO](https://ko.wikipedia.org/wiki/슈퍼주니어의_KISS_THE_RADIO "wikilink")》 | [CLC](https://ko.wikipedia.org/wiki/CLC "wikilink") | 2015.3.27      |    |
 | [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")                          | 《[정준영의 심심타파](https://ko.wikipedia.org/wiki/정준영의_심심타파 "wikilink")》                         | [CLC](https://ko.wikipedia.org/wiki/CLC "wikilink") | 2015.4.2       |    |
 | [KBS Cool FM](https://ko.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | 《[슈퍼주니어의 KISS THE RADIO](https://ko.wikipedia.org/wiki/슈퍼주니어의_KISS_THE_RADIO "wikilink")》 | [장승연](https://ko.wikipedia.org/wiki/장승연 "wikilink") | 2015.4.6 \~ 현재 |    |
-| [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")                          | 《[싱글벙글쇼](https://ko.wikipedia.org/wiki/싱글벙글쇼 "wikilink")》                                 | [CLC](https://ko.wikipedia.org/wiki/CLC "wikilink") | 2015.4.24      |    |
+| [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")                          | 《[싱글벙글쇼](../Page/싱글벙글쇼.md "wikilink")》                                                    | [CLC](https://ko.wikipedia.org/wiki/CLC "wikilink") | 2015.4.24      |    |
 | [KBS Cool FM](https://ko.wikipedia.org/wiki/KBS_Cool_FM "wikilink") | 《[슈퍼주니어의 KISS THE RADIO](https://ko.wikipedia.org/wiki/슈퍼주니어의_KISS_THE_RADIO "wikilink")》 | [오승희](../Page/오승희.md "wikilink")                    | 2015.4.26      |    |
 | 국군방송(R)                                                             | 《라디오 0967 오지헌입니다》                                                                         | [CLC](https://ko.wikipedia.org/wiki/CLC "wikilink") | 2015.5.1       |    |
 |                                                                     |                                                                                           |                                                     |                |    |
@@ -429,4 +430,5 @@
   -
 [분류:CLC](https://ko.wikipedia.org/wiki/분류:CLC "wikilink") [분류:대한민국의 걸 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_걸_그룹 "wikilink") [분류:7인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:7인조_음악_그룹 "wikilink") [분류:2015년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2015년_결성된_음악_그룹 "wikilink") [분류:큐브 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:큐브_엔터테인먼트_소속 "wikilink") [분류:한국어 음악 그룹](https://ko.wikipedia.org/wiki/분류:한국어_음악_그룹 "wikilink") [분류:2010년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:2010년대_음악_그룹 "wikilink") [분류:다국적 음악 그룹](https://ko.wikipedia.org/wiki/분류:다국적_음악_그룹 "wikilink") [분류:대한민국의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_아이돌_그룹 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink") [분류:대한민국의 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_음악_그룹 "wikilink") [분류:대한민국의 댄스 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_댄스_음악_그룹 "wikilink") [분류:SBS MTV 더 쇼 초이스 수상자](https://ko.wikipedia.org/wiki/분류:SBS_MTV_더_쇼_초이스_수상자 "wikilink")
 
-1.
+1.  [PRODUCE 101](https://ko.wikipedia.org/wiki/PRODUCE_101 "wikilink") 출연으로 활동 불참.
+2.

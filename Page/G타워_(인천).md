@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [G타워 \(인천\)](https://ko.wikipedia.org/wiki/G타워_\(인천\)).
 
 
-**G타워**()는 [대한민국](../Page/대한민국.md "wikilink") [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](../Page/연수구.md "wikilink") [송도국제도시](../Page/송도국제도시.md "wikilink")의 센트럴파크 내부에 자리 잡고 있는 타워로 [2013년](../Page/2013년.md "wikilink") 완공되었으며, 송도가 아시아 최초로 유치한 UN 국제기구 본사 중 대표적으로 GCF(녹색기후기금)가 입주해 있다. 또 GCF의 형제격인 GGGI 등 여러 환경 보호 관련 국제기구 사무국들도 함께 입주해 있다.
+**G타워**()는 [대한민국](../Page/대한민국.md "wikilink") [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [연수구](../Page/연수구.md "wikilink") [송도국제도시](../Page/송도국제도시.md "wikilink")의 센트럴파크 내부에 자리 잡고 있는 타워로 [2013년](../Page/2013년.md "wikilink") 완공되었으며, 송도가 아시아 최초로 유치한 UN 국제기구 본사 중 대표적으로 GCF(녹색기후기금)가 입주해 있다. 또 GCF의 형제격인 GGGI 등 여러 환경 보호 관련 국제기구 사무국들도 함께 입주해 있다.2013
 
 ## 역사
 

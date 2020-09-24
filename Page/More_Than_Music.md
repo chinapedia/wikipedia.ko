@@ -62,7 +62,7 @@
 </tr>
 <tr class="odd">
 <td><p>7.</p></td>
-<td><p>연금술사 (Feat: <a href="https://ko.wikipedia.org/wiki/Kebee" title="wikilink">Kebee</a>, <a href="https://ko.wikipedia.org/wiki/팔로알토_(래퍼)" title="wikilink">Paloalto</a>)</p></td>
+<td><p>연금술사 (Feat: <a href="https://ko.wikipedia.org/wiki/Kebee" title="wikilink">Kebee</a>, <a href="../Page/팔로알토_(래퍼).md" title="wikilink">Paloalto</a>)</p></td>
 <td><p>페니 (Pe2ny)</p></td>
 <td><p>페니 (Pe2ny)</p></td>
 <td><p>4:51</p></td>

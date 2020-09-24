@@ -5,7 +5,7 @@
 
 포켓몬 GO는 2016년 7월 6일에 [미합중국](https://ko.wikipedia.org/wiki/미합중국 "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink")에서 출시되어 [소셜 미디어를](../Page/소셜_미디어.md "wikilink") 통해 큰 화제가 되었으며,\[1\]\[2\] [대한민국](../Page/대한민국.md "wikilink")에는 2017년 1월 24일, [구글 플레이 스토어와](../Page/구글_플레이.md "wikilink") [앱 스토어를](../Page/앱_스토어_\(iOS\).md "wikilink") 통해 출시되었다. \[3\]\[4\]\[5\]
 
-이용자의 현실 공간 위치에 따라 모바일 기기 상에 출현하는 가상의 [포켓몬을](https://ko.wikipedia.org/wiki/포켓몬스터_\(가공의_생물\) "wikilink") 포획하고 강화시켜, 대전을 하고 교환도 할 수 있는 것이 이 게임의 특징이다.\[6\] 현재 5세대까지 구현되었다. 또한 7, 8세대 일부 포켓몬(기본 포켓몬의 가라르 리전폼)까지 출시되었다. 포켓몬 GO는 2016년 구글 올해의 검색어에서 전 세계 기준 1위를 차지하였다.\[7\]
+이용자의 현실 공간 위치에 따라 모바일 기기 상에 출현하는 가상의 [포켓몬을](https://ko.wikipedia.org/wiki/포켓몬스터_\(가공의_생물\) "wikilink") 포획하고 강화시켜, 대전을 하고 교환도 할 수 있는 것이 이 게임의 특징이다.\[6\] 현재 5세대까지 구현되었다. 또한 7, 8세대 일부 포켓몬까지 출시되었다. 포켓몬 GO는 2016년 구글 올해의 검색어에서 전 세계 기준 1위를 차지하였다.\[7\]
 
 ## 출시
 
@@ -86,7 +86,7 @@
   -
   -
   -
-[분류:2016년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2016년_비디오_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:증강현실](https://ko.wikipedia.org/wiki/분류:증강현실 "wikilink") [분류:실외 게임](https://ko.wikipedia.org/wiki/분류:실외_게임 "wikilink") [분류:포켓몬스터 게임](https://ko.wikipedia.org/wiki/분류:포켓몬스터_게임 "wikilink") [분류:미국의 비디오 게임](https://ko.wikipedia.org/wiki/분류:미국의_비디오_게임 "wikilink") [분류:유니티 게임](https://ko.wikipedia.org/wiki/분류:유니티_게임 "wikilink") [분류:포획 게임](https://ko.wikipedia.org/wiki/분류:포획_게임 "wikilink")
+[분류:2016년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2016년_비디오_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:안드로이드 게임](https://ko.wikipedia.org/wiki/분류:안드로이드_게임 "wikilink") [분류:실외 게임](https://ko.wikipedia.org/wiki/분류:실외_게임 "wikilink") [분류:포켓몬스터 게임](https://ko.wikipedia.org/wiki/분류:포켓몬스터_게임 "wikilink") [분류:미국의 비디오 게임](https://ko.wikipedia.org/wiki/분류:미국의_비디오_게임 "wikilink") [분류:유니티 게임](https://ko.wikipedia.org/wiki/분류:유니티_게임 "wikilink") [분류:증강현실 소프트웨어](https://ko.wikipedia.org/wiki/분류:증강현실_소프트웨어 "wikilink") [분류:위치 기반 게임](https://ko.wikipedia.org/wiki/분류:위치_기반_게임 "wikilink")
 
 1.
 2.

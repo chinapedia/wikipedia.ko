@@ -19,6 +19,10 @@
   - 동년 [6월 18일](../Page/6월_18일.md "wikilink"), [HARD OFF ECO 스타디움 니이가타에서](https://ko.wikipedia.org/wiki/HARD_OFF_ECO_스타디움_니이가타 "wikilink") 개최된 〈AKB48 45th 싱글 선발 총선거 \~우리는 누구에 대해서 가면 좋을까?\~〉 개표 전의 〈AKB48 그룹 콘서트〉에서 [아리오라 재팬](https://ko.wikipedia.org/wiki/아리오라_재팬 "wikilink")([소니 뮤직 엔터테인먼트 재팬](https://ko.wikipedia.org/wiki/소니_뮤직_엔터테인먼트_재팬 "wikilink") 레이블)로부터 메이저 데뷔를 발표했다([2017년](../Page/2017년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") 발매).
   - [2019년](../Page/2019년.md "wikilink") [4월 11일](../Page/4월_11일.md "wikilink"), AKS 측은 그룹 내부 팀을 해체하고, 1기생과 연구생으로 재편하기로 결정했다.
 
+<!-- end list -->
+
+  - 총캡틴:**카도 유리아**
+
 ### NGT48 극장
 
   - 니이가타 시에 2015년 가을의 개업을 예정하고 있었지만, 극장 공사 지연으로 2016년 1월에 개업하는 것으로 연기되었으며, 동년 1월 10일에 오픈되었다.

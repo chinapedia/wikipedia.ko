@@ -297,7 +297,8 @@
   - 2020년 8월 1일 싹쓰리 - **두리쥬와 X LINDA X 신난다**\[57\]
   - 2020년 8월 6일 체리블렛 - **\[Digital Single\] 알로하오에 (Aloha Oe)**
   - 2020년 8월 싹쓰리 - **싹쓰리 SPECIAL ALBUM**
-  - 2020년 10월 ?일 [피원하모니](https://ko.wikipedia.org/wiki/피원하모니 "wikilink") - **미정**
+  - 2020년 9월 4일 휘영,인성 - **독고빈은 업뎃중 OST Part.1**
+  - 2020년 10월 26일 [피원하모니](https://ko.wikipedia.org/wiki/피원하모니 "wikilink") - **미정**
 
 ## 각주
 

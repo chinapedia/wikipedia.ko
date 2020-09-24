@@ -9,7 +9,7 @@
 
 길버트 베이커는 [주디 갈런드가](../Page/주디_갈런드.md "wikilink") 부른 노래 《Over the Rainbow》에서 영감을 얻었다고 한다. 다른 설에서는 [1960년대](../Page/1960년대.md "wikilink") 미국의 대학교 캠퍼스에서 일어난 평화 운동에서 사용된 "인종들의 기"(Flag of the Races)에 기원이 있다고 한다. 이 깃발은 5가지 색(위쪽부터 빨강, 검정, [갈색](../Page/갈색.md "wikilink"), 노랑, 하양)으로 구성되어 있다. 베이커는 [히피](../Page/히피.md "wikilink") 운동의 영향을 받은 "인종들의 기"가 무지개기로 이어지게 되었다고 설명했다.
 
-30명에 달하는 자원 봉사자가 손으로 염색, 봉제했고 퍼레이드에서 사용될 2개의 무지개기가 완성되었다. 길버트 베이커는 8가지 색(위쪽부터 [분홍](../Page/분홍.md "wikilink"), [빨강](../Page/빨강.md "wikilink"), [주황](../Page/주황.md "wikilink"), [노랑](../Page/노랑.md "wikilink"), [초록](../Page/초록.md "wikilink"), [청록](https://ko.wikipedia.org/wiki/청록 "wikilink"), [남색](https://ko.wikipedia.org/wiki/남색 "wikilink"), [보라](../Page/보라.md "wikilink"))의 의미를 다음과 같이 정의했다.
+30명에 달하는 자원 봉사자가 손으로 염색, 봉제했고 퍼레이드에서 사용될 2개의 무지개기가 완성되었다. 길버트 베이커는 8가지 색(위쪽부터 [분홍](../Page/분홍.md "wikilink"), [빨강](../Page/빨강.md "wikilink"), [주황](../Page/주황.md "wikilink"), [노랑](../Page/노랑.md "wikilink"), [초록](../Page/초록.md "wikilink"), [청록](https://ko.wikipedia.org/wiki/청록 "wikilink"), [남색](../Page/남색.md "wikilink"), [보라](../Page/보라.md "wikilink"))의 의미를 다음과 같이 정의했다.
 
 |                                |
 | ------------------------------ |

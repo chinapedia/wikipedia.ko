@@ -1,16 +1,17 @@
 > This article is converted from Wikipedia: [KBS미디어센터](https://ko.wikipedia.org/wiki/KBS미디어센터).
 
 
-**KBS미디어센터**()는 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [상암동](https://ko.wikipedia.org/wiki/상암동 "wikilink")에 위치한 KBS미물로 7년에 준공되었다. 지하 5층, 지상 21층으로 구성된다.
+**KBS미디어센터**()는 [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [상암동](https://ko.wikipedia.org/wiki/상암동 "wikilink")에 위치한 KBS 소유의 건물로 7년에 준공되었다. 지하 5층, 지상 21층으로 구성된다.
 
 ## 내부 시설
 
 | 층수             | 용도                                                                            |
 | -------------- | ----------------------------------------------------------------------------- |
 | 21층            |                                                                               |
-| 20층            | 몬스터 유니온                                                                       |
+| 20층            | 몬스터 유니온, 이야기사냥꾼                                                               |
 | 17층 \~ 19층     | DAELIM I\&S                                                                   |
-| 13층 \~ 16층     | KMI 한국해양수산개발원                                                                 |
+| 14층 \~ 16층     | KMI 한국해양수산개발원                                                                 |
+| 13층            | KMI 한국해양수산개발원, 세이온미디어                                                         |
 | 12층            | Avnet Korea                                                                   |
 | 11층            | (주)프리필름커뮤니케이션스 / [셀트리온 엔터테인먼트](../Page/셀트리온_엔터테인먼트.md "wikilink") (드라마/광고 부문) |
 | 10층            | 주연테크 AXN코리아                                                                   |

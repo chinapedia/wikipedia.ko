@@ -13,7 +13,7 @@
 
 ### 근황
 
-현재 해체 이후 [나얼](../Page/나얼.md "wikilink")은 [윤건](../Page/윤건.md "wikilink")과 함께 [브라운 아이즈](../Page/브라운_아이즈.md "wikilink") 활동을 겸하다가, 지금까지는 [정엽](../Page/정엽_\(가수\).md "wikilink"), [영준](https://ko.wikipedia.org/wiki/영준_\(1978년\) "wikilink"), [성훈과](https://ko.wikipedia.org/wiki/성훈_\(가수\) "wikilink") 함께 [브라운 아이드 소울](../Page/브라운_아이드_소울.md "wikilink") 활동을 병행중이며 김진석은 발라드 그룹 포레스트로 활동했으며\[2\] 김건은 영화배우로 활동했다. 성민은 현재 K리그 [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 구단직원으로 재직중이다.
+현재 [나얼](../Page/나얼.md "wikilink")은 [윤건](../Page/윤건.md "wikilink")과 함께 [브라운 아이즈](../Page/브라운_아이즈.md "wikilink") 활동을 겸하다가, 지금까지는 [정엽](../Page/정엽_\(가수\).md "wikilink"), [영준](https://ko.wikipedia.org/wiki/영준_\(1978년\) "wikilink"), [성훈과](https://ko.wikipedia.org/wiki/성훈_\(가수\) "wikilink") 함께 [브라운 아이드 소울](../Page/브라운_아이드_소울.md "wikilink") 활동을 병행중이며 김진석은 발라드 그룹 포레스트로 활동했으며\[2\] 김건은 영화배우로 활동했다. 성민은 현재 K리그 [FC 서울의](https://ko.wikipedia.org/wiki/FC_서울 "wikilink") 구단직원으로 재직중이다.
 
 ## 각주
 

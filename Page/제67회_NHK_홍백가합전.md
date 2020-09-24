@@ -24,7 +24,7 @@
   - [타카하타 미츠키](../Page/타카하타_미츠키.md "wikilink") : [연속 TV 소설](../Page/연속_TV_소설.md "wikilink") 『[아빠 언니](../Page/아빠_언니.md "wikilink")』의 여주인공 코하시 츠네코 역.
   - 토코로 조지 : 탤런트로, NHK 종합 텔레비전의 교양 프로그램 『所さん\!大変ですよ』에 출연.
   - 츠지 사에 : [2016년 하계 올림픽 육상](../Page/2016년_하계_올림픽_육상.md "wikilink") 여자 400m 동메달리스트.
-  - [하기노 고스케](../Page/하기노_고스케.md "wikilink") : [2016년 하계 올림픽 수영](../Page/2016년_하계_올림픽_수영.md "wikilink") 남자 400m [혼영](https://ko.wikipedia.org/wiki/혼영 "wikilink")에서 일본인 최초 금메달 획득.
+  - [하기노 고스케](../Page/하기노_고스케.md "wikilink") : [2016년 하계 올림픽 수영](../Page/2016년_하계_올림픽_수영.md "wikilink") 남자 400m [혼영](../Page/혼영.md "wikilink")에서 일본인 최초 금메달 획득.
   - 무라타 사야카 : 소설 『[편의점 인간](../Page/편의점_인간.md "wikilink")』으로 제 155회 [아쿠타가와 류노스케 상을](https://ko.wikipedia.org/wiki/아쿠타가와_류노스케_상 "wikilink") 수상.
 
 ## 결과

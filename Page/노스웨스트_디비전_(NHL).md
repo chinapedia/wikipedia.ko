@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [노스웨스트 디비전 \(NHL\)](https://ko.wikipedia.org/wiki/노스웨스트_디비전_\(NHL\)).
 
 
-**노스웨스트 디비전** (Northwest Division)은 1998년부터 2013년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.
+**노스웨스트 디비전**(Northwest Division)은 1998년부터 2013년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.
 
 ## 역대 노스웨스트 디비전 라인업
 
@@ -15,12 +15,12 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1998년~2000년</p></td>
+<td><p>1998년 ~ 2000년</p></td>
 <td><p><a href="../Page/캘거리_플레임스.md" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/콜로라도_애벌랜치" title="wikilink">콜로라도 애벌랜치</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="../Page/밴쿠버_캐넉스.md" title="wikilink">밴쿠버 캐넉스</a></p></td>
 <td><p>4팀</p></td>
 </tr>
 <tr class="even">
-<td><p>2000년~2013년</p></td>
+<td><p>2000년 ~ 2013년</p></td>
 <td><p><a href="../Page/캘거리_플레임스.md" title="wikilink">캘거리 플레임스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/콜로라도_애벌랜치" title="wikilink">콜로라도 애벌랜치</a> {{·}}  <a href="../Page/에드먼턴_오일러스.md" title="wikilink">에드먼턴 오일러스</a> {{·}}  <a href="../Page/미네소타_와일드.md" title="wikilink">미네소타 와일드</a> {{·}}  <a href="../Page/밴쿠버_캐넉스.md" title="wikilink">밴쿠버 캐넉스</a></p></td>
 <td><p>5팀</p></td>
 </tr>

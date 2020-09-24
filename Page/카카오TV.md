@@ -17,14 +17,16 @@
 
 ### 오리지널 디지털 예능 목록
 
-| 공개일                                                                   | 제목                                                                  | 관련 내용      | 비고 |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- | -- |
-| 2020년 9월 1일                                                           | 《[찐경규](https://ko.wikipedia.org/wiki/찐경규 "wikilink")》               | 하프 리얼리티 예능 |    |
-| 《[내 꿈은 라이언](https://ko.wikipedia.org/wiki/내_꿈은_라이언 "wikilink")》       | 서바이벌 예능                                                             |            |    |
-| 《[페이스 아이디](https://ko.wikipedia.org/wiki/페이스_아이디 "wikilink")》         | 라이프 리얼리티 예능                                                         |            |    |
-| 《[카카오TV 모닝](https://ko.wikipedia.org/wiki/카카오TV_모닝 "wikilink")》       | 모닝 예능쇼                                                              |            |    |
-| 《[아름다운 남자 시벨롬](https://ko.wikipedia.org/wiki/아름다운_남자_시벨롬 "wikilink")》 | 청춘 시트콤                                                              |            |    |
-| 2020년 9월 14일                                                          | 《[컴백쇼 뮤톡 라이브](https://ko.wikipedia.org/wiki/컴백쇼_뮤톡_라이브 "wikilink")》 | 라이브 뮤직쇼    |    |
+| 공개일                                                             | 제목                                                                    | 관련 내용      | 비고 |
+| --------------------------------------------------------------- | --------------------------------------------------------------------- | ---------- | -- |
+| 2020년 9월 1일                                                     | 《[찐경규](https://ko.wikipedia.org/wiki/찐경규 "wikilink")》                 | 하프 리얼리티 예능 |    |
+| 《[내 꿈은 라이언](https://ko.wikipedia.org/wiki/내_꿈은_라이언 "wikilink")》 | 서바이벌 예능                                                               |            |    |
+| 《[페이스 아이디](https://ko.wikipedia.org/wiki/페이스_아이디 "wikilink")》   | 라이프 리얼리티 예능                                                           |            |    |
+| 《[카카오TV 모닝](https://ko.wikipedia.org/wiki/카카오TV_모닝 "wikilink")》 | 모닝 예능쇼                                                                |            |    |
+| 2020년 9월 11일                                                    | 《[아름다운 남자 시벨롬](https://ko.wikipedia.org/wiki/아름다운_남자_시벨롬 "wikilink")》 | 청춘 시트콤     |    |
+| 2020년 9월 14일                                                    | 《[컴백쇼 뮤톡 라이브](https://ko.wikipedia.org/wiki/컴백쇼_뮤톡_라이브 "wikilink")》   | 라이브 뮤직쇼    |    |
+| 2020년 9월 19일                                                    | 《[덕후투어](https://ko.wikipedia.org/wiki/덕후투어 "wikilink")》               |            |    |
+| 2020년 9월 20일                                                    | 《[런웨이](https://ko.wikipedia.org/wiki/런웨이_\(예능\) "wikilink")》          | 자기계발 리얼리티  |    |
 
 ### 오리지널 디지털 드라마 목록
 
@@ -35,8 +37,12 @@
 | 미정                                                                | 《[아름다웠던 우리에게](https://ko.wikipedia.org/wiki/아름다웠던_우리에게 "wikilink")》 |    |
 | 《[며느라기](https://ko.wikipedia.org/wiki/며느라기 "wikilink")》           |                                                                     |    |
 | 《[아직 낫서른](https://ko.wikipedia.org/wiki/아직_낫서른 "wikilink")》       |                                                                     |    |
-| 《[도시남녀 사랑법](https://ko.wikipedia.org/wiki/도시남녀_사랑법 "wikilink")》   |                                                                     |    |
-| 《[오 마이 C반](https://ko.wikipedia.org/wiki/오_마이_C반 "wikilink")》(가제) |                                                                     |    |
+| 《[도시남녀의 사랑법](https://ko.wikipedia.org/wiki/도시남녀의_사랑법 "wikilink")》 |                                                                     |    |
+| 2021년                                                             | 《[오 마이 C반](https://ko.wikipedia.org/wiki/오_마이_C반 "wikilink")》(가제)   |    |
+| 《[남자친구를 조심해](https://ko.wikipedia.org/wiki/남자친구를_조심해 "wikilink")》 |                                                                     |    |
+| 《[아쿠아맨](https://ko.wikipedia.org/wiki/아쿠아맨_\(드라마\) "wikilink")》   |                                                                     |    |
+| 《[재밌니, 짝사랑](https://ko.wikipedia.org/wiki/재밌니,_짝사랑 "wikilink")》   |                                                                     |    |
+| 《[그림자 미녀](https://ko.wikipedia.org/wiki/그림자_미녀 "wikilink")》       |                                                                     |    |
 
 ## 같이 보기
 

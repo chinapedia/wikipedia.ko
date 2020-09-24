@@ -103,7 +103,7 @@
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김소혜" title="wikilink">김소혜</a></p></td>
+<td><p><a href="../Page/김소혜.md" title="wikilink">김소혜</a></p></td>
 <td><p>레드라인 엔터테인먼트</p></td>
 <td><p>16세[9]</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>

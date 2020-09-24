@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Show Me The Money](https://ko.wikipedia.org/wiki/Show_Me_The_Money).
 
 
-《**Show Me The Money**》(쇼미더머니)는 매년 기수별로 [Mnet에서](../Page/엠넷.md "wikilink") 열리는 [힙합](../Page/힙합.md "wikilink") [오디션](https://ko.wikipedia.org/wiki/오디션 "wikilink")이다. 심사위원들은 '프로듀서'라고 하는데, 참가자들을 도와주는 음악 프로듀서 역할과 동시에 실력이 비교적 부족한 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink")들을 탈락시키는 역할을 한다. 최종 우승자에게는 상금과 무료로 개인 음원 발매를 할 수 있으며, 대형 힙합 콘서트 및 특별 공연의 기회가 주어진다.
+《**Show Me The Money**》(쇼미더머니)는 매년 기수별로 [Mnet에서](../Page/엠넷.md "wikilink") 열리는 힙합 오디션이다. 심사위원들은 '프로듀서'라고 하는데, 참가자들을 도와주는 음악 프로듀서 역할과 동시에 실력이 비교적 부족한 래퍼들을 탈락시키는 역할을 한다. 최종 우승자에게는 상금과 무료로 개인 음원 발매를 할 수 있으며, 대형 힙합 콘서트 및 특별 공연의 기회가 주어진다.
 
 ## 시즌 1
 
@@ -75,7 +75,7 @@
 
 ## 시즌 9
 
-《**Show Me The Money 9**》(쇼미더머니 9)은 [대한민국](../Page/대한민국.md "wikilink")의 케이블 방송국 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방송될 힙합 가수 공개 오디션 프로그램이다. 이번 시즌에도 김진표가 MC를 맡았다.
+《**Show Me The Money 9**》(쇼미더머니 9)는 [대한민국](../Page/대한민국.md "wikilink")의 케이블 방송국 [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")에서 방송될 힙합 가수 공개 오디션 프로그램이다. 이번 시즌에도 김진표가 MC를 맡았다.
 
 ## 같이 보기
 

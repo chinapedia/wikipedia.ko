@@ -57,7 +57,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/Venus_and_Mars" title="wikilink">Venus and Mars</a>》</p></td>
+<td><p>《<a href="../Page/Venus_and_Mars.md" title="wikilink">Venus and Mars</a>》</p></td>
 <td><ul>
 <li>〈<a href="https://ko.wikipedia.org/wiki/Zoo_Gang_(노래)" title="wikilink">Zoo Gang</a>〉</li>
 <li>〈Lunch Box/Odd Sox〉</li>
@@ -66,7 +66,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>《<a href="https://ko.wikipedia.org/wiki/Wings_at_the_Speed_of_Sound" title="wikilink">Wings at the Speed of Sound</a>》</p></td>
+<td><p>《<a href="../Page/Wings_at_the_Speed_of_Sound.md" title="wikilink">Wings at the Speed of Sound</a>》</p></td>
 <td><ul>
 <li>〈Walking in the Park with Eloise〉</li>
 <li>〈Bridge Over the River Suite〉</li>

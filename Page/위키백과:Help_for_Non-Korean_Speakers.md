@@ -49,12 +49,14 @@ The following lists users who are able to help you:
 22. [Triple.Rhu](https://ko.wikipedia.org/wiki/사:트리플루 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:트리플루 "wikilink")) **
 23. [Ykhwong](https://ko.wikipedia.org/wiki/사:Ykhwong "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Ykhwong "wikilink"))
 24. [Propheceer](https://ko.wikipedia.org/wiki/사:Propheceer "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Propheceer "wikilink"))
-25. [강남 학생](https://ko.wikipedia.org/wiki/사:강남_학생 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:강남_학생 "wikilink"))
+25. [Maicrow](https://ko.wikipedia.org/wiki/사:Maicrow "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:강남_학생 "wikilink"))
 26. [바게트](https://ko.wikipedia.org/wiki/사:바게트 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사용자토론:바게트/English "wikilink"))
 27. [강주♬](https://ko.wikipedia.org/wiki/사:강주♬ "wikilink") ([사토](https://ko.wikipedia.org/wiki/사토:강주♬ "wikilink"))
 28. [Gomdoli4696](https://ko.wikipedia.org/wiki/사:Gomdoli4696 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Gomdoli4696 "wikilink"))
 29. [Whitetiger0423](https://ko.wikipedia.org/wiki/사:Whitetiger0423 "wikilink") ([Talk](https://ko.wikipedia.org/wiki/사토:Whitetiger0423 "wikilink"))
-30. [파스텔 소녀](https://ko.wikipedia.org/wiki/사:파스텔_소녀 "wikilink") ([talk](https://ko.wikipedia.org/wiki/사토:파스텔_소녀 "wikilink"))
+30. [파스텔 소녀](https://ko.wikipedia.org/wiki/사:파스텔_소녀 "wikilink") ([talk](https://ko.wikipedia.org/wiki/사토:파스텔_소녀 "wikilink")) **
+31. [달빛 라떼](https://ko.wikipedia.org/wiki/사:달빛_라떼 "wikilink") ([talk](https://ko.wikipedia.org/wiki/사토:달빛_라떼 "wikilink"))
+32. [RJSJJVJ](https://ko.wikipedia.org/wiki/사:RJSJJVJ "wikilink") ([talk](https://ko.wikipedia.org/wiki/사토:RJSJJVJ "wikilink"))
 
 ### **Comment Section**
 
@@ -153,5 +155,6 @@ Ang sumusunod na talaan ng mga tagagamit ay maaari kayong matulungan:
 
 1.  [리헌진](https://ko.wikipedia.org/wiki/사:Leeheonjin "wikilink") ([Usapan](https://ko.wikipedia.org/wiki/사토:Leeheonjin "wikilink"))
 2.  [파스텔 소녀](https://ko.wikipedia.org/wiki/사:파스텔_소녀 "wikilink") ([usapan](https://ko.wikipedia.org/wiki/사토:파스텔_소녀 "wikilink"))
+3.  [달빛 라떼](https://ko.wikipedia.org/wiki/사:달빛_라떼 "wikilink") ([usapan](https://ko.wikipedia.org/wiki/사토:달빛_라떼 "wikilink"))
 
 ### **Seksyong pang-komentaryo**

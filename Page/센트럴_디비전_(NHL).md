@@ -126,7 +126,7 @@
 <td><p>2000년~2013년</p></td>
 <td><p><a href="../Page/네이션와이드_아레나.md" title="wikilink">네이션와이드 아레나</a></p></td>
 <td><p>18,500명</p></td>
-<td><p>현 <a href="../Page/메트로폴리탄_디비전_(NHL).md" title="wikilink">메트로폴리탄 디비전소속</a></p></td>
+<td><p>현 <a href="../Page/메트로폴리탄_디비전.md" title="wikilink">메트로폴리탄 디비전</a> 소속</p></td>
 </tr>
 </tbody>
 </table>

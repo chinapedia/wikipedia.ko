@@ -6738,7 +6738,7 @@
 <tr class="odd">
 <td><p>754</p></td>
 <td><p>3월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/동해안" title="wikilink">동해안</a>의 붉은 비상! <a href="https://ko.wikipedia.org/wiki/대게" title="wikilink">대게</a> 대소동 외</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/동해안" title="wikilink">동해안</a>의 붉은 비상! <a href="../Page/대게.md" title="wikilink">대게</a> 대소동 외</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>
 <tr class="even">
@@ -7005,7 +7005,7 @@
 <td><p>12월 11일</p></td>
 <td><p>1. &lt;추적! 미스터리 특공대&gt; 펄펄 끓는 강물이 있다?!<br />
 2. &lt;곳곳이 세계 명소! '<a href="../Page/마카오.md" title="wikilink">마카오</a>'엔 유일한 뭔가가 있다&gt;<br />
-3. <밀착 카메라> <a href="https://ko.wikipedia.org/wiki/덕유산" title="wikilink">덕유산</a> 폭설 내린 날<br />
+3. <밀착 카메라> <a href="../Page/덕유산.md" title="wikilink">덕유산</a> 폭설 내린 날<br />
 4. <트렌드 포착> '달리는 맛집' 음식 트럭이 뜬다!</p></td>
 <td><p><ref> {{뉴스 인용</p></td>
 </tr>

@@ -15,12 +15,12 @@
 
   - 《[고래의 꿈](https://ko.wikipedia.org/wiki/고래의_꿈 "wikilink")》 : 1991년 12월 9일 (개국 특집 드라마)
   - 《[미늘](https://ko.wikipedia.org/wiki/미늘 "wikilink")》 : 1991년 12월 12일 (개국 특집 드라마)
-  - 《[길](https://ko.wikipedia.org/wiki/길_\(SBS_드라마\) "wikilink")》 : 1991년 12월 15일 (2부작 개국 특집 드라마)
+  - 《[길](https://ko.wikipedia.org/wiki/길_\(1991년_드라마\) "wikilink")》 : 1991년 12월 15일 (2부작 개국 특집 드라마)
 
 #### 1992년
 
-  - 《[다시 열리는 세월](https://ko.wikipedia.org/wiki/다시_열리는_세월 "wikilink")》 : 1992년 1월 1일\~1992년 1월 2일 (신년 특집 드라마)
-  - 《[청실홍실](https://ko.wikipedia.org/wiki/청실홍실 "wikilink")》 : 1992년 2월 4일 (2부작 설날 특집 드라마)
+  - 《[다시 열리는 세월](https://ko.wikipedia.org/wiki/다시_열리는_세월 "wikilink")》 : 1992년 1월 1일 \~ 1992년 1월 2일 (신년 특집 드라마)
+  - 《[청실홍실](https://ko.wikipedia.org/wiki/청실홍실_\(1992년_드라마\) "wikilink")》 : 1992년 2월 4일 (2부작 설날 특집 드라마)
   - 《[마록열전](https://ko.wikipedia.org/wiki/마록열전 "wikilink")》 : 1992년 8월 14일 (광복절 특집 드라마)
   - 《[파란 눈의 며느리](https://ko.wikipedia.org/wiki/파란_눈의_며느리 "wikilink")》 : 1992년 9월 10일 (추석 특집 드라마)
   - 《[어디로 가나](https://ko.wikipedia.org/wiki/어디로_가나 "wikilink")》 : 1992년 11월 13일 (3부작 창사 특집 드라마)
@@ -73,9 +73,10 @@
 
   - 《[아주 특별한 여행](https://ko.wikipedia.org/wiki/아주_특별한_여행 "wikilink")》 : 1998년 1월 30일 (2부작 설날 특집드라마)
   - 《[어느날 갑자기](https://ko.wikipedia.org/wiki/어느날_갑자기_\(1998년_드라마\) "wikilink")》 : 1998년 8월 3일 \~ 1998년 8월 4일 (2부작 납량 특집드라마)
-  - 《[휘파람 소리](https://ko.wikipedia.org/wiki/휘파람_소리 "wikilink")》 : 1998년 8월 10일\~ 1998년 8월 11일 (2부작 납량 특집드라마)
+  - 《[휘파람 소리](https://ko.wikipedia.org/wiki/휘파람_소리 "wikilink")》 : 1998년 8월 10일 \~ 1998년 8월 11일 (2부작 납량 특집드라마)
   - 《[성형미인](https://ko.wikipedia.org/wiki/성형미인_\(드라마\) "wikilink")》 : 1998년 8월 17일 \~ 1998년 8월 18일 (2부작 납량 특집드라마)
   - 《[공포의 눈동자](https://ko.wikipedia.org/wiki/공포의_눈동자 "wikilink")》 : 1998년 8월 24일 \~ 1998년 8월 25일 (2부작 납량 특집드라마)
+  - 《[님의 침묵](https://ko.wikipedia.org/wiki/님의_침묵_\(1998년_드라마\) "wikilink")》 : 1998년 10월 1일 (국군의 날 특집드라마)
 
 #### 1999년
 

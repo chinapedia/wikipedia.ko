@@ -5,7 +5,7 @@
 
 ## 차트 성적
 
-이 음반에 수록된 곡 가운데 빌보드 차트 10위 안을 기록한 싱글은 〈[Tell Her About It](https://ko.wikipedia.org/wiki/Tell_Her_About_It "wikilink")〉(1위), 〈[Uptown Girl](https://ko.wikipedia.org/wiki/Uptown_Girl "wikilink")〉(3위), 〈[An Innocent Man](../Page/An_Innocent_Man_\(노래\).md "wikilink")〉(10위) 총 3곡이다. 나머지 〈[The Longest Time](../Page/The_Longest_Time.md "wikilink")〉, 〈[Leave a Tender Moment Alone](https://ko.wikipedia.org/wiki/Leave_a_Tender_Moment_Alone "wikilink")〉, 〈[Keeping the Faith](https://ko.wikipedia.org/wiki/Keeping_the_Faith "wikilink")〉도 각각 빌보드 차트 14위, 27위, 18위를 기록했다.
+이 음반에 수록된 곡 가운데 빌보드 차트 10위 안을 기록한 싱글은 〈[Tell Her About It](https://ko.wikipedia.org/wiki/Tell_Her_About_It "wikilink")〉(1위), 〈[Uptown Girl](../Page/Uptown_Girl.md "wikilink")〉(3위), 〈[An Innocent Man](../Page/An_Innocent_Man_\(노래\).md "wikilink")〉(10위) 총 3곡이다. 나머지 〈[The Longest Time](../Page/The_Longest_Time.md "wikilink")〉, 〈[Leave a Tender Moment Alone](https://ko.wikipedia.org/wiki/Leave_a_Tender_Moment_Alone "wikilink")〉, 〈[Keeping the Faith](https://ko.wikipedia.org/wiki/Keeping_the_Faith "wikilink")〉도 각각 빌보드 차트 14위, 27위, 18위를 기록했다.
 
 ## 수록곡
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [평택 시티즌 FC](https://ko.wikipedia.org/wiki/평택_시티즌_FC).
 
 
-**평택 시티즌 FC**은 [2017년](../Page/2017년.md "wikilink")에 창단한 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [평택시](../Page/평택시.md "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink")의 아마추어 축구단이다. 2017년 [K3리그 베이직에서](../Page/K3리그_베이직.md "wikilink") 3위를 기록한 뒤 승강 플레이오프를 통해 승격에 성공하여 [K3리그 어드밴스에](../Page/K3리그_어드밴스.md "wikilink") 참여하다가, 2020년 현재에는 개편된 [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink")에 참가하고 있다.
+**평택 시티즌 FC**은 [2017년](../Page/2017년.md "wikilink")에 창단한 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [평택시](../Page/평택시.md "wikilink")를 연고로 하는 [대한민국](../Page/대한민국.md "wikilink")의 아마추어 축구단이다. 2017년 [K3리그 베이직에서](../Page/K3리그_베이직.md "wikilink") 3위를 기록한 뒤 승강 플레이오프를 통해 승격에 성공하여 [K3리그 어드밴스에](../Page/K3리그_어드밴스.md "wikilink") 참여하다가, 2020년 현재에는 개편된 [K3리그](../Page/K3리그.md "wikilink")에 참가하고 있다.
 
 ## 개요
 

@@ -165,9 +165,9 @@
 <td><p>N/A</p></td>
 <td><p>2019-06-08</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/밴쿠버_화이트캡스" title="wikilink">밴쿠버 화이트캡스</a></p></td>
-<td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> :<br />
-<a href="https://ko.wikipedia.org/wiki/밴쿠버_화이트캡스" title="wikilink">밴</a> :</p></td>
+<td><p>3:1승</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/대전_시티즌" title="wikilink">대</a> : <a href="../Page/조귀범.md" title="wikilink">조귀범</a>, <a href="../Page/박인혁.md" title="wikilink">박인혁</a> (2)<br />
+<a href="https://ko.wikipedia.org/wiki/밴쿠버_화이트캡스" title="wikilink">밴</a> : 패트릭 멧카프</p></td>
 <td></td>
 <td></td>
 </tr>

@@ -14,41 +14,49 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>프로그램명</p></th>
-<th><p>방송시간</p></th>
+<th><p>타이틀</p></th>
+<th><p>분량</p></th>
 <th><p>편성시간</p></th>
 <th><p>진행</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/KNN_모닝와이드.md" title="wikilink">KNN 모닝와이드</a></p></td>
-<td><p>평일 25분</p></td>
-<td><p>07:35 ~ 08:00</p></td>
+<td><p><a href="../Page/KNN_모닝와이드.md" title="wikilink"><span style="color:white;">KNN 모닝와이드</span></a></p></td>
+<td><p>월요일 25분<br />
+화요일 ~ 금요일 30분</p></td>
+<td><p>월요일 아침 7시 35분 ~ 8시<br />
+화요일 ~ 금요일 아침 7시 35분 ~ 8시 5분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/황범" title="wikilink">황범</a>, 박수진</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/KNN_뉴스와_생활경제" title="wikilink">KNN 뉴스와 생활경제</a></p></td>
-<td><p>평일 20분</p></td>
-<td><p>10:10 ~ 10:30</p></td>
-<td><p>정희정</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/모닝통통통" title="wikilink"><span style="color:white;">모닝통통통</span></a></p></td>
+<td><p>월요일 25분<br />
+화요일 ~ 금요일 30분</p></td>
+<td><p>월요일 아침 8시 ~ 8시 25분<br />
+화요일 ~ 금요일 아침 8시 5분 ~ 8시 35분</p></td>
+<td><p>박수진</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/KNN_뉴스아이.md" title="wikilink">KNN 뉴스아이</a></p></td>
-<td><p>평일 20분<br />
-주말 15분</p></td>
-<td><p>20:35 ~ 20:55</p>
-<ul>
-<li><strong>주말편성조정</strong> : <strong>토~일</strong> (20:30 ~ 20:45)</li>
-</ul></td>
-<td><p>평일 : 김제현, 박민설<br />
-주말 : 현승훈</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/KNN_뉴스와_생활경제" title="wikilink"><span style="color:white;">KNN 뉴스와 생활경제</span></a></p></td>
+<td><p>평일 20분</p></td>
+<td><p>평일 오전 10시 10분 ~ 10시 30분</p></td>
+<td><p>정희정</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/KNN_뉴스아이.md" title="wikilink"><span style="color:white;">KNN 뉴스아이</span></a></p></td>
+<td><p>평일 30분<br />
+주말 25분</p></td>
+<td><p>평일 저녁 8시 30분 ~ 밤 9시<br />
+주말 저녁 8시 20분 ~ 8시 45분</p></td>
+<td><p>평일 : 김제현, 김다롬<br />
+주말 : 무작위</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/KNN_뉴스특보" title="wikilink"><span style="color:white;">KNN 뉴스특보</span></a></p></td>
+<td><p>특집편성</p></td>
+<td><p>특집뉴스편성</p></td>
+<td><p>무작위</p></td>
 </tr>
 </tbody>
 </table>

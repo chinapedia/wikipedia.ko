@@ -17,7 +17,7 @@ LG 젠틀은 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wik
 
 ## 색상
 
-  - [네이비](https://ko.wikipedia.org/wiki/남색 "wikilink")
+  - [네이비](../Page/남색.md "wikilink")
   - [버건디](../Page/빨강.md "wikilink")
 
 ## 같이 보기

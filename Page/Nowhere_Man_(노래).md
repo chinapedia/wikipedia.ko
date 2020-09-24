@@ -50,7 +50,7 @@
   - 1966년, [마마스 앤 파파스](../Page/마마스_앤_파파스.md "wikilink")
   - 1966년, 세틀러스
   - 1976년, [제프 린](../Page/제프_린.md "wikilink")
-  - 1978년, [비지스](https://ko.wikipedia.org/wiki/비지스 "wikilink") & 피터 프램튼
+  - 1978년, [비지스](../Page/비지스.md "wikilink") & 피터 프램튼
   - 1978년, 셔벗
   - 1981년, 스타스 온 45
   - 1986년, [리플레이스먼츠](https://ko.wikipedia.org/wiki/리플레이스먼츠 "wikilink")

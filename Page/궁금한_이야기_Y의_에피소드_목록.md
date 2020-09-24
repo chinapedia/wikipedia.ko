@@ -408,7 +408,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/무당" title="wikilink">무당</a>이 된 <a href="https://ko.wikipedia.org/wiki/꽃미남" title="wikilink">꽃미남</a> <a href="../Page/배우.md" title="wikilink">배우</a>, <a href="https://ko.wikipedia.org/wiki/부모님" title="wikilink">부모님</a>께 어떻게 고백하나</p></td>
+<td><p><a href="../Page/무당.md" title="wikilink">무당</a>이 된 <a href="https://ko.wikipedia.org/wiki/꽃미남" title="wikilink">꽃미남</a> <a href="../Page/배우.md" title="wikilink">배우</a>, <a href="https://ko.wikipedia.org/wiki/부모님" title="wikilink">부모님</a>께 어떻게 고백하나</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -70,6 +70,12 @@
 <strong><a href="https://ko.wikipedia.org/wiki/코스타리카_풋살_국가대표팀" title="wikilink">코스타리카</a></strong></p></td>
 <td><p><strong>4 – 0</strong></p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_CONCACAF_풋살_선수권_대회" title="wikilink">2020년</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

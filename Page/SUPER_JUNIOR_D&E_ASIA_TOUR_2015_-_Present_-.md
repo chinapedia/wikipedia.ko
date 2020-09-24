@@ -61,7 +61,7 @@
 ## 제작
 
   - [슈퍼주니어-D\&E](../Page/슈퍼주니어-D&E.md "wikilink") ([은혁](../Page/은혁.md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink"))
-  - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
+  - 주최 : [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink")
   - 주관 : 드림메이커
   - 총감독 : 오오쿠보 마사오
 

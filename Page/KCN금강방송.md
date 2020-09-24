@@ -101,7 +101,7 @@
   - 52-1번 [올'리브](https://ko.wikipedia.org/wiki/올'리브 "wikilink")
   - 52-2번 [SmileTV Plus](../Page/SmileTV_Plus.md "wikilink") HD
   - 53-1번 [K Star](https://ko.wikipedia.org/wiki/K_Star "wikilink")
-  - 54-1번 [JTBC4](https://ko.wikipedia.org/wiki/JTBC4 "wikilink")
+  - 54-1번 [JTBC4](../Page/JTBC4.md "wikilink")
   - 55-1번 [CTS 기독교TV](../Page/CTS기독교TV.md "wikilink")
   - 56-1번 [BTN불교TV](https://ko.wikipedia.org/wiki/불교TV "wikilink")
   - 57-1번 [평화방송](https://ko.wikipedia.org/wiki/평화방송 "wikilink")
@@ -212,7 +212,7 @@
   - 55번 - [투니버스](../Page/투니버스.md "wikilink") HD
   - 56번 - [니켈로디언](https://ko.wikipedia.org/wiki/니켈로디언 "wikilink")
   - 88번 - [올리브 네트워크](https://ko.wikipedia.org/wiki/올리브_네트워크 "wikilink") HD
-  - 90번 - [JTBC4](https://ko.wikipedia.org/wiki/JTBC4 "wikilink") HD
+  - 90번 - [JTBC4](../Page/JTBC4.md "wikilink") HD
   - 91번 - [온스타일](https://ko.wikipedia.org/wiki/온스타일 "wikilink") HD
   - 92번 - [KBS W](../Page/KBS_W.md "wikilink") HD
   - 93번 - [GTV](https://ko.wikipedia.org/wiki/GTV "wikilink") HD

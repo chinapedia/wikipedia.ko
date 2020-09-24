@@ -22,4 +22,4 @@
 
   -
 
-[분류:1992년 태어남](https://ko.wikipedia.org/wiki/분류:1992년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:잉글랜드의 여자 가수](https://ko.wikipedia.org/wiki/분류:잉글랜드의_여자_가수 "wikilink") [분류:잉글랜드의 팝 가수](https://ko.wikipedia.org/wiki/분류:잉글랜드의_팝_가수 "wikilink") [분류:잉글랜드의 여자 싱어송라이터](https://ko.wikipedia.org/wiki/분류:잉글랜드의_여자_싱어송라이터 "wikilink") [분류:스코틀랜드계 잉글랜드인](https://ko.wikipedia.org/wiki/분류:스코틀랜드계_잉글랜드인 "wikilink") [분류:인도계 잉글랜드인](https://ko.wikipedia.org/wiki/분류:인도계_잉글랜드인 "wikilink")
+[분류:1992년 태어남](https://ko.wikipedia.org/wiki/분류:1992년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:잉글랜드의 여자 가수](https://ko.wikipedia.org/wiki/분류:잉글랜드의_여자_가수 "wikilink") [분류:잉글랜드의 팝 가수](https://ko.wikipedia.org/wiki/분류:잉글랜드의_팝_가수 "wikilink") [분류:잉글랜드의 여자 싱어송라이터](https://ko.wikipedia.org/wiki/분류:잉글랜드의_여자_싱어송라이터 "wikilink") [분류:스코틀랜드계 잉글랜드인](https://ko.wikipedia.org/wiki/분류:스코틀랜드계_잉글랜드인 "wikilink") [분류:인도계 잉글랜드인](https://ko.wikipedia.org/wiki/분류:인도계_잉글랜드인 "wikilink") [분류:일렉트로팝 음악가](https://ko.wikipedia.org/wiki/분류:일렉트로팝_음악가 "wikilink")

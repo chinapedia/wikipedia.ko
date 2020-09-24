@@ -45,6 +45,5 @@
 
   - [메탈 베이블레이드 홈페이지](http://www.topblade.co.kr)
   - [TV 도쿄 메탈파이트 베이블레이드 ZEROG 홈페이지](http://www.tv-tokyo.co.jp/anime/mf-beyblade-zero/)
-  - [JEI 재능TV 메탈 베이블레이드 ZEROG 프로그램 소개](http://www.jeitv.com/skin/program/program.all.php?skin=detail&pp_idx=533&cate=000&flag=0&cid=98)
 
 [분류:탑블레이드](https://ko.wikipedia.org/wiki/분류:탑블레이드 "wikilink") [분류:일본의 텔레비전 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_애니메이션 "wikilink") [분류:2012년 애니메이션](https://ko.wikipedia.org/wiki/분류:2012년_애니메이션 "wikilink") [분류:TV 도쿄 계열 애니메이션](https://ko.wikipedia.org/wiki/분류:TV_도쿄_계열_애니메이션 "wikilink") [분류:일본의 애니메이션 영화](https://ko.wikipedia.org/wiki/분류:일본의_애니메이션_영화 "wikilink") [분류:SF 애니메이션](https://ko.wikipedia.org/wiki/분류:SF_애니메이션 "wikilink") [분류:코미디 만화](https://ko.wikipedia.org/wiki/분류:코미디_만화 "wikilink") [분류:사신을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:사신을_소재로_한_작품 "wikilink")

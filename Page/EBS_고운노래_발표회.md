@@ -1244,7 +1244,7 @@
 <td style="text-align: left;"><ul>
 <li>일시 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/9월_20일.md" title="wikilink">9월 20일</a> (수) 오후 7시</li>
 <li>장소 : 서울 양재동 교육문화회관</li>
-<li>진행 : <a href="../Page/문용현.md" title="wikilink">문용현</a>, <a href="https://ko.wikipedia.org/wiki/길수현" title="wikilink">길수현</a></li>
+<li>진행 : <a href="../Page/문용현.md" title="wikilink">문용현</a>, <a href="../Page/길수현.md" title="wikilink">길수현</a></li>
 <li>방송 : <a href="../Page/2006년.md" title="wikilink">2006년</a> <a href="../Page/10월_6일.md" title="wikilink">10월 6일</a> (금) 오후 5시 40분 (라디오, <a href="../Page/10월_8일.md" title="wikilink">10월 8일</a> (일) 오후 6시)</li>
 </ul>
 <p><strong>참가팀 :</strong> 1, 2차 예선을 거쳐 본선에 12팀이 오름.<br />

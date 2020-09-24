@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [L-SAM](https://ko.wikipedia.org/wiki/L-SAM).
 
 
-**L-SAM**은 [대한민국](../Page/대한민국.md "wikilink")이 개발중인 장거리 지대공 미사일 시스템이다. 러시아 [S-400](../Page/S-400.md "wikilink") 기술을 바탕으로 개발한 중거리 지대공 미사일인 M-SAM [천궁 (유도탄)의](../Page/천궁_\(유도탄\).md "wikilink") 레이다 탐지거리와 미사일 사거리를 늘리는 사업이다.
+**L-SAM**은 [대한민국](../Page/대한민국.md "wikilink")이 개발중인 장거리 지대공 미사일 시스템이다.
 
 ## 역사
 

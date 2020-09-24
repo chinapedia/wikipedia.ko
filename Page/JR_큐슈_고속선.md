@@ -28,4 +28,4 @@
 
   - [JR 큐슈 고속선 비틀 웹사이트](https://web.archive.org/web/20120326090141/http://www.jrbeetle.co.kr/)
 
-[분류:후쿠오카현의 기업](https://ko.wikipedia.org/wiki/분류:후쿠오카현의_기업 "wikilink") [분류:일본의 해운회사](https://ko.wikipedia.org/wiki/분류:일본의_해운회사 "wikilink") [분류:2005년 설립](https://ko.wikipedia.org/wiki/분류:2005년_설립 "wikilink")
+[분류:후쿠오카시의 기업](https://ko.wikipedia.org/wiki/분류:후쿠오카시의_기업 "wikilink") [분류:일본의 해운회사](https://ko.wikipedia.org/wiki/분류:일본의_해운회사 "wikilink") [분류:2005년 설립](https://ko.wikipedia.org/wiki/분류:2005년_설립 "wikilink")

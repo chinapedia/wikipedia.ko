@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Sugar \(마룬 5의 노래\)](https://ko.wikipedia.org/wiki/Sugar_\(마룬_5의_노래\)).
 
 
-"**Sugar**"(슈가)는 [마룬 5(Maroon 5)의](../Page/마룬_5.md "wikilink") 노래이다. *[V](https://ko.wikipedia.org/wiki/V "wikilink")* (2014)의 세 번째 싱글이다. 2015년 1월 13일 발매되었다. 미국 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 8위로 데뷔하여, 최고 순위 2위를 기록하였다. 대한민국의 [가온 차트에서는](../Page/가온_차트.md "wikilink") 1위를 기록하였다.
+"**Sugar**"(슈가)는 [마룬 5(Maroon 5)의](../Page/마룬_5.md "wikilink") 노래이다. *[V](../Page/V.md "wikilink")* (2014)의 세 번째 싱글이다. 2015년 1월 13일 발매되었다. 미국 [빌보드 핫 100](../Page/빌보드_핫_100.md "wikilink") 차트에서 8위로 데뷔하여, 최고 순위 2위를 기록하였다. 대한민국의 [가온 차트에서는](../Page/가온_차트.md "wikilink") 1위를 기록하였다.
 
 [오웬 윌슨](https://ko.wikipedia.org/wiki/오웬_윌슨 "wikilink") 주연의 코미디 영화 《[웨딩 크래셔](../Page/웨딩_크래셔.md "wikilink")》에서 영감을 받은 뮤직 비디오가 큰 인기를 끌었다.
 

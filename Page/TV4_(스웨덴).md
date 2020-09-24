@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV4 \(스웨덴\)](https://ko.wikipedia.org/wiki/TV4_\(스웨덴\)).
 
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:TV4sweden_logo.svg "wikilink") **TV4**는 [스웨덴](../Page/스웨덴.md "wikilink")의 [민영 방송](../Page/민영_방송.md "wikilink") 채널이다. 이 채널이 속한 TV4-Gruppen 방송국은 [스웨덴](../Page/스웨덴.md "wikilink")에 본사를 둔 [보니어 그룹](https://ko.wikipedia.org/wiki/보니어_그룹 "wikilink") 계열에 속해있다.
+[오른쪽](https://ko.wikipedia.org/wiki/파일:TV4sweden_logo.svg "wikilink") **TV4**는 [스웨덴](../Page/스웨덴.md "wikilink")의 [민영 방송](../Page/민영_방송.md "wikilink") 채널이다. 이 채널이 속한 TV4-Gruppen 방송국은 [스웨덴](../Page/스웨덴.md "wikilink")에 본사를 둔 통신사업자 텔리아 계열에 속해있다.
 
 TV4는 [1990년](../Page/1990년.md "wikilink") [스웨덴](../Page/스웨덴.md "wikilink")과 [노르웨이](../Page/노르웨이.md "wikilink")에서 [케이블](../Page/케이블_텔레비전.md "wikilink"), [위성](https://ko.wikipedia.org/wiki/위성_방송 "wikilink") 채널로 방송을 시작하였다. 그러다가 지상파 방송 면허를 획득하면서 [1992년](../Page/1992년.md "wikilink") [스웨덴](../Page/스웨덴.md "wikilink")에서 지상파 방송을 시작하였다. 한편 노르웨이에서는 같은 해에 방송을 중단하였다. [2004년](../Page/2004년.md "wikilink")부터 [유럽방송연맹](https://ko.wikipedia.org/wiki/유럽방송연맹 "wikilink")의 회원으로 가입하였다.
 

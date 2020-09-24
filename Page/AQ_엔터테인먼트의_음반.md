@@ -29,6 +29,8 @@
 
 ## 2020년 \~ 2022년
 
+  - 2020년 9월 15일 VAV - **Made For Two**
+
 ## 각주
 
 [분류:대한민국 음반사의 음반 목록](https://ko.wikipedia.org/wiki/분류:대한민국_음반사의_음반_목록 "wikilink")

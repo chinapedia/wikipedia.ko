@@ -7,7 +7,7 @@
 
 ## 수록 음반
 
-  - *[V](https://ko.wikipedia.org/wiki/V "wikilink")* (딜럭스반) - [마룬 5](../Page/마룬_5.md "wikilink")
+  - *[V](../Page/V.md "wikilink")* (딜럭스반) - [마룬 5](../Page/마룬_5.md "wikilink")
   - 《[비긴 어게인](../Page/비긴_어게인.md "wikilink") OST》- [애덤 리바인](../Page/애덤_리바인.md "wikilink"), [키이라 나이틀리](../Page/키이라_나이틀리.md "wikilink"), [시 로 그린](https://ko.wikipedia.org/wiki/시_로_그린 "wikilink") 등
 
 ## 차트 성적

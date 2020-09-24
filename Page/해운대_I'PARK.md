@@ -147,7 +147,7 @@
 
 ## 갤러리
 
-파일:Skyline of Haeundae, Busan, South Korea in August 2010.jpg|공사 중인 해운대 아이파크와 해운대 두산 위브 더 제니스. (2010년) 파일:Busan, South Korea skyline on September 2010.jpg|공사 중인 해운대 아이파크와 해운대 두산 위브 더 제니스. (2010년) 파일:Gwangalli Beach.jpg|공사 중인 해운대 아이파크와 해운대 두산 위브 더 제니스. (2011년 6월 5일) 파일:Haeundae veiw from Gwangalli.jpg|2012년 4월. 파일:Gwanganli Beach at Day.png|2012년 4월 22일. 파일:Marine City skyline in Busan, South Korea.jpg|2012년 8월 11일. 파일:Sunrise at Gwangalli Beach.jpg|2012년 8월 24일. 파일:View from Igidae.jpg|2014년 7월 4일.
+파일:Skyline of Haeundae, Busan, South Korea in August 2010.jpg|공사 중인 해운대 아이파크와 해운대 두산 위브 더 제니스. (2010년) 파일:Busan, South Korea skyline on September 2010.jpg|공사 중인 해운대 아이파크와 해운대 두산 위브 더 제니스. (2010년) 파일:Gwangalli Beach.jpg|공사 중인 해운대 아이파크와 해운대 두산 위브 더 제니스. (2011년 6월 5일) 파일:Haeundae veiw from Gwangalli.jpg|2012년 4월. 파일:Gwanganli Beach at Day.png|2012년 4월 22일. 파일:Sunrise at Gwangalli Beach.jpg|2012년 8월 24일. 파일:View from Igidae.jpg|2014년 7월 4일.
 
 ## 더 보기
 

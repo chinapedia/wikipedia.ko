@@ -43,7 +43,7 @@
           - 후지 TV 계열 《봄 고교 배구 2014》 이미지 송.
 10. **そばにいるよ** / <small>**곁에 있어**</small> \[5:08\]
       -
-        (작사: 마츠이 고로 / 작곡: [Steven Lee](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink"), Fredrik Hult, Andreas Oberg / 편곡: Fredrik Hult)
+        (작사: 마츠이 고로 / 작곡: [Steven Lee](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink"), Fredrik Hult, Andreas Oberg / 편곡: Fredrik Hult)
 11. **Be Free** \[4:32\]
       -
         (작사: 코바야시 코메이 / 작곡: Kim Jun Hwi / 편곡: 이시즈카 토모키)

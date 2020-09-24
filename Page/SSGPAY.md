@@ -33,7 +33,7 @@
   - [삼성 페이](https://ko.wikipedia.org/wiki/삼성_페이 "wikilink")
   - [LG 페이](https://ko.wikipedia.org/wiki/LG_페이 "wikilink")
   - [카카오 페이](https://ko.wikipedia.org/wiki/카카오_페이 "wikilink")
-  - [L pay](https://ko.wikipedia.org/wiki/L_pay "wikilink")
+  - [L pay](../Page/L_pay.md "wikilink")
   - [안드로이드 페이](https://ko.wikipedia.org/wiki/안드로이드_페이 "wikilink")
   - [네이버 페이](https://ko.wikipedia.org/wiki/네이버_페이 "wikilink")
   - [페이팔](../Page/페이팔.md "wikilink")

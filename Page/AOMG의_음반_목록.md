@@ -225,6 +225,8 @@
   - 2020년 8월 18일 [우원재](../Page/우원재.md "wikilink") - **Black Out**
   - 2020년 8월 22일 [박재범](../Page/박재범.md "wikilink") - **\[Digital Single\] \[Vol.65\] 유희열의 스케치북 : 마흔 번째 목소리 '유스케 X 박재범 (Feat. KIRIN(기린))**'
   - 2020년 8월 29일 [박재범](../Page/박재범.md "wikilink") - **\[Digital Single\] \[Vol.66\] 유희열의 스케치북 : 마흔 번째 목소리 '유스케 X 박재범**'
+  - 2020년 9월 4일 [GooseBumps](https://ko.wikipedia.org/wiki/구스범스_\(가수\) "wikilink") - **\[Digital Single\] Somewhere**
+  - 2020년 9월 18일 [DJ 웨건](../Page/DJ_웨건.md "wikilink") - **\[Digital Single\] Rhymesmith (Fresh Avenue)**\[66\]
 
 ## 각주
 
@@ -295,3 +297,4 @@
 63. [기린도](../Page/기린_\(가수\).md "wikilink") 앨범 참여.
 64. [브론즈도](https://ko.wikipedia.org/wiki/브론즈_\(가수\) "wikilink") 앨범 참여.
 65. 우원재 정규 1집의 선공개곡.
+66. [화나](../Page/화나.md "wikilink")도 앨범 참여.

@@ -15,9 +15,11 @@
 
 스티그우드는 또 클랩튼이 마이애미 인근 [골든 비치](https://ko.wikipedia.org/wiki/골든_비치_\(플로리다주\) "wikilink") 타운의 오션 대로 461번지에 있는 임대주택에 살도록 돈을 지불했다.\[2\] 이 음반은 1974년 4월부터 5월까지 녹음되었다. 녹음 세션에서, 클랩튼은 그의 [블랙키](https://ko.wikipedia.org/wiki/블래키_\(기타\) "wikilink") [펜더 스트라토캐스터](https://ko.wikipedia.org/wiki/펜더_스트라토캐스터 "wikilink") 일렉트릭 기타를 사용했다.\[3\] [슬라이드 기타](https://ko.wikipedia.org/wiki/슬라이드_기타 "wikilink") 작업을 위해 클랩튼은 여러 개의 [깁슨 ES-335](https://ko.wikipedia.org/wiki/깁슨_ES-335 "wikilink") 기타를 사용했다. 그는 또한 고풍스러운 [마틴](../Page/마틴_기타.md "wikilink") 어쿠스틱 기타도 연주했다.\[4\]
 
-## 발매
+## 마케팅 및 판매
 
 《461 Ocean Boulevard》는 1974년 7월 [아메리카](../Page/아메리카.md "wikilink"), [유럽](../Page/유럽.md "wikilink"), [아시아](../Page/아시아.md "wikilink"), [호주](https://ko.wikipedia.org/wiki/호주 "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink")의 바이닐과 소형 음악 카세트로 발매되었다. [RSO 레코드는](https://ko.wikipedia.org/wiki/RSO_레코드 "wikilink") 이 음반을 발매하기로 결정했는데, 이 음반은 많은 음반을 차트와 판매할 수 있고, [아르헨티나](../Page/아르헨티나.md "wikilink")\[5\], [호주](https://ko.wikipedia.org/wiki/호주 "wikilink"), [오스트리아](../Page/오스트리아.md "wikilink"), [브라질](../Page/브라질.md "wikilink"), [캐나다](../Page/캐나다.md "wikilink"), [덴마크](../Page/덴마크.md "wikilink"), [프랑스](../Page/프랑스.md "wikilink"), [독일](../Page/독일.md "wikilink"), [그리스](../Page/그리스.md "wikilink"), [인도](../Page/인도.md "wikilink"), [아일랜드](../Page/아일랜드.md "wikilink"), [이탈리아](../Page/이탈리아.md "wikilink"), [일본](../Page/일본.md "wikilink"), [멕시코](../Page/멕시코.md "wikilink"), [네덜란드](../Page/네덜란드.md "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink"), [노르웨이](../Page/노르웨이.md "wikilink"), [포르투갈](../Page/포르투갈.md "wikilink"), [러시아](../Page/러시아.md "wikilink"), [스페인](../Page/스페인.md "wikilink"), [스웨덴](../Page/스웨덴.md "wikilink"), [대만](../Page/중화민국.md "wikilink"), [영국](../Page/영국.md "wikilink"), [미국](../Page/미국.md "wikilink"), [우루과이](../Page/우루과이.md "wikilink"), [유고슬라비아](../Page/유고슬라비아.md "wikilink"), [베네수엘라](../Page/베네수엘라.md "wikilink")에서 발매되었다. 따라서 이 음반은 [소련](../Page/소련.md "wikilink")에서 합법적으로 판매되는 몇 안 되는 팝 음악 음반 중 하나였다. 이 음반은 1988년, 1996년, 2004년 유럽 재결합, CD 포맷, 디지털 음악 다운로드 등을 통해 여러 차례 재발매되었다.\[6\]
+
+《461 Ocean Boulevard》는 클랩튼의 가장 성공적인 상업용 발매물 중 하나로, 8개국에서 톱10에 진입했으며, 캐나다와 미국 등 3개 지역에서 최고 1위를 차지하고 있다. 이 음반은 3위를 정점으로 영국에서 톱 5에 올랐다. 네덜란드와 노르웨이에서는 1974년 발매된 스튜디오가 전국 음반 차트에서 4위에 올랐다. 독일과 뉴질랜드에서는 음반이 각각 11장과 38장에 달했다. 1974년 연말 차트에서는 캐나다 《RPM》 차트에서 스튜디오 음반이 5위에 올랐고 네덜란드에서는 음반이 22위에 올랐다. 미국에서는 50만 장 이상의 선적 수치에 대해 [골드 디스크로](https://ko.wikipedia.org/wiki/골드_디스크 "wikilink") 인증을 받았다.
 
 ## 곡 목록
 

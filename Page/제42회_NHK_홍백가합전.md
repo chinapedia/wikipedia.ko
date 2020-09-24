@@ -17,7 +17,7 @@
 
   - 마스이 미츠코 : 90년 여성 최초 [다마 동물공원](https://ko.wikipedia.org/wiki/다마_동물공원 "wikilink") 원장 취임.
   - [야마사키 도요코](../Page/야마사키_도요코.md "wikilink") : 91년 소설 『大地の子』로 제 39회 기쿠치간상 수상.
-  - [아키야마 고지](../Page/아키야마_고지.md "wikilink") : [세이부 라이온스를](https://ko.wikipedia.org/wiki/사이타마_세이부_라이온스 "wikilink") 90년에 이어 [1991년 일본 시리즈도](../Page/1991년_일본_시리즈.md "wikilink") 우승으로 이끈 공적으로 [일본 선수권 시리즈](../Page/일본_선수권_시리즈.md "wikilink") [MVP](../Page/일본_프로_야구_최우수_선수.md "wikilink") 및 [쇼리키 마쓰타로상](../Page/쇼리키_마쓰타로상.md "wikilink") 수상.
+  - [아키야마 고지](../Page/아키야마_고지.md "wikilink") : [세이부 라이온스를](../Page/사이타마_세이부_라이온스.md "wikilink") 90년에 이어 [1991년 일본 시리즈도](../Page/1991년_일본_시리즈.md "wikilink") 우승으로 이끈 공적으로 [일본 선수권 시리즈](../Page/일본_선수권_시리즈.md "wikilink") [MVP](../Page/일본_프로_야구_최우수_선수.md "wikilink") 및 [쇼리키 마쓰타로상](../Page/쇼리키_마쓰타로상.md "wikilink") 수상.
   - 아시하라 스나오 : 91년 청춘소설 『青春デンデケデケデケ』로 제 105회 [나오키상](https://ko.wikipedia.org/wiki/나오키상 "wikilink") 수상.
   - 하나다 마사루·다카노하나 코지 : [스모](../Page/스모.md "wikilink") 마에가시라.
   - [오가타 나오토](https://ko.wikipedia.org/wiki/오가타_나오토 "wikilink") : 92년 [NHK 대하드라마](../Page/NHK_대하드라마.md "wikilink") 『信長 KING OF ZIPANGU』 주인공 [오다 노부나가](../Page/오다_노부나가.md "wikilink") 역.

@@ -403,7 +403,7 @@
 <td style="text-align: left;"><p>DVD</p></td>
 <td style="text-align: left;"><p>《EXOPLANET #2 - The EXO'luXion - in SEOUL》 DVD</p>
 <ul>
-<li>발매일 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a></li>
+<li>발매일 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/2월_26일.md" title="wikilink">2월 26일</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -460,7 +460,7 @@
 ## 제작
 
   - [EXO](../Page/EXO.md "wikilink") ([레이](https://ko.wikipedia.org/wiki/레이_\(1991년\) "wikilink"), [디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink"), [첸](../Page/첸_\(가수\).md "wikilink"), [찬열](../Page/찬열.md "wikilink"), [세훈](../Page/세훈.md "wikilink"), [수호](https://ko.wikipedia.org/wiki/수호_\(1991년\) "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(1992년\) "wikilink"))
-  - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
+  - 주최 : [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink")
   - 주관 : 드림메이커
   - 후원 : [YES24](../Page/YES24.md "wikilink")
   - 총연출 : [심재원](https://ko.wikipedia.org/wiki/심재원_\(가수\) "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [We Wish You a Merry Christmas](https://ko.wikipedia.org/wiki/We_Wish_You_a_Merry_Christmas).
 
 
-"**We Wish You a Merry Christmas**"는 16세기 영국 서부 지방을 기원으로 하는 [영어](../Page/영어.md "wikilink") [크리스마스 캐럴이다](https://ko.wikipedia.org/wiki/크리스마스_캐럴 "wikilink").
+"**We Wish You a Merry Christmas**"는 16세기 영국 서부 지방을 기원으로 하는 [영어](../Page/영어.md "wikilink") [크리스마스 캐럴이다](../Page/크리스마스_캐럴.md "wikilink").
 
 ## 가사
 

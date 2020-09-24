@@ -28,6 +28,7 @@ function p._main(args)
 `       :css('border-spacing', '0')`
 `       :css('border-collapse', 'collapse')`
 `       :css('vertical-align', 'top')`
+`       :css('margin-bottom', '0px')`
 `   local trow = troot:tag('tr')`
 `   if not args[1] then`
 `       args[1] = '``'`

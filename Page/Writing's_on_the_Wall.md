@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Writing\'s on the Wall](https://ko.wikipedia.org/wiki/Writing\'s_on_the_Wall).
 
 
-"**Writing's on the Wall**"은 [샘 스미스의](../Page/샘_스미스.md "wikilink") 노래로, 영화 《[007 시리즈](https://ko.wikipedia.org/wiki/007_시리즈 "wikilink")》 제 24작 《[007 스펙터](../Page/007_스펙터.md "wikilink")》의 주제가이다. 2015년 9월 25일 발매되었다.\[1\]
+"**Writing's on the Wall**"은 [샘 스미스의](../Page/샘_스미스.md "wikilink") 노래로, 영화 《[007 시리즈](https://ko.wikipedia.org/wiki/007_\(영화_시리즈\) "wikilink")》의 24번째 작품인 《[007 스펙터](../Page/007_스펙터.md "wikilink")》의 주제가이다. 2015년 9월 25일 발매되었다.\[1\]
 
 ## 트랙리스트
 

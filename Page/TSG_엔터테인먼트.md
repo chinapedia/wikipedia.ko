@@ -648,23 +648,17 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/엑스맨:_뉴_뮤턴트.md" title="wikilink">뉴 뮤턴트</a></p></td>
-<td><p>In Association with</p></td>
-<td><p><a href="../Page/20세기_스튜디오.md" title="wikilink">20세기 스튜디오</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/킹스맨:_퍼스트_에이전트.md" title="wikilink">킹스맨: 퍼스트 에이전트</a></p></td>
 <td><p>Made In Association with</p></td>
 <td><p><a href="../Page/20세기_스튜디오.md" title="wikilink">20세기 스튜디오</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/나일_강의_죽음_(2020년_영화)" title="wikilink">나일 강의 죽음</a></p></td>
 <td><p>Made In Association with</p></td>
 <td><p><a href="../Page/20세기_스튜디오.md" title="wikilink">20세기 스튜디오</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

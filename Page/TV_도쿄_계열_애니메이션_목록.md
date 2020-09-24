@@ -62,7 +62,7 @@
   - [원펀맨](../Page/원펀맨.md "wikilink") ▼(2015년)
   - [엘프사냥꾼](https://ko.wikipedia.org/wiki/엘프사냥꾼 "wikilink") ▼(1997년)
   - [아이카츠\!](https://ko.wikipedia.org/wiki/아이카츠! "wikilink") (2012년\~2016년)
-  - [아이카츠 스타즈\!](https://ko.wikipedia.org/wiki/아이카츠_스타즈! "wikilink") - (2016년\~)
+  - [아이카츠 스타즈\!](../Page/아이카츠_스타즈!.md "wikilink") - (2016년\~)
   - [이나즈마 일레븐](../Page/이나즈마_일레븐.md "wikilink") (2008\~2014년)
   - [야채극장 베지테일](../Page/야채극장_베지테일.md "wikilink") (1997년\~2001년)
   - [요괴워치](../Page/요괴워치.md "wikilink") (2014\~ )

@@ -71,7 +71,7 @@
   - 2018년 3월 14일 스컬 - **Made In Bangkok**
   - 2018년 6월 21일 스컬&하하 - **\[Digital Single\] 웃어\[19\]**
   - 2018년 7월 4일 지조 - **\[Digital Single\] 제목이 뭐더라**
-  - 2018년 7월 24일 [레게 강 같은 평화](https://ko.wikipedia.org/wiki/레게_강_같은_평화 "wikilink")\[20\] - **\[Digital Single\] 당디기 방**
+  - 2018년 7월 24일 [레게 강 같은 평화](../Page/레게_강_같은_평화.md "wikilink")\[20\] - **\[Digital Single\] 당디기 방**
   - 2018년 10월 18일 레게 강 같은 평화 - **No Problem**
   - 2018년 11월 16일 별 - **\[Digital Single\] 눈물이 나서**
   - 2019년 5월 28일 별 - **하트브레이크마켓 OST**
@@ -104,7 +104,7 @@
 8.  최초의 19금 앨범.
 9.  [매드 클라운](../Page/매드_클라운.md "wikilink"), [긱스](https://ko.wikipedia.org/wiki/긱스_\(남성_듀오\) "wikilink"), [허경환](../Page/허경환.md "wikilink"), [스윙스](../Page/스윙스.md "wikilink"), [더블케이](https://ko.wikipedia.org/wiki/더블케이 "wikilink"), [소울 다이브](https://ko.wikipedia.org/wiki/소울_다이브 "wikilink"), [지조](../Page/지조.md "wikilink"), [김지민](https://ko.wikipedia.org/wiki/김지민 "wikilink"), [블락비](../Page/블락비.md "wikilink")의 멤버 [지코](../Page/지코.md "wikilink")도 앨범 참여.
 10. [바스코](https://ko.wikipedia.org/wiki/바스코_\(래퍼\) "wikilink"), [로꼬](../Page/로꼬.md "wikilink")도 앨범 참여.
-11. [걸스데이](../Page/걸스데이.md "wikilink")의 멤버 [민아도](https://ko.wikipedia.org/wiki/방민아 "wikilink") 앨범 참여.
+11. [걸스데이](../Page/걸스데이.md "wikilink")의 멤버 [민아도](../Page/방민아.md "wikilink") 앨범 참여.
 12. [오마이걸](../Page/오마이걸.md "wikilink")도 앨범 참여.
 13. [쿤타](https://ko.wikipedia.org/wiki/쿤타 "wikilink")도 앨범 참여.
 14. [씨잼](../Page/씨잼.md "wikilink")도 앨범 참여.

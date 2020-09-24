@@ -15,7 +15,7 @@
 
   - [벤츠](../Page/메르세데스-벤츠.md "wikilink") - [S클래스](https://ko.wikipedia.org/wiki/메르세데스-벤츠_S클래스 "wikilink")
   - [BMW](../Page/BMW.md "wikilink") - [7시리즈](https://ko.wikipedia.org/wiki/BMW_7시리즈 "wikilink")
-  - [제네시스](../Page/제네시스_\(자동차\).md "wikilink") - [G90](../Page/제네시스_G90.md "wikilink")
+  - [제네시스](../Page/제네시스_\(자동차\).md "wikilink") - [G90](https://ko.wikipedia.org/wiki/G90 "wikilink")
   - [아우디](../Page/아우디.md "wikilink") - [A8](../Page/아우디_A8.md "wikilink")
   - [재규어](../Page/재규어_자동차.md "wikilink") - [XJ](../Page/재규어_XJ.md "wikilink")
   - [렉서스](../Page/렉서스.md "wikilink") - [LS](../Page/렉서스_LS.md "wikilink")

@@ -45,9 +45,8 @@
 
 파일:Hyperion Towers Night.JPG
 
-## 더 보기
+## 같이 보기
 
-  - [KNN 타워](../Page/KNN_타워.md "wikilink")
   - [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink")
 
 ## 각주

@@ -71,7 +71,7 @@
 
 ## 외부 링크
 
-  - [여중생A](http://comic.naver.com/webtoon/list.nhn?titleId=647946&weekday=mon) - [네이버 웹툰](https://ko.wikipedia.org/wiki/네이버_웹툰 "wikilink")
+  - [여중생A](http://comic.naver.com/webtoon/list.nhn?titleId=647946&weekday=mon) - [네이버 웹툰](../Page/네이버_웹툰.md "wikilink")
 
 [분류:대한민국의 만화](https://ko.wikipedia.org/wiki/분류:대한민국의_만화 "wikilink") [분류:네이버 웹툰](https://ko.wikipedia.org/wiki/분류:네이버_웹툰 "wikilink")
 

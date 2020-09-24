@@ -24,7 +24,7 @@
 
   - 축구 : [박찬하](https://ko.wikipedia.org/wiki/박찬하 "wikilink"), [차상엽 조원회](https://ko.wikipedia.org/wiki/차상엽_\(축구기자\) "wikilink"), [김환](https://ko.wikipedia.org/wiki/김환_\(축구기자\) "wikilink"), [이천수](../Page/이천수.md "wikilink"), [신태용](https://ko.wikipedia.org/wiki/신태용 "wikilink") [허영민](https://ko.wikipedia.org/wiki/허영민 "wikilink")
   - 리듬체조 : [김유경](https://ko.wikipedia.org/wiki/김유경 "wikilink")
-  - F1 : [윤재수](https://ko.wikipedia.org/wiki/윤재수 "wikilink")
+  - F1 : 온대호
   - 원 챔피언십 ([종합격투기](../Page/종합격투기.md "wikilink")) : [김대환](../Page/김대환_\(격투기_해설자\).md "wikilink")
   - 테니스 : [최천진](https://ko.wikipedia.org/wiki/최천진 "wikilink"), 김남훈, [전미라](../Page/전미라.md "wikilink")
 

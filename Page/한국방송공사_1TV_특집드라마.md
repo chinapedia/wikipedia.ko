@@ -68,7 +68,7 @@
   - 《[매화연풍](https://ko.wikipedia.org/wiki/매화연풍 "wikilink")》 : 1983년 3월 8일
   - 《[푸른 꿈은 빛나라](https://ko.wikipedia.org/wiki/푸른_꿈은_빛나라 "wikilink")》 : 1983년 5월 25일 (청소년 특집 드라마)
   - 《[빛과 사슬](https://ko.wikipedia.org/wiki/빛과_사슬 "wikilink")》 : 1983년 6월 24일 \~ 1983년 6월 25일 (6.25 특집 드라마)
-  - 《[하늘은 알고 있다](https://ko.wikipedia.org/wiki/하늘은_알고_있다 "wikilink")》 : 1983년 8월 15일 (8.15 특집 드라마)
+  - 《[하늘은 알고 있다](https://ko.wikipedia.org/wiki/하늘은_알고_있다 "wikilink")》 : 1983년 8월 15일 \~ 1983년 8월 16일 (8.15 특집 드라마)
   - 《[아버지](https://ko.wikipedia.org/wiki/아버지_\(1983년_드라마\) "wikilink")》 : 1983년 9월 21일 (추석 특집 드라마)
   - 《[기도](https://ko.wikipedia.org/wiki/기도_\(1983년_드라마\) "wikilink")》 : 1983년 12월 25일 (성탄절 특집 드라마)
   - 《[그날](https://ko.wikipedia.org/wiki/그날_\(드라마\) "wikilink")》 : 1983년 12월 28일 (송년 특집 드라마)
@@ -96,15 +96,11 @@
   - 《[그 사람 현곡](https://ko.wikipedia.org/wiki/그_사람_현곡 "wikilink")》 : 1985년 3월 1일 (3.1 특집 드라마)
   - 《[진도아리랑](https://ko.wikipedia.org/wiki/진도아리랑_\(드라마\) "wikilink")》 : 1985년 4월 25일
   - 《[가시고기](https://ko.wikipedia.org/wiki/가시고기_\(1985년_드라마\) "wikilink")》 : 1985년 5월 8일
-
-<!-- end list -->
-
+  - 《[별을 쫓는 야생마](https://ko.wikipedia.org/wiki/별을_쫓는_야생마 "wikilink")》 : 1985년 5월 29일 \~ 1985년 12월 13일 (연중 청소년 드라마)
   - 《[광장](https://ko.wikipedia.org/wiki/광장_\(드라마\) "wikilink")》 : 1985년 6월 25일 \~ 1985년 6월 26일 (6.25 특집 드라마)
   - 《[이산별곡](https://ko.wikipedia.org/wiki/이산별곡 "wikilink")》 : 1985년 6월 29일
-  - 《[전선](https://ko.wikipedia.org/wiki/적도_\(드라마\) "wikilink")》 : 1985년 8월 13일 (8.15 특집 드라마)
-
-<!-- end list -->
-
+  - 《[적도전선](https://ko.wikipedia.org/wiki/적도전선 "wikilink")》 : 1985년 8월 13일 (8.15 특집 드라마)
+  - 《[13세 소년](https://ko.wikipedia.org/wiki/13세_소년_\(드라마\) "wikilink")》 : 1985년 10월 1일 (2시간 드라마)
   - 《[오성장군 김홍일](https://ko.wikipedia.org/wiki/오성장군_김홍일 "wikilink")》 : 1985년 10월 1일 \~ 1985년 10월 1일 (특별기획 드라마)
 
 #### 1986년
@@ -113,28 +109,26 @@
   - 《[행복을 찾습니다](https://ko.wikipedia.org/wiki/행복을_찾습니다 "wikilink")》 : 1986년 1월 2일 \~ 1986년 1월 5일 (신년 특집 드라마)
   - 《[멀고먼 사람들](https://ko.wikipedia.org/wiki/멀고먼_사람들 "wikilink")》 : 1986년 1월 18일 \~ 1986년 1월 26일 (반공 드라마)
   - 《[오유란전](https://ko.wikipedia.org/wiki/오유란전 "wikilink")》 : 1986년 2월 9일 (설 특집 드라마)
-  - 《[님의 침묵](https://ko.wikipedia.org/wiki/님의_침묵_\(드라마\) "wikilink")》 : 1986년 3월 1일 (3.1절 특집 드라마)
+  - 《[님의 침묵](https://ko.wikipedia.org/wiki/님의_침묵_\(1986년_드라마\) "wikilink")》 : 1986년 3월 1일 (3.1절 특집 드라마)
   - 《[열반제](https://ko.wikipedia.org/wiki/열반제 "wikilink")》 : 1986년 5월 15일 (부처님 오신 날 특집 드라마)
   - 《[백마고지](https://ko.wikipedia.org/wiki/백마고지 "wikilink")》 : 1986년 6월 24일 \~ 1986년 6월 25일 (6.25 특집 드라마)
-  - 《[고향을 어찌 잊으리이까](https://ko.wikipedia.org/wiki/고향을_어찌_잊으리이까 "wikilink")》 : 1986년 8월 14일 \~ 1986년 8월 16일 (8.15 특집 드라마)
+  - 《[고향을 어찌 잊으리까](https://ko.wikipedia.org/wiki/고향을_어찌_잊으리까 "wikilink")》 : 1986년 8월 14일 \~ 1986년 8월 16일 (8.15 특집 드라마)
   - 《[아리수별곡](https://ko.wikipedia.org/wiki/아리수별곡 "wikilink")》 : 1986년 9월 9일 (한강종합개발 특집 드라마)
   - 《[달맞이꽃](https://ko.wikipedia.org/wiki/달맞이꽃_\(드라마\) "wikilink")》 : 1986년 9월 18일 (추석 특집 드라마)
-  - 《[원효대사](https://ko.wikipedia.org/wiki/원효대사_\(드라마\) "wikilink")》 : 1986년 9월 22일 \~ 1986년 10월 2일 (아시아게임 특집 드라마)
+  - 《[원효대사](https://ko.wikipedia.org/wiki/원효대사_\(드라마\) "wikilink")》 : 1986년 9월 22일 \~ 1986년 10월 2일 (1986년 서울 아시안 게임 특집 드라마)
   - 《[초혼가](https://ko.wikipedia.org/wiki/초혼가 "wikilink")》 : 1986년 10월 19일 (문화의 달 특집 드라마)
   - 《[별초롱 꿈초롱](https://ko.wikipedia.org/wiki/별초롱_꿈초롱 "wikilink")》 : 1986년 12월 29일 (저축 계몽 드라마)
 
 #### 1987년
 
   - 《[87' 행복을 찾습니다](https://ko.wikipedia.org/wiki/87'_행복을_찾습니다 "wikilink")》 : 1987년 1월 1일 \~ 1987년 1월 3일 (신춘 특집 연작 드라마)
-
-<!-- end list -->
-
+  - 《[초혼가](https://ko.wikipedia.org/wiki/초혼가 "wikilink")》 : 1987년 1월 29일 (설날 특집 드라마)
   - 《[종이학](https://ko.wikipedia.org/wiki/종이학_\(1987년_드라마\) "wikilink")》 : 1987년 월 일 (3.1절 특집 드라마)
   - 《[환멸을 찾아서](../Page/환멸을_찾아서.md "wikilink")》 : 1987년 6월 23일 \~ 1987년 6월 24일 (6.25 특집 드라마)
   - 《[이차돈](https://ko.wikipedia.org/wiki/이차돈_\(드라마\) "wikilink")》 : 1987년 5월 5일 (부처님 오신 날 특집 드라마)
   - 《[시냇물 흘러흘러 어디로 가나](https://ko.wikipedia.org/wiki/시냇물_흘러흘러_어디로_가나 "wikilink")》 : 1987년 10월 6일 \~ 1987년 10월 7일 (추석 특집 드라마)
-  - 《[땅에서도 이루어지소서](https://ko.wikipedia.org/wiki/땅에서도_이루어지소서 "wikilink")》 : 1987년 12월 25일 (성탄절 특집 드라마)
   - 《[월행](https://ko.wikipedia.org/wiki/월행 "wikilink")》 : 1987년 12월 15일 (연말 특집 드라마)
+  - 《[땅에서도 이루어지소서](https://ko.wikipedia.org/wiki/땅에서도_이루어지소서 "wikilink")》 : 1987년 12월 25일 (성탄절 특집 드라마)
   - 《[탑리](https://ko.wikipedia.org/wiki/탑리_\(드라마\) "wikilink")》 : 1987년 12월 31일 (연말 특집 드라마)
 
 #### 1988년
@@ -154,6 +148,7 @@
   - 《[심청전](../Page/심청전_\(드라마\).md "wikilink")》 : 1988년 9월 25일 (88올림픽 특집 드라마, **한국고전 시리즈** 방영됨)
   - 《[배비장전](../Page/배비장전_\(드라마\).md "wikilink")》 : 1988년 9월 26일 (88올림픽 특집 드라마, **한국고전 시리즈** 방영됨)
   - 《[조선백자 마리아상](../Page/조선백자_마리아상.md "wikilink")》 : 1988년 12월 23일 \~ 1988년 12월 24일 (성탄 특집 드라마)
+  - 《[만수의 크리스마스](https://ko.wikipedia.org/wiki/만수의_크리스마스 "wikilink")》 : 1988년 12월 24일 (성탄 특집 뮤지컬 드라마)
 
 #### 1989년
 
@@ -174,7 +169,7 @@
 #### 1990년
 
   - 《[구리반지](../Page/구리반지.md "wikilink")》 : 1990년 1월 1일 (신년 일일 연속극)
-  - 《[바람소리](https://ko.wikipedia.org/wiki/바람소리 "wikilink")》 : 1990년 1월 24일 (설 특집 드라마), 4월 20일 \~ 4월 21일 (앙코르 특집 드라마)
+  - 《[바람소리](https://ko.wikipedia.org/wiki/바람소리 "wikilink")》 : 1990년 1월 25일 (설 특집 드라마), 4월 20일 \~ 4월 21일 (앙코르 특집 드라마)
   - 《[기다리는 사람들](https://ko.wikipedia.org/wiki/기다리는_사람들 "wikilink")》 : 1990년 1월 27일 (설 특집 드라마)
   - 《[추천석면](https://ko.wikipedia.org/wiki/추천석면 "wikilink")》 : 1990년 1월 28일 (설 특집 드라마)
   - 《[잃어버린 섬](https://ko.wikipedia.org/wiki/잃어버린_섬 "wikilink")》 : 1990년 3월 2일 \~ 1990년 3월 3일 (창사 특집 드라마)
@@ -232,7 +227,7 @@
 #### 1994년
 
   - 《[지붕 위의 남자](https://ko.wikipedia.org/wiki/지붕_위의_남자 "wikilink")》 : 1994년 1월 1일 (신년 특집 드라마)
-  - 《[이선풍 저승유람기](https://ko.wikipedia.org/wiki/이선풍_저승유람기 "wikilink")》 : 1994년 2월 9일 \~ 1995년 2월 10일 (설 특집 드라마)
+  - 《[이선풍 저승 유람](https://ko.wikipedia.org/wiki/이선풍_저승_유람 "wikilink")》 : 1994년 2월 9일 \~ 1995년 2월 10일 (설 특집 드라마)
   - 《[너의 뺨에 입맞추리](https://ko.wikipedia.org/wiki/너의_뺨에_입맞추리 "wikilink")》 : 1994년 2월 9일 \~ 1994년 2월 10일 (설 특집 드라마)
   - 《[겨울 도화리](https://ko.wikipedia.org/wiki/겨울_도화리 "wikilink")》 : 1994년 3월 1일 \~ 1994년 3월 2일 (창사 21주년 특집 드라마)
   - 《[5월의 여행](https://ko.wikipedia.org/wiki/5월의_여행 "wikilink")》 : 1994년 5월 27일 (가정의 달 특집 드라마)

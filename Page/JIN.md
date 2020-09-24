@@ -35,6 +35,31 @@
 </tbody>
 </table>
 
+### OST
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><p>앨범 번호</p></th>
+<th style="text-align: left;"><p>앨범 정보</p></th>
+<th style="text-align: left;"><p>트랙 리스트</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>1</strong></p></td>
+<td style="text-align: left;"><p>《<strong><a href="https://ko.wikipedia.org/wiki/연애는_귀찮지만_외로운_건_싫어!" title="wikilink">연애는 귀찮지만 외로운 건 싫어!</a> OST Part 4</strong>》</p>
+<ul>
+<li>발매일: <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/9월_15일.md" title="wikilink">9월 15일</a></li>
+</ul></td>
+<td style="text-align: left;"><p><small></p>
+<ol>
+<li><strong>눈꺼풀이 무거워질 때까지</strong> </small></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
 ## 음반 외 활동
 
 ### 방송

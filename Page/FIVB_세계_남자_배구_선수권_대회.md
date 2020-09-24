@@ -91,7 +91,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/체코_배구_국가대표팀" title="wikilink">체코슬로바키아</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/불가리아_배구_국가대표팀" title="wikilink">불가리아</a></p></td>
+<a href="../Page/불가리아_배구_국가대표팀.md" title="wikilink">불가리아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/라운드_로빈_토너먼트" title="wikilink">라운드 로빈</a></strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/루마니아_배구_국가대표팀" title="wikilink">루마니아</a></p></td>
@@ -106,7 +106,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/체코_배구_국가대표팀" title="wikilink">체코슬로바키아</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/불가리아_배구_국가대표팀" title="wikilink">불가리아</a></p></td>
+<a href="../Page/불가리아_배구_국가대표팀.md" title="wikilink">불가리아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/라운드_로빈_토너먼트" title="wikilink">라운드 로빈</a></strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/루마니아_배구_국가대표팀" title="wikilink">루마니아</a></p></td>
@@ -154,7 +154,7 @@
 <a href="https://ko.wikipedia.org/wiki/루마니아_배구_국가대표팀" title="wikilink">루마니아</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/라운드_로빈_토너먼트" title="wikilink">라운드 로빈</a></strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/불가리아_배구_국가대표팀" title="wikilink">불가리아</a></p></td>
+<a href="../Page/불가리아_배구_국가대표팀.md" title="wikilink">불가리아</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1966년_FIVB_세계_남자배구_선수권대회" title="wikilink">1966</a></p></td>
@@ -179,7 +179,7 @@
 <strong><a href="https://ko.wikipedia.org/wiki/독일_배구_국가대표팀" title="wikilink">동독</a></strong></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/라운드_로빈_토너먼트" title="wikilink">라운드 로빈</a></strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/불가리아_배구_국가대표팀" title="wikilink">불가리아</a></p></td>
+<a href="../Page/불가리아_배구_국가대표팀.md" title="wikilink">불가리아</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_배구_국가대표팀" title="wikilink">일본</a></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/라운드_로빈_토너먼트" title="wikilink">라운드 로빈</a></strong></p></td>
@@ -241,7 +241,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/러시아_배구_국가대표팀" title="wikilink">소련</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/불가리아_배구_국가대표팀" title="wikilink">불가리아</a></p></td>
+<a href="../Page/불가리아_배구_국가대표팀.md" title="wikilink">불가리아</a></p></td>
 <td><p><strong>3-0</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/브라질_배구_국가대표팀" title="wikilink">브라질</a></p></td>
@@ -316,7 +316,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/폴란드_배구_국가대표팀" title="wikilink">폴란드</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/불가리아_배구_국가대표팀" title="wikilink">불가리아</a></p></td>
+<a href="../Page/불가리아_배구_국가대표팀.md" title="wikilink">불가리아</a></p></td>
 <td><p><strong>3-1</strong></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/세르비아_배구_국가대표팀" title="wikilink">세르비아 몬테네그로</a></p></td>

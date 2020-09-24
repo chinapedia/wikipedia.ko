@@ -5,7 +5,7 @@
 
 ## 개요
 
-2013년 [VP8](https://ko.wikipedia.org/wiki/VP8 "wikilink")이 포함되어 있는 [WebM](../Page/WebM.md "wikilink")의 후속 동영상 압축 기술로 발표 되었다. 비슷한 시기에 발표된 [고효율 비디오 코딩과](../Page/고효율_비디오_코딩.md "wikilink") 비교하면, 화질은 다소 떨어지나 스트리밍 환경에는 더 안정적이다고 알려져 있다\[2\].
+2013년 [VP8](../Page/VP8.md "wikilink")이 포함되어 있는 [WebM](../Page/WebM.md "wikilink")의 후속 동영상 압축 기술로 발표 되었다. 비슷한 시기에 발표된 [고효율 비디오 코딩과](../Page/고효율_비디오_코딩.md "wikilink") 비교하면, 화질은 다소 떨어지나 스트리밍 환경에는 더 안정적이다고 알려져 있다\[2\].
 
 ## 기능
 

@@ -19,18 +19,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/동해_(가수).md" title="wikilink">동해</a></strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파일:171115_슈퍼주니어_동해.jpg" title="wikilink">100px</a></p></td>
-<td><ul>
-<li>본명 : 이동해 (李東海)</li>
-<li>생년월일 : </li>
-<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="https://ko.wikipedia.org/wiki/목포시" title="wikilink">목포시</a></li>
-<li>유닛그룹 : 슈퍼주니어-D&amp;E, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
-<li>포지션 : 리더, 메인보컬, 메인댄서, 리드래퍼</li>
-<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
-</ul></td>
-</tr>
-<tr class="even">
 <td><p><strong><a href="../Page/은혁.md" title="wikilink">은혁</a></strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:WHYNOT-더_댄서_제작발표회_은혁.jpg" title="wikilink">100px</a></p></td>
 <td><ul>
@@ -38,7 +26,19 @@
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
 <li>유닛그룹 : 슈퍼주니어-D&amp;E, <a href="../Page/슈퍼주니어-T.md" title="wikilink">슈퍼주니어-T</a>, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a>, <a href="../Page/슈퍼주니어-Happy.md" title="wikilink">슈퍼주니어-Happy</a></li>
-<li>포지션 : 메인래퍼, 메인댄서, 리드보컬</li>
+<li>포지션 : 메인래퍼, 리드보컬, 메인댄서</li>
+<li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/동해_(가수).md" title="wikilink">동해</a></strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/파일:171115_슈퍼주니어_동해.jpg" title="wikilink">100px</a></p></td>
+<td><ul>
+<li>본명 : 이동해 (李東海)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전라남도</a> <a href="https://ko.wikipedia.org/wiki/목포시" title="wikilink">목포시</a></li>
+<li>유닛그룹 : 슈퍼주니어-D&amp;E, <a href="../Page/슈퍼주니어-M.md" title="wikilink">슈퍼주니어-M</a></li>
+<li>포지션 : 메인보컬, 리드래퍼, 리드댄서</li>
 <li>활동기간 : <a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/11월_6일.md" title="wikilink">11월 6일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>

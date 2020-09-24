@@ -11,7 +11,7 @@
 
 ## 공개
 
-비틀즈는 〈Baby's in Black〉를 1964년 말부터 그들의 마지막 공연인 1966년까지에 걸쳐 라이브로 선보였다. 보통 그들은 〈[Rock and Roll Music](https://ko.wikipedia.org/wiki/Rock_and_Roll_Music "wikilink")〉과 〈[She's a Woman](https://ko.wikipedia.org/wiki/She's_a_Woman "wikilink")〉에 이어 곡을 공연하고는 했다. 매카트니는 곡을 소개할 때 마다 이렇게 말했다고 설명했다. "'이제 뭔가 다른 걸 해보죠' ... 우린 그걸 거기에 넣었는데, '음, 저들이 이걸 어떻게 만들었는지는 아마 모를텐데, 쿨하니 뭐'라고 생각했어요" 1996년 〈Baby's in Black〉의 라이브 버전이 〈[Real Love](https://ko.wikipedia.org/wiki/Real_Love "wikilink")〉의 B면에 실려나왔다.
+비틀즈는 〈Baby's in Black〉를 1964년 말부터 그들의 마지막 공연인 1966년까지에 걸쳐 라이브로 선보였다. 보통 그들은 〈[Rock and Roll Music](https://ko.wikipedia.org/wiki/Rock_and_Roll_Music "wikilink")〉과 〈[She's a Woman](../Page/She's_a_Woman.md "wikilink")〉에 이어 곡을 공연하고는 했다. 매카트니는 곡을 소개할 때 마다 이렇게 말했다고 설명했다. "'이제 뭔가 다른 걸 해보죠' ... 우린 그걸 거기에 넣었는데, '음, 저들이 이걸 어떻게 만들었는지는 아마 모를텐데, 쿨하니 뭐'라고 생각했어요" 1996년 〈Baby's in Black〉의 라이브 버전이 〈[Real Love](https://ko.wikipedia.org/wiki/Real_Love "wikilink")〉의 B면에 실려나왔다.
 
 ## 참여 인원
 

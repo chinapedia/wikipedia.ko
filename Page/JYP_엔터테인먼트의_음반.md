@@ -464,9 +464,10 @@
   - 2020년 7월 16일 스트레이 키즈 - **\[Digital Single\] 만찢남녀 Part.1**
   - 2020년 8월 12일 박진영 - **\[Digital Single\] When We Disco**\[66\]
   - 2020년 8월 17일 ITZY - **Not Shy**
-  - 2020년 8월 31일 [DAY6 (Even of Day)](../Page/DAY6.md "wikilink") - **The Book of Us Gluon - Nothing can tear us apart**
+  - 2020년 8월 31일 [DAY6 (Even of Day)](https://ko.wikipedia.org/wiki/DAY6_\(Even_of_Day\) "wikilink") - **The Book of Us Gluon - Nothing can tear us apart**
   - 2020년 9월 14일 스트레이 키즈 - **IN生**
   - 2020년 9월 16일 트와이스 - **\[Japan\] [\#TWICE3](https://ko.wikipedia.org/wiki/TWICE3 "wikilink")**
+  - 2020년 9월 18일 Young K - **\[Digital Single\] Love**\[67\]
   - 2020년 10월 ?일 트와이스 - **미정**
 
 ## 각주
@@ -483,7 +484,7 @@
 8.  소녀시대도 앨범 참여.
 9.  [정우](../Page/정우.md "wikilink")도 앨범 참여.
 10. [아웃사이더도](https://ko.wikipedia.org/wiki/아웃사이더_\(가수\) "wikilink") 앨범 참여.
-11. [리오케이코아](https://ko.wikipedia.org/wiki/리오케이코아_\(가수\) "wikilink"),[팔로알토](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink"),[지조](https://ko.wikipedia.org/wiki/지조_\(가수\) "wikilink"),[울티마도](https://ko.wikipedia.org/wiki/울티마_\(가수\) "wikilink") 앨범 참여
+11. [리오케이코아](https://ko.wikipedia.org/wiki/리오케이코아_\(가수\) "wikilink"),[팔로알토](../Page/팔로알토_\(래퍼\).md "wikilink"),[지조](https://ko.wikipedia.org/wiki/지조_\(가수\) "wikilink"),[울티마도](https://ko.wikipedia.org/wiki/울티마_\(가수\) "wikilink") 앨범 참여
 12. [김지수](../Page/김지수_\(가수\).md "wikilink"),[강소라](../Page/강소라.md "wikilink")도 앨범 참여.
 13. [티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 맴버 [지연도](../Page/지연_\(가수\).md "wikilink") 앨범 참여.
 14. GOT7으로 데뷔하기 전에 낸 유닛 앨범.
@@ -524,7 +525,7 @@
 49. [박원](../Page/박원.md "wikilink")도 앨범 참여.
 50. [에릭 남도](../Page/에릭_남.md "wikilink") 앨범 참여.
 51. [장기용도](../Page/장기용_\(1992년\).md "wikilink") 앨범 참여.
-52. [B1A4](../Page/B1A4.md "wikilink")의 멤버 [진영](../Page/진영_\(1991년\).md "wikilink"),[오마이걸](../Page/오마이걸.md "wikilink")의 멤버 [유아](../Page/유아_\(가수\).md "wikilink"),[소나무의](../Page/소나무_\(음악_그룹\).md "wikilink") 멤버 [디애나](https://ko.wikipedia.org/wiki/디애나_\(가수\) "wikilink"),[I.B.I](https://ko.wikipedia.org/wiki/I.B.I "wikilink")와 [C.I.V.A](https://ko.wikipedia.org/wiki/C.I.V.A "wikilink")의 멤버 [김소희](../Page/소희_\(1995년\).md "wikilink"),[러블리즈](../Page/러블리즈.md "wikilink")의 멤버 [류수정](../Page/류수정.md "wikilink"),[레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 멤버 [슬기](../Page/슬기.md "wikilink")도 앨범 참여.
+52. [B1A4](../Page/B1A4.md "wikilink")의 멤버 [진영](../Page/진영_\(1991년\).md "wikilink"),[오마이걸](../Page/오마이걸.md "wikilink")의 멤버 [유아](../Page/유아_\(가수\).md "wikilink"),[소나무의](../Page/소나무_\(음악_그룹\).md "wikilink") 멤버 [디애나](../Page/디애나_\(가수\).md "wikilink"),[I.B.I](https://ko.wikipedia.org/wiki/I.B.I "wikilink")와 [C.I.V.A](https://ko.wikipedia.org/wiki/C.I.V.A "wikilink")의 멤버 [김소희](../Page/소희_\(1995년\).md "wikilink"),[러블리즈](../Page/러블리즈.md "wikilink")의 멤버 [류수정](../Page/류수정.md "wikilink"),[레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 멤버 [슬기](../Page/슬기.md "wikilink")도 앨범 참여.
 53. Jun.K 미니 3집의 선공개곡.
 54. [레드벨벳의](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 멤버 [웬디도](../Page/웬디_\(가수\).md "wikilink") 앨범 참여.
 55. 장우영 데뷔 10주년 앨범.
@@ -539,3 +540,4 @@
 64. [이상훈도](https://ko.wikipedia.org/wiki/이상훈_\(작곡가\) "wikilink") 앨범 참여.
 65. [최정윤](../Page/최정윤.md "wikilink")도 앨범에 참여.
 66. [선미](../Page/선미.md "wikilink")도 참여.
+67. [X Lovers도](https://ko.wikipedia.org/wiki/X_Lovers "wikilink") 앨범 참여.

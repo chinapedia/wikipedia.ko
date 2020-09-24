@@ -15,7 +15,7 @@
 
 ## 현재 MC
 
-  - [김한별](https://ko.wikipedia.org/wiki/김한별_\(아나운서\) "wikilink") (남) - [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink")의 아나운서
+  - [김한별](../Page/김한별_\(아나운서\).md "wikilink") (남) - [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink")의 아나운서
   - [임진숙](https://ko.wikipedia.org/wiki/임진숙 "wikilink") (여) - [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink")의 아나운서
 
 ## 역대 MC
@@ -25,7 +25,7 @@
   - [현진우](../Page/현진우.md "wikilink")
   - [임정섭](https://ko.wikipedia.org/wiki/임정섭 "wikilink"), [채윤아](https://ko.wikipedia.org/wiki/채윤아 "wikilink") : [2012년](../Page/2012년.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [3월 22일](../Page/3월_22일.md "wikilink")
   - [임정섭](https://ko.wikipedia.org/wiki/임정섭 "wikilink"), [임진숙](https://ko.wikipedia.org/wiki/임진숙 "wikilink") : [2013년](../Page/2013년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink")
-  - [김한별](https://ko.wikipedia.org/wiki/김한별_\(아나운서\) "wikilink"), [임진숙](https://ko.wikipedia.org/wiki/임진숙 "wikilink") : [2016년](../Page/2016년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") \~ **현재**
+  - [김한별](../Page/김한별_\(아나운서\).md "wikilink"), [임진숙](https://ko.wikipedia.org/wiki/임진숙 "wikilink") : [2016년](../Page/2016년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink") \~ **현재**
 
 ## 외부 링크
 

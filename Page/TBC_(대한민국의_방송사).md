@@ -116,7 +116,7 @@
   - [1995년](../Page/1995년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") 앞산·파동·구지 중계소(TVR) 개소
   - [1995년](../Page/1995년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") 텔레비전 방송 개국
   - [1995년](../Page/1995년.md "wikilink") [5월 30일](../Page/5월_30일.md "wikilink") TBC 서울지사 개소
-  - [1996년](../Page/1996년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") <한국 민영 TV방송 협의회> 창립
+  - [1996년](../Page/1996년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") <한국 민영 TV방송 협의회> 창립
   - [1996년](../Page/1996년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink") 중부취재본부 개소(구미)
   - [1997년](../Page/1997년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") 일본 TV 아사히 계열 방송국 [히로시마 홈TV와](https://ko.wikipedia.org/wiki/히로시마_홈TV "wikilink") 제휴 협정 체결
   - [1997년](../Page/1997년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") TBC 드림 FM 개국 (주파수: 99.3㎒)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [XnView](https://ko.wikipedia.org/wiki/XnView).
 
 
-**XnView**는 범용 파일 관리자의 역할뿐 아니라 [래스터 이미지를](https://ko.wikipedia.org/wiki/래스터_이미지 "wikilink") 보고 변환하고 정리하고 편집하는 목적으로 사용되는 [이미지 오거나이저](https://ko.wikipedia.org/wiki/이미지_오거나이저 "wikilink"), [범용 파일 관리자이다](https://ko.wikipedia.org/wiki/파일_관리자 "wikilink"). [16진 보기](https://ko.wikipedia.org/wiki/헥사_편집기 "wikilink"), [일괄 이름 변경](https://ko.wikipedia.org/wiki/일괄_이름_변경 "wikilink"), [화면 캡처](https://ko.wikipedia.org/wiki/화면_캡처 "wikilink") 도구가 내장되어 있다. 개인, 교육, [비영리](../Page/비영리_단체.md "wikilink") 목적으로는 [프리웨어](../Page/프리웨어.md "wikilink")로 라이선스되지만, 그 외의 경우 [상용 소프트웨어로](https://ko.wikipedia.org/wiki/상용_소프트웨어 "wikilink") 라이선스된다.
+**XnView**는 범용 파일 관리자의 역할뿐 아니라 [래스터 이미지를](https://ko.wikipedia.org/wiki/래스터_이미지 "wikilink") 보고 변환하고 정리하고 편집하는 목적으로 사용되는 [이미지 오거나이저](https://ko.wikipedia.org/wiki/이미지_오거나이저 "wikilink"), [범용 파일 관리자이다](https://ko.wikipedia.org/wiki/파일_관리자 "wikilink"). [16진 보기](https://ko.wikipedia.org/wiki/헥사_편집기 "wikilink"), [일괄 이름 변경](https://ko.wikipedia.org/wiki/일괄_이름_변경 "wikilink"), [화면 캡처](https://ko.wikipedia.org/wiki/화면_캡처 "wikilink") 도구가 내장되어 있다. 개인, 교육, [비영리](../Page/비영리_단체.md "wikilink") 목적으로는 [프리웨어](../Page/프리웨어.md "wikilink")로 라이선스되지만, 그 외의 경우 [상용 소프트웨어로](../Page/상용_소프트웨어.md "wikilink") 라이선스된다.
 
 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [윈도우 모바일](../Page/윈도우_모바일.md "wikilink"), [포켓 PC용으로](../Page/포켓_PC.md "wikilink") 이용 가능하지만 과거에는 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제도 지원하였다.\[1\] XnView의 확장판 XnViewMP는 윈도우, [macOS](https://ko.wikipedia.org/wiki/macOS "wikilink"), [리눅스](../Page/리눅스.md "wikilink")용으로 이용이 가능하다.\[2\]
 

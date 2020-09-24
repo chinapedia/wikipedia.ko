@@ -43,7 +43,7 @@
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | Departures 〜당신에게 보내는 사랑의 노래〜 | 텔레비전 애니메이션 「길티 크라운」1쿨 엔딩 테마                                                                                                     |
 | The Everlasting Guilty Crown | 텔레비전 애니메이션 「길티 크라운」2쿨 오프닝 테마                                                                                                    |
-| 이름 없는 괴물                     | 텔레비전 애니메이션 「[PSYCHO-PASS](../Page/PSYCHO-PASS.md "wikilink")」1쿨 엔딩 테마                                                           |
+| 이름 없는 괴물                     | 텔레비전 애니메이션 「[PSYCHO-PASS](../Page/PSYCHO-PASS.md "wikilink")」1쿨 오프닝 테마                                                          |
 | All Alone With You           | 텔레비전 애니메이션 「[PSYCHO-PASS](../Page/PSYCHO-PASS.md "wikilink")」2쿨 엔딩 테마                                                           |
 | Fallen                       | 텔레비전 애니메이션 「[PSYCHO-PASS](../Page/PSYCHO-PASS.md "wikilink") 2」1쿨 엔딩 테마                                                         |
 | Planetes                     | [PC게임](../Page/PC_게임.md "wikilink") 「[길티 크라운 로스트 크리스마스](https://ko.wikipedia.org/wiki/길티_크라운#게임 "wikilink")」 동고 OVA 「길티 크라운」주제가 |

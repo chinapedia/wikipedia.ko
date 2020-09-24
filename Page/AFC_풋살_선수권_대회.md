@@ -133,6 +133,12 @@
 <strong><a href="../Page/이란_풋살_국가대표팀.md" title="wikilink">이란</a></strong></p></td>
 <td><p><strong>4-0</strong></p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_AFC_풋살_선수권_대회" title="wikilink">2020년</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -287,6 +293,7 @@
 <th><p><a href="https://ko.wikipedia.org/wiki/2014년_AFC_풋살_선수권_대회" title="wikilink">2014</a></p></th>
 <th><p><a href="../Page/2016년_AFC_풋살_선수권_대회.md" title="wikilink">2016</a></p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/2018년_AFC_풋살_선수권_대회" title="wikilink">2018</a></p></th>
+<th><p><a href="https://ko.wikipedia.org/wiki/2020년_AFC_풋살_선수권_대회" title="wikilink">2020</a></p></th>
 <th><p>횟수</p></th>
 </tr>
 </thead>
@@ -300,6 +307,7 @@
 <td></td>
 <td><p>R1</p></td>
 <td><p>R1</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -327,6 +335,7 @@
 <td><p>R1</p></td>
 <td></td>
 <td><p>R1</p></td>
+<td></td>
 <td><p><strong>13</strong></p></td>
 </tr>
 <tr class="odd">
@@ -346,6 +355,7 @@
 <td><p>QF</p></td>
 <td><p>R1</p></td>
 <td><p>QF</p></td>
+<td></td>
 <td><p><strong>11</strong></p></td>
 </tr>
 <tr class="even">
@@ -357,6 +367,7 @@
 <td><p>R1</p></td>
 <td><p>R1</p></td>
 <td><p>R1</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -384,6 +395,7 @@
 <td><p>R1</p></td>
 <td><p>R1</p></td>
 <td><p>R1</p></td>
+<td></td>
 <td><p><strong>12</strong></p></td>
 </tr>
 <tr class="even">
@@ -395,6 +407,7 @@
 <td></td>
 <td><p>R1</p></td>
 <td><p>R1</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -422,6 +435,7 @@
 <td></td>
 <td></td>
 <td><p>R1</p></td>
+<td></td>
 <td><p><strong>1</strong></p></td>
 </tr>
 <tr class="even">
@@ -441,6 +455,7 @@
 <td></td>
 <td></td>
 <td><p>QF</p></td>
+<td></td>
 <td><p><strong>2</strong></p></td>
 </tr>
 <tr class="odd">
@@ -460,6 +475,7 @@
 <td><p>QF</p></td>
 <td><p>4</p></td>
 <td><p>QF</p></td>
+<td></td>
 <td><p><strong>5</strong></p></td>
 </tr>
 <tr class="even">
@@ -471,6 +487,7 @@
 <td></td>
 <td></td>
 <td><p>R1</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -498,6 +515,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td><p><strong>1</strong></p></td>
 </tr>
 <tr class="even">
@@ -505,6 +523,7 @@
 <td><p>R1</p></td>
 <td><p>R1</p></td>
 <td><p>R1</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -536,6 +555,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td><p><strong>1</strong></p></td>
 </tr>
 <tr class="even">
@@ -554,6 +574,7 @@
 <td><p>4</p></td>
 <td><p>QF</p></td>
 <td><p>QF</p></td>
+<td></td>
 <td></td>
 <td><p><strong>7</strong></p></td>
 </tr>
@@ -574,6 +595,7 @@
 <td><p>3</p></td>
 <td><p>2</p></td>
 <td><p>3</p></td>
+<td></td>
 <td><p><strong>13</strong></p></td>
 </tr>
 <tr class="even">
@@ -593,6 +615,7 @@
 <td><p>R1</p></td>
 <td><p>QF</p></td>
 <td><p>4</p></td>
+<td></td>
 <td><p><strong>9</strong></p></td>
 </tr>
 <tr class="odd">
@@ -612,6 +635,7 @@
 <td><p>2</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
+<td></td>
 <td><p><strong>13</strong></p></td>
 </tr>
 <tr class="even">
@@ -629,6 +653,7 @@
 <td><p>R1</p></td>
 <td><p>R1</p></td>
 <td><p>R1</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p><strong>9</strong></p></td>
@@ -650,6 +675,7 @@
 <td><p>1</p></td>
 <td><p>QF</p></td>
 <td><p>2</p></td>
+<td></td>
 <td><p><strong>13</strong></p></td>
 </tr>
 <tr class="even">
@@ -669,6 +695,7 @@
 <td><p>R1</p></td>
 <td><p>R1</p></td>
 <td><p>R1</p></td>
+<td></td>
 <td><p><strong>12</strong></p></td>
 </tr>
 <tr class="odd">
@@ -688,6 +715,7 @@
 <td><p>R1</p></td>
 <td><p>R1</p></td>
 <td><p>R1</p></td>
+<td></td>
 <td><p><strong>12</strong></p></td>
 </tr>
 <tr class="even">
@@ -695,6 +723,7 @@
 <td><p>3</p></td>
 <td><p>2</p></td>
 <td><p>QF</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -726,6 +755,7 @@
 <td></td>
 <td><p>R1</p></td>
 <td></td>
+<td></td>
 <td><p><strong>3</strong></p></td>
 </tr>
 <tr class="even">
@@ -736,6 +766,7 @@
 <td></td>
 <td></td>
 <td><p>R1</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -764,6 +795,7 @@
 <td><p>4</p></td>
 <td></td>
 <td></td>
+<td></td>
 <td><p><strong>2</strong></p></td>
 </tr>
 <tr class="even">
@@ -783,6 +815,7 @@
 <td><p>R1</p></td>
 <td><p>QF</p></td>
 <td><p>R1</p></td>
+<td></td>
 <td><p><strong>15</strong></p></td>
 </tr>
 <tr class="odd">
@@ -802,6 +835,7 @@
 <td><p>R1</p></td>
 <td><p>R1</p></td>
 <td><p>R1</p></td>
+<td></td>
 <td><p><strong>10</strong></p></td>
 </tr>
 <tr class="even">
@@ -821,6 +855,7 @@
 <td><p>QF</p></td>
 <td><p>3</p></td>
 <td><p>QF</p></td>
+<td></td>
 <td><p><strong>15</strong></p></td>
 </tr>
 <tr class="odd">
@@ -840,6 +875,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td><p><strong>6</strong></p></td>
 </tr>
 <tr class="even">
@@ -851,6 +887,7 @@
 <td><p>R1</p></td>
 <td></td>
 <td><p>R1</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -878,6 +915,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td><p><strong>3</strong></p></td>
 </tr>
 <tr class="even">
@@ -897,6 +935,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td><p><strong>5</strong></p></td>
 </tr>
 <tr class="odd">
@@ -908,6 +947,7 @@
 <td><p>16</p></td>
 <td><p>18</p></td>
 <td><p>24</p></td>
+<td><p>16</p></td>
 <td><p>16</p></td>
 <td><p>16</p></td>
 <td><p>16</p></td>

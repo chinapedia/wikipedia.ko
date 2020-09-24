@@ -30,7 +30,7 @@
 5.  **반응이 없는 사랑**()
       -
         [딘의](https://ko.wikipedia.org/wiki/딘_\(음악_그룹\) "wikilink") 〈[반응이 없는 사랑](https://ko.wikipedia.org/wiki/테고타에노나이아이 "wikilink")〉의 셀프 커버.
-        처음에는 [타이업](https://ko.wikipedia.org/wiki/타이업 "wikilink")이 아니였지만, 음반 발매 후에 같은 곡이 게임 회사 [톤킨하우스](https://ko.wikipedia.org/wiki/톤킨하우스 "wikilink")사에서 주목되어, 후에 [톤킨하우스](https://ko.wikipedia.org/wiki/톤킨하우스 "wikilink") [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")용 게임 소프트웨어 《[L의 계절](https://ko.wikipedia.org/wiki/L의_계절 "wikilink")》 테마송으로 사용이 된다.
+        처음에는 [타이업](https://ko.wikipedia.org/wiki/타이업 "wikilink")이 아니였지만, 음반 발매 후에 같은 곡이 게임 회사 [톤킨하우스](https://ko.wikipedia.org/wiki/톤킨하우스 "wikilink")사에서 주목되어, 후에 [톤킨하우스](https://ko.wikipedia.org/wiki/톤킨하우스 "wikilink") [플레이스테이션](../Page/플레이스테이션.md "wikilink")용 게임 소프트웨어 《[L의 계절](https://ko.wikipedia.org/wiki/L의_계절 "wikilink")》 테마송으로 사용이 된다.
 6.  **당신의 리듬**()
 7.  **[1만 미터의 경치](https://ko.wikipedia.org/wiki/anybody's_game "wikilink")**()
       -

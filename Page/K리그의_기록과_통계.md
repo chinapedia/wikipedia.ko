@@ -33,7 +33,7 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/K리그1" title="wikilink">K리그1</a></p></td>
 <td><p><a href="../Page/K리그2.md" title="wikilink">K리그2</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></td>
+<td><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></td>
 <td><p><a href="../Page/리그컵_(대한민국).md" title="wikilink">리그컵</a>†</p></td>
 <td><p><a href="../Page/슈퍼컵_(대한민국).md" title="wikilink">슈퍼컵</a>†</p></td>
 </tr>

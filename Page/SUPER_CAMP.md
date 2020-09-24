@@ -188,7 +188,7 @@
 ## 제작
 
   - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") ([이특](../Page/이특.md "wikilink"), [희철](../Page/김희철_\(가수\).md "wikilink"), [예성](../Page/예성.md "wikilink"), [강인](../Page/강인_\(가수\).md "wikilink")\[2\], [은혁](../Page/은혁.md "wikilink")\[3\], [시원](../Page/시원_\(가수\).md "wikilink")\[4\], [동해](../Page/동해_\(가수\).md "wikilink")\[5\], [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink"))
-  - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
+  - 주최 : [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink")
   - 주관 : 드림메이커
   - 후원
       - 서울 : [YES24](../Page/YES24.md "wikilink")

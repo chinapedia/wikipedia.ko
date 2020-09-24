@@ -39,7 +39,7 @@
 
 1.  "Not This Way 이런식으론 안돼요 (스위스 · Mariella Farre)" (미상 작사 / 미상 작곡) ***- 대상 수상***
 2.  "France My Land 나의 조국 프랑스 (프랑스 · Christian Holl)" (미상 작사 / 미상 작곡) ***- 은상 수상***
-3.  "Wind Bird 바람새 (한국 · 방미)" ([김영민](https://ko.wikipedia.org/wiki/김영민 "wikilink") 작사 / [민재홍](https://ko.wikipedia.org/wiki/민재홍 "wikilink") 작곡) ***- 빌보드 특별상 수상***
+3.  "Wind Bird 바람새 (한국 · 방미)" ([김영민](../Page/김영민.md "wikilink") 작사 / [민재홍](https://ko.wikipedia.org/wiki/민재홍 "wikilink") 작곡) ***- 빌보드 특별상 수상***
 4.  "Riding on The Wings of Love 사랑의 날개를 타고 (미국 · Franne Golde)" (미상 작사 / 미상 작곡) ***- 동상 수상***
 5.  "You Are 당신이예요 (캐나다 · Andy Kim)" (미상 작사 / 미상 작곡) ***- 특별상 수상***
 6.  "Dancing to The Beat of My heart 내가슴 고동소리에 맞춰 춤춰요 (영국 · Jacqui Copeland)" (미상 작사 / 미상 작곡)

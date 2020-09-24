@@ -2304,7 +2304,7 @@ M2</p></td>
 <li><a href="https://www.youtube.com/watch?v=l57L5Z3qzIg">DAY6 〈TT + KNOCK KNOCK + SIGNAL〉</a><br />
 </li>
 </ul></td>
-<td><p>원곡 : <a href="https://ko.wikipedia.org/wiki/트와이스" title="wikilink">트와이스</a></p></td>
+<td><p>원곡 : <a href="../Page/트와이스.md" title="wikilink">트와이스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS" title="wikilink">KBS</a><br />
 </p></td>
 <td><p><a href="../Page/뮤직뱅크.md" title="wikilink">뮤직뱅크</a></p></td>
@@ -3176,6 +3176,7 @@ M2</p></td>
 
 ## 외부 링크
 
+  -
   -
   -
   -

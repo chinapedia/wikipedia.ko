@@ -666,7 +666,7 @@
 
 ### 역대 최다출장자
 
-<small>[K리그와](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 기록이 포함된 기록이다.
+<small>[K리그와](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") [FA컵](../Page/FA컵_\(대한민국\).md "wikilink") 기록이 포함된 기록이다.
 *2020년 2월 10일 기준*</small>
 
 <table>
@@ -774,7 +774,7 @@
 
 ### 역대 최다 득점
 
-<small>[K리그와](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 기록이 포함된 기록이다.</small>
+<small>[K리그와](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") [FA컵](../Page/FA컵_\(대한민국\).md "wikilink") 기록이 포함된 기록이다.</small>
 
 <table>
 <thead>
@@ -857,7 +857,7 @@
 
 ### 역대 최다 도움
 
-<small>[K리그와](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 기록이 포함된 기록이다.</small>
+<small>[K리그와](https://ko.wikipedia.org/wiki/K리그_챌린지 "wikilink") [FA컵](../Page/FA컵_\(대한민국\).md "wikilink") 기록이 포함된 기록이다.</small>
 
 <table>
 <thead>
@@ -1170,14 +1170,14 @@
 
 ### K리그 성적
 
-| rowspan="2" scope="col" style="color:\#ffffff; background:\#000430|시즌 | colspan="10" scope="col" style="color:\#ffffff; background:\#000430|리그 | rowspan="2" scope="col" style="color:\#ffffff; background:\#000430|[<span style="color:#ffffff">FA컵</span>](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") | rowspan="2" scope="col" style="color:\#ffffff; background:\#000430|[<span style="color:#ffffff">ACL</span>](../Page/AFC_챔피언스리그.md "wikilink") |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| style="color:\#ffffff; background:\#000430|디비전                        | style="color:\#ffffff; background:\#000430|경기                          | style="color:\#ffffff; background:\#000430|승                                                                                                                       | style="color:\#ffffff; background:\#000430|무                                                                                                  |
-| 2015                                                                  | [2](../Page/K리그2.md "wikilink")                                        | 40                                                                                                                                                                 | 16                                                                                                                                            |
-| 2016                                                                  | 40                                                                     | 17                                                                                                                                                                 | 13                                                                                                                                            |
-| 2017                                                                  | 36                                                                     | 7                                                                                                                                                                  | 14                                                                                                                                            |
-| 2018                                                                  | 36                                                                     | 10                                                                                                                                                                 | 7                                                                                                                                             |
-| 2019                                                                  | 36                                                                     | 5                                                                                                                                                                  | 10                                                                                                                                            |
+| rowspan="2" scope="col" style="color:\#ffffff; background:\#000430|시즌 | colspan="10" scope="col" style="color:\#ffffff; background:\#000430|리그 | rowspan="2" scope="col" style="color:\#ffffff; background:\#000430|[<span style="color:#ffffff">FA컵</span>](../Page/FA컵_\(대한민국\).md "wikilink") | rowspan="2" scope="col" style="color:\#ffffff; background:\#000430|[<span style="color:#ffffff">ACL</span>](../Page/AFC_챔피언스리그.md "wikilink") |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| style="color:\#ffffff; background:\#000430|디비전                        | style="color:\#ffffff; background:\#000430|경기                          | style="color:\#ffffff; background:\#000430|승                                                                                                    | style="color:\#ffffff; background:\#000430|무                                                                                                  |
+| 2015                                                                  | [2](../Page/K리그2.md "wikilink")                                        | 40                                                                                                                                              | 16                                                                                                                                            |
+| 2016                                                                  | 40                                                                     | 17                                                                                                                                              | 13                                                                                                                                            |
+| 2017                                                                  | 36                                                                     | 7                                                                                                                                               | 14                                                                                                                                            |
+| 2018                                                                  | 36                                                                     | 10                                                                                                                                              | 7                                                                                                                                             |
+| 2019                                                                  | 36                                                                     | 5                                                                                                                                               | 10                                                                                                                                            |
 
 ## 경기장
 

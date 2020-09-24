@@ -3,7 +3,7 @@
 
 **example.com**, **example.net**, **example.org**, **example.edu**는 도메인 이름을 사용할 때의 문서화 목적 및 예제를 위해 예비된 [2단계](https://ko.wikipedia.org/wiki/2단계_도메인 "wikilink") [도메인 네임이다](../Page/도메인_네임.md "wikilink").
 
-[최상위 도메인](https://ko.wikipedia.org/wiki/최상위_도메인 "wikilink") [com](../Page/.com.md "wikilink"), [net](https://ko.wikipedia.org/wiki/.net "wikilink"), [org를](https://ko.wikipedia.org/wiki/.org "wikilink") 위한 2차 도메인 레이블 example은 1999년 [국제 인터넷 표준화 기구](../Page/국제_인터넷_표준화_기구.md "wikilink")(IETF)에 의해 RFC 2606, 섹션 3\[1\]으로 예비되었으며, [edu](../Page/.edu.md "wikilink") 도메인의 경우 [ICANN](https://ko.wikipedia.org/wiki/ICANN "wikilink")에 의해 2000년부터 예비되었다.
+[최상위 도메인](https://ko.wikipedia.org/wiki/최상위_도메인 "wikilink") [com](../Page/.com.md "wikilink"), [net](../Page/.net.md "wikilink"), [org를](../Page/.org.md "wikilink") 위한 2차 도메인 레이블 example은 1999년 [국제 인터넷 표준화 기구](../Page/국제_인터넷_표준화_기구.md "wikilink")(IETF)에 의해 RFC 2606, 섹션 3\[1\]으로 예비되었으며, [edu](../Page/.edu.md "wikilink") 도메인의 경우 [ICANN](https://ko.wikipedia.org/wiki/ICANN "wikilink")에 의해 2000년부터 예비되었다.
 
 예비를 구현함으로써, [IANA](https://ko.wikipedia.org/wiki/IANA "wikilink")는 이용 가능한 도메인들이 [기술적](https://ko.wikipedia.org/wiki/기술_문서 "wikilink") [소프트웨어 문서화](https://ko.wikipedia.org/wiki/소프트웨어_문서화 "wikilink"), 매뉴얼, 샘플 소프트웨어 구성에 사용할 수 있게 한다. 그러므로 [문서 작성자는](../Page/테크니컬_라이터.md "wikilink") 최종 사용자가 샘플 구성 등을 사용하려고 할 때 네이밍 충돌 없이 도메인 이름을 선택할 수 있게 할 수 있다.
 

@@ -66,7 +66,7 @@
   - 2000년 7월 18일 H.O.T. - **평화의 시대 OST (Age Of Peace)**
   - 2000년 7월 21일 김민종 - **6th One Plus One (Repackage)**
   - 2000년 8월 2일 S.E.S. - **Lovin\`You**
-  - 2000년 8월 25일 [보아](../Page/보아.md "wikilink") - **[ID; Peace B](https://ko.wikipedia.org/wiki/ID;_Peace_B_\(보아의_음반\) "wikilink")**
+  - 2000년 8월 25일 [보아](../Page/보아.md "wikilink") - **[ID; Peace B](../Page/ID;_Peace_B.md "wikilink")**
   - 2000년 9월 ?일 @ - **골뱅이 @**
   - 2000년 10월 2일 H.O.T. - **Outside Castle**
   - 2000년 11월 27일 [윤다훈](../Page/윤다훈.md "wikilink") - **새친구 Carol**\[3\]
@@ -1134,11 +1134,14 @@
   - 2020년 9월 1일 Super M - **\[Digital Single\] 호랑이**
   - 2020년 9월 3일 슈퍼주니어-D\&E - **BAD BLOOD**
   - 2020년 9월 7일 태민 - **Never Gonna Dance Again : Act 1**
+  - 2020년 9월 8일 첸 - **브람스를 좋아하세요? OST Part.3**
+  - 2020년 9월 15일 태연 - **브람스를 좋아하세요? OST Part.5**
   - 2020년 9월 25일 Super M - **Super One**
+  - 2020년 9월 28일 슈퍼주니어-D\&E - **미정**
+  - 2020년 10월 8일 규현 - **\[Digital Single\] 미정**\[172\]
+  - 2020년 10월 ?일 NCT - **미정**
   - 2020년 ?월 ?일 태민 - **Never Gonna Dance Again : Act 2**
   - 2020년 ?월 ?일 [카이](../Page/카이_\(1994년\).md "wikilink") - **미정**
-  - 2020년 ?월 ?일 레드벨벳 - **미정**
-  - 2020년 ?월 ?일 샤이니 - **미정**
 
 ## 각주
 
@@ -1234,7 +1237,7 @@
 88. [N.EX.T](../Page/N.EX.T.md "wikilink")의 멤버 [김세황](../Page/김세황.md "wikilink")도 앨범 참여.
 89. 효연의 데뷔 10주년 앨범.
 90. [UV도](https://ko.wikipedia.org/wiki/UV_\(음악_그룹\) "wikilink") 앨범 참여.
-91. [B1A4](../Page/B1A4.md "wikilink")의 멤버 [진영](../Page/진영_\(1991년\).md "wikilink"), [오마이걸](../Page/오마이걸.md "wikilink")의 멤버 [유아](../Page/유아_\(가수\).md "wikilink"),[소나무의](../Page/소나무_\(음악_그룹\).md "wikilink") 멤버 [디애나](https://ko.wikipedia.org/wiki/디애나_\(가수\) "wikilink"), [I.B.I](https://ko.wikipedia.org/wiki/I.B.I "wikilink")와 [C.I.V.A](https://ko.wikipedia.org/wiki/C.I.V.A "wikilink")의 멤버 [김소희](../Page/소희_\(1995년\).md "wikilink"), [러블리즈](../Page/러블리즈.md "wikilink")의 멤버 [류수정](../Page/류수정.md "wikilink"), [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")와[언니쓰](https://ko.wikipedia.org/wiki/언니쓰 "wikilink")의 멤버 [전소미도](https://ko.wikipedia.org/wiki/소미 "wikilink") 앨범 참여.
+91. [B1A4](../Page/B1A4.md "wikilink")의 멤버 [진영](../Page/진영_\(1991년\).md "wikilink"), [오마이걸](../Page/오마이걸.md "wikilink")의 멤버 [유아](../Page/유아_\(가수\).md "wikilink"),[소나무의](../Page/소나무_\(음악_그룹\).md "wikilink") 멤버 [디애나](../Page/디애나_\(가수\).md "wikilink"), [I.B.I](https://ko.wikipedia.org/wiki/I.B.I "wikilink")와 [C.I.V.A](https://ko.wikipedia.org/wiki/C.I.V.A "wikilink")의 멤버 [김소희](../Page/소희_\(1995년\).md "wikilink"), [러블리즈](../Page/러블리즈.md "wikilink")의 멤버 [류수정](../Page/류수정.md "wikilink"), [I.O.I](https://ko.wikipedia.org/wiki/I.O.I "wikilink")와[언니쓰](https://ko.wikipedia.org/wiki/언니쓰 "wikilink")의 멤버 [전소미도](https://ko.wikipedia.org/wiki/소미 "wikilink") 앨범 참여.
 92. [매드 클라운도](../Page/매드_클라운.md "wikilink") 앨범 참여.
 93. [Sik-K](https://ko.wikipedia.org/wiki/Sik-K "wikilink")도 앨범 참여.
 94. [박재정](https://ko.wikipedia.org/wiki/박재정 "wikilink")도 앨범 참여.
@@ -1315,3 +1318,4 @@
 169. 정규 3집 선공개곡.
 170. [빅스의](../Page/빅스_\(음악_그룹\).md "wikilink") 멤버 [라비](../Page/라비_\(가수\).md "wikilink"),[업텐션](../Page/업텐션.md "wikilink")의 멤버 [김우석](https://ko.wikipedia.org/wiki/김우석 "wikilink")도 앨범 참여.
 171. 보아 20주년 기념 프로젝트 '아워 비러브드 보아'(Our Beloved BoA) 앨범.
+172. PROJECT : 季 앨범.

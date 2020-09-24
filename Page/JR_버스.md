@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JR 버스](https://ko.wikipedia.org/wiki/JR_버스).
 
 
-**JR 버스**()는 [JR 그룹의](https://ko.wikipedia.org/wiki/JR_그룹 "wikilink") 여객철도 6개사의 [자회사](https://ko.wikipedia.org/wiki/자회사 "wikilink")가 운영하는 [버스](../Page/버스.md "wikilink")의 총칭이다. 약칭 JR-B이다.
+**JR 버스**()는 [JR 그룹의](https://ko.wikipedia.org/wiki/JR_그룹 "wikilink") 여객철도 6개사의 [자회사](https://ko.wikipedia.org/wiki/자회사 "wikilink")가 운영하는 [버스](../Page/버스.md "wikilink")의 총칭이다. 약칭은 JR-B이다.
 
 원래는 [일본국유철도](../Page/일본국유철도.md "wikilink")가 철도 노선의 선행 개업 등으로 운행하던 [국철버스](https://ko.wikipedia.org/wiki/국철버스 "wikilink")를 1987년 4월의 분할 민영화 당시, JR 여객철도 회사가 사업을 계승한 것이다. 이후 [JR 동일본](https://ko.wikipedia.org/wiki/JR_동일본 "wikilink"), [JR 도카이](https://ko.wikipedia.org/wiki/JR_도카이 "wikilink"), [JR 서일본은](https://ko.wikipedia.org/wiki/JR_서일본 "wikilink") 이듬해 4월에 자회사를 설립하고 버스 사업을 양도하였으나, [JR 홋카이도](https://ko.wikipedia.org/wiki/JR_홋카이도 "wikilink"), [JR 시코쿠](https://ko.wikipedia.org/wiki/JR_시코쿠 "wikilink"), [JR 큐슈는](https://ko.wikipedia.org/wiki/JR_큐슈 "wikilink") 당분간 직영으로 운영하였다가 [2004년](../Page/2004년.md "wikilink") JR 시코쿠를 마지막으로 버스 사업의 분사화가 모두 완료되었다.
 

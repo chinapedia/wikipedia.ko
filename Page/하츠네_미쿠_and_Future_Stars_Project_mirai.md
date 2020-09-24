@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [하츠네 미쿠 and Future Stars Project mirai](https://ko.wikipedia.org/wiki/하츠네_미쿠_and_Future_Stars_Project_mirai).
 
 
-《**하츠네 미쿠 and Future Stars Project mirai**》(하츠네 미쿠 앤드 퓨처 스타즈 프로젝트 미라이)는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") 발매 한 [닌텐도 3DS](../Page/닌텐도_3DS.md "wikilink") 용 음악 게임이다. [2013년](../Page/2013년.md "wikilink") [11월 28일에는](../Page/11월_28일.md "wikilink") 《**하츠네 미쿠 Project mirai 2**》가 발매 되었으며 [2015년](../Page/2015년.md "wikilink") [5월 28일에](../Page/5월_28일.md "wikilink") 《**하츠네 미쿠 Project mirai 디럭스**》가 한국과 일본에 동시발매 되었다. 북미에는 [2015년](../Page/2015년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink"), 유럽에는 [2015년](../Page/2015년.md "wikilink") [9월 11일에](../Page/9월_11일.md "wikilink") 발매되었다.
+《**하츠네 미쿠 and Future Stars Project mirai**》(하츠네 미쿠 앤드 퓨처 스타즈 프로젝트 미라이)는 [세가](../Page/세가.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [3월 8일](../Page/3월_8일.md "wikilink") 발매 한 [닌텐도 3DS](../Page/닌텐도_3DS.md "wikilink") 용 음악 게임이다. [2013년](../Page/2013년.md "wikilink") [11월 28일에는](../Page/11월_28일.md "wikilink") 《**하츠네 미쿠 Project mirai 2**》가 발매 되었으며 [2015년](../Page/2015년.md "wikilink") [5월 28일에](../Page/5월_28일.md "wikilink") 《**하츠네 미쿠 Project mirai 디럭스**》가 한국과 일본에 동시발매 되었다. 북미에는 [2015년](../Page/2015년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink"), 유럽에는 [2015년](../Page/2015년.md "wikilink") [9월 11일에](../Page/9월_11일.md "wikilink") 발매되었다.
 
 ## 개요
 

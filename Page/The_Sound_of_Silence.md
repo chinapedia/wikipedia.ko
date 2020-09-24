@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [The Sound of Silence](https://ko.wikipedia.org/wiki/The_Sound_of_Silence).
 
 
-〈**The Sound of Silence**〉은** **미국의 2인조 음악 그룹 [사이먼 & 가펑클의](../Page/사이먼_&_가펑클.md "wikilink") 곡이다. 곡은 [폴 사이먼이](../Page/폴_사이먼.md "wikilink") 1963년과 1964년까지 몇달의 기간에 걸쳐 썼다. 스튜디오 오디션을 통해 사이먼 & 가펑클은 [컬럼비아 레코드와](../Page/컬럼비아_레코드.md "wikilink") 음반 계약을 맺었고, 1964년 3월 뉴욕 시의 컬럼비아 스튜디오에서 자신들의 데뷔 앨범 《[Wednesday Morning, 3 A.M.](https://ko.wikipedia.org/wiki/Wednesday_Morning,_3_A.M. "wikilink")》에 수록시키기 위해 녹음되었다.
+〈**The Sound of Silence**〉은** **미국의 2인조 음악 그룹 [사이먼 & 가펑클의](../Page/사이먼_&_가펑클.md "wikilink") 곡이다. 곡은 [폴 사이먼이](../Page/폴_사이먼.md "wikilink") 1963년과 1964년까지 몇달의 기간에 걸쳐 썼다. 스튜디오 오디션을 통해 사이먼 & 가펑클은 [컬럼비아 레코드와](../Page/컬럼비아_레코드.md "wikilink") 음반 계약을 맺었고, 1964년 3월 뉴욕 시의 컬럼비아 스튜디오에서 자신들의 데뷔 앨범 《[Wednesday Morning, 3 A.M.](../Page/Wednesday_Morning,_3_A.M..md "wikilink")》에 수록시키기 위해 녹음되었다.
 
 음반은 1964년 10월에 발매되었고, 상업적으로 실패해 그룹이 해체되는 결말을 낳았다. 폴 사이먼과 아트 가펑클은 자신의 스튜디오가 있는 영국의 컬럼비아 레코드로 돌아갔다. 1965년 봄, 매사추세츠와 플로리다 전역의 방송국에서 방송되기 시작하며 관심을 끌어들인다. 늘어나는 방송 횟수는 곡의 프로듀서 톰 윌슨이 주도했으며, 곡을 [밥 딜런의](../Page/밥_딜런.md "wikilink") 〈[Like a Rolling Stone](../Page/Like_a_Rolling_Stone.md "wikilink")〉에 참여했던 음악가와 함께 리믹스하고 전기 악기로 오버더빙해 1965년 9월에 발매했다. 사이먼 & 가펑클은 발매될 때까지 아무런 말도 듣지 못했다.
 

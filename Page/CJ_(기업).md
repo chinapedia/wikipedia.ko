@@ -22,7 +22,7 @@
   - [1987년](../Page/1987년.md "wikilink"): [게토레이](../Page/게토레이.md "wikilink") 도입 및 [음료](https://ko.wikipedia.org/wiki/음료 "wikilink") 사업 시작, 미국 호멜사와 기술 제휴 및 [스팸](../Page/스팸.md "wikilink") 도입
   - [1991년](../Page/1991년.md "wikilink"): 일본[라이온사](../Page/라이온_\(기업\).md "wikilink") 기술제휴로 생활화학 시작 (제일제당 생활사업부)
   - [1991년](../Page/1991년.md "wikilink"): 농축 분말 [세제](https://ko.wikipedia.org/wiki/세제 "wikilink") 비트 및 주방세제 참그린 출시
-  - [1993년](../Page/1993년.md "wikilink") 6월: 삼성그룹에서 분리
+  - [1993년](../Page/1993년.md "wikilink") 6월: [삼성그룹](../Page/삼성그룹.md "wikilink")에서 분리
   - [1994년](../Page/1994년.md "wikilink"): 외식 사업 시작
   - [1994년](../Page/1994년.md "wikilink"): [단체급식](../Page/급식.md "wikilink") 사업 시작
   - [1995년](../Page/1995년.md "wikilink"): [드림웍스](../Page/드림웍스.md "wikilink")와 배급계약 체결

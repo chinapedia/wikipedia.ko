@@ -1869,10 +1869,10 @@
 **5월**
 
   - 5월 1일 (861회) - [정은지](https://ko.wikipedia.org/wiki/정은지 "wikilink") 하늘바라기
-  - 5월 8일 (862회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Cheer Up
+  - 5월 8일 (862회) - [트와이스](../Page/트와이스.md "wikilink") Cheer Up
   - 5월 15일 (863회) - [방탄소년단](../Page/방탄소년단.md "wikilink") 불타오르네
-  - 5월 22일 (864회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Cheer Up (통산 2주)
-  - 5월 29일 (865회) - **[트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Cheer Up (연속 2주, 통산 3주)**
+  - 5월 22일 (864회) - [트와이스](../Page/트와이스.md "wikilink") Cheer Up (통산 2주)
+  - 5월 29일 (865회) - **[트와이스](../Page/트와이스.md "wikilink") Cheer Up (연속 2주, 통산 3주)**
 
 **6월**
 
@@ -1913,9 +1913,9 @@
 
 **11월**
 
-  - 11월 6일 (887회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") TT
-  - 11월 13일 (888회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") TT (2주 연속)
-  - 11월 20일 (889회) - **[트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") TT (3주 연속)**
+  - 11월 6일 (887회) - [트와이스](../Page/트와이스.md "wikilink") TT
+  - 11월 13일 (888회) - [트와이스](../Page/트와이스.md "wikilink") TT (2주 연속)
+  - 11월 20일 (889회) - **[트와이스](../Page/트와이스.md "wikilink") TT (3주 연속)**
   - 11월 27일 (890회) - [블랙핑크](../Page/블랙핑크.md "wikilink") 불장난
 
 **12월**
@@ -1944,9 +1944,9 @@
 
 **3월**
 
-  - 3월 5일 (902회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Knock Knock
-  - 3월 12일 (903회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Knock Knock (2주 연속)
-  - 3월 19일 - **[트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Knock Knock (3주 연속)**\[97\]
+  - 3월 5일 (902회) - [트와이스](../Page/트와이스.md "wikilink") Knock Knock
+  - 3월 12일 (903회) - [트와이스](../Page/트와이스.md "wikilink") Knock Knock (2주 연속)
+  - 3월 19일 - **[트와이스](../Page/트와이스.md "wikilink") Knock Knock (3주 연속)**\[97\]
   - 3월 26일 (904회) - [정키](../Page/정키.md "wikilink") 부담이 돼
 
 **4월**
@@ -1962,12 +1962,12 @@
   - 5월 7일 (909회) - [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 팔레트 (2주 연속)
   - 5월 14일 (910회) - **[아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 팔레트 (3주 연속)**
   - 5월 21일 (911회) - [싸이](../Page/싸이.md "wikilink") I LUV IT
-  - 5월 28일 (912회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Signal
+  - 5월 28일 (912회) - [트와이스](../Page/트와이스.md "wikilink") Signal
 
 **6월**
 
-  - 6월 4일 (913회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Signal (2주 연속)
-  - 6월 11일 (914회) - **[트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Signal (3주 연속)**
+  - 6월 4일 (913회) - [트와이스](../Page/트와이스.md "wikilink") Signal (2주 연속)
+  - 6월 11일 (914회) - **[트와이스](../Page/트와이스.md "wikilink") Signal (3주 연속)**
   - 6월 18일 (915회) - [지드래곤](../Page/지드래곤.md "wikilink") 무제
   - 6월 25일 (916회) - [지드래곤](../Page/지드래곤.md "wikilink") 무제 (2주 연속)
 
@@ -2004,23 +2004,23 @@
 **11월**
 
   - 11월 5일 (933회) - [비투비](../Page/비투비.md "wikilink") 그리워하다 (2주 연속)
-  - 11월 12일 (934회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") LIKEY
-  - 11월 19일 (935회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") LIKEY (2주 연속)
-  - 11월 26일 (936회) - **[트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") LIKEY (3주 연속)**
+  - 11월 12일 (934회) - [트와이스](../Page/트와이스.md "wikilink") LIKEY
+  - 11월 19일 (935회) - [트와이스](../Page/트와이스.md "wikilink") LIKEY (2주 연속)
+  - 11월 26일 (936회) - **[트와이스](../Page/트와이스.md "wikilink") LIKEY (3주 연속)**
 
 **12월**
 
   - 12월 3일 (937회) - [윤종신](../Page/윤종신.md "wikilink")·[민서](../Page/민서.md "wikilink") 좋아
   - 12월 10일 (938회) - [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 피카부
   - 12월 17일 (939회) - [자이언티](../Page/자이언티.md "wikilink")·[이문세](../Page/이문세.md "wikilink") 눈
-  - 12월 24일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Heart Shaker\[103\]
-  - 12월 31일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Heart Shaker (2주 연속)\[104\]
+  - 12월 24일 - [트와이스](../Page/트와이스.md "wikilink") Heart Shaker\[103\]
+  - 12월 31일 - [트와이스](../Page/트와이스.md "wikilink") Heart Shaker (2주 연속)\[104\]
 
 ### 2018년
 
 **1월**
 
-  - 1월 7일 (940회) - **[트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Heart Shaker (3주 연속)**
+  - 1월 7일 (940회) - **[트와이스](../Page/트와이스.md "wikilink") Heart Shaker (3주 연속)**
   - 1월 14일 (941회) - [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") 피카부 (통산 2주)
   - 1월 21일 (942회) - [인피니트](../Page/인피니트.md "wikilink") Tell Me
   - 1월 28일 (943회) - [선미](../Page/선미.md "wikilink") 주인공
@@ -2044,12 +2044,12 @@
   - 4월 1일 (951회) - **[마마무](../Page/마마무.md "wikilink") 별이 빛나는 밤 (3주 연속)**
   - 4월 8일 (952회) - [모모랜드](../Page/모모랜드.md "wikilink") 뿜뿜 (통산 2주)
   - 4월 15일 (953회) - [위너](../Page/위너_\(음악_그룹\).md "wikilink") EVERYDAY
-  - 4월 22일 (954회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") What is Love?
-  - 4월 29일 (955회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") What is Love? (2주 연속)
+  - 4월 22일 (954회) - [트와이스](../Page/트와이스.md "wikilink") What is Love?
+  - 4월 29일 (955회) - [트와이스](../Page/트와이스.md "wikilink") What is Love? (2주 연속)
 
 **5월**
 
-  - 5월 6일 (956회) - **[트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") What is Love? (3주 연속)**
+  - 5월 6일 (956회) - **[트와이스](../Page/트와이스.md "wikilink") What is Love? (3주 연속)**
   - 5월 13일 (957회) - [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 밤
   - 5월 20일 (958회) - [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 밤 (2주 연속)
   - 5월 27일 (959회) - [방탄소년단](../Page/방탄소년단.md "wikilink") Fake Love
@@ -2066,12 +2066,12 @@
   - 7월 1일 (964회) - [블랙핑크](../Page/블랙핑크.md "wikilink") 뚜두뚜두 (2주 연속)
   - 7월 8일 (965회) - **[블랙핑크](../Page/블랙핑크.md "wikilink") 뚜두뚜두 (3주 연속)**
   - 7월 15일 (966회) - [에이핑크](../Page/에이핑크.md "wikilink") 1도 없어
-  - 7월 22일 (967회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Dance the night away
-  - 7월 29일 (968회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Dance the night away (2주 연속)
+  - 7월 22일 (967회) - [트와이스](../Page/트와이스.md "wikilink") Dance the night away
+  - 7월 29일 (968회) - [트와이스](../Page/트와이스.md "wikilink") Dance the night away (2주 연속)
 
 **8월**
 
-  - 8월 5일 (969회) - **[트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Dance the night away (3주 연속)**
+  - 8월 5일 (969회) - **[트와이스](../Page/트와이스.md "wikilink") Dance the night away (3주 연속)**
   - 8월 12일 (970회) - [지코](../Page/지코.md "wikilink") SoulMate
   - 8월 19일 - [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") Power Up\[106\]
   - 8월 26일 (971회) - [레드벨벳](../Page/레드벨벳_\(음악_그룹\).md "wikilink") Power Up (2주 연속)
@@ -2095,7 +2095,7 @@
 
   - 11월 4일 - **[아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐 (3주 연속)**\[108\]
   - 11월 11일 (980회) - [폴 킴](../Page/폴_킴_\(1988년\).md "wikilink") 너를 만나
-  - 11월 18일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Yes Or Yes\[109\]
+  - 11월 18일 - [트와이스](../Page/트와이스.md "wikilink") Yes Or Yes\[109\]
   - 11월 25일 (981회) - [제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO
 
 **12월**
@@ -2139,7 +2139,7 @@
 
 **5월**
 
-  - 5월 5일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") FANCY\[113\]
+  - 5월 5일 - [트와이스](../Page/트와이스.md "wikilink") FANCY\[113\]
   - 5월 12일 (1001회) - [방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시 (통산 2주)
   - 5월 19일 (1002회) - **[방탄소년단](../Page/방탄소년단.md "wikilink") 작은 것들을 위한 시 (2주 연속, 통산 3주)**
   - 5월 26일 (1003회) - [블랙핑크](../Page/블랙핑크.md "wikilink") Kill This Love (통산 2주)
@@ -2176,8 +2176,8 @@
 
 **10월**
 
-  - 10월 6일 (1020회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Feel Special
-  - 10월 13일 - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Feel Special (2주 연속)\[117\]
+  - 10월 6일 (1020회) - [트와이스](../Page/트와이스.md "wikilink") Feel Special
+  - 10월 13일 - [트와이스](../Page/트와이스.md "wikilink") Feel Special (2주 연속)\[117\]
   - 10월 20일 (1021회) - [AKMU](../Page/AKMU.md "wikilink") 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지
   - 10월 27일 - [AKMU](../Page/AKMU.md "wikilink") 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지 (2주 연속)\[118\]
 
@@ -2238,8 +2238,8 @@
 **6월**
 
   - 6월 7일 (1050회) - [백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") Candy
-  - 6월 14일 (1051회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") MORE\&MORE
-  - 6월 21일 (1052회) - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") MORE\&MORE (2주 연속)
+  - 6월 14일 (1051회) - [트와이스](../Page/트와이스.md "wikilink") MORE\&MORE
+  - 6월 21일 (1052회) - [트와이스](../Page/트와이스.md "wikilink") MORE\&MORE (2주 연속)
   - 6월 28일 (1053회) - [아이즈원](../Page/아이즈원.md "wikilink") 환상동화
 
 **7월**
@@ -2259,9 +2259,9 @@
 
 **9월**
 
-  - 9월 6일 (1063회) -
-  - 9월 13일 (1064회) -
-  - 9월 20일 (1065회) -
+  - 9월 6일 (1063회) - [방탄소년단](../Page/방탄소년단.md "wikilink") Dynamite (2주 연속)
+  - 9월 13일 (1064회) - **[방탄소년단](../Page/방탄소년단.md "wikilink") Dynamite (3주 연속)**
+  - 9월 20일 (1065회) - [블랙핑크](../Page/블랙핑크.md "wikilink") Ice Cream
   - 9월 27일 (1066회) -
 
 ## 인기가요 CHART 트리플 크라운 Top Artist
@@ -2288,26 +2288,26 @@
   - **2016년**
       - 13대: [수지](../Page/수지_\(1994년\).md "wikilink")·[백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink") Dream (2016.01.31)
       - 14대: [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 시간을 달려서 (2016.02.28)
-      - 15대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") CHEER UP (2016.05.29)
+      - 15대: [트와이스](../Page/트와이스.md "wikilink") CHEER UP (2016.05.29)
       - 16대: [여자친구](../Page/여자친구_\(음악_그룹\).md "wikilink") 너 그리고 나 (2016.08.07)\[123\]
-      - 17대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") TT (2016.11.20)\[124\]
+      - 17대: [트와이스](../Page/트와이스.md "wikilink") TT (2016.11.20)\[124\]
   - **2017년**
       - 18대: [빅뱅](../Page/빅뱅_\(음악_그룹\).md "wikilink") 에라 모르겠다 (2017.01.08)\[125\]
-      - 19대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") KNOCK KNOCK (2017.03.19)\[126\]
+      - 19대: [트와이스](../Page/트와이스.md "wikilink") KNOCK KNOCK (2017.03.19)\[126\]
       - 20대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 팔레트 (2017.05.14)
-      - 21대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") SIGNAL (2017.06.11)\[127\]
+      - 21대: [트와이스](../Page/트와이스.md "wikilink") SIGNAL (2017.06.11)\[127\]
       - 22대: [블랙핑크](../Page/블랙핑크.md "wikilink") 마지막처럼 (2017.07.16)
       - 23대: [선미](../Page/선미.md "wikilink") 가시나 (2017.09.24)
       - 24대: [방탄소년단](../Page/방탄소년단.md "wikilink") DNA (2017.10.15)
-      - 25대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") LIKEY (2017.11.26)\[128\]
+      - 25대: [트와이스](../Page/트와이스.md "wikilink") LIKEY (2017.11.26)\[128\]
   - **2018년**
-      - 26대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Heart shaker (2018.01.07)\[129\]
+      - 26대: [트와이스](../Page/트와이스.md "wikilink") Heart shaker (2018.01.07)\[129\]
       - 27대: [iKON](https://ko.wikipedia.org/wiki/iKON "wikilink") 사랑을 했다 (2018.03.04)
       - 28대: [마마무](../Page/마마무.md "wikilink") 별이 빛나는 밤 (2018.04.01)
-      - 29대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") What is Love? (2018.05.06)\[130\]
+      - 29대: [트와이스](../Page/트와이스.md "wikilink") What is Love? (2018.05.06)\[130\]
       - 30대: [방탄소년단](../Page/방탄소년단.md "wikilink") Fake Love (2018.06.10)\[131\]
       - 31대: [블랙핑크](../Page/블랙핑크.md "wikilink") 뚜두뚜두 (2018.07.08)\[132\]
-      - 32대: [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") Dance the night away (2018.08.05)\[133\]
+      - 32대: [트와이스](../Page/트와이스.md "wikilink") Dance the night away (2018.08.05)\[133\]
       - 33대: [방탄소년단](../Page/방탄소년단.md "wikilink") IDOL (2018.09.16)\[134\]
       - 34대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 삐삐 (2018.11.04)\[135\]
       - 35대: [제니](../Page/제니_\(1996년_1월\).md "wikilink") SOLO (2018.12.16)
@@ -2324,7 +2324,7 @@
       - 44대: [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 에잇 (2020.05.31)\[140\]
       - 45대: [블랙핑크](../Page/블랙핑크.md "wikilink") How You Like That (2020.07.19)\[141\]
       - 46대: [화사](../Page/화사.md "wikilink") 마리아 (2020.08.09)
-      - 47대: **미 정**
+      - 47대: [방탄소년단](../Page/방탄소년단.md "wikilink") Dynamite (2020.09.13)\[142\]
       - 48대: **미 정**
       - 49대: **미 정**
       - 50대: **미 정**
@@ -2482,3 +2482,4 @@
 139.
 140.
 141.
+142.

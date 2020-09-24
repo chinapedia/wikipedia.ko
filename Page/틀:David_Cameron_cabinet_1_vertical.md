@@ -70,7 +70,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/사업혁신기술장관" title="wikilink">사업혁신기술장관</a><br />
 <a href="https://ko.wikipedia.org/wiki/상무원_대표" title="wikilink">상무원 대표</a></p></td>
 <td></td>
-<td><p><small>The Rt Hon.</small> Dr <strong><a href="https://ko.wikipedia.org/wiki/빈스_케이블" title="wikilink">빈스 케이블</a></strong> <small>MP</small></p></td>
+<td><p><small>The Rt Hon.</small> Dr <strong><a href="../Page/빈스_케이블.md" title="wikilink">빈스 케이블</a></strong> <small>MP</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/노동연금장관" title="wikilink">노동연금장관</a></p></td>

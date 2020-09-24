@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [토요타 마크 II](https://ko.wikipedia.org/wiki/토요타_마크_II).
 
 
-**토요타 마크 Ⅱ**(Toyota Mark Ⅱ)는 [일본](../Page/일본.md "wikilink")의 [자동차](../Page/자동차.md "wikilink") 메이커 [토요타가](../Page/토요타_자동차.md "wikilink") 생산, 판매한 중형 승용차이다. [닛산 로렐과](../Page/닛산_로렐.md "wikilink") 경쟁하였으며, 당시 형제차로 [크레스타와](https://ko.wikipedia.org/wiki/토요타_크레스타 "wikilink") [체이서가](../Page/토요타_체이서.md "wikilink") 있었다.
+**토요타 마크 Ⅱ**(Toyota Mark Ⅱ)는 [일본](../Page/일본.md "wikilink")의 [자동차](../Page/자동차.md "wikilink") 메이커 [토요타가](../Page/토요타_자동차.md "wikilink") 생산, 판매한 중형 승용차이다. [닛산 로렐과](../Page/닛산_로렐.md "wikilink") 경쟁하였으며, 당시 형제차로 [크레스타와](../Page/토요타_크레스타.md "wikilink") [체이서가](../Page/토요타_체이서.md "wikilink") 있었다.
 
 ## 1세대(T60/70)
 
@@ -94,11 +94,11 @@ Toyota_Mark2sedan_1983_Rear.jpg|토요타 마크 II(세단 후기형) 후측면
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:MARK2_GX71_GRANDE.jpg "wikilink") [1984년 8월에](https://ko.wikipedia.org/wiki/1984년_8월 "wikilink") 세단이 먼저 출시되었으며, [코로나라는](../Page/토요타_코로나.md "wikilink") 서브네임을 버리고 차명은 단순히 마크 II가 되었다. 경쟁 차종이었던 [닛산 로렐과](../Page/닛산_로렐.md "wikilink") [레오파드처럼](https://ko.wikipedia.org/wiki/닛산_레오파드 "wikilink") C 필러 형태로 되어있다. 같은 해 [11월](../Page/11월.md "wikilink")에는 [스테이션 왜건도](../Page/스테이션_왜건.md "wikilink") 풀 모델 체인지를 감행함과 동시에 밴도 추가되었다. 물론 2.0L의 레이저 1G-II 엔진만 장착되었다.
 
-[1985년 10월에](https://ko.wikipedia.org/wiki/1985년_10월 "wikilink") [체이서](../Page/토요타_체이서.md "wikilink") [크레스타와](https://ko.wikipedia.org/wiki/토요타_크레스타 "wikilink") 함께 1G-GTEU형 엔진을 탑재한 GT 트윈터보 사양이 추가되었는데, [일본](../Page/일본.md "wikilink")산 [자동차](../Page/자동차.md "wikilink") 중 최초로 트윈 캠 트윈 터보 엔진이 달렸다. 이 사양을 추가하면서 M-TEU형 엔진을 탑재했던 그랜드 터보는 단종되었다. 변속기는 전자 제어 기능을 갖춘 4단 자동(ECT-S)과 5단 수동이 제공되었다. 단, 세단은 GT 트윈터보가 추가되지 않았다. 동시에 사소한 변화가 이루어져 상급 모델에 전동 접이식 사이드 미러가 기본적으로 장착되었고, LG 하급 트림에 전면 강화 유리가 채용되었다.
+[1985년 10월에](https://ko.wikipedia.org/wiki/1985년_10월 "wikilink") [체이서](../Page/토요타_체이서.md "wikilink") [크레스타와](../Page/토요타_크레스타.md "wikilink") 함께 1G-GTEU형 엔진을 탑재한 GT 트윈터보 사양이 추가되었는데, [일본](../Page/일본.md "wikilink")산 [자동차](../Page/자동차.md "wikilink") 중 최초로 트윈 캠 트윈 터보 엔진이 달렸다. 이 사양을 추가하면서 M-TEU형 엔진을 탑재했던 그랜드 터보는 단종되었다. 변속기는 전자 제어 기능을 갖춘 4단 자동(ECT-S)과 5단 수동이 제공되었다. 단, 세단은 GT 트윈터보가 추가되지 않았다. 동시에 사소한 변화가 이루어져 상급 모델에 전동 접이식 사이드 미러가 기본적으로 장착되었고, LG 하급 트림에 전면 강화 유리가 채용되었다.
 
 [1986년 8월에는](https://ko.wikipedia.org/wiki/1986년_8월 "wikilink") 마이너 체인지를 감행하면서 내·외장을 다듬었다. 또한 1.8L LPG 엔진이 2.0L로 교체되었다.
 
-[1988년 8월에는](https://ko.wikipedia.org/wiki/1988년_8월 "wikilink") 4도어 하드톱과 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이 풀 모델 체인지를 통해 X80 계열로 넘어가 단종됨에 따라 [스테이션 왜건](../Page/스테이션_왜건.md "wikilink"), 밴 모델만 남았었다. 이와 동시에 [스테이션 왜건과](../Page/스테이션_왜건.md "wikilink") 밴이 마이너 체인지를 통해 엔진은 1G-FE형으로 교체되었고, 내부 색상을 바꿨다. 후드, 프론트 펜더와 범퍼에 GX71 [크레스타와](https://ko.wikipedia.org/wiki/토요타_크레스타 "wikilink") 같은 모양으로 교체되었다.
+[1988년 8월에는](https://ko.wikipedia.org/wiki/1988년_8월 "wikilink") 4도어 하드톱과 [세단](https://ko.wikipedia.org/wiki/세단 "wikilink")이 풀 모델 체인지를 통해 X80 계열로 넘어가 단종됨에 따라 [스테이션 왜건](../Page/스테이션_왜건.md "wikilink"), 밴 모델만 남았었다. 이와 동시에 [스테이션 왜건과](../Page/스테이션_왜건.md "wikilink") 밴이 마이너 체인지를 통해 엔진은 1G-FE형으로 교체되었고, 내부 색상을 바꿨다. 후드, 프론트 펜더와 범퍼에 GX71 [크레스타와](../Page/토요타_크레스타.md "wikilink") 같은 모양으로 교체되었다.
 
 [1990년 9월에는](https://ko.wikipedia.org/wiki/1990년_9월 "wikilink") 상급 트림에 LG 그랜드 에디션이 추가되었다. [1993년 2월에는](https://ko.wikipedia.org/wiki/1993년_2월 "wikilink") 일부 개량을 통해 [스테이션 왜건은](../Page/스테이션_왜건.md "wikilink") 루프레일, 머드가드가 장착되었고, 밴 모델에 탑재된 엔진은 자동차 NOx법 규정을 이유로 2Y-J형 1.8L에서 3Y-E형 4기통 2.0L로 교체되었다. 또한 테일 게이트에 [토요타](../Page/토요타_자동차.md "wikilink") 마크가 장착됐다.
 
@@ -160,7 +160,7 @@ X80_Toyota_Mark2_1.JPG|토요타 마크 II(세단 후기형) 정측면 X80_Toyot
 
 4S-FE형 1,800cc 디젤 엔진이 장착된 모델은 단종되었다.
 
-[1998년 8월에](https://ko.wikipedia.org/wiki/1998년_8월 "wikilink") 마이너 체인지를 통해 프론트 그릴과 리어 램프 등의 디자인을 변화시키면서 표준으로 장비화한 알루미늄 휠의 디자인을 [체이서](../Page/토요타_체이서.md "wikilink"), [크레스타와](https://ko.wikipedia.org/wiki/토요타_크레스타 "wikilink") 공유했다. 또한 조수석 벨트 경고등이 추가되었다. 내부의 경우 슈퍼 라이브 사운드 시스템의 스피커가 7개에서 6개로 줄어들었고, 동시에 출시 30주년을 기념하는 특별 사양인 트란토가 추가되었다. 참고로 트란토는 [프랑스어](../Page/프랑스어.md "wikilink")로 [30](https://ko.wikipedia.org/wiki/30 "wikilink")을 의미한다. 단종 직전에는 2L-TE 엔진이 장착된 모델이 단종되었으며, 전 모델에 BEAMS VVT-i 기구가 표준으로 장착되었다.
+[1998년 8월에](https://ko.wikipedia.org/wiki/1998년_8월 "wikilink") 마이너 체인지를 통해 프론트 그릴과 리어 램프 등의 디자인을 변화시키면서 표준으로 장비화한 알루미늄 휠의 디자인을 [체이서](../Page/토요타_체이서.md "wikilink"), [크레스타와](../Page/토요타_크레스타.md "wikilink") 공유했다. 또한 조수석 벨트 경고등이 추가되었다. 내부의 경우 슈퍼 라이브 사운드 시스템의 스피커가 7개에서 6개로 줄어들었고, 동시에 출시 30주년을 기념하는 특별 사양인 트란토가 추가되었다. 참고로 트란토는 [프랑스어](../Page/프랑스어.md "wikilink")로 [30](https://ko.wikipedia.org/wiki/30 "wikilink")을 의미한다. 단종 직전에는 2L-TE 엔진이 장착된 모델이 단종되었으며, 전 모델에 BEAMS VVT-i 기구가 표준으로 장착되었다.
 
 1998_Toyota_Mark_II_02.jpg|토요타 마크 II(그란데 후기형) 정측면 JZX100_Toyota_Mark_II.jpg|토요타 마크 II(투어러 V 후기형) 정측면
 

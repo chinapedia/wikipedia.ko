@@ -19,6 +19,6 @@
   -
   -
   -
-[분류:1988년 태어남](https://ko.wikipedia.org/wiki/분류:1988년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:덴마크의 여자 가수](https://ko.wikipedia.org/wiki/분류:덴마크의_여자_가수 "wikilink") [분류:덴마크의 여자 싱어송라이터](https://ko.wikipedia.org/wiki/분류:덴마크의_여자_싱어송라이터 "wikilink") [분류:덴마크의 전자 음악가](https://ko.wikipedia.org/wiki/분류:덴마크의_전자_음악가 "wikilink") [분류:21세기 덴마크의 여자](https://ko.wikipedia.org/wiki/분류:21세기_덴마크의_여자 "wikilink")
+[분류:1988년 태어남](https://ko.wikipedia.org/wiki/분류:1988년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:덴마크의 여자 가수](https://ko.wikipedia.org/wiki/분류:덴마크의_여자_가수 "wikilink") [분류:덴마크의 여자 싱어송라이터](https://ko.wikipedia.org/wiki/분류:덴마크의_여자_싱어송라이터 "wikilink") [분류:덴마크의 전자 음악가](https://ko.wikipedia.org/wiki/분류:덴마크의_전자_음악가 "wikilink") [분류:21세기 덴마크의 여자](https://ko.wikipedia.org/wiki/분류:21세기_덴마크의_여자 "wikilink") [분류:일렉트로팝 음악가](https://ko.wikipedia.org/wiki/분류:일렉트로팝_음악가 "wikilink")
 
 1.

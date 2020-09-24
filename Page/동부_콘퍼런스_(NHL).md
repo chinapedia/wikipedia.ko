@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [동부 콘퍼런스 \(NHL\)](https://ko.wikipedia.org/wiki/동부_콘퍼런스_\(NHL\)).
 
 
-**동부 콘퍼런스**([영어](../Page/영어.md "wikilink") : Eastern Conference, [프랑스어](../Page/프랑스어.md "wikilink") : Conférence de l'Est)에는 총 16개 팀으로 2개 디비전에 8팀으로 나뉘어 있다. 예전 명칭은 **프린스 오브 웨일즈 콘퍼런스**(Prince of Wales Conference)였다.
+**동부 콘퍼런스**(, )에는 총 16개 팀으로 2개 디비전에 8팀으로 나뉘어 있다. 예전 명칭은 **프린스 오브 웨일즈 콘퍼런스**(Prince of Wales Conference)였다.
 
 <table>
 <thead>
@@ -26,7 +26,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/애틀랜틱_디비전_(NHL).md" title="wikilink">애틀랜틱</a></p></td>
+<td><p><a href="../Page/애틀랜틱_디비전_(NHL).md" title="wikilink">애틀랜틱 디비전</a></p></td>
 <td><p><a href="../Page/보스턴_브루인스.md" title="wikilink">보스턴 브루인스</a></p></td>
 <td><p><a href="../Page/매사추세츠주.md" title="wikilink">매사추세츠주</a> <a href="../Page/보스턴.md" title="wikilink">보스턴</a></p></td>
 <td><p><a href="../Page/TD_가든.md" title="wikilink">TD 가든</a></p></td>
@@ -98,7 +98,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/메트로폴리탄_디비전_(NHL).md" title="wikilink">메트로폴리탄</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/메트로폴리탄_디비전" title="wikilink">메트로폴리탄 디비전</a></p></td>
 <td><p><a href="../Page/캐롤라이나_허리케인스.md" title="wikilink">캐롤라이나 허리케인스</a></p></td>
 <td><p><a href="../Page/노스캐롤라이나주.md" title="wikilink">노스캐롤라이나주</a> <a href="../Page/롤리_(노스캐롤라이나주).md" title="wikilink">롤리</a></p></td>
 <td><p><a href="../Page/PNC_아레나.md" title="wikilink">PNC 아레나</a></p></td>

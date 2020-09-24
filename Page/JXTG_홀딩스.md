@@ -8,4 +8,4 @@
 ## 외부 링크
 
   -
-[분류:2010년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2010년_설립된_기업 "wikilink") [분류:일본의 지주회사](https://ko.wikipedia.org/wiki/분류:일본의_지주회사 "wikilink") [분류:일본의 정유 회사](https://ko.wikipedia.org/wiki/분류:일본의_정유_회사 "wikilink") [분류:미쓰비시 그룹](https://ko.wikipedia.org/wiki/분류:미쓰비시_그룹 "wikilink") [분류:1888년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1888년_설립된_기업 "wikilink")
+[분류:일본의 지주회사](https://ko.wikipedia.org/wiki/분류:일본의_지주회사 "wikilink") [분류:일본의 화학 기업](https://ko.wikipedia.org/wiki/분류:일본의_화학_기업 "wikilink") [분류:일본의 정유 회사](https://ko.wikipedia.org/wiki/분류:일본의_정유_회사 "wikilink") [분류:지요다구의 기업](https://ko.wikipedia.org/wiki/분류:지요다구의_기업 "wikilink") [분류:자동차 연료 소매업체](https://ko.wikipedia.org/wiki/분류:자동차_연료_소매업체 "wikilink") [분류:미쓰비시 그룹](https://ko.wikipedia.org/wiki/분류:미쓰비시_그룹 "wikilink") [분류:1888년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1888년_설립된_기업 "wikilink") [분류:2010년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2010년_설립된_기업 "wikilink")

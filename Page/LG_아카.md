@@ -33,7 +33,7 @@
 
 ## 색상
 
-  - [네이비](https://ko.wikipedia.org/wiki/남색 "wikilink") (소울)
+  - [네이비](../Page/남색.md "wikilink") (소울)
   - [화이트](../Page/하양.md "wikilink") (우키)
   - [핑크](../Page/분홍.md "wikilink") (요요)
   - [옐로우](../Page/노랑.md "wikilink") (에기)

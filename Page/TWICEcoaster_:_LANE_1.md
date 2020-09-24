@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TWICEcoaster : LANE 1](https://ko.wikipedia.org/wiki/TWICEcoaster_:_LANE_1).
 
 
-《**TWICEcoaster : LANE 1**》(트와이스코스터 레인 원)은 [걸 그룹](../Page/걸_그룹.md "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 세 번째 [미니 앨범이다](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink"). 타이틀곡은 〈[TT](../Page/TT_\(노래\).md "wikilink")〉이며, 데뷔 1주년 4일 후인 [2016년](../Page/2016년.md "wikilink") [10월 24일에](../Page/10월_24일.md "wikilink") 발매되었다.
+《**TWICEcoaster : LANE 1**》(트와이스코스터 레인 원)은 [걸 그룹](../Page/걸_그룹.md "wikilink") [트와이스](../Page/트와이스.md "wikilink")의 세 번째 [미니 앨범이다](https://ko.wikipedia.org/wiki/미니_앨범 "wikilink"). 타이틀곡은 〈[TT](../Page/TT_\(노래\).md "wikilink")〉이며, 데뷔 1주년 4일 후인 [2016년](../Page/2016년.md "wikilink") [10월 24일에](../Page/10월_24일.md "wikilink") 발매되었다.
 
 2017년 1월 3일, "TT" 뮤직비디오는 공개 72일만에 [유튜브](../Page/유튜브.md "wikilink") 1억뷰를 돌파했다. 2017년 2월 20일, 리패키지 앨범 《[TWICEcoaster : LANE 2](../Page/TWICEcoaster_:_LANE_2.md "wikilink")》가 발매되었다. 2017년 5월 26일, "TT" 뮤직비디오가 유튜브 2억 조회수를 돌파했으며, 이는 대한민국 여성 가수 중 최초 기록이다.\[1\]
 

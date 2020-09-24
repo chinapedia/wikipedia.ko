@@ -56,7 +56,7 @@
 
   - [신한저축은행](https://ko.wikipedia.org/wiki/신한저축은행 "wikilink")
   - [NH저축은행](https://ko.wikipedia.org/wiki/NH저축은행 "wikilink")
-  - [하나저축은행](https://ko.wikipedia.org/wiki/하나저축은행 "wikilink")
+  - [하나저축은행](../Page/하나저축은행.md "wikilink")
   - [KB저축은행](../Page/KB저축은행.md "wikilink")
 
 ## 영업점

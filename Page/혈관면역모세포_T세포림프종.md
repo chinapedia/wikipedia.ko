@@ -9,6 +9,8 @@
 
 ## 각주
 
+## 외부 링크
+
 [분류:림프종](https://ko.wikipedia.org/wiki/분류:림프종 "wikilink")
 
 1.

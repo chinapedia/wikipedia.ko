@@ -13,7 +13,7 @@
   - [톰 홀랜드](../Page/톰_홀랜드_\(배우\).md "wikilink") - 잭 포싯 역
       - 보비 스몰드리지 - 7세 잭 포싯 역
       - 톰 멀헤런 - 어린 잭 역
-  - [앵거스 맥페이든](https://ko.wikipedia.org/wiki/앵거스_맥페이든 "wikilink") - [제임스 머리](https://ko.wikipedia.org/wiki/제임스_머리 "wikilink") 역
+  - [앵거스 맥페이든](../Page/앵거스_맥페이든.md "wikilink") - [제임스 머리](https://ko.wikipedia.org/wiki/제임스_머리 "wikilink") 역
   - [클라이브 프랜시스](https://ko.wikipedia.org/wiki/클라이브_프랜시스 "wikilink") - [존 스콧 켈티](https://ko.wikipedia.org/wiki/존_스콧_켈티 "wikilink") 경
   - 에드워드 애슐리 - 아서 맨리 상병 역
   - [이언 맥더미드](https://ko.wikipedia.org/wiki/이언_맥더미드 "wikilink") - 조지 골디 경

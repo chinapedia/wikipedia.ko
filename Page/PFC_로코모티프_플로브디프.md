@@ -7,23 +7,23 @@
 
 **[1부 리그](../Page/파르바리가.md "wikilink"):**
 
-  - [Gold_medal_icon.svg](https://ko.wikipedia.org/wiki/File:Gold_medal_icon.svg "fig:Gold_medal_icon.svg") **우승 (1):** 2003–04
-  - [Silver_medal_icon.svg](https://ko.wikipedia.org/wiki/File:Silver_medal_icon.svg "fig:Silver_medal_icon.svg") 준우승 (1): 1972–73
-  - [Bronze_medal_icon.svg](https://ko.wikipedia.org/wiki/File:Bronze_medal_icon.svg "fig:Bronze_medal_icon.svg") 3위 (4): 1968–69, 1973–74, 1991–92, 2004–05
+  - [15px](https://ko.wikipedia.org/wiki/파일:Gold_medal_icon.svg "wikilink") **우승 (1):** 2003–04
+  - [15px](https://ko.wikipedia.org/wiki/파일:Silver_medal_icon.svg "wikilink") 준우승 (1): 1972–73
+  - [15px](https://ko.wikipedia.org/wiki/파일:Bronze_medal_icon.svg "wikilink") 3위 (4): 1968–69, 1973–74, 1991–92, 2004–05
 
 **[불가리아 컵](https://ko.wikipedia.org/wiki/불가리아_컵 "wikilink"):**
 
-  - [Gold_medal_icon.svg](https://ko.wikipedia.org/wiki/File:Gold_medal_icon.svg "fig:Gold_medal_icon.svg") **우승 (2):** 2018–19, 2019–20
-  - [Silver_medal_icon.svg](https://ko.wikipedia.org/wiki/File:Silver_medal_icon.svg "fig:Silver_medal_icon.svg") 준우승 (4): 1959–60, 1970–71, 1981–82, 2011–12
+  - [15px](https://ko.wikipedia.org/wiki/파일:Gold_medal_icon.svg "wikilink") **우승 (2):** 2018–19, 2019–20
+  - [15px](https://ko.wikipedia.org/wiki/파일:Silver_medal_icon.svg "wikilink") 준우승 (4): 1959–60, 1970–71, 1981–82, 2011–12
 
 **[불가리아 슈퍼컵](https://ko.wikipedia.org/wiki/불가리아_슈퍼컵 "wikilink"):**
 
-  - [Gold_medal_icon.svg](https://ko.wikipedia.org/wiki/File:Gold_medal_icon.svg "fig:Gold_medal_icon.svg") **우승 (2):** 2004, 2020
-  - [Silver_medal_icon.svg](https://ko.wikipedia.org/wiki/File:Silver_medal_icon.svg "fig:Silver_medal_icon.svg") 준우승 (2): 2012, 2019
+  - [15px](https://ko.wikipedia.org/wiki/파일:Gold_medal_icon.svg "wikilink") **우승 (2):** 2004, 2020
+  - [15px](https://ko.wikipedia.org/wiki/파일:Silver_medal_icon.svg "wikilink") 준우승 (2): 2012, 2019
 
 **[소비에트군 컵](https://ko.wikipedia.org/wiki/소비에트군_컵_\(1983–1990\) "wikilink"):**
 
-  - [Gold_medal_icon.svg](https://ko.wikipedia.org/wiki/File:Gold_medal_icon.svg "fig:Gold_medal_icon.svg") **우승 (1):** 1983
+  - [15px](https://ko.wikipedia.org/wiki/파일:Gold_medal_icon.svg "wikilink") **우승 (1):** 1983
 
 ## 외부 링크
 

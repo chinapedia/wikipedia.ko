@@ -103,12 +103,12 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/CrushFTP_Server" title="wikilink">CrushFTP Server</a></p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
+<td><p>, <a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
 <td><p>Mac OS X, Windows, Linux, *BSD, Solaris, etc.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/glftpd" title="wikilink">glFTPd</a></p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
+<td><p>, <a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
 <td><p>Linux, BSD, Mac OS X</p></td>
 </tr>
 <tr class="odd">
@@ -128,7 +128,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/wu-ftpd" title="wikilink">wu-ftpd</a></p></td>
-<td><p>, <a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
+<td><p>, <a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
 <td><p>Linux, BSD, Solaris, Mac OS X 등</p></td>
 </tr>
 </tbody>
@@ -166,17 +166,17 @@
 <tr class="odd">
 <td></td>
 <td><p>라이선스 유형</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
 <td><p><a href="../Page/자유-오픈_소스_소프트웨어.md" title="wikilink">자유-오픈 소스 소프트웨어</a>/<a href="../Page/GNU_일반_공중_사용_허가서.md" title="wikilink">GNU 일반 공중 사용 허가서</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
 </tr>
 <tr class="even">
 <td><p>OS</p></td>
@@ -561,11 +561,11 @@
 <tr class="odd">
 <td></td>
 <td><p>라이선스 유형</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
 <td><p><a href="../Page/자유-오픈_소스_소프트웨어.md" title="wikilink">자유-오픈 소스 소프트웨어</a>/<a href="../Page/GNU_일반_공중_사용_허가서.md" title="wikilink">GNU 일반 공중 사용 허가서</a></p></td>
 <td><p><a href="../Page/BSD.md" title="wikilink">BSD</a></p></td>
 <td><p><a href="../Page/자유-오픈_소스_소프트웨어.md" title="wikilink">자유-오픈 소스 소프트웨어</a>/<a href="../Page/GNU_일반_공중_사용_허가서.md" title="wikilink">GNU 일반 공중 사용 허가서</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/사유_소프트웨어" title="wikilink">사유</a></p></td>
+<td><p><a href="../Page/사유_소프트웨어.md" title="wikilink">사유</a></p></td>
 </tr>
 <tr class="even">
 <td><p>OS</p></td>

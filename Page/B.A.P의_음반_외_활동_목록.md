@@ -15,7 +15,7 @@
   - [2017년](../Page/2017년.md "wikilink") [JTBC2](../Page/JTBC2.md "wikilink") 《[송지효의 뷰티뷰](../Page/송지효의_뷰티뷰.md "wikilink")》 힘찬, 영재
   - [2017년](../Page/2017년.md "wikilink") [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") 일밤 - 《[미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")》 (영재 - GOAL때리는 헤딩천재 조기축구회)
   - [2018년](../Page/2018년.md "wikilink") [K STAR](https://ko.wikipedia.org/wiki/K_STAR "wikilink") 《[오지GO 지리GO](https://ko.wikipedia.org/wiki/오지GO_지리GO "wikilink")》
-  - [2018년](../Page/2018년.md "wikilink") [FashionN](https://ko.wikipedia.org/wiki/FashionN "wikilink") 《[B.A.P의 트레인스](https://ko.wikipedia.org/wiki/B.A.P의_트레인스 "wikilink")》
+  - [미정](https://ko.wikipedia.org/wiki/미정 "wikilink") [FashionN](https://ko.wikipedia.org/wiki/FashionN "wikilink") 《[B.A.P의 트레인스](https://ko.wikipedia.org/wiki/B.A.P의_트레인스 "wikilink")》
 
 ### 콘서트
 

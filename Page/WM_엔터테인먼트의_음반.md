@@ -6,7 +6,7 @@
 ## 2000년대
 
   - 2009년 1월 15일 [태군](https://ko.wikipedia.org/wiki/태군 "wikilink") - **[1st Mini Album](../Page/1st_Mini_Album_\(태군의_음반\).md "wikilink")**
-  - 2009년 4월 21일 [H-유진](https://ko.wikipedia.org/wiki/H-유진 "wikilink") - **\[Digital Single\] 사랑인가봐**
+  - 2009년 4월 21일 [H-유진](../Page/H-유진.md "wikilink") - **\[Digital Single\] 사랑인가봐**
   - 2009년 5월 13일 태군 - **[Rising Star](https://ko.wikipedia.org/wiki/Rising_Star "wikilink")**
   - 2009년 6월 25일 H-유진 - **\[Digital Single\] 사랑시리즈**
   - 2009년 9월 17일 태군 - **[The 3rd Mini Album](https://ko.wikipedia.org/wiki/The_3rd_Mini_Album "wikilink")**
@@ -154,7 +154,9 @@
   - 2020년 8월 5일 산들 - **생각집 EP.1**
   - 2020년 8월 10일 온앤오프 - **SPIN OFF**
   - 2020년 8월 16일 오마이걸 - **\[Digital Single\] 뽀마이걸**
+  - 2020년 9월 4일 [헬로\!WM](https://ko.wikipedia.org/wiki/헬로!WM "wikilink")\[48\] - **\[Digital Single\] 너와 나의 시대**
   - 2020년 9월 7일 유아 - **Bon Voyage**
+  - 2020년 10월 ?일 B1A4 - **미정**
 
 ## 각주
 
@@ -207,3 +209,4 @@
 45. '생각집' 시리즈 첫 번째 앨범.
 46. [로드 투 킹덤](https://ko.wikipedia.org/wiki/로드_투_킹덤 "wikilink") 파이널 경연 곡
 47. '생각집' 시리즈 두 번째 앨범.
+48. B1A4,오마이걸,온앤오프 참여.

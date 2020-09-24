@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [노스이스트 디비전 \(NHL\)](https://ko.wikipedia.org/wiki/노스이스트_디비전_\(NHL\)).
 
 
-**노스이스트 디비전** (Northeast Division)은 1993년부터 2013년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.
+**노스이스트 디비전**(Northeast Division)은 1993년부터 2013년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.
 
 ## 역대 노스이스트 디비전 라인업
 
@@ -15,22 +15,22 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1993년~1995년</p></td>
+<td><p>1993년 ~ 1995년</p></td>
 <td><p><a href="../Page/보스턴_브루인스.md" title="wikilink">보스턴 브루인스</a> {{·}}  <a href="../Page/버펄로_세이버스.md" title="wikilink">버펄로 세이버스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/하트포드_훼일러즈" title="wikilink">하트포드 훼일러즈</a> {{·}}  <a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/오타와_세너터스.md" title="wikilink">오타와 세너터스</a> {{·}}  <a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a> {{·}}  <a href="../Page/퀘벡_노르딕스.md" title="wikilink">퀘벡 노르딕스</a></p></td>
 <td><p>7팀</p></td>
 </tr>
 <tr class="even">
-<td><p>1995년~1997년</p></td>
+<td><p>1995년 ~ 1997년</p></td>
 <td><p><a href="../Page/보스턴_브루인스.md" title="wikilink">보스턴 브루인스</a> {{·}}  <a href="../Page/버펄로_세이버스.md" title="wikilink">버펄로 세이버스</a> {{·}}  <a href="https://ko.wikipedia.org/wiki/하트포드_훼일러즈" title="wikilink">하트포드 훼일러즈</a> {{·}}  <a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/오타와_세너터스.md" title="wikilink">오타와 세너터스</a> {{·}}  <a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a></p></td>
 <td><p>6팀</p></td>
 </tr>
 <tr class="odd">
-<td><p>1997년~1998년</p></td>
+<td><p>1997년 ~ 1998년</p></td>
 <td><p><a href="../Page/보스턴_브루인스.md" title="wikilink">보스턴 브루인스</a> {{·}}  <a href="../Page/버펄로_세이버스.md" title="wikilink">버펄로 세이버스</a> {{·}}  <a href="../Page/캐롤라이나_허리케인스.md" title="wikilink">캐롤라이나 허리케인스</a> {{·}}  <a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/오타와_세너터스.md" title="wikilink">오타와 세너터스</a> {{·}}  <a href="../Page/피츠버그_펭귄스.md" title="wikilink">피츠버그 펭귄스</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1998년~2013년</p></td>
+<td><p>1998년 ~ 2013년</p></td>
 <td><p><a href="../Page/보스턴_브루인스.md" title="wikilink">보스턴 브루인스</a> {{·}}  <a href="../Page/버펄로_세이버스.md" title="wikilink">버펄로 세이버스</a> {{·}}  <a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/오타와_세너터스.md" title="wikilink">오타와 세너터스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
 <td><p>5팀</p></td>
 </tr>

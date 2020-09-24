@@ -40,7 +40,7 @@
   - [카스미 카호](https://ko.wikipedia.org/wiki/카스미_카호 "wikilink")
   - [키시 아이노](../Page/키시_아이노.md "wikilink")
   - [루카와 리나](../Page/루카와_리나.md "wikilink")
-  - [코다마 나나코](https://ko.wikipedia.org/wiki/코다마_나나코 "wikilink")
+  - [코다마 나나코](../Page/코다마_나나코.md "wikilink")
   - [야마나카 아야코](../Page/야마나카_아야코.md "wikilink")
   - [쿠리야마 무이](https://ko.wikipedia.org/wiki/쿠리야마_무이 "wikilink")
   - [사토미 유리아](../Page/사토미_유리아.md "wikilink")

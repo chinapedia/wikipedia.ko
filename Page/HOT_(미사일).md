@@ -7,7 +7,7 @@
 
 1976년 HOT 생산을 시작했다. 1978년 한달에 800발을 생산했다. 최초에 독일 육군, 프랑스 육군의 대전차 무장차량에 탑재되었다.
 
-HOT의 수명이 다하고 나서, 프랑스는 미국산 [헬파이어](https://ko.wikipedia.org/wiki/헬파이어 "wikilink")2, 독일은 [PARS 3 LR](https://ko.wikipedia.org/wiki/PARS_3_LR "wikilink"), 스페인은 이스라엘산 [스파이크 미사일로](https://ko.wikipedia.org/wiki/스파이크_미사일 "wikilink") 대체할 계획이다.
+HOT의 수명이 다하고 나서, 프랑스는 미국산 [헬파이어](https://ko.wikipedia.org/wiki/헬파이어 "wikilink")2, 독일은 [PARS 3 LR](../Page/PARS_3_LR.md "wikilink"), 스페인은 이스라엘산 [스파이크 미사일로](https://ko.wikipedia.org/wiki/스파이크_미사일 "wikilink") 대체할 계획이다.
 
 ## 비교
 

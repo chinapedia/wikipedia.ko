@@ -18,7 +18,7 @@
 
 ### 기본 채널
 
-아래 네 채널은 [FM과](../Page/주파수_변조.md "wikilink") [인터넷](../Page/인터넷.md "wikilink")으로 송출되고 있다.
+아래 네 채널은 [FM과](../Page/주파수_변조.md "wikilink") [DAB](../Page/디지털_오디오_방송.md "wikilink"), [인터넷](../Page/인터넷.md "wikilink")으로 송출되고 있다.
 
   - P1 : 시사, 교육, 문화 채널로, 음악은 거의 방송되지 않는다. ([영국](../Page/영국.md "wikilink")의 [BBC 라디오 4와](../Page/BBC_라디오_4.md "wikilink") [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 ABC 라디오 내셔널, [대한민국](../Page/대한민국.md "wikilink")의 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 비슷)
   - P2 : 클래식, 재즈, 민요, 월드뮤직 채널. ([영국](../Page/영국.md "wikilink")의 [BBC 라디오 3와](../Page/BBC_라디오_3.md "wikilink") [대한민국](../Page/대한민국.md "wikilink")의 [KBS 제1FM과](../Page/KBS_제1FM.md "wikilink") 비슷) 소수 민족 언어 프로그램도 방송하고 있다.
@@ -27,10 +27,12 @@
 
 ### 기타 채널
 
-  - P5 Sthlm : 스톡홀름 지역을 가청권으로 하는 지역 방송. (FM, 인터넷)
+  - P3 Din gata (DAB, 인터넷)
+  - P5 Sthlm : 스톡홀름 지역을 가청권으로 하는 지역 방송. (FM, 인터넷) (2018년 11월 20일 종방)
   - SR 인터내셔널 - 라디오 스웨덴 : 국제 방송 (인터넷, 위성)
-  - P7 Sisuradio : [핀란드어](../Page/핀란드어.md "wikilink") 및 [메앤키엘리](../Page/메앤키엘리.md "wikilink") 방송 (DAB, 인터넷, 케이블)
+  - P7 Sisuradio : [핀란드어](../Page/핀란드어.md "wikilink") 및 [메앤키엘리](../Page/메앤키엘리.md "wikilink") 방송 (FM, DAB, 인터넷)
   - SR Sápmi : [사미어](https://ko.wikipedia.org/wiki/사미어 "wikilink") 방송 (FM, 인터넷)
+  - Radioapans Knattekanal : 어린이 방송 (DAB, 인터넷)
 
 ### SR 인터내셔널
 

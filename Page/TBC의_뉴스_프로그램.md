@@ -15,8 +15,8 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>프로그램명</p></th>
-<th><p>방송시간</p></th>
+<th><p>타이틀</p></th>
+<th><p>분량</p></th>
 <th><p>편성시간</p></th>
 <th><p>진행</p></th>
 </tr>
@@ -25,43 +25,41 @@
 <tr class="odd">
 <td><p><a href="../Page/TBC_굿모닝뉴스.md" title="wikilink"><span style="color:white;">TBC 굿모닝뉴스</span></a></p></td>
 <td><p>평일 30분</p></td>
-<td><p>07:05 ~ 07:35</p></td>
-<td><p>신상윤, 이향원</p></td>
+<td><p>평일 아침 7시 5분 ~ 7시 35분</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/신상윤" title="wikilink">신상윤</a>, 이향원</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/TBC_뉴스_(1010).md" title="wikilink"><span style="color:white;">TBC 뉴스 (1010)</span></a></p></td>
 <td><p>평일 20분</p></td>
-<td><p>10:10 ~ 10:30</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/장진영" title="wikilink">장진영</a></p></td>
+<td><p>평일 오전 10시 10분 ~ 10시 30분</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김선희_(TBC)" title="wikilink">김선희</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/민방_네트워크_뉴스.md" title="wikilink"><span style="color:white;">민방 네트워크 뉴스</span></a></p></td>
 <td><p>평일 25분</p></td>
-<td><p>12:25 ~ 12:50</p></td>
-<td><p><a href="../Page/김도휘.md" title="wikilink">김도휘</a>, 김명미</p></td>
+<td><p>평일 낮 12시 25분 ~ 12시 50분</p></td>
+<td><p><a href="../Page/김도휘.md" title="wikilink">김도휘</a>, 김다은</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/TBC_대경뉴스광장.md" title="wikilink"><span style="color:white;">TBC 대경뉴스광장</span></a></p></td>
 <td><p>평일 20분</p></td>
-<td><p>17:40 ~ 18:00</p></td>
+<td><p>평일 오후 5시 30분 ~ 5시 50분</p></td>
 <td><p>김다은</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/TBC_8_뉴스.md" title="wikilink"><span style="color:white;">TBC 8 뉴스</span></a></p></td>
 <td><p>평일 30분<br />
 주말 25분</p></td>
-<td><p>20:25 ~ 20:55</p>
-<ul>
-<li><strong>주말편성조정</strong> : <strong>주말</strong> (20:20 ~ 20:45)</li>
-</ul></td>
-<td><p>평일 : 권준범, 김다은<br />
-주말 : <a href="../Page/이향원.md" title="wikilink">이향원</a></p></td>
+<td><p>평일 저녁 8시 30분 ~ 밤 9시<br />
+주말 저녁 8시 20분 ~ 8시 45분</p></td>
+<td><p>평일 : 권준범, <a href="../Page/김명미_(아나운서).md" title="wikilink">김명미</a><br />
+주말 : 무작위</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/TBC_뉴스특보" title="wikilink"><span style="color:white;">TBC 뉴스특보</span></a></p></td>
+<td><p>특집편성</p></td>
+<td><p>특집뉴스편성</p></td>
+<td><p>무작위</p></td>
 </tr>
 </tbody>
 </table>

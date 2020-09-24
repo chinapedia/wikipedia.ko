@@ -3,7 +3,7 @@
 
 《**록맨 3: Dr. 와일리의 최후\!?**》()는 [캡콤](../Page/캡콤.md "wikilink")이 [패미컴](https://ko.wikipedia.org/wiki/패미컴 "wikilink")으로 발매한 [액션](https://ko.wikipedia.org/wiki/액션_게임 "wikilink") [플랫폼 게임이다](../Page/플랫폼_게임.md "wikilink"). [오리지널 록맨 시리즈](https://ko.wikipedia.org/wiki/록맨_\(클래식_시리즈\) "wikilink") 세번째 작품으로, 1990년 9월 28일에 일본에서 최초로 발매됐다. 같은 해 북미에선 《**메가맨 3**》()라는 이름으로 출시됐고, 1992년에는 유럽 지역으로 발매됐다.
 
-록맨 3는 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")과 [모바일](../Page/휴대_전화.md "wikilink") 등 여러 플랫폼에 이식돼 재발매됐고, [메가맨 애니버서리 에디션이나](https://ko.wikipedia.org/wiki/메가맨_애니버서리_에디션 "wikilink") [메가맨 레거시 컬렉션같은](../Page/메가맨_레거시_컬렉션.md "wikilink") 합본에도 포함됐다.
+록맨 3는 [플레이스테이션](../Page/플레이스테이션.md "wikilink")과 [모바일](../Page/휴대_전화.md "wikilink") 등 여러 플랫폼에 이식돼 재발매됐고, [메가맨 애니버서리 에디션이나](https://ko.wikipedia.org/wiki/메가맨_애니버서리_에디션 "wikilink") [메가맨 레거시 컬렉션같은](../Page/메가맨_레거시_컬렉션.md "wikilink") 합본에도 포함됐다.
 
 ## 줄거리
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [탐정팀 KZ 사건노트](https://ko.wikipedia.org/wiki/탐정팀_KZ_사건노트).
 
 
-**탐정팀 KZ 사건노트**()은 [후지모토 히토미](https://ko.wikipedia.org/wiki/후지모토_히토미 "wikilink")(그림), 스미타키 료(글)에 의한 [일본](../Page/일본.md "wikilink")의 [아동 문학이다](../Page/아동_문학.md "wikilink"). 『[파랑새문고](https://ko.wikipedia.org/wiki/파랑새문고 "wikilink")』([고단샤](../Page/고단샤.md "wikilink"))의 [2011년](../Page/2011년.md "wikilink")부터 연재되고 있으며, [2015년](../Page/2015년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink") [1월](../Page/1월.md "wikilink")까지 [NHK 교육 텔레비전에서](../Page/NHK_교육_텔레비전.md "wikilink") TV 애니메이션화되어 방영 중이다.
+**탐정팀 KZ 사건노트**()은 [후지모토 히토미](https://ko.wikipedia.org/wiki/후지모토_히토미 "wikilink")(그림), 스미타키 료(글)에 의한 [일본](../Page/일본.md "wikilink")의 [아동 문학이다](../Page/아동_문학.md "wikilink"). 『[파랑새문고](https://ko.wikipedia.org/wiki/파랑새문고 "wikilink")』([고단샤](../Page/고단샤.md "wikilink"))의 [2011년](../Page/2011년.md "wikilink")부터 연재되고 있으며, [2015년](../Page/2015년.md "wikilink") [10월](../Page/10월.md "wikilink")부터 [2016년](../Page/2016년.md "wikilink") [1월](../Page/1월.md "wikilink")까지 [NHK 교육 텔레비전에서](../Page/NHK_교육_텔레비전.md "wikilink") TV 애니메이션화되어 방영되었다.
 
 스핀오프 작품 『**탐정팀 G 사건노트**()』가 [2014년](../Page/2014년.md "wikilink")부터 출판되고 있다.
 
@@ -14,7 +14,7 @@
   - 타치바나 아야 ()
     성우 : [타츠미 유이코](https://ko.wikipedia.org/wiki/타츠미_유이코 "wikilink")
   - 와카타케 카즈오미 ()
-    성우 : [사이토 소우마](https://ko.wikipedia.org/wiki/사이토_소우마 "wikilink")
+    성우 : [사이토 소마](../Page/사이토_소마.md "wikilink")
   - 다카카즈 쿠로키 ()
     성우 : [테라시마 타쿠마](../Page/테라시마_타쿠마.md "wikilink")
   - 우에스기 카즈노리 ()

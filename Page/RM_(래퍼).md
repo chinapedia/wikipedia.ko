@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [RM \(래퍼\)](https://ko.wikipedia.org/wiki/RM_\(래퍼\)).
 
 
-**RM**(, [1994년](../Page/1994년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink")이자 [작사가](https://ko.wikipedia.org/wiki/작사가 "wikilink"), [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink"), [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")이다. [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 일원이며, 리더, 메인래퍼를 맡고 있다.\[1\] [2013년](../Page/2013년.md "wikilink")부터 약 5년간 **랩몬스터**()라는 예명을 사용했으나, [2017년](../Page/2017년.md "wikilink") 11월 13일부터 'RM'으로 예명을 바꿔 활동하고 있다. 2015년, 첫 솔로 믹스테이프《RM》을 발표하였다. [왈레](https://ko.wikipedia.org/wiki/왈레 "wikilink"), [워렌 G](https://ko.wikipedia.org/wiki/워렌_G "wikilink"), [개코](../Page/개코.md "wikilink"), [크리즈 칼리코](https://ko.wikipedia.org/wiki/:en:Krizz_Kaliko "wikilink"), [MFBTY](https://ko.wikipedia.org/wiki/MFBTY "wikilink"), [릴 나스 엑스](../Page/릴_나스_엑스.md "wikilink") 및 [프라이머리](https://ko.wikipedia.org/wiki/프라이머리 "wikilink") 등의 아티스트와 함께 작업하였으며, 100여 곡이 [한국음악저작권협회](https://ko.wikipedia.org/wiki/한국음악저작권협회 "wikilink")에 등록되어 있다.\[2\] 방탄소년단과 [라인프렌즈](../Page/라인프렌즈.md "wikilink")가 함께 만든 캐릭터인 [BT21](../Page/BT21.md "wikilink") 중에서 RM은 코야(KOYA)라는 캐릭터를 직접 디자인했다.
+**RM**(, \[1\], [1994년](../Page/1994년.md "wikilink") [9월 12일](../Page/9월_12일.md "wikilink") \~ )은 [대한민국](../Page/대한민국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink")이자 [작사가](https://ko.wikipedia.org/wiki/작사가 "wikilink"), [작곡가](https://ko.wikipedia.org/wiki/작곡가 "wikilink"), [프로듀서](https://ko.wikipedia.org/wiki/프로듀서 "wikilink")이다. [대한민국](../Page/대한민국.md "wikilink")의 [보이 그룹](https://ko.wikipedia.org/wiki/보이_그룹 "wikilink") [방탄소년단](../Page/방탄소년단.md "wikilink")의 일원이며, 리더, 메인래퍼를 맡고 있다.\[2\] [2013년](../Page/2013년.md "wikilink")부터 약 5년간 **랩몬스터**()라는 예명을 사용했으나, [2017년](../Page/2017년.md "wikilink") 11월 13일부터 'RM'으로 예명을 바꿔 활동하고 있다. 2015년, 첫 솔로 믹스테이프《RM》을 발표하였다. [왈레](https://ko.wikipedia.org/wiki/왈레 "wikilink"), [워렌 G](https://ko.wikipedia.org/wiki/워렌_G "wikilink"), [개코](../Page/개코.md "wikilink"), [크리즈 칼리코](https://ko.wikipedia.org/wiki/:en:Krizz_Kaliko "wikilink"), [MFBTY](https://ko.wikipedia.org/wiki/MFBTY "wikilink"), [릴 나스 엑스](../Page/릴_나스_엑스.md "wikilink") 및 [프라이머리](https://ko.wikipedia.org/wiki/프라이머리 "wikilink") 등의 아티스트와 함께 작업하였으며, 100여 곡이 [한국음악저작권협회](https://ko.wikipedia.org/wiki/한국음악저작권협회 "wikilink")에 등록되어 있다.\[3\] 방탄소년단과 [라인프렌즈](../Page/라인프렌즈.md "wikilink")가 함께 만든 캐릭터인 [BT21](../Page/BT21.md "wikilink") 중에서 RM은 코야(KOYA)라는 캐릭터를 직접 디자인했다.
 
 ## 생애
 
-1994년 9월 12일 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [동작구](https://ko.wikipedia.org/wiki/동작구 "wikilink") [상도동에서](../Page/상도동_\(서울\).md "wikilink") 태어나 5살 때부터 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink") [일산동구](../Page/일산동구.md "wikilink")에서 성장했다.\[3\] 그는 1남 1녀 중 장남으로 여동생(1997년 출생)이 한 명 있다. 고등학교 2학년 때 측정한 아이큐가 148의 높은 지능지수가 검사된 바 있으며, 중·고등학교 시절에는 전교 1, 2등을 다툴 정도로 우수한 성적을 자랑했다.\[4\] 특히 수능 모의고사 성적은 상위 1.6%로 학창시절 독학으로 토익 880점을 받았으며, 일본어, 영어로 대화하는 등 유창한 외국어 실력을 겸비한 수재로 알려졌다.\[5\]\[6\] [백신초등학교](../Page/백신초등학교.md "wikilink"), [오마초등학교](https://ko.wikipedia.org/wiki/오마초등학교 "wikilink"), [신일중학교를](../Page/신일중학교_\(경기\).md "wikilink") 졸업하고 [일산대진고등학교](../Page/일산대진고등학교.md "wikilink")에 진학했다. 그는 초등학교 6학년 때 우연히 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 곡 "Fly"를 듣고 큰 충격을 받았고, '랩으로 이렇게까지 사람의 이야기를 풀어나갈 수 있구나' 생각했다고 한다. 이를 계기로 힙합에 빠지게 되었다.\[7\] [방탄소년단](../Page/방탄소년단.md "wikilink") 멤버로 데뷔하기 전에 그는 《Runch Randa》라는 이름인 언더 래퍼였다. 그는 여러 트랙을 발표하고 동료 래퍼 [지코](../Page/지코.md "wikilink")와 작업했다.\[8\]
+1994년 9월 12일 [대한민국](../Page/대한민국.md "wikilink") [서울특별시](../Page/서울특별시.md "wikilink") [동작구](https://ko.wikipedia.org/wiki/동작구 "wikilink") [상도동에서](../Page/상도동_\(서울\).md "wikilink") 태어나 5살 때부터 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink") [일산동구](../Page/일산동구.md "wikilink")에서 성장했다.\[4\] 그는 1남 1녀 중 장남으로 여동생(1997년 출생)이 한 명 있다. 고등학교 2학년 때 측정한 아이큐가 148의 높은 지능지수가 검사된 바 있으며, 중·고등학교 시절에는 전교 1, 2등을 다툴 정도로 우수한 성적을 자랑했다.\[5\] 특히 수능 모의고사 성적은 상위 1.6%로 학창시절 독학으로 토익 880점을 받았으며, 일본어, 영어로 대화하는 등 유창한 외국어 실력을 겸비한 수재로 알려졌다.\[6\]\[7\] [백신초등학교](../Page/백신초등학교.md "wikilink"), [오마초등학교](https://ko.wikipedia.org/wiki/오마초등학교 "wikilink"), [신일중학교를](../Page/신일중학교_\(경기\).md "wikilink") 졸업하고 [일산대진고등학교](../Page/일산대진고등학교.md "wikilink")에 진학했다. 그는 초등학교 6학년 때 우연히 [에픽하이](https://ko.wikipedia.org/wiki/에픽하이 "wikilink")의 곡 "Fly"를 듣고 큰 충격을 받았고, '랩으로 이렇게까지 사람의 이야기를 풀어나갈 수 있구나' 라고 생각했다고 한다. 이를 계기로 힙합에 빠지게 되었다.\[8\] [방탄소년단](../Page/방탄소년단.md "wikilink") 멤버로 데뷔하기 전에 그는 《Runch Randa》라는 이름인 언더 래퍼였다. 그는 여러 트랙을 발표하고 동료 래퍼 [지코](../Page/지코.md "wikilink")와 작업했다.\[9\]
 
-2010년 언더그라운드에서 활동하는 RM의 래핑을 본 [슬리피](../Page/슬리피.md "wikilink")는 그의 연락처를 넘겨 받아 [빅히트 엔터테인먼트](../Page/빅히트_엔터테인먼트.md "wikilink") 소속 프로듀서 [피독](../Page/피독.md "wikilink")에게 전해줬고, RM은 방탄소년단 첫 멤버로 합류하게 됐다.\[9\] 당시 방탄소년단의 멤버로 발탁된 RM에 대해 [방시혁](../Page/방시혁.md "wikilink")은 “언더 힙합신에서도 실력을 인정받은 고등학생 래퍼로 랩 메이킹에 탁월하며 프로 못지 않은 실력을 지니고 있다” 고 소개하기도 했다.\[10\]\[11\] 이후 서울 [압구정고등학교](../Page/압구정고등학교.md "wikilink")에 전학을 가 2013년 2월에 졸업하였다. 뛰어난 성적에도 불구하고 음악에 대한 의지 때문에 대학진학을 포기했다가 이후 [글로벌사이버대학교](../Page/글로벌사이버대학교.md "wikilink") 방송연예학과에 입학해 현재 재학 중이다.
+2010년 언더그라운드에서 활동하는 RM의 래핑을 본 [슬리피](../Page/슬리피.md "wikilink")는 그의 연락처를 넘겨 받아 [빅히트 엔터테인먼트](../Page/빅히트_엔터테인먼트.md "wikilink") 소속 프로듀서 [피독](../Page/피독.md "wikilink")에게 전해줬고, RM은 방탄소년단 첫 멤버로 합류하게 됐다.\[10\] 당시 방탄소년단의 멤버로 발탁된 RM에 대해 [방시혁](../Page/방시혁.md "wikilink")은 “언더 힙합신에서도 실력을 인정받은 고등학생 래퍼로 랩 메이킹에 탁월하며 프로 못지 않은 실력을 지니고 있다” 고 소개하기도 했다.\[11\]\[12\] 이후 서울 [압구정고등학교](../Page/압구정고등학교.md "wikilink")에 전학을 가 2013년 2월에 졸업하였다. 뛰어난 성적에도 불구하고 음악에 대한 의지 때문에 대학진학을 포기했다가 이후 [글로벌사이버대학교](../Page/글로벌사이버대학교.md "wikilink") 방송연예학과에 입학해 현재 재학 중이다.
 
 ## 경력
 
@@ -15,20 +15,20 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Rap_Monster_at_a_fanmeet_in_Yongsan,_in_February_2014_01_\(cropped\).jpg "wikilink")
 
-RM은 [대구에서](../Page/대구광역시.md "wikilink") 언더 래퍼로 활동한 [슈가와](https://ko.wikipedia.org/wiki/슈가_\(래퍼\) "wikilink") [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") 출신의 댄서 [제이홉](../Page/제이홉.md "wikilink")과 함께 빅히트 연습생으로 트레이닝을 받았고, 이후 [진](../Page/진_\(가수\).md "wikilink"), [정국](../Page/정국.md "wikilink"), [뷔](../Page/뷔.md "wikilink"), [지민도](../Page/지민_\(가수\).md "wikilink") 합류했다.\[12\]\[13\] 2013년 6월 12일, 쇼케이스를 통해 방탄소년단 멤버로서 데뷔곡을 발표하였다. (공식 데뷔일은 2013년 6월 13일이다.) 이 날 RM은 [엠넷](../Page/엠넷.md "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》을 통해 [방탄소년단](../Page/방탄소년단.md "wikilink") 멤버로서 공식적으로 데뷔하여\[14\] 6월 12일 데뷔 싱글 앨범 《[2 COOL 4 SKOOL](../Page/2_COOL_4_SKOOL.md "wikilink")》를 발매했다.\[15\]\[16\]\[17\] 그는 방탄소년단의 앨범에서 수많은 곡에 작사와 작곡에 참여하고 있다.
+RM은 [대구에서](../Page/대구광역시.md "wikilink") 언더 래퍼로 활동한 [슈가와](https://ko.wikipedia.org/wiki/슈가_\(래퍼\) "wikilink") [광주](https://ko.wikipedia.org/wiki/광주광역시 "wikilink") 출신의 댄서 [제이홉](../Page/제이홉.md "wikilink")과 함께 빅히트 연습생으로 트레이닝을 받았고, 이후 [진](../Page/진_\(가수\).md "wikilink"), [정국](../Page/정국.md "wikilink"), [뷔](../Page/뷔.md "wikilink"), [지민도](../Page/지민_\(가수\).md "wikilink") 합류했다.\[13\]\[14\] 2013년 6월 12일, 쇼케이스를 통해 방탄소년단 멤버로서 데뷔곡을 발표하였다. (공식 데뷔일은 2013년 6월 13일이다.) 이 날 RM은 [엠넷](../Page/엠넷.md "wikilink") 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》을 통해 [방탄소년단](../Page/방탄소년단.md "wikilink") 멤버로서 공식적으로 데뷔하여\[15\] 6월 12일 데뷔 싱글 앨범 《[2 COOL 4 SKOOL](../Page/2_COOL_4_SKOOL.md "wikilink")》를 발매했다.\[16\]\[17\]\[18\] 그는 방탄소년단의 앨범에서 수많은 곡에 작사와 작곡에 참여하고 있다.
 
 ### 솔로 활동
 
-RM은 수많은 한국 및 미국 가수들과 협력했다. 2015년 3월 4일, 로스 앤젤레스에서 진행 된 [워렌 G와의](https://ko.wikipedia.org/wiki/워렌_G "wikilink") 공동 작업의 현장을 담은 뮤직 비디오와 함께 제목의 싱글 "P.D.D (Please Do not Die)"를 발표했다.\[18\] 또한 RM은 EE, 그리고 Dino J와 함께 힙합 프로젝트 그룹 [MFBTY](https://ko.wikipedia.org/wiki/MFBTY "wikilink")와 노래 "부끄부끄"를 공동 작업했다. 그는 이 곡의 뮤직 비디오에 출연했으며, 그 외에도 그들의 곡 "Bang Diggy Bang Bang" 뮤직 비디오에 카메오로 출연했다.\[19\]\[20\] RM은 2015년 3월 17일 그의 첫 솔로 [믹스테이프](https://ko.wikipedia.org/wiki/믹스테이프 "wikilink") 《RM》을 발표했다. 믹스테이프는 2015년 '힙합 힙 50 앨범'에서 48위에 올랐다.\[21\] 2015년 4월 9일, RM은 [권진아](https://ko.wikipedia.org/wiki/권진아 "wikilink")와 함께 [프라이머리](https://ko.wikipedia.org/wiki/프라이머리 "wikilink")의 새로운 미니 앨범 "2-1 "의 수록곡 "U"에 피처링 참여했다.\[22\] 또한 RM은 [마블 코믹스의](../Page/마블_코믹스.md "wikilink") 영화 《[판타스틱 4](../Page/판타스틱_4_\(2015년_영화\).md "wikilink")》의 사운드트랙에 참여했다. Mandy Ventrice가 피처링한 "Fantastic" 디지털 싱글은 국내 음악 사이트를 통해 8월 4일에 발매 되었다.\[23\]
+RM은 수많은 한국 및 미국 가수들과 협력했다. 2015년 3월 4일, 로스 앤젤레스에서 진행 된 [워렌 G와의](https://ko.wikipedia.org/wiki/워렌_G "wikilink") 공동 작업의 현장을 담은 뮤직 비디오와 함께 제목의 싱글 "P.D.D (Please Do not Die)"를 발표했다.\[19\] 또한 RM은 EE, 그리고 Dino J와 함께 힙합 프로젝트 그룹 [MFBTY](https://ko.wikipedia.org/wiki/MFBTY "wikilink")와 노래 "부끄부끄"를 공동 작업했다. 그는 이 곡의 뮤직 비디오에 출연했으며, 그 외에도 그들의 곡 "Bang Diggy Bang Bang" 뮤직 비디오에 카메오로 출연했다.\[20\]\[21\] RM은 2015년 3월 17일 그의 첫 솔로 [믹스테이프](https://ko.wikipedia.org/wiki/믹스테이프 "wikilink") 《RM》을 발표했다. 믹스테이프는 2015년 '힙합 힙 50 앨범'에서 48위에 올랐다.\[22\] 2015년 4월 9일, RM은 [권진아](https://ko.wikipedia.org/wiki/권진아 "wikilink")와 함께 [프라이머리](https://ko.wikipedia.org/wiki/프라이머리 "wikilink")의 새로운 미니 앨범 "2-1 "의 수록곡 "U"에 피처링 참여했다.\[23\] 또한 RM은 [마블 코믹스의](../Page/마블_코믹스.md "wikilink") 영화 《[판타스틱 4](../Page/판타스틱_4_\(2015년_영화\).md "wikilink")》의 사운드트랙에 참여했다. Mandy Ventrice가 피처링한 "Fantastic" 디지털 싱글은 국내 음악 사이트를 통해 8월 4일에 발매 되었다.\[24\]
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Rap_Monster_at_the_KCON_2016_in_Los_Angeles.jpg "wikilink")
 
-2016년 8월 30일, RM은 [방시혁](../Page/방시혁.md "wikilink")과 함께 공동 제작 한 [옴므의](https://ko.wikipedia.org/wiki/옴므_\(음악_그룹\) "wikilink") 새로운 싱글 "Dilemma"가 발매 되었다.\[24\] 이것은 방탄소년단의 노래 "Epilogue : Young Forever"에 참여한 후 그의 두 번째 공식 제작이었고,\[25\] 그리고 [사운드클라우드](../Page/사운드클라우드.md "wikilink")를 통해 "I Know"를 비공식적으로 공개했다. 또한 RM은 미국의 랩퍼 [왈레](https://ko.wikipedia.org/wiki/왈레 "wikilink")와 작업한 곡 "Change"는 2017년 3월 19일 무료 디지털 다운로드로 발매 되었다.\[26\]\[27\] 2017년 12월 14일, [빅히트 엔터테인먼트는](../Page/빅히트_엔터테인먼트.md "wikilink") RM이 피처링한 [폴 아웃 보이의](../Page/폴_아웃_보이.md "wikilink") 신곡 "Champion" 리믹스 버전이\[28\] 12월 15일 자정에 주요 음악 스트리밍 사이트에서 전 세계적으로 공개된다고 밝혔다.\[29\]\[30\]\[31\]\[32\] 이 곡은 [빌보드](../Page/빌보드.md "wikilink")의 버블링 언더 핫 100에서 18위에 올랐고 RM은 2018년 1월 8일의 버블링 언더 핫 100 싱글 이머징 아티스트 차트 46위를 차지했다.<ref>
+2016년 8월 30일, RM은 [방시혁](../Page/방시혁.md "wikilink")과 함께 공동 제작 한 [옴므의](https://ko.wikipedia.org/wiki/옴므_\(음악_그룹\) "wikilink") 새로운 싱글 "Dilemma"가 발매 되었다.\[25\] 이것은 방탄소년단의 노래 "Epilogue : Young Forever"에 참여한 후 그의 두 번째 공식 제작이었고,\[26\] 그리고 [사운드클라우드](../Page/사운드클라우드.md "wikilink")를 통해 "I Know"를 비공식적으로 공개했다. 또한 RM은 미국의 랩퍼 [왈레](https://ko.wikipedia.org/wiki/왈레 "wikilink")와 작업한 곡 "Change"는 2017년 3월 19일 무료 디지털 다운로드로 발매 되었다.\[27\]\[28\] 2017년 12월 14일, [빅히트 엔터테인먼트는](../Page/빅히트_엔터테인먼트.md "wikilink") RM이 피처링한 [폴 아웃 보이의](../Page/폴_아웃_보이.md "wikilink") 신곡 "Champion" 리믹스 버전이\[29\] 12월 15일 자정에 주요 음악 스트리밍 사이트에서 전 세계적으로 공개된다고 밝혔다.\[30\]\[31\]\[32\]\[33\] 이 곡은 [빌보드](../Page/빌보드.md "wikilink")의 버블링 언더 핫 100에서 18위에 올랐고 RM은 2018년 1월 8일의 버블링 언더 핫 100 싱글 이머징 아티스트 차트 46위를 차지했다.<ref>
 
   -
-  - </ref> 2017년 12월 27일, RM은 빌보드 락 디지털 송 세일즈 차트에서 2위를 차지한 첫 번째 K-pop 아티스트가 되었다.\[33\]
+  - </ref> 2017년 12월 27일, RM은 빌보드 락 디지털 송 세일즈 차트에서 2위를 차지한 첫 번째 K-pop 아티스트가 되었다.\[34\]
 
-2017년 미국의 힙합 잡지 *XXL*는 RM을 포함한 "알아야 할 10명의 한국인 래퍼"라는 목록을 발표했다.\[34\]
+2017년 미국의 힙합 잡지 *XXL*는 RM을 포함한 "알아야 할 10명의 한국인 래퍼"라는 목록을 발표했다.\[35\]
 
 ## 음반 활동
 
@@ -70,7 +70,7 @@ RM은 수많은 한국 및 미국 가수들과 협력했다. 2015년 3월 4일, 
 <td><p>2015</p></td>
 <td><p>—</p></td>
 <td><ul>
-<li>대한민국: 17,345+[35]</li>
+<li>대한민국: 17,345+[36]</li>
 </ul></td>
 <td><p><em><a href="../Page/판타스틱_4_(2015년_영화).md" title="wikilink">판타스틱 4</a></em></p></td>
 </tr>
@@ -79,7 +79,7 @@ RM은 수많은 한국 및 미국 가수들과 협력했다. 2015년 3월 4일, 
 <td><p>2016</p></td>
 <td><p>38</p></td>
 <td><ul>
-<li>대한민국: 82,068+[36]</li>
+<li>대한민국: 82,068+[37]</li>
 </ul></td>
 <td><p><em><a href="../Page/WINGS_(음반).md" title="wikilink">WINGS</a></em></p></td>
 </tr>
@@ -118,7 +118,7 @@ RM은 수많은 한국 및 미국 가수들과 협력했다. 2015년 3월 4일, 
 <td><p>2015</p></td>
 <td><p>74</p></td>
 <td><ul>
-<li>대한민국: 16,675+[37]</li>
+<li>대한민국: 16,675+[38]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -135,7 +135,7 @@ RM은 수많은 한국 및 미국 가수들과 협력했다. 2015년 3월 4일, 
 <td><p>2015</p></td>
 <td><p>—</p></td>
 <td><ul>
-<li>대한민국: 14,686+[38]</li>
+<li>대한민국: 14,686+[39]</li>
 </ul></td>
 <td><p><em>WondaLand</em></p></td>
 </tr>
@@ -158,17 +158,17 @@ RM은 수많은 한국 및 미국 가수들과 협력했다. 2015년 3월 4일, 
 <td><p>2017</p></td>
 <td><p>17</p></td>
 <td><ul>
-<li>대한민국: 120,282+[39]</li>
+<li>대한민국: 120,282+[40]</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>"Champion Remix"<br />
-<small><a href="../Page/폴_아웃_보이.md" title="wikilink">폴 아웃 보이</a> (feat. RM)[40]</p></td>
+<small><a href="../Page/폴_아웃_보이.md" title="wikilink">폴 아웃 보이</a> (feat. RM)[41]</p></td>
 <td><p>—</p></td>
 <td><ul>
-<li>미국: 18,000[41]</li>
-<li>대한민국: 5,903[42]</li>
+<li>미국: 18,000[42]</li>
+<li>대한민국: 5,903[43]</li>
 </ul></td>
 <td><p><em>Mania</em></p></td>
 <td></td>
@@ -681,10 +681,10 @@ RM은 수많은 한국 및 미국 가수들과 협력했다. 2015년 3월 4일, 
 | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")   | [세상을 바꾸는 퀴즈](../Page/세상을_바꾸는_퀴즈.md "wikilink")                                 | 게스트                                                                                                                                                                    | 315회                                                                                                                                                                                                                   |        |
 | [SBS](../Page/SBS.md "wikilink")                      | [동상이몽, 괜찮아 괜찮아](../Page/동상이몽,_괜찮아_괜찮아.md "wikilink")                           | 게스트                                                                                                                                                                    | 32회                                                                                                                                                                                                                    |        |
 | [SBS](../Page/SBS.md "wikilink")                      | [놀라운 대회 스타킹](https://ko.wikipedia.org/wiki/스타킹_\(2015년_텔레비전_프로그램\) "wikilink") | 게스트 (with [제이홉](../Page/제이홉.md "wikilink"), [지민](../Page/지민_\(가수\).md "wikilink"))                                                                                     |                                                                                                                                                                                                                        |        |
-| [SBS](../Page/SBS.md "wikilink")                      | [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")                          | 스페셜 MC (with [김유정](../Page/김유정_\(배우\).md "wikilink"), [육성재](../Page/육성재.md "wikilink"))                                                                                | \[43\]                                                                                                                                                                                                                 |        |
+| [SBS](../Page/SBS.md "wikilink")                      | [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")                          | 스페셜 MC (with [김유정](../Page/김유정_\(배우\).md "wikilink"), [육성재](../Page/육성재.md "wikilink"))                                                                                | \[44\]                                                                                                                                                                                                                 |        |
 | 2016                                                  | [SBS](../Page/SBS.md "wikilink")                                               | [놀라운 대회 스타킹](https://ko.wikipedia.org/wiki/스타킹_\(2015년_텔레비전_프로그램\) "wikilink")                                                                                         | 게스트 (with [제이홉](../Page/제이홉.md "wikilink"), [지민](../Page/지민_\(가수\).md "wikilink"))                                                                                                                                     | 447회   |
 | [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")   | [듀엣가요제](../Page/듀엣가요제.md "wikilink")                                           | 게스트                                                                                                                                                                    | 13회                                                                                                                                                                                                                    |        |
-| [SBS](../Page/SBS.md "wikilink")                      | [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")                          | 스페셜 MC (with [진](../Page/진_\(가수\).md "wikilink"), [Kei](https://ko.wikipedia.org/wiki/Kei "wikilink"), [이미주](../Page/이미주.md "wikilink"))                               | \[44\]                                                                                                                                                                                                                 |        |
+| [SBS](../Page/SBS.md "wikilink")                      | [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")                          | 스페셜 MC (with [진](../Page/진_\(가수\).md "wikilink"), [Kei](https://ko.wikipedia.org/wiki/Kei "wikilink"), [이미주](../Page/이미주.md "wikilink"))                               | \[45\]                                                                                                                                                                                                                 |        |
 | [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") | 구라차차 타임슬립 - 새소년                                                                | 공동 MC (with [김구라](../Page/김구라.md "wikilink"), [차태현](../Page/차태현.md "wikilink"), [김병옥](https://ko.wikipedia.org/wiki/김병옥 "wikilink"), [은지원](../Page/은지원.md "wikilink")) | 파일럿 프로그램                                                                                                                                                                                                               |        |
 |                                                       |                                                                                |                                                                                                                                                                        |                                                                                                                                                                                                                        |        |
 
@@ -709,7 +709,7 @@ RM은 수많은 한국 및 미국 가수들과 협력했다. 2015년 3월 4일, 
 
   -
   -
-[분류:1994년 태어남](https://ko.wikipedia.org/wiki/분류:1994년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:방탄소년단의 일원](https://ko.wikipedia.org/wiki/분류:방탄소년단의_일원 "wikilink") [분류:빅히트 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:빅히트_엔터테인먼트_소속 "wikilink") [분류:화관문화훈장 수훈자](https://ko.wikipedia.org/wiki/분류:화관문화훈장_수훈자 "wikilink") [분류:서울특별시 출신](https://ko.wikipedia.org/wiki/분류:서울특별시_출신 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:서울특별시 출신 음악가](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_음악가 "wikilink") [분류:오마초등학교 동문](https://ko.wikipedia.org/wiki/분류:오마초등학교_동문 "wikilink") [분류:신일중학교 (경기) 동문](https://ko.wikipedia.org/wiki/분류:신일중학교_\(경기\)_동문 "wikilink") [분류:압구정고등학교 동문](https://ko.wikipedia.org/wiki/분류:압구정고등학교_동문 "wikilink") [분류:글로벌사이버대학교 동문](https://ko.wikipedia.org/wiki/분류:글로벌사이버대학교_동문 "wikilink") [분류:대한민국의 무신론자](https://ko.wikipedia.org/wiki/분류:대한민국의_무신론자 "wikilink") [분류:20세기 사람](https://ko.wikipedia.org/wiki/분류:20세기_사람 "wikilink") [분류:21세기 사람](https://ko.wikipedia.org/wiki/분류:21세기_사람 "wikilink")
+[분류:1994년 태어남](https://ko.wikipedia.org/wiki/분류:1994년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:20세기 대한민국 사람](https://ko.wikipedia.org/wiki/분류:20세기_대한민국_사람 "wikilink") [분류:21세기 대한민국 사람](https://ko.wikipedia.org/wiki/분류:21세기_대한민국_사람 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:대한민국의 작사가](https://ko.wikipedia.org/wiki/분류:대한민국의_작사가 "wikilink") [분류:대한민국의 작곡가](https://ko.wikipedia.org/wiki/분류:대한민국의_작곡가 "wikilink") [분류:대한민국의 힙합 프로듀서](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_프로듀서 "wikilink") [분류:대한민국의 힙합 음악가](https://ko.wikipedia.org/wiki/분류:대한민국의_힙합_음악가 "wikilink") [분류:방탄소년단의 일원](https://ko.wikipedia.org/wiki/분류:방탄소년단의_일원 "wikilink") [분류:빅히트 엔터테인먼트 소속](https://ko.wikipedia.org/wiki/분류:빅히트_엔터테인먼트_소속 "wikilink") [분류:화관문화훈장 수훈자](https://ko.wikipedia.org/wiki/분류:화관문화훈장_수훈자 "wikilink") [분류:서울특별시 출신 래퍼](https://ko.wikipedia.org/wiki/분류:서울특별시_출신_래퍼 "wikilink") [분류:오마초등학교 동문](https://ko.wikipedia.org/wiki/분류:오마초등학교_동문 "wikilink") [분류:신일중학교 (경기) 동문](https://ko.wikipedia.org/wiki/분류:신일중학교_\(경기\)_동문 "wikilink") [분류:압구정고등학교 동문](https://ko.wikipedia.org/wiki/분류:압구정고등학교_동문 "wikilink") [분류:글로벌사이버대학교 동문](https://ko.wikipedia.org/wiki/분류:글로벌사이버대학교_동문 "wikilink") [분류:대한민국의 무신론자](https://ko.wikipedia.org/wiki/분류:대한민국의_무신론자 "wikilink")
 
 1.
 2.
@@ -755,3 +755,4 @@ RM은 수많은 한국 및 미국 가수들과 협력했다. 2015년 3월 4일, 
 42.
 43.
 44.
+45.

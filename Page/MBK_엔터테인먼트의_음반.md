@@ -294,7 +294,8 @@
   - 2020년 7월 31일 남도현 - **\[Digital Single\] 운명 (쿨 Remake)**\[52\]
   - 2020년 8월 5일 원더나인 - **Good Bye 1THE9**
   - 2020년 8월 25일 송가인 - **\[Digital Single\] 확 감아버려**
-  - 2020년 ?월 ?일 H\&D - **미정**
+  - 2020년 9월 23일 H\&D - **Umbrella**
+  - 2020년 ?월 ?일 [미정](https://ko.wikipedia.org/wiki/미정 "wikilink") - **미정**
 
 ## 각주
 
@@ -332,7 +333,7 @@
 30. [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[김세정](../Page/세정_\(가수\).md "wikilink"),[최유정](../Page/최유정_\(가수\).md "wikilink"),[허찬미](../Page/허찬미.md "wikilink"),[강미나](../Page/미나_\(1999년\).md "wikilink") 외 90명도 앨범 참여.
 31. [김완선](../Page/김완선.md "wikilink"),[조정현](../Page/조정현_\(가수\).md "wikilink"),[최성수](../Page/최성수_\(가수\).md "wikilink"),[전영록](../Page/전영록.md "wikilink"),[이정석](https://ko.wikipedia.org/wiki/이정석 "wikilink")도 앨범 참여.
 32. [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"),[김세정](../Page/세정_\(가수\).md "wikilink"),[최유정](../Page/최유정_\(가수\).md "wikilink"),[허찬미](../Page/허찬미.md "wikilink"),[김도연](../Page/김도연_\(가수\).md "wikilink"),[강미나](../Page/미나_\(1999년\).md "wikilink") 외 26명도 앨범 참여.
-33. [김세정](../Page/세정_\(가수\).md "wikilink"), [김청하](https://ko.wikipedia.org/wiki/김청하 "wikilink"), [최유정](../Page/최유정_\(가수\).md "wikilink"),[김소혜](https://ko.wikipedia.org/wiki/김소혜 "wikilink"), [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"), [주결경](../Page/주결경.md "wikilink") 외 4명도 앨범 참여.
+33. [김세정](../Page/세정_\(가수\).md "wikilink"), [김청하](https://ko.wikipedia.org/wiki/김청하 "wikilink"), [최유정](../Page/최유정_\(가수\).md "wikilink"),[김소혜](../Page/김소혜.md "wikilink"), [전소미](https://ko.wikipedia.org/wiki/소미 "wikilink"), [주결경](../Page/주결경.md "wikilink") 외 4명도 앨범 참여.
 34. [박정현](../Page/박정현.md "wikilink"),[YB의](../Page/YB_\(밴드\).md "wikilink") 멤버 [윤도현](../Page/윤도현.md "wikilink"),[임진아](https://ko.wikipedia.org/wiki/임진아 "wikilink")도 앨범 참여.
 35. [에이핑크](../Page/에이핑크.md "wikilink")의 두 멤버 [윤보미](../Page/윤보미.md "wikilink"),[김남주](../Page/김남주_\(가수\).md "wikilink"),[이단옆차기](../Page/이단옆차기.md "wikilink")의 멤버 [챈슬러](../Page/챈슬러_\(음악가\).md "wikilink"),[쥬얼리](../Page/쥬얼리.md "wikilink")의 멤버 [서인영](../Page/서인영.md "wikilink"),[EXID](../Page/EXID.md "wikilink")의 멤버 [LE](../Page/LE_\(가수\).md "wikilink"),[SG워너비](https://ko.wikipedia.org/wiki/SG워너비 "wikilink")의 멤버 [이석훈](../Page/이석훈_\(가수\).md "wikilink"),[미스에스](../Page/미스에스.md "wikilink")의 멤버 [강민희](https://ko.wikipedia.org/wiki/강민희 "wikilink"),전 [스피드의](../Page/스피드_\(대한민국의_음악_그룹\).md "wikilink") 멤버 [우태운](../Page/우태운.md "wikilink"),[양다일](../Page/양다일.md "wikilink"),[브라더수](https://ko.wikipedia.org/wiki/브라더수 "wikilink")도 앨범 참여.
 36. [피에스타의](../Page/피에스타_\(음악_그룹\).md "wikilink") 멤버 [예지도](../Page/예지_\(1994년\).md "wikilink") 앨범 참여.

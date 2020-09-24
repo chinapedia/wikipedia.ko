@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [서부 콘퍼런스 \(NHL\)](https://ko.wikipedia.org/wiki/서부_콘퍼런스_\(NHL\)).
 
 
-**서부 콘퍼런스**([영어](../Page/영어.md "wikilink") : Western Conference, [프랑스어](../Page/프랑스어.md "wikilink") : Conférence de l'Ouest)에는 총 14개 팀으로 2개 디비전에 7팀으로 나뉘어 있다. 예전 명칭은 **클래런스 켐벨 콘퍼런스**(Clarence Campbell Conference)였다.
+**서부 콘퍼런스**({llang|en|Western Conference}}, )에는 총 14개 팀으로 2개 디비전에 7팀으로 나뉘어 있다. 예전 명칭은 **클래런스 켐벨 콘퍼런스**(Clarence Campbell Conference)였다.
 
 <table>
 <thead>
@@ -35,7 +35,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/센트럴_디비전_(NHL).md" title="wikilink">센트럴</a></p></td>
+<td><p><a href="../Page/센트럴_디비전_(NHL).md" title="wikilink">센트럴 디비전</a></p></td>
 <td><p><a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙호크스</a></p></td>
 <td><p><a href="../Page/일리노이주.md" title="wikilink">일리노이주</a> <a href="../Page/시카고.md" title="wikilink">시카고</a></p></td>
 <td><p><a href="../Page/유나이티드_센터.md" title="wikilink">유나이티드 센터</a></p></td>
@@ -98,7 +98,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/퍼시픽_디비전_(NHL).md" title="wikilink">퍼시픽</a></p></td>
+<td><p><a href="../Page/퍼시픽_디비전_(NHL).md" title="wikilink">퍼시픽 디비전</a></p></td>
 <td></td>
 <td></td>
 <td></td>

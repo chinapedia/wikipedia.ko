@@ -70,7 +70,7 @@
       - [코자이 카오리](../Page/코자이_카오리.md "wikilink") (9) 〈無言坂〉
       - [하마사키 아유미](../Page/하마사키_아유미.md "wikilink") (2) 〈SEASONS〉
       - [스즈키 아미](../Page/스즈키_아미.md "wikilink") (2) 〈THANK YOU 4 EVERY DAY EVERY BODY〉
-      - [히토미](https://ko.wikipedia.org/wiki/히토미_\(가수\) "wikilink") (1) 〈LOVE 2000〉
+      - [히토미](../Page/히토미_\(가수\).md "wikilink") (1) 〈LOVE 2000〉
       - 코야나기 유키 (1) 〈あなたのキスを数えましょう ～You were mine～〉
       - [마츠다 세이코](../Page/마츠다_세이코.md "wikilink") (14) 〈あなたに逢いたくて～Missing You～〉
       - [야시로 아키](../Page/야시로_아키.md "wikilink") (22) 〈なみだ恋〉

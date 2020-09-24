@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [이스트 디비전 \(NHL\)](https://ko.wikipedia.org/wiki/이스트_디비전_\(NHL\)).
 
 
-**이스트 디비전** (East Division)은 1967년부터 1974년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.
+**이스트 디비전**(East Division)은 1967년부터 1974년까지 [NHL에](../Page/내셔널_하키_리그.md "wikilink") 존재했던 디비전이다.
 
 ## 역대 이스트 디비전 라인업
 
@@ -15,17 +15,17 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1967년~1970년</p></td>
+<td><p>1967년 ~ 1970년</p></td>
 <td><p><a href="../Page/보스턴_브루인스.md" title="wikilink">보스턴 브루인스</a> {{·}}  <a href="../Page/시카고_블랙호크스.md" title="wikilink">시카고 블랙 호크스</a> {{·}}  <a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/뉴욕_레인저스.md" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a></p></td>
 <td><p>6팀</p></td>
 </tr>
 <tr class="even">
-<td><p>1970년~1972년</p></td>
+<td><p>1970년 ~ 1972년</p></td>
 <td><p><a href="../Page/보스턴_브루인스.md" title="wikilink">보스턴 브루인스</a> {{·}}  <a href="../Page/버펄로_세이버스.md" title="wikilink">버펄로 세이버스</a> {{·}}  <a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/뉴욕_레인저스.md" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a> {{·}}  <a href="../Page/밴쿠버_캐넉스.md" title="wikilink">밴쿠버 캐넉스</a></p></td>
 <td><p>7팀</p></td>
 </tr>
 <tr class="odd">
-<td><p>1972년~1974년</p></td>
+<td><p>1972년 ~ 1974년</p></td>
 <td><p><a href="../Page/보스턴_브루인스.md" title="wikilink">보스턴 브루인스</a> {{·}}  <a href="../Page/버펄로_세이버스.md" title="wikilink">버펄로 세이버스</a> {{·}}  <a href="../Page/디트로이트_레드윙스.md" title="wikilink">디트로이트 레드윙스</a> {{·}}  <a href="../Page/몬트리올_커네이디언스.md" title="wikilink">몬트리올 커네이디언스</a> {{·}}  <a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a> {{·}}  <a href="../Page/뉴욕_레인저스.md" title="wikilink">뉴욕 레인저스</a> {{·}}  <a href="../Page/토론토_메이플리프스.md" title="wikilink">토론토 메이플리프스</a> {{·}}  <a href="../Page/밴쿠버_캐넉스.md" title="wikilink">밴쿠버 캐넉스</a></p></td>
 <td><p>8팀</p></td>
 </tr>

@@ -44,7 +44,7 @@
       - 후지 아야코 (11) 〈流氷恋唄〉
       - [마츠우라 아야](../Page/마츠우라_아야.md "wikilink") (2) 〈Yeah\! めっちゃホリディ〉
       - [카하라 토모미](../Page/카하라_토모미.md "wikilink") (4) 〈あきらめましょう〉
-      - [히토미](https://ko.wikipedia.org/wiki/히토미_\(가수\) "wikilink") (2) 〈SAMURAI DRIVE〉
+      - [히토미](../Page/히토미_\(가수\).md "wikilink") (2) 〈SAMURAI DRIVE〉
       - **스즈키 노리에 (1)** 〈私のおとうさん〉
       - [모닝구무스메](../Page/모닝구무스메.md "wikilink") (5) 〈[ここにいるぜぇ\!](../Page/여기에_있어!.md "wikilink") [そうだ\! We're ALIVE](https://ko.wikipedia.org/wiki/소다!_We're_ALIVE "wikilink") 2002 Ver.〉
       - [나가야마 요코](../Page/나가야마_요코.md "wikilink") (9) 〈めぐり逢い〉

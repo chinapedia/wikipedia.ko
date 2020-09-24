@@ -168,8 +168,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>이은경(임시감독대행)</p></td>
+<td><p>정왕교(임시코치대행)</p></td>
 </tr>
 <tr class="even">
 <td><p>1962년</p></td>
@@ -190,8 +190,8 @@
 <td><p>1963년 ?</p></td>
 <td><p>1963년 ?</p></td>
 <td><p>B팀[10]</p></td>
-<td><p>?</p></td>
-<td><p>?</p></td>
+<td><p>이은경(감독대행)</p></td>
+<td><p>정왕교(코치대행)</p></td>
 <td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1963042600209208013&amp;editNo=2&amp;printCount=1&amp;publishDate=1963-04-26&amp;officeId=00020&amp;pageNo=8&amp;printNo=12766&amp;publishType=00020">선수 명단 기사</a></p></td>
 <td><p>체육주간기념 대표선수대항축구<br />
 (자체 홍백전)[11]</p></td>

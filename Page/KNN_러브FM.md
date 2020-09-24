@@ -5,7 +5,7 @@
 
 ## 개요
 
-주로 [뉴스](../Page/뉴스.md "wikilink"), [시사](../Page/시사.md "wikilink"), [연예](https://ko.wikipedia.org/wiki/연예 "wikilink")오락, [음악](../Page/음악.md "wikilink"), [스포츠](../Page/스포츠.md "wikilink") 등의 종합 정보를 24시간 제공하는 [대한민국](../Page/대한민국.md "wikilink")의 종합 [라디오](../Page/라디오.md "wikilink") [채널](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink") 중 하나이다.
+주로 [뉴스](../Page/뉴스.md "wikilink"), [시사](../Page/시사.md "wikilink"), [연예](../Page/연예.md "wikilink")오락, [음악](../Page/음악.md "wikilink"), [스포츠](../Page/스포츠.md "wikilink") 등의 종합 정보를 24시간 제공하는 [대한민국](../Page/대한민국.md "wikilink")의 종합 [라디오](../Page/라디오.md "wikilink") [채널](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink") 중 하나이다.
 
 부산광역시와 경상남도, 전라남도 동부 및 일본 나가사키현 쓰시마시 일부에서만 청취할 수 있다.
 
@@ -101,4 +101,4 @@ KNN 러브FM의 여름 휴가철 특집 생방송 프로그램이다.
 
   - [KNN 라디오 홈페이지](http://www.knn.co.kr/category/radio)
 
-[분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [러브FM](https://ko.wikipedia.org/wiki/분류:KNN "wikilink") [분류:SBS 네트워크 협정 지역 민영 방송국](https://ko.wikipedia.org/wiki/분류:SBS_네트워크_협정_지역_민영_방송국 "wikilink") [러브FM](https://ko.wikipedia.org/wiki/분류:SBS의_라디오_네트워크 "wikilink") [분류:2016년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:2016년_설립된_라디오_방송국 "wikilink")
+[분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [러브FM](https://ko.wikipedia.org/wiki/분류:KNN "wikilink") [러브FM](https://ko.wikipedia.org/wiki/분류:SBS의_라디오_네트워크 "wikilink") [분류:2016년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:2016년_설립된_라디오_방송국 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV로 보는 원작동화](https://ko.wikipedia.org/wiki/TV로_보는_원작동화).
 
 
-**TV로 보는 원작동화**는 [2002년](../Page/2002년.md "wikilink")부터 [2003년](../Page/2003년.md "wikilink")까지 [EBS TV](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")(현 [EBS 1TV](../Page/EBS_1TV.md "wikilink"))에서 방영되었던 어린이 드라마다. 2011년 4월 부활했으나 4개월만에 종영되었다. 주로 어린이 창작동화를 바탕으로 각색한 작품이다.
+**TV로 보는 원작동화**는 [2002년](../Page/2002년.md "wikilink")부터 [2003년](../Page/2003년.md "wikilink")까지 [EBS TV](https://ko.wikipedia.org/wiki/EBS_TV "wikilink")(현 [EBS 1TV](../Page/EBS_1TV.md "wikilink"))에서 방영되었던 어린이 드라마다. 2011년 4월 부활했으나 4개월만에 종영되었다. 주로 어린이 창작동화를 바탕으로 극화한 작품이다.
 
 ## 방송 시간
 
@@ -14,7 +14,7 @@
 <tr class="header">
 <th><p>회차</p></th>
 <th><p>방영일</p></th>
-<th><p>부제</p></th>
+<th><p>부제 (서브 타이틀)</p></th>
 <th><p>출연자</p></th>
 <th><p>각본</p></th>
 <th><p>연출</p></th>
@@ -27,7 +27,7 @@
 <td><p>1</p></td>
 <td><p>3월 1일</p></td>
 <td><p>나쁜 어린이표</p></td>
-<td><p><a href="../Page/정선경.md" title="wikilink">정선경</a>, <a href="https://ko.wikipedia.org/wiki/유동균_(배우)" title="wikilink">유동균</a>, 이기룡, 김재영,<br />
+<td><p><a href="../Page/정선경.md" title="wikilink">정선경</a>, <a href="../Page/유동균_(배우).md" title="wikilink">유동균</a>, 이기룡, 김재영,<br />
 <a href="../Page/김하균.md" title="wikilink">김하균</a>, <a href="../Page/조현숙.md" title="wikilink">조현숙</a></p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
@@ -177,7 +177,7 @@
 <td><p>15</p></td>
 <td><p>9월 11일 ~ 9월 18일</p></td>
 <td><p>네 편이 되어줄게</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김유리_(1991년_6월)" title="wikilink">김유리</a>, <a href="https://ko.wikipedia.org/wiki/이지영_(1989년)" title="wikilink">이지영</a>, <a href="../Page/김학준_(1992년).md" title="wikilink">김학준</a>, 김송이,<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/김유리_(1991년_6월)" title="wikilink">김유리</a>, <a href="../Page/이지영_(1989년).md" title="wikilink">이지영</a>, <a href="../Page/김학준_(1992년).md" title="wikilink">김학준</a>, 김송이,<br />
 <a href="https://ko.wikipedia.org/wiki/박건태" title="wikilink">박건태</a>, <a href="../Page/민_(가수).md" title="wikilink">이민영</a>, 이민지, <a href="../Page/차기환.md" title="wikilink">차기환</a>,<br />
 <a href="../Page/김미정_(배우).md" title="wikilink">김미정</a>, 이현실, <a href="../Page/전정희_(배우).md" title="wikilink">전정희</a></p></td>
 <td><p>연미정</p></td>
@@ -259,7 +259,7 @@
 <tr class="header">
 <th><p>회차</p></th>
 <th><p>방영일</p></th>
-<th><p>부제</p></th>
+<th><p>부제 (서브 타이틀)</p></th>
 <th><p>출연자</p></th>
 <th><p>각본</p></th>
 <th><p>연출</p></th>
@@ -273,7 +273,7 @@
 <td><p>1월 8일 ~ 1월 15일</p></td>
 <td><p>나는 지금 네가 보고 싶어</p></td>
 <td><p>김지은, <a href="../Page/정인선.md" title="wikilink">정인선</a>, <a href="https://ko.wikipedia.org/wiki/강문희" title="wikilink">강문희</a>, 김승환,<br />
-권혁호, <a href="https://ko.wikipedia.org/wiki/길수현" title="wikilink">길수현</a>, 고용화, 이영희</p></td>
+권혁호, <a href="../Page/길수현.md" title="wikilink">길수현</a>, 고용화, 이영희</p></td>
 <td><p>연미정</p></td>
 <td><p>이창용</p></td>
 <td><p>조민희</p></td>

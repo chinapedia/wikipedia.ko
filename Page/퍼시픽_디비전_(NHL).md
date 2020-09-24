@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [퍼시픽 디비전 \(NHL\)](https://ko.wikipedia.org/wiki/퍼시픽_디비전_\(NHL\)).
 
 
-**퍼시픽 디비전**(Central Division)은 [애너하임 덕스](../Page/애너하임_덕스.md "wikilink"), [애리조나 카이오츠](../Page/애리조나_카이오츠.md "wikilink"), [캘거리 플레임스](../Page/캘거리_플레임스.md "wikilink"), [에드먼턴 오일러스](../Page/에드먼턴_오일러스.md "wikilink"), [로스앤젤레스 킹스](../Page/로스앤젤레스_킹스.md "wikilink"), [새너제이 샤크스](../Page/새너제이_샤크스.md "wikilink"), [밴쿠버 캐넉스](../Page/밴쿠버_캐넉스.md "wikilink"), [베이거스 골든 나이츠로](../Page/베이거스_골든_나이츠.md "wikilink") 이루어진 디비전이다.
+**퍼시픽 디비전**(Pacific Division)은 [애너하임 덕스](../Page/애너하임_덕스.md "wikilink"), [애리조나 카이오츠](../Page/애리조나_카이오츠.md "wikilink"), [캘거리 플레임스](../Page/캘거리_플레임스.md "wikilink"), [에드먼턴 오일러스](../Page/에드먼턴_오일러스.md "wikilink"), [로스앤젤레스 킹스](../Page/로스앤젤레스_킹스.md "wikilink"), [새너제이 샤크스](../Page/새너제이_샤크스.md "wikilink"), [밴쿠버 캐넉스](../Page/밴쿠버_캐넉스.md "wikilink"), [베이거스 골든 나이츠로](../Page/베이거스_골든_나이츠.md "wikilink") 이루어진 디비전이다.
 
 ## 현재 퍼시픽 디비전 소속 팀 및 경기장
 

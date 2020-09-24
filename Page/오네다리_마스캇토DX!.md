@@ -50,7 +50,7 @@
   - [루카와 리나](../Page/루카와_리나.md "wikilink")
   - [오리이 하루나](https://ko.wikipedia.org/wiki/오리이_하루나 "wikilink")
   - [야마나카 아야코](../Page/야마나카_아야코.md "wikilink")
-  - [코다마 나나코](https://ko.wikipedia.org/wiki/코다마_나나코 "wikilink")
+  - [코다마 나나코](../Page/코다마_나나코.md "wikilink")
   - 리리카 → [후쿠니시 나츠키](https://ko.wikipedia.org/wiki/후쿠니시_나츠키 "wikilink") (개명)
   - [나가세 유미](https://ko.wikipedia.org/wiki/나가세_유미 "wikilink")
   - 하야시다 유리아

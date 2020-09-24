@@ -10,14 +10,7 @@
 #### [동아시아](https://ko.wikipedia.org/wiki/동아시아 "wikilink")
 
   - ****
-      - [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink") - [상하이 푸둥 국제공항](https://ko.wikipedia.org/wiki/상하이_푸둥_국제공항 "wikilink") *전세편*
-
-<!-- end list -->
-
-  - **[대한민국](../Page/대한민국.md "wikilink")**
-      - [인천](https://ko.wikipedia.org/wiki/인천 "wikilink") - [인천 국제공항](https://ko.wikipedia.org/wiki/인천_국제공항 "wikilink")
-
-*정기편*
+      - [상하이](https://ko.wikipedia.org/wiki/상하이 "wikilink") - [상하이 푸둥 국제공항](https://ko.wikipedia.org/wiki/상하이_푸둥_국제공항 "wikilink") **전세편**
 
 #### [동남아시아](../Page/동남아시아.md "wikilink")
 
@@ -59,7 +52,7 @@
 #### [미크로네시아](../Page/미크로네시아.md "wikilink")
 
   - ****
-      - [사이판](https://ko.wikipedia.org/wiki/사이판 "wikilink") - [사이판 국제공항](https://ko.wikipedia.org/wiki/사이판_국제공항 "wikilink") *계졀편*
+      - [사이판](https://ko.wikipedia.org/wiki/사이판 "wikilink") - [사이판 국제공항](https://ko.wikipedia.org/wiki/사이판_국제공항 "wikilink") **계졀편**
 
 ## 과거 취항지
 
@@ -90,7 +83,7 @@
       - [덴파사르](../Page/덴파사르.md "wikilink") - [응우라라이 국제공항](../Page/응우라라이_국제공항.md "wikilink")
   - ****
       - [타위타위](https://ko.wikipedia.org/wiki/타위타위 "wikilink") - [상가상가 공항](https://ko.wikipedia.org/wiki/상가상가_공항 "wikilink")
-      - [홀로](https://ko.wikipedia.org/wiki/홀로 "wikilink") - [홀로 공항](https://ko.wikipedia.org/wiki/홀로_공항 "wikilink")
+      - [홀로](../Page/홀로.md "wikilink") - [홀로 공항](https://ko.wikipedia.org/wiki/홀로_공항 "wikilink")
 
 #### [서남아시아](https://ko.wikipedia.org/wiki/서남아시아 "wikilink")
 

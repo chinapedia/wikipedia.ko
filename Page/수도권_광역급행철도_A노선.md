@@ -131,7 +131,7 @@
 <br />
 <br />
 <a href="../Page/수도권_광역급행철도_B노선.md" title="wikilink">수도권 광역급행철도 B노선</a> (예정)<br />
-<span style="color: {{한국 철도 노선색|NT|SN}};">■</span> <a href="../Page/신안산선.md" title="wikilink">신안산선</a>(예정)</p></td>
+(예정)</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/중구_(서울특별시).md" title="wikilink">중구</a></p></td>

@@ -57,7 +57,7 @@
       - 《굉장한 남자 사투편》 : (1976년 4월 4일 - 9월 26일)
       - 《굉장한 남자 총결산편》 : (1976년 10월 3일 - [1977년](../Page/1977년.md "wikilink") 3월 27일)
   - 《[상쾌한 남자](https://ko.wikipedia.org/wiki/상쾌한_남자 "wikilink")》 : (1977년 4월 3일 - [1978년](../Page/1978년.md "wikilink") 3월 26일, 주연 : [시바 토시오](https://ko.wikipedia.org/wiki/시바_토시오 "wikilink"))
-  - 《[기적이 울리는\!](https://ko.wikipedia.org/wiki/기적이_울리는! "wikilink")》 : (1978년 4월 2일 - 7월 23일, 주연 : [후지오카 히로시](https://ko.wikipedia.org/wiki/후지오카_히로시 "wikilink"))
+  - 《[기적이 울리는\!](https://ko.wikipedia.org/wiki/기적이_울리는! "wikilink")》 : (1978년 4월 2일 - 7월 23일, 주연 : [후지오카 히로시](../Page/후지오카_히로시.md "wikilink"))
 
 <!-- end list -->
 

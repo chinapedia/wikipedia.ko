@@ -63,8 +63,8 @@
 ## 같이 보기
 
   - [채널 A 금토 드라마](https://ko.wikipedia.org/wiki/채널_A_금토_드라마 "wikilink")
-  - [JTBC 금토드라마](../Page/JTBC_금토드라마.md "wikilink")
-  - [tvN 금토드라마](https://ko.wikipedia.org/wiki/tvN_금토드라마 "wikilink")
-  - [SBS 금토드라마](../Page/SBS_금토드라마.md "wikilink")
+  - [JTBC 금토 드라마](../Page/JTBC_금토_드라마.md "wikilink")
+  - [tvN 금토 드라마](https://ko.wikipedia.org/wiki/tvN_금토_드라마 "wikilink")
+  - [SBS 금토 드라마](../Page/SBS_금토_드라마.md "wikilink")
 
 [분류:한국방송공사의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사의_텔레비전_드라마 "wikilink") [한국방송공사_금토드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사_금토드라마 "wikilink") [한국방송공사_예능드라마](https://ko.wikipedia.org/wiki/분류:한국방송공사_예능드라마 "wikilink")

@@ -52,7 +52,7 @@ asm.js에 기반한 애플리케이션 대다수는 Emscripten이나 Mandrell을
 
   - [구글 네이티브 클라이언트](../Page/구글_네이티브_클라이언트.md "wikilink")
 
-## 참고문헌
+## 참고 문헌
 
   - [파이어폭스 최신버전에 반영된 asm.js 성능향상으로 인해 가능해진 멋진 게임\!](http://hacks.mozilla.or.kr/2014/05/asm-js-performance-improvements-in-the-latest-version-of-firefox-make-games-fly/) , 모질라 기술 블로그, 2014년 5월 19일, ingeeKim, CC-BY-SA 3.0을 기반으로 한 내용
 

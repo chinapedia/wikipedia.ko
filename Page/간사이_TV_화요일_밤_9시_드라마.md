@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - 《**[건강하고 문화적인 최저한도의 생활](https://ko.wikipedia.org/wiki/건강하고_문화적인_최저한도의_생활 "wikilink")**》
+  - 《**[건강하고 문화적인 최저한도의 생활](../Page/건강하고_문화적인_최저한도의_생활.md "wikilink")**》
     주연:[요시오카 리호](../Page/요시오카_리호.md "wikilink")
     원작:[카시와기 하루코](https://ko.wikipedia.org/wiki/카시와기_하루코 "wikilink")
     각본:[야지마 코이치](https://ko.wikipedia.org/wiki/야지마_코이치 "wikilink")
@@ -86,7 +86,7 @@
 
 ### 2020년
 
-  - 《**[10의 비밀](https://ko.wikipedia.org/wiki/10의_비밀 "wikilink")**》
+  - 《**[10의 비밀](../Page/10의_비밀.md "wikilink")**》
     주연:[무카이 오사무](../Page/무카이_오사무.md "wikilink")
     각본:[고토 노리코](https://ko.wikipedia.org/wiki/고토_노리코 "wikilink")
     제작:칸사이 TV

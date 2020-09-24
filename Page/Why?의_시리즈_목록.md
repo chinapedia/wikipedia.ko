@@ -62,7 +62,7 @@
 53. [공생과 천적](https://ko.wikipedia.org/wiki/공생과_천적 "wikilink")
 54. [암석과 광물](https://ko.wikipedia.org/wiki/암석과_광물 "wikilink")
 55. [해부학](../Page/해부학.md "wikilink")
-56. [장애](https://ko.wikipedia.org/wiki/장애 "wikilink")와 [과학](../Page/과학.md "wikilink")
+56. [장애](../Page/장애.md "wikilink")와 [과학](../Page/과학.md "wikilink")
 57. [컴퓨터 바이러스](../Page/컴퓨터_바이러스.md "wikilink")
 58. [고대동물](https://ko.wikipedia.org/wiki/고대동물 "wikilink")
 59. [심해](../Page/심해.md "wikilink")
@@ -100,6 +100,7 @@
 91. [놀이 기구](https://ko.wikipedia.org/wiki/놀이_기구 "wikilink")
 92. \[\[암호 화폐와 블록체인¥¥
 93. [악기와 소리](https://ko.wikipedia.org/wiki/악기와_소리 "wikilink")
+94. 세균과 바이러스
 
 ### 수학학습만화
 
@@ -159,6 +160,9 @@
 31. 항해와 탐험
 32. 반려동물
 33. 로마이야기
+34. 만화와 애니메이션
+35. 뉴스와 미디어
+36. 크리에이터
 
 ### 한국사
 

@@ -134,7 +134,7 @@
 ## 제작
 
   - [슈퍼주니어-K.R.Y.](../Page/슈퍼주니어-K.R.Y..md "wikilink") ([예성](../Page/예성.md "wikilink"), [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink"))
-  - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
+  - 주최 : [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink")
   - 주관 : 드림메이커
   - 후원 : [YES24](../Page/YES24.md "wikilink")
   - 총감독 : 오오쿠보 마사오

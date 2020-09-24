@@ -51,7 +51,7 @@
   - 2003년 6월 2일 [옥주현](../Page/옥주현.md "wikilink") - **[Nan](../Page/Nan.md "wikilink")**
   - 2003년 8월 13일 [이효리](../Page/이효리.md "wikilink") - **[STYLISH....E hyOlee](https://ko.wikipedia.org/wiki/STYLISH....E_hyOlee "wikilink")**
   - 2004년 1월 16일 클릭비 - **The Best Of Click-B**
-  - 2004년 1월 20일 [샤인](https://ko.wikipedia.org/wiki/샤인_\(듀오\) "wikilink") - **Shyne 01**
+  - 2004년 1월 20일 [샤인](../Page/샤인_\(듀오\).md "wikilink") - **Shyne 01**
   - 2004년 4월 20일 [메이비](../Page/메이비_\(가수\).md "wikilink") - **\[Digital Single\] 혼잣말**
   - 2004년 11월 16일 옥주현 - **[L' Ordeur Original](https://ko.wikipedia.org/wiki/L'_Ordeur_Original "wikilink")**
   - 2005년 2월 24일 이효리 - **\[Digital Single\] Anymotion feat.에릭 (삼성 애니콜 광고음악)**

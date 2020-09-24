@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [V-레이](https://ko.wikipedia.org/wiki/V-레이).
 
 
-[250px용](https://ko.wikipedia.org/wiki/파일:BallsRender.png "wikilink") V-레이를 사용하여 만든 렌더.\]\] **V-레이**(V-Ray)는 [3차원 컴퓨터 그래픽스 소프트웨어를](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스_소프트웨어 "wikilink") 위한 [상용](https://ko.wikipedia.org/wiki/상용_소프트웨어 "wikilink") [렌더링](https://ko.wikipedia.org/wiki/3차원_렌더링 "wikilink") [플러그인](../Page/플러그인.md "wikilink")이다. 1997년에 설립된 [불가리아](../Page/불가리아.md "wikilink") [소피아](../Page/소피아.md "wikilink")에 위치한 불가리아 회사 Chaos Group이 개발하였다. V-레이는 미디어, 엔터테인먼트, 또 영화 및 비디오 게임 개발과 같은 디자인 산업, 그리고 [산업 디자인](https://ko.wikipedia.org/wiki/산업_디자인 "wikilink"), [제품 디자인](https://ko.wikipedia.org/wiki/제품_디자인 "wikilink"), [건축](../Page/건축.md "wikilink")에 사용된다.\[1\] 이 기업의 최고 아키텍트는 Peter Mitev와 Vladimir Koylazov이다.
+[250px용](https://ko.wikipedia.org/wiki/파일:BallsRender.png "wikilink") V-레이를 사용하여 만든 렌더.\]\] **V-레이**(V-Ray)는 [3차원 컴퓨터 그래픽스 소프트웨어를](https://ko.wikipedia.org/wiki/3차원_컴퓨터_그래픽스_소프트웨어 "wikilink") 위한 [상용](../Page/상용_소프트웨어.md "wikilink") [렌더링](https://ko.wikipedia.org/wiki/3차원_렌더링 "wikilink") [플러그인](../Page/플러그인.md "wikilink")이다. 1997년에 설립된 [불가리아](../Page/불가리아.md "wikilink") [소피아](../Page/소피아.md "wikilink")에 위치한 불가리아 회사 Chaos Group이 개발하였다. V-레이는 미디어, 엔터테인먼트, 또 영화 및 비디오 게임 개발과 같은 디자인 산업, 그리고 [산업 디자인](https://ko.wikipedia.org/wiki/산업_디자인 "wikilink"), [제품 디자인](https://ko.wikipedia.org/wiki/제품_디자인 "wikilink"), [건축](../Page/건축.md "wikilink")에 사용된다.\[1\] 이 기업의 최고 아키텍트는 Peter Mitev와 Vladimir Koylazov이다.
 
 ## 개요
 

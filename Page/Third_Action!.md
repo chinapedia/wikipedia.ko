@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Third Action!](https://ko.wikipedia.org/wiki/Third_Action!).
 
 
-〈**Third Action**〉(서드 액션)은 [일본](../Page/일본.md "wikilink")의 아이돌 그룹 [STAR☆ANIS](https://ko.wikipedia.org/wiki/STAR☆ANIS "wikilink")의 4번째 싱글이다.
+〈**Third Action**〉(서드 액션)은 [일본](../Page/일본.md "wikilink")의 아이돌 그룹 [STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")의 4번째 싱글이다.
 
 ## 수록곡
 

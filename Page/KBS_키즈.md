@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 키즈](https://ko.wikipedia.org/wiki/KBS_키즈).
 
 
-**KBS 키즈**()는 [대한민국](../Page/대한민국.md "wikilink")의 [방송 채널 사용 사업자](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [KBS N이](https://ko.wikipedia.org/wiki/KBS_N "wikilink") 운영 중인 [어린이](../Page/어린이.md "wikilink") 대상 [텔레비전](../Page/텔레비전.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"). [2012년](../Page/2012년.md "wikilink") [5월 5일에](../Page/5월_5일.md "wikilink") 개국하였다.
+**KBS 키즈**()는 [대한민국](../Page/대한민국.md "wikilink")의 [방송 채널 사용 사업자](https://ko.wikipedia.org/wiki/대한민국_방송법 "wikilink") [KBS N이](../Page/KBS_N.md "wikilink") 운영 중인 [어린이](../Page/어린이.md "wikilink") 대상 [텔레비전](../Page/텔레비전.md "wikilink") [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink"). [2012년](../Page/2012년.md "wikilink") [5월 5일에](../Page/5월_5일.md "wikilink") 개국하였다.
 
 ## 채널 번호
 
@@ -12,7 +12,6 @@
 
 ## 슬로건
 
-  - 대한민국 어린이 전문채널
   - 어린이 에듀테인먼트 채널
   - 신나는 어린이 세상\[1\]
 

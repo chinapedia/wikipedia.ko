@@ -16,7 +16,7 @@
 ## 외부 링크
 
   -
-[CNH_인더스트리얼](https://ko.wikipedia.org/wiki/분류:CNH_인더스트리얼 "wikilink") [분류:2012년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2012년_설립된_기업 "wikilink") [분류:다국적 기업](https://ko.wikipedia.org/wiki/분류:다국적_기업 "wikilink") [분류:유럽의 기업](https://ko.wikipedia.org/wiki/분류:유럽의_기업 "wikilink") [분류:이탈리아의 브랜드](https://ko.wikipedia.org/wiki/분류:이탈리아의_브랜드 "wikilink")
+[CNH_인더스트리얼](https://ko.wikipedia.org/wiki/분류:CNH_인더스트리얼 "wikilink") [분류:네덜란드의 다국적 기업](https://ko.wikipedia.org/wiki/분류:네덜란드의_다국적_기업 "wikilink") [분류:암스테르담의 기업](https://ko.wikipedia.org/wiki/분류:암스테르담의_기업 "wikilink") [분류:이탈리아의 브랜드](https://ko.wikipedia.org/wiki/분류:이탈리아의_브랜드 "wikilink") [분류:건설기계 제조사](https://ko.wikipedia.org/wiki/분류:건설기계_제조사 "wikilink") [분류:농기계 제조 기업](https://ko.wikipedia.org/wiki/분류:농기계_제조_기업 "wikilink") [분류:2012년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2012년_설립된_기업 "wikilink")
 
 1.
 2.

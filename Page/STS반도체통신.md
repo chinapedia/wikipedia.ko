@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [STS반도체통신](https://ko.wikipedia.org/wiki/STS반도체통신).
 
 
-**SFA반도체**는 대한민국의 반도체 제조업체로,
+**SFA반도체**는 대한민국의 반도체 제조업체이다.
 
 ## 연혁
 

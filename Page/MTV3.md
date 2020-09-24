@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MTV3](https://ko.wikipedia.org/wiki/MTV3).
 
 
-**MTV3**은 [핀란드](../Page/핀란드.md "wikilink")의 [민영 방송](../Page/민영_방송.md "wikilink") 채널이다. 이 채널이 속한 핀란드의 방송국 MTV Media는 [스웨덴](../Page/스웨덴.md "wikilink")에 본사를 둔 [Bonnier Group](https://ko.wikipedia.org/wiki/:en:Bonnier_Group "wikilink") 계열에 속해있다.
+**MTV3**은 [핀란드](../Page/핀란드.md "wikilink")의 [민영 방송](../Page/민영_방송.md "wikilink") 채널이다. 이 채널이 속한 핀란드의 방송국 MTV Media는 [스웨덴](../Page/스웨덴.md "wikilink")에 본사를 둔 통신사업자 텔리아 계열에 속해있다.
 
 ## 역사
 

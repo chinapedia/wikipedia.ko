@@ -12,7 +12,7 @@
   - <small>〈샴푸의 요정〉원곡은 [빛과 소금의](https://ko.wikipedia.org/wiki/빛과_소금_\(밴드\) "wikilink") 《[1집](../Page/빛과_소금_Vol.1.md "wikilink")》에 수록된 동명의 곡이다.</small>
   - <small>〈인터뷰 I〉은 [봄여름가을겨울](../Page/봄여름가을겨울.md "wikilink")의 《[1집](../Page/봄여름가을겨울_1집.md "wikilink")》 수록곡 〈거리의 악사〉를 샘플링하였다.</small>
   - <small>〈350초 미친년 추격전〉은 [프랑스](../Page/프랑스.md "wikilink")의 [신스팝](https://ko.wikipedia.org/wiki/신스팝 "wikilink") 밴드 Magazine 60의 1984년 작 〈Don Quichotte〉를 샘플링 하였다.</small>
-  - <small>〈첫사랑은 죽었다〉는 김광민의 1990년 작 〈가난한 자의 죽음〉을 샘플링하였다.</small>
+  - <small>〈첫사랑은 죽었다〉는 김광민의 1991년 작 〈가난한 자의 죽음〉을 샘플링하였다.</small>
   - <small>〈Mama -2001 bounce version-〉과 〈벌레 - 2001 fu\*k you version-〉의 원곡인 〈Mama〉와 〈벌레〉는 패닉의 2집 《[밑](../Page/밑_\(음반\).md "wikilink")》에 수록되어있다.</small>
   - <small>17번 트랙 〈샴푸의 요정〉부터는 히든트랙이며, 18\~26번 트랙은 무음이다. 그리고 〈X 같은 TV연예〉의 'TV연예'는 [SBS의](../Page/SBS_TV.md "wikilink") 연예정보 프로그램 《[한밤의 TV연예](../Page/한밤의_TV연예.md "wikilink")》를 가리킨다.</small>\[3\]
 

@@ -34,7 +34,7 @@
   - [재규어](../Page/재규어_자동차.md "wikilink") - [XF](../Page/재규어_XF.md "wikilink")
   - [렉서스](../Page/렉서스.md "wikilink") - [GS](../Page/렉서스_GS.md "wikilink"), [ES](../Page/렉서스_ES.md "wikilink")
   - [혼다](https://ko.wikipedia.org/wiki/혼다 "wikilink") - [레전드](../Page/혼다_레전드.md "wikilink")
-  - [볼보](../Page/볼보자동차.md "wikilink") - [S90](https://ko.wikipedia.org/wiki/볼보_S90 "wikilink")
+  - [볼보](../Page/볼보자동차.md "wikilink") - [S90](../Page/볼보_S90.md "wikilink")
   - [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink") - [Q70](https://ko.wikipedia.org/wiki/인피니티_Q70 "wikilink")
   - [링컨](../Page/링컨_\(자동차\).md "wikilink") - [MKZ](https://ko.wikipedia.org/wiki/링컨_MKZ "wikilink")
 

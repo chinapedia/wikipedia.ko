@@ -1001,7 +1001,7 @@ end
 `   { 'BIBSYS', '`[`BIBSYS`](../Page/BIBSYS.md "wikilink")`', 1015, p.bibsysLink },`
 `   { 'Bildindex', '`[`Bildindex`](https://ko.wikipedia.org/wiki/:en:Marburg_Picture_Index "wikilink")`', 2092, p.bildLink },`
 `   { 'BNC', '`[`BNC`](https://ko.wikipedia.org/wiki/칠레_국립도서관 "wikilink")`', 1890, p.bncLink }, --initially commented due to excessive WD ID errors (many bad IDs since removed)`
-`   { 'BNE', '`[`BNE`](https://ko.wikipedia.org/wiki/스페인_국립도서관 "wikilink")`', 950, p.bneLink },`
+`   { 'BNE', '`[`BNE`](../Page/스페인_국립도서관.md "wikilink")`', 950, p.bneLink },`
 `   { 'BNF', '`[`BNF`](../Page/프랑스_국립도서관.md "wikilink")`', 268, p.bnfLink },`
 `   { 'Botanist', '`[`Botanist`](https://ko.wikipedia.org/wiki/:en:Author_citation_\(botany\) "wikilink")`', 428, p.botanistLink },`
 `   { 'BPN', '`[`BPN`](https://ko.wikipedia.org/wiki/:en:Biografisch_Portaal "wikilink")`', 651, p.bpnLink },`

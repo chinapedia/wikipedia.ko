@@ -26,7 +26,7 @@
 <!-- end list -->
 
   -
-    광주방송이 운영하는 DMB 비디오 채널이다. [KBC TV를](https://ko.wikipedia.org/wiki/KBC_TV "wikilink") 수중계한다.
+    광주방송이 운영하는 DMB 비디오 채널이다. [kbc TV를](https://ko.wikipedia.org/wiki/kbc_TV "wikilink") 수중계한다.
 
 :;편성표
 

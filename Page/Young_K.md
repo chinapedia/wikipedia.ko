@@ -1073,7 +1073,7 @@
 
   - [JYP 엔터테인먼트](https://www.youtube.com/user/jypentertainment/videos) - [유튜브](../Page/유튜브.md "wikilink")
 
-[분류:1993년 태어남](https://ko.wikipedia.org/wiki/분류:1993년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:청담고등학교 동문](https://ko.wikipedia.org/wiki/분류:청담고등학교_동문 "wikilink") [분류:동국대학교 동문](https://ko.wikipedia.org/wiki/분류:동국대학교_동문 "wikilink") [분류:대한민국의 베이스 기타 연주자](https://ko.wikipedia.org/wiki/분류:대한민국의_베이스_기타_연주자 "wikilink") [분류:고양시 출신](https://ko.wikipedia.org/wiki/분류:고양시_출신 "wikilink") [분류:대한민국에 거주한 캐나다인](https://ko.wikipedia.org/wiki/분류:대한민국에_거주한_캐나다인 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink")
+[분류:1993년 태어남](https://ko.wikipedia.org/wiki/분류:1993년_태어남 "wikilink") [분류:살아있는 사람](https://ko.wikipedia.org/wiki/분류:살아있는_사람 "wikilink") [분류:대한민국의 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_가수 "wikilink") [분류:대한민국의 남자 가수](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_가수 "wikilink") [분류:대한민국의 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_래퍼 "wikilink") [분류:대한민국의 남자 래퍼](https://ko.wikipedia.org/wiki/분류:대한민국의_남자_래퍼 "wikilink") [분류:청담고등학교 동문](https://ko.wikipedia.org/wiki/분류:청담고등학교_동문 "wikilink") [분류:동국대학교 동문](https://ko.wikipedia.org/wiki/분류:동국대학교_동문 "wikilink") [분류:대한민국의 베이스 기타 연주자](https://ko.wikipedia.org/wiki/분류:대한민국의_베이스_기타_연주자 "wikilink") [분류:고양시 출신](https://ko.wikipedia.org/wiki/분류:고양시_출신 "wikilink") [분류:대한민국에 거주한 캐나다인](https://ko.wikipedia.org/wiki/분류:대한민국에_거주한_캐나다인 "wikilink") [분류:미스터리 음악쇼 복면가왕 참가자](https://ko.wikipedia.org/wiki/분류:미스터리_음악쇼_복면가왕_참가자 "wikilink")
 
 1.
 2.

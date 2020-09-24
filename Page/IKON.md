@@ -37,7 +37,9 @@
 
 2018년 10월 1일 총 5곡이 실린 미니 음반 《NEW KIDS : THE FINAL》로 컴백하였다. 타이틀 곡은 〈이별길〉이다.
 
-\=== 2019-2020: 6인조 개편 및 *i DECIDE* 2019년 6월 12일 멤버 [B.I](https://ko.wikipedia.org/wiki/B.I "wikilink")가 여러가지 논란으로 탈퇴하였다.
+### 2019-2020: 6인조 개편 및 *i DECIDE*
+
+2019년 6월 12일 멤버 [B.I](https://ko.wikipedia.org/wiki/B.I "wikilink")가 여러가지 논란으로 탈퇴하였다.
 
 2020년 2월 6일 세번째 미니 음반 《i DECIDE》으로 컴백하였다.
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [열린 TV 시청자세상 \(텔레비전 프로그램\)](https://ko.wikipedia.org/wiki/열린_TV_시청자세상_\(텔레비전_프로그램\)).
 
 
-《**열린 TV 시청자세상**》은 [KBC TV에서](https://ko.wikipedia.org/wiki/KBC_TV "wikilink") 매월 마지막주 [토요일](../Page/토요일.md "wikilink") 오전 9시 10분부터 방송되는 광주·전남지역의 TV 비평 옴부즈맨 프로그램이다.
+《**열린 TV 시청자세상**》은 [kbc TV에서](https://ko.wikipedia.org/wiki/kbc_TV "wikilink") 매월 마지막주 [토요일](../Page/토요일.md "wikilink") 오전 9시 10분부터 방송되는 광주·전남지역의 TV 비평 옴부즈맨 프로그램이다.
 
 ## 진행자
 
@@ -16,6 +16,7 @@
 ## 경쟁 프로그램
 
   - [탐나는 TV](../Page/탐나는_TV.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
+  - [열린TV 시청자 세상](https://ko.wikipedia.org/wiki/열린TV_시청자_세상 "wikilink") ([SBS TV](../Page/SBS_TV.md "wikilink"))
   - [TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink"))
   - [시청자 의회](../Page/시청자_의회.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
   - [채널A 시청자 마당](../Page/채널A_시청자_마당.md "wikilink") ([채널A](../Page/채널A.md "wikilink"))

@@ -5,7 +5,7 @@
 
 ## 특이사항
 
-  - [MBC 게임](../Page/MBC_게임.md "wikilink") 폐국 이후 [SPOTV 게임즈에서](https://ko.wikipedia.org/wiki/SPOTV_게임즈 "wikilink") 치뤄지는 첫 리그
+  - [MBC 게임](../Page/MBC_게임.md "wikilink") 폐국 이후 [SPOTV 게임즈에서](https://ko.wikipedia.org/wiki/SPOTV_게임즈 "wikilink") 치러지는 첫 리그
   - [철권 7으로](../Page/철권_7.md "wikilink") 진행되는 첫 공식 리그
   - TEKKEN CRASH 사상 최초로 전 경기 생중계
   - 대회 상금 증가

@@ -5,7 +5,7 @@
 ([2013년](../Page/2013년.md "wikilink")) | 이번싱글 = **Wake me up**
 ([2014년](../Page/2014년.md "wikilink")) | 다음싱글 = \[\[무테키나하트/STAND_BY_YOU|
 
-〈**Wake me up**〉(웨이크 미 업)은 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 2번째 [DVD 싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\)#DVD "wikilink"). [2014년](../Page/2014년.md "wikilink") [2월 26일에](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") [노던 뮤직에서](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") DVD 싱글로 발매되었다.
+〈**Wake me up**〉(웨이크 미 업)은 [쿠라키 마이의](../Page/쿠라키_마이.md "wikilink") 2번째 [DVD 싱글이다](https://ko.wikipedia.org/wiki/싱글_\(음악\)#DVD "wikilink"). [2014년](../Page/2014년.md "wikilink") [2월 26일에](../Page/2월_26일.md "wikilink") [노던 뮤직에서](https://ko.wikipedia.org/wiki/노던_뮤직 "wikilink") DVD 싱글로 발매되었다.
 
 전작 〈[TRY AGAIN](../Page/TRY_AGAIN_\(쿠라키_마이의_노래\).md "wikilink")〉에서 약 1년만이 되는 신곡이며, DVD 싱글로는 2011년 발매한 〈[Strong Heart](../Page/Strong_Heart.md "wikilink")〉 이래로 2번째이다. 데뷔 15주년을 맞는 쿠라키 마이의 15주년 YEAR 제1탄 발매 작품으로 발표되었다.
 

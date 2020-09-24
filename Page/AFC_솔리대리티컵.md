@@ -36,7 +36,13 @@
 <td><p><strong>1 - 0</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2020년_AFC_솔리대리티컵" title="wikilink">2020</a></p></td>
+<td><p><a href="../Page/2020년_AFC_솔리대리티컵.md" title="wikilink">2020</a></p></td>
+<td><p><a href="../Page/코로나19_범유행.md" title="wikilink">코로나19 범유행의</a> 여파로 인하여 취소됨</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2024년_AFC_솔리대리티컵" title="wikilink">2024</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ACD 레냐노](https://ko.wikipedia.org/wiki/ACD_레냐노).
 
 
-'''A.C. 레냐노 S.S.D. '''()는 [이탈리아](../Page/이탈리아.md "wikilink") [레냐노](../Page/레냐노.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1913년](../Page/1913년.md "wikilink")에 창단되었다. 2018-19 시즌 [이탈리아 축구 리그 시스템에서](../Page/이탈리아_축구_리그_시스템.md "wikilink") 5부 리그에 해당하는 [에첼렌차](https://ko.wikipedia.org/wiki/에첼렌차 "wikilink") [롬바르디아주](../Page/롬바르디아주.md "wikilink") 지역 리그에서 승격해 현재는 [세리에 D](https://ko.wikipedia.org/wiki/세리에_D "wikilink") (그룹 B)에 참가하고 있다.
+'''A.C. 레냐노 S.S.D. '''()는 [이탈리아](../Page/이탈리아.md "wikilink") [레냐노](../Page/레냐노.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. 이 팀은 [1913년](../Page/1913년.md "wikilink")에 창단되었다. 2018-19 시즌 [이탈리아 축구 리그 시스템에서](../Page/이탈리아_축구_리그_시스템.md "wikilink") 5부 리그에 해당하는 [에첼렌차](https://ko.wikipedia.org/wiki/에첼렌차 "wikilink") [롬바르디아주](../Page/롬바르디아주.md "wikilink") 지역 리그에서 승격해 현재는 [세리에 D](../Page/세리에_D.md "wikilink") (그룹 B)에 참가하고 있다.
 
 ## 역사
 
@@ -29,9 +29,9 @@
 
 [세리에 B로](../Page/세리에_B.md "wikilink") 강등된 직후인 1954-55 시즌에서 리그 3위를 차지하며 곧 다시 [세리에 A로](../Page/세리에_A.md "wikilink") 복귀 할 것 같았지만 그 다음 시즌에서 1955-56 시즌에서 14위를 하며 불안하더니 1956-57 시즌에서는 결국 18위로 [세리에 C로](../Page/세리에_C.md "wikilink") 강등 당했다.
 
-[세리에 C로](../Page/세리에_C.md "wikilink") 강등된 후에도 구단의 경기 성적은 나아지지 않았고 [1974년](../Page/1974년.md "wikilink")까지 17년간 [세리에 C에서](../Page/세리에_C.md "wikilink") 경기하며 최고 성적은 겨우 5위를 기록했고 결국 점점 안 좋아지던 성적에 [1974년](../Page/1974년.md "wikilink") [세리에 D로](https://ko.wikipedia.org/wiki/세리에_D "wikilink") 강등하게 된다.
+[세리에 C로](../Page/세리에_C.md "wikilink") 강등된 후에도 구단의 경기 성적은 나아지지 않았고 [1974년](../Page/1974년.md "wikilink")까지 17년간 [세리에 C에서](../Page/세리에_C.md "wikilink") 경기하며 최고 성적은 겨우 5위를 기록했고 결국 점점 안 좋아지던 성적에 [1974년](../Page/1974년.md "wikilink") [세리에 D로](../Page/세리에_D.md "wikilink") 강등하게 된다.
 
-[세리에 D로](https://ko.wikipedia.org/wiki/세리에_D "wikilink") 강등되고 세 시즌만에 다시 [세리에 C2로](https://ko.wikipedia.org/wiki/세리에_C2 "wikilink") 복귀했음에도 성적은 여전히 불안했지만 차차 성적을 끌어올리며 [세리에 C1에도](https://ko.wikipedia.org/wiki/세리에_C1 "wikilink") 승격하기도 하였지만 [2000년대](../Page/2000년대.md "wikilink")까지 오랜 시간동안 몇 번의 강등과 승격을 반복했으며 거의 대부분을 [세리에 C2에서](https://ko.wikipedia.org/wiki/세리에_C2 "wikilink") 보냈다.
+[세리에 D로](../Page/세리에_D.md "wikilink") 강등되고 세 시즌만에 다시 [세리에 C2로](https://ko.wikipedia.org/wiki/세리에_C2 "wikilink") 복귀했음에도 성적은 여전히 불안했지만 차차 성적을 끌어올리며 [세리에 C1에도](https://ko.wikipedia.org/wiki/세리에_C1 "wikilink") 승격하기도 하였지만 [2000년대](../Page/2000년대.md "wikilink")까지 오랜 시간동안 몇 번의 강등과 승격을 반복했으며 거의 대부분을 [세리에 C2에서](https://ko.wikipedia.org/wiki/세리에_C2 "wikilink") 보냈다.
 
 [1989년](../Page/1989년.md "wikilink")에는 [CONI로부터](../Page/이탈리아_국가_올림픽_위원회.md "wikilink") 그간의 공로를 인정받아 스포츠 훈장(*Stella d'oro al merito sportivo*)을 받기도 하였다.
 
@@ -43,8 +43,8 @@
 
 [2015년](../Page/2015년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink"), **A.S.D. 레냐노 칼초 1913**은 파산된 **A.C. 레냐노**에 대한 상표권을 되찾으며 **A.S.D. 레냐노** (Associazione Calcio Dilettantistica Legnano)로 구단명을 변경했다.
 
-이후 [에첼렌차](https://ko.wikipedia.org/wiki/에첼렌차 "wikilink") [롬바르디아주](../Page/롬바르디아주.md "wikilink") 지역 리그 (그룹 A)에서 2위로 플레이오프에 올라 결승에서 승리해 [2016년](../Page/2016년.md "wikilink") [세리에 D로](https://ko.wikipedia.org/wiki/세리에_D "wikilink") 승격했다. 이에 구단명을 현재의 **A.C. 레냐노 S.S.D.**(Associazione Calcio Legnano Società Sportiva Dilettantistica a r.l.)로 바꾸고 2016-17 시즌 [세리에 D를](https://ko.wikipedia.org/wiki/세리에_D "wikilink") 맞이한다.
+이후 [에첼렌차](https://ko.wikipedia.org/wiki/에첼렌차 "wikilink") [롬바르디아주](../Page/롬바르디아주.md "wikilink") 지역 리그 (그룹 A)에서 2위로 플레이오프에 올라 결승에서 승리해 [2016년](../Page/2016년.md "wikilink") [세리에 D로](../Page/세리에_D.md "wikilink") 승격했다. 이에 구단명을 현재의 **A.C. 레냐노 S.S.D.**(Associazione Calcio Legnano Società Sportiva Dilettantistica a r.l.)로 바꾸고 2016-17 시즌 [세리에 D를](../Page/세리에_D.md "wikilink") 맞이한다.
 
-하지만 곧바로 2016-17 시즌을 15위로 끝내며 강등되었고 2018-19 시즌에서 3위로 플레이 오프에 올라 승리하며 승격에 성공해서 현재 [세리에 D](https://ko.wikipedia.org/wiki/세리에_D "wikilink") (그룹 B)에 속해있다.
+하지만 곧바로 2016-17 시즌을 15위로 끝내며 강등되었고 2018-19 시즌에서 3위로 플레이 오프에 올라 승리하며 승격에 성공해서 현재 [세리에 D](../Page/세리에_D.md "wikilink") (그룹 B)에 속해있다.
 
 [분류:이탈리아의 축구단](https://ko.wikipedia.org/wiki/분류:이탈리아의_축구단 "wikilink") [분류:1913년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1913년_설립된_축구단 "wikilink") [분류:세리에 A 구단](https://ko.wikipedia.org/wiki/분류:세리에_A_구단 "wikilink") [분류:세리에 B 구단](https://ko.wikipedia.org/wiki/분류:세리에_B_구단 "wikilink") [분류:세리에 C 구단](https://ko.wikipedia.org/wiki/분류:세리에_C_구단 "wikilink") [분류:세리에 D 구단](https://ko.wikipedia.org/wiki/분류:세리에_D_구단 "wikilink")

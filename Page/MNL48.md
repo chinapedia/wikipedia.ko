@@ -7,6 +7,8 @@
 
 [AKB48](../Page/AKB48.md "wikilink")의 자매 그룹의 하나이다. 종합 프로듀스는 AKB48와 함께 [아키모토 야스시가](../Page/아키모토_야스시.md "wikilink") 맡았다.
 
+총캡틴:**Alice Margarita Reyes De Leon**
+
 ## 내력
 
 [2016년](../Page/2016년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink"), [요코하마 스타디움에서](../Page/요코하마_스타디움.md "wikilink") 열린 [다카하시 미나미](https://ko.wikipedia.org/wiki/다카하시_미나미 "wikilink") 졸업 관련 AKB48 단독 콘서트 석상에서 [중화민국](../Page/중화민국.md "wikilink")의 [타이베이 시에](https://ko.wikipedia.org/wiki/타이베이_시 "wikilink") 본사를 둔 [TPE48](https://ko.wikipedia.org/wiki/TPE48 "wikilink"), [태국](../Page/태국.md "wikilink")의 [방콕](../Page/방콕.md "wikilink")에 본사를 둔 [BNK48](../Page/BNK48.md "wikilink")와 함께 공식 활동을 개시하는 일이 발표됐다. 공식 사이트에서는 그룹 칼라에 대해서 특산의 [망고](../Page/망고.md "wikilink")를 기조로 한 그라데이션을 채용했다\[1\]\[2\].

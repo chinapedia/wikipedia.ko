@@ -195,7 +195,7 @@
 | 133회                                                                                    | 4월 1일   | [카라](../Page/카라_\(음악_그룹\).md "wikilink") 2                                                                                                                     |
 | [이경규](../Page/이경규.md "wikilink") 1                                                      |         |                                                                                                                                                                |
 | 134회                                                                                    | 4월 8일   | 이경규 2                                                                                                                                                          |
-| 135회                                                                                    | 4월 15일  | [유현상](../Page/유현상.md "wikilink"), [최윤희](https://ko.wikipedia.org/wiki/최윤희_\(수영_선수\) "wikilink") 부부                                                             |
+| 135회                                                                                    | 4월 15일  | [유현상](../Page/유현상.md "wikilink"), [최윤희](../Page/최윤희_\(수영_선수\).md "wikilink") 부부                                                                                |
 | 136회                                                                                    | 4월 22일  | [이한위](../Page/이한위.md "wikilink")                                                                                                                               |
 | 137회                                                                                    | 4월 29일  | [한예원](../Page/한예원.md "wikilink")                                                                                                                               |
 | 성기홍 (걷기 전문가), [이병훈](../Page/이병훈_\(야구인\).md "wikilink") (야구선수 출신 해설위원)                   |         |                                                                                                                                                                |
@@ -636,7 +636,7 @@
 <tr class="odd">
 <td><p>391회</p></td>
 <td><p>8월 11일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/홍수아" title="wikilink">홍수아</a>, <a href="../Page/서유리.md" title="wikilink">서유리</a></p></td>
+<td><p><a href="../Page/홍수아.md" title="wikilink">홍수아</a>, <a href="../Page/서유리.md" title="wikilink">서유리</a></p></td>
 </tr>
 <tr class="even">
 <td><p>392회</p></td>

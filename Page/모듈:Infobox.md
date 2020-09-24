@@ -97,8 +97,8 @@ local function fixChildBoxes(sval, tt)
 `           s = mw.ustring.gsub(s, '(<%s*[Tt][Aa][Bb][Ll][Ee][^<>]*>%s*)' .. marker, '%1')`
 `           s = mw.ustring.gsub(s, '^(%{|[^\r\n]*[\r\n]%s*)' .. marker, '%1')`
 `           s = mw.ustring.gsub(s, '([\r\n]%{|[^\r\n]*[\r\n]%s*)' .. marker, '%1')`
-`           s = mw.ustring.gsub(s,  marker .. '(%s*</[Tt][Aa][Bb][Ll][Ee]%s*>)', '%1')`
-`           s = mw.ustring.gsub(s,  marker .. '(%s*\n|%})', '%1')`
+`           s = mw.ustring.gsub(s, marker .. '(%s*</[Tt][Aa][Bb][Ll][Ee]%s*>)', '%1')`
+`           s = mw.ustring.gsub(s, marker .. '(%s*\n|%})', '%1')`
 `       end`
 `       if s:match(marker) then`
 `           local subcells = mw.text.split(s, marker)`
@@ -184,7 +184,7 @@ local function addRow(rowArgs)
 
 `   -- Adds a row to the infobox, with either a header cell`
 `   -- or a label/data cell combination.`
-`   if rowArgs.header then`
+`   if rowArgs.header and rowArgs.header ~= '_BLANK_' then`
 `       root`
 `           :tag('tr')`
 `               :addClass(rowArgs.rowclass)`
@@ -199,7 +199,13 @@ local function addRow(rowArgs)
 `                   :cssText(args.headerstyle)`
 `                   :cssText(rowArgs.rowcellstyle)`
 `                   :wikitext(fixChildBoxes(rowArgs.header, 'th'))`
+`       if rowArgs.data then`
+`           root:wikitext('')`
+`       end`
 `   elseif rowArgs.data then`
+`       if not rowArgs.data:gsub('%[%[%s*[Cc][Aa][Tt][Ee][Gg][Oo][Rr][Yy]%s*:[^]]*]]', ''):match('^%S') then`
+`           rowArgs.rowstyle = 'display:none'`
+`       end`
 `       local row = root:tag('tr')`
 `       row:addClass(rowArgs.rowclass)`
 `       row:cssText(rowArgs.rowstyle)`
@@ -214,12 +220,12 @@ local function addRow(rowArgs)
 `                   :wikitext(rowArgs.label)`
 `                   :done()`
 `       end`
-`       `
+
 `       local dataCell = row:tag('td')`
-`       if not rowArgs.label then `
+`       if not rowArgs.label then`
 `           dataCell`
 `               :attr('colspan', 2)`
-`               :css('text-align', 'center') `
+`               :css('text-align', 'center')`
 `       end`
 `       dataCell`
 `           :attr('id', rowArgs.dataid)`
@@ -246,7 +252,7 @@ end
 local function renderAboveRow()
 
 `   if not args.above then return end`
-`   `
+
 `   root`
 `       :tag('tr')`
 `           :tag('th')`
@@ -263,7 +269,7 @@ end
 local function renderBelowRow()
 
 `   if not args.below then return end`
-`   `
+
 `   root`
 `       :tag('tr')`
 `           :tag('td')`
@@ -324,6 +330,32 @@ local function renderImages()
 
 end
 
+local function preprocessRows()
+
+`   -- Gets the union of the header and data argument numbers,`
+`   -- and renders them all in order using addRow.`
+`   local rownums = union(getArgNums('header'), getArgNums('data'))`
+`   table.sort(rownums)`
+`   local lastheader`
+`   for k, num in ipairs(rownums) do`
+`       if args['header' .. tostring(num)] then`
+`           if lastheader then`
+`               args['header' .. tostring(lastheader)] = nil`
+`           end`
+`           lastheader = num`
+`       elseif args['data' .. tostring(num)] and args['data' .. tostring(num)]:gsub('%[%[%s*[Cc][Aa][Tt][Ee][Gg][Oo][Rr][Yy]%s*:[^]]*]]', ''):match('^%S') then`
+`           local data = args['data' .. tostring(num)]`
+`           if `<data:gsub>`('%[%[%s*[Cc][Aa][Tt][Ee][Gg][Oo][Rr][Yy]%s*:[^]]*]]', ''):match('%S') then`
+`               lastheader = nil`
+`           end`
+`       end`
+`   end`
+`   if lastheader then`
+`       args['header' .. tostring(lastheader)] = nil`
+`   end`
+
+end
+
 local function renderRows()
 
 `   -- Gets the union of the header and data argument numbers,`
@@ -352,7 +384,7 @@ end
 local function renderNavBar()
 
 `   if not args.name then return end`
-`   `
+
 `   root`
 `       :tag('tr')`
 `           :tag('td')`
@@ -394,11 +426,11 @@ local function _infobox()
 `   -- if the infobox is used as a 'child' inside another infobox.`
 `   if args.child ~= 'yes' then`
 `       root = mw.html.create('table')`
-`       `
+
 `       root`
 `           :addClass((args.subbox ~= 'yes') and 'infobox' or nil)`
 `           :addClass(args.bodyclass)`
-`           `
+
 `           if args.subbox == 'yes' then`
 `               root`
 `                   :css('padding', '0')`
@@ -412,28 +444,31 @@ local function _infobox()
 `                   :css('background-color', 'transparent')`
 `           else`
 `               root`
-`                   :css('width', '25em')`
+`                   :css('width', '22em')`
 `           end`
 `       root`
 `           :cssText(args.bodystyle)`
-`   `
+
 `       renderTitle()`
 `       renderAboveRow()`
 `   else`
 `       root = mw.html.create()`
-`       `
+
 `       root`
 `           :wikitext(args.title)`
 `   end`
 
 `   renderSubheaders()`
-`   renderImages() `
-`   renderRows() `
-`   renderBelowRow()  `
+`   renderImages()`
+`   if args.autoheaders then`
+`       preprocessRows()`
+`   end`
+`   renderRows()`
+`   renderBelowRow()`
 `   renderNavBar()`
 `   renderItalicTitle()`
 `   renderTrackingCategories()`
-`   `
+
 `   return tostring(root)`
 
 end
@@ -462,7 +497,7 @@ local function preprocessArgs(prefixTable, step)
 `   if type(step) ~= 'number' then`
 `       error("Invalid step value detected", 2)`
 `   end`
-`   `
+
 `   -- Get arguments without a number suffix, and check for bad input.`
 `   for i,v in ipairs(prefixTable) do`
 `       if type(v) ~= 'table' or type(v.prefix) ~= "string" or (v.depend and type(v.depend) ~= 'table') then`
@@ -508,27 +543,13 @@ local function preprocessArgs(prefixTable, step)
 
 end
 
-function p.infobox(frame)
-
-`   -- If called via #invoke, use the args passed into the invoking template.`
-`   -- Otherwise, for testing purposes, assume args are being passed directly in.`
-`   if frame == mw.getCurrentFrame() then`
-`       origArgs = frame:getParent().args`
-`   else`
-`       origArgs = frame`
-`   end`
-
-`   local parent_args = origArgs`
-`   for k, v in pairs(parent_args) do`
-`       if v ~= '' then`
-`           origArgs[localname(k)] = v`
-`       end`
-`   end`
+local function parseDataParameters()
 
 `   -- Parse the data parameters in the same order that the old `` did, so that`
 `   -- references etc. will display in the expected places. Parameters that depend on`
 `   -- another parameter are only processed if that parameter is present, to avoid`
 `   -- phantom references appearing in article reference lists.`
+`   preprocessSingleArg('autoheaders')`
 `   preprocessSingleArg('child')`
 `   preprocessSingleArg('bodyclass')`
 `   preprocessSingleArg('subbox')`
@@ -573,8 +594,41 @@ function p.infobox(frame)
 `   args['italic title'] = origArgs['italic title'] -- different behaviour if blank or absent`
 `   preprocessSingleArg('decat')`
 
+end
+
+function p.infobox(frame)
+
+`   -- If called via #invoke, use the args passed into the invoking template.`
+`   -- Otherwise, for testing purposes, assume args are being passed directly in.`
+`   if frame == mw.getCurrentFrame() then`
+`       origArgs = frame:getParent().args`
+`   else`
+`       origArgs = frame`
+`   end`
+
+`   local parent_args = origArgs`
+`   for k, v in pairs(parent_args) do`
+`       if v ~= '' then`
+`           origArgs[localname(k)] = v`
+`       end`
+`   end`
+
+`   parseDataParameters()`
+`   `
 `   return _infobox()`
 
 end
 
-return p
+function p.infoboxTemplate(frame)
+
+`   -- For calling via #invoke within a template`
+`   origArgs = {}`
+`   for k,v in pairs(frame.args) do origArgs[k] = mw.text.trim(v) end`
+`   `
+`   parseDataParameters()`
+`   `
+`   return _infobox()`
+
+end return p
+
+[Category:Pages_which_use_infobox_templates_with_ignored_data_cells](https://ko.wikipedia.org/wiki/Category:Pages_which_use_infobox_templates_with_ignored_data_cells "wikilink")

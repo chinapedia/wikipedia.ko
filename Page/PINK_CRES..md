@@ -6,8 +6,8 @@
 ## 멤버
 
   - **[나츠야키 미야비](../Page/나츠야키_미야비.md "wikilink")** (夏焼 雅, [지바현](../Page/지바현.md "wikilink") 출생, [사이타마현](https://ko.wikipedia.org/wiki/사이타마현 "wikilink") 출신, [1992년](../Page/1992년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ ) - 최연장자, 리더, 메인보컬, 센터
-  - [코바야시 히카루](https://ko.wikipedia.org/wiki/M-line_club "wikilink") (小林 ひかる, [도쿄도](../Page/도쿄도.md "wikilink") 출신, [1994년](../Page/1994년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") \~ ) - 메인래퍼
-  - [니헤이 유우카](https://ko.wikipedia.org/wiki/M-line_club "wikilink") (二瓶 有加, [도쿄도](../Page/도쿄도.md "wikilink") 출신, [1995년](../Page/1995년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") \~ ) - 리드보컬
+  - 코바야시 히카루 (小林 ひかる, [도쿄도](../Page/도쿄도.md "wikilink") 출신, [1994년](../Page/1994년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") \~ ) - 메인래퍼
+  - 니헤이 유우카 (二瓶 有加, [도쿄도](../Page/도쿄도.md "wikilink") 출신, [1995년](../Page/1995년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink") \~ ) - 리드보컬
 
 ## 약력
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - [4월 1일](../Page/4월_1일.md "wikilink"), 회원 모집 결과 오디션 최종 합격자는 [코바야시 히카루와](https://ko.wikipedia.org/wiki/M-line_club "wikilink") [니헤이 유우카가](https://ko.wikipedia.org/wiki/M-line_club "wikilink") 결정되었다\[2\].
+  - [4월 1일](../Page/4월_1일.md "wikilink"), 회원 모집 결과 오디션 최종 합격자는 코바야시 히카루와 니헤이 유우카가 결정되었다\[2\].
   - [8월 25일](../Page/8월_25일.md "wikilink"), [일본 무도관에서](https://ko.wikipedia.org/wiki/일본_무도관 "wikilink") 행해진「[Buono\!](../Page/Buono!.md "wikilink") Festa 2016」에서 그룹 이름이「**PINK CRES.**」(핑크 크레스.)로 결정했다고 발표되었다\[3\].
 
 <!-- end list -->
@@ -57,7 +57,8 @@
 
 <!-- end list -->
 
-  - [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"), 두 번째 싱글 ルーレット를 발매.
+  - [2월 26일](../Page/2월_26일.md "wikilink"), 두 번째 싱글 ルーレット를 발매.
+  - [10월 7일](../Page/10월_7일.md "wikilink"), 세 번째 음반 Soleil를 발매.
 
 ## 음악
 
@@ -65,7 +66,7 @@
 
 1.  トウキョウ・コンフュージョン／宇宙の女は甘くない ([2019년](../Page/2019년.md "wikilink") [5월 22일](../Page/5월_22일.md "wikilink"))
       - 양 A면 싱글. 커플링 곡은 없음.
-2.  ルーレット ([2020년](../Page/2020년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
+2.  ルーレット ([2020년](../Page/2020년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink"))
       - 커플링 : エゴイスティック (초회생산한정반 · 통상반) / GIRLS PRIDE (통상반 A) / BLACK OUT (통상반 B) / Think over (통상반 C)
 
 ### 착신 한정
@@ -74,9 +75,9 @@
 
 ### 앨범
 
-1.  crescendo (2017년 [6월 28일](../Page/6월_28일.md "wikilink"))
+1.  crescendo ([2017년](../Page/2017년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink"))
 2.  えとせとら ([2018년](../Page/2018년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink"))
-3.  Soleil (2020년 [10월 7일](../Page/10월_7일.md "wikilink"))
+3.  Soleil ([2020년](../Page/2020년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink"))
 
 ## 출연
 
@@ -86,11 +87,11 @@
 
 <!-- end list -->
 
-  - PINK CRES. 1st LIVE \~crescendo\~ (2017년 7월 23일, 신주쿠 ReNY)
-  - Hello\! Project 20주년 기념 전야제 \~One by One\~「PINK CRES. LIVE \~Halloween Special\!\~」(2017년 10월 28일, 코튼 클럽, 낮 밤 2회 공연)
-  - PINK CRES. LIVE 2018 \~P・I・N・K\~ (2018년 2월 7일, TSUTAYA O-EAST)
-  - PINK CRES. COUNTDOWN LIVE \~3,2,1, Happy New Year\~ (2018년 12월 31일, 오모테산도 GROUND, 2회 공연)
-  - PINK CRES. LIVE 2019 \~CHANGE PRIDE\~ (2019년 2월 15일 \~ 24일, 4회 공연)
+  - [PINK CRES.](../Page/PINK_CRES..md "wikilink") 1st LIVE \~crescendo\~ ([2017년](../Page/2017년.md "wikilink") [7월 23일](../Page/7월_23일.md "wikilink"), 신주쿠 ReNY)
+  - [Hello\! Project](https://ko.wikipedia.org/wiki/Hello!_Project "wikilink") 20주년 기념 전야제 \~One by One\~「[PINK CRES.](../Page/PINK_CRES..md "wikilink") LIVE \~Halloween Special\!\~」([2017년](../Page/2017년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink"), 코튼 클럽, 낮 밤 2회 공연)
+  - [PINK CRES.](../Page/PINK_CRES..md "wikilink") LIVE 2018 \~P・I・N・K\~ ([2018년](../Page/2018년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink"), TSUTAYA O-EAST)
+  - [PINK CRES.](../Page/PINK_CRES..md "wikilink") COUNTDOWN LIVE \~3,2,1, Happy New Year\~ ([2018년](../Page/2018년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink"), 오모테산도 GROUND, 2회 공연)
+  - [PINK CRES.](../Page/PINK_CRES..md "wikilink") LIVE 2019 \~CHANGE PRIDE\~ ([2019년](../Page/2019년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") \~ [2월 24일](../Page/2월_24일.md "wikilink"), 4회 공연)
 
 <!-- end list -->
 
@@ -98,18 +99,18 @@
 
 <!-- end list -->
 
-  - PINK CRES. 1st Live Tour 2018 \~PINK LAND\~ (2018년 7월 28일 \~ 9월 24일)
-  - PINK CRES. LIVE TOUR 2019 \~CONFUSION\~ (2019년 7월 27일 \~ 10월 14일)
-  - PINK CRES. LIVE TOUR 2020 봄 \~Roulette\~ (2020년 3월 20일 \~ 4월 5일, 3개 도시 3회 공연)\[4\]\[5\]
+  - [PINK CRES.](../Page/PINK_CRES..md "wikilink") 1st Live Tour 2018 \~PINK LAND\~ ([2018년](../Page/2018년.md "wikilink") [7월 28일](../Page/7월_28일.md "wikilink") \~ [9월 24일](../Page/9월_24일.md "wikilink"))
+  - [PINK CRES.](../Page/PINK_CRES..md "wikilink") LIVE TOUR 2019 \~CONFUSION\~ ([2019년](../Page/2019년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") \~ [10월 14일](../Page/10월_14일.md "wikilink"))
+  - [PINK CRES.](../Page/PINK_CRES..md "wikilink") LIVE TOUR 2020 봄 \~Roulette\~ ([2020년](../Page/2020년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") \~ [4월 5일](../Page/4월_5일.md "wikilink"), 3개 도시 3회 공연)\[4\]\[5\]
 
 ### 라디오
 
-  - HELLO\! DRIVE\! -하로드라- (2016년 10월 3일 \~ , [라디오 네오](https://ko.wikipedia.org/wiki/라디오_네오 "wikilink"))
+  - HELLO\! DRIVE\! -하로드라- ([2016년](../Page/2016년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ 현재, [라디오 네오](https://ko.wikipedia.org/wiki/라디오_네오 "wikilink"))
 
 ### 그 외
 
-  - [Buono\!](../Page/Buono!.md "wikilink") Festa 2016 (2016년 8월 25일, 일본 무도관)
-  - Heart to Heart 2020 \~Covers\~ (2020년 9월 27일, [Zepp Tokyo](https://ko.wikipedia.org/wiki/Zepp_Tokyo "wikilink"), 2회 공연)
+  - [Buono\!](../Page/Buono!.md "wikilink") Festa 2016 ([2016년](../Page/2016년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink"), 일본 무도관)
+  - Heart to Heart 2020 \~Covers\~ ([2020년](../Page/2020년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink"), [Zepp Tokyo](https://ko.wikipedia.org/wiki/Zepp_Tokyo "wikilink"), 2회 공연 · [11월 15일](../Page/11월_15일.md "wikilink"), SENDAI GIGS, 2회 공연 · [11월 22일](../Page/11월_22일.md "wikilink"), [Zepp Namba](https://ko.wikipedia.org/wiki/Zepp_Namba "wikilink"), 2회 공연)
 
 ## 각주
 

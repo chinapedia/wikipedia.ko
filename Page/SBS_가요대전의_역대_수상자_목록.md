@@ -637,7 +637,7 @@
 <tr class="even">
 <td><p>본상</p></td>
 <td><p><a href="../Page/바이브_(음악_그룹).md" title="wikilink">바이브</a>, <a href="../Page/SG_워너비.md" title="wikilink">SG 워너비</a>, <a href="../Page/플라이_투_더_스카이.md" title="wikilink">플라이 투 더 스카이</a>, <a href="../Page/동방신기.md" title="wikilink">동방신기</a>, <a href="https://ko.wikipedia.org/wiki/신화_(음악_그룹)" title="wikilink">신화</a>, <a href="../Page/세븐_(가수).md" title="wikilink">세븐</a>,<br />
-<a href="../Page/싸이.md" title="wikilink">싸이</a>, <a href="../Page/MC몽.md" title="wikilink">MC몽</a>, <a href="../Page/백지영.md" title="wikilink">백지영</a>, <a href="../Page/이루.md" title="wikilink">이루</a>, <a href="https://ko.wikipedia.org/wiki/성시경" title="wikilink">성시경</a>, <a href="https://ko.wikipedia.org/wiki/버즈_(대한민국의_밴드)" title="wikilink">버즈</a>, <a href="https://ko.wikipedia.org/wiki/엠씨_더_맥스" title="wikilink">엠씨 더 맥스</a>, <a href="../Page/비_(가수).md" title="wikilink">비</a></p></td>
+<a href="../Page/싸이.md" title="wikilink">싸이</a>, <a href="../Page/MC몽.md" title="wikilink">MC몽</a>, <a href="../Page/백지영.md" title="wikilink">백지영</a>, <a href="../Page/이루.md" title="wikilink">이루</a>, <a href="https://ko.wikipedia.org/wiki/성시경" title="wikilink">성시경</a>, <a href="../Page/이승기.md" title="wikilink">이승기</a>, <a href="../Page/비_(가수).md" title="wikilink">비</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>댄스 부문</p></td>

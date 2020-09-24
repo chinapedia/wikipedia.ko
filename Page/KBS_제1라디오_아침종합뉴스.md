@@ -93,7 +93,7 @@
 ## 동시 시간대 뉴스 프로그램
 
   - [KBS 제2라디오 아침종합뉴스](../Page/KBS_제2라디오_아침종합뉴스.md "wikilink") ([KBS 해피FM](../Page/KBS_제2라디오.md "wikilink"))
-  - [MBC 뉴스의 광장](https://ko.wikipedia.org/wiki/MBC_뉴스의_광장 "wikilink") ([MBC 표준FM](../Page/MBC_표준FM.md "wikilink"))
+  - [MBC 뉴스의 광장](../Page/MBC_뉴스의_광장.md "wikilink") ([MBC 표준FM](../Page/MBC_표준FM.md "wikilink"))
   - [임미현의 아침뉴스](../Page/김덕기의_아침뉴스.md "wikilink") ([CBS 표준FM](../Page/CBS_표준FM.md "wikilink"))
 
 [분류:한국방송공사의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_뉴스_라디오_프로그램 "wikilink")

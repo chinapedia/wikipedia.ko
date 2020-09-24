@@ -44,7 +44,7 @@
 | 10대 | [윤인구](../Page/윤인구_\(아나운서\).md "wikilink") 아나운서                       | [2000년](../Page/2000년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink")       |                  |
 | 11대 | (故)[이창호](../Page/이창호_\(1943년\).md "wikilink") 前 아나운서                 | [2000년](../Page/2000년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink")       | KBS 노조파업으로 대신 진행 |
 | 12대 | [신윤주](../Page/신윤주.md "wikilink") 아나운서                                | [2000년](../Page/2000년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink")     |                  |
-| 13대 | [이창진](https://ko.wikipedia.org/wiki/이창진 "wikilink") 아나운서             | [2000년](../Page/2000년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink")   |                  |
+| 13대 | [이창진](../Page/이창진.md "wikilink") 아나운서                                | [2000년](../Page/2000년.md "wikilink") [10월 14일](../Page/10월_14일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink")   |                  |
 | 14대 | [성세정](../Page/성세정.md "wikilink") 아나운서                                | [2001년](../Page/2001년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [12월 6일](../Page/12월_6일.md "wikilink")     |                  |
 
 #### 일요일
@@ -154,7 +154,7 @@
 
 #### 일요일
 
-  - [김지효](../Page/김지효.md "wikilink") : 오전 6시 \~ 6시 10분 / 오전 8시 \~ 8시 10분 / 낮 12시 \~ 12시 10분
+  - [김지효](../Page/김지효.md "wikilink") : 오전 6시 \~ 6시 10분 / 오전 8시 \~ 8시 10분 / 오전 10시 \~ 10시 10분 / 낮 12시 \~ 12시 20분
   - [오수진](../Page/오수진.md "wikilink") : 오후 5시 \~ 5시 10분 / 저녁 7시 \~ 7시 10분
 
 ## 한국 수어

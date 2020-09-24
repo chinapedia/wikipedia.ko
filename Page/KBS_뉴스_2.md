@@ -7,7 +7,7 @@
 
   - 속보성 위주의 소식을 전하는 [한국방송공사의 낮 준종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
   - **KBS 2시 뉴스**로 읽는다.
-  - 1997년 5월 19일부터 **KBS 뉴스**로 시작하여 1997년 12월 31일에 1차 종영되었다가 2001년 11월 5일부터 재신설되었고, 2013년 10월 21일부터 [KBS 뉴스토크로](../Page/KBS_뉴스토크.md "wikilink") 확대 개편되었다가 2014년 9월 1일부터 **KBS 뉴스**로 축소되었으며, 2015년 1월 2일부터 **KBS 뉴스 4**로 변경되었다. 이후 2015년 4월 3일에 2차 종영되었다가 2019년 9월 16일부터 **KBS 뉴스**로 재신설되었고, 2020년 6월 29일부터 현재의 **KBS 뉴스 2**로 변경되었다.
+  - 1997년 5월 19일부터 **KBS 뉴스**로 시작하여 1997년 12월 31일에 1차 종영되었다가 2001년 11월 5일부터 재신설되었고, 2013년 10월 21일부터 **KBS 뉴스토크**로 확대 개편되었다가 2014년 9월 1일부터 **KBS 뉴스**로 축소되었으며, 2015년 1월 2일부터 **KBS 뉴스 4**로 변경되었다. 이후 2015년 4월 3일에 2차 종영되었다가 2019년 9월 16일부터 **KBS 뉴스**로 재신설되었고, 2020년 6월 29일부터 현재의 **KBS 뉴스 2**로 변경되었다.
 
 ## 방송 시간
 
@@ -52,7 +52,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019년 9월 16일 ~ 2020년 6월 26일</p></td>
+<td><p>2019년 9월 16일 ~ 2020년 3월 20일</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -67,7 +67,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2020년 6월 29일 ~ <strong>현재</strong></p></td>
+<td><p>2020년 3월 23일 ~ <strong>현재</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오후 2시 ~ 2시 30분 (30분)</p></td>
 <td></td>
 </tr>
@@ -76,7 +76,7 @@
 
 ## 앵커
 
-과거 [KBS 뉴스토크의](../Page/KBS_뉴스토크.md "wikilink") 앵커들도 포함한다.
+과거 **KBS 뉴스토크**의 앵커들도 포함한다.
 
   - [이규원](../Page/이규원_\(아나운서\).md "wikilink") (여) - [KBS의](../Page/한국방송공사.md "wikilink") 아나운서
 
@@ -134,7 +134,7 @@
 </tr>
 <tr class="even">
 <td><p>2기</p></td>
-<td><p><a href="../Page/KBS_뉴스토크.md" title="wikilink">KBS 뉴스토크</a></p></td>
+<td><p>KBS 뉴스토크</p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/10월_21일.md" title="wikilink">10월 21일</a> ~ <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/8월_29일.md" title="wikilink">8월 29일</a></p></td>
 </tr>
 <tr class="odd">
@@ -177,6 +177,12 @@
 ## 각주
 
 <references />
+
+## 외부 링크
+
+  - [KBS 뉴스 2 공식 홈페이지](http://news.kbs.co.kr/vod/program.do?bcd=0137)
+  - [KBS 뉴스토크 공식 홈페이지](http://news.kbs.co.kr/vod/program.do?bcd=0062)
+  - [KBS 뉴스 (1600) 공식 홈페이지](http://news.kbs.co.kr/vod/program.do?bcd=0018)
 
 [분류:한국방송공사의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_뉴스_텔레비전_프로그램 "wikilink")
 

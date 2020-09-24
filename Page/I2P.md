@@ -9,7 +9,7 @@
 
 ### 파일 공유
 
-  - 몇몇 프로그램들이 I2P 네트워크 안에서의 사용을 위한 [비트토렌트](https://ko.wikipedia.org/wiki/비트토렌트 "wikilink") 기능을 제공한다. I2P 설치 패키지에 포함된 [I2PSnark](https://ko.wikipedia.org/wiki/I2PSnark "wikilink")는 [Snark](https://ko.wikipedia.org/wiki/Snark "wikilink")라는 이름의 비트토렌트 클라이언트의 [포트](https://ko.wikipedia.org/wiki/포트 "wikilink")(port)이다.
+  - 몇몇 프로그램들이 I2P 네트워크 안에서의 사용을 위한 [비트토렌트](../Page/비트토렌트.md "wikilink") 기능을 제공한다. I2P 설치 패키지에 포함된 [I2PSnark](https://ko.wikipedia.org/wiki/I2PSnark "wikilink")는 [Snark](https://ko.wikipedia.org/wiki/Snark "wikilink")라는 이름의 비트토렌트 클라이언트의 [포트](https://ko.wikipedia.org/wiki/포트 "wikilink")(port)이다.
   - [iMule](https://ko.wikipedia.org/wiki/iMule "wikilink")(invisible Mule)은 I2P 네트워크를 위한 [eMule](https://ko.wikipedia.org/wiki/eMule "wikilink")의 포트(port)이다. iMule은 2013년부터 더 이상 업데이트 되지 않는다.
 
 ## 같이 보기

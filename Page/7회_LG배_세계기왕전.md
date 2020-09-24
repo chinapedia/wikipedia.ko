@@ -13,8 +13,8 @@
   - [이창호](../Page/이창호.md "wikilink") 7회 연속 4강 진출
   - [이창호](../Page/이창호.md "wikilink") 네번째 결승 진출
   - [이창호](../Page/이창호.md "wikilink") 홀수 회차로 열리는 [LG배](https://ko.wikipedia.org/wiki/LG배 "wikilink") 우승하는 징크스가 깨짐(1,3,5회 우승)
-  - [이세돌](../Page/이세돌.md "wikilink") 본선에서 [한국](../Page/한국.md "wikilink") 기사만 이기고 우승(16강 [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1973년\) "wikilink"), 8강 [박영훈](../Page/박영훈_\(바둑_기사\).md "wikilink"), 4강 [조한승](https://ko.wikipedia.org/wiki/조한승 "wikilink"), 결승 [이창호](../Page/이창호.md "wikilink"))
-  - [원성진](../Page/원성진.md "wikilink") [조한승](https://ko.wikipedia.org/wiki/조한승 "wikilink") 세계대회 첫 4강 진출
+  - [이세돌](../Page/이세돌.md "wikilink") 본선에서 [한국](../Page/한국.md "wikilink") 기사만 이기고 우승(16강 [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1973년\) "wikilink"), 8강 [박영훈](../Page/박영훈_\(바둑_기사\).md "wikilink"), 4강 [조한승](../Page/조한승.md "wikilink"), 결승 [이창호](../Page/이창호.md "wikilink"))
+  - [원성진](../Page/원성진.md "wikilink") [조한승](../Page/조한승.md "wikilink") 세계대회 첫 4강 진출
   - [유창혁](../Page/유창혁.md "wikilink") 8강 패배로 [LG배](https://ko.wikipedia.org/wiki/LG배 "wikilink") 연속 우승 불가 징크스가 이어짐
   - [한국](../Page/한국.md "wikilink") 4강 독식
   - [한국](../Page/한국.md "wikilink") [LG배](https://ko.wikipedia.org/wiki/LG배 "wikilink") 3연속 우승

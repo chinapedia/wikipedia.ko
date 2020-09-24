@@ -20,7 +20,7 @@
   - 아키코 스와나이 : 90년 제 9대 [차이콥스키 국제 콩쿠르](https://ko.wikipedia.org/wiki/차이콥스키_국제_콩쿠르 "wikilink") 바이올린 부문 사상 최연소 및 일본인 처음으로 1위 획득.
   - 노다 히데키 : 90년 [에든버러 국제 페스티벌에](https://ko.wikipedia.org/wiki/에든버러_국제_페스티벌 "wikilink") 참가하여 연극 『半神』을 상연.
   - 준코 코시노 : 90년 오페라 [천국과 지옥](https://ko.wikipedia.org/wiki/천국과_지옥_\(오페라\) "wikilink") 등에서 많은 무대의상을 제작.
-  - [와타나베 히사노부](../Page/와타나베_히사노부.md "wikilink") : 90년도 [세이부 라이온스를](https://ko.wikipedia.org/wiki/사이타마_세이부_라이온스 "wikilink") [1990년 일본 시리즈](../Page/1990년_일본_시리즈.md "wikilink") 우승으로 이끌고, 같은 해 [일본 프로 야구 최다 승리](../Page/일본_프로_야구_최다_승리.md "wikilink") 및 [미쓰이 골든 글러브상을](../Page/미쓰이_골든_글러브상.md "wikilink") 수상.
+  - [와타나베 히사노부](../Page/와타나베_히사노부.md "wikilink") : 90년도 [세이부 라이온스를](../Page/사이타마_세이부_라이온스.md "wikilink") [1990년 일본 시리즈](../Page/1990년_일본_시리즈.md "wikilink") 우승으로 이끌고, 같은 해 [일본 프로 야구 최다 승리](../Page/일본_프로_야구_최다_승리.md "wikilink") 및 [미쓰이 골든 글러브상을](../Page/미쓰이_골든_글러브상.md "wikilink") 수상.
   - 모리구치 유코 : 90년 여자프로골프계를 달궜던 주역 중 하나.
   - 마츠오카 슈조 : 89년 [ATP](https://ko.wikipedia.org/wiki/ATP "wikilink")투어대회·하이네켄오픈 남자 더블스 우승.
   - [사와구치 야스코](../Page/사와구치_야스코.md "wikilink") : 91년 [NHK 대하드라마](../Page/NHK_대하드라마.md "wikilink") 『[태평기](../Page/태평기_\(드라마\).md "wikilink")』 아카하시 토코 역.

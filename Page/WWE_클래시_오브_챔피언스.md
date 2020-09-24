@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [WWE 클래시 오브 챔피언스](https://ko.wikipedia.org/wiki/WWE_클래시_오브_챔피언스).
 
 
-**클래쉬 오브 챔피언스**(Clash of Champions)는 [1988년](../Page/1988년.md "wikilink")부터 [1997년](../Page/1997년.md "wikilink")까지 [NWA](../Page/내셔널_레슬링_얼라이언스.md "wikilink")(1988년)와 [WCW](https://ko.wikipedia.org/wiki/월드_챔피언십_레슬링 "wikilink")(1988년부터 1997년까지)가 월간 TV 스페셜로 진행하던 프로그램이었다. [WWE](../Page/WWE.md "wikilink")가 브랜드 흡수합병에 따라 폐지되었다가 2016년 7월 [RAW](../Page/WWE_러.md "wikilink"), [스맥다운을](../Page/WWE_스맥다운.md "wikilink") [WWE 드래프트로](../Page/WWE_드래프트.md "wikilink") 5년만에 다시 분리하기 시작하여 [WWE 나이트 오브 챔피언스를](../Page/WWE_나이트_오브_챔피언스.md "wikilink") 대신하여, [RAW](../Page/WWE_러.md "wikilink") 독점 PPV로 부활되었다. 2017년부터는 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") 독점 PPV로 변경된다.
+**클래시 오브 챔피언스**(Clash of Champions)는 [1988년](../Page/1988년.md "wikilink")부터 [1997년](../Page/1997년.md "wikilink")까지 [NWA](../Page/내셔널_레슬링_얼라이언스.md "wikilink")(1988년)와 [WCW](https://ko.wikipedia.org/wiki/월드_챔피언십_레슬링 "wikilink")(1988년부터 1997년까지)가 월간 TV 스페셜로 진행하던 프로그램이었다. [WWE](../Page/WWE.md "wikilink")가 브랜드 흡수합병에 따라 폐지되었다가 2016년 7월 [RAW](../Page/WWE_러.md "wikilink"), [스맥다운을](../Page/WWE_스맥다운.md "wikilink") [WWE 드래프트로](../Page/WWE_드래프트.md "wikilink") 5년만에 다시 분리하기 시작하여 [WWE 나이트 오브 챔피언스를](../Page/WWE_나이트_오브_챔피언스.md "wikilink") 대신하여, [RAW](../Page/WWE_러.md "wikilink") 독점 PPV로 부활되었다. 2017년부터는 [스맥다운](https://ko.wikipedia.org/wiki/스맥다운 "wikilink") 독점 PPV로 변경된다.
 
-## NWA 클래쉬 오브 챔피언스 개최한 곳
+## NWA 클래시 오브 챔피언스 개최지
 
 <table>
 <thead>
@@ -20,7 +20,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p>클래쉬 오브 챔피언스 I</p></td>
+<td><p>클래시 오브 챔피언스 I</p></td>
 <td><p>1988년 3월 27일</p></td>
 <td><p><a href="../Page/그린즈버러.md" title="wikilink">그린즈버러</a></p></td>
 <td><p><a href="../Page/그린즈버러_콜리시엄_콤플렉스.md" title="wikilink">그린즈버러 콜리시엄</a></p></td>
@@ -29,7 +29,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>클래쉬 오브 챔피언스 II : 마이애미 메이헴</p></td>
+<td><p>클래시 오브 챔피언스 II : 마이애미 메이헴</p></td>
 <td><p>1988년 6월 8일</p></td>
 <td><p><a href="../Page/마이애미.md" title="wikilink">마이애미</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/나이트_센터_콤플렉스" title="wikilink">제임스 L. 나이트 센터</a></p></td>
@@ -38,7 +38,7 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p>클래쉬 오브 챔피언스 III : 폴 브롤</p></td>
+<td><p>클래시 오브 챔피언스 III : 폴 브롤</p></td>
 <td><p>1988년 9월 7일</p></td>
 <td><p><a href="../Page/올버니_(조지아주).md" title="wikilink">올버니</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/올버니_시빅_센터" title="wikilink">올버니 시빅 센터</a></p></td>
@@ -48,7 +48,7 @@
 </tbody>
 </table>
 
-## WCW 클래쉬 오브 챔피언스 개최한 곳
+## WCW 클래시 오브 챔피언스 개최지
 
 <table>
 <thead>
@@ -65,7 +65,7 @@
 <tbody>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p>클래쉬 오브 챔피언스 IV : 시즌스 비팅즈</p></td>
+<td><p>클래시 오브 챔피언스 IV : 시즌스 비팅즈</p></td>
 <td><p>1988년 12월 7일</p></td>
 <td><p><a href="../Page/채터누가.md" title="wikilink">채터누가</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/맥켄지_아레나" title="wikilink">UTC 아레나</a></p></td>
@@ -74,7 +74,7 @@
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>클래쉬 오브 챔피언스 V : 세인트 밸런타인스 마스퀘어</p></td>
+<td><p>클래시 오브 챔피언스 V : 세인트 밸런타인스 마스퀘어</p></td>
 <td><p>1989년 2월 15일</p></td>
 <td><p><a href="../Page/클리블랜드.md" title="wikilink">클리블랜드</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/클리블랜드_컨벤션_센터" title="wikilink">클리블랜드 컨벤션 센터</a></p></td>
@@ -83,7 +83,7 @@
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p>클래쉬 오브 챔피언스 VI : 레이징 카준</p></td>
+<td><p>클래시 오브 챔피언스 VI : 레이징 카준</p></td>
 <td><p>1989년 4월 2일</p></td>
 <td><p><a href="../Page/뉴올리언스.md" title="wikilink">뉴올리언스</a></p></td>
 <td><p><a href="../Page/메르세데스-벤츠_슈퍼돔.md" title="wikilink">루이지애나 슈퍼돔</a></p></td>
@@ -92,7 +92,7 @@
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p>클래쉬 오브 챔피언스 VII : 거트스 앤 글로리</p></td>
+<td><p>클래시 오브 챔피언스 VII : 거트스 앤 글로리</p></td>
 <td><p>1989년 6월 14일</p></td>
 <td><p><a href="../Page/포트_브래그.md" title="wikilink">포트 브래그</a></p></td>
 <td><p>리츠-엡스 피트니스 센터</p></td>
@@ -101,7 +101,7 @@
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p>클래쉬 오브 챔피언스 VIII : 폴 브롤 89</p></td>
+<td><p>클래시 오브 챔피언스 VIII : 폴 브롤 89</p></td>
 <td><p>1989년 9월 12일</p></td>
 <td><p><a href="../Page/컬럼비아_(사우스캐롤라이나주).md" title="wikilink">컬럼비아</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/캐롤라이나_콜리시엄" title="wikilink">캐롤라이나 콜리시엄</a></p></td>
@@ -110,7 +110,7 @@
 </tr>
 <tr class="even">
 <td><p>9</p></td>
-<td><p>클래쉬 오브 챔피언스 IX : 뉴욕 넉아웃</p></td>
+<td><p>클래시 오브 챔피언스 IX : 뉴욕 넉아웃</p></td>
 <td><p>1989년 11월 15일</p></td>
 <td><p><a href="../Page/트로이_(뉴욕주).md" title="wikilink">트로이</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/휴스턴_필드_하우스" title="wikilink">휴스턴 필드 하우스</a></p></td>
@@ -119,7 +119,7 @@
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p>클래쉬 오브 챔피언스 X : 텍사스 슛아웃</p></td>
+<td><p>클래시 오브 챔피언스 X : 텍사스 슛아웃</p></td>
 <td><p>1990년 2월 6일</p></td>
 <td><p><a href="../Page/코퍼스크리스티.md" title="wikilink">코퍼스크리스티</a></p></td>
 <td><p>메모리얼 콜리시엄</p></td>
@@ -128,7 +128,7 @@
 </tr>
 <tr class="even">
 <td><p>11</p></td>
-<td><p>클래쉬 오브 챔피언스 XI : 코스탈 크러쉬</p></td>
+<td><p>클래시 오브 챔피언스 XI : 코스탈 크러쉬</p></td>
 <td><p>1990년 6월 13일</p></td>
 <td><p><a href="../Page/찰스턴_(사우스캐롤라이나주).md" title="wikilink">찰스턴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/맥앨리스터_필드_하우스" title="wikilink">맥앨리스터 필드 하우스</a></p></td>
@@ -137,7 +137,7 @@
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p>클래쉬 오브 챔피언스 XII : 마운틴 매드니스/폴 브롤 90</p></td>
+<td><p>클래시 오브 챔피언스 XII : 마운틴 매드니스/폴 브롤 90</p></td>
 <td><p>1990년 9월 5일</p></td>
 <td><p><a href="../Page/애슈빌.md" title="wikilink">애슈빌</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/U.S._셀룰러_센터" title="wikilink">애슈빌 시빅 센터</a></p></td>
@@ -146,7 +146,7 @@
 </tr>
 <tr class="even">
 <td><p>13</p></td>
-<td><p>클래쉬 오브 챔피언스 XIII : 땡스기빙 선더</p></td>
+<td><p>클래시 오브 챔피언스 XIII : 땡스기빙 선더</p></td>
 <td><p>1990년 11월 20일</p></td>
 <td><p><a href="../Page/잭슨빌.md" title="wikilink">잭슨빌</a></p></td>
 <td><p><a href="../Page/잭슨빌_콜리시엄.md" title="wikilink">잭슨빌 콜리시엄</a></p></td>
@@ -155,7 +155,7 @@
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p>클래쉬 오브 챔피언스 XIV : 딕시 다이너마이트</p></td>
+<td><p>클래시 오브 챔피언스 XIV : 딕시 다이너마이트</p></td>
 <td><p>1991년 1월 30일</p></td>
 <td><p><a href="../Page/게인즈빌_(조지아주).md" title="wikilink">게인즈빌</a></p></td>
 <td><p>조지아 마운틴스 센터</p></td>
@@ -164,7 +164,7 @@
 </tr>
 <tr class="even">
 <td><p>15</p></td>
-<td><p>클래쉬 오브 챔피언스 XV : 녹스빌 USA</p></td>
+<td><p>클래시 오브 챔피언스 XV : 녹스빌 USA</p></td>
 <td><p>1991년 6월 12일</p></td>
 <td><p><a href="../Page/녹스빌.md" title="wikilink">녹스빌</a></p></td>
 <td><p>시빅 오디토리움</p></td>
@@ -173,7 +173,7 @@
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p>클래쉬 오브 챔피언스 XVI : 폴 브롤</p></td>
+<td><p>클래시 오브 챔피언스 XVI : 폴 브롤</p></td>
 <td><p>1991년 9월 5일</p></td>
 <td><p><a href="../Page/오거스타_(조지아주).md" title="wikilink">오거스타</a></p></td>
 <td><p><a href="../Page/제임스_브라운_아레나.md" title="wikilink">오거스타-리치먼드 카운티 시빅 센터</a></p></td>
@@ -182,7 +182,7 @@
 </tr>
 <tr class="even">
 <td><p>17</p></td>
-<td><p>클래쉬 오브 챔피언스 XVII</p></td>
+<td><p>클래시 오브 챔피언스 XVII</p></td>
 <td><p>1991년 11월 19일</p></td>
 <td><p><a href="../Page/서배너.md" title="wikilink">서배너</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서배너_시빅_센터" title="wikilink">서배너 시빅 센터</a></p></td>
@@ -191,7 +191,7 @@
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>클래쉬 오브 챔피언스 XVIII</p></td>
+<td><p>클래시 오브 챔피언스 XVIII</p></td>
 <td><p>1992년 1월 21일</p></td>
 <td><p><a href="../Page/토피카.md" title="wikilink">토피카</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/랜든_아레나" title="wikilink">캔자스 엑스포센터</a></p></td>
@@ -200,7 +200,7 @@
 </tr>
 <tr class="even">
 <td><p>19</p></td>
-<td><p>클래쉬 오브 챔피언스 XIX</p></td>
+<td><p>클래시 오브 챔피언스 XIX</p></td>
 <td><p>1992년 6월 16일</p></td>
 <td><p><a href="../Page/찰스턴_(사우스캐롤라이나주).md" title="wikilink">찰스턴</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/맥앨리스터_필드_하우스" title="wikilink">맥앨리스터 필드 하우스</a></p></td>
@@ -209,7 +209,7 @@
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p>클래쉬 오브 챔피언스 XX : 20th 애니버서리</p></td>
+<td><p>클래시 오브 챔피언스 XX : 20th 애니버서리</p></td>
 <td><p>1992년 9월 2일</p></td>
 <td><p><a href="../Page/애틀랜타.md" title="wikilink">애틀랜타</a></p></td>
 <td><p>센터 스테이지 티털</p></td>
@@ -218,7 +218,7 @@
 </tr>
 <tr class="even">
 <td><p>21</p></td>
-<td><p>클래쉬 오브 챔피언스 XXI</p></td>
+<td><p>클래시 오브 챔피언스 XXI</p></td>
 <td><p>1992년 11월 18일</p></td>
 <td><p><a href="../Page/메이컨_(조지아주).md" title="wikilink">메이컨</a></p></td>
 <td><p><a href="../Page/메이컨_콜리시엄.md" title="wikilink">메이컨 콜리시엄</a></p></td>
@@ -227,7 +227,7 @@
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
-<td><p>클래쉬 오브 챔피언스 XXII</p></td>
+<td><p>클래시 오브 챔피언스 XXII</p></td>
 <td><p>1993년 1월 13일</p></td>
 <td><p><a href="../Page/밀워키.md" title="wikilink">밀워키</a></p></td>
 <td><p><a href="../Page/UW-밀워키_팬서_아레나.md" title="wikilink">밀워키 씨어터 앳 더 메카</a></p></td>
@@ -236,7 +236,7 @@
 </tr>
 <tr class="even">
 <td><p>23</p></td>
-<td><p>클래쉬 오브 챔피언스 XXIII</p></td>
+<td><p>클래시 오브 챔피언스 XXIII</p></td>
 <td><p>1993년 6월 16일</p></td>
 <td><p><a href="../Page/노퍽_(버지니아주).md" title="wikilink">노퍽</a></p></td>
 <td><p><a href="../Page/노퍽_스코프.md" title="wikilink">노퍽 스코프</a></p></td>
@@ -245,7 +245,7 @@
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
-<td><p>클래쉬 오브 챔피언스 XXIV</p></td>
+<td><p>클래시 오브 챔피언스 XXIV</p></td>
 <td><p>1993년 8월 18일</p></td>
 <td><p><a href="../Page/데이토나비치.md" title="wikilink">데이토나비치</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오션_센터" title="wikilink">오션 센터</a></p></td>
@@ -254,7 +254,7 @@
 </tr>
 <tr class="even">
 <td><p>25</p></td>
-<td><p>클래쉬 오브 챔피언스 XXV</p></td>
+<td><p>클래시 오브 챔피언스 XXV</p></td>
 <td><p>1993년 11월 10일</p></td>
 <td><p><a href="../Page/세인트피터즈버그.md" title="wikilink">세인트피터즈버그</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/베이프론트_센터" title="wikilink">베이프론트 아레나</a></p></td>
@@ -263,7 +263,7 @@
 </tr>
 <tr class="odd">
 <td><p>26</p></td>
-<td><p>클래쉬 오브 챔피언스 XXVI</p></td>
+<td><p>클래시 오브 챔피언스 XXVI</p></td>
 <td><p>1994년 1월 27일</p></td>
 <td><p><a href="../Page/배턴루지.md" title="wikilink">배턴루지</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/레이징_케인즈_리버_센터" title="wikilink">리버사이드 센트로플렉스</a></p></td>
@@ -272,7 +272,7 @@
 </tr>
 <tr class="even">
 <td><p>27</p></td>
-<td><p>클래쉬 오브 챔피언스 XXVII</p></td>
+<td><p>클래시 오브 챔피언스 XXVII</p></td>
 <td><p>1994년 6월 23일</p></td>
 <td><p><a href="../Page/찰스턴_(사우스캐롤라이나주).md" title="wikilink">찰스턴</a></p></td>
 <td><p><a href="../Page/노스_찰스턴_콜리시엄.md" title="wikilink">노스 찰스턴 콜리시엄</a></p></td>
@@ -281,7 +281,7 @@
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
-<td><p>클래쉬 오브 챔피언스 XXVIII</p></td>
+<td><p>클래시 오브 챔피언스 XXVIII</p></td>
 <td><p>1994년 8월 24일</p></td>
 <td><p><a href="../Page/시더래피즈.md" title="wikilink">시더래피즈</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/U.S._셀룰러_센터_(시더래피즈)" title="wikilink">포 시즌즈 센터</a></p></td>
@@ -290,7 +290,7 @@
 </tr>
 <tr class="even">
 <td><p>29</p></td>
-<td><p>클래쉬 오브 챔피언스 XXIX</p></td>
+<td><p>클래시 오브 챔피언스 XXIX</p></td>
 <td><p>1994년 11월 16일</p></td>
 <td><p><a href="../Page/잭슨빌.md" title="wikilink">잭슨빌</a></p></td>
 <td><p><a href="../Page/잭슨빌_콜리시엄.md" title="wikilink">잭슨빌 콜리시엄</a></p></td>
@@ -300,7 +300,7 @@
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
-<td><p>클래쉬 오브 챔피언스 XXX</p></td>
+<td><p>클래시 오브 챔피언스 XXX</p></td>
 <td><p>1995년 1월 25일</p></td>
 <td><p><a href="../Page/라스베이거스.md" title="wikilink">라스베이거스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/시저스_팰리스" title="wikilink">시저스 팰리스</a></p></td>
@@ -309,7 +309,7 @@
 </tr>
 <tr class="even">
 <td><p>31</p></td>
-<td><p>클래쉬 오브 챔피언스 XXXI</p></td>
+<td><p>클래시 오브 챔피언스 XXXI</p></td>
 <td><p>1995년 8월 6일</p></td>
 <td><p><a href="../Page/데이토나비치.md" title="wikilink">데이토나비치</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/오션_센터" title="wikilink">오션 센터</a></p></td>
@@ -318,7 +318,7 @@
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
-<td><p>클래쉬 오브 챔피언스 XXXII</p></td>
+<td><p>클래시 오브 챔피언스 XXXII</p></td>
 <td><p>1996년 1월 23일</p></td>
 <td><p><a href="../Page/라스베이거스.md" title="wikilink">라스베이거스</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/시저스_팰리스" title="wikilink">시저스 팰리스</a></p></td>
@@ -327,7 +327,7 @@
 </tr>
 <tr class="even">
 <td><p>33</p></td>
-<td><p>클래쉬 오브 챔피언스 XXXIII</p></td>
+<td><p>클래시 오브 챔피언스 XXXIII</p></td>
 <td><p>1996년 8월 15일</p></td>
 <td><p><a href="../Page/덴버.md" title="wikilink">덴버</a></p></td>
 <td><p><a href="../Page/덴버_콜리시엄.md" title="wikilink">덴버 콜리시엄</a></p></td>
@@ -336,7 +336,7 @@
 </tr>
 <tr class="odd">
 <td><p>34</p></td>
-<td><p>클래쉬 오브 챔피언스 XXXIV</p></td>
+<td><p>클래시 오브 챔피언스 XXXIV</p></td>
 <td><p>1997년 1월 21일</p></td>
 <td><p><a href="../Page/밀워키.md" title="wikilink">밀워키</a></p></td>
 <td><p><a href="../Page/UW-밀워키_팬서_아레나.md" title="wikilink">위스콘신 센터 아레나</a></p></td>
@@ -345,7 +345,7 @@
 </tr>
 <tr class="even">
 <td><p>35</p></td>
-<td><p>클래쉬 오브 챔피언스 XXXV</p></td>
+<td><p>클래시 오브 챔피언스 XXXV</p></td>
 <td><p>1997년 8월 21일</p></td>
 <td><p><a href="../Page/내슈빌.md" title="wikilink">내슈빌</a></p></td>
 <td><p><a href="../Page/내슈빌_뮤니시펄_오디터리움.md" title="wikilink">내슈빌 뮤니시펄 오디터리움</a></p></td>

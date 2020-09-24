@@ -21,6 +21,7 @@
 <li>본명 : 김민석 (金珉錫)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="../Page/구리시.md" title="wikilink">구리시</a></li>
+<li>포지션 : 리더, 메인래퍼, 서브보컬</li>
 <li>유닛그룹 : EXO-M, <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a> ~ <strong>현재</strong></li>
 </ul></td>
@@ -32,6 +33,7 @@
 <li>본명 : 변백현 (邊伯賢)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/부천시" title="wikilink">부천시</a></li>
+<li>포지션 : 메인보컬</li>
 <li>유닛그룹 : EXO-K, <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a> ~ <strong>현재</strong></li>
 </ul></td>
@@ -43,6 +45,7 @@
 <li>본명 : 김종대 (金鍾大)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/대전광역시" title="wikilink">대전광역시</a></li>
+<li>포지션 : 메인보컬</li>
 <li>유닛그룹 : EXO-M, <a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a> ~ <strong>현재</strong></li>
 </ul></td>
