@@ -29,7 +29,7 @@
   - [신지혜](https://ko.wikipedia.org/wiki/신지혜 "wikilink")
   - [최정원](https://ko.wikipedia.org/wiki/최정원 "wikilink")
   - [김은영](https://ko.wikipedia.org/wiki/김은영 "wikilink")
-  - [김용신](https://ko.wikipedia.org/wiki/김용신 "wikilink")
+  - [김용신](../Page/김용신.md "wikilink")
   - [서연미](../Page/서연미.md "wikilink")
   - [유지수](https://ko.wikipedia.org/wiki/유지수 "wikilink")
   - [정민아](https://ko.wikipedia.org/wiki/정민아 "wikilink")

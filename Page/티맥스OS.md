@@ -39,7 +39,7 @@ TmaxOS가 공공기관 중 최초로 [국토교통과학기술진흥원](../Page
 
 ## 도입 가능 분야
 
-<s>\[\[국방부|국방부\]\]가 국군 \[\[사이버지식정보방|사이버지식정보방\]\]에 개방형 OS를 도입하기로 결정하였다</s>. [소스 코드를](../Page/소스_코드.md "wikilink") 모두 공개하는 [오픈 소스](../Page/오픈_소스.md "wikilink") 운영 체제만 입찰할 수 있으며 [하모니카 OS](https://ko.wikipedia.org/wiki/하모니카_OS "wikilink"), [구름 OS](https://ko.wikipedia.org/wiki/구름_OS "wikilink") 등은 입찰 가능하지만 대중에게 소스 코드를 공개하지 않는 한 티맥스OS는 참여가 어렵다고 한다.\[15\]
+[국방부](https://ko.wikipedia.org/wiki/국방부 "wikilink")가 국군 [사이버지식정보방](https://ko.wikipedia.org/wiki/사이버지식정보방 "wikilink")에 개방형 OS를 도입하기로 결정하였다. [소스 코드를](../Page/소스_코드.md "wikilink") 모두 공개하는 [오픈 소스](../Page/오픈_소스.md "wikilink") 운영 체제만 입찰할 수 있으며 [하모니카 OS](https://ko.wikipedia.org/wiki/하모니카_OS "wikilink"), [구름 OS](https://ko.wikipedia.org/wiki/구름_OS "wikilink") 등은 입찰 가능하지만 대중에게 소스 코드를 공개하지 않는 한 티맥스OS는 참여가 어렵다고 한다.\[15\]
 
 국군 사이버지식정보방 [운영 체제](../Page/운영_체제.md "wikilink") 교체 사업에서 개방형 OS로만 입찰을 받으려고 하였으나, [윈도우즈](https://ko.wikipedia.org/wiki/윈도우즈 "wikilink") 외에는 [인터넷 강의가](https://ko.wikipedia.org/wiki/인터넷_강의 "wikilink") 작동하지 않는다는 일부 장병들의 의견에 따라 상용 OS와 개방형 OS를 50:50으로 도입하기로 변경하였다. 이런 문제점에 따라, 국방부는 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")의 협조를 받아 [소프트웨어 중심 대학부터](https://ko.wikipedia.org/wiki/소프트웨어_중심_대학 "wikilink") 시작해 순차적으로 오픈 소스 운영 체제에서도 사용 가능한 [이러닝](https://ko.wikipedia.org/wiki/이러닝 "wikilink") 체계를 만들기로 하였다.\[16\] [하모니카 리눅스와](https://ko.wikipedia.org/wiki/하모니카_리눅스 "wikilink") [구름 OS는](https://ko.wikipedia.org/wiki/구름_OS "wikilink") 개방형 OS로 규정하면서 [티맥스OS](../Page/티맥스OS.md "wikilink")는 상용 OS로 규정하는 경우가 있는데 [티맥스 OS도](https://ko.wikipedia.org/wiki/티맥스_OS "wikilink") [리눅스](../Page/리눅스.md "wikilink") [커널](https://ko.wikipedia.org/wiki/커널 "wikilink")을 사용하였으므로 개방형 OS가 맞다. 현재 소스 코드를 공개하고 있지 않은 티맥스OS가 끝까지 [소스 코드를](../Page/소스_코드.md "wikilink") 공개하지 않으면 [GPL](https://ko.wikipedia.org/wiki/GPL "wikilink") 위반으로 [저작권법](https://ko.wikipedia.org/wiki/저작권법 "wikilink") 위반인데, [저작권](../Page/저작권.md "wikilink")을 침해하는 제품을 정부 납품 사업에 참여시킬 수는 없기 때문이다. 하모니카 리눅스와 [구름OS](https://ko.wikipedia.org/wiki/구름OS "wikilink")도 취미로 개발된 것이 아닌, 소프트웨어 사업을 하는 회사에서 개발한 판매 목적의 운영 체제이므로, 티맥스OS가 [오픈 소스를](../Page/오픈_소스.md "wikilink") 사용했음에도 상용 OS쪽으로 입찰을 할 수 있다면, 하모니카 리눅스와 구름 OS도 상용 OS 부문으로 입찰을 해도 된다는 의미가 된다. 따라서 윈도우즈를 제외한, 리눅스를 사용한 나머지 세 운영 체제들은 개방형 OS로 입찰을 하게 될 것으로 보인다.
 
@@ -51,7 +51,7 @@ TmaxOS가 공공기관 중 최초로 [국토교통과학기술진흥원](../Page
   - [하모니카 (운영 체제)](../Page/하모니카_\(운영_체제\).md "wikilink")
   - [구름 플랫폼](../Page/구름_플랫폼.md "wikilink")
   - [:분류:소프트웨어 중심대학](https://ko.wikipedia.org/wiki/:분류:소프트웨어_중심대학 "wikilink")
-  - [훙멍](https://ko.wikipedia.org/wiki/훙멍 "wikilink")
+  - [훙멍](../Page/훙멍.md "wikilink")
 
 ## 각주
 

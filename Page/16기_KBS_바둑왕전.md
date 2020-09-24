@@ -129,5 +129,6 @@
 ## TV 중계
 
   - [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 5월 20일 \~ 5월 21일동안 오후 3시 \~ 오후 5시에 2시간동안 전국에 생중계로 방송되며, [노영하](../Page/노영하.md "wikilink") 八단, [장수영](../Page/장수영.md "wikilink") 九단이 공동 해설하여 진행하였다. 결승 2국(최종국) 끝난 후 시상식에는 [김태규](../Page/김태규_\(아나운서\).md "wikilink") 아나운서가 진행했다.
+  - 우승자 [조훈현](../Page/조훈현.md "wikilink") 九단, 준우승자 [이창호](../Page/이창호.md "wikilink") 九단이 [일본](../Page/일본.md "wikilink") [지바시](../Page/지바시.md "wikilink")(千葉) 뉴 오타니(大谷) 마쿠하리(幕張) 호텔에서 열리는 [10회 TV 바둑 아시아 선수권대회에](../Page/10회_TV_바둑_아시아_선수권대회.md "wikilink") 출전권 획득
 
 [16](https://ko.wikipedia.org/wiki/분류:KBS_바둑왕전 "wikilink") [분류:1997년 바둑](https://ko.wikipedia.org/wiki/분류:1997년_바둑 "wikilink")

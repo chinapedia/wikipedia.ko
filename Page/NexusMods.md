@@ -13,7 +13,7 @@ Nexus Mods 네트워크는 2015년 10월 기준으로 206개의 게임을 지원
 
 ## 각주
 
-[분류:비디오 게임 웹사이트](https://ko.wikipedia.org/wiki/분류:비디오_게임_웹사이트 "wikilink") [분류:UCC](https://ko.wikipedia.org/wiki/분류:UCC "wikilink")
+[분류:비디오 게임 웹사이트](https://ko.wikipedia.org/wiki/분류:비디오_게임_웹사이트 "wikilink") [분류:사용자 제작 콘텐츠](https://ko.wikipedia.org/wiki/분류:사용자_제작_콘텐츠 "wikilink") [분류:비디오 게임 모드](https://ko.wikipedia.org/wiki/분류:비디오_게임_모드 "wikilink")
 
 1.
 2.

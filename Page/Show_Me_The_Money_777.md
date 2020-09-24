@@ -10,10 +10,10 @@
 
 ## 팀 구성
 
-| 소속   | Just Music                                                            | Vismajor (VMC)                                                     | Ambition Music                                                                        | 팔로알토 & 코드 쿤스트                                                                                                                                           |
-| ---- | --------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 프로듀서 | [스윙스](../Page/스윙스.md "wikilink"), [기리보이](../Page/기리보이.md "wikilink")  | [딥플로우](../Page/딥플로우.md "wikilink"), [넉살](../Page/넉살.md "wikilink") | [더콰이엇](https://ko.wikipedia.org/wiki/더콰이엇 "wikilink"), [창모](../Page/창모.md "wikilink") | [팔로알토](https://ko.wikipedia.org/wiki/팔로알토_\(래퍼\) "wikilink"), [코드 쿤스트](../Page/코드_쿤스트.md "wikilink")                                                    |
-| 참가자  | 나플라 (우승), [ODEE](https://ko.wikipedia.org/wiki/ODEE "wikilink"), 오르내림 | 김효은,EK,[차붐](https://ko.wikipedia.org/wiki/차붐_\(래퍼\) "wikilink")    | 수퍼비, 쿠기, 디아크                                                                          | [키드밀리](../Page/키드밀리.md "wikilink") (3위), [루피](https://ko.wikipedia.org/wiki/루피 "wikilink") (준우승), [pH-1](https://ko.wikipedia.org/wiki/pH-1 "wikilink") |
+| 소속   | Just Music                                                                                                                       | Vismajor (VMC)                                                                                                                                                   | Ambition Music                                                                                                                           | 팔로알토 & 코드 쿤스트                                                                                                                                           |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 프로듀서 | [스윙스](../Page/스윙스.md "wikilink"), [기리보이](../Page/기리보이.md "wikilink")                                                             | [딥플로우](../Page/딥플로우.md "wikilink"), [넉살](../Page/넉살.md "wikilink")                                                                                               | [더콰이엇](https://ko.wikipedia.org/wiki/더콰이엇 "wikilink"), [창모](../Page/창모.md "wikilink")                                                    | [팔로알토](../Page/팔로알토_\(래퍼\).md "wikilink"), [코드 쿤스트](../Page/코드_쿤스트.md "wikilink")                                                                       |
+| 참가자  | [나플라](../Page/나플라.md "wikilink") (우승), [ODEE](https://ko.wikipedia.org/wiki/ODEE "wikilink"), [오르내림](../Page/오르내림.md "wikilink") | [김효은](https://ko.wikipedia.org/wiki/김효은 "wikilink"), [EK](https://ko.wikipedia.org/wiki/EK "wikilink"), [차붐](https://ko.wikipedia.org/wiki/차붐_\(래퍼\) "wikilink") | [수퍼비](../Page/수퍼비.md "wikilink"), [쿠기](https://ko.wikipedia.org/wiki/쿠기 "wikilink"), [디아크](https://ko.wikipedia.org/wiki/디아크 "wikilink") | [키드밀리](../Page/키드밀리.md "wikilink") (3위), [루피](https://ko.wikipedia.org/wiki/루피 "wikilink") (준우승), [pH-1](https://ko.wikipedia.org/wiki/pH-1 "wikilink") |
 
 ## 참가자
 
@@ -34,7 +34,7 @@
   - 디아크 : 1차 경연 탈락
   - 최은서 : 랩 파이트머니 쟁탈전 탈락
   - [조우진](https://ko.wikipedia.org/wiki/조우진 "wikilink") : 래퍼 평가전 탈락
-  - [X](https://ko.wikipedia.org/wiki/X "wikilink") : 래퍼 평가전 탈락
+  - [X](../Page/X.md "wikilink") : 래퍼 평가전 탈락
   - Unofficial Boy (언오피셜보이) : 팀 결정전 탈락
   - PARTI CHILD : 래퍼 평가전 탈락
   - 씰리붓 : 래퍼 평가전 탈락
@@ -89,13 +89,13 @@
   - 킹콩 : 래퍼 평가전 탈락
   - 김승민 : 랩 파이트머니 쟁탈전 탈락
   - 부현석 : 팀 결정전 탈락
-  - [Owen Ovadoz](https://ko.wikipedia.org/wiki/오왼 "wikilink") : 랩 파이트머니 쟁탈전 탈락
+  - [Owen Ovadoz](../Page/오왼.md "wikilink") : 랩 파이트머니 쟁탈전 탈락
   - 챙스타 : 랩 파이트머니 쟁탈전 탈락
   - [최엘비](../Page/최엘비.md "wikilink") : 팀 결정전 탈락
   - 매니악 : 래퍼 평가전 자진 하차
   - 몰디 : 래퍼 평가전 탈락
   - 브라운티거 : 래퍼 평가전 탈락
-  - [브린](https://ko.wikipedia.org/wiki/브린_\(래퍼\) "wikilink") : 래퍼 평가전 탈락
+  - [브린](../Page/브린_\(래퍼\).md "wikilink") : 래퍼 평가전 탈락
   - 윤종보 : 래퍼 평가전 탈락
   - 마이크천 : 래퍼 평가전 탈락
   - 루이 : 랩 파이트머니 쟁탈전 탈락
@@ -191,13 +191,12 @@
 
 ## 논란
 
-  - 디아크의 논란 사건으로 인하여 "트랩중딩 (Feat. 더 콰이엇)"의 영상 및 음원이 공개되지 못했다.
+  - [디아크](https://ko.wikipedia.org/wiki/디아크 "wikilink")의 사생활 논란으로 인하여 경연곡 "트랩중딩"의 뮤직비디오 및 음원이 공개되지 못했다.
 
 ## 특이 사항
 
-  - 이전 시즌에 비해 우승 상금이 2배로 늘었다.
-  - 기존 시리즈와 다르게 7이 아닌 777이다.
-  - 잭팟과 연상되는 네이밍이 지어짐과 동시에 베팅 시스템이 생겼다.
+  - [이전 시즌에](https://ko.wikipedia.org/wiki/쇼미더머니_6 "wikilink") 비해 우승 상금이 2배로 늘었다.
+  - 작품명이 쇼미더머니 '7'이 아닌 '777'이다.
 
 ## 같이 보기
 

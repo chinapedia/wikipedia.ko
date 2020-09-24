@@ -62,7 +62,7 @@ RetroArch는 어떠한 libretro 코어라도 구동할 수 있다. RetroArch가 
 <td><p>NXEngine</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/봄버맨" title="wikilink">봄버맨</a></p></td>
+<td><p><a href="../Page/봄버맨.md" title="wikilink">봄버맨</a></p></td>
 <td><p>Mr. Boom</p></td>
 </tr>
 <tr class="odd">
@@ -177,7 +177,7 @@ RetroArch는 어떠한 libretro 코어라도 구동할 수 있다. RetroArch가 
 <td><p><a href="../Page/PPSSPP.md" title="wikilink">PPSSPP</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/플레이스테이션" title="wikilink">플레이스테이션</a></p></td>
+<td><p><a href="../Page/플레이스테이션.md" title="wikilink">플레이스테이션</a></p></td>
 <td><p>Mednafen PCSX ReARMed</p></td>
 </tr>
 <tr class="odd">

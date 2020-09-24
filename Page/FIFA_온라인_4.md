@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FIFA 온라인 4](https://ko.wikipedia.org/wiki/FIFA_온라인_4).
 
 
-《**FIFA 온라인 4**》 ()는 [2018년](../Page/2018년.md "wikilink") 상반기 출시한 [넥슨](../Page/넥슨.md "wikilink")의 신규 스포츠 게임이다. EA 코리아 스튜디오가 개발하고 넥슨이 서비스하는 EA SPORTS™ FIFA Online 4는 전 세계 축구 리그의 선수들로 개인 혹은 친구들과 함께 다양한 모드를 플레이 할 수 있는 온라인 축구 게임이다.
+《**FIFA 온라인 4**》 ()는 [2018년](../Page/2018년.md "wikilink") 상반기 출시한 [넥슨](../Page/넥슨.md "wikilink")의 스포츠 게임이다. EA 코리아 스튜디오가 개발하고 넥슨이 서비스하는 EA SPORTS™ FIFA Online 4는 전 세계 축구 리그의 선수들로 개인 혹은 친구들과 함께 다양한 모드를 플레이 할 수 있는 온라인 축구 게임이다.
 
 ## 같이 보기
 

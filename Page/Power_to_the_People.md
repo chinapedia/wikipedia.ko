@@ -12,7 +12,7 @@
   - [존 레논](../Page/존_레논.md "wikilink") – [보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink"), [기타](../Page/기타.md "wikilink")
   - [로제타 하이타워](https://ko.wikipedia.org/wiki/로제타_하이타워 "wikilink") 그리고 다른 가수들 – [백 보컬](https://ko.wikipedia.org/wiki/백_보컬 "wikilink"), [박수](https://ko.wikipedia.org/wiki/박수 "wikilink")
   - [오노 요코](../Page/오노_요코.md "wikilink") – [백 보컬](https://ko.wikipedia.org/wiki/백_보컬 "wikilink"), [피아노](../Page/피아노.md "wikilink")
-  - [바비 키스](https://ko.wikipedia.org/wiki/바비_키스 "wikilink") – [색소폰](../Page/색소폰.md "wikilink")
+  - [바비 키스](../Page/바비_키스.md "wikilink") – [색소폰](../Page/색소폰.md "wikilink")
   - [빌리 프레스턴](../Page/빌리_프레스턴.md "wikilink") – [피아노](../Page/피아노.md "wikilink"), [키보드](https://ko.wikipedia.org/wiki/건반_악기 "wikilink")
   - [클라우스 부어만](../Page/클라우스_부어만.md "wikilink") – [베이스](../Page/베이스_기타.md "wikilink")
   - [앨런 화이트](https://ko.wikipedia.org/wiki/앨런_화이트_\(예스_드러머\) "wikilink") – [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")

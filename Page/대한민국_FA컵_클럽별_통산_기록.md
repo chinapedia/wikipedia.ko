@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [대한민국 FA컵 클럽별 통산 기록](https://ko.wikipedia.org/wiki/대한민국_FA컵_클럽별_통산_기록).
 
 
-이 문서는 [대한민국 FA컵의](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 참가팀별 통산 성적을 기록한 문서이다.
+이 문서는 [대한민국 FA컵의](../Page/FA컵_\(대한민국\).md "wikilink") 참가팀별 통산 성적을 기록한 문서이다.
 
   - 업데이트: 2017시즌 종료 기준
   - 본선(부전승이 없는 라운드 / 1996\~2002: 16강이상, 2003-현재: 32강 이상)만 기록

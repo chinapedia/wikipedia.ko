@@ -198,7 +198,7 @@
 
 ## 출연자
 
-  - [배기완](../Page/배기완.md "wikilink")
+  - [최기환](../Page/최기환.md "wikilink")
   - [김재열](https://ko.wikipedia.org/wiki/김재열_\(방송인\) "wikilink")
 
 [분류:SBS의 스포츠 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_스포츠_텔레비전_프로그램 "wikilink") [분류:1991년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1991년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1993년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1993년에_종료한_대한민국_TV_프로그램 "wikilink") [분류:1994년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1994년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:1998년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1998년에_종료한_대한민국_TV_프로그램 "wikilink") [분류:2000년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2000년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:2019년에 종료한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2019년에_종료한_대한민국_TV_프로그램 "wikilink") [분류:2020년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:2020년에_시작한_대한민국_TV_프로그램 "wikilink")

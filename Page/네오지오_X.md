@@ -17,7 +17,7 @@
   - [알파 미션 II](https://ko.wikipedia.org/wiki/알파_미션_II "wikilink")
   - [용호의 권](../Page/용호의_권.md "wikilink")
   - [베이스볼 스타즈 2](https://ko.wikipedia.org/wiki/베이스볼_스타즈_2 "wikilink")
-  - [사이버 립](https://ko.wikipedia.org/wiki/사이버_립 "wikilink")
+  - [사이버 립](../Page/사이버_립.md "wikilink")
   - [숙명의 싸움](https://ko.wikipedia.org/wiki/아랑전설:_숙명의_싸움 "wikilink")
   - [아랑전설 스페셜](../Page/아랑전설_스페셜.md "wikilink")
   - [더 킹 오브 파이터즈 95](https://ko.wikipedia.org/wiki/더_킹_오브_파이터즈_95 "wikilink")

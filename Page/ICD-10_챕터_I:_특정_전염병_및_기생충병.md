@@ -51,7 +51,7 @@
       - A06.9 아메바증, 상세불명
   - A07 기타 [원생동물](https://ko.wikipedia.org/wiki/원생동물 "wikilink")성 장 질병
       - A07.0 [대장섬모충](../Page/대장섬모충.md "wikilink")증(Balantidiasis)
-      - A07.1 편모충증(Giardiasis) 또는 [람블편모충증](https://ko.wikipedia.org/wiki/람블편모충속 "wikilink")(Lambliasis)
+      - A07.1 편모충증(Giardiasis) 또는 [람블편모충증](../Page/람블편모충속.md "wikilink")(Lambliasis)
       - A07.2 [와포자충증](../Page/와포자충속.md "wikilink")(Cryptosporidiosis)
       - A07.3 작은와포자충증(Isosporiasis)
       - A07.8 기타 특정 원생동물성 장 질병
@@ -72,7 +72,7 @@
       - A18.1 [비뇨](https://ko.wikipedia.org/wiki/비뇨계 "wikilink")·[생식계](https://ko.wikipedia.org/wiki/생식계 "wikilink")의 결핵
       - A18.2 결핵성 말초 림프절병증
       - A18.3 위장기관·[복막](https://ko.wikipedia.org/wiki/복막 "wikilink")·[장간막](https://ko.wikipedia.org/wiki/장간막 "wikilink")의 결핵
-      - A18.4 [피부](../Page/피부.md "wikilink") 및 [피하조직](https://ko.wikipedia.org/wiki/피하조직 "wikilink")의 결핵
+      - A18.4 [피부](../Page/피부.md "wikilink") 및 [피하조직](../Page/피하조직.md "wikilink")의 결핵
           - 피부선병(Scrofuloderma)
       - A18.5 [눈](https://ko.wikipedia.org/wiki/눈 "wikilink")의 결핵
       - A18.6 [귀](../Page/귀.md "wikilink")의 결핵

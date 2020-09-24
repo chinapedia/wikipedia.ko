@@ -14,7 +14,54 @@
 
 ## 출전 기사 명단
 
-## 결승전
+## 대진표
+
+### 승자조,패자조
+
+| 승자조                                                                     | 최종 결승전                                                              |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 승자 1회전                                                                  | 승자 2회전                                                              |
+| [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink") 八단        | [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink") 八단    |
+| (故)[전영선](https://ko.wikipedia.org/wiki/전영선 "wikilink") 六단               |                                                                     |
+| [박승문](https://ko.wikipedia.org/wiki/박승문 "wikilink") 三단                  |                                                                     |
+| [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                           | [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1975년\) "wikilink")(小) 二단 |
+| [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1975년\) "wikilink")(小) 二단     |                                                                     |
+| [조훈현](../Page/조훈현.md "wikilink") 九단                                     |                                                                     |
+| [강훈](https://ko.wikipedia.org/wiki/강훈_\(1957년\) "wikilink")(大) 九단       | [김좌기](https://ko.wikipedia.org/wiki/김좌기 "wikilink") 六단              |
+| [김좌기](https://ko.wikipedia.org/wiki/김좌기 "wikilink") 六단                  |                                                                     |
+| [서봉수](../Page/서봉수.md "wikilink") 九단                                     |                                                                     |
+| [김일환](https://ko.wikipedia.org/wiki/김일환_\(바둑_기사\) "wikilink") 九단        | [김일환](https://ko.wikipedia.org/wiki/김일환_\(바둑_기사\) "wikilink") 九단    |
+| [고재희](https://ko.wikipedia.org/wiki/고재희 "wikilink") 七단                  |                                                                     |
+| [강만우](https://ko.wikipedia.org/wiki/강만우 "wikilink") 七단                  |                                                                     |
+| [장수영](../Page/장수영.md "wikilink") 九단                                     | [장수영](../Page/장수영.md "wikilink") 九단                                 |
+| [백성호](../Page/백성호.md "wikilink") 八단                                     |                                                                     |
+| [이창호](../Page/이창호.md "wikilink") 七단                                     |                                                                     |
+| (故)[김수영](https://ko.wikipedia.org/wiki/김수영_\(바둑_기사\) "wikilink") (男) 六단 | [윤기현](https://ko.wikipedia.org/wiki/윤기현 "wikilink") 九단              |
+| [윤기현](https://ko.wikipedia.org/wiki/윤기현 "wikilink") 九단                  |                                                                     |
+| [이동규](../Page/이동규_\(바둑_기사\).md "wikilink") 七단                           |                                                                     |
+| [우쑹성](../Page/우쑹성.md "wikilink") 九단                                     | [서능욱](../Page/서능욱.md "wikilink") 九단                                 |
+| [서능욱](../Page/서능욱.md "wikilink") 九단                                     |                                                                     |
+| [양재호](https://ko.wikipedia.org/wiki/양재호 "wikilink") 九단                  |                                                                     |
+| [김종준](https://ko.wikipedia.org/wiki/김종준 "wikilink") 三단                  | [유창혁](../Page/유창혁.md "wikilink") 六단                                 |
+| [유창혁](../Page/유창혁.md "wikilink") 六단                                     |                                                                     |
+| 패자조                                                                     |                                                                     |
+| 패자 1회전                                                                  | 패자 2회전                                                              |
+| (故)[전영선](https://ko.wikipedia.org/wiki/전영선 "wikilink") 六단               | [김종준](https://ko.wikipedia.org/wiki/김종준 "wikilink") 三단              |
+| [김종준](https://ko.wikipedia.org/wiki/김종준 "wikilink") 三단                  |                                                                     |
+| [김일환](https://ko.wikipedia.org/wiki/김일환_\(바둑_기사\) "wikilink") 九단        |                                                                     |
+| [조훈현](../Page/조훈현.md "wikilink") 九단                                     | [조훈현](../Page/조훈현.md "wikilink") 九단                                 |
+| [양재호](https://ko.wikipedia.org/wiki/양재호 "wikilink") 九단                  |                                                                     |
+| [이동규](../Page/이동규_\(바둑_기사\).md "wikilink") 七단                           |                                                                     |
+| [서봉수](../Page/서봉수.md "wikilink") 九단                                     |                                                                     |
+| [김좌기](https://ko.wikipedia.org/wiki/김좌기 "wikilink") 六단                  | [김좌기](https://ko.wikipedia.org/wiki/김좌기 "wikilink") 六단              |
+| [윤기현](https://ko.wikipedia.org/wiki/윤기현 "wikilink") 九단                  |                                                                     |
+| [서능욱](../Page/서능욱.md "wikilink") 九단                                     |                                                                     |
+| [강만우](https://ko.wikipedia.org/wiki/강만우 "wikilink") 七단                  | [장수영](../Page/장수영.md "wikilink") 九단                                 |
+| [장수영](../Page/장수영.md "wikilink") 九단                                     |                                                                     |
+| [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1975년\) "wikilink")(小) 二단     |                                                                     |
+| [유창혁](../Page/유창혁.md "wikilink") 六단                                     |                                                                     |
+| [박승문](https://ko.wikipedia.org/wiki/박승문 "wikilink") 三단                  |                                                                     |
+|                                                                         |                                                                     |
 
 ## 대국 결과
 

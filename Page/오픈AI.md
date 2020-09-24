@@ -40,7 +40,7 @@
   - 연구 감독 [Ilya Sutskever](https://ko.wikipedia.org/wiki/Ilya_Sutskever "wikilink"): 기계 학습에 참여한 이전의 구글 전문가\[20\]
   - CTO: 그레그 브로크먼\[21\]
 
-2016년 1월 초 이 그룹은 9명의 연구원들과 함께 시작하였다 .[와이어드](https://ko.wikipedia.org/wiki/와이어드 "wikilink")에 따르면 브로크먼은 [딥 러닝](https://ko.wikipedia.org/wiki/딥_러닝 "wikilink") 운동을 시작한 아버지들 중 한 명인 [Yoshua Bengio를](https://ko.wikipedia.org/wiki/Yoshua_Bengio "wikilink") 조우했으며 이 분야 최고의 연구원들 목록을 작성하였다. 마이크로소프트의 [피터 리는](https://ko.wikipedia.org/wiki/피터_리 "wikilink") 최고 AI 연구원의 비용이 최고 [NFL](../Page/내셔널_풋볼_리그.md "wikilink") 쿼터백 전망치의 비용을 넘어선다고 언급하였다. 오픈AI가 (비영리 수준이 아닌) 기업 수준의 봉급을 지불하지만 현재 페이스북, 구글과 같은 수준으로 AI 연구원들에게 봉급을 지불하지 않고 있다. 그러나 Sutskever가 구글을 떠나게 된 계기 중 부분적으로는 OpenAI가 매우 강력한 그룹의 사람들을 가지고 있고 이 그룹의 임무에 매료되었기 때문이라고 언급하였다. 브로크먼은 자신이 상상할 수 있는 최고의 것은 인류가 안전한 방법으로 실제 AI를 만들 수 있도록 실천하는 것이라고 언급하였다.\[22\]
+2016년 1월 초 이 그룹은 9명의 연구원들과 함께 시작하였다 .[와이어드](https://ko.wikipedia.org/wiki/와이어드 "wikilink")에 따르면 브로크먼은 [딥 러닝](../Page/딥_러닝.md "wikilink") 운동을 시작한 아버지들 중 한 명인 [Yoshua Bengio를](https://ko.wikipedia.org/wiki/Yoshua_Bengio "wikilink") 조우했으며 이 분야 최고의 연구원들 목록을 작성하였다. 마이크로소프트의 [피터 리는](https://ko.wikipedia.org/wiki/피터_리 "wikilink") 최고 AI 연구원의 비용이 최고 [NFL](../Page/내셔널_풋볼_리그.md "wikilink") 쿼터백 전망치의 비용을 넘어선다고 언급하였다. 오픈AI가 (비영리 수준이 아닌) 기업 수준의 봉급을 지불하지만 현재 페이스북, 구글과 같은 수준으로 AI 연구원들에게 봉급을 지불하지 않고 있다. 그러나 Sutskever가 구글을 떠나게 된 계기 중 부분적으로는 OpenAI가 매우 강력한 그룹의 사람들을 가지고 있고 이 그룹의 임무에 매료되었기 때문이라고 언급하였다. 브로크먼은 자신이 상상할 수 있는 최고의 것은 인류가 안전한 방법으로 실제 AI를 만들 수 있도록 실천하는 것이라고 언급하였다.\[22\]
 
 ## 같이 보기
 

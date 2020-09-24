@@ -309,6 +309,30 @@
 <tr class="even">
 <td><p>103회</p></td>
 <td><p>8월 30일</p></td>
+<td><p>언론이 집착한 '전광훈' 가짜뉴스엔 균형이 없다</p></td>
+<td><p>4.1%</p></td>
+</tr>
+<tr class="odd">
+<td><p>104회</p></td>
+<td><p>9월 6일</p></td>
+<td><p>의사 對 정부, 싸움 부추기고 중계하는 언론</p></td>
+<td><p>3.4%</p></td>
+</tr>
+<tr class="even">
+<td><p>105회</p></td>
+<td><p>9월 13일</p></td>
+<td><p>"판갈이 합시다" 정치와 언론의 낡은 문법 해체하기</p></td>
+<td><p>2.5%</p></td>
+</tr>
+<tr class="odd">
+<td><p>106회</p></td>
+<td><p>9월 20일</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>107회</p></td>
+<td><p>9월 27일</p></td>
 <td></td>
 <td></td>
 </tr>

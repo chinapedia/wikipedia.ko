@@ -27,6 +27,9 @@
 
 ## 각주
 
+## 외부 링크
+
+  -
 [분류:1974년 음반](https://ko.wikipedia.org/wiki/분류:1974년_음반 "wikilink") [분류:엘튼 존의 음반](https://ko.wikipedia.org/wiki/분류:엘튼_존의_음반 "wikilink") [분류:아일랜드 레코드 음반](https://ko.wikipedia.org/wiki/분류:아일랜드_레코드_음반 "wikilink") [분류:로켓 레코드 컴퍼니 음반](https://ko.wikipedia.org/wiki/분류:로켓_레코드_컴퍼니_음반 "wikilink") [분류:MCA 레코드 음반](https://ko.wikipedia.org/wiki/분류:MCA_레코드_음반 "wikilink")
 
 1.

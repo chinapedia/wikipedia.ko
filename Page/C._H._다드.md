@@ -45,7 +45,7 @@
   - *More New Testament Studies* (1968).
   - *[The Founder of Christianity](https://web.archive.org/web/20060911142546/http://www.religion-online.org/showbook.asp?title=2241)* (1970).
 
-## 참고문헌
+## 참고 문헌
 
   - wan Rhys Jones, "C. H. Dodd and the Welsh Bible: A Fading Influence," *The Expository Times*, 119,8 (2008), 380-384.
 

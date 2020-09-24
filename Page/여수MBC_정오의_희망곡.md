@@ -52,7 +52,7 @@
   - 한낮의 휴식, 장수연입니다 (평일) ([BBS 광주불교방송](../Page/광주불교방송.md "wikilink"))
   - 주병선의 추억의 음악다방 (주말) ([BBS 광주불교방송](../Page/광주불교방송.md "wikilink"))
   - [광주cpbc 정오종합뉴스](https://ko.wikipedia.org/wiki/cpbc_정오종합뉴스 "wikilink") ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
-  - [한낮의 가요선물 이동우, 신의석입니다](https://ko.wikipedia.org/wiki/한낮의_가요선물 "wikilink") (평일) ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
+  - [한낮의 가요선물 이동우, 신의석입니다](../Page/한낮의_가요선물.md "wikilink") (평일) ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
   - 아름다운 사랑 아름다운 나눔 (주말) ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
   - 토요특집 "신부들의 수다" (토요일) ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
   - 황창연 신부와 함께 하는 성경여행 (일요일) ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
@@ -64,7 +64,7 @@
   - [오태훈의 시사본부](../Page/시사본부.md "wikilink") (평일) ([KBS순천 제1라디오](../Page/KBS순천방송국.md "wikilink"))
   - [생생 라디오 매거진 서기철입니다](https://ko.wikipedia.org/wiki/생생_라디오_매거진 "wikilink") (주말) ([KBS순천 제1라디오](../Page/KBS순천방송국.md "wikilink"))
   - [이수지의 가요광장](../Page/가요광장.md "wikilink") ([KBS순천 해피FM](../Page/KBS순천방송국.md "wikilink"))
-  - [강석, 김혜영의 싱글벙글쇼](https://ko.wikipedia.org/wiki/싱글벙글쇼 "wikilink") ([여수MBC 표준FM](../Page/여수문화방송.md "wikilink"))
+  - [강석, 김혜영의 싱글벙글쇼](../Page/싱글벙글쇼.md "wikilink") ([여수MBC 표준FM](../Page/여수문화방송.md "wikilink"))
   - 가스펠 산책 ([전남CBS 표준FM](../Page/기독교전남방송.md "wikilink"))
   - 말씀의 샘터 ([전남CBS 표준FM](../Page/기독교전남방송.md "wikilink"))
 

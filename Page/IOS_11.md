@@ -35,7 +35,7 @@ iOS 11의 빌드로, [32비트 프로세서의](../Page/32비트.md "wikilink") 
   - [아이폰 XR](../Page/아이폰_XR.md "wikilink")
   - [아이폰 11 Pro](https://ko.wikipedia.org/wiki/아이폰_11_Pro "wikilink")
   - [아이폰 11 Pro Max](https://ko.wikipedia.org/wiki/아이폰_11_Pro_Max "wikilink")
-  - [아이폰 11](https://ko.wikipedia.org/wiki/아이폰_11 "wikilink")
+  - [아이폰 11](../Page/아이폰_11.md "wikilink")
 
 ### 아이팟 터치
 

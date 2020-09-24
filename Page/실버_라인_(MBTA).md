@@ -81,7 +81,7 @@ SL1 및 SL2를 이용하는 승객들은 일반 [MBTA 지하철](https://ko.wiki
 <a href="https://ko.wikipedia.org/wiki/:en:Silver_Line_Way_(MBTA_station)" title="wikilink">Silver Line Way</a></p></td>
 <td><p>SL1 &amp; SL2</p></td>
 <td><p>2004년 12월 17일</p></td>
-<td><p><a href="../Page/디젤_엔진.md" title="wikilink">디젤과</a> <a href="https://ko.wikipedia.org/wiki/가공_전차선" title="wikilink">가공 전차선</a> 전력 간의 전환이 이 역에서 시행된다.</p></td>
+<td><p><a href="../Page/디젤_엔진.md" title="wikilink">디젤과</a> <a href="../Page/가공_전차선.md" title="wikilink">가공 전차선</a> 전력 간의 전환이 이 역에서 시행된다.</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/이스트보스턴" title="wikilink">이스트보스턴</a></p></td>

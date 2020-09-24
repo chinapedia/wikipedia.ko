@@ -5,7 +5,7 @@
 
 ## F00–F99 – 정신 및 행동 장애
 
-### (F00–F09) [기질성](https://ko.wikipedia.org/wiki/기질성 "wikilink") 또는 증상성 정신장애
+### (F00–F09) [기질성](../Page/기질성.md "wikilink") 또는 증상성 정신장애
 
   - F00 [알츠하이머병](../Page/알츠하이머병.md "wikilink")에서의 [치매](../Page/치매.md "wikilink")
   - F01 [혈관성 치매](../Page/혈관성_치매.md "wikilink")
@@ -230,7 +230,7 @@
 
   - F40 공포성 [불안 장애](https://ko.wikipedia.org/wiki/불안_장애 "wikilink")
       - F40.0 [광장 공포증](https://ko.wikipedia.org/wiki/광장_공포증 "wikilink")
-      - F40.1 [사회 공포증](https://ko.wikipedia.org/wiki/사회_공포증 "wikilink")
+      - F40.1 [사회 공포증](../Page/사회_공포증.md "wikilink")
           - [대인공포증](https://ko.wikipedia.org/wiki/대인공포증 "wikilink")
       - F40.2 [특정 (고립) 공포증](../Page/특정_공포증.md "wikilink")
           - [고소 공포증](../Page/고소_공포증.md "wikilink")
@@ -239,7 +239,7 @@
           - 단순 공포증
   - F41 기타 [불안 장애](https://ko.wikipedia.org/wiki/불안_장애 "wikilink")
       - F41.0 [공황 장애](https://ko.wikipedia.org/wiki/공황_장애 "wikilink") (우발적 발작성 불안)
-      - F41.1 [범불안장애](https://ko.wikipedia.org/wiki/범불안장애 "wikilink")
+      - F41.1 [범불안장애](../Page/범불안장애.md "wikilink")
   - F42 [강박 장애](https://ko.wikipedia.org/wiki/강박_장애 "wikilink")
   - F43 극심한 [스트레스](../Page/스트레스.md "wikilink")에 대한 반응 및 적응 장애
       - F43.0 [급성 스트레스 반응](../Page/급성_스트레스_장애.md "wikilink")(ASD)

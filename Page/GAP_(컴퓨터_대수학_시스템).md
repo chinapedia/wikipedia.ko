@@ -13,7 +13,7 @@ GAP는 독일의 [아헨 공과대학교의](../Page/아헨_공과대학교.md "
 
 사용자 기여 패키지는 많은 기능을 추가하는 시스템의 중요한 형태이다. GAP는 패키지 저자에게 이 패키지를 최종 패키지의 질을 크게 증가시키고, 그 저자의 학술지와 비슷한 인식을 제공하게 하는 [동료평가](https://ko.wikipedia.org/wiki/동료평가 "wikilink")의 처리에 전송할 기회를 제공한다. , GAP와 같이 배포된 패키지가 58개가 있고, 대략 35개가 이 과정을 거쳤다.
 
-인터페이스는 GAP 내에서 [SINGULAR](https://ko.wikipedia.org/wiki/Singular_\(소프트웨어\) "wikilink") 컴퓨터 대수학 시스템을 사용하는 것이 가능하다. GAP은 또한 수학 소프트웨어 시스템 [SageMath](https://ko.wikipedia.org/wiki/SageMath "wikilink")를 포함한다.
+인터페이스는 GAP 내에서 [SINGULAR](https://ko.wikipedia.org/wiki/Singular_\(소프트웨어\) "wikilink") 컴퓨터 대수학 시스템을 사용하는 것이 가능하다. GAP은 또한 수학 소프트웨어 시스템 [SageMath](../Page/SageMath.md "wikilink")를 포함한다.
 
 ## 샘플 세션
 

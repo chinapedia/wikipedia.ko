@@ -266,7 +266,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a> ~ <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a></p></td>
+<td><p><a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/2월_26일.md" title="wikilink">2월 26일</a> ~ <a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 오후 2시 5분 ~ 2시 15분 (10분)<br />
 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 11시 ~ 11시 5분 (5분)<br />
 <a href="../Page/일요일.md" title="wikilink">일요일</a> 밤 10시 ~ 10시 5분 (5분)</p></td>

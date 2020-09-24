@@ -81,7 +81,7 @@
 
 #### *Blackwater Park*
 
-  - [스티븐 윌슨](https://ko.wikipedia.org/wiki/스티븐_윌슨 "wikilink") ([포큐파인 트리](https://ko.wikipedia.org/wiki/포큐파인_트리 "wikilink")) - 보컬, 기타, [피아노](../Page/피아노.md "wikilink")
+  - [스티븐 윌슨](../Page/스티븐_윌슨.md "wikilink") ([포큐파인 트리](https://ko.wikipedia.org/wiki/포큐파인_트리 "wikilink")) - 보컬, 기타, [피아노](../Page/피아노.md "wikilink")
   - 마르쿠스 린드버그
 
 #### *Deliverance*

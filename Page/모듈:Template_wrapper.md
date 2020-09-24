@@ -28,6 +28,50 @@ local function add_parameter (k, v, args, list)
 
 end
 
+\--\[\[--------------------------\< A L I A S _ M A P _ G E T \>----------------------------------------------------
+
+returns a table of local template (parent frame) parameter names and the target template names that match where in \[key\]=<value> pairs where:
+
+`   [key] is local template parameter name (an alias)`
+`   `<value>` is target template parameter name (the canonical parameter name used in the working template)`
+
+The parameter |_alias-map= has the form:
+
+`   |_alias-map=`<list>
+
+where <list> is a comma-separated list of alias / canonical parameter name pairs in the form
+
+`   `<from>` : `<to>
+
+where:
+
+`   `<from>` is the local template's parameter name (alias)`
+`   `<to>` is the target template's parameter name (canonical)`
+`   for enumerated parameters place an octothorp (#) where the enumerator digits are placed in the parameter names:`
+`       <from#> : <to#>`
+
+\]\]
+
+local function alias_map_get (_alias_map)
+
+`   local T = mw.text.split (_alias_map, '%s*,%s*');                            -- convert the comma-separated list into a table of alias pairs`
+`   local mapped_aliases = {};                                                  -- mapped aliases will go here`
+`   local l_name, t_name;                                                       -- parameter names`
+`   `
+`   for _, alias_pair in ipairs (T) do                                          -- loop through the table of alias pairs`
+`       l_name, t_name = alias_pair:match ('(.-)%s*:%s*(.+)');                  -- from each pair, get local and target parameter names`
+`       if l_name and t_name then                                               -- if both are set`
+`           if tonumber (l_name) then`
+`               l_name = tonumber (l_name);                                     -- convert number-as-text to a number`
+`           end`
+`           mapped_aliases[l_name] = t_name;                                    -- add them to the map table`
+`       end`
+`   end`
+
+`   return mapped_aliases;`
+
+end
+
 \--\[\[--------------------------\< F R A M E _ A R G S _ G E T \>--------------------------------------------------
 
 Fetch the wrapper template's 'default' and control parameters; adds default parameters to args
@@ -44,7 +88,7 @@ local function frame_args_get (frame_args, args, list)
 `       if 'string' == type (k) and (v and ('' ~= v)) then                      -- do not pass along positional or empty parameters`
 `           if '_template' == k then`
 `               template = v;                                                   -- save the name of template that we are wrapping`
-`           elseif '_exclude' ~= k and '_include-positional' ~= k then          -- these already handled so ignore here; `
+`           elseif '_exclude' ~= k and '_reuse' ~= k and '_include-positional' ~= k  and '_alias-map' ~= k then -- these already handled so ignore here; `
 `               add_parameter (k, v, args, list);                               -- add all other parameters to args in the style dictated by list`
 `           end`
 `       end`
@@ -54,7 +98,13 @@ local function frame_args_get (frame_args, args, list)
 
 end
 
-\--[--------------------------\< P F R A M E _ A R G S _ G E T \>------------------------------------------------ Fetches the wrapper template's 'live' parameters; adds live parameters that aren't members of the exclude table to args table; positional parameters may not be excluded no return value](https://ko.wikipedia.org/wiki/--------------------------\<_P_F_R_A_M_E_A_R_G_S_G_E_T_\>------------------------------------------------_Fetches_the_wrapper_template's_'live'_parameters;_adds_live_parameters_that_aren't_members_of_the_exclude_table_to_args_table;_positional_parameters_may_not_be_excluded_no_return_value "wikilink")
+\--\[=\[--------------------------\< P F R A M E _ A R G S _ G E T \>------------------------------------------------
+
+Fetches the wrapper template's 'live' parameters; adds live parameters that aren't members of the exclude table to args table; positional parameters may not be excluded
+
+no return value
+
+\]=\]
 
 local function pframe_args_get (pframe_args, args, exclude, _include_positional, list)
 
@@ -64,7 +114,7 @@ local function pframe_args_get (pframe_args, args, exclude, _include_positional,
 `               if 'unset' == v:lower() then                                    -- special keyword to unset 'default' parameters set in the wrapper template`
 `                   v = '';                                                     -- unset the value in the args table`
 `               end`
-`               add_parameter (k, v, args, list)                                -- add all other parameters to args in the style dictated by list`
+`               add_parameter (k, v, args, list)                                -- add all other parameters to args in the style dictated by list; alias map only supported for local-template parameters`
 `           end`
 `       end`
 `   end`
@@ -86,10 +136,20 @@ local function _main (frame, args, list)
 
 `   local template;`
 `   local exclude = {};                                                         -- table of parameter names for parameters that are not passed to the working template`
+`   local reuse_list = {};                                                      -- table of pframe parameter names whose values are modified before they are passed to the working template as the same name`
+`   local alias_map = {};                                                       -- table that maps parameter aliases to working template canonical parameter names`
 `   local _include_positional;`
 `   `
 `   if frame.args._exclude and ('' ~= frame.args._exclude) then                 -- if there is |_exclude= and it's not empty`
 `       exclude = mw.text.split (frame.args._exclude, "%s*,%s*");               -- make a table from its contents`
+`   end`
+`                                                                               -- TODO: |_reuse= needs a better name (|_reuse=)`
+`   if frame.args._reuse and ('' ~= frame.args._reuse) then                 -- if there is |_reuse= and it's not empty`
+`       reuse_list = mw.text.split (frame.args._reuse, "%s*,%s*");              -- make a table from its contents`
+`   end`
+
+`   if frame.args['_alias-map'] and ('' ~= frame.args['_alias-map']) then       -- if there is |_alias-map= and it's not empty`
+`       alias_map = alias_map_get (frame.args['_alias-map']);                   -- make a table from its contents`
 `   end`
 
 `   template = frame_args_get (frame.args, args, list);                         -- get parameters provided in the {{#invoke:template wrapper|...|...}}`
@@ -100,8 +160,50 @@ local function _main (frame, args, list)
 `   _include_positional = 'yes' == frame.args['_include-positional'];           -- when true pass all positional parameters along with non-excluded named parameters to ...`
 `                                                                               -- ... the working template; positional parameters are not excludable`
 `                                                                               `
-`   local pframe = frame:getParent();                                           -- here we get the wrapper template's 'live' parameters from pframe.args`
-`   pframe_args_get (pframe.args, args, exclude, _include_positional, list);    -- add parameters and values to args that are not listed in the exclude table`
+`   local _pframe_args = frame:getParent().args;                                -- here we get the wrapper template's 'live' parameters from pframe.args`
+`   local pframe_args = {};                                                     -- a local table that we can modify`
+
+`   for k, v in pairs (_pframe_args) do                                         -- make a copy that we can modify`
+`       pframe_args[k] = v;`
+`   end`
+`   `
+
+\-- here we look for pframe parameters that are aliases of canonical parameter names; when found -- we replace the alias with the canonical. We do this here because the reuse_list works on -- canonical parameter names so first we convert alias parameter names to canonical names and then -- we remove those canonical names from the pframe table that are reused (provided to the working -- template through the frame args table)
+
+`   for k, v in pairs (alias_map) do                                            -- k is alias name, v is canonical name`
+`       if pframe_args[k] then                                                  -- if pframe_args has parameter with alias name`
+`           pframe_args[v] = _pframe_args[k];                                   -- create new canonical name with alias' value`
+`           pframe_args[k] = nil;                                               -- unset the alias`
+`       end`
+`   end`
+
+`   for k, v in pairs (pframe_args) do                                          -- do enumerated parameter alias -> canonical translation`
+`       if 'string' == type (k) then                                            -- only named parameters can be enumerated`
+`           if alias_map[k..'#'] then                                           -- non-enumerated alias matches enumerated parameter pattern? enumerator at end only`
+`               pframe_args[alias_map[k..'#']:gsub('#', '')] = v;               -- remove '#' and copy parameter to pframe_args table`
+`               pframe_args[k] = nil;                                           -- unset the alias`
+`           elseif k:match ('%d+') then                                         -- if this parameter name contains digits`
+`               local temp = k:gsub ('%d+', '#');                               -- make a copy; digits replaced with single '#'`
+`               local enum = k:match ('%d+');                                   -- get the enumerator`
+`               `
+`               if alias_map[temp] then                                         -- if this parameter is a recognized enumerated alias`
+`                   pframe_args[alias_map[temp]:gsub('#', enum)] = v;           -- use canonical name and replace '#' with enumerator and add to pframe_args`
+`                   pframe_args[k] = nil;                                       -- unset the alias`
+`               end`
+`           end`
+`       end`
+`   end`
+
+\-- pframe parameters that are _reused are 'reused' have the form something like this: -- |chapter=[](https://ko.wikipedia.org/wiki/wikisource:{{{chapter}}} "wikilink") -- where a parameter in the wrapping template is modified and then passed to the working template -- using the same parameter name (in this example |chapter=)
+
+`                                                                               -- remove parameters that will be reused`
+`   for k, v in ipairs (reuse_list) do                                          -- k is numerical index, v is canonical parameter name to ignore`
+`       if pframe_args[v] then                                                  -- if pframe_args has parameter that should be ignored`
+`           pframe_args[v] = nil;                                               -- unset the ignored parameter`
+`       end`
+`   end`
+
+`   pframe_args_get (pframe_args, args, exclude, _include_positional, list);    -- add parameters and values to args that are not listed in the exclude table`
 
 `   return template;                                                            -- args now has all default and live parameters, return working template name`
 
@@ -118,7 +220,7 @@ local function wrap (frame)
 `   if not template then                                                        -- template name is required`
 `       return error_msg;                                                       -- emit error message and abandon if template name not present`
 `   end`
-`   `
+
 `   return frame:expandTemplate {title=template, args=args};                    -- render the working template`
 
 end

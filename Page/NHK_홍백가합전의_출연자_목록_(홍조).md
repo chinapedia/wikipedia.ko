@@ -13,7 +13,7 @@
 
 ### 활용 방법
 
-이 목록은 출연자들이 저마다 출연했던 시기가 언제인지를 막대그래프로 기록하고 있다. 목록은 정렬 가능한 표로서 작성되어 있지만, 모바일 위키백과에서는 정렬 기능이 표현되지 않기에 이 경우에는 이용이 불가능하다. 이름이 적힌 칸의 맨 위에는 화살표 모양의 버튼이 있는데, 한 번 누르면 '▲' 모양으로 변하며 가나다 순서로 정렬되고, 다시 누르면 '▼' 모양이 되며 역순으로 전환된다. 가수 문서의 표제어가 한국어로 적혀있는 경우에는 검색이 용이하지만, 각 음악가의 활동 이름이나 그룹명이 영문, 특수문자, 혹은 그 외의 문자인 경우 원하는 가수를 찾기 힘들 수 있다. 또한, 예를 들어 [카라나](../Page/카라_\(음악_그룹\).md "wikilink") [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")는 NHK에서 영문 이름으로 기록하고 있으며, 이 사실을 모르는 독자는 영문 'K'나 'T'에서 이 그룹을 찾아야 하는지, 한글 'ㅋ'나 'ㅌ' 순서에서 찾아야 하는지 난처할 수 있다. 이를 방지하기 위해 이 목록에서는 각 이름의 <u>**발음**</u>을 기준으로 정렬하고 있음을 알린다. 다음은 예시이다.
+이 목록은 출연자들이 저마다 출연했던 시기가 언제인지를 막대그래프로 기록하고 있다. 목록은 정렬 가능한 표로서 작성되어 있지만, 모바일 위키백과에서는 정렬 기능이 표현되지 않기에 이 경우에는 이용이 불가능하다. 이름이 적힌 칸의 맨 위에는 화살표 모양의 버튼이 있는데, 한 번 누르면 '▲' 모양으로 변하며 가나다 순서로 정렬되고, 다시 누르면 '▼' 모양이 되며 역순으로 전환된다. 가수 문서의 표제어가 한국어로 적혀있는 경우에는 검색이 용이하지만, 각 음악가의 활동 이름이나 그룹명이 영문, 특수문자, 혹은 그 외의 문자인 경우 원하는 가수를 찾기 힘들 수 있다. 또한, 예를 들어 [카라나](../Page/카라_\(음악_그룹\).md "wikilink") [트와이스](../Page/트와이스.md "wikilink")는 NHK에서 영문 이름으로 기록하고 있으며, 이 사실을 모르는 독자는 영문 'K'나 'T'에서 이 그룹을 찾아야 하는지, 한글 'ㅋ'나 'ㅌ' 순서에서 찾아야 하는지 난처할 수 있다. 이를 방지하기 위해 이 목록에서는 각 이름의 <u>**발음**</u>을 기준으로 정렬하고 있음을 알린다. 다음은 예시이다.
 
   - [AAA](../Page/AAA_\(음악_그룹\).md "wikilink")(트리플 에이)는 [트리오 코이상즈와](https://ko.wikipedia.org/wiki/트리오_코이상즈 "wikilink") TWICE(트와이스) 사이에 있다.
   - [μ's](https://ko.wikipedia.org/wiki/μ's "wikilink")(뮤즈)는 [모모이로 클로버 Z와](https://ko.wikipedia.org/wiki/모모이로_클로버_Z "wikilink") [미나미 사오리](https://ko.wikipedia.org/wiki/미나미_사오리 "wikilink") 사이에 있다.
@@ -11751,7 +11751,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/로스_인디오스" title="wikilink">로스 인디오스</a>&amp;<a href="https://ko.wikipedia.org/wiki/실비아" title="wikilink">실비아</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/로스_인디오스" title="wikilink">로스 인디오스</a>&amp;<a href="../Page/실비아.md" title="wikilink">실비아</a></p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -12745,7 +12745,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/호리_치에미" title="wikilink">호리 치에미</a></p></td>
+<td><p><a href="../Page/호리_치에미.md" title="wikilink">호리 치에미</a></p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>
@@ -19277,7 +19277,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>data-sort-value="히토미" | <a href="https://ko.wikipedia.org/wiki/히토미_(가수)" title="wikilink">히토미</a></p></td>
+<td><p>data-sort-value="히토미" | <a href="../Page/히토미_(가수).md" title="wikilink">히토미</a></p></td>
 <td><p> </p></td>
 <td></td>
 <td></td>

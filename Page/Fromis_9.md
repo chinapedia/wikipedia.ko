@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Fromis 9](https://ko.wikipedia.org/wiki/Fromis_9).
 
 
-**fromis_9**(프로미스나인)은 대한민국의 9인조 걸 그룹이다. 2017년에 방영된 프로그램인 《[아이돌학교](../Page/아이돌학교.md "wikilink")》의 참가자 중 최종 상위 9명을 선발해 결성되었다. 그룹명은 from과 아이돌학교(Idol School)의 약자 is를 조합한 것으로 멤버들이 아이돌학교 출신임을 의미하는 것과 더불어 최고의 걸 그룹이 되겠다는 팬들에 대한 멤버들의 약속이라는 뜻도 담겨 있다.\[1\] 당초 그룹명은 **fromis_**(프로미스)였으나, 2017년 11월 24일에 그룹명에 멤버의 수를 뜻하는 숫자 9를 추가해 현재 이름으로 변경하였다. 2018년 1월 24일 정식으로 데뷔하고, 당일 데뷔 쇼케이스를 하였다. 데뷔 이래 지금까지 [플레디스 엔터테인먼트에서](../Page/플레디스_엔터테인먼트.md "wikilink") 프로듀싱을 전담한다.\[2\]
+**fromis_9**(프로미스나인)은 대한민국의 9인조 걸 그룹이다. 2017년에 방영된 프로그램인 《[아이돌학교](../Page/아이돌학교.md "wikilink")》의 참가자 중 최종 상위 9명을 선발해 결성되었다. 그룹명은 from과 아이돌학교(Idol School)의 약자 is를 조합한 것으로 멤버들이 아이돌학교 출신임을 의미하는 것과 더불어 최고의 걸 그룹이 되겠다는 팬들에 대한 멤버들의 약속이라는 뜻도 담겨 있다.\[1\] 당초 그룹명은 **fromis_**(프로미스)였으나, 2017년 11월 24일 그룹명에 멤버의 수를 뜻하는 숫자 9를 추가해 현재 이름으로 변경하였다. 2018년 1월 24일 정식으로 데뷔하고, 당일 데뷔 쇼케이스를 하였다. 데뷔 이래 지금까지 [플레디스 엔터테인먼트에서](../Page/플레디스_엔터테인먼트.md "wikilink") 프로듀싱을 전담한다.\[2\]
 
 ## 활동
 
@@ -13,11 +13,11 @@
 
 스페셜 싱글앨범 [From.9](../Page/From.9.md "wikilink")으로 10월 10일 컴백을 했으며, 이와 함께 [장규리](../Page/장규리.md "wikilink")가 복귀하여 9인체제로 다시 활동하게 되었다.\[7\] 이번 싱글 타이틀곡 제목은 〈LOVE BOMB〉이며 두 번째 미니앨범 타이틀곡이었던 '두근두근'과 수록곡 '22세기 소녀'는 당시 함께 활동하지 못했던 장규리가 다시 합류하면서 아홉 명 완전체로 새롭게 녹음한 버전과 신곡 "DANCING QUEEN"과 "물들어"가 수록되었다.\[8\]
 
-### 2019-2020: *FUN FACTORY*
+### 2019-2020: *FUN FACTORY*, ''My Little Society ''
 
 2019년 6월 4일 첫 번째 싱글앨범 《[FUN FACTORY](../Page/FUN_FACTORY.md "wikilink")》으로 컴백하였다. 〈FUN FACTORY〉의 타이틀곡은 《FUN\!》이며 "LOVE RUM PUM PUM", "FLY HIGH"가 수록되어 있으며, "FLY HIGH"의 작사, 작곡에 멤버 송하영, 박지원이 참여하였다.\[9\]
 
-2020년 9월 14일 1년 3개월만에 컴백을 앞두고 있다.
+2020년 9월 16일 세 번째 미니앨범 《[My Little Society](https://ko.wikipedia.org/wiki/My_Little_Society "wikilink")》으로 1년 3개월만에 컴백하였다. 다리 부상으로 인해 멤버 [이서연](https://ko.wikipedia.org/wiki/이서연_\(가수\) "wikilink") 제외한 8인체제로 활동한다.
 
 ## 구성원
 
@@ -76,6 +76,23 @@
 <li>22세기 소녀</li>
 <li>CLOVER</li>
 <li>FIRST LOVE</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p><strong>3</strong></p></td>
+<td style="text-align: left;"><p><strong><a href="https://ko.wikipedia.org/wiki/My_Little_Society" title="wikilink">My Little Society</a></strong></p>
+<ul>
+<li>발매일: 2020년 9월 16일</li>
+</ul></td>
+<td style="text-align: left;"><ol>
+<li><strong>Feel Good(SECRET CODE)</strong></li>
+<li>Weather</li>
+<li>별의 밤</li>
+<li>Somebody to love</li>
+<li>물고기</li>
+</ol>
+<ol>
+<li></li>
 </ol></td>
 </tr>
 </tbody>

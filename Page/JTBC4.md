@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JTBC4](https://ko.wikipedia.org/wiki/JTBC4).
 
 
-**JTBC4**는 [중앙그룹](../Page/중앙그룹.md "wikilink") 산하의 트렌드 라이프스타일 채널이다. 원래는 자체 프로그램에 여성, 생활정보 프로그램 편성해왔으나, 현재는 폐국하지 않고, 별도 JTBC 프로그램 재방송 편성하고 있다. OTT는 [TVING과](../Page/티빙.md "wikilink") U+모바일 TV, [Seezn에서만](https://ko.wikipedia.org/wiki/시즌_\(플랫폼\) "wikilink") 시청 가능하다. 다만 본디의 채널은 [놀TV](https://ko.wikipedia.org/wiki/놀TV "wikilink")인 것으로 보인다.
+**JTBC4**는 [중앙그룹](../Page/중앙그룹.md "wikilink") 산하의 트렌드 라이프스타일 채널이다. 원래는 자체 프로그램에 여성, 생활정보 프로그램 편성해왔으나, 현재는 폐국하지 않고, 별도 JTBC 프로그램 재방송 편성하고 있다. OTT는 [TVING과](../Page/티빙.md "wikilink") U+모바일 TV, [Seezn에서만](../Page/시즌_\(플랫폼\).md "wikilink") 시청 가능하다. 다만 본디의 채널은 [놀TV](https://ko.wikipedia.org/wiki/놀TV "wikilink")인 것으로 보인다.
 
 ## 역사
 

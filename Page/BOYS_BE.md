@@ -9,7 +9,7 @@
   - 타이틀곡 〈만세〉는 좋아하는 이성이 자신을 바라볼 때 [만세](https://ko.wikipedia.org/wiki/만세 "wikilink")를 외칠 만큼 기쁜 감정을 소년의 입장에서 표현한 곡이다.\[1\] 곡에는 [무궁화 꽃이 피었습니다](https://ko.wikipedia.org/wiki/무궁화_꽃이_피었습니다_\(놀이\) "wikilink") 놀이의 구호가 포함되어 있으며, 만세 동작을 한 채로 양 손을 좌우로 흔드는 안무와 삐진 척을 하는 듯한 안무가 특징적이다.\[2\] 뮤직 비디오에는 배우 [조수향](../Page/조수향.md "wikilink")이 출연하였다.\[3\]
   - 1번 트랙 〈표정관리〉는 힙합 유닛의 곡으로, 좋아하는 이성이 앞에 있을 때 표정을 감추기 힘든 모습을 남성의 시선에서 표현하였다.\[4\]
   - 3번 트랙 〈어른이 되면〉은 보컬 유닛의 [R\&B](https://ko.wikipedia.org/wiki/R&B "wikilink") 장르 곡으로, 서툴렀던 사랑을 아련한 느낌으로 표현하였다.\[5\]
-  - 4번 트랙 〈OMG〉는 퍼포먼스 유닛의 [EDM](https://ko.wikipedia.org/wiki/일렉트로닉_댄스_뮤직 "wikilink"), [트랩](https://ko.wikipedia.org/wiki/트랩_음악 "wikilink") 장르 곡으로, 예능 프로그램 《[세븐틴 프로젝트 - 데뷔 대작전](https://ko.wikipedia.org/wiki/세븐틴_프로젝트_-_데뷔_대작전 "wikilink")》에서 미리 공개되었었다.\[6\]
+  - 4번 트랙 〈OMG〉는 퍼포먼스 유닛의 [EDM](../Page/일렉트로닉_댄스_뮤직.md "wikilink"), [트랩](https://ko.wikipedia.org/wiki/트랩_음악 "wikilink") 장르 곡으로, 예능 프로그램 《[세븐틴 프로젝트 - 데뷔 대작전](https://ko.wikipedia.org/wiki/세븐틴_프로젝트_-_데뷔_대작전 "wikilink")》에서 미리 공개되었었다.\[6\]
 
 ## 수록곡
 

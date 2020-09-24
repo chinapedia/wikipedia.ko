@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Paperback Writer](https://ko.wikipedia.org/wiki/Paperback_Writer).
 
 
-〈**Paperback Writer**〉는 [폴 매카트니와](../Page/폴_매카트니.md "wikilink") [존 레논이](../Page/존_레논.md "wikilink") 쓴 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 1966년도 노래다. 이들의 11번째 싱글의 A면에 담겨 출시되었다. 그리고 싱글은 미국, 영국, 아일랜드, 서독, 호주, 뉴질랜드, 노르웨이에서 1위에 올랐다. 미국 빌보드 100에서는 이어지지 않는 두 주간 1위에 올랐고, 프랭크 시나트라의 〈[Strangers in the Night](https://ko.wikipedia.org/wiki/Strangers_in_the_Night "wikilink")〉에 가로막혔다.
+〈**Paperback Writer**〉는 [폴 매카트니와](../Page/폴_매카트니.md "wikilink") [존 레논이](../Page/존_레논.md "wikilink") 쓴 영국의 록 밴드 [비틀즈](../Page/비틀즈.md "wikilink")의 1966년도 노래다. 이들의 11번째 싱글의 A면에 담겨 출시되었다. 그리고 싱글은 미국, 영국, 아일랜드, 서독, 호주, 뉴질랜드, 노르웨이에서 1위에 올랐다. 미국 빌보드 100에서는 이어지지 않는 두 주간 1위에 올랐고, 프랭크 시나트라의 〈[Strangers in the Night](../Page/Strangers_in_the_Night.md "wikilink")〉에 가로막혔다.
 
 〈Paperback Writer〉는 비틀즈가 1966년 마지막 투어 때 부른 마지막 최신 곡이었다.
 

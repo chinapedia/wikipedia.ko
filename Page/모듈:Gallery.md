@@ -19,7 +19,7 @@ local function checkarg(k,v)
 
 `   if k and type(k) == 'string' then`
 `       if k == 'align' or k == 'state' or k == 'style' or k == 'caption' or k == 'title' or`
-`           k == 'width' or k == 'height' or k == 'lines' or k == 'whitebg' or`
+`           k == 'width' or k == 'height' or k == 'lines' or k == 'whitebg' or k == 'class' or`
 `           k == 'mode' or k == 'footer' or k == 'perrow' or k == 'noborder' or`
 `           k:match('^alt%d+$') or k:match('^%d+$') then`
 `           -- valid`
@@ -81,20 +81,38 @@ function p.gallery(frame)
 `       tbl:addClass('mod-gallery-' .. args.align:lower())`
 `   end`
 `   `
+`   if args.class then`
+`       tbl:addClass(args.class)`
+`   end`
+`   `
 `   if args.title or args.caption then`
 `       tbl:tag('div')`
 `           :addClass('title')`
 `               :tag('div')`
-`                   :wikitext(args.title or args.caption)`
+`                   :wikitext('`
+
+<dl>
+
+<dd>
+
+' .. (args.title or args.caption) .. '
+
+</dd>
+
+</dl>
+
+')
+
 `   end`
 `   `
 `   local gargs = {}`
 `   gargs['class'] = 'nochecker' .. (args.noborder and '' or ' bordered-images')`
 `   gargs['widths'] = tonumber(args.width) or 180`
 `   gargs['heights'] = tonumber(args.height) or 180`
-`   gargs['style'] = 'line-height:1.35em'`
+`   gargs['style'] = args.captionstyle`
 `   gargs['perrow'] = args.perrow`
 `   gargs['mode'] = args.mode`
+`   gargs['showfilename'] = args.showfilename`
 `   if yesno(args.whitebg or 'yes') then`
 `       gargs['class'] = gargs['class'] .. ' whitebg'`
 `   end`
@@ -123,7 +141,20 @@ function p.gallery(frame)
 `       tbl:tag('div')`
 `           :addClass('footer')`
 `               :tag('div')`
-`                   :wikitext(args.footer)`
+`                   :wikitext('`
+
+<dl>
+
+<dd>
+
+' .. args.footer .. '
+
+</dd>
+
+</dl>
+
+')
+
 `   end`
 
 `   local trackstr = (#tracking > 0) and table.concat(tracking, '') or ''`

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SFML](https://ko.wikipedia.org/wiki/SFML).
 
 
-**SFML**(Simple and Fast Multimedia Library)은 컴퓨터의 다양한 멀티미디어 구성 요소에 단순한 [API](../Page/API.md "wikilink")를 제공하기 위해 설계된 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") 소프트웨어 개발 [라이브러리이다](../Page/라이브러리_\(컴퓨팅\).md "wikilink"). [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [크리스탈](https://ko.wikipedia.org/wiki/크리스탈_\(프로그래밍_언어\) "wikilink"), [D](../Page/D_\(프로그래밍_언어\).md "wikilink"), [유포리아](https://ko.wikipedia.org/wiki/유포리아 "wikilink"), [Go](../Page/Go_\(프로그래밍_언어\).md "wikilink"), [Java](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [Julia](../Page/줄리아_\(프로그래밍_언어\).md "wikilink"), [.NET](../Page/닷넷_프레임워크.md "wikilink"), [Nim](https://ko.wikipedia.org/wiki/:en:Nim_\(programming_language\) "wikilink"), [OCaml](../Page/OCaml.md "wikilink"), [Python](../Page/파이썬.md "wikilink"), [Ruby](../Page/루비_\(프로그래밍_언어\).md "wikilink"), and [Rust용으로](../Page/러스트_\(프로그래밍_언어\).md "wikilink") 이용 가능한 [바인딩과](https://ko.wikipedia.org/wiki/언어_바인딩 "wikilink") 함께 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 작성되어 있다.\[1\] 실험적인 모바일 포트들은 SFML 2.2의 출시와 함께 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink"), [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")용으로 이용 가능하게 되었다.\[2\]
+**SFML**(Simple and Fast Multimedia Library)은 컴퓨터의 다양한 멀티미디어 구성 요소에 단순한 [API](../Page/API.md "wikilink")를 제공하기 위해 설계된 [크로스 플랫폼](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") 소프트웨어 개발 [라이브러리이다](../Page/라이브러리_\(컴퓨팅\).md "wikilink"). [C](../Page/C_\(프로그래밍_언어\).md "wikilink"), [크리스탈](https://ko.wikipedia.org/wiki/크리스탈_\(프로그래밍_언어\) "wikilink"), [D](../Page/D_\(프로그래밍_언어\).md "wikilink"), [유포리아](https://ko.wikipedia.org/wiki/유포리아 "wikilink"), [Go](../Page/Go_\(프로그래밍_언어\).md "wikilink"), [Java](../Page/자바_\(프로그래밍_언어\).md "wikilink"), [Julia](../Page/줄리아_\(프로그래밍_언어\).md "wikilink"), [.NET](../Page/닷넷_프레임워크.md "wikilink"), [Nim](https://ko.wikipedia.org/wiki/:en:Nim_\(programming_language\) "wikilink"), [OCaml](../Page/OCaml.md "wikilink"), [Python](../Page/파이썬.md "wikilink"), [Ruby](../Page/루비_\(프로그래밍_언어\).md "wikilink"), and [Rust용으로](../Page/러스트_\(프로그래밍_언어\).md "wikilink") 이용 가능한 [바인딩과](../Page/언어_바인딩.md "wikilink") 함께 [C++](https://ko.wikipedia.org/wiki/C++ "wikilink")로 작성되어 있다.\[1\] 실험적인 모바일 포트들은 SFML 2.2의 출시와 함께 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink"), [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink")용으로 이용 가능하게 되었다.\[2\]
 
 SFML은 [창에](../Page/창_\(컴퓨팅\).md "wikilink") 대한 만들기 및 입력, 그리고 [OpenGL](../Page/OpenGL.md "wikilink") 컨텍스트의 만들기 및 관리를 관리한다. [프리타입](../Page/프리타입.md "wikilink")을 이용한 텍스트 렌더링, [OpenAL](../Page/OpenAL.md "wikilink")을 사용하는 오디오 모듈, 기본적인 [전송 제어 프로토콜](../Page/전송_제어_프로토콜.md "wikilink")(TCP)과 [사용자 데이터그램 프로토콜](../Page/사용자_데이터그램_프로토콜.md "wikilink")(UDP) 통신을 위한 네트워크 모듈을 포함하여 [2차원 컴퓨터 그래픽스의](https://ko.wikipedia.org/wiki/2차원_컴퓨터_그래픽스 "wikilink") 단순한 [하드웨어 가속을](https://ko.wikipedia.org/wiki/하드웨어_가속 "wikilink") 위한 그래픽 모듈도 제공한다.
 
@@ -21,7 +21,7 @@ SFML은 다양한 모듈로 구성되어 있다:
 
 ### 언어 바인딩
 
-SFML은 C++로 작성되어 있으며 C++ 인터페이스를 제공한다. 다른 프로그래밍 언어로 SFML을 사용할 수 있게 해주는 여러 [언어 바인딩이](https://ko.wikipedia.org/wiki/언어_바인딩 "wikilink") 존재한다.\[5\]
+SFML은 C++로 작성되어 있으며 C++ 인터페이스를 제공한다. 다른 프로그래밍 언어로 SFML을 사용할 수 있게 해주는 여러 [언어 바인딩이](../Page/언어_바인딩.md "wikilink") 존재한다.\[5\]
 
 이 표는 2017년 기준으로 SFML을 위해 지원되는 바인딩을 나열한다.
 

@@ -29,7 +29,7 @@
 </tr>
 <tr class="even">
 <td><p>2위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레나_괴슬링" title="wikilink">레나 괴슬링</a></p></td>
+<td><p><a href="../Page/레나_괴슬링.md" title="wikilink">레나 괴슬링</a></p></td>
 <td><p>-</p></td>
 <td><p>6</p></td>
 <td></td>
@@ -142,7 +142,7 @@
 </tr>
 <tr class="even">
 <td><p>4위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/레나_괴슬링" title="wikilink">레나 괴슬링</a></p></td>
+<td><p><a href="../Page/레나_괴슬링.md" title="wikilink">레나 괴슬링</a></p></td>
 <td><p>6</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -246,7 +246,7 @@
 <td><p><a href="../Page/1._FFC_프랑크푸르트.md" title="wikilink">1. FFC 프랑크푸르트</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/아냐_미타크" title="wikilink">아냐 미타크</a></p></td>
+<td><p><a href="../Page/아냐_미타크.md" title="wikilink">아냐 미타크</a></p></td>
 <td><p>8</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -294,7 +294,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/포틀랜드_손스_FC" title="wikilink">포틀랜드 손스</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/지모네_라우더" title="wikilink">지모네 라우더</a></p></td>
+<td><p><a href="../Page/지모네_라우더.md" title="wikilink">지모네 라우더</a></p></td>
 <td><p>2</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -578,7 +578,7 @@
 </tr>
 <tr class="even">
 <td><p>8위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/프랜_커비" title="wikilink">프랜 커비</a></p></td>
+<td><p><a href="../Page/프랜_커비.md" title="wikilink">프랜 커비</a></p></td>
 <td><p>15</p></td>
 <td><p>-</p></td>
 <td></td>

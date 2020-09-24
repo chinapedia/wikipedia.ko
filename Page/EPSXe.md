@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EPSXe](https://ko.wikipedia.org/wiki/EPSXe).
 
 
-**ePSXe**(*enhanced PSX emulator*)는 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink") [비디오 게임 콘솔 에뮬레이터의](../Page/비디오_게임_콘솔_에뮬레이터.md "wikilink") 하나로, [마이크로소프트 윈도우나](../Page/마이크로소프트_윈도우.md "wikilink") [리눅스](../Page/리눅스.md "wikilink")가 설치된 [X86](../Page/X86.md "wikilink") 기반 [PC 하드웨어](../Page/개인용_컴퓨터.md "wikilink") 및 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 구동 기기에서 동작한다. *calb*, *_Demo_*, *Galtor*라는 별칭을 사용하는 3명의 개발자에 의해 작성되었다. ePSXe는 플러그인에 대한 [API](../Page/API.md "wikilink")를 제외하고 [클로즈드 소스이다](https://ko.wikipedia.org/wiki/사유_소프트웨어 "wikilink").
+**ePSXe**(*enhanced PSX emulator*)는 [플레이스테이션](../Page/플레이스테이션.md "wikilink") [비디오 게임 콘솔 에뮬레이터의](../Page/비디오_게임_콘솔_에뮬레이터.md "wikilink") 하나로, [마이크로소프트 윈도우나](../Page/마이크로소프트_윈도우.md "wikilink") [리눅스](../Page/리눅스.md "wikilink")가 설치된 [X86](../Page/X86.md "wikilink") 기반 [PC 하드웨어](../Page/개인용_컴퓨터.md "wikilink") 및 [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink") 구동 기기에서 동작한다. *calb*, *_Demo_*, *Galtor*라는 별칭을 사용하는 3명의 개발자에 의해 작성되었다. ePSXe는 플러그인에 대한 [API](../Page/API.md "wikilink")를 제외하고 [클로즈드 소스이다](../Page/사유_소프트웨어.md "wikilink").
 
 ## 개발
 

@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:CBS_Interactive_Logo.svg "wikilink")
 
-**CBS 인터랙티브**(CBS Interactive Inc., 과거 이름: CBS 디지털 미디어 그룹, CBS Digital Media Group)는 미국의 미디어 기업이자 [바이어컴CBS](https://ko.wikipedia.org/wiki/바이어컴CBS "wikilink")의 지사이다. 정보와 엔터테인먼트를 위한 온라인 콘텐츠 네트워크이다. 이 웹사이트는 [뉴스](../Page/뉴스.md "wikilink"), [스포츠](../Page/스포츠.md "wikilink"), [오락](https://ko.wikipedia.org/wiki/오락 "wikilink"), [테크놀로지](https://ko.wikipedia.org/wiki/테크놀로지 "wikilink") [사업](../Page/사업.md "wikilink") 분야를 다룬다.\[1\] 현재 사장은 [짐 랜존](https://ko.wikipedia.org/wiki/짐_랜존 "wikilink")(Jim Lanzone)이다.\[2\]\[3\]
+**CBS 인터랙티브**(CBS Interactive Inc., 과거 이름: CBS 디지털 미디어 그룹, CBS Digital Media Group)는 미국의 미디어 기업이자 [바이어컴CBS](../Page/바이어컴CBS.md "wikilink")의 지사이다. 정보와 엔터테인먼트를 위한 온라인 콘텐츠 네트워크이다. 이 웹사이트는 [뉴스](../Page/뉴스.md "wikilink"), [스포츠](../Page/스포츠.md "wikilink"), [오락](https://ko.wikipedia.org/wiki/오락 "wikilink"), [테크놀로지](https://ko.wikipedia.org/wiki/테크놀로지 "wikilink") [사업](../Page/사업.md "wikilink") 분야를 다룬다.\[1\] 현재 사장은 [짐 랜존](https://ko.wikipedia.org/wiki/짐_랜존 "wikilink")(Jim Lanzone)이다.\[2\]\[3\]
 
 CBS 인터랙티브는 CBS 네트워크 세일즈와 조율하여 함께 광고 판매 사업을 하고 있으며 그 외에 텔레비전, 스포츠, 뉴스 그룹도 프로그램 개발에 계속 참여할 예정이다.
 

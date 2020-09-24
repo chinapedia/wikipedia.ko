@@ -5,7 +5,7 @@
 
 ## 배경
 
-그는 "힘든 미국 투어"라고 묘사한 것을 완성한 후 발매 당시 몇 차례 공연을 했을 뿐\[1\], 이후 (다음 해 [웸블리 아레나에서](../Page/웸블리_아레나.md "wikilink") 열린 자선 콘서트 도중) "오랫동안 투어를 하지 않았습니다. 도로로 돌아올지 말지 고통스러운 결정이었어요... 오늘 밤 결정을 내렸어요. 이번이 마지막이 될 거예요. 길 위에서 노는 것 말고도 제게는 훨씬 더 많은 것이 있어요."\[2\] 따라서 그는 짧은 기간 동안 순회 공연/라이브 공연 현장을 떠났고, [케니 패서렐리](https://ko.wikipedia.org/wiki/케니_패서렐리 "wikilink"), [칼렙 퀘이](https://ko.wikipedia.org/wiki/칼렙_퀘이 "wikilink"), [제임스 뉴턴 하워드](../Page/제임스_뉴턴_하워드.md "wikilink"), 로저 포프는 음반 발매 후 밴드를 떠났다. 뉴턴 하워드는 1980년에 잠시 존의 투어 밴드에 다시 합류할 것이고, 오직 [데이비 존스톤과](../Page/데이비_존스톤.md "wikilink") [레이 쿠퍼만이](../Page/레이_쿠퍼.md "wikilink") 존의 다음 음반인 《[A Single Man](https://ko.wikipedia.org/wiki/A_Single_Man "wikilink")》의 제한된 역할로 돌아왔다.
+그는 "힘든 미국 투어"라고 묘사한 것을 완성한 후 발매 당시 몇 차례 공연을 했을 뿐\[1\], 이후 (다음 해 [웸블리 아레나에서](../Page/웸블리_아레나.md "wikilink") 열린 자선 콘서트 도중) "오랫동안 투어를 하지 않았습니다. 도로로 돌아올지 말지 고통스러운 결정이었어요... 오늘 밤 결정을 내렸어요. 이번이 마지막이 될 거예요. 길 위에서 노는 것 말고도 제게는 훨씬 더 많은 것이 있어요."\[2\] 따라서 그는 짧은 기간 동안 순회 공연/라이브 공연 현장을 떠났고, [케니 패서렐리](https://ko.wikipedia.org/wiki/케니_패서렐리 "wikilink"), [칼렙 퀘이](https://ko.wikipedia.org/wiki/칼렙_퀘이 "wikilink"), [제임스 뉴턴 하워드](../Page/제임스_뉴턴_하워드.md "wikilink"), 로저 포프는 음반 발매 후 밴드를 떠났다. 뉴턴 하워드는 1980년에 잠시 존의 투어 밴드에 다시 합류할 것이고, 오직 [데이비 존스톤과](../Page/데이비_존스톤.md "wikilink") [레이 쿠퍼만이](../Page/레이_쿠퍼.md "wikilink") 존의 다음 음반인 《[A Single Man](../Page/A_Single_Man.md "wikilink")》의 제한된 역할로 돌아왔다.
 
 존은 《Blue Moves》가 그가 녹음한 음반들 중 그가 좋아하는 것 중 하나라고 말했다.\[3\] 이 음반은 [거스 더전이](../Page/거스_더전.md "wikilink") 거의 10년 동안 존과 함께 프로듀싱한 마지막 음반이었고, 커버 아트는 [영국](../Page/영국.md "wikilink") 화가 [패트릭 프록터가](https://ko.wikipedia.org/wiki/패트릭_프록터 "wikilink") 그린 그림으로 "가디언 독자들"이라고 불린다. [미국](../Page/미국.md "wikilink")에서는 10월에 골드, 1976년 12월에 [미국 음반 산업 협회에](../Page/미국_음반_산업_협회.md "wikilink") 의해 플래티넘 인증을 받았다.
 
@@ -21,13 +21,12 @@
 
 모든 곡들은 특별한 언급이 없는 한 [엘튼 존과](../Page/엘튼_존.md "wikilink") [버니 토핀에](../Page/버니_토핀.md "wikilink") 의해 작사/작곡하였다.
 
-음반의 초기 CD 버전은 같은 순서를 유지하지만 〈Shoulder Holster〉, 〈The Wide Eyed and Laughing〉, 〈Out of the Blue〉, 〈Where's the Shoorah?〉 등의 곡은 생략했다. 이후 원래의 LP 트랙 목록을 보관하는 2-CD 세트로 재탄생되었다가 다시 발매되었다.
+음반의 초기 CD 버전은 같은 순서를 유지하지만 〈Shoulder Holster〉, 〈The Wide Eyed and Laughing〉, 〈Out of the Blue〉, 〈Where's the Shoorah?〉 등의 곡은 생략했다. 이후 원래의 LP 트랙 목록을 보관하는 2CD 세트로 재탄생되었다가 다시 발매되었다.
 
 ## 각주
 
 ## 외부 링크
 
-  -
   -
 [분류:1976년 음반](https://ko.wikipedia.org/wiki/분류:1976년_음반 "wikilink") [분류:엘튼 존의 음반](https://ko.wikipedia.org/wiki/분류:엘튼_존의_음반 "wikilink") [분류:로켓 레코드 컴퍼니 음반](https://ko.wikipedia.org/wiki/분류:로켓_레코드_컴퍼니_음반 "wikilink") [분류:MCA 레코드 음반](https://ko.wikipedia.org/wiki/분류:MCA_레코드_음반 "wikilink")
 

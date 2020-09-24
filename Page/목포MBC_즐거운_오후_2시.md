@@ -49,7 +49,7 @@
   - [명연주 명음반](../Page/명연주_명음반.md "wikilink") ([KBS목포 음악FM](../Page/KBS목포방송국.md "wikilink"))
   - [두시의 데이트 뮤지 안영미입니다](../Page/두시의_데이트.md "wikilink") ([목포MBC FM4U](../Page/목포문화방송.md "wikilink"))
   - [두시탈출 컬투쇼](../Page/두시탈출_컬투쇼.md "wikilink") ([kbc My FM](../Page/광주방송.md "wikilink"))
-  - [그대에게 평화를 장환진입니다](https://ko.wikipedia.org/wiki/그대에게_평화를 "wikilink") 2부 ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
+  - [그대에게 평화를 장환진입니다](../Page/그대에게_평화를.md "wikilink") 2부 ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
   - [조은형의 가요세상](../Page/가요세상.md "wikilink") ([WBS 광주원음방송](../Page/광주원음방송.md "wikilink"))
   - 주병선 자용스님의 오후가 좋다 2부 ([BBS 광주불교방송](../Page/광주불교방송.md "wikilink"))
   - 박철의 방방곡곡 ([TBN 광주교통방송](../Page/광주교통방송.md "wikilink"))
@@ -58,7 +58,7 @@
 
   - [목포문화방송](../Page/목포문화방송.md "wikilink")
   - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
-  - [박준형, 정경미의 2시만세](https://ko.wikipedia.org/wiki/두시만세 "wikilink")
+  - [박준형, 정경미의 2시만세](../Page/두시만세.md "wikilink")
 
 ## 외부 링크
 

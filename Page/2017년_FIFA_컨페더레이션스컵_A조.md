@@ -1171,7 +1171,7 @@
 찰스 저스틴 모건트 (<a href="https://ko.wikipedia.org/wiki/미국_축구_협회" title="wikilink">미국</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/대기심" title="wikilink">대기심</a>:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/다미르_스코미나" title="wikilink">다미르 스코미나</a> (<a href="https://ko.wikipedia.org/wiki/슬로베니아_축구_협회" title="wikilink">슬로베니아</a>)<br />
-<strong><a href="https://ko.wikipedia.org/wiki/비디오_판독심" title="wikilink">비디오 판독심</a>:</strong><br />
+<strong><a href="../Page/비디오_판독심.md" title="wikilink">비디오 판독심</a>:</strong><br />
 <a href="https://ko.wikipedia.org/wiki/산드루_히시" title="wikilink">산드루 히시</a> (<a href="https://ko.wikipedia.org/wiki/브라질_축구_협회" title="wikilink">브라질</a>)<br />
 유레 프라프로트니크 (<a href="https://ko.wikipedia.org/wiki/슬로베니아_축구_협회" title="wikilink">슬로베니아</a>)<br />
 <strong><a href="https://ko.wikipedia.org/wiki/보조_비디오_판독심" title="wikilink">보조 비디오 판독심</a>:</strong><br />

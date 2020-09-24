@@ -144,7 +144,6 @@
       - 신효정 - CJ ENM E\&M 부문 프로듀서/前 SBS 예능본부 프로듀서/前 KBS 예능본부 프로듀서
       - 정철민 - CJ ENM E\&M 부문 프로듀서/前 SBS 예능본부 프로듀서
       - 최규식 - CJ ENM E\&M 부문 tvN 프로듀서/前 SBS 예능본부 프로듀서/前 MBC 드라마본부 프로듀서
-      - 황인영 - CJ ENM E\&M 부문 프로듀서/前 SBS 예능본부 프로듀서
 
 <!-- end list -->
 
@@ -179,6 +178,7 @@
 
 ## 스튜디오 드래곤 PD
 
+  - 김영규 - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 공동대표이사 겸 제작1,2국장 겸 제작기획1CP장/前 [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 4CP장/前 CJ ENM 1,4CP장/前 CJ ENM 제작PD/前 CJ미디어 제작PD/前 FEG코리아 기획제작PD/前 초록뱀미디어 기획제작PD
   - 이정묵 - [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서
 
 <!-- end list -->
@@ -210,7 +210,7 @@
   - 고익조 - YG엔터테인먼트 프로듀서/前 Mnet 프로듀서, 팀장
   - 김도형 - 스튜디오 디스커버리 PD/前 CJ ENM 프로듀서
   - 김무현 - 前 CJ E\&M 프로듀서
-  - [김원석](../Page/김원석_\(연출가\).md "wikilink") - [바람픽쳐스](https://ko.wikipedia.org/wiki/바람픽쳐스 "wikilink") 프로듀서/前 [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/前 CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 프로듀서
+  - [김원석](../Page/김원석_\(연출가\).md "wikilink") - [바람픽쳐스](../Page/바람픽쳐스.md "wikilink") 프로듀서/前 [스튜디오드래곤](../Page/스튜디오드래곤.md "wikilink") 프로듀서/前 CJ ENM E\&M 부문 프로듀서/前 KBS 드라마본부 프로듀서
   - 김민 - SBS 예능본부 프로듀서/前 tvN 프로듀서
   - 김정범 - MBC플러스 프로듀서/前 CJ E\&M Mnet 프로듀서
   - 김정훈 - 프리랜서 프로듀서/前 TV조선 프로듀서/前 CJ E\&M 제작PD
@@ -240,5 +240,6 @@
   - 하정석 - 스튜디오 디스커버리 PD/前 딩코푸드 총괄PD/前 CJ ENM 프로듀서
   - 한동철 - YG엔터테인먼트 프로듀서/前 Mnet 프로듀서
   - 황형준 - 前 OGN 본부장/前 온게임넷 본부장/前 중화TV 본부장/ 前 이플레이온 본부장/ 前 온게임넷 국장/ 前 투니버스 프로듀서
+  - [황인영](https://ko.wikipedia.org/wiki/황인영_\(연출가\) "wikilink") - TV CHOSUN 예능국장/前 CJ ENM E\&M 부문 프로듀서/前 SBS 예능본부 프로듀서
 
 [분류:CJ ENM](https://ko.wikipedia.org/wiki/분류:CJ_ENM "wikilink")

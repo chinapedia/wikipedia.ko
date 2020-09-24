@@ -9,6 +9,8 @@
 
 당초는 대만 지역 위성 방송사인 [중톈 텔레비전이](../Page/중톈_텔레비전.md "wikilink") 종사할 예정\[3\]이었는데, 수용 태세 미비로 일단 무산하고 실제에 움직이기 시작할 때까지 발표에서 4년 이상의 세월을 필요로 하게 됐다.
 
+캡틴:**첸스야**
+
 ### TPE48
 
 #### 결성 발표의 좌절
@@ -633,7 +635,7 @@ AKB48 Team TP 총캡틴<br />
   - [SKE48](../Page/SKE48.md "wikilink")
   - [NMB48](../Page/NMB48.md "wikilink")
   - [HKT48](../Page/HKT48.md "wikilink")
-  - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
+  - [NGT48](../Page/NGT48.md "wikilink")
   - [STU48](../Page/STU48.md "wikilink")
 
 <!-- end list -->

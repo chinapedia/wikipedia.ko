@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-1.  "John & Yoko" – 22:4
+1.  "John & Yoko" – 22:44
 
 <!-- end list -->
 

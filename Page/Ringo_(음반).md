@@ -5,7 +5,7 @@
 
 ## 배경
 
-스타는 1970년에 솔로 음반 《[Sentimental Journey](../Page/Sentimental_Journey_\(음반\).md "wikilink")》와 《[Beaucoups of Blues](https://ko.wikipedia.org/wiki/Beaucoups_of_Blues "wikilink")》를 발표했다. 그는 1971\~72년에 걸쳐 그의 전 [비틀즈](../Page/비틀즈.md "wikilink") 동료 [조지 해리슨이](../Page/조지_해리슨.md "wikilink") 프로듀싱을 하고 공동 작곡한\[1\] 싱글 〈[It Don't Come Easy](https://ko.wikipedia.org/wiki/It_Don't_Come_Easy "wikilink")〉와 〈[Back Off Boogaloo](https://ko.wikipedia.org/wiki/Back_Off_Boogaloo "wikilink")〉를 발표했다.\[2\] 이 두 싱글 모두 큰 성공을 거두었고, 보통은 그들을 지지하기 위해 음반에 영감을 주었을 것이지만, 스타는 이 기간 동안 연기에 집중하는 것을 선호하면서 끝까지 따라가지 않았다.\[3\] 1973년 초, 스타는 그의 첫 번째 록 솔로 음반을 시작할 때가 적절하다고 결정했다. 그는 이미 [리처드 페리를](https://ko.wikipedia.org/wiki/리처드_페리 "wikilink") 이용해 《Sentimental Journey》의 트랙 중 하나를 편곡한 바 있어 세션 프로듀싱을 부탁했다.\[4\]
+스타는 1970년에 솔로 음반 《[Sentimental Journey](../Page/Sentimental_Journey_\(음반\).md "wikilink")》와 《[Beaucoups of Blues](../Page/Beaucoups_of_Blues.md "wikilink")》를 발표했다. 그는 1971\~72년에 걸쳐 그의 전 [비틀즈](../Page/비틀즈.md "wikilink") 동료 [조지 해리슨이](../Page/조지_해리슨.md "wikilink") 프로듀싱을 하고 공동 작곡한\[1\] 싱글 〈[It Don't Come Easy](https://ko.wikipedia.org/wiki/It_Don't_Come_Easy "wikilink")〉와 〈[Back Off Boogaloo](https://ko.wikipedia.org/wiki/Back_Off_Boogaloo "wikilink")〉를 발표했다.\[2\] 이 두 싱글 모두 큰 성공을 거두었고, 보통은 그들을 지지하기 위해 음반에 영감을 주었을 것이지만, 스타는 이 기간 동안 연기에 집중하는 것을 선호하면서 끝까지 따라가지 않았다.\[3\] 1973년 초, 스타는 그의 첫 번째 록 솔로 음반을 시작할 때가 적절하다고 결정했다. 그는 이미 [리처드 페리를](https://ko.wikipedia.org/wiki/리처드_페리 "wikilink") 이용해 《Sentimental Journey》의 트랙 중 하나를 편곡한 바 있어 세션 프로듀싱을 부탁했다.\[4\]
 
 ## 곡 목록
 

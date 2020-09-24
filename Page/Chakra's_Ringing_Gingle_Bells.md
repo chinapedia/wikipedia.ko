@@ -7,7 +7,7 @@
 
   - 《*[Chakra](../Page/Chakra_\(음반\).md "wikilink")*》에 이어 9개월 만에 발매하는 음반으로, 첫 스페셜 음반이다.
   - 타이틀 곡 〈Lonely Christmas〉는 크리스마스의 분위기를 담아낸 사랑 노래로\[2\], [알앤비](https://ko.wikipedia.org/wiki/알앤비 "wikilink") 장르의 곡이다.\[3\]
-  - 기존의 [크리스마스 캐럴이](https://ko.wikipedia.org/wiki/크리스마스_캐럴 "wikilink") 다양한 장르로 편곡되어 수록되었으며, 그 밖에 신곡도 네 곡 있다.\[4\]
+  - 기존의 [크리스마스 캐럴이](../Page/크리스마스_캐럴.md "wikilink") 다양한 장르로 편곡되어 수록되었으며, 그 밖에 신곡도 네 곡 있다.\[4\]
 
 ## 수록곡
 

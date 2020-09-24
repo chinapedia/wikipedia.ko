@@ -39,25 +39,31 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
 2018년 11월 2일 창단된 Gen.G e스포츠 산하 서울 다이너스티의 아카데미 팀으로 11월 8일 오버워치 컨텐더스 코리아 시즌 3 조 지명식 공지를 통해 젠지 산하 타 게임 팀들과 같이 Gen.G e스포츠 브랜드를 사용하게 된다.
 
   - 감독 : 이시우
+  - 코치 : 김재동
   - 스카우터 : 박시훈
   - 선수
 
-| 이름  | 아이디     | 포지션     |
-| --- | ------- | ------- |
-| 임길성 | Gilster | DPS     |
-| 정학용 | Stalk3r | DPS     |
-| 최석우 | Wekeed  | DPS     |
-| 함은상 | Oberon  | TANK    |
-| 성승현 | WooHyaL | TANK    |
-| 김소명 | Bliss   | SUPPORT |
-| 김세용 | DNCE    | SUPPORT |
-|     |         |         |
+| 이름  | 아이디       | 포지션     |
+| --- | --------- | ------- |
+| 황준선 | Haeim     | DPS     |
+| 이지한 | Ezhan     | DPS     |
+| 정학용 | Stalk3r   | DPS     |
+| 정승용 | Topdragon | DPS     |
+| 김창희 | ITSAL     | TANK    |
+| 함정완 | someone   | TANK    |
+| 임현우 | ToYou     | TANK    |
+| 원수민 | Wonsoomin | TANK    |
+| 김소명 | Bliss     | SUPPORT |
+| 손의성 | Quasid    | SUPPORT |
+| 김현일 | Papadog   | SUPPORT |
 
 #### 주요 성적
 
   - 2018년 오버워치 컨텐더스 코리아 시즌 3 10위
   - 2019년 오버워치 컨텐더스 코리아 시즌 1 4강
   - 2019년 오버워치 컨텐더스 코리아 시즌 2 4강
+  - 2019년 오버워치 컨텐더스 건틀릿 4위
+  - 2020년 오버워치 컨텐더스 코리아 시즌 1 6강 조별리그
 
 ### 히어로즈 오브 더 스톰
 
@@ -169,6 +175,7 @@ Gen.G e스포츠 팀 산하의 [서울특별시](../Page/서울특별시.md "wik
   - [2019년 8월](https://ko.wikipedia.org/wiki/2019년_8월 "wikilink") 우리은행 리그 오브 레전드 챔피언스 코리아 서머 2019 6위
   - [2020년 4월](https://ko.wikipedia.org/wiki/2020년_4월 "wikilink") 우리은행 리그 오브 레전드 챔피언스 코리아 스프링 2020 준우승
   - [2020년 5월](https://ko.wikipedia.org/wiki/2020년_5월 "wikilink") 2020 미드 시즌 컵 4강
+  - [2020년 8월](https://ko.wikipedia.org/wiki/2020년_8월 "wikilink") 우리은행 리그 오브 레전드 챔피언스 코리아 서머 2020 3위
 
 ### 배틀그라운드
 

@@ -137,7 +137,7 @@
   - 2018년 8월 3일 브로맨스 - **\[Digital Single\] 원초적 본능**
   - 2018년 8월 17일 베이식 - **\[Digital Single\] Starter (Remix)**
   - 2018년 8월 24일 오브로젝트 - **HALF**
-  - 2018년 9월 27일 [원위](https://ko.wikipedia.org/wiki/원위 "wikilink"),[원어스](https://ko.wikipedia.org/wiki/원어스 "wikilink") - **\[Digital Single\] 데뷔하겠습니다**
+  - 2018년 9월 27일 [원위](https://ko.wikipedia.org/wiki/원위 "wikilink"),[원어스](../Page/원어스.md "wikilink") - **\[Digital Single\] 데뷔하겠습니다**
   - 2018년 10월 3일 마마무 - **\[Digital Single\] 데칼코마니**
   - 2018년 10월 5일 B.O - **\[Digital Single\] Close Your Eyes**
   - 2018년 10월 13일 코스믹 걸 - **\[Digital Single\] LIE YA**
@@ -241,6 +241,7 @@
   - 2020년 8월 12일 원위 - **우리, 사랑했을까 OST Part.6**
   - 2020년 8월 19일 원어스 - **LIVED**
   - 2020년 8월 29일 오연 - **\[Digital Single\] 자판기**
+  - 2020년 9월 10일 마마무 - **\[Digital Single\] WANNA BE MYSELF**
   - 2020년 ?월 ?일 [퍼플키스](https://ko.wikipedia.org/wiki/퍼플키스 "wikilink") - **미정**
 
 ## 각주
@@ -290,7 +291,7 @@
 41. [AOA](../Page/AOA_\(음악_그룹\).md "wikilink"),[2NE1](../Page/2NE1.md "wikilink")의 전 멤버 [박봄](../Page/박봄.md "wikilink")도 앨범 참여.
 42. [Woogie](https://ko.wikipedia.org/wiki/Woogie "wikilink")도 앨범 참여.
 43. [(여자)아이들](../Page/\(여자\)아이들.md "wikilink")도 앨범 참여.
-44. [퀸덤](https://ko.wikipedia.org/wiki/퀸덤 "wikilink") 파이널 경연 곡
+44. [퀸덤](../Page/퀸덤.md "wikilink") 파이널 경연 곡
 45. [케이시도](../Page/케이시_\(가수\).md "wikilink") 앨범 참여.
 46. 문별 미니 1집의 선공개곡.
 47. [로드 투 킹덤](https://ko.wikipedia.org/wiki/로드_투_킹덤 "wikilink") 파이널 경연 곡

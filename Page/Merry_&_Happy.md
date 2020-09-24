@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Merry \& Happy](https://ko.wikipedia.org/wiki/Merry_\&_Happy).
 
 
-《**Merry & Happy**》는 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 정규 1집 《[Twicetagram](../Page/Twicetagram.md "wikilink")》의 리패키지 음반이다. 타이틀곡은 〈Heart Shaker〉이며, 2017년 12월 11일 6시에 음원과 뮤직비디오가 동시 공개되었다.
+《**Merry & Happy**》는 [트와이스](../Page/트와이스.md "wikilink")의 정규 1집 《[Twicetagram](../Page/Twicetagram.md "wikilink")》의 리패키지 음반이다. 타이틀곡은 〈Heart Shaker〉이며, 2017년 12월 11일 6시에 음원과 뮤직비디오가 동시 공개되었다.
 
 ## 개요
 

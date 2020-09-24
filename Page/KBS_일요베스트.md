@@ -567,7 +567,7 @@
   - [1998년](../Page/1998년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink") : [1998 프랑스 월드컵](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 〈일본 VS 아르헨티나〉 중계 방송으로 인해 결방
   - [1999년](../Page/1999년.md "wikilink") [5월 30일](../Page/5월_30일.md "wikilink") : [TV 문학관](../Page/KBS_TV_문학관.md "wikilink") 〈새〉 재방송 편성
   - [1999년](../Page/1999년.md "wikilink") [6월 27일](../Page/6월_27일.md "wikilink") : TV 문학관 〈폭군〉 재방송 편성
-  - [1998년](../Page/1998년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") : 추석 특선영화 《[고스트 맘마](https://ko.wikipedia.org/wiki/고스트_맘마 "wikilink")》의 9시 편성으로 인해 순연되며 결방
+  - [1998년](../Page/1998년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") : 추석 특선영화 《[고스트 맘마](../Page/고스트_맘마.md "wikilink")》의 9시 편성으로 인해 순연되며 결방
   - [1999년](../Page/1999년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink") : 추석 특선영화 《[데이라이트](../Page/데이라잇_\(1996년_영화\).md "wikilink")》 방송으로 인해 결방
   - [1999년](../Page/1999년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") : TV 문학관 〈[그가 걸음을 멈추었을 때](https://ko.wikipedia.org/wiki/그가_걸음을_멈추었을_때 "wikilink")〉 재방송 편성
   - [1999년](../Page/1999년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") : 세기말 특선영화 《[Y2K](https://ko.wikipedia.org/wiki/Y2K "wikilink")》와 세기말 [특집 드라마](../Page/한국방송공사_2TV_특집드라마.md "wikilink") 《[슬픈 유혹](../Page/슬픈_유혹.md "wikilink")》의 연속 방송으로 인해 결방

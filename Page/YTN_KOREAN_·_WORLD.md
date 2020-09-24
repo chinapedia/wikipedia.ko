@@ -5,11 +5,11 @@
 
 ## 연혁
 
-  - [2001년](../Page/2001년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") - 재외동포 전문 해외방송 시작
-  - [2004년](../Page/2004년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") - 재외동포 전문채널 ‘YTN 인터내셔널’ 출범
-  - [2011년](../Page/2011년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") - YTN WORLD로 채널명 변경
-  - [2016년](../Page/2016년.md "wikilink") [8월](../Page/8월.md "wikilink") - 리우 올림픽 선수촌에 한국어 채널로 송출
-  - [2017년](../Page/2017년.md "wikilink") [5월](../Page/5월.md "wikilink") - YTN KOREAN 시험방송 시작
+  - 2001년 4월 1일 - 재외동포 전문 해외방송 시작
+  - 2004년 3월 18일 - 재외동포 전문채널 ‘YTN 인터내셔널’ 출범
+  - 2011년 4월 1일 - YTN WORLD로 채널명 변경
+  - 2016년 8월 - 리우 올림픽 선수촌에 한국어 채널로 송출
+  - 2017년 5월 - YTN KOREAN 시험방송 시작
 
 ## 외부 링크
 

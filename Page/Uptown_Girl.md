@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Uptown Girl](https://ko.wikipedia.org/wiki/Uptown_Girl).
 
 
-〈**Uptown Girl**〉은 [미국](../Page/미국.md "wikilink")의 음악가 [빌리 조엘이](../Page/빌리_조엘.md "wikilink") 작곡하고 부른 노래이다. 이 노래는 1983년 9월 29일 발매된 빌리 조엘의 9집 음반 《[An Innocent Man](../Page/An_Innocent_Man.md "wikilink")》에 수록되었다. 이 노래의 가사는 [상류층](https://ko.wikipedia.org/wiki/상류층 "wikilink") "업타운 걸"을 달래려고 하는 [노동계급](../Page/노동계급.md "wikilink")의 "다운타운 맨"을 묘사하고 있다.
+〈**Uptown Girl**〉은 [미국](../Page/미국.md "wikilink")의 음악가 [빌리 조엘이](../Page/빌리_조엘.md "wikilink") 작곡하고 부른 노래이다. 이 노래는 1983년 9월 29일 발매된 빌리 조엘의 9집 음반 《[An Innocent Man](../Page/An_Innocent_Man.md "wikilink")》에 수록되었다. 이 노래의 가사는 [상류층](../Page/상류층.md "wikilink") "업타운 걸"을 달래려고 하는 [노동계급](../Page/노동계급.md "wikilink")의 "다운타운 맨"을 묘사하고 있다.
 
 12인치 EP에는 〈[My Life](https://ko.wikipedia.org/wiki/My_Life_\(빌리_조엘의_노래\) "wikilink")〉, 〈[Just the Way You Are](../Page/Just_the_Way_You_Are_\(빌리_조엘의_노래\).md "wikilink")〉, 〈[It's Still Rock and Roll to Me](https://ko.wikipedia.org/wiki/It's_Still_Rock_and_Roll_to_Me "wikilink")〉 (카탈로그 번호 TA3775)가 [B-사이드로](https://ko.wikipedia.org/wiki/A-사이드와_B-사이드 "wikilink") 수록된 반면,\[1\] 7인치 싱글은 〈Careless Talk〉가 B 사이드로 수록되었다.\[2\]
 

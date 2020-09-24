@@ -39,6 +39,7 @@
   - [코드쿤스트](https://ko.wikipedia.org/wiki/코드쿤스트 "wikilink") (Code Kunst)
   - [펀치넬로](../Page/펀치넬로.md "wikilink") (Punchnello)
   - [후디](../Page/후디_\(가수\).md "wikilink") (Hoody)
+  - 구스범스 (Goosbumps)
 
 ### 오프더레코드 엔터테인먼트
 

@@ -44,6 +44,8 @@
 
   - 《[알리바이를 깨드립니다](https://ko.wikipedia.org/wiki/알리바이를_깨드립니다 "wikilink")》
   - 《[M 사랑해야 할 사람이 있어서](https://ko.wikipedia.org/wiki/M_사랑해야_할_사람이_있어서 "wikilink")》
+  - 《[요괴 쉐어하우스](https://ko.wikipedia.org/wiki/요괴_쉐어하우스 "wikilink")》
+  - 《[선생을 없애는 방정식](https://ko.wikipedia.org/wiki/선생을_없애는_방정식 "wikilink")》
 
 ## 편성 정보
 

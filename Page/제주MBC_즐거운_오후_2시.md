@@ -50,7 +50,7 @@
 
   - [제주문화방송](../Page/제주문화방송.md "wikilink")
   - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
-  - [박준형, 정경미의 2시만세](https://ko.wikipedia.org/wiki/두시만세 "wikilink")
+  - [박준형, 정경미의 2시만세](../Page/두시만세.md "wikilink")
 
 ## 외부 링크
 

@@ -7,11 +7,49 @@
 
 ## 대진표
 
-### 승자조
+### 승자조,패자조
 
-### 패자조
-
-### 결승전
+| 승자조                                                                 | 최종 결승전                                                           |
+| ------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 승자 1회전                                                              | 승자 2회전                                                           |
+| 김영환 五단                                                              | 김영환 五단                                                           |
+| 염정훈 初단                                                              |                                                                  |
+| [정수현](../Page/정수현.md "wikilink") 九단                                 |                                                                  |
+| [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                       | [오규철](https://ko.wikipedia.org/wiki/오규철 "wikilink") 七단           |
+| [오규철](https://ko.wikipedia.org/wiki/오규철 "wikilink") 七단              |                                                                  |
+| [김승준](https://ko.wikipedia.org/wiki/김승준_\(바둑_기사\) "wikilink") 六단    | [김승준](https://ko.wikipedia.org/wiki/김승준_\(바둑_기사\) "wikilink") 六단 |
+| (故)[임창식](https://ko.wikipedia.org/wiki/임창식_\(바둑_기사\) "wikilink") 六단 |                                                                  |
+| [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 七단              |                                                                  |
+| [이창호](../Page/이창호.md "wikilink") 九단                                 | [이창호](../Page/이창호.md "wikilink") 九단                              |
+| [강지성](https://ko.wikipedia.org/wiki/강지성 "wikilink") 二단              |                                                                  |
+| [유창혁](../Page/유창혁.md "wikilink") 九단                                 | [조한승](../Page/조한승.md "wikilink") 三단                              |
+| [조한승](../Page/조한승.md "wikilink") 三단                                 |                                                                  |
+| [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink") 九단    |                                                                  |
+| [양재호](https://ko.wikipedia.org/wiki/양재호 "wikilink") 九단              | [양재호](https://ko.wikipedia.org/wiki/양재호 "wikilink") 九단           |
+| [이현욱](https://ko.wikipedia.org/wiki/이현욱_\(바둑_기사\) "wikilink") 二단    |                                                                  |
+| [최명훈](../Page/최명훈.md "wikilink") 六단                                 | [최명훈](../Page/최명훈.md "wikilink") 六단                              |
+| [이세돌](../Page/이세돌.md "wikilink") 二단                                 |                                                                  |
+| [조훈현](../Page/조훈현.md "wikilink") 九단                                 |                                                                  |
+| (故)[하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 八단           | (故)[하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 八단        |
+| [권갑용](../Page/권갑용.md "wikilink") 六단                                 |                                                                  |
+| 패자조                                                                 |                                                                  |
+| 패자 1회전                                                              | 패자 2회전                                                           |
+| [김영환](https://ko.wikipedia.org/wiki/김영환_\(바둑_기사\) "wikilink") 四단    | [김영환](https://ko.wikipedia.org/wiki/김영환_\(바둑_기사\) "wikilink") 四단 |
+| [권갑용](../Page/권갑용.md "wikilink") 六단                                 |                                                                  |
+| [김승준](https://ko.wikipedia.org/wiki/김승준_\(바둑_기사\) "wikilink") 六단    |                                                                  |
+| [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                       | [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                    |
+| [조훈현](../Page/조훈현.md "wikilink") 九단                                 |                                                                  |
+| [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink") 九단    |                                                                  |
+| [정수현](../Page/정수현.md "wikilink") 九단                                 |                                                                  |
+| [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 七단              | [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 七단           |
+| [이현욱](https://ko.wikipedia.org/wiki/이현욱_\(바둑_기사\) "wikilink") 二단    |                                                                  |
+| [하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 八단              |                                                                  |
+| [강지성](https://ko.wikipedia.org/wiki/강지성 "wikilink") 二단              | [조한승](../Page/조한승.md "wikilink") 三단                              |
+| [조한승](../Page/조한승.md "wikilink") 三단                                 |                                                                  |
+| [오규철](https://ko.wikipedia.org/wiki/오규철 "wikilink") 七단              |                                                                  |
+| [최명훈](../Page/최명훈.md "wikilink") 六단                                 |                                                                  |
+| [정수현](../Page/정수현.md "wikilink") 九단                                 |                                                                  |
+|                                                                     |                                                                  |
 
 ## 대국 결과
 
@@ -36,7 +74,7 @@
 <td><p>2차예선 결승</p></td>
 <td><p>1998년</p></td>
 <td><p>5월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/조한승" title="wikilink">조한승</a> 二단</p></td>
+<td><p><a href="../Page/조한승.md" title="wikilink">조한승</a> 二단</p></td>
 <td><p><a href="../Page/장수영.md" title="wikilink">장수영</a> 九단</p></td>
 <td></td>
 <td></td>
@@ -177,17 +215,17 @@
 | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------ | --------------- | -- |
 | 승자 1회전                                                           | 1998년                                                            | 5월 22일                                                           | [김영환](https://ko.wikipedia.org/wiki/김영환_\(바둑_기사\) "wikilink") 四단 | [염정훈](https://ko.wikipedia.org/wiki/염정훈 "wikilink") 初단 | 183수 흑 불계승      |    |
 | 5월 28일                                                           | [김승준](https://ko.wikipedia.org/wiki/김승준_\(바둑_기사\) "wikilink") 六단 | [임창식](https://ko.wikipedia.org/wiki/임창식_\(바둑_기사\) "wikilink") 六단 | 169수 흑 불계승                                                       |                                                        |                 |    |
-| 6월 9일                                                            | [조한승](https://ko.wikipedia.org/wiki/조한승 "wikilink") 三단           | [유창혁](../Page/유창혁.md "wikilink") 九단                              | 160수 백 불계승                                                       |                                                        |                 |    |
+| 6월 9일                                                            | [조한승](../Page/조한승.md "wikilink") 三단                              | [유창혁](../Page/유창혁.md "wikilink") 九단                              | 160수 백 불계승                                                       |                                                        |                 |    |
 | [최명훈](../Page/최명훈.md "wikilink") 九단                              | [이세돌](../Page/이세돌.md "wikilink") 二단                              | **287수 백 4집반승**                                                  |                                                                  |                                                        |                 |    |
 | 승자 2회전                                                           | 6월 16일                                                           | [이창호](../Page/이창호.md "wikilink") 九단                              | [강지성](https://ko.wikipedia.org/wiki/강지성 "wikilink") 二단           | 180수 백 불계승                                             |                 |    |
 | [하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 八단           | [권갑용](../Page/권갑용.md "wikilink") 六단                              | 288수 백 1집반승                                                      |                                                                  |                                                        |                 |    |
 | 6월 23일                                                           | [양재호](https://ko.wikipedia.org/wiki/양재호 "wikilink") 九단           | [이현욱](https://ko.wikipedia.org/wiki/이현욱_\(바둑_기사\) "wikilink") 二단 | 182수 백 불계승                                                       |                                                        |                 |    |
 | [오규철](https://ko.wikipedia.org/wiki/오규철 "wikilink") 七단           | [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                    | 175수 흑 불계승                                                       |                                                                  |                                                        |                 |    |
 | 7월 7일                                                            | [정수현](../Page/정수현.md "wikilink") 九단                              | [김영환](https://ko.wikipedia.org/wiki/김영환_\(바둑_기사\) "wikilink") 四단 | 244수 흑 7집반승                                                      |                                                        |                 |    |
-| [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink") 九단 | [조한승](https://ko.wikipedia.org/wiki/조한승 "wikilink") 二단           | 254수 흑 10집반승                                                     |                                                                  |                                                        |                 |    |
+| [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink") 九단 | [조한승](../Page/조한승.md "wikilink") 二단                              | 254수 흑 10집반승                                                     |                                                                  |                                                        |                 |    |
 | 7월 14일                                                           | [최명훈](../Page/최명훈.md "wikilink") 六단                              | [조훈현](../Page/조훈현.md "wikilink") 九단                              | 230수 백 불계승                                                       |                                                        |                 |    |
 | [김승준](https://ko.wikipedia.org/wiki/김승준_\(바둑_기사\) "wikilink") 六단 | [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 七단           | 252수 백 불계승                                                       |                                                                  |                                                        |                 |    |
-| 패자 1회전                                                           | 7월 28일                                                           | [조한승](https://ko.wikipedia.org/wiki/조한승 "wikilink") 二단           | [강지성](https://ko.wikipedia.org/wiki/강지성 "wikilink") 二단           | 148수 백 불계승                                             |                 |    |
+| 패자 1회전                                                           | 7월 28일                                                           | [조한승](../Page/조한승.md "wikilink") 二단                              | [강지성](https://ko.wikipedia.org/wiki/강지성 "wikilink") 二단           | 148수 백 불계승                                             |                 |    |
 | 9월 15일                                                           | [김영환](https://ko.wikipedia.org/wiki/김영환_\(바둑_기사\) "wikilink") 四단 | [권갑용](../Page/권갑용.md "wikilink") 六단                              | 310수 백 15집반승                                                     |                                                        |                 |    |
 | [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 七단           | [이현욱](https://ko.wikipedia.org/wiki/이현욱_\(바둑_기사\) "wikilink") 二단 | 208수 백 불계승                                                       |                                                                  |                                                        |                 |    |
 | 9월 29일                                                           | [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                    | [조훈현](../Page/조훈현.md "wikilink") 九단                              | 232수 흑 3집반승                                                      |                                                        |                 |    |
@@ -196,7 +234,7 @@
 | 10월 20일                                                          | [이창호](https://ko.wikipedia.org/wiki/이창호_\(바둑_기사\) "wikilink") 九단 | [김승준](https://ko.wikipedia.org/wiki/김승준_\(바둑_기사\) "wikilink") 七단 | 180수 백 불계승                                                       |                                                        |                 |    |
 | [최명훈](../Page/최명훈.md "wikilink") 六단                              | [하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 八단           | 252수 흑 5집반승                                                      |                                                                  |                                                        |                 |    |
 | 패자 2회전                                                           | 10월 27일                                                          | [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                    | [김희중](https://ko.wikipedia.org/wiki/김희중_\(바둑_기사\) "wikilink") 七단 | 209수 흑 불계승                                             |                 |    |
-| [오규철](https://ko.wikipedia.org/wiki/오규철 "wikilink") 七단           | [조한승](https://ko.wikipedia.org/wiki/조한승 "wikilink") 三단           | 277수 흑 2집반승                                                      |                                                                  |                                                        |                 |    |
+| [오규철](https://ko.wikipedia.org/wiki/오규철 "wikilink") 七단           | [조한승](../Page/조한승.md "wikilink") 三단                              | 277수 흑 2집반승                                                      |                                                                  |                                                        |                 |    |
 | 11월 10일                                                          | [김영환](https://ko.wikipedia.org/wiki/김영환_\(바둑_기사\) "wikilink") 五단 | [김승준](https://ko.wikipedia.org/wiki/김승준_\(바둑_기사\) "wikilink") 七단 | 209수 흑 불계승                                                       |                                                        |                 |    |
 | [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 七단           | [하찬석](https://ko.wikipedia.org/wiki/하찬석 "wikilink") 八단           | 191수 흑 불계승                                                       |                                                                  |                                                        |                 |    |
 | 패자 3회전                                                           | 12월 8일                                                           | [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                    | [김영환](https://ko.wikipedia.org/wiki/김영환_\(바둑_기사\) "wikilink") 五단 | 200수 백 불계승                                             |                 |    |

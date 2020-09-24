@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [SBS 금토 드라마](https://ko.wikipedia.org/wiki/SBS_금토_드라마).
 
 
-**SBS 금토 드라마**는 [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 매주 [금요일](../Page/금요일.md "wikilink")부터 [토요일](../Page/토요일.md "wikilink")에 오후 10시 00분에 방송되는 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+**SBS 금토 드라마**는 [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 매주 [금요일](../Page/금요일.md "wikilink")부터 [토요일](../Page/토요일.md "wikilink")에 오후 10시에 방송되는 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
-이후 [2019년](../Page/2019년.md "wikilink") [2월 15일부터](../Page/2월_15일.md "wikilink") 첫 작품인 《[열혈사제](../Page/열혈사제.md "wikilink")》의 당초 [SBS 월화 드라마에](https://ko.wikipedia.org/wiki/SBS_월화_드라마 "wikilink") 편성 될 예정이었나 금토 드라마를 신설하였다.\[1\] SBS가 토요일 4회 연속 편성된 《[운명과 분노](../Page/운명과_분노_\(2018년_드라마\).md "wikilink")》의 \[2\] 마지막으로 [SBS 주말 특별 기획 드라마가](https://ko.wikipedia.org/wiki/SBS_주말_특별_기획_드라마 "wikilink") 폐지 되었다.
+이후 [2019년](../Page/2019년.md "wikilink") [2월 15일부터](../Page/2월_15일.md "wikilink") 첫 작품인 《[열혈사제](../Page/열혈사제.md "wikilink")》의 당초 [SBS 월화 드라마에](../Page/SBS_월화_드라마.md "wikilink") 편성 될 예정이었나 금토 드라마를 신설하였다.\[1\] SBS가 토요일 4회 연속 편성된 《[운명과 분노](../Page/운명과_분노_\(2018년_드라마\).md "wikilink")》의 \[2\] 마지막으로 [SBS 주말 특별 기획 드라마가](../Page/SBS_주말_특별_기획_드라마.md "wikilink") 폐지 되었다.
 
 ## 방송 시간
 
@@ -76,12 +76,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2020년 10월 30일 ~ <strong>예정</strong></p></td>
-<td><p>매주 금, 토 밤 10시 20분 ~ 11시 20분</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2020년 4월 17일 ~ 2020년 6월 12일</p></td>
 <td><p>매주 금, 토 밤 10시 ~ 11시 20분</p></td>
 <td><p>1시간 20분<br />
@@ -106,25 +100,28 @@
   - 《[녹두꽃](../Page/녹두꽃_\(드라마\).md "wikilink")》 : 2019년 4월 26일 \~ 2019년 7월 13일
   - 《[의사요한](../Page/의사요한.md "wikilink")》 : 2019년 7월 19일 \~ 2019년 9월 7일
   - 《[배가본드](../Page/배가본드_\(드라마\).md "wikilink")》 : 2019년 9월 20일 \~ 2019년 11월 23일
-  - 《[스토브리그](https://ko.wikipedia.org/wiki/스토브리그_\(드라마\) "wikilink")》 : 2019년 12월 13일 \~ 2020년 2월 14일
+  - 《[스토브리그](../Page/스토브리그_\(드라마\).md "wikilink")》 : 2019년 12월 13일 \~ 2020년 2월 14일
 
 ### 2020년대
 
 #### 2020년
 
-  - 《[하이에나](https://ko.wikipedia.org/wiki/하이에나_\(2020년_드라마\) "wikilink")》 : 2020년 2월 21일 \~ 2020년 4월 11일
-  - 《[더 킹 : 영원의 군주](https://ko.wikipedia.org/wiki/더_킹_:_영원의_군주 "wikilink")》 : 2020년 4월 17일 \~ 2020년 6월 12일
+  - 《[하이에나](../Page/하이에나_\(2020년_드라마\).md "wikilink")》 : 2020년 2월 21일 \~ 2020년 4월 11일
+  - 《[더 킹 : 영원의 군주](../Page/더_킹_:_영원의_군주.md "wikilink")》 : 2020년 4월 17일 \~ 2020년 6월 12일
   - 《[편의점 샛별이](https://ko.wikipedia.org/wiki/편의점_샛별이_\(드라마\) "wikilink")》 : 2020년 6월 19일 \~ 2020년 8월 8일
-  - 《[앨리스](https://ko.wikipedia.org/wiki/앨리스_\(드라마\) "wikilink")》 : 2020년 8월 28일 \~ **현재**
+  - 《[앨리스](../Page/앨리스_\(드라마\).md "wikilink")》 : 2020년 8월 28일 \~ 2020년 10월 24일
+  - 《[날아라 개천용](../Page/날아라_개천용.md "wikilink")》 : 2020년 10월 30일 \~ **방영 예정**
 
 #### 2021년
 
-  - 《[날아라 개천용](https://ko.wikipedia.org/wiki/날아라_개천용 "wikilink")》: 2021년 \~
+#### 2022년
+
+#### 2023년
 
 ## 같이 보기
 
-  - [KBS 2TV 금토 드라마](https://ko.wikipedia.org/wiki/KBS_2TV_금토_드라마 "wikilink")
-  - [JTBC 금토 드라마](https://ko.wikipedia.org/wiki/JTBC_금토_드라마 "wikilink")
+  - [KBS 2TV 금토 드라마](../Page/KBS_2TV_금토_드라마.md "wikilink")
+  - [JTBC 금토 드라마](../Page/JTBC_금토_드라마.md "wikilink")
   - [채널 A 금토 드라마](https://ko.wikipedia.org/wiki/채널_A_금토_드라마 "wikilink")
   - [tvN 금토 드라마](https://ko.wikipedia.org/wiki/tvN_금토_드라마 "wikilink")
 

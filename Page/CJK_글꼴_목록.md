@@ -239,7 +239,7 @@
 ## 같이 보기
 
   - [캘리그래피](../Page/캘리그래피.md "wikilink")
-  - [일본어 입력기](https://ko.wikipedia.org/wiki/일본어_입력기 "wikilink")
+  - [일본어 입력기](../Page/일본어_입력기.md "wikilink")
   - [한국어와 컴퓨터](https://ko.wikipedia.org/wiki/한국어와_컴퓨터 "wikilink")
   - [자판 배열](../Page/자판_배열.md "wikilink")
 

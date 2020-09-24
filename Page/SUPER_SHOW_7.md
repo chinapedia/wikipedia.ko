@@ -5,7 +5,7 @@
 
 ## 개요
 
-2017년 11월 10일, [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")의 슈퍼주니어 전담 레이블인 Label SJ는 공식 인스타그램을 통해 〈SUPER SHOW 7〉의 일정을 공개하였으며 예매는 21일 [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다. 2년 5개월여만에 개최된 투어임에도 9분만에 전석 매진을 기록함으로서 15일의 공연 일정이 추가되었다.\[2\]
+2017년 11월 10일, [SM 엔터테인먼트의](../Page/SM_엔터테인먼트.md "wikilink") 슈퍼주니어 전담 레이블인 Label SJ는 공식 인스타그램을 통해 〈SUPER SHOW 7〉의 일정을 공개하였으며 예매는 21일 [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다. 2년 5개월여만에 개최된 투어임에도 9분만에 전석 매진을 기록함으로서 15일의 공연 일정이 추가되었다.\[2\]
 
 ## SUPER SHOW 7S
 
@@ -265,10 +265,29 @@
 </tbody>
 </table>
 
+## 수상 경력
+
+<table>
+<thead>
+<tr class="header">
+<th><p>연도</p></th>
+<th><p>수상 내역</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019년</p></td>
+<td><ul>
+<li>2018 《프레미오 루세스》 올해의 베스트 콘서트상</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
 ## 제작
 
   - [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") ([이특](../Page/이특.md "wikilink"), [희철](../Page/김희철_\(가수\).md "wikilink"), [예성](../Page/예성.md "wikilink"), [신동](../Page/신동_\(가수\).md "wikilink"), [은혁](../Page/은혁.md "wikilink"), [시원](../Page/시원_\(가수\).md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink"), [려욱](../Page/려욱.md "wikilink")\[16\])
-  - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink"), Label SJ
+  - 주최 : [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink"), Label SJ
   - 주관 : 드림메이커
   - 후원
       - 서울 : [YES24](../Page/YES24.md "wikilink")

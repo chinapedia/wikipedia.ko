@@ -176,7 +176,7 @@ Elmwood Avenue</p></td>
 <a href="https://ko.wikipedia.org/wiki/:en:33rd_Street_(SEPTA_station)" title="wikilink">33rd Street</a></p></td>
 <td><p>10, 11, 13, 34, 36</p></td>
 <td><ul>
-<li><a href="https://ko.wikipedia.org/wiki/드렉셀_대학교" title="wikilink">드렉셀 대학교에</a> 대해 진입 가능</li>
+<li><a href="../Page/드렉셀_대학교.md" title="wikilink">드렉셀 대학교에</a> 대해 진입 가능</li>
 </ul></td>
 </tr>
 <tr class="odd">

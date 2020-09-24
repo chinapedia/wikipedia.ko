@@ -23,7 +23,7 @@ R1계통은 마지막 [빙하기](../Page/빙하기.md "wikilink") 말기에 확
 
 하플로그룹 R1a은 인도 북부에서 중앙시아 및 동유럽에서 고빈도로 나타나는 그룹으로, [인도유럽어족](https://ko.wikipedia.org/wiki/인도유럽어족 "wikilink")의 [사템어](https://ko.wikipedia.org/wiki/사템어 "wikilink")와 연관되어 있는 것으로 생각된다.
 
-하플로그룹 R1b은 서유럽과 남유럽에 현저히 많이 분포하여 있는 계통이며, [바스크인](https://ko.wikipedia.org/wiki/바스크인 "wikilink")과 [켈트](https://ko.wikipedia.org/wiki/켈트 "wikilink")계 민족에게서 80% 이상의 고빈도로 보인다.\[3\]\[4\]\[5\]\[6\] 인도유럽어족의 [켄툼어](https://ko.wikipedia.org/wiki/켄툼어 "wikilink")와 연관된 것으로 생각된다. 대항해시대 및 식민지화 등에 의한 인구 유동에 따라 아메리카 및 오스트레일리아 대륙에도 분포가 확장되었다. 또한 [바시키르인](../Page/바시키르인.md "wikilink")에게서 86%의 고빈도로 나타나는 것도 특징할만하다.\[7\] 이러한 흐름과는 별개로, 고대에 아프리카 내륙부로 이동한 R1b 계통의 한 집단이 있었던 것으로 보이는데, 이는 하플로그룹 R-V88로 특정되는 분기계통이 [차드어파](https://ko.wikipedia.org/wiki/차드어파 "wikilink")의 언어를 말하는 [카메룬](../Page/카메룬.md "wikilink")의 한 원주민족에게서도 고농도로 나타나기 때문이다.\[8\]
+하플로그룹 R1b은 서유럽과 남유럽에 현저히 많이 분포하여 있는 계통이며, [바스크인](https://ko.wikipedia.org/wiki/바스크인 "wikilink")과 [켈트](https://ko.wikipedia.org/wiki/켈트 "wikilink")계 민족에게서 80% 이상의 고빈도로 보인다.\[3\]\[4\]\[5\]\[6\] 인도유럽어족의 [켄툼어](https://ko.wikipedia.org/wiki/켄툼어 "wikilink")와 연관된 것으로 생각된다. 대항해시대 및 식민지화 등에 의한 인구 유동에 따라 아메리카 및 오스트레일리아 대륙에도 분포가 확장되었다. 또한 [바시키르인](../Page/바시키르인.md "wikilink")에게서 86%의 고빈도로 나타나는 것도 특징할만하다.\[7\] 이러한 흐름과는 별개로, 고대에 아프리카 내륙부로 이동한 R1b 계통의 한 집단이 있었던 것으로 보이는데, 이는 하플로그룹 R-V88로 특정되는 분기계통이 [차드어파](../Page/차드어파.md "wikilink")의 언어를 말하는 [카메룬](../Page/카메룬.md "wikilink")의 한 원주민족에게서도 고농도로 나타나기 때문이다.\[8\]
 
 하플로그룹 R2은 R1에 비해 수가 일반적이지 않으며 [인도](../Page/인도.md "wikilink") 등 남아시아에 주로 분포하고 있는데, 다만 [이베리아 반도나](https://ko.wikipedia.org/wiki/이베리아_반도 "wikilink") [캅카스](../Page/캅카스.md "wikilink"), [타타르인](../Page/타타르인.md "wikilink") 등에게서도 나타난 바 있다.
 

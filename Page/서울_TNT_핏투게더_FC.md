@@ -15,7 +15,7 @@
 
 ### 2017년
 
-[2017년](../Page/2017년.md "wikilink") TNT FC는 단순한 재기 전문 독립 축구단에서 벗어나, [K3리그](https://ko.wikipedia.org/wiki/K3리그 "wikilink")에 직접 참여하려는 시도를 보였다. 이러한 목표에 맞추기 위해 UEFA A 라이선스를 보유한 [포르투갈](../Page/포르투갈.md "wikilink") 출신 감독 [마리우 레모스를](https://ko.wikipedia.org/wiki/마리우_레모스 "wikilink") 선임하였다.\[4\]\[5\] 마리우 레모스는 [2016년](../Page/2016년.md "wikilink") 1월부터 TNT FC에 합류하여 무보수로 비공식 감독으로 재직하고 있었으나, 2017년 여름 TNT FC의 정식 감독으로 부임하게 되었다. 재정적으로 두사커의 후원을 받는 한편, [뉴발란스](../Page/뉴발란스.md "wikilink")로부터 축구 용품을 후원받기도 하며 구색을 갖추기 시작했다.\[6\] TNT FC는 K3리그 참가가 무산될 경우를 대비하여, R리그 참가도 플랜 B로 구상하고 있기도 하였다.\[7\] [9월 29일](../Page/9월_29일.md "wikilink") TNT FC는 [서울특별시](../Page/서울특별시.md "wikilink") [양천구](../Page/양천구.md "wikilink")를 연고지로 확정하였고, [목동종합운동장](https://ko.wikipedia.org/wiki/목동종합운동장 "wikilink")을 홈구장으로 하여 [한국 축구 협회에](https://ko.wikipedia.org/wiki/한국_축구_협회 "wikilink") 창단의향서를 제출하였다.\[8\] 구단명 또한 **양천 TNT FC**로 결정하며, K3리그 진출을 위한 채비를 마치고 있었다. 그러나 K3리그 참가하기 위해 주식회사 스포츠구루의 후원이 절대적이었으나, 스포츠구루의 경영난으로 인해 2017년 [12월 1일](../Page/12월_1일.md "wikilink") K3리그 참가가 최종 무산되었다.\[9\]
+[2017년](../Page/2017년.md "wikilink") TNT FC는 단순한 재기 전문 독립 축구단에서 벗어나, [K3리그](../Page/K3리그.md "wikilink")에 직접 참여하려는 시도를 보였다. 이러한 목표에 맞추기 위해 UEFA A 라이선스를 보유한 [포르투갈](../Page/포르투갈.md "wikilink") 출신 감독 [마리우 레모스를](https://ko.wikipedia.org/wiki/마리우_레모스 "wikilink") 선임하였다.\[4\]\[5\] 마리우 레모스는 [2016년](../Page/2016년.md "wikilink") 1월부터 TNT FC에 합류하여 무보수로 비공식 감독으로 재직하고 있었으나, 2017년 여름 TNT FC의 정식 감독으로 부임하게 되었다. 재정적으로 두사커의 후원을 받는 한편, [뉴발란스](../Page/뉴발란스.md "wikilink")로부터 축구 용품을 후원받기도 하며 구색을 갖추기 시작했다.\[6\] TNT FC는 K3리그 참가가 무산될 경우를 대비하여, R리그 참가도 플랜 B로 구상하고 있기도 하였다.\[7\] [9월 29일](../Page/9월_29일.md "wikilink") TNT FC는 [서울특별시](../Page/서울특별시.md "wikilink") [양천구](../Page/양천구.md "wikilink")를 연고지로 확정하였고, [목동종합운동장](https://ko.wikipedia.org/wiki/목동종합운동장 "wikilink")을 홈구장으로 하여 [한국 축구 협회에](https://ko.wikipedia.org/wiki/한국_축구_협회 "wikilink") 창단의향서를 제출하였다.\[8\] 구단명 또한 **양천 TNT FC**로 결정하며, K3리그 진출을 위한 채비를 마치고 있었다. 그러나 K3리그 참가하기 위해 주식회사 스포츠구루의 후원이 절대적이었으나, 스포츠구루의 경영난으로 인해 2017년 [12월 1일](../Page/12월_1일.md "wikilink") K3리그 참가가 최종 무산되었다.\[9\]
 
 ### 2018년
 
@@ -82,7 +82,7 @@
 
   - **[김봉진](../Page/김봉진_\(축구_선수\).md "wikilink")** : 2016년 홍콩 [킷치와](../Page/킷치_SC.md "wikilink") **프로** 계약 체결
 
-  - **[김성현](https://ko.wikipedia.org/wiki/김성현_\(축구_선수\) "wikilink")** : 2017년 태국 [콘깬과](https://ko.wikipedia.org/wiki/콘깬_FC "wikilink") **프로** 계약 체결
+  - **[김성현](../Page/김성현_\(축구_선수\).md "wikilink")** : 2017년 태국 [콘깬과](https://ko.wikipedia.org/wiki/콘깬_FC "wikilink") **프로** 계약 체결
 
   - **[김재연](../Page/김재연_\(축구_선수\).md "wikilink")** : 2016년 [서울 이랜드와](../Page/서울_이랜드_FC.md "wikilink") **프로** 계약 체결
 

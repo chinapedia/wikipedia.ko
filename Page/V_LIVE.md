@@ -5,7 +5,7 @@
 
 ## 서비스 및 기능
 
-**V LIVE**는 케이팝 아이돌을 포함한 다양한 소속사와 웹드라마, 웹예능들을 운영하는 플랫폼들도 V LIVE 라는 어플을 이용한다. 케이팝을 이끌어간다고 말할 수 있는 [방탄소년단](../Page/방탄소년단.md "wikilink"), [엑소](https://ko.wikipedia.org/wiki/엑소 "wikilink"), [인피니트](../Page/인피니트.md "wikilink"), [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink"), [블랙핑크](../Page/블랙핑크.md "wikilink"), [갓세븐](https://ko.wikipedia.org/wiki/갓세븐 "wikilink"), [세븐틴](https://ko.wikipedia.org/wiki/세븐틴 "wikilink"), [NCT](https://ko.wikipedia.org/wiki/NCT "wikilink"), [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 와 같이 한국에서 활동하는 거의 모든 가수 및 배우들이 이 어플을 통해 팬들과 실시간으로 소통하고 있다.
+**V LIVE**는 케이팝 아이돌을 포함한 다양한 소속사와 웹드라마, 웹예능들을 운영하는 플랫폼들도 V LIVE 라는 어플을 이용한다. 케이팝을 이끌어간다고 말할 수 있는 [방탄소년단](../Page/방탄소년단.md "wikilink"), [엑소](https://ko.wikipedia.org/wiki/엑소 "wikilink"), [인피니트](../Page/인피니트.md "wikilink"), [트와이스](../Page/트와이스.md "wikilink"), [블랙핑크](../Page/블랙핑크.md "wikilink"), [갓세븐](https://ko.wikipedia.org/wiki/갓세븐 "wikilink"), [세븐틴](https://ko.wikipedia.org/wiki/세븐틴 "wikilink"), [NCT](https://ko.wikipedia.org/wiki/NCT "wikilink"), [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink") 와 같이 한국에서 활동하는 거의 모든 가수 및 배우들이 이 어플을 통해 팬들과 실시간으로 소통하고 있다.
 
 어플리케이션을 사용하는 유저가 특정 채널(아티스트)을 팔로우하면 그 채널에서 생중계가 시작되었을 때 바로 알림을 받을 수 있다. 영상을 시청할 때에는 댓글과 하트를 누를 수 있는데, 이를 통해 케미 비트(나와 셀럽의 관계)라는 것을 쌓을 수 있다. 채널을 팔로우하고 채널과 관련된 활동들을 꾸준히 진행하면 케비 비트를 높일 수 있다.
 
@@ -17,7 +17,7 @@
 
 콘서트나 팬미팅처럼 오프라인에서 이뤄지는 공연들을 유료로 결제해 직접 가지 못한 팬들이 집에서도 함께 즐길 수 있도록 만들었다. V앱에서 사용할 수 있는 V코인을 구매해 결제해야 한다.
 
-대부분 500\~1000 코인으로 값이 책정되어 있다. (한국 돈으로 약 11000\~22000원)
+대부분 500\~1000 코인으로 값이 책정되어 있다. (한화로 약 11,000\~22,000원)
 
 실제 앨범을 구매해 동봉한 코드를 입력하면 V LIVE 앱에서 영상을 볼 수 있는 경우도 존재한다. 이 경우에는 따로 구매가 불가능하다.
 

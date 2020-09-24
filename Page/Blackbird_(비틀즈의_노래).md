@@ -20,6 +20,12 @@
 
 ## 외부 링크
 
+  - [Cover versions and notes](http://covertogether.com/song/blackbird)
+
+  -
+  -
+  - \[<https://www.nytimes.com/2020/08/24/arts/music/bettye-lavette-blackbirds.html>?\]
+
 [분류:1968년 노래](https://ko.wikipedia.org/wiki/분류:1968년_노래 "wikilink") [분류:비틀즈의 노래](https://ko.wikipedia.org/wiki/분류:비틀즈의_노래 "wikilink") [분류:레논-매카트니가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:레논-매카트니가_작곡한_노래 "wikilink") [분류:새를 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:새를_소재로_한_노래 "wikilink")
 
 1.

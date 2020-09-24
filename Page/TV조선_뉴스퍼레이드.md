@@ -17,7 +17,7 @@
   - [출발 640](../Page/출발_640.md "wikilink"), [라이브 투데이](https://ko.wikipedia.org/wiki/라이브_투데이 "wikilink")
   - [굿모닝 MBN](../Page/굿모닝_MBN.md "wikilink")
   - [JTBC 뉴스 아침&](../Page/JTBC_뉴스_아침&.md "wikilink")
-  - [대한민국 아침뉴스](https://ko.wikipedia.org/wiki/대한민국_아침뉴스 "wikilink"), [이슈오늘](https://ko.wikipedia.org/wiki/이슈오늘 "wikilink")
+  - [대한민국 아침뉴스](../Page/대한민국_아침뉴스.md "wikilink"), [이슈오늘](https://ko.wikipedia.org/wiki/이슈오늘 "wikilink")
   - [OBS 뉴스 745](https://ko.wikipedia.org/wiki/OBS_뉴스_745 "wikilink")
 
 ## 그 외 [TV조선](../Page/TV조선.md "wikilink") 뉴스 프로그램

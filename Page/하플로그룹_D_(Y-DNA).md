@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [하플로그룹 D \(Y-DNA\)](https://ko.wikipedia.org/wiki/하플로그룹_D_\(Y-DNA\)).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Haplogrupo_D_\(ADN-Y\).png "wikilink") **하플로그룹 D-CTS3946**(Haplogroup D-CTS3946)는 [인류 Y-염색체 DNA 하플로그룹의](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 일종이다. 현재로부터 약 7만년 전쯤에 아시아로부터 유래한 것으로 보인다\[1\].
+**하플로그룹 D-CTS3946**(Haplogroup D-CTS3946)는 [인류 Y-염색체 DNA 하플로그룹의](https://ko.wikipedia.org/wiki/인류_Y-염색체_DNA_하플로그룹 "wikilink") 일종이다. 현재로부터 약 7만년 전쯤에 아시아로부터 유래한 것으로 보인다\[1\].
 
 [티베트](../Page/티베트.md "wikilink"), [일본](../Page/일본.md "wikilink"), [안다만 제도에](https://ko.wikipedia.org/wiki/안다만_제도 "wikilink") 분포가 집중되어 있으며, [일본인](../Page/일본인.md "wikilink") 중 약 36%, [아이누인](https://ko.wikipedia.org/wiki/아이누인 "wikilink") 중 80% 이상이 하플로그룹 D-CTS3946 변이를 지니고 있다. 주요 분포 지역 사이에서는 거의 나타나지 않는 것이 특징적이나 중앙아시아 및 북아시아에서도 저빈도로 찾아진다. 한국인에게서도 1.6% 정도의 빈도로 나타나나 그 전래 경위에 관해서는 이론이 분분하다.
 

@@ -13,6 +13,8 @@
 
 동년 [4월 10일](../Page/4월_10일.md "wikilink"), 그룹명을 「AKB48 Team SH」로 정했으며, 1기생 오디션의 모집을 개최하였다\[3\]. [7월 24일](../Page/7월_24일.md "wikilink"), 오디션 최종 심사를 했으며, [8월 8일](../Page/8월_8일.md "wikilink"), 1기생 23명이 정식으로 공개되었다\[4\].
 
+총캡틴:**마오웨이자**
+
 ## 멤버
 
 ### 1기생
@@ -703,7 +705,7 @@
   - [SKE48](../Page/SKE48.md "wikilink")
   - [NMB48](../Page/NMB48.md "wikilink")
   - [HKT48](../Page/HKT48.md "wikilink")
-  - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
+  - [NGT48](../Page/NGT48.md "wikilink")
   - [STU48](../Page/STU48.md "wikilink")
 
 <!-- end list -->

@@ -25,7 +25,7 @@
   - 유이사키 세리 ()
     성우 : [카키하라 테츠야](../Page/카키하라_테츠야.md "wikilink")
   - 하루나 소타로 ()
-    성우 : [사이토 소우마](https://ko.wikipedia.org/wiki/사이토_소우마 "wikilink")
+    성우 : [사이토 소마](../Page/사이토_소마.md "wikilink")
 
 ### KYOHSO (쿄소)
 

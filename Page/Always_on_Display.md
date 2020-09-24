@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Always on Display](https://ko.wikipedia.org/wiki/Always_on_Display).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Pixel_3a_XL_Android_Pie_Always-On_Display.jpg "wikilink") **Always-On Display**(올웨이즈 온 디스플레이) 또는 **AOD**는 [삼성 갤럭시의](../Page/삼성_갤럭시.md "wikilink") 특정 모델에서 사용할 수 있는 [슈퍼 AMOLED](../Page/슈퍼_AMOLED.md "wikilink") 기능이다.\[1\] 2016년에 [삼성 갤럭시 S7에](../Page/삼성_갤럭시_S7.md "wikilink") 도입되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Pixel_3a_XL_Android_Pie_Always-On_Display.jpg "wikilink") **Always On Display**(올웨이즈 온 디스플레이) 또는 **AOD**는 [삼성 갤럭시의](../Page/삼성_갤럭시.md "wikilink") 특정 모델에서 사용할 수 있는 [슈퍼 AMOLED](../Page/슈퍼_AMOLED.md "wikilink") 기능이다.\[1\] 2016년에 [삼성 갤럭시 S7에](../Page/삼성_갤럭시_S7.md "wikilink") 도입되었다.
 
 이 기술은 2013년 [노키아 루미아에](https://ko.wikipedia.org/wiki/노키아_루미아 "wikilink") 처음 사용되었으며 일부 [모토로라](../Page/모토로라.md "wikilink")와 [LG](https://ko.wikipedia.org/wiki/LG "wikilink") 전화에 사용되었다.
 

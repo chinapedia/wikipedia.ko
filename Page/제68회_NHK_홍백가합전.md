@@ -5,11 +5,11 @@
 
 ## 개요
 
-2011년 이후 6년 만에 한국그룹이 출장하였다. ([트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink"))
+2011년 이후 6년 만에 한국그룹이 출장하였다. ([트와이스](../Page/트와이스.md "wikilink"))
 
 ## 사회자
 
-  - 종합사회 - [우치무라 테루요시](../Page/우치무라_테루요시.md "wikilink")·[구와코 마호](https://ko.wikipedia.org/wiki/구와코_마호 "wikilink") 아나운서
+  - 종합사회 - [우치무라 테루요시](../Page/우치무라_테루요시.md "wikilink")·[쿠와코 마호](https://ko.wikipedia.org/wiki/쿠와코_마호 "wikilink") 아나운서
   - 홍조(紅組)사회 - [아리무라 카스미](../Page/아리무라_카스미.md "wikilink")
   - 백조(白組)사회 - [니노미야 카즈나리](../Page/니노미야_카즈나리.md "wikilink")
 
@@ -42,7 +42,7 @@
       - 이치카와 유키노 (2) 〈人生一路〉
       - [덴도 요시미](https://ko.wikipedia.org/wiki/덴도_요시미 "wikilink") (22) 〈道頓堀人情〉
       - [쿠라키 마이](../Page/쿠라키_마이.md "wikilink") (4) 〈[渡月橋 〜君 想ふ〜](../Page/도월교_~그대를_생각하며~.md "wikilink")〉
-      - **[트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") (1)** 〈[TT -Japanese ver.-](../Page/TWICE_\(음반\).md "wikilink")〉
+      - **[트와이스](../Page/트와이스.md "wikilink") (1)** 〈[TT -Japanese ver.-](../Page/TWICE_\(음반\).md "wikilink")〉
       - 미즈모리 카오리 (15) 〈早鞆ノ瀬戸〉
       - 시마즈 아야 (4) 〈The Rose〉
 

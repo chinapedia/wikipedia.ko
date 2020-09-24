@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [에글린턴역 \(GO\)](https://ko.wikipedia.org/wiki/에글린턴역_\(GO\)).
 
 
-**에글린턴역**(Eglinton Station) 은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink") 동쪽에 있는 [스카버러](https://ko.wikipedia.org/wiki/스카버러 "wikilink")의 [에글린턴 애비뉴와](https://ko.wikipedia.org/wiki/에글린턴_애비뉴 "wikilink") 벨라미 로드에 있는 [GO 트랜싯](../Page/GO_트랜싯.md "wikilink") [레이크쇼어 이스트선](../Page/레이크쇼어_이스트선.md "wikilink") 통근 열차 역이다. 2016년에 새로운 보행자 터널과 엘리베이터가 설치되어 교통 약자도 손쉽게 이용할 수 있게 되었다.
+**에글린턴역**(Eglinton Station) 은 [캐나다](../Page/캐나다.md "wikilink") [온타리오주](https://ko.wikipedia.org/wiki/온타리오주 "wikilink") [토론토](../Page/토론토.md "wikilink") 동쪽에 있는 [스카버러](https://ko.wikipedia.org/wiki/스카버러 "wikilink")의 [에글린턴 애비뉴와](../Page/에글린턴_애비뉴.md "wikilink") 벨라미 로드에 있는 [GO 트랜싯](../Page/GO_트랜싯.md "wikilink") [레이크쇼어 이스트선](../Page/레이크쇼어_이스트선.md "wikilink") 통근 열차 역이다. 2016년에 새로운 보행자 터널과 엘리베이터가 설치되어 교통 약자도 손쉽게 이용할 수 있게 되었다.
 
 ## 버스 연결편
 
-이 역에서는 에글린턴과 벨라미에서 [토론토 교통국의](../Page/토론토_교통국.md "wikilink") 9번 벨라미, 86번 스카버러, 116번 모닝사이드, 903번 에글린턴 이스트 급행으로 갈아탈 수 있다. 갈아탈 때에는 토론토 교통국의 요금이 부과되며 [프레스토 카드를](https://ko.wikipedia.org/wiki/프레스토_카드 "wikilink") 이용할 경우에는 1달러 50센트의 환승 할인을 받을 수 있다.
+이 역에서는 에글린턴과 벨라미에서 [토론토 교통국의](../Page/토론토_교통국.md "wikilink") 9번 벨라미, 86번 스카버러, 116번 모닝사이드, 903번 에글린턴 이스트 급행으로 갈아탈 수 있다. 갈아탈 때에는 토론토 교통국의 요금이 부과된다.
 
 
 

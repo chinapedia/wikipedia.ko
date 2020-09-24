@@ -57,7 +57,7 @@
   - [TBN 차차차](../Page/TBN_차차차_\(광주\).md "wikilink") ([TBN 광주교통방송](../Page/광주교통방송.md "wikilink"))
   - 이효주의 싱싱라디오 ([BBS 광주불교방송](../Page/광주불교방송.md "wikilink"))
   - [광주cpbc 정오종합뉴스](https://ko.wikipedia.org/wiki/cpbc_정오종합뉴스 "wikilink") ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
-  - [신부님 신부님 우리 신부님](https://ko.wikipedia.org/wiki/신부님_신부님_우리_신부님 "wikilink") ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
+  - [신부님 신부님 우리 신부님](../Page/신부님_신부님_우리_신부님.md "wikilink") ([cpbc 광주가톨릭평화방송](../Page/광주가톨릭평화방송.md "wikilink"))
   - [기분좋은 12시\!](https://ko.wikipedia.org/wiki/기분좋은_12시! "wikilink") ([WBS 광주원음방송](../Page/광주원음방송.md "wikilink"))
 
 ### AM방송
@@ -65,7 +65,7 @@
   - [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") ([KBS목포 제1라디오](../Page/KBS목포방송국.md "wikilink"))
   - [오태훈의 시사본부](../Page/시사본부.md "wikilink") ([KBS목포 제1라디오](../Page/KBS목포방송국.md "wikilink"))
   - [정은지의 가요광장](../Page/가요광장.md "wikilink") ([KBS광주 해피FM](../Page/KBS광주방송총국.md "wikilink"))
-  - [싱글벙글쇼 배기성, 허일후입니다](https://ko.wikipedia.org/wiki/싱글벙글쇼 "wikilink") ([목포MBC 표준FM](../Page/목포문화방송.md "wikilink"))
+  - [싱글벙글쇼 배기성, 허일후입니다](../Page/싱글벙글쇼.md "wikilink") ([목포MBC 표준FM](../Page/목포문화방송.md "wikilink"))
   - [찬양의 꽃다발](https://ko.wikipedia.org/wiki/찬양의_꽃다발 "wikilink") ([광주CBS 표준FM](../Page/기독교광주방송.md "wikilink"))
 
 ## 같이 보기

@@ -3,7 +3,7 @@
 
 〈**This Night**〉은 [빌리 조엘의](../Page/빌리_조엘.md "wikilink") 음반 《[An Innocent Man](../Page/An_Innocent_Man.md "wikilink")》의 다섯 번째 싱글이다.
 
-이 노래의 코러스는 루트비히 판 베토벤의 [피아노 소나타 8번](https://ko.wikipedia.org/wiki/피아노_소나타_8번_\(베토벤\) "wikilink") 제 2악장을 사용했다.\[1\] 베토벤은 《L.V. Beethoven》라는 제목의 음반의 한 작곡가 중 한 명으로 여겨진다.
+이 노래의 후렴구 멜로디는 루트비히 판 베토벤의 [피아노 소나타 8번](https://ko.wikipedia.org/wiki/피아노_소나타_8번_\(베토벤\) "wikilink") 제 2악장을 사용했다.\[1\] 베토벤은 《L.V. Beethoven》라는 제목의 음반의 한 작곡가 중 한 명으로 여겨진다.
 
 영국과 일본에서만 싱글로 발매된 이 곡은 [영국 싱글 차트에서](https://ko.wikipedia.org/wiki/영국_싱글_차트 "wikilink") 78위, 일본 [오리콘](../Page/오리콘.md "wikilink") 싱글 차트에서 88위를 기록했다. 빌리 조엘은 인터뷰에서 〈This Night〉은 두 번째 부인 [크리스티 브링클리와](../Page/크리스티_브링클리.md "wikilink") 만나기 직전 잠깐 만났던 슈퍼모델 [엘 맥퍼슨과의](../Page/엘_맥퍼슨.md "wikilink") 관계에 대한 내용이라고 말했다.
 

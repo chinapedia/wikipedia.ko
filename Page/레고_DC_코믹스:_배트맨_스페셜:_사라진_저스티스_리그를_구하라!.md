@@ -7,7 +7,7 @@
 
   - [트로이 베이커](../Page/트로이_베이커.md "wikilink") - [배트맨](../Page/배트맨.md "wikilink")
   - [디 브래들리 베이커](../Page/디_브래들리_베이커.md "wikilink") - [아쿠아맨](https://ko.wikipedia.org/wiki/아쿠아맨 "wikilink"), [맨배트](https://ko.wikipedia.org/wiki/맨배트 "wikilink")
-  - [그레이 딜라일](https://ko.wikipedia.org/wiki/그레이_딜라일 "wikilink") - [로이스 레인](../Page/로이스_레인.md "wikilink"), [원더우먼](../Page/원더우먼.md "wikilink")
+  - [그레이 딜라일](../Page/그레이_딜라일.md "wikilink") - [로이스 레인](../Page/로이스_레인.md "wikilink"), [원더우먼](../Page/원더우먼.md "wikilink")
   - [존 디마지오](../Page/존_디마지오.md "wikilink") - [조커](../Page/조커_\(DC_코믹스\).md "wikilink"), [렉스 루터](https://ko.wikipedia.org/wiki/렉스_루터 "wikilink")
   - [톰 케니](../Page/톰_케니.md "wikilink") - [펭귄](../Page/펭귄_\(DC_코믹스\).md "wikilink")
   - [놀런 노스](https://ko.wikipedia.org/wiki/놀런_노스 "wikilink") - [슈퍼맨](../Page/슈퍼맨.md "wikilink"), [앨프리드 페니워스](https://ko.wikipedia.org/wiki/앨프리드_페니워스 "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BDZ](https://ko.wikipedia.org/wiki/BDZ).
 
 
-《**BDZ**》는 대한민국의 걸 그룹 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 일본에서의 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). ‘BDZ’는 불도저의 준말이다. 눈앞의 큰 벽도 불도저처럼 부수며 앞으로 나아가자는 의미를 담았다.\[1\]
+《**BDZ**》는 대한민국의 걸 그룹 [트와이스](../Page/트와이스.md "wikilink")의 일본에서의 첫 번째 [정규 음반이다](../Page/정규_음반.md "wikilink"). ‘BDZ’는 불도저의 준말이다. 눈앞의 큰 벽도 불도저처럼 부수며 앞으로 나아가자는 의미를 담았다.\[1\]
 
 ## 개요
 

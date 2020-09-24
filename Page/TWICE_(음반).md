@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TWICE \(음반\)](https://ko.wikipedia.org/wiki/TWICE_\(음반\)).
 
 
-《**\#TWICE**》(해시태그 트와이스, )는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 첫 번째 베스트 음반이다. [2017년](../Page/2017년.md "wikilink") [6월 28일에](../Page/6월_28일.md "wikilink") [워너 뮤직 재팬을](../Page/워너_뮤직_재팬.md "wikilink") 통해서 발매되었다.
+《**\#TWICE**》(해시태그 트와이스, )는 [대한민국](../Page/대한민국.md "wikilink")의 걸 그룹 [트와이스](../Page/트와이스.md "wikilink")의 첫 번째 베스트 음반이다. [2017년](../Page/2017년.md "wikilink") [6월 28일에](../Page/6월_28일.md "wikilink") [워너 뮤직 재팬을](../Page/워너_뮤직_재팬.md "wikilink") 통해서 발매되었다.
 
 ## 발매 배경
 

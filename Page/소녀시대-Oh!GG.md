@@ -11,7 +11,7 @@
 
 2018년 8월 2일 SM에서는 재계약을 맺은 나머지 다섯 멤버가 같은 해 하반기 안에 새로운 유닛을 구성하여 컴백할 계획이라고 발표하였다.\[5\] 8월 27일, 다섯 명을 멤버로 하는 유닛의 이름과 싱글 이름, 컴백 날짜가 공개되었다.\[6\] 9월 5일 소녀시대-Oh\!GG의 첫 번째 싱글 《[몰랐니 (Lil’ Touch)](../Page/몰랐니.md "wikilink")》가 발매되었다.
 
-## 구성원
+## 이전 구성원
 
 <table>
 <thead>
@@ -30,7 +30,6 @@
 <li>생년월일 : </li>
 <li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/전라북도" title="wikilink">전라북도</a> <a href="https://ko.wikipedia.org/wiki/전주시" title="wikilink">전주시</a> <a href="../Page/완산구.md" title="wikilink">완산구</a></li>
 <li>학력 :  <a href="../Page/전주예술고등학교.md" title="wikilink">전주예술고등학교</a> 방송문화예술과 (졸업)</li>
-<li>포지션 : 리더, 메인보컬</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -42,7 +41,6 @@
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a> <a href="../Page/종로구.md" title="wikilink">종로구</a></li>
 <li>국적 :  ·  (<a href="https://ko.wikipedia.org/wiki/복수_국적" title="wikilink">복수 국적</a>)</li>
 <li>학력 :  <a href="../Page/배화여자고등학교.md" title="wikilink">배화여자고등학교</a> (졸업)</li>
-<li>포지션 : 리드보컬</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -54,7 +52,6 @@
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천광역시</a> <a href="../Page/남동구.md" title="wikilink">남동구</a></li>
 <li>학력 :  <a href="https://ko.wikipedia.org/wiki/:zh:北京师范大学第二附属中学" title="wikilink">북경사범대학 제2부속중학교</a> (졸업)<br />
  <a href="../Page/대한민국의_검정고시.md" title="wikilink">고등학교 졸업학력 검정고시</a> (합격) </br></li>
-<li>포지션 : 서브보컬, 메인댄서</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -65,7 +62,6 @@
 <li>생년월일 : </li>
 <li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="https://ko.wikipedia.org/wiki/고양시" title="wikilink">고양시</a></li>
 <li>학력 :  <a href="https://ko.wikipedia.org/wiki/중앙대학교" title="wikilink">중앙대학교</a> 연극영화학부 연극 전공 (졸업)</li>
-<li>포지션 : 서브보컬, 메인댄서</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -76,7 +72,6 @@
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a> <a href="../Page/영등포구.md" title="wikilink">영등포구</a> <a href="https://ko.wikipedia.org/wiki/대림동" title="wikilink">대림동</a></li>
 <li>학력 :  <a href="https://ko.wikipedia.org/wiki/동국대학교" title="wikilink">동국대학교</a> 연극영화학과 (졸업)</li>
-<li>포지션 : 서브보컬, 리드댄서</li>
 </ul></td>
 </tr>
 </tbody>

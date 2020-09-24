@@ -399,7 +399,7 @@
 <tr class="odd">
 <td><p><strong>dirigo</strong></p></td>
 <td><p>나는 지도한다</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/고전_라틴어" title="wikilink">고전 라틴어에서는</a> "나는 처리한다". <a href="../Page/폴라리스.md" title="wikilink">폴라리스</a> 행성에 비유한 것을 기반으로 하는 미국 <a href="../Page/메인주.md" title="wikilink">메인주</a>의 모토.</p></td>
+<td><p><a href="../Page/고전_라틴어.md" title="wikilink">고전 라틴어에서는</a> "나는 처리한다". <a href="../Page/폴라리스.md" title="wikilink">폴라리스</a> 행성에 비유한 것을 기반으로 하는 미국 <a href="../Page/메인주.md" title="wikilink">메인주</a>의 모토.</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>dis aliter visum</strong></p></td>

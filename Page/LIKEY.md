@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LIKEY](https://ko.wikipedia.org/wiki/LIKEY).
 
 
-“**LIKEY**”는 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")의 첫 번째 정규 음반 《[Twicetagram](../Page/Twicetagram.md "wikilink")》의 타이틀 곡이다.
+“**LIKEY**”는 [트와이스](../Page/트와이스.md "wikilink")의 첫 번째 정규 음반 《[Twicetagram](../Page/Twicetagram.md "wikilink")》의 타이틀 곡이다.
 
 ## 차트
 

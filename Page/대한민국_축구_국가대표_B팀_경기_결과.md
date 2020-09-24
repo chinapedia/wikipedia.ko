@@ -152,7 +152,7 @@
 <p>2–0</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/서울" title="wikilink">서울</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/친선경기" title="wikilink">친선경기</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이순명" title="wikilink">이순명</a><br />
+<td><p><a href="../Page/이순명.md" title="wikilink">이순명</a><br />
 <a href="https://ko.wikipedia.org/wiki/박무웅" title="wikilink">박무웅</a></p></td>
 <td><p><a href="http://newslibrary.naver.com/viewer/index.nhn?articleId=1967060500209204008&amp;editNo=2&amp;printCount=1&amp;publishDate=1967-06-05&amp;officeId=00020&amp;pageNo=4&amp;printNo=14040&amp;publishType=00020">경기결과 관련 기사</a></p></td>
 <td></td>

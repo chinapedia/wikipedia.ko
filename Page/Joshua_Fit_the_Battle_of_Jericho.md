@@ -3,7 +3,7 @@
 
 〈**Joshua Fit the Battle of Jericho**〉, 그 밖에 〈**Joshua Fought the Battle of Jericho**〉 또는 〈**Joshua Fit de Battle of Jericho**〉는 크게 알려진 [아프리카계 미국인](../Page/아프리카계_미국인.md "wikilink") [영가](../Page/영가.md "wikilink")다.\[1\]
 
-19세기 초반에 [노예](https://ko.wikipedia.org/wiki/노예 "wikilink")가 작곡한 것으로 생각된다. 여러 출전들은 1865년 제이 로버츠라는 자가 저작권 등록을 했음을 제시해 주고 있다.\[2\] 또한 1882년 M. G. 슬레이튼이 펴낸 《희년가》 및 마셜 W. 테일러가 펴낸 《부흥찬송가·대농장요집》에서 수록되어 있는 것이 확인되었다. 최초의 녹음은 1922년 [해러즈 주벌리 싱어스의](https://ko.wikipedia.org/wiki/피스크_주벌리_싱어스 "wikilink") [파라마운트 레코드](https://ko.wikipedia.org/wiki/파라마운트_레코드 "wikilink") 녹음(No. 12116)이며,\[3\] 한편 1924년에 녹음하였다고 하는 문헌 역시 있다. 해당 녹음의 이래로 [폴 로브슨](https://ko.wikipedia.org/wiki/폴_로브슨 "wikilink"),\[4\] [마할리아 잭슨](../Page/마할리아_잭슨.md "wikilink"),\[5\] [카를라 워드](https://ko.wikipedia.org/wiki/카를라_워드 "wikilink"), [로리 런던과](https://ko.wikipedia.org/wiki/로리_런던 "wikilink") [휴 로리](../Page/휴_로리.md "wikilink"), [엘비스 프레슬리](../Page/엘비스_프레슬리.md "wikilink") 등 뭇사람이 그 뒤를 이어 녹음을 계속하고 있다.
+19세기 초반에 [노예](https://ko.wikipedia.org/wiki/노예 "wikilink")가 작곡한 것으로 생각된다. 여러 출전들은 1865년 제이 로버츠라는 자가 저작권 등록을 했음을 제시해 주고 있다.\[2\] 또한 1882년 M. G. 슬레이튼이 펴낸 《희년가》 및 마셜 W. 테일러가 펴낸 《부흥찬송가·대농장요집》에서 수록되어 있는 것이 확인되었다. 최초의 녹음은 1922년 [해러즈 주벌리 싱어스의](https://ko.wikipedia.org/wiki/피스크_주벌리_싱어스 "wikilink") [파라마운트 레코드](https://ko.wikipedia.org/wiki/파라마운트_레코드 "wikilink") 녹음(No. 12116)이며,\[3\] 한편 1924년에 녹음하였다고 하는 문헌 역시 있다. 해당 녹음의 이래로 [폴 로브슨](../Page/폴_로브슨.md "wikilink"),\[4\] [마할리아 잭슨](../Page/마할리아_잭슨.md "wikilink"),\[5\] [카를라 워드](https://ko.wikipedia.org/wiki/카를라_워드 "wikilink"), [로리 런던과](https://ko.wikipedia.org/wiki/로리_런던 "wikilink") [휴 로리](../Page/휴_로리.md "wikilink"), [엘비스 프레슬리](../Page/엘비스_프레슬리.md "wikilink") 등 뭇사람이 그 뒤를 이어 녹음을 계속하고 있다.
 
 1930년 마셜 바살러뮤가 본 곡을 자기 딴으로 편곡했다.\[6\]
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LG 스마트 폴더](https://ko.wikipedia.org/wiki/LG_스마트_폴더).
 
 
-**LG 스마트 폴더**는 [LG전자](../Page/LG전자.md "wikilink")가 [2017년](../Page/2017년.md "wikilink") [10월 17일에](../Page/10월_17일.md "wikilink") 출시\[1\]한 폴더형 [스마트폰](../Page/스마트폰.md "wikilink")이다. 또한 LGM-X100S 모델이 먼저 출시되었고, 몇 달 후 LGM-X100L 모델이 출시되었다. 그리고 [LG 젠틀과](../Page/LG_젠틀.md "wikilink") [LG 와인 스마트 재즈](../Page/LG_와인_스마트_재즈.md "wikilink") 이후로 2년만에 내놓은 폴더형 스마트폰으로 디자인은 전작들과 비슷 하지만 [2017년](../Page/2017년.md "wikilink")에 맞게 성능이 조금 향상되었다. 전작들과 달리 나랏글 자판이 아닌 천지인 자판으로 출시되었다. 또한 엠보싱 키보드가 적용되어 조작감이 향상되었다.
+**LG 스마트 폴더**는 [LG전자](../Page/LG전자.md "wikilink")가 [2017년](../Page/2017년.md "wikilink") [10월 17일에](../Page/10월_17일.md "wikilink") 출시\[1\]한 폴더형 [스마트폰](../Page/스마트폰.md "wikilink")이다. 또한 LGM-X100S 모델이 먼저 출시되었고, 몇 달 후 LGM-X100L 모델이 출시되었다. 그리고 [LG 젠틀과](../Page/LG_젠틀.md "wikilink") [LG 와인 스마트 재즈](../Page/LG_와인_스마트_재즈.md "wikilink") 이후로 2년만에 내놓은 폴더형 스마트폰으로 디자인은 전작들과 비슷하지만 성능이 조금 향상되었다. 전작들과 달리 키보드 자판이 천지인 자판으로 출시되었다. 또한 엠보싱 키보드가 적용되어 조작감이 향상되었다.
 
 ## 운영 체제 / 소프트웨어
 
@@ -21,7 +21,7 @@ LG 스마트 폴더는 [안드로이드](../Page/안드로이드_\(운영_체제
 
 ## 색상
 
-  - [블루](https://ko.wikipedia.org/wiki/남색 "wikilink")
+  - [블루](../Page/남색.md "wikilink")
   - [화이트](https://ko.wikipedia.org/wiki/흰색 "wikilink")
 
 ## 경쟁 기종

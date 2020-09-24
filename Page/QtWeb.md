@@ -6,7 +6,7 @@
 ## 기능
 
   - [광고 차단](../Page/광고_차단.md "wikilink") ([애드블록](../Page/애드블록.md "wikilink") 기능)\[4\]
-  - [비트토렌트](https://ko.wikipedia.org/wiki/비트토렌트 "wikilink") 다운로드 관리자\[5\]
+  - [비트토렌트](../Page/비트토렌트.md "wikilink") 다운로드 관리자\[5\]
   - [북마크](../Page/즐겨찾기.md "wikilink") (북마크 가져오기 및 별칭 포함)\[6\]
   - 사용자 지정 가능한 [단축키](../Page/단축키.md "wikilink")\[7\]
   - 사용자 지정 가능한 검색 엔진\[8\]

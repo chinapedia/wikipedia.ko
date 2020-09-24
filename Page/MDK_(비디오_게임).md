@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MDK \(비디오 게임\)](https://ko.wikipedia.org/wiki/MDK_\(비디오_게임\)).
 
 
-《**MDK**》는 [샤이니 엔터테인먼트가](https://ko.wikipedia.org/wiki/샤이니_엔터테인먼트 "wikilink") [마이크로소프트 윈도우용으로](../Page/마이크로소프트_윈도우.md "wikilink") 개발한 1997년 [3인칭 슈팅 게임](../Page/3인칭_슈팅_게임.md "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink"). 쇽웨이브에 의해 [맥 OS로](../Page/맥_OS.md "wikilink") 포팅되었으며,\[1\] [네버소프트](https://ko.wikipedia.org/wiki/네버소프트 "wikilink")에 의해 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")으로 포팅되었다. 북아메리카에서는 [PIE에](https://ko.wikipedia.org/wiki/플레이메이츠_토이즈 "wikilink") 의해 모든 시스템에 배급되었으며, 유럽에는 [샤이니 엔터테인먼트가](https://ko.wikipedia.org/wiki/샤이니_엔터테인먼트 "wikilink") 이들을 배급하였다. 윈도우 버전은 1997년 4월, 맥 버전은 6월, 플레이스테이션 버전은 11월에 출시되었다. 이 게임은 2008년 9월 [GOG.com](../Page/GOG.com.md "wikilink")에 릴리스되었으며\[2\] 2009년 9월에는 [스팀에](../Page/스팀_\(소프트웨어\).md "wikilink") 출시되었다.\[3\]
+《**MDK**》는 [샤이니 엔터테인먼트가](https://ko.wikipedia.org/wiki/샤이니_엔터테인먼트 "wikilink") [마이크로소프트 윈도우용으로](../Page/마이크로소프트_윈도우.md "wikilink") 개발한 1997년 [3인칭 슈팅 게임](../Page/3인칭_슈팅_게임.md "wikilink") [비디오 게임이다](../Page/비디오_게임.md "wikilink"). 쇽웨이브에 의해 [맥 OS로](../Page/맥_OS.md "wikilink") 포팅되었으며,\[1\] [네버소프트](https://ko.wikipedia.org/wiki/네버소프트 "wikilink")에 의해 [플레이스테이션](../Page/플레이스테이션.md "wikilink")으로 포팅되었다. 북아메리카에서는 [PIE에](https://ko.wikipedia.org/wiki/플레이메이츠_토이즈 "wikilink") 의해 모든 시스템에 배급되었으며, 유럽에는 [샤이니 엔터테인먼트가](https://ko.wikipedia.org/wiki/샤이니_엔터테인먼트 "wikilink") 이들을 배급하였다. 윈도우 버전은 1997년 4월, 맥 버전은 6월, 플레이스테이션 버전은 11월에 출시되었다. 이 게임은 2008년 9월 [GOG.com](../Page/GOG.com.md "wikilink")에 릴리스되었으며\[2\] 2009년 9월에는 [스팀에](../Page/스팀_\(소프트웨어\).md "wikilink") 출시되었다.\[3\]
 
 ## 게임플레이
 

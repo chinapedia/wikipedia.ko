@@ -17,7 +17,7 @@
 
 ## 더 보기
 
-[천왕봉급 상륙함](https://ko.wikipedia.org/wiki/천왕봉급_상륙함 "wikilink") - 대한민국도 LPD를 건조중이다.
+[천왕봉급 상륙함](../Page/천왕봉급_상륙함.md "wikilink") - 대한민국도 LPD를 건조중이다.
 
 ## 각주
 

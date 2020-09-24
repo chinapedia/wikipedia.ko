@@ -110,7 +110,7 @@
   - [ukka](https://ko.wikipedia.org/wiki/ukka "wikilink")
   - [이키나리 토호쿠산](../Page/이키나리_토호쿠산.md "wikilink")
   - [B.O.L.T](../Page/B.O.L.T.md "wikilink")
-  - [Awww\!](https://ko.wikipedia.org/wiki/Awww! "wikilink")
+  - [Awww\!](../Page/Awww!.md "wikilink")
 
 ## 외부 링크
 

@@ -66,6 +66,8 @@
   - 2020년 2월 15일 카더가든 - **\[Digital Single\] \[Vol.47\] 유희열의 스케치북 : 스물다섯 번째 목소리 \`유스케 X 카더가든\`**
   - 2020년 7월 27일 [이디오테잎](../Page/이디오테잎.md "wikilink") - **\[Digital Single\] Too Old To Die Young**
   - 2020년 8월 19일 이디오테잎 - **\[Digital Single\] Future That Never Comes**
+  - 2020년 9월 3일 카더가든 - **\[Digital Single\] 밤새 (취향저격 그녀 X 카더가든)**
+  - 2020년 9월 8일 이디오테잎 - **\[Digital Single\] Sorry to Greta**
 
 ## 각주
 

@@ -1,15 +1,17 @@
 > This article is converted from Wikipedia: [12ENTERTAINMENT](https://ko.wikipedia.org/wiki/12ENTERTAINMENT).
 
 
-**12ENTERTAINMENT**(원투엔터)는 미국 실리콘밸리에 위치하였고 창의적인 한국 콘텐츠의 세계화를 위해 제작과 유통을 하는 기업이다.
+**12ENT**(원투엔터)는 미국 실리콘밸리에 위치하였고 창의적인 한국 콘텐츠의 세계화를 위해 제작과 유통을 하는 기업이다.
 
 ## 지원 아티스트
 
-12ENTERTAINMENT는 소속 계약이 아닌 아티스트 순수 지원프로그램을 운영함.
+12ENT는 소속 계약이 아닌 아티스트 순수 지원프로그램을 운영함. 2020년 3분기 - 2기 선정중. 2020년 4분기 - 3기 선정 예정.
+
+1기 아티스트:
 
   - [허영주](../Page/허영주.md "wikilink") (듀자매)
 
-`- TikTok 팔로워 300만 `
+`- TikTok 팔로워 340만 `
 `- 듀자매: 그대여 기억하나요 (작사/작곡/가창)`
 `- 듀자매: 뽕짝소녀 (가창) `
 `- 연극 체홉, 여자를 읽다: 주연 `
@@ -36,7 +38,7 @@
 
   - 허정주 (듀자매)
 
-`- TikTok 팔로워 200만 `
+`- TikTok 팔로워 190만 `
 `- 듀자매: 그대여 기억하나요 (작사/작곡/가창)`
 `- 듀자매: 뽕짝소녀 (작사/작곡)`
 `- 고양이산책 (작사/작곡/편곡/가창)`
@@ -72,6 +74,7 @@
 
   - 웅킴
 
+`- Stray Kids: My Universe (작사/작곡/편곡)`
 `- 박지훈: Paradise (작사/작곡/편곡)`
 `- 배치기: 안녕, 기타 (작사/작곡/편곡)`
 `- 길구봉구: 은하수 (작사/작곡/편곡)`
@@ -196,7 +199,7 @@
 | 12ENT                                  | 《두드림 OST - Lost Star》                                                 | 다이아 (DIA) [주은](../Page/주은_\(가수\).md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                               | 기획/제작           |
 | 12ENT/브릿지ENT                           | 《[두드림](https://ko.wikipedia.org/wiki/두드림 "wikilink")》                 | 다이아 [은채](../Page/은채.md "wikilink") [주은](../Page/주은_\(가수\).md "wikilink") [제니](https://ko.wikipedia.org/wiki/제니_\(가수\) "wikilink") 듀자매 허정주 IM66 [지호](../Page/지호.md "wikilink")                                                                                                                                                                                                                                                                 | 제작/OST/배급       |
 | 12ENT/DH Film                          | 《[PAPARAZZI GIRLFRIEND](../Page/PAPARAZZI_GIRLFRIEND.md "wikilink")》  | [금새록](../Page/금새록.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                              | 기획/투자/배급        |
-| 12ENT/김재열/최유선                          | 《[야구소녀](https://ko.wikipedia.org/wiki/야구소녀 "wikilink")》               | [Feat. 한예](https://ko.wikipedia.org/wiki/Feat._한예 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                 | 기획/투자/작사/작곡/상표권 |
+| 12ENT/김재열/최유선                          | 《[야구소녀](../Page/야구소녀.md "wikilink")》                                  | [Feat. 한예](https://ko.wikipedia.org/wiki/Feat._한예 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                 | 기획/투자/작사/작곡/상표권 |
 | 브릿지ENT                                 | 《[아이엠](https://ko.wikipedia.org/wiki/아이엠 "wikilink")》                 | [정채연](../Page/정채연.md "wikilink") [박선우](../Page/박선우.md "wikilink") [주수경](https://ko.wikipedia.org/wiki/주수경 "wikilink") [연지해](https://ko.wikipedia.org/wiki/연지해 "wikilink") [이주아](../Page/이주아.md "wikilink")                                                                                                                                                                                                                                    | 배급              |
 | 브릿지ENT                                 | 《[사랑, 시간에 머물다](https://ko.wikipedia.org/wiki/사랑,_시간에_머물다 "wikilink")》 | [오하영](https://ko.wikipedia.org/wiki/오하영 "wikilink") [고윤](../Page/고윤.md "wikilink") [김태민](../Page/김태민.md "wikilink") [황소희](../Page/황소희.md "wikilink") [정은혜](https://ko.wikipedia.org/wiki/정은혜 "wikilink") [손승국](https://ko.wikipedia.org/wiki/손승국 "wikilink") [임영서](https://ko.wikipedia.org/wiki/임영서 "wikilink")                                                                                                                              | 배급              |
 | 브릿지ENT                                 | 《[사랑, 기억에 머물다](https://ko.wikipedia.org/wiki/사랑,_기억에_머물다 "wikilink")》 | [오하영](https://ko.wikipedia.org/wiki/오하영 "wikilink") [고윤](../Page/고윤.md "wikilink") [손승국](https://ko.wikipedia.org/wiki/손승국 "wikilink") [황소희](../Page/황소희.md "wikilink") [정은혜](https://ko.wikipedia.org/wiki/정은혜 "wikilink")                                                                                                                                                                                                                   | 배급              |
@@ -228,7 +231,7 @@
 | KTH                                    | 《88번지》                                                                | [오승아](../Page/오승아.md "wikilink") [최종훈](https://ko.wikipedia.org/wiki/최종훈 "wikilink")                                                                                                                                                                                                                                                                                                                                                          | 유통              |
 | KTH                                    | 《응답하라 평창,100'F》                                                       | [김채원](https://ko.wikipedia.org/wiki/김채원_\(가수\) "wikilink") [김지훈](../Page/김지훈.md "wikilink") [유세형](../Page/유세형.md "wikilink") [백종민](https://ko.wikipedia.org/wiki/백종민 "wikilink")                                                                                                                                                                                                                                                              | 유통              |
 | KTH                                    | 《불멸의여신》                                                               | [왕지원](../Page/왕지원.md "wikilink") [재희](../Page/재희.md "wikilink") [이주연](https://ko.wikipedia.org/wiki/이주연 "wikilink")                                                                                                                                                                                                                                                                                                                           | 유통              |
-| KTH                                    | 《청춘신드롬》                                                               | [이정하](https://ko.wikipedia.org/wiki/이정하 "wikilink") [이세찬](https://ko.wikipedia.org/wiki/이세찬 "wikilink") [강희웅](https://ko.wikipedia.org/wiki/강희웅 "wikilink") [조윤정](https://ko.wikipedia.org/wiki/조윤정 "wikilink") [문용일](../Page/문용일.md "wikilink") [김미지](https://ko.wikipedia.org/wiki/김미지 "wikilink")                                                                                                                                          | 유통              |
+| KTH                                    | 《청춘신드롬》                                                               | [이정하](../Page/이정하.md "wikilink") [이세찬](https://ko.wikipedia.org/wiki/이세찬 "wikilink") [강희웅](https://ko.wikipedia.org/wiki/강희웅 "wikilink") [조윤정](https://ko.wikipedia.org/wiki/조윤정 "wikilink") [문용일](../Page/문용일.md "wikilink") [김미지](https://ko.wikipedia.org/wiki/김미지 "wikilink")                                                                                                                                                             | 유통              |
 | KTH                                    | 《류한빌라 402호》                                                           | [장민영](../Page/장민영.md "wikilink") [김나연](https://ko.wikipedia.org/wiki/김나연 "wikilink") [신희철](https://ko.wikipedia.org/wiki/신희철 "wikilink") [한정화](../Page/한정화.md "wikilink")                                                                                                                                                                                                                                                                     | 유통              |
 | KTH                                    | 《마이로맨틱 썸 레시피》                                                         | [차은우](https://ko.wikipedia.org/wiki/차은우 "wikilink") [주다영](../Page/주다영.md "wikilink")                                                                                                                                                                                                                                                                                                                                                          | 유통              |
 | KTH                                    | 《[매칭\! 소년양궁부](../Page/매칭!_소년양궁부.md "wikilink")》                       | [Kei](https://ko.wikipedia.org/wiki/Kei "wikilink") [백철민](../Page/백철민.md "wikilink") [서지훈](https://ko.wikipedia.org/wiki/서지훈 "wikilink") [김창환](../Page/김창환_\(배우\).md "wikilink") [차연우](https://ko.wikipedia.org/wiki/차연우 "wikilink") [용우](https://ko.wikipedia.org/wiki/용우 "wikilink") [조재윤](../Page/조재윤.md "wikilink")                                                                                                                       | 유통              |
@@ -241,7 +244,7 @@
 | 크리스텔라                                  | 《플러스마이너스》                                                             | [박소은](../Page/박소은.md "wikilink") [강보라](../Page/강보라_\(성우\).md "wikilink") [김규담](https://ko.wikipedia.org/wiki/김규담 "wikilink") [박인후](https://ko.wikipedia.org/wiki/박인후 "wikilink")                                                                                                                                                                                                                                                              | 배급              |
 | 크리스텔라                                  | 《연애공감》                                                                | [오유진](../Page/오유진.md "wikilink") [강민우](https://ko.wikipedia.org/wiki/강민우 "wikilink") [윤경호](../Page/윤경호.md "wikilink")                                                                                                                                                                                                                                                                                                                         | 배급              |
 | 새벽세시                                   | 《새벽세시 시즌1》                                                            | [선아](https://ko.wikipedia.org/wiki/선아 "wikilink") [한지현](../Page/한지현.md "wikilink") [김동준](https://ko.wikipedia.org/wiki/김동준 "wikilink") [박유리나](https://ko.wikipedia.org/wiki/박유리나 "wikilink")                                                                                                                                                                                                                                                  | 배급              |
-| 새벽세시                                   | 《새벽세시 시즌2》                                                            | [서성혁](https://ko.wikipedia.org/wiki/서성혁 "wikilink") [태미](../Page/태미.md "wikilink") [해영](https://ko.wikipedia.org/wiki/해영 "wikilink") [조민지](https://ko.wikipedia.org/wiki/조민지 "wikilink") [오혀균](https://ko.wikipedia.org/wiki/오혀균 "wikilink") [신재휘](https://ko.wikipedia.org/wiki/신재휘 "wikilink")                                                                                                                                              | 배급              |
+| 새벽세시                                   | 《새벽세시 시즌2》                                                            | [서성혁](https://ko.wikipedia.org/wiki/서성혁 "wikilink") [태미](../Page/태미.md "wikilink") [해영](../Page/해영.md "wikilink") [조민지](https://ko.wikipedia.org/wiki/조민지 "wikilink") [오혀균](https://ko.wikipedia.org/wiki/오혀균 "wikilink") [신재휘](../Page/신재휘.md "wikilink")                                                                                                                                                                                    | 배급              |
 | 드라마숲                                   | 《대나무숲》                                                                | [김이경](https://ko.wikipedia.org/wiki/김이경 "wikilink") [김현명](https://ko.wikipedia.org/wiki/김현명 "wikilink") [권정우](https://ko.wikipedia.org/wiki/권정우 "wikilink") [김아영](../Page/김아영.md "wikilink") [이우주](../Page/이우주.md "wikilink") [문창준](https://ko.wikipedia.org/wiki/문창준 "wikilink") [곽수진](https://ko.wikipedia.org/wiki/곽수진 "wikilink") [박소현](https://ko.wikipedia.org/wiki/박소현 "wikilink") [김민교](https://ko.wikipedia.org/wiki/김민교 "wikilink") | 배급              |
 | YGNC.studio                            | 《우리는 연애를 몰랐다》                                                         | [석재원](https://ko.wikipedia.org/wiki/석재원 "wikilink") [김윤지](https://ko.wikipedia.org/wiki/김윤지 "wikilink") [김예진](https://ko.wikipedia.org/wiki/김예진 "wikilink") [유상준](https://ko.wikipedia.org/wiki/유상준 "wikilink") [김은송](https://ko.wikipedia.org/wiki/김은송 "wikilink") [배서영](https://ko.wikipedia.org/wiki/배서영 "wikilink")                                                                                                                       | 배급              |
 | 지잉찰칵                                   | 《사랑_사실은너랑》                                                           | [강권석](https://ko.wikipedia.org/wiki/강권석 "wikilink") [김가영](https://ko.wikipedia.org/wiki/김가영 "wikilink") [김현명](https://ko.wikipedia.org/wiki/김현명 "wikilink") [정여원](https://ko.wikipedia.org/wiki/정여원 "wikilink") [문용일](../Page/문용일.md "wikilink")                                                                                                                                                                                              | 배급              |
@@ -278,12 +281,12 @@
 
 ## 사무실
 
-  - **미국본사** :
+  - **미국** :
 
 1290 Reamwood Ave. Bldg B, Sunnyvale, CA 94089
 
-  - **한국지사** :
+  - **한국** :
 
 서울특별시 강남구 테헤란로 113
 
-[분류:미국의 연예 기획사](https://ko.wikipedia.org/wiki/분류:미국의_연예_기획사 "wikilink") [12ENTERTAINMENT](https://ko.wikipedia.org/wiki/분류:12ENTERTAINMENT "wikilink") [분류:대한민국의 음반사](https://ko.wikipedia.org/wiki/분류:대한민국의_음반사 "wikilink") [분류:대한민국의 연예 기획사](https://ko.wikipedia.org/wiki/분류:대한민국의_연예_기획사 "wikilink") [분류:2017년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2017년_설립된_기업 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink") [분류:비상장회사](https://ko.wikipedia.org/wiki/분류:비상장회사 "wikilink")
+[분류:미국의 연예 기획사](https://ko.wikipedia.org/wiki/분류:미국의_연예_기획사 "wikilink") [12ENT](https://ko.wikipedia.org/wiki/분류:12ENT "wikilink") [분류:대한민국의 음반사](https://ko.wikipedia.org/wiki/분류:대한민국의_음반사 "wikilink") [분류:대한민국의 연예 기획사](https://ko.wikipedia.org/wiki/분류:대한민국의_연예_기획사 "wikilink") [분류:2017년 설립된 기업](https://ko.wikipedia.org/wiki/분류:2017년_설립된_기업 "wikilink") [분류:서울특별시의 기업](https://ko.wikipedia.org/wiki/분류:서울특별시의_기업 "wikilink") [분류:비상장회사](https://ko.wikipedia.org/wiki/분류:비상장회사 "wikilink")

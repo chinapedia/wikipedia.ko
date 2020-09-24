@@ -53,7 +53,7 @@ AspectWerkz는 [자바용의](../Page/자바_\(프로그래밍_언어\).md "wiki
   - [스프링 AOP](../Page/스프링_프레임워크.md "wikilink") ([스프링 프레임워크의](../Page/스프링_프레임워크.md "wikilink") 일부)
   - [관점 지향 소프트웨어 개발](https://ko.wikipedia.org/wiki/관점_지향_소프트웨어_개발 "wikilink")
 
-## 참고문헌
+## 참고 문헌
 
   -
   -

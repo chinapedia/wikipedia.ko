@@ -15,7 +15,7 @@
 
 ## 차크 성능
 
-[캐나다](../Page/캐나다.md "wikilink")에서 이 싱글은 1973년 12월 22일 [RPM 100](https://ko.wikipedia.org/wiki/RPM_\(잡지\) "wikilink") 국가 싱글 차트에서 1위에 올랐고,\[6\] 1주일 동안 그 자리를 차지해 존의 1973년 세 번째 국가 싱글 차트 1위에 올랐다(〈[Crocodile Rock](../Page/Crocodile_Rock.md "wikilink")〉와 〈[Daniel](https://ko.wikipedia.org/wiki/Daniel_\(노래\) "wikilink")〉에 이어). [미국](../Page/미국.md "wikilink")에서는 7위로 올라 18주 동안 차트에서 보냈다.\[7\] [아일랜드](../Page/아일랜드.md "wikilink")에서, 그것은 4위에 도달했고, [영국](../Page/영국.md "wikilink")에서는 6위로 정점을 찍었다.\[8\]
+[캐나다](../Page/캐나다.md "wikilink")에서 이 싱글은 1973년 12월 22일 [RPM 100](https://ko.wikipedia.org/wiki/RPM_\(잡지\) "wikilink") 국가 싱글 차트에서 1위에 올랐고,\[6\] 1주일 동안 그 자리를 차지해 존의 1973년 세 번째 국가 싱글 차트 1위에 올랐다(〈[Crocodile Rock](../Page/Crocodile_Rock.md "wikilink")〉와 〈[Daniel](../Page/Daniel_\(노래\).md "wikilink")〉에 이어). [미국](../Page/미국.md "wikilink")에서는 7위로 올라 18주 동안 차트에서 보냈다.\[7\] [아일랜드](../Page/아일랜드.md "wikilink")에서, 그것은 4위에 도달했고, [영국](../Page/영국.md "wikilink")에서는 6위로 정점을 찍었다.\[8\]
 
 ## B 사이드
 

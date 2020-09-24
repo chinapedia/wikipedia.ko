@@ -40,7 +40,7 @@
 <td><p><a href="../Page/마르타_비에이라_다_시우바.md" title="wikilink">마르타 비에이라 다 시우바</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td><p><a href="../Page/밀라노.md" title="wikilink">밀라노</a></p></td>
 <td><p><a href="../Page/리오넬_메시.md" title="wikilink">리오넬 메시</a></p></td>
@@ -150,7 +150,7 @@
 <td><p>11.23%</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -257,7 +257,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -392,7 +392,7 @@
 <td><p>11.81%</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -465,7 +465,7 @@
 </tr>
 <tr class="even">
 <td><p>3위</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/멜라니_베링거" title="wikilink">멜라니 베링거</a></p></td>
+<td><p><a href="../Page/멜라니_베링거.md" title="wikilink">멜라니 베링거</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨_(여자_축구).md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td></td>
 <td><p>12.34%</p></td>
@@ -529,7 +529,7 @@
 <td><p>12.60%</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -579,7 +579,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -711,7 +711,7 @@
 <td><p>12.80%</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -783,7 +783,7 @@
 <td><p><strong>백혈병 환자에게 줄기세포를 기증하기 위해 에레디비시 경기에 불참함</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -947,7 +947,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1116,7 +1116,7 @@
 <td><p>7%</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1414,7 +1414,7 @@
  <a href="../Page/유벤투스_FC.md" title="wikilink">유벤투스</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1516,7 +1516,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/2019년_더_베스트_FIFA_풋볼_어워드" title="wikilink">2019년</a></p></td>
+<td><p><a href="../Page/2019년_더_베스트_FIFA_풋볼_어워드.md" title="wikilink">2019년</a></p></td>
 <td></td>
 <td></td>
 </tr>

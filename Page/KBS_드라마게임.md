@@ -1412,7 +1412,7 @@
 <td><p>1월 8일</p></td>
 <td><p>결혼이 아름다운 몇가지 이유</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김현아" title="wikilink">김정난</a>, <a href="../Page/윤다훈.md" title="wikilink">윤다훈</a>, <a href="../Page/오미희.md" title="wikilink">오미희</a>, <a href="../Page/홍륜의.md" title="wikilink">홍륜의</a>,<br />
-<a href="https://ko.wikipedia.org/wiki/조은덕" title="wikilink">조은덕</a>, <a href="https://ko.wikipedia.org/wiki/곽정희" title="wikilink">곽정희</a></p></td>
+<a href="../Page/조은덕.md" title="wikilink">조은덕</a>, <a href="https://ko.wikipedia.org/wiki/곽정희" title="wikilink">곽정희</a></p></td>
 <td><p>조연경</p></td>
 <td><p>전세권</p></td>
 </tr>
@@ -1468,7 +1468,7 @@
 <td></td>
 <td><p>2월 26일</p></td>
 <td><p>불란서 영화처럼</p></td>
-<td><p><a href="../Page/하재영.md" title="wikilink">하재영</a>, <a href="../Page/옥소리.md" title="wikilink">옥소리</a>, <a href="../Page/금보라.md" title="wikilink">금보라</a>, <a href="https://ko.wikipedia.org/wiki/박현" title="wikilink">박현</a>, <a href="https://ko.wikipedia.org/wiki/조은덕" title="wikilink">조은덕</a></p></td>
+<td><p><a href="../Page/하재영.md" title="wikilink">하재영</a>, <a href="../Page/옥소리.md" title="wikilink">옥소리</a>, <a href="../Page/금보라.md" title="wikilink">금보라</a>, <a href="https://ko.wikipedia.org/wiki/박현" title="wikilink">박현</a>, <a href="../Page/조은덕.md" title="wikilink">조은덕</a></p></td>
 <td><p>최호연</p></td>
 <td><p>윤석호</p></td>
 </tr>

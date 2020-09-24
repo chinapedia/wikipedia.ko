@@ -60,7 +60,7 @@ note:   concept 'RandomAccessIterator()' was not satisfied
 
 ## 함수 오버로드 선택
 
-콘셉트는 템플릿 인자의 속성을 기반으로 하여 템플릿 함수 오버로드나 클래스 템플릿 특수화를 선택하는 데 [SFINAE](https://ko.wikipedia.org/wiki/SFINAE "wikilink")와 [tag dispatching](https://ko.wikipedia.org/wiki/tag_dispatching "wikilink") 대신 사용될 수 있다. 만약 인자가 둘 이상의 콘셉트를 만족시키는 경우, 좀 더 제약이 많은 콘셉트와 연관된 오버로드가 선택된다
+콘셉트는 템플릿 인자의 속성을 기반으로 하여 템플릿 함수 오버로드나 클래스 템플릿 특수화를 선택하는 데 [SFINAE](../Page/SFINAE.md "wikilink")와 [tag dispatching](https://ko.wikipedia.org/wiki/tag_dispatching "wikilink") 대신 사용될 수 있다. 만약 인자가 둘 이상의 콘셉트를 만족시키는 경우, 좀 더 제약이 많은 콘셉트와 연관된 오버로드가 선택된다
 
 ## 타입 추론
 

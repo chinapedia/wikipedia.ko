@@ -88,17 +88,17 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>33</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><span style="color:white">A</span></p></td>
-<td><p>결선</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>26</p></td>
 </tr>
 <tr class="odd">
@@ -113,7 +113,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>51</p></td>
 </tr>
 <tr class="even">
@@ -123,58 +123,58 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>32</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>44</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>39</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>52</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>D</p></td>
-<td><p>41</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>35</p></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td><p>D</p></td>
-<td><p>48</p></td>
-</tr>
 <tr class="even">
 <td></td>
-<td><p>D</p></td>
-<td><p>54</p></td>
+<td><p><span style="color:black">D</span></p></td>
+<td><p>48</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p><span style="color:black">D</span></p></td>
+<td><p>54</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td><p><span style="color:white">A</span></p></td>
 <td><p>5</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>43</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><span style="color:white">B</span></p></td>
 <td><p>13</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><span style="color:black">D</span></p></td>
+<td><p>41</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -183,17 +183,17 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>29</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>55</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>27</p></td>
 </tr>
 <tr class="even">
@@ -204,11 +204,11 @@
 <tr class="odd">
 <td></td>
 <td><p><span style="color:white">A</span></p></td>
-<td><p>결선</p></td>
+<td><p>4</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="odd">
@@ -223,12 +223,12 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>38</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>45</p></td>
 </tr>
 <tr class="odd">
@@ -243,22 +243,22 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>46</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>53</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>34</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>37</p></td>
 </tr>
 <tr class="odd">
@@ -278,7 +278,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>30</p></td>
 </tr>
 <tr class="odd">
@@ -289,16 +289,16 @@
 <tr class="even">
 <td></td>
 <td><p><span style="color:white">A</span></p></td>
-<td><p>결선</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>40</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>49</p></td>
 </tr>
 <tr class="odd">
@@ -308,12 +308,12 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>47</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>42</p></td>
 </tr>
 <tr class="even">
@@ -323,7 +323,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>36</p></td>
 </tr>
 <tr class="even">
@@ -333,13 +333,13 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>D</p></td>
+<td><p><span style="color:black">D</span></p></td>
 <td><p>50</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><span style="color:white">A</span></p></td>
-<td><p>결선</p></td>
+<td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -353,12 +353,12 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>28</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>C</p></td>
+<td><p><span style="color:black">C</span></p></td>
 <td><p>31</p></td>
 </tr>
 </tbody>

@@ -75,7 +75,7 @@
 ### 2015년
 
   - この星のHIKARI (작사: 川口進 , 작곡: 川口進 /Dele Ladimeji) - JASRAC 작품 코드: 1H9-9123-8
-  - BE CRAZY (작사: ma-saya, 작곡: [STEVEN LEE](https://ko.wikipedia.org/wiki/스티븐_리_\(음악_프로듀서\) "wikilink")) - JASRAC 작품 코드: 212-8586-1
+  - BE CRAZY (작사: ma-saya, 작곡: [STEVEN LEE](../Page/스티븐_리_\(음악_프로듀서\).md "wikilink")) - JASRAC 작품 코드: 212-8586-1
 
 ### 2016년
 

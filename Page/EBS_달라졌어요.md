@@ -5,7 +5,7 @@
 
 ## 출연진
 
-  - [박성덕](https://ko.wikipedia.org/wiki/박성덕 "wikilink")/[이주은](https://ko.wikipedia.org/wiki/이주은 "wikilink")/[이호선](https://ko.wikipedia.org/wiki/이호선 "wikilink")/[김남용](https://ko.wikipedia.org/wiki/김남용 "wikilink") : 부부 상담 전문가
+  - [박성덕](https://ko.wikipedia.org/wiki/박성덕 "wikilink")/[이주은](../Page/이주은.md "wikilink")/[이호선](https://ko.wikipedia.org/wiki/이호선 "wikilink")/[김남용](https://ko.wikipedia.org/wiki/김남용 "wikilink") : 부부 상담 전문가
   - [최대헌](https://ko.wikipedia.org/wiki/최대헌 "wikilink")/[박희석](https://ko.wikipedia.org/wiki/박희석 "wikilink") : 심리극 전문가
   - [유미](../Page/유미.md "wikilink") : 미술 치료 전문가
   - [길은영](https://ko.wikipedia.org/wiki/길은영 "wikilink") : 심리 상담 전문가

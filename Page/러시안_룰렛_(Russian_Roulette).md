@@ -37,7 +37,7 @@
 
 ## 언론에서의 활용
 
-2019년 싱글 "[짐살라빔 (Zimzalabim)](https://ko.wikipedia.org/wiki/짐살라빔_\(Zimzalabim\) "wikilink")"과 함께, 2020년 [트롤: 월드 투어의](https://ko.wikipedia.org/wiki/트롤:_월드_투어 "wikilink") 댄스 배틀 장면에서 러시안 룰렛이 등장했다. 이 곡은 레드벨벳이 "K-Pop Gang"으로 출연할 때 등장하는 주제가이기도 하다.\[27\]
+2019년 싱글 "[짐살라빔 (Zimzalabim)](../Page/짐살라빔_\(Zimzalabim\).md "wikilink")"과 함께, 2020년 [트롤: 월드 투어의](../Page/트롤:_월드_투어.md "wikilink") 댄스 배틀 장면에서 러시안 룰렛이 등장했다. 이 곡은 레드벨벳이 "K-Pop Gang"으로 출연할 때 등장하는 주제가이기도 하다.\[27\]
 
 ## 각주
 

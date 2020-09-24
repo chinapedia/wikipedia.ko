@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [삼국지 V](https://ko.wikipedia.org/wiki/삼국지_V).
 
 
-《**삼국지 V**》(三國志V)는 [코에이](../Page/코에이.md "wikilink")의 [삼국지](../Page/삼국지_\(비디오_게임_시리즈\).md "wikilink") 시리즈 중 다섯 번째 게임이다. 이 게임은 [MS-DOS](../Page/MS-DOS.md "wikilink"), [세가 새턴](../Page/세가_새턴.md "wikilink"), [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"), [플레이스테이션 포터블용으로](../Page/플레이스테이션_포터블.md "wikilink") 출시되었다. 1996년에 새턴용으로 첫 출시되었다.
+《**삼국지 V**》(三國志V)는 [코에이](../Page/코에이.md "wikilink")의 [삼국지](../Page/삼국지_\(비디오_게임_시리즈\).md "wikilink") 시리즈 중 다섯 번째 게임이다. 이 게임은 [MS-DOS](../Page/MS-DOS.md "wikilink"), [세가 새턴](../Page/세가_새턴.md "wikilink"), [플레이스테이션](../Page/플레이스테이션.md "wikilink"), [플레이스테이션 포터블용으로](../Page/플레이스테이션_포터블.md "wikilink") 출시되었다. 1996년에 새턴용으로 첫 출시되었다.
 
 코에이 코퍼레이션은 이 게임의 영어판을 출시할 계획은 없었으나 미국 지사는 기술적, 게임 플레이 지원 없이 메일 주문을 통해 도스용 게임의 중국어판을 판매하였다.[1](http://www.thecomputershow.com/computershow/previews/romanceofthe3kingdprev.htm) 그 이후로도 스핀오프를 포함하여 삼국지 게임의 영어판은 2008년 [삼국지 XI](https://ko.wikipedia.org/wiki/삼국지_XI "wikilink") 출시 이전까지는 PC 플랫폼용으로 출시되지 않았다.
 

@@ -21,7 +21,7 @@
   - [미디어/엘윈 선](https://ko.wikipedia.org/wiki/미디어/엘윈_선 "wikilink")([Media/Elwyn Line](https://ko.wikipedia.org/wiki/:en:Media/Elwyn_Line "wikilink")): [엘윈에서](https://ko.wikipedia.org/wiki/엘윈_역 "wikilink") 종착. 1986년까지는 [웨스트체스터까지](../Page/웨스트체스터_\(펜실베이니아주\).md "wikilink") 열차가 운행하였다. SEPTA는 2020년까지 엘윈에서 서쪽으로 약 3 마일 (5 km) 떨어져 있는 와와(Wawa)로 가는 서비스를 복원하는 중이다.\[4\]
   - [파올리/손데일 선](https://ko.wikipedia.org/wiki/파올리/손데일_선 "wikilink")([Paoli/Thorndale Line](https://ko.wikipedia.org/wiki/:en:Paoli/Thorndale_Line "wikilink")): [말번과](https://ko.wikipedia.org/wiki/말번_\(펜실베이니아주\) "wikilink") [손데일까에서](https://ko.wikipedia.org/wiki/손데일_\(펜실베이니아주\) "wikilink") 종착. 추가 러시아워 열차는 [브린모어에서](https://ko.wikipedia.org/wiki/브린모어_\(펜실베이니아주\) "wikilink") 종착.
   - [트렌턴 선](https://ko.wikipedia.org/wiki/트렌턴_선_\(SEPTA\) "wikilink")([Trenton Line](https://ko.wikipedia.org/wiki/:en:Trenton_Line_\(SEPTA\) "wikilink")): [트렌턴에서](../Page/트렌턴_\(뉴저지주\).md "wikilink") 종착. 이 노선은 [암트랙](../Page/암트랙.md "wikilink")의 [노스이스트 코리더](../Page/노스이스트_코리더.md "wikilink") 노선과 공유하며, 트렌턴에서 [뉴저지 트랜싯의](../Page/뉴저지_트랜싯.md "wikilink") [노스이스트 코리더 선으로](https://ko.wikipedia.org/wiki/노스이스트_코리더_선 "wikilink") 이어져 [뉴욕으로](https://ko.wikipedia.org/wiki/뉴욕_펜_역 "wikilink") 운행한다.
-  - [윌밍턴/뉴어크 선](https://ko.wikipedia.org/wiki/윌밍턴/뉴어크_선 "wikilink")([Wilmington/Newark Line](https://ko.wikipedia.org/wiki/:en:Wilmington/Newark_Line "wikilink")): [윌밍턴 (델라웨어주)에서](../Page/윌밍턴_\(델라웨어주\).md "wikilink") 종착. 일부 평일 열차는 [뉴어크 (델라웨어주)로](https://ko.wikipedia.org/wiki/뉴어크_\(델라웨어주\) "wikilink") 이어진다. Delaware Department of Transportation (DelDOT)은 델라웨어 서비스에 보조금을 지급한다. 이 노선은 전적으로 암트랙의 노스이스트 코리더 노선과 공유한다.
+  - [윌밍턴/뉴어크 선](https://ko.wikipedia.org/wiki/윌밍턴/뉴어크_선 "wikilink")([Wilmington/Newark Line](https://ko.wikipedia.org/wiki/:en:Wilmington/Newark_Line "wikilink")): [윌밍턴 (델라웨어주)에서](../Page/윌밍턴_\(델라웨어주\).md "wikilink") 종착. 일부 평일 열차는 [뉴어크 (델라웨어주)로](../Page/뉴어크_\(델라웨어주\).md "wikilink") 이어진다. Delaware Department of Transportation (DelDOT)은 델라웨어 서비스에 보조금을 지급한다. 이 노선은 전적으로 암트랙의 노스이스트 코리더 노선과 공유한다.
 
 <!-- end list -->
 
@@ -38,14 +38,14 @@
 
 ## 역
 
-리저널 레일 시스템은 [필라델피아](../Page/필라델피아.md "wikilink") 시내 51개, [몽고메리군](https://ko.wikipedia.org/wiki/몽고메리군_\(펜실베이니아주\) "wikilink") 42개, [델라웨어군](https://ko.wikipedia.org/wiki/델라웨어군_\(펜실베이니아주\) "wikilink") 29개, [벅스 군](https://ko.wikipedia.org/wiki/벅스_군_\(펜실베이니아주\) "wikilink") 16개, [체스터 군](https://ko.wikipedia.org/wiki/체스터_군_\(펜실베이니아주\) "wikilink") 10개, 펜실베이니아 외부 6개로, 총 154개의 역이 운영되고 있다. (2016년 기준), 2003년, 필라델피아에 탑승한 승객은 평일에는 61%의 이용률을 기록했으며, 3개의 센터 시티 역과 템플 대학교 역에서는 45%가 탑승했다.
+리저널 레일 시스템은 [필라델피아](../Page/필라델피아.md "wikilink") 시내 51개, [몽고메리군](https://ko.wikipedia.org/wiki/몽고메리군_\(펜실베이니아주\) "wikilink") 42개, [델라웨어군](../Page/델라웨어군_\(펜실베이니아주\).md "wikilink") 29개, [벅스 군](https://ko.wikipedia.org/wiki/벅스_군_\(펜실베이니아주\) "wikilink") 16개, [체스터 군](https://ko.wikipedia.org/wiki/체스터_군_\(펜실베이니아주\) "wikilink") 10개, 펜실베이니아 외부 6개로, 총 154개의 역이 운영되고 있다. (2016년 기준), 2003년, 필라델피아에 탑승한 승객은 평일에는 61%의 이용률을 기록했으며, 3개의 센터 시티 역과 템플 대학교 역에서는 45%가 탑승했다.
 
 |                                                                     |     |            |            |
 | ------------------------------------------------------------------- | --- | ---------- | ---------- |
 | 시 및 군                                                               | 역수  | 2003년 탑승 수 | 2001년 탑승 수 |
 | [필라델피아](../Page/필라델피아.md "wikilink")                                | 51  | 60 967     | 61 970     |
 | [몽고메리군](https://ko.wikipedia.org/wiki/몽고메리군_\(펜실베이니아주\) "wikilink") | 42  | 17 228     | 18 334     |
-| [델라웨어군](https://ko.wikipedia.org/wiki/델라웨어군_\(펜실베이니아주\) "wikilink") | 29  | 8 310      | 8 745      |
+| [델라웨어군](../Page/델라웨어군_\(펜실베이니아주\).md "wikilink")                    | 29  | 8 310      | 8 745      |
 | [벅스 군](https://ko.wikipedia.org/wiki/벅스_군_\(펜실베이니아주\) "wikilink")   | 16  | 5 332      | 5 845      |
 | [체스터 군](https://ko.wikipedia.org/wiki/체스터_군_\(펜실베이니아주\) "wikilink") | 10  | 5 154      | 5 079      |
 | 펜실베이니아 외부                                                           | 6   | 2 860      | 3 423      |

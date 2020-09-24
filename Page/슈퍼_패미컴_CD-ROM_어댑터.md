@@ -3,7 +3,7 @@
 
 [thumb](https://ko.wikipedia.org/wiki/파일:Superdisc_logo_recreation.png "wikilink") **슈퍼 패미컴 CD-ROM 어댑터**(Super Famicom CD-ROM Adapter)\[1\] 또는 **슈퍼 NES CD-ROM 시스템**(Super NES CD-ROM\[2\]\[3\], 간단히 **SNES-CD**)는 [슈퍼 패미컴](../Page/슈퍼_패미컴.md "wikilink")(슈퍼 닌텐도 엔터테인먼트 시스템, SNES)의 미출시된 [비디오 게임](../Page/비디오_게임.md "wikilink") 주변기기를 가리킨다. 이 애드온은 [카트리지](../Page/롬_카트리지.md "wikilink") 기반 SNES의 기능에 기반하며 이는 **슈퍼 디스크**(Super Disc)라는 이름의 [CD-ROM](../Page/CD-ROM.md "wikilink") 기반 포맷 지원을 추가함으로써 이루어진다.\[4\]\[5\]
 
-SNES-CD 플랫폼은 닌텐도와 소니의 파트너십을 통해 개발되었다. 이 플랫폼은 표준 SNES의 애드온으로서, 또 "플레이스테이션"이라는 소니의 하이브리드 콘솔로서 런칭될 예정이었다. 필립스와의 또다른 파트너십을 통해 평이 일부 좋지 않은 (SNES-CD 대신) [CD-i](../Page/CD-i.md "wikilink") 플랫폼용 닌텐도 테마 게임을 양산했다. 소니는 독자적으로 이후 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")이라는 이름의 콘솔에 개발을 진척해 나갔으며 슈퍼 NES의 카트리지 기반 후계 콘솔 [닌텐도 64의](../Page/닌텐도_64.md "wikilink") 주 경쟁작 역할을 했다.
+SNES-CD 플랫폼은 닌텐도와 소니의 파트너십을 통해 개발되었다. 이 플랫폼은 표준 SNES의 애드온으로서, 또 "플레이스테이션"이라는 소니의 하이브리드 콘솔로서 런칭될 예정이었다. 필립스와의 또다른 파트너십을 통해 평이 일부 좋지 않은 (SNES-CD 대신) [CD-i](../Page/CD-i.md "wikilink") 플랫폼용 닌텐도 테마 게임을 양산했다. 소니는 독자적으로 이후 [플레이스테이션](../Page/플레이스테이션.md "wikilink")이라는 이름의 콘솔에 개발을 진척해 나갔으며 슈퍼 NES의 카트리지 기반 후계 콘솔 [닌텐도 64의](../Page/닌텐도_64.md "wikilink") 주 경쟁작 역할을 했다.
 
 ## 사양
 

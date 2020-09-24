@@ -68,7 +68,7 @@
   - [서기철의 시사본부](../Page/시사본부.md "wikilink") (주말) ([KBS제주 제1라디오](../Page/KBS제주방송총국.md "wikilink"))
   - [정은지의 가요광장](../Page/가요광장.md "wikilink") ([KBS제주 해피FM](../Page/KBS제주방송총국.md "wikilink"))
   - [MBC 정오종합뉴스](../Page/MBC_정오종합뉴스.md "wikilink") ([제주MBC 표준FM](../Page/제주문화방송.md "wikilink"))
-  - [싱글벙글쇼 배기성 허일후입니다](https://ko.wikipedia.org/wiki/싱글벙글쇼 "wikilink") ([제주MBC 표준FM](../Page/제주문화방송.md "wikilink"))
+  - [싱글벙글쇼 배기성 허일후입니다](../Page/싱글벙글쇼.md "wikilink") ([제주MBC 표준FM](../Page/제주문화방송.md "wikilink"))
   - 찬양이 있는 숲길 ([제주CBS 표준FM](../Page/기독교제주방송.md "wikilink"))
 
 ## 같이 보기

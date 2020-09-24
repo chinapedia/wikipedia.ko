@@ -146,7 +146,7 @@
 
 (센터:오구리 유이)
 
-## [AKB48](../Page/AKB48.md "wikilink")/[NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")/[STU48](../Page/STU48.md "wikilink")
+## [AKB48](../Page/AKB48.md "wikilink")/[NGT48](../Page/NGT48.md "wikilink")/[STU48](../Page/STU48.md "wikilink")
 
 [카토 레나](../Page/카토_레나.md "wikilink"), [무카이치 미온](../Page/무카이치_미온.md "wikilink"), [요코야마 유이](../Page/요코야마_유이.md "wikilink"), [코지마 마코](../Page/코지마_마코.md "wikilink"), [코미야마 하루카](../Page/코미야마_하루카.md "wikilink"), [카시와기 유키](../Page/카시와기_유키.md "wikilink"), 쿠보 사토네, [타카하시 쥬리](https://ko.wikipedia.org/wiki/타카하시_쥬리 "wikilink"), [후쿠오카 세이나](../Page/후쿠오카_세이나.md "wikilink"), [오카다 나나](../Page/오카다_나나.md "wikilink"), [무라야마 유이리](../Page/무라야마_유이리.md "wikilink"), 야마우치 미즈키, [오카베 린](../Page/오카베_린.md "wikilink"), [오구리 유이](../Page/오구리_유이.md "wikilink"), [오기노 유카](../Page/오기노_유카.md "wikilink"), [나카이 리카](https://ko.wikipedia.org/wiki/나카이_리카 "wikilink"), [타키노 유미코](https://ko.wikipedia.org/wiki/타키노_유미코 "wikilink")
 
@@ -170,7 +170,7 @@
 
 **AKB48 그룹 센터 시험 선발** (센터:무카이치 미온)
 
-## [AKB48](../Page/AKB48.md "wikilink")/[NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
+## [AKB48](../Page/AKB48.md "wikilink")/[NGT48](../Page/NGT48.md "wikilink")
 
 [이리야마 안나](../Page/이리야마_안나.md "wikilink"), 무카이치 미온, 요코야마 유이, [이와타테 사호](../Page/이와타테_사호.md "wikilink"), 카시와기 유키, [사사키 유카리](../Page/사사키_유카리.md "wikilink"), 후쿠오카 세이나, [카와모토 사야](../Page/카와모토_사야.md "wikilink"), [오다 에리나](../Page/오다_에리나.md "wikilink"), 쿠사카베 아이나, 무라쿠모 후우카
 

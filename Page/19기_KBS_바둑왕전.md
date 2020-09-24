@@ -5,7 +5,55 @@
 
 ## 출전 기사 명단
 
-### 결승전
+## 대진표
+
+### 승자조,패자조
+
+| 승자조                                                                  | 최종 결승전                                                               |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 승자 1회전                                                               | 승자 2회전                                                               |
+| [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1973년\) "wikilink") (大) 六단 | [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1973년\) "wikilink") (大) 六단 |
+| [서봉수](../Page/서봉수.md "wikilink") 九단                                  |                                                                      |
+| [정수현](../Page/정수현.md "wikilink") 九단                                  |                                                                      |
+| [윤현석](https://ko.wikipedia.org/wiki/윤현석_\(바둑_기사\) "wikilink") 六단     | [윤현석](https://ko.wikipedia.org/wiki/윤현석_\(바둑_기사\) "wikilink") 六단     |
+| [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 八단               |                                                                      |
+| [박영찬](https://ko.wikipedia.org/wiki/박영찬_\(바둑_기사\) "wikilink") 二단     |                                                                      |
+| [박지은](../Page/박지은_\(바둑_기사\).md "wikilink") 三단                        | [박지은](../Page/박지은_\(바둑_기사\).md "wikilink") 三단                        |
+| [이동규](../Page/이동규_\(바둑_기사\).md "wikilink") 八단                        |                                                                      |
+| [조훈현](../Page/조훈현.md "wikilink") 九단                                  |                                                                      |
+| [윤성현](https://ko.wikipedia.org/wiki/윤성현_\(바둑_기사\) "wikilink") 七단     | [루이나이웨이](../Page/루이나이웨이.md "wikilink") 九단                            |
+| [루이나이웨이](../Page/루이나이웨이.md "wikilink") 九단                            |                                                                      |
+| [윤혁](https://ko.wikipedia.org/wiki/윤혁_\(바둑_기사\) "wikilink") 二단       |                                                                      |
+| [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                        | [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                        |
+| [나종훈](https://ko.wikipedia.org/wiki/나종훈 "wikilink") 四단               |                                                                      |
+| [유창혁](../Page/유창혁.md "wikilink") 九단                                  |                                                                      |
+| [목진석](../Page/목진석.md "wikilink") 五단                                  | [목진석](../Page/목진석.md "wikilink") 五단                                  |
+| [김주호](https://ko.wikipedia.org/wiki/김주호_\(바둑_기사\) "wikilink") 九단     |                                                                      |
+| [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1975년\) "wikilink")(小) 三단  |                                                                      |
+| [최철한](../Page/최철한.md "wikilink") 三단                                  | [최철한](../Page/최철한.md "wikilink") 三단                                  |
+| [김종준](https://ko.wikipedia.org/wiki/김종준 "wikilink") 四단               |                                                                      |
+| [이창호](../Page/이창호.md "wikilink") 九단                                  |                                                                      |
+| (故)[임선근](../Page/임선근.md "wikilink") 九단                               | (故)[임선근](../Page/임선근.md "wikilink") 九단                               |
+| [김영삼](https://ko.wikipedia.org/wiki/김영삼_\(바둑_기사\) "wikilink") 五단     |                                                                      |
+| [안달훈](https://ko.wikipedia.org/wiki/안달훈 "wikilink") 四단               |                                                                      |
+| 패자조                                                                  |                                                                      |
+| 패자 1회전                                                               | 패자 2회전                                                               |
+| [정수현](../Page/정수현.md "wikilink") 九단                                  | [정수현](../Page/정수현.md "wikilink") 九단                                  |
+| (故)[임선근](../Page/임선근.md "wikilink") 九단                               |                                                                      |
+| [윤혁](https://ko.wikipedia.org/wiki/윤혁_\(바둑_기사\) "wikilink") 二단       |                                                                      |
+| [박영찬](https://ko.wikipedia.org/wiki/박영찬_\(바둑_기사\) "wikilink") 二단     | [최철한](../Page/최철한.md "wikilink") 三단                                  |
+| [최철한](../Page/최철한.md "wikilink") 三단                                  |                                                                      |
+| [유창혁](../Page/유창혁.md "wikilink") 九단                                  |                                                                      |
+| [박지은](../Page/박지은_\(바둑_기사\).md "wikilink") 三단                        |                                                                      |
+| [조훈현](../Page/조훈현.md "wikilink") 九단                                  | [목진석](../Page/목진석.md "wikilink") 五단                                  |
+| [목진석](../Page/목진석.md "wikilink") 五단                                  |                                                                      |
+| [윤현석](https://ko.wikipedia.org/wiki/윤현석_\(바둑_기사\) "wikilink") 六단     |                                                                      |
+| [루이나이웨이](../Page/루이나이웨이.md "wikilink") 九단                            | [루이나이웨이](../Page/루이나이웨이.md "wikilink") 九단                            |
+| [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                        |                                                                      |
+| [윤현석](https://ko.wikipedia.org/wiki/윤현석_\(바둑_기사\) "wikilink") 六단     |                                                                      |
+| [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1975년\) "wikilink")(小) 三단  |                                                                      |
+| [이상훈](https://ko.wikipedia.org/wiki/이상훈_\(1973년\) "wikilink") (大) 六단 |                                                                      |
+|                                                                      |                                                                      |
 
 ## 대국 결과
 
@@ -39,7 +87,7 @@
 | [최철한](../Page/최철한.md "wikilink") 三단                                 | [김종준](https://ko.wikipedia.org/wiki/김종준 "wikilink") 四단           | 178수 백 불계승                                                          |                                                                     |                                               |             |    |
 | 1월 18일                                                              | [윤현석](https://ko.wikipedia.org/wiki/윤현석_\(바둑_기사\) "wikilink") 五단 | [정대상](https://ko.wikipedia.org/wiki/정대상 "wikilink") 八단              | 310수 백 불계승                                                          |                                               |             |    |
 | [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 九단                       | [나종훈](https://ko.wikipedia.org/wiki/나종훈 "wikilink") 四단           | 256수 백 21집반승                                                        |                                                                     |                                               |             |    |
-| 1월 25일                                                              | [임선근](../Page/임선근.md "wikilink") 九단                              | [김영삼](https://ko.wikipedia.org/wiki/김영삼_\(바둑_기사\) "wikilink") 四단    | 162수 백 불계승                                                          |                                               |             |    |
+| 1월 25일                                                              | (故)[임선근](../Page/임선근.md "wikilink") 九단                           | [김영삼](https://ko.wikipedia.org/wiki/김영삼_\(바둑_기사\) "wikilink") 四단    | 162수 백 불계승                                                          |                                               |             |    |
 | 2월 8일                                                               | [루이나이웨이](../Page/루이나이웨이.md "wikilink") 九단                        | [윤성현](https://ko.wikipedia.org/wiki/윤성현_\(바둑_기사\) "wikilink") 六단    | 192수 백 불계승                                                          |                                               |             |    |
 | 승자 2회전                                                              | 이상훈(大) 六단                                                        | 정수현 九단                                                              | 283수 백 3집반승                                                         |                                               |             |    |
 | 2월 22일                                                              | 이창호 九단                                                           | 최철한 三단                                                              | 152수 백 불계승                                                          |                                               |             |    |
@@ -48,11 +96,11 @@
 | 이상훈(小) 三단                                                           | 목진석 五단                                                           | 286수 백 불계승                                                          |                                                                     |                                               |             |    |
 | 3월 22일                                                              | 윤현석 五단                                                           | 박영찬 二단                                                              | 183수 흑 불계승                                                          |                                               |             |    |
 | 윤혁 二단                                                               | 루이나이웨이 九단                                                        | 162수 백 불계승                                                          |                                                                     |                                               |             |    |
-| 4월 12일                                                              | 안달훈 四단                                                           | 임선근 九단                                                              | 289수 백 반집승                                                          |                                               |             |    |
+| 4월 12일                                                              | 안달훈 四단                                                           | (故)임선근 九단                                                           | 289수 백 반집승                                                          |                                               |             |    |
 | 패자 1회전                                                              | 루이나이웨이 九단                                                        | 김수장 九단                                                              | 155수 흑 불계승                                                          |                                               |             |    |
 | 5월 3일                                                               | 최철한 三단                                                           | 박영찬 二단                                                              | 기권승                                                                 |                                               |             |    |
 | 5월 10일                                                              | [목진석](../Page/목진석.md "wikilink") 五단                              | [조훈현](../Page/조훈현.md "wikilink") 九단                                 | 204수 백 불계승                                                          |                                               |             |    |
-| 정수현 九단                                                              | 임선근 九단                                                           | 217수 흑 불계승                                                          |                                                                     |                                               |             |    |
+| 정수현 九단                                                              | (故)임선근 九단                                                        | 217수 흑 불계승                                                          |                                                                     |                                               |             |    |
 | 승자 3회전                                                              | 5월 24일                                                           | 이창호 九단                                                              | 안달훈 四단                                                              | 152수 백 불계승                                    |             |    |
 | 이상훈(小) 三단                                                           | 유창혁 九단                                                           | 288수 백 3집반승                                                         |                                                                     |                                               |             |    |
 | 6월 14일                                                              | 박지은 二단                                                           | 윤혁 二단                                                               | 186수 백 불계승                                                          |                                               |             |    |

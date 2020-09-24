@@ -77,7 +77,7 @@
 <td><p><a href="../Page/별내역.md" title="wikilink">별내</a></p></td>
 <td><p>Byeollae</p></td>
 <td><p>別內</p></td>
-<td><p></br>(예정)</p></td>
+<td><p></br></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -120,7 +120,7 @@
 <br />
 <br />
 <a href="../Page/수도권_광역급행철도_A노선.md" title="wikilink">수도권 광역급행철도 A노선</a> (예정)<br />
-<span style="color: {{한국 철도 노선색|NT|SN}};">■</span> <a href="../Page/신안산선.md" title="wikilink">신안산선</a>(예정)</p></td>
+(예정)</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/중구_(서울특별시).md" title="wikilink">중구</a></p></td>
@@ -140,12 +140,12 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/여의도역" title="wikilink">여의도</a></p></td>
+<td><p><a href="../Page/여의도역.md" title="wikilink">여의도</a></p></td>
 <td><p>Yeouido</p></td>
 <td><p>汝矣島</p></td>
 <td><p><br />
 <br />
-<span style="color: {{한국 철도 노선색|NT|SN}};">■</span> <a href="../Page/신안산선.md" title="wikilink">신안산선</a>(예정)</p></td>
+(예정)</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/영등포구.md" title="wikilink">영등포구</a></p></td>

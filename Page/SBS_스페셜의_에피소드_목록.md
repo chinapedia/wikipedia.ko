@@ -1002,20 +1002,23 @@
 <tr class="odd">
 <td><p>597</p></td>
 <td><p>6월 14일</p></td>
-<td><p>꼬리에 꼬리를 무는 그날 이야기 1부 〈<a href="https://ko.wikipedia.org/wiki/지강헌_사건" title="wikilink">지강헌 사건</a>〉 (<a href="../Page/1988년.md" title="wikilink">1988년</a>)</p></td>
-<td><p><a href="../Page/장성규.md" title="wikilink">장성규</a>, <a href="../Page/장항준.md" title="wikilink">장항준</a>, <a href="../Page/장도연.md" title="wikilink">장도연</a>, <a href="../Page/송은이.md" title="wikilink">송은이</a> 출연[6]</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/꼬리에_꼬리를_무는_그날_이야기" title="wikilink">꼬리에 꼬리를 무는 그날 이야기</a> 1부 〈<a href="https://ko.wikipedia.org/wiki/지강헌_사건" title="wikilink">지강헌 사건</a>〉 (<a href="../Page/1988년.md" title="wikilink">1988년</a>)</p></td>
+<td><p><a href="../Page/장성규.md" title="wikilink">장성규</a>, <a href="../Page/장항준.md" title="wikilink">장항준</a>, <a href="../Page/장도연.md" title="wikilink">장도연</a>, <a href="../Page/송은이.md" title="wikilink">송은이</a> 출연<br />
+파일럿 프로젝트[6]</p></td>
 </tr>
 <tr class="even">
 <td><p>598</p></td>
 <td><p>6월 21일</p></td>
 <td><p>꼬리에 꼬리를 무는 그날 이야기 2부 〈<a href="../Page/박인수_사건.md" title="wikilink">박인수 사건</a>〉 (<a href="../Page/1955년.md" title="wikilink">1955년</a>)</p></td>
-<td><p><a href="../Page/장성규.md" title="wikilink">장성규</a>, <a href="../Page/장항준.md" title="wikilink">장항준</a>, <a href="../Page/장도연.md" title="wikilink">장도연</a> 출연[7]</p></td>
+<td><p><a href="../Page/장성규.md" title="wikilink">장성규</a>, <a href="../Page/장항준.md" title="wikilink">장항준</a>, <a href="../Page/장도연.md" title="wikilink">장도연</a> 출연<br />
+파일럿 프로젝트[7]</p></td>
 </tr>
 <tr class="odd">
 <td><p>599</p></td>
 <td><p>6월 28일</p></td>
 <td><p>꼬리에 꼬리를 무는 그날 이야기 3부 (<a href="../Page/1998년.md" title="wikilink">1998년</a>)</p></td>
-<td><p><a href="../Page/장성규.md" title="wikilink">장성규</a>, <a href="../Page/장항준.md" title="wikilink">장항준</a>, <a href="../Page/장도연.md" title="wikilink">장도연</a>, <a href="../Page/허안나.md" title="wikilink">허안나</a> 출연[8]</p></td>
+<td><p><a href="../Page/장성규.md" title="wikilink">장성규</a>, <a href="../Page/장항준.md" title="wikilink">장항준</a>, <a href="../Page/장도연.md" title="wikilink">장도연</a>, <a href="../Page/허안나.md" title="wikilink">허안나</a> 출연<br />
+파일럿 프로젝트[8]</p></td>
 </tr>
 <tr class="even">
 <td><p>600</p></td>
@@ -1073,13 +1076,25 @@
 </tr>
 <tr class="odd">
 <td><p>609</p></td>
-<td><p>9월 7일</p></td>
+<td><p>9월 6일</p></td>
 <td><p>부린이와 동학개미 요즘것들의 재테크</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>610</p></td>
-<td><p>9월 14일</p></td>
+<td><p>9월 13일</p></td>
+<td><p>툭터놓고 말하는 내아이의 性</p></td>
+<td><p>시청등급 <strong>15세 관람가</strong>로 분류되었음</p></td>
+</tr>
+<tr class="odd">
+<td><p>611</p></td>
+<td><p>9월 20일</p></td>
+<td><p>코로나19 수도권 확산, 우리 회사에 생긴 일</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>612</p></td>
+<td><p>9월 27일</p></td>
 <td></td>
 <td></td>
 </tr>

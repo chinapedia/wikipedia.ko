@@ -5,7 +5,7 @@
 
 ## 기능
 
-IBM PC XT는 원래 128 KB의 램, 360 KB의 양면 [5¼ 인치 플로피 디스크](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") 드라이브, Xebec 1210 Modified Frequency Modulation(MFM) 컨트롤러가 장착된 10 MB의 [시게이트](https://ko.wikipedia.org/wiki/시게이트_테크놀로지 "wikilink") [ST-412](https://ko.wikipedia.org/wiki/ST-506 "wikilink") 하드 드라이브, [비동기](https://ko.wikipedia.org/wiki/비동기_직렬_통신 "wikilink") 어댑터([8250 UART가](https://ko.wikipedia.org/wiki/8250_UART "wikilink") 포함된 [시리얼](../Page/직렬_포트.md "wikilink") 카드), 130 와트 [전원 공급 장치를](../Page/전원_공급_장치_\(컴퓨터\).md "wikilink") 갖추고 있었다. 메인보드는 4.77 [MHz로](../Page/헤르츠.md "wikilink") 구동되는 [인텔 8088](../Page/인텔_8088.md "wikilink") 마이크로프로세서를 채용하였으며, 선택적 [8087](https://ko.wikipedia.org/wiki/인텔_8087 "wikilink") [계산용 보조 프로세서용](../Page/부동_소수점_장치.md "wikilink") 소켓을 포함한다.
+IBM PC XT는 원래 128 KB의 램, 360 KB의 양면 [5¼ 인치 플로피 디스크](https://ko.wikipedia.org/wiki/플로피_디스크 "wikilink") 드라이브, Xebec 1210 Modified Frequency Modulation(MFM) 컨트롤러가 장착된 10 MB의 [시게이트](https://ko.wikipedia.org/wiki/시게이트_테크놀로지 "wikilink") [ST-412](https://ko.wikipedia.org/wiki/ST-506 "wikilink") 하드 드라이브, [비동기](https://ko.wikipedia.org/wiki/비동기_직렬_통신 "wikilink") 어댑터([8250 UART가](https://ko.wikipedia.org/wiki/8250_UART "wikilink") 포함된 [시리얼](../Page/직렬_포트.md "wikilink") 카드), 130 와트 [전원 공급 장치를](../Page/전원_공급_장치_\(컴퓨터\).md "wikilink") 갖추고 있었다. 메인보드는 4.77 [MHz로](../Page/헤르츠.md "wikilink") 구동되는 [인텔 8088](../Page/인텔_8088.md "wikilink") 마이크로프로세서를 채용하였으며, 선택적 [8087](../Page/인텔_8087.md "wikilink") [계산용 보조 프로세서용](../Page/부동_소수점_장치.md "wikilink") 소켓을 포함한다.
 
 ## IBM XT 286
 

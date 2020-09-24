@@ -16,7 +16,7 @@
 
 ### 주요 인물
 
-  - [염정아](../Page/염정아.md "wikilink") : 한서진 역 (아역 : [장성윤](https://ko.wikipedia.org/wiki/장성윤 "wikilink")) - 전업주부. 본명 곽미향
+  - [염정아](../Page/염정아.md "wikilink") : 한서진 역 (아역 : [장성윤](../Page/장성윤.md "wikilink")) - 전업주부. 본명 곽미향
   - [이태란](../Page/이태란.md "wikilink") : 이수임 역 - 동화작가. 곽미향의 고향친구
   - [윤세아](../Page/윤세아.md "wikilink") : 노승혜 역 - 박사과정 수료한 전업주부
   - [오나라](../Page/오나라_\(배우\).md "wikilink") : 진진희 역 - 단역배우 출신 금수저 전업주부
@@ -56,7 +56,7 @@
   - [정애리](../Page/정애리.md "wikilink") : 윤여사 역 - 강준상의 어머니
   - [송민형](../Page/송민형.md "wikilink") : 최인호 역 - 주남대학병원 원장
   - [김정난](../Page/김정난.md "wikilink") : 이명주 역 - 전업주부. 박영재의 어머니
-  - [유성주](https://ko.wikipedia.org/wiki/유성주 "wikilink") : 박수창 역 - 이명주의 남편. 주남대병원 기조실장. 신경외과 과장
+  - [유성주](../Page/유성주.md "wikilink") : 박수창 역 - 이명주의 남편. 주남대병원 기조실장. 신경외과 과장
   - [송건희](../Page/송건희.md "wikilink") : 박영재 역 - 이명주와 박수창의 외아들. 서울의대 합격생
   - 이주연 : 이가을 역 - 식당 종업원. 이명주와 박수창의 집 前 입주 도우미
 
@@ -282,7 +282,7 @@
 </tr>
 <tr class="even">
 <td><p>OST상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하진_(가수)" title="wikilink">하진</a> - We All Lie</p></td>
+<td><p><a href="../Page/하진_(가수).md" title="wikilink">하진</a> - We All Lie</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -306,7 +306,7 @@
 </tr>
 <tr class="odd">
 <td><p>올해의 OST</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/하진_(가수)" title="wikilink">하진</a> - We All Lie</p></td>
+<td><p><a href="../Page/하진_(가수).md" title="wikilink">하진</a> - We All Lie</p></td>
 <td></td>
 <td></td>
 <td></td>

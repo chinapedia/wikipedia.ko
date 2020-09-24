@@ -24,10 +24,10 @@
 ### 해외
 
   - Yultron
-  - Avatar Darko
   - Raz Simone
   - Phe Reds
   - Ted Park
+  - 28AV
 
 ## 디스코그래피
 

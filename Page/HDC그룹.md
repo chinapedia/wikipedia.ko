@@ -28,7 +28,6 @@
   - [2014년](../Page/2014년.md "wikilink") [5월](../Page/5월.md "wikilink"): [볼리비아](../Page/볼리비아.md "wikilink") 바네가스 교량 건설공사 수주
   - [2018년](../Page/2018년.md "wikilink") [5월](../Page/5월.md "wikilink"): HDC와 HDC현대산업개발로 분할, 사명변경
   - [2019년](../Page/2019년.md "wikilink") [8월](../Page/8월.md "wikilink"): 한솔개발주식회사 인수 및 HDC리조트 주식회사로 사명변경
-  - [2019년](../Page/2019년.md "wikilink") [12월](../Page/12월.md "wikilink") : [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink") 및 5개 계열사 인수
 
 ## 계열사
 
@@ -46,15 +45,6 @@
   - [HDC자산운용](https://ko.wikipedia.org/wiki/HDC자산운용 "wikilink")
   - [HDC신라면세점](https://ko.wikipedia.org/wiki/HDC신라면세점 "wikilink")
   - [부동산114](../Page/부동산114.md "wikilink")
-  - [아시아나항공](https://ko.wikipedia.org/wiki/아시아나항공 "wikilink")
-  - [아시아나세이버](https://ko.wikipedia.org/wiki/아시아나세이버 "wikilink")
-  - [에어부산](../Page/에어부산.md "wikilink")
-  - [에어서울](../Page/에어서울.md "wikilink")
-  - [아시아나IDT](https://ko.wikipedia.org/wiki/아시아나IDT "wikilink")
-  - [아시아나에어포트](../Page/아시아나에어포트.md "wikilink")
-  - [금호리조트](../Page/금호리조트.md "wikilink")
-  - HDC리조트
-  - 아시아나개발
 
 ## 각주
 

@@ -9,6 +9,8 @@
 
 [2018년](../Page/2018년.md "wikilink") [8월 10일부터](../Page/8월_10일.md "wikilink") [9월 9일까지](../Page/9월_9일.md "wikilink") 1기생 오디션 모집해\[3\], [11월 11일](../Page/11월_11일.md "wikilink"), 최종 심사에 행해젔고, [11월 17일에](../Page/11월_17일.md "wikilink") 호치민 시의 뉴월드 사이공 호텔에서 기자회견을 개최해, 1기생 29명이 피로연하였다\[4\]\[5\]\[6\].
 
+총캡틴:**버판낌카인**
+
 ## 멤버
 
 ### 1기생
@@ -31,7 +33,7 @@
   - 레 써니 (Lê Sunny) / Sunny 써니
   - 레 만 응이 (Lê Mẫn Nghi) / Mẫn Nghi 만 응이
   - 응우옌 레 응업 안 상 (Nguyễn Lê Ngọc Ánh Sáng) / Ánh Sáng 안상 - 최연소
-  - **버 판 낌 칸 (Võ Phan Kim Khánh) / Kaycee 케이시** - SGO48 캡틴
+  - **버판낌카인** (Võ Phan Kim Khánh) / Kaycee 케이시''' - SGO48 캡틴
   - 응우옌 쯔엉 뜨응 비 (Nguyễn Trương Tường Vy) / Janie
   - 브엉 마이 링 (Vương Mai Linh) / Linh Mai 링 마이- 최연장자
   - 응우옌 호 쭘 즈엉 (Nguyễn Hồ Trùng Dương) / Trùng Dương 쭘 이으엉
@@ -85,6 +87,15 @@
 </tbody>
 </table>
 
+### 뮤직 비디오
+
+| 년                                           | 타이틀 곡                    | MV 감독       | 참고 |
+| ------------------------------------------- | ------------------------ | ----------- | -- |
+| 2019                                        | Heavy Rotation           | 김신욱         |    |
+| Koisuru Fortune Cookie (That Tinh Tich Cuc) | Vo Thanh Hoa, Do Vu      |             |    |
+| 2020                                        | Shonichi (Ngay Dau Tien) | To Buu Phat |    |
+| RIVER                                       | TBA                      |             |    |
+
 ## 관련 항목
 
   - 일본 자매 그룹
@@ -95,7 +106,7 @@
   - [SKE48](../Page/SKE48.md "wikilink")
   - [NMB48](../Page/NMB48.md "wikilink")
   - [HKT48](../Page/HKT48.md "wikilink")
-  - [NGT48](https://ko.wikipedia.org/wiki/NGT48 "wikilink")
+  - [NGT48](../Page/NGT48.md "wikilink")
   - [STU48](../Page/STU48.md "wikilink")
 
 <!-- end list -->

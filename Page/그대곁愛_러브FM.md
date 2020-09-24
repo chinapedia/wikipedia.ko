@@ -34,4 +34,4 @@
 
   - [그대곁愛 러브FM 홈페이지](http://www.knn.co.kr/category/radio/love-fm/togetherlovefm)
 
-[분류:KNN 러브FM의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:KNN_러브FM의_라디오_프로그램 "wikilink") [분류:SBS 네트워크 협정 지역 민영 방송국](https://ko.wikipedia.org/wiki/분류:SBS_네트워크_협정_지역_민영_방송국 "wikilink")
+[분류:KNN 러브FM의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:KNN_러브FM의_라디오_프로그램 "wikilink")

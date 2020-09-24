@@ -5,7 +5,7 @@
 
 **Google Authenticator**는 [시간 기반 일회용 비밀번호 알고리즘](https://ko.wikipedia.org/wiki/시간_기반_일회용_비밀번호_알고리즘 "wikilink")(TOTP)와 [HMAC 기반 일회용 비밀번호 알고리즘](https://ko.wikipedia.org/wiki/HMAC_기반_일회용_비밀번호_알고리즘 "wikilink")(HOTP)를 사용하여 [다요소 인증](../Page/다요소_인증.md "wikilink") 서비스를 구현하는 [소프트웨어 토큰의](https://ko.wikipedia.org/wiki/소프트웨어_토큰 "wikilink") 하나로, [구글](../Page/구글.md "wikilink")의 모바일 애플리케이션 사용자들을 인증하기 위해 사용된다. 이 서비스는 RFC 6238, RFC 4226에 규정된 알고리즘을 구현한다.\[1\]
 
-Authenticator는 사용자 이름과 비밀번호 외에 지정해야 하는 6\~8자리의 [일회용 비밀번호를](../Page/일회용_비밀번호.md "wikilink") 제공하며 이를 통해 구글 서비스와 다른 사이트에 로그인할 수 있다. 이 Authenticator는 [패스워드 매니저나](https://ko.wikipedia.org/wiki/패스워드_매니저 "wikilink") [파일 호스팅 서비스와](https://ko.wikipedia.org/wiki/파일_호스팅_서비스 "wikilink") 같은 타사 애플리케이션에 대한 코드를 생성할 수 있다. 이전 버전의 소프트웨어는 [오픈 소스였으나](../Page/오픈_소스_소프트웨어.md "wikilink") 이후 릴리스는 [사유이다](https://ko.wikipedia.org/wiki/사유_소프트웨어 "wikilink").\[2\]
+Authenticator는 사용자 이름과 비밀번호 외에 지정해야 하는 6\~8자리의 [일회용 비밀번호를](../Page/일회용_비밀번호.md "wikilink") 제공하며 이를 통해 구글 서비스와 다른 사이트에 로그인할 수 있다. 이 Authenticator는 [패스워드 매니저나](https://ko.wikipedia.org/wiki/패스워드_매니저 "wikilink") [파일 호스팅 서비스와](https://ko.wikipedia.org/wiki/파일_호스팅_서비스 "wikilink") 같은 타사 애플리케이션에 대한 코드를 생성할 수 있다. 이전 버전의 소프트웨어는 [오픈 소스였으나](../Page/오픈_소스_소프트웨어.md "wikilink") 이후 릴리스는 [사유이다](../Page/사유_소프트웨어.md "wikilink").\[2\]
 
 한국어 애플 앱 스토어에서는 "Google Authenticator"라는 소프트웨어 제목을 유지하며 한국어 플레이스토어에서는 "Google OTP"라는 이름이 사용된다.
 

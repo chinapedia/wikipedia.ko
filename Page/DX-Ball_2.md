@@ -11,7 +11,7 @@
 
 Seumas McNally가 프로그래밍한 DX-Ball 2는 1998년 12월 16일에 첫 출시되었다.\[1\]
 
-게임의 그래픽은 [닌텐도 64와](../Page/닌텐도_64.md "wikilink") [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")의 것과 동등한 것으로 기술되고 있다.
+게임의 그래픽은 [닌텐도 64와](../Page/닌텐도_64.md "wikilink") [플레이스테이션](../Page/플레이스테이션.md "wikilink")의 것과 동등한 것으로 기술되고 있다.
 
 ## 음악
 

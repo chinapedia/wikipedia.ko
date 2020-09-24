@@ -11,7 +11,7 @@
   - [TBN 차차차](../Page/TBN_차차차_\(대구\).md "wikilink") ([TBN 대구교통방송](../Page/대구교통방송.md "wikilink"))
   - 한낮의 휴식, 장수연입니다 ([BBS 대구불교방송](../Page/대구불교방송.md "wikilink"))
   - [대구cpbc 정오종합뉴스](https://ko.wikipedia.org/wiki/cpbc_정오종합뉴스 "wikilink") ([cpbc 대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink"))
-  - [신부님 신부님 우리 신부님](https://ko.wikipedia.org/wiki/신부님_신부님_우리_신부님 "wikilink") (평일) ([cpbc 대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink"))
+  - [신부님 신부님 우리 신부님](../Page/신부님_신부님_우리_신부님.md "wikilink") (평일) ([cpbc 대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink"))
   - 아름다운 사랑 아름다운 나눔 (주말) ([cpbc 대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink"))
   - 토요특집 "신부들의 수다" (토요일) ([cpbc 대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink"))
   - 윤원진 신부의 위대한 성인들 (일요일) ([cpbc 대구가톨릭평화방송](../Page/대구가톨릭평화방송.md "wikilink"))
@@ -22,7 +22,7 @@
   - [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") ([KBS안동 제1라디오](../Page/KBS안동방송국.md "wikilink"))
   - [오태훈의 시사본부](../Page/시사본부.md "wikilink") (평일) ([KBS안동 제1라디오](../Page/KBS안동방송국.md "wikilink"))
   - [서기철의 시사본부](../Page/시사본부.md "wikilink") (주말) ([KBS안동 제1라디오](../Page/KBS안동방송국.md "wikilink"))
-  - [강석, 김혜영의 싱글벙글쇼](https://ko.wikipedia.org/wiki/싱글벙글쇼 "wikilink") ([안동MBC 표준FM](../Page/안동문화방송.md "wikilink"))
+  - [강석, 김혜영의 싱글벙글쇼](../Page/싱글벙글쇼.md "wikilink") ([안동MBC 표준FM](../Page/안동문화방송.md "wikilink"))
   - [12시N 가스펠, 김나영입니다](https://ko.wikipedia.org/wiki/12시N_가스펠,_김나영입니다 "wikilink") ([대구CBS 표준FM](../Page/기독교대구방송.md "wikilink"))
 
 ## 같이 보기

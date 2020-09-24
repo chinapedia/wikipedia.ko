@@ -59,7 +59,7 @@ RISC-V 명령어 중 최소한의 필수적인 집합은 정수 명령어 집합
 
 [임베디드 시스템용](../Page/임베디드_시스템.md "wikilink") 소형 32비트 컴퓨터는 "RV32EC"일 수 있다. 대형 64비트 컴퓨터는 "RV64G"일 수 있다.\[26\]
 
-하위 집합은 128비트 컴퓨터, 비트 조작("B"), 10진 [부동소수점](../Page/부동소수점.md "wikilink")("L"), Packed [SIMD](https://ko.wikipedia.org/wiki/SIMD "wikilink")(예: budget multimedia, "P"), 벡터 처리("V"), 트랜잭셔널 메모리("T")도 계획되어 있다.\[27\]
+하위 집합은 128비트 컴퓨터, 비트 조작("B"), 10진 [부동소수점](../Page/부동소수점.md "wikilink")("L"), Packed [SIMD](../Page/SIMD.md "wikilink")(예: budget multimedia, "P"), 벡터 처리("V"), 트랜잭셔널 메모리("T")도 계획되어 있다.\[27\]
 
 ## 같이 보기
 
