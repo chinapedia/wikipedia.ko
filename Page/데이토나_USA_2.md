@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [데이토나 USA 2](https://ko.wikipedia.org/wiki/데이토나_USA_2).
 
 
-《**데이토나 USA 2**》(Daytona USA 2)는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")의 자회사인 [세가 AM2가](https://ko.wikipedia.org/wiki/세가_AM2 "wikilink") 개발한 [데이토나 USA의](../Page/데이토나_USA.md "wikilink") 후속작이며, [1998년](../Page/1998년.md "wikilink")에 출시된 [오락실](../Page/아케이드_게임.md "wikilink") 전용 [레이싱 게임이다](https://ko.wikipedia.org/wiki/경주_게임 "wikilink"). 전작과 달리, MODEL3 기판을 사용하여 그래픽이 더욱 강화되었다.
+《**데이토나 USA 2**》(Daytona USA 2)는 [세가](../Page/세가.md "wikilink")의 자회사인 [세가 AM2가](https://ko.wikipedia.org/wiki/세가_AM2 "wikilink") 개발한 [데이토나 USA의](../Page/데이토나_USA.md "wikilink") 후속작이며, [1998년](../Page/1998년.md "wikilink")에 출시된 [오락실](../Page/아케이드_게임.md "wikilink") 전용 [레이싱 게임이다](https://ko.wikipedia.org/wiki/경주_게임 "wikilink"). 전작과 달리, MODEL3 기판을 사용하여 그래픽이 더욱 강화되었다.
 
 ## 버전
 
@@ -42,7 +42,7 @@
 
 참고 : 배틀 온 더 엣지의 경우 마지막 턴에 [게임워크스](https://ko.wikipedia.org/wiki/게임워크스 "wikilink") 광고판이 나왔지만, 파워 에디션의 경우에는 어떤 이유에서인지 이 광고판이 철거되었다.
 
-이 코스는 [일본](../Page/일본.md "wikilink")의 놀이공원명인 [조이폴리스](https://ko.wikipedia.org/wiki/조이폴리스 "wikilink")를 따서 놀이공원을 테마로 한다. 따라서 경주를 하다 보면 바이킹, 회전형 로켓 기구, 성, 유령의 집, 그리고 얼음산을 모형으로 설치된 [롤러코스터](https://ko.wikipedia.org/wiki/롤러코스터 "wikilink")를 볼 수 있다. 이 게임의 코스중에서 유일하게 변경되지 않은 코스이기도 하다.
+이 코스는 [일본](../Page/일본.md "wikilink")의 놀이공원명인 [조이폴리스](https://ko.wikipedia.org/wiki/조이폴리스 "wikilink")를 따서 놀이공원을 테마로 한다. 따라서 경주를 하다 보면 바이킹, 회전형 로켓 기구, 성, 유령의 집, 그리고 얼음산을 모형으로 설치된 [롤러코스터](../Page/롤러코스터.md "wikilink")를 볼 수 있다. 이 게임의 코스중에서 유일하게 변경되지 않은 코스이기도 하다.
 
 ### 상급 - 버추어 시티/뉴 조크 시티(Virtua City/New Joke City)
 

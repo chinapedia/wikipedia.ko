@@ -254,7 +254,7 @@
   - [류덕환](../Page/류덕환.md "wikilink"), [원더걸스](../Page/원더걸스.md "wikilink") – 신인상 남자부문 시상
   - [변진섭](../Page/변진섭.md "wikilink"), [백지영](../Page/백지영.md "wikilink") – 발라드 알앤비 음악상 시상
   - [박주만](https://ko.wikipedia.org/wiki/박주만 "wikilink"), [진재영](../Page/진재영.md "wikilink") – 옥션 네티즌 인기상 시상
-  - [김현수](../Page/김현수_\(1988년\).md "wikilink"), [홍수아](https://ko.wikipedia.org/wiki/홍수아 "wikilink") – 댄스 음악상 시상
+  - [김현수](../Page/김현수_\(1988년\).md "wikilink"), [홍수아](../Page/홍수아.md "wikilink") – 댄스 음악상 시상
   - [황성철](../Page/황성철.md "wikilink"), [안혜경](../Page/안혜경.md "wikilink") – KFC OST상 시상, [SG 워너비](../Page/SG_워너비.md "wikilink") 일본 현장 공연 소개(안혜경만)
   - [클론](../Page/클론_\(음악_그룹\).md "wikilink") – 2부 오프닝
   - [김신영](../Page/김신영.md "wikilink") – 하우스&일렉트로닉 음악상 시상

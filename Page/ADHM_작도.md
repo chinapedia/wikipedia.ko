@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ADHM 작도](https://ko.wikipedia.org/wiki/ADHM_작도).
 
 
-[수리물리학](https://ko.wikipedia.org/wiki/수리물리학 "wikilink")에서, **ADHM 작도**(ADHM作圖, )는 [선형대수학](../Page/선형대수학.md "wikilink")만을 사용하여 4차원 유클리드 공간의 [양-밀스 순간자들을](../Page/양-밀스_순간자.md "wikilink") 작도하는 방법이다.
+[수리물리학](../Page/수리물리학.md "wikilink")에서, **ADHM 작도**(ADHM作圖, )는 [선형대수학](../Page/선형대수학.md "wikilink")만을 사용하여 4차원 유클리드 공간의 [양-밀스 순간자들을](../Page/양-밀스_순간자.md "wikilink") 작도하는 방법이다.
 
 ## 전개
 

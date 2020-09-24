@@ -7,7 +7,7 @@
 
 ## 배경
 
-독일의 [극작가](../Page/극작가.md "wikilink") [프랑크 베데킨트의](https://ko.wikipedia.org/wiki/프랑크_베데킨트 "wikilink") [오페라](../Page/오페라.md "wikilink") 작품 《[룰루](../Page/룰루_\(오페라\).md "wikilink")》를 배경으로 하고 있으며, ‘Lulu’는 극에 등장하는 여자 주인공 이름이다.
+독일의 [극작가](../Page/극작가.md "wikilink") [프랑크 베데킨트의](../Page/프랑크_베데킨트.md "wikilink") [오페라](../Page/오페라.md "wikilink") 작품 《[룰루](../Page/룰루_\(오페라\).md "wikilink")》를 배경으로 하고 있으며, ‘Lulu’는 극에 등장하는 여자 주인공 이름이다.
 
 ## 싱글 발매
 

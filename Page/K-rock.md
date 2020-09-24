@@ -40,7 +40,7 @@
   - [Brunch](https://ko.wikipedia.org/wiki/Brunch "wikilink")
   - [불독맨션](../Page/불독맨션.md "wikilink")
   - [버스커 버스커](../Page/버스커_버스커.md "wikilink")
-  - [버스터즈](https://ko.wikipedia.org/wiki/버스터즈 "wikilink")
+  - [버스터즈](../Page/버스터즈.md "wikilink")
   - [체리필터](../Page/체리필터.md "wikilink")
   - [씨엔블루](../Page/씨엔블루.md "wikilink")
   - [크랙샷(Crackshot)](https://ko.wikipedia.org/wiki/크랙샷\(Crackshot\) "wikilink")

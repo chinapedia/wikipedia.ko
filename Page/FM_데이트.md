@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FM 데이트](https://ko.wikipedia.org/wiki/FM_데이트).
 
 
-《**FM 데이트**》는 [대한민국](../Page/대한민국.md "wikilink")의 방송국인 [문화방송](../Page/문화방송.md "wikilink")의 라디오 채널 [MBC FM4U에서](../Page/MBC_FM4U.md "wikilink") 1992년부터 1999년, 2013년부터 2018년까지 오후 8시 \~ 10시 사이에 방송되었던 라디오 프로그램이다. 배우 [정유미가](../Page/정유미_\(1984년\).md "wikilink") 마지막으로 진행했으며, [2018년](../Page/2018년.md "wikilink") [4월 8일에](../Page/4월_8일.md "wikilink") 폐지되었다. 평일에는 보통 생방송으로 진행되며, 주말에는 보통 녹음방송으로 진행한다.
+《**FM 데이트**》는 [대한민국](../Page/대한민국.md "wikilink")의 방송국인 [문화방송](../Page/문화방송.md "wikilink")의 라디오 채널 [MBC FM4U에서](../Page/MBC_FM4U.md "wikilink") 1992년부터 1999년, 2013년부터 2018년까지 오후 8시 \~ 10시 사이에 방송되었던 라디오 프로그램이다. 배우 [정유미가](../Page/정유미_\(1984년\).md "wikilink") 마지막으로 진행했으며, [2018년](../Page/2018년.md "wikilink") [4월 8일에](../Page/4월_8일.md "wikilink") 폐지되었다. 평일에는 보통 생방송으로 진행되었으며, 주말에는 보통 녹음방송으로 진행되었다.
 
 ## 프로그램 역사
 

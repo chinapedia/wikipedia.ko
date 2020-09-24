@@ -444,7 +444,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/텍사스_와일드캐터스.md" title="wikilink">텍사스 와일드캐터스</a></p></td>
-<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="https://ko.wikipedia.org/wiki/보몬트_(텍사스주)" title="wikilink">보몬트</a></p></td>
+<td><p><a href="../Page/텍사스주.md" title="wikilink">텍사스주</a> <a href="../Page/보몬트_(텍사스주).md" title="wikilink">보몬트</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/포드_아레나" title="wikilink">포드 아레나</a></p></td>
 <td><p>8,200명</p></td>
 <td><p>2003년~2008년</p></td>

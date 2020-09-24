@@ -108,7 +108,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/배틀필드_(시리즈)" title="wikilink">배틀필드 시리즈</a></p></td>
 <td><p>2005년 6월 21일</p></td>
 <td><p>팀 기반 1인칭 슈팅 게임</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/EA_디지털_일루션스_CE" title="wikilink">EA 디지털 일루션스 CE</a> (DICE)</p></td>
+<td><p><a href="../Page/EA_디지털_일루션스_CE.md" title="wikilink">EA 디지털 일루션스 CE</a> (DICE)</p></td>
 <td><p><a href="../Page/일렉트로닉_아츠.md" title="wikilink">일렉트로닉 아츠</a></p></td>
 </tr>
 <tr class="odd">

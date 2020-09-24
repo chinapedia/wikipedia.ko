@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UAE 군사훈련협력단](https://ko.wikipedia.org/wiki/UAE_군사훈련협력단).
 
 
-**UAE 군사훈련협력단**() 혹은 **아크 부대**()는 [대한민국](../Page/대한민국.md "wikilink")의 [특수 작전](https://ko.wikipedia.org/wiki/특수_작전 "wikilink") 교육 및 훈련 [파견대](https://ko.wikipedia.org/wiki/파견대 "wikilink")이다. 표어는 "세계최강 특전용사\! 하나되어 임무완수\!"이다.
+**UAE 군사훈련협력단**() 혹은 **아크 부대**()는 [대한민국](../Page/대한민국.md "wikilink")의 [특수 작전](../Page/특수_작전.md "wikilink") 교육 및 훈련 [파견대](https://ko.wikipedia.org/wiki/파견대 "wikilink")이다. 표어는 "세계최강 특전용사\! 하나되어 임무완수\!"이다.
 
 이 부대는 [육군의](../Page/대한민국_육군.md "wikilink") [특수전사령부에](https://ko.wikipedia.org/wiki/대한민국_육군_특수전사령부 "wikilink") 소속되어 [합동참모본부의](../Page/대한민국_합동참모본부.md "wikilink") 지휘통제를 받으며, [아랍에미리트 연방군](https://ko.wikipedia.org/wiki/:en:Union_Defence_Force_\(UAE\) "wikilink")(UDF)과의 국방 협력과 아랍에미리트에 거주하고 있는 한국인을 보호하는 임무를 맡고 있다.
 

@@ -74,6 +74,12 @@
 <small>(0 - 2)</small></p></td>
 <td><p><strong><a href="../Page/부산_아이파크.md" title="wikilink">부산 아이파크</a></strong></p></td>
 </tr>
+<tr class="even">
+<td><p>2020</p></td>
+<td><p>시행하지 않음[2]</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -86,3 +92,4 @@
 [분류:K리그 승강 플레이오프](https://ko.wikipedia.org/wiki/분류:K리그_승강_플레이오프 "wikilink") [분류:2013년 설립](https://ko.wikipedia.org/wiki/분류:2013년_설립 "wikilink")
 
 1.  [원정 다득점 원칙에](../Page/원정_다득점_원칙.md "wikilink") 의해 강원이 승격
+2.  [상주 상무가](../Page/상주_상무_축구단.md "wikilink") 해체 후 [김천 상무로](../Page/김천_상무_축구단.md "wikilink") 재창단하여 자동 강등 팀이 2팀이 됨으로써 승강 플레이오프는 치러지지 않는다. 이에 따라 승격 플레이오프 승자는 자동으로 승격한다.

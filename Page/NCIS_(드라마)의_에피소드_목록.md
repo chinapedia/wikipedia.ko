@@ -297,7 +297,7 @@
   - E13 - Hit and Run ([2013년](../Page/2013년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink") 방영)
   - E14 - Canary ([2013년](../Page/2013년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") 방영)
   - E15 - Hereafter ([2013년](../Page/2013년.md "wikilink") [2월 19일](../Page/2월_19일.md "wikilink") 방영)
-  - E16 - Detour ([2013년](../Page/2013년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 방영)
+  - E16 - Detour ([2013년](../Page/2013년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") 방영)
   - E17 - Prime Suspect ([2013년](../Page/2013년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink") 방영)
   - E18 - Seek ([2013년](../Page/2013년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") 방영)
   - E19 - Squall ([2013년](../Page/2013년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink") 방영)

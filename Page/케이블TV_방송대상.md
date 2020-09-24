@@ -163,7 +163,7 @@ GO! 슈퍼코리안2 (CJ미디어(현 <a href="../Page/CJ_ENM.md" title="wikilin
 <tr class="even">
 <td><p>올해의 작품상 버라이어티 부문</p></td>
 <td><p><a href="../Page/롤러코스터_(텔레비전_프로그램).md" title="wikilink">롤러코스터</a> (<a href="https://ko.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>)<br />
-<a href="../Page/소녀시대의_헬로_베이비.md" title="wikilink">소녀시대의 헬로 베이비</a> (<a href="https://ko.wikipedia.org/wiki/KBS_N" title="wikilink">KBS N</a>)</p></td>
+<a href="../Page/소녀시대의_헬로_베이비.md" title="wikilink">소녀시대의 헬로 베이비</a> (<a href="../Page/KBS_N.md" title="wikilink">KBS N</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>올해의 작품상 드라마/시트콤 부문</p></td>
@@ -288,7 +288,7 @@ GO! 슈퍼코리안2 (CJ미디어(현 <a href="../Page/CJ_ENM.md" title="wikilin
 </tr>
 <tr class="even">
 <td><p>PP작품상 교양/다큐</p></td>
-<td><p>다큐멘터리 '서해5도2011, 경계에서' (<a href="https://ko.wikipedia.org/wiki/KBS_N" title="wikilink">KBS N</a>)<br />
+<td><p>다큐멘터리 '서해5도2011, 경계에서' (<a href="../Page/KBS_N.md" title="wikilink">KBS N</a>)<br />
 3D 다큐멘터리 '왕궁' (씨엔엔터테인먼트)</p></td>
 </tr>
 <tr class="odd">

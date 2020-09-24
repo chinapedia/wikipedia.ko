@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [레볼루션 X](https://ko.wikipedia.org/wiki/레볼루션_X).
 
 
-《**레볼루션 X**》(Revolution X)는 [1994년](../Page/1994년.md "wikilink")에 [미드웨이](https://ko.wikipedia.org/wiki/미드웨이 "wikilink")가 개발, 발매된 [아케이드](../Page/아케이드_게임.md "wikilink") 건 슈팅 게임이다. 사용 기판은 미드웨이 X 시스템이며, 특이하게도 유명 밴드인 [에어로스미스](../Page/에어로스미스.md "wikilink")가 등장하였다. 폭탄 버튼을 누르면 폭발성 디스크가 나오는 특징이다. 이 게임의 기계는 3인용과 2인용 모두 존재한다. 아케이드 발매 이후 [슈퍼 패미컴](../Page/슈퍼_패미컴.md "wikilink"), [메가드라이브](https://ko.wikipedia.org/wiki/메가드라이브 "wikilink"), [도스](../Page/도스.md "wikilink"), [세가 새턴](../Page/세가_새턴.md "wikilink"), [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")으로도 이식되었다.
+《**레볼루션 X**》(Revolution X)는 [1994년](../Page/1994년.md "wikilink")에 [미드웨이](https://ko.wikipedia.org/wiki/미드웨이 "wikilink")가 개발, 발매된 [아케이드](../Page/아케이드_게임.md "wikilink") 건 슈팅 게임이다. 사용 기판은 미드웨이 X 시스템이며, 특이하게도 유명 밴드인 [에어로스미스](../Page/에어로스미스.md "wikilink")가 등장하였다. 폭탄 버튼을 누르면 폭발성 디스크가 나오는 특징이다. 이 게임의 기계는 3인용과 2인용 모두 존재한다. 아케이드 발매 이후 [슈퍼 패미컴](../Page/슈퍼_패미컴.md "wikilink"), [메가드라이브](https://ko.wikipedia.org/wiki/메가드라이브 "wikilink"), [도스](../Page/도스.md "wikilink"), [세가 새턴](../Page/세가_새턴.md "wikilink"), [플레이스테이션](../Page/플레이스테이션.md "wikilink")으로도 이식되었다.
 
 ## 줄거리
 

@@ -8,8 +8,8 @@
 | 기종                                                                  | 대수                           | 승객 | 비고  |
 | ------------------------------------------------------------------- | ---------------------------- | -- | --- |
 | <abbr title=Business>J</abbr>                                       | <abbr title=Economy>Y</abbr> | 합계 |     |
-| [에어버스 A310-300](../Page/에어버스_A310.md "wikilink")                    | 4                            | 18 | 204 |
-| [에어버스 A320-200](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink") | 5                            | 12 | 149 |
+| [에어버스 A321-253N](../Page/에어버스_A321.md "wikilink")                   | 4                            | 16 | 170 |
+| [에어버스 A320-200](https://ko.wikipedia.org/wiki/에어버스_A320 "wikilink") | 3                            | 12 | 149 |
 
 **SATA 인테르나시오날의 보유 기종**
 

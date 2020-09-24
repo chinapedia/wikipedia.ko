@@ -35,9 +35,9 @@
 
 [thumb](https://ko.wikipedia.org/wiki/파일:ORF_Interviw_in_Wien_16.04.2009.jpg "wikilink")
 
-  - [ORF 1](https://ko.wikipedia.org/wiki/ORF_1 "wikilink") : [1955년](../Page/1955년.md "wikilink") 개국한 드라마, 영화, 오락 중심의 종합 편성 채널.
+  - [ORF 1](https://ko.wikipedia.org/wiki/ORF_1 "wikilink") : [1955년](../Page/1955년.md "wikilink") 개국한 드라마, 영화, 오락 중심의 종합 편성 채널. 1992년까지 FS1, 2011년부터 2019년까지 ORF eins로 방송했다.
   - [ORF 1 HD](https://ko.wikipedia.org/wiki/ORF1 "wikilink") : ORF 1의 HD 방송.
-  - [ORF2](https://ko.wikipedia.org/wiki/ORF2 "wikilink") : [1961년](../Page/1961년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") 개국한 문화, 보도 중심의 종합 편성 채널. 일부 지역 자체 방송도 실시한다.
+  - [ORF2](https://ko.wikipedia.org/wiki/ORF2 "wikilink") : [1961년](../Page/1961년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") 개국한 문화, 보도 중심의 종합 편성 채널. 일부 지역 자체 방송도 실시한다. 1992년까지 FS2로 방송했다.
   - [ORF2 HD](https://ko.wikipedia.org/wiki/ORF2_HD "wikilink") : ORF2의 HD 방송.
   - [ORF2 Europe](https://ko.wikipedia.org/wiki/ORF2_Europe "wikilink") : ORF2의 국제 방송.
   - [ORF III](https://ko.wikipedia.org/wiki/ORF_III "wikilink") : 2011년 10월 26일 개국한 교양, 예술, 다큐 중심 채널.

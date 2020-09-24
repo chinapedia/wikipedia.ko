@@ -7,7 +7,7 @@
 
 ## 설계
 
-SPDY는 웹 페이지의 로딩 시간을 줄이기 위한 목적으로 설계되었다.\[5\] 이를 위해 SPDY 클라이언트는 하나의 소켓 연결을 통해 페이지를 구성하는 여러개의 하위 요소를 한꺼번에 전송받을 수 있도록 만들어졌다.\[6\] 또한 항상 사람이 읽을 수 있는 형태의 헤더를 보내는 HTTP와 달리, SPDY 헤더는 [gzip](https://ko.wikipedia.org/wiki/gzip "wikilink") 또는 [DEFLATE](https://ko.wikipedia.org/wiki/DEFLATE "wikilink") 알고리즘으로 압축되어 적은 용량을 차지한다.\[7\] SPDY 서버는 클라이언트의 요청을 기다리지 않고, 페이지의 내용이 변경되었음을 클라이언트에 알리거나 새 변경내용을 직접 전송할 수 있다.
+SPDY는 웹 페이지의 로딩 시간을 줄이기 위한 목적으로 설계되었다.\[5\] 이를 위해 SPDY 클라이언트는 하나의 소켓 연결을 통해 페이지를 구성하는 여러개의 하위 요소를 한꺼번에 전송받을 수 있도록 만들어졌다.\[6\] 또한 항상 사람이 읽을 수 있는 형태의 헤더를 보내는 HTTP와 달리, SPDY 헤더는 [gzip](https://ko.wikipedia.org/wiki/gzip "wikilink") 또는 [DEFLATE](../Page/DEFLATE.md "wikilink") 알고리즘으로 압축되어 적은 용량을 차지한다.\[7\] SPDY 서버는 클라이언트의 요청을 기다리지 않고, 페이지의 내용이 변경되었음을 클라이언트에 알리거나 새 변경내용을 직접 전송할 수 있다.
 
 SPDY는 암호화되지 않은 연결을 지원하지 않으며, 반드시 [SSL](https://ko.wikipedia.org/wiki/SSL "wikilink") 또는 [TLS로](../Page/전송_계층_보안.md "wikilink") 암호화되어야 한다.
 
