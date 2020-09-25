@@ -11,7 +11,7 @@
 | **역대 MC**                                                                                                                                                                                                                                                                                    | **MC 멘트**                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | **이전 MC**                                                                                                                                                                                                                                                                                    | ( )월 ( )째주 **생방송 SBS 인기가요\!**            |
-| **[김민석](../Page/김민석_\(배우\).md "wikilink"), [공승연](../Page/공승연.md "wikilink"), [정연](../Page/정연_\(가수\).md "wikilink") ([트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink"))**                                                                                                                 | **생방송 SBS 인기가요\!** 오늘도 잘하자\!             |
+| **[김민석](../Page/김민석_\(배우\).md "wikilink"), [공승연](../Page/공승연.md "wikilink"), [정연](../Page/정연_\(가수\).md "wikilink") ([트와이스](../Page/트와이스.md "wikilink"))**                                                                                                                                    | **생방송 SBS 인기가요\!** 오늘도 잘하자\!             |
 | **[진영](../Page/진영_\(1994년\).md "wikilink")([GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")), [지수](../Page/지수_\(1995년\).md "wikilink")([블랙핑크](../Page/블랙핑크.md "wikilink")), [도영](../Page/도영.md "wikilink") ([NCT](../Page/NCT_\(음악_그룹\).md "wikilink")**                                | **생방송 SBS 인기가요\!** 진. 지. 도\! 우리랑 함께가요\!  |
 | **[민규](../Page/민규.md "wikilink")([세븐틴](../Page/세븐틴_\(음악_그룹\).md "wikilink")), [정채연](../Page/정채연.md "wikilink")([다이아](../Page/다이아_\(음악_그룹\).md "wikilink")), [송강](../Page/송강_\(배우\).md "wikilink")**                                                                                          | 멋진가요\! 예쁜가요\! 핫한가요\! **생방송 SBS 인기가요\!**  |
 | **[민규](../Page/민규.md "wikilink")([세븐틴](../Page/세븐틴_\(음악_그룹\).md "wikilink")), [정채연](../Page/정채연.md "wikilink") ([다이아](../Page/다이아_\(음악_그룹\).md "wikilink"))**                                                                                                                                |                                          |
@@ -47,11 +47,11 @@
 
 **※ 무대종료 후 우측 하단 곡 소개 틀 색깔의 변경 (역사)**
 
-| **색상**                            | **사용기간**                                                                   |
-| --------------------------------- | -------------------------------------------------------------------------- |
-| <font color="pink">**분홍색**</font> | 2018년 4월 1일 \~ 6월 10일, 2018년 10월 7일 \~ 2019년 7월 7일, 2019년 9월 29일 \~ **현재** |
-| <font color="blue">**파란색**</font> | 2018년 6월 17일 \~ 9월 30일, 2019년 7월 14일 \~ 9월 22일                             |
-|                                   |                                                                            |
+| **색상**                               | **사용기간**                                                                   |
+| ------------------------------------ | -------------------------------------------------------------------------- |
+| <font color="#ff005d">**분홍색**</font> | 2018년 4월 1일 \~ 6월 10일, 2018년 10월 7일 \~ 2019년 7월 7일, 2019년 9월 29일 \~ **현재** |
+| <font color="#00b7ff">**파란색**</font> | 2018년 6월 17일 \~ 9월 30일, 2019년 7월 14일 \~ 9월 22일                             |
+|                                      |                                                                            |
 
   - 2018년 9월 9일 : 가을 개편 이후, 방송 시간이 오후 3시 35분으로 환원되었다.
   - 2018년 10월 21일 : UHD TV 송신 시작
@@ -79,7 +79,7 @@
 | 11대 | [이종수](../Page/이종수_\(배우\).md "wikilink")                                                                                                                                                                                                                                                  | 2001년 8월 5일 \~ 2001년 12월 23일                                                                                            |
 | 12대 | [김재원](../Page/김재원_\(배우\).md "wikilink")                                                                                                                                                                                                                                                  | [김정화](../Page/김정화.md "wikilink")                                                                                        |
 | 13대 | [김정훈](../Page/김정훈_\(1980년\).md "wikilink")                                                                                                                                                                                                                                               | 2002년 8월 25일 \~ 2003년 1월 26일                                                                                            |
-| 14대 | [강타](../Page/강타.md "wikilink")([H.O.T](https://ko.wikipedia.org/wiki/H.O.T "wikilink")), [유민](../Page/유민_\(1979년\).md "wikilink")                                                                                                                                                        | 2003년 2월 9일 \~ 2003년 8월 24일                                                                                             |
+| 14대 | [강타](../Page/강타.md "wikilink")([H.O.T](https://ko.wikipedia.org/wiki/H.O.T "wikilink")), [유민](../Page/유민_\(1979년\).md "wikilink")                                                                                                                                                        | 2003년 2월 9일 \~ 2003년 8월 31일                                                                                             |
 | 15대 | [김동완](../Page/김동완_\(가수\).md "wikilink") ([신화](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink"))                                                                                                                                                                                    | [박한별](../Page/박한별.md "wikilink")                                                                                        |
 | 16대 | [한예슬](../Page/한예슬.md "wikilink")                                                                                                                                                                                                                                                         | 2004년 10월 31일 \~ 2005년 6월 5일                                                                                            |
 | 17대 | [앤디](../Page/앤디_\(가수\).md "wikilink") ([신화](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink"))                                                                                                                                                                                      | [박혜원](https://ko.wikipedia.org/wiki/박혜원 "wikilink")                                                                     |
@@ -98,7 +98,7 @@
 | 30대 | [이종석](../Page/이종석_\(배우\).md "wikilink")                                                                                                                                                                                                                                                  | 故 [구하라](../Page/구하라.md "wikilink"), [니콜](../Page/니콜_\(1991년\).md "wikilink") ([카라](../Page/카라_\(음악_그룹\).md "wikilink")) |
 | 31대 | [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink")                                                                                                                                                                                                                                      | 2012년 8월 26일 \~ 2012년 12월 2일                                                                                            |
 | 32대 | [황광희](../Page/황광희.md "wikilink") ([제국의 아이들](https://ko.wikipedia.org/wiki/제국의_아이들 "wikilink"))                                                                                                                                                                                           | [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink"), [이현우](../Page/이현우_\(1993년\).md "wikilink")                         |
-| 33대 | [민아](https://ko.wikipedia.org/wiki/방민아 "wikilink") ([걸스데이](../Page/걸스데이.md "wikilink"))                                                                                                                                                                                                  | 2013년 8월 4일 \~ 2014년 1월 26일                                                                                             |
+| 33대 | [민아](../Page/방민아.md "wikilink") ([걸스데이](../Page/걸스데이.md "wikilink"))                                                                                                                                                                                                                     | 2013년 8월 4일 \~ 2014년 1월 26일                                                                                             |
 | 34대 | [이유비](../Page/이유비.md "wikilink")                                                                                                                                                                                                                                                         | 2014년 2월 2일 \~ 2014년 2월 9일                                                                                              |
 | 35대 | [수호](../Page/수호_\(가수\).md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink")([EXO](../Page/EXO.md "wikilink")), [이유비](../Page/이유비.md "wikilink")                                                                                                                      | 2014년 2월 16일 \~ 2014년 11월 9일                                                                                            |
 | 36대 | [수호](../Page/수호_\(가수\).md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink")([EXO](../Page/EXO.md "wikilink")), [김유정](../Page/김유정_\(배우\).md "wikilink")                                                                                                               | 2014년 11월 16일 \~ 2014년 12월 14일                                                                                          |
@@ -107,7 +107,7 @@
 | 39대 | [홍종현](../Page/홍종현_\(배우\).md "wikilink"), [잭슨](../Page/잭슨_\(가수\).md "wikilink") ([GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink"))                                                                                                                                                   | 2015년 5월 17일 \~ 2015년 8월 30일                                                                                            |
 | 40대 | [육성재](../Page/육성재.md "wikilink")([비투비](../Page/비투비.md "wikilink")), [잭슨](../Page/잭슨_\(가수\).md "wikilink") ([GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink"))                                                                                                                        | 2015년 9월 13일 \~ 2016년 4월 3일                                                                                             |
 | 41대 |                                                                                                                                                                                                                                                                                          | 2016년 4월 10일 \~ 2016년 5월 29일                                                                                            |
-| 42대 | [김민석](../Page/김민석_\(배우\).md "wikilink"), [공승연](../Page/공승연.md "wikilink"), [정연](../Page/정연_\(가수\).md "wikilink") ([트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink"))                                                                                                                 | 2016년 7월 3일 \~ 2017년 1월 22일                                                                                             |
+| 42대 | [김민석](../Page/김민석_\(배우\).md "wikilink"), [공승연](../Page/공승연.md "wikilink"), [정연](../Page/정연_\(가수\).md "wikilink") ([트와이스](../Page/트와이스.md "wikilink"))                                                                                                                                    | 2016년 7월 3일 \~ 2017년 1월 22일                                                                                             |
 | 43대 | [진영](../Page/진영_\(1994년\).md "wikilink") ([GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink")), [지수](../Page/지수_\(1995년\).md "wikilink")([블랙핑크](../Page/블랙핑크.md "wikilink")), [도영](../Page/도영.md "wikilink") ([NCT](../Page/NCT_\(음악_그룹\).md "wikilink"))                              | 2017년 2월 5일 \~ 2018년 2월 4일                                                                                              |
 | 44대 | [민규](../Page/민규.md "wikilink")([세븐틴](../Page/세븐틴_\(음악_그룹\).md "wikilink")), [정채연](../Page/정채연.md "wikilink")([다이아](../Page/다이아_\(음악_그룹\).md "wikilink")), [송강](../Page/송강_\(배우\).md "wikilink")                                                                                          | 2018년 2월 18일 \~ 2018년 10월 28일                                                                                           |
 | 45대 | [민규](../Page/민규.md "wikilink")([세븐틴](../Page/세븐틴_\(음악_그룹\).md "wikilink")), [정채연](../Page/정채연.md "wikilink") ([다이아](../Page/다이아_\(음악_그룹\).md "wikilink"))                                                                                                                                | 2018년 11월 11일 \~ 2019년 2월 3일                                                                                            |
@@ -173,9 +173,9 @@
 | [이종석](../Page/이종석_\(배우\).md "wikilink"), [설리](../Page/설리_\(1994년\).md "wikilink"), [남우현](../Page/남우현.md "wikilink")                                                                                                                                                                                                                 | [2012년](../Page/2012년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink")                                                                                                                                                             | 677           |
 | [황광희](../Page/황광희.md "wikilink"), [이종석](../Page/이종석_\(배우\).md "wikilink"), [크리스탈](../Page/크리스탈_\(가수\).md "wikilink")                                                                                                                                                                                                                | [2012년](../Page/2012년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink")                                                                                                                                                             | 678           |
 | [정용화](https://ko.wikipedia.org/wiki/정용화 "wikilink")([씨엔블루](../Page/씨엔블루.md "wikilink")), [아이유](https://ko.wikipedia.org/wiki/아이유 "wikilink"), [이기광](https://ko.wikipedia.org/wiki/이기광 "wikilink")                                                                                                                                   | [2012년](../Page/2012년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink")                                                                                                                                                             | 700           |
-| [황광희](../Page/황광희.md "wikilink"), [민아](https://ko.wikipedia.org/wiki/방민아 "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink")                                                                                                                                                                                                      | [2013년](../Page/2013년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink")                                                                                                                                                             | 732           |
+| [황광희](../Page/황광희.md "wikilink"), [민아](../Page/방민아.md "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink")                                                                                                                                                                                                                         | [2013년](../Page/2013년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink")                                                                                                                                                             | 732           |
 | [지드래곤](../Page/지드래곤.md "wikilink"), [승리](../Page/승리_\(가수\).md "wikilink")                                                                                                                                                                                                                                                           | [2013년](../Page/2013년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink")                                                                                                                                                             | 737           |
-| [백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink"), [민아](https://ko.wikipedia.org/wiki/방민아 "wikilink"), [황광희](../Page/황광희.md "wikilink")                                                                                                                                                                                      | [2013년](../Page/2013년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink")                                                                                                                                                             | 740           |
+| [백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink"), [민아](../Page/방민아.md "wikilink"), [황광희](../Page/황광희.md "wikilink")                                                                                                                                                                                                         | [2013년](../Page/2013년.md "wikilink") [10월 6일](../Page/10월_6일.md "wikilink")                                                                                                                                                             | 740           |
 | [백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink"), [첸](../Page/첸_\(가수\).md "wikilink"), [디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink") ([EXO](../Page/EXO.md "wikilink"))                                                                                                                                       | [2013년](../Page/2013년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink")                                                                                                                                                             | 749           |
 | [황광희](../Page/황광희.md "wikilink"), [이유비](../Page/이유비.md "wikilink"), [임시완](../Page/임시완.md "wikilink")                                                                                                                                                                                                                                | [2014년](../Page/2014년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink")                                                                                                                                                               | 756           |
 | [황광희](../Page/황광희.md "wikilink"), [이유비](../Page/이유비.md "wikilink"), [바로](../Page/바로_\(가수\).md "wikilink")                                                                                                                                                                                                                           | [2014년](../Page/2014년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink")                                                                                                                                                               | 757           |
@@ -192,7 +192,7 @@
 | [황광희](../Page/황광희.md "wikilink"), [이유비](../Page/이유비.md "wikilink"), [송민호](../Page/송민호.md "wikilink"), [남태현](../Page/남태현.md "wikilink")                                                                                                                                                                                              | [2014년](../Page/2014년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink")                                                                                                                                                             | 784           |
 | [황광희](../Page/황광희.md "wikilink"), [이유비](../Page/이유비.md "wikilink"), [닉쿤](../Page/닉쿤.md "wikilink"), [우영](../Page/우영.md "wikilink")                                                                                                                                                                                                  | [2014년](../Page/2014년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink")                                                                                                                                                             | 785           |
 | [황광희](../Page/황광희.md "wikilink"), [이유비](../Page/이유비.md "wikilink"), [육성재](../Page/육성재.md "wikilink") ([비투비](../Page/비투비.md "wikilink")), [이민혁](../Page/이민혁_\(가수\).md "wikilink")                                                                                                                                                    | [2014년](../Page/2014년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink")                                                                                                                                                           | 788           |
-| [김희철](../Page/김희철_\(가수\).md "wikilink"), [송지효](../Page/송지효.md "wikilink"), [정용화](https://ko.wikipedia.org/wiki/정용화 "wikilink"), [민아](https://ko.wikipedia.org/wiki/방민아 "wikilink"), [황광희](../Page/황광희.md "wikilink"), [김유정](../Page/김유정_\(배우\).md "wikilink"), [홍종현](../Page/홍종현_\(배우\).md "wikilink")                              | [2015년](../Page/2015년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink")                                                                                                                                                             | 800           |
+| [김희철](../Page/김희철_\(가수\).md "wikilink"), [송지효](../Page/송지효.md "wikilink"), [정용화](https://ko.wikipedia.org/wiki/정용화 "wikilink"), [민아](../Page/방민아.md "wikilink"), [황광희](../Page/황광희.md "wikilink"), [김유정](../Page/김유정_\(배우\).md "wikilink"), [홍종현](../Page/홍종현_\(배우\).md "wikilink")                                                 | [2015년](../Page/2015년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink")                                                                                                                                                             | 800           |
 | [홍종현](../Page/홍종현_\(배우\).md "wikilink"), [김유정](../Page/김유정_\(배우\).md "wikilink"), [수호](../Page/수호_\(가수\).md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink")                                                                                                                                                   | [2015년](../Page/2015년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink")                                                                                                                                                             | 810           |
 | [홍종현](../Page/홍종현_\(배우\).md "wikilink"), [김유정](../Page/김유정_\(배우\).md "wikilink"), [김희철](../Page/김희철_\(가수\).md "wikilink")                                                                                                                                                                                                           | [2015년](../Page/2015년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink")                                                                                                                                                             | 811           |
 | [홍종현](../Page/홍종현_\(배우\).md "wikilink"), [김유정](../Page/김유정_\(배우\).md "wikilink"), [하니](../Page/하니_\(가수\).md "wikilink")                                                                                                                                                                                                             | [2015년](../Page/2015년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink")                                                                                                                                                             | 812           |
@@ -285,7 +285,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/SBS_TV.md" title="wikilink">SBS TV</a><br />
-(9개 지역 민방 네트워크 동시 송출)</p></td>
+(9개 지역 민방 <a href="https://ko.wikipedia.org/wiki/동시_네트워크" title="wikilink">동시 네트워크로</a> 송출)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -347,7 +347,7 @@
 <tr class="odd">
 <td><p>2010년 11월 14일 ~ 2014년 4월 13일</p></td>
 <td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 3시 40분 ~ 4시 50분</p></td>
-<td><p>70분</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -365,43 +365,43 @@
 <tr class="even">
 <td><p>2014년 5월 18일 ~ 2014년 8월 24일</p></td>
 <td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 2시 45분 ~ 3시 55분</p></td>
-<td><p>70분</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014년 8월 31일 ~ 2014년 11월 13일</p></td>
 <td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 2시 35분 ~ 3시 45분</p></td>
-<td><p>70분</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2020년 8월 16일</p></td>
 <td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 2시 35분 ~ 3시 45분</p></td>
-<td><p>70분</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2014년 11월 20일 ~ 2015년 4월 12일</p></td>
 <td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 1시 10분 ~ 2시 20분</p></td>
-<td><p>70분</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2015년 4월 19일 ~ 2016년 3월 20일</p></td>
 <td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 3시 30분 ~ 4시 40분</p></td>
-<td><p>70분</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2016년 10월 2일 ~ 2018년 9월 2일</p></td>
-<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 12시 10분 ~ 1시 20분 -</p></td>
-<td><p>70분</p></td>
+<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 12시 10분 ~ 1시 20분</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2020년 1월 6일 ~ <strong>현재</strong></p></td>
-<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 3시 40분 ~ 4시 50분</p></td>
-<td><p>70분</p></td>
+<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 3시 40분 ~ 4시 40분</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -420,6 +420,12 @@
 <td><p>2020년 8월 23일</p></td>
 <td><p><a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 3시 ~ 4시 10분</p></td>
 <td><p>70분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020년 9월 13일</p></td>
+<td><p><a href="../Page/일요일.md" title="wikilink">일요일</a> 오후 2시 25분 ~ 3시 35분</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -469,7 +475,7 @@
   - 11월 - [베베 미뇽](https://ko.wikipedia.org/wiki/베베_미뇽 "wikilink")
   - 12월 - 원웨이
 
-## 순위 선정
+## 순위 선정 방식 및 역대 수상자
 
   - [1991년](../Page/1991년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink"): 인기가요가 **첫방송** 되면서 순위제가 시작되었으며 매주 1위 후보가 선정되어 1위를 결정했다.
   - [1998년](../Page/1998년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink"): 'SBS 인기가요'가 부활했으며 이 당시에는 두 팀의 1위 후보가 선정되어 매주 1위를 결정하는 방식으로 진행되었다. 이 당시는 한 곡이 최대 4번 1위를 수상할 수 있으며, 1999년 방송부터는 한 곡이 최대 3번 1위를 수상할 수 있다.
@@ -478,10 +484,10 @@
   - [2013년](../Page/2013년.md "wikilink") [3월 17일](../Page/3월_17일.md "wikilink"): '인기가요 차트'로 순위제가 다시 부활했으며 매주 3팀의 1위 후보를 사전 점수를 통하여 선정 후 실시간 문자투표와 같이 합산하여 1위를 결정하며, 이 때 기존 순위제와 마찬가지로 3주간 1위를 차지한 곡은 차트에서 제외된다.
   - [2016년](../Page/2016년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink"): 1위 투표방법 중 ARS 투표방식을 추가하여 1위 집계를 실시했다.
   - [2017년](../Page/2017년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink"): '인기가요 차트' 1위 선정 방식이 변경되었다. (음원 55% + 음반 5% + SNS 35% + 사전투표 5% + 온에어 (방송 점수) 10% / 실시간 투표는 제외)
-  - [2017년](../Page/2017년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"): **인기가요** 사전투표를 '멜론 아지톡'에서 재시행하게 되었다.
+  - [2017년](../Page/2017년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink"): **인기가요** 사전투표를 '멜론 아지톡'에서 재시행하게 되었다.
   - [2019년](../Page/2019년.md "wikilink") [2월 3일](../Page/2월_3일.md "wikilink"): '인기가요 차트' 1위 선정 방식이 일부 변경되었다. (음원 55% + **음반 10%** + **SNS 30%** + 사전투표 5% + 온에어 (방송 점수) 10% / 실시간 투표는 제외)
 
-### 1위 수상자
+### 1위 수상자 목록
 
 ## 방송사고
 
@@ -782,6 +788,7 @@
 ### 2020년
 
   - [1월 26일](../Page/1월_26일.md "wikilink") : 설연휴 기간으로 인하여 결방되었으며, 이 시간대에는 **《[SBS](https://ko.wikipedia.org/wiki/SBSTV "wikilink") 월화드라마 [낭만닥터 김사부 2](../Page/낭만닥터_김사부_2.md "wikilink")》**가 재방송되었다.
+  - [10월 4일](../Page/10월_4일.md "wikilink") : 미정
 
 ## 수상 경력
 
@@ -791,6 +798,7 @@
   - [2015년](../Page/2015년.md "wikilink") 제42회 [한국방송대상](../Page/한국방송대상.md "wikilink") 가수상 - [EXO](../Page/EXO.md "wikilink")
   - [2017년](../Page/2017년.md "wikilink") 제44회 [한국방송대상](../Page/한국방송대상.md "wikilink") 가수상 - [방탄소년단](../Page/방탄소년단.md "wikilink")
   - [2018년](../Page/2018년.md "wikilink") 제45회 [한국방송대상](../Page/한국방송대상.md "wikilink") 가수상 - [방탄소년단](../Page/방탄소년단.md "wikilink")
+  - [2020년](../Page/2020년.md "wikilink") 제47회 [한국방송대상](../Page/한국방송대상.md "wikilink") 가수상 - [방탄소년단](../Page/방탄소년단.md "wikilink")
   - 2016년 [SBS 연예대상](../Page/SBS_연예대상.md "wikilink") 여자 신인상 - [공승연](../Page/공승연.md "wikilink"), [정연](../Page/정연_\(가수\).md "wikilink") ([TWICE](https://ko.wikipedia.org/wiki/TWICE "wikilink"))
   - 2016년 [SBS 연예대상](../Page/SBS_연예대상.md "wikilink") 베스트 엔터테이너상 - [김민석](../Page/김민석_\(배우\).md "wikilink")
 

@@ -32,7 +32,7 @@
 
   - [록맨 X](../Page/록맨_X_\(비디오_게임\).md "wikilink") ([SFC](../Page/슈퍼_패미컴.md "wikilink")),([PC](../Page/개인용_컴퓨터.md "wikilink")) / 1993년
   - [록맨 X2](../Page/록맨_X2.md "wikilink") (SFC) / 1994년
-  - [록맨 X3](https://ko.wikipedia.org/wiki/록맨_X3 "wikilink") (SFC, [PS](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"), [SS](../Page/세가_새턴.md "wikilink") , PC) / 1995년, 1996년
+  - [록맨 X3](https://ko.wikipedia.org/wiki/록맨_X3 "wikilink") (SFC, [PS](../Page/플레이스테이션.md "wikilink"), [SS](../Page/세가_새턴.md "wikilink") , PC) / 1995년, 1996년
   - [록맨 X4](../Page/록맨_X4.md "wikilink") (PS, best, SS, サタコレ, PC) / 1997년, 1998년
   - [록맨 X5](../Page/록맨_X5.md "wikilink") (PC, PS, best) / 2000년, 2002년
   - [록맨 X6](../Page/록맨_X6.md "wikilink") (PC, PS, best) / 2001년, 2002년

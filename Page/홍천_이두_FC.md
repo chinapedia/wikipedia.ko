@@ -16,7 +16,7 @@
 <tr class="header">
 <th><p>시즌</p></th>
 <th><p><a href="../Page/내셔널리그_(대한민국).md" title="wikilink">내셔널리그</a></p></th>
-<th><p><a href="https://ko.wikipedia.org/wiki/FA컵_(대한민국)" title="wikilink">FA컵</a></p></th>
+<th><p><a href="../Page/FA컵_(대한민국).md" title="wikilink">FA컵</a></p></th>
 <th><p><a href="../Page/내셔널축구선수권대회.md" title="wikilink">리그컵</a></p></th>
 <th><p>최다 득점자<br />
 (리그)</p></th>

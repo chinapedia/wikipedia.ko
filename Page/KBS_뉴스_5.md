@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 뉴스 5](https://ko.wikipedia.org/wiki/KBS_뉴스_5).
 
 
-《**KBS 뉴스 5**》()는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [한국방송공사의 저녁 준종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
+《**KBS 뉴스 5**》()는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시에 [KBS 1TV로](../Page/KBS_1TV.md "wikilink") 방송되는 [한국방송공사의 저녁 준종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
 
 ## 기획 의도 / 개요
 
@@ -21,7 +21,7 @@
 
 | 방송 채널                                                                                                                                                          | 방송 기간                                                                                                                                                  | 방송 시간                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                    | [1981년](../Page/1981년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") \~ [1981년](../Page/1981년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") | 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시 30분 \~ 6시 (30분) |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink")                                                                                                                       | [1981년](../Page/1981년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") \~ [1981년](../Page/1981년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") | 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시 30분 \~ 6시 (30분) |
 | [1981년](../Page/1981년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") \~ [1982년](../Page/1982년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink")       | 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오후 5시 30분 \~ 5시 40분 (10분)                                                                         |                                                                            |
 | [1986년](../Page/1986년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink") \~ [1991년](../Page/1991년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink")     |                                                                                                                                                        |                                                                            |
 | [1991년](../Page/1991년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") \~ [1991년](../Page/1991년.md "wikilink") [3월 5일](../Page/3월_5일.md "wikilink")         |                                                                                                                                                        |                                                                            |
@@ -136,13 +136,13 @@
 <td><p>11기</p></td>
 <td><p><a href="../Page/신성원.md" title="wikilink">신성원</a></p></td>
 <td><p>2003년 6월 23일 ~ 2006년 11월 17일</p></td>
-<td></td>
+<td><p>[10]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12기</p></td>
 <td><p><a href="../Page/최윤경.md" title="wikilink">최윤경</a></p></td>
 <td><p>2006년 11월 20일 ~ 2007년 4월 27일</p></td>
-<td><p>[10]</p></td>
+<td><p>[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>13기</p></td>
@@ -166,17 +166,17 @@
 <td><p>16기</p></td>
 <td><p><a href="../Page/박노원.md" title="wikilink">박노원</a></p></td>
 <td><p>2009년 10월 19일 ~ 2010년 7월 16일</p></td>
-<td><p>[11]</p></td>
+<td><p>[12]</p></td>
 </tr>
 <tr class="even">
 <td><p>17기</p></td>
 <td><p><a href="../Page/최윤경.md" title="wikilink">최윤경</a></p></td>
 <td><p>2010년 7월 19일 ~ 2010년 12월 31일</p></td>
-<td><p>[12]</p></td>
+<td><p>[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p>18기</p></td>
-<td><p>김희수</p></td>
+<td><p><a href="../Page/김희수_(아나운서).md" title="wikilink">김희수</a></p></td>
 <td><p>2011년 1월 3일 ~ 2013년 4월 5일</p></td>
 <td></td>
 </tr>
@@ -190,7 +190,7 @@
 <td><p>20기</p></td>
 <td><p><a href="../Page/김지윤_(아나운서).md" title="wikilink">김지윤</a></p></td>
 <td><p>2015년 1월 2일 ~ 2016년 4월 22일</p></td>
-<td><p>[13][14]</p></td>
+<td><p>[14][15]</p></td>
 </tr>
 <tr class="even">
 <td><p>21기</p></td>
@@ -202,7 +202,7 @@
 <td><p>22기</p></td>
 <td><p><a href="../Page/장수연.md" title="wikilink">장수연</a></p></td>
 <td><p>2017년 6월 5일 ~ 2018년 4월 20일</p></td>
-<td><p>[15][16][17]</p></td>
+<td><p>[16][17][18]</p></td>
 </tr>
 <tr class="even">
 <td><p>23기</p></td>
@@ -214,7 +214,7 @@
 <td><p>24기</p></td>
 <td><p><a href="../Page/전주리.md" title="wikilink">전주리</a></p></td>
 <td><p>2018년 9월 10일 ~ <strong>현재</strong></p></td>
-<td><p>[18][19]</p></td>
+<td><p>[19][20]</p></td>
 </tr>
 </tbody>
 </table>
@@ -291,13 +291,14 @@
 7.  KBS 노조파업으로 인하여, 1999년 7월 13일 \~ 1999년 7월 26일 방송분은 [왕종근](../Page/왕종근.md "wikilink") 前 아나운서와 [지영서](../Page/지영서.md "wikilink") 前 아나운서가 대신 진행했다.
 8.  [한상권](https://ko.wikipedia.org/wiki/한상권 "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 1999년 9월 20일 \~ 1999년 9월 24일 방송분은 [김홍성](../Page/김홍성.md "wikilink") 아나운서가 대신 진행했다.
 9.  [김은성](../Page/김은성_\(아나운서\).md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2002년 8월 14일 \~ 2002년 8월 15일 방송분은 [이재후](../Page/이재후_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
-10. [최윤경](../Page/최윤경.md "wikilink") 아나운서는 3년 만에 KBS 뉴스 5 재진행.
-11. [박노원](../Page/박노원.md "wikilink") 아나운서(現. 평일 [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 앵커)의 KBS 노조파업으로 인하여, 2010년 7월 15일 \~ 2010년 8월 2일 방송분은 [이규봉](../Page/이규봉.md "wikilink") 아나운서(現. [KBS 뉴스 7](../Page/KBS_뉴스_7.md "wikilink") 앵커)가 대신 진행했다.
-12. [최윤경](../Page/최윤경.md "wikilink") 아나운서는 KBS 뉴스 5 2차 진행한 지 3년 만에 KBS 뉴스 5 재진행.
-13. [김지윤](../Page/김지윤_\(아나운서\).md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2015년 7월 20일 \~ 2015년 7월 24일 방송분은 당시 토요일 [KBS 930 뉴스의](../Page/KBS_930_뉴스.md "wikilink") 진행을 맡고 있던 [전주리](../Page/전주리.md "wikilink") 아나운서가 대신 진행했다.
-14. 2016년 설 연휴, 삼일절로 인하여, 2016년 2월 8일, 2016년 3월 1일 방송분은 [박노원](../Page/박노원.md "wikilink") 아나운서(現. 평일 [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 앵커)가 단독으로 **KBS 뉴스**로 진행했고, 2016년 2월 9일 방송분은 [김지윤](../Page/김지윤_\(아나운서\).md "wikilink") 아나운서가 단독으로 **KBS 뉴스**로 진행했다.
-15. 2017년 현충일, 제72주년 광복절로 인하여, 2017년 6월 6일, 2017년 8월 15일 방송분은 [김희수](../Page/김희수_\(아나운서\).md "wikilink") 아나운서가 단독으로 **KBS 뉴스**로 진행했다.
-16. KBS 노조파업으로 인하여, 2017년 9월 4일 \~ 2017년 11월 27일 방송분은 [원석현](../Page/원석현.md "wikilink") 아나운서(現. 토요일 [KBS 930 뉴스](../Page/KBS_930_뉴스.md "wikilink") 앵커)가 단독으로 대신 진행했고, 2017년 11월 28일 \~ 2018년 2월 16일 방송분은 [김희수](../Page/김희수_\(아나운서\).md "wikilink") 아나운서가 단독으로 진행했다.
-17. [김희수](../Page/김희수_\(아나운서\).md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2018년 4월 13일 방송분은 [김재홍](https://ko.wikipedia.org/wiki/김재홍 "wikilink") 아나운서가 대신 진행했다.
-18. [전주리](../Page/전주리.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2018년 10월 29일 \~ 2018년 10월 31일 방송분은 [박소현](../Page/박소현_\(1992년\).md "wikilink") 아나운서가 대신 진행했고, [2019년](../Page/2019년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") 방송분은 [정지원](../Page/정지원_\(1985년\).md "wikilink") 아나운서가 대신 진행했으며, [2019년](../Page/2019년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") 방송분은 [국혜정](../Page/국혜정.md "wikilink") 아나운서가 대신 진행했고, [2020년](../Page/2020년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink") 방송분은 [김윤지](../Page/김윤지_\(아나운서\).md "wikilink") 아나운서(現. [KBS 뉴스타임 (1500)](../Page/KBS_뉴스타임_\(1500\).md "wikilink") 앵커)가 대신 진행했다.
-19. [이영호](../Page/이영호_\(아나운서\).md "wikilink") 아나운서의 휴가 또는 개인 사정으로 인하여, [2019년](../Page/2019년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") 방송분은 [한상헌](../Page/한상헌.md "wikilink") 아나운서가 대신 진행했고, [2019년](../Page/2019년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink") 방송분은 [김태규](../Page/김태규_\(아나운서\).md "wikilink") 아나운서가 대신 진행했으며, [2019년](../Page/2019년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink") 방송분은 [강성규](https://ko.wikipedia.org/wiki/강성규 "wikilink") 아나운서가 대신 진행했으며, [2020년](../Page/2020년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") 방송분은 [조항리 (아나운서)](../Page/조항리_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
+10. [김은성](../Page/김은성_\(아나운서\).md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2003년](../Page/2003년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink") 방송분은 [김태규](https://ko.wikipedia.org/wiki/김태규 "wikilink") 아나운서가 대신 진행했다.
+11. [최윤경](../Page/최윤경.md "wikilink") 아나운서는 3년 만에 KBS 뉴스 5 재진행.
+12. [박노원](../Page/박노원.md "wikilink") 아나운서(現. 평일 [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 앵커)의 KBS 노조파업으로 인하여, 2010년 7월 15일 \~ 2010년 8월 2일 방송분은 [이규봉](../Page/이규봉.md "wikilink") 아나운서(現. [KBS 뉴스 7](../Page/KBS_뉴스_7.md "wikilink") 앵커)가 대신 진행했다.
+13. [최윤경](../Page/최윤경.md "wikilink") 아나운서는 KBS 뉴스 5 2차 진행한 지 3년 만에 KBS 뉴스 5 재진행.
+14. [김지윤](../Page/김지윤_\(아나운서\).md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2015년 7월 20일 \~ 2015년 7월 24일 방송분은 당시 토요일 [KBS 930 뉴스의](../Page/KBS_930_뉴스.md "wikilink") 진행을 맡고 있던 [전주리](../Page/전주리.md "wikilink") 아나운서가 대신 진행했다.
+15. 2016년 설 연휴, 삼일절로 인하여, 2016년 2월 8일, 2016년 3월 1일 방송분은 [박노원](../Page/박노원.md "wikilink") 아나운서(現. 평일 [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 앵커)가 단독으로 **KBS 뉴스**로 진행했고, 2016년 2월 9일 방송분은 [김지윤](../Page/김지윤_\(아나운서\).md "wikilink") 아나운서가 단독으로 **KBS 뉴스**로 진행했다.
+16. 2017년 현충일, 제72주년 광복절로 인하여, 2017년 6월 6일, 2017년 8월 15일 방송분은 [김희수](../Page/김희수_\(아나운서\).md "wikilink") 아나운서가 단독으로 **KBS 뉴스**로 진행했다.
+17. KBS 노조파업으로 인하여, 2017년 9월 4일 \~ 2017년 11월 27일 방송분은 [원석현](../Page/원석현.md "wikilink") 아나운서(現. 토요일 [KBS 930 뉴스](../Page/KBS_930_뉴스.md "wikilink") 앵커)가 단독으로 대신 진행했고, 2017년 11월 28일 \~ 2018년 2월 16일 방송분은 [김희수](../Page/김희수_\(아나운서\).md "wikilink") 아나운서가 단독으로 진행했다.
+18. [김희수](../Page/김희수_\(아나운서\).md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2018년 4월 13일 방송분은 [김재홍](https://ko.wikipedia.org/wiki/김재홍 "wikilink") 아나운서가 대신 진행했다.
+19. [전주리](../Page/전주리.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, 2018년 10월 29일 \~ 2018년 10월 31일 방송분은 [박소현](../Page/박소현_\(1992년\).md "wikilink") 아나운서가 대신 진행했고, [2019년](../Page/2019년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") 방송분은 [정지원](../Page/정지원_\(1985년\).md "wikilink") 아나운서가 대신 진행했으며, [2019년](../Page/2019년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") 방송분은 [국혜정](../Page/국혜정.md "wikilink") 아나운서가 대신 진행했고, [2020년](../Page/2020년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink") 방송분은 [김윤지](../Page/김윤지_\(아나운서\).md "wikilink") 아나운서(現. [KBS 뉴스타임 (1500)](../Page/KBS_뉴스타임_\(1500\).md "wikilink") 앵커)가 대신 진행했다.
+20. [이영호](../Page/이영호_\(아나운서\).md "wikilink") 아나운서의 휴가 또는 개인 사정으로 인하여, [2019년](../Page/2019년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") 방송분은 [한상헌](../Page/한상헌.md "wikilink") 아나운서가 대신 진행했고, [2019년](../Page/2019년.md "wikilink") [6월 19일](../Page/6월_19일.md "wikilink") 방송분은 [김태규](../Page/김태규_\(아나운서\).md "wikilink") 아나운서가 대신 진행했으며, [2019년](../Page/2019년.md "wikilink") [10월 7일](../Page/10월_7일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink") 방송분은 [강성규](https://ko.wikipedia.org/wiki/강성규 "wikilink") 아나운서가 대신 진행했으며, [2020년](../Page/2020년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") 방송분은 [조항리 (아나운서)](../Page/조항리_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.

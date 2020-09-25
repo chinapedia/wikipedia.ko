@@ -22,10 +22,11 @@
   - [이재형](https://ko.wikipedia.org/wiki/이재형_\(아나운서\) "wikilink")
   - [안현준](https://ko.wikipedia.org/wiki/안현준 "wikilink")
   - [김세연](https://ko.wikipedia.org/wiki/김세연_\(1991년\) "wikilink")
-  - [김민아](../Page/김민아.md "wikilink") (프리랜서 계약직)
+  - [김민아](../Page/김민아_\(아나운서\).md "wikilink") (프리랜서 계약직)
   - [유희종](https://ko.wikipedia.org/wiki/유희종 "wikilink")
   - [김세희](../Page/김세희.md "wikilink")
   - [장유례](https://ko.wikipedia.org/wiki/장유례 "wikilink")
+  - [조정식](../Page/조정식_\(아나운서\).md "wikilink")
 
 ## 해설 위원
 
@@ -111,6 +112,10 @@
 </tr>
 </tbody>
 </table>
+
+## 온에어 제공 가능한 곳
+
+유일하게 SBS 홈페이지에서만 가능하며, 매일 새벽 3시부터 익일 자정까지 하루 21시간 정도 온에어 서비스가 가능하다. 다만 저작권 이슈 및 새벽 미실시 시간대인 0시에서 3시 사이의 시간대 등은 이용할 수 없다. 그리고 과거에는 [푹](../Page/푹.md "wikilink")에서도 서비스하였지만 [WAVVE](../Page/WAVVE.md "wikilink")는 일시적으로 서비스한 적이 있다.
 
 ## 같이 보기
 

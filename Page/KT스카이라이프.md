@@ -31,7 +31,7 @@
       - [9월 29일](../Page/9월_29일.md "wikilink"): [HD](../Page/고선명_텔레비전.md "wikilink") 텔레비전 본방송 개시
       - [11월 1일](../Page/11월_1일.md "wikilink"): T-커머스 서비스 개시
   - [2004년](../Page/2004년.md "wikilink")
-      - [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"): 대한민국 최초 24시간 HD 전문채널 [Sky HD운영사](https://ko.wikipedia.org/wiki/스카이_HD "wikilink") 한국HD방송㈜ 설립
+      - [2월 26일](../Page/2월_26일.md "wikilink"): 대한민국 최초 24시간 HD 전문채널 [Sky HD운영사](https://ko.wikipedia.org/wiki/스카이_HD "wikilink") 한국HD방송㈜ 설립
       - [3월 24일](../Page/3월_24일.md "wikilink"): 대한민국 방송 최초 쌍방향 선거방송 실시
       - [11월 8일](../Page/11월_8일.md "wikilink"): 대한민국 방송 최초 연동형 데이터 방송 개시
       - [12월 14일](../Page/12월_14일.md "wikilink"): 지상파 방송 권역별 재송신 협정서 제출

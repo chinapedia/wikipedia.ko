@@ -126,7 +126,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>2 - 0<br />
 0 - 1</strong></p></td>
 <td><p><a href="../Page/폴리스_테로_FC.md" title="wikilink">BEC 테로 사사나</a></p></td>
-<td><p><small> <a href="../Page/알아인.md" title="wikilink">알아인</a>, 타흐눈 빈 모하메드 경기장 </br>  <a href="../Page/방콕.md" title="wikilink">방콕</a>, <a href="../Page/라차망칼라_국립_경기장.md" title="wikilink">라차망칼라 국립 경기장</a></small></p></td>
+<td><p><a href="../Page/알아인.md" title="wikilink">알아인</a>, 타흐눈 빈 모하메드 경기장<br />
+ <a href="../Page/방콕.md" title="wikilink">방콕</a>, <a href="../Page/라차망칼라_국립_경기장.md" title="wikilink">라차망칼라 국립 경기장</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2004년_AFC_챔피언스리그.md" title="wikilink">2004</a></p></td>
@@ -134,7 +135,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>1 - 3<br />
 5 - 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">성남 일화 천마</a></p></td>
-<td><p><small> <a href="../Page/지다.md" title="wikilink">지다</a>, 프린스 압둘라 알파이살 경기장 </br>  <a href="../Page/성남시.md" title="wikilink">성남</a>, <a href="../Page/성남종합운동장.md" title="wikilink">성남종합운동장</a></small></p></td>
+<td><p><a href="../Page/지다.md" title="wikilink">지다</a>, 프린스 압둘라 알파이살 경기장<br />
+ <a href="../Page/성남시.md" title="wikilink">성남</a>, <a href="../Page/성남종합운동장.md" title="wikilink">성남종합운동장</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2005년_AFC_챔피언스리그.md" title="wikilink">2005</a></p></td>
@@ -142,7 +144,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>1 - 1<br />
 4 - 2</strong></p></td>
 <td><p><a href="../Page/알아인_FC.md" title="wikilink">알아인</a></p></td>
-<td><p><small> <a href="../Page/알아인.md" title="wikilink">알아인</a>, 타흐눈 빈 모하메드 경기장 </br>  <a href="../Page/지다.md" title="wikilink">지다</a>, 프린스 압둘라 알파이살 경기장</small></p></td>
+<td><p><a href="../Page/알아인.md" title="wikilink">알아인</a>, 타흐눈 빈 모하메드 경기장<br />
+ <a href="../Page/지다.md" title="wikilink">지다</a>, 프린스 압둘라 알파이살 경기장</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2006년_AFC_챔피언스리그.md" title="wikilink">2006</a></p></td>
@@ -150,7 +153,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>2 - 0<br />
 1 - 2</strong></p></td>
 <td><p><a href="../Page/알카라마_SC.md" title="wikilink">알카라마</a></p></td>
-<td><p><small> <a href="https://ko.wikipedia.org/wiki/전주시" title="wikilink">전주</a>, <a href="../Page/전주월드컵경기장.md" title="wikilink">전주월드컵경기장</a> </br>  <a href="../Page/홈스.md" title="wikilink">홈스</a>, 칼레드 빈 왈레드 경기장</small></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/전주시" title="wikilink">전주</a>, <a href="../Page/전주월드컵경기장.md" title="wikilink">전주월드컵경기장</a><br />
+ <a href="../Page/홈스.md" title="wikilink">홈스</a>, 칼레드 빈 왈레드 경기장</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007년_AFC_챔피언스리그.md" title="wikilink">2007</a></p></td>
@@ -158,7 +162,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>1 - 1<br />
 2 - 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/세파한_FC" title="wikilink">세파한</a></p></td>
-<td><p><small> <a href="../Page/이스파한.md" title="wikilink">이스파한</a>, 풀라드 샤하르 경기장 </br> <a href="https://ko.wikipedia.org/wiki/사이타마_시" title="wikilink">사이타마</a>, <a href="../Page/사이타마_스타디움_2002.md" title="wikilink">사이타마 스타디움 2002</a></small></p></td>
+<td><p><a href="../Page/이스파한.md" title="wikilink">이스파한</a>, 풀라드 샤하르 경기장<br />
+ <a href="../Page/사이타마시.md" title="wikilink">사이타마</a>, <a href="../Page/사이타마_스타디움_2002.md" title="wikilink">사이타마 스타디움 2002</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2008년_AFC_챔피언스리그.md" title="wikilink">2008</a></p></td>
@@ -166,36 +171,37 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>3 - 0<br />
 2 - 0</strong></p></td>
 <td><p><a href="../Page/애들레이드_유나이티드_FC.md" title="wikilink">애들레이드 유나이티드</a></p></td>
-<td><p><small> <a href="../Page/오사카시.md" title="wikilink">오사카</a>, <a href="../Page/만박_기념_경기장.md" title="wikilink">만박 기념 경기장</a> </br>  <a href="../Page/애들레이드.md" title="wikilink">애들레이드</a>, <a href="../Page/하인드마시_스타디움.md" title="wikilink">하인드마시 스타디움</a></small></p></td>
+<td><p><a href="../Page/오사카시.md" title="wikilink">오사카</a>, <a href="../Page/만박_기념_경기장.md" title="wikilink">만박 기념 경기장</a><br />
+ <a href="../Page/애들레이드.md" title="wikilink">애들레이드</a>, <a href="../Page/하인드마시_스타디움.md" title="wikilink">하인드마시 스타디움</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2009년_AFC_챔피언스리그.md" title="wikilink">2009</a></p></td>
 <td><p><a href="../Page/포항_스틸러스.md" title="wikilink">포항 스틸러스</a></p></td>
 <td><p><strong>2 - 1</strong></p></td>
 <td><p><a href="../Page/알이티하드_클럽.md" title="wikilink">알이티하드</a></p></td>
-<td><p><small> <a href="../Page/도쿄도.md" title="wikilink">도쿄</a>, <a href="https://ko.wikipedia.org/wiki/국립_가스미가오카_육상_경기장" title="wikilink">국립 가스미가오카 육상 경기장</a></small></p></td>
+<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄</a>, <a href="https://ko.wikipedia.org/wiki/국립_가스미가오카_육상_경기장" title="wikilink">국립 가스미가오카 육상 경기장</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2010년_AFC_챔피언스리그.md" title="wikilink">2010</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/성남_FC" title="wikilink">성남 일화 천마</a></p></td>
 <td><p><strong>3 - 1</strong></p></td>
 <td><p><a href="../Page/조브_아한_FC.md" title="wikilink">조브 아한</a></p></td>
-<td><p><small> <a href="../Page/도쿄도.md" title="wikilink">도쿄</a>, <a href="https://ko.wikipedia.org/wiki/국립_가스미가오카_육상_경기장" title="wikilink">국립 가스미가오카 육상 경기장</a></small></p></td>
+<td><p><a href="../Page/도쿄도.md" title="wikilink">도쿄</a>, <a href="https://ko.wikipedia.org/wiki/국립_가스미가오카_육상_경기장" title="wikilink">국립 가스미가오카 육상 경기장</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2011년_AFC_챔피언스리그" title="wikilink">2011</a></p></td>
 <td><p><a href="../Page/알사드_SC.md" title="wikilink">알사드</a></p></td>
 <td><p><strong>2 - 2 (<a href="../Page/연장전.md" title="wikilink">a.e.t.</a>)<br />
-<small>(<a href="../Page/승부차기.md" title="wikilink">PSO</a> 4 - 2)</small></strong></p></td>
+(<a href="../Page/승부차기.md" title="wikilink">PSO</a> 4 - 2)</strong></p></td>
 <td><p><a href="../Page/전북_현대_모터스.md" title="wikilink">전북 현대 모터스</a></p></td>
-<td><p><small> <a href="https://ko.wikipedia.org/wiki/전주시" title="wikilink">전주</a>, <a href="../Page/전주월드컵경기장.md" title="wikilink">전주월드컵경기장</a></small></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/전주시" title="wikilink">전주</a>, <a href="../Page/전주월드컵경기장.md" title="wikilink">전주월드컵경기장</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2012년_AFC_챔피언스리그" title="wikilink">2012</a></p></td>
 <td><p><a href="../Page/울산_현대_축구단.md" title="wikilink">울산 현대</a></p></td>
 <td><p><strong>3 - 0</strong></p></td>
 <td><p><a href="../Page/알아흘리_사우디_FC.md" title="wikilink">알아흘리</a></p></td>
-<td><p><small> <a href="https://ko.wikipedia.org/wiki/울산광역시" title="wikilink">울산</a>, <a href="../Page/울산문수축구경기장.md" title="wikilink">울산문수축구경기장</a></small></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/울산광역시" title="wikilink">울산</a>, <a href="../Page/울산문수축구경기장.md" title="wikilink">울산문수축구경기장</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2013년_AFC_챔피언스리그" title="wikilink">2013</a></p></td>
@@ -203,7 +209,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>2 - 2<br />
 1 - 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/FC_서울" title="wikilink">FC 서울</a></p></td>
-<td><p><small> <a href="../Page/서울특별시.md" title="wikilink">서울</a>, <a href="../Page/서울월드컵경기장.md" title="wikilink">서울월드컵경기장</a> </br>  <a href="https://ko.wikipedia.org/wiki/광저우_시" title="wikilink">광저우</a>, <a href="https://ko.wikipedia.org/wiki/톈허_스포츠_센터" title="wikilink">톈허 스포츠 센터</a></small></p></td>
+<td><p><a href="../Page/서울특별시.md" title="wikilink">서울</a>, <a href="../Page/서울월드컵경기장.md" title="wikilink">서울월드컵경기장</a><br />
+ <a href="../Page/광저우시.md" title="wikilink">광저우</a>, <a href="https://ko.wikipedia.org/wiki/톈허_스포츠_센터" title="wikilink">톈허 스포츠 센터</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2014년_AFC_챔피언스리그" title="wikilink">2014</a></p></td>
@@ -211,7 +218,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>1 - 0<br />
 0 - 0</strong></p></td>
 <td><p><a href="../Page/알힐랄_FC.md" title="wikilink">알힐랄</a></p></td>
-<td><p><small> <a href="../Page/시드니.md" title="wikilink">시드니</a>, 패러매타 스타디움 </br>  <a href="../Page/리야드.md" title="wikilink">리야드</a>, <a href="../Page/킹_파흐드_국제경기장.md" title="wikilink">킹 파흐드 국제경기장</a></small></p></td>
+<td><p><a href="../Page/시드니.md" title="wikilink">시드니</a>, 패러매타 스타디움<br />
+ <a href="../Page/리야드.md" title="wikilink">리야드</a>, <a href="../Page/킹_파흐드_국제경기장.md" title="wikilink">킹 파흐드 국제경기장</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2015년_AFC_챔피언스리그" title="wikilink">2015</a></p></td>
@@ -219,7 +227,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>0 - 0<br />
 1 - 0</strong></p></td>
 <td><p><a href="../Page/샤바브_알아흘리_두바이_FC.md" title="wikilink">알아흘리</a></p></td>
-<td><p><small> <a href="../Page/아부다비.md" title="wikilink">아부다비</a>, <a href="https://ko.wikipedia.org/wiki/알자지라_모하메드_빈_자예드_경기장" title="wikilink">알자지라 모하메드 빈 자예드 경기장</a> </br>  <a href="https://ko.wikipedia.org/wiki/광저우_시" title="wikilink">광저우</a>, <a href="https://ko.wikipedia.org/wiki/톈허_스포츠_센터" title="wikilink">톈허 스포츠 센터</a></small></p></td>
+<td><p><a href="../Page/아부다비.md" title="wikilink">아부다비</a>, <a href="https://ko.wikipedia.org/wiki/알자지라_모하메드_빈_자예드_경기장" title="wikilink">알자지라 모하메드 빈 자예드 경기장</a><br />
+ <a href="../Page/광저우시.md" title="wikilink">광저우</a>, <a href="https://ko.wikipedia.org/wiki/톈허_스포츠_센터" title="wikilink">톈허 스포츠 센터</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2016년_AFC_챔피언스리그" title="wikilink">2016</a></p></td>
@@ -227,7 +236,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>2 - 1<br />
 1 - 1</strong></p></td>
 <td><p><a href="../Page/알아인_FC.md" title="wikilink">알아인</a></p></td>
-<td><p><small> <a href="https://ko.wikipedia.org/wiki/전주시" title="wikilink">전주</a>, <a href="../Page/전주월드컵경기장.md" title="wikilink">전주월드컵경기장</a> </br>  <a href="../Page/알아인.md" title="wikilink">알아인</a>, 하자빈 자예드 스타디움</small></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/전주시" title="wikilink">전주</a>, <a href="../Page/전주월드컵경기장.md" title="wikilink">전주월드컵경기장</a><br />
+ <a href="../Page/알아인.md" title="wikilink">알아인</a>, 하자빈 자예드 스타디움</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2017년_AFC_챔피언스리그" title="wikilink">2017</a></p></td>
@@ -235,7 +245,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>1 - 1<br />
 1 - 0</strong></p></td>
 <td><p><a href="../Page/알힐랄_FC.md" title="wikilink">알힐랄</a></p></td>
-<td><p><small> <a href="../Page/리야드.md" title="wikilink">리야드</a>, <a href="../Page/킹_파흐드_국제경기장.md" title="wikilink">킹 파흐드 국제경기장</a> </br>  <a href="https://ko.wikipedia.org/wiki/사이타마_시" title="wikilink">사이타마</a>, <a href="../Page/사이타마_스타디움_2002.md" title="wikilink">사이타마 스타디움 2002</a></small></p></td>
+<td><p><a href="../Page/리야드.md" title="wikilink">리야드</a>, <a href="../Page/킹_파흐드_국제경기장.md" title="wikilink">킹 파흐드 국제경기장</a><br />
+ <a href="../Page/사이타마시.md" title="wikilink">사이타마</a>, <a href="../Page/사이타마_스타디움_2002.md" title="wikilink">사이타마 스타디움 2002</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2018년_AFC_챔피언스리그" title="wikilink">2018</a></p></td>
@@ -243,7 +254,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>2 - 0</strong><br />
 <strong>0 - 0</strong></p></td>
 <td><p><a href="../Page/페르세폴리스_FC.md" title="wikilink">페르세폴리스</a></p></td>
-<td><p><small> <a href="../Page/가시마시_(이바라키현).md" title="wikilink">가시마</a>, <a href="https://ko.wikipedia.org/wiki/이바라키_현립_가시마_사커_스타디움" title="wikilink">가시마 사커 스타디움</a> </br>  <a href="../Page/테헤란.md" title="wikilink">테헤란</a>, <a href="../Page/아자디_스타디움.md" title="wikilink">아자디 스타디움</a></small></p></td>
+<td><p><a href="../Page/가시마시_(이바라키현).md" title="wikilink">가시마</a>, <a href="https://ko.wikipedia.org/wiki/이바라키_현립_가시마_사커_스타디움" title="wikilink">가시마 사커 스타디움</a><br />
+ <a href="../Page/테헤란.md" title="wikilink">테헤란</a>, <a href="../Page/아자디_스타디움.md" title="wikilink">아자디 스타디움</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2019년_AFC_챔피언스리그" title="wikilink">2019</a></p></td>
@@ -251,7 +263,8 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 <td><p><strong>1 - 0</strong><br />
 <strong>2 - 0</strong></p></td>
 <td><p><a href="../Page/우라와_레드_다이아몬즈.md" title="wikilink">우라와 레드 다이아몬즈</a></p></td>
-<td><p><small> <a href="../Page/리야드.md" title="wikilink">리야드</a>, <a href="../Page/킹_사우드_대학_경기장.md" title="wikilink">킹 사우드 대학 경기장</a> </br>  <a href="https://ko.wikipedia.org/wiki/사이타마_시" title="wikilink">사이타마</a>, <a href="../Page/사이타마_스타디움_2002.md" title="wikilink">사이타마 스타디움 2002</a></small></p></td>
+<td><p><a href="../Page/리야드.md" title="wikilink">리야드</a>, <a href="../Page/킹_사우드_대학_경기장.md" title="wikilink">킹 사우드 대학 경기장</a><br />
+ <a href="../Page/사이타마시.md" title="wikilink">사이타마</a>, <a href="../Page/사이타마_스타디움_2002.md" title="wikilink">사이타마 스타디움 2002</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -399,52 +412,52 @@ AFC는 2014년부터 챔피언스리그 참가국을 19개국으로 확대하는
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
+<td></td>
 <td><p>5회</p></td>
 <td><p>3회</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/일본.md" title="wikilink">일본</a></p></td>
+<td></td>
 <td><p>4회</p></td>
 <td><p>1회</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/사우디아라비아.md" title="wikilink">사우디아라비아</a></p></td>
+<td></td>
 <td><p>3회</p></td>
 <td><p>5회</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/중국.md" title="wikilink">중국</a></p></td>
+<td></td>
 <td><p>2회</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/아랍에미리트.md" title="wikilink">아랍에미리트</a></p></td>
+<td></td>
 <td><p>1회</p></td>
 <td><p>3회</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/오스트레일리아.md" title="wikilink">오스트레일리아</a></p></td>
+<td></td>
 <td><p>1회</p></td>
 <td><p>1회</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/카타르.md" title="wikilink">카타르</a></p></td>
+<td></td>
 <td><p>1회</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/이란.md" title="wikilink">이란</a></p></td>
+<td></td>
 <td></td>
 <td><p>3회</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/태국.md" title="wikilink">태국</a></p></td>
+<td></td>
 <td></td>
 <td><p>1회</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/시리아.md" title="wikilink">시리아</a></p></td>
+<td></td>
 <td></td>
 <td><p>1회</p></td>
 </tr>

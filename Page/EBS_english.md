@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EBS english](https://ko.wikipedia.org/wiki/EBS_english).
 
 
-(<small>약칭 :</small> EBSe)는 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")가 운영하여, [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")에서 허가된 영어 교육 [전문 채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink") [2007년](../Page/2007년.md "wikilink") [4월 6일에](../Page/4월_6일.md "wikilink") [KBS 1TV와](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 함께 개국하였다.
+(<small>약칭 :</small> EBSe)는 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")가 운영하여, [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")에서 허가된 영어 교육 [전문 채널로](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink") [2007년](../Page/2007년.md "wikilink") [4월 6일에](../Page/4월_6일.md "wikilink") 개국하였다.
 
 ## 채널 번호
 

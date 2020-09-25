@@ -492,7 +492,7 @@
 
 #### 컵
 
-  - **[FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")**
+  - **[FA컵](../Page/FA컵_\(대한민국\).md "wikilink")**
 
 <!-- end list -->
 
@@ -505,7 +505,7 @@
   -
     {|class="wikitable"
 
-|-bgcolor="\#efefef" \! 시즌 \! 리그 \! 순위 \! 경기 \! 승 \! 무 \! 패 \! 득 \! 실 \! 승점 \! [리그컵](../Page/리그컵_\(대한민국\).md "wikilink") \! [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") \! 기타 \! 감독 |- |2004 |K리그 |align=right|**12** |align=right|24 |align=right|6 |align=right|8 |align=right|10 |align=right|20 |align=right|29 |align=right|**26** |8위 |32강 | |[로란트](../Page/베르너_로란트.md "wikilink")
+|-bgcolor="\#efefef" \! 시즌 \! 리그 \! 순위 \! 경기 \! 승 \! 무 \! 패 \! 득 \! 실 \! 승점 \! [리그컵](../Page/리그컵_\(대한민국\).md "wikilink") \! [FA컵](../Page/FA컵_\(대한민국\).md "wikilink") \! 기타 \! 감독 |- |2004 |K리그 |align=right|**12** |align=right|24 |align=right|6 |align=right|8 |align=right|10 |align=right|20 |align=right|29 |align=right|**26** |8위 |32강 | |[로란트](../Page/베르너_로란트.md "wikilink")
 [장외룡](../Page/장외룡.md "wikilink") (대행) |- |2005 |K리그 |bgcolor=SILVER align=right|**2** |align=right|24 |align=right|13 |align=right|6 |align=right|5 |align=right|36 |align=right|26 |align=right|**45** |6위 |16강 | |[장외룡](../Page/장외룡.md "wikilink") |- |2006 |K리그 |align=right|**9** |align=right|26 |align=right|7 |align=right|12 |align=right|7 |align=right|24 |align=right|27 |align=right|**33** |14위 |bgcolor=\#CC9966|**4강** | |[장외룡](../Page/장외룡.md "wikilink") |- |2007 |K리그 |align=right|**9** |align=right|26 |align=right|8 |align=right|9 |align=right|9 |align=right|30 |align=right|32 |align=right|**33** |bgcolor=\#CC9966|**4강** |bgcolor=\#CC9966|**4강** | |[박이천](../Page/박이천.md "wikilink") (대행) |- |2008 |K리그 |align=right|**7** |align=right|26 |align=right|9 |align=right|9 |align=right|8 |align=right|29 |align=right|30 |align=right|**36** |A조 6위 |32강 | |[장외룡](../Page/장외룡.md "wikilink") |- |2009 |K리그 |align=right|**6** |align=right|28 |align=right|11 |align=right|10 |align=right|7 |align=right|31 |align=right|29 |align=right|**43** |8강 |32강 | |[페트코비치](../Page/일리야_페트코비치.md "wikilink") |- |2010 |K리그 |align=right|**11** |align=right|28 |align=right|8 |align=right|7 |align=right|13 |align=right|42 |align=right|51 |align=right|**31** |C조 4위 |8강 | |[페트코비치](../Page/일리야_페트코비치.md "wikilink")
 [김봉길](https://ko.wikipedia.org/wiki/김봉길 "wikilink") (대행)
 [허정무](../Page/허정무.md "wikilink") |- |2011 |K리그 |align=right|**13** |align=right|30 |align=right|6 |align=right|14 |align=right|10 |align=right|31 |align=right|40 |align=right|**30** |A조 4위 |16강 | |[허정무](../Page/허정무.md "wikilink") |- |2012 |K리그 |align=right|**9** |align=right|44 |align=right|17 |align=right|16 |align=right|11 |align=right|46 |align=right|40 |align=right|**67** | - |16강 | |[허정무](../Page/허정무.md "wikilink")

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ARM 홀딩스](https://ko.wikipedia.org/wiki/ARM_홀딩스).
 
 
-**ARM 홀딩스 plc**()는 [영국](../Page/영국.md "wikilink")의 반도체 회사이다. [프로세서를](../Page/중앙_처리_장치.md "wikilink") 설계하고 라이센싱하는 것으로 유명하다. 이외에도 [리얼뷰](https://ko.wikipedia.org/wiki/리얼뷰 "wikilink") 및 [케일](https://ko.wikipedia.org/wiki/케일 "wikilink") 브랜드로 [소프트웨어 개발 도구도](https://ko.wikipedia.org/wiki/소프트웨어_개발_도구 "wikilink") 설계, 제조, 라이선스하고 있다. [시스템과 플랫폼](../Page/컴퓨팅_플랫폼.md "wikilink"), [시스템 온 칩](https://ko.wikipedia.org/wiki/시스템_온_칩 "wikilink") 인프라스트럭처, 기타 소프트웨어도 설계, 제조, 라이선스하고 있다. ARM 홀딩스는 [런던 증권거래소](https://ko.wikipedia.org/wiki/런던_증권거래소 "wikilink") 및 [나스닥](../Page/나스닥.md "wikilink")에 상장되어 있다. 또한, [실리콘 펜](https://ko.wikipedia.org/wiki/실리콘_펜 "wikilink")([캠브리지](../Page/케임브리지.md "wikilink") 클러스터) 지역 회사로 유명하다. 2016년 7월 [일본](../Page/일본.md "wikilink") [소프트뱅크그룹](../Page/소프트뱅크그룹.md "wikilink")에 310억달러에 인수되었다.
+**ARM 홀딩스 plc**()는 [영국](../Page/영국.md "wikilink")의 반도체 회사이다. [프로세서를](../Page/중앙_처리_장치.md "wikilink") 설계하고 라이센싱하는 것으로 유명하다. 이외에도 [리얼뷰](https://ko.wikipedia.org/wiki/리얼뷰 "wikilink") 및 [케일](https://ko.wikipedia.org/wiki/케일 "wikilink") 브랜드로 [소프트웨어 개발 도구도](https://ko.wikipedia.org/wiki/소프트웨어_개발_도구 "wikilink") 설계, 제조, 라이선스하고 있다. [시스템과 플랫폼](../Page/컴퓨팅_플랫폼.md "wikilink"), [시스템 온 칩](https://ko.wikipedia.org/wiki/시스템_온_칩 "wikilink") 인프라스트럭처, 기타 소프트웨어도 설계, 제조, 라이선스하고 있다. ARM 홀딩스는 [런던 증권거래소](https://ko.wikipedia.org/wiki/런던_증권거래소 "wikilink") 및 [나스닥](../Page/나스닥.md "wikilink")에 상장되어 있다. 또한, [실리콘 펜](https://ko.wikipedia.org/wiki/실리콘_펜 "wikilink")([캠브리지](../Page/케임브리지.md "wikilink") 클러스터) 지역 회사로 유명하다. 2016년 7월 [일본](../Page/일본.md "wikilink") [소프트뱅크그룹](../Page/소프트뱅크그룹.md "wikilink")에 310억달러에 인수되었다. 2020년 9월 13일, [엔비디아](../Page/엔비디아.md "wikilink")는 소프트뱅크로부터 Arm을 10% 주식과 함께 400억 달러에 인수한다고 발표하였다.\[1\]\[2\]
 
 ## 역사
 
@@ -37,3 +37,6 @@ ARM은 [캘리포니아주](../Page/캘리포니아주.md "wikilink") [새너제
 
   -
 [분류:1990년 설립](https://ko.wikipedia.org/wiki/분류:1990년_설립 "wikilink") [분류:아콘 컴퓨터](https://ko.wikipedia.org/wiki/분류:아콘_컴퓨터 "wikilink") [분류:애플](https://ko.wikipedia.org/wiki/분류:애플 "wikilink") [분류:영국의 전자 기업](https://ko.wikipedia.org/wiki/분류:영국의_전자_기업 "wikilink") [분류:팹리스 반도체 기업](https://ko.wikipedia.org/wiki/분류:팹리스_반도체_기업 "wikilink") [분류:소프트뱅크](https://ko.wikipedia.org/wiki/분류:소프트뱅크 "wikilink") [분류:1990년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1990년_설립된_기업 "wikilink")
+
+1.
+2.

@@ -7,7 +7,7 @@
 
   - [TVE1](https://ko.wikipedia.org/wiki/TVE1 "wikilink") (라 우노; 라 1): [1956년](../Page/1956년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") 개국하였다. HD 방송은 2014년 1월 1일부터 하고 있다.
   - [TVE2](../Page/TVE2.md "wikilink") (라 도스; 라 2): [1966년](../Page/1966년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") 개국하였다. HD 방송은 2017년 10월 31일부터 하고 있다.
-  - 카날 24 오라스(Canal 24 Horas): [1997년](../Page/1997년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") 개국한 [뉴스](../Page/뉴스.md "wikilink") 전문 채널이다. 2017년 12월 현재 TVE의 국내용 방송 중 유일하게 SD로만 방송하고 있다.
+  - 카날 24 오라스(Canal 24 Horas): [1997년](../Page/1997년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") 개국한 [뉴스](../Page/뉴스.md "wikilink") 전문 채널이다. HD 방송은 2019년 12월 1일부터 Hotbird 위성을 통해서만 송출하고 있다.
   - 클란 TVE (Clan TVE):[2007년](../Page/2007년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 개국한 어린이 전문 채널이다. HD 방송은 2017년 10월 31일부터 하고 있다.
   - 텔레데뽀르테 (TeleDeporte): [1994년](../Page/1994년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") 개국한 스포츠 전문 채널이다. HD 방송은 2014년 1월 1일부터 하고 있다.
   - TVE 인테르나시오날 (TVE internacional): [1989년](../Page/1989년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") 개국한 [국제 방송](https://ko.wikipedia.org/wiki/국제_방송 "wikilink") 채널이다.

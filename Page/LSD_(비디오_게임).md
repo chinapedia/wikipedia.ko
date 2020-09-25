@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [LSD \(비디오 게임\)](https://ko.wikipedia.org/wiki/LSD_\(비디오_게임\)).
 
 
-《**LSD**》(Lunacy Savage Dream)는 [1998년](../Page/1998년.md "wikilink") [일본](../Page/일본.md "wikilink")의 비디오 게임, 영화 제작사인 [아스믹 에이스 엔터테인먼트에서](https://ko.wikipedia.org/wiki/아스믹_에이스_엔터테인먼트 "wikilink") 제작한 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")용 게임이다. '드림 에뮬레이터'를 표방해 제작되었으며, 게임 내용은 제작진이 10년 동안 쓴 [꿈일기](https://ko.wikipedia.org/wiki/꿈일기 "wikilink")에 기반하고 있다.
+《**LSD**》(Lunacy Savage Dream)는 [1998년](../Page/1998년.md "wikilink") [일본](../Page/일본.md "wikilink")의 비디오 게임, 영화 제작사인 [아스믹 에이스 엔터테인먼트에서](https://ko.wikipedia.org/wiki/아스믹_에이스_엔터테인먼트 "wikilink") 제작한 [플레이스테이션](../Page/플레이스테이션.md "wikilink")용 게임이다. '드림 에뮬레이터'를 표방해 제작되었으며, 게임 내용은 제작진이 10년 동안 쓴 [꿈일기](../Page/꿈일기.md "wikilink")에 기반하고 있다.
 
 ## 개요
 

@@ -23,7 +23,7 @@ CCTV 본사 빌딩은 총연면적 45만 5천 제곱미터로 지어졌다. CCTV
 
 ### CCTV 텔레비전 문화 센터
 
-CCTV 텔레비전 문화 센터(TVCC, )에는 [호텔](https://ko.wikipedia.org/wiki/호텔 "wikilink"), 로비, 1500석 규모의 [극장](https://ko.wikipedia.org/wiki/극장 "wikilink"), 디지털 [영화관](../Page/영화관.md "wikilink"), 콘퍼런스 룸, 연회장 등이 들어섰다. 이 건물은 일반인들이 드나들 수 있는 열린 구조를 띠고 있다. 또한 [2008년 베이징 하계 올림픽](https://ko.wikipedia.org/wiki/2008년_하계_올림픽 "wikilink") 기간에는 국제 방송 센터로 쓰였다.
+CCTV 텔레비전 문화 센터(TVCC, )에는 [호텔](https://ko.wikipedia.org/wiki/호텔 "wikilink"), 로비, 1500석 규모의 [극장](../Page/극장.md "wikilink"), 디지털 [영화관](../Page/영화관.md "wikilink"), 콘퍼런스 룸, 연회장 등이 들어섰다. 이 건물은 일반인들이 드나들 수 있는 열린 구조를 띠고 있다. 또한 [2008년 베이징 하계 올림픽](https://ko.wikipedia.org/wiki/2008년_하계_올림픽 "wikilink") 기간에는 국제 방송 센터로 쓰였다.
 
 2009년 3월 9일에 [CCTV 사옥에 대형 화재가 발생하는 사건이](https://ko.wikipedia.org/wiki/CCTV_텔레비전_문화_센터_화재 "wikilink") 일어났다.
 

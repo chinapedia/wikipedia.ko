@@ -90,7 +90,7 @@
 
 ### 현재명단
 
-감독: [이영택](https://ko.wikipedia.org/wiki/이영택_\(배구\) "wikilink")
+감독: [이영택](https://ko.wikipedia.org/wiki/이영택_\(배구인\) "wikilink")
 
 <table>
 <thead>
@@ -280,7 +280,7 @@
 
 *2020-21 시즌 기준.*
 
-  - 감독: [이영택](https://ko.wikipedia.org/wiki/이영택_\(배구_선수\) "wikilink")
+  - 감독: [이영택](https://ko.wikipedia.org/wiki/이영택_\(배구인\) "wikilink")
   - 수석코치: [장영기](../Page/장영기.md "wikilink")
   - 코치: 안준찬
   - 전략코치: 김달호
@@ -448,7 +448,7 @@
 </tr>
 <tr class="odd">
 <td><p>2019년–현재</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이영택_(배구감독)" title="wikilink">이영택</a> (감독)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이영택_(배구인)" title="wikilink">이영택</a> (감독)</p></td>
 <td></td>
 <td></td>
 <td></td>

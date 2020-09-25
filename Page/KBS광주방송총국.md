@@ -5,7 +5,7 @@
 
 ## 개요
 
-1942년 광주방송국으로 개국하여 1973년 [한국방송공사](../Page/한국방송공사.md "wikilink") 광주방송국으로 발족, 1982년 NHK후쿠오카방송국 자매결연. 1986년 12월 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공사 직제개편으로 KBS 광주방송총국으로 승격되었다. 1998년 광주상무지구에 신청사를 기공하여, 2000년 12월 준공했다. 2003년 11월 디지털TV를 개국했다.
+1942년 광주방송국으로 개국하여 1973년 [한국방송공사](../Page/한국방송공사.md "wikilink") 광주방송국으로 발족, 1982년 [NHK 후쿠오카 방송국](../Page/NHK_후쿠오카_방송국.md "wikilink") 자매결연. 1986년 12월 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 공사 직제개편으로 KBS 광주방송총국으로 승격되었다. 1998년 광주상무지구에 신청사를 기공하여, 2000년 12월 준공했다. 2003년 11월 디지털TV를 개국했다.
 
 보도, 지역현안, 지역민 문제에 대한 시사교양적 프로그램을 자체제작하여 편성하며, 대부분의 프로그램은 KBS본사의 프로그램을 릴레이하여 편성한다.
 
@@ -186,7 +186,7 @@ PC,모바일 MY K로 실시간 시청 가능
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="../Page/유승용.md" title="wikilink">유승용</a>, <a href="https://ko.wikipedia.org/wiki/박재효" title="wikilink">박재효</a>(평일)<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/김한별" title="wikilink">김한별</a>, <a href="https://ko.wikipedia.org/wiki/김해정" title="wikilink">김해정</a>(평일)<br />
 <a href="https://ko.wikipedia.org/wiki/임진숙" title="wikilink">임진숙</a>(주말)</p></td>
 </tr>
 </tbody>
@@ -307,7 +307,7 @@ PC,모바일 MY K로 실시간 시청 가능
 
 #### 프로그램
 
-  - [빛고을 가요차차차](http://program.kbs.co.kr/2radio/local/songchachacha/pc/) (연예오락, 월\~일,11:00\~11:57)(진행 [노희설, 김한별](https://ko.wikipedia.org/wiki/김한별_\(아나운서\) "wikilink"))
+  - [빛고을 가요차차차](http://program.kbs.co.kr/2radio/local/songchachacha/pc/) (연예오락, 월\~일,11:00\~11:57)(진행 [노희설, 김한별](../Page/김한별_\(아나운서\).md "wikilink"))
 
 ### 음악FM
 

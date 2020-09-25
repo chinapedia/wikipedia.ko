@@ -7,7 +7,7 @@
 
 ### 2008-09 시즌 \~ 2016-17 시즌
 
-CONCACAF 챔피언스리그는 1962년부터 2008년까지 진행된 [CONCACAF 챔피언스컵](https://ko.wikipedia.org/wiki/CONCACAF_챔피언스컵 "wikilink")(CONCACAF Champions' Cup)을 개편하면서 신설되었다. 2008-09 시즌부터 2011-12 시즌까지 열린 CONCACAF 챔피언스리그는 7월부터 8월까지 예선 라운드를, 8월부터 10월까지 조별 예선을 진행하고, 다음해 3월부터 4월까지 결선 토너먼트를 진행하는 방식이었다.
+CONCACAF 챔피언스리그는 1962년부터 2008년까지 진행된 [CONCACAF 챔피언스컵](../Page/CONCACAF_챔피언스컵.md "wikilink")(CONCACAF Champions' Cup)을 개편하면서 신설되었다. 2008-09 시즌부터 2011-12 시즌까지 열린 CONCACAF 챔피언스리그는 7월부터 8월까지 예선 라운드를, 8월부터 10월까지 조별 예선을 진행하고, 다음해 3월부터 4월까지 결선 토너먼트를 진행하는 방식이었다.
 
 이 기간 동안에는 총 24개 팀이 참가했다. 9개 팀이 출전한 [북아메리카 축구 연맹에서는](https://ko.wikipedia.org/wiki/북아메리카_축구_연맹 "wikilink") [멕시코](../Page/멕시코.md "wikilink")와 [미국](../Page/미국.md "wikilink")에서 각각 4개 팀씩 출전했고, [캐나다](../Page/캐나다.md "wikilink")에서 1개 팀이 출전했다. 12개 팀이 출전한 [중앙아메리카 축구 연맹에서는](https://ko.wikipedia.org/wiki/중앙아메리카_축구_연맹 "wikilink") [코스타리카](../Page/코스타리카.md "wikilink"), [엘살바도르](../Page/엘살바도르.md "wikilink"), [과테말라](../Page/과테말라.md "wikilink"), [온두라스](../Page/온두라스.md "wikilink"), [파나마](../Page/파나마.md "wikilink")에서 각각 2개 팀씩 출전했고, [벨리즈](../Page/벨리즈.md "wikilink")와 [니카라과](../Page/니카라과.md "wikilink")는 1개 팀이 출전했다. [카리브 축구 연맹에서는](../Page/카리브_축구_연맹.md "wikilink") 3개 팀이 출전했는데, [카리브 클럽 챔피언십을](../Page/카리브_클럽_챔피언십.md "wikilink") 통해 출전 팀이 정해졌다.\[1\]
 

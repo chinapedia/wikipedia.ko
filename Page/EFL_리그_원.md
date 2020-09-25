@@ -37,7 +37,7 @@
 | [로치데일](../Page/로치데일_AFC.md "wikilink")                               | 20위                                            | [로치데일](https://ko.wikipedia.org/wiki/로치데일 "wikilink")       | 스포틀랜드 스타디움                                       | 10,500 |
 | [애크링턴 스탠리](../Page/애크링턴_스탠리_FC.md "wikilink")                        | [EFL 리그 투](../Page/EFL_리그_투.md "wikilink") 1위  | [애크링턴](https://ko.wikipedia.org/wiki/애크링턴 "wikilink")       | 크라운 그라운드                                         | 5,057  |
 | [루턴 타운](../Page/루턴_타운_FC.md "wikilink")                              | [EFL 리그 투](../Page/EFL_리그_투.md "wikilink") 2위  | [루턴](../Page/루턴.md "wikilink")                              | 케닐워스 로드                                          | 10,356 |
-| [위컴 원더러스](https://ko.wikipedia.org/wiki/위컴_원더러스_FC "wikilink")       | [EFL 리그 투](../Page/EFL_리그_투.md "wikilink") 3위  | [하이위컴](https://ko.wikipedia.org/wiki/하이위컴 "wikilink")       | 애덤스 파크                                           | 9,617  |
+| [위컴 원더러스](../Page/위컴_원더러스_FC.md "wikilink")                          | [EFL 리그 투](../Page/EFL_리그_투.md "wikilink") 3위  | [하이위컴](https://ko.wikipedia.org/wiki/하이위컴 "wikilink")       | 애덤스 파크                                           | 9,617  |
 | [코번트리 시티](../Page/코번트리_시티_FC.md "wikilink")                          | [EFL 리그 투](../Page/EFL_리그_투.md "wikilink") 6위  | [코번트리](../Page/코번트리.md "wikilink")                          | [리코 아레나](../Page/리코_아레나.md "wikilink")           | 32,609 |
 
 ## 역대 승격 팀
@@ -68,9 +68,9 @@
 | 2006-07 | [로더럼 유나이티드](../Page/로더럼_유나이티드_FC.md "wikilink"), [브래드퍼드 시티](../Page/브래드퍼드_시티_AFC.md "wikilink"), [브렌트퍼드](../Page/브렌트퍼드_FC.md "wikilink"), [체스터필드](../Page/체스터필드_FC.md "wikilink")                                  |
 | 2007-08 | [루턴 타운](../Page/루턴_타운_FC.md "wikilink"), [본머스](../Page/AFC_본머스.md "wikilink"), [질링엄](../Page/질링엄_FC.md "wikilink"), [포트 베일](../Page/포트_베일_FC.md "wikilink")                                                        |
 | 2008-09 | [노샘프턴 타운](../Page/노샘프턴_타운_FC.md "wikilink"), [첼트넘 타운](../Page/첼트넘_타운_FC.md "wikilink"), [크루 알렉산드라](../Page/크루_알렉산드라_FC.md "wikilink"), [헤리퍼드 유나이티드](../Page/헤리퍼드_유나이티드_FC.md "wikilink")                           |
-| 2009-10 | [사우스엔드 유나이티드](../Page/사우스엔드_유나이티드_FC.md "wikilink"), [스톡포트 카운티](../Page/스톡포트_카운티_FC.md "wikilink"), [위컴 원더러스](https://ko.wikipedia.org/wiki/위컴_원더러스_FC "wikilink"), [질링엄](../Page/질링엄_FC.md "wikilink")            |
+| 2009-10 | [사우스엔드 유나이티드](../Page/사우스엔드_유나이티드_FC.md "wikilink"), [스톡포트 카운티](../Page/스톡포트_카운티_FC.md "wikilink"), [위컴 원더러스](../Page/위컴_원더러스_FC.md "wikilink"), [질링엄](../Page/질링엄_FC.md "wikilink")                               |
 | 2010-11 | [대거넘 & 레드브리지](../Page/대거넘_&_레드브리지_FC.md "wikilink"), [브리스틀 로버스](../Page/브리스틀_로버스_FC.md "wikilink"), [스윈던 타운](../Page/스윈던_타운_FC.md "wikilink"), [플리머스 아가일](https://ko.wikipedia.org/wiki/플리머스_아가일_FC "wikilink")    |
-| 2011-12 | [로치데일](../Page/로치데일_AFC.md "wikilink"), [엑서터 시티](../Page/엑서터_시티_FC.md "wikilink"), [위컴 원더러스](https://ko.wikipedia.org/wiki/위컴_원더러스_FC "wikilink"), [체스터필드](../Page/체스터필드_FC.md "wikilink")                         |
+| 2011-12 | [로치데일](../Page/로치데일_AFC.md "wikilink"), [엑서터 시티](../Page/엑서터_시티_FC.md "wikilink"), [위컴 원더러스](../Page/위컴_원더러스_FC.md "wikilink"), [체스터필드](../Page/체스터필드_FC.md "wikilink")                                            |
 | 2012-13 | [베리](../Page/베리_FC.md "wikilink"), [스컨소프 유나이티드](https://ko.wikipedia.org/wiki/스컨소프_유나이티드_FC "wikilink"), [포츠머스](../Page/포츠머스_FC.md "wikilink"), [하틀풀 유나이티드](https://ko.wikipedia.org/wiki/하틀풀_유나이티드_FC "wikilink") |
 | 2013-14 | [슈루즈베리 타운](../Page/슈루즈베리_타운_FC.md "wikilink"), [스테버니지](../Page/스테버니지_FC.md "wikilink"), [칼라일 유나이티드](../Page/칼라일_유나이티드_FC.md "wikilink"), [트랜미어 로버스](../Page/트랜미어_로버스_FC.md "wikilink")                             |
 | 2014–15 | [노츠 카운티](../Page/노츠_카운티_FC.md "wikilink"), [레이턴 오리엔트](https://ko.wikipedia.org/wiki/레이턴_오리엔트_FC "wikilink"), [요빌 타운](../Page/요빌_타운_FC.md "wikilink"), [크롤리 타운](../Page/크롤리_타운_FC.md "wikilink")                    |

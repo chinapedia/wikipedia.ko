@@ -21,7 +21,7 @@
 2.  Make You Free ([2002년](../Page/2002년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink"))
 3.  OVERLAP ([2004년](../Page/2004년.md "wikilink") [2월 25일](../Page/2월_25일.md "wikilink"))
 4.  Be Shiny ([2004년](../Page/2004년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink"))
-5.  The Pleasure of Love ([2005년](../Page/2005년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink"))
+5.  The Pleasure of Love ([2005년](../Page/2005년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink"))
 6.  Answer will come ([2005년](../Page/2005년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink"))
 7.  LOVE BITES ([2005년](../Page/2005년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink"))
 8.  恋のパフォマンス\~to be with you\~(사랑의 퍼포먼스 \~to be with you\~, [2006년](../Page/2006년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink"))

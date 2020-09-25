@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC FM4U](https://ko.wikipedia.org/wiki/MBC_FM4U).
 
 
-**MBC FM4U**는 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [문화방송](../Page/문화방송.md "wikilink")의 [연예오락](https://ko.wikipedia.org/wiki/오락 "wikilink"), [대중음악](../Page/대중음악.md "wikilink") 전문 [라디오](../Page/라디오.md "wikilink") 채널이다. [1970년](../Page/1970년.md "wikilink") [4월 15일에](../Page/4월_15일.md "wikilink") [부산문화방송](../Page/부산문화방송.md "wikilink")에서, [1971년](../Page/1971년.md "wikilink") [9월 19일에](../Page/9월_19일.md "wikilink") [문화방송](../Page/문화방송.md "wikilink")에서 개국하였다. 여기에서 유래하여 **MBC FM4U**의 수도권 주파수는 *91.9㎒*이다.
+**MBC FM4U**는 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [문화방송](../Page/문화방송.md "wikilink")의 [음악](../Page/음악.md "wikilink") 전문 [라디오](../Page/라디오.md "wikilink") 채널이다. [1970년](../Page/1970년.md "wikilink") [4월 15일에](../Page/4월_15일.md "wikilink") [부산문화방송](../Page/부산문화방송.md "wikilink")에서, [1971년](../Page/1971년.md "wikilink") [9월 19일에](../Page/9월_19일.md "wikilink") [문화방송](../Page/문화방송.md "wikilink")에서 개국하였다. 여기에서 유래하여 **MBC FM4U**의 수도권 주파수는 *91.9㎒*이다.
 
 ## 개요
 
@@ -169,7 +169,7 @@
   - [박미선](../Page/박미선.md "wikilink") - [정오의 희망곡](../Page/정오의_희망곡.md "wikilink") (이경규/박미선, 1991.4.1 \~ 하차 시기 미상)
   - 박미숙 - FM 영화음악 (1987.10 \~ 1988.10)
   - [박소현](../Page/박소현_\(배우\).md "wikilink") - FM 데이트 (1994.10.10\~1996.9.30)
-  - [박소현](https://ko.wikipedia.org/wiki/박소현_\(1976년\) "wikilink") - 올 댓 뮤직(2004.4.27\~2005.4.24), 뮤직스트리트 3부(2005.4.25\~10.23), [클래식 공감](../Page/클래식_공감.md "wikilink") (2008\~2009, 2011.10.28\~2012.10.22)
+  - [박소현](../Page/박소현_\(1976년\).md "wikilink") - 올 댓 뮤직(2004.4.27\~2005.4.24), 뮤직스트리트 3부(2005.4.25\~10.23), [클래식 공감](../Page/클래식_공감.md "wikilink") (2008\~2009, 2011.10.28\~2012.10.22)
   - [박원](../Page/박원.md "wikilink") - 세상을 여는 아침 (2012.1.31\~2012.7.22, [문화방송 파업기간](../Page/2012년_대한민국_언론_노조_파업.md "wikilink"))
   - [박원웅](../Page/박원웅.md "wikilink") - 밤의 디스크쇼(1971), 박원웅과 함께(1974.10.1\~1987.9.30), FM 골든디스크 (1991.4.1\~1993.10.10)
   - [박인희](https://ko.wikipedia.org/wiki/박인희 "wikilink") - 박인희와 함께 (1977)
@@ -462,7 +462,7 @@
   - [1980년](../Page/1980년.md "wikilink")에는 '새 시대를 앞서가는 여러분의 문화방송입니다. HLKV-FM', '언제 어디서나 여러분과 함께하는 문화방송입니다. HLKV-FM' 멘트가 사용되었다.
   - [1980년대](../Page/1980년대.md "wikilink")에는 음악을 배경으로 시보가 사용되었다. 또 '건강한 라디오 문화방송입니다. HLKV MBC-FM'멘트가 사용되었다.
   - 1990년대에는 '91.9㎒ 문화방송입니다.'가 사용되었고 '(광고) 제공 시보 ○○시를 알려드립니다.'가 사용되었다.
-  - [2001년](../Page/2001년.md "wikilink")부터 [2010년](../Page/2010년.md "wikilink") [10월 17일까지](../Page/10월_17일.md "wikilink") 'FM 91.9㎒ 여러분의 문화방송입니다.'가 사용되었다. 현재까지 여성 아카펠라 그룹이 부르는 'MBC FM4U' 로고송이 나오고 시보음이 울린다. 그 이전에는 한때 [MBC 뉴스데스크에](../Page/MBC_뉴스데스크.md "wikilink") 사용된 적이 있었고 현재에도 쓰이고 있는 [MBC 표준FM과](../Page/MBC_표준FM.md "wikilink") 동일한 시보음을 사용하였다.
+  - [2001년](../Page/2001년.md "wikilink")부터 [2010년](../Page/2010년.md "wikilink") [10월 17일까지](../Page/10월_17일.md "wikilink") '(주파수) 여러분의 문화방송입니다.'가 사용되었다. 현재까지 여성 아카펠라 그룹이 부르는 'MBC FM4U' 로고송이 나오고 시보음이 울린다. 그 이전에는 한때 [MBC 뉴스데스크에](../Page/MBC_뉴스데스크.md "wikilink") 사용된 적이 있었고 현재에도 쓰이고 있는 [MBC 표준FM과](../Page/MBC_표준FM.md "wikilink") 동일한 시보음을 사용하였다.
   - [2010년](../Page/2010년.md "wikilink") [10월 18일부터](../Page/10월_18일.md "wikilink") 현재까지 호출부호가 추가되어 다시 사용 중이다.
   - [2014년](../Page/2014년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") 이후에 서울 MBC FM4U는 'FM 91.9㎒ MBC FM4U입니다. HLKV'로 멘트가 변경되었다.
 
@@ -498,14 +498,10 @@ MBC 창사기념일([12월 2일](../Page/12월_2일.md "wikilink"))을 즈음하
 
 ## 같이 보기
 
-  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
-  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
-  - [EBS FM](../Page/EBS_FM.md "wikilink")
+  - [KBS 제1FM](../Page/KBS_제1FM.md "wikilink")
+  - [KBS 제2FM](../Page/KBS_제2FM.md "wikilink")
   - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
-  - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
-  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
-  - [극동방송](../Page/극동방송.md "wikilink")
 
 ## 각주
 

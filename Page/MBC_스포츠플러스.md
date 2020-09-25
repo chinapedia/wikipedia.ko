@@ -48,7 +48,7 @@
 
 〉**<big>이직 아나운서</big>**
 
-• [김민아](../Page/김민아.md "wikilink")(현 SBS스포츠) • [정순주](../Page/정순주.md "wikilink")(현 JTBC) • [장예인](../Page/장예인.md "wikilink")(현 채널A)
+• [김민아](../Page/김민아_\(아나운서\).md "wikilink")(현 SBS스포츠) • [정순주](../Page/정순주.md "wikilink")(현 JTBC) • [장예인](../Page/장예인.md "wikilink")(현 채널A)
 
 • [최은지](https://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EC%B5%9C%EC%9D%80%EC%A7%80&os=14007526&ie=utf8&key=PeopleService)(현 TV조선) • [윤동현](https://people.search.naver.com/search.naver?where=nexearch&query=%EC%9C%A4%EB%8F%99%ED%98%84&sm=tab_etc&ie=utf8&key=PeopleService&os=5258314)(현 경남MBC)
 

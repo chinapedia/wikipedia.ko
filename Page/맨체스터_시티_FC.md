@@ -5,11 +5,7 @@
 
 **맨체스터 시티 FC**(, 약칭: )는 [잉글랜드](../Page/잉글랜드.md "wikilink") [그레이터맨체스터주](../Page/그레이터맨체스터주.md "wikilink") [맨체스터](../Page/맨체스터.md "wikilink")를 연고로 하여 [1880년](../Page/1880년.md "wikilink")에 창단한 [잉글랜드](../Page/잉글랜드.md "wikilink")의 [축구](../Page/축구.md "wikilink") 구단이다. 홈 경기장은 [에티하드 스타디움이다](https://ko.wikipedia.org/wiki/이티하드_스타디움 "wikilink").''' 맨체스터 시티<small>(이하, '맨시티')</small>는 '세인트 마크스 웨스트 고튼<small>(St. Mark's West Gorton)</small>'으로 창단되었고, 창단 첫 경기는 1880년 11월에 치루어졌다. [1887년](../Page/1887년.md "wikilink"), '아드윅 어소시에이션 풋볼 클럽<small>(Ardwick Association Football Club)</small>'으로 구단명을 개칭한 이후, 현재의 구단 명칭으로 바뀐 시점은 [1894년](../Page/1894년.md "wikilink")이다. 맨시티의 전성기는 1960년대 말부터 1970년대 초 까지로 평가받으며, 조 머서와 말콤 앨리슨의 지휘 아래 콜린 벨, 마이크 서머비, 프랜시스 리 등의 선수들을 주축으로 [풋볼 리그 1부](../Page/풋볼_리그_1부.md "wikilink")<small>(현재, *프리미어리그*)</small>, [FA컵](../Page/FA컵.md "wikilink"), [리그 컵](https://ko.wikipedia.org/wiki/리그컵 "wikilink"), 그리고 [유로피언 컵 위너스 컵에서](https://ko.wikipedia.org/wiki/uEFA_컵_위너스컵 "wikilink") 우승을 차지했다.
 
-1990년대에는 같은 도시의 [맨체스터 유나이티드는](https://ko.wikipedia.org/wiki/맨체스터_유나이티드 "wikilink") 세계적으로 유명세를 떨치고있었지만 정작 맨시티는 세 차례의 강등을 당했고, 3부리그에 강등된 시기도 있었다. [2007년](../Page/2007년.md "wikilink") [태국](../Page/태국.md "wikilink")의 총리였던 [탁신 친나왓이](../Page/탁신_친나왓.md "wikilink") 구단을 인수하며 부활의 날갯짓을 시작하였고, [2008년 9월](../Page/2008년_9월.md "wikilink") [만수르 빈 자이드 알나하얀](https://ko.wikipedia.org/wiki/만수르_빈_자이드_알나하얀 "wikilink") 소유의 [아부다비 유나이티드 그룹이](https://ko.wikipedia.org/wiki/:en:Abu_Dhabi_United_Group "wikilink") 구단을 매입하였으며,\[1\] [술라이만 알 파힘이](../Page/술라이만_알파힘.md "wikilink") 구단주가 되었다.\[2\]이후 막강한 자금력을 바탕으로 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에서 [2011-12 시즌과](../Page/프리미어리그_2011-12.md "wikilink") [2013-14 시즌](https://ko.wikipedia.org/wiki/프리미어리그_2013-14 "wikilink"),[2017-18 시즌](https://ko.wikipedia.org/wiki/프리미어리그_2017-18 "wikilink") 그리고 [2018-19 시즌까지](https://ko.wikipedia.org/wiki/프리미어리그_2018-19 "wikilink") 4회 우승을 차지하였다.
-
-그리고 [2018-19 시즌에는](https://ko.wikipedia.org/wiki/프리미어리그_2018-19 "wikilink") 팀의 레전드 선수인 [뱅상 콩파니가](../Page/뱅상_콩파니.md "wikilink") 팀을 떠났고 [2019-20 시즌에는](https://ko.wikipedia.org/wiki/프리미어리그_2019-20 "wikilink") 역시나 팀의 레전드 선수인 다비드 실바가 팀을 떠났다 이후 맨체스터 시티는 팀의 홈구장인 [에티하드 스타디움에](https://ko.wikipedia.org/wiki/에티하드_스타디움 "wikilink") [뱅상 콩파니와](../Page/뱅상_콩파니.md "wikilink") [다비드 실바의](../Page/다비드_실바.md "wikilink") 동상을 세우겠다고 발언했다
-
-현재 감독은 [펩 과르디올라이다](https://ko.wikipedia.org/wiki/펩_과르디올라 "wikilink")
+1990년대에는 같은 도시의 [맨체스터 유나이티드는](https://ko.wikipedia.org/wiki/맨체스터_유나이티드 "wikilink") 세계적으로 유명세를 떨치고있었지만 정작 맨시티는 세 차례의 강등을 당했고, 3부리그에 강등된 시기도 있었다. [2007년](../Page/2007년.md "wikilink") [태국](../Page/태국.md "wikilink")의 총리였던 [탁신 친나왓이](../Page/탁신_친나왓.md "wikilink") 구단을 인수하며 부활의 날갯짓을 시작하였고, [2008년 9월](../Page/2008년_9월.md "wikilink") [만수르 빈 자이드 알나하얀](https://ko.wikipedia.org/wiki/만수르_빈_자이드_알나하얀 "wikilink") 소유의 [아부다비 유나이티드 그룹이](https://ko.wikipedia.org/wiki/:en:Abu_Dhabi_United_Group "wikilink") 구단을 매입하였으며,\[1\] [술라이만 알 파힘이](../Page/술라이만_알파힘.md "wikilink") 구단주가 되었다.\[2\]이후 막강한 자금력을 바탕으로 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에서 [2011-12 시즌과](../Page/프리미어리그_2011-12.md "wikilink") [2013-14 시즌](https://ko.wikipedia.org/wiki/프리미어리그_2013-14 "wikilink"),[2017-18 시즌](https://ko.wikipedia.org/wiki/프리미어리그_2017-18 "wikilink") 그리고 [2018-19 시즌까지](https://ko.wikipedia.org/wiki/프리미어리그_2018-19 "wikilink") 4회 우승을 차지하였다. 현재 감독은 [펩 과르디올라이다](https://ko.wikipedia.org/wiki/펩_과르디올라 "wikilink")
 
 ## 역사
 
@@ -163,7 +159,7 @@
 
 ## 현재 선수 명단
 
-2020년 8월 28일\[6\]
+2020년 9월 16일\[6\]
 
 ### 임대 선수 명단
 

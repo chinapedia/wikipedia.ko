@@ -140,7 +140,7 @@
 
 <!-- end list -->
 
-  - [삼성의](../Page/삼성_라이온즈.md "wikilink") [대구 삼성 라이온즈 파크](https://ko.wikipedia.org/wiki/대구_삼성_라이온즈_파크 "wikilink"), [넥센의](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") [고척 스카이돔](https://ko.wikipedia.org/wiki/고척_스카이돔 "wikilink") 개장과 함께 잠실 중립구장 규정이 폐지되고 구장 크기와 관계 없이 1-2차전과 6-7차전은 페넌트레이스 우승팀 홈구장 , 3-5차전은 플레이오프 승리팀 홈구장에서 치르는 것으로 바뀐다.
+  - [삼성의](../Page/삼성_라이온즈.md "wikilink") [대구 삼성 라이온즈 파크](https://ko.wikipedia.org/wiki/대구_삼성_라이온즈_파크 "wikilink"), [넥센의](../Page/키움_히어로즈.md "wikilink") [고척 스카이돔](https://ko.wikipedia.org/wiki/고척_스카이돔 "wikilink") 개장과 함께 잠실 중립구장 규정이 폐지되고 구장 크기와 관계 없이 1-2차전과 6-7차전은 페넌트레이스 우승팀 홈구장 , 3-5차전은 플레이오프 승리팀 홈구장에서 치르는 것으로 바뀐다.
 
 <!-- end list -->
 
@@ -189,7 +189,7 @@
 | [2011](https://ko.wikipedia.org/wiki/2011년_한국시리즈 "wikilink") | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")<small>([류중일](../Page/류중일.md "wikilink"))</small>                          | 4 – 1 – 0                                                 | OOXOO                                                                                                  | [SK 와이번스](../Page/SK_와이번스.md "wikilink")<small>([이만수](https://ko.wikipedia.org/wiki/이만수 "wikilink"))</small>       | [오승환](https://ko.wikipedia.org/wiki/오승환 "wikilink")(삼성, 투수)                           |
 | [2012](https://ko.wikipedia.org/wiki/2012년_한국시리즈 "wikilink") | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")<small>([류중일](../Page/류중일.md "wikilink"))</small>                          | 4 – 2 – 0                                                 | OOXXOO                                                                                                 | [SK 와이번스](../Page/SK_와이번스.md "wikilink")<small>([이만수](https://ko.wikipedia.org/wiki/이만수 "wikilink"))</small>       | [이승엽](https://ko.wikipedia.org/wiki/이승엽 "wikilink")(삼성, 내야수)                          |
 | [2013](https://ko.wikipedia.org/wiki/2013년_한국시리즈 "wikilink") | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")<small>([류중일](../Page/류중일.md "wikilink"))</small>                          | 4 – 3 – 0                                                 | XXOXOOO                                                                                                | [두산 베어스](../Page/두산_베어스.md "wikilink")<small>([김진욱](../Page/김진욱.md "wikilink"))</small>                            | [박한이](../Page/박한이.md "wikilink")(삼성, 외야수)                                             |
-| [2014](https://ko.wikipedia.org/wiki/2014년_한국시리즈 "wikilink") | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")<small>([류중일](../Page/류중일.md "wikilink"))</small>                          | 4 – 2 – 0                                                 | XOOXOO                                                                                                 | [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink")<small>([염경엽](../Page/염경엽.md "wikilink"))</small>       | [야마이코 나바로](../Page/야마이코_나바로.md "wikilink")(삼성, 내야수)                                   |
+| [2014](https://ko.wikipedia.org/wiki/2014년_한국시리즈 "wikilink") | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")<small>([류중일](../Page/류중일.md "wikilink"))</small>                          | 4 – 2 – 0                                                 | XOOXOO                                                                                                 | [넥센 히어로즈](../Page/키움_히어로즈.md "wikilink")<small>([염경엽](../Page/염경엽.md "wikilink"))</small>                          | [야마이코 나바로](../Page/야마이코_나바로.md "wikilink")(삼성, 내야수)                                   |
 | [2015](https://ko.wikipedia.org/wiki/2015년_한국시리즈 "wikilink") | [두산 베어스](../Page/두산_베어스.md "wikilink")<small>([김태형](https://ko.wikipedia.org/wiki/김태형_\(야구인\) "wikilink"))</small> | 4 – 1 – 0                                                 | XOOOO                                                                                                  | [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")<small>([류중일](../Page/류중일.md "wikilink"))</small>                          | [정수빈](../Page/정수빈.md "wikilink")(두산, 외야수)                                             |
 | [2016](https://ko.wikipedia.org/wiki/2016년_한국시리즈 "wikilink") | [두산 베어스](../Page/두산_베어스.md "wikilink")<small>([김태형](https://ko.wikipedia.org/wiki/김태형_\(야구인\) "wikilink"))</small> | 4 – 0 – 0                                                 | OOOO                                                                                                   | [NC 다이노스](../Page/NC_다이노스.md "wikilink")<small>([김경문](../Page/김경문.md "wikilink"))</small>                          | [양의지](../Page/양의지.md "wikilink")(두산, 포수) |- align=center style="background: \#F2F2F2  |
 | [2018](https://ko.wikipedia.org/wiki/2018년_한국시리즈 "wikilink") | [SK 와이번스](../Page/SK_와이번스.md "wikilink")<small>([트레이 힐만](../Page/트레이_힐만.md "wikilink"))</small>                    | 4 – 2 – 0                                                 | OXOXOO                                                                                                 | [두산 베어스](../Page/두산_베어스.md "wikilink")<small>([김태형](https://ko.wikipedia.org/wiki/김태형_\(야구인\) "wikilink"))</small> | [한동민](../Page/한동민.md "wikilink")(SK, 외야수) |- align=center style="background: \#F2F2F2 |
@@ -209,7 +209,7 @@
 | 6                                            | [LG 트윈스](../Page/LG_트윈스.md "wikilink")                        | 2     | 4      | 1994년      | [MBC 청룡](../Page/LG_트윈스.md "wikilink") 포함                       |
 | [롯데 자이언츠](../Page/롯데_자이언츠.md "wikilink")     | 2                                                             | 3     | 1992년  | 85년 준우승 포함 |                                                                 |
 | 8                                            | [한화 이글스](../Page/한화_이글스.md "wikilink")                        | 1     | 5      | 1999년      | [빙그레 이글스](https://ko.wikipedia.org/wiki/빙그레_이글스 "wikilink") 포함  |
-| 9                                            | [키움 히어로즈](../Page/키움_히어로즈.md "wikilink")                      | 0     | 2      |            | [넥센 히어로즈](https://ko.wikipedia.org/wiki/넥센_히어로즈 "wikilink") 포함  |
+| 9                                            | [키움 히어로즈](../Page/키움_히어로즈.md "wikilink")                      | 0     | 2      |            | [넥센 히어로즈](../Page/키움_히어로즈.md "wikilink") 포함                     |
 | [NC 다이노스](../Page/NC_다이노스.md "wikilink")     | 0                                                             | 1     |        |            |                                                                 |
 
 **<big>구단별 승패 및 승률 통계</big>**
@@ -229,7 +229,8 @@
 | NC 다이노스  | 4전 4패          | 0.000  |  |
 
 
-\=== 감독별 우승 횟수 ===
+
+### 감독별 우승 횟수
 
 <table>
 <thead>
@@ -360,7 +361,7 @@
 <tr class="odd">
 <td><p>1982년 ~ 1997년<br />
 2000년 ~ 2005년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a></p></td>
 <td><p>[4][5]</p></td>
 </tr>
 <tr class="even">
@@ -393,7 +394,7 @@
     2015년 현재 수용 인원 2만 5천명 이상의 야구장은 서울 지역 이외에는 [SK 와이번스의](../Page/SK_와이번스.md "wikilink") 홈 구장인 [인천 문학야구장과](../Page/문학야구장.md "wikilink") [롯데 자이언츠의](../Page/롯데_자이언츠.md "wikilink") 홈 구장인 [부산 사직야구장과](../Page/사직야구장.md "wikilink") 리모델드 [수원야구장](../Page/수원야구장.md "wikilink")이 있다.
 3.  준우승팀은 통합 승률 2위팀인 롯데로 기록되었으며, 준우승 트로피 역시 시상하였다.
 4.  [1994년](../Page/1994년.md "wikilink") [10월](../Page/10월.md "wikilink") 이후부터 상업 광고를 하지 않는다.
-5.  [2006년](../Page/2006년.md "wikilink") 이후부터 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 중계하지 않기로 결정하였다.
+5.  [2006년](../Page/2006년.md "wikilink") 이후부터 [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 중계하지 않기로 결정하였다.
 6.  [1995년](../Page/1995년.md "wikilink") 이후부터 상업 광고를 다시 시작하였다.
 7.  [2001년](../Page/2001년.md "wikilink")부터 [2004년](../Page/2004년.md "wikilink")까지 MBC TV 중계하지 않았다.
 8.  1994년 이전에 수도권 전역을 볼 수 있으나, 지방 이외에 볼 수 없었다.

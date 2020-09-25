@@ -342,7 +342,7 @@ KAITO V3의 음성라이브러리의 특징, 자신있는 장르, 템포, 음역
 
   - [팡야](../Page/팡야.md "wikilink") (게임 포트)
     [2009년](../Page/2009년.md "wikilink") [6월 25일부터](../Page/6월_25일.md "wikilink") 기간 한정으로 게임 내에서 KAITO의 의상을 판매\[13\].
-  - [하츠네 미쿠 -Project DIVA-](../Page/하츠네_미쿠_-Project_DIVA-.md "wikilink") ([세가](https://ko.wikipedia.org/wiki/세가 "wikilink"))
+  - [하츠네 미쿠 -Project DIVA-](../Page/하츠네_미쿠_-Project_DIVA-.md "wikilink") ([세가](../Page/세가.md "wikilink"))
     하츠네 미쿠를 주역으로 하는 [플레이스테이션 포터블용](../Page/플레이스테이션_포터블.md "wikilink") 게임 소프트웨어이다. 제1탄에서 KAITO도 캐릭터로 등장하며 2010년 7월 29일 발매된 《하츠네 미쿠 -Project DIVA- 2nd》에는 KAITO를 이용한 악곡도 수록되어 있다.
   - [라테일](https://ko.wikipedia.org/wiki/라테일 "wikilink") (게임 포트)
     2009년 12월 넨드로이드 푸치 MEIKO·KAITO가 구현됨\[14\].

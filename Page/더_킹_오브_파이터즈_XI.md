@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [더 킹 오브 파이터즈 XI](https://ko.wikipedia.org/wiki/더_킹_오브_파이터즈_XI).
 
 
-《**더 킹 오브 파이터즈 XI**》(, 약칭 **KOF XI**)은 [SNK 플레이모어가](https://ko.wikipedia.org/wiki/SNK_플레이모어 "wikilink") 제작한 2005년 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 《[더 킹 오브 파이터즈](../Page/더_킹_오브_파이터즈.md "wikilink")》 시리즈 열한 번째 작품으로, 매년마다 발매하는 것을 중지하면서 제목에 연도 대신 숫자를 붙였다. 또한 시리즈 최초로 SNK 자사 [네오지오](https://ko.wikipedia.org/wiki/네오지오_\(콘솔\) "wikilink") 기판에서 벗어나. [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")의 [아토믹웨이브](https://ko.wikipedia.org/wiki/아토믹웨이브 "wikilink") 기판으로 개발됐다.
+《**더 킹 오브 파이터즈 XI**》(, 약칭 **KOF XI**)은 [SNK 플레이모어가](https://ko.wikipedia.org/wiki/SNK_플레이모어 "wikilink") 제작한 2005년 [아케이드](../Page/아케이드_게임.md "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). 《[더 킹 오브 파이터즈](../Page/더_킹_오브_파이터즈.md "wikilink")》 시리즈 열한 번째 작품으로, 매년마다 발매하는 것을 중지하면서 제목에 연도 대신 숫자를 붙였다. 또한 시리즈 최초로 SNK 자사 [네오지오](https://ko.wikipedia.org/wiki/네오지오_\(콘솔\) "wikilink") 기판에서 벗어나. [세가](../Page/세가.md "wikilink")의 [아토믹웨이브](https://ko.wikipedia.org/wiki/아토믹웨이브 "wikilink") 기판으로 개발됐다.
 
 전작 《[더 킹 오브 파이터즈 2003](../Page/더_킹_오브_파이터즈_2003.md "wikilink")》에서 도입했던 멀티 시프트 시스템이 더욱 발전시켜, 공격 중 캐릭터를 교체하는 퀵 시프트, 공격을 받는 중에 세이빙 시프트, 가드 중 교체하는 가드 캔슬 시프트로 나뉘어 교대 플레이를 강화시켰다. 적극적인 공격을 한 사람에게 체력 관계와 무관하게 승리를 안겨주는 저지먼트 인디케이터, 체력 근성 보정치 등 혁신적인 시스템을 도입했다. 그 외에 SNK의 다른 격투 게임 시리즈 《[풍운묵시록](../Page/풍운묵시록.md "wikilink")》와 《[부리키 원](https://ko.wikipedia.org/wiki/부리키_원 "wikilink")》의 인물들을 플레이어 캐릭터로 등장시키는 등 다양한 출연진을 선보였다.
 

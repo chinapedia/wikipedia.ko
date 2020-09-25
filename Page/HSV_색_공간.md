@@ -31,7 +31,7 @@ HSV 색 공간 모형은 [원기둥](https://ko.wikipedia.org/wiki/원기둥 "wi
 
 #### HSV 색 공간 지정의 예 (남색)
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Navy_on_hsv_cylinder.png "wikilink")\]\] [남색](https://ko.wikipedia.org/wiki/남색 "wikilink")을 예로 원기둥 모형을 설명하면 남색은 [파랑](../Page/파랑.md "wikilink")과 같은 색상을 지닌 어두운 색이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Navy_on_hsv_cylinder.png "wikilink")\]\] [남색](../Page/남색.md "wikilink")을 예로 원기둥 모형을 설명하면 남색은 [파랑](../Page/파랑.md "wikilink")과 같은 색상을 지닌 어두운 색이다.
 
   - H: 파랑은 [빨강](../Page/빨강.md "wikilink")을 기준으로 240°회전한 위치에 있다.
   - S: 남색은 가장 진한 채도를 지니므로 최댓값은 100%로 표기된다.

@@ -47,7 +47,7 @@
 
 ### 그 외
 
-  - 〈〉 - [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink") 게임 《[테일 컨체르토](https://ko.wikipedia.org/wiki/테일_컨체르토 "wikilink")》의 주제가
+  - 〈〉 - [플레이스테이션](../Page/플레이스테이션.md "wikilink") 게임 《[테일 컨체르토](https://ko.wikipedia.org/wiki/테일_컨체르토 "wikilink")》의 주제가
   - 〈〉 - 플레이스테이션 게임 《[환상수호전 2](https://ko.wikipedia.org/wiki/환상수호전_2 "wikilink")》의 이미지 송
   - 〈사랑의 윤곽(〉 - 텔레비전 애니메이션 《[브레인 파워드](https://ko.wikipedia.org/wiki/브레인_파워드 "wikilink")》의 닫는 곡
   - 〈안녕이라 하지마()〉 - 텔레비전 애니메이션 의 삽입곡

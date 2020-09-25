@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [소닉 더 헤지호그 CD](https://ko.wikipedia.org/wiki/소닉_더_헤지호그_CD).
 
 
-**소닉 더 헤지호그 CD**(, )는 [소닉 더 헤지호그 시리즈](https://ko.wikipedia.org/wiki/소닉_더_헤지호그_시리즈 "wikilink") 중의 하나로, [세가](https://ko.wikipedia.org/wiki/세가 "wikilink") 내 [소닉 팀이](../Page/소닉_팀.md "wikilink") 개발했다. 이 작품에서 [메탈 소닉과](https://ko.wikipedia.org/wiki/메탈_소닉 "wikilink") [에이미 로즈가](../Page/에이미_로즈.md "wikilink") 처음으로 등장한다. [일본](../Page/일본.md "wikilink")에서 [1993년](../Page/1993년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") 최초로 발매되었고, [유럽](../Page/유럽.md "wikilink")에서 같은 해 [10월](../Page/10월.md "wikilink"), [북미](https://ko.wikipedia.org/wiki/북미 "wikilink")에서 [11월 19일에](../Page/11월_19일.md "wikilink") 발매되었다. 이후 [1996년](../Page/1996년.md "wikilink") [PC판으로](../Page/개인용_컴퓨터.md "wikilink") 이식된다.
+**소닉 더 헤지호그 CD**(, )는 [소닉 더 헤지호그 시리즈](https://ko.wikipedia.org/wiki/소닉_더_헤지호그_시리즈 "wikilink") 중의 하나로, [세가](../Page/세가.md "wikilink") 내 [소닉 팀이](../Page/소닉_팀.md "wikilink") 개발했다. 이 작품에서 [메탈 소닉과](https://ko.wikipedia.org/wiki/메탈_소닉 "wikilink") [에이미 로즈가](../Page/에이미_로즈.md "wikilink") 처음으로 등장한다. [일본](../Page/일본.md "wikilink")에서 [1993년](../Page/1993년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") 최초로 발매되었고, [유럽](../Page/유럽.md "wikilink")에서 같은 해 [10월](../Page/10월.md "wikilink"), [북미](https://ko.wikipedia.org/wiki/북미 "wikilink")에서 [11월 19일에](../Page/11월_19일.md "wikilink") 발매되었다. 이후 [1996년](../Page/1996년.md "wikilink") [PC판으로](../Page/개인용_컴퓨터.md "wikilink") 이식된다.
 
 ## 게임 진행
 
@@ -110,13 +110,13 @@ CD판이 기존의 소닉 시리즈와 가장 차이를 보이는 점이라면, 
 
 ### 2011년 재발매
 
-2011년 8월 25일, [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")는 [플레이스테이션 네트워크](../Page/플레이스테이션_네트워크.md "wikilink"), [엑스박스 라이브](https://ko.wikipedia.org/wiki/엑스박스_라이브 "wikilink"), [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink"), [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink"), [윈도 폰](https://ko.wikipedia.org/wiki/윈도_폰 "wikilink"), PC로 재발매 한다고 발표했다. 이번 재발매의 큰 특징은 [크리스천 화이트헤드라는](https://ko.wikipedia.org/wiki/크리스천_화이트헤드 "wikilink") 독립적인 게임 개발자가 개발한 '레트로 엔진'을 사용한 점이다. 그는 2009년에 이 엔진으로 소닉 CD를 아이폰용으로 개발할것을 제안했었으나 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")측은 개발을 받아드리는 대신 [소닉 더 헤지호그 4: 에피소드 2의](../Page/소닉_더_헤지호그_4:_에피소드_2.md "wikilink") 개발을 앞두고 계승할수 있도록 타 기종용들도 개발하라는 제안을 했다. 이 엔진을 통해 대형 스크린으로 할 수 있으며 [소닉 2에](../Page/소닉_더_헤지호그_2.md "wikilink") 나왔던 스핀 대시를 할 수 있다. 또다른 특징으로서는 테일즈로 할 수 있으며, 일본과 북미 사운드트랙 둘다 들어있다는 점이다. 콘솔로는 12월 14일(북미 PSN은 20일)에, iOS와 안드로이드 마켓에서는 15일에 발매되었다. PC와 윈도 폰 버전은 2012년 봄에 발매되었다.
+2011년 8월 25일, [세가](../Page/세가.md "wikilink")는 [플레이스테이션 네트워크](../Page/플레이스테이션_네트워크.md "wikilink"), [엑스박스 라이브](https://ko.wikipedia.org/wiki/엑스박스_라이브 "wikilink"), [iOS](https://ko.wikipedia.org/wiki/iOS "wikilink"), [안드로이드](../Page/안드로이드_\(운영_체제\).md "wikilink"), [윈도 폰](https://ko.wikipedia.org/wiki/윈도_폰 "wikilink"), PC로 재발매 한다고 발표했다. 이번 재발매의 큰 특징은 [크리스천 화이트헤드라는](https://ko.wikipedia.org/wiki/크리스천_화이트헤드 "wikilink") 독립적인 게임 개발자가 개발한 '레트로 엔진'을 사용한 점이다. 그는 2009년에 이 엔진으로 소닉 CD를 아이폰용으로 개발할것을 제안했었으나 [세가](../Page/세가.md "wikilink")측은 개발을 받아드리는 대신 [소닉 더 헤지호그 4: 에피소드 2의](../Page/소닉_더_헤지호그_4:_에피소드_2.md "wikilink") 개발을 앞두고 계승할수 있도록 타 기종용들도 개발하라는 제안을 했다. 이 엔진을 통해 대형 스크린으로 할 수 있으며 [소닉 2에](../Page/소닉_더_헤지호그_2.md "wikilink") 나왔던 스핀 대시를 할 수 있다. 또다른 특징으로서는 테일즈로 할 수 있으며, 일본과 북미 사운드트랙 둘다 들어있다는 점이다. 콘솔로는 12월 14일(북미 PSN은 20일)에, iOS와 안드로이드 마켓에서는 15일에 발매되었다. PC와 윈도 폰 버전은 2012년 봄에 발매되었다.
 
 ## 읽어보기
 
   - [메가 드라이브](../Page/메가_드라이브.md "wikilink")
   - [메가 CD](../Page/메가_CD.md "wikilink")
-  - [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")
+  - [세가](../Page/세가.md "wikilink")
 
 ## 이스터 에그
 

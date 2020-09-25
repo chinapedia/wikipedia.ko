@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:KBS_2FM_studio-Seoul.jpg "wikilink")
 
-**KBS 제2FM** 혹은 **KBS 쿨FM**()\[1\]은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·송출되는 [연예](https://ko.wikipedia.org/wiki/연예 "wikilink")오락・[대중음악](../Page/음악.md "wikilink") 전문 [라디오](../Page/라디오.md "wikilink") 채널이다.
+**KBS 제2FM** 혹은 **KBS 쿨FM**()\[1\]은 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·송출되는 [연예](../Page/연예.md "wikilink")오락・[대중음악](../Page/음악.md "wikilink") 전문 [라디오](../Page/라디오.md "wikilink") 채널이다.
 
 ## 역사
 
@@ -15,7 +15,7 @@
 
 ## 방송 시보 멘트
 
-(10초 상업광고, 서울FM 시절)  (동양FM 시절)  (상업광고 폐지 당시(1980.12.01\~2001.12.31), 정각 시보 )  (광고 시(2002.01.01\~2007.04.15), 정각 시보)  (광고가 안 붙은 시(2003.10.20\~2007.04.15), 정각 시보)  (광고 시(2007.04.16\~ ), 정각 시보, 30분 시보)  (광고가 안 붙은 시(2007.04.16\~2014.12.31, 2018.05.14\~ ), 정각 시보 (새벽 4시 시보))  (광고가 안 붙은 시(2015.01.01\~ ), 정각 시보)  (광고가 안 붙은 시, 정각 시보 (DMB에만 사용))  (광고 시, 정각 시보 (DMB에만 사용))  (광고가 안 붙은 시(2015.01.01\~ ), 30분 시보)  (새벽 5시 시보)
+(동양FM 시절(1974년\~1979년))  (동양FM 시절(1979년\~1980년))  (상업광고 폐지 당시(1980.12.01\~2001.12.31), 정각 시보 )  (광고 시(2002.01.01\~2007.04.15), 정각 시보)  (광고가 안 붙은 시(2003.10.20\~2007.04.15), 정각 시보)  (광고 시(2007.04.16\~ ), 정각 시보, 30분 시보)  (광고가 안 붙은 시(2007.04.16\~2014.12.31, 2018.05.14\~ ), 정각 시보 (새벽 4시 시보))  (광고가 안 붙은 시(2015.01.01\~ ), 정각 시보)  (광고가 안 붙은 시, 정각 시보 (DMB에만 사용))  (광고 시, 정각 시보 (DMB에만 사용))  (광고가 안 붙은 시(2015.01.01\~ ), 30분 시보)  (새벽 5시 시보)
 
 ## 연혁
 
@@ -84,14 +84,16 @@
 <td><p><a href="../Page/상쾌한_아침.md" title="wikilink">김도연의 상쾌한 아침</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>(2라디오)을 통해 동시 네트워크로 일제히 송출 (전국방송) 녹음방송</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>(2라디오)을 통해 동시 네트워크로 일제히 송출 (전국방송)<br />
+녹음방송</p></td>
 </tr>
 <tr class="even">
 <td><p>06:00</p></td>
 <td><p><a href="../Page/굿모닝_팝스.md" title="wikilink">조정현의 굿모닝 팝스</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>(2라디오)을 통해 동시 네트워크로 일제히 송출 (전국방송) 녹음방송</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>(2라디오)을 통해 동시 네트워크로 일제히 송출 (전국방송)<br />
+녹음방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>07:00</p></td>
@@ -105,14 +107,15 @@
 <td><p><a href="../Page/음악앨범_(라디오_프로그램).md" title="wikilink">이현우의 음악앨범</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>월~금 : 생방송 / 토,일 : 녹음방송</p></td>
+<td><p>매일(월~금) : 생방송 / (토,일) : 녹음방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>11:00</p></td>
 <td><p><a href="../Page/박명수의_라디오쇼.md" title="wikilink">박명수의 라디오쇼</a></p></td>
 <td><p>o</p></td>
 <td><p>x</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>(2라디오)을 통해 동시 네트워크로 일제히 송출 (일부지역 자체방송) 월~금 : 생방송 / 토,일 : 녹음방송<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>(2라디오)을 통해 동시 네트워크로 일제히 송출 (일부지역 자체방송)<br />
+월~금 : 생방송 / 토,일 : 녹음방송<br />
 DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군가 어딘가에가</a> 방송</p></td>
 </tr>
 <tr class="even">
@@ -120,7 +123,8 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
 <td><p><a href="../Page/가요광장.md" title="wikilink">정은지의 가요광장</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>각 지역총국 <a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>을 통해 송출 월~금 : 생방송 / 토,일 : 녹음방송</p></td>
+<td><p>각 지역총국 <a href="https://ko.wikipedia.org/wiki/해피FM" title="wikilink">해피FM</a>을 통해 송출<br />
+월~금 : 생방송 / 토,일 : 녹음방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>14:00</p></td>
@@ -134,7 +138,7 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
 <td><p><a href="../Page/미스터_라디오.md" title="wikilink">윤정수, 남창희의 미스터 라디오</a></p></td>
 <td><p>o</p></td>
 <td><p>o</p></td>
-<td><p>평일 : 생방송/ 주말 : 녹음방송</p></td>
+<td><p>평일 : 생방송 / 주말 : 녹음방송</p></td>
 </tr>
 <tr class="odd">
 <td><p>18:00</p></td>
@@ -169,7 +173,8 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
 <td><p><a href="../Page/심야식당_(라디오_프로그램).md" title="wikilink">심야식당 시즌3</a></p></td>
 <td><p>o</p></td>
 <td><p>x</p></td>
-<td><p>녹음방송 DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군가 어딘가에가</a> 재방송</p></td>
+<td><p>녹음방송<br />
+DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군가 어딘가에가</a> 재방송</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -358,6 +363,9 @@ DMB에서는 <a href="../Page/누군가_어딘가에.md" title="wikilink">누군
 ## 같이 보기
 
   - [KBS 제1FM](../Page/KBS_제1FM.md "wikilink")
+  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
+  - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
+  - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
   - [국악방송](../Page/국악방송.md "wikilink")
   - [경기방송](../Page/경기방송.md "wikilink")
   - [국방FM](../Page/국방FM.md "wikilink")

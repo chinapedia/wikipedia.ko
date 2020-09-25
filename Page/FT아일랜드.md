@@ -569,7 +569,7 @@
 <li><a href="../Page/2월_9일.md" title="wikilink">2월 9일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
 <li><a href="../Page/2월_21일.md" title="wikilink">2월 21일</a> <a href="https://ko.wikipedia.org/wiki/MBC_MUSIC" title="wikilink">MBC MUSIC</a> 《<a href="https://ko.wikipedia.org/wiki/쇼!_챔피언" title="wikilink">쇼챔피언</a>》 챔피언송</li>
 <li><a href="../Page/2월_23일.md" title="wikilink">2월 23일</a> <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (통산 2주)</li>
-<li><a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
+<li><a href="../Page/2월_26일.md" title="wikilink">2월 26일</a> <a href="../Page/SBS.md" title="wikilink">SBS</a> 《<a href="https://ko.wikipedia.org/wiki/인기가요" title="wikilink">인기가요</a>》 뮤티즌송</li>
 </ul></li>
 <li>'''좋겠어 (총 1회)
 <ul>

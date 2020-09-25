@@ -103,7 +103,7 @@
   - 로맨스의 일주일 시즌 1 (진행 : [한고은](../Page/한고은.md "wikilink"), [조여정](../Page/조여정.md "wikilink"))
   - 로맨스의 일주일 시즌 2 (진행 : [예지원](../Page/예지원.md "wikilink"), [G.NA](../Page/G.NA.md "wikilink"))
   - 로맨스의 일주일 시즌 3 (진행 : [박시연](../Page/박시연.md "wikilink"), [한채아](../Page/한채아.md "wikilink"), [김성은](../Page/김성은_\(1983년\).md "wikilink"))
-  - 로맨스의 일주일 시즌 4 (진행 : [장희진](../Page/장희진_\(1983년\).md "wikilink"), [소진](https://ko.wikipedia.org/wiki/박소진_\(배우\) "wikilink"), [임주은](../Page/임주은.md "wikilink"))
+  - 로맨스의 일주일 시즌 4 (진행 : [장희진](../Page/장희진_\(1983년\).md "wikilink"), [소진](../Page/박소진_\(배우\).md "wikilink"), [임주은](../Page/임주은.md "wikilink"))
   - 100인의 선택 - 최고라면 (진행 : [이창민](https://ko.wikipedia.org/wiki/창민 "wikilink"), 출연 : [파비앙](https://ko.wikipedia.org/wiki/파비앙 "wikilink"), [정주리](../Page/정주리.md "wikilink"), [김지숙](../Page/김지숙_\(가수\).md "wikilink"), [록현](../Page/록현.md "wikilink") of [100%](../Page/백퍼센트_\(음악_그룹\).md "wikilink"))
   - 정의본색 (출연 : [김보성](https://ko.wikipedia.org/wiki/김보성_\(배우\) "wikilink"), [김구라](../Page/김구라.md "wikilink"), [윤형빈](https://ko.wikipedia.org/wiki/윤형빈 "wikilink"), [샘 해밍턴](../Page/샘_해밍턴.md "wikilink"), [샘 오취리](../Page/샘_오취리.md "wikilink"), [강철웅](https://ko.wikipedia.org/wiki/강철웅 "wikilink"), [니엘](../Page/니엘_\(가수\).md "wikilink"))
   - [씨스타의 쇼타임](https://ko.wikipedia.org/wiki/씨스타의_쇼타임 "wikilink")

@@ -25,7 +25,7 @@ PSPACE-완전의 정의는 *점근* 복잡도에 기반하고 있다. 크기 *n*
 
   - [게임 복잡도](https://ko.wikipedia.org/wiki/게임_복잡도 "wikilink")
 
-## 참고문헌
+## 참고 문헌
 
   -
   -

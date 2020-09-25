@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:Clarke_sm.jpg "wikilink") **아서 찰스 클라크** 경(, [CBE](../Page/대영_제국_훈장.md "wikilink"), [1917년](../Page/1917년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink")\~[2008년](../Page/2008년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink"))은 [영국](../Page/영국.md "wikilink")의 [작가](https://ko.wikipedia.org/wiki/작가 "wikilink"), [발명가](https://ko.wikipedia.org/wiki/발명가 "wikilink")이자 [미래학자](../Page/미래학자.md "wikilink"), 해저 탐험가, TV시리즈 호스트이다. 자신의 과학소설 《[2001 스페이스 오디세이](https://ko.wikipedia.org/wiki/2001_스페이스_오디세이 "wikilink")》로 가장 잘 알려져 있으며, 동명의 영화에서 [스탠리 큐브릭](../Page/스탠리_큐브릭.md "wikilink") 감독과 함께 작업하기도 했다. 그는 [로버트 A. 하인라인](../Page/로버트_A._하인라인.md "wikilink"), [아이작 아시모프와](../Page/아이작_아시모프.md "wikilink") 함께 과학소설계의 ‘세 거물(Big Three)’로 불렸다.
 
-대표작으로 《[라마](../Page/라마.md "wikilink")》 시리즈, 《[스페이스 오디세이](../Page/스페이스_오디세이.md "wikilink")》 시리즈, 《[유년기의 끝](https://ko.wikipedia.org/wiki/유년기의_끝 "wikilink")》, 《[도시와 별](https://ko.wikipedia.org/wiki/도시와_별 "wikilink")》, 《[낙원의 샘](https://ko.wikipedia.org/wiki/낙원의_샘 "wikilink")》 등이 있으며 《[바다 순찰대](https://ko.wikipedia.org/wiki/바다_순찰대 "wikilink")》와 같이 단편을 각색한 장편도 있다.
+대표작으로 《[라마](../Page/라마.md "wikilink")》 시리즈, 《[스페이스 오디세이](../Page/스페이스_오디세이.md "wikilink")》 시리즈, 《[유년기의 끝](../Page/유년기의_끝.md "wikilink")》, 《[도시와 별](https://ko.wikipedia.org/wiki/도시와_별 "wikilink")》, 《[낙원의 샘](https://ko.wikipedia.org/wiki/낙원의_샘 "wikilink")》 등이 있으며 《[바다 순찰대](https://ko.wikipedia.org/wiki/바다_순찰대 "wikilink")》와 같이 단편을 각색한 장편도 있다.
 
 [1989년](../Page/1989년.md "wikilink")에 영국 왕실로부터 [대영 제국 훈장 3등급](../Page/대영_제국_훈장.md "wikilink")(CBE)을 받았고, [1998년](../Page/1998년.md "wikilink")에는 [Knight Bachelor](../Page/대영_제국_훈장.md "wikilink")(기사작위)에 서임되었다.
 

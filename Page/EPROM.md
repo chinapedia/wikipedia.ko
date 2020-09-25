@@ -34,8 +34,6 @@ UVEPROM은 과거 [메인보드](../Page/메인보드.md "wikilink"), [그래픽
 
 ## 외부 링크
 
-}}
-
   - [Detailed information about EPROM types and EPROM programming](http://www.progshop.com/shop/electronic/eprom-programming.html)
 
   - [Video of the Intel 1702 EPROM](https://www.youtube.com/watch?v=uKk7fVIZPE4)

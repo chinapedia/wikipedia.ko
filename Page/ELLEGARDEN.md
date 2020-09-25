@@ -160,7 +160,7 @@
 
 ### [2005년](../Page/2005년.md "wikilink")
 
-[2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") [SUM41](https://ko.wikipedia.org/wiki/SUM41 "wikilink") "Japan Tour 2005"에서 오프닝을 맡았다.
+[2월 26일](../Page/2월_26일.md "wikilink") [SUM41](https://ko.wikipedia.org/wiki/SUM41 "wikilink") "Japan Tour 2005"에서 오프닝을 맡았다.
 
 ### [2006년](../Page/2006년.md "wikilink")
 

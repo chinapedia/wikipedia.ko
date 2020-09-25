@@ -135,7 +135,7 @@
 <sup><a href="https://ko.wikipedia.org/wiki/#2" title="wikilink">2</a></sup></p></td>
 <td></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중화인민공화국</a><br />
+<a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중화인민공화국</a><br />
 <br />
 <a href="../Page/태국_축구_국가대표팀.md" title="wikilink">태국</a></p></td>
 </tr>
@@ -319,7 +319,7 @@
 <a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><sup><a href="https://ko.wikipedia.org/wiki/#4" title="wikilink">4</a></sup></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></p></td>
+<a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국</a></p></td>
 <td><p><br />
 <a href="../Page/이라크_축구_국가대표팀.md" title="wikilink">이라크</a></p></td>
 </tr>
@@ -328,7 +328,7 @@
 <em><a href="https://ko.wikipedia.org/wiki/1984년_AFC_청소년_축구_선수권_대회" title="wikilink">상세히</a></em></p></td>
 <td></td>
 <td><p><strong><br />
-<a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></strong></p></td>
+<a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국</a></strong></p></td>
 <td><p><sup><a href="https://ko.wikipedia.org/wiki/#4" title="wikilink">4</a></sup></p></td>
 <td><p><br />
 <a href="../Page/사우디아라비아_축구_국가대표팀.md" title="wikilink">사우디아라비아</a></p></td>
@@ -407,7 +407,7 @@
 <a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>3 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></p></td>
+<a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국</a></p></td>
 <td><p><br />
 <a href="../Page/아랍에미리트_축구_국가대표팀.md" title="wikilink">아랍에미리트</a></p></td>
 </tr>
@@ -433,7 +433,7 @@
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></p></td>
+<a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002<br />
@@ -455,7 +455,7 @@
 <a href="../Page/대한민국_축구_국가대표팀.md" title="wikilink">대한민국</a></strong></p></td>
 <td><p><strong>2 – 0</strong></p></td>
 <td><p><br />
-<a href="https://ko.wikipedia.org/wiki/중국_축구_국가대표팀" title="wikilink">중국</a></p></td>
+<a href="../Page/중국_축구_국가대표팀.md" title="wikilink">중국</a></p></td>
 <td><p><br />
 <a href="https://ko.wikipedia.org/wiki/일본_축구_국가대표팀" title="wikilink">일본</a></p></td>
 </tr>

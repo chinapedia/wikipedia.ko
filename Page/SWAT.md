@@ -11,7 +11,7 @@
 
 ### 액세서리
 
-  - [방탄복](https://ko.wikipedia.org/wiki/방탄복 "wikilink")
+  - [방탄복](../Page/방탄복.md "wikilink")
   - 무릎, 팔꿈치 보호대
   - 각종 탄창, 소음기 주머니
   - 레그홀스터(권총넣는 홀스터)

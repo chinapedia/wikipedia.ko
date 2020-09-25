@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [ST-V](https://ko.wikipedia.org/wiki/ST-V).
 
 
-**ST-V**()는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")가 1994년 개발한 아케이드 게임 기판으로 [가정용 게임기인](../Page/가정용_게임기.md "wikilink") [세가 새턴을](../Page/세가_새턴.md "wikilink") 기본으로 제작하였으며 이름도 새턴([토성](../Page/토성.md "wikilink"))의 위성인 [타이탄으로](../Page/타이탄_\(위성\).md "wikilink") 지었다. 두 기기는 동일한 성능으로 게임 저장 매체로 새턴은 [CD-ROM](../Page/CD-ROM.md "wikilink")을 사용하며 ST-V는 롬 카트리지를 사용한다는 점만 다르며 세가 외에도 여러 회사에서 게임을 발매하였다.
+**ST-V**()는 [세가](../Page/세가.md "wikilink")가 1994년 개발한 아케이드 게임 기판으로 [가정용 게임기인](../Page/가정용_게임기.md "wikilink") [세가 새턴을](../Page/세가_새턴.md "wikilink") 기본으로 제작하였으며 이름도 새턴([토성](../Page/토성.md "wikilink"))의 위성인 [타이탄으로](../Page/타이탄_\(위성\).md "wikilink") 지었다. 두 기기는 동일한 성능으로 게임 저장 매체로 새턴은 [CD-ROM](../Page/CD-ROM.md "wikilink")을 사용하며 ST-V는 롬 카트리지를 사용한다는 점만 다르며 세가 외에도 여러 회사에서 게임을 발매하였다.
 
 ## ST-V 사양
 

@@ -33,7 +33,7 @@
 | How d'you do?              | Pleased to meet you                                            |
 | (School)master, mistress   | Teacher                                                        |
 
-**U 영어**()와 **non-U 영어**()는 [1950년대](../Page/1950년대.md "wikilink") [영국](../Page/영국.md "wikilink") 및 [미국 북동부에](../Page/뉴잉글랜드.md "wikilink") 존재했던 사회적 방언([사회방언](https://ko.wikipedia.org/wiki/사회방언 "wikilink"))에 관한 담론에서 쓰이는 용어이다. ‘U’는 [상류층](https://ko.wikipedia.org/wiki/상류층 "wikilink")(upper class)이 쓰는 U 영어는 [노동자 계급이](https://ko.wikipedia.org/wiki/노동자_계급 "wikilink") 쓰는 언어와 비슷한 반면에 [중산층](../Page/중산층.md "wikilink")의 non-U 영어는 더 ‘고상한’ 표현을 쓰는 경향을 보였다.
+**U 영어**()와 **non-U 영어**()는 [1950년대](../Page/1950년대.md "wikilink") [영국](../Page/영국.md "wikilink") 및 [미국 북동부에](../Page/뉴잉글랜드.md "wikilink") 존재했던 사회적 방언([사회방언](https://ko.wikipedia.org/wiki/사회방언 "wikilink"))에 관한 담론에서 쓰이는 용어이다. ‘U’는 [상류층](../Page/상류층.md "wikilink")(upper class)이 쓰는 U 영어는 [노동자 계급이](https://ko.wikipedia.org/wiki/노동자_계급 "wikilink") 쓰는 언어와 비슷한 반면에 [중산층](../Page/중산층.md "wikilink")의 non-U 영어는 더 ‘고상한’ 표현을 쓰는 경향을 보였다.
 
 ## 역사
 

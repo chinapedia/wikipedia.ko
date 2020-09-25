@@ -22,33 +22,34 @@
 **2020년 5월 25일 기준**
 
   - [정시 뉴스](https://ko.wikipedia.org/wiki/KBS_제3라디오_뉴스 "wikilink") (오전 10시, 낮 12시, 오후 2시)\[6\]
-  - 06:00《[대한민국 인기가요](../Page/대한민국_인기가요.md "wikilink")》(00:00 재방송) - [임지훈](../Page/임지훈_\(가수\).md "wikilink")
+  - 06:00《[대한민국 인기가요](../Page/대한민국_인기가요.md "wikilink")》(00:00 재방송) ([한민족](../Page/KBS_한민족방송.md "wikilink") 수중계)》 - [임지훈](../Page/임지훈_\(가수\).md "wikilink")
   - 07:00《[연속낭독](https://ko.wikipedia.org/wiki/연속낭독 "wikilink")》(20:00 재방송)
-  - 07:20《[라디오 극장](https://ko.wikipedia.org/wiki/라디오_극장 "wikilink")》(평일)
-  - 07:20《[다큐멘터리 역사를 찾아서](../Page/다큐멘터리_역사를_찾아서.md "wikilink")》(주말)
+  - 07:20《[라디오 극장](https://ko.wikipedia.org/wiki/라디오_극장 "wikilink")》(평일) ([한민족](../Page/KBS_한민족방송.md "wikilink") 수중계)》
+  - 07:20《[다큐멘터리 역사를 찾아서](../Page/다큐멘터리_역사를_찾아서.md "wikilink")》(주말) ([한민족](../Page/KBS_한민족방송.md "wikilink") 수중계)》
   - 07:40《[라디오 여행기](https://ko.wikipedia.org/wiki/라디오_여행기 "wikilink")》(20:40 재방송)
   - 08:00《[아름다운 우리가곡](https://ko.wikipedia.org/wiki/아름다운_우리가곡 "wikilink")》(16:00 재방송)
-  - 08:05《[건강 365](../Page/건강_365.md "wikilink")》(16:05 재방송) - 평일 : [최윤경](../Page/최윤경.md "wikilink") 아나운서 / 주말 : 박광식 의학전문기자 [엄지인](../Page/엄지인.md "wikilink") 아나운서(예정)
+  - 08:05《[건강 365](../Page/건강_365.md "wikilink")》(16:05 재방송) - 평일 : [최윤경](../Page/최윤경.md "wikilink") 아나운서 / 주말 : 박광식 의학전문기자
+  - 08:55, 16:55《[바른말 고운말](../Page/바른말_고운말_\(라디오_프로그램\).md "wikilink")》 (평일, 재방송) [이규봉](../Page/이규봉.md "wikilink") 아나운서
   - 09:00《[함께하는 세상 만들기](../Page/함께하는_세상_만들기.md "wikilink")》(22:00 재방송) - [장웅](../Page/장웅_\(아나운서\).md "wikilink") 아나운서
   - 10:05《[오늘의 신문](https://ko.wikipedia.org/wiki/오늘의_신문 "wikilink")》(평일) - [원석현](../Page/원석현.md "wikilink") 아나운서
-  - 10:00《[경제로 통일로](https://ko.wikipedia.org/wiki/경제로_통일로 "wikilink")》(토요일)
-  - 10:00《[통일사용설명서](https://ko.wikipedia.org/wiki/통일사용설명서 "wikilink")》(일요일)
-  - 10:50《[KBS 무대](https://ko.wikipedia.org/wiki/KBS_무대 "wikilink")》(토요일)
-  - 10:50《[라디오 문학관](../Page/라디오_문학관.md "wikilink")》(일요일)
+  - 10:00《[경제로 통일로](https://ko.wikipedia.org/wiki/경제로_통일로 "wikilink")》 (재방송) ([한민족](../Page/KBS_한민족방송.md "wikilink") 수중계)》(토요일)
+  - 10:00《[통일사용설명서](https://ko.wikipedia.org/wiki/통일사용설명서 "wikilink")》(재방송) ([1R](../Page/KBS_제1라디오.md "wikilink") 수중계)》(일요일)
+  - 10:50《[KBS 무대](https://ko.wikipedia.org/wiki/KBS_무대 "wikilink")》(재방송) ([한민족](../Page/KBS_한민족방송.md "wikilink") 수중계)》(토요일)
+  - 10:50《[라디오 문학관](../Page/라디오_문학관.md "wikilink")》(재방송) ([한민족](../Page/KBS_한민족방송.md "wikilink") 수중계)》(일요일)
   - 11:40《[소설극장](https://ko.wikipedia.org/wiki/소설극장 "wikilink")》(20:20 재방송)
   - 12:05《[강원래의 노래선물](../Page/노래선물.md "wikilink")》(주말 12:00) - [강원래](../Page/강원래.md "wikilink")
   - 13:00《[내일은 푸른하늘](../Page/내일은_푸른하늘.md "wikilink")》(19:00 재방송) - [이성민](../Page/이성민_\(아나운서\).md "wikilink") 아나운서
   - 14:05《[출발\! 멋진인생 이지연입니다](https://ko.wikipedia.org/wiki/출발!_멋진인생 "wikilink")》(주말 14:00) - [이지연](../Page/이지연_\(1947년\).md "wikilink")
   - 15:00《[공감 코리아, 우리는 한국인](https://ko.wikipedia.org/wiki/공감_코리아,_우리는_한국인 "wikilink")》(월\~토요일, 02:00 재방송) - [유지철](../Page/유지철.md "wikilink") 아나운서
   - 15:00《[명사들의 책읽기](https://ko.wikipedia.org/wiki/명사들의_책읽기 "wikilink")》(일요일, 02:00 재방송) - [윤지영](../Page/윤지영_\(아나운서\).md "wikilink") 아나운서
-  - 17:00《[문화 공감](../Page/문화_공감.md "wikilink")》 - [김재원](../Page/김재원_\(아나운서\).md "wikilink") 아나운서
-  - 17:55《[백은하의 영화관, 정여울의 도서관](https://ko.wikipedia.org/wiki/백은하의_영화관,_정여울의_도서관 "wikilink")》 - 백은하, 정여울
+  - 17:00《[문화 공감](../Page/문화_공감.md "wikilink")》 (재방송) [한민족](../Page/KBS_한민족방송.md "wikilink") 수중계)》 - [김재원](../Page/김재원_\(아나운서\).md "wikilink") 아나운서
+  - 17:55《[백은하의 영화관, 정여울의 도서관](https://ko.wikipedia.org/wiki/백은하의_영화관,_정여울의_도서관 "wikilink")》 (재방송) ([1R](../Page/KBS_제1라디오.md "wikilink") 수중계)》 - 백은하, 정여울
   - 18:00《[우리는 한가족](https://ko.wikipedia.org/wiki/우리는_한가족 "wikilink")》(평일, 23:00 재방송) - [국혜정](../Page/국혜정.md "wikilink") 아나운서
   - 18:00《[심준구의 세상보기](https://ko.wikipedia.org/wiki/세상보기 "wikilink")》(주말, 23:00 재방송) - 심준구
   - 21:00《[KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") ([1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 수중계)》
   - 21:30《[정관용의 지금, 이 사람](../Page/정관용의_지금,_이_사람.md "wikilink") (재방송) ([1R](../Page/KBS_제1라디오.md "wikilink") 수중계)》(평일) - [정관용](../Page/정관용_\(1962년\).md "wikilink") 교수
-  - 21:20《[스포츠 스포츠](../Page/스포츠_스포츠_\(라디오_프로그램\).md "wikilink") ([1R](../Page/KBS_제1라디오.md "wikilink") 수중계)》(주말) - [이창진](https://ko.wikipedia.org/wiki/이창진 "wikilink") 아나운서
-  - 01:00《[세월따라 노래따라](../Page/세월따라_노래따라.md "wikilink")》- [원석현](../Page/원석현.md "wikilink") 아나운서
+  - 21:20《[스포츠 스포츠](../Page/스포츠_스포츠_\(라디오_프로그램\).md "wikilink") ([1R](../Page/KBS_제1라디오.md "wikilink") 수중계)》(주말) - [이창진](../Page/이창진.md "wikilink") 아나운서
+  - 01:00《[세월따라 노래따라](../Page/세월따라_노래따라.md "wikilink")》(재방송) ([한민족](../Page/KBS_한민족방송.md "wikilink") 수중계)》 - [원석현](../Page/원석현.md "wikilink") 아나운서
 
 ### 현재
 
@@ -78,10 +79,6 @@
 
 ## 같이 보기
 
-※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 경제형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
-
-  - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
-  - [CBS 표준FM](../Page/CBS_표준FM.md "wikilink")
   - [가톨릭평화방송](../Page/가톨릭평화방송.md "wikilink")
   - [원음방송](../Page/원음방송.md "wikilink")
   - [불교방송](../Page/불교방송.md "wikilink")

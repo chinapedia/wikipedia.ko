@@ -1,13 +1,18 @@
 > This article is converted from Wikipedia: [MBC 스포츠뉴스](https://ko.wikipedia.org/wiki/MBC_스포츠뉴스).
 
 
-《**MBC 스포츠뉴스**》()는 [MBC에서](../Page/문화방송.md "wikilink") 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 밤 8시 45분과 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 밤 8시 35분에 방송되는 문화방송의 스포츠뉴스 프로그램이자 [MBC 뉴스데스크의](../Page/MBC_뉴스데스크.md "wikilink") 스포츠뉴스 코너다. [2010년](../Page/2010년.md "wikilink") [11월 1일부터](../Page/11월_1일.md "wikilink") 편성이 평일로 축소된 이후 [2010년](../Page/2010년.md "wikilink") [12월 24일에](../Page/12월_24일.md "wikilink") 종영되었다가 [2012년](../Page/2012년.md "wikilink") [5월 14일부터](../Page/5월_14일.md "wikilink") 재신설되었으며, [2012년](../Page/2012년.md "wikilink") [7월 16일부터](../Page/7월_16일.md "wikilink") 2012년 8월 17일까지 런던 올림픽 관계로 결방되었다가 [2012년](../Page/2012년.md "wikilink") [8월 20일부터](../Page/8월_20일.md "wikilink") [MBC 뉴스데스크의](../Page/MBC_뉴스데스크.md "wikilink") 스포츠뉴스 코너로 통합되었으며, 2012년 8월 27일부터 편성이 다시 주말까지 확대되었다.
+《**MBC 스포츠뉴스**》()는 [MBC에서](../Page/문화방송.md "wikilink") 매주 [월요일](../Page/월요일.md "wikilink") \~ [목요일](../Page/목요일.md "wikilink") 밤 9시 10분, 매주 [금요일](../Page/금요일.md "wikilink"), [토요일](../Page/토요일.md "wikilink") 밤 8시 35분과 매주 [일요일](../Page/일요일.md "wikilink") 밤 8시 15분에 방송되는 문화방송의 스포츠뉴스 프로그램이자 [MBC 뉴스데스크의](../Page/MBC_뉴스데스크.md "wikilink") 스포츠뉴스 코너다. [2010년](../Page/2010년.md "wikilink") [11월 1일부터](../Page/11월_1일.md "wikilink") 편성이 평일로 축소된 이후 [2010년](../Page/2010년.md "wikilink") [12월 24일에](../Page/12월_24일.md "wikilink") 종영되었다가 [2012년](../Page/2012년.md "wikilink") [5월 14일부터](../Page/5월_14일.md "wikilink") 재신설되었으며, [2012년](../Page/2012년.md "wikilink") [7월 16일부터](../Page/7월_16일.md "wikilink") 2012년 8월 17일까지 런던 올림픽 관계로 결방되었다가 [2012년](../Page/2012년.md "wikilink") [8월 20일부터](../Page/8월_20일.md "wikilink") [MBC 뉴스데스크의](../Page/MBC_뉴스데스크.md "wikilink") 스포츠뉴스 코너로 통합되었으며, 2012년 8월 27일부터 편성이 다시 주말까지 확대되었다.
 
 ## 방송 개시
 
 1974년을 전후로 당시 진행자 뿐 아니라 시그널의 변화는 전혀 없었으며, 명칭만 바뀔 뿐이었으나 [1974년](../Page/1974년.md "wikilink") [11월 10일부터](../Page/11월_10일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [4월 30일까지는](../Page/4월_30일.md "wikilink") 《MBC 스포츠뉴스》로 방송시작하였으며, [2002년](../Page/2002년.md "wikilink") [5월 1일부터](../Page/5월_1일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [6월 30일까지는](../Page/6월_30일.md "wikilink") 《MBC 월드컵뉴스》로 변경하였으며, [2002년](../Page/2002년.md "wikilink") [7월 1일부터](../Page/7월_1일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [9월 30일까지](../Page/9월_30일.md "wikilink")《MBC 스포츠뉴스》로 환원되었으며, [2002년](../Page/2002년.md "wikilink") [10월 1일부터](../Page/10월_1일.md "wikilink") [2002년](../Page/2002년.md "wikilink") [10월 14일까지는](../Page/10월_14일.md "wikilink") 《MBC 아시안게임뉴스》로 변경하였으며, [2002년](../Page/2002년.md "wikilink") [10월 15일부터](../Page/10월_15일.md "wikilink") 《MBC 스포츠뉴스》로 현재까지는 시그널부터 부활하였다.
 
-## 구성
+## 코너
+
+### MBC 스포츠뉴스 오프닝
+
+이영은 아나운서
+이선영 아나운서
 
 ### 60초/90초 인터뷰
 
@@ -134,7 +139,7 @@
   - [1984년](../Page/1984년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink") 22:00 \~ 22:10
   - [1984년](../Page/1984년.md "wikilink") [6월 16일](../Page/6월_16일.md "wikilink") \~ [1986년](../Page/1986년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") 23:00 \~ 23:10 - [MBC 주말의 명화](https://ko.wikipedia.org/wiki/MBC_주말의_명화 "wikilink") 끝나는 시간에 따라 달라짐.
   - [1988년](../Page/1988년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") \~ [1991년](../Page/1991년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") 21:25 \~ 21:30
-  - [1993년](../Page/1993년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") \~[1994년](../Page/1994년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 21:40 \~ 21:50
+  - [1993년](../Page/1993년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") \~[1994년](../Page/1994년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") 21:40 \~ 21:50
   - [1994년](../Page/1994년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink") \~[1999년](../Page/1999년.md "wikilink") [5월 8일](../Page/5월_8일.md "wikilink") 21:30 \~ 21:40
   - [2001년](../Page/2001년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") 21:35-21:45
 

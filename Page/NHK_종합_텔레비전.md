@@ -22,7 +22,8 @@
 ## 특징
 
   - [재난방송 주관 방송사로](../Page/재난방송.md "wikilink") 지정되고 있다.
-  - [지진](https://ko.wikipedia.org/wiki/지진 "wikilink")이 발생하거나, [일본 기상청 진도 계급](../Page/일본_기상청_진도_계급.md "wikilink") [7](../Page/진도7.md "wikilink") 이상인 뉴스 속보 대체로 일부 프로그램을 결방되는 경우가 있다.
+  - [지진](https://ko.wikipedia.org/wiki/지진 "wikilink") ([지진해일](../Page/지진해일.md "wikilink"))이 발생하거나, [일본 기상청 진도 계급](../Page/일본_기상청_진도_계급.md "wikilink") [7](../Page/진도7.md "wikilink") 이상인 뉴스 속보 대체로 일부 프로그램을 결방되는 경우가 있다.
+  - 일본 [혼슈](../Page/혼슈.md "wikilink")나 [규슈](../Page/규슈.md "wikilink")·[시코쿠](../Page/시코쿠.md "wikilink") 지역에 [태풍](https://ko.wikipedia.org/wiki/태풍 "wikilink")이 발생하거나, 뉴스 속보 대체로 일부 프로그램을 결방되는 경우가 있다.
 
 ## 연혁
 

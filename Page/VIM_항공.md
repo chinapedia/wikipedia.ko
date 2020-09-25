@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VIM 항공](https://ko.wikipedia.org/wiki/VIM_항공).
 
 
-**VIM 항공** (2000-2017) 은 [러시아](../Page/러시아.md "wikilink")의 항공 회사로 현재 운영하고 있는 것은 임대 계약과 국제선 전세기 스케줄 뿐만 아니라 여객 및 화물 서비스를 취급한다. [허브 공항은](../Page/허브_공항.md "wikilink") [모스크바](../Page/모스크바.md "wikilink") [도모데도보 국제공항을](https://ko.wikipedia.org/wiki/도모데도보_국제공항 "wikilink") 사용한다.
+**VIM 항공** () 은 [러시아](../Page/러시아.md "wikilink")의 항공 회사로 현재 운영하고 있는 것은 임대 계약과 국제선 전세기 스케줄 뿐만 아니라 여객 및 화물 서비스를 취급한다. [허브 공항은](../Page/허브_공항.md "wikilink") [모스크바](../Page/모스크바.md "wikilink") [도모데도보 국제공항을](https://ko.wikipedia.org/wiki/도모데도보_국제공항 "wikilink") 사용한다.
 
 ## 역사
 

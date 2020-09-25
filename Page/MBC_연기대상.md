@@ -1510,7 +1510,7 @@ FM 박인희와 함께</p></td>
 <td><p>라디오 부문 우수상</p></td>
 <td><p><a href="../Page/강석.md" title="wikilink">강석</a><br />
 <a href="../Page/김진숙_(성우).md" title="wikilink">김진숙</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/싱글벙글쇼" title="wikilink">싱글벙글쇼</a></p></td>
+<td><p><a href="../Page/싱글벙글쇼.md" title="wikilink">싱글벙글쇼</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1854,7 +1854,7 @@ FM 박인희와 함께</p></td>
 <td><p>라디오 부문 최우수상</p></td>
 <td><p><a href="../Page/강석.md" title="wikilink">강석</a><br />
 <a href="https://ko.wikipedia.org/wiki/김혜영" title="wikilink">김혜영</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/싱글벙글쇼" title="wikilink">싱글벙글쇼</a></p></td>
+<td><p><a href="../Page/싱글벙글쇼.md" title="wikilink">싱글벙글쇼</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2344,12 +2344,12 @@ MBC 바둑제왕전 해설자</p></td>
 <tr class="even">
 <td><p>드라마 부문 남자 신인상</p></td>
 <td><p><a href="../Page/차인표.md" title="wikilink">차인표</a></p></td>
-<td><p><a href="../Page/사랑을_그대_품안에.md" title="wikilink">사랑을 그대 품안에</a>, <a href="https://ko.wikipedia.org/wiki/까레이스키" title="wikilink">까레이스키</a></p></td>
+<td><p><a href="../Page/사랑을_그대_품안에.md" title="wikilink">사랑을 그대 품안에</a>, <a href="https://ko.wikipedia.org/wiki/까레이스키" title="wikilink">까레이스키</a>,<a href="../Page/아들의_여자.md" title="wikilink">아들의 여자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>드라마 부문 여자 신인상</p></td>
 <td><p><a href="../Page/심은하.md" title="wikilink">심은하</a></p></td>
-<td><p><a href="../Page/마지막_승부.md" title="wikilink">마지막 승부</a>, <a href="../Page/M_(드라마).md" title="wikilink">M</a></p></td>
+<td><p><a href="../Page/마지막_승부.md" title="wikilink">마지막 승부</a>, <a href="../Page/M_(드라마).md" title="wikilink">M</a>,<a href="../Page/여울목.md" title="wikilink">여울목</a></p></td>
 </tr>
 <tr class="even">
 <td><p>코미디 부문 남자 신인상</p></td>
@@ -3683,7 +3683,7 @@ SMI 엔터테인먼트 이사</p></td>
 <tr class="odd">
 <td><p>라디오 최우수상</p></td>
 <td><p><a href="../Page/강석.md" title="wikilink">강석</a>, <a href="https://ko.wikipedia.org/wiki/김혜영" title="wikilink">김혜영</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/싱글벙글쇼" title="wikilink">싱글벙글쇼</a></p></td>
+<td><p><a href="../Page/싱글벙글쇼.md" title="wikilink">싱글벙글쇼</a></p></td>
 </tr>
 <tr class="even">
 <td><p>라디오 우수상</p></td>
@@ -4253,7 +4253,7 @@ SMI 엔터테인먼트 이사</p></td>
 <tr class="odd">
 <td><p>라디오 부문 올해의 작가상</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김성" title="wikilink">김성</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/싱글벙글쇼" title="wikilink">싱글벙글쇼</a></p></td>
+<td><p><a href="../Page/싱글벙글쇼.md" title="wikilink">싱글벙글쇼</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TV 진행자 부문</p></td>

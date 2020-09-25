@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RE 계수](https://ko.wikipedia.org/wiki/RE_계수).
 
 
-**RE 계수**(Relative effectiveness factor)는 [군사](https://ko.wikipedia.org/wiki/군사 "wikilink") [해체](https://ko.wikipedia.org/wiki/해체 "wikilink") 목적을 위한 [폭발물](https://ko.wikipedia.org/wiki/폭발물 "wikilink")의 힘의 측정을 말한다. TNT(trinitrotoluene)에 상대적인 폭발물 힘을 무게로만 비교할 때 쓰인다.
+**RE 계수**(Relative effectiveness factor)는 [군사](https://ko.wikipedia.org/wiki/군사 "wikilink") [해체](https://ko.wikipedia.org/wiki/해체 "wikilink") 목적을 위한 [폭발물](../Page/폭발물.md "wikilink")의 힘의 측정을 말한다. TNT(trinitrotoluene)에 상대적인 폭발물 힘을 무게로만 비교할 때 쓰인다.
 
 ## RE 계수의 예
 

@@ -158,7 +158,7 @@
   - [김동준](https://ko.wikipedia.org/wiki/김동준 "wikilink") (1998\~2000)
   - [김윤상](../Page/김윤상.md "wikilink") (1999\~2001)
   - [박현정](https://ko.wikipedia.org/wiki/박현정 "wikilink") (2004\~2005)
-  - [이창진](https://ko.wikipedia.org/wiki/이창진 "wikilink") (2002\~2004)
+  - [이창진](../Page/이창진.md "wikilink") (2002\~2004)
   - [오미선](https://ko.wikipedia.org/wiki/오미선 "wikilink") (2003\~2004)
   - [김해경](https://ko.wikipedia.org/wiki/김해경 "wikilink") (2001\~2008)
   - [이계진](../Page/이계진.md "wikilink") (현 국회의원)

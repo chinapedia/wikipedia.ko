@@ -34,4 +34,4 @@
 
   - 준우승: 2014-15
 
-[분류:우크라이나의 축구단](https://ko.wikipedia.org/wiki/분류:우크라이나의_축구단 "wikilink") [\*](https://ko.wikipedia.org/wiki/분류:FC_드니프로_드니프로페트로우스크 "wikilink") [분류:1918년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1918년_설립된_축구단 "wikilink")
+[분류:우크라이나의 축구단](https://ko.wikipedia.org/wiki/분류:우크라이나의_축구단 "wikilink") [FC_드니프로](https://ko.wikipedia.org/wiki/분류:FC_드니프로 "wikilink") [분류:1918년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1918년_설립된_축구단 "wikilink")

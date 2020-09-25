@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [STAR TV](https://ko.wikipedia.org/wiki/STAR_TV).
 
 
-**STAR TV** (Satellite Television Asia Regional Broadcasting Corporation, 星空傳媒, 스타방송)는 [아시아](../Page/아시아.md "wikilink") 지역을 대상으로 방송하는 위성 텔레비전 방송그룹이다. [월트 디즈니 컴퍼니에](../Page/월트_디즈니_컴퍼니.md "wikilink") 대주주이다
+**STAR TV** (Satellite Television Asia Regional Broadcasting Corporation, 星空傳媒, 스타방송)는 [아시아](../Page/아시아.md "wikilink") 지역을 대상으로 방송하는 위성 텔레비전 방송그룹이다. [월트 디즈니 컴퍼니가](../Page/월트_디즈니_컴퍼니.md "wikilink") 대주주이다.
 
 ## 개요
 
@@ -70,10 +70,10 @@
   - [FOX](../Page/폭스_채널.md "wikilink") - [태광그룹](../Page/태광그룹.md "wikilink") 계열사인 [티캐스트](../Page/티캐스트.md "wikilink")와 합작하여 개국한 채널이다.
   - [FOX life](../Page/폭스_라이프.md "wikilink") - 태광그룹 계열사인 티캐스트와 합작하여 개국한 채널이다.
   - [FX](https://ko.wikipedia.org/wiki/FX_\(방송사\) "wikilink") - 태광그룹 계열사인 티캐스트와 합작하여 개국한 채널이다. 디즈니에 인수.
-  - [JTBC3 FOX Sports](../Page/JTBC_골프&스포츠.md "wikilink") - 중앙일보 계열사인 [중앙미디어네트워크](https://ko.wikipedia.org/wiki/중앙미디어네트워크 "wikilink")와 합작하여 개국한 채널이다. 2020년 3월부터 [JTBC 골프&스포츠로](../Page/JTBC_골프&스포츠.md "wikilink") 채널명 변경.
+  - JTBC3 FOX Sports - 중앙일보 계열사인 [중앙미디어네트워크](https://ko.wikipedia.org/wiki/중앙미디어네트워크 "wikilink")와 합작하여 개국한 채널이다. 2020년 3월부터 [JTBC 골프&스포츠로](../Page/JTBC_골프&스포츠.md "wikilink") 채널명 변경.
 
 ## 외부 링크
 
   - [공식 홈페이지](http://www.startv.com)
 
-[분류:1990년 설립](https://ko.wikipedia.org/wiki/분류:1990년_설립 "wikilink") [분류:월트 디즈니 컴퍼니 자회사](https://ko.wikipedia.org/wiki/분류:월트_디즈니_컴퍼니_자회사 "wikilink") [분류:국제방송](https://ko.wikipedia.org/wiki/분류:국제방송 "wikilink") [분류:위성방송 사업자](https://ko.wikipedia.org/wiki/분류:위성방송_사업자 "wikilink") [분류:홍콩의 방송](https://ko.wikipedia.org/wiki/분류:홍콩의_방송 "wikilink") [분류:텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:텔레비전_네트워크 "wikilink") [분류:1990년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1990년_설립된_텔레비전_방송국과_채널 "wikilink")
+[분류:1990년 설립](https://ko.wikipedia.org/wiki/분류:1990년_설립 "wikilink") [분류:월트 디즈니 컴퍼니 자회사](https://ko.wikipedia.org/wiki/분류:월트_디즈니_컴퍼니_자회사 "wikilink") [분류:국제방송](https://ko.wikipedia.org/wiki/분류:국제방송 "wikilink") [분류:위성방송 사업자](https://ko.wikipedia.org/wiki/분류:위성방송_사업자 "wikilink") [분류:홍콩의 방송](https://ko.wikipedia.org/wiki/분류:홍콩의_방송 "wikilink") [분류:텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:텔레비전_네트워크 "wikilink") [분류:1990년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1990년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:스타 인디아](https://ko.wikipedia.org/wiki/분류:스타_인디아 "wikilink")

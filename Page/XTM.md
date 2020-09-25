@@ -17,7 +17,7 @@
 
   - [탑 기어 코리아](../Page/탑_기어_코리아.md "wikilink")
   - 야구랭크쇼 WINDUP
-  - 베이스볼 [워너 B](https://ko.wikipedia.org/wiki/워너_B "wikilink")\[1\]
+  - [베이스볼 워너비](../Page/베이스볼_워너비.md "wikilink")\[1\]
   - [HOMME 4.0](../Page/HOMME.md "wikilink")
   - 절대남자 : DYNAMIC GYM SHOW
   - 남자들의 동영상 랭크쇼 M16

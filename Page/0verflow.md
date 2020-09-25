@@ -19,7 +19,7 @@
       - 『피아캐롯에 잘 오셨습니다\!\! 2 (Piaキャロットへようこそ\!\!2)』([SS](../Page/세가_새턴.md "wikilink")/[DC](../Page/드림캐스트.md "wikilink"))
       - 『피아캐롯에 잘 오셨습니다\!\! 2.5(Piaキャロットへようこそ\!\!2.5)』([GBC](../Page/게임보이_컬러.md "wikilink")/[DC](../Page/드림캐스트.md "wikilink"))
       - 『위드 유 \~바라보고 싶어\~ (With You \~みつめていたい\~)』([SS](../Page/세가_새턴.md "wikilink"))
-      - 위드 유의 PS이식판 『인연이라는 이름의 팬던트 (絆という名のペンダント)』([PS](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"))
+      - 위드 유의 PS이식판 『인연이라는 이름의 팬던트 (絆という名のペンダント)』([PS](../Page/플레이스테이션.md "wikilink"))
       - 동창회의 가정용 이식판『프렌즈 \~청춘의 빛남\~ (フレンズ \~青春の輝き\~)』([SS](../Page/세가_새턴.md "wikilink")/[PS2](../Page/플레이스테이션_2.md "wikilink"))
 
 <!-- end list -->
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - 미디어웍스
-      - 『[시스터 프린세스](../Page/시스터_프린세스.md "wikilink") (シスタープリンセス)』시리즈([PS](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")/[DC](../Page/드림캐스트.md "wikilink"))
+      - 『[시스터 프린세스](../Page/시스터_프린세스.md "wikilink") (シスタープリンセス)』시리즈([PS](../Page/플레이스테이션.md "wikilink")/[DC](../Page/드림캐스트.md "wikilink"))
 
 ## 연혁/소개
 

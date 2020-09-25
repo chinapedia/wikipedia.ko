@@ -19,6 +19,8 @@
 
   - [로비 킨](../Page/로비_킨.md "wikilink")
 
+  - [아다마 트라오레](https://ko.wikipedia.org/wiki/아다마_트라오레 "wikilink")
+
 ## 역대 우승 기록
 
 **리그**

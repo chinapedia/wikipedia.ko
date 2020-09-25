@@ -136,7 +136,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/보잉_757.md" title="wikilink">보잉 757-200</a><br />
-<small>국내선 <a href="https://ko.wikipedia.org/wiki/ETOPS" title="wikilink">ETOPS</a></small></p></td>
+<small>국내선 <a href="../Page/ETOPS.md" title="wikilink">ETOPS</a></small></p></td>
 <td><p>9</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -144,7 +144,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/보잉_757.md" title="wikilink">보잉 757-200</a><br />
-<small>국제선 <a href="https://ko.wikipedia.org/wiki/ETOPS" title="wikilink">ETOPS</a></small></p></td>
+<small>국제선 <a href="../Page/ETOPS.md" title="wikilink">ETOPS</a></small></p></td>
 <td><p>15</p></td>
 <td><p>0</p></td>
 <td><p>12</p></td>

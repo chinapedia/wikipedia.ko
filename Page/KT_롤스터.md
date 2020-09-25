@@ -111,7 +111,7 @@ LOL 종목은 2015년 시즌부터 1팀 체제로 변화함에 따라 팀 리빌
   - [2004년](../Page/2004년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") 투싼배 MBC게임 팀리그 3위
   - [2005년](../Page/2005년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink") SKY 프로리그 2004 3라운드 준우승
   - [2005년](../Page/2005년.md "wikilink") [2월 16일](../Page/2월_16일.md "wikilink") SKY 프로리그 2004 그랜드파이널 4위
-  - [2005년](../Page/2005년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") MBC무비스배 MBC게임 팀리그 4위
+  - [2005년](../Page/2005년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") MBC무비스배 MBC게임 팀리그 4위
   - [2005년](../Page/2005년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") SKY 프로리그 2005 전기리그 준우승
   - [2005년](../Page/2005년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") **프로스포츠 사상 최다 23연승 기록 수립**
   - [2006년](../Page/2006년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") SKY 프로리그 2005 후기리그 3위
@@ -150,7 +150,7 @@ LOL 종목은 2015년 시즌부터 1팀 체제로 변화함에 따라 팀 리빌
   - [2009년](../Page/2009년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") 생각대로T SF프로리그 2009 1st 준우승
   - [2010년](../Page/2010년.md "wikilink") [1월 23일](../Page/1월_23일.md "wikilink") 생각대로T SF프로리그 2009 2nd 4위
   - [2010년](../Page/2010년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") 생각대로T SF프로리그 2010 1st 준우승
-  - [2011년](../Page/2011년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") *' 생각대로T SF프로리그 2010 2nd 우승*'
+  - [2011년](../Page/2011년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") *' 생각대로T SF프로리그 2010 2nd 우승*'
   - [2011년](../Page/2011년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") 생각대로T SF 프로리그 2011 1st 준우승
   - [2012년](../Page/2012년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") 생각대로T SF2 프로리그 2012 1st 3위
 

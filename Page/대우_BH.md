@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [대우 BH](https://ko.wikipedia.org/wiki/대우_BH).
 
 
-**자일대우 BH**는 [자일대우상용차](../Page/자일대우상용차.md "wikilink")의 중형, 대형 고급버스 모델이다. [1981년](../Page/1981년.md "wikilink") 부터 [2009년](../Page/2009년.md "wikilink")까지 몇 차례의 모델 변경을 거치며 생산되었지만 BH090은 [2002년](../Page/2002년.md "wikilink")부터 현재까지 생산되었다. 2세대 모델부터는 코드로 된 본 모델명 외에 **로얄**의 명칭이 있으며 **로얄 시리즈**라고 부른다. 후속 모델은 [대우 FX (현.자일대우 FX)이다](../Page/자일대우_FX.md "wikilink").
+**자일대우 BH**는 [자일대우상용차](../Page/자일대우상용차.md "wikilink")의 중형, 대형 고급버스 모델이다. [1981년](../Page/1981년.md "wikilink") 부터 [2009년](../Page/2009년.md "wikilink")까지 몇 차례의 모델 변경을 거치며 생산되었지만 BH090은 [2002년](../Page/2002년.md "wikilink")부터 [2020년](../Page/2020년.md "wikilink")까지 생산되었다. 2세대 모델부터는 코드로 된 본 모델명 외에 **로얄**의 명칭이 있으며 **로얄 시리즈**라고 부른다. 후속 모델은 [대우 FX (현.자일대우 FX)이다](../Page/자일대우_FX.md "wikilink").
 
 ## 특징
 
@@ -9,9 +9,9 @@
 
 ## 세부 종류
 
-#### BH090 로얄 스타 ([2002년](../Page/2002년.md "wikilink") \~ 현재)
+#### BH090 로얄 스타 ([2002년](../Page/2002년.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink"))
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:BH090.JPG "wikilink") [2000년](../Page/2000년.md "wikilink") [대우 BM090 로얄미디를](../Page/대우_BM.md "wikilink") 고급형과 도시형([BS090 로얄미디](../Page/자일대우_BS.md "wikilink"))으로 나누면서 생산된 모델로, 국내에서 유일한 9m짜리 미디엄급 고급 [버스](../Page/버스.md "wikilink") 모델이다. 출시 당시 DE08Tis [엔진](../Page/엔진.md "wikilink")을 장착하였으나, [2004년](../Page/2004년.md "wikilink") 유로3 환경규제에 대응하기 위해 DL08 [엔진](../Page/엔진.md "wikilink")으로 변경하였고, [2008년](../Page/2008년.md "wikilink") 유로4 환경규제에 대응하기 위해 DL06[엔진](../Page/엔진.md "wikilink")을 기본으로 하되, DL08 [엔진](../Page/엔진.md "wikilink")을 옵션사향으로 선택할 수 있도록 변경하였다. [2011년 3월](../Page/2011년_3월.md "wikilink") 가격표 개정에도 불구하고 여전히 DL06K [엔진](../Page/엔진.md "wikilink")을 기본으로 하되, 옵션으로 DL08K [엔진](../Page/엔진.md "wikilink")을 적용할 수 있다. [2015년](../Page/2015년.md "wikilink")부터는 두산인프라코어가 유로6 엔진 개발을 중지하였기에 커민스 ISBe엔진을 사용하고 있다. [2019년](../Page/2019년.md "wikilink")부터는 NEW BS 차종이랑 동일한 계기판으로 변경되었다. 다른 BH차종과 달리 로얄스타II로 F/L하지 않거나 자일대우 FX로 풀체인지를 하지 않고 출시할때부터 계속 현행대로 생산중이다. [2020년](../Page/2020년.md "wikilink") 하반기부터는 [코로나바이러스감염증-19](https://ko.wikipedia.org/wiki/코로나바이러스감염증-19 "wikilink")에 따른 수요 감소와 실적 악화 등을 이유로 자일대우상용차 생산공장인 울산공장이 폐쇄되고 베트남으로 이전할 예정이며, 해당된 차종은 자일대우상용차 베트남공장에서 제작하여 수입하는 방식으로 들어올 예정이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:BH090.JPG "wikilink") [2000년](../Page/2000년.md "wikilink") [대우 BM090 로얄미디를](../Page/대우_BM.md "wikilink") 고급형과 도시형([BS090 로얄미디](../Page/자일대우_BS.md "wikilink"))으로 나누면서 생산된 모델로, 국내에서 유일한 9m짜리 미디엄급 고급 [버스](../Page/버스.md "wikilink") 모델이다. 출시 당시 DE08Tis [엔진](../Page/엔진.md "wikilink")을 장착하였으나, [2004년](../Page/2004년.md "wikilink") 유로3 환경규제에 대응하기 위해 DL08 [엔진](../Page/엔진.md "wikilink")으로 변경하였고, [2008년](../Page/2008년.md "wikilink") 유로4 환경규제에 대응하기 위해 DL06[엔진](../Page/엔진.md "wikilink")을 기본으로 하되, DL08 [엔진](../Page/엔진.md "wikilink")을 옵션사향으로 선택할 수 있도록 변경하였다. [2011년 3월](../Page/2011년_3월.md "wikilink") 가격표 개정에도 불구하고 여전히 DL06K [엔진](../Page/엔진.md "wikilink")을 기본으로 하되, 옵션으로 DL08K [엔진](../Page/엔진.md "wikilink")을 적용할 수 있다. [2015년](../Page/2015년.md "wikilink")부터는 두산인프라코어가 유로6 엔진 개발을 중지하였기에 커민스 ISBe엔진을 사용하고 있다. [2019년](../Page/2019년.md "wikilink")부터는 NEW BS 차종이랑 동일한 계기판으로 변경되었다. 다른 BH차종과 달리 로얄스타II로 F/L하지 않거나 자일대우 FX로 풀체인지를 하지 않고 디자인이 출시할때부터 계속 현행대로 생산중이다. [2020년](../Page/2020년.md "wikilink") [6월](../Page/6월.md "wikilink")부터는 코로나19에 따른 수요 감소와 실적 악화등의 문제로 생산이 잠시 중단되었다.
 
 ##### 현재 보유중이거나 과거에 보유했던 업체
 

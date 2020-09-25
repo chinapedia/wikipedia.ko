@@ -55,7 +55,7 @@ ENDLESS RAIN 이후의 영상은, 오랫동안 TV 방영과 THE LAST SONG의 엑
 <!-- end list -->
 
   - Prologue-World Anthem-(S.E)
-  - [X](https://ko.wikipedia.org/wiki/X "wikilink")
+  - [X](../Page/X.md "wikilink")
   - [ENDLESS RAIN](https://ko.wikipedia.org/wiki/ENDLESS_RAIN "wikilink")
 
 <!-- end list -->

@@ -12,7 +12,6 @@
 
 ## 슬로건
 
-  - 대한민국 스포츠채널
   - 대한민국 대표 스포츠 채널
   - 스포츠 그 이상의 감동
   - More than Sports
@@ -52,6 +51,7 @@
 
 ## 이전 소속 아나운서
 
+  - \~[2006년](../Page/2006년.md "wikilink") : 민구희
   - \~[2007년](../Page/2007년.md "wikilink") : 한정미
   - \~[2010년](../Page/2010년.md "wikilink") : (故)[송지선](../Page/송지선.md "wikilink"), [김석류](../Page/김석류.md "wikilink"), [이지윤](https://ko.wikipedia.org/wiki/이지윤 "wikilink")
   - \~[2011년](../Page/2011년.md "wikilink") : [정지원](../Page/정지원_\(1985년\).md "wikilink")([KBS](../Page/한국방송공사.md "wikilink") 아나운서로 이직), [오현주](https://ko.wikipedia.org/wiki/오현주_\(기자\) "wikilink")([TV조선](../Page/TV조선.md "wikilink") 기자로 이직)

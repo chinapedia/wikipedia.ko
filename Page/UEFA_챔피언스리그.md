@@ -611,7 +611,7 @@ UEFA 유로파리그 저번 시즌 우승팀이 챔피언스리그 본선에 진
 <tr class="odd">
 <td><p><a href="../Page/2019-20년_UEFA_챔피언스리그.md" title="wikilink">2019-20</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
-<td><p><strong>1 - 0</strong></p></td>
+<td><p><strong>4 - 1</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파리_생제르맹" title="wikilink">파리 생제르맹</a></p></td>
 <td><p><a href="../Page/리스본.md" title="wikilink">리스본</a>, <a href="../Page/이스타디우_다_루스.md" title="wikilink">이스타디우 다 루스</a></p></td>
 </tr>

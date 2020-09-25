@@ -28,7 +28,7 @@ HDMI가 장착된 플레이어는 내부적으로 돌비 트루HD를 [LPCM](http
 ## 외부 링크
 
   -
-[분류:오디오 코덱](https://ko.wikipedia.org/wiki/분류:오디오_코덱 "wikilink") [분류:무손실 오디오 코덱](https://ko.wikipedia.org/wiki/분류:무손실_오디오_코덱 "wikilink")
+[분류:오디오 코덱](https://ko.wikipedia.org/wiki/분류:오디오_코덱 "wikilink") [분류:무손실 오디오 코덱](https://ko.wikipedia.org/wiki/분류:무손실_오디오_코덱 "wikilink") [분류:돌비 래버러토리스](https://ko.wikipedia.org/wiki/분류:돌비_래버러토리스 "wikilink")
 
 1.
 2.  [HDMI FAQ at hdmi.org](http://www.hdmi.org/learningcenter/faq.aspx#q4_1)

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GD-ROM](https://ko.wikipedia.org/wiki/GD-ROM).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:GD-ROM_logo.png "wikilink")  **GD-ROM**(Giga Disk Read-Only Memory)은 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")와 [야마하](../Page/야마하.md "wikilink")가 개발한 광 디스크 포맷으로 약 1 GB의 용량을 가지고 있다. 일반 [시디롬](https://ko.wikipedia.org/wiki/시디롬 "wikilink")과 같은 크기의 디스크를 사용하며 세가의 [드림캐스트](../Page/드림캐스트.md "wikilink")와 같은 아키텍처의 아케이드 게임 기판인 [나오미](../Page/세가_나오미.md "wikilink"), [나오미 2를](../Page/세가_나오미_2.md "wikilink") 비롯하여 [치히로와](../Page/세가_치히로.md "wikilink") [트라이포스](../Page/트라이포스.md "wikilink")에도 사용되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:GD-ROM_logo.png "wikilink")  **GD-ROM**(Giga Disk Read-Only Memory)은 [세가](../Page/세가.md "wikilink")와 [야마하](../Page/야마하.md "wikilink")가 개발한 광 디스크 포맷으로 약 1 GB의 용량을 가지고 있다. 일반 [시디롬](https://ko.wikipedia.org/wiki/시디롬 "wikilink")과 같은 크기의 디스크를 사용하며 세가의 [드림캐스트](../Page/드림캐스트.md "wikilink")와 같은 아키텍처의 아케이드 게임 기판인 [나오미](../Page/세가_나오미.md "wikilink"), [나오미 2를](../Page/세가_나오미_2.md "wikilink") 비롯하여 [치히로와](../Page/세가_치히로.md "wikilink") [트라이포스](../Page/트라이포스.md "wikilink")에도 사용되었다.
 
 ## 세부 사항
 

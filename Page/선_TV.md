@@ -96,7 +96,7 @@
 
   - [한신 아와지 대지진 당시 SUN-TV 보도 기록(일본어 번역문)](http://j2k.naver.com/j2k_frame.php/korean/www.sun-tv.co.jp/shinsai/hd-eq-10.html)
 
-[분류:독립 UHF 방송국](https://ko.wikipedia.org/wiki/분류:독립_UHF_방송국 "wikilink") [분류:일본의 텔레비전 방송사](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_방송사 "wikilink") [분류:효고현](https://ko.wikipedia.org/wiki/분류:효고현 "wikilink") [분류:고베시](https://ko.wikipedia.org/wiki/분류:고베시 "wikilink") [분류:1968년 설립](https://ko.wikipedia.org/wiki/분류:1968년_설립 "wikilink") [분류:긴키 지방의 방송](https://ko.wikipedia.org/wiki/분류:긴키_지방의_방송 "wikilink") [분류:1969년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1969년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:고베시의 기업](https://ko.wikipedia.org/wiki/분류:고베시의_기업 "wikilink") [분류:일본의 지방공기업](https://ko.wikipedia.org/wiki/분류:일본의_지방공기업 "wikilink")
+[분류:독립 UHF 방송국](https://ko.wikipedia.org/wiki/분류:독립_UHF_방송국 "wikilink") [분류:일본의 텔레비전 방송사](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_방송사 "wikilink") [분류:고베시의 기업](https://ko.wikipedia.org/wiki/분류:고베시의_기업 "wikilink") [분류:1968년 설립](https://ko.wikipedia.org/wiki/분류:1968년_설립 "wikilink") [분류:긴키 지방의 방송](https://ko.wikipedia.org/wiki/분류:긴키_지방의_방송 "wikilink") [분류:1969년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1969년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:일본의 지방공기업](https://ko.wikipedia.org/wiki/분류:일본의_지방공기업 "wikilink")
 
 1.  실제로 오사카의 모든 케이블 텔레비전 방송국에서 디지털방송을 실시한 이후에도 선TV를 재전송 하고 있다
 2.  당시 일본에서는 동점으로 경기가 연장된 경우 경기 시간제한이 없었다.

@@ -3,7 +3,7 @@
 
 **zlib**은 [C로](../Page/C_\(프로그래밍_언어\).md "wikilink") 작성된 [데이터 압축](../Page/데이터_압축.md "wikilink") [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")의 일종이다. 제작자는 Jean-Loup Gailly와 Mark Adler. 첫 공식 버전 0.9는 [1995년](../Page/1995년.md "wikilink") [5월 1일에](../Page/5월_1일.md "wikilink") 출시하였으며 처음에는 [libpng](https://ko.wikipedia.org/wiki/libpng "wikilink") 이미지 라이브러리의 사용을 위해 고안되었다. 라이선스는 [zlib 라이선스를](https://ko.wikipedia.org/wiki/zlib_라이선스 "wikilink") 따르며 현재 최신 안정 버전은 [2017년](../Page/2017년.md "wikilink") [1월 15일에](../Page/1월_15일.md "wikilink") 나온 1.2.11이다.
 
-[2007년](../Page/2007년.md "wikilink") [3월](../Page/3월.md "wikilink") 기준으로, [코베리티](https://ko.wikipedia.org/wiki/코베리티 "wikilink")(Coverity Coverity)의 [미국 국토 안보부](https://ko.wikipedia.org/wiki/미국_국토_안보부 "wikilink") 지원 실험 오픈소스 프로젝트에 포함되어 있으며\[1\] [gzip](https://ko.wikipedia.org/wiki/gzip "wikilink") 파일 압축 프로그램에 쓰이는 [DEFLATE](https://ko.wikipedia.org/wiki/DEFLATE "wikilink") 압축 [알고리즘](../Page/알고리즘.md "wikilink")의 [추상화](../Page/추상화_\(컴퓨터_과학\).md "wikilink") 계층을 비롯해 다양한 분야에 쓰이고 있다.
+[2007년](../Page/2007년.md "wikilink") [3월](../Page/3월.md "wikilink") 기준으로, [코베리티](https://ko.wikipedia.org/wiki/코베리티 "wikilink")(Coverity Coverity)의 [미국 국토 안보부](https://ko.wikipedia.org/wiki/미국_국토_안보부 "wikilink") 지원 실험 오픈소스 프로젝트에 포함되어 있으며\[1\] [gzip](https://ko.wikipedia.org/wiki/gzip "wikilink") 파일 압축 프로그램에 쓰이는 [DEFLATE](../Page/DEFLATE.md "wikilink") 압축 [알고리즘](../Page/알고리즘.md "wikilink")의 [추상화](../Page/추상화_\(컴퓨터_과학\).md "wikilink") 계층을 비롯해 다양한 분야에 쓰이고 있다.
 
 ## 응용 프로그램
 

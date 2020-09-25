@@ -15,7 +15,7 @@
   - [로얄 안트베르펀](https://ko.wikipedia.org/wiki/로얄_앤트워프 "wikilink")
   - [세르클러 브뤼허](https://ko.wikipedia.org/wiki/세르클러_브뤼허 "wikilink")
   - [클뤼프 브뤼허](https://ko.wikipedia.org/wiki/클뤼프_브뤼허 "wikilink")
-  - [스포르팅 샤를루아](https://ko.wikipedia.org/wiki/스포르팅_샤를루아 "wikilink")
+  - [스포르팅 샤를루아](../Page/스포르팅_샤를루아.md "wikilink")
   - [KAS 오이펜](../Page/KAS_오이펜.md "wikilink")
   - [KAA 헨트](../Page/KAA_헨트.md "wikilink")
   - [KRC 헹크](../Page/KRC_헹크.md "wikilink")

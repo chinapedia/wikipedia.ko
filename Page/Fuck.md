@@ -80,7 +80,7 @@ mierda, cabron
 
 ### 왓더퍽
 
-**왓더퍽**(What The Fuck)은 Fuck과 비슷한 의미로 쓰이는 영어의 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")로 해석된다. 하지만 [감탄사](https://ko.wikipedia.org/wiki/감탄사 "wikilink")로 쓰여 시발, 좀 더 좋게 순화시키면 [은어](https://ko.wikipedia.org/wiki/은어 "wikilink")로 '개쩐다'의 뜻으로 해석될 수 있다. 줄여서 WTF라고 하며, [소셜 네트워크 서비스](../Page/소셜_네트워크_서비스.md "wikilink")(SNS) [트위터](../Page/트위터.md "wikilink") 상에서 쓰이는 경우를 심심찮게 볼 수 있다.
+**왓더퍽**(What The Fuck)은 Fuck과 비슷한 의미로 쓰이는 영어의 [욕설](https://ko.wikipedia.org/wiki/욕설 "wikilink")로 해석된다. 하지만 [감탄사](https://ko.wikipedia.org/wiki/감탄사 "wikilink")로 쓰일 때도 있어 시발, 좀 더 좋게 순화시키면 [은어](https://ko.wikipedia.org/wiki/은어 "wikilink")로 '개쩐다'의 뜻으로 해석될 수 있다. 줄여서 WTF라고 하며, [소셜 네트워크 서비스](../Page/소셜_네트워크_서비스.md "wikilink")(SNS) [트위터](../Page/트위터.md "wikilink") 상에서 쓰이는 경우를 심심찮게 볼 수 있다.
 
 ## 같이 보기
 

@@ -173,25 +173,25 @@
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 대구·경북</a></p></td>
 <td><p>10분</p></td>
 <td><p>평일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/백명지" title="wikilink">백명지</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김영숙" title="wikilink">김영숙</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 대구·경북</a></p></td>
 <td><p>10분</p></td>
 <td><p>평일 오전 9시 45분 ~ 9시 55분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/송현주" title="wikilink">송현주</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이윤정" title="wikilink">이윤정</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_7_대구·경북.md" title="wikilink">KBS 뉴스 7 대구·경북</a></p></td>
 <td><p>40분</p></td>
 <td><p>월~목 저녁 7시 ~ 7시 40분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김상배" title="wikilink">김상배</a>, 이윤정</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김상배" title="wikilink">김상배</a>, <a href="https://ko.wikipedia.org/wiki/고선영" title="wikilink">고선영</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 대구·경북</a></p></td>
 <td><p>5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진유현" title="wikilink">진유현</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김영숙" title="wikilink">김영숙</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 대구·경북</a></p></td>
@@ -199,7 +199,7 @@
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/박준형" title="wikilink">박준형</a>, 고선영 (평일)<br />
+<td><p><a href="https://ko.wikipedia.org/wiki/진유현" title="wikilink">진유현</a>, 고선영 (평일)<br />
 <a href="https://ko.wikipedia.org/wiki/이윤정" title="wikilink">이윤정</a> (주말)</p></td>
 </tr>
 </tbody>
@@ -249,7 +249,7 @@
 | 프로그램명                                                      | 방송시간                | 편성시간                                                | 진행                                                  |
 | ---------------------------------------------------------- | ------------------- | --------------------------------------------------- | --------------------------------------------------- |
 | KBS 제1라디오 9시 뉴스                                            | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                      | [송현주](https://ko.wikipedia.org/wiki/송현주 "wikilink") |
-| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [진유현](https://ko.wikipedia.org/wiki/진유현 "wikilink") |                                                     |
+| [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [김영숙](https://ko.wikipedia.org/wiki/김영숙 "wikilink") |                                                     |
 | KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [박은정](https://ko.wikipedia.org/wiki/박은정 "wikilink") |                                                     |
 
   - 시사·교양

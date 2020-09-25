@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GLSL](https://ko.wikipedia.org/wiki/GLSL).
 
 
-**GLSL**(OpenGL Shading Language, OpenGL 셰이딩 언어)는 [C 언어를](https://ko.wikipedia.org/wiki/C_언어 "wikilink") 기초로 한, 상위 레벨 셰이딩 언어이다. **GLslang**로도 알려져 있다. [HLSL과](../Page/고급_셰이더_언어.md "wikilink") 유사한 이 언어는 [어셈블리 언어나](https://ko.wikipedia.org/wiki/어셈블리_언어 "wikilink") [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink")에 의존한 언어를 사용하지 않고, 개발자가 [그래픽스 파이프라인을](https://ko.wikipedia.org/wiki/그래픽스_파이프라인 "wikilink") 직접 제어할 수 있도록 [OpenGL](../Page/OpenGL.md "wikilink") ARB()가 책정하였다.
+**GLSL**(OpenGL Shading Language, OpenGL 셰이딩 언어)는 [C 언어를](https://ko.wikipedia.org/wiki/C_언어 "wikilink") 기초로 한, 상위 레벨 셰이딩 언어이다. **GLslang**로도 알려져 있다. [HLSL과](../Page/고급_셰이더_언어.md "wikilink") 유사한 이 언어는 [어셈블리 언어나](https://ko.wikipedia.org/wiki/어셈블리_언어 "wikilink") [하드웨어](https://ko.wikipedia.org/wiki/하드웨어 "wikilink")에 의존한 언어를 사용하지 않고, 개발자가 [그래픽스 파이프라인을](../Page/그래픽스_파이프라인.md "wikilink") 직접 제어할 수 있도록 [OpenGL](../Page/OpenGL.md "wikilink") ARB()가 책정하였다.
 
 **GLSL**은 프로파일이 있어서 개발자는 [Cg로](https://ko.wikipedia.org/wiki/Cg_\(프로그래밍_언어\) "wikilink") 개발한 코드를 바로 변환할 수도 있다.
 

@@ -134,7 +134,7 @@
 
 ### UHD 시대
 
-  - [2018년](../Page/2018년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") : 제18대 대표이사 사장 최중억 취임
+  - [2018년](../Page/2018년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") : 제18대 대표이사 사장 최중억 취임
 
 ## TV방송 [MBC강원영동 삼척 TV](https://ko.wikipedia.org/wiki/MBC강원영동_삼척_TV "wikilink")
 

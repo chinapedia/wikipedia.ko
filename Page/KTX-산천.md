@@ -42,7 +42,7 @@ KTX-산천은 [KTX](../Page/KTX-I.md "wikilink"), [HSR-350x](../Page/HSR-350x.md
 
 ### 특이 사항
 
-  - 가속 성능이 향상되어, [KTX-I](../Page/KTX-I.md "wikilink")의 6분 5초에 비해 49초 줄어든 5분 16초만에 정지상태에서 최고속도인 300 km/h까지 도달할 수 있게 되었다\[2\].
+  - 가속 성능이 향상되어, [KTX의](../Page/KTX-I.md "wikilink") 6분 5초에 비해 49초 줄어든 5분 16초만에 정지상태에서 최고속도인 300 km/h까지 도달할 수 있게 되었다\[2\].
   - [한국철도공사](../Page/한국철도공사.md "wikilink") 전산망에서는 짧은줄표(-)를 넣어 **KTX-산천**으로 표기한다.
   - 109호기가 [특별 동차로](https://ko.wikipedia.org/wiki/특별_동차 "wikilink") 지정되어 있으며, 해당 차량은 영업 운전 시 1\~2호차를 개방하지 않고 운행한다.
   - [2016년](../Page/2016년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") 140000호대 도입과 함께 편성 번호가 1호기 내지 24호기에서 백의 자리 1이 추가된 101호기 내지 124호기로 개번되었다.
@@ -64,7 +64,7 @@ KTX-산천은 [KTX](../Page/KTX-I.md "wikilink"), [HSR-350x](../Page/HSR-350x.md
 
 ## SRT 120000호대
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:KTX-Sancheon_120000_Series.jpg "wikilink") [2015년](../Page/2015년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink") [호남고속철도](../Page/호남고속철도.md "wikilink") 개통과 함께 도입된 [한국철도공사](../Page/한국철도공사.md "wikilink") 소유의 [고속철도](../Page/고속철도.md "wikilink") 차량이며, 현재 [에스알](../Page/에스알.md "wikilink")로 임대되어 운행중이다. [한국철도시설공단](../Page/한국철도시설공단.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") [현대로템](../Page/현대로템.md "wikilink")과 납품 계약을 체결해 22편성(220량)이 도입되었고, 완성된 첫 편성이 [2013년](../Page/2013년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") 공개되었다. [한국철도공사](../Page/한국철도공사.md "wikilink")에서는 [2015년](../Page/2015년.md "wikilink") [4월 2일부터](../Page/4월_2일.md "wikilink") [호남고속철도](../Page/호남고속철도.md "wikilink") 개통과 함께 [2016년](../Page/2016년.md "wikilink") [12월 8일까지](../Page/12월_8일.md "wikilink") **KTX_산천**으로 영업 운행에 투입하였다. 이후 [수서고속철도](../Page/수서고속철도.md "wikilink") 개통과 함께 [2016년](../Page/2016년.md "wikilink") [12월 9일부터](../Page/12월_9일.md "wikilink") [에스알](../Page/에스알.md "wikilink")에 임대되면서 **KTX_산천** 명칭을 KTX-산천 140000호대에 내주고, **SRT**로 변경되었다. 정비는 [호남철도차량정비단](../Page/호남철도차량정비단.md "wikilink")에 배속되어 시행한다. 차량 가격은 1편성 당 335억원이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:KTX-Sancheon_120000_Series.jpg "wikilink") [2015년](../Page/2015년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink") [호남고속철도](../Page/호남고속철도.md "wikilink") 개통과 함께 도입된 [한국철도공사](../Page/한국철도공사.md "wikilink") 소유의 [고속철도](../Page/고속철도.md "wikilink") 차량이며, 현재 [에스알](../Page/에스알.md "wikilink")로 임대되어 운행중이다. [한국철도시설공단](../Page/한국철도시설공단.md "wikilink")에서 [2012년](../Page/2012년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") [현대로템](../Page/현대로템.md "wikilink")과 납품 계약을 체결해 22편성(220량)이 도입되었고, 완성된 첫 편성이 [2013년](../Page/2013년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") 공개되었다. [한국철도공사](../Page/한국철도공사.md "wikilink")에서는 [2015년](../Page/2015년.md "wikilink") [4월 2일부터](../Page/4월_2일.md "wikilink") [호남고속철도](../Page/호남고속철도.md "wikilink") 개통과 함께 [2016년](../Page/2016년.md "wikilink") [12월 8일까지](../Page/12월_8일.md "wikilink") **KTX_산천**으로 영업 운행에 투입하였다. 이후 [수서고속철도](../Page/수서고속철도.md "wikilink") 개통과 함께 [2016년](../Page/2016년.md "wikilink") [12월 9일부터](../Page/12월_9일.md "wikilink") [에스알](../Page/에스알.md "wikilink")에 임대되면서 **KTX_산천** 명칭을 KTX-산천 140000호대에 내주고, **[SRT](https://ko.wikipedia.org/wiki/SRT "wikilink")**로 변경되었다. 정비는 [호남철도차량정비단](../Page/호남철도차량정비단.md "wikilink")에 배속되어 시행한다. 차량 가격은 1편성 당 335억원이다.
 
 ### 성능
 
@@ -127,7 +127,7 @@ KTX-산천은 [KTX](../Page/KTX-I.md "wikilink"), [HSR-350x](../Page/HSR-350x.md
 | 13XX08 | T8(일반실)               |
 | 13XX52 | PC2(동력차)              |
 
-## KTX-산천 140000호대 (B-Type)
+## KTX_산천 140000호대 (B-Type)
 
 [2018년 동계 올림픽과](../Page/2018년_동계_올림픽.md "wikilink") [강릉선](../Page/강릉선.md "wikilink") 개통을 대비하여 도입된 [고속철도](../Page/고속철도.md "wikilink") 차량이다. 한국철도공사 전산에서는 기존 110000호대(KTX-산천)와 구분하기 위해 기존 SRT 120000호대에서 사용했던 **KTX_산천**이라는 명칭을 사용한다. [2014년](../Page/2014년.md "wikilink") [3월 19일](../Page/3월_19일.md "wikilink") 한국철도공사와 [현대로템](../Page/현대로템.md "wikilink")이 납품계약을 체결하여 총 15편성이 도입되었으며, 완성된 첫 편성이 [2016년](../Page/2016년.md "wikilink") [3월 10일](../Page/3월_10일.md "wikilink") [현대로템](../Page/현대로템.md "wikilink") 창원공장에서 공개되었다. 현재 16개 편성이 도입되었다. 이중 412호기는 11월 4일 강릉선 KTX 시승식에 쓰였다. 차량 가격은 1편성 329억원이다. 기존 KTX-산천의 HID 램프에서 LED 램프로 교체되었고, 통유리에서 120000호대의 개별형으로 변경된 것이 특징이다. 또한 기존 산천에 쓰이던 디스크타입 IGBT가 단종되어 모듈형 스텍을 사용하였다. 기존 110000호대 산천과는 다르게 객실 측면에 출입문 표시등이 추가되었다.
 

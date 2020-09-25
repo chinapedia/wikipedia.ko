@@ -83,7 +83,7 @@ CPU 전력 상태 C0-C3는 다음과 같이 정의된다:
 
 ## 외부 링크
 
-  - [ACPI 홈페이지](http://www.acpi.info/)
+  - [ACPICA](https://www.acpica.org/)
 
 [분류:바이오스](https://ko.wikipedia.org/wiki/분류:바이오스 "wikilink") [분류:API](https://ko.wikipedia.org/wiki/분류:API "wikilink") [분류:컴퓨터 하드웨어 표준](https://ko.wikipedia.org/wiki/분류:컴퓨터_하드웨어_표준 "wikilink") [분류:시스템 관리](https://ko.wikipedia.org/wiki/분류:시스템_관리 "wikilink") [분류:개방형 표준](https://ko.wikipedia.org/wiki/분류:개방형_표준 "wikilink")
 

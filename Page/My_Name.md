@@ -3,7 +3,7 @@
 
 《**My Name**》은 [보아](../Page/보아.md "wikilink")가 [대한민국](../Page/대한민국.md "wikilink")에서 발매한 4번째 정규 앨범이다. 전작인 3집 《[Atlantis Princess](../Page/Atlantis_Princess.md "wikilink")》에서 어리고 소녀다운 이미지를 보여줬다면, 이 앨범에서 보아는 조금 더 자란 성숙미를 보여준다. 앨범에는 타이틀 곡인 〈My Name〉, 후속곡 〈Spark〉, 〈My Prayer (기도)〉 등 총 14곡이 수록되어 있다.
 
-앨범의 타이틀 곡 〈My Name〉은 [Kenzie가](../Page/켄지.md "wikilink") 작사·작곡을 맡았다. 어반 댄스(Urban Dance) 스타일의 곡으로, 골반 댄스 등 곡의 안무도 상당한 반응을 얻어 [김영철](../Page/김영철_\(희극인\).md "wikilink")·[조정린](../Page/조정린.md "wikilink") 등 많은 연예인들이 방송에서 따라하기도 했다. 후속곡 〈Spark〉는 검정색 정장과 중절모를 쓰는 보이시한 스타일로 방송에 출연했고, 곡을 리믹스하여 전주 부분에 파워풀한 댄스를 보여주었다. 이후 발라드곡 〈My Prayer (기도)〉로 활동하였다.
+앨범의 타이틀 곡 〈My Name〉은 [Kenzie가](../Page/켄지.md "wikilink") 작사·작곡을 맡았다. 어반 댄스(Urban Dance) 스타일의 곡으로, 골반 댄스 등 곡의 안무도 상당한 반응을 얻어 [김영철](../Page/김영철_\(희극인\).md "wikilink")·[조정린](../Page/조정린.md "wikilink") 등 많은 연예인들이 방송에서 따라하기도 했다. 후속곡 〈Spark〉는 검은색 정장과 중절모를 쓰는 보이시한 스타일로 방송에 출연했고, 곡을 리믹스하여 전주 부분에 파워풀한 댄스를 보여주었다. 이후 발라드곡 〈My Prayer (기도)〉로 활동하였다.
 
 앨범의 마지막 곡 〈We (우리)〉는 [대금](../Page/대금.md "wikilink")·[소금](../Page/소금_\(악기\).md "wikilink")·[해금](https://ko.wikipedia.org/wiki/해금 "wikilink") 등 국악 악기가 사용된 애절하고 웅장한 발라드로, 영화 《[태극기 휘날리며](../Page/태극기_휘날리며.md "wikilink")》의 일본판 엔딩곡으로 사용되었다.
 
@@ -13,7 +13,7 @@
 
   - 〈My Name〉
       -
-        [일본](../Page/일본.md "wikilink")의 마스시 무토 감독이 촬영한 〈My Name〉의 뮤직 비디오는 샹들리에가 달린 넓은 클럽에서 댄서들과 춤을 추는 모습, 많은 거울들 속에서 움직이는 보아의 모습, 검정색과 하양색의 대비로 이루어진 통로를 기어가는 모습 등으로 이루어져 있다. 이 곡의 뮤직비디오는 "보아의 성숙미를 가장 돋보이게 했다"는 평을 받으며\[1\] [2004년](../Page/2004년.md "wikilink") 말 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 가요대상 뮤직비디오상과 [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink") [KM](https://ko.wikipedia.org/wiki/KMTV "wikilink") 뮤직비디오 페스티벌 최우수 작품상을 차지했다.
+        [일본](../Page/일본.md "wikilink")의 마스시 무토 감독이 촬영한 〈My Name〉의 뮤직 비디오는 샹들리에가 달린 넓은 클럽에서 댄서들과 춤을 추는 모습, 많은 거울들 속에서 움직이는 보아의 모습, 검은색과 하양색의 대비로 이루어진 통로를 기어가는 모습 등으로 이루어져 있다. 이 곡의 뮤직비디오는 "보아의 성숙미를 가장 돋보이게 했다"는 평을 받으며\[1\] [2004년](../Page/2004년.md "wikilink") 말 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink") 가요대상 뮤직비디오상과 [M.net](https://ko.wikipedia.org/wiki/M.net "wikilink") [KM](https://ko.wikipedia.org/wiki/KMTV "wikilink") 뮤직비디오 페스티벌 최우수 작품상을 차지했다.
   - 〈Spark〉
       -
         후속곡임에도 뮤직비디오는 촬영하지 않았다.

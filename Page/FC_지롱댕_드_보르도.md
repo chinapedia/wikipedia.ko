@@ -11,6 +11,8 @@
 
 \[3\]
 
+### 임대 선수 명단
+
 ## 역대 성적
 
   - **[리그 1](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 우승 6회**

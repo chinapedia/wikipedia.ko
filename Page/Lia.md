@@ -22,7 +22,7 @@
 
 ## 대한민국에서의 활동
 
-  - [2005년](../Page/2005년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") 주한 일본 대사관 주최로 열린 제5회 JMIC 노래자랑대회에 게스트로 참여했다.
+  - [2005년](../Page/2005년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") 주한 일본 대사관 주최로 열린 제5회 JMIC 노래자랑대회에 게스트로 참여.
   - [2005년](../Page/2005년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") 한국에서 팬 매팅 행사를 개최했다. 성우/애니송 커뮤니티 SORICHU의 주최로 [민들레 영토](https://ko.wikipedia.org/wiki/민들레_영토 "wikilink") 홍대점에서 개최되었으며 질의응답, 노래, 사인회 순으로 진행되었다.
 
 ## 음반

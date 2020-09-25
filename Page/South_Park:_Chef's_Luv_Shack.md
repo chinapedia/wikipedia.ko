@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [South Park: Chef\'s Luv Shack](https://ko.wikipedia.org/wiki/South_Park:_Chef\'s_Luv_Shack).
 
 
-**South Park: Chef's Luv Shack**(사우스 파크: 쉐프스 러브 셰크)은 미국의 성인용 TV 애니메이션 [사우스 파크를](../Page/사우스_파크.md "wikilink") 바탕으로 한 비디오 게임으로, 1999년에 세가 [드림캐스트](../Page/드림캐스트.md "wikilink")/소니 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")/[닌텐도 64](../Page/닌텐도_64.md "wikilink")/PC용으로 나왔다.
+**South Park: Chef's Luv Shack**(사우스 파크: 쉐프스 러브 셰크)은 미국의 성인용 TV 애니메이션 [사우스 파크를](../Page/사우스_파크.md "wikilink") 바탕으로 한 비디오 게임으로, 1999년에 세가 [드림캐스트](../Page/드림캐스트.md "wikilink")/소니 [플레이스테이션](../Page/플레이스테이션.md "wikilink")/[닌텐도 64](../Page/닌텐도_64.md "wikilink")/PC용으로 나왔다.
 
 쉐프가 가상의 TV게임쇼 프로를 진행하는 형식이며, 사우스 파크의 내용이나 상식에 관한 다소 매니악한 퀴즈 위주로 일반상식 수준의 문제도 약간 섞여 있다.
 

@@ -11,7 +11,7 @@
 
 ### 역사
 
-[2000년](../Page/2000년.md "wikilink") [5월 5일부터](../Page/5월_5일.md "wikilink") [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 첫방송을 시작하였지만 [1981년](../Page/1981년.md "wikilink") [6월](../Page/6월.md "wikilink") MBC 라디오 개그맨 1기로 데뷔한 뒤 그 동안 MBC에서 활동한 [이경규](../Page/이경규.md "wikilink")와 [1996년](../Page/1996년.md "wikilink") 제 5회 SBS 공채 개그맨으로 데뷔했으나 IMF 이후 SBS가 코미디 프로그램을 폐지하면서 설 자리를 잃게 되자 KBS로 자리를 옮긴 뒤\[1\] 《[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")》로 성공한 [심현섭](../Page/심현섭.md "wikilink")을 공동 MC로 내세운 한편 [심현섭](../Page/심현섭.md "wikilink")의 예능 프로그램 진행 데뷔작으로 화제가 된\[2\] 《[이경규, 심현섭의 행복남녀](https://ko.wikipedia.org/wiki/이경규,_심현섭의_행복남녀 "wikilink")》가 [2000년](../Page/2000년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") 방송분에서 농구선수 [정은순](../Page/정은순.md "wikilink") 배구선수 [김세진을](../Page/김세진_\(배구인\).md "wikilink") 게스트로 출연시켰지만 [정은순](../Page/정은순.md "wikilink")이 같은 날 대 미국전을 마친지 2시간도 채 안된 시점에 내보내\[3\] 시청자들로부터 따끔한 눈초리를 산 데다 일본 프로그램 표절 시비에 휘말려\[4\] 1년을 넘기지 못하자 같은해 [10월 13일부터](../Page/10월_13일.md "wikilink") [KBS 2TV로](../Page/KBS_2TV.md "wikilink") 이동하였다.
+[2000년](../Page/2000년.md "wikilink") [5월 5일부터](../Page/5월_5일.md "wikilink") [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 첫방송을 시작하였지만 [1981년](../Page/1981년.md "wikilink") [6월](../Page/6월.md "wikilink") MBC 라디오 개그맨 1기로 데뷔한 뒤 그 동안 MBC에서 활동한 [이경규](../Page/이경규.md "wikilink")와 [1996년](../Page/1996년.md "wikilink") 제 5회 SBS 공채 개그맨으로 데뷔했으나 IMF 이후 SBS가 코미디 프로그램을 폐지하면서 설 자리를 잃게 되자 KBS로 자리를 옮긴 뒤\[1\] 《[개그콘서트](https://ko.wikipedia.org/wiki/개그콘서트 "wikilink")》로 성공한 [심현섭](../Page/심현섭.md "wikilink")을 공동 MC로 내세운 한편 [심현섭](../Page/심현섭.md "wikilink")의 예능 프로그램 진행 데뷔작으로 화제가 된\[2\] 《[이경규, 심현섭의 행복남녀](https://ko.wikipedia.org/wiki/이경규,_심현섭의_행복남녀 "wikilink")》가 [2000년](../Page/2000년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink") 방송분에서 농구선수 [정은순](../Page/정은순.md "wikilink") 배구선수 [김세진을](../Page/김세진_\(배구인\).md "wikilink") 게스트로 출연시켰지만 [정은순](../Page/정은순.md "wikilink")이 같은 날 대 미국전을 마친지 2시간도 채 안된 시점에 내보내\[3\] 시청자들로부터 따끔한 눈초리를 산 데다 일본 프로그램 표절 시비에 휘말려\[4\] 1년을 넘기지 못하자 같은해 [10월 13일부터](../Page/10월_13일.md "wikilink") [KBS 2TV로](../Page/KBS_2TV.md "wikilink") 이동하였다.
 
 ## 방송 시간
 
@@ -26,7 +26,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a></p></td>
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_5일.md" title="wikilink">5월 5일</a> ~ <a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/10월_6일.md" title="wikilink">10월 6일</a></p></td>
 <td><p>매주 <a href="../Page/금요일.md" title="wikilink">금요일</a> 밤 10시 ~ 11시</p></td>
 <td><p>60분</p></td>

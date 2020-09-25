@@ -56,7 +56,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/3회_진로배_세계바둑최강전.md" title="wikilink">3</a></p></td>
-<td><p><a href="../Page/3.md" title="wikilink">1994~1995년</a></p></td>
+<td><p><a href="../Page/3회_진로배_세계바둑최강전.md" title="wikilink">1994~1995년</a></p></td>
 <td><p>(유창혁 六단, 서봉수 九단, <a href="https://ko.wikipedia.org/wiki/양재호" title="wikilink">양재호</a> 九단, 이창호 七단, 조훈현 九단) (6승 4패)</p></td>
 <td><p>(미야자와 고로, 고마쓰 히데키, 다케미야 마사키, 가토마사오, 린하이펑) (4승 5패)</p></td>
 <td><p>(류징, 정훙, 차오다위안, 마샤오춘, 녜웨이핑) (4승 5패)</p></td>
@@ -64,7 +64,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/4회_진로배_세계바둑최강전.md" title="wikilink">4</a></p></td>
-<td><p><a href="../Page/4.md" title="wikilink">1995~1996년</a></p></td>
+<td><p><a href="../Page/4회_진로배_세계바둑최강전.md" title="wikilink">1995~1996년</a></p></td>
 <td><p>(<a href="https://ko.wikipedia.org/wiki/최규병" title="wikilink">최규병</a> 七단, 양재호 九단, 유창혁 七단, 이창호 七단, 조훈현 九단) (7승 4패)</p></td>
 <td><p>(뤄시허, 천린신, 차오다위안, 녜웨이핑, 마사오춘) (6승 5패)</p></td>
 <td><p>(모리타 미치히로, 미야자와 고로, 요다 노리모토, 다케미야 마사키, 야마히로 히로시) (1승 5패)</p></td>

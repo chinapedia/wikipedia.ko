@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [KBS 뉴스 12](https://ko.wikipedia.org/wiki/KBS_뉴스_12).
 
 
-《**KBS 뉴스 12**》()는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [한국방송공사의 낮 종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
+《**KBS 뉴스 12**》()는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시에 [KBS 1TV로](../Page/KBS_1TV.md "wikilink") 방송되는 [한국방송공사의 낮 종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
 
 ## 기획 의도 / 개요
 
-  - KBS의 대표적인 낮 종합뉴스 프로그램 **KBS 뉴스 12**\! **KBS 뉴스 12**는 전날 [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 이후 오늘 오전까지 발생한 뉴스를 종합하는 KBS의 대표적인 낮 종합뉴스 프로그램입니다. **KBS 뉴스 12**는 우리나라의 정치, 경제, 사회, 문화, 스포츠 분야는 물론 대한민국 최초로 KBS의 장애인 아나운서가 서브 앵커로서 진행하는 생활뉴스와 글로벌 뉴스, KBS 월드뉴스, 기자 눈, 이 시각 증시 등 다양한 코너를 포함해 1시간 동안 방송됩니다.
+  - KBS의 대표적인 낮 종합뉴스 프로그램 **KBS 뉴스 12**는 전날 [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") 이후 오늘 오전까지 발생한 뉴스를 종합하는 KBS의 대표적인 낮 종합뉴스 프로그램입니다. **KBS 뉴스 12**는 우리나라의 정치, 경제, 사회, 문화, 스포츠 등은 물론 대한민국 최초로 KBS의 장애인 아나운서가 서브 앵커로서 진행하는 생활뉴스, 글로벌 뉴스, KBS 월드뉴스, 기자 눈, 이 시각 증시 등 다양한 코너를 포함해 1시간 동안 방송됩니다.
   - 오전까지 발생한 [뉴스](../Page/뉴스.md "wikilink")를 종합하는 [한국방송공사의 낮 종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
-  - 1996년 3월 4일부터 오전방송 연장과 동시에 평일 오전 11시 40분에 **KBS 낮 뉴스**로 시작하여 1998년 6월 15일부터 **KBS 뉴스**로 축소되었다가 2001년 11월 5일부터 **KBS 정오뉴스**로 개편되었으며, 2005년 12월 1일부터 지상파 3사의 낮 방송 개시에 따라 [클릭 날씨@생활을](https://ko.wikipedia.org/wiki/클릭_날씨@생활 "wikilink") 흡수하고 현재의 **KBS 뉴스 12**로 확대 개편되었다.
+  - 1996년 3월 4일부터 오전방송 연장과 동시에 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 40분에 **KBS 낮 뉴스**로 시작하여 1998년 6월 15일부터 **KBS 뉴스**로 축소되었다가 2001년 11월 5일부터 **KBS 정오뉴스**로 개편되었으며, 2005년 12월 1일부터 지상파 3사의 낮 방송 개시에 따라 [클릭 날씨@생활을](https://ko.wikipedia.org/wiki/클릭_날씨@생활 "wikilink") 흡수하고 현재의 **KBS 뉴스 12**로 확대 개편되었다.
   - 프로그램에서는 청각 장애자에게도 정보를 전달할 수 있도록 수화방송도 하고 있으며, 2011년 11월 7일부터는 생활뉴스 코너가 신설되어 [KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")의 장애인 아나운서가 서브 앵커로서 생활뉴스 코너를 진행하고 있다.
   - **KBS 12시 뉴스**로 읽는다.
 
@@ -19,7 +19,7 @@
 
 | 방송 채널                                                                                                                                                          | 방송 기간                                                                                                                                                  | 방송 시간                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                    | [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 40분 \~ 낮 12시 (20분) |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink")                                                                                                                       | [1996년](../Page/1996년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 11시 40분 \~ 낮 12시 (20분) |
 | [1998년](../Page/1998년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink")       | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 10시 45분 \~ 11시 (15분)                                                                              |                                                                             |
 | [1999년](../Page/1999년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink")     |                                                                                                                                                        |                                                                             |
 | [1998년](../Page/1998년.md "wikilink") [6월 15일](../Page/6월_15일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink")       | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 오전 10시 50분 \~ 11시 (10분)                                                                              |                                                                             |
@@ -37,7 +37,7 @@
 | [2018년](../Page/2018년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink") \~ **현재**                                                                            |                                                                                                                                                        |                                                                             |
 | [2014년](../Page/2014년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ 2015년 [4월 3일](../Page/4월_3일.md "wikilink")                                        | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 55분 (55분)                                                                               |                                                                             |
 | [2017년](../Page/2017년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") \~ 2018년 [1월 23일](../Page/1월_23일.md "wikilink")                                      | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 30분 (30분)                                                                               |                                                                             |
-| 2018년 [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") \~ 2018년 [4월 6일](../Page/4월_6일.md "wikilink")                                                  |                                                                                                                                                        |                                                                             |
+| 2018년 [2월 26일](../Page/2월_26일.md "wikilink") \~ 2018년 [4월 6일](../Page/4월_6일.md "wikilink")                                                                     |                                                                                                                                                        |                                                                             |
 | 2018년 [1월 24일](../Page/1월_24일.md "wikilink") \~ 2018년 [2월 2일](../Page/2월_2일.md "wikilink")                                                                     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 10분 (10분)                                                                               |                                                                             |
 | 2018년 [2월 5일](../Page/2월_5일.md "wikilink") \~ 2018년 [2월 23일](../Page/2월_23일.md "wikilink")                                                                     | [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 낮 12시 \~ 12시 40분 (40분)                                                                               |                                                                             |
 
@@ -339,7 +339,7 @@
 
 ## 제공 시보
 
-  - [KBS 1TV 정오 시보](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
+  - [KBS 1TV 정오 시보](../Page/KBS_1TV.md "wikilink")
 
 ## 동 시간대 경쟁 프로그램
 
@@ -357,7 +357,7 @@
 
 1.  다만 앵커의 멘트로는 여전히 **KBS 12시 뉴스**로 표현된다.
 2.  2005년 12월 1일 기준으로 낮 12시 30분과 낮 12시 55분에 총 2번 나온다. 이 중 낮 12시 55분의 일기예보 코너의 경우 본래 명칭은 **[클릭 날씨@생활](https://ko.wikipedia.org/wiki/클릭_날씨@생활 "wikilink")**이었고, 과거 KBS 2TV와 KBS 1TV의 날씨정보 프로그램이었으나, 2005년 12월 1일부터 이 뉴스의 일기예보 코너로 편입되었고, 같은 해 12월 5일에 **[뉴스 12 날씨@생활](../Page/뉴스_12_날씨@생활.md "wikilink")**로 명칭이 변경되었다가 KBS의 2007년 봄 개편으로 인해 2007년 4월 30일부터 평범한 일기예보 코너로 전환되었다.
-3.  KBS의 노조파업으로 인하여, [1997년](../Page/1997년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [2월 26일](https://ko.wikipedia.org/wiki/2월_26일 "wikilink") 방송분은 [박영웅](https://ko.wikipedia.org/wiki/박영웅 "wikilink") 前 아나운서와 [황인우](https://ko.wikipedia.org/wiki/황인우 "wikilink") 前 아나운서가 대신 진행했다.
+3.  KBS의 노조파업으로 인하여, [1997년](../Page/1997년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [2월 26일](../Page/2월_26일.md "wikilink") 방송분은 [박영웅](https://ko.wikipedia.org/wiki/박영웅 "wikilink") 前 아나운서와 [황인우](https://ko.wikipedia.org/wiki/황인우 "wikilink") 前 아나운서가 대신 진행했다.
 4.  [박현선](../Page/박현선.md "wikilink") 前 아나운서는 KBS 정오뉴스 진행한 지 2년 만에 KBS 뉴스 12 재진행.
 5.  [김만석](https://ko.wikipedia.org/wiki/김만석 "wikilink") 기자의 여름 휴가로 인하여, [2011년](../Page/2011년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") 방송분은 당시 [KBS 아침뉴스타임의](../Page/KBS_아침뉴스타임.md "wikilink") 진행을 맡고 있던 [조성원](https://ko.wikipedia.org/wiki/조성원_\(언론인\) "wikilink") 기자가 대신 진행했다.
 6.  [김솔희](../Page/김솔희.md "wikilink") 아나운서(現. [KBS 뉴스 7](../Page/KBS_뉴스_7.md "wikilink") 앵커)의 여름 휴가 또는 출장으로 인하여, 2012년 [9월 3일](../Page/9월_3일.md "wikilink") 방송분은 [장수연](../Page/장수연.md "wikilink") 아나운서가 대신 진행했다.

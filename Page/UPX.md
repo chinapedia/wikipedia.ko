@@ -41,7 +41,7 @@ UPX는 압축 해제를 위해 두 개의 메커니즘을 지원한다.
   - mach/ppc32, mach/i386
   - rtm32/[pe](../Page/PE_포맷.md "wikilink")
   - tmt/adam
-  - [ps1](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")/exe
+  - [ps1](../Page/플레이스테이션.md "wikilink")/exe
   - [watcom](https://ko.wikipedia.org/wiki/watcom "wikilink")/le
   - [win32](https://ko.wikipedia.org/wiki/win32 "wikilink")/[pe](../Page/PE_포맷.md "wikilink") ([닷넷 프레임워크를](../Page/닷넷_프레임워크.md "wikilink") 사용하여 만든 파일은 제외)
 

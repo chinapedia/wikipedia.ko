@@ -35,6 +35,6 @@
 
 ## 외부 링크
 
-  - [한국로렌스학회](http://www.dhlsociety.or.kr/)
+  - [한국로렌스학회](http://www.dhlawrencesociety.or.kr/)
 
 [분류:1885년 태어남](https://ko.wikipedia.org/wiki/분류:1885년_태어남 "wikilink") [분류:1930년 죽음](https://ko.wikipedia.org/wiki/분류:1930년_죽음 "wikilink") [분류:영국의 소설가](https://ko.wikipedia.org/wiki/분류:영국의_소설가 "wikilink") [분류:노팅엄 대학교 동문](https://ko.wikipedia.org/wiki/분류:노팅엄_대학교_동문 "wikilink") [분류:이탈리아에 거주한 잉글랜드인](https://ko.wikipedia.org/wiki/분류:이탈리아에_거주한_잉글랜드인 "wikilink") [분류:미국에 거주한 잉글랜드인](https://ko.wikipedia.org/wiki/분류:미국에_거주한_잉글랜드인 "wikilink") [분류:멕시코에 거주한 영국인](https://ko.wikipedia.org/wiki/분류:멕시코에_거주한_영국인 "wikilink") [분류:20세기 시인](https://ko.wikipedia.org/wiki/분류:20세기_시인 "wikilink")

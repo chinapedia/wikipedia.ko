@@ -53,7 +53,7 @@
 <tr class="even">
 <td><p><a href="../Page/F.md" title="wikilink">F</a></p></td>
 <td><p><em>Foxtrot ,FOX</em></p></td>
-<td><p><strong>폭스</strong>트롯 <strong>FOKS</strong> TROT</p></td>
+<td><p><strong>팍스</strong>트롯 <strong>FOKS</strong> TROT</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -144,7 +144,7 @@ SEE <strong>AIR</strong> AH <sub>(FAA)</sub></p></td>
 <td><p>(<em>sic</em>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/U" title="wikilink">U</a></p></td>
+<td><p><a href="../Page/U.md" title="wikilink">U</a></p></td>
 <td><p><em>Uniform</em></p></td>
 <td><p><strong>유</strong>니폼 <strong>YOU</strong> NEE FORM  or<br />
 <strong>우</strong>니폼 <strong>OO</strong> NEE FORM</p></td>
@@ -152,9 +152,9 @@ SEE <strong>AIR</strong> AH <sub>(FAA)</sub></p></td>
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/V" title="wikilink">V</a></p></td>
+<td><p><a href="../Page/V.md" title="wikilink">V</a></p></td>
 <td><p><em>Victor,VICTORY</em></p></td>
-<td><p><strong>빅</strong>타 <strong>VIK</strong> TAH</p></td>
+<td><p><strong>빅</strong>터 <strong>VIK</strong> TAH</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -164,7 +164,7 @@ SEE <strong>AIR</strong> AH <sub>(FAA)</sub></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/X" title="wikilink">X</a></p></td>
+<td><p><a href="../Page/X.md" title="wikilink">X</a></p></td>
 <td><p><em>X-ray</em> or<br />
 <em>Xray</em></p></td>
 <td><p><strong>엑스레이</strong> <strong>ECKS RAY</strong> <sub>(ICAO, ITU)</sub><br />
@@ -174,7 +174,7 @@ SEE <strong>AIR</strong> AH <sub>(FAA)</sub></p></td>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/Y" title="wikilink">Y</a></p></td>
 <td><p><em>Yankee</em></p></td>
-<td><p><strong>양</strong>키 <strong>YANG</strong> KEY</p></td>
+<td><p><strong>얭</strong>키 <strong>YANG</strong> KEY</p></td>
 <td><p>(<em>sic</em>)</p></td>
 </tr>
 <tr class="even">

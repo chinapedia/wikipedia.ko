@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:GSCaltex_Itaewon.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:jytim1311209.jpg "wikilink") 입구의 GS칼텍스\]\]
 
-**GS칼텍스주식회사**(GS Caltex Corporation, 지에스칼텍스)는 과거 [럭키금성그룹과](../Page/LG그룹.md "wikilink") [미국](../Page/미국.md "wikilink") [셰브런](../Page/셰브런.md "wikilink")의 자회사인 [칼텍스](https://ko.wikipedia.org/wiki/칼텍스 "wikilink")가 1967년 5월 합작 설립한 호남정유가 전신이다.\[1\] 그 후 LG칼텍스정유를 거쳐 현재는 [GS에너지](../Page/GS에너지.md "wikilink")와 [셰브런](../Page/셰브런.md "wikilink")이 각각 50%의 지분을 소유하고 있다. 대한민국내 2,710여개의 주유소와 420여개의 LPG 충전소를 보유하고 있다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [논현로](https://ko.wikipedia.org/wiki/논현로 "wikilink") 508 ([역삼동](../Page/역삼동_\(서울\).md "wikilink"))에 있다.
+**GS칼텍스주식회사**(GS Caltex Corporation, 지에스칼텍스)는 과거 [LG그룹](../Page/LG그룹.md "wikilink")과 [미국](../Page/미국.md "wikilink") [셰브런](../Page/셰브런.md "wikilink")의 자회사인 [칼텍스](https://ko.wikipedia.org/wiki/칼텍스 "wikilink")가 1967년 5월 합작 설립한 호남정유가 전신이다.\[1\] 그 후 LG정유를 거쳐 현재는 [GS에너지](../Page/GS에너지.md "wikilink")와 [셰브런](../Page/셰브런.md "wikilink")이 각각 50%의 지분을 소유하고 있다. 대한민국내 2,710여개의 주유소와 420여개의 LPG 충전소를 보유하고 있다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [강남구](https://ko.wikipedia.org/wiki/강남구 "wikilink") [논현로](https://ko.wikipedia.org/wiki/논현로 "wikilink") 508 ([역삼동](../Page/역삼동_\(서울\).md "wikilink"))에 있다.
 
 ## 연혁
 

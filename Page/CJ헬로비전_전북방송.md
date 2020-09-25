@@ -5,6 +5,8 @@
 
 씨제이헬로에 피흡수합병되었고, 2015년 5월 1일 폐업하였다.
 
+2021년 9월 20일부터 [LG헬로비전](../Page/LG헬로비전.md "wikilink")으로 통합될 예정이다.
+
 ## 연혁
 
   - [1997년](../Page/1997년.md "wikilink") 10월 (주)한국케이블TV 전북방송 법인설립
@@ -33,5 +35,6 @@
   - [2007년](../Page/2007년.md "wikilink") 12월 기간통신사업 허가
   - [2013년](../Page/2013년.md "wikilink") 11월 [CJ그룹](../Page/CJ그룹.md "wikilink")에 인수, **CJ헬로비전 전북방송**으로 사명 변경
   - [2015년](../Page/2015년.md "wikilink") 4월 [CJ그룹](../Page/CJ그룹.md "wikilink")과 합병
+  - [2021년](../Page/2021년.md "wikilink") 9월 [LG그룹](../Page/LG그룹.md "wikilink") 계열사 진입. [LG헬로비전](../Page/LG헬로비전.md "wikilink")으로 통합 변경.
 
 [분류:대한민국의 종합유선방송사업자](https://ko.wikipedia.org/wiki/분류:대한민국의_종합유선방송사업자 "wikilink") [분류:1997년 설립](https://ko.wikipedia.org/wiki/분류:1997년_설립 "wikilink") [분류:2015년 폐지](https://ko.wikipedia.org/wiki/분류:2015년_폐지 "wikilink") [분류:LG헬로비전](https://ko.wikipedia.org/wiki/분류:LG헬로비전 "wikilink") [분류:전라북도의 대중 매체](../Page/분류:전라북도의_대중_매체.md "wikilink")

@@ -20,13 +20,11 @@ AFC컵의 형식은 [AFC 챔피언스리그와](../Page/AFC_챔피언스리그.m
 <table>
 <colgroup>
 <col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 80%" />
+<col style="width: 90%" />
 </colgroup>
 <thead>
 <tr class="header">
 <th><p>연도</p></th>
-<th></th>
 <th><p>결승전</p></th>
 </tr>
 </thead>
@@ -34,127 +32,107 @@ AFC컵의 형식은 [AFC 챔피언스리그와](../Page/AFC_챔피언스리그.m
 <tr class="odd">
 <td><p>우승</p></td>
 <td><p>결과</p></td>
-<td><p>준우승</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2004년.md" title="wikilink">2004년</a><br />
 <small><em><a href="../Page/2004년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/알자이시_(다마스쿠스)" title="wikilink">알자이시</a></strong><br />
 </p></td>
-<td><p><small>1차전: <strong>2-3</strong><br />
-2차전: <strong>1-0</strong><br />
-(<a href="../Page/원정_다득점.md" title="wikilink">원정 다득점</a>)</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2005년.md" title="wikilink">2005년</a><br />
 <small><em><a href="../Page/2005년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/알파이살리_(암만)" title="wikilink">알파이살리</a></strong><br />
 </p></td>
-<td><p><small>1차전: <strong>1-0</strong><br />
-2차전: <strong>3-2</strong></small></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2006년.md" title="wikilink">2006년</a><br />
 <small><em><a href="../Page/2006년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/알파이살리_(암만)" title="wikilink">알파이살리</a></strong><br />
 </p></td>
-<td><p><small>1차전: <strong>3-0</strong><br />
-2차전: <strong>2-4</strong></small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2007년.md" title="wikilink">2007년</a><br />
 <small><em><a href="../Page/2007년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/샤바브_알오르돈" title="wikilink">샤바브 알오르돈</a></strong><br />
 </p></td>
-<td><p><small>1차전: <strong>1-0</strong><br />
-2차전: <strong>1-1</strong></small></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2008년.md" title="wikilink">2008년</a><br />
 <small><em><a href="../Page/2008년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/무하라크_클럽" title="wikilink">무하라크 클럽</a></strong><br />
 </p></td>
-<td><p><small>1차전: <strong>5-1</strong><br />
-2차전: <strong>5-4</strong></small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2009년.md" title="wikilink">2009년</a><br />
 <small><em><a href="../Page/2009년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/쿠웨이트_SC.md" title="wikilink">쿠웨이트 SC</a></strong>#<br />
 </p></td>
-<td><p><strong>2-1</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2010년.md" title="wikilink">2010년</a><br />
 <small><em><a href="../Page/2010년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/알이티하드_(알레포).md" title="wikilink">알이티하드</a></strong><br />
 </p></td>
-<td><p><strong>1-1</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)<br />
-(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4-2)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2011년.md" title="wikilink">2011년</a><br />
 <small><em><a href="../Page/2011년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/나사프_카르시.md" title="wikilink">나사프 카르시</a></strong>#<br />
 </p></td>
-<td><p><strong>2-1</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2012년.md" title="wikilink">2012년</a><br />
 <small><em><a href="https://ko.wikipedia.org/wiki/2012년_AFC컵" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/쿠웨이트_SC.md" title="wikilink">쿠웨이트 SC</a></strong><br />
 </p></td>
-<td><p><strong>4-0</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a><br />
 <small><em><a href="https://ko.wikipedia.org/wiki/2013년_AFC컵" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/쿠웨이트_SC.md" title="wikilink">쿠웨이트 SC</a></strong><br />
 </p></td>
-<td><p><strong>2-0</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2014년.md" title="wikilink">2014년</a><br />
 <small><em><a href="https://ko.wikipedia.org/wiki/2014년_AFC컵" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/카디시야_SC.md" title="wikilink">알카디시야</a></strong><br />
 </p></td>
-<td><p><strong>0-0</strong> (<a href="../Page/연장전.md" title="wikilink">연장</a>)<br />
-(<a href="../Page/승부차기.md" title="wikilink">승부차기</a> 4-2)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015년.md" title="wikilink">2015년</a><br />
 <small><em><a href="https://ko.wikipedia.org/wiki/2015년_AFC컵" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/조호르_다룰_탁짐_FC.md" title="wikilink">조호르 다룰 탁짐</a></strong><br />
 </p></td>
-<td><p><strong>1-0</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a><br />
 <small><em><a href="https://ko.wikipedia.org/wiki/2016년_AFC컵" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/알쿠와_알자위야.md" title="wikilink">알쿠와 알자위야</a></strong>#<br />
 </p></td>
-<td><p><strong>1-0</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2017년.md" title="wikilink">2017년</a><br />
 <small><em><a href="../Page/2017년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/알쿠와_알자위야.md" title="wikilink">알쿠와 알자위야</a></strong><br />
 </p></td>
-<td><p><strong>1-0</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a><br />
 <small><em><a href="../Page/2018년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="../Page/알쿠와_알자위야.md" title="wikilink">알쿠와 알자위야</a></strong>#<br />
 </p></td>
-<td><p><strong>2-0</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a><br />
 <small><em><a href="../Page/2019년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
 <td><p><strong><a href="https://ko.wikipedia.org/wiki/알아헤드" title="wikilink">알아헤드</a></strong><br />
 </p></td>
-<td><p><strong>1-0</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a><br />
+<small><em><a href="../Page/2020년_AFC컵.md" title="wikilink">상세정보</a></em></small></p></td>
+<td><p><a href="../Page/코로나19_범유행.md" title="wikilink">코로나19 범유행의</a> 여파로 인하여 취소됨</p></td>
 </tr>
 </tbody>
 </table>

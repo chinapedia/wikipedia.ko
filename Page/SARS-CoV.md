@@ -5,7 +5,7 @@
 
 [중증급성호흡기증후군 유행이](https://ko.wikipedia.org/wiki/중증급성호흡기증후군_유행 "wikilink") [아시아](../Page/아시아.md "wikilink")에서 세계로 확산된 이후, 2003년 4월 16일 [세계보건기구](../Page/세계보건기구.md "wikilink")(WHO)는 수많은 연구소에서 분리된 이 [코로나바이러스](../Page/코로나바이러스.md "wikilink")가 SARS의 원인이라는 내용이 실린 유인물을 발간했다. 같은 4월에 [미국 질병통제예방센터](../Page/미국_질병통제예방센터.md "wikilink")(CDC)와 캐나다의 [국립미생물연구소](https://ko.wikipedia.org/wiki/국립미생물연구소 "wikilink")(NML)은 해당 바이러스의 [유전체](https://ko.wikipedia.org/wiki/유전체 "wikilink") 염기서열 분석을 완료했다.\[7\]\[8\] [에라스무스 대학교의](../Page/에라스무스_대학교.md "wikilink") 과학자들은 [마카크](../Page/마카크.md "wikilink")가 이 바이러스에 감염되었을 때 인간과 동일한 증상을 나타냄을 관찰함으로써 SARS-CoV가 [코흐의 가설을](https://ko.wikipedia.org/wiki/코흐의_가설 "wikilink") 충족시킴을 보였고, 이로 인해 이 바이러스가 SARS의 원인임이 입증되었다.\[9\]
 
-[코로나19 범유행은](../Page/코로나19_범유행.md "wikilink") SARS 유행과 상당히 유사한 모습을 보여주며, 분리된 바이러스 역시 [SARS 연관 코로나바이러스로](https://ko.wikipedia.org/wiki/SARS_연관_코로나바이러스 "wikilink") 분류되어 [SARS-CoV-2](https://ko.wikipedia.org/wiki/SARS-CoV-2 "wikilink")라 명명되었다.
+[코로나19 범유행은](../Page/코로나19_범유행.md "wikilink") [SARS](https://ko.wikipedia.org/wiki/SARS "wikilink") 유행과 상당히 유사한 모습을 보여주며, 분리된 바이러스 역시 [SARS 연관 코로나바이러스로](https://ko.wikipedia.org/wiki/SARS_연관_코로나바이러스 "wikilink") 분류되어 [SARS-CoV-2](https://ko.wikipedia.org/wiki/SARS-CoV-2 "wikilink")라 명명되었다.
 
 ## SARS
 

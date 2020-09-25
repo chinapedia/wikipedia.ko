@@ -5,9 +5,9 @@
 
 `- PID 시뮬레이션)https://webcache.googleusercontent.com/search?q=cache:bBm7iZ-ex7kJ:`<https://www.cs.cmu.edu/afs/cs/academic/class/15883-f15/lectures/cerebellum-controller/pid.xls+&cd=1&hl=en&ct=clnk&gl=kr></ref>`]]`
 
-**비례-적분-미분 제어기(Proportional-Integral-Differential controller) 또는 PID 제어(PID control)**는 실제 응용분야에서 가장 많이 사용되는 대표적인 형태의 제어기법이다. PID 제어기는 기본적으로 [피드백](../Page/피드백.md "wikilink")(feedback)제어기의 형태를 가지고 있으며, 제어하고자 하는 대상의 출력값(output)을 측정하여 이를 원하고자 하는 참조값(reference value) 혹은 설정값(setpoint)과 비교하여 오차(error)를 계산하고, 이 오차값을 이용하여 제어에 필요한 제어값을 계산하는 구조로 되어 있습니다.
+**비례-적분-미분 제어기(Proportional-Integral-Differential controller) 또는 PID 제어(PID control)**는 실제 응용분야에서 가장 많이 사용되는 대표적인 형태의 제어기법이다. PID 제어기는 기본적으로 [피드백](../Page/피드백.md "wikilink")(feedback)제어기의 형태를 가지고 있으며, 제어하고자 하는 대상의 출력값(output)을 측정하여 이를 원하고자 하는 참조값(reference value) 혹은 설정값(Set Point)과 비교하여 오차(error)를 계산하고, 이 오차값을 이용하여 제어에 필요한 제어값을 계산하는 구조로 되어 있습니다.
 
-표준적인 형태의 PID 제어기는 아래의 식과 같이 세개의 항을 더하여 제어값(MV:manipulated variable)을 계산하도록 구성이 되어 있다.
+표준적인 형태의 PID 제어기는 아래의 식과 같이 세개의 항을 더하여 제어값(MV : Manipulated Variable)을 계산하도록 구성이 되어 있다.
 
 \(\mathrm{MV(t)}=K_p{e(t)} + K_i\int_{0}^{t}{e(t)}\,{dt} + K_d\frac{de}{dt}\)
 

@@ -41,4 +41,4 @@
 
   - [공식 사이트](http://www.mmt-tv.co.jp/)
 
-[분류:닛폰 뉴스 네트워크](https://ko.wikipedia.org/wiki/분류:닛폰_뉴스_네트워크 "wikilink") [분류:일본의 텔레비전 방송사](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_방송사 "wikilink") [분류:1970년 설립](https://ko.wikipedia.org/wiki/분류:1970년_설립 "wikilink") [분류:1970년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1970년_설립된_텔레비전_방송국과_채널 "wikilink")
+[분류:닛폰 뉴스 네트워크](https://ko.wikipedia.org/wiki/분류:닛폰_뉴스_네트워크 "wikilink") [분류:일본의 텔레비전 방송사](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_방송사 "wikilink") [분류:센다이시의 기업](https://ko.wikipedia.org/wiki/분류:센다이시의_기업 "wikilink") [분류:1970년 설립](https://ko.wikipedia.org/wiki/분류:1970년_설립 "wikilink") [분류:1970년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1970년_설립된_텔레비전_방송국과_채널 "wikilink")

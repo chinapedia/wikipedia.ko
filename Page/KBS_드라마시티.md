@@ -2876,7 +2876,7 @@
 <td><p>1월 20일</p></td>
 <td><p>사랑이 우리를 움직이는 방식</p></td>
 <td><p><a href="../Page/허영란.md" title="wikilink">허영란</a>, <a href="../Page/김영재_(배우).md" title="wikilink">김영재</a>, <a href="../Page/이준혁_(1984년).md" title="wikilink">이준혁</a>, 홍배연,<br />
-채우, <a href="../Page/장태훈.md" title="wikilink">장태훈</a>, <a href="../Page/김광인.md" title="wikilink">김광인</a>, <a href="../Page/기연호.md" title="wikilink">기연호</a></p></td>
+채우, <a href="../Page/장태훈_(1982년).md" title="wikilink">장태훈</a>, <a href="../Page/김광인.md" title="wikilink">김광인</a>, <a href="../Page/기연호.md" title="wikilink">기연호</a></p></td>
 <td><p>김예리</p></td>
 <td><p>이소연</p></td>
 </tr>

@@ -3,7 +3,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:드래곤볼z.jpg "wikilink")
 
-**드래곤볼 Z**()는 [토리야마 아키라의](https://ko.wikipedia.org/wiki/토리야마_아키라 "wikilink") 만화인 [드래곤볼](../Page/드래곤볼.md "wikilink")을 원작으로 한 TV판 애니메이션이다. 첫 시리즈인 [드래곤볼의](../Page/드래곤볼_\(애니메이션\).md "wikilink") 속편이다. [대한민국](../Page/대한민국.md "wikilink")에서는 대원씨아이를 통해 비디오로 출시된 적이 있고, [SBS](../Page/SBS.md "wikilink")와 [투니버스](../Page/투니버스.md "wikilink"), [애니원](../Page/애니원.md "wikilink")에 방영된 적이 있으나 최근에는 [챔프를](../Page/챔프TV.md "wikilink") 통해 방영되고 있다.
+**드래곤볼 Z**()는 [토리야마 아키라의](https://ko.wikipedia.org/wiki/토리야마_아키라 "wikilink") 만화인 [드래곤볼](../Page/드래곤볼.md "wikilink")을 원작으로 한 TV판 애니메이션이다. 첫 시리즈인 [드래곤볼의](../Page/드래곤볼_\(애니메이션\).md "wikilink") 속편이다. [대한민국](../Page/대한민국.md "wikilink")에서는 대원씨아이를 통해 비디오로 출시된 적이 있고, [투니버스](../Page/투니버스.md "wikilink"), [애니원](../Page/애니원.md "wikilink")에 방영된 적이 있으나 최근에는 [챔프를](../Page/챔프TV.md "wikilink") 통해 방영되고 있다.
 
 ## 줄거리
 
@@ -320,31 +320,6 @@
 
 外
 
-\- SBS 버전(조기 종영) -
-
-  - 손오공 - [강수진](../Page/강수진_\(남자_성우\).md "wikilink")
-  - 손오반 - [정미숙](../Page/정미숙.md "wikilink")
-  - 거북도사 / 리쿰 / 그레고리 - [이인성](../Page/이인성_\(성우\).md "wikilink")
-  - 크리링 - [이연희](../Page/이연희_\(성우\).md "wikilink")
-  - 부르마 - [윤성혜](../Page/윤성혜_\(성우\).md "wikilink")
-  - 피콜로 - [박지훈](../Page/박조호.md "wikilink")
-  - 치치 / 교자 / 덴데 - [양정화](../Page/양정화_\(성우\).md "wikilink")
-  - 베지터 - [김환진](../Page/김환진.md "wikilink")
-  - 라데츠 / 바터 - [김관철](../Page/김관철.md "wikilink")
-  - 야무치 - [김승준](../Page/김승준_\(성우\).md "wikilink")
-  - 런치 / 헤라꼴리 - [이소영](../Page/이소영_\(성우\).md "wikilink")
-  - 천진반 - [이재용](../Page/이재용_\(성우\).md "wikilink")
-  - 오룡 - [이선호](../Page/이선호_\(성우\).md "wikilink")
-  - 신 - [윤기황](../Page/윤기황.md "wikilink")
-  - 안내인 - [유동균](../Page/유동균_\(성우\).md "wikilink")
-  - 계왕 - [노민](../Page/노민.md "wikilink")
-  - 지스 - [최원형](../Page/최원형.md "wikilink")
-  - 기뉴 - [강구한](../Page/강구한.md "wikilink")
-  - 프리져 - [이재명](../Page/이재명_\(성우\).md "wikilink")
-  - 해설 - [이장원](../Page/이장원_\(성우\).md "wikilink")
-
-外
-
 \- 투니버스 버전 (3기, 마인 부우편) -
 
   - 손오공 - [김환진](../Page/김환진.md "wikilink")
@@ -371,7 +346,7 @@
   - 사령관 - [이호산](../Page/이호산.md "wikilink")
   - 거북도사 / 해설 - [김정호](../Page/김정호_\(성우\).md "wikilink")
 
-## [극장판](https://ko.wikipedia.org/wiki/극장판 "wikilink")
+## 극장판
 
 1.  [드래곤볼 Z: 갈릭Jr의 야망](https://ko.wikipedia.org/wiki/드래곤볼_Z:_갈릭Jr의_야망 "wikilink")
 2.  [드래곤볼 Z: 전 지구 초결전](https://ko.wikipedia.org/wiki/드래곤볼_Z:_전_지구_초결전 "wikilink")
@@ -442,8 +417,8 @@
 23. 드래곤볼 Z 오공의 유산2 인터내셔널 ([GBA](../Page/게임보이_어드밴스.md "wikilink"))
 24. 드래곤볼 Z 부우의 분노 ([GBA](../Page/게임보이_어드밴스.md "wikilink"))
 25. 드래곤볼 Z 진무투전 ([SS](../Page/세가_새턴.md "wikilink"))
-26. 드래곤볼 Z 위대한 드래곤볼 전설 ([SS](../Page/세가_새턴.md "wikilink")),([PS](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"))
-27. 드래곤볼 Z 얼티메이트 배틀 22 ([PS](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"))
+26. 드래곤볼 Z 위대한 드래곤볼 전설 ([SS](../Page/세가_새턴.md "wikilink")),([PS](../Page/플레이스테이션.md "wikilink"))
+27. 드래곤볼 Z 얼티메이트 배틀 22 ([PS](../Page/플레이스테이션.md "wikilink"))
 28. 드래곤볼 Z ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink")),([GC](https://ko.wikipedia.org/wiki/게임큐브 "wikilink"))
 29. 드래곤볼 Z2 ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink"))
 30. 드래곤볼 Z3 ([PS2](https://ko.wikipedia.org/wiki/PS2 "wikilink"))

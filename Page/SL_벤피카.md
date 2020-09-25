@@ -121,7 +121,7 @@
 
 [2009년](../Page/2009년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink"), 벤피카는 2009-10 시즌의 1번째 프리시즌 경기에서 [오스카르 카르도소와](../Page/오스카르_카르도소.md "wikilink") [하비에르 사비올라의](https://ko.wikipedia.org/wiki/하비에르_사비올라 "wikilink") 골로 [FC 시옹과](../Page/FC_시옹.md "wikilink") 2-2 무승부를 거두었다. [7월 13일](../Page/7월_13일.md "wikilink"), 2번째 친선경기에서 카르도소와 [카를루스 마르틴스의](https://ko.wikipedia.org/wiki/카를루스_마르틴스 "wikilink") 골로 [UEFA 컵](https://ko.wikipedia.org/wiki/UEFA_컵 "wikilink") 우승 팀인 [FC 샤흐타르 도네츠크를](../Page/FC_샤흐타르_도네츠크.md "wikilink") 2-0으로 제압하였다. [7월 16일](../Page/7월_16일.md "wikilink"), 3번째 친선경기에서 벤피카는 사비올라의 후반전 2골로 [아틀레틱 빌바오를](../Page/아틀레틱_빌바오.md "wikilink") 2-1로 꺾었다.
 
-[7월 18일](../Page/7월_18일.md "wikilink"), 4번째 친선경기에서, 74분 카르도소의 골과 [미겔 비토르의](../Page/미겔_비토르.md "wikilink") 추가시간 골로 [SC 올랴넨스를](https://ko.wikipedia.org/wiki/SC_올랴넨스 "wikilink") 2-1로 꺾었다. [7월 21일](../Page/7월_21일.md "wikilink"), 5번째 친선경기에서 카르도소가 골을 기록하였지만 [아틀레티코 마드리드에](https://ko.wikipedia.org/wiki/아틀레티코_마드리드 "wikilink") 1-2로 패하였다. 경기는 [이스타디우 다 루스에서](../Page/이스타디우_다_루스.md "wikilink") 58,000명의 팬 앞에서 열렸는데, 클럽의 레전드인 [시망 사브로자가](../Page/시망_사브로자.md "wikilink") 아틀레티코 소속으로 친정 벤피카를 상대한 경기였다. [7월 24일](../Page/7월_24일.md "wikilink"), 그들의 6번째 친선경기에서, 카르도소와 [막시 페레이라의](../Page/막시밀리아노_페레이라.md "wikilink") 골로 [선덜랜드 FC에](https://ko.wikipedia.org/wiki/선덜랜드_FC "wikilink") 2-0으로 승리하였다. [7월 26일](../Page/7월_26일.md "wikilink"), 7번째 친선경기에서 [AFC 아약스를](../Page/AFC_아약스.md "wikilink") [앙헬 디 마리아와](../Page/앙헬_디_마리아.md "wikilink") [다비드 루이스의](../Page/다비드_루이스.md "wikilink") 골과 함께 [이스마일 아이사티의](../Page/이스마일_아이사티.md "wikilink") 자책골을 묶어 3-2 승리를 거두었다.
+[7월 18일](../Page/7월_18일.md "wikilink"), 4번째 친선경기에서, 74분 카르도소의 골과 [미겔 비토르의](../Page/미겔_비토르.md "wikilink") 추가시간 골로 [SC 올랴넨스를](../Page/SC_올랴넨스.md "wikilink") 2-1로 꺾었다. [7월 21일](../Page/7월_21일.md "wikilink"), 5번째 친선경기에서 카르도소가 골을 기록하였지만 [아틀레티코 마드리드에](https://ko.wikipedia.org/wiki/아틀레티코_마드리드 "wikilink") 1-2로 패하였다. 경기는 [이스타디우 다 루스에서](../Page/이스타디우_다_루스.md "wikilink") 58,000명의 팬 앞에서 열렸는데, 클럽의 레전드인 [시망 사브로자가](../Page/시망_사브로자.md "wikilink") 아틀레티코 소속으로 친정 벤피카를 상대한 경기였다. [7월 24일](../Page/7월_24일.md "wikilink"), 그들의 6번째 친선경기에서, 카르도소와 [막시 페레이라의](../Page/막시밀리아노_페레이라.md "wikilink") 골로 [선덜랜드 FC에](https://ko.wikipedia.org/wiki/선덜랜드_FC "wikilink") 2-0으로 승리하였다. [7월 26일](../Page/7월_26일.md "wikilink"), 7번째 친선경기에서 [AFC 아약스를](../Page/AFC_아약스.md "wikilink") [앙헬 디 마리아와](../Page/앙헬_디_마리아.md "wikilink") [다비드 루이스의](../Page/다비드_루이스.md "wikilink") 골과 함께 [이스마일 아이사티의](../Page/이스마일_아이사티.md "wikilink") 자책골을 묶어 3-2 승리를 거두었다.
 
 [2009년](../Page/2009년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink"), 8번째 친선경기에서, 카르도소의 전반 2골 웨우동의 후반전 골과 윌킨슨의 자책골로 4-0 승리를 거두었다. 다음 날 9번째 친선경기는 기마랑이스 트로피로 [비토리아 SC](../Page/비토리아_SC.md "wikilink") 웨우동과 [후벤 아모링의](https://ko.wikipedia.org/wiki/후벤_아모링 "wikilink") 골로 승리를 거두었다. 8월 8일 마지막 친선 경기에서 [AC 밀란과의](../Page/AC_밀란.md "wikilink") 에우제비우 컵을 승부차기 끝에 획득하였다. 풀타임이 끝난 직후, 카르도소의 후반골로 1-1을 유지하였다. 승부차기에서 큄 골키퍼는 4차례 승부차기에서 선방하였고, 리스본의 클럽은 처음으로 에우제비우 컵 우승을 거두었다.
 
@@ -931,9 +931,9 @@
 
 ### 과거 유명 선수
 
-  - \[\[라피크 할리시
+  - [라피크 할리시](../Page/라피크_할리시.md "wikilink")
 
-  - \[\[에우제비우 다 실바 페헤이
+  - [에우제비우](../Page/에우제비우.md "wikilink")
 
 ## 감독
 

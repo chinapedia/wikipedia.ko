@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [토트넘 홋스퍼 FC](https://ko.wikipedia.org/wiki/토트넘_홋스퍼_FC).
 
 
-**토트넘 홋스퍼 FC**()는 [잉글랜드](../Page/잉글랜드.md "wikilink") [북런던](../Page/런던.md "wikilink") [토트넘](https://ko.wikipedia.org/wiki/토트넘 "wikilink")을 연고지로 하는 프로 [축구](../Page/축구.md "wikilink") 구단이다. 현재 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 속해있으며, 간단히 줄여서 [토트넘](https://ko.wikipedia.org/wiki/토트넘 "wikilink")이라고 부르기도 한다. 현재 홈 경기장은 [토트넘 홋스퍼 스타디움으로](../Page/토트넘_홋스퍼_스타디움.md "wikilink"), 이전의 홈 경기장인 [화이트 하트 레인을](../Page/화이트_하트_레인.md "wikilink") 철거한 자리에 62,062석 규모로 건립되었으며 2019년 4월 개장하였다. 1882년에 창단한 토트넘은 1901년 [FA컵](../Page/FA컵.md "wikilink")에서 첫 트로피를 들어 올렸는데, 이는 [잉글리시 풋볼 리그](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 창립 이후 유일하게 논리그구단이 우승한 기록으로 남았다. 1950-51시즌과 1960-61시즌에 [풋볼 리그 1부에서](../Page/풋볼_리그_1부.md "wikilink") 우승하였고, 1961년 [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") [리그에서](../Page/풋볼_리그_1부.md "wikilink") 동시에 우승하면서 [더블을](../Page/더블_\(축구\).md "wikilink") 기록하였다. 이듬해에도 [FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 우승했으며, 1963년 [영국](../Page/영국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 구단 중 첫 번째로 [UEFA 컵위너스컵을](../Page/UEFA_컵위너스컵.md "wikilink") 들어 올렸다. 1970년대에 [리그컵에서](../Page/EFL컵.md "wikilink") 두번 우승하였으며, 1972년 [UEFA컵을](../Page/UEFA_유로파리그.md "wikilink") 초대 우승하였다. 1980년대에 [FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 두 번, [FA 커뮤니티 실드와](../Page/FA_커뮤니티_실드.md "wikilink") [UEFA컵에서](../Page/UEFA_유로파리그.md "wikilink") 각각 한 번씩 우승하였다. 이후 1990년대에 [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") [리그컵에서](../Page/EFL컵.md "wikilink") 우승하고, 2008년 [리그컵에서](../Page/EFL컵.md "wikilink") 한 번 더 우승함으로써 1950년대부터 2000년대까지의 모든 [연대에서](https://ko.wikipedia.org/wiki/연대_\(연도\) "wikilink") 메이저 대회 트로피를 들어 올리는 기록을 세웠다.
+**토트넘 홋스퍼 FC**()는 [잉글랜드](../Page/잉글랜드.md "wikilink") [북런던](../Page/런던.md "wikilink") [토트넘](https://ko.wikipedia.org/wiki/토트넘 "wikilink")을 연고지로 하는 프로 [축구](../Page/축구.md "wikilink") 구단이다. 현재 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에 속해있으며, 간단히 줄여서 스퍼스라고 부르기도 한다. 현재 홈 경기장은 [토트넘 홋스퍼 스타디움으로](../Page/토트넘_홋스퍼_스타디움.md "wikilink"), 이전의 홈 경기장인 [화이트 하트 레인을](../Page/화이트_하트_레인.md "wikilink") 철거한 자리에 62,062석 규모로 건립되었으며 2019년 4월 개장하였다. 1882년에 창단한 토트넘은 1901년 [FA컵](../Page/FA컵.md "wikilink")에서 첫 트로피를 들어 올렸는데, 이는 [잉글리시 풋볼 리그](https://ko.wikipedia.org/wiki/풋볼_리그 "wikilink") 창립 이후 유일하게 논리그구단이 우승한 기록으로 남았다. 1950-51시즌과 1960-61시즌에 [풋볼 리그 1부에서](../Page/풋볼_리그_1부.md "wikilink") 우승하였고, 1961년 [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") [리그에서](../Page/풋볼_리그_1부.md "wikilink") 동시에 우승하면서 [더블을](../Page/더블_\(축구\).md "wikilink") 기록하였다. 이듬해에도 [FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 우승했으며, 1963년 [영국](../Page/영국.md "wikilink")의 [축구](../Page/축구.md "wikilink") 구단 중 첫 번째로 [UEFA 컵위너스컵을](../Page/UEFA_컵위너스컵.md "wikilink") 들어 올렸다. 1970년대에 [리그컵에서](../Page/EFL컵.md "wikilink") 두번 우승하였으며, 1972년 [UEFA컵을](../Page/UEFA_유로파리그.md "wikilink") 초대 우승하였다. 1980년대에 [FA컵에서](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") 두 번, [FA 커뮤니티 실드와](../Page/FA_커뮤니티_실드.md "wikilink") [UEFA컵에서](../Page/UEFA_유로파리그.md "wikilink") 각각 한 번씩 우승하였다. 이후 1990년대에 [FA컵과](https://ko.wikipedia.org/wiki/FA컵_\(잉글랜드\) "wikilink") [리그컵에서](../Page/EFL컵.md "wikilink") 우승하고, 2008년 [리그컵에서](../Page/EFL컵.md "wikilink") 한 번 더 우승함으로써 1950년대부터 2000년대까지의 모든 [연대에서](https://ko.wikipedia.org/wiki/연대_\(연도\) "wikilink") 메이저 대회 트로피를 들어 올리는 기록을 세웠다.
 
 구단의 [상징](https://ko.wikipedia.org/wiki/상징 "wikilink")은 [축구공](../Page/축구공.md "wikilink") 위에 서있는 수평아리(싸움닭)이고, [모토는](../Page/좌우명.md "wikilink") [라틴어](../Page/라틴어.md "wikilink")인"*Audere est Facere*"로 실천이 곧 도전이다라는 의미를 가지고 있다. 같은 [런던](../Page/런던.md "wikilink") 연고의 팀들과 오랜 기간 라이벌 관계를 맺고 있는데, 가장 잘 알려진 라이벌으로는 [북런던 더비에서](../Page/북런던_더비.md "wikilink") 맞대결을 펼치는 [아스널이다](../Page/아스널_FC.md "wikilink").
 
-현재 감독은 [조세 무리뉴이며](https://ko.wikipedia.org/wiki/조세_무리뉴 "wikilink"), 주장은 [위고 요리스](../Page/위고_요리스.md "wikilink"), 부주장은 [해리 케인이며](../Page/해리_케인.md "wikilink"), 3주장은 [토비 알데르베이럴트이다](../Page/토비_알데르베이럴트.md "wikilink").
+현재 감독은 [조제 모리뉴이며](../Page/조제_모리뉴.md "wikilink"), 주장은 [위고 요리스](../Page/위고_요리스.md "wikilink"), 부주장은 [해리 케인이며](../Page/해리_케인.md "wikilink"), 3주장은 [토비 알데르베이럴트이다](../Page/토비_알데르베이럴트.md "wikilink").
 
 ## 엠블럼
 
@@ -14,53 +14,6 @@
 ## 타팀과의 관계
 
 지역 라이벌 [첼시 FC](../Page/첼시_FC.md "wikilink"), [웨스트햄 유나이티드 FC](../Page/웨스트햄_유나이티드_FC.md "wikilink"), [아스날 FC](https://ko.wikipedia.org/wiki/아스날_FC "wikilink"), 기존의 강호인 [맨체스터 유나이티드](https://ko.wikipedia.org/wiki/맨체스터_유나이티드 "wikilink"), [리버풀 FC](../Page/리버풀_FC.md "wikilink"), [뉴캐슬 유나이티드와는](https://ko.wikipedia.org/wiki/뉴캐슬_유나이티드 "wikilink") 사이가 매우 험악한 반면, [에버턴 FC와](https://ko.wikipedia.org/wiki/에버턴_FC "wikilink") 신흥 강호인 [맨체스터 시티와는](https://ko.wikipedia.org/wiki/맨체스터_시티 "wikilink") 그래도 사이가 좋은 편에 속한다. 또한, 영입정책과의 관계에 인하여 [사우스햄튼 FC](https://ko.wikipedia.org/wiki/사우스햄튼_FC "wikilink"), [웨스트브로미치 앨비언과의](https://ko.wikipedia.org/wiki/웨스트브로미치_앨비언 "wikilink") 사이도 매우 좋지 않다.
-
-## 응원가
-
-<https://www.youtube.com/watch?v=Vx-Lp3J-W2Q&feature=player_embedded>
-
-가사 Glory glory Tottenham Hotspur 글로리 글로리 토트넘 홋-스퍼 Glory glory Tottenham Hotspur 글로리 글로리 토트넘 홋-스퍼 Glory glory Tottenham Hotspur 글로리 글로리 토트넘 홋-스퍼 And the Spurs go marching on 앤드 더 스퍼스 고 마-칭 온 Tottenham are the greatest team the 토트넘 얼 더 그레이티스트 팀 더
-
-`world has ever seen`
-`월드    헤스 에버  신`
-
-Tottenham are the greatest team the
-
-`토트넘      얼   더  그레이티스트 팀   더`
-
-world has ever seen 월드 헤스 에버 신 Tottenham are the greatest team the 토트넘 얼 더 그레이티스트 팀 더
-
-`world has ever seen`
-
-월드 헤스 에버 신 And the Spurs go marching on 앤드 더 스퍼스 고 마-칭 온 Glory glory Tottenham Hotspur 글로리 글로리 토트넘 홋-스퍼 Glory glory Tottenham Hotspur 글로리 글로리 토트넘 홋-스퍼 Glory glory Tottenham Hotspur 글로리 글로리 토트넘 홋-스퍼 And the Spurs go marching on 앤드 더 스퍼스 고 마-칭 온 The pride of North of London were the 더 프라이드 옵 노스 옵 런던 월 더
-
-`kings of White Hart Lane`
-`킹스   오브 와이트 하트 레인`
-
-The pride of North of London were the 더 프라이드 옵 노스 옵 런던 월 더
-
-`kings of White Hart Lane`
-
-킹스 오브 와이트 하트 레인 The pride of North of London were the 더 프라이드 옵 노스 옵 런던 월 더
-
-`kings of White Hart Lane`
-
-킹스 오브 와이트 하트 레인 And the Spurs go marching on 앤드 더 스퍼스 고 마-칭 온 Glory glory Tottenham Hotspur 글로리 글로리 토트넘 홋-스퍼 Glory glory Tottenham Hotspur 글로리 글로리 토트넘 홋-스퍼 Glory glory Tottenham Hotspur 글로리 글로리 토트넘 홋-스퍼 And the Spurs go marching on 앤드 더 스퍼스 고 마-칭 온 Loyal Spurs supporters and they come to 로얄 스퍼스 서포터스 앤드 데이 컴 투
-
-`every game/`
-`에브리  게임`
-
-Loyal Spurs supporters and they come to 로얄 스퍼스 서포터스 앤드 데이 컴 투
-
-`every game/`
-
-에브리 게임 Loyal Spurs supporters and they come to 로얄 스퍼스 서포터스 앤드 데이 컴 투
-
-`every game/`
-
-에브리 게임 To watch the Spurs go marching on/ 투 와치 더 스퍼스 고 마칭 온 Glory glory Tottenham Hotspur/ 글로리 글로리 토트넘 홋-스퍼 Glory glory Tottenham Hotspur/ 글로리 글로리 토트넘 홋-스퍼 Glory glory Tottenham Hotspur/ 글로리 글로리 토트넘 홋-스퍼 And the Spurs go marching on/ 앤드 더 스퍼스 고 마-칭 온
-
-Glory Glory Tottenham Hotspur 잉글랜드의 록밴드 Chas & Dave가 연주하고 1980/81 FA컵 우승멤버들이 불렀다.
 
 ## 팀의 마스코트
 
@@ -421,12 +374,6 @@ UEFA 순위
 </tr>
 </tbody>
 </table>
-
-## 2010년대선수 기록
-
-2010년대 최다 득점 선수 TOP3
-
-1위 [해리케인](https://ko.wikipedia.org/wiki/해리케인 "wikilink") 2위 [손흥민](../Page/손흥민.md "wikilink") 3위 [베일](https://ko.wikipedia.org/wiki/베일 "wikilink")
 
 ## 관련 항목
 

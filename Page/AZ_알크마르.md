@@ -31,7 +31,7 @@ AZ는 [1977년](../Page/1977년.md "wikilink")부터 [2007년](../Page/2007년.m
 
 <!-- end list -->
 
-  - **[요한 크라위프 스할](https://ko.wikipedia.org/wiki/요한_크라위프_스할 "wikilink") : 1**
+  - **[요한 크라위프 스할](../Page/요한_크라위프_스할.md "wikilink") : 1**
       - 2009
 
 ### 유럽 대항전

@@ -57,5 +57,4 @@ x.c = string
 
 ## 외부 링크
 
-  -
 [분류:GNU 프로젝트 소프트웨어](https://ko.wikipedia.org/wiki/분류:GNU_프로젝트_소프트웨어 "wikilink") [분류:수치 프로그래밍 언어](https://ko.wikipedia.org/wiki/분류:수치_프로그래밍_언어 "wikilink") [분류:C++로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:C++로_작성된_자유_소프트웨어 "wikilink") [분류:크로스 플랫폼 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:크로스_플랫폼_자유_소프트웨어 "wikilink") [분류:자유 수학 소프트웨어](https://ko.wikipedia.org/wiki/분류:자유_수학_소프트웨어 "wikilink")

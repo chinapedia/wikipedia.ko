@@ -6,6 +6,7 @@
 ## 개요
 
   - 원래는 [구마모토 방송국의](../Page/NHK_구마모토_방송국.md "wikilink") 지국으로 취급받았지만 후쿠오카의 대도시화에 따라 규슈지역 중심방송국으로 격상되었다.
+  - [대한민국](../Page/대한민국.md "wikilink")의 [KBS 광주방송총국과](https://ko.wikipedia.org/wiki/KBS_광주방송총국 "wikilink") [1982년](../Page/1982년.md "wikilink")에 자매결연을 맺었다.
 
 ## 연혁
 

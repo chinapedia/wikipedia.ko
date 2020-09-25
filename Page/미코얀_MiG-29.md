@@ -39,17 +39,27 @@ S-300의 경우에는 2년 전인 1992년, 1대의 수입에 합작회사 공동
 
 2004년 5월 4일 이한호 공군참모총장은 말레이시아 [콴탄 공군기지에서](https://ko.wikipedia.org/wiki/콴탄_공군기지 "wikilink") 공군 참모총장으로서는 사상 처음으로 MIG29 전투기에 탑승, 1시간여에 걸친 비행을 했다. 사전 비행 브리핑을 받은 뒤 미그29 전투기 후방석에 탑승, 말레이시아 공군 조종사와 함께 공군기지 주변을 비행했으며 10여분간 직접 조종을 했다.\[9\]
 
+## 파생형
+
+### MiG-29K
+
+MiG-29K는 [함재기](../Page/함재기.md "wikilink")용으로 개발된 파생형이며 MiG-29KUB는 여기에 두 개의 좌석을 가지고 있다. MiG-29KUB는 훈련 목적으로 개발된 기체이나 유사시 한 명의 조종사로 작전에 참여할 수 있다. MiG-29K 개발은 1970년대 소련 해군이 [항공모함](../Page/항공모함.md "wikilink")에 싣을 함재기를 필요로 하면서 시작되었으며 MiG-29M을 기반으로 개발된 MiG-29KVP는 1982년 8월 초도비행을 마쳤다. 항공모함 위에서 착륙할 수 있도록 해주는 [테일 후크와](https://ko.wikipedia.org/wiki/테일_후크 "wikilink") 좁은 공간에서 수납할 수 있도록 해주는 접이식 날개가 있다는 점이 MiG-29와의 차이점이다. 첫 MiG-29K가 1988년 7월 23일 비행을 한데 이어 1989년 11월 1일 [트빌리시 항공모함에서](https://ko.wikipedia.org/wiki/트빌리시_항공모함 "wikilink") 이착륙했다. 하지만 [소련이 붕괴하고](../Page/소련의_붕괴.md "wikilink") 프로젝트는 중단되면서 [인도](../Page/인도.md "wikilink")의 수주를 받기까지 [미코얀은](../Page/미그.md "wikilink") 자금을 모으는데 어려움을 겪으며 개발을 지속했다. 그 결과 MiG-29KUB는 2007년 1월 첫 비행을 마쳤다.\[10\]
+
+MiG-29K는 강화된 동체골격과 항공모함 이착륙에 적합한 테일 후크를 가지고 있으며 동체에는 15%의 합성재료가 사용되었다. 항공모함 작전을 위한 테일후크와 접이식 날개 등이 특징이며 기존의 MiG-29보다 레이더 탐지율이 4배에서 5배 정도 감소했다. 기존의 [클리모프 RD-33에서](../Page/클리모프_RD-33.md "wikilink") 더 강력한 터보펜 엔진인 RD-33MK가 탑재되어 있으며 초기 프로토타입에 사용된 RD-33K 엔진보다 비행시간은 두 배 증가하였으나 비행에 따른 비용은 2.5배 감소했다. 분해검사 없이 작전에 참여할 수 있으며 비행중 제어는 전기신호에 의해 이뤄진다. 3개의 계기판은 다양한 기능의 [액정 디스플레이로](../Page/액정_디스플레이.md "wikilink") 표시되며 조종사의 [헬멧 마운티드 디스플레이로](../Page/헬멧_마운티드_디스플레이.md "wikilink") 표적을 조준할 수 있다.\[11\]
+
+MiG-29K는 [빔펠 R-77/RVV-AE](https://ko.wikipedia.org/wiki/빔펠_R-77/RVV-AE "wikilink"), [빔펠 R-73](../Page/빔펠_R-73.md "wikilink") [공대공 미사일과](https://ko.wikipedia.org/wiki/공대공_미사일 "wikilink") [Kh-31A](https://ko.wikipedia.org/wiki/Kh-31A "wikilink"), [Kh-35E](https://ko.wikipedia.org/wiki/Kh-35E "wikilink") [대함미사일](https://ko.wikipedia.org/wiki/대함미사일 "wikilink"), [Kh-31P](https://ko.wikipedia.org/wiki/Kh-31P "wikilink") [대레이더 미사일로](https://ko.wikipedia.org/wiki/대레이더_미사일 "wikilink") 무장하고 있으며 유도탄과 유도미사일 등 항공폭탄 또한 포함된다. 이 중 대함미사일인 [Kh-31A](https://ko.wikipedia.org/wiki/Kh-31A "wikilink")를 탑재할 수 있는 함재기로는 미코얀의 MiG-29K와 MiG-29KUB가 유일하다. 경우에 따라 [그랴제프-쉬브노프 GSh-30-1](https://ko.wikipedia.org/wiki/그랴제프-쉬브노프_GSh-30-1 "wikilink") 기관포 등, 다양한 종류의 무기가 탑재될 수 있는데 이는 주문자의 요구조건에 따라 달라진다. 최대 2,000km를 비행할 수 있으며 연료탱크 탑재 시 3,000km도 비행 가능하다.\[12\]
+
 ## 사용국가
 
 ### 현재 사용국가
 
   -
-  - \- 34대를 주문했으나 15대만 도입하게 되었다.\[10\]
+  - \- 34대를 주문했으나 15대만 도입하게 되었다.\[13\]
 
   -
 <!-- end list -->
 
-  - \- 14대의 MiG-29SE, 2대의 MiG-29UB 사용중\[11\]\[12\]
+  - \- 14대의 MiG-29SE, 2대의 MiG-29UB 사용중\[14\]\[15\]
 
   -
   -
@@ -57,19 +67,20 @@ S-300의 경우에는 2년 전인 1992년, 1대의 수입에 합작회사 공동
   -
   - \-
 
-  -
-  - \- 미확인 국가에서 [리스](https://ko.wikipedia.org/wiki/리스 "wikilink"). 연구를 위해 운용 중\[13\]\[14\]
+  - \- 12대의 MiG-29K와 복좌형 버전인 4대의 MiG-29KUB를 운용 중이다.\[16\]
+
+  - \- 미확인 국가에서 [리스](https://ko.wikipedia.org/wiki/리스 "wikilink"). 연구를 위해 운용 중\[17\]\[18\]
 
   -
   -
-  - \- 퇴역될 예정\[15\]
+  - \- 퇴역될 예정\[19\]
 
   -
   -
   -
 <!-- end list -->
 
-  - \- 40 사용중\[16\]
+  - \- 40 사용중\[20\]
 
   - \- 19 사용중
 
@@ -78,11 +89,11 @@ S-300의 경우에는 2년 전인 1992년, 1대의 수입에 합작회사 공동
   -
   - \- 총 4대 보유(코소보전 이후 5대 생존, 18109번 기체 2009년 추락 조종사 사망, 1대는 미그29 UB,3대가 남았으나 그중 한대는 부품용으로 전환),2016년말 현재 러시아의 고장 상태인 미그29 6기를 수리비 부담 조건으로 타 무기류와 함께 미화 2000만 달러에 공여하기로 결정.
 
-  - \- 5 사용중\[17\]
+  - \- 5 사용중\[21\]
 
   - \- 21
 
-  - \- 12 사용중\[18\]\[19\]\[20\]
+  - \- 12 사용중\[22\]\[23\]\[24\]
 
   -
   -
@@ -110,7 +121,7 @@ S-300의 경우에는 2년 전인 1992년, 1대의 수입에 합작회사 공동
 
 ## 제원 (MiG-29)
 
-[오른쪽](https://ko.wikipedia.org/wiki/파일:MiG-29_FULCRUM_\(MIKOYAN-GUREVICH\).png "wikilink") {{Aircraft specifications |plane or copter?=plane |jet or prop?=jet |ref= MiG specifications\[21\] |crew=1 |length main=17.37 m |length alt=57 ft |span main=11.4 m |span alt=37 ft 3 in |height main=4.73 m |height alt=15 ft 6 in |area main=38 m² |area alt=409 ft² |empty weight main=11,000 kg |empty weight alt=24,250 lb |loaded weight main=16,800 kg |loaded weight alt=37,000 lb |max takeoff weight main=21,000 kg |max takeoff weight alt=46,300 lb |engine (jet)=[클리모프 RD-33](../Page/클리모프_RD-33.md "wikilink") |type of jet=애프터버닝 [터보팬](../Page/터보팬.md "wikilink") |number of jets=2 |thrust original= |thrust main=8,300 kgf |thrust alt=81.4 [kN](https://ko.wikipedia.org/wiki/kN "wikilink"), 18,300 lbf |max speed main=[마하](https://ko.wikipedia.org/wiki/마하 "wikilink") 2.25 |max speed alt=2,400 km/h, 1,490 mph |max speed more=At low altitude: 1,500 km/h, 930 mph |range main=700 km |range alt=430 mi |range more= |combat radius main= |combat radius alt= |combat radius more= |ferry range main=2,100 km |ferry range alt=1,800 mi |ferry range more=with 1 drop tank |ceiling main=18,013 m |ceiling alt=59,100 ft |climb rate main= initial 330 m/s average 109 m/s 0-6000 m\[22\] |climb rate alt=65,000 ft/min |loading main=442 kg/m² |loading alt=90.5 lb/ft² |turn time at 1000 meters=19 seconds |thrust/weight=1.01 |armament=
+[오른쪽](https://ko.wikipedia.org/wiki/파일:MiG-29_FULCRUM_\(MIKOYAN-GUREVICH\).png "wikilink") {{Aircraft specifications |plane or copter?=plane |jet or prop?=jet |ref= MiG specifications\[25\] |crew=1 |length main=17.37 m |length alt=57 ft |span main=11.4 m |span alt=37 ft 3 in |height main=4.73 m |height alt=15 ft 6 in |area main=38 m² |area alt=409 ft² |empty weight main=11,000 kg |empty weight alt=24,250 lb |loaded weight main=16,800 kg |loaded weight alt=37,000 lb |max takeoff weight main=21,000 kg |max takeoff weight alt=46,300 lb |engine (jet)=[클리모프 RD-33](../Page/클리모프_RD-33.md "wikilink") |type of jet=애프터버닝 [터보팬](../Page/터보팬.md "wikilink") |number of jets=2 |thrust original= |thrust main=8,300 kgf |thrust alt=81.4 [kN](https://ko.wikipedia.org/wiki/kN "wikilink"), 18,300 lbf |max speed main=[마하](https://ko.wikipedia.org/wiki/마하 "wikilink") 2.25 |max speed alt=2,400 km/h, 1,490 mph |max speed more=At low altitude: 1,500 km/h, 930 mph |range main=700 km |range alt=430 mi |range more= |combat radius main= |combat radius alt= |combat radius more= |ferry range main=2,100 km |ferry range alt=1,800 mi |ferry range more=with 1 drop tank |ceiling main=18,013 m |ceiling alt=59,100 ft |climb rate main= initial 330 m/s average 109 m/s 0-6000 m\[26\] |climb rate alt=65,000 ft/min |loading main=442 kg/m² |loading alt=90.5 lb/ft² |turn time at 1000 meters=19 seconds |thrust/weight=1.01 |armament=
 
   - 1x 30 mm [GSh-30-1](https://ko.wikipedia.org/wiki/그랴제프-시푸노프_GSh-30-1 "wikilink") 기관포 150발
 
@@ -118,6 +129,9 @@ ARH), [AA-8 "Aphid"](https://ko.wikipedia.org/wiki/Molniya_R-60 "wikilink"), [AA
 
 ## 각주
 
+## 참고 자료
+
+  -
 ## 외부 링크
 
   - [MiG-29/-29UB/-29SE](https://web.archive.org/web/20140807153322/http://www.migavia.ru/eng/production/?tid=1&id=17), [MiG-29SD](https://web.archive.org/web/20081229143025/http://www.migavia.ru/eng/production/?tid=1&id=18), [MiG-29SMT, upgraded MiG-29UB](https://web.archive.org/web/20081229130550/http://www.migavia.ru/eng/production/?tid=1&id=20), and [MiG-29K/KUB](https://web.archive.org/web/20130317093834/http://www.migavia.ru/eng/military_e/MiG_29_K_KUB_e.htm) pages on the official Russian Air Corporation MiG site
@@ -140,16 +154,20 @@ ARH), [AA-8 "Aphid"](https://ko.wikipedia.org/wiki/Molniya_R-60 "wikilink"), [AA
 7.  러, 한국에 1억5천만弗 상당 첨단무기 공급, 연합뉴스, 1996-08-27
 8.  "한-러, 군사장비 수입 은폐작전"<러 신문>, 연합뉴스, 2001-03-01
 9.  이한호 공군참모총장 사상 첫 미그機 조종…말레이시아와 군사교류 합의, 국민일보, 2004-05-04
-10. [Algeria](http://en.rian.ru/russia/20090113/119463780.html)
-11. [BGD](http://www.deagel.com/Strike-and-Fighter-Aircraft/Mig-29_a000357001.aspx)
-12. [MiG-29SE Air Superiority Fighter Aircraft](http://www.bdmilitary.com/index.php?option=com_content&view=article&id=252&Itemid=106)
-13. \[<http://www.defencetalk.com/us-buys-s>...raining-18795/ Defence Talk\]
-14. [MiG-29](http://www.jpost.com/servlet/Satellite?cid=1242212366589&pagename=JPost%2FJPArticle%2FShowFull)
-15. \[<http://www.bernama.com/bernama/v5/newsindex.php?id=415211>}} BERNAMA - RMAF MIG29 Jets To Be Phased Out - Zahid \]
-16. ["Directory: World Air Forces"](http://www.flightglobal.com/assets/getasset.aspx?ItemID=26061). *[Flight International](https://ko.wikipedia.org/wiki/Flight_International "wikilink")*, 11-17 November 2008.
-17. [Order of Battle - Sri Lanka](http://www.milaviapress.com/orbat/srilanka/index.php) . Military Aviation OrBat.
-18. [Order of Battle - Sudan](http://www.milaviapress.com/orbat/sudan/index.php) . Military Aviation OrBat.
-19.
-20. [Sudan](http://www.dailystar.com.lb/article.asp?edition_id=10&categ_id=2&article_id=97725)
-21. ["MiG-29/MiG-29UB/MiG-29SE."](http://www.migavia.ru/eng/production/?tid=1&id=17)  *RAC MiG.* Retrieved: 1 August 2010.
-22. ["Datafiles: Mikojan MiG-29."](http://www.flug-revue.rotor.com/frtypen/FRMiG-29.htm)  *Flug Revue.* Retrieved: 1 August 2020.
+10.  "The MiG-29K project was initiated in the late 1970s to meet the requirements of the Soviet Navy for a supersonic carrier-based fighter. The first proof of concept version, MiG-29KVP, was developed based on the MiG-29M. The MiG-29KVP completed its maiden flight in August 1982. The aircraft with new undercarriage and folding wings of greater area, differed from the MiG-29 production model. The first MiG-29K took to the skies on 23 July 1988. The aircraft performed its first carrier landing on the aircraft-carrying cruiser Tbilisi (now Admiral Kuznetsov) on 1 November 1989. The project was halted due to the dissolution of the Soviet Union. Mikoyan continued the development and struggled with funding issues until it received orders from India. The MiG-29KUB aircraft completed its first flight in January 2007."
+11.  "The MiG-29K features a strengthened airframe and undercarriage suitable for landing on aircraft carriers. The airframe is made of about 15% composite materials. The aircraft is fitted with folding wings, arrestor hook and a catapult for carrier operations. The radar signature of the aircraft is reduced by four to five times over the basic MiG-29. The MiG-29K is fitted with more powerful RD-33MK engines, replacing the RD-33K turbofan engines used in the early prototypes. The flight hours of the fighter are doubled, but the flight hour cost is reduced by about 2.5 times. The aircraft can operate without overhaul. The single and double seat variations feature the same airborne equipment and weapons. The MiG-29KUB two-seat fighter is primarily intended for pilot training, but can also conduct combat missions similar to the single-seat fighter. The glass cockpit of the MiG-29K aircraft accommodates one pilot. It is equipped with three multifunctional colour LCDs, a digital fly-by-wire flight control system and TopOwl helmet-mounted targeting system."
+12.  "MiG-29K is armed with RVV-AE and R-73E air-to-air missiles, Kh-31A and Kh-35E anti-ship missiles and Kh-31P anti-radar missiles. Other armaments include guided aerial bombs, rockets and aerial bombs. "In January 2004, India placed an order for 12 MiG-29K single-seat and four MiG-29KUB two-seat fighters." The aircraft is mounted with a 30mm GSh-30-1 cannon with 100 rounds. A wide range of weapons can be added upon the request of the customer. MiG-29K/KUB is the only ship-borne fighter in the world to fire Kh-31A supersonic anti-ship missiles resistant to air-defence. The power plant provides a ferry range of 2,000km. The range can be increased to 3,000km with three underwing fuel drop tanks."
+13. [Algeria](http://en.rian.ru/russia/20090113/119463780.html)
+14. [BGD](http://www.deagel.com/Strike-and-Fighter-Aircraft/Mig-29_a000357001.aspx)
+15. [MiG-29SE Air Superiority Fighter Aircraft](http://www.bdmilitary.com/index.php?option=com_content&view=article&id=252&Itemid=106)
+16.  "In January 2004, India placed an order for 12 MiG-29K single-seat and four MiG-29KUB two-seat fighters."
+17. \[<http://www.defencetalk.com/us-buys-s>...raining-18795/ Defence Talk\]
+18. [MiG-29](http://www.jpost.com/servlet/Satellite?cid=1242212366589&pagename=JPost%2FJPArticle%2FShowFull)
+19. \[<http://www.bernama.com/bernama/v5/newsindex.php?id=415211>}} BERNAMA - RMAF MIG29 Jets To Be Phased Out - Zahid \]
+20. ["Directory: World Air Forces"](http://www.flightglobal.com/assets/getasset.aspx?ItemID=26061). *[Flight International](https://ko.wikipedia.org/wiki/Flight_International "wikilink")*, 11-17 November 2008.
+21. [Order of Battle - Sri Lanka](http://www.milaviapress.com/orbat/srilanka/index.php) . Military Aviation OrBat.
+22. [Order of Battle - Sudan](http://www.milaviapress.com/orbat/sudan/index.php) . Military Aviation OrBat.
+23.
+24. [Sudan](http://www.dailystar.com.lb/article.asp?edition_id=10&categ_id=2&article_id=97725)
+25. ["MiG-29/MiG-29UB/MiG-29SE."](http://www.migavia.ru/eng/production/?tid=1&id=17)  *RAC MiG.* Retrieved: 1 August 2010.
+26. ["Datafiles: Mikojan MiG-29."](http://www.flug-revue.rotor.com/frtypen/FRMiG-29.htm)  *Flug Revue.* Retrieved: 1 August 2020.

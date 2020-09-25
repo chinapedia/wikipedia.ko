@@ -96,7 +96,7 @@ Missile</p></td>
 | 8    | 적 함선                                  | 우주공간 (보스러시)                                             | \-                                                            |
 | 9 |- | 적 함선                                  | \-                                                      |                                                               |
 
-  - [X68000](../Page/X68000.md "wikilink"), [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"), [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink") 기반의 판은 아케이드를 따른다.
+  - [X68000](../Page/X68000.md "wikilink"), [플레이스테이션](../Page/플레이스테이션.md "wikilink"), [플레이스테이션 포터블](../Page/플레이스테이션_포터블.md "wikilink") 기반의 판은 아케이드를 따른다.
 
 ### 보스러시
 

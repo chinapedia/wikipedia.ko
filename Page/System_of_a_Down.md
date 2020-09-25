@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [System of a Down](https://ko.wikipedia.org/wiki/System_of_a_Down).
 
 
-***System of a Down***은 [1998년](../Page/1998년.md "wikilink")에 발매된 [시스템 오브 어 다운의](../Page/시스템_오브_어_다운.md "wikilink") 데뷔 음반이다. 이 앨범은 [2000년](../Page/2000년.md "wikilink") [2월 2일에](../Page/2월_2일.md "wikilink") [RIAA](https://ko.wikipedia.org/wiki/RIAA "wikilink")로부터 [골드를](https://ko.wikipedia.org/wiki/골드_앨범 "wikilink") 인정받았다. 2년 후, 다음 앨범인 [Toxicity](../Page/Toxicity.md "wikilink")의 성공에 따라 [플래티넘](https://ko.wikipedia.org/wiki/플래티넘 "wikilink")을 인증받았다.
+***System of a Down***은 [1998년](../Page/1998년.md "wikilink")에 발매된 [시스템 오브 어 다운의](../Page/시스템_오브_어_다운.md "wikilink") 데뷔 음반이다. 이 앨범은 [2000년](../Page/2000년.md "wikilink") [2월 2일에](../Page/2월_2일.md "wikilink") [RIAA](https://ko.wikipedia.org/wiki/RIAA "wikilink")로부터 [골드를](../Page/음반_판매량_인증.md "wikilink") 인정받았다. 2년 후, 다음 앨범인 [Toxicity](../Page/Toxicity.md "wikilink")의 성공에 따라 [플래티넘을](../Page/음반_판매량_인증.md "wikilink") 인증받았다.
 
 ## 앨범 커버
 

@@ -5,7 +5,7 @@
 
 알힐랄은 1957년 10월 16일에 창단하여, [1976년](../Page/1976년.md "wikilink")부터 개시된 [사우디 프로리그의](../Page/사우디_프로리그.md "wikilink") 모든 시즌에 참가한 네 개 팀 중 하나이다. [2018년](../Page/2018년.md "wikilink") 현재까지 알힐랄은 56개의 트로피를 들어올렸으며, 그 중 국내에서 44개의 트로피를 들어올렸다. 상세하게는 사우디 프로리그 14회 우승, [사우디아라비아 크라운 프린스 컵](https://ko.wikipedia.org/wiki/사우디아라비아_크라운_프린스_컵 "wikilink") 13회 우승, [사우디 연방컵](https://ko.wikipedia.org/wiki/프린스_파이살_빈_파드_리그_U-21 "wikilink") 7회 우승, [사우디 킹스컵](https://ko.wikipedia.org/wiki/사우디_챔피언스컵 "wikilink") 8회 우승, [사우디 슈퍼컵](https://ko.wikipedia.org/wiki/사우디_슈퍼컵 "wikilink") 1회 우승 그리고 사우디 프로리그 100주년 기념컵 1회 우승이다.
 
-국제 무대에서는 6개의 트로피를 들어올렸으며, [1991년과](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1991 "wikilink") [2000년의](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_2000 "wikilink") [아시안 클럽 챔피언십](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십 "wikilink")([AFC 챔피언스리그의](../Page/AFC_챔피언스리그.md "wikilink") 전신) 우승, [1996-97 시즌과](https://ko.wikipedia.org/wiki/아시안_컵위너스컵_1996-97 "wikilink") [2001-02 시즌](https://ko.wikipedia.org/wiki/아시안_컵위너스컵_2001-02 "wikilink") [아시안 컵위너스컵](../Page/아시안_컵위너스컵.md "wikilink") 우승, [1997년과](https://ko.wikipedia.org/wiki/아시안_슈퍼컵_1997 "wikilink") [2000년에](https://ko.wikipedia.org/wiki/아시안_슈퍼컵_2000 "wikilink") [아시안 슈퍼컵](../Page/아시안_슈퍼컵.md "wikilink") 우승을 기록하였다.
+국제 무대에서는 6개의 트로피를 들어올렸으며, [1991년과](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1991 "wikilink") [2000년의](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_2000 "wikilink") [아시안 클럽 챔피언십](../Page/아시안_클럽_챔피언십.md "wikilink")([AFC 챔피언스리그의](../Page/AFC_챔피언스리그.md "wikilink") 전신) 우승, [1996-97 시즌과](https://ko.wikipedia.org/wiki/아시안_컵위너스컵_1996-97 "wikilink") [2001-02 시즌](https://ko.wikipedia.org/wiki/아시안_컵위너스컵_2001-02 "wikilink") [아시안 컵위너스컵](../Page/아시안_컵위너스컵.md "wikilink") 우승, [1997년과](https://ko.wikipedia.org/wiki/아시안_슈퍼컵_1997 "wikilink") [2000년에](https://ko.wikipedia.org/wiki/아시안_슈퍼컵_2000 "wikilink") [아시안 슈퍼컵](../Page/아시안_슈퍼컵.md "wikilink") 우승을 기록하였다.
 
 2010-2011 시즌에서 19승 7무로 무패 우승의 위업을 달성했다.
 
@@ -17,7 +17,7 @@
 
 [200px](https://ko.wikipedia.org/wiki/파일:Al-Hilal_champion_2010.jpg "wikilink") [1961년](../Page/1961년.md "wikilink") [사우디 킹스컵에서](https://ko.wikipedia.org/wiki/사우디_챔피언스컵 "wikilink") 우승을 차지하며, 구단 역사상 최초의 트로피를 들어올렸다. [1964년](../Page/1964년.md "wikilink") 사우디 킹스컵에서 재차 우승을 차지하였다. [1976년](../Page/1976년.md "wikilink") [사우디 프로리그가](../Page/사우디_프로리그.md "wikilink") 창설되었고, 1976-77 시즌 사우디 프로리그의 초대 우승팀은 알힐랄이 차지하게 되었다. 1970년대 이후로 알힐랄은 대내외적으로 유명세를 타기 시작했으며, [마리우 자갈루와](../Page/마리우_자갈루.md "wikilink") [호베르투 히벨리누와](../Page/호베르투_히벨리누.md "wikilink") 같은 당대 최고의 [브라질](../Page/브라질_축구_국가대표팀.md "wikilink") 선수들도 영입할 수 있게 되었다.
 
-[1991년](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1991 "wikilink") 알힐랄은 [아시안 클럽 챔피언십에서](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십 "wikilink") 우승을 차지하며, 구단 역사상 최초의 대륙대회 타이틀을 거머쥐게 되었다. [2000년에](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_2000 "wikilink") 아시안 클럽 챔피언십 트로피를 다시 한번 들어올렸다. [1997년과](https://ko.wikipedia.org/wiki/아시안_컵위너스컵_1996-97 "wikilink") [2002년에는](https://ko.wikipedia.org/wiki/아시안_컵위너스컵_2001-02 "wikilink") [아시안 컵위너스컵](../Page/아시안_컵위너스컵.md "wikilink") 우승을 차지하기도 하였다. [2014년](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2014 "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 결승전에 진출하였으나, [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [웨스턴 시드니 원더러스 FC에게](../Page/웨스턴_시드니_원더러스_FC.md "wikilink") 0-1로 패하며 준우승에 머물렀다.
+[1991년](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1991 "wikilink") 알힐랄은 [아시안 클럽 챔피언십에서](../Page/아시안_클럽_챔피언십.md "wikilink") 우승을 차지하며, 구단 역사상 최초의 대륙대회 타이틀을 거머쥐게 되었다. [2000년에](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_2000 "wikilink") 아시안 클럽 챔피언십 트로피를 다시 한번 들어올렸다. [1997년과](https://ko.wikipedia.org/wiki/아시안_컵위너스컵_1996-97 "wikilink") [2002년에는](https://ko.wikipedia.org/wiki/아시안_컵위너스컵_2001-02 "wikilink") [아시안 컵위너스컵](../Page/아시안_컵위너스컵.md "wikilink") 우승을 차지하기도 하였다. [2014년](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2014 "wikilink") [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 결승전에 진출하였으나, [오스트레일리아](../Page/오스트레일리아.md "wikilink")의 [웨스턴 시드니 원더러스 FC에게](../Page/웨스턴_시드니_원더러스_FC.md "wikilink") 0-1로 패하며 준우승에 머물렀다.
 
 ## AFC 클럽 랭킹
 
@@ -71,7 +71,7 @@
   - **[AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink")**
       - **우승 (1)** : [2019](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2019 "wikilink")
       - 준우승 (2) : [2014](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2014 "wikilink"), [2017](https://ko.wikipedia.org/wiki/AFC_챔피언스리그_2017 "wikilink")
-  - **[아시안 클럽 챔피언십](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십 "wikilink")**
+  - **[아시안 클럽 챔피언십](../Page/아시안_클럽_챔피언십.md "wikilink")**
       - **우승 (2)** : [1991](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1991 "wikilink"), [1999-2000](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1999-2000 "wikilink")
       - 준우승 (2) : [1986](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1986 "wikilink"), [1987](https://ko.wikipedia.org/wiki/아시안_클럽_챔피언십_1987 "wikilink")
   - **[아시안 컵위너스컵](../Page/아시안_컵위너스컵.md "wikilink")**

@@ -120,6 +120,10 @@
 | 송신소         |
 | 망운산 송신소     |
 
+## 시보 멘트
+
+  - 한국인의 중심채널 KBS 제1라디오가 잠시 후 OO시를 알려드립니다. AM 630KHz FM 88.7MHz FM 95.7MHz KBS순천 제1라디오입니다. HLCY
+
 ### 지상파DMB
 
 ## 제작 프로그램
@@ -185,7 +189,7 @@
 
 ## 아나운서
 
-  - [김다은](https://ko.wikipedia.org/wiki/김다은 "wikilink") : [2019.7\~](https://ko.wikipedia.org/wiki/2019.7~ "wikilink")
+  - [2019년](../Page/2019년.md "wikilink") [김다은](https://ko.wikipedia.org/wiki/김다은 "wikilink") (프리랜서)
 
 ## 전직 아나운서
 
@@ -197,7 +201,7 @@
   - [김종식](https://ko.wikipedia.org/wiki/김종식_\(아나운서\) "wikilink") : 퇴사
   - [위영미](https://ko.wikipedia.org/wiki/위영미 "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
   - [임진숙](https://ko.wikipedia.org/wiki/임진숙 "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
-  - [김한별](https://ko.wikipedia.org/wiki/김한별_\(아나운서\) "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
+  - [김한별](../Page/김한별_\(아나운서\).md "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
   - [김형철](https://ko.wikipedia.org/wiki/김형철_\(아나운서\) "wikilink") : 현 [KBS전주방송총국](../Page/KBS전주방송총국.md "wikilink") 아나운서
   - [채윤아](https://ko.wikipedia.org/wiki/채윤아 "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
   - [이윤선](https://ko.wikipedia.org/wiki/이윤선_\(아나운서\) "wikilink") : 전 [MBC경남](../Page/MBC경남.md "wikilink") 아나운서, 현 스피치 대표

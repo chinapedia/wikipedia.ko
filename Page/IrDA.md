@@ -55,12 +55,18 @@ IrFM(Infrared Financial Messaging)은 Infrared Data Association가 개발한 무
 
 ## 외부 링크
 
-**공식**
+  - 공식
+
+<!-- end list -->
 
   -
   - [List of official specifications](https://web.archive.org/web/20191115171139/http://www.irdajp.info/specifications.html), physical layer specification is US$100
 
-**기타**
+<!-- end list -->
+
+  - 기타
+
+<!-- end list -->
 
   - [Linux Infrared HOWTO](http://www.tldp.org/HOWTO/Infrared-HOWTO/)
   - [Linux Infrared Remote Control](http://www.lirc.org)

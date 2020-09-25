@@ -320,20 +320,6 @@ R-11엔진을 장비한 후퇴익기인 Ye-2A와 삼각익기인 Ye-5는 1956년
 
 :\* 폭탄 및 로켓
 
-## 미그기와 미군기의 상응
-
-[미그-21](https://ko.wikipedia.org/wiki/미그-21 "wikilink") - [F-4](https://ko.wikipedia.org/wiki/F-4 "wikilink")
-
-[미그-19](https://ko.wikipedia.org/wiki/미그-19 "wikilink") - [F-5](https://ko.wikipedia.org/wiki/F-5 "wikilink")
-
-[미그-23](https://ko.wikipedia.org/wiki/미그-23 "wikilink") - [F-14](https://ko.wikipedia.org/wiki/F-14 "wikilink")
-
-[미그-25](https://ko.wikipedia.org/wiki/미그-25 "wikilink") - [F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink")
-
-[미그-29](https://ko.wikipedia.org/wiki/미그-29 "wikilink") - [F-15](https://ko.wikipedia.org/wiki/F-15 "wikilink") ,[F-16](https://ko.wikipedia.org/wiki/F-16 "wikilink")
-
-[미그-35](https://ko.wikipedia.org/wiki/미그-35 "wikilink") - [F-15E](https://ko.wikipedia.org/wiki/F-15E "wikilink")
-
 ### MiG-21F-13
 
 [오른쪽](https://ko.wikipedia.org/wiki/파일:MiG-21_FISHBED_\(MIKOYAN-GUREVICH\).png "wikilink")

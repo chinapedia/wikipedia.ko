@@ -5,7 +5,7 @@
 
 ## 역사
 
-[1930년](../Page/1930년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") 모태인 조선미곡창고를 시작으로 하여 설립되었다. [동아그룹](../Page/동아그룹.md "wikilink"), [금호아시아나그룹](../Page/금호아시아나그룹.md "wikilink")의 계열사를 거쳤으며 본래 대한통운이라는 명칭이었으나 2011년 [CJ그룹](../Page/CJ그룹.md "wikilink")이 인수하며 [2012년](../Page/2012년.md "wikilink") 3월 [CJ대한통운](../Page/CJ대한통운.md "wikilink")으로 사명이 변경되었다. [2013년](../Page/2013년.md "wikilink") [4월 1일에](../Page/4월_1일.md "wikilink") [CJ GLS와](../Page/CJ_GLS.md "wikilink") 통합하였다.\[1\]
+[1930년](../Page/1930년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") 모태인 조선미곡창고를 시작으로 하여 설립되었다. [동아그룹](../Page/동아그룹.md "wikilink")과 [금호아시아나그룹](../Page/금호아시아나그룹.md "wikilink")의 계열사를 거쳤으며, 본래 대한통운이라는 명칭이었으나 2011년 [CJ그룹](../Page/CJ그룹.md "wikilink")이 인수하며 [2012년](../Page/2012년.md "wikilink") [3월](../Page/3월.md "wikilink") 사명을 대한통운에서 [CJ대한통운](../Page/CJ대한통운.md "wikilink")으로 변경되었다. [2013년](../Page/2013년.md "wikilink") [4월 1일에](../Page/4월_1일.md "wikilink") [CJ GLS와](../Page/CJ_GLS.md "wikilink") 통합하였다.\[1\]
 
 ### 연표
 
@@ -24,9 +24,9 @@
   - [1984년](../Page/1984년.md "wikilink") 6월: [미국](../Page/미국.md "wikilink")상사 [샌프란시스코](../Page/샌프란시스코.md "wikilink")(S.F) 지점 개설
   - [1992년](../Page/1992년.md "wikilink") 1월: 2차 [리비아](../Page/리비아.md "wikilink") 대수로 공사 참여
   - [1993년](../Page/1993년.md "wikilink") 4월: 소화물 일관 수송업(택배) 개시
-  - [1996년](../Page/1996년.md "wikilink") 3월: ISO 9002 국제품질 인증획득 (육상운송, 항만하역, 택배, 렌터카)
+  - [1996년](../Page/1996년.md "wikilink") 3월: ISO 9002 국제품질 인증획득 (육상운송, 항만하역, 택배, 렌터카 등)
   - [1996년](../Page/1996년.md "wikilink") 8월: [베이징](https://ko.wikipedia.org/wiki/베이징 "wikilink") 사무소 설치
-  - [1999년](../Page/1999년.md "wikilink")6월: 대한통운 특송을 대한통운 택배로 사업명칭 변경
+  - [1999년](../Page/1999년.md "wikilink") 6월: 대한통운 특송을 대한통운 택배로 사업명칭 변경
   - [1999년](../Page/1999년.md "wikilink") 9월: ISO 14001 국제환경인증 획득
   - [1999년](../Page/1999년.md "wikilink") 10월: 외항화물운송업 사업 진출
   - [2000년](../Page/2000년.md "wikilink") 1월: 인터넷 쇼핑몰 사업 진출

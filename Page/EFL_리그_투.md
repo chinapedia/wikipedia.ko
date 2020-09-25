@@ -46,16 +46,16 @@
 | 2005-06 | [칼라일 유나이티드](../Page/칼라일_유나이티드_FC.md "wikilink")                | [노샘프턴 타운](../Page/노샘프턴_타운_FC.md "wikilink")                          | [레이턴 오리엔트](https://ko.wikipedia.org/wiki/레이턴_오리엔트_FC "wikilink") | [첼트넘 타운](../Page/첼트넘_타운_FC.md "wikilink")           |
 | 2006-07 | [월솔](../Page/월솔_FC.md "wikilink")                              | [하틀풀 유나이티드](https://ko.wikipedia.org/wiki/하틀풀_유나이티드_FC "wikilink")   | [스윈던 타운](../Page/스윈던_타운_FC.md "wikilink")                        | [브리스틀 로버스](../Page/브리스틀_로버스_FC.md "wikilink")       |
 | 2007-08 | [밀턴킨즈 던스](https://ko.wikipedia.org/wiki/밀턴킨즈_던스_FC "wikilink") | [피터버러 유나이티드](../Page/피터버러_유나이티드_FC.md "wikilink")                    | [헤리퍼드 유나이티드](../Page/헤리퍼드_유나이티드_FC.md "wikilink")                | [스톡포트 카운티](../Page/스톡포트_카운티_FC.md "wikilink")       |
-| 2008-09 | [브렌트퍼드](../Page/브렌트퍼드_FC.md "wikilink")                        | [엑서터 시티](../Page/엑서터_시티_FC.md "wikilink")                            | [위컴 원더러스](https://ko.wikipedia.org/wiki/위컴_원더러스_FC "wikilink")   | [질링엄](../Page/질링엄_FC.md "wikilink")                 |
+| 2008-09 | [브렌트퍼드](../Page/브렌트퍼드_FC.md "wikilink")                        | [엑서터 시티](../Page/엑서터_시티_FC.md "wikilink")                            | [위컴 원더러스](../Page/위컴_원더러스_FC.md "wikilink")                      | [질링엄](../Page/질링엄_FC.md "wikilink")                 |
 | 2009-10 | [노츠 카운티](../Page/노츠_카운티_FC.md "wikilink")                      | [본머스](../Page/AFC_본머스.md "wikilink")                                 | [로치데일](../Page/로치데일_AFC.md "wikilink")                           | [대거넘 & 레드브리지](../Page/대거넘_&_레드브리지_FC.md "wikilink") |
-| 2010-11 | [체스터필드](../Page/체스터필드_FC.md "wikilink")                        | [베리](../Page/베리_FC.md "wikilink")                                    | [위컴 원더러스](https://ko.wikipedia.org/wiki/위컴_원더러스_FC "wikilink")   | [스테버니지](../Page/스테버니지_FC.md "wikilink")             |
+| 2010-11 | [체스터필드](../Page/체스터필드_FC.md "wikilink")                        | [베리](../Page/베리_FC.md "wikilink")                                    | [위컴 원더러스](../Page/위컴_원더러스_FC.md "wikilink")                      | [스테버니지](../Page/스테버니지_FC.md "wikilink")             |
 | 2011-12 | [스윈던 타운](../Page/스윈던_타운_FC.md "wikilink")                      | [슈루즈베리 타운](../Page/슈루즈베리_타운_FC.md "wikilink")                        | [크롤리 타운](../Page/크롤리_타운_FC.md "wikilink")                        | [크루 알렉산드라](../Page/크루_알렉산드라_FC.md "wikilink")       |
 | 2012-13 | [질링엄](../Page/질링엄_FC.md "wikilink")                            | [로더럼 유나이티드](../Page/로더럼_유나이티드_FC.md "wikilink")                      | [포트 베일](../Page/포트_베일_FC.md "wikilink")                          | [브래드퍼드 시티](../Page/브래드퍼드_시티_AFC.md "wikilink")      |
 | 2013-14 | [체스터필드](../Page/체스터필드_FC.md "wikilink")                        | [스컨소프 유나이티드](https://ko.wikipedia.org/wiki/스컨소프_유나이티드_FC "wikilink") | [로치데일](../Page/로치데일_AFC.md "wikilink")                           | [플리트우드 타운](../Page/플리트우드_타운_FC.md "wikilink")       |
 | 2014-15 | [버턴 앨비언](../Page/버턴_앨비언_FC.md "wikilink")                      | [슈루즈베리 타운](../Page/슈루즈베리_타운_FC.md "wikilink")                        | [베리](../Page/베리_FC.md "wikilink")                                | [사우스엔드 유나이티드](../Page/사우스엔드_유나이티드_FC.md "wikilink") |
 | 2015-16 | [노샘프턴 타운](../Page/노샘프턴_타운_FC.md "wikilink")                    | [옥스퍼드 유나이티드](../Page/옥스퍼드_유나이티드_FC.md "wikilink")                    | [브리스틀 로버스](../Page/브리스틀_로버스_FC.md "wikilink")                    | [윔블던](../Page/AFC_윔블던.md "wikilink")                |
 | 2016-17 | [포츠머스](../Page/포츠머스_FC.md "wikilink")                          | [플리머스 아가일](https://ko.wikipedia.org/wiki/플리머스_아가일_FC "wikilink")     | [동커스터 로버스](../Page/동커스터_로버스_FC.md "wikilink")                    | [블랙풀](../Page/블랙풀_FC.md "wikilink")                 |
-| 2017-18 | [애크링턴 스탠리](../Page/애크링턴_스탠리_FC.md "wikilink")                  | [루턴 타운](../Page/루턴_타운_FC.md "wikilink")                              | [위컴 원더러스](https://ko.wikipedia.org/wiki/위컴_원더러스_FC "wikilink")   | [코번트리 시티](../Page/코번트리_시티_FC.md "wikilink")         |
+| 2017-18 | [애크링턴 스탠리](../Page/애크링턴_스탠리_FC.md "wikilink")                  | [루턴 타운](../Page/루턴_타운_FC.md "wikilink")                              | [위컴 원더러스](../Page/위컴_원더러스_FC.md "wikilink")                      | [코번트리 시티](../Page/코번트리_시티_FC.md "wikilink")         |
 
 ## 역대 강등 팀
 
@@ -99,9 +99,9 @@
 <tr class="even">
 <td><p>2005-06</p></td>
 <td><p><a href="../Page/링컨_시티_FC.md" title="wikilink">링컨 시티</a> 0-1 <a href="../Page/그림즈비_타운_FC.md" title="wikilink">그림즈비 타운</a><br />
-<a href="https://ko.wikipedia.org/wiki/위컴_원더러스_FC" title="wikilink">위컴 원더러스</a> 1-2 <a href="../Page/첼트넘_타운_FC.md" title="wikilink">첼트넘 타운</a></p></td>
+<a href="../Page/위컴_원더러스_FC.md" title="wikilink">위컴 원더러스</a> 1-2 <a href="../Page/첼트넘_타운_FC.md" title="wikilink">첼트넘 타운</a></p></td>
 <td><p><a href="../Page/그림즈비_타운_FC.md" title="wikilink">그림즈비 타운</a> 2-1 <a href="../Page/링컨_시티_FC.md" title="wikilink">링컨 시티</a><br />
-<a href="../Page/첼트넘_타운_FC.md" title="wikilink">첼트넘 타운</a> 0-0 <a href="https://ko.wikipedia.org/wiki/위컴_원더러스_FC" title="wikilink">위컴 원더러스</a></p></td>
+<a href="../Page/첼트넘_타운_FC.md" title="wikilink">첼트넘 타운</a> 0-0 <a href="../Page/위컴_원더러스_FC.md" title="wikilink">위컴 원더러스</a></p></td>
 <td><p><a href="../Page/그림즈비_타운_FC.md" title="wikilink">그림즈비 타운</a> 0-1 <a href="../Page/첼트넘_타운_FC.md" title="wikilink">첼트넘 타운</a></p></td>
 </tr>
 <tr class="odd">
@@ -115,10 +115,10 @@
 <tr class="even">
 <td><p>2007-08</p></td>
 <td><p><a href="../Page/달링턴_FC.md" title="wikilink">달링턴</a> 2-1 <a href="../Page/로치데일_AFC.md" title="wikilink">로치데일</a><br />
-<a href="https://ko.wikipedia.org/wiki/위컴_원더러스_FC" title="wikilink">위컴 원더러스</a> 1-1 <a href="../Page/스톡포트_카운티_FC.md" title="wikilink">스톡포트 카운티</a></p></td>
+<a href="../Page/위컴_원더러스_FC.md" title="wikilink">위컴 원더러스</a> 1-1 <a href="../Page/스톡포트_카운티_FC.md" title="wikilink">스톡포트 카운티</a></p></td>
 <td><p><a href="../Page/로치데일_AFC.md" title="wikilink">로치데일</a> 2-1 <a href="../Page/달링턴_FC.md" title="wikilink">달링턴</a><br />
 <small>(로치데일이 연장전, 승부차기 결과 5-4로 승리함)</small><br />
-<a href="../Page/스톡포트_카운티_FC.md" title="wikilink">스톡포트 카운티</a> 1-0 <a href="https://ko.wikipedia.org/wiki/위컴_원더러스_FC" title="wikilink">위컴 원더러스</a></p></td>
+<a href="../Page/스톡포트_카운티_FC.md" title="wikilink">스톡포트 카운티</a> 1-0 <a href="../Page/위컴_원더러스_FC.md" title="wikilink">위컴 원더러스</a></p></td>
 <td><p><a href="../Page/로치데일_AFC.md" title="wikilink">로치데일</a> 2-3 <a href="../Page/스톡포트_카운티_FC.md" title="wikilink">스톡포트 카운티</a></p></td>
 </tr>
 <tr class="odd">
@@ -173,10 +173,10 @@
 <tr class="odd">
 <td><p>2014-15</p></td>
 <td><p><a href="../Page/스테버니지_FC.md" title="wikilink">스테버니지</a> 1-1 <a href="../Page/사우스엔드_유나이티드_FC.md" title="wikilink">사우스엔드 유나이티드</a><br />
-<a href="https://ko.wikipedia.org/wiki/플리머스_아가일_FC" title="wikilink">플리머스 아가일</a> 2-3 <a href="https://ko.wikipedia.org/wiki/위컴_원더러스_FC" title="wikilink">위컴 원더러스</a></p></td>
+<a href="https://ko.wikipedia.org/wiki/플리머스_아가일_FC" title="wikilink">플리머스 아가일</a> 2-3 <a href="../Page/위컴_원더러스_FC.md" title="wikilink">위컴 원더러스</a></p></td>
 <td><p><a href="../Page/사우스엔드_유나이티드_FC.md" title="wikilink">사우스엔드 유나이티드</a> 3-1 <a href="../Page/스테버니지_FC.md" title="wikilink">스테버니지</a><br />
-<a href="https://ko.wikipedia.org/wiki/위컴_원더러스_FC" title="wikilink">위컴 원더러스</a> 2-1 <a href="https://ko.wikipedia.org/wiki/플리머스_아가일_FC" title="wikilink">플리머스 아가일</a></p></td>
-<td><p><a href="../Page/사우스엔드_유나이티드_FC.md" title="wikilink">사우스엔드 유나이티드</a> 1-1 <a href="https://ko.wikipedia.org/wiki/위컴_원더러스_FC" title="wikilink">위컴 원더러스</a><br />
+<a href="../Page/위컴_원더러스_FC.md" title="wikilink">위컴 원더러스</a> 2-1 <a href="https://ko.wikipedia.org/wiki/플리머스_아가일_FC" title="wikilink">플리머스 아가일</a></p></td>
+<td><p><a href="../Page/사우스엔드_유나이티드_FC.md" title="wikilink">사우스엔드 유나이티드</a> 1-1 <a href="../Page/위컴_원더러스_FC.md" title="wikilink">위컴 원더러스</a><br />
 <small>(사우스엔드가 연장전, 승부차기 결과 7-6으로 승리함)</small></p></td>
 </tr>
 <tr class="even">

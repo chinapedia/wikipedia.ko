@@ -42,6 +42,6 @@
 
   - [공식 사이트](https://www.chiba-tv.com/)
 
-[분류:독립 UHF 방송국](https://ko.wikipedia.org/wiki/분류:독립_UHF_방송국 "wikilink") [분류:일본의 텔레비전 방송사](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_방송사 "wikilink") [분류:간토 지방의 방송](https://ko.wikipedia.org/wiki/분류:간토_지방의_방송 "wikilink") [분류:1970년 설립](https://ko.wikipedia.org/wiki/분류:1970년_설립 "wikilink") [분류:지바현의 기업](https://ko.wikipedia.org/wiki/분류:지바현의_기업 "wikilink") [분류:1971년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1971년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:일본의 지방공기업](https://ko.wikipedia.org/wiki/분류:일본의_지방공기업 "wikilink")
+[분류:독립 UHF 방송국](https://ko.wikipedia.org/wiki/분류:독립_UHF_방송국 "wikilink") [분류:일본의 텔레비전 방송사](https://ko.wikipedia.org/wiki/분류:일본의_텔레비전_방송사 "wikilink") [분류:간토 지방의 방송](https://ko.wikipedia.org/wiki/분류:간토_지방의_방송 "wikilink") [분류:1970년 설립](https://ko.wikipedia.org/wiki/분류:1970년_설립 "wikilink") [분류:지바시의 기업](https://ko.wikipedia.org/wiki/분류:지바시의_기업 "wikilink") [분류:1971년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1971년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:일본의 지방공기업](https://ko.wikipedia.org/wiki/분류:일본의_지방공기업 "wikilink")
 
 1.  [군마 TV는](../Page/군마_TV.md "wikilink") 개국 초기에는 주로 야간에 방송을 시작했고,[TV 가나가와](../Page/TV_가나가와.md "wikilink"),[TV 사이타마는](../Page/TV_사이타마.md "wikilink") 오전에 방송을 시작했다.

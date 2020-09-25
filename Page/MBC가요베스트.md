@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC가요베스트](https://ko.wikipedia.org/wiki/MBC가요베스트).
 
 
-《**MBC가요베스트**》는 [문화방송](../Page/문화방송.md "wikilink")의 네트워크국 14개사에서 공동으로 제작하는 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
+《**MBC가요베스트**》는 [문화방송의 네트워크국 14개사에서](https://ko.wikipedia.org/wiki/문화방송#지역_단위_네트워크_계열사 "wikilink") 공동으로 제작하는 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
 
 ## 역대 진행자
 
@@ -10,8 +10,8 @@
 
 ### 참고사항
 
-  - 남자 MC가 녹화에 참여하지 못할 경우 아나운서와 출연 가수가 대신 진행을 맡는다.
-  - 여자 MC는 고정이 아니기 때문에 1\~3주마다 바뀐다. 아나운서와 출연 가수가 진행을 맡는다.
+  - 남자 MC가 녹화에 참여하지 못할 경우 아나운서 혹은 출연 가수가 대신 진행을 맡는다.
+  - 여자 MC는 고정이 아니기 때문에 1\~3주마다 바뀐다. 아나운서 혹은 출연 가수가 진행을 맡는다.
 
 ## 계열사 방송 안내
 

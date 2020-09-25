@@ -26,7 +26,7 @@
 | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
 | [파워대행진](https://ko.wikipedia.org/wiki/파워대행진 "wikilink")(평일)         | [원주시](../Page/원주시.md "wikilink"), [강원도](../Page/강원도.md "wikilink") 영서 남부                                                                                                                                                | [KBS원주](../Page/KBS원주방송국.md "wikilink")  | 한태호                                                          |
 | 라디오 재즈카페(평일)                                                        | [강릉시](https://ko.wikipedia.org/wiki/강릉시 "wikilink"), [강원도](../Page/강원도.md "wikilink") 영동                                                                                                                                | [KBS강릉](../Page/KBS강릉방송국.md "wikilink")  | 강유미                                                          |
-| [오후의 클래식](https://ko.wikipedia.org/wiki/오후의_클래식 "wikilink")(평일)     | [춘천시](https://ko.wikipedia.org/wiki/춘천시 "wikilink"), [강원도](../Page/강원도.md "wikilink") 영서 북부                                                                                                                             | [KBS춘천](../Page/KBS춘천방송총국.md "wikilink") | 박서정                                                          |
+| [오후의 클래식](https://ko.wikipedia.org/wiki/오후의_클래식 "wikilink")(평일)     | [춘천시](https://ko.wikipedia.org/wiki/춘천시 "wikilink"), [강원도](../Page/강원도.md "wikilink") 영서 북부                                                                                                                             | [KBS춘천](../Page/KBS춘천방송총국.md "wikilink") | 윤석황                                                          |
 | [음악이 있는 곳에](https://ko.wikipedia.org/wiki/음악이_있는_곳에 "wikilink")(평일) | [청주시](../Page/청주시.md "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 중남부, [세종특별자치시](../Page/세종특별자치시.md "wikilink")                                                                                   | [KBS청주](../Page/KBS청주방송총국.md "wikilink") | 김윤혜                                                          |
 | Kiss the music(평일)                                                  | [충주시](https://ko.wikipedia.org/wiki/충주시 "wikilink"), [충청북도](https://ko.wikipedia.org/wiki/충청북도 "wikilink") 북부                                                                                                           | [KBS충주](../Page/KBS충주방송국.md "wikilink")  | 진두연                                                          |
 | 오후의 풍경과 음악(평일)                                                      | [광주광역시](https://ko.wikipedia.org/wiki/광주광역시 "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 중북부, [순천시](../Page/순천시_\(전라남도\).md "wikilink"), [전라남도](https://ko.wikipedia.org/wiki/전라남도 "wikilink") 동부 | [KBS광주](../Page/KBS광주방송총국.md "wikilink") | [정은아](https://ko.wikipedia.org/wiki/정은아_\(아나운서\) "wikilink") |
@@ -103,8 +103,8 @@
 
 ## 라디오시보
 
-  - KBS춘천 클래식FM시보:이의선 아나운서
-  - KBS강릉 FM시보:정은지 아나운서
+  - KBS춘천 클래식FM시보:정은숙 아나운서
+  - KBS강릉 FM시보:김경미 아나운서
   - KBS원주 FM시보:김혜정 아나운서
   - KBS대전 FM시보:김연선,전유미 아나운서
   - KBS충주 FM시보:김경희 아나운서

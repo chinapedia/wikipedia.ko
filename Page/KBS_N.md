@@ -8,16 +8,16 @@
   -
   -
 
-|                                                                   |               |           |                              |
-| ----------------------------------------------------------------- | ------------- | --------- | ---------------------------- |
-| **채널**                                                            | **채널 정보**     | **운영 채널** | **전 채널 (구)**                 |
-| [KBS 드라마](../Page/KBS_드라마.md "wikilink")                          | 드라마 전문 채널     |           |                              |
-| [KBS 조이](../Page/KBS_조이.md "wikilink")                            | 엔터테인먼트 채널     |           |                              |
-| [KBS N 스포츠](../Page/KBS_N_스포츠.md "wikilink")                      | 스포츠 채널        |           |                              |
-| [KBS W](../Page/KBS_W.md "wikilink")                              | 여성 채널         |           | KBS위성1 2TV KBS KOREA         |
-| [KBS 키즈](../Page/KBS_키즈.md "wikilink")                            | 어린이 에듀테인먼트 채널 | KBSN C\&C |                              |
-| [KBS N 라이프](../Page/KBS_N_라이프.md "wikilink")                      | 교양정보 채널       |           | KBS위성1 2TV KBS KOREA KBS 프라임 |
-| [KBS N PLUS](https://ko.wikipedia.org/wiki/KBS_N_PLUS "wikilink") | OTT 채널        |           |                              |
+|                                                                   |                |            |                                 |
+| ----------------------------------------------------------------- | -------------- | ---------- | ------------------------------- |
+| **채널**                                                            | **채널 정보**      | **운영 채널**  | **전 채널 (구)**                    |
+| [KBS N 스포츠](../Page/KBS_N_스포츠.md "wikilink")                      | 대한민국 대표 스포츠 채널 |            | KBS 스포츠 SKY KBS 스포츠 KBS SKY 스포츠 |
+| [KBS 드라마](../Page/KBS_드라마.md "wikilink")                          | 드라마 전문 채널      |            | KBS 드라마 SKY KBS 드라마 KBS SKY 드라마 |
+| [KBS N 라이프](../Page/KBS_N_라이프.md "wikilink")                      | 교양정보 채널        |            | KBS 위성2 KBS 코리아 KBS 프라임         |
+| [KBS 조이](../Page/KBS_조이.md "wikilink")                            | 엔터테인먼트 채널      | KBS N      |                                 |
+| [KBS 키즈](../Page/KBS_키즈.md "wikilink")                            | 어린이 에듀테인먼트 채널  | KBS N C\&C |                                 |
+| [KBS W](../Page/KBS_W.md "wikilink")                              | 여성 채널          | KBS N      |                                 |
+| [KBS N PLUS](https://ko.wikipedia.org/wiki/KBS_N_PLUS "wikilink") | OTT 채널         |            |                                 |
 
 ### **전 방송사**
 

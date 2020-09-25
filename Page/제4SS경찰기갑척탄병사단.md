@@ -150,7 +150,7 @@
 
 ※ 1944년 7월 4일 **4 SS 경찰 돌격포 대대**는 **4 SS 경찰 전차 대대**로 개칭되었다.\[6\]
 
-## 참고문헌
+## 참고 문헌
 
   - Friedrich, Husemann, In Good Faith: The History of the 4. SS-Polizei-Panzer-Grenadier-Division. Volume 1: 1939-1943, J.J. Fedorowicz
   - George F. Nafziger, The German Order of Battle: Waffen SS and Other Units in World War II,Greenhill Books/Lionel Leventhal, United Kingdom

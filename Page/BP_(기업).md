@@ -21,6 +21,6 @@
 
   - [BP 공식 웹사이트](http://www.bp.com/)
 
-[분류:1909년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1909년_설립된_기업 "wikilink") [BP](https://ko.wikipedia.org/wiki/분류:BP "wikilink") [분류:다국적 기업](https://ko.wikipedia.org/wiki/분류:다국적_기업 "wikilink") [분류:영국의 정유 회사](https://ko.wikipedia.org/wiki/분류:영국의_정유_회사 "wikilink") [분류:영국의 브랜드](https://ko.wikipedia.org/wiki/분류:영국의_브랜드 "wikilink") [분류:송유관 회사](https://ko.wikipedia.org/wiki/분류:송유관_회사 "wikilink")
+[BP](https://ko.wikipedia.org/wiki/분류:BP "wikilink") [분류:영국의 정유 회사](https://ko.wikipedia.org/wiki/분류:영국의_정유_회사 "wikilink") [분류:영국의 화학 기업](https://ko.wikipedia.org/wiki/분류:영국의_화학_기업 "wikilink") [분류:영국의 다국적 기업](https://ko.wikipedia.org/wiki/분류:영국의_다국적_기업 "wikilink") [분류:영국의 브랜드](https://ko.wikipedia.org/wiki/분류:영국의_브랜드 "wikilink") [분류:런던의 기업](https://ko.wikipedia.org/wiki/분류:런던의_기업 "wikilink") [분류:자동차 연료 소매업체](https://ko.wikipedia.org/wiki/분류:자동차_연료_소매업체 "wikilink") [분류:석유 화학 회사](https://ko.wikipedia.org/wiki/분류:석유_화학_회사 "wikilink") [분류:송유관 회사](https://ko.wikipedia.org/wiki/분류:송유관_회사 "wikilink") [분류:1909년 설립된 기업](https://ko.wikipedia.org/wiki/분류:1909년_설립된_기업 "wikilink")
 
 1.  롤스로이스 엔진 본체에 'Recommend Castrol' 이라고 명기되어 있다.

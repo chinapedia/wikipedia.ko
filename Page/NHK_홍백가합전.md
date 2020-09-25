@@ -159,7 +159,7 @@ TV 방송에서의 실황 중계는 제38회(1987년)부터 중단되었으며, 
 
 ## 회차별 정보
 
-2017년까지 총 68번 대결이 펼쳐졌으며, 홍조가 31번, 백조가 37번 승리를 거뒀다. 2005년 [제56회 홍백부터](../Page/제56회_NHK_홍백가합전.md "wikilink") 2010년 [제61회 홍백까지](../Page/제61회_NHK_홍백가합전.md "wikilink") 백조가 6연승을 기록하였는데, 이것이 최다 연승 기록이다. 홍조는 3연승이 최다 기록이다.\[27\]
+2018년까지 총 69번 대결이 펼쳐졌으며, 홍조가 31번, 백조가 38번 승리를 거뒀다. 2005년 [제56회 홍백부터](../Page/제56회_NHK_홍백가합전.md "wikilink") 2010년 [제61회 홍백까지](../Page/제61회_NHK_홍백가합전.md "wikilink") 백조가 6연승을 기록하였는데, 이것이 최다 연승 기록이다. 홍조는 3연승이 최다 기록이다.\[27\]
 
 [230px](https://ko.wikipedia.org/wiki/파일:Mizunoe_Takiko.JPG "wikilink") [230px](https://ko.wikipedia.org/wiki/파일:Keizo_Takahashi_1959_Scan10012.jpg "wikilink") [230px](https://ko.wikipedia.org/wiki/파일:Tetsuko_Kuroyanagi_1956.jpg "wikilink")**
 1958년 처음 홍조에서 사회를 맡았고, 약 60년이 흐른 2015년에는 종합 사회자로 출연했다.\]\] [230px](https://ko.wikipedia.org/wiki/파일:Kyu_sakamoto.png "wikilink")**
@@ -988,6 +988,22 @@ TV 방송에서의 실황 중계는 제38회(1987년)부터 중단되었으며, 
 <td><p>전반: 35.8%<br />
 후반: 39.4%</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/제69회_NHK_홍백가합전.md" title="wikilink">69</a></p></td>
+<td><p>2018년 12월 31일</p></td>
+<td><p><a href="../Page/히로세_스즈.md" title="wikilink">히로세 스즈</a><br />
+()</p></td>
+<td><p><a href="../Page/사쿠라이_쇼.md" title="wikilink">사쿠라이 쇼</a><br />
+()</p></td>
+<td><p><a href="../Page/우치무라_테루요시.md" title="wikilink">우치무라 테루요시</a><br />
+()<br />
+쿠와코 마호<br />
+()</p></td>
+<td><p>백조<br />
+(31-39)</p></td>
+<td><p>전반: 37.7%<br />
+후반: 41.5%</p></td>
 </tr>
 </tbody>
 </table>

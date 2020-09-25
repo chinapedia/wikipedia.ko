@@ -80,7 +80,7 @@
   - [E채널](../Page/E채널.md "wikilink")
   - [바둑TV](../Page/바둑TV.md "wikilink")
   - [KTV](https://ko.wikipedia.org/wiki/국민방송 "wikilink")
-  - [OUN 방송대학TV](https://ko.wikipedia.org/wiki/방송대학TV "wikilink")
+  - [OUN 방송대학TV](../Page/방송대학TV.md "wikilink")
   - [아리랑국제방송](https://ko.wikipedia.org/wiki/한국국제방송교류재단 "wikilink")
   - [MBC every1](../Page/MBC_에브리원.md "wikilink")
   - [FTV](https://ko.wikipedia.org/wiki/한국낚시채널 "wikilink")
@@ -178,8 +178,8 @@
   - [NHK World TV](../Page/NHK_월드.md "wikilink")
   - [NHK World Premium](../Page/NHK_월드.md "wikilink")
   - [CCTV-4](../Page/CCTV-4.md "wikilink")
-  - [CGTN 다큐 멘터리](https://ko.wikipedia.org/wiki/CGTN_다큐멘터리 "wikilink")
-  - [CGTN](https://ko.wikipedia.org/wiki/CGTN_\(TV_채널\) "wikilink")
+  - [CGTN 다큐 멘터리](../Page/중국국제텔레비전.md "wikilink")
+  - [CGTN](../Page/중국국제텔레비전.md "wikilink")
   - [BBC Knowledge](https://ko.wikipedia.org/wiki/BBC_날리지 "wikilink")
   - [부동산 토마토](../Page/토마토TV.md "wikilink")
   - [더 무비](http://www.chthemovie.co.kr/main/index.asp)
@@ -220,7 +220,6 @@
   - 아임쇼핑
   - 채널A플러스
   - [MBN 플러스](../Page/매일방송.md "wikilink")
-  - [TV조선 플러스](../Page/TV조선.md "wikilink")
   - [펀TV](http://www.funtv2.com) ([올레TV 스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프의_방송_채널 "wikilink") - 274번 (선택형), [올레TV](https://ko.wikipedia.org/wiki/올레_TV의_방송_채널 "wikilink") - 274번)
   - 히어로액션 ([올레TV 스카이라이프](https://ko.wikipedia.org/wiki/스카이라이프의_방송_채널 "wikilink") - 78번, [올레TV](https://ko.wikipedia.org/wiki/올레_TV의_방송_채널 "wikilink") - 112번, [SK B tv](https://ko.wikipedia.org/wiki/B_TV의_방송_채널 "wikilink") - 96번, [U+tv G](https://ko.wikipedia.org/wiki/U+_TV의_방송_채널 "wikilink") - 42번)
 
@@ -235,7 +234,7 @@
   - [포유스포츠(4USports)](../Page/SBS_스포츠.md "wikilink")
   - [SBS 위성골프](https://ko.wikipedia.org/wiki/SBS_골프 "wikilink")
   - [포유골프(4UGolf)](https://ko.wikipedia.org/wiki/SBS_골프 "wikilink")
-  - [ETS](../Page/CTS기독교TV.md "wikilink")
+  - [ETS](https://ko.wikipedia.org/wiki/CTS_\(대한민국의_방송사\) "wikilink")
   - OSB 자격증TV
   - 스탁인터랙TV
   - [MBS 한국매일방송](../Page/매일방송.md "wikilink")
@@ -336,9 +335,10 @@
 
 <references/>
 
-## 나라별 [케이블tv목록](../Page/나라별_텔레비전_방송국_목록.md "wikilink")
+## 외부 링크
 
-  -
+  - [한국케이블TV방송협회 홈페이지](http://www.kcta.or.kr/)
+
 [대한민국의_텔레비전_케이블_방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink")
 
 1.  [케이블TV 준비 제대로 했나?, [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink"), 1995년 3월 8일](http://news.kbs.co.kr/news/view.do?ncd=3748979)

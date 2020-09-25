@@ -37,7 +37,7 @@
   - [미디어 플레이어 클래식](../Page/미디어_플레이어_클래식.md "wikilink")
   - [미디어포털](https://ko.wikipedia.org/wiki/미디어포털 "wikilink")\[2\]
   - [메즈모](https://ko.wikipedia.org/wiki/메즈모 "wikilink")(Mezzmo) 미디어 플레이어
-  - [엠플레이어](https://ko.wikipedia.org/wiki/엠플레이어 "wikilink")
+  - [엠플레이어](../Page/엠플레이어.md "wikilink")
   - [토템 (미디어 플레이어)](https://ko.wikipedia.org/wiki/토템_\(미디어_플레이어\) "wikilink")
   - [VLC 미디어 플레이어](../Page/VLC_미디어_플레이어.md "wikilink")
   - [VSO 소프트웨어](https://ko.wikipedia.org/wiki/VSO_소프트웨어 "wikilink")

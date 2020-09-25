@@ -12,7 +12,6 @@
 
 ## 슬로건
 
-  - 대한민국 연예오락 전문채널
   - 엔터테인먼트 채널
   - 상상 그 이상의 즐거움
 
@@ -36,6 +35,7 @@
 
   - [차트를 달리는 남자](https://ko.wikipedia.org/wiki/차트를_달리는_남자 "wikilink")
   - [무엇이든 물어보살](../Page/무엇이든_물어보살.md "wikilink")(5월 3일부터 KBS 2TV로 편성 변경)
+  - [이십세기 힛-트쏭](https://ko.wikipedia.org/wiki/이십세기_힛-트쏭 "wikilink")
 
 #### 종영
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DAHLIA \(음반\)](https://ko.wikipedia.org/wiki/DAHLIA_\(음반\)).
 
 
-《**DAHLIA**》는 X JAPAN([엑스 재팬](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink"))의 다섯 번째이자 마지막 정규 앨범이다. 1996년 11월 4일에 발매되었다.
+《**DAHLIA**》는 X JAPAN([엑스 재팬](https://ko.wikipedia.org/wiki/엑스_재팬 "wikilink"))의 다섯 번째 정규 앨범이다. 1996년 11월 4일에 발매되었다.
 
 원래 엑스 재팬의 세계 데뷔 작품으로서 제작되었던 것이며, 본래의 구상으로는 일어 가사 외에 영어 가사로 발매되어야 할 작품이다. 그러나 [토시의](https://ko.wikipedia.org/wiki/토시_\(가수\) "wikilink") 영어 발음의 문제나 [요시키](https://ko.wikipedia.org/wiki/요시키 "wikilink")의 지병에 의해 레코딩은 장기화되어 세계 데뷔를 단념하게 된다. 또한 레코드 회사와의 관계 악화에 의한 자금부족 등이 겹쳐 93년 이후의 녹음 작품을 싱글 발매, [요시키](https://ko.wikipedia.org/wiki/요시키 "wikilink")는 사비를 털어 레코딩을 속행했지만 일본어판의 완성조차 안보이는 상태로 작업이 계속되었다.
 

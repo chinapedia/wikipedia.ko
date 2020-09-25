@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [전북 현대 모터스 FC](https://ko.wikipedia.org/wiki/전북_현대_모터스_FC).
 
 
-**전북 현대 모터스 FC**()는 [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink")를 연고지로 하는 [대한민국](../Page/대한민국.md "wikilink") 프로축구 1부리그 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")의 축구단이다.
+**전북 현대 모터스**()는 [전라북도](https://ko.wikipedia.org/wiki/전라북도 "wikilink")를 연고지로 하는 [대한민국](../Page/대한민국.md "wikilink") 프로축구 1부리그 [K리그1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")의 축구단이다.
 
 모체라고 볼 수 있는 [전북 버팔로가](../Page/전북_버팔로.md "wikilink") [1994 시즌에](../Page/K리그_1994.md "wikilink") [K리그](../Page/K리그.md "wikilink")에 참가하였으나 재정 문제로 시즌 후 공식적으로 해체가 되었고, 이후 1994년 12월 [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") 지원 아래 독립법인체인 전북 다이노스 축구단이 창단되었다. [2000년](../Page/2000년.md "wikilink")부터 현재의 명칭으로 바꾸어 오늘날에 이르고 있으며, 공식적으로 [한국프로축구연맹](../Page/한국프로축구연맹.md "wikilink")에 의하여 전북 버팔로와는 별개의 구단이라고 규정되어 역사와 기록을 승계하지 않고 있으며 클럽의 공식적인 연혁 또한 전북 다이노스의 창단부터 시작되고 있다.
 
-[2000년대](../Page/2000년대.md "wikilink") 이후로 K리그에서 가장 성공한 클럽 중 하나로 꼽히는 전북 현대 모터스는 [2009](https://ko.wikipedia.org/wiki/K리그_2009 "wikilink"), [2011](https://ko.wikipedia.org/wiki/K리그_2011 "wikilink"), [2014](https://ko.wikipedia.org/wiki/K리그_클래식_2014 "wikilink"), [2015](https://ko.wikipedia.org/wiki/K리그_클래식_2015 "wikilink"), [2017](https://ko.wikipedia.org/wiki/K리그_클래식_2017 "wikilink"), [2018](https://ko.wikipedia.org/wiki/K리그1_2018 "wikilink"), [2019](https://ko.wikipedia.org/wiki/K리그1_2019 "wikilink") K리그1 우승, 2000년, 2003년, 2005년 [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") 우승, 2004년 [슈퍼컵](../Page/슈퍼컵_\(대한민국\).md "wikilink") 우승, 2011년 [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 준우승 2002년 [아시안 컵 위너스 컵](https://ko.wikipedia.org/wiki/아시안_컵_위너스_컵 "wikilink") 준우승, 2004년 [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 4강, 2006년과 2016년 [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 우승 타이틀을 가지고 있다. [2006](../Page/2006년_FIFA_클럽_월드컵.md "wikilink"), [2016년 FIFA 클럽 월드컵에도](../Page/2016년_FIFA_클럽_월드컵.md "wikilink") 참가했다.
+[2000년대](../Page/2000년대.md "wikilink") 이후로 K리그에서 가장 성공한 클럽 중 하나로 꼽히는 전북 현대 모터스는 [2009](https://ko.wikipedia.org/wiki/K리그_2009 "wikilink"), [2011](https://ko.wikipedia.org/wiki/K리그_2011 "wikilink"), [2014](https://ko.wikipedia.org/wiki/K리그_클래식_2014 "wikilink"), [2015](https://ko.wikipedia.org/wiki/K리그_클래식_2015 "wikilink"), [2017](https://ko.wikipedia.org/wiki/K리그_클래식_2017 "wikilink"), [2018](https://ko.wikipedia.org/wiki/K리그1_2018 "wikilink"), [2019](https://ko.wikipedia.org/wiki/K리그1_2019 "wikilink") K리그1 우승, 2000년, 2003년, 2005년 [FA컵](../Page/FA컵_\(대한민국\).md "wikilink") 우승, 2004년 [슈퍼컵](../Page/슈퍼컵_\(대한민국\).md "wikilink") 우승, 2011년 [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 준우승 2002년 [아시안 컵 위너스 컵](https://ko.wikipedia.org/wiki/아시안_컵_위너스_컵 "wikilink") 준우승, 2004년 [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 4강, 2006년과 2016년 [AFC 챔피언스리그](../Page/AFC_챔피언스리그.md "wikilink") 우승 타이틀을 가지고 있다. [2006](../Page/2006년_FIFA_클럽_월드컵.md "wikilink"), [2016년 FIFA 클럽 월드컵에도](../Page/2016년_FIFA_클럽_월드컵.md "wikilink") 참가했다.
 
 ## 역사
 
@@ -93,13 +93,13 @@ AFC 챔피언스리그에 집중한 탓에 리그에서는 전, 후기리그 통
 
 [2018년](../Page/2018년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") [최강희](../Page/최강희_\(축구인\).md "wikilink") 감독이 차기 시즌 [중국 슈퍼리그](../Page/중국_슈퍼리그.md "wikilink") [톈진 취안젠으로](https://ko.wikipedia.org/wiki/톈진_취안젠 "wikilink") 취임함에 따라 2018시즌을 끝으로 지휘봉을 내려놓는다.
 
-### 호세 모라이스(Jose Morais) 시대 (2019\~)
+### 조제 모라이스(Jose Morais) 시대 (2019\~)
 
-[2018년](../Page/2018년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") 구단은 14년간 팀을 이끌었던 [최강희의](../Page/최강희_\(축구인\).md "wikilink") 후임으로 [포르투갈](../Page/포르투갈.md "wikilink") 출신이자 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에서 줄곧 [호세 모리뉴를](../Page/조제_모리뉴.md "wikilink") 보좌해왔던 [호세 모라이스를](../Page/조제_모라이스.md "wikilink") 제 5대 감독으로 선임하였다.
+[2018년](../Page/2018년.md "wikilink") [12월 3일](../Page/12월_3일.md "wikilink") 구단은 14년간 팀을 이끌었던 [최강희의](../Page/최강희_\(축구인\).md "wikilink") 후임으로 [포르투갈](../Page/포르투갈.md "wikilink") 출신이자 [프리미어리그](https://ko.wikipedia.org/wiki/프리미어리그 "wikilink")에서 줄곧 [조제 모리뉴를](../Page/조제_모리뉴.md "wikilink") 보좌해왔던 [조제 모라이스를](../Page/조제_모라이스.md "wikilink") 제 5대 감독으로 선임하였다.
 
 그 후, 모라이스 체제로 시즌을 시작한 전북은 울산과 리그 1위를 10 차례 경쟁 끝에 리그 최종전에서 포항에게 패한 울산을 따돌리고 역전 우승에 성공하여 2003년 성남 이후 리그 3연패를 달성하였다.
 
-[2019년](../Page/2019년.md "wikilink") 시즌 후, [문선민](../Page/문선민.md "wikilink")과 [권경원](../Page/권경원.md "wikilink")이 [상주 상무에](../Page/상주_상무_축구단.md "wikilink") 입대하고, [명준재](../Page/명준재.md "wikilink"), [임선영](../Page/임선영_\(축구_선수\).md "wikilink"), [신형민](../Page/신형민.md "wikilink")과 결별하였다. 그 후, 2019 K리그 MVP를 수상했던 [김보경이](../Page/김보경_\(축구_선수\).md "wikilink") 3년여 만에 전북으로 돌아왔고, 경남에서 [쿠니모토를](../Page/구니모토_다카히로.md "wikilink") 영입하였다. 그리고, 2020년 6월 1일에는 중국 베이징 런허 소속으로 있었던 신형민이 코로나19 여파로 전북으로 복귀하였다. 그리고, [라스를](../Page/라르스_벨트바이크.md "wikilink") [수원 FC로](../Page/수원_FC.md "wikilink") 이적시키고, [바로우와](https://ko.wikipedia.org/wiki/모두_바로우 "wikilink") [구스타보를](../Page/구스타부_엔히키_다_시우바_소우자.md "wikilink") 영입하여 측면과 전방을 강화하였다.
+[2019년](../Page/2019년.md "wikilink") 시즌 후, [문선민](../Page/문선민.md "wikilink")과 [권경원](../Page/권경원.md "wikilink")이 [상주 상무에](../Page/상주_상무_축구단.md "wikilink") 입대하고, [명준재](../Page/명준재.md "wikilink"), [임선영](../Page/임선영_\(축구_선수\).md "wikilink"), [신형민](../Page/신형민.md "wikilink")과 결별하였다. 그 후, 2019 K리그 MVP를 수상했던 [김보경이](../Page/김보경_\(축구_선수\).md "wikilink") 3년여 만에 전북으로 돌아왔고, 경남에서 [쿠니모토를](../Page/구니모토_다카히로.md "wikilink") 영입하였다. 그리고, 2020년 6월 1일에는 중국 베이징 런허 소속으로 있었던 신형민이 코로나19 여파로 전북으로 복귀하였다. 그리고, [라스를](../Page/라르스_벨트바이크.md "wikilink") [수원 FC로](../Page/수원_FC.md "wikilink") 이적시키고, [바로우와](https://ko.wikipedia.org/wiki/모두_바로우 "wikilink") [구스타보를](../Page/구스타부_엔히키_다_시우바_소우자.md "wikilink") 영입하여 측면과 전방을 강화하였다. 그 후 측면 수비수인 [김진수는](../Page/김진수_\(축구_선수\).md "wikilink") [사우디 프로리그의](../Page/사우디_프로리그.md "wikilink") [알나스르 FC로](../Page/알나스르_FC.md "wikilink") 이적하였다.
 
 ## 유니폼
 
@@ -129,7 +129,7 @@ AFC 챔피언스리그에 집중한 탓에 리그에서는 전, 후기리그 통
 
 #### 컵
 
-  - **[FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")**
+  - **[FA컵](../Page/FA컵_\(대한민국\).md "wikilink")**
 
 <!-- end list -->
 
@@ -216,7 +216,7 @@ AFC 챔피언스리그에 집중한 탓에 리그에서는 전, 후기리그 통
 <th><p>실</p></th>
 <th><p>차</p></th>
 <th><p>승점</p></th>
-<th><p>리그 최다득점</p></th>
+<th><p>팀 최다득점</p></th>
 <th><p>리그컵</p></th>
 <th><p>FA컵</p></th>
 <th><p>슈퍼컵</p></th>

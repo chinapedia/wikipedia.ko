@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TSMC](https://ko.wikipedia.org/wiki/TSMC).
 
 
-**대만적체전로제조주식유한공사**( 줄여서 **TSMC**, )은 [중화민국](../Page/중화민국.md "wikilink")의 [반도체](../Page/반도체.md "wikilink") 파운드리이다. 세계에서 가장 큰 관련 업체로 알려져 있으며, [2020년](../Page/2020년.md "wikilink") [4월 6일의](../Page/4월_6일.md "wikilink") [시가총액](../Page/시가총액.md "wikilink")은 2469.75억 [달러이다](../Page/미국_달러.md "wikilink").
+**대만적체전로제조주식유한공사**( 줄여서 **TSMC**, )은 [중화민국](../Page/중화민국.md "wikilink")의 [반도체](../Page/반도체.md "wikilink") 파운드리이다. 세계에서 가장 큰 관련 업체로 알려져 있으며, [2020년](../Page/2020년.md "wikilink") [4월 6일의](../Page/4월_6일.md "wikilink") [시가총액](../Page/시가총액.md "wikilink")은 2,469.75억 [달러이다](../Page/미국_달러.md "wikilink").
 
 TSMC는 다양한 [웨이퍼](../Page/웨이퍼.md "wikilink") 생산라인(고전압, 혼합신호, 아날로그)을 제공할 뿐만 아니라, **논리** 생산라인에서 최고로 알려져 있다. [ATI 테크놀로지스](../Page/ATI_테크놀로지스.md "wikilink"), [브로드컴](../Page/브로드컴.md "wikilink"), [코넥산트](https://ko.wikipedia.org/wiki/코넥산트 "wikilink"), [마벨](https://ko.wikipedia.org/wiki/마벨_테크놀로지_그룹 "wikilink"), [엔비디아](../Page/엔비디아.md "wikilink")와, [VIA 테크놀로지스같은](https://ko.wikipedia.org/wiki/VIA_테크놀로지스 "wikilink") 다수의 [팹리스](https://ko.wikipedia.org/wiki/팹리스 "wikilink") 첨단기술 회사는 TSMC의 고객이다.
 

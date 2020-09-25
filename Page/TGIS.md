@@ -40,6 +40,7 @@ TGIS는 현재 아래와 같은 차량에 채용되었다.
   - [한국철도공사 361000호대 전동차](../Page/한국철도공사_361000호대_전동차.md "wikilink")([경춘선](https://ko.wikipedia.org/wiki/경춘선 "wikilink")용)
   - [한국철도공사 371000호대 전동차](../Page/한국철도공사_371000호대_전동차.md "wikilink")([경강선](../Page/경강선.md "wikilink")용)
   - [한국철도공사 381000호대 전동차](../Page/한국철도공사_381000호대_전동차.md "wikilink")([동해선](https://ko.wikipedia.org/wiki/동해선 "wikilink")용)
+  - [한국철도공사 391000호대 전동차](../Page/한국철도공사_391000호대_전동차.md "wikilink")([서해선](../Page/서해선.md "wikilink")용)
 
 아래의 전동차에 설치된 TGIS는 제작사가 다르며, 기능개량을 거치지 않았다.
 

@@ -639,7 +639,7 @@ Extension #289</p></td>
   - 프로그래머에게 단일한 API를 제공함으로써 서로 다른 [3차원 가속기](https://ko.wikipedia.org/wiki/3차원_가속기 "wikilink") 사이의 복잡한 상호 정보교환 방식을 간단하게 한다.
   - (필요하다면 소프트웨어적인 에뮬레이션을 이용하더라도) 모든 구현이 완전한 OpenGL 기능 집합을 지원하도록 강제함으로써 각각의 하드웨어 플랫폼마다 다른 능력 차이를 감추는 역할을 한다.
 
-OpenGL의 동작은 점, 선, 다각형과 같은 기본 도형을 그리고, 이를 [픽셀](https://ko.wikipedia.org/wiki/픽셀 "wikilink") 형식으로 변환하는 것을 허용하고 있다. 이러한 일은 OpenGL 상태 머신(OpenGL State Machine)이라는 [그래픽스 파이프라인을](https://ko.wikipedia.org/wiki/그래픽스_파이프라인 "wikilink") 통하여 이루어진다.
+OpenGL의 동작은 점, 선, 다각형과 같은 기본 도형을 그리고, 이를 [픽셀](https://ko.wikipedia.org/wiki/픽셀 "wikilink") 형식으로 변환하는 것을 허용하고 있다. 이러한 일은 OpenGL 상태 머신(OpenGL State Machine)이라는 [그래픽스 파이프라인을](../Page/그래픽스_파이프라인.md "wikilink") 통하여 이루어진다.
 
 ## 예제
 

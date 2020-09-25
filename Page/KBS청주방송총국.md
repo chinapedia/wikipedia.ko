@@ -187,7 +187,7 @@
 
 ## 제작 프로그램
 
-### [<span style="color:black">KBS TV</span>](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
+### [<span style="color:black">KBS TV</span>](../Page/KBS_1TV.md "wikilink")
 
 #### 뉴스
 
@@ -348,7 +348,7 @@
   - [원순식](https://ko.wikipedia.org/wiki/원순식 "wikilink")(2005\~2015, 현 퇴사)
   - [임지수](https://ko.wikipedia.org/wiki/임지수 "wikilink")(2016\~2017, 현 퇴사)
   - [백선일](../Page/백선일.md "wikilink")(2014\~2019, 현 휴직중)
-  - [이승휘](https://ko.wikipedia.org/wiki/이승휘 "wikilink")(2018\~2019, 현 퇴사)
+  - [이승휘](https://ko.wikipedia.org/wiki/이승휘 "wikilink")(2018\~2019, 현 TJB)
   - [배소빈](https://ko.wikipedia.org/wiki/배소빈 "wikilink")(2019, 현 KBS 부산총국)
 
 ## 기자

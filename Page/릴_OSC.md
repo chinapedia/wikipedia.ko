@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [릴 OSC](https://ko.wikipedia.org/wiki/릴_OSC).
 
 
-**릴 올랭피크 스포르팅 클뤼브**(Lille Olympique Sporting Club)는 [릴](../Page/릴.md "wikilink")의 위성도시 [빌뇌브-다스크에](https://ko.wikipedia.org/wiki/빌뇌브다스크 "wikilink") 위치한 [스타드 피에르 모루아](../Page/스타드_피에르_모루아.md "wikilink") 경기장을 근거로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 흔히 **릴 OSC**라고도 불린다. 현재 감독은 [크리스토프 갈티에이다](https://ko.wikipedia.org/wiki/크리스토프_갈티에 "wikilink").
+**릴 올랭피크 스포르팅 클뤼브**(Lille Olympique Sporting Club)는 [릴](../Page/릴.md "wikilink")의 위성도시 [빌뇌브-다스크에](https://ko.wikipedia.org/wiki/빌뇌브다스크 "wikilink") 위치한 [스타드 피에르 모루아](../Page/스타드_피에르_모루아.md "wikilink") 경기장을 근거로 하는 [프랑스](../Page/프랑스.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 흔히 **LOSC**나 **릴 OSC**라고도 불린다. 현재 감독은 [크리스토프 갈티에이다](https://ko.wikipedia.org/wiki/크리스토프_갈티에 "wikilink").
 
 릴은 [올랭피크 릴루아와](https://ko.wikipedia.org/wiki/올랭피크_릴루아 "wikilink") [SC 피브가](https://ko.wikipedia.org/wiki/SC_피브 "wikilink") 통합되며 창단되었다. 두 클럽 모두 [프랑스 1부 리그](https://ko.wikipedia.org/wiki/리그_1 "wikilink") 창단 팀이였고 릴루아는 리그 초대 우승팀이기도 했다. 릴 엠블럼을 단 이래로 1946년, 1954년, [2011년등](../Page/리그_1_2010-11.md "wikilink") 세 차례 리그 우승과 [쿠프 드 프랑스](../Page/쿠프_드_프랑스.md "wikilink") 6회 우승을 하였으며, 이는 4번째로 많은 기록이다. 릴과 [레드 스타 FC는](https://ko.wikipedia.org/wiki/레드_스타_FC "wikilink") 쿠프 드 프랑스에 3연속으로 우승한 유일한 프랑스의 축구 팀이기도 하다. 릴의 가장 성공적인 시기는 [조지 베리와](https://ko.wikipedia.org/wiki/빌_베리_\(1904년_출생_축구_선수\) "wikilink") [앙드레 슈바가](https://ko.wikipedia.org/wiki/앙드레_슈바 "wikilink") 감독으로 있던 1946년부터 1956년까지이다.
 

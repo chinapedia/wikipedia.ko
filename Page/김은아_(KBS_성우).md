@@ -10,7 +10,7 @@
   - [고스트 바둑왕](https://ko.wikipedia.org/wiki/고스트_바둑왕 "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - **[김한별](https://ko.wikipedia.org/wiki/후지사키_아카리 "wikilink")**
   - [그레이트 다간](../Page/전설의_용자_다간.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - **윤지혜**, 레이디 핑키
   - [꾸러기 수비대](../Page/꾸러기_수비대.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - **[찡찡이](https://ko.wikipedia.org/wiki/찡찡이 "wikilink")**, [오로라 공주](https://ko.wikipedia.org/wiki/오로라_공주_\(꾸러기_수비대\) "wikilink")
-  - [디지몬 테이머즈](../Page/디지몬_테이머즈.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - **은세나**, 테리어몬, 곽소희
+  - [디지몬 테이머즈](../Page/디지몬_테이머즈.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - **[은세나](https://ko.wikipedia.org/wiki/은세나 "wikilink")**, 테리어몬, 곽소희
   - [리리카 SOS](../Page/리리카_SOS.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 미미나 공주
   - [명탐정 빠쎄](https://ko.wikipedia.org/wiki/명탐정_빠쎄 "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 미미
   - [모모](https://ko.wikipedia.org/wiki/모모 "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 리비아
@@ -63,7 +63,7 @@
   - [엑시덴탈 스파이](../Page/엑시덴탈_스파이.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink"))
   - [영 건 2](../Page/영_건_2.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink"))
   - [용서받지 못한 자](../Page/용서받지_못한_자_\(1992년_영화\).md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 실키(베벌리 엘리어트)
-  - [왕의 춤](https://ko.wikipedia.org/wiki/왕의_춤 "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 줄리 ([클레르 케임](https://ko.wikipedia.org/wiki/클레르_케임 "wikilink"))
+  - [왕의 춤](../Page/왕의_춤.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 줄리 ([클레르 케임](https://ko.wikipedia.org/wiki/클레르_케임 "wikilink"))
   - [용행천하](https://ko.wikipedia.org/wiki/용행천하 "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 안나 ([앤 리케츠](https://ko.wikipedia.org/wiki/앤_리케츠 "wikilink"))
   - [음식남녀](../Page/음식남녀.md "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink"))
   - [정고전가](https://ko.wikipedia.org/wiki/정고전가 "wikilink") ([KBS](https://ko.wikipedia.org/wiki/KBS "wikilink")) - 바나나 ([구숙정](https://ko.wikipedia.org/wiki/구숙정 "wikilink"))

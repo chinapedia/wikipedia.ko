@@ -289,14 +289,6 @@
 <td><p>2018년</p></td>
 </tr>
 <tr class="odd">
-<td><p>21</p></td>
-<td><p><a href="../Page/롭_엘리엇.md" title="wikilink">롭 엘리엇</a></p></td>
-<td><p><a href="../Page/아일랜드.md" title="wikilink">아일랜드</a></p></td>
-<td></td>
-<td><p><a href="../Page/찰턴_애슬레틱_FC.md" title="wikilink">찰턴 애슬레틱</a></p></td>
-<td><p>2011년</p></td>
-</tr>
-<tr class="even">
 <td><p>26</p></td>
 <td><p>칼 달로</p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
@@ -304,7 +296,23 @@
 <td><p><a href="../Page/노팅엄_포리스트_FC.md" title="wikilink">노팅엄 포리스트</a></p></td>
 <td><p>2014년</p></td>
 </tr>
+<tr class="even">
+<td><p>29</p></td>
+<td><p>마크 길레스피</p></td>
+<td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
+<td></td>
+<td><p><a href="../Page/머더웰_FC.md" title="wikilink">머더웰</a></p></td>
+<td><p>2020년</p></td>
+</tr>
 <tr class="odd">
+<td><p>41</p></td>
+<td><p>댄 랭글리</p></td>
+<td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
+<td></td>
+<td><p>유소년 팀¹</p></td>
+<td><p>2020년</p></td>
+</tr>
+<tr class="even">
 <td><p>수비수</p></td>
 <td></td>
 <td></td>
@@ -312,7 +320,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2</p></td>
 <td><p><a href="../Page/키어런_클라크.md" title="wikilink">키어런 클라크</a></p></td>
 <td><p><a href="../Page/아일랜드.md" title="wikilink">아일랜드</a></p></td>
@@ -320,7 +328,7 @@
 <td><p><a href="../Page/애스턴_빌라_FC.md" title="wikilink">애스턴 빌라</a></p></td>
 <td><p>2016년</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3</p></td>
 <td><p><a href="../Page/폴_더밋.md" title="wikilink">폴 더밋</a></p></td>
 <td><p><a href="../Page/웨일스.md" title="wikilink">웨일스</a></p></td>
@@ -328,7 +336,7 @@
 <td><p>유소년 팀¹</p></td>
 <td><p>2011년</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="../Page/파비안_셰어.md" title="wikilink">파비안 셰어</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/스위스" title="wikilink">스위스</a></p></td>
@@ -336,13 +344,21 @@
 <td><p><a href="../Page/데포르티보_라코루냐.md" title="wikilink">데포르티보 라코루냐</a></p></td>
 <td><p>2018년</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6</p></td>
 <td><p>자말 라셀스</p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
 <td></td>
 <td><p><a href="../Page/노팅엄_포리스트_FC.md" title="wikilink">노팅엄 포리스트</a></p></td>
 <td><p>2014년</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>자말 루이스</p></td>
+<td><p><a href="../Page/북아일랜드.md" title="wikilink">북아일랜드</a></p></td>
+<td></td>
+<td><p><a href="../Page/노리치_시티_FC.md" title="wikilink">노리치 시티</a></p></td>
+<td><p>2020년</p></td>
 </tr>
 <tr class="even">
 <td><p>17</p></td>
@@ -385,20 +401,20 @@
 <td><p>2016년</p></td>
 </tr>
 <tr class="odd">
-<td><p>28</p></td>
-<td><p><a href="../Page/대니_로즈.md" title="wikilink">대니 로즈</a>²</p></td>
-<td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
-<td></td>
-<td><p><a href="../Page/토트넘_홋스퍼_FC.md" title="wikilink">토트넘 홋스퍼</a></p></td>
-<td><p>2020년</p></td>
-</tr>
-<tr class="even">
 <td><p>미드필더</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>매티 롱스태프</p></td>
+<td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
+<td></td>
+<td><p>유소년 팀¹</p></td>
+<td><p>2019년</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
@@ -433,12 +449,44 @@
 <td><p>2016년</p></td>
 </tr>
 <tr class="odd">
+<td><p>16</p></td>
+<td><p><a href="../Page/제프_헨드릭.md" title="wikilink">제프 헨드릭</a></p></td>
+<td><p><a href="../Page/아일랜드.md" title="wikilink">아일랜드</a></p></td>
+<td></td>
+<td><p><a href="../Page/번리_FC.md" title="wikilink">번리</a></p></td>
+<td><p>2020년</p></td>
+</tr>
+<tr class="even">
+<td><p>21</p></td>
+<td><p><a href="../Page/라이언_프레이저.md" title="wikilink">라이언 프레이저</a></p></td>
+<td><p><a href="../Page/스코틀랜드.md" title="wikilink">스코틀랜드</a></p></td>
+<td></td>
+<td><p><a href="../Page/AFC_본머스.md" title="wikilink">본머스</a></p></td>
+<td><p>2020년</p></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>제이콥 머피</p></td>
+<td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
+<td></td>
+<td><p><a href="../Page/노리치_시티_FC.md" title="wikilink">노리치 시티</a></p></td>
+<td><p>2017년</p></td>
+</tr>
+<tr class="even">
 <td><p>24</p></td>
 <td><p>미겔 알미론</p></td>
 <td><p><a href="../Page/파라과이.md" title="wikilink">파라과이</a></p></td>
 <td></td>
 <td><p><a href="../Page/애틀랜타_유나이티드_FC.md" title="wikilink">애틀랜타 유나이티드</a></p></td>
 <td><p>2019년</p></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+<td><p>앙리 세베</p></td>
+<td><p><a href="../Page/세네갈.md" title="wikilink">세네갈</a></p></td>
+<td></td>
+<td><p><a href="../Page/FC_지롱댕_드_보르도.md" title="wikilink">지롱댕 드 보르도</a></p></td>
+<td><p>2016년</p></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>
@@ -449,6 +497,14 @@
 <td><p>2016년</p></td>
 </tr>
 <tr class="odd">
+<td><p>32</p></td>
+<td><p>대니얼 발레이저</p></td>
+<td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
+<td></td>
+<td><p>유소년 팀¹</p></td>
+<td><p>2015년</p></td>
+</tr>
+<tr class="even">
 <td><p>36</p></td>
 <td><p>션 롱스태프</p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
@@ -456,23 +512,7 @@
 <td><p>유소년 팀¹</p></td>
 <td><p>2016년</p></td>
 </tr>
-<tr class="even">
-<td><p>43</p></td>
-<td><p>매티 롱스태프</p></td>
-<td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
-<td></td>
-<td><p>유소년 팀¹</p></td>
-<td><p>2019년</p></td>
-</tr>
 <tr class="odd">
-<td><p>-</p></td>
-<td><p>앙리 세베³</p></td>
-<td><p><a href="../Page/세네갈.md" title="wikilink">세네갈</a></p></td>
-<td></td>
-<td><p><a href="../Page/FC_지롱댕_드_보르도.md" title="wikilink">지롱댕 드 보르도</a></p></td>
-<td><p>2016년</p></td>
-</tr>
-<tr class="even">
 <td><p>공격수</p></td>
 <td></td>
 <td></td>
@@ -480,7 +520,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7</p></td>
 <td><p><a href="../Page/앤디_캐럴.md" title="wikilink">앤디 캐럴</a></p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
@@ -488,7 +528,7 @@
 <td><p><a href="../Page/웨스트햄_유나이티드_FC.md" title="wikilink">웨스트햄 유나이티드</a></p></td>
 <td><p>2019년</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9</p></td>
 <td><p>조엘린톤</p></td>
 <td><p><a href="../Page/브라질.md" title="wikilink">브라질</a></p></td>
@@ -496,7 +536,7 @@
 <td><p><a href="../Page/TSG_1899_호펜하임.md" title="wikilink">호펜하임</a></p></td>
 <td><p>2019년</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12</p></td>
 <td><p><a href="../Page/드와이트_게일.md" title="wikilink">드와이트 게일</a></p></td>
 <td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
@@ -504,8 +544,16 @@
 <td><p><a href="../Page/크리스털_팰리스_FC.md" title="wikilink">크리스털 팰리스</a></p></td>
 <td><p>2016년</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>13</p></td>
+<td><p><a href="../Page/칼럼_윌슨.md" title="wikilink">칼럼 윌슨</a></p></td>
+<td><p><a href="../Page/잉글랜드.md" title="wikilink">잉글랜드</a></p></td>
+<td></td>
+<td><p><a href="../Page/AFC_본머스.md" title="wikilink">본머스</a></p></td>
+<td><p>2020년</p></td>
+</tr>
+<tr class="even">
+<td><p>27</p></td>
 <td><p><a href="../Page/무토_요시노리.md" title="wikilink">무토 요시노리</a></p></td>
 <td><p><a href="../Page/일본.md" title="wikilink">일본</a></p></td>
 <td></td>
@@ -517,11 +565,8 @@
 
 <small>¹뉴캐슬 유나이티드 유소년 팀 출신</small>
 <small>²임대 선수</small>
-<small>³25인 명단 제외</small>
 
 ### 임대 선수 명단
-
-{{클럽팀 선수명단|번호= | 국적=대한민국 | 포지션=MF | 이름=기성용 [마요르카](https://ko.wikipedia.org/wiki/마요르카 "wikilink"))
 
 ### 주목할 만한 선수
 

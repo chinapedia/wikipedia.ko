@@ -20,7 +20,7 @@
 | Track 5 <Love It>                                                  |                                                       |                                                                  |                                                                |
 | Track 6 \<헷갈려 (Confusing)\>                                        |                                                       |                                                                  |                                                                |
 | [9월 29일](../Page/9월_29일.md "wikilink")                             | [GOT7](https://ko.wikipedia.org/wiki/GOT7 "wikilink") | 미니 4집 [MAD](../Page/MAD_\(GOT7의_음반\).md "wikilink")              | Track 1 \<**니가 하면**\>                                          |
-| [10월 20일](../Page/10월_20일.md "wikilink")                           | [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") | 미니 1집 [THE STORY BEGINS](../Page/THE_STORY_BEGINS.md "wikilink") | Track 1 \<**OOH-AHH하게 (우아하게)**\>                               |
+| [10월 20일](../Page/10월_20일.md "wikilink")                           | [트와이스](../Page/트와이스.md "wikilink")                    | 미니 1집 [THE STORY BEGINS](../Page/THE_STORY_BEGINS.md "wikilink") | Track 1 \<**OOH-AHH하게 (우아하게)**\>                               |
 
 ### 2016년
 

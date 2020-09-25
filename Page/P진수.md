@@ -159,7 +159,7 @@
 
 원래 [수론](https://ko.wikipedia.org/wiki/수론 "wikilink")에서 도입되었지만, 오늘날 *p*진수는 초기의 목적에 비해 훨씬 더 다양한 분야에서 사용되고 있다. 예를 들어 [p진 해석학은](https://ko.wikipedia.org/wiki/p진_해석학 "wikilink") [미적분학](../Page/미적분학.md "wikilink")의 *p*진법 버전이라 할 수 있다.
 
-[이론물리학](https://ko.wikipedia.org/wiki/이론물리학 "wikilink")에서도 *p*진수가 종종 사용된다.\[2\]\[3\]\[4\]\[5\]
+[이론물리학](../Page/이론물리학.md "wikilink")에서도 *p*진수가 종종 사용된다.\[2\]\[3\]\[4\]\[5\]
 
 [컴퓨터 과학에서는](../Page/컴퓨터_과학.md "wikilink") [유리수](../Page/유리수.md "wikilink")를 나타내는 한 방법으로 사용된다.\[6\]
 

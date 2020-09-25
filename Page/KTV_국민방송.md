@@ -272,7 +272,7 @@
   - 포토에세이 대한민국
   - [한국기행](../Page/한국기행.md "wikilink")-[EBS1](../Page/EBS_1TV.md "wikilink")
   - 한국의 맛
-  - [한국인의 밥상](../Page/한국인의_밥상.md "wikilink")-[KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
+  - [한국인의 밥상](../Page/한국인의_밥상.md "wikilink")-[KBS1](../Page/KBS_1TV.md "wikilink")
   - 한지붕 세가족
   - 해외 특선다큐
   - 행복한 오후

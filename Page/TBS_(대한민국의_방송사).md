@@ -71,7 +71,7 @@ TBS가 재단법인과 출범함과 동시에 영문명도 "Seoul Traffic Broadc
 
 ### TBS TV
 
-  - 채널: 216번([KT](../Page/KT.md "wikilink") [올레TV](https://ko.wikipedia.org/wiki/올레TV "wikilink")), 167번([SK](https://ko.wikipedia.org/wiki/SK_브로드밴드 "wikilink") [B TV](../Page/B_TV.md "wikilink")), 245번([LG](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") [U+ TV](../Page/U+_TV.md "wikilink")), 316번(양천, 북인천: 225번)([CJ헬로](https://ko.wikipedia.org/wiki/CJ헬로 "wikilink")), 216번([티브로드](../Page/티브로드.md "wikilink")), 153번([딜라이브](../Page/딜라이브.md "wikilink")), 92-2, 169번(대구: 79-2)([CMB](../Page/CMB_\(방송사\).md "wikilink")), 347번([현대HCN](../Page/현대HCN.md "wikilink"))
+  - 채널: 216번([KT](../Page/KT.md "wikilink") [올레TV](https://ko.wikipedia.org/wiki/올레TV "wikilink")), 167번([SK](../Page/SK브로드밴드.md "wikilink") [B TV](../Page/B_TV.md "wikilink")), 245번([LG](https://ko.wikipedia.org/wiki/LG_U+ "wikilink") [U+ TV](../Page/U+_TV.md "wikilink")), 316번(양천, 북인천: 225번)([LG헬로비전](../Page/LG헬로비전.md "wikilink")), 216번([SK브로드밴드](../Page/SK브로드밴드.md "wikilink")), 153번([딜라이브](../Page/딜라이브.md "wikilink")), 92-2, 169번(대구: 79-2)([CMB](../Page/CMB_\(방송사\).md "wikilink")), 347번([현대HCN](../Page/현대HCN.md "wikilink"))
   - 가시청 지역: [서울특별시](../Page/서울특별시.md "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink"), [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") 전 지역, [수도권](https://ko.wikipedia.org/wiki/경기_지방 "wikilink") 외 일부 지역
 
 ## 프로그램
@@ -86,19 +86,19 @@ TBS가 재단법인과 출범함과 동시에 영문명도 "Seoul Traffic Broadc
   - 07:06,07:31,08:11,08:31《[김어준의 뉴스공장](../Page/김어준의_뉴스공장.md "wikilink")》(진행: [김어준](../Page/김어준.md "wikilink")) (1부), (2부), (3부), (4부)
   - 08:00《[TBS 아침종합뉴스](https://ko.wikipedia.org/wiki/TBS_아침종합뉴스 "wikilink")》(진행: TBS 아나운서)
   - 09:00,09:31《[김규리의 퐁당퐁당](http://tbs.seoul.kr/cont/FM/splash/intro/intro.do?programId=PG2061664A)》(진행: [김규리](../Page/김규리_\(1979년_8월\).md "wikilink")) (1부), (2부)
-  - 10:06,10:31,11:06,11:31《[좋은 사람들 송정애입니다](../Page/좋은_사람들_\(라디오_프로그램\).md "wikilink")》(진행: 송정애) (1부), (2부), (3부), (4부)
+  - 10:06,10:31,11:00,11:31《[좋은 사람들 송정애입니다](../Page/좋은_사람들_\(라디오_프로그램\).md "wikilink")》(진행: 송정애) (1부), (2부), (3부), (4부)
   - 11:56《[우리말 고운말](http://www.tbs.seoul.kr/cont/FM/KoreanWords/notice/notice.do)》(진행: 아나운서부)
   - 12:00《[TBS 정오종합뉴스](https://ko.wikipedia.org/wiki/TBS_정오종합뉴스 "wikilink")》(진행: 아나운서)
   - 12:11,12:31,13:00,13:31《[배칠수, 박희진의 9595쇼](../Page/9595쇼.md "wikilink")》(진행: [배칠수](../Page/배칠수.md "wikilink"), [박희진](../Page/박희진.md "wikilink")) (1부), (2부), (3부), (4부)
-  - 14:06,14:31,15:06,15:31《[최일구의 허리케인 라디오](http://tbs.seoul.kr/cont/FM/Hurricane/intro/intro.do?programId=PG2061460A)》(진행: [최일구](../Page/최일구.md "wikilink")) (1부), (2부), (3부), (4부)
-  - 16:06,16:31,17:06,17:31《[이은미와 함께라면](http://tbs.seoul.kr/cont/FM/WithEun/intro/intro.do?programId=PG2061716A)》(진행: [이은미](../Page/이은미_\(1966년\).md "wikilink")) (1부), (2부), (3부), (4부)
+  - 14:06,14:31,15:00,15:31《[최일구의 허리케인 라디오](http://tbs.seoul.kr/cont/FM/Hurricane/intro/intro.do?programId=PG2061460A)》(진행: [최일구](../Page/최일구.md "wikilink")) (1부), (2부), (3부), (4부)
+  - 16:06,16:31,17:00,17:31《[이은미와 함께라면](http://tbs.seoul.kr/cont/FM/WithEun/intro/intro.do?programId=PG2061716A)》(진행: [이은미](../Page/이은미_\(1966년\).md "wikilink")) (1부), (2부), (3부), (4부)
   - 17:55《[TBS게시판](http://www.tbs.seoul.kr/cont/FM/tbsBoard/intro/intro.do)》(진행: TBS 아나운서)
   - 18:00《[TBS 저녁종합뉴스](https://ko.wikipedia.org/wiki/TBS_저녁종합뉴스 "wikilink")》 (진행: TBS 아나운서)
-  - 18:18,18:31,19:06,19:31《[김지윤의 이브닝쇼](http://tbs.seoul.kr/cont/FM/eveningshow/intro/intro.do?programId=PG2061787A)》(진행: [김지윤](https://ko.wikipedia.org/wiki/김지윤 "wikilink")) (1부), (2부), (3부), (4부)
+  - 18:11,18:31,19:00,19:31《[김지윤의 이브닝쇼](http://tbs.seoul.kr/cont/FM/eveningshow/intro/intro.do?programId=PG2061787A)》(진행: [김지윤](https://ko.wikipedia.org/wiki/김지윤 "wikilink")) (1부), (2부), (3부), (4부)
   - 20:06,20:31《[아닌 밤중에 주진우입니다](http://tbs.seoul.kr/cont/FM/Ju/intro/intro.do?programId=PG2061767A)》(진행: [주진우](../Page/주진우.md "wikilink")) (1부), (2부)
   - 21:00,21:21《[이가희의 러브레터](http://www.tbs.seoul.kr/cont/FM/loveletter/intro/intro.do)》(진행: 이가희) (1부), (2부)
   - 21:44《[우리동네 라디오](http://tbs.seoul.kr/cont/FM/radio/intro/intro.do?programId=PG2061677A)》
-  - 22:06,23:00《[달콤한 밤, 황진하입니다](http://www.tbs.seoul.kr/cont/FM/sweet_night/intro/intro.do)》(진행: [황진하](../Page/황진하_\(아나운서\).md "wikilink")) (1부), (2부)
+  - 22:00,23:00《[달콤한 밤, 황진하입니다](http://www.tbs.seoul.kr/cont/FM/sweet_night/intro/intro.do)》(진행: [황진하](../Page/황진하_\(아나운서\).md "wikilink")) (1부), (2부)
   - 00:00,01:00《[TBS MUSIC ONLY](http://tbs.seoul.kr/cont/FM/tbsMusicOnly/music1/musiclist1.do?programId=PG2061842A)》 (1부), (2부)
   - 다음 프로그램은 계획 정파가 있는 매월 첫 째주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink")에는 방송되지 않는다.
       - 익일 02:00《[TBS MUSIC ONLY](http://tbs.seoul.kr/cont/FM/tbsMusicOnly/music1/musiclist1.do?programId=PG2061842A)》 (3부)
@@ -117,9 +117,8 @@ TBS가 재단법인과 출범함과 동시에 영문명도 "Seoul Traffic Broadc
   - 12:11,12:31,13:00,13:31《[배칠수, 박희진의 9595쇼](../Page/9595쇼.md "wikilink")》(진행: [배칠수](../Page/배칠수.md "wikilink"), [박희진](../Page/박희진.md "wikilink")) (1부), (2부), (3부), (4부)
   - 14:06,14:31,15:00,15:31《[최일구의 허리케인 라디오](http://tbs.seoul.kr/cont/FM/Hurricane/intro/intro.do?programId=PG2061460A)》(진행: [최일구](../Page/최일구.md "wikilink")) (1부), (2부), (3부), (4부)
   - 16:06,16:31,17:00《[김인석, 윤성호의 진짜 라디오](http://tbs.seoul.kr/cont/FM/realradio/intro/intro.do?programId=PG2061770A)》(진행: [김인석](../Page/김인석.md "wikilink"), [윤성호](../Page/윤성호.md "wikilink")) (1부), (2부), (3부)
-  - 18:00《[TBS 저녁종합뉴스](https://ko.wikipedia.org/wiki/TBS_저녁종합뉴스 "wikilink")》(진행: 아나운서)
-  - 18:11,18:31,19:00,19:31《[웅산의 스윗멜로디](http://www.tbs.seoul.kr/cont/FM/swtMelody/intro/intro.do)》(토요일, 일요일) (진행: [웅산](https://ko.wikipedia.org/wiki/웅산 "wikilink")) (1부), (2부), (3부), (4부)
-  - 20:06,20:31,21:00,21:31《[나선홍의 주말이 좋다](http://www.tbs.seoul.kr/cont/FM/WeekendGood/intro/intro.do)》(토요일, 일요일) (진행: 나선홍) (1부), (2부), (3부), (4부)
+  - 18:00,18:31,19:00,19:31《[웅산의 스윗멜로디](http://www.tbs.seoul.kr/cont/FM/swtMelody/intro/intro.do)》(토요일, 일요일) (진행: [웅산](https://ko.wikipedia.org/wiki/웅산 "wikilink")) (1부), (2부), (3부), (4부)
+  - 20:00,20:31,21:00,21:31《[나선홍의 주말이 좋다](http://www.tbs.seoul.kr/cont/FM/WeekendGood/intro/intro.do)》(토요일, 일요일) (진행: 나선홍) (1부), (2부), (3부), (4부)
   - 22:00,23:00《[달콤한 밤, 황진하입니다](http://www.tbs.seoul.kr/cont/FM/sweet_night/intro/intro.do)》(진행: [황진하](../Page/황진하_\(아나운서\).md "wikilink")) (1부), (2부)
   - 00:00,01:00《[TBS MUSIC ONLY](http://tbs.seoul.kr/cont/FM/tbsMusicOnly/music1/musiclist1.do?programId=PG2061842A)》 (1부), (2부)
       - 익일 02:00《[TBS MUSIC ONLY](http://tbs.seoul.kr/cont/FM/tbsMusicOnly/music1/musiclist1.do?programId=PG2061842A)》 (3부)
@@ -247,11 +246,9 @@ FM 95.1㎒ 시민의 방송 TBS에서 OO를 알려드립니다
   - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
   - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
   - [EBS FM](../Page/EBS_FM.md "wikilink")
-  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
-  - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
+  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
-  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
-  - [극동방송](../Page/극동방송.md "wikilink")
+  - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
 
 ## 각주
 

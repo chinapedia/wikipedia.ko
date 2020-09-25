@@ -9,7 +9,7 @@
 
 대표적인 장수 프로그램으로 [여성시대](../Page/여성시대_\(라디오_프로그램\).md "wikilink")(1975년\~), [싱글벙글쇼](../Page/싱글벙글쇼.md "wikilink")(1973년\~), [지금은 라디오 시대](../Page/지금은_라디오_시대.md "wikilink")(1995년\~), [별이 빛나는 밤에](https://ko.wikipedia.org/wiki/별이_빛나는_밤에 "wikilink")(1969년\~) 등이 있다.
 
-아침 5시(주말, 공휴일은 아침 6시)부터 밤 11시까지 매시 정각에 뉴스를 방송하며 분량은 5분이다. 월요일 \~ 토요일 아침 6시에는 [MBC TV에서](../Page/MBC_TV.md "wikilink") 방송되는 [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") 1부를 15분간 수중계하고, 매일 낮 12시에는 [MBC 정오종합뉴스를](../Page/MBC_정오종합뉴스.md "wikilink") 평일에는 20분간, 주말에는 10분간, 평일 저녁 7시에는 [MBC 저녁앤뉴스를](https://ko.wikipedia.org/wiki/MBC_저녁앤뉴스 "wikilink") 10분간 방송한다.
+아침 5시(주말, 공휴일은 아침 6시)부터 밤 11시까지 매시 정각에 뉴스를 방송하며 분량은 5분이다. 월요일 \~ 토요일 아침 6시에는 [MBC TV에서](../Page/MBC_TV.md "wikilink") 방송되는 [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") 1부를 15분간 수중계하고, 매일 낮 12시에는 [MBC 정오종합뉴스를](../Page/MBC_정오종합뉴스.md "wikilink") 평일에는 20분간, 주말과 공휴일에는 10분간, 평일 저녁 7시에는 [MBC 저녁앤뉴스를](https://ko.wikipedia.org/wiki/MBC_저녁앤뉴스 "wikilink") 10분간 방송한다.
 
 오전 6시 57분부터 오후 9시 57분까지 57분 교통정보를 방송(일요일은 오전 7시 57분부터)하며, 주로 수도권 시내 및 주요 도로와 고속도로 정보를 제공한다. 이 정보는 수도권에서만 방송하며 다른 제휴국들 중 ITS(지능형 교통 시스템)가 설치된 광역시급 지역은 출퇴근시간에 자체적인 교통정보를 방송하고 있다.
 
@@ -66,7 +66,7 @@
 </tr>
 <tr class="even">
 <td><p>05:05 (평일)<br />
-05:00 (주말,공휴일)</p></td>
+05:00 (휴일)</p></td>
 <td><p><a href="../Page/건강한_아침_황선숙입니다.md" title="wikilink">건강한 아침 황선숙입니다</a></p></td>
 <td><p>전국방송</p></td>
 </tr>
@@ -113,80 +113,92 @@
 <td><p>○</p></td>
 </tr>
 <tr class="even">
-<td><p>12:00</p></td>
-<td><p><a href="../Page/MBC_정오종합뉴스.md" title="wikilink">MBC 정오종합뉴스</a></p></td>
+<td><p>12:00<br />
+12:15 (평일)</p></td>
+<td><p><a href="../Page/MBC_정오종합뉴스.md" title="wikilink">MBC 정오종합뉴스</a><br />
+<a href="../Page/MBC_정오종합뉴스.md" title="wikilink">권역별 뉴스</a></p></td>
 <td><p>전국방송</p></td>
 </tr>
 <tr class="odd">
+<td><p>자체방송</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>12:20 (평일)<br />
-12:10 (주말,공휴일)</p></td>
+12:10 (휴일)</p></td>
 <td><p><a href="../Page/싱글벙글쇼.md" title="wikilink">싱글벙글쇼 배기성, 허일후입니다</a> (1, 2, 3, 4부)</p></td>
 <td><p>전국방송</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>14:05</p></td>
 <td><p><a href="../Page/두시만세.md" title="wikilink">박준형, 정경미의 2시만세</a> (1, 2, 3, 4부)</p></td>
 <td><p>o</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>16:05</p></td>
 <td><p><a href="../Page/지금은_라디오_시대.md" title="wikilink">정선희, 문천식의 지금은 라디오 시대</a> (1, 2, 3, 4부)</p></td>
 <td><p>전국방송</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>18:05</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/뉴스_하이킥" title="wikilink">표창원의 뉴스 하이킥</a> (1, 2부)<br />
 <a href="../Page/좋은_주말.md" title="wikilink">이윤석, 전영미의 좋은 주말</a> (1, 2부)</p></td>
 <td><p>x<br />
 o</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>19:00 (평일)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC_저녁앤뉴스" title="wikilink">MBC 저녁앤뉴스</a></p></td>
 <td><p>전국방송</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>19:10</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/뉴스_하이킥" title="wikilink">표창원의 뉴스 하이킥</a> (3, 4부)<br />
 <a href="../Page/좋은_주말.md" title="wikilink">이윤석, 전영미의 좋은 주말</a> (3, 4부)</p></td>
 <td><p>x<br />
 o</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>20:05</p></td>
 <td><p><a href="../Page/원더풀_라디오_(라디오_프로그램).md" title="wikilink">원더풀 라디오 강수지입니다</a> (1, 2, 3, 4부)<br />
 <a href="../Page/좋은_주말.md" title="wikilink">이윤석, 전영미의 좋은 주말</a> (5, 6, 7부)</p></td>
 <td><p>전국방송</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>21:25 (주말)</p></td>
 <td><p><a href="../Page/책을_듣다.md" title="wikilink">책을 듣다</a></p></td>
 <td><p>전국방송</p></td>
 </tr>
-<tr class="odd">
-<td><p>22:05</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/별이_빛나는_밤에" title="wikilink">김이나의 별이 빛나는 밤에</a> (1, 2, 3, 4부)</p></td>
-<td><p>x</p></td>
-</tr>
 <tr class="even">
+<td><p>22:05</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/별이_빛나는_밤에" title="wikilink">김이나의 별이 빛나는 밤에</a> (주말만 전국방송) (1, 2, 3, 4부)</p></td>
+<td><p>x (주말 o)</p></td>
+</tr>
+<tr class="odd">
 <td><p>00:00</p></td>
 <td><p><a href="../Page/아이돌_라디오.md" title="wikilink">아이돌 라디오</a> (평일)<br />
 <a href="https://ko.wikipedia.org/wiki/아이돌_스테이션" title="wikilink">아이돌 스테이션</a> (주말)</p></td>
 <td><p>전국방송</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>01:00</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/레트로팝스" title="wikilink">조PD의 레트로팝스</a></p></td>
 <td><p>전국방송</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>02:00</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/낭만가요" title="wikilink">낭만가요</a></p></td>
 <td><p>전국방송</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>04:00</p></td>
 <td><p><a href="../Page/새벽다방.md" title="wikilink">서인의 새벽다방</a></p></td>
+<td><p>전국방송</p></td>
+</tr>
+<tr class="odd">
+<td><p>04:55</p></td>
+<td><p>오늘의 문화방송</p></td>
 <td><p>전국방송</p></td>
 </tr>
 <tr class="even">
@@ -203,6 +215,7 @@ o</p></td>
   - 라디오 로그인이 없는 지역국 : 충북, 영동, 원주(인터넷 익스플로러), 포항
   - 춘천, 대전, 대구, 부산, 여수, 제주, 울산, 경남 등은 네이버, 카카오, 지메일로 이용해야 접속할 수 있다.
   - [중파방송](../Page/중파방송.md "wikilink")은 대구광역시 지역과 충청북도 충주시 지역은 방송 자체가 중단되어서 [FM 방송으로만](../Page/FM_방송.md "wikilink") 들을 수 있다.
+  - 단. 새벽시간은 뉴스를 하지 않고, 모두 전국방송이다.
 
 ## 특집 프로그램
 
@@ -214,32 +227,32 @@ MBC 표준FM의 명절 특집 생방송 프로그램이다. 매년 명절 연휴
 
 ### 현재 진행하는 DJ들
 
-| 진행자                                                 | 현재 진행 프로그램                                                                                                                                                                                   | 이전 진행 프로그램                                                                                                                                                                                                                                          |
-| --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [황선숙](../Page/황선숙.md "wikilink")                    | 건강한 아침 황선숙입니다                                                                                                                                                                                |                                                                                                                                                                                                                                                     |
-| [류수민](../Page/류수민.md "wikilink")                    | 아침 & 뉴스 류수민입니다                                                                                                                                                                               | [세상을 여는 아침](../Page/세상을_여는_아침.md "wikilink"), [아침을 달린다](https://ko.wikipedia.org/wiki/아침을_달린다 "wikilink"), [휴먼라디오, 우리](https://ko.wikipedia.org/wiki/휴먼라디오,_우리 "wikilink"), [이 사람이 사는 세상](../Page/이_사람이_사는_세상.md "wikilink")                        |
-| [김겨울](https://ko.wikipedia.org/wiki/김겨울 "wikilink") | [라디오 북클럽](../Page/라디오_북클럽.md "wikilink")                                                                                                                                                     |                                                                                                                                                                                                                                                     |
-| [김종배](../Page/김종배.md "wikilink")                    | 김종배의 시선집중                                                                                                                                                                                    | 색다른 시선 김종배입니다 ([tbs](../Page/TBS_\(대한민국의_방송사\).md "wikilink"))                                                                                                                                                                                      |
-| 노중훈                                                 | 노중훈의 여행의 맛 (토)                                                                                                                                                                               |                                                                                                                                                                                                                                                     |
-| 심용환                                                 | 타박타박 세계사 (일)                                                                                                                                                                                 |                                                                                                                                                                                                                                                     |
-| 이진우                                                 | 이진우의 손에 잡히는 경제                                                                                                                                                                               |                                                                                                                                                                                                                                                     |
-| [양희은](../Page/양희은.md "wikilink")                    | 여성시대 양희은, 서경석입니다                                                                                                                                                                             |                                                                                                                                                                                                                                                     |
-| [서경석](https://ko.wikipedia.org/wiki/서경석 "wikilink") | FM은 내친구 ([FM4U](../Page/MBC_FM4U.md "wikilink")), [서경석의 뮤직쇼](../Page/뮤직쇼.md "wikilink") ([KBS 쿨FM](../Page/KBS_제2FM.md "wikilink"))                                                          |                                                                                                                                                                                                                                                     |
-| [서유리](../Page/서유리.md "wikilink")                    | 모두의 퀴즈생활 서유리입니다                                                                                                                                                                              |                                                                                                                                                                                                                                                     |
-| [배기성](../Page/배기성.md "wikilink")                    | 싱글벙글쇼 배기성, 허일후입니다                                                                                                                                                                            | [캔의 미스터 라디오](../Page/미스터_라디오.md "wikilink") ([KBS 쿨FM](../Page/KBS_제2FM.md "wikilink")), 배기성의 라디오킹 ([tbs](../Page/TBS_\(대한민국의_방송사\).md "wikilink"))                                                                                                 |
-| [허일후](../Page/허일후.md "wikilink")                    | [세상을 여는 아침](../Page/세상을_여는_아침.md "wikilink") ([FM4U](../Page/MBC_FM4U.md "wikilink")), [비포 선라이즈 허일후입니다](../Page/비포_선라이즈_\(라디오_프로그램\).md "wikilink") ([FM4U](../Page/MBC_FM4U.md "wikilink")) |                                                                                                                                                                                                                                                     |
-| [박준형](../Page/박준형_\(희극인\).md "wikilink")            | 박준형, 정경미의 2시만세                                                                                                                                                                               | [생방송 좋은 주말 박준형, 유채영입니다](../Page/좋은_주말.md "wikilink")                                                                                                                                                                                                |
-| [정경미](https://ko.wikipedia.org/wiki/정경미 "wikilink") |                                                                                                                                                                                              |                                                                                                                                                                                                                                                     |
-| [정선희](../Page/정선희.md "wikilink")                    | 지금은 라디오 시대                                                                                                                                                                                   | [정오의 희망곡](../Page/정오의_희망곡.md "wikilink") ([FM4U](../Page/MBC_FM4U.md "wikilink")), [오늘 같은 밤](https://ko.wikipedia.org/wiki/오늘_같은_밤 "wikilink") ([SBS 파워FM](../Page/SBS_파워FM.md "wikilink"))                                                         |
-| [문천식](../Page/문천식.md "wikilink")                    |                                                                                                                                                                                              |                                                                                                                                                                                                                                                     |
-| [표창원](../Page/표창원.md "wikilink")                    | [뉴스 하이킥](https://ko.wikipedia.org/wiki/뉴스_하이킥 "wikilink")                                                                                                                                    |                                                                                                                                                                                                                                                     |
-| [이윤석](../Page/이윤석_\(희극인\).md "wikilink")            | 이윤석, 전영미의 좋은 주말 (주말)                                                                                                                                                                         | [이윤석, 김구라의 오징어](../Page/오징어_\(라디오_프로그램\).md "wikilink") ([KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink"))                                                                                                                                              |
-| [전영미](https://ko.wikipedia.org/wiki/전영미 "wikilink") | [배철수, 전영미의 9595쇼](../Page/9595쇼.md "wikilink") ([tbs](../Page/TBS_\(대한민국의_방송사\).md "wikilink"))                                                                                              |                                                                                                                                                                                                                                                     |
-| [강수지](../Page/강수지.md "wikilink")                    | 원더풀 라디오 강수지입니다                                                                                                                                                                               |                                                                                                                                                                                                                                                     |
-| [김이나](../Page/김이나.md "wikilink")                    | 김이나의 별이 빛나는 밤에                                                                                                                                                                               | [밤편지](../Page/밤편지.md "wikilink")                                                                                                                                                                                                                    |
-| [정일훈](../Page/정일훈_\(가수\).md "wikilink")             | 아이돌 라디오                                                                                                                                                                                      |                                                                                                                                                                                                                                                     |
-| 조정선                                                 | 레트로팝스                                                                                                                                                                                        | [조PD의 새벽다방](../Page/새벽다방.md "wikilink"), [비틀즈 라디오](../Page/비틀즈_라디오.md "wikilink")                                                                                                                                                                   |
-| [서인](../Page/서인_\(아나운서\).md "wikilink")             | 서인의 새벽다방                                                                                                                                                                                     | [휴먼라디오, 우리](https://ko.wikipedia.org/wiki/휴먼라디오,_우리 "wikilink"), [좋은 하루 서인입니다](https://ko.wikipedia.org/wiki/좋은_하루_서인입니다 "wikilink"), [왁자지껄 서인입니다](https://ko.wikipedia.org/wiki/왁자지껄_서인입니다 "wikilink"), [아이러브 스포츠](../Page/아이러브_스포츠.md "wikilink") |
+| 진행자                                                                                           | 현재 진행 프로그램                                                                                                                                                                                   | 이전 진행 프로그램                                                                                                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [황선숙](../Page/황선숙.md "wikilink")                                                              | 건강한 아침 황선숙입니다                                                                                                                                                                                |                                                                                                                                                                                                                                                     |
+| [류수민](../Page/류수민.md "wikilink")                                                              | 아침 & 뉴스 류수민입니다                                                                                                                                                                               | [세상을 여는 아침](../Page/세상을_여는_아침.md "wikilink"), [아침을 달린다](https://ko.wikipedia.org/wiki/아침을_달린다 "wikilink"), [휴먼라디오, 우리](https://ko.wikipedia.org/wiki/휴먼라디오,_우리 "wikilink"), [이 사람이 사는 세상](../Page/이_사람이_사는_세상.md "wikilink")                        |
+| [김겨울](https://ko.wikipedia.org/wiki/김겨울 "wikilink")                                           | [라디오 북클럽](../Page/라디오_북클럽.md "wikilink")                                                                                                                                                     |                                                                                                                                                                                                                                                     |
+| [김종배](../Page/김종배.md "wikilink")                                                              | 김종배의 시선집중                                                                                                                                                                                    | 색다른 시선 김종배입니다 ([tbs](../Page/TBS_\(대한민국의_방송사\).md "wikilink"))                                                                                                                                                                                      |
+| 노중훈                                                                                           | 노중훈의 여행의 맛 (토)                                                                                                                                                                               |                                                                                                                                                                                                                                                     |
+| 심용환                                                                                           | 타박타박 세계사 (일)                                                                                                                                                                                 |                                                                                                                                                                                                                                                     |
+| 이진우                                                                                           | 이진우의 손에 잡히는 경제                                                                                                                                                                               |                                                                                                                                                                                                                                                     |
+| [양희은](../Page/양희은.md "wikilink")                                                              | 여성시대 양희은, 서경석입니다                                                                                                                                                                             |                                                                                                                                                                                                                                                     |
+| [서경석](https://ko.wikipedia.org/wiki/서경석 "wikilink")                                           | FM은 내친구 ([FM4U](../Page/MBC_FM4U.md "wikilink")), [서경석의 뮤직쇼](../Page/뮤직쇼.md "wikilink") ([KBS 쿨FM](../Page/KBS_제2FM.md "wikilink"))                                                          |                                                                                                                                                                                                                                                     |
+| [서유리](../Page/서유리.md "wikilink")                                                              | 모두의 퀴즈생활 서유리입니다                                                                                                                                                                              |                                                                                                                                                                                                                                                     |
+| [배기성](../Page/배기성.md "wikilink")                                                              | 싱글벙글쇼 배기성, 허일후입니다                                                                                                                                                                            | [캔의 미스터 라디오](../Page/미스터_라디오.md "wikilink") ([KBS 쿨FM](../Page/KBS_제2FM.md "wikilink")), 배기성의 라디오킹 ([tbs](../Page/TBS_\(대한민국의_방송사\).md "wikilink"))                                                                                                 |
+| [허일후](../Page/허일후.md "wikilink")                                                              | [세상을 여는 아침](../Page/세상을_여는_아침.md "wikilink") ([FM4U](../Page/MBC_FM4U.md "wikilink")), [비포 선라이즈 허일후입니다](../Page/비포_선라이즈_\(라디오_프로그램\).md "wikilink") ([FM4U](../Page/MBC_FM4U.md "wikilink")) |                                                                                                                                                                                                                                                     |
+| [박준형](../Page/박준형_\(희극인\).md "wikilink")                                                      | 박준형, 정경미의 2시만세                                                                                                                                                                               | [생방송 좋은 주말 박준형, 유채영입니다](../Page/좋은_주말.md "wikilink")                                                                                                                                                                                                |
+| [정경미](https://ko.wikipedia.org/wiki/정경미 "wikilink")                                           |                                                                                                                                                                                              |                                                                                                                                                                                                                                                     |
+| [정선희](../Page/정선희.md "wikilink")                                                              | 지금은 라디오 시대                                                                                                                                                                                   | [정오의 희망곡](../Page/정오의_희망곡.md "wikilink") ([FM4U](../Page/MBC_FM4U.md "wikilink")), [오늘 같은 밤](https://ko.wikipedia.org/wiki/오늘_같은_밤 "wikilink") ([SBS 파워FM](../Page/SBS_파워FM.md "wikilink"))                                                         |
+| [문천식](../Page/문천식.md "wikilink")                                                              |                                                                                                                                                                                              |                                                                                                                                                                                                                                                     |
+| [표창원](../Page/표창원.md "wikilink")                                                              | [뉴스 하이킥](https://ko.wikipedia.org/wiki/뉴스_하이킥 "wikilink")                                                                                                                                    |                                                                                                                                                                                                                                                     |
+| [이윤석](../Page/이윤석_\(희극인\).md "wikilink")                                                      | 이윤석, 전영미의 좋은 주말 (주말)                                                                                                                                                                         | [이윤석, 김구라의 오징어](../Page/오징어_\(라디오_프로그램\).md "wikilink") ([KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink"))                                                                                                                                              |
+| [전영미](https://ko.wikipedia.org/wiki/전영미 "wikilink")                                           | [배철수, 전영미의 9595쇼](../Page/9595쇼.md "wikilink") ([tbs](../Page/TBS_\(대한민국의_방송사\).md "wikilink"))                                                                                              |                                                                                                                                                                                                                                                     |
+| [강수지](../Page/강수지.md "wikilink")                                                              | 원더풀 라디오 강수지입니다                                                                                                                                                                               |                                                                                                                                                                                                                                                     |
+| [김이나](../Page/김이나.md "wikilink")                                                              | 김이나의 별이 빛나는 밤에                                                                                                                                                                               | [밤편지](../Page/밤편지.md "wikilink")                                                                                                                                                                                                                    |
+| [영재](../Page/영재_\(1996년\).md "wikilink"), [영케이](https://ko.wikipedia.org/wiki/영케이 "wikilink") | 아이돌 라디오                                                                                                                                                                                      |                                                                                                                                                                                                                                                     |
+| 조정선                                                                                           | 레트로팝스                                                                                                                                                                                        | [조PD의 새벽다방](../Page/새벽다방.md "wikilink"), [비틀즈 라디오](../Page/비틀즈_라디오.md "wikilink")                                                                                                                                                                   |
+| [서인](../Page/서인_\(아나운서\).md "wikilink")                                                       | 서인의 새벽다방                                                                                                                                                                                     | [휴먼라디오, 우리](https://ko.wikipedia.org/wiki/휴먼라디오,_우리 "wikilink"), [좋은 하루 서인입니다](https://ko.wikipedia.org/wiki/좋은_하루_서인입니다 "wikilink"), [왁자지껄 서인입니다](https://ko.wikipedia.org/wiki/왁자지껄_서인입니다 "wikilink"), [아이러브 스포츠](../Page/아이러브_스포츠.md "wikilink") |
 
 ### 과거 진행했던 DJ들
 
@@ -488,7 +501,7 @@ MBC 표준FM의 명절 특집 생방송 프로그램이다. 매년 명절 연휴
   - [화제집중 전화를 받습니다](https://ko.wikipedia.org/wiki/화제집중_전화를_받습니다 "wikilink")
   - [홈런 출발 김동엽입니다](https://ko.wikipedia.org/wiki/홈런_출발_김동엽입니다 "wikilink")
   - [MBC 뉴스의 광장](../Page/MBC_뉴스의_광장.md "wikilink")
-  - [MBC 아침종합뉴스](https://ko.wikipedia.org/wiki/MBC_아침종합뉴스 "wikilink")
+  - [MBC 아침종합뉴스](../Page/MBC_아침종합뉴스.md "wikilink")
   - [MBC 뉴스와 경제](https://ko.wikipedia.org/wiki/MBC_뉴스와_경제_\(MBC_표준FM\) "wikilink")
   - [MBC 2시의 취재현장](../Page/MBC_2시의_취재현장.md "wikilink")
   - [MBC 저녁종합뉴스](https://ko.wikipedia.org/wiki/MBC_저녁종합뉴스 "wikilink")
@@ -589,8 +602,9 @@ MBC 표준FM의 명절 특집 생방송 프로그램이다. 매년 명절 연휴
 
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") - 오전 3시, 오전 6시, 오전 10시, 낮 12시, 오후 3시, 오후 4시, 오후 6시, 오후 9시 시보 광고 제공
   - [기아자동차](../Page/기아자동차.md "wikilink") - 오전 2시, 오전 8시, 오후 1시, 밤 12시 시보 광고 제공
-  - [에듀윌](https://ko.wikipedia.org/wiki/에듀윌 "wikilink") - 시보 알림 : 오전 7시, 오전 9시, 오후 2시, 오후 5시, 오후 7시, 오후 8시 시보 광고 제공
-  - 광고가 없는 시보 - 오전 1시, 오전 4시, 오전 5시, 오전 11시, 오후 10시, 오후 11시
+  - [에듀윌](https://ko.wikipedia.org/wiki/에듀윌 "wikilink") - 오전 7시, 오전 9시, 오후 2시, 오후 5시, 오후 7시, 오후 8시 시보 광고 제공
+  - [르노삼성자동차](../Page/르노삼성자동차.md "wikilink") - : 오전 4시, 오전 11시, 오후 10시, 오후 11시
+  - 광고가 없는 시보 - 오전 1시, 오전 5시
 
 ### 과거
 
@@ -614,9 +628,11 @@ MBC 표준FM의 명절 특집 생방송 프로그램이다. 매년 명절 연휴
 
 ## 같이 보기
 
-  - [TBS eFM](../Page/TBS_eFM.md "wikilink")
-  - [SBS TV](../Page/SBS_TV.md "wikilink")
-  - [채널A](../Page/채널A.md "wikilink")
+  - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
+  - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
+  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
+  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
+  - [CBS 표준FM](../Page/CBS_표준FM.md "wikilink")
 
 ## 각주
 

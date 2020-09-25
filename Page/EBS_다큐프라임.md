@@ -98,7 +98,7 @@
 <td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 7:30 ~ 9:10 (100분)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a> ~ <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a></p></td>
+<td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a> ~ <a href="../Page/2011년.md" title="wikilink">2011년</a> <a href="../Page/2월_26일.md" title="wikilink">2월 26일</a></p></td>
 <td><p>매주 <a href="../Page/토요일.md" title="wikilink">토요일</a> 밤 8:30 ~ 11:00 (150분)</p></td>
 <td></td>
 </tr>

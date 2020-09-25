@@ -345,7 +345,7 @@
 
   - [1990년](../Page/1990년.md "wikilink") (17기) 입사 : [김경미](https://ko.wikipedia.org/wiki/김경미 "wikilink")
   - [2004년](../Page/2004년.md "wikilink") (30기) 입사 : [이의선](https://ko.wikipedia.org/wiki/이의선 "wikilink")
-  - [2019년](../Page/2019년.md "wikilink") (프리랜서) 입사 : [박민정](https://ko.wikipedia.org/wiki/박민정 "wikilink")
+  - [2019년 3월](https://ko.wikipedia.org/wiki/2019년_3월 "wikilink") (프리랜서) 입사 : [박민정](https://ko.wikipedia.org/wiki/박민정 "wikilink")
   - [2019년 4월](https://ko.wikipedia.org/wiki/2019년_4월 "wikilink") (프리랜서) 입사 : [강유미](../Page/강유미.md "wikilink")
 
 ### 전직 아나운서
@@ -395,13 +395,14 @@
 
   - 진연지
 
-## 현직 기자
+## 전홍기
 
   - [강규엽](https://ko.wikipedia.org/wiki/강규엽 "wikilink")
   - [전영창](https://ko.wikipedia.org/wiki/전영창 "wikilink") 보도부장
   - [정면구](https://ko.wikipedia.org/wiki/정면구 "wikilink")
   - [박상용](https://ko.wikipedia.org/wiki/박상용 "wikilink")
   - [정창환](https://ko.wikipedia.org/wiki/정창환 "wikilink")
+  - [심재남](https://ko.wikipedia.org/wiki/심재남 "wikilink")
   - [박상희](../Page/박상희.md "wikilink")
   - [김보람](https://ko.wikipedia.org/wiki/김보람 "wikilink")
   - [조연주](https://ko.wikipedia.org/wiki/조연주 "wikilink")

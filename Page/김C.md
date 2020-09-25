@@ -216,7 +216,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2009</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS1</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS1</a></p></td>
 <td><p><a href="../Page/걸어서_세계속으로.md" title="wikilink">걸어서 세계 속으로</a></p></td>
 <td><p>목소리 해설</p></td>
 <td><p><small><a href="https://ko.wikipedia.org/wiki/다큐멘터리" title="wikilink">다큐멘터리</a><br />
@@ -370,7 +370,7 @@
 </tr>
 <tr class="odd">
 <td><p>2008~2009년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS1</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS1</a></p></td>
 <td><p><a href="../Page/걸어서_세계속으로.md" title="wikilink">걸어서 세계속으로</a></p></td>
 <td><p>내레이션</p></td>
 </tr>
@@ -388,7 +388,7 @@
 </tr>
 <tr class="even">
 <td><p>2009년</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS1</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS1</a></p></td>
 <td><p><a href="../Page/생로병사의_비밀.md" title="wikilink">생로병사의 비밀</a></p></td>
 <td><p>내레이션</p></td>
 </tr>

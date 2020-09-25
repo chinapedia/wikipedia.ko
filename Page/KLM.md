@@ -182,7 +182,7 @@
 
 ## 사건 및 사고
 
-  - [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 당시에 벌어진 [KLM 777편 격추 사고로](https://ko.wikipedia.org/wiki/KLM_777편_격추_사고 "wikilink") 이로 인해 [DC-3](https://ko.wikipedia.org/wiki/DC-3 "wikilink")기의 탑승객과 승무원 전원 사망하였다.
+  - [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 당시에 벌어진 [영국항공 777편 격추 사고로](https://ko.wikipedia.org/wiki/영국항공_777편_격추_사고 "wikilink") 이로 인해 [DC-3](https://ko.wikipedia.org/wiki/DC-3 "wikilink")기의 탑승객과 승무원 전원 사망하였다.
   - [1977년](../Page/1977년.md "wikilink") [3월 27일에](../Page/3월_27일.md "wikilink") [스페인](../Page/스페인.md "wikilink")령 [카나리아 제도의](../Page/카나리아_제도.md "wikilink") [테네리페 섬에서](https://ko.wikipedia.org/wiki/테네리페_섬 "wikilink") 일어난 [팬암-KLM 충돌사고로](https://ko.wikipedia.org/wiki/테네리페_참사 "wikilink") 583명이 사망했고 61명이 부상당하는 등 항공 역사상 가장 참혹한 사고로 기록되었다. 이 사고로 KLM에 타고 있던 승객과 승무원 전원 사망했다.
   - [2020년](../Page/2020년.md "wikilink") [2월 12일](../Page/2월_12일.md "wikilink") [암스테르담에서](https://ko.wikipedia.org/wiki/스히폴_국제공항 "wikilink") [인천으로](https://ko.wikipedia.org/wiki/인천국제공항 "wikilink") 오는 기내에서(KL855편) [코로나19로](https://ko.wikipedia.org/wiki/코로나바이러스감염증-19 "wikilink") 인해 승객용 화장실에 **'승무원 전용 화장실**'이라고 써 논란이 됐었다.
 

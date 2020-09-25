@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KNN](https://ko.wikipedia.org/wiki/KNN).
 
 
-**주식회사 KNN**(케이엔엔, **K**orea **N**ew **N**etwork)은 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")와 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 및 인근 일부지역을 권역으로 하는 방송사 ( 주)[넥센의 계열](http://www.nexencorp.co.kr/) 초임에는 **부산방송**(釜山放送, Pusan Broadcasting, 약칭 **PSB**)으로 [1994년](../Page/1994년.md "wikilink")에 설립되었다. 그 후 [1995년](../Page/1995년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")의 방송 지역으로 [TV](https://ko.wikipedia.org/wiki/TV "wikilink") 및 라디오 채널이 개통됨에 따라 공식 방송이 시작되어 10년 후인 [2005년](../Page/2005년.md "wikilink")에는 공식 비즈니스 지구를 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink")로 확대하였으며, [2006년](../Page/2006년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink"), 개국 11주년을 맞이하여 **PSB 부산방송**에서 **주식회사 KNN**으로 사명이 개칭되었다.
+**주식회사 KNN**(케이엔엔, **K**orea **N**ew **N**etwork)은 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")와 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") 및 인근 일부지역을 권역으로 하는 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink")(모기업:태영건설)의 부산경남권 네트워크 민영방송사이다. (주)[넥센의 계열](http://www.nexencorp.co.kr/) 초임에는 **부산방송**(釜山放送, Pusan Broadcasting, 약칭 **PSB**)으로 [1994년](../Page/1994년.md "wikilink")에 설립되었다. 그후 [1995년](../Page/1995년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink") [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink")의 방송지역으로 [TV](https://ko.wikipedia.org/wiki/TV "wikilink") 및 라디오채널이 개통됨에 따라 공식방송이 시작되어 10년후인 [2005년](../Page/2005년.md "wikilink")에는 공식 비즈니스 지구를 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink")로 확대하였으며, [2006년](../Page/2006년.md "wikilink") [5월 14일](../Page/5월_14일.md "wikilink"), 개국 11주년을 맞이하여 **PSB 부산방송**에서 **주식회사 KNN**으로 사명이 개칭되었다.
 
 ## 슬로건
 
@@ -44,7 +44,7 @@
 ### 로고송
 
   - 꿈을 주고 사랑받는 PSB(개국 \~ 2006.5.14)
-  - 가족처럼 이웃처럼 PSB(개국 \~ 2006.5.14)
+  - 가족처럼 이웃처럼 PSB(개국 \~ 1999)
   - 꿈을 주고 사랑받는 부산방송(개국 \~ 1999)
   - 가족처럼 이웃처럼 부산방송(개국 \~ 1999)
   - 친구처럼 이웃처럼 KNN (케이엔엔) 1버전(2006.5.14 \~ 2013.8.31) 2버전 (2009.1.1 \~ 현재) 3버전
@@ -173,10 +173,8 @@
 
 <!-- end list -->
 
-  - [모닝통통통](https://ko.wikipedia.org/wiki/모닝통통통 "wikilink") (HD)
   - [KNN 날씨와 건강](../Page/KNN_날씨와_건강.md "wikilink") (HD)
   - [KNN 생방송 투데이](../Page/KNN_생방송_투데이.md "wikilink") (HD)
-  - [KNN 시사만사](https://ko.wikipedia.org/wiki/KNN_시사만사 "wikilink") (HD)
   - [건강365](https://ko.wikipedia.org/wiki/건강365 "wikilink") (HD)
   - [공개클리닉 웰](http://www.knn.co.kr/category/tv/well) (HD)
   - [네트워크 현장 고향이 보인다](https://ko.wikipedia.org/wiki/네트워크_현장_고향이_보인다 "wikilink") ([SBS](../Page/SBS.md "wikilink"))
@@ -186,6 +184,7 @@
   - [메디컬 24시 닥터스](http://blog.knn.co.kr/category/tv/medical-24h) (HD)
   - [행복한 책읽기](http://blog.knn.co.kr/category/tv/happy-readding) (HD)
   - [산토끼와 따오기가 함께하는 창작동요제](../Page/산토끼와_따오기가_함께하는_창작동요제.md "wikilink") (HD) (매년 1회씩 방송되는 특집 프로그램)
+  - [100세 시대 건강하이소](https://ko.wikipedia.org/wiki/100세_시대_건강하이소 "wikilink")
   - 하늘에서 본 경남
   - [KNN 맛집](https://ko.wikipedia.org/wiki/KNN_맛집 "wikilink")
   - [톡톡 보험설계](https://ko.wikipedia.org/wiki/톡톡_보험설계 "wikilink")
@@ -199,15 +198,14 @@
 
   - [해피플러스](https://ko.wikipedia.org/wiki/해피플러스 "wikilink") (2003년 \~ 2009년 1월)
   - [현장추적 싸이렌](../Page/현장추적_싸이렌.md "wikilink") (HD) (2003년 \~ 2014년)
-  - [월드리포트](https://ko.wikipedia.org/wiki/월드리포트 "wikilink") (HD)
   - [시사포차 담](https://ko.wikipedia.org/wiki/시사포차_담 "wikilink")
   - [세상발견 유레카](../Page/세상발견_유레카.md "wikilink") (2003년 \~ 2017년)
   - [특집 2018 지역 대학을 가다](https://ko.wikipedia.org/wiki/특집_2018_지역_대학을_가다 "wikilink")
   - [마음의 산책](https://ko.wikipedia.org/wiki/마음의_산책 "wikilink")
   - [물은 생명입니다](https://ko.wikipedia.org/wiki/물은_생명입니다 "wikilink")
   - [KNN 스페셜](https://ko.wikipedia.org/wiki/KNN_스페셜 "wikilink")
-  - [KNN 뉴스 (1420)](../Page/KNN_뉴스_\(1420\).md "wikilink")
   - 뛰뛰빵빵 로그인 코리아
+  - [KNN 시사만사](https://ko.wikipedia.org/wiki/KNN_시사만사 "wikilink") (HD)
 
 #### 예능
 

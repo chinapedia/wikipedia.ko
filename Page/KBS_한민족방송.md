@@ -52,12 +52,12 @@
 ### 제1방송 (13:00 \~ 09:00)
 
   - [매 정시 뉴스](https://ko.wikipedia.org/wiki/KBS_한민족방송_뉴스 "wikilink") (13,16,18,20시)
-  - 13:10《[안녕하십니까 여기는 서울입니다](../Page/안녕하십니까_여기는_서울입니다.md "wikilink")》(주중 18:00 재방송) - [정용실](../Page/정용실.md "wikilink")
+  - 13:05《[안녕하십니까 여기는 서울입니다](../Page/안녕하십니까_여기는_서울입니다.md "wikilink")》(주중 18:05 재방송) - [신성원](../Page/신성원.md "wikilink") 아나운서
   - 13:10《[시대음감](https://ko.wikipedia.org/wiki/시대음감 "wikilink")》(주말) - [김태훈](../Page/김태훈_\(음악_평론가\).md "wikilink")
   - 20:05《[한민족 하나로](https://ko.wikipedia.org/wiki/한민족_하나로 "wikilink")》(월\~금 20:05/토.일 20:00) - [강준영](https://ko.wikipedia.org/wiki/강준영 "wikilink") 교수 (월\~금), [원종배](../Page/원종배.md "wikilink") (토.일)
   - 21:00《[KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") (1TV 수중계)》
   - 21:30《[정관용의 지금, 이 사람](../Page/정관용의_지금,_이_사람.md "wikilink") (1R 수중계)》(평일) - [정관용](https://ko.wikipedia.org/wiki/정관용 "wikilink")
-  - 21:20《[스포츠 스포츠](../Page/스포츠_스포츠_\(라디오_프로그램\).md "wikilink") (1R 수중계)》(주말) - 주말 : [이창진](https://ko.wikipedia.org/wiki/이창진 "wikilink") 아나운서
+  - 21:20《[스포츠 스포츠](../Page/스포츠_스포츠_\(라디오_프로그램\).md "wikilink") (1R 수중계)》(주말) - 주말 : [이창진](../Page/이창진.md "wikilink") 아나운서
   - 22:10《[통일전망대](../Page/통일전망대_\(라디오_프로그램\).md "wikilink")》(주중) - 김정환 기자
   - 22:10《[KBS 무대](https://ko.wikipedia.org/wiki/KBS_무대 "wikilink")》(일 16:05 재방송)
   - 22:10《[라디오 문학관](../Page/라디오_문학관.md "wikilink")》(일)
@@ -68,14 +68,14 @@
   - 00:05《[다큐멘터리 역사를 찾아서](../Page/다큐멘터리_역사를_찾아서.md "wikilink")》(일) - [김석환](../Page/김석환_\(성우\).md "wikilink") 교수
   - 01:00《[5분 여행기, 구석구석 코리아](https://ko.wikipedia.org/wiki/5분_여행기,_구석구석_코리아 "wikilink")》(08:00,16:05 재방송)
   - 01:10《[경제로 통일로](https://ko.wikipedia.org/wiki/경제로_통일로 "wikilink")》(16:10 재방송) - 이인철 소장
-  - 01:55《[서울말 따라잡기](https://ko.wikipedia.org/wiki/서울말_따라잡기 "wikilink")》
+  - 01:55《[서울말 따라잡기](https://ko.wikipedia.org/wiki/서울말_따라잡기 "wikilink")》 - [성기영](https://ko.wikipedia.org/wiki/성기영_\(아나운서\) "wikilink") 아나운서
   - 02:00《[라디오 극장](https://ko.wikipedia.org/wiki/라디오_극장 "wikilink")》(17:00 재방송)
   - 02:20《[이산가족 이야기 나의 살던 고향은](../Page/이산가족_이야기_나의_살던_고향은.md "wikilink")》(17:20,22:00,주말 13:00 재방송) - [임수민](https://ko.wikipedia.org/wiki/임수민 "wikilink") 아나운서
   - 02:30《[통일백세](https://ko.wikipedia.org/wiki/통일백세 "wikilink")》(17:30 재방송) - [성기영](https://ko.wikipedia.org/wiki/성기영_\(아나운서\) "wikilink") 아나운서
   - 03:00《[팝스 프리덤](https://ko.wikipedia.org/wiki/팝스_프리덤 "wikilink")》 - [박주아](https://ko.wikipedia.org/wiki/박주아 "wikilink") 아나운서
-  - 03:46《[와이파이 한국인](https://ko.wikipedia.org/wiki/와이파이_한국인 "wikilink")》(주중)
+  - 03:46《[와이파이 한국인](https://ko.wikipedia.org/wiki/와이파이_한국인 "wikilink")》(재방송) ([1R](../Page/KBS_제1라디오.md "wikilink") 재방송)》(주중)
   - 04:00《[세월따라 노래따라](../Page/세월따라_노래따라.md "wikilink")》 - [원석현](../Page/원석현.md "wikilink") 아나운서
-  - 05:00《[국악의 향기](https://ko.wikipedia.org/wiki/국악의_향기_\(라디오_프로그램\) "wikilink")》(클래식FM 수중계/15:00 재방송) - [변우영](../Page/변우영.md "wikilink") 아나운서
+  - 05:00《[국악의 향기](https://ko.wikipedia.org/wiki/국악의_향기_\(라디오_프로그램\) "wikilink")》([클래식FM](../Page/KBS_제1FM.md "wikilink") 수중계)》(15:00 재방송) - [변우영](../Page/변우영.md "wikilink") 아나운서
   - 06:00《[대한민국 인기가요](../Page/대한민국_인기가요.md "wikilink")》(14:00 재방송) - [임지훈](../Page/임지훈_\(가수\).md "wikilink")
   - 07:00《[보고 싶은 얼굴 그리운 목소리](https://ko.wikipedia.org/wiki/보고_싶은_얼굴_그리운_목소리 "wikilink")》(19:00 재방송) - [이소연](https://ko.wikipedia.org/wiki/이소연 "wikilink")
   - 08:05《[문화 공감](../Page/문화_공감.md "wikilink")》 - [김재원](../Page/김재원_\(아나운서\).md "wikilink") 아나운서
@@ -88,14 +88,14 @@
   - 00:05《[통일열차](../Page/통일열차.md "wikilink")》(주중,토요일/10:05 재방송) - [서기철](../Page/서기철.md "wikilink") 아나운서
   - 01:00《[5분 여행기, 구석구석 코리아](https://ko.wikipedia.org/wiki/5분_여행기,_구석구석_코리아 "wikilink")》(10:00 재방송)
   - 01:05《[경제로 통일로](https://ko.wikipedia.org/wiki/경제로_통일로 "wikilink")》 - 이인철 소장
-  - 01:55《[서울말 따라잡기](https://ko.wikipedia.org/wiki/서울말_따라잡기 "wikilink")》
+  - 01:55《[서울말 따라잡기](https://ko.wikipedia.org/wiki/서울말_따라잡기 "wikilink")》 - [성기영](https://ko.wikipedia.org/wiki/성기영_\(아나운서\) "wikilink") 아나운서
   - 02:00《[라디오 극장](https://ko.wikipedia.org/wiki/라디오_극장 "wikilink")》
   - 02:20《[이산가족 이야기 나의 살던 고향은](../Page/이산가족_이야기_나의_살던_고향은.md "wikilink")》
   - 02:30《[통일백세](https://ko.wikipedia.org/wiki/통일백세 "wikilink")》 - [성기영](https://ko.wikipedia.org/wiki/성기영_\(아나운서\) "wikilink") 아나운서
   - 03:00《[팝스 프리덤](https://ko.wikipedia.org/wiki/팝스_프리덤 "wikilink")》 - [박주아](https://ko.wikipedia.org/wiki/박주아 "wikilink") 아나운서
   - 03:46《[와이파이 한국인](https://ko.wikipedia.org/wiki/와이파이_한국인 "wikilink")》(주중)
   - 04:00《[세월따라 노래따라](../Page/세월따라_노래따라.md "wikilink")》 - [원석현](../Page/원석현.md "wikilink") 아나운서
-  - 05:00《[국악의 향기](https://ko.wikipedia.org/wiki/국악의_향기_\(라디오_프로그램\) "wikilink")》 (클래식FM 수중계)》- [변우영](../Page/변우영.md "wikilink") 아나운서
+  - 05:00《[국악의 향기](https://ko.wikipedia.org/wiki/국악의_향기_\(라디오_프로그램\) "wikilink")》 ([클래식FM](../Page/KBS_제1FM.md "wikilink") 수중계)》- [변우영](../Page/변우영.md "wikilink") 아나운서
   - 06:00《[대한민국 인기가요](../Page/대한민국_인기가요.md "wikilink")》(11:00 재방송) - [임지훈](../Page/임지훈_\(가수\).md "wikilink")
   - 07:00《[보고 싶은 얼굴 그리운 목소리](https://ko.wikipedia.org/wiki/보고_싶은_얼굴_그리운_목소리 "wikilink")》(12:00 재방송) - [이소연](https://ko.wikipedia.org/wiki/이소연 "wikilink")
   - 08:05《[문화 공감](../Page/문화_공감.md "wikilink")》 - [김재원](../Page/김재원_\(아나운서\).md "wikilink") 아나운서

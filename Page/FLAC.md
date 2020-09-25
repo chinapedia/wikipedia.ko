@@ -99,7 +99,7 @@ libFLAC API는 기본 FLAC 비트스트림(bitstream)을 더 추상화한 것으
       - [Audacity 1.3.3 Beta](https://ko.wikipedia.org/wiki/Audacity "wikilink") [Audacity](https://ko.wikipedia.org/wiki/Audacity "wikilink")
       - [JUCE](https://ko.wikipedia.org/wiki/JUCE "wikilink") (크로스-플랫폼 C++ 툴킷. FLAC 지원 자체 내장.)
       - [린](https://ko.wikipedia.org/wiki/린_프로덕츠 "wikilink") 디지털 스트림 플레이어즈
-      - [엠플레이어](https://ko.wikipedia.org/wiki/엠플레이어 "wikilink")
+      - [엠플레이어](../Page/엠플레이어.md "wikilink")
       - [송버드](../Page/송버드.md "wikilink")
       - [Squeezebox](https://ko.wikipedia.org/wiki/Squeezebox_\(network_music_player\) "wikilink")
       - [The Core Pocket Media Player](https://ko.wikipedia.org/wiki/The_Core_Pocket_Media_Player "wikilink") - flac 플러그인 사용.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS 8 뉴스](https://ko.wikipedia.org/wiki/SBS_8_뉴스).
 
 
-《**SBS 8 뉴스**》()는 매일 저녁 8시에 방송되는 [SBS의 메인뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
+《**SBS 8 뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") [SBS에서](../Page/SBS_TV.md "wikilink") [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 7시 50분, [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 저녁 8시에 방송되는 [SBS의 메인뉴스 프로그램이다](../Page/SBS의_뉴스_프로그램.md "wikilink").
 
 ## SBS 8 뉴스 역사
 
@@ -26,9 +26,11 @@
   - [2020년](../Page/2020년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") : [SBS 스포츠뉴스](../Page/SBS_스포츠뉴스.md "wikilink") 클로징에서 [이승기](../Page/이승기.md "wikilink")가 **일일 아나운서**로 출연하였다.
   - [2020년](../Page/2020년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [4월 19일](../Page/4월_19일.md "wikilink") : 3주간 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink")만 방송시간을 10분 앞당겨서 **저녁 7시 50분**에 방송되었다.
   - [2020년](../Page/2020년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") : 여름 집중호우 사건사고 특집방송으로 인하여 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink")만 방송시간을 10분 앞당겨서 **저녁 7시 50분**에 방송되었다.
-  - [2020년](../Page/2020년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ [8월 27일](../Page/8월_27일.md "wikilink") : [SBS](../Page/SBS.md "wikilink") 목동 사옥에서 근무하는 직원이 코로나19 확진판정을 받은 관계로, 2명의 앵커가 오프닝 및 클로징 시 함께 화면에 나오지 않는 **거리두기 조치**를 하였다. (**오프닝** : 남성 앵커 단독착석 / **클로징** : 여성 앵커 단독착석)
+  - [2020년](../Page/2020년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ [8월 27일](../Page/8월_27일.md "wikilink") : [SBS](../Page/SBS.md "wikilink") 목동 사옥에서 근무하는 직원이 [코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink") 확진 판정을 받은 관계로, 2명의 앵커가 오프닝 및 클로징 시 함께 화면에 나오지 않는 **거리두기 조치**를 하였다. (**오프닝** : 남성 앵커 단독착석 / **클로징** : 여성 앵커 단독착석)
   - [2020년](../Page/2020년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") : 제 8호 태풍 **바비**로 인하여 방송시간을 1시간 앞당겨서 **저녁 7시**에 **특집 8시 뉴스**로 방송되었고, 기상관련 하단 뉴스티커를 추가하였다.
-  - [2020년](../Page/2020년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") \~ **현 재** : 탁상에 가림막을 설치하여 앵커 간의 **거리두기 조치**를 하고 있다.
+  - [2020년](../Page/2020년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") \~ **현재** : 탁상에 가림막을 설치하여 앵커 간의 **거리두기 조치**를 하고 있으며, 평일에는 2명의 앵커가 오프닝 및 클로징 시 함께 화면에 나오지 않는 **거리두기 조치**를 하고 있다. (**오프닝** : 남성 앵커 단독착석 / **클로징** : 여성 앵커 단독착석)
+  - [2020년](../Page/2020년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") : 제 9호 태풍 **마이삭**으로 인하여 방송시간을 30분 앞당겨서 **특집 8시 뉴스**로 방송되었고, 기상관련 하단 뉴스티커를 추가하였다.
+  - [2020년](../Page/2020년.md "wikilink") [9월 21일](../Page/9월_21일.md "wikilink") \~ **현재** : 개편에 따라 70분 확대 편성 및 1·2부 분할 편성되어 방송 중이다.\[3\]
 
 ## 방송 시간
 
@@ -154,7 +156,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/7월_1일.md" title="wikilink">7월 1일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_14일.md" title="wikilink">4월 14일</a></p></td>
-<td><p>평일 저녁 8:00 ~ 8:50 (50분)<br />
+<td><p>평일 저녁 8:00 ~ 8:55 (55분)<br />
 주말 저녁 8:00 ~ 8:45 (45분)</p></td>
 <td></td>
 </tr>
@@ -164,7 +166,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/9월_20일.md" title="wikilink">9월 20일</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -176,8 +178,15 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/4월_19일.md" title="wikilink">4월 19일</a></p></td>
-<td><p>평일 저녁 7:50 ~ 8:55 (65분)<br />
+<td><p>평일 저녁 7:50 ~ 8:55 (1시간 5분)<br />
 주말 저녁 8:00 ~ 8:45 (45분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/9월_21일.md" title="wikilink">9월 21일</a> ~ <strong>현재</strong></p></td>
+<td><p>평일 저녁 7:50 ~ 밤 9:00 (1시간 10분)<br />
+토요일 저녁 8:00 ~ 8:40 (40분)<br />
+일요일 저녁 8:00 ~ 8:45 (45분)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -185,23 +194,25 @@
 
 ## 구성
 
-| 코너명                                          | 진행자                                                                                                                                                                                                                                  | 비고              |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
-| SBS 8 뉴스 예고                                  | 평일 : 최혜림 아나운서</br>토요일 : 김민형 아나운서                                                                                                                                                                                                     | \[3\]\[4\]      |
-| 헤드라인                                         | 평일 : 최혜림 아나운서</br>주말 : 김민형 아나운서                                                                                                                                                                                                      | \[5\]           |
-| 단독 취재                                        |                                                                                                                                                                                                                                      |                 |
-| 긴급 점검                                        |                                                                                                                                                                                                                                      |                 |
-| 기동 취재                                        |                                                                                                                                                                                                                                      |                 |
-| 탐사리포트 끝까지 판다                                 |                                                                                                                                                                                                                                      |                 |
-| 건강 라이프                                       | 조동찬 의학전문기자                                                                                                                                                                                                                           | **잠정폐지**        |
-| 사실은?                                         | 이경원 기자                                                                                                                                                                                                                               |                 |
-| 문화 로 (금)                                     |                                                                                                                                                                                                                                      | **폐지**          |
-| 제보가 왔습니다                                     |                                                                                                                                                                                                                                      | 2019년 3월 23일 신설 |
-| 이슈리포트 깊이있게 본다                                |                                                                                                                                                                                                                                      |                 |
-| 현장리포트 거침없이 간다                                |                                                                                                                                                                                                                                      |                 |
-| [SBS 스포츠뉴스](../Page/SBS_스포츠뉴스.md "wikilink") | 평일 : [김윤상](../Page/김윤상.md "wikilink") 아나운서</br>주말 : [주시은](../Page/주시은.md "wikilink") 아나운서                                                                                                                                            |                 |
-| SBS 날씨                                       | 평일, 토요일 : [남유진](https://ko.wikipedia.org/wiki/남유진_\(기상캐스터\) "wikilink")</br>일요일 : [양태빈](https://ko.wikipedia.org/wiki/양태빈 "wikilink")                                                                                                | \[6\]           |
-| 클로징                                          | 월, 수, 금 : [김현우](../Page/김현우_\(기자\).md "wikilink") 정치부 기자</br>화, 목 : [최혜림](../Page/최혜림.md "wikilink") 아나운서</br>주말 : [김범주](https://ko.wikipedia.org/wiki/김범주_\(기자\) "wikilink") 경제부 기자, [김민형](../Page/김민형_\(아나운서\).md "wikilink") 아나운서 | \[7\]\[8\]      |
+  - 지방은 중간광고를 포함한 2부는 편성하지않는다.
+
+| 코너명                                          | 진행자                                                                                                                                                               | 비고                  |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| SBS 8 뉴스 예고                                  | 평일 : 최혜림 아나운서</br>토요일 : 김민형 아나운서                                                                                                                                  | \[4\]\[5\]          |
+| 헤드라인                                         | 평일 : 최혜림 아나운서</br>주말 : 김민형 아나운서                                                                                                                                   | \[6\]               |
+| 단독 취재                                        |                                                                                                                                                                   |                     |
+| 긴급 점검                                        |                                                                                                                                                                   |                     |
+| 기동 취재                                        |                                                                                                                                                                   |                     |
+| 탐사리포트 끝까지 판다                                 |                                                                                                                                                                   |                     |
+| 건강 라이프                                       | 조동찬 의학전문기자                                                                                                                                                        | **잠정폐지**            |
+| 사실은?                                         | 이경원 기자                                                                                                                                                            |                     |
+| 문화 로 (금)                                     |                                                                                                                                                                   | **폐지**              |
+| 제보가 왔습니다                                     |                                                                                                                                                                   | 2019년 3월 23일 신설     |
+| 이슈리포트 깊이있게 본다                                |                                                                                                                                                                   |                     |
+| 현장리포트 거침없이 간다                                |                                                                                                                                                                   |                     |
+| [SBS 스포츠뉴스](../Page/SBS_스포츠뉴스.md "wikilink") | 평일 : [김윤상](../Page/김윤상.md "wikilink") 아나운서</br>주말 : [주시은](../Page/주시은.md "wikilink") 아나운서                                                                         | KNN,CJB.JIBS주말편성 제외 |
+| SBS 날씨                                       | 평일, 토요일 : [남유진](https://ko.wikipedia.org/wiki/남유진_\(기상캐스터\) "wikilink")</br>일요일 : [양태빈](https://ko.wikipedia.org/wiki/양태빈 "wikilink")                             | KNN,TBC제외           |
+| 클로징(지방제외)                                    | 월, 수, 금 : [김현우](../Page/김현우_\(기자\).md "wikilink") 정치부 기자</br>화, 목 : [최혜림](../Page/최혜림.md "wikilink") 아나운서</br>주말 : [김민형](../Page/김민형_\(아나운서\).md "wikilink") 아나운서 | \[7\]\[8\]          |
 
 ## 앵커
 
@@ -722,7 +733,9 @@ SBS 뉴스 2000 (주말)</p></td>
 
 ## 지역민방 프로그램
 
-  - 다음 지역민방 프로그램은 오후 8시 30분 경 부터 방송되며, 방송 직전의 화면 오른쪽 위에 지역민방 프로그램명이 뜬다. 스포츠 뉴스 종료 후 본사의 날씨 소식 및 클로징을 직접 내보내던 지역 [KBS](../Page/한국방송공사.md "wikilink") 및 [MBC와는](../Page/문화방송.md "wikilink") 달리 지역민방들은 평일 SBS 스포츠 뉴스 수중계 종료 시 자체적으로 날씨와 클로징을 내보내며 마친다. (단, [TJB](../Page/대전방송.md "wikilink"), [kbc](../Page/광주방송.md "wikilink"), [JTV](../Page/전주방송.md "wikilink"), [CJB](../Page/청주방송.md "wikilink"), [G1](../Page/G1.md "wikilink"), [ubc,](../Page/울산방송.md "wikilink") [JIBS](../Page/제주국제자유도시방송.md "wikilink") 등은 평일 SBS 날씨, [TBC는](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 주말 SBS 날씨를 수중계한다.)단 [jtv](../Page/전주방송.md "wikilink") 전주방송은 [sbs 날씨와](https://ko.wikipedia.org/wiki/sbs_날씨 "wikilink") jtv 8뉴스 클로징은 아나운서멘트 없이 영상으로 방송된다.
+  - 다음 지역민방 프로그램은 오후 8시 30분 경 부터 방송되며, 방송 직전의 화면 오른쪽 위에 지역민방 프로그램명이 뜬다. 스포츠 뉴스 종료 후 본사의 날씨 소식 및 클로징을 직접 내보내던 지역 [KBS](../Page/한국방송공사.md "wikilink") 및 [MBC와는](../Page/문화방송.md "wikilink") 달리 지역민방들은 평일 SBS 스포츠 뉴스 수중계 종료 시 자체적으로 날씨와 클로징을 내보내며 마친다. (단, [TJB](../Page/대전방송.md "wikilink"), [kbc](../Page/광주방송.md "wikilink"), [JTV](../Page/전주방송.md "wikilink"), [CJB](../Page/청주방송.md "wikilink"), [G1](../Page/G1.md "wikilink"), [ubc,](../Page/울산방송.md "wikilink") [JIBS](../Page/제주국제자유도시방송.md "wikilink") 등은 평일 SBS 날씨, [TBC는](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 주말 SBS 날씨를 수중계한다.)
+
+단, [jtv](../Page/전주방송.md "wikilink") 전주방송은 SBS 날씨와 jtv 8뉴스 클로징은 아나운서멘트 없이 영상으로 방송된다. 2020년 9월 21일 개편분부터는 1부만 방송되며 중간광고 편성대상에서 제외된다.
 
 <table>
 <thead>
@@ -831,7 +844,7 @@ SBS 뉴스 2000 (주말)</p></td>
 
 ## 로고
 
-파일:SBS 8 News logo old 1991.png|구형 사용 (1991년 12월 9일 \~ 1994년 10월 23일) 파일:SBS News show old 1991.png|구형 사용 (1992년 3월 28일 \~ 1992년 6월 28일, 주말) 파일:SBS 8 News logo old 1994.png|구형 사용 (1994년 10월 24일 \~ 1997년 2월 28일, 평일) 파일:SBS News 2000 logo old 1994.png|구형 사용 (1994년 10월 29일 \~ 1996년 10월 13일, 주말) 파일:SBS News Q logo old 1996.png|구형 사용 (1996년 10월 19일 \~ 1997년 6월 29일, 주말) 파일:SBS 9 News logo old 1997.png|구형 사용 (1997년 3월 3일 \~ 1997년 6월 27일, 평일) 파일:SBS 8 News logo old 1997.png|구형 사용 (1997년 6월 30일 \~ 2000년 11월 13일) 파일:SBS 8 News logo old 2000.png|구형 사용 (2000년 11월 14일 \~ 2003년 9월 18일) 파일:SBS 8 News logo old 2004.png|구형 사용 (2003년 9월 19일 \~ 2008년 7월 27일) 파일:SBS 8 News logo old 2008.png|구형 사용 (2010년 9월 21일 \~ 2012년 4월 1일) 파일:SBS 8 News logo old 2012.png|구형 사용 (2012년 4월 2일 \~ 2014년 5월 18일) 파일:SBS 8 News logo old 2014.png|현형 사용 (2014년 5월 19일 \~ **현재**)
+파일:SBS 8 News logo old 1991.png|구형 사용 (1991년 12월 9일 \~ 1994년 10월 23일) 파일:SBS News show old 1991.png|구형 사용 (1992년 3월 28일 \~ 1992년 6월 28일, 주말) 파일:SBS 8 News logo old 1994.png|구형 사용 (1994년 10월 24일 \~ 1997년 2월 28일, 평일) 파일:SBS News 2000 logo old 1994.png|구형 사용 (1994년 10월 29일 \~ 1996년 10월 13일, 주말) 파일:SBS News Q logo old 1996.png|구형 사용 (1996년 10월 19일 \~ 1997년 6월 29일, 주말) 파일:SBS 9 News logo old 1997.png|구형 사용 (1997년 3월 3일 \~ 1997년 6월 27일, 평일) 파일:SBS 8 News logo old 1997.png|구형 사용 (1997년 6월 30일 \~ 2000년 11월 13일) 파일:SBS 8 News logo old 2000.png|구형 사용 (2000년 11월 14일 \~ 2004년 2월 29일) 파일:SBS 8 News logo old 2004.png|구형 사용 (2004년 3월 1일 \~ 2008년 7월 27일) 파일:SBS 8 News logo old 2008.png|구형 사용 (2008년 7월 28일 \~ 2011년 12월 31일) 파일:SBS 8 News logo old 2012.png|구형 사용 (2012년 1월 1일 \~ 2014년 5월 18일) 파일:SBS 8 News logo old 2014.png|구형 사용 (2014년 5월 19일 \~ 2020년 9월 20일)
 
 ## 경쟁 뉴스 프로그램
 
@@ -876,11 +889,11 @@ SBS 뉴스 2000 (주말)</p></td>
 [분류:SBS의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_뉴스_텔레비전_프로그램 "wikilink") [분류:SBS의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_뉴스_라디오_프로그램 "wikilink") [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink") [분류:1990년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:1990년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2000년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2000년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink")
 
 1.  동시간대 KBS 1TV와 MBC, SBS 9시 메인 뉴스 프로그램이었다.
-2.  동시간대 KBS 1TV와 MBC, SBS 9시 메인 뉴스를 중계했으나, SBS 9시 뉴스 시청률이 너무 저조하여, 3개월 만에 시간대 밤 8시로 옮겼다.
-3.  일요일에는 예고가 방송되지 않는다.
-4.  [서울](../Page/서울특별시.md "wikilink"), [인천](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기](https://ko.wikipedia.org/wiki/경기도 "wikilink") 등지에서는 본사 예고를 볼 수 있으나 그 외 지역은 SBS 홈페이지에 접속해 온에어를 통해 볼 수 있다.
-5.  1997년 6월 30일부터 2016년 12월 18일까지 평일과 주말 모두 남성 앵커가 진행했으나, SBS의 2016년 겨울 개편에 따라 2016년 12월 19일부터 2018년 7월 1일까지 평일은 여성 앵커가, 주말은 남성 앵커가 진행하는 방식으로 변경되었고, SBS의 2018년 여름 개편에 따라 2018년 7월 7일부터 현재까지 평일과 주말 모두 여성 앵커가 진행하는 방식으로 변경되었다. 다만, 평일의 경우에는 최혜림 아나운서가 휴가 또는 출장 시에는 김민형 아나운서가 대신 진행하며, 주말의 경우에는 김민형 아나운서가 휴가 또는 출장 시에는 최혜림 아나운서가 대신 진행한다.
-6.  [서울](../Page/서울특별시.md "wikilink"), [인천](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역에서는 본사 날씨를 볼 수 있으나, 그 외 지역은 SBS 홈페이지에 접속해 온에어를 통해 볼 수 있다.
+2.  동시간대 KBS 1TV와 MBC, SBS 9시 메인 뉴스를 중계했으나, SBS 9시 뉴스 시청률이 너무 저조하여, 3개월 만에 시간대를 다시 밤 8시로 옮겼다.
+3.  수도권만 적용되며 지역민방은 2부시간대에 지역뉴스가 편성된다.
+4.  일요일에는 예고가 방송되지 않는다.
+5.  [서울](../Page/서울특별시.md "wikilink"), [인천](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기](https://ko.wikipedia.org/wiki/경기도 "wikilink") 등지에서는 본사 예고를 볼 수 있으나 그 외 지역은 SBS 홈페이지에 접속해 온에어를 통해 볼 수 있다.
+6.  1997년 6월 30일부터 2016년 12월 18일까지 평일과 주말 모두 남성 앵커가 진행했으나, SBS의 2016년 겨울 개편에 따라 2016년 12월 19일부터 2018년 7월 1일까지 평일은 여성 앵커가, 주말은 남성 앵커가 진행하는 방식으로 변경되었고, SBS의 2018년 여름 개편에 따라 2018년 7월 7일부터 현재까지 평일과 주말 모두 여성 앵커가 진행하는 방식으로 변경되었다. 다만, 평일의 경우에는 최혜림 아나운서가 휴가 또는 출장 시에는 김민형 아나운서가 대신 진행하며, 주말의 경우에는 김민형 아나운서가 휴가 또는 출장 시에는 최혜림 아나운서가 대신 진행한다.
 7.  [서울](../Page/서울특별시.md "wikilink"), [인천](https://ko.wikipedia.org/wiki/인천광역시 "wikilink"), [경기](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역에서는 본사 클로징을 볼 수 있으나, 그 외 지역은 SBS 홈페이지에 접속해 온에어를 통해 볼 수 있다.
 8.  2016년 12월 18일까지는 ED 이전에 클로징을 했으나, SBS의 2016년 겨울 개편에 따라 2016년 12월 19일부터는 SBS 날씨 이후와 중간 광고 이전 사이에 클로징을 하며, 때때로 ED 이전에 클로징을 하기도 한다.
 9.  [한수진](../Page/한수진_\(1969년\).md "wikilink") 선임기자(現. [SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink") 앵커)는 마지막 주말 진행한 다음 날 평일로 옮겨서 진행.
@@ -894,7 +907,7 @@ SBS 뉴스 2000 (주말)</p></td>
 17. [신동욱](../Page/신동욱_\(방송인\).md "wikilink") 前 국제부장은 3년 10개월 만에 평일 재진행.
 18. [신동욱](../Page/신동욱_\(방송인\).md "wikilink") 前 국제부장의 휴가 또는 출장으로 인하여, [2015년](../Page/2015년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") \~ 2015년 [7월 31일](../Page/7월_31일.md "wikilink") 방송분은 [편상욱](../Page/편상욱.md "wikilink") 국제부장(現. [SBS 나이트라인](../Page/SBS_나이트라인.md "wikilink") 앵커)이 대신 진행했고, [2016년](../Page/2016년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ 2016년 [7월 29일](../Page/7월_29일.md "wikilink") 방송분은 [박현석](../Page/박현석_\(기자\).md "wikilink") 기자(現. 평일 [모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink") 앵커)가 대신 진행했다.
 19. [정미선](../Page/정미선.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2015년](../Page/2015년.md "wikilink") [8월 17일](../Page/8월_17일.md "wikilink") \~ 2015년 [8월 21일](../Page/8월_21일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ 2016년 [8월 5일](../Page/8월_5일.md "wikilink") 방송분은 [이혜승](../Page/이혜승.md "wikilink") 아나운서가 대신 진행했다.
-20. [김현우](../Page/김현우_\(기자\).md "wikilink") 기자의 휴가 또는 출장으로 인하여, [2017년](../Page/2017년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") \~ 2017년 [12월 8일](../Page/12월_8일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") \~ 2017년 [12월 15일](../Page/12월_15일.md "wikilink") 방송분은 김용태 기자가 대신 진행했고, [2018년](../Page/2018년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") \~ 2018년 [11월 16일](../Page/11월_16일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ 2019년 [9월 6일](../Page/9월_6일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") \~ 2019년 [12월 20일](../Page/12월_20일.md "wikilink") 방송분은 [김범주](https://ko.wikipedia.org/wiki/김범주 "wikilink") 기자가 대신 진행했다.
+20. [김현우](../Page/김현우_\(기자\).md "wikilink") 기자의 휴가 또는 출장으로 인하여, [2017년](../Page/2017년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") \~ 2017년 [12월 8일](../Page/12월_8일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [12월 14일](../Page/12월_14일.md "wikilink") \~ 2017년 [12월 15일](../Page/12월_15일.md "wikilink") 방송분은 김용태 기자가 대신 진행했고, [2018년](../Page/2018년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") \~ 2018년 [11월 16일](../Page/11월_16일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ 2019년 [9월 6일](../Page/9월_6일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") \~ 2019년 [12월 20일](../Page/12월_20일.md "wikilink"), [2020년](../Page/2020년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") \~ 2020년 [8월 28일](../Page/8월_28일.md "wikilink") 방송분은 [김범주](https://ko.wikipedia.org/wiki/김범주 "wikilink") 기자가 대신 진행했다.
 21. [최혜림](../Page/최혜림.md "wikilink") 아나운서의 휴가 또는 출장으로 인하여, [2017년](../Page/2017년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") \~ 2017년 [8월 25일](../Page/8월_25일.md "wikilink") 방송분은 [장예원](https://ko.wikipedia.org/wiki/장예원 "wikilink") 아나운서(現. [본격연예 한밤](../Page/본격연예_한밤.md "wikilink") MC)가 대신 진행했고, [2018년](../Page/2018년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ 2018년 [7월 20일은](../Page/7월_20일.md "wikilink") [정미선](../Page/정미선.md "wikilink") 아나운서(現. 평일 [모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink") 앵커)가 대신 진행했으며, [2019년](../Page/2019년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") \~ 2019년 [8월 2일](../Page/8월_2일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink") \~ 2019년 [12월 31일](../Page/12월_31일.md "wikilink"), 2020년 8월 10일 \~ 2020년 8월 14일 방송분은 [김민형](https://ko.wikipedia.org/wiki/김민형 "wikilink") 아나운서가 대신 진행했다.
 22. 1993년 1월 1주까지 일요일 진행.
 23. 방송 시간이 30분으로 확대됨에 따라서 남녀 앵커 체제로 전환.

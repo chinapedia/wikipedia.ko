@@ -91,7 +91,7 @@
 <td><p>윤혁민</p></td>
 <td><p>이정훈</p></td>
 <td><p>정애리 김흥기 최정훈 윤진영<br />
-김인태 설영순 이주실 나정옥<br />
+강인태 설영순 이주실 나정옥<br />
 이어령</p></td>
 <td></td>
 <td></td>
@@ -336,7 +336,7 @@
 <td><p><a href="https://www.youtube.com/watch?v=7zJW467hnlk"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
 <td><p>신문사 기자이자 작가인 김정주는 요양차 잠시 머무르기위해 작은아버지가 주지승으로 있는 산사를 찾는다.<br />
 그곳에서 그는 폐병에 걸려 얼마 남지 않은 인생을 그림 그리는 데 몰두하며 조용히 살아가는 한 여인을 만나게 된다.<br />
-그녀는 바로 몇 년전 취재로 알게된 여류화가 이월숙으로 역시 요양차 어머니와 함게 산사로 들어와 지내고 있었던 것이다.<br />
+그녀는 바로 몇 년전 취재로 알게된 여류화가 이월숙으로 역시 요양차 어머니와 함께 산사로 들어와 지내고 있었던 것이다.<br />
 얼마 남지 않은 삶의 시간들이 흘러감에 따라 그녀 역시 그와 마찬가지로<br />
 그에게 사랑의 감정을 품게되고 예전에 접했던 김정주의 소설 를 떠올리며 그려나간 그림 한점을 그에게 남기고 절을 떠난다 .</p></td>
 </tr>
@@ -2673,7 +2673,7 @@
 <td><p>94화</p></td>
 <td><p>8월 6일</p></td>
 <td><p>물레방아</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나도향" title="wikilink">나도향</a></p></td>
+<td><p><a href="../Page/나도향.md" title="wikilink">나도향</a></p></td>
 <td><p>백결</p></td>
 <td><p>김충길</p></td>
 <td><p>김기섭 하미혜 박병호 이신재<br />
@@ -2691,7 +2691,7 @@
 <td><p>95화</p></td>
 <td><p>8월 13일</p></td>
 <td><p>벙어리 삼룡이</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나도향" title="wikilink">나도향</a></p></td>
+<td><p><a href="../Page/나도향.md" title="wikilink">나도향</a></p></td>
 <td><p>윤대성</p></td>
 <td><p>맹만재</p></td>
 <td><p>김영철 강태기 선우은숙 양영준<br />
@@ -6067,37 +6067,134 @@ Rayfield.Brittenum Tim.Gilder<br />
 
 #### 1987년
 
-| 회차  | 방송일     | 작품명      | 원작                                                  | 극본                                                  | 연출  | 출연자 |
-| --- | ------- | -------- | --------------------------------------------------- | --------------------------------------------------- | --- | --- |
-| 1화  | 10월 17일 | 해산 바가지   | [박완서](../Page/박완서.md "wikilink")                    | 이국자                                                 | 임학송 |     |
-| 2화  | 10월 24일 | 목마 위의 여자 | [김주영](../Page/김주영_\(1939년\).md "wikilink")          |                                                     | 심현우 |     |
-| 3화  | 10월 31일 | 인간의 계곡   | 김준일                                                 |                                                     | 김현준 |     |
-| 4화  | 11월 7일  | 가을비      | [서정인](https://ko.wikipedia.org/wiki/서정인 "wikilink") | [김운경](https://ko.wikipedia.org/wiki/김운경 "wikilink") | 엄기백 |     |
-| 5화  | 11월 14일 | 폭염       | 천승제                                                 | 이진모                                                 | 차성호 |     |
-| 6화  | 11월 21일 | 연극       | [유재용](https://ko.wikipedia.org/wiki/유재용 "wikilink") | 홍종원                                                 | 이형표 |     |
-| 7화  | 11월 28일 | 황혼       | [이환경](../Page/이환경_\(작가\).md "wikilink")             |                                                     | 이동휘 |     |
-| 8화  | 12월 5일  | 숨은 손가락   | [이청준](../Page/이청준.md "wikilink")                    | 박구홍                                                 | 임학송 |     |
-| 9화  | 12월 19일 | 둘째 사위    | [최일남](https://ko.wikipedia.org/wiki/최일남 "wikilink") | 김금주                                                 | 조문진 |     |
-| 10화 | 12월 26일 | 아버지의 강   | 안장환                                                 | 박찬호                                                 | 심현우 |     |
+<table>
+<thead>
+<tr class="header">
+<th><p>회차</p></th>
+<th><p>방송일</p></th>
+<th><p>작품명</p></th>
+<th><p>원작</p></th>
+<th><p>극본</p></th>
+<th><p>연출</p></th>
+<th><p>출연자</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1화</p></td>
+<td><p>10월 17일</p></td>
+<td><p>해산 바가지</p></td>
+<td><p><a href="../Page/박완서.md" title="wikilink">박완서</a></p></td>
+<td><p>이국자</p></td>
+<td><p>임학송</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2화</p></td>
+<td><p>10월 24일</p></td>
+<td><p>목마 위의 여자</p></td>
+<td><p><a href="../Page/김주영_(1939년).md" title="wikilink">김주영</a></p></td>
+<td></td>
+<td><p>심현우</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3화</p></td>
+<td><p>10월 31일</p></td>
+<td><p>인간의 계곡</p></td>
+<td><p>김준일</p></td>
+<td></td>
+<td><p>김현준</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4화</p></td>
+<td><p>11월 7일</p></td>
+<td><p>가을비</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/서정인" title="wikilink">서정인</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김운경" title="wikilink">김운경</a></p></td>
+<td><p>엄기백</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5화</p></td>
+<td><p>11월 14일</p></td>
+<td><p>폭염</p></td>
+<td><p>천승제</p></td>
+<td><p>이진모</p></td>
+<td><p>차성호</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6화</p></td>
+<td><p>11월 21일</p></td>
+<td><p>연극</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/유재용" title="wikilink">유재용</a></p></td>
+<td><p>홍종원</p></td>
+<td><p>이형표</p></td>
+<td><p>윤미선 유동근 손해경 김희진<br />
+김성원 정재순 김하림 유순철<br />
+박경득 한현배 이예성 임정길<br />
+이하림 강규영 유화춘 오희찬<br />
+전숙 홍영자 김정수 최지나</p></td>
+</tr>
+<tr class="odd">
+<td><p>7화</p></td>
+<td><p>11월 28일</p></td>
+<td><p>황혼</p></td>
+<td><p><a href="../Page/이환경_(작가).md" title="wikilink">이환경</a></p></td>
+<td></td>
+<td><p>이동휘</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8화</p></td>
+<td><p>12월 5일</p></td>
+<td><p>숨은 손가락</p></td>
+<td><p><a href="../Page/이청준.md" title="wikilink">이청준</a></p></td>
+<td><p>박구홍</p></td>
+<td><p>임학송</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9화</p></td>
+<td><p>12월 19일</p></td>
+<td><p>둘째 사위</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/최일남" title="wikilink">최일남</a></p></td>
+<td><p>김금주</p></td>
+<td><p>조문진</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10화</p></td>
+<td><p>12월 26일</p></td>
+<td><p>아버지의 강</p></td>
+<td><p>안장환</p></td>
+<td><p>박찬호</p></td>
+<td><p>심현우</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### 1988년
 
-| 회차  | 방송일    | 작품명           | 원작                                                          | 극본                               | 연출                               | 출연자           |
-| --- | ------ | ------------- | ----------------------------------------------------------- | -------------------------------- | -------------------------------- | ------------- |
-| 11화 | 1월 9일  | 원무            | [서정인](https://ko.wikipedia.org/wiki/서정인 "wikilink")         | 박종길                              | 이응진                              |               |
-| 12화 | 1월 16일 | 줄             | [이청준](../Page/이청준.md "wikilink")                            |                                  | 박태원                              |               |
-| 13화 | 1월 23일 | 기다리는 빛        | 최기인                                                         |                                  | 정지영                              |               |
-| 14화 | 1월 30일 | 바드레           | [김용성](https://ko.wikipedia.org/wiki/김용성_\(소설가\) "wikilink") | 박병우                              | 김기덕                              |               |
-| 15화 | 2월 6일  | 찻집 여자         | [양귀자](../Page/양귀자.md "wikilink")                            |                                  | 정회철                              |               |
-| 16화 | 2월 13일 | 매             | [김문수](../Page/김문수_\(소설가\).md "wikilink")                    |                                  | 박진수                              |               |
-| 17화 | 2월 20일 | 우리들 뜨거운 노래    | [박범신](../Page/박범신.md "wikilink")                            | [이희우](../Page/이희우.md "wikilink") | 박태원                              |               |
-| 18화 | 2월 27일 | 강설            | [이제하](https://ko.wikipedia.org/wiki/이제하 "wikilink")         |                                  | 차성호                              |               |
-| 19화 | 3월 19일 | 매우 잘 생긴 우산 한개 | [윤흥길](../Page/윤흥길.md "wikilink")                            |                                  | 김문옥                              |               |
-| 20화 | 3월 26일 | 내탓이로소이다       | [손창섭](../Page/손창섭.md "wikilink")                            |                                  | 김동원                              |               |
-| 21화 | 4월 2일  | 열두발자국         | [이상문](https://ko.wikipedia.org/wiki/이상문 "wikilink")         | 윤석훈                              | 김양득                              |               |
-| 22화 | 4월 9일  | 아름다운 비밀       |                                                             | [이희우](../Page/이희우.md "wikilink") | 박태원                              |               |
-| 23화 | 4월 16일 | 시인과 촌장        | [서영은](../Page/서영은_\(소설가\).md "wikilink")                    | [조소혜](../Page/조소혜.md "wikilink") | [이종한](../Page/이종한.md "wikilink") |               |
-| 24화 | 4월 23일 | 슈퍼스타를 위하여     | [김창동](../Page/김창동.md "wikilink")                            |                                  | 이응진                              | 오욱철, 김순철, 김혜란 |
+| 회차  | 방송일    | 작품명           | 원작                                                          | 극본                               | 연출                               | 출연자         |
+| --- | ------ | ------------- | ----------------------------------------------------------- | -------------------------------- | -------------------------------- | ----------- |
+| 11화 | 1월 9일  | 원무            | [서정인](https://ko.wikipedia.org/wiki/서정인 "wikilink")         | 박종길                              | 이응진                              |             |
+| 12화 | 1월 16일 | 줄             | [이청준](../Page/이청준.md "wikilink")                            |                                  | 박태원                              |             |
+| 13화 | 1월 23일 | 기다리는 빛        | 최기인                                                         |                                  | 정지영                              |             |
+| 14화 | 1월 30일 | 바드레           | [김용성](https://ko.wikipedia.org/wiki/김용성_\(소설가\) "wikilink") | 박병우                              | 김기덕                              |             |
+| 15화 | 2월 6일  | 찻집 여자         | [양귀자](../Page/양귀자.md "wikilink")                            |                                  | 정회철                              |             |
+| 16화 | 2월 13일 | 매             | [김문수](../Page/김문수_\(소설가\).md "wikilink")                    |                                  | 박진수                              |             |
+| 17화 | 2월 20일 | 우리들 뜨거운 노래    | [박범신](../Page/박범신.md "wikilink")                            | [이희우](../Page/이희우.md "wikilink") | 박태원                              |             |
+| 18화 | 2월 27일 | 강설            | [이제하](https://ko.wikipedia.org/wiki/이제하 "wikilink")         |                                  | 차성호                              |             |
+| 19화 | 3월 19일 | 매우 잘 생긴 우산 한개 | [윤흥길](../Page/윤흥길.md "wikilink")                            |                                  | 김문옥                              |             |
+| 20화 | 3월 26일 | 내탓이로소이다       | [손창섭](../Page/손창섭.md "wikilink")                            |                                  | 김동원                              |             |
+| 21화 | 4월 2일  | 열두발자국         | [이상문](https://ko.wikipedia.org/wiki/이상문 "wikilink")         | 윤석훈                              | 김양득                              |             |
+| 22화 | 4월 9일  | 아름다운 비밀       |                                                             | [이희우](../Page/이희우.md "wikilink") | 박태원                              |             |
+| 23화 | 4월 16일 | 시인과 촌장        | [서영은](../Page/서영은_\(소설가\).md "wikilink")                    | [조소혜](../Page/조소혜.md "wikilink") | [이종한](../Page/이종한.md "wikilink") |             |
+| 24화 | 4월 23일 | 슈퍼스타를 위하여     | [김창동](../Page/김창동.md "wikilink")                            |                                  | 이응진                              | 오욱철 김순철 김혜란 |
 
 ### TV문예극장
 
@@ -6125,13 +6222,14 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>김문수</p></td>
 <td><p>김혜수</p></td>
 <td><p>장기오</p></td>
-<td><p>송승환 장민호 신구 임동진<br />
-임병기 선동혁 이대로 이원종<br />
-김희진 안병경 장정희 김대환<br />
-조통달 양영준 남윤정 하대경<br />
-이한승 유순철 박해상 안해숙<br />
-기정수 이진수 서주희 김지예<br />
-이진원 김규민 정재은</p></td>
+<td><p>임동진 장민호 신구 송승환<br />
+안해숙 남윤정 기정수 김희진<br />
+양영준 박경득 이대로 안병경<br />
+박해상 선동혁 이원종 하대경<br />
+조재훈 임병기 유순철 이한승<br />
+이두섭 장정희 김지예 정재은<br />
+이진수 김대환 서주희 김규민<br />
+이진원 조통달</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=cUlrW6Wg3BU"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
 <td><p>유교적 전통이 완고한 가문의 종손인 희택은<br />
 정승 셋을 나게 한다는 명당 만취당에서 성장했다.<br />
@@ -6149,13 +6247,13 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="even">
 <td><p>2화</p></td>
 <td><p>7월 14일</p></td>
-<td><p>벽</p></td>
+<td><p>벽[27]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이병주" title="wikilink">이병주</a></p></td>
 <td><p>이홍구</p></td>
 <td><p>윤흥식</p></td>
-<td><p><a href="../Page/이재룡.md" title="wikilink">이재룡</a> <a href="https://ko.wikipedia.org/wiki/이미연" title="wikilink">이미연</a> <a href="https://ko.wikipedia.org/wiki/박진성" title="wikilink">박진성</a> 김용건<br />
-전운 이원발 김시원 정재순<br />
-백찬기 김영식 이은실 전은진</p></td>
+<td><p>이미연 이재룡 박진성 전운<br />
+김용건 정재순 김영식 김시원<br />
+백찬기 이원발 이은실 전은진</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=JaPSAKMwyj8"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
 <td><p>조연희는 남녀공학인 법대의 홍일점으로 암벽등반을 즐기는데<br />
 경식, 상민과는 같은 산악회원인지라 각별히 친하게 지낸다.<br />
@@ -6174,19 +6272,19 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>오정희</p></td>
 <td><p>김혜수</p></td>
 <td><p>이현석</p></td>
-<td><p>김영옥 김청 박인환 백윤식<br />
-김기일 윤여정 강효정 이원종<br />
-홍승옥 전원주 장미자 곽정희<br />
-김기섭 이일웅 봉혜선 이병철<br />
-김하림 최건호 박현정 백찬기<br />
-박규식 정복임 이효정 송미령<br />
-강승우 정효진 박은주 신현준<br />
-문혁 박선영</p></td>
+<td><p>강효정 박선영 강승우 문혁<br />
+김영옥 김청 백윤식 이일웅<br />
+전원주 장미자 박인환 윤여정<br />
+김기일 김기섭 김하림 박규식<br />
+이원종 곽정희 이병철 봉혜선<br />
+백찬기 박현정 이효정 정복임<br />
+정효진 송미령 최건호 박은주<br />
+홍승옥 김성녀</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=Ug93IlPXh3Q"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
-<td><p>나는 7세의 어린이로 멀리서 들려오는 포성소리를 통해<br />
-전쟁을 간접적으로 경험한다. 아버지가 전쟁과 함께 징집되어<br />
-아버지의 부재상태 속에서 삶의 다양한 비극적 면모들과 접하게 된다.<br />
-나의 집은 궁핍하기 짝이 없다. 때문에 이를 구실삼아 어머니는<br />
+<td><p>나는 7세의 어린이로 멀리서 들려오는 포성소리를 통해 전쟁을 간접적으로 경험한다.<br />
+아버지가 전쟁과 함께 징집되어 아버지의 부재상태 속에서<br />
+삶의 다양한 비극적 면모들과 접하게 된다. 나의 집은 궁핍하기 짝이 없다.<br />
+때문에 이를 구실삼아 어머니는<br />
 밤 화장을 하고 읍내의 밥집 일을 나가 돈을 번다.<br />
 오빠는 이러한 어머니의 외출에 불만을 품고 틈만나면<br />
 언니의 행동이 정숙하지 못하다며 매질을 하곤 한다.<br />
@@ -6201,31 +6299,71 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>채희문</p></td>
 <td><p><a href="../Page/문영남.md" title="wikilink">문영남</a></p></td>
 <td><p>김충길</p></td>
-<td><p><a href="../Page/문미봉.md" title="wikilink">문미봉</a> <a href="../Page/변영훈.md" title="wikilink">변영훈</a> <a href="../Page/이주경.md" title="wikilink">이주경</a> <a href="../Page/최란.md" title="wikilink">최란</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/변영훈.md" title="wikilink">변영훈</a> <a href="../Page/문미봉.md" title="wikilink">문미봉</a> 정운용 <a href="../Page/이주경.md" title="wikilink">이주경</a><br />
+최명수 김순철 김보미 정재순<br />
+윤병훈 장희진 <a href="../Page/최란.md" title="wikilink">최란</a> 조양자<br />
+양형호 김윤형 송희남 임병기<br />
+방숙례 김민옥 윤관용 권오균<br />
+김형일 최재성 조정국 정형기</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=1Y5WIE2JM8I"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>어머니가 심근경색증으로 식물인간이 되자 넉넉치 못한<br />
+자식들에게 어머니는 단지 처리할 수 없는 짐으로 남고,<br />
+그로 인해 자식들간에는 갈등의 골만 깊어간다.<br />
+이런 상황이 7-8개월 끌게되자 "긴 병에 효자없다." 는 속담대로<br />
+자식들은 어머니가 하루속히 세상을 버리길 기대하게 되고,<br />
+그런 부도덕한 감정은 급기야 누가 안락사를 시켜줬으면 하게 된다.<br />
+그러나 부모자식 사이는 하늘이 맺어준 관계로<br />
+어쩔 수 없이 인고와 노력으로 버틸 수 밖에 없고,<br />
+결국 검은양복을 지어놓고 그 운명을 기다리며 스스로의 이기심을 달랜다.</p></td>
 </tr>
 <tr class="odd">
 <td><p>5화</p></td>
 <td><p>10월 13일</p></td>
 <td><p>저 깊푸른 강</p></td>
-<td><p>김영현</p></td>
-<td><p>이환경</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김영현_(소설가)" title="wikilink">김영현</a></p></td>
+<td><p><a href="../Page/이환경_(작가).md" title="wikilink">이환경</a></p></td>
 <td><p>김재현</p></td>
-<td><p>박진성 김갑수 김진해 김인문</p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/박진성_(배우).md" title="wikilink">박진성</a> <a href="../Page/김갑수_(배우).md" title="wikilink">김갑수</a> <a href="../Page/김진해.md" title="wikilink">김진해</a> <a href="../Page/김인문_(배우).md" title="wikilink">김인문</a><br />
+하미혜 장희진 이문환 김기복<br />
+김영기 김희진 곽정희 이현실<br />
+서상익 유순철 김대환 이원종<br />
+이영수 박시영 서창호 김영식<br />
+윤성국 최용욱 안동석 정진강<br />
+박영희 문혁 김선명</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=cnSaKfMjAHg"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>나는 어느 출판사 주간으로 일하고 있던 중, 형의 부음을 받았다.<br />
+언제나 집안을 편하게하지 않던 형은 내내 아버지와 대립하며 살다가 끝내 폐병에 걸렸다.<br />
+나는 형을 미워했지만 교도소에서 형의 외삼촌을 만나<br />
+집안의 내력을 알게 되면서부터 형을 이해할수 있게 되었다.<br />
+형의 외삼촌은 그당시 골수 빨갱이였다.<br />
+아버지는 그 6.25 의 와중에 치안대에 있으면서 형의 어머니를 유혹했고,<br />
+그녀의 남편을 죽창으로 찔러 죽였다고 한다.<br />
+그때 그 여자는 형을 임신하고 있었다.<br />
+이 사건으로 형의 어머니는 실성했고 폐병으로 죽었다고 했다.<br />
+아버지는 형을 볼 때마다 아버지가 죽인 형의 아버지와 어머니에 대해 가책을 받았다.<br />
+형은 늘 반항적이었고, 어머니의 폐병을 이어받아 아버지가 돌아가신지 2년만에 생을 마감한 것이다.</p></td>
 </tr>
 <tr class="even">
 <td><p>6화</p></td>
 <td><p>11월 10일</p></td>
-<td><p>불항아리[27]</p></td>
+<td><p>불항아리[28]</p></td>
 <td><p><a href="../Page/이청준.md" title="wikilink">이청준</a></p></td>
 <td><p>이환경</p></td>
 <td><p>이녹영</p></td>
-<td><p><a href="../Page/신구_(배우).md" title="wikilink">신구</a> <a href="../Page/윤승원_(배우).md" title="wikilink">윤승원</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/신구_(배우).md" title="wikilink">신구</a> <a href="../Page/윤승원_(배우).md" title="wikilink">윤승원</a> <a href="../Page/권기선.md" title="wikilink">권기선</a> <a href="../Page/민지환.md" title="wikilink">민지환</a><br />
+김봉근 김해권 기정수 맹호림<br />
+박해상 곽정희 최용욱 신원균<br />
+차기환</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=-UtGnEcRioU"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>완구 수출업자인 민경섭은 이 항아리를 지닌 사람은 부자가 된다는<br />
+낙서가 설채된 백자항아리를 소유하고 있는데 거기엔 감동적인 내력이 담겨있다.<br />
+60여년전 백용술은 하봉도 노인을 스승으로 도자기 일을 배우고 있었다.<br />
+그러나 잔심부름만 시키고 가마일에 대해서는 아무것도 가르쳐 주지 않고<br />
+노인의 성격도 괴팍하여 각고끝에 구워낸 사기물을 깨부수기 일쑤였다.<br />
+그러다보니 당연히 생활이 문제였다 . 어쩔 수 없이 용술은<br />
+어깨너머로 배운 기술로 익힌 도자기 몇 점씩을 노인몰래 세상에 흘려 의식을 해결했다.<br />
+민경섭이 항아리를 애타게 찾고있다는 신문광고를 보고 분매산 가마터에서 만난 백노인은<br />
+그때 만들었던 항아리 들중 하나인 백자항아리를 어루만지며 눈물을 흘린다.</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -6261,12 +6399,12 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="odd">
 <td><p>7화</p></td>
 <td><p>1월 12일</p></td>
-<td><p>밤주막[28]</p></td>
+<td><p>밤주막[29]</p></td>
 <td><p><a href="../Page/고은.md" title="wikilink">고은</a></p></td>
 <td><p>유우재</p></td>
 <td><p>김홍종</p></td>
 <td><p><a href="../Page/김봉근_(배우).md" title="wikilink">김봉근</a> <a href="../Page/정진_(1941년).md" title="wikilink">정진</a> <a href="../Page/김영옥_(배우).md" title="wikilink">김영옥</a> 서상익<br />
-이미경 홍성민</p></td>
+<a href="../Page/홍성민_(배우).md" title="wikilink">홍성민</a> <a href="../Page/이미경_(배우).md" title="wikilink">이미경</a> 장인환 박건식</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -6274,12 +6412,30 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>8화</p></td>
 <td><p>2월 9일</p></td>
 <td><p>황색시인</p></td>
-<td><p>추식</p></td>
-<td><p>윤혁인</p></td>
+<td><p><a href="../Page/추식.md" title="wikilink">추식</a>(추성춘)</p></td>
+<td><p>윤혁민</p></td>
 <td><p>이유황</p></td>
-<td><p><a href="../Page/안대용.md" title="wikilink">안대용</a> <a href="https://ko.wikipedia.org/wiki/박주아" title="wikilink">박주아</a> <a href="../Page/이신재.md" title="wikilink">이신재</a> <a href="https://ko.wikipedia.org/wiki/김선영" title="wikilink">김선영</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/안대용.md" title="wikilink">안대용</a> <a href="../Page/이신재.md" title="wikilink">이신재</a> 김선영 <a href="../Page/박주아_(배우).md" title="wikilink">박주아</a><br />
+김봉근 장희진 유명순 김소유<br />
+조재훈 유순철 박현순 장미자<br />
+김덕현 윤성국 이한승 선동혁<br />
+임성원 이한수 박정웅 신수강<br />
+김대환 김윤형 박승규 임영식<br />
+정주현 김하림 장칠군 박시영<br />
+이경실 양형호 김상용</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=zH_tXLgRN-I"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>청산중학교의 방교장은 예쁘장한 외모에 문학을 한다는<br />
+홍선생에게 시를 지도해 보리라는 작정에 가까이 해왔다.<br />
+그러나 홍선생의 시는 기껏 노오란 타령에서 노오란 타령으로 끝나는<br />
+별볼일 없는 것들 뿐이였으며, 방 교장의 작품을 모두 사정없이 헐뜯는 것이다.<br />
+게다가 거의 매일밤 만취가 되서 방교장의 집으로 와서<br />
+술주정에다 잠까지 자는 것이다.<br />
+그러던 어느날 밤, 홍선생은 이젠 술을 끊고 교원생활을 해야겠다며<br />
+사정하자 한달동안 방교장의 집에 기거하면서<br />
+지도를 받는다는 조건으로 방교장은 홍선생의 청을 수락한다.<br />
+그러나 홍선생은 교사로서의 성실한 생활이 얼마간 지속되다가<br />
+다시 예전의 망나니로 되돌아가고 느닷없이 학급급사인 숙이와<br />
+결혼하겠다고 하자 두사람을 해고시키는데...</p></td>
 </tr>
 <tr class="odd">
 <td><p>9화</p></td>
@@ -6288,9 +6444,30 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p><a href="../Page/최인석_(1953년).md" title="wikilink">최인석</a></p></td>
 <td><p>송원탁</p></td>
 <td><p>이현석</p></td>
-<td><p><a href="../Page/이호재.md" title="wikilink">이호재</a> <a href="../Page/조민수_(배우).md" title="wikilink">조민수</a> <a href="../Page/김용건.md" title="wikilink">김용건</a> <a href="../Page/심양홍.md" title="wikilink">심양홍</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/조민수_(배우).md" title="wikilink">조민수</a> <a href="../Page/이호재.md" title="wikilink">이호재</a> <a href="../Page/심양홍.md" title="wikilink">심양홍</a> <a href="../Page/김용건.md" title="wikilink">김용건</a><br />
+김청 홍성민 김기섭 유동근<br />
+최선자 전원주 김지영 봉혜선<br />
+이원종 이병철 이춘식 이운우<br />
+김성찬 장기용 이항수 문풍지<br />
+정효진 이필수 유태술 문홍식<br />
+최건호 손호균 김하균 유루나<br />
+김정연 오수민 손현주 권병준<br />
+김덕현 노현희 황선정 박현<br />
+이기철 배도환 이종길 서미애</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=07tkOL2K9p4"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>엘리베이터란 독특한 공간을 통해 이 시대의 단절되고<br />
+분해된 인간관계를 그린 드라마. 한주본관 건물안에는 용원노조원들이<br />
+임금인상을 위해 파업중이다. 사장에게 보고를 하기위해<br />
+21층의 사장실로 올라가던 조경현실장은 마침 12층에서<br />
+날씬한 각선미를 자랑하는 전산실의 오퍼레이터 민영주와 동승하는데<br />
+곧이어 승강기가 고장나는 바람에 사건이 시작된다.<br />
+시간은 흐르고 승강기안의 두사람은 추락의 공포에 휩싸여가고<br />
+마침내 승강기회사에서 승강기를 고치기위해 기술자들이 오지만<br />
+노조원들의 강력한 저지에 부딪혀 접근조차 못한다 .<br />
+두 사람은 서로를 의지하게 되고 개인적인 속깊은 이야기까지 말하게된다.<br />
+시간이 갈수록 노조내부에서도<br />
+승강기부터 고쳐야한다는 온건파가 우세하여 승강기를 고치게 된다.<br />
+그뒤 승강기를 다시 타게된 조경헌은 민영주가 떨어뜨린 "머리칼 인형" 을 줍는다.</p></td>
 </tr>
 <tr class="even">
 <td><p>10화</p></td>
@@ -6299,8 +6476,9 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/박상우" title="wikilink">박상우</a></p></td>
 <td><p>유하</p></td>
 <td><p>김충길</p></td>
-<td><p><a href="../Page/선우재덕.md" title="wikilink">선우재덕</a> <a href="../Page/이주경.md" title="wikilink">이주경</a> <a href="../Page/박은영_(배우).md" title="wikilink">박은영</a> <a href="../Page/김청.md" title="wikilink">김청</a><br />
-<a href="https://ko.wikipedia.org/wiki/김명신" title="wikilink">김명신</a> <a href="../Page/정욱_(1938년).md" title="wikilink">정욱</a> <a href="../Page/허진_(배우).md" title="wikilink">허옥숙</a></p></td>
+<td><p><a href="../Page/선우재덕.md" title="wikilink">선우재덕</a> <a href="../Page/이주경.md" title="wikilink">이주경</a> 김명신 박삼순<br />
+우수진 <a href="../Page/허진_(배우).md" title="wikilink">허진</a> 김현아 김원미<br />
+<a href="../Page/박은영_(배우).md" title="wikilink">박은영</a> <a href="../Page/정욱_(1938년).md" title="wikilink">정욱</a> <a href="../Page/김청.md" title="wikilink">김청</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -6311,10 +6489,23 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p><a href="../Page/최인석_(1953년).md" title="wikilink">최인석</a></p></td>
 <td><p>최경식</p></td>
 <td><p>김재현</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김기섭_(배우)" title="wikilink">김기섭</a> 안옥희 박건식 <a href="../Page/노영국.md" title="wikilink">노영국</a><br />
-<a href="../Page/김인문.md" title="wikilink">김인문</a> <a href="../Page/문미봉.md" title="wikilink">문미봉</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김기섭_(배우)" title="wikilink">김기섭</a> 안옥희 <a href="../Page/김진해.md" title="wikilink">김진해</a> <a href="../Page/문미봉.md" title="wikilink">문미봉</a><br />
+서재진 차효림 신수강 오수민<br />
+이종익 김영희 <a href="../Page/박종관.md" title="wikilink">박종관</a> <a href="../Page/안병경.md" title="wikilink">안병경</a><br />
+이원종 <a href="../Page/김인문.md" title="wikilink">김인문</a> <a href="../Page/양택조.md" title="wikilink">양택조</a> 반석진<br />
+<a href="https://ko.wikipedia.org/wiki/박건식" title="wikilink">박건식</a> <a href="../Page/노영국.md" title="wikilink">노영국</a> 이한승 추석양<br />
+양형호 김영식 김동완 조은덕<br />
+장정희 서상익 이두섭 박상규<br />
+김대환 최석구 구한승 오성열<br />
+안효진 민병국 최용욱 최용팔<br />
+최건호</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=KYEtddDBbis"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>마흔살의 세기중공업 울산공장 총무과장 김영수는 고향 전답 처분문제로 아내와 밤늦도록 희망에 부푼<br />
+의논을 한다. 그 시간에 아파트 경비원 박씨가 성폭행당한 민정을 발견하지만 민정의 부모는 절대 그런일이<br />
+없다고 펄쩍 뛴다. 하지만 박씨는 길수와 최군을 용의자로 꼽는다. 영수는 식구들을 데리고 고향집에 들리고<br />
+중풍인 홀어머니를 모시는 이유로 동네사람들로부터 효자라는 칭찬을 받는다. 봄이 되면서 세기중공업은<br />
+대폭적인 임금인상으로 인한 노조원들의 데모로 진통을 겪는데 영수의 대학 후배인 노조위원장 오계장은 영수를<br />
+자기들편으로 만들기위해 혈안이 된다. 그러나 영수는 사내의 동향을 살피면서 어정쩡한 태도를 취하는데...</p></td>
 </tr>
 <tr class="even">
 <td><p>12화</p></td>
@@ -6323,27 +6514,65 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/이원규" title="wikilink">이원규</a></p></td>
 <td><p>최경식</p></td>
 <td><p>이녹영</p></td>
-<td><p><a href="../Page/김봉근_(배우).md" title="wikilink">김봉근</a> 장학수 <a href="../Page/김지영_(1938년).md" title="wikilink">김지영</a> <a href="../Page/연운경.md" title="wikilink">연운경</a><br />
-<a href="../Page/변희봉.md" title="wikilink">변희봉</a> <a href="https://ko.wikipedia.org/wiki/김희진" title="wikilink">김희진</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/김봉근_(배우).md" title="wikilink">김봉근</a> <a href="../Page/변희봉.md" title="wikilink">변희봉</a> <a href="../Page/김지영_(1938년).md" title="wikilink">김지영</a> 장학수<br />
+<a href="../Page/연운경.md" title="wikilink">연운경</a> 이문환 김희진 이원종<br />
+양재성 조재훈 최용욱 곽정희<br />
+이두섭 황건일 김대환 양은미<br />
+김성희 배도환 이규준 김남일<br />
+마두봉</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=q4k9gws6u3c"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>서해의 덕산도, 고기잡이가 생업인 광덕호의 선주 한광식과 6.25 때 죽은 줄로만 알았던 아버지의 이야기.<br />
+어느날 출어금지를 당한 광식은 지서장을 찾는다. 실종되었던 아버지의 생존소식을 듣고 아버지가 들려주곤<br />
+했던 노래를 회상한다. 그동안 쌓은 덕망으로 출어금지가 해제되고 다시 출어에 나선 한광식은 조업을 마치고<br />
+귀환하다 북쪽에서 오는 무전소리를 듣는다. 아버지의 소리임이 분명한 바디소리를 듣지만 조속귀환을<br />
+재촉하는 경비정의 소리에 광식은 뱃머리를 돌린다. 광식은 멀러져가는 북쪽 어선군단이 사리질때까지 그렇게<br />
+서 있다.</p></td>
 </tr>
 <tr class="odd">
 <td><p>13화</p></td>
+<td><p>6월 25일</p></td>
+<td><p>시간과 눈물</p></td>
+<td><p>이원하</p></td>
+<td><p>박병우</p></td>
+<td><p>홍성덕</p></td>
+<td><p><a href="../Page/김영철_(배우).md" title="wikilink">김영철</a> <a href="../Page/한혜숙.md" title="wikilink">한혜숙</a> 김병기 사미자<br />
+하미혜 이원종 김일란 고정일<br />
+김시원 문창길 송종원 신수강<br />
+하대경 박건식 이한승 유순철<br />
+기정수 박현정 황민 이윤정<br />
+김옥만 정상철</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=lpepi3hBK3A"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>이산가족 방문을 앞두고 이산의 아픔을 비극미로 승화시키고 서정성을 바탕으로 전쟁의 흔적, 추억을<br />
+정감있게 그린 휴먼드라마. 6.25 때 어머니, 큰형의 시체를 두고 남하한 4남매, 유송, 미송, 인송, 송이는 피난도중<br />
+유송의 남편과 인송, 미송이를 잃어버리고 유송과 송이만 남해안 월포에 도착하여 굳세고 모질게 삶을 영위한다 .<br />
+작은형 인송을 찾게되나 옥남과의 서정적 사랑을 남기고 죽는다. 송이는 극적인 재회를 한 남희와 결혼하여<br />
+살고, 큰누나 유송은 남편을 기다리며 산다. 이때 KBS 이산가족찾기 캠페인이 시작되고 큰누나, 남희, 송희는<br />
+미송과 매형을 찾는 방송을 한다.</p></td>
+</tr>
+<tr class="even">
+<td><p>14화</p></td>
 <td><p>7월 22일</p></td>
 <td><p>소년의 거리</p></td>
 <td></td>
 <td><p><a href="../Page/최인석_(1953년).md" title="wikilink">최인석</a></p></td>
 <td><p>김홍종</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/허석" title="wikilink">허석</a> <a href="../Page/이주경.md" title="wikilink">이주경</a> <a href="../Page/홍성민_(배우).md" title="wikilink">홍성민</a> 조용태<br />
-강철민</p></td>
+<td><p><a href="../Page/홍성민_(배우).md" title="wikilink">홍성민</a> <a href="https://ko.wikipedia.org/wiki/허석" title="wikilink">허석</a> <a href="../Page/이주경.md" title="wikilink">이주경</a> 강철민<br />
+<a href="../Page/민욱_(배우).md" title="wikilink">민욱</a> 조용태 서상익 김시원<br />
+박건식 최석호 이경영 김영식<br />
+정재순 최동균 방숙례 김동완<br />
+노현희 이경실 최용욱 장행섭<br />
+박상만 김덕현 이항수 김상용<br />
+최건호 이종길 김준모 정동남<br />
+오성렬 이기철 한연수 권병준<br />
+양재원 박인서 김성희 윤영아<br />
+전경희 윤아 박삼순</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>14화</p></td>
+<tr class="odd">
+<td><p>15화</p></td>
 <td><p>8월 27일</p></td>
-<td><p>미개인 (방영 취소[29][30])</p></td>
+<td><p>미개인 (방영 취소[30][31])</p></td>
 <td><p><a href="../Page/최인호_(작가).md" title="wikilink">최인호</a></p></td>
 <td><p><a href="../Page/문영남.md" title="wikilink">문영남</a></p></td>
 <td><p>김충길</p></td>
@@ -6352,43 +6581,57 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>15화</p></td>
+<tr class="even">
+<td><p>16화</p></td>
 <td><p>9월 24일</p></td>
 <td><p>월광</p></td>
-<td><p>오유권</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오유권" title="wikilink">오유권</a></p></td>
 <td><p>최경식</p></td>
 <td><p>김재현</p></td>
-<td><p><a href="../Page/변희봉.md" title="wikilink">변희봉</a> <a href="../Page/권재희.md" title="wikilink">권재희</a> <a href="../Page/안대용.md" title="wikilink">안대용</a> <a href="../Page/문미봉.md" title="wikilink">문미봉</a><br />
-<a href="../Page/서영진.md" title="wikilink">서영진</a></p></td>
+<td><p><a href="../Page/변희봉.md" title="wikilink">변희봉</a> <a href="../Page/권재희.md" title="wikilink">권재희</a> <a href="../Page/서영진.md" title="wikilink">서영진</a> 김성현<br />
+서원미 <a href="../Page/안대용.md" title="wikilink">안대용</a> 정종준 이한승<br />
+윤성국 <a href="../Page/문미봉.md" title="wikilink">문미봉</a> 안효진 박정웅<br />
+장희진 양형호 조재훈 이두섭<br />
+김영식 이한위 김대환 오수민<br />
+김나라 김성희 윤아</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>16화</p></td>
+<tr class="odd">
+<td><p>17화</p></td>
 <td><p>10월 29일</p></td>
 <td><p>사람</p></td>
 <td><p>홍성화</p></td>
 <td><p>김항명</p></td>
 <td><p>문영진</p></td>
 <td><p><a href="../Page/임동진.md" title="wikilink">임동진</a> <a href="../Page/민욱_(배우).md" title="wikilink">민욱</a> <a href="../Page/정재순.md" title="wikilink">정재순</a> <a href="../Page/박정수_(배우).md" title="wikilink">박정수</a><br />
-김상아 한정국 <a href="../Page/이혜진_(1968년).md" title="wikilink">이혜진</a></p></td>
+김상아 <a href="../Page/이혜진_(1968년).md" title="wikilink">이혜진</a> 양영준 이두섭<br />
+유종근 박해상 기정수 박정웅<br />
+박승규 임영식 윤용덕 김하균<br />
+이기철 함석훈 박인서</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>17화</p></td>
+<tr class="even">
+<td><p>18화</p></td>
 <td><p>12월 16일</p></td>
 <td><p>풍금이 있던 자리</p></td>
 <td><p><a href="../Page/신경숙.md" title="wikilink">신경숙</a></p></td>
 <td><p>송원탁</p></td>
 <td><p>이현식</p></td>
-<td><p><a href="../Page/하유미_(배우).md" title="wikilink">하유미</a> <a href="../Page/김청.md" title="wikilink">김청</a> <a href="../Page/전무송.md" title="wikilink">전무송</a> <a href="../Page/김영철_(배우).md" title="wikilink">김영철</a><br />
-<a href="../Page/김형자.md" title="wikilink">김형자</a> <a href="../Page/김인문_(배우).md" title="wikilink">김인문</a> <a href="../Page/사미자.md" title="wikilink">사미자</a> <a href="../Page/양희경.md" title="wikilink">양희경</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/하유미_(배우).md" title="wikilink">하유미</a> <a href="../Page/김영철_(배우).md" title="wikilink">김영철</a> <a href="../Page/전무송.md" title="wikilink">전무송</a> <a href="../Page/김청.md" title="wikilink">김청</a><br />
+김정하 김인문 사미자 전원주<br />
+봉혜선 장미자 이종남 정미숙<br />
+이필수 최건호 심정완 이수근<br />
+김정환 박지애</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=pPXRAkr0tsA"><a href="https://ko.wikipedia.org/wiki/파일:Open_Iconic_video.svg" title="wikilink">30px</a></a></p></td>
+<td><p>92년도 이상문학상 우수작품으로 추천된 신경숙 원작소설. 스포츠센터의 에어로빅 강사인 명혜는 두아이와<br />
+아내가 있는 중년남자 형준과 2년째 부도덕한 사랑에 빠져있는 20대 중반의 여자이다. 형준과 미국으로<br />
+도피하여 함께 살겠다는 결심으로 부모와의 결별을 위해 고향을 찾는다. 집에 머무는 동안 어린날의 추억들과<br />
+각인처럼 새겨져 있는 아버지의 정부 "그 여자" 에 대한 회상으로 자신의 모습이 "그 여자" 가 아닌가 하는 확인<br />
+사이에서 갈등한다. 결국 명혜는 형준과 약속한 날짜를 넘기고 형준은 가정으로 돌아간다.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -6427,7 +6670,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>길위의 날들</p></td>
 <td><p><a href="../Page/오정희_(소설가).md" title="wikilink">오정희</a><br />
 외 3명<br />
-[31][32]</p></td>
+[32][33]</p></td>
 <td><p>김옥영</p></td>
 <td><p>김홍종</p></td>
 <td><p>김영기 정애란</p></td>
@@ -6592,7 +6835,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="odd">
 <td><p>5화</p></td>
 <td><p>3월 5일</p></td>
-<td><p>길은 그리움을 부른다[33]</p></td>
+<td><p>길은 그리움을 부른다[34]</p></td>
 <td><p><a href="../Page/이균영.md" title="wikilink">이균영</a></p></td>
 <td><p>이란</p></td>
 <td><p>장기오</p></td>
@@ -6840,7 +7083,8 @@ Rayfield.Brittenum Tim.Gilder<br />
 <td><p>류갑열</p></td>
 <td><p>최지영</p></td>
 <td><p>김민주 최철호 장현성 엄수정<br />
-정은표 이근엽 이상이 호산</p></td>
+정은표 박영지 김명국 이달형<br />
+장태성 이근엽 이상이 호산</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -6922,7 +7166,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="even">
 <td><p>10화</p></td>
 <td><p>3월 5일</p></td>
-<td><p>노래여! 마지막 노래여![34]</p></td>
+<td><p>노래여! 마지막 노래여![35]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/유익서" title="wikilink">유익서</a></p></td>
 <td><p>김병수</p></td>
 <td><p>장기오</p></td>
@@ -7006,7 +7250,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="odd">
 <td><p>14화</p></td>
 <td><p>3월 3일</p></td>
-<td><p><a href="../Page/난장이가_쏘아올린_작은_공_(드라마).md" title="wikilink">난장이가 쏘아올린 작은공</a>[35]</p></td>
+<td><p><a href="../Page/난장이가_쏘아올린_작은_공_(드라마).md" title="wikilink">난장이가 쏘아올린 작은공</a>[36]</p></td>
 <td><p><a href="../Page/조세희.md" title="wikilink">조세희</a></p></td>
 <td><p>박진숙</p></td>
 <td><p>김형일</p></td>
@@ -7018,7 +7262,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="even">
 <td><p>15화</p></td>
 <td><p>3월 4일</p></td>
-<td><p>랍스터를 먹는 시간[36]</p></td>
+<td><p>랍스터를 먹는 시간[37]</p></td>
 <td><p><a href="../Page/방현석.md" title="wikilink">방현석</a><br />
 <a href="../Page/김미라.md" title="wikilink">김미라</a></p></td>
 <td><p>권민수</p></td>
@@ -7030,7 +7274,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="odd">
 <td><p>16화</p></td>
 <td><p>3월 4일</p></td>
-<td><p>카스테라[37]</p></td>
+<td><p>카스테라[38]</p></td>
 <td><p><a href="../Page/박민규_(작가).md" title="wikilink">박민규</a></p></td>
 <td><p>고은선</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김용수" title="wikilink">김용수</a></p></td>
@@ -7062,7 +7306,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="odd">
 <td><p>17화</p></td>
 <td><p>3월 3일</p></td>
-<td><p>봄, 봄봄[38]</p></td>
+<td><p>봄, 봄봄[39]</p></td>
 <td><p><a href="../Page/김유정_(소설가).md" title="wikilink">김유정</a></p></td>
 <td><p>박지숙<br />
 이수인<br />
@@ -7076,7 +7320,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="even">
 <td><p>18화</p></td>
 <td><p>3월 4일</p></td>
-<td><p>나의 피투성이 연인[39]</p></td>
+<td><p>나의 피투성이 연인[40]</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/정미경_(소설가)" title="wikilink">정미경</a></p></td>
 <td><p>이윤영<br />
 김순덕<br />
@@ -7205,7 +7449,7 @@ Rayfield.Brittenum Tim.Gilder<br />
 <tr class="odd">
 <td><p>4화</p></td>
 <td><p>3월 2일</p></td>
-<td><p>강산무진[40]</p></td>
+<td><p>강산무진[41]</p></td>
 <td><p>김훈</p></td>
 <td><p>이인</p></td>
 <td><p>김홍종</p></td>
@@ -7268,17 +7512,18 @@ Rayfield.Brittenum Tim.Gilder<br />
 24. 원제: 어제 울린 총소리
 25. 원제: 뱀산
 26. 원제: 필드
-27. 원제: 불먹은 항아리
-28. 고은의 단편소설 〈밤주막〉, 〈만월〉, 〈만추〉 등 세 편을 재구성한 작품이다.
-29. 한센병(나병) 병력자들의 권익단체인 한성협동회의 항의를 받고 방영 취소되었다.
-30.
-31. 오정희의 ‘구부러진 길 저쪽’, 김동곤의 ‘철이 아버지’, 윤정모의 ‘아들’, 임철우의 ‘사평역’의 에피소드를 가지고, 귀휴에 나선 장기수와 어머니의 이야기로 새롭게 꾸몄다.
-32.
-33. 원제: 나뭇잎은 그리운 불빛을 만든다
-34. [유익서](https://ko.wikipedia.org/wiki/유익서 "wikilink")의 단편들을 소재로 재구성한 작품이다.
-35. [조세희](../Page/조세희.md "wikilink")의 연작 소설집 《[난장이가 쏘아올린 작은공](https://ko.wikipedia.org/wiki/난장이가_쏘아올린_작은공 "wikilink")》의 단편 〈뫼비우스의 띠〉, 〈칼날〉, 〈난장이가 쏘아올린 작은 공〉을 재구성하였다.
-36. [방현석](../Page/방현석.md "wikilink")의 〈랍스터를 먹는 시간〉과 [김미라](../Page/김미라.md "wikilink")의 〈터널을 벗어나며〉를 두 개의 옴니버스 드라마로 재구성하였다.
-37. [박민규의](../Page/박민규_\(작가\).md "wikilink") 단편집 《카스테라》의 작품 중 〈그렇습니까, 기린입니다〉와 〈고마워, 과연 너구리야〉를 재구성하였다.
-38. 이 작품은 《봄, 봄》을 토대로 시간적 배경을 현대로 바꿔놓은, 거의 개작해서 방영되었다.
-39. 정미경의 단편 〈나의 보랏빛 사진〉, 〈밤이여 나뉘어라〉, 〈나의 피투성이 연인〉을 3개의 옴니버스 드라마로 재구성하였다.
-40. 1부 강산무진, 2부 고향의 그림자, 3부 머나먼 속세 등 3편으로 이루어져 있다.
+27. 원제: 거년(去年)의 곡(曲)
+28. 원제: 불 머금은 항아리
+29. 고은의 단편소설 〈밤주막〉, 〈만월〉, 〈만추〉 등 세 편을 재구성한 작품이다.
+30. 한센병(나병) 병력자들의 권익단체인 한성협동회의 항의를 받고 방영 취소되었다.
+31.
+32. 오정희의 ‘구부러진 길 저쪽’, 김동곤의 ‘철이 아버지’, 윤정모의 ‘아들’, 임철우의 ‘사평역’의 에피소드를 가지고, 귀휴에 나선 장기수와 어머니의 이야기로 새롭게 꾸몄다.
+33.
+34. 원제: 나뭇잎은 그리운 불빛을 만든다
+35. [유익서](https://ko.wikipedia.org/wiki/유익서 "wikilink")의 단편들을 소재로 재구성한 작품이다.
+36. [조세희](../Page/조세희.md "wikilink")의 연작 소설집 《[난장이가 쏘아올린 작은공](https://ko.wikipedia.org/wiki/난장이가_쏘아올린_작은공 "wikilink")》의 단편 〈뫼비우스의 띠〉, 〈칼날〉, 〈난장이가 쏘아올린 작은 공〉을 재구성하였다.
+37. [방현석](../Page/방현석.md "wikilink")의 〈랍스터를 먹는 시간〉과 [김미라](../Page/김미라.md "wikilink")의 〈터널을 벗어나며〉를 두 개의 옴니버스 드라마로 재구성하였다.
+38. [박민규의](../Page/박민규_\(작가\).md "wikilink") 단편집 《카스테라》의 작품 중 〈그렇습니까, 기린입니다〉와 〈고마워, 과연 너구리야〉를 재구성하였다.
+39. 이 작품은 《봄, 봄》을 토대로 시간적 배경을 현대로 바꿔놓은, 거의 개작해서 방영되었다.
+40. 정미경의 단편 〈나의 보랏빛 사진〉, 〈밤이여 나뉘어라〉, 〈나의 피투성이 연인〉을 3개의 옴니버스 드라마로 재구성하였다.
+41. 1부 강산무진, 2부 고향의 그림자, 3부 머나먼 속세 등 3편으로 이루어져 있다.

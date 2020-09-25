@@ -107,7 +107,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a> ~ <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
+<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/2월_26일.md" title="wikilink">2월 26일</a> ~ <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a></p></td>
 <td><p>매주 <a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 밤 9:20 ~ 9:30 (10분)</p></td>
 <td></td>
 </tr>
@@ -265,7 +265,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="https://ko.wikipedia.org/wiki/2월_26일" title="wikilink">2월 26일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/3월_28일.md" title="wikilink">3월 28일</a><br />
+<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/2월_26일.md" title="wikilink">2월 26일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/3월_28일.md" title="wikilink">3월 28일</a><br />
 <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/5월_27일.md" title="wikilink">5월 27일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/8월_15일.md" title="wikilink">8월 15일</a></p></td>
 <td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/수요일.md" title="wikilink">수요일</a> 밤 12:45 ~ 12:50 (5분)</p></td>
 <td></td>
@@ -296,8 +296,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/3월_30일.md" title="wikilink">3월 30일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/8월_13일.md" title="wikilink">8월 13일</a></p></td>
 <td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 밤 12:15 ~ 12:45 (30분)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/8월_24일.md" title="wikilink">8월 24일</a> ~ <strong>현재</strong></p></td>
+<td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 밤 12:20 ~ 12:50 (30분)</p></td>
 <td></td>
 </tr>
 </tbody>
