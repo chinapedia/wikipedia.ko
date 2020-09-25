@@ -19,7 +19,7 @@
 
 ## 삶
 
-[위오른쪽](https://ko.wikipedia.org/wiki/파일:Platform934-2014.JPG "wikilink")
+[위오른쪽](https://ko.wikipedia.org/wiki/파일:Platform_9_3-4_\(King's_Cross_station,_London,_2014\).jpg "wikilink")
 
 ### 어린 시절과 가족
 
@@ -41,79 +41,93 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:VistadoPorto.jpg "wikilink") 1991년 [포르투갈](../Page/포르투갈.md "wikilink") [포르투](../Page/포르투.md "wikilink")에서 영어 교사로 취직을 한 롤링은 매일 밤마다 [차이콥스키의](https://ko.wikipedia.org/wiki/표트르_일리치_차이콥스키 "wikilink") 바이올린 협주곡을 들으며, 글쓰기를 이어나갔다. 그녀는 18개월이 지난 후에 포르투의 바에서 텔레비전 저널리스트 조지 아란테스와 만났고, 1992년 10월 16일에 결혼했다. 다음 해 1993년 7월 27일에는 딸 "제시카 이사벨 롤링 아란테스"(이후 이름은 "제시카 밋퍼드")를 출산했지만,\[35\]\[36\] 남편과의 불화로 1993년 11월 17일에 이혼 소송을 시작하였고, 생후 4개월 된 딸을 데리고 무일푼의 몸으로 영국으로 귀국해 여동생이 사는 [에든버러](../Page/에든버러.md "wikilink")에 정착했다.\[37\] 그녀는 고등학교의 불어 교사가 되는 길도 있었지만, 앞으로 자신의 인생에 있어 두 번 다시 없는 기회가 될 수 있다고 생각에 소설을 쓰는 것에 집중한다.\[38\] 소설가로 명성을 얻기 이전의 에든버러에서의 생활은 이혼 후 생활고와 가난했던 시절 [우울증](../Page/우울증.md "wikilink")으로 "[자살](../Page/자살.md "wikilink")도 생각했었다" 라고 에든버러 대학교에서의 연설에서 밝히기도 하였다. 이 때의 경험이 《해리 포터 시리즈》에 등장하는 디멘터의 근원이 되었다.\[39\]
 
-롤링은 1994년 8월 이혼 소송 정리를 위해 포르투갈로 돌아왔고, 1995년 8월 [에든버러 대학교](../Page/에든버러_대학교.md "wikilink")(Moray House School of Education, University of Edinburgh)에서 교사 교육과정을 수료했다.\[40\] 소중한 딸의 존재에 의지하면서 그녀는 몇 달에 걸쳐 우울증을 완치하였고, 가난한 미혼모로 3년여 동안 주당 한화 15,000원 정도의 생활 보조금으로 연명한 그녀는 자신의 첫 소설 《해리 포터 시리즈》 제1편 《해리 포터와 마법사의 돌》을 완성했다.\[41\] 책을 쓰기 시작한 초기에는 하루종일 카페에 죽치고 눌러앉아 집필을 하는 일이 많았다고 하는 것에 대해\[42\] 이후 롤링은 소득이 없어 집안의 냉난방 비용 절감을 위해 집필했다는 루머를 부정했고, 아이가 자고 있을 때에는 유모차에 태우고 산책하는 것이 가장 효과적이었기 때문에 아이가 잠든 후에 근처의 카페에 들어가 글을 집필했던 것이라고 해명했다.
+롤링은 1994년 8월 이혼 소송 정리를 위해 포르투갈로 돌아왔고, 1995년 8월 [에든버러 대학교](../Page/에든버러_대학교.md "wikilink")(Moray House School of Education, University of Edinburgh)에서 교사 교육과정을 수료했다.\[40\] 소중한 딸의 존재에 의지하면서 그녀는 몇 달에 걸쳐 우울증을 완치하였고, 가난한 미혼모로 3년여 동안 주당 한화 8만원 전후<ref>93\~95년 당시
+
+파운드는 달러 대비 1.5
+
+달러 대비 원화는 750원 전후
+
+750원으로 계산 시 78,750원 전후가 됨
+
+파운드 달러 참고
+
+<https://m.kr.investing.com/currencies/gbp-usd-historical-data?fbclid=IwAR3MFTvX0v7U2su1AzK1qdbGmbPH7ncrWEY_aidg4SWhJzCR-KDSPtvYC3E>
+
+달러 원화 참고
+
+<http://contents.history.go.kr/front/km/pdf.do?levelId=km_008_0070_0040&page=221&fbclid=IwAR3MFTvX0v7U2su1AzK1qdbGmbPH7ncrWEY_aidg4SWhJzCR-KDSPtvYC3E></ref>(당시 £70) \[41\]정도의 생활 보조금으로 연명한 그녀는 자신의 첫 소설 《해리 포터 시리즈》 제1편 《해리 포터와 마법사의 돌》을 완성했다.\[42\] 책을 쓰기 시작한 초기에는 하루종일 카페에 죽치고 눌러앉아 집필을 하는 일이 많았다고 하는 것에 대해\[43\] 이후 롤링은 소득이 없어 집안의 냉난방 비용 절감을 위해 집필했다는 루머를 부정했고, 아이가 자고 있을 때에는 유모차에 태우고 산책하는 것이 가장 효과적이었기 때문에 아이가 잠든 후에 근처의 카페에 들어가 글을 집필했던 것이라고 해명했다.
 
 ### 해리 포터
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:The_elephant_house.jpg "wikilink")|year=2007|url=[http://www.heraldscotland.com/how-jk-rowling-has-us-spellbound-1.852126|확인날짜=6](http://www.heraldscotland.com/how-jk-rowling-has-us-spellbound-1.852126%7C확인날짜=6) July 2010}}</ref>\]\] 1995년에 롤링은 완성 된 원고를 에이전트를 통해 12개의 출판사에 제출했지만, 너무 내용이 길다는 이유로 어느 출판사도 간행을 맡지 않았다. 그러던 중에 롤링은 저작권 대행업체 크리스토퍼 리틀(Christopher Little Literary Agency)을 만나게 되었고, 그는 롤링의 책을 영국의 블룸즈버리 출판사에 팔아주었다.\[43\] 블룸즈버리 출판사가 이를 간행하게 된 것은 원고를 편집자가 직접 읽기 전에 8세 아이 "앨리스 뉴턴"의 반응을 보고 난 후로, 1시간 후에 방에서 나온 앨리스는 "오마이갓 이 책은 다른 어떤 것보다 훨씬 멋지다\!"고 말을 하였기 때문에 블룸즈버리 출판사는 해리포터를 출판 하기로 결정하였다.\[44\]
+[섬네일](https://ko.wikipedia.org/wiki/파일:The_elephant_house.jpg "wikilink")|year=2007|url=[http://www.heraldscotland.com/how-jk-rowling-has-us-spellbound-1.852126|확인날짜=6](http://www.heraldscotland.com/how-jk-rowling-has-us-spellbound-1.852126%7C확인날짜=6) July 2010}}</ref>\]\] 1995년에 롤링은 완성 된 원고를 에이전트를 통해 12개의 출판사에 제출했지만, 너무 내용이 길다는 이유로 어느 출판사도 간행을 맡지 않았다. 그러던 중에 롤링은 저작권 대행업체 크리스토퍼 리틀(Christopher Little Literary Agency)을 만나게 되었고, 그는 롤링의 책을 영국의 블룸즈버리 출판사에 팔아주었다.\[44\] 블룸즈버리 출판사가 이를 간행하게 된 것은 원고를 편집자가 직접 읽기 전에 8세 아이 "앨리스 뉴턴"의 반응을 보고 난 후로, 1시간 후에 방에서 나온 앨리스는 "오마이갓 이 책은 다른 어떤 것보다 훨씬 멋지다\!"고 말을 하였기 때문에 블룸즈버리 출판사는 해리포터를 출판 하기로 결정하였다.\[45\]
 
-이 책의 이름은 《해리 포터와 현자의 돌》(Harry Potter and the Philosopher's Stone)이었는데, 나중에 미국에 출판되었을 때는 《[해리 포터와 마법사의 돌](../Page/해리_포터와_마법사의_돌.md "wikilink")》(Harry Potter and the Sorcerer's Stone)로 변경되었다.\[45\]
+이 책의 이름은 《해리 포터와 현자의 돌》(Harry Potter and the Philosopher's Stone)이었는데, 나중에 미국에 출판되었을 때는 《[해리 포터와 마법사의 돌](../Page/해리_포터와_마법사의_돌.md "wikilink")》(Harry Potter and the Sorcerer's Stone)로 변경되었다.\[46\]
 
 영국 블룸즈버리 출판사 에서 출판된 이 책은 네슬레 스마티스 상(Nestlé Smarties Book Prize)과 영국 도서상(British Book Awards, 현 Specsavers National Book Awards) 등 많은 문학상을 수상하는 등 신인 작가의 작품으로서는 파격적인 반응을 일으켰다. 또한 아동 문학적으로 높이 평가되었을 뿐 아니라 성인 독자까지 매료시키면서, 수많은 외국어로 번역되어 세계적인 [베스트 셀러가](https://ko.wikipedia.org/wiki/베스트_셀러 "wikilink") 되었다.
 
-2000년에 롤링은 아동문학에 대한 공헌을 인정받아 [대영 제국 훈장](../Page/대영_제국_훈장.md "wikilink") 4등급(OBE)을 받았다.\[46\]
+2000년에 롤링은 아동문학에 대한 공헌을 인정받아 [대영 제국 훈장](../Page/대영_제국_훈장.md "wikilink") 4등급(OBE)을 받았다.\[47\]
 
-속편 《[해리 포터와 비밀의 방](../Page/해리_포터와_비밀의_방.md "wikilink")》은 1998년 7월에 발표되었고, 롤링은 네슬레 스마티스 상을 또다시 받았다.\[47\]
+속편 《[해리 포터와 비밀의 방](../Page/해리_포터와_비밀의_방.md "wikilink")》은 1998년 7월에 발표되었고, 롤링은 네슬레 스마티스 상을 또다시 받았다.\[48\]
 
-1999년 12월에는 3편 《[해리 포터와 아즈카반의 죄수](../Page/해리_포터와_아즈카반의_죄수.md "wikilink")》를 발표했고, 롤링은 네슬레 스마티스 상을 3회 수상한 최초의 인물이 되었다.\[48\] 롤링의 연속된 수상으로, 주최측에서는 다른 작가에게 공정한 기회를 주기 위해 4편 《[해리 포터와 불의 잔](../Page/해리_포터와_불의_잔.md "wikilink")》부터는 경쟁부문 후보에서 제외했다.
+1999년 12월에는 3편 《[해리 포터와 아즈카반의 죄수](../Page/해리_포터와_아즈카반의_죄수.md "wikilink")》를 발표했고, 롤링은 네슬레 스마티스 상을 3회 수상한 최초의 인물이 되었다.\[49\] 롤링의 연속된 수상으로, 주최측에서는 다른 작가에게 공정한 기회를 주기 위해 4편 《[해리 포터와 불의 잔](../Page/해리_포터와_불의_잔.md "wikilink")》부터는 경쟁부문 후보에서 제외했다.
 
-4편 《해리 포터와 불의 잔》은 2000년 7월 8일 영국과 미국에서 동시에 발표되었고, 양국에서 판매기록을 새로 세웠다.\[49\]
+4편 《해리 포터와 불의 잔》은 2000년 7월 8일 영국과 미국에서 동시에 발표되었고, 양국에서 판매기록을 새로 세웠다.\[50\]
 
-롤링은 2000년 영국 도서상 시상식(British Book Awards, 현 Specsavers National Book Awards)에서 '올해의 작가상' 수상자로 선정되었다.\[50\]
+롤링은 2000년 영국 도서상 시상식(British Book Awards, 현 Specsavers National Book Awards)에서 '올해의 작가상' 수상자로 선정되었다.\[51\]
 
-롤링은 3년 후 5편 《[해리 포터와 불사조 기사단](../Page/해리_포터와_불사조_기사단.md "wikilink")》을 발표했다. 오랜 기간 동안의 공백으로 많은 추측이 난무했지만,\[51\] 롤링은 그동안 집필할 시간과 에너지가 부족했을 뿐이라고 말했다.\[52\]
+롤링은 3년 후 5편 《[해리 포터와 불사조 기사단](../Page/해리_포터와_불사조_기사단.md "wikilink")》을 발표했다. 오랜 기간 동안의 공백으로 많은 추측이 난무했지만,\[52\] 롤링은 그동안 집필할 시간과 에너지가 부족했을 뿐이라고 말했다.\[53\]
 
-6편 《[해리 포터와 혼혈 왕자](../Page/해리_포터와_혼혈_왕자.md "wikilink")》는 2005년 7월 16일에 발표되었다. 6편은 출시 후 24시간 만에 9백만 부를 판매하는 등, 모든 판매 기록을 갈아치웠다.\[53\] 2006년 《해리 포터와 혼혈 왕자》는 영국 도서상 시상식에서 '올해의 책 상' 시상작으로 선정되었다.
+6편 《[해리 포터와 혼혈 왕자](../Page/해리_포터와_혼혈_왕자.md "wikilink")》는 2005년 7월 16일에 발표되었다. 6편은 출시 후 24시간 만에 9백만 부를 판매하는 등, 모든 판매 기록을 갈아치웠다.\[54\] 2006년 《해리 포터와 혼혈 왕자》는 영국 도서상 시상식에서 '올해의 책 상' 시상작으로 선정되었다.
 
-시리즈의 일곱 번째 소설이자 최종편의 제목은 《[해리 포터와 죽음의 성물](../Page/해리_포터와_죽음의_성물.md "wikilink")》으로, 2007년 7월 21일에 발표되었다.\[54\] 롤링은 2007년 1월 11일, 에든버러의 발모랄 호텔에서 일곱 번째 책을 완성했다.\[55\] 《해리 포터와 죽음의 성물》은 2007년 7월(유럽 시간 기준) 가장 빠르게 판매된 책으로 이전의 기록을 모두 갈아치웠고,\[56\] 영국과 미국에서 첫날에만 11만 부를 판매했다. 이 책의 마지막 장은 그녀가 시리즈 전체에 쓴 최초의 것들 중 하나이다.\[57\]
+시리즈의 일곱 번째 소설이자 최종편의 제목은 《[해리 포터와 죽음의 성물](../Page/해리_포터와_죽음의_성물.md "wikilink")》으로, 2007년 7월 21일에 발표되었다.\[55\] 롤링은 2007년 1월 11일, 에든버러의 발모랄 호텔에서 일곱 번째 책을 완성했다.\[56\] 《해리 포터와 죽음의 성물》은 2007년 7월(유럽 시간 기준) 가장 빠르게 판매된 책으로 이전의 기록을 모두 갈아치웠고,\[57\] 영국과 미국에서 첫날에만 11만 부를 판매했다. 이 책의 마지막 장은 그녀가 시리즈 전체에 쓴 최초의 것들 중 하나이다.\[58\]
 
-《해리 포터》는 현재 15억 달러(한화 약 1조 5천 163억 원)의 가치가 있는 글로벌 브랜드가 되었고,\[58\] 《해리 포터》 소설 중 마지막 네 편은 역사상 가장 빠른 판매를 기록한 책이자 연속 세트 기록을 세웠다.\[59\]\[60\] 총 4,195 페이지에 달하는 시리즈와 67개 언어로 번역되며 4억 5천만 부 이상 판매되었다.\[61\]
+《해리 포터》는 현재 15억 달러(한화 약 1조 5천 163억 원)의 가치가 있는 글로벌 브랜드가 되었고,\[59\] 《해리 포터》 소설 중 마지막 네 편은 역사상 가장 빠른 판매를 기록한 책이자 연속 세트 기록을 세웠다.\[60\]\[61\] 총 4,195 페이지에 달하는 시리즈와 67개 언어로 번역되며 4억 5천만 부 이상 판매되었다.\[62\]
 
 ### 해리 포터 영화
 
-1998년 10월, [워너 브라더스는](../Page/워너_브라더스.md "wikilink") 《해리 포터》 시리즈의 두 편의 소설 《해리 포터와 마법사의 돌》, 《해리 포터와 비밀의 방》의 영화 판권을 구입하였고,\[62\] [크리스 콜럼버스가](../Page/크리스_콜럼버스.md "wikilink") 감독을 맡아 《해리 포터와 마법사의 돌》는 2001년 11월 16일에 개봉하였고, 《해리 포터와 비밀의 방》 2002년 11월 15일에 개봉되었다.\[63\] 《해리 포터와 아즈카반의 죄수》는 2004년 6월 4일에 개봉 되었고 감독은 [알폰소 쿠아론이](../Page/알폰소_쿠아론.md "wikilink") 맡았다. 네 번째 영화 《해리포터와 불의 잔》은 [마이크 뉴얼이](../Page/마이크_뉴얼.md "wikilink") 감독을 맡아, 2005년 11월 18일에 개봉했다. 《해리 포터와 불사조 기사단》은 2007년 7월 11일에 개봉하였고, 감독은 [데이비드 예이츠가](https://ko.wikipedia.org/wiki/데이비드_예이츠 "wikilink") 맡았다. 《해리 포터와 혼혈 왕자》는 2009년 7월 15일에 개봉 되었고,\[64\] 예이츠가 다시 감독을 맡았다.\[65\] 영화 시리즈의 최종장인 《해리 포터와 죽음의 성물 1부》는 2010년 11월에 개봉 되었고, 《해리 포터와 죽음의 성물 2부》는 2011년 7월에 개봉 되었다. 예이츠는 두 편의 감독을 맡았다.\[66\]\[67\]
+1998년 10월, [워너 브라더스는](../Page/워너_브라더스.md "wikilink") 《해리 포터》 시리즈의 두 편의 소설 《해리 포터와 마법사의 돌》, 《해리 포터와 비밀의 방》의 영화 판권을 구입하였고,\[63\] [크리스 콜럼버스가](../Page/크리스_콜럼버스.md "wikilink") 감독을 맡아 《해리 포터와 마법사의 돌》는 2001년 11월 16일에 개봉하였고, 《해리 포터와 비밀의 방》 2002년 11월 15일에 개봉되었다.\[64\] 《해리 포터와 아즈카반의 죄수》는 2004년 6월 4일에 개봉 되었고 감독은 [알폰소 쿠아론이](../Page/알폰소_쿠아론.md "wikilink") 맡았다. 네 번째 영화 《해리포터와 불의 잔》은 [마이크 뉴얼이](../Page/마이크_뉴얼.md "wikilink") 감독을 맡아, 2005년 11월 18일에 개봉했다. 《해리 포터와 불사조 기사단》은 2007년 7월 11일에 개봉하였고, 감독은 [데이비드 예이츠가](https://ko.wikipedia.org/wiki/데이비드_예이츠 "wikilink") 맡았다. 《해리 포터와 혼혈 왕자》는 2009년 7월 15일에 개봉 되었고,\[65\] 예이츠가 다시 감독을 맡았다.\[66\] 영화 시리즈의 최종장인 《해리 포터와 죽음의 성물 1부》는 2010년 11월에 개봉 되었고, 《해리 포터와 죽음의 성물 2부》는 2011년 7월에 개봉 되었다. 예이츠는 두 편의 감독을 맡았다.\[67\]\[68\]
 
-롤링은 [워너 브라더스와](../Page/워너_브라더스.md "wikilink") 《해리 포터》 시리즈의 영화 계약을 할 때 주요 규정 중 하나로 영화에 등장하는 모든 배우는 [영국인](../Page/영국인.md "wikilink")으로 캐스팅하고 모든 촬영지는 영국에서 촬영하는 것을 내걸었고, 일반적으로 준수되었다.\[68\] 당초에는 영화 감독으로 [스티븐 스필버그가](../Page/스티븐_스필버그.md "wikilink") 언급 되었지만 롤링과 제작사와의 마찰로 성사되지 않았고,\[69\] 워너 브라더스는 가족 중심의 친화적인 필름을 원해 《[나홀로 집에](https://ko.wikipedia.org/wiki/나홀로_집에 "wikilink")》시리즈와 《[미세스 다웃파이어](../Page/미세스_다웃파이어.md "wikilink")》 등으로 알려진 [크리스 콜럼버스를](../Page/크리스_콜럼버스.md "wikilink") 선택했다.\[70\]
+롤링은 [워너 브라더스와](../Page/워너_브라더스.md "wikilink") 《해리 포터》 시리즈의 영화 계약을 할 때 주요 규정 중 하나로 영화에 등장하는 모든 배우는 [영국인](../Page/영국인.md "wikilink")으로 캐스팅하고 모든 촬영지는 영국에서 촬영하는 것을 내걸었고, 일반적으로 준수되었다.\[69\] 당초에는 영화 감독으로 [스티븐 스필버그가](../Page/스티븐_스필버그.md "wikilink") 언급 되었지만 롤링과 제작사와의 마찰로 성사되지 않았고,\[70\] 워너 브라더스는 가족 중심의 친화적인 필름을 원해 《[나홀로 집에](https://ko.wikipedia.org/wiki/나홀로_집에 "wikilink")》시리즈와 《[미세스 다웃파이어](../Page/미세스_다웃파이어.md "wikilink")》 등으로 알려진 [크리스 콜럼버스를](../Page/크리스_콜럼버스.md "wikilink") 선택했다.\[71\]
 
-롤링은 전 시리즈에서 모든 스크립트를 검토하고 영화에 대한 여러 가지 창의적인 조언을 했을 뿐 아니라,\[71\] 최종장을 두 편으로 나눴고 《해리 포터와 죽음의 성물》에 프로듀서로 참여했다.\[72\] 《해리 포터》 영화 시리즈는 10년동안 총 8편의 영화로 제작되며, 영화관 입장권 판매로만 64억 달러(한화 약 6조 7700억 원)의 엄청난 수입을 거두웠다.
+롤링은 전 시리즈에서 모든 스크립트를 검토하고 영화에 대한 여러 가지 창의적인 조언을 했을 뿐 아니라,\[72\] 최종장을 두 편으로 나눴고 《해리 포터와 죽음의 성물》에 프로듀서로 참여했다.\[73\] 《해리 포터》 영화 시리즈는 10년동안 총 8편의 영화로 제작되며, 영화관 입장권 판매로만 64억 달러(한화 약 6조 7700억 원)의 엄청난 수입을 거두웠다.
 
-롤링과 프로듀서 [데이비드 헤이먼](https://ko.wikipedia.org/wiki/데이비드_헤이먼 "wikilink")·[데이비드 배런](https://ko.wikipedia.org/wiki/데이비드_배런 "wikilink")(David Barron), 그리고 감독 [데이비드 예이츠](https://ko.wikipedia.org/wiki/데이비드_예이츠 "wikilink")·[마이크 뉴얼](../Page/마이크_뉴얼.md "wikilink")·[알폰소 쿠아론은](../Page/알폰소_쿠아론.md "wikilink") [영국 아카데미 영화상 시상식에서](https://ko.wikipedia.org/wiki/영국_아카데미_영화상 "wikilink") 《해리 포터》 영화 시리즈의 전세계적인 성공과 공헌을 인정받아 마이클 밸컨 공로상(Michael Balcon Award for Outstanding British Contribution to Cinema)을 받았다.\[73\]
+롤링과 프로듀서 [데이비드 헤이먼](https://ko.wikipedia.org/wiki/데이비드_헤이먼 "wikilink")·[데이비드 배런](https://ko.wikipedia.org/wiki/데이비드_배런 "wikilink")(David Barron), 그리고 감독 [데이비드 예이츠](https://ko.wikipedia.org/wiki/데이비드_예이츠 "wikilink")·[마이크 뉴얼](../Page/마이크_뉴얼.md "wikilink")·[알폰소 쿠아론은](../Page/알폰소_쿠아론.md "wikilink") [영국 아카데미 영화상 시상식에서](https://ko.wikipedia.org/wiki/영국_아카데미_영화상 "wikilink") 《해리 포터》 영화 시리즈의 전세계적인 성공과 공헌을 인정받아 마이클 밸컨 공로상(Michael Balcon Award for Outstanding British Contribution to Cinema)을 받았다.\[74\]
 
-2013년 9월, [워너 브라더스는](../Page/워너_브라더스.md "wikilink") 롤링과 영화의 기획 시리즈를 기반으로 한 "확장된 창조적 파트너십"을 발표했다.\[74\]\[75\] 2014년에는 《[해리 포터](../Page/해리_포터.md "wikilink")》시리즈의 스핀오프 영화 《[신비한 동물 사전](../Page/신비한_동물_사전.md "wikilink")》을 3부작의 영화로 제작하고 롤링이 직접 각본을 쓴다고 발표하였다.\[76\]\[77\] 감독은 [데이빗 예이츠](https://ko.wikipedia.org/wiki/데이빗_예이츠 "wikilink") 감독이 다시 한번 메가폰을 잡아 2016년 11월 18일 개봉 될 예정이며, 2편과 3편은 각각 2018년과 2020년 개봉한다. 그러나, 2016년 10월 13일 롤링은 런던 엠파이어 씨어터에서 열린 팬 이벤트에 참석해 당초 3부작에서 두 편을 더해 총 5부작의 영화로 만들어진다고 직접 밝혔다. “처음에는 3부작으로 구상했지만, 얼마 전에 플롯을 제대로 짤 수 있게 되어 5편의 시리즈로 만들기로 했다. 각본을 쓰는 동안 어떻게 써야 하는 지 잘 배웠다”고 말했다.\[78\]
+2013년 9월, [워너 브라더스는](../Page/워너_브라더스.md "wikilink") 롤링과 영화의 기획 시리즈를 기반으로 한 "확장된 창조적 파트너십"을 발표했다.\[75\]\[76\] 2014년에는 《[해리 포터](../Page/해리_포터.md "wikilink")》시리즈의 스핀오프 영화 《[신비한 동물 사전](../Page/신비한_동물_사전.md "wikilink")》을 3부작의 영화로 제작하고 롤링이 직접 각본을 쓴다고 발표하였다.\[77\]\[78\] 감독은 [데이빗 예이츠](https://ko.wikipedia.org/wiki/데이빗_예이츠 "wikilink") 감독이 다시 한번 메가폰을 잡아 2016년 11월 18일 개봉 될 예정이며, 2편과 3편은 각각 2018년과 2020년 개봉한다. 그러나, 2016년 10월 13일 롤링은 런던 엠파이어 씨어터에서 열린 팬 이벤트에 참석해 당초 3부작에서 두 편을 더해 총 5부작의 영화로 만들어진다고 직접 밝혔다. “처음에는 3부작으로 구상했지만, 얼마 전에 플롯을 제대로 짤 수 있게 되어 5편의 시리즈로 만들기로 했다. 각본을 쓰는 동안 어떻게 써야 하는 지 잘 배웠다”고 말했다.\[79\]
 
 ### 재혼과 가족
 
-2001년 12월 26일 롤링은 마취과 의사 "닐 마이클 머리"(1971년 출생)와 [애버펠디에](https://ko.wikipedia.org/wiki/애버펠디_\(스코틀랜드\) "wikilink") 위치한 자신의 집의 킬리채시 하우스에서 결혼식을 올렸고,\[79\] 2003년 3월 24일에 아들 "데이비드 고든 롤링 머리"를 출산했다.\[80\] 롤링은 《해리 포터와 혼혈 왕자》를 쓰기 시작한 직후로, 초기 단계의 육아에 더 집중하기 위해 소설 집필을 잠시 중단했다.\[81\] [고든 브라운](../Page/고든_브라운.md "wikilink") 전 총리의 아내 세라 제인 브라운 (Sarah Jane Brown)은 롤링의 친구로 알려져 있는데, 총리 부부는 자선 사업에 협력하는 과정에서 롤링과 만났고 2003년 새라의 아들 "프레이저"가 태어났을 때 처음으로 병원에 방문한 인사가 롤링이었다.\[82\] 롤링의 막내 딸 "매켄지 진 롤링 머리"는 《해리 포터와 혼혈 왕자》를 집필 중이던 2005년 1월 23일에 태어났다.\[83\]
+2001년 12월 26일 롤링은 마취과 의사 "닐 마이클 머리"(1971년 출생)와 [애버펠디에](https://ko.wikipedia.org/wiki/애버펠디_\(스코틀랜드\) "wikilink") 위치한 자신의 집의 킬리채시 하우스에서 결혼식을 올렸고,\[80\] 2003년 3월 24일에 아들 "데이비드 고든 롤링 머리"를 출산했다.\[81\] 롤링은 《해리 포터와 혼혈 왕자》를 쓰기 시작한 직후로, 초기 단계의 육아에 더 집중하기 위해 소설 집필을 잠시 중단했다.\[82\] [고든 브라운](../Page/고든_브라운.md "wikilink") 전 총리의 아내 세라 제인 브라운 (Sarah Jane Brown)은 롤링의 친구로 알려져 있는데, 총리 부부는 자선 사업에 협력하는 과정에서 롤링과 만났고 2003년 새라의 아들 "프레이저"가 태어났을 때 처음으로 병원에 방문한 인사가 롤링이었다.\[83\] 롤링의 막내 딸 "매켄지 진 롤링 머리"는 《해리 포터와 혼혈 왕자》를 집필 중이던 2005년 1월 23일에 태어났다.\[84\]
 
 ### 캐주얼 베이컨시
 
-2011년 7월, 롤링은 자신의 직원 중 한 명인 닐 블레어(Neil Blair)에 의해 설립된 새로운 회사로 이동했고, 그녀의 에이전트 크리스토퍼 리틀(Christopher Little Literary Agency)과 함께 회사를 분리했다.\[84\] 2012년 2월 23일에 롤링의 새로운 에이전트 '블레어 파트너십'은 롤링이 성인을 대상으로 한 새 책을 출판하기 위해 리뉴얼한 웹사이트를 공개했다. 보도 자료에서 롤링은 그녀의 새로운 책이 《해리 포터》와는 다를 것이라고 말했다.
+2011년 7월, 롤링은 자신의 직원 중 한 명인 닐 블레어(Neil Blair)에 의해 설립된 새로운 회사로 이동했고, 그녀의 에이전트 크리스토퍼 리틀(Christopher Little Literary Agency)과 함께 회사를 분리했다.\[85\] 2012년 2월 23일에 롤링의 새로운 에이전트 '블레어 파트너십'은 롤링이 성인을 대상으로 한 새 책을 출판하기 위해 리뉴얼한 웹사이트를 공개했다. 보도 자료에서 롤링은 그녀의 새로운 책이 《해리 포터》와는 다를 것이라고 말했다.
 
-2012년 4월, 리틀 브라운 출판사는 이 책의 제목은 《더 캐주얼 베이컨시》()라고 밝혔고, 롤링의 최초의 성인 장편 소설인 이 작품은 2012년 9월 27일에 발표되었다.\[85\] 《더 캐주얼 베이컨시》는 영국의 한 시골 마을을 배경으로 강간, 마약 중독, 자해와 같이 다소 불쾌감을 줄 수 있는 주제를 다루고 있다.
+2012년 4월, 리틀 브라운 출판사는 이 책의 제목은 《더 캐주얼 베이컨시》()라고 밝혔고, 롤링의 최초의 성인 장편 소설인 이 작품은 2012년 9월 27일에 발표되었다.\[86\] 《더 캐주얼 베이컨시》는 영국의 한 시골 마을을 배경으로 강간, 마약 중독, 자해와 같이 다소 불쾌감을 줄 수 있는 주제를 다루고 있다.
 
-롤링은 런던 사우스뱅크 센터에서 열린 신작 발표회에 《캐주얼 베이컨시》를 홍보하기 위해 참석했다.\[86\]
+롤링은 런던 사우스뱅크 센터에서 열린 신작 발표회에 《캐주얼 베이컨시》를 홍보하기 위해 참석했다.\[87\]
 
-영국의 일간지 《[데일리 텔레그래프](../Page/데일리_텔레그래프.md "wikilink")》의 보도에 따르면 영국 서점에서는 《캐주얼 베이컨시》가 올해의 베스트셀러 소설이 될 것으로 예상하였고, 영국의 출판 잡지 《더 북셀러(The Bookseller)》의 편집장 필립 스톤 은 "출판업계의 99%는 롤링의 신작이 단숨에 판매 1위에 오를 것으로 믿고 있다"고 말했다. 이러한 기대에 힘입어 발매 3주 만에 전 세계적으로 100만 부 이상 판매되었다.\[87\]
+영국의 일간지 《[데일리 텔레그래프](../Page/데일리_텔레그래프.md "wikilink")》의 보도에 따르면 영국 서점에서는 《캐주얼 베이컨시》가 올해의 베스트셀러 소설이 될 것으로 예상하였고, 영국의 출판 잡지 《더 북셀러(The Bookseller)》의 편집장 필립 스톤 은 "출판업계의 99%는 롤링의 신작이 단숨에 판매 1위에 오를 것으로 믿고 있다"고 말했다. 이러한 기대에 힘입어 발매 3주 만에 전 세계적으로 100만 부 이상 판매되었다.\[88\]
 
 2012년 12월 3일에 《캐주얼 베이컨시》가 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")에서 [텔레비전 드라마](../Page/텔레비전_드라마.md "wikilink") 시리즈로 제작 되어, 2014년 [BBC 1에서](https://ko.wikipedia.org/wiki/BBC "wikilink") 방송 될 것이라고 발표했다.
 
-이 시리즈는 롤링의 에이전트의 닐 블레어에 의해 기획 되었고, 그의 독립 제작사에서 제작을 맡을 예정으로 닉 세나트가 총괄 프로듀서를 맡았다. 롤링도 공동으로 협력하고 있고, 각색 과정을 거쳐 방영(에피소드) 횟수가 결정될 예정이다.\[88\]\[89\]
+이 시리즈는 롤링의 에이전트의 닐 블레어에 의해 기획 되었고, 그의 독립 제작사에서 제작을 맡을 예정으로 닉 세나트가 총괄 프로듀서를 맡았다. 롤링도 공동으로 협력하고 있고, 각색 과정을 거쳐 방영(에피소드) 횟수가 결정될 예정이다.\[89\]\[90\]
 
 ## 성공과 재산
 
-롤링의 연수입은 약 1억 2500 만 파운드(한화 약 2200억 원)로, "역사상 가장 많은 수익을 기록한 작가"라고 평가받았다. 2003년 5월 영국의 "부자 리스트"의 발표에 따르면 《해리 포터》 책, 영화, 기타 관련 상품으로 그녀의 손에 들어 온 금액이 한화로 약 5,570억 원이라고 추정했다. 이 금액은 [엘리자베스 여왕보다도](../Page/엘리자베스_2세.md "wikilink") 많은 금액으로, 영국 내에서는 122번째에 해당한다.\[90\]
+롤링의 연수입은 약 1억 2500 만 파운드(한화 약 2200억 원)로, "역사상 가장 많은 수익을 기록한 작가"라고 평가받았다. 2003년 5월 영국의 "부자 리스트"의 발표에 따르면 《해리 포터》 책, 영화, 기타 관련 상품으로 그녀의 손에 들어 온 금액이 한화로 약 5,570억 원이라고 추정했다. 이 금액은 [엘리자베스 여왕보다도](../Page/엘리자베스_2세.md "wikilink") 많은 금액으로, 영국 내에서는 122번째에 해당한다.\[91\]
 
-롤링은 2004년 미국의 경제 전문지 《[포브스](../Page/포브스.md "wikilink")》가 선정한 "세계 최고 부자" 목록에 첫 등장했으며,\[91\] 2007년 1월, 《포브스》가 발표한 '엔터테인먼트계에서 활약하는 여성 중에서 가장 많은 재산을 보유한 여성 톱 20'에서 2위를 차지했다.\[92\] 2010년 1월 그녀의 재산은 5억 600만 파운드(한화 약 1조 169억원)으로 알려졌다. 2013년 2월, BBC 라디오 4의 《여자의 시간》에서는 그녀를 영국에서 가장 영향있는 여성 13위에 선정하였다.\[93\]
+롤링은 2004년 미국의 경제 전문지 《[포브스](../Page/포브스.md "wikilink")》가 선정한 "세계 최고 부자" 목록에 첫 등장했으며,\[92\] 2007년 1월, 《포브스》가 발표한 '엔터테인먼트계에서 활약하는 여성 중에서 가장 많은 재산을 보유한 여성 톱 20'에서 2위를 차지했다.\[93\] 2010년 1월 그녀의 재산은 5억 600만 파운드(한화 약 1조 169억원)으로 알려졌다. 2013년 2월, BBC 라디오 4의 《여자의 시간》에서는 그녀를 영국에서 가장 영향있는 여성 13위에 선정하였다.\[94\]
 
-영국 대중지 《[더 선](../Page/더_선.md "wikilink")》에 따르면, 스코틀랜드에 260만 파운드(한화 약 46억 원)에 달하는 대저택을 구입했다.\[94\] 그 외에도 그녀는 [스코틀랜드](../Page/스코틀랜드.md "wikilink")에 3개, [런던](../Page/런던.md "wikilink")에 1개의 대저택을 갖고 있다.\[95\]\[96\]
+영국 대중지 《[더 선](../Page/더_선.md "wikilink")》에 따르면, 스코틀랜드에 260만 파운드(한화 약 46억 원)에 달하는 대저택을 구입했다.\[95\] 그 외에도 그녀는 [스코틀랜드](../Page/스코틀랜드.md "wikilink")에 3개, [런던](../Page/런던.md "wikilink")에 1개의 대저택을 갖고 있다.\[96\]\[97\]
 
 ## 정치적 성향
 
-2008년 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 보도에 따르면 그녀는 집권 노동당에 100만 파운드(한화 약 20억원) 을 기부했다. 어린이 빈곤을 퇴치하기 위해 노력하는 노동당 정부에 자극을 받아 기부하게 되었다고 한다. 그녀는 [고든 브라운](../Page/고든_브라운.md "wikilink") 전 총리 부부와 친한 사이라고 한다. 한편 가정이 있는 결혼한 부부에 대해 감세 혜택을 주기로 한 보수당의 [데이비드 캐머런](../Page/데이비드_캐머런.md "wikilink") 당수를 비판하기도 했는데, 그녀의 이런 성향은 어려웠던 싱글맘 시절의 경험이 영향을 준 것으로 보인다.\[97\] 롤링이 노동당에 현금을 기부하기는 처음이며, 노동당은 2005년 총선 때 진 빚 때문에 2008년 9월 현재 부채액이 1천 800만 파운드(한화 약 320억원)에 달하는 상황이었다.
+2008년 [BBC](https://ko.wikipedia.org/wiki/BBC "wikilink")의 보도에 따르면 그녀는 집권 노동당에 100만 파운드(한화 약 20억원) 을 기부했다. 어린이 빈곤을 퇴치하기 위해 노력하는 노동당 정부에 자극을 받아 기부하게 되었다고 한다. 그녀는 [고든 브라운](../Page/고든_브라운.md "wikilink") 전 총리 부부와 친한 사이라고 한다. 한편 가정이 있는 결혼한 부부에 대해 감세 혜택을 주기로 한 보수당의 [데이비드 캐머런](../Page/데이비드_캐머런.md "wikilink") 당수를 비판하기도 했는데, 그녀의 이런 성향은 어려웠던 싱글맘 시절의 경험이 영향을 준 것으로 보인다.\[98\] 롤링이 노동당에 현금을 기부하기는 처음이며, 노동당은 2005년 총선 때 진 빚 때문에 2008년 9월 현재 부채액이 1천 800만 파운드(한화 약 320억원)에 달하는 상황이었다.
 
 ## 자선 활동
 
-2000년 롤링은 전쟁으로 발생한 빈곤과 사회적 불균형 등을 개선하기 위해 5,100,000 파운드(한화 약 88억원)의 연간 예산을 들여 볼란트 자선 단체(Volant Charitable Trust)를 설립했다. 이 단체는 생활 보조를 받는 아이들, 한부모 가정, 다발성 경화증의 연구 등을 지원하고 있다.\[98\]
+2000년 롤링은 전쟁으로 발생한 빈곤과 사회적 불균형 등을 개선하기 위해 5,100,000 파운드(한화 약 88억원)의 연간 예산을 들여 볼란트 자선 단체(Volant Charitable Trust)를 설립했다. 이 단체는 생활 보조를 받는 아이들, 한부모 가정, 다발성 경화증의 연구 등을 지원하고 있다.\[99\]
 
 ## 저서
 
@@ -236,7 +250,7 @@
   - 1999년 영국 도서상: 올해의 어린이 책 부문  《해리 포터와 비밀의 방》
   - 1999년 위트브레드 문학상: 올해의 어린이 부문 《해리 포터와 아즈카반의 죄수》
   - 2000년 영국 도서상: 올해의 작가상
-  - 2000년 [대영 제국 훈장 4등급](../Page/대영_제국_훈장.md "wikilink")(OBE) 수훈\[99\]
+  - 2000년 [대영 제국 훈장 4등급](../Page/대영_제국_훈장.md "wikilink")(OBE) 수훈\[100\]
   - 2000년 (미국) 로커스 상 《해리 포터와 아즈카반의 죄수》
   - 2001년 (미국) 휴고 상: 최고의 소설 부문 《해리 포터와 아즈카반의 죄수》
   - 2003년 (에스파냐) 아스투리아스 왕세자상: 평화 부문
@@ -244,12 +258,12 @@
   - 2006년 영국 도서상: 올해의 책상 《해리 포터와 혼혈 왕자》
   - 2007년 CBBC 블루 피터 배지 '골드'
   - 2008년 영국 도서상: 공로상
-  - 2009년 (프랑스) [레지옹 도뇌르 훈장](../Page/레지옹_도뇌르_훈장.md "wikilink") 슈발리에(5등급)\[100\]
+  - 2009년 (프랑스) [레지옹 도뇌르 훈장](../Page/레지옹_도뇌르_훈장.md "wikilink") 슈발리에(5등급)\[101\]
   - 2010년 (덴마크) 한스 크리스티안 안데르센 문학상
   - 2011년 [영국 아카데미 영화상](https://ko.wikipedia.org/wiki/영국_아카데미_영화상 "wikilink") 공로상
   - 2012년 런던시 자유상(명예 시민상)
 
-롤링이 명예 학위를 받은 곳은 [세인트앤드루스 대학교](../Page/세인트앤드루스_대학교.md "wikilink"), [에든버러 대학교](../Page/에든버러_대학교.md "wikilink"), [에든버러 네이피어 대학교](https://ko.wikipedia.org/wiki/:en:Edinburgh_Napier_University "wikilink"), [엑서터 대학교](../Page/엑서터_대학교.md "wikilink")\[101\], [애버딘 대학교](https://ko.wikipedia.org/wiki/애버딘_대학교 "wikilink")\[102\]\[103\], [하버드 대학교이다](../Page/하버드_대학교.md "wikilink"). 2008년 롤링은 하버드 대학교에서 명예 문학박사 학위를 받으면서, 졸업식에서 연설을 하였다.\[104\]
+롤링이 명예 학위를 받은 곳은 [세인트앤드루스 대학교](../Page/세인트앤드루스_대학교.md "wikilink"), [에든버러 대학교](../Page/에든버러_대학교.md "wikilink"), [에든버러 네이피어 대학교](https://ko.wikipedia.org/wiki/:en:Edinburgh_Napier_University "wikilink"), [엑서터 대학교](../Page/엑서터_대학교.md "wikilink")\[102\], [애버딘 대학교](https://ko.wikipedia.org/wiki/애버딘_대학교 "wikilink")\[103\]\[104\], [하버드 대학교이다](../Page/하버드_대학교.md "wikilink"). 2008년 롤링은 하버드 대학교에서 명예 문학박사 학위를 받으면서, 졸업식에서 연설을 하였다.\[105\]
 
 ## 각주
 
@@ -308,65 +322,66 @@
 40.
 41.
 42.
-43. ["Meet the Writers: J. K. Rowling"](http://www.barnesandnoble.com/writers/writerdetails.asp?z=y&cid=855300#interview) . Barnes & Noble. Retrieved 25 March 2006.
-44.
-45. Riccio, Heather. [Interview with JK Rowling, Author of Harry Potter](http://www.hilary.com/career/harrypotter.html) . *Hilary Magazine*. Retrieved 26 October 2007.
-46.
+43.
+44. ["Meet the Writers: J. K. Rowling"](http://www.barnesandnoble.com/writers/writerdetails.asp?z=y&cid=855300#interview) . Barnes & Noble. Retrieved 25 March 2006.
+45.
+46. Riccio, Heather. [Interview with JK Rowling, Author of Harry Potter](http://www.hilary.com/career/harrypotter.html) . *Hilary Magazine*. Retrieved 26 October 2007.
 47.
-48. [Potter's award hat-trick](http://news.bbc.co.uk/1/hi/entertainment/545319.stm). BBC News. 1 December 1999. Retrieved 25 October 2007.
-49. ["Potter sales record"](http://www.cesnur.org/recens/potter_048.htm). Reuters/PRNewswire. 11 July 2000. Retrieved 25 October 2007.
-50.
-51. [Rowling denies writer's block](http://news.bbc.co.uk/1/hi/entertainment/arts/1481229.stm). BBC News. 8 August 2001. Retrieved 25 October 2007.
-52. Grossman, Lev. ["J.K. Rowling Hogwarts And All"](http://www.accio-quote.org/articles/2005/0705-time-grossman.htm). *Time* magazine. 17 July 2005. Retrieved 25 October 2007.
-53. [New Potter book topples U.S. sales records](http://www.msnbc.msn.com/id/8608578/). [MSNBC](../Page/MSNBC.md "wikilink"). 18 July 2005. Retrieved 25 October 2007.
-54. Press Release. [Harry Potter and the Deathly Hallows](http://www.bloomsbury.com/harrypotter/content.asp?sec=4&sec2=1&unart=yes&artTitle=Harry%20Potter%20and%20the%20Deathly%20Hallows) . Bloomsbury. 21 December 2006. Retrieved 7 July 2007.
-55. Cornwell, Tim.[Finish or bust – JK Rowling's unlikely message in an Edinburgh hotel room](http://news.scotsman.com/latestnews/Finish-or-bust--JK.3343454.jp). *The Scotsman*. 3 February 2007. Retrieved 7 February 2007.
-56.
-57. 27 June 2006. Retrieved 25 July 2007.
-58. [Harry Potter, the $15 billion man](http://www.exchange4media.com/kids/KidsFullStory.asp?section_id=24&news_id=26820&tag=21718) . Advertising Age. Retrieved 7 November 2007.
-59. [Harry Potter finale sales hit 11 m](http://news.bbc.co.uk/2/hi/entertainment/6912529.stm). BBC News. 23 July 2007. Retrieved 27 July 2007.
-60. Pauli, Michelle. "[June date for Harry Potter 5](http://books.guardian.co.uk/harrypotter/story/0,10761,875390,00.html)". *[The Guardian](https://ko.wikipedia.org/wiki/The_Guardian "wikilink")*; "[Potter 'is fastest-selling book ever](http://news.bbc.co.uk/1/hi/entertainment/arts/3005862.stm)". BBC News. Retrieved 4 August 2007.
-61.  29 June 2007. Retrieved 29 June 2007.
-62. Walker, Andrew. ["Harry Potter is off to Hollywood – writer a Millionairess"](http://www.accio-quote.org/articles/1998/1098-scotsman-walker.htm). *The Scotsman*. 9 October 1998. Retrieved 25 October 2007.
-63. [Harry Potter release dates](http://boxofficemojo.com/search/?q=harry%20potter&p=.htm). Box Office Mojo. Retrieved 25 October 2007.
-64. 19 September 2007. Retrieved 19 September 2007.
-65. Spelling, Ian. *Yates Confirmed For Potter VI*. Sci Fi Wire. 3 May 2007.
-66.
+48.
+49. [Potter's award hat-trick](http://news.bbc.co.uk/1/hi/entertainment/545319.stm). BBC News. 1 December 1999. Retrieved 25 October 2007.
+50. ["Potter sales record"](http://www.cesnur.org/recens/potter_048.htm). Reuters/PRNewswire. 11 July 2000. Retrieved 25 October 2007.
+51.
+52. [Rowling denies writer's block](http://news.bbc.co.uk/1/hi/entertainment/arts/1481229.stm). BBC News. 8 August 2001. Retrieved 25 October 2007.
+53. Grossman, Lev. ["J.K. Rowling Hogwarts And All"](http://www.accio-quote.org/articles/2005/0705-time-grossman.htm). *Time* magazine. 17 July 2005. Retrieved 25 October 2007.
+54. [New Potter book topples U.S. sales records](http://www.msnbc.msn.com/id/8608578/). [MSNBC](../Page/MSNBC.md "wikilink"). 18 July 2005. Retrieved 25 October 2007.
+55. Press Release. [Harry Potter and the Deathly Hallows](http://www.bloomsbury.com/harrypotter/content.asp?sec=4&sec2=1&unart=yes&artTitle=Harry%20Potter%20and%20the%20Deathly%20Hallows) . Bloomsbury. 21 December 2006. Retrieved 7 July 2007.
+56. Cornwell, Tim.[Finish or bust – JK Rowling's unlikely message in an Edinburgh hotel room](http://news.scotsman.com/latestnews/Finish-or-bust--JK.3343454.jp). *The Scotsman*. 3 February 2007. Retrieved 7 February 2007.
+57.
+58. 27 June 2006. Retrieved 25 July 2007.
+59. [Harry Potter, the $15 billion man](http://www.exchange4media.com/kids/KidsFullStory.asp?section_id=24&news_id=26820&tag=21718) . Advertising Age. Retrieved 7 November 2007.
+60. [Harry Potter finale sales hit 11 m](http://news.bbc.co.uk/2/hi/entertainment/6912529.stm). BBC News. 23 July 2007. Retrieved 27 July 2007.
+61. Pauli, Michelle. "[June date for Harry Potter 5](http://books.guardian.co.uk/harrypotter/story/0,10761,875390,00.html)". *[The Guardian](https://ko.wikipedia.org/wiki/The_Guardian "wikilink")*; "[Potter 'is fastest-selling book ever](http://news.bbc.co.uk/1/hi/entertainment/arts/3005862.stm)". BBC News. Retrieved 4 August 2007.
+62.  29 June 2007. Retrieved 29 June 2007.
+63. Walker, Andrew. ["Harry Potter is off to Hollywood – writer a Millionairess"](http://www.accio-quote.org/articles/1998/1098-scotsman-walker.htm). *The Scotsman*. 9 October 1998. Retrieved 25 October 2007.
+64. [Harry Potter release dates](http://boxofficemojo.com/search/?q=harry%20potter&p=.htm). Box Office Mojo. Retrieved 25 October 2007.
+65. 19 September 2007. Retrieved 19 September 2007.
+66. Spelling, Ian. *Yates Confirmed For Potter VI*. Sci Fi Wire. 3 May 2007.
 67.
-68. Treneman, Ann. [J.K. Rowling, the interview](http://www.accio-quote.org/articles/2000/0600-times-treneman.html). *The Times*. 30 June 2000. Retrieved 26 July 2006.
-69. [Rowling denies vetoing Spielberg](https://web.archive.org/web/20120208051504/http://www.jkrowling.com/textonly/en/rubbishbin_view.cfm?id=8). J. K. Rowling's official site (now archived at Wayback Machine). Retrieved 3 April 2006.
-70. [Wizard News: Terry Gilliam Bitter About "Potter"](http://www.wizardnews.com/story.20050829.html). Wizard News. 29 August 2005. Retrieved 20 October 2007.
-71. Billington, Alex; [Exclusive Video Interview: 'Harry Potter' Producer David Heyman](http://www.firstshowing.net/2010/exclusive-interview-harry-potter-series-producer-david-heyman/). firstshowing.net. 9 December 2010. Retrieved on 29 September 2011.
-72. [Warner Bros. Pictures mentions J. K. Rowling as producer.](http://www.businesswire.com/news/home/20100920005538/en/Warner-Bros.-Pictures-Worldwide-Satellite-Trailer-Debut%C2%A0Harry) Business Wire. 22 September 2010. Retrieved on 29 September 2011.
-73.
+68.
+69. Treneman, Ann. [J.K. Rowling, the interview](http://www.accio-quote.org/articles/2000/0600-times-treneman.html). *The Times*. 30 June 2000. Retrieved 26 July 2006.
+70. [Rowling denies vetoing Spielberg](https://web.archive.org/web/20120208051504/http://www.jkrowling.com/textonly/en/rubbishbin_view.cfm?id=8). J. K. Rowling's official site (now archived at Wayback Machine). Retrieved 3 April 2006.
+71. [Wizard News: Terry Gilliam Bitter About "Potter"](http://www.wizardnews.com/story.20050829.html). Wizard News. 29 August 2005. Retrieved 20 October 2007.
+72. Billington, Alex; [Exclusive Video Interview: 'Harry Potter' Producer David Heyman](http://www.firstshowing.net/2010/exclusive-interview-harry-potter-series-producer-david-heyman/). firstshowing.net. 9 December 2010. Retrieved on 29 September 2011.
+73. [Warner Bros. Pictures mentions J. K. Rowling as producer.](http://www.businesswire.com/news/home/20100920005538/en/Warner-Bros.-Pictures-Worldwide-Satellite-Trailer-Debut%C2%A0Harry) Business Wire. 22 September 2010. Retrieved on 29 September 2011.
 74.
 75.
 76.
 77.
-78. <http://variety.com/2016/film/news/fantastic-beasts-and-where-to-find-them-five-movies-1201888226/>
-79. [Christmas wedding for Rowling](http://news.bbc.co.uk/1/hi/entertainment/arts/1733882.stm). BBC News. 30 December 2001. Retrieved 25 October 2007.
-80.
-81. J.K. Rowling's Official Site, ["Progress on Book Six"](https://web.archive.org/web/20120107025239/http://www.jkrowling.com/textonly/en/news_view.cfm?id=62). 15 March 2004. Retrieved 22 March 2006. Archived at Wayback Machine.
-82.
-83. J.K. Rowling's Official Site, ["JKR gives Birth to Baby Girl"](https://web.archive.org/web/20120112121859/http://www.jkrowling.com/textonly/en/news_view.cfm?id=83). Retrieved 25 January 2005. Archived at Wayback Machine.
-84.
+78.
+79. <http://variety.com/2016/film/news/fantastic-beasts-and-where-to-find-them-five-movies-1201888226/>
+80. [Christmas wedding for Rowling](http://news.bbc.co.uk/1/hi/entertainment/arts/1733882.stm). BBC News. 30 December 2001. Retrieved 25 October 2007.
+81.
+82. J.K. Rowling's Official Site, ["Progress on Book Six"](https://web.archive.org/web/20120107025239/http://www.jkrowling.com/textonly/en/news_view.cfm?id=62). 15 March 2004. Retrieved 22 March 2006. Archived at Wayback Machine.
+83.
+84. J.K. Rowling's Official Site, ["JKR gives Birth to Baby Girl"](https://web.archive.org/web/20120112121859/http://www.jkrowling.com/textonly/en/news_view.cfm?id=83). Retrieved 25 January 2005. Archived at Wayback Machine.
 85.
 86.
 87.
 88.
 89.
 90.
-91. Watson, Julie and Kellner, Tomas. ["J.K. Rowling And The Billion-Dollar Empire"](http://www.forbes.com/maserati/billionaires2004/cx_jw_0226rowlingbill04.html). *Forbes.com*. 26 February 2004. Retrieved 19 March 2006.
-92. [\#1062 Joanne (JK) Rowling](http://www.forbes.com/lists/2008/10/billionaires08_Joanne-\(JK\)-Rowling_CRTT.html). Forbes.com. Retrieved 16 March 2008; [Oprah is Richest Female Entertainer](http://www8.contactmusic.com/news.nsf/article/oprah%20is%20richest%20female%20entertainer_1019476). Contact Music. Retrieved 20 January 2007.
-93. [BBC Radio 4, Woman's Hour Power list](http://www.bbc.co.uk/programmes/b007qlvb/features/power-list-100)
-94. Nichols, Michelle. [Hogwarts hideaway for Potter author](http://news.scotsman.com/latestnews/Hogwarts-hideaway-for-Potter-author.2278608.jp). *The Scotsman*. 22 November 2001. Retrieved 25 October 2007.
-95. Boshoff, Alison. [What does JK Rowling do with her money](http://www.dailymail.co.uk/pages/live/femail/article.html?in_article_id=402027). *Daily Mail*. 24 August 2006. Retrieved 20 October 2007.
-96. Collinson, Patrick. ["Rub shoulders with Brucie for £4.3m, or Tony for £7,250"](http://www.guardian.co.uk/business/2005/apr/26/housingmarket.houseprices). *Guardian Unlimited*. 26 April 2005. Retrieved 29 October 2007.
-97.
-98.  Retrieved 19 January 2008.
-99.
+91.
+92. Watson, Julie and Kellner, Tomas. ["J.K. Rowling And The Billion-Dollar Empire"](http://www.forbes.com/maserati/billionaires2004/cx_jw_0226rowlingbill04.html). *Forbes.com*. 26 February 2004. Retrieved 19 March 2006.
+93. [\#1062 Joanne (JK) Rowling](http://www.forbes.com/lists/2008/10/billionaires08_Joanne-\(JK\)-Rowling_CRTT.html). Forbes.com. Retrieved 16 March 2008; [Oprah is Richest Female Entertainer](http://www8.contactmusic.com/news.nsf/article/oprah%20is%20richest%20female%20entertainer_1019476). Contact Music. Retrieved 20 January 2007.
+94. [BBC Radio 4, Woman's Hour Power list](http://www.bbc.co.uk/programmes/b007qlvb/features/power-list-100)
+95. Nichols, Michelle. [Hogwarts hideaway for Potter author](http://news.scotsman.com/latestnews/Hogwarts-hideaway-for-Potter-author.2278608.jp). *The Scotsman*. 22 November 2001. Retrieved 25 October 2007.
+96. Boshoff, Alison. [What does JK Rowling do with her money](http://www.dailymail.co.uk/pages/live/femail/article.html?in_article_id=402027). *Daily Mail*. 24 August 2006. Retrieved 20 October 2007.
+97. Collinson, Patrick. ["Rub shoulders with Brucie for £4.3m, or Tony for £7,250"](http://www.guardian.co.uk/business/2005/apr/26/housingmarket.houseprices). *Guardian Unlimited*. 26 April 2005. Retrieved 29 October 2007.
+98.
+99.  Retrieved 19 January 2008.
 100.
 101.
-102.  Accessed 6 June 2008.
+102.
 103.  Accessed 6 June 2008.
 104.  Accessed 6 June 2008.
+105.  Accessed 6 June 2008.

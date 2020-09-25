@@ -11,7 +11,7 @@
 
 ### 해링턴 대장 컵
 
-해링턴 대장 컵(The General Harington Cup) 경기는 페네르바흐체 팀 역사상 가장 중요한 대회 중 하나이다. [제1차 세계대전이](https://ko.wikipedia.org/wiki/제1차_세계대전 "wikilink") [오스만 제국의](../Page/오스만_제국.md "wikilink") 패배로 끝나자 오스만 제국의 영토는 이탈리아, 그리스, 대영제국 군대에 의해서 분할됐다. 1918년 [11월 13일](../Page/11월_13일.md "wikilink") [대영제국](https://ko.wikipedia.org/wiki/대영제국 "wikilink")의 군대가 [이스탄불](../Page/이스탄불.md "wikilink")을 점령했다.
+해링턴 대장 컵(The General Harington Cup) 경기는 페네르바흐체 팀 역사상 가장 중요한 대회 중 하나이다. [제1차 세계대전이](https://ko.wikipedia.org/wiki/제1차_세계대전 "wikilink") [오스만 제국의](../Page/오스만_제국.md "wikilink") 패배로 끝나자 오스만 제국의 영토는 이탈리아, 그리스, 대영제국 군대에 의해서 분할됐다. 1918년 [11월 13일](../Page/11월_13일.md "wikilink") [대영제국](../Page/대영제국.md "wikilink")의 군대가 [이스탄불](../Page/이스탄불.md "wikilink")을 점령했다.
 
 ## 라이벌&더비
 

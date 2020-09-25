@@ -111,6 +111,4 @@ P2P 시스템의 이전 세대는 메타컴퓨팅(metacomputing)이라 불리거
 
 ## 외부 링크
 
-  - [What Is P2P... And What Isn't?](http://www.openp2p.com/pub/a/p2p/2000/11/24/shirky1-whatisp2p.html)
-
 [분류:파일 공유 네트워크](https://ko.wikipedia.org/wiki/분류:파일_공유_네트워크 "wikilink") [분류:전자 상거래](https://ko.wikipedia.org/wiki/분류:전자_상거래 "wikilink") [분류:와레즈](https://ko.wikipedia.org/wiki/분류:와레즈 "wikilink") [P2P](https://ko.wikipedia.org/wiki/분류:P2P "wikilink")

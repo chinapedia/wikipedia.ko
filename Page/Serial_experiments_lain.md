@@ -5,7 +5,7 @@
 
 [철학](../Page/철학.md "wikilink")적 세계관을 바탕으로 [신](../Page/신.md "wikilink"), [음모론](../Page/음모론.md "wikilink"), [집단적 무의식](https://ko.wikipedia.org/wiki/집단적_무의식 "wikilink"), [인터넷](../Page/인터넷.md "wikilink")과 같은 [사이버 펑크](https://ko.wikipedia.org/wiki/사이버_펑크 "wikilink") 소재를 다루어 반향을 불러일으켰다.
 
-잡지에서는 [AX에서](https://ko.wikipedia.org/wiki/AX_\(애니메이션_잡지\) "wikilink") [1998년](../Page/1998년.md "wikilink") [3월 10일부터](../Page/3월_10일.md "wikilink") [11월 10일까지](../Page/11월_10일.md "wikilink") 연재, [텔레비전 애니메이션은](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") [텔레비전 도쿄에서](https://ko.wikipedia.org/wiki/텔레비전_도쿄 "wikilink") 같은 해 [7월 6일부터](../Page/7월_6일.md "wikilink") [9월 28일까지](../Page/9월_28일.md "wikilink") 방송 (반년 늦게 [TV 오사카](../Page/TV_오사카.md "wikilink")·[TV 아이치에서](../Page/TV_아이치.md "wikilink") 방송)되어 제2회 [문화청 미디어 예술제 애니메이션 부문](https://ko.wikipedia.org/wiki/문화청_미디어_예술제_애니메이션_부문 "wikilink") 우수상을 수상했다. 게임은 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink") (PS)용 소프트로서 같은 해 [11월 26일에](../Page/11월_26일.md "wikilink") 발매되었다.
+잡지에서는 [AX에서](https://ko.wikipedia.org/wiki/AX_\(애니메이션_잡지\) "wikilink") [1998년](../Page/1998년.md "wikilink") [3월 10일부터](../Page/3월_10일.md "wikilink") [11월 10일까지](../Page/11월_10일.md "wikilink") 연재, [텔레비전 애니메이션은](https://ko.wikipedia.org/wiki/텔레비전_애니메이션 "wikilink") [텔레비전 도쿄에서](https://ko.wikipedia.org/wiki/텔레비전_도쿄 "wikilink") 같은 해 [7월 6일부터](../Page/7월_6일.md "wikilink") [9월 28일까지](../Page/9월_28일.md "wikilink") 방송 (반년 늦게 [TV 오사카](../Page/TV_오사카.md "wikilink")·[TV 아이치에서](../Page/TV_아이치.md "wikilink") 방송)되어 제2회 [문화청 미디어 예술제 애니메이션 부문](https://ko.wikipedia.org/wiki/문화청_미디어_예술제_애니메이션_부문 "wikilink") 우수상을 수상했다. 게임은 [플레이스테이션](../Page/플레이스테이션.md "wikilink") (PS)용 소프트로서 같은 해 [11월 26일에](../Page/11월_26일.md "wikilink") 발매되었다.
 
 ## 작품 개요
 

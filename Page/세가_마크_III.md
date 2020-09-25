@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [세가 마크 III](https://ko.wikipedia.org/wiki/세가_마크_III).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Sega_MarkIII.jpg "wikilink") SG-1000 Mark III, 통칭 **세가 마크 III**(Sega Mark III, )는 [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")에서 발매된 [가정용 게임기로](../Page/가정용_게임기.md "wikilink") [1985년](../Page/1985년.md "wikilink") [10월](../Page/10월.md "wikilink") 일본에서 발매되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Sega_MarkIII.jpg "wikilink") SG-1000 Mark III, 통칭 **세가 마크 III**(Sega Mark III, )는 [세가](../Page/세가.md "wikilink")에서 발매된 [가정용 게임기로](../Page/가정용_게임기.md "wikilink") [1985년](../Page/1985년.md "wikilink") [10월](../Page/10월.md "wikilink") 일본에서 발매되었다.
 
 ## 개요
 

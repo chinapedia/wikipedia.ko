@@ -178,7 +178,7 @@
 <td><p><code>p</code></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파일:Xsampa-p.png" title="wikilink">파일:Xsampa-p.png</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/무성_양순_파열음" title="wikilink">무성 양순 파열음</a></p></td>
+<td><p><a href="../Page/무성_양순_파열음.md" title="wikilink">무성 양순 파열음</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><code>p\</code></p></td>

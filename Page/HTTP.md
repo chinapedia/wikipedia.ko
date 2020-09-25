@@ -3,7 +3,7 @@
 
 **[HTTP](../Page/HTTP.md "wikilink")**(**H**yper**T**ext **T**ransfer **P**rotocol, )는 [W3](https://ko.wikipedia.org/wiki/WWW "wikilink") 상에서 정보를 주고받을 수 있는 [프로토콜이다](../Page/통신_프로토콜.md "wikilink"). 주로 [HTML](../Page/HTML.md "wikilink") 문서를 주고받는 데에 쓰인다. 주로 [TCP를](../Page/전송_제어_프로토콜.md "wikilink") 사용하고 HTTP/3 부터는 [UDP를](../Page/사용자_데이터그램_프로토콜.md "wikilink") 사용하며, 80번 포트를 사용한다. [1996년](../Page/1996년.md "wikilink") 버전 1.0, 그리고 [1999년](../Page/1999년.md "wikilink") 1.1이 각각 발표되었다.
 
-HTTP는 [클라이언트](https://ko.wikipedia.org/wiki/클라이언트 "wikilink")와 [서버](../Page/서버.md "wikilink") 사이에 이루어지는 요청/응답(request/response) 프로토콜이다. 예를 들면, 클라이언트인 [웹 브라우저가](../Page/웹_브라우저.md "wikilink") HTTP를 통하여 서버로부터 웹페이지나 그림 정보를 요청하면, 서버는 이 요청에 응답하여 필요한 정보를 해당 사용자에게 전달하게 된다. 이 정보가 모니터와 같은 출력 장치를 통해 사용자에게 나타나는 것이다.
+HTTP는 [클라이언트](https://ko.wikipedia.org/wiki/클라이언트 "wikilink")와 [서버](../Page/서버.md "wikilink") 사이에 이루어지는 요청/응답(request/response) 프로토콜이다. 예를 들면, 클라이언트인 [웹 브라우저가](../Page/웹_브라우저.md "wikilink") HTTP를 통하여 서버로부터 웹페이지(HTML)나 그림 정보를 요청하면, 서버는 이 요청에 응답하여 필요한 정보를 해당 사용자에게 전달하게 된다. 이 정보가 모니터와 같은 출력 장치를 통해 사용자에게 나타나는 것이다.
 
 HTTP를 통해 전달되는 자료는 <http:로> 시작하는 [URL](../Page/URL.md "wikilink")(인터넷 주소)로 조회할 수 있다.
 

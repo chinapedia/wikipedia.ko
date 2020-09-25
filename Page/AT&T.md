@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AT\&T](https://ko.wikipedia.org/wiki/AT\&T).
 
 
-**AT\&T 주식회사**()는 [미국](../Page/미국.md "wikilink")의 [다국적](../Page/다국적_기업.md "wikilink") [복합](https://ko.wikipedia.org/wiki/복합_기업 "wikilink") [지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink")이다.\[1\] AT\&T는 세계 최대 통신 기업이다.\[2\] 미국의 최대 유선 [전화](../Page/전화.md "wikilink") 서비스와 제2위의 이동전화 서비스 제공자이다.\[3\] 또한 시가총액 기준으로 세계 2위 미디어그룹이다.
+**AT\&T 주식회사**()는 [미국](../Page/미국.md "wikilink")의 [다국적](../Page/다국적_기업.md "wikilink") [복합](https://ko.wikipedia.org/wiki/복합_기업 "wikilink") [지주회사](../Page/지주회사.md "wikilink")이다.\[1\] AT\&T는 세계 최대 통신 기업이다.\[2\] 미국의 최대 유선 [전화](../Page/전화.md "wikilink") 서비스와 제2위의 이동전화 서비스 제공자이다.\[3\] 또한 시가총액 기준으로 세계 2위 미디어그룹이다.
 
 ## 역사
 

@@ -127,6 +127,14 @@ CD 또는 DVD의 재생 기능은 없으나, [Wii 공식 사이트 Q\&A](http://
   - 블랙 : 일본에서 초기에 출시 (2009년 8월 1일), 유럽에서 출시 (2009년 10월 22일), 대한민국 출시(2010년 8월 7일)
   - 레드 : 일본에서 초기에 출시 (2010년 11월 11일), 대한민국 출시(2010년 12월 11일)
 
+## 대표 소프트웨어
+
+• [타운으로 놀러가요 동물의 숲](../Page/타운으로_놀러가요_동물의_숲.md "wikilink")
+
+• [Wii Fit](https://ko.wikipedia.org/wiki/Wii_Fit "wikilink") wii의 대표적인 운동 게임(한국 출시)
+
+• [Just Dance 2](https://ko.wikipedia.org/wiki/Just_Dance_2 "wikilink") 유비소프트의 대표적인 댄스 게임
+
 ## 발매 일자
 
   - [2006년](../Page/2006년.md "wikilink") [11월 19일](../Page/11월_19일.md "wikilink") - [북아메리카](../Page/북아메리카.md "wikilink"), [페루](../Page/페루.md "wikilink"), [콜롬비아](../Page/콜롬비아.md "wikilink")

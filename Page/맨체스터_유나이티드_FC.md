@@ -829,6 +829,18 @@
 <td></td>
 <td><p><a href="../Page/수비수.md" title="wikilink">DF</a></p></td>
 </tr>
+<tr class="odd">
+<td><p>2019-20</p></td>
+<td><p><a href="../Page/브루누_페르난드스_(1994년).md" title="wikilink">브루노 페르난데스</a></p></td>
+<td></td>
+<td><p><a href="../Page/미드필더.md" title="wikilink">MF</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -873,7 +885,7 @@
   - [아디다스](../Page/아디다스.md "wikilink") - 공식 용품 후원사
   - [쉐보레](../Page/쉐보레.md "wikilink") - 공식 자동차 파트너, 주 스폰서
   - [부로바](../Page/부로바.md "wikilink") - 공식 타임 파트너
-  - [싱하맥주](https://ko.wikipedia.org/wiki/싱하맥주 "wikilink") - 공식 맥주
+  - [싱하 맥주](https://ko.wikipedia.org/wiki/싱하 "wikilink") - 공식 맥주
   - [스프리츠 아페롤](https://ko.wikipedia.org/wiki/스프리츠_아페롤 "wikilink") - 공식 국제 스피릿 파트너
   - [도시바 메디컬 시스템즈](https://ko.wikipedia.org/wiki/도시바_메디컬_시스템즈 "wikilink") - 공식 메디컬 파트너
   - [DHL](../Page/DHL.md "wikilink") - 공식 물류 파트너

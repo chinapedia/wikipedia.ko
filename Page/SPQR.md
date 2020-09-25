@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SPQR](https://ko.wikipedia.org/wiki/SPQR).
 
 
-**SPQR**은 [라틴어](../Page/라틴어.md "wikilink") 문장 **Senatus Populusque Romanus**의 약자로, '로마의 원로원과 대중'을 뜻한다. 이 말은 고대 [로마 공화정의](../Page/로마_공화정.md "wikilink") 정부를 이르는 말이었으며, 로마 정부의 공식 표어로 쓰였다. 이 말은 [주화](https://ko.wikipedia.org/wiki/로마의_주화 "wikilink"), 그리고 돌이나 금속으로 된 국가 비문에 끝부분, 공공 사업이나 기념물의 헌정문, [로마 군단의](../Page/로마_군단.md "wikilink") 군단기에 나온다. 이 문구는 [마르쿠스 툴리우스 키케로의](../Page/마르쿠스_툴리우스_키케로.md "wikilink") 연설문이나 [티투스 리비우스의](https://ko.wikipedia.org/wiki/티투스_리비우스 "wikilink") 역사서 등 로마의 정치, 법, 역사 문헌에서도 수없이 등장한다.
+**SPQR**은 [라틴어](../Page/라틴어.md "wikilink") 문장 **Senatus Populusque Romanus**의 약자로, '로마의 원로원과 대중'을 뜻한다. 이 말은 고대 [로마 공화정의](../Page/로마_공화정.md "wikilink") 정부를 이르는 말이었다. 이 말은 [주화](https://ko.wikipedia.org/wiki/로마의_주화 "wikilink"), 그리고 돌이나 금속으로 된 국가 비문에 끝부분, 공공 사업이나 기념물의 헌정문, [로마 군단의](../Page/로마_군단.md "wikilink") 군단기에 나온다. 이 문구는 [마르쿠스 툴리우스 키케로의](../Page/마르쿠스_툴리우스_키케로.md "wikilink") 연설문이나 [티투스 리비우스의](https://ko.wikipedia.org/wiki/티투스_리비우스 "wikilink") 역사서 등 로마의 정치, 법, 역사 문헌에서도 수없이 등장한다.
 
 SPQR은 오늘날 [로마](../Page/로마.md "wikilink") 시의 [모토](https://ko.wikipedia.org/wiki/모토 "wikilink")이며, 이 곳의 도시 [문장](../Page/문장_\(상징\).md "wikilink"), 시내의 수많은 공공 건물, 공공 분수, [맨홀 뚜껑에서도](https://ko.wikipedia.org/wiki/맨홀_뚜껑 "wikilink") 보인다.
 
@@ -27,4 +27,4 @@ Spqrstone.jpg|'로마의 원로원과 인민' Arch.of.Titus-Inscription.jpg|[티
 
   -
   -
-[분류:고대 로마의 정치](https://ko.wikipedia.org/wiki/분류:고대_로마의_정치 "wikilink")
+[분류:고대 로마의 정치](https://ko.wikipedia.org/wiki/분류:고대_로마의_정치 "wikilink") [분류:로마 공화국](https://ko.wikipedia.org/wiki/분류:로마_공화국 "wikilink")

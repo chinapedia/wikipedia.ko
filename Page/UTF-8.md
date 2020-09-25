@@ -3,7 +3,7 @@
 
 **UTF-8**은 [유니코드](../Page/유니코드.md "wikilink")를 위한 가변 길이 [문자 인코딩](../Page/문자_인코딩.md "wikilink") 방식 중 하나로, [켄 톰프슨과](../Page/켄_톰프슨.md "wikilink") [롭 파이크가](../Page/롭_파이크.md "wikilink") 만들었다. UTF-8은 Universal Coded Character Set + Transformation Format – 8-bit 의 약자이다. 본래는 **FSS-UTF**(File System Safe UCS/Unicode Transformation Format)라는 이름으로 제안되었다.
 
-UTF-8 인코딩은 유니코드 한 문자를 나타내기 위해 1바이트에서 4바이트까지를 사용한다. 예를 들어서, U+0000부터 U+007F 범위에 있는 [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink") 문자들은 UTF-8에서 1바이트만으로 표시된다. 4바이트로 표현되는 문자는 모두 [기본 다국어 평면](https://ko.wikipedia.org/wiki/기본_다국어_평면 "wikilink")(BMP) 바깥의 유니코드 문자이며, 거의 사용되지 않는다. [UTF-16](../Page/UTF-16.md "wikilink")과 UTF-8 중 어느 인코딩이 더 적은 바이트를 사용하는지는 문자열에서 사용된 코드 포인트에 따라 달라지며, 실제로 [DEFLATE](https://ko.wikipedia.org/wiki/DEFLATE "wikilink")와 같은 일반적인 압축 알고리즘을 사용할 경우 이 차이는 무시할 수 있을 정도이다. 이러한 압축 알고리즘을 사용하기 힘들고 크기가 중요할 경우 [유니코드 표준 압축 방식](https://ko.wikipedia.org/wiki/유니코드_표준_압축_방식 "wikilink")(Standard Compression Scheme for Unicode)을 대신 사용할 수 있다.
+UTF-8 인코딩은 유니코드 한 문자를 나타내기 위해 1바이트에서 4바이트까지를 사용한다. 예를 들어서, U+0000부터 U+007F 범위에 있는 [ASCII](https://ko.wikipedia.org/wiki/ASCII "wikilink") 문자들은 UTF-8에서 1바이트만으로 표시된다. 4바이트로 표현되는 문자는 모두 [기본 다국어 평면](https://ko.wikipedia.org/wiki/기본_다국어_평면 "wikilink")(BMP) 바깥의 유니코드 문자이며, 거의 사용되지 않는다. [UTF-16](../Page/UTF-16.md "wikilink")과 UTF-8 중 어느 인코딩이 더 적은 바이트를 사용하는지는 문자열에서 사용된 코드 포인트에 따라 달라지며, 실제로 [DEFLATE](../Page/DEFLATE.md "wikilink")와 같은 일반적인 압축 알고리즘을 사용할 경우 이 차이는 무시할 수 있을 정도이다. 이러한 압축 알고리즘을 사용하기 힘들고 크기가 중요할 경우 [유니코드 표준 압축 방식](https://ko.wikipedia.org/wiki/유니코드_표준_압축_방식 "wikilink")(Standard Compression Scheme for Unicode)을 대신 사용할 수 있다.
 
 ## 구조
 

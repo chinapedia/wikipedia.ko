@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [미디어위키:Edittools](https://ko.wikipedia.org/wiki/미디어위키:Edittools).
 
 
-<div id="{{{id|editpage-specialchars}}}" class="my-buttons edittools-text" style="border-style:solid; border-width:1px; border-color:#c5c9ce; padding:1px; text-align: left; margin-top: -29px; margin-bottom: 28px;">
+<div id="{{{id|editpage-specialchars}}}" class="my-buttons edittools-text nomobile" style="border-style:solid; border-width:1px; border-color:#c5c9ce; padding:1px; text-align: left; margin-top: -29px; margin-bottom: 28px;">
 
 <div style="display: table; margin-right: auto; margin-left: auto;">
 

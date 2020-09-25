@@ -7,7 +7,7 @@
 
 PC 엔진 시대의 코어 구상을 계승하여 PC-FX 보드, [PC-FXGA](https://ko.wikipedia.org/wiki/PC-FXGA "wikilink") 등 PC에서 PC-FX용 게임을 즐길 수 있는 보드가 발매되었고, PC-98의 SCSI CD-ROM 드라이브로 사용할 수 있다. [가정용 게임기로는](../Page/가정용_게임기.md "wikilink") 최초로 세워두는 디자인을 채택, 굿 디자인을 수상하기도 하였다.
 
-[소니](../Page/소니.md "wikilink")의 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink"), [세가](https://ko.wikipedia.org/wiki/세가 "wikilink")의 [세가 새턴과](../Page/세가_새턴.md "wikilink") 비슷한 시기에 발매되어 32비트 게임기의 시장 쟁탈전을 벌일듯 싶었지만, 2D 동영상을 전면에 내세우는 대신에 3D 기능을 전혀 갖추지 않아 판매량은 약 40만대에 그치고 말았다.
+[소니](../Page/소니.md "wikilink")의 [플레이스테이션](../Page/플레이스테이션.md "wikilink"), [세가](../Page/세가.md "wikilink")의 [세가 새턴과](../Page/세가_새턴.md "wikilink") 비슷한 시기에 발매되어 32비트 게임기의 시장 쟁탈전을 벌일듯 싶었지만, 2D 동영상을 전면에 내세우는 대신에 3D 기능을 전혀 갖추지 않아 판매량은 약 40만대에 그치고 말았다.
 
 ## 세부 사항
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [UCC](https://ko.wikipedia.org/wiki/UCC).
 
 
-[섬네일의](https://ko.wikipedia.org/wiki/파일:User_generated_content_in_the_virtual_world_Second_Life.png "wikilink") UCC\]\] **손수제작물**( - 製作物, )은 일반인이 만든 동영상, 글, 사진 따위의 제작물을 가리킨다.
+[섬네일의](https://ko.wikipedia.org/wiki/파일:User_generated_content_in_the_virtual_world_Second_Life.png "wikilink") UCC\]\] **사용자 제작 콘텐츠**(, ), **사용자 창작 콘텐츠**, **손수제작물**(-製作物)은 일반인이 만든 동영상, 글, 사진 따위의 제작물을 가리킨다.
 
 ## 개요
 
@@ -47,7 +47,7 @@
 
 <references />
 
-[시민_미디어](https://ko.wikipedia.org/wiki/분류:시민_미디어 "wikilink") [분류:집단지성](https://ko.wikipedia.org/wiki/분류:집단지성 "wikilink") [UCC](https://ko.wikipedia.org/wiki/분류:UCC "wikilink")
+[시민_미디어](https://ko.wikipedia.org/wiki/분류:시민_미디어 "wikilink") [분류:집단지성](https://ko.wikipedia.org/wiki/분류:집단지성 "wikilink") [사용자_제작_콘텐츠](https://ko.wikipedia.org/wiki/분류:사용자_제작_콘텐츠 "wikilink")
 
 1.  [선거UCC운용기준안내](http://www.nec.go.kr/popup/notice/20070126/detail/ucc01.htm)
 2.  [2007년 법무부 이렇게 일하겠습니다](http://moj.korea.kr/moj/jsp/moj1_branch.jsp?_action=news_view&_property=p_sec_1&_id=155178665&currPage=1&_category=)

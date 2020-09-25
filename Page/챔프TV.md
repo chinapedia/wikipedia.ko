@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [챔프TV](https://ko.wikipedia.org/wiki/챔프TV).
 
 
-**챔프TV**(CHAMP TV)는 케이블TV [애니메이션](../Page/애니메이션.md "wikilink") 전문 채널로, 2005년부터 방송을 시작하였다.
+**챔프TV**(CHAMP TV)는 케이블TV [애니메이션](../Page/애니메이션.md "wikilink") 전문 채널로, 2005년부터 방송을 시작하였고, 현재는 티캐스트 어린이 채널이다.
 
 [대원미디어](../Page/대원미디어.md "wikilink")의 계열사에 포함되었으며, 2011년 7월 1일부터 현재까지 [태광그룹 및 흥국금융가족의](../Page/태광그룹.md "wikilink") 계열사인 [티캐스트](../Page/티캐스트.md "wikilink")가 전반적인 운영과 마케팅을 담당하고 있고, [대원미디어](../Page/대원미디어.md "wikilink")의 계열사인 [대원방송](https://ko.wikipedia.org/wiki/대원방송 "wikilink")㈜이 방송 컨텐츠 수급과 프로그램 공급을 담당하고 있다.
 
@@ -14,7 +14,7 @@
 ## 캐치프레이즈
 
   - [2005년](../Page/2005년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") : 애니메이션의 챔피언, 챔프
-  - [2006년](../Page/2006년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") \~ **현재** : ㅋㄷㅋㄷ<small>(키득키득)</small> 챔프
+  - [2006년](../Page/2006년.md "wikilink") [5월 2일](../Page/5월_2일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") : ㅋㄷㅋㄷ<small>(키득키득)</small> 챔프
 
 ## 방영 프로그램
 

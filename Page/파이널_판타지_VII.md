@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [파이널 판타지 VII](https://ko.wikipedia.org/wiki/파이널_판타지_VII).
 
 
-《**파이널 판타지 VII**》(; )은 [일본](../Page/일본.md "wikilink")의 스퀘어(현재는 [스퀘어 에닉스](../Page/스퀘어_에닉스.md "wikilink"))에서 개발한 일본식 판타지 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")용 게임이고 컴퓨터용으로 변환되기도 했다. 일본에서는 1997년에 발매되었다.
+《**파이널 판타지 VII**》(; )은 [일본](../Page/일본.md "wikilink")의 스퀘어(현재는 [스퀘어 에닉스](../Page/스퀘어_에닉스.md "wikilink"))에서 개발한 일본식 판타지 [롤플레잉 게임이다](https://ko.wikipedia.org/wiki/롤플레잉_게임 "wikilink"). [플레이스테이션](../Page/플레이스테이션.md "wikilink")용 게임이고 컴퓨터용으로 변환되기도 했다. 일본에서는 1997년에 발매되었다.
 
 《[파이널 판타지](https://ko.wikipedia.org/wiki/파이널_판타지_\(시리즈\) "wikilink")》시리즈의 일곱 번째 작품으로 시리즈 최초로 일부 3D 기술을 사용했으며, 영상(게임 중간중간에 삽입된 비디오)과 3D 기술을 통해 영화같은 게임을 만들어 내는 데 성공했다는 평가를 받았다. 또한 일본뿐만 아니라 [미국](../Page/미국.md "wikilink"), [유럽](../Page/유럽.md "wikilink") 등의 지역에서도 커다란 인기를 얻었다.
 

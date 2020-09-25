@@ -3,7 +3,7 @@
 
 **SK 와이번스**(SK Wyverns)는 [대한민국](../Page/대한민국.md "wikilink") [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")를 연고지로 하는 [KBO 리그](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 소속 프로야구단이다. [SK그룹](../Page/SK그룹.md "wikilink")의 계열사이다. 홈 구장은 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink") [미추홀구](../Page/미추홀구.md "wikilink") 매소홀로 618에 있는 [인천 SK 행복드림구장이다](../Page/문학야구장.md "wikilink").
 
-2000년 창단하였고 [2007 KS](../Page/2007년_한국시리즈.md "wikilink"), [2008 KS](../Page/2008년_한국시리즈.md "wikilink"), [2010 KS](https://ko.wikipedia.org/wiki/2010년_한국시리즈 "wikilink"), [2018 KS에서](https://ko.wikipedia.org/wiki/2018년_한국시리즈 "wikilink") 우승하였다.
+2000년 창단하였고 [2007](../Page/2007년_한국시리즈.md "wikilink"), [2008](../Page/2008년_한국시리즈.md "wikilink"), [2010](https://ko.wikipedia.org/wiki/2010년_한국시리즈 "wikilink"), [2018](https://ko.wikipedia.org/wiki/2018년_한국시리즈 "wikilink") 한국시리즈에서 우승하였다.
 
 ## SK 와이번스의 역사
 
@@ -144,7 +144,7 @@ SK 와이번스의 초대 감독은 [강병철이다](../Page/강병철_\(야구
   - 2015 : One Team\! One Spirit\!
   - 2016 : 새로운 시작\! 새로운 도전\!
   - 2017 : 따뜻한 울림 뜨거운 질주
-  - 2018 : Rise up together\!(다함께 더높이\!)
+  - 2018 : Rise up together\!
   - 2019 : 열광. 자부심 그리고 2019
   - 2020 : 강한기본, 투혼의 SK
 

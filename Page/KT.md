@@ -3,21 +3,21 @@
 
 [150px](https://ko.wikipedia.org/wiki/파일:KT_Logo_\(1991-2001\).svg "wikilink")
 
-**주식회사 케이티**(株式會社-, KT Corporation)는 [대한민국](../Page/대한민국.md "wikilink")의 유무선 통신 서비스 업체이다. 유·무선 전화, [초고속 인터넷](https://ko.wikipedia.org/wiki/초고속_인터넷 "wikilink") 등 유·무선 통신 서비스업이 주요 업종이다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") 불정로 90 (정자동)에 위치한다. 1981년 한국전기통신공사로 창립한 뒤 2001년 12월에 (주)KT로 상호를 변경하였다.\[1\] 2009년 6월 1일에 이동 통신 자회사인 [KTF와](../Page/케이티프리텔.md "wikilink") 인수 합병을 하였고,\[2\] 2011년 7월에 유·무선 통신 서비스 조직을 통합하였다.\[3\] 독점규제 및 공정거래 등에 관한 법률상 독과점 사업자로서 시장지배적 사업자 지위 남용 규제를 받는다. 통신의 새로운 패러다임을 여는 GiGA 인터넷 가입자 100만을 가장 먼저 달성하였다.
+**주식회사 케이티**(株式會社-, KT Corporation)는 [대한민국](../Page/대한민국.md "wikilink")의 유무선 통신 서비스 업체이다. 유·무선 전화, [초고속 인터넷](https://ko.wikipedia.org/wiki/초고속_인터넷 "wikilink") 등 유·무선 통신 서비스업이 주요 업종이다. 본사는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [성남시](../Page/성남시.md "wikilink") [분당구](../Page/분당구.md "wikilink") 불정로 90 (정자동)에 위치한다. 1981년 한국전기통신공사로 창립한 뒤 2001년 12월에 상호명을 한국통신에서 (주)KT로 변경하였다.\[1\] 2009년 6월 1일에 이동 통신 자회사인 [KTF와](../Page/케이티프리텔.md "wikilink") 인수 합병을 하였고,\[2\] 2011년 7월에 유·무선 통신 서비스 조직을 통합하였다.\[3\] 독점규제 및 공정거래 등에 관한 법률상 독과점 사업자로서 시장지배적 사업자 지위 남용 규제를 받는다. 통신의 새로운 패러다임을 여는 GiGA 인터넷 가입자 100만을 가장 먼저 달성하였다.
 
 ## 연혁
 
 ### 민영화 이전
 
-  - [1981년](../Page/1981년.md "wikilink") 12월 10일 **한국전기통신공사**(영문 약칭 KTA)가 체신부(현 [과학기술정보통신부](../Page/대한민국_과학기술정보통신부.md "wikilink"))에서 분리, 공사로 설립되었다. 통신업무 종사 체신부 직원 6만 8천명이 공사로 이동되었으며 육사출신 [이우재](https://ko.wikipedia.org/wiki/이우재 "wikilink") 제11대 [민정당](../Page/민정당.md "wikilink") 국회의원이 초대 사장에 임명되었다.
+  - [1981년](../Page/1981년.md "wikilink") 12월 10일 **한국전기통신공사**(영문 약칭 KTA)가 체신부(현 [과학기술정보통신부](../Page/대한민국_과학기술정보통신부.md "wikilink"))에서 분리와 공사로 설립되었다.
   - [1982년](../Page/1982년.md "wikilink") 전화 회선 450만 개를 돌파하였다.
   - [1982년](../Page/1982년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink") 한국데이타통신주식회사([데이콤](../Page/LG데이콤.md "wikilink"), 현 [LG유플러스](../Page/LG유플러스.md "wikilink"))을 설립하였다.
   - [1982년](../Page/1982년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") [무선호출기](../Page/무선호출기.md "wikilink") 서비스(일명 **삐삐**)가 1차로 250대가 승낙, 개통되었다.
   - [1984년](../Page/1984년.md "wikilink") 1월 세계에서 10번째로 [전전자교환기](https://ko.wikipedia.org/wiki/전전자교환기 "wikilink") [TDX-1](https://ko.wikipedia.org/wiki/TDX-1 "wikilink")를 개발하였다.
-  - [1984년](../Page/1984년.md "wikilink") 무선통신서비스를 운영할 자회사로 한국이동통신서비스주식회사(현 [SK텔레콤](../Page/SK텔레콤.md "wikilink"))를 설립하였다.
+  - [1984년](../Page/1984년.md "wikilink") 무선통신서비스를 운영할 자회사로 **한국이동통신서비스주식회사(현 [SK텔레콤](../Page/SK텔레콤.md "wikilink"))**를 설립하였다.
   - [1986년](../Page/1986년.md "wikilink") 무선호출기 서비스 지역이 5대도시로 확대되었다.
   - [1987년](../Page/1987년.md "wikilink") 전국전화자동화가 완성되었다.
-  - [1988년](../Page/1988년.md "wikilink") 무선통신서비스 자회사의 명칭을 한국이동통신주식회사로 변경하였다.
+  - [1988년](../Page/1988년.md "wikilink") 명칭을 **한국이동통신서비스주식회사**에서 **한국이동통신주식회사**로 변경하였다.
   - [1991년](../Page/1991년.md "wikilink") 1월 1일 한국통신(공사)으로 약칭하였다.
   - [1993년](../Page/1993년.md "wikilink") 11월 30일 전화 회선이 2000만 개로 확대되었다.
 
@@ -40,7 +40,7 @@
   - [2001년](../Page/2001년.md "wikilink") [이계철](https://ko.wikipedia.org/wiki/이계철 "wikilink") 사장이 사임하고 [이상철](https://ko.wikipedia.org/wiki/이상철 "wikilink") 사장이 취임하였다.
   - [2001년](../Page/2001년.md "wikilink") [4월](../Page/4월.md "wikilink") 전화 발신번호서비스(CID)를 시작하였다.
   - [2001년](../Page/2001년.md "wikilink") 5월 기업 슬로건 **Let's KT**를 시행하였다.
-  - [2001년](../Page/2001년.md "wikilink") 12월 한국통신에서 KT로 CI를 변경하였다. 전화국 명칭을 지사로 변경하였다.\[4\]
+  - [2001년](../Page/2001년.md "wikilink") 12월 **한국통신**에서 **KT**로 CI를 변경하였다. 전화국 명칭을 지사로 변경하였다.\[4\]
 
 ### 민영화 이후
 
@@ -49,7 +49,7 @@
   - [2002년](../Page/2002년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") 정부 소유 KT 지분 전량 매각으로 완전 민영화되었다.\[5\]\[6\] SK텔레콤이 정부 보유 KT 지분 매각 과정에서 총 발행 주식의 11.34%를 비밀리에 매집하여 최대 주주가 되었다.\[7\]
   - 2002년 [5월 24일](../Page/5월_24일.md "wikilink") [울릉도](../Page/울릉도.md "wikilink")에 기지국이 설치되어 [독도](../Page/독도.md "wikilink")에서 휴대폰이 개통되었다.
   - 2002년 [5월 25일](../Page/5월_25일.md "wikilink") 2002년 5월 21일에 정부 소유 KT 지분 전량 매각된 후 새 주인에게 주권이 교부되고 교환사채(EB)가 발행되었다.\[8\]
-  - 2002년 7월 [이상철](https://ko.wikipedia.org/wiki/이상철_\(1948년\) "wikilink") KT 사장이 정보통신부(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")) 장관에 임명되었다.
+  - 2002년 7월 [이상철](../Page/이상철_\(1948년\).md "wikilink") KT 사장이 정보통신부(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")) 장관에 임명되었다.
   - 2002년 [8월 20일](../Page/8월_20일.md "wikilink") [이용경](../Page/이용경.md "wikilink") [KTF](../Page/케이티프리텔.md "wikilink") 사장이 민영화 초대 KT 사장에 공식 취임하였다.
   - 2002년 10월 [이용경](../Page/이용경.md "wikilink") 사장이 2003년 [국제전자상거래연합회](https://ko.wikipedia.org/wiki/국제전자상거래연합회 "wikilink")(GBDe, Global Business Dialogue on Electronic Commerce) 단독 글로벌 의장으로 선출되었다.
   - [2003년](../Page/2003년.md "wikilink") 1월 KT와 SK텔레콤이 상호 보유 지분을 맞교환하여 지배 관계가 청산되었다.\[9\]
@@ -67,19 +67,19 @@
   - [2009년](../Page/2009년.md "wikilink") 1월: [이석채](../Page/이석채.md "wikilink") 전 정보통신부(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink")) 장관이 대표이사 사장에 취임\[13\] 하였으며 All New KT를 슬로건으로 발표하였다.\[14\]
   - 2009년 1월: 이석채 사장이 자회사 KTF와의 인수 합병을 선언하였다.
   - 2009년 [3월](../Page/3월.md "wikilink"): [방송통신위원회로부터](../Page/대한민국_방송통신위원회.md "wikilink") 자회사인 KTF(케이티프리텔)와의 인수 합병에 대해 조건부 승인을 받았다.
-  - 2009년 [4월](../Page/4월.md "wikilink"): 새로운 브랜드 **QOOK**(쿡)을 사용하기 시작하였으며, 기존 **메가패스**는 **QOOK 인터넷**으로, **메가TV**는 **[QOOK TV](../Page/올레_TV.md "wikilink")**로 명칭을 변경하였다.
+  - 2009년 [4월](../Page/4월.md "wikilink"): 새로운 브랜드 **QOOK**(쿡)을 사용하기 시작하였으며, 명칭을 **메가패스**에서 **QOOK 인터넷**으로 변경하였으며, **메가TV**에서 **[QOOK TV](../Page/올레_TV.md "wikilink")**로 변경하였다.
 
 ### KT - KTF 인수 합병 이후
 
   - [2009년](../Page/2009년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") 자회사인 KTF와 인수 합병하였다.
-  - [2009년](../Page/2009년.md "wikilink") [7월](../Page/7월.md "wikilink") 기업 슬로건 All New KT를 **olleh kt**로 변경하였다.
+  - [2009년](../Page/2009년.md "wikilink") [7월](../Page/7월.md "wikilink") 기업 슬로건 **All New KT**에서 **olleh kt**로 변경하였다.
   - [2009년](../Page/2009년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") 자회사인 KT FDS를 [동양그룹](https://ko.wikipedia.org/wiki/동양그룹 "wikilink")에 매각하였다.
   - [2009년](../Page/2009년.md "wikilink") [10월](../Page/10월.md "wikilink") 첫 유무선 통합 상품인 [FMC](https://ko.wikipedia.org/wiki/FMC "wikilink")(Fixed Mobile Convergence) 서비스인 QOOK\&SHOW 를 출시하였다.\[15\]
   - [2009년](../Page/2009년.md "wikilink") [11월](../Page/11월.md "wikilink") 한국 최초로 [애플](../Page/애플.md "wikilink")사의 [아이폰](../Page/아이폰.md "wikilink")을 [도입하였다](../Page/대한민국의_아이폰_출시.md "wikilink").
   - [2009년](../Page/2009년.md "wikilink") [12월](../Page/12월.md "wikilink") 한국 최초 3W(Wi-Fi, WiBro, WCDMA) 핸드폰인 쇼옴니아를 출시하였다.
   - [2010년](../Page/2010년.md "wikilink") [4월](../Page/4월.md "wikilink") 한국디지털위성방송이 KT그룹에 편입하였다.
   - [2010년](../Page/2010년.md "wikilink") [4월](../Page/4월.md "wikilink") [금호렌터카](https://ko.wikipedia.org/wiki/금호렌터카 "wikilink")(현 [롯데렌터카](https://ko.wikipedia.org/wiki/롯데렌터카 "wikilink"))를 인수하였다.
-  - [2010년](../Page/2010년.md "wikilink") [6월](../Page/6월.md "wikilink") [클라우드](https://ko.wikipedia.org/wiki/클라우드 "wikilink") 스토리지 Ucloud 서비스를 출시하였다.
+  - [2010년](../Page/2010년.md "wikilink") [6월](../Page/6월.md "wikilink") [클라우드](https://ko.wikipedia.org/wiki/클라우드 "wikilink") 스토리지 Ucloud 서비스(현, [KT Cloud](https://ko.wikipedia.org/wiki/KT_Cloud "wikilink"))를 출시하였다.
   - 2010년 8월 31일자로 [다우 존스 지속가능지수 월드](https://ko.wikipedia.org/wiki/다우_존스_지속가능지수_월드 "wikilink")(Dow Jones Sustainability Index World)에 처음으로 편입되었다.\[16\]
   - [2010년](../Page/2010년.md "wikilink") [9월](../Page/9월.md "wikilink") [애플](../Page/애플.md "wikilink")사의 '[아이폰4](https://ko.wikipedia.org/wiki/아이폰4 "wikilink")'와 [3G](https://ko.wikipedia.org/wiki/3G "wikilink") 무제한데이터 요금제를 출시하였다.\[17\]
   - [2010년](../Page/2010년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [11월 12일](../Page/11월_12일.md "wikilink"): 대한민국에서 개최된 G20 정상회의 주관통신사업자로 선정되었다.\[18\]

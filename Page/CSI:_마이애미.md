@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - [에바 라루](https://ko.wikipedia.org/wiki/에바_라루 "wikilink") ([Eva La Rue](https://ko.wikipedia.org/wiki/:en:Eva_La_Rue "wikilink")) - *' 나탈리아 보아 비스타*'(Natalia Boa Vista), 1급 감식 수사관 (시즌 4 \~ 시즌 10)
+  - [에바 라루](../Page/에바_라루.md "wikilink") ([Eva La Rue](https://ko.wikipedia.org/wiki/:en:Eva_La_Rue "wikilink")) - *' 나탈리아 보아 비스타*'(Natalia Boa Vista), 1급 감식 수사관 (시즌 4 \~ 시즌 10)
 
 <!-- end list -->
 

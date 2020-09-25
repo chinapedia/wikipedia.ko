@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [조PD](https://ko.wikipedia.org/wiki/조PD).
 
 
-**조PD**(, [1976년](../Page/1976년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink")\[1\] \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink"), 제작자, 매니지먼트 사업가이다. 1998년 10월 PC통신을 통해 데뷔하였으며, 인터넷 가수의 원조로 불린다.
+**조PD**(, [1976년](../Page/1976년.md "wikilink") [1월 27일](../Page/1월_27일.md "wikilink")\[1\] \~ )는 [대한민국](../Page/대한민국.md "wikilink")의 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink"), 제작자, 매니지먼트 사업가이다. 1998년 10월 [PC통신](https://ko.wikipedia.org/wiki/PC통신 "wikilink")을 통해 데뷔하였으며, 인터넷 가수의 원조로 불린다.
 
 ## 생애
 

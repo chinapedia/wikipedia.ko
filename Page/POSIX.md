@@ -3,7 +3,7 @@
 
 **POSIX**(**포직스**, )는 **이식 가능 운영 체제 인터페이스**(移植可能運營體制 interface, )\[1\]의 약자로, 서로 다른 [UNIX](https://ko.wikipedia.org/wiki/UNIX "wikilink") OS의 공통 [API](../Page/API.md "wikilink")를 정리하여 [이식성이](../Page/이식_\(컴퓨팅\).md "wikilink") 높은 [유닉스](../Page/유닉스.md "wikilink") [응용 프로그램을](https://ko.wikipedia.org/wiki/응용_프로그램 "wikilink") 개발하기 위한 목적으로 [IEEE](https://ko.wikipedia.org/wiki/IEEE "wikilink")가 책정한 애플리케이션 인터페이스 규격이다.
 
-POSIX의 마지막 글자 [X](https://ko.wikipedia.org/wiki/X "wikilink")는 유닉스 호환 운영체제에 보통 X가 붙는 것에서 유래한다.
+POSIX의 마지막 글자 [X](../Page/X.md "wikilink")는 유닉스 호환 운영체제에 보통 X가 붙는 것에서 유래한다.
 
 규격의 내용은 커널로의 [C 언어](../Page/C_\(프로그래밍_언어\).md "wikilink") 인터페이스인 시스템 콜 뿐 아니라, 프로세스 환경, 파일과 디렉터리, 시스템 데이터베이스(암호 파일 등), [tar](../Page/Tar_\(파일_포맷\).md "wikilink") 압축 포맷 등 다양한 분야를 아우른다.
 

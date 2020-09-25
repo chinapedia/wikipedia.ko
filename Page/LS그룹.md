@@ -20,7 +20,7 @@
           - [LS메카피온](https://ko.wikipedia.org/wiki/LS메카피온 "wikilink")
           - [LS사우타](https://ko.wikipedia.org/wiki/LS사우타 "wikilink")
           - [트리노](https://ko.wikipedia.org/wiki/트리노 "wikilink")
-      - [LS-Nikko 동제련](https://ko.wikipedia.org/wiki/LS-Nikko_동제련 "wikilink")
+      - [LS-Nikko동제련](https://ko.wikipedia.org/wiki/LS-Nikko동제련 "wikilink")
           - [GRM](https://ko.wikipedia.org/wiki/GRM "wikilink")
           - [토리컴](https://ko.wikipedia.org/wiki/토리컴 "wikilink")
           - [선우](../Page/선우.md "wikilink")

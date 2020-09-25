@@ -5,7 +5,7 @@
 
 ## 연혁
 
-1984년 4월 20일 ‘한국이동통신서비스주식회사’라는 이름으로 [한국전기통신공사](https://ko.wikipedia.org/wiki/한국전기통신공사 "wikilink")(현 [KT](../Page/KT.md "wikilink"))의 자회사로 설립되었다. 이후 1988년 5월에 ‘한국이동통신주식회사’(韓國移動通信, Korea Mobile Telecom)로 사명을 변경하였고, 1994년 공개 입찰을 거쳐 [선경그룹](https://ko.wikipedia.org/wiki/선경그룹 "wikilink")(현 SK그룹)에 인수되어 민영화되었다. 3년 후인 1997년 3월, 사명을 ‘SK텔레콤’으로 바꾸어 이동통신 서비스를 제공하고 있다.
+1984년 4월 20일 ‘한국이동통신서비스주식회사’라는 이름으로 [한국전기통신공사](https://ko.wikipedia.org/wiki/한국전기통신공사 "wikilink")(현 [KT](../Page/KT.md "wikilink"))의 자회사로 설립되었다. 이후 1988년 5월에 ‘한국이동통신주식회사’(韓國移動通信, Korea Mobile Telecom)로 사명을 변경하였고, 1994년 공개 입찰을 거쳐 [선경그룹](https://ko.wikipedia.org/wiki/선경그룹 "wikilink")(현 SK그룹)에 인수되어 민영화되었다. 3년 후인 1997년 3월 사명을 ‘SK텔레콤’으로 바꾸어 이동통신 서비스를 제공하고 있다.
 
 1999년 신세대 전용 이동통신 브랜드인 ‘TTL’을 출시하였으며, 2000년에는 베트남 CDMA 이동전화 사업에 진출하였다. 2004년 위성DMB용 위성을 일본 MBCo와 공동으로 쏘아 올렸으며, 계열사인 [TU미디어](../Page/TU미디어.md "wikilink")를 통하여 이동전화용 위성DMB 방송을 제공하였으나, 이용률 부진과 단말기 부족 등으로 인하여 2012년에 서비스를 종료하였다. 2006년에는 미국의 EarthLink사와 ‘Helio’([힐리오](../Page/힐리오.md "wikilink"))라는 회사를 설립하여 미국 내의 [MVNO](https://ko.wikipedia.org/wiki/MVNO "wikilink") 사업을 진행하였으나, 2008년 6월 힐리오를 [버진모바일](https://ko.wikipedia.org/wiki/버진모바일 "wikilink")에 매각하였다.
 
@@ -71,7 +71,7 @@ SK텔레콤은 2.1GHz대역 60MHz폭에서 [3G](https://ko.wikipedia.org/wiki/3G
 
 ### 어린이들의 [자유](../Page/자유.md "wikilink")구속 애플리케이션
 
-SK 텔레콤은 [ZEM](https://ko.wikipedia.org/wiki/ZEM "wikilink")이라는 [애플리케이션](https://ko.wikipedia.org/wiki/애플리케이션 "wikilink")을 만들어 수많은 어린이들의 게임중독을 막게 되었다. 부모들에게는 좋은 앱으로 평가받았으나 어린이들에게는 "별로다, 자유를 구속하니까 풀어줘라" 등의 의견의 나왔으며 욕을 많이 받는다.게다가 헌법 제 17조와 18조,유엔 아동 권리 협약 16조도 위반했다.
+SK 텔레콤은 [ZEM](https://ko.wikipedia.org/wiki/ZEM "wikilink")이라는 [애플리케이션](https://ko.wikipedia.org/wiki/애플리케이션 "wikilink")을 만들어 수많은 어린이들의 게임중독을 막으려 하였으나 역효과가 발생하게 되었다. 부모들에게는 좋은 앱으로 평가받았으나 어린이들에게는 "별로다, 자유를 구속하니까 풀어줘라" 등의 의견의 나왔으며  또한 헌법 제 17조와 18조, 유엔 아동 권리 협약 16조도 위반했다는 비판을 듣고 있다.
 
 ### 인터넷 댓글 아르바이트 논란
 

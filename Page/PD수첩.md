@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PD수첩](https://ko.wikipedia.org/wiki/PD수첩).
 
 
-《**PD수첩**》은 [MBC TV에서](../Page/MBC_TV.md "wikilink") 매주 화요일 밤 10시 50분에 방송되는 [문화방송](../Page/문화방송.md "wikilink")의 탐사보도 프로그램이다. 프로듀서들이 제작하는 [탐사보도](../Page/탐사보도.md "wikilink") 형식을 띄고 있다.
+《**PD수첩**》은 [MBC TV에서](../Page/MBC_TV.md "wikilink") 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 10시 40분에 방송되는 [문화방송](../Page/문화방송.md "wikilink")의 탐사보도 프로그램이다. 프로듀서들이 제작하는 [탐사보도](../Page/탐사보도.md "wikilink") 형식을 띄고 있다.
 
 ## 방송 시간
 
@@ -90,8 +90,9 @@
 | [2019년](../Page/2019년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink")                                                                                  | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11:00 \~ 11:55                                                                                |                                                                         |       |
 | [2020년](../Page/2020년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink")     |                                                                                                                                                        |                                                                         |       |
 | [2020년](../Page/2020년.md "wikilink") [6월 2일](../Page/6월_2일.md "wikilink")                                                                                      | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 10:50 \~ 11:50                                                                                | 1시간                                                                     |       |
-| [2020년](../Page/2020년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink") \~ **현재**                                                                            | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 10:50 \~ 11:45                                                                                | 55분                                                                     |       |
+| [2020년](../Page/2020년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [9월 8일](../Page/9월_8일.md "wikilink")         | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 10:50 \~ 11:45                                                                                | 55분                                                                     |       |
 |                                                                                                                                                                |                                                                                                                                                        |                                                                         |       |
+| [2020년](../Page/2020년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") \~ **현재**                                                                          | 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 10:40 \~ 11:35                                                                                | 55분                                                                     |       |
 
 ## 제작진
 

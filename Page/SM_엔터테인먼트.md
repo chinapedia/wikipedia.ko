@@ -79,7 +79,7 @@
 | [슈퍼주니어](../Page/슈퍼주니어.md "wikilink")                        | 그룹 (13인조)                                                       | [이특](https://ko.wikipedia.org/wiki/이특_\(가수\) "wikilink"), [희철](../Page/김희철_\(가수\).md "wikilink"), [예성](../Page/예성.md "wikilink"), [신동](../Page/신동_\(가수\).md "wikilink"), [은혁](../Page/은혁.md "wikilink"), [동해](../Page/동해_\(가수\).md "wikilink"), [시원](../Page/시원_\(가수\).md "wikilink"), [려욱](../Page/려욱.md "wikilink"), [규현](../Page/규현.md "wikilink"), [강인](../Page/강인_\(가수\).md "wikilink"), [기범](../Page/김기범_\(배우\).md "wikilink"), [한경](../Page/한경.md "wikilink"), [성민](../Page/성민_\(1986년\).md "wikilink") | [펄 사파이어 블루](../Page/파랑.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | E.L.F                            | 이특                                                                                                        |              |      |
 | 2006                                                        | [장리인](../Page/장리인.md "wikilink")                                | 솔로                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 2006                             | 파스텔 모카                                                                                                    | Chocolate    | 없음   |
 | 2007                                                        | [제이민](../Page/제이민_\(1988년\).md "wikilink")                      | 2007                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | [연두](https://ko.wikipedia.org/wiki/연두 "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                          | J-Min Day                        |                                                                                                           |              |      |
-| [소녀시대](../Page/소녀시대.md "wikilink")                          | 그룹 (9인조)                                                        | [태연](../Page/태연.md "wikilink"), [써니](../Page/써니_\(가수\).md "wikilink"), [티파니](../Page/티파니_영.md "wikilink"), [효연](../Page/효연.md "wikilink"), [유리](../Page/유리_\(1989년\).md "wikilink"), [수영](../Page/수영.md "wikilink"), [윤아](../Page/윤아.md "wikilink"), [서현](https://ko.wikipedia.org/wiki/서현 "wikilink"), [제시카](../Page/제시카_\(가수\).md "wikilink")                                                                                                                                                                | [파스텔 로즈](../Page/분홍.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | S♡NE                             | 태연                                                                                                        |              |      |
+| [소녀시대](../Page/소녀시대.md "wikilink")                          | 그룹 (9인조)                                                        | [태연](../Page/태연.md "wikilink"), [써니](../Page/써니_\(가수\).md "wikilink"), [티파니](../Page/티파니_영.md "wikilink"), [효연](../Page/효연.md "wikilink"), [유리](../Page/유리_\(1989년\).md "wikilink"), [수영](../Page/수영.md "wikilink"), [윤아](../Page/윤아.md "wikilink"), [서현](../Page/서현_\(가수\).md "wikilink"), [제시카](../Page/제시카_\(가수\).md "wikilink")                                                                                                                                                                            | [파스텔 로즈](../Page/분홍.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | S♡NE                             | 태연                                                                                                        |              |      |
 | 2008                                                        | [샤이니](../Page/샤이니.md "wikilink")                                | 그룹 (5인조)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | [온유](../Page/온유.md "wikilink"), [종현](../Page/종현.md "wikilink"), [Key](https://ko.wikipedia.org/wiki/Key_\(가수\) "wikilink"), [민호](../Page/민호.md "wikilink"), [태민](../Page/태민.md "wikilink")                                                                                                                                                                                                                                                                                                                 | 2008                             | [펄 아쿠아 그린](https://ko.wikipedia.org/wiki/아쿠아 "wikilink")                                                  | SHINee World | 온유   |
 | 2009                                                        | [f(x)](https://ko.wikipedia.org/wiki/f\(x\) "wikilink")         | 그룹 (5인조)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | [빅토리아](../Page/빅토리아_\(가수\).md "wikilink"), [엠버](../Page/엠버_\(가수\).md "wikilink"), [루나](../Page/루나_\(가수\).md "wikilink"), [크리스탈](../Page/크리스탈_\(가수\).md "wikilink"),[설리](../Page/설리_\(1994년\).md "wikilink")                                                                                                                                                                                                                                                                                                | 2009                             | 펄라이트 페리윙클                                                                                                 | Me(you)      | 빅토리아 |
 | 2012                                                        | [EXO](../Page/EXO.md "wikilink")                                | 그룹 (12인조)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | [수호](../Page/수호_\(가수\).md "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(가수\) "wikilink"), [찬열](../Page/찬열.md "wikilink"), [첸](../Page/첸_\(가수\).md "wikilink"), [레이](../Page/레이_\(가수\).md "wikilink"), [디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink"), [세훈](../Page/세훈.md "wikilink"),[루한](../Page/루한.md "wikilink"),[타오](https://ko.wikipedia.org/wiki/타오 "wikilink"),[크리스](../Page/크리스.md "wikilink")     | 2012                             | style= "background:linear-gradient(\#808080, \#FFF8E7); " | 없음                                            | EXO-L        | 수호   |
@@ -95,59 +95,59 @@
 ## SMTOWN Concert
 
   - 2007 SMTOWN Summer Concert
-      - [2007년6월23일](https://ko.wikipedia.org/wiki/2007년6월23일 "wikilink") 2007 SMTOWN Summer Concert 부산공연(BEXCO)
-      - [2007년6월30일](https://ko.wikipedia.org/wiki/2007년6월30일 "wikilink") 2007 SMTOWN Summer Concert 서울공연(올림픽체조경기장)
-      - [2007년7월7일](https://ko.wikipedia.org/wiki/2007년7월7일 "wikilink") 2007 SMTOWN Summer Concert 대구공연(대구월드컵경기장)
+      - [2007년](../Page/2007년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink") 2007 SMTOWN Summer Concert 부산공연(BEXCO)
+      - [2007년](../Page/2007년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") 2007 SMTOWN Summer Concert 서울공연(올림픽체조경기장)
+      - [2007년](../Page/2007년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") 2007 SMTOWN Summer Concert 대구공연(대구월드컵경기장)
   - SMTOWN Live'08
-      - [2008년8월15일](https://ko.wikipedia.org/wiki/2008년8월15일 "wikilink") SMTOWN Live'08 서울공연(올림픽주경기장)
-      - [2008년9월13일](https://ko.wikipedia.org/wiki/2008년9월13일 "wikilink") SMTOWN Live'08 상해공연(상하이체육장)
-      - [2009년2월7일](https://ko.wikipedia.org/wiki/2009년2월7일 "wikilink") SMTOWN Live'08 방콕공연(라차망칼라 국립경기장)
+      - [2008년](../Page/2008년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") SMTOWN Live'08 서울공연(올림픽주경기장)
+      - [2008년](../Page/2008년.md "wikilink") [9월 13일](../Page/9월_13일.md "wikilink") SMTOWN Live'08 상해공연(상하이체육장)
+      - [2009년](../Page/2009년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") SMTOWN Live'08 방콕공연(라차망칼라 국립경기장)
   - SMTOWN Live'10 World Tour
-      - [2010년8월21일](https://ko.wikipedia.org/wiki/2010년8월21일 "wikilink") SMTOWN Live'10 World Tour 서울공연(올림픽주경기장)
-      - [2010년9월4일](https://ko.wikipedia.org/wiki/2010년9월4일 "wikilink") SMTOWN Live'10 World Tour 로스앤젤레스공연(스테이플스센터)
-      - [2010년9월11일](https://ko.wikipedia.org/wiki/2010년9월11일 "wikilink") SMTOWN Live'10 World Tour 상해공연(훙커우 축구장)
-      - [2011년1월25일\~26일](https://ko.wikipedia.org/wiki/2011년1월25일~26일 "wikilink") SMTOWN Live'10 World Tour 도쿄공연(국립 요요기경기장)
-      - [2011년6월10일\~11일](https://ko.wikipedia.org/wiki/2011년6월10일~11일 "wikilink") SMTOWN Live'10 World Tour 파리공연(르 제니스 드 파리)
-      - [2011년9월2일\~4일](https://ko.wikipedia.org/wiki/2011년9월2일~4일 "wikilink") SMTOWN Live'10 World Tour 도쿄공연(도쿄돔)
-      - [2011년10월23일](https://ko.wikipedia.org/wiki/2011년10월23일 "wikilink") SMTOWN Live'10 World Tour 뉴욕공연(메디슨 스퀘어 가든)
+      - [2010년](../Page/2010년.md "wikilink") [8월 21일](../Page/8월_21일.md "wikilink") SMTOWN Live'10 World Tour 서울공연(올림픽주경기장)
+      - [2010년](../Page/2010년.md "wikilink") [9월 4일](../Page/9월_4일.md "wikilink") SMTOWN Live'10 World Tour 로스앤젤레스공연(스테이플스센터)
+      - [2010년](../Page/2010년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") SMTOWN Live'10 World Tour 상해공연(훙커우 축구장)
+      - [2011년](../Page/2011년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink") \~ [1월 26일](../Page/1월_26일.md "wikilink") SMTOWN Live'10 World Tour 도쿄공연(국립 요요기경기장)
+      - [2011년](../Page/2011년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") \~ [6월 11일](../Page/6월_11일.md "wikilink") SMTOWN Live'10 World Tour 파리공연(르 제니스 드 파리)
+      - [2011년](../Page/2011년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [9월 4일](../Page/9월_4일.md "wikilink") SMTOWN Live'10 World Tour 도쿄공연(도쿄돔)
+      - [2011년](../Page/2011년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") SMTOWN Live'10 World Tour 뉴욕공연(메디슨 스퀘어 가든)
   - SMTOWN Live World Tour III
-      - [2012년5월20일](https://ko.wikipedia.org/wiki/2012년5월20일 "wikilink") SMTOWN Live World Tour III 애너하임공연(혼다 센터)
-      - [2012년6월9일](https://ko.wikipedia.org/wiki/2012년6월9일 "wikilink") SMTOWN Live World Tour III 신죽공연(신주 카운티 스타디움)
-      - [2012년8월4일\~5일](https://ko.wikipedia.org/wiki/2012년8월4일~5일 "wikilink") SMTOWN Live World Tour III 도쿄공연(도쿄돔)
-      - [2012년8월18일](https://ko.wikipedia.org/wiki/2012년8월18일 "wikilink") SMTOWN Live World Tour III 서울공연(올림픽주경기장)
-      - [2012년9월22일](https://ko.wikipedia.org/wiki/2012년9월22일 "wikilink") SMTOWN Live World Tour III 자카르타공연(겔로라 붕 카르노 스타디움)
-      - [2012년11월23일](https://ko.wikipedia.org/wiki/2012년11월23일 "wikilink") SMTOWN Live World Tour III 싱가포르공연(더 플롯 앳 마리나 베이)
-      - [2012년11월25일](https://ko.wikipedia.org/wiki/2012년11월25일 "wikilink") SMTOWN Live World Tour III 방콕공연(SCG스타디움)
-      - [2013년10월19일](https://ko.wikipedia.org/wiki/2013년10월19일 "wikilink") SMTOWN Live World Tour III Special Edition 상해공연(베이징 국가체육장)
-      - [2013년10월26일\~27일](https://ko.wikipedia.org/wiki/2013년10월26일~27일 "wikilink") SMTOWN Live World Tour III Special Edition 도쿄공연(도쿄돔)
+      - [2012년](../Page/2012년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") SMTOWN Live World Tour III 애너하임공연(혼다 센터)
+      - [2012년](../Page/2012년.md "wikilink") [6월 9일](../Page/6월_9일.md "wikilink") SMTOWN Live World Tour III 신죽공연(신주 카운티 스타디움)
+      - [2012년](../Page/2012년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [8월 5일](../Page/8월_5일.md "wikilink") SMTOWN Live World Tour III 도쿄공연(도쿄돔)
+      - [2012년](../Page/2012년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") SMTOWN Live World Tour III 서울공연(올림픽주경기장)
+      - [2012년](../Page/2012년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") SMTOWN Live World Tour III 자카르타공연(겔로라 붕 카르노 스타디움)
+      - [2012년](../Page/2012년.md "wikilink") [11월 23일](../Page/11월_23일.md "wikilink") SMTOWN Live World Tour III 싱가포르공연(더 플롯 앳 마리나 베이)
+      - [2012년](../Page/2012년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") SMTOWN Live World Tour III 방콕공연(SCG스타디움)
+      - [2013년](../Page/2013년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") SMTOWN Live World Tour III Special Edition 상해공연(베이징 국가체육장)
+      - [2013년](../Page/2013년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") \~ [10월 27일](../Page/10월_27일.md "wikilink") SMTOWN Live World Tour III Special Edition 도쿄공연(도쿄돔)
   - SMTOWN WEEK
-      - [2013년12월21일](https://ko.wikipedia.org/wiki/2013년12월21일 "wikilink") SMTOWN WEEK-The Wizard(킨텍스 제 1전시장 5홀)
-      - [2013년12월22일](https://ko.wikipedia.org/wiki/2013년12월22일 "wikilink") SMTOWN WEEK-Marchen Fantasy(킨텍스 제 1전시장 5홀)
-      - [2013년12월24일\~25일](https://ko.wikipedia.org/wiki/2013년12월24일~25일 "wikilink") SMTOWN WEEK-Christmas Wonderland(킨텍스 제 1전시장 5홀)
-      - [2013년12월26일\~27일](https://ko.wikipedia.org/wiki/2013년12월26일~27일 "wikilink") SMTOWN WEEK-Time Slip(킨텍스 제 1전시장 5홀)
-      - [2013년12월28일\~29일](https://ko.wikipedia.org/wiki/2013년12월28일~29일 "wikilink") SMTOWN WEEK-Treasure Island(킨텍스 제 1전시장 5홀)
+      - [2013년](../Page/2013년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") SMTOWN WEEK-The Wizard(킨텍스 제 1전시장 5홀)
+      - [2013년](../Page/2013년.md "wikilink") [12월 22일](../Page/12월_22일.md "wikilink") SMTOWN WEEK-Marchen Fantasy(킨텍스 제 1전시장 5홀)
+      - [2013년](../Page/2013년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") \~ [12월 25일](../Page/12월_25일.md "wikilink") SMTOWN WEEK-Christmas Wonderland(킨텍스 제 1전시장 5홀)
+      - [2013년](../Page/2013년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [12월 27일](../Page/12월_27일.md "wikilink") SMTOWN WEEK-Time Slip(킨텍스 제 1전시장 5홀)
+      - [2013년](../Page/2013년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") \~ [12월 29일](../Page/12월_29일.md "wikilink") SMTOWN WEEK-Treasure Island(킨텍스 제 1전시장 5홀)
   - SMTOWN Live World Tour IV
-      - [2014년8월15일](https://ko.wikipedia.org/wiki/2014년8월15일 "wikilink") SMTOWN Live World Tour IV 서울공연(월드컵경기장)
-      - [2014년10월4일\~5일](https://ko.wikipedia.org/wiki/2014년10월4일~5일 "wikilink") SMTOWN Live World Tour IV 도쿄공연(도쿄 스타디움)
-      - [2014년10월18일](https://ko.wikipedia.org/wiki/2014년10월18일 "wikilink") SMTOWN Live World Tour IV 상해공연(상해체육장)
-      - [2015년3월21일](https://ko.wikipedia.org/wiki/2015년3월21일 "wikilink") SMTOWN Live World Tour IV 신죽공연(신주 카운티 스타디움)
-      - [2015년7월5일\~6일](https://ko.wikipedia.org/wiki/2015년7월5일~6일 "wikilink") SMTOWN Live World Tour IV Special Edition 도쿄공연(도쿄돔)
-      - [2015년7월5일\~6일](https://ko.wikipedia.org/wiki/2015년7월5일~6일 "wikilink") SMTOWN Live World Tour IV Special Edition 오사카공연(교세라돔)
+      - [2014년](../Page/2014년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") SMTOWN Live World Tour IV 서울공연(월드컵경기장)
+      - [2014년](../Page/2014년.md "wikilink") \[\[10월_4일_\~_\[\[10월_5일|10월 4일 \~ [10월 5일](../Page/10월_5일.md "wikilink") SMTOWN Live World Tour IV 도쿄공연(도쿄 스타디움)
+      - [2014년](../Page/2014년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") SMTOWN Live World Tour IV 상해공연(상해체육장)
+      - [2015년](../Page/2015년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") SMTOWN Live World Tour IV 신죽공연(신주 카운티 스타디움)
+      - [2015년](../Page/2015년.md "wikilink") [7월 5일](../Page/7월_5일.md "wikilink") \~ [7월 6일](../Page/7월_6일.md "wikilink") SMTOWN Live World Tour IV Special Edition 도쿄공연(도쿄돔)
+      - [2015년](../Page/2015년.md "wikilink") [7월 5일](../Page/7월_5일.md "wikilink") \~ [7월 6일](../Page/7월_6일.md "wikilink") SMTOWN Live World Tour IV Special Edition 오사카공연(교세라돔)
   - SMTOWN Live World Tour V IN JAPAN
-      - [2016년7월16일\~17일](https://ko.wikipedia.org/wiki/2016년7월16일~17일 "wikilink") SMTOWN Live World Tour V IN JAPAN 오사카공연(교세라돔)
-      - [2016년8월13일\~14일](https://ko.wikipedia.org/wiki/2016년8월13일~14일 "wikilink") SMTOWN Live World Tour V IN JAPAN 도쿄공연(도쿄돔)
+      - [2016년](../Page/2016년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ [7월 17일](../Page/7월_17일.md "wikilink") SMTOWN Live World Tour V IN JAPAN 오사카공연(교세라돔)
+      - [2016년](../Page/2016년.md "wikilink") [8월 13일](../Page/8월_13일.md "wikilink") \~ [8월 14일](../Page/8월_14일.md "wikilink") SMTOWN Live World Tour V IN JAPAN 도쿄공연(도쿄돔)
   - SMTOWN Live World Tour VI
-      - [2017년7월8일](https://ko.wikipedia.org/wiki/2017년7월8일 "wikilink") SMTOWN Live World Tour VI 서울공연(서울월드컵경기장)
-      - [2017년7월15일\~16일](https://ko.wikipedia.org/wiki/2017년7월15일~16일 "wikilink") SMTOWN Live World Tour VI 오사카공연(교세라돔)
-      - [2017년7월27일\~28일](https://ko.wikipedia.org/wiki/2017년7월27일~28일 "wikilink") SMTOWN Live World Tour VI 도쿄공연(도쿄돔)
-      - [2017년8월5일](https://ko.wikipedia.org/wiki/2017년8월5일 "wikilink") SMTOWN Special Stage In Hong Kong(홍콩 콜리세움)
-      - [2018년4월6일](https://ko.wikipedia.org/wiki/2018년4월6일 "wikilink") SMTOWN Live World Tour VI 두바이공연(오티즘 락스 아레나)
+      - [2017년](../Page/2017년.md "wikilink") [7월 8일](../Page/7월_8일.md "wikilink") SMTOWN Live World Tour VI 서울공연(서울월드컵경기장)
+      - [2017년](../Page/2017년.md "wikilink") [7월 15일](../Page/7월_15일.md "wikilink") \~ [7월 16일](../Page/7월_16일.md "wikilink") SMTOWN Live World Tour VI 오사카공연(교세라돔)
+      - [2017년](../Page/2017년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink") \~ [7월 28일](../Page/7월_28일.md "wikilink") SMTOWN Live World Tour VI 도쿄공연(도쿄돔)
+      - [2017년](../Page/2017년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") SMTOWN Special Stage In Hong Kong(홍콩 콜리세움)
+      - [2018년](../Page/2018년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") SMTOWN Live World Tour VI 두바이공연(오티즘 락스 아레나)
   - SMTOWN LIVE 2018 IN OSAKA
-      - [2018년7월28일\~30일](https://ko.wikipedia.org/wiki/2018년7월28일~30일 "wikilink") SMTOWN LIVE 2018 IN OSAKA(교세라돔)
+      - [2018년](../Page/2018년.md "wikilink") [7월 28일](../Page/7월_28일.md "wikilink") \~ [7월 30일](../Page/7월_30일.md "wikilink") SMTOWN LIVE 2018 IN OSAKA(교세라돔)
   - SMTOWN Special Stage In Santiago
-      - [2019년1월18일\~19일](https://ko.wikipedia.org/wiki/2019년1월18일~19일 "wikilink") SMTOWN Special Stage In Santiago(에스타디오 나시오날 데 칠레)
+      - [2019년](../Page/2019년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink") \~ [1월 19일](../Page/1월_19일.md "wikilink") SMTOWN Special Stage In Santiago(에스타디오 나시오날 데 칠레)
   - SMTOWN LIVE 2019 IN TOKYO
-      - [2019년8월3일\~5일](https://ko.wikipedia.org/wiki/2019년8월3일~5일 "wikilink") SMTOWN LIVE 2019 IN TOKYO(도쿄돔)
+      - [2019년](../Page/2019년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") \~ [8월 5일](../Page/8월_5일.md "wikilink") SMTOWN LIVE 2019 IN TOKYO(도쿄돔)
 
 ## 비판
 

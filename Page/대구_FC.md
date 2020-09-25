@@ -356,7 +356,7 @@
 
 #### FA컵
 
-  - **[FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")**
+  - **[FA컵](../Page/FA컵_\(대한민국\).md "wikilink")**
 
 <!-- end list -->
 
@@ -378,53 +378,94 @@
 
 ## 시즌 결과
 
-#### 리그
+### 리그
 
-| rowspan="2" style="color:\#FFFFFF; background:\#56c7ef|시즌       | colspan="10" style="color:\#FFFFFF; background:\#56c7ef|리그 | rowspan="2" style="color:\#FFFFFF; background:\#56c7ef|[<span style="color:#FFFFFF">FA컵</span>](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") | rowspan="2" style="color:\#FFFFFF; background:\#56c7ef|[<span style="color:#FFFFFF">ACL</span>](../Page/AFC_챔피언스리그.md "wikilink") |
-| --------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| scope="col" style="color:\#FFFFFF; background:\#56c7ef|등급\[23\] | scope="col" style="color:\#FFFFFF; background:\#56c7ef|경기  | width="20" style="color:\#FFFFFF; background:\#56c7ef|승                                                                                                | 무                                                                                                                                 |
-| 2003                                                            | [1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")         | 44                                                                                                                                                     | 7                                                                                                                                 |
-| 2004                                                            | 24                                                         | 7                                                                                                                                                      | 7                                                                                                                                 |
-| 2005                                                            | 24                                                         | 8                                                                                                                                                      | 6                                                                                                                                 |
-| 2006                                                            | 26                                                         | 8                                                                                                                                                      | 10                                                                                                                                |
-| 2007                                                            | 26                                                         | 6                                                                                                                                                      | 6                                                                                                                                 |
-| 2008                                                            | 26                                                         | 8                                                                                                                                                      | 2                                                                                                                                 |
-| 2009                                                            | 28                                                         | 5                                                                                                                                                      | 8                                                                                                                                 |
-| 2010                                                            | 28                                                         | 5                                                                                                                                                      | 4                                                                                                                                 |
-| 2011                                                            | 30                                                         | 8                                                                                                                                                      | 9                                                                                                                                 |
-| 2012                                                            | 44                                                         | 16                                                                                                                                                     | 13                                                                                                                                |
-| 2013                                                            | 38                                                         | 6                                                                                                                                                      | 14                                                                                                                                |
-| 2014                                                            | [2](../Page/K리그2.md "wikilink")                            | 36                                                                                                                                                     | 13                                                                                                                                |
-| 2015                                                            | 40                                                         | 18                                                                                                                                                     | 13                                                                                                                                |
-| 2016                                                            | 40                                                         | 19                                                                                                                                                     | 13                                                                                                                                |
-| 2017                                                            | [1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")         | 38                                                                                                                                                     | 11                                                                                                                                |
-| 2018                                                            | 38                                                         | 14                                                                                                                                                     | 8                                                                                                                                 |
-| 2019                                                            | 38                                                         | 13                                                                                                                                                     | 16                                                                                                                                |
-| 2020                                                            | 12                                                         | 5                                                                                                                                                      | 4                                                                                                                                 |
+| rowspan="2" style="color:\#FFFFFF; background:\#56c7ef|시즌       | colspan="10" style="color:\#FFFFFF; background:\#56c7ef|리그 | rowspan="2" style="color:\#FFFFFF; background:\#56c7ef|[<span style="color:#FFFFFF">FA컵</span>](../Page/FA컵_\(대한민국\).md "wikilink") | rowspan="2" style="color:\#FFFFFF; background:\#56c7ef|[<span style="color:#FFFFFF">ACL</span>](../Page/AFC_챔피언스리그.md "wikilink") |
+| --------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| scope="col" style="color:\#FFFFFF; background:\#56c7ef|등급\[23\] | scope="col" style="color:\#FFFFFF; background:\#56c7ef|경기  | width="20" style="color:\#FFFFFF; background:\#56c7ef|승                                                                             | 무                                                                                                                                 |
+| 2003                                                            | [1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")         | 44                                                                                                                                  | 7                                                                                                                                 |
+| 2004                                                            | 24                                                         | 7                                                                                                                                   | 7                                                                                                                                 |
+| 2005                                                            | 24                                                         | 8                                                                                                                                   | 6                                                                                                                                 |
+| 2006                                                            | 26                                                         | 8                                                                                                                                   | 10                                                                                                                                |
+| 2007                                                            | 26                                                         | 6                                                                                                                                   | 6                                                                                                                                 |
+| 2008                                                            | 26                                                         | 8                                                                                                                                   | 2                                                                                                                                 |
+| 2009                                                            | 28                                                         | 5                                                                                                                                   | 8                                                                                                                                 |
+| 2010                                                            | 28                                                         | 5                                                                                                                                   | 4                                                                                                                                 |
+| 2011                                                            | 30                                                         | 8                                                                                                                                   | 9                                                                                                                                 |
+| 2012                                                            | 44                                                         | 16                                                                                                                                  | 13                                                                                                                                |
+| 2013                                                            | 38                                                         | 6                                                                                                                                   | 14                                                                                                                                |
+| 2014                                                            | [2](../Page/K리그2.md "wikilink")                            | 36                                                                                                                                  | 13                                                                                                                                |
+| 2015                                                            | 40                                                         | 18                                                                                                                                  | 13                                                                                                                                |
+| 2016                                                            | 40                                                         | 19                                                                                                                                  | 13                                                                                                                                |
+| 2017                                                            | [1](https://ko.wikipedia.org/wiki/K리그1 "wikilink")         | 38                                                                                                                                  | 11                                                                                                                                |
+| 2018                                                            | 38                                                         | 14                                                                                                                                  | 8                                                                                                                                 |
+| 2019                                                            | 38                                                         | 13                                                                                                                                  | 16                                                                                                                                |
+| 2020                                                            | 12                                                         | 5                                                                                                                                   | 4                                                                                                                                 |
 
-#### FA컵
+### 컵대회
 
-| 시즌                                                        | [리그컵](../Page/리그컵_\(대한민국\).md "wikilink")     | [FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink") |
-| --------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------ |
-| style="color:\#080B54; background:\#56c7ef|팀수             | style="color:\#080B54; background:\#56c7ef|순위 | style="color:\#080B54; background:\#56c7ef|                  |
-| [2003](../Page/FA컵_2003.md "wikilink")                    | –                                             | 8강전                                                          |
-| [2004](../Page/리그컵_2004.md "wikilink")                    | 12                                            | 9위                                                           |
-| [2005](../Page/리그컵_2005.md "wikilink")                    | 13                                            | 7위                                                           |
-| [2006](../Page/리그컵_2006.md "wikilink")                    | 13                                            | 13위                                                          |
-| [2007](../Page/리그컵_2007.md "wikilink")                    | 6                                             | 3위                                                           |
-| [2008](../Page/리그컵_2008.md "wikilink")                    | 6                                             | 5위                                                           |
-| [2009](../Page/리그컵_2009.md "wikilink")                    | 6                                             | 3위                                                           |
-| [2010](../Page/리그컵_2010.md "wikilink")                    | 5                                             | 2위                                                           |
-| [2011](../Page/리그컵_2011.md "wikilink")                    | 6                                             | 5위                                                           |
-| [2012](../Page/FA컵_2012.md "wikilink")                    | –                                             | 16강전                                                         |
-| [2013](../Page/FA컵_2013.md "wikilink")                    | –                                             | 32강전                                                         |
-| [2014](../Page/FA컵_2014.md "wikilink")                    | –                                             | 32강전                                                         |
-| [2015](../Page/FA컵_2015.md "wikilink")                    | –                                             | 32강전                                                         |
-| [2016](../Page/FA컵_2016.md "wikilink")                    | –                                             | 32강전                                                         |
-| [2017](../Page/FA컵_2017.md "wikilink")                    | –                                             | 32강전                                                         |
-| [2018](../Page/FA컵_2018.md "wikilink")                    | –                                             | 우승                                                           |
-| [2019](../Page/FA컵_2019.md "wikilink")                    | –                                             | 16강전                                                         |
-| [2020](https://ko.wikipedia.org/wiki/FA컵_2020 "wikilink") | –                                             | 16강전                                                         |
+| 시즌                                                        | [리그컵](../Page/리그컵_\(대한민국\).md "wikilink")     | [FA컵](../Page/FA컵_\(대한민국\).md "wikilink")   |
+| --------------------------------------------------------- | --------------------------------------------- | ------------------------------------------- |
+| style="color:\#080B54; background:\#56c7ef|팀수             | style="color:\#080B54; background:\#56c7ef|순위 | style="color:\#080B54; background:\#56c7ef| |
+| [2003](../Page/FA컵_2003.md "wikilink")                    | –                                             | 8강전                                         |
+| [2004](../Page/리그컵_2004.md "wikilink")                    | 12                                            | 9위                                          |
+| [2005](../Page/리그컵_2005.md "wikilink")                    | 13                                            | 7위                                          |
+| [2006](../Page/리그컵_2006.md "wikilink")                    | 13                                            | 13위                                         |
+| [2007](../Page/리그컵_2007.md "wikilink")                    | 6                                             | 3위                                          |
+| [2008](../Page/리그컵_2008.md "wikilink")                    | 6                                             | 5위                                          |
+| [2009](../Page/리그컵_2009.md "wikilink")                    | 6                                             | 3위                                          |
+| [2010](../Page/리그컵_2010.md "wikilink")                    | 5                                             | 2위                                          |
+| [2011](../Page/리그컵_2011.md "wikilink")                    | 6                                             | 5위                                          |
+| [2012](../Page/FA컵_2012.md "wikilink")                    | 대회 폐지                                         | 16강전                                        |
+| [2013](../Page/FA컵_2013.md "wikilink")                    | |32강전                                         |                                             |
+| [2014](../Page/FA컵_2014.md "wikilink")                    | 32강전                                          |                                             |
+| [2015](../Page/FA컵_2015.md "wikilink")                    | 32강전                                          |                                             |
+| [2016](../Page/FA컵_2016.md "wikilink")                    | 32강전                                          |                                             |
+| [2017](../Page/FA컵_2017.md "wikilink")                    | 32강전                                          |                                             |
+| [2018](../Page/FA컵_2018.md "wikilink")                    | 우승                                            |                                             |
+| [2019](../Page/FA컵_2019.md "wikilink")                    | 16강전                                          |                                             |
+| [2020](https://ko.wikipedia.org/wiki/FA컵_2020 "wikilink") | 16강전                                          |                                             |
+
+### AFC 챔피언스리그
+
+<table>
+<thead>
+<tr class="header">
+<th><p>시즌</p></th>
+<th><p>라운드</p></th>
+<th><p>상대</p></th>
+<th><p>홈</p></th>
+<th><p>원정</p></th>
+<th><p>합계</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2019년_AFC_챔피언스리그" title="wikilink">2019</a></p></td>
+<td><p>조별리그</p></td>
+<td><p><a href="../Page/멜버른_빅토리_FC.md" title="wikilink">멜버른 빅토리</a></p></td>
+<td><p>4–0</p></td>
+<td><p>3–1</p></td>
+<td><p>3위</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/광저우_헝다_타오바오.md" title="wikilink">광저우 헝다</a></p></td>
+<td><p>3–1</p></td>
+<td><p>0–1</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/산프레체_히로시마.md" title="wikilink">산프레체 히로시마</a></p></td>
+<td><p>0–1</p></td>
+<td><p>0–2</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 스폰서
 

@@ -78,12 +78,16 @@ AUG를 사용하는 병사들의 평가는 좋은 편이다. AUG는 [영국 SAS]
 ## 대중 문화
 
   - 게임 [오퍼레이션7](../Page/오퍼레이션7.md "wikilink")에서 등장한다. 개조 부속품이 꽤 적은 편인게 단점.
-  - 게임 [배틀그라운드](https://ko.wikipedia.org/wiki/배틀그라운드 "wikilink")에도 등장한다. 좋은 총기에 속하며 에어드랍(보급)총이다.
+  - [배틀그라운드와](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") [배틀그라운드 모바일에서](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink") [5.56mm탄을](../Page/5.56_×_45_mm_NATO.md "wikilink") 사용하는 [총](../Page/총.md "wikilink") AUG로 등장한다
+
+그리고aug로표기되고 ,슈타이어 AUG A3이다
+
   - 게임 [레인보우 식스 시즈에도](https://ko.wikipedia.org/wiki/레인보우_식스_시즈 "wikilink") 등장한다. 독일 GSG 9에 오퍼레이터 IQ와 모로코 GIGR에 오퍼레이터 KAID가 사용하는 총이다.
   - 게임 [스페셜솔져](https://ko.wikipedia.org/wiki/스페셜솔져 "wikilink")에서 등장한다. 인기있는 총기이며, 게임안에서는 AUG A3로 등록되어 있다.
-  - 게임 Bullet Force에서 등장한다. 아쉬운 발속과 낮은 데미지가 단점이었지만 현재는 발속과 데미지 상향으로 매우 쓸만해진 총이다.
-  - 로블록스의 phantom fores라는 슈팅게임에 등장한다. 낮은 랭크에 잠금 해제 되면서도 높은 데미지와 연사력으로 인해 좋은 총으로 평가받는다.
+  - 게임 [Bullet Force에서](https://ko.wikipedia.org/wiki/Bullet_Force "wikilink") 등장한다. 아쉬운 발속과 낮은 데미지가 단점이었지만 현재는 발속과 데미지 상향으로 매우 쓸만해진 총이다.
+  - [로블록스](../Page/로블록스.md "wikilink")의 phantom fores라는 슈팅게임에 등장한다. 낮은 랭크에 잠금 해제 되면서도 높은 데미지와 연사력으로 인해 좋은 총으로 평가받는다.
   - 게임 [배틀필드 3](../Page/배틀필드_3.md "wikilink"), [배틀필드 4](../Page/배틀필드_4.md "wikilink"), [배틀필드: 하드라인에](../Page/배틀필드:_하드라인.md "wikilink") 등장한다 세 게임 모두 A3모델이 나오며 700RPM대의 적당한 연사속도, 적은반동으로 중거리에 특화된 모습을 보인다.
+  - [콜 오브 듀티에서](../Page/콜_오브_듀티.md "wikilink") AUG가 나오는데 A3모델로 추정된다.
 
 ## 같이 보기
 
@@ -95,13 +99,13 @@ AUG를 사용하는 병사들의 평가는 좋은 편이다. AUG는 [영국 SAS]
 
   - [Overview of AUG rifles at Stery-Mannlicher.com (official site)](https://web.archive.org/web/20060630181419/http://www.steyr-mannlicher.com/index.php?id=654)
   - <https://web.archive.org/web/20080915231528/http://www.steyraug.net/>
-  - [Steyr-AUG](http://www.steyr-aug.com/)
+  - [Steyr-AUG](https://web.archive.org/web/20060721210749/http://www.steyr-aug.com/)
   - [Buddy Hinton Collection / AUG](http://www.sturmgewehr.com/bhinton/AUG/)
   - [Modern Firearms article on the AUG](http://world.guns.ru/assault/as20-e.htm)
   - [5.56mm F88 Austeyr Rifle](https://web.archive.org/web/20070618165304/http://www.adi-limited.com/2-01-010-010-026.html)
-  - [Steyr-AUG in use of the Austrian Army](http://www.bmlv.gv.at/download_archiv/photos/infanterie/galerie_uebersicht.php) **Photos** (Austrian Site)
+  - [Steyr-AUG in use of the Austrian Army](https://web.archive.org/web/20060927172822/http://www.bmlv.gv.at/download_archiv/photos/infanterie/galerie_uebersicht.php) **Photos** (Austrian Site)
   - [Photos of the Irish Army Reserve](https://web.archive.org/web/20070704094507/http://www.62infantry.com/Photos.shtml) **Photos**
-  - [Remtek article on Steyr HBar-T](http://remtek.com/arms/steyr/aug/aug24/special/hbart.htm)
+  - [Remtek article on Steyr HBar-T](https://web.archive.org/web/20060427164654/http://www.remtek.com/arms/steyr/aug/aug24/special/hbart.htm)
   - [Nazarian\`s Gun Recognition Guide](http://www.nazarian.no/wep.asp?id=182&group_id=5&country_id=71&lang=0)
   - [Photos of a black AUG HBAR](https://web.archive.org/web/20041205135811/http://www.fjvollmer.com/July8/steyr__aug_black_hbar____98.htm)
   - [Unofficial information on the Steyr in Irish service.](https://web.archive.org/web/20151017162913/http://www.62infantry.com/Weapons_Equipment/Steyr_AUG.shtml)

@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - **[요한 크라위프 스할](https://ko.wikipedia.org/wiki/요한_크라위프_스할 "wikilink") : 11회**
+  - **[요한 크라위프 스할](../Page/요한_크라위프_스할.md "wikilink") : 11회**
       - [1992](https://ko.wikipedia.org/wiki/네덜란드_슈퍼컵_1992 "wikilink"), [1996](https://ko.wikipedia.org/wiki/요한_크라위프_스할_1996 "wikilink"), [1997](https://ko.wikipedia.org/wiki/요한_크라위프_스할_1997 "wikilink"), [1998](https://ko.wikipedia.org/wiki/요한_크라위프_스할_1998 "wikilink"), [2000](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2000 "wikilink"), [2001](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2001 "wikilink"), [2003](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2003 "wikilink"), [2008](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2008 "wikilink"), [2012](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2012 "wikilink"), [2015](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2015 "wikilink"), [2016](https://ko.wikipedia.org/wiki/요한_크라위프_스할_2016 "wikilink")
 
 ### 국제 대회

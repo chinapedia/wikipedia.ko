@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [CNN](https://ko.wikipedia.org/wiki/CNN).
 
 
-**유선 보도 방송망**(有線報道放送網, , 약칭 **CNN**)는 유선 방송망 등을 통해 [뉴스](../Page/뉴스.md "wikilink") 프로그램을 24시간 동안 보도하는 [미국](../Page/미국.md "wikilink")의 생방송 뉴스 전문 텔레비전 방송사이다. 직원 수는 약 4000여 명이며, 주요 경쟁사는 [폭스 뉴스 채널](../Page/폭스_뉴스_채널.md "wikilink")(Fox News Channel)과 [MSNBC](../Page/MSNBC.md "wikilink")가 있다.
+CNN(Cable News Network)은 유선 방송망 등을 통해 [뉴스](../Page/뉴스.md "wikilink") 프로그램을 24시간 동안 보도하는 [미국](../Page/미국.md "wikilink")의 생방송 뉴스 전문 텔레비전 방송사이다. 직원 수는 약 4000여 명이며, 주요 경쟁사는 [폭스 뉴스 채널](../Page/폭스_뉴스_채널.md "wikilink")(Fox News Channel)과 [MSNBC](../Page/MSNBC.md "wikilink")가 있다.
 
 ## 역사
 

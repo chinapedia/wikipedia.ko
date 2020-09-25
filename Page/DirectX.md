@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DirectX](https://ko.wikipedia.org/wiki/DirectX).
 
 
-**Microsoft DirectX**()는 [멀티미디어](../Page/멀티미디어.md "wikilink"), 특히 [게임](../Page/게임.md "wikilink") [프로그래밍](https://ko.wikipedia.org/wiki/프로그래밍 "wikilink")에서 [마이크로소프트](../Page/마이크로소프트.md "wikilink") [플랫폼에서](../Page/컴퓨팅_플랫폼.md "wikilink") 작업을 위한 [API](../Page/API.md "wikilink")의 집합이다. 다이렉트엑스는 마이크로소프트 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [세가](https://ko.wikipedia.org/wiki/세가 "wikilink"), [드림캐스트](../Page/드림캐스트.md "wikilink"), 마이크로소프트 [엑스박스](../Page/엑스박스.md "wikilink") 및 [엑스박스 360을](../Page/엑스박스_360.md "wikilink") 위한 [비디오 게임](../Page/비디오_게임.md "wikilink") 개발에 널리 쓰인다.
+**Microsoft DirectX**()는 [멀티미디어](../Page/멀티미디어.md "wikilink"), 특히 [게임](../Page/게임.md "wikilink") [프로그래밍](https://ko.wikipedia.org/wiki/프로그래밍 "wikilink")에서 [마이크로소프트](../Page/마이크로소프트.md "wikilink") [플랫폼에서](../Page/컴퓨팅_플랫폼.md "wikilink") 작업을 위한 [API](../Page/API.md "wikilink")의 집합이다. 다이렉트엑스는 마이크로소프트 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [세가](../Page/세가.md "wikilink"), [드림캐스트](../Page/드림캐스트.md "wikilink"), 마이크로소프트 [엑스박스](../Page/엑스박스.md "wikilink") 및 [엑스박스 360을](../Page/엑스박스_360.md "wikilink") 위한 [비디오 게임](../Page/비디오_게임.md "wikilink") 개발에 널리 쓰인다.
 
 다이렉트엑스는 또한 게임뿐 아니라 최근에 나온 3차원 [그래픽 하드웨어를](../Page/그래픽_처리_장치.md "wikilink") 사용하여 높은 품질의 3차원 그래픽을 빠르게 렌더링할 수 있기 때문에 [소프트웨어](../Page/소프트웨어.md "wikilink") 업계 전반에서 사용되기도 한다.
 

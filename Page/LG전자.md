@@ -73,7 +73,7 @@
 
 ## 같이 보기
 
-  - [LG전자 베스트샵](https://ko.wikipedia.org/wiki/LG전자_베스트샵 "wikilink")
+  - [금성사](../Page/금성사.md "wikilink")
   - [LG전자서비스](https://ko.wikipedia.org/wiki/LG전자서비스 "wikilink")
   - [LG 페이](https://ko.wikipedia.org/wiki/LG_페이 "wikilink")
   - [LG그룹](../Page/LG그룹.md "wikilink")

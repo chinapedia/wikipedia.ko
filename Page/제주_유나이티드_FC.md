@@ -440,7 +440,7 @@
 
 #### 컵
 
-  - **[FA컵](https://ko.wikipedia.org/wiki/FA컵_\(대한민국\) "wikilink")**
+  - **[FA컵](../Page/FA컵_\(대한민국\).md "wikilink")**
 
 <!-- end list -->
 

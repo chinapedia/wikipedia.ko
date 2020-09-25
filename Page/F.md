@@ -11,6 +11,12 @@
   - [웨일스어](../Page/웨일스어.md "wikilink"): 에브 \[ev\]
   - [에스페란토](../Page/에스페란토.md "wikilink"): 포 \[fo\]
 
+## 발음
+
+  - [무성 순치 마찰음](https://ko.wikipedia.org/wiki/무성_순치_마찰음 "wikilink")(/f/): [영어](../Page/영어.md "wikilink")(of의 f는 제외), [프랑스어](../Page/프랑스어.md "wikilink")(어말에서 묵음이 될 때는 제외), [스페인어](../Page/스페인어.md "wikilink")
+  - [유성 순치 마찰음](https://ko.wikipedia.org/wiki/유성_순치_마찰음 "wikilink")(/v/): [웨일스어](../Page/웨일스어.md "wikilink")(/f/발음을 표기하기 위해 ff가 쓰임)
+  - [무성 양순 마찰음](https://ko.wikipedia.org/wiki/무성_양순_마찰음 "wikilink")(/ɸ/): [투르크멘어](../Page/투르크멘어.md "wikilink")
+
 ## 쓰임
 
   - f는 [국제음성기호](https://ko.wikipedia.org/wiki/국제음성기호 "wikilink")에서 [무성 순치 마찰음을](https://ko.wikipedia.org/wiki/무성_순치_마찰음 "wikilink") 나타낸다.

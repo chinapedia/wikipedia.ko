@@ -3,7 +3,7 @@
 
 **셀틱 FC**(Celtic Football Club)는 [스코틀랜드](../Page/스코틀랜드.md "wikilink") [글래스고](../Page/글래스고.md "wikilink")에 기반한 [축구](../Page/축구.md "wikilink") 클럽이다. [1887년](../Page/1887년.md "wikilink")에 창단한 축구 클럽으로 세계에서 가장 오래된 축구 클럽 중 하나이다.
 
-[스코틀랜드 프로축구 1부리그를](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 총 48회, [스코티시 컵](https://ko.wikipedia.org/wiki/스코티시_컵 "wikilink") 37회, [스코틀랜드 리그컵](https://ko.wikipedia.org/wiki/스코틀랜드_리그컵 "wikilink") 16회를 우승한 명문 클럽이다.
+[스코틀랜드 프로축구 1부리그를](https://ko.wikipedia.org/wiki/스코틀랜드_프리미어리그 "wikilink") 총 51회, [스코티시 컵](https://ko.wikipedia.org/wiki/스코티시_컵 "wikilink") 37회, [스코틀랜드 리그컵](https://ko.wikipedia.org/wiki/스코틀랜드_리그컵 "wikilink") 16회를 우승한 명문 클럽이다.
 
 같은 [글래스고](../Page/글래스고.md "wikilink")에 위치한 [레인저스 FC와는](../Page/레인저스_FC.md "wikilink") 숙명의 라이벌 관계이다. 홈 구장은 [셀틱 파크이며](../Page/셀틱_파크.md "wikilink") 총 수용인원 60,837명의 전좌석제 스타디움이다.
 

@@ -7,7 +7,7 @@
 
 ### 특징
 
-민영 방송국의 전국 네트워크의 중심국이라고 볼 수 있으나, 공식상으로는 서울과 경기도, 인천 등 수도권을 방송권역으로 하는 [지역민영방송이다](https://ko.wikipedia.org/wiki/#지역별_민영_방송_네트워크 "wikilink"). 그 외의 지역 민방국과의 직접적인 자본 관계는 전혀 없으며 단지 프로그램 공급 계약을 맺었을 뿐이다. 다만 SBS 대주주 태영건설은 [KNN](../Page/KNN.md "wikilink") 주식의 10.9%, [G1](../Page/G1.md "wikilink") 주식의 4.9%를 보유, SBS 제2주주인 가스 기기 제조사 [귀뚜라미는](https://ko.wikipedia.org/wiki/주식회사_귀뚜라미 "wikilink") [TBC](https://ko.wikipedia.org/wiki/TBC_\(대구방송\) "wikilink") 주식의 24.2%(계열의 [귀뚜라미정밀공업](https://ko.wikipedia.org/wiki/귀뚜라미정밀공업 "wikilink"), [귀뚜라미보일러](https://ko.wikipedia.org/wiki/귀뚜라미보일러 "wikilink") 몫 합계)를 보유하는 대주주이다.
+민영 방송국의 전국 네트워크의 중심국이라고 볼 수 있으나, 공식상으로는 서울과 경기도, 인천 등 수도권을 방송권역으로 하는 [지역민영방송이다](https://ko.wikipedia.org/wiki/#지역별_민영방송_네트워크 "wikilink"). 그 외의 지역 민방국과의 직접적인 자본 관계는 전혀 없으며 단지 프로그램 공급 계약을 맺었을 뿐이다. 다만 SBS 대주주 TY홀딩스는 [KNN](../Page/KNN.md "wikilink") 주식의 10.9%, [G1](../Page/G1.md "wikilink") 주식의 4.9%를 보유, SBS 제2주주인 가스 기기 제조사 [귀뚜라미는](https://ko.wikipedia.org/wiki/주식회사_귀뚜라미 "wikilink") [TBC](https://ko.wikipedia.org/wiki/TBC_\(대구방송\) "wikilink") 주식의 24.2%(계열의 [귀뚜라미정밀공업](https://ko.wikipedia.org/wiki/귀뚜라미정밀공업 "wikilink"), [귀뚜라미보일러](https://ko.wikipedia.org/wiki/귀뚜라미보일러 "wikilink") 몫 합계)를 보유하는 대주주이다.
 
 제작사옥은 [서울특별시](../Page/서울특별시.md "wikilink") [양천구](../Page/양천구.md "wikilink") 목동서로 161([목동](../Page/목동_\(서울\).md "wikilink"))에 [본사](../Page/SBS_방송_센터.md "wikilink"), [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink") [일산서구](../Page/일산서구.md "wikilink") 일현로 111([탄현동](../Page/탄현동.md "wikilink"))에 제작센터, [서울특별시](../Page/서울특별시.md "wikilink") [강서구](https://ko.wikipedia.org/wiki/강서구_\(서울특별시\) "wikilink") 양천로 442([등촌3동](../Page/등촌동.md "wikilink"))에 공개홀, [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") ([상암동](https://ko.wikipedia.org/wiki/상암동 "wikilink")) 82에 [SBS프리즘타워](../Page/SBS프리즘타워.md "wikilink")를 가지고 있다. 목동 방송센터에서는 주로 보도/시사프로그램이 제작되며, 국내방송사옥 중 최대규모의 사옥으로 주로 사무용 건물로 사용된다. 일산제작센터에서는 드라마, 예능프로그램이 주로 제작되며, 등촌동 공개홀에서는 음악 및 예능 방청프로그램과 다양한 예능프로그램이 제작되고 있다. [SBS프리즘타워](../Page/SBS프리즘타워.md "wikilink")에는 예능프로그램이 제작되며, [SBS 미디어넷이](../Page/SBS_미디어넷.md "wikilink") 입주해 있다.
 
@@ -21,7 +21,7 @@
 
 ### 영업 현황
 
-주요 수익원인 광고매출액이 5,282억원으로 전년 대비 5.7% 감소하여 2006년(5.7% 증가)과 대조를 보였다.\[2\]
+주요 수익원인 광고매출액이 5,282억 원으로 전년 대비 5.7% 감소하여 2006년(5.7% 증가)과 대조를 보였다.\[2\]
 
 ### 사옥
 
@@ -29,9 +29,9 @@
 
   - **일산제작센터** : [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [고양시](https://ko.wikipedia.org/wiki/고양시 "wikilink") [일산서구](../Page/일산서구.md "wikilink") 일현로 111
 
-  - **등촌동SBS공개홀** : [서울특별시](../Page/서울특별시.md "wikilink") [강서구](https://ko.wikipedia.org/wiki/강서구_\(서울특별시\) "wikilink") 양천로 442
+  - **등촌동SBS공개홀** : 서울특별시 [강서구](https://ko.wikipedia.org/wiki/강서구_\(서울특별시\) "wikilink") 양천로 442
 
-  - **SBS프리즘타워** : [서울특별시](../Page/서울특별시.md "wikilink") [마포구](../Page/마포구.md "wikilink") [상암동](https://ko.wikipedia.org/wiki/상암동 "wikilink") 상암산로42
+  - **SBS프리즘타워** : 서울특별시 [마포구](../Page/마포구.md "wikilink") 상암산로42
 
 ## 직무 유형
 
@@ -155,6 +155,7 @@
   - [1992년](../Page/1992년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") - SBS 부산지국, 대구지국, 광주지국, 대전지국 개소
   - [1992년](../Page/1992년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") - [일산스튜디오](../Page/일산신도시.md "wikilink") 준공
   - [1992년](../Page/1992년.md "wikilink") [12월 10일](../Page/12월_10일.md "wikilink") - 일본 [니혼테레비](https://ko.wikipedia.org/wiki/니혼TV_방송망 "wikilink") 업무협정 제휴
+  - [1992년](../Page/1992년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") - SBS 도쿄지국 개소
   - [1993년](../Page/1993년.md "wikilink") - 문화재단 설립. [관악산](../Page/관악산.md "wikilink"), [용문산](../Page/용문산_\(경기\).md "wikilink") [텔레비전](../Page/텔레비전.md "wikilink") 중계소 개소
   - [1993년](../Page/1993년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") - [고양](https://ko.wikipedia.org/wiki/고양 "wikilink")송신소 [라디오](../Page/라디오.md "wikilink") [방송](../Page/방송.md "wikilink") 개시
   - [1993년](../Page/1993년.md "wikilink") [12월 9일](../Page/12월_9일.md "wikilink") - [등촌동](../Page/등촌동.md "wikilink") 공개홀 준공
@@ -208,73 +209,23 @@
 
 ### 2020년대
 
-  - [2020년](../Page/2020년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") - SBS 창사 30주년
-  - [2020년](../Page/2020년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") - [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 체결
+  - [2020년](../Page/2020년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") - SBS 창사 30주년
+  - [2020년](../Page/2020년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") - 태영건설에 매각
+  - [2021년](../Page/2021년.md "wikilink") [12월](../Page/12월.md "wikilink") - 김석재 사장 취임.
 
 ## 역대 사장
 
-<table>
-<thead>
-<tr class="header">
-<th><p>역대<br />
-(대수)</p></th>
-<th><p>이름</p></th>
-<th><p>임기</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1대</p></td>
-<td><p><a href="../Page/윤세영.md" title="wikilink">윤세영</a></p></td>
-<td><p><a href="../Page/1990년.md" title="wikilink">1990년</a> <a href="../Page/11월_14일.md" title="wikilink">11월 14일</a> ~ 1994년 <a href="../Page/3월_8일.md" title="wikilink">3월 8일</a></p></td>
-</tr>
-<tr class="even">
-<td><p>2대</p></td>
-<td><p>윤혁기</p></td>
-<td><p><a href="../Page/1994년.md" title="wikilink">1994년</a> <a href="../Page/3월_9일.md" title="wikilink">3월 9일</a> ~ 1999년 <a href="../Page/3월_8일.md" title="wikilink">3월 8일</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>3대</p></td>
-<td><p><a href="../Page/송도균.md" title="wikilink">송도균</a></p></td>
-<td><p><a href="../Page/1999년.md" title="wikilink">1999년</a> <a href="../Page/3월_9일.md" title="wikilink">3월 9일</a> ~ 2005년 <a href="../Page/4월_7일.md" title="wikilink">4월 7일</a></p></td>
-</tr>
-<tr class="even">
-<td><p>4대</p></td>
-<td><p><a href="../Page/안국정.md" title="wikilink">안국정</a></p></td>
-<td><p><a href="../Page/2005년.md" title="wikilink">2005년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ 2007년 <a href="../Page/3월_11일.md" title="wikilink">3월 11일</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>5대</p></td>
-<td><p><a href="../Page/하금열.md" title="wikilink">하금열</a></p></td>
-<td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/3월_12일.md" title="wikilink">3월 12일</a> ~ <a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/12월_31일.md" title="wikilink">12월 31일</a></p></td>
-</tr>
-<tr class="even">
-<td><p>6대</p></td>
-<td><p><a href="../Page/우원길.md" title="wikilink">우원길</a></p></td>
-<td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ 2013년 <a href="../Page/12월_1일.md" title="wikilink">12월 1일</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>7대</p></td>
-<td><p><a href="../Page/이웅모.md" title="wikilink">이웅모</a></p></td>
-<td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/12월_2일.md" title="wikilink">12월 2일</a> ~ 2015년 <a href="../Page/12월_3일.md" title="wikilink">12월 3일</a></p></td>
-</tr>
-<tr class="even">
-<td><p>8대</p></td>
-<td><p><a href="../Page/김진원_(1950년).md" title="wikilink">김진원</a></p></td>
-<td><p><a href="../Page/2015년.md" title="wikilink">2015년</a> <a href="../Page/12월_4일.md" title="wikilink">12월 4일</a> ~ 2016년 <a href="../Page/12월_7일.md" title="wikilink">12월 7일</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>9대</p></td>
-<td><p><a href="../Page/박정훈_(1961년).md" title="wikilink">박정훈</a></p></td>
-<td><p><a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/12월_8일.md" title="wikilink">12월 8일</a> ~ <strong>현재</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 대수 | 이름                                         | 임기                                                                                                                                                           |
+| -- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1대 | [윤세영](../Page/윤세영.md "wikilink")           | [1990년](../Page/1990년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ 1994년 [3월 8일](../Page/3월_8일.md "wikilink")                                  |
+| 2대 | 윤혁기                                        | [1994년](../Page/1994년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") \~ 1999년 [3월 8일](../Page/3월_8일.md "wikilink")                                      |
+| 3대 | [송도균](../Page/송도균.md "wikilink")           | [1999년](../Page/1999년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") \~ 2005년 [4월 7일](../Page/4월_7일.md "wikilink")                                      |
+| 4대 | [안국정](../Page/안국정.md "wikilink")           | [2005년](../Page/2005년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") \~ 2007년 [3월 11일](../Page/3월_11일.md "wikilink")                                    |
+| 5대 | [하금열](../Page/하금열.md "wikilink")           | [2007년](../Page/2007년.md "wikilink") [3월 12일](../Page/3월_12일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") |
+| 6대 | [우원길](../Page/우원길.md "wikilink")           | [2010년](../Page/2010년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ 2013년 [12월 1일](../Page/12월_1일.md "wikilink")                                    |
+| 7대 | [이웅모](../Page/이웅모.md "wikilink")           | [2013년](../Page/2013년.md "wikilink") [12월 2일](../Page/12월_2일.md "wikilink") \~ 2015년 [12월 3일](../Page/12월_3일.md "wikilink")                                  |
+| 8대 | [김진원](../Page/김진원_\(1950년\).md "wikilink") | [2015년](../Page/2015년.md "wikilink") [12월 4일](../Page/12월_4일.md "wikilink") \~ 2016년 [12월 7일](../Page/12월_7일.md "wikilink")                                  |
+| 9대 | [박정훈](../Page/박정훈_\(1961년\).md "wikilink") | [2016년](../Page/2016년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") \~ **현재**                                                                        |
 
 ## 방송
 
@@ -460,7 +411,7 @@
   - [1991년](../Page/1991년.md "wikilink")(1기) 입사 : [최영주](../Page/최영주_\(1969년\).md "wikilink")(아나운서팀장)
   - [1992년](../Page/1992년.md "wikilink")(특채) 입사 : [유영미](../Page/유영미.md "wikilink")(아나운서팀 부장)
   - [1993년](../Page/1993년.md "wikilink")(특채) 입사 : [김정일](../Page/김정일_\(아나운서\).md "wikilink")(아나운서팀 부장)
-  - [1993년](../Page/1993년.md "wikilink")(2기) 입사 : [박상도](../Page/박상도.md "wikilink"), [신용철](../Page/신용철.md "wikilink")(아나운서팀 부국장, [SBS 낮 종합뉴스](../Page/SBS_낮_종합뉴스.md "wikilink") 앵커)
+  - [1993년](../Page/1993년.md "wikilink")(2기) 입사 : [박상도](../Page/박상도.md "wikilink")(아나운서 국장), [신용철](../Page/신용철.md "wikilink")(아나운서팀 부국장, [SBS 낮 종합뉴스](../Page/SBS_낮_종합뉴스.md "wikilink") 앵커)
   - [1995년](../Page/1995년.md "wikilink")(3기) 입사 : [김소원](../Page/김소원_\(아나운서\).md "wikilink")(아나운서팀 부장, [SBS 12 뉴스](../Page/SBS_12_뉴스.md "wikilink") 앵커), [박광범](../Page/박광범.md "wikilink")(아나운서팀 부장), [손범규](https://ko.wikipedia.org/wiki/손범규_\(아나운서\) "wikilink")(아나운서팀 부장, [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink") 앵커), [최영아](https://ko.wikipedia.org/wiki/최영아 "wikilink")([생방송 투데이](../Page/생방송_투데이.md "wikilink") 진행자)
   - [1996년](../Page/1996년.md "wikilink")(4기) 입사 : [염용석](https://ko.wikipedia.org/wiki/염용석 "wikilink")(아나운서팀 차장), [이현경](https://ko.wikipedia.org/wiki/이현경 "wikilink")
   - [2000년](../Page/2000년.md "wikilink")(8기) 입사 : [박은경](../Page/박은경_\(아나운서\).md "wikilink")(아나운서팀 차장, [SBS 뉴스 (1010)](../Page/SBS_뉴스_\(1010\).md "wikilink") 앵커), [박찬민](../Page/박찬민.md "wikilink")(아나운서팀 차장), [윤현진](https://ko.wikipedia.org/wiki/윤현진_\(1978년\) "wikilink")([생방송 투데이](../Page/생방송_투데이.md "wikilink") 진행자), [이혜승](../Page/이혜승.md "wikilink")(평일 [모닝와이드 3부](../Page/모닝와이드.md "wikilink") 진행자)
@@ -487,6 +438,7 @@
   - [2005년](../Page/2005년.md "wikilink")(13기) 입사 : [김일중](../Page/김일중_\(방송인\).md "wikilink"), [김주희](../Page/김주희.md "wikilink")
   - [2007년](../Page/2007년.md "wikilink")(15기) 입사 : [김환](../Page/김환_\(방송인\).md "wikilink"), [박선영](../Page/박선영_\(아나운서\).md "wikilink")
   - [2010년](../Page/2010년.md "wikilink")(17기) 입사 : [김민지](../Page/김민지_\(아나운서\).md "wikilink")
+  - [2012년](../Page/2012년.md "wikilink")(18기) 입사 : [장예원](../Page/장예원_\(아나운서\).md "wikilink")
 
 ### 기자·특파원·PD
 
@@ -504,13 +456,13 @@
   - [2002년](../Page/2002년.md "wikilink") 입사 : [김용태](https://ko.wikipedia.org/wiki/김용태_\(기자\) "wikilink"), [송욱](https://ko.wikipedia.org/wiki/송욱 "wikilink")(베이징 특파원)
   - [2005년](../Page/2005년.md "wikilink") 입사 : [김현우](../Page/김현우_\(기자\).md "wikilink")(평일 [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") 앵커), [김범주](https://ko.wikipedia.org/wiki/김범주_\(기자\) "wikilink") (주말 [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") 앵커)
   - [2006년](../Page/2006년.md "wikilink") 입사 : [박현석](../Page/박현석_\(기자\).md "wikilink")(평일 [모닝와이드 1, 2부](../Page/모닝와이드.md "wikilink") 앵커)
-  - [2007년](../Page/2007년.md "wikilink") 입사 : [장선이](https://ko.wikipedia.org/wiki/장선이 "wikilink"), [최고운](https://ko.wikipedia.org/wiki/최고운 "wikilink")
-  - [2008년](../Page/2008년.md "wikilink") 입사(기자) : [이영주](https://ko.wikipedia.org/wiki/이영주 "wikilink"), [안서현](https://ko.wikipedia.org/wiki/안서현_\(기자\) "wikilink"), [이혜미](../Page/이혜미.md "wikilink"), [이재휘](https://ko.wikipedia.org/wiki/이재휘 "wikilink"), [김아영](../Page/김아영.md "wikilink"), [김도균](https://ko.wikipedia.org/wiki/김도균_\(기자\) "wikilink"), [송인근](https://ko.wikipedia.org/wiki/송인근 "wikilink"), [김수영](../Page/김수영.md "wikilink"), [서대원](https://ko.wikipedia.org/wiki/서대원 "wikilink"), 최재영
-  - [2010년](../Page/2010년.md "wikilink") 입사(기자) : [류란](../Page/류란.md "wikilink"), [박원경](https://ko.wikipedia.org/wiki/박원경 "wikilink"), [유덕기](https://ko.wikipedia.org/wiki/유덕기 "wikilink"), [윤나라](https://ko.wikipedia.org/wiki/윤나라 "wikilink"), [장훈경](https://ko.wikipedia.org/wiki/장훈경 "wikilink"), [한세현](https://ko.wikipedia.org/wiki/한세현 "wikilink"), [김아영](../Page/김아영.md "wikilink")
-  - [2012년](../Page/2012년.md "wikilink") 입사(기자) : [강준](https://ko.wikipedia.org/wiki/강준 "wikilink"), [강청완](https://ko.wikipedia.org/wiki/강청완 "wikilink"), [김학휘](https://ko.wikipedia.org/wiki/김학휘 "wikilink"), [노동규](https://ko.wikipedia.org/wiki/노동규 "wikilink"), [노유진](https://ko.wikipedia.org/wiki/노유진 "wikilink"), [박아름](https://ko.wikipedia.org/wiki/박아름 "wikilink"), [정윤식](https://ko.wikipedia.org/wiki/정윤식 "wikilink"), [김승태](../Page/김승태.md "wikilink")
+  - [2007년](../Page/2007년.md "wikilink") 입사 : [장선이](https://ko.wikipedia.org/wiki/장선이 "wikilink"), [양지혜](../Page/양지혜.md "wikilink"), [최고운](https://ko.wikipedia.org/wiki/최고운 "wikilink"),
+  - [2008년](../Page/2008년.md "wikilink") 입사(기자) : [이영주](https://ko.wikipedia.org/wiki/이영주 "wikilink"), [안서현](https://ko.wikipedia.org/wiki/안서현_\(기자\) "wikilink"), [이혜미](../Page/이혜미.md "wikilink"), [이재휘](https://ko.wikipedia.org/wiki/이재휘 "wikilink"), [김아영](../Page/김아영.md "wikilink"), [김도균](https://ko.wikipedia.org/wiki/김도균_\(기자\) "wikilink"), [송인근](https://ko.wikipedia.org/wiki/송인근 "wikilink"), [김수영](../Page/김수영.md "wikilink"), [서대원](https://ko.wikipedia.org/wiki/서대원 "wikilink"), 최재영 , 구수영
+  - [2010년](../Page/2010년.md "wikilink") 입사(기자) : [류란](../Page/류란.md "wikilink"), [박원경](https://ko.wikipedia.org/wiki/박원경 "wikilink"), [유덕기](https://ko.wikipedia.org/wiki/유덕기 "wikilink"), [윤나라](https://ko.wikipedia.org/wiki/윤나라 "wikilink"), [장훈경](https://ko.wikipedia.org/wiki/장훈경 "wikilink"), [한세현](https://ko.wikipedia.org/wiki/한세현 "wikilink"), [김아영](../Page/김아영.md "wikilink"),
+  - [2012년](../Page/2012년.md "wikilink") 입사(기자) : [강준](https://ko.wikipedia.org/wiki/강준 "wikilink"), [강청완](https://ko.wikipedia.org/wiki/강청완 "wikilink"), [김학휘](https://ko.wikipedia.org/wiki/김학휘 "wikilink"), [노동규](https://ko.wikipedia.org/wiki/노동규 "wikilink"), [노유진](https://ko.wikipedia.org/wiki/노유진 "wikilink"), [박아름](https://ko.wikipedia.org/wiki/박아름 "wikilink"), [정윤식](https://ko.wikipedia.org/wiki/정윤식 "wikilink"), [김승태](../Page/김승태.md "wikilink"), [제희원](https://ko.wikipedia.org/wiki/제희원 "wikilink")
   - [2014년](../Page/2014년.md "wikilink") 입사(기자) : [박하정](https://ko.wikipedia.org/wiki/박하정 "wikilink"), [화강윤](https://ko.wikipedia.org/wiki/화강윤 "wikilink"), [남주현](https://ko.wikipedia.org/wiki/남주현 "wikilink"), [소환욱](https://ko.wikipedia.org/wiki/소환욱 "wikilink"), [손형안](https://ko.wikipedia.org/wiki/손형안 "wikilink")
-  - [2015년](../Page/2015년.md "wikilink") 입사(기자) : [정혜경](../Page/정혜경.md "wikilink"), [민경호](https://ko.wikipedia.org/wiki/민경호 "wikilink"), [정성진](https://ko.wikipedia.org/wiki/정성진 "wikilink")
-  - [2016년](../Page/2016년.md "wikilink") 입사(기자) : [전병남](https://ko.wikipedia.org/wiki/전병남 "wikilink"), [김기태](https://ko.wikipedia.org/wiki/김기태 "wikilink")
+  - [2015년](../Page/2015년.md "wikilink") 입사(기자) : [정혜경](../Page/정혜경.md "wikilink"), [민경호](https://ko.wikipedia.org/wiki/민경호 "wikilink"), [정성진](https://ko.wikipedia.org/wiki/정성진 "wikilink"), [이현영](https://ko.wikipedia.org/wiki/이현영 "wikilink")
+  - [2016년](../Page/2016년.md "wikilink") 입사(기자) : [전병남](https://ko.wikipedia.org/wiki/전병남 "wikilink"), [김기태](https://ko.wikipedia.org/wiki/김기태 "wikilink"), 배위원
 
 #### 전직 기자·특파원·PD
 
@@ -545,7 +497,7 @@
 
 ## 지역별 민영방송 네트워크
 
-프로그램 제작국인 SBS(모기업:태영건설)를 비롯한 전국 10개 지역민방은 네트워크를 구성하고 프로그램을 제휴한다. [경인방송](../Page/경인방송.md "wikilink"), [OBS경인TV](../Page/OBS경인TV.md "wikilink"), [경기방송](../Page/경기방송.md "wikilink")도 민영방송사이나, 이들은 SBS와 네트워크제휴협정을 맺지않고 프로그램을 예외적으로 100% 자체편성하여 방송중이다.
+프로그램 제작국인 SBS를 비롯한 전국 10개 지역민방은 네트워크를 구성하고 프로그램을 제휴한다. [경인방송](../Page/경인방송.md "wikilink"), [OBS경인TV](../Page/OBS경인TV.md "wikilink")도 민영방송사이나, 이들은 SBS와 네트워크제휴협정을 맺지 않은 방송국이다.
 
 <table>
 <thead>
@@ -558,55 +510,55 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/G1.md" title="wikilink">G1</a>(모기업:SG건설)</p></td>
+<td><p><a href="../Page/G1.md" title="wikilink">G1</a></p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/강원도_(남)" title="wikilink">강원</a></p></td>
 <td><p>2001년 12월 15일</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/대전방송.md" title="wikilink">대전방송</a>(모기업:우성사료)</p></td>
+<td><p><a href="../Page/대전방송.md" title="wikilink">대전방송</a></p></td>
 <td><p><strong>TJB</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전충남" title="wikilink">대전·세종·충남</a></p></td>
 <td><p>1995년 5월 14일</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/청주방송.md" title="wikilink">청주방송</a>(모기업:두진건설)</p></td>
+<td><p><a href="../Page/청주방송.md" title="wikilink">청주방송</a></p></td>
 <td><p><strong>CJB</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/충청북도" title="wikilink">충북</a>·<a href="../Page/세종특별자치시.md" title="wikilink">세종</a> 일부</p></td>
 <td><p>1997년 9월 27일</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/전주방송.md" title="wikilink">전주방송</a>(모기업:일진그룹)</p></td>
+<td><p><a href="../Page/전주방송.md" title="wikilink">전주방송</a></p></td>
 <td><p><strong>JTV</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전라북도" title="wikilink">전북</a></p></td>
 <td><p>1997년 10월 18일</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/광주방송.md" title="wikilink">광주방송</a>(모기업:호반건설)</p></td>
-<td><p><strong>kbc</strong></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/광주광역시" title="wikilink">광주</a>·<a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전남</a></p></td>
+<td><p><a href="../Page/광주방송.md" title="wikilink">광주방송</a></p></td>
+<td><p><strong>KBC</strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/광주전남" title="wikilink">광주·전남</a></p></td>
 <td><p>1995년 5월 14일</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/TBC_(대한민국의_방송사).md" title="wikilink">TBC</a>(모기업:귀뚜라미그룹)</p></td>
-<td></td>
+<td><p><a href="../Page/TBC_(대한민국의_방송사).md" title="wikilink">TBC</a></p></td>
 <td><p><a href="../Page/대구경북.md" title="wikilink">대구·경북</a></p></td>
 <td><p>1995년 5월 14일</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/KNN.md" title="wikilink">KNN</a>(모기업:넥센)</p></td>
-<td></td>
+<td><p><a href="../Page/KNN.md" title="wikilink">KNN</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/부산광역시" title="wikilink">부산</a>·<a href="https://ko.wikipedia.org/wiki/경상남도" title="wikilink">경남</a></p></td>
 <td><p>1995년 5월 14일</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/울산방송.md" title="wikilink">울산방송</a>(모기업:삼라마이다스)</p></td>
-<td><p><strong>ubc</strong></p></td>
+<td><p><a href="../Page/울산방송.md" title="wikilink">울산방송</a></p></td>
+<td><p><strong>UBC</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/울산광역시" title="wikilink">울산</a>·<a href="../Page/양산시.md" title="wikilink">양산</a> 일부·<a href="https://ko.wikipedia.org/wiki/경주시" title="wikilink">경주</a> 일부</p></td>
 <td><p>1997년 9월 1일</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/제주방송.md" title="wikilink">제주방송</a>(모기업:한주홀딩스코리아)</p></td>
+<td><p><a href="../Page/제주방송.md" title="wikilink">제주방송</a></p></td>
 <td><p><strong>JIBS</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/제주특별자치도" title="wikilink">제주</a></p></td>
 <td><p>2002년 5월 31일</p></td>
@@ -622,13 +574,13 @@
 
 ### 타지역 민영방송사와의 방송업무협력에 관한 기본협정
 
-  - 대상 방송사 : [KNN](../Page/KNN.md "wikilink") 부산경남 (모기업 : 넥센), [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 대구 (모기업 : 귀뚜라미그룹), [대전방송](../Page/대전방송.md "wikilink") (모기업 : 우성사료), [광주방송](../Page/광주방송.md "wikilink") (모기업 : 호반건설), [울산방송](../Page/울산방송.md "wikilink") (모기업 : SM그룹), [청주방송](../Page/청주방송.md "wikilink") (모기업 : 두진건설), [전주방송](../Page/전주방송.md "wikilink") (모기업 : 일진그룹), [G1](../Page/G1.md "wikilink") 강원 (모기업 : SG건설) , [제주국제자유도시방송](../Page/제주국제자유도시방송.md "wikilink") (모기업 : 한주홀딩스코리아)
+  - 대상 방송사 : [KNN](../Page/KNN.md "wikilink") 부산경남, [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 대구, [대전방송](../Page/대전방송.md "wikilink"), [광주방송](https://ko.wikipedia.org/wiki/KBC_광주방송 "wikilink"), [울산방송](https://ko.wikipedia.org/wiki/ubc_울산방송 "wikilink"), [청주방송](https://ko.wikipedia.org/wiki/CJB_청주방송 "wikilink"), [전주방송](https://ko.wikipedia.org/wiki/JTV_전주방송 "wikilink"), [G1](../Page/G1.md "wikilink"), [제주방송](../Page/제주방송.md "wikilink")
   - 계약내용
-      - [KNN](../Page/KNN.md "wikilink")(모기업:넥센) 부산경남방송과 8개지역 민영방송사는 전국네트워크 체제를 공고히하고 상호협력한다.
+      - [KNN](../Page/KNN.md "wikilink")(모기업:[넥센](https://ko.wikipedia.org/wiki/넥센 "wikilink")) 부산경남방송과 8개지역 민영방송사는 전국네트워크 체제를 공고히하고 상호협력한다.
       - SBS(모기업:태영건설)는 네트워크 시간대에 방송할 프로그램을 제작하여 송출한다.
       - 협약기간의 네트워크 프로그램 공급료는 면제한다.
 
-※ 라디오의 경우 타지역민방의 라디오 방송에서 [SBS 파워FM의](../Page/SBS_파워FM.md "wikilink") 일부 프로그램을 방송할 수 있으나 동남권 지역 민방인 KNN(모기업:넥센) 부산경남방송을 제외하고 [SBS 러브FM은](../Page/SBS_러브FM.md "wikilink") 네트워크 프로그램 공급 대상에서 제외된다. 그 이유는 SBS(모기업:태영건설)와 [KNN](../Page/KNN.md "wikilink")(모기업:넥센) 부산경남방송은 라디오 채널이 2개인 반면 타지역민방의 라디오채널은 1개이기 때문이다. 대신 [컴퓨터](../Page/컴퓨터.md "wikilink")나 [휴대 전화로](../Page/휴대_전화.md "wikilink") SBS 홈페이지에 가서 화면 상단에 SBS 고릴라를 직접 다운받아 [SBS 러브FM을](../Page/SBS_러브FM.md "wikilink") 청취할수있다.
+※ 라디오의 경우 타지역민방의 라디오 방송에서 [SBS 파워FM의](../Page/SBS_파워FM.md "wikilink") 일부 프로그램을 방송할 수 있으나 동남권 지역 민방인 KNN 부산경남방송을 제외하고 [SBS 러브FM은](../Page/SBS_러브FM.md "wikilink") 네트워크 프로그램 공급 대상에서 제외된다. 그 이유는 SBS와 [KNN](../Page/KNN.md "wikilink")은 라디오 채널이 2개인 반면 타지역민방의 라디오채널은 1개이기 때문이다. 대신 [컴퓨터](../Page/컴퓨터.md "wikilink")나 [휴대 전화로](../Page/휴대_전화.md "wikilink") SBS 홈페이지에 가서 화면 상단에 SBS 고릴라를 직접 다운받아 [SBS 러브FM을](../Page/SBS_러브FM.md "wikilink") 청취할수있다.
 
 ## 참고
 
@@ -637,7 +589,7 @@
   - [SBS M\&C](../Page/SBS_M&C.md "wikilink")
   - **[지상파 방송](https://ko.wikipedia.org/wiki/지상파_방송 "wikilink")**
       - [한국방송공사](../Page/한국방송공사.md "wikilink")
-          - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
+          - [KBS 1TV](../Page/KBS_1TV.md "wikilink")
           - [KBS 2TV](../Page/KBS_2TV.md "wikilink")
       - [문화방송](../Page/문화방송.md "wikilink")
           - [MBC TV](../Page/MBC_TV.md "wikilink")
@@ -663,15 +615,6 @@
   - 서울 디지털 포럼 - SBS에서 매년 개최하는 디지털 분야 포럼
   - 미래 한국 리포트 - SBS에서 매년 개최하는 미래 한국 어젠다 포럼
   - [태영건설](../Page/태영건설.md "wikilink")
-  - [넥센](https://ko.wikipedia.org/wiki/넥센 "wikilink")
-  - [귀뚜라미그룹](https://ko.wikipedia.org/wiki/귀뚜라미그룹 "wikilink")
-  - [호반건설](../Page/호반건설.md "wikilink")
-  - [우성사료](../Page/우성사료.md "wikilink")
-  - [삼라마이다스](https://ko.wikipedia.org/wiki/삼라마이다스 "wikilink")
-  - [두진건설](https://ko.wikipedia.org/wiki/두진건설 "wikilink")
-  - [일진그룹](https://ko.wikipedia.org/wiki/일진그룹 "wikilink")
-  - [SG건설](https://ko.wikipedia.org/wiki/SG건설 "wikilink")
-  - [한주홀딩스코리아](https://ko.wikipedia.org/wiki/한주홀딩스코리아 "wikilink")
 
 ## 외부 링크
 

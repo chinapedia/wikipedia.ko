@@ -212,7 +212,7 @@
   - [조 콜](../Page/조_콜.md "wikilink") (2010-2013)
   - [앤디 캐럴](../Page/앤디_캐럴.md "wikilink") (2011-2013)
   - [스튜어트 다우닝](../Page/스튜어트_다우닝.md "wikilink") (2011-2013)
-  - **[조던 헨더슨](https://ko.wikipedia.org/wiki/조던_헨더슨 "wikilink")** (2011- )
+  - **[조던 헨더슨](../Page/조던_헨더슨.md "wikilink")** (2011- )
   - [라힘 스털링](../Page/라힘_스털링.md "wikilink") (2012-2015)
   - [대니얼 스터리지](../Page/대니얼_스터리지.md "wikilink") (2013-2019)
   - [리키 램버트](../Page/리키_램버트.md "wikilink") (2014-2015)

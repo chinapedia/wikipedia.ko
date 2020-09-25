@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC 뉴스데스크](https://ko.wikipedia.org/wiki/MBC_뉴스데스크).
 
 
-《**MBC 뉴스데스크**》()는 매일 저녁 7시 55분에 방송되는 [문화방송의 뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
+《**MBC 뉴스데스크**》()는 평일 저녁 7시 50분, 주말 7시 55분에 방송되는 [문화방송의 뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -325,7 +325,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/6월_29일.md" title="wikilink">6월 29일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/9월_11일.md" title="wikilink">9월 11일</a></p></td>
 <td><p>매주 월요일 ~ 목요일 저녁 7:55 ~ 8:50 (1부)</p></td>
 <td><p>95분</p></td>
 <td></td>
@@ -338,6 +338,24 @@
 </tr>
 <tr class="even">
 <td><p>매주 금요일 저녁 7:55 ~ 8:50</p></td>
+<td><p>55분</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/9월_14일.md" title="wikilink">9월 14일</a> ~ <strong>현재</strong></p></td>
+<td><p>매주 월요일 ~ 목요일 저녁 7:50 ~ 8:45 (1부)</p></td>
+<td><p>90분</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>매주 월요일 ~ 목요일 밤 8:45 ~ 9:20 (2부)</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>매주 금요일 저녁 7:50 ~ 8:45</p></td>
 <td><p>55분</p></td>
 <td></td>
 <td></td>
@@ -1070,16 +1088,16 @@
 </tbody>
 </table>
 
-## 구성
+## 코너
 
 ### MBC 뉴스데스크 1부 오프닝
 
-[왕종명](https://ko.wikipedia.org/wiki/왕종명 "wikilink") 앵커ㅣ[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 앵커
-[김경호](https://ko.wikipedia.org/wiki/김경호 "wikilink") 앵커ㅣ[김초롱](../Page/김초롱.md "wikilink") 앵커
+[왕종명](https://ko.wikipedia.org/wiki/왕종명 "wikilink") 기자ㅣ[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 아나운서
+[김경호](https://ko.wikipedia.org/wiki/김경호 "wikilink") 기자ㅣ[김초롱](../Page/김초롱.md "wikilink") 아나운서
 
 ### 오늘의 주요뉴스\[2\]
 
-[김초롱](../Page/김초롱.md "wikilink") 앵커
+[김초롱](../Page/김초롱.md "wikilink") 아나운서
 
 ### 바로 간다 / 다시 간다
 
@@ -1089,8 +1107,8 @@
 
 ### 앵커 리포트
 
-[왕종명](https://ko.wikipedia.org/wiki/왕종명 "wikilink") 앵커ㅣ[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 앵커
-[김경호](https://ko.wikipedia.org/wiki/김경호 "wikilink") 앵커ㅣ[김초롱](../Page/김초롱.md "wikilink") 앵커
+[왕종명](https://ko.wikipedia.org/wiki/왕종명 "wikilink") 기자ㅣ[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 아나운서
+[김경호](https://ko.wikipedia.org/wiki/김경호 "wikilink") 기자ㅣ[김초롱](../Page/김초롱.md "wikilink") 아나운서
 
 ### 팩트의 무게
 
@@ -1098,12 +1116,12 @@
 
 ### 오늘 이 뉴스
 
-[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 앵커
-[김초롱](../Page/김초롱.md "wikilink") 앵커
+[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 아나운서
+[김초롱](../Page/김초롱.md "wikilink") 아나운서
 
 ### MBC 뉴스데스크 2부 오프닝\[3\]
 
-[왕종명](https://ko.wikipedia.org/wiki/왕종명 "wikilink") 앵커ㅣ[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 앵커
+[왕종명](https://ko.wikipedia.org/wiki/왕종명 "wikilink") 기자ㅣ[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 아나운서
 
 ### 로드맨
 
@@ -1112,14 +1130,18 @@
 
 ### 법이 없다
 
-### 백투더뉴스
-
-### 14F
-
-[이영은](https://ko.wikipedia.org/wiki/이영은 "wikilink") 아나운서
-[김정현](https://ko.wikipedia.org/wiki/김정현 "wikilink") 아나운서
-
 ### 현장 36.5
+
+### 정치적 참견시점
+
+[왕종명](https://ko.wikipedia.org/wiki/왕종명 "wikilink") 기자
+박영회 기자
+
+#### 정치원샷
+
+### 내 생애 첫 인터뷰
+
+[김경호](https://ko.wikipedia.org/wiki/김경호 "wikilink") 기자
 
 ### [MBC 스포츠뉴스](../Page/MBC_스포츠뉴스.md "wikilink")
 
@@ -1133,8 +1155,8 @@
 
 ### MBC 뉴스데스크 클로징
 
-[왕종명](https://ko.wikipedia.org/wiki/왕종명 "wikilink") 앵커ㅣ[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 앵커
-[김경호](https://ko.wikipedia.org/wiki/김경호 "wikilink") 앵커ㅣ[김초롱](../Page/김초롱.md "wikilink") 앵커
+[왕종명](https://ko.wikipedia.org/wiki/왕종명 "wikilink") 기자ㅣ[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 아나운서
+[김경호](https://ko.wikipedia.org/wiki/김경호 "wikilink") 기자ㅣ[김초롱](../Page/김초롱.md "wikilink") 아나운서
 
 ## 앵커
 
@@ -1324,7 +1346,7 @@
 <!-- end list -->
 
   - WAVVE, imbc.com에는 뉴스 프로그램에 한해서 로그인 없이 실시간 방송을 볼 수 있다.
-  - 지역국들은 뉴스시간대라도 로그인을 해야 한다. (목포, 여수, 전주, 원주, 대구 등)
+  - 지역국들은 뉴스시간대라도 로그인을 해야 한다. (광주,목포, 여수, 전주, 원주, 대구 등)
   - imbc.com에서 로그인을 하면 일반화질은 무료로 초고화질은 정기권을 결제해야 볼수 있다.
 
 <table>
@@ -1378,7 +1400,7 @@
 <td><p><a href="../Page/목포문화방송.md" title="wikilink">목포MBC</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/전라남도" title="wikilink">전남</a> 서남부</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/MBC_뉴스데스크_목포·전남" title="wikilink">목포MBC 뉴스데스크</a></p></td>
-<td><p>임사랑, 이지연</p></td>
+<td><p>임사랑</p></td>
 <td><p>본사 수중계</p></td>
 </tr>
 <tr class="odd">
@@ -1515,11 +1537,11 @@
 
 ## CI
 
-파일:MBC Newsdesk logo old 1970.png|구형 사용 (1972년 11월 \~ 1976년) 파일:MBC Newsdesk logo old 1980.png|구형 사용 (1980년 12월 \~ 1982년 12월) 파일:MBC Newsdesk logo old 1982.png|구형 사용 (1982년 12월 \~ 1986년 1월) 파일:MBC Newsdesk logo old 1986.png|구형 사용 (1986년 1월 \~ 1997년 12월) 파일:MBC Newsdesk logo old 1998.png|구형 사용(1998년\~1999년12윌31일) 파일:MBC News desk logo 19991231\~20050102.png|구형 사용 (1999년 \~ 2005년 1월) 파일:MBC Newsdesk logo old 2005.png|구형 사용 (2005년 1월 \~ 2006년 12월) 파일:MBC Newsdesk logo old 2006.png|구형 사용 (2006년 12월 \~ 2012년 8월) 파일:MBC Newsdesk logo old 2013.png|구형 사용 (2012년 8월 \~ 2014년 12월) 파일:MBC Newsdesk 201408 \~ 201807 logo.png|구형 사용 (2014년 12월 \~ 2018년 7월) 파일:MBC Newsdesk logo 2017 Korean language 02.png|구형 사용 (2018년 7월 \~ )
+파일:MBC Newsdesk logo old 1970.png|구형 사용 (1972년 11월 \~ 1976년) 파일:MBC Newsdesk logo old 1980.png|구형 사용 (1980년 12월 \~ 1982년 12월) 파일:MBC Newsdesk logo old 1982.png|구형 사용 (1982년 12월 \~ 1986년 1월) 파일:MBC Newsdesk logo old 1986.png|구형 사용 (1986년 1월 \~ 1997년 12월) 파일:MBC Newsdesk logo old 1998.png|구형 사용 (1998년 \~ 1999년 12월 31일) 파일:MBC News desk logo 19991231\~20050102.png|구형 사용 (1999년 \~ 2005년 1월 2일) 파일:MBC Newsdesk logo old 2005.png|구형 사용 (2005년 1월 3일 \~ 2006년 12월) 파일:MBC Newsdesk logo old 2006.png|구형 사용 (2006년 12월 \~ 2012년 8월) 파일:MBC Newsdesk logo old 2013.png|구형 사용 (2012년 8월 \~ 2014년 12월) 파일:MBC Newsdesk 201408 \~ 201807 logo.png|구형 사용 (2014년 12월 \~ 2018년 7월) 파일:MBC Newsdesk logo 2017 Korean language 02.png|구형 사용 (2018년 7월 \~ )
 
 ## 미디어
 
-다음과 같은 영화 매체에서 MBC 뉴스데스크의 뉴스 영상 장면에 나왔다.
+다음과 같은 영화 매체에서 MBC 뉴스데스크의 뉴스 영상 장면이 연출로 삽입되기도 했다.
 
   - [2018년](../Page/2018년.md "wikilink") 《[국가부도의날](https://ko.wikipedia.org/wiki/국가부도의날 "wikilink")》 (실제 뉴스)
   - [2006년](../Page/2006년.md "wikilink") 《[괴물](https://ko.wikipedia.org/wiki/괴물_\(영화\) "wikilink")》 (가상 뉴스)
@@ -1544,7 +1566,7 @@
 
 ## 경쟁 뉴스 프로그램
 
-  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") ([KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") ([KBS1](../Page/KBS_1TV.md "wikilink"))
   - [SBS 8 뉴스](../Page/SBS_8_뉴스.md "wikilink") ([SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink"))
   - [OBS 뉴스중심](../Page/OBS_뉴스중심.md "wikilink") ([OBS](https://ko.wikipedia.org/wiki/OBS_경인TV "wikilink"))
   - [뉴스A](../Page/뉴스A.md "wikilink") ([채널A](../Page/채널A.md "wikilink"))
@@ -1553,7 +1575,7 @@
   - [뉴스가 있는 저녁](../Page/뉴스가_있는_저녁.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))
   - [뉴스 20](https://ko.wikipedia.org/wiki/뉴스_20 "wikilink") ([연합뉴스TV](../Page/연합뉴스TV.md "wikilink"))
 
-## 각주 및 임시 앵커
+## 각주 및 임시 앵커 변동 사항
 
 <references/>
 

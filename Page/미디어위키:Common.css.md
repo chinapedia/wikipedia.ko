@@ -476,7 +476,7 @@ table.tmbox-speedy {
 `   margin: 0.9em 1em;`
 `   border-top: 1px solid #ccc;`
 `   border-bottom: 1px solid #ccc;`
-`   background: transparent;`
+`   background-color: transparent;`
 
 }
 
@@ -509,7 +509,7 @@ table.tmbox-speedy {
 `   clear: both;`
 `   margin: 0.2em 0;`
 `   border: 1px solid #bb7070;`
-`   background: #ffdbdb;`
+`   background-color: #ffdbdb;`
 `   padding: 0.25em 0.9em;`
 
 } /\* Div based "system" style fmbox messages.
@@ -521,7 +521,7 @@ div.mw-lag-warn-normal, div.fmbox-system {
 `   clear: both;`
 `   margin: 0.2em 0;`
 `   border: 1px solid #aaa;`
-`   background: #f9f9f9;`
+`   background-color: #f9f9f9;`
 `   padding: 0.25em 0.9em;`
 
 }
@@ -562,7 +562,7 @@ body.mediawiki table.mbox-small { /\* For the "small=yes" option. \*/
 
 `   border: none;`
 `   border-collapse: collapse;`
-`   background: transparent;`
+`   background-color: transparent;`
 `   margin: 0 0 0 1.6em !important;`
 `   padding: 0 !important;`
 `   width: auto;`
@@ -814,14 +814,6 @@ table.stub {
 
 }
 
-/\* [위키백과:사랑방/2007년 1월\#틀:듣기 용 아이콘](https://ko.wikipedia.org/wiki/위키백과:사랑방/2007년_1월#틀:듣기_용_아이콘 "wikilink") \*/ .audiolink a{
-
-` background: url("//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png") center left no-repeat !important;`
-` padding-left: 16px !important;`
-` padding-right: 0 !important;`
-
-}
-
 /\* [위키백과:사랑방/2007년 4월\#영어판의 틀을 번역했는데, 모양이 다르게 나옵니다.](https://ko.wikipedia.org/wiki/위키백과:사랑방/2007년_4월#영어판의_틀을_번역했는데,_모양이_다르게_나옵니다. "wikilink")
 
 `  `[`:en:MediaWiki:Common.css`](https://ko.wikipedia.org/wiki/:en:MediaWiki:Common.css "wikilink")에서` 가져옴 */`
@@ -863,7 +855,7 @@ table.stub {
 
 } .navbox, .navbox-subgroup {
 
-`   background: #fdfdfd;      /* Background color */`
+`   background-color: #fdfdfd; /* Background color */`
 
 } .navbox-list {
 
@@ -876,23 +868,23 @@ table.stub {
 
 } .navbox th, .navbox-title {
 
-`   background: #ccccff;      /* Level 1 color */`
+`   background-color: #ccccff;      /* Level 1 color */`
 
 } .navbox-abovebelow, th.navbox-group, .navbox-subgroup .navbox-title {
 
-`   background: #ddddff;      /* Level 2 color */`
+`   background-color: #ddddff;      /* Level 2 color */`
 
 } .navbox-subgroup .navbox-group, .navbox-subgroup .navbox-abovebelow {
 
-`   background: #e6e6ff;      /* Level 3 color */`
+`   background-color: #e6e6ff;      /* Level 3 color */`
 
 } .navbox-even {
 
-`   background: #f7f7f7;      /* Even row striping */`
+`   background-color: #f7f7f7;      /* Even row striping */`
 
 } .navbox-odd {
 
-`   background: transparent;  /* Odd row striping */`
+`   background-color: transparent;  /* Odd row striping */`
 
 } .navbox .hlist td dl, .navbox .hlist td ol, .navbox .hlist td ul, .navbox td.hlist dl, .navbox td.hlist ol, .navbox td.hlist ul {
 
@@ -908,7 +900,7 @@ table.stub {
 
 } .navbar ul {
 
-`   display: inline;`
+`   display: inline-block;`
 `   white-space: nowrap;`
 
 } .mw-body-content .navbar ul {
@@ -1110,31 +1102,6 @@ div\#content a\[href$=".pdf"\].external, div\#content a\[href\*=".pdf?"\].extern
 
 }
 
-/\*\* [틀:둘러보기](https://ko.wikipedia.org/wiki/틀:둘러보기 "wikilink") 디자인 \*\*/ /\* [위키백과토론:위키프로젝트 시스템\#미디어위키:common.css에 스타일 추가 요청](https://ko.wikipedia.org/wiki/위키백과토론:위키프로젝트_시스템#미디어위키:common.css에_스타일_추가_요청 "wikilink") \*/ /\* Klutzy 2008년 12월 21일 (일) 20:10 (KST) \*/ .pathnavbox {
-
-` clear: both;`
-` border: 1px outset #eef;`
-` padding: 0.3em 0.6em;`
-` margin: 0 0 0.5em 0;`
-` background-color: #eef;`
-` font-size: smaller;`
-
-} .pathnavbox ul {
-
-` list-style: none;`
-` margin-top: 0;`
-` margin-bottom: 0;`
-
-} .pathnavbox \> ul {
-
-` margin: 0;`
-
-} .pathnavbox ul li {
-
-` margin: 0;`
-
-}
-
 /\*\* 최근 바뀜, 주시 문서 목록에서 "되돌리기" 글자 크기 줄임 \*\*/ /\* [iTurtle](https://ko.wikipedia.org/wiki/사용자:ITurtle "wikilink") ([토론](https://ko.wikipedia.org/wiki/사용자토론:ITurtle "wikilink")) 2009년 5월 8일 (금) 22:04 (KST) \*/ .page-특수기능_최근바뀜 .mw-rollback-link, .page-특수기능_주시문서목록 .mw-rollback-link {
 
 ` font-size: smaller;`
@@ -1234,7 +1201,7 @@ div\#content a\[href$=".pdf"\].external, div\#content a\[href\*=".pdf?"\].extern
 
 /\* 준보호 문서 편집창 배경색. 주의 환기 \*/ .mw-textarea-sprotected {
 
-` background: #FFFFDB;`
+` background-color: #FFFFDB;`
 
 }
 
@@ -1440,73 +1407,73 @@ div.mw-babel-box-0 {
 
 div.mw-babel-box-N table {
 
-`       background: #C5FCDC;`
+`       background-color: #C5FCDC;`
 
 }
 
 div.mw-babel-box-4 table {
 
-`       background: #D0F8FF;`
+`       background-color: #D0F8FF;`
 
 }
 
 div.mw-babel-box-3 table {
 
-`       background: #E0E8FF;`
+`       background-color: #E0E8FF;`
 
 }
 
 div.mw-babel-box-2 table {
 
-`       background: #E9E5F9;`
+`       background-color: #E9E5F9;`
 
 }
 
 div.mw-babel-box-1 table {
 
-`       background: #F3E0F3;`
+`       background-color: #F3E0F3;`
 
 }
 
 div.mw-babel-box-0 table {
 
-`       background: #FFE0E8;`
+`       background-color: #FFE0E8;`
 
 }
 
 div.mw-babel-box-N table th {
 
-`       background: #6EF7A7;`
+`       background-color: #6EF7A7;`
 
 }
 
 div.mw-babel-box-4 table th {
 
-`       background: #77E0E8;`
+`       background-color: #77E0E8;`
 
 }
 
 div.mw-babel-box-3 table th {
 
-`       background: #99B3FF;`
+`       background-color: #99B3FF;`
 
 }
 
 div.mw-babel-box-2 table th {
 
-`       background: #BCB9EF;`
+`       background-color: #BCB9EF;`
 
 }
 
 div.mw-babel-box-1 table th {
 
-`       background: #E0C0E0;`
+`       background-color: #E0C0E0;`
 
 }
 
 div.mw-babel-box-0 table th {
 
-`       background: #FFB3B3;`
+`       background-color: #FFB3B3;`
 
 }
 

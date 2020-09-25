@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [MGM-52 랜스](https://ko.wikipedia.org/wiki/MGM-52_랜스).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:M667-Lance-beyt-hatotchan-2.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:MGM-52_Lance.jpg "wikilink") 박물관에 전시된 MGM-52 랜스 미사일\]\] **MGM-52 랜스(Lance)** 미사일은 이동식 야전포병 전술 지대지 미사일 시스템이다. [W70](../Page/W70.md "wikilink") 핵탄두와 재래식 탄두를 운반하기 위해 [미 육군을](https://ko.wikipedia.org/wiki/미_육군 "wikilink") 위해 개발되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:M667-Lance-beyt-hatotchan-2.jpg "wikilink") **MGM-52 랜스(Lance)** 미사일은 이동식 야전포병 전술 지대지 미사일 시스템이다. [W70](../Page/W70.md "wikilink") 핵탄두와 재래식 탄두를 운반하기 위해 [미 육군을](https://ko.wikipedia.org/wiki/미_육군 "wikilink") 위해 개발되었다.
 
-[1973년](../Page/1973년.md "wikilink"), 랜스 미사일은 [MGR-1 어네스트 존](https://ko.wikipedia.org/wiki/어네스트_존_미사일 "wikilink") 시스템과 [MGM-29 서전트를](../Page/MGM-29_서전트.md "wikilink") 대체하였다.[1992년](../Page/1992년.md "wikilink")까지 퇴역하였다.
+[1973년](../Page/1973년.md "wikilink"), 랜스 미사일은 [MGR-1 어네스트존](../Page/MGR-1_어네스트존.md "wikilink") 시스템과 [MGM-29 서전트를](../Page/MGM-29_서전트.md "wikilink") 대체하였다.[1992년](../Page/1992년.md "wikilink")까지 퇴역하였다.
 
 랜스는 [W70](../Page/W70.md "wikilink") [핵탄두](https://ko.wikipedia.org/wiki/핵탄두 "wikilink")를 사용한다. [W70 버전은](../Page/W70.md "wikilink")-3 강화된 방사능([중성자탄](../Page/중성자탄.md "wikilink"))을 전장에 사용키 위한 최초의 탄두 중 하나이다.
 

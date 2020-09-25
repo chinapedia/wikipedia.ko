@@ -70,7 +70,7 @@
 
 ## 관련 항목
 
-  - [킨키키즈](https://ko.wikipedia.org/wiki/킨키키즈 "wikilink") - 사카자키가 킨키키즈에게 기타를 가르치 줬다.
+  - [킨키키즈](https://ko.wikipedia.org/wiki/킨키키즈 "wikilink") - 사카자키가 킨키키즈에게 기타를 가르쳐줬다.
   - [섬씽엘스](https://ko.wikipedia.org/wiki/섬씽엘스 "wikilink") - 사카자키와 친한 친구 사이다.
   - [차게 앤 아스카](https://ko.wikipedia.org/wiki/차게_앤_아스카 "wikilink") - 알피와 마찬가지로 역사가 있는 일본의 밴드.
 

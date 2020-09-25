@@ -36,7 +36,7 @@
 
 [섬네일와](https://ko.wikipedia.org/wiki/파일:1880RepublicanPoster.png "wikilink") 아서의 [1880년](../Page/1880년.md "wikilink") 선거 포스터\]\] [1880년](../Page/1880년.md "wikilink")에 열린 공화당 국립 회의에서 그랜트의 삼선을 지지하였으나, [오하이오주](../Page/오하이오주.md "wikilink")의 상원 당선자 [제임스 A. 가필드를](../Page/제임스_A._가필드.md "wikilink") 대통령 후보로 임명하였다. 그러고나서 사절단들은 그랜트의 부하들로부터 지지를 받은 희망에서 아서를 부통령 후보로 임명하였다.
 
-선거에서 가필드와 아서는 [민주당의](../Page/민주당_\(미국\).md "wikilink") [윈필드 스콧 핸콕](https://ko.wikipedia.org/wiki/윈필드_스콧_핸콕 "wikilink") 장군과 [인디애나주](../Page/인디애나주.md "wikilink")의 전 의원 [윌리엄 H. 잉글리시를](https://ko.wikipedia.org/wiki/윌리엄_H._잉글리시 "wikilink") 꺾었다.
+선거에서 가필드와 아서는 [민주당의](../Page/민주당_\(미국\).md "wikilink") [윈필드 스콧 핸콕](../Page/윈필드_스콧_핸콕.md "wikilink") 장군과 [인디애나주](../Page/인디애나주.md "wikilink")의 전 의원 [윌리엄 H. 잉글리시를](https://ko.wikipedia.org/wiki/윌리엄_H._잉글리시 "wikilink") 꺾었다.
 
 ### 가필드와 대립
 

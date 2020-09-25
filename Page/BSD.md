@@ -54,7 +54,7 @@
 
 <references />
 
-## 참고문헌
+## 참고 문헌
 
   - [Peter H. Salus](https://ko.wikipedia.org/wiki/Peter_H._Salus "wikilink"), *A Quarter Century of UNIX* (Addison Wesley, June 1, 1994; )
 

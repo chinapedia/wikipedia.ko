@@ -560,7 +560,7 @@ FA로 영입하였던 [홍현우](../Page/홍현우.md "wikilink")는 먹튀 논
 <td><p>0.500</p></td>
 <td><p>* <strong>와일드카드 : <a href="https://ko.wikipedia.org/wiki/KIA_타이거즈" title="wikilink">KIA</a> 전 2-1 승</strong><br />
 * <strong>준플레이오프 : <a href="../Page/키움_히어로즈.md" title="wikilink">넥센</a> 전 3-1 승</strong><br />
-* '''<small>플레이오프 : <a href="../Page/NC_다이노스.md" title="wikilink">NC</a> 전 1-3 패</small></p></td>
+* <strong><small>플레이오프 : <a href="../Page/NC_다이노스.md" title="wikilink">NC</a> 전 1-3 패</small></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -728,7 +728,7 @@ LG 트윈스에서는 [한국 프로 야구 최우수 선수](https://ko.wikiped
   - 아나운서 : 황건하
   - 응원단장 : 김정석
   - 치어리더 팀장 : 정다혜
-  - 치어리더 : 유세리, 장세희, 윤소은, 차영현, 하지원, 김도희, 남궁혜미, 이연경 　
+  - 치어리더 : 유세리, 장세희, 윤소은, 차영현, 하지원, 김도희, 남궁혜미, 원민주
 
 ## 같이 보기
 

@@ -53,7 +53,7 @@
 
 [1844년](../Page/1844년.md "wikilink") 민주당 대통령 부호 회의에서 밴 뷰런은 투표 3분의 2를 얻는 데 실해하였고, 그러고나서 후보를 위한 요구를 하였다. 대의원들은 밴 뷰런이나 그의 경쟁자인 전 [프랑스](../Page/프랑스.md "wikilink") 주재 공사 [미시간주](../Page/미시간주.md "wikilink")의 [루이스 캐스에](../Page/루이스_캐스.md "wikilink") 동의할 수 없었다. 8번째 비밀 투표에서 [역사가](https://ko.wikipedia.org/wiki/역사가 "wikilink")이자 [매사추세츠주](../Page/매사추세츠주.md "wikilink")의 대의원 [조지 뱅크로프트는](https://ko.wikipedia.org/wiki/조지_뱅크로프트 "wikilink") 포크를 타협적인 후보로서 제안하였다. 대의원들은 [뉴욕주](../Page/뉴욕주.md "wikilink")의 상원 [사일러스 라이트를](https://ko.wikipedia.org/wiki/사일러스_라이트 "wikilink") 부통령 후보로 지명하였으나, 라이트는 거부하였다. 그러고나서 민주당원들은 [펜실베이니아주](../Page/펜실베이니아주.md "wikilink")의 변호사 [조지 M. 댈러스를](../Page/조지_M._댈러스.md "wikilink") 부통령 후보로 지명하였다.
 
-휘그당원들은 [켄터키주](../Page/켄터키주.md "wikilink")의 전 상원 [헨리 클레이를](https://ko.wikipedia.org/wiki/헨리_클레이 "wikilink") 대통령 후보로, [뉴저지주](../Page/뉴저지주.md "wikilink")의 상원 [시어도어 프렐링휴이젠을](https://ko.wikipedia.org/wiki/시어도어_프렐링휴이젠 "wikilink") 부통령 후보로 지명하였다. 클레이는 만약 자신이 텍사스 합병을 성원하였다면 북부의 반노예주의자들의 투표를 잃을 것 같은 근심의 이유로 선거 운동에서 합병 논점을 제외시켰다. 포크는 합병을 위한 솔직한 자세를 취하여 약 4만 투표에 의하여 선거를 이겼다.
+휘그당원들은 [켄터키주](../Page/켄터키주.md "wikilink")의 전 상원 [헨리 클레이를](https://ko.wikipedia.org/wiki/헨리_클레이 "wikilink") 대통령 후보로, [뉴저지주](../Page/뉴저지주.md "wikilink")의 상원 [시어도어 프렐링하이센을](https://ko.wikipedia.org/wiki/시어도어_프렐링하이센 "wikilink") 부통령 후보로 지명하였다. 클레이는 만약 자신이 텍사스 합병을 성원하였다면 북부의 반노예주의자들의 투표를 잃을 것 같은 근심의 이유로 선거 운동에서 합병 논점을 제외시켰다. 포크는 합병을 위한 솔직한 자세를 취하여 약 4만 투표에 의하여 선거를 이겼다.
 
 ## 대통령 재임
 

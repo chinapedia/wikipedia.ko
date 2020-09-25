@@ -1,19 +1,19 @@
 > This article is converted from Wikipedia: [YTN](https://ko.wikipedia.org/wiki/YTN).
 
 
-**YTN**()은 [대한민국](../Page/대한민국.md "wikilink")의 최초 [뉴스](../Page/뉴스.md "wikilink") 전문 TV 채널이다. [1993년](../Page/1993년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") 설립되었으며, YTN은 [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 방송을 시작했다. [연합통신(현 연합뉴스)의](../Page/연합뉴스.md "wikilink") 자회사로 출발하였으나, [1998년](../Page/1998년.md "wikilink")에 완전 독립하였다. [2000년 4월에](https://ko.wikipedia.org/wiki/2000년_4월 "wikilink") [남산 서울타워를](../Page/N서울타워.md "wikilink") 인수했으며, [2015년 12월](../Page/2015년_12월.md "wikilink"), 사무실동을 복합 문화공간으로 탈바꿈해 'YTN 서울타워 플라자'를 개관했다. 현재 YTN의 채널은 YTN Science (과학 채널), YTN Life (날씨, 생활정보 채널), YTN World (전세계 한국어 뉴스 채널) 등을 운영하고 있으며, 자회사는 YTN DMB의 ⓜYTN(YTN DMB1,종합 채널 DMB2, 뉴스 채널) (지상파 DMB TV 채널), YTN라디오의 YTN News FM(94.5㎒, 뉴스전문 라디오)까지 포함해 모두 채널 6개를 보유하고 있다. 본사는 서울 [마포구](../Page/마포구.md "wikilink") 상암동 [디지털 미디어 시티에](https://ko.wikipedia.org/wiki/디지털_미디어_시티 "wikilink") 위치한 "YTN 뉴스퀘어"에 있으며, 국내 16곳 (경기, 인천, 강원, 충남, 대전, 충북, 세종, 부산, 울산, 대구, 경북, 경남, 전남, 광주, 전북, 제주 등)과 해외 6곳(워싱턴, 뉴욕, LA, 베이징, 도쿄, 파리 등)에 지국을 운영하고 있다. 채널번호 (21,1TV 종합 24,2TV 뉴스)는 전국 어디서나 채널번호가 같다.
+**YTN**()은 [대한민국](../Page/대한민국.md "wikilink")의 최초 [뉴스](../Page/뉴스.md "wikilink") 전문 TV 채널이다. [1993년](../Page/1993년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") 설립되었으며, [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") 방송을 시작했다. [연합통신(현 연합뉴스)의](../Page/연합뉴스.md "wikilink") 자회사로 출발하였으나, [1998년](../Page/1998년.md "wikilink")에 완전 독립하였다. [2000년 4월에](https://ko.wikipedia.org/wiki/2000년_4월 "wikilink") [남산 서울타워를](../Page/N서울타워.md "wikilink") 인수했으며, [2015년 12월](../Page/2015년_12월.md "wikilink"), 사무실동을 복합 문화공간으로 탈바꿈해 'YTN 서울타워 플라자'를 개관했다. 현재 YTN의 채널은 YTN Science (과학 채널), YTN Life (날씨, 생활정보 채널), YTN World (전세계 한국어 뉴스 채널) 등을 운영하고 있으며, 자회사는 YTN DMB의 ⓜYTN(YTN DMB1,종합 채널 DMB2, 뉴스 채널) (지상파 DMB TV 채널), YTN라디오의 YTN News FM(94.5㎒, 뉴스전문 라디오)까지 포함해 모두 채널 6개를 보유하고 있다. 본사는 서울 [마포구](../Page/마포구.md "wikilink") 상암동 [디지털 미디어 시티에](https://ko.wikipedia.org/wiki/디지털_미디어_시티 "wikilink") 위치한 "YTN 뉴스퀘어"에 있으며, 국내 16곳 (경기, 인천, 강원, 충남, 대전, 충북, 세종, 부산, 울산, 대구, 경북, 경남, 전남, 광주, 전북, 제주 등)과 해외 6곳(워싱턴, 뉴욕, LA, 베이징, 도쿄, 파리 등)에 지국을 운영하고 있다. 채널번호 (21,1TV 종합 24,2TV 뉴스)는 전국 어디서나 채널번호가 같다.
 
 ## 연혁
 
-  - [1993년](../Page/1993년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") (주)연합텔레비전뉴스 설립
+  - [1993년](../Page/1993년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") (주)연합TV뉴스 설립
   - [1993년](../Page/1993년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") 종합보도채널 승인
-  - [1994년](../Page/1994년.md "wikilink") 종로구 수송동 YTN 스튜디오 공사
-  - [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") TV 방송 개국 (종로구 수송동 YTN 스튜디오 준공)
+  - [1994년](../Page/1994년.md "wikilink") 서울특별시 종로구 수송동 YTN 스튜디오 공사
+  - [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") TV 방송 개국 (서울특별시 종로구 수송동 YTN 스튜디오 준공)
   - [1995년](../Page/1995년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") 일본 민영방송사인 [TBS 텔레비전](../Page/TBS_텔레비전.md "wikilink") 보도협정 제휴
   - [1995년](../Page/1995년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink") YTN 도쿄지사를 TBS도쿄방송 방송센터 빅 햇 개설
   - [1997년](../Page/1997년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") [연합통신](https://ko.wikipedia.org/wiki/연합통신 "wikilink")에서 [한전KDN](../Page/한전KDN.md "wikilink")으로 대주주 변경
   - [1998년](../Page/1998년.md "wikilink") 연합통신(현 [연합뉴스](../Page/연합뉴스.md "wikilink"))에서 분사
-  - [1999년](../Page/1999년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") (주)와이티엔으로 사명 변경
+  - [1999년](../Page/1999년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") 사명을 (주)연합TV뉴스에서 (주)YTN으로 변경
   - [2000년](../Page/2000년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") [남산](../Page/남산_\(서울\).md "wikilink") [서울타워](https://ko.wikipedia.org/wiki/서울타워 "wikilink") 인수
   - [2001년](../Page/2001년.md "wikilink") [4월](../Page/4월.md "wikilink") 해외 위성 방송 시작
   - [2001년](../Page/2001년.md "wikilink") [9월](../Page/9월.md "wikilink") 코스닥 등록(매매 개시)
@@ -30,9 +30,9 @@
   - [2011년](../Page/2011년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") [YTN 웨더 채널](https://ko.wikipedia.org/wiki/YTN_웨더 "wikilink") 개국
   - [2014년](../Page/2014년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") YTN 새 CI 선포, Vision 2024 선포, 상암동 YTN 뉴스퀘어(Newsquare)로 신사옥 이전 및 준공
   - [2015년](../Page/2015년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") TV 방송 개국 20주년
-  - [2015년](../Page/2015년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") YTN 웨더→YTN 웨더&라이프로 채널명 변경
+  - [2015년](../Page/2015년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink") 채널명을 YTN 웨더에서 YTN 웨더&라이프로 변경
   - [2015년](../Page/2015년.md "wikilink") [12월](../Page/12월.md "wikilink") YTN 서울타워 플라자 개관
-  - [2017년](../Page/2017년.md "wikilink") [1월](../Page/1월.md "wikilink") YTN 웨더&라이프→YTN 라이프로 채널명 변경
+  - [2017년](../Page/2017년.md "wikilink") [1월](../Page/1월.md "wikilink") 채널명을 YTN 웨더&라이프에서 YTN 라이프로 변경
   - [2017년](../Page/2017년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink") 생방송 20만 시간 돌파
 
 ## 운영 채널
@@ -471,9 +471,9 @@
   - [1994년](../Page/1994년.md "wikilink"): 권영희, [김문경](https://ko.wikipedia.org/wiki/김문경 "wikilink"), [김선희](https://ko.wikipedia.org/wiki/김선희 "wikilink"), 김영수, [김정아](https://ko.wikipedia.org/wiki/김정아 "wikilink"), 김정한, [김진두](https://ko.wikipedia.org/wiki/김진두 "wikilink"), 류충섭, 오점곤, 정재훈, [정찬배](https://ko.wikipedia.org/wiki/정찬배 "wikilink"), 하성준, 함형건, [호준석](../Page/호준석.md "wikilink"), 김범환, 조승호, 현덕수, [노종면](../Page/노종면.md "wikilink")
   - [1995년](../Page/1995년.md "wikilink"): 김민태, 김종욱, 류재복, 박두만, 배성준, 성도현, 염덕선, 오승엽, 유제동, 임상호, 임장혁, 장명호, [정현교](https://ko.wikipedia.org/wiki/정현교 "wikilink"), 조주현, 최명신, 정해붕, 이영재
   - [1996년](../Page/1996년.md "wikilink"): 권석재, 권한주, 김영호, 김태형, 나경환, 박진수, 신현준, 이경준, 임승환, 최용호, 최재용, 한상옥
-  - [1997년](../Page/1997년.md "wikilink"): 김선중, 김종완, 박영진, 박정호, 유투권, 황보연
-  - [2000년](../Page/2000년.md "wikilink"): 김잔디, 서봉국, 이경재, 정유신
-  - [2001년](../Page/2001년.md "wikilink"): 김준영, [박신윤](https://ko.wikipedia.org/wiki/박신윤 "wikilink"), 신호, [이종구](https://ko.wikipedia.org/wiki/이종구 "wikilink"), [이광연](../Page/이광연.md "wikilink"), 홍상희, [황순욱](https://ko.wikipedia.org/wiki/황순욱 "wikilink")
+  - [1997년](../Page/1997년.md "wikilink"): 김선중, 김종완, 박영진, 박정호, 유투권, 황보연 , 기수경
+  - [2000년](../Page/2000년.md "wikilink"): 민연주, 김잔디, 서봉국, 이경재, 정유신 , 송이지
+  - [2001년](../Page/2001년.md "wikilink"): [박신윤](https://ko.wikipedia.org/wiki/박신윤 "wikilink"), 신호, [이종구](https://ko.wikipedia.org/wiki/이종구 "wikilink"), [이광연](../Page/이광연.md "wikilink"), 홍상희 , 이우영,
   - [2003년](../Page/2003년.md "wikilink"): [김선영](https://ko.wikipedia.org/wiki/김선영 "wikilink"), 홍선기, 윤현숙, 김재형, 박소정, 윤재희, 이승민, 최영주, 이동규, 이승준
   - [2005년](../Page/2005년.md "wikilink"): 강영관, 권준기, 김종호, 고재형, 고한석, 곽영주, 구수본, 박종혁, 이강진, 이만수, 이상은, 이선아, 이승윤, 이지은, 전준형, 최지환, [서정호](https://ko.wikipedia.org/wiki/서정호 "wikilink"), 송병준, 이은영 등 이상 공채 9기, 김여진
   - [2006년](../Page/2006년.md "wikilink"): 박기현, 이세나, 홍주예, 황혜경
