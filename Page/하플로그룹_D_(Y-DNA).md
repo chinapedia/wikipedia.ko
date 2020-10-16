@@ -16,8 +16,9 @@
                   - **D1a1** (F6251/Z27276)
                       - **D1a1a** (M15)　[티베트](../Page/티베트.md "wikilink")\[3\]
                       - **D1a1b** (P99)　[티베트](../Page/티베트.md "wikilink"), [몽골](../Page/몽골.md "wikilink"), [중앙아시아](../Page/중앙아시아.md "wikilink")\[4\]
-                  - **D1a2** (M64.1/Page44.1, M55) [일본](../Page/일본.md "wikilink")\[5\]
-                  - **D1a3** (Y34637)　[안다만 제도](https://ko.wikipedia.org/wiki/안다만_제도 "wikilink")\[6\]
+                  - **D1a2** (Z3660)
+                      - **D1a2a** (M64.1/Page44.1, M55) [일본](../Page/일본.md "wikilink")\[5\]
+                      - **D1a2b** (Y34637)　[안다만 제도](https://ko.wikipedia.org/wiki/안다만_제도 "wikilink")\[6\]
               - **D1b** (L1378) [필리핀](../Page/필리핀.md "wikilink")\[7\]
           - **D2** (A5580.2) 　[나이지리아](../Page/나이지리아.md "wikilink")\[8\], [사우디아라비아](../Page/사우디아라비아.md "wikilink"). [시리아](../Page/시리아.md "wikilink")\[9\]
 

@@ -118,7 +118,7 @@
 
 ## 동시간대 경쟁 뉴스 프로그램
 
-  - [KBS 뉴스 (1400)](../Page/KBS_뉴스_\(1400\).md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [KBS 뉴스 (1400)](../Page/KBS_뉴스_\(1400\).md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
   - [2시 뉴스외전](../Page/2시_뉴스외전.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
   - [주영진의 뉴스브리핑](../Page/주영진의_뉴스브리핑.md "wikilink") ([SBS TV](../Page/SBS_TV.md "wikilink"))
   - [전용우의 뉴스ON](../Page/전용우의_뉴스ON.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))

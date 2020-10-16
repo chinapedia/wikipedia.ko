@@ -56,4 +56,4 @@
 2.  최초의 OST 앨범.
 3.  [성시경](https://ko.wikipedia.org/wiki/성시경 "wikilink")도 앨범 참여.
 4.  [김민진](https://ko.wikipedia.org/wiki/김민진 "wikilink")도 앨범 참여.
-5.  [8eight](../Page/8eight.md "wikilink")의 멤버 [이현](https://ko.wikipedia.org/wiki/이현 "wikilink")도 앨범 참여.
+5.  [8eight](../Page/8eight.md "wikilink")의 멤버 [이현](../Page/이현.md "wikilink")도 앨범 참여.

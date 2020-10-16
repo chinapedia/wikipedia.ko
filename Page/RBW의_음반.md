@@ -242,6 +242,10 @@
   - 2020년 8월 19일 원어스 - **LIVED**
   - 2020년 8월 29일 오연 - **\[Digital Single\] 자판기**
   - 2020년 9월 10일 마마무 - **\[Digital Single\] WANNA BE MYSELF**
+  - 2020년 9월 24일 원위 - **\[Digital Single\] 소행성 (Parting)**
+  - 2020년 9월 28일 휘인 - **청춘기록 OST Part.4**
+  - 2020년 10월 10일 화사\[48\] - **\[Digital Single\] Don't Touch Me**\[49\]
+  - 2020년 11월 마마무 - **미정**
   - 2020년 ?월 ?일 [퍼플키스](https://ko.wikipedia.org/wiki/퍼플키스 "wikilink") - **미정**
 
 ## 각주
@@ -295,3 +299,5 @@
 45. [케이시도](../Page/케이시_\(가수\).md "wikilink") 앨범 참여.
 46. 문별 미니 1집의 선공개곡.
 47. [로드 투 킹덤](https://ko.wikipedia.org/wiki/로드_투_킹덤 "wikilink") 파이널 경연 곡
+48. 걸그룹 [환불원정대](https://ko.wikipedia.org/wiki/환불원정대 "wikilink")
+49. [엄정화](../Page/엄정화.md "wikilink"), [이효리](../Page/이효리.md "wikilink"), [제시도](../Page/제시_\(가수\).md "wikilink") 참여.

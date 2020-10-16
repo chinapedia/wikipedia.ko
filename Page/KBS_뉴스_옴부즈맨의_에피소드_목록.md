@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 뉴스 옴부즈맨의 에피소드 목록](https://ko.wikipedia.org/wiki/KBS_뉴스_옴부즈맨의_에피소드_목록).
 
 
-아래는 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [한국방송공사의 뉴스 프로그램인](../Page/한국방송공사의_뉴스_프로그램.md "wikilink") **《[KBS 뉴스 옴부즈맨](../Page/KBS_뉴스_옴부즈맨.md "wikilink")》**의 방영 목록이다.
+아래는 [KBS 1TV의](../Page/KBS_1TV.md "wikilink") [한국방송공사의 뉴스 프로그램에서](../Page/한국방송공사의_뉴스_프로그램.md "wikilink") 투명성과 공정성을 높이기 위하여 방송되었던 **《[KBS 뉴스 옴부즈맨](../Page/KBS_뉴스_옴부즈맨.md "wikilink")》**의 방영 목록이다.
 
 ## 방영 목록
 

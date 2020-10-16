@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [They Hunger](https://ko.wikipedia.org/wiki/They_Hunger).
 
 
-《**They Hunger**》는 [밸브 코퍼레이션의](../Page/밸브_코퍼레이션.md "wikilink") [1인칭 슈팅](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink") [하프라이프의](../Page/하프라이프_\(비디오_게임\).md "wikilink") 1인용 [호러](../Page/공포물.md "wikilink") 기반 [모드이다](../Page/모드_\(비디오_게임\).md "wikilink"). 3개의 [에피소드](https://ko.wikipedia.org/wiki/에피소드 "wikilink")로 Neil Manke의 [블랙 윈도 게임스에](https://ko.wikipedia.org/wiki/블랙_윈도_게임스 "wikilink") 의해 출시되었으며, 첫 번째 에피소드는 1999년에, 두 번째 에피소드는 2000년에, 마지막 에피소드는 2001년에 출시되었다. 3개의 에피소드 모두 [PC 게이머와](https://ko.wikipedia.org/wiki/PC_게이머 "wikilink") 함께 번들되었다.
+《**They Hunger**》는 [밸브 코퍼레이션의](../Page/밸브_코퍼레이션.md "wikilink") [1인칭 슈팅](../Page/1인칭_슈팅_게임.md "wikilink") [하프라이프의](../Page/하프라이프_\(비디오_게임\).md "wikilink") 1인용 [호러](../Page/공포물.md "wikilink") 기반 [모드이다](../Page/모드_\(비디오_게임\).md "wikilink"). 3개의 [에피소드](https://ko.wikipedia.org/wiki/에피소드 "wikilink")로 Neil Manke의 [블랙 윈도 게임스에](https://ko.wikipedia.org/wiki/블랙_윈도_게임스 "wikilink") 의해 출시되었으며, 첫 번째 에피소드는 1999년에, 두 번째 에피소드는 2000년에, 마지막 에피소드는 2001년에 출시되었다. 3개의 에피소드 모두 [PC 게이머와](https://ko.wikipedia.org/wiki/PC_게이머 "wikilink") 함께 번들되었다.
 
 ## 스토리
 
