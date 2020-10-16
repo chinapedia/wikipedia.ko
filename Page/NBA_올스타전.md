@@ -277,7 +277,7 @@
 <td><p>1974</p></td>
 <td><p>1월 15일</p></td>
 <td><p>서부 134, 동부 123</p></td>
-<td><p><a href="../Page/키_아레나.md" title="wikilink">시애틀 센터 콜리시엄</a></p></td>
+<td><p><a href="../Page/클라이멋_플레지_아레나.md" title="wikilink">시애틀 센터 콜리시엄</a></p></td>
 <td><p>14,360</p></td>
 <td><p><a href="../Page/시애틀_슈퍼소닉스_(1967년).md" title="wikilink">시애틀 슈퍼소닉스</a></p></td>
 <td><p><a href="../Page/워싱턴주.md" title="wikilink">워싱턴주</a> <a href="../Page/시애틀.md" title="wikilink">시애틀</a></p></td>

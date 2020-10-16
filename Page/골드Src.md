@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [골드Src](https://ko.wikipedia.org/wiki/골드Src).
 
 
-**골드Src**()는 [밸브 코퍼레이션에서](../Page/밸브_코퍼레이션.md "wikilink") [퀘이크 엔진 2을](https://ko.wikipedia.org/wiki/Id_테크_2 "wikilink") 수정, 개조한 게임 엔진이다. 1998년 [공상 과학](https://ko.wikipedia.org/wiki/공상_과학 "wikilink") [1인칭 슈팅 게임인](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink") 하프라이프에 최초 사용되었다. GoldSrc엔진은 OpenGL과 Direct3D를 렌더링 할 수 있다.
+**골드Src**()는 [밸브 코퍼레이션에서](../Page/밸브_코퍼레이션.md "wikilink") [퀘이크 엔진 2을](https://ko.wikipedia.org/wiki/Id_테크_2 "wikilink") 수정, 개조한 게임 엔진이다. 1998년 [공상 과학](https://ko.wikipedia.org/wiki/공상_과학 "wikilink") [1인칭 슈팅 게임인](../Page/1인칭_슈팅_게임.md "wikilink") 하프라이프에 최초 사용되었다. GoldSrc엔진은 OpenGL과 Direct3D를 렌더링 할 수 있다.
 
 2004년 [카운터-스트라이크: 소스와](../Page/카운터-스트라이크:_소스.md "wikilink") [하프 라이프 2의](https://ko.wikipedia.org/wiki/하프_라이프_2 "wikilink") 엔진인 [소스엔진](https://ko.wikipedia.org/wiki/소스엔진 "wikilink")이 골드 소스의 뒤를 이었다.
 

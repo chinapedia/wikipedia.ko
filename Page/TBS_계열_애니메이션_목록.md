@@ -34,7 +34,7 @@ __NOTOC__
   - [더 울트라맨](https://ko.wikipedia.org/wiki/더_울트라맨 "wikilink") (ザ☆ウルトラマン / 1979년)
   - [딸기 마시마로](../Page/딸기_마시마로.md "wikilink") ▼◆ (苺ましまろ / 2005년)
   - [다가시카시](../Page/다가시카시.md "wikilink") ▼◆ (2016년)
-  - [단간론파](https://ko.wikipedia.org/wiki/단간론파 "wikilink") ▼◆ (2013년, 2016년)
+  - [단간론파](../Page/단간론파.md "wikilink") ▼◆ (2013년, 2016년)
   - [듀라라라\!](https://ko.wikipedia.org/wiki/듀라라라! "wikilink") ▼◆(2010년, 2015년, 2016년)
 
 ## ㄹ
