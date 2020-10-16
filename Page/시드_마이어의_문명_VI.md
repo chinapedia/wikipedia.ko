@@ -8,7 +8,7 @@
 ## 외부 링크
 
   -
-[분류:2016년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2016년_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:스팀 배급 게임](https://ko.wikipedia.org/wiki/분류:스팀_배급_게임 "wikilink") [분류:MacOS 게임](https://ko.wikipedia.org/wiki/분류:MacOS_게임 "wikilink") [분류:문명 (비디오 게임)](https://ko.wikipedia.org/wiki/분류:문명_\(비디오_게임\) "wikilink") [분류:턴제 전략 게임](https://ko.wikipedia.org/wiki/분류:턴제_전략_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:리눅스 게임](https://ko.wikipedia.org/wiki/분류:리눅스_게임 "wikilink")
+[분류:2016년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2016년_비디오_게임 "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:MacOS 게임](https://ko.wikipedia.org/wiki/분류:MacOS_게임 "wikilink") [분류:문명 (비디오 게임)](https://ko.wikipedia.org/wiki/분류:문명_\(비디오_게임\) "wikilink") [분류:턴제 전략 게임](https://ko.wikipedia.org/wiki/분류:턴제_전략_게임 "wikilink") [분류:IOS 게임](https://ko.wikipedia.org/wiki/분류:IOS_게임 "wikilink") [분류:리눅스 게임](https://ko.wikipedia.org/wiki/분류:리눅스_게임 "wikilink")
 
 1.
 2.
