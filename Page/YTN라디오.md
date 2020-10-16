@@ -5,7 +5,7 @@
 
 ## 개요
 
-[2008년](../Page/2008년.md "wikilink") [4월 30일에](../Page/4월_30일.md "wikilink") 개국하였으며 매 15분마다 뉴스를 보도하는 것이 특징이다.\[1\] [2010년](../Page/2010년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") 송신소를 안양시 삼성산에서 성남시 청계산으로 옮겨 가청권을 확대하였으며, [대한민국](../Page/대한민국.md "wikilink")의 [수도권](../Page/수도권.md "wikilink") 지역에서 청취할 수 있다. 24시간 방송이다.
+[2008년](../Page/2008년.md "wikilink") [4월 30일에](../Page/4월_30일.md "wikilink") 개국하였으며 매 15분마다 뉴스를 보도하는 것이 특징이다.\[1\] [2010년](../Page/2010년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") 송신소를 안양시 삼성산에서 성남시 청계산으로 옮겨 가청권을 확대하였다. [대한민국](../Page/대한민국.md "wikilink")의 [수도권](../Page/수도권.md "wikilink") 지역에서 청취할 수 있으며, 24시간 방송이다.
 
 ## 방송 송출 시설망
 
@@ -383,22 +383,12 @@
 
 ## 로고송 (광고가 없는 시보)
 
-  - 뉴스는 YTN
-  - 당신을 향합니다 YTN\~
-  - 한국의 뉴스채널 YTN\~
-  - AlWays First YTN
-  - 살아있는 뉴스\~ 깨어있는 방송\~ YTN\~ YTN
-  - 살아있는 뉴스\~ 깨어있는 방송\~ 한국의 뉴스채널 YTN\~ (News FM)
-  - 살아있는 뉴스\~ 깨어있는 방송\~ YTN\~ (News FM 사랑해요)
-  - Yes Top News Yes Top News YTN
-
 ## 같이 보기
 
-  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
+  - [KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink")
   - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
-  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
-  - [CBS 표준FM](../Page/CBS_표준FM.md "wikilink")
   - [가톨릭평화방송](../Page/가톨릭평화방송.md "wikilink")
+  - [원음방송](../Page/원음방송.md "wikilink")
   - [불교방송](../Page/불교방송.md "wikilink")
 
 ## 참조

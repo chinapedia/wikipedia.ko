@@ -51,7 +51,7 @@ PMP 엔터테인먼트에 의해 VCD를 통해 영어 제목으로는 Crayon Shi
 
   - [노하라 신노스케](../Page/노하라_신노스케.md "wikilink") (**신짱구**)
   - [노하라 히로시](../Page/노하라_히로시.md "wikilink") ([신형만](../Page/노하라_히로시.md "wikilink"))
-  - [노하라 미사에](../Page/노하라_미사에.md "wikilink") ([노하라 미사에](../Page/봉미선.md "wikilink"))
+  - [노하라 미사에](../Page/노하라_미사에.md "wikilink") ([봉미선](../Page/노하라_미사에.md "wikilink"))
   - [시로](../Page/시로_\(캐릭터\).md "wikilink") (흰둥이)
   - [카자마 토루](../Page/카자마_토루.md "wikilink") (김철수)
   - [사토 마사오](../Page/사토_마사오.md "wikilink") (이훈이)

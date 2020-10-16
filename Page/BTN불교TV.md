@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BTN불교TV](https://ko.wikipedia.org/wiki/BTN불교TV).
 
 
-**BTN불교TV**는 [1995년](../Page/1995년.md "wikilink") [3월 1일에](../Page/3월_1일.md "wikilink") 개국한 [대한민국](../Page/대한민국.md "wikilink")의 TV 불교 방송국이다.
+**BTN불교TV**는 [1995년](../Page/1995년.md "wikilink") [3월 1일에](../Page/3월_1일.md "wikilink") 개국한 [대한민국](../Page/대한민국.md "wikilink")의 TV 불교 방송국이다. 불교를 전문으로 하는 텔레비전 방송국으로는 세계 최초였다.\[1\]
 
 ## 개요
 
@@ -36,3 +36,5 @@
   - [BTN불교TV](http://btn.co.kr)
 
 [분류:1995년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:1995년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:대한민국의 불교](https://ko.wikipedia.org/wiki/분류:대한민국의_불교 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:종교 방송](https://ko.wikipedia.org/wiki/분류:종교_방송 "wikilink")
+
+1.
