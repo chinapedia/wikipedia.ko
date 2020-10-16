@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS배 세계바둑최강전](https://ko.wikipedia.org/wiki/SBS배_세계바둑최강전).
 
 
-**SBS배 세계바둑최강전**은 [대한민국](../Page/대한민국.md "wikilink"), [중국](../Page/중국.md "wikilink"), [일본](../Page/일본.md "wikilink")의 [1991년](../Page/1991년.md "wikilink") [SBS](../Page/SBS.md "wikilink")의 개국을 기념하여 이벤트 기전으로 열린 SBS배 세계 바둑 최강전의 후속 기전이다.
+**SBS배 세계바둑최강전**은 [대한민국](../Page/대한민국.md "wikilink"), [중국](../Page/중국.md "wikilink"), [일본](../Page/일본.md "wikilink")의 [1991년](../Page/1991년.md "wikilink") [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 개국을 기념하여 이벤트 기전으로 열린 SBS배 세계 바둑 최강전의 후속 기전이다.
 
 ## 대회 일정
 
@@ -14,13 +14,15 @@
 | 시상식 및 폐막식 |                               |             |
 |           |                               |             |
 
-## 참가 출전 기사 명단
+## 출전 기사 명단
+
+각 국 기사는 순번임
 
   - [일본](../Page/일본.md "wikilink"): 미야자와 고로, 요다 노리모토, 아와지 슈조, 린하이펑, 다케미야 마사키
   - [대한민국](../Page/대한민국.md "wikilink"): [유창혁](../Page/유창혁.md "wikilink"), [서능욱](../Page/서능욱.md "wikilink"), [이창호](../Page/이창호.md "wikilink"), [서봉수](../Page/서봉수.md "wikilink"), [조훈현](../Page/조훈현.md "wikilink")
   - [중국](../Page/중국.md "wikilink"): 차오다위안, 위빈, 류사오광, 마샤오춘, 녜웨이핑
 
-### 대국 결과
+## 대국 결과
 
 <table>
 <thead>
@@ -232,6 +234,8 @@
 </tbody>
 </table>
 
-결과: 대한민국 우승 (7승 3패, [조훈현](../Page/조훈현.md "wikilink") 9단(한국 주장)은 출전하지 않음), 중국 준우승 (3승 5패), 일본 3위 (3승 5패)
+## 대회 결과
+
+대한민국 우승 (7승 3패, [조훈현](../Page/조훈현.md "wikilink") 9단(한국 주장)은 출전하지 않음), 중국 준우승 (3승 5패), 일본 3위 (3승 5패)
 
 [SBS](https://ko.wikipedia.org/wiki/분류:진로배_SBS_세계바둑최강전 "wikilink") [분류:1991년 바둑](https://ko.wikipedia.org/wiki/분류:1991년_바둑 "wikilink")

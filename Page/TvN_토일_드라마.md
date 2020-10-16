@@ -1,9 +1,11 @@
 > This article is converted from Wikipedia: [TvN 토일 드라마](https://ko.wikipedia.org/wiki/TvN_토일_드라마).
 
 
-**tvN 토일 드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [토요일](../Page/토요일.md "wikilink")부터 [일요일](../Page/일요일.md "wikilink") 오후 9시에 방송하는 [텔레비전 드라마다](../Page/텔레비전_드라마.md "wikilink").
+**tvN 토일 드라마**는 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [토요일](../Page/토요일.md "wikilink")부터 [일요일](../Page/일요일.md "wikilink") 오후 9시에 방송하는 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
 방송사 개편에 따라 [2017년](../Page/2017년.md "wikilink") [6월 10일부터](../Page/6월_10일.md "wikilink") [tvN 금토 드라마가](https://ko.wikipedia.org/wiki/tvN_금토_드라마 "wikilink") 토일 드라마로 변경됐다.\[1\]
+
+대부분 미니 시리즈 드라마 형식으로 방송 중이다.
 
 ## 방송 시간
 
@@ -50,7 +52,7 @@
   - 《[하이바이, 마마\!](../Page/하이바이,_마마!.md "wikilink")》 : 2020년 2월 22일 \~ 2020년 4월 19일
   - 《[화양연화 - 삶이 꽃이 되는 순간](../Page/화양연화_\(드라마\).md "wikilink")》 : 2020년 4월 25일 \~ 2020년 6월 14일
   - 《[사이코지만 괜찮아](../Page/사이코지만_괜찮아.md "wikilink")》 : 2020년 6월 20일 \~ 2020년 8월 9일
-  - 《[비밀의 숲 2](https://ko.wikipedia.org/wiki/비밀의_숲_2 "wikilink")》 : 2020년 8월 15일 \~ **현재**
+  - 《[비밀의 숲 2](https://ko.wikipedia.org/wiki/비밀의_숲_2 "wikilink")》 : 2020년 8월 15일 \~ 2020년 10월 4일
   - 《[스타트업](../Page/스타트업_\(드라마\).md "wikilink")》 : 2020년 10월 17일 \~ **방영 예정**
 
 ## 같이 보기

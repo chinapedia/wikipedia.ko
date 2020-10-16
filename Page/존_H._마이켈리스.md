@@ -3,17 +3,34 @@
 
 **존 허시 마이켈리스**(, 1912년 8월 20일 \~ 1985년 10월 31일)는 [미국 육군](../Page/미국_육군.md "wikilink") [4성 장군](../Page/4성_장군.md "wikilink") 출신의 [군인](../Page/군인.md "wikilink")이다. 주한 [유엔군사령부](https://ko.wikipedia.org/wiki/유엔군사령부 "wikilink"), [주한 미군](../Page/주한_미군.md "wikilink"), [미8군](https://ko.wikipedia.org/wiki/미8군 "wikilink")(유엔사/COMUSFK/CG EUSA)에서 1969년부터 1972년까지 총사령관을 지냈다.
 
-1936년 [미국 육군사관학교를](../Page/미국_육군사관학교.md "wikilink") 졸업했다. [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 당시 그는 [제502낙하산보병연대](https://ko.wikipedia.org/wiki/제502낙하산보병연대 "wikilink")의 부지휘관이었으나, 지휘관 [조지 밴 혼 모세이 주니어](https://ko.wikipedia.org/wiki/조지_밴_혼_모세이_주니어 "wikilink")(George Van Horn Moseley, Jr.)가 [노르망디 상륙 작전](https://ko.wikipedia.org/wiki/노르망디_상륙_작전 "wikilink") 중 비행기 낙하에서 다리 골절 부상을 당하자 부대의 지휘를 맡게 되었다. 나중에 마이켈리스는 네덜란드에서 심한 부상을 입었다. 마이켈리스는 1947년에서 1948년까지 [드와이트 D. 아이젠하워의](../Page/드와이트_D._아이젠하워.md "wikilink") 보좌관으로 복무했고, [한국 전쟁](../Page/한국_전쟁.md "wikilink") 당시 [낙동강 전투에서](https://ko.wikipedia.org/wiki/낙동강_전투 "wikilink") "Wolfhounds"로 알려진 미군 [제27 보병 연대를](https://ko.wikipedia.org/wiki/제27_보병_연대 "wikilink") 지휘했으며, 훗날 이때의 공적으로 공로 훈장을 받았다. 
+## 역사
 
-그가 대령으로 "Wolfhounds"를 지휘하기 시작했을 때, 미군 대부분은 쉽게 무너지거나 퇴각하였다. 그러나 8군 사령관 Michael Ridgeway 장군은, 공수부대 지휘관을 역임한 마이켈리스 대령이 부대가 포위될 위험에 처해 있어도 당황하지 않을 것이라고 보았다. 실제로 마이켈리스의 부대는 화력을 연동시켜 부대 전체를 보존할 수 있다면, 공중 보급을 통해 포위 상태에서도 버틸 수 있었다. 1950년 12월, 미 8군 사령관으로 부임한 Matt Ridgeway 중장은 "더 이상 퇴각 불가"의 전쟁을 계속하기 원했고, 이에 따라 마이켈리스와 같은 지휘관을 더 많이 확보하려고했다. 장군은 부임 직후, 마이켈리스의 부대를 시작으로 Wolfhound라는 공세 작전을 펼쳐 북진 공격했고 이후 떨어졌던 군대의 사기가 개선되었다. 마이켈리스 부대는 유엔군의 완전한 턴어라운드가 되는 전쟁의 새로운 단계를 열었다.
+### 제2차 세계 대전
 
-미국 역사 학자 [클레이 블레어에](https://ko.wikipedia.org/wiki/클레이_블레어 "wikilink") 따르면 마이켈리스는 [터키 여단의](../Page/터키_여단.md "wikilink") 전투 준비 태세를 비관적인 태도로 묘사했다고 한다. 블레어는 [종군 기자들이](../Page/종군_기자.md "wikilink") 터키군대가 "콧수염과 거친 피부색과 치열한 태도"에 힘 입어 "강한" 군대라고 생각했지만, 사실 그들은 "훈련 잘 받지 못하고 통솔하기 힘들며 전투에 유약했다."고 평가했다. 블레어는 마이켈리스가 한 말을 다음과 같이 인용했다. "*터키 부대는 1916년 영국군과 갈리폴리 전투에서 사단장으로 싸웠던 나이 많은 준장이 지휘했다\! 그는 많이 존경 받았으며 터키 군부대에서 최고였으며 여단을 지휘하기 위해 준장으로 임명되었다. 여단의 군인들은 러시아 국경 가까운 터키의 대초원 지역에서 왔는데, 3\~4 년의 학교 생활이 전부였고, 출신 배경이 미미했으며, 당국에 의해 징집된 후 제복과 소총을 지급 받고, 거의 훈련을 받지 못한 채 배에 실려 1만 마일을 항해 한 후 전투에 투입된 결과 '한국, 그게 어디지요?'라고 물었고, 적들이 거기 어딘가에 있다고 하면서 그들을 잡아라\! 고 명령하면 터키 군인들은 머리를 긁으면서 '지휘관이 내게 무어라고 했어?' 라고 물었다*"
+1936년 [미국 육군사관학교를](../Page/미국_육군사관학교.md "wikilink") 졸업했다. [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 당시 그는 [제502낙하산보병연대의](https://ko.wikipedia.org/wiki/제502보병연대 "wikilink") 부지휘관이었으나, 지휘관 [조지 밴 혼 모세이 주니어](https://ko.wikipedia.org/wiki/조지_밴_혼_모세이_주니어 "wikilink")(George Van Horn Moseley, Jr.)가 [노르망디 상륙 작전](https://ko.wikipedia.org/wiki/노르망디_상륙_작전 "wikilink") 중 비행기 낙하에서 다리 골절 부상을 당하자, 부대의 지휘를 맡게 되었다. 나중에 마이켈리스는 네덜란드에서 심한 부상을 입었다. 마이켈리스는 1947년에서 1948년까지 [드와이트 D. 아이젠하워의](../Page/드와이트_D._아이젠하워.md "wikilink") 보좌관으로 복무했고\[1\],
 
-## 참고 문헌
+### 한국 전쟁
 
-  - [Blair 2003](https://books.google.com/books?ei=qARSU627OJOlsATzgYHgCQ&id=F-afAAAAMAAJ&dq=With+their+colorful%2C+flowing+mustaches%2C+swarthy+complexions%2C+and+fierce+demeanors%2C+they+gave+war+correspondents+and+others+the+impression+they+were+very+tough+soldiers.+The+reality+was+that+they+were+ill+trained%2C+ill+led%2C+and+green+to+combat.+Mike+Michaelis+remembered%3A+%22The+Turks+were+commanded+by+an+aged+brigadier+who+had+been+a+division+commander+at+Gallipoli+in+1916+fighting+the+British%21+He+was+highly+respected%2C+high+up+in+the+Turkish+military+establishment%2C+and+took+a+bust+to+brigadier+to+command+the+brigade.&focus=searchwithinvolume&q=reality+ill+trained+ill+led+green+combat), p. 451.
-  - \[<https://books.google.com/books?id=nYlxAAAAMAAJ&focus=searchwithinvolume&q=With+their+colorful%2C+flowing+mustaches%2C+swarthy+complexions%2C+and+fierce+demeanors%2C+they+gave+war+correspondents+and+others+the+impression+they+were+very+tough+soldiers.+The+reality+was+that+they+were+ill+trained%2C+ill+led%2C+and+green+to+combat.+Mike+Michaelis+remembered%3A+%22The+Turks+were+commanded+by+an+aged+brigadier+who+had+been+a+division+commander+at+Gallipoli+in+1916+fighting+the+British%21+He+was+highly+respected%2C+high+up+in+the+Turkish+military+establishment%2C+and+took+a+bust+to+brigadier+to+command+the+brigade>. Blair 1987\], p. 451.
-  - [Blair 2003](https://books.google.com/books?ei=ygRSU-zoF7a-sQSCkoHYAQ&id=F-afAAAAMAAJ&dq=Mike+Michaelis+remembered%3A+%22The+Turks+were+commanded+by+an+aged+brigadier+who+had+been+a+division+commander+at+Gallipoli+in+1916+fighting+the+British%21+He+was+highly+respected%2C+high+up+in+the+Turkish+military+establishment%2C+and+took+a+bust+to+brigadier+to+command+the+brigade.+The+average+Turk+soldier+in+the+brigade+came+from+the+steppe+country+of+Turkey%2C+near+Russia%2C+had+probably+had+only+three+or+four+years+of+school%2C+was+uprooted%2C+moved+to+western+Turkey%2C+given+a+uniform%2C+%5Ba%5D+rifle%2C+and+a+little+smattering+of+training%2C+stuck+on+a+ship%2C+sailed+ten+thousand+miles%2C+then+dumped+off+on+a+peninsula+%E2%80%93+%E2%80%98Korea%2C+where%E2%80%99s+that%3F%E2%80%99+%E2%80%93+and+told+the+enemy+was+up+there+someplace%2C+go+get+him%21+The+Turk+soldier+scratches+his+head+and+says%2C+%E2%80%98What%E2%80%99s+he+done+to+me%3F&focus=searchwithinvolume&q=smattering), p. 451.
-  - [Blair 1987](https://books.google.com/books?id=nYlxAAAAMAAJ&focus=searchwithinvolume&q=Mike+Michaelis+remembered%3A+%22The+Turks+were+commanded+by+an+aged+brigadier+who+had+been+a+division+commander+at+Gallipoli+in+1916+fighting+the+British%21+He+was+highly+respected%2C+high+up+in+the+Turkish+military+establishment%2C+and+took+a+bust+to+brigadier+to+command+the+brigade.+The+average+Turk+soldier+in+the+brigade+came+from+the+steppe+country+of+Turkey%2C+near+Russia%2C+had+probably+had+only+three+or+four+years+of+school%2C+was+uprooted%2C+moved+to+western+Turkey%2C+given+a+uniform%2C+%5Ba%5D+rifle%2C+and+a+little+smattering+of+training%2C+stuck+on+a+ship%2C+sailed+ten+thousand+miles%2C+then+dumped+off+on+a+peninsula+%E2%80%93+%E2%80%98Korea%2C+where%E2%80%99s+that%3F%E2%80%99+%E2%80%93+and+told+the+enemy+was+up+there+someplace%2C+go+get+him%21+The+Turk+soldier+scratches+his+head+and+says%2C+%E2%80%98What%E2%80%99s+he+done+to+me%3F), p. 451.
+[한국 전쟁](../Page/한국_전쟁.md "wikilink") 당시 [낙동강 전투에서](https://ko.wikipedia.org/wiki/낙동강_전투 "wikilink") "Wolfhounds"로 알려진 미군 [제27보병연대를](https://ko.wikipedia.org/wiki/제27보병연대_\(미국\) "wikilink") 지휘했으며, 훗날 이때의 공적으로 공로 훈장을 받았다.
 
+그가 대령으로 "Wolfhounds"를 지휘하기 시작했을 때, 미군 대부분은 쉽게 무너지거나 퇴각하였다. 그러나 [미국 제8군](../Page/제8군_\(미국\).md "wikilink") [사령관](https://ko.wikipedia.org/wiki/미국_제8군_사령관 "wikilink") [매슈 리지웨이](../Page/매슈_리지웨이.md "wikilink") 장군은, 공수부대장을 역임한 마이켈리스 대령이 부대가 포위될 위험에 처해 있어도 당황하지 않을 것이라고 보았다. 실제로 마이켈리스의 부대는 화력을 연동시켜 부대 전체를 보존할 수 있다면, 공중 보급을 통해 포위 상태에서도 버틸 수 있었다. 1950년 12월, 제8군 사령관으로 부임한 매슈 리지웨이 중장은 "더 이상 퇴각 불가"의 전쟁을 계속하기 원했고, 이에 따라 마이켈리스와 같은 지휘관을 더 많이 확보하려고 했다. 장군은 부임 직후, 마이켈리스의 부대를 시작으로 그의 부대의 별명을 딴 "Wolfhound"라는 공세 작전을 펼쳐 북진 공격했고 이후 떨어졌던 군대의 사기가 개선되었다. 마이켈리스 부대는 유엔군의 완전한 역전이 되는 전쟁의 새로운 단계를 열었다.
+
+미국의 [사학자](https://ko.wikipedia.org/wiki/사학자 "wikilink") [클레이 블레어에](https://ko.wikipedia.org/wiki/클레이_블레어 "wikilink") 따르면 마이켈리스는 [터키 여단의](../Page/터키_여단.md "wikilink") 전투 준비 태세를 비관적인 태도로 묘사했다고 한다. 블레어는 [종군 기자들이](../Page/종군_기자.md "wikilink") 터키군대가 "콧수염과 거친 피부색과 치열한 태도"에 힘 입어 "강한" 군대라고 생각했지만, 사실 그들은 "훈련 잘 받지 못하고 통솔하기 힘들며 전투에 유약했다."고 평가했다. 블레어는 마이켈리스가 한 말을 다음과 같이 인용했다.
+
+### 죽음
+
+마이켈리스는 1985년 10월 31일, [조지아주 클레이턴에서](https://ko.wikipedia.org/wiki/클레이턴_\(조지아주\) "wikilink") [심부전](../Page/심부전.md "wikilink")으로 죽었다. 그의 유해는 [알링턴 국립묘지에](https://ko.wikipedia.org/wiki/알링턴_국립묘지 "wikilink") 안장되었다.\[2\]
+
+## 참고
+
+### 인용
+
+<references/>
+
+### 자료
+
+  -
 [분류:1912년 태어남](https://ko.wikipedia.org/wiki/분류:1912년_태어남 "wikilink") [분류:1985년 죽음](https://ko.wikipedia.org/wiki/분류:1985년_죽음 "wikilink") [분류:미국 육군 대장](https://ko.wikipedia.org/wiki/분류:미국_육군_대장 "wikilink") [분류:미국 육군보병학교 동문](https://ko.wikipedia.org/wiki/분류:미국_육군보병학교_동문 "wikilink") [분류:미국의 제2차 세계 대전 참전 군인](https://ko.wikipedia.org/wiki/분류:미국의_제2차_세계_대전_참전_군인 "wikilink") [분류:미국의 한국 전쟁 참전 군인](https://ko.wikipedia.org/wiki/분류:미국의_한국_전쟁_참전_군인 "wikilink") [분류:미국 육군사관학교 동문](https://ko.wikipedia.org/wiki/분류:미국_육군사관학교_동문 "wikilink")
+
+1.
+2.

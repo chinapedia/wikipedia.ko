@@ -5,10 +5,9 @@
 
 ## 현재 소속 연예인
 
-  - [김필](../Page/김필_\(가수\).md "wikilink")
-
 ## 과거 소속 연예인
 
+  - [김필](../Page/김필_\(가수\).md "wikilink")
   - [다비치](../Page/다비치.md "wikilink")
   - [로이킴](https://ko.wikipedia.org/wiki/로이킴 "wikilink")
   - [에릭남](https://ko.wikipedia.org/wiki/에릭남 "wikilink")

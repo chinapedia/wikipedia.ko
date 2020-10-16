@@ -16,7 +16,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/JIBS" title="wikilink">JIBS</a></p></td>
-<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/5월_31일.md" title="wikilink">5월 31일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/6월_3일.md" title="wikilink">6월 3일</a> ~ <strong>현재</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 저녁 8시 35분 ~ 8시 55분 (20분)<br />
 <a href="https://ko.wikipedia.org/wiki/주말" title="wikilink">주말</a> 저녁 8시 30분 ~ 8시 45분 (15분)</p></td>
 </tr>
@@ -31,11 +31,11 @@
 
 ## 타이틀 변천사
 
-| 기수 | 타이틀         | 방송 기간                                                                                                                                                        |
-| -- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1기 | JIBS 종합뉴스   | [2002년](../Page/2002년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") |
-| 2기 | JIBS 820 뉴스 | [2014년](../Page/2014년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink")     |
-| 3기 | JIBS 8 뉴스   | [2017년](../Page/2017년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") \~ **현재**                                                                          |
+| 기수 | 타이틀         | 방송 기간                                                                                                                                                      |
+| -- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1기 | JIBS 종합뉴스   | [2002년](../Page/2002년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") |
+| 2기 | JIBS 820 뉴스 | [2014년](../Page/2014년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink")   |
+| 3기 | JIBS 8 뉴스   | [2017년](../Page/2017년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") \~ **현재**                                                                        |
 
 ## 관련 항목
 

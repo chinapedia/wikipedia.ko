@@ -116,14 +116,14 @@
 
 ### 방송
 
-| 방송사                                                      | 제목                                                             | 출연  | 기간                            | 역할      | 참고                                     |
-| -------------------------------------------------------- | -------------------------------------------------------------- | --- | ----------------------------- | ------- | -------------------------------------- |
-| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")    | 《[너의 목소리가 보여](../Page/너의_목소리가_보여.md "wikilink")》               | 전원  | 2017년 4월 20일                  | 미스터리 싱어 | [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") 편 |
-| [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 《[이웃집 찰스](https://ko.wikipedia.org/wiki/이웃집_찰스 "wikilink")》    | 전원  | 2017년 6월 20일                  | 게스트     |                                        |
-| [JTBC](../Page/JTBC.md "wikilink")                       | 《[팬텀싱어](../Page/팬텀싱어.md "wikilink")2》                          | 시메  | 2017년 8월 25일 \~ 2017년 10월 13일 | 참가자     |                                        |
-| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")    | 《[너의 목소리가 보여](../Page/너의_목소리가_보여.md "wikilink")》               | 시메  | 2018년 2월 16일                  | 패널      |                                        |
-| MBC                                                      | 캐스팅 콜                                                          | 프랭키 | 2018년 4월                      |         |                                        |
-| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink")    | 《[불후의 명곡 - 전설을 노래하다](../Page/불후의_명곡_-_전설을_노래하다.md "wikilink")》 | 시메  | 2018년 6월 2일                   | 출연자     |                                        |
+| 방송사                                                   | 제목                                                             | 출연  | 기간                            | 역할      | 참고                                     |
+| ----------------------------------------------------- | -------------------------------------------------------------- | --- | ----------------------------- | ------- | -------------------------------------- |
+| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") | 《[너의 목소리가 보여](../Page/너의_목소리가_보여.md "wikilink")》               | 전원  | 2017년 4월 20일                  | 미스터리 싱어 | [슈퍼주니어](../Page/슈퍼주니어.md "wikilink") 편 |
+| [KBS1](../Page/KBS_1TV.md "wikilink")                 | 《[이웃집 찰스](https://ko.wikipedia.org/wiki/이웃집_찰스 "wikilink")》    | 전원  | 2017년 6월 20일                  | 게스트     |                                        |
+| [JTBC](../Page/JTBC.md "wikilink")                    | 《[팬텀싱어](../Page/팬텀싱어.md "wikilink")2》                          | 시메  | 2017년 8월 25일 \~ 2017년 10월 13일 | 참가자     |                                        |
+| [Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink") | 《[너의 목소리가 보여](../Page/너의_목소리가_보여.md "wikilink")》               | 시메  | 2018년 2월 16일                  | 패널      |                                        |
+| MBC                                                   | 캐스팅 콜                                                          | 프랭키 | 2018년 4월                      |         |                                        |
+| [KBS2](https://ko.wikipedia.org/wiki/KBS2 "wikilink") | 《[불후의 명곡 - 전설을 노래하다](../Page/불후의_명곡_-_전설을_노래하다.md "wikilink")》 | 시메  | 2018년 6월 2일                   | 출연자     |                                        |
 
 ### 영화
 
