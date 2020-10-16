@@ -71,7 +71,7 @@
 <td><p>11회</p></td>
 <td><p><a href="../Page/9월_14일.md" title="wikilink">9월 14일</a></p></td>
 <td><p>윤도현, 허준, <a href="../Page/백지영.md" title="wikilink">백지영</a>, <a href="https://ko.wikipedia.org/wiki/바다_(가수)" title="wikilink">바다</a>, <a href="https://ko.wikipedia.org/wiki/서인국" title="wikilink">서인국</a>, <a href="../Page/승호.md" title="wikilink">승호</a>, <a href="../Page/김현중.md" title="wikilink">김현중</a><br />
-<a href="../Page/정엽_(가수).md" title="wikilink">정엽</a>, <a href="../Page/간미연.md" title="wikilink">간미연</a>, <a href="https://ko.wikipedia.org/wiki/이현" title="wikilink">이현</a>, <a href="../Page/린_(가수).md" title="wikilink">린</a>, <a href="../Page/박시연.md" title="wikilink">박시연</a>, <a href="https://ko.wikipedia.org/wiki/마이티_마우스" title="wikilink">마이티 마우스</a>, <a href="../Page/신해철.md" title="wikilink">신해철</a><br />
+<a href="../Page/정엽_(가수).md" title="wikilink">정엽</a>, <a href="../Page/간미연.md" title="wikilink">간미연</a>, <a href="../Page/이현.md" title="wikilink">이현</a>, <a href="../Page/린_(가수).md" title="wikilink">린</a>, <a href="../Page/박시연.md" title="wikilink">박시연</a>, <a href="https://ko.wikipedia.org/wiki/마이티_마우스" title="wikilink">마이티 마우스</a>, <a href="../Page/신해철.md" title="wikilink">신해철</a><br />
 <a href="../Page/김종서_(가수).md" title="wikilink">김종서</a>, <a href="../Page/엠블랙.md" title="wikilink">엠블랙</a>, <a href="../Page/이소은.md" title="wikilink">이소은</a>, <a href="../Page/백두산_(밴드).md" title="wikilink">백두산</a>, <a href="../Page/이은미_(1966년).md" title="wikilink">이은미</a>, <a href="../Page/자우림.md" title="wikilink">자우림</a></p></td>
 </tr>
 <tr class="even">

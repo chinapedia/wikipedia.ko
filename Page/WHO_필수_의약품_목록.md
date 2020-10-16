@@ -623,8 +623,8 @@
 
   - [글리클라자이드](https://ko.wikipedia.org/wiki/글리클라자이드 "wikilink")\[50\]
   - [글루카곤](../Page/글루카곤.md "wikilink")
-  - [인슐린](https://ko.wikipedia.org/wiki/인슐린 "wikilink") 주사
-  - 중간형 [인슐린](https://ko.wikipedia.org/wiki/인슐린 "wikilink")
+  - [인슐린](../Page/인슐린.md "wikilink") 주사
+  - 중간형 [인슐린](../Page/인슐린.md "wikilink")
   - [메트포르민](../Page/메트포르민.md "wikilink")
 
 ### 배란 유도제
