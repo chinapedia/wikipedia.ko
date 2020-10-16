@@ -117,6 +117,7 @@
   - 2020년 7월 17일 이든 - **\[Digital Single\] EDEN_STARDUST2 vol.02**\[38\]
   - 2020년 7월 29일 에이티즈 - **ATEEZ ZERO : FEVER Part.1**
   - 2020년 8월 24일 이든 - **\[Digital Single\] EDEN_STARDUST2 vol.03**\[39\]
+  - 2020년 9월 29일 이든 - **\[Digital Single\] EDEN_STARDUST2 vol.04**\[40\]
 
 ## 각주
 
@@ -161,3 +162,4 @@
 37. [우주소녀](../Page/우주소녀.md "wikilink")의 멤버 [설아](../Page/설아.md "wikilink")도 참여.
 38. [딘딘](../Page/딘딘.md "wikilink")도 앨범 참여.
 39. [지젤도](https://ko.wikipedia.org/wiki/지젤_\(가수\) "wikilink") 앨범 참여.
+40. [X.Q](https://ko.wikipedia.org/wiki/X.Q "wikilink")도 앨범 참여.

@@ -29,6 +29,7 @@ KNN 러브FM은 [2016년](../Page/2016년.md "wikilink") [5월 10일에](../Page
     KNN 러브FM 양산 중계소 개국.(**FM 88.5㎒, 20W**).
   - [2017년](../Page/2017년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") : KNN 러브FM 불모산 중계소 개국.('''FM 90.9㎒, 1㎾).
   - [2018년](../Page/2018년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink") : KNN 러브FM 장군대산 중계소 개국.('''FM 98.7㎒, 1㎾).
+  - [2020년](../Page/2020년.md "wikilink") [9월 28일](../Page/9월_28일.md "wikilink") : [KNN 파워FM](../Page/KNN_파워FM.md "wikilink") [라기오, 성은진의 노래하나 얘기둘](../Page/라기오,_성은진의_노래하나_얘기둘.md "wikilink") 수중계.
 
 ## 방송 송출 시설망
 
@@ -43,17 +44,17 @@ KNN 러브FM은 [2016년](../Page/2016년.md "wikilink") [5월 10일에](../Page
 
 ## 방송 프로그램
 
-| KNN LOVE FM                                                                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 프로그램명                                                                                                                                                                        |
-| [KNN 10시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1000\) "wikilink")                                                                                                       |
-| [1](http://www.knn.co.kr/category/radio/love-fm/elegantradio)[다희씨의 우아한 라디오](https://ko.wikipedia.org/wiki/우아한_라디오 "wikilink")                                                |
-| [KNN 2시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1410\) "wikilink")                                                                                                        |
-| [2](https://web.archive.org/web/20160524065758/http://www.knn.co.kr/category/radio/love-fm/goodchoice) [강영운의 딱좋은 라디오](../Page/딱좋은_라디오.md "wikilink")                         |
-| [3](https://web.archive.org/web/20200504145750/http://www.knn.co.kr/category/radio/love-fm/todaypmknn) [오늘 오후 KNN입니다](https://ko.wikipedia.org/wiki/오늘_오후_KNN입니다 "wikilink") |
-| [4](http://www.knn.co.kr/category/radio/power-fm/wellbeing_life) [KNN 웰빙라이프 (저녁)](../Page/KNN_웰빙라이프.md "wikilink")                                                           |
-| [KNN 6시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1800\) "wikilink")                                                                                                        |
-| [5](http://www.knn.co.kr/category/radio/love-fm/onnaradio) [박민설의 온나라디오](https://ko.wikipedia.org/wiki/온나라디오 "wikilink")                                                      |
+| KNN LOVE FM                                                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 프로그램명                                                                                                                                                |
+| [KNN 10시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1000\) "wikilink")                                                                               |
+| [1](http://www.knn.co.kr/category/radio/love-fm/elegantradio)[다희씨의 우아한 라디오](https://ko.wikipedia.org/wiki/우아한_라디오 "wikilink")                        |
+| [KNN 2시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1410\) "wikilink")                                                                                |
+| [2](https://web.archive.org/web/20160524065758/http://www.knn.co.kr/category/radio/love-fm/goodchoice) [강영운의 딱좋은 라디오](../Page/딱좋은_라디오.md "wikilink") |
+| [3](http://www.knn.co.kr/category/radio/power-fm/asong_story) [라기오 성은진의 노래하나 얘기둘](https://ko.wikipedia.org/wiki/라기오_성은진의_노래하나_얘기둘 "wikilink")        |
+| [4](http://www.knn.co.kr/category/radio/power-fm/wellbeing_life) [KNN 웰빙라이프 (저녁)](../Page/KNN_웰빙라이프.md "wikilink")                                   |
+| [KNN 6시 뉴스](https://ko.wikipedia.org/wiki/KNN_뉴스_\(1800\) "wikilink")                                                                                |
+| [5](http://www.knn.co.kr/category/radio/love-fm/onnaradio) [박민설의 온나라디오](https://ko.wikipedia.org/wiki/온나라디오 "wikilink")                              |
 
 ## 수신 가능 지역
 

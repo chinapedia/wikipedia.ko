@@ -26,7 +26,7 @@
 
 ## 동 시간대 경쟁 프로그램
 
-  - [4시 뉴스집중](../Page/사사건건_\(텔레비전_프로그램\).md "wikilink"), [KBS 뉴스 5](../Page/KBS_뉴스_5.md "wikilink") ([KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [4시 뉴스집중](../Page/사사건건_\(텔레비전_프로그램\).md "wikilink"), [KBS 뉴스 5](../Page/KBS_뉴스_5.md "wikilink") ([KBS1](../Page/KBS_1TV.md "wikilink"))
   - [MBC 이브닝뉴스](https://ko.wikipedia.org/wiki/MBC_이브닝뉴스 "wikilink") ([MBC](../Page/MBC_TV.md "wikilink"))
 
 [분류:SBS의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:SBS의_뉴스_텔레비전_프로그램 "wikilink")
