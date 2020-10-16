@@ -92,7 +92,7 @@
 <td><p>ENVARC:sys/net/hosts</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아미가OS" title="wikilink">아미가OS</a></p></td>
+<td><p><a href="../Page/아미가OS.md" title="wikilink">아미가OS</a></p></td>
 <td><p>4</p></td>
 <td><p>DEVS:Internet/hosts</p></td>
 </tr>

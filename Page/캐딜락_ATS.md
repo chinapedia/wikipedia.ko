@@ -26,7 +26,7 @@
   - [렉서스](../Page/렉서스.md "wikilink") - [IS](../Page/렉서스_IS.md "wikilink")
   - [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink") - [Q50](https://ko.wikipedia.org/wiki/인피니티_Q50 "wikilink")
   - [재규어](../Page/재규어_자동차.md "wikilink") - [XE](https://ko.wikipedia.org/wiki/재규어_XE "wikilink")
-  - [볼보](../Page/볼보.md "wikilink") - [S60](https://ko.wikipedia.org/wiki/볼보_S60 "wikilink")
+  - [볼보](../Page/볼보.md "wikilink") - [S60](../Page/볼보_S60.md "wikilink")
   - [알파 로메오](../Page/알파_로메오.md "wikilink") - [줄리아](https://ko.wikipedia.org/wiki/알파_로메오_줄리아 "wikilink")
 
 ## 외부 링크

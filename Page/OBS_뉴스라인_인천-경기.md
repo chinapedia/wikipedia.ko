@@ -34,7 +34,7 @@
 
 ## 관련 항목
 
-  - [KBS 뉴스라인](../Page/KBS_뉴스라인.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [KBS 뉴스라인](../Page/KBS_뉴스라인.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
 
 ## 동시간대 경쟁 뉴스 프로그램
 

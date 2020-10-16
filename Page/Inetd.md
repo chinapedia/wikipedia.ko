@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [Inetd](https://ko.wikipedia.org/wiki/Inetd).
 
 
-**inetd** (**i**nter**net** service **d**aemon)는 [유닉스](../Page/유닉스.md "wikilink") 시스템에서 돌아가는 [슈퍼 서버](https://ko.wikipedia.org/wiki/슈퍼_서버 "wikilink") [데몬으로서](../Page/데몬_\(컴퓨팅\).md "wikilink") [인터넷](../Page/인터넷.md "wikilink") 서비스들을 제공한다. 각 설정된 서비스들을 위해서, 이것은 연결된 클라이언트들로부터 요청을 리슨한다. 요청들은 적절한 실행 파일을 실행시키는 과정을 통해 서비스되지만, *echo* 같은 간단한 것들은 inetd 스스로 처리한다. 요청에 따라 실행되는 외부 실행 파일들은 단일 또는 다중 스레드일 수 있다. 처음 [4.3BSD에서](../Page/BSD.md "wikilink") 공개되었으며, 일반적으로 `/usr/sbin/inetd`에 위치한다.
+**inetd** (**i**nter**net** service **d**aemon)는 [유닉스](../Page/유닉스.md "wikilink") 시스템에서 돌아가는 [슈퍼 서버](../Page/슈퍼_서버.md "wikilink") [데몬으로서](../Page/데몬_\(컴퓨팅\).md "wikilink") [인터넷](../Page/인터넷.md "wikilink") 서비스들을 제공한다. 각 설정된 서비스들을 위해서, 이것은 연결된 클라이언트들로부터 요청을 리슨한다. 요청들은 적절한 실행 파일을 실행시키는 과정을 통해 서비스되지만, *echo* 같은 간단한 것들은 inetd 스스로 처리한다. 요청에 따라 실행되는 외부 실행 파일들은 단일 또는 다중 스레드일 수 있다. 처음 [4.3BSD에서](../Page/BSD.md "wikilink") 공개되었으며, 일반적으로 `/usr/sbin/inetd`에 위치한다.
 
 ## 기능
 
-종종 [슈퍼 서버로](https://ko.wikipedia.org/wiki/슈퍼_서버 "wikilink") 불리는 inetd는 [FTP](https://ko.wikipedia.org/wiki/FTP "wikilink"), [POP3](https://ko.wikipedia.org/wiki/POP3 "wikilink") 그리고 [텔넷](../Page/텔넷.md "wikilink") 등의 서비스들에서 사용하는 포트들을 리슨한다. [TCP](https://ko.wikipedia.org/wiki/TCP "wikilink") 패킷 또는 [UDP](https://ko.wikipedia.org/wiki/UDP "wikilink") 패킷이 특정한 목적 포트 번호로 도착하면, inetd는 적절한 서버 프로그램을 실행해서 연결을 처리하게 한다. 고하중으로 실행되도록 설계되지 않은 서비스들의 경우에 이 방식이 매우 효율적인게, 특정한 서버를 오직 필요할 때만 실행시킬 수 있기 때문이다. 게다가 inetd가 생성한 프로세스의 stdin, stdout 그리고 stderr을 직접 후킹하므로 서비스 프로그램들에서 네트워크 코드가 필요치 않다. 빈번한 트래픽이 발생하는 [HTTP](../Page/HTTP.md "wikilink")나 POP3 서버의 경우에는 트래픽을 직접 받는것이 더 선호된다.
+종종 [슈퍼 서버로](../Page/슈퍼_서버.md "wikilink") 불리는 inetd는 [FTP](https://ko.wikipedia.org/wiki/FTP "wikilink"), [POP3](https://ko.wikipedia.org/wiki/POP3 "wikilink") 그리고 [텔넷](../Page/텔넷.md "wikilink") 등의 서비스들에서 사용하는 포트들을 리슨한다. [TCP](https://ko.wikipedia.org/wiki/TCP "wikilink") 패킷 또는 [UDP](https://ko.wikipedia.org/wiki/UDP "wikilink") 패킷이 특정한 목적 포트 번호로 도착하면, inetd는 적절한 서버 프로그램을 실행해서 연결을 처리하게 한다. 고하중으로 실행되도록 설계되지 않은 서비스들의 경우에 이 방식이 매우 효율적인게, 특정한 서버를 오직 필요할 때만 실행시킬 수 있기 때문이다. 게다가 inetd가 생성한 프로세스의 stdin, stdout 그리고 stderr을 직접 후킹하므로 서비스 프로그램들에서 네트워크 코드가 필요치 않다. 빈번한 트래픽이 발생하는 [HTTP](../Page/HTTP.md "wikilink")나 POP3 서버의 경우에는 트래픽을 직접 받는것이 더 선호된다.
 
 ## 설치
 

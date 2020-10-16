@@ -1,16 +1,16 @@
 > This article is converted from Wikipedia: [KBS 웹드라마 스페셜](https://ko.wikipedia.org/wiki/KBS_웹드라마_스페셜).
 
 
-**KBS 웹드라마 스페셜**은 매주 [금요일](../Page/금요일.md "wikilink") 밤 1시에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 [웹드라마다](https://ko.wikipedia.org/wiki/웹_시리즈 "wikilink").
+**KBS 웹드라마 스페셜**은 매주 [금요일](../Page/금요일.md "wikilink") 밤 1시에 [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 방송되었던 [웹드라마다](https://ko.wikipedia.org/wiki/웹_시리즈 "wikilink").
 
 ## 개요
 
 ## 방송 시간
 
-| 방송 채널                                                       | 방송 기간                                                                                                                                                          | 방송 시간                                                    |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| [KBS 2TV](../Page/KBS_2TV.md "wikilink")                    | [2015년](../Page/2015년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink")       | 매주 [금요일](../Page/금요일.md "wikilink") 밤 1:00 \~ 2:00 (60분) |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | [2015년](../Page/2015년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") |                                                          |
+| 방송 채널                                    | 방송 기간                                                                                                                                                          | 방송 시간                                                    |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [KBS 2TV](../Page/KBS_2TV.md "wikilink") | [2015년](../Page/2015년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink")       | 매주 [금요일](../Page/금요일.md "wikilink") 밤 1:00 \~ 2:00 (60분) |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink") | [2015년](../Page/2015년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [11월 20일](../Page/11월_20일.md "wikilink") |                                                          |
 
 ## 작품 리스트
 
