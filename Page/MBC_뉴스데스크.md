@@ -356,7 +356,7 @@
 </tr>
 <tr class="odd">
 <td><p>매주 금요일 저녁 7:50 ~ 8:45</p></td>
-<td><p>55분</p></td>
+<td><p>55분[2]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1095,7 +1095,7 @@
 [왕종명](https://ko.wikipedia.org/wiki/왕종명 "wikilink") 기자ㅣ[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 아나운서
 [김경호](https://ko.wikipedia.org/wiki/김경호 "wikilink") 기자ㅣ[김초롱](../Page/김초롱.md "wikilink") 아나운서
 
-### 오늘의 주요뉴스\[2\]
+### 오늘의 주요뉴스\[3\]
 
 [김초롱](../Page/김초롱.md "wikilink") 아나운서
 
@@ -1119,7 +1119,7 @@
 [이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 아나운서
 [김초롱](../Page/김초롱.md "wikilink") 아나운서
 
-### MBC 뉴스데스크 2부 오프닝\[3\]
+### MBC 뉴스데스크 2부 오프닝\[4\]
 
 [왕종명](https://ko.wikipedia.org/wiki/왕종명 "wikilink") 기자ㅣ[이재은](https://ko.wikipedia.org/wiki/이재은 "wikilink") 아나운서
 
@@ -1167,7 +1167,7 @@
 
 <!-- end list -->
 
-  - ※ 단, 평일 진행자가 휴가, 해외 출장 시 주말 진행자가 대신 진행을 맡으며, 주말 진행자가 휴가, 해외 출장 시에는 평일 진행자가 대신 진행한다.\[4\]
+  - ※ 단, 평일 진행자가 휴가, 해외 출장 시 주말 진행자가 대신 진행을 맡으며, 주말 진행자가 휴가, 해외 출장 시에는 평일 진행자가 대신 진행한다.\[5\]
 
 #### 평일
 
@@ -1183,108 +1183,108 @@
 
 ### 평일
 
-  - [1970년](../Page/1970년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [1980년](../Page/1980년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink"): 故 박근숙\[5\], 곽노환, 김기주, 김기도, 이영익, 이은명, 김창식, 형진한, 하순봉, 정병수
+  - [1970년](../Page/1970년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [1980년](../Page/1980년.md "wikilink") [12월 12일](../Page/12월_12일.md "wikilink"): 故 박근숙\[6\], 곽노환, 김기주, 김기도, 이영익, 이은명, 김창식, 형진한, 하순봉, 정병수
   - [1980년](../Page/1980년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink") \~ [1987년](../Page/1987년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink"): 故 이득렬
   - [1987년](../Page/1987년.md "wikilink") [5월 1일](../Page/5월_1일.md "wikilink") \~ [1988년](../Page/1988년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink"), [1988년](../Page/1988년.md "wikilink") [8월 22일](../Page/8월_22일.md "wikilink") \~ [8월 29일](../Page/8월_29일.md "wikilink"): 강성구
   - [1988년](../Page/1988년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink") \~ [8월 19일](../Page/8월_19일.md "wikilink"), [1988년](../Page/1988년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink") \~ [11월 1일](../Page/11월_1일.md "wikilink"): 강성구, 백지연
-  - [1988년](../Page/1988년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") \~ [11월 4일](../Page/11월_4일.md "wikilink"): 송도균, 백지연\[6\]
+  - [1988년](../Page/1988년.md "wikilink") [11월 2일](../Page/11월_2일.md "wikilink") \~ [11월 4일](../Page/11월_4일.md "wikilink"): 송도균, 백지연\[7\]
   - [1988년](../Page/1988년.md "wikilink") [11월 7일](../Page/11월_7일.md "wikilink") \~ [1989년](../Page/1989년.md "wikilink") [8월 30일](../Page/8월_30일.md "wikilink"), [9월 13일](../Page/9월_13일.md "wikilink") \~ [9월 14일](../Page/9월_14일.md "wikilink"): 추성춘, 백지연
   - [1989년](../Page/1989년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") \~ [9월 8일](../Page/9월_8일.md "wikilink"), [9월 18일](../Page/9월_18일.md "wikilink") \~ [9월 19일](../Page/9월_19일.md "wikilink"): 차인태
   - [1989년](../Page/1989년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") \~ [9월 15일](../Page/9월_15일.md "wikilink"): 추성춘
-  - [1989년](../Page/1989년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") \~ [8월 11일](../Page/8월_11일.md "wikilink"), [1989년](../Page/1989년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") \~ [10월 6일](../Page/10월_6일.md "wikilink"): 차인태, 백지연\[7\]
+  - [1989년](../Page/1989년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") \~ [8월 11일](../Page/8월_11일.md "wikilink"), [1989년](../Page/1989년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") \~ [10월 6일](../Page/10월_6일.md "wikilink"): 차인태, 백지연\[8\]
   - [1989년](../Page/1989년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink") \~ [1992년](../Page/1992년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink"), [1993년](../Page/1993년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [9월 16일](../Page/9월_16일.md "wikilink"), [1995년](../Page/1995년.md "wikilink") [10월 2일](../Page/10월_2일.md "wikilink") \~ [1996년](../Page/1996년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink"): 엄기영, 백지연
   - [1990년](../Page/1990년.md "wikilink") [5월 3일](../Page/5월_3일.md "wikilink") \~ [5월 4일](../Page/5월_4일.md "wikilink"), [1990년](../Page/1990년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") \~ [5월 30일](../Page/5월_30일.md "wikilink"), [1990년](../Page/1990년.md "wikilink") [6월 7일](../Page/6월_7일.md "wikilink") \~ [6월 8일](../Page/6월_8일.md "wikilink"), [1991년](../Page/1991년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") \~ [9월 26일](../Page/9월_26일.md "wikilink"): 백지연
-  - [1990년](../Page/1990년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") \~ [6월 6일](../Page/6월_6일.md "wikilink"), [7월 20일](../Page/7월_20일.md "wikilink"), [9월 4일](../Page/9월_4일.md "wikilink") \~ [9월 6일](../Page/9월_6일.md "wikilink"), [12월 13일](../Page/12월_13일.md "wikilink") \~ [12월 14일](../Page/12월_14일.md "wikilink"), [1991년](../Page/1991년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") \~ [4월 19일](../Page/4월_19일.md "wikilink"), [1992년](../Page/1992년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [9월 4일](../Page/9월_4일.md "wikilink"), [1994년](../Page/1994년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink"), [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink"), [8월 15일](../Page/8월_15일.md "wikilink"), [12월 14일](../Page/12월_14일.md "wikilink"), [1996년](../Page/1996년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") \~ [4월 5일](../Page/4월_5일.md "wikilink"), [2002년](../Page/2002년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [10월 6일](../Page/10월_6일.md "wikilink"): 엄기영\[8\]
+  - [1990년](../Page/1990년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink") \~ [6월 6일](../Page/6월_6일.md "wikilink"), [7월 20일](../Page/7월_20일.md "wikilink"), [9월 4일](../Page/9월_4일.md "wikilink") \~ [9월 6일](../Page/9월_6일.md "wikilink"), [12월 13일](../Page/12월_13일.md "wikilink") \~ [12월 14일](../Page/12월_14일.md "wikilink"), [1991년](../Page/1991년.md "wikilink") [4월 18일](../Page/4월_18일.md "wikilink") \~ [4월 19일](../Page/4월_19일.md "wikilink"), [1992년](../Page/1992년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [9월 4일](../Page/9월_4일.md "wikilink"), [1994년](../Page/1994년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink"), [1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink"), [8월 15일](../Page/8월_15일.md "wikilink"), [12월 14일](../Page/12월_14일.md "wikilink"), [1996년](../Page/1996년.md "wikilink") [3월 15일](../Page/3월_15일.md "wikilink") \~ [4월 5일](../Page/4월_5일.md "wikilink"), [2002년](../Page/2002년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [10월 6일](../Page/10월_6일.md "wikilink"): 엄기영\[9\]
   - [1990년](../Page/1990년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ [7월 16일](../Page/7월_16일.md "wikilink"): 엄기영, 조일수
   - [1990년](../Page/1990년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") \~ [8월 10일](../Page/8월_10일.md "wikilink"), [1991년](../Page/1991년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") \~ [6월 28일](../Page/6월_28일.md "wikilink"), [1991년](../Page/1991년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink"): 이상열, 백지연
   - [1990년](../Page/1990년.md "wikilink") [12월 11일](../Page/12월_11일.md "wikilink") \~ [12월 12일](../Page/12월_12일.md "wikilink"): 이상열
-  - [1990년](../Page/1990년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") \~ [12월 28일](../Page/12월_28일.md "wikilink"), [1993년](../Page/1993년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink"), [1994년](../Page/1994년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink"), [2002년](../Page/2002년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") \~ [8월 16일](../Page/8월_16일.md "wikilink"), [2003년](../Page/2003년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ [8월 29일](../Page/8월_29일.md "wikilink"): 엄기영, 정혜정\[9\]
+  - [1990년](../Page/1990년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") \~ [12월 28일](../Page/12월_28일.md "wikilink"), [1993년](../Page/1993년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink"), [1994년](../Page/1994년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ [1995년](../Page/1995년.md "wikilink") [9월 29일](../Page/9월_29일.md "wikilink"), [2002년](../Page/2002년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") \~ [8월 16일](../Page/8월_16일.md "wikilink"), [2003년](../Page/2003년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ [8월 29일](../Page/8월_29일.md "wikilink"): 엄기영, 정혜정\[10\]
   - [1991년](../Page/1991년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink") \~ [8월 9일](../Page/8월_9일.md "wikilink"): 이상열, 김현경
   - [1992년](../Page/1992년.md "wikilink") [9월 7일](../Page/9월_7일.md "wikilink") \~ [1993년](../Page/1993년.md "wikilink") [4월 9일](../Page/4월_9일.md "wikilink"): 엄기영, 김지은
   - [1993년](../Page/1993년.md "wikilink") [8월 2일](../Page/8월_2일.md "wikilink") \~ [8월 4일](../Page/8월_4일.md "wikilink"): 신경민, 정혜정
   - [1994년](../Page/1994년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ [7월 29일](../Page/7월_29일.md "wikilink"), [1994년](../Page/1994년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") \~ [9월 7일](../Page/9월_7일.md "wikilink"): 신경민, 백지연
-  - [1994년](../Page/1994년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink"): 엄기영, 정동영, 정혜정\[10\]
-  - [1995년](../Page/1995년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") \~ [8월 4일](../Page/8월_4일.md "wikilink"): 정동영, 정혜정\[11\]
-  - [1996년](../Page/1996년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") \~ [8월 16일](../Page/8월_16일.md "wikilink"): 조정민, 김은주\[12\]
-  - [1992년](../Page/1992년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") \~ [8월 28일](../Page/8월_28일.md "wikilink"), [1995년](../Page/1995년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink"), [1996년](../Page/1996년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [5월 17일](../Page/5월_17일.md "wikilink") , [8월 19일](../Page/8월_19일.md "wikilink") \~ [11월 8일](../Page/11월_8일.md "wikilink"): 엄기영, 김은주\[13\]
+  - [1994년](../Page/1994년.md "wikilink") [10월 21일](../Page/10월_21일.md "wikilink"): 엄기영, 정동영, 정혜정\[11\]
+  - [1995년](../Page/1995년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") \~ [8월 4일](../Page/8월_4일.md "wikilink"): 정동영, 정혜정\[12\]
+  - [1996년](../Page/1996년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") \~ [8월 16일](../Page/8월_16일.md "wikilink"): 조정민, 김은주\[13\]
+  - [1992년](../Page/1992년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") \~ [8월 28일](../Page/8월_28일.md "wikilink"), [1995년](../Page/1995년.md "wikilink") [12월 15일](../Page/12월_15일.md "wikilink"), [1996년](../Page/1996년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [5월 17일](../Page/5월_17일.md "wikilink") , [8월 19일](../Page/8월_19일.md "wikilink") \~ [11월 8일](../Page/11월_8일.md "wikilink"): 엄기영, 김은주\[14\]
   - [1996년](../Page/1996년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") \~ [6월 27일](../Page/6월_27일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [7월 2일](../Page/7월_2일.md "wikilink") \~ [8월 1일](../Page/8월_1일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") \~ [8월 22일](../Page/8월_22일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [9월 8일](../Page/9월_8일.md "wikilink") \~ [9월 9일](../Page/9월_9일.md "wikilink"): 이인용, 김지은
-  - [1997년](../Page/1997년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") \~ [1월 17일](../Page/1월_17일.md "wikilink"), [1999년](../Page/1999년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ [7월 27일](../Page/7월_27일.md "wikilink"), [2000년](../Page/2000년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") \~ [10월 20일](../Page/10월_20일.md "wikilink"): 이인용\[14\]
-  - [1997년](../Page/1997년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink"): 이인용, 김지은, 권재홍\[15\]
-  - [1997년](../Page/1997년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [8월 8일](../Page/8월_8일.md "wikilink"): 권재홍, 김지은\[16\]
-  - [1997년](../Page/1997년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ [9월 5일](../Page/9월_5일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") \~ [9월 19일](../Page/9월_19일.md "wikilink") : 이인용, 최율미\[17\]
+  - [1997년](../Page/1997년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") \~ [1월 17일](../Page/1월_17일.md "wikilink"), [1999년](../Page/1999년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ [7월 27일](../Page/7월_27일.md "wikilink"), [2000년](../Page/2000년.md "wikilink") [10월 19일](../Page/10월_19일.md "wikilink") \~ [10월 20일](../Page/10월_20일.md "wikilink"): 이인용\[15\]
+  - [1997년](../Page/1997년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink"): 이인용, 김지은, 권재홍\[16\]
+  - [1997년](../Page/1997년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [8월 8일](../Page/8월_8일.md "wikilink"): 권재홍, 김지은\[17\]
+  - [1997년](../Page/1997년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ [9월 5일](../Page/9월_5일.md "wikilink"), [1997년](../Page/1997년.md "wikilink") [9월 10일](../Page/9월_10일.md "wikilink") \~ [9월 19일](../Page/9월_19일.md "wikilink") : 이인용, 최율미\[18\]
   - [1997년](../Page/1997년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink"), [1998년](../Page/1998년.md "wikilink") [3월 12일](../Page/3월_12일.md "wikilink") \~ [8월 14일](../Page/8월_14일.md "wikilink"), [1998년](../Page/1998년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink"): 이인용, 정혜정
-  - [1998년](../Page/1998년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") \~ [3월 11일](../Page/3월_11일.md "wikilink"): 이인용, 오은실\[18\]
+  - [1998년](../Page/1998년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") \~ [3월 11일](../Page/3월_11일.md "wikilink"): 이인용, 오은실\[19\]
   - [1999년](../Page/1999년.md "wikilink") [4월 26일](../Page/4월_26일.md "wikilink") \~ [7월 12일](../Page/7월_12일.md "wikilink"), [1999년](../Page/1999년.md "wikilink") [7월 28일](../Page/7월_28일.md "wikilink") \~ [8월 6일](../Page/8월_6일.md "wikilink"), [1999년](../Page/1999년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [6월 23일](../Page/6월_23일.md "wikilink"), [2000년](../Page/2000년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") \~ [8월 18일](../Page/8월_18일.md "wikilink"), [2000년](../Page/2000년.md "wikilink"), [8월 28일](../Page/8월_28일.md "wikilink") \~ [9월 8일](../Page/9월_8일.md "wikilink"), [2000년](../Page/2000년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") \~ [10월 18일](../Page/10월_18일.md "wikilink"), [10월 23일](../Page/10월_23일.md "wikilink") \~ [10월 27일](../Page/10월_27일.md "wikilink"): 이인용, 김은혜
-  - [1999년](../Page/1999년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ [8월 13일](../Page/8월_13일.md "wikilink"): 신경민, 김은혜\[19\]
+  - [1999년](../Page/1999년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ [8월 13일](../Page/8월_13일.md "wikilink"): 신경민, 김은혜\[20\]
   - [2000년](../Page/2000년.md "wikilink") [10월 30일](../Page/10월_30일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [3월 28일](../Page/3월_28일.md "wikilink"), [2001년](../Page/2001년.md "wikilink") [3월 30일](../Page/3월_30일.md "wikilink") \~ [7월 27일](../Page/7월_27일.md "wikilink"), [2001년](../Page/2001년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") \~ [8월 17일](../Page/8월_17일.md "wikilink"), [2001년](../Page/2001년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") \~ [12월 31일](../Page/12월_31일.md "wikilink"): 권재홍, 김주하
-  - [2001년](../Page/2001년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink"): 권재홍, 김주하, 박광온\[20\]
-  - [2001년](../Page/2001년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") \~ [8월 3일](../Page/8월_3일.md "wikilink"): 박광온, 김주하\[21\]
-  - [2001년](../Page/2001년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink"), [8월 20일](../Page/8월_20일.md "wikilink") \~ [8월 24일](../Page/8월_24일.md "wikilink"): 권재홍, 최율미\[22\]
+  - [2001년](../Page/2001년.md "wikilink") [3월 29일](../Page/3월_29일.md "wikilink"): 권재홍, 김주하, 박광온\[21\]
+  - [2001년](../Page/2001년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") \~ [8월 3일](../Page/8월_3일.md "wikilink"): 박광온, 김주하\[22\]
+  - [2001년](../Page/2001년.md "wikilink") [2월 5일](../Page/2월_5일.md "wikilink"), [8월 20일](../Page/8월_20일.md "wikilink") \~ [8월 24일](../Page/8월_24일.md "wikilink"): 권재홍, 최율미\[23\]
   - [2002년](../Page/2002년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [4월 3일](../Page/4월_3일.md "wikilink"), [2002년](../Page/2002년.md "wikilink") [4월 8일](../Page/4월_8일.md "wikilink") \~ [8월 9일](../Page/8월_9일.md "wikilink"), [2002년](../Page/2002년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink") \~ [8월 30일](../Page/8월_30일.md "wikilink"), [2002년](../Page/2002년.md "wikilink") [9월 9일](../Page/9월_9일.md "wikilink") \~ [12월 30일](../Page/12월_30일.md "wikilink"), [2003년](../Page/2003년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [8월 1일](../Page/8월_1일.md "wikilink"), [2003년](../Page/2003년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [7월 9일](../Page/7월_9일.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [7월 26일](../Page/7월_26일.md "wikilink") \~ [8월 6일](../Page/8월_6일.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") \~ [9월 23일](../Page/9월_23일.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ [12월 30일](../Page/12월_30일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") \~ [2월 4일](../Page/2월_4일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") \~ [7월 22일](../Page/7월_22일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") \~ [8월 13일](../Page/8월_13일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [8월 16일](../Page/8월_16일.md "wikilink") \~ [11월 16일](../Page/11월_16일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [3월 3일](../Page/3월_3일.md "wikilink"): 엄기영, 김주하
-  - [2004년](../Page/2004년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") \~ [7월 16일](../Page/7월_16일.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") \~ [10월 1일](../Page/10월_1일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ [7월 29일](../Page/7월_29일.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") \~ [5월 30일](../Page/5월_30일.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") \~ [7월 21일](../Page/7월_21일.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") \~ [9월 8일](../Page/9월_8일.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink"), [2007년](../Page/2007년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") \~ [8월 17일](../Page/8월_17일.md "wikilink"), [2007년](../Page/2007년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink"): 엄기영, 박혜진\[23\]
-  - [2002년](../Page/2002년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink") \~ [4월 5일](../Page/4월_5일.md "wikilink"), [2002년](../Page/2002년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [9월 6일](../Page/9월_6일.md "wikilink"): 김세용, 김주하\[24\]
-  - [2002년](../Page/2002년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink"): 김세용, 정혜정\[25\]
-  - [2003년](../Page/2003년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") \~ [2월 20일](../Page/2월_20일.md "wikilink"): 엄기영, 김주하, 김세용\[26\]
-  - [2003년](../Page/2003년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [8월 8일](../Page/8월_8일.md "wikilink"): 이인용, 김주하\[27\]
-  - [2004년](../Page/2004년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ [8월 13일](../Page/8월_13일.md "wikilink"): 엄기영, 최윤영\[28\]
-  - [2004년](../Page/2004년.md "wikilink") [7월 19일](../Page/7월_19일.md "wikilink") \~ [7월 23일](../Page/7월_23일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") \~ [2월 11일](../Page/2월_11일.md "wikilink"): 최일구, 김주하\[29\]
-  - [2004년](../Page/2004년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink"): 엄기영, 김주하, 최일구\[30\]
-  - [2005년](../Page/2005년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink"): 엄기영, 박혜진, 김주하\[31\]
-  - [2005년](../Page/2005년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") \~ [4월 24일](../Page/4월_24일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [8월 5일](../Page/8월_5일.md "wikilink"): 연보흠, 김주하\[32\]
-  - [2005년](../Page/2005년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink"): 엄기영, 박혜진, 왕종명, 김주하\[33\]
-  - [2005년](../Page/2005년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink"): 엄기영, 신경민, 김주하\[34\]
-  - [2006년](../Page/2006년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink"): 엄기영, 김은혜, 최일구, 박혜진\[35\]
-  - [2006년](../Page/2006년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") \~ [7월 28일](../Page/7월_28일.md "wikilink"): 엄기영, 서현진\[36\]
-  - [2006년](../Page/2006년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") \~ [4월 14일](../Page/4월_14일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") \~ [8월 4일](../Page/8월_4일.md "wikilink"): 연보흠, 박혜진\[37\]
-  - [2006년](../Page/2006년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") \~ [9월 14일](../Page/9월_14일.md "wikilink"): 엄기영, 박혜진, 권재홍\[38\]
-  - [2007년](../Page/2007년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") \~ [8월 3일](../Page/8월_3일.md "wikilink"), [2008년](../Page/2008년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ [8월 8일](../Page/8월_8일.md "wikilink"), [2008년](../Page/2008년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ [11월 7일](../Page/11월_7일.md "wikilink"), [2008년](../Page/2008년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") \~ [12월 25일](../Page/12월_25일.md "wikilink"), [2009년](../Page/2009년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") \~ [2월 25일](../Page/2월_25일.md "wikilink"), [2009년](../Page/2009년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") \~ [4월 13일](../Page/4월_13일.md "wikilink"): 신경민, 박혜진\[39\]
-  - [2007년](../Page/2007년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ [8월 24일](../Page/8월_24일.md "wikilink"): 엄기영, 김수진\[40\]
+  - [2004년](../Page/2004년.md "wikilink") [7월 12일](../Page/7월_12일.md "wikilink") \~ [7월 16일](../Page/7월_16일.md "wikilink"), [2004년](../Page/2004년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") \~ [10월 1일](../Page/10월_1일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ [7월 29일](../Page/7월_29일.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") \~ [5월 30일](../Page/5월_30일.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink") \~ [7월 21일](../Page/7월_21일.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [8월 7일](../Page/8월_7일.md "wikilink") \~ [9월 8일](../Page/9월_8일.md "wikilink"), [2006년](../Page/2006년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [7월 27일](../Page/7월_27일.md "wikilink"), [2007년](../Page/2007년.md "wikilink") [8월 6일](../Page/8월_6일.md "wikilink") \~ [8월 17일](../Page/8월_17일.md "wikilink"), [2007년](../Page/2007년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink") [2월 1일](../Page/2월_1일.md "wikilink"): 엄기영, 박혜진\[24\]
+  - [2002년](../Page/2002년.md "wikilink") [4월 4일](../Page/4월_4일.md "wikilink") \~ [4월 5일](../Page/4월_5일.md "wikilink"), [2002년](../Page/2002년.md "wikilink") [9월 2일](../Page/9월_2일.md "wikilink") \~ [9월 6일](../Page/9월_6일.md "wikilink"): 김세용, 김주하\[25\]
+  - [2002년](../Page/2002년.md "wikilink") [7월 1일](../Page/7월_1일.md "wikilink"): 김세용, 정혜정\[26\]
+  - [2003년](../Page/2003년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") \~ [2월 20일](../Page/2월_20일.md "wikilink"): 엄기영, 김주하, 김세용\[27\]
+  - [2003년](../Page/2003년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [8월 8일](../Page/8월_8일.md "wikilink"): 이인용, 김주하\[28\]
+  - [2004년](../Page/2004년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ [8월 13일](../Page/8월_13일.md "wikilink"): 엄기영, 최윤영\[29\]
+  - [2004년](../Page/2004년.md "wikilink") [7월 19일](../Page/7월_19일.md "wikilink") \~ [7월 23일](../Page/7월_23일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [2월 7일](../Page/2월_7일.md "wikilink") \~ [2월 11일](../Page/2월_11일.md "wikilink"): 최일구, 김주하\[30\]
+  - [2004년](../Page/2004년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink"): 엄기영, 김주하, 최일구\[31\]
+  - [2005년](../Page/2005년.md "wikilink") [3월 16일](../Page/3월_16일.md "wikilink"): 엄기영, 박혜진, 김주하\[32\]
+  - [2005년](../Page/2005년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") \~ [4월 24일](../Page/4월_24일.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [8월 5일](../Page/8월_5일.md "wikilink"): 연보흠, 김주하\[33\]
+  - [2005년](../Page/2005년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink"): 엄기영, 박혜진, 왕종명, 김주하\[34\]
+  - [2005년](../Page/2005년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink"): 엄기영, 신경민, 김주하\[35\]
+  - [2006년](../Page/2006년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink"): 엄기영, 김은혜, 최일구, 박혜진\[36\]
+  - [2006년](../Page/2006년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") \~ [7월 28일](../Page/7월_28일.md "wikilink"): 엄기영, 서현진\[37\]
+  - [2006년](../Page/2006년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") \~ [4월 14일](../Page/4월_14일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink") \~ [8월 4일](../Page/8월_4일.md "wikilink"): 연보흠, 박혜진\[38\]
+  - [2006년](../Page/2006년.md "wikilink") [9월 11일](../Page/9월_11일.md "wikilink") \~ [9월 14일](../Page/9월_14일.md "wikilink"): 엄기영, 박혜진, 권재홍\[39\]
+  - [2007년](../Page/2007년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") \~ [8월 3일](../Page/8월_3일.md "wikilink"), [2008년](../Page/2008년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") \~ [8월 8일](../Page/8월_8일.md "wikilink"), [2008년](../Page/2008년.md "wikilink") [8월 25일](../Page/8월_25일.md "wikilink") \~ [11월 7일](../Page/11월_7일.md "wikilink"), [2008년](../Page/2008년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") \~ [12월 25일](../Page/12월_25일.md "wikilink"), [2009년](../Page/2009년.md "wikilink") [1월 8일](../Page/1월_8일.md "wikilink") \~ [2월 25일](../Page/2월_25일.md "wikilink"), [2009년](../Page/2009년.md "wikilink") [3월 4일](../Page/3월_4일.md "wikilink") \~ [4월 13일](../Page/4월_13일.md "wikilink"): 신경민, 박혜진\[40\]
+  - [2007년](../Page/2007년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ [8월 24일](../Page/8월_24일.md "wikilink"): 엄기영, 김수진\[41\]
   - [2008년](../Page/2008년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") \~ [3월 21일](../Page/3월_21일.md "wikilink"): 김성수, 박혜진
-  - [2008년](../Page/2008년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") \~ [8월 22일](../Page/8월_22일.md "wikilink"): 신경민, 손정은\[41\]
-  - [2008년](../Page/2008년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink") \~ [11월 14일](../Page/11월_14일.md "wikilink"), [2009년](../Page/2009년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") \~ [4월 24일](../Page/4월_24일.md "wikilink"): 김세용, 박혜진\[42\]
-  - [2008년](../Page/2008년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink"), [2월 26일](../Page/2월_26일.md "wikilink") \~ [3월 3일](../Page/3월_3일.md "wikilink"): 신경민\[43\]
+  - [2008년](../Page/2008년.md "wikilink") [8월 11일](../Page/8월_11일.md "wikilink") \~ [8월 22일](../Page/8월_22일.md "wikilink"): 신경민, 손정은\[42\]
+  - [2008년](../Page/2008년.md "wikilink") [11월 10일](../Page/11월_10일.md "wikilink") \~ [11월 14일](../Page/11월_14일.md "wikilink"), [2009년](../Page/2009년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") \~ [4월 24일](../Page/4월_24일.md "wikilink"): 김세용, 박혜진\[43\]
+  - [2008년](../Page/2008년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink"), [2월 26일](../Page/2월_26일.md "wikilink") \~ [3월 3일](../Page/3월_3일.md "wikilink"): 신경민\[44\]
   - [2009년](../Page/2009년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink") \~ [7월 20일](../Page/7월_20일.md "wikilink"), [7월 27일](../Page/7월_27일.md "wikilink") \~ [9월 11일](../Page/9월_11일.md "wikilink"), [9월 21일](../Page/9월_21일.md "wikilink") \~ [12월 4일](../Page/12월_4일.md "wikilink"), [12월 14일](../Page/12월_14일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink"): 권순표, 이정민
-  - [2009년](../Page/2009년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") \~ [7월 24일](../Page/7월_24일.md "wikilink"): 김세용\[44\]
-  - [2009년](../Page/2009년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") \~ [9월 18일](../Page/9월_18일.md "wikilink"): 권순표, 손정은\[45\]
-  - [2009년](../Page/2009년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") \~ [12월 11일](../Page/12월_11일.md "wikilink"): 왕종명, 이정민\[46\]
-  - [2010년](../Page/2010년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") \~ [4월 9일](../Page/4월_9일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink") \~ [4월 19일](../Page/4월_19일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") \~ [5월 10일](../Page/5월_10일.md "wikilink"): 권재홍\[47\]
-  - [2010년](../Page/2010년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") \~ [5월 14일](../Page/5월_14일.md "wikilink"): 권재홍 (월 \~ 수), 김세용 (목 \~ 금)\[48\]
+  - [2009년](../Page/2009년.md "wikilink") [7월 21일](../Page/7월_21일.md "wikilink") \~ [7월 24일](../Page/7월_24일.md "wikilink"): 김세용\[45\]
+  - [2009년](../Page/2009년.md "wikilink") [9월 14일](../Page/9월_14일.md "wikilink") \~ [9월 18일](../Page/9월_18일.md "wikilink"): 권순표, 손정은\[46\]
+  - [2009년](../Page/2009년.md "wikilink") [12월 7일](../Page/12월_7일.md "wikilink") \~ [12월 11일](../Page/12월_11일.md "wikilink"): 왕종명, 이정민\[47\]
+  - [2010년](../Page/2010년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") \~ [4월 9일](../Page/4월_9일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink") \~ [4월 19일](../Page/4월_19일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [4월 30일](../Page/4월_30일.md "wikilink") \~ [5월 10일](../Page/5월_10일.md "wikilink"): 권재홍\[48\]
+  - [2010년](../Page/2010년.md "wikilink") [4월 12일](../Page/4월_12일.md "wikilink") \~ [5월 14일](../Page/5월_14일.md "wikilink"): 권재홍 (월 \~ 수), 김세용 (목 \~ 금)\[49\]
   - [2010년](../Page/2010년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") \~ [9월 17일](../Page/9월_17일.md "wikilink"), [2010년](../Page/2010년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ [12월 31일](../Page/12월_31일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink") \~ [3월 30일](../Page/3월_30일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink"): 권재홍, 이정민
-  - [2010년](../Page/2010년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") \~ [9월 22일](../Page/9월_22일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") \~ [1월 7일](../Page/1월_7일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") \~ [4월 5일](../Page/4월_5일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ [5월 13일](../Page/5월_13일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink") \~ [7월 29일](../Page/7월_29일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") \~ [11월 30일](../Page/11월_30일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") \~ [12월 30일](../Page/12월_30일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") \~ [1월 24일](../Page/1월_24일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") \~ [5월 16일](../Page/5월_16일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") \~ [7월 16일](../Page/7월_16일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [7월 18일](../Page/7월_18일.md "wikilink") \~ [8월 7일](../Page/8월_7일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ [9월 14일](../Page/9월_14일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") \~ [10월 16일](../Page/10월_16일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink"): 권재홍, 배현진\[49\]
-  - [2010년](../Page/2010년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ [9월 24일](../Page/9월_24일.md "wikilink"): 왕종명, 배현진\[50\]
-  - [2011년](../Page/2011년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") \~ [1월 7일](../Page/1월_7일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") \~ [5월 20일](../Page/5월_20일.md "wikilink"): 최일구, 배현진\[51\]\[52\]
-  - [2012년](../Page/2012년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [1월 6일](../Page/1월_6일.md "wikilink"): 최일구, 문지애\[53\]
-  - [2011년](../Page/2011년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [8월 12일](../Page/8월_12일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ [12월 2일](../Page/12월_2일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") \~ [1월 13일](../Page/1월_13일.md "wikilink"): 김세용, 배현진\[54\]
-  - [2012년](../Page/2012년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") \~ [4월 27일](../Page/4월_27일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink") \~ [1월 29일](../Page/1월_29일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") \~ [3월 15일](../Page/3월_15일.md "wikilink"): 황헌\[55\]
-  - [2012년](../Page/2012년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") \~ [5월 18일](../Page/5월_18일.md "wikilink"): 정연국, 배현진\[56\]
-  - [2012년](../Page/2012년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [5월 25일](../Page/5월_25일.md "wikilink"): 황헌, 배현진\[57\]
-  - [2012년](../Page/2012년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink"): 최대현, 배현진\[58\]
-  - [2012년](../Page/2012년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") \~ [8월 17일](../Page/8월_17일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") \~ [10월 26일](../Page/10월_26일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") \~ [2월 1일](../Page/2월_1일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [6월 21일](../Page/6월_21일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") \~ [10월 25일](../Page/10월_25일.md "wikilink"), [2014년](../Page/2014년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink"), [2015년](../Page/2015년.md "wikilink") [8월 10일](../Page/8월_10일.md "wikilink") \~ [10월 2일](../Page/10월_2일.md "wikilink"), [2015년](../Page/2015년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") \~ [11월 6일](../Page/11월_6일.md "wikilink"): 박용찬, 배현진\[59\]
-  - [2012년](../Page/2012년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ [8월 10일](../Page/8월_10일.md "wikilink"): 박용찬, 배현진, 권재홍, 양승은\[60\]
-  - [2012년](../Page/2012년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink") \~ [9월 21일](../Page/9월_21일.md "wikilink"): 권재홍, 양승은\[61\]
+  - [2010년](../Page/2010년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") \~ [9월 22일](../Page/9월_22일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") \~ [1월 7일](../Page/1월_7일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [3월 31일](../Page/3월_31일.md "wikilink") \~ [4월 5일](../Page/4월_5일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ [5월 13일](../Page/5월_13일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [5월 23일](../Page/5월_23일.md "wikilink") \~ [7월 29일](../Page/7월_29일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") \~ [11월 30일](../Page/11월_30일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") \~ [12월 30일](../Page/12월_30일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") \~ [1월 24일](../Page/1월_24일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [5월 11일](../Page/5월_11일.md "wikilink") \~ [5월 16일](../Page/5월_16일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") \~ [7월 16일](../Page/7월_16일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [7월 18일](../Page/7월_18일.md "wikilink") \~ [8월 7일](../Page/8월_7일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ [9월 14일](../Page/9월_14일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [9월 24일](../Page/9월_24일.md "wikilink") \~ [10월 16일](../Page/10월_16일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [10월 29일](../Page/10월_29일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [1월 18일](../Page/1월_18일.md "wikilink"): 권재홍, 배현진\[50\]
+  - [2010년](../Page/2010년.md "wikilink") [9월 23일](../Page/9월_23일.md "wikilink") \~ [9월 24일](../Page/9월_24일.md "wikilink"): 왕종명, 배현진\[51\]
+  - [2011년](../Page/2011년.md "wikilink") [1월 3일](../Page/1월_3일.md "wikilink") \~ [1월 7일](../Page/1월_7일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink") \~ [5월 20일](../Page/5월_20일.md "wikilink"): 최일구, 배현진\[52\]\[53\]
+  - [2012년](../Page/2012년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [1월 6일](../Page/1월_6일.md "wikilink"): 최일구, 문지애\[54\]
+  - [2011년](../Page/2011년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [8월 12일](../Page/8월_12일.md "wikilink"), [2011년](../Page/2011년.md "wikilink") [12월 1일](../Page/12월_1일.md "wikilink") \~ [12월 2일](../Page/12월_2일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [1월 9일](../Page/1월_9일.md "wikilink") \~ [1월 13일](../Page/1월_13일.md "wikilink"): 김세용, 배현진\[55\]
+  - [2012년](../Page/2012년.md "wikilink") [4월 20일](../Page/4월_20일.md "wikilink") \~ [4월 27일](../Page/4월_27일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [1월 21일](../Page/1월_21일.md "wikilink") \~ [1월 29일](../Page/1월_29일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") \~ [3월 15일](../Page/3월_15일.md "wikilink"): 황헌\[56\]
+  - [2012년](../Page/2012년.md "wikilink") [5월 17일](../Page/5월_17일.md "wikilink") \~ [5월 18일](../Page/5월_18일.md "wikilink"): 정연국, 배현진\[57\]
+  - [2012년](../Page/2012년.md "wikilink") [5월 21일](../Page/5월_21일.md "wikilink") \~ [5월 25일](../Page/5월_25일.md "wikilink"): 황헌, 배현진\[58\]
+  - [2012년](../Page/2012년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink"): 최대현, 배현진\[59\]
+  - [2012년](../Page/2012년.md "wikilink") [8월 8일](../Page/8월_8일.md "wikilink") \~ [8월 17일](../Page/8월_17일.md "wikilink"), [2012년](../Page/2012년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") \~ [10월 26일](../Page/10월_26일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [1월 30일](../Page/1월_30일.md "wikilink") \~ [2월 1일](../Page/2월_1일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink") \~ [6월 21일](../Page/6월_21일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") \~ [10월 25일](../Page/10월_25일.md "wikilink"), [2014년](../Page/2014년.md "wikilink") [5월 12일](../Page/5월_12일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 31일](../Page/7월_31일.md "wikilink"), [2015년](../Page/2015년.md "wikilink") [8월 10일](../Page/8월_10일.md "wikilink") \~ [10월 2일](../Page/10월_2일.md "wikilink"), [2015년](../Page/2015년.md "wikilink") [10월 12일](../Page/10월_12일.md "wikilink") \~ [11월 6일](../Page/11월_6일.md "wikilink"): 박용찬, 배현진\[60\]
+  - [2012년](../Page/2012년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ [8월 10일](../Page/8월_10일.md "wikilink"): 박용찬, 배현진, 권재홍, 양승은\[61\]
+  - [2012년](../Page/2012년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink") \~ [9월 21일](../Page/9월_21일.md "wikilink"): 권재홍, 양승은\[62\]
   - [2013년](../Page/2013년.md "wikilink") [3월 18일](../Page/3월_18일.md "wikilink") \~ [4월 5일](../Page/4월_5일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [6월 11일](../Page/6월_11일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink") \~ [10월 23일](../Page/10월_23일.md "wikilink"), [2013년](../Page/2013년.md "wikilink") [10월 28일](../Page/10월_28일.md "wikilink") \~ [11월 15일](../Page/11월_15일.md "wikilink"): 권재홍, 김소영
-  - [2013년](../Page/2013년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink"): 권재홍, 김소영, 이상현\[62\]
-  - [2013년](../Page/2013년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink") \~ [9월 18일](../Page/9월_18일.md "wikilink"): 권재홍, 김소영, 배현진\[63\]
+  - [2013년](../Page/2013년.md "wikilink") [3월 26일](../Page/3월_26일.md "wikilink"): 권재홍, 김소영, 이상현\[63\]
+  - [2013년](../Page/2013년.md "wikilink") [9월 17일](../Page/9월_17일.md "wikilink") \~ [9월 18일](../Page/9월_18일.md "wikilink"): 권재홍, 김소영, 배현진\[64\]
   - [2013년](../Page/2013년.md "wikilink") [11월 18일](../Page/11월_18일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [5월 9일](../Page/5월_9일.md "wikilink"): 박선영, 김대호
-  - [2015년](../Page/2015년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") \~ [8월 7일](../Page/8월_7일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ [7월 29일](../Page/7월_29일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink"): 박상권, 배현진\[64\]
-  - [2015년](../Page/2015년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [10월 9일](../Page/10월_9일.md "wikilink"): 박용찬, 이정민\[65\]
+  - [2015년](../Page/2015년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") \~ [8월 7일](../Page/8월_7일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [7월 25일](../Page/7월_25일.md "wikilink") \~ [7월 29일](../Page/7월_29일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [9월 26일](../Page/9월_26일.md "wikilink"): 박상권, 배현진\[65\]
+  - [2015년](../Page/2015년.md "wikilink") [10월 5일](../Page/10월_5일.md "wikilink") \~ [10월 9일](../Page/10월_9일.md "wikilink"): 박용찬, 이정민\[66\]
   - [2015년](../Page/2015년.md "wikilink") [11월 9일](../Page/11월_9일.md "wikilink") \~ [12월 31일](../Page/12월_31일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [1월 4일](../Page/1월_4일.md "wikilink") \~ [7월 1일](../Page/7월_1일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [7월 11일](../Page/7월_11일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [8월 3일](../Page/8월_3일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [8월 22일](../Page/8월_22일.md "wikilink") \~ [9월 23일](../Page/9월_23일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [12월 19일](../Page/12월_19일.md "wikilink"), [2016년](../Page/2016년.md "wikilink") [12월 21일](../Page/12월_21일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [6월 30일](../Page/6월_30일.md "wikilink"), [2017년](../Page/2017년.md "wikilink") [7월 17일](../Page/7월_17일.md "wikilink") \~ [12월 7일](../Page/12월_7일.md "wikilink"): 이상현, 배현진
-  - [2016년](../Page/2016년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"): 이상현, 배현진, 박상권, 이정민\[66\]
-  - [2016년](../Page/2016년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") \~ [7월 8일](../Page/7월_8일.md "wikilink"): 이상현, 이정민\[67\]
-  - [2016년](../Page/2016년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [8월 19일](../Page/8월_19일.md "wikilink"): 이상현, 배현진, 박상권\[68\]
-  - [2016년](../Page/2016년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink"): 이상현, 정다희\[69\]
-  - [2017년](../Page/2017년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") \~ [2월 24일](../Page/2월_24일.md "wikilink") : 이준희, 배현진\[70\]
-  - [2017년](../Page/2017년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") \~ [7월 7일](../Page/7월_7일.md "wikilink") : 천현우, 배현진\[71\]
-  - [2017년](../Page/2017년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ [7월 14일](../Page/7월_14일.md "wikilink") : 이상현, 박연경\[72\]
-  - [2017년](../Page/2017년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") \~ [12월 25일](../Page/12월_25일.md "wikilink"): 김수지\[73\]
+  - [2016년](../Page/2016년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink"): 이상현, 배현진, 박상권, 이정민\[67\]
+  - [2016년](../Page/2016년.md "wikilink") [7월 4일](../Page/7월_4일.md "wikilink") \~ [7월 8일](../Page/7월_8일.md "wikilink"): 이상현, 이정민\[68\]
+  - [2016년](../Page/2016년.md "wikilink") [8월 4일](../Page/8월_4일.md "wikilink") \~ [8월 19일](../Page/8월_19일.md "wikilink"): 이상현, 배현진, 박상권\[69\]
+  - [2016년](../Page/2016년.md "wikilink") [12월 20일](../Page/12월_20일.md "wikilink"): 이상현, 정다희\[70\]
+  - [2017년](../Page/2017년.md "wikilink") [2월 20일](../Page/2월_20일.md "wikilink") \~ [2월 24일](../Page/2월_24일.md "wikilink") : 이준희, 배현진\[71\]
+  - [2017년](../Page/2017년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") \~ [7월 7일](../Page/7월_7일.md "wikilink") : 천현우, 배현진\[72\]
+  - [2017년](../Page/2017년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ [7월 14일](../Page/7월_14일.md "wikilink") : 이상현, 박연경\[73\]
+  - [2017년](../Page/2017년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") \~ [12월 25일](../Page/12월_25일.md "wikilink"): 김수지\[74\]
   - [2017년](../Page/2017년.md "wikilink") [12월 26일](../Page/12월_26일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [1월 12일](../Page/1월_12일.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [1월 16일](../Page/1월_16일.md "wikilink") \~ [6월 8일](../Page/6월_8일.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [6월 12일](../Page/6월_12일.md "wikilink"), [2018년](../Page/2018년.md "wikilink") [6월 14일](../Page/6월_14일.md "wikilink") \~ [7월 13일](../Page/7월_13일.md "wikilink"): 박성호, 손정은
-  - [2018년](../Page/2018년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink"): 박성호, 손정은, 김병헌\[74\]
-  - [2018년](../Page/2018년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink"): 박성호, 손정은, 왕종명\[75\]
-  - [2018년](../Page/2018년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink"): 박성제, 김수진, 왕종명\[76\]
+  - [2018년](../Page/2018년.md "wikilink") [1월 15일](../Page/1월_15일.md "wikilink"): 박성호, 손정은, 김병헌\[75\]
+  - [2018년](../Page/2018년.md "wikilink") [6월 11일](../Page/6월_11일.md "wikilink"): 박성호, 손정은, 왕종명\[76\]
+  - [2018년](../Page/2018년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink"): 박성제, 김수진, 왕종명\[77\]
   - [2018년](../Page/2018년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [1월 25일](../Page/1월_25일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [2월 4일](../Page/2월_4일.md "wikilink") \~ [7월 31일](../Page/7월_31일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [8월 5일](../Page/8월_5일.md "wikilink") \~ [8월 15일](../Page/8월_15일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [8월 20일](../Page/8월_20일.md "wikilink") \~ [11월 7일](../Page/11월_7일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [11월 11일](../Page/11월_11일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink"), [2020년](../Page/2020년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") \~ **현재**: 왕종명, 이재은
-  - [2019년](../Page/2019년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [2월 1일](../Page/2월_1일.md "wikilink"): 성장경, 이재은\[77\]
-  - [2019년](../Page/2019년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [8월 2일](../Page/8월_2일.md "wikilink"): 왕종명, 강다솜\[78\]
-  - [2019년](../Page/2019년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink"), [2020년](../Page/2020년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") \~ [2월 21일](../Page/2월_21일.md "wikilink") : 김경호, 이재은\[79\]
+  - [2019년](../Page/2019년.md "wikilink") [1월 28일](../Page/1월_28일.md "wikilink") \~ [2월 1일](../Page/2월_1일.md "wikilink"): 성장경, 이재은\[78\]
+  - [2019년](../Page/2019년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") \~ [8월 2일](../Page/8월_2일.md "wikilink"): 왕종명, 강다솜\[79\]
+  - [2019년](../Page/2019년.md "wikilink") [8월 19일](../Page/8월_19일.md "wikilink"), [2019년](../Page/2019년.md "wikilink") [11월 8일](../Page/11월_8일.md "wikilink"), [2020년](../Page/2020년.md "wikilink") [2월 17일](../Page/2월_17일.md "wikilink") \~ [2월 21일](../Page/2월_21일.md "wikilink") : 김경호, 이재은\[80\]
 
 ### 주말
 
@@ -1485,7 +1485,7 @@
 | [1986년](../Page/1986년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") \~ [1988년](../Page/1988년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink")   | [대우전자](https://ko.wikipedia.org/wiki/대우전자 "wikilink")(現 [위니아대우](../Page/위니아대우.md "wikilink"))    |
 | [1988년](../Page/1988년.md "wikilink") [2월 15일](../Page/2월_15일.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") | [삼성시계](https://ko.wikipedia.org/wiki/삼성시계 "wikilink")(現 [SWC](../Page/SWC_\(기업\).md "wikilink")) |
 | [1997년](../Page/1997년.md "wikilink") [9월 1일](../Page/9월_1일.md "wikilink") \~ [2011년](../Page/2011년.md "wikilink") [4월 27일](../Page/4월_27일.md "wikilink")   | [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")([삼성 애니콜](../Page/삼성_애니콜.md "wikilink"))    |
-| [1998년](../Page/1998년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") | [삼성TV 명품플러스원](https://ko.wikipedia.org/wiki/삼성_파브 "wikilink")\[80\]                              |
+| [1998년](../Page/1998년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ [1998년](../Page/1998년.md "wikilink") [6월 20일](../Page/6월_20일.md "wikilink") | [삼성TV 명품플러스원](https://ko.wikipedia.org/wiki/삼성_파브 "wikilink")\[81\]                              |
 | [2011년](../Page/2011년.md "wikilink") [4월 28일](../Page/4월_28일.md "wikilink") \~ **현재**                                                                      | [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink")([삼성 갤럭시](../Page/삼성_갤럭시.md "wikilink"))    |
 
 ## 시그널 변천사
@@ -1537,7 +1537,7 @@
 
 ## CI
 
-파일:MBC Newsdesk logo old 1970.png|구형 사용 (1972년 11월 \~ 1976년) 파일:MBC Newsdesk logo old 1980.png|구형 사용 (1980년 12월 \~ 1982년 12월) 파일:MBC Newsdesk logo old 1982.png|구형 사용 (1982년 12월 \~ 1986년 1월) 파일:MBC Newsdesk logo old 1986.png|구형 사용 (1986년 1월 \~ 1997년 12월) 파일:MBC Newsdesk logo old 1998.png|구형 사용 (1998년 \~ 1999년 12월 31일) 파일:MBC News desk logo 19991231\~20050102.png|구형 사용 (1999년 \~ 2005년 1월 2일) 파일:MBC Newsdesk logo old 2005.png|구형 사용 (2005년 1월 3일 \~ 2006년 12월) 파일:MBC Newsdesk logo old 2006.png|구형 사용 (2006년 12월 \~ 2012년 8월) 파일:MBC Newsdesk logo old 2013.png|구형 사용 (2012년 8월 \~ 2014년 12월) 파일:MBC Newsdesk 201408 \~ 201807 logo.png|구형 사용 (2014년 12월 \~ 2018년 7월) 파일:MBC Newsdesk logo 2017 Korean language 02.png|구형 사용 (2018년 7월 \~ )
+파일:MBC Newsdesk logo old 1970.png|구형 사용 (1972년 11월 \~ 1980년 12월) 파일:MBC Newsdesk logo old 1980.png|구형 사용 (1980년 12월 \~ 1982년 12월) 파일:MBC Newsdesk logo old 1982.png|구형 사용 (1982년 12월 \~ 1986년 1월) 파일:MBC Newsdesk logo old 1986.png|구형 사용 (1986년 1월 \~ 1997년 12월) 파일:MBC Newsdesk logo old 1998.png|구형 사용 (1997년 12월\~ 1999년 12월) 파일:MBC News desk logo 19991231\~20050102.png|구형 사용 (1999년 12월 \~ 2005년 1월) 파일:MBC Newsdesk logo old 2005.png|구형 사용 (2005년 1월 \~ 2006년 12월) 파일:MBC Newsdesk logo old 2006.png|구형 사용 (2006년 12월 \~ 2012년 8월) 파일:MBC Newsdesk logo old 2013.png|구형 사용 (2012년 8월 \~ 2014년 12월) 파일:MBC Newsdesk 201408 \~ 201807 logo.png|구형 사용 (2014년 12월 \~ 2018년 7월) 파일:MBC Newsdesk logo 2017 Korean language 02.png|구형 사용 (2018년 7월 \~ **현재**)
 
 ## 미디어
 
@@ -1557,7 +1557,7 @@
 
 시청률 조사 기관인 [TNmS](../Page/TNmS.md "wikilink")와 [닐슨코리아](../Page/닐슨코리아.md "wikilink")에 따르면 매일 시청률 현재 2\~6%로 집계한 것이다.
 
-1980\~90년대 당시에 메인뉴스 프로그램인 뉴스데스크가 시청률 1위를 차지하였으나, 연간 평균 시청률은 1990년대 초반에 20%대, 1990년대 중반부터\[81\] 2000년대 후반까지 10%대, 2010년대 초중반 이후\[82\]부터 시청률 두자리 수가 떨어지고, 한자리 수로 급격히 감소하였다.
+1980\~90년대 당시에 메인뉴스 프로그램인 뉴스데스크가 시청률 1위를 차지하였으나, 연간 평균 시청률은 1990년대 초반에 20%대, 1990년대 중반부터\[82\] 2000년대 후반까지 10%대, 2010년대 초중반 이후\[83\]부터 시청률 두자리 수가 떨어지고, 한자리 수로 급격히 감소하였다.
 
 | 연간 평균 [시청률](https://ko.wikipedia.org/wiki/시청률 "wikilink") (단위 : %) |
 | ------------------------------------------------------------------ |
@@ -1582,84 +1582,85 @@
 [분류:문화방송의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_뉴스_텔레비전_프로그램 "wikilink") [분류:2010년대 대한민국의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:2010년대_대한민국의_텔레비전_프로그램 "wikilink") [분류:1970년에 시작한 대한민국 TV 프로그램](https://ko.wikipedia.org/wiki/분류:1970년에_시작한_대한민국_TV_프로그램 "wikilink") [분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink")
 
 1.  [MBC '뉴스데스크' 3사 중 가장 빨리, 더 길게 방송](https://www.msn.com/ko-kr/news/national/mbc-%EB%89%B4%EC%8A%A4%EB%8D%B0%EC%8A%A4%ED%81%AC-3%EC%82%AC-%EC%A4%91-%EA%B0%80%EC%9E%A5-%EB%B9%A8%EB%A6%AC-%EB%8D%94-%EA%B8%B8%EA%B2%8C-%EB%B0%A9%EC%86%A1/ar-BBSmxwj)
-2.  주말만 해당
-3.  월요일 \~ 목요일만 해당
-4.  단, 상황에 따라서 진행자가 아닌 기자나 아나운서가 맡는 경우도 있다.
-5.  초대 보도국장(앵커)
-6.  강성구 前 앵커의 갑작스러운 하차로 인하여, 1988년 11월 2일 \~ 11월 4일 방송분은 송도균 前 앵커가 진행.
-7.  추성춘 앵커의 휴가, 해외 출장으로 인하여, 1989년 8월 7일 \~ 8월 11일 방송분은 차인태 앵커가 대신 진행. 그리고 추성춘 앵커의 갑작스러운 하차로 인하여, 1989년 9월 20일 \~ 10월 6일 방송분은 차인태 前 앵커가 진행.
-8.  MBC 노조 파업으로 인하여, 1990년 5월 29일 \~ 6월 6일, 1990년 9월 4일 \~ 9월 6일, 12월 13일 \~ 12월 14일, 1992년 9월 2일 \~ 9월 4일, 1994년 10월 21일, 1995년 3월 1일, 8월 15일, 1996년 3월 15일 \~ 4월 5일 방송분은 엄기영 앵커가 단독으로 진행. 1995년 12월 14일은 백지연 앵커의 독감으로 인해 엄기영 앵커가 단독 진행. 2002년 송년특집 방송과 2003년 신년특집 방송 그리고 부산 APEC 특집 방송으로 인하여, 2002년 12월 31일 \~ 2003년 1월 1일, 2005년 11월 18일 방송분은 김주하 기자 없이 엄기영 앵커가 단독으로 진행. 그리고 2006년 추석특집 방송으로 인하여, 2006년 10월 5일 \~ 10월 6일 방송분은 박혜진 前 아나운서 없이 엄기영 前 앵커(MBC 특임시가)가 단독으로 진행.
-9.  김주하 前 앵커(前 아나운서, 現 [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink") 앵커)의 휴가, 해외 출장으로 인하여, 2002년 8월 12일 \~ 8월 16일, 2003년 8월 25일 \~ 8월 29일 방송분은 정혜정 前 아나운서가 대신 진행.
-10. [성수대교 붕괴 사고로](../Page/성수대교_붕괴_사고.md "wikilink") 인하여 엄기영 앵커가 성수대교 현지에서, 정동영, 정혜정 앵커가 뉴스센터에서 진행.
-11. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 정동영 앵커가 대신 진행.
-12. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 조정민 앵커가 대신 진행.
-13. 엄기영 앵커는 1996년 11월 8일을 마지막으로 **MBC 뉴스데스크** 1차 마지막 진행.
-14. MBC 노조파업으로 인하여, 이인용 앵커가 단독으로 진행.
-15. 홍콩 반환 3일전으로 인하여 이인용, 김지은 앵커는 여의도 뉴스 스튜디오에서 권재홍 앵커는 홍콩 현지에서 진행.
-16. 이인용 앵커의 휴가, 해외 출장으로 인하여, 권재홍 앵커가 대신 진행.
-17. 김지은 앵커의 휴가, 해외 출장으로 인하여, 1997년 8월 25일 \~ 9월 5일 방송분은 최율미 앵커가 대신 진행. 김지은 앵커의 갑작스러운 하차로 인하여, 1997년 9월 10일 \~ 9월 19일 방송분은 최율미 앵커가 진행.
-18. 정혜정 앵커의 휴가, 해외 출장으로 인하여, 오은실 앵커가 대신 진행.
-19. 이인용 앵커의 휴가, 해외 출장으로 인하여, 신경민 앵커가 대신 진행.
-20. 인천국제공항 첫 개항으로 인하여, 권재홍, 김주하 앵커는 여의도 뉴스스튜디오에서, 박광온 앵커는 인천국제공항에서 진행.
-21. 권재홍 앵커의 휴가, 해외 출장으로 인하여, 박광온 앵커가 대신 진행.
-22. 김주하 앵커의 휴가, 해외 출장으로 인하여, 최율미 앵커가 대신 진행.
-23. 김주하 앵커의 휴가, 해외 출장으로 인하여, 2004년 7월 12일 \~ 7월 16일, 2004년 9월 24일 \~ 10월 1일, 2005년 7월 25일 \~ 7월 29일 방송분은 박혜진 앵커가 대신 진행, 그리고 엄기영 앵커는 2008년 2월 1일을 마지막으로 **MBC 뉴스데스크** 2차 마지막 진행.
-24. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 김세용 앵커가 대신 진행.
-25. 엄기영, 김주하 앵커의 휴가, 해외 출장으로 인하여, 김세용, 정혜정 앵커가 대신 진행.
-26. 대구 지하철 참사로 인하여, 엄기영, 김주하 앵커는 서울 여의도 뉴스 스튜디오 에서 김세용 앵커는 대구 현지에서 진행.
-27. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 이인용 앵커가 대신 진행.
-28. 2004 아테네올림픽 특집 방송으로 인하여, 김주하 앵커 대신 최윤영 앵커가 진행.
-29. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 최일구 앵커가 대신 진행.
-30. 2004년 송년특집 방송으로 인하여, 엄기영, 김주하 앵커는 서울 여의도 뉴스 스튜디오 에서 최일구 앵커는 서울 광화문에서 진행.
-31. 다케시마의 날 지정특집 방송으로 인하여, 엄기영, 박혜진 앵커는 서울 여의도 뉴스 스튜디오 에서 김주하 앵커는 독도에서 진행.
-32. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 연보흠 앵커가 대신 진행.
-33. 광복 60주년을 맞아 엄기영, 박혜진 앵커는 여의도 뉴스 스튜디오 에서 왕종명 앵커는 독도에서 김주하 앵커는 독립기념관 에서 현지 진행.
-34. 부산 APEC 특집 방송으로 인하여, 엄기영, 신경민 앵커는 부산 APEC 현지에서, 김주하 앵커는 여의도 스튜디오에서 진행.
-35. 2006 지방선거 특집 방송으로 인하여, 엄기영, 김은혜 앵커는 서울 여의도 뉴스 스튜디오 에서 최일구, 박혜진 앵커는 서울시청앞에서 진행.
-36. 박혜진 앵커의 휴가, 해외 출장으로 인하여, 서현진 앵커가 대신 진행.
-37.
-38. 9.11테러 5주년으로 인하여, 엄기영, 박혜진 앵커는 서울 여의도 뉴스 스튜디오 에서 권재홍 앵커는 워싱턴 현지에서 진행.
-39. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 2007년 7월 30일 \~ 8월 3일 방송분은 신경민 앵커가 대신 진행.
-40. 박혜진 앵커의 휴가, 해외 출장으로 인하여, 김수진 앵커가 대신 진행.
-41. 2008 베이징올림픽 특집 방송으로 인하여, 박혜진 앵커 대신 손정은 앵커가 진행.
-42. 신경민 앵커의 휴가, 해외 출장으로 인하여, 2008년 11월 10일 \~ 11월 14일 방송분은 김세용 앵커가 대신 진행. 그리고 신경민 앵커의 갑작스러운 하차로 인하여, 2009년 4월 14일 \~ 4월 24일 방송분은 김세용 앵커가 진행.
-43. MBC 노조파업으로 인하여, 신경민 앵커가 단독으로 진행.
-44. MBC 노조파업으로 인하여, 김세용 앵커가 단독으로 진행.
-45. 이정민 앵커의 휴가, 해외 출장으로 인하여, 손정은 앵커가 대신 진행.
-46. 권순표 앵커의 휴가, 해외 출장으로 인하여, 왕종명 앵커가 대신 진행.
-47. MBC 노조파업으로 인하여, 권재홍 앵커가 단독으로 진행.
-48. MBC 노조파업으로 인하여, 월요일 \~ 수요일 방송분은 권재홍 앵커가, 목요일 \~ 금요일 방송분은 김세용 앵커가 단독으로 진행.
-49. 이정민 앵커의 휴가, 해외 출장으로 인하여, 2010년 9월 20일 \~ 9월 22일, 2011년 1월 3일 \~ 1월 7일, 2011년 3월 31일 \~ 4월 5일 방송분은 배현진 앵커가 대신 진행.
-50. 권재홍, 이정민 앵커의 휴가, 해외 출장으로 인하여, 왕종명, 배현진 앵커가 대신 진행.
-51. 권재홍, 이정민 앵커의 휴가, 해외 출장으로 인하여, 2011년 1월 3일 \~ 1월 7일 방송분은 최일구, 배현진 앵커가 대신 진행.
-52. 권재홍 앵커의 휴가, 해외 출장으로 인하여 최일구 앵커가 대신 진행.
-53. 권재홍, 배현진 앵커의 휴가, 해외 출장으로 인하여 최일구, 문지애 앵커가 대신 진행.
-54. 권재홍 앵커의 휴가, 해외 출장으로 인하여 김세용 앵커가 대신 진행.
-55. MBC 노조파업으로 인하여, 황헌 앵커가 단독으로 진행.
-56. 권재홍 앵커의 허리 부상으로 인하여, 정연국 앵커가 대신 진행.
-57. 권재홍 앵커의 허리 부상으로 인하여, 황헌 앵커가 대신 진행.
-58. 권재홍 앵커의 휴가, 해외 출장으로 인하여, 최대현 앵커가 대신 진행.
-59. 권재홍 앵커의 휴가, 해외 출장으로 인하여, 2012년 8월 8일 \~ 8월 17일, 2012년 10월 17일 \~ 10월 26일, 2013년 1월 30일 \~ 2월 1일, 2013년 6월 12일 \~ 6월 21일, 2013년 10월 24일 \~ 10월 25일 방송분은 박용찬 앵커가 대신 진행.
-60. 2012 런던올림픽 특집 방송으로 인하여 박용찬, 배현진 앵커는 여의도 뉴스 스튜디오에서 권재홍, 양승은 앵커는 런던 현지 에서 진행.
-61. 배현진 앵커의 휴가, 해외 출장으로 인하여, 양승은 앵커가 대신 진행.
-62. 천안함 피격 3주기 추모식으로 인하여, 권재홍, 김소영 앵커는 여의도 뉴스 스튜디오에서, 이상현 앵커는 평택 해군 함대 사령부에서 진행.
-63. 추석연휴로 인하여, 권재홍, 김소영 앵커는 여의도 뉴스 스튜디오에서, 배현진 앵커는 경부고속도로 안성휴게소에서 진행.
-64. 박용찬 앵커의 휴가, 해외 출장으로 인하여, 2015년 8월 3일 \~ 8월 7일 방송분은 박상권 앵커가 대신 진행. 그리고 이상현 앵커의 휴가, 해외 출장으로 인하여, 2016년 7월 25일 \~ 7월 29일, 2016년 9월 26일 방송분은 박상권 앵커가 대신 진행.
-65. 배현진 앵커의 휴가, 해외 출장으로 인하여, 이정민 앵커가 대신 진행.
-66. 2016년 새해를 맞아 이상현, 배현진 앵커는 상암동 뉴스 스튜디오에서, 박상권 앵커는 국회에서, 이정민 앵커는 오두산 통일전망대에서 진행.
-67.
-68. 2016 리우올림픽 특집 방송으로 인하여 이상현, 배현진 앵커는 상암동 뉴스 스튜디오에서, 박상권 앵커는 리우 현지 에서 진행.
-69. 배현진 앵커의 휴가, 해외 출장으로 인하여, 정다희 앵커가 대신 진행.
-70. 이상현 앵커의 휴가, 해외 출장으로 인하여, 이준희 앵커가 대신 진행.
-71. 이상현 앵커의 휴가, 해외 출장으로 인하여, 천현우 앵커가 대신 진행.
-72. 배현진 앵커의 휴가, 해외 출장으로 인하여, 박연경 앵커가 대신 진행.
-73. MBC 뉴스데스크 개편으로 인한 공백 기간 동안 단독 진행.
-74. 밀양요양병원화재 관련 소식으로 인하여 김병헌 앵커는 밀양요양병원화재현장에서, 박성호, 손정은 앵커는 상암동 뉴스 스튜디오에서 진행.
-75. 북미정삼회담 관련 소식으로 인하여 박성호, 손정은 앵커는 싱가프로에서, 왕종명 앵커는 상암동 뉴스 스튜디오에서 진행.
-76. 6.13 지방선거로 인해 박성호, 손정은 앵커 대신 박성제, 김수진 앵커는 선택 2018 스튜디오에서, 왕종명 앵커는 상암동 뉴스 스튜디오에서 진행.
-77. 왕종명 앵커의 휴가, 해외 출장으로 인하여, 성장경 앵커가 대신 진행.
-78. 이재은 앵커의 개인 사정으로 인하여 강다솜 앵커가 대신 진행.
-79. 왕종명 앵커의 휴가, 해외 출장으로 인하여, 김경호 앵커가 대신 진행.
-80. 삼성TV 명품플러스원 제공 시보는 프랑스에서 개최된 [1998년 FIFA 월드컵을](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 앞둔 시점인 1998년 5월 20일에 공개되었지만 1998년 FIFA 월드컵에 참가한 [대한민국 축구 국가대표팀의](../Page/대한민국_축구_국가대표팀.md "wikilink") 조별 예선 탈락이 확정되면서 애니콜 제공 시보로 회귀했다.
-81. [1998년](../Page/1998년.md "wikilink")과 [1999년](../Page/1999년.md "wikilink")에는 일일연속극 《[보고 또 보고](../Page/보고_또_보고.md "wikilink")》 끝난 직후, 9시에 《MBC 뉴스데스크》를 동시간대 1위로 제쳤다.
-82. 2006년부터 2008년까지 당시 시청률 한자리수가 집계된 적이 있다.
+2.  2020년9월30일, 10월 1일,2일은 추석연휴 관계로 7:30\~8:10에 편성 되었다.
+3.  주말만 해당
+4.  월요일 \~ 목요일만 해당
+5.  단, 상황에 따라서 진행자가 아닌 기자나 아나운서가 맡는 경우도 있다.
+6.  초대 보도국장(앵커)
+7.  강성구 前 앵커의 갑작스러운 하차로 인하여, 1988년 11월 2일 \~ 11월 4일 방송분은 송도균 前 앵커가 진행.
+8.  추성춘 앵커의 휴가, 해외 출장으로 인하여, 1989년 8월 7일 \~ 8월 11일 방송분은 차인태 앵커가 대신 진행. 그리고 추성춘 앵커의 갑작스러운 하차로 인하여, 1989년 9월 20일 \~ 10월 6일 방송분은 차인태 前 앵커가 진행.
+9.  MBC 노조 파업으로 인하여, 1990년 5월 29일 \~ 6월 6일, 1990년 9월 4일 \~ 9월 6일, 12월 13일 \~ 12월 14일, 1992년 9월 2일 \~ 9월 4일, 1994년 10월 21일, 1995년 3월 1일, 8월 15일, 1996년 3월 15일 \~ 4월 5일 방송분은 엄기영 앵커가 단독으로 진행. 1995년 12월 14일은 백지연 앵커의 독감으로 인해 엄기영 앵커가 단독 진행. 2002년 송년특집 방송과 2003년 신년특집 방송 그리고 부산 APEC 특집 방송으로 인하여, 2002년 12월 31일 \~ 2003년 1월 1일, 2005년 11월 18일 방송분은 김주하 기자 없이 엄기영 앵커가 단독으로 진행. 그리고 2006년 추석특집 방송으로 인하여, 2006년 10월 5일 \~ 10월 6일 방송분은 박혜진 前 아나운서 없이 엄기영 前 앵커(MBC 특임시가)가 단독으로 진행.
+10. 김주하 前 앵커(前 아나운서, 現 [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink") 앵커)의 휴가, 해외 출장으로 인하여, 2002년 8월 12일 \~ 8월 16일, 2003년 8월 25일 \~ 8월 29일 방송분은 정혜정 前 아나운서가 대신 진행.
+11. [성수대교 붕괴 사고로](../Page/성수대교_붕괴_사고.md "wikilink") 인하여 엄기영 앵커가 성수대교 현지에서, 정동영, 정혜정 앵커가 뉴스센터에서 진행.
+12. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 정동영 앵커가 대신 진행.
+13. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 조정민 앵커가 대신 진행.
+14. 엄기영 앵커는 1996년 11월 8일을 마지막으로 **MBC 뉴스데스크** 1차 마지막 진행.
+15. MBC 노조파업으로 인하여, 이인용 앵커가 단독으로 진행.
+16. 홍콩 반환 3일전으로 인하여 이인용, 김지은 앵커는 여의도 뉴스 스튜디오에서 권재홍 앵커는 홍콩 현지에서 진행.
+17. 이인용 앵커의 휴가, 해외 출장으로 인하여, 권재홍 앵커가 대신 진행.
+18. 김지은 앵커의 휴가, 해외 출장으로 인하여, 1997년 8월 25일 \~ 9월 5일 방송분은 최율미 앵커가 대신 진행. 김지은 앵커의 갑작스러운 하차로 인하여, 1997년 9월 10일 \~ 9월 19일 방송분은 최율미 앵커가 진행.
+19. 정혜정 앵커의 휴가, 해외 출장으로 인하여, 오은실 앵커가 대신 진행.
+20. 이인용 앵커의 휴가, 해외 출장으로 인하여, 신경민 앵커가 대신 진행.
+21. 인천국제공항 첫 개항으로 인하여, 권재홍, 김주하 앵커는 여의도 뉴스스튜디오에서, 박광온 앵커는 인천국제공항에서 진행.
+22. 권재홍 앵커의 휴가, 해외 출장으로 인하여, 박광온 앵커가 대신 진행.
+23. 김주하 앵커의 휴가, 해외 출장으로 인하여, 최율미 앵커가 대신 진행.
+24. 김주하 앵커의 휴가, 해외 출장으로 인하여, 2004년 7월 12일 \~ 7월 16일, 2004년 9월 24일 \~ 10월 1일, 2005년 7월 25일 \~ 7월 29일 방송분은 박혜진 앵커가 대신 진행, 그리고 엄기영 앵커는 2008년 2월 1일을 마지막으로 **MBC 뉴스데스크** 2차 마지막 진행.
+25. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 김세용 앵커가 대신 진행.
+26. 엄기영, 김주하 앵커의 휴가, 해외 출장으로 인하여, 김세용, 정혜정 앵커가 대신 진행.
+27. 대구 지하철 참사로 인하여, 엄기영, 김주하 앵커는 서울 여의도 뉴스 스튜디오 에서 김세용 앵커는 대구 현지에서 진행.
+28. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 이인용 앵커가 대신 진행.
+29. 2004 아테네올림픽 특집 방송으로 인하여, 김주하 앵커 대신 최윤영 앵커가 진행.
+30. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 최일구 앵커가 대신 진행.
+31. 2004년 송년특집 방송으로 인하여, 엄기영, 김주하 앵커는 서울 여의도 뉴스 스튜디오 에서 최일구 앵커는 서울 광화문에서 진행.
+32. 다케시마의 날 지정특집 방송으로 인하여, 엄기영, 박혜진 앵커는 서울 여의도 뉴스 스튜디오 에서 김주하 앵커는 독도에서 진행.
+33. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 연보흠 앵커가 대신 진행.
+34. 광복 60주년을 맞아 엄기영, 박혜진 앵커는 여의도 뉴스 스튜디오 에서 왕종명 앵커는 독도에서 김주하 앵커는 독립기념관 에서 현지 진행.
+35. 부산 APEC 특집 방송으로 인하여, 엄기영, 신경민 앵커는 부산 APEC 현지에서, 김주하 앵커는 여의도 스튜디오에서 진행.
+36. 2006 지방선거 특집 방송으로 인하여, 엄기영, 김은혜 앵커는 서울 여의도 뉴스 스튜디오 에서 최일구, 박혜진 앵커는 서울시청앞에서 진행.
+37. 박혜진 앵커의 휴가, 해외 출장으로 인하여, 서현진 앵커가 대신 진행.
+38.
+39. 9.11테러 5주년으로 인하여, 엄기영, 박혜진 앵커는 서울 여의도 뉴스 스튜디오 에서 권재홍 앵커는 워싱턴 현지에서 진행.
+40. 엄기영 앵커의 휴가, 해외 출장으로 인하여, 2007년 7월 30일 \~ 8월 3일 방송분은 신경민 앵커가 대신 진행.
+41. 박혜진 앵커의 휴가, 해외 출장으로 인하여, 김수진 앵커가 대신 진행.
+42. 2008 베이징올림픽 특집 방송으로 인하여, 박혜진 앵커 대신 손정은 앵커가 진행.
+43. 신경민 앵커의 휴가, 해외 출장으로 인하여, 2008년 11월 10일 \~ 11월 14일 방송분은 김세용 앵커가 대신 진행. 그리고 신경민 앵커의 갑작스러운 하차로 인하여, 2009년 4월 14일 \~ 4월 24일 방송분은 김세용 앵커가 진행.
+44. MBC 노조파업으로 인하여, 신경민 앵커가 단독으로 진행.
+45. MBC 노조파업으로 인하여, 김세용 앵커가 단독으로 진행.
+46. 이정민 앵커의 휴가, 해외 출장으로 인하여, 손정은 앵커가 대신 진행.
+47. 권순표 앵커의 휴가, 해외 출장으로 인하여, 왕종명 앵커가 대신 진행.
+48. MBC 노조파업으로 인하여, 권재홍 앵커가 단독으로 진행.
+49. MBC 노조파업으로 인하여, 월요일 \~ 수요일 방송분은 권재홍 앵커가, 목요일 \~ 금요일 방송분은 김세용 앵커가 단독으로 진행.
+50. 이정민 앵커의 휴가, 해외 출장으로 인하여, 2010년 9월 20일 \~ 9월 22일, 2011년 1월 3일 \~ 1월 7일, 2011년 3월 31일 \~ 4월 5일 방송분은 배현진 앵커가 대신 진행.
+51. 권재홍, 이정민 앵커의 휴가, 해외 출장으로 인하여, 왕종명, 배현진 앵커가 대신 진행.
+52. 권재홍, 이정민 앵커의 휴가, 해외 출장으로 인하여, 2011년 1월 3일 \~ 1월 7일 방송분은 최일구, 배현진 앵커가 대신 진행.
+53. 권재홍 앵커의 휴가, 해외 출장으로 인하여 최일구 앵커가 대신 진행.
+54. 권재홍, 배현진 앵커의 휴가, 해외 출장으로 인하여 최일구, 문지애 앵커가 대신 진행.
+55. 권재홍 앵커의 휴가, 해외 출장으로 인하여 김세용 앵커가 대신 진행.
+56. MBC 노조파업으로 인하여, 황헌 앵커가 단독으로 진행.
+57. 권재홍 앵커의 허리 부상으로 인하여, 정연국 앵커가 대신 진행.
+58. 권재홍 앵커의 허리 부상으로 인하여, 황헌 앵커가 대신 진행.
+59. 권재홍 앵커의 휴가, 해외 출장으로 인하여, 최대현 앵커가 대신 진행.
+60. 권재홍 앵커의 휴가, 해외 출장으로 인하여, 2012년 8월 8일 \~ 8월 17일, 2012년 10월 17일 \~ 10월 26일, 2013년 1월 30일 \~ 2월 1일, 2013년 6월 12일 \~ 6월 21일, 2013년 10월 24일 \~ 10월 25일 방송분은 박용찬 앵커가 대신 진행.
+61. 2012 런던올림픽 특집 방송으로 인하여 박용찬, 배현진 앵커는 여의도 뉴스 스튜디오에서 권재홍, 양승은 앵커는 런던 현지 에서 진행.
+62. 배현진 앵커의 휴가, 해외 출장으로 인하여, 양승은 앵커가 대신 진행.
+63. 천안함 피격 3주기 추모식으로 인하여, 권재홍, 김소영 앵커는 여의도 뉴스 스튜디오에서, 이상현 앵커는 평택 해군 함대 사령부에서 진행.
+64. 추석연휴로 인하여, 권재홍, 김소영 앵커는 여의도 뉴스 스튜디오에서, 배현진 앵커는 경부고속도로 안성휴게소에서 진행.
+65. 박용찬 앵커의 휴가, 해외 출장으로 인하여, 2015년 8월 3일 \~ 8월 7일 방송분은 박상권 앵커가 대신 진행. 그리고 이상현 앵커의 휴가, 해외 출장으로 인하여, 2016년 7월 25일 \~ 7월 29일, 2016년 9월 26일 방송분은 박상권 앵커가 대신 진행.
+66. 배현진 앵커의 휴가, 해외 출장으로 인하여, 이정민 앵커가 대신 진행.
+67. 2016년 새해를 맞아 이상현, 배현진 앵커는 상암동 뉴스 스튜디오에서, 박상권 앵커는 국회에서, 이정민 앵커는 오두산 통일전망대에서 진행.
+68.
+69. 2016 리우올림픽 특집 방송으로 인하여 이상현, 배현진 앵커는 상암동 뉴스 스튜디오에서, 박상권 앵커는 리우 현지 에서 진행.
+70. 배현진 앵커의 휴가, 해외 출장으로 인하여, 정다희 앵커가 대신 진행.
+71. 이상현 앵커의 휴가, 해외 출장으로 인하여, 이준희 앵커가 대신 진행.
+72. 이상현 앵커의 휴가, 해외 출장으로 인하여, 천현우 앵커가 대신 진행.
+73. 배현진 앵커의 휴가, 해외 출장으로 인하여, 박연경 앵커가 대신 진행.
+74. MBC 뉴스데스크 개편으로 인한 공백 기간 동안 단독 진행.
+75. 밀양요양병원화재 관련 소식으로 인하여 김병헌 앵커는 밀양요양병원화재현장에서, 박성호, 손정은 앵커는 상암동 뉴스 스튜디오에서 진행.
+76. 북미정삼회담 관련 소식으로 인하여 박성호, 손정은 앵커는 싱가프로에서, 왕종명 앵커는 상암동 뉴스 스튜디오에서 진행.
+77. 6.13 지방선거로 인해 박성호, 손정은 앵커 대신 박성제, 김수진 앵커는 선택 2018 스튜디오에서, 왕종명 앵커는 상암동 뉴스 스튜디오에서 진행.
+78. 왕종명 앵커의 휴가, 해외 출장으로 인하여, 성장경 앵커가 대신 진행.
+79. 이재은 앵커의 개인 사정으로 인하여 강다솜 앵커가 대신 진행.
+80. 왕종명 앵커의 휴가, 해외 출장으로 인하여, 김경호 앵커가 대신 진행.
+81. 삼성TV 명품플러스원 제공 시보는 프랑스에서 개최된 [1998년 FIFA 월드컵을](https://ko.wikipedia.org/wiki/1998년_FIFA_월드컵 "wikilink") 앞둔 시점인 1998년 5월 20일에 공개되었지만 1998년 FIFA 월드컵에 참가한 [대한민국 축구 국가대표팀의](../Page/대한민국_축구_국가대표팀.md "wikilink") 조별 예선 탈락이 확정되면서 애니콜 제공 시보로 회귀했다.
+82. [1998년](../Page/1998년.md "wikilink")과 [1999년](../Page/1999년.md "wikilink")에는 일일연속극 《[보고 또 보고](../Page/보고_또_보고.md "wikilink")》 끝난 직후, 9시에 《MBC 뉴스데스크》를 동시간대 1위로 제쳤다.
+83. 2006년부터 2008년까지 당시 시청률 한자리수가 집계된 적이 있다.
