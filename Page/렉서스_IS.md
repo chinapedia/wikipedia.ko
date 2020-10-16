@@ -39,7 +39,7 @@
   - [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink") - [Q50](https://ko.wikipedia.org/wiki/인피니티_Q50 "wikilink")
   - [재규어](../Page/재규어_자동차.md "wikilink") - [XE](https://ko.wikipedia.org/wiki/재규어_XE "wikilink")
   - [캐딜락](../Page/캐딜락.md "wikilink") - [ATS](../Page/캐딜락_ATS.md "wikilink")
-  - [볼보](../Page/볼보.md "wikilink") - [S60](https://ko.wikipedia.org/wiki/볼보_S60 "wikilink")
+  - [볼보](../Page/볼보.md "wikilink") - [S60](../Page/볼보_S60.md "wikilink")
   - [알파 로메오](../Page/알파_로메오.md "wikilink") - [줄리아](https://ko.wikipedia.org/wiki/알파_로메오_줄리아 "wikilink")
 
 [IS](https://ko.wikipedia.org/wiki/분류:렉서스의_차종 "wikilink") [IS](https://ko.wikipedia.org/wiki/분류:스포츠_세단 "wikilink") [IS](https://ko.wikipedia.org/wiki/분류:해치백 "wikilink") [IS](https://ko.wikipedia.org/wiki/분류:컨버터블 "wikilink") [IS](https://ko.wikipedia.org/wiki/분류:후륜구동 "wikilink") [IS](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [IS](https://ko.wikipedia.org/wiki/분류:중형_승용차 "wikilink") [IS](https://ko.wikipedia.org/wiki/분류:하이브리드_차량 "wikilink") [IS](https://ko.wikipedia.org/wiki/분류:1990년대_자동차 "wikilink") [IS](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [IS](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [IS](https://ko.wikipedia.org/wiki/분류:1998년_도입된_자동차 "wikilink")

@@ -261,7 +261,7 @@
 
   - <http://www.mtv.com/videos/lady-gaga/294748/poker-face.jhtml> [MTV](../Page/MTV.md "wikilink")
 
-[분류:2008년 싱글](https://ko.wikipedia.org/wiki/분류:2008년_싱글 "wikilink") [분류:2008년 노래](https://ko.wikipedia.org/wiki/분류:2008년_노래 "wikilink") [분류:레이디 가가의 노래](https://ko.wikipedia.org/wiki/분류:레이디_가가의_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:영국 싱글 차트 1위 싱글](https://ko.wikipedia.org/wiki/분류:영국_싱글_차트_1위_싱글 "wikilink")
+[분류:2008년 싱글](https://ko.wikipedia.org/wiki/분류:2008년_싱글 "wikilink") [분류:2008년 노래](https://ko.wikipedia.org/wiki/분류:2008년_노래 "wikilink") [분류:레이디 가가의 노래](https://ko.wikipedia.org/wiki/분류:레이디_가가의_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:영국 싱글 차트 1위 싱글](https://ko.wikipedia.org/wiki/분류:영국_싱글_차트_1위_싱글 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.
 2.

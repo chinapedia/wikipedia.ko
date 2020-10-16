@@ -3,7 +3,7 @@
 
 **가야IBS**(伽倻-)은 [태영운송그룹](../Page/태영운송그룹.md "wikilink") 계열 [경상남도](https://ko.wikipedia.org/wiki/경상남도 "wikilink") [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 자회사이자 경상남도 김해시 생림대로 95-31 (삼계동)에 본사를, 김해시 골든루트로66번길 143 (풍유동)에 본점을 둔 [버스](../Page/버스.md "wikilink") 운송 업체이다. 주로 [김해시](https://ko.wikipedia.org/wiki/김해시 "wikilink") 지역과 [부산광역시](https://ko.wikipedia.org/wiki/부산광역시 "wikilink"), [창원시](../Page/창원시.md "wikilink") 지역을 기점으로 하는 노선을 운행한다.
 
-방계회사로는 공항버스 업체인 [태영공항리무진](../Page/태영공항리무진.md "wikilink"), 부산시내버스 업체인 [태영버스](../Page/태영버스.md "wikilink"), 부산마을버스 업체인 [녹산교통](https://ko.wikipedia.org/wiki/녹산교통 "wikilink"), [부경버스](../Page/부경버스.md "wikilink"), [성진버스](https://ko.wikipedia.org/wiki/성진버스 "wikilink"), [태영교통](../Page/태영교통_\(부산\).md "wikilink"), 양산마을버스 업체인 [양산BS](https://ko.wikipedia.org/wiki/양산BS "wikilink") 및 김해시 시내버스 업체인 [동부교통](../Page/동부교통.md "wikilink"), [김해BUS](../Page/김해BUS.md "wikilink") 등을 두고 있다.
+방계회사로는 공항버스 업체인 [태영공항리무진](../Page/태영공항리무진.md "wikilink"), 부산시내버스 업체인 [태영버스](../Page/태영버스.md "wikilink"), 부산마을버스 업체인 [녹산교통](https://ko.wikipedia.org/wiki/녹산교통 "wikilink"), [부경버스](../Page/부경버스.md "wikilink"), [성진버스](https://ko.wikipedia.org/wiki/성진버스 "wikilink"), [태영교통](../Page/태영교통_\(부산\).md "wikilink"), 양산마을버스 업체인 [양산BS](../Page/양산BS.md "wikilink") 및 김해시 시내버스 업체인 [동부교통](../Page/동부교통.md "wikilink"), [김해BUS](../Page/김해BUS.md "wikilink") 등을 두고 있다.
 
 ## 역사
 

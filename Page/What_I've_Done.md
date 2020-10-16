@@ -27,7 +27,7 @@
 
 "What I've Done"의 뮤직비디오는 인류에 대한 문제점과 풍자, 지구와 환경에 대한 재난과 나쁜 영향들을 다루고 있다. 뮤직비디오 내에서 여러가지 장면을 대비하여 구성하는데, 비만인 사람이 패스트 푸드를 먹는 장면과 줄자로 허리를 재는 여자가 나오다 반대적으로 배고픔에 굶주려 몰골이 보이는 남자가 나온다. 또한 과거 아프리카계 미국인들을 차별하였던 [쿠 클럭스 클랜과](../Page/쿠_클럭스_클랜.md "wikilink") 핵 폭발 장면, [9·11 테러로](https://ko.wikipedia.org/wiki/9·11_테러 "wikilink") [세계 무역 센터가](https://ko.wikipedia.org/wiki/세계_무역_센터 "wikilink") 붕괴되는 장면, 아이들이 미국 국기를 흔드는 장면과 이와는 반대로 중동에서 어린 아이가 [AK-47](../Page/AK-47.md "wikilink")을 쥐고 있는 모습, 기름 유출로 기름에 뒤덮인 새 등 여러 장면으로 구성되어 있다. 뮤직비디오의 감독은 밴드의 DJ인 [조셉 한이](https://ko.wikipedia.org/wiki/조셉_한 "wikilink") 맡았으며, 촬영은 캘리포니아 사막에서 이루어졌다.\[3\] [2007년](../Page/2007년.md "wikilink") [4월 2일](../Page/4월_2일.md "wikilink"), [MTV](../Page/MTV.md "wikilink")와 [퓨즈 TV를](https://ko.wikipedia.org/wiki/퓨즈_TV "wikilink") 통해 선공개되었으며, 이어 다음 날 MTV 아시아, MTV 독일 등 전 세계에 공개되었다.
 
-사막에서 촬영한 밴드 장면과 함께 뮤직비디오에서는 사회의 다양성과 [오염](https://ko.wikipedia.org/wiki/오염 "wikilink")과 [지구 온난화](../Page/지구_온난화.md "wikilink"), [인종 차별](../Page/인종_차별.md "wikilink"), [나치즘](../Page/나치즘.md "wikilink"), [쿠 클럭스 클랜](../Page/쿠_클럭스_클랜.md "wikilink"), [낙태](../Page/낙태.md "wikilink"), [기아](../Page/굶주림.md "wikilink"), [테러리즘](../Page/테러리즘.md "wikilink"), [복지](../Page/복지.md "wikilink"), [핵 전쟁](https://ko.wikipedia.org/wiki/핵_전쟁 "wikilink"), 빈곤, 마약 중독, 비만 등과 유가 폭등, 범죄 등을 포함한 장면들이 나오며, [테레사 수녀](../Page/테레사_수녀.md "wikilink"), [에이브러햄 링컨](../Page/에이브러햄_링컨.md "wikilink"), [로버트 케네디](https://ko.wikipedia.org/wiki/로버트_케네디 "wikilink"), [피델 카스트로](../Page/피델_카스트로.md "wikilink"), [아돌프 히틀러](../Page/아돌프_히틀러.md "wikilink"), [베니토 무솔리니](../Page/베니토_무솔리니.md "wikilink"), [마오 쩌둥](https://ko.wikipedia.org/wiki/마오_쩌둥 "wikilink"), [이오시프 스탈린](../Page/이오시프_스탈린.md "wikilink"), [마하트마 간디](../Page/마하트마_간디.md "wikilink") 등 역사 속 중요한 인물들 또한 짧게 나온다. 또한 [라이즈 어게인스트의](../Page/라이즈_어게인스트.md "wikilink") "Ready to Fall" 뮤직비디오에 사용되기도 했던 교통 장면과 네이팜탄 폭발 장면 등이 사용되었다.
+사막에서 촬영한 밴드 장면과 함께 뮤직비디오에서는 사회의 다양성과 [오염](../Page/오염.md "wikilink")과 [지구 온난화](../Page/지구_온난화.md "wikilink"), [인종 차별](../Page/인종_차별.md "wikilink"), [나치즘](../Page/나치즘.md "wikilink"), [쿠 클럭스 클랜](../Page/쿠_클럭스_클랜.md "wikilink"), [낙태](../Page/낙태.md "wikilink"), [기아](../Page/굶주림.md "wikilink"), [테러리즘](../Page/테러리즘.md "wikilink"), [복지](../Page/복지.md "wikilink"), [핵 전쟁](https://ko.wikipedia.org/wiki/핵_전쟁 "wikilink"), 빈곤, 마약 중독, 비만 등과 유가 폭등, 범죄 등을 포함한 장면들이 나오며, [테레사 수녀](../Page/테레사_수녀.md "wikilink"), [에이브러햄 링컨](../Page/에이브러햄_링컨.md "wikilink"), [로버트 케네디](https://ko.wikipedia.org/wiki/로버트_케네디 "wikilink"), [피델 카스트로](../Page/피델_카스트로.md "wikilink"), [아돌프 히틀러](../Page/아돌프_히틀러.md "wikilink"), [베니토 무솔리니](../Page/베니토_무솔리니.md "wikilink"), [마오 쩌둥](https://ko.wikipedia.org/wiki/마오_쩌둥 "wikilink"), [이오시프 스탈린](../Page/이오시프_스탈린.md "wikilink"), [마하트마 간디](../Page/마하트마_간디.md "wikilink") 등 역사 속 중요한 인물들 또한 짧게 나온다. 또한 [라이즈 어게인스트의](../Page/라이즈_어게인스트.md "wikilink") "Ready to Fall" 뮤직비디오에 사용되기도 했던 교통 장면과 네이팜탄 폭발 장면 등이 사용되었다.
 
 이후 MTV에서 진행한 프로그램 *Battle of the Videos*에서 [에반에센스](https://ko.wikipedia.org/wiki/에반에센스 "wikilink")의 "Sweet Sacrifice"와 릴 마마의 "Lip Gloss"를 눌렀으며\[4\] 뮤직비디오 공개 후 MTV의 토탈 리퀘스트 라이브에서 첫 주에 1위, 이후 6차례 1위에 올라 장기간 동안 인기를 끌었다. 또한 360만명 이상의 조회 수를 기록하여 [유튜브](../Page/유튜브.md "wikilink") 내 가장 많이 본 비디오 50위 안에 기록되었으나 이후 [워너 뮤직](https://ko.wikipedia.org/wiki/워너브라더스 "wikilink") 측에서 게시물을 삭제하였다. 또한 AOL에서 라이브 퍼포먼스를 진행하기도 하였다.
 
@@ -38,7 +38,7 @@
   - 전갈
   - 시계 태엽
   - [흰머리수리](../Page/흰머리수리.md "wikilink")
-  - [사막화](https://ko.wikipedia.org/wiki/사막화 "wikilink")
+  - [사막화](../Page/사막화.md "wikilink")
   - [걸프전](https://ko.wikipedia.org/wiki/걸프전 "wikilink")에서의 미사일 발사 장면
   - 경찰 폭동 진압
   - 1960년대 앨라배마 버밍엄에서의 시민 인권 운동
@@ -48,7 +48,7 @@
   - [베트남 전쟁](../Page/베트남_전쟁.md "wikilink")
   - [지구 온난화](../Page/지구_온난화.md "wikilink")
   - 도시화
-  - [오염](https://ko.wikipedia.org/wiki/오염 "wikilink")
+  - [오염](../Page/오염.md "wikilink")
   - 상아를 삶는 장면
   - 삼림 벌채
   - [북극곰](../Page/북극곰.md "wikilink")

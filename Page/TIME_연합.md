@@ -22,7 +22,7 @@
       - [아헨 공과대학교](../Page/아헨_공과대학교.md "wikilink")(RWTH Aachen) (DE-RWTH)
       - [슈투트가르트 대학교](https://ko.wikipedia.org/wiki/슈투트가르트_대학교 "wikilink") (Universität Stuttgart)
       - [뮌헨 공과대학교](../Page/뮌헨_공과대학교.md "wikilink")(Technische Universität München)
-      - [베를린 공과대학교](https://ko.wikipedia.org/wiki/베를린_공과대학교 "wikilink")(Technische Universität Berlin)
+      - [베를린 공과대학교](../Page/베를린_공과대학교.md "wikilink")(Technische Universität Berlin)
 
 #### 덴마크
 

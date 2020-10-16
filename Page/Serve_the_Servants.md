@@ -7,6 +7,6 @@
 
   - [커트 코베인](../Page/커트_코베인.md "wikilink") : [보컬](https://ko.wikipedia.org/wiki/가수 "wikilink"), [기타](../Page/기타.md "wikilink")
   - [데이브 그롤](../Page/데이브_그롤.md "wikilink") : [드럼](https://ko.wikipedia.org/wiki/드럼 "wikilink")
-  - [크리스 노보셀릭](https://ko.wikipedia.org/wiki/크리스_노보셀릭 "wikilink") : [베이스 기타](../Page/베이스_기타.md "wikilink")
+  - [크리스 노보셀릭](../Page/크리스_노보셀릭.md "wikilink") : [베이스 기타](../Page/베이스_기타.md "wikilink")
 
 [분류:1993년 노래](https://ko.wikipedia.org/wiki/분류:1993년_노래 "wikilink") [분류:너바나의 노래](https://ko.wikipedia.org/wiki/분류:너바나의_노래 "wikilink") [분류:그런지 노래](https://ko.wikipedia.org/wiki/분류:그런지_노래 "wikilink")

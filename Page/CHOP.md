@@ -10,7 +10,7 @@ CHOP의 구성 요소는 다음과 같다:
   - [사이클로포스파미드](https://ko.wikipedia.org/wiki/사이클로포스파미드 "wikilink") - [알킬화제](https://ko.wikipedia.org/wiki/알킬화제 "wikilink")로 DNA 이중 나선을 교차 연결시킴.
   - [하이드록시도노루비신](../Page/독소루비신.md "wikilink") - [독소루비신](../Page/독소루비신.md "wikilink") (doxorubicin), 또는 아드리아마이신 (Adriamycin)이라고도 하며, DNA 이중 나선 사이에 끼어드는 작용을 함.
   - [온코빈](../Page/빈크리스틴.md "wikilink") - [빈크리스틴](../Page/빈크리스틴.md "wikilink") (vincristine)의 상품명. [튜블린](https://ko.wikipedia.org/wiki/튜블린 "wikilink") (tubulin) 단백질에 작용하여 세포 분열을 막음.
-  - [프레드니손](https://ko.wikipedia.org/wiki/프레드니손 "wikilink") 또는 [프레드니솔론](../Page/프레드니솔론.md "wikilink") (prednisolone) - [코르티코스테로이드](https://ko.wikipedia.org/wiki/코르티코스테로이드 "wikilink") (corticosteroid)의 한 종류.
+  - [프레드니손](https://ko.wikipedia.org/wiki/프레드니손 "wikilink") 또는 [프레드니솔론](../Page/프레드니솔론.md "wikilink") (prednisolone) - [코르티코스테로이드](../Page/코르티코스테로이드.md "wikilink") (corticosteroid)의 한 종류.
 
 정상 세포들은 이들 약으로 인한 손상을 암세포보다 더 빠르게 치유할 수 있다.
 

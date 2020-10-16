@@ -29,5 +29,5 @@
 
 [분류:팝 음반](https://ko.wikipedia.org/wiki/분류:팝_음반 "wikilink") [분류:신승훈의 음반](https://ko.wikipedia.org/wiki/분류:신승훈의_음반 "wikilink") [분류:대한민국의 음반](https://ko.wikipedia.org/wiki/분류:대한민국의_음반 "wikilink") [분류:한국어 음반](https://ko.wikipedia.org/wiki/분류:한국어_음반 "wikilink") [분류:2004년 음반](https://ko.wikipedia.org/wiki/분류:2004년_음반 "wikilink")
 
-1.  [9집 ‘Ninth Reply’를 발표한 국민가수 신승훈](http://zine.media.daum.net/ladykh/view.html?cateid=3000&newsid=20040324102802048&p=ladykh)
+1.  [9집 ‘Ninth Reply’를 발표한 국민가수 신승훈](http://lady.khan.co.kr/khlady.html?mode=view&artid=4340)
 2.

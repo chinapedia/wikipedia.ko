@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [보잉 F-15SE 사일런트 이글](https://ko.wikipedia.org/wiki/보잉_F-15SE_사일런트_이글).
 
 
-**보잉 F-15SE 사일런트 이글**(Boeing F-15SE Silent Eagle)은 [보잉](../Page/보잉.md "wikilink")이 [F-15E](https://ko.wikipedia.org/wiki/F-15E "wikilink")에 [스텔스](https://ko.wikipedia.org/wiki/스텔스 "wikilink") 기술을 적용시켜 개량한 [4.5세대 전투기다](https://ko.wikipedia.org/wiki/4.5세대_전투기 "wikilink").
+**보잉 F-15SE 사일런트 이글**(Boeing F-15SE Silent Eagle)은 [보잉](../Page/보잉.md "wikilink")이 [F-15E](https://ko.wikipedia.org/wiki/F-15E "wikilink")에 [스텔스](https://ko.wikipedia.org/wiki/스텔스 "wikilink") 기술을 적용시켜 [4.5세대 전투기로](https://ko.wikipedia.org/wiki/4.5세대_전투기 "wikilink") 개량할 예정이었으나 최종적으로 계획이 전면 취소되었다.
 
 ## 개발 과정
 

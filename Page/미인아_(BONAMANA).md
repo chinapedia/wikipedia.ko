@@ -142,7 +142,7 @@
 <tr class="odd">
 <td><p>2010년 5월 30일<br />
 <small>(15일 녹화)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a> <a href="../Page/열린음악회.md" title="wikilink">열린음악회</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a> <a href="../Page/열린음악회.md" title="wikilink">열린음악회</a></p></td>
 <td><p>Sorry, Sorry + 멘트 + 미인아 (BONAMANA)</p></td>
 </tr>
 <tr class="even">
@@ -240,7 +240,7 @@
 <tr class="even">
 <td><p>2010년 7월 25일<br />
 <small>(현지 시각 6일 녹화)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a> <a href="../Page/열린음악회.md" title="wikilink">열린음악회</a> - 중국 글로벌 한상 대회 기념 <small>(<a href="../Page/김희철_(가수).md" title="wikilink">희철</a>, <a href="https://ko.wikipedia.org/wiki/최시원" title="wikilink">시원</a>, <a href="../Page/규현.md" title="wikilink">규현</a> 제외)</small></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a> <a href="../Page/열린음악회.md" title="wikilink">열린음악회</a> - 중국 글로벌 한상 대회 기념 <small>(<a href="../Page/김희철_(가수).md" title="wikilink">희철</a>, <a href="https://ko.wikipedia.org/wiki/최시원" title="wikilink">시원</a>, <a href="../Page/규현.md" title="wikilink">규현</a> 제외)</small></p></td>
 <td><p>너 같은 사람 또 없어 (No Other) + 멘트 + 미인아 (BONAMANA)</p></td>
 </tr>
 <tr class="odd">
