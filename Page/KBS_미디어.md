@@ -86,7 +86,7 @@
 
 [4차원 탐정 똘비](../Page/4차원_탐정_똘비.md "wikilink")
 
-**꾸러기 수비대**
+[꾸러기 수비대](../Page/꾸러기_수비대.md "wikilink")
 
 [고스트 바둑왕](https://ko.wikipedia.org/wiki/고스트_바둑왕 "wikilink")
 
@@ -120,17 +120,17 @@
 
 [별나라 요정 코미](https://ko.wikipedia.org/wiki/별나라_요정_코미 "wikilink")
 
-**베르사이유의 장미**
+[베르사이유의 장미](../Page/베르사이유의_장미.md "wikilink")
 
 [보노보노](../Page/보노보노.md "wikilink")
 
-**빨강머리 앤**
+[빨강머리 앤](https://ko.wikipedia.org/wiki/빨강머리_앤 "wikilink")
 
-**뾰로롱 꼬마마녀**
+[뾰로롱 꼬마마녀](../Page/뾰로롱_꼬마마녀.md "wikilink")
 
 [사자왕 가오가이거](https://ko.wikipedia.org/wiki/사자왕_가오가이거 "wikilink")
 
-**이상한 나라의 폴**
+[이상한 나라의 폴](../Page/이상한_나라의_폴.md "wikilink")
 
 [원피스](../Page/원피스.md "wikilink")
 
@@ -144,9 +144,9 @@
 
 [무지개요정 통통](https://ko.wikipedia.org/wiki/무지개요정_통통 "wikilink")
 
-**재키찬 어드벤처**
+[재키찬 어드벤처](../Page/재키찬_어드벤처.md "wikilink")
 
-정의의 용사 카봇
+[정의의 용사 카봇](https://ko.wikipedia.org/wiki/정의의_용사_카봇 "wikilink")
 
 [천사소녀 네티](https://ko.wikipedia.org/wiki/천사소녀_네티 "wikilink")
 

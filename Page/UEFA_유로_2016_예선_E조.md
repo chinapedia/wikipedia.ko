@@ -358,7 +358,7 @@
 
 <!-- end list -->
 
-  - [조던 헨더슨](https://ko.wikipedia.org/wiki/조던_헨더슨 "wikilink") (슬로베니아전 자책골)
+  - [조던 헨더슨](../Page/조던_헨더슨.md "wikilink") (슬로베니아전 자책골)
 
   - [라그나르 클라반](../Page/라그나르_클라반.md "wikilink") (스위스전 자책골)
 

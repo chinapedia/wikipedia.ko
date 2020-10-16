@@ -11,7 +11,7 @@
 
 같은 해, 「[스케치북 \~full color's\~](../Page/스케치북_\(만화\).md "wikilink")」에서 [그로스 하청](https://ko.wikipedia.org/wiki/그로스_하청 "wikilink") 제작을 개시. 이후 [A-1 Pictures의](../Page/A-1_Pictures.md "wikilink") 제작협력을 중심으로, [2008년](../Page/2008년.md "wikilink")의 『[칸나기](../Page/칸나기.md "wikilink")』에서는 대표인 야마모토가 감독을 맡아, Ordet도 프로덕션 협력으로서 참가했다.
 
-[2011년](../Page/2011년.md "wikilink") 8월, [지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink") 「주식회사 [울트라 슈퍼 픽쳐스](https://ko.wikipedia.org/wiki/울트라_슈퍼_픽쳐스 "wikilink")」가 설립되어, 3D CG 제작의 주식회사 [산지겐](https://ko.wikipedia.org/wiki/산지겐 "wikilink"), 2D 애니메이션 제작의 주식회사 [트리거](https://ko.wikipedia.org/wiki/트리거_\(기업\) "wikilink") 및 주식회사 [라이덴 필름과](https://ko.wikipedia.org/wiki/라이덴_필름 "wikilink") 함께 그룹 기업의 일원이 되었다.
+[2011년](../Page/2011년.md "wikilink") 8월, [지주회사](../Page/지주회사.md "wikilink") 「주식회사 [울트라 슈퍼 픽쳐스](https://ko.wikipedia.org/wiki/울트라_슈퍼_픽쳐스 "wikilink")」가 설립되어, 3D CG 제작의 주식회사 [산지겐](https://ko.wikipedia.org/wiki/산지겐 "wikilink"), 2D 애니메이션 제작의 주식회사 [트리거](https://ko.wikipedia.org/wiki/트리거_\(기업\) "wikilink") 및 주식회사 [라이덴 필름과](https://ko.wikipedia.org/wiki/라이덴_필름 "wikilink") 함께 그룹 기업의 일원이 되었다.
 
 ## 작품 이력
 

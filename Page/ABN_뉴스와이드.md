@@ -27,11 +27,11 @@
 ## 관련 항목
 
   - [ABN](../Page/아름방송네트워크.md "wikilink")
-  - [뉴스와이드](https://ko.wikipedia.org/wiki/뉴스와이드 "wikilink")
+  - [뉴스와이드](../Page/뉴스와이드.md "wikilink")
 
 ## 외부 링크
 
   - [ABN 공식 홈페이지](http://www.abn.co.kr/)
   - [ABN 뉴스 공식 페이지](https://www.abn.co.kr/news/newsMain.do)
 
-[분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink") [분류:아름방송의 뉴스 프로그램](https://ko.wikipedia.org/wiki/분류:아름방송의_뉴스_프로그램 "wikilink")
+[분류:대한민국의 뉴스 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:대한민국의_뉴스_텔레비전_프로그램 "wikilink") [분류:아름방송의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:아름방송의_텔레비전_프로그램 "wikilink")
