@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IG 파르벤](https://ko.wikipedia.org/wiki/IG_파르벤).
 
 
-**합동 염료공업 주식회사**(), 약칭 **IG 파르벤**()은 독일의 [화학공업](https://ko.wikipedia.org/wiki/화학공업 "wikilink") [복합기업](https://ko.wikipedia.org/wiki/복합기업 "wikilink")이다. [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink") 이래로 긴밀하게 협력하던 6개 주요 화공기업이 1925년 합병하여 만들어졌다. IG 파르벤은 존재하던 당시 세계 최대의 화공기업이었으며, 산업 전체에서 보아도 [제너럴모터스](https://ko.wikipedia.org/wiki/제너럴모터스 "wikilink"), [미국철강](https://ko.wikipedia.org/wiki/미국철강 "wikilink"), [스탠더드오일 뉴저지에](https://ko.wikipedia.org/wiki/스탠더드오일_뉴저지 "wikilink") 이어 세계 4위 규모의 기업이었다.
+**합동 염료공업 주식회사**(), 약칭 **IG 파르벤**()은 독일의 [화학공업](../Page/화학공업.md "wikilink") [복합기업](https://ko.wikipedia.org/wiki/복합기업 "wikilink")이다. [제1차 세계 대전](../Page/제1차_세계_대전.md "wikilink") 이래로 긴밀하게 협력하던 6개 주요 화공기업이 1925년 합병하여 만들어졌다. IG 파르벤은 존재하던 당시 세계 최대의 화공기업이었으며, 산업 전체에서 보아도 [제너럴모터스](https://ko.wikipedia.org/wiki/제너럴모터스 "wikilink"), [미국철강](https://ko.wikipedia.org/wiki/미국철강 "wikilink"), [스탠더드오일 뉴저지에](https://ko.wikipedia.org/wiki/스탠더드오일_뉴저지 "wikilink") 이어 세계 4위 규모의 기업이었다.
 
 IG 파르벤 소속 연구원들은 1937년 [오토 바이어가](https://ko.wikipedia.org/wiki/오토_바이어 "wikilink") [폴리우레탄](../Page/폴리우레탄.md "wikilink") 합성법을 발견한 것을 비롯하여 화학의 모든 분야의 기초지식에 기여했다. 파르벤 소속 연구원 신분으로 [노벨상](../Page/노벨상.md "wikilink")을 수상한 화학자도 여러 명 있다.
 
