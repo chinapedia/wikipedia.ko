@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 스페셜](https://ko.wikipedia.org/wiki/KBS_스페셜).
 
 
-《**KBS 스페셜**》은 매주 [목요일](../Page/목요일.md "wikilink") 밤 10시에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").
+《**KBS 스페셜**》은 매주 [목요일](../Page/목요일.md "wikilink") 밤 10시에 [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 방송되었던 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").
 
 ## 기획 의도
 
@@ -11,7 +11,7 @@
 
 | 방송 채널                                                                                                                                                      | 방송 기간                                                                                                                                                          | 방송 시간                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| rowspan="9" style=vertial-align: center;"|[KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                      | [1994년](../Page/1994년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 밤 8시 \~ 9시 |
+| rowspan="9" style=vertial-align: center;"|[KBS 1TV](../Page/KBS_1TV.md "wikilink")                                                                         | [1994년](../Page/1994년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [10월 31일](../Page/10월_31일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 밤 8시 \~ 9시 |
 | [2007년](../Page/2007년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink")   |                                                                                                                                                                |                                                |
 | [2004년](../Page/2004년.md "wikilink") [11월 6일](../Page/11월_6일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink") | 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 밤 8시 \~ 9시                                                                                                |                                                |
 | [2016년](../Page/2016년.md "wikilink") [2월 18일](../Page/2월_18일.md "wikilink") \~ [2017년](../Page/2017년.md "wikilink") [8월 31일](../Page/8월_31일.md "wikilink") | 매주 [목요일](../Page/목요일.md "wikilink") 밤 10시 \~ 10시 55분                                                                                                           |                                                |

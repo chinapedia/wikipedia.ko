@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MEG \(가수\)](https://ko.wikipedia.org/wiki/MEG_\(가수\)).
 
 
-**메그**(MEG, [1980년](../Page/1980년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ )는 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), 패션 모델, [디자이너](../Page/디자이너.md "wikilink")이다. [히로시마현](../Page/히로시마현.md "wikilink")에서 태어났으며, 2006년 1월 meg에서 MEG로 개명했다.
+[thumb](https://ko.wikipedia.org/wiki/파일:MEG_20110701_Japan_Expo_55.jpg "wikilink") **메그**(MEG, [1980년](../Page/1980년.md "wikilink") [10월 3일](../Page/10월_3일.md "wikilink") \~ )는 일본의 [가수](https://ko.wikipedia.org/wiki/가수 "wikilink"), 패션 모델, [디자이너](../Page/디자이너.md "wikilink")이다. [히로시마현](../Page/히로시마현.md "wikilink")에서 태어났으며, 2006년 1월 meg에서 MEG로 개명했다.
 
 ## 음반 목록
 

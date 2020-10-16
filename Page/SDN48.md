@@ -16,8 +16,6 @@
 
 ※ 구분은 2012년 3월 31일 시점을 나타낸다.
 
-  - 新生せあらーずエンジェルとおいろけ先輩:[아키타 카즈에](https://ko.wikipedia.org/wiki/아키타_카즈에 "wikilink")(1기)&[코죠 세아라](https://ko.wikipedia.org/wiki/코죠_세아라 "wikilink")(3기)
-
 ### 1기생
 
   - 굵은 글씨는 캡틴
@@ -35,6 +33,135 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/아키타_카즈에" title="wikilink">아키타 카즈에</a></p></td>
+<td><p>穐田和恵</p></td>
+<td><p>あきた かずえ</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>「新生せあらーずエンジェルとおいろけ先輩」 구성원[5]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/이마요시_메구미.md" title="wikilink">이마요시 메구미</a></p></td>
+<td><p>今吉めぐみ</p></td>
+<td><p>いまよし めぐみ</p></td>
+<td></td>
+<td><p>아크 프로듀션</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/우메다_하루카.md" title="wikilink">우메다 하루카</a></p></td>
+<td><p>梅田悠</p></td>
+<td><p>うめだ はるか</p></td>
+<td></td>
+<td><p>선 뮤직 프로덕션</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/우라노_카즈미" title="wikilink">우라노 카즈미</a></p></td>
+<td><p>浦野一美</p></td>
+<td><p>うらの かずみ</p></td>
+<td></td>
+<td><p>프로덕션 오기</p></td>
+<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀B</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/오오코치_미사" title="wikilink">오오코치 미사</a></p></td>
+<td><p>大河内美紗</p></td>
+<td><p>おおこうち みさ</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/오오호리_메구미" title="wikilink">오오호리 메구미</a></p></td>
+<td><p>大堀恵</p></td>
+<td><p>おおほり めぐみ</p></td>
+<td></td>
+<td><p><a href="../Page/호리프로.md" title="wikilink">호리프로</a></p></td>
+<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀K</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/카이다_쥬리" title="wikilink">카이다 쥬리</a></p></td>
+<td><p>甲斐田樹里</p></td>
+<td><p>かいだ じゅり</p></td>
+<td></td>
+<td><p>허니 비트</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/카토_마미" title="wikilink">카토 마미</a></p></td>
+<td><p>加藤雅美</p></td>
+<td><p>かとう まみ</p></td>
+<td></td>
+<td><p>센스업</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/코치_마사미" title="wikilink">코치 마사미</a></p></td>
+<td><p>河内麻沙美</p></td>
+<td><p>こうち まさみ</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>주식회사 MANNIE JAPAN INC.의 홍보담당<br />
+자신의 프로듀서 <a href="http://www.smirnasli.com/#/?lang=ja">SMIR NASLI</a>를 설립</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/코하라_하루카" title="wikilink">코하라 하루카</a></p></td>
+<td><p>小原春香</p></td>
+<td><p>こはら はるか</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀B</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/콘도_사야카" title="wikilink">콘도 사야카</a></p></td>
+<td><p>近藤さや香</p></td>
+<td><p>こんどう さやか</p></td>
+<td></td>
+<td><p>센트 포스</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/사토_유카리_(가수).md" title="wikilink">사토 유카리</a></p></td>
+<td><p>佐藤由加理</p></td>
+<td><p>さとう ゆかり</p></td>
+<td></td>
+<td><p>게이에이 프로덕션</p></td>
+<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀A</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/세리나_(1985년)" title="wikilink">세리나</a></p></td>
+<td><p>芹那</p></td>
+<td><p>せりな</p></td>
+<td></td>
+<td><p>엠즈 팩토리 / 업무 제휴 : A-PLUS</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/첸츄" title="wikilink">첸츄</a></p></td>
+<td><p>チェン・チュー</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>호리프로</p></td>
+<td><p>자매 그룹 유일한 <a href="https://ko.wikipedia.org/wiki/중국인" title="wikilink">중국인</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/테즈카_마치코" title="wikilink">테즈카 마치코</a></p></td>
+<td><p>手束真知子</p></td>
+<td><p>てづか まちこ</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>구 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀KII</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/나츄.md" title="wikilink">나츄</a></p></td>
+<td><p>-</p></td>
+<td><p>なちゅ</p></td>
+<td></td>
+<td><p>와타나베 엔터테인먼트</p></td>
+<td><p>본명 : 竹川奈津子</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/니시쿠니하라_레이코" title="wikilink">니시쿠니하라 레이코</a></p></td>
 <td><p>西国原礼子</p></td>
 <td><p>にしくにはら れいこ</p></td>
@@ -51,135 +178,6 @@
 <td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀K</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미츠이_히로미" title="wikilink">미츠이 히로미</a></p></td>
-<td><p>三ツ井裕美</p></td>
-<td><p>みつい ひろみ</p></td>
-<td></td>
-<td><p>office48</p></td>
-<td><p>댄스 스쿨의 강사</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오호리_메구미" title="wikilink">오오호리 메구미</a></p></td>
-<td><p>大堀恵</p></td>
-<td><p>おおほり めぐみ</p></td>
-<td></td>
-<td><p><a href="../Page/호리프로.md" title="wikilink">호리프로</a></p></td>
-<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀K</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/나츄.md" title="wikilink">나츄</a></p></td>
-<td><p>-</p></td>
-<td><p>なちゅ</p></td>
-<td></td>
-<td><p>와타나베 엔터테인먼트</p></td>
-<td><p>본명 : 竹川奈津子</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/콘도_사야카" title="wikilink">콘도 사야카</a></p></td>
-<td><p>近藤さや香</p></td>
-<td><p>こんどう さやか</p></td>
-<td></td>
-<td><p>센트 포스</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/오오코치_미사" title="wikilink">오오코치 미사</a></p></td>
-<td><p>大河内美紗</p></td>
-<td><p>おおこうち みさ</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/아키타_카즈에" title="wikilink">아키타 카즈에</a></p></td>
-<td><p>穐田和恵</p></td>
-<td><p>あきた かずえ</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>「新生せあらーずエンジェルとおいろけ先輩」 구성원[5]</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/우라노_카즈미" title="wikilink">우라노 카즈미</a></p></td>
-<td><p>浦野一美</p></td>
-<td><p>うらの かずみ</p></td>
-<td></td>
-<td><p>프로덕션 오기</p></td>
-<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀B</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/세리나_(1985년)" title="wikilink">세리나</a></p></td>
-<td><p>芹那</p></td>
-<td><p>せりな</p></td>
-<td></td>
-<td><p>엠즈 팩토리 / 업무 제휴 : A-PLUS</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/첸츄" title="wikilink">첸츄</a></p></td>
-<td><p>チェン・チュー</p></td>
-<td><p>-</p></td>
-<td></td>
-<td><p>호리프로</p></td>
-<td><p>자매 그룹 유일한 <a href="https://ko.wikipedia.org/wiki/중국인" title="wikilink">중국인</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/테즈카_마치코" title="wikilink">테즈카 마치코</a></p></td>
-<td><p>手束真知子</p></td>
-<td><p>てづか まちこ</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>구 <a href="../Page/SKE48.md" title="wikilink">SKE48</a> 팀KII</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/카토_마미" title="wikilink">카토 마미</a></p></td>
-<td><p>加藤雅美</p></td>
-<td><p>かとう まみ</p></td>
-<td></td>
-<td><p>센스업</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/코치_마사미" title="wikilink">코치 마사미</a></p></td>
-<td><p>河内麻沙美</p></td>
-<td><p>こうち まさみ</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>주식회사 MANNIE JAPAN INC.의 홍보담당<br />
-자신의 프로듀서 <a href="http://www.smirnasli.com/#/?lang=ja">SMIR NASLI</a>를 설립</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/이마요시_메구미.md" title="wikilink">이마요시 메구미</a></p></td>
-<td><p>今吉めぐみ</p></td>
-<td><p>いまよし めぐみ</p></td>
-<td></td>
-<td><p>아크 프로듀션</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/우메다_하루카.md" title="wikilink">우메다 하루카</a></p></td>
-<td><p>梅田悠</p></td>
-<td><p>うめだ はるか</p></td>
-<td></td>
-<td><p>선 뮤직 프로덕션</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/코하라_하루카" title="wikilink">코하라 하루카</a></p></td>
-<td><p>小原春香</p></td>
-<td><p>こはら はるか</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀B</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/사토_유카리_(가수).md" title="wikilink">사토 유카리</a></p></td>
-<td><p>佐藤由加理</p></td>
-<td><p>さとう ゆかり</p></td>
-<td></td>
-<td><p>게이에이 프로덕션</p></td>
-<td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀A</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/하타케야마_치사키" title="wikilink">하타케야마 치사키</a></p></td>
 <td><p>畠山智妃</p></td>
 <td><p>はたけやま ちさき</p></td>
@@ -188,12 +186,12 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/카이다_쥬리" title="wikilink">카이다 쥬리</a></p></td>
-<td><p>甲斐田樹里</p></td>
-<td><p>かいだ じゅり</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미츠이_히로미" title="wikilink">미츠이 히로미</a></p></td>
+<td><p>三ツ井裕美</p></td>
+<td><p>みつい ひろみ</p></td>
 <td></td>
-<td><p>허니 비트</p></td>
-<td><p>-</p></td>
+<td><p>office48</p></td>
+<td><p>댄스 스쿨의 강사</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -229,54 +227,6 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/이토_마나" title="wikilink">이토 마나</a></p></td>
-<td><p>伊東愛</p></td>
-<td><p>いとう まな</p></td>
-<td></td>
-<td><p>에이벡스 매니지먼트</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/KONAN.md" title="wikilink">KONAN</a></p></td>
-<td><p>-</p></td>
-<td><p>こなん</p></td>
-<td></td>
-<td><p>원에이트 프로모션</p></td>
-<td><p>전예명 : 虎南有美</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/다카하시_유이" title="wikilink">다카하시 유이</a></p></td>
-<td><p>たかはしゆい</p></td>
-<td><p>たかはし ゆい</p></td>
-<td></td>
-<td><p>엠즈 팩토리 / 업무 제휴 : 아키야마 오피스</p></td>
-<td><p>본명 · 전예명 : 高橋由衣</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/마츠시마_루미" title="wikilink">마츠시마 루미</a></p></td>
-<td><p>松島瑠美</p></td>
-<td><p>まつしま るみ</p></td>
-<td></td>
-<td><p>티후아나 엔터테인먼트</p></td>
-<td><p>현예명 : 木川るみ</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/키모토_유키" title="wikilink">키모토 유키</a></p></td>
-<td><p>木本夕貴</p></td>
-<td><p>きもと ゆうき</p></td>
-<td></td>
-<td><p>SMA 엔터테인먼트</p></td>
-<td><p>전예명 : 木本優</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/츠다_마리나" title="wikilink">츠다 마리나</a></p></td>
-<td><p>津田麻莉奈</p></td>
-<td><p>つだ まりな</p></td>
-<td></td>
-<td><p>호리프로</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/아키코_(배우).md" title="wikilink">아키코</a></p></td>
 <td><p>亜希子</p></td>
 <td><p>あきこ</p></td>
@@ -288,6 +238,14 @@
 연예활동은 프리</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/이토_마나" title="wikilink">이토 마나</a></p></td>
+<td><p>伊東愛</p></td>
+<td><p>いとう まな</p></td>
+<td></td>
+<td><p>에이벡스 매니지먼트</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/오오야마_아이미" title="wikilink">오오야마 아이미</a></p></td>
 <td><p>大山愛未</p></td>
 <td><p>おおやま あいみ</p></td>
@@ -295,7 +253,39 @@
 <td><p>크리에이트 프로모션</p></td>
 <td><p>-</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/키모토_유키" title="wikilink">키모토 유키</a></p></td>
+<td><p>木本夕貴</p></td>
+<td><p>きもと ゆうき</p></td>
+<td></td>
+<td><p>SMA 엔터테인먼트</p></td>
+<td><p>전예명 : 木本優</p></td>
+</tr>
 <tr class="even">
+<td><p><a href="../Page/KONAN.md" title="wikilink">KONAN</a></p></td>
+<td><p>-</p></td>
+<td><p>こなん</p></td>
+<td></td>
+<td><p>원에이트 프로모션</p></td>
+<td><p>전예명 : 虎南有美</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/다카하시_유이" title="wikilink">다카하시 유이</a></p></td>
+<td><p>たかはしゆい</p></td>
+<td><p>たかはし ゆい</p></td>
+<td></td>
+<td><p>엠즈 팩토리 / 업무 제휴 : 아키야마 오피스</p></td>
+<td><p>본명 · 전예명 : 高橋由衣</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/츠다_마리나" title="wikilink">츠다 마리나</a></p></td>
+<td><p>津田麻莉奈</p></td>
+<td><p>つだ まりな</p></td>
+<td></td>
+<td><p>호리프로</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/나츠코_(1989년_8월).md" title="wikilink">나츠코</a></p></td>
 <td><p>奈津子</p></td>
 <td><p>なつこ</p></td>
@@ -304,7 +294,7 @@
 <td><p>아키코와 쌍둥이 (언니)<br />
 본명 : 大木奈津子</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/후쿠다_아카네" title="wikilink">후쿠다 아카네</a></p></td>
 <td><p>福田朱子</p></td>
 <td><p>ふくだ あかね</p></td>
@@ -312,7 +302,7 @@
 <td><p>필리 사운드 / 에이전시 : 랑데부</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/후지코소_유미" title="wikilink">후지코소 유미</a></p></td>
 <td><p>藤社優美</p></td>
 <td><p>ふじこそ ゆみ</p></td>
@@ -320,13 +310,21 @@
 <td><p>헨미 프로모션</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/호소다_미유우" title="wikilink">호소다 미유우</a></p></td>
 <td><p>細田海友</p></td>
 <td><p>ほそだ みゆう</p></td>
 <td></td>
 <td><p>에이벡스 매니지먼트</p></td>
 <td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/마츠시마_루미" title="wikilink">마츠시마 루미</a></p></td>
+<td><p>松島瑠美</p></td>
+<td><p>まつしま るみ</p></td>
+<td></td>
+<td><p>티후아나 엔터테인먼트</p></td>
+<td><p>현예명 : 木川るみ</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -354,22 +352,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/미레이" title="wikilink">miray</a></p></td>
-<td><p>-</p></td>
-<td><p>ミレイ</p></td>
-<td></td>
-<td><p>EF RECORDS</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/정시연.md" title="wikilink">시연</a></p></td>
-<td><p>シヨン</p></td>
-<td><p>-</p></td>
-<td></td>
-<td><p>에스아이 엔터테인먼트</p></td>
-<td><p>자매 그룹 유일한 <a href="../Page/한국인.md" title="wikilink">한국인</a></p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/코죠_세아라" title="wikilink">코죠 세아라</a></p></td>
 <td><p>光上せあら</p></td>
 <td><p>こうじょう せあら</p></td>
@@ -387,6 +369,22 @@
 <td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀A</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/시나하마_사에미.md" title="wikilink">시나하마 사에미</a></p></td>
+<td><p>尻無浜冴美</p></td>
+<td><p>しなはま さえみ</p></td>
+<td></td>
+<td><p>사디카</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/정시연.md" title="wikilink">시연</a></p></td>
+<td><p>シヨン</p></td>
+<td><p>-</p></td>
+<td></td>
+<td><p>에스아이 엔터테인먼트</p></td>
+<td><p>자매 그룹 유일한 <a href="../Page/한국인.md" title="wikilink">한국인</a></p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/토지마_하나" title="wikilink">토지마 하나</a></p></td>
 <td><p>戸島花</p></td>
 <td><p>とじま はな</p></td>
@@ -395,11 +393,11 @@
 <td><p>구 <a href="../Page/AKB48.md" title="wikilink">AKB48</a> 팀A</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/시나하마_사에미.md" title="wikilink">시나하마 사에미</a></p></td>
-<td><p>尻無浜冴美</p></td>
-<td><p>しなはま さえみ</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미레이" title="wikilink">miray</a></p></td>
+<td><p>-</p></td>
+<td><p>ミレイ</p></td>
 <td></td>
-<td><p>사디카</p></td>
+<td><p>EF RECORDS</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">

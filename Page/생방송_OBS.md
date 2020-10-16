@@ -44,7 +44,7 @@
 ## 관련 항목
 
   - [모닝와이드](../Page/모닝와이드.md "wikilink") ([SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink"))
-  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
   - [굿모닝 대한민국](../Page/굿모닝_대한민국.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
   - [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") ([MBC](../Page/문화방송.md "wikilink"))
 

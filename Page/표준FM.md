@@ -14,7 +14,6 @@
 #### 수도권
 
   - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
-  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
   - [KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink")
   - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
   - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
@@ -24,7 +23,6 @@
 #### 강원
 
   - [KBS춘천 제1라디오](../Page/KBS춘천방송총국.md "wikilink")
-  - [KBS춘천 제2라디오](../Page/KBS춘천방송총국.md "wikilink")
   - [KBS강릉 제1라디오](../Page/KBS강릉방송국.md "wikilink")
   - [KBS원주 제1라디오](../Page/KBS원주방송국.md "wikilink")
   - [춘천MBC 표준FM](../Page/춘천문화방송.md "wikilink")
@@ -37,9 +35,7 @@
 #### 대전, 충청
 
   - [KBS대전 제1라디오](../Page/KBS대전방송총국.md "wikilink")
-  - [KBS대전 제2라디오](../Page/KBS대전방송총국.md "wikilink")
   - [KBS청주 제1라디오](../Page/KBS청주방송총국.md "wikilink")
-  - [KBS청주 제2라디오](../Page/KBS청주방송총국.md "wikilink")
   - [KBS충주 제1라디오](../Page/KBS충주방송국.md "wikilink")
   - [대전MBC 표준FM](../Page/대전문화방송.md "wikilink")
   - [MBC충북 청주 표준FM](../Page/MBC충북_청주방송국.md "wikilink")
@@ -50,9 +46,7 @@
 #### 광주, 전라
 
   - [KBS광주 제1라디오](../Page/KBS광주방송총국.md "wikilink")
-  - [KBS광주 제2라디오](../Page/KBS광주방송총국.md "wikilink")
   - [KBS전주 제1라디오](../Page/KBS전주방송총국.md "wikilink")
-  - [KBS전주 제2라디오](../Page/KBS전주방송총국.md "wikilink")
   - [KBS전주 제3라디오](../Page/KBS전주방송총국.md "wikilink")
   - [KBS순천 제1라디오](../Page/KBS순천방송국.md "wikilink")
   - [KBS순천 제3라디오](../Page/KBS순천방송국.md "wikilink")
@@ -68,7 +62,6 @@
 #### 대구, 경북
 
   - [KBS대구 제1라디오](../Page/KBS대구방송총국.md "wikilink")
-  - [KBS대구 제2라디오](../Page/KBS대구방송총국.md "wikilink")
   - [KBS포항 제1라디오](../Page/KBS포항방송국.md "wikilink")
   - [KBS안동 제1라디오](../Page/KBS안동방송국.md "wikilink")
   - [대구MBC 표준FM](../Page/대구문화방송.md "wikilink")
@@ -80,10 +73,8 @@
 #### 부산, 경남, 울산
 
   - [KBS부산 제1라디오](../Page/KBS부산방송총국.md "wikilink")
-  - [KBS부산 제2라디오](../Page/KBS부산방송총국.md "wikilink")
   - [KBS울산 제1라디오](../Page/KBS울산방송국.md "wikilink")
   - [KBS창원 제1라디오](../Page/KBS창원방송총국.md "wikilink")
-  - [KBS창원 제2라디오](../Page/KBS창원방송총국.md "wikilink")
   - [KBS창원 제3라디오](../Page/KBS창원방송총국.md "wikilink")
   - [KBS진주 제1라디오](../Page/KBS진주방송국.md "wikilink")
   - [부산MBC 표준FM](../Page/부산문화방송.md "wikilink")
@@ -98,7 +89,6 @@
 #### 제주
 
   - [KBS제주 제1라디오](../Page/KBS제주방송총국.md "wikilink")
-  - [KBS제주 제2라디오](../Page/KBS제주방송총국.md "wikilink")
   - [제주MBC 표준FM](../Page/제주문화방송.md "wikilink")
   - [제주CBS 표준FM](../Page/기독교제주방송.md "wikilink")
   - [제주극동방송](../Page/극동방송.md "wikilink")

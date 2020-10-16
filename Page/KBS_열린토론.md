@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 열린토론](https://ko.wikipedia.org/wiki/KBS_열린토론).
 
 
-**KBS 열린토론**은 [KBS 1라디오](https://ko.wikipedia.org/wiki/KBS_1라디오 "wikilink")(수도권 기준 FM 97.3㎒, AM 711㎑)의 라디오 토론프로그램이다. [2003년](../Page/2003년.md "wikilink") [7월 14일에](../Page/7월_14일.md "wikilink") 첫방송되어 [2013년](../Page/2013년.md "wikilink") [4월 5일에](../Page/4월_5일.md "wikilink") 잠정적으로 폐지됐으나, [2018년](../Page/2018년.md "wikilink") [5월 28일에](../Page/5월_28일.md "wikilink") 다시 부활하였다.
+**KBS 열린토론**은 [KBS 1라디오](https://ko.wikipedia.org/wiki/KBS_1라디오 "wikilink")(전국, 수도권 기준 FM 97.3㎒, AM 711㎑)의 라디오 토론프로그램이다. [2003년](../Page/2003년.md "wikilink") [7월 14일에](../Page/7월_14일.md "wikilink") 첫방송되어 [2013년](../Page/2013년.md "wikilink") [4월 5일에](../Page/4월_5일.md "wikilink") 잠정적으로 폐지됐으나, [2018년](../Page/2018년.md "wikilink") [5월 28일에](../Page/5월_28일.md "wikilink") 다시 부활하였다.
 
 진행자는 정준희 저널리스트이며, 생방송은 평일 저녁 7시 20분부터 밤 8시 30분까지, 재방송은 화요일 \~ 토요일 새벽 1시부터 새벽 2시 10분까지이다.
 

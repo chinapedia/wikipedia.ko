@@ -284,20 +284,13 @@ CBS 표준FM의 지역별 주파수는 아래의 다음과 같다.
 
 ## 시보 멘트
 
-  - 세상 달라진 아반떼가 OO시 30분을 알려드립니다.(2020년 4월 1일 \~ 현재)
-  - OO시 30분입니다. 이어서 OOOO O부가 방송됩니다.(2019년 1월 1일 \~ 현재)
-  - FM 98.1메가헤르츠 AM 837키로헤르츠, CBS 라디오입니다. HLKY (광고 후) O시를 알려드립니다
-
 ## 같이 보기
 
-※ 주의사항 ※ 이 방송 채널은 행정안전부, 현대캐피탈, 공익광고협의회가 지정한 경제형 방송 채널입니다. 같이 보기 부분을 함부로 수정하지 마시고, 늘 눈으로 봐 주시기 바랍니다.
-
-  - [KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink")
-  - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
-  - [가톨릭평화방송](../Page/가톨릭평화방송.md "wikilink")
-  - [불교방송](../Page/불교방송.md "wikilink")
-  - [원음방송](../Page/원음방송.md "wikilink")
-  - [YTN News FM](../Page/YTN라디오.md "wikilink")
+  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
+  - [TBS eFM](../Page/TBS_eFM.md "wikilink")
+  - [MBC TV](../Page/MBC_TV.md "wikilink")
+  - [SBS TV](../Page/SBS_TV.md "wikilink")
+  - [채널A](../Page/채널A.md "wikilink")
 
 ## 각주
 

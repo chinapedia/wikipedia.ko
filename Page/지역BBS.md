@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [지역BBS](https://ko.wikipedia.org/wiki/지역BBS).
 
 
-**지역BBS**(지역 비비에스, )란 [니시무라 히로유키가](https://ko.wikipedia.org/wiki/니시무라_히로유키 "wikilink") [2채널](https://ko.wikipedia.org/wiki/2채널 "wikilink") 내에 개설한 지역별 테마게시판이다.
+**지역BBS**(지역 비비에스, )란 [니시무라 히로유키가](../Page/니시무라_히로유키.md "wikilink") [2채널](https://ko.wikipedia.org/wiki/2채널 "wikilink") 내에 개설한 지역별 테마게시판이다.
 
 ## 개요
 
@@ -84,7 +84,7 @@
 <!-- end list -->
 
   -
-    도쿄 도 [다마 지역을](../Page/다마_지역.md "wikilink") 대상으로 하는 게시판이다. 투고자의 리모트호스트 이름을 오랫동안 표기하지 않았지만, [2007년](../Page/2007년.md "wikilink") [5월 25일부터](../Page/5월_25일.md "wikilink") [地方1의](https://ko.wikipedia.org/wiki/니시무라_히로유키 "wikilink") 조치에 따라 표시하도록 되었다. 多摩 게시판 스렛드 집, 학교게시판 링크 집, 그림게시판이 있다.
+    도쿄 도 [다마 지역을](../Page/다마_지역.md "wikilink") 대상으로 하는 게시판이다. 투고자의 리모트호스트 이름을 오랫동안 표기하지 않았지만, [2007년](../Page/2007년.md "wikilink") [5월 25일부터](../Page/5월_25일.md "wikilink") [地方1의](../Page/니시무라_히로유키.md "wikilink") 조치에 따라 표시하도록 되었다. 多摩 게시판 스렛드 집, 학교게시판 링크 집, 그림게시판이 있다.
 
 <!-- end list -->
 

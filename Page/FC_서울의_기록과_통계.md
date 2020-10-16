@@ -4533,20 +4533,17 @@ K리그 사상 최초 시즌 50만 총관중 신기록 수립</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><CENTER/>
-<p>구단주</p></td>
+<td><p>구단주</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/허태수" title="wikilink">허태수</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><CENTER/>
-<p>사장</p></td>
+<td><p>사장</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/엄태진" title="wikilink">엄태진</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><CENTER/>
-<p>단장</p></td>
+<td><p>단장</p></td>
 <td><p>강명원</p></td>
 <td></td>
 </tr>
