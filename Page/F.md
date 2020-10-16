@@ -21,6 +21,7 @@
 
   - f는 [국제음성기호](https://ko.wikipedia.org/wiki/국제음성기호 "wikilink")에서 [무성 순치 마찰음을](https://ko.wikipedia.org/wiki/무성_순치_마찰음 "wikilink") 나타낸다.
   - f는 수학 약자 중 함수(function)의 약자로 쓰인다
+  - F는 [플루오린](../Page/플루오린.md "wikilink")을 나타내는 원소 기호이다.
 
 ## 역사
 
