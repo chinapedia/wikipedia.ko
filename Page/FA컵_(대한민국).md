@@ -106,12 +106,12 @@ FA컵에서 가장 많은 우승을 달성한 구단은 [수원 삼성 블루윙
 <tr class="odd">
 <td><p><a href="../Page/부산_아이파크.md" title="wikilink">부산 아이파크</a></p></td>
 <td><p>1회 (<a href="../Page/FA컵_2004.md" title="wikilink">2004</a>)</p></td>
-<td><p>2회 (<a href="../Page/FA컵_2010.md" title="wikilink">2010</a>), (<a href="../Page/FA컵_2017.md" title="wikilink">2017</a>)</p></td>
+<td><p>2회 (<a href="../Page/FA컵_2010.md" title="wikilink">2010</a>, <a href="../Page/FA컵_2017.md" title="wikilink">2017</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/울산_현대" title="wikilink">울산 현대</a></p></td>
 <td><p>1회 (<a href="../Page/FA컵_2017.md" title="wikilink">2017</a>)</p></td>
-<td><p>2회 (<a href="../Page/FA컵_1998.md" title="wikilink">1998</a>), (<a href="../Page/FA컵_2018.md" title="wikilink">2018</a>)</p></td>
+<td><p>2회 (<a href="../Page/FA컵_1998.md" title="wikilink">1998</a>, <a href="../Page/FA컵_2018.md" title="wikilink">2018</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/대전_하나_시티즌" title="wikilink">대전 하나 시티즌</a></p></td>

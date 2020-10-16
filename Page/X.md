@@ -17,11 +17,12 @@
   - [성문 파열음](https://ko.wikipedia.org/wiki/성문_파열음 "wikilink")(/ʔ/): [피라항어](../Page/피라항어.md "wikilink")
   - 치경 방출음(/tʼ/): [오로모어](https://ko.wikipedia.org/wiki/오로모어 "wikilink")
   - 무성 연구개 치경 설측 흡착 방출음(/kǁʼ/): [코사어](../Page/코사어.md "wikilink")
-  - [무성 후치경 마찰음](https://ko.wikipedia.org/wiki/무성_후치경_마찰음 "wikilink")(/ʃ/): [나우아틀어](../Page/나우아틀어.md "wikilink"), [몰타어](../Page/몰타어.md "wikilink"), [바스크어](../Page/바스크어.md "wikilink")
+  - [무성 후치경 마찰음](https://ko.wikipedia.org/wiki/무성_후치경_마찰음 "wikilink")(/ʃ/): [나우아틀어](../Page/나우아틀어.md "wikilink"), [몰타어](../Page/몰타어.md "wikilink"), [바스크어](../Page/바스크어.md "wikilink"), [갈리시아어](../Page/갈리시아어.md "wikilink")(학술 외래어는 제외)
   - [무성 치경구개 마찰음](https://ko.wikipedia.org/wiki/무성_치경구개_마찰음 "wikilink")(/ɕ/): [라오어](../Page/라오어.md "wikilink")(라틴 문자 표기), [표준 중국어의](../Page/표준_중국어.md "wikilink") [한어 병음](../Page/한어_병음.md "wikilink")
   - [유성 치경 파찰음](https://ko.wikipedia.org/wiki/유성_치경_파찰음 "wikilink")(/dz/): [알바니아어](../Page/알바니아어.md "wikilink")
   - [유성 치경 내파음](https://ko.wikipedia.org/wiki/유성_치경_내파음 "wikilink")(/ɗ/): [아파르어](../Page/아파르어.md "wikilink")
-  - [무성 연구개 마찰음](https://ko.wikipedia.org/wiki/무성_연구개_마찰음 "wikilink")(/x/): [아제르바이잔어](../Page/아제르바이잔어.md "wikilink")(라틴 문자 표기)
+  - [무성 연구개 마찰음](https://ko.wikipedia.org/wiki/무성_연구개_마찰음 "wikilink")(/x/): [아제르바이잔어](../Page/아제르바이잔어.md "wikilink")(라틴 문자 표기), [쿠르드어](../Page/쿠르드어.md "wikilink")
+  - [무성 치경 마찰음](../Page/무성_치경_마찰음.md "wikilink")(/s/): [베트남어](../Page/베트남어.md "wikilink")
   - 이 밖에도 많은 발음을 표기할 때 이 문자가 쓰인다.
 
 ## 컴퓨터 부호

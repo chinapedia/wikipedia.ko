@@ -7,7 +7,7 @@
 
 뛰어난 화력과 독특한 디자인으로 많은 사랑을 받는 총기라 현대전을 배경으로 한 다수의 대중매체에서 접할수 있다. 따라서 이 총은 미래적인 디자인 때문에 미래 무기라고 하기도 한다. 현재는 여러 대테러 부대와 경찰특공대들이 대표적으로 사용하는 [MP5](https://ko.wikipedia.org/wiki/MP5 "wikilink")기관단총과 라이벌 관계로 둘다 꾸준히 사용되고 있다.
 
-  - [배틀그라운드 모바일에서](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink") 9mm탄을 쓰는 총으로 등장한다.
+  - [배틀그라운드 모바일에서](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink") [9mm](https://ko.wikipedia.org/wiki/9mm "wikilink")탄을 쓰는 [기관단총](../Page/기관단총.md "wikilink") P90으로 등장한다.
 
 ## 외부 링크
 

@@ -23,5 +23,6 @@ H는 울타리를 뜻하는 그림 문자에서 비롯되었다.
 ## 쓰임
 
   - h는 [국제음성기호](https://ko.wikipedia.org/wiki/국제음성기호 "wikilink")에서 [성문 마찰음을](https://ko.wikipedia.org/wiki/성문_마찰음 "wikilink") 나타낸다.
+  - H는 [수소](../Page/수소.md "wikilink")를 나타내는 원소 기호이다.
 
 [H](https://ko.wikipedia.org/wiki/분류:로마자_낱자 "wikilink")

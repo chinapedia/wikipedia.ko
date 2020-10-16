@@ -466,7 +466,7 @@
   - [뉴스 21](https://ko.wikipedia.org/wiki/뉴스_21 "wikilink")
   - 뉴스 & 사람들
 
-## 공채기수(기자, 앵커, 기술, 디자인, PD, 노조조합원
+## 공채기수(기자, 앵커, 기술, 디자인, PD, 노조조합원)
 
   - [1994년](../Page/1994년.md "wikilink"): 권영희, [김문경](https://ko.wikipedia.org/wiki/김문경 "wikilink"), [김선희](https://ko.wikipedia.org/wiki/김선희 "wikilink"), 김영수, [김정아](https://ko.wikipedia.org/wiki/김정아 "wikilink"), 김정한, [김진두](https://ko.wikipedia.org/wiki/김진두 "wikilink"), 류충섭, 오점곤, 정재훈, [정찬배](https://ko.wikipedia.org/wiki/정찬배 "wikilink"), 하성준, 함형건, [호준석](../Page/호준석.md "wikilink"), 김범환, 조승호, 현덕수, [노종면](../Page/노종면.md "wikilink")
   - [1995년](../Page/1995년.md "wikilink"): 김민태, 김종욱, 류재복, 박두만, 배성준, 성도현, 염덕선, 오승엽, 유제동, 임상호, 임장혁, 장명호, [정현교](https://ko.wikipedia.org/wiki/정현교 "wikilink"), 조주현, 최명신, 정해붕, 이영재
@@ -484,14 +484,14 @@
   - [2012년](../Page/2012년.md "wikilink"): 김주영, 나영채, 류석규, 우희석, 최성훈, 한동오, 한연희
   - [2013년](../Page/2013년.md "wikilink"): 김경수, 박유동, 우철희, 이형원, 최아영, 임성호, 이현오
   - [2014년](../Page/2014년.md "wikilink"): 강희경, 김승환, 최두희, 최민기, 박석원, 차유정
-  - [2015년](../Page/2015년.md "wikilink"): 김태민, 박서경, 김지환, 김세호, 박한울, 최광현, 박광렬
-  - [2016년](../Page/2016년.md "wikilink"): 권남기, 김영수, 심관흠, 이경국, 이연아, 김대겸, 김민성, 김우준, 박기완, 정지웅, 차정윤
-  - [2019년](../Page/2019년.md "wikilink"): 김다연, 나혜인, 박희재, 송재인, 신준명, 강보경, 이규, 이수연, 진형욱, 한상원, 박상주, 정민혁
-  - [2020년](../Page/2020년.md "wikilink"): 정현우, 손효정, 홍민기, 엄윤주, 김광현, 정태우, 온승원, 윤소정, 문지환, 김효진, 박지원, 김경민, 최성원, 신지윤
+  - [2015년](../Page/2015년.md "wikilink"): 김태민, 박서경, 김지환, 김세호, 박한울, 박광렬, 박상연, 최광현
+  - [2016년](../Page/2016년.md "wikilink"): 권남기, 김영수, 심관흠, 이경국, 이연아, 김대겸, 김민성, 김우준, 박기완, 정지웅, 안귀령, 윤보리, 강려원, 차정윤
+  - [2019년](../Page/2019년.md "wikilink"): 김다연, 나혜인, 박희재, 송재인, 신준명, 강보경, 이규, 이수연, 진형욱, 한상원, 박상주, 정민혁, 박소영, 나경철
+  - [2020년](../Page/2020년.md "wikilink"): 정현우, 손효정, 홍민기, 엄윤주, 김광현, 정태우, 온승원, 윤소정, 문지환, 김효진, 박지원, 김경민, 최성원, 신지윤, 임지웅
 
 ## 로고
 
-파일:YTN Logo.png|[1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") 파일:YTN NEW CI (after 2014.04.07).png|[2014년](../Page/2014년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ 현재
+파일:YTN Logo.png|[1995년](../Page/1995년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [4월 6일](../Page/4월_6일.md "wikilink") 파일:YTN NEW CI (after 2014.04.07).png|[2014년](../Page/2014년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ **현재**
 
 ### 로고멘트
 
@@ -504,9 +504,9 @@
 
   - 살아있는 뉴스\~ 깨어있는 방송\~ 한국의 뉴스채널 YTN\~ ([2000년](../Page/2000년.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink"))
   - 빠른 뉴스 알찬 정보\~ YTN ([2001년](../Page/2001년.md "wikilink") \~ [2008년](../Page/2008년.md "wikilink"))
-  - 살아있는 뉴스\~ 깨어있는 방송\~ YTN\~ 채널 24 YTN ([2014년](../Page/2014년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ 현재)
-  - 한국인의 뉴스 채널 (채널 24) YTN\~ ([2015년](../Page/2015년.md "wikilink") \~ 현재)
-  - 당신을 향합니다 YTN\~ ([2015년](../Page/2015년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ 현재)
+  - 살아있는 뉴스\~ 깨어있는 방송\~ YTN\~ 채널 24 YTN ([2014년](../Page/2014년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ **현재**)
+  - 한국인의 뉴스 채널 (채널 24) YTN\~ ([2015년](../Page/2015년.md "wikilink") \~ **현재**)
+  - 당신을 향합니다 YTN\~ ([2015년](../Page/2015년.md "wikilink") [4월 7일](../Page/4월_7일.md "wikilink") \~ **현재**)
 
 ## YTN DMB - ⓜYTN
 

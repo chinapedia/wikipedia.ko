@@ -20,4 +20,9 @@ U는 [중세](../Page/중세.md "wikilink") 후기에 발전되었는데 [J](../
 
 ## 컴퓨터 부호
 
+## 쓰임
+
+  - u는 [국제음성기호](https://ko.wikipedia.org/wiki/국제음성기호 "wikilink")에서 [후설 원순 고모음을](https://ko.wikipedia.org/wiki/후설_원순_고모음 "wikilink") 나타낸다.
+  - U는 [우라늄](https://ko.wikipedia.org/wiki/우라늄 "wikilink")을 나타내는 원소 기호이다.
+
 [분류:로마자 낱자](https://ko.wikipedia.org/wiki/분류:로마자_낱자 "wikilink") [분류:모음자](https://ko.wikipedia.org/wiki/분류:모음자 "wikilink")
