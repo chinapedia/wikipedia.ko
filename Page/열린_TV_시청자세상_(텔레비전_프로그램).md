@@ -18,7 +18,7 @@
   - [탐나는 TV](../Page/탐나는_TV.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
   - [열린TV 시청자 세상](https://ko.wikipedia.org/wiki/열린TV_시청자_세상 "wikilink") ([SBS TV](../Page/SBS_TV.md "wikilink"))
   - [TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_제1TV "wikilink"))
-  - [시청자 의회](../Page/시청자_의회.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
+  - [시청자 의회](../Page/시청자_의회.md "wikilink") ([jtbc](https://ko.wikipedia.org/wiki/jtbc "wikilink"))
   - [채널A 시청자 마당](../Page/채널A_시청자_마당.md "wikilink") ([채널A](../Page/채널A.md "wikilink"))
   - [열린비평 TV를 말하다](../Page/열린비평_TV를_말하다.md "wikilink") ([TV조선](../Page/TV조선.md "wikilink"))
   - [열린TV 열린세상](../Page/열린TV_열린세상.md "wikilink") ([MBN](https://ko.wikipedia.org/wiki/MBN "wikilink"))
