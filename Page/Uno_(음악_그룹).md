@@ -17,7 +17,7 @@
       - 순정파의 눈물 (House Version)
       - All Version Part 2
   - 난중난색 (難中難色) (1997년) - & [Betty](https://ko.wikipedia.org/wiki/이의정 "wikilink")
-      - 난중난색 1 (feat. 마이키 - 터보(멤버:김정남,김종국,마이키))
+      - 난중난색 1 (feat. 마이키 - 터보(멤버:[김정남](../Page/김정남_\(가수\).md "wikilink"),[김종국](../Page/김종국_\(가수\).md "wikilink"),[마이키](../Page/마이키.md "wikilink") 전 멤버:[곽승남](../Page/곽승남.md "wikilink")))
       - 피터팬의 사랑
       - White Christmas
       - Stress X-mas
@@ -25,7 +25,29 @@
       - 디스켓의 비밀
       - Can't Take My Eye's Off You
       - Solo Christmas
-      - 난중난색2 (feat. [마이키](../Page/마이키.md "wikilink") - 터보(멤버:[김정남](../Page/김정남_\(가수\).md "wikilink"),[김종국](../Page/김종국_\(가수\).md "wikilink"),[마이키](../Page/마이키.md "wikilink"))
+      - 난중난색2 (feat. [마이키](../Page/마이키.md "wikilink") - 터보(멤버:[김정남](../Page/김정남_\(가수\).md "wikilink"),[김종국](../Page/김종국_\(가수\).md "wikilink"),[마이키](../Page/마이키.md "wikilink") 전 멤버:[곽승남](../Page/곽승남.md "wikilink"))
       - 징글벨
+  - MBC 드라마 레디고 OST (1997년)
+      - 레디 고(ver.I 보사 & Rock) - 김돈규
+      - 미분 - 김돈규
+      - 예정된 이별 - 김돈규
+      - 만가지의 시 - Uno
+      - Sad Theme (Piano Solo)
+      - 다시 한번 기억해줘 - 김돈규
+      - Love For You - 원빈
+      - 언젠가 - 윤손하
+      - Baby - 강은수
+      - 레디 고(Ver.II Funk) - 김돈규
+  - 원빈,윤손하 - 예정된 이별 (1998년)
+      - Love For You - 원빈
+      - 만가지의 시 - Uno
+      - 예정된 이별 - 윤손하,원빈
+      - Baby - 강은수
+      - 설레임(Funky Version)
+      - 언젠가 - 윤손하
+      - 다시한번 기억해줘 - 김기하
+      - 미분 - 김돈규
+      - 설레임 (Vosa+Rock Version) - 김돈규
+      - Sad Theme (Piano Solo)
 
 [분류:1990년대 음악 그룹](https://ko.wikipedia.org/wiki/분류:1990년대_음악_그룹 "wikilink") [분류:한국어 가수](https://ko.wikipedia.org/wiki/분류:한국어_가수 "wikilink") [분류:대한민국의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:대한민국의_팝_음악_그룹 "wikilink") [분류:대한민국의 보이 밴드](https://ko.wikipedia.org/wiki/분류:대한민국의_보이_밴드 "wikilink") [분류:1997년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:1997년_결성된_음악_그룹 "wikilink") [분류:아이돌 그룹](https://ko.wikipedia.org/wiki/분류:아이돌_그룹 "wikilink")

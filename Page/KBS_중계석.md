@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 중계석](https://ko.wikipedia.org/wiki/KBS_중계석).
 
 
-**KBS 중계석**은 매주 [목요일](../Page/목요일.md "wikilink") 새벽 2시과 [금요일](../Page/금요일.md "wikilink") 새벽 2시 15분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
+**KBS 중계석**은 매주 [목요일](../Page/목요일.md "wikilink") 새벽 2시과 [금요일](../Page/금요일.md "wikilink") 새벽 2시 15분에 [KBS 1TV로](../Page/KBS_1TV.md "wikilink") 방송되는 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
 
 ## 기획 의도
 
@@ -21,7 +21,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a></p></td>
 <td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/4월_25일.md" title="wikilink">4월 25일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/화요일" title="wikilink">화요일</a> 오후 2:10 ~ 3:55 (105분)<br />
 <a href="../Page/금요일.md" title="wikilink">금요일</a> 오후 2:10 ~ 3:25 (75분)</p></td>

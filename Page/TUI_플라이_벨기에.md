@@ -72,8 +72,6 @@
 
 ## 각주
 
-<references/>
-
 ## 사진
 
 파일:Jetairfly Boeing 737-400 OO-TUA "Passion".jpg|제트에어플라이의 [보잉 737-400](../Page/보잉_737.md "wikilink") 파일:Jetairfly Boeing 737-500 Pichugin.jpg|제트에어플라이의 [보잉 737-500](../Page/보잉_737.md "wikilink") 파일:Boeing 767 JetairFly.jpg|제트에어플라이의 [보잉 767-300ER](../Page/보잉_767.md "wikilink")
