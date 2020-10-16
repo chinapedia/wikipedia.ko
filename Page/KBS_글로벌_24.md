@@ -23,7 +23,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a></p></td>
 <td><p><a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/4월_8일.md" title="wikilink">4월 8일</a> ~ <a href="../Page/2013년.md" title="wikilink">2013년</a> <a href="../Page/10월_17일.md" title="wikilink">10월 17일</a></p></td>
 <td><p><a href="../Page/월요일.md" title="wikilink">월요일</a> ~ <a href="../Page/목요일.md" title="wikilink">목요일</a> 밤 <a href="https://ko.wikipedia.org/wiki/자정" title="wikilink">자정</a> ~ 12시 40분 (40분)</p></td>
 </tr>
@@ -63,14 +63,14 @@
 
 ## 구성
 
-| 코너명      | 진행자                                                      |
-| -------- | -------------------------------------------------------- |
-| 글로벌 주요뉴스 | [이각경](../Page/이각경.md "wikilink") 아나운서                    |
-| 글로벌 현장   |                                                          |
-| 글로벌 인사이드 | [최규연](https://ko.wikipedia.org/wiki/최규연 "wikilink") 아나운서 |
-| 글로벌 카드뉴스 |                                                          |
-| 글로벌 플러스  | [박태원](../Page/박태원_\(아나운서\).md "wikilink") 아나운서           |
-| 클로징      | [이각경](../Page/이각경.md "wikilink") 아나운서                    |
+| 코너명      | 진행자                                                               |
+| -------- | ----------------------------------------------------------------- |
+| 글로벌 주요뉴스 | [이각경](../Page/이각경.md "wikilink") 아나운서                             |
+| 글로벌 현장   |                                                                   |
+| 글로벌 인사이드 | [최규연](https://ko.wikipedia.org/wiki/최규연_\(아나운서\) "wikilink") 아나운서 |
+| 글로벌 카드뉴스 |                                                                   |
+| 글로벌 플러스  | [박태원](../Page/박태원_\(아나운서\).md "wikilink") 아나운서                    |
+| 클로징      | [이각경](../Page/이각경.md "wikilink") 아나운서                             |
 
 ## 앵커
 

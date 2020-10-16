@@ -33,4 +33,4 @@
 ## 외부 링크
 
   -
-[분류:2010년 싱글](https://ko.wikipedia.org/wiki/분류:2010년_싱글 "wikilink") [분류:아델의 노래](https://ko.wikipedia.org/wiki/분류:아델의_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:배신을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:배신을_소재로_한_노래 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:그래미상 올해의 레코드상 수상곡](https://ko.wikipedia.org/wiki/분류:그래미상_올해의_레코드상_수상곡 "wikilink") [분류:그래미상 올해의 노래상 수상곡](https://ko.wikipedia.org/wiki/분류:그래미상_올해의_노래상_수상곡 "wikilink")
+[분류:2010년 싱글](https://ko.wikipedia.org/wiki/분류:2010년_싱글 "wikilink") [분류:아델의 노래](https://ko.wikipedia.org/wiki/분류:아델의_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:배신을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:배신을_소재로_한_노래 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:그래미상 올해의 레코드상 수상곡](https://ko.wikipedia.org/wiki/분류:그래미상_올해의_레코드상_수상곡 "wikilink") [분류:그래미상 올해의 노래상 수상곡](https://ko.wikipedia.org/wiki/분류:그래미상_올해의_노래상_수상곡 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")

@@ -7,4 +7,4 @@
 
   - [뮤직비디오](https://www.youtube.com/watch?v=JF8BRvqGCNs) - [유튜브](../Page/유튜브.md "wikilink")
 
-[분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink") [분류:2013년 노래](https://ko.wikipedia.org/wiki/분류:2013년_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:리한나의 노래](https://ko.wikipedia.org/wiki/분류:리한나의_노래 "wikilink")
+[분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink") [분류:2013년 노래](https://ko.wikipedia.org/wiki/분류:2013년_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:리한나의 노래](https://ko.wikipedia.org/wiki/분류:리한나의_노래 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")

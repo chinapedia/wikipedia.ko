@@ -24,7 +24,7 @@
 
 ## 각주
 
-[분류:윌 아이 앰의 노래](https://ko.wikipedia.org/wiki/분류:윌_아이_앰의_노래 "wikilink") [분류:브리트니 스피어스의 노래](https://ko.wikipedia.org/wiki/분류:브리트니_스피어스의_노래 "wikilink") [분류:2012년 싱글](https://ko.wikipedia.org/wiki/분류:2012년_싱글 "wikilink") [분류:2012년 노래](https://ko.wikipedia.org/wiki/분류:2012년_노래 "wikilink")
+[분류:윌 아이 앰의 노래](https://ko.wikipedia.org/wiki/분류:윌_아이_앰의_노래 "wikilink") [분류:브리트니 스피어스의 노래](https://ko.wikipedia.org/wiki/분류:브리트니_스피어스의_노래 "wikilink") [분류:2012년 싱글](https://ko.wikipedia.org/wiki/분류:2012년_싱글 "wikilink") [분류:2012년 노래](https://ko.wikipedia.org/wiki/분류:2012년_노래 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.  Scream & Shout (CD Single liner notes). Germany: Interscope Records. 2012. p. 2.
 2.

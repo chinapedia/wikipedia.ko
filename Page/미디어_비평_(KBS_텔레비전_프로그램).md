@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [미디어 비평 \(KBS 텔레비전 프로그램\)](https://ko.wikipedia.org/wiki/미디어_비평_\(KBS_텔레비전_프로그램\)).
 
 
-**미디어 비평**은 매주 [금요일](../Page/금요일.md "wikilink") 밤 11시 40분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [비평 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
+**미디어 비평**은 매주 [금요일](../Page/금요일.md "wikilink") 밤 11시 40분에 [KBS 1TV로](../Page/KBS_1TV.md "wikilink") 방송된 [비평 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 기획 의도
 
@@ -13,7 +13,7 @@
 
 | 방송 채널                                                                                                                                                  | 방송 기간                                                                                                                                                          | 방송 시간                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                            | [2008년](../Page/2008년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 밤 11:30 \~ 12:00 (30분) |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink")                                                                                                               | [2008년](../Page/2008년.md "wikilink") [11월 21일](../Page/11월_21일.md "wikilink") \~ [2010년](../Page/2010년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 밤 11:30 \~ 12:00 (30분) |
 | [2011년](../Page/2011년.md "wikilink") [1월 7일](../Page/1월_7일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 5일](../Page/4월_5일.md "wikilink") | |매주 [금요일](../Page/금요일.md "wikilink") 밤 11:40 \~ 12:10 (30분)                                                                                                    |                                                            |
 |                                                                                                                                                        |                                                                                                                                                                |                                                            |
 
