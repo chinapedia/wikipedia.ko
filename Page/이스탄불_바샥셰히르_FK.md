@@ -8,7 +8,8 @@
 ### 국내 리그
 
   - **[쉬페르리그](../Page/쉬페르리그.md "wikilink")**
-      - 준우승: [2016–17](https://ko.wikipedia.org/wiki/쉬페르리그_2016–17 "wikilink")
+      - 우승: 2019–20
+      - 준우승: 2016–17, 2018–19
   - **[1. Lig](../Page/TTF_1._리그.md "wikilink")**
       - 우승: 2013–14
   - **[2. Lig](https://ko.wikipedia.org/wiki/TTF_2._리그 "wikilink")**
