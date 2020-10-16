@@ -344,8 +344,8 @@
 ## 같이 보기
 
   - [토요명화](../Page/토요명화.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink")) - [2007년](../Page/2007년.md "wikilink") [11월 4일에](../Page/11월_4일.md "wikilink") 폐지됨, 과거
-  - [명화극장](../Page/명화극장.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")) - [2014년](../Page/2014년.md "wikilink") [12월 27일에](../Page/12월_27일.md "wikilink") 폐지됨, 과거
-  - [독립영화관](../Page/독립영화관.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")) - 현재
+  - [명화극장](../Page/명화극장.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink")) - [2014년](../Page/2014년.md "wikilink") [12월 27일에](../Page/12월_27일.md "wikilink") 폐지됨, 과거
+  - [독립영화관](../Page/독립영화관.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink")) - 현재
   - 위성극장 ([KBS 위성](../Page/KBS_N.md "wikilink")) - [2002년](../Page/2002년.md "wikilink") [2월 24일에](../Page/2월_24일.md "wikilink") 폐지됨, 과거
   - [MBC 주말의 명화](https://ko.wikipedia.org/wiki/MBC_주말의_명화 "wikilink") ([문화방송](../Page/문화방송.md "wikilink")) - [2010년](../Page/2010년.md "wikilink") [10월 30일에](../Page/10월_30일.md "wikilink") 폐지됨, 과거
   - [MBC 일요심야극장](../Page/MBC_일요심야극장.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink")) - [2004년](../Page/2004년.md "wikilink") [5월 2일에](../Page/5월_2일.md "wikilink") 폐지됨, 과거

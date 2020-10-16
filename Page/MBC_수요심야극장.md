@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - [특선영화](https://ko.wikipedia.org/wiki/특선영화 "wikilink") 지상파 ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"),[KBS 2TV](../Page/KBS_2TV.md "wikilink"))/([MBC TV](../Page/MBC_TV.md "wikilink"))/([SBS TV](../Page/SBS_TV.md "wikilink"))
+  - [특선영화](https://ko.wikipedia.org/wiki/특선영화 "wikilink") 지상파 ([KBS 1TV](../Page/KBS_1TV.md "wikilink"),[KBS 2TV](../Page/KBS_2TV.md "wikilink"))/([MBC TV](../Page/MBC_TV.md "wikilink"))/([SBS TV](../Page/SBS_TV.md "wikilink"))
   - OBS 시네마 ([OBS 경인TV](https://ko.wikipedia.org/wiki/OBS_경인TV "wikilink"))
   - [세계의 명화](../Page/세계의_명화.md "wikilink") ([EBS TV](../Page/EBS_1TV.md "wikilink"))
   - [일요시네마](../Page/일요시네마.md "wikilink") ([EBS TV](../Page/EBS_1TV.md "wikilink"))
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [명화극장](../Page/명화극장.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [명화극장](../Page/명화극장.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
   - [토요명화](../Page/토요명화.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
   - [토요영화 KBS 프리미어](../Page/토요영화_KBS_프리미어.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
   - 위성극장 ([KBS 위성2](https://ko.wikipedia.org/wiki/KBS_프라임 "wikilink"), [KBS 위성](../Page/KBS_N.md "wikilink"))
