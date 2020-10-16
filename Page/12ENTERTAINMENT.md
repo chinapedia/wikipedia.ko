@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [12ENTERTAINMENT](https://ko.wikipedia.org/wiki/12ENTERTAINMENT).
 
 
-**12ENT**(원투엔터)는 미국 실리콘밸리에 위치하였고 창의적인 한국 콘텐츠의 세계화를 위해 제작과 유통을 하는 기업이다.
+**12ENT**(원투엔터)는 미국 실리콘밸리에 위치하였고 창의적인 한국 콘텐츠의 세계화를 위해 한국 콘텐츠의 제작과 유통을 하는 기업이다.
 
 ## 지원 아티스트
 
-12ENT는 소속 계약이 아닌 아티스트 순수 지원프로그램을 운영함. 2020년 3분기 - 2기 선정중. 2020년 4분기 - 3기 선정 예정.
+12ENT는 소속 계약이 아닌 아티스트 순수 지원프로그램을 운영함.
 
 1기 아티스트:
 
@@ -177,6 +177,8 @@
 
   - Heya ㅎㅇ
 
+`- Milk (작사/작곡/편곡/가창)`
+`- Gi-Do (작사/작곡/편곡/가창)`
 `- Angel Baby (작사/작곡/편곡/가창)`
 `- Figaro (작사/작곡/편곡/가창)`
 `- Corgi A$$ (작사/작곡/편곡/가창)`
@@ -229,7 +231,7 @@
 | KTH                                    | 《더블루씨》                                                                | [정예인](../Page/정예인.md "wikilink") [조기성](https://ko.wikipedia.org/wiki/조기성 "wikilink")                                                                                                                                                                                                                                                                                                                                                          | 유통              |
 | KTH                                    | 《러브 시큐리티》                                                             | [유정](../Page/유정_\(1992년\).md "wikilink") [이재욱](https://ko.wikipedia.org/wiki/이재욱 "wikilink") [박선우](../Page/박선우.md "wikilink") [이민서](https://ko.wikipedia.org/wiki/이민서 "wikilink") [곽예헌](https://ko.wikipedia.org/wiki/곽예헌 "wikilink")                                                                                                                                                                                                         | 유통              |
 | KTH                                    | 《88번지》                                                                | [오승아](../Page/오승아.md "wikilink") [최종훈](https://ko.wikipedia.org/wiki/최종훈 "wikilink")                                                                                                                                                                                                                                                                                                                                                          | 유통              |
-| KTH                                    | 《응답하라 평창,100'F》                                                       | [김채원](https://ko.wikipedia.org/wiki/김채원_\(가수\) "wikilink") [김지훈](../Page/김지훈.md "wikilink") [유세형](../Page/유세형.md "wikilink") [백종민](https://ko.wikipedia.org/wiki/백종민 "wikilink")                                                                                                                                                                                                                                                              | 유통              |
+| KTH                                    | 《응답하라 평창,100'F》                                                       | [김채원](https://ko.wikipedia.org/wiki/김채원_\(가수\) "wikilink") [김지훈](../Page/김지훈.md "wikilink") [유세형](../Page/유세형.md "wikilink") [백종민](../Page/백종민.md "wikilink")                                                                                                                                                                                                                                                                                 | 유통              |
 | KTH                                    | 《불멸의여신》                                                               | [왕지원](../Page/왕지원.md "wikilink") [재희](../Page/재희.md "wikilink") [이주연](https://ko.wikipedia.org/wiki/이주연 "wikilink")                                                                                                                                                                                                                                                                                                                           | 유통              |
 | KTH                                    | 《청춘신드롬》                                                               | [이정하](../Page/이정하.md "wikilink") [이세찬](https://ko.wikipedia.org/wiki/이세찬 "wikilink") [강희웅](https://ko.wikipedia.org/wiki/강희웅 "wikilink") [조윤정](https://ko.wikipedia.org/wiki/조윤정 "wikilink") [문용일](../Page/문용일.md "wikilink") [김미지](https://ko.wikipedia.org/wiki/김미지 "wikilink")                                                                                                                                                             | 유통              |
 | KTH                                    | 《류한빌라 402호》                                                           | [장민영](../Page/장민영.md "wikilink") [김나연](https://ko.wikipedia.org/wiki/김나연 "wikilink") [신희철](https://ko.wikipedia.org/wiki/신희철 "wikilink") [한정화](../Page/한정화.md "wikilink")                                                                                                                                                                                                                                                                     | 유통              |
@@ -281,11 +283,11 @@
 
 ## 사무실
 
-  - **미국** :
+  - **미국 본사** :
 
 1290 Reamwood Ave. Bldg B, Sunnyvale, CA 94089
 
-  - **한국** :
+  - **한국 지사** :
 
 서울특별시 강남구 테헤란로 113
 

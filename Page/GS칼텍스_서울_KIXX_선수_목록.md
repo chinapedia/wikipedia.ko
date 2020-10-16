@@ -104,7 +104,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/이현" title="wikilink">이현</a> *</p></td>
+<td><p><a href="../Page/이현.md" title="wikilink">이현</a> *</p></td>
 <td><p>2</p></td>
 <td></td>
 <td><p>세터</p></td>
@@ -120,7 +120,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/안혜진" title="wikilink">안혜진</a> * </p></td>
+<td><p><a href="../Page/안혜진.md" title="wikilink">안혜진</a> * </p></td>
 <td><p>7</p></td>
 <td></td>
 <td><p>세터</p></td>
