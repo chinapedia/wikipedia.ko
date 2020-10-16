@@ -234,7 +234,7 @@
 <td><p>12.1</p></td>
 <td><p>40.9</p></td>
 <td><p><a href="../Page/요코하마시.md" title="wikilink">요코하마시</a><br />
-<a href="https://ko.wikipedia.org/wiki/도쓰카구" title="wikilink">도쓰카구</a></p></td>
+<a href="../Page/도쓰카구.md" title="wikilink">도쓰카구</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>OFN</p></td>

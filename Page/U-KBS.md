@@ -5,17 +5,17 @@
 
 ## 채널 구성
 
-| 조합명                                                            | 채널명                                                               | 송출 형식                               | 전송 속도                                     | 운영 방식 | 비고                                   |
-| -------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----- | ------------------------------------ |
-| U-KBS                                                          | [HD U-KBS STAR](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 비디오 채널 (DMB)                        | 512kbps                                   | 자체    | 2020년 1월 1일 TV수중계 방송에 U-KBS 로고 표출 중지 |
-| [U-KBS STAR](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") | 320kbps                                                           |                                     |                                           |       |                                      |
-| [U-KBS HEART](../Page/KBS_2TV.md "wikilink")                   | 352kbps                                                           | 2020년 1월 1일 U KBS STAR에 한해 자체 편성 중지 |                                           |       |                                      |
-| KBS MUSIC                                                      | V-Radio 채널 (DMB)                                                  | 128kbps                             | [2FM](../Page/KBS_제2FM.md "wikilink") 수중계 |       |                                      |
-| KBS CLOVER                                                     | 데이터 채널                                                            | 128kbps 자체                          |                                           |       |                                      |
+| 조합명                                          | 채널명                                            | 송출 형식                               | 전송 속도                                     | 운영 방식 | 비고                                   |
+| -------------------------------------------- | ---------------------------------------------- | ----------------------------------- | ----------------------------------------- | ----- | ------------------------------------ |
+| U-KBS                                        | [HD U-KBS STAR](../Page/KBS_1TV.md "wikilink") | 비디오 채널 (DMB)                        | 512kbps                                   | 자체    | 2020년 1월 1일 TV수중계 방송에 U-KBS 로고 표출 중지 |
+| [U-KBS STAR](../Page/KBS_1TV.md "wikilink")  | 320kbps                                        |                                     |                                           |       |                                      |
+| [U-KBS HEART](../Page/KBS_2TV.md "wikilink") | 352kbps                                        | 2020년 1월 1일 U KBS STAR에 한해 자체 편성 중지 |                                           |       |                                      |
+| KBS MUSIC                                    | V-Radio 채널 (DMB)                               | 128kbps                             | [2FM](../Page/KBS_제2FM.md "wikilink") 수중계 |       |                                      |
+| KBS CLOVER                                   | 데이터 채널                                         | 128kbps 자체                          |                                           |       |                                      |
 
 ## 비디오 채널
 
-  - [U-KBS STAR](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
+  - [U-KBS STAR](../Page/KBS_1TV.md "wikilink")
   - [U-KBS HEART](../Page/KBS_2TV.md "wikilink")
 
 ### 프로그램

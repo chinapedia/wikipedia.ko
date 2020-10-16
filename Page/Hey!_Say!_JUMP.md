@@ -7,7 +7,7 @@
 
   - [타카키 유야](../Page/타카키_유야.md "wikilink")(최연장자/Hey\!Say\!BEST/A.Y.T)
   - [아리오카 다이키](../Page/아리오카_다이키.md "wikilink")(최연장자/Hey\!Say\!BEST/A.Y.T)
-  - [이노오 케이](../Page/이노오_케이.md "wikilink")(최연장자/Hey\!Say\!BEST)
+  - [이노오 케이](../Page/이노오_케이.md "wikilink")(최연장자/Hey\!Say\!BEST)-코로나확진자
   - [나카지마 유토](../Page/나카지마_유토.md "wikilink")(최연소/Hey\!Say\!7)
 
 ## 멤버2

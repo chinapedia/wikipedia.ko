@@ -5,7 +5,7 @@
 
 ## 연혁
 
-  - [1973년](../Page/1973년.md "wikilink") - 해태식품공업(주) 설립, 과실가공사업 시작
+  - [1973년](../Page/1973년.md "wikilink") - **해태식품공업**으로 설립
   - [1975년](../Page/1975년.md "wikilink") - 100% 천연과즙 음료인 오렌지 주스 첫 선
   - [1976년](../Page/1976년.md "wikilink") - 과립탄산음료 ‘[써니텐](https://ko.wikipedia.org/wiki/써니텐 "wikilink")’ 첫 선
   - [1976년](../Page/1976년.md "wikilink") - 100% 오렌지 주스의 대명사 ’훼미리 쥬스’ 첫 선
@@ -23,7 +23,7 @@
   - [2010년](../Page/2010년.md "wikilink") [8월](../Page/8월.md "wikilink") - 일본 아사히 맥주, 해태음료 지분 매각
   - [2011년](../Page/2011년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink") [LG생활건강](../Page/LG생활건강.md "wikilink"), 해태음료 인수
   - [2013년](../Page/2013년.md "wikilink") [10월 16일](../Page/10월_16일.md "wikilink") - [영진약품](../Page/영진약품.md "wikilink") 익산공장(드링크판매부문)을 인수.
-  - [2016년](../Page/2016년.md "wikilink") [5월](../Page/5월.md "wikilink") - 상호명을 해태음료에서 해태htb로 변경.
+  - [2016년](../Page/2016년.md "wikilink") [5월](../Page/5월.md "wikilink") - 상호명을 **해태음료**에서 **해태htb**로 변경.
   - [2019년](../Page/2019년.md "wikilink") [8월](../Page/8월.md "wikilink") - 그 동안 단종제품을 한 스포츠음료 네버스탑 재출시
   - [2019년](../Page/2019년.md "wikilink") [10월](../Page/10월.md "wikilink") - 그 동안 단종제품을 한 보리음료 보리텐 재출시
   - [2020년](../Page/2020년.md "wikilink") [9월](../Page/9월.md "wikilink") - 김철하 회장 폐임. 이정훈, 전재호 공동대표이사 취임.

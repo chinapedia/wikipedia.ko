@@ -360,16 +360,16 @@
   - 2008년 [MBC 드라마넷](../Page/MBC_드라마넷.md "wikilink") 《[MT왕](../Page/MT왕.md "wikilink")》
   - 2008년 [KBS 조이](../Page/KBS_조이.md "wikilink") 《막무가내 팩토리》
   - 2008년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[있다\! 없다?](../Page/있다!_없다?.md "wikilink")》
-  - 2009년 [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 《[가족오락관](https://ko.wikipedia.org/wiki/가족오락관 "wikilink")》
+  - 2009년 [KBS1](../Page/KBS_1TV.md "wikilink") 《[가족오락관](https://ko.wikipedia.org/wiki/가족오락관 "wikilink")》
   - 2009년 [KBS2](../Page/KBS_2TV.md "wikilink") 《게임쇼 기막힌대결》
-  - 2010년 [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 《[체험 삶의 현장](../Page/체험_삶의_현장.md "wikilink")》
+  - 2010년 [KBS1](../Page/KBS_1TV.md "wikilink") 《[체험 삶의 현장](../Page/체험_삶의_현장.md "wikilink")》
   - 2010년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[세대공감 토요일](../Page/세대공감_토요일.md "wikilink")》
   - 2010년 [MBC](../Page/문화방송.md "wikilink") 《[세바퀴](../Page/세상을_바꾸는_퀴즈.md "wikilink")》
   - 2011년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[출발드림팀 시즌 2](../Page/출발드림팀_시즌_2.md "wikilink")》
   - 2016년 [MBC](../Page/문화방송.md "wikilink") 《[미스터리 음악쇼 복면가왕](../Page/미스터리_음악쇼_복면가왕.md "wikilink")》 - 파리잡는 파리넬리, 빵야빵야 총잡이 (생방) 내가 가왕 안 되면 귀신이 곡할 노릇\! 귀신의 집
   - 2016년 [JTBC](../Page/JTBC.md "wikilink") 《[투유 프로젝트 - 슈가맨](../Page/투유_프로젝트_-_슈가맨.md "wikilink")》
   - 2016년 [KBS2](../Page/KBS_2TV.md "wikilink") 《[불후의 명곡 - 전설을 노래하다](../Page/불후의_명곡_-_전설을_노래하다.md "wikilink")》
-  - 2016년 [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 《[열린음악회](../Page/열린음악회.md "wikilink")》
+  - 2016년 [KBS1](../Page/KBS_1TV.md "wikilink") 《[열린음악회](../Page/열린음악회.md "wikilink")》
   - 2016년 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") 《노래의 탄생》
   - 2017년 [MBC](../Page/문화방송.md "wikilink") 《[듀엣가요제](../Page/듀엣가요제.md "wikilink")》
   - 2017년 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 《[런닝맨](https://ko.wikipedia.org/wiki/런닝맨 "wikilink")》
