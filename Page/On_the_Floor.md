@@ -6,4 +6,4 @@
 ## 외부 링크
 
   -
-[분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:제니퍼 로페즈의 노래](https://ko.wikipedia.org/wiki/분류:제니퍼_로페즈의_노래 "wikilink") [분류:핏불의 노래](https://ko.wikipedia.org/wiki/분류:핏불의_노래 "wikilink")
+[분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:제니퍼 로페즈의 노래](https://ko.wikipedia.org/wiki/분류:제니퍼_로페즈의_노래 "wikilink") [분류:핏불의 노래](https://ko.wikipedia.org/wiki/분류:핏불의_노래 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")

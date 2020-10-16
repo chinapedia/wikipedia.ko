@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Lady Wood](https://ko.wikipedia.org/wiki/Lady_Wood).
 
 
-《**Lady Wood**》는 [토베 로의](../Page/토베_로.md "wikilink") 두번째 정규 음반으로, 2016년 10월에 발매 예정이다.
+《**Lady Wood**》는 [토베 로의](../Page/토베_로.md "wikilink") 두 번째 정규 음반으로, 2016년 10월에 발매되었다.
 
 ## 수록곡
 

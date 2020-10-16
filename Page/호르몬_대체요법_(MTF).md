@@ -17,7 +17,7 @@ HRT의 목적은 환자가 준거하는 [생물학적 성별의](https://ko.wiki
 
 MTF HRT의 효능에 비해 그 위험이 감수할 수 있을 만큼 작으나 주의가 필요한 상대금기(relative contraindication)는 다음과 같은 것들이 있다.
 
-  - [간질환](https://ko.wikipedia.org/wiki/간질환 "wikilink"), [신장병](../Page/신장병.md "wikilink"), [심장병](https://ko.wikipedia.org/wiki/심장병 "wikilink"), [뇌졸중](../Page/뇌졸중.md "wikilink")
+  - [간질환](https://ko.wikipedia.org/wiki/간질환 "wikilink"), [신장병](../Page/신장병.md "wikilink"), [심장병](../Page/심장병.md "wikilink"), [뇌졸중](../Page/뇌졸중.md "wikilink")
   - 심장병 위험요인. 예컨대 혈중 [콜레스테롤](../Page/콜레스테롤.md "wikilink"), [당뇨](https://ko.wikipedia.org/wiki/당뇨 "wikilink"), [비만](https://ko.wikipedia.org/wiki/비만 "wikilink"), [흡연](../Page/흡연.md "wikilink")
   - 유방암이나 색전증 가족력
   - [담낭병](https://ko.wikipedia.org/wiki/담낭병 "wikilink")
