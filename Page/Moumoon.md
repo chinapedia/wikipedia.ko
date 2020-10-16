@@ -11,7 +11,7 @@
       - 취미는 그림 그리기, 요리, 버섯의 이름 기억하기이다.
   - **마사키 고스케**（, [1977년](../Page/1977년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") - ）
       - [기타](../Page/기타.md "wikilink")・[신시사이저](../Page/신시사이저.md "wikilink")・[키보드](https://ko.wikipedia.org/wiki/키보드_\(악기\) "wikilink")・[피아노](../Page/피아노.md "wikilink") 등의 악기를 연주하는 동시에 [작곡](https://ko.wikipedia.org/wiki/작곡 "wikilink") 및 [편곡](../Page/편곡.md "wikilink")을 담당하고 있으며, [일본](../Page/일본.md "wikilink") [이시카와현](../Page/이시카와현.md "wikilink") 출신이다. 방송에 따라서는 **KOUSUKE MASAKI**로 표기되는 경우도 있다.
-      - 취미는 [스노보드](../Page/스노보드.md "wikilink") 타기・[카레](https://ko.wikipedia.org/wiki/카레 "wikilink") 만들기・[야구](../Page/야구.md "wikilink")・[골프](../Page/골프.md "wikilink")・개구리 관련 상품 수집이다. 하지만 살아있는 개구리는 꺼린다고 한다.
+      - 취미는 [스노보드](../Page/스노보드.md "wikilink") 타기・[카레](../Page/카레.md "wikilink") 만들기・[야구](../Page/야구.md "wikilink")・[골프](../Page/골프.md "wikilink")・개구리 관련 상품 수집이다. 하지만 살아있는 개구리는 꺼린다고 한다.
 
 ## 음반 목록
 

@@ -122,7 +122,7 @@ My Name, <a href="../Page/씨리얼_(음악_그룹).md" title="wikilink">C-REAL<
 <td><p>15회</p></td>
 <td><p><a href="../Page/1월_15일.md" title="wikilink">1월 15일</a></p></td>
 <td><p>더블에이, 시현, 크리스피 크런치, <a href="https://ko.wikipedia.org/wiki/NS_윤지" title="wikilink">NS 윤지</a>, <a href="../Page/팀_(가수).md" title="wikilink">팀</a>, <a href="../Page/셰인_오로크.md" title="wikilink">셰인</a><br />
-일렉트로 보이즈, F.I.X, 살찐고양이, 디아, <a href="https://ko.wikipedia.org/wiki/이현" title="wikilink">이현</a></p></td>
+일렉트로 보이즈, F.I.X, 살찐고양이, 디아, <a href="../Page/이현.md" title="wikilink">이현</a></p></td>
 </tr>
 <tr class="even">
 <td><p>16회</p></td>

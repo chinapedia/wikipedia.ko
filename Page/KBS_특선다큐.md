@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 특선다큐](https://ko.wikipedia.org/wiki/KBS_특선다큐).
 
 
-**KBS 특선다큐**는 매주 [목요일](../Page/목요일.md "wikilink") 밤 11시 40분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").
+**KBS 특선다큐**는 매주 [목요일](../Page/목요일.md "wikilink") 밤 11시 40분에 [KBS 1TV로](../Page/KBS_1TV.md "wikilink") 방송되었던 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").
 
 ## 기획 의도
 
@@ -13,7 +13,7 @@
 
 | 방송 채널                                                                                                                                                        | 방송 기간                                                                                                                                                      | 방송 시간                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                  | [2013년](../Page/2013년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink") | 매주 [월요일](../Page/월요일.md "wikilink") 밤 11:40 \~ 12:30 (50분) |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink")                                                                                                                     | [2013년](../Page/2013년.md "wikilink") [1월 14일](../Page/1월_14일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [3월 25일](../Page/3월_25일.md "wikilink") | 매주 [월요일](../Page/월요일.md "wikilink") 밤 11:40 \~ 12:30 (50분) |
 | [2013년](../Page/2013년.md "wikilink") [5월 5일](../Page/5월_5일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [10월 20일](../Page/10월_20일.md "wikilink")   | 매주 [일요일](../Page/일요일.md "wikilink") 밤 12:20 \~ 1:10 (50분)                                                                                                  |                                                            |
 | [2013년](../Page/2013년.md "wikilink") [11월 17일](../Page/11월_17일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [12월 8일](../Page/12월_8일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 밤 12:10 \~ 1:00 (50분)                                                                                                  |                                                            |
 | [2013년](../Page/2013년.md "wikilink") [12월 29일](../Page/12월_29일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [6월 1일](../Page/6월_1일.md "wikilink")   | 매주 [일요일](../Page/일요일.md "wikilink") 밤 12:20 \~ 1:10 (50분)                                                                                                  |                                                            |
@@ -290,7 +290,7 @@
 <tr class="odd">
 <td><p>42</p></td>
 <td><p><a href="../Page/5월_25일.md" title="wikilink">5월 25일</a></p></td>
-<td><p><a href="../Page/하늘.md" title="wikilink">하늘</a>이 내리고 <a href="https://ko.wikipedia.org/wiki/땅" title="wikilink">땅</a>이 키운다 천마</p></td>
+<td><p><a href="../Page/하늘.md" title="wikilink">하늘</a>이 내리고 <a href="../Page/땅.md" title="wikilink">땅</a>이 키운다 천마</p></td>
 </tr>
 <tr class="even">
 <td><p>43</p></td>
@@ -315,7 +315,7 @@
 <tr class="even">
 <td><p>47</p></td>
 <td><p><a href="../Page/7월_20일.md" title="wikilink">7월 20일</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/공존" title="wikilink">공존</a>의 <a href="https://ko.wikipedia.org/wiki/땅" title="wikilink">땅</a>, <a href="../Page/섬.md" title="wikilink">섬</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/공존" title="wikilink">공존</a>의 <a href="../Page/땅.md" title="wikilink">땅</a>, <a href="../Page/섬.md" title="wikilink">섬</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>48</p></td>

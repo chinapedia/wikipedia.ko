@@ -95,7 +95,7 @@
   -
   -
   -
-[분류:소녀시대의 노래](https://ko.wikipedia.org/wiki/분류:소녀시대의_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:가온 디지털 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_디지털_차트_1위_노래 "wikilink") [분류:가온 다운로드 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_다운로드_차트_1위_노래 "wikilink") [분류:가온 스트리밍 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_스트리밍_차트_1위_노래 "wikilink")
+[분류:소녀시대의 노래](https://ko.wikipedia.org/wiki/분류:소녀시대의_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:가온 디지털 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_디지털_차트_1위_노래 "wikilink") [분류:가온 다운로드 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_다운로드_차트_1위_노래 "wikilink") [분류:가온 스트리밍 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_스트리밍_차트_1위_노래 "wikilink") [분류:코리아 K-Pop 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:코리아_K-Pop_핫_100_1위_싱글 "wikilink")
 
 1.
 2.

@@ -1,18 +1,20 @@
 > This article is converted from Wikipedia: [JTBC 월화 드라마](https://ko.wikipedia.org/wiki/JTBC_월화_드라마).
 
 
-**JTBC 월화 드라마**는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [JTBC](../Page/JTBC.md "wikilink")를 통해 매주 [월요일](../Page/월요일.md "wikilink")부터 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink")에 방송되는 [텔레비전 드라마이다](../Page/텔레비전_드라마.md "wikilink"). 대부분 16부작에서 20부작 사이의 미니 시리즈 형식으로 현재 방영되고 있으나 50부작 넘는 장편 드라마도 방영되었다.
+**JTBC 월화 드라마**는 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink") [JTBC](../Page/JTBC.md "wikilink")에서 매주 [월요일](../Page/월요일.md "wikilink")부터 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink")에 방송 중인 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+
+대부분 16부작에서 20부작 사이의 미니 시리즈 드라마 형식으로 현재 방송 되고 있으나 50부작 넘는 장편 드라마도 방송 되었다.
 
 ## 방송 일정
 
 | 방송 채널                                                                                 | 방송 기간                        | 방송 시간                          | 방송 분량 |
 | ------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------ | ----- |
-| [JTBC](../Page/JTBC.md "wikilink")                                                    | 2011년 12월 5일 \~ 2012년 7월 16일 | 밤 8시 45분 \~ 9시 55분             | 70분   |
-| 2012년 10월 29일 \~ 2012년 11월 6일                                                         | 밤 11시 \~ 12시 10분             |                                |       |
-| 2012년 11월 12일 \~ 2014년 11월 11일                                                        | 밤 9시 50분 \~ 11시              |                                |       |
-| 2017년 12월 11일 \~ 2018년 4월 17일                                                         | 밤 11시 \~ 12시 20분             | align="center | 80분            |       |
-| 2018년 4월 23일 \~ 2018년 9월 18일                                                          | 밤 11시 \~ 12시 30분             | rowspan="2" align="center |90분 |       |
-| [2018년](../Page/2018년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") \~ **현재** | 밤 9시 30분 \~ 11시              |                                |       |
+| [JTBC](../Page/JTBC.md "wikilink")                                                    | 2011년 12월 5일 \~ 2012년 7월 16일 | 오후 8시 45분 \~ 오후 9시 55분         | 70분   |
+| 2012년 10월 29일 \~ 2012년 11월 6일                                                         | 오후 11시 \~ 오전 0시 10분          |                                |       |
+| 2012년 11월 12일 \~ 2014년 11월 11일                                                        | 오후 9시 50분 \~ 오후 11시          |                                |       |
+| 2017년 12월 11일 \~ 2018년 4월 17일                                                         | 오후 11시 \~ 오전 0시 20분          | align="center | 80분            |       |
+| 2018년 4월 23일 \~ 2018년 9월 18일                                                          | 오후 11시 \~ 오전 0시 30분          | rowspan="2" align="center |90분 |       |
+| [2018년](../Page/2018년.md "wikilink") [10월 1일](../Page/10월_1일.md "wikilink") \~ **현재** | 오후 9시 30분 \~ 오후 11시          |                                |       |
 
 ## 역사
 
@@ -83,6 +85,7 @@
   - [KBS 2TV 월화 드라마](../Page/KBS_2TV_월화_드라마.md "wikilink")
   - [MBC 월화 드라마](https://ko.wikipedia.org/wiki/MBC_월화_드라마 "wikilink")
   - [SBS 월화 드라마](../Page/SBS_월화_드라마.md "wikilink")
+  - [MBN 월화 드라마](https://ko.wikipedia.org/wiki/MBN_월화_드라마 "wikilink")
   - [tvN 월화 드라마](https://ko.wikipedia.org/wiki/tvN_월화_드라마 "wikilink")
 
 [분류:JTBC의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:JTBC의_텔레비전_드라마 "wikilink") [분류:JTBC 월화드라마](https://ko.wikipedia.org/wiki/분류:JTBC_월화드라마 "wikilink")

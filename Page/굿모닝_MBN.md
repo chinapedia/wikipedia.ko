@@ -22,7 +22,7 @@
 ## 동시간대 경쟁 프로그램
 
   - [JTBC 뉴스 아침&](../Page/JTBC_뉴스_아침&.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
-  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
   - [생방송 아침이 좋다](../Page/생방송_아침이_좋다.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
   - [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") ([MBC](../Page/MBC_TV.md "wikilink"))
   - [모닝와이드](../Page/모닝와이드.md "wikilink") ([SBS](../Page/SBS_TV.md "wikilink"))

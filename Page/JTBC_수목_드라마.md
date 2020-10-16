@@ -1,14 +1,16 @@
 > This article is converted from Wikipedia: [JTBC 수목 드라마](https://ko.wikipedia.org/wiki/JTBC_수목_드라마).
 
 
-**JTBC 수목 드라마**는 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink") [JTBC](../Page/JTBC.md "wikilink")를 통해 매주 [수요일](../Page/수요일.md "wikilink")부터 [목요일](../Page/목요일.md "wikilink")에 방송되는 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink"). 대부분 미니 시리즈 형식으로 현재 방영되고 있다.
+**JTBC 수목 드라마**는 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink") [JTBC](../Page/JTBC.md "wikilink")에서 매주 [수요일](../Page/수요일.md "wikilink")부터 [목요일](../Page/목요일.md "wikilink")에 방송 중인 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+
+대부분 미니 시리즈 드라마 형식으로 현재 방송 되고 있다.
 
 ## 방송 시간
 
-| 방송 채널                                                                                 | 방송 기간                        | 방송 시간              | 방송 분량 |
-| ------------------------------------------------------------------------------------- | ---------------------------- | ------------------ | ----- |
-| [JTBC](../Page/JTBC.md "wikilink")                                                    | 2011년 12월 7일 \~ 2012년 8월 16일 | 밤 8시 45분 \~ 9시 55분 | 70분   |
-| [2020년](../Page/2020년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ **현재** | 밤 9시 30분 \~ 11시00분           | 90분                |       |
+| 방송 채널                                                                                 | 방송 기간                        | 방송 시간                  | 방송 분량 |
+| ------------------------------------------------------------------------------------- | ---------------------------- | ---------------------- | ----- |
+| [JTBC](../Page/JTBC.md "wikilink")                                                    | 2011년 12월 7일 \~ 2012년 8월 16일 | 오후 8시 45분 \~ 오후 9시 55분 | 70분   |
+| [2020년](../Page/2020년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") \~ **현재** | 오후 9시 30분 \~ 오후 11시          | 90분                    |       |
 
 ## 역사
 
@@ -44,6 +46,7 @@
   - [KBS 2TV 수목 드라마](https://ko.wikipedia.org/wiki/KBS_2TV_수목_드라마 "wikilink")
   - [MBC 수목 드라마](../Page/MBC_수목_드라마.md "wikilink")
   - [SBS 수목 드라마](../Page/SBS_드라마_스페셜.md "wikilink")
+  - [MBN 수목 드라마](../Page/MBN_수목_드라마.md "wikilink")
   - [tvN 수목 드라마](https://ko.wikipedia.org/wiki/tvN_수목_드라마 "wikilink")
 
 [분류:JTBC의 텔레비전 드라마](https://ko.wikipedia.org/wiki/분류:JTBC의_텔레비전_드라마 "wikilink") [분류:JTBC 수목드라마](https://ko.wikipedia.org/wiki/분류:JTBC_수목드라마 "wikilink")
