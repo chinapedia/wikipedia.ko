@@ -54,7 +54,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/던전_&amp;_드래곤:_타워_오브_둠" title="wikilink">던전 &amp; 드래곤: 타워 오브 둠</a><br />
 (Dungeons &amp; Dragons: Tower of Doom)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1994-02-23</p></td>
@@ -70,12 +70,12 @@
 <td><p><a href="../Page/에일리언_vs._프레데터_(아케이드_게임).md" title="wikilink">에일리언 vs. 프레데터</a><br />
 (Alien vs. Predator)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1994-07-05</p></td>
 <td><p><a href="../Page/캡콤.md" title="wikilink">캡콤</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/다크스토커즈:_더_나이트_워리어즈" title="wikilink">다크스토커즈: 더 나이트 워리어즈</a> (Darkstalkers: The Night Warriors)</p></td>
+<td><p><a href="../Page/다크스토커즈:_더_나이트_워리어즈.md" title="wikilink">다크스토커즈: 더 나이트 워리어즈</a> (Darkstalkers: The Night Warriors)</p></td>
 <td><p>뱀파이어: 더 나이트 워리어즈<br />
 (Vampire: The Night Warriors)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전_격투_게임" title="wikilink">대전 격투</a></p></td>
@@ -91,9 +91,9 @@
 <tr class="even">
 <td><p>1994-09-16</p></td>
 <td><p><a href="../Page/캡콤.md" title="wikilink">캡콤</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아머드_워리어즈" title="wikilink">아머드 워리어즈</a> (Armored Warriors)</p></td>
+<td><p><a href="../Page/아머드_워리어즈.md" title="wikilink">아머드 워리어즈</a> (Armored Warriors)</p></td>
 <td><p>파워드 기어 (パワードギア -STRATEGIC VARIANT ARMOR EQUIPMENT-)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1994-12-08</p></td>
@@ -106,7 +106,7 @@
 <tr class="even">
 <td><p>1995-03-02</p></td>
 <td><p><a href="../Page/캡콤.md" title="wikilink">캡콤</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/나이트_워리어즈:_다크스토커즈_리벤지" title="wikilink">나이트 워리어즈: 다크스토커즈 리벤지</a> (Night Warriors: Darkstalkers' Revenge)</p></td>
+<td><p><a href="../Page/나이트_워리어즈:_다크스토커즈_리벤지.md" title="wikilink">나이트 워리어즈: 다크스토커즈 리벤지</a> (Night Warriors: Darkstalkers' Revenge)</p></td>
 <td><p>뱀파이어 헌터: 다크스토커즈 리벤지<br />
 (Vampire Hunter: Darkstalkers' Revenge)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전_격투_게임" title="wikilink">대전 격투</a></p></td>
@@ -138,7 +138,7 @@
 <tr class="even">
 <td><p>1995-10-24</p></td>
 <td><p><a href="../Page/캡콤.md" title="wikilink">캡콤</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마블_슈퍼_히어로즈" title="wikilink">마블 슈퍼 히어로즈</a><br />
+<td><p><a href="../Page/마블_슈퍼_히어로즈.md" title="wikilink">마블 슈퍼 히어로즈</a><br />
 (Marvel Super Heroes)</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전_격투_게임" title="wikilink">대전 격투</a></p></td>
@@ -157,7 +157,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/던전_&amp;_드래곤:_섀도_오버_미스타라" title="wikilink">던전 &amp; 드래곤: 섀도 오버 미스타라</a><br />
 (Dungeons &amp; Dragons: Shadow over Mystara)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1996-02-27</p></td>
@@ -211,7 +211,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/배틀_서킷" title="wikilink">배틀 서킷</a><br />
 (Battle Circuit)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1997-05-19</p></td>
@@ -224,7 +224,7 @@
 <tr class="odd">
 <td><p>1997-06-20</p></td>
 <td><p><a href="../Page/캡콤.md" title="wikilink">캡콤</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/마블_슈퍼_히어로즈_vs._스트리트_파이터" title="wikilink">마블 슈퍼 히어로즈 vs. 스트리트 파이터</a> (Marvel Super Heroes vs. Street Fighter)</p></td>
+<td><p><a href="../Page/마블_슈퍼_히어로즈_vs._스트리트_파이터.md" title="wikilink">마블 슈퍼 히어로즈 vs. 스트리트 파이터</a> (Marvel Super Heroes vs. Street Fighter)</p></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/대전_격투_게임" title="wikilink">대전 격투</a></p></td>
 </tr>

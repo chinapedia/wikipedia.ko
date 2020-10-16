@@ -101,56 +101,56 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1987–88_세군다_디비시온_B" title="wikilink">1987/88</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>7위</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1988–89_세군다_디비시온_B" title="wikilink">1988/89</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>15위</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1989–90_세군다_디비시온_B" title="wikilink">1989/90</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>7위</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1990–91_세군다_디비시온_B" title="wikilink">1990/91</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>6위</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1991–92_세군다_디비시온_B" title="wikilink">1991/92</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>15위</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1992–93_세군다_디비시온_B" title="wikilink">1992/93</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>14위</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1993–94_세군다_디비시온_B" title="wikilink">1993/94</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>10위</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1994–95_세군다_디비시온_B" title="wikilink">1994/95</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>8위</p></td>
 <td></td>
 </tr>
@@ -170,28 +170,28 @@
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1995–96_세군다_디비시온_B" title="wikilink">1995/96</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>14위</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1996–97_세군다_디비시온_B" title="wikilink">1996/97</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>4위</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/1997–98_세군다_디비시온_B" title="wikilink">1997/98</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>9위</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/1998–99_세군다_디비시온_B" title="wikilink">1998/99</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>18위</p></td>
 <td></td>
 </tr>
@@ -233,56 +233,56 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2004–05_세군다_디비시온_B" title="wikilink">2004/05</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>8위</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2005–06_세군다_디비시온_B" title="wikilink">2005/06</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>9위</p></td>
 <td><p><small>2라운드</small></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2006–07_세군다_디비시온_B" title="wikilink">2006/07</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>8위</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2007–08_세군다_디비시온_B" title="wikilink">2007/08</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>7위</p></td>
 <td><p><small>1라운드</small></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2008–09_세군다_디비시온_B" title="wikilink">2008/09</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>6위</p></td>
 <td><p><small>2차 예선 라운드</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2009–10_세군다_디비시온_B" title="wikilink">2009/10</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>6위</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/2010–11_세군다_디비시온_B" title="wikilink">2010/11</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>10위</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/2011–12_세군다_디비시온_B" title="wikilink">2011/12</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/세군다_디비시온_B" title="wikilink">2ªB</a></p></td>
+<td><p><a href="../Page/세군다_디비시온_B.md" title="wikilink">2ªB</a></p></td>
 <td><p>19위</p></td>
 <td></td>
 </tr>

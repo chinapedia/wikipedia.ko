@@ -73,7 +73,7 @@
 <td><p><a href="../Page/천지를_먹다.md" title="wikilink">천지를 먹다</a><br />
 (天地を喰らう)</p></td>
 <td><p>다이네스티 워즈 (Dynasty Wars)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1989-06</p></td>
@@ -97,7 +97,7 @@
 <td><p><a href="../Page/파이널_파이트_(비디오_게임).md" title="wikilink">파이널 파이트</a><br />
 (Final Fight)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1990-02</p></td>
@@ -144,7 +144,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/니모" title="wikilink">니모</a><br />
 (Nemo)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1991-02-06</p></td>
@@ -168,7 +168,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/더_킹_오브_드래곤즈" title="wikilink">더 킹 오브 드래곤즈</a><br />
 (The King of Dragons)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1991-09-28</p></td>
@@ -176,7 +176,7 @@
 <td><p><a href="../Page/캡틴_코만도.md" title="wikilink">캡틴 코만도</a><br />
 (Captain Commando)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1991-11-27</p></td>
@@ -184,7 +184,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/나이츠_오브_더_라운드" title="wikilink">나이츠 오브 더 라운드</a><br />
 (Knights of the Round)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1992-03-13</p></td>
@@ -269,7 +269,7 @@
 (天地を喰らうII・赤壁の戦い)</p></td>
 <td><p>워리어즈 오브 페이트 (Warriors of Fate)<br />
 삼국지 II</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1993-02-01</p></td>
@@ -277,14 +277,14 @@
 <td><p><a href="../Page/캐딜락스_앤_다이노소어즈.md" title="wikilink">캐딜락스 앤 다이노소어즈</a> (Cadillacs and Dinosaurs)</p></td>
 <td><p>캐딜락스 공룡 신세기<br />
 (キャディラックス 恐竜新世紀)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1993-04-22</p></td>
 <td><p><a href="../Page/캡콤.md" title="wikilink">캡콤</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/더_퍼니셔" title="wikilink">더 퍼니셔</a> (The Punisher)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1993-07-13</p></td>
@@ -336,7 +336,7 @@
 (天地を喰らうII・赤壁の戦い)</p></td>
 <td><p>워리어즈 오브 페이트(Warriors of Fate)<br />
 삼국지 II</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1994</p></td>
@@ -352,7 +352,7 @@
 <td><p><a href="../Page/캡틴_코만도.md" title="wikilink">캡틴 코만도</a><br />
 (Captain Commando)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1994</p></td>
@@ -360,7 +360,7 @@
 <td><p><a href="../Page/파이널_파이트_(비디오_게임).md" title="wikilink">파이널 파이트</a><br />
 (Final Fight)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1995</p></td>
@@ -368,7 +368,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/나이츠_오브_더_라운드" title="wikilink">나이츠 오브 더 라운드</a><br />
 (Knights of the Round)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1995</p></td>
@@ -415,7 +415,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/더_킹_오브_드래곤즈" title="wikilink">더 킹 오브 드래곤즈</a><br />
 (The King of Dragons)</p></td>
 <td></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/진행형_격투_게임" title="wikilink">진행형 격투</a></p></td>
+<td><p><a href="../Page/진행형_격투_게임.md" title="wikilink">진행형 격투</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

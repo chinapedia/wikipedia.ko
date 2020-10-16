@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [후지코 F. 후지오 뮤지엄](https://ko.wikipedia.org/wiki/후지코_F._후지오_뮤지엄).
 
 
-</ref> | 개관일 = [2011년](../Page/2011년.md "wikilink")(헤이세 23년) [9월 3일](../Page/9월_3일.md "wikilink") | 폐관일 = | 소재지 = [가나가와현](../Page/가나가와현.md "wikilink") [가와사키시](../Page/가와사키시.md "wikilink") [다마구](https://ko.wikipedia.org/wiki/다마구 "wikilink") 나가오 2 정목 8-1 | 소재지 우편 번호 = 〒214-0023 | 위치 =  | 지도국 코드 = JP | 좌표 오른쪽 상단 표시 = | 액세스 = 무코가오카유엔역 · [슈쿠가와라 역에서](https://ko.wikipedia.org/wiki/슈쿠가와라_역_\(가나가와_현\) "wikilink") 도보로 15 \~ 16분
+</ref> | 개관일 = [2011년](../Page/2011년.md "wikilink")(헤이세 23년) [9월 3일](../Page/9월_3일.md "wikilink") | 폐관일 = | 소재지 = [가나가와현](../Page/가나가와현.md "wikilink") [가와사키시](../Page/가와사키시.md "wikilink") [다마구](../Page/다마구.md "wikilink") 나가오 2 정목 8-1 | 소재지 우편 번호 = 〒214-0023 | 위치 =  | 지도국 코드 = JP | 좌표 오른쪽 상단 표시 = | 액세스 = 무코가오카유엔역 · [슈쿠가와라 역에서](https://ko.wikipedia.org/wiki/슈쿠가와라_역_\(가나가와_현\) "wikilink") 도보로 15 \~ 16분
 [노보리토 역에서](../Page/노보리토_역.md "wikilink") 셔틀 버스 이용
-[구지 역](https://ko.wikipedia.org/wiki/구지_역_\(가나가와_현\) "wikilink") · [후타코타마가와 역](../Page/후타코타마가와_역.md "wikilink") · 가지가유 역 · [미조노쿠치 역에서](../Page/미조노쿠치_역.md "wikilink") 시내 버스 이용 | 주차장 = | 공식 사이트 =  | network = | nrhp = }} **가와사키 시 후지코 F. 후지오 뮤지엄**()은 [가나가와현](../Page/가나가와현.md "wikilink") [가와사키시](../Page/가와사키시.md "wikilink") [다마구](https://ko.wikipedia.org/wiki/다마구 "wikilink")에 있는 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink") [후지코 F. 후지오](../Page/후지코_F._후지오.md "wikilink")(후지모토 히로시)의 작품 원화 및 관련 자료를 중심으로 전시하는 박물관이다. [2011년](../Page/2011년.md "wikilink")(헤이세 23년) [9월 3일에](../Page/9월_3일.md "wikilink") 개관하였다.
+[구지 역](https://ko.wikipedia.org/wiki/구지_역_\(가나가와_현\) "wikilink") · [후타코타마가와 역](../Page/후타코타마가와_역.md "wikilink") · 가지가유 역 · [미조노쿠치 역에서](../Page/미조노쿠치_역.md "wikilink") 시내 버스 이용 | 주차장 = | 공식 사이트 =  | network = | nrhp = }} **가와사키 시 후지코 F. 후지오 뮤지엄**()은 [가나가와현](../Page/가나가와현.md "wikilink") [가와사키시](../Page/가와사키시.md "wikilink") [다마구](../Page/다마구.md "wikilink")에 있는 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink") [후지코 F. 후지오](../Page/후지코_F._후지오.md "wikilink")(후지모토 히로시)의 작품 원화 및 관련 자료를 중심으로 전시하는 박물관이다. [2011년](../Page/2011년.md "wikilink")(헤이세 23년) [9월 3일에](../Page/9월_3일.md "wikilink") 개관하였다.
 
 ## 협찬 기업
 

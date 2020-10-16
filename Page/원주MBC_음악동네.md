@@ -6,9 +6,10 @@
 ## 역대 DJ
 
   - 1대 : 주용준 아나운서
-  - 2대 : [전희영](https://ko.wikipedia.org/wiki/전희영_\(아나운서\) "wikilink") 아나운서
-  - 3대 : [박지현](https://ko.wikipedia.org/wiki/박지현_\(1980년\) "wikilink") 아나운서
-  - 4대 : 이성현 아나운서
+  - 2대 : 송유라 (유라의 음악동네)
+  - 3대 : [전희영](https://ko.wikipedia.org/wiki/전희영_\(아나운서\) "wikilink") 아나운서
+  - 4대 : [박지현](https://ko.wikipedia.org/wiki/박지현_\(1980년\) "wikilink") 아나운서
+  - 5대 : 이성현 아나운서
 
 ## 같이 보기
 
