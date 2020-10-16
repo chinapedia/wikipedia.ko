@@ -9,7 +9,7 @@
 
   - **[배트걸](../Page/배트걸.md "wikilink")**(Bat girl)(성우: [메이 휘트먼](../Page/메이_휘트먼.md "wikilink")/[문남숙](../Page/문남숙.md "wikilink"))
   - **[슈퍼걸](https://ko.wikipedia.org/wiki/슈퍼걸 "wikilink")**(Supergirl)(성우: [아나이스 페어웨터](https://ko.wikipedia.org/wiki/아나이스_페어웨터 "wikilink")/[이지현](../Page/이지현_\(성우\).md "wikilink"))
-  - **[원더우먼](../Page/원더우먼.md "wikilink")**(Wonder Woman)(성우: [그레이 딜라일](https://ko.wikipedia.org/wiki/그레이_딜라일 "wikilink")/[김은아](../Page/김은아_\(EBS_성우\).md "wikilink"))
+  - **[원더우먼](../Page/원더우먼.md "wikilink")**(Wonder Woman)(성우: [그레이 딜라일](../Page/그레이_딜라일.md "wikilink")/[김은아](../Page/김은아_\(EBS_성우\).md "wikilink"))
   - **[할리 퀸](../Page/할리_퀸.md "wikilink")**(Harley Quinn)(성우: [타라 스트롱](../Page/타라_스트롱.md "wikilink")/[김채하](../Page/김채하.md "wikilink"))
   - **[포이즌 아이비](https://ko.wikipedia.org/wiki/포이즌_아이비 "wikilink")**(Poison Ivy)(성우: [타라 스트롱](../Page/타라_스트롱.md "wikilink")/[강시현](../Page/강시현.md "wikilink"))
   - **[호크걸](../Page/호크걸.md "wikilink")**(Hawk Girl)(성우: [니카 퍼터먼](../Page/니카_퍼터먼.md "wikilink")/[김현지](https://ko.wikipedia.org/wiki/김현지 "wikilink"))
@@ -21,7 +21,7 @@
   - **[스피드 퀸](https://ko.wikipedia.org/wiki/스피드_퀸 "wikilink")**(Speed Queen)(성우: [메이 휘트먼](../Page/메이_휘트먼.md "wikilink")/[여민정](../Page/여민정_\(성우\).md "wikilink"))
   - **[스타파이어](https://ko.wikipedia.org/wiki/스타파이어 "wikilink")**(Starfire)(성우: [힌든 월치](https://ko.wikipedia.org/wiki/힌든_월치 "wikilink")/[정미숙](../Page/정미숙.md "wikilink"))
   - **[레이디 시바](https://ko.wikipedia.org/wiki/레이디_시바 "wikilink")**(Lady Shiva)(성우: [타니아 구나디](https://ko.wikipedia.org/wiki/타니아_구나디 "wikilink")/[김도영](../Page/김도영.md "wikilink"))
-  - **[지간타](https://ko.wikipedia.org/wiki/자이갠타 "wikilink")**(Giganta)(성우: [그레이 딜라일](https://ko.wikipedia.org/wiki/그레이_딜라일 "wikilink")/[강시현](../Page/강시현.md "wikilink"))
+  - **[지간타](https://ko.wikipedia.org/wiki/자이갠타 "wikilink")**(Giganta)(성우: [그레이 딜라일](../Page/그레이_딜라일.md "wikilink")/[강시현](../Page/강시현.md "wikilink"))
   - **[윌러 교장](https://ko.wikipedia.org/wiki/어맨다_월러 "wikilink")**(Principal Amanda Waller)(성우: [이벳 니콜 브라운](https://ko.wikipedia.org/wiki/이벳_니콜_브라운 "wikilink")/[김도영](../Page/김도영.md "wikilink"))
   - **[고든 청장](https://ko.wikipedia.org/wiki/제임스_고든 "wikilink")**(Commissioner James Gordon)(성우: [톰 케니](../Page/톰_케니.md "wikilink")/[박영재](../Page/박영재.md "wikilink"))
   - **[플래시](https://ko.wikipedia.org/wiki/플래시_\(배리_앨런\) "wikilink")**(성우: [조시 키턴](https://ko.wikipedia.org/wiki/조시_키턴 "wikilink")/[이현](../Page/이현_\(성우\).md "wikilink"))

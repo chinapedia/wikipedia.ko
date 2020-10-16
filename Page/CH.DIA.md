@@ -1,36 +1,40 @@
 > This article is converted from Wikipedia: [CH.DIA](https://ko.wikipedia.org/wiki/CH.DIA).
 
 
+**CH.DIA**()는 [CJ ENM의](../Page/CJ_ENM.md "wikilink") [DIA TV](../Page/DIA_TV.md "wikilink")(다이아 티비)가 운영하는 대한민국의 [크리에이터](../Page/크리에이터.md "wikilink") 전문 텔레비전 채널이다.\[1\]
+
+## DIA TV 소속 인물
+
 ## 방영 프로그램
 
   - [잠뜰](https://ko.wikipedia.org/wiki/잠뜰 "wikilink")TV
   - 소근커플
   - 달려라치킨 미니어쳐
-  - [수리노을](../Page/수리노을.md "wikilink") 탐묘생활
-  - [꿀키](https://ko.wikipedia.org/wiki/꿀키 "wikilink") 심플레시피
+  - [수리노을 탐묘생활](../Page/수리노을.md "wikilink")
+  - [꿀키 심플레시피](https://ko.wikipedia.org/wiki/꿀키 "wikilink")
   - Nado 먹을래
   - [라임튜브](https://ko.wikipedia.org/wiki/라임튜브 "wikilink")
   - [마이린TV](https://ko.wikipedia.org/wiki/마이린TV "wikilink")
   - 대도BOX
   - 귀여운 강아지 시바견 곰이탱이 일상
   - 에밀튜브
-  - [대도서관](https://ko.wikipedia.org/wiki/대도서관 "wikilink") 수다방
+  - [대도서관 수다방](https://ko.wikipedia.org/wiki/대도서관 "wikilink")
   - 미드나잇 펍지
   - 스튜디오V
   - 해석남녀
   - 7일동안
-  - [헤이지니](../Page/헤이지니.md "wikilink") 장난감놀이
+  - [헤이지니 장난감놀이](../Page/헤이지니.md "wikilink")
   - 지호토이 장난감놀이
   - 토이몬스터 장난감놀이
   - 꼬불하개파마
   - 윰꽃
   - 쿡올트립
   - VIVA DANCE STUDIO
-  - [순백설탕 재미있는 베이킹](https://ko.wikipedia.org/wiki/순백설탕_재미있는_베이킹 "wikilink")
+  - 순백설탕 재미있는 베이킹
   - 뚜아뚜지TV
   - 아리키친
   - Enjoy커플
-  - [박막례](../Page/박막례.md "wikilink") 할머니
+  - [박막례 할머니](../Page/박막례.md "wikilink")
   - 킴닥스 꿀단지
   - 조매력의 코미디나잇쇼
   - 입짧은 햇님
@@ -38,14 +42,14 @@
   - 소프 진짜 자취 한끼
   - 테스터훈 LOL 뉴메타
   - 딱30분\! 핏미업 - 내 몸에 핏을 더하는 시간
-  - 강형욱의 견종백과
-  - [이수근](https://ko.wikipedia.org/wiki/이수근 "wikilink") 채널
-  - [윰댕](../Page/윰댕.md "wikilink")의 좌충우돌 심즈생활
+  - [강형욱](../Page/강형욱.md "wikilink")의 견종백과
+  - [이수근 채널](https://ko.wikipedia.org/wiki/이수근 "wikilink")
+  - [윰댕 좌충우돌 심즈생활](../Page/윰댕.md "wikilink")의
   - 나의 개같은 연예
   - 유레카 발명왕 허팝
   - 출동\! 애니한
   - 달려라치킨 베이비돌 뷰티샵
-  - [도로시](../Page/도로시_\(유튜버\).md "wikilink") 먹방
+  - [도로시 먹방](../Page/도로시_\(유튜버\).md "wikilink")
   - 박병진 용사 먹방
   - 테이스티훈
   - 조섭 자만인
@@ -91,7 +95,7 @@
   - 집사인 게 자랑
   - 똥차비디오
   - 개밍순
-  - 꽈뚜룹
+  - [꽈뚜룹](https://ko.wikipedia.org/wiki/꽈뚜룹 "wikilink")
 
 ## 종영 프로그램
 
@@ -261,3 +265,5 @@
   -
   -
 [분류:CJ ENM의 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:CJ_ENM의_텔레비전_네트워크 "wikilink") [분류:오락 텔레비전 네트워크](https://ko.wikipedia.org/wiki/분류:오락_텔레비전_네트워크 "wikilink") [분류:2017년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2017년_설립된_텔레비전_방송국과_채널 "wikilink")
+
+1.  또한 2020년 2월 29일까지는 DIA TV(다이아 TV)라는 명칭을 사용하였다.

@@ -1,13 +1,13 @@
 > This article is converted from Wikipedia: [마블 vs. 캡콤: 클래시 오브 슈퍼 히어로즈](https://ko.wikipedia.org/wiki/마블_vs._캡콤:_클래시_오브_슈퍼_히어로즈).
 
 
-《**마블 vs. 캡콤: 클래시 오브 슈퍼 히어로즈**》()는 [캡콤](../Page/캡콤.md "wikilink")이 1998년에 발매한 [크로스오버](https://ko.wikipedia.org/wiki/크로스오버_작품 "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). [마블 vs. 캡콤](../Page/마블_vs._캡콤.md "wikilink") 시리즈의 3번째 작품으로, 캡콤 소유의 캐릭터들과 [마블 코믹스의](../Page/마블_코믹스.md "wikilink") 캐릭터들이 함께 등장한다. 1998년에 [아케이드로](../Page/아케이드_게임.md "wikilink") 처음 가동된 후, 1999년부터 2000년 사이에 [드림캐스트](../Page/드림캐스트.md "wikilink")와 [플레이스테이션](https://ko.wikipedia.org/wiki/플레이스테이션 "wikilink")으로 이식판이 발매됐다. 2012년에는 [플레이스테이션 3과](../Page/플레이스테이션_3.md "wikilink") [엑스박스 360으로](../Page/엑스박스_360.md "wikilink") 발매된 《[마블 vs. 캡콤 오리진스](https://ko.wikipedia.org/wiki/마블_vs._캡콤_오리진스 "wikilink")》 컬렉션이 포함됐다.
+《**마블 vs. 캡콤: 클래시 오브 슈퍼 히어로즈**》()는 [캡콤](../Page/캡콤.md "wikilink")이 1998년에 발매한 [크로스오버](https://ko.wikipedia.org/wiki/크로스오버_작품 "wikilink") [대전 격투 게임이다](https://ko.wikipedia.org/wiki/대전_격투_게임 "wikilink"). [마블 vs. 캡콤](../Page/마블_vs._캡콤.md "wikilink") 시리즈의 3번째 작품으로, 캡콤 소유의 캐릭터들과 [마블 코믹스의](../Page/마블_코믹스.md "wikilink") 캐릭터들이 함께 등장한다. 1998년에 [아케이드로](../Page/아케이드_게임.md "wikilink") 처음 가동된 후, 1999년부터 2000년 사이에 [드림캐스트](../Page/드림캐스트.md "wikilink")와 [플레이스테이션](../Page/플레이스테이션.md "wikilink")으로 이식판이 발매됐다. 2012년에는 [플레이스테이션 3과](../Page/플레이스테이션_3.md "wikilink") [엑스박스 360으로](../Page/엑스박스_360.md "wikilink") 발매된 《[마블 vs. 캡콤 오리진스](https://ko.wikipedia.org/wiki/마블_vs._캡콤_오리진스 "wikilink")》 컬렉션이 포함됐다.
 
-플레이어들은 마블과 캡콤의 등장인물을 선택해 상대방과 경기를 치룰 수 있다. 전작 [마블 슈퍼 히어로즈 vs. 스트리트 파이터와](https://ko.wikipedia.org/wiki/마블_슈퍼_히어로즈_vs._스트리트_파이터 "wikilink") 달리 이 게임은 [스트리트 파이터](../Page/스트리트_파이터.md "wikilink") 뿐만이 아닌 캡콤의 각종 작품들의 주인공들이 나온다.
+플레이어들은 마블과 캡콤의 등장인물을 선택해 상대방과 경기를 치룰 수 있다. 전작 [마블 슈퍼 히어로즈 vs. 스트리트 파이터와](../Page/마블_슈퍼_히어로즈_vs._스트리트_파이터.md "wikilink") 달리 이 게임은 [스트리트 파이터](../Page/스트리트_파이터.md "wikilink") 뿐만이 아닌 캡콤의 각종 작품들의 주인공들이 나온다.
 
 ## 게임플레이
 
-《마블 vs. 캡콤: 클래시 오브 슈퍼 히어로즈》은 《[마블 vs. 캡콤](../Page/마블_vs._캡콤.md "wikilink")》 시리즈의 세번째 작품이다.\[1\] 전작 《[마블 슈퍼 히어로즈 vs. 스트리트 파이터](https://ko.wikipedia.org/wiki/마블_슈퍼_히어로즈_vs._스트리트_파이터 "wikilink")》에서 선보였던 [태그 팀](https://ko.wikipedia.org/wiki/태그_팀 "wikilink") 게임플레이를 사용한다.\[2\]
+《마블 vs. 캡콤: 클래시 오브 슈퍼 히어로즈》은 《[마블 vs. 캡콤](../Page/마블_vs._캡콤.md "wikilink")》 시리즈의 세번째 작품이다.\[1\] 전작 《[마블 슈퍼 히어로즈 vs. 스트리트 파이터](../Page/마블_슈퍼_히어로즈_vs._스트리트_파이터.md "wikilink")》에서 선보였던 [태그 팀](https://ko.wikipedia.org/wiki/태그_팀 "wikilink") 게임플레이를 사용한다.\[2\]
 
 ## 후속작
 
