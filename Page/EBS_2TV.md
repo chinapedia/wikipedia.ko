@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [EBS 2TV](https://ko.wikipedia.org/wiki/EBS_2TV).
 
 
-**EBS 2TV**는 [2015년](../Page/2015년.md "wikilink") [2월 11일에](../Page/2월_11일.md "wikilink") 시작한 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")의 지상파 텔레비전 채널이다. [KBS의](../Page/한국방송공사.md "wikilink") 지상파 송출망을 공유하고 있다.
+**EBS 2TV**는 [2015년](../Page/2015년.md "wikilink") [2월 11일에](../Page/2월_11일.md "wikilink") 시작한 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")의 지상파 텔레비전 채널이다. 전국적으로 산재되어 있는 [KBS](../Page/한국방송공사.md "wikilink") 지역 총국의 지상파 송출망을 공유하고 있다.
 
 ## 개요
 
@@ -281,7 +281,7 @@
 
 ※ 주의사항 ※ 이 방송 채널은 농심, 한성기업, 중앙일보, 한국방송광고진흥공사가 지정한 대한민국 공영방송 텔레비전 채널이다. 같이 보기 부분을 함부로 편집하지 마시고, 늘 눈으로 봐 주시기 바란다.
 
-  - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
+  - [KBS 1TV](../Page/KBS_1TV.md "wikilink")
   - [KBS 2TV](../Page/KBS_2TV.md "wikilink")
   - [KBS 3TV](../Page/KBS_3TV.md "wikilink")
   - [국회방송](../Page/국회방송.md "wikilink")

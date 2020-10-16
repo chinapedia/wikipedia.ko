@@ -5,7 +5,7 @@
 
 ## 개요
 
-2015년 3월 25일, SM 엔터테인먼트는 공식 홈페이지를 통해 샤이니의 4번째 콘서트 일정을 공개하였고, 예매는 4월 2일, [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다. 이전 투어인 〈[SHINee WORLD III](../Page/SHINee_WORLD_III.md "wikilink")〉와 마찬가지로 예매 시작과 동시에 전석이 매진될 정도로 호응이 좋아 15일의 공연 일정이 추가되었다.\[2\] 본 콘서트의 명칭은 〈[SHINee WORLD III](../Page/SHINee_WORLD_III.md "wikilink")〉에 이어 태민이 작명한 **꼭갈콘**으로 [롯데제과](../Page/롯데제과.md "wikilink")의 제품 [꼬깔콘](https://ko.wikipedia.org/wiki/꼬깔콘 "wikilink")에서 영감은 딴 **꼭 가야하는 콘서트**라는 의미를 담았다고 한다.
+2015년 3월 25일, SM 엔터테인먼트는 공식 홈페이지를 통해 샤이니의 4번째 콘서트 일정을 공개하였고, 예매는 4월 2일, [YES24](../Page/YES24.md "wikilink")를 통해 진행되었다. 이전 투어인 〈[SHINee WORLD III](../Page/SHINee_WORLD_III.md "wikilink")〉와 마찬가지로 예매 시작과 동시에 전석이 매진될 정도로 호응이 좋아 15일의 공연 일정이 추가되었다.\[2\] 본 콘서트의 명칭은 〈[SHINee WORLD III](../Page/SHINee_WORLD_III.md "wikilink")〉에 이어 태민이 작명한 **꼭갈콘**으로 [롯데제과](../Page/롯데제과.md "wikilink")의 제품 [꼬깔콘](../Page/꼬깔콘.md "wikilink")에서 영감은 딴 **꼭 가야하는 콘서트**라는 의미를 담았다고 한다.
 
 ## SHINee WORLD 2014 \~I'm Your Boy\~
 

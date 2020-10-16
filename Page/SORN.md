@@ -3,11 +3,9 @@
 
 **SORN**(, , 1996년 11월 18일 \~ )은 [대한민국](../Page/대한민국.md "wikilink")에서 활동하는 [태국](../Page/태국.md "wikilink") 출신 가수 겸 연기자로, [걸 그룹](../Page/걸_그룹.md "wikilink") [CLC의](../Page/CLC_\(음악_그룹\).md "wikilink") 서브 보컬을 담당하고 있다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
-2011년 [K팝 스타 헌트에](https://ko.wikipedia.org/wiki/K팝_스타_헌트 "wikilink") 참가하여 우승하였다.
-
 ## 학력
 
-  - [한국켄트외국인학교](https://ko.wikipedia.org/wiki/한국켄트외국인학교 "wikilink") (Grade 11 휴학)
+  - [한국켄트외국인학교](https://ko.wikipedia.org/wiki/한국켄트외국인학교 "wikilink") 고등부 (Grade 11 휴학)
 
 ## 음반 목록
 
@@ -27,6 +25,10 @@
 ### 텔레비전 드라마
 
   - [ไฟอมตะ](https://ko.wikipedia.org/wiki/:th:ไฟอมตะ "wikilink") (2010)
+
+## 같이 보기
+
+[CLC](https://ko.wikipedia.org/wiki/CLC "wikilink")
 
 ## 각주
 
