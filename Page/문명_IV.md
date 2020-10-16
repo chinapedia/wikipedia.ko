@@ -448,7 +448,7 @@
 
   -
   -
-[분류:2005년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2005년_비디오_게임 "wikilink") [분류:문명 (비디오 게임)](https://ko.wikipedia.org/wiki/분류:문명_\(비디오_게임\) "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:매킨토시 게임](https://ko.wikipedia.org/wiki/분류:매킨토시_게임 "wikilink") [분류:게임브리오 엔진 게임](https://ko.wikipedia.org/wiki/분류:게임브리오_엔진_게임 "wikilink") [분류:스팀 배급 게임](https://ko.wikipedia.org/wiki/분류:스팀_배급_게임 "wikilink") [분류:MacOS 게임](https://ko.wikipedia.org/wiki/분류:MacOS_게임 "wikilink")
+[분류:2005년 비디오 게임](https://ko.wikipedia.org/wiki/분류:2005년_비디오_게임 "wikilink") [분류:문명 (비디오 게임)](https://ko.wikipedia.org/wiki/분류:문명_\(비디오_게임\) "wikilink") [분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:매킨토시 게임](https://ko.wikipedia.org/wiki/분류:매킨토시_게임 "wikilink") [분류:게임브리오 엔진 게임](https://ko.wikipedia.org/wiki/분류:게임브리오_엔진_게임 "wikilink") [분류:MacOS 게임](https://ko.wikipedia.org/wiki/분류:MacOS_게임 "wikilink")
 
 1.
 2.

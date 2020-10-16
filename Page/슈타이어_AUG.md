@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [슈타이어 AUG](https://ko.wikipedia.org/wiki/슈타이어_AUG).
 
 
-**슈타이어 군용 다목적 소총**()은 [오스트리아](../Page/오스트리아.md "wikilink")의 [슈타이어](https://ko.wikipedia.org/wiki/슈타이어 "wikilink")(Steyr Mannlicher)사가 1977년에 처음 내놓은 [화기](https://ko.wikipedia.org/wiki/화기 "wikilink") 시리즈이다. 일반적으로는 [5.56mm NATO](https://ko.wikipedia.org/wiki/5.56mm_NATO "wikilink") 탄을 사용하며 눈에 띄는 녹색 몸통과 통합된 [스코프](https://ko.wikipedia.org/wiki/스코프 "wikilink")를 갖는 초기형(AUG A1) [불펍](../Page/불펍.md "wikilink")식 [돌격소총](../Page/돌격소총.md "wikilink")을 말하는 경우가 많다. 스와로브스키제 1.5배율 고정식스코프를 사용한다. AUG에는 [기관단총](../Page/기관단총.md "wikilink"), [지정 사수용 소총](https://ko.wikipedia.org/wiki/지정_사수용_소총 "wikilink")(designated marksman rifle), [경기관총](https://ko.wikipedia.org/wiki/경기관총 "wikilink") 형 등 다양한 변형들이 있다. AUG [돌격소총](../Page/돌격소총.md "wikilink")은 [오스트리아](../Page/오스트리아.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink"), [룩셈부르크](../Page/룩셈부르크.md "wikilink"), [아일랜드](../Page/아일랜드.md "wikilink")의 [제식소총](https://ko.wikipedia.org/wiki/제식소총 "wikilink")으로 채택되었다. 슈타이어 AUG는 상업적으로 가장 성공한 [불펍](../Page/불펍.md "wikilink")식 [돌격소총](../Page/돌격소총.md "wikilink")이다. [1](http://world.guns.ru/assault/as20-e.htm)
+**슈타이어 군용 다목적 소총**()은 [오스트리아](../Page/오스트리아.md "wikilink")의 [슈타이어](https://ko.wikipedia.org/wiki/슈타이어 "wikilink")(Steyr Mannlicher)사가 1977년에 처음 내놓은 [화기](https://ko.wikipedia.org/wiki/화기 "wikilink") 시리즈이다. 일반적으로는 [5.56mm NATO](https://ko.wikipedia.org/wiki/5.56mm_NATO "wikilink") 탄을 사용하며 눈에 띄는 [녹색](../Page/녹색.md "wikilink") 몸통과 통합된 [스코프](https://ko.wikipedia.org/wiki/스코프 "wikilink")를 갖는 초기형(AUG A1) [불펍](../Page/불펍.md "wikilink")식 [돌격소총](../Page/돌격소총.md "wikilink")을 말하는 경우가 많다. 스와로브스키제 1.5배율 고정식스코프를 사용한다. AUG에는 [기관단총](../Page/기관단총.md "wikilink"), [지정 사수용 소총](https://ko.wikipedia.org/wiki/지정_사수용_소총 "wikilink")(designated marksman rifle), [경기관총](https://ko.wikipedia.org/wiki/경기관총 "wikilink") 형 등 다양한 변형들이 있다. AUG [돌격소총](../Page/돌격소총.md "wikilink")은 [오스트리아](../Page/오스트리아.md "wikilink"), [오스트레일리아](../Page/오스트레일리아.md "wikilink"), [뉴질랜드](../Page/뉴질랜드.md "wikilink"), [룩셈부르크](../Page/룩셈부르크.md "wikilink"), [아일랜드](../Page/아일랜드.md "wikilink")의 [제식소총](https://ko.wikipedia.org/wiki/제식소총 "wikilink")으로 채택되었다. 슈타이어 AUG는 상업적으로 가장 성공한 [불펍](../Page/불펍.md "wikilink")식 [돌격소총](../Page/돌격소총.md "wikilink")이다. [1](http://world.guns.ru/assault/as20-e.htm)
 
 ## 사용국
 
@@ -78,7 +78,7 @@ AUG를 사용하는 병사들의 평가는 좋은 편이다. AUG는 [영국 SAS]
 ## 대중 문화
 
   - 게임 [오퍼레이션7](../Page/오퍼레이션7.md "wikilink")에서 등장한다. 개조 부속품이 꽤 적은 편인게 단점.
-  - [배틀그라운드와](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") [배틀그라운드 모바일에서](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink") [5.56mm탄을](../Page/5.56_×_45_mm_NATO.md "wikilink") 사용하는 [총](../Page/총.md "wikilink") AUG로 등장한다
+  - [배틀그라운드와](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") [배틀그라운드 모바일에서](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink") [5.56mm탄을](../Page/5.56_×_45_mm_NATO.md "wikilink") 사용하는 [돌격소총](../Page/돌격소총.md "wikilink") AUG로 등장한다
 
 그리고aug로표기되고 ,슈타이어 AUG A3이다
 

@@ -59,25 +59,63 @@ SCAR은 사우스 케롤라이나주 콜롬비아에 있는 FN Manufacturing LLC
 
 ## 대중 문화
 
-  - **다음의 컴퓨터 게임에 등장한다.**
+  - **PC 게임**
+      - 레프트 4 데드
+      - 포인트 블랭크
+      - 배틀필드2
+      - 고스트리콘2
+      - 레인보우식스 베가스
+      - 카운터-스트라이크 온라인
+      - 카운터-스트라이크 온라인 2
+      - 솔저오브포춘
+      - 레인보우식스 베가스2
+      - 메탈기어솔리드4
+      - [콜 오브 듀티: 모던 워페어 2](../Page/콜_오브_듀티:_모던_워페어_2.md "wikilink")
+      - 스프린터셀 컨빅션
+      - 아르마2
+      - 소콤4
+      - 배틀필드3
+      - 고스트리콘 온라인
+      - 메달오브아너 워파이터
+      - 콜오브듀티 블랙옵스2
+      - 레인보우식스 시즈
+      - 워페이스
+      - 크로스파이어
+      - 배틀필드4
+      - 이터널시티
+      - CRYSIS 2
+      - 블랙스쿼드
+      - A.V.A
+      - [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink")
+      - 더 디비전 등
 
-레프트 4 데드, 포인트 블랭크, 배틀필드2, 고스트리콘2, 레인보우식스 베가스, 카운터-스트라이크 온라인, 카운터-스트라이크 온라인 2, 솔저오브포춘, 레인보우식스 베가스2, 메탈기어솔리드4, 콜오브듀티 모던워페어2, 스프린터셀 컨빅션, 아르마2, 소콤4, 배틀필드3, 고스트리콘 온라인, 메달오브아너 워파이터, 콜오브듀티 블랙옵스2, 레인보우식스 시즈, 워페이스, 크로스파이어, 배틀필드4, 이터널시티, CRYSIS 2, 블랙스쿼드, A.V.A, [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink") , 더 디비전 등
+<!-- end list -->
 
-  - **다음의 영화에 등장한다.**
+  - **영화**
+      - 인셉션(Inception)
+      - 트랜스포머3(Transformers: Dark of the Moon)
+      - 익스펜더블2(The Expendables 2)
+      - 지아이조2(G.I. Joe: Retaliation)
+      - 엘리시움(Elysium)
+      - 다이하드5(A Good Day to Die Hard), 킹스맨(Kingsman) 등
 
-인셉션(Inception), 트랜스포머3(Transformers: Dark of the Moon), 익스펜더블2(The Expendables 2), 지아이조2(G.I. Joe: Retaliation), 엘리시움(Elysium), 다이하드5(A Good Day to Die Hard), 킹스맨(Kingsman) 등
+<!-- end list -->
 
-  - **다음의 TV드라마에 등장한다.**
+  - **TV 드라마**
+      - 24 시즌8 등
 
-24 시즌8 등
+<!-- end list -->
 
-  - **다음의 PC(콘솔 포함) 게임에 등장한다.**
+  - **PC(콘솔 포함) 게임**
+      - PLAYERUNKNOWN'S BATTLEGROUNDS ([배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink"))
+      - 톰 클랜시의 더 디비전 등
 
-PLAYERUNKNOWN'S BATTLEGROUNDS ([배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink")), 톰 클랜시의 더 디비전 등
+<!-- end list -->
 
-  - **다음의 모바일 게임에 등장한다.**
-
-[스페셜솔져](https://ko.wikipedia.org/wiki/스페셜솔져 "wikilink"), [팬텀스트라이크](https://ko.wikipedia.org/wiki/팬텀스트라이크 "wikilink") Bullet Force, [배틀그라운드 모바일](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink")
+  - **모바일 게임**
+      - [스페셜솔져](https://ko.wikipedia.org/wiki/스페셜솔져 "wikilink")
+      - 팬텀스트라이크 Bullet Force
+      - [배틀그라운드 모바일](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink")
 
 ## 같이 보기
 

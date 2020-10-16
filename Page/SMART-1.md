@@ -9,7 +9,7 @@
 
 발사중량은 367 kg 또는 815 파운드이다. [엔진](../Page/엔진.md "wikilink")을 제외하고는 287 kg이다.
 
-스마트 원은 이온엔진을 사용한다. 즉, [제논](https://ko.wikipedia.org/wiki/제논 "wikilink")을 추진연료로 사용하고, 여기에 태양전지를 이용한 [Hall effect 추진기를](https://ko.wikipedia.org/wiki/Hall_effect_추진기 "wikilink") 사용하여 필요한 추진력을 얻는다. [제논](https://ko.wikipedia.org/wiki/제논 "wikilink")은 발사시에 80 kg (부피로는 60 리터)을 탑재했다.
+스마트 원은 이온엔진을 사용한다. 즉, [제논](https://ko.wikipedia.org/wiki/제논 "wikilink")을 추진연료로 사용하고, 여기에 태양전지를 이용한 [홀 효과 추력기를](https://ko.wikipedia.org/wiki/홀_효과_추력기 "wikilink") 사용하여 필요한 추진력을 얻는다. [제논](https://ko.wikipedia.org/wiki/제논 "wikilink")은 발사시에 80 kg (부피로는 60 리터)을 탑재했다.
 
 [엔진](../Page/엔진.md "wikilink")은 전자장(electrostatic field)을 사용하여 [제논](https://ko.wikipedia.org/wiki/제논 "wikilink")을 [이온화](../Page/이온화.md "wikilink")시키고 [이온](../Page/이온.md "wikilink")을 고속이 되게끔 가속한다.
 
@@ -17,7 +17,7 @@
 
 SMART-1은 [2003년](../Page/2003년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") [프랑스령 기아나의](../Page/프랑스령_기아나.md "wikilink") [기아나 우주 센터에서](../Page/기아나_우주_센터.md "wikilink") [아리안 5](../Page/아리안_5.md "wikilink") 로켓에 실려 발사되었다. 하나의 로켓에 Insat 3E(Indian Space Research Organisation 3E)와 eBird 1과 함께 실려서 발사되었다.
 
-발사 후 42분이 지나서 [정지 궤도](../Page/정지_궤도.md "wikilink")(GE) 7035 × 42 223 km 지점에 진입했다.
+발사 후 42분이 지나서 [정지 궤도](../Page/정지_궤도.md "wikilink")(GE) 7035 × 42 223 km 지점에 진입했다. [저에너지 전이](https://ko.wikipedia.org/wiki/저에너지_전이 "wikilink") 궤도를 비행했다.
 
 <table>
 <caption><strong>지구 중심에서 계산한 궤도 정보 요약</strong></caption>

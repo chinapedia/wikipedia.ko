@@ -34,7 +34,7 @@
 
 ## 대한민국
 
-대한민국 [국가정보원에서는](../Page/대한민국_국가정보원.md "wikilink") 서처 II 시스템을 도입하였다. [제1연평해전](../Page/제1연평해전.md "wikilink")이 있은 후, 대한민국 군당국은 서처 II를 서해감시에 투입하려고 하였다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\] 2008년 서처의 SAR와 비슷한 성능인 [KPU-STC](../Page/KPU-STC.md "wikilink") 국산화에 성공했다. 2012년 현재 4개 군단은 [비조](../Page/비조.md "wikilink"), 2개 군단은 서처를 사용중이다.
+대한민국 [국가정보원에서는](../Page/대한민국_국가정보원.md "wikilink") 서처 I 시스템을 도입하였다. [제1연평해전](../Page/제1연평해전.md "wikilink")이 있은 후, 대한민국 군당국은 해론을 서해감시에 투입하려고 하였다.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\] 2008년 해론의 SAR와 비슷한 성능인 [KPU-STC](../Page/KPU-STC.md "wikilink") 국산화를 시도하였다. 2012년 현재 4개 군단은 [비조](../Page/비조.md "wikilink"), 2개 군단은 서처를 사용 중이다.
 
 ## 각주와 참고 자료
 
@@ -49,6 +49,7 @@
 
 ## 외부 링크
 
+  - [박장환의 무인항공기 센터](http://www.uavcenter.com/expo2/user/uavcenter/download/html/03_asia_08.html)
   - [IAI사의 서처 II 페이지](http://www.iai.co.il/Default.aspx?docID=15742&FolderID=18894&lang=en)
   - [항공우주연구정보센터](https://web.archive.org/web/20070928003105/http://www.aric.or.kr/trend/accessory/content.asp?classify=3&idx=838&search=&page=1)
   - [서처 II의 SAR 레이다 성능](https://web.archive.org/web/20061017094624/http://www.defense-update.com/products/e/elm2055.htm)
