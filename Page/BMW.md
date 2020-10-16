@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [BMW](https://ko.wikipedia.org/wiki/BMW).
 
 
-**바이에리셰 원동기공업 주식회사**(, 약칭:BMW: 베엠베, **비엠더블유**)는 [독일](../Page/독일.md "wikilink") [바이에른주](../Page/바이에른주.md "wikilink") [뮌헨](../Page/뮌헨.md "wikilink")에 본사를 두고 있는 [자동차](../Page/자동차.md "wikilink"), [모터사이클](../Page/모터사이클.md "wikilink") 및 [엔진](../Page/엔진.md "wikilink") 제조 회사이다. 부속 브랜드로는, [영국](../Page/영국.md "wikilink")의 자동차 제조사 [롤스로이스 자동차와](../Page/롤스로이스_자동차.md "wikilink") [BMW 미니를](https://ko.wikipedia.org/wiki/BMW_미니 "wikilink") 두고 있다. [영국](../Page/영국.md "wikilink")의 SUV 제조사 [랜드로버](../Page/랜드로버.md "wikilink")도 보유하였으나 [포드 모터 컴퍼니에](../Page/포드_모터_컴퍼니.md "wikilink") 매각하였고, 현재는 [재규어 랜드로버를](https://ko.wikipedia.org/wiki/재규어_랜드로버 "wikilink") 관리하는 [타타 자동차가](../Page/타타_자동차.md "wikilink") 소유하고 있다.
+**바이에른 원동기공업 주식회사**(, 약칭:BMW: 베엠베, **비엠더블유**)는 [독일](../Page/독일.md "wikilink") [바이에른주](../Page/바이에른주.md "wikilink") [뮌헨](../Page/뮌헨.md "wikilink")에 본사를 두고 있는 [자동차](../Page/자동차.md "wikilink"), [모터사이클](../Page/모터사이클.md "wikilink") 및 [엔진](../Page/엔진.md "wikilink") 제조 회사이다. 부속 브랜드로는, [영국](../Page/영국.md "wikilink")의 자동차 제조사 [롤스로이스 자동차와](../Page/롤스로이스_자동차.md "wikilink") [BMW 미니를](https://ko.wikipedia.org/wiki/BMW_미니 "wikilink") 두고 있다. [영국](../Page/영국.md "wikilink")의 SUV 제조사 [랜드로버](../Page/랜드로버.md "wikilink")도 보유하였으나 [포드 모터 컴퍼니에](../Page/포드_모터_컴퍼니.md "wikilink") 매각하였고, 현재는 [재규어 랜드로버를](https://ko.wikipedia.org/wiki/재규어_랜드로버 "wikilink") 관리하는 [타타 자동차가](../Page/타타_자동차.md "wikilink") 소유하고 있다.
 
 [독일](../Page/독일.md "wikilink") 국내에서는 [ZF와](https://ko.wikipedia.org/wiki/ZF_프리드리히스하펜_AG "wikilink") 협력하고 있으며, BMW의 [후륜구동](../Page/후륜구동.md "wikilink") 차량에는 거의 [ZF의](https://ko.wikipedia.org/wiki/ZF_프리드리히스하펜_AG "wikilink") [자동변속기](../Page/자동변속기.md "wikilink")가 달린다.
 

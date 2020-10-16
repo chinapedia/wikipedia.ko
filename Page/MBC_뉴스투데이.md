@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [MBC 뉴스투데이](https://ko.wikipedia.org/wiki/MBC_뉴스투데이).
 
 
-《**MBC 뉴스투데이**》(MBC NEWS TODAY)는 [MBC에서](../Page/문화방송.md "wikilink") 평일 아침 6시, 토요일 아침 7시에 방송하는 [문화방송의 아침뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
+《**MBC 뉴스투데이**》(MBC NEWS TODAY)는 [MBC에서](../Page/문화방송.md "wikilink") 평일 아침 6시 토요일 방송하는 [문화방송의 아침뉴스 프로그램이다](../Page/문화방송의_뉴스_프로그램.md "wikilink").
 
 ## 기획 의도 / 개요
 
@@ -348,7 +348,7 @@
 </tr>
 <tr class="even">
 <td><p>3기</p></td>
-<td><p>김수정</p></td>
+<td><p><a href="../Page/김수정.md" title="wikilink">김수정</a></p></td>
 <td><p><a href="../Page/1985년.md" title="wikilink">1985년</a> ~ <a href="../Page/1991년.md" title="wikilink">1991년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a></p></td>
 <td></td>
 </tr>
@@ -360,7 +360,7 @@
 </tr>
 <tr class="even">
 <td><p>5기</p></td>
-<td><p>오은실</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오은실" title="wikilink">오은실</a></p></td>
 <td><p><a href="../Page/1992년.md" title="wikilink">1992년</a> <a href="../Page/9월_7일.md" title="wikilink">9월 7일</a> ~ <a href="../Page/1993년.md" title="wikilink">1993년</a> <a href="../Page/4월_10일.md" title="wikilink">4월 10일</a></p></td>
 <td></td>
 </tr>
@@ -390,7 +390,7 @@
 </tr>
 <tr class="odd">
 <td><p>9기</p></td>
-<td><p>(故)김태희</p></td>
+<td><p>(故)<a href="https://ko.wikipedia.org/wiki/김태희_(아나운서)" title="wikilink">김태희</a></p></td>
 <td><p><a href="../Page/1996년.md" title="wikilink">1996년</a> <a href="../Page/10월_17일.md" title="wikilink">10월 17일</a> ~ <a href="../Page/1997년.md" title="wikilink">1997년</a> <a href="../Page/2월_28일.md" title="wikilink">2월 28일</a></p></td>
 <td></td>
 </tr>
@@ -456,7 +456,7 @@
 </tr>
 <tr class="even">
 <td><p>20기</p></td>
-<td><p>김세용</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/김세용" title="wikilink">김세용</a></p></td>
 <td><p><a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/4월_28일.md" title="wikilink">4월 28일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/10월_11일.md" title="wikilink">10월 11일</a></p></td>
 <td></td>
 </tr>
@@ -486,7 +486,7 @@
 </tr>
 <tr class="odd">
 <td><p>25기</p></td>
-<td><p>지영은</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/지영은" title="wikilink">지영은</a></p></td>
 <td><p><a href="../Page/2009년.md" title="wikilink">2009년</a> <a href="../Page/4월_27일.md" title="wikilink">4월 27일</a> ~ <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/6월_4일.md" title="wikilink">6월 4일</a></p></td>
 <td></td>
 </tr>
@@ -784,8 +784,8 @@
 </tr>
 <tr class="even">
 <td><p>31기</p></td>
-<td><p>장인수</p></td>
 <td><p>김지경</p></td>
+<td><p>장인수</p></td>
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/2월_9일.md" title="wikilink">2월 9일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/5월_23일.md" title="wikilink">5월 23일</a></p></td>
 </tr>
 <tr class="odd">
@@ -869,7 +869,7 @@
 <tr class="odd">
 <td><p><a href="../Page/부산문화방송.md" title="wikilink">부산MBC</a></p></td>
 <td><p>MBC 뉴스투데이 부산</p></td>
-<td><p>서정모, 김다영</p></td>
+<td><p>서정모 걸나운서, 김다영</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/MBC경남.md" title="wikilink">MBC경남</a></p></td>

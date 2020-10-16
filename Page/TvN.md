@@ -12,7 +12,7 @@
 ### 드라마
 
   - [월화 드라마](https://ko.wikipedia.org/wiki/tvN_월화드라마 "wikilink") - [청춘기록](https://ko.wikipedia.org/wiki/청춘기록 "wikilink")
-  - [수목 드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - [악의 꽃](../Page/악의_꽃_\(드라마\).md "wikilink")
+  - [수목 드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - [구미호던](https://ko.wikipedia.org/wiki/구미호던\(드라마\) "wikilink")
   - [목요 드라마](https://ko.wikipedia.org/wiki/tvN_수목드라마 "wikilink") - 미정
   - [금요 드라마](https://ko.wikipedia.org/wiki/tvN_금요드라마 "wikilink") - 미정
   - [토일 드라마](https://ko.wikipedia.org/wiki/tvN_토일드라마 "wikilink") - [비밀의숲2](https://ko.wikipedia.org/wiki/비밀의숲2 "wikilink")
@@ -20,7 +20,7 @@
 ### 예능
 
   - 목요일 - [식스센스](https://ko.wikipedia.org/wiki/식스센스_\(예능\) "wikilink")
-  - 토요일 - [놀라운 토요일](../Page/놀라운_토요일.md "wikilink"), [온앤오프](../Page/온앤오프.md "wikilink")
+  - 토요일 - [놀라운 토요일](../Page/놀라운_토요일.md "wikilink"), [온앤오프](https://ko.wikipedia.org/wiki/온앤오프_\(텔레비전_프로그램\) "wikilink")
   - 일요일 - [코미디빅리그](../Page/코미디빅리그.md "wikilink")
 
 ## 기타

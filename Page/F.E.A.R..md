@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [F.E.A.R.](https://ko.wikipedia.org/wiki/F.E.A.R.).
 
 
-《**F.E.A.R.**》(피어, **F**irst **E**ncounter **A**ssault **R**econ)는 [모노리스 프로덕션이](https://ko.wikipedia.org/wiki/모노리스_프로덕션 "wikilink") 개발한 [1인칭 슈팅 게임으로](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink"), [2005년](../Page/2005년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") [마이크로소프트 윈도로](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 발매되었다. 일본 공포영화의 영향을 여기저기에서 볼 수 있는 드문 타입의 스토리와 연출이 특징이다. 후에 [플레이스테이션 3와](../Page/플레이스테이션_3.md "wikilink") [Xbox 360](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 버전이 [미국](../Page/미국.md "wikilink")에서 발매되었고 [일본](../Page/일본.md "wikilink")에서는 플레이 스테이션 3으로 발매 예정이었지만 중단 되었다. 멀티플레이 전용 버전인 《[F.E.A.R Combat](https://ko.wikipedia.org/wiki/F.E.A.R_Combat "wikilink")》은 무료로 배포되고 있다.
+《**F.E.A.R.**》(피어, **F**irst **E**ncounter **A**ssault **R**econ)는 [모노리스 프로덕션이](https://ko.wikipedia.org/wiki/모노리스_프로덕션 "wikilink") 개발한 [1인칭 슈팅 게임으로](../Page/1인칭_슈팅_게임.md "wikilink"), [2005년](../Page/2005년.md "wikilink") [10월 18일](../Page/10월_18일.md "wikilink") [마이크로소프트 윈도로](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") 발매되었다. 일본 공포영화의 영향을 여기저기에서 볼 수 있는 드문 타입의 스토리와 연출이 특징이다. 후에 [플레이스테이션 3와](../Page/플레이스테이션_3.md "wikilink") [Xbox 360](https://ko.wikipedia.org/wiki/Xbox_360 "wikilink") 버전이 [미국](../Page/미국.md "wikilink")에서 발매되었고 [일본](../Page/일본.md "wikilink")에서는 플레이 스테이션 3으로 발매 예정이었지만 중단 되었다. 멀티플레이 전용 버전인 《[F.E.A.R Combat](https://ko.wikipedia.org/wiki/F.E.A.R_Combat "wikilink")》은 무료로 배포되고 있다.
 
 [대한민국](../Page/대한민국.md "wikilink")에서는 여러가지 심의 문제로 인해 한글판으로 정식 발매되지는 못했지만, 현재 팬사이트를 통하여 한글 패치가 배포되고 있으며, 《F.E.A.R.》를 바탕으로 대한민국의 온라인 게임인 《[콜드 컨플릭트](https://ko.wikipedia.org/wiki/콜드_컨플릭트 "wikilink")》가 개발될 예정이였으나 무산되었다. 2009년 2월말 《F.E.A.R. 2 : Project Origin》이 대한민국에 [인플레이 인터렉티브에](https://ko.wikipedia.org/wiki/인플레이_인터렉티브 "wikilink") 의해 정발이 확정되었으나 한글화는 되지 않았고 PC판 기반으로 유저 한글 패치가 배포되었다. 그리고 F.E.A.R.3는 한글화가 되었다.
 
@@ -9,7 +9,7 @@
 
 ## 개요
 
-본작 최대의 특징은 호러계 게임치고는 몬스터계의 적은 소수로 등장하고, 대부분 「인간 대 인간」의 총격전이 차지하고 있는 점이다. 본작이 발매된 [2005년](../Page/2005년.md "wikilink") 당시는 다수의 대작 [FPS 게임이](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink") 발매되고 있지만, 그중에서도 그래픽의 아름다움은 톱 클래스라는 평가를 받았다. 또한 적 [AI의](../Page/인공지능.md "wikilink") 완성도도 발매 당시의 FPS 게임 가운데 특히 높다고 평가되어, 게임 스파이의 Top Ten Game Award나, IGN.COM의 Best First Person Shooter 등 다수의 상을 수상하였다.
+본작 최대의 특징은 호러계 게임치고는 몬스터계의 적은 소수로 등장하고, 대부분 「인간 대 인간」의 총격전이 차지하고 있는 점이다. 본작이 발매된 [2005년](../Page/2005년.md "wikilink") 당시는 다수의 대작 [FPS 게임이](../Page/1인칭_슈팅_게임.md "wikilink") 발매되고 있지만, 그중에서도 그래픽의 아름다움은 톱 클래스라는 평가를 받았다. 또한 적 [AI의](../Page/인공지능.md "wikilink") 완성도도 발매 당시의 FPS 게임 가운데 특히 높다고 평가되어, 게임 스파이의 Top Ten Game Award나, IGN.COM의 Best First Person Shooter 등 다수의 상을 수상하였다.
 
 기본적으로 적과의 총격전에서는 1대 다수의 불리한 전투를 강요당하는 경우가 많은데, 적의 목적도 꽤 정확한 편이고, 다수가 포위하여 오거나 타이밍을 맞춰 협공하여 오는 등 다양한 공격 패턴을 보여줌으로써, 대개 게임을 플레이하면서 난이도가 꽤 높다고 느끼기 쉽다. 이러한 점을 보완하기 위해서 주인공은 '슬로 모션'을 특수능력으로 갖고 있다. 이것은 시간을 늦춤과 동시에 주인공의 반사 신경을 극한으로 끌어올림으로써, 보다 효과적으로 다수의 적을 상대할 수 있게 해준다. 이것은 이 게임의 최대의 특징이라고 할 수도 있다.
 

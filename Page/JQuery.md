@@ -1,15 +1,15 @@
 > This article is converted from Wikipedia: [JQuery](https://ko.wikipedia.org/wiki/JQuery).
 
 
-**jQuery**(제이쿼리)는 [HTML](../Page/HTML.md "wikilink")의 [클라이언트 사이드](../Page/클라이언트_사이드.md "wikilink") 조작을 단순화 하도록 설계된 [크로스 플랫폼의](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") [자바스크립트](../Page/자바스크립트.md "wikilink") [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink")다. [존 레식이](../Page/존_레식.md "wikilink") [2006년](../Page/2006년.md "wikilink") 뉴욕 시 [바캠프](../Page/바캠프.md "wikilink")(Barcamp NYC)에서 공식적으로 소개하였다. jQuery는 오늘날 가장 인기있는 [자바스크립트](../Page/자바스크립트.md "wikilink") [라이브러리](https://ko.wikipedia.org/wiki/라이브러리 "wikilink") 중 하나이다.
+**jQuery**(제이쿼리)는 [HTML](../Page/HTML.md "wikilink")의 [클라이언트 사이드](../Page/클라이언트_사이드.md "wikilink") 조작을 단순화 하도록 설계된 [크로스 플랫폼의](https://ko.wikipedia.org/wiki/크로스_플랫폼 "wikilink") [자바스크립트 라이브러리다](../Page/자바스크립트_라이브러리.md "wikilink"). [존 레식이](../Page/존_레식.md "wikilink") [2006년](../Page/2006년.md "wikilink") 뉴욕 시 [바캠프](../Page/바캠프.md "wikilink")(Barcamp NYC)에서 공식적으로 소개하였다.
 
-jQuery는 [MIT 라이선스와](https://ko.wikipedia.org/wiki/MIT_라이선스 "wikilink") [GNU 일반 공중 사용 허가서v](../Page/GNU_일반_공중_사용_허가서.md "wikilink")2의 [듀얼 라이선스를](https://ko.wikipedia.org/wiki/듀얼_라이선스 "wikilink") 가진 [자유 오픈 소프트웨어이다](https://ko.wikipedia.org/wiki/자유_오픈_소프트웨어 "wikilink"). jQuery의 문법은 코드 보기, [문서 객체 모델](../Page/문서_객체_모델.md "wikilink") 찾기, 애니메이션 만들기, 이벤트 제어, [Ajax](https://ko.wikipedia.org/wiki/Ajax "wikilink") 개발을 쉽게 할 수 있도록 디자인되었다. 또한, jQuery는 개발자가 [플러그인](../Page/플러그인.md "wikilink")을 개발할 수 있는 기능을 제공한다.
+jQuery는 [MIT 라이선스를](https://ko.wikipedia.org/wiki/MIT_라이선스 "wikilink") 가진 [자유 오픈 소프트웨어이다](https://ko.wikipedia.org/wiki/자유_오픈_소프트웨어 "wikilink").\[1\] jQuery의 문법은 코드 보기, [문서 객체 모델](../Page/문서_객체_모델.md "wikilink") 찾기, 애니메이션 만들기, 이벤트 제어, [Ajax](https://ko.wikipedia.org/wiki/Ajax "wikilink") 개발을 쉽게 할 수 있도록 디자인되었다. 또한, jQuery는 개발자가 [플러그인](../Page/플러그인.md "wikilink")을 개발할 수 있는 기능을 제공한다.
 
-[마이크로소프트](../Page/마이크로소프트.md "wikilink")와 [노키아](../Page/노키아.md "wikilink")는 자사 플랫폼에 jQuery를 포함하는 계획을 발표한 바 있다. [마이크로소프트](../Page/마이크로소프트.md "wikilink")는 [비주얼스튜디오](https://ko.wikipedia.org/wiki/비주얼스튜디오 "wikilink")의 ASP.NET AJAX 프레임워크와 ASP.NET MVC 프레임워크에 적용했고, [노키아](../Page/노키아.md "wikilink")는 자사의 [런타임](../Page/런타임.md "wikilink") [웹](https://ko.wikipedia.org/wiki/웹 "wikilink") [위젯](https://ko.wikipedia.org/wiki/위젯 "wikilink") 개발 플랫폼에 통합하였다. 또한, jQuery는 [미디어위키](../Page/미디어위키.md "wikilink")에도 1.16 버전부터 사용되고 있다.
+[마이크로소프트](../Page/마이크로소프트.md "wikilink")와 [노키아](../Page/노키아.md "wikilink")는 자사 플랫폼에 jQuery를 포함하는 계획을 발표한 바 있다.\[2\] [마이크로소프트](../Page/마이크로소프트.md "wikilink")는 [비주얼스튜디오](https://ko.wikipedia.org/wiki/비주얼스튜디오 "wikilink")\[3\]의 ASP.NET AJAX 프레임워크와 ASP.NET MVC 프레임워크에 적용했고, [노키아](../Page/노키아.md "wikilink")는 자사의 [런타임](../Page/런타임.md "wikilink") [웹](https://ko.wikipedia.org/wiki/웹 "wikilink") [위젯](https://ko.wikipedia.org/wiki/위젯 "wikilink") 개발 플랫폼에 통합하였다.\[4\]
 
 ## 기능
 
-  - [DOM](../Page/문서_객체_모델.md "wikilink") 요소 선택 기의 파생 프로젝트이다.\[1\]
+  - [DOM](../Page/문서_객체_모델.md "wikilink") 요소 선택 기의 파생 프로젝트이다.\[5\]
   - DOM 탐색 및 수정 (CSS 1-3 지원)
   - [CSS](https://ko.wikipedia.org/wiki/CSS "wikilink") 셀렉터에 기반한 DOM 조작. 노드 요소 및 노드 속성(아이디 및 클래스)을 셀렉터 생성을 위한 기준으로 사용.
   - 이벤트
@@ -23,7 +23,7 @@ jQuery는 [MIT 라이선스와](https://ko.wikipedia.org/wiki/MIT_라이선스 "
 
 ### 브라우저 지원
 
-jQuery 1.x와 2.x는 모두 최신 안정화 버전 및 그 이후 버전의 [파이어폭스](https://ko.wikipedia.org/wiki/파이어폭스 "wikilink"), [구글 크롬](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink"), [사파리](../Page/사파리_\(웹_브라우저\).md "wikilink"), 그리고 [오페라를](../Page/오페라_\(웹_브라우저\).md "wikilink") 지원한다. 1.x 버전은 [인터넷 익스플로러](../Page/인터넷_익스플로러.md "wikilink") 6 및 그 이후 버전을 지원한다. 그러나 2.x 버전에서는 인터넷 익스플로러 6-8 버전이 지원되지 않으며 인터넷 익스플로러 9 또는 그 이후 버전을 지원한다.\[2\]
+jQuery 1.x와 2.x는 모두 최신 안정화 버전 및 그 이후 버전의 [파이어폭스](https://ko.wikipedia.org/wiki/파이어폭스 "wikilink"), [구글 크롬](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink"), [사파리](../Page/사파리_\(웹_브라우저\).md "wikilink"), 그리고 [오페라를](../Page/오페라_\(웹_브라우저\).md "wikilink") 지원한다. 1.x 버전은 [인터넷 익스플로러](../Page/인터넷_익스플로러.md "wikilink") 6 및 그 이후 버전을 지원한다. 그러나 2.x 버전에서는 인터넷 익스플로러 6-8 버전이 지원되지 않으며 인터넷 익스플로러 9 또는 그 이후 버전을 지원한다.\[6\]
 
 ## 사용법
 
@@ -136,15 +136,11 @@ $.ajax({
 ## 외부 링크
 
   -
-  - [eWeek](http://www.eweek.com/article2/0,1895,2010602,00.asp)
-
-  - [Infoworld](https://web.archive.org/web/20071110102930/http://www.infoworld.com/article/06/08/31/HNjscriptsandcastle_1.html), [(again)](https://web.archive.org/web/20071216105531/http://weblog.infoworld.com/techwatch/archives/007794.html)
-
-  - [Advancing JavaScript with Libraries (Part 1) VIDEO](https://web.archive.org/web/20070831084203/http://video.yahoo.com/video/play?ei=UTF-8&gid=133414&vid=410472&b=1)
-
-  - [Advancing JavaScript with Libraries (Part 2) VIDEO](https://web.archive.org/web/20070317005236/http://video.yahoo.com/video/play?ei=UTF-8)
-
-[분류:자바스크립트 라이브러리](https://ko.wikipedia.org/wiki/분류:자바스크립트_라이브러리 "wikilink") [분류:2006년 소프트웨어](https://ko.wikipedia.org/wiki/분류:2006년_소프트웨어 "wikilink") [분류:Ajax](https://ko.wikipedia.org/wiki/분류:Ajax "wikilink") [분류:자바스크립트로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자바스크립트로_작성된_자유_소프트웨어 "wikilink") [분류:MIT 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:MIT_라이선스_소프트웨어 "wikilink") [분류:웹 프레임워크](https://ko.wikipedia.org/wiki/분류:웹_프레임워크 "wikilink")
+[분류:자바스크립트 라이브러리](https://ko.wikipedia.org/wiki/분류:자바스크립트_라이브러리 "wikilink") [분류:2006년 소프트웨어](https://ko.wikipedia.org/wiki/분류:2006년_소프트웨어 "wikilink") [분류:Ajax](https://ko.wikipedia.org/wiki/분류:Ajax "wikilink") [분류:웹 개발](https://ko.wikipedia.org/wiki/분류:웹_개발 "wikilink") [분류:자바스크립트로 작성된 자유 소프트웨어](https://ko.wikipedia.org/wiki/분류:자바스크립트로_작성된_자유_소프트웨어 "wikilink") [분류:MIT 라이선스 소프트웨어](https://ko.wikipedia.org/wiki/분류:MIT_라이선스_소프트웨어 "wikilink") [분류:웹 프레임워크](https://ko.wikipedia.org/wiki/분류:웹_프레임워크 "wikilink")
 
 1.
-2.  [Browser Support | jQuery](http://jquery.com/browser-support/)
+2.
+3.
+4.
+5.
+6.  [Browser Support | jQuery](http://jquery.com/browser-support/)

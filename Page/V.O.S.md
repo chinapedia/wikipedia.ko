@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [V.O.S](https://ko.wikipedia.org/wiki/V.O.S).
 
 
-**V.O.S**(**브이오에스**)는 [2004년](../Page/2004년.md "wikilink")에 결성된 [대한민국](../Page/대한민국.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/음악_그룹 "wikilink"). V.O.S는 "Voice Of Soul"의 약자로, "영혼의 목소리"라는 뜻이다. [2004년](../Page/2004년.md "wikilink")에 음반《*The Real*》으로 데뷔하였다. 스타제국 엔터테인먼트 소속이었다. 세 명 모두 타 회사로 계약을 옮겼었지만, 김경록, 최현준이 스타제국으로 다시 복귀하면서 세명으로써의 팀 활동 자체가 어려워졌다. 그러나 스타제국 회장의 도움으로 인해 전 스타제국 매니저가 대표인 해피페이스 엔터테인먼트로 옮겨져 2016년 1월부터 박지헌까지 합류해 3인조 체제로 활동하게 된다. 현재는 박지헌, 김경록, 최현준이 V.O.S로 활동하고 있다. 대표곡으로 〈눈을 보고 말해요〉, 〈매일매일〉, 〈부디〉, 〈Beautiful Life〉, 〈시한부〉 등이 있다.
+**V.O.S**(**브이오에스**)는 [2004년](../Page/2004년.md "wikilink")에 결성된 [대한민국](../Page/대한민국.md "wikilink")의 [남성](https://ko.wikipedia.org/wiki/남성 "wikilink") [그룹이다](https://ko.wikipedia.org/wiki/악단 "wikilink"). V.O.S는 "Voice Of Soul"의 약자로, "영혼의 목소리"라는 뜻이다. [2004년](../Page/2004년.md "wikilink")에 음반《*The Real*》으로 데뷔하였다. 스타제국 엔터테인먼트 소속이었다. 세 명 모두 타 회사로 계약을 옮겼었지만, 김경록, 최현준이 스타제국으로 다시 복귀하면서 세명으로써의 팀 활동 자체가 어려워졌다. 그러나 스타제국 회장의 도움으로 인해 전 스타제국 매니저가 대표인 해피페이스 엔터테인먼트로 옮겨져 2016년 1월부터 박지헌까지 합류해 3인조 체제로 활동하게 된다. 현재는 박지헌, 김경록, 최현준이 V.O.S로 활동하고 있다. 대표곡으로 〈눈을 보고 말해요〉, 〈매일매일〉, 〈부디〉, 〈Beautiful Life〉, 〈시한부〉 등이 있다.
 
 ## 구성원
 
@@ -44,7 +44,7 @@
 <td><ul>
 <li>'''매일매일 (총 1회)
 <ul>
-<li>11월 1일 <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li>11월 1일 <a href="../Page/엠넷.md" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -53,8 +53,8 @@
 <td><ul>
 <li>'''큰일이다 (총 2회)
 <ul>
-<li>6월 18일 <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
-<li>6월 25일 <a href="https://ko.wikipedia.org/wiki/M.net" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (2주 연속)</li>
+<li>6월 18일 <a href="../Page/엠넷.md" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위</li>
+<li>6월 25일 <a href="../Page/엠넷.md" title="wikilink">M.net</a> 《<a href="https://ko.wikipedia.org/wiki/엠카운트다운" title="wikilink">엠카운트다운</a>》 1위 (2주 연속)</li>
 </ul></li>
 </ul></td>
 </tr>
