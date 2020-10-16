@@ -103,7 +103,44 @@
 
 ## 시드 배정
 
-2021년 CONCACAF 골드컵 본선 조 추첨은 2020년 9월 28일에 [2021년 CONCACAF 골드컵 예선](../Page/2021년_CONCACAF_골드컵_예선.md "wikilink") 추첨과 함께 진행된다.
+2021년 CONCACAF 골드컵 본선 조 추첨은 2020년 9월 28일에 [미국](../Page/미국.md "wikilink") [플로리다주](../Page/플로리다주.md "wikilink") [마이애미](../Page/마이애미.md "wikilink")에서 [2021년 CONCACAF 골드컵 예선](../Page/2021년_CONCACAF_골드컵_예선.md "wikilink") 추첨과 함께 진행된다. 본선에 참가한 팀들의 시드는 2020년 8월에 공개된 CONCACAF 계수를 기준으로 하여 배정되었다. 멕시코는 A조, 미국은 B조, 코스타리카는 C조, 온두라스는 D조에 편성된다. 초청 팀 자격으로 참가하는 카타르는 [2021년 코파 아메리카에도](../Page/2021년_코파_아메리카.md "wikilink") 참가할 예정이기 때문에 맨 나중에 경기를 치르는 D조에 편성된다.
+
+<table style="width:80%;">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>포트 1</p></th>
+<th><p>포트 2</p></th>
+<th><p>포트 3</p></th>
+<th><p>포트 4</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>(1위, A1에 배정됨)<br />
+ (2위, B1에 배정됨)<br />
+ (3위, C1에 배정됨)<br />
+ (4위, D1에 배정됨)</p></td>
+<td><p>(5위)<br />
+ (6위)<br />
+ (8위)<br />
+ (10위)</p></td>
+<td><p>(11위)<br />
+ (13위)<br />
+ (15위)<br />
+ (20위)</p></td>
+<td><p>(2021년 CONCACAF 골드컵 예선 7번 경기 승자)<br />
+ (2021년 CONCACAF 골드컵 예선 8번 경기 승자)<br />
+ (2021년 CONCACAF 골드컵 예선 9번 경기 승자)<br />
+ (D조에 배정됨)</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 선수 명단
 
@@ -160,7 +197,7 @@
 <td><p>0|<strong>0</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p>예선 9번 경기 승자</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -238,7 +275,7 @@
 <td><p>0|<strong>0</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p>7번 경기 승자</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -316,7 +353,7 @@
 <td><p>0|<strong>0</strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p>예선 8번 경기 승자</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>

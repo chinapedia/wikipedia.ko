@@ -236,7 +236,7 @@
 
 ## 시드 배정
 
-2019년 CONCACAF 골드컵 본선 조 추첨은 2019년 4월 10일 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에서 실시되었다. 2019년 CONCACAF 골드컵 본선에 진출한 팀들의 시드는 2018년 9월에 공개된 CONCACAF 계수를 기준으로 배정되었다. 탑 시드로 배정된 팀은 다음과 같다.
+2019년 CONCACAF 골드컵 본선 조 추첨은 2019년 4월 10일 [미국](../Page/미국.md "wikilink") [캘리포니아주](../Page/캘리포니아주.md "wikilink") [로스앤젤레스](https://ko.wikipedia.org/wiki/로스앤젤레스 "wikilink")에서 실시되었다. 2019년 CONCACAF 골드컵 본선에 진출한 팀들의 시드는 2018년 9월에 공개된 CONCACAF 계수를 기준으로 하여 배정되었다. 탑 시드로 배정된 팀은 다음과 같다.
 
 <table>
 <thead>

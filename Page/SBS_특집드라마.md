@@ -98,7 +98,7 @@
   - 《[먼길](https://ko.wikipedia.org/wiki/먼길 "wikilink")》 : 2001년 1월 21일 (설날 특집드라마)
   - 《[이등병의 꿈](https://ko.wikipedia.org/wiki/이등병의_꿈 "wikilink")》 : 2001년 9월 25일 (국군의 날 특집드라마)
   - 《[누군가 그리울 때](https://ko.wikipedia.org/wiki/누군가_그리울_때 "wikilink")》 : 2001년 10월 2일 (추석 특집드라마)
-  - 《[엄마를 찾습니다](https://ko.wikipedia.org/wiki/엄마를_찾습니다_\(2001년_드라마\) "wikilink")》 : 2001년 10월 3일 (추석 특집드라마)
+  - 《[엄마를 찾습니다](../Page/엄마를_찾습니다_\(2001년_드라마\).md "wikilink")》 : 2001년 10월 3일 (추석 특집드라마)
   - 《[짧은 만남 긴 이별](https://ko.wikipedia.org/wiki/짧은_만남_긴_이별 "wikilink")》 : 2001년 11월 14일 (창사 특집드라마)
   - 《[여름 이야기](https://ko.wikipedia.org/wiki/여름_이야기_\(드라마\) "wikilink")》 : 2001년 11월 16일
 
