@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - [하우스](../Page/하우스식품.md "wikilink") [꼬깔콘](https://ko.wikipedia.org/wiki/꼬깔콘 "wikilink")\[1\] 광고 음악.
+  - [하우스](../Page/하우스식품.md "wikilink") [꼬깔콘](../Page/꼬깔콘.md "wikilink")\[1\] 광고 음악.
 
 ## 차트 및 인증
 

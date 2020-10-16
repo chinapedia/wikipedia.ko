@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [데이비드 W. 맥](https://ko.wikipedia.org/wiki/데이비드_W._맥).
 
 
-**데이비드 W. 맥**(, [1967년](../Page/1967년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink"), [일러스트레이터](https://ko.wikipedia.org/wiki/일러스트레이터 "wikilink")이다. 본인이 직접 글을 쓰고 그림을 그린 만화 《[가부키](../Page/가부키.md "wikilink")》, [마블 코믹스에서](../Page/마블_코믹스.md "wikilink") [조 케사다](https://ko.wikipedia.org/wiki/조_케사다 "wikilink"), [브라이언 마이클 벤디스](../Page/브라이언_마이클_벤디스.md "wikilink") 등과 함께 연재한 《[데어데블](../Page/데어데블.md "wikilink")》 등이 대표작이며, 이외에는 대체로 표지화에서 모습을 보이고 있다. 캐릭터 [에코의](https://ko.wikipedia.org/wiki/에코_\(마블_코믹스\) "wikilink") 창작자이기도 하다.
+**데이비드 W. 맥**(, [1967년](../Page/1967년.md "wikilink") [8월 18일](../Page/8월_18일.md "wikilink") \~ )은 [미국](../Page/미국.md "wikilink")의 [만화가](https://ko.wikipedia.org/wiki/만화가 "wikilink"), [일러스트레이터](https://ko.wikipedia.org/wiki/일러스트레이터 "wikilink")이다. 본인이 직접 글을 쓰고 그림을 그린 만화 《[가부키](../Page/가부키.md "wikilink")》, [마블 코믹스에서](../Page/마블_코믹스.md "wikilink") [조 케사다](../Page/조_케사다.md "wikilink"), [브라이언 마이클 벤디스](../Page/브라이언_마이클_벤디스.md "wikilink") 등과 함께 연재한 《[데어데블](../Page/데어데블.md "wikilink")》 등이 대표작이며, 이외에는 대체로 표지화에서 모습을 보이고 있다. 캐릭터 [에코의](https://ko.wikipedia.org/wiki/에코_\(마블_코믹스\) "wikilink") 창작자이기도 하다.
 
 ## 외부 링크
 

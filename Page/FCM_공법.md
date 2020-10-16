@@ -10,7 +10,7 @@
   - FCM공법은 다음과 교각 간격에 경우에 적용이 가능하다. [FSM 공법에](https://ko.wikipedia.org/wiki/FSM_공법 "wikilink") 비해 상대적으로 먼 교간장까지 커버가 가능하다.
       - 현장타설 FCM의 경우 80～250m
       - Precast Segment 방식에서는 40～150m
-      - [사장교](https://ko.wikipedia.org/wiki/사장교 "wikilink")의 경우는 400m를 넘는 거리까지도 가능
+      - [사장교](../Page/사장교.md "wikilink")의 경우는 400m를 넘는 거리까지도 가능
 
 <!-- end list -->
 

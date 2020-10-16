@@ -16,7 +16,7 @@
   - [렉서스](../Page/렉서스.md "wikilink") - [NX](https://ko.wikipedia.org/wiki/렉서스_NX "wikilink")
   - [랜드로버](../Page/랜드로버.md "wikilink") - [디스커버리 스포츠](../Page/랜드로버_디스커버리_스포츠.md "wikilink")
   - [캐딜락](../Page/캐딜락.md "wikilink") - [XT5](https://ko.wikipedia.org/wiki/캐딜락_XT5 "wikilink")
-  - [볼보](../Page/볼보자동차.md "wikilink") - [XC60](https://ko.wikipedia.org/wiki/볼보_XC60 "wikilink")
+  - [볼보](../Page/볼보자동차.md "wikilink") - [XC60](../Page/볼보_XC60.md "wikilink")
   - [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink") - [QX50](https://ko.wikipedia.org/wiki/인피니티_QX50 "wikilink")
   - [링컨](../Page/링컨_\(자동차\).md "wikilink") - [MKC](https://ko.wikipedia.org/wiki/링컨_MKC "wikilink")
   - [알파 로메오](../Page/알파_로메오.md "wikilink") - [스텔비오](https://ko.wikipedia.org/wiki/알파_로메오_스텔비오 "wikilink")

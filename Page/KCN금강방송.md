@@ -55,7 +55,7 @@
   - 6-1번 [EBS 1TV](../Page/EBS_1TV.md "wikilink")
   - 6-2번 [EBS 2TV](../Page/EBS_2TV.md "wikilink")
   - 7-1번 [NS홈쇼핑](../Page/NS홈쇼핑.md "wikilink")
-  - 8-1번 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
+  - 8-1번 [KBS 1TV](../Page/KBS_1TV.md "wikilink")
   - 9-1번 [KBS 2TV](../Page/KBS_2TV.md "wikilink")
   - 10-1번 신세계쇼핑
   - 11-1번 [전주MBC](../Page/전주문화방송.md "wikilink")
@@ -129,7 +129,7 @@
   - 75-1번 [SPO TV+](https://ko.wikipedia.org/wiki/SPO_TV+ "wikilink")
   - 76-1번 [CBS](../Page/CBS_\(대한민국의_방송사\).md "wikilink")
   - 95-1번 [KTV](https://ko.wikipedia.org/wiki/국민방송 "wikilink")
-  - 96-1번 [OUN](https://ko.wikipedia.org/wiki/방송대학TV "wikilink")
+  - 96-1번 [OUN](../Page/방송대학TV.md "wikilink")
   - 97-1번 [국회방송](../Page/국회방송.md "wikilink")
 
 ## 디지털케이블TV
@@ -137,7 +137,7 @@
 지상파
 
   - 6번 - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
-  - 8번 - [KBS1](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
+  - 8번 - [KBS1](../Page/KBS_1TV.md "wikilink")
   - 9번 - [KBS2](../Page/KBS_2TV.md "wikilink")
   - 11번 - [대구MBC](https://ko.wikipedia.org/wiki/대구MBC "wikilink")
   - 14번 - [TBC 대구방송](https://ko.wikipedia.org/wiki/TBC_대구방송 "wikilink")
@@ -324,7 +324,7 @@
 
 교육
 
-  - 566번 - [방송대학TV](https://ko.wikipedia.org/wiki/방송대학TV "wikilink")
+  - 566번 - [방송대학TV](../Page/방송대학TV.md "wikilink")
   - 567번 - [EBS 플러스 1](../Page/EBS_플러스_1.md "wikilink")
   - 569번 - [EBS 플러스 2](../Page/EBS_플러스_2.md "wikilink")
   - 570번 - [EBS English](https://ko.wikipedia.org/wiki/EBS_English "wikilink")
