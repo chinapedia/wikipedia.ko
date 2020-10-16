@@ -394,7 +394,7 @@
 <td><p><a href="../Page/올랜도.md" title="wikilink">올랜도</a></p></td>
 <td><p><a href="../Page/암웨이_센터.md" title="wikilink">암웨이 센터</a></p></td>
 <td><p><a href="../Page/무관중_경기.md" title="wikilink">무관중 경기</a></p></td>
-<td></td>
+<td><p><a href="../Page/로먼_레인스.md" title="wikilink">로먼 레인스</a> vs. <a href="../Page/디_우소스.md" title="wikilink">제이 우소</a> (WWE 유니버셜 챔피언십)</p></td>
 </tr>
 </tbody>
 </table>

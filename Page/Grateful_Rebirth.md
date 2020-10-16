@@ -45,8 +45,6 @@
 
 ## 각주
 
-<references/>
-
 [분류:도모토 츠요시의 음반](https://ko.wikipedia.org/wiki/분류:도모토_츠요시의_음반 "wikilink") [분류:2016년 음반](https://ko.wikipedia.org/wiki/분류:2016년_음반 "wikilink") [분류:일본어 음반](https://ko.wikipedia.org/wiki/분류:일본어_음반 "wikilink") [분류:2016년 오리콘 앨범 차트 1위 작품](https://ko.wikipedia.org/wiki/분류:2016년_오리콘_앨범_차트_1위_작품 "wikilink")
 
 1.

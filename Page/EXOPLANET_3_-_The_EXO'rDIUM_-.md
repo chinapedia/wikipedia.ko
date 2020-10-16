@@ -398,7 +398,7 @@
 
 ## 제작
 
-  - [EXO](../Page/EXO.md "wikilink") ([디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink"), [첸](../Page/첸_\(가수\).md "wikilink"), [찬열](../Page/찬열.md "wikilink"), [세훈](../Page/세훈.md "wikilink"), [수호](https://ko.wikipedia.org/wiki/수호_\(1991년\) "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(1992년\) "wikilink"))
+  - [EXO](../Page/EXO.md "wikilink") ([레이](../Page/레이.md "wikilink"), [디오](https://ko.wikipedia.org/wiki/디오_\(1993년\) "wikilink"), [첸](../Page/첸_\(가수\).md "wikilink"), [찬열](../Page/찬열.md "wikilink"), [세훈](../Page/세훈.md "wikilink"), [수호](https://ko.wikipedia.org/wiki/수호_\(1991년\) "wikilink"), [카이](../Page/카이_\(1994년\).md "wikilink"), [시우민](../Page/시우민.md "wikilink"), [백현](https://ko.wikipedia.org/wiki/백현_\(1992년\) "wikilink"))
   - 주최 : [SM엔터테인먼트](https://ko.wikipedia.org/wiki/SM엔터테인먼트 "wikilink")
   - 주관 : 드림메이커
   - 후원 : [YES24](../Page/YES24.md "wikilink")
