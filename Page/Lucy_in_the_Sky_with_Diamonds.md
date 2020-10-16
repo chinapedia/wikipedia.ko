@@ -17,6 +17,10 @@
 
 ## 외부 링크
 
+  -
+  -
+  -
+  -
 [분류:1967년 노래](https://ko.wikipedia.org/wiki/분류:1967년_노래 "wikilink") [분류:1974년 싱글](https://ko.wikipedia.org/wiki/분류:1974년_싱글 "wikilink") [분류:비틀즈의 노래](https://ko.wikipedia.org/wiki/분류:비틀즈의_노래 "wikilink") [분류:약을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:약을_소재로_한_노래 "wikilink") [분류:레논-매카트니가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:레논-매카트니가_작곡한_노래 "wikilink") [분류:엘튼 존의 노래](https://ko.wikipedia.org/wiki/분류:엘튼_존의_노래 "wikilink") [분류:팔로폰 싱글](https://ko.wikipedia.org/wiki/분류:팔로폰_싱글 "wikilink")
 
 1.

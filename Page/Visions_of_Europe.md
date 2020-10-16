@@ -5,8 +5,6 @@
 
 ## 수록곡
 
-
-
 ## 구성원
 
   - [티모 코티펠토](../Page/티모_코티펠토.md "wikilink") -[보컬](https://ko.wikipedia.org/wiki/보컬 "wikilink")

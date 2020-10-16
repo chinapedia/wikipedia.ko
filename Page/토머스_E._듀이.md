@@ -152,7 +152,7 @@
 </tbody>
 </table>
 
-## 외부 연결
+## 외부 링크
 
   - [Info from the Political Graveyard](http://politicalgraveyard.com/bio/dewey.html#RCM1A4KW7)
 

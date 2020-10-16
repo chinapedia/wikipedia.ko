@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Smells Like Teen Spirit](https://ko.wikipedia.org/wiki/Smells_Like_Teen_Spirit).
 
 
-〈**Smells Like Teen Spirit**〉는 미국의 록 밴드 [너바나](../Page/너바나.md "wikilink")의 노래다. [DGC 레코드를](../Page/DGC_레코드.md "wikilink") 통해 발표된 밴드의 두 번째 정규 음반 《[Nevermind](../Page/Nevermind.md "wikilink")》 (1991)의 오프닝 트랙으로, 그리고 리드 싱글로 출시되었다. [커트 코베인과](../Page/커트_코베인.md "wikilink") [크리스 노보셀릭](https://ko.wikipedia.org/wiki/크리스_노보셀릭 "wikilink"), [데이브 그롤이](../Page/데이브_그롤.md "wikilink") 쓰고 [버치 빅이](https://ko.wikipedia.org/wiki/버치_빅 "wikilink") 프로듀싱했다. 노래는 [절-후렴 형식을](https://ko.wikipedia.org/wiki/버스-코러스_형식 "wikilink") 따르며 도입부와 후렴에서 사용된 주된 네 개의 코드 리프는 시끄러움과 조용함이 번갈아 나오는, 즉 강약을 제작하는 데 쓰였다. 코베인이 인정했듯이, 노래의 사운드는 [픽시스](../Page/픽시스.md "wikilink")의 사운드를 모델로 했다.
+〈**Smells Like Teen Spirit**〉는 미국의 록 밴드 [너바나](../Page/너바나.md "wikilink")의 노래다. [DGC 레코드를](../Page/DGC_레코드.md "wikilink") 통해 발표된 밴드의 두 번째 정규 음반 《[Nevermind](../Page/Nevermind.md "wikilink")》 (1991)의 오프닝 트랙으로, 그리고 리드 싱글로 출시되었다. [커트 코베인과](../Page/커트_코베인.md "wikilink") [크리스 노보셀릭](../Page/크리스_노보셀릭.md "wikilink"), [데이브 그롤이](../Page/데이브_그롤.md "wikilink") 쓰고 [버치 빅이](https://ko.wikipedia.org/wiki/버치_빅 "wikilink") 프로듀싱했다. 노래는 [절-후렴 형식을](https://ko.wikipedia.org/wiki/버스-코러스_형식 "wikilink") 따르며 도입부와 후렴에서 사용된 주된 네 개의 코드 리프는 시끄러움과 조용함이 번갈아 나오는, 즉 강약을 제작하는 데 쓰였다. 코베인이 인정했듯이, 노래의 사운드는 [픽시스](../Page/픽시스.md "wikilink")의 사운드를 모델로 했다.
 
 1991년 말의 〈Smells Like Teen Spirit〉의 예상치 못한 성공은 1992년 초 《Nevermind》를 차트의 정상까지 끌어올리는 데 선도하였으며, 이 사건은 종종 얼터너티브가 주류로 진입한 시점으로 평가받기도 한다.\[1\] 〈Smells Like Teen Spirit〉는 너바나의 가장 큰 히트를 기록했으며 빌보드 핫 100에서는 6위까지 올랐고 1991년과 1992년까지 전 세계의 음악 산업 차트의 정상을 석권하고 있었다.
 
@@ -254,7 +254,7 @@
 ## 참여 인원
 
   - [커트 코베인](../Page/커트_코베인.md "wikilink") – 기타, 보컬
-  - [크리스 노보셀릭](https://ko.wikipedia.org/wiki/크리스_노보셀릭 "wikilink") – 베이스
+  - [크리스 노보셀릭](../Page/크리스_노보셀릭.md "wikilink") – 베이스
   - [데이브 그롤](../Page/데이브_그롤.md "wikilink") – 드럼
 
 ## 참고 문헌
