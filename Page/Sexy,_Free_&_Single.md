@@ -159,7 +159,7 @@
 <tr class="even">
 <td><p>2012년 8월 12일<br />
 <small>(7월 6일 녹화)</small></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a> <a href="../Page/열린음악회.md" title="wikilink">열린음악회</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a> <a href="../Page/열린음악회.md" title="wikilink">열린음악회</a></p></td>
 <td><p>Mr. Simple + Ment + Sexy, Free &amp; Single</p></td>
 </tr>
 <tr class="odd">
