@@ -21,6 +21,6 @@
 
 <references/>
 
-[분류:대한민국의 사건](https://ko.wikipedia.org/wiki/분류:대한민국의_사건 "wikilink") [분류:문화방송](https://ko.wikipedia.org/wiki/분류:문화방송 "wikilink") [분류:2011년 대한민국](https://ko.wikipedia.org/wiki/분류:2011년_대한민국 "wikilink") [분류:인터넷 밈](https://ko.wikipedia.org/wiki/분류:인터넷_밈 "wikilink") [분류:2011년 2월](https://ko.wikipedia.org/wiki/분류:2011년_2월 "wikilink")
+[분류:대한민국의 사건](https://ko.wikipedia.org/wiki/분류:대한민국의_사건 "wikilink") [분류:대한민국의 방송 사고](https://ko.wikipedia.org/wiki/분류:대한민국의_방송_사고 "wikilink") [분류:문화방송](https://ko.wikipedia.org/wiki/분류:문화방송 "wikilink") [분류:2011년 대한민국](https://ko.wikipedia.org/wiki/분류:2011년_대한민국 "wikilink") [분류:2011년 2월](https://ko.wikipedia.org/wiki/분류:2011년_2월 "wikilink") [분류:인터넷 밈](https://ko.wikipedia.org/wiki/분류:인터넷_밈 "wikilink")
 
 1.  [Infinite Challenge, the Sea of Okhotsk(1), \#04, 오호츠크 해(1) 20110219](https://www.youtube.com/watch?v=K3S8oz6WuSs&feature=youtu.be&t=20m53s)

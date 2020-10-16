@@ -5,6 +5,6 @@
 
 ## 외부 링크
 
-  - [발렌시아 CF 공식 홈페이지](http://www.valenciacf.es/)
+  -
 
 [분류:1944년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1944년_설립된_축구단 "wikilink") [분류:스페인의 축구단](https://ko.wikipedia.org/wiki/분류:스페인의_축구단 "wikilink") [분류:발렌시아 CF](https://ko.wikipedia.org/wiki/분류:발렌시아_CF "wikilink") [분류:발렌시아의 축구단](https://ko.wikipedia.org/wiki/분류:발렌시아의_축구단 "wikilink")

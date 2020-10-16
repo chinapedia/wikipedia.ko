@@ -28,4 +28,4 @@
 [분류:파라과이의 항공사](https://ko.wikipedia.org/wiki/분류:파라과이의_항공사 "wikilink") [분류:1962년 설립](https://ko.wikipedia.org/wiki/분류:1962년_설립 "wikilink") [분류:IATA 회원](https://ko.wikipedia.org/wiki/분류:IATA_회원 "wikilink") [분류:TAM 항공](https://ko.wikipedia.org/wiki/분류:TAM_항공 "wikilink") [분류:파라과이의 브랜드](https://ko.wikipedia.org/wiki/분류:파라과이의_브랜드 "wikilink")
 
 1.  "Directory: World airlines." *Flight International*. 30 March – 5 April 2004. [79](http://www.flightglobal.com/pdfarchive/view/2004/2004-09%20-%200322.html?search=Mercosur). "Oliva 761 casi Ayolas / Meal. Lopez esq. Mayor Infante Rivarola, Asuncion, Paraguay"
-2.  "[TAM Airlines Consolidates Fleet and Initiates New Air Network](http://www.reuters.com/article/pressRelease/idUS143061+26-May-2008+PRN20080526)." *Reuters*. Monday 26 May 2008. Retrieved on 2 February 2009.
+2.  "[TAM Airlines Consolidates Fleet and Initiates New Air Network](http://www.reuters.com/article/pressRelease/idUS143061+26-May-2008+PRN20080526) ." *Reuters*. Monday 26 May 2008. Retrieved on 2 February 2009.

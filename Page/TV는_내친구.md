@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV는 내친구](https://ko.wikipedia.org/wiki/TV는_내친구).
 
 
-**TV는 내친구**는 매주 [토요일](../Page/토요일.md "wikilink") 낮 12시 10분부터 1시 10분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되었던 TV 비평 옴부즈맨 [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
+**TV는 내친구**는 매주 [토요일](../Page/토요일.md "wikilink") 낮 12시 10분부터 1시 10분에 [KBS 1TV로](../Page/KBS_1TV.md "wikilink") 방송되었던 TV 비평 옴부즈맨 [프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 기획 의도
 
@@ -22,7 +22,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a></p></td>
 <td><p><a href="../Page/2000년.md" title="wikilink">2000년</a> <a href="../Page/5월_6일.md" title="wikilink">5월 6일</a> ~ 2003년 1월 25일<br />
 2003년 2월 8일 ~ 2003년 2월 22일<br />
 2003년 3월 8일 ~ 2003년 4월 12일<br />
