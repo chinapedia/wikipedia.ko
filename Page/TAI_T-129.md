@@ -1,7 +1,11 @@
 > This article is converted from Wikipedia: [TAI T-129](https://ko.wikipedia.org/wiki/TAI_T-129).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:T-129-1001-FAR14-3651.JPG "wikilink") **TAI T-129**는 터키의 [TAI](https://ko.wikipedia.org/wiki/TAI "wikilink")가 개발중인 공격형 헬리콥터이다. 2009년 9월 28일 초도비행에 성공했으며, 현재 양산형을 개발중이다. 1983년 초도비행한 이탈리아의 [A129 망구스타를](../Page/A129_망구스타.md "wikilink") 합작개발 형식으로 터키에서 다시 개발하는 사업이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:T-129-1001-FAR14-3651.JPG "wikilink") [T-129-1001-FAR14-3653.JPG](https://ko.wikipedia.org/wiki/File:T-129-1001-FAR14-3653.JPG "fig:T-129-1001-FAR14-3653.JPG") 대전차 미사일\]\] **TAI T-129**는 터키의 [TAI](https://ko.wikipedia.org/wiki/TAI "wikilink")가 개발중인 공격형 헬리콥터이다. 2009년 9월 28일 초도비행에 성공했으며, 현재 양산형을 개발중이다. 1983년 초도비행한 이탈리아의 [A129 망구스타를](../Page/A129_망구스타.md "wikilink") 합작개발 형식으로 터키에서 다시 개발하는 사업이다.
+
+## 역사
+
+이탈리아는 8톤 [레오나르도 헬리콥터 AW249를](https://ko.wikipedia.org/wiki/레오나르도_헬리콥터_AW249 "wikilink") 5톤 TAI T-129의 후속기종으로 공동개발하자고 제안했다.
 
 ## 개발
 
@@ -30,7 +34,7 @@ T-129 공격 헬기 51대는 아래와 같이 할당된다.
       - 독자적인 미션 컴퓨터
       - 독자적인 전자전과 대응책
       - [야간항법장비](https://ko.wikipedia.org/wiki/야간항법장비 "wikilink") Aselsan AselFLIR-300
-      - 외국산 헬멧 장착 시현 시스템( [엘빗](https://ko.wikipedia.org/wiki/엘빗 "wikilink") 또는 [탈레스](../Page/탈레스.md "wikilink") 제품)
+      - 외국산 [헬멧 마운티드 디스플레이](../Page/헬멧_마운티드_디스플레이.md "wikilink")([엘빗](https://ko.wikipedia.org/wiki/엘빗 "wikilink") 또는 [탈레스](../Page/탈레스.md "wikilink") 제품)
       - 외국산 미사일 ([헬파이어2](../Page/AGM-114_헬파이어.md "wikilink") 또는 [스파이크-ER](https://ko.wikipedia.org/wiki/스파이크_대전차미사일 "wikilink"))
 
 <!-- end list -->

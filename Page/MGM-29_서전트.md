@@ -1,17 +1,17 @@
 > This article is converted from Wikipedia: [MGM-29 서전트](https://ko.wikipedia.org/wiki/MGM-29_서전트).
 
 
-**MGM-29 서전트**는 [미국 육군의](../Page/미국_육군.md "wikilink") 단거리 지대지 미사일(SRBM)이다. 1962년 부터 실전배치되었으며, [MGM-5 코퍼럴](https://ko.wikipedia.org/wiki/MGM-5_코퍼럴 "wikilink") 핵미사일을 대체했다. 서전트는 폭발력 200 kt인 [W52 핵탄두를](https://ko.wikipedia.org/wiki/W52_핵탄두 "wikilink") 탑재했으며, 발사중량 4.5톤에 사거리는 135 km이다. 1964년 부터 1976년까지 [서독](../Page/서독.md "wikilink")에 배치되었다.
+**MGM-29 서전트**는 [미국 육군의](../Page/미국_육군.md "wikilink") 단거리 지대지 미사일(SRBM)이다. 1962년 부터 실전배치되었으며, [MGM-5 코퍼럴](../Page/MGM-5_코퍼럴.md "wikilink") 핵미사일을 대체했다. 서전트는 폭발력 200 kt인 [W52 핵탄두를](https://ko.wikipedia.org/wiki/W52_핵탄두 "wikilink") 탑재했으며, 발사중량 4.5톤에 사거리는 135 km이다. 1964년 부터 1976년까지 [서독](../Page/서독.md "wikilink")에 배치되었다.
 
 ## 코퍼럴
 
-[제2차 세계대전이](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 끝나고, 미국은 독일의 [V-2 로켓](../Page/V-2_로켓.md "wikilink") 기술을 습득했다. 그것으로 개발한 것이 [MGM-5 코퍼럴이다](https://ko.wikipedia.org/wiki/MGM-5_코퍼럴 "wikilink"). 미국 최초의 핵탄두 탑재 유도 미사일이다. 사거리 139 km이며, 1954년에 [영국](../Page/영국.md "wikilink")에 판매되었고, 1955년 미국에 실전배치되었다. 코퍼럴과 서전트는 모두 [제트추진연구소](../Page/제트추진연구소.md "wikilink")에서 개발했다.
+[제2차 세계대전이](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 끝나고, 미국은 독일의 [V-2 로켓](../Page/V-2_로켓.md "wikilink") 기술을 습득했다. 그것으로 개발한 것이 [MGM-5 코퍼럴이다](../Page/MGM-5_코퍼럴.md "wikilink"). 미국 최초의 핵탄두 탑재 유도 미사일이다. 사거리 139 km이며, 1954년에 [영국](../Page/영국.md "wikilink")에 판매되었고, 1955년 미국에 실전배치되었다. 코퍼럴과 서전트는 모두 [제트추진연구소](../Page/제트추진연구소.md "wikilink")에서 개발했다.
 
 프라이빗은 일병, 코포럴은 상병, 서전트는 병장이라는 의미이다. 랜스는 좀 복잡한데, [랜스 코퍼럴](https://ko.wikipedia.org/wiki/랜스_코퍼럴 "wikilink"), [랜스 서전트라는](https://ko.wikipedia.org/wiki/랜스_서전트 "wikilink") 계급이 영미권에서 옛날에 존재했다. [랜스 코퍼럴은](https://ko.wikipedia.org/wiki/랜스_코퍼럴 "wikilink") 코퍼럴 보다 하나 아랫계급이고, [랜스 서전트는](https://ko.wikipedia.org/wiki/랜스_서전트 "wikilink") 서전트 보다 하나 아랫계급이었다. 그러나 모두 병사들 계급을 의미한다.
 
   - [V-2 로켓](../Page/V-2_로켓.md "wikilink"), 무게 12.5톤, 1단 액체연료, 사거리 320 km
   - [프라이빗 로켓](https://ko.wikipedia.org/wiki/프라이빗_로켓 "wikilink"), 무게 240 kg, 2단 고체연료
-  - [MGM-5 코퍼럴](https://ko.wikipedia.org/wiki/MGM-5_코퍼럴 "wikilink"), 무게 5톤, 1단 액체연료, 사거리 139 km, 680 kg 60 kt [W7](https://ko.wikipedia.org/wiki/마크_7_핵폭탄 "wikilink") 핵탄두, 독일 [V-2 로켓](../Page/V-2_로켓.md "wikilink") 기술습득
+  - [MGM-5 코퍼럴](../Page/MGM-5_코퍼럴.md "wikilink"), 무게 5톤, 1단 액체연료, 사거리 139 km, 680 kg 60 kt [W7](https://ko.wikipedia.org/wiki/마크_7_핵폭탄 "wikilink") 핵탄두, 독일 [V-2 로켓](../Page/V-2_로켓.md "wikilink") 기술습득
   - MGM-29 서전트, 무게 4.6톤, 1단 고체연료, 사거리 139 km, 430 kg 200 kt [W52](https://ko.wikipedia.org/wiki/W52 "wikilink") 핵탄두
   - [MGM-52 랜스](../Page/MGM-52_랜스.md "wikilink"), 무게 1.28톤, 1단 고체연료, 사거리 120 km, 122 kg 100 kt [W70](../Page/W70.md "wikilink") 핵탄두
   - [MGM-140 ATACMS](../Page/MGM-140_ATACMS.md "wikilink"), 무게 1.67톤, 1단 고체연료, 사거리 300 km, 재래식 탄두

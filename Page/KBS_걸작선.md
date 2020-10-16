@@ -1,9 +1,9 @@
 > This article is converted from Wikipedia: [KBS 걸작선](https://ko.wikipedia.org/wiki/KBS_걸작선).
 
 
-**KBS 걸작선**은 [2005년](../Page/2005년.md "wikilink") [10월 31일부터](../Page/10월_31일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [4월 17일까지](../Page/4월_17일.md "wikilink") [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 재방송된 [텔레비전 드라마의](../Page/텔레비전_드라마.md "wikilink") 총칭이다.
+**KBS 걸작선**은 [2005년](../Page/2005년.md "wikilink") [10월 31일부터](../Page/10월_31일.md "wikilink") [2015년](../Page/2015년.md "wikilink") [4월 17일까지](../Page/4월_17일.md "wikilink") [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 재방송된 [텔레비전 드라마의](../Page/텔레비전_드라마.md "wikilink") 총칭이다.
 
-[2000년](../Page/2000년.md "wikilink") 이후로 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방영한 [월화드라마](../Page/한국방송공사_월화드라마.md "wikilink"), [수목드라마](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink"), [주말연속극](../Page/한국방송공사_주말연속극.md "wikilink") 중에서 한 작품을 무작위로 선정하여 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 재방송한다. 단, [푸른 안개](../Page/푸른_안개.md "wikilink")([이경영](../Page/이경영_\(1960년\).md "wikilink"))\[1\], [장희빈](../Page/장희빈_\(2002년_드라마\).md "wikilink")([나한일](../Page/나한일.md "wikilink"))\[2\]\[3\] 등 사회적 물의를 일으켜 KBS 출연금지 명단에 오른 배우들이 나온 그 밖의 드라마들은 선정 대상에서 제외되었다.
+[2000년](../Page/2000년.md "wikilink") 이후로 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방영한 [월화드라마](../Page/한국방송공사_월화드라마.md "wikilink"), [수목드라마](https://ko.wikipedia.org/wiki/한국방송공사_수목드라마 "wikilink"), [주말연속극](../Page/한국방송공사_주말연속극.md "wikilink") 중에서 한 작품을 무작위로 선정하여 [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 재방송한다. 단, [푸른 안개](../Page/푸른_안개.md "wikilink")([이경영](../Page/이경영_\(1960년\).md "wikilink"))\[1\], [장희빈](../Page/장희빈_\(2002년_드라마\).md "wikilink")([나한일](../Page/나한일.md "wikilink"))\[2\]\[3\] 등 사회적 물의를 일으켜 KBS 출연금지 명단에 오른 배우들이 나온 그 밖의 드라마들은 선정 대상에서 제외되었다.
 
 ## 방송 시간
 

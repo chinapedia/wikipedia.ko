@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [M\&M\'s](https://ko.wikipedia.org/wiki/M\&M\'s).
 
 
-**M\&M's**(엠앤엠즈)는 [미국](../Page/미국.md "wikilink") [마즈에서](../Page/마즈_\(기업\).md "wikilink") 생산하고 있는 초콜릿 사탕 종류의 [초콜릿](../Page/초콜릿.md "wikilink")이다. 이 초콜릿을 이용하여 쿠키에 [건포도](../Page/건포도.md "wikilink") 처럼 박아 놓은 쿠키바이트도 대한민국 내에 시판중이다.
+**M\&M's**(엠앤엠즈)는 [미국](../Page/미국.md "wikilink") [마즈에서](../Page/마즈_\(기업\).md "wikilink") 생산하고 있는 초콜릿 사탕 종류의 [초콜릿](../Page/초콜릿.md "wikilink")이다. 이 초콜릿을 이용하여 쿠키에 [건포도](../Page/건포도.md "wikilink")처럼 박아 놓은 쿠키바이트도 대한민국 내에 시판 중이다.
 
 ## 소개
 

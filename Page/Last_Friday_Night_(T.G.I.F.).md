@@ -75,7 +75,7 @@
 
 ## 각주
 
-[분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:실화를 바탕으로 한 노래](https://ko.wikipedia.org/wiki/분류:실화를_바탕으로_한_노래 "wikilink") [분류:케이티 페리의 싱글](https://ko.wikipedia.org/wiki/분류:케이티_페리의_싱글 "wikilink")
+[분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:실화를 바탕으로 한 노래](https://ko.wikipedia.org/wiki/분류:실화를_바탕으로_한_노래 "wikilink") [분류:케이티 페리의 싱글](https://ko.wikipedia.org/wiki/분류:케이티_페리의_싱글 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.
 2.

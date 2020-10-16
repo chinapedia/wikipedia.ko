@@ -11,7 +11,7 @@
 
 ## 역사
 
-[1998년](../Page/1998년.md "wikilink") [데이터 마이닝](../Page/데이터_마이닝.md "wikilink") 연구회로 시작하여 [2000년](../Page/2000년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") [사단법인](../Page/사단법인.md "wikilink") 설립허가 [정보통신부](https://ko.wikipedia.org/wiki/정보통신부 "wikilink") 산하 학술단체 출범, [통계학](../Page/통계학.md "wikilink"), [산업공학](https://ko.wikipedia.org/wiki/산업공학 "wikilink"), [컴퓨터공학](https://ko.wikipedia.org/wiki/컴퓨터공학 "wikilink"), [경영정보학](../Page/경영정보학.md "wikilink") 분야의 교수 및 연구원, IT서비스 및 컨설팅 업체, 그리고 금융, 유통, 통신, 제조, 서비스 기업의 임직원들을 회원으로 하는 산학협력의 학회로 발전되었다. 최근 들어 [생명공학](https://ko.wikipedia.org/wiki/생명공학 "wikilink"), [사회학](../Page/사회학.md "wikilink"), [미디어](https://ko.wikipedia.org/wiki/미디어 "wikilink") 분야 연구자들이 참여하여 학술, 연구 영역이 넓어지고 있다.\[5\]\[6\]
+[1998년](../Page/1998년.md "wikilink") [데이터 마이닝](../Page/데이터_마이닝.md "wikilink") 연구회로 시작하여 [2000년](../Page/2000년.md "wikilink") [4월 24일](../Page/4월_24일.md "wikilink") [사단법인](../Page/사단법인.md "wikilink") 설립허가 [정보통신부](https://ko.wikipedia.org/wiki/정보통신부 "wikilink") 산하 학술단체 출범, [통계학](../Page/통계학.md "wikilink"), [산업공학](../Page/산업공학.md "wikilink"), [컴퓨터공학](https://ko.wikipedia.org/wiki/컴퓨터공학 "wikilink"), [경영정보학](../Page/경영정보학.md "wikilink") 분야의 교수 및 연구원, IT서비스 및 컨설팅 업체, 그리고 금융, 유통, 통신, 제조, 서비스 기업의 임직원들을 회원으로 하는 산학협력의 학회로 발전되었다. 최근 들어 [생명공학](https://ko.wikipedia.org/wiki/생명공학 "wikilink"), [사회학](../Page/사회학.md "wikilink"), [미디어](https://ko.wikipedia.org/wiki/미디어 "wikilink") 분야 연구자들이 참여하여 학술, 연구 영역이 넓어지고 있다.\[5\]\[6\]
 
 ## 문제점
 

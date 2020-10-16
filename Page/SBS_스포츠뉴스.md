@@ -23,7 +23,7 @@
 
 ## 지역 민방 프로그램
 
-  - 이 프로그램은 평일에만 전국방송이고 주말은 [TBC](../Page/TBC_\(대한민국의_방송사\).md "wikilink"), [JTV 전주방송](../Page/전주방송.md "wikilink"), [ubc 울산방송](../Page/울산방송.md "wikilink"), [TJB 대전방송](../Page/대전방송.md "wikilink"), [G1 강원민방](https://ko.wikipedia.org/wiki/강원민방 "wikilink") 등에서만 방송된다. 프로그램 제작국인 [SBS를](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 비롯한 전국 9개 지역 민방 네트워크를 통해서 전국적으로 일제히 송출한다.
+  - 이 프로그램은 평일에만 전국방송이고 주말은 [TBC(대구방송)](../Page/TBC_\(대한민국의_방송사\).md "wikilink"), [JTV 전주방송](../Page/전주방송.md "wikilink"), [ubc 울산방송](../Page/울산방송.md "wikilink"), [TJB 대전방송](../Page/대전방송.md "wikilink"), [G1 강원민방](https://ko.wikipedia.org/wiki/강원민방 "wikilink") 등에서만 방송된다. 프로그램 제작국인 [SBS를](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 비롯한 전국 9개 지역 민방 네트워크를 통해서 전국적으로 일제히 송출한다.
 
 ## 같이 보기
 

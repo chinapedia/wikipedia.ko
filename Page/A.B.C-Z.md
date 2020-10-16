@@ -262,7 +262,7 @@
 ### 라디오
 
   - 패미라디 (2014년 7월 29일 \~ 10월 27일, [패밀리 마트](../Page/훼미리마트.md "wikilink") 점내 방송)
-  - A.B.C-Z Go\!Go\!5 (2016년 4월 2일 \~ , [FM NACK5](https://ko.wikipedia.org/wiki/FM_넥파이브 "wikilink"))
+  - A.B.C-Z Go\!Go\!5 (2016년 4월 2일 \~ , [FM NACK5](../Page/FM_넥파이브.md "wikilink"))
   - A.B.C-Z 오늘 밤은 J's 구락부 (2016년 4월 26일 \~ , [NHK 라디오 제1방송](../Page/NHK_라디오_제1방송.md "wikilink"))
   - 다이얼 A.B.C☆E (2016년 9월 30일 \~ , [TBS 라디오](https://ko.wikipedia.org/wiki/TBS_라디오 "wikilink"))
 
