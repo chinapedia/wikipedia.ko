@@ -51,7 +51,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/카운터-스트라이크_(시리즈)" title="wikilink">카운터-스트라이크 시리즈</a></p></td>
 <td><p>2012년 8월 21일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1인칭_슈팅_게임" title="wikilink">1인칭 슈팅 게임</a></p></td>
+<td><p><a href="../Page/1인칭_슈팅_게임.md" title="wikilink">1인칭 슈팅 게임</a></p></td>
 <td><p><a href="../Page/밸브_코퍼레이션.md" title="wikilink">밸브 코퍼레이션</a></p></td>
 <td><p><a href="../Page/밸브_코퍼레이션.md" title="wikilink">밸브 코퍼레이션</a></p></td>
 </tr>
@@ -95,7 +95,7 @@
 <td></td>
 <td><p><a href="../Page/하프라이프_(시리즈).md" title="wikilink">하프라이프 시리즈</a></p></td>
 <td><p>2004년 11월 16일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1인칭_슈팅_게임" title="wikilink">1인칭 슈팅 게임</a></p></td>
+<td><p><a href="../Page/1인칭_슈팅_게임.md" title="wikilink">1인칭 슈팅 게임</a></p></td>
 <td><p><a href="../Page/밸브_코퍼레이션.md" title="wikilink">밸브 코퍼레이션</a></p></td>
 <td><p><a href="../Page/밸브_코퍼레이션.md" title="wikilink">밸브 코퍼레이션</a> (디지털 배급사)<br />
 <a href="https://ko.wikipedia.org/wiki/시에라_엔터테이먼트" title="wikilink">시에라 엔터테이먼트</a> (리테일)</p></td>
@@ -140,7 +140,7 @@
 <td></td>
 <td><p><a href="../Page/하프라이프_(시리즈).md" title="wikilink">하프라이프 시리즈</a></p></td>
 <td><p>1998년 11월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1인칭_슈팅_게임" title="wikilink">1인칭 슈팅 게임</a></p></td>
+<td><p><a href="../Page/1인칭_슈팅_게임.md" title="wikilink">1인칭 슈팅 게임</a></p></td>
 <td><p>밸브 코퍼레이션</p></td>
 <td><p>시에라 엔터테인먼트</p></td>
 </tr>
@@ -206,7 +206,7 @@
 <td></td>
 <td><p>카운터-스트라이크 시리즈</p></td>
 <td><p>1999년 1월 19일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1인칭_슈팅_게임" title="wikilink">1인칭 슈팅 게임</a></p></td>
+<td><p><a href="../Page/1인칭_슈팅_게임.md" title="wikilink">1인칭 슈팅 게임</a></p></td>
 <td><p><a href="../Page/밸브_코퍼레이션.md" title="wikilink">밸브 코퍼레이션</a><br />
 <a href="https://ko.wikipedia.org/wiki/터틀_록_스튜디오" title="wikilink">터틀 록 스튜디오</a> (XBox)</p></td>
 <td><p><a href="../Page/밸브_코퍼레이션.md" title="wikilink">밸브 코퍼레이션</a><br />
@@ -385,7 +385,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크라이시스_(시리즈)" title="wikilink">크라이시스 시리즈</a></p></td>
 <td><p>2007년 11월 13일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1인칭_슈팅_게임" title="wikilink">1인칭 슈팅 게임</a></p></td>
+<td><p><a href="../Page/1인칭_슈팅_게임.md" title="wikilink">1인칭 슈팅 게임</a></p></td>
 <td><p><a href="../Page/크라이텍.md" title="wikilink">크라이텍</a></p></td>
 <td><p><a href="../Page/일렉트로닉_아츠.md" title="wikilink">일렉트로닉 아츠</a></p></td>
 </tr>
@@ -407,7 +407,7 @@
 <td></td>
 <td><p>카운터-스트라이크 시리즈</p></td>
 <td><p>2004년 3월 23일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1인칭_슈팅_게임" title="wikilink">1인칭 슈팅 게임</a></p></td>
+<td><p><a href="../Page/1인칭_슈팅_게임.md" title="wikilink">1인칭 슈팅 게임</a></p></td>
 <td><p><a href="../Page/밸브_코퍼레이션.md" title="wikilink">밸브 코퍼레이션</a><br />
 <a href="../Page/기어박스_소프트웨어.md" title="wikilink">기어박스 소프트웨어</a><br />
 <a href="https://ko.wikipedia.org/wiki/리투럴_엔터테인먼트" title="wikilink">리투럴 엔터테인먼트</a><br />
@@ -498,7 +498,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/배틀필드_(시리즈)" title="wikilink">배틀필드 시리즈</a></p></td>
 <td><p>2002년 9월 10일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1인칭_슈팅_게임" title="wikilink">1인칭 슈팅 게임</a></p></td>
+<td><p><a href="../Page/1인칭_슈팅_게임.md" title="wikilink">1인칭 슈팅 게임</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -520,7 +520,7 @@
 <td></td>
 <td><p>카운터-스트라이크 시리즈</p></td>
 <td><p>2004년 11월 1일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1인칭_슈팅_게임" title="wikilink">1인칭 슈팅 게임</a></p></td>
+<td><p><a href="../Page/1인칭_슈팅_게임.md" title="wikilink">1인칭 슈팅 게임</a></p></td>
 <td><p><a href="../Page/밸브_코퍼레이션.md" title="wikilink">밸브 코퍼레이션</a></p></td>
 <td><p><a href="../Page/밸브_코퍼레이션.md" title="wikilink">밸브 코퍼레이션</a></p></td>
 </tr>
@@ -776,7 +776,7 @@
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/크라이시스_(시리즈)" title="wikilink">크라이시스 시리즈</a></p></td>
 <td><p>2008년 9월 16일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/1인칭_슈팅_게임" title="wikilink">1인칭 슈팅 게임</a></p></td>
+<td><p><a href="../Page/1인칭_슈팅_게임.md" title="wikilink">1인칭 슈팅 게임</a></p></td>
 <td><p><a href="../Page/크라이텍.md" title="wikilink">크라이텍</a></p></td>
 <td><p><a href="../Page/일렉트로닉_아츠.md" title="wikilink">일렉트로닉 아츠</a></p></td>
 </tr>

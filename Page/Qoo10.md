@@ -5,7 +5,7 @@
 
 ## 개요
 
-**Qoo10**(큐텐)은 [싱가포르](../Page/싱가포르.md "wikilink")에 본사를 둔 [동남아시아](../Page/동남아시아.md "wikilink") [전자 상거래](../Page/전자_상거래.md "wikilink") [플랫폼이다](https://ko.wikipedia.org/wiki/사업_모형 "wikilink").\[4\] 싱가포르, [인도네시아](../Page/인도네시아.md "wikilink"), [말레이시아](../Page/말레이시아.md "wikilink"), [중국 대륙](https://ko.wikipedia.org/wiki/중국_대륙 "wikilink"), [홍콩](../Page/홍콩.md "wikilink")에 지역 [오픈 마켓을](https://ko.wikipedia.org/wiki/오픈_마켓 "wikilink") 운영하고 있으며 국제 온라인 마켓플레이스도 한 곳 운영한다. [중소기업](../Page/중소기업.md "wikilink") 상인들을 위한 플랫폼과 서비스에 최적화되어 있다.\[5\]
+**Qoo10**(큐텐)은 [싱가포르](../Page/싱가포르.md "wikilink")에 본사를 둔 [동남아시아](../Page/동남아시아.md "wikilink") [전자 상거래](../Page/전자_상거래.md "wikilink") [플랫폼이다](../Page/사업_모형.md "wikilink").\[4\] 싱가포르, [인도네시아](../Page/인도네시아.md "wikilink"), [말레이시아](../Page/말레이시아.md "wikilink"), [중국 대륙](https://ko.wikipedia.org/wiki/중국_대륙 "wikilink"), [홍콩](../Page/홍콩.md "wikilink")에 지역 [오픈 마켓을](https://ko.wikipedia.org/wiki/오픈_마켓 "wikilink") 운영하고 있으며 국제 온라인 마켓플레이스도 한 곳 운영한다. [중소기업](../Page/중소기업.md "wikilink") 상인들을 위한 플랫폼과 서비스에 최적화되어 있다.\[5\]
 
 ## 역사
 
