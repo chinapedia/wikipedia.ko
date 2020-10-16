@@ -29,15 +29,9 @@
   - [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink")) - 토요일
   - [뮤직뱅크](../Page/뮤직뱅크.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink")) - 금요일
   - [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink") ([Mnet](https://ko.wikipedia.org/wiki/Mnet "wikilink")) - 목요일
-  - [쇼챔피언](https://ko.wikipedia.org/wiki/쇼챔피언 "wikilink") ([MBC MUSIC](https://ko.wikipedia.org/wiki/MBC_MUSIC "wikilink")) - 수요일
-  - [더 쇼 시즌4](https://ko.wikipedia.org/wiki/THE_SHOW:_All_About_K-POP "wikilink") ([SBS MTV](../Page/SBS_MTV.md "wikilink")) - 화요일
-  - [MBC가요베스트](../Page/MBC가요베스트.md "wikilink") - [MBC NET](../Page/MBC_NET.md "wikilink")
-  - [전국노래자랑](../Page/전국노래자랑.md "wikilink") - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") (일요일)
-  - [열린음악회](../Page/열린음악회.md "wikilink") - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") (일요일)
-  - [가요무대](../Page/가요무대.md "wikilink") - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") (월요일)
-  - [전국 톱 10 가요쇼](https://ko.wikipedia.org/wiki/전국_톱_10_가요쇼 "wikilink") (ubc)
-  - [국악한마당](https://ko.wikipedia.org/wiki/국악한마당 "wikilink") - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") (토요일)
-  - [쑈\! TV유랑극단](../Page/쑈!_TV유랑극단.md "wikilink") - [KNN TV](https://ko.wikipedia.org/wiki/KNN_TV "wikilink") (일요일)
+  - [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink") ([MBC M](https://ko.wikipedia.org/wiki/MBC_M "wikilink")) - 수요일
+  - [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink") ([SBS MTV](../Page/SBS_MTV.md "wikilink"), [SBS F\!L](../Page/SBS_F!L.md "wikilink")) - 화요일
+  - [열린음악회](../Page/열린음악회.md "wikilink") - [KBS 1TV](../Page/KBS_1TV.md "wikilink") 일요일
 
 ## 외부 링크
 

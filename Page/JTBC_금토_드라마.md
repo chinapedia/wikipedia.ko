@@ -1,22 +1,24 @@
 > This article is converted from Wikipedia: [JTBC 금토 드라마](https://ko.wikipedia.org/wiki/JTBC_금토_드라마).
 
 
-**JTBC 금토 드라마**는 [대한민국](../Page/대한민국.md "wikilink")의 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink")인 [JTBC](../Page/JTBC.md "wikilink")를 통해 매주 [금요일](../Page/금요일.md "wikilink")부터 [토요일](../Page/토요일.md "wikilink") 오후 11시에 방송하는 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink"). 대부분 미니 시리즈 형식으로 현재 방영 되고 있다.
+**JTBC 금토 드라마**는 [종합편성채널](https://ko.wikipedia.org/wiki/종합편성채널 "wikilink") [JTBC](../Page/JTBC.md "wikilink")에서 매주 [금요일](../Page/금요일.md "wikilink")부터 [토요일](../Page/토요일.md "wikilink") 오후 11시에 방송 중인 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+
+대부분 미니 시리즈 드라마 형식으로 방송 중이다.
 
 ## 역사
 
-[2014년](../Page/2014년.md "wikilink") [12월 12일부터](../Page/12월_12일.md "wikilink") 금토 드라마가 시작되었으며, [2020년](../Page/2020년.md "wikilink")에 [코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink") 확산으로 편성 공백을 메우기 위해 작품을 늦어지는 경우가 있다
+[2014년](../Page/2014년.md "wikilink") [12월 12일부터](../Page/12월_12일.md "wikilink") 금토 드라마가 시작되었으며 [2020년](../Page/2020년.md "wikilink")에 [코로나19](https://ko.wikipedia.org/wiki/코로나19 "wikilink") 확산으로 편성 공백을 메우기 위해 작품을 늦어지는 경우가 있다.
 
 ## 방송 시간
 
-| 방송 채널                                                                               | 방송 기간                         | 방송 시간             | 방송 분량 |
-| ----------------------------------------------------------------------------------- | ----------------------------- | ----------------- | ----- |
-| [JTBC](../Page/JTBC.md "wikilink")                                                  | 2014년 12월 12일 \~ 2015년 5월 23일 | 밤 9시 45분 \~ 밤 11시 | 75분   |
-| 2015년 5월 29일 \~ 2015년 7월 11일                                                        | 밤 8시 40분 \~ 밤 9시 50분          | 70분               |       |
-| 2015년 7월 17일 \~ 2017년 1월 28일                                                        | 밤 8시 30분 \~ 밤 9시 40분          |                   |       |
-| 2017년 2월 24일 \~ 2019년 7월 13일                                                        | 밤 11시 \~ 밤 12시 20분            | 80분               |       |
-| [2019년](../Page/2019년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ **현재** | 밤 10시 50분 \~ 밤 12시 20분        | 90분               |       |
-|                                                                                     |                               |                   |       |
+| 방송 채널                                                                               | 방송 기간                         | 방송 시간               | 방송 분량 |
+| ----------------------------------------------------------------------------------- | ----------------------------- | ------------------- | ----- |
+| [JTBC](../Page/JTBC.md "wikilink")                                                  | 2014년 12월 12일 \~ 2015년 5월 23일 | 오후 9시 45분 \~ 오후 11시 | 75분   |
+| 2015년 5월 29일 \~ 2015년 7월 11일                                                        | 오후 8시 40분 \~ 오후 9시 50분        | 70분                 |       |
+| 2015년 7월 17일 \~ 2017년 1월 28일                                                        | 오후 8시 30분 \~ 오후 9시 40분        |                     |       |
+| 2017년 2월 24일 \~ 2019년 7월 13일                                                        | 오후 11시 \~ 오전 0시 20분           | 80분                 |       |
+| [2019년](../Page/2019년.md "wikilink") [8월 9일](../Page/8월_9일.md "wikilink") \~ **현재** | 오후 10시 50분 \~ 오전 0시 20분       | 90분                 |       |
+|                                                                                     |                               |                     |       |
 
 ## 작품 목록
 
@@ -80,7 +82,7 @@
   - 《[이태원 클라쓰](../Page/이태원_클라쓰_\(드라마\).md "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [1월 31일](../Page/1월_31일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink")
   - 《[부부의 세계](../Page/부부의_세계.md "wikilink")》 : [2020년](../Page/2020년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [5월 16일](../Page/5월_16일.md "wikilink")
   - 《[우아한 친구들](https://ko.wikipedia.org/wiki/우아한_친구들 "wikilink")》\[7\] : [2020년](../Page/2020년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink")
-  - 《[경우의 수](https://ko.wikipedia.org/wiki/경우의_수_\(드라마\) "wikilink")》\[8\] : [2020년](../Page/2020년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") \~**현재**
+  - 《[경우의 수](https://ko.wikipedia.org/wiki/경우의_수_\(드라마\) "wikilink")》\[8\] : [2020년](../Page/2020년.md "wikilink") [9월 25일](../Page/9월_25일.md "wikilink") \~ **현재**
 
 ## 각주
 
