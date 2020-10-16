@@ -62,14 +62,14 @@
 | 5   | 리베로  | [조국기](../Page/조국기.md "wikilink")                                  | 2011  | 2013([대한항공](../Page/인천_대한항공_점보스.md "wikilink")) |
 | 6   | 세터   | [이민규](../Page/이민규_\(배구_선수\).md "wikilink")                        | 2013  |                                                 |
 | 7   | 센터   | [권준형](https://ko.wikipedia.org/wiki/권준형_\(배구_선수\) "wikilink")     | 2011  | 2014([한국전력](../Page/수원_한국전력_빅스톰.md "wikilink")) |
-| 8   | 라이트  | [펠리페 알톤 반데로](https://ko.wikipedia.org/wiki/펠리페_알톤_반데로 "wikilink") | 2017  |                                                 |
+| 9   | 레프트  | [김웅비](../Page/김웅비.md "wikilink")                                  | 2019  |                                                 |
 | 11  | 센터   | [박원빈](../Page/박원빈_\(배구_선수\).md "wikilink")                        | 2014  |                                                 |
 | 12  | 라이트  | [전병선](https://ko.wikipedia.org/wiki/전병선 "wikilink")               | 2014  |                                                 |
 | 15  | 레프트  | [최홍석](../Page/최홍석.md "wikilink")                                  | 2011  | 2019([한국전력](../Page/수원_한국전력_빅스톰.md "wikilink")) |
 | 16  | 레프트  | [진상헌](https://ko.wikipedia.org/wiki/진상헌 "wikilink")               | 2007  | 2020([대한항공](../Page/인천_대한항공_점보스.md "wikilink")) |
 | 17  | 레프트  | [심경섭](../Page/심경섭.md "wikilink")                                  | 2013  |                                                 |
-| 18  | 레프트  | [진상헌](https://ko.wikipedia.org/wiki/진상헌 "wikilink")               | 2018  |                                                 |
-| 19  | 레프트  | [김웅비](../Page/김웅비.md "wikilink")                                  | 2019  |                                                 |
+| 18  | 레프트  | [펠리페 알톤 반데로](https://ko.wikipedia.org/wiki/펠리페_알톤_반데로 "wikilink") | 2017  |                                                 |
+| 19  | 세터   | [이태봉](https://ko.wikipedia.org/wiki/이태봉 "wikilink")               | 2019  |                                                 |
 | 20  | 센터   | [전진선](../Page/전진선.md "wikilink")                                  | 2018  |                                                 |
 | 21  | 리베로  | [조성찬](https://ko.wikipedia.org/wiki/조성찬 "wikilink")               | 2019  |                                                 |
 |     |      |                                                                   |       |                                                 |

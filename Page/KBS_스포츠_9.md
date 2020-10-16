@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 스포츠 9](https://ko.wikipedia.org/wiki/KBS_스포츠_9).
 
 
-《**KBS 스포츠 9**》()는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 밤 9시 45분과 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 밤 9시 30분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [한국방송공사의 스포츠뉴스 프로그램이자](../Page/한국방송공사의_뉴스_프로그램.md "wikilink") [KBS 뉴스 9의](../Page/KBS_뉴스_9.md "wikilink") 스포츠뉴스 코너다. [KBS 뉴스 9가](../Page/KBS_뉴스_9.md "wikilink") 특집으로 방송되는 경우에는 [뉴스](../Page/뉴스.md "wikilink") 편성 상황에 따라 결방되는 경우도 있다.
+《**KBS 스포츠 9**》()는 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 밤 9시 45분과 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 밤 9시 30분에 [KBS 1TV로](../Page/KBS_1TV.md "wikilink") 방송되는 [한국방송공사의 스포츠뉴스 프로그램이자](../Page/한국방송공사의_뉴스_프로그램.md "wikilink") [KBS 뉴스 9의](../Page/KBS_뉴스_9.md "wikilink") 스포츠뉴스 코너다. [KBS 뉴스 9가](../Page/KBS_뉴스_9.md "wikilink") 특집으로 방송되는 경우에는 [뉴스](../Page/뉴스.md "wikilink") 편성 상황에 따라 결방되는 경우도 있다.
 
 ## 기획 의도 / 개요
 

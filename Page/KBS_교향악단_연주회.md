@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 교향악단 연주회](https://ko.wikipedia.org/wiki/KBS_교향악단_연주회).
 
 
-**KBS 교향악단 연주회**는 매주 [금요일](../Page/금요일.md "wikilink") 오후 2시 30분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
+**KBS 교향악단 연주회**는 매주 [금요일](../Page/금요일.md "wikilink") 오후 2시 30분에 [KBS 1TV로](../Page/KBS_1TV.md "wikilink") 방송된 [음악 프로그램이다](https://ko.wikipedia.org/wiki/음악_프로그램 "wikilink").
 
 ## 기획 의도
 
@@ -11,7 +11,7 @@
 
 | 방송 채널                                                                                                                                                    | 방송 기간                                                                                                                                                        | 방송 시간                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                              | [2013년](../Page/2013년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 오후 1:30 \~ 3:00 (90분) |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink")                                                                                                                 | [2013년](../Page/2013년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 오후 1:30 \~ 3:00 (90분) |
 | [2015년](../Page/2015년.md "wikilink") [1월 2일](../Page/1월_2일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [3월 13일](../Page/3월_13일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 오후 2:30 \~ 4:00 (90분)                                                                                                    |                                                           |
 | [2015년](../Page/2015년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 3일](../Page/7월_3일.md "wikilink") | 매주 [금요일](../Page/금요일.md "wikilink") 오후 2:30 \~ 3:55 (85분)                                                                                                    |                                                           |
 

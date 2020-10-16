@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV 책](https://ko.wikipedia.org/wiki/TV_책).
 
 
-《**TV 책**》은 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11시 40분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [책](../Page/책.md "wikilink") 전문 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
+《**TV 책**》은 매주 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 밤 11시 40분에 [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 방송된 [책](../Page/책.md "wikilink") 전문 [텔레비전 프로그램이다](../Page/텔레비전_프로그램.md "wikilink").
 
 ## 기획 의도
 
@@ -11,7 +11,7 @@
 
 | 방송 채널                                                                                                                                                      | 방송 기간                                                                                                                                                        | 방송 시간                                                       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                | [2013년](../Page/2013년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 오전 10:30 \~ 11:10 (40분) |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink")                                                                                                                   | [2013년](../Page/2013년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 오전 10:30 \~ 11:10 (40분) |
 | [2014년](../Page/2014년.md "wikilink") [11월 3일](../Page/11월_3일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink")   | 매주 [월요일](../Page/월요일.md "wikilink") 밤 11:40 \~ 12:20 (40분)                                                                                                   |                                                             |
 | [2015년](../Page/2015년.md "wikilink") [8월 3일](../Page/8월_3일.md "wikilink") \~ [2016년](../Page/2016년.md "wikilink") [3월 21일](../Page/3월_21일.md "wikilink")   |                                                                                                                                                              |                                                             |
 | [2015년](../Page/2015년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [7월 20일](../Page/7월_20일.md "wikilink") | 매주 [월요일](../Page/월요일.md "wikilink") 밤 11:40 \~ 12:30 (50분)                                                                                                   |                                                             |
