@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [오래된 TV의 에피소드 목록](https://ko.wikipedia.org/wiki/오래된_TV의_에피소드_목록).
 
 
-아래는 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방영된 **《[오래된 TV](../Page/오래된_TV.md "wikilink")》**의 방영 목록이다.
+아래는 [KBS 1TV로](../Page/KBS_1TV.md "wikilink") 방영된 **《[오래된 TV](../Page/오래된_TV.md "wikilink")》**의 방영 목록이다.
 
 ## 방영 목록
 

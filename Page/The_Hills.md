@@ -7,6 +7,6 @@
 
 <references/>
 
-[분류:위켄드의 노래](https://ko.wikipedia.org/wiki/분류:위켄드의_노래 "wikilink") [분류:에미넴의 노래](https://ko.wikipedia.org/wiki/분류:에미넴의_노래 "wikilink") [분류:니키 미나즈의 노래](https://ko.wikipedia.org/wiki/분류:니키_미나즈의_노래 "wikilink") [분류:미국의 노래](https://ko.wikipedia.org/wiki/분류:미국의_노래 "wikilink") [분류:캐나다의 노래](https://ko.wikipedia.org/wiki/분류:캐나다의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:2015년 싱글](https://ko.wikipedia.org/wiki/분류:2015년_싱글 "wikilink") [분류:2015년 노래](https://ko.wikipedia.org/wiki/분류:2015년_노래 "wikilink") [분류:리듬 앤 블루스 노래](https://ko.wikipedia.org/wiki/분류:리듬_앤_블루스_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink")
+[분류:위켄드의 노래](https://ko.wikipedia.org/wiki/분류:위켄드의_노래 "wikilink") [분류:에미넴의 노래](https://ko.wikipedia.org/wiki/분류:에미넴의_노래 "wikilink") [분류:니키 미나즈의 노래](https://ko.wikipedia.org/wiki/분류:니키_미나즈의_노래 "wikilink") [분류:미국의 노래](https://ko.wikipedia.org/wiki/분류:미국의_노래 "wikilink") [분류:캐나다의 노래](https://ko.wikipedia.org/wiki/분류:캐나다의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:2015년 싱글](https://ko.wikipedia.org/wiki/분류:2015년_싱글 "wikilink") [분류:2015년 노래](https://ko.wikipedia.org/wiki/분류:2015년_노래 "wikilink") [분류:리듬 앤 블루스 노래](https://ko.wikipedia.org/wiki/분류:리듬_앤_블루스_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.
