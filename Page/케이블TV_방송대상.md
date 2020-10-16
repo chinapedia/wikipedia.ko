@@ -631,7 +631,7 @@ Born in the U.S.A (CMB 대전방송)</p></td>
 <tr class="odd">
 <td><p>text align=center|케이블TV 음악PD가<br />
 선정한 최고 가수</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/트와이스" title="wikilink">트와이스</a>, <a href="../Page/인피니트.md" title="wikilink">인피니트</a>, <a href="../Page/제시_(가수).md" title="wikilink">제시</a></p></td>
+<td><p><a href="../Page/트와이스.md" title="wikilink">트와이스</a>, <a href="../Page/인피니트.md" title="wikilink">인피니트</a>, <a href="../Page/제시_(가수).md" title="wikilink">제시</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -724,7 +724,7 @@ KCTV스페셜-가네보의 검은 실타래 (한국케이블TV <a href="../Page/
 | text align=center|인기스타상                | [김지석](../Page/김지석_\(배우\).md "wikilink") ([또\! 오해영](../Page/또!_오해영.md "wikilink"))                                                                                    |                                                                                                |
 | text align=center|신스틸러상                | [예지원](../Page/예지원.md "wikilink") ([또\! 오해영](../Page/또!_오해영.md "wikilink"))                                                                                           |                                                                                                |
 | text align=center|용감한 스타상              | [윤정수](../Page/윤정수.md "wikilink"), [김태현](../Page/김태현_\(희극인\).md "wikilink"), [레이디 제인](../Page/레이디_제인_\(가수\).md "wikilink") ([용감한 기자들](../Page/용감한_기자들.md "wikilink")) |                                                                                                |
-| text align=center|올해 가수상               | [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink")                                                                                                                |                                                                                                |
+| text align=center|올해 가수상               | [트와이스](../Page/트와이스.md "wikilink")                                                                                                                                   |                                                                                                |
 | text align=center|한류스타상                | [비투비](../Page/비투비.md "wikilink")                                                                                                                                     |                                                                                                |
 | text align=center|퍼포먼스상                | [세븐틴](../Page/세븐틴_\(음악_그룹\).md "wikilink")                                                                                                                           |                                                                                                |
 | text align=center|OST상                 | [에일리](../Page/에일리.md "wikilink") ([도깨비](../Page/도깨비_\(드라마\).md "wikilink"))                                                                                          |                                                                                                |
