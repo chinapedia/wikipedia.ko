@@ -1,8 +1,7 @@
 > This article is converted from Wikipedia: [SBS 외주작가 투신 자살 사건](https://ko.wikipedia.org/wiki/SBS_외주작가_투신_자살_사건).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Hyperion_Towers_Night.JPG "wikilink")
-(사건 현장은 본사 건물 22층과 본사 옥상이다.)\]\] **SBS 외주작가 투신 자살 사건**은 [2008년](../Page/2008년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") 발생한 [대한민국](../Page/대한민국.md "wikilink")의 투신 자살 사건이자, 의문사 사건으로, 당일 [8월 28일](../Page/8월_28일.md "wikilink") 새벽 2시 40분 [서울](../Page/서울특별시.md "wikilink") [양천구](../Page/양천구.md "wikilink") 목동서로 161에 있는 [SBS 방송 센터 사옥에서](../Page/SBS_방송_센터.md "wikilink") 야근 중이던 외주 작가 김모(당시 22세)가 동 건물 옥상에 올라가 투신 자살한 사건이다.
+**SBS 외주작가 투신 자살 사건**은 [2008년](../Page/2008년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") 발생한 [대한민국](../Page/대한민국.md "wikilink")의 투신 자살 사건이자, 의문사 사건으로, 당일 [8월 28일](../Page/8월_28일.md "wikilink") 새벽 2시 40분 [서울](../Page/서울특별시.md "wikilink") [양천구](../Page/양천구.md "wikilink") 목동서로 161에 있는 [SBS 방송 센터 사옥에서](../Page/SBS_방송_센터.md "wikilink") 야근 중이던 외주 작가 김모(당시 22세)가 동 건물 옥상에 올라가 투신 자살한 사건이다.
 
 당시 그는 [긴급출동 SOS 24](../Page/긴급출동_SOS_24.md "wikilink") 프로그램에 보조 작가로 참여하고 있었다.\[1\] 그러나 그의 동료 및 지인들은 그의 사망 원인을 몰랐거나, 알더라도 진술하지 않아 [경찰](../Page/경찰.md "wikilink")은 업무 [스트레스](../Page/스트레스.md "wikilink")에 의한 [자살](../Page/자살.md "wikilink")로 추정하였고, 정확한 투신 동기나 원인은 밝혀지지 않았다. [서울](https://ko.wikipedia.org/wiki/서울 "wikilink") [양천경찰서](https://ko.wikipedia.org/wiki/양천경찰서 "wikilink") 측은 ‘자살’로 김씨의 사망 이유를 전했으며 자살 원인에 대해서는 ‘과도한 업무로 인한 [스트레스](../Page/스트레스.md "wikilink")’로 잠정 추정하였다.\[2\] 당시 [한국방송작가협회](../Page/한국방송작가협회.md "wikilink")에서는 사고 소식을 접하고도 별다른 대응이 없어서 시청자와 네티즌들의 항의를 받기도 했다. 김모 작가가 왜 투신 자살했는지 정확한 원인은 밝혀지지 않고 있다.
 

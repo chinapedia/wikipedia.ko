@@ -45,6 +45,7 @@
   - 2020년 6월 9일 청하 - **\[Digital Single\] Be Yourself**\[16\]
   - 2020년 7월 6일 청하 - **\[Digital Single\] PLAY**\[17\]
   - 2020년 9월 15일 청하 - **청춘기록 OST Part.2**
+  - 2020년 9월 23일 청하 - **\[Digital Single\] Bad Boy**\[18\]
 
 ## 각주
 
@@ -67,3 +68,4 @@
 15. 정규 1집의 첫번째 선공개곡.
 16. 스프라이트 협업.
 17. 정규 1집의 두번째 선공개곡.
+18. [Christopher](https://ko.wikipedia.org/wiki/Christopher "wikilink")도 앨범 참여.
