@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [10기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/10기_KBS_바둑왕전).
 
 
-**10기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [조훈현](../Page/조훈현.md "wikilink") 九단이 [서능욱](../Page/서능욱.md "wikilink") 九단을 2대 0로 꺾고 완봉승하며 통산 7회 우승을 차지했다.
+**10기 KBS 바둑왕전**은 [한국방송공사](../Page/한국방송공사.md "wikilink")의 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [조훈현](../Page/조훈현.md "wikilink") 九단이 [서능욱](../Page/서능욱.md "wikilink") 九단을 2대 0로 꺾고 완봉승하며 통산 7회 우승을 차지했다.
 
 ## 출전 기사 명단
 
@@ -202,5 +202,10 @@
   - [조훈현](../Page/조훈현.md "wikilink") 九단 2:0 완봉승으로 우승
   - [조훈현](../Page/조훈현.md "wikilink") 九단 통산 7회 우승
   - [서능욱](../Page/서능욱.md "wikilink") 九단 2년 연속 무위로 2년 연속 아쉬운 준우승
+  - 우승자 [조훈현](../Page/조훈현.md "wikilink") 九단, 준우승자 [서능욱](../Page/서능욱.md "wikilink") 九단 [일본](../Page/일본.md "wikilink") [도쿄](../Page/도쿄.md "wikilink") [NHK](../Page/일본방송협회.md "wikilink") 방송국에서 열리는 [4회 TV 바둑 아시아 선수권대회에](../Page/4회_TV_바둑_아시아_선수권대회.md "wikilink") 출전권 획득
+
+## TV 중계
+
+  - [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 매주 토요일 밤에 방송되어 녹화방송되어 해설은 [노영하](../Page/노영하.md "wikilink") 七단, 초청해설 [정수현](../Page/정수현.md "wikilink") 七단이 해설했다.
 
 [10](https://ko.wikipedia.org/wiki/분류:KBS_바둑왕전 "wikilink") [분류:1990년 바둑](https://ko.wikipedia.org/wiki/분류:1990년_바둑 "wikilink")

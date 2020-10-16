@@ -16,7 +16,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ko.wikipedia.org/wiki/JIBS" title="wikilink">JIBS</a></p></td>
-<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/5월_31일.md" title="wikilink">5월 31일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a></p></td>
+<td><p><a href="../Page/2002년.md" title="wikilink">2002년</a> <a href="../Page/6월_3일.md" title="wikilink">6월 3일</a> ~ <a href="../Page/2003년.md" title="wikilink">2003년</a> <a href="../Page/10월_31일.md" title="wikilink">10월 31일</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 11시 20분 ~ 11시 30분 (10분)</p></td>
 </tr>
 <tr class="even">
@@ -114,10 +114,10 @@
 
 ## 타이틀 변천사
 
-| 기수 | 타이틀       | 방송 기간                                                                                                                                                      |
-| -- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1기 | JIBS 생활뉴스 | [2002년](../Page/2002년.md "wikilink") [5월 31일](../Page/5월_31일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") |
-| 2기 | JIBS 낮 뉴스 | [2006년](../Page/2006년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") \~ **현재**                                                                      |
+| 기수 | 타이틀       | 방송 기간                                                                                                                                                    |
+| -- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1기 | JIBS 생활뉴스 | [2002년](../Page/2002년.md "wikilink") [6월 3일](../Page/6월_3일.md "wikilink") \~ [2006년](../Page/2006년.md "wikilink") [3월 24일](../Page/3월_24일.md "wikilink") |
+| 2기 | JIBS 낮 뉴스 | [2006년](../Page/2006년.md "wikilink") [3월 27일](../Page/3월_27일.md "wikilink") \~ **현재**                                                                    |
 
 ## 관련 항목
 

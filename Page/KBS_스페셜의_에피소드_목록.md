@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 스페셜의 에피소드 목록](https://ko.wikipedia.org/wiki/KBS_스페셜의_에피소드_목록).
 
 
-아래는 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 다큐멘터리 프로그램 《**[KBS 스페셜](../Page/KBS_스페셜.md "wikilink")**》의 **에피소드 목록**이다.
+아래는 [KBS 1TV의](../Page/KBS_1TV.md "wikilink") 다큐멘터리 프로그램 《**[KBS 스페셜](../Page/KBS_스페셜.md "wikilink")**》의 **에피소드 목록**이다.
 
 ## 방영 목록
 
@@ -2190,7 +2190,7 @@
 <td><p>81회</p></td>
 <td><p><a href="../Page/3월_2일.md" title="wikilink">3월 2일</a></p></td>
 <td><p>유네스코 세계유산 - 자연의 타임캡슐(3)<br />
-화산섬의 비밀 - <a href="https://ko.wikipedia.org/wiki/백록담" title="wikilink">백록담</a>과 용암동굴</p></td>
+화산섬의 비밀 - <a href="../Page/백록담.md" title="wikilink">백록담</a>과 용암동굴</p></td>
 </tr>
 <tr class="even">
 <td><p>82회</p></td>

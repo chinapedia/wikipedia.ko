@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [1기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/1기_KBS_바둑왕전).
 
 
-**1기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [조훈현](../Page/조훈현.md "wikilink") 八단이 [노영하](../Page/노영하.md "wikilink") 七단을 2대 0로 꺾고 신설기전의 TV속기전의 첫 타이틀의 우승을 차지했다.
+**1기 KBS 바둑왕전**은 [한국방송공사](../Page/한국방송공사.md "wikilink")의 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [조훈현](../Page/조훈현.md "wikilink") 八단이 [노영하](../Page/노영하.md "wikilink") 七단을 2대 0로 꺾고 신설기전의 TV속기전의 첫 타이틀의 우승을 차지했다.
 
 ## 출전 기사 명단
 

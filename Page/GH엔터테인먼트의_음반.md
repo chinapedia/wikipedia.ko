@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [GH엔터테인먼트의 음반](https://ko.wikipedia.org/wiki/GH엔터테인먼트의_음반).
 
 
-이 문서는 [GH엔터테인먼트](https://ko.wikipedia.org/wiki/GH엔터테인먼트 "wikilink")에서 발매한 음반 목록이다.
+이 문서는 [GH엔터테인먼트](../Page/GH엔터테인먼트.md "wikilink")에서 발매한 음반 목록이다.
 
 ## 2010년대
 

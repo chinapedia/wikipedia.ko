@@ -1094,7 +1094,7 @@
 </tr>
 <tr class="even">
 <td><p>612</p></td>
-<td><p>9월 27일</p></td>
+<td><p>10월 11일</p></td>
 <td></td>
 <td></td>
 </tr>

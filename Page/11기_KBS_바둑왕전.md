@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [11기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/11기_KBS_바둑왕전).
 
 
-**11기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [이창호](../Page/이창호.md "wikilink") 五단이 [조훈현](../Page/조훈현.md "wikilink") 九단을 2대 1로 꺾고 역전 우승하며 2번째 우승을 차지했다.
+**11기 KBS 바둑왕전**은 [한국방송공사](../Page/한국방송공사.md "wikilink")의 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 8기 우승자 [이창호](../Page/이창호.md "wikilink") 五단이 전기 11기 우승자 [조훈현](../Page/조훈현.md "wikilink") 九단을 2대 1로 꺾고 역전 우승하며 2번째 우승을 차지했다.
 
 ## 출전 기사 명단
 
@@ -63,6 +63,14 @@
 | 결승 2국                               | 9월 24일                              | 이창호 五단                              | 조훈현 九단                                                 | **301수 흑 6집반승** |              |    |
 | 결승 3국                               | 285수 백 11집반승                        |                                     |                                                        |                 |              |    |
 
+  - 3위 : 서봉수 九단
+
 ## 특이 사항
+
+우승자 [이창호](../Page/이창호.md "wikilink") 五단, 준우승자 [조훈현](../Page/조훈현.md "wikilink") 九단, 3위를 차지한 [서봉수](../Page/서봉수.md "wikilink") 九단이 이중에서 조훈현 九단(준우승자) 대신 서봉수 九단(3위)이 대타 출전으로 [대한민국](../Page/대한민국.md "wikilink") 경상북도 경주시 [호텔현대 경주에서](https://ko.wikipedia.org/wiki/현대호텔 "wikilink") 열리는 [9회 TV 바둑 아시아 선수권대회에](../Page/9회_TV_바둑_아시아_선수권대회.md "wikilink") 출전권 획득
+
+## TV 중계
+
+  - [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 매주 토요일 밤에 방송되어 녹화방송되어 해설은 [노영하](../Page/노영하.md "wikilink") 七단, 초청해설 [정수현](../Page/정수현.md "wikilink") 七단, 장수영 九단이 해설했다.
 
 [11](https://ko.wikipedia.org/wiki/분류:KBS_바둑왕전 "wikilink") [분류:1991년 바둑](https://ko.wikipedia.org/wiki/분류:1991년_바둑 "wikilink")

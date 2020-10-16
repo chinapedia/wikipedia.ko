@@ -68,6 +68,7 @@
   - 2020년 8월 19일 이디오테잎 - **\[Digital Single\] Future That Never Comes**
   - 2020년 9월 3일 카더가든 - **\[Digital Single\] 밤새 (취향저격 그녀 X 카더가든)**
   - 2020년 9월 8일 이디오테잎 - **\[Digital Single\] Sorry to Greta**
+  - 2020년 9월 24일 혁오,이디오테잎 - **\[Digital Single\] Help (이디오테잎 Remix)**
 
 ## 각주
 

@@ -9,7 +9,7 @@
 
 [2018년](../Page/2018년.md "wikilink") [8월 10일부터](../Page/8월_10일.md "wikilink") [9월 9일까지](../Page/9월_9일.md "wikilink") 1기생 오디션 모집해\[3\], [11월 11일](../Page/11월_11일.md "wikilink"), 최종 심사에 행해젔고, [11월 17일에](../Page/11월_17일.md "wikilink") 호치민 시의 뉴월드 사이공 호텔에서 기자회견을 개최해, 1기생 29명이 피로연하였다\[4\]\[5\]\[6\].
 
-총캡틴:**버판낌카인**
+총캡틴:**버판낌칸**
 
 ## 멤버
 
@@ -17,7 +17,6 @@
 
   - 레 팜 튀 띠엔 (Lê Phạm Thuỷ Tiên) / Tiên Linh 띠엔 린
   - 레 응우옌 니으 타오 (Lê Nguyễn Như Thảo) / Như Thảo 니으 타오
-  - 응우옌 티 튀 응아 (Nguyễn Thị Thúy Nga) / Celia 셀리아
   - 당 티 후잉 니으 (Đặng Thị Huỳnh Như) / Minxy 민시
   - 쩌우 응업 도안 타오 (Châu Ngọc Đoan Thảo) / Hikari 히카리
   - 응우옌 티 레 (Nguyễn Thị Lệ) / Lệ Trang 레 짱
@@ -26,14 +25,13 @@
   - 쩐 리 민 트 (Trần Lý Minh Thư) / Ashley 애슬리
   - 쩐 깟 뜨응 (Trần Cát Tường) / Anna 안나
   - 응우옌 티 민 트 (Nguyễn Thị Minh Thư) / Tammy 땀미
-  - 응우옌 레 튀 응업 (Nguyễn Lê Thuỳ Ngọc) / Elena 엘레나
   - 레 응우옌 품 니 (Lê Nguyễn Phụng Nhi) / Phụng Nhi 품 니
   - 팜 럼 안 쭙 (Phạm Lâm Ánh Trúc) / Trúc Phạm 쭙 팜
   - 레 티 투 응아 (Lệ Thị Thu Nga) / Thu Nga 투 응아
   - 레 써니 (Lê Sunny) / Sunny 써니
   - 레 만 응이 (Lê Mẫn Nghi) / Mẫn Nghi 만 응이
   - 응우옌 레 응업 안 상 (Nguyễn Lê Ngọc Ánh Sáng) / Ánh Sáng 안상 - 최연소
-  - **버판낌카인** (Võ Phan Kim Khánh) / Kaycee 케이시''' - SGO48 캡틴
+  - **버판낌칸** (Võ Phan Kim Khánh) / Kaycee 케이시''' - SGO48 캡틴
   - 응우옌 쯔엉 뜨응 비 (Nguyễn Trương Tường Vy) / Janie
   - 브엉 마이 링 (Vương Mai Linh) / Linh Mai 링 마이- 최연장자
   - 응우옌 호 쭘 즈엉 (Nguyễn Hồ Trùng Dương) / Trùng Dương 쭘 이으엉

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [8기 KBS 바둑왕전](https://ko.wikipedia.org/wiki/8기_KBS_바둑왕전).
 
 
-**8기 KBS 바둑왕전**은 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [이창호](../Page/이창호.md "wikilink") 三단이 [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 七단을 2대 0로 꺾고 최연소 타이틀로 첫 타이틀의 우승을 차지했다.
+**8기 KBS 바둑왕전**은 [한국방송공사](../Page/한국방송공사.md "wikilink")의 TV 속기전이 참가한 국내 바둑 기전이다. 결승에서는 [이창호](../Page/이창호.md "wikilink") 三단이 [김수장](../Page/김수장_\(바둑_기사\).md "wikilink") 七단을 2대 0로 꺾고 최연소 타이틀로 첫 타이틀의 우승을 차지했다.
 
 ## 출전 기사 명단
 
