@@ -21,7 +21,7 @@
 <!-- end list -->
 
   -
-[분류:2012년 노래](https://ko.wikipedia.org/wiki/분류:2012년_노래 "wikilink") [분류:2012년 싱글](https://ko.wikipedia.org/wiki/분류:2012년_싱글 "wikilink") [분류:빅뱅의 노래](https://ko.wikipedia.org/wiki/분류:빅뱅의_노래 "wikilink") [분류:YG 엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_싱글 "wikilink") [분류:지드래곤이 작사한 노래](https://ko.wikipedia.org/wiki/분류:지드래곤이_작사한_노래 "wikilink") [분류:지드래곤이 작곡한 노래](https://ko.wikipedia.org/wiki/분류:지드래곤이_작곡한_노래 "wikilink") [분류:테디가 작사한 노래](https://ko.wikipedia.org/wiki/분류:테디가_작사한_노래 "wikilink") [분류:테디가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:테디가_작곡한_노래 "wikilink") [분류:가온 디지털 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_디지털_차트_1위_노래 "wikilink")
+[분류:2012년 노래](https://ko.wikipedia.org/wiki/분류:2012년_노래 "wikilink") [분류:2012년 싱글](https://ko.wikipedia.org/wiki/분류:2012년_싱글 "wikilink") [분류:빅뱅의 노래](https://ko.wikipedia.org/wiki/분류:빅뱅의_노래 "wikilink") [분류:YG 엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:YG_엔터테인먼트_싱글 "wikilink") [분류:지드래곤이 작사한 노래](https://ko.wikipedia.org/wiki/분류:지드래곤이_작사한_노래 "wikilink") [분류:지드래곤이 작곡한 노래](https://ko.wikipedia.org/wiki/분류:지드래곤이_작곡한_노래 "wikilink") [분류:테디가 작사한 노래](https://ko.wikipedia.org/wiki/분류:테디가_작사한_노래 "wikilink") [분류:테디가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:테디가_작곡한_노래 "wikilink") [분류:가온 디지털 차트 1위 노래](https://ko.wikipedia.org/wiki/분류:가온_디지털_차트_1위_노래 "wikilink") [분류:코리아 K-Pop 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:코리아_K-Pop_핫_100_1위_싱글 "wikilink")
 
 1.
 2.

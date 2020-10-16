@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Ubc 모닝와이드](https://ko.wikipedia.org/wiki/Ubc_모닝와이드).
 
 
-《**ubc 모닝와이드**》()는 [대한민국](../Page/대한민국.md "wikilink") [ubc에서](../Page/울산방송.md "wikilink") 평일 아침 7시 5분에 방송되는 [ubc의 아침뉴스 프로그램이다](../Page/울산방송의_뉴스_프로그램.md "wikilink").
+《**ubc 모닝와이드**》()는 [대한민국](../Page/대한민국.md "wikilink") [ubc에서](../Page/울산방송.md "wikilink") 평일 아침 7시 5분에 방송되는 [ubc의 아침종합뉴스 프로그램이다](../Page/울산방송의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -13,8 +13,8 @@
 
 ## 앵커
 
-  - 김규태 기자 (남)
-  - 이산하 아나운서 (여)
+  - [김규태](https://ko.wikipedia.org/wiki/김규태 "wikilink") 기자 (남)
+  - [이산하](https://ko.wikipedia.org/wiki/이산하 "wikilink") 아나운서 (여)
 
 ## 타이틀 변천사
 

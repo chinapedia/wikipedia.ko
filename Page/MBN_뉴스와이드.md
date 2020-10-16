@@ -57,11 +57,12 @@
 
 ## 경쟁 뉴스 프로그램
 
-  - [사사건건](../Page/사사건건_\(텔레비전_프로그램\).md "wikilink"), [KBS 뉴스 5](../Page/KBS_뉴스_5.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [사사건건](../Page/사사건건_\(텔레비전_프로그램\).md "wikilink"), [KBS 뉴스 5](../Page/KBS_뉴스_5.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
   - [5 MBC 뉴스](../Page/5_MBC_뉴스.md "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"))
   - [SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink") ([SBS](../Page/SBS.md "wikilink"))
   - [OBS 뉴스 오늘](../Page/OBS_뉴스_오늘.md "wikilink") ([OBS](https://ko.wikipedia.org/wiki/OBS "wikilink"))
   - [사건반장](../Page/사건반장.md "wikilink"), [JTBC 정치부회의](https://ko.wikipedia.org/wiki/JTBC_정치부회의 "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
+  - [시사쇼 이것이 정치다](../Page/시사쇼_이것이_정치다.md "wikilink") ([TV조선](../Page/TV조선.md "wikilink")) ·
 
 ## 그 외 매일방송의 관련 뉴스 프로그램
 

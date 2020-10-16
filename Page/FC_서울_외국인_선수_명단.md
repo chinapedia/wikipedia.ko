@@ -35,7 +35,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/K리그_1990.md" title="wikilink">1990</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉼_이슈트반" title="wikilink">이스트반</a><br />
+<td><p><a href="../Page/뉼_이슈트반.md" title="wikilink">이스트반</a><br />
 (1990-04-01)</p></td>
 <td></td>
 <td></td>
@@ -933,7 +933,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://ko.wikipedia.org/wiki/뉼_이슈트반" title="wikilink">이스트반</a> / <a href="https://ko.wikipedia.org/wiki/:en:István_Nyúl" title="wikilink">István Nyúl</a><br />
+<th><p><a href="../Page/뉼_이슈트반.md" title="wikilink">이스트반</a> / <a href="https://ko.wikipedia.org/wiki/:en:István_Nyúl" title="wikilink">István Nyúl</a><br />
 (1990)</p></th>
 <th><p><a href="https://ko.wikipedia.org/wiki/젠터이_러요시" title="wikilink">젠토이</a> / <a href="https://ko.wikipedia.org/wiki/:en:Lajos_Zentai" title="wikilink">Lajos Zentai</a><br />
 (1991)</p></th>
@@ -1542,7 +1542,7 @@
 경력 \! 포지션 \! 시즌 \! 출장 \! 득점 \! 도움 \! 실점 / 실점률
 무실점 / 무실점률 \! 개인상 \! 비고 |- | 1 | align=left| [피아퐁](../Page/삐야퐁_피우온.md "wikilink") |  | [AFC](../Page/아시아_축구_연맹.md "wikilink") | align=left| [태국 성인](../Page/태국_축구_국가대표팀.md "wikilink") | [FW](../Page/공격수.md "wikilink") | 1984–1986 | 43 | 18 | 6 | | align=left|[K리그 득점상 (1985)](../Page/K리그_득점상.md "wikilink")
 [K리그 도움상 (1985)](../Page/K리그_도움상.md "wikilink")
-[K리그 베스트 11 (1985)](../Page/K리그_베스트_11.md "wikilink") | |- | 2 | align=left| [이스트반](https://ko.wikipedia.org/wiki/뉼_이슈트반 "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 1990 | 6 | 2 | 0 | | | |- | 3 | align=left| [젠토이](https://ko.wikipedia.org/wiki/젠터이_러요시 "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [DF](../Page/수비수.md "wikilink") | 1991–1992 | 23 | 1 | 0 | | | |- | 4 | align=left| [루사르도](../Page/아르세니오_루사르도.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | align=left| [우루과이 U-20](../Page/우루과이_축구_국가대표팀.md "wikilink")
+[K리그 베스트 11 (1985)](../Page/K리그_베스트_11.md "wikilink") | |- | 2 | align=left| [이스트반](../Page/뉼_이슈트반.md "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 1990 | 6 | 2 | 0 | | | |- | 3 | align=left| [젠토이](https://ko.wikipedia.org/wiki/젠터이_러요시 "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [DF](../Page/수비수.md "wikilink") | 1991–1992 | 23 | 1 | 0 | | | |- | 4 | align=left| [루사르도](../Page/아르세니오_루사르도.md "wikilink") |  | [CONMEBOL](../Page/남미_축구_연맹.md "wikilink") | align=left| [우루과이 U-20](../Page/우루과이_축구_국가대표팀.md "wikilink")
 [우루과이 성인](../Page/우루과이_축구_국가대표팀.md "wikilink") | [MF](../Page/미드필더.md "wikilink") | 1992–1993 | 18 | 3 | 2 | | | |- | 5 | align=left| [제니아](https://ko.wikipedia.org/wiki/예브게니_지로프 "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [MF](../Page/미드필더.md "wikilink") | 1994 | 4 | 0 | 1 | | | |- | 6 | align=left| [알렉세이](https://ko.wikipedia.org/wiki/알렉세이_수다리코프 "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 1994 | 3 | 0 | 0 | | | |- | 7 | align=left| [보로](https://ko.wikipedia.org/wiki/보로_야니치 "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [MF](../Page/미드필더.md "wikilink") | 1994–1995 | 43 | 0 | 3 | | | |- | 8 | align=left| [젤리코](../Page/젤코_바이체타.md "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [FW](../Page/공격수.md "wikilink") | 1994 | 9 | 3 | 0 | | | |- | 9 | align=left| [요한](https://ko.wikipedia.org/wiki/요한_자르체비치 "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | | [DF](../Page/수비수.md "wikilink") | 1994–1995 | 35 | 1 | 1 | | | |- | 10 | align=left| [캄포스](../Page/쥬스틴_캄포스.md "wikilink") |  | [CONCACAF](../Page/북중미카리브_축구_연맹.md "wikilink") | align=left| [코스타리카 성인](../Page/코스타리카_축구_국가대표팀.md "wikilink") | [MF](../Page/미드필더.md "wikilink") | 1995–1996 | 19 | 2 | 5 | | | |- | 11 | align=left| [자심](https://ko.wikipedia.org/wiki/아바스_오베이드 "wikilink") |  | [AFC](../Page/아시아_축구_연맹.md "wikilink") | align=left| [이라크 U-23](../Page/이라크_U-23_축구_국가대표팀.md "wikilink")
 [이라크 성인](../Page/이라크_축구_국가대표팀.md "wikilink") | [MF](../Page/미드필더.md "wikilink") | 1996–1997 | 36 | 4 | 5 | | | |- | 12 | align=left| [스카첸코](../Page/세르히_스카첸코.md "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | align=left| [우크라이나 성인](../Page/우크라이나_축구_국가대표팀.md "wikilink") | [FW](../Page/공격수.md "wikilink") | 1996–1997 | 51 | 18 | 4 | | | |- | 13 | align=left| [사브첸코](../Page/볼로디미르_사브첸코.md "wikilink") |  | [UEFA](../Page/유럽_축구_연맹.md "wikilink") | align=left| [우크라이나 U-21](../Page/우크라이나_축구_국가대표팀.md "wikilink")
 [우크라이나 성인](../Page/우크라이나_축구_국가대표팀.md "wikilink") | [GK](../Page/골키퍼_\(축구\).md "wikilink") | 1996 | 12 | 0 | 0 | 22 / 1.833

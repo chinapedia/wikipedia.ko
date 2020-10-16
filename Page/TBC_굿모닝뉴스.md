@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TBC 굿모닝뉴스](https://ko.wikipedia.org/wiki/TBC_굿모닝뉴스).
 
 
-《**TBC 굿모닝뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") [TBC에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 평일 아침 7시 5분에 방송되는 [TBC의](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 아침뉴스 프로그램이다.
+《**TBC 굿모닝뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") [TBC에서](../Page/TBC_\(대한민국의_방송사\).md "wikilink") 평일 아침 7시 5분에 방송되는 [TBC의 아침종합뉴스 프로그램이다](../Page/TBC의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 

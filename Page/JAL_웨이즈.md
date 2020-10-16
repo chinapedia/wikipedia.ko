@@ -60,7 +60,7 @@ JAL 웨이즈는 [일본항공](../Page/일본항공.md "wikilink")에서 파견
 
 ## 사건 및 사고
 
-  - [2005년](../Page/2005년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") : [후쿠오카발](https://ko.wikipedia.org/wiki/후쿠오카_공항 "wikilink") [호놀룰루행](https://ko.wikipedia.org/wiki/호놀룰루_국제공항 "wikilink") [JAL 웨이즈 58편이](https://ko.wikipedia.org/wiki/JAL_웨이즈_58편 "wikilink") [맥도넬더글러스 DC-10](https://ko.wikipedia.org/wiki/맥도넬더글러스_DC-10 "wikilink") 항공기의 엔진에 화재가 발생하여 [후쿠오카](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 주택 지역에 금속 조각이 떨어지는 사고가 발생, 이 금속 조각에 소년 1명과 남자 어른 1명이 부상을 입었으며 비행기는 [후쿠오카 공항에](https://ko.wikipedia.org/wiki/후쿠오카_공항 "wikilink") 비상 착륙했다.\[1\]
+  - [2005년](../Page/2005년.md "wikilink") [8월 12일](../Page/8월_12일.md "wikilink") : [후쿠오카발](https://ko.wikipedia.org/wiki/후쿠오카_공항 "wikilink") [호놀룰루행](https://ko.wikipedia.org/wiki/호놀룰루_국제공항 "wikilink") [JAL 웨이즈 58편이](https://ko.wikipedia.org/wiki/JAL_웨이즈_58편 "wikilink") [맥도넬더글러스 DC-10](https://ko.wikipedia.org/wiki/맥도넬더글러스_DC-10 "wikilink") 항공기의 엔진에 화재가 발생하여 [후쿠오카](https://ko.wikipedia.org/wiki/후쿠오카_시 "wikilink") 주택 지역에 금속 조각이 떨어지는 사고가 발생, 이 금속 조각에 승객 2명이 부상을 입었으며 비행기는 [후쿠오카 공항에](https://ko.wikipedia.org/wiki/후쿠오카_공항 "wikilink") 비상 착륙했다.\[1\]
   - [2006년](../Page/2006년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink") : [도쿄발](https://ko.wikipedia.org/wiki/나리타_국제공항 "wikilink") [호놀룰루행](https://ko.wikipedia.org/wiki/호놀룰루_국제공항 "wikilink") [JAL 웨이즈 71편이](https://ko.wikipedia.org/wiki/JAL_웨이즈_71편 "wikilink") [보잉 747](../Page/보잉_747.md "wikilink") 항공기가 운항 도중에 [태평양](../Page/태평양.md "wikilink")에서 발생한 난기류에 말려 들어가면서 승객 2명이 부상당했다.
 
 ## 각주
