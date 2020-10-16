@@ -2321,7 +2321,7 @@
 </tr>
 <tr class="even">
 <td><p>한국</p></td>
-<td><p>《<a href="../Page/백야행_(영화).md" title="wikilink">백야행: 하얀 어둠 속을 걷다</a>》</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/백야행_-_하얀_어둠_속을_걷다" title="wikilink">백야행 - 하얀 어둠 속을 걷다</a>》</p></td>
 <td><p>2009.11.19</p></td>
 <td><p>실사</p></td>
 <td><p>공동제공, 배급</p></td>
@@ -4767,6 +4767,24 @@
 <td><p>한국</p></td>
 <td><p>《<a href="../Page/담보_(영화).md" title="wikilink">담보</a>》</p></td>
 <td><p>2020.9.29</p></td>
+<td><p>실사</p></td>
+<td><p>제공, 배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>일본</p></td>
+<td><p>《<a href="../Page/극장판_요괴워치:_FOREVER_FRIENDS.md" title="wikilink">극장판 요괴워치: 포에버 프렌즈</a>》</p></td>
+<td><p>2020.10.15</p></td>
+<td><p>애니메이션 <small>극장판</small></p></td>
+<td><p>배급</p></td>
+<td><p>CJ엔터테인먼트</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>한국</p></td>
+<td><p>《<a href="https://ko.wikipedia.org/wiki/도굴_(영화)" title="wikilink">도굴</a>》</p></td>
+<td><p>2020.11</p></td>
 <td><p>실사</p></td>
 <td><p>제공, 배급</p></td>
 <td><p>CJ엔터테인먼트</p></td>

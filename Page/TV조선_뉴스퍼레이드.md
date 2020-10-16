@@ -6,7 +6,7 @@
 ## 앵커
 
   - [유정현](../Page/유정현_\(정치인\).md "wikilink")
-  - 류주현
+  - [류주현](https://ko.wikipedia.org/wiki/류주현 "wikilink")
 
 ## 경쟁 뉴스 프로그램
 
