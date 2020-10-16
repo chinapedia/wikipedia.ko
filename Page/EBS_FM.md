@@ -1,7 +1,9 @@
 > This article is converted from Wikipedia: [EBS FM](https://ko.wikipedia.org/wiki/EBS_FM).
 
 
-**EBS FM**은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")에서 운영·방송하는 FM [라디오](../Page/라디오.md "wikilink") 방송 채널이다. 주로 [어학](https://ko.wikipedia.org/wiki/어학 "wikilink"), [교육](../Page/교육.md "wikilink"), [교양](../Page/교양.md "wikilink") 프로그램 등을 방송한다. 아침에는 어학, 심야에는 주로 문학 관련 프로그램을 중점적으로 편성하므로, [KBS의](../Page/한국방송공사.md "wikilink") 송출망을 공유하고 있다. 채널 특성상 지역방송과 상업광고가 없고 24시간 방송이 아니며, 오전 5시부터 다음 날 오전 2시까지만 방송한다.
+**EBS FM**은 [대한민국](../Page/대한민국.md "wikilink")의 방송국 [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")에서 운영·방송하는 FM [라디오](../Page/라디오.md "wikilink") 방송 채널이다. 주로 [어학](https://ko.wikipedia.org/wiki/어학 "wikilink"), [교육](../Page/교육.md "wikilink"), [교양](../Page/교양.md "wikilink") 프로그램 등을 방송한다. 아침에는 어학, 심야에는 주로 문학 관련 프로그램을 중점적으로 편성하므로, 전국적으로 산재되어 있는 [KBS](../Page/한국방송공사.md "wikilink") 지역 총국의 지상파 송출망을 공유하고 있다.
+
+본 채널은 공익적 채널의 특성상 지역방송과 상업광고가 없고 24시간 방송이 아니며, 오전 5시부터 다음 날 오전 2시까지만 방송한다.
 
 ## 정규방송 시간
 
@@ -208,11 +210,13 @@ EBS FM은 [KBS 제1라디오와](../Page/KBS_제1라디오.md "wikilink") 함께
 ## 같이 보기
 
   - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
-  - [KBS 제1FM](../Page/KBS_제1FM.md "wikilink")
-  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
+  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
+  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
+  - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
   - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
-  - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
+  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
+  - [극동방송](../Page/극동방송.md "wikilink")
 
 ## 각주
 

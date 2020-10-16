@@ -1,7 +1,9 @@
 > This article is converted from Wikipedia: [SBS 드라마 스페셜](https://ko.wikipedia.org/wiki/SBS_드라마_스페셜).
 
 
-**SBS 수목 드라마**는 [SBS TV에서](../Page/SBS_TV.md "wikilink") 매주 [수요일](../Page/수요일.md "wikilink")부터 [목요일](../Page/목요일.md "wikilink") 오후 10시에 방송되는 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink"). 대부분 16부작에서 30부작 사이의 미니 시리즈 형식으로 현재 방영되고 있으나 50부작에서 120부작이 넘는 장편 드라마도 방영되었다.
+**SBS 수목 드라마**는 [SBS TV에서](../Page/SBS_TV.md "wikilink") 매주 [수요일](../Page/수요일.md "wikilink")부터 [목요일](../Page/목요일.md "wikilink") 오후 10시에 방송되는 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+
+대부분 16부작에서 30부작 사이의 미니 시리즈 드라마 형식으로 현재 방송 되고 있으나 50부작에서 120부작이 넘는 장편 드라마도 방송 되었다.
 
 ## 개요
 
@@ -96,6 +98,12 @@
 <td><p>2019년 7월 17일 ~ 2019년 11월 28일</p></td>
 <td><p>70분<br />
 (1부 40분 2부 30분 분할 방송)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020년 11월 4일 ~ <strong>방송 예정</strong></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -396,6 +404,7 @@
   - [KBS 2TV 수목 드라마](https://ko.wikipedia.org/wiki/KBS_2TV_수목_드라마 "wikilink")
   - [MBC 수목 드라마](../Page/MBC_수목_드라마.md "wikilink")
   - [JTBC 수목 드라마](../Page/JTBC_수목_드라마.md "wikilink")
+  - [MBN 수목 드라마](../Page/MBN_수목_드라마.md "wikilink")
   - [tvN 수목 드라마](https://ko.wikipedia.org/wiki/tvN_수목_드라마 "wikilink")
 
 ## 각주

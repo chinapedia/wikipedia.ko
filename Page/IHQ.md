@@ -55,7 +55,6 @@
 
   - [김다예](../Page/김다예.md "wikilink")
   - [김수정](../Page/김수정_\(2004년\).md "wikilink")
-  - [김유정](../Page/김유정_\(배우\).md "wikilink")
   - [김윤혜](../Page/김윤혜.md "wikilink")
   - [김지영](../Page/김지영_\(2005년\).md "wikilink")
   - [김하늘](../Page/김하늘.md "wikilink")
@@ -200,6 +199,7 @@
   - [김숙](../Page/김숙.md "wikilink")
   - [김신영](../Page/김신영.md "wikilink")
   - [김연준](https://ko.wikipedia.org/wiki/김연준_\(1996년\) "wikilink")
+  - [김유정](../Page/김유정_\(배우\).md "wikilink")
   - [김정화](../Page/김정화.md "wikilink")
   - [김채은](../Page/김채은.md "wikilink")
   - [김화주](https://ko.wikipedia.org/wiki/김화주 "wikilink")
@@ -283,20 +283,20 @@
   - [이경희](../Page/이경희_\(작가\).md "wikilink")
   - [김규원](https://ko.wikipedia.org/wiki/김규원_\(작가\) "wikilink")
 
-## 드라마 제작 작품
+## **IHQ** 드라마 제작 작품
 
 ### KBS2
 
-|                                                                 |         |          |
-| --------------------------------------------------------------- | ------- | -------- |
-| 제목                                                              | 제작      | 비고 변경    |
-| 세상 어디에도 없는 착한남자                                                 | IHQ     |          |
-| [함부로 애틋하게](../Page/함부로_애틋하게.md "wikilink")                      | **IHQ** | **공동제작** |
-| [아이언맨](https://ko.wikipedia.org/wiki/아이언맨_\(드라마\) "wikilink")   | IHQ     |          |
-| [페이지터너](https://ko.wikipedia.org/wiki/페이지터너_\(드라마\) "wikilink") | IHQ     | 공동제작     |
-| [아버지가 이상해](https://ko.wikipedia.org/wiki/아버지가_이상해 "wikilink")   | IHQ     |          |
-| [포레스트](https://ko.wikipedia.org/wiki/포레스트 "wikilink")           | IHQ     | 공동제작     |
-| [지독한 운명](https://ko.wikipedia.org/wiki/지독한_운명 "wikilink")       | IHQ     |          |
+|                                                                 |          |       |
+| --------------------------------------------------------------- | -------- | ----- |
+| 제목                                                              | 제작       | 비고 변경 |
+| 세상 어디에도 없는 착한남자                                                 | IHQ      |       |
+| [함부로 애틋하게](../Page/함부로_애틋하게.md "wikilink")                      | **공동제작** |       |
+| [아이언맨](https://ko.wikipedia.org/wiki/아이언맨_\(드라마\) "wikilink")   |          |       |
+| [페이지터너](https://ko.wikipedia.org/wiki/페이지터너_\(드라마\) "wikilink") | 공동제작     |       |
+| [아버지가 이상해](https://ko.wikipedia.org/wiki/아버지가_이상해 "wikilink")   |          |       |
+| [포레스트](https://ko.wikipedia.org/wiki/포레스트 "wikilink")           | 공동제작     |       |
+| [지독한 운명](https://ko.wikipedia.org/wiki/지독한_운명 "wikilink")       |          |       |
 
 ### SBS
 
@@ -304,27 +304,26 @@
 | ------------------------------------------------------------- | --- | ----- |
 | 제목                                                            | 제작  | 비고 변경 |
 | [봄날](../Page/봄날_\(드라마\).md "wikilink")                        | IHQ |       |
-| [홍콩익스프레스](https://ko.wikipedia.org/wiki/홍콩익스프레스 "wikilink")   | IHQ |       |
-| [건빵선생과 별사탕](../Page/건빵선생과_별사탕.md "wikilink")                  | IHQ |       |
-| [독신천하](../Page/독신천하.md "wikilink")                            | IHQ |       |
-| [불한당](https://ko.wikipedia.org/wiki/불한당 "wikilink")           | IHQ |       |
-| [크리스마스에 눈이 올까요?](../Page/크리스마스에_눈이_올까요?.md "wikilink")        | IHQ |       |
-| [뿌리깊은 나무](../Page/뿌리깊은_나무_\(2011년_드라마\).md "wikilink")        | IHQ |       |
-| [출생의 비밀](../Page/출생의_비밀.md "wikilink")                        | IHQ |       |
-| [피노키오](https://ko.wikipedia.org/wiki/피노키오_\(드라마\) "wikilink") | IHQ |       |
-| [당신이 잠든 사이에](../Page/당신이_잠든_사이에_\(드라마\).md "wikilink")        | IHQ |       |
+| [홍콩익스프레스](https://ko.wikipedia.org/wiki/홍콩익스프레스 "wikilink")   |     |       |
+| [건빵선생과 별사탕](../Page/건빵선생과_별사탕.md "wikilink")                  |     |       |
+| [독신천하](../Page/독신천하.md "wikilink")                            |     |       |
+| [불한당](https://ko.wikipedia.org/wiki/불한당 "wikilink")           |     |       |
+| [크리스마스에 눈이 올까요?](../Page/크리스마스에_눈이_올까요?.md "wikilink")        |     |       |
+| [뿌리깊은 나무](../Page/뿌리깊은_나무_\(2011년_드라마\).md "wikilink")        |     |       |
+| [출생의 비밀](../Page/출생의_비밀.md "wikilink")                        |     |       |
+| [피노키오](https://ko.wikipedia.org/wiki/피노키오_\(드라마\) "wikilink") |     |       |
+| [당신이 잠든 사이에](../Page/당신이_잠든_사이에_\(드라마\).md "wikilink")        |     |       |
 
 ### MBC
 
-|                                                             |         |       |
-| ----------------------------------------------------------- | ------- | ----- |
-| 제목                                                          | 제작      | 비고 변경 |
-| [닥터 깽](../Page/닥터_깽.md "wikilink")                          | IHQ     |       |
-| [고맙습니다](https://ko.wikipedia.org/wiki/고맙습니다 "wikilink")     | **IHQ** |       |
-| [누구세요?](../Page/누구세요?.md "wikilink")                        | IHQ     |       |
-| [오로라공주](https://ko.wikipedia.org/wiki/오로라공주 "wikilink")     | IHQ     |       |
-| [불굴의 차여사](https://ko.wikipedia.org/wiki/불굴의_차여사 "wikilink") | IHQ     |       |
-|                                                             | IHQ     |       |
+|                                                             |     |       |
+| ----------------------------------------------------------- | --- | ----- |
+| 제목                                                          | 제작  | 비고 변경 |
+| [닥터 깽](../Page/닥터_깽.md "wikilink")                          | IHQ |       |
+| [고맙습니다](https://ko.wikipedia.org/wiki/고맙습니다 "wikilink")     |     |       |
+| [누구세요?](../Page/누구세요?.md "wikilink")                        |     |       |
+| [오로라공주](https://ko.wikipedia.org/wiki/오로라공주 "wikilink")     |     |       |
+| [불굴의 차여사](https://ko.wikipedia.org/wiki/불굴의_차여사 "wikilink") |     |       |
 
 ### YTN
 
@@ -335,17 +334,24 @@
 
 ## 영화 제작
 
-## 주요 채널 소개
+## 채널 운영
 
-  - [코미디TV](https://ko.wikipedia.org/wiki/코미디TV "wikilink"): Always Fun. (오락 채널)
-  - [K-STAR](../Page/K-STAR.md "wikilink"): K Holic. (연예정보 채널)
-  - [드라맥스](../Page/드라맥스.md "wikilink"): 드라마 처럼. (드라마 채널)
-  - [AXN](https://ko.wikipedia.org/wiki/AXN_코리아 "wikilink"): 미드의 판을 뒤집다. (시리즈 채널)
-  - [CUBE TV](https://ko.wikipedia.org/wiki/CUBE_TV "wikilink"): 한류중심의 K-POP+아이돌 버라이어티 채널. (K-POP 채널)
-  - [라이프 U](https://ko.wikipedia.org/wiki/라이프_U "wikilink"): The Better Life. (라이프 스타일 채널)
-  - [히스토리](../Page/히스토리_\(텔레비전_채널\).md "wikilink"): 아는 것이 즐거워진다 (인포테인먼트 채널).
-  - [라이프타임](../Page/라이프타임_\(텔레비전_네트워크\).md "wikilink"): 나를 찾는 즐거움 (여성 채널).
+  -
+  -
 
+|                                                             |          |                       |
+| ----------------------------------------------------------- | -------- | --------------------- |
+| **채널명**                                                     | **채널정보** | **슬로건**               |
+| [코미디TV](https://ko.wikipedia.org/wiki/코미디TV "wikilink")     | 오락       | Always Fun            |
+| [K-STAR](../Page/K-STAR.md "wikilink")                      | 연예정보     | K Holic               |
+| [드라맥스](../Page/드라맥스.md "wikilink")                          | 드라마      | 드라마 처럼                |
+| [AXN](https://ko.wikipedia.org/wiki/AXN_코리아 "wikilink")     | 시리즈      | 미드의 판을 뒤집다            |
+| [CUBE TV](https://ko.wikipedia.org/wiki/CUBE_TV "wikilink") | K-POP    | 한류중심의 K-POP+아이돌 버라이어티 |
+| [라이프 U](https://ko.wikipedia.org/wiki/라이프_U "wikilink")     | 라이프 스타일  | The Better Life       |
+| [히스토리](../Page/히스토리_\(텔레비전_채널\).md "wikilink")              | 인포테인먼트   | 아는 것이 즐거워진다           |
+| [라이프타임](../Page/라이프타임_\(텔레비전_네트워크\).md "wikilink")          | 여성       | 나를 찾는 즐거움             |
+
+  -
 ## 디스코그래피
 
 ## 각주

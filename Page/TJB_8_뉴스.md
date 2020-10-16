@@ -10,19 +10,19 @@
 
 ## 시보 광고
 
-  - [1998년](../Page/1998년.md "wikilink") : 신원텔레콤
+  - [1998년](../Page/1998년.md "wikilink") : [신원 텔레콤](https://ko.wikipedia.org/wiki/신원_텔레콤 "wikilink")
   - [농심](../Page/농심.md "wikilink")
   - [쌍용자동차](../Page/쌍용자동차.md "wikilink")
   - [2010년](../Page/2010년.md "wikilink")\~[2013년](../Page/2013년.md "wikilink") : [배재대학교](https://ko.wikipedia.org/wiki/배재대학교 "wikilink")
-  - [2014년](../Page/2014년.md "wikilink")\~ : [우성사료](../Page/우성사료.md "wikilink")
-  - [2014년](../Page/2014년.md "wikilink")\~[2020년](../Page/2020년.md "wikilink") : 우성유통
+  - [2014년](../Page/2014년.md "wikilink")\~ : [우성사료](../Page/우성사료.md "wikilink") (키츠가든)
+  - [2014년](../Page/2014년.md "wikilink")\~[2020년](../Page/2020년.md "wikilink") : [우성 유통](https://ko.wikipedia.org/wiki/우성_유통 "wikilink")
 
 ## 앵커
 
 ### 평일
 
   - 노동현 기자 (남)
-  - 김현지 아나운서 (여)
+  - 이승휘 아나운서 (여)
 
 ### 주말
 

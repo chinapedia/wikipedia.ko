@@ -81,6 +81,7 @@
   - [필리핀](../Page/필리핀.md "wikilink") - [GMA 네트워크](../Page/GMA_네트워크.md "wikilink")
   - [브루나이](../Page/브루나이.md "wikilink") - [RTB](https://ko.wikipedia.org/wiki/RTB "wikilink")
   - [인도네시아](../Page/인도네시아.md "wikilink") - [TVRI](../Page/TVRI.md "wikilink")
+  - [태국](../Page/태국.md "wikilink") - [CH3](https://ko.wikipedia.org/wiki/CH3 "wikilink")
 
 ## 같이 보기
 

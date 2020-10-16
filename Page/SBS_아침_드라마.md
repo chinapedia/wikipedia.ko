@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS 아침 드라마](https://ko.wikipedia.org/wiki/SBS_아침_드라마).
 
 
-**SBS 아침 드라마**는 매주 [월요일](../Page/월요일.md "wikilink")부터 [금요일](../Page/금요일.md "wikilink") 오전 8시 35분에 방송 중인 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+**SBS 아침 드라마**는 [SBS](../Page/SBS.md "wikilink")에서 매주 [월요일](../Page/월요일.md "wikilink")부터 [금요일](../Page/금요일.md "wikilink") 오전 8시 35분에 방송 중인 [TV 드라마다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
 ## 방송 시간
 
@@ -43,7 +43,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019년 5월 20일 ~ <strong>현재</strong></p></td>
+<td><p>2019년 5월 20일 ~ 2020년10월9일</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 오전 8시 35분 ~ 9시 10분</p></td>
 <td></td>
 <td></td>

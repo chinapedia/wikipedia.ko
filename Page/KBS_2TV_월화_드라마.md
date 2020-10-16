@@ -1,7 +1,9 @@
 > This article is converted from Wikipedia: [KBS 2TV 월화 드라마](https://ko.wikipedia.org/wiki/KBS_2TV_월화_드라마).
 
 
-**KBS 2TV 월화 드라마**는 매주 [월요일](../Page/월요일.md "wikilink")부터 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink")까지 밤 9시 30분에 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 방송중인 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink"). 대부분 미니 시리즈 형식으로 현재 방영되고 있으며 장편 드라마도 방영되었다. [2019년](../Page/2019년.md "wikilink") [11월 25일](../Page/11월_25일.md "wikilink") 《**[조선로코 - 녹두전](https://ko.wikipedia.org/wiki/조선로코_-_녹두전 "wikilink")**》 최종회를 마지막 작품으로 이후 일시 중단되었다가 [2020년](../Page/2020년.md "wikilink") [4월 6일부터](../Page/4월_6일.md "wikilink") 《**[계약 우정](https://ko.wikipedia.org/wiki/계약우정_\(드라마\) "wikilink")**》을 시작으로 부활하여 방영 중이다.
+**KBS 2TV 월화 드라마**는 [KBS 2TV에서](../Page/KBS_2TV.md "wikilink") 매주 [월요일](../Page/월요일.md "wikilink")부터 [화요일](https://ko.wikipedia.org/wiki/화요일 "wikilink") 오후 9시 30분에 방송 중인 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+
+대부분 미니 시리즈 드라마 형식으로 현재 방송 중이며 장편 드라마도 방송 되었다.
 
 ## 방송 시간
 
@@ -360,7 +362,7 @@
 #### 2010년
 
   - 《[공부의 신](../Page/공부의_신.md "wikilink")》 : 2010년 1월 4일 \~ 2010년 2월 23일 (미니시리즈)
-  - 《[부자의 탄생](../Page/부자의_탄생.md "wikilink")》 : 2010년 3월 1일 \~ 2010년 5월 4일 (미니시리즈)
+  - 《[부자의 탄생](../Page/부자의_탄생.md "wikilink")》 : 2010년 3월 1일 \~ 2010년 5월 4일 (월화드라마)
   - 《[국가가 부른다](../Page/국가가_부른다.md "wikilink")》 : 2010년 5월 10일 \~ 2010년 6월 29일 (월화드라마)
   - 《[구미호: 여우누이뎐](../Page/구미호:_여우누이뎐.md "wikilink")》 : 2010년 7월 5일 \~ 2010년 8월 24일 (납량 미니시리즈)
   - 《[성균관 스캔들](../Page/성균관_스캔들.md "wikilink")》 : 2010년 8월 30일 \~ 2010년 11월 2일 (월화드라마)

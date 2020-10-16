@@ -67,7 +67,7 @@
 
 헨드릭스의 사망은 베테랑 저널리스트 벤저민 펄리 푸어가 판단하면서 "불평을 품은 민주당원들이 막강한 반대로 결정화할 수 있었던 자의 주위에 공무원을 제거하였다"면서 헨드릭스를 위하여 공식 마차에 5번째 바퀴로서 [해니벌 햄린이](../Page/해니벌_햄린.md "wikilink") 묘사한 것으로 받아들이는 데 처분되지 않았다.
 
-## 외부 연결
+## 외부 링크
 
   -
   - ["Thomas A. Hendricks: “The Constitution as it is, the Union as it was”](https://blog.history.in.gov/?p=3486), Indiana Historical Bureau
