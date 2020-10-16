@@ -1,18 +1,18 @@
 > This article is converted from Wikipedia: [KBS 뉴스 \(주말\)](https://ko.wikipedia.org/wiki/KBS_뉴스_\(주말\)).
 
 
-《**KBS 뉴스 (주말)**》()는 [대한민국](../Page/대한민국.md "wikilink") [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 낮, 저녁과 매주 [일요일](../Page/일요일.md "wikilink") 아침에 방송되는 [한국방송공사의 뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
+《**KBS 뉴스 (주말)**》()는 [대한민국](../Page/대한민국.md "wikilink") [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 낮, 저녁과 매주 [일요일](../Page/일요일.md "wikilink") 아침에 방송되는 [한국방송공사의 뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
 
 ## 기획 의도 / 개요
 
   - [주말](https://ko.wikipedia.org/wiki/주말 "wikilink")의 경우, [평일](https://ko.wikipedia.org/wiki/평일 "wikilink")에 방송하는 데일리 뉴스 프로그램을 편성하지 않고, 약 10분 분량의 단신 뉴스를 편성한다.\[1\]
-  - 정식 타이틀은 **KBS 뉴스**이다.
+  - 정식 타이틀은 **KBS 뉴스**와 타이틀 명인 **KBS 1TV 뉴스**로 부른다.
 
 ## 방송 시간
 
 | 방송 채널                                                                | 방송 기간                                                                                 | 방송 시간                                                                 |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")          | [1970년](../Page/1970년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink") \~ **현재** | 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 낮 12시 \~ 12시 10분 |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink")                             | [1970년](../Page/1970년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink") \~ **현재** | 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 낮 12시 \~ 12시 10분 |
 | 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 오후 5시 \~ 5시 10분 |                                                                                       |                                                                       |
 | 매주 [주말](https://ko.wikipedia.org/wiki/주말 "wikilink") 저녁 7시 \~ 7시 10분 |                                                                                       |                                                                       |
 | 매주 [일요일](../Page/일요일.md "wikilink") 아침 6시 \~ 6시 10분                  |                                                                                       |                                                                       |
