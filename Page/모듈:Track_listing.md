@@ -5,7 +5,9 @@
 
 local yesno = require('Module:Yesno') local checkType = require('libraryUtil').checkType
 
-local SHOW_WARNINGS = false local INPUT_ERROR_CATEGORY = 'Track listings with input errors'
+local SHOW_WARNINGS = false local INPUT_ERROR_CATEGORY = '입력 오류가 있는 곡 목록' local COLLAPSED_PARAMETER_CATEGORY = '숨김 변수를 사용하는 곡 목록 '
+
+\-- 로컬 변수 보관을 위해 사용 local localArgs
 
 -----
 
@@ -78,7 +80,7 @@ end
 `   if hours and hours:sub(1, 1) == '0' then`
 `       -- Disallow times like "0:12:34"`
 `       self:addWarning(string.format(`
-`           "Invalid time '%s' (times in format 'h:mm:ss' cannot start with zero)",`
+`           "유효하지 않은 시간 '%s' ('h:mm:ss' 형식의 시간은 0으로 시작할 수 없습니다)",`
 `           mw.text.nowiki(length)`
 `       ), INPUT_ERROR_CATEGORY)`
 `       return nil`
@@ -91,7 +93,7 @@ end
 `           -- Special case to disallow lengths like "01:23". This check has to`
 `           -- be here so that lengths like "1:01:23" are still allowed.`
 `           self:addWarning(string.format(`
-`               "Invalid time '%s' (times in format 'mm:ss' cannot start with zero)",`
+`               "유효하지 않은 시간 '%s' ('mm:ss' 형식의 시간은 0으로 시작할 수 없습니다)",`
 `               mw.text.nowiki(length)`
 `           ), INPUT_ERROR_CATEGORY)`
 `           return nil`
@@ -101,7 +103,7 @@ end
 `   -- Add a warning and return if we did not find a match.`
 `   if not seconds then`
 `       self:addWarning(string.format(`
-`           "Invalid time '%s' (times must be in a format of 'm:ss', 'mm:ss' or 'h:mm:ss')",`
+`           "유효하지 않은 시간 '%s' (시간은 'm:ss', 'mm:ss', 'h:mm:ss' 형식이어야 합니다)",`
 `           mw.text.nowiki(length)`
 `       ), INPUT_ERROR_CATEGORY)`
 `       return nil`
@@ -110,7 +112,7 @@ end
 `   -- Check that the minutes are less than 60 if we have an hours field.`
 `   if hours and tonumber(minutes) >= 60 then`
 `       self:addWarning(string.format(`
-`           "Invalid track length '%s' (if hours are specified, the number of minutes must be less than 60)",`
+`           "유효하지 않은 재생 시간 '%s' (시간을 지정하는 경우 분 숫자는 60보다 작아야 합니다)",`
 `           mw.text.nowiki(length)`
 `       ), INPUT_ERROR_CATEGORY)`
 `       return nil`
@@ -119,7 +121,7 @@ end
 `   -- Check that the seconds are less than 60`
 `   if tonumber(seconds) >= 60 then`
 `       self:addWarning(string.format(`
-`           "Invalid track length '%s' (number of seconds must be less than 60)",`
+`           "유효하지 않은 곡 길이 '%s' (초 숫자는 60보다 작아야 합니다)",`
 `           mw.text.nowiki(length)`
 `       ), INPUT_ERROR_CATEGORY)`
 `   end`
@@ -180,6 +182,8 @@ Track.fields = {
 `   writing_credits = '작사작곡표시',`
 `   lyrics_credits = '작사표시',`
 `   music_credits = '작곡표시',`
+`   arrangements_credits = '편곡표시',`
+`   all_arrangements = '전체편곡'`
 
 }
 
@@ -242,11 +246,24 @@ end
 
 function Track:makeNumberCell()
 
-`   return mw.html.create('td')`
+`   local numberCell = mw.html.create('td')`
+`   numberCell`
 `       :css('padding-right', '10px')`
 `       :css('text-align', 'right')`
 `       :css('vertical-align', 'top')`
-`       :wikitext(self.number .. '.')`
+`       :css('white-space', 'nowrap') -- 사용자 지정 곡 번호가 잘리지 않도록 수정`
+
+`   -- number 및 #을 사용하는 변수에 대해 트랙 번호를 변경할 수 있도록 조치`
+`   local customNum = localArgs['#' .. self.number] or localArgs['number' .. self.number] or ''`
+`   if (string.len(customNum) > 0) then`
+`       numberCell`
+`           :wikitext(customNum .. '.')`
+`   else`
+`       numberCell`
+`           :wikitext(self.number .. '.')`
+`   end`
+
+`   return numberCell`
 
 end
 
@@ -255,12 +272,11 @@ function Track:makeTitleCell()
 `   local titleCell = mw.html.create('td')`
 `   titleCell`
 `       :css('vertical-align', 'top')`
-`       :wikitext(self.title and string.format('〈%s〉', self.title) or '무제')`
+`       :wikitext(self.title and string.format('"%s"', self.title) or '무제')`
 `   if self.note then`
 `       titleCell`
 `           :wikitext(' ')`
 `           :tag('span')`
-`               :css('font-size', '85%')`
 `               :wikitext(string.format('(%s)', self.note))`
 `   end`
 `   return titleCell`
@@ -327,11 +343,10 @@ local TrackListing = {} TrackListing.__index = TrackListing addMixin(TrackListin
 
 TrackListing.fields = {
 
+`   headline = true,`
 `   all_writing = true,`
 `   all_lyrics = true,`
 `   all_music = true,`
-`   collapsed = true,`
-`   headline = true,`
 `   extra_column = true,`
 `   total_length = true,`
 `   title_width = true,`
@@ -348,6 +363,8 @@ TrackListing.deprecatedFields = {
 `   writing_credits = true,`
 `   lyrics_credits = true,`
 `   music_credits = true,`
+`   arrangements_credits = true, -- 편곡표시`
+`   all_arrangements = true, -- 전체편곡`
 
 }
 
@@ -383,7 +400,7 @@ function TrackListing.new(data)
 `   -- Check for deprecated arguments`
 `   for deprecatedField in pairs(TrackListing.deprecatedFields) do`
 `       if data[deprecatedField] then`
-`           self:addCategory('Track listings with deprecated parameters')`
+`           self:addCategory('구식 변수를 사용하는 곡 목록')`
 `           break`
 `       end`
 `   end`
@@ -399,7 +416,6 @@ function TrackListing.new(data)
 `   end`
 `   `
 `   -- Evaluate boolean properties`
-`   self.collapsed = yesno(self.collapsed, false)`
 `   self.showCategories = yesno(self.category) ~= false`
 `   self.category = nil`
 
@@ -451,23 +467,23 @@ function TrackListing:makeIntro()
 
 `   if self.all_writing then`
 `       return string.format(`
-`           '※전체 작사·작곡: %s',`
+`           '전체 작사·작곡: %s',`
 `           self.all_writing`
 `       )`
 `   elseif self.all_lyrics and self.all_music then`
 `       return string.format(`
-`           '※전체 작사: %s. 전체 작곡: %s',`
+`           '전체 작사: %s. 전체 작곡: %s',`
 `           self.all_lyrics,`
 `           self.all_music`
 `       )`
 `   elseif self.all_lyrics then`
 `       return string.format(`
-`           '※전체 작사: %s',`
+`           '전체 작사: %s',`
 `           self.all_lyrics`
 `       )`
 `   elseif self.all_music then`
 `       return string.format(`
-`           '※전체 작곡: %s',`
+`           '전체 작곡: %s',`
 `           self.all_music`
 `       )`
 `   else`
@@ -512,7 +528,7 @@ function TrackListing:renderWarnings()
 
 `   local function addWarning(msg)`
 `       table.insert(ret, string.format(`
-`           '`<strong class="error">`Track listing error: %s`</strong>`',`
+`           '`<strong class="error">`곡 목록 오류: %s`</strong>`',`
 `           msg`
 `       ))`
 `   end`
@@ -576,21 +592,25 @@ function TrackListing:__tostring()
 `   local tableRoot = root:tag('table')`
 `   tableRoot`
 `       :addClass('tracklist')`
-`       :addClass(self.collapsed and 'collapsible collapsed' or nil)`
 `       :css('display', 'block')`
 `       :css('border-spacing', '0px')`
-`       :css('border-collapse', 'collapse')`
-`       :css('border', self.collapsed and '#aaa 1px solid' or nil)`
-`       :css('padding', self.collapsed and '3px' or '4px')`
-
+`       `
 `   -- Header row`
-`   if self.headline or self.collapsed then`
-`       tableRoot:tag('tr'):tag('th')`
+`   if self.headline then`
+`       tableRoot:tag('caption')`
 `           :addClass('tlheader mbox-text')`
 `           :attr('colspan', nColumns)`
 `           :css('text-align', 'left')`
 `           :css('background-color', '#fff')`
+`           :css('font-weight', '700')`
 `           :wikitext(self.headline or '곡 목록')`
+`   end`
+`   `
+`   -- Deprecated collapsed parameter`
+`   if self.collapsed or localArgs["숨김"] == '예' or localArgs["숨김"] == 'yes'`
+`   or localArgs["collapsed"] == '예' or localArgs["collapsed"] == 'yes'`
+`   then`
+`       self:addWarning("구식 숨김 변수를 사용 중", COLLAPSED_PARAMETER_CATEGORY);`
 `   end`
 
 `   -- Headers`
@@ -608,7 +628,7 @@ function TrackListing:__tostring()
 `           :css('background-color', '#eee')`
 `           :tag('abbr')`
 `               :attr('title', '번호')`
-`               :wikitext('No.')`
+`               :wikitext('#')`
 
 `   ---- Title`
 `   headerRow:tag('th')`
@@ -648,7 +668,7 @@ function TrackListing:__tostring()
 `       :css('padding-right', '10px')`
 `       :css('text-align', 'right')`
 `       :css('background-color', '#eee')`
-`       :css('white-space', 'nowrap')`
+`       :css('white-space', 'nowrap') -- '재생 시간'이 잘리지 않도록 수정`
 `       :wikitext('재생 시간')`
 
 `   -- Tracks`
@@ -667,7 +687,7 @@ function TrackListing:__tostring()
 `                   :attr('colspan', nColumns - 1)`
 `                   :css('padding', 0)`
 `                   :tag('span')`
-`                       :css('width', '7em')`
+`                       :css('width', '7.5em')`
 `                       :css('float', 'right')`
 `                       :css('padding-left', '10px')`
 `                       :css('background-color', '#eee')`
@@ -699,6 +719,9 @@ end
 local p = {}
 
 function p._main(args)
+
+`   -- 로컬 변수 보관을 위해 사용`
+`   localArgs = args`
 
 `   -- Process numerical args so that we can iterate through them.`
 `   local data, tracks = {}, {}`
@@ -737,7 +760,7 @@ end
 function p.main(frame)
 
 `   local args = require('Module:Arguments').getArgs(frame, {`
-`       wrappers = '틀:곡 목록/연습장'`
+`       wrappers = '틀:곡 목록'`
 `   })`
 `   return p._main(args)`
 
