@@ -89,6 +89,6 @@
   - [울산문화방송](../Page/울산문화방송.md "wikilink")
   - [MBC경남](../Page/MBC경남.md "wikilink")
   - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
-  - [이승원의 세계는 그리고 우리는](../Page/세계는_그리고_우리는.md "wikilink")
+  - [뉴스 하이킥](https://ko.wikipedia.org/wiki/뉴스_하이킥 "wikilink")
 
 [분류:문화방송의 뉴스 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:문화방송의_뉴스_라디오_프로그램 "wikilink")
