@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SG 신성건설](https://ko.wikipedia.org/wiki/SG_신성건설).
 
 
-**에스지신성건설** 주식회사는 [대한민국](../Page/대한민국.md "wikilink")의 [건설](https://ko.wikipedia.org/wiki/건설 "wikilink") 회사로서, 모태인 신성전기기업사로 [1952년](../Page/1952년.md "wikilink")에 설립되었다. 대한민국 시공능력평가 기준으로 41위이다. [2008년](../Page/2008년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") 법정관리에 신청된 후 약 5년 동안의 회생절차를 걸쳐 [2013년](../Page/2013년.md "wikilink") 7월에 연합자산관리(UAMCO)에 인수되었다가 [2014년](../Page/2014년.md "wikilink") [SG세계물산](../Page/SG세계물산.md "wikilink")의 모태인 [SG그룹](https://ko.wikipedia.org/wiki/SG그룹 "wikilink")에 인수되어 [6월 24일에](../Page/6월_24일.md "wikilink") 현재의 명칭으로 변경되었다.\[1\]
+**에스지신성건설** 주식회사는 [대한민국](../Page/대한민국.md "wikilink")의 [건설](../Page/건설.md "wikilink") 회사로서, 모태인 신성전기기업사로 [1952년](../Page/1952년.md "wikilink")에 설립되었다. 대한민국 시공능력평가 기준으로 41위이다. [2008년](../Page/2008년.md "wikilink") [11월 12일](../Page/11월_12일.md "wikilink") 법정관리에 신청된 후 약 5년 동안의 회생절차를 걸쳐 [2013년](../Page/2013년.md "wikilink") 7월에 연합자산관리(UAMCO)에 인수되었다가 [2014년](../Page/2014년.md "wikilink") [SG세계물산](../Page/SG세계물산.md "wikilink")의 모태인 [SG그룹](https://ko.wikipedia.org/wiki/SG그룹 "wikilink")에 인수되어 [6월 24일에](../Page/6월_24일.md "wikilink") 현재의 명칭으로 변경되었다.\[1\]
 
 ## 연혁
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 뉴스라인](https://ko.wikipedia.org/wiki/KBS_뉴스라인).
 
 
-《**KBS 뉴스라인**》()은 [대한민국](../Page/대한민국.md "wikilink") [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 매주 [월요일](../Page/월요일.md "wikilink") \~ [목요일](../Page/목요일.md "wikilink") 밤 11시 30분과 매주 [금요일](../Page/금요일.md "wikilink") 밤 11시 40분에 방송되는 [한국방송공사의 심야 심층 종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink"). [2018년](../Page/2018년.md "wikilink") [11월 29일에](../Page/11월_29일.md "wikilink") 종영되었으나 [2020년](../Page/2020년.md "wikilink") [6월 29일부터](../Page/6월_29일.md "wikilink") 재신설되었다.
+《**KBS 뉴스라인**》()은 [대한민국](../Page/대한민국.md "wikilink") [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 매주 [월요일](../Page/월요일.md "wikilink") \~ [목요일](../Page/목요일.md "wikilink") 밤 11시 30분과 매주 [금요일](../Page/금요일.md "wikilink") 밤 11시 40분에 방송되는 [한국방송공사의 심야 심층 종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink"). [2018년](../Page/2018년.md "wikilink") [11월 29일에](../Page/11월_29일.md "wikilink") 종영되었으나 [2020년](../Page/2020년.md "wikilink") [6월 29일부터](../Page/6월_29일.md "wikilink") 재신설되었다.
 
 ## 기획 의도
 
@@ -22,7 +22,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a></p></td>
 <td><p><a href="../Page/1970년.md" title="wikilink">1970년</a> <a href="../Page/3월_2일.md" title="wikilink">3월 2일</a> ~ <a href="../Page/1972년.md" title="wikilink">1972년</a> <a href="../Page/6월_23일.md" title="wikilink">6월 23일</a></p></td>
 <td><p>매주 <a href="https://ko.wikipedia.org/wiki/평일" title="wikilink">평일</a> 밤 11시 5분 ~ 11시 15분 (10분)</p></td>
 </tr>

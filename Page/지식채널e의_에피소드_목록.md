@@ -3957,214 +3957,216 @@
 
 ## 2009년
 
-| 회차  | 방영일           | 키워드           | 제목                                           | 참고항목                                                                                  | 삽입곡                                                                                                                             |
-| --- | ------------- | ------------- | -------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 489 | 1월 6일         | 사람people      | 로베르토 2부 - 우상                                 |                                                                                       |                                                                                                                                 |
-| 490 | 1월 6일         | 과학science     | L값                                           | [외계 생명체](https://ko.wikipedia.org/wiki/외계_생명체 "wikilink")                             | Kent - 747                                                                                                                      |
-| 491 | 1월 13일        | 지식knowledge   | 욕망의 모자                                       |                                                                                       |                                                                                                                                 |
-| 492 | 1월 13일        | 상상imagine     | 5분                                           |                                                                                       | Lovebugs - Not Alone Until June - You Do                                                                                        |
-| 493 | 1월 20일        | 사람people      | 두 손의 비밀                                      |                                                                                       |                                                                                                                                 |
-| 494 | 1월 20일        | 예고편preview    | 인간과 개                                        |                                                                                       |                                                                                                                                 |
-| 495 | 1월 27일        | 사회society     | 얼굴 없는 시선                                     |                                                                                       |                                                                                                                                 |
-| 496 | 1월 27일|1월 28일 | 캐릭터character  | 한잘라 제 1부 - 10살의 한잘라                          | [나지 알 알리](../Page/한라산.md "wikilink")                                                  |                                                                                                                                 |
-| 497 | 2월 3일         | 인생life        | 사소함의 힘                                       |                                                                                       | [LCD 사운드시스템](../Page/LCD_사운드시스템.md "wikilink") - Big Ideas OK Go - Let It Rain                                                  |
-| 498 | 2월 3일         | 캐릭터character  | 한잘라 제 2부 - 테러리스트                             |                                                                                       |                                                                                                                                 |
-| 499 | 2월 10일        | 교육education   | Play & Fight                                 | [엘 시스테마](../Page/엘_시스테마.md "wikilink")                                                |                                                                                                                                 |
-| 500 | 2월 10일|2월 11일 | 문화culture     | 어머니의 그림                                      |                                                                                       |                                                                                                                                 |
-| 501 | 2월 17일        | 과학science     | 빛의 전쟁                                        |                                                                                       |                                                                                                                                 |
-| 502 | 2월 17일        | 기억memory      | 어떤 작별                                        |                                                                                       |                                                                                                                                 |
-| 503 | 2월 24일        | 문학literature  | out of use                                   |                                                                                       |                                                                                                                                 |
-| 504 | 2월 24일        | 인생life        | 가비오따스                                        |                                                                                       |                                                                                                                                 |
-| 505 | 3월 3일         | 사람people      | '괴물'의 그림자                                    |                                                                                       |                                                                                                                                 |
-| 506 | 3월 3일         | 관계relation    | 두 사람 제 1부 독학자                                | [종의 기원](../Page/종의_기원.md "wikilink")                                                  |                                                                                                                                 |
-| 507 | 3월 10일        | 지식knowledge   | 돈, 얼굴                                        | [화폐도안](../Page/돈.md "wikilink")                                                       |                                                                                                                                 |
-| 508 | 3월 10일        | 관계relation    | 두 사람 제 2부 원숭이 인간                             |                                                                                       |                                                                                                                                 |
-| 509 | 3월 17일        | media 언론      | 삶의 기록자                                       | [안나 폴릿콥스카야](../Page/안나_폴릿콥스카야.md "wikilink")                                          |                                                                                                                                 |
-| 510 | 3월 17일        | 너머beyond      | 그것만이 내 세상                                    | [:en:Umwelt](https://ko.wikipedia.org/wiki/:en:Umwelt "wikilink")                     |                                                                                                                                 |
-| 511 | 3월 24일        | 인생life        | 그들이 달리는 이유                                   | [마라톤](../Page/마라톤.md "wikilink")                                                      |                                                                                                                                 |
-| 512 | 3월 24일        | 사회society     | 목숨값                                          | [:en:Stanley Williams](https://ko.wikipedia.org/wiki/:en:Stanley_Williams "wikilink") |                                                                                                                                 |
-| 513 | 3월 31일        | 자연nature      | 칩코의 여인들                                      | [:en:Chipko movement](https://ko.wikipedia.org/wiki/:en:Chipko_movement "wikilink")   |                                                                                                                                 |
-| 514 | 3월 31일        | 사회society     | 살아갈 권리                                       | [사북](../Page/사북역.md "wikilink")                                                       |                                                                                                                                 |
-| 515 | 4월 7일         | 문화culture     | 텔레비전                                         | [백남준](../Page/백남준.md "wikilink")                                                      |                                                                                                                                 |
-| 516 | 4월 7일         | 교육education   | 개나리 필 무렵                                     | [반값등록금](https://ko.wikipedia.org/wiki/반값등록금 "wikilink")                               |                                                                                                                                 |
-| 517 | 4월 14일        | 생존survive     | 물 좀 주소                                       | [가뭄](../Page/가뭄.md "wikilink")                                                        |                                                                                                                                 |
-| 518 | 4월 14일        | 사회society     | 위험한 거래                                       |                                                                                       |                                                                                                                                 |
-| 519 | 4월 21일        | 기억memory      | 인간의 점수                                       | [지능지수](https://ko.wikipedia.org/wiki/지능지수 "wikilink")                                 |                                                                                                                                 |
-| 520 | 4월 21일        | 환경environment | 의문의 실종                                       | [군집 붕괴 현상](https://ko.wikipedia.org/wiki/군집_붕괴_현상 "wikilink")                         |                                                                                                                                 |
-| 521 | 4월 28일        | 관계relation    | 후원자들                                         | [안토니 가우디](../Page/안토니_가우디.md "wikilink")                                              |                                                                                                                                 |
-| 522 | 4월 28일        | 건강health      | 조용한 싸움                                       | [면역](../Page/면역.md "wikilink")                                                        |                                                                                                                                 |
-| 523 | 5월 5일         | 어린이children   | 피리 부는 사나이                                    | [어린이](../Page/어린이.md "wikilink") [브랜드](../Page/브랜드.md "wikilink")                     |                                                                                                                                 |
-| 524 | 5월 5일         | hope희망        | SPEC UP\!                                    | [스펙](../Page/스펙.md "wikilink")                                                        |                                                                                                                                 |
-| 525 | 5월 12일        | 문화culture     | 추운 시절의 그림                                    | [김정희](../Page/김정희.md "wikilink") 《[세한도](../Page/김정희필_세한도.md "wikilink")》              |                                                                                                                                 |
-| 526 | 5월 12일        | 자연nature      | 너무 먹었나봐                                      | [식물](../Page/식물.md "wikilink") [독](../Page/독.md "wikilink")                           | [콜드플레이](../Page/콜드플레이.md "wikilink") - Lost                                                                                     |
-| 527 | 5월 19일        | 인간humane      | 목소리                                          | [성문](https://ko.wikipedia.org/wiki/성문 "wikilink")                                     | The real group - Run Run Run                                                                                                    |
-| 528 | 5월 19일        | 기억memory      | Summer of Love                               | [히피](../Page/히피.md "wikilink")                                                        |                                                                                                                                 |
-| 529 | 5월 26일        | 삶live         | 그래, 아빠가 같이 놀아줄게                              | [경제위기](../Page/경제위기.md "wikilink") [아버지](../Page/아버지.md "wikilink")                   |                                                                                                                                 |
-| 530 | 5월 26일        | 정체성identity   | 당신의 이름은 몇 개 입니까?                             | [이름](../Page/이름.md "wikilink")                                                        |                                                                                                                                 |
-| 531 | 6월 2일         | 인생life        | 남겨진 논쟁                                       |                                                                                       |                                                                                                                                 |
-| 532 | 6월 2일         | 인간humane      | 비범한 사람들                                      |                                                                                       |                                                                                                                                 |
-| 533 | 6월 9일         | 사회society     | 소시오패스                                        |                                                                                       |                                                                                                                                 |
-| 534 | 6월 9일         | 지식knowledge   | 현명하게 길을 잃는 방법                                |                                                                                       |                                                                                                                                 |
-| 535 | 6월 16일        | 기술technology  | 적절한 기술                                       |                                                                                       | [킨](https://ko.wikipedia.org/wiki/킨 "wikilink") - Sunshine                                                                      |
-| 536 | 6월 16일        | 수학mathematics | 1의 진화                                        |                                                                                       |                                                                                                                                 |
-| 537 | 6월 23일        | 사회society     | 환상통                                          |                                                                                       |                                                                                                                                 |
-| 538 | 6월 23일        | 인간humane      | 죽어야 산다                                       |                                                                                       |                                                                                                                                 |
-| 539 | 6월 30일        | 과학science     | 120년간의 기준                                    |                                                                                       |                                                                                                                                 |
-| 540 | 6월 30일        | 수학mathematics | 0의 진화                                        |                                                                                       |                                                                                                                                 |
-| 541 | 7월 7일         | 정체성identity   | 해피엔딩을 꿈꾸며                                    |                                                                                       | [디도](https://ko.wikipedia.org/wiki/디도 "wikilink") - Do You Have A Little Time                                                   |
-| 542 | 7월 7일         | 과학science     | 거기, 당신                                       |                                                                                       |                                                                                                                                 |
-| 543 | 7월 14일        | 정체성identity   | 신분증을 제시해주십시오                                 |                                                                                       |                                                                                                                                 |
-| 544 | 7월 14일        | 환경environment | 잠 못 드는 밤                                     |                                                                                       |                                                                                                                                 |
-| 545 | 7월 21일        | 삶live         | 아파트                                          |                                                                                       |                                                                                                                                 |
-| 546 | 7월 21일        | 사회society     | 골뱅이의 사생활                                     |                                                                                       |                                                                                                                                 |
-| 547 | 7월 28일        | 교육education   | 몸의 학교                                        |                                                                                       | [존 바에즈](../Page/존_바에즈.md "wikilink") - The River In The Pines,[디도](https://ko.wikipedia.org/wiki/디도 "wikilink") - Life For Rent |
-| 548 | 7월 28일        | 지식knowledge   | 부당하게 무시당한 물질                                 |                                                                                       |                                                                                                                                 |
-| 549 | 8월 4일         | 경제economy     | 어떤 장바구니                                      |                                                                                       |                                                                                                                                 |
-| 550 | 8월 4일         | 문학literature  | 아, 여행, 여행이여\!                                |                                                                                       |                                                                                                                                 |
-| 551 | 8월 11일        | 자연nature      | 사람이 사라진 후                                    |                                                                                       |                                                                                                                                 |
-| 552 | 8월 11일        | 관계relation    | 물러설 수 없는 싸움                                  |                                                                                       |                                                                                                                                 |
-| 553 | 8월 18일        | 기억memory      | 나는 고기를 주우러 간다                                |                                                                                       |                                                                                                                                 |
-| 554 | 8월 18일        | 사람people      | 조용한 자부심                                      |                                                                                       |                                                                                                                                 |
-| 555 | 8월 25일        | 인생life        | 시작행동백서                                       |                                                                                       |                                                                                                                                 |
-| 556 | 8월 25일        | 인간humane      | 산 좋고 물 좋은 곳                                  |                                                                                       |                                                                                                                                 |
-| 557 | 9월 1일         | 상상imagine     | e                                            |                                                                                       |                                                                                                                                 |
-| 558 | 9월 1일         | 삶live         | 아저씨의 대답                                      |                                                                                       |                                                                                                                                 |
-| 559 | 9월 8일         | 자연nature      | 딜레마                                          |                                                                                       |                                                                                                                                 |
-| 560 | 9월 8일         | 문화culture     | 고수가 되는 길                                     |                                                                                       |                                                                                                                                 |
-| 561 | 9월 15일        | 사회society     | 털                                            |                                                                                       |                                                                                                                                 |
-| 562 | 9월 15일        | 지식knowledge   | 보톡스                                          |                                                                                       |                                                                                                                                 |
-| 563 | 9월 29일        | 진실true        | 네 번째 묘                                       |                                                                                       | [뮤즈](https://ko.wikipedia.org/wiki/뮤즈 "wikilink") - Exogenesis: Symphony Part 3 (Redemption)                                    |
-| 564 | 9월 29일        | 사람people      | 어떤 외출                                        |                                                                                       |                                                                                                                                 |
-| 565 | 10월 6일        | 기술technology  | 대한민국 네티즌 1%                                  |                                                                                       |                                                                                                                                 |
-| 566 | 10월 6일        | 정체성identity   | 통일합시다\!                                      |                                                                                       | [파이브 포 파이팅](https://ko.wikipedia.org/wiki/파이브_포_파이팅 "wikilink") - Chances                                                       |
-| 567 | 10월 13일       | 환경environment | 플라스틱 아일랜드                                    |                                                                                       | [도브스](../Page/도스.md "wikilink") - Sea Song                                                                                      |
-| 568 | 10월 13일       | e야기           | 돼지의 일용할 야망                                   |                                                                                       |                                                                                                                                 |
-| 569 | 10월 20일       | 공간space       | 빵과 장미                                        |                                                                                       |                                                                                                                                 |
-| 570 | 10월 20일       | interview인터뷰  | 저는 북한 사람입니다                                  |                                                                                       |                                                                                                                                 |
-| 571 | 10월 27일       | 캐릭터character  | 떡장수 삼월이                                      |                                                                                       |                                                                                                                                 |
-| 572 | 10월 27일       | 너머beyond      | 산타모니카 3번가의 기적                                |                                                                                       |                                                                                                                                 |
-| 573 | 11월 3일        | 과학science     | 우주에서 온 애플파이                                  |                                                                                       |                                                                                                                                 |
-| 574 | 11월 3일        | 문화culture     | 놀라운 능력                                       |                                                                                       |                                                                                                                                 |
-| 575 | 11월 10일       | 지구earth       | 달의 뒤편으로 간 남자                                 |                                                                                       |                                                                                                                                 |
-| 576 | 11월 10일       | 자연nature      | 세상에서 가장 빠른 새                                 |                                                                                       |                                                                                                                                 |
-| 577 | 11월 17일       | 진실true        | Elgin Excuse                                 |                                                                                       |                                                                                                                                 |
-| 578 | 11월 17일       | 정서emotion     | 플루포비아(flu-phobia)                            |                                                                                       |                                                                                                                                 |
-| 579 | 11월 24일       | 사회society     | 괴물전성시대                                       |                                                                                       |                                                                                                                                 |
-| 580 | 11월 24일       | 사람people      | 17년 8개월                                      |                                                                                       |                                                                                                                                 |
-| 581 | 12월 1일        | 교육education   | 핀란드의 실험 제1부 탈출구                              |                                                                                       |                                                                                                                                 |
-| 582 | 12월 1일        | 생존survive     | 공룡 멸종에 관한 101가지 이론                           |                                                                                       |                                                                                                                                 |
-| 583 | 12월 8일        | 환경environment | 납                                            |                                                                                       |                                                                                                                                 |
-| 584 | 12월 8일        | 교육education   | 핀란드의 실험 제2부 더 많은 차별                          |                                                                                       |                                                                                                                                 |
-| 585 | 12월 15일       | 인생life        | 의사 [장기려](../Page/장기려.md "wikilink") 1부 성공의 길 |                                                                                       |                                                                                                                                 |
-| 586 | 12월 15일       | 상상imagine     | 작은 물방울들의 이름                                  |                                                                                       |                                                                                                                                 |
-| 587 | 12월 22일       | 정서emotion     | 빨강이 초록에게                                     |                                                                                       |                                                                                                                                 |
-| 588 | 12월 22일       | 인생life        | Is There a Santa Claus?                      |                                                                                       |                                                                                                                                 |
+| 회차  | 방영일           | 키워드           | 제목                                               | 참고항목                                                                                  | 삽입곡                                                                                                                             |
+| --- | ------------- | ------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 489 | 1월 6일         | 사람people      | 로베르토 2부 - 우상                                     |                                                                                       |                                                                                                                                 |
+| 490 | 1월 6일         | 과학science     | L값                                               | [외계 생명체](https://ko.wikipedia.org/wiki/외계_생명체 "wikilink")                             | Kent - 747                                                                                                                      |
+| 491 | 1월 13일        | 지식knowledge   | 욕망의 모자                                           |                                                                                       |                                                                                                                                 |
+| 492 | 1월 13일        | 상상imagine     | 5분                                               |                                                                                       | Lovebugs - Not Alone Until June - You Do                                                                                        |
+| 493 | 1월 20일        | 사람people      | 두 손의 비밀                                          |                                                                                       |                                                                                                                                 |
+| 494 | 1월 20일        | 예고편preview    | 인간과 개                                            |                                                                                       |                                                                                                                                 |
+| 495 | 1월 27일        | 사회society     | 얼굴 없는 시선                                         |                                                                                       |                                                                                                                                 |
+| 496 | 1월 27일|1월 28일 | 캐릭터character  | 한잘라 제 1부 - 10살의 한잘라                              | [나지 알 알리](../Page/한라산.md "wikilink")                                                  |                                                                                                                                 |
+| 497 | 2월 3일         | 인생life        | 사소함의 힘                                           |                                                                                       | [LCD 사운드시스템](../Page/LCD_사운드시스템.md "wikilink") - Big Ideas OK Go - Let It Rain                                                  |
+| 498 | 2월 3일         | 캐릭터character  | 한잘라 제 2부 - 테러리스트                                 |                                                                                       |                                                                                                                                 |
+| 499 | 2월 10일        | 교육education   | Play & Fight                                     | [엘 시스테마](../Page/엘_시스테마.md "wikilink")                                                |                                                                                                                                 |
+| 500 | 2월 10일|2월 11일 | 문화culture     | 어머니의 그림                                          |                                                                                       |                                                                                                                                 |
+| 501 | 2월 17일        | 과학science     | 빛의 전쟁                                            |                                                                                       |                                                                                                                                 |
+| 502 | 2월 17일        | 기억memory      | 어떤 작별                                            |                                                                                       |                                                                                                                                 |
+| 503 | 2월 24일        | 문학literature  | out of use                                       |                                                                                       |                                                                                                                                 |
+| 504 | 2월 24일        | 인생life        | 가비오따스                                            |                                                                                       |                                                                                                                                 |
+| 505 | 3월 3일         | 사람people      | '괴물'의 그림자                                        |                                                                                       |                                                                                                                                 |
+| 506 | 3월 3일         | 관계relation    | 두 사람 제 1부 독학자                                    | [종의 기원](../Page/종의_기원.md "wikilink")                                                  |                                                                                                                                 |
+| 507 | 3월 10일        | 지식knowledge   | 돈, 얼굴                                            | [화폐도안](../Page/돈.md "wikilink")                                                       |                                                                                                                                 |
+| 508 | 3월 10일        | 관계relation    | 두 사람 제 2부 원숭이 인간                                 |                                                                                       |                                                                                                                                 |
+| 509 | 3월 17일        | media 언론      | 삶의 기록자                                           | [안나 폴릿콥스카야](../Page/안나_폴릿콥스카야.md "wikilink")                                          |                                                                                                                                 |
+| 510 | 3월 17일        | 너머beyond      | 그것만이 내 세상                                        | [:en:Umwelt](https://ko.wikipedia.org/wiki/:en:Umwelt "wikilink")                     |                                                                                                                                 |
+| 511 | 3월 24일        | 인생life        | 그들이 달리는 이유                                       | [마라톤](../Page/마라톤.md "wikilink")                                                      |                                                                                                                                 |
+| 512 | 3월 24일        | 사회society     | 목숨값                                              | [:en:Stanley Williams](https://ko.wikipedia.org/wiki/:en:Stanley_Williams "wikilink") |                                                                                                                                 |
+| 513 | 3월 31일        | 자연nature      | 칩코의 여인들                                          | [:en:Chipko movement](https://ko.wikipedia.org/wiki/:en:Chipko_movement "wikilink")   |                                                                                                                                 |
+| 514 | 3월 31일        | 사회society     | 살아갈 권리                                           | [사북](../Page/사북역.md "wikilink")                                                       |                                                                                                                                 |
+| 515 | 4월 7일         | 문화culture     | 텔레비전                                             | [백남준](../Page/백남준.md "wikilink")                                                      |                                                                                                                                 |
+| 516 | 4월 7일         | 교육education   | 개나리 필 무렵                                         | [반값등록금](https://ko.wikipedia.org/wiki/반값등록금 "wikilink")                               |                                                                                                                                 |
+| 517 | 4월 14일        | 생존survive     | 물 좀 주소                                           | [가뭄](../Page/가뭄.md "wikilink")                                                        |                                                                                                                                 |
+| 518 | 4월 14일        | 사회society     | 위험한 거래                                           |                                                                                       |                                                                                                                                 |
+| 519 | 4월 21일        | 기억memory      | 인간의 점수                                           | [지능지수](https://ko.wikipedia.org/wiki/지능지수 "wikilink")                                 |                                                                                                                                 |
+| 520 | 4월 21일        | 환경environment | 의문의 실종                                           | [군집 붕괴 현상](https://ko.wikipedia.org/wiki/군집_붕괴_현상 "wikilink")                         |                                                                                                                                 |
+| 521 | 4월 28일        | 관계relation    | 후원자들                                             | [안토니 가우디](../Page/안토니_가우디.md "wikilink")                                              |                                                                                                                                 |
+| 522 | 4월 28일        | 건강health      | 조용한 싸움                                           | [면역](../Page/면역.md "wikilink")                                                        |                                                                                                                                 |
+| 523 | 5월 5일         | 어린이children   | 피리 부는 사나이                                        | [어린이](../Page/어린이.md "wikilink") [브랜드](../Page/브랜드.md "wikilink")                     |                                                                                                                                 |
+| 524 | 5월 5일         | hope희망        | SPEC UP\!                                        | [스펙](../Page/스펙.md "wikilink")                                                        |                                                                                                                                 |
+| 525 | 5월 12일        | 문화culture     | 추운 시절의 그림                                        | [김정희](../Page/김정희.md "wikilink") 《[세한도](../Page/김정희필_세한도.md "wikilink")》              |                                                                                                                                 |
+| 526 | 5월 12일        | 자연nature      | 너무 먹었나봐                                          | [식물](../Page/식물.md "wikilink") [독](../Page/독.md "wikilink")                           | [콜드플레이](../Page/콜드플레이.md "wikilink") - Lost                                                                                     |
+| 527 | 5월 19일        | 인간humane      | 목소리                                              | [성문](https://ko.wikipedia.org/wiki/성문 "wikilink")                                     | The real group - Run Run Run                                                                                                    |
+| 528 | 5월 19일        | 기억memory      | Summer of Love                                   | [히피](../Page/히피.md "wikilink")                                                        |                                                                                                                                 |
+| 529 | 5월 26일        | 삶live         | 그래, 아빠가 같이 놀아줄게                                  | [경제위기](../Page/경제위기.md "wikilink") [아버지](../Page/아버지.md "wikilink")                   |                                                                                                                                 |
+| 530 | 5월 26일        | 정체성identity   | 당신의 이름은 몇 개 입니까?                                 | [이름](../Page/이름.md "wikilink")                                                        |                                                                                                                                 |
+| 531 | 6월 2일         | 인생life        | 남겨진 논쟁                                           |                                                                                       |                                                                                                                                 |
+| 532 | 6월 2일         | 인간humane      | 비범한 사람들                                          |                                                                                       |                                                                                                                                 |
+| 533 | 6월 9일         | 사회society     | 소시오패스                                            |                                                                                       |                                                                                                                                 |
+| 534 | 6월 9일         | 지식knowledge   | 현명하게 길을 잃는 방법                                    |                                                                                       |                                                                                                                                 |
+| 535 | 6월 16일        | 기술technology  | 적절한 기술                                           |                                                                                       | [킨](https://ko.wikipedia.org/wiki/킨 "wikilink") - Sunshine                                                                      |
+| 536 | 6월 16일        | 수학mathematics | 1의 진화                                            |                                                                                       |                                                                                                                                 |
+| 537 | 6월 23일        | 사회society     | 환상통                                              |                                                                                       |                                                                                                                                 |
+| 538 | 6월 23일        | 인간humane      | 죽어야 산다                                           |                                                                                       |                                                                                                                                 |
+| 539 | 6월 30일        | 과학science     | 120년간의 기준                                        |                                                                                       |                                                                                                                                 |
+| 540 | 6월 30일        | 수학mathematics | 0의 진화                                            |                                                                                       |                                                                                                                                 |
+| 541 | 7월 7일         | 정체성identity   | 해피엔딩을 꿈꾸며                                        |                                                                                       | [디도](https://ko.wikipedia.org/wiki/디도 "wikilink") - Do You Have A Little Time                                                   |
+| 542 | 7월 7일         | 과학science     | 거기, 당신                                           |                                                                                       |                                                                                                                                 |
+| 543 | 7월 14일        | 정체성identity   | 신분증을 제시해주십시오                                     |                                                                                       |                                                                                                                                 |
+| 544 | 7월 14일        | 환경environment | 잠 못 드는 밤                                         |                                                                                       |                                                                                                                                 |
+| 545 | 7월 21일        | 삶live         | 아파트                                              |                                                                                       |                                                                                                                                 |
+| 546 | 7월 21일        | 사회society     | 골뱅이의 사생활                                         |                                                                                       |                                                                                                                                 |
+| 547 | 7월 28일        | 교육education   | 몸의 학교                                            |                                                                                       | [존 바에즈](../Page/존_바에즈.md "wikilink") - The River In The Pines,[디도](https://ko.wikipedia.org/wiki/디도 "wikilink") - Life For Rent |
+| 548 | 7월 28일        | 지식knowledge   | 부당하게 무시당한 물질                                     |                                                                                       |                                                                                                                                 |
+| 549 | 8월 4일         | 경제economy     | 어떤 장바구니                                          |                                                                                       |                                                                                                                                 |
+| 550 | 8월 4일         | 문학literature  | 아, 여행, 여행이여\!                                    |                                                                                       |                                                                                                                                 |
+| 551 | 8월 11일        | 자연nature      | 사람이 사라진 후                                        |                                                                                       |                                                                                                                                 |
+| 552 | 8월 11일        | 관계relation    | 물러설 수 없는 싸움                                      |                                                                                       |                                                                                                                                 |
+| 553 | 8월 18일        | 기억memory      | 나는 고기를 주우러 간다                                    |                                                                                       |                                                                                                                                 |
+| 554 | 8월 18일        | 사람people      | 조용한 자부심                                          |                                                                                       |                                                                                                                                 |
+| 555 | 8월 25일        | 인생life        | 시작행동백서                                           |                                                                                       |                                                                                                                                 |
+| 556 | 8월 25일        | 인간humane      | 산 좋고 물 좋은 곳                                      |                                                                                       |                                                                                                                                 |
+| 557 | 9월 1일         | 상상imagine     | e                                                |                                                                                       |                                                                                                                                 |
+| 558 | 9월 1일         | 삶live         | 아저씨의 대답                                          |                                                                                       |                                                                                                                                 |
+| 559 | 9월 8일         | 자연nature      | 딜레마                                              |                                                                                       |                                                                                                                                 |
+| 560 | 9월 8일         | 문화culture     | 고수가 되는 길                                         |                                                                                       |                                                                                                                                 |
+| 561 | 9월 15일        | 사회society     | 털                                                |                                                                                       |                                                                                                                                 |
+| 562 | 9월 15일        | 지식knowledge   | 보톡스                                              |                                                                                       |                                                                                                                                 |
+| 563 | 9월 29일        | 진실true        | 네 번째 묘                                           |                                                                                       | [뮤즈](https://ko.wikipedia.org/wiki/뮤즈 "wikilink") - Exogenesis: Symphony Part 3 (Redemption)                                    |
+| 564 | 9월 29일        | 사람people      | 어떤 외출                                            |                                                                                       |                                                                                                                                 |
+| 565 | 10월 6일        | 기술technology  | 대한민국 네티즌 1%                                      |                                                                                       |                                                                                                                                 |
+| 566 | 10월 6일        | 정체성identity   | 통일합시다\!                                          |                                                                                       | [파이브 포 파이팅](https://ko.wikipedia.org/wiki/파이브_포_파이팅 "wikilink") - Chances                                                       |
+| 567 | 10월 13일       | 환경environment | 플라스틱 아일랜드                                        |                                                                                       | [도브스](../Page/도스.md "wikilink") - Sea Song                                                                                      |
+| 568 | 10월 13일       | e야기           | 돼지의 일용할 야망                                       |                                                                                       |                                                                                                                                 |
+| 569 | 10월 20일       | 공간space       | 빵과 장미                                            |                                                                                       |                                                                                                                                 |
+| 570 | 10월 20일       | interview인터뷰  | 저는 북한 사람입니다                                      |                                                                                       |                                                                                                                                 |
+| 571 | 10월 27일       | 캐릭터character  | 떡장수 삼월이                                          |                                                                                       |                                                                                                                                 |
+| 572 | 10월 27일       | 너머beyond      | 산타모니카 3번가의 기적                                    |                                                                                       |                                                                                                                                 |
+| 573 | 11월 3일        | 과학science     | 우주에서 온 애플파이                                      |                                                                                       |                                                                                                                                 |
+| 574 | 11월 3일        | 문화culture     | 놀라운 능력                                           |                                                                                       |                                                                                                                                 |
+| 575 | 11월 10일       | 지구earth       | 달의 뒤편으로 간 남자                                     |                                                                                       |                                                                                                                                 |
+| 576 | 11월 10일       | 자연nature      | 세상에서 가장 빠른 새                                     |                                                                                       |                                                                                                                                 |
+| 577 | 11월 17일       | 진실true        | Elgin Excuse                                     |                                                                                       |                                                                                                                                 |
+| 578 | 11월 17일       | 정서emotion     | 플루포비아(flu-phobia)                                |                                                                                       |                                                                                                                                 |
+| 579 | 11월 24일       | 사회society     | 괴물전성시대                                           |                                                                                       |                                                                                                                                 |
+| 580 | 11월 24일       | 사람people      | 17년 8개월                                          |                                                                                       |                                                                                                                                 |
+| 581 | 12월 1일        | 교육education   | 핀란드의 실험 제1부 탈출구                                  |                                                                                       |                                                                                                                                 |
+| 582 | 12월 1일        | 생존survive     | 공룡 멸종에 관한 101가지 이론                               |                                                                                       |                                                                                                                                 |
+| 583 | 12월 8일        | 환경environment | 납                                                |                                                                                       |                                                                                                                                 |
+| 584 | 12월 8일        | 교육education   | 핀란드의 실험 제2부 더 많은 차별                              |                                                                                       |                                                                                                                                 |
+| 585 | 12월 15일       | 인생life        | 의사 [장기려](../Page/장기려.md "wikilink") 1부 성공의 길     |                                                                                       |                                                                                                                                 |
+| 586 | 12월 15일       | 상상imagine     | 작은 물방울들의 이름                                      |                                                                                       |                                                                                                                                 |
+| 587 | 12월 22일       | 정서emotion     | 빨강이 초록에게                                         |                                                                                       |                                                                                                                                 |
+| 588 | 12월 22일       | 인생life        | Is There a Santa Claus?                          |                                                                                       |                                                                                                                                 |
+| 589 | 12월 29일       | 관계relation    | 통(通)하다                                           |                                                                                       |                                                                                                                                 |
+| 590 | 12월 29일       | 인생life        | 의사 [장기려](../Page/장기려.md "wikilink") 2부 바보라 불린 의사 |                                                                                       | [앨리슨 크라우스](../Page/앨리슨_크라우스.md "wikilink") - The Lucky One                                                                      |
 
 ## 2010년
 
-| 회차  | 방영일           | 키워드           | 제목                                               | 참고항목                                                            | 삽입곡                                                                                                |
-| --- | ------------- | ------------- | ------------------------------------------------ | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 589 | 12월 29일       | 관계relation    | 통(通)하다                                           |                                                                 |                                                                                                    |
-| 590 | 12월 29일       | 인생life        | 의사 [장기려](../Page/장기려.md "wikilink") 2부 바보라 불린 의사 |                                                                 | [앨리슨 크라우스](../Page/앨리슨_크라우스.md "wikilink") - The Lucky One                                         |
-| 591 | 1월 5일         | 민주주의democracy | 어떤 임시직                                           |                                                                 |                                                                                                    |
-| 592 | 1월 5일         | 공간space       | 우리 집                                             |                                                                 |                                                                                                    |
-| 593 | 1월 12일        | 상상imagine     | 상식과 상상 1부 아주 작은 것들                               |                                                                 |                                                                                                    |
-| 594 | 1월 12일        | 문학literature  | 돈을 위해 펜을 들다                                      |                                                                 |                                                                                                    |
-| 595 | 1월 19일        | 꿈dream        | 레게, 평화를 꿈구다                                      |                                                                 |                                                                                                    |
-| 596 | 1월 19일        | 상상imagine     | 상식과 상상 2부 밖에 있는 것들                               |                                                                 |                                                                                                    |
-| 597 | 1월 26일        | 사람people      | 평범한 사람                                           |                                                                 |                                                                                                    |
-| 598 | 1월 26일        | 돈money        | ₩10,000,000                                      |                                                                 |                                                                                                    |
-| 599 | 2월 2일         | 지식knowledge   | 몇 가지 오류 1부                                       |                                                                 |                                                                                                    |
-| 600 | 2월 2일         | media 언론      | 공영방송                                             |                                                                 |                                                                                                    |
-| 601 | 2월 9일         | 인간humane      | 당신의 손이 두 개인 까닭                                   |                                                                 |                                                                                                    |
-| 602 | 2월 9일         | 삶live         | 지구의 청소부                                          |                                                                 |                                                                                                    |
-| 603 | 2월 16일        | 지식knowledge   | 몇 가지 오류 2부                                       |                                                                 |                                                                                                    |
-| 604 | 2월 16일        | 관계relation    | 여전히                                              |                                                                 |                                                                                                    |
-| 605 | 2월 23일        | 인간humane      | 비공식 세계신기록                                        | [일본군 위안부](https://ko.wikipedia.org/wiki/일본군_위안부 "wikilink")     |                                                                                                    |
-| 606 | 2월 23일        | 상상imagine     | 상식과 상상 3부 탈옥                                     |                                                                 |                                                                                                    |
-| 607 | 3월 2일         | 생존survive     | 헨리에타 랙스                                          |                                                                 |                                                                                                    |
-| 608 | 3월 2일         | 지구earth       | 살아있는 껍질                                          |                                                                 |                                                                                                    |
-| 609 | 3월 9일         | 자연nature      | 꽃의 기억                                            |                                                                 |                                                                                                    |
-| 610 | 3월 9일         | 정체성identity   | 수잔 발라동                                           |                                                                 |                                                                                                    |
-| 611 | 3월 16일        | 경제economy     | 위기에 대처하는 그들의 방법                                  |                                                                 |                                                                                                    |
-| 612 | 3월 16일        | 사회society     | 조선 땅을 웃게 하라                                      | [신불출](../Page/신불출.md "wikilink")                                |                                                                                                    |
-| 613 | 3월 23일        | 그 남자의 권리      |                                                  |                                                                 |                                                                                                    |
-| 614 | 3월 23일        | e야기           | 상식과 상상 제4부 - 스퀘어씨의 선생님                           |                                                                 |                                                                                                    |
-| 615 | 3월 30일        | 사람people      | 마지막 여행                                           |                                                                 |                                                                                                    |
-| 616 | 3월 30일        | 생존survive     | 인류 최후의 금고                                        |                                                                 |                                                                                                    |
-| 617 | 4월 6일         | 너머beyond      | 교수의 장난감                                          |                                                                 |                                                                                                    |
-| 618 | 4월 6일         | 자연nature      | 이빨이 계속 자라는 건축가                                   |                                                                 |                                                                                                    |
-| 619 | 4월 13일        | 돈money        | 채무왕                                              |                                                                 |                                                                                                    |
-| 620 | 4월 13일        | e야기           | 상식과 상상 5부 - 포인트랜드                                |                                                                 |                                                                                                    |
-| 621 | 4월 20일        | 사람people      | 우편번호 799-805, 1\~96번지                            | [독도](../Page/독도.md "wikilink")                                  | [양방언](../Page/양방언.md "wikilink") - 이름 없는 바람                                                        |
-| 622 | 4월 20일        | 문학literature  | 그 해 4월, 시인 김수영 1부                                |                                                                 | [보아](../Page/보아.md "wikilink") - 안개                                                                |
-| 623 | 4월 27일        | 인생life        | 희생자                                              | [천안함 침몰 사건](https://ko.wikipedia.org/wiki/천안함_침몰_사건 "wikilink") |                                                                                                    |
-| 624 | 4월 27일        | 문학literature  | 그 해 4월, 시인 김수영 2부                                |                                                                 | [학민](https://ko.wikipedia.org/wiki/학민사조 "wikilink")(Hacmin) - 바보아들 \#1                             |
-| 625 | 5월 4일         | 어린이children   | 오늘은 어린이날 우리들 세상                                  |                                                                 |                                                                                                    |
-| 626 | 5월 4일         | 지식knowledge   | 인간이 만든 구멍                                        |                                                                 | [월리스 버드](../Page/월리스와_그로밋.md "wikilink") - LaLaLand                                                |
-| 627 | 5월 11일        | 사회society     | 사람들이 왔다                                          |                                                                 |                                                                                                    |
-| 628 | 5월 11일        | 관계relation    | 루머의 공식                                           |                                                                 |                                                                                                    |
-| 629 | 5월 18일        | 사람people      | 못 배운 과학자                                         | Carolina Liar - Beautiful World                                 |                                                                                                    |
-| 630 | 5월 18일        | 기억memory      | 30주년                                             |                                                                 |                                                                                                    |
-| 631 | 5월 25일        | 민주주의democracy | 38,841,909명                                      | [유권자](https://ko.wikipedia.org/wiki/유권자 "wikilink")             | [록 스타 슈퍼노바](https://ko.wikipedia.org/wiki/록_스타 "wikilink") - Can't Bring Myself To Light This Fuse |
-| 632 | 5월 25일        | 상상imagine     | 놀이                                               |                                                                 |                                                                                                    |
-| 633 | 6월 1일         | 인생life        | 부베이 부베이                                          |                                                                 |                                                                                                    |
-| 634 | 6월 1일         | 지식knowledge   | 메리안, 변태하다                                        |                                                                 |                                                                                                    |
-| 635 | 6월 8일         | 인간humane      | Ke Nako\! Celebrate Africa's Humanity            | [남아공 월드컵](https://ko.wikipedia.org/wiki/남아공_월드컵 "wikilink")     |                                                                                                    |
-| 636 | 6월 8일         | 관계relation    | 군주론                                              |                                                                 | Lacrimosa - Seele In Not (Metus Mix)                                                               |
-| 637 | 6월 15일        | 사회society     | 아주 오래된 소원                                        |                                                                 |                                                                                                    |
-| 638 | 6월 15일        | 상상imagine     | 상식과 상상 6부- '당신'이란 기적에 대하여                        |                                                                 |                                                                                                    |
-| 639 | 6월 22일        | 기억memory      | 고무신                                              |                                                                 |                                                                                                    |
-| 640 | 6월 22일        | 관계relation    | 당신에게 일어날 수 있는 일                                  |                                                                 |                                                                                                    |
-| 641 | 6월 29일        | 사회society     | 12부 72조                                          |                                                                 |                                                                                                    |
-| 642 | 6월 29일        | 상상imagine     | 당신의 단위                                           |                                                                 |                                                                                                    |
-| 643 | 7월 6일         | 사람people      | 훌륭한 시민                                           |                                                                 |                                                                                                    |
-| 644 | 7월 6일         | 자연nature      | 나는 울지 못합니다                                       |                                                                 |                                                                                                    |
-| 645 | 7월 13일        | 민주주의democracy | 헌법 제1조                                           |                                                                 |                                                                                                    |
-| 646 | 7월 13일        | 관계relation    | Working Not Begging                              |                                                                 |                                                                                                    |
-| 647 | 7월 20일        | 교육education   | 만히 놀도록 하십시오                                      |                                                                 |                                                                                                    |
-| 648 | 7월 20일        | e야기           | A53a,사라지다                                        |                                                                 |                                                                                                    |
-| 649 | 7월 27일        | 경제economy     | 이웃 나라 이야기 1부 불패신화                                | [일본](../Page/일본.md "wikilink")                                  |                                                                                                    |
-| 650 | 7월 27일        | 문학literature  | 몹시 곤란한 동화책                                       |                                                                 |                                                                                                    |
-| 651 | 8월 3일         | 인간humane      | 삶은 계속되어야 한다                                      |                                                                 |                                                                                                    |
-| 652 | 8월 3일         | 사람people      | 감정,노동자                                           |                                                                 |                                                                                                    |
-| 653 | 8월 10일        | 경제economy     | 이웃 나라 이야기 2부 필패신화                                |                                                                 |                                                                                                    |
-| 654 | 8월 10일        | e야기           | 상식과 상상 7부- 목마른 자                                 |                                                                 |                                                                                                    |
-| 655 | 8월 17일        | 사람people      | 어느 중퇴생의 꿈                                        |                                                                 |                                                                                                    |
-| 656 | 8월 17일        | 삶live         | 슬픈 틈새                                            |                                                                 |                                                                                                    |
-| 657 | 8월 31일        | 인간humane      | Numbers 1부 사람의 수                                 |                                                                 |                                                                                                    |
-| 658 | 8월 31일        | 자연nature      | 언젠가 너를 만나고 싶었어                                   |                                                                 |                                                                                                    |
-| 659 | 9월 7일         | 인생life        | Numbers 2부 일상의 수                                 |                                                                 | [윌 스미스](../Page/윌_스미스.md "wikilink") - Here He Comes                                               |
-| 660 | 9월 7일         | 교육education   | 우린 거의 움직이지 않아요                                   |                                                                 |                                                                                                    |
-| 661 | 9월 14일        | 지식knowledge   | Numbers 3부 48분의 함정                               |                                                                 |                                                                                                    |
-| 662 | 9월 14일        | 사람people      | 히말라야 14좌                                         |                                                                 |                                                                                                    |
-| 663 | 9월 21일        | 영웅hero        | 초속 20cm                                          |                                                                 |                                                                                                    |
-| 664 | 9월 21일|9월 22일 | 경제economy     | 대한민국 점수 5.5                                      |                                                                 |                                                                                                    |
-| 665 | 9월 28일        | 사회society     | 얇은 시장(thin market)                               |                                                                 |                                                                                                    |
-| 666 | 9월 28일        | media 언론      | 익명의 시민                                           |                                                                 |                                                                                                    |
-| 667 | 10월 5일        | interview인터뷰  | 왕과의 인터뷰                                          |                                                                 |                                                                                                    |
-| 668 | 10월 5일        | 경제economy     | 부자(富者)부자(父子)                                     |                                                                 |                                                                                                    |
-| 669 | 10월 12일       | 사회society     | 반지하 표류기                                          |                                                                 |                                                                                                    |
-| 670 | 10월 12일       | 지식knowledge   | 마녀사냥                                             |                                                                 | Moby - Wait for Me,Endo - Simple Lies                                                              |
-| 671 | 10월 19일       | 인간humane      | 환상적인 실험 1부                                       |                                                                 |                                                                                                    |
-| 672 | 10월 19일       | 사람people      | 마에스트로                                            |                                                                 |                                                                                                    |
-| 673 | 10월 26일       | 인간humane      | 환상적인 실험 2부                                       |                                                                 |                                                                                                    |
-| 674 | 10월 26일       | 문화culture     | 입동 무렵                                            |                                                                 |                                                                                                    |
-| 675 | 11월 2일        | 교육education   | 훈맹정음                                             | [박두성](../Page/박두성.md "wikilink")                                | [빌 더글러스](../Page/더글러스.md "wikilink") - My Love is Like a Red, Red Rose                             |
-| 676 | 11월 2일        | media 언론      | 왕비의 초상화                                          |                                                                 |                                                                                                    |
-| 677 | 11월 9일        | 기억memory      | 평화시장 재단사                                         | [전태일](../Page/전태일.md "wikilink")                                |                                                                                                    |
-| 678 | 11월 9일        | 지식knowledge   | Chaebol                                          | [재벌](../Page/재벌.md "wikilink")                                  |                                                                                                    |
-| 679 | 11월 16일       | 어린이children   | 어린 망명객                                           |                                                                 |                                                                                                    |
-| 680 | 11월 16일       | 인생life        | 나 말고는 아무도 몰라요                                    |                                                                 |                                                                                                    |
-| 681 | 11월 23일       | 사람people      | 미스터 추                                            | [추신수](../Page/추신수.md "wikilink")                                | Yellowcard - Gifts And Curses                                                                      |
-| 682 | 11월 23일       | 사회society     | 88%                                              |                                                                 |                                                                                                    |
-| 683 | 11월 30일       | 돈money        | 마트의 탄생                                           |                                                                 |                                                                                                    |
-| 684 | 11월 30일       | 인간humane      | 모든 사람 1부 최소한의 목록                                 |                                                                 |                                                                                                    |
-| 685 | 12월 7일        | 지식knowledge   | 세잔의 모델                                           |                                                                 |                                                                                                    |
-| 686 | 12월 7일        | 인간humane      | 모든 사람 2부 차별의 발견                                  |                                                                 |                                                                                                    |
-| 687 | 12월 14일       | 지식knowledge   | 공병우 타자기                                          |                                                                 |                                                                                                    |
-| 688 | 12월 14일       | 기억memory      | 황금어장                                             |                                                                 |                                                                                                    |
-| 689 | 12월 21일       | 교육education   | 공짜밥                                              |                                                                 |                                                                                                    |
+| 회차  | 방영일           | 키워드           | 제목                                    | 참고항목                                                            | 삽입곡                                                                                                |
+| --- | ------------- | ------------- | ------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 591 | 1월 5일         | 민주주의democracy | 어떤 임시직                                |                                                                 |                                                                                                    |
+| 592 | 1월 5일         | 공간space       | 우리 집                                  |                                                                 |                                                                                                    |
+| 593 | 1월 12일        | 상상imagine     | 상식과 상상 1부 아주 작은 것들                    |                                                                 |                                                                                                    |
+| 594 | 1월 12일        | 문학literature  | 돈을 위해 펜을 들다                           |                                                                 |                                                                                                    |
+| 595 | 1월 19일        | 꿈dream        | 레게, 평화를 꿈구다                           |                                                                 |                                                                                                    |
+| 596 | 1월 19일        | 상상imagine     | 상식과 상상 2부 밖에 있는 것들                    |                                                                 |                                                                                                    |
+| 597 | 1월 26일        | 사람people      | 평범한 사람                                |                                                                 |                                                                                                    |
+| 598 | 1월 26일        | 돈money        | ₩10,000,000                           |                                                                 |                                                                                                    |
+| 599 | 2월 2일         | 지식knowledge   | 몇 가지 오류 1부                            |                                                                 |                                                                                                    |
+| 600 | 2월 2일         | media 언론      | 공영방송                                  |                                                                 |                                                                                                    |
+| 601 | 2월 9일         | 인간humane      | 당신의 손이 두 개인 까닭                        |                                                                 |                                                                                                    |
+| 602 | 2월 9일         | 삶live         | 지구의 청소부                               |                                                                 |                                                                                                    |
+| 603 | 2월 16일        | 지식knowledge   | 몇 가지 오류 2부                            |                                                                 |                                                                                                    |
+| 604 | 2월 16일        | 관계relation    | 여전히                                   |                                                                 |                                                                                                    |
+| 605 | 2월 23일        | 인간humane      | 비공식 세계신기록                             | [일본군 위안부](https://ko.wikipedia.org/wiki/일본군_위안부 "wikilink")     |                                                                                                    |
+| 606 | 2월 23일        | 상상imagine     | 상식과 상상 3부 탈옥                          |                                                                 |                                                                                                    |
+| 607 | 3월 2일         | 생존survive     | 헨리에타 랙스                               |                                                                 |                                                                                                    |
+| 608 | 3월 2일         | 지구earth       | 살아있는 껍질                               |                                                                 |                                                                                                    |
+| 609 | 3월 9일         | 자연nature      | 꽃의 기억                                 |                                                                 |                                                                                                    |
+| 610 | 3월 9일         | 정체성identity   | 수잔 발라동                                |                                                                 |                                                                                                    |
+| 611 | 3월 16일        | 경제economy     | 위기에 대처하는 그들의 방법                       |                                                                 |                                                                                                    |
+| 612 | 3월 16일        | 사회society     | 조선 땅을 웃게 하라                           | [신불출](../Page/신불출.md "wikilink")                                |                                                                                                    |
+| 613 | 3월 23일        | 그 남자의 권리      |                                       |                                                                 |                                                                                                    |
+| 614 | 3월 23일        | e야기           | 상식과 상상 제4부 - 스퀘어씨의 선생님                |                                                                 |                                                                                                    |
+| 615 | 3월 30일        | 사람people      | 마지막 여행                                |                                                                 |                                                                                                    |
+| 616 | 3월 30일        | 생존survive     | 인류 최후의 금고                             |                                                                 |                                                                                                    |
+| 617 | 4월 6일         | 너머beyond      | 교수의 장난감                               |                                                                 |                                                                                                    |
+| 618 | 4월 6일         | 자연nature      | 이빨이 계속 자라는 건축가                        |                                                                 |                                                                                                    |
+| 619 | 4월 13일        | 돈money        | 채무왕                                   |                                                                 |                                                                                                    |
+| 620 | 4월 13일        | e야기           | 상식과 상상 5부 - 포인트랜드                     |                                                                 |                                                                                                    |
+| 621 | 4월 20일        | 사람people      | 우편번호 799-805, 1\~96번지                 | [독도](../Page/독도.md "wikilink")                                  | [양방언](../Page/양방언.md "wikilink") - 이름 없는 바람                                                        |
+| 622 | 4월 20일        | 문학literature  | 그 해 4월, 시인 김수영 1부                     |                                                                 | [보아](../Page/보아.md "wikilink") - 안개                                                                |
+| 623 | 4월 27일        | 인생life        | 희생자                                   | [천안함 침몰 사건](https://ko.wikipedia.org/wiki/천안함_침몰_사건 "wikilink") |                                                                                                    |
+| 624 | 4월 27일        | 문학literature  | 그 해 4월, 시인 김수영 2부                     |                                                                 | [학민](https://ko.wikipedia.org/wiki/학민사조 "wikilink")(Hacmin) - 바보아들 \#1                             |
+| 625 | 5월 4일         | 어린이children   | 오늘은 어린이날 우리들 세상                       |                                                                 |                                                                                                    |
+| 626 | 5월 4일         | 지식knowledge   | 인간이 만든 구멍                             |                                                                 | [월리스 버드](../Page/월리스와_그로밋.md "wikilink") - LaLaLand                                                |
+| 627 | 5월 11일        | 사회society     | 사람들이 왔다                               |                                                                 |                                                                                                    |
+| 628 | 5월 11일        | 관계relation    | 루머의 공식                                |                                                                 |                                                                                                    |
+| 629 | 5월 18일        | 사람people      | 못 배운 과학자                              | Carolina Liar - Beautiful World                                 |                                                                                                    |
+| 630 | 5월 18일        | 기억memory      | 30주년                                  |                                                                 |                                                                                                    |
+| 631 | 5월 25일        | 민주주의democracy | 38,841,909명                           | [유권자](https://ko.wikipedia.org/wiki/유권자 "wikilink")             | [록 스타 슈퍼노바](https://ko.wikipedia.org/wiki/록_스타 "wikilink") - Can't Bring Myself To Light This Fuse |
+| 632 | 5월 25일        | 상상imagine     | 놀이                                    |                                                                 |                                                                                                    |
+| 633 | 6월 1일         | 인생life        | 부베이 부베이                               |                                                                 |                                                                                                    |
+| 634 | 6월 1일         | 지식knowledge   | 메리안, 변태하다                             |                                                                 |                                                                                                    |
+| 635 | 6월 8일         | 인간humane      | Ke Nako\! Celebrate Africa's Humanity | [남아공 월드컵](https://ko.wikipedia.org/wiki/남아공_월드컵 "wikilink")     |                                                                                                    |
+| 636 | 6월 8일         | 관계relation    | 군주론                                   |                                                                 | Lacrimosa - Seele In Not (Metus Mix)                                                               |
+| 637 | 6월 15일        | 사회society     | 아주 오래된 소원                             |                                                                 |                                                                                                    |
+| 638 | 6월 15일        | 상상imagine     | 상식과 상상 6부- '당신'이란 기적에 대하여             |                                                                 |                                                                                                    |
+| 639 | 6월 22일        | 기억memory      | 고무신                                   |                                                                 |                                                                                                    |
+| 640 | 6월 22일        | 관계relation    | 당신에게 일어날 수 있는 일                       |                                                                 |                                                                                                    |
+| 641 | 6월 29일        | 사회society     | 12부 72조                               |                                                                 |                                                                                                    |
+| 642 | 6월 29일        | 상상imagine     | 당신의 단위                                |                                                                 |                                                                                                    |
+| 643 | 7월 6일         | 사람people      | 훌륭한 시민                                |                                                                 |                                                                                                    |
+| 644 | 7월 6일         | 자연nature      | 나는 울지 못합니다                            |                                                                 |                                                                                                    |
+| 645 | 7월 13일        | 민주주의democracy | 헌법 제1조                                |                                                                 |                                                                                                    |
+| 646 | 7월 13일        | 관계relation    | Working Not Begging                   |                                                                 |                                                                                                    |
+| 647 | 7월 20일        | 교육education   | 만히 놀도록 하십시오                           |                                                                 |                                                                                                    |
+| 648 | 7월 20일        | e야기           | A53a,사라지다                             |                                                                 |                                                                                                    |
+| 649 | 7월 27일        | 경제economy     | 이웃 나라 이야기 1부 불패신화                     | [일본](../Page/일본.md "wikilink")                                  |                                                                                                    |
+| 650 | 7월 27일        | 문학literature  | 몹시 곤란한 동화책                            |                                                                 |                                                                                                    |
+| 651 | 8월 3일         | 인간humane      | 삶은 계속되어야 한다                           |                                                                 |                                                                                                    |
+| 652 | 8월 3일         | 사람people      | 감정,노동자                                |                                                                 |                                                                                                    |
+| 653 | 8월 10일        | 경제economy     | 이웃 나라 이야기 2부 필패신화                     |                                                                 |                                                                                                    |
+| 654 | 8월 10일        | e야기           | 상식과 상상 7부- 목마른 자                      |                                                                 |                                                                                                    |
+| 655 | 8월 17일        | 사람people      | 어느 중퇴생의 꿈                             |                                                                 |                                                                                                    |
+| 656 | 8월 17일        | 삶live         | 슬픈 틈새                                 |                                                                 |                                                                                                    |
+| 657 | 8월 31일        | 인간humane      | Numbers 1부 사람의 수                      |                                                                 |                                                                                                    |
+| 658 | 8월 31일        | 자연nature      | 언젠가 너를 만나고 싶었어                        |                                                                 |                                                                                                    |
+| 659 | 9월 7일         | 인생life        | Numbers 2부 일상의 수                      |                                                                 | [윌 스미스](../Page/윌_스미스.md "wikilink") - Here He Comes                                               |
+| 660 | 9월 7일         | 교육education   | 우린 거의 움직이지 않아요                        |                                                                 |                                                                                                    |
+| 661 | 9월 14일        | 지식knowledge   | Numbers 3부 48분의 함정                    |                                                                 |                                                                                                    |
+| 662 | 9월 14일        | 사람people      | 히말라야 14좌                              |                                                                 |                                                                                                    |
+| 663 | 9월 21일        | 영웅hero        | 초속 20cm                               |                                                                 |                                                                                                    |
+| 664 | 9월 21일|9월 22일 | 경제economy     | 대한민국 점수 5.5                           |                                                                 |                                                                                                    |
+| 665 | 9월 28일        | 사회society     | 얇은 시장(thin market)                    |                                                                 |                                                                                                    |
+| 666 | 9월 28일        | media 언론      | 익명의 시민                                |                                                                 |                                                                                                    |
+| 667 | 10월 5일        | interview인터뷰  | 왕과의 인터뷰                               |                                                                 |                                                                                                    |
+| 668 | 10월 5일        | 경제economy     | 부자(富者)부자(父子)                          |                                                                 |                                                                                                    |
+| 669 | 10월 12일       | 사회society     | 반지하 표류기                               |                                                                 |                                                                                                    |
+| 670 | 10월 12일       | 지식knowledge   | 마녀사냥                                  |                                                                 | Moby - Wait for Me,Endo - Simple Lies                                                              |
+| 671 | 10월 19일       | 인간humane      | 환상적인 실험 1부                            |                                                                 |                                                                                                    |
+| 672 | 10월 19일       | 사람people      | 마에스트로                                 |                                                                 |                                                                                                    |
+| 673 | 10월 26일       | 인간humane      | 환상적인 실험 2부                            |                                                                 |                                                                                                    |
+| 674 | 10월 26일       | 문화culture     | 입동 무렵                                 |                                                                 |                                                                                                    |
+| 675 | 11월 2일        | 교육education   | 훈맹정음                                  | [박두성](../Page/박두성.md "wikilink")                                | [빌 더글러스](../Page/더글러스.md "wikilink") - My Love is Like a Red, Red Rose                             |
+| 676 | 11월 2일        | media 언론      | 왕비의 초상화                               |                                                                 |                                                                                                    |
+| 677 | 11월 9일        | 기억memory      | 평화시장 재단사                              | [전태일](../Page/전태일.md "wikilink")                                |                                                                                                    |
+| 678 | 11월 9일        | 지식knowledge   | Chaebol                               | [재벌](../Page/재벌.md "wikilink")                                  |                                                                                                    |
+| 679 | 11월 16일       | 어린이children   | 어린 망명객                                |                                                                 |                                                                                                    |
+| 680 | 11월 16일       | 인생life        | 나 말고는 아무도 몰라요                         |                                                                 |                                                                                                    |
+| 681 | 11월 23일       | 사람people      | 미스터 추                                 | [추신수](../Page/추신수.md "wikilink")                                | Yellowcard - Gifts And Curses                                                                      |
+| 682 | 11월 23일       | 사회society     | 88%                                   |                                                                 |                                                                                                    |
+| 683 | 11월 30일       | 돈money        | 마트의 탄생                                |                                                                 |                                                                                                    |
+| 684 | 11월 30일       | 인간humane      | 모든 사람 1부 최소한의 목록                      |                                                                 |                                                                                                    |
+| 685 | 12월 7일        | 지식knowledge   | 세잔의 모델                                |                                                                 |                                                                                                    |
+| 686 | 12월 7일        | 인간humane      | 모든 사람 2부 차별의 발견                       |                                                                 |                                                                                                    |
+| 687 | 12월 14일       | 지식knowledge   | 공병우 타자기                               |                                                                 |                                                                                                    |
+| 688 | 12월 14일       | 기억memory      | 황금어장                                  |                                                                 |                                                                                                    |
+| 689 | 12월 21일       | 교육education   | 공짜밥                                   |                                                                 |                                                                                                    |
+| 690 | 12월 28일       | 너머beyond      | 어떤 성직자들 1부                            |                                                                 |                                                                                                    |
+| 691 | 12월 28일       | 자연nature      | 두루미의 휴게소                              |                                                                 |                                                                                                    |
 
 ## 2011년
 
@@ -4180,22 +4182,6 @@
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><p>690</p></td>
-<td><p>12월 28일</p></td>
-<td><p>너머beyond</p></td>
-<td><p>어떤 성직자들 1부</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>691</p></td>
-<td><p>12월 28일</p></td>
-<td><p>자연nature</p></td>
-<td><p>두루미의 휴게소</p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>692</p></td>
 <td><p>1월 4일</p></td>
@@ -4981,9 +4967,25 @@ A Friend in London - New Tomorrow<br />
 </tr>
 <tr class="even">
 <td><p>791</p></td>
-<td><p>12월 28일</p></td>
+<td><p>12월 20일</p></td>
 <td><p>생존surviv<strong>e</strong></p></td>
 <td><p>거룩한 기도</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>792</p></td>
+<td><p>12월 27일</p></td>
+<td><p>게스트gu<strong>e</strong>st</p></td>
+<td><p>우리들의 2011년</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>793</p></td>
+<td><p>12월 27일</p></td>
+<td><p>꿈dr<strong>e</strong>am</p></td>
+<td><p>새로 고침</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5004,22 +5006,6 @@ A Friend in London - New Tomorrow<br />
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><p>792</p></td>
-<td><p>12월 27일</p></td>
-<td><p>게스트gu<strong>e</strong>st</p></td>
-<td><p>우리들의 2011년</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>793</p></td>
-<td><p>12월 27일</p></td>
-<td><p>꿈dr<strong>e</strong>am</p></td>
-<td><p>새로 고침</p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>794</p></td>
 <td><p>1월 3일</p></td>
@@ -7637,6 +7623,9 @@ A Friend in London - New Tomorrow<br />
 | 1227 | 12월 23일 | 관점vi**e**w,경제 시리즈                  | 경제 시리즈 시즌3 - 17부 이상한 나라의 경제학자                               |                                                                                              |                                                                                                                                                                                                                                 |
 | 1228 | 12월 24일 | 순간mom**e**nt                       | 연말 시상식                                                      |                                                                                              |                                                                                                                                                                                                                                 |
 | 1229 | 12월 25일 | 게스트gu**e**st                       | 내숭 이야기                                                      | [김현정 (화가)](../Page/김현정_\(화가\).md "wikilink")                                                 |                                                                                                                                                                                                                                 |
+| 1230 | 12월 30일 | 경제**e**conomy,경제 시리즈               | 경제 시리즈 시즌3 - 18부 행복 계산법                                     |                                                                                              |                                                                                                                                                                                                                                 |
+| 1231 | 12월 31일 | 지식knowledg**e**                    | 감정의 시대                                                      |                                                                                              |                                                                                                                                                                                                                                 |
+| 1232 | 1월 1일   | 게스트gu**e**st                       | 우리들의 2014년                                                  | |                                                                                            |                                                                                                                                                                                                                                 |
 
 ## 2015년
 
@@ -7653,30 +7642,6 @@ A Friend in London - New Tomorrow<br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1230</p></td>
-<td><p>12월 30일</p></td>
-<td><p>경제<strong>e</strong>conomy,경제 시리즈</p></td>
-<td><p>경제 시리즈 시즌3 - 18부 행복 계산법</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1231</p></td>
-<td><p>12월 31일</p></td>
-<td><p>지식knowledg<strong>e</strong></p></td>
-<td><p>감정의 시대</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>1232</p></td>
-<td><p>1월 1일</p></td>
-<td><p>게스트gu<strong>e</strong>st</p></td>
-<td><p>우리들의 2014년</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>1233</p></td>
 <td><p>1월 6일</p></td>
 <td><p>인생lif<strong>e</strong>,경제 시리즈</p></td>
@@ -7684,7 +7649,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1234</p></td>
 <td><p>1월 7일</p></td>
 <td><p>hop<strong>e</strong>희망</p></td>
@@ -7692,7 +7657,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1235</p></td>
 <td><p>1월 8일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
@@ -7700,7 +7665,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="../Page/유한양행.md" title="wikilink">유한양행</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1236</p></td>
 <td><p>1월 13일</p></td>
 <td><p>너머b<strong>e</strong>yond,경제 시리즈</p></td>
@@ -7708,7 +7673,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1237</p></td>
 <td><p>1월 14일</p></td>
 <td><p>문화cultur<strong>e</strong></p></td>
@@ -7716,7 +7681,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1238</p></td>
 <td><p>1월 15일</p></td>
 <td><p>삶liv<strong>e</strong></p></td>
@@ -7724,7 +7689,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1239</p></td>
 <td><p>1월 20일</p></td>
 <td><p>hop<strong>e</strong>희망,경제 시리즈</p></td>
@@ -7732,7 +7697,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1240<br />
 1241</p></td>
 <td><p>1월 21일<br />
@@ -7742,7 +7707,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1242</p></td>
 <td><p>1월 27일</p></td>
 <td><p>생각id<strong>e</strong>a,경제 시리즈</p></td>
@@ -7750,7 +7715,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1243</p></td>
 <td><p>1월 29일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
@@ -7758,7 +7723,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1244</p></td>
 <td><p>2월 3일</p></td>
 <td><p>성공succ<strong>e</strong>ss,경제 시리즈</p></td>
@@ -7766,7 +7731,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1245</p></td>
 <td><p>2월 4일</p></td>
 <td><p>진실tru<strong>e</strong></p></td>
@@ -7774,7 +7739,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1246</p></td>
 <td><p>2월 5일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
@@ -7782,7 +7747,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1247</p></td>
 <td><p>2월 10일</p></td>
 <td><p>경제<strong>e</strong>conomy,경제 시리즈</p></td>
@@ -7790,7 +7755,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1248</p></td>
 <td><p>2월 11일</p></td>
 <td><p>공간spac<strong>e</strong></p></td>
@@ -7798,7 +7763,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1249</p></td>
 <td><p>2월 12일</p></td>
 <td><p>진실tru<strong>e</strong></p></td>
@@ -7806,7 +7771,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1250</p></td>
 <td><p>2월 17일</p></td>
 <td><p>경제<strong>e</strong>conomy,경제 시리즈</p></td>
@@ -7814,7 +7779,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1251</p></td>
 <td><p>2월 18일</p></td>
 <td><p>e야기</p></td>
@@ -7822,7 +7787,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1252</p></td>
 <td><p>2월 19일</p></td>
 <td><p>민주주의d<strong>e</strong>mocracy</p></td>
@@ -7830,7 +7795,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1253</p></td>
 <td><p>2월 24일</p></td>
 <td><p>경제<strong>e</strong>conomy,경제 시리즈</p></td>
@@ -7838,7 +7803,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1254<br />
 1255</p></td>
 <td><p>2월 25일<br />
@@ -7848,7 +7813,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1256</p></td>
 <td><p>3월 4일</p></td>
 <td><p>어린이childr<strong>e</strong>n</p></td>
@@ -7856,7 +7821,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1257</p></td>
 <td><p>3월 5일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
@@ -7864,7 +7829,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="../Page/베아트릭스_포터.md" title="wikilink">베아트릭스 포터</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1258</p></td>
 <td><p>3월 11일</p></td>
 <td><p>사람peopl<strong>e</strong></p></td>
@@ -7872,7 +7837,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="../Page/박지선.md" title="wikilink">박지선</a><a href="https://ko.wikipedia.org/wiki/," title="wikilink">,</a><a href="https://ko.wikipedia.org/wiki/개콘" title="wikilink">개콘</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1259</p></td>
 <td><p>3월 12일</p></td>
 <td><p>뮤직비디오music vid<strong>e</strong>o</p></td>
@@ -7880,7 +7845,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1260</p></td>
 <td><p>3월 18일</p></td>
 <td><p>과학sci<strong>e</strong>nce</p></td>
@@ -7888,7 +7853,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1261</p></td>
 <td><p>3월 19일</p></td>
 <td><p>지식knowledg<strong>e</strong></p></td>
@@ -7896,7 +7861,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1262</p></td>
 <td><p>3월 25일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
@@ -7904,7 +7869,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1263</p></td>
 <td><p>3월 26일</p></td>
 <td><p>정서<strong>e</strong>motion</p></td>
@@ -7912,7 +7877,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1264</p></td>
 <td><p>4월 1일</p></td>
 <td><p>사랑lov<strong>e</strong></p></td>
@@ -7920,7 +7885,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="../Page/기형도.md" title="wikilink">기형도</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1265</p></td>
 <td><p>4월 2일</p></td>
 <td><p>상상imagin<strong>e</strong></p></td>
@@ -7928,7 +7893,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1266</p></td>
 <td><p>4월 8일</p></td>
 <td><p>문학literatur<strong>e</strong></p></td>
@@ -7936,7 +7901,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1267</p></td>
 <td><p>4월 9일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
@@ -7944,7 +7909,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1268</p></td>
 <td><p>4월 15일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
@@ -7952,7 +7917,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1269</p></td>
 <td><p>4월 16일</p></td>
 <td><p>순간mom<strong>e</strong>nt</p></td>
@@ -7960,7 +7925,7 @@ A Friend in London - New Tomorrow<br />
 <td><p>(1142)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1270</p></td>
 <td><p>4월 22일</p></td>
 <td><p>진실tru<strong>e</strong></p></td>
@@ -7968,7 +7933,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1271</p></td>
 <td><p>4월 23일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
@@ -7976,7 +7941,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/슈만" title="wikilink">슈만</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1272</p></td>
 <td><p>4월 29일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
@@ -7984,7 +7949,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1273</p></td>
 <td><p>4월 30일</p></td>
 <td><p>경제<strong>e</strong>conomy</p></td>
@@ -7992,7 +7957,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1274</p></td>
 <td><p>5월 6일</p></td>
 <td><p>사람peopl<strong>e</strong></p></td>
@@ -8000,7 +7965,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/피터_팬" title="wikilink">밤12시에 방송(5.6)</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1275</p></td>
 <td><p>5월 7일</p></td>
 <td><p>민주주의d<strong>e</strong>mocracy</p></td>
@@ -8008,7 +7973,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1276</p></td>
 <td><p>5월 13일</p></td>
 <td><p>인간human<strong>e</strong></p></td>
@@ -8016,7 +7981,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1277</p></td>
 <td><p>5월 14일</p></td>
 <td><p>공간spac<strong>e</strong></p></td>
@@ -8024,7 +7989,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1278</p></td>
 <td><p>5월 20일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
@@ -8032,7 +7997,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1279</p></td>
 <td><p>5월 21일</p></td>
 <td><p>삶liv<strong>e</strong></p></td>
@@ -8040,7 +8005,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1280</p></td>
 <td><p>5월 27일</p></td>
 <td><p>사람peopl<strong>e</strong></p></td>
@@ -8048,7 +8013,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="../Page/윤석중.md" title="wikilink">윤석중</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1281</p></td>
 <td><p>5월 28일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
@@ -8056,7 +8021,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1282</p></td>
 <td><p>6월 3일</p></td>
 <td><p>교육<strong>e</strong>ducation</p></td>
@@ -8064,7 +8029,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1283</p></td>
 <td><p>6월 4일</p></td>
 <td><p>문학lit<strong>e</strong>rature</p></td>
@@ -8072,7 +8037,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="../Page/황순원.md" title="wikilink">황순원</a>,<a href="../Page/소나기.md" title="wikilink">소나기</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1284</p></td>
 <td><p>6월 10일</p></td>
 <td><p>이상한 선생님의 국어 시간</p></td>
@@ -8080,7 +8045,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1285</p></td>
 <td><p>6월 11일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
@@ -8088,7 +8053,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1286</p></td>
 <td><p>6월 17일</p></td>
 <td><p>hop<strong>e</strong>희망</p></td>
@@ -8096,7 +8061,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1287</p></td>
 <td><p>6월 18일</p></td>
 <td><p>지식knowledg<strong>e</strong></p></td>
@@ -8104,7 +8069,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1288</p></td>
 <td><p>6월 24일</p></td>
 <td><p>기념일anniv<strong>e</strong>rsary</p></td>
@@ -8112,7 +8077,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1289</p></td>
 <td><p>6월 25일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
@@ -8120,7 +8085,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1290</p></td>
 <td><p>7월 1일</p></td>
 <td><p>순간mom<strong>e</strong>nt</p></td>
@@ -8128,7 +8093,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1291</p></td>
 <td><p>7월 2일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
@@ -8136,7 +8101,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1292</p></td>
 <td><p>7월 8일</p></td>
 <td><p>인간human<strong>e</strong></p></td>
@@ -8144,7 +8109,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1293</p></td>
 <td><p>7월 9일</p></td>
 <td><p>생존surviv<strong>e</strong></p></td>
@@ -8152,7 +8117,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1294</p></td>
 <td><p>7월 15일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
@@ -8160,7 +8125,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1295</p></td>
 <td><p>7월 16일</p></td>
 <td><p>e야기</p></td>
@@ -8168,7 +8133,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1296</p></td>
 <td><p>7월 22일</p></td>
 <td><p>공간spac<strong>e</strong></p></td>
@@ -8176,7 +8141,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/활인서" title="wikilink">활인서</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1297</p></td>
 <td><p>7월 23일</p></td>
 <td><p>정체성id<strong>e</strong>ntity</p></td>
@@ -8184,7 +8149,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/픽토그램" title="wikilink">픽토그램</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1298</p></td>
 <td><p>7월 29일</p></td>
 <td><p>진실tru<strong>e</strong></p></td>
@@ -8192,7 +8157,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="../Page/로맹_가리.md" title="wikilink">로맹 가리</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1299</p></td>
 <td><p>7월 30일</p></td>
 <td><p>꿈dr<strong>e</strong>am</p></td>
@@ -8200,7 +8165,7 @@ A Friend in London - New Tomorrow<br />
 <td><p>(1142)</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1300</p></td>
 <td><p>8월 5일</p></td>
 <td><p>e야기</p></td>
@@ -8208,7 +8173,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1301</p></td>
 <td><p>8월 6일</p></td>
 <td><p>정체성id<strong>e</strong>ntity</p></td>
@@ -8216,7 +8181,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1302</p></td>
 <td><p>8월 12일</p></td>
 <td><p>예고편pr<strong>e</strong>view</p></td>
@@ -8224,7 +8189,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/EIDF" title="wikilink">EIDF</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1303</p></td>
 <td><p>8월 13일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
@@ -8232,7 +8197,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1304</p></td>
 <td><p>8월 19일</p></td>
 <td><p>예고편pr<strong>e</strong>view</p></td>
@@ -8240,7 +8205,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/EIDF" title="wikilink">EIDF</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1305</p></td>
 <td><p>8월 20일</p></td>
 <td><p>관계r<strong>e</strong>lation</p></td>
@@ -8248,7 +8213,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1306</p></td>
 <td><p>9월 2일</p></td>
 <td><p>기념일anniv<strong>e</strong>rsary</p></td>
@@ -8256,7 +8221,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1307</p></td>
 <td><p>9월 3일</p></td>
 <td><p>시청자를 찾습니다</p></td>
@@ -8264,7 +8229,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1308</p></td>
 <td><p>9월 9일</p></td>
 <td><p>예고편pr<strong>e</strong>view</p></td>
@@ -8272,7 +8237,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1309<br />
 1310</p></td>
 <td><p>9월 10일<br />
@@ -8282,7 +8247,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1311</p></td>
 <td><p>9월 17일</p></td>
 <td><p>관점vi<strong>e</strong>w</p></td>
@@ -8290,7 +8255,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1312</p></td>
 <td><p>9월 23일</p></td>
 <td><p>자연natur<strong>e</strong></p></td>
@@ -8298,7 +8263,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1313</p></td>
 <td><p>9월 24일</p></td>
 <td><p>생존surviv<strong>e</strong></p></td>
@@ -8306,7 +8271,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1314</p></td>
 <td><p>9월 30일</p></td>
 <td><p>리메이크r<strong>e</strong>make</p></td>
@@ -8314,7 +8279,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1315</p></td>
 <td><p>10월 1일</p></td>
 <td><p>교육<strong>e</strong>ducation</p></td>
@@ -8322,7 +8287,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/톨스토이" title="wikilink">톨스토이</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1316</p></td>
 <td><p>10월 7일</p></td>
 <td><p>정서<strong>e</strong>motion</p></td>
@@ -8330,7 +8295,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/:en:Maternity_package" title="wikilink">머테리티 패키지</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1317</p></td>
 <td><p>10월 8일</p></td>
 <td><p>인간human<strong>e</strong></p></td>
@@ -8338,7 +8303,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1318</p></td>
 <td><p>10월 14일</p></td>
 <td><p>문학lit<strong>e</strong>rature</p></td>
@@ -8346,7 +8311,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="../Page/김소월.md" title="wikilink">김소월</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1319</p></td>
 <td><p>10월 15일</p></td>
 <td><p>기억m<strong>e</strong>mory</p></td>
@@ -8354,7 +8319,7 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="../Page/김유정_(소설가).md" title="wikilink">김유정 (소설가)</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1320</p></td>
 <td><p>10월 21일</p></td>
 <td><p>리메이크r<strong>e</strong>make</p></td>
@@ -8362,7 +8327,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1321</p></td>
 <td><p>10월 22일</p></td>
 <td><p>과학sci<strong>e</strong>nce</p></td>
@@ -8370,7 +8335,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1322</p></td>
 <td><p>10월 27일</p></td>
 <td><p>진실tru<strong>e</strong></p></td>
@@ -8378,7 +8343,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1323</p></td>
 <td><p>10월 28일</p></td>
 <td><p>게스트gu<strong>e</strong>st</p></td>
@@ -8386,7 +8351,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1324</p></td>
 <td><p>11월 3일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
@@ -8394,7 +8359,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1325</p></td>
 <td><p>11월 4일</p></td>
 <td><p>삶liv<strong>e</strong></p></td>
@@ -8402,7 +8367,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1326</p></td>
 <td><p>11월 12일</p></td>
 <td><p>경제<strong>e</strong>conomy</p></td>
@@ -8410,7 +8375,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1327</p></td>
 <td><p>11월 18일</p></td>
 <td><p>진실tru<strong>e</strong></p></td>
@@ -8418,7 +8383,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1328</p></td>
 <td><p>11월 19일</p></td>
 <td><p>사회soci<strong>e</strong>ty</p></td>
@@ -8426,7 +8391,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1329</p></td>
 <td><p>11월 25일</p></td>
 <td><p>진실tru<strong>e</strong></p></td>
@@ -8434,7 +8399,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1330</p></td>
 <td><p>11월 26일</p></td>
 <td><p>환경<strong>e</strong>nvironment</p></td>
@@ -8442,7 +8407,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1331</p></td>
 <td><p>12월 2일</p></td>
 <td><p>교육<strong>e</strong>ducation</p></td>
@@ -8450,7 +8415,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1332</p></td>
 <td><p>12월 3일</p></td>
 <td><p>공부하는 가족</p></td>
@@ -8458,7 +8423,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1333</p></td>
 <td><p>12월 9일</p></td>
 <td><p>사람peopl<strong>e</strong></p></td>
@@ -8466,7 +8431,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1334</p></td>
 <td><p>12월 10일</p></td>
 <td><p>생각id<strong>e</strong>a</p></td>
@@ -8474,7 +8439,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1335</p></td>
 <td><p>12월 16일</p></td>
 <td><p>너머b<strong>e</strong>yond</p></td>
@@ -8482,7 +8447,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1336</p></td>
 <td><p>12월 17일</p></td>
 <td><p>교육<strong>e</strong>ducation</p></td>
@@ -8490,7 +8455,7 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1337</p></td>
 <td><p>12월 23일</p></td>
 <td><p>성공succ<strong>e</strong>ss</p></td>
@@ -8498,11 +8463,27 @@ A Friend in London - New Tomorrow<br />
 <td><p><a href="https://ko.wikipedia.org/wiki/루이스_피구" title="wikilink">루이스 세브란스</a><a href="https://ko.wikipedia.org/wiki/," title="wikilink">,</a><a href="../Page/연세대학교_의료원.md" title="wikilink">연세대학교 의료원</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1338</p></td>
 <td><p>12월 24일</p></td>
 <td><p>꿈dr<strong>e</strong>am</p></td>
 <td><p>훌륭한 그대의 땅</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1339</p></td>
+<td><p>12월 30일</p></td>
+<td><p>언어languag<strong>e</strong></p></td>
+<td><p>말줄임표 사용법</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1340</p></td>
+<td><p>12월 31일</p></td>
+<td><p>순간mom<strong>e</strong>nt</p></td>
+<td><p>다른 세상의 달</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -8523,22 +8504,6 @@ A Friend in London - New Tomorrow<br />
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><p>1339</p></td>
-<td><p>12월 30일</p></td>
-<td><p>언어languag<strong>e</strong></p></td>
-<td><p>말줄임표 사용법</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1340</p></td>
-<td><p>12월 31일</p></td>
-<td><p>순간mom<strong>e</strong>nt</p></td>
-<td><p>다른 세상의 달</p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>1341</p></td>
 <td><p>1월 6일</p></td>
@@ -9313,6 +9278,22 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>1440</p></td>
+<td><p>12월 27일</p></td>
+<td><p>너머b<strong>e</strong>yond</p></td>
+<td><p>진실 이후의 세계</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1441</p></td>
+<td><p>12월 28일</p></td>
+<td><p>교육<strong>e</strong>ducation</p></td>
+<td><p>5초 감옥</p></td>
+<td><p><a href="../Page/사이버_폭력.md" title="wikilink">사이버 폭력</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -9330,22 +9311,6 @@ A Friend in London - New Tomorrow<br />
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><p>1440</p></td>
-<td><p>12월 27일</p></td>
-<td><p>너머b<strong>e</strong>yond</p></td>
-<td><p>진실 이후의 세계</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1441</p></td>
-<td><p>12월 28일</p></td>
-<td><p>교육<strong>e</strong>ducation</p></td>
-<td><p>5초 감옥</p></td>
-<td><p><a href="../Page/사이버_폭력.md" title="wikilink">사이버 폭력</a></p></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>1442</p></td>
 <td><p>1월 3일</p></td>
@@ -10125,6 +10090,22 @@ A Friend in London - New Tomorrow<br />
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>1540</p></td>
+<td><p>12월 28일</p></td>
+<td><p>너머b<strong>e</strong>yond</p></td>
+<td><p>모두를 위한 올림픽</p></td>
+<td><p><a href="../Page/패럴림픽.md" title="wikilink">패럴림픽</a> ,<a href="../Page/2018년_동계_패럴림픽.md" title="wikilink">2018년 동계 패럴림픽</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1541</p></td>
+<td><p>12월 29일</p></td>
+<td><p>나는 국가대표입니다</p></td>
+<td><p><a href="../Page/대한장애인체육회.md" title="wikilink">대한장애인체육회</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -10142,22 +10123,6 @@ A Friend in London - New Tomorrow<br />
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><p>1540</p></td>
-<td><p>12월 28일</p></td>
-<td><p>너머b<strong>e</strong>yond</p></td>
-<td><p>모두를 위한 올림픽</p></td>
-<td><p><a href="../Page/패럴림픽.md" title="wikilink">패럴림픽</a> ,<a href="../Page/2018년_동계_패럴림픽.md" title="wikilink">2018년 동계 패럴림픽</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>1541</p></td>
-<td><p>12월 29일</p></td>
-<td><p>나는 국가대표입니다</p></td>
-<td><p><a href="../Page/대한장애인체육회.md" title="wikilink">대한장애인체육회</a></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td><p>1542<br />
 1543</p></td>
@@ -12665,8 +12630,7 @@ m<strong>e</strong>dia 언론<br />
 2100<br />
 2101</p></td>
 <td><p>5월 8일</p></td>
-<td><p>새로움ren<strong>e</strong>w<br />
-사회soci<strong>e</strong>ty<br />
+<td><p>문학literature<br />
 자연nature</p></td>
 <td><p>아무도 모르는 탐험가<br />
 상냥하고 흉악한<br />
@@ -12752,7 +12716,7 @@ m<strong>e</strong>dia 언론<br />
 <td><p>고슴도치의 사회적 거리두기<br />
 빠른 손절이 답<br />
 참을 수 없는 간편함<br />
-시간 여행<br />
+시간 여행을 떠나는 방법<br />
 소년의 시간</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/밀_키트" title="wikilink">밀 키트</a></p></td>
 <td></td>
@@ -12766,8 +12730,8 @@ m<strong>e</strong>dia 언론<br />
 <td><p>5월 20일</p></td>
 <td><p>환경environment<br />
 사회soci<strong>e</strong>ty<br />
-인간humane<br />
 경제economy<br />
+인간humane<br />
 삶live</p></td>
 <td><p>[코로나 단상] 나는 사라질 것입니다<br />
 [코로나 단상] 바이러스가 쏘아 올린 일상론日常論<br />
@@ -12852,10 +12816,9 @@ m<strong>e</strong>dia 언론</p></td>
 2152</p></td>
 <td><p>5월 28일</p></td>
 <td><p>과학sci<strong>e</strong>nce<br />
-생존survive<br />
 기술t<strong>e</strong>chnology<br />
 자연nature<br />
-수학mathematics</p></td>
+기술t<strong>e</strong>chnology</p></td>
 <td><p>춤추는 과학자들<br />
 모든 접촉은 흔적을 남긴다<br />
 당신 얼굴?<br />
@@ -12923,9 +12886,9 @@ m<strong>e</strong>dia 언론</p></td>
 2172<br />
 2173</p></td>
 <td><p>6월 4일</p></td>
-<td><p>과학sci<strong>e</strong>nce<br />
-자연nature<br />
+<td><p>자연nature<br />
 환경environment<br />
+과학sci<strong>e</strong>nce<br />
 지구earth<br />
 건강h<strong>e</strong>alth</p></td>
 <td><p>흰개미집을 닮은 건물<br />
@@ -13548,7 +13511,7 @@ www. 그 후 30년<br />
 <td><p>8월 11일</p></td>
 <td><p>영웅h<strong>e</strong>ro<br />
 새로움ren<strong>e</strong>w<br />
-e야기</p></td>
+문화유산heritage</p></td>
 <td><p>다다를 수 없는 나라<br />
 파란 책 속에 묻혀 있는 여성<br />
 흐려진 꼬레아노를 찾아서<br />
@@ -13585,6 +13548,7 @@ e야기</p></td>
 <td><p>영웅h<strong>e</strong>ro<br />
 과학sci<strong>e</strong>nce<br />
 영웅h<strong>e</strong>ro<br />
+과학sci<strong>e</strong>nce<br />
 기술t<strong>e</strong>chnology</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/이상룡" title="wikilink">이상룡</a>의 마지막 유언<br />
 고기를 맛있게 굽는 방법<br />
@@ -13696,8 +13660,7 @@ e야기</p></td>
 <a href="../Page/이상_(작가).md" title="wikilink">이상 (작가)</a> 혹은 김해경</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/비키니_환초" title="wikilink">비키니 환초</a><br />
 <a href="../Page/김만덕.md" title="wikilink">김만덕</a><br />
-<a href="../Page/소크라테스.md" title="wikilink">소크라테스</a><br />
-<a href="../Page/백괴사전.md" title="wikilink">백괴사전</a></p></td>
+<a href="../Page/소크라테스.md" title="wikilink">소크라테스</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -13818,7 +13781,7 @@ e야기</p></td>
 길위에서<br />
 세상에 없던 글<br />
 포노족의 꿈<br />
-안네의 마지막 일기</p></td>
+<a href="https://ko.wikipedia.org/wiki/안네의_마지막_일기" title="wikilink">안네의 마지막 일기</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -13875,13 +13838,15 @@ E벤져스</p></td>
 2441<br />
 2442</p></td>
 <td><p>9월 22일</p></td>
-<td></td>
+<td><p>인간humane<br />
+문학literature</p></td>
 <td><p>실패한 탐험대<br />
 그 사진이 데려간 곳<br />
 보이지 않는 도시<br />
 그러는 동안<br />
 모든 가능성에 관한 이야기</p></td>
-<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아문센" title="wikilink">아문센</a><br />
+<a href="https://ko.wikipedia.org/wiki/사진신부" title="wikilink">사진신부</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -13891,23 +13856,23 @@ E벤져스</p></td>
 2446<br />
 2447</p></td>
 <td><p>9월 23일</p></td>
-<td></td>
+<td><p>사회soci<strong>e</strong>ty</p></td>
 <td><p>[화장실의 심리학] 2부. 방귀와 찰스 다윈<br />
 답은 정해져 있다<br />
-"빼앗긴 가난 ? 경험해 보시겠습니까?"<br />
-"빼앗긴 문화 ? 내 머리를 건드리지 마"<br />
+빼앗긴 가난 - 경험해 보시겠습니까?<br />
+빼앗긴 문화 - 내 머리를 건드리지 마<br />
 위험 신호가 울리고 있습니다</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2449<br />
+<td><p>2448<br />
 2449<br />
 2450<br />
 2451</p></td>
 <td><p>9월 24일</p></td>
-<td></td>
-<td><p>오픈소스 미래경쟁력<br />
+<td><p>과학sci<strong>e</strong>nce</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/오픈소스" title="wikilink">오픈소스</a> 미래경쟁력<br />
 우리나라 최초의 공중 시계<br />
 가장 긴 실험<br />
 종자의 방주</p></td>
@@ -13920,7 +13885,7 @@ E벤져스</p></td>
 2454<br />
 2455</p></td>
 <td><p>9월 25일</p></td>
-<td></td>
+<td><p>문화culture</p></td>
 <td><p>있는 그대로가 아름답다<br />
 :)<br />
 벽으로 드나드는 건축<br />
@@ -13929,487 +13894,369 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2457<br />
+<td><p>2456<br />
+2457<br />
 2458<br />
-2459<br />
-2460<br />
-2461</p></td>
+2459</p></td>
 <td><p>9월 29일</p></td>
-<td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
-<td></td>
+<td><p>인간humane</p></td>
+<td><p>돌아오지 못한 사람들<br />
+소비하는 사회<br />
+고독한 소설가<br />
+반짝 반짝 불가사리</p></td>
+<td><p><a href="../Page/티니언섬.md" title="wikilink">티니언섬</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2462<br />
-2463<br />
-2464<br />
-2465<br />
-2466</p></td>
+<td><p>2460<br />
+2461<br />
+2462<br />
+2463</p></td>
 <td><p>9월 30일</p></td>
-<td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
-<td></td>
+<td><p>사회soci<strong>e</strong>ty</p></td>
+<td><p>마스크, 얼굴 반쪽이 사라진 세상<br />
+무덤 위에 사는 사람들<br />
+위인전의 침묵<br />
+지루한 건 참을 수 없어</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아미동" title="wikilink">아미동</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2467<br />
-2468<br />
-2469<br />
-2470<br />
-2471</p></td>
+<td><p>2464<br />
+2465<br />
+2466<br />
+2467<br />
+2468</p></td>
 <td><p>10월 1일</p></td>
-<td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td><p>과학sci<strong>e</strong>nce</p></td>
+<td><p>원시시대의 공동육아<br />
+집회 참가인원이 다른 이유<br />
+비행기 창문의 비밀<br />
+우리도 모두 돌연변이다<br />
+황금비율은 없었다</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2472<br />
-2473<br />
-2474<br />
-2475<br />
-2476</p></td>
+<td><p>2469<br />
+2470<br />
+2471<br />
+2472<br />
+2473</p></td>
 <td><p>10월 2일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td><p>그리움으로 그리다<br />
+카레의 모험<br />
+BGM을 깔아드립니다<br />
+<a href="../Page/피노키오.md" title="wikilink">피노키오</a> - 한 나무토막이 있었답니다,피노키오의 모험은 계속 된다</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2477<br />
-2478<br />
-2479<br />
-2480<br />
-2481</p></td>
+<td><p>2474<br />
+2475<br />
+2476<br />
+2477<br />
+2478</p></td>
 <td><p>10월 6일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td><p>공부하는 아이들<br />
+그 시절의 패셔니스타<br />
+로댕과 함께한 시간<br />
+<a href="https://ko.wikipedia.org/wiki/우키시마호" title="wikilink">우키시마호</a>의 진실<br />
+기록 너머에 있는</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2482<br />
-2483<br />
-2484<br />
-2485<br />
-2486</p></td>
+<td><p>2479<br />
+2480<br />
+2481<br />
+2482<br />
+2483</p></td>
 <td><p>10월 7일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td><p>할머니의 트랙터, 그게 뭐 이상한가요?<br />
+'틈'을 조심하세요<br />
+파리 한 마리가 미치는 영향에 대하여<br />
+나는 나를 모릅니다<br />
++1의가능성</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2487<br />
-2488<br />
-2489<br />
-2490<br />
-2491</p></td>
+<td><p>2484<br />
+2485<br />
+2486<br />
+2487<br />
+2488</p></td>
 <td><p>10월 8일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td><p>빙붕, 흘러내리는 빙하를 막다<br />
+스푸트니크 2부 한국의 로켓 청년들</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2492<br />
-2493<br />
-2494<br />
-2495<br />
-2496</p></td>
+<td><p>2489<br />
+2490<br />
+2491<br />
+2492<br />
+2493</p></td>
 <td><p>10월 9일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td><p>편지할게요<br />
+파울라 이야기<br />
+6.25 물결의 기록</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2497<br />
-2498<br />
-2499<br />
-2500<br />
-2501</p></td>
+<td><p>2494<br />
+2495<br />
+2496<br />
+2497<br />
+2498</p></td>
 <td><p>10월 13일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2502<br />
-2503<br />
-2504<br />
-2506<br />
-2506</p></td>
+<td><p>2499<br />
+2500<br />
+2501<br />
+2502<br />
+2503</p></td>
 <td><p>10월 14일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2507<br />
-2508<br />
-2509<br />
-2510<br />
-2511</p></td>
+<td><p>2504<br />
+2505<br />
+2506<br />
+2507<br />
+2508</p></td>
 <td><p>10월 15일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2512<br />
-2513<br />
-2514<br />
-2515<br />
-2516</p></td>
+<td><p>2509<br />
+2510<br />
+2511<br />
+2512<br />
+2513</p></td>
 <td><p>10월 16일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2517<br />
-2518<br />
-2519<br />
-2520<br />
-2521</p></td>
+<td><p>2514<br />
+2515<br />
+2516<br />
+2517<br />
+2518</p></td>
 <td><p>10월 20일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2522<br />
-2523<br />
-2524<br />
-2525<br />
-2526</p></td>
+<td><p>2519<br />
+2520<br />
+2521<br />
+2522<br />
+2523</p></td>
 <td><p>10월 21일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2527<br />
-2528<br />
-2529<br />
-2530<br />
-2531</p></td>
+<td><p>2524<br />
+2525<br />
+2526<br />
+2527<br />
+2528</p></td>
 <td><p>10월 22일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2532<br />
-2533<br />
-2534<br />
-2535<br />
-2536</p></td>
+<td><p>2529<br />
+2530<br />
+2531<br />
+2532<br />
+2533</p></td>
 <td><p>10월 23일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2537<br />
-2538<br />
-2539<br />
-2540<br />
-2541</p></td>
+<td><p>2534<br />
+2535<br />
+2536<br />
+2537<br />
+2538</p></td>
 <td><p>10월 27일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2542<br />
-2543<br />
-2544<br />
-2545<br />
-2546</p></td>
+<td><p>2539<br />
+2540<br />
+2541<br />
+2542<br />
+2543</p></td>
 <td><p>10월 28일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2547<br />
-2548<br />
-2549<br />
-2550<br />
-2551</p></td>
+<td><p>2544<br />
+2545<br />
+2546<br />
+2547<br />
+2548</p></td>
 <td><p>10월 29일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2552<br />
-2553<br />
-2554<br />
-2555<br />
-2556</p></td>
+<td><p>2549<br />
+2550<br />
+2551<br />
+2552<br />
+2553</p></td>
 <td><p>10월 30일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2557<br />
-2558<br />
-2559<br />
-2560<br />
-2561</p></td>
+<td><p>2554<br />
+2555<br />
+2556<br />
+2557<br />
+2558</p></td>
 <td><p>11월 3일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2562<br />
-2563<br />
-2564<br />
-2565<br />
-2566</p></td>
+<td><p>2559<br />
+2560<br />
+2561<br />
+2562<br />
+2563</p></td>
 <td><p>11월 4일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2567<br />
-2568<br />
-2569<br />
-2570<br />
-2571</p></td>
+<td><p>2564<br />
+2565<br />
+2566<br />
+2567<br />
+2568</p></td>
 <td><p>11월 5일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2572<br />
-2573<br />
-2574<br />
-2575<br />
-2576</p></td>
+<td><p>2569<br />
+2570<br />
+2571<br />
+2572<br />
+2573</p></td>
 <td><p>11월 6일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2577<br />
-2578<br />
-2579<br />
-2580<br />
-2581</p></td>
+<td><p>2574<br />
+2575<br />
+2576<br />
+2577<br />
+2578</p></td>
 <td><p>11월 10일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2582<br />
-2583<br />
-2584<br />
-2585<br />
-2586</p></td>
+<td><p>2579<br />
+2580<br />
+2581<br />
+2582<br />
+2583</p></td>
 <td><p>11월 11일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2587<br />
-2588<br />
-2589<br />
-2590<br />
-2591</p></td>
+<td><p>2584<br />
+2585<br />
+2586<br />
+2587<br />
+2588</p></td>
 <td><p>11월 12일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2592<br />
-2593<br />
-2594<br />
-2595<br />
-2596</p></td>
+<td><p>2589<br />
+2590<br />
+2591<br />
+2592<br />
+2593</p></td>
 <td><p>11월 13일</p></td>
 <td></td>
-<td><p><br />
-<br />
-<br />
-<br />
-<br />
-</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2596<br />
+<td><p>2594<br />
+2595<br />
+2596<br />
 2597<br />
-2598<br />
-2599<br />
-2600</p></td>
+2598</p></td>
 <td><p>11월 17일</p></td>
 <td></td>
 <td></td>
@@ -14417,11 +14264,11 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2601<br />
+<td><p>2599<br />
+2600<br />
+2601<br />
 2602<br />
-2603<br />
-2604<br />
-2605</p></td>
+2603</p></td>
 <td><p>11월 18일</p></td>
 <td></td>
 <td></td>
@@ -14429,11 +14276,11 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2606<br />
+<td><p>2604<br />
+2605<br />
+2606<br />
 2607<br />
-2608<br />
-2609<br />
-2610</p></td>
+2608</p></td>
 <td><p>11월 19일</p></td>
 <td></td>
 <td></td>
@@ -14441,11 +14288,11 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2611<br />
+<td><p>2609<br />
+2610<br />
+2611<br />
 2612<br />
-2613<br />
-2614<br />
-2615</p></td>
+2613</p></td>
 <td><p>11월 20일</p></td>
 <td></td>
 <td></td>
@@ -14453,11 +14300,11 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2616<br />
+<td><p>2614<br />
+2615<br />
+2616<br />
 2617<br />
-2618<br />
-2619<br />
-2620</p></td>
+2618</p></td>
 <td><p>11월 24일</p></td>
 <td></td>
 <td></td>
@@ -14465,11 +14312,11 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2621<br />
+<td><p>2619<br />
+2620<br />
+2621<br />
 2622<br />
-2623<br />
-2624<br />
-2625</p></td>
+2623</p></td>
 <td><p>11월 25일</p></td>
 <td></td>
 <td></td>
@@ -14477,11 +14324,11 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2626<br />
+<td><p>2624<br />
+2625<br />
+2626<br />
 2627<br />
-2628<br />
-2629<br />
-2630</p></td>
+2628</p></td>
 <td><p>11월 26일</p></td>
 <td></td>
 <td></td>
@@ -14489,11 +14336,11 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2631<br />
+<td><p>2629<br />
+2630<br />
+2631<br />
 2632<br />
-2633<br />
-2634<br />
-2635</p></td>
+2633</p></td>
 <td><p>11월 27일</p></td>
 <td></td>
 <td></td>
@@ -14501,11 +14348,11 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2636<br />
+<td><p>2634<br />
+2635<br />
+2636<br />
 2637<br />
-2638<br />
-2639<br />
-2640</p></td>
+2638</p></td>
 <td><p>12월 1일</p></td>
 <td></td>
 <td></td>
@@ -14513,11 +14360,11 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2641<br />
+<td><p>2639<br />
+2640<br />
+2641<br />
 2642<br />
-2643<br />
-2644<br />
-2645</p></td>
+2643</p></td>
 <td><p>12월 2일</p></td>
 <td></td>
 <td></td>
@@ -14525,11 +14372,11 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2646<br />
+<td><p>2644<br />
+2645<br />
+2646<br />
 2647<br />
-2648<br />
-2649<br />
-2650</p></td>
+2648</p></td>
 <td><p>12월 3일</p></td>
 <td></td>
 <td></td>
@@ -14537,12 +14384,108 @@ E벤져스</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2651<br />
+<td><p>2649<br />
+2650<br />
+2651<br />
 2652<br />
-2653<br />
-2654<br />
-2655</p></td>
+2653</p></td>
 <td><p>12월 4일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2654<br />
+2655<br />
+2656<br />
+2657<br />
+2658</p></td>
+<td><p>12월 8일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2659<br />
+2660<br />
+2661<br />
+2662<br />
+2663</p></td>
+<td><p>12월 9일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2664<br />
+2665<br />
+2666<br />
+2667<br />
+2668</p></td>
+<td><p>12월 10일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2669<br />
+2670<br />
+2671<br />
+2672<br />
+2673</p></td>
+<td><p>12월 11일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2674<br />
+2675<br />
+2676<br />
+2677<br />
+2678</p></td>
+<td><p>12월 15일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2679<br />
+2680<br />
+2681<br />
+2682<br />
+2683</p></td>
+<td><p>12월 16일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2684<br />
+2685<br />
+2686<br />
+2687<br />
+2688</p></td>
+<td><p>12월 17일</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2689<br />
+2690<br />
+2691<br />
+2692<br />
+2693</p></td>
+<td><p>12월 18일</p></td>
 <td></td>
 <td></td>
 <td></td>

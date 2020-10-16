@@ -201,7 +201,7 @@
 | 180 | [1월 14일](../Page/1월_14일.md "wikilink") | 그들이 [사랑](../Page/사랑.md "wikilink")한 풍경 - 다방                                                                                                                        |
 | 181 | [1월 15일](../Page/1월_15일.md "wikilink") | [사람](../Page/사람.md "wikilink")과 [세상](https://ko.wikipedia.org/wiki/세상 "wikilink")을 읽다 - [남명의](../Page/조식_\(1501년\).md "wikilink") [지리산](../Page/지리산.md "wikilink") |
 | 182 | [1월 19일](../Page/1월_19일.md "wikilink") | [민족](https://ko.wikipedia.org/wiki/민족 "wikilink")의 [소리](../Page/소리.md "wikilink") 1 - [다듬이](../Page/다듬이.md "wikilink") 소리 삶의 희노애락을 두드리다                            |
-| 183 | [1월 20일](../Page/1월_20일.md "wikilink") | 민족의 소리 2 - [북](https://ko.wikipedia.org/wiki/북 "wikilink")소리 [하늘](../Page/하늘.md "wikilink")과 [땅](https://ko.wikipedia.org/wiki/땅 "wikilink")에 울리는 신명의 소리           |
+| 183 | [1월 20일](../Page/1월_20일.md "wikilink") | 민족의 소리 2 - [북](https://ko.wikipedia.org/wiki/북 "wikilink")소리 [하늘](../Page/하늘.md "wikilink")과 [땅](../Page/땅.md "wikilink")에 울리는 신명의 소리                              |
 | 184 | [1월 21일](../Page/1월_21일.md "wikilink") | 민족의 소리 3 - 책 읽는 소리 마음으로 읽는 지혜의 울림                                                                                                                                  |
 | 185 | [1월 22일](../Page/1월_22일.md "wikilink") | 민족의 소리 4 - 전래동요 우리 민족의 정서와 가락                                                                                                                                      |
 | 186 | [1월 26일](../Page/1월_26일.md "wikilink") | 그 마을의 [아이콘](../Page/아이콘.md "wikilink") - [장승](https://ko.wikipedia.org/wiki/장승 "wikilink")                                                                         |

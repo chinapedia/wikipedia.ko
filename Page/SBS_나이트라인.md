@@ -789,7 +789,7 @@ SBS 뉴스 (금요일)</p></td>
 
 ## 경쟁 프로그램
 
-  - [KBS 뉴스라인](../Page/KBS_뉴스라인.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [KBS 뉴스라인](../Page/KBS_뉴스라인.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
   - [스포츠 하이라이트](../Page/스포츠_하이라이트_\(텔레비전_프로그램\).md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
   - [스포츠 다이어리](../Page/스포츠_다이어리.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
 

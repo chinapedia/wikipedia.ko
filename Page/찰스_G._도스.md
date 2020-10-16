@@ -27,7 +27,7 @@
 
 후버 대통령은 도스를 [영국](../Page/영국.md "wikilink") 주재 미국 대사로 임명하여 [1929년](../Page/1929년.md "wikilink")부터 [1932년](../Page/1932년.md "wikilink")까지 지냈다. 그러고나서 도스는 [대공황](../Page/대공황.md "wikilink")이 있던 동안 신용 문제 완화를 돕는 데 창조된 새로운 재건 금융 법인의 우두머리로서 잠시 지냈다. 도스는 자신이 이전에 국장을 지낸 [은행](../Page/은행.md "wikilink")이 실패했을 때 이후의 직위를 떠나 법인으로부터 대출을 받는 데 필요하였다. 그는 결국적으로 은행을 재결성하였고, 그 대출의 전부를 갚았다. [1951년](../Page/1951년.md "wikilink") [4월 23일](../Page/4월_23일.md "wikilink") [에번스턴에서](https://ko.wikipedia.org/wiki/에번스턴_\(일리노이주\) "wikilink") 사망할 때까지 그는 시카고 시티 내셔널 은행 신용 주식회사를 위하여 이사회 의장으로 남아있었다.
 
-## 외부 연결
+## 외부 링크
 
   - ["Charles G. Dawes Archive"](http://files.library.northwestern.edu/spec/Dawes%20register.pdf) Finding aid for the Charles G. Dawes archival collection
 

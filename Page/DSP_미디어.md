@@ -155,8 +155,8 @@
 
 ### 예능 프로그램
 
-  - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 좋은 나라 운동 본부
-  - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [가족오락관](https://ko.wikipedia.org/wiki/가족오락관 "wikilink")
+  - [KBS 1TV](../Page/KBS_1TV.md "wikilink") 좋은 나라 운동 본부
+  - [KBS 1TV](../Page/KBS_1TV.md "wikilink") [가족오락관](https://ko.wikipedia.org/wiki/가족오락관 "wikilink")
   - [KBS 2TV](../Page/KBS_2TV.md "wikilink") 박수홍 최원정의 여유만만
   - [KBS 2TV](../Page/KBS_2TV.md "wikilink") 경제비타민
   - [KBS 2TV](../Page/KBS_2TV.md "wikilink") 방방곡곡

@@ -13,7 +13,7 @@
   - [K5 권총](../Page/K5_권총.md "wikilink") 9mm
   - [K7 기관단총](https://ko.wikipedia.org/wiki/K7_기관단총 "wikilink") 9mm / Silenced SMG
   - [K11 복합형소총](../Page/K11_복합형소총.md "wikilink") 20mm / 5.56mm
-  - [K12 기관총](https://ko.wikipedia.org/wiki/K12_기관총 "wikilink") 7.62mm
+  - [K12 기관총](../Page/K12_기관총.md "wikilink") 7.62mm
   - [K14 저격총](../Page/K14_소총.md "wikilink") 7.62mm
   -
 ## 외부 링크

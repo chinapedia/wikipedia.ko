@@ -547,7 +547,7 @@
 <td><p>10회 <a href="../Page/2011년.md" title="wikilink">2011년</a></p></td>
 <td><p><a href="../Page/박은영_(아나운서).md" title="wikilink">박은영</a><br />
 <a href="../Page/양준혁.md" title="wikilink">양준혁</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이희경" title="wikilink">이희경</a><br />
+<td><p><a href="../Page/이희경.md" title="wikilink">이희경</a><br />
 <a href="../Page/정태호_(희극인).md" title="wikilink">정태호</a></p></td>
 </tr>
 <tr class="odd">
@@ -1391,11 +1391,11 @@
 
 ## 방송 채널
 
-| 연도                          | 방송사                                                         |
-| --------------------------- | ----------------------------------------------------------- |
-| 1987년 \~ 1993년              | [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") |
-| 1994년 \~ 1995년, 2002년 \~ 현재 | [KBS 2TV](../Page/KBS_2TV.md "wikilink")                    |
-|                             |                                                             |
+| 연도                          | 방송사                                      |
+| --------------------------- | ---------------------------------------- |
+| 1987년 \~ 1993년              | [KBS 1TV](../Page/KBS_1TV.md "wikilink") |
+| 1994년 \~ 1995년, 2002년 \~ 현재 | [KBS 2TV](../Page/KBS_2TV.md "wikilink") |
+|                             |                                          |
 
 ## 시청률
 
