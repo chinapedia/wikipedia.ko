@@ -4,7 +4,7 @@
 </ref>
 수석, 화석, 화폐, 불상, 우표, 해외 고미술품 감정 등은 불가함.\[1\] }}
 
-《**TV쇼 진품명품**》은 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
+《**TV쇼 진품명품**》은 [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 방송되는 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
 
 ## 기획 의도
 
@@ -18,7 +18,7 @@
 | [1999년](../Page/1999년.md "wikilink") [1월 10일](../Page/1월_10일.md "wikilink") \~ [1999년](../Page/1999년.md "wikilink") [10월 17일](../Page/10월_17일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 오후 5:00 \~ 5:50                                                                                                        | 50분                                                 |       |
 | [1999년](../Page/1999년.md "wikilink") [10월 24일](../Page/10월_24일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [5월 7일](../Page/5월_7일.md "wikilink")   | 매주 [일요일](../Page/일요일.md "wikilink") 오후 4:50 \~ 5:35                                                                                                        | 45분                                                 |       |
 | [2000년](../Page/2000년.md "wikilink") [5월 13일](../Page/5월_13일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [7월 22일](../Page/7월_22일.md "wikilink")   | 매주 [토요일](../Page/토요일.md "wikilink") 오전 11:40 \~ 12:30                                                                                                      | 50분                                                 |       |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                  | [2000년](../Page/2000년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [4월 29일](../Page/4월_29일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 낮 1:10 \~ 2:00  | 50분   |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink")                                                                                                                     | [2000년](../Page/2000년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink") \~ [2001년](../Page/2001년.md "wikilink") [4월 29일](../Page/4월_29일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 낮 1:10 \~ 2:00  | 50분   |
 | [2001년](../Page/2001년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") \~ **현재**                                                                          | 매주 [일요일](../Page/일요일.md "wikilink") 오전 11:00 \~ 12:00                                                                                                      | 60분                                                 |       |
 
 ## 역대 진행자
@@ -696,14 +696,14 @@
 
 ### 과거
 
-과거(특히 90년대 및 2000년대 초반)에는 서예, 고서 / 도자기 / 미술품 / 민속품 외에 우편, 화석, 악기 등 다양한 의뢰품들이 많아서 감정위원들이 많았었다.
+과거에는 서예, 고서, 도자기, 미술품, 민속품, 우편, 화석, 악기 등 다양한 의뢰품들이 많아서 감정위원들이 많았었다.
 
-  - 서예, 고서 감정위원 : [김선원](https://ko.wikipedia.org/wiki/김선원 "wikilink"), 전병광, 심충식 등
-  - 도자기 감정위원 : 김대하, 손용두, 임상성, [이상문](https://ko.wikipedia.org/wiki/이상문_\(도예가\) "wikilink")\[10\] 등
-  - 미술품(화랑, 유화, 판화, 만화 등) 감정위원 : 이숙영, 최병식, 조은정(판화), 권영섭(만화), 조희영 등
-  - 악기 감정위원 : 손성목(축음기, 음반), 김성상(바이올린), 전인평 등
-  - 편지, 우표 감정위원 : 김일근, 김갑식, 김요치, [진기홍](https://ko.wikipedia.org/wiki/진기홍 "wikilink") 등
-  - 그 외 감정위원 : [김동섭](https://ko.wikipedia.org/wiki/김동섭_\(지질학자\) "wikilink")(화석), 정윤호(시계), 박재광(군사 유물), 이종봉(금속), 허동현(사진), 김형식(화폐), 장봉택(수석), 신희철, 정대영 등
+  - 서예, 고서 감정위원 : [김선원](https://ko.wikipedia.org/wiki/김선원 "wikilink"), 전병광, 심충식
+  - 도자기 감정위원 : 김대하, 손용두, 임상성, [이상문](https://ko.wikipedia.org/wiki/이상문_\(도예가\) "wikilink")\[10\]
+  - 미술품(화랑, 유화, 판화, 만화 등) 감정위원 : 이숙영, 최병식, 조은정(판화), 권영섭(만화), 조희영
+  - 악기 감정위원 : 손성목(축음기, 음반), 김성상(바이올린), 전인평
+  - 편지, 우표 감정위원 : 김일근, 김갑식, 김요치, [진기홍](https://ko.wikipedia.org/wiki/진기홍 "wikilink")
+  - 감정위원 : [김동섭](https://ko.wikipedia.org/wiki/김동섭_\(지질학자\) "wikilink")(화석), 정윤호(시계), 박재광(군사 유물), 이종봉(금속), 허동현(사진), 김형식(화폐), 장봉택(수석), 신희철, 정대영
 
 ### 현재
 
@@ -742,7 +742,7 @@
 7.  신분을 밝히기 싫어해 방송에 나오지 않았음
 8.  방송에서는 나오지 않았지만, **경수도첩**의 주인공인 신중엄의 아들
 9.  [국가무형문화재](https://ko.wikipedia.org/wiki/국가무형문화재 "wikilink") 38호인 [조선왕조 궁중음식](../Page/조선왕조_궁중음식.md "wikilink") 보유자
-10. 배우 [이승효](../Page/이승효.md "wikilink")씨의 아버지이다.
+10. 배우 [이승효](../Page/이승효.md "wikilink")씨의 아버지다.
 11. 처음 출연 당시(2004년\~2005년)에는 근대 고서 감정을 맡았다.
 12. 양의숙 감정위원 다음으로 오랫동안 출연하고 있는 감정위원.
 13. 진품명품 첫 회부터 최근까지 출연하고 있는 감정위원.

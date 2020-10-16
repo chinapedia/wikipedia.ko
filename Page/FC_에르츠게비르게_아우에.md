@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC 에르츠게비르게 아우에](https://ko.wikipedia.org/wiki/FC_에르츠게비르게_아우에).
 
 
-**FC 에르츠게비르게 아우에**(FC Erzgebirge Aue)는 [독일](../Page/독일.md "wikilink") [작센주](../Page/작센주.md "wikilink") [아우에](https://ko.wikipedia.org/wiki/아우에 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [2 분데스리가에서](https://ko.wikipedia.org/wiki/2_분데스리가 "wikilink") 활동하고 있다.
+**FC 에르츠게비르게 아우에**(FC Erzgebirge Aue)는 [독일](../Page/독일.md "wikilink") [작센주](../Page/작센주.md "wikilink") [아우에](https://ko.wikipedia.org/wiki/아우에 "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽으로, 현재 [2. 분데스리가에서](../Page/2._분데스리가.md "wikilink") 활동하고 있다.
 
 ## 성적
 

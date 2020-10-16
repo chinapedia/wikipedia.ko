@@ -10,7 +10,7 @@
 
 ## 사건
 
-[2010년](../Page/2010년.md "wikilink") 10월에 노조원 180명이 [공장](https://ko.wikipedia.org/wiki/공장 "wikilink")을 점거하여\[2\] [민주노총](../Page/전국민주노동조합총연맹.md "wikilink") 금속 노조의 김준일이 [경찰](../Page/경찰.md "wikilink")의 과잉 진압으로 [부상](https://ko.wikipedia.org/wiki/부상 "wikilink")하였다\[3\].
+[2010년](../Page/2010년.md "wikilink") 10월에 노조원 180명이 [공장](../Page/공장.md "wikilink")을 점거하여\[2\] [민주노총](../Page/전국민주노동조합총연맹.md "wikilink") 금속 노조의 김준일이 [경찰](../Page/경찰.md "wikilink")의 과잉 진압으로 [부상](https://ko.wikipedia.org/wiki/부상 "wikilink")하였다\[3\].
 
 ## 외부 링크
 

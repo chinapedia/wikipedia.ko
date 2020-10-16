@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 트로트대축제](https://ko.wikipedia.org/wiki/KBS_트로트대축제).
 
 
-《**KBS 트로트대축제**》는 [대한민국](../Page/대한민국.md "wikilink")의 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 매년 12월 마지막 월요일에 주최하는 연말 [트로트](../Page/트로트.md "wikilink") 가요 프로그램이다.
+《**KBS 트로트대축제**》는 [대한민국](../Page/대한민국.md "wikilink")의 [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 매년 12월 마지막 월요일에 주최하는 연말 [트로트](../Page/트로트.md "wikilink") 가요 프로그램이다.
 
 ## 개요
 
