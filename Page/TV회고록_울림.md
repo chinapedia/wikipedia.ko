@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV회고록 울림](https://ko.wikipedia.org/wiki/TV회고록_울림).
 
 
-**TV회고록 울림**은 매주 [일요일](../Page/일요일.md "wikilink") 오전 7시 10분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송된 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
+**TV회고록 울림**은 매주 [일요일](../Page/일요일.md "wikilink") 오전 7시 10분에 [KBS 1TV로](../Page/KBS_1TV.md "wikilink") 방송된 [한국방송공사의 텔레비전 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
 
 ## 기획 의도
 

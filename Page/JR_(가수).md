@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JR \(가수\)](https://ko.wikipedia.org/wiki/JR_\(가수\)).
 
 
-**김종현**(金鍾炫, [1995년](../Page/1995년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") \~ )은 예명 **JR**으로 잘 알려진 대한민국의 가수이다. [플레디스 엔터테인먼트](../Page/플레디스_엔터테인먼트.md "wikilink") 소속이며, [뉴이스트](../Page/뉴이스트.md "wikilink")의 리더, 메인댄서, 메인래퍼이다. 2017년 《[PRODUCE 101 시즌2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌2 "wikilink")》에 참가하였으며, 최종 순위 14위를 차지하였다. 이후 2018년까지 유닛인 [뉴이스트 W로](../Page/뉴이스트_W.md "wikilink") 활동하였다. 2019\~2020년 현재 [뉴이스트](../Page/뉴이스트.md "wikilink")로 활동 중이다.
+**김종현**(金鍾炫, [1995년](../Page/1995년.md "wikilink") [6월 8일](../Page/6월_8일.md "wikilink") \~ )은 예명 **JR**으로 잘 알려진 대한민국의 가수이다. [플레디스 엔터테인먼트](../Page/플레디스_엔터테인먼트.md "wikilink") 소속이며, [뉴이스트](../Page/뉴이스트.md "wikilink")의 리더, 메인댄서, 메인래퍼이다. 2017년 《[PRODUCE 101 시즌2](https://ko.wikipedia.org/wiki/PRODUCE_101_시즌2 "wikilink")》에 참가하였으며, 최종 순위 14위를 차지하였다. 이후 2018년까지 유닛인 [뉴이스트 W로](../Page/뉴이스트_W.md "wikilink") 활동하였다. 2019\~현재 [뉴이스트](../Page/뉴이스트.md "wikilink")로 활동 중이다.
 
 ## 학력
 
