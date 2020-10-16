@@ -28,10 +28,7 @@ C는 발을 뜻하는 [그림 문자에서](https://ko.wikipedia.org/wiki/그림
 ## 쓰임
 
   - c는 [국제음성기호](https://ko.wikipedia.org/wiki/국제음성기호 "wikilink")에서 [무성 경구개 파열음을](https://ko.wikipedia.org/wiki/무성_경구개_파열음 "wikilink") 나타낸다.
-
-## 기타
-
-  - [한어병음](https://ko.wikipedia.org/wiki/한어병음 "wikilink")의 c는 \[tsʰ\]로 발음되며 [대한민국 표준어에](../Page/대한민국_표준어.md "wikilink") 없는 발음이다.
+  - C는 [탄소](../Page/탄소.md "wikilink")를 나타내는 원소 기호이다.
 
 ## 관련 문자
 

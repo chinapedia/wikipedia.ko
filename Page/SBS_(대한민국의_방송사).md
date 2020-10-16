@@ -209,9 +209,12 @@
 
 ### 2020년대
 
-  - [2020년](../Page/2020년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") - SBS 창사 30주년
-  - [2020년](../Page/2020년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") - 태영건설에 매각
-  - [2021년](../Page/2021년.md "wikilink") [12월](../Page/12월.md "wikilink") - 김석재 사장 취임.
+  - [2020년](../Page/2020년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") - SBS 창사 30주년 행사 예정
+
+(그때 코로나19가 안정 안되면 무관중 또는 취소 )
+
+  - [2020년](../Page/2020년.md "wikilink") [12월 5일](../Page/12월_5일.md "wikilink") - [태영건설](../Page/태영건설.md "wikilink")에 매각 예정
+  - [2021년](../Page/2021년.md "wikilink") [12월](../Page/12월.md "wikilink") - [김석재](https://ko.wikipedia.org/wiki/김석재 "wikilink") 사장 취임 예정.
 
 ## 역대 사장
 
@@ -249,7 +252,7 @@
 
 #### CI(영문)
 
-파일:SBS CI 1991 - 1994.png|[1991년](../Page/1991년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink")\[10\] sbs (소문자) 파일:SBS 1994 - 2000.png|[1994년](../Page/1994년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink") SBS (대문자) 파일:SBS Korea Logo (Word Only).svg|[2000년](../Page/2000년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ 현재 SBS (대문자 심볼마크) 파일:Seoul Broadcasting System logo.svg |[2000년](../Page/2000년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ 현재 ◎SBS (대문자 심볼마크)
+파일:SBS CI 1991 - 1994.png|[1991년](../Page/1991년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink") \~ [1994년](../Page/1994년.md "wikilink") [9월 18일](../Page/9월_18일.md "wikilink")\[10\] sbs (소문자) 파일:SBS 1994 - 2000.png|[1994년](../Page/1994년.md "wikilink") [9월 19일](../Page/9월_19일.md "wikilink") \~ [2000년](../Page/2000년.md "wikilink") [11월 13일](../Page/11월_13일.md "wikilink") SBS (대문자) 파일:SBS Korea Logo (Word Only).svg|[2000년](../Page/2000년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ **현재** SBS (대문자 심볼마크) 파일:Seoul Broadcasting System logo.svg |[2000년](../Page/2000년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") \~ **현재** ◎SBS (대문자 심볼마크)
 
 #### CI(국문)
 
@@ -423,6 +426,7 @@
   - [2012년](../Page/2012년.md "wikilink")(18기) 입사 : [조정식](../Page/조정식_\(아나운서\).md "wikilink")
   - [2015년](../Page/2015년.md "wikilink")(20기) 입사 : [김윤상](../Page/김윤상.md "wikilink")(평일 [SBS 스포츠뉴스](../Page/SBS_스포츠뉴스.md "wikilink") 앵커), [김선재](../Page/김선재_\(아나운서\).md "wikilink")([SBS 오 뉴스](../Page/SBS_오_뉴스.md "wikilink") 서브 앵커)
   - [2016년](../Page/2016년.md "wikilink")(22기) 입사 : [이인권](https://ko.wikipedia.org/wiki/이인권_\(아나운서\) "wikilink")([SBS 파워 스포츠](../Page/SBS_파워_스포츠.md "wikilink") 앵커), [주시은](../Page/주시은.md "wikilink")(주말 [SBS 스포츠뉴스](../Page/SBS_스포츠뉴스.md "wikilink") 앵커)
+  - [2018년](../Page/2018년.md "wikilink")(23기) 입사 : [김민형](https://ko.wikipedia.org/wiki/김민형 "wikilink"),[김수민](https://ko.wikipedia.org/wiki/김수민 "wikilink")
 
 #### 전직 아나운서
 
@@ -596,7 +600,6 @@
       - [한국교육방송공사](../Page/한국교육방송공사.md "wikilink")
           - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
           - [EBS 2TV](../Page/EBS_2TV.md "wikilink")
-      - [OBS경인TV](../Page/OBS경인TV.md "wikilink")
   - [SBS의 텔레비전 프로그램 목록](../Page/SBS의_텔레비전_프로그램_목록.md "wikilink")
   - [SBS 창작 애니메이션 대상](https://ko.wikipedia.org/wiki/SBS_창작_애니메이션_대상 "wikilink")
   - [SBS 미디어 홀딩스](../Page/SBS미디어홀딩스.md "wikilink")
@@ -611,7 +614,10 @@
   - [G1](../Page/G1.md "wikilink")
   - [JIBS](../Page/제주방송.md "wikilink")
   - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")
+  - [TV 조선](https://ko.wikipedia.org/wiki/TV_조선 "wikilink")
   - [JTBC](../Page/JTBC.md "wikilink")
+  - [채널 A](https://ko.wikipedia.org/wiki/채널_A "wikilink")
+  - [MBN](https://ko.wikipedia.org/wiki/MBN "wikilink")
   - 서울 디지털 포럼 - SBS에서 매년 개최하는 디지털 분야 포럼
   - 미래 한국 리포트 - SBS에서 매년 개최하는 미래 한국 어젠다 포럼
   - [태영건설](../Page/태영건설.md "wikilink")

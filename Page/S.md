@@ -25,6 +25,8 @@ S는 활을 뜻하는 그림 문자에서 왔다.
 
   - s는 [국제음성기호](https://ko.wikipedia.org/wiki/국제음성기호 "wikilink")에서 [무성 치경 마찰음을](../Page/무성_치경_마찰음.md "wikilink") 나타낸다.
   - S는 [야구](../Page/야구.md "wikilink")에서 [스트라이크의](https://ko.wikipedia.org/wiki/스트라이크_\(야구\) "wikilink") 약어로 쓰인다.
+  - S는 [황](../Page/황.md "wikilink")을 나타내는 원소 기호이다.
+  - S는 신천지를 뜻하는 은어이다.
 
 ## 관련 글자
 

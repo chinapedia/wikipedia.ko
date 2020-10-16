@@ -17,6 +17,7 @@ O는 눈을 뜻하는 그림 문자에서 왔다.
 ## 쓰임
 
   - o는 [국제음성기호](https://ko.wikipedia.org/wiki/국제음성기호 "wikilink")에서 [후설 원순 중고모음을](https://ko.wikipedia.org/wiki/후설_원순_중고모음 "wikilink") 나타낸다.
+  - O는 [산소](../Page/산소.md "wikilink")를 나타내는 원소 기호이다.
 
 ## 관련 글자
 
