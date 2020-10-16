@@ -71,7 +71,7 @@
 
 ## 각주
 
-[분류:2012년 싱글](https://ko.wikipedia.org/wiki/분류:2012년_싱글 "wikilink") [분류:2NE1의 노래](https://ko.wikipedia.org/wiki/분류:2NE1의_노래 "wikilink") [분류:테디가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:테디가_작곡한_노래 "wikilink") [분류:테디가 작사한 노래](https://ko.wikipedia.org/wiki/분류:테디가_작사한_노래 "wikilink")
+[분류:2012년 싱글](https://ko.wikipedia.org/wiki/분류:2012년_싱글 "wikilink") [분류:2NE1의 노래](https://ko.wikipedia.org/wiki/분류:2NE1의_노래 "wikilink") [분류:테디가 작곡한 노래](https://ko.wikipedia.org/wiki/분류:테디가_작곡한_노래 "wikilink") [분류:테디가 작사한 노래](https://ko.wikipedia.org/wiki/분류:테디가_작사한_노래 "wikilink") [분류:코리아 K-Pop 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:코리아_K-Pop_핫_100_1위_싱글 "wikilink")
 
 1.
 2.

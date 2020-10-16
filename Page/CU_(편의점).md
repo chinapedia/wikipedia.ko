@@ -5,9 +5,11 @@
 
 ## 현황
 
-[대한민국](../Page/대한민국.md "wikilink") 종합유통서비스 기업인 [BGF리테일](../Page/BGF리테일.md "wikilink")이 [2012년](../Page/2012년.md "wikilink") [8월](../Page/8월.md "wikilink") 신규 런칭한 [편의점](../Page/편의점.md "wikilink") 브랜드이다. CU는 국내 소비자의 특성과 매정별 입지를 과학적으로 분석해을 표방한 새로운 개념의 편의점으로 생활의 편의를 돕고(**Convenience**) 최상의 상품과 서비스, 운영상의 편의성과 수익성으로 고객과 가맹점주(**You**)를 소중히 모시는 생활 속 쉼터를 조성하겠다는 뜻을 담아 이들 영어단어의 앞 글자로 조합한 이름이다. 현재 [대한민국](../Page/대한민국.md "wikilink") 최대 프랜차이즈망을 바탕으로 다양한 상품과 서비스를 고객들에게 제공하고 있다.
+[대한민국](../Page/대한민국.md "wikilink") 종합유통서비스 기업인 [BGF리테일](../Page/BGF리테일.md "wikilink")이 [2012년](../Page/2012년.md "wikilink") [8월](../Page/8월.md "wikilink") 신규 런칭한 [편의점](../Page/편의점.md "wikilink") 브랜드다. CU는 국내 소비자의 특성과 매정별 입지를 과학적으로 분석해을 표방한 새로운 개념의 편의점으로 생활의 편의를 돕고(**Convenience**) 최상의 상품, 서비스, 운영상의 편의성, 수익성으로 고객, 가맹점주(**You**) 등을 소중히 모시는 생활 속 쉼터를 조성하겠다는 뜻을 담아 이들 영어단어의 앞 글자로 조합한 이름이다. 현재 [대한민국](../Page/대한민국.md "wikilink") 최대 프랜차이즈망을 바탕으로 다양한 상품과 서비스를 고객들에게 제공하고 있다.
 
 초창기에는 'with [FamilyMart](../Page/훼미리마트.md "wikilink")'가 붙었지만, 상장 이후에는 [훼미리마트](../Page/훼미리마트.md "wikilink") 측이 BGF리테일의 지분을 모두 매각하면서 with [Familymart](../Page/훼미리마트.md "wikilink") 문구를 빼고 BGF리테일 로고로 교체하였다.
+
+### 점포
 
 | CU 편의점 지역별 점포수                                              |
 | ----------------------------------------------------------- |
@@ -44,7 +46,12 @@
 
 ## 사진
 
-파일:CU Gaehwasan-yeok branch 20180914 171744.jpg|개화산역점 (서울특별시 강서구) 파일:국립중앙도서관 내 편의점.jpg|국립중앙도서관점 (서울특별시 서초구) 파일:CU Bansong-lucky branch 20180401 094252.jpg|반송럭키점 (부산광역시 해운대구) 파일:CU Natgae-yeok branch 20180401 132756.jpg|낫개역점 (부산광역시 사하구) 파일:SDC15539.JPG|부평일신동점 (인천광역시 부평구) |2012년 패밀리마트에서 CU로 전환하는 것을 안내하는 안내문 파일:Convenience Store CU Arirang Hotel 20120803.jpg|부산시 소재씨유 지점 파일:CU Gyeryong Yangjeong Intersection branch.jpg|계룡 양정삼거리점 파일:연수동 CU 편의점.jpg|인천 연수구 소재 지점
+파일:CU Gaehwasan-yeok branch 20180914 171744.jpg|개화산역점
+(서울특별시 강서구) 파일:국립중앙도서관 내 편의점.jpg|국립중앙도서관점
+(서울특별시 서초구) 파일:CU Bansong-lucky branch 20180401 094252.jpg|반송럭키점
+(부산광역시 해운대구) 파일:CU Natgae-yeok branch 20180401 132756.jpg|낫개역점
+(부산광역시 사하구) 파일:SDC15539.JPG|부평일신동점
+(인천광역시 부평구, 2020년 8월 폐업) 파일:Convenience Store CU Arirang Hotel 20120803.jpg|부산시 소재 씨유 매장 파일:CU Gyeryong Yangjeong Intersection branch.jpg|계룡 양정삼거리점 파일:연수동 CU 편의점.jpg|인천 연수구 소재 지점
 
 ## 같이 보기
 

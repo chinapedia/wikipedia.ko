@@ -113,7 +113,7 @@
 <td><p>최연장자</p></td>
 </tr>
 <tr class="even">
-<td><p>스즈키 쿠루미</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/스즈키_쿠루미" title="wikilink">스즈키 쿠루미</a></p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -125,7 +125,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>타구치 마나카</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/타구치_마나카" title="wikilink">타구치 마나카</a></p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -140,7 +140,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/치바_에리이" title="wikilink">치바 에리이</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트2기</p></td>
+<td><p>드래프트<br />
+2기</p></td>
 <td><p>2017년 9월 27일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -152,7 +153,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/니시카와_레이" title="wikilink">니시카와 레이</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트2기</p></td>
+<td><p>드래프트<br />
+2기</p></td>
 <td><p>2017년 9월 27일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -161,7 +163,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>마에다 아야카</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/마에다_아야카" title="wikilink">마에다 아야카</a></p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -173,7 +175,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>미치에다 사키</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/미치에다_사키" title="wikilink">미치에다 사키</a></p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -209,7 +211,7 @@
 <td><p>AKB48 그룹 3대 총감독</p></td>
 </tr>
 <tr class="even">
-<td><p>야마네 스즈하</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/야마네_스즈하" title="wikilink">야마네 스즈하</a></p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -251,7 +253,7 @@
 
 <!-- end list -->
 
-  - **[오카베 린](../Page/오카베_린.md "wikilink")**(캡틴/팀8캡틴/최연장자), [오구리 유이](../Page/오구리_유이.md "wikilink"), [시타오 미우](../Page/시타오_미우.md "wikilink"), 오쿠모토 히나노, 요시다 카렌
+  - **[오카베 린](../Page/오카베_린.md "wikilink")**(캡틴/팀8 캡틴/최연장자), [오구리 유이](../Page/오구리_유이.md "wikilink"), [시타오 미우](../Page/시타오_미우.md "wikilink"), [오쿠모토 히나노](https://ko.wikipedia.org/wiki/오쿠모토_히나노 "wikilink"), [요시다 카렌](https://ko.wikipedia.org/wiki/요시다_카렌 "wikilink")
 
 ### 팀K
 
@@ -310,10 +312,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>시모구치 히나나</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/시모구치_히나나" title="wikilink">시모구치 히나나</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트1기</p></td>
+<td><p>드래프트<br />
+1기</p></td>
 <td><p>-</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -322,7 +325,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>나가토모 아야미</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/나가토모_아야미" title="wikilink">나가토모 아야미</a></p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -334,7 +337,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>무토 오린</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/무토_오린" title="wikilink">무토 오린</a></p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -370,7 +373,7 @@
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>야스다 카나</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/야스다_카나" title="wikilink">야스다 카나</a></p></td>
 <td></td>
 <td></td>
 <td><p>16기</p></td>
@@ -382,7 +385,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>유모토 아미</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/유모토_아미" title="wikilink">유모토 아미</a></p></td>
 <td></td>
 <td></td>
 <td><p>15기</p></td>
@@ -412,7 +415,7 @@
 
 <!-- end list -->
 
-  - [오다 에리나](../Page/오다_에리나.md "wikilink"), [쿠라노오 나루미](../Page/쿠라노오_나루미.md "wikilink"), 하시모토 하루나, 하루모토 유키, 히다리토모 아야카, 야마다 쿄카, 요코야마 유이
+  - [오다 에리나](../Page/오다_에리나.md "wikilink"), [쿠라노오 나루미](../Page/쿠라노오_나루미.md "wikilink"), [하시모토 하루나](https://ko.wikipedia.org/wiki/하시모토_하루나 "wikilink"), [하루모토 유키](https://ko.wikipedia.org/wiki/하루모토_유키 "wikilink"), [히다리토모 아야카](https://ko.wikipedia.org/wiki/히다리토모_아야카 "wikilink"), [야마다 쿄카](https://ko.wikipedia.org/wiki/야마다_쿄카 "wikilink"), [요코야마 유이](https://ko.wikipedia.org/wiki/요코야마_유이_\(2001년\) "wikilink")
 
 ### 팀B
 
@@ -463,7 +466,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/오오타케_히토미" title="wikilink">오오타케 히토미</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>2019년 9월 7일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -475,7 +479,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/오오모리_마호" title="wikilink">오오모리 마호</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>2018년 12월 8일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -524,7 +529,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/쿠보_사토네" title="wikilink">쿠보 사토네</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트2기</p></td>
+<td><p>드래프트<br />
+2기</p></td>
 <td><p>2017년 9월 27일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -548,7 +554,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/사이토_하루나" title="wikilink">사이토 하루나</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>2019년 9월 7일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -560,12 +567,13 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/다키타_카요코" title="wikilink">다키타 카요코</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트1기</p></td>
+<td><p>드래프트<br />
+1기</p></td>
 <td><p>-</p></td>
 <td><p>DH</p></td>
 <td></td>
 <td><p>A</p></td>
-<td><p>코로나확진자</p></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -608,7 +616,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/야마베_아유" title="wikilink">야마베 아유</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트2기</p></td>
+<td><p>드래프트<br />
+2기</p></td>
 <td><p>2017년 9월 27일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -721,7 +730,8 @@
 <td><p><a href="../Page/카와모토_사야.md" title="wikilink">카와모토 사야</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트1기</p></td>
+<td><p>드래프트<br />
+1기</p></td>
 <td><p>-</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -757,7 +767,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/타다_쿄카" title="wikilink">타다 쿄카</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>2018년 12월 8일</p></td>
 <td><p>DH</p></td>
 <td></td>
@@ -775,7 +786,7 @@
 <td></td>
 <td><p>A</p></td>
 <td><p>B</p></td>
-<td><p>코로나확진자</p></td>
+<td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/마자링.md" title="wikilink">마자링</a></p></td>
@@ -783,7 +794,7 @@
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>주식회사JPEG</p></td>
+<td><p>JPEG</p></td>
 <td></td>
 <td><p>B</p></td>
 <td><p>대만 유학생</p></td>
@@ -915,9 +926,9 @@
 <td><p>DH</p></td>
 <td><p>이라바키 현 대표<br />
 캡틴<br />
-팀A캡틴<br />
+팀A 캡틴<br />
 최연장자<br />
-팀A최연장자</p></td>
+팀A 최연장자</p></td>
 <td></td>
 <td><p>58</p></td>
 </tr>
@@ -1417,7 +1428,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/혼다_소라" title="wikilink">혼다 소라</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀A<br />
 최연장자</p></td>
@@ -1428,7 +1440,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/오카다_리나" title="wikilink">오카다 리나</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀K</p></td>
 <td></td>
@@ -1438,7 +1451,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/코바야시_란" title="wikilink">코바야시 란</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀K</p></td>
 <td></td>
@@ -1448,7 +1462,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/스에나가_유즈키" title="wikilink">스에나가 유즈키</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀K<br />
 최연소</p></td>
@@ -1459,7 +1474,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/나가노_메구미" title="wikilink">나가노 메구미</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀K</p></td>
 <td></td>
@@ -1469,7 +1485,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/이시와타_세나" title="wikilink">이시와타 세나</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀4</p></td>
 <td></td>
@@ -1479,7 +1496,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/쿠라모토_미유우" title="wikilink">쿠라모토 미유우</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀4</p></td>
 <td></td>
@@ -1499,7 +1517,8 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/요시하시_유즈카" title="wikilink">요시하시 유즈카</a></p></td>
 <td></td>
 <td></td>
-<td><p>드래프트3기</p></td>
+<td><p>드래프트<br />
+3기</p></td>
 <td><p>DH</p></td>
 <td><p>팀4</p></td>
 <td></td>
