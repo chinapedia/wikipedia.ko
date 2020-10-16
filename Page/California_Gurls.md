@@ -134,7 +134,7 @@
   - [공식 채널](https://www.youtube.com/watch?v=F57P9C4SAW4) - [유튜브](../Page/유튜브.md "wikilink")
   - [공식 뮤직 비디오](http://www.mtv.com/videos/katy-perry/527631/california-gurls.jhtml) MTV
 
-[분류:2010년 싱글](https://ko.wikipedia.org/wiki/분류:2010년_싱글 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:일렉트로팝 노래](https://ko.wikipedia.org/wiki/분류:일렉트로팝_노래 "wikilink") [분류:미국의 노래](https://ko.wikipedia.org/wiki/분류:미국의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:스눕 독의 노래](https://ko.wikipedia.org/wiki/분류:스눕_독의_노래 "wikilink") [분류:캘리포니아주에 관한 노래](https://ko.wikipedia.org/wiki/분류:캘리포니아주에_관한_노래 "wikilink")
+[분류:2010년 싱글](https://ko.wikipedia.org/wiki/분류:2010년_싱글 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:일렉트로팝 노래](https://ko.wikipedia.org/wiki/분류:일렉트로팝_노래 "wikilink") [분류:미국의 노래](https://ko.wikipedia.org/wiki/분류:미국의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:스눕 독의 노래](https://ko.wikipedia.org/wiki/분류:스눕_독의_노래 "wikilink") [분류:캘리포니아주에 관한 노래](https://ko.wikipedia.org/wiki/분류:캘리포니아주에_관한_노래 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.
 2.

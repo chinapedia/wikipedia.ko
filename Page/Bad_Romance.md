@@ -145,7 +145,7 @@
 
 <references/>
 
-[분류:레이디 가가의 노래](https://ko.wikipedia.org/wiki/분류:레이디_가가의_노래 "wikilink") [분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:일렉트로팝 노래](https://ko.wikipedia.org/wiki/분류:일렉트로팝_노래 "wikilink") [분류:미국의 노래](https://ko.wikipedia.org/wiki/분류:미국의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink")
+[분류:레이디 가가의 노래](https://ko.wikipedia.org/wiki/분류:레이디_가가의_노래 "wikilink") [분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:일렉트로팝 노래](https://ko.wikipedia.org/wiki/분류:일렉트로팝_노래 "wikilink") [분류:미국의 노래](https://ko.wikipedia.org/wiki/분류:미국의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.
 2.

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [모르프OS](https://ko.wikipedia.org/wiki/모르프OS).
 
 
-**모르프OS**(MorphOS)는 [아미가OS](https://ko.wikipedia.org/wiki/아미가OS "wikilink") 계열의 [운영 체제이다](../Page/운영_체제.md "wikilink"). [파워PC](../Page/파워PC.md "wikilink")로 운영되며 2.4버전부터 [맥 미니](https://ko.wikipedia.org/wiki/맥_미니 "wikilink") G4에 설치할 수 있다. 쿼크 (Quark) [마이크로커널](../Page/마이크로커널.md "wikilink")가 모르프OS의 중심 기반이다.
+**모르프OS**(MorphOS)는 [아미가OS](../Page/아미가OS.md "wikilink") 계열의 [운영 체제이다](../Page/운영_체제.md "wikilink"). [파워PC](../Page/파워PC.md "wikilink")로 운영되며 2.4버전부터 [맥 미니](https://ko.wikipedia.org/wiki/맥_미니 "wikilink") G4에 설치할 수 있다. 쿼크 (Quark) [마이크로커널](../Page/마이크로커널.md "wikilink")가 모르프OS의 중심 기반이다.
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:AmigaOS_3_and_clones.svg "wikilink")
 
