@@ -23,7 +23,7 @@
 
 ## 경쟁 뉴스 프로그램
 
-  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
   - [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"))
   - [모닝와이드](../Page/모닝와이드.md "wikilink") ([SBS](../Page/SBS.md "wikilink"))
   - [뉴스출발](../Page/뉴스출발.md "wikilink") ([YTN](../Page/YTN.md "wikilink"))

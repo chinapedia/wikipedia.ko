@@ -119,6 +119,7 @@
 ### 뮤지컬송 앨범
 
 1.  演劇女子部「不思議の国のアリスたち」オリジナルサウンドトラック (2019년 [5월 29일](../Page/5월_29일.md "wikilink"))
+2.  演劇女子部「アラビヨーンズナイト」オリジナルサウンドラック (2020년 [11월 11일](../Page/11월_11일.md "wikilink"))
 
 ### 미발매곡
 
@@ -159,7 +160,7 @@
 ### 라디오
 
   - HELLO\! DRIVE\! -하로드라- (2019년 1월 17일 \~ , [라디오 네오](https://ko.wikipedia.org/wiki/라디오_네오 "wikilink") 사회 : 이치오카 레이나)
-  - 카나자와 토모코의 Vivid Midnight (2019년 10월 5일 \~ , [NACK5](https://ko.wikipedia.org/wiki/FM_넥파이브 "wikilink"))
+  - 카나자와 토모코의 Vivid Midnight (2019년 10월 5일 \~ , [NACK5](../Page/FM_넥파이브.md "wikilink"))
   - 아직 아직 화요일이라고\! BEYOOOOONDS QUEST\! (2019년 11월 5일 \~ , [FM OH\!](../Page/FM_오사카.md "wikilink") 사회 : 니시다 시오리, 에구치 사야)※『J3 Tuesday〜Midnight IQ (idol quest)〜』내 코너
   - BEYOOOOONDS의 비요～～～～～훌쩍 뛰어넘어 나이트\! (2020년 4월 4일 \~ , [도호쿠 방송](../Page/도호쿠_방송.md "wikilink"))
 
