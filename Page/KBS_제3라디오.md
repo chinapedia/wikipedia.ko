@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 제3라디오](https://ko.wikipedia.org/wiki/KBS_제3라디오).
 
 
-**KBS 제3라디오**([호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink"): **HLKC**, 별칭: **사랑의 소리 방송**)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [라디오](../Page/라디오.md "wikilink") 채널이다. [장애인](../Page/장애인.md "wikilink") 등 소외계층을 위한 [복지](https://ko.wikipedia.org/wiki/사회복지 "wikilink") 정보, [정책](https://ko.wikipedia.org/wiki/정책 "wikilink"), [사회복지공동모금회](../Page/사회복지공동모금회.md "wikilink") 일상 정보 등을 방송한다. [1995년](../Page/1995년.md "wikilink") [12월 20일에](../Page/12월_20일.md "wikilink") [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink") FM 방송의 부가 음성으로 시작하여 [2000년](../Page/2000년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") [KBS 제2라디오의](../Page/KBS_제2라디오.md "wikilink") 중파 주파수를 편입, 별도의 AM 라디오 방송망을 구축하며 KBS 제3라디오라는 이름을 얻었다. 방송되는 프로그램 중 [내일은 푸른하늘은](../Page/내일은_푸른하늘.md "wikilink") [2003년](../Page/2003년.md "wikilink") [7월 14일부터](../Page/7월_14일.md "wikilink") [KBS 제1라디오에서](../Page/KBS_제1라디오.md "wikilink") 넘어온 프로그램이다. 라디오 채널 특성상 재방송 편성 비율이 많은 채널이다.
+**KBS 제3라디오**([호출부호](https://ko.wikipedia.org/wiki/호출부호 "wikilink"): **HLKC**, 별칭: **사랑의 소리 방송**)는 [한국방송공사](../Page/한국방송공사.md "wikilink")에서 운영·방송하는 [라디오](../Page/라디오.md "wikilink") 채널이다. [장애인](../Page/장애인.md "wikilink") 등 소외계층을 위한 [복지](https://ko.wikipedia.org/wiki/사회복지 "wikilink") 정보, [정책](https://ko.wikipedia.org/wiki/정책 "wikilink"), [사회복지공동모금회](../Page/사회복지공동모금회.md "wikilink") 일상 정보 등을 방송한다. [1995년](../Page/1995년.md "wikilink") [12월 20일에](../Page/12월_20일.md "wikilink") [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink") FM 방송의 부가 음성으로 시작하여 [2000년](../Page/2000년.md "wikilink") [1월 1일에](../Page/1월_1일.md "wikilink") [KBS 제2라디오의](../Page/KBS_제2라디오.md "wikilink") 중파 주파수를 편입, 별도의 AM 라디오 방송망을 구축하며 KBS 제3라디오라는 이름을 얻었다. 방송되는 프로그램 중 [내일은 푸른하늘은](../Page/내일은_푸른하늘.md "wikilink") [2003년](../Page/2003년.md "wikilink") [7월 14일부터](../Page/7월_14일.md "wikilink") [KBS 제1라디오에서](../Page/KBS_제1라디오.md "wikilink") 넘어온 프로그램이다.
 
 ## 역사
 
@@ -31,7 +31,7 @@
   - 08:05《[건강 365](../Page/건강_365.md "wikilink")》(16:05 재방송) - 평일 : [최윤경](../Page/최윤경.md "wikilink") 아나운서 / 주말 : 박광식 의학전문기자
   - 08:55, 16:55《[바른말 고운말](../Page/바른말_고운말_\(라디오_프로그램\).md "wikilink")》 (평일, 재방송) [이규봉](../Page/이규봉.md "wikilink") 아나운서
   - 09:00《[함께하는 세상 만들기](../Page/함께하는_세상_만들기.md "wikilink")》(22:00 재방송) - [장웅](../Page/장웅_\(아나운서\).md "wikilink") 아나운서
-  - 10:05《[오늘의 신문](https://ko.wikipedia.org/wiki/오늘의_신문 "wikilink")》(평일) - [원석현](../Page/원석현.md "wikilink") 아나운서
+  - 10:05《[오늘의 신문](https://ko.wikipedia.org/wiki/오늘의_신문 "wikilink")》(평일) - [강성곤](../Page/강성곤.md "wikilink"), [한상권](../Page/한상권_\(방송인\).md "wikilink"), [성세정](../Page/성세정.md "wikilink") 아나운서, 김다운 성우
   - 10:00《[경제로 통일로](https://ko.wikipedia.org/wiki/경제로_통일로 "wikilink")》 (재방송) ([한민족](../Page/KBS_한민족방송.md "wikilink") 수중계)》(토요일)
   - 10:00《[통일사용설명서](https://ko.wikipedia.org/wiki/통일사용설명서 "wikilink")》(재방송) ([1R](../Page/KBS_제1라디오.md "wikilink") 수중계)》(일요일)
   - 10:50《[KBS 무대](https://ko.wikipedia.org/wiki/KBS_무대 "wikilink")》(재방송) ([한민족](../Page/KBS_한민족방송.md "wikilink") 수중계)》(토요일)
@@ -46,7 +46,7 @@
   - 17:55《[백은하의 영화관, 정여울의 도서관](https://ko.wikipedia.org/wiki/백은하의_영화관,_정여울의_도서관 "wikilink")》 (재방송) ([1R](../Page/KBS_제1라디오.md "wikilink") 수중계)》 - 백은하, 정여울
   - 18:00《[우리는 한가족](https://ko.wikipedia.org/wiki/우리는_한가족 "wikilink")》(평일, 23:00 재방송) - [국혜정](../Page/국혜정.md "wikilink") 아나운서
   - 18:00《[심준구의 세상보기](https://ko.wikipedia.org/wiki/세상보기 "wikilink")》(주말, 23:00 재방송) - 심준구
-  - 21:00《[KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") ([1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 수중계)》
+  - 21:00《[KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") ([1TV](../Page/KBS_1TV.md "wikilink") 수중계)》
   - 21:30《[정관용의 지금, 이 사람](../Page/정관용의_지금,_이_사람.md "wikilink") (재방송) ([1R](../Page/KBS_제1라디오.md "wikilink") 수중계)》(평일) - [정관용](../Page/정관용_\(1962년\).md "wikilink") 교수
   - 21:20《[스포츠 스포츠](../Page/스포츠_스포츠_\(라디오_프로그램\).md "wikilink") ([1R](../Page/KBS_제1라디오.md "wikilink") 수중계)》(주말) - [이창진](../Page/이창진.md "wikilink") 아나운서
   - 01:00《[세월따라 노래따라](../Page/세월따라_노래따라.md "wikilink")》(재방송) ([한민족](../Page/KBS_한민족방송.md "wikilink") 수중계)》 - [원석현](../Page/원석현.md "wikilink") 아나운서
@@ -79,6 +79,7 @@
 
 ## 같이 보기
 
+  - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
   - [가톨릭평화방송](../Page/가톨릭평화방송.md "wikilink")
   - [원음방송](../Page/원음방송.md "wikilink")
   - [불교방송](../Page/불교방송.md "wikilink")

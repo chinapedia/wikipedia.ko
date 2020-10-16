@@ -9,7 +9,7 @@ NTT 그룹 협정 제2조에서 ‘따로 정하는 회사’(別に定める会
 
 ## 주요 기업
 
-  - [일본전신전화](../Page/일본전신전화.md "wikilink") ([지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink"))
+  - [일본전신전화](../Page/일본전신전화.md "wikilink") ([지주회사](../Page/지주회사.md "wikilink"))
   - [동일본 전신전화](../Page/동일본_전신전화.md "wikilink") (NTT 동일본)
   - [서일본 전신전화](../Page/서일본_전신전화.md "wikilink") (NTT 서일본)
   - [NTT 커뮤니케이션즈](https://ko.wikipedia.org/wiki/NTT_커뮤니케이션즈 "wikilink")

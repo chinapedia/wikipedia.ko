@@ -83,7 +83,7 @@
 
 ## 현재 선수 명단
 
-2020년 2월 28일 기준\[1\]                   (주장)
+2020년 9월 18일 기준\[1\]                  (주장)
 
 ### 임대 선수 명단
 
@@ -128,7 +128,7 @@
 
 <!-- end list -->
 
-  - **[세리에 B 우승](../Page/세리에_B.md "wikilink"): 1**
+  - **[세리에 B 이탈리아 챔피언](../Page/세리에_B.md "wikilink"): 1**
 
 <!-- end list -->
 
@@ -181,14 +181,14 @@
 
 | 등급                                           | 리그              | 참가 횟수                                                             | 데뷔 시즌                                                                   | 마지막 시즌                                                                  | 총계        |
 | -------------------------------------------- | --------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------- |
-| <span style="font-size: 140%;">**1부**</span> | **디비시오네 나치오날레** | **4회**                                                            | [1926-27](https://ko.wikipedia.org/wiki/디비시오네_나치오날레_1926-27 "wikilink") | [1945-46](https://ko.wikipedia.org/wiki/디비시오네_나치오날레_1945-46 "wikilink") | **77회**   |
-| **세리에 A**                                    | **73회**         | [1929-30](https://ko.wikipedia.org/wiki/세리에_A_1929-30 "wikilink") | [2018-19](https://ko.wikipedia.org/wiki/세리에_A_2018-19 "wikilink")       |                                                                         |           |
+| <span style="font-size: 140%;">**1부**</span> | **디비시오네 나치오날레** | **4회**                                                            | [1926-27](https://ko.wikipedia.org/wiki/디비시오네_나치오날레_1926-27 "wikilink") | [1945-46](https://ko.wikipedia.org/wiki/디비시오네_나치오날레_1945-46 "wikilink") | **78회**   |
+| **세리에 A**                                    | **74회**         | [1929-30](https://ko.wikipedia.org/wiki/세리에_A_1929-30 "wikilink") | [2019-20](../Page/세리에_A_2019-20.md "wikilink")                          |                                                                         |           |
 | <span style="font-size: 140%;">**2부**</span> | **세리에 B**       | **12회**                                                           | [1942-43](https://ko.wikipedia.org/wiki/세리에_B_1942-43 "wikilink")       | [2006-07](https://ko.wikipedia.org/wiki/세리에_B_2006-07 "wikilink")       | | **12회** |
 | <span style="font-size: 140%;">**3부**</span> | **세리에 C1**      | **2회**                                                            | [2004-05](https://ko.wikipedia.org/wiki/세리에_C1_2004-05 "wikilink")      | [2005-06](https://ko.wikipedia.org/wiki/세리에_C1_2005-06 "wikilink")      | | **2회**  |
 
   - 세리에 A
 
-나폴리는 최상위 리그에 **77회** 참가했으며, 그 중 [세리에 A에](../Page/세리에_A.md "wikilink") **73회** 참가하여, 총 **20회** 메달권에 들었다.:
+나폴리는 최상위 리그에 **78회** 참가했으며, 그 중 [세리에 A에](../Page/세리에_A.md "wikilink") **74회** 참가하여, 총 **20회** 메달권에 들었다:
 
   - **2회** 우승 ([1986-87](https://ko.wikipedia.org/wiki/세리에_A_1986-87 "wikilink"), [1989-90](https://ko.wikipedia.org/wiki/세리에_A_1989-90 "wikilink"))
   - **6회** 준우승 ([1967-68](../Page/세리에_A_1967-68.md "wikilink"), [1974-75](https://ko.wikipedia.org/wiki/세리에_A_1974-75 "wikilink"), [1987-88](https://ko.wikipedia.org/wiki/세리에_A_1987-88 "wikilink"), [1988-89](https://ko.wikipedia.org/wiki/세리에_A_1988-89 "wikilink"), [2012-13](../Page/세리에_A_2012-13.md "wikilink"), [2015-16](../Page/세리에_A_2015-16.md "wikilink"))
@@ -198,7 +198,7 @@
 
   - 세리에 B
 
-나폴리는 [세리에 B에](../Page/세리에_B.md "wikilink") 총 **12회** 참가하여 **5번** 승격을 이뤘다.:
+나폴리는 [세리에 B에](../Page/세리에_B.md "wikilink") 총 **12회** 참가하여 **5번** 승격을 이뤘다:
 
   - **1회** 우승 ([1949-50](https://ko.wikipedia.org/wiki/세리에_B_1949-50 "wikilink"))
   - **4회** 준우승 ([1961-62](https://ko.wikipedia.org/wiki/세리에_B_1961-62 "wikilink"), [1964-65](https://ko.wikipedia.org/wiki/세리에_B_1964-65 "wikilink"), [1999-00](https://ko.wikipedia.org/wiki/세리에_B_1999-2000 "wikilink"), [2006-07](https://ko.wikipedia.org/wiki/세리에_B_2006-07 "wikilink"))
@@ -207,7 +207,7 @@
 
   - 세리에 C
 
-나폴리는 [세리에 C1에](https://ko.wikipedia.org/wiki/세리에_C1 "wikilink") **2회** 참가하여 **1번** 승격을 이뤘다.:
+나폴리는 [세리에 C1에](https://ko.wikipedia.org/wiki/세리에_C1 "wikilink") **2회** 참가하여 **1번** 승격을 이뤘다:
 
   - **1회** B조에서 우승 ([2005-06](https://ko.wikipedia.org/wiki/세리에_C1_2005-06 "wikilink"))
 
@@ -215,19 +215,31 @@
 
   - 코파 이탈리아
 
-나폴리는 [코파 이탈리아에](../Page/코파_이탈리아.md "wikilink") 총 **67회** 참가하여 결승전에 **9번** 진출했다.:
+나폴리는 [코파 이탈리아에](../Page/코파_이탈리아.md "wikilink") 총 **70회** 참가하여 결승전에 **9번** 진출했다:
 
   - **5회** 우승 ([1961-62](https://ko.wikipedia.org/wiki/코파_이탈리아_1961-62 "wikilink"), [1975-76](https://ko.wikipedia.org/wiki/코파_이탈리아_1975-76 "wikilink"), [1986-87](https://ko.wikipedia.org/wiki/코파_이탈리아_1986-87 "wikilink"), [2011-12](https://ko.wikipedia.org/wiki/코파_이탈리아_2011-12 "wikilink"), [2013-14](../Page/코파_이탈리아_2013-14.md "wikilink"))
   - **4회** 준우승 ([1971-72](https://ko.wikipedia.org/wiki/코파_이탈리아_1971-72 "wikilink"), [1977-78](https://ko.wikipedia.org/wiki/코파_이탈리아_1977-78 "wikilink"), [1988-89](https://ko.wikipedia.org/wiki/코파_이탈리아_1988-89 "wikilink"), [1996-97](https://ko.wikipedia.org/wiki/코파_이탈리아_1996-97 "wikilink"))
 
 <!-- end list -->
 
+  - 코파 이탈리아 세리에 C
+
+나폴리는 [코파 이탈리아 세리에 C](../Page/코파_이탈리아_세리에_C.md "wikilink") [2005-06시즌에](https://ko.wikipedia.org/wiki/코파_이탈리아_세리에_C_2005-06 "wikilink") 참가하여 우승이나 결승전 진출하지 못했다.
+
   - 수페르코파 이탈리아나
 
-나폴리는 [수페르코파 이탈리아나에](../Page/수페르코파_이탈리아나.md "wikilink") 총 **3회** 참가했다.:
+나폴리는 [수페르코파 이탈리아나에](../Page/수페르코파_이탈리아나.md "wikilink") 총 **3회** 참가했다:
 
   - **2회** 우승 ([1990](https://ko.wikipedia.org/wiki/수페르코파_이탈리아나_1990 "wikilink"), [2014](../Page/수페르코파_이탈리아나_2014.md "wikilink"))
   - **1회** 준우승 ([2012](../Page/수페르코파_이탈리아나_2012.md "wikilink"))
+
+<!-- end list -->
+
+  - 수페르코파 이탈리아나 세리에 C1
+
+나폴리는 [수페르코파 이탈리아나 세리에 C1](https://ko.wikipedia.org/wiki/수페르코파_이탈리아나_세리에_C1 "wikilink") [2006시즌에](https://ko.wikipedia.org/wiki/수페르코파_이탈리아나_세리에_C1_2006 "wikilink") 참가했다.
+
+  - **1회** 준우승 ([2006](https://ko.wikipedia.org/wiki/수페르코파_이탈리아나_세리에_C1_2006 "wikilink"))
 
 ## 클럽 통계 및 기록
 

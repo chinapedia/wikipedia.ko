@@ -246,9 +246,11 @@ FM 95.1㎒ 시민의 방송 TBS에서 OO를 알려드립니다
   - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
   - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
   - [EBS FM](../Page/EBS_FM.md "wikilink")
-  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
+  - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
-  - [SBS 러브FM](../Page/SBS_러브FM.md "wikilink")
+  - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
+  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
+  - [극동방송](../Page/극동방송.md "wikilink")
 
 ## 각주
 

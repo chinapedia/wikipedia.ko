@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [M24 SWS](https://ko.wikipedia.org/wiki/M24_SWS).
 
 
-**M24 SWS**()는 [볼트 액션식의](https://ko.wikipedia.org/wiki/볼트_액션 "wikilink") [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink")으로, [군대](../Page/군대.md "wikilink")와 [경찰](../Page/경찰.md "wikilink")판 [레밍턴 700이다](https://ko.wikipedia.org/wiki/레밍턴_700 "wikilink"). [M21의](https://ko.wikipedia.org/wiki/M21_저격총 "wikilink") 뒤를 이어 [1988년](../Page/1988년.md "wikilink"), [미육군과](../Page/미국_육군.md "wikilink") [이스라엘 방위군에](../Page/이스라엘_방위군.md "wikilink") [채용](https://ko.wikipedia.org/wiki/채용 "wikilink")되었다. [미해병대는](../Page/미국_해병대.md "wikilink") 이미 [1960년대](../Page/1960년대.md "wikilink")부터 같은 [레밍턴 M700을](../Page/레밍턴_M700.md "wikilink") 기초로 한 [M40을](https://ko.wikipedia.org/wiki/M40_저격총 "wikilink") **표준 [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink")**으로서 쓰고 있다.
+**M24 SWS**()는 [볼트 액션식의](https://ko.wikipedia.org/wiki/볼트_액션 "wikilink") [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink")으로, [군대](../Page/군대.md "wikilink")와 [경찰](../Page/경찰.md "wikilink")판 [레밍턴 700이다](https://ko.wikipedia.org/wiki/레밍턴_700 "wikilink"). [M21의](https://ko.wikipedia.org/wiki/M21_저격총 "wikilink") 뒤를 이어 [1988년](../Page/1988년.md "wikilink"), [미육군과](../Page/미국_육군.md "wikilink") [이스라엘 방위군에](../Page/이스라엘_방위군.md "wikilink") 채용되었다. [미해병대는](../Page/미국_해병대.md "wikilink") 이미 [1960년대](../Page/1960년대.md "wikilink")부터 같은 [레밍턴 M700을](../Page/레밍턴_M700.md "wikilink") 기초로 한 [M40을](https://ko.wikipedia.org/wiki/M40_저격총 "wikilink") **표준 [저격총](https://ko.wikipedia.org/wiki/저격총 "wikilink")**으로서 쓰고 있다.
 
 [개머리판](https://ko.wikipedia.org/wiki/개머리판 "wikilink")은 HS Precision형으로, 최대 2.7 인치 (69mm)까지 어깨받이를 조절할 수 있다. [총열](https://ko.wikipedia.org/wiki/총열 "wikilink")은 11.2 인치(284 mm)에 1회, 5선, 프리-플로팅이다.
 

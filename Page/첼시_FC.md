@@ -69,9 +69,7 @@
 
 2013년 6월 3일, 첼시는 [조세 무리뉴가](https://ko.wikipedia.org/wiki/조세_무리뉴 "wikilink") 다시 팀으로 복귀했다는 소식을 타진하였다.\[60\] 2014-15시즌, 첼시는 8년만에 [풋볼 리그 컵에서](https://ko.wikipedia.org/wiki/풋볼_리그_컵 "wikilink") 우승하였고,\[61\] [리그에서도](../Page/프리미어리그_2014-15.md "wikilink") 승점 87점으로 우승을 거두었다.\[62\] 그러나 다음 시즌, 부진이 장기화되자 구단 측은 결국 무리뉴 감독을 경질했고, [거스 히딩크가](../Page/거스_히딩크.md "wikilink") 임시 감독의 자격으로 다시 부임하였다.\[63\] 그의 후임으로는 [이탈리아 축구 국가대표팀을](../Page/이탈리아_축구_국가대표팀.md "wikilink") 이끌었던 [안토니오 콘테가](../Page/안토니오_콘테.md "wikilink") 선임되었다. 콘테의 지휘하에 첼시는 2016-17시즌 [프리미어리그](../Page/프리미어리그_2016-17.md "wikilink") 우승과 이듬해 FA컵 우승을 차지하였다.
 
-2018-19시즌, 콘테가 해임되자 그 자리는 또 다른 이탈리아 출신의 감독인 [마우리치오 사리에게](../Page/마우리치오_사리.md "wikilink") 돌아갔다. 사리는 [리그](https://ko.wikipedia.org/wiki/프리미어리그_2018-19 "wikilink") 3위와 [유로파리그](../Page/2018-19년_UEFA_유로파리그.md "wikilink") 우승을 달성하였으나, 1년 만에 팀을 떠났다. 2019-20시즌을 앞두고 첼시는 과거 선수 시절 미들라이커로 이름을 알렸던 [프랭크 램퍼드를](https://ko.wikipedia.org/wiki/프랭크_램퍼드 "wikilink") 첼시의 새로운 감독으로 선임하였다. 그 후, 램파드가 부임한 첼시는 시즌 초반에 영입 금지 징계를 딛고, 리그 4위로 기록하여 챔피언스리그 진출권을 따냈다.
-
-리그 4위로 기록하여 시즌을 마감한 첼시는 영입 금지 징계 해제 후, [하킴 지예흐](../Page/하킴_지예흐.md "wikilink"), [티모 베르너](../Page/티모_베르너.md "wikilink"), [벤 칠웰](../Page/벤_칠웰.md "wikilink"), [말랑 사르](https://ko.wikipedia.org/wiki/말랑_사르 "wikilink"), [티아고 실바](https://ko.wikipedia.org/wiki/티아고_실바 "wikilink") 등을 폭풍 영입하여 전 포지션 보강에 힘썼다. 그 후, 2020년 9월 15일(한국시간)에 있었던 2020-21 개막전인 [브라이튼](https://ko.wikipedia.org/wiki/브라이튼_앤_호브_알비온 "wikilink") 원정 경기에서 3-1로 승리를 거둬 EPL 1,077경기 만에 2,000승점을 달성했다. 이 기록은 맨체스터 유나이티드(2,234승점), 아스널 FC(2,014승점)에 이어 3위에 해당하는 기록이다.
+2018-19시즌, 콘테가 해임되자 그 자리는 또 다른 이탈리아 출신의 감독인 [마우리치오 사리에게](../Page/마우리치오_사리.md "wikilink") 돌아갔다. 사리는 [리그](https://ko.wikipedia.org/wiki/프리미어리그_2018-19 "wikilink") 3위와 [유로파리그](../Page/2018-19년_UEFA_유로파리그.md "wikilink") 우승을 달성하였으나, 1년 만에 팀을 떠났다. 첼시는 과거 선수 출신인 [프랭크 램퍼드를](https://ko.wikipedia.org/wiki/프랭크_램퍼드 "wikilink") 새로운 감독으로 선임하였다.
 
 ## 경기장
 
@@ -215,7 +213,7 @@
 
 <!-- end list -->
 
-  - **풀 멤버스 컵 (폐지)**
+  - **풀 멤버스 컵 (현재 폐지)**
 
 <!-- end list -->
 
@@ -855,12 +853,6 @@
 <td></td>
 <td><p>2018.07-2019.06</p></td>
 <td><p><strong><a href="../Page/UEFA_유로파리그.md" title="wikilink">UEFA 유로파리그</a> (1)</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/프랭크_램파드" title="wikilink">프랭크 램파드</a></p></td>
-<td></td>
-<td><p>2019-</p></td>
-<td></td>
 </tr>
 </tbody>
 </table>

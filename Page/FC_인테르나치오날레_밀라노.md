@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [FC 인테르나치오날레 밀라노](https://ko.wikipedia.org/wiki/FC_인테르나치오날레_밀라노).
 
 
-**FC 인테르나치오날레 밀라노**(, 통상 **인테르**로 불리며, 영어권에서는 **인터 밀란**\[1\]\[2\])는 [이탈리아](../Page/이탈리아.md "wikilink") [프로축구](../Page/축구.md "wikilink") 1부 리그인 [세리에 A에](../Page/세리에_A.md "wikilink") 소속되어 있는 축구 클럽이다. 별칭으로 유니폼이 검정색/파랑색 줄무늬의 이탈리아어인 **네라추리**(Nerazzurri)라고 불린다. 명칭 중의 연고지 표기인 "밀라노"는 생략하는 경우가 있으나, 수식어인 "인테르나치오날레"는 경쟁팀인 [AC 밀란과](../Page/AC_밀란.md "wikilink") 구별하기 위해서 줄여서라도 반드시 언급한다 (예: 영어로 Inter Milan).
+**FC 인테르나치오날레 밀라노**(, 통상 **인테르**로 불리며, 영어권에서는 **인터 밀란**\[1\]\[2\])는 [이탈리아](../Page/이탈리아.md "wikilink") [프로축구](../Page/축구.md "wikilink") 1부 리그인 [세리에 A에](../Page/세리에_A.md "wikilink") 소속되어 있는 축구 클럽이다. 별칭으로 유니폼이 검은색/파랑색 줄무늬의 이탈리아어인 **네라추리**(Nerazzurri)라고 불린다. 명칭 중의 연고지 표기인 "밀라노"는 생략하는 경우가 있으나, 수식어인 "인테르나치오날레"는 경쟁팀인 [AC 밀란과](../Page/AC_밀란.md "wikilink") 구별하기 위해서 줄여서라도 반드시 언급한다 (예: 영어로 Inter Milan).
 
 [1908년](../Page/1908년.md "wikilink") [3월 9일](../Page/3월_9일.md "wikilink") AC 밀란에서 독립하여 창단하였다. [유벤투스 FC](../Page/유벤투스_FC.md "wikilink"), [AC 밀란과](../Page/AC_밀란.md "wikilink") 함께 이탈리아를 대표하는 전통의 명문클럽이다. 지금까지 세리에 A에서 18회의 우승을 차지하였으며, 이는 [유벤투스 FC](../Page/유벤투스_FC.md "wikilink") 다음으로 많은 것이다. [UEFA 챔피언스리그에서](../Page/UEFA_챔피언스리그.md "wikilink") 3회(준우승 2회), [UEFA컵](https://ko.wikipedia.org/wiki/UEFA컵 "wikilink")에서 3회 우승하였다. 연고지는 [롬바르디아주](../Page/롬바르디아주.md "wikilink") [밀라노](../Page/밀라노.md "wikilink")이며, 홈 구장은 85,700명을 수용할 수 있는 규모의 [스타디오 주세페 메아차이다](../Page/스타디오_주세페_메아차.md "wikilink"). 경기장 이름의 유래가 된 [주세페 메아차는](../Page/주세페_메아차.md "wikilink") 과거 인테르에서 뛰었던 위대한 축구 선수 중 하나이다.
 

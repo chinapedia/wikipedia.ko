@@ -123,10 +123,10 @@ H.O.T 멤버 중 1인은 손해배상액 조건이 계약금의 3배, 총 투자
 
   - [1996년](../Page/1996년.md "wikilink") [오리온](https://ko.wikipedia.org/wiki/오리온_\(기업\) "wikilink") 미스터 해머
   - [1996년](../Page/1996년.md "wikilink") [삼성전자](https://ko.wikipedia.org/wiki/삼성전자 "wikilink") 미니미니 (오디오)
-  - [1996년](../Page/1996년.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [SK텔레콤](../Page/SK텔레콤.md "wikilink") SPEED 012
+  - [1996년](../Page/1996년.md "wikilink") \~ [1997년](../Page/1997년.md "wikilink") [SK텔레콤](../Page/SK텔레콤.md "wikilink") SPEED 012 토이스토리 시드 목소리 역 \~ 토이스토리 앤디 목소리 역
   - [1997년](../Page/1997년.md "wikilink") 에리트 학생복
   - [1998년](../Page/1998년.md "wikilink") 한국관광의 해 홍보광고 'Welcome to Korea'
-  - [1999년](../Page/1999년.md "wikilink") [LG생활건강](../Page/LG생활건강.md "wikilink") 틱톡 H.O.T (음료)
+  - [1999년](../Page/1999년.md "wikilink") [LG생활건강](../Page/LG생활건강.md "wikilink") 틱톡 H.O.T (르망 똥차)
   - [1999년](../Page/1999년.md "wikilink") [롯데제과](../Page/롯데제과.md "wikilink") 썬칩
   - [2000년](../Page/2000년.md "wikilink") [화승](https://ko.wikipedia.org/wiki/르까프 "wikilink") 르까프
   - [2000년](../Page/2000년.md "wikilink") [LG전자](../Page/LG전자.md "wikilink") IBM 멀티넷i

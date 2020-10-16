@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SKS](https://ko.wikipedia.org/wiki/SKS).
 
 
-[right](https://ko.wikipedia.org/wiki/파일:SKS_Flickr.jpg "wikilink") **1945년형 시모노프 자동급탄 기총**(, )는 [1945년](../Page/1945년.md "wikilink") [소련](../Page/소련.md "wikilink")의 Sergei Gavrilovich Simonov에 의해 설계된 [반자동 소총이다](https://ko.wikipedia.org/wiki/반자동_소총 "wikilink"). [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 후 약 20\~30년간 [AK-47](../Page/AK-47.md "wikilink")과 함께 [소련군](../Page/소련군.md "wikilink") 표준 제식 화기로 널리 사용되었다. [소련](../Page/소련.md "wikilink")군 [개량형 칼라시니코프 자동소총](../Page/개량형_칼라시니코프_자동소총.md "wikilink")(AKM)의 보급이 늘면서 점차 일선에서 사라지게 되었다.
+[right](https://ko.wikipedia.org/wiki/파일:SKS_Flickr.jpg "wikilink") **1945년형 시모노프 자동급탄 기총**(, )는 [1945년](../Page/1945년.md "wikilink") [소련](../Page/소련.md "wikilink")의 Sergei Gavrilovich Simonov에 의해 설계된 [반자동 소총이다](https://ko.wikipedia.org/wiki/지정사수소총 "wikilink"). [제2차 세계 대전](../Page/제2차_세계_대전.md "wikilink") 후 약 20\~30년간 [AK-47](../Page/AK-47.md "wikilink")과 함께 [소련군](../Page/소련군.md "wikilink") 표준 제식 화기로 널리 사용되었다. [소련](../Page/소련.md "wikilink")군 [개량형 칼라시니코프 자동소총](../Page/개량형_칼라시니코프_자동소총.md "wikilink")(AKM)의 보급이 늘면서 점차 일선에서 사라지게 되었다.
 
 [7.62 x 39 mm](https://ko.wikipedia.org/wiki/7.62_x_39_mm "wikilink") 탄을 사용하며, [쇼트 스트로크 가스피스톤 방식](https://ko.wikipedia.org/wiki/쇼트_스트로크_가스피스톤_방식 "wikilink"), [틸팅 볼트 방식으로](https://ko.wikipedia.org/wiki/틸팅_볼트_방식 "wikilink") 동작한다.
 
@@ -15,7 +15,7 @@
 
 ## 대중 문화
 
-  - [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink"), [배틀그라운드 모바일에서](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink") [7.62mm탄을](../Page/7.62_×_51_mm_NATO.md "wikilink") 사용하는 [총](../Page/총.md "wikilink") SKS로 등장한다.
+  - [배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink"), [배틀그라운드 모바일에서](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink") [7.62mm탄을](../Page/7.62_×_51_mm_NATO.md "wikilink") 사용하는 [DMR](https://ko.wikipedia.org/wiki/지정사수소총 "wikilink") SKS로 등장한다.
 
 ## 외부 링크
 

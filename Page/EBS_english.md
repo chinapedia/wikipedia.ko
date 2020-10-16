@@ -21,7 +21,7 @@
 
 ## 방송 시간
 
-  - 매일 오전 06:00 \~ 다음 날 오전 12:00 (24시간)
+  - 매일 오전 06:00 \~ 다음 날 오전 12:00 (24시간) url [www.kbs.co.kr](https://ko.wikipedia.org/wiki/www.kbs.co.kr "wikilink")
 
 ## 같이 보기
 

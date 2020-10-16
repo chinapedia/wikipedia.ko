@@ -141,7 +141,7 @@ SKT,KT,LGU+를 통해 출시되었다.
   - [마라티어](https://ko.wikipedia.org/wiki/마라티어 "wikilink") -
   - [힌디어](../Page/힌디어.md "wikilink") - ,
   - [벵골어](../Page/벵골어.md "wikilink") - ,
-  - [펀자브어](https://ko.wikipedia.org/wiki/펀자브어 "wikilink") -
+  - [펀자브어](../Page/펀자브어.md "wikilink") -
   - [구자라트어](https://ko.wikipedia.org/wiki/구자라트어 "wikilink") -
   - [타밀어](https://ko.wikipedia.org/wiki/타밀어 "wikilink") - , ,
   - [텔루구어](https://ko.wikipedia.org/wiki/텔루구어 "wikilink") -

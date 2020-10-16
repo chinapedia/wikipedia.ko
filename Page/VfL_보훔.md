@@ -3,7 +3,7 @@
 
 **VfL 보훔**(VfL Bochum 1848 e.V.)는 [보훔](../Page/보훔.md "wikilink")에 위치한 [루르슈타디온](https://ko.wikipedia.org/wiki/루르슈타디온 "wikilink")을 근거로 하는 [독일](../Page/독일.md "wikilink")의 [축구](../Page/축구.md "wikilink") 클럽이다. 현재 감독은 [토마스 라이스이다](https://ko.wikipedia.org/wiki/토마스_라이스 "wikilink").
 
-이 축구단은 [1848년](../Page/1848년.md "wikilink") 창단되었다. 현재 [2 분데스리가에](../Page/2._분데스리가.md "wikilink") 속해 있다.
+이 축구단은 [1848년](../Page/1848년.md "wikilink") 창단되었다. 현재 [2. 분데스리가에](../Page/2._분데스리가.md "wikilink") 속해 있다.
 
 ## 역대 성적
 

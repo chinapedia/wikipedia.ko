@@ -77,6 +77,8 @@
 
 ### 현재 선수 명단
 
+2020년 9월 18일 기준\[2\]
+
 ### 임대 선수 명단
 
 ### 공동 소유 명단
@@ -269,7 +271,7 @@
 
 <!-- end list -->
 
-  - **[세리에 B 우승](../Page/세리에_B.md "wikilink"): 1**
+  - **[세리에 B 이탈리아 챔피언](../Page/세리에_B.md "wikilink"): 1**
 
 <!-- end list -->
 
@@ -368,3 +370,4 @@
 [\*](https://ko.wikipedia.org/wiki/분류:SS_라치오 "wikilink") [분류:이탈리아의 축구단](https://ko.wikipedia.org/wiki/분류:이탈리아의_축구단 "wikilink") [분류:로마의 축구단](https://ko.wikipedia.org/wiki/분류:로마의_축구단 "wikilink") [분류:1900년 설립된 축구단](https://ko.wikipedia.org/wiki/분류:1900년_설립된_축구단 "wikilink") [분류:1900년 설립된 스포츠 클럽](https://ko.wikipedia.org/wiki/분류:1900년_설립된_스포츠_클럽 "wikilink") [분류:세리에 A 구단](https://ko.wikipedia.org/wiki/분류:세리에_A_구단 "wikilink") [분류:세리에 B 구단](https://ko.wikipedia.org/wiki/분류:세리에_B_구단 "wikilink")
 
 1.
+2.

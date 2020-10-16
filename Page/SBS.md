@@ -39,7 +39,7 @@
 ## 질병
 
   - [아픈 건물 증후군](../Page/아픈_건물_증후군.md "wikilink")(SBS, Sick Building Syndrome) - 건물 환경에 의한 여러 병적 증상들을 일컫는다.
-  - [흔들린 아이 증후군](../Page/흔들린_아이_증후군.md "wikilink")(Shaken Baby Syndrome) - 아기를 심하게 여러 차례 흔들었을 때 생기는 질환
+  - [흔들린 아이 증후군](../Page/흔들린_아이_증후군.md "wikilink")(Shaken Baby Syndrome) - 아기를 심하게 여러 차례 흔들었을 때 생기는 질환이다.
 
 ## 기타
 

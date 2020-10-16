@@ -97,7 +97,7 @@ MTV는 당시 록 음악 중심으로 구성된 프로그램과 어울리지 않
 
 1997년 후반에 돌입하자 MTV는 “Rock is dead(락은 죽었다)”라는 슬로건을 내세우며 락 뮤직비디오 방송 량을 급격히 줄이기 시작했다. 이러한 MTV의 행동 변화는 몇몇 주요 밴드들의 해체, 상업성보다 예술성이 짙었던 음악의 판매량이 감소하는 것의 이유라는 말도 나오게 되었다. MTV에서 들을 수 있는 음악은 거의 팝과 힙합/알앤비 음악이었다. 락음악 전용 채널도 없어졌고 [비디오 뮤직 어워드](https://ko.wikipedia.org/wiki/비디오_뮤직_어워드 "wikilink")(Video Music Awards)의 락음악 관련 시상 부문은 하나로 줄어들었다.
 
-이때부터 2004년까지, MTV는 대중적인 락음악을 다시금 소개시키기로 했다. 1998년부터 1999년까지 MTV에 줄곧 등장하는 보이밴드들을 조롱하는 곡 “All the Small Things”를 부른 팝펑크 밴드 [블링크-182](../Page/블링크-182.md "wikilink")(Blink-182)도 자주 볼 수 있었다. 한편, MTV의 냉대를 받던 락밴드인 [콘](https://ko.wikipedia.org/wiki/콘 "wikilink")(Korn)과 [크리드](../Page/크리드.md "wikilink")(Creed) 등도 계속적으로 음반발매를 했으며, 콘의 락/랩 하이브리드 앨범 <Follow the Leader>가 발매되면서, MTV는 앨범 수록곡인 “Got the Life”, “Freak on a Leash” 뮤직비디오를 방영하며 다시금 인기를 높이게 했다.
+이때부터 2004년까지, MTV는 대중적인 락음악을 다시금 소개시키기로 했다. 1998년부터 1999년까지 MTV에 줄곧 등장하는 보이밴드들을 조롱하는 곡 “All the Small Things”를 부른 팝펑크 밴드 [블링크-182](../Page/블링크-182.md "wikilink")(Blink-182)도 자주 볼 수 있었다. 한편, MTV의 냉대를 받던 락밴드인 [콘](../Page/콘.md "wikilink")(Korn)과 [크리드](../Page/크리드.md "wikilink")(Creed) 등도 계속적으로 음반발매를 했으며, 콘의 락/랩 하이브리드 앨범 <Follow the Leader>가 발매되면서, MTV는 앨범 수록곡인 “Got the Life”, “Freak on a Leash” 뮤직비디오를 방영하며 다시금 인기를 높이게 했다.
 
 MTV는 [림프 비즈킷](../Page/림프_비즈킷.md "wikilink"), [키드 락](https://ko.wikipedia.org/wiki/키드_락 "wikilink")(Kid Rock)으로 대표되는 랩/락 하이브리드 음악을 점점 더 많이 방송하기 시작했으며, 비디오가 코믹한 [롭 좀비](../Page/롭_좀비.md "wikilink"), [레드 핫 칠리 페퍼스](../Page/레드_핫_칠리_페퍼스.md "wikilink"), [푸 파이터스도](../Page/푸_파이터스.md "wikilink") 볼 수 있었다.
 

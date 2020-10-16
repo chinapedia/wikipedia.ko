@@ -398,9 +398,9 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2020년_UEFA_슈퍼컵.md" title="wikilink">2020</a></p></td>
-<td><p><strong> <a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></strong></p></td>
-<td><p>''' - '''</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/?" title="wikilink">?</a></p></td>
+<td><p><strong> <a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></strong></p></td>
+<td><p><strong>2 - 1 (<a href="../Page/연장전.md" title="wikilink">연장</a>)</strong></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/세비야_FC" title="wikilink">세비야</a></p></td>
 <td><p><a href="../Page/푸슈카시_아레나.md" title="wikilink">푸슈카시 아레나</a> ( <a href="../Page/부다페스트.md" title="wikilink">부다페스트</a>)[8]</p></td>
 </tr>
 <tr class="even">
@@ -485,7 +485,7 @@
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
 <td><p>2</p></td>
 <td><p>3</p></td>
-<td><p>1974, 2013</p></td>
+<td><p>2013, 2020</p></td>
 <td><p>1975, 1976, 2001</p></td>
 </tr>
 <tr class="odd">
@@ -540,9 +540,9 @@
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/세비야_FC" title="wikilink">세비야</a></p></td>
 <td><p>1</p></td>
-<td><p>4</p></td>
+<td><p>5</p></td>
 <td><p>2006</p></td>
-<td><p>2007, 2014, 2015, 2016</p></td>
+<td><p>2007, 2014, 2015, 2016, 2020</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/FC_디나모_키예프.md" title="wikilink">디나모 키예프</a></p></td>
@@ -736,7 +736,7 @@
 <tr class="odd">
 <td></td>
 <td><p>15</p></td>
-<td><p>12</p></td>
+<td><p>13</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -760,7 +760,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 <td><p>7</p></td>
 </tr>
 <tr class="odd">
@@ -810,9 +810,9 @@
 
 | 대회                                               | 우승 | 준우승 |
 | ------------------------------------------------ | -- | --- |
-| [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") | 23 | 20  |
+| [UEFA 챔피언스리그](../Page/UEFA_챔피언스리그.md "wikilink") | 25 | 20  |
 | *[UEFA 컵위너스컵](../Page/UEFA_컵위너스컵.md "wikilink")* | 12 | 12  |
-| [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink")   | 8  | 11  |
+| [UEFA 유로파리그](../Page/UEFA_유로파리그.md "wikilink")   | 8  | 13  |
 
 ## 같이 보기
 

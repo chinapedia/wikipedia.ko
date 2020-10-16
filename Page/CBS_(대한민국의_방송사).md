@@ -17,7 +17,7 @@
 
 ### 이전
 
-[1992년](../Page/1992년.md "wikilink") CBS는 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") [대학로](../Page/대학로_\(서울\).md "wikilink") 19 (연지동 136-46)에서 [서울특별시](../Page/서울특별시.md "wikilink") [양천구](../Page/양천구.md "wikilink") [목동서로](../Page/목동서로.md "wikilink") 159-1 ([목1동](../Page/목동_\(서울\).md "wikilink") 917-1)으로 이전하였다. [1995년](../Page/1995년.md "wikilink")에 [CBS 음악FM](../Page/CBS_음악FM.md "wikilink") 방송이 개국하였고 이후 [1998년](../Page/1998년.md "wikilink")에 [CBS 표준FM](../Page/CBS_표준FM.md "wikilink") 방송이 개국하였다. [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [2002년](../Page/2002년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") [CBS TV가](https://ko.wikipedia.org/wiki/CBS_TV "wikilink") 개국을 하였다. 이와 함께 미주지역 CBS TV 송출로 해외 위성방송업체와도 제휴 및 방송망을 넓히면서 본격적인 해외 영상 송출의 시대를 열게 됐다.
+[1992년](../Page/1992년.md "wikilink") CBS는 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") [대학로](../Page/대학로_\(서울\).md "wikilink") 19 (연지동 136-46)에서 [서울특별시](../Page/서울특별시.md "wikilink") [양천구](../Page/양천구.md "wikilink") [목동서로](../Page/목동서로.md "wikilink") 159-1 ([목1동](../Page/목동_\(서울\).md "wikilink") 917-1)으로 이전하였다. [1995년](../Page/1995년.md "wikilink")에 [CBS 음악FM](../Page/CBS_음악FM.md "wikilink") 방송이 개국하였고 이후 [1998년](../Page/1998년.md "wikilink")에 [CBS 표준FM](../Page/CBS_표준FM.md "wikilink") 방송이 개국하였다. [KBS 1TV의](../Page/KBS_1TV.md "wikilink") [2002년](../Page/2002년.md "wikilink") [3월 1일](../Page/3월_1일.md "wikilink") [CBS TV가](https://ko.wikipedia.org/wiki/CBS_TV "wikilink") 개국을 하였다. 이와 함께 미주지역 CBS TV 송출로 해외 위성방송업체와도 제휴 및 방송망을 넓히면서 본격적인 해외 영상 송출의 시대를 열게 됐다.
 
 ### 확장
 

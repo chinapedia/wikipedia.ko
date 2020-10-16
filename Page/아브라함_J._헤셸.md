@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [아브라함 J. 헤셸](https://ko.wikipedia.org/wiki/아브라함_J._헤셸).
 
 
-**아브라함 J. 헤셸**(Abraham Joshua Heschel, [1907년](../Page/1907년.md "wikilink")\~[1972년](../Page/1972년.md "wikilink"))은 20세기에 활동한 [유대교](../Page/유대교.md "wikilink") [신학자](https://ko.wikipedia.org/wiki/신학자 "wikilink")이자 [랍비](https://ko.wikipedia.org/wiki/랍비 "wikilink")이다.
+[thumb](https://ko.wikipedia.org/wiki/파일:Heschel2.jpg "wikilink") **아브라함 J. 헤셸**(Abraham Joshua Heschel, [1907년](../Page/1907년.md "wikilink")\~[1972년](../Page/1972년.md "wikilink"))은 20세기에 활동한 [유대교](../Page/유대교.md "wikilink") [신학자](https://ko.wikipedia.org/wiki/신학자 "wikilink")이자 [랍비](https://ko.wikipedia.org/wiki/랍비 "wikilink")이다.
 
 ## 삶
 

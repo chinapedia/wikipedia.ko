@@ -238,6 +238,8 @@ Amunt València, Visca el València és el millooooooooor
 
   - [발렌시아 BC](../Page/발렌시아_BC.md "wikilink")
   - [발렌시아 CF 메스타야](../Page/발렌시아_CF_메스타야.md "wikilink") (발렌시아 CF의 리저브 팀)
+  - [이강인](../Page/이강인.md "wikilink")
+  - [발렌시아](../Page/발렌시아.md "wikilink")
 
 ## 각주
 

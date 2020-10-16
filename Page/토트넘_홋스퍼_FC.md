@@ -221,7 +221,7 @@
 
 ### 임대 선수 명단
 
-([노리치 시티 FC로](../Page/노리치_시티_FC.md "wikilink") 임대)
+([노리치 시티 FC로](../Page/노리치_시티_FC.md "wikilink") 임대)  ([밀월 FC로](../Page/밀월_FC.md "wikilink") 임대)
 
 ## 토트넘 출신 잉글랜드 축구 국가대표팀 선수
 

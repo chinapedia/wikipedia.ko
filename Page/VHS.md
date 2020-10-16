@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [VHS](https://ko.wikipedia.org/wiki/VHS).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:VHS_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:JVC-VHS_Cassette001.JPG "wikilink") **VHS**(Video Home System, 브이에이치에스)는 카세트를 이용하여 동영상을 기록하고 재생할 수 있도록 만들어진 표준 규격이다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:VHS_logo.svg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:JVC-VHS_Cassette001.JPG "wikilink") **가정용 비디오 방식**(, 브이에이치에스)는 카세트를 이용하여 동영상을 기록하고 재생할 수 있도록 만들어진 표준 규격이다.
 
 ## 역사
 

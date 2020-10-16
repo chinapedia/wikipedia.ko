@@ -3,7 +3,7 @@
 
 **UEFA 챔피언스리그**(UEFA Champions League)는 유럽 최상위 축구 리그의 가장 우수한 축구 클럽들을 대상으로 [유럽 축구 연맹이](../Page/유럽_축구_연맹.md "wikilink") 주관하는 클럽 축구 대회이다. [1955년](../Page/1955년.md "wikilink")에 시작되었으며 **유러피언컵**(European Cup)으로 불리다가 1992년 UEFA 챔피언스리그로 개칭되었다.
 
-예선전을 통과한 6개 팀들과 조별리그에 자동 진출한 26개 팀을 합친 총 32개 팀들이 8개 조로 나뉘어 각 조별로 4개 팀씩 홈 앤드 어웨이 방식으로 조별리그를 치른다. 매년 12월에 모든 조별 리그전이 종료되면, 각 조의 1, 2위 팀은 그 다음 해 2월부터 5월까지 계속되는 16강 결선 토너먼트에 진출한다. 또 각 조의 3위 팀은 [UEFA 유로파리그의](../Page/UEFA_유로파리그.md "wikilink") 32강 토너먼트에 진출한다. 가장 최근 우승 팀은 [2019년](../Page/2019년.md "wikilink") [스페인](../Page/스페인.md "wikilink") [마드리드](../Page/마드리드.md "wikilink")의 [완다 메트로폴리타노에서](../Page/완다_메트로폴리타노.md "wikilink") 열린 결승전에서 [토트넘 핫스퍼를](https://ko.wikipedia.org/wiki/토트넘_핫스퍼_FC "wikilink") 꺾고 우승한 [리버풀이다](../Page/리버풀_FC.md "wikilink").
+예선전을 통과한 6개 팀들과 조별리그에 자동 진출한 26개 팀을 합친 총 32개 팀들이 8개 조로 나뉘어 각 조별로 4개 팀씩 홈 앤드 어웨이 방식으로 조별리그를 치른다. 매년 12월에 모든 조별 리그전이 종료되면, 각 조의 1, 2위 팀은 그 다음 해 2월부터 5월까지 계속되는 16강 결선 토너먼트에 진출한다. 또 각 조의 3위 팀은 [UEFA 유로파리그의](../Page/UEFA_유로파리그.md "wikilink") 32강 토너먼트에 진출한다. 가장 최근 우승 팀은 [2020년](../Page/2020년.md "wikilink") [포르투칼](../Page/포르투갈.md "wikilink") [리스본](../Page/리스본.md "wikilink")의 [스타디오 올림피코에서](../Page/스타디오_올림피코.md "wikilink") 열린 결승전에서 [파리 셍제르망를](../Page/파리_생제르맹_FC.md "wikilink") 꺾고 우승한 [바이에른 뮌헨이다](../Page/FC_바이에른_뮌헨.md "wikilink").
 
 이 대회는, 유럽 프로 축구 세계에서 최고의 권위를 가진 대회이다. 대회 결승전은 보통 유럽 프로 축구의 모든 시즌 일정 가운데 가장 마지막 경기로 치러진다. 또한 유럽 대륙의 축구 선수들이 이적을 고려할 시에 챔피언스리그 32강 본선 경기 출전이 가능한 팀인가를 우선 순위로 고려할 정도이다.
 
@@ -611,7 +611,7 @@ UEFA 유로파리그 저번 시즌 우승팀이 챔피언스리그 본선에 진
 <tr class="odd">
 <td><p><a href="../Page/2019-20년_UEFA_챔피언스리그.md" title="wikilink">2019-20</a></p></td>
 <td><p><a href="../Page/FC_바이에른_뮌헨.md" title="wikilink">바이에른 뮌헨</a></p></td>
-<td><p><strong>4 - 1</strong></p></td>
+<td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/파리_생제르맹" title="wikilink">파리 생제르맹</a></p></td>
 <td><p><a href="../Page/리스본.md" title="wikilink">리스본</a>, <a href="../Page/이스타디우_다_루스.md" title="wikilink">이스타디우 다 루스</a></p></td>
 </tr>
