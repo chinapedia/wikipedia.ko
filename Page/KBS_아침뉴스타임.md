@@ -192,7 +192,7 @@
 ※ 2017년 9월 1일까지 여성 앵커는 1980년대 출생 아나운서(1984년생 [김솔희](../Page/김솔희.md "wikilink"), [유지원](../Page/유지원_\(아나운서\).md "wikilink") 아나운서와 1983년생 [정다은](../Page/정다은_\(아나운서\).md "wikilink") 아나운서 그리고 1982년생 [박은영](../Page/박은영_\(아나운서\).md "wikilink"), [오정연](../Page/오정연.md "wikilink"), [장수연](../Page/장수연.md "wikilink") 아나운서)가 진행하였으나, 2018년 2월 5일부터 여성 앵커는 1970년대 출생 아나운서(1976년생 [백승주](../Page/백승주_\(1976년\).md "wikilink") 아나운서)가 진행하는 방식으로 변경되었다.
 ※ 참고로 역대 앵커의 기자 및 아나운서 김씨가 정식으로 진행하지 않고 있으나, 임시로 진행한 김씨 앵커는 4명이다. ([김현경](https://ko.wikipedia.org/wiki/김현경 "wikilink") 기자, [김솔희](../Page/김솔희.md "wikilink") 아나운서, [김기흥](https://ko.wikipedia.org/wiki/김기흥 "wikilink") 기자, [김재홍](../Page/김재홍_\(아나운서\).md "wikilink") 아나운서)
 ※ 참고로 역대 앵커의 아나운서의 이씨가 정식으로 진행하지 않았으나, 임시로 진행한 이씨 앵커는 2명이다. ([이재홍](../Page/이재홍_\(아나운서\).md "wikilink"), [이각경](../Page/이각경.md "wikilink") 아나운서)
-※ 2020년 여름 개편으로 인해 7월 6일부터 스트레이트 뉴스 프로그램으로 전환되고 앵커가 1인 단독으로 진행된다.
+※ 2020년 여름 개편으로 2020년 7월 6일부터 분량이 15분으로 축소되고 앵커가 1인 단독으로 진행된다.
 
 <table>
 <thead>
@@ -307,7 +307,7 @@
 
 ## 동시간대 경쟁 프로그램
 
-  - 《[인간극장](../Page/인간극장.md "wikilink")》 - 평일 아침 07:50 \~ 08:25 ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - 《[인간극장](../Page/인간극장.md "wikilink")》 - 평일 아침 07:50 \~ 08:25 ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
   - 《[생방송 오늘아침](../Page/생방송_오늘아침.md "wikilink")》 - 평일 아침 07:50 \~ 08:50 ([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"))
   - 《[딩동댕유치원](https://ko.wikipedia.org/wiki/딩동댕유치원 "wikilink")》 - 평일 아침 08:00 \~ 08:30 ([EBS 1TV](../Page/EBS_1TV.md "wikilink"))
 

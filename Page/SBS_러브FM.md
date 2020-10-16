@@ -17,7 +17,7 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
 
 이후 [1990년](../Page/1990년.md "wikilink") [11월 14일](../Page/11월_14일.md "wikilink") 민영 방송의 재허용으로 주식회사 [서울방송이](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 설립되면서 [1991년](../Page/1991년.md "wikilink") [3월 11일](../Page/3월_11일.md "wikilink") 오후 5시 폐국된 KBS 라디오 서울의 주파수 AM 792kHz를 [SBS에](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 넘겨주면서 [1991년](../Page/1991년.md "wikilink") [3월 20일에](../Page/3월_20일.md "wikilink") SBS AM 라디오가 개국하였다.
 
-개국 당시에는 자체 송신소가 없어 [KBS의](../Page/한국방송공사.md "wikilink") 개봉 송신소를 빌려서 송출하였다. 이 때문에 [KBS](../Page/한국방송공사.md "wikilink") 노조의 반발이 있었다. 이는 [1993년](../Page/1993년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 고양 송신소가 준공함으로써 해결하였다.
+개국 당시에는 자체 송신소가 없어 [KBS의](../Page/한국방송공사.md "wikilink") 개봉 송신소를 빌려서 송출하였다. 이 때문에 [KBS](../Page/한국방송공사.md "wikilink") 노조의 반발이 있었다. 하지만 이는 [1993년](../Page/1993년.md "wikilink") [7월 1일에](../Page/7월_1일.md "wikilink") 고양 송신소가 준공함으로써 해결되었다.
 
 ## 연혁
 
@@ -144,7 +144,7 @@ SBS 러브FM은 [1999년](../Page/1999년.md "wikilink") [1월 1일에](../Page/
 </tr>
 <tr class="odd">
 <td><p>16:00</p></td>
-<td><p><a href="../Page/붐붐파워.md" title="wikilink">붐붐파워</a> (<a href="../Page/SBS_파워FM.md" title="wikilink">파워FM</a> 수중계)</br>(<a href="https://ko.wikipedia.org/wiki/오늘_오후_KNN입니다" title="wikilink">오늘 오후 KNN입니다</a>)</p></td>
+<td><p><a href="../Page/붐붐파워.md" title="wikilink">붐붐파워</a> (<a href="../Page/SBS_파워FM.md" title="wikilink">파워FM</a> 수중계)</br>(<a href="../Page/라기오,_성은진의_노래하나_얘기둘.md" title="wikilink">라기오, 성은진의 노래하나 얘기둘</a>)</p></td>
 <td><p>×</p></td>
 </tr>
 <tr class="even">
@@ -278,11 +278,11 @@ SBS 러브FM의 경우 [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikil
 
 ## 같이 보기
 
-  - [표준FM](../Page/표준FM.md "wikilink")
-  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
-  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
-  - [CBS 표준FM](../Page/CBS_표준FM.md "wikilink")
-  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
+  - [KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink")
+  - [가톨릭평화방송](../Page/가톨릭평화방송.md "wikilink")
+  - [원음방송](../Page/원음방송.md "wikilink")
+  - [불교방송](../Page/불교방송.md "wikilink")
+  - [YTN News FM](../Page/YTN라디오.md "wikilink")
 
 ## 각주
 

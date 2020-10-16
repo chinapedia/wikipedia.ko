@@ -811,11 +811,14 @@ KNN 웰빙라이프)</p></td>
 
 ## 같이 보기
 
-  - [음악FM](../Page/음악FM.md "wikilink")
-  - [KBS 제1FM](../Page/KBS_제1FM.md "wikilink")
-  - [KBS 제2FM](../Page/KBS_제2FM.md "wikilink")
+  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
+  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
+  - [EBS FM](../Page/EBS_FM.md "wikilink")
   - [MBC FM4U](../Page/MBC_FM4U.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
+  - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
+  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
+  - [극동방송](../Page/극동방송.md "wikilink")
 
 ## 외부 링크
 
@@ -827,6 +830,6 @@ KNN 웰빙라이프)</p></td>
   -
 [분류:FM 라디오 방송](https://ko.wikipedia.org/wiki/분류:FM_라디오_방송 "wikilink") [파워FM](https://ko.wikipedia.org/wiki/분류:SBS의_라디오_네트워크 "wikilink") [분류:1996년 설립된 라디오 방송국](https://ko.wikipedia.org/wiki/분류:1996년_설립된_라디오_방송국 "wikilink")
 
-1.  '○' 표시 기호는 동시 네트워크로 일제히 송출된다.
+1.  '○' 표시 기호가 있는 프로그램은 동시 네트워크로 일제히 송출된다.
 2.  프로야구 롯데 경기, 스토브리그 때는 방송 중단.
 3.  정규시즌 때는 방송 중단.

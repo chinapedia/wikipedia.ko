@@ -1111,7 +1111,7 @@
 </tr>
 <tr class="even">
 <td><p>1992</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/유고슬라비아_연방공화국" title="wikilink">YUG</a></p></td>
+<td><p><a href="../Page/유고슬라비아_연방공화국.md" title="wikilink">YUG</a></p></td>
 <td><p>모니카 셀레스</p></td>
 </tr>
 <tr class="odd">

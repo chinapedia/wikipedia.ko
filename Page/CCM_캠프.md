@@ -36,30 +36,30 @@
 <td><p>매일 밤 12:05 ~ 새벽 2:00</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/10월_29일.md" title="wikilink">10월 29일</a> ~ <strong>현재</strong></p></td>
-<td><p>매일 밤 12:00 ~ 새벽 2:00</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/CBS_음악FM.md" title="wikilink">CBS 음악FM</a><br />
 <a href="../Page/CBS_표준FM.md" title="wikilink">CBS 표준FM</a></p></td>
 <td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/1월_1일.md" title="wikilink">1월 1일</a> ~ <a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/3월_18일.md" title="wikilink">3월 18일</a></p></td>
 <td><p>매일 밤 12:05 ~ 새벽 2:00</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/5월_12일.md" title="wikilink">5월 12일</a> ~ <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/5월_9일.md" title="wikilink">5월 9일</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/3월_19일.md" title="wikilink">3월 19일</a> ~ <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/5월_11일.md" title="wikilink">5월 11일</a></p></td>
 <td><p>매일 밤 12:00 ~ 새벽 2:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/5월_10일.md" title="wikilink">5월 10일</a> ~ <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/10월_28일.md" title="wikilink">10월 28일</a></p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/CBS_표준FM.md" title="wikilink">CBS 표준FM</a></p></td>
+<td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/10월_29일.md" title="wikilink">10월 29일</a> ~ <strong>현재</strong></p></td>
+<td><p>매일 밤 12:00 ~ 새벽 2:00</p></td>
 </tr>
 </tbody>
 </table>
@@ -68,7 +68,7 @@
 
   - [하덕규](https://ko.wikipedia.org/wiki/하덕규 "wikilink") (1995\~2003.5)
   - [장기호](../Page/장기호.md "wikilink") (2003.5\~2006.3)
-  - [조수아](../Page/조수아.md "wikilink") (2006.3\~2006.12)
+  - [조수아](../Page/조수아.md "wikilink") CCM 가수 (2006.3\~2006.12)
   - [최정원](https://ko.wikipedia.org/wiki/최정원_\(아나운서\) "wikilink") CBS 아나운서 (2007\~2008)
   - [심기식](https://ko.wikipedia.org/wiki/심기식 "wikilink") CBS 아나운서 (2008\~2009) (1차)
   - [김은영](../Page/김은영_\(아나운서\).md "wikilink") CBS 아나운서 (2009\~2010) (1차)
@@ -112,6 +112,7 @@
 ## 외부 링크
 
   - [심기식의 CCM 캠프 공식 홈페이지](http://www.cbs.co.kr/radio/pgm/main/?pgm=109)
+  - [심기식의 CCM 캠프 공식 유튜브채널](https://www.youtube.com/c/ccmcamp)
   - [심기식의 CCM 캠프 공식 페이스북](https://facebook.com/ccmcamp)
 
 [분류:기독교방송의 라디오 프로그램](https://ko.wikipedia.org/wiki/분류:기독교방송의_라디오_프로그램 "wikilink")

@@ -34,7 +34,7 @@
 
   - 《[사랑은 생방송](https://ko.wikipedia.org/wiki/사랑은_생방송 "wikilink")》 : [1993년](../Page/1993년.md "wikilink") [10월 23일](../Page/10월_23일.md "wikilink") ∼ [1994년](../Page/1994년.md "wikilink") [1월 29일](../Page/1월_29일.md "wikilink")
   - 《[뉴욕스토리](../Page/뉴욕스토리_\(시트콤\).md "wikilink")》 : [1997년](../Page/1997년.md "wikilink") [10월 25일](../Page/10월_25일.md "wikilink") ∼ [1998년](../Page/1998년.md "wikilink") [2월 28일](../Page/2월_28일.md "wikilink")
-  - 《[돈.com](https://ko.wikipedia.org/wiki/돈닷컴 "wikilink")》 : [2000년](../Page/2000년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") ∼ [2000년](../Page/2000년.md "wikilink") [7월 30일](../Page/7월_30일.md "wikilink")
+  - 《[돈.com](https://ko.wikipedia.org/wiki/돈닷컴 "wikilink")》 : [2000년](../Page/2000년.md "wikilink") [5월 20일](../Page/5월_20일.md "wikilink") ∼ [2000년](../Page/2000년.md "wikilink") [7월 29일](../Page/7월_29일.md "wikilink")
 
 ### 일요 시트콤
 

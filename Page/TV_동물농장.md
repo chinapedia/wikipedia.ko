@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV 동물농장](https://ko.wikipedia.org/wiki/TV_동물농장).
 
 
-《**TV 동물농장**》은 매주 [일요일](../Page/일요일.md "wikilink") 오전 9시 30분에 [SBS TV에서](../Page/SBS_TV.md "wikilink") UHD로 방송되는 텔레비전 프로그램이다.
+《**TV 동물농장**》은 매주 [일요일](../Page/일요일.md "wikilink") 아침 9시 30분에 [SBS TV에서](../Page/SBS_TV.md "wikilink") UHD로 방송되는 텔레비전 프로그램이다.
 
 ## 기획 의도
 
@@ -24,42 +24,42 @@
 <tr class="odd">
 <td><p><a href="../Page/SBS_TV.md" title="wikilink">SBS TV</a></p></td>
 <td><p>2001년 5월 6일 ~ 2002년 3월 31일</p></td>
-<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오전 9:50 ~ 10:50</p></td>
+<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 아침 9:50 ~ 10:50</p></td>
 <td><p>독립 편성</p></td>
 </tr>
 <tr class="even">
 <td><p>2002년 4월 7일 ~ 2008년 3월 30일</p></td>
-<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오전 9:40 ~ 10:50</p></td>
+<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 아침 9:40 ~ 10:50</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2008년 4월 6일 ~ 2012년 4월 1일</p></td>
-<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오전 9:30 ~ 10:45</p></td>
+<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 아침 9:30 ~ 10:45</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2012년 4월 8일 ~ 2015년 1월 18일</p></td>
-<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오전 9:25 ~ 10:45</p></td>
+<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 아침 9:25 ~ 10:45</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015년 1월 25일 ~ 2019년 3월 31일</p></td>
-<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오전 9:30 ~ 10:50</p></td>
+<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 아침 9:30 ~ 10:50</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019년 4월 7일 ~ <strong>현재</strong></p></td>
 <td><p>1부</p></td>
-<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오전 9:30 ~ 10:20</p></td>
+<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 아침 9:30 ~ 10:20</p></td>
 <td><p>분리 편성 (1, 2부)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2부</p></td>
-<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 오전 10:20~ 10:50</p></td>
+<td><p>매주 <a href="../Page/일요일.md" title="wikilink">일요일</a> 아침 10:20 ~ 10:50</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -78,13 +78,6 @@
 </tr>
 </tbody>
 </table>
-
-  - UHD 확장판
-
-| 방송 채널                                  | 방송 기간                                               | 방송 시간 | 비고                                                 |
-| -------------------------------------- | --------------------------------------------------- | ----- | -------------------------------------------------- |
-| [SBS TV](../Page/SBS_TV.md "wikilink") | 2020년 10월 29일 \~ **방송 예정**                          | 1부    | 매주 [목요일](../Page/목요일.md "wikilink") 밤 8:55 \~ 9:40 |
-| 2부                                     | 매주 [목요일](../Page/목요일.md "wikilink") 밤 9:40 \~ 10:20 |       |                                                    |
 
 ## 역대 진행자 & 게스트
 
@@ -105,15 +98,15 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/김환_(방송인).md" title="wikilink">김환</a></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/10월_11일.md" title="wikilink">10월 11일</a> (예정)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/정선희.md" title="wikilink">정선희</a></p></td>
 <td><p><a href="../Page/2001년.md" title="wikilink">2001년</a> <a href="../Page/5월_6일.md" title="wikilink">5월 6일</a> ~ <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/9월_7일.md" title="wikilink">9월 7일</a><br />
 <a href="../Page/2014년.md" title="wikilink">2014년</a> <a href="../Page/1월_5일.md" title="wikilink">1월 5일</a> ~ <strong>현재</strong></p></td>
 <td><p>[1]</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/김환_(방송인).md" title="wikilink">김환</a></p></td>
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/9월_27일.md" title="wikilink">9월 27일</a> ~ <strong>현재</strong></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/토니안" title="wikilink">토니안</a></p></td>
@@ -147,6 +140,7 @@
 | [토니안](https://ko.wikipedia.org/wiki/토니안 "wikilink")                                               | [2018년](../Page/2018년.md "wikilink") [5월 27일](../Page/5월_27일.md "wikilink"), [6월 3일](../Page/6월_3일.md "wikilink")       |       |
 | [딘딘](../Page/딘딘.md "wikilink")                                                                    | [2018년](../Page/2018년.md "wikilink") [6월 10일](../Page/6월_10일.md "wikilink"), [6월 17일](../Page/6월_17일.md "wikilink")     |       |
 | [주시은](../Page/주시은.md "wikilink")                                                                  | [2018년](../Page/2018년.md "wikilink") [6월 24일](../Page/6월_24일.md "wikilink"), [7월 1일](../Page/7월_1일.md "wikilink")       |       |
+| [청하](../Page/청하_\(가수\).md "wikilink")                                                             | [2020년](../Page/2020년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink")                                             |       |
 
 ## 전문가
 
@@ -164,19 +158,18 @@
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -- |
 | [안지환](../Page/안지환.md "wikilink")         | [2001년](../Page/2001년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") \~ **현재**                                                                    |    |
 | [김생민](../Page/김생민.md "wikilink")         | [2001년](../Page/2001년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") |    |
-| [서경석](../Page/서경석_\(희극인\).md "wikilink") | [2020년](../Page/2020년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ **예정**                                                                  |    |
+| [서경석](../Page/서경석_\(희극인\).md "wikilink") | [2020년](../Page/2020년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ **현재**                                                                  |    |
 
 ### 여성
 
-| 스토리텔러                            | 진행 기간                                                                                                               | 비고 |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -- |
-| [이선주](../Page/이선주.md "wikilink") | [2001년](../Page/2001년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink")   |    |
-| [정선희](../Page/정선희.md "wikilink") | [2013년](../Page/2013년.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") |    |
-| [양희은](../Page/양희은.md "wikilink") | [2020년](../Page/2020년.md "wikilink") [9월 27일](../Page/9월_27일.md "wikilink") \~ **예정**                               |    |
+| 스토리텔러                            | 진행 기간                                                                                                             | 비고 |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -- |
+| [이선주](../Page/이선주.md "wikilink") | [2001년](../Page/2001년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") |    |
+| [정선희](../Page/정선희.md "wikilink") | [2001년](../Page/2001년.md "wikilink") \~ **현재**                                                                    |    |
 
 ## 등장한 동물
 
-  - [개](../Page/개.md "wikilink"), [고양이](../Page/고양이.md "wikilink"), [백로](https://ko.wikipedia.org/wiki/백로 "wikilink"), [올빼미](../Page/올빼미.md "wikilink"), [뱀](../Page/뱀.md "wikilink"), [호랑이](../Page/호랑이.md "wikilink"), [곰](../Page/곰.md "wikilink"), [나비](../Page/나비.md "wikilink"), [피라냐](../Page/피라냐.md "wikilink"), [코모도왕도마뱀](../Page/코모도왕도마뱀.md "wikilink"), [얼룩말](../Page/얼룩말.md "wikilink"), [영양](https://ko.wikipedia.org/wiki/영양 "wikilink"), [코끼리](../Page/코끼리.md "wikilink"), [청설모](https://ko.wikipedia.org/wiki/청설모 "wikilink") 등 다양하게 등장한다. 야생동물, 동물원 사파리도 나온다. 위험에 빠진 동물을 구조하고, 동물도 사람처럼 행복하게 살 권리가 있다는 사실을 존중하지 않는 사람의 [동물학대](https://ko.wikipedia.org/wiki/동물학대 "wikilink"), [폭력](../Page/폭력.md "wikilink")이 고발되기도 한다.
+  - [개](../Page/개.md "wikilink"), [고양이](../Page/고양이.md "wikilink"), [백로](https://ko.wikipedia.org/wiki/백로 "wikilink"), [올빼미](../Page/올빼미.md "wikilink"), [뱀](../Page/뱀.md "wikilink"), [호랑이](../Page/호랑이.md "wikilink"), [곰](../Page/곰.md "wikilink"), [나비](../Page/나비.md "wikilink"), [피라냐](../Page/피라냐.md "wikilink"), [코모도왕도마뱀](../Page/코모도왕도마뱀.md "wikilink"), [얼룩말](../Page/얼룩말.md "wikilink"), [영양](https://ko.wikipedia.org/wiki/영양 "wikilink"), [코끼리](../Page/코끼리.md "wikilink"), [청설모](https://ko.wikipedia.org/wiki/청설모 "wikilink") 등 다양하게 등장한다. 야생동물, 동물원 사파리도 나온다. 위험에 빠진 동물을 구조하고, 동물도 사람처럼 행복하게 살 권리가 있다는 사실을 존중하지 않는 사람의 [동물학대](../Page/동물학대.md "wikilink"), [폭력](../Page/폭력.md "wikilink")이 고발되기도 한다.
 
 ## 유명 코너
 
@@ -206,7 +199,7 @@
   - 코블리 : [코끼리](../Page/코끼리.md "wikilink")\[16\]
   - 에이 : [돼지](../Page/돼지.md "wikilink")\[17\]
   - 또자 : [수달](../Page/수달.md "wikilink")\[18\]
-  - 단디 : [부엉이](https://ko.wikipedia.org/wiki/부엉이 "wikilink")\[19\]
+  - 단디 : [부엉이](../Page/부엉이.md "wikilink")\[19\]
   - 핑고 : [곰](../Page/곰.md "wikilink")\[20\]
   - 빵찌 : [문어](../Page/문어.md "wikilink")\[21\]
 
@@ -217,7 +210,7 @@
   - [2009년](../Page/2009년.md "wikilink") [8월 23일](../Page/8월_23일.md "wikilink") : **[김대중](../Page/김대중.md "wikilink") 대통령 영결식 중계방송**
   - [2009년](../Page/2009년.md "wikilink") [11월 15일](../Page/11월_15일.md "wikilink") : **[김연아](../Page/김연아.md "wikilink") 피겨 그랑프리 5차 중계방송**
   - [2010년](../Page/2010년.md "wikilink") [2월 14일](../Page/2월_14일.md "wikilink") \~ [2월 28일](../Page/2월_28일.md "wikilink") : **[밴쿠버 올림픽](../Page/2010년_동계_올림픽.md "wikilink") 중계방송** 대신 다음 날(2월 15일)에 설 특집 방송으로 대체
-  - [2010년](../Page/2010년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") : **[남아공 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 중계**로 인한 1시간 앞당겨 방송
+  - [2010년](../Page/2010년.md "wikilink") [6월 6일](../Page/6월_6일.md "wikilink") : **[남아공 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 중계방송**으로 인한 1시간 앞당겨 방송
   - [2010년](../Page/2010년.md "wikilink") [6월 13일](../Page/6월_13일.md "wikilink") : **[남아공 월드컵](https://ko.wikipedia.org/wiki/2010년_FIFA_월드컵 "wikilink") 하이라이트 방송**
   - [2010년](../Page/2010년.md "wikilink") [8월 15일](../Page/8월_15일.md "wikilink") : **[광복절](../Page/광복절.md "wikilink") 경축 중계방송**
   - **[2012년](../Page/2012년.md "wikilink") [런던 올림픽](https://ko.wikipedia.org/wiki/2012년_하계_올림픽 "wikilink") 기간**

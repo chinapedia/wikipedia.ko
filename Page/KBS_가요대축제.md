@@ -7,7 +7,7 @@
 
 원래 [1965년](../Page/1965년.md "wikilink")에 신설된 《**[TBC](../Page/동양방송.md "wikilink") 방송가요대상**》에 그 뿌리를 두고 있다. 이후 1980년 [언론통폐합](../Page/언론통폐합.md "wikilink")으로 인해, TBC가 KBS로 인수 합병되면서, 《**TBC 방송가요대상**》이 《**[KBS 가요대상](../Page/KBS_가요대상.md "wikilink")**》으로 이름을 바꾸었다.
 
-언론통폐합 이후 [KBS 1TV를](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 통해 매년 [12월 30일에](../Page/12월_30일.md "wikilink") 방송되었으나, KBS 1TV가 광고를 폐지한 [1994년](../Page/1994년.md "wikilink")부터는 [KBS 2TV를](../Page/KBS_2TV.md "wikilink") 통해 방송되었다.
+언론통폐합 이후 [KBS 1TV를](../Page/KBS_1TV.md "wikilink") 통해 매년 [12월 30일에](../Page/12월_30일.md "wikilink") 방송되었으나, KBS 1TV가 광고를 폐지한 [1994년](../Page/1994년.md "wikilink")부터는 [KBS 2TV를](../Page/KBS_2TV.md "wikilink") 통해 방송되었다.
 
 [1986년](../Page/1986년.md "wikilink")까지는 남자가수상과 여자가수상을 선정하였으며, [1987년](../Page/1987년.md "wikilink")부터 1팀의 가수만이 대상을 받는 방식으로 전환되었다.
 

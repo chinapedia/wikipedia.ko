@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SBS TV](https://ko.wikipedia.org/wiki/SBS_TV).
 
 
-**SBS TV**는 [대한민국](../Page/대한민국.md "wikilink") 수도권을 방송권역으로 하는 민영방송 [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 운영하는 [텔레비전](../Page/텔레비전.md "wikilink") 방송 채널이다.
+**SBS TV**는 [대한민국](../Page/대한민국.md "wikilink") 수도권을 방송권역으로 하는 민영방송 [SBS에서](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 운영하는 [텔레비전](../Page/텔레비전.md "wikilink") 방송 [채널이다](https://ko.wikipedia.org/wiki/채널_\(통신\) "wikilink").
 
 ## 개요
 
@@ -20,7 +20,7 @@
   - 이 프로그램은 간접광고를 포함하고 있습니다. (드라마, 예능 전용)
     이 프로그램은 가상광고를 포함하고 있습니다. (스포츠, 8시뉴스 전용)
     이 프로그램은 간접 및 가상광고를 포함하고 있습니다.
-    이 프로그램은 간접광고 또는 가상광고를 포함하고 있습니다. (종합편성 전용) (2010년 \~ 현재)
+    이 프로그램은 간접광고 또는 가상광고를 포함하고 있습니다. (종합편성 전용) (2011년 \~ 현재)
   - 본 방송은 SBS SOTY로 참여하실 수 있습니다.(2010년 \~ 2016년)
   - 이 방송은 UHD로 제작한 프로그램입니다. (UHD 개국, 2017년 \~ 현재)
   - 정규편성 관계로 중계 방송을 마칩니다. [SBS SPORTS에서](https://ko.wikipedia.org/wiki/SBS_SPORTS "wikilink") 중계방송을 하고 있으니, 시청자 여러분에 양해 부탁 드립니다.(1995년 \~ 현재)
@@ -159,9 +159,11 @@
   - [2001년](../Page/2001년.md "wikilink") [5월 6일](../Page/5월_6일.md "wikilink") : 《[TV동물농장](https://ko.wikipedia.org/wiki/TV동물농장 "wikilink")》방송 개시.
   - [2001년](../Page/2001년.md "wikilink") [10월 26일](../Page/10월_26일.md "wikilink") : 호출부호 **HLSQ-DTV**로 [지상파](https://ko.wikipedia.org/wiki/지상파 "wikilink") [디지털 텔레비전](../Page/디지털_텔레비전.md "wikilink") 방송 개국 및 《[기분 좋은 밤](https://ko.wikipedia.org/wiki/기분_좋은_밤_\(텔레비전_프로그램\) "wikilink")》종영.
   - [2001년](../Page/2001년.md "wikilink") [11월 27일](../Page/11월_27일.md "wikilink") : 《[두남자쇼](../Page/두남자쇼.md "wikilink")》종영.
+  - [2002년](../Page/2002년.md "wikilink") [1월 19일](../Page/1월_19일.md "wikilink") : 《[토요일이 온다](https://ko.wikipedia.org/wiki/토요일이_온다 "wikilink")》방영 시작.
   - [2002년](../Page/2002년.md "wikilink") [2월 23일](../Page/2월_23일.md "wikilink") : 《[생방송 행복찾기](../Page/생방송_행복찾기.md "wikilink")》종영.
   - [2002년](../Page/2002년.md "wikilink") [3월 2일](../Page/3월_2일.md "wikilink") : SBS특별기획드라마《[유리구두](../Page/유리구두.md "wikilink")》신설.
   - [2002년](../Page/2002년.md "wikilink") [5월 28일](../Page/5월_28일.md "wikilink") : [용문산](https://ko.wikipedia.org/wiki/용문산_\(양평\) "wikilink") 디지털TV 중계소를 준공.
+  - [2002년](../Page/2002년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") :《[토요일이 온다](https://ko.wikipedia.org/wiki/토요일이_온다 "wikilink")》종영.
   - [2002년](../Page/2002년.md "wikilink") [7월 7일](../Page/7월_7일.md "wikilink") :《[호기심천국](https://ko.wikipedia.org/wiki/호기심천국 "wikilink")》일요일 마지막 방송. 화요일로 이동.
   - [2002년](../Page/2002년.md "wikilink") [7월 13일](../Page/7월_13일.md "wikilink") : 《[솔로몬의 선택](../Page/솔로몬의_선택.md "wikilink")》 방송 시작.
   - [2002년](../Page/2002년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") : 《[호기심천국](https://ko.wikipedia.org/wiki/호기심천국 "wikilink")》화요일 밤 19시 10분 방송.《[깜짝 스토리랜드](https://ko.wikipedia.org/wiki/깜짝_스토리랜드 "wikilink")》방영 시작.
@@ -353,7 +355,8 @@
   - [2020년](../Page/2020년.md "wikilink") [8월 26일](../Page/8월_26일.md "wikilink") : 《[본격연예 한밤](../Page/본격연예_한밤.md "wikilink")》종영.
   - [2020년](../Page/2020년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink") : 《[정글의 법칙](../Page/정글의_법칙.md "wikilink")》부활.
   - [2020년](../Page/2020년.md "wikilink") [9월 3일](../Page/9월_3일.md "wikilink") : 《[인터뷰 게임](../Page/인터뷰_게임.md "wikilink")》부활.
-  - 2020년 9월 14일 : 종합지상파방송사 출범 재승인 재허가
+  - 2020년 9월 14일 : 종합지상파방송사 출범 재승인 재허가 간접및중간광고 허용
+  - 2020년 10월 5일 : 케이블처럼 지상파에도 방송 중 2부제는 2개, 3부제는 3개 중간광고 60초 추가됨.
 
 ## 방송 송출 시설망
 
@@ -408,7 +411,7 @@
   - SBS가 가을 개편에 맞춰 오는 [2020년](../Page/2020년.md "wikilink") [10월 26일부터](../Page/10월_26일.md "wikilink") 일부를 제외한 모든 프로그램은 본격적으로 [UHD](../Page/초고선명_텔레비전.md "wikilink") 본방송으로 전환되기로 확정됐다.
   - 2020년 8월 31일부터 [SBS 월화드라마가](../Page/SBS_월화드라마.md "wikilink") 부활되면서 [순간포착 세상에 이런일이가](../Page/순간포착_세상에_이런일이.md "wikilink") 편성 이동을 하며, [맛남의 광장과](../Page/맛남의_광장.md "wikilink") [트롯신이 떴다는](https://ko.wikipedia.org/wiki/트롯신이_떴다 "wikilink") 한시간 일찍 앞당깁니다.
   - 2020년 10월 26일부터 월화드라마는 9시 40분, 수목드라마(11월 예정)는 10시 20분, 금토드라마는 변동없이 10시로 방송시간을 확정됐습니다.
-  - 시청자들의 혹평없이 호평을 받은 인기 시사 프로그램 3편에 한해 UHD 확장판이 신설됩니다. 방송시간은 그것이 알고싶다 UHD 확장판 수 20:55, TV 동물농장 UHD 확장판 목 20:55, 궁금한 이야기 Y UHD 확장판 토 18:30, 첫방송은 10월 말 예정.
+  - 프로그램 목록은 2020년 10월 26일을 기준으로 한다.
 
 ### **드라마**
 
@@ -418,7 +421,6 @@
 <th><p>방송 시간</p></th>
 <th><p>방송 프로그램</p></th>
 <th><p>UHD</p></th>
-<th><p>후속작 방영예정 (첫)</p></th>
 <th><p>비고 변경 중간광고 시간</p></th>
 <th><p>등급제</p></th>
 </tr>
@@ -426,35 +428,29 @@
 <tbody>
 <tr class="odd">
 <td><p>08:35 ~ 09:10 (평일)</p></td>
-<td><p><a href="../Page/SBS_아침연속극.md" title="wikilink">아침연속극</a> (<a href="https://ko.wikipedia.org/wiki/엄마가_바람났다" title="wikilink">엄마가 바람났다</a>)</p></td>
+<td><p><a href="../Page/SBS_아침연속극.md" title="wikilink">아침드라마</a> (<a href="https://ko.wikipedia.org/wiki/불새_(2020년_드라마)" title="wikilink">불새</a>)</p></td>
 <td><p>O</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/불새_(2020년_드라마)" title="wikilink">불새 10월 26일 08:35</a></p></td>
 <td><p>무</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>22:00 ~ 23:10 (월/화)</p></td>
-<td><p><a href="../Page/SBS_월화드라마.md" title="wikilink">월화드라마</a>(<a href="https://ko.wikipedia.org/wiki/브람스를_좋아하세요?" title="wikilink">브람스를 좋아하세요?</a>)</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/펜트하우스_(드라마)" title="wikilink">펜트하우스</a><br />
-10월 26일 21:40</p></td>
-<td><p>1부 40분, 중간광고 90초, 2부 30분</p></td>
+<td><p><a href="../Page/SBS_월화드라마.md" title="wikilink">월화미니시리즈</a>(<a href="https://ko.wikipedia.org/wiki/펜트하우스_(드라마)" title="wikilink">펜트하우스</a>)</p></td>
+<td><p>1부 40분, PCM 90초, 2부 30분</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>22:20 ~ 23:30 (수/목)</p></td>
+<td><p>22:00 ~ 23:10 (수/목)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/SBS_수목드라마" title="wikilink">수목드라마</a>(<a href="https://ko.wikipedia.org/wiki/홍천기" title="wikilink">홍천기</a>)</p></td>
-<td><p>11월 4일</p></td>
-<td><p>1부 40분, 중간광고 90초, 2부 30분</p></td>
+<td><p>1부 40분, PCM 90초, 2부 30분</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>22:00 ~ 23:10 (금/토)</p></td>
-<td><p><a href="../Page/SBS_금토드라마.md" title="wikilink">금토드라마</a>(<a href="../Page/앨리스_(드라마).md" title="wikilink">앨리스</a>)</p></td>
-<td><p><a href="../Page/날아라_개천용.md" title="wikilink">날아라 개천용</a><br />
-10월 30일 22:00</p></td>
-<td><p>1부 40분, 중간광고 90초, 2부 30분</p></td>
+<td><p><a href="../Page/SBS_금토드라마.md" title="wikilink">금토드라마</a>(<a href="../Page/날아라_개천용.md" title="wikilink">날아라 개천용</a>)</p></td>
+<td><p>1부 40분, PCM 90초, 2부 30분</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -480,7 +476,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/동상이몽_2" title="wikilink">동상이몽 2</a></p></td>
 <td><p>무</p></td>
 <td></td>
-<td><p>1부 40분, 중간광고 30초, 2부 40분</p></td>
+<td><p>1부 40분, PCM 30초, 2부 40분</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -488,31 +484,31 @@
 <td><p><a href="../Page/불타는_청춘_(텔레비전_프로그램).md" title="wikilink">불타는 청춘</a></p></td>
 <td><p>O</p></td>
 <td></td>
-<td><p>1부 40분, 중간광고 45초, 2부 40분</p></td>
+<td><p>1부 40분, PCM 45초, 2부 40분</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>21:00 ~ 22:30 (수)</p></td>
+<td><p>21:00 ~ 22:20 (수)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/트롯신이_떴다" title="wikilink">트롯신이 떴다</a></p></td>
 <td></td>
-<td><p>10월 21일 종영 예정</p></td>
-<td><p>1부 40분, 중간광고 30초, 2부 40분</p></td>
+<td></td>
+<td><p>1부 40분, PCM 30초, 2부 40분</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>22:35 ~ 00:05 (수)</p></td>
+<td><p>23:10 ~ 00:30 (수)</p></td>
 <td><p><a href="../Page/백종원의_골목식당.md" title="wikilink">백종원의 골목식당</a></p></td>
 <td><p>무</p></td>
-<td><p>10월 28일부터 23:30 방송</p></td>
-<td><p>1부 40분, 중간광고 45초, 2부 40분</p></td>
+<td></td>
+<td><p>1부 40분, PCM 45초, 2부 40분</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>20:55 ~ 22:35 (목)</p></td>
+<td><p>23:10 ~ 00:30 (목)</p></td>
 <td><p><a href="../Page/맛남의_광장.md" title="wikilink">맛남의 광장</a></p></td>
 <td><p>무</p></td>
-<td><p>10월 29일부터 23:30 방송</p></td>
-<td><p>1부 40분, 중간광고 60초, 2부 40분</p></td>
+<td></td>
+<td><p>1부 40분, PCM 60초, 2부 40분</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -520,15 +516,15 @@
 <td><p><a href="../Page/접속!_무비월드.md" title="wikilink">접속! 무비월드</a></p></td>
 <td><p>O</p></td>
 <td></td>
-<td><p>1부 35분, 중간광고 60초, 2부 35분</p></td>
+<td><p>1부 35분, PCM 60초, 2부 30분</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>20:45 ~ 22:00 (토)</p></td>
+<td><p>20:40 ~ 22:00 (금)</p></td>
 <td><p><a href="../Page/정글의_법칙.md" title="wikilink">정글의 법칙</a></p></td>
 <td><p>O</p></td>
-<td><p>10월 27일부터 화 18:50 재방송</p></td>
-<td><p>1부 40분, 중간광고 90초, 2부 35분</p></td>
+<td></td>
+<td><p>1부 40분, PCM 90초, 2부 40분</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -544,7 +540,7 @@
 <td><p><a href="../Page/런닝맨_(텔레비전_프로그램).md" title="wikilink">런닝맨</a></p></td>
 <td><p>O</p></td>
 <td></td>
-<td><p>1부 40분, 중간광고 45초, 2부 45분</p></td>
+<td><p>1부 40분, PCM 45초, 2부 45분</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -552,15 +548,15 @@
 <td><p><a href="../Page/집사부일체.md" title="wikilink">집사부일체</a></p></td>
 <td><p>O</p></td>
 <td></td>
-<td><p>1부 40분, 중간광고 75초, 2부 55분</p></td>
+<td><p>1부 40분, PCM 75초, 2부 55분</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>21:45 ~ 23:05 (일)</p></td>
+<td><p>20:40 ~ 22:40 (일)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/미우새" title="wikilink">미우새</a></p></td>
 <td><p>O</p></td>
 <td></td>
-<td><p>1부 40분, 중간광고 90초, 2부 40분</p></td>
+<td><p>1부 40분, PCM 90초, 2부 40분, 3부 40분</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -576,32 +572,29 @@
 
 ### 교양
 
-| 방송 시간                 | 방송 프로그램                                                                         | 지역수중계여부                            | UHD                   | 비고 변경                                        | 중간광고 시간                   |
-| --------------------- | ------------------------------------------------------------------------------- | ---------------------------------- | --------------------- | -------------------------------------------- | ------------------------- |
-| 07:35 \~ 08:35 (평일)   | [모닝와이드 3부](../Page/모닝와이드.md "wikilink")                                         | KNN만 자체방송, CJB만 금요일에 수중계           | O                     | 생방송                                          | 무                         |
-| 09:10 \~ 10:10 (평일)   | [좋은 아침](../Page/좋은_아침.md "wikilink")                                            | TBC, JIBS만 금요일에 자체방송               | O                     |                                              | 무                         |
-| 16:00 \~ 17:00 (수)    | [와이드 정보쇼 알고 보면](https://ko.wikipedia.org/wiki/와이드_정보쇼_알고_보면 "wikilink")         | 수도권만 방송                            | O                     | [모닝와이드 3부](../Page/모닝와이드.md "wikilink") (재)  | 무                         |
-| 19:00 \~ 20:00 (평일)   | [생방송 투데이](../Page/생방송_투데이.md "wikilink")                                        | TBC, ubc, JTV만 월요일 \~ 목요일에 수중계     | O                     | 생방송, 10월 26일부터 17:50 방송                      | 1부 30분, 중간광고 60초, 2부 30분  |
-| 20:45 \~ 21:00 (일)    | [맨 인 블랙박스](../Page/맨_인_블랙박스.md "wikilink")                                      | 전국방송                               | O                     |                                              | 무                         |
-| 10:30 \~ 11:00 (월\~수) | [살맛나는 오늘](https://ko.wikipedia.org/wiki/살맛나는_오늘 "wikilink")                     | TJB, kbc만 자체방송                     | O                     | [생방송 투데이](../Page/생방송_투데이.md "wikilink") (재) | 무                         |
-| 20:55 \~ 21:55 (월)    | [생활의 달인](../Page/생활의_달인.md "wikilink")                                          | 전국방송                               | 무                     | 10월 26일부터 주 1회 45분 방송                        |                           |
-| 20:55 \~ 21:55 (화)    | [순간포착 세상에 이런일이](../Page/순간포착_세상에_이런일이.md "wikilink")                            | 무                                  | 10월 27일부터 주 1회 45분 방송 |                                              |                           |
-| 20:55 \~ 22:20 (수)    | [그것이 알고싶다 UHD 확장판](../Page/그것이_알고싶다.md "wikilink")                              | O                                  | 10월 28일 방송예정          | 1부 45분, 중간광고 135초, 2부 40분                    |                           |
-| 20:55 \~ 22:20 (목)    | [TV 동물농장 UHD 확장판](../Page/TV_동물농장.md "wikilink")                                | O                                  | 10월 29일 방송예정          | 1부 45분, 중간광고 150초, 2부 40분                    |                           |
-| 10:30 \~ 11:30 (목)    | [열린 TV 시청자 세상](../Page/열린_TV_시청자_세상.md "wikilink")                              | O                                  | VOD 무료                | 무                                            |                           |
-| 11:30 \~ 12:00 (목\~금) | [네트워크 현장\! 고향이 보인다](../Page/네트워크_현장!_고향이_보인다.md "wikilink")                     | 무                                  | O                     |                                              |                           |
-| 22:35 \~ 23:50 (목)    | [꼬리에 꼬리를 무는 그날 이야기](https://ko.wikipedia.org/wiki/꼬리에_꼬리를_무는_그날_이야기 "wikilink") | 자체방송                               |                       | 10월 22일 종영예정                                 | 1부 40분, 중간광고 60초, 2부 40분  |
-| 10:30 \~ 11:30 (금)    | [톡톡 정보 브런치](../Page/톡톡_정보_브런치.md "wikilink")                                    | KNN, TJB, JTV만 자체방송                | O                     |                                              | 무                         |
-| 20:55 \~ 22:00 (금)    | [궁금한 이야기 Y](../Page/궁금한_이야기_Y.md "wikilink")                                    | 전국방송                               | O                     | 10월 30일부터 금 18:50 재방송                        | 1부 35분, 중간광고 120초, 2부 30분 |
-| 05:00 \~ 06:00 (토)    | [문화가중계](../Page/문화가중계.md "wikilink")                                            | CJB, G1만 수중계                       | O                     | VOD 무                                        | 무                         |
-| 08:00 \~ 08:30 (토)    | [SBS 뉴스토리](https://ko.wikipedia.org/wiki/SBS_뉴스토리 "wikilink")                   | kbc, CJB, JIBS만 수중계                | O                     |                                              | 무                         |
-| 18:30 \~ 20:00 (토)    | [궁금한 이야기 Y UHD 확장판](../Page/궁금한_이야기_Y.md "wikilink")                            | 전국방송                               | O                     | 10월 31일 방송예정                                 | 1부 40분, 중간광고 120초, 2부 50분 |
-| 23:10 \~ 00:20 (토)    | [그것이 알고싶다](../Page/그것이_알고싶다.md "wikilink")                                      | 전국방송                               | O                     | VOD 무료, 10월 26일부터 월 18:50 재방송                | 1부 40분, 중간광고 135초, 2부 30분 |
-| 06:40 \~ 07:10 (일)    | [세상에서 가장 아름다운 여행](../Page/세상에서_가장_아름다운_여행.md "wikilink")                        | CJB, JIBS만 자체방송, G1만 매월 첫째 주에 자체방송 | O                     | VOD 무료                                       | 무                         |
-| 07:40 \~ 08:35 (일)    | [일요특선 다큐멘터리](../Page/SBS_스페셜.md "wikilink")                                     | 수도권만 방송                            | O                     | 무                                            |                           |
-| 23:05 \~ 00:05 (일)    | [SBS 스페셜](../Page/SBS_스페셜.md "wikilink")                                        | 전국방송                               | O                     | VOD 무료, 10월 28일부터 수 18:50 재방송                | 무                         |
-| 09:30 \~ 10:50 (일)    | [TV 동물농장](../Page/TV_동물농장.md "wikilink")                                        | 전국방송                               | O                     | 10월 29일부터 목 18:50 재방송                        | 1부 40분, 중간광고 150초, 2부 40분 |
-|                       |                                                                                 |                                    |                       |                                              |                           |
+| 방송 시간                 | 방송 프로그램                                                                         | 지역수중계여부                            | UHD    | 비고 변경                                        | 중간광고 시간                  |
+| --------------------- | ------------------------------------------------------------------------------- | ---------------------------------- | ------ | -------------------------------------------- | ------------------------ |
+| 07:35 \~ 08:35 (평일)   | [모닝와이드 3부](../Page/모닝와이드.md "wikilink")                                         | KNN만 자체방송, CJB만 금요일에 수중계           | O      | Live                                         | 무                        |
+| 09:10 \~ 10:10 (평일)   | [좋은 아침](../Page/좋은_아침.md "wikilink")                                            | TBC, JIBS만 금요일에 자체방송               | O      |                                              | 무                        |
+| 16:00 \~ 17:00 (수)    | [와이드 정보쇼 알고 보면](https://ko.wikipedia.org/wiki/와이드_정보쇼_알고_보면 "wikilink")         | 수도권만 방송                            | O      | [모닝와이드 3부](../Page/모닝와이드.md "wikilink") (재)  | 무                        |
+| 19:00 \~ 20:00 (평일)   | [생방송 투데이](../Page/생방송_투데이.md "wikilink")                                        | TBC, ubc, JTV만 월요일 \~ 목요일에 수중계     | O      | Live                                         | 1부 30분, PCM 60초, 2부 30분  |
+| 20:55 \~ 22:00 (금)    | [맨 인 블랙박스](../Page/맨_인_블랙박스.md "wikilink")                                      | 전국방송                               | O      |                                              | 1부 35분, PCM 15초, 2부 30분  |
+| 10:30 \~ 11:00 (월\~수) | [살맛나는 오늘](https://ko.wikipedia.org/wiki/살맛나는_오늘 "wikilink")                     | TJB, kbc만 자체방송                     | O      | [생방송 투데이](../Page/생방송_투데이.md "wikilink") (재) | 무                        |
+| 21:00 \~ 21:30 (월)    | [생활의 달인](../Page/생활의_달인.md "wikilink")                                          | 전국방송                               | 무      |                                              |                          |
+| 21:00 \~ 21:30 (화)    | [순간포착 세상에 이런일이](../Page/순간포착_세상에_이런일이.md "wikilink")                            | 무                                  |        |                                              |                          |
+| 10:30 \~ 11:30 (목)    | [열린 TV 시청자 세상](../Page/열린_TV_시청자_세상.md "wikilink")                              | O                                  | VOD 무료 | 무                                            |                          |
+| 11:30 \~ 12:00 (목\~금) | [네트워크 현장\! 고향이 보인다](../Page/네트워크_현장!_고향이_보인다.md "wikilink")                     | 무                                  | O      |                                              |                          |
+| 23:30 \~ 00:50 (목)    | [꼬리에 꼬리를 무는 그날 이야기](https://ko.wikipedia.org/wiki/꼬리에_꼬리를_무는_그날_이야기 "wikilink") | 자체방송                               |        |                                              | 1부 40분, PCM 60초, 2부 40분  |
+| 10:30 \~ 11:30 (금)    | [톡톡 정보 브런치](../Page/톡톡_정보_브런치.md "wikilink")                                    | KNN, TJB, JTV만 자체방송                | O      |                                              | 무                        |
+| 18:30 \~ 20:00 (토)    | [궁금한 이야기 Y](../Page/궁금한_이야기_Y.md "wikilink")                                    | 전국방송                               | O      |                                              | 1부 40분, PCM 120초, 2부 50분 |
+| 05:00 \~ 06:00 (토)    | [문화가중계](../Page/문화가중계.md "wikilink")                                            | CJB, G1만 수중계                       | O      | VOD 무                                        | 무                        |
+| 08:00 \~ 08:30 (토)    | [SBS 뉴스토리](https://ko.wikipedia.org/wiki/SBS_뉴스토리 "wikilink")                   | kbc, CJB, JIBS만 수중계                | O      |                                              | 무                        |
+| 23:10 \~ 00:20 (토)    | [그것이 알고싶다](../Page/그것이_알고싶다.md "wikilink")                                      | 전국방송                               | O      | VOD 무료                                       | 1부 40분, PCM 120초, 2부 30분 |
+| 06:40 \~ 07:10 (일)    | [세상에서 가장 아름다운 여행](../Page/세상에서_가장_아름다운_여행.md "wikilink")                        | CJB, JIBS만 자체방송, G1만 매월 첫째 주에 자체방송 | O      | VOD 무료                                       | 무                        |
+| 07:40 \~ 08:35 (일)    | [일요특선 다큐멘터리](../Page/SBS_스페셜.md "wikilink")                                     | 수도권만 방송                            | O      | 무                                            |                          |
+| 23:05 \~ 00:05 (일)    | [SBS 스페셜](../Page/SBS_스페셜.md "wikilink")                                        | 전국방송                               | O      | VOD 무료                                       | 무                        |
+| 09:30 \~ 10:50 (일)    | [TV 동물농장](../Page/TV_동물농장.md "wikilink")                                        | 전국방송                               | O      |                                              | 1부 40분, PCM 120초, 2부 40분 |
+|                       |                                                                                 |                                    |        |                                              |                          |
 
 ### 어린이
 
@@ -610,20 +603,23 @@
 <tr class="header">
 <th><p>방송 시간</p></th>
 <th><p>방송 프로그램</p></th>
+<th><p>간접 및 가상 중간 광고 UHD</p></th>
 <th><p>등급제</p></th>
-<th><p>UHD</p></th>
+<th><p>비고 변경</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>11:00 (월·화)</p></td>
 <td><p><a href="../Page/꾸러기_탐구생활.md" title="wikilink">꾸러기 탐구생활</a></p></td>
+<td><p>무 O</p></td>
 <td></td>
-<td><p>O</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>11:30 (월·화)</p></td>
 <td><p>요리조리 맛있는 수업</p></td>
+<td><p>무 O</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -637,38 +633,50 @@
 <tr class="header">
 <th><p>방송 시간</p></th>
 <th><p>방송 프로그램</p></th>
-<th><p>등급제</p></th>
-<th><p>UHD</p></th>
+<th><p>간접 및 가상 중간 광고 UHD</p></th>
+<th><p>방영예정 후속작 (첫) (재)</p></th>
+<th><p>둥급제</p></th>
+<th><p>비고 변경</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>11:00 (수)</p></td>
 <td><p><a href="../Page/SBS_애니갤러리.md" title="wikilink">SBS 애니갤러리</a></p></td>
+<td><p>무 O</p></td>
 <td></td>
-<td><p>O</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>11:30 (수), 08:35 (일)</p></td>
+<td><p>11:30 (수) , 08:35 (일)</p></td>
 <td><p><a href="../Page/런닝맨_(애니메이션).md" title="wikilink">런닝맨 시즌 2</a></p></td>
+<td><p>무 O</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>07:15 (토)</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/바이트초이카" title="wikilink">바이트초이카</a></p></td>
+<td><p>무 O</p></td>
+<td><p>??? 10월 31일 첫방송</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>07:10 (일), 11:45 (수)</p></td>
 <td><p>스페이스 캅스</p></td>
+<td><p>무 O</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>07:25 (일)</p></td>
 <td><p><a href="../Page/헬로_카봇.md" title="wikilink">헬로카봇 시즌9</a></p></td>
+<td><p>무 O</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -677,10 +685,10 @@
 
 ### 스포츠
 
-| 방송 시간     | 방송 프로그램                                              | 등급제 | UHD |
-| --------- | ---------------------------------------------------- | --- | --- |
-| 12:50 (월) | [스포츠 투나잇](../Page/스포츠_투나잇_\(SBS\).md "wikilink")     | A   | O   |
-| 12:50 (화) | [SBS 골프](../Page/SBS_골프_\(텔레비전_프로그램\).md "wikilink") |     |     |
+| 방송 시간     | 방송 프로그램                                              | 등급제                                                                                                                                                                                                                      | UHD |
+| --------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- |
+| 12:50 (월) | [스포츠 투나잇](../Page/스포츠_투나잇_\(SBS\).md "wikilink")     | [링크=<https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%BC:Republic_Of_Korea_Broadcasting-TV_Rating_System(ALL).svg>](https://ko.wikipedia.org/wiki/파일:Republic_Of_Korea_Broadcasting-TV_Rating_System\(ALL\).svg "wikilink") | O   |
+| 12:50 (화) | [SBS 골프](../Page/SBS_골프_\(텔레비전_프로그램\).md "wikilink") |                                                                                                                                                                                                                          |     |
 
 ### 뉴스
 
@@ -800,20 +808,19 @@
 ## 제보 전화
 
   - **02) 2113-6000** (SBS 뉴스)
-  - **02) 2113-3456** (TV동물농장)
-  - **02) 2113-3333** (세상이 이런일이)
+  - **02) 2113-3456** (TV 동물농장)
+  - **02) 2113-3333** (순간포착 세상이 이런 일이)
   - **02) 2113-5555** (궁금한 이야기 Y)
   - **02) 3143-7686\~7** (생활의 달인)
   - **02) 2061-0006** (본사)
 
 ## 같이 보기
 
-  - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
-  - [KBS 2TV](../Page/KBS_2TV.md "wikilink")
-  - [OBS경인TV](../Page/OBS경인TV.md "wikilink")
+  - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
+  - [CBS 표준FM](../Page/CBS_표준FM.md "wikilink")
+  - [TBS eFM](../Page/TBS_eFM.md "wikilink")
   - [MBC TV](../Page/MBC_TV.md "wikilink")
-  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
-  - [EBS 2TV](../Page/EBS_2TV.md "wikilink")
+  - [채널A](../Page/채널A.md "wikilink")
 
 ## 각주
 

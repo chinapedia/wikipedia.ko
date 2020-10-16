@@ -155,7 +155,7 @@
   - [KNN의 뉴스 프로그램](../Page/KNN의_뉴스_프로그램.md "wikilink")
   - [TBC의 뉴스 프로그램](../Page/TBC의_뉴스_프로그램.md "wikilink")
   - [대전방송의 뉴스 프로그램](../Page/대전방송의_뉴스_프로그램.md "wikilink")
-  - [광주방송의 뉴스 프로그램](https://ko.wikipedia.org/wiki/광주방송의_뉴스_프로그램 "wikilink")
+  - [광주방송의 뉴스 프로그램](../Page/광주방송의_뉴스_프로그램.md "wikilink")
   - [울산방송의 뉴스 프로그램](../Page/울산방송의_뉴스_프로그램.md "wikilink")
   - [전주방송의 뉴스 프로그램](../Page/전주방송의_뉴스_프로그램.md "wikilink")
   - [청주방송의 뉴스 프로그램](../Page/청주방송의_뉴스_프로그램.md "wikilink")
