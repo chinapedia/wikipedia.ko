@@ -36,6 +36,6 @@
   - [혼다](https://ko.wikipedia.org/wiki/혼다 "wikilink") - [레전드](../Page/혼다_레전드.md "wikilink")
   - [볼보](../Page/볼보자동차.md "wikilink") - [S90](../Page/볼보_S90.md "wikilink")
   - [인피니티](https://ko.wikipedia.org/wiki/인피니티 "wikilink") - [Q70](https://ko.wikipedia.org/wiki/인피니티_Q70 "wikilink")
-  - [링컨](../Page/링컨_\(자동차\).md "wikilink") - [MKZ](https://ko.wikipedia.org/wiki/링컨_MKZ "wikilink")
+  - [링컨](../Page/링컨_\(자동차\).md "wikilink") - [MKZ](../Page/링컨_MKZ.md "wikilink")
 
 [CTS](https://ko.wikipedia.org/wiki/분류:준대형_승용차 "wikilink") [CTS](https://ko.wikipedia.org/wiki/분류:2000년대_자동차 "wikilink") [CTS](https://ko.wikipedia.org/wiki/분류:2010년대_자동차 "wikilink") [CTS](https://ko.wikipedia.org/wiki/분류:세단 "wikilink") [CTS](https://ko.wikipedia.org/wiki/분류:스포츠_세단 "wikilink") [CTS](https://ko.wikipedia.org/wiki/분류:쿠페 "wikilink") [CTS](https://ko.wikipedia.org/wiki/분류:스테이션_왜건 "wikilink") [CTS](https://ko.wikipedia.org/wiki/분류:캐딜락의_차종 "wikilink") [CTS](https://ko.wikipedia.org/wiki/분류:후륜구동 "wikilink") [CTS](https://ko.wikipedia.org/wiki/분류:4륜구동 "wikilink") [CTS](https://ko.wikipedia.org/wiki/분류:2002년_도입된_자동차 "wikilink")

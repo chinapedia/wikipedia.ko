@@ -11,7 +11,7 @@
   - 체트 (배역: [에릭 바우자](../Page/에릭_바우자.md "wikilink"))
   - 화이트 쉐도우 (배역: 마이클 패트릭 벨)
   - 위플래시 (배역: 존 에릭 벤틀리)
-  - 번 (배역: [그레이 딜라일](https://ko.wikipedia.org/wiki/그레이_딜라일 "wikilink"))
+  - 번 (배역: [그레이 딜라일](../Page/그레이_딜라일.md "wikilink"))
   - 스무스 (배역: [필 라마](https://ko.wikipedia.org/wiki/필_라마 "wikilink"))
   - 스키드 (배역:[아미르 탈라이](https://ko.wikipedia.org/wiki/아미르_탈라이 "wikilink"))
   - 티토 (배역: 아미르 탈라이)

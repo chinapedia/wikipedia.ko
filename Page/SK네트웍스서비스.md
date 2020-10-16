@@ -43,7 +43,7 @@
   - 네트워크사업
   - IT Solution 사업
 
-## 참고문헌
+## 참고 문헌
 
   - [워치가드코리아-SK네트웍스서비스, 총판 계약 체결](http://www.itdaily.kr/news/articleView.html?idxno=58975)
   - [SK네트웍스서비스 "모바일 게임 퍼블리싱 출사표" (일문일답)](http://www.edaily.co.kr/news/NewsRead.edy?SCD=JE61&newsid=03962246609430256&DCD=A00506&OutLnkChk=Y)
