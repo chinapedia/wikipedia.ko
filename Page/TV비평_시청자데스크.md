@@ -17,7 +17,7 @@
 
 | 방송 채널                                                                                                                                                          | 방송 기간                                                                                                                                                      | 방송 시간                                               | 방송 분량 |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                    | [2003년](../Page/2003년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 오전 11시 \~ 낮 12시 | 1시간   |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink")                                                                                                                       | [2003년](../Page/2003년.md "wikilink") [6월 28일](../Page/6월_28일.md "wikilink") \~ [2003년](../Page/2003년.md "wikilink") [9월 20일](../Page/9월_20일.md "wikilink") | 매주 [토요일](../Page/토요일.md "wikilink") 오전 11시 \~ 낮 12시 | 1시간   |
 | [2003년](../Page/2003년.md "wikilink") [10월 4일](../Page/10월_4일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [3월 20일](../Page/3월_20일.md "wikilink")     |                                                                                                                                                            |                                                     |       |
 | [2004년](../Page/2004년.md "wikilink") [4월 10일](../Page/4월_10일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [7월 10일](../Page/7월_10일.md "wikilink")     |                                                                                                                                                            |                                                     |       |
 | [2004년](../Page/2004년.md "wikilink") [7월 24일](../Page/7월_24일.md "wikilink") \~ [2004년](../Page/2004년.md "wikilink") [10월 9일](../Page/10월_9일.md "wikilink")     |                                                                                                                                                            |                                                     |       |
@@ -158,13 +158,13 @@
 
 ### 현재 MC
 
-  - [김태규](../Page/김태규_\(아나운서\).md "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 22기 공채 아나운서
-  - [백정원](../Page/백정원.md "wikilink") (여) - [KBS의](../Page/한국방송공사.md "wikilink") 22기 공채 아나운서
+  - [김태규](../Page/김태규_\(아나운서\).md "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 23기 공채 아나운서
+  - [백정원](../Page/백정원.md "wikilink") (여) - [KBS의](../Page/한국방송공사.md "wikilink") 23기 공채 아나운서
 
 ### 시청자의 눈
 
-  - [남현종](../Page/남현종.md "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 45기 공채 아나운서
-  - [김도연](../Page/김도연_\(아나운서\).md "wikilink") (여) - [KBS의](../Page/한국방송공사.md "wikilink") 45기 공채 아나운서
+  - [이재성](https://ko.wikipedia.org/wiki/이재성 "wikilink") (남) - [KBS의](../Page/한국방송공사.md "wikilink") 42기 공채 아나운서
+  - [박소현](https://ko.wikipedia.org/wiki/박소현 "wikilink") (여) - [KBS의](../Page/한국방송공사.md "wikilink") 42기 공채 아나운서
 
 ### 역대 MC
 
@@ -213,7 +213,7 @@
 </tr>
 <tr class="even">
 <td><p>5기</p></td>
-<td><p>지승현</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/지승현" title="wikilink">지승현</a></p></td>
 <td><p><a href="../Page/2007년.md" title="wikilink">2007년</a> <a href="../Page/11월_10일.md" title="wikilink">11월 10일</a> ~ <a href="../Page/2008년.md" title="wikilink">2008년</a> <a href="../Page/2월_23일.md" title="wikilink">2월 23일</a></p></td>
 <td></td>
 </tr>
@@ -290,12 +290,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>16기</p></td>
-<td><p>미정</p></td>
-<td><p>미정</p></td>
-<td><p>2020년 9월 중순 이후 진행 예정</p></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -445,7 +439,7 @@
 </tr>
 <tr class="even">
 <td><p>21기</p></td>
-<td><p><a href="../Page/김도연_(아나운서).md" title="wikilink">김도연</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박소현" title="wikilink">박소현</a></p></td>
 <td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/7월_3일.md" title="wikilink">7월 3일</a> ~ <strong>현재</strong></p></td>
 <td></td>
 </tr>

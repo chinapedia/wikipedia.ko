@@ -5,7 +5,7 @@
 
 ## 프로모션
 
-소녀시대는 [동일본 대지진](https://ko.wikipedia.org/wiki/동일본_대지진 "wikilink") 이후 프로모션 활동을 하지 않았지만, 2011년 4월 "Mr. Taxi/Run Devil Run" 발매 이후 2011년 5월 13일 《[뮤직 스테이션](../Page/뮤직_스테이션.md "wikilink")》에 출연해 노란색 택시 기사 의상을 입고 "Mr. Taxi"를 불렀다.\[1\] 2011년 6월 25일에는 [MTV 비디오 뮤직 어워드 재팬에](../Page/MTV_비디오_뮤직_어워드_재팬.md "wikilink") 출연해 검정색 가죽 의상을 입고 "THE GREAT ESCAPE"와 "Mr. Taxi" 두 곡을 선보였다.\[2\] 2011년 5월부터는 앨범을 홍보하기 위한 첫 일본 투어 [The 1st Japan Arena Tour를](../Page/The_1st_Japan_Arena_Tour.md "wikilink") 시작했다. 이번 투어에서 소녀시대는 6개 도시를 방문해 총 14만 명의 관객을 동원했고 180억 원의 수익을 남겼다.\[3\] 2011년 7월부터는 대한민국 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")을 시작으로 아시아 투어 [2011 GIRLS’ GENERATION TOUR를](https://ko.wikipedia.org/wiki/2011_GIRLS’_GENERATION_TOUR "wikilink") 시작했다.
+소녀시대는 [동일본 대지진](https://ko.wikipedia.org/wiki/동일본_대지진 "wikilink") 이후 프로모션 활동을 하지 않았지만, 2011년 4월 "Mr. Taxi/Run Devil Run" 발매 이후 2011년 5월 13일 《[뮤직 스테이션](../Page/뮤직_스테이션.md "wikilink")》에 출연해 노란색 택시 기사 의상을 입고 "Mr. Taxi"를 불렀다.\[1\] 2011년 6월 25일에는 [MTV 비디오 뮤직 어워드 재팬에](../Page/MTV_비디오_뮤직_어워드_재팬.md "wikilink") 출연해 검은색 가죽 의상을 입고 "THE GREAT ESCAPE"와 "Mr. Taxi" 두 곡을 선보였다.\[2\] 2011년 5월부터는 앨범을 홍보하기 위한 첫 일본 투어 [The 1st Japan Arena Tour를](../Page/The_1st_Japan_Arena_Tour.md "wikilink") 시작했다. 이번 투어에서 소녀시대는 6개 도시를 방문해 총 14만 명의 관객을 동원했고 180억 원의 수익을 남겼다.\[3\] 2011년 7월부터는 대한민국 [서울](https://ko.wikipedia.org/wiki/서울 "wikilink")을 시작으로 아시아 투어 [2011 GIRLS’ GENERATION TOUR를](https://ko.wikipedia.org/wiki/2011_GIRLS’_GENERATION_TOUR "wikilink") 시작했다.
 
 ### 싱글
 

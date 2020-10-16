@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [네트워크 참TV](https://ko.wikipedia.org/wiki/네트워크_참TV).
 
 
-**네트워크 참TV**는 매주 [토요일](../Page/토요일.md "wikilink") 오전 5시 10분에 [KBS 1TV로](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송되는 [지역총국](https://ko.wikipedia.org/wiki/한국방송공사#지역방송국 "wikilink") 프로그램이다.
+**네트워크 참TV**는 매주 [토요일](../Page/토요일.md "wikilink") 오전 5시 10분에 [KBS 1TV로](../Page/KBS_1TV.md "wikilink") 방송되는 [지역총국](https://ko.wikipedia.org/wiki/한국방송공사#지역방송국 "wikilink") 프로그램이다.
 
 ## 기획 의도
 
@@ -27,7 +27,7 @@
 | [2015년](../Page/2015년.md "wikilink") [1월 5일](../Page/1월_5일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [2월 9일](../Page/2월_9일.md "wikilink")         | 매주 [월요일](../Page/월요일.md "wikilink") 밤 12:20 \~ 1:10 (50분)                                                                                                  |                                                           |
 | [2015년](../Page/2015년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") \~ [2015년](../Page/2015년.md "wikilink") [5월 29일](../Page/5월_29일.md "wikilink")     | 매주 [금요일](../Page/금요일.md "wikilink") 밤 1:00 \~ 1:50 (50분)                                                                                                   |                                                           |
 | [2015년](../Page/2015년.md "wikilink") [6월 4일](../Page/6월_4일.md "wikilink") \~ **현재**                                                                            | 매주 [목요일](../Page/목요일.md "wikilink") 밤 1:20 \~ 2:10 (50분)                                                                                                   |                                                           |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                    | [2012년](../Page/2012년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") | 매주 [월요일](../Page/월요일.md "wikilink") 밤 2:30 \~ 3:20 (50분)  |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink")                                                                                                                       | [2012년](../Page/2012년.md "wikilink") [10월 22일](../Page/10월_22일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [4월 1일](../Page/4월_1일.md "wikilink") | 매주 [월요일](../Page/월요일.md "wikilink") 밤 2:30 \~ 3:20 (50분)  |
 | [2013년](../Page/2013년.md "wikilink") [4월 15일](../Page/4월_15일.md "wikilink") \~ [2013년](../Page/2013년.md "wikilink") [12월 30일](../Page/12월_30일.md "wikilink")   | 매주 [월요일](../Page/월요일.md "wikilink") 밤 2:40 \~ 3:30 (50분)                                                                                                   |                                                           |
 | [2014년](../Page/2014년.md "wikilink") [1월 17일](../Page/1월_17일.md "wikilink") \~ [2014년](../Page/2014년.md "wikilink") [8월 29일](../Page/8월_29일.md "wikilink")     | 매주 [금요일](../Page/금요일.md "wikilink") 밤 3:00 \~ 3:50 (50분)                                                                                                   |                                                           |
 | [2014년](../Page/2014년.md "wikilink") [9월 6일](../Page/9월_6일.md "wikilink") \~ **현재**                                                                            | 매주 [토요일](../Page/토요일.md "wikilink") 오전 5:00 \~ 6:00 (1시간)                                                                                                  |                                                           |
@@ -1003,6 +1003,6 @@
 
 ## 외부 링크
 
-  - [KBS창원 네트워크 참TV 홈페이지](https://web.archive.org/web/20170715024414/http://changwon.kbs.co.kr/tv/cchamtv/about/)
+  - [KBS창원 네트워크 참TV 홈페이지](http://program.kbs.co.kr/1tv/local/cchamtv/pc/index.html)
 
 [분류:한국방송공사의 시사교양 프로그램](https://ko.wikipedia.org/wiki/분류:한국방송공사의_시사교양_프로그램 "wikilink")

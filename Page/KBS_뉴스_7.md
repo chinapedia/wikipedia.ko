@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 뉴스 7](https://ko.wikipedia.org/wiki/KBS_뉴스_7).
 
 
-《**KBS 뉴스 7**》()은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 7시에 [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"), [KBS 월드에서](../Page/KBS_월드_\(텔레비전_채널\).md "wikilink") 동시에 생방송되는 [한국방송공사의 저녁종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
+《**KBS 뉴스 7**》()은 매주 [평일](https://ko.wikipedia.org/wiki/평일 "wikilink") 저녁 7시에 [KBS 1TV](../Page/KBS_1TV.md "wikilink"), [KBS 월드에서](../Page/KBS_월드_\(텔레비전_채널\).md "wikilink") 동시에 생방송되는 [한국방송공사의 저녁종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
 
 ## 기획 의도 / 개요
 
@@ -15,7 +15,7 @@
 
 ## 방송 시간
 
-  - 명절 연휴에는 **KBS 뉴스**로 10분 정도 방송되며,\[1\] 긴급 뉴스와 특집 뉴스가 편성되면 [KBS 뉴스특보로](../Page/KBS_뉴스특보.md "wikilink") 방송된다.
+  - 명절 연휴에는 **KBS 뉴스**로 10분 정도 방송되거나, 공휴일에는 15분\~25분 까지 단축하여 방송된다.\[1\] 긴급 뉴스와 특집 뉴스가 편성되면 [KBS 뉴스특보로](../Page/KBS_뉴스특보.md "wikilink") 방송된다.
 
 <table>
 <thead>
@@ -27,7 +27,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a></p></td>
 <td><p><a href="../Page/1965년.md" title="wikilink">1965년</a> <a href="../Page/4월_5일.md" title="wikilink">4월 5일</a></p></td>
 <td><p>월요일 저녁 7시 ~ 7시 5분 (5분)</p></td>
 </tr>
@@ -296,6 +296,7 @@
   - 현재 앵커의 남성은 [2020년](../Page/2020년.md "wikilink") [6월 29일](../Page/6월_29일.md "wikilink"), 여성은 [2019년](../Page/2019년.md "wikilink") [1월 1일](../Page/1월_1일.md "wikilink") 이후를 기준으로 한다.
   - [2001년](../Page/2001년.md "wikilink") [11월 2일까지](../Page/11월_2일.md "wikilink") 남성 앵커는 아나운서가 진행하였으나 [2001년](../Page/2001년.md "wikilink") [11월 5일부터](../Page/11월_5일.md "wikilink") 남성 앵커는 보도국 기자가 진행하는 방식으로 변경되었다가 [2002년](../Page/2002년.md "wikilink") [10월 28일부터](../Page/10월_28일.md "wikilink") 남성 앵커는 아나운서가 진행하는 방식으로 환원되었으며, [2014년](../Page/2014년.md "wikilink") [3월 3일부터](../Page/3월_3일.md "wikilink") 남성 앵커는 보도국 기자가 진행하는 방식으로 환원되었다가 [2018년](../Page/2018년.md "wikilink") [2월 12일부터](../Page/2월_12일.md "wikilink") 남성 앵커는 아나운서가 진행하는 방식으로 환원되었다.
   - 참고로 역대 앵커의 여자 아나운서 중 [이씨](https://ko.wikipedia.org/wiki/이_\(성씨\) "wikilink") 성을 가진 아나운서는 3명이다. ([이병혜](https://ko.wikipedia.org/wiki/이병혜 "wikilink") 前 아나운서, [이한숙](https://ko.wikipedia.org/wiki/이한숙 "wikilink") 前 아나운서, [이규원](../Page/이규원_\(아나운서\).md "wikilink") 아나운서)
+  - 참고로 역대 앵커의 여자 아나운서 중 [이씨](https://ko.wikipedia.org/wiki/이_\(성씨\) "wikilink") 성을 가진 아나운서는 없다. (KBS 뉴스 7 (1TV))
 
 ### 현재 앵커
 
@@ -580,7 +581,7 @@
 
 ## 타이틀 변천사
 
-현재 타이틀은 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [2011년](../Page/2011년.md "wikilink") [5월 30일부터를](../Page/5월_30일.md "wikilink") 기준으로 한다.
+현재 타이틀은 [KBS 1TV의](../Page/KBS_1TV.md "wikilink") [2011년](../Page/2011년.md "wikilink") [5월 30일부터를](../Page/5월_30일.md "wikilink") 기준으로 한다.
 
 <table>
 <thead>

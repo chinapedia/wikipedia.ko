@@ -49,7 +49,7 @@
 <a href="https://ko.wikipedia.org/wiki/메르세데스-벤츠_W25B" title="wikilink">메르세데스-벤츠 W25B</a></p></td>
 <td><p>메르세데스-벤츠 M25A 3.4 <a href="https://ko.wikipedia.org/wiki/직렬_기관" title="wikilink">L8</a><br />
 메르세데스-벤츠 M25B 4.0 <a href="https://ko.wikipedia.org/wiki/직렬_기관" title="wikilink">L8</a></p></td>
-<td><p>콘티넨탈</p></td>
+<td></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1935_Monaco_Grand_Prix" title="wikilink">MON</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1935_French_Grand_Prix" title="wikilink">FRA</a></p></td>
@@ -139,7 +139,7 @@
 <td><p>실버 애로우즈</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스-벤츠_W25K" title="wikilink">메르세데스-벤츠 W25K</a></p></td>
 <td><p>메르세데스-벤츠 ME25 4.7 <a href="https://ko.wikipedia.org/wiki/직렬_기관" title="wikilink">L8</a></p></td>
-<td><p>콘티넨탈</p></td>
+<td></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1936_Monaco_Grand_Prix" title="wikilink">MON</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1936_German_Grand_Prix" title="wikilink">GER</a></p></td>
@@ -229,7 +229,7 @@
 <td><p>실버 애로우즈</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스-벤츠_W125" title="wikilink">메르세데스-벤츠 W125</a></p></td>
 <td><p>메르세데스-벤츠 M125 5.6 <a href="https://ko.wikipedia.org/wiki/직렬_기관" title="wikilink">L8</a></p></td>
-<td><p>콘티넨탈</p></td>
+<td></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1937_Belgian_Grand_Prix" title="wikilink">BEL</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1937_German_Grand_Prix" title="wikilink">GER</a></p></td>
@@ -334,7 +334,7 @@
 <td><p>실버 애로우즈</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스-벤츠_W154" title="wikilink">메르세데스-벤츠 W154</a></p></td>
 <td><p>메르세데스-벤츠 M154 3.0 <a href="https://ko.wikipedia.org/wiki/V12_engine" title="wikilink">V12</a></p></td>
-<td><p>콘티넨탈</p></td>
+<td></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1938_French_Grand_Prix" title="wikilink">FRA</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1938_German_Grand_Prix" title="wikilink">GER</a></p></td>
@@ -425,7 +425,7 @@
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스-벤츠_W154" title="wikilink">메르세데스-벤츠 W154</a></p></td>
 <td><p>메르세데스-벤츠 M154 3.0 <a href="https://ko.wikipedia.org/wiki/V12_engine" title="wikilink">V12</a><br />
 메르세데스-벤츠 M163 3.0 <a href="https://ko.wikipedia.org/wiki/V12_engine" title="wikilink">V12</a></p></td>
-<td><p>콘티넨탈</p></td>
+<td></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1939_Belgian_Grand_Prix" title="wikilink">BEL</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1939_French_Grand_Prix" title="wikilink">FRA</a></p></td>
@@ -573,7 +573,7 @@
 <td><p>다임러 벤츠 AG</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스-벤츠_W196" title="wikilink">메르세데스-벤츠 W196</a></p></td>
 <td><p>메르세데스-벤츠 2.5 <a href="https://ko.wikipedia.org/wiki/직렬_기관" title="wikilink">L8</a></p></td>
-<td><p>콘티넨탈</p></td>
+<td></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1954_Argentine_Grand_Prix" title="wikilink">ARG</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1954_Indianapolis_500" title="wikilink">500</a></p></td>
@@ -728,7 +728,7 @@
 <td><p>다임러 벤츠 AG</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스-벤츠_W196" title="wikilink">메르세데스-벤츠 W196</a></p></td>
 <td><p>메르세데스-벤츠 2.5 <a href="https://ko.wikipedia.org/wiki/직렬_기관" title="wikilink">L8</a></p></td>
-<td><p>콘티넨탈</p></td>
+<td></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1955_Argentine_Grand_Prix" title="wikilink">ARG</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/1955_Monaco_Grand_Prix" title="wikilink">MON</a></p></td>
@@ -976,7 +976,7 @@
 <td><p>메르세데스 GP 페트로나스 F1</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스_MGP_W01" title="wikilink">메르세데스 MGP W01</a></p></td>
 <td><p>메르세데스-벤츠 FO 108X 2.4 <a href="../Page/V8_엔진.md" title="wikilink">V8</a></p></td>
-<td><p>브리지 스톤</p></td>
+<td></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2010년_포뮬러_원_바레인_그랑프리" title="wikilink">BHR</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2010년_포뮬러_원_오스트레일리아_그랑프리" title="wikilink">AUS</a></p></td>
@@ -1069,7 +1069,7 @@
 <td><p>메르세데스 GP 페트로나스 F1</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스_MGP_W02" title="wikilink">메르세데스 MGP W02</a></p></td>
 <td><p>메르세데스-벤츠 FO 108Y 2.4 <a href="../Page/V8_엔진.md" title="wikilink">V8</a></p></td>
-<td><p>피렐리</p></td>
+<td></td>
 <td></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2011년_포뮬러_원_오스트레일리아_그랑프리" title="wikilink">AUS</a></p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/2011년_포뮬러_원_말레이시아_그랑프리" title="wikilink">MAL</a></p></td>
@@ -1162,7 +1162,7 @@
 <td><p>메르세데스 AMG 페트로나스 F1</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W03" title="wikilink">메르세데스 F1 W03</a></p></td>
 <td><p>메르세데스-벤츠 FO 108Z 2.4 <a href="../Page/V8_엔진.md" title="wikilink">V8</a></p></td>
-<td><p>피렐리</p></td>
+<td></td>
 <td></td>
 <td><p>AUS</p></td>
 <td><p>MAL</p></td>
@@ -1255,7 +1255,7 @@
 <td><p>메르세데스 AMG 페트로나스 F1</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W04" title="wikilink">메르세데스 F1 W04</a></p></td>
 <td><p>메르세데스-벤츠 FO 108F 2.4 <a href="../Page/V8_엔진.md" title="wikilink">V8</a></p></td>
-<td><p>피렐리</p></td>
+<td></td>
 <td></td>
 <td><p>AUS</p></td>
 <td><p>MAL</p></td>
@@ -1348,7 +1348,7 @@
 <td><p>메르세데스 AMG 페트로나스 F1</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W05_하이브리드" title="wikilink">메르세데스 F1 W05</a> <a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W05_하이브리드" title="wikilink">하이브리드</a></p></td>
 <td><p>메르세데스-벤츠 PU106A 하이브리드 1.6 <a href="https://ko.wikipedia.org/wiki/V6" title="wikilink">V6</a> <a href="../Page/터보차저.md" title="wikilink">t</a></p></td>
-<td><p>피렐리</p></td>
+<td></td>
 <td></td>
 <td><p>AUS</p></td>
 <td><p>MAL</p></td>
@@ -1441,7 +1441,7 @@
 <td><p>메르세데스 AMG 페트로나스 F1</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W06하이브리드" title="wikilink">메르세데스 F1 W06</a> <a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W06하이브리드" title="wikilink">하이브리드</a></p></td>
 <td><p>메르세데스-벤츠 PU106B 하이브리드 1.6 <a href="https://ko.wikipedia.org/wiki/V6" title="wikilink">V6</a> <a href="../Page/터보차저.md" title="wikilink">t</a></p></td>
-<td><p>피렐리</p></td>
+<td></td>
 <td></td>
 <td><p>AUS</p></td>
 <td><p>MAL</p></td>
@@ -1534,7 +1534,7 @@
 <td><p>메르세데스 AMG 페트로나스 F1</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W07하이브리드" title="wikilink">메르세데스 F1 W07</a> <a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W07하이브리드" title="wikilink">하이브리드</a></p></td>
 <td><p>메르세데스-벤츠 PU106C 하이브리드 1.6 <a href="https://ko.wikipedia.org/wiki/V6" title="wikilink">V6</a> <a href="../Page/터보차저.md" title="wikilink">t</a></p></td>
-<td><p>피렐리</p></td>
+<td></td>
 <td></td>
 <td><p>AUS</p></td>
 <td><p>BHR</p></td>
@@ -1622,10 +1622,384 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2017년_포뮬러_원_시즌" title="wikilink">2017</a></p></td>
+<td><p>메르세데스 AMG 페트로나스 F1</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W08" title="wikilink">메르세데스 F1 W08</a> <a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W08" title="wikilink">EQ Power+</a></p></td>
+<td><p>메르세데스-벤츠 M08 EQ Power+ 1.6 <a href="https://ko.wikipedia.org/wiki/V6" title="wikilink">V6</a> <a href="../Page/터보차저.md" title="wikilink">t</a></p></td>
+<td></td>
+<td></td>
+<td><p>AUS</p></td>
+<td><p>CHN</p></td>
+<td><p>BHR</p></td>
+<td><p>RUS</p></td>
+<td><p>ESP</p></td>
+<td><p>MON</p></td>
+<td><p>CAN</p></td>
+<td><p>AZE</p></td>
+<td><p>AUT</p></td>
+<td><p>GBR</p></td>
+<td><p>HUN</p></td>
+<td><p>BEL</p></td>
+<td><p>ITA</p></td>
+<td><p>SIN</p></td>
+<td><p>MAL</p></td>
+<td><p>JPN</p></td>
+<td><p>USA</p></td>
+<td><p>MEX</p></td>
+<td><p>BRA</p></td>
+<td><p>ABU</p></td>
+<td></td>
+<td><p><strong>668</strong></p></td>
+<td><p><strong>1위</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><strong>2</strong></p></td>
+<td><p><strong><em>1</em></strong></p></td>
+<td><p><em>2</em></p></td>
+<td><p>4</p></td>
+<td><p><strong><em>1</em></strong></p></td>
+<td><p>7</p></td>
+<td><p><strong><em>1</em></strong></p></td>
+<td><p><strong>5</strong></p></td>
+<td><p><em>4</em></p></td>
+<td><p><strong><em>1</em></strong></p></td>
+<td><p>4</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><em>1</em></p></td>
+<td><p><strong>2</strong></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>9</p></td>
+<td><p>4</p></td>
+<td><p>2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>3</p></td>
+<td><p>6</p></td>
+<td><p><strong>3</strong></p></td>
+<td><p>1</p></td>
+<td><p>Ret</p></td>
+<td><p>4</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
+<td><p>4</p></td>
+<td><p>5</p></td>
+<td><p>2</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p><strong>1</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2018년_포뮬러_원_시즌" title="wikilink">2018</a></p></td>
+<td><p>메르세데스 AMG 페트로나스 F1</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W09" title="wikilink">메르세데스 F1 W09</a> <a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W09" title="wikilink">EQ Power+</a></p></td>
+<td><p>메르세데스-벤츠 M09 EQ Power+ 1.6 <a href="https://ko.wikipedia.org/wiki/V6" title="wikilink">V6</a> <a href="../Page/터보차저.md" title="wikilink">t</a></p></td>
+<td></td>
+<td></td>
+<td><p>AUS</p></td>
+<td><p>BHR</p></td>
+<td><p>CHN</p></td>
+<td><p>AZE</p></td>
+<td><p>ESP</p></td>
+<td><p>MON</p></td>
+<td><p>CAN</p></td>
+<td><p>FRA</p></td>
+<td><p>AUT</p></td>
+<td><p>GBR</p></td>
+<td><p>GER</p></td>
+<td><p>HUN</p></td>
+<td><p>BEL</p></td>
+<td><p>ITA</p></td>
+<td><p>SIN</p></td>
+<td><p>RUS</p></td>
+<td><p>JPN</p></td>
+<td><p>USA</p></td>
+<td><p>MEX</p></td>
+<td><p>BRA</p></td>
+<td><p>ABU</p></td>
+<td><p><strong>655</strong></p></td>
+<td><p><strong>1위</strong></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><strong>2</strong></p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+<td><p>1</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>Ret</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p><em>1</em></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>2</strong></p></td>
+<td><p><em>1</em></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>1</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><em>3</em></p></td>
+<td><p><strong>4</strong></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>8</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+<td><p><em>14</em></p></td>
+<td><p>2</p></td>
+<td><p>5</p></td>
+<td><p>2</p></td>
+<td><p><em>7</em></p></td>
+<td><p><strong>Ret</strong></p></td>
+<td><p>4</p></td>
+<td><p>2</p></td>
+<td><p>5</p></td>
+<td><p><em>4</em></p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+<td><p><strong><em>2</em></strong></p></td>
+<td><p>2</p></td>
+<td><p>5</p></td>
+<td><p><em>5</em></p></td>
+<td><p><em>5</em></p></td>
+<td><p>5</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ko.wikipedia.org/wiki/2019년_포뮬러_원_시즌" title="wikilink">2019</a></p></td>
+<td><p>메르세데스 AMG 페트로나스 F1</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W10" title="wikilink">메르세데스 F1 W10</a> <a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W10" title="wikilink">EQ Power+</a></p></td>
+<td><p>메르세데스-벤츠 M10 EQ Power+ 1.6 <a href="https://ko.wikipedia.org/wiki/V6" title="wikilink">V6</a> <a href="../Page/터보차저.md" title="wikilink">t</a></p></td>
+<td></td>
+<td></td>
+<td><p>AUS</p></td>
+<td><p>BHR</p></td>
+<td><p>CHN</p></td>
+<td><p>AZE</p></td>
+<td><p>ESP</p></td>
+<td><p>MON</p></td>
+<td><p>CAN</p></td>
+<td><p>FRA</p></td>
+<td><p>AUT</p></td>
+<td><p>GBR</p></td>
+<td><p>GER</p></td>
+<td><p>HUN</p></td>
+<td><p>BEL</p></td>
+<td><p>ITA</p></td>
+<td><p>SIN</p></td>
+<td><p>RUS</p></td>
+<td><p>JPN</p></td>
+<td><p>MEX</p></td>
+<td><p>USA</p></td>
+<td><p>BRA</p></td>
+<td><p>ABU</p></td>
+<td><p><strong>739</strong></p></td>
+<td><p><strong>1위</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><strong>2</strong></p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p><em>1</em></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>1</p></td>
+<td><p><strong><em>1</em></strong></p></td>
+<td><p>5</p></td>
+<td><p>1</p></td>
+<td><p><strong><em>9</em></strong></p></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+<td><p><em>1</em></p></td>
+<td><p><em>3</em></p></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+<td><p>7</p></td>
+<td><p><strong><em>1</em></strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><em>1</em></p></td>
+<td><p>2</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>2</strong></p></td>
+<td><p>3</p></td>
+<td><p><em>4</em></p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p>Ret</p></td>
+<td><p>8</p></td>
+<td><p>3</p></td>
+<td><p>2</p></td>
+<td><p>5</p></td>
+<td><p>2</p></td>
+<td><p>1</p></td>
+<td><p>3</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><em>Ret</em></p></td>
+<td><p>4</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_포뮬러_원_시즌" title="wikilink">2020</a></p></td>
+<td><p>메르세데스 AMG 페트로나스 F1</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W11" title="wikilink">메르세데스 F1 W11</a> <a href="https://ko.wikipedia.org/wiki/메르세데스_F1_W11" title="wikilink">EQ Performance</a></p></td>
+<td><p>메르세데스-벤츠 M11 EQ Performance 1.6 <a href="https://ko.wikipedia.org/wiki/V6" title="wikilink">V6</a> <a href="../Page/터보차저.md" title="wikilink">t</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_포뮬러_원_오스트리아_그랑프리" title="wikilink">AUT</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_포뮬러_원_스티리아_그랑프리" title="wikilink">STY</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_포뮬러_원_헝가리_그랑프리" title="wikilink">HUN</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_포뮬러_원_영국_그랑프리" title="wikilink">GBR</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/포뮬러_원_70주년_그랑프리" title="wikilink">70A</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_스페인_그랑프리" title="wikilink">ESP</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_벨기에_그랑프리" title="wikilink">BEL</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_이탈리아_그랑프리" title="wikilink">ITA</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_토스카나_그랑프리" title="wikilink">TUS</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_러시아_그랑프리" title="wikilink">RUS</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_아이펠_그랑프리" title="wikilink">EIF</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_포뮬러_원_포르투갈_그랑프리" title="wikilink">POR</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_포뮬러_원_에밀리아_로마그나_그랑프리" title="wikilink">EMI</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_포뮬러_원_터키_그랑프리" title="wikilink">TUR</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_포뮬러_원_바레인_그랑프리" title="wikilink">BHR</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_포뮬러_원_사키르_그랑프리" title="wikilink">SKH</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/2020년_포뮬러_원_아부다비_그랑프리" title="wikilink">ABU</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p><strong>325**</strong></p></td>
+<td><p><strong>1위**</strong></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>4</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong><em>1</em></strong></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><em>2</em></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong>1</strong></p></td>
+<td><p><strong><em>7</em></strong></p></td>
+<td><p><strong><em>1</em></strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><strong>1</strong></p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>11</p></td>
+<td><p><strong>3</strong></p></td>
+<td><p><em>3</em></p></td>
+<td><p>2</p></td>
+<td><p>5</p></td>
+<td><p>2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 \* 컨스트럭터 챔피언십은 1958년 이전까지 수상되지 않음.
+
+\*\* 현재 진행중
 <sup>†</sup> 함께 운전한 부분을 포함.
 
 ## 각주
