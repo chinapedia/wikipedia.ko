@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [AKMU](https://ko.wikipedia.org/wiki/AKMU).
 
 
-**AKMU**(악뮤)는 [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") 소속의 [이찬혁](../Page/이찬혁_\(가수\).md "wikilink"), [이수현으로](../Page/이수현_\(1999년\).md "wikilink") 이루어진 [대한민국](../Page/대한민국.md "wikilink")의 남매 듀오이다. 이전에는 **악동뮤지션**(樂童뮤지션\[1\]\[2\], Akdong Musician)으로 활동을 했지만, 2019년 9월부터 그룹명을 AKMU로 바꾸어 활동하고 있다.\[3\]\[4\]\[5\] 악동뮤지션은 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 오디션 프로그램 《[K팝 스타 2](https://ko.wikipedia.org/wiki/K팝_스타_2 "wikilink")》에 참가하여 우승하였다.\[6\]\[7\] 그들은 2014년 1집 앨범 《[PLAY](https://ko.wikipedia.org/wiki/PLAY_\(악동뮤지션의_음반\) "wikilink")》를 발표하며 공식 데뷔를 하였고, 총 610만의 디지털 음원 판매량을 기록했다. \[8\]
+**AKMU**(악뮤)는 [YG 엔터테인먼트](../Page/YG_엔터테인먼트.md "wikilink") 소속의 [이찬혁](../Page/이찬혁_\(가수\).md "wikilink"), [이수현으로](../Page/이수현_\(1999년\).md "wikilink") 이루어진 [대한민국](../Page/대한민국.md "wikilink")의 남매 듀오이다. 이전에는 **악동뮤지션**(樂童뮤지션\[1\]\[2\], Akdong Musician)으로 활동을 했지만, 2019년 9월부터 그룹명을 AKMU로 바꾸어 활동하고 있다.\[3\]\[4\]\[5\] 악동뮤지션은 [SBS의](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 오디션 프로그램 《[K팝 스타 2](https://ko.wikipedia.org/wiki/K팝_스타_2 "wikilink")》에 참가하여 우승하였다.\[6\]\[7\] 그들은 2014년 1집 앨범 《[PLAY](https://ko.wikipedia.org/wiki/PLAY_\(악동뮤지션의_음반\) "wikilink")》 뿐 아니라 최근 [영화 비열한 거리 OST를](https://ko.wikipedia.org/wiki/2006년_영화_비열한_거리_OST\(악동뮤지션의_음반\) "wikilink") 발표하며 공식 데뷔를 하였고, 총 610만의 디지털 음원 판매량을 기록했다. \[8\]
 
 ## 경력
 
@@ -45,9 +45,9 @@
 
 같은 해 7월 20일 악동뮤지션은 오후 6시 새 싱글 앨범 《SUMMER EPISODE》를 공개하고 <DINOSAUR>와 <MY DARLING> 두 곡을 선보였다. 상당히 으스스한 분위기의 티저 탓에 '남량 콘셉트'에 대한 추측도 나왔으나, 발매 이후 청량감 있는 여름노래로 자리매김하였다.
 
-### 2019년 : 《항해》 (sailing)
+### 2006년 : 《영화 비열한 거리 OST》 (A Dirty Carnival)
 
-2019년 9월 25일 2년 2개월 만에 세 번째 정규앨범 《항해》 를 공개하고 타이틀 곡 \<어떻게 이별까지 사랑하겠어, 널 사랑하는 거지\>으로 무대를 선보이며, 기존의 **악동뮤지션**에서 **AKMU**(악뮤) 그룹명을 변경했다.
+2006년 6월 15일 2년 2개월 만에 세 번째 정규앨범 《영화 비열한 거리 OST》를 공개하고 엔딩타이틀 곡 \<어떻게 이별까지 사랑하겠어, 널 사랑하는 거지\>으로 무대를 선보이며, 기존의 **악동뮤지션**에서 **AKMU**(악뮤) 그룹명을 변경했다.
 
 ### 2020년 : 《항해》 (sailing), 데뷔 6년만에 이수현 첫 솔로
 

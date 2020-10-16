@@ -296,7 +296,7 @@
   - IMAREAL「Juice=Juice 이나바 마나카의 마나리아루」\[14\](2018년 6월 21일 \~ 2019년 3월 26일, [FM 홋카이도](../Page/FM_홋카이도.md "wikilink") 사회: 이나바 마나카)
   - IMAREAL「Juice=Juice 이나바 마나카의 manakan Palette Box」(2019년 4월 4일 \~ , FM 홋카이도 사회: 이나바 마나카)
   - 아키나의 주간 영 프라이데이 (2019년 10월 4일 \~ , [MBS 라디오](../Page/마이니치_방송.md "wikilink") 사회: 우에무라 아카리)
-  - 카나자와 토모코의 Vivid Midnight (2019년 10월 5일 \~ , [NACK5](https://ko.wikipedia.org/wiki/FM_넥파이브 "wikilink") 사회: 카나자와 토모코)
+  - 카나자와 토모코의 Vivid Midnight (2019년 10월 5일 \~ , [NACK5](../Page/FM_넥파이브.md "wikilink") 사회: 카나자와 토모코)
 
 ### 라이브 · 콘서트
 
@@ -332,8 +332,9 @@
       - 국내 23곳의 극장에서 라이브 뷰잉을 실시
   - Juice=Juice LIVE TOUR 2020 \~NEW SENSATION\~ (2020년 2월 3일 \~ 9일, 2개 도시 5회 공연)\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]\[22\]
   - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ (공연 중지, 일자 미정)\[23\]\[24\]\[25\]
-  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ FINAL (2020년 공연 중지, 일자 미정, 도쿄 커튼 시어터)\[26\]
+  - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ FINAL (공연 중지, 일자 미정, 도쿄 커튼 시어터)\[26\]
   - Juice=Juice CONCERT TOUR 2020 \~팝 · 쥬스 · 쟈니\~ FINAL 미야모토 카린 졸업 스페셜 (공연 중지, 일자 미정, 도쿄 커튼 시어터)\[27\]\[28\]
+  - Juice=Juice 스페셜 이벤트 2020 \~10월 10일은 Juice=Juice의 날\!\~ (2020년 10월 10일, CLUB CITTA')
 
 ### 합동 라이브 · 콘서트
 
@@ -436,7 +437,7 @@
 
       -
 
-  - [Juice=Juice](https://web.archive.org/web/20200430225515/https://www.tiktok.com/@juicejuice_uf) - [TikTok](../Page/TikTok.md "wikilink")
+  - [Juice=Juice](https://www.tiktok.com/@juicejuice_uf) - [TikTok](../Page/TikTok.md "wikilink")
 
 [Juice=Juice](https://ko.wikipedia.org/wiki/분류:Juice=Juice "wikilink") [분류:헬로\! 프로젝트](https://ko.wikipedia.org/wiki/분류:헬로!_프로젝트 "wikilink") [분류:2013년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2013년_결성된_음악_그룹 "wikilink") [분류:일본의 팝 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_팝_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink") [분류:일본의 아이돌 그룹](https://ko.wikipedia.org/wiki/분류:일본의_아이돌_그룹 "wikilink") [분류:9인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:9인조_음악_그룹 "wikilink")
 
