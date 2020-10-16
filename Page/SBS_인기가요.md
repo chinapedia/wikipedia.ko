@@ -517,7 +517,7 @@
 ### 2019년
 
   - [3월 3일](../Page/3월_3일.md "wikilink") : 오프닝 1위 후보 소개 중 [민규](../Page/민규.md "wikilink")가 "**3월 첫째주** 1위후보"를 "**3월 셋째주** 1위후보"라고 잘못 말하는 방송 사고가 발생했다.
-  - [9월 22일](../Page/9월_22일.md "wikilink") : 제 17호 태풍 타파 관련 뉴스특보 때문에 인기가요를 시청자 공지없이 및 편성표에는 3시 50분이라 적어놓고 3시 35분에 방송하여 놓친 시청자들에게 인기가요 무료 다시보기 조치를 취하였다.
+  - [9월 22일](../Page/9월_22일.md "wikilink") : 제 17호 태풍 타파 관련 뉴스특보 때문에 인기가요를 시청자 공지없이 및 편성표에는 3시 50분이라 적어놓고 3시 25분에 방송하여 놓친 시청자들에게 인기가요 무료 다시보기 조치를 취하였다.
   - [11월 4일](../Page/11월_4일.md "wikilink") : 오프닝 1위 후보 소개 중 [나은](https://ko.wikipedia.org/wiki/나은 "wikilink")이 "**11월 첫째주** 1위후보"를 "**10월 첫째주** 1위후보"로, 인기가요 CHART 소개 중 "**11월 첫째주** 인기가요 CHART"를 "**11월 셋째주** 인기가요 CHART"로 잘못 말하는 방송 사고가 발생했다.
 
 ### 2020년
@@ -528,254 +528,254 @@
 
 ### 1998년
 
-  - [5월 31일](../Page/5월_31일.md "wikilink"): 《1998 [드림콘서트](../Page/드림콘서트.md "wikilink")》가 편성되었다(일부 지역 자체 방송).
-  - [6월 7일](../Page/6월_7일.md "wikilink"): [프랑스 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 특집.
-  - [8월 2일](../Page/8월_2일.md "wikilink"): [여름방학](https://ko.wikipedia.org/wiki/여름방학 "wikilink") 특집.
-  - [10월 4일](../Page/10월_4일.md "wikilink"): [추석](../Page/추석.md "wikilink")특집.
-  - [10월 25일](../Page/10월_25일.md "wikilink"): 《1998 신세대 가요제》가 편성되었다.
-  - [11월 1일](../Page/11월_1일.md "wikilink"): 《1998 사랑의 콘서트》가 편성되었다.
-  - [12월 13일](../Page/12월_13일.md "wikilink"): 《WINTER FANTASY》.
-  - [12월 20일](../Page/12월_20일.md "wikilink"): 《WINTER 특급》.
-  - [12월 27일](../Page/12월_27일.md "wikilink"): 《 [SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》 생방송으로 대체되었다.
+  - [5월 31일](../Page/5월_31일.md "wikilink") : 《1998 [드림콘서트](../Page/드림콘서트.md "wikilink")》가 편성되었다(일부 지역 자체 방송).
+  - [6월 7일](../Page/6월_7일.md "wikilink") : [프랑스 월드컵](https://ko.wikipedia.org/wiki/FIFA_월드컵 "wikilink") 특집.
+  - [8월 2일](../Page/8월_2일.md "wikilink") : [여름방학](https://ko.wikipedia.org/wiki/여름방학 "wikilink") 특집.
+  - [10월 4일](../Page/10월_4일.md "wikilink") : [추석](../Page/추석.md "wikilink")특집.
+  - [10월 25일](../Page/10월_25일.md "wikilink") : 《1998 신세대 가요제》가 편성되었다.
+  - [11월 1일](../Page/11월_1일.md "wikilink") : 《1998 사랑의 콘서트》가 편성되었다.
+  - [12월 13일](../Page/12월_13일.md "wikilink") : 《WINTER FANTASY》.
+  - [12월 20일](../Page/12월_20일.md "wikilink") : 《WINTER 특급》.
+  - [12월 27일](../Page/12월_27일.md "wikilink") : 《 [SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》 생방송으로 대체되었다.
 
 ### 1999년
 
-  - [1월 3일](../Page/1월_3일.md "wikilink"): [SBS 러브FM](../Page/SBS_러브FM.md "wikilink") 개국 특집.
-  - [2월 14일](../Page/2월_14일.md "wikilink"): [설날](../Page/설날.md "wikilink")특집.
-  - [2월 21일](../Page/2월_21일.md "wikilink"): 《[김대중](../Page/김대중.md "wikilink") 대통령 국민과의 대화》 중계 방송으로 대체되었다.
-  - [5월 16일](../Page/5월_16일.md "wikilink"): 민영TV의 날 특집.
-  - [5월 23일](../Page/5월_23일.md "wikilink"): 《1999 [드림콘서트](../Page/드림콘서트.md "wikilink")》가 대체 편성되었다(일부 지역 자체 방송).
-  - [6월 6일](../Page/6월_6일.md "wikilink"): 《기아체험 24시간》이 대체 편성되었다.
-  - [6월 13일](../Page/6월_13일.md "wikilink"): 《SUMMER COUNTDOWN》.
-  - [6월 27일](../Page/6월_27일.md "wikilink"): 상반기 결산 특집.
-  - [7월 18일](../Page/7월_18일.md "wikilink") \~ [7월 25일](../Page/7월_25일.md "wikilink"), [8월 15일](../Page/8월_15일.md "wikilink"): [여름방학](https://ko.wikipedia.org/wiki/여름방학 "wikilink") 특집.
-  - [10월 17일](../Page/10월_17일.md "wikilink"): 《디지털 콘서트 99》가 대체 편성되었다.
-  - [11월 14일](../Page/11월_14일.md "wikilink"): 창사특집 [장충체육관](../Page/장충체육관.md "wikilink") 특집 생방송.
-  - [11월 28일](../Page/11월_28일.md "wikilink"): 겨울특집 《Oh, Happy Winter》
-  - [12월 12일](../Page/12월_12일.md "wikilink"): 겨울특집 《WINTER FANTASY》
+  - [1월 3일](../Page/1월_3일.md "wikilink") : [SBS 러브FM](../Page/SBS_러브FM.md "wikilink") 개국 특집.
+  - [2월 14일](../Page/2월_14일.md "wikilink") : [설날](../Page/설날.md "wikilink")특집.
+  - [2월 21일](../Page/2월_21일.md "wikilink") : 《[김대중](../Page/김대중.md "wikilink") 대통령 국민과의 대화》 중계 방송으로 대체되었다.
+  - [5월 16일](../Page/5월_16일.md "wikilink") : 민영TV의 날 특집.
+  - [5월 23일](../Page/5월_23일.md "wikilink") : 《1999 [드림콘서트](../Page/드림콘서트.md "wikilink")》가 대체 편성되었다(일부 지역 자체 방송).
+  - [6월 6일](../Page/6월_6일.md "wikilink") : 《기아체험 24시간》이 대체 편성되었다.
+  - [6월 13일](../Page/6월_13일.md "wikilink") : 《SUMMER COUNTDOWN》.
+  - [6월 27일](../Page/6월_27일.md "wikilink") : 상반기 결산 특집.
+  - [7월 18일](../Page/7월_18일.md "wikilink") \~ [7월 25일](../Page/7월_25일.md "wikilink"), [8월 15일](../Page/8월_15일.md "wikilink") : [여름방학](https://ko.wikipedia.org/wiki/여름방학 "wikilink") 특집.
+  - [10월 17일](../Page/10월_17일.md "wikilink") : 《디지털 콘서트 99》가 대체 편성되었다.
+  - [11월 14일](../Page/11월_14일.md "wikilink") : 창사특집 [장충체육관](../Page/장충체육관.md "wikilink") 특집 생방송.
+  - [11월 28일](../Page/11월_28일.md "wikilink") : 겨울특집 《Oh, Happy Winter》
+  - [12월 12일](../Page/12월_12일.md "wikilink") : 겨울특집 《WINTER FANTASY》
 
 ### 2000년
 
-  - [1월 16일](../Page/1월_16일.md "wikilink"): [겨울방학](https://ko.wikipedia.org/wiki/겨울방학 "wikilink") 특집.
-  - [2월 6일](../Page/2월_6일.md "wikilink"): 《New\! 밀레니엄 콘서트》 특집으로 대체되었다.
-  - [2월 27일](../Page/2월_27일.md "wikilink"): **100회 특집**.
-  - [5월 14일](../Page/5월_14일.md "wikilink"): 민영TV의 날 특집.
-  - [5월 28일](../Page/5월_28일.md "wikilink"): 《2000 [드림콘서트](../Page/드림콘서트.md "wikilink")》가 대체 편성되었다(일부 지역 자체 방송).
-  - [7월 2일](../Page/7월_2일.md "wikilink"): 상반기 결산 특집.
-  - [7월 23일](../Page/7월_23일.md "wikilink") \~ [8월 20일](../Page/8월_20일.md "wikilink"): [여름방학](https://ko.wikipedia.org/wiki/여름방학 "wikilink") 특집.
-  - [9월 17일](../Page/9월_17일.md "wikilink"), [10월 1일](../Page/10월_1일.md "wikilink"): [2000년 시드니 하계 올림픽](https://ko.wikipedia.org/wiki/2000년_하계_올림픽 "wikilink") 중계 방송으로 한 주씩 연기되었다.
-  - [11월 12일](../Page/11월_12일.md "wikilink"): [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 창사 10주년 특집.
-  - [12월 24일](../Page/12월_24일.md "wikilink"): [크리스마스](../Page/크리스마스.md "wikilink") 특집.
-  - [12월 31일](../Page/12월_31일.md "wikilink"): 《송년특집 지상 최고의 선물》이 대체 편성되었다.
+  - [1월 16일](../Page/1월_16일.md "wikilink") : [겨울방학](https://ko.wikipedia.org/wiki/겨울방학 "wikilink") 특집.
+  - [2월 6일](../Page/2월_6일.md "wikilink") : 《New\! 밀레니엄 콘서트》 특집으로 대체되었다.
+  - [2월 27일](../Page/2월_27일.md "wikilink") : **100회 특집**.
+  - [5월 14일](../Page/5월_14일.md "wikilink") : 민영TV의 날 특집.
+  - [5월 28일](../Page/5월_28일.md "wikilink") : 《2000 [드림콘서트](../Page/드림콘서트.md "wikilink")》가 대체 편성되었다(일부 지역 자체 방송).
+  - [7월 2일](../Page/7월_2일.md "wikilink") : 상반기 결산 특집.
+  - [7월 23일](../Page/7월_23일.md "wikilink") \~ [8월 20일](../Page/8월_20일.md "wikilink") : [여름방학](https://ko.wikipedia.org/wiki/여름방학 "wikilink") 특집.
+  - [9월 17일](../Page/9월_17일.md "wikilink"), [10월 1일](../Page/10월_1일.md "wikilink") : [2000년 시드니 하계 올림픽](https://ko.wikipedia.org/wiki/2000년_하계_올림픽 "wikilink") 중계 방송으로 한 주씩 연기되었다.
+  - [11월 12일](../Page/11월_12일.md "wikilink") : [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 창사 10주년 특집.
+  - [12월 24일](../Page/12월_24일.md "wikilink") : [크리스마스](../Page/크리스마스.md "wikilink") 특집.
+  - [12월 31일](../Page/12월_31일.md "wikilink") : 《송년특집 지상 최고의 선물》이 대체 편성되었다.
 
 ### 2001년
 
-  - [1월 14일](../Page/1월_14일.md "wikilink"): [겨울방학](https://ko.wikipedia.org/wiki/겨울방학 "wikilink") 특집.
-  - [5월 20일](../Page/5월_20일.md "wikilink"): 《2001 [드림콘서트](../Page/드림콘서트.md "wikilink")》가 대체 편성되었다(일부 지역 자체 방송).
+  - [1월 14일](../Page/1월_14일.md "wikilink") : [겨울방학](https://ko.wikipedia.org/wiki/겨울방학 "wikilink") 특집.
+  - [5월 20일](../Page/5월_20일.md "wikilink") : 《2001 [드림콘서트](../Page/드림콘서트.md "wikilink")》가 대체 편성되었다 (일부 지역 자체 방송).
   - [7월 1일](../Page/7월_1일.md "wikilink"): 상반기 결산 특집.
-  - [7월 22일](../Page/7월_22일.md "wikilink") \~ [8월 19일](../Page/8월_19일.md "wikilink"): [여름방학](https://ko.wikipedia.org/wiki/여름방학 "wikilink") 특집.\[3\]
-  - [10월 14일](../Page/10월_14일.md "wikilink"): 2001 환경 콘서트 대체 편성.
-  - [12월 16일](../Page/12월_16일.md "wikilink"): GTB(현 [G1](../Page/G1.md "wikilink")) 강원민방 개국 특집.
-  - [12월 30일](../Page/12월_30일.md "wikilink"): 《 [2001SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》이 대체 편성되었다.
+  - [7월 22일](../Page/7월_22일.md "wikilink") \~ [8월 19일](../Page/8월_19일.md "wikilink") : [여름방학](https://ko.wikipedia.org/wiki/여름방학 "wikilink") 특집. \[3\]
+  - [10월 14일](../Page/10월_14일.md "wikilink") : 2001 환경 콘서트 대체 편성.
+  - [12월 16일](../Page/12월_16일.md "wikilink") : GTB(현 [G1](../Page/G1.md "wikilink")) 강원민방 개국 특집.
+  - [12월 30일](../Page/12월_30일.md "wikilink") : 《 [2001SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》이 대체 편성되었다.
 
 ### 2002년
 
-  - [1월 6일](../Page/1월_6일.md "wikilink"): [겨울방학](https://ko.wikipedia.org/wiki/겨울방학 "wikilink") 특집.
-  - [3월 17일](../Page/3월_17일.md "wikilink"): **200회 특집**.
-  - [5월 19일](../Page/5월_19일.md "wikilink"): 원주치악체육관 특집 생방송.
-  - [6월 9일](../Page/6월_9일.md "wikilink"): JIBS 제주방송 개국 기념으로 제주 한라체육관 특집 생방송.
-  - [6월 23일](../Page/6월_23일.md "wikilink"): 부산 BEXCO 특집 생방송.
-  - [6월 30일](../Page/6월_30일.md "wikilink"): 2002년 [한일월드컵](https://ko.wikipedia.org/wiki/한일월드컵 "wikilink") 특집 '다이나믹 코리아' 방송.
-  - [7월 7일](../Page/7월_7일.md "wikilink"): 구미 박정희체육관 특집 생방송.
-  - [7월 28일](../Page/7월_28일.md "wikilink"): 광주염주종합체육관 특집 생방송.
-  - [8월 25일](../Page/8월_25일.md "wikilink"): KBS 울산홀 특집 생방송.
-  - [9월 1일](../Page/9월_1일.md "wikilink"): 대전 충무체육관 특집 생방송.
-  - [9월 15일](../Page/9월_15일.md "wikilink"): 군산 월명실내체육관 특집 생방송.
-  - [9월 22일](../Page/9월_22일.md "wikilink"): [추석](../Page/추석.md "wikilink")특집 편성으로 대체되었다.
-  - [10월 27일](../Page/10월_27일.md "wikilink"): 2002 [프로야구](https://ko.wikipedia.org/wiki/프로야구 "wikilink") 중계방송 관계로 결방.
-  - [12월 29일](../Page/12월_29일.md "wikilink"): 《[2002 SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》 생방송 관계로 1주 연기되었다.
+  - [1월 6일](../Page/1월_6일.md "wikilink") : [겨울방학](https://ko.wikipedia.org/wiki/겨울방학 "wikilink") 특집.
+  - [3월 17일](../Page/3월_17일.md "wikilink") : **200회 특집**.
+  - [5월 19일](../Page/5월_19일.md "wikilink") : 원주치악체육관 특집 생방송.
+  - [6월 9일](../Page/6월_9일.md "wikilink") : JIBS 제주방송 개국 기념으로 제주 한라체육관 특집 생방송.
+  - [6월 23일](../Page/6월_23일.md "wikilink") : 부산 BEXCO 특집 생방송.
+  - [6월 30일](../Page/6월_30일.md "wikilink") : 2002년 [한일월드컵](https://ko.wikipedia.org/wiki/한일월드컵 "wikilink") 특집 '다이나믹 코리아' 방송.
+  - [7월 7일](../Page/7월_7일.md "wikilink") : 구미 박정희체육관 특집 생방송.
+  - [7월 28일](../Page/7월_28일.md "wikilink") : 광주염주종합체육관 특집 생방송.
+  - [8월 25일](../Page/8월_25일.md "wikilink") : KBS 울산홀 특집 생방송.
+  - [9월 1일](../Page/9월_1일.md "wikilink") : 대전 충무체육관 특집 생방송.
+  - [9월 15일](../Page/9월_15일.md "wikilink") : 군산 월명실내체육관 특집 생방송.
+  - [9월 22일](../Page/9월_22일.md "wikilink") : [추석](../Page/추석.md "wikilink")특집 편성으로 대체되었다.
+  - [10월 27일](../Page/10월_27일.md "wikilink") : 2002 [프로야구](https://ko.wikipedia.org/wiki/프로야구 "wikilink") 중계방송 관계로 결방.
+  - [12월 29일](../Page/12월_29일.md "wikilink") : 《[2002 SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》 생방송 관계로 1주 연기되었다.
 
 ### 2003년
 
-  - [2월 2일](../Page/2월_2일.md "wikilink"): [설특집](../Page/설날.md "wikilink") 편성으로 대체되었다.
-  - [2월 23일](../Page/2월_23일.md "wikilink"): [대구 도시철도 1호선 중앙로역에서 일어난 화재 사건의](https://ko.wikipedia.org/wiki/대구지하철_화재_참사 "wikilink") 여파로 방송을 긴급 연기하였다.
-  - [4월 20일](../Page/4월_20일.md "wikilink"): [장애인의 날](https://ko.wikipedia.org/wiki/장애인의_날 "wikilink") 특집.
-  - [5월 18일](../Page/5월_18일.md "wikilink"): 《2003 [F 콘서트](../Page/드림콘서트.md "wikilink")》로 대체되었다(일부 지역 자체 방송).
-  - [6월 8일](../Page/6월_8일.md "wikilink"): JIBS 개국 1주년 특집 제주 한라체육관 특집 생방송.
-  - [6월 22일](../Page/6월_22일.md "wikilink"): 창원 실내 체육관 특집 생방송.
-  - [5월 25일](../Page/5월_25일.md "wikilink"): 하이 서울 페스티벌로 대체 편성되었다.
-  - [7월 13일](../Page/7월_13일.md "wikilink"): [피스컵](../Page/피스컵.md "wikilink") 대축제 특집.
-  - [8월 3일](../Page/8월_3일.md "wikilink"): [대구 하계 유니버시아드](https://ko.wikipedia.org/wiki/2003년_대구_유니버시아드 "wikilink") 대회 특집.
-  - [8월 24일](../Page/8월_24일.md "wikilink"): 청주 실내 체육관 특집 생방송.
-  - [8월 31일](../Page/8월_31일.md "wikilink"): KBS 울산홀 특집 생방송.
-  - [9월 21일](../Page/9월_21일.md "wikilink"): JTV 창사 6주년 기념 전주 실내 체육관 특집 생방송.
-  - [11월 9일](../Page/11월_9일.md "wikilink"): 광주염주종합체육관 특집 생방송.
-  - [11월 16일](../Page/11월_16일.md "wikilink"): 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》가 대체 편성되었다.
-  - [12월 14일](../Page/12월_14일.md "wikilink"): 춘천 호반체육관 특집 생방송.
+  - [2월 2일](../Page/2월_2일.md "wikilink") : [설특집](../Page/설날.md "wikilink") 편성으로 대체되었다.
+  - [2월 23일](../Page/2월_23일.md "wikilink") : [대구 도시철도 1호선 중앙로역에서 일어난 화재 사건의](https://ko.wikipedia.org/wiki/대구지하철_화재_참사 "wikilink") 여파로 방송을 긴급 연기하였다.
+  - [4월 20일](../Page/4월_20일.md "wikilink") : [장애인의 날](https://ko.wikipedia.org/wiki/장애인의_날 "wikilink") 특집.
+  - [5월 18일](../Page/5월_18일.md "wikilink") : 《2003 [F 콘서트](../Page/드림콘서트.md "wikilink")》로 대체되었다(일부 지역 자체 방송).
+  - [6월 8일](../Page/6월_8일.md "wikilink") : JIBS 개국 1주년 특집 제주 한라체육관 특집 생방송.
+  - [6월 22일](../Page/6월_22일.md "wikilink") : 창원 실내 체육관 특집 생방송.
+  - [5월 25일](../Page/5월_25일.md "wikilink") : 하이 서울 페스티벌로 대체 편성되었다.
+  - [7월 13일](../Page/7월_13일.md "wikilink") : [피스컵](../Page/피스컵.md "wikilink") 대축제 특집.
+  - [8월 3일](../Page/8월_3일.md "wikilink") : [대구 하계 유니버시아드](https://ko.wikipedia.org/wiki/2003년_대구_유니버시아드 "wikilink") 대회 특집.
+  - [8월 24일](../Page/8월_24일.md "wikilink") : 청주 실내 체육관 특집 생방송.
+  - [8월 31일](../Page/8월_31일.md "wikilink") : KBS 울산홀 특집 생방송.
+  - [9월 21일](../Page/9월_21일.md "wikilink") : JTV 창사 6주년 기념 전주 실내 체육관 특집 생방송.
+  - [11월 9일](../Page/11월_9일.md "wikilink") : 광주염주종합체육관 특집 생방송.
+  - [11월 16일](../Page/11월_16일.md "wikilink") : 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》가 대체 편성되었다.
+  - [12월 14일](../Page/12월_14일.md "wikilink") : 춘천 호반체육관 특집 생방송.
 
 ### 2004년
 
-  - [3월 7일](../Page/3월_7일.md "wikilink"): [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 신사옥 오픈 특집.
-  - [4월 18일](../Page/4월_18일.md "wikilink"): **300회 특집** 및 민영TV의 날 특집.
-  - [5월 9일](../Page/5월_9일.md "wikilink"): 서울광장 특집.
-  - [6월 6일](../Page/6월_6일.md "wikilink"): 《기아체험 24시간》가 대체 편성되었다..
-  - [6월 13일](../Page/6월_13일.md "wikilink"): 《2004 [F 콘서트](../Page/드림콘서트.md "wikilink")》가 대체되었다(일부 지역 자체 방송).
-  - [10월 24일](../Page/10월_24일.md "wikilink"): 특집 방송으로 인해 1주 연기되었다.
-  - [11월 14일](../Page/11월_14일.md "wikilink"): 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》가 대체 편성되었다.
+  - [3월 7일](../Page/3월_7일.md "wikilink") : [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink") 신사옥 오픈 특집.
+  - [4월 18일](../Page/4월_18일.md "wikilink") : **300회 특집** 및 민영TV의 날 특집.
+  - [5월 9일](../Page/5월_9일.md "wikilink") : 서울광장 특집.
+  - [6월 6일](../Page/6월_6일.md "wikilink") : 《기아체험 24시간》가 대체 편성되었다..
+  - [6월 13일](../Page/6월_13일.md "wikilink") : 《2004 [F 콘서트](../Page/드림콘서트.md "wikilink")》가 대체되었다(일부 지역 자체 방송).
+  - [10월 24일](../Page/10월_24일.md "wikilink") : 특집 방송으로 인해 1주 연기되었다.
+  - [11월 14일](../Page/11월_14일.md "wikilink") : 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》가 대체 편성되었다.
 
 ### 2005년
 
-  - [5월 8일](../Page/5월_8일.md "wikilink"): [어버이날](../Page/어버이날.md "wikilink") 특집 방송으로 인한 결방
-  - [7월 10일](../Page/7월_10일.md "wikilink"): 《2005 [i콘서트](../Page/드림콘서트.md "wikilink")》 방송(일부 지역 자체 방송).
-  - [9월 18일](../Page/9월_18일.md "wikilink"): [추석](../Page/추석.md "wikilink")특집 편성으로 인한 결방.
-  - [10월 30일](../Page/10월_30일.md "wikilink"): 편성 변경으로 인한 결방.
-  - [11월 13일](../Page/11월_13일.md "wikilink"): 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》 방송.
-  - [12월 4일](../Page/12월_4일.md "wikilink"): [SBS](../Page/SBS_TV.md "wikilink") DMB 개국특집.
-  - [12월 25일](../Page/12월_25일.md "wikilink"): [크리스마스](../Page/크리스마스.md "wikilink") 특집 《뮤직 인 크리스마스》.
+  - [5월 8일](../Page/5월_8일.md "wikilink") : [어버이날](../Page/어버이날.md "wikilink") 특집 방송으로 인한 결방
+  - [7월 10일](../Page/7월_10일.md "wikilink") : 《2005 [i콘서트](../Page/드림콘서트.md "wikilink")》 방송(일부 지역 자체 방송).
+  - [9월 18일](../Page/9월_18일.md "wikilink") : [추석](../Page/추석.md "wikilink")특집 편성으로 인한 결방.
+  - [10월 30일](../Page/10월_30일.md "wikilink") : 편성 변경으로 인한 결방.
+  - [11월 13일](../Page/11월_13일.md "wikilink") : 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》 방송.
+  - [12월 4일](../Page/12월_4일.md "wikilink") : [SBS](../Page/SBS_TV.md "wikilink") DMB 개국특집.
+  - [12월 25일](../Page/12월_25일.md "wikilink") : [크리스마스](../Page/크리스마스.md "wikilink") 특집 《뮤직 인 크리스마스》.
 
 ### 2006년
 
-  - [1월 1일](../Page/1월_1일.md "wikilink"): [2005SBS 연기대상](https://ko.wikipedia.org/wiki/연기대상 "wikilink") 재방송으로 인한 결방.
-  - [1월 29일](../Page/1월_29일.md "wikilink"): [설특집](../Page/설날.md "wikilink") 편성으로 인한 결방.
-  - [3월 26일](../Page/3월_26일.md "wikilink"): K리그 축구 《[포항 스틸러스](../Page/포항_스틸러스.md "wikilink"): [전남 드래곤즈](../Page/전남_드래곤즈.md "wikilink")》 중계로 인한 결방.
-  - [5월 28일](../Page/5월_28일.md "wikilink"): 《2006 [I 콘서트](../Page/드림콘서트.md "wikilink")》 편성(일부 지역 자체 방송).
-  - [7월 2일](../Page/7월_2일.md "wikilink"): **400회 특집**.
-  - [10월 8일](../Page/10월_8일.md "wikilink"): [추석](../Page/추석.md "wikilink")특집 편성으로 인한 결방.
-  - [10월 22일](../Page/10월_22일.md "wikilink"): [골프](../Page/골프.md "wikilink") 중계로 인한 결방.
-  - [10월 29일](../Page/10월_29일.md "wikilink"): [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 출범기념음악회.
-  - [11월 12일](../Page/11월_12일.md "wikilink"): 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》 방송
-  - [12월 29일](../Page/12월_29일.md "wikilink"): 《[2006SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 방송
+  - [1월 1일](../Page/1월_1일.md "wikilink") : [2005SBS 연기대상](https://ko.wikipedia.org/wiki/연기대상 "wikilink") 재방송으로 인한 결방.
+  - [1월 29일](../Page/1월_29일.md "wikilink") : [설특집](../Page/설날.md "wikilink") 편성으로 인한 결방.
+  - [3월 26일](../Page/3월_26일.md "wikilink") : K리그 축구 《[포항 스틸러스](../Page/포항_스틸러스.md "wikilink"): [전남 드래곤즈](../Page/전남_드래곤즈.md "wikilink")》 중계로 인한 결방.
+  - [5월 28일](../Page/5월_28일.md "wikilink") : 《2006 [I 콘서트](../Page/드림콘서트.md "wikilink")》 편성(일부 지역 자체 방송).
+  - [7월 2일](../Page/7월_2일.md "wikilink") : **400회 특집**.
+  - [10월 8일](../Page/10월_8일.md "wikilink") : [추석](../Page/추석.md "wikilink")특집 편성으로 인한 결방.
+  - [10월 22일](../Page/10월_22일.md "wikilink") : [골프](../Page/골프.md "wikilink") 중계로 인한 결방.
+  - [10월 29일](../Page/10월_29일.md "wikilink") : [제주특별자치도](https://ko.wikipedia.org/wiki/제주특별자치도 "wikilink") 출범기념음악회.
+  - [11월 12일](../Page/11월_12일.md "wikilink") : 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》 방송
+  - [12월 29일](../Page/12월_29일.md "wikilink") : 《[2006SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 방송
 
 ### 2007년
 
-  - [2월 18일](../Page/2월_18일.md "wikilink"): [설특집](../Page/설날.md "wikilink") 방송으로 인한 결방.
-  - [3월 25일](../Page/3월_25일.md "wikilink"): 수원컵 국제 청소년 축구대회 《[대한민국](../Page/대한민국.md "wikilink"): [폴란드](../Page/폴란드.md "wikilink")》 중계로 인한 결방.
-  - [4월 15일](../Page/4월_15일.md "wikilink"): 드라마 재방송으로 인한 결방.
-  - [6월 10일](../Page/6월_10일.md "wikilink"): 《2007 [드림콘서트](../Page/드림콘서트.md "wikilink")》 방송(일부 지역 자체 방송).
-  - [9월 23일](../Page/9월_23일.md "wikilink"): [추석](../Page/추석.md "wikilink")특집 편성으로 인한 결방.
-  - [10월 14일](../Page/10월_14일.md "wikilink"): SBS 드라마 [로비스트](https://ko.wikipedia.org/wiki/로비스트 "wikilink") 1\~4회 연속 재방송.
-  - [10월 28일](../Page/10월_28일.md "wikilink"): SBS 코리안투어 골프중계로 인해 예정보다 1시간 늦게 방송됨.
-  - [11월 4일](../Page/11월_4일.md "wikilink"): 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》 방송.
-  - [11월 11일](../Page/11월_11일.md "wikilink"): 예정보다 1시간 늦게 방송.
-  - [12월 23일](../Page/12월_23일.md "wikilink"): [크리스마스](../Page/크리스마스.md "wikilink") 특집.
-  - [12월 30일](../Page/12월_30일.md "wikilink"): 《 [2007SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》방송 준비로 인한 결방
+  - [2월 18일](../Page/2월_18일.md "wikilink") : [설특집](../Page/설날.md "wikilink") 방송으로 인한 결방.
+  - [3월 25일](../Page/3월_25일.md "wikilink") : 수원컵 국제 청소년 축구대회 《[대한민국](../Page/대한민국.md "wikilink"): [폴란드](../Page/폴란드.md "wikilink")》 중계로 인한 결방.
+  - [4월 15일](../Page/4월_15일.md "wikilink") : 드라마 재방송으로 인한 결방.
+  - [6월 10일](../Page/6월_10일.md "wikilink") : 《2007 [드림콘서트](../Page/드림콘서트.md "wikilink")》 방송(일부 지역 자체 방송).
+  - [9월 23일](../Page/9월_23일.md "wikilink") : [추석](../Page/추석.md "wikilink")특집 편성으로 인한 결방.
+  - [10월 14일](../Page/10월_14일.md "wikilink") : SBS 드라마 [로비스트](https://ko.wikipedia.org/wiki/로비스트 "wikilink") 1\~4회 연속 재방송.
+  - [10월 28일](../Page/10월_28일.md "wikilink") : SBS 코리안투어 골프중계로 인해 예정보다 1시간 늦게 방송됨.
+  - [11월 4일](../Page/11월_4일.md "wikilink") : 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》 방송.
+  - [11월 11일](../Page/11월_11일.md "wikilink") : 예정보다 1시간 늦게 방송.
+  - [12월 23일](../Page/12월_23일.md "wikilink") : [크리스마스](../Page/크리스마스.md "wikilink") 특집.
+  - [12월 30일](../Page/12월_30일.md "wikilink") : 《 [2007SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》방송 준비로 인한 결방
 
 ### 2008년
 
-  - [2월 10일](../Page/2월_10일.md "wikilink"): [설특집](../Page/설날.md "wikilink") 프로그램 대체방송.
-  - [4월 6일](../Page/4월_6일.md "wikilink"): 스페이스 코리아 특집.
-  - [6월 8일](../Page/6월_8일.md "wikilink"): 《2008 [드림콘서트](../Page/드림콘서트.md "wikilink")》 방송으로 인한 결방(일부 지역 자체 방송).
-  - [6월 15일](../Page/6월_15일.md "wikilink"): SBS 코리안투어 필로스오픈 중계 관계로 1시간 늦게 방송되었다.
-  - [6월 29일](../Page/6월_29일.md "wikilink"): 상반기 결산 특집.
-  - [8월 10일](../Page/8월_10일.md "wikilink"): [2008년 베이징 하계 올림픽](https://ko.wikipedia.org/wiki/2008년_하계_올림픽 "wikilink") 특집 및 오후 3시 30분에 방송.
-  - [9월 7일](../Page/9월_7일.md "wikilink"): **500회 특집**.
-  - [9월 14일](../Page/9월_14일.md "wikilink"):[추석](../Page/추석.md "wikilink") 특집 프로그램으로 대체되었다.
-  - [11월 9일](../Page/11월_9일.md "wikilink"): 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》의 방송으로 대체되었다.
-  - [11월 16일](../Page/11월_16일.md "wikilink"): 수능 특집.
-  - [12월 28일](../Page/12월_28일.md "wikilink"): 《[2008 SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 준비로 결방되었으며, 그 시간대에는 [순간포착 세상에 이런 일이](https://ko.wikipedia.org/wiki/순간포착_세상에_이런_일이 "wikilink") 재방송으로 대체되었다.
+  - [2월 10일](../Page/2월_10일.md "wikilink") : [설특집](../Page/설날.md "wikilink") 프로그램 대체방송.
+  - [4월 6일](../Page/4월_6일.md "wikilink") : 스페이스 코리아 특집.
+  - [6월 8일](../Page/6월_8일.md "wikilink") : 《2008 [드림콘서트](../Page/드림콘서트.md "wikilink")》 방송으로 인한 결방(일부 지역 자체 방송).
+  - [6월 15일](../Page/6월_15일.md "wikilink") : SBS 코리안투어 필로스오픈 중계 관계로 1시간 늦게 방송되었다.
+  - [6월 29일](../Page/6월_29일.md "wikilink") : 상반기 결산 특집.
+  - [8월 10일](../Page/8월_10일.md "wikilink") : [2008년 베이징 하계 올림픽](https://ko.wikipedia.org/wiki/2008년_하계_올림픽 "wikilink") 특집 및 오후 3시 30분에 방송.
+  - [9월 7일](../Page/9월_7일.md "wikilink") : **500회 특집**.
+  - [9월 14일](../Page/9월_14일.md "wikilink") : [추석](../Page/추석.md "wikilink") 특집 프로그램으로 대체되었다.
+  - [11월 9일](../Page/11월_9일.md "wikilink") : 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》의 방송으로 대체되었다.
+  - [11월 16일](../Page/11월_16일.md "wikilink") : 수능 특집.
+  - [12월 28일](../Page/12월_28일.md "wikilink") : 《[2008 SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 준비로 결방되었으며, 그 시간대에는 [순간포착 세상에 이런 일이](https://ko.wikipedia.org/wiki/순간포착_세상에_이런_일이 "wikilink") 재방송으로 대체되었다.
 
 ### 2009년
 
-  - [1월 25일](../Page/1월_25일.md "wikilink"): [설특집](../Page/설날.md "wikilink") 편성으로 인한 결방.
-  - [2월 8일](../Page/2월_8일.md "wikilink"): 새봄 맞이 특집.
-  - [5월 24일](../Page/5월_24일.md "wikilink"): 고(故) [노무현](../Page/노무현.md "wikilink") 전(前) 대통령 서거로 국민장을 애도하며 결방되었다.
-  - [8월 2일](../Page/8월_2일.md "wikilink") \~ [8월 16일](../Page/8월_16일.md "wikilink"): 여름방학 특집.
-  - [8월 23일](../Page/8월_23일.md "wikilink"): 고(故) [김대중](../Page/김대중.md "wikilink") 전(前) 대통령 서거로 국장을 애도하며 결방되었다.
-  - [10월 4일](../Page/10월_4일.md "wikilink"): [추석](../Page/추석.md "wikilink")특집 편성으로 인한 결방.
-  - [10월 11일](../Page/10월_11일.md "wikilink"): 《2009 [드림콘서트](../Page/드림콘서트.md "wikilink")》 방송으로 대체.
-  - [11월 22일](../Page/11월_22일.md "wikilink"): 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》로 대체 편성.
-  - [12월 20일](../Page/12월_20일.md "wikilink"): [크리스마스](../Page/크리스마스.md "wikilink") 특집.
-  - [12월 27일](../Page/12월_27일.md "wikilink"): 《 [2009SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 방송 준비로 인한 결방
+  - [1월 25일](../Page/1월_25일.md "wikilink") : [설특집](../Page/설날.md "wikilink") 편성으로 인한 결방.
+  - [2월 8일](../Page/2월_8일.md "wikilink") : 새봄 맞이 특집.
+  - [5월 24일](../Page/5월_24일.md "wikilink") : 고(故) [노무현](../Page/노무현.md "wikilink") 전(前) 대통령 서거로 국민장을 애도하며 결방되었다.
+  - [8월 2일](../Page/8월_2일.md "wikilink") \~ [8월 16일](../Page/8월_16일.md "wikilink") : 여름방학 특집.
+  - [8월 23일](../Page/8월_23일.md "wikilink") : 고(故) [김대중](../Page/김대중.md "wikilink") 전(前) 대통령 서거로 국장을 애도하며 결방되었다.
+  - [10월 4일](../Page/10월_4일.md "wikilink") : [추석](../Page/추석.md "wikilink")특집 편성으로 인한 결방.
+  - [10월 11일](../Page/10월_11일.md "wikilink") : 《2009 [드림콘서트](../Page/드림콘서트.md "wikilink")》 방송으로 대체.
+  - [11월 22일](../Page/11월_22일.md "wikilink") : 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》로 대체 편성.
+  - [12월 20일](../Page/12월_20일.md "wikilink") : [크리스마스](../Page/크리스마스.md "wikilink") 특집.
+  - [12월 27일](../Page/12월_27일.md "wikilink") : 《 [2009SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 방송 준비로 인한 결방
 
 ### 2010년
 
-  - [1월 3일](../Page/1월_3일.md "wikilink"): **신년특집**
-  - [1월 31일](../Page/1월_31일.md "wikilink"): [밴쿠버 동계 올림픽](https://ko.wikipedia.org/wiki/밴쿠버_동계_올림픽 "wikilink") 선전기원 특집
-  - [2월 14일](../Page/2월_14일.md "wikilink"): [설날](../Page/설날.md "wikilink") 특집
-  - [3월 28일](../Page/3월_28일.md "wikilink") \~ [4월 4일](../Page/4월_4일.md "wikilink"), [4월 18일](../Page/4월_18일.md "wikilink") \~ [4월 25일](../Page/4월_25일.md "wikilink"): [천안함 침몰 사건의](https://ko.wikipedia.org/wiki/천안함_침몰_사건 "wikilink") 여파로 인하여 약 한 달간 방송이 중단되었다.
-  - [5월 23일](../Page/5월_23일.md "wikilink"): [2010남아공 월드컵](https://ko.wikipedia.org/wiki/남아공_월드컵 "wikilink") 선전기원 특집
-  - [5월 30일](../Page/5월_30일.md "wikilink"): 《2010 [드림콘서트](../Page/드림콘서트.md "wikilink")》의 방송으로 대체되었다.
-  - [6월 6일](../Page/6월_6일.md "wikilink"): 《[2010남아공월드컵](https://ko.wikipedia.org/wiki/남아공월드컵 "wikilink") 특집다큐 - 붉은악마 다시 심장이 뛴다》 대체 방송
-  - [6월 13일](../Page/6월_13일.md "wikilink") \~ [6월 20일](../Page/6월_20일.md "wikilink"): 2010 남아공 월드컵 특집
-  - [7월 18일](../Page/7월_18일.md "wikilink") \~ [8월 1일](../Page/8월_1일.md "wikilink"): 여름방학 특집
-  - [9월 19일](../Page/9월_19일.md "wikilink"): **《추석특집 한류 드림콘서트》** 방송
-  - [10월 10일](../Page/10월_10일.md "wikilink"): 《2010 마구마구 [프로야구](https://ko.wikipedia.org/wiki/프로야구 "wikilink") 플레이오프 3차전 [두산 베어스](../Page/두산_베어스.md "wikilink") VS [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")》 연장 중계로 인한 결방
-  - [10월 31일](../Page/10월_31일.md "wikilink"): 할로윈데이 특집
-  - [11월 14일](../Page/11월_14일.md "wikilink"): 창사 20주년 특집 《2010 [사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》 방송으로 대체되었다.
-  - [12월 12일](../Page/12월_12일.md "wikilink"): **600회 특집**
+  - [1월 3일](../Page/1월_3일.md "wikilink") : **신년특집**
+  - [1월 31일](../Page/1월_31일.md "wikilink") : [밴쿠버 동계 올림픽](https://ko.wikipedia.org/wiki/밴쿠버_동계_올림픽 "wikilink") 선전기원 특집
+  - [2월 14일](../Page/2월_14일.md "wikilink") : [설날](../Page/설날.md "wikilink") 특집
+  - [3월 28일](../Page/3월_28일.md "wikilink") \~ [4월 4일](../Page/4월_4일.md "wikilink"), [4월 18일](../Page/4월_18일.md "wikilink") \~ [4월 25일](../Page/4월_25일.md "wikilink") : [천안함 침몰 사건의](https://ko.wikipedia.org/wiki/천안함_침몰_사건 "wikilink") 여파로 인하여 약 한 달간 방송이 중단되었다.
+  - [5월 23일](../Page/5월_23일.md "wikilink") : [2010남아공 월드컵](https://ko.wikipedia.org/wiki/남아공_월드컵 "wikilink") 선전기원 특집
+  - [5월 30일](../Page/5월_30일.md "wikilink") : 《2010 [드림콘서트](../Page/드림콘서트.md "wikilink")》의 방송으로 대체되었다.
+  - [6월 6일](../Page/6월_6일.md "wikilink") : 《[2010남아공월드컵](https://ko.wikipedia.org/wiki/남아공월드컵 "wikilink") 특집다큐 - 붉은악마 다시 심장이 뛴다》 대체 방송
+  - [6월 13일](../Page/6월_13일.md "wikilink") \~ [6월 20일](../Page/6월_20일.md "wikilink") : 2010 남아공 월드컵 특집
+  - [7월 18일](../Page/7월_18일.md "wikilink") \~ [8월 1일](../Page/8월_1일.md "wikilink") : 여름방학 특집
+  - [9월 19일](../Page/9월_19일.md "wikilink") : **《추석특집 한류 드림콘서트》** 방송
+  - [10월 10일](../Page/10월_10일.md "wikilink") : 《2010 마구마구 [프로야구](https://ko.wikipedia.org/wiki/프로야구 "wikilink") 플레이오프 3차전 [두산 베어스](../Page/두산_베어스.md "wikilink") VS [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink")》 연장 중계로 인한 결방
+  - [10월 31일](../Page/10월_31일.md "wikilink") : 할로윈데이 특집
+  - [11월 14일](../Page/11월_14일.md "wikilink") : 창사 20주년 특집 《2010 [사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》 방송으로 대체되었다.
+  - [12월 12일](../Page/12월_12일.md "wikilink") : **600회 특집**
 
 ### 2011년
 
-  - [1월 2일](../Page/1월_2일.md "wikilink"): 《신년특집 서울-도쿄 뮤직페스티벌》 대체 방송
-  - [2월 6일](../Page/2월_6일.md "wikilink"): [설날](../Page/설날.md "wikilink") 특집
-  - [2월 13일](../Page/2월_13일.md "wikilink"): 발렌타인 데이 특집
-  - [7월 17일](../Page/7월_17일.md "wikilink") \~ [7월 24일](../Page/7월_24일.md "wikilink"): 여름방학 특집
-  - [10월 2일](../Page/10월_2일.md "wikilink"): 지구살리기 그린콘서트 특집 편성(마산실내체육관 특집 생방송)
-  - [11월 6일](../Page/11월_6일.md "wikilink"): 2011 K-POP 슈퍼콘서트 특집 편성
+  - [1월 2일](../Page/1월_2일.md "wikilink") : 《신년특집 서울-도쿄 뮤직페스티벌》 대체 방송
+  - [2월 6일](../Page/2월_6일.md "wikilink") : [설날](../Page/설날.md "wikilink") 특집
+  - [2월 13일](../Page/2월_13일.md "wikilink") : 발렌타인 데이 특집
+  - [7월 17일](../Page/7월_17일.md "wikilink") \~ [7월 24일](../Page/7월_24일.md "wikilink") : 여름방학 특집
+  - [10월 2일](../Page/10월_2일.md "wikilink") : 지구살리기 그린콘서트 특집 편성(마산실내체육관 특집 생방송)
+  - [11월 6일](../Page/11월_6일.md "wikilink") : 2011 K-POP 슈퍼콘서트 특집 편성
 
 ### 2012년
 
-  - [1월 1일](../Page/1월_1일.md "wikilink"): 신년특집.
-  - [1월 22일](../Page/1월_22일.md "wikilink"): 《[2018년 평창 동계 올림픽](../Page/2018년_동계_올림픽.md "wikilink") 성공 기원 콘서트》 특집 편성
-  - [7월 29일](../Page/7월_29일.md "wikilink") \~ [8월 12일](../Page/8월_12일.md "wikilink"): 《[2012년 런던 올림픽](https://ko.wikipedia.org/wiki/2012년_런던_올림픽 "wikilink")》 특집
-  - [9월 30일](../Page/9월_30일.md "wikilink"): [추석](../Page/추석.md "wikilink") 특집방송
-  - [10월 28일](../Page/10월_28일.md "wikilink"): **《2012 팔도 [프로야구](https://ko.wikipedia.org/wiki/프로야구 "wikilink") [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 4차전 [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") VS [SK 와이번스](../Page/SK_와이번스.md "wikilink")》 중계방송**으로 인한 결방
-  - [11월 11일](../Page/11월_11일.md "wikilink"): 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》 방송으로 대체
-  - [11월 25일](../Page/11월_25일.md "wikilink"): 외국인 관광객 천만 명 돌파 기념 특집
-  - [12월 9일](../Page/12월_9일.md "wikilink"): **700회 특집**
-  - [12월 30일](../Page/12월_30일.md "wikilink"): 《 [2012SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 재방송으로 인한 결방
+  - [1월 1일](../Page/1월_1일.md "wikilink") : 신년특집.
+  - [1월 22일](../Page/1월_22일.md "wikilink") : 《[2018년 평창 동계 올림픽](../Page/2018년_동계_올림픽.md "wikilink") 성공 기원 콘서트》 특집 편성
+  - [7월 29일](../Page/7월_29일.md "wikilink") \~ [8월 12일](../Page/8월_12일.md "wikilink") : 《[2012년 런던 올림픽](https://ko.wikipedia.org/wiki/2012년_런던_올림픽 "wikilink")》 특집
+  - [9월 30일](../Page/9월_30일.md "wikilink") : [추석](../Page/추석.md "wikilink") 특집방송
+  - [10월 28일](../Page/10월_28일.md "wikilink") : **《2012 팔도 [프로야구](https://ko.wikipedia.org/wiki/프로야구 "wikilink") [한국시리즈](https://ko.wikipedia.org/wiki/한국시리즈 "wikilink") 4차전 [삼성 라이온즈](../Page/삼성_라이온즈.md "wikilink") VS [SK 와이번스](../Page/SK_와이번스.md "wikilink")》 중계방송**으로 인한 결방
+  - [11월 11일](../Page/11월_11일.md "wikilink") : 《[사랑 나눔 콘서트](../Page/사랑_나눔_콘서트.md "wikilink")》 방송으로 대체
+  - [11월 25일](../Page/11월_25일.md "wikilink") : 외국인 관광객 천만 명 돌파 기념 특집
+  - [12월 9일](../Page/12월_9일.md "wikilink") : **700회 특집**
+  - [12월 30일](../Page/12월_30일.md "wikilink") : 《 [2012SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 재방송으로 인한 결방
 
 ### 2013년
 
-  - [5월 12일](../Page/5월_12일.md "wikilink"): **2013 충주세계조정선수권대회 D-100** 기념 생방송
-  - [7월 7일](../Page/7월_7일.md "wikilink"): [아시아나항공 214편 추락 사고와](https://ko.wikipedia.org/wiki/아시아나항공_214편_추락_사고 "wikilink") 관련된 뉴스 속보로 인한 결방
-  - [12월 29일](../Page/12월_29일.md "wikilink"): 《[2013SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 생방송 준비 관계로 결방 및 SBS 드라마 [별에서 온 그대가](https://ko.wikipedia.org/wiki/별에서_온_그대 "wikilink") 재방송 편성
+  - [5월 12일](../Page/5월_12일.md "wikilink") : **2013 충주세계조정선수권대회 D-100** 기념 생방송
+  - [7월 7일](../Page/7월_7일.md "wikilink") : [아시아나항공 214편 추락 사고와](https://ko.wikipedia.org/wiki/아시아나항공_214편_추락_사고 "wikilink") 관련된 뉴스 속보로 인한 결방
+  - [12월 29일](../Page/12월_29일.md "wikilink") : 《[2013SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 생방송 준비 관계로 결방 및 SBS 드라마 [별에서 온 그대가](https://ko.wikipedia.org/wiki/별에서_온_그대 "wikilink") 재방송 편성
 
 ### 2014년
 
-  - [4월 20일](../Page/4월_20일.md "wikilink") \~ [5월 11일](../Page/5월_11일.md "wikilink"): [세월호 침몰 사고의](../Page/세월호_침몰_사고.md "wikilink") 여파로 인하여 약 한 달간 방송이 중단되었다.
-  - [6월 15일](../Page/6월_15일.md "wikilink"): 《2014 [드림콘서트](../Page/드림콘서트.md "wikilink")》 녹화방송으로 대체되었다.
-  - [9월 28일](../Page/9월_28일.md "wikilink"): [2014 인천 아시안 게임](../Page/2014년_아시안_게임.md "wikilink") 중계방송으로 인한 결방.
-  - [12월 21일](../Page/12월_21일.md "wikilink"): 《[2014SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 방송 관계로 인한 결방.
+  - [4월 20일](../Page/4월_20일.md "wikilink") \~ [5월 11일](../Page/5월_11일.md "wikilink") : [세월호 침몰 사고의](../Page/세월호_침몰_사고.md "wikilink") 여파로 인하여 약 한 달간 방송이 중단되었다.
+  - [6월 15일](../Page/6월_15일.md "wikilink") : 《2014 [드림콘서트](../Page/드림콘서트.md "wikilink")》 녹화방송으로 대체되었다.
+  - [9월 28일](../Page/9월_28일.md "wikilink") : [2014 인천 아시안 게임](../Page/2014년_아시안_게임.md "wikilink") 중계방송으로 인한 결방.
+  - [12월 21일](../Page/12월_21일.md "wikilink") : 《[2014SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 방송 관계로 인한 결방.
 
 ### 2015년
 
-  - [1월 25일](../Page/1월_25일.md "wikilink"): **800회 특집**
-  - [2월 22일](../Page/2월_22일.md "wikilink"):[설](../Page/설날.md "wikilink") 특집 《[아빠를 부탁해](../Page/아빠를_부탁해.md "wikilink")》 재방송
-  - [10월 11일](../Page/10월_11일.md "wikilink"): 2015 프레지던츠컵 중계방송으로 인한 결방
-  - [10월 18일](../Page/10월_18일.md "wikilink"): 2015 [프로야구](https://ko.wikipedia.org/wiki/프로야구 "wikilink") 플레이오프 중계방송으로 낮 12시 40분 방송
-  - [11월 22일](../Page/11월_22일.md "wikilink"): 고(故) [김영삼](https://ko.wikipedia.org/wiki/김영삼 "wikilink") 전 대통령 서거로 국가장을 애도하며 결방되었으며, 29일에 당일 녹화분 편성.
-  - [12월 27일](../Page/12월_27일.md "wikilink"): 《[2015SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 생방송 관계로 결방.
+  - [1월 25일](../Page/1월_25일.md "wikilink") : **800회 특집**
+  - [2월 22일](../Page/2월_22일.md "wikilink") : [설](../Page/설날.md "wikilink") 특집 《[아빠를 부탁해](../Page/아빠를_부탁해.md "wikilink")》 재방송
+  - [10월 11일](../Page/10월_11일.md "wikilink") : 2015 프레지던츠컵 중계방송으로 인한 결방
+  - [10월 18일](../Page/10월_18일.md "wikilink") : 2015 [프로야구](https://ko.wikipedia.org/wiki/프로야구 "wikilink") 플레이오프 중계방송으로 낮 12시 40분 방송
+  - [11월 22일](../Page/11월_22일.md "wikilink") : 고(故) [김영삼](https://ko.wikipedia.org/wiki/김영삼 "wikilink") 전 대통령 서거로 국가장을 애도하며 결방되었으며, 29일에 당일 녹화분 편성.
+  - [12월 27일](../Page/12월_27일.md "wikilink") : 《[2015SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》 생방송 관계로 결방.
 
 ### 2016년
 
-  - [2월 7일](../Page/2월_7일.md "wikilink"): [설](https://ko.wikipedia.org/wiki/설 "wikilink")연휴 기간으로 인해 결방되었으며, 이 시간대에는 《[정글의 법칙](../Page/정글의_법칙.md "wikilink")》 재방송으로 대체되었다.
-  - [9월 18일](../Page/9월_18일.md "wikilink"): 추석 연휴 기간으로 인하여 결방되었으며, 이 시간대에는 [추석](../Page/추석.md "wikilink")특집 《부르는 스타:부르스타》 재방송으로 대체되었다.
-  - [10월 30일](../Page/10월_30일.md "wikilink"): **《부산원아시아페스티벌》 특집방송**
-  - [12월 25일](../Page/12월_25일.md "wikilink"): 다음 날(26일) 방송된 《[2016 SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》방송 준비로 결방되었으며, 이 시간대에는 [씬스틸러](https://ko.wikipedia.org/wiki/씬스틸러 "wikilink") 스페셜 방송으로 대체되었다.
+  - [2월 7일](../Page/2월_7일.md "wikilink") : [설](https://ko.wikipedia.org/wiki/설 "wikilink")연휴 기간으로 인해 결방되었으며, 이 시간대에는 《[정글의 법칙](../Page/정글의_법칙.md "wikilink")》 재방송으로 대체되었다.
+  - [9월 18일](../Page/9월_18일.md "wikilink") : 추석 연휴 기간으로 인하여 결방되었으며, 이 시간대에는 [추석](../Page/추석.md "wikilink")특집 《부르는 스타:부르스타》 재방송으로 대체되었다.
+  - [10월 30일](../Page/10월_30일.md "wikilink") : **《부산원아시아페스티벌》 특집방송**
+  - [12월 25일](../Page/12월_25일.md "wikilink") : 다음날 (26일) 방송된 《[2016 SBS 가요대전](https://ko.wikipedia.org/wiki/가요대전 "wikilink")》방송 준비로 결방되었으며, 이 시간대에는 [씬스틸러](https://ko.wikipedia.org/wiki/씬스틸러 "wikilink") 스페셜 방송으로 대체되었다.
 
 ### 2017년
 
-  - [1월 29일](../Page/1월_29일.md "wikilink"): [설](../Page/설날.md "wikilink") 연휴 기간으로 인하여 결방되었으며, 이 시간대에는 《SBS 수목드라마 [사임당, 빛의 일기](../Page/사임당,_빛의_일기.md "wikilink")》 재방송으로 대체되었다.
-  - [2월 19일](../Page/2월_19일.md "wikilink"): **900회 특집**
-  - [3월 19일](../Page/3월_19일.md "wikilink"): SBS 특별기획 "복싱 세계 미들급 챔피언전 골로프킨 VS제이콥스 위성 생중계 방송"으로 결방되었다.
-  - [4월 16일](../Page/4월_16일.md "wikilink"): [세월호 참사](../Page/세월호_침몰_사고.md "wikilink") 3주년 특집 [그것이 알고싶다](../Page/그것이_알고싶다.md "wikilink") 재방송 관계로 결방
-  - [9월 17일](../Page/9월_17일.md "wikilink"): SBS 스포츠 "WBA, WBC, IBF 미들급 통합 챔피언쉽 골로프킨 VS 알바레스 위성 생중계 방송"으로 인해 결방되었다.
-  - [10월 1일](../Page/10월_1일.md "wikilink"): **《2017 슈퍼콘서트 in 대전》 특집방송**
-  - [10월 22일](../Page/10월_22일.md "wikilink"): "PGA투어 THE CJ컵 @ 나인 브릿지 방송"으로 인해 결방되었다.
-  - [12월 24일](../Page/12월_24일.md "wikilink"): 다음 날(12월 25일)에 방송된 《 [2017 SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》 준비로 인해 결방되었으며, 이 시간에는 [불타는 청춘이](https://ko.wikipedia.org/wiki/불타는_청춘 "wikilink") 재방송되었다.
-  - [12월 31일](../Page/12월_31일.md "wikilink"): [12월 25일에](../Page/12월_25일.md "wikilink") 방송했던 《 [2017 SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》 재방송으로 인해 결방되었다.
+  - [1월 29일](../Page/1월_29일.md "wikilink") : [설](../Page/설날.md "wikilink") 연휴 기간으로 인하여 결방되었으며, 이 시간대에는 《SBS 수목드라마 [사임당, 빛의 일기](../Page/사임당,_빛의_일기.md "wikilink")》 재방송으로 대체되었다.
+  - [2월 19일](../Page/2월_19일.md "wikilink") : **900회 특집**
+  - [3월 19일](../Page/3월_19일.md "wikilink") : SBS 특별기획 "복싱 세계 미들급 챔피언전 골로프킨 VS제이콥스 위성 생중계 방송"으로 결방되었다.
+  - [4월 16일](../Page/4월_16일.md "wikilink") : [세월호 참사](../Page/세월호_침몰_사고.md "wikilink") 3주년 특집 [그것이 알고싶다](../Page/그것이_알고싶다.md "wikilink") 재방송 관계로 결방
+  - [9월 17일](../Page/9월_17일.md "wikilink") : SBS 스포츠 "WBA, WBC, IBF 미들급 통합 챔피언쉽 골로프킨 VS 알바레스 위성 생중계 방송"으로 인해 결방되었다.
+  - [10월 1일](../Page/10월_1일.md "wikilink") : **《2017 슈퍼콘서트 in 대전》 특집방송**
+  - [10월 22일](../Page/10월_22일.md "wikilink") : "PGA투어 THE CJ컵 @ 나인 브릿지 방송"으로 인해 결방되었다.
+  - [12월 24일](../Page/12월_24일.md "wikilink") : 다음날 (12월 25일)에 방송된 《 [2017 SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》 준비로 인해 결방되었으며, 이 시간에는 [불타는 청춘이](https://ko.wikipedia.org/wiki/불타는_청춘 "wikilink") 재방송되었다.
+  - [12월 31일](../Page/12월_31일.md "wikilink") : [12월 25일에](../Page/12월_25일.md "wikilink") 방송했던 《 [2017 SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》 재방송으로 인해 결방되었다.
 
 ### 2018년
 
-  - [2월 11일](../Page/2월_11일.md "wikilink"): **[2018 평창 올림픽](../Page/2018년_동계_올림픽.md "wikilink") 중계방송**으로 인한 결방
-  - [8월 19일](../Page/8월_19일.md "wikilink"): **[2018 자카르타 아시안 게임](../Page/2018년_아시안_게임.md "wikilink") 중계방송**으로 인한 결방
-  - [10월 21일](../Page/10월_21일.md "wikilink"): **《UHD SBS 인기가요》 특집 방송** (오후 3:15 방송)
-  - [10월 28일](../Page/10월_28일.md "wikilink"): **SBS 스포츠 [2018년 KBO 리그](../Page/2018년_KBO_리그.md "wikilink") 플레이오프 2차전 [넥센 히어로즈](../Page/키움_히어로즈.md "wikilink") VS [SK 와이번스](../Page/SK_와이번스.md "wikilink") 중계방송**으로 인한 방송시간 변경 (낮 12:10 방송)
-  - [11월 4일](../Page/11월_4일.md "wikilink"): **SBS 스포츠 [2018년 KBO 리그](../Page/2018년_KBO_리그.md "wikilink") 한국시리즈 1차전 [SK 와이번스](../Page/SK_와이번스.md "wikilink") VS [두산 베어스](../Page/두산_베어스.md "wikilink") 중계방송**으로 인해 결방
-  - [11월 18일](../Page/11월_18일.md "wikilink"): **2018 SBS 슈퍼콘서트 in 수원** 재방송으로 인한 결방
-  - [12월 23일](../Page/12월_23일.md "wikilink"): **《[2018 SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》** 준비로 인한 결방
-  - [12월 30일](../Page/12월_30일.md "wikilink"): **《[2018 SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》** 재방송으로 인한 결방
+  - [2월 11일](../Page/2월_11일.md "wikilink") : **[2018 평창 올림픽](../Page/2018년_동계_올림픽.md "wikilink") 중계방송**으로 인한 결방
+  - [8월 19일](../Page/8월_19일.md "wikilink") : **[2018 자카르타 아시안 게임](../Page/2018년_아시안_게임.md "wikilink") 중계방송**으로 인한 결방
+  - [10월 21일](../Page/10월_21일.md "wikilink") : **《UHD SBS 인기가요》 특집 방송** (오후 3:15 방송)
+  - [10월 28일](../Page/10월_28일.md "wikilink") : **SBS 스포츠 [2018년 KBO 리그](../Page/2018년_KBO_리그.md "wikilink") 플레이오프 2차전 [넥센 히어로즈](../Page/키움_히어로즈.md "wikilink") VS [SK 와이번스](../Page/SK_와이번스.md "wikilink") 중계방송**으로 인한 방송시간 변경 (낮 12:10 방송)
+  - [11월 4일](../Page/11월_4일.md "wikilink") : **SBS 스포츠 [2018년 KBO 리그](../Page/2018년_KBO_리그.md "wikilink") 한국시리즈 1차전 [SK 와이번스](../Page/SK_와이번스.md "wikilink") VS [두산 베어스](../Page/두산_베어스.md "wikilink") 중계방송**으로 인해 결방
+  - [11월 18일](../Page/11월_18일.md "wikilink") : **2018 SBS 슈퍼콘서트 in 수원** 재방송으로 인한 결방
+  - [12월 23일](../Page/12월_23일.md "wikilink") : **《[2018 SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》** 준비로 인한 결방
+  - [12월 30일](../Page/12월_30일.md "wikilink") : **《[2018 SBS 가요대전](../Page/SBS_가요대전.md "wikilink")》** 재방송으로 인한 결방
 
 ### 2019년
 
@@ -788,7 +788,7 @@
 ### 2020년
 
   - [1월 26일](../Page/1월_26일.md "wikilink") : 설연휴 기간으로 인하여 결방되었으며, 이 시간대에는 **《[SBS](https://ko.wikipedia.org/wiki/SBSTV "wikilink") 월화드라마 [낭만닥터 김사부 2](../Page/낭만닥터_김사부_2.md "wikilink")》**가 재방송되었다.
-  - [10월 4일](../Page/10월_4일.md "wikilink") : 미정
+  - [10월 4일](../Page/10월_4일.md "wikilink") : 추석 연휴 기간으로 인하여 결방되었으며, 이 시간에는 **《홈 스타워즈》** 재방송 인한 결방.
 
 ## 수상 경력
 
@@ -816,12 +816,12 @@
 
 ## 관련 음악 프로그램
 
-  - [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink")([SBS MTV](../Page/SBS_MTV.md "wikilink"), [SBS funE](../Page/SBS_funE.md "wikilink"), [SBS Plus](https://ko.wikipedia.org/wiki/SBS_Plus "wikilink")) - 화요일
-  - [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink")([MBC 뮤직](../Page/MBC_뮤직.md "wikilink"), [MBC 에브리원](../Page/MBC_에브리원.md "wikilink")) - 수요일
-  - [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")([엠넷](../Page/엠넷.md "wikilink")) - 목요일
-  - [Simply K-Pop](../Page/Simply_K-Pop.md "wikilink")([아리랑 TV](../Page/아리랑_TV.md "wikilink")) - 금요일
-  - [뮤직뱅크](../Page/뮤직뱅크.md "wikilink")([KBS 2TV](../Page/KBS_2TV.md "wikilink")) - 금요일
-  - [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")([MBC TV](../Page/MBC_TV.md "wikilink")) - 토요일
+  - [더 쇼](https://ko.wikipedia.org/wiki/더_쇼 "wikilink") ([SBS MTV](../Page/SBS_MTV.md "wikilink"), [SBS F\!L](../Page/SBS_F!L.md "wikilink")) - 화요일
+  - [쇼 챔피언](https://ko.wikipedia.org/wiki/쇼_챔피언 "wikilink") ([MBC M](https://ko.wikipedia.org/wiki/MBC_M "wikilink"), [MBC 에브리원](../Page/MBC_에브리원.md "wikilink")) - 수요일
+  - [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink") ([엠넷](../Page/엠넷.md "wikilink")) - 목요일
+  - [Simply K-Pop](../Page/Simply_K-Pop.md "wikilink") ([아리랑 TV](../Page/아리랑_TV.md "wikilink")) - 금요일
+  - [뮤직뱅크](../Page/뮤직뱅크.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink")) - 금요일
+  - [쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink")) - 토요일
 
 ## 각주
 

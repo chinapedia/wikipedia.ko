@@ -23,88 +23,22 @@
 
 ## 보유 기종
 
-  - [2019년](../Page/2019년.md "wikilink") [7월](../Page/7월.md "wikilink") 기준으로 MIAT 몽골 항공은 다음과 같은 기종을 보유하고 있으며 평균 기령은 11.3년이다.\[4\]\[5\]\[6\]
+  - [2019년](../Page/2019년.md "wikilink") [10월](../Page/10월.md "wikilink") 기준으로 MIAT 몽골 항공은 다음과 같은 기종을 보유하고 있으며 평균 기령은 11.3년이다.\[4\]\[5\]\[6\]
 
 ### 현재 사용하는 기종
 
-<table>
-<caption><strong>MIAT 몽골 항공의 보유 기종</strong></caption>
-<thead>
-<tr class="header">
-<th><p>기종</p></th>
-<th><p>대수</p></th>
-<th><p>주문</p></th>
-<th><p>승객</p></th>
-<th><p>비고</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><abbr title="Business Class">B</abbr></p></td>
-<td><p><abbr title="Premium Economy Class">E+</abbr></p></td>
-<td><p><abbr title="Economy Class">E</abbr></p></td>
-<td><p>합계</p></td>
-<td><p>각주</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/보잉_737.md" title="wikilink">보잉 737-800</a></p></td>
-<td><p>3</p></td>
-<td><p>0</p></td>
-<td><p>12</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="odd">
-<td><p>162</p></td>
-<td><p>174</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/보잉_737_MAX.md" title="wikilink">보잉 737 MAX 8</a></p></td>
-<td><p>1</p></td>
-<td><p>3</p></td>
-<td><p><abbr title="To Be Announced"></p>
-<div style="text-align: center;">
-<p>TBA</p>
-</div>
-<p></abbr></p></td>
-<td><p><a href="../Page/2019년.md" title="wikilink">2019년</a>부터 순차적으로 도입[7]</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/보잉_767.md" title="wikilink">보잉 767-300ER</a></p></td>
-<td><p>2</p></td>
-<td><p>0</p></td>
-<td><p>18</p></td>
-<td><p>0</p></td>
-</tr>
-<tr class="even">
-<td><p>25</p></td>
-<td><p>195</p></td>
-<td><p>220</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/보잉_787_드림라이너.md" title="wikilink">보잉 787-9</a></p></td>
-<td><p>0</p></td>
-<td><p>1</p></td>
-<td><p><abbr title="To Be Announced"></p>
-<div style="text-align: center;">
-<p>TBA</p>
-</div>
-<p></abbr></p></td>
-<td><p><a href="../Page/2021년.md" title="wikilink">2021년</a>부터 순차적으로 도입 예정[8]</p></td>
-</tr>
-<tr class="even">
-<td><p>합계</p></td>
-<td><p>7</p></td>
-<td><p>4</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 기종                                               | 대수                                           | 주문                                   | 승객 | 비고 |
+| ------------------------------------------------ | -------------------------------------------- | ------------------------------------ | -- | -- |
+| <abbr title="Business Class">B</abbr>            | <abbr title="Premium Economy Class">W</abbr> | <abbr title="Economy Class">B</abbr> | 합계 | 각주 |
+| [보잉 737-800](../Page/보잉_737.md "wikilink")       | 3                                            | 0                                    | 12 | 0  |
+| 162                                              | 174                                          |                                      |    |    |
+| [보잉 737 MAX 8](../Page/보잉_737_MAX.md "wikilink") | 1                                            | 3                                    | 12 | 0  |
+| [보잉 767-300ER](../Page/보잉_767.md "wikilink")     | 2                                            | 0                                    | 18 | 0  |
+| 25                                               | 195                                          | 220                                  |    |    |
+| [보잉 787-9](../Page/보잉_787_드림라이너.md "wikilink")   | 0                                            | 1                                    | 16 | 21 |
+| 합계                                               | 6                                            | 4                                    |    |    |
+
+**MIAT 몽골 항공의 보유 기종**
 
 ### 퇴역 기종
 
@@ -144,5 +78,3 @@
 4.  <http://www.planespotters.net/Airline/MIAT---Mongolian-Airlines>
 5.  <http://www.airfleets.net/flottecie/MIAT%20Mongolian.htm>
 6.
-7.
-8.
