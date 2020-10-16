@@ -27,7 +27,4 @@
   - [BEST FRIENDS\!](https://ko.wikipedia.org/wiki/BEST_FRIENDS! "wikilink")
   - [STARRY PLANET☆](https://ko.wikipedia.org/wiki/STARRY_PLANET☆ "wikilink")
 
-## 외부 링크
-
-  -
 [분류:란티스](https://ko.wikipedia.org/wiki/분류:란티스 "wikilink") [분류:아이 엠 스타\!](https://ko.wikipedia.org/wiki/분류:아이_엠_스타! "wikilink") [분류:2014년 결성된 음악 그룹](https://ko.wikipedia.org/wiki/분류:2014년_결성된_음악_그룹 "wikilink") [분류:8인조 음악 그룹](https://ko.wikipedia.org/wiki/분류:8인조_음악_그룹 "wikilink") [분류:일본의 음악 그룹](https://ko.wikipedia.org/wiki/분류:일본의_음악_그룹 "wikilink") [분류:일본의 걸 그룹](https://ko.wikipedia.org/wiki/분류:일본의_걸_그룹 "wikilink")

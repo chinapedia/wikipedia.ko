@@ -1,0 +1,6 @@
+> This article is converted from Wikipedia: [Break Your Heart](https://ko.wikipedia.org/wiki/Break_Your_Heart).
+
+
+**Break Your Heart**는 영국 출신의 싱어송라이터 [타이오 크루즈의](../Page/타이오_크루즈.md "wikilink") 노래이다. 이 노래는 [2009년](../Page/2009년.md "wikilink") [9월 13일](../Page/9월_13일.md "wikilink") 처음 발매 되었고 [2010년](../Page/2010년.md "wikilink") [2월 2일](../Page/2월_2일.md "wikilink") 랩퍼 [루다크리스](../Page/루다크리스.md "wikilink")의 피처링 버전이 발매되었다. 이 노래는 [Rokstarr](https://ko.wikipedia.org/wiki/Rokstarr "wikilink")에 수록되어 있다.
+
+[분류:타이오 크루즈의 노래](https://ko.wikipedia.org/wiki/분류:타이오_크루즈의_노래 "wikilink") [분류:루다크리스의 노래](https://ko.wikipedia.org/wiki/분류:루다크리스의_노래 "wikilink") [분류:2009년 싱글](https://ko.wikipedia.org/wiki/분류:2009년_싱글 "wikilink") [분류:2009년 노래](https://ko.wikipedia.org/wiki/분류:2009년_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:배신을 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:배신을_소재로_한_노래 "wikilink") [분류:2010년 싱글](https://ko.wikipedia.org/wiki/분류:2010년_싱글 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")

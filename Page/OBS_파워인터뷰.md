@@ -19,7 +19,7 @@
 
 ## 동 시간대 프로그램
 
-  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
 
 ## 외부 링크
 
