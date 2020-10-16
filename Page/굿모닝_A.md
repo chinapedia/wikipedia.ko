@@ -15,7 +15,7 @@
 
   - [JTBC 뉴스 아침&](../Page/JTBC_뉴스_아침&.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))
   - [굿모닝 MBN](../Page/굿모닝_MBN.md "wikilink") ([MBN](../Page/매일방송.md "wikilink"))
-  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
   - [2TV 아침](../Page/2TV_아침.md "wikilink") ([KBS 2TV](../Page/KBS_2TV.md "wikilink"))
   - [MBC 뉴스투데이](../Page/MBC_뉴스투데이.md "wikilink") ([MBC](https://ko.wikipedia.org/wiki/MBC "wikilink"))
   - [모닝와이드](../Page/모닝와이드.md "wikilink") ([SBS](../Page/SBS.md "wikilink"))

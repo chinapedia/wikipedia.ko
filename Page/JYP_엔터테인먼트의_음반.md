@@ -251,7 +251,7 @@
   - 2015년 9월 24일 박진영 - **\[Digital Single\] 너만 있으면 돼**
   - 2015년 9월 29일 GOT7 - **[MAD](../Page/MAD_\(GOT7의_음반\).md "wikilink")**
   - 2015년 10월 17일 [유빈](../Page/유빈.md "wikilink") - **언프리티 랩스타 2 Track 6&7**\[32\]
-  - 2015년 10월 20일 [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") - **[THE STORY BEGINS](../Page/THE_STORY_BEGINS.md "wikilink")**
+  - 2015년 10월 20일 [트와이스](../Page/트와이스.md "wikilink") - **[THE STORY BEGINS](../Page/THE_STORY_BEGINS.md "wikilink")**
   - 2015년 10월 21일 2PM - **\[Japan Digital Single\] Higher**
   - 2015년 11월 11일 백아연 - **\[Digital Single\] 투유 프로젝트 - 슈가맨 Part.4**\[33\]
   - 2015년 11월 23일 GOT7- **MAD Winter Edition**
@@ -468,7 +468,9 @@
   - 2020년 9월 14일 스트레이 키즈 - **IN生**
   - 2020년 9월 16일 트와이스 - **\[Japan\] [\#TWICE3](https://ko.wikipedia.org/wiki/TWICE3 "wikilink")**
   - 2020년 9월 18일 Young K - **\[Digital Single\] Love**\[67\]
-  - 2020년 10월 ?일 트와이스 - **미정**
+  - 2020년 10월 26일 트와이스 - **TWICE of October**
+  - 2020년 11월 4일 스트레이 키즈 - **\[Japan\] ALL IN**
+  - 2020년 11월 18일 트와이스 - **\[Japan Digital Single\] BETTER**
 
 ## 각주
 

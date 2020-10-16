@@ -1136,10 +1136,12 @@
   - 2020년 9월 7일 태민 - **Never Gonna Dance Again : Act 1**
   - 2020년 9월 8일 첸 - **브람스를 좋아하세요? OST Part.3**
   - 2020년 9월 15일 태연 - **브람스를 좋아하세요? OST Part.5**
+  - 2020년 9월 22일 백현 - **청춘기록 OST Part.3**
   - 2020년 9월 25일 Super M - **Super One**
-  - 2020년 9월 28일 슈퍼주니어-D\&E - **미정**
+  - 2020년 9월 28일 슈퍼주니어-D\&E - **BAD LIAR**
   - 2020년 10월 8일 규현 - **\[Digital Single\] 미정**\[172\]
-  - 2020년 10월 ?일 NCT - **미정**
+  - 2020년 10월 12일 NCT - **NCT 2020 : RESONANCE Pt. 1**
+  - 2020년 11월 ?일 NCT - **NCT 2020 : RESONANCE Pt. 2**
   - 2020년 ?월 ?일 태민 - **Never Gonna Dance Again : Act 2**
   - 2020년 ?월 ?일 [카이](../Page/카이_\(1994년\).md "wikilink") - **미정**
 
@@ -1248,7 +1250,7 @@
 99. [러블리즈](../Page/러블리즈.md "wikilink"),[올 블랙의](../Page/올_블랙.md "wikilink") 멤버 [도끼](../Page/도끼_\(가수\).md "wikilink"),[더 콰이엇](https://ko.wikipedia.org/wiki/더_콰이엇 "wikilink"),[신현희와 김루트](https://ko.wikipedia.org/wiki/신현희와_김루트 "wikilink"),[플루토](https://ko.wikipedia.org/wiki/플루토_\(가수\) "wikilink"),[넉살](../Page/넉살.md "wikilink")도 앨범 참여.
 100. [구구단의](../Page/구구단_\(음악_그룹\).md "wikilink") 멤버 [세정도](../Page/세정_\(가수\).md "wikilink") 앨범 참여.
 101. [10cm도](../Page/10cm_\(음악_그룹\).md "wikilink") 앨범 참여.
-102. [원더걸스](../Page/원더걸스.md "wikilink")의 멤버 [선미](../Page/선미.md "wikilink"),[백지영](../Page/백지영.md "wikilink"),[다비치](../Page/다비치.md "wikilink"),[다이아의](../Page/다이아_\(음악_그룹\).md "wikilink") 두 멤버 [주은](../Page/주은_\(가수\).md "wikilink"),[정채연](../Page/정채연.md "wikilink"),[NRG](https://ko.wikipedia.org/wiki/NRG_\(음악_그룹\) "wikilink"),[아스트로의](../Page/아스트로_\(음악_그룹\).md "wikilink") 두 멤버 [문빈](../Page/문빈.md "wikilink"),[MJ](https://ko.wikipedia.org/wiki/MJ_\(가수\) "wikilink"),[김조한](../Page/김조한.md "wikilink"),[더 원](https://ko.wikipedia.org/wiki/더_원_\(가수\) "wikilink"),[B.A.P](../Page/B.A.P.md "wikilink")의 두 멤버 [영재](../Page/영재_\(1994년\).md "wikilink"),[종업](../Page/종업.md "wikilink"),[헤일로의](../Page/헤일로_\(음악_그룹\).md "wikilink") 세 멤버 [오운](../Page/헤일로_\(음악_그룹\).md "wikilink"),[재용](../Page/헤일로_\(음악_그룹\).md "wikilink"),[희천](../Page/헤일로_\(음악_그룹\).md "wikilink"),[B.I.G](https://ko.wikipedia.org/wiki/B.I.G "wikilink")의 두 멤버 [희건](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[건민](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[진세연](../Page/진세연.md "wikilink")도 앨범 참여.
+102. [원더걸스](../Page/원더걸스.md "wikilink")의 멤버 [선미](../Page/선미.md "wikilink"),[백지영](../Page/백지영.md "wikilink"),[다비치](../Page/다비치.md "wikilink"),[다이아의](../Page/다이아_\(음악_그룹\).md "wikilink") 두 멤버 [주은](../Page/주은_\(가수\).md "wikilink"),[정채연](../Page/정채연.md "wikilink"),[NRG](https://ko.wikipedia.org/wiki/NRG_\(음악_그룹\) "wikilink"),[아스트로의](../Page/아스트로_\(음악_그룹\).md "wikilink") 두 멤버 [문빈](../Page/문빈.md "wikilink"),[MJ](../Page/MJ_\(가수\).md "wikilink"),[김조한](../Page/김조한.md "wikilink"),[더 원](https://ko.wikipedia.org/wiki/더_원_\(가수\) "wikilink"),[B.A.P](../Page/B.A.P.md "wikilink")의 두 멤버 [영재](../Page/영재_\(1994년\).md "wikilink"),[종업](../Page/종업.md "wikilink"),[헤일로의](../Page/헤일로_\(음악_그룹\).md "wikilink") 세 멤버 [오운](../Page/헤일로_\(음악_그룹\).md "wikilink"),[재용](../Page/헤일로_\(음악_그룹\).md "wikilink"),[희천](../Page/헤일로_\(음악_그룹\).md "wikilink"),[B.I.G](https://ko.wikipedia.org/wiki/B.I.G "wikilink")의 두 멤버 [희건](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[건민](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[진세연](../Page/진세연.md "wikilink")도 앨범 참여.
 103. [디어도](https://ko.wikipedia.org/wiki/디어_\(가수\) "wikilink") 앨범 참여.
 104. [백아연](../Page/백아연.md "wikilink")도 앨범 참여.
 105. [마마무](../Page/마마무.md "wikilink")의 멤버 [솔라도](../Page/솔라_\(가수\).md "wikilink") 앨범 참여.

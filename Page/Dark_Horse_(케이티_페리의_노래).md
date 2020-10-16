@@ -123,7 +123,7 @@
 
 ## 각주
 
-[분류:2013년 노래](https://ko.wikipedia.org/wiki/분류:2013년_노래 "wikilink") [분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:표절 논란 노래](https://ko.wikipedia.org/wiki/분류:표절_논란_노래 "wikilink")
+[분류:2013년 노래](https://ko.wikipedia.org/wiki/분류:2013년_노래 "wikilink") [분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:표절 논란 노래](https://ko.wikipedia.org/wiki/분류:표절_논란_노래 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.
 2.
