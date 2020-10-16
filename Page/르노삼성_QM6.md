@@ -369,8 +369,7 @@
 
   - [현대자동차](https://ko.wikipedia.org/wiki/현대자동차 "wikilink") - [싼타페](../Page/현대_싼타페.md "wikilink")
   - [기아자동차](../Page/기아자동차.md "wikilink") - [쏘렌토](../Page/기아_쏘렌토.md "wikilink")
-  - [쌍용자동차](../Page/쌍용자동차.md "wikilink") - [코란도](https://ko.wikipedia.org/wiki/쌍용_코란도#4세대\(C300\) "wikilink")
-  - [쉐보레](../Page/쉐보레.md "wikilink") - [캡티바](../Page/쉐보레_캡티바.md "wikilink"), [이쿼녹스](../Page/쉐보레_이쿼녹스.md "wikilink")
+  - [쉐보레](../Page/쉐보레.md "wikilink") - [이쿼녹스](../Page/쉐보레_이쿼녹스.md "wikilink")
   - [지프](../Page/지프_\(자동차\).md "wikilink") - [체로키](../Page/지프_체로키.md "wikilink")
   - [오펠](../Page/오펠.md "wikilink") - 프론테라
   - [폭스바겐](../Page/폭스바겐.md "wikilink") - 티구안 올스페이스
