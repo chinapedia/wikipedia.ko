@@ -20,6 +20,4 @@
   - 색소폰 : [이정식](https://ko.wikipedia.org/wiki/이정식_\(음악가\) "wikilink")
   - 사진 & 디자인 : 이재하
 
-## 외부 링크
-
 [분류:1992년 데뷔 음반](https://ko.wikipedia.org/wiki/분류:1992년_데뷔_음반 "wikilink") [분류:김건모의 음반](https://ko.wikipedia.org/wiki/분류:김건모의_음반 "wikilink") [분류:댄스 팝 음반](https://ko.wikipedia.org/wiki/분류:댄스_팝_음반 "wikilink")

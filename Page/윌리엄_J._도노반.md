@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [윌리엄 J. 도노반](https://ko.wikipedia.org/wiki/윌리엄_J._도노반).
 
 
-**윌리엄 J. 도노반**(1883년 1월 1일 – 1959년 2월 8일)은 미국 군인, 변호사, 정보장교, 외교관이다. 육군 대령 도노반은 [CIA](https://ko.wikipedia.org/wiki/CIA "wikilink")의 전신인 [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 당시의 [전략사무국](../Page/전략사무국.md "wikilink")(OSS)의 초대 국장으로 유명하다. **CIA의 아버지**라고 불린다.
+[thumb](https://ko.wikipedia.org/wiki/파일:William_Joseph_\(Wild_Bill\)_Donovan,_Head_of_the_OSS.jpg "wikilink") **윌리엄 J. 도노반**(1883년 1월 1일 – 1959년 2월 8일)은 미국 군인, 변호사, 정보장교, 외교관이다. 육군 대령 도노반은 [CIA](https://ko.wikipedia.org/wiki/CIA "wikilink")의 전신인 [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 당시의 [전략사무국](../Page/전략사무국.md "wikilink")(OSS)의 초대 국장으로 유명하다. **CIA의 아버지**라고 불린다.
 
 [제1차 세계대전](https://ko.wikipedia.org/wiki/제1차_세계대전 "wikilink") 당시 도노반 소령은 [42사단](https://ko.wikipedia.org/wiki/42사단 "wikilink") [165연대](https://ko.wikipedia.org/wiki/165연대 "wikilink") [1대대](https://ko.wikipedia.org/wiki/1대대 "wikilink")의 대대장이었다. 그의 동료는 [컬럼비아 대학교](../Page/컬럼비아_대학교.md "wikilink") 교수인 시인 [조이스 킬머였다](https://ko.wikipedia.org/wiki/조이스_킬머 "wikilink"). 1918년 10월 14일, 15일 프랑스 [Landres-et-St. Georges](https://ko.wikipedia.org/wiki/:en:Landres-et-St._Georges "wikilink") 인근의 전투로 최고 무공훈장인 [명예 훈장을](../Page/명예_훈장.md "wikilink") 받았다.
 

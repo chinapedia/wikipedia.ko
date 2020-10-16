@@ -227,11 +227,11 @@
 #### 1994년
 
   - 《[지붕 위의 남자](https://ko.wikipedia.org/wiki/지붕_위의_남자 "wikilink")》 : 1994년 1월 1일 (신년 특집 드라마)
-  - 《[이선풍 저승 유람](https://ko.wikipedia.org/wiki/이선풍_저승_유람 "wikilink")》 : 1994년 2월 9일 \~ 1995년 2월 10일 (설 특집 드라마)
+  - 《[이선풍 저승 유람](https://ko.wikipedia.org/wiki/이선풍_저승_유람 "wikilink")》 : 1994년 2월 9일 \~ 1994년 2월 10일 (설 특집 드라마)
   - 《[너의 뺨에 입맞추리](https://ko.wikipedia.org/wiki/너의_뺨에_입맞추리 "wikilink")》 : 1994년 2월 9일 \~ 1994년 2월 10일 (설 특집 드라마)
   - 《[겨울 도화리](https://ko.wikipedia.org/wiki/겨울_도화리 "wikilink")》 : 1994년 3월 1일 \~ 1994년 3월 2일 (창사 21주년 특집 드라마)
   - 《[5월의 여행](https://ko.wikipedia.org/wiki/5월의_여행 "wikilink")》 : 1994년 5월 27일 (가정의 달 특집 드라마)
-  - 《[역사 앞에서](https://ko.wikipedia.org/wiki/역사_앞에서 "wikilink")》 : 1994년 6월 24일 (6.25 특집 2부작 드라마)
+  - 《[역사 앞에서](https://ko.wikipedia.org/wiki/역사_앞에서_\(드라마\) "wikilink")》 : 1994년 6월 24일 (6.25 특집 2부작 드라마)
   - 《[빈 잔의 축배](https://ko.wikipedia.org/wiki/빈_잔의_축배 "wikilink")》 : 1994년 8월 15일 (8.15 특집 드라마)
   - 《[춘향전](../Page/춘향전_\(1994년_드라마\).md "wikilink")》 : 1994년 9월 20일 (추석 특집 드라마)
 
