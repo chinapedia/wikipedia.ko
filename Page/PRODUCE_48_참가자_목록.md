@@ -117,7 +117,7 @@
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="../Page/미야와키_사쿠라.md" title="wikilink">미야와키 사쿠라</a></p></td>
-<td><p>AKB48</p></td>
+<td><p>HKT48</p></td>
 <td><p>1998.</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>1</p></td>
@@ -145,7 +145,7 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="../Page/야부키_나코.md" title="wikilink">야부키 나코</a></p></td>
-<td><p>AKB48</p></td>
+<td><p>HKT48</p></td>
 <td><p>2001.</p></td>
 <td><p><a href="../Page/대한민국.md" title="wikilink">대한민국</a></p></td>
 <td><p>14</p></td>

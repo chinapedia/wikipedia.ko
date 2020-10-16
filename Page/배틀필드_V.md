@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [배틀필드 V](https://ko.wikipedia.org/wiki/배틀필드_V).
 
 
-《**배틀필드 V**》 는 2018년 10월 19일에 [EA DICE에서](../Page/EA_디지털_일루션스_크리에이티브_엔터테인먼트.md "wikilink") 출시한 [제 2차 세계대전을](https://ko.wikipedia.org/wiki/제_2차_세계대전 "wikilink") 배경으로 하는 [1인칭 슈팅 게임이다](https://ko.wikipedia.org/wiki/1인칭_슈팅_게임 "wikilink"). 출시 플랫폼으로는 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [엑스박스 원이](../Page/엑스박스_원.md "wikilink") 있다.
+《**배틀필드 V**》 는 2018년 10월 19일에 [EA DICE에서](../Page/EA_디지털_일루션스_크리에이티브_엔터테인먼트.md "wikilink") 출시한 [제 2차 세계대전을](https://ko.wikipedia.org/wiki/제_2차_세계대전 "wikilink") 배경으로 하는 [1인칭 슈팅 게임이다](../Page/1인칭_슈팅_게임.md "wikilink"). 출시 플랫폼으로는 [마이크로소프트 윈도우](../Page/마이크로소프트_윈도우.md "wikilink"), [플레이스테이션 4](../Page/플레이스테이션_4.md "wikilink"), [엑스박스 원이](../Page/엑스박스_원.md "wikilink") 있다.
 
 ## 각주
 

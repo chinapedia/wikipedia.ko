@@ -308,7 +308,7 @@ VA-11 HALL-A의 음료 제작 레시피
   - [VA-11 HALL-A 공식 홈페이지 *(VA11 HALL-A)*](http://waifubartending.com//)
 
   -
-[분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:리눅스 게임](https://ko.wikipedia.org/wiki/분류:리눅스_게임 "wikilink") [분류:MacOS 게임](https://ko.wikipedia.org/wiki/분류:MacOS_게임 "wikilink") [분류:인디 게임](https://ko.wikipedia.org/wiki/분류:인디_게임 "wikilink") [분류:어드벤처 게임](https://ko.wikipedia.org/wiki/분류:어드벤처_게임 "wikilink") [분류:스팀 배급 게임](https://ko.wikipedia.org/wiki/분류:스팀_배급_게임 "wikilink") [분류:노벨 게임](https://ko.wikipedia.org/wiki/분류:노벨_게임 "wikilink") [분류:생활 시뮬레이션 게임](https://ko.wikipedia.org/wiki/분류:생활_시뮬레이션_게임 "wikilink") [분류:사이버펑크 게임](https://ko.wikipedia.org/wiki/분류:사이버펑크_게임 "wikilink") [분류:성소수자 관련 게임](https://ko.wikipedia.org/wiki/분류:성소수자_관련_게임 "wikilink") [분류:2070년대를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:2070년대를_배경으로_한_비디오_게임 "wikilink")
+[분류:윈도우 게임](https://ko.wikipedia.org/wiki/분류:윈도우_게임 "wikilink") [분류:리눅스 게임](https://ko.wikipedia.org/wiki/분류:리눅스_게임 "wikilink") [분류:MacOS 게임](https://ko.wikipedia.org/wiki/분류:MacOS_게임 "wikilink") [분류:인디 게임](https://ko.wikipedia.org/wiki/분류:인디_게임 "wikilink") [분류:어드벤처 게임](https://ko.wikipedia.org/wiki/분류:어드벤처_게임 "wikilink") [분류:노벨 게임](https://ko.wikipedia.org/wiki/분류:노벨_게임 "wikilink") [분류:생활 시뮬레이션 게임](https://ko.wikipedia.org/wiki/분류:생활_시뮬레이션_게임 "wikilink") [분류:사이버펑크 게임](https://ko.wikipedia.org/wiki/분류:사이버펑크_게임 "wikilink") [분류:성소수자 관련 게임](https://ko.wikipedia.org/wiki/분류:성소수자_관련_게임 "wikilink") [분류:2070년대를 배경으로 한 비디오 게임](https://ko.wikipedia.org/wiki/분류:2070년대를_배경으로_한_비디오_게임 "wikilink")
 
 1.
 2.

@@ -243,7 +243,7 @@
 | [쎄라](https://ko.wikipedia.org/wiki/쎄라_파반 "wikilink")           | 1  | 2011                             |
 | [아우리](../Page/아우레아_크루즈.md "wikilink")                          | 1  | 2009                             |
 | [안드레이아](https://ko.wikipedia.org/wiki/안드레이아_스포르진 "wikilink")   | 1  | 2007                             |
-| [안혜진](https://ko.wikipedia.org/wiki/안혜진 "wikilink")            | 1  | 2019                             |
+| [안혜진](../Page/안혜진.md "wikilink")                               | 1  | 2019                             |
 | [야나](https://ko.wikipedia.org/wiki/야나_아가예바 "wikilink")         | 1  | 2013                             |
 | [어나이](../Page/어도라_어나이.md "wikilink")                           | 1  | 2019                             |
 | [우주리](../Page/우주리.md "wikilink")                               | 1  | 2010                             |
