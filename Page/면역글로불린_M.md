@@ -12,7 +12,7 @@
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:IgM_scheme.svg "wikilink")
 
-IgM은 여러 개가 모여 [이황결합](https://ko.wikipedia.org/wiki/이황결합 "wikilink")을 통하여 [공유적으로](https://ko.wikipedia.org/wiki/공유결합 "wikilink") 연결된다. 대개는 오합체이나, 육합체도 존재한다. 오량체일 때 IgM의 [분자량](https://ko.wikipedia.org/wiki/분자량 "wikilink")은 약 970 kDa이다.\[5\] 각 [단량체](https://ko.wikipedia.org/wiki/단량체 "wikilink")가 항원결합자리 두 개를 가지고 있기 때문에, 오합체 IgM은 10개의 결합자리를 갖는다. 그러나 항원의 크기 때문에 결합자리가 가려서 일반적으로 10개의 결합자리 모두가 [항원](../Page/항원.md "wikilink")과 결합할 수는 없다.
+IgM은 여러 개가 모여 [이황결합](https://ko.wikipedia.org/wiki/이황결합 "wikilink")을 통하여 [공유적으로](https://ko.wikipedia.org/wiki/공유결합 "wikilink") 연결된다. 대개는 오합체이나, 육합체도 존재한다. 오량체일 때 IgM의 [분자량](https://ko.wikipedia.org/wiki/분자량 "wikilink")은 약 970 kDa이다.\[5\] 각 [단량체](../Page/단량체.md "wikilink")가 항원결합자리 두 개를 가지고 있기 때문에, 오합체 IgM은 10개의 결합자리를 갖는다. 그러나 항원의 크기 때문에 결합자리가 가려서 일반적으로 10개의 결합자리 모두가 [항원](../Page/항원.md "wikilink")과 결합할 수는 없다.
 
 [J 사슬은](https://ko.wikipedia.org/wiki/J_사슬 "wikilink") 오합체 IgM에는 존재하지만 육합체에는 존재하지 않는데,  J 사슬 없이도 오합체 IgM이 생성될 수 있다. J 사슬이 있는 오합체 IgM보다 J 사슬이 없는 육합체 IgM이 [보체](../Page/보체.md "wikilink") 고정 효율이 높다.\[6\]\[7\] J 사슬이 있는 오합체 IgM의 비율이나, J 사슬이 있는 오합체에 J 사슬이 몇 개 존재하는지에 대해서는 알려지지 않았다.\[8\]
 
