@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [TV비평 시청자데스크의 에피소드 목록](https://ko.wikipedia.org/wiki/TV비평_시청자데스크의_에피소드_목록).
 
 
-아래는 [KBS 1TV의](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 시청자 의견을 전달하는 TV비평 옴부즈맨 프로그램인 **《[TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink")》**의 방영 목록이다.
+아래는 [KBS 1TV의](../Page/KBS_1TV.md "wikilink") 시청자 의견을 전달하는 TV비평 옴부즈맨 프로그램인 **《[TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink")》**의 방영 목록이다.
 
 ## 방송 회차
 

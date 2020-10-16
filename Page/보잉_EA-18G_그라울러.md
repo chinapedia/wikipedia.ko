@@ -1,11 +1,11 @@
 > This article is converted from Wikipedia: [보잉 EA-18G 그라울러](https://ko.wikipedia.org/wiki/보잉_EA-18G_그라울러).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:US.NAVY_EA-18G\(No.166931\)_ALQ-99F_TJS_of_VAQ-141_at_MCAS_IWAKUNI_20150503.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:US.NAVY_EA-18G\(No.166942\)_ALQ-218\(V\)2_of_VAQ-135_at_MCAS_IWAKUNI_20150503-02.JPG "wikilink") **보잉 EA-18G 그라울러**(Boeing EA-18G Growler)는 F/A-18F 슈퍼 호넷의 전문화 기종으로 미국 해군의 항공모함용 전자전기이다. EA-18G는 미국 해군의 [노스럽 그러먼 EA-6B 프라울러의](../Page/노스럽_그러먼_EA-6B_프라울러.md "wikilink") 역할을 대체했다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:US.NAVY_EA-18G\(No.166931\)_ALQ-99F_TJS_of_VAQ-141_at_MCAS_IWAKUNI_20150503.JPG "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:US.NAVY_EA-18G\(No.166942\)_ALQ-218\(V\)2_of_VAQ-135_at_MCAS_IWAKUNI_20150503-02.JPG "wikilink") **보잉 EA-18G 그라울러**(Boeing EA-18G Growler)는 [F/A-18F 슈퍼 호넷의](https://ko.wikipedia.org/wiki/F/A-18F_슈퍼_호넷 "wikilink") 전문화 기종으로 미국 해군의 항공모함용 전자전기이다. EA-18G는 미국 해군의 [노스럽 그러먼 EA-6B 프라울러의](../Page/노스럽_그러먼_EA-6B_프라울러.md "wikilink") 역할을 대체했다.
 
 ## 역사
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:EA-18G_060803-F-0000X-003.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:EA-18G_Growler_VX-9_from_below_2008.jpg "wikilink") [노스럽 그러먼 EA-6B 프라울러를](../Page/노스럽_그러먼_EA-6B_프라울러.md "wikilink") 대체하기 위해 개발되었다. 2006년 8월 16일 초도비행을 하고 2009년 9월 22일 부터 실전배치 되었다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:EA-18G_060803-F-0000X-003.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:EA-18G_Growler_VX-9_from_below_2008.jpg "wikilink") [노스럽 그러먼 EA-6B 프라울러를](../Page/노스럽_그러먼_EA-6B_프라울러.md "wikilink") 대체하기 위해 개발되었다. 2006년 8월 16일 초도비행을 했으며, 2009년 9월 22일 부터 실전배치 되었다.
 
 전자전기는 전쟁 초기 적의 방공망과 지휘통신망을 무력화해 공습에 무방비로 노출되게 한다.
 
@@ -17,9 +17,9 @@
 
 그라울러는 항공모함에 탑재하기 때문에, 전자전용 재밍 포드와 대레이다 미사일을 함께 장착한다. 반면에 지상에서는 컴패스 콜이 전자전 공격만 하고, F-16CJ는 대레이다 미사일 공격만 한다. 이스라엘은 [네바팀 공군기지의](https://ko.wikipedia.org/wiki/네바팀_공군기지 "wikilink") [나숀 비행대대에](https://ko.wikipedia.org/wiki/나숀_비행대대 "wikilink") 3대가 배치된 나숀 샤빗(Nachshon Shavi) 전자전기 중 한 대가 적의 대공 레이다에 전자전 공격을 하면, F-15나 F-16이 적의 레이다 기지를 공습한다. 2007년 시리아 원전을 공습할 때 나숀 샤빗 전자전기를 사용했다. [오차드 작전](../Page/오차드_작전.md "wikilink") 참조. 한국이 그라울러 수입을 검토한 적은 있지만, 나숀 샤빗 전자전기 구매를 검토했었다는 보도는 없었다.
 
-2018년 7월 29일, 일본 [항공 자위대는](https://ko.wikipedia.org/wiki/항공_자위대 "wikilink") 그라울러 도입을 검토중이다. [F-35](https://ko.wikipedia.org/wiki/F-35 "wikilink")에도 강력한 재밍 포드가 있지만, 그라울러의 [:en:AN/ALQ-99](https://ko.wikipedia.org/wiki/:en:AN/ALQ-99 "wikilink") 재밍 포드는 매우 강력하다.
+2018년 7월 29일, 일본 [항공 자위대는](https://ko.wikipedia.org/wiki/항공_자위대 "wikilink") 그라울러 도입을 검토중이다. 왜냐하면, [F-35](https://ko.wikipedia.org/wiki/F-35 "wikilink")에도 강력한 재밍 포드가 있지만, 그라울러의 [:en:AN/ALQ-99](https://ko.wikipedia.org/wiki/:en:AN/ALQ-99 "wikilink") 재밍 포드는 매우 강력하기 때문으로 알려졌다.
 
-날개 하부에 4개, 동체 하부에 1개로 최대 5개의 [:en:AN/ALQ-99](https://ko.wikipedia.org/wiki/:en:AN/ALQ-99 "wikilink") 재밍 포드를 장착하고, 여기에 [암람](https://ko.wikipedia.org/wiki/암람 "wikilink") 2발 또는 [AGM-88 함](../Page/AGM-88_함.md "wikilink") 2발을 장착하도록 개발되었다. 장거리 임무시에는 재머 3개에 [외부연료탱크](https://ko.wikipedia.org/wiki/외부연료탱크 "wikilink") 2개, 그리고 [암람](https://ko.wikipedia.org/wiki/암람 "wikilink") 2발 또는 [AGM-88 함](../Page/AGM-88_함.md "wikilink") 2발을 장착힌디. [AIM-9](https://ko.wikipedia.org/wiki/AIM-9 "wikilink")를 장착하는 날개 끝에는 [:en:AN/ALQ-218](https://ko.wikipedia.org/wiki/:en:AN/ALQ-218 "wikilink") 광대역 수신기가 장착되어 있다. 기수에는 [AN/APG-79](https://ko.wikipedia.org/wiki/AN/APG-79 "wikilink") AESA 레이다를 장착했다. 그라울러는 날개 끝에 저주파와 고주파를 수신하는 광대역 수신기로 적의 전파를 수집, 날개 하부와 동체 하부에 5개나 장착한 재밍 포드로 저주파와 고주파의 방해전파를 송신하다.
+날개 하부에 4개, 동체 하부에 1개로 최대 5개의 [:en:AN/ALQ-99](https://ko.wikipedia.org/wiki/:en:AN/ALQ-99 "wikilink") 재밍 포드를 장착하고, 여기에 [암람](https://ko.wikipedia.org/wiki/암람 "wikilink") 2발 또는 [AGM-88 함](../Page/AGM-88_함.md "wikilink") 2발을 장착하도록 개발되었다. 장거리 임무시에는 재머 3개에 [외부연료탱크](https://ko.wikipedia.org/wiki/외부연료탱크 "wikilink") 2개, 그리고 [암람](https://ko.wikipedia.org/wiki/암람 "wikilink") 2발 또는 [AGM-88 함](../Page/AGM-88_함.md "wikilink") 2발을 장착힌다. [AIM-9](https://ko.wikipedia.org/wiki/AIM-9 "wikilink")를 장착하는 날개 끝에는 [:en:AN/ALQ-218](https://ko.wikipedia.org/wiki/:en:AN/ALQ-218 "wikilink") 광대역 수신기가 장착되어 있다. 기수에는 [AN/APG-79](https://ko.wikipedia.org/wiki/AN/APG-79 "wikilink") AESA 레이다를 장착했다. 그라울러는 날개 끝에 저주파와 고주파를 수신하는 광대역 수신기로 적의 전파를 수집, 날개 하부와 동체 하부에 5개나 장착한 재밍 포드로 저주파와 고주파의 방해전파를 송신한다.
 
 ## 재머와 스텔스기
 

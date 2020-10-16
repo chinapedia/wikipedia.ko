@@ -91,7 +91,7 @@
 
 ## 등장 메카
 
-### VS 비클
+### VS 피클
 
   - <span style="font-weight:bold; color:#ffa500">굿 스트라이커</span>
 

@@ -16,7 +16,7 @@
 ## 외부 링크
 
   -
-[분류:2017년 노래](https://ko.wikipedia.org/wiki/분류:2017년_노래 "wikilink") [분류:2017년 싱글](https://ko.wikipedia.org/wiki/분류:2017년_싱글 "wikilink") [분류:트와이스의 노래](https://ko.wikipedia.org/wiki/분류:트와이스의_노래 "wikilink")
+[분류:2017년 노래](https://ko.wikipedia.org/wiki/분류:2017년_노래 "wikilink") [분류:2017년 싱글](https://ko.wikipedia.org/wiki/분류:2017년_싱글 "wikilink") [분류:트와이스의 노래](https://ko.wikipedia.org/wiki/분류:트와이스의_노래 "wikilink") [분류:코리아 K-Pop 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:코리아_K-Pop_핫_100_1위_싱글 "wikilink")
 
 1.
 2.

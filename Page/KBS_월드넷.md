@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 월드넷](https://ko.wikipedia.org/wiki/KBS_월드넷).
 
 
-《**KBS 월드넷**》은 대한민국의 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 제작된 교양 프로그램이다.
+《**KBS 월드넷**》은 대한민국의 [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 제작된 교양 프로그램이다.
 
 ## 기획의도
 

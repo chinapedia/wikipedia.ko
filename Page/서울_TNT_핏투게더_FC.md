@@ -88,7 +88,7 @@
 
   - [김혁진](../Page/김혁진.md "wikilink") : 2017년 [김해시청과](../Page/김해시청_축구단.md "wikilink") 계약 체결
 
-  - [김현우](https://ko.wikipedia.org/wiki/김현우 "wikilink") : 2016년 [대전 코레일과](https://ko.wikipedia.org/wiki/대전_코레일_축구단 "wikilink") 계약 체결
+  - [김현우](../Page/김현우.md "wikilink") : 2016년 [대전 코레일과](https://ko.wikipedia.org/wiki/대전_코레일_축구단 "wikilink") 계약 체결
 
   - [나효성](https://ko.wikipedia.org/wiki/나효성 "wikilink") : 2017년 [캄보디아 ARMY과](https://ko.wikipedia.org/wiki/캄보디아_ARMY_FC "wikilink") 계약 체결
 
