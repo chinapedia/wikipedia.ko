@@ -40,4 +40,8 @@
 | [2006년](../Page/2006년.md "wikilink") [8월 28일](../Page/8월_28일.md "wikilink") \~ [2007년](../Page/2007년.md "wikilink") [8월 24일](../Page/8월_24일.md "wikilink") | 밤 8시 55분 \~ 밤 9시 20분  |
 | [2007년](../Page/2007년.md "wikilink") [8월 27일](../Page/8월_27일.md "wikilink") \~ [2009년](../Page/2009년.md "wikilink") [2월 27일](../Page/2월_27일.md "wikilink") | 아침 6시 35분 \~ 아침 7시    |
 
+## 동일 소재 프로그램
+
+  - [TV 영어마을](https://ko.wikipedia.org/wiki/TV_영어마을 "wikilink")
+
 [분류:한국교육방송공사의 텔레비전 프로그램](https://ko.wikipedia.org/wiki/분류:한국교육방송공사의_텔레비전_프로그램 "wikilink")

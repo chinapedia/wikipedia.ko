@@ -11,7 +11,7 @@ WebM 파일은 [VP8](../Page/VP8.md "wikilink") 비디오와 [Vorbis](../Page/Vo
 
 [구글 I/O는](https://ko.wikipedia.org/wiki/구글_I/O "wikilink") [모질라 파이어폭스](../Page/모질라_파이어폭스.md "wikilink"), [오페라](../Page/오페라_\(웹_브라우저\).md "wikilink"), [구글 크롬을](https://ko.wikipedia.org/wiki/구글_크롬 "wikilink") 지원한다고 밝혔다. VP8 코덱이 설치되어 있으면 [인터넷 익스플로러 9에서](../Page/인터넷_익스플로러_9.md "wikilink") WebM 파일들을 지원하며 [사파리의](../Page/사파리_\(웹_브라우저\).md "wikilink") 경우 [퀵타임](../Page/퀵타임.md "wikilink")에 설치된 코덱([페리안](https://ko.wikipedia.org/wiki/페리안 "wikilink") 등의 코덱 요소)으로 지원 받을 수 있다. [에피파니](../Page/웹_\(웹_브라우저\).md "wikilink") 또한 [GStreamer](../Page/GStreamer.md "wikilink") 멀티미디어 프레임워크를 통해 지원한다.
 
-[유튜브](../Page/유튜브.md "wikilink")에서는 [HTML5](../Page/HTML5.md "wikilink") 플레이어를 시범 운영하면서 WebM을 지원한다. [로지텍](../Page/로지텍.md "wikilink")은 [화상 통화](https://ko.wikipedia.org/wiki/화상_통화 "wikilink") 서비스의 일부로 WebM을 지원한다.
+[유튜브](../Page/유튜브.md "wikilink")에서는 [HTML5](../Page/HTML5.md "wikilink") 플레이어를 시범 운영하면서 WebM을 지원한다. [로지텍](../Page/로지텍.md "wikilink")은 [화상 통화](../Page/화상_통화.md "wikilink") 서비스의 일부로 WebM을 지원한다.
 
 ## 같이 보기
 

@@ -86,7 +86,7 @@
 
 ## 각주
 
-[분류:2008년 싱글](https://ko.wikipedia.org/wiki/분류:2008년_싱글 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink")
+[분류:2008년 싱글](https://ko.wikipedia.org/wiki/분류:2008년_싱글 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.  [Čns Ifpi](http://www.ifpicr.cz/hitparada/index.php?a=titul&hitparada=2&titul=146140&sec=1daeec0c51820d8afe126801253feb34)
 2.  [그리스 싱글 차트](http://www.billboard.com/bbcom/charts/chart_display.jsp?g=Singles&f=Greece) Retrieved September 13, 2008

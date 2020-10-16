@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JYJ](https://ko.wikipedia.org/wiki/JYJ).
 
 
-**JYJ**는 [동방신기](../Page/동방신기.md "wikilink") 출신의 [김재중](../Page/김재중.md "wikilink"), [김준수로](../Page/김준수_\(가수\).md "wikilink") 구성된 2인조 퍼포먼스형 남성 그룹이다. [JYJ](../Page/JYJ.md "wikilink")는 [동방신기](../Page/동방신기.md "wikilink") 출신의 재중 (Jaejoong), 유천 (Yuchun), 준수 (Junsu)의 영어 알파벳 첫 글자를 따서 지은 이름이다. 본래 2003년 5인조 남성 그룹 [동방신기](../Page/동방신기.md "wikilink")로 데뷔해 활동했으나 [SM 엔터테인먼트와의](../Page/SM_엔터테인먼트.md "wikilink") 불공정한 전속계약에 문제를 제기하며 독립했다.\[1\]\[2\]\[3\]\[4\] 공식적으로 JYJ라는 이름으로 2010년부터 [씨제스엔터테인먼트](../Page/씨제스엔터테인먼트.md "wikilink") 소속으로 활동하고 있다.\[5\] 그러던 중, 2019년 4월 멤버 박유천이 [필로폰](../Page/메스암페타민.md "wikilink") 투약을 한 사실이 밝혀져 4월 23일 소속사와의 전속 계약이 해지되면서 박유천은 JYJ에서도 탈퇴하였다.
+**JYJ**는 [동방신기](../Page/동방신기.md "wikilink") 출신의 [김재중](../Page/김재중.md "wikilink"), [김준수로](../Page/김준수_\(가수\).md "wikilink") 구성된 2인조 퍼포먼스형 남성 그룹이다. [JYJ](../Page/JYJ.md "wikilink")는 [동방신기](../Page/동방신기.md "wikilink") 출신의 재중 (Jaejoong), 유천 (Yuchun), 준수 (Junsu)의 영어 알파벳 첫 글자를 따서 지은 이름이다. 본래 2003년 5인조 남성 그룹 [동방신기](../Page/동방신기.md "wikilink")로 데뷔해 활동했으나 [SM 엔터테인먼트와의](../Page/SM_엔터테인먼트.md "wikilink") 불공정한 전속계약에 문제를 제기하며 독립했다.\[1\]\[2\]\[3\]\[4\] 공식적으로 JYJ라는 이름으로 2010년부터 [씨제스엔터테인먼트](../Page/씨제스엔터테인먼트.md "wikilink") 소속으로 활동하고 있다.\[5\] 그러던 중, 2019년 4월 멤버 박유천이 [메스암페타민](../Page/메스암페타민.md "wikilink") 투약을 한 사실이 밝혀져 4월 24일 소속사와의 전속 계약이 해지되면서 박유천은 JYJ에서도 탈퇴하였다.
 
 현재는 박유천의 탈퇴로 인해 그룹 활동이 사실상 중단된 상황이다.
 
@@ -57,7 +57,7 @@
 <li>본명 : 박유천 (朴裕千)</li>
 <li>생년월일 : </li>
 <li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a> <a href="https://ko.wikipedia.org/wiki/송파구" title="wikilink">송파구</a></li>
-<li>활동기간 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_23일.md" title="wikilink">4월 23일</a></li>
+<li>활동기간 : <a href="../Page/2010년.md" title="wikilink">2010년</a> <a href="../Page/10월_14일.md" title="wikilink">10월 14일</a> ~ <a href="../Page/2019년.md" title="wikilink">2019년</a> <a href="../Page/4월_24일.md" title="wikilink">4월 24일</a></li>
 </ul></td>
 </tr>
 </tbody>

@@ -141,7 +141,7 @@
 
 <references/>
 
-[분류:2008년 노래](https://ko.wikipedia.org/wiki/분류:2008년_노래 "wikilink") [분류:2008년 싱글](https://ko.wikipedia.org/wiki/분류:2008년_싱글 "wikilink") [분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:팝 록 노래](https://ko.wikipedia.org/wiki/분류:팝_록_노래 "wikilink")
+[분류:2008년 노래](https://ko.wikipedia.org/wiki/분류:2008년_노래 "wikilink") [분류:2008년 싱글](https://ko.wikipedia.org/wiki/분류:2008년_싱글 "wikilink") [분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:팝 록 노래](https://ko.wikipedia.org/wiki/분류:팝_록_노래 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.
 2.

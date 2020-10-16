@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS경인방송센터](https://ko.wikipedia.org/wiki/KBS경인방송센터).
 
 
-**KBS경인방송센터**(韓國放送公社 京仁放送-)는 [한국방송공사](../Page/한국방송공사.md "wikilink") 정책기획본부 지역정책실 산하 조직으로 구성된 지역방송국으로 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")와 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역 방송권을 별개로 분리하여, 경인지역 로컬 뉴스를 중점적으로 자체 제작하고 있다. KBS수원드라마제작센터 내에 위치하고 있는 이 방송국은 [2010년](../Page/2010년.md "wikilink") [8월 24일에](../Page/8월_24일.md "wikilink") 방송통신위원회(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink"))로부터 허가를 취득하였으며, 그 해 [9월 13일에](../Page/9월_13일.md "wikilink") 개국하였다\[1\]\[2\].
+**KBS경인방송센터**(韓國放送公社 京仁放送-)는 [한국방송공사](../Page/한국방송공사.md "wikilink") 정책기획본부 지역정책실 산하 조직으로 구성된 지역방송국으로 [인천광역시](https://ko.wikipedia.org/wiki/인천광역시 "wikilink")와 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") 지역 방송권을 별개로 분리하여, 경인지역 로컬 뉴스를 중점적으로 자체 제작하고 있다. KBS수원드라마제작센터 내에 위치하고 있는 이 방송국은 [2010년](../Page/2010년.md "wikilink") [8월 24일에](../Page/8월_24일.md "wikilink") 방송통신위원회로부터 지역방송국 허가를 취득하였으며, 그 해 [9월 13일에](../Page/9월_13일.md "wikilink") 개국하였다\[1\]\[2\].
 
 ## 조직
 
@@ -30,7 +30,7 @@
 
 #### 해결 방안
 
-[2011년](../Page/2011년.md "wikilink") [4월](../Page/4월.md "wikilink")에 [방송통신위원회](../Page/대한민국_방송통신위원회.md "wikilink")(현 [과학기술정보통신부](https://ko.wikipedia.org/wiki/과학기술정보통신부 "wikilink"))와 각 방송사들이 논의한 결과, KBS의 디지털 TV 채널을 변경하는 대신 SBS와 EBS 디지털 TV방송 중계시설을 신설하여 임시채널로 송출하는 것으로 결론이 났다. 우선 임시로 채널을 배정한 뒤, [2013년](../Page/2013년.md "wikilink") [10월 30일까지](../Page/10월_30일.md "wikilink") 모든 채널을 확정된 채널로 변경하면서 남산송신소와의 혼신 문제도 사라졌으며, 해당지역 난시청도 해소되었다.\[8\]
+[2011년](../Page/2011년.md "wikilink") [4월](../Page/4월.md "wikilink")에 [방송통신위원회를](../Page/대한민국_방송통신위원회.md "wikilink") 비롯한, 지상파 3사와 협의한 결과, KBS의 디지털 TV 채널을 변경하는 대신 SBS와 EBS 디지털 TV방송 중계시설을 신설하여 임시채널로 송출하는 것으로 가닥을 잡았다. 우선 임시로 채널을 배정한 뒤, [2013년](../Page/2013년.md "wikilink") [10월 30일까지](../Page/10월_30일.md "wikilink") 모든 채널을 확정된 채널로 변경하면서 남산송신소와의 혼신 문제도 사라졌으며, 해당지역 난시청 문제는 어느 정도 해소되었다.\[8\]
 
 ## 방송 송출 시설망
 

@@ -32,7 +32,7 @@
   - 김민정, 최승순 - [마케팅](../Page/마케팅.md "wikilink")
   - 장재훈, 장효길, 김혜진, 서진아, 고경아 - [A\&R](https://ko.wikipedia.org/wiki/A&R "wikilink")
   - 송혜란 - 스타일리스트
-  - 강호 - [메이크업](https://ko.wikipedia.org/wiki/화장_\(미용\) "wikilink")
+  - 강호 - [메이크업](../Page/화장_\(미용\).md "wikilink")
   - 김제원 - [사진](../Page/사진.md "wikilink")
   - 이카마 - 자켓 디자인
   - 허은숙, 김민희 - [녹음](https://ko.wikipedia.org/wiki/녹음 "wikilink") 엔지니어
