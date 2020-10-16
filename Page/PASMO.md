@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [PASMO](https://ko.wikipedia.org/wiki/PASMO).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:PASMO_Card.jpg "wikilink") [섬네일](https://ko.wikipedia.org/wiki/파일:PASMO_Card_\(Reverse\).jpg "wikilink") **PASMO**는 2007년 3월 18일부터 서비스를 시작한 [주식회사](../Page/주식회사.md "wikilink") [파스모](https://ko.wikipedia.org/wiki/파스모 "wikilink")가 발행하는 자동 제어 규격 / 비접촉식 IC 카드 방식의 대중교통 카드 · 전자 화폐이다. 일부 사업자 · 노선 · 지역을 제외한 [간토 지방과](../Page/간토_지방.md "wikilink") [야마나시](../Page/야마나시현.md "wikilink") 현, [시즈오카](../Page/시즈오카현.md "wikilink") 현 동부 철도 · 노선 버스 등에서 사용할 수 있다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:PASMO_Card_\(Reverse\).jpg "wikilink") **PASMO**는 2007년 3월 18일부터 서비스를 시작한 [주식회사](../Page/주식회사.md "wikilink") [파스모](https://ko.wikipedia.org/wiki/파스모 "wikilink")가 발행하는 자동 제어 규격 / 비접촉식 IC 카드 방식의 대중교통 카드 · 전자 화폐이다. 일부 사업자 · 노선 · 지역을 제외한 [간토 지방과](../Page/간토_지방.md "wikilink") [야마나시](../Page/야마나시현.md "wikilink") 현, [시즈오카](../Page/시즈오카현.md "wikilink") 현 동부 철도 · 노선 버스 등에서 사용할 수 있다.
 
 상호호환인 [SUICA](../Page/Suica.md "wikilink") 와는 다르게 환불시 별도의 수수료과 부과되 지 않으며, 환불은 [도영지하철](https://ko.wikipedia.org/wiki/도에이_지하철 "wikilink"), [도쿄메트로](../Page/도쿄_지하철_\(기업\).md "wikilink"), [게이세이전철](../Page/게이세이_전철.md "wikilink") 등에서 가능하며 [JR히가시니혼](../Page/동일본여객철도.md "wikilink") 에서는 환불이 불가능하다.
 
