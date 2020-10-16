@@ -94,8 +94,8 @@
 
 <!-- end list -->
 
-  - [아침의 광장 안동](../Page/아침의_광장.md "wikilink"):월\~금,오전8:30\~58 28분간
-  - [즐거운 라디오 여기는 안동입니다](https://web.archive.org/web/20170706034739/http://andong.kbs.co.kr/radio/radio/about/):월\~금,오후4:05\~55 50분간
+  - [아침의 광장](https://ko.wikipedia.org/wiki/아침의_광장_\(KBS안동방송국\) "wikilink"):월\~금,오전8:30\~58 28분간
+  - [즐거운 라디오 여기는 안동입니다](http://program.kbs.co.kr/1radio/local/radioand/pc/index.html):월\~금,오후4:05\~5:00 55분간
 
 ## 방송 송출 시설망
 

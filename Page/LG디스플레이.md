@@ -7,19 +7,19 @@ LG디스플레이의 광시야각 기술인 IPS는 상하좌우 어느 각도에
 
 ## 연혁
 
-[1987년](../Page/1987년.md "wikilink") TFT-LCD 개발을 시작한 LG 디스플레이는 세계 최초 기술 및 신개념 제품을 개발해 세계 디스플레이 산업을 이끌어 왔다. 2004년에는 한국과 미국 증시에 동시 상장하여 세계적인 기업으로 인정 받았으며, 2008년 부터 OLED 및 플렉시블 디스플레이로의 사업영역 확장에 대비해 LG 디스플레이로 이름을 바꾸고 최첨단 디지털 디스플레이 산업을 선도하고 있다.
+[1987년](../Page/1987년.md "wikilink") TFT-LCD 개발을 시작한 LG 디스플레이는 세계 최초 기술 및 신개념 제품을 개발해 세계 디스플레이 산업을 이끌어 왔다. 2004년에는 한국과 미국 증시에 동시 상장하여 세계적인 기업으로 인정받았으며, 2008년부터 OLED 및 플렉시블 디스플레이로의 사업영역 확장에 대비해 LG 디스플레이로 이름을 바꾸고 최첨단 디지털 디스플레이 산업을 선도하고 있다.
 
-  - J/V출범前: 1985\~1998년
+  - J/V출범前: 1985년 \~ 1998년
 
 <!-- end list -->
 
-  - [1985년](../Page/1985년.md "wikilink") [2월](../Page/2월.md "wikilink") 금성소프트웨어(주) 설립
+  - [1985년](../Page/1985년.md "wikilink") [2월](../Page/2월.md "wikilink") **금성소프트웨어**로 설립
   - [1987년](../Page/1987년.md "wikilink") [1월](../Page/1월.md "wikilink") [중앙연구소에서](../Page/금성사.md "wikilink") TFT-LCD 개발 시작
   - [1990년](../Page/1990년.md "wikilink") [3월](../Page/3월.md "wikilink") 안양연구소 설립
   - [1993년](../Page/1993년.md "wikilink") [9월](../Page/9월.md "wikilink") [LG전자](../Page/LG전자.md "wikilink") 내 LCD 사업본부 설립
-  - [1995년](../Page/1995년.md "wikilink") [1월](../Page/1월.md "wikilink") LG소프트웨어(주)로 상호 변경
+  - [1995년](../Page/1995년.md "wikilink") [1월](../Page/1월.md "wikilink") 상호명을 **금성소프트웨어**에서 **LG소프트웨어**로 변경
   - [1995년](../Page/1995년.md "wikilink") [9월](../Page/9월.md "wikilink") 구미 LCD 1공장(P1) 양산
-  - [1997년](../Page/1997년.md "wikilink") [1월](../Page/1월.md "wikilink") LG소프트(주)로 상호 변경
+  - [1997년](../Page/1997년.md "wikilink") [1월](../Page/1월.md "wikilink") 상호명을 **LG소프트웨어**에서 **LG소프트**로 변경
   - [1997년](../Page/1997년.md "wikilink") [12월](../Page/12월.md "wikilink") 구미 LCD 2공장(P2) 양산
   - [1998년](../Page/1998년.md "wikilink") [12월](../Page/12월.md "wikilink") [LG전자](../Page/LG전자.md "wikilink") 및 [LG반도체](https://ko.wikipedia.org/wiki/LG반도체 "wikilink")로 부터 TFT-LCD 관련 사업자산 영업 양수
 

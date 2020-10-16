@@ -201,7 +201,7 @@
 <!-- end list -->
 
   - [강원의 아침](../Page/강원의_아침.md "wikilink") (시사교양, 월\~금,8:30\~8:58)(진행 송준규)
-  - [생방송 오늘은](https://ko.wikipedia.org/wiki/생방송_오늘은 "wikilink") (시사교양, 월\~금,17:05\~17:58)(진행 [김서련](https://ko.wikipedia.org/wiki/김서련 "wikilink"))
+  - [생방송 오늘은](https://ko.wikipedia.org/wiki/생방송_오늘은 "wikilink") (시사교양, 월\~금,17:05\~17:58)(진행 [노효상](https://ko.wikipedia.org/wiki/노효상 "wikilink"))
 
 ### 음악FM
 
@@ -283,7 +283,7 @@
   - [강서은](../Page/강서은.md "wikilink") (2014년\~2015년, 현 퇴사)
   - [박소현](../Page/박소현_\(1992년\).md "wikilink") (2015년\~2017년, 현 KBS 서울본국)
   - [강지연](https://ko.wikipedia.org/wiki/강지연_\(아나운서\) "wikilink") (2017년\~2018년, 현 TBS 교통방송)
-  - [박하늬](https://ko.wikipedia.org/wiki/박하늬 "wikilink") (2001년\~2018년, 현 퇴사)
+  - [박하늬](https://ko.wikipedia.org/wiki/박하늬 "wikilink") (2000년\~2018년, 현 퇴사)
   - 이은주 (2018년\~ 현 퇴사)
   - 박서정 (1982년\~2020년, 정년퇴직)
 

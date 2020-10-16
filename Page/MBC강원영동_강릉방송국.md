@@ -84,7 +84,7 @@
 <tr class="odd">
 <td><p><a href="../Page/5_MBC_뉴스.md" title="wikilink">5 MBC 뉴스 강원</a></p></td>
 <td><p>월~금 10분</p></td>
-<td><p>월~금 오후 17:10 ~ 17:20</p></td>
+<td><p>월~금 오후 17:05 ~ 17:15</p></td>
 <td><p>김현수</p></td>
 </tr>
 <tr class="even">
@@ -94,7 +94,8 @@
 <td><p>월~금 오후 20:25 ~ 20:45<br />
 토 오후 20:20 ~ 20:35<br />
 일 오후 20:25 ~ 20:35</p></td>
-<td><p>민기원</p></td>
+<td><p>민기원<br />
+김현수</p></td>
 </tr>
 <tr class="odd">
 <td></td>

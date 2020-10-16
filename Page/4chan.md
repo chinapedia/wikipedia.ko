@@ -9,7 +9,7 @@
 
 4chan 유저들은 링크에 본래 나와야 할 내용 대신 [릭 애스틀리의 이미지가](../Page/릭롤링.md "wikilink") 나오도록 해서 낚거나 다른 웹사이트나 유저를 공격하거나, 관심을 받기 위해 협박 게시물을 올리는 등 여러 장난을 친다. [가디언](../Page/가디언.md "wikilink")지는 한때 4chan 커뮤니티를 두고 "미쳤고, 어리고, \[...\], 훌륭하고, 터무니없고, 두렵다"고 요약한 바 있다.\[8\]
 
-현재의 관리자는 [일본](../Page/일본.md "wikilink")의 [2채널](https://ko.wikipedia.org/wiki/2채널 "wikilink")을 관리했던 [니시무라 히로유키가](https://ko.wikipedia.org/wiki/니시무라_히로유키 "wikilink") 맡게 되었고, 이후 창립자였던 [크리스토퍼 풀은](../Page/크리스토퍼_풀.md "wikilink") 관리자를 떠났다.
+현재의 관리자는 [일본](../Page/일본.md "wikilink")의 [2채널](https://ko.wikipedia.org/wiki/2채널 "wikilink")을 관리했던 [니시무라 히로유키가](../Page/니시무라_히로유키.md "wikilink") 맡게 되었고, 이후 창립자였던 [크리스토퍼 풀은](../Page/크리스토퍼_풀.md "wikilink") 관리자를 떠났다.
 
 ## 배경
 

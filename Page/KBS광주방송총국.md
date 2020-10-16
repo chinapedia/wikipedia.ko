@@ -159,7 +159,7 @@ PC,모바일 MY K로 실시간 시청 가능
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 광주·전남</a></p></td>
 <td><p>15분</p></td>
-<td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 45분</p></td>
+<td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 50분</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/김한별" title="wikilink">김한별</a>(평일)</p></td>
 </tr>
 <tr class="even">
@@ -177,17 +177,17 @@ PC,모바일 MY K로 실시간 시청 가능
 <tr class="even">
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 광주·전남</a></p></td>
 <td><p>5분</p></td>
-<td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/임진숙" title="wikilink">임진숙</a></p></td>
+<td><p>금 저녁 7시 25분 ~ 7시 30분</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/임진숙" title="wikilink">임진숙</a>, <a href="https://ko.wikipedia.org/wiki/유도희" title="wikilink">유도희</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 광주·전남</a></p></td>
 <td><p>평일 15분<br />
-주말 10분</p></td>
+주말 5분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
-주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/김한별" title="wikilink">김한별</a>, <a href="https://ko.wikipedia.org/wiki/김해정" title="wikilink">김해정</a>(평일)<br />
-<a href="https://ko.wikipedia.org/wiki/임진숙" title="wikilink">임진숙</a>(주말)</p></td>
+주말 밤 9시 25분 ~ 9시 30분</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/임정섭" title="wikilink">임정섭</a>, <a href="https://ko.wikipedia.org/wiki/유도희" title="wikilink">유도희</a>(평일)<br />
+<a href="https://ko.wikipedia.org/wiki/임정섭" title="wikilink">임정섭</a>, <a href="https://ko.wikipedia.org/wiki/유도희" title="wikilink">유도희</a>, <a href="https://ko.wikipedia.org/wiki/김한별" title="wikilink">김한별</a>, <a href="../Page/정은아.md" title="wikilink">정은아</a>(주말)</p></td>
 </tr>
 </tbody>
 </table>
@@ -359,14 +359,12 @@ PC,모바일 MY K로 실시간 시청 가능
 
   - [김강용](https://ko.wikipedia.org/wiki/김강용 "wikilink")
   - [김광상](https://ko.wikipedia.org/wiki/김광상 "wikilink")
-  - [김기중](../Page/김기중.md "wikilink")
   - [류성호](https://ko.wikipedia.org/wiki/류성호 "wikilink")
   - [박상훈](https://ko.wikipedia.org/wiki/박상훈_\(기자\) "wikilink")
   - [박지성](https://ko.wikipedia.org/wiki/박지성_\(기자\) "wikilink")
   - [설경완](https://ko.wikipedia.org/wiki/설경완 "wikilink")
   - [윤주성](https://ko.wikipedia.org/wiki/윤주성 "wikilink")
   - [임병수](https://ko.wikipedia.org/wiki/임병수 "wikilink")
-  - [이한글](https://ko.wikipedia.org/wiki/이한글 "wikilink")
   - [지종익](https://ko.wikipedia.org/wiki/지종익 "wikilink")
   - [지창환](https://ko.wikipedia.org/wiki/지창환 "wikilink")
   - [최정민](https://ko.wikipedia.org/wiki/최정민 "wikilink")
@@ -376,10 +374,8 @@ PC,모바일 MY K로 실시간 시청 가능
   - [박찬기](../Page/박찬기.md "wikilink")
   - [양창희](https://ko.wikipedia.org/wiki/양창희 "wikilink")
   - [최송현](https://ko.wikipedia.org/wiki/최송현_\(기자\) "wikilink")
-  - [이인수](https://ko.wikipedia.org/wiki/이인수 "wikilink")
   - [곽선정](https://ko.wikipedia.org/wiki/곽선정 "wikilink")
   - [백미선](https://ko.wikipedia.org/wiki/백미선 "wikilink")
-  - [이진연](https://ko.wikipedia.org/wiki/이진연 "wikilink")
   - [김효신](https://ko.wikipedia.org/wiki/김효신 "wikilink")
   - [최혜진](https://ko.wikipedia.org/wiki/최혜진 "wikilink")
   - [정길훈](https://ko.wikipedia.org/wiki/정길훈 "wikilink")
@@ -389,7 +385,6 @@ PC,모바일 MY K로 실시간 시청 가능
   - [김애린](https://ko.wikipedia.org/wiki/김애린 "wikilink")
   - [손준수](https://ko.wikipedia.org/wiki/손준수 "wikilink")
   - [김호](https://ko.wikipedia.org/wiki/김호 "wikilink")
-  - [김서정](https://ko.wikipedia.org/wiki/김서정 "wikilink")
   - [하선아](https://ko.wikipedia.org/wiki/하선아 "wikilink")
   - [김정대](https://ko.wikipedia.org/wiki/김정대 "wikilink")
 

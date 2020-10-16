@@ -183,9 +183,9 @@
 </tbody>
 </table>
 
-  - [시사초점, 전남 동부입니다](https://web.archive.org/web/20170713094125/http://suncheon.kbs.co.kr/radio/sisajeonam/about/index.html)(월\~금,28분)(진행 윤형혁)
-  - [라디오 상담실](https://web.archive.org/web/20170713131651/http://suncheon.kbs.co.kr/radio/radio/about/index.html)(월\~금,35분)(진행 김다은)
-  - [행복충전, 라디오세상](https://web.archive.org/web/20170713120822/http://suncheon.kbs.co.kr/radio/happyradio/about/index.html)(월\~금,53분)(진행 김다은)
+  - [시사초점, 전남 동부입니다](http://program.kbs.co.kr/1radio/local/sisajeonam/pc/index.html)(월\~금,28분)(진행 윤형혁)
+  - [라디오 상담실](http://program.kbs.co.kr/1radio/local/radiosun/pc/index.html)(월\~금,35분)(진행 김다은)
+  - [행복충전, 라디오세상](http://program.kbs.co.kr/1radio/local/happyradiosun/pc/index.html)(월\~금,53분)(진행 김다은)
 
 ## 아나운서
 
@@ -205,7 +205,7 @@
   - [김형철](https://ko.wikipedia.org/wiki/김형철_\(아나운서\) "wikilink") : 현 [KBS전주방송총국](../Page/KBS전주방송총국.md "wikilink") 아나운서
   - [채윤아](https://ko.wikipedia.org/wiki/채윤아 "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
   - [이윤선](https://ko.wikipedia.org/wiki/이윤선_\(아나운서\) "wikilink") : 전 [MBC경남](../Page/MBC경남.md "wikilink") 아나운서, 현 스피치 대표
-  - [공진희](https://ko.wikipedia.org/wiki/공진희 "wikilink") : (2013\~2016), 현 퇴사
+  - [공진희](https://ko.wikipedia.org/wiki/공진희 "wikilink") : 전 [대구MBC](../Page/대구문화방송.md "wikilink") 기상캐스터, (2013\~2016), 현 퇴사
   - [정은아](../Page/정은아.md "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서
   - [변정연](https://ko.wikipedia.org/wiki/변정연_\(아나운서\) "wikilink") : (2016\~2017), 현 [원주MBC](https://ko.wikipedia.org/wiki/원주MBC "wikilink") 아나운서
   - [강은이](https://ko.wikipedia.org/wiki/강은이 "wikilink") : 현 [KBS광주방송총국](../Page/KBS광주방송총국.md "wikilink") 아나운서

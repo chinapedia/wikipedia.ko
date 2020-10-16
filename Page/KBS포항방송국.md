@@ -149,10 +149,11 @@
   - [오헌주](https://ko.wikipedia.org/wiki/오헌주 "wikilink") 보도국장
   - [김상배](https://ko.wikipedia.org/wiki/김상배 "wikilink") 보도국장
   - [유승영](https://ko.wikipedia.org/wiki/유승영 "wikilink") 취재부장
-  - [류재현](https://ko.wikipedia.org/wiki/류재현 "wikilink") 포항팀장
-  - [박충원](../Page/박충원.md "wikilink") 울진팀장
-  - [김민아](../Page/김민아.md "wikilink") 경주팀장
-  - [이종영](https://ko.wikipedia.org/wiki/이종영 "wikilink") 영덕팀장
+  - [류재현](https://ko.wikipedia.org/wiki/류재현 "wikilink")
+  - [정현교](https://ko.wikipedia.org/wiki/정현교 "wikilink") 취재부장
+  - [박준형](https://ko.wikipedia.org/wiki/박준형 "wikilink") 취재부장
+  - [김민아](../Page/김민아.md "wikilink")
+  - [정혜미](https://ko.wikipedia.org/wiki/정혜미 "wikilink")
 
 ## 리포터
 

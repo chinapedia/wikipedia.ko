@@ -145,8 +145,9 @@
 
 #### 교양
 
-  - [보물창고](https://web.archive.org/web/20151224171925/http://ulsan.kbs.co.kr/tv/treasure/about/)(수,50분)
-  - [이슈와사람](https://web.archive.org/web/20170703180338/http://ulsan.kbs.co.kr/tv/issue/about/)(금,40분)(진행 정혜경)
+  - [보물창고](http://program.kbs.co.kr/1tv/local/treasure/pc/index.html)(수,50분)(진행 신상륭, 이병철)
+  - [문화공감](http://program.kbs.co.kr/1tv/local/mhgg/pc/index.html)(화,15분)(진행 박수연 아나운서)
+  - [이슈인사이드](http://program.kbs.co.kr/1tv/local/issueinside/pc/index.html)(금,50분)(진행 김진영 UNIST 교수)
   - [생생투데이 사람과 세상](../Page/생생투데이_사람과_세상.md "wikilink")(월-금,20분)
   - [아침마당 부산](../Page/아침마당.md "wikilink")(금,1시간 5분)(부산수중계)
 
@@ -166,13 +167,8 @@
 
 <!-- end list -->
 
-  - [라디오 시사투데이](https://web.archive.org/web/20151224113108/http://ulsan.kbs.co.kr/radio/today/about/)(평일,30분 08:30\~08:58)(진행 정용조)
-  - [위풍당당 실버시대](https://web.archive.org/web/20170703162903/http://ulsan.kbs.co.kr/radio/silver/about/)(평일,53분)(진행 이성위)
-
-#### 음악FM
-
-  - [즐거운 음악여행](https://web.archive.org/web/20151224110830/http://ulsan.kbs.co.kr/radio/music/about/)(음악, 평일, 11시\~12시)(진행 이춘근)
-  - [노래하는 오후4시](https://web.archive.org/web/20151224050136/http://ulsan.kbs.co.kr/radio/song/aod/about/index.html)(음악, 평일, 16시\~17시)(진행 이지향)
+  - [시사투데이 울산](http://program.kbs.co.kr/1radio/local/todayuls/pc/index.html)(평일,30분 08:30\~08:58)(진행 김상욱)
+  - [라디오세상 울산만사](http://program.kbs.co.kr/1radio/local/sesang/pc/index.html)(평일,55분)(진행 이지향)
 
 ## 아나운서
 

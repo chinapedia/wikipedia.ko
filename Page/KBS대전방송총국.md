@@ -212,13 +212,13 @@
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 대전·세종·충남</a></p></td>
 <td><p>평일 15분</p></td>
 <td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 50분</p></td>
-<td><p>박명원</p></td>
+<td><p>서영준</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/KBS_930_뉴스.md" title="wikilink">KBS 930 뉴스 대전·세종·충남</a></p></td>
 <td><p>평일 10분</p></td>
 <td><p>평일 오전 9시 50분 ~ 10시</p></td>
-<td><p>김숙경</p></td>
+<td><p>박명원</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_7_대전·세종·충남.md" title="wikilink">KBS 뉴스 7 대전·세종·충남</a></p></td>
@@ -230,7 +230,7 @@
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 대전·세종·충남</a></p></td>
 <td><p>금요일 5분</p></td>
 <td><p>금 저녁 7시 20분 ~ 7시 25분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/손지화" title="wikilink">손지화</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박명원" title="wikilink">박명원</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_9.md" title="wikilink">KBS 뉴스 9 대전·세종·충남</a></p></td>
@@ -238,8 +238,8 @@
 주말 10분</p></td>
 <td><p>평일 밤 9시 35분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p>|<a href="https://ko.wikipedia.org/wiki/박명원" title="wikilink">박명원</a>, <a href="https://ko.wikipedia.org/wiki/맹수지" title="wikilink">맹수지</a>(평일)<br />
-무작위(주말)</p></td>
+<td><p>|<a href="https://ko.wikipedia.org/wiki/양민오" title="wikilink">양민오</a>, <a href="https://ko.wikipedia.org/wiki/김숙경" title="wikilink">김숙경</a>(평일)<br />
+<a href="https://ko.wikipedia.org/wiki/박명원" title="wikilink">박명원</a> (주말)</p></td>
 </tr>
 </tbody>
 </table>

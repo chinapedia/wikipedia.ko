@@ -164,19 +164,19 @@ PC,모바일 MY K로 실시간 시청 가능
 <td><p><a href="../Page/KBS_뉴스광장.md" title="wikilink">KBS 뉴스광장 전북</a></p></td>
 <td><p>15분</p></td>
 <td><p>월요일 ~ 금요일 오전 7시 35분 ~ 7시 45분</p></td>
-<td><p>김형철,<a href="https://ko.wikipedia.org/wiki/김태은" title="wikilink">김태은</a>(평일)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/함윤호" title="wikilink">함윤호</a>,<a href="https://ko.wikipedia.org/wiki/김태은" title="wikilink">김태은</a>(평일)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ko.wikipedia.org/wiki/KBS_뉴스_(930)" title="wikilink">KBS 뉴스 (930) 전북</a></p></td>
 <td><p>10분</p></td>
 <td><p>평일 오전 9시 45분 ~ 9시 55분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/함윤호" title="wikilink">함윤호</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/이광엽" title="wikilink">이광엽</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KBS_뉴스_7_전북.md" title="wikilink">KBS 뉴스 7 전북</a></p></td>
 <td><p>40분</p></td>
 <td><p>월~금 저녁 7시 ~ 7시 40분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>, <a href="https://ko.wikipedia.org/wiki/이광엽" title="wikilink">이광엽</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>, <a href="https://ko.wikipedia.org/wiki/김형철" title="wikilink">김형철</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/KBS_뉴스_7.md" title="wikilink">KBS 뉴스 7 전북</a></p></td>
@@ -190,7 +190,7 @@ PC,모바일 MY K로 실시간 시청 가능
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/이지현" title="wikilink">이지현</a>, <a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>(평일)<br />
+<td><p>이지현, <a href="https://ko.wikipedia.org/wiki/봉효정" title="wikilink">봉효정</a>(평일)<br />
 무작위(주말)</p></td>
 </tr>
 </tbody>
@@ -238,7 +238,7 @@ PC,모바일 MY K로 실시간 시청 가능
 <!-- end list -->
 
   - [김태은의 가요뱅크](http://program.kbs.co.kr/2radio/local/gayobank/pc/index.html) (연예오락, 월\~일 11:00\~11:57)(진행 [김태은](https://ko.wikipedia.org/wiki/김태은 "wikilink"))
-  - [즐거운 저녁길](http://program.kbs.co.kr/2radio/local/radil_gil/pc/index.html) (연예오락, 월\~금,18:05\~20:00)(진행 [홍석우](../Page/홍석우.md "wikilink"))
+  - [즐거운 저녁길](https://ko.wikipedia.org/wiki/즐거운_저녁길_\(KBS전주방송총국\) "wikilink") (연예오락, 월\~금,18:05\~20:00)(진행 [홍석우](../Page/홍석우.md "wikilink"))
 
 ## [아나운서](http://jeonju.kbs.co.kr/index.html?sname=localmain)
 
@@ -248,6 +248,7 @@ PC,모바일 MY K로 실시간 시청 가능
 | [1994년](../Page/1994년.md "wikilink") |
 | [2005년](../Page/2005년.md "wikilink") |
 | [2014년](../Page/2014년.md "wikilink") |
+| [2019년](../Page/2019년.md "wikilink") |
 |                                      |
 
 ## 전직 아나운서
@@ -269,14 +270,13 @@ PC,모바일 MY K로 실시간 시청 가능
   - [최동석](../Page/최동석.md "wikilink") (2004\~2005, 현 KBS 서울본국)
   - [박명원](https://ko.wikipedia.org/wiki/박명원_\(아나운서\) "wikilink") (2007\~2012, 현 KBS 대전총국)
   - [조충현](../Page/조충현.md "wikilink") (2012\~2013, 전 KBS 서울본국)
-  - [이광엽](https://ko.wikipedia.org/wiki/이광엽 "wikilink") (2019\~2020, 예정 KBS 서울본국)
 
 ### 여성
 
   - [김인순](https://ko.wikipedia.org/wiki/김인순_\(아나운서\) "wikilink") (1979\~2012, 퇴사)
   - [이미선](../Page/이미선_\(아나운서\).md "wikilink") (아나운서 부장, 전 KBS 서울본국)
   - [지영서](../Page/지영서.md "wikilink") (1993\~1994, 전 KBS 서울본국)
-  - [손혜원](../Page/손혜원.md "wikilink") (1979\~2013, 현 퇴사)
+  - [김수진](https://ko.wikipedia.org/wiki/김수진 "wikilink") (1994\~2018, 현 퇴사)
   - [유애리](../Page/유애리.md "wikilink") (1995\~1996, 전 KBS 서울본국)
   - [고민정](../Page/고민정.md "wikilink") (2004, 현 [청와대](../Page/청와대.md "wikilink") 대변인)
   - [김성은](../Page/김성은_\(아나운서\).md "wikilink") (현 KBS 서울본국)
@@ -316,6 +316,7 @@ PC,모바일 MY K로 실시간 시청 가능
 
   - 한주연
   - 이수진
+  - 이화연
   - 김진희
   - 조선우
   - 길금희

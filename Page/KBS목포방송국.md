@@ -178,9 +178,9 @@
 </table>
 
   - 프로그램
-      - [출발 서해안 시대](https://web.archive.org/web/20150220073236/http://mokpo.kbs.co.kr/radio/start/about/index.html) : 월\~금,(08:30 \~ 08:58, 28분) (진행 정윤심)
-      - [라디오 상담실](https://web.archive.org/web/20150220073229/http://mokpo.kbs.co.kr/radio/radio/about/index.html) : 월\~금,35분 (진행 김석훈)
-      - [라디오 매거진 오늘](https://web.archive.org/web/20150220072153/http://mokpo.kbs.co.kr/radio/magazine/about/index.html) : 월\~금,53분 (진행 김석훈)
+      - [출발 서해안 시대](http://program.kbs.co.kr/1radio/local/mokpo/pc/index.html) : 월\~금,(08:30 \~ 08:58, 28분) (진행 정윤심)
+      - [라디오 상담실](http://program.kbs.co.kr/1radio/local/radiomok/pc/index.html) : 월\~금,35분 (진행 김석훈)
+      - [라디오 매거진 오늘](http://program.kbs.co.kr/1radio/local/magazinemok/pc/index.html) : 월\~금,53분 (진행 김석훈)
 
 ## 아나운서
 

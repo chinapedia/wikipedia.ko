@@ -164,7 +164,7 @@
 | ---------------------------------------------------------- | ------------------- | --------------------------------------------------- | --------------------------------------------------- |
 | KBS 제1라디오 오전 9시 뉴스                                         | 월요일 \~ 금요일 5분       | 오전 9시 \~ 9시 5분                                      | [박찬송](https://ko.wikipedia.org/wiki/박찬송 "wikilink") |
 | [KBS 제1라디오 정오종합뉴스](../Page/KBS_제1라디오_정오종합뉴스.md "wikilink") | 낮 12시 15분\~ 12시 20분 | [진두연](https://ko.wikipedia.org/wiki/진두연 "wikilink") |                                                     |
-| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | [정지성](../Page/정지성.md "wikilink")                    |                                                     |
+| KBS 제1라디오 오후 5시 뉴스                                         | 오후 5시 \~ 5시 5분      | 임하늘                                                 |                                                     |
 | KBS 제1라디오 오후 6시 뉴스                                         | 토요일 \~ 일요일 5분       | 저녁 6시 \~ 6시 5분                                      | 청주 수중계                                              |
 
   - 프로그램
@@ -173,7 +173,7 @@
 
   - [계명산의 아침](http://program.kbs.co.kr/1radio/local/mountain/pc/index.html)(월-금,23분)(진행 박찬송)
   - [92.1여기는라디오충주](http://program.kbs.co.kr/1radio/local/chung/pc/index.html)(월-금,30분)(진행 김경희)
-  - [생방송,충청은 지금\!](http://program.kbs.co.kr/1radio/local/now/pc/index.html)(월-금,55분)(진행 정지성)
+  - [생방송,충청은 지금\!](http://program.kbs.co.kr/1radio/local/now/pc/index.html)(월-금,55분)(진행 임하늘)
 
 #### 음악FM
 

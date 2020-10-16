@@ -1,6 +1,8 @@
 > This article is converted from Wikipedia: [KBO 올스타전](https://ko.wikipedia.org/wiki/KBO_올스타전).
 
 
+[350px](https://ko.wikipedia.org/wiki/파일:Gocheok_Sky_Dome_WBSC_Premier_12_2019.jpg "wikilink") 전경\]\]
+
 **KBO 올스타전**(KBO All-Star Game)은 시즌 전반기와 후반기 사이에 열리는 경기이다. [1982년](../Page/1982년.md "wikilink") 프로야구 초창기부터 열리기 시작했으며, 팬들의 투표로 뽑힌 선수들을 중심으로 두 팀으로 나뉘어 경기를 한다. [2009년](../Page/2009년.md "wikilink")을 기준으로 총 44명의 선수가 이 대회에 출전하고 있으며, [KBO는](../Page/한국야구위원회.md "wikilink") [1998년](../Page/1998년.md "wikilink")부터 [인터넷](../Page/인터넷.md "wikilink")을 이용한 팬투표를 실시하고 있다. 본 명칭은 **한국프로야구 올스타전**이었으나 KBO의 브랜드 아이덴티티 통합 작업에 따라 2015시즌부터 **KBO 올스타전**이라는 새로운 명칭을 사용하게 되었다.
 
 ## 역대 전적

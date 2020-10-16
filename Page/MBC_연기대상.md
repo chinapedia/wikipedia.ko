@@ -2344,12 +2344,12 @@ MBC 바둑제왕전 해설자</p></td>
 <tr class="even">
 <td><p>드라마 부문 남자 신인상</p></td>
 <td><p><a href="../Page/차인표.md" title="wikilink">차인표</a></p></td>
-<td><p><a href="../Page/사랑을_그대_품안에.md" title="wikilink">사랑을 그대 품안에</a>, <a href="https://ko.wikipedia.org/wiki/까레이스키" title="wikilink">까레이스키</a>,<a href="../Page/아들의_여자.md" title="wikilink">아들의 여자</a></p></td>
+<td><p><a href="../Page/사랑을_그대_품안에.md" title="wikilink">사랑을 그대 품안에</a>, <a href="https://ko.wikipedia.org/wiki/까레이스키" title="wikilink">까레이스키</a>, <a href="../Page/아들의_여자.md" title="wikilink">아들의 여자</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>드라마 부문 여자 신인상</p></td>
 <td><p><a href="../Page/심은하.md" title="wikilink">심은하</a></p></td>
-<td><p><a href="../Page/마지막_승부.md" title="wikilink">마지막 승부</a>, <a href="../Page/M_(드라마).md" title="wikilink">M</a>,<a href="../Page/여울목.md" title="wikilink">여울목</a></p></td>
+<td><p><a href="../Page/마지막_승부.md" title="wikilink">마지막 승부</a>, <a href="../Page/M_(드라마).md" title="wikilink">M</a>, <a href="../Page/여울목.md" title="wikilink">여울목</a></p></td>
 </tr>
 <tr class="even">
 <td><p>코미디 부문 남자 신인상</p></td>

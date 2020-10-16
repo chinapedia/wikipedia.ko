@@ -395,14 +395,13 @@
 
   - 진연지
 
-## 전홍기
+## 현직 기자
 
   - [강규엽](https://ko.wikipedia.org/wiki/강규엽 "wikilink")
   - [전영창](https://ko.wikipedia.org/wiki/전영창 "wikilink") 보도부장
   - [정면구](https://ko.wikipedia.org/wiki/정면구 "wikilink")
   - [박상용](https://ko.wikipedia.org/wiki/박상용 "wikilink")
   - [정창환](https://ko.wikipedia.org/wiki/정창환 "wikilink")
-  - [심재남](https://ko.wikipedia.org/wiki/심재남 "wikilink")
   - [박상희](../Page/박상희.md "wikilink")
   - [김보람](https://ko.wikipedia.org/wiki/김보람 "wikilink")
   - [조연주](https://ko.wikipedia.org/wiki/조연주 "wikilink")

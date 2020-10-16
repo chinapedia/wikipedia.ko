@@ -56,7 +56,7 @@
   - [1983년](../Page/1983년.md "wikilink") [9월 5일](../Page/9월_5일.md "wikilink") : 무룡산 중계소 음악FM, 교육FM 준공
   - [1983년](../Page/1983년.md "wikilink") [12월 24일](../Page/12월_24일.md "wikilink") : 용등 TV 중계소 제1TV 개소 (CH 19)
   - [1983년](../Page/1983년.md "wikilink") [12월 31일](../Page/12월_31일.md "wikilink") : 용등 TV 중계소 제3TV 개소 (CH 35)
-  - [1984년](../Page/1984년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") : **부산방송본부** 승격
+  - [1984년](../Page/1984년.md "wikilink") [7월 16일](../Page/7월_16일.md "wikilink") : 부산방송본부 승격
   - [1984년](../Page/1984년.md "wikilink") [11월 1일](../Page/11월_1일.md "wikilink") : 황령산, 천마산 TV 중계소 개소
   - [1984년](../Page/1984년.md "wikilink") [11월 30일](../Page/11월_30일.md "wikilink") : 김해 송신소·영도 송신소, 무룡산 중계소 KTA에 이관
   - [1984년](../Page/1984년.md "wikilink") [12월 16일](../Page/12월_16일.md "wikilink") : 울산방송국 개국
@@ -225,7 +225,7 @@
 주말 10분</p></td>
 <td><p>평일 밤 9시 30분 ~ 9시 45분<br />
 주말 밤 9시 20분 ~ 9시 30분</p></td>
-<td><p><a href="../Page/김평래.md" title="wikilink">김평래</a>, <a href="https://ko.wikipedia.org/wiki/배소빈" title="wikilink">배소빈</a> 주말 <a href="https://ko.wikipedia.org/wiki/차재환" title="wikilink">차재환</a></p></td>
+<td><p><a href="../Page/김평래.md" title="wikilink">김평래</a>, <a href="https://ko.wikipedia.org/wiki/배소빈" title="wikilink">배소빈</a> 주말 무작위</p></td>
 </tr>
 </tbody>
 </table>
@@ -270,7 +270,7 @@
 
 <!-- end list -->
 
-  - [즐거운 저녁길 김경진입니다](../Page/즐거운_저녁길_\(KBS\).md "wikilink") (연예오락, 월\~금,18:05\~19:00)(진행 김경진)
+  - [즐거운 저녁길 김경진입니다](https://ko.wikipedia.org/wiki/즐거운_저녁길_\(KBS부산방송총국\) "wikilink") (연예오락, 월\~금,18:00\~19:00)(진행 김경진)
   - 57분 KBS 교통정보(교통, 월-토 07:57\~20:57)
 
 #### 음악FM
