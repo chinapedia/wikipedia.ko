@@ -40,7 +40,7 @@
 
 ### 상장사
 
-  - S\&T홀딩스([지주회사](https://ko.wikipedia.org/wiki/지주회사 "wikilink"), [유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Holdings Co., Ltd.)
+  - S\&T홀딩스([지주회사](../Page/지주회사.md "wikilink"), [유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Holdings Co., Ltd.)
   - [S\&TC](../Page/S&TC.md "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Corporation)
   - [S\&T모티브](../Page/S&T모티브.md "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Motiv Co., Ltd.)
   - [S\&T중공업](../Page/S&T중공업.md "wikilink")([유가증권시장](https://ko.wikipedia.org/wiki/코스피 "wikilink")) (S\&T Dynamics Co.,Ltd.)

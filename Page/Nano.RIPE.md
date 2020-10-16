@@ -211,7 +211,7 @@ LACA-35370 (B)<br />
 
 ### 라디오
 
-  - [코토바노 타마고\!](https://ko.wikipedia.org/wiki/코토바노_타마고! "wikilink") ([NACK5](https://ko.wikipedia.org/wiki/FM_넥파이브 "wikilink"): 2011年년10月5日 - 2014年3月26日) ※『The Nutty Radio Show おに魂』 수요일 아티스트 코너
+  - [코토바노 타마고\!](https://ko.wikipedia.org/wiki/코토바노_타마고! "wikilink") ([NACK5](../Page/FM_넥파이브.md "wikilink"): 2011年년10月5日 - 2014年3月26日) ※『The Nutty Radio Show おに魂』 수요일 아티스트 코너
   - nano.RIPE 달의 리듬 ([TOKYO FM](../Page/FM_도쿄.md "wikilink"): 2014년 4월 5일 - 2015년 3월 28일)\[12\]
 
 ### CM

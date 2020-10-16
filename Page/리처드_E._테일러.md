@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [리처드 E. 테일러](https://ko.wikipedia.org/wiki/리처드_E._테일러).
 
 
-**리처드 에드워드 테일러**(Richard E. Taylor, 1929년 11월 2일\~ )는 [스탠퍼드 대학교의](../Page/스탠퍼드_대학교.md "wikilink") 명예 교수이자 노벨상 수상자이다.\[1\] 입자물리학의 [쿼크 모형의](https://ko.wikipedia.org/wiki/쿼크_모형 "wikilink") 전개에 필수적인 중요성을 가진, [양성자](../Page/양성자.md "wikilink") 및 묶인 [중성자](../Page/중성자.md "wikilink")의 [전자](../Page/전자.md "wikilink")들의 깊은 비탄성산란에 관한 선구적인 연구에 의한 공로로 1990년에 [제롬 아이작 프리드먼](../Page/제롬_아이작_프리드먼.md "wikilink"), [헨리 웨이 켄들과](../Page/헨리_웨이_켄들.md "wikilink") 공동으로 [노벨상](../Page/노벨상.md "wikilink")을 수행하였다.\[2\]\[3\]\[4\]\[5\]\[6\]
+[thumb](https://ko.wikipedia.org/wiki/파일:Richard_E._Taylor.jpg "wikilink") **리처드 에드워드 테일러**(Richard E. Taylor, 1929년 11월 2일\~ )는 [스탠퍼드 대학교의](../Page/스탠퍼드_대학교.md "wikilink") 명예 교수이자 노벨상 수상자이다.\[1\] 입자물리학의 [쿼크 모형의](https://ko.wikipedia.org/wiki/쿼크_모형 "wikilink") 전개에 필수적인 중요성을 가진, [양성자](../Page/양성자.md "wikilink") 및 묶인 [중성자](../Page/중성자.md "wikilink")의 [전자](../Page/전자.md "wikilink")들의 깊은 비탄성산란에 관한 선구적인 연구에 의한 공로로 1990년에 [제롬 아이작 프리드먼](../Page/제롬_아이작_프리드먼.md "wikilink"), [헨리 웨이 켄들과](../Page/헨리_웨이_켄들.md "wikilink") 공동으로 [노벨상](../Page/노벨상.md "wikilink")을 수행하였다.\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 각주
 
