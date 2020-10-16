@@ -69,7 +69,7 @@ ATP 합성효소가 아데노신 삼인산을 만드는 기작은 1979년에 [UC
 
 γ 줄기가 F1 요소를 기준으로 회전한다는 점은 1997년에 Masasuke Yoshida와 [도쿄공업대학](https://ko.wikipedia.org/wiki/도쿄공업대학 "wikilink")과 [게이오 대학](https://ko.wikipedia.org/wiki/게이오_대학 "wikilink") 연구진들이 밝혀냈다. 이들은 F1 요소를 ATP 합성효소로부터 분리시킨 후 유전공학 기술을 이용해 γ 줄기의 꼭대기에 형광처리가 된 가는근육잔섬유를 붙였다. 이렇게 처리된 F1을 유리판 위에 고정을 시킨 뒤에 아데노신 삼인산 용액을 첨가하고 현미경으로 보았더니 형광처리가 된 가는근육잔섬유가 프로펠러에 매달린 것처럼 도는 것을 발견했다. 또 비슷하게 처리된 F1 γ 줄기의 꼭대기에 자기 입자를 부착하여 아데노신 이인산과 인산기 용액을 첨가하고 자기장에 놓아 시계방향으로 돌게 했더니 아데노신 삼인산이 만들어졌다. 360도를 돌 때마다 아데노신 삼인산 분자가 3개씩 만들어졌다. 이런 일련의 실험을 통해 Binding Change Mechanism은 현재 정설로 받아들여진다.
 
-## 참고문헌
+## 참고 문헌
 
   - Karp, Gerald. "Mitochondrial Structure and Function." Cell Biology. 6th ed. Hoboken, NJ: Wiley, 2010. 372-81. Print.
   - Krogh, David. Biology: a Guide to the Natural World. 5th ed. San Francisco, CA: Pearson/Benjamin Cummings, 2009. 132-34. Print.

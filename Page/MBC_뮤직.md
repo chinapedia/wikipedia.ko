@@ -314,7 +314,7 @@
 
 ## 논란
 
-  - 2011년 10월 당시 [MBC 플러스 미디어가](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") [MBC 게임](../Page/MBC_게임.md "wikilink")(구)을 폐국하고 [MBC 뮤직](../Page/MBC_뮤직.md "wikilink")(구)을 개국하는 정책을 세우자, [MBC 게임](../Page/MBC_게임.md "wikilink")(구) 팬들이 거세게 항의하고 반발했었다. 그러나 MBC 플러스 미디어는 이를 무시하고 2012년 2월 1일 익일 0시\~5시에 [MBC 게임](../Page/MBC_게임.md "wikilink")(구)을 폐국하고 [MBC 뮤직](../Page/MBC_뮤직.md "wikilink")(구)의 개국을 강행함으로써, MBC 게임(구) 팬들의 바람은 끝내 이루어지지 않았으며 사실상 똑같이 폐국시키거나 아니면 채널변경을 하지않고 분리개국했어야 했으며 VOD영상도 안타깝게도 삭제되고 말았으며 욕먹을짓만 골라서 하였다. [MBC 게임](../Page/MBC_게임.md "wikilink")(구) 팬들을 위해 [MBC 게임](../Page/MBC_게임.md "wikilink")(구) 팬들을 위한 대체할 채널을 개국하여 VOD 서비스를 재개해야한다.
+  - 2011년 10월 당시 [MBC 플러스 미디어가](https://ko.wikipedia.org/wiki/MBC_플러스_미디어 "wikilink") [MBC 게임](../Page/MBC_게임.md "wikilink")(구)을 폐국하고 [MBC 뮤직](../Page/MBC_뮤직.md "wikilink")(구)을 개국하는 정책을 세우자, [MBC 게임](../Page/MBC_게임.md "wikilink")(구) 팬들이 거세게 항의하고 반발했었다. 그러나 MBC 플러스 미디어는 이를 무시하고 2012년 2월 1일 익일 0시\~5시에 [MBC 게임](../Page/MBC_게임.md "wikilink")(구)을 폐국하고 [MBC 뮤직](../Page/MBC_뮤직.md "wikilink")(구)의 개국을 강행함으로써, MBC 게임(구) 팬들의 바람은 끝내 이루어지지 않았으며 사실상 똑같이 폐국시키거나 아니면 채널변경을 하지않고 분리개국했어야 했으며 VOD영상도 안타깝게도 삭제되고 말았으며 욕먹을짓만 골라서 하였다. [MBC 게임](../Page/MBC_게임.md "wikilink")(구) 팬들을 위해 [MBC 게임](../Page/MBC_게임.md "wikilink")(구) 팬들을 위한 대체할 채널을 개국하여 VOD 서비스를 재개해야하며 결국 병맛채널이 되었다.
 
 ## 같이 보기
 

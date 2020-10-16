@@ -772,7 +772,7 @@ Yes or No</p></td>
 <tr class="odd">
 <td><p>강성범 · 박영린의<br />
 Yes or No</p></td>
-<td><p>내 <a href="https://ko.wikipedia.org/wiki/땅" title="wikilink">땅</a>, 내 <a href="../Page/물건.md" title="wikilink">물건</a> 모두 돌려줘</p></td>
+<td><p>내 <a href="../Page/땅.md" title="wikilink">땅</a>, 내 <a href="../Page/물건.md" title="wikilink">물건</a> 모두 돌려줘</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -976,7 +976,7 @@ Yes or No</p></td>
 </tr>
 <tr class="even">
 <td><p>황당 사건 속 법률</p></td>
-<td><p>사라진 <a href="https://ko.wikipedia.org/wiki/땅" title="wikilink">땅</a>, 날아간 100억 원 - 기획 부동산 사기사건</p></td>
+<td><p>사라진 <a href="../Page/땅.md" title="wikilink">땅</a>, 날아간 100억 원 - 기획 부동산 사기사건</p></td>
 <td></td>
 </tr>
 <tr class="odd">

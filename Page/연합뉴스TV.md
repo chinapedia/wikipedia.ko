@@ -295,7 +295,7 @@
   - [연합뉴스TV 공식 블로그](http://yonhapnewstv.tistory.com/)
   - [29만원' 전두환 추징금 얼마나 환수했나](https://www.youtube.com/watch?feature=youtu.be&v=xqG83Ue6mkg&app=desktop&persist_app=1'전재산)
 
-[분류:텔레비전 뉴스 네트워크](https://ko.wikipedia.org/wiki/분류:텔레비전_뉴스_네트워크 "wikilink") [분류:2011년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2011년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2015년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2015년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:연합뉴스](https://ko.wikipedia.org/wiki/분류:연합뉴스 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink")
+[분류:텔레비전 뉴스 네트워크](https://ko.wikipedia.org/wiki/분류:텔레비전_뉴스_네트워크 "wikilink") [분류:2011년 설립된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2011년_설립된_텔레비전_방송국과_채널 "wikilink") [분류:2015년 폐지된 텔레비전 방송국과 채널](https://ko.wikipedia.org/wiki/분류:2015년_폐지된_텔레비전_방송국과_채널 "wikilink") [분류:연합뉴스](https://ko.wikipedia.org/wiki/분류:연합뉴스 "wikilink") [분류:대한민국의 텔레비전 케이블 방송국](https://ko.wikipedia.org/wiki/분류:대한민국의_텔레비전_케이블_방송국 "wikilink") [분류:기레기](https://ko.wikipedia.org/wiki/분류:기레기 "wikilink")
 
 1.
 2.

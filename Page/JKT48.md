@@ -66,6 +66,7 @@
   - [샤니 인디라 나티오](https://ko.wikipedia.org/wiki/샤니_인디라_나티오 "wikilink") (Shani Indira Natio)
   - [샨니아 그라시아](https://ko.wikipedia.org/wiki/샨니아_그라시아 "wikilink") (Shania Gracia)
   - [예시카 타마라](https://ko.wikipedia.org/wiki/예시카_타마라 "wikilink") (Yessica Tamara)
+  - [자라 눌](https://ko.wikipedia.org/wiki/자라_눌 "wikilink") ()
 
 ### 팀T
 
@@ -76,7 +77,6 @@
 #### Class A
 
   - [아드자나 살리하](https://ko.wikipedia.org/wiki/아드자나_살리하 "wikilink") (Adzana Shaliha)
-  - [아이코 하루미](https://ko.wikipedia.org/wiki/아이코_하루미 "wikilink") (Aiko Harumi)
   - [아마니나 아프카](https://ko.wikipedia.org/wiki/아마니나_아프카 "wikilink") (Amanina Afiqah)
   - [아미라 파틴](https://ko.wikipedia.org/wiki/아미라_파틴 "wikilink") (Amirah Fatin)
   - [케이틀린 귀네트](https://ko.wikipedia.org/wiki/케이틀린_귀네트 "wikilink") (Caithlyn Gwyneth) - 최연소
@@ -85,7 +85,6 @@
   - [신디 누쿠호](https://ko.wikipedia.org/wiki/신디_누쿠호 "wikilink") (Cindy Nugroho)
   - [코넬리아 바니사](https://ko.wikipedia.org/wiki/코넬리아_바니사 "wikilink") (Cornelia Vanisa)
   - [데아 안젤리아](https://ko.wikipedia.org/wiki/데아_안젤리아 "wikilink") (Dhea Angelia)
-  - [에리에나 카티카](https://ko.wikipedia.org/wiki/에리에나_카티카 "wikilink") (Eriena Kartika)
   - [페비 코마릴](https://ko.wikipedia.org/wiki/페비_코마릴 "wikilink") (Febi Komaril) - 최연장자
   - [페브리나 디포네고로](https://ko.wikipedia.org/wiki/페브리나_디포네고로 "wikilink") (Febrina Diponegoro)
   - [페브리올라 시남벨라](https://ko.wikipedia.org/wiki/페브리올라_시남벨라 "wikilink") (Febriola Sinambela)
@@ -105,7 +104,6 @@
   - [파메라 크리산데](https://ko.wikipedia.org/wiki/파메라_크리산데 "wikilink") (Pamela Krysanthe)
   - [푸트리 엘자흐라](https://ko.wikipedia.org/wiki/푸트리_엘자흐라 "wikilink") (Putri Elzahra)
   - [레바 피데라](https://ko.wikipedia.org/wiki/레바_피데라 "wikilink") (Reva Fidela)
-  - [살마 아니사](https://ko.wikipedia.org/wiki/살마_아니사 "wikilink") (Salma Annisa)
   - [살자 그라시타](https://ko.wikipedia.org/wiki/살자_그라시타 "wikilink") (Shalza Grasita)
   - [신타 데비](https://ko.wikipedia.org/wiki/신타_데비 "wikilink") (Shinta Devi)
   - [우메가 마우라나](https://ko.wikipedia.org/wiki/우메가_마우라나 "wikilink") (Umega Maulana)
