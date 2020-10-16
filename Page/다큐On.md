@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [다큐On](https://ko.wikipedia.org/wiki/다큐On).
 
 
-《**다큐On**》은 [대한민국](../Page/대한민국.md "wikilink") [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 매주 [금요일](../Page/금요일.md "wikilink") 밤 10시 50분과 매주 [토요일](../Page/토요일.md "wikilink") 밤 11시 40분에 방송되는 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").
+《**다큐On**》은 [대한민국](../Page/대한민국.md "wikilink") [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 매주 [금요일](../Page/금요일.md "wikilink") 밤 10시 50분과 매주 [토요일](../Page/토요일.md "wikilink") 밤 11시 40분에 방송되는 [다큐멘터리 텔레비전 프로그램이다](../Page/다큐멘터리_텔레비전_프로그램.md "wikilink").
 
 ## 기획 의도
 
@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a></p></td>
 <td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/5월_28일.md" title="wikilink">5월 28일</a> ~ <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/8월_27일.md" title="wikilink">8월 27일</a></p></td>
 <td><p>매주 <a href="../Page/월요일.md" title="wikilink">월요일</a> 밤 11시 40분 ~ 12시 30분 (50분)</p></td>
 </tr>
@@ -161,6 +161,8 @@
 | 115회 | 2020년 9월 12일  | 1.2%   |
 | 116회 | 2020년 9월 18일  | 1.4%   |
 | 117회 | 2020년 9월 19일  | 1.2%   |
+| 118회 | 2020년 9월 25일  | 미집계    |
+| 119회 | 2020년 9월 26일  | 1.1%   |
 
 ## 타이틀 변천사
 

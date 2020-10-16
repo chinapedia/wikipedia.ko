@@ -20,7 +20,7 @@
 
 ## 경쟁 프로그램
 
-  - [TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [TV비평 시청자데스크](../Page/TV비평_시청자데스크.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
   - [탐나는 TV](../Page/탐나는_TV.md "wikilink") ([MBC TV](../Page/MBC_TV.md "wikilink"))
   - [미디어 공감 좋은TV](../Page/미디어_공감_좋은TV.md "wikilink") ([OBS경인TV](../Page/OBS경인TV.md "wikilink"))
   - [시청자 의회](../Page/시청자_의회.md "wikilink") ([JTBC](../Page/JTBC.md "wikilink"))

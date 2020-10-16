@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [저널리즘 토크쇼 J](https://ko.wikipedia.org/wiki/저널리즘_토크쇼_J).
 
 
-《**저널리즘 토크쇼 J**》는 매주 [일요일](../Page/일요일.md "wikilink") 밤 9시 40분에 [KBS 1TV에서](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 방송하는 [한국방송공사의 미디어 비평 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink").
+《**저널리즘 토크쇼 J**》는 매주 [일요일](../Page/일요일.md "wikilink") 밤 9시 40분에 [KBS 1TV에서](../Page/KBS_1TV.md "wikilink") 방송하는 [한국방송공사의 미디어 비평 프로그램이다](https://ko.wikipedia.org/wiki/한국방송공사의_텔레비전_프로그램 "wikilink"). 임시(가제)프로그램 였던 <저널리즘 비평J> 이다.
 
 ## 기획 의도
 
@@ -20,7 +20,7 @@
 
 | 방송 채널                                                                                                                                                      | 방송 기간                                                                                                                                                        | 방송 시간                                                | 방송 분량 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | ----- |
-| [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")                                                                                                | [2018년](../Page/2018년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 밤 10:30 \~ 11:20 | 50분   |
+| [KBS 1TV](../Page/KBS_1TV.md "wikilink")                                                                                                                   | [2018년](../Page/2018년.md "wikilink") [6월 17일](../Page/6월_17일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [12월 23일](../Page/12월_23일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 밤 10:30 \~ 11:20 | 50분   |
 | [2019년](../Page/2019년.md "wikilink") [1월 6일](../Page/1월_6일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [1월 13일](../Page/1월_13일.md "wikilink")   | 매주 [일요일](../Page/일요일.md "wikilink") 밤 10:30 \~ 11:30                                                                                                         | 60분                                                  |       |
 | [2019년](../Page/2019년.md "wikilink") [1월 20일](../Page/1월_20일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [9월 15일](../Page/9월_15일.md "wikilink") | 매주 [일요일](../Page/일요일.md "wikilink") 밤 10:30 \~ 11:25                                                                                                         | 55분                                                  |       |
 | [2019년](../Page/2019년.md "wikilink") [9월 22일](../Page/9월_22일.md "wikilink") \~ **현재**                                                                      | 매주 [일요일](../Page/일요일.md "wikilink") 밤 9:40 \~ 10:35                                                                                                          |                                                      |       |
@@ -327,8 +327,8 @@
 <tr class="odd">
 <td><p>106회</p></td>
 <td><p>9월 20일</p></td>
-<td></td>
-<td></td>
+<td><p>"추미애 아들 의혹" 어떻게 언론의 베스트셀러가 되었나</p></td>
+<td><p>3.6%</p></td>
 </tr>
 <tr class="even">
 <td><p>107회</p></td>
@@ -350,7 +350,7 @@
 
 ## 시사 교양 프로그램
 
-  - [특파원 보고 세계는 지금](../Page/특파원_보고_세계는_지금.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [특파원 보고 세계는 지금](../Page/특파원_보고_세계는_지금.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
 
 ## 외부 링크
 

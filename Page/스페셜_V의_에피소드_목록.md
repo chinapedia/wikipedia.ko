@@ -483,7 +483,7 @@
 <tr class="odd">
 <td></td>
 <td><p>2</p></td>
-<td><p><a href="../Page/GS칼텍스_서울_KIXX.md" title="wikilink">GS칼텍스 서울 KIXX</a>{{·}}<a href="https://ko.wikipedia.org/wiki/안혜진" title="wikilink">안혜진</a>, <a href="../Page/이소영_(배구_선수).md" title="wikilink">이소영</a></p></td>
+<td><p><a href="../Page/GS칼텍스_서울_KIXX.md" title="wikilink">GS칼텍스 서울 KIXX</a>{{·}}<a href="../Page/안혜진.md" title="wikilink">안혜진</a>, <a href="../Page/이소영_(배구_선수).md" title="wikilink">이소영</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
