@@ -852,8 +852,6 @@ SHY77100319</p></td>
 
 ## 각주
 
-<references/>
-
 ## 외부 링크
 
   - [SHY48 공식 홈페이지](https://web.archive.org/web/20190123171313/http://www.shy48.com/)
