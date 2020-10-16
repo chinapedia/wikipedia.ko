@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [조선X파일 기찰비록](https://ko.wikipedia.org/wiki/조선X파일_기찰비록).
 
 
-**조선X파일 기찰비록**은 [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [금요일](../Page/금요일.md "wikilink") 밤 12시에 방송된 [드라마다](../Page/텔레비전_드라마.md "wikilink").
+**조선X파일 기찰비록**은 [2010년](../Page/2010년.md "wikilink") [8월 20일부터](../Page/8월_20일.md "wikilink") [2010년](../Page/2010년.md "wikilink") [10월 29일까지](../Page/10월_29일.md "wikilink") [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink")에서 매주 [금요일](../Page/금요일.md "wikilink") 밤 12시에 방송된 [드라마다](../Page/텔레비전_드라마.md "wikilink").
 
 ## 기획 의도
 

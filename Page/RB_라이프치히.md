@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [RB 라이프치히](https://ko.wikipedia.org/wiki/RB_라이프치히).
 
 
-**라젠발스포르트 라이프치히**(RasenBallsport Leipzig e. V.,)는 **RB 라이프치히**라고도 불리며, [2009년](../Page/2009년.md "wikilink")에 창단된 [독일](../Page/독일.md "wikilink") [작센주](../Page/작센주.md "wikilink")의 [라이프치히](../Page/라이프치히.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. [2009년](../Page/2009년.md "wikilink") [오스트리아](../Page/오스트리아.md "wikilink")의 음료회사인 [레드불 유한회사에](https://ko.wikipedia.org/wiki/레드불_유한회사 "wikilink") 의해 창단되었다. [독일](../Page/독일.md "wikilink") 5부리그 [오버리가](../Page/오버리가.md "wikilink")에서 시작하여 8년 내에 1부리그인 [푸스발-분데스리가](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink")로 진입하는 것을 목표로 삼았다. 2015-2016시즌 2부리그에서 최초로 1부리그에 승격해 현재 1부리그인 [푸스발 분데스리가에](https://ko.wikipedia.org/wiki/푸스발-분데스리가 "wikilink") 속해있다.
+**라젠발스포르트 라이프치히**(RasenBallsport Leipzig e. V.,)는 **RB 라이프치히**라고도 불리며, [2009년](../Page/2009년.md "wikilink")에 창단된 [독일](../Page/독일.md "wikilink") [작센주](../Page/작센주.md "wikilink")의 [라이프치히](../Page/라이프치히.md "wikilink")를 연고로 하는 [축구](../Page/축구.md "wikilink") 클럽이다. [2009년](../Page/2009년.md "wikilink") [오스트리아](../Page/오스트리아.md "wikilink")의 음료회사인 [레드불 유한회사에](https://ko.wikipedia.org/wiki/레드불_유한회사 "wikilink") 의해 창단되었다. [독일](../Page/독일.md "wikilink") 5부리그 [오버리가](../Page/오버리가.md "wikilink")에서 시작하여 8년 내에 1부 리그인 [분데스리가](../Page/분데스리가.md "wikilink")로 진입하는 것을 목표로 삼았다. 2015-16 시즌 2부 리그인 [2. 분데스리가에서](../Page/2._분데스리가.md "wikilink") 최초로 1부리그에 승격해 현재 1부리그인 [분데스리가](../Page/분데스리가.md "wikilink")에 속해있다.
 
 ## 역사
 

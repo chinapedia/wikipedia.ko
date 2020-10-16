@@ -54,27 +54,27 @@
 
 ### 평일 (1995년 5월 14일 기준)
 
-  - 1대 권태인, 박현희
-  - 2대 권태인, 문주원
-  - 3대 권태인, 강경지
-  - 4대 황상현, 강경지
-  - 5대 최현정, 강경지
-  - 6대 최현정, 이유진
-  - 7대 이혁동, 장진영
-  - 8대 이혁동, 김선희
-  - 9대 정성욱, 장진영
-  - 10대 정성욱, 이지원
-  - 11대 정성욱, 이은지
-  - 12대 권준범, 이은지
-  - 13대 권준범, 성유미
-  - 14대 권준범, 이세영
-  - 15대 권준범, 최진주
-  - 16대 황상현, 최진주
-  - 17대 황상현, 조서연
-  - 18대 황상현, 김명미
-  - 19대 이혁동, 김명미
-  - 20대 정성욱, 김명미
-  - 21대 권준범, 김명미 (현재)
+  - 1대 [권태인](https://ko.wikipedia.org/wiki/권태인 "wikilink"), [박현희](https://ko.wikipedia.org/wiki/박현희 "wikilink")
+  - 2대 [권태인](https://ko.wikipedia.org/wiki/권태인 "wikilink"), [문주원](../Page/문주원.md "wikilink")
+  - 3대 [권태인](https://ko.wikipedia.org/wiki/권태인 "wikilink"), [강경지](https://ko.wikipedia.org/wiki/강경지 "wikilink")
+  - 4대 [황상현](../Page/황상현.md "wikilink"), [강경지](https://ko.wikipedia.org/wiki/강경지 "wikilink")
+  - 5대 [최현정](https://ko.wikipedia.org/wiki/최현정 "wikilink"), [강경지](https://ko.wikipedia.org/wiki/강경지 "wikilink")
+  - 6대 [최현정](https://ko.wikipedia.org/wiki/최현정 "wikilink"), [이유진](https://ko.wikipedia.org/wiki/이유진 "wikilink")
+  - 7대 [이혁동](https://ko.wikipedia.org/wiki/이혁동 "wikilink"), [장진영](https://ko.wikipedia.org/wiki/장진영 "wikilink")
+  - 8대 [이혁동](https://ko.wikipedia.org/wiki/이혁동 "wikilink"), [김선희](https://ko.wikipedia.org/wiki/김선희 "wikilink")
+  - 9대 [정성욱](https://ko.wikipedia.org/wiki/정성욱 "wikilink"), [장진영](https://ko.wikipedia.org/wiki/장진영 "wikilink")
+  - 10대 [정성욱](https://ko.wikipedia.org/wiki/정성욱 "wikilink"),[이지원](https://ko.wikipedia.org/wiki/이지원 "wikilink")
+  - 11대 [정성욱](https://ko.wikipedia.org/wiki/정성욱 "wikilink"), [이은지](https://ko.wikipedia.org/wiki/이은지 "wikilink")
+  - 12대 [권준범](https://ko.wikipedia.org/wiki/권준범 "wikilink"), [이은지](https://ko.wikipedia.org/wiki/이은지 "wikilink")
+  - 13대 [권준범](https://ko.wikipedia.org/wiki/권준범 "wikilink"), [성유미](https://ko.wikipedia.org/wiki/성유미 "wikilink")
+  - 14대 [권준범](https://ko.wikipedia.org/wiki/권준범 "wikilink"), [이세영](https://ko.wikipedia.org/wiki/이세영 "wikilink")
+  - 15대 [권준범](https://ko.wikipedia.org/wiki/권준범 "wikilink"), [최진주](https://ko.wikipedia.org/wiki/최진주 "wikilink")
+  - 16대 [황상현](../Page/황상현.md "wikilink"), [최진주](https://ko.wikipedia.org/wiki/최진주 "wikilink")
+  - 17대 [황상현](../Page/황상현.md "wikilink"), [조서연](../Page/조서연.md "wikilink")
+  - 18대 [황상현](../Page/황상현.md "wikilink"), [김명미](../Page/김명미.md "wikilink")
+  - 19대 [이혁동](https://ko.wikipedia.org/wiki/이혁동 "wikilink"), [김명미](../Page/김명미.md "wikilink")
+  - 20대 [정성욱](https://ko.wikipedia.org/wiki/정성욱 "wikilink"), [김명미](../Page/김명미.md "wikilink")
+  - 21대 [권준범](https://ko.wikipedia.org/wiki/권준범 "wikilink"), [김명미](../Page/김명미.md "wikilink") (현재)
 
 ### 주말 (2001년 10월 13일 기준)
 

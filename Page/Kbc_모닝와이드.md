@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kbc 모닝와이드](https://ko.wikipedia.org/wiki/Kbc_모닝와이드).
 
 
-《**kbc 모닝와이드**》()는 대한민국 [kbc에서](../Page/광주방송.md "wikilink") 평일 아침 7시 15분에 방송되는 [kbc의 아침뉴스 프로그램이다](https://ko.wikipedia.org/wiki/광주방송의_뉴스_프로그램 "wikilink").
+《**kbc 모닝와이드**》()는 대한민국 [kbc에서](../Page/광주방송.md "wikilink") 평일 아침 7시 15분에 방송되는 [kbc의 아침종합뉴스 프로그램이다](../Page/광주방송의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 
@@ -81,8 +81,8 @@
 
 ## 앵커
 
-  - 최창은 아나운서 (남)
-  - 이경진 아나운서 (여)
+  - [최창은](https://ko.wikipedia.org/wiki/최창은 "wikilink") 아나운서 (남)
+  - [이경진](../Page/이경진.md "wikilink") 아나운서 (여)
 
 ## 타이틀 변천사
 

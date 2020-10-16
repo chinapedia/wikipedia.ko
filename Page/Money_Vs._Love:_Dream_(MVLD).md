@@ -3,7 +3,7 @@
 
 ***Money Vs. Love: Dream (MVLD)***는 [래퍼](https://ko.wikipedia.org/wiki/래퍼 "wikilink") [저스디스](../Page/저스디스.md "wikilink")의 두 번째 [믹스테이프](https://ko.wikipedia.org/wiki/믹스테이프 "wikilink")이다. 이 믹스테이프는 2014년 5월 7일, 저스디스의 텀블러에 글을 통해서 무료로 공개됐다.\[1\]\[2\] 이 믹스테이프는 총 13곡으로 이루어져있으며, Samiyam과 그의 팀 FLYamSAM의 비트들로 만들어져있다.
 
-피쳐링진으로는 [디지](../Page/디지.md "wikilink")의 2011년 디지털 싱글 "Deegie's in True Mental pt.4"에 참여한 여성 래퍼 [Julie](https://ko.wikipedia.org/wiki/Julie "wikilink")와 3번 트랙 "youngFOREVER"에서 훅과 랩을 맡은 [마이노스](../Page/마이노스.md "wikilink") 그리고 9번 트랙 "CommonCold Freestyle"에선, 저스디스와 팀 [커먼콜드](https://ko.wikipedia.org/wiki/커먼콜드 "wikilink")로도 활동중인 [매드클라운](https://ko.wikipedia.org/wiki/매드클라운 "wikilink") 마지막으로 12번 트랙 "Jesus"에서 랩을 맡은 [키비](https://ko.wikipedia.org/wiki/키비 "wikilink") 등이 있다.
+피쳐링진으로는 [디지](../Page/디지.md "wikilink")의 2011년 디지털 싱글 "Deegie's in True Mental pt.4"에 참여한 여성 래퍼 [Julie](https://ko.wikipedia.org/wiki/Julie "wikilink")와 3번 트랙 "youngFOREVER"에서 훅과 랩을 맡은 [마이노스](../Page/마이노스.md "wikilink") 그리고 9번 트랙 "CommonCold Freestyle"에선, 저스디스와 팀 [커먼콜드](https://ko.wikipedia.org/wiki/커먼콜드 "wikilink")로도 활동중인 [매드클라운](../Page/매드클라운.md "wikilink") 마지막으로 12번 트랙 "Jesus"에서 랩을 맡은 [키비](https://ko.wikipedia.org/wiki/키비 "wikilink") 등이 있다.
 
 믹스테이프에 쓰인 사진들은 "대나무 시리즈"로 알려진 사진작가 [강영길](https://ko.wikipedia.org/wiki/강영길 "wikilink")의 사진들에 저스디스 본인의 [아트워크](https://ko.wikipedia.org/wiki/아트워크 "wikilink")로 완성되었다.
 
