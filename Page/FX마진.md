@@ -41,7 +41,7 @@
   - 거래량, 유동성, 가격에 따라 [스프레드](https://ko.wikipedia.org/wiki/스프레드 "wikilink") 및 각종 [수수료](https://ko.wikipedia.org/wiki/수수료 "wikilink")가 다르다.
   - 연장 이자는 회사마다 큰 차이가 있고, 이자와 관련하여 [세금](https://ko.wikipedia.org/wiki/세금 "wikilink")이 [원천징수](https://ko.wikipedia.org/wiki/원천징수 "wikilink")이나 오버나이트(연장)수수료를 부과하거나 아니하는 경우가 있다.
   - 일부 국가에서는 외환 매매손익을 [토빈세](https://ko.wikipedia.org/wiki/토빈세 "wikilink")로 부과하는 경우가 있다.
-  - 국가별 [기준금리](https://ko.wikipedia.org/wiki/기준금리 "wikilink") [이자율](https://ko.wikipedia.org/wiki/이자율 "wikilink")에 따라 일부 통화의 경우, [매도](https://ko.wikipedia.org/wiki/매도 "wikilink")/[매수](https://ko.wikipedia.org/wiki/매수 "wikilink") 연장이자가 모두 마이너스(-)가 되는 경우가 있다.
+  - 국가별 [기준금리](../Page/기준금리.md "wikilink") [이자율](https://ko.wikipedia.org/wiki/이자율 "wikilink")에 따라 일부 통화의 경우, [매도](https://ko.wikipedia.org/wiki/매도 "wikilink")/[매수](https://ko.wikipedia.org/wiki/매수 "wikilink") 연장이자가 모두 마이너스(-)가 되는 경우가 있다.
 
 ## 국가별 거래비중(08년 기준)
 

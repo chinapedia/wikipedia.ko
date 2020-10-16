@@ -2023,7 +2023,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/K리그_1990.md" title="wikilink">1990</a></p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/뉼_이슈트반" title="wikilink">이스트반</a><br />
+<td><p><a href="../Page/뉼_이슈트반.md" title="wikilink">이스트반</a><br />
 (1990-04-01)</p></td>
 <td></td>
 <td></td>

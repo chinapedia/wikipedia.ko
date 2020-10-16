@@ -19,7 +19,7 @@
 
 ## 대중 문화
 
-[배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink"),[배틀그라운드 모바일에서](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink") 9mm탄을 사용하는 총 VSS로 등장한다.
+[배틀그라운드](../Page/배틀그라운드_\(비디오_게임\).md "wikilink"),[배틀그라운드 모바일에서](https://ko.wikipedia.org/wiki/배틀그라운드_모바일 "wikilink") [9mm탄을](https://ko.wikipedia.org/wiki/9_×_39_mm "wikilink") 사용하는 [DMR](https://ko.wikipedia.org/wiki/지정사수소총 "wikilink") VSS로 등장한다.
 
 ## 같이 보기
 

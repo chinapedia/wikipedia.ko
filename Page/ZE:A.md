@@ -288,7 +288,7 @@
   - [tvN](https://ko.wikipedia.org/wiki/tvN "wikilink") [미생](https://ko.wikipedia.org/wiki/미생 "wikilink") (2014년 10월 17일) - 장그래 역 (임시완 출연)
   - [SBS](../Page/SBS.md "wikilink") [상류사회](https://ko.wikipedia.org/wiki/상류사회 "wikilink") (2015년 6월 8일) - 유창수 역 (박형식 출연)
   - [KBS](../Page/KBS_2TV.md "wikilink") [화랑](https://ko.wikipedia.org/wiki/화랑_\(드라마\) "wikilink") (2016년 12월 19일) - 삼맥종 역 (박형식 출연)
-  - [KBS](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [빛나라 은수](../Page/빛나라_은수.md "wikilink") (2016년 11월 28일) - 윤수호 역 (김동준 출연)
+  - [KBS](../Page/KBS_1TV.md "wikilink") [빛나라 은수](../Page/빛나라_은수.md "wikilink") (2016년 11월 28일) - 윤수호 역 (김동준 출연)
   - jtbc [힘쎈여자 도봉순](../Page/힘쎈여자_도봉순.md "wikilink")(2017년 2월 24일) - 안민혁 역 (박형식 출연)
   - [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink") [왕은 사랑한다](../Page/왕은_사랑한다.md "wikilink") (2017년 7월 17일) - 왕원 역 (임시완 출연)
 

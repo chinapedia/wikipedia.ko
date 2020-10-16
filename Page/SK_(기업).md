@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [SK \(기업\)](https://ko.wikipedia.org/wiki/SK_\(기업\)).
 
 
-**SK**는 [SK그룹](../Page/SK그룹.md "wikilink")의 지주회사이다. [1991년 4월에](https://ko.wikipedia.org/wiki/1991년_4월 "wikilink") 설립된 선경텔레콤이 시초이다. 사업분야는 시스템통합(SI) 및 IT 아웃소싱(Outsourcing) 서비스이다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") [종로](../Page/종로_\(서울\).md "wikilink") 26 (서린동)에 있다.
+**SK**는 [SK그룹](../Page/SK그룹.md "wikilink")의 지주회사다. [1991년 4월에](https://ko.wikipedia.org/wiki/1991년_4월 "wikilink") 설립된 선경텔레콤이 시초다. 사업분야는 시스템통합(SI) 및 IT 아웃소싱(Outsourcing) 서비스다. 본사는 [서울특별시](../Page/서울특별시.md "wikilink") [종로구](../Page/종로구.md "wikilink") [종로](../Page/종로_\(서울\).md "wikilink") 26 (서린동)에 있다.
 
 ## 사업
 

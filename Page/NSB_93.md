@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NSB 93](https://ko.wikipedia.org/wiki/NSB_93).
 
 
-**NSB 93** 틸팅 디젤 동차는 노르웨이 [노를란 선](https://ko.wikipedia.org/wiki/노를란_선 "wikilink"), [뢰로스 선](https://ko.wikipedia.org/wiki/뢰로스_선 "wikilink"), [라우마 선의](https://ko.wikipedia.org/wiki/라우마_선 "wikilink") 비전화 구간에 사용하는 열차이다. 노후한 [Di 3](https://ko.wikipedia.org/wiki/NSB_Di_3 "wikilink") 기관차를 대체하기 위하여 구입하였다. 2000년부터 2002년까지 15편성이 배달되었으며, 봄바르디에 [Talent](https://ko.wikipedia.org/wiki/봄바르디에_Talent "wikilink") 계열의 열차이다.
+**NSB 93**(NSB Class 93) 틸팅 디젤 동차는 노르웨이 [노를란 선](https://ko.wikipedia.org/wiki/노를란_선 "wikilink"), [뢰로스 선](https://ko.wikipedia.org/wiki/뢰로스_선 "wikilink"), [라우마 선의](https://ko.wikipedia.org/wiki/라우마_선 "wikilink") 비전화 구간에 사용하는 열차이다. 노후한 [Di 3](https://ko.wikipedia.org/wiki/NSB_Di_3 "wikilink") 기관차를 대체하기 위하여 구입하였다. 2000년부터 2002년까지 15편성이 배달되었으며, 봄바르디에 [Talent](https://ko.wikipedia.org/wiki/봄바르디에_Talent "wikilink") 계열의 열차이다.
 
 총 2개의 커민스 디젤 엔진이 장착되어 있으며, 편성 출력은 612 kW이다. 최고 속도는 시속 140km이며, 지역 서비스 NSB 아젠다로 투입되었다. 하지만 기술적인 문제와 불편한 내장재 때문에 인기가 없었으며, 노를란 선의 일부 구간에는 기관차 견인 열차가 다시 복귀하였다.
 
