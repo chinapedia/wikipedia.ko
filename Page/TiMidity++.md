@@ -3,7 +3,7 @@
 
 **TiMidity++**(간단히 TiMidity)는 하드웨어 신시사이저 없이도 [미디](https://ko.wikipedia.org/wiki/미디 "wikilink") 파일을 재생할 수 있는 [소프트웨어 신시사이저이다](../Page/소프트웨어_신시사이저.md "wikilink"). 실시간으로 사운드 카드를 렌더링할 수 있고, [PCM](../Page/펄스_부호_변조.md "wikilink") 방식의 [.wav](https://ko.wikipedia.org/wiki/웨이브 "wikilink") 파일과 같은 별개의 파일로 결과물을 저장할 수 있다.
 
-TiMidity++는 주로 [리눅스](../Page/리눅스.md "wikilink") 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제에서 동작하지만 [마이크로소프트 윈도와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [아미가OS](https://ko.wikipedia.org/wiki/아미가OS "wikilink"), [세일피시 OS에서도](../Page/세일피시_OS.md "wikilink") 실행할 수 있다. [GNU 일반 공중 사용 허가서를](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 통해 배포되는 TiMidity++는 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink").
+TiMidity++는 주로 [리눅스](../Page/리눅스.md "wikilink") 및 [유닉스 계열](../Page/유닉스_계열.md "wikilink") 운영 체제에서 동작하지만 [마이크로소프트 윈도와](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink") [아미가OS](../Page/아미가OS.md "wikilink"), [세일피시 OS에서도](../Page/세일피시_OS.md "wikilink") 실행할 수 있다. [GNU 일반 공중 사용 허가서를](../Page/GNU_일반_공중_사용_허가서.md "wikilink") 통해 배포되는 TiMidity++는 [자유 소프트웨어이다](../Page/자유_소프트웨어.md "wikilink").
 
 ## 기능
 

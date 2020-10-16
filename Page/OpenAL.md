@@ -21,7 +21,7 @@ OpenAL은 [윈도우](../Page/마이크로소프트_윈도우.md "wikilink") 게
   - [마이크로소프트 윈도](https://ko.wikipedia.org/wiki/마이크로소프트_윈도 "wikilink")
   - [엑스박스](../Page/엑스박스.md "wikilink")
   - [엑스박스 360](../Page/엑스박스_360.md "wikilink")
-  - [아미가OS](https://ko.wikipedia.org/wiki/아미가OS "wikilink") 3.x
+  - [아미가OS](../Page/아미가OS.md "wikilink") 3.x
   - [MorphOS](https://ko.wikipedia.org/wiki/MorphOS "wikilink")
   - [bada 2.x](../Page/바다_\(운영_체제\).md "wikilink")
 

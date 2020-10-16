@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [JTV 아침뉴스](https://ko.wikipedia.org/wiki/JTV_아침뉴스).
 
 
-《**JTV 아침뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") [JTV에서](../Page/전주방송.md "wikilink") 평일 아침 7시 5분에 방송되는 [JTV의 아침뉴스 프로그램이다](../Page/전주방송의_뉴스_프로그램.md "wikilink").
+《**JTV 아침뉴스**》()는 [대한민국](../Page/대한민국.md "wikilink") [JTV에서](../Page/전주방송.md "wikilink") 평일 아침 7시 5분에 방송되는 [JTV의 아침종합뉴스 프로그램이다](../Page/전주방송의_뉴스_프로그램.md "wikilink").
 
 ## 방송 시간
 

@@ -18,7 +18,7 @@
 등장인물의 휴대 전화를 어떻게 사용하느냐에 따라 스토리가 구별된다. 총 6가지 루트로 구별되어 있으며, 이 중 하나는 트루 엔드이다.
 
   - Prologue - 시작과 끝의 프롤로그
-  - Chapter 01 - 시간 도약의 [패러노이아](https://ko.wikipedia.org/wiki/편집증 "wikilink")()
+  - Chapter 01 - 시간 도약의 [패러노이아](../Page/편집증.md "wikilink")()
   - Chapter 02 - 공리 방황의 랑데부()
   - Chapter 03 - 나비 날개의 [다이버전스](../Page/발산_\(벡터\).md "wikilink")()
   - Chapter 04 - 몽환의 [호메오스테이시스](../Page/항상성.md "wikilink")()

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [IAI 크피르](https://ko.wikipedia.org/wiki/IAI_크피르).
 
 
-**IAI 크피르**는 [이스라엘](../Page/이스라엘.md "wikilink")이 독자개발한 삼각날개 다목적 전투기이다.
+**IAI 크피르**는 [이스라엘](../Page/이스라엘.md "wikilink")이 독자개발한 델타익의 다목적 전투기이다.
 
 ## 역사
 
