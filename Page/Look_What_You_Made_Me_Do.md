@@ -7,6 +7,6 @@
 
 ## 각주
 
-[분류:2017년 노래](https://ko.wikipedia.org/wiki/분류:2017년_노래 "wikilink") [분류:2017년 싱글](https://ko.wikipedia.org/wiki/분류:2017년_싱글 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:테일러 스위프트의 노래](https://ko.wikipedia.org/wiki/분류:테일러_스위프트의_노래 "wikilink")
+[분류:2017년 노래](https://ko.wikipedia.org/wiki/분류:2017년_노래 "wikilink") [분류:2017년 싱글](https://ko.wikipedia.org/wiki/분류:2017년_싱글 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:테일러 스위프트의 노래](https://ko.wikipedia.org/wiki/분류:테일러_스위프트의_노래 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.

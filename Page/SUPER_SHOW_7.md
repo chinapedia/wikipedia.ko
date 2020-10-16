@@ -154,7 +154,7 @@
 <td><p>2018년 11월 11일</p></td>
 <td><p><a href="../Page/방콕.md" title="wikilink">방콕</a></p></td>
 <td></td>
-<td><p>임팩트 챌린저 홀[11]</p></td>
+<td><p>임팩트 챌린저 홀 (앙코르) [11]</p></td>
 <td><p>25,371명</p></td>
 </tr>
 <tr class="even">

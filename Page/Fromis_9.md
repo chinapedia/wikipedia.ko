@@ -5,7 +5,7 @@
 
 ## 활동
 
-### 2017-2018: 데뷔, *유리구두*,'' To. Heart'', *To. Day*, *From.9*
+### 2017\~2018: 데뷔, *유리구두*,'' To. Heart'', *To. Day*, *From.9*
 
 [섬네일](https://ko.wikipedia.org/wiki/파일:프로미스나인\(fromis_9\)_상큼미_터지는_데뷔_무대_'To._Heart'_\(1\).jpg "wikilink") 2017년 11월 29일 [일본](../Page/일본.md "wikilink") [요코하마 아레나에서](../Page/요코하마_아레나.md "wikilink") 열리는 [엠넷 아시안 뮤직 어워드(MAMA)에](https://ko.wikipedia.org/wiki/엠넷_아시안_뮤직_어워드 "wikilink") 출연해 《[유리구두](https://ko.wikipedia.org/wiki/유리구두_\(fromis_9의_노래\) "wikilink")》의 첫 무대를 선보였고, 다음날 이 곡으로 프리데뷔하는 것이 결정되었다. 12월 15일 KBS2 《[뮤직뱅크](../Page/뮤직뱅크.md "wikilink")》를 시작으로, 12월 21일 M.net 《[엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")》, 12월 23일 MBC 《[쇼\! 음악중심](https://ko.wikipedia.org/wiki/쇼!_음악중심 "wikilink")》에도 첫 출연했다. 2018년 1월 24일 데뷔 앨범이자 첫 번째 미니앨범 《[To. Heart](../Page/To._Heart.md "wikilink")》를 발매했고, 데뷔 쇼케이스를 개최했다.\[3\] 1월 25일 M.net의 [엠카운트다운](https://ko.wikipedia.org/wiki/엠카운트다운 "wikilink")에 출연해 수록곡 "환상속의 그대"와 타이틀곡 "[To heart](../Page/To._Heart.md "wikilink")"를 선보였다. 이후 2월 25일 [인기가요](https://ko.wikipedia.org/wiki/인기가요 "wikilink")에서 막방을 했다. [섬네일](https://ko.wikipedia.org/wiki/파일:180605_프로미스나인_02.png "wikilink") 쇼케이스에서 fromis_9\]\]
 
@@ -17,7 +17,7 @@
 
 2019년 6월 4일 첫 번째 싱글앨범 《[FUN FACTORY](../Page/FUN_FACTORY.md "wikilink")》으로 컴백하였다. 〈FUN FACTORY〉의 타이틀곡은 《FUN\!》이며 "LOVE RUM PUM PUM", "FLY HIGH"가 수록되어 있으며, "FLY HIGH"의 작사, 작곡에 멤버 송하영, 박지원이 참여하였다.\[9\]
 
-2020년 9월 16일 세 번째 미니앨범 《[My Little Society](https://ko.wikipedia.org/wiki/My_Little_Society "wikilink")》으로 1년 3개월만에 컴백하였다. 다리 부상으로 인해 멤버 [이서연](https://ko.wikipedia.org/wiki/이서연_\(가수\) "wikilink") 제외한 8인체제로 활동한다.
+2020년 9월 16일 세 번째 미니앨범 My Little Society으로 1년 3개월만에 컴백하였다. 다리 부상으로 인해 멤버 [이서연을](https://ko.wikipedia.org/wiki/이서연_\(가수\) "wikilink") 제외한 8인체제로 활동한다.
 
 ## 구성원
 
