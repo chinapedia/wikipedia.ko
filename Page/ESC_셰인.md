@@ -35,6 +35,13 @@
   - [2020년 4월](https://ko.wikipedia.org/wiki/2020년_4월 "wikilink") **리그 오브 레전드 챌린저스 코리아 스프링 2020 우승**
   - [2020년 8월](https://ko.wikipedia.org/wiki/2020년_8월 "wikilink") 리그 오브 레전드 챌린저스 코리아 서머 2020 7위
 
+## 우승 기록
+
+  - [네이버 2015 LoL KeSPA컵](../Page/네이버_2015_LoL_KeSPA컵.md "wikilink")
+  - [IEM 시즌 10 쾰른](../Page/인텔_익스트림_마스터즈.md "wikilink")
+  - 네네치킨 [리그 오브 레전드 챌린저스 코리아](../Page/리그_오브_레전드_챌린저스_코리아.md "wikilink") 스프링 2016
+  - 리그 오브 레전드 챌린저스 코리아 스프링 2020
+
 ## 각주
 
 ## 외부 링크

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [써클 K](https://ko.wikipedia.org/wiki/써클_K).
 
 
-[300px](https://ko.wikipedia.org/wiki/파일:Circle_K–Davie_Street,_Vancouver.jpg "wikilink") 에 있는 써클 K 점포\]\] [300px](https://ko.wikipedia.org/wiki/파일:Circle_K_Japan.jpg "wikilink") [히가시오사카시](../Page/히가시오사카시.md "wikilink")에 있는 써클 K 점포\]\] **써클 K**()는 [미국](../Page/미국.md "wikilink") [애리조나주](../Page/애리조나주.md "wikilink") [템피에](../Page/템피_\(애리조나주\).md "wikilink") 본사를 둔 [편의점](../Page/편의점.md "wikilink") 체인이다. [1951년](../Page/1951년.md "wikilink")에 [텍사스주](../Page/텍사스주.md "wikilink") [엘패소](../Page/엘패소.md "wikilink")에서 처음 개업하였으며, 현재 15개국에 10,000개 이상의 매장을 운영하고 있다.
+[300px에](https://ko.wikipedia.org/wiki/파일:Circle_K–Davie_Street,_Vancouver.jpg "wikilink") 있는 써클 K 점포\]\] [300px](https://ko.wikipedia.org/wiki/파일:Circle_K_Japan.jpg "wikilink") [히가시오사카시](../Page/히가시오사카시.md "wikilink")에 있는 써클 K 점포\]\] **써클 K**()는 [미국](../Page/미국.md "wikilink") [애리조나주](../Page/애리조나주.md "wikilink") [템피에](../Page/템피_\(애리조나주\).md "wikilink") 본사를 둔 [편의점](../Page/편의점.md "wikilink") 체인이다. [1951년](../Page/1951년.md "wikilink")에 [텍사스주](../Page/텍사스주.md "wikilink") [엘패소](../Page/엘패소.md "wikilink")에서 처음 개업하였으며, 현재 15개국에 10,000개 이상의 매장을 운영하고 있다.
 
 [대한민국](../Page/대한민국.md "wikilink")에는 [1989년](../Page/1989년.md "wikilink")에 [서울특별시](../Page/서울특별시.md "wikilink") [용산구](https://ko.wikipedia.org/wiki/용산구 "wikilink") [원효로](https://ko.wikipedia.org/wiki/원효로 "wikilink")에 처음 진출하였으나, [1997년](../Page/1997년.md "wikilink")에 [한화그룹](../Page/한화그룹.md "wikilink")에 인수되어 C 스페이스로 변경되었다.\[1\]\[2\]
 

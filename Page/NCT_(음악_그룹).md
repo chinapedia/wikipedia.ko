@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [NCT \(음악 그룹\)](https://ko.wikipedia.org/wiki/NCT_\(음악_그룹\)).
 
 
-**NCT**()는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속의 멤버 수 제한이 없는 보이 그룹으로, 현재 NCT로 소개된 멤버 수는 18명이다.\[1\]
+**NCT**()는 [SM 엔터테인먼트](../Page/SM_엔터테인먼트.md "wikilink") 소속의 멤버 수 제한이 없는 보이 그룹으로, 현재 NCT로 소개된 멤버 수는 23명이다.\[1\]
 
 NCT라는 이름은 **'N**eo **C**ulture **T**echnology'(네오 컬쳐 테크놀로지: 새로운 문화 기술)'의 약자로, 그룹의 핵심 키워드를 '개방성'과 '확장성'으로 소개한 SM 엔터테인먼트 대표 프로듀서 [이수만](../Page/이수만.md "wikilink")은 그룹이 전세계 주요 도시를 기반으로 한 여러 서브 유닛으로 나뉘며,\[2\] 새로운 멤버의 영입이 자유롭고 멤버 수에도 제한을 두지 않는다고 설명하였다. 즉, 로테이션 그룹이라고 할 수 있다는 것이다.\[3\]\[4\]\[5\]\[6\]\[7\]
 
@@ -43,11 +43,11 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 
 2019년 1월 26일, 27일 양일간 첫 단독 콘서트 NEO CITY: SEOUL - The Origin이 서울 올림픽공원 KSPO 돔에서 개최되었다. 2월 2일 오사카에서 첫 공연을 시작으로 일본 홀 투어 NEO CITY: JAPAN - The Origin 일정이 진행되었다.  2월 27일 월드 투어 NEO CITY - The Origin의 개최 일정을 발표하였다. 2월 28일 일본 공식 트위터 계정을 통해 4월 17일 일본 첫 정규 앨범 Awaken 이 발매된다고 발표하였다. 3월 14일 오피셜 팬클럽 NCTzen 127의 모집을 시작하였다. 무료(BASIC) 회원 기반이며 연간 유료(ACE) 회원 가입 시 추가 혜택이 제공된다. \# 3월 22일 홍콩 香港亞洲流行音樂節 (Hong Kong Asian-Pop Music Festival) 출연하였다. 4월 5일 유니버설 뮤직 그룹 산하 캐피톨 뮤직 그룹과 음악 콘텐츠에 대한 유통 및 프로모션 계약을 체결했으며, 글로벌 유통은 CMG 산하 최대 유통사인 캐롤라인 디스트리뷰션이 담당한다고 밝혔다. 4월 17일 일본 첫 정규 앨범 Awaken이 발매되었다. 4월 18일 ABC의 '굿모닝 아메리카' 에서 'Superhuman'의 무대가 최초 공개되었으며, 토크 프로그램 '스트라한 & 사라'에도 한국 남자 가수 최초로 출연하여 'Superhuman' 을 공연하였다. 5월 24일 네번째 미니앨범 《NCT \#127 WE ARE SUPERHUMAN》으로 컴백을 했다. Superhuman 활동이 끝나고 나서 NEO CITY - The Origin 러시아 콘서트를 개최하였다. 지금은 유럽 투어를 하였으며 7월 26일 마크 졸업 후 첫 NCT DREAM이 WE BOOM으로 컴백했다. 11월 16일, 11월 17일 《THE DREAM SHOW》를 개최함으로써 NCT DREAM의 첫 단독콘서트를 하게 된다.
 
-### 2020: NCT 127 정규 2집 및 NCT DREAM 미니앨범 활동 그리고 NCT 127 리패키지 활동, NCT 2020 완전체 컴백
+### 2020: NCT 127 정규 2집 및 NCT DREAM 미니앨범 활동 그리고 NCT 127 리패키지 활동, NCT 완전체 컴백
 
 [NCT 127은](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") [2020년](../Page/2020년.md "wikilink") [3월 6일](../Page/3월_6일.md "wikilink") 두 번째 정규앨범 《NCT \#127- Neo Zone》으로 컴백을 하였다. 그 전날인 [2020년](../Page/2020년.md "wikilink") [3월 5일에](../Page/3월_5일.md "wikilink") 타이틀곡인 영웅 (英雄; Kick It)의 정식 뮤직비디오를 공개하였다. [2020년](../Page/2020년.md "wikilink") [4월 14일](../Page/4월_14일.md "wikilink") [NCT DREAM이](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 졸업제도를 없앤다는 것이 [SM 엔터테인먼트로](../Page/SM_엔터테인먼트.md "wikilink") 부터 밝혀졌고 [4월 29일](../Page/4월_29일.md "wikilink") 《Reload》로 컴백하였다. 이곡으로 뮤직뱅크에서 [NCT DREAM으로](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 첫 지상파 1위를 했다. 그 뒤에는 [NCT DREAM의](https://ko.wikipedia.org/wiki/NCT_DREAM "wikilink") 이름을 유지하며 [NCT U의](https://ko.wikipedia.org/wiki/NCT_U "wikilink") 체제로 졸업을 했던 [마크](../Page/마크.md "wikilink")도 합류하여 활동할 계획이다. 그리고 2020년 5월 19일 [NCT 127이](https://ko.wikipedia.org/wiki/NCT_127 "wikilink") 리패키지 앨범 《NCT \#127 Neo Zone: The Final Round》으로 컴백하였다.
 
-**NCT 2020**으로 완전체 컴백을 앞두고 있다.
+**NCT 2020**으로 완전체 23명으로 정규 앨범 《NCT 2020 : RESONANCE Pt. 1》으로 10월 12일 컴백을 앞두고 있다. 《NCT 2020 : RESONANCE Pt. 2》은 11월달에 나온다.
 
 ## 구성원
 
@@ -64,7 +64,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 문태일 (文泰一)</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -73,7 +73,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : John Jun Suh</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/미국.md" title="wikilink">미국</a> <a href="../Page/일리노이주.md" title="wikilink">일리노이주</a> <a href="../Page/시카고.md" title="wikilink">시카고</a></li>
+<li>출생지 :  <a href="../Page/일리노이주.md" title="wikilink">일리노이주</a> <a href="../Page/시카고.md" title="wikilink">시카고</a></li>
 <li>활동기간 : <a href="../Page/2017년.md" title="wikilink">2017년</a> <a href="../Page/1월_5일.md" title="wikilink">1월 5일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -82,7 +82,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 이태용 (李泰容)</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ 현재</li>
 </ul></td>
@@ -92,7 +92,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 나카모토 유타 ([44])</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/일본.md" title="wikilink">일본</a> <a href="../Page/오사카부.md" title="wikilink">오사카부</a></li>
+<li>출생지 :  <a href="../Page/오사카부.md" title="wikilink">오사카부</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/7월_7일.md" title="wikilink">7월 7일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -101,8 +101,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 첸쿤 ()</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/중화인민공화국.md" title="wikilink">중화인민공화국</a> <a href="../Page/푸젠성.md" title="wikilink">푸젠 성</a></li>
-<li>유닛그룹 : <a href="../Page/WayV.md" title="wikilink">WayV</a></li>
+<li>출생지 :  <a href="../Page/푸젠성.md" title="wikilink">푸젠 성</a></li>
 <li>활동기간 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/4월_20일.md" title="wikilink">4월 20일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -111,7 +110,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 김동영 (金東營)</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="../Page/구리시.md" title="wikilink">구리시</a></li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="../Page/구리시.md" title="wikilink">구리시</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -120,8 +119,8 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 치따폰 리차이야폰꾼 ()</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/태국.md" title="wikilink">태국</a> <a href="../Page/방콕.md" title="wikilink">방콕</a></li>
-<li>유닛그룹 : <a href="../Page/WayV.md" title="wikilink">WayV</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
+<li>출생지 :  <a href="../Page/방콕.md" title="wikilink">방콕</a></li>
+<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -130,7 +129,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 정윤오 (鄭閏伍[45])</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -139,8 +138,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 동쓰청 ()</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/중화인민공화국.md" title="wikilink">중화인민공화국</a> <a href="../Page/저장성.md" title="wikilink">저장 성</a></li>
-<li>유닛그룹 : <a href="../Page/WayV.md" title="wikilink">WayV</a></li>
+<li>출생지 : </li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/7월_7일.md" title="wikilink">7월 7일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -149,7 +147,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 김정우 (金廷祐)</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="../Page/군포시.md" title="wikilink">군포시</a></li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/경기도" title="wikilink">경기도</a> <a href="../Page/군포시.md" title="wikilink">군포시</a></li>
 <li>활동기간 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/2월_19일.md" title="wikilink">2월 19일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -158,8 +156,8 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 웡육헤이 ()</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/홍콩.md" title="wikilink">홍콩</a></li>
-<li>유닛그룹 : <a href="../Page/WayV.md" title="wikilink">WayV</a>, <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
+<li>출생지 : </li>
+<li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/2월_19일.md" title="wikilink">2월 19일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -168,9 +166,27 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : Mark Lee</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/캐나다.md" title="wikilink">캐나다</a> <a href="../Page/토론토.md" title="wikilink">토론토</a></li>
+<li>출생지 :  <a href="../Page/토론토.md" title="wikilink">토론토</a></li>
 <li>유닛그룹 : <a href="https://ko.wikipedia.org/wiki/SuperM" title="wikilink">SuperM</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/4월_15일.md" title="wikilink">4월 15일</a> ~ 현재</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>샤오쥔</strong></p></td>
+<td><ul>
+<li>본명 : 샤오더쥔 ()</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/광둥성.md" title="wikilink">광둥성</a></li>
+<li>활동기간 : <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/10월_12일.md" title="wikilink">10월 12일</a> ~ <strong>현재</strong></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/헨드리_(가수).md" title="wikilink">헨드리</a></strong></p></td>
+<td><ul>
+<li>본명 : 웡군항 ()</li>
+<li>생년월일 : </li>
+<li>출생지 : </li>
+<li>활동기간 : <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/10월_12일.md" title="wikilink">10월 12일</a> ~ <strong>현재</strong></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -178,7 +194,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 황런쥔 ()</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/중화인민공화국.md" title="wikilink">중화인민공화국</a> <a href="../Page/지린성.md" title="wikilink">지린 성</a></li>
+<li>출생지 :  <a href="../Page/지린성.md" title="wikilink">지린 성</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/8월_25일.md" title="wikilink">8월 25일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -187,7 +203,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 이제노 (李帝努[46][47])</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천광역시</a></li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/인천광역시" title="wikilink">인천광역시</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/8월_25일.md" title="wikilink">8월 25일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -196,7 +212,7 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 이동혁 (李東赫)</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/7월_7일.md" title="wikilink">7월 7일</a> ~ 현재</li>
 </ul></td>
 </tr>
@@ -205,29 +221,56 @@ NCT 127은 [엠넷 아시안 뮤직 어워드](https://ko.wikipedia.org/wiki/엠
 <td><ul>
 <li>본명 : 나재민 (羅渽民[48])</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="https://ko.wikipedia.org/wiki/전라북도" title="wikilink">전라북도</a> <a href="https://ko.wikipedia.org/wiki/전주시" title="wikilink">전주시</a></li>
+<li>출생지 :  <a href="https://ko.wikipedia.org/wiki/전라북도" title="wikilink">전라북도</a> <a href="https://ko.wikipedia.org/wiki/전주시" title="wikilink">전주시</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/8월_25일.md" title="wikilink">8월 25일</a> ~ 현재</li>
 </ul></td>
 </tr>
 <tr class="odd">
+<td><p><strong><a href="../Page/NCT_(음악_그룹).md" title="wikilink">양양</a></strong></p></td>
+<td><ul>
+<li>본명 : 류양양 ()</li>
+<li>생년월일 : </li>
+<li>출생지 : </li>
+<li>활동기간 : <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/10월_12일.md" title="wikilink">10월 12일</a> ~ <strong>현재</strong></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>쇼타로</strong></p></td>
+<td><ul>
+<li>본명 : 오사키 쇼타로 ()</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/가나가와현.md" title="wikilink">가나가와현</a></li>
+<li>활동기간 : <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/10월_12일.md" title="wikilink">10월 12일</a> ~ <strong>현재</strong></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>성찬</strong></p></td>
+<td><ul>
+<li>본명 : 정성찬 (Jung Sung-chan)</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>활동기간 : <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/10월_12일.md" title="wikilink">10월 12일</a> ~ <strong>현재</strong></li>
+</ul></td>
+</tr>
+<tr class="even">
 <td><p><strong><a href="../Page/천러.md" title="wikilink">천러</a></strong></p></td>
 <td><ul>
 <li>본명 : 종천러 ()</li>
 <li>생년월일 : </li>
-<li>출생지 : <a href="../Page/중화인민공화국.md" title="wikilink">중화인민공화국</a> <a href="../Page/상하이시.md" title="wikilink">상하이 시</a></li>
-<li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/8월_25일.md" title="wikilink">8월 25일</a> ~ 현재</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>지성</strong></p></td>
-<td><ul>
-<li>본명 : 박지성 (朴志晟[49])</li>
-<li>생년월일 : </li>
-<li>출생지 : <a href="../Page/대한민국.md" title="wikilink">대한민국</a> <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>출생지 :  <a href="../Page/상하이시.md" title="wikilink">상하이 시</a></li>
 <li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/8월_25일.md" title="wikilink">8월 25일</a> ~ 현재</li>
 </ul></td>
 </tr>
 <tr class="odd">
+<td><p><strong>지성</strong></p></td>
+<td><ul>
+<li>본명 : 박지성 (朴志晟[49])</li>
+<li>생년월일 : </li>
+<li>출생지 :  <a href="../Page/서울특별시.md" title="wikilink">서울특별시</a></li>
+<li>활동기간 : <a href="../Page/2016년.md" title="wikilink">2016년</a> <a href="../Page/8월_25일.md" title="wikilink">8월 25일</a> ~ 현재</li>
+</ul></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 </tr>

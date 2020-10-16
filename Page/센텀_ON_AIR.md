@@ -25,7 +25,7 @@
 
 ### AM방송 (KNN Love FM 포함)
 
-  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") 수중계) ([KBS부산제1라디오](../Page/KBS_제1라디오.md "wikilink"), ([KBS창원 제1라디오](../Page/KBS_제1라디오.md "wikilink"), [KBS진주 제1라디오](../Page/KBS_제1라디오.md "wikilink"), [KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink"))
+  - [KBS 뉴스 9](../Page/KBS_뉴스_9.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink") 수중계) ([KBS부산제1라디오](../Page/KBS_제1라디오.md "wikilink"), ([KBS창원 제1라디오](../Page/KBS_제1라디오.md "wikilink"), [KBS진주 제1라디오](../Page/KBS_제1라디오.md "wikilink"), [KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink"))
   - [스포츠 스포츠](../Page/스포츠_스포츠.md "wikilink") ([KBS부산제1라디오](../Page/KBS_제1라디오.md "wikilink"), [KBS창원 제1라디오](../Page/KBS_제1라디오.md "wikilink"), [KBS진주 제1라디오](../Page/KBS_제1라디오.md "wikilink"), [KBS 제3라디오](../Page/KBS_제3라디오.md "wikilink"))
   - [박철의 진지한 라디오](https://ko.wikipedia.org/wiki/박철의_진지한_라디오 "wikilink") ([KBS부산제2라디오](../Page/KBS_제2라디오.md "wikilink"), [KBS창원 제2라디오](../Page/KBS_제2라디오.md "wikilink"))
   - [원더풀 라디오 김태원입니다](../Page/원더풀_라디오_김태원입니다.md "wikilink") (월\~금 20:10\~22:00) ([부산MBC 표준FM](../Page/부산문화방송.md "wikilink"), [MBC 경남 표준FM](../Page/MBC경남.md "wikilink"))
