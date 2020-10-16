@@ -112,7 +112,7 @@
 <!-- end list -->
 
   - 카미시로 리오 (리오)
-    성우 - [한 메구미](https://ko.wikipedia.org/wiki/한_메구미 "wikilink") / [이유리](../Page/이유리.md "wikilink")
+    성우 - [한 메구미](../Page/한_메구미.md "wikilink") / [이유리](../Page/이유리.md "wikilink")
     료가의 여동생으로 료가도 어찌 못할 정도로 드센 여장부형 인물. 료가가 자신의 포부를 포기하게 될 정도로 중요한 인물인데 사실은 바리안 전사인 메라그였다.
 
 <!-- end list -->
@@ -221,7 +221,7 @@
     성우 - [히라카와 다이스케](../Page/히라카와_다이스케.md "wikilink") / [김혜성](https://ko.wikipedia.org/wiki/김혜성 "wikilink")
     전생에는 페가수스를 탄 영웅. 인간 모습은 안경을 쓴 모범생으로 위장되어 있다. 낫슈를 찾으려고 한다.
   - 기라그
-    성우 - [타카구치 코우스케](https://ko.wikipedia.org/wiki/타카구치_코우스케 "wikilink") / [이현](https://ko.wikipedia.org/wiki/이현 "wikilink")
+    성우 - [타카구치 코우스케](https://ko.wikipedia.org/wiki/타카구치_코우스케 "wikilink") / [이현](../Page/이현.md "wikilink")
     전생에는 일본 장군. 인간 모습은 거구한 덩치으로 위장되어 있다. 맨처음에 지구에 나타나서 인간들을 세뇌시켜 넘버즈를 빼았지만 실패로 돌아간다. 백터에게 당해서 아리토와 기절한 후 돈 사우전드의 힘으로 부활해서 더 악해진다.
   - 아리토
     성우 - [히카미 타카히로](https://ko.wikipedia.org/wiki/히카미_타카히로 "wikilink")
@@ -248,7 +248,7 @@
     성우 - [마스다 토시키](https://ko.wikipedia.org/wiki/마스다_토시키 "wikilink")
     그는 바리안의 기억을 잃고 샤크로 살아가고 있었다. 기억을 되찾자 그는 유마의 적이 된다.
   - 메라그
-    성우 - [한 메구미](https://ko.wikipedia.org/wiki/한_메구미 "wikilink")
+    성우 - [한 메구미](../Page/한_메구미.md "wikilink")
     그녀도 바리안의 기억을 잃고 리오로 살아가고 있었다. 기억을 되찾자 그녀도 유마의 적이 된다.
 
 ## 테마 정보

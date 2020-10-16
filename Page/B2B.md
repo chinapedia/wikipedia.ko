@@ -23,4 +23,4 @@
   - [C2C](https://ko.wikipedia.org/wiki/C2C_\(전자_상거래\) "wikilink")
   - [전자 상거래](../Page/전자_상거래.md "wikilink")
 
-[분류:경제](https://ko.wikipedia.org/wiki/분류:경제 "wikilink") [분류:마케팅](https://ko.wikipedia.org/wiki/분류:마케팅 "wikilink") [분류:전자 상거래](https://ko.wikipedia.org/wiki/분류:전자_상거래 "wikilink")
+[분류:정보 기술 관리](https://ko.wikipedia.org/wiki/분류:정보_기술_관리 "wikilink")

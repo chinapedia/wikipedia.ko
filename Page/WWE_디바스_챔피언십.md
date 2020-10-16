@@ -38,7 +38,7 @@
   - [베스 피닉스](https://ko.wikipedia.org/wiki/베스_피닉스 "wikilink")
   - [니키 벨라](../Page/벨라_트윈스.md "wikilink")
   - [레일라](https://ko.wikipedia.org/wiki/레일라_엘 "wikilink")
-  - [케이틀린](https://ko.wikipedia.org/wiki/설레스트_보닌 "wikilink")
+  - [케이틀린](../Page/설레스트_보닌.md "wikilink")
   - [AJ 리](../Page/AJ_리.md "wikilink")
   - [페이지](https://ko.wikipedia.org/wiki/브리타니_나이트 "wikilink")
   - [샬럿](https://ko.wikipedia.org/wiki/애쉴리_플레어 "wikilink") (마지막 챔피언)

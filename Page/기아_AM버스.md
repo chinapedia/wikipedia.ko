@@ -13,11 +13,11 @@
 
 #### AM707
 
-[1978년](../Page/1978년.md "wikilink")에 AM807과 같이 출시된 버스이다. 베이스 모델은 [마쓰다 파크웨이 초대 모델이다](https://ko.wikipedia.org/wiki/마쓰다_파크웨이 "wikilink"). [1983년](../Page/1983년.md "wikilink") [10월](../Page/10월.md "wikilink")에 AM807과의 통합 후속모델 [아시아 AM805 콤비의](../Page/기아_콤비.md "wikilink") 출시와 함께 단종되었다.
+[1978년](../Page/1978년.md "wikilink")에 AM807과 같이 출시된 버스이다. 베이스 모델은 [마쓰다 파크웨이 초대 모델이다](https://ko.wikipedia.org/wiki/마쓰다_파크웨이 "wikilink"). [1983년](../Page/1983년.md "wikilink") [10월](../Page/10월.md "wikilink")에 AM807과의 통합 후속모델 [아시아(기아) AM805 콤비의](../Page/기아_콤비.md "wikilink") 출시와 함께 단종되었다.
 
 #### AM807
 
-[1978년](../Page/1978년.md "wikilink")에 출시되었고, 피아트 중형버스를 AM808처럼 [한국](../Page/한국.md "wikilink") 사정에 맞게 수정하고 베이스로 만들었다. [1983년](../Page/1983년.md "wikilink") [10월](../Page/10월.md "wikilink")에 AM707과의 통합 후속모델 [아시아 AM805 콤비에](../Page/기아_콤비.md "wikilink") 물려주고 단종되었다. 총 9,396량이다.
+[1978년](../Page/1978년.md "wikilink")에 출시되었고, 피아트 중형버스를 AM808처럼 [한국](../Page/한국.md "wikilink") 사정에 맞게 수정하고 베이스로 만들었다. [1983년](../Page/1983년.md "wikilink") [10월](../Page/10월.md "wikilink")에 AM707과의 통합 후속모델 [아시아(기아) AM805 콤비에](../Page/기아_콤비.md "wikilink") 물려주고 단종되었다. 총 9,396량이다.
 
 #### AM808
 
