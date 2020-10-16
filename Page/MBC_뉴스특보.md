@@ -21,7 +21,7 @@
 
 ## 경쟁 프로그램
 
-  - [KBS 뉴스특보](../Page/KBS_뉴스특보.md "wikilink") ([KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink"))
+  - [KBS 뉴스특보](../Page/KBS_뉴스특보.md "wikilink") ([KBS 1TV](../Page/KBS_1TV.md "wikilink"))
   - [SBS 뉴스특보](../Page/SBS_뉴스특보.md "wikilink") ([SBS TV](../Page/SBS_TV.md "wikilink"))
   - [EBS 뉴스특보](https://ko.wikipedia.org/wiki/EBS_뉴스특보 "wikilink") ([EBS 1TV](../Page/EBS_1TV.md "wikilink"))
 

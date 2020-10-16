@@ -17,7 +17,7 @@
 
   - [대구문화방송](../Page/대구문화방송.md "wikilink")
   - [MBC 표준FM](../Page/MBC_표준FM.md "wikilink")
-  - [이승원의 세계는 그리고 우리는](../Page/세계는_그리고_우리는.md "wikilink")
+  - [뉴스 하이킥](https://ko.wikipedia.org/wiki/뉴스_하이킥 "wikilink")
 
 ## 외부 링크
 
