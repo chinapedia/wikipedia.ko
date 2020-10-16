@@ -39,7 +39,7 @@
 
   - [페어리](../Page/페어리.md "wikilink") 타입 : [제르네아스](https://ko.wikipedia.org/wiki/제르네아스 "wikilink") (포켓몬스터 X)
   - [악](https://ko.wikipedia.org/wiki/악 "wikilink"), [비행](../Page/비행.md "wikilink") 타입 : [이벨타르](https://ko.wikipedia.org/wiki/이벨타르 "wikilink") (포켓몬스터 Y)
-  - [드래곤](../Page/드래곤.md "wikilink"), [땅](https://ko.wikipedia.org/wiki/땅 "wikilink") 타입 : [지가르데](https://ko.wikipedia.org/wiki/지가르데 "wikilink") (포켓몬스터 X, Y)
+  - [드래곤](../Page/드래곤.md "wikilink"), [땅](../Page/땅.md "wikilink") 타입 : [지가르데](https://ko.wikipedia.org/wiki/지가르데 "wikilink") (포켓몬스터 X, Y)
 
 ## 각주
 

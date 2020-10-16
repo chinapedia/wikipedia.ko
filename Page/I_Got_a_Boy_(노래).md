@@ -20,6 +20,6 @@
 
 <references />
 
-[분류:소녀시대의 노래](https://ko.wikipedia.org/wiki/분류:소녀시대의_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink") [분류:SM 엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_싱글 "wikilink") [분류:2013년 노래](https://ko.wikipedia.org/wiki/분류:2013년_노래 "wikilink")
+[분류:소녀시대의 노래](https://ko.wikipedia.org/wiki/분류:소녀시대의_노래 "wikilink") [분류:한국어 노래](https://ko.wikipedia.org/wiki/분류:한국어_노래 "wikilink") [분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink") [분류:SM 엔터테인먼트 싱글](https://ko.wikipedia.org/wiki/분류:SM_엔터테인먼트_싱글 "wikilink") [분류:2013년 노래](https://ko.wikipedia.org/wiki/분류:2013년_노래 "wikilink") [분류:코리아 K-Pop 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:코리아_K-Pop_핫_100_1위_싱글 "wikilink")
 
 1.

@@ -9,4 +9,4 @@
 
   - We Found Love
 
-[분류:리한나의 노래](https://ko.wikipedia.org/wiki/분류:리한나의_노래 "wikilink") [분류:캘빈 해리스의 노래](https://ko.wikipedia.org/wiki/분류:캘빈_해리스의_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink")
+[분류:리한나의 노래](https://ko.wikipedia.org/wiki/분류:리한나의_노래 "wikilink") [분류:캘빈 해리스의 노래](https://ko.wikipedia.org/wiki/분류:캘빈_해리스의_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:2011년 노래](https://ko.wikipedia.org/wiki/분류:2011년_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")

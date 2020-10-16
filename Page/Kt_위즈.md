@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Kt 위즈](https://ko.wikipedia.org/wiki/Kt_위즈).
 
 
-**kt 위즈**(kt wiz)는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")를 연고지로 삼고 [KBO 리그에](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 참가한 열 번째 구단이다. [수원야구장](../Page/수원야구장.md "wikilink")을 25,000여 석으로 개량하여 홈경기장으로 사용하며, 향후 [2020년](../Page/2020년.md "wikilink")까지 호매실 택지 개발지구(당수동)에 최신식 돔구장을 건립할 예정이었으나 지지부진한 상황이다. [2013년](../Page/2013년.md "wikilink") 프로야구 신인 선수 지명회의를 통해 신인 선수를 수급하였으며, [2014년](../Page/2014년.md "wikilink") [한국야구퓨처스리그에](../Page/KBO_퓨처스리그.md "wikilink") 참여하고 [2015년](../Page/2015년.md "wikilink")부터 [KBO 리그에](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 참가했으며 [2020년](../Page/2020년.md "wikilink")단독[3](../Page/3.md "wikilink")위를차지하고있다.
+**kt 위즈**(kt wiz)는 [경기도](https://ko.wikipedia.org/wiki/경기도 "wikilink") [수원시](https://ko.wikipedia.org/wiki/수원시 "wikilink")를 연고지로 삼고 [KBO 리그에](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 참가한 열 번째 구단이다. [수원야구장](../Page/수원야구장.md "wikilink")을 25,000여 석으로 개량하여 홈경기장으로 사용하며, 향후 [2020년](../Page/2020년.md "wikilink")까지 호매실 택지 개발지구(당수동)에 최신식 돔구장을 건립할 예정이었으나 지지부진한 상황이다. [2013년](../Page/2013년.md "wikilink") 프로야구 신인 선수 지명회의를 통해 신인 선수를 수급하였으며, [2014년](../Page/2014년.md "wikilink") [한국야구퓨처스리그에](../Page/KBO_퓨처스리그.md "wikilink") 참여하고 [2015년](../Page/2015년.md "wikilink")부터 [KBO 리그에](https://ko.wikipedia.org/wiki/KBO_리그 "wikilink") 참가했다.
 
 ## 창단 과정
 
@@ -28,15 +28,11 @@
 | **2017** | [김진욱](../Page/김진욱.md "wikilink")                    | 50  | 0   | 94    | 0.347 | 10위   |     |
 | **2018** | 59                                                  | 3   | 82  | 0.418 | 9위    |       |     |
 | **2019** | [이강철](https://ko.wikipedia.org/wiki/이강철 "wikilink") | 71  | 2   | 71    | 0.500 | 6위    |     |
-| **2020** | 63                                                  | 1   | 47  | 0.565 | 3위    |       |     |
-| **합계**   | **6시즌**                                             | 720 | 333 | 9     | 460   |       |     |
+| **2020** | 67                                                  | 1   | 50  | 0.569 | 3위    |       |     |
+| **합계**   | **6시즌**                                             | 720 | 352 | 9     | 477   |       |     |
 |          |                                                     |     |     |       |       |       |     |
 
 ## 선수단
-
-### 현재 선수단
-
-유한준 박경수 강백호 심우준 황재균 소형준
 
 ### 역대 감독
 
@@ -93,12 +89,12 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p><a href="../Page/이강철_(야구인).md" title="wikilink">이강철</a></p></td>
-<td><p><a href="../Page/2018년.md" title="wikilink">2018년</a> <a href="../Page/10월_20일.md" title="wikilink">10월 20일</a> ~ <strong>현재</strong></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="https://ko.wikipedia.org/wiki/9월20일" title="wikilink">9월20일</a> ~ <strong>현재</strong></p></td>
 <td><p>144</p></td>
-<td><p>71</p></td>
-<td><p>2</p></td>
-<td><p>71</p></td>
-<td><p>0.355</p></td>
+<td><p>67승</p></td>
+<td><p>1무</p></td>
+<td><p>50패</p></td>
+<td><p>0.569</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -232,7 +228,7 @@
 
   - 응원단장 : 김주일
   - 아나운서 : 박수미
-  - 치어리더 : 정유민, 유주흔, 이주아, 김진아, 김한슬, 양수진, 신세희, 김나은
+  - 치어리더 : 정유민, 유주흔, 이주아, 김진아, [김한슬](https://ko.wikipedia.org/wiki/김한슬 "wikilink"), 양수진, 신세희, 김나은
 
 ## 각주
 

@@ -220,7 +220,7 @@
 <td><p>2017</p></td>
 <td><p>7월 22일</p></td>
 <td><p>서부 130, 동부 121</p></td>
-<td><p><a href="../Page/키_아레나.md" title="wikilink">키 아레나</a></p></td>
+<td><p><a href="../Page/클라이멋_플레지_아레나.md" title="wikilink">키 아레나</a></p></td>
 <td><p>15,221</p></td>
 <td><p><a href="../Page/시애틀_스톰.md" title="wikilink">시애틀 스톰</a></p></td>
 <td><p><a href="../Page/워싱턴주.md" title="wikilink">워싱턴주</a> <a href="../Page/시애틀.md" title="wikilink">시애틀</a></p></td>
@@ -291,7 +291,7 @@
 | 2008 | [2008년 하계 올림픽으로](https://ko.wikipedia.org/wiki/2008년_하계_올림픽 "wikilink") 인해 개최되지 않다. |                                                                     |                                                                                                     |          |                                                |
 | 2009 | [모히건 선 아레나](../Page/모히건_선_아레나.md "wikilink")                                        | [코네티컷 선](../Page/코네티컷_선.md "wikilink")                              | [코네티컷주](../Page/코네티컷주.md "wikilink") [언캐스빌](https://ko.wikipedia.org/wiki/언캐스빌 "wikilink")          | 베키 해먼    | [샌안토니오 실버스타스](../Page/샌안토니오_스타스.md "wikilink") |
 | 2010 | 케이티 더글러스                                                                            | [인디애나 피버](../Page/인디애나_피버.md "wikilink")                            |                                                                                                     |          |                                                |
-| 2017 | [키 아레나](../Page/키_아레나.md "wikilink")                                                | [시애틀 스톰](../Page/시애틀_스톰.md "wikilink")                              | [워싱턴주](../Page/워싱턴주.md "wikilink") [시애틀](../Page/시애틀.md "wikilink")                                 | 앨리 퀴글리   | [시카고 스카이](../Page/시카고_스카이.md "wikilink")       |
+| 2017 | [키 아레나](../Page/클라이멋_플레지_아레나.md "wikilink")                                         | [시애틀 스톰](../Page/시애틀_스톰.md "wikilink")                              | [워싱턴주](../Page/워싱턴주.md "wikilink") [시애틀](../Page/시애틀.md "wikilink")                                 | 앨리 퀴글리   | [시카고 스카이](../Page/시카고_스카이.md "wikilink")       |
 | 2018 | [타깃 센터](../Page/타깃_센터.md "wikilink")                                                | [미네소타 링크스](../Page/미네소타_링크스.md "wikilink")                          | [미네소타주](../Page/미네소타주.md "wikilink") [미니애폴리스](../Page/미니애폴리스.md "wikilink")                         |          |                                                |
 | 2019 | [만달레이 베이 이벤트 센터](../Page/만달레이_베이_이벤트_센터.md "wikilink")                              | [라스베이거스 에이시스](https://ko.wikipedia.org/wiki/라스베이거스_에이시스 "wikilink") | [네바다주](../Page/네바다주.md "wikilink") [패러다이스](https://ko.wikipedia.org/wiki/패러다이스_\(네바다주\) "wikilink") | 쉐키나 스트릭렌 | [코네티컷 선](../Page/코네티컷_선.md "wikilink")         |
 | 2020 | 미정                                                                                  |                                                                     |                                                                                                     |          |                                                |
