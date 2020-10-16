@@ -156,7 +156,8 @@
   - 2020년 8월 16일 오마이걸 - **\[Digital Single\] 뽀마이걸**
   - 2020년 9월 4일 [헬로\!WM](https://ko.wikipedia.org/wiki/헬로!WM "wikilink")\[48\] - **\[Digital Single\] 너와 나의 시대**
   - 2020년 9월 7일 유아 - **Bon Voyage**
-  - 2020년 10월 ?일 B1A4 - **미정**
+  - 2020년 9월 25일 유아 - **\[Digital Single\]‘로켓 투 더 문\!’**
+  - 2020년 10월 19일 B1A4 - **미정**
 
 ## 각주
 

@@ -35,7 +35,7 @@
 
 다음 동시간대 프로그램은 평일 아침 7시 30분부터 아침 8시 사이에 방송된다.
 
-  - [KBS 1TV](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink")
+  - [KBS 1TV](../Page/KBS_1TV.md "wikilink")
       - [KBS 뉴스광장](../Page/KBS_뉴스광장.md "wikilink") (아침 6시부터 아침 7시 50분)
       - [인간극장](../Page/인간극장.md "wikilink") (아침 7시 50분부터 아침 8시 25분)
   - [KBS 2TV](../Page/KBS_2TV.md "wikilink")

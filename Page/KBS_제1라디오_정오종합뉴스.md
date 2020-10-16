@@ -30,7 +30,7 @@
 | [KBS목포](../Page/KBS목포방송국.md "wikilink")  | KBS 제1라디오 정오종합뉴스 목포·전남    | 정윤심                                                 |
 | [KBS순천](../Page/KBS순천방송국.md "wikilink")  | KBS 제1라디오 정오종합뉴스 전남 동부    | 김다은                                                 |
 | [KBS대구](../Page/KBS대구방송총국.md "wikilink") | KBS 제1라디오 정오종합뉴스 대구·경북    | [김영숙](https://ko.wikipedia.org/wiki/김영숙 "wikilink") |
-| [KBS안동](../Page/KBS안동방송국.md "wikilink")  | KBS 제1라디오 정오종합뉴스 안동       | 박철규                                                 |
+| [KBS안동](../Page/KBS안동방송국.md "wikilink")  | KBS 제1라디오 정오종합뉴스 안동       | 이현정                                                 |
 | [KBS포항](../Page/KBS포항방송국.md "wikilink")  | KBS 제1라디오 정오종합뉴스 포항       | 이영화                                                 |
 | [KBS부산](../Page/KBS부산방송총국.md "wikilink") | KBS 제1라디오 정오종합뉴스 부산       | 장현순                                                 |
 | [KBS울산](../Page/KBS울산방송국.md "wikilink")  | KBS 제1라디오 정오종합뉴스 울산       | 이지향                                                 |

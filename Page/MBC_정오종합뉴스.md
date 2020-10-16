@@ -78,7 +78,7 @@
 | [MBC충북 청주](../Page/MBC충북_청주방송국.md "wikilink") | MBC 정오종합뉴스 충북       | 이영락                              |
 | [MBC충북 충주](../Page/MBC충북_충주방송국.md "wikilink") | 구본상                 |                                  |
 | [대전MBC](../Page/대전문화방송.md "wikilink")         | MBC 정오종합뉴스 대전 세종 충남 | [남유식](../Page/남유식.md "wikilink") |
-| [대구MBC](../Page/대구문화방송.md "wikilink")         | MBC 정오종합뉴스 대구 경북    | 이유진                              |
+| [대구MBC](../Page/대구문화방송.md "wikilink")         | MBC 정오종합뉴스 대구·경북    | 이유진                              |
 | [안동MBC](../Page/안동문화방송.md "wikilink")         | MBC 정오종합뉴스 안동       | 김경환                              |
 | [포항MBC](../Page/포항문화방송.md "wikilink")         | MBC 정오종합뉴스 포항       | 윤수빈                              |
 | [부산MBC](../Page/부산문화방송.md "wikilink")         | MBC 정오종합뉴스 부산       | 박기홍                              |

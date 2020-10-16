@@ -25,14 +25,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/브로맨스_(음악_그룹).md" title="wikilink">브로맨스</a></p></td>
-<td><p>박장현, 박현규, 이찬동, 이현석</p></td>
-<td><p>박장현</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박장현" title="wikilink">박장현</a>, <a href="https://ko.wikipedia.org/wiki/박현규_(가수)" title="wikilink">박현규</a>, <a href="https://ko.wikipedia.org/wiki/이찬동_(가수)" title="wikilink">이찬동</a>, <a href="https://ko.wikipedia.org/wiki/이현석_(가수)" title="wikilink">이현석</a></p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/박장현" title="wikilink">박장현</a></p></td>
 <td><p><a href="../Page/2016년.md" title="wikilink">2016년</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/원어스.md" title="wikilink">원어스</a></p></td>
-<td><p>RAVN, 서호, 이도, 건희, 환웅, 시온</p></td>
+<td><p><a href="../Page/레이븐_(가수).md" title="wikilink">RAVN</a>, 서호, <a href="https://ko.wikipedia.org/wiki/이도_(가수)" title="wikilink">이도</a>, <a href="https://ko.wikipedia.org/wiki/건희_(가수)" title="wikilink">건희</a>, <a href="https://ko.wikipedia.org/wiki/환웅_(가수)" title="wikilink">환웅</a>, <a href="https://ko.wikipedia.org/wiki/시온_(가수)" title="wikilink">시온</a></p></td>
 <td></td>
 <td><p><a href="../Page/2019년.md" title="wikilink">2019년</a></p></td>
 <td></td>
@@ -53,6 +53,16 @@
 </tr>
 </tbody>
 </table>
+
+## 연도별 배출 아티스트
+
+| 연도                                   | 아티스트                                                  | 형태 | 구성원                                                                                                                                                                                                                                                                                  | 데뷔연도                                 | 색깔                                                                                       | 팬클럽             | 리더                                                  |
+| ------------------------------------ | ----------------------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------------------------------------------------------------------- | --------------- | --------------------------------------------------- |
+| [2014년](../Page/2014년.md "wikilink") | [마마무](../Page/마마무.md "wikilink")                      | 그룹 | [솔라](../Page/솔라_\(가수\).md "wikilink"), [문별](../Page/문별.md "wikilink"), [휘인](../Page/휘인.md "wikilink"), [화사](../Page/화사.md "wikilink")                                                                                                                                                | [2014년](../Page/2014년.md "wikilink") | 미정                                                                                       | ToppKlass       | [솔라](../Page/솔라_\(가수\).md "wikilink")               |
+| [2016년](../Page/2016년.md "wikilink") | [로미오](../Page/브로맨스_\(음악_그룹\).md "wikilink")           | 그룹 | [박장현](https://ko.wikipedia.org/wiki/박장현 "wikilink"), [박현규](https://ko.wikipedia.org/wiki/박현규_\(가수\) "wikilink"), [이찬동](https://ko.wikipedia.org/wiki/이찬동_\(가수\) "wikilink"), [이현석](https://ko.wikipedia.org/wiki/이현석_\(가수\) "wikilink")                                              | [2016년](../Page/2016년.md "wikilink") | 미정                                                                                       | 브로콜리 (VROCCOLI) | [박장현](https://ko.wikipedia.org/wiki/박장현 "wikilink") |
+| [2019년](../Page/2019년.md "wikilink") | [원어스](../Page/원어스.md "wikilink")                      | 그룹 | [RAVN](../Page/레이븐_\(가수\).md "wikilink"), 서호, [이도](https://ko.wikipedia.org/wiki/이도_\(가수\) "wikilink"), [건희](https://ko.wikipedia.org/wiki/건희_\(가수\) "wikilink"), [환웅](https://ko.wikipedia.org/wiki/환웅_\(가수\) "wikilink"), [시온](https://ko.wikipedia.org/wiki/시온_\(가수\) "wikilink") | [2019년](../Page/2019년.md "wikilink") | style= "background:linear-gradient(\#006298, \#00966C, \#F8F7F2); " | 어스 문 화이트 글리터링 스페이스 | TO MOON(투문)     | 미정                                                  |
+| [2019년](../Page/2019년.md "wikilink") | [원위](https://ko.wikipedia.org/wiki/원위 "wikilink")     | 그룹 | 용훈 , 강현 (기타), 하린 (드럼), 동명 , 키아                                                                                                                                                                                                                                                       | [2019년](../Page/2019년.md "wikilink") | 미정                                                                                       | 위브(WEVE)        | [용훈](https://ko.wikipedia.org/wiki/용훈 "wikilink")   |
+| [2020년](../Page/2020년.md "wikilink") | [피플키스](https://ko.wikipedia.org/wiki/피플키스 "wikilink") | 그룹 | 박지은, 나고은, 도시, 이레, 유키, 채인, 수안                                                                                                                                                                                                                                                         | [2020년](../Page/2020년.md "wikilink") | 미정                                                                                       | 미정              | 미정                                                  |
 
 ## 아티스트 인큐베이팅 참여 내역
 
