@@ -294,8 +294,8 @@
   - 2020년 7월 31일 남도현 - **\[Digital Single\] 운명 (쿨 Remake)**\[52\]
   - 2020년 8월 5일 원더나인 - **Good Bye 1THE9**
   - 2020년 8월 25일 송가인 - **\[Digital Single\] 확 감아버려**
-  - 2020년 9월 23일 H\&D - **Umbrella**
-  - 2020년 ?월 ?일 [미정](https://ko.wikipedia.org/wiki/미정 "wikilink") - **미정**
+  - 2020년 9월 23일 H\&D - **\[Digital Single\] Umbrella**
+  - 2020년 ?월 ?일 [BAE173](https://ko.wikipedia.org/wiki/BAE173 "wikilink") - **미정**
 
 ## 각주
 
@@ -345,7 +345,7 @@
 42. [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"),[JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink"),[마이네임](../Page/마이네임.md "wikilink"),[임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink") 외 111명도 앨범 침여.
 43. [트로이의](../Page/트로이_\(음악_그룹\).md "wikilink") 멤버 [칸토](https://ko.wikipedia.org/wiki/칸토 "wikilink"),[마이네임](../Page/마이네임.md "wikilink"),[임팩트](../Page/임팩트_\(음악_그룹\).md "wikilink") 외 52명도 앨범 참여.
 44. [아이](../Page/아이_\(가수\).md "wikilink"),[JOO](https://ko.wikipedia.org/wiki/주_\(가수\) "wikilink") 외 58명도 앨범 참여.
-45. [원더걸스](../Page/원더걸스.md "wikilink")의 멤버 [선미](../Page/선미.md "wikilink"),[백지영](../Page/백지영.md "wikilink"),[슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 멤버 [은혁](../Page/은혁.md "wikilink"),[다비치](../Page/다비치.md "wikilink"),[NRG](https://ko.wikipedia.org/wiki/NRG_\(음악_그룹\) "wikilink"),[아스트로의](../Page/아스트로_\(음악_그룹\).md "wikilink") 두 멤버 [문빈](../Page/문빈.md "wikilink"),[MJ](https://ko.wikipedia.org/wiki/MJ_\(가수\) "wikilink"),[김조한](../Page/김조한.md "wikilink"),[더 원](https://ko.wikipedia.org/wiki/더_원_\(가수\) "wikilink"),[B.A.P](../Page/B.A.P.md "wikilink")의 두 멤버 [영재](../Page/영재_\(1994년\).md "wikilink"),[종업](../Page/종업.md "wikilink"),[헤일로의](../Page/헤일로_\(음악_그룹\).md "wikilink") 세 멤버 [오운](../Page/헤일로_\(음악_그룹\).md "wikilink"),[재용](../Page/헤일로_\(음악_그룹\).md "wikilink"),[희천](../Page/헤일로_\(음악_그룹\).md "wikilink"),[B.I.G](https://ko.wikipedia.org/wiki/B.I.G "wikilink")의 두 멤버 [희건](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[건민](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[진세연](../Page/진세연.md "wikilink")도 앨범 참여.
+45. [원더걸스](../Page/원더걸스.md "wikilink")의 멤버 [선미](../Page/선미.md "wikilink"),[백지영](../Page/백지영.md "wikilink"),[슈퍼주니어](../Page/슈퍼주니어.md "wikilink")의 멤버 [은혁](../Page/은혁.md "wikilink"),[다비치](../Page/다비치.md "wikilink"),[NRG](https://ko.wikipedia.org/wiki/NRG_\(음악_그룹\) "wikilink"),[아스트로의](../Page/아스트로_\(음악_그룹\).md "wikilink") 두 멤버 [문빈](../Page/문빈.md "wikilink"),[MJ](../Page/MJ_\(가수\).md "wikilink"),[김조한](../Page/김조한.md "wikilink"),[더 원](https://ko.wikipedia.org/wiki/더_원_\(가수\) "wikilink"),[B.A.P](../Page/B.A.P.md "wikilink")의 두 멤버 [영재](../Page/영재_\(1994년\).md "wikilink"),[종업](../Page/종업.md "wikilink"),[헤일로의](../Page/헤일로_\(음악_그룹\).md "wikilink") 세 멤버 [오운](../Page/헤일로_\(음악_그룹\).md "wikilink"),[재용](../Page/헤일로_\(음악_그룹\).md "wikilink"),[희천](../Page/헤일로_\(음악_그룹\).md "wikilink"),[B.I.G](https://ko.wikipedia.org/wiki/B.I.G "wikilink")의 두 멤버 [희건](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[건민](https://ko.wikipedia.org/wiki/B.I.G "wikilink"),[진세연](../Page/진세연.md "wikilink")도 앨범 참여.
 46. [DJ H.One도](https://ko.wikipedia.org/wiki/DJ_H.One "wikilink") 앨범 참여.
 47. [트리탑스](https://ko.wikipedia.org/wiki/트리탑스 "wikilink"),[씨에](https://ko.wikipedia.org/wiki/씨에 "wikilink"),[몬스타엑스](../Page/몬스타엑스.md "wikilink")의 멤버 [형원](../Page/형원.md "wikilink"),[AOA의](../Page/AOA_\(음악_그룹\).md "wikilink") 멤버 [지민](../Page/지민_\(래퍼\).md "wikilink"),[럭키제이](../Page/럭키제이.md "wikilink")의 멤버 [제시](../Page/제시_\(가수\).md "wikilink"),[티아라의](../Page/티아라_\(음악_그룹\).md "wikilink") 멤버 [효민](../Page/효민.md "wikilink"),[DJ DOC의](../Page/DJ_DOC.md "wikilink") 멤버 [김창렬](https://ko.wikipedia.org/wiki/김창렬 "wikilink")도 앨범 참여.
 48. [빅톤의](../Page/빅톤_\(음악_그룹\).md "wikilink") 두 멤버 [한승우](../Page/한승우_\(가수\).md "wikilink"),[최병찬](../Page/최병찬.md "wikilink"),[유니크의](../Page/유니크_\(음악_그룹\).md "wikilink") 멤버 [조승연](https://ko.wikipedia.org/wiki/WOODZ "wikilink"),[인투잇](../Page/인투잇.md "wikilink")의 멤버 [성현](../Page/인투잇.md "wikilink"),[박선호](../Page/박선호_\(배우\).md "wikilink") 외 92명도 앨범 참여.

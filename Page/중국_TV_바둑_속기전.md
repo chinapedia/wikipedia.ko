@@ -28,7 +28,7 @@
 | 9  | 1995 | '''[마샤오춘](../Page/마샤오춘.md "wikilink")                      | 1-0 | [녜웨이핑](../Page/녜웨이핑.md "wikilink")                            |
 | 10 | 1996 | '''[차오다위안](https://ko.wikipedia.org/wiki/차오다위안 "wikilink") | 1-0 | [왕레이](https://ko.wikipedia.org/wiki/왕레이_\(1977년\) "wikilink") |
 | 11 | 1997 | '''[녜웨이핑](../Page/녜웨이핑.md "wikilink")                      | 1-0 | [위빈](../Page/위빈_\(바둑_기사\).md "wikilink")                      |
-| 12 | 1999 | '''[창하오](../Page/창하오.md "wikilink")                        | 1-0 | [류싱](../Page/류싱.md "wikilink")                                |
+| 12 | 1999 | '''[창하오](../Page/창하오.md "wikilink")                        | 1-0 | [류징](https://ko.wikipedia.org/wiki/류징 "wikilink")             |
 | 13 | 2001 | '''[후야오위](../Page/후야오위.md "wikilink")                      | 1-0 | [마샤오춘](../Page/마샤오춘.md "wikilink")                            |
 |    |      |                                                            |     |                                                               |
 
@@ -85,6 +85,7 @@
 | 1  | 2017 | **[장타오](https://ko.wikipedia.org/wiki/장타오_\(바둑_기사\) "wikilink")** | 1-0 | [리쉬안하오](https://ko.wikipedia.org/wiki/리쉬안하오 "wikilink") |
 | 2  | 2018 | **[판팅위](../Page/판팅위_\(1996년\).md "wikilink")**                    | 1-0 | [판윈뤄](https://ko.wikipedia.org/wiki/판윈뤄 "wikilink")     |
 | 3  | 2019 | **[딩하오](https://ko.wikipedia.org/wiki/딩하오 "wikilink")**           | 1-0 | [쉬자양](../Page/쉬자양.md "wikilink")                        |
+| 4  | 2020 | **[구쯔하오](../Page/구쯔하오.md "wikilink")**                            | 1-0 | [롄샤오](https://ko.wikipedia.org/wiki/롄샤오 "wikilink")     |
 |    |      |                                                                   |     |                                                         |
 
 [분류:중국의 바둑 기전](https://ko.wikipedia.org/wiki/분류:중국의_바둑_기전 "wikilink")

@@ -43,8 +43,6 @@
 
 ## 갤러리
 
-파일:Hyperion Towers Night.JPG
-
 ## 같이 보기
 
   - [SBS](../Page/SBS_\(대한민국의_방송사\).md "wikilink")
