@@ -13,15 +13,19 @@ ARJ21은 [맥도넬 더글라스의](https://ko.wikipedia.org/wiki/맥도넬_더
 
 ## 주문 현황
 
-  - [중국국제항공](../Page/중국국제항공.md "wikilink"): 1대
-  - [청두 항공](../Page/청두_항공.md "wikilink"): 20대
-  - [OTT 항공](../Page/OTT_항공.md "wikilink"): 1대
-  - [중국남방항공](../Page/중국남방항공.md "wikilink"): 6대
-  - 중국 비행 종합 항공 회사: 1대
-  - [징기스칸 항공](../Page/징기스칸_항공.md "wikilink"): 4대
-  - [장시 항공](https://ko.wikipedia.org/wiki/장시_항공 "wikilink"): 3대
-  - [우루무치 항공](https://ko.wikipedia.org/wiki/우루무치_항공 "wikilink"): 1대
-  - 총: 32대
+| 항공사                                                         | 대수 |
+| ----------------------------------------------------------- | -- |
+| [중국국제항공](../Page/중국국제항공.md "wikilink")                      | 1  |
+| [청두 항공](../Page/청두_항공.md "wikilink")                        | 20 |
+| [OTT 항공](../Page/OTT_항공.md "wikilink")                      | 1  |
+| [중국남방항공](../Page/중국남방항공.md "wikilink")                      | 6  |
+| 중국 비행 종합 항공 회사                                              | 1  |
+| [징기스칸 항공](../Page/징기스칸_항공.md "wikilink")                    | 4  |
+| [장시 항공](https://ko.wikipedia.org/wiki/장시_항공 "wikilink")     | 3  |
+| [우루무치 항공](https://ko.wikipedia.org/wiki/우루무치_항공 "wikilink") | 1  |
+| 합계                                                          | 32 |
+
+**코맥 ARJ21의 주문 현황**
 
 ## 개발경쟁
 

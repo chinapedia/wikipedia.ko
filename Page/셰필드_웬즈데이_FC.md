@@ -218,8 +218,6 @@
 
 ## 각주
 
-<references/>
-
 ## 외부 링크
 
   - [공식 홈페이지](http://www.swfc.co.uk)

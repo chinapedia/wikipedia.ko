@@ -48,8 +48,9 @@
   - [2010년](../Page/2010년.md "wikilink") [5월](../Page/5월.md "wikilink"): MBCNET 임대송출 종료, tvN go 임대송출 시작
   - [2010년](../Page/2010년.md "wikilink") [7월](../Page/7월.md "wikilink"): 2010메이저리그(MLB) 방송개시
   - [2010년](../Page/2010년.md "wikilink") [8월](../Page/8월.md "wikilink"): QBS+ 수도권외 지역 임대송출 종료, QBS 트위터 오픈
-  - [2010년](../Page/2010년.md "wikilink") [10월](../Page/10월.md "wikilink"): 2010-2011 유럽축구 편성
-  - [2010년](../Page/2010년.md "wikilink") [11월](../Page/11월.md "wikilink"): 2010광저우아시안게임 편성
+  - [2010년](../Page/2010년.md "wikilink") [10월](../Page/10월.md "wikilink"): 2010 - 2011 유럽 축구 편성
+  - [2010년](../Page/2010년.md "wikilink") [11월](../Page/11월.md "wikilink"): 2010 광저우 아시안 게임 편성
+  - [2012년](../Page/2012년.md "wikilink") [1월](../Page/1월.md "wikilink") : 지상파 DMB 종합 편성 채널로 변경, [뉴스Y](https://ko.wikipedia.org/wiki/뉴스Y "wikilink")와 제휴
   - [2013년](../Page/2013년.md "wikilink") [5월](../Page/5월.md "wikilink"): tvN go 방송 종료, CJ O SHOPPING DMB TV 방송 송출 시작
   - [2014년](../Page/2014년.md "wikilink") [1월](../Page/1월.md "wikilink"): \#Love tbs 방송 종료, GS SHOP, QBS JTBC DMB TV 방송 송출 시작
   - [2018년](../Page/2018년.md "wikilink") [11월](../Page/11월.md "wikilink"): GS SHOP 방송 송출 종료

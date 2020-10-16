@@ -498,10 +498,14 @@ MBC 창사기념일([12월 2일](../Page/12월_2일.md "wikilink"))을 즈음하
 
 ## 같이 보기
 
-  - [KBS 제1FM](../Page/KBS_제1FM.md "wikilink")
-  - [KBS 제2FM](../Page/KBS_제2FM.md "wikilink")
+  - [KBS 제1라디오](../Page/KBS_제1라디오.md "wikilink")
+  - [KBS 제2라디오](../Page/KBS_제2라디오.md "wikilink")
+  - [EBS FM](../Page/EBS_FM.md "wikilink")
   - [SBS 파워FM](../Page/SBS_파워FM.md "wikilink")
   - [CBS 음악FM](../Page/CBS_음악FM.md "wikilink")
+  - [TBS FM](../Page/TBS_\(대한민국의_방송사\).md "wikilink")
+  - [EBS 1TV](../Page/EBS_1TV.md "wikilink")
+  - [극동방송](../Page/극동방송.md "wikilink")
 
 ## 각주
 
