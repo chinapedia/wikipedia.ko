@@ -22,7 +22,7 @@
 ### 그 외 인물
 
   - [한태일](../Page/한태일.md "wikilink") : 이기백 역
-  - [이보현](https://ko.wikipedia.org/wiki/이보현 "wikilink") : 문정규 역
+  - [이보현](https://ko.wikipedia.org/wiki/이상보 "wikilink") : 문정규 역
   - [방중현](../Page/방중현.md "wikilink")
   - 한춘일
   - 고진명
