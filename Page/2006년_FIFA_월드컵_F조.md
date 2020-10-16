@@ -712,7 +712,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>최우수 선수:</strong><br />
-<a href="https://ko.wikipedia.org/wiki/제_호베르투_(1974년)" title="wikilink">제 호베르투</a> (브라질)</p>
+<a href="../Page/제_호베르투_(1974년).md" title="wikilink">제 호베르투</a> (브라질)</p>
 <p><strong>부심:</strong><br />
 크리스티안 슈레어 (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)<br />
 얀-헨드리크 잘버 (<a href="https://ko.wikipedia.org/wiki/독일_축구_협회" title="wikilink">독일</a>)<br />
