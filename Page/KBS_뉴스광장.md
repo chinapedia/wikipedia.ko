@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [KBS 뉴스광장](https://ko.wikipedia.org/wiki/KBS_뉴스광장).
 
 
-《**KBS 뉴스광장**》()(KBS 뉴스廣場)은 [월요일](../Page/월요일.md "wikilink") \~ [토요일](../Page/토요일.md "wikilink") 아침 6시에 [KBS 1TV와](https://ko.wikipedia.org/wiki/KBS_1TV "wikilink") [KBS 제1라디오로](../Page/KBS_제1라디오.md "wikilink") 방송되는 [한국방송공사의 아침종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
+《**KBS 뉴스광장**》()(KBS 뉴스廣場)은 [월요일](../Page/월요일.md "wikilink") \~ [토요일](../Page/토요일.md "wikilink") 아침 6시에 [KBS 1TV와](../Page/KBS_1TV.md "wikilink") [KBS 제1라디오로](../Page/KBS_제1라디오.md "wikilink") 방송되는 [한국방송공사의 아침종합뉴스 프로그램이다](../Page/한국방송공사의_뉴스_프로그램.md "wikilink").
 
 ## 기획 의도
 
@@ -28,7 +28,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a></p></td>
 <td><p><a href="../Page/1981년.md" title="wikilink">1981년</a> <a href="../Page/5월_25일.md" title="wikilink">5월 25일</a> ~ <a href="../Page/1982년.md" title="wikilink">1982년</a> <a href="../Page/9월_19일.md" title="wikilink">9월 19일</a></p></td>
 <td><p>매일 아침 7시 ~ 8시 (1시간)</p></td>
 <td></td>
@@ -216,9 +216,9 @@
 
 | 코너명       | 진행자                                           |
 | --------- | --------------------------------------------- |
-| 헤드라인      | 위재천 기자, [백정원](../Page/백정원.md "wikilink") 아나운서 |
+| 헤드라인      | 위재천 기자, [변우영](../Page/변우영.md "wikilink") 아나운서 |
 | 날씨        | [배혜지](../Page/배혜지.md "wikilink") 기상캐스터        |
-| 지금 세계는    | [백정원](../Page/백정원.md "wikilink") 아나운서         |
+| 지금 세계는    | [변우영](../Page/변우영.md "wikilink") 아나운서         |
 | 이 시각 고속도로 |                                               |
 | KBS 뉴스해설  |                                               |
 | 뉴스광장 영상   |                                               |
@@ -601,7 +601,7 @@
 <tr class="odd">
 <td><p>임시</p></td>
 <td><p><a href="../Page/박소현_(1992년).md" title="wikilink">박소현</a></p></td>
-<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/8월_22일.md" title="wikilink">8월 22일</a> ~ <a href="../Page/8월_29일.md" title="wikilink">8월 29일</a></p></td>
+<td><p><a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/8월_22일.md" title="wikilink">8월 22일</a> ~ <a href="../Page/2020년.md" title="wikilink">2020년</a> <a href="../Page/8월_29일.md" title="wikilink">8월 29일</a></p></td>
 <td><p>[54]</p></td>
 </tr>
 <tr class="even">
@@ -759,6 +759,6 @@
 50. KBS의 [2018년 동계 올림픽](../Page/2018년_동계_올림픽.md "wikilink") 중계방송으로 인하여, [2018년](../Page/2018년.md "wikilink") [2월 10일](../Page/2월_10일.md "wikilink") \~ [2018년](../Page/2018년.md "wikilink") [2월 24일](../Page/2월_24일.md "wikilink") 방송분은 [김재홍](../Page/김재홍_\(아나운서\).md "wikilink") 아나운서와 [김윤지](../Page/김윤지_\(아나운서\).md "wikilink") 아나운서(現. [KBS 뉴스타임 (1500)](../Page/KBS_뉴스타임_\(1500\).md "wikilink") 앵커)가 대신 진행했다.
 51. [변우영](../Page/변우영.md "wikilink") 아나운서의 휴가로 인하여, [2019년](../Page/2019년.md "wikilink") [6월 22일](../Page/6월_22일.md "wikilink") \~ [2019년](../Page/2019년.md "wikilink") [7월 6일](../Page/7월_6일.md "wikilink") 방송분은 [박주아](../Page/박주아_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
 52. 위재천 기자의 개인 사정으로 인하여, [2020년](../Page/2020년.md "wikilink") [8월 1일](../Page/8월_1일.md "wikilink") 방송분은 [김재홍](../Page/김재홍_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
-53. [변우영](../Page/변우영.md "wikilink") 아나운서의 휴가로 인하여, [2020년](../Page/2020년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") 방송분은 [이슬기](../Page/이슬기_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
-54. 변우영 아나운서의 갑작스런 사정 관계로 아무 소식도 없이 하차하게 되어 본래는 여자 진행자의 박소현 아나운서의 정식 진행자 예정되어 있었으나 임시 진행자이다.
-55. 본래는 박소현 아나운서가 예정되어 있었으나 아닌 백정원 진행자로 대체했다.
+53. [변우영](../Page/변우영.md "wikilink") 아나운서의 휴가로 인하여, [2019년](../Page/2019년.md "wikilink") [12월 28일](../Page/12월_28일.md "wikilink") \~ [2020년](../Page/2020년.md "wikilink") [1월 11일](../Page/1월_11일.md "wikilink") 방송분은 [이슬기](../Page/이슬기_\(아나운서\).md "wikilink") 아나운서가 대신 진행했다.
+54. 변우영 아나운서의 갑작스러운 사정 관계로 아무런 소식도 없이 토요일 KBS 뉴스광장에서 하차하게 되어, 본래는 여자앵커의 박소현 아나운서의 정식 앵커가 예정되어 있었으나 임시 여자앵커이다.
+55. 본래는 박소현 아나운서가 예정되어 있었으나 아닌 백정원 아나운서로 대체했다.

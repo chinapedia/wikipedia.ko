@@ -1,13 +1,17 @@
 > This article is converted from Wikipedia: [MBC 수목 드라마](https://ko.wikipedia.org/wiki/MBC_수목_드라마).
 
 
-**MBC 수목 드라마**는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 [수요일](../Page/수요일.md "wikilink")부터 [목요일](../Page/목요일.md "wikilink")까지 밤 9시 30분에 방송되는 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
+**MBC 수목 드라마**는 [MBC](https://ko.wikipedia.org/wiki/MBC "wikilink")에서 [수요일](../Page/수요일.md "wikilink")부터 [목요일](../Page/목요일.md "wikilink") 오후 9시 20분에 방송 중인 [TV 드라마이다](https://ko.wikipedia.org/wiki/TV_드라마 "wikilink").
 
-[1987년](../Page/1987년.md "wikilink")부터 정착되기 시작한 ‘미니 시리즈’는 8부작으로 월·화요일에 방송하였으며 수·목요일에는 주로 대하 드라마나 중·장편극 또는 특별 기획 드라마를 방영하였다. 하지만 [1998년](../Page/1998년.md "wikilink") [8월 13일에](../Page/8월_13일.md "wikilink") 끝난 《[대왕의 길](../Page/대왕의_길.md "wikilink")》 이후 방송된 《[적과의 동거](../Page/적과의_동거.md "wikilink")》부터 ‘수목 미니시리즈’로 체계가 잡히기 시작했다. 그러나 24부작 이상인 드라마는 **수목 드라마**란 타이틀이 붙였으며 《[태왕사신기](../Page/태왕사신기.md "wikilink")》나 《[로드 넘버원](../Page/로드_넘버원.md "wikilink")》 등 ‘특별 기획 드라마’로 제작된 드라마가 방영되기도 하고 《[나는 별 일 없이 산다](../Page/나는_별_일_없이_산다.md "wikilink")》나 《[못난이 송편](../Page/못난이_송편.md "wikilink")》 등 2\~4부작짜리 단편극인 ‘특집 드라마’로 방영되는 예외적인 경우도 있다.
+[1987년](../Page/1987년.md "wikilink")부터 정착되기 시작한 미니 시리즈는 8부작으로 월요일부터 화요일에 방송하였으며 수요일부터 목요일에는 주로 대하 드라마나 중·장편극이나 특별 기획 드라마를 방영하였다.
+
+하지만 [1998년](../Page/1998년.md "wikilink") [8월 13일에](../Page/8월_13일.md "wikilink") 끝난 《[대왕의 길](../Page/대왕의_길.md "wikilink")》 이후 방송된 《[적과의 동거](../Page/적과의_동거.md "wikilink")》부터 ‘수목 미니 시리즈’로 체계가 잡히기 시작했다.
+
+그러나 24부작 이상인 드라마는 **수목 드라마**란 타이틀이 붙였으며 《[태왕사신기](../Page/태왕사신기.md "wikilink")》나 《[로드 넘버원](../Page/로드_넘버원.md "wikilink")》 등 ‘특별 기획 드라마’로 제작된 드라마가 방영되기도 하고 《[나는 별 일 없이 산다](../Page/나는_별_일_없이_산다.md "wikilink")》나 《[못난이 송편](../Page/못난이_송편.md "wikilink")》 등 2 \~ 4부작짜리 단편 드라마인 ‘특집 드라마’로 방영되는 예외적인 경우도 있다.
 
 ## 방송 시간
 
-현재 방송 시간은 [2020년](../Page/2020년.md "wikilink") [7월 22일부터](../Page/7월_22일.md "wikilink") 기준으로 한다.
+현재 방송 시간은 [2020년](../Page/2020년.md "wikilink") [9월 16일부터](../Page/9월_16일.md "wikilink") 기준으로 한다.
 
 <table>
 <thead>
@@ -455,7 +459,7 @@
   - 《[꼰대인턴](https://ko.wikipedia.org/wiki/꼰대인턴 "wikilink")》 : 2020년 5월 20일 \~ 2020년 7월 1일 (이 작품까지 1회당 30분 2회 분할 편성)
   - 《[미쓰리는 알고 있다](https://ko.wikipedia.org/wiki/미쓰리는_알고_있다 "wikilink")》 : 2020년 7월 8일 \~ 2020년 7월 16일 (본 작품부터 1회당 1부, 2부 각각 35분, 40분씩 분할 편성)
   - 《[십시일반](https://ko.wikipedia.org/wiki/십시일반_\(드라마\) "wikilink")》 : 2020년 7월 22일 \~ 2020년 8월 13일 (본 작품부터 1회당 1부 40분, 2부 30분 분할 편성)
-  - 《[내가 가장 예뻤을 때](https://ko.wikipedia.org/wiki/내가_가장_예뻤을_때 "wikilink")》 : 2020년 8월 19일 \~ 2020년 10월 14일
+  - 《[내가 가장 예뻤을 때](https://ko.wikipedia.org/wiki/내가_가장_예뻤을_때 "wikilink")》 : 2020년 8월 19일 \~ 2020년 10월 15일
   - 《[나를 사랑한 스파이](https://ko.wikipedia.org/wiki/나를_사랑한_스파이 "wikilink")》 : 2020년 10월 21일 \~
   - 《[내 이웃의 속삭임](https://ko.wikipedia.org/wiki/내_이웃의_속삭임 "wikilink")》 : 2020년 12월 \~
 
