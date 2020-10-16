@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [DVD-R](https://ko.wikipedia.org/wiki/DVD-R).
 
 
-[섬네일](https://ko.wikipedia.org/wiki/파일:Dvdrspindle.png "wikilink") **DVD-R**은 [DVD](../Page/DVD.md "wikilink")를 기록할 수 있는 포맷이다. [파이오니어가](https://ko.wikipedia.org/wiki/파이오니어_주식회사 "wikilink") 개발한 표준 용량은 3.95 GB (3.68 GiB)였지만, DVD-R은의 용량은 보통 4.71 [GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") (4.39 GiB)이다. 앞서 언급한 두 개의 값은 이전 광학 매체인 700 [MB](../Page/메가바이트.md "wikilink") [CD-R](../Page/CD-R.md "wikilink")보다 용량이 크다.
+[섬네일](https://ko.wikipedia.org/wiki/파일:Verbatim_16x_DVD-R_spindle_20050708.png "wikilink") **DVD-R**은 [DVD](../Page/DVD.md "wikilink")를 기록할 수 있는 포맷이다. [파이오니어가](https://ko.wikipedia.org/wiki/파이오니어_주식회사 "wikilink") 개발한 표준 용량은 3.95 GB (3.68 GiB)였지만, DVD-R은의 용량은 보통 4.71 [GB](https://ko.wikipedia.org/wiki/기가바이트 "wikilink") (4.39 GiB)이다. 앞서 언급한 두 개의 값은 이전 광학 매체인 700 [MB](../Page/메가바이트.md "wikilink") [CD-R](../Page/CD-R.md "wikilink")보다 용량이 크다.
 
 파이오니어는 8.54 GB [듀얼 레이어](https://ko.wikipedia.org/wiki/DVD-R_DL "wikilink") 버전인 [DVD-R DL를](https://ko.wikipedia.org/wiki/DVD-R_DL "wikilink") 개발하여 2005년에 시장에 내놓았다. DVD-R의 데이터는 변경하지 못하는 반면에, [DVD-RW](https://ko.wikipedia.org/wiki/DVD-RW "wikilink") 매체는 여러 번(1000번 이상) 다시 기록할 수 있다. DVD-R(W)는 경쟁 산업 표준인 DVD 포맷 가운데 하나이며, 이와 다른 종류로는 [DVD+R](../Page/DVD+R.md "wikilink")(W)와 [DVD-RAM](../Page/DVD-RAM.md "wikilink")이 있다.
 

@@ -17,7 +17,7 @@ Cryptic Writings는 헤비메탈 밴드 메가데스의 7번째 스튜디오 앨
 
 Youthanasia의 경향을 이어받아, Cryptic Writings는 정치 분야보다는 개인적인 내용의 노래를 더 많이 포함하고 있다. 또한 기존 메가데스의 1990년대 하드락 스타일을 이어갔다. 그러나 "The Disintegrators", "She-Wolf", "Vortex", "FFF"등은 1980년대 스래쉬 메탈의 경향을 보이고 있으며, "I'll get Even"과 같은 곡은 종전보다 창의적인 형식을 보이고 있다.
 
-미국반 Cryptic Writings의 초판 500,000장은 은색 커버로 발매되었다. 초판 안에는 CHAOS\! Comics의 앨범 홍보 만화인 "The Cryptic Writings Of Megadeth" 4컷이 포함된 Vic Rattlehead의 카드가 동봉되었다. 그 후의 앨범은 검정색 커버로 발매되었으며, 이는 리마스터 판에서도 동일하다. 1997년 원본은 고음질 HDCD로 제작되었다.
+미국반 Cryptic Writings의 초판 500,000장은 은색 커버로 발매되었다. 초판 안에는 CHAOS\! Comics의 앨범 홍보 만화인 "The Cryptic Writings Of Megadeth" 4컷이 포함된 Vic Rattlehead의 카드가 동봉되었다. 그 후의 앨범은 검은색 커버로 발매되었으며, 이는 리마스터 판에서도 동일하다. 1997년 원본은 고음질 HDCD로 제작되었다.
 
 "Trust"와 "Almost Honest"는 사람간의 관계와, 거짓말이 사람을 얼마나 황폐하게 만드는지에 대해 다루고 있다. 마약 중독과 같은 사회 문제("Use the Man")과 학교내 총기 난사 사건("Have Cool, Will Travel")같은 내용도 다루고 있다. 특별히 정치에 대한 비판을 노래한 곡들은 없으나, "The Disintegrators"나 "FFF(Fight For Freedom의 준말)"등은 혁명이나 반동 등의 내용을 포함하고 있다. "She-Wolf"나 "Vortex"같은 곡은 과거 "Five Magics", "Elysian Fields", "Bad Omen"등과 같은 오컬트 테마를 포함하고 있다.
 

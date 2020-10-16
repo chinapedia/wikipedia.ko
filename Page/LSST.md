@@ -82,7 +82,7 @@
   - [퍼듀 대학교](../Page/퍼듀_대학교.md "wikilink")
   - **Research Corporation**
   - [스탠퍼드 선형 가속기 센터](https://ko.wikipedia.org/wiki/스탠퍼드_선형_가속기_센터 "wikilink")
-  - **아리조나 대학교**
+  - **[아리조나대학교](../Page/애리조나_대학교.md "wikilink")**
   - [캘리포니아 대학교 데이비스](../Page/캘리포니아_대학교_데이비스.md "wikilink")
   - [캘리포니아 대학교 얼바인](https://ko.wikipedia.org/wiki/캘리포니아_대학교_얼바인 "wikilink")
   - [일리노이 대학교 얼바나-샴페인](https://ko.wikipedia.org/wiki/일리노이_대학교_얼바나-샴페인 "wikilink")
