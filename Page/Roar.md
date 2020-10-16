@@ -168,7 +168,7 @@
 
   - [공식 비디오](http://www.vevo.com/watch/katy-perry/roar-lyric-video/USUV71301735) ― [VEVO](https://ko.wikipedia.org/wiki/VEVO "wikilink")
 
-[분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink") [분류:2013년 노래](https://ko.wikipedia.org/wiki/분류:2013년_노래 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:여성주의를 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:여성주의를_소재로_한_노래 "wikilink")
+[분류:2013년 싱글](https://ko.wikipedia.org/wiki/분류:2013년_싱글 "wikilink") [분류:2013년 노래](https://ko.wikipedia.org/wiki/분류:2013년_노래 "wikilink") [분류:케이티 페리의 노래](https://ko.wikipedia.org/wiki/분류:케이티_페리의_노래 "wikilink") [분류:영어 노래](https://ko.wikipedia.org/wiki/분류:영어_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:여성주의를 소재로 한 노래](https://ko.wikipedia.org/wiki/분류:여성주의를_소재로_한_노래 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.
 2.
