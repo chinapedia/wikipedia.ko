@@ -7,7 +7,7 @@
 
 ## 색상
 
-  - [스테인리스 316L로](https://ko.wikipedia.org/wiki/스테인리스_316L "wikilink") 둘러싸인 검정색 (공통) - 시계줄 (22mm표준) 교체가능
+  - [스테인리스 316L로](https://ko.wikipedia.org/wiki/스테인리스_316L "wikilink") 둘러싸인 검은색 (공통) - 시계줄 (22mm표준) 교체가능
       - 가죽 시계줄 (검정 색상)
 
 ## 비교
