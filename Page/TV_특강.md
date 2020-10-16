@@ -35,7 +35,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ko.wikipedia.org/wiki/KBS_1TV" title="wikilink">KBS 1TV</a></p></td>
+<td><p><a href="../Page/KBS_1TV.md" title="wikilink">KBS 1TV</a></p></td>
 <td><p><a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/3월_8일.md" title="wikilink">3월 8일</a> ~ <a href="../Page/2012년.md" title="wikilink">2012년</a> <a href="../Page/4월_26일.md" title="wikilink">4월 26일</a></p></td>
 <td><p>매주 <a href="../Page/목요일.md" title="wikilink">목요일</a> 오전 11:00 ~ 11:55 (55분)</p></td>
 </tr>

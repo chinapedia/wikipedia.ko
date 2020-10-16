@@ -9,7 +9,7 @@
 
 ### 성능
 
-사양은 [TGV 레조와](../Page/SNCF_TGV_레조.md "wikilink") 동일하며 출력 증대를 위한 모터 블록 추가, 직류 1.5KV 장치 제거, 답면구배 조정\[2\]이 실시되었고 [회생 제동도](https://ko.wikipedia.org/wiki/회생_제동 "wikilink") 추가되었다. [대차](../Page/대차.md "wikilink")는 [기관차](../Page/기관차.md "wikilink")에 통형고무식, [객차](https://ko.wikipedia.org/wiki/객차 "wikilink")에 한쪽지지 액슬빔식 [볼스터리스 대차를](../Page/볼스터리스_대차.md "wikilink") 채용하였다. [2차 서스펜션은](../Page/2차_서스펜션.md "wikilink") [공기 용수철](https://ko.wikipedia.org/wiki/공기_용수철 "wikilink"), 축거는 3.0m와 2.5m다. 고속으로 주행하기 때문에 [사행동](../Page/사행동.md "wikilink") 억제를 위해서 요댐퍼가 설치되어 있다.
+사양은 [TGV 레조와](../Page/SNCF_TGV_레조.md "wikilink") 동일하며 출력 증대를 위한 모터 블록 추가, 직류 1.5KV 장치 제거, 답면구배 조정\[2\]이 실시되었고 [회생 제동도](../Page/회생_제동.md "wikilink") 추가되었다. [대차](../Page/대차.md "wikilink")는 [기관차](../Page/기관차.md "wikilink")에 통형고무식, [객차](https://ko.wikipedia.org/wiki/객차 "wikilink")에 한쪽지지 액슬빔식 [볼스터리스 대차를](../Page/볼스터리스_대차.md "wikilink") 채용하였다. [2차 서스펜션은](../Page/2차_서스펜션.md "wikilink") [공기 용수철](https://ko.wikipedia.org/wiki/공기_용수철 "wikilink"), 축거는 3.0m와 2.5m다. 고속으로 주행하기 때문에 [사행동](../Page/사행동.md "wikilink") 억제를 위해서 요댐퍼가 설치되어 있다.
 
 ### 차체
 

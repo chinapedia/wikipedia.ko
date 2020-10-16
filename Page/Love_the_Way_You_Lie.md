@@ -11,7 +11,7 @@
 
 <references/>
 
-[분류:에미넴의 노래](https://ko.wikipedia.org/wiki/분류:에미넴의_노래 "wikilink") [분류:리한나의 노래](https://ko.wikipedia.org/wiki/분류:리한나의_노래 "wikilink") [분류:2010년 싱글](https://ko.wikipedia.org/wiki/분류:2010년_싱글 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:2010년 노래](https://ko.wikipedia.org/wiki/분류:2010년_노래 "wikilink")
+[분류:에미넴의 노래](https://ko.wikipedia.org/wiki/분류:에미넴의_노래 "wikilink") [분류:리한나의 노래](https://ko.wikipedia.org/wiki/분류:리한나의_노래 "wikilink") [분류:2010년 싱글](https://ko.wikipedia.org/wiki/분류:2010년_싱글 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:2010년 노래](https://ko.wikipedia.org/wiki/분류:2010년_노래 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.  여성가족부고시 제2010-22호 (청소년 유해 매체물)
 2.  여성가족부고시 제2010-12호 (청소년 유해 매체물)

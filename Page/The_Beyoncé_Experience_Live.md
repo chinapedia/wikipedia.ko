@@ -128,7 +128,7 @@ Some of the concerts live version instrumentation's were made available to downl
 
 ## 각주
 
-[분류:2007년 라이브 음반](https://ko.wikipedia.org/wiki/분류:2007년_라이브_음반 "wikilink") [분류:2007년 영상 음반](https://ko.wikipedia.org/wiki/분류:2007년_영상_음반 "wikilink") [분류:영어 음반](https://ko.wikipedia.org/wiki/분류:영어_음반 "wikilink") [분류:비욘세의 비디오 음반](https://ko.wikipedia.org/wiki/분류:비욘세의_비디오_음반 "wikilink") [분류:라이브 비디오 음반](https://ko.wikipedia.org/wiki/분류:라이브_비디오_음반 "wikilink") [분류:2007년 영상 음반](https://ko.wikipedia.org/wiki/분류:2007년_영상_음반 "wikilink")
+[분류:2007년 라이브 음반](https://ko.wikipedia.org/wiki/분류:2007년_라이브_음반 "wikilink") [분류:2007년 영상 음반](https://ko.wikipedia.org/wiki/분류:2007년_영상_음반 "wikilink") [분류:비욘세의 영상 음반](https://ko.wikipedia.org/wiki/분류:비욘세의_영상_음반 "wikilink") [분류:라이브 비디오 음반](https://ko.wikipedia.org/wiki/분류:라이브_비디오_음반 "wikilink") [분류:2007년 영상 음반](https://ko.wikipedia.org/wiki/분류:2007년_영상_음반 "wikilink")
 
 1.
 2.  [Rhapsody](http://www.rhapsody.com/beyonce/thebeyonceexperienceliveinstrumentals)

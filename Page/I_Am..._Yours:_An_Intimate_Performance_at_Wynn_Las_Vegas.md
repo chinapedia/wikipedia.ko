@@ -28,7 +28,7 @@
 
 ## 각주
 
-[분류:비욘세의 비디오 음반](https://ko.wikipedia.org/wiki/분류:비욘세의_비디오_음반 "wikilink") [분류:2009년 영상 음반](https://ko.wikipedia.org/wiki/분류:2009년_영상_음반 "wikilink") [분류:라이브 비디오 음반](https://ko.wikipedia.org/wiki/분류:라이브_비디오_음반 "wikilink") [분류:2009년 라이브 음반](https://ko.wikipedia.org/wiki/분류:2009년_라이브_음반 "wikilink") [분류:2009년 영상 음반](https://ko.wikipedia.org/wiki/분류:2009년_영상_음반 "wikilink")
+[분류:비욘세의 영상 음반](https://ko.wikipedia.org/wiki/분류:비욘세의_영상_음반 "wikilink") [분류:2009년 영상 음반](https://ko.wikipedia.org/wiki/분류:2009년_영상_음반 "wikilink") [분류:라이브 비디오 음반](https://ko.wikipedia.org/wiki/분류:라이브_비디오_음반 "wikilink") [분류:2009년 라이브 음반](https://ko.wikipedia.org/wiki/분류:2009년_라이브_음반 "wikilink") [분류:2009년 영상 음반](https://ko.wikipedia.org/wiki/분류:2009년_영상_음반 "wikilink")
 
 1.
 2.  <http://www.aria.com.au/pages/httpwww.aria.com.audvd2010.htm>

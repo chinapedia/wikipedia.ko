@@ -38,7 +38,7 @@
 ## 외부 링크
 
   -
-[분류:브리트니 스피어스의 노래](https://ko.wikipedia.org/wiki/분류:브리트니_스피어스의_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink")
+[분류:브리트니 스피어스의 노래](https://ko.wikipedia.org/wiki/분류:브리트니_스피어스의_노래 "wikilink") [분류:2011년 싱글](https://ko.wikipedia.org/wiki/분류:2011년_싱글 "wikilink") [분류:댄스 팝 노래](https://ko.wikipedia.org/wiki/분류:댄스_팝_노래 "wikilink") [분류:빌보드 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:빌보드_핫_100_1위_싱글 "wikilink") [분류:캐나디안 핫 100 1위 싱글](https://ko.wikipedia.org/wiki/분류:캐나디안_핫_100_1위_싱글 "wikilink")
 
 1.
 2.

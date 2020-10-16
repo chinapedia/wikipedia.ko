@@ -679,7 +679,7 @@
 <td><p>102</p></td>
 <td><p><a href="../Page/1월_20일.md" title="wikilink">1월 20일</a></p></td>
 <td><p>박동선</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/코리아" title="wikilink">코리아</a>게이트의 비망록</p></td>
+<td><p><a href="../Page/코리아.md" title="wikilink">코리아</a>게이트의 비망록</p></td>
 </tr>
 <tr class="even">
 <td><p>103</p></td>

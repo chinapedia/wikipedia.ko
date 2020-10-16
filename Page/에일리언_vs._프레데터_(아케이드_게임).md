@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [에일리언 vs. 프레데터 \(아케이드 게임\)](https://ko.wikipedia.org/wiki/에일리언_vs._프레데터_\(아케이드_게임\)).
 
 
-'''에일리언 vs. 프레데터 '''(Alien vs. Predator)는 [캡콤](../Page/캡콤.md "wikilink")이 [1994년](../Page/1994년.md "wikilink")에 발매한 [아케이드](../Page/아케이드_게임.md "wikilink") [진행형 격투 게임이다](https://ko.wikipedia.org/wiki/진행형_격투_게임 "wikilink").
+'''에일리언 vs. 프레데터 '''(Alien vs. Predator)는 [캡콤](../Page/캡콤.md "wikilink")이 [1994년](../Page/1994년.md "wikilink")에 발매한 [아케이드](../Page/아케이드_게임.md "wikilink") [진행형 격투 게임이다](../Page/진행형_격투_게임.md "wikilink").
 
 20세기 폭스사에 의 SF영화의 간판 외계 생물체인 [에일리언과](../Page/에일리언_\(가공의_생물\).md "wikilink") [프레데터의](../Page/프레데터_\(가공의_생물\).md "wikilink") 크로스오버 작품으로, 다크호스 코믹스사가 발매한 아메리칸 코믹이 원작이다. 이 작품으로 원작으로 하여 [2004년](../Page/2004년.md "wikilink")에 영화 [에일리언 vs 프레데터](https://ko.wikipedia.org/wiki/에일리언_vs_프레데터 "wikilink"), [2008년](../Page/2008년.md "wikilink") 속편인 [AVP2 에일리언 vs 프레데터도](https://ko.wikipedia.org/wiki/AVP2_에일리언_vs_프레데터 "wikilink") 공개되었지만, 본작과는 직접적인 관계는 없다.
 
