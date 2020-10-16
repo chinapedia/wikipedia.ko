@@ -52,7 +52,7 @@
 | --------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- |
 | [2010](../Page/FK컵_2010.md "wikilink")                    | \-                                                            | \-                                                              |
 | [2011](https://ko.wikipedia.org/wiki/FK컵_2011 "wikilink") | [송정섭](https://ko.wikipedia.org/wiki/송정섭 "wikilink")           | [스타FS서울](https://ko.wikipedia.org/wiki/스타FS서울 "wikilink")       |
-| [2012](https://ko.wikipedia.org/wiki/FK컵_2012 "wikilink") | [김민국](https://ko.wikipedia.org/wiki/김민국_\(축구_선수\) "wikilink") | [스타FS서울](https://ko.wikipedia.org/wiki/스타FS서울 "wikilink")       |
+| [2012](https://ko.wikipedia.org/wiki/FK컵_2012 "wikilink") | [최병준](https://ko.wikipedia.org/wiki/최병준 "wikilink")           | [충북제천FS](https://ko.wikipedia.org/wiki/충북제천FS "wikilink")       |
 | [2013](https://ko.wikipedia.org/wiki/FK컵_2013 "wikilink") | [이민용](https://ko.wikipedia.org/wiki/이민용 "wikilink")           | [용인대흥FS](https://ko.wikipedia.org/wiki/용인대흥FS "wikilink")       |
 | [2014](../Page/FK컵_2014.md "wikilink")                    | [김호진](https://ko.wikipedia.org/wiki/김호진_\(축구_선수\) "wikilink") | [용인대흥FS](https://ko.wikipedia.org/wiki/용인대흥FS "wikilink")       |
 | [2015](../Page/FK컵_2015.md "wikilink")                    | [신종훈](../Page/신종훈_\(축구_선수\).md "wikilink")                    | [전주매그풋살클럽](https://ko.wikipedia.org/wiki/전주매그풋살클럽 "wikilink")   |

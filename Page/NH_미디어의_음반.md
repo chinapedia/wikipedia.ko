@@ -198,7 +198,7 @@
 3.  최초의 19금 앨범.
 4.  [핑클](../Page/핑클.md "wikilink")의 멤버 [옥주현](../Page/옥주현.md "wikilink")도 앨범 참여.
 5.  [김태희](../Page/김태희.md "wikilink")도 앨범 참여.
-6.  [써니사이드의](https://ko.wikipedia.org/wiki/써니사이드_\(음악_그룹\) "wikilink") 멤버 [MJ도](https://ko.wikipedia.org/wiki/MJ_\(가수\) "wikilink") 앨범 참여.
+6.  [써니사이드의](https://ko.wikipedia.org/wiki/써니사이드_\(음악_그룹\) "wikilink") 멤버 [MJ도](../Page/MJ_\(가수\).md "wikilink") 앨범 참여.
 7.  [신화의](https://ko.wikipedia.org/wiki/신화_\(음악_그룹\) "wikilink") 멤버 [신혜성](../Page/신혜성.md "wikilink")도 앨범 참여.
 8.  임창정 미니 1집 선공개곡.
 9.  임창정의 데뷔 20주년 앨범.
