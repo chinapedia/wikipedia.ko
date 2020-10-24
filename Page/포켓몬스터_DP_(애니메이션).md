@@ -346,7 +346,7 @@ SBS의 경우 [2008년](../Page/2008년.md "wikilink") [3월 31일에](../Page/3
 
   - 주인공은 **[지우](https://ko.wikipedia.org/wiki/지우 "wikilink")**<small>(사토시)</small>, **[웅](https://ko.wikipedia.org/wiki/웅 "wikilink")**<small>(타케시)</small>, **[빛나](https://ko.wikipedia.org/wiki/빛나 "wikilink")**<small>(히카리)</small>이다.
   - 스타팅 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[모부기](../Page/모부기.md "wikilink"), [불꽃숭이](../Page/불꽃숭이.md "wikilink"), [팽도리](../Page/팽도리.md "wikilink")**이다.
-  - 환상의 포켓몬은 **[다크라이](https://ko.wikipedia.org/wiki/다크라이 "wikilink")**, **[쉐이미](https://ko.wikipedia.org/wiki/쉐이미 "wikilink")**, **[아르세우스](../Page/아르세우스.md "wikilink")**, **[마나피](https://ko.wikipedia.org/wiki/마나피 "wikilink")**, **[피오네](https://ko.wikipedia.org/wiki/피오네 "wikilink")**이다.
+  - 환상의 포켓몬은 **[다크라이](https://ko.wikipedia.org/wiki/다크라이 "wikilink")**, **[쉐이미](../Page/쉐이미.md "wikilink")**, **[아르세우스](../Page/아르세우스.md "wikilink")**, **[마나피](https://ko.wikipedia.org/wiki/마나피 "wikilink")**, **[피오네](https://ko.wikipedia.org/wiki/피오네 "wikilink")**이다.
   - 전설의 [포켓몬](https://ko.wikipedia.org/wiki/포켓몬 "wikilink")은 **[디아루가](../Page/디아루가.md "wikilink")**, **[펄기아](../Page/펄기아.md "wikilink")**, **[기라티나](../Page/기라티나.md "wikilink")**, **[히드런](https://ko.wikipedia.org/wiki/히드런 "wikilink")**, **[레지기가스](https://ko.wikipedia.org/wiki/레지기가스 "wikilink")**, **[유크시](https://ko.wikipedia.org/wiki/유크시 "wikilink")**, **[아그놈](https://ko.wikipedia.org/wiki/아그놈 "wikilink")**, **[엠라이트](https://ko.wikipedia.org/wiki/엠라이트 "wikilink")**이다.
 
 ## 방영 목록

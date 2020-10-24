@@ -20,7 +20,7 @@
 |                                         [디나모](../Page/GNK_디나모_자그레브.md "wikilink")                                          |
 |                                        [로코모티바](../Page/NK_로코모티바_자그레브.md "wikilink")                                        |
 |                                            [리예카](../Page/HNK_리예카.md "wikilink")                                            |
-|                                  [오시예크](https://ko.wikipedia.org/wiki/NK_오시예크 "wikilink")                                  |
+|                                           [오시예크](../Page/NK_오시예크.md "wikilink")                                            |
 |                                        [하이두크](../Page/HNK_하이두크_스플리트.md "wikilink")                                         |
 |                                  [고리차](https://ko.wikipedia.org/wiki/HNK_고리차 "wikilink")                                   |
 |                                        [슬라벤 벨루포](../Page/NK_슬라벤_벨루포.md "wikilink")                                         |
@@ -32,23 +32,23 @@
 
 | 시즌      | 우승                                                                     | 준우승                                                                | 3위                                                                       |
 | ------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| 1992    | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**                   | [NK 자그레브](../Page/NK_자그레브.md "wikilink")                           | [오시예크](https://ko.wikipedia.org/wiki/NK_오시예크 "wikilink")                 |
+| 1992    | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**                   | [NK 자그레브](../Page/NK_자그레브.md "wikilink")                           | [오시예크](../Page/NK_오시예크.md "wikilink")                                    |
 | 1992-93 | **[크로아티아 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")** | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                   | [NK 자그레브](../Page/NK_자그레브.md "wikilink")                                 |
 | 1993-94 | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**                   | [NK 자그레브](../Page/NK_자그레브.md "wikilink")                           | [크로아티아 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")       |
-| 1994-95 | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**                   | [크로아티아 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink") | [오시예크](https://ko.wikipedia.org/wiki/NK_오시예크 "wikilink")                 |
+| 1994-95 | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**                   | [크로아티아 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink") | [오시예크](../Page/NK_오시예크.md "wikilink")                                    |
 | 1995-96 | **[크로아티아 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")** | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**               | [바르텍스](https://ko.wikipedia.org/wiki/NK_바르텍스 "wikilink")                 |
 | 1996-97 | **[크로아티아 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")** | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                   | [흐르바츠키 드라고볼랴크](https://ko.wikipedia.org/wiki/NK_흐르바츠키_드라고볼랴크 "wikilink") |
-| 1997-98 | **[크로아티아 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")** | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**               | [오시예크](https://ko.wikipedia.org/wiki/NK_오시예크 "wikilink")                 |
+| 1997-98 | **[크로아티아 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")** | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**               | [오시예크](../Page/NK_오시예크.md "wikilink")                                    |
 | 1998-99 | **[크로아티아 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")** | [리예카](https://ko.wikipedia.org/wiki/NK_리예카 "wikilink")             | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**                     |
-| 1999-00 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                   | [오시예크](https://ko.wikipedia.org/wiki/NK_오시예크 "wikilink")                 |
-| 2000-01 | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**                   | [디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")   | [오시예크](https://ko.wikipedia.org/wiki/NK_오시예크 "wikilink")                 |
+| 1999-00 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                   | [오시예크](../Page/NK_오시예크.md "wikilink")                                    |
+| 2000-01 | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**                   | [디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")   | [오시예크](../Page/NK_오시예크.md "wikilink")                                    |
 | 2001-02 | **[NK 자그레브](../Page/NK_자그레브.md "wikilink")**                           | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                   | [디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")         |
 | 2002-03 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                   | [바르텍스](https://ko.wikipedia.org/wiki/NK_바르텍스 "wikilink")                 |
 | 2003-04 | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**                   | [디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")   | [리예카](https://ko.wikipedia.org/wiki/NK_리예카 "wikilink")                   |
 | 2004-05 | **[하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")**                   | [인테르 자프레시치](../Page/NK_인테르_자프레시치.md "wikilink")                    | [NK 자그레브](../Page/NK_자그레브.md "wikilink")                                 |
 | 2005-06 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [리예카](https://ko.wikipedia.org/wiki/NK_리예카 "wikilink")             | [바르텍스](https://ko.wikipedia.org/wiki/NK_바르텍스 "wikilink")                 |
 | 2006-07 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                   | [NK 자그레브](../Page/NK_자그레브.md "wikilink")                                 |
-| 2007-08 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [슬라벤 벨루포](../Page/NK_슬라벤_벨루포.md "wikilink")                        | [오시예크](https://ko.wikipedia.org/wiki/NK_오시예크 "wikilink")                 |
+| 2007-08 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [슬라벤 벨루포](../Page/NK_슬라벤_벨루포.md "wikilink")                        | [오시예크](../Page/NK_오시예크.md "wikilink")                                    |
 | 2008-09 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                   | [리예카](https://ko.wikipedia.org/wiki/NK_리예카 "wikilink")                   |
 | 2009-10 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                   | [치발리아](https://ko.wikipedia.org/wiki/HNK_치발리아 "wikilink")                |
 | 2010-11 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                   | [스플리트](https://ko.wikipedia.org/wiki/RNK_스플리트 "wikilink")                |
@@ -59,7 +59,7 @@
 | 2015-16 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [리예카](https://ko.wikipedia.org/wiki/NK_리예카 "wikilink")             | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                         |
 | 2016-17 | **[리예카](https://ko.wikipedia.org/wiki/NK_리예카 "wikilink")**             | [디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")   | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                         |
 | 2017-18 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [리예카](https://ko.wikipedia.org/wiki/NK_리예카 "wikilink")             | [하이두크 스플리트](../Page/HNK_하이두크_스플리트.md "wikilink")                         |
-| 2018-19 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [리예카](https://ko.wikipedia.org/wiki/NK_리예카 "wikilink")             | [오시예크](https://ko.wikipedia.org/wiki/NK_오시예크 "wikilink")                 |
+| 2018-19 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [리예카](https://ko.wikipedia.org/wiki/NK_리예카 "wikilink")             | [오시예크](../Page/NK_오시예크.md "wikilink")                                    |
 | 2019-20 | **[디나모 자그레브](https://ko.wikipedia.org/wiki/NK_디나모_자그레브 "wikilink")**   | [로코모티바](../Page/NK_로코모티바_자그레브.md "wikilink")                       | [리예카](https://ko.wikipedia.org/wiki/NK_리예카 "wikilink")                   |
 
 크로아티아는 [제2차 세계대전](https://ko.wikipedia.org/wiki/제2차_세계대전 "wikilink") 중이었던 [1940년](../Page/1940년.md "wikilink")부터 [1944년](../Page/1944년.md "wikilink")까지 [유고슬라비아 왕국](../Page/유고슬라비아_왕국.md "wikilink") 시절(1939\~41년)과 [크로아티아 독립국](../Page/크로아티아_독립국.md "wikilink") 시절(1941\~45년) 자체 리그를 갖고 있었다. [크로아티아 축구 협회는](https://ko.wikipedia.org/wiki/크로아티아_축구_협회 "wikilink") 당시 크로아티아가 지금의 [크로아티아](../Page/크로아티아.md "wikilink")와 다름에도 불구하고 그 당시 리그를 지금의 1.HNL과 연결된 것으로 간주하고 있다.

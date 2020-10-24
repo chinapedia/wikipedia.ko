@@ -2243,7 +2243,7 @@ FM 박인희와 함께</p></td>
 </tr>
 <tr class="odd">
 <td><p>TV 성우 부문 특별상</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/서영애" title="wikilink">서영애</a></p></td>
+<td><p><a href="../Page/서영애.md" title="wikilink">서영애</a></p></td>
 <td><p>베벌리 힐스 아이들 성우</p></td>
 </tr>
 <tr class="even">

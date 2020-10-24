@@ -69,7 +69,7 @@ MiG-29K는 [빔펠 R-77/RVV-AE](https://ko.wikipedia.org/wiki/빔펠_R-77/RVV-AE
 
   - \- 12대의 MiG-29K와 복좌형 버전인 4대의 MiG-29KUB를 운용 중이다.\[16\]
 
-  - \- 미확인 국가에서 [리스](https://ko.wikipedia.org/wiki/리스 "wikilink"). 연구를 위해 운용 중\[17\]\[18\]
+  - \- 미확인 국가에서 [리스](../Page/리스.md "wikilink"). 연구를 위해 운용 중\[17\]\[18\]
 
   -
   -

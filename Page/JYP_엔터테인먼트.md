@@ -206,7 +206,7 @@ JYP Publishing문서에 대한 출처:<http://www.jyppub.com/about>
   - [박서함](../Page/박서함.md "wikilink") : 현 [크나큰](https://ko.wikipedia.org/wiki/크나큰 "wikilink")
   - [소룡](https://ko.wikipedia.org/wiki/소룡 "wikilink") : 전 [테이스티](../Page/테이스티.md "wikilink")
   - [대룡](https://ko.wikipedia.org/wiki/대룡 "wikilink") : 전 [테이스티](../Page/테이스티.md "wikilink")
-  - [해령](https://ko.wikipedia.org/wiki/해령 "wikilink") : 전 [EXID](../Page/EXID.md "wikilink"), 전 [베스티](../Page/베스티.md "wikilink")
+  - [해령](../Page/해령.md "wikilink") : 전 [EXID](../Page/EXID.md "wikilink"), 전 [베스티](../Page/베스티.md "wikilink")
   - [유지](../Page/유지_\(가수\).md "wikilink") : 전 [EXID](../Page/EXID.md "wikilink"), 전 [베스티](../Page/베스티.md "wikilink")
   - [의진](https://ko.wikipedia.org/wiki/의진 "wikilink") : 현 [소나무](../Page/소나무_\(음악_그룹\).md "wikilink")
   - [은교](https://ko.wikipedia.org/wiki/은교_\(가수\) "wikilink") : 전 [파이브돌스](../Page/파이브돌스.md "wikilink")

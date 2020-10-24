@@ -1832,7 +1832,7 @@
 <tr class="odd">
 <td><p>48화</p></td>
 <td><p>7월 3일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/파도" title="wikilink">파도</a></p></td>
+<td><p><a href="../Page/파도.md" title="wikilink">파도</a></p></td>
 <td><p><a href="../Page/강신재.md" title="wikilink">강신재</a></p></td>
 <td><p>김하림</p></td>
 <td><p>김충길</p></td>
