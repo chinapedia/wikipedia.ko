@@ -19,7 +19,7 @@
   - [1979년](../Page/1979년.md "wikilink") 2월: '제일제당(주)'로 상호변경
   - [1979년](../Page/1979년.md "wikilink"): 백설 식용유 출시 및 식용유 사업 시작
   - [1984년](../Page/1984년.md "wikilink"): 유풍제약 인수 및 제약 사업 시작
-  - [1987년](../Page/1987년.md "wikilink"): [게토레이](../Page/게토레이.md "wikilink") 도입 및 [음료](https://ko.wikipedia.org/wiki/음료 "wikilink") 사업 시작, 미국 호멜사와 기술 제휴 및 [스팸](../Page/스팸.md "wikilink") 도입
+  - [1987년](../Page/1987년.md "wikilink"): [게토레이](../Page/게토레이.md "wikilink") 도입 및 [음료](../Page/음료.md "wikilink") 사업 시작, 미국 호멜사와 기술 제휴 및 [스팸](../Page/스팸.md "wikilink") 도입
   - [1991년](../Page/1991년.md "wikilink"): 일본[라이온사](../Page/라이온_\(기업\).md "wikilink") 기술제휴로 생활화학 시작 (제일제당 생활사업부)
   - [1991년](../Page/1991년.md "wikilink"): 농축 분말 [세제](https://ko.wikipedia.org/wiki/세제 "wikilink") 비트 및 주방세제 참그린 출시
   - [1993년](../Page/1993년.md "wikilink") 6월: [삼성그룹](../Page/삼성그룹.md "wikilink")에서 분리

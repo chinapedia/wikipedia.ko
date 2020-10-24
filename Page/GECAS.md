@@ -19,7 +19,7 @@ GECAS는 또한 Oxford Aviation Academy 의 소수 지분을 보유하고 있으
 
 ## 사업 부문
 
-GECAS는 [보잉](../Page/보잉.md "wikilink"), [에어버스](../Page/에어버스.md "wikilink"), [엠브라에르](../Page/엠브라에르.md "wikilink"), [봄바디어](https://ko.wikipedia.org/wiki/봄바디어 "wikilink"), [ATR](https://ko.wikipedia.org/wiki/ATR "wikilink")와 같은 항공기 제작사 로부터 [협폭동체 항공기와](../Page/협폭동체_항공기.md "wikilink") [광폭동체 항공기](https://ko.wikipedia.org/wiki/광폭동체_항공기 "wikilink") 승용 항공기를 포함한 터보프롭 항공기를 발주를 하여 리스 및 대출 사업을 하고, 2015년 부터는 항공기 리스 사업이 포트폴리오에 추가됨에 따라서, 헬리콥터 리스사업도 병행하고 있다. Agusta Westland 혹은 Sikorsky와 에어버스-유로콥터 헬리콥터스에서 고객이 원하는 헬리콥터를 주문, 리스해주고 있다.\[4\]
+GECAS는 [보잉](../Page/보잉.md "wikilink"), [에어버스](../Page/에어버스.md "wikilink"), [엠브라에르](../Page/엠브라에르.md "wikilink"), [봄바디어](https://ko.wikipedia.org/wiki/봄바디어 "wikilink"), [ATR](https://ko.wikipedia.org/wiki/ATR "wikilink")와 같은 항공기 제작사 로부터 [협폭동체 항공기와](../Page/협폭동체_항공기.md "wikilink") [광폭동체 항공기](../Page/광폭동체_항공기.md "wikilink") 승용 항공기를 포함한 터보프롭 항공기를 발주를 하여 리스 및 대출 사업을 하고, 2015년 부터는 항공기 리스 사업이 포트폴리오에 추가됨에 따라서, 헬리콥터 리스사업도 병행하고 있다. Agusta Westland 혹은 Sikorsky와 에어버스-유로콥터 헬리콥터스에서 고객이 원하는 헬리콥터를 주문, 리스해주고 있다.\[4\]
 
 \- 리스 운영
 

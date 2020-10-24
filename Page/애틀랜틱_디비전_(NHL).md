@@ -88,7 +88,7 @@
 <td><p>1993년~2013년</p></td>
 <td><p><a href="../Page/매디슨_스퀘어_가든.md" title="wikilink">매디슨 스퀘어 가든</a></p></td>
 <td><p>18,006명</p></td>
-<td><p>현 <a href="https://ko.wikipedia.org/wiki/메트로폴리탄_디비전" title="wikilink">메트로폴리탄 디비전</a> 소속</p></td>
+<td><p>현 <a href="../Page/메트로폴리탄_디비전.md" title="wikilink">메트로폴리탄 디비전</a> 소속</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/뉴욕_아일런더스.md" title="wikilink">뉴욕 아일런더스</a></p></td>

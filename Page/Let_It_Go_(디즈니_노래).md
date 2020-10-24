@@ -208,7 +208,7 @@ Marsha Milan Londoh[34]</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><a href="../Page/프랑스어.md" title="wikilink">프랑스어</a></p></td>
-<td style="text-align: left;"><p><a href="https://ko.wikipedia.org/wiki/아나이스_델바" title="wikilink">아네스 델바<br />
+<td style="text-align: left;"><p><a href="../Page/아나이스_델바.md" title="wikilink">아네스 델바<br />
 Anaïs Delva</a>[35]</p></td>
 <td style="text-align: left;"><p>"Libérée, délivrée"</p></td>
 <td style="text-align: left;"><p>"자유롭게, 해방되어"</p></td>

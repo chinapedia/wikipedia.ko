@@ -5,7 +5,7 @@
 
 ## 개요
 
-유명한 만화 캐릭터의 이름을 딴 TOMOYO는 [리눅스](../Page/리눅스.md "wikilink")를 위한 [MAC](https://ko.wikipedia.org/wiki/강제적_접근_통제 "wikilink") 구현이며 시스템의 보안을 향상시키는 것 외에도 순수한 [시스템 분석](https://ko.wikipedia.org/wiki/시스템_분석 "wikilink") 툴로도 유용하게 사용될 수 있다. 이것은 2003년 5월에 출시되었으며 2012년 5월까지 [NTT 데이터가](../Page/NTT_데이터.md "wikilink") 후원하였다.\[1\]
+유명한 만화 캐릭터의 이름을 딴 TOMOYO는 [리눅스](../Page/리눅스.md "wikilink")를 위한 [MAC](https://ko.wikipedia.org/wiki/강제적_접근_통제 "wikilink") 구현이며 시스템의 보안을 향상시키는 것 외에도 순수한 [시스템 분석](../Page/시스템_분석.md "wikilink") 툴로도 유용하게 사용될 수 있다. 이것은 2003년 5월에 출시되었으며 2012년 5월까지 [NTT 데이터가](../Page/NTT_데이터.md "wikilink") 후원하였다.\[1\]
 
 TOMOYO 리눅스는 시스템의 행위에 초점을 맞춘다. TOMOYO 리눅스는 각 프로세스들이 자신의 목적을 달성하기 위해 필요한 행위와 자원을 선언하게 한다. 보호가 활성화되면 TOMOYO 리눅스는 관리자에 의해 허용된 행위와 자원으로 각 프로세스를 제한한다.
 

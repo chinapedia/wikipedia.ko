@@ -300,7 +300,7 @@
 ` | 3=`
 ` }}`
 
-| montreal={{\#switch:
+| mississauga=\[\[파일:MiWay_logo_Aug2010.png| }}
 
 `| rail={{#if:``||`[`Exo.svg`](https://ko.wikipedia.org/wiki/File:Exo.svg "fig:Exo.svg")`}} {{#switch: `
 ` |ca=[[파일:Mtl_Train_CA.svg|`` }}`
@@ -368,18 +368,17 @@
 `   | l|local= 일반`
 `   | e|x|express= 직통`
 `   }}`
-` | bun=`
+` | bun|su|subun|k2=`
 ` | chun=`
 ` | ever=`
 ` | gyeongui=`
-` | gyeongjung|gye|jun=`
+` | gyeongjung|gye|jun|k1=`
 ` | maglev|im=`
 ` | i1=`
 ` | i2=`
 ` | ic1=`
 ` | ic2=`
 ` | sin=`
-` | su=`
 ` | su1=`
 ` | su2=`
 ` | su3=`

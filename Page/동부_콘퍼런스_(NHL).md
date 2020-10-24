@@ -98,7 +98,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ko.wikipedia.org/wiki/메트로폴리탄_디비전" title="wikilink">메트로폴리탄 디비전</a></p></td>
+<td><p><a href="../Page/메트로폴리탄_디비전.md" title="wikilink">메트로폴리탄 디비전</a></p></td>
 <td><p><a href="../Page/캐롤라이나_허리케인스.md" title="wikilink">캐롤라이나 허리케인스</a></p></td>
 <td><p><a href="../Page/노스캐롤라이나주.md" title="wikilink">노스캐롤라이나주</a> <a href="../Page/롤리_(노스캐롤라이나주).md" title="wikilink">롤리</a></p></td>
 <td><p><a href="../Page/PNC_아레나.md" title="wikilink">PNC 아레나</a></p></td>

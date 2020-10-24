@@ -21,7 +21,7 @@
 
 동영상의 노래는 존 메스콜(John Mescall)이 작사했고, [더 캣 엠파이어의](https://ko.wikipedia.org/wiki/더_캣_엠파이어 "wikilink") 올리 맥길(Ollie McGill)이 작곡했다.\[14\]\[15\] [틴팬 오렌지의](https://ko.wikipedia.org/wiki/틴팬_오렌지 "wikilink") 리드 보컬리스트인 에밀리 루비츠(Emily Lubitz)와 맥길의 백킹 보컬이 함께 불렀다.\[16\] 음원은 더 캣 엠파이어와 틴팬 오렌지의 뜻을 합쳐 ‘텐저린 키티’(Tangerine Kitty)라는 이름으로 [아이튠즈](../Page/아이튠즈.md "wikilink")에 공개되었다.\[17\]\[18\]
 
-음원 발매 24시간 만에 아이튠즈 차트에서 10위 안에 들었고, 11월 18일에는 [리한나](../Page/리한나.md "wikilink")의 〈[Diamonds](https://ko.wikipedia.org/wiki/Diamonds_\(리한나의_노래\) "wikilink")〉를 제치고 세계에서 6번째로 인기 있는 곡이 되었다.\[19\]\[20\] [빅토리아 대학교의](https://ko.wikipedia.org/wiki/빅토리아_대학교_\(오스트레일리아\) "wikilink") 교수 샐리 웹스터(Sally Webster)는 ‘근대에 들어 오스트레일리아 최고의 반응’이라고 표현했다.\[21\] 홍콩\[22\], 싱가포르\[23\], 중화민국\[24\], 베트남\[25\] 의 아이튠즈 차트에서도 10위 안에 들었다. 2주 만에 65개의 [커버 버전이](https://ko.wikipedia.org/wiki/커버_버전 "wikilink") 유튜브에 올라왔다.\[26\]
+음원 발매 24시간 만에 아이튠즈 차트에서 10위 안에 들었고, 11월 18일에는 [리한나](../Page/리한나.md "wikilink")의 〈[Diamonds](../Page/Diamonds_\(리한나의_노래\).md "wikilink")〉를 제치고 세계에서 6번째로 인기 있는 곡이 되었다.\[19\]\[20\] [빅토리아 대학교의](https://ko.wikipedia.org/wiki/빅토리아_대학교_\(오스트레일리아\) "wikilink") 교수 샐리 웹스터(Sally Webster)는 ‘근대에 들어 오스트레일리아 최고의 반응’이라고 표현했다.\[21\] 홍콩\[22\], 싱가포르\[23\], 중화민국\[24\], 베트남\[25\] 의 아이튠즈 차트에서도 10위 안에 들었다. 2주 만에 65개의 [커버 버전이](https://ko.wikipedia.org/wiki/커버_버전 "wikilink") 유튜브에 올라왔다.\[26\]
 
 ## 게임
 

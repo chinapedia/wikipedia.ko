@@ -5,7 +5,7 @@
 
 ## 발현하는 세포
 
-CD8 공동수용체는 대부분 [세포독성 T 세포에](https://ko.wikipedia.org/wiki/세포독성_T_세포 "wikilink") 발현된다. CD8을 세포 표면에 발현하는 세포독성 T 세포를 CD8+ T 세포라 한다. [자연살해세포](https://ko.wikipedia.org/wiki/자연살해세포 "wikilink"), 겉질 [흉선세포](https://ko.wikipedia.org/wiki/흉선세포 "wikilink"), [수지상세포](https://ko.wikipedia.org/wiki/수지상세포 "wikilink")에서도 발현될 수 있다. T 세포 림포모구 림프종과 색소저하 [균상식육종](https://ko.wikipedia.org/wiki/균상식육종 "wikilink")에서 발현되지만, 기타 T 세포 [신생물](https://ko.wikipedia.org/wiki/신생물 "wikilink")에서는 빈번하게 발현되지 않는다.\[2\]
+CD8 공동수용체는 대부분 [세포독성 T 세포에](https://ko.wikipedia.org/wiki/세포독성_T_세포 "wikilink") 발현된다. CD8을 세포 표면에 발현하는 세포독성 T 세포를 CD8+ T 세포라 한다. [자연살해세포](https://ko.wikipedia.org/wiki/자연살해세포 "wikilink"), 겉질 [흉선세포](https://ko.wikipedia.org/wiki/흉선세포 "wikilink"), [수지상세포](https://ko.wikipedia.org/wiki/수지상세포 "wikilink")에서도 발현될 수 있다. T 세포 림포모구 림프종과 색소저하 [균상식육종](https://ko.wikipedia.org/wiki/균상식육종 "wikilink")에서 발현되지만, 기타 T 세포 [신생물](../Page/신생물.md "wikilink")에서는 빈번하게 발현되지 않는다.\[2\]
 
 ## 구조
 

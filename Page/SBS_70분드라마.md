@@ -170,7 +170,7 @@
 <td><p>16회</p></td>
 <td><p>9월 28일</p></td>
 <td><p>남편의 여자와 여행하는 법</p></td>
-<td><p><a href="../Page/김청.md" title="wikilink">김청</a>, <a href="../Page/길용우.md" title="wikilink">길용우</a>, <a href="../Page/안연홍.md" title="wikilink">안연홍</a>, <a href="../Page/선우용여.md" title="wikilink">선우용여</a>, <a href="https://ko.wikipedia.org/wiki/서영애" title="wikilink">서영애</a>,<br />
+<td><p><a href="../Page/김청.md" title="wikilink">김청</a>, <a href="../Page/길용우.md" title="wikilink">길용우</a>, <a href="../Page/안연홍.md" title="wikilink">안연홍</a>, <a href="../Page/선우용여.md" title="wikilink">선우용여</a>, <a href="../Page/서영애.md" title="wikilink">서영애</a>,<br />
 <a href="../Page/이인철_(배우).md" title="wikilink">이인철</a>, <a href="../Page/노경주.md" title="wikilink">노경주</a>, <a href="../Page/신은정.md" title="wikilink">신은정</a></p></td>
 <td><p>원작:차현숙<br />
 극본:이경미</p></td>

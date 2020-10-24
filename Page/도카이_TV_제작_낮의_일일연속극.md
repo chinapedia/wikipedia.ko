@@ -571,7 +571,7 @@
 <td><p>195</p></td>
 <td><p><a href="https://ko.wikipedia.org/wiki/나의_여름방학" title="wikilink">나의 여름방학</a></p></td>
 <td><p>2012년 7월 2일 - 8월 31일</p></td>
-<td><p><a href="https://ko.wikipedia.org/wiki/아야베_슈토" title="wikilink">아야베 슈토</a>, <a href="https://ko.wikipedia.org/wiki/니노미야_아카리" title="wikilink">니노미야 아카리</a>, <a href="https://ko.wikipedia.org/wiki/이노우에_마사히로" title="wikilink">이노우에 마사히로</a>, <a href="../Page/아리무라_카스미.md" title="wikilink">아리무라 카스미</a>, <a href="../Page/타카오카_사키.md" title="wikilink">타카오카 사키</a>, <a href="../Page/아이자와_리나.md" title="wikilink">아이자와 리나</a>, <a href="../Page/미즈노_에리나.md" title="wikilink">미즈노 에리나</a>, <a href="https://ko.wikipedia.org/wiki/이토_마미코" title="wikilink">이토 마미코</a>, <a href="https://ko.wikipedia.org/wiki/이시마루_시이나" title="wikilink">이시마루 시이나</a>, <a href="https://ko.wikipedia.org/wiki/우츠이_켄" title="wikilink">우츠이 켄</a>(특별출연), <a href="../Page/유키_사오리.md" title="wikilink">유키 사오리</a>(특별출연)</p></td>
+<td><p><a href="https://ko.wikipedia.org/wiki/아야베_슈토" title="wikilink">아야베 슈토</a>, <a href="https://ko.wikipedia.org/wiki/니노미야_아카리" title="wikilink">니노미야 아카리</a>, <a href="../Page/이노우에_마사히로.md" title="wikilink">이노우에 마사히로</a>, <a href="../Page/아리무라_카스미.md" title="wikilink">아리무라 카스미</a>, <a href="../Page/타카오카_사키.md" title="wikilink">타카오카 사키</a>, <a href="../Page/아이자와_리나.md" title="wikilink">아이자와 리나</a>, <a href="../Page/미즈노_에리나.md" title="wikilink">미즈노 에리나</a>, <a href="https://ko.wikipedia.org/wiki/이토_마미코" title="wikilink">이토 마미코</a>, <a href="https://ko.wikipedia.org/wiki/이시마루_시이나" title="wikilink">이시마루 시이나</a>, <a href="https://ko.wikipedia.org/wiki/우츠이_켄" title="wikilink">우츠이 켄</a>(특별출연), <a href="../Page/유키_사오리.md" title="wikilink">유키 사오리</a>(특별출연)</p></td>
 <td><p>쿄도 TV</p></td>
 </tr>
 <tr class="even">

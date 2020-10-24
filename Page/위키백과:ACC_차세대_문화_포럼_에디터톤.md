@@ -100,7 +100,7 @@
       - <small>(관련 문서)</small> [일본의 군국주의](https://ko.wikipedia.org/wiki/일본의_군국주의 "wikilink") ([:en:Japanese militarism](https://ko.wikipedia.org/wiki/:en:Japanese_militarism "wikilink"))
       - <small>(관련 문서)</small> [천황제 파시즘](https://ko.wikipedia.org/wiki/천황제_파시즘 "wikilink") ([:en:Statism in Shōwa Japan](https://ko.wikipedia.org/wiki/:en:Statism_in_Shōwa_Japan "wikilink"))
   - [아시아](../Page/아시아.md "wikilink") ([:en:Asia](https://ko.wikipedia.org/wiki/:en:Asia "wikilink"))
-      - <small>(관련 문서)</small> [아시아적 가치](https://ko.wikipedia.org/wiki/아시아적_가치 "wikilink") ([:en:Asian values](https://ko.wikipedia.org/wiki/:en:Asian_values "wikilink"))
+      - <small>(관련 문서)</small> [아시아적 가치](../Page/아시아적_가치.md "wikilink") ([:en:Asian values](https://ko.wikipedia.org/wiki/:en:Asian_values "wikilink"))
       - <small>(관련 문서)</small> [아시아의 문화](https://ko.wikipedia.org/wiki/아시아의_문화 "wikilink") ([:en:Culture of Asia](https://ko.wikipedia.org/wiki/:en:Culture_of_Asia "wikilink"))
           - <small>(관련 문서)</small> [동아시아 문화권](https://ko.wikipedia.org/wiki/동아시아_문화권 "wikilink") ([:en:East Asian cultural sphere](https://ko.wikipedia.org/wiki/:en:East_Asian_cultural_sphere "wikilink"))
           - <small>(관련 문서)</small> [아시아의 언어](https://ko.wikipedia.org/wiki/아시아의_언어 "wikilink") ([:en:Languages of Asia](https://ko.wikipedia.org/wiki/:en:Languages_of_Asia "wikilink"))
