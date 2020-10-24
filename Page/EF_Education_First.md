@@ -7,7 +7,7 @@
 
 ### 해외 어학연수 과정
 
-[해외어학연수과정](http://www.ef.com/ils)(International Language Schools)은 전 세계 EF 학교에서 2주부터 24주까지 자유로운 기간을 선택할 수 있으며 개강일을 선택하여, 매주 월요일에 개강하는 어학연수과정으로 일반 및 집중과정, 시험준비과정, 해외[인턴십](https://ko.wikipedia.org/wiki/인턴제 "wikilink") 과정 등을 제공한다.
+[해외어학연수과정](http://www.ef.com/ils)(International Language Schools)은 전 세계 EF 학교에서 2주부터 24주까지 자유로운 기간을 선택할 수 있으며 개강일을 선택하여, 매주 월요일에 개강하는 어학연수과정으로 일반 및 집중과정, 시험준비과정, 해외[인턴십](../Page/인턴제.md "wikilink") 과정 등을 제공한다.
 
 ### 학기제 어학연수 과정
 

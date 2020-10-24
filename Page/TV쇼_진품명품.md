@@ -663,7 +663,7 @@
 <td><p><a href="../Page/6월_14일.md" title="wikilink">6월 14일</a></p></td>
 <td><p><strong>계미서(癸未書)</strong></p></td>
 <td><p>-</p></td>
-<td><p><strong><a href="https://ko.wikipedia.org/wiki/1554년" title="wikilink">1554년</a></strong>에 제작된 조선시대 요리서로 의뢰인이 현재 <a href="https://ko.wikipedia.org/wiki/궁중음식연구원" title="wikilink">궁중음식연구원</a> 원장인 <a href="../Page/한복려.md" title="wikilink">한복려</a>[9] 씨가 직접 의뢰했다.<br />
+<td><p><strong><a href="https://ko.wikipedia.org/wiki/1554년" title="wikilink">1554년</a></strong>에 제작된 조선시대 요리서로 의뢰인이 현재 <a href="../Page/궁중음식연구원.md" title="wikilink">궁중음식연구원</a> 원장인 <a href="../Page/한복려.md" title="wikilink">한복려</a>[9] 씨가 직접 의뢰했다.<br />
 현존하는 요리서 중에서 가장 연대가 오래되고 확실한 책인데, 그 가치를 매길 수 없다고 감정위원이 밝혔다.</p></td>
 <td></td>
 </tr>

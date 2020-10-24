@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [A형 간염](https://ko.wikipedia.org/wiki/A형_간염).
 
 
-**A형 간염**(A型肝炎, hepatitis A)은 [A형 간염바이러스](https://ko.wikipedia.org/wiki/A형_간염바이러스 "wikilink")(hepatitis A virus, HAV)의 감염에 의한 급성 [간염](../Page/간염.md "wikilink") 질환이다.\[1\] 대부분, 특히 젊은 사람들의 경우 증상이 거의 없거나 아예 나타나지 않는다.\[2\] 감염 후 증상이 나타나기까지 걸리는 시간은 2\~6주 사이이다.\[3\] [구역질](../Page/구역질.md "wikilink"), [구토](../Page/구토.md "wikilink"), [설사](../Page/설사.md "wikilink"), [황달](https://ko.wikipedia.org/wiki/황달 "wikilink"), [발열](../Page/발열.md "wikilink"), [복통](../Page/복통.md "wikilink") 등의 증상이 8주 간 지속되며\[4\] 다른 [바이러스성 간염들과](../Page/바이러스성_간염.md "wikilink") 유사한 증상을 보인다. 약 10-15%의 환자가 첫 증상이 나고서 약 6개월 후에 다시 증상을 느낀다고 한다.\[5\] [급성 간부전이](../Page/급성_간부전.md "wikilink") 낮은 빈도로 발생하기도 하고, 나이가 많으면 좀 더 많이 발생하기도 한다.\[6\]
+**A형 간염**(A型肝炎, hepatitis A)은 [A형 간염바이러스](https://ko.wikipedia.org/wiki/A형_간염바이러스 "wikilink")(hepatitis A virus, HAV)의 감염에 의한 급성 [간염](../Page/간염.md "wikilink") 질환이다.\[1\] 대부분, 특히 젊은 사람들의 경우 증상이 거의 없거나 아예 나타나지 않는다.\[2\] 감염 후 증상이 나타나기까지 걸리는 시간은 2\~6주 사이이다.\[3\] [구역질](../Page/구역질.md "wikilink"), [구토](../Page/구토.md "wikilink"), [설사](../Page/설사.md "wikilink"), [황달](../Page/황달.md "wikilink"), [발열](../Page/발열.md "wikilink"), [복통](../Page/복통.md "wikilink") 등의 증상이 8주 간 지속되며\[4\] 다른 [바이러스성 간염들과](../Page/바이러스성_간염.md "wikilink") 유사한 증상을 보인다. 약 10-15%의 환자가 첫 증상이 나고서 약 6개월 후에 다시 증상을 느낀다고 한다.\[5\] [급성 간부전이](../Page/급성_간부전.md "wikilink") 낮은 빈도로 발생하기도 하고, 나이가 많으면 좀 더 많이 발생하기도 한다.\[6\]
 
 ## 감염 원인
 
@@ -9,7 +9,7 @@
 
 ## 진단
 
-소아의 경우 감염이 되어도 [무증상](../Page/무증상보균자.md "wikilink")(6세 이하에서 약 50%가 무증상)이 될 수 있는데 무증상 기간에도 전염이 가능하다.\[9\] 감염자의 연령이 높아질수록 [황달](https://ko.wikipedia.org/wiki/황달 "wikilink") 등 바이러스 간염의 임상 증상 발현율이 높아지고 심해지는 경향이 있다.\[10\] 다른 병들과 나타나는 증상이 유사하기 때문에 혈액 배양 검사 등을 실시한다.
+소아의 경우 감염이 되어도 [무증상](../Page/무증상보균자.md "wikilink")(6세 이하에서 약 50%가 무증상)이 될 수 있는데 무증상 기간에도 전염이 가능하다.\[9\] 감염자의 연령이 높아질수록 [황달](../Page/황달.md "wikilink") 등 바이러스 간염의 임상 증상 발현율이 높아지고 심해지는 경향이 있다.\[10\] 다른 병들과 나타나는 증상이 유사하기 때문에 혈액 배양 검사 등을 실시한다.
 
 ## 간염의 종류와 치료
 

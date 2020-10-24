@@ -12,7 +12,7 @@
 5.  All Too Well
 6.  [22](../Page/22.md "wikilink")
 7.  I Almost Do
-8.  [We Are Never Ever Getting Back Together](https://ko.wikipedia.org/wiki/We_Are_Never_Ever_Getting_Back_Together "wikilink")
+8.  [We Are Never Ever Getting Back Together](../Page/We_Are_Never_Ever_Getting_Back_Together.md "wikilink")
 9.  Stay Stay Stay
 10. The Last Time
 11. Holy Ground

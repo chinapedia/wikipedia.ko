@@ -23,7 +23,7 @@
 
   - [화상 회의](../Page/화상_회의.md "wikilink")
   - [전기통신 기술](https://ko.wikipedia.org/wiki/전기통신_기술 "wikilink")
-  - [화상 통화](https://ko.wikipedia.org/wiki/화상_통화 "wikilink")
+  - [화상 통화](../Page/화상_통화.md "wikilink")
   - [음성 인터넷 프로토콜](../Page/음성_인터넷_프로토콜.md "wikilink")
 
 ## 각주
