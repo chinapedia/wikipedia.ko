@@ -941,7 +941,7 @@
       - Express Love / [Mega NRG Man](../Page/토마스_마린.md "wikilink")
       - Crazy For Your Love / [Morris](https://ko.wikipedia.org/wiki/마우리치오_디_조리오 "wikilink")
 16. AE86 vs GT4(CELICA GT-FOUR) - 아키나, DOWNHILL, SNOW, NIGHT
-      - Dancin' In My Dreams / [J.Storm](https://ko.wikipedia.org/wiki/파비오_리오네 "wikilink")
+      - Dancin' In My Dreams / [J.Storm](../Page/파비오_리오네.md "wikilink")
 17. AE86 vs FC3S - 아카기, DOWNHILL, DRY, NIGHT
       - Generation / [Dave Simon](https://ko.wikipedia.org/wiki/시몬_발레오 "wikilink")
 18. 엔딩 BGM

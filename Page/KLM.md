@@ -32,7 +32,7 @@
 </ul></td>
 <td><ul>
 <li><a href="https://ko.wikipedia.org/wiki/사우디아_항공" title="wikilink">사우디아 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
-<li><a href="https://ko.wikipedia.org/wiki/샤먼_항공" title="wikilink">샤먼 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
+<li><a href="../Page/샤먼_항공.md" title="wikilink">샤먼 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
 <li><a href="../Page/쓰촨_항공.md" title="wikilink">쓰촨 항공</a></li>
 <li><a href="../Page/시티제트.md" title="wikilink">시티제트</a></li>
 <li><a href="../Page/아르헨티나_항공.md" title="wikilink">아르헨티나 항공</a> <small>(<a href="../Page/스카이팀.md" title="wikilink">스카이팀</a>)</small></li>
