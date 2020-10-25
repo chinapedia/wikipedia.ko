@@ -5,182 +5,27 @@
 
 [2019년](../Page/2019년.md "wikilink") [12월](../Page/12월.md "wikilink")에 아마미야를 비롯한 주요 스태프가 선보이는 완전 신작 애니메이션 《**SSSS.DYNAZENON**》(다이나제논)의 제작이 결정되었다.
 
-## 등장인물
-
-  - 히비키 유타(響裕太)
-
-<!-- end list -->
-
-  -
-    성우: [히로세 유야](https://ko.wikipedia.org/wiki/히로세_유야 "wikilink")/[김명준](../Page/김명준_\(성우\).md "wikilink")
-
-<!-- end list -->
-
-  - 그리드맨
-
-<!-- end list -->
-
-  -
-    성우: [미도리카와 히카루](../Page/미도리카와_히카루.md "wikilink")/[김환진](../Page/김환진.md "wikilink")
-
-<!-- end list -->
-
-  - 우츠미 쇼(内海将)
-
-<!-- end list -->
-
-  -
-    성우: [사이토 소우마](https://ko.wikipedia.org/wiki/사이토_소우마 "wikilink")/[김현욱](../Page/김현욱_\(성우\).md "wikilink")
-
-<!-- end list -->
-
-  - 타카라다 릿카(宝多六花)
-
-<!-- end list -->
-
-  -
-    성우: 미야토모 유키/김유림
-
-<!-- end list -->
-
-  - 신조 아카네(新条アカネ)
-
-<!-- end list -->
-
-  -
-    성우: [우에다 레이나](../Page/우에다_레이나.md "wikilink")/[김하루](../Page/김하루.md "wikilink")
-
-<!-- end list -->
-
-  - 칼리부르 사무라이/사무라이 칼리버
-
-<!-- end list -->
-
-  -
-    성우: 타카하시 료스케/[정성훈](../Page/정성훈_\(성우\).md "wikilink")
-
-<!-- end list -->
-
-  - 맥스
-
-<!-- end list -->
-
-  -
-    성우: [코니시 카츠유키](../Page/코니시_카츠유키.md "wikilink")/[시영준](../Page/시영준.md "wikilink")
-
-<!-- end list -->
-
-  - 보르(Borr)
-
-<!-- end list -->
-
-  -
-    성우: [유우키 아오이](../Page/유우키_아오이.md "wikilink")/[서다혜](../Page/서다혜.md "wikilink")
-
-<!-- end list -->
-
-  - 비트(Vit)
-
-<!-- end list -->
-
-  -
-    성우: [마츠카제 마사야](../Page/마츠카제_마사야.md "wikilink")/[정주원](../Page/정주원.md "wikilink")
-
-<!-- end list -->
-
-  - 안티/그리드 나이트
-
-<!-- end list -->
-
-  -
-    성우: [스즈무라 켄이치](../Page/스즈무라_켄이치.md "wikilink")/[남도형](../Page/남도형.md "wikilink")
-
-<!-- end list -->
-
-  - 엘릭스 케리브(ALEXIS・KERIB)/알렉시스
-
-<!-- end list -->
-
-  -
-    성우: 이나다 토오루/[민응식](../Page/민응식.md "wikilink")
-
-<!-- end list -->
-
-  - 아먀토(やまと)
-
-<!-- end list -->
-
-  -
-    성우: 이토 켄토/[신용우](../Page/신용우_\(성우\).md "wikilink")
-
-<!-- end list -->
-
-  - 이마이(今井)
-
-<!-- end list -->
-
-  -
-    성우: 쿠마가이 켄타로/[김혜성](../Page/김혜성_\(성우\).md "wikilink")
-
-<!-- end list -->
-
-  - 타카토(タカト)
-
-<!-- end list -->
-
-  -
-    성우: [에노키 준야](https://ko.wikipedia.org/wiki/에노키_준야 "wikilink")/[이경태](../Page/이경태_\(성우\).md "wikilink")
-
-<!-- end list -->
-
-  - 아리이(有井)
-
-<!-- end list -->
-
-  -
-    성우: [스즈키 료타](https://ko.wikipedia.org/wiki/스즈키_료타 "wikilink")/[홍범기](../Page/홍범기.md "wikilink")
-
-<!-- end list -->
-
-  - 괴수 소녀
-
-<!-- end list -->
-
-  -
-    성우: 타카하시 카린/[김서영](../Page/김서영_\(성우\).md "wikilink")
-
-<!-- end list -->
-
-  - 릿카 엄마
-
-<!-- end list -->
-
-  -
-    성우: 산타니 마유미/[강시현](../Page/강시현.md "wikilink")
-
-<!-- end list -->
-
-  - 나미코(なみこ)
-
-<!-- end list -->
-
-  -
-    성우: [미모리 스즈코](../Page/미모리_스즈코.md "wikilink")/[서다혜](../Page/서다혜.md "wikilink")
-
-<!-- end list -->
-
-  - 핫스(はっす)
-
-<!-- end list -->
-
-  -
-    성우: 키토 아카리/[강시현](../Page/강시현.md "wikilink")
-
-<!-- end list -->
-
-  - 그 밖
-      - [이다은](../Page/이다은.md "wikilink"): 마루산, 톤카와 사키루
-      - [석승훈](../Page/석승훈.md "wikilink"): 하야카와
+## 한국어판 목소리 출연\[1\]
+
+  - [김환진](../Page/김환진.md "wikilink"): 그리드맨
+  - [김명준](../Page/김명준_\(성우\).md "wikilink"): 히비키 유타
+  - [김현욱](../Page/김현욱_\(성우\).md "wikilink"): 우츠미 쇼
+  - 김유림: 타카라다 릿카
+  - [김하루](../Page/김하루.md "wikilink"): 신조 아카네
+  - [정성훈](../Page/정성훈_\(성우\).md "wikilink"): 사무라이 칼리버
+  - [시영준](../Page/시영준.md "wikilink"): 맥스
+  - [서다혜](../Page/서다혜.md "wikilink"): 보르(Borr), 나미코
+  - [정주원](../Page/정주원.md "wikilink"): 비트(Vit)
+  - [남도형](../Page/남도형.md "wikilink"): 안티(=그리드 나이트)
+  - [민응식](../Page/민응식.md "wikilink"): 알렉시스 케리브
+  - [신용우](../Page/신용우_\(성우\).md "wikilink"): 아먀토
+  - [김혜성](../Page/김혜성_\(성우\).md "wikilink"): 이마이
+  - [이경태](../Page/이경태_\(성우\).md "wikilink"): 타카토
+  - [홍범기](../Page/홍범기.md "wikilink"): 아리이
+  - [김서영](../Page/김서영_\(성우\).md "wikilink"): 괴수 소녀
+  - [강시현](../Page/강시현.md "wikilink"): 릿카 엄마, 핫스
+  - [이다은](../Page/이다은.md "wikilink"): 마루산, 톤카와 사키루
+  - [석승훈](../Page/석승훈.md "wikilink"): 하야카와
 
 ## 외부 링크
 
@@ -192,4 +37,8 @@
 
   -
   -
+## 각주
+
 [분류:일본의 오리지널 애니메이션](https://ko.wikipedia.org/wiki/분류:일본의_오리지널_애니메이션 "wikilink") [분류:2018년 애니메이션](https://ko.wikipedia.org/wiki/분류:2018년_애니메이션 "wikilink") [분류:WOWOW 애니메이션](https://ko.wikipedia.org/wiki/분류:WOWOW_애니메이션 "wikilink") [분류:마이니치 방송의 심야 애니메이션](https://ko.wikipedia.org/wiki/분류:마이니치_방송의_심야_애니메이션 "wikilink") [분류:쓰부라야 프로덕션](https://ko.wikipedia.org/wiki/분류:쓰부라야_프로덕션 "wikilink") [분류:울트라 슈퍼 픽쳐스](https://ko.wikipedia.org/wiki/분류:울트라_슈퍼_픽쳐스 "wikilink") [분류:포니캐년의 애니메이션](https://ko.wikipedia.org/wiki/분류:포니캐년의_애니메이션 "wikilink") [분류:거인을 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:거인을_소재로_한_작품 "wikilink") [분류:변신 히어로](https://ko.wikipedia.org/wiki/분류:변신_히어로 "wikilink") [분류:괴수를 소재로 한 작품](https://ko.wikipedia.org/wiki/분류:괴수를_소재로_한_작품 "wikilink")
+
+1.  블루레이 발매판 기준

@@ -8,7 +8,7 @@
 ## 사회자
 
   - [우치무라 테루요시](../Page/우치무라_테루요시.md "wikilink"): [일본](../Page/일본.md "wikilink")의 남성 [코미디언](https://ko.wikipedia.org/wiki/코미디언 "wikilink")이자 [배우](../Page/배우.md "wikilink"), [영화 감독](../Page/영화_감독.md "wikilink")
-  - [구와코 마호](https://ko.wikipedia.org/wiki/구와코_마호 "wikilink"): [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink") 아나운서
+  - [쿠와코 마호](https://ko.wikipedia.org/wiki/쿠와코_마호 "wikilink"): [NHK](https://ko.wikipedia.org/wiki/NHK "wikilink") 아나운서
   - 홍팀:[히로세 스즈](../Page/히로세_스즈.md "wikilink"): [일본](../Page/일본.md "wikilink")의 [패션 모델](https://ko.wikipedia.org/wiki/패션_모델 "wikilink") 겸 [배우](../Page/배우.md "wikilink")
   - 백팀:[사쿠라이 쇼](../Page/사쿠라이_쇼.md "wikilink"): [일본](../Page/일본.md "wikilink")의 가수 겸 배우, 일본 아이돌 그룹 [아라시](../Page/아라시.md "wikilink")의 메인래퍼 및 서브보컬
 
@@ -68,7 +68,7 @@
       - [케야키자카46](https://ko.wikipedia.org/wiki/케야키자카46 "wikilink") (3) 〈ガラスを割れ！〉
       - [니시노 카나](../Page/니시노_카나.md "wikilink") (9) 〈[トリセツ](../Page/취급_설명서_\(노래\).md "wikilink")〉
       - [노기자카46](../Page/노기자카46.md "wikilink") (4) 〈[帰り道は遠回りしたくなる](../Page/돌아오는_길은_멀리_돌아서_가고_싶어져.md "wikilink")〉
-      - [트와이스](https://ko.wikipedia.org/wiki/트와이스 "wikilink") (2) 〈紅白メドレー2018〉
+      - [트와이스](../Page/트와이스.md "wikilink") (2) 〈紅白メドレー2018〉
       - [Superfly](../Page/Superfly_\(밴드\).md "wikilink") (3) 〈Gifts〉
       - [aiko](https://ko.wikipedia.org/wiki/aiko "wikilink") (13) 〈カブトムシ〉
       - [마츠다 세이코](../Page/마츠다_세이코.md "wikilink") (22) 〈SEIKO DREAM MEDLEY 2018〉

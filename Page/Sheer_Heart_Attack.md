@@ -13,7 +13,7 @@
 
 1974년 10월 30일부터 1975년 5월 1일까지 이 음반은 투어에서 홍보되었다. 투어는 3개의 다리와 77개의 개인 쇼로 구성되었으며, 밴드의 첫 월드 투어였다.
 
-조연 밴드는 [스틱스](https://ko.wikipedia.org/wiki/스틱스_\(밴드\) "wikilink"), [캔자스](https://ko.wikipedia.org/wiki/캔자스_\(밴드\) "wikilink"), 허슬러, [마호가니 러시로](https://ko.wikipedia.org/wiki/마호가니_러시 "wikilink") 구성되어 있었다.
+조연 밴드는 [스틱스](https://ko.wikipedia.org/wiki/스틱스_\(밴드\) "wikilink"), [캔자스](../Page/캔자스_\(밴드\).md "wikilink"), 허슬러, [마호가니 러시로](https://ko.wikipedia.org/wiki/마호가니_러시 "wikilink") 구성되어 있었다.
 
 ## 곡 목록
 

@@ -1,7 +1,7 @@
 > This article is converted from Wikipedia: [Zooropa](https://ko.wikipedia.org/wiki/Zooropa).
 
 
-《**Zooropa**》는 [아일랜드](../Page/아일랜드.md "wikilink")의 록 밴드 [U2](../Page/U2.md "wikilink")의 여덟 번째 스튜디오 음반이다. [플러드](https://ko.wikipedia.org/wiki/플러드_\(음악가\) "wikilink"), [브라이언 이노](../Page/브라이언_이노.md "wikilink"), [디 에지가](https://ko.wikipedia.org/wiki/디_에지 "wikilink") 제작한 이 음반은 1993년 7월 5일 [아일랜드 레코드에서](../Page/아일랜드_레코드.md "wikilink") 발매되었다. 《Zooropa》는 [Zoo TV Tour에](https://ko.wikipedia.org/wiki/Zoo_TV_Tour "wikilink") 대한 밴드의 경험에서 영감을 받아 많은 기술 및 미디어 과잉이라는 테마로 확장되었다. 이 음반은 1991년 이전 음반인 《[Achtung Baby](../Page/Achtung_Baby.md "wikilink")》로 시작한 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink"), [일렉트로닉 댄스 뮤직](https://ko.wikipedia.org/wiki/일렉트로닉_댄스_뮤직 "wikilink"), 일렉트로닉 사운드 효과의 연속이었다.
+《**Zooropa**》는 [아일랜드](../Page/아일랜드.md "wikilink")의 록 밴드 [U2](../Page/U2.md "wikilink")의 여덟 번째 스튜디오 음반이다. [플러드](https://ko.wikipedia.org/wiki/플러드_\(음악가\) "wikilink"), [브라이언 이노](../Page/브라이언_이노.md "wikilink"), [디 에지가](https://ko.wikipedia.org/wiki/디_에지 "wikilink") 제작한 이 음반은 1993년 7월 5일 [아일랜드 레코드에서](../Page/아일랜드_레코드.md "wikilink") 발매되었다. 《Zooropa》는 [Zoo TV Tour에](https://ko.wikipedia.org/wiki/Zoo_TV_Tour "wikilink") 대한 밴드의 경험에서 영감을 받아 많은 기술 및 미디어 과잉이라는 테마로 확장되었다. 이 음반은 1991년 이전 음반인 《[Achtung Baby](../Page/Achtung_Baby.md "wikilink")》로 시작한 [얼터너티브 록](../Page/얼터너티브_록.md "wikilink"), [일렉트로닉 댄스 뮤직](../Page/일렉트로닉_댄스_뮤직.md "wikilink"), 일렉트로닉 사운드 효과의 연속이었다.
 
 ## 곡 목록
 

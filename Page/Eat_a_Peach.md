@@ -11,6 +11,4 @@
 
 ## 각주
 
-## 외부 링크
-
 [분류:1972년 음반](https://ko.wikipedia.org/wiki/분류:1972년_음반 "wikilink") [분류:1972년 라이브 음반](https://ko.wikipedia.org/wiki/분류:1972년_라이브_음반 "wikilink") [분류:올맨 브라더스 밴드의 음반](https://ko.wikipedia.org/wiki/분류:올맨_브라더스_밴드의_음반 "wikilink") [분류:올맨 브라더스 밴드의 라이브 음반](https://ko.wikipedia.org/wiki/분류:올맨_브라더스_밴드의_라이브_음반 "wikilink")
